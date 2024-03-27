@@ -33,21 +33,24 @@ def extract_image_from_image(image_layout, page_image, image_cleaning_pipeline=[
 
 # decide reading order of paragraphs
 def reorganize_layout(paragraph_layout):
-    x_coords = np.array([t.block.x_1 for t in paragraph_layout])
-    y_coords = np.array([t.block.y_1 for t in paragraph_layout]) / 10
-    coords = np.vstack((x_coords, y_coords)).T
-    idxs = np.arange(len(paragraph_layout))
-    model = sklearn.mixture.BayesianGaussianMixture(n_components=2).fit(coords)
-    membership = model.predict(coords).reshape(-1)
-    clusters = []
-    x_centroids = []
-    for m in np.unique(membership):
-        x_centroids.append(np.mean(x_coords[membership == m]))
-        clusters.append(idxs[membership == m][np.argsort(y_coords[membership == m])])
-    clusters = [clusters[i] for i in np.argsort(np.array(x_centroids))]
-    reordered_idxs = np.hstack(clusters)
-    paragraph_layout = [paragraph_layout[i] for i in reordered_idxs]
-    return paragraph_layout
+    try:
+        x_coords = np.array([t.block.x_1 for t in paragraph_layout])
+        y_coords = np.array([t.block.y_1 for t in paragraph_layout]) / 10
+        coords = np.vstack((x_coords, y_coords)).T
+        idxs = np.arange(len(paragraph_layout))
+        model = sklearn.mixture.BayesianGaussianMixture(n_components=2).fit(coords)
+        membership = model.predict(coords).reshape(-1)
+        clusters = []
+        x_centroids = []
+        for m in np.unique(membership):
+            x_centroids.append(np.mean(x_coords[membership == m]))
+            clusters.append(idxs[membership == m][np.argsort(y_coords[membership == m])])
+        clusters = [clusters[i] for i in np.argsort(np.array(x_centroids))]
+        reordered_idxs = np.hstack(clusters)
+        paragraph_layout = [paragraph_layout[i] for i in reordered_idxs]
+        return paragraph_layout
+    except:
+        return paragraph_layout
 
 
 # I will say that the caption is the text box with centroid
