@@ -53,19 +53,27 @@ for file in os.listdir(pdf_path):
         except(FileExistsError):
             print("this path already exists, skipping...")
             continue
+        try:
+            output_text, output_images, figure_captions = analyze_pdf(os.path.join(pdf_path, pdffile_name), layout_model, text_model, image_cleaning_pipeline, text_cleaning_pipeline)
 
-        output_text, output_images, figure_captions = analyze_pdf(os.path.join(pdf_path, pdffile_name), layout_model, text_model, image_cleaning_pipeline, text_cleaning_pipeline)
+            with open(os.path.join(current_dir, 'text.txt'), 'w') as f:
+                f.write(' '.join(output_text))
 
-        with open(os.path.join(current_dir, 'text.txt'), 'w') as f:
-            f.write(' '.join(output_text))
+            with open(os.path.join(current_dir, 'captions.txt'), 'w') as f:
+                f.write('\n'.join(figure_captions))
 
-        with open(os.path.join(current_dir, 'captions.txt'), 'w') as f:
-            f.write('\n'.join(figure_captions))
+            for i, im in enumerate(output_images):
+                Image.fromarray(im).save(os.path.join(current_dir, 'figure{}.png'.format(i)))
 
-        for i, im in enumerate(output_images):
-            Image.fromarray(im).save(os.path.join(current_dir, 'figure{}.png'.format(i)))
-
-        shutil.copy(os.path.join(pdf_path, pdffile_name), os.path.join(current_dir, pdffile_name))
+            shutil.copy(os.path.join(pdf_path, pdffile_name), os.path.join(current_dir, pdffile_name))
+        except KeyboardInterrupt:
+            sys.exit() # lol
+        except:
+            print("{} failed.".format(pdffile_name))
+            shutil.rmtree(current_dir)
+            with open('failed.txt', 'a') as f:
+                f.write(pdffile_name)
+        
     else:
         continue
 

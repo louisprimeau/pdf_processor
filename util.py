@@ -58,6 +58,7 @@ def reorganize_layout(paragraph_layout):
 def associate_captions(paragraph_layout, image_layout):
     text_centroids = [((block.block.x_1 + block.block.x_2)/2, (block.block.y_1 + block.block.y_2)/2) for block in paragraph_layout]
     image_bottom_centers = [((block.block.x_1 + block.block.x_2)/2, block.block.y_2) for block in image_layout]
+       
     # forget vectorization
 
     caption_idxs = list(range(len(image_bottom_centers)))
@@ -68,8 +69,9 @@ def associate_captions(paragraph_layout, image_layout):
             if r < min_r:
                 caption_idxs[i] = j
                 min_r = r
-    return [paragraph_layout[j] for j in caption_idxs], \
-           [paragraph_layout[j] for j in range(len(paragraph_layout)) if j not in caption_idxs]
+
+    return [paragraph_layout[j] for j in caption_idxs[:len(paragraph_layout)]], \
+           [paragraph_layout[j] for j in range(len(paragraph_layout)) if j not in caption_idxs[:len(paragraph_layout)]]
             
     
 
