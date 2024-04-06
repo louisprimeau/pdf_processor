@@ -41,6 +41,8 @@ try:
 except(FileExistsError):
     pass
 
+
+# walk through all subdirectories of root_path
 root_path = "data/magnet/"
 for pdf_path, directories, files in os.walk(root_path):
     for file in files:
@@ -48,29 +50,43 @@ for pdf_path, directories, files in os.walk(root_path):
         if pdffile_name.endswith('.pdf'):
             print(pdffile_name)
             current_dir = os.path.join(write_directory, os.path.splitext(pdffile_name)[0])
+
+            #check if pdf has already been processed
             try:
                 os.mkdir(current_dir)
             except(FileExistsError):
                 print("this path already exists, skipping...")
                 continue
-            try:
+
+            # run extraction
+            try:    
                 output_text, output_images, figure_captions = analyze_pdf(os.path.join(pdf_path, pdffile_name), layout_model, text_model, image_cleaning_pipeline, text_cleaning_pipeline)
 
+                # output text
                 with open(os.path.join(current_dir, 'text.txt'), 'w') as f:
                     f.write(' '.join(output_text))
 
+                # output captions
                 with open(os.path.join(current_dir, 'captions.txt'), 'w') as f:
                     f.write('\n'.join(figure_captions))
 
+                # write out images
                 for i, im in enumerate(output_images):
                     Image.fromarray(im).save(os.path.join(current_dir, 'figure{}.png'.format(i)))
 
+                # copy pdf to target directory
                 shutil.copy(os.path.join(pdf_path, pdffile_name), os.path.join(current_dir, pdffile_name))
+
+            # If an exception occurs, delete the working output dir
+
+            # quit if keyboard interrupt
             except KeyboardInterrupt:
                 shutil.rmtree(current_dir)
                 with open('failed.txt', 'a') as f:
                     f.write(pdffile_name)
                 sys.exit() # lol
+
+            # keep going if other kind of error, write filename to failed.txt
             except:
                 print("{} failed.".format(pdffile_name))
                 shutil.rmtree(current_dir)
@@ -79,6 +95,3 @@ for pdf_path, directories, files in os.walk(root_path):
 
         else:
             continue
-
-text_cleaning_pipeline = [merge_line_texts, format_math_whitespace, replace_hyphen_spaces, replace_common_unicode]
-
