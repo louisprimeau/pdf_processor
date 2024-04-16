@@ -21,3 +21,11 @@ def replace_hyphen_spaces(string):
 # replace lookalike unicode to ascii
 def replace_common_unicode(string):
     return unidecode(string, errors='ignore')
+
+
+def filter_paragraphs_keywords(text_list, keywords):
+    out = []
+    for paragraph in text_list:
+        if any(keyword in paragraph for keyword in keywords):
+            out.append(paragraph)
+    return out

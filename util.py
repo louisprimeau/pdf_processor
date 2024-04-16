@@ -33,6 +33,11 @@ def extract_image_from_image(image_layout, page_image, image_cleaning_pipeline=[
 
 # decide reading order of paragraphs
 def reorganize_layout(paragraph_layout):
+
+
+
+
+
     try:
         x_coords = np.array([t.block.x_1 for t in paragraph_layout])
         y_coords = np.array([t.block.y_1 for t in paragraph_layout]) / 10

@@ -53,3 +53,28 @@ def analyze_pdf(path, layout_model, text_model,
         figure_captions += page_captions
 
     return output_text, output_images, figure_captions
+
+def extract_text(path, layout_model, text_model, image_cleaning_pipeline=[], text_cleaning_pipeline=[]):
+
+    # convert pdf to image arrays
+    page_images = [np.array(page_image) for page_image in convert_from_path(path, dpi=500)]
+
+    # for each page
+    output_text  = []
+    for i, page_image in enumerate(page_images[0:]):
+
+        # get paragraph, figure layout
+        raw_layout = layout_model.detect(page_image)
+
+        paragraph_layout = [block for block in raw_layout if block.type=='Text']
+        
+        # run text extraction on paragraph regions
+        page_text = extract_text_from_image(text_model,
+                                            paragraph_layout,
+                                            page_image,
+                                            image_cleaning_pipeline,
+                                            text_cleaning_pipeline)
+        
+        output_text += page_text
+
+    return output_text
