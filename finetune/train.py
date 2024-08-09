@@ -6,6 +6,7 @@ from trl import SFTTrainer, SFTConfig
 import transformers
 import torch
 import json
+from accelerate import Accelerator
 
 SYS_PROMPT = """You are an assistant for answering questions.
 You are given the extracted parts of a long document and a question. Don't make up an answer."""
@@ -14,7 +15,10 @@ model_id = "meta-llama/Meta-Llama-3.1-8B-Instruct"
 
 # use quantization to lower GPU usage                                                
 bnb_config = BitsAndBytesConfig(
-    load_in_4bit=True, bnb_4bit_use_double_quant=True, bnb_4bit_quant_type="nf4", bnb_4bit_compute_dtype=torch.bfloat16
+    load_in_4bit=True,
+    bnb_4bit_use_double_quant=True,
+    bnb_4bit_quant_type="nf4",
+    bnb_4bit_compute_dtype=torch.bfloat16
 )
 
 tokenizer = AutoTokenizer.from_pretrained(model_id)
@@ -25,7 +29,7 @@ tokenizer.padding_side = "right"
 model = AutoModelForCausalLM.from_pretrained(
     model_id,
     torch_dtype=torch.bfloat16,
-    device_map="auto",
+    device_map={"": PartialState().process_index},
     quantization_config=bnb_config,
     attn_implementation="eager",
 )
@@ -50,7 +54,7 @@ model.print_trainable_parameters()
 output_model="llama3.18B-finetunedlp"
 
 sft_config = SFTConfig(packing=False,
-                       max_seq_length=16384,
+                       max_seq_length=1024,
                        output_dir=output_model,
                        per_device_train_batch_size=1,
                        per_device_eval_batch_size=1,
@@ -63,13 +67,13 @@ sft_config = SFTConfig(packing=False,
                        logging_steps=10,
                        max_steps=250,
                        fp16=False,
-                       bf16=False,
+                       bf16=True,
                        push_to_hub=False,
                        report_to="none",
                        )
 
 
-trainer = SFTTrainer(
+trainer = accelerator.prepare(SFTTrainer(
         model=model,
         train_dataset=data["train"],
         eval_dataset=data["validation"],
