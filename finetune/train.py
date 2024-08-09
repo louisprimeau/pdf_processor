@@ -19,13 +19,15 @@ bnb_config = BitsAndBytesConfig(
 
 tokenizer = AutoTokenizer.from_pretrained(model_id)
 
-tokenizer.add_special_tokens({'pad_token': '[PAD]'})
+tokenizer.add_special_tokens({'pad_token': '<|finetune_right_pad_id|>'})
+tokenizer.padding_side = "right"
 
 model = AutoModelForCausalLM.from_pretrained(
     model_id,
     torch_dtype=torch.bfloat16,
     device_map="auto",
-    quantization_config=bnb_config
+    quantization_config=bnb_config,
+    attn_implementation="eager",
 )
 
 model.resize_token_embeddings(len(tokenizer))
@@ -35,63 +37,33 @@ terminators = [
     tokenizer.convert_tokens_to_ids("<|eot_id|>")
 ]
 
-def format_prompt(prompt, paper_text):
-    PROMPT = f"Question: {prompt}\nContext: " + paper_text
-    return PROMPT
-
-def generate(example_dict):
-
-    sys_prompt = "You are a helpful assistant. You will answer questions about the following paper: {}".format(example_dict['paper_dict'])
-
-    formatted_prompt = "{} Just answer the question separated by commas. Do not attempt to explain your answer. If you do not know the answer, write NA.".format(example_dict['question'])
-    
-    messages = [{"role":"system","content": sys_prompt},
-                {"role":"user","content": formatted_prompt}]
-    # tell the model to generate                                                       
-    input_ids = tokenizer.apply_chat_template(
-        messages,
-        add_generation_prompt=True,
-        return_tensors="pt"
-    ).to(model.device)
-
-    outputs = model.generate(
-        input_ids,
-        max_new_tokens=128,
-        eos_token_id=terminators,
-        do_sample=False, #temperature=0.6, top_p=0.9,
-    )
-
-    #response = outputs[0][input_ids.shape[-1]:]
-    response = outputs[0]
-    
-    return tokenizer.decode(response, skip_special_tokens=True)
-
 data = datasets.load_dataset('/home/louis/research/pdf_processor/finetune/superconductivity_dataset', 'train')
 
 peft_config = LoraConfig(
     r=8, lora_alpha=16, lora_dropout=0.05, bias="none", task_type="CAUSAL_LM"
     )
 
-
 model = get_peft_model(model, peft_config)
+
 model.print_trainable_parameters()
 
 output_model="llama3.18B-finetunedlp"
 
-
 sft_config = SFTConfig(packing=False,
-                       max_seq_length=512,
-                       output_dir="/tmp",
-                       per_device_train_batch_size=4,
-                       gradient_accumulation_steps=16,
+                       max_seq_length=16384,
+                       output_dir=output_model,
+                       per_device_train_batch_size=1,
+                       per_device_eval_batch_size=1,
+                       gradient_accumulation_steps=1,
                        optim="paged_adamw_32bit",
                        learning_rate=2e-4,
                        lr_scheduler_type="cosine",
-                       save_strategy="epoch",
+                       save_strategy="steps",
+                       save_steps=0.1,
                        logging_steps=10,
-                       num_train_epochs=3,
                        max_steps=250,
-                       fp16=True,
+                       fp16=False,
+                       bf16=False,
                        push_to_hub=False,
                        report_to="none",
                        )
@@ -100,9 +72,12 @@ sft_config = SFTConfig(packing=False,
 trainer = SFTTrainer(
         model=model,
         train_dataset=data["train"],
+        eval_dataset=data["validation"],
         peft_config=peft_config,
         args=sft_config,
         tokenizer=tokenizer,
     )
 
 trainer.train()
+trainer.model.save_pretrained(output_model)
+tokenizer.save_pretrained(output_model)
