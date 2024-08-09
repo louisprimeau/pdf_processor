@@ -27,6 +27,9 @@ model = AutoModelForCausalLM.from_pretrained(
     device_map="auto",
     quantization_config=bnb_config
 )
+
+model.resize_token_embeddings(len(tokenizer))
+
 terminators = [
     tokenizer.eos_token_id,
     tokenizer.convert_tokens_to_ids("<|eot_id|>")
