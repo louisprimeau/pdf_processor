@@ -6,7 +6,7 @@ from trl import SFTTrainer, SFTConfig
 import transformers
 import torch
 import json
-from accelerate import Accelerator
+from accelerate import Accelerator, PartialState
 
 SYS_PROMPT = """You are an assistant for answering questions.
 You are given the extracted parts of a long document and a question. Don't make up an answer."""
@@ -41,7 +41,7 @@ terminators = [
     tokenizer.convert_tokens_to_ids("<|eot_id|>")
 ]
 
-data = datasets.load_dataset('/home/louis/research/pdf_processor/finetune/superconductivity_dataset', 'train')
+data = datasets.load_dataset('/lustre/isaac/proj/UTK0254/lp/pdf_processor/finetune/superconductivity_dataset/', 'train', trust_remote_code=True)
 
 peft_config = LoraConfig(
     r=8, lora_alpha=16, lora_dropout=0.05, bias="none", task_type="CAUSAL_LM"
@@ -56,9 +56,9 @@ output_model="llama3.18B-finetunedlp"
 sft_config = SFTConfig(packing=False,
                        max_seq_length=1024,
                        output_dir=output_model,
-                       per_device_train_batch_size=1,
+                       per_device_train_batch_size=4,
                        per_device_eval_batch_size=1,
-                       gradient_accumulation_steps=1,
+                       gradient_accumulation_steps=4,
                        optim="paged_adamw_32bit",
                        learning_rate=2e-4,
                        lr_scheduler_type="cosine",
@@ -73,7 +73,7 @@ sft_config = SFTConfig(packing=False,
                        )
 
 
-trainer = accelerator.prepare(SFTTrainer(
+trainer = SFTTrainer(
         model=model,
         train_dataset=data["train"],
         eval_dataset=data["validation"],
