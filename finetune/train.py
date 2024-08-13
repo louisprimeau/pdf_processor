@@ -1,4 +1,3 @@
-
 from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig, TrainingArguments
 import datasets
 from peft import get_peft_model, LoraConfig, TaskType
@@ -6,10 +5,17 @@ from trl import SFTTrainer, SFTConfig
 import transformers
 import torch
 import json
+<<<<<<< HEAD
 from accelerate import Accelerator, PartialState
+=======
+from accelerate import PartialState
 
-SYS_PROMPT = """You are an assistant for answering questions.
-You are given the extracted parts of a long document and a question. Don't make up an answer."""
+import os
+
+os.environ["WANDB_PROJECT"] = "llama3.1-8B-superconductivity"
+os.environ["WANDB_LOG_MODEL"] = "checkpoint"
+>>>>>>> 20d196c09a275ac4d077165c8a4732cfe256ce6f
+
 
 model_id = "meta-llama/Meta-Llama-3.1-8B-Instruct"
 
@@ -23,9 +29,6 @@ bnb_config = BitsAndBytesConfig(
 
 tokenizer = AutoTokenizer.from_pretrained(model_id)
 
-tokenizer.add_special_tokens({'pad_token': '<|finetune_right_pad_id|>'})
-tokenizer.padding_side = "right"
-
 model = AutoModelForCausalLM.from_pretrained(
     model_id,
     torch_dtype=torch.bfloat16,
@@ -34,6 +37,8 @@ model = AutoModelForCausalLM.from_pretrained(
     attn_implementation="eager",
 )
 
+tokenizer.add_special_tokens({'pad_token': '<|finetune_right_pad_id|>'})
+tokenizer.padding_side = "right"
 model.resize_token_embeddings(len(tokenizer))
 
 terminators = [
@@ -44,7 +49,7 @@ terminators = [
 data = datasets.load_dataset('/lustre/isaac/proj/UTK0254/lp/pdf_processor/finetune/superconductivity_dataset/', 'train', trust_remote_code=True)
 
 peft_config = LoraConfig(
-    r=8, lora_alpha=16, lora_dropout=0.05, bias="none", task_type="CAUSAL_LM"
+    r=4, lora_alpha=16, lora_dropout=0.05, bias="none", task_type="CAUSAL_LM"
     )
 
 model = get_peft_model(model, peft_config)
@@ -55,6 +60,7 @@ output_model="llama3.18B-finetunedlp"
 
 sft_config = SFTConfig(packing=False,
                        max_seq_length=1024,
+                       num_train_epochs=10,
                        output_dir=output_model,
                        per_device_train_batch_size=4,
                        per_device_eval_batch_size=1,
@@ -63,25 +69,29 @@ sft_config = SFTConfig(packing=False,
                        learning_rate=2e-4,
                        lr_scheduler_type="cosine",
                        save_strategy="steps",
-                       save_steps=0.1,
-                       logging_steps=10,
-                       max_steps=250,
+                       save_steps=50,
+                       logging_steps=50,
                        fp16=False,
                        bf16=True,
                        push_to_hub=False,
-                       report_to="none",
+                       report_to="wandb",
                        )
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 20d196c09a275ac4d077165c8a4732cfe256ce6f
 trainer = SFTTrainer(
         model=model,
-        train_dataset=data["train"],
-        eval_dataset=data["validation"],
+        train_dataset=data["train"].select(range(1000)),
+        eval_dataset=data["validation"].select(range(1000)),
         peft_config=peft_config,
         args=sft_config,
         tokenizer=tokenizer,
     )
 
 trainer.train()
+trainer.save_model()
 trainer.model.save_pretrained(output_model)
 tokenizer.save_pretrained(output_model)
+
