@@ -150,7 +150,7 @@ class SuperconductivityDataset(datasets.GeneratorBasedBuilder):
                  # Yields examples as (key, example) tuples
 
                 sys_prompt = "You are a helpful assistant. You will answer questions about the following paper: {}".format(paper_text)
-                formatted_prompt = "{} Just answer the question separated by commas. Do not attempt to explain your answer. If you do not know the answer, write NA.".format(data['question'])
+                formatted_prompt = "{} Just answer the question separated by commas. Do not attempt to explain your answer. If you do not know the answer, write NA. If there are multiple materials studied, list the properties for them in a comma separated list, e.g. X, Y".format(data['question'])
                 yield key, {"messages": [{"role":"system","content": sys_prompt},
                                          {"role":"user","content": formatted_prompt},
                                          {"role":"assistant", "content": data["answer"]},
