@@ -12,7 +12,6 @@ import os
 os.environ["WANDB_PROJECT"] = "llama3.1-8B-superconductivity"
 os.environ["WANDB_LOG_MODEL"] = "checkpoint"
 
-
 model_id = "meta-llama/Meta-Llama-3.1-8B-Instruct"
 
 # use quantization to lower GPU usage                                                
@@ -42,7 +41,7 @@ terminators = [
     tokenizer.convert_tokens_to_ids("<|eot_id|>")
 ]
 
-data = datasets.load_dataset('/home/louis/research/pdf_processor/finetune/superconductivity_dataset', 'train')
+data = datasets.load_dataset('/home/louis/research/pdf_processor/finetune/superconductivity_dataset_cot', 'train')
 
 peft_config = LoraConfig(
     r=4, lora_alpha=16, lora_dropout=0.05, bias="none", task_type="CAUSAL_LM"
@@ -60,7 +59,7 @@ sft_config = SFTConfig(packing=False,
                        output_dir=output_model,
                        per_device_train_batch_size=1,
                        per_device_eval_batch_size=1,
-                       gradient_accumulation_steps=1,
+                       gradient_accumulation_steps=8,
                        optim="paged_adamw_32bit",
                        learning_rate=2e-4,
                        lr_scheduler_type="cosine",
@@ -75,8 +74,8 @@ sft_config = SFTConfig(packing=False,
 
 trainer = SFTTrainer(
         model=model,
-        train_dataset=data["train"].select(range(1000)),
-        eval_dataset=data["validation"].select(range(1000)),
+        train_dataset=data["train"],
+        eval_dataset=data["validation"], #.select(range(1000)),
         peft_config=peft_config,
         args=sft_config,
         tokenizer=tokenizer,
