@@ -47,10 +47,12 @@ _LICENSE = ""
 # TODO: Add link to the official dataset URLs here
 # The HuggingFace Datasets library doesn't host the datasets but only points to the original files.
 # This can be an arbitrary nested dict/list of URLs (see below in `_split_generators` method)
+
+_URL = "/lustre/isaac/proj/UTK0254/lp/superconductivity_dataset.zip"
 _URLS = {
-    "train": "/home/louis/data/superconductivity_dataset.zip",
-    "test": "/home/louis/data/superconductivity_dataset.zip",
-    "val": "/home/louis/data/superconductivity_dataset.zip",
+    "train": _URL,
+    "test": _URL,
+    "val": _URL,
 }
 
 class SuperconductivityDataset(datasets.GeneratorBasedBuilder):

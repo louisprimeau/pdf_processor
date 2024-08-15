@@ -5,12 +5,16 @@ from trl import SFTTrainer, SFTConfig
 import transformers
 import torch
 import json
+<<<<<<< HEAD
+from accelerate import Accelerator, PartialState
+=======
 from accelerate import PartialState
 
 import os
 
 os.environ["WANDB_PROJECT"] = "llama3.1-8B-superconductivity"
 os.environ["WANDB_LOG_MODEL"] = "checkpoint"
+>>>>>>> 20d196c09a275ac4d077165c8a4732cfe256ce6f
 
 model_id = "meta-llama/Meta-Llama-3.1-8B-Instruct"
 
@@ -41,7 +45,11 @@ terminators = [
     tokenizer.convert_tokens_to_ids("<|eot_id|>")
 ]
 
+<<<<<<< HEAD
 data = datasets.load_dataset('/home/louis/research/pdf_processor/finetune/superconductivity_dataset_cot', 'train')
+=======
+data = datasets.load_dataset('/lustre/isaac/proj/UTK0254/lp/pdf_processor/finetune/superconductivity_dataset/', 'train', trust_remote_code=True)
+>>>>>>> de38349ea2fb39261a02db36af2f4c16a60d98db
 
 peft_config = LoraConfig(
     r=4, lora_alpha=16, lora_dropout=0.05, bias="none", task_type="CAUSAL_LM"
@@ -57,9 +65,13 @@ sft_config = SFTConfig(packing=False,
                        max_seq_length=1024,
                        num_train_epochs=10,
                        output_dir=output_model,
-                       per_device_train_batch_size=1,
+                       per_device_train_batch_size=4,
                        per_device_eval_batch_size=1,
+<<<<<<< HEAD
                        gradient_accumulation_steps=8,
+=======
+                       gradient_accumulation_steps=4,
+>>>>>>> de38349ea2fb39261a02db36af2f4c16a60d98db
                        optim="paged_adamw_32bit",
                        learning_rate=2e-4,
                        lr_scheduler_type="cosine",
@@ -72,6 +84,10 @@ sft_config = SFTConfig(packing=False,
                        report_to="wandb",
                        )
 
+<<<<<<< HEAD
+
+=======
+>>>>>>> 20d196c09a275ac4d077165c8a4732cfe256ce6f
 trainer = SFTTrainer(
         model=model,
         train_dataset=data["train"],
