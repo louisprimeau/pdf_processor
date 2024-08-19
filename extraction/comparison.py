@@ -1,9 +1,9 @@
 import json
 import chemparse
 
-with open('/lustre/isaac/proj/UTK0254/lp/pdf_processor/extraction/run_70B_15000chars.json') as f:
+with open('/lustre/isaac/proj/UTK0254/lp/pdf_processor/extraction/output/run_llama3_1_70B_28000chars_nougat.json') as f:
     model_output = json.load(f)
-with open('/lustre/isaac/proj/UTK0254/lp/pdf_processor/extraction/database.json') as f:
+with open('/lustre/isaac/proj/UTK0254/lp/pdf_processor/extraction/output/database.json') as f:
     database = json.load(f)
 
 model_output = {key:model_output[key][:2] for key in model_output.keys()}
