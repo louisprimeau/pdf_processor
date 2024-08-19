@@ -3,7 +3,6 @@ import transformers
 import torch
 import json, sys, os
 
-
 def format_prompt(prompt, paper_text):
   PROMPT = f"Question: {prompt}\nContext: " + paper_text
   return PROMPT
@@ -29,7 +28,6 @@ def format_temperature_string(temp_list):
 
 def standard_chem_formula(dictionary):
     return ''.join(char for char in ''.join(key for key in sorted(dictionary.keys())) if char.isalpha() or char.isnumeric())
-
 
 SYS_PROMPT = """You are an assistant for answering questions.
 You are given the extracted parts of a long document and a question. Don't make up an answer."""
