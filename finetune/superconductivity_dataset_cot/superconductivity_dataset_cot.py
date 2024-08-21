@@ -47,6 +47,8 @@ _URLS = {
     "val": _URL,
 }
 
+_LICENCE = """blah blah blah"""
+
 class SuperconductivityDataset(datasets.GeneratorBasedBuilder):
     """TODO: Short description of my dataset."""
 
@@ -82,7 +84,6 @@ class SuperconductivityDataset(datasets.GeneratorBasedBuilder):
             description=_DESCRIPTION,
             features=features,
             homepage=_HOMEPAGE,
-            license=_LICENSE,
             citation=_CITATION,
         )
 
