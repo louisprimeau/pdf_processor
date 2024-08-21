@@ -21,37 +21,33 @@ import os
 import datasets
 
 
-# TODO: Add BibTeX citation
-# Find for instance the citation on arxiv or on the dataset repo/website
 _CITATION = """\
-@InProceedings{huggingface:dataset,
-title = {A great new dataset},
-author={huggingface, Inc.
-},
-year={2020}
+@InProceedings{supercon_dataset,
+title={MDR SuperCon Datasheet},
+author={Materials Database Group, National Institute for Materials Science},
+year={2022}
+doi={https://doi.org/10.48505/nims.3739}
 }
 """
 
-# TODO: Add description of the dataset here
-# You can copy an official description
 _DESCRIPTION = """\
 Set of question answer pairs derived from the SuperCon dataset.
 """
 
 # TODO: Add a link to an official homepage for the dataset here
-_HOMEPAGE = ""
-
-# TODO: Add the licence for the dataset here if you can find it
-_LICENSE = ""
+_HOMEPAGE = "https://doi.org/10.48505/nims.3739"
 
 # TODO: Add link to the official dataset URLs here
 # The HuggingFace Datasets library doesn't host the datasets but only points to the original files.
 # This can be an arbitrary nested dict/list of URLs (see below in `_split_generators` method)
+_URL = "/lustre/isaac/proj/UTK0254/lp/superconductivity_dataset_cot.zip"
 _URLS = {
-    "train": "/home/louis/data/superconductivity_dataset_cot.zip",
-    "test": "/home/louis/data/superconductivity_dataset_cot.zip",
-    "val": "/home/louis/data/superconductivity_dataset_cot.zip",
+    "train": _URL,
+    "test": _URL,
+    "val": _URL,
 }
+
+_LICENCE = """blah blah blah"""
 
 class SuperconductivityDataset(datasets.GeneratorBasedBuilder):
     """TODO: Short description of my dataset."""
@@ -77,35 +73,22 @@ class SuperconductivityDataset(datasets.GeneratorBasedBuilder):
 
 
     def _info(self):
-        # TODO: This method specifies the datasets.DatasetInfo object which contains informations and typings for the dataset
         features = datasets.Features(
                 {
-                    "messages": [{"content": datasets.Value(dtype="string", id=None), "role": datasets.Value(dtype="string", id=None)}]
+                    "messages": [{"content": datasets.Value(dtype="string", id=None),
+                                  "role": datasets.Value(dtype="string", id=None)}]
                 }
             )
+
         return datasets.DatasetInfo(
-            # This is the description that will appear on the datasets page.
             description=_DESCRIPTION,
-            # This defines the different columns of the dataset and their types
-            features=features,  # Here we define them above because they are different between the two configurations
-            # If there's a common (input, target) tuple from the features, uncomment supervised_keys line below and
-            # specify them. They'll be used if as_supervised=True in builder.as_dataset.
-            # supervised_keys=("sentence", "label"),
-            # Homepage of the dataset for documentation
+            features=features,
             homepage=_HOMEPAGE,
-            # License for the dataset if available
-            license=_LICENSE,
-            # Citation for the dataset
             citation=_CITATION,
         )
 
     def _split_generators(self, dl_manager):
-        # TODO: This method is tasked with downloading/extracting the data and defining the splits depending on the configuration
-        # If several configurations are possible (listed in BUILDER_CONFIGS), the configuration selected by the user is in self.config.name
-
-        # dl_manager is a datasets.download.DownloadManager that can be used to download and extract URLS
-        # It can accept any type or nested list/dict and will give back the same structure with the url replaced with path to local files.
-        # By default the archives will be extracted and a path to a cached folder where they are extracted is returned instead of the archive
+        
         urls = _URLS[self.config.name]
         data_dir = os.path.join(dl_manager.download_and_extract(urls), "superconductivity_dataset_cot")
 
@@ -141,12 +124,12 @@ class SuperconductivityDataset(datasets.GeneratorBasedBuilder):
 
     # method parameters are unpacked from `gen_kwargs` as given in `_split_generators`
     def _generate_examples(self, datapath, jsonlpath, split):
-        # TODO: This method handles input defined in _split_generators to yield (key, example) tuples from the dataset.
-        # The `key` is for legacy reasons (tfds) and is not important in itself, but must be unique for each example.
         with open(jsonlpath, encoding="utf-8") as f:
             for key, row in enumerate(f):
                 data = json.loads(row)
                 paper_text = open(os.path.join(datapath, data["doi"].split("/")[1], 'out.txt'), 'r').read()
+
+                # Defined here because it's helpful for playing with prompts. Will settle on a set prompt eventually. 
                 sys_prompt = "You are a helpful assistant. You will answer questions about the following paper: {}".format(paper_text)
                 guidelines = " Just answer the question separated by commas. Do not attempt to explain your answer. If you do not know the answer, write NA. If there are multiple materials studied, list the properties for them in a comma separated list, e.g. X, Y"
                 chat_history = [{"role":"system","content": sys_prompt}]
