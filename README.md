@@ -3,8 +3,7 @@ This repository is some scripts to process physics papers into text files and pa
 
 The different folders are:
 
-
-pdf_processor/
+old_pdf_pipeline/
 This uses some off the shelf models and heuristics to parse pdfs in a directory.
 
 The workflow is as follows:
@@ -24,7 +23,7 @@ The workflow is as follows:
 extraction/
 This loads a LLama3 LLM into memory and reads the text files in the directory printed. Then it outputs the results of the question, which can be checked against a reference.
 
-new_extraction/
+new_pdf_pipeline/
 This does the same thing as the pdf_processor but relies entirely on the Nougat OCR transformer.
 
 finetune/
