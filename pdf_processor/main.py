@@ -18,6 +18,8 @@ replace_hyphen_spaces, replace_common_unicode
 from util import *
 from better_ocr import analyze_pdf
 
+import VGTlocal
+
 #matplotlib.use('TkAgg')
 
 layout_model = lp.Detectron2LayoutModel('lp://PubLayNet/faster_rcnn_R_50_FPN_3x/config',
@@ -43,7 +45,7 @@ except(FileExistsError):
 
 
 # walk through all subdirectories of root_path
-root_path = "data/magnet/"
+root_path = "data/pdf/"
 for pdf_path, directories, files in os.walk(root_path):
     for file in files:
         pdffile_name = os.fsdecode(file)
@@ -60,7 +62,7 @@ for pdf_path, directories, files in os.walk(root_path):
 
             # run extraction
             try:    
-                output_text, output_images, figure_captions = analyze_pdf(os.path.join(pdf_path, pdffile_name), layout_model, text_model, image_cleaning_pipeline, text_cleaning_pipeline)
+                output_text, output_images, figure_captions, output_tables = analyze_pdf(os.path.join(pdf_path, pdffile_name), layout_model, text_model, image_cleaning_pipeline, text_cleaning_pipeline)
 
                 # output text
                 with open(os.path.join(current_dir, 'text.txt'), 'w') as f:
@@ -74,6 +76,12 @@ for pdf_path, directories, files in os.walk(root_path):
                 for i, im in enumerate(output_images):
                     Image.fromarray(im).save(os.path.join(current_dir, 'figure{}.png'.format(i)))
 
+
+                # write out tables
+                for i, table in enumerate(output_tables):
+                    with open(os.path.join(current_dir, 'table_{}.txt'.format(i)), 'w') as f:
+                        f.write(table)
+                    
                 # copy pdf to target directory
                 shutil.copy(os.path.join(pdf_path, pdffile_name), os.path.join(current_dir, pdffile_name))
 
