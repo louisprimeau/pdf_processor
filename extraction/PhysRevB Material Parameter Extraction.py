@@ -18,7 +18,8 @@ model = AutoModelForCausalLM.from_pretrained(
     model_id,
     torch_dtype=torch.bfloat16,
     device_map="auto",
-    quantization_config=bnb_config
+    quantization_config=bnb_config,
+  cache_dir="/lustre/isaac/proj/UTK0254/lp",
 )
 terminators = [
     tokenizer.eos_token_id,
@@ -58,7 +59,7 @@ import os
 answers = {}
 answers['questions'] = [formula_question, temp_question, field_question]
 
-paper_source_directory = '/home/louis/research/pdf_processor/processed_data/superconductivity_processed/'
+paper_source_directory = './processed_data/superconductivity_processed/'
 file_name = 'text.txt'
 
 for i, directory in enumerate(os.listdir(paper_source_directory)):

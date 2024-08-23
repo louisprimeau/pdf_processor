@@ -38,16 +38,6 @@ terminators = [
 
 
 
-
-
-
-
-
-
-
-
-
-
 def format_prompt(prompt,retrieved_documents,k):
 """using the retrieved documents we will prompt the model to generate our responses"""
   PROMPT = f"Question:{prompt}\nContext:"
