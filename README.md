@@ -34,3 +34,7 @@ Some preliminary work on improving OCR for latex.
 
 acquire_pdfs/
 Some example scripts for working with publisher APIs to collect papers. They are not particularly useful.
+
+chat/
+Simple streamlit chat
+![image](https://github.com/user-attachments/assets/f76bf78d-3abd-4bd3-ba13-c700e9122d5b)
