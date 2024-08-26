@@ -28,7 +28,7 @@ def standard_chem_formula(dictionary):
 
 SYS_PROMPT = """You are an assistant for answering questions. You are given the extracted parts of a long document and a question. Don't make up an answer."""
 
-temp_question = "What is the critical temperature at zero-field of {MATERIAL}? Just give a number and do not provide any explanation. Format the answer as CRITICAL TEMPERATURE: {Number} K. Do not write a sentence before the output. Here are some example outputs: 'CRITICAL TEMPERATURE: 3 K', 'CRITICAL TEMPERATURE: 15.6 K'"
+temp_question = "What is the critical temperature at zero-field of {MATERIAL}? Just give a number and do not provide any explanation. If the answer is not in the provided text, do not make up an answer or use your prior knowledge, simply write 'NA'. Format the answer as CRITICAL TEMPERATURE: {Number} K. Do not write a sentence before the output. Here are some example outputs: 'CRITICAL TEMPERATURE: 3 K', 'CRITICAL TEMPERATURE: 15.6 K', 'CRITICAL TEMPERATURE: NA"
 
 source_question = "Can you reproduce the exact sentence where you got this information? Do not make up a sentence or attempt to explain."
 
