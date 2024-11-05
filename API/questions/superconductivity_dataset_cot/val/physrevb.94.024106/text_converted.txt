@@ -1,0 +1,564 @@
+# Superconductivity in the ferromagnetic semiconductor samarium nitride
+
+E.-M. Anton,¹ S. Granville,² A. Engel,³ S. V. Chong,² M. Governale,¹ U.
+Zulicke,¹ A. G. Moghaddam,⁴ H. J. Trodahl,¹ F. Natali,¹ S. Vezian,⁵ and
+B. J. Ruckl
+
+ben.ruck@vuw.ac.nz ¹MacDiarmid Institute for Advanced Materials and
+Nanotechnology, School of Chemical and Physical Sciences, Victoria
+University of Wellington, P. O. Box 600, Wellington 6140, New Zealand
+²MacDiarmid Institute for Advanced Materials and Nanotechnology,
+Robinson Research Institute, Victoria University of Wellington, P. O.
+Box 33436, Lower Hutt 5046, New Zealand ³Physics Institute, University
+of Zurich, Winterthurerstr. 190, 8057 Zurich, Switzerland ⁴Department of
+Physics, Institute for Advanced Studies in Basic Sciences (IASBS),
+Zanjan 45137-66731, Iran ⁵Centre de Recherche sur
+l’He$\hat{\text{e}}$to-Epixiae et ses Applications (CRHEA), Centre
+National de la Recherche Scientifique, Rue Bernard Gregory, 06560
+Valbonne, France
+
+###### Abstract
+
+Conventional wisdom expects that making semiconductors ferromagnetic
+requires doping with magnetic ions and that superconductivity cannot
+coexist with magnetism. However, recent concerted efforts exploring new
+classes of materials have established that intrinsic ferromagnetic
+semiconductors exist and that certain types of strongly correlated
+metals can be ferromagnetic and superconducting at the same time. Here
+we show that the trifecta of semiconducting behavior, ferromagnetism,
+and superconductivity can be achieved in a single material. Samarium
+nitride (SmN) is a well-characterized intrinsic ferromagnetic
+semiconductor, hosting strongly spin-ordered 4f electrons below a Curie
+temperature of 27 K. We have now observed that it also hosts a
+superconducting phase below 4 K when doped to electron concentrations
+above 10²¹ cm⁻³. The large exchange splitting of the conduction band in
+SmN favors equal-spin triplet pairing with p-wave symmetry.
+Significantly, superconductivity is enhanced in superlattices of
+gadolinium nitride (GdN) and SmN. An analysis of the robustness of such
+a superconducting phase against disorder leads to the conclusion that
+the 4f bands are crucial for superconductivity, making SmN a
+heavy-fermion-type superconductor.
+
+2016 The paper is organized as follows. In the immediately following
+Sec. II, the basic magnetic and electronic properties of SmN are
+introduced. We then provide details about the experimental techniques
+employed in our study in Sec. III. The main experimental results are
+presented in Sec. IV, showing superconductivity in thin-film SmN samples
+and its strengthening in SmN/GdN superlattices. Section V is devoted to
+a theoretical analysis of the experimental results, and we summarize the
+main findings of the paper in Sec. VI.
+
+## II Review of the magnetic and electronic properties of SmN
+
+The past decade has seen significant advances in the growth and
+passivation of thin films of the rare-earth nitrides LN, where L denotes
+a member of the lanthanide series [32; 33; 34]. In particular, it is
+known that almost all of them are semiconductors in both their
+paramagnetic and ferromagnetic states. In the same time frame, there has
+been progress in theoretical treatments of strongly correlated electrons
+that enabled reliable band-structure calculations that show good
+agreement with recent experimental studies [35]. The band structures
+predicted by the treatments show indirect band gaps, with the N 2p
+valence band (VB) maximum at Γ and the L 5d conduction band (CB) minimum
+at X. In addition, there are L 4f bands that cross the valence and
+conduction bands at energies that vary across the series. GdN, with its
+exactly half-filled 4f shell, has the majority-spin 4f bands about 8 eV
+below, and the minority-spin bands about 5 eV above the gap [28; 33]. In
+materials involving lighter L elements, there are empty majority-spin
+bands threading the CB, while for LNs with heavier L elements, there are
+filled minority-spin bands crossing the VB. These are generally very
+narrow, heavy-mass bands, though they must hybridize at some level with
+the 2p and 5d bands.
+
+For GdN, it is now clear that there is a finite band gap [36; 37], which
+has facilitated this material’s integration into device structures [38;
+39]. The available experimental data also support the presence of a
+finite band gap in SmN [34; 35; 40], although the data are less complete
+than for GdN and the possibility of a small band overlap cannot be ruled
+out at present [41]. In any case, the rare-earth nitrides commonly
+exhibit high carrier concentrations and metallic behavior due to large
+concentrations of N vacancies, which potentially release three electrons
+per defect [34; 42; 43]. The band structure of SmN is represented
+schematically in Fig. 1, where the metallic behavior is represented by
+the Fermi level $E_{\rm F}$ being located above the CB minimum [34; 44].
+This arrangement is consistent with the experimentally measured carrier
+concentration of 2 × 10²¹ cm⁻³ in the SmN sample showing
+superconductivity (see below), which corresponds to a N-vacancy
+concentration of a few percent.
+
+The lanthanide (L³⁺) ions in the nitrides have partially filled 4f
+shells which harbor the majority of the magnetic moments. However,
+unlike transition-metal compounds, the strong spin-orbit coupling and
+the relatively weak intra-ion overlap conspire to prevent a full
+quenching of the orbital magnetic moment. As a result, the net magnetic
+moment of these ions can be dominated by either the spin or orbital
+contribution. SmN holds a special place in the series [45]. As expected
+from applying Hund’s rules, it has a near-zero magnetic moment in the
+ferromagnetic phase due to an almost perfect cancellation of the 4f spin
+magnetic moment by the opposing 4f orbital contribution. Nonetheless,
+its 4f spins are aligned as in any ferromagnet, showing a coercive field
+of more than 6 T at 2 K [46; 47]. The evidence for ferromagnetic
+alignment is unambiguous, including a clear hysteretic behavior of the
+magnetization, the 4f spin alignment measured by x-ray magnetic circular
+dichroism (XMCD) at the M_(4, 5) edges, and neutron diffraction studies
+[46; 47; 48; 49]. The large 4f-5d exchange interaction then drives a
+large spin splitting of several hundred meV in the Sm 5d-dominated
+conduction band [28]. A direct signature of that spin splitting is
+provided by XMCD at the Sm L_(2, 3) edges. These 2p-5d transitions
+represent spin-resolved electronic transitions into the conduction band,
+so their XMCD spectra are to first order proportional to the size of the
+spin splitting [50]. The strong XMCD signal shown in Fig. 2 confirms
+that the conduction band is indeed strongly spin split, and an
+associated hysteresis further confirms the ferromagnetic ordering of the
+Sm moments [47].
+
+## III Details of experimental methods
+
+The films used in this study were prepared by molecular beam epitaxy in
+our two laboratories, at Victoria University of Wellington and at
+CRHEA-CNRS in Valbonne. High-purity Sm or Gd metal was evaporated in the
+presence of ∼3 × 10⁻⁴ mbar molecular nitrogen (N₂), which reacts
+spontaneously with the metal to form the nitride. The film thicknesses
+of ∼100 nm were determined by Rutherford backscattering spectrometry.
+The superlattice comprised layers of 10 nm GdN and 5 nm SmN, determined
+with a microbalance calibrated by prior Rutherford backscattering
+spectrometry. The (111)-oriented epitaxial films were grown at 400−500
+^(∘)C on the hexagonal face of aluminium nitride (AlN), which was in
+turn grown on either commercial c-plane sapphire or (111) silicon. To
+prevent oxidation, a 50 to 150 nm thick gallium nitride or AlN capping
+layer was grown on
+
+Figure 1: Schematic representation of the band structure of SmN. The
+valence and conduction bands are split into majority-spin (black solid
+curves) and minority-spin (red dashed curves) by the exchange
+interaction with filled 4f levels. An empty majority-spin 4f level is
+shown as a dispersionless band near the conduction-band minimum. Its
+exact location, and the size (or even sign) of the band gap $E_{\rm g}$,
+are not well known. Here the Fermi level $E_{\rm F}$ is shown inside the
+conduction band so the SmN is degenerately doped.
+
+top of the rare-earth nitride films. Further details of the growth
+procedure can be found elsewhere [51, 52].
+
+The low energy of formation of nitrogen vacancies dictates that their
+concentration is of order 1
+
+The resistivity and magnetoresistance data in Figs. 4(a) and 4(b) were
+measured in the van-der-Pauw geometry in perpendicular field in a
+Quantum Design PPMS equipped with a He-3 option. For Fig. 5(b), a PPMS
+with a horizontal rotator option was used to allow measurements in both
+parallel and perpendicular fields with respect to the plane of the film.
+The resistivity data in Fig. 5(a) and Fig. 3 were measured in a
+closed-cycle cryostat. The magnetic data were obtained with a Quantum
+Design MPMS-7 SQUID magnetometer. To show the diamagnetism in the
+superconducting state, the measurements were performed in field-normal
+configuration because the superconducting penetration depth is larger
+than the film thickness.
+
+## IV IV. Experimental results
+
+### A. Superconductivity in homogeneous SmN
+
+While investigating electronic and magnetic properties for epitaxial
+films of the rare-earth-nitride series, we have found that many of our
+SmN films, and so far only SmN, display clear superconductivity when
+sufficiently heavily doped. Interestingly, the metallic, nonmagnetic end
+members of the rare-earth nitride series have been known to be
+superconducting for some time [54, 55].
+
+In Fig. 4(a) we show the temperature-dependent resistance of a
+homogeneous SmN film that displays the superconducting transition at low
+temperature and, at higher temperature, an anomaly at the Curie
+temperature. This film, with an electron concentration of 2 × 10²¹ cm⁻³,
+exhibits the onset of superconductivity at 2-3 K and reaches zero
+resistance below 0.7 K. The magnetic-field-driven return to the normal
+state is complex, as seen in Fig. 4(b). Strict zero resistance is
+destroyed in fields as low as 10 mT, but superconductivity still
+persists in the majority of the film so the full return to the normal
+state does not occur below a field of about 4 T. Within the intermediate
+state, the resistivity displays hysteresis, seen clearly in the 0.4 K
+data in Fig. 4(b), signaling a coexistence of ferromagnetic and
+superconducting order parameters, at least in an intermediate mixed
+state.
+
+In the magnetic measurements shown in Fig. 4(c), a clear signature of
+the superconducting diamagnetic response appears in the
+zero-field-cooled magnetization at the lowest temperatures. This
+supports the persistence of ferromagnetic order on entering the
+superconducting phase, though the very small magnetization of SmN limits
+the sensitivity of magnetization studies. The coexistence of
+ferromagnetic and superconducting order is established even more
+strongly by the field dependence of the magnetic moment in Fig. 4(d),
+where the diamagnetic response associated with the Meissner effect is
+evident at fields below about 5 mT. It is important to note that the
+diamagnetism is incomplete, corresponding to only 10
+
+Figure 3: The resistivity of a near-stoichiometric SmN film with low
+carrier concentration. In this film, the resistivity rises continuously
+as the temperature falls, with an anomaly at the Curie temperature
+signaling the development of spin splitting at the band edges. There is
+no sign of an onset of superconductivity in this sample.
+
+Figure 2: X-ray magnetic circular dichroism (XMCD) at the Sm L₂ edge in
+a bulk SmN film and a SmN/GdN superlattice taken at 15 K and 6 T, which
+measures transitions into conduction-band (CB) states. The large XMCD
+amplitude demonstrates the strong exchange splitting between spin-up and
+spin-down CB states. The XMCD signal is 3 times larger in the
+superlattice sample (cf. Refs. [47, 48]), implying an even stronger CB
+spin splitting in that case. The inset shows the associated magnetic
+hysteresis of the bulk SmN film measured using XMCD, confirming the
+ferromagnetism.
+
+distribution of the nitrogen vacancies that provide the doping. The
+latter has been observed in GdN films where it leads to formation of
+magnetic polarons [57].
+
+### Superconductivity in a SmN/GdN superlattice
+
+In order to investigate further the coexistence of superconductivity and
+spin-split bands, we have studied a superlattice consisting of SmN
+layers in direct contact with strongly ferromagnetic GdN in a 12×(10 nm
+GdN/5 nm SmN) superlattice. In this context, it is important to
+recognize that GdN has never shown any propensity for superconductivity.
+However, GdN has one of the strongest spin alignments known, with a
+ferromagnetically aligned 7 μ_(B) moment on each Gd³⁺ ion below 70 K
+that resides purely in its spin as the total orbital angular momentum
+vanishes for this half-filled 4f shell [34]. X-ray magnetic circular
+dichroism (Fig. 2) shows that the ferromagnetic exchange across the
+SmN/GdN interface increases the Sm L_(2, 3) XMCD signal by a factor of
+3, i.e., the spin splitting in the conduction band of the thin SmN
+layers is strongly enhanced by the proximity to the ferromagnetic GdN
+layers [47, 48].
+
+Transport measurements shown in Figs. 5(a) and 5(b) reveal a
+superconducting phase that develops even more strongly in the
+superlattice, despite the enhanced spin splitting. Interestingly, not
+only is the critical temperature higher in these layers, but also the
+critical field is enormously enhanced [see Fig. 5(b)], and zero
+resistance is maintained now to fields as large as 2 T. The coherence
+length implied by that critical field is ∼10 nm [1], i.e., much smaller
+than the thickness of the homogeneous film above but comparable to the
+SmN-layer thickness in the superlattice. The temperature-dependent
+magnetization of the superlattice, shown in Fig. 5(c), is dominated by
+the very strong ferromagnetic moment of GdN, which has a Curie
+temperature of 70 K. Similarly to Fig. 4(c), Fig. 5(c) also shows a
+diamagnetic anomaly at the lowest temperatures, confirming the existence
+of the superconducting phase. Figure 5(d) displays that diamagnetic
+response at low fields, with a low-field slope that, in the superlattice
+case, corresponds to full diamagnetism (Meissner fraction of 1.0) in the
+SmN layers. Hence, again the superconducting signature is exhibited much
+more strongly in the superlattice, despite its more strongly spin-split
+conduction band.
+
+## V Theoretical analysis: spin-triplet heavy-fermion superconductivity
+
+The experimental data clearly indicate a coexistence of
+superconductivity and ferromagnetism. The large exchange
+
+Figure 4: (a) Temperature-dependent resistivity of a SmN film, showing
+an anomaly near the Curie temperature of 27 K and the onset of
+superconductivity below about 3 K. The inset shows the full
+superconducting transition. (b) Perpendicular field magnetoresistance of
+the sample shown in (a). (c) Field-cooled (FC) and zero-field-cooled
+(ZFC) magnetization data for a bulk SmN film, showing the ferromagnetic
+ordering that occurs below 27 K, along with evidence for the onset of
+superconductivity below about 4.5 K. (d) Field-dependent magnetization
+showing diamagnetism at low fields associated with superconductivity.
+
+splitting of the conduction and valence bands in SmN renders it a
+half-metallic ferromagnetic semiconductor at the doping levels realized
+in our samples. As a result, only majority-spin electrons are available
+to form Cooper pairs, and the order parameter will be a fully polarized
+spin-triplet state | ↑ ↑⟩. Due to the fermionic nature of electrons, the
+orbital part of the order parameter needs to possess odd parity in
+space, which implies an odd orbital-angular-momentum quantum number
+l = 1, 3, … or, using the commonly adopted atomic convention, p, f, …
+symmetry. Most probably, the lowest value of Cooper-pair angular
+momentum compatible with the required order-parameter symmetry will be
+realized, and therefore we assume a p-wave pairing. The associated pair
+potential Δ_( ↑ ↑)(k) can, in principle, have the following possible
+states:
+
+$$\Delta_{\uparrow\uparrow}(\mathbf{k})=\Delta_{0}\times\begin{cases}\frac{k_{z} }{k_{y}}&p_{z}\text{-like symmetry}\\ \frac{k_{z}\pm ik_{y}}{k_{y}}&p_{x}\pm ip_{y}\text{-like symmetry}\end{cases}\ .$$
+(1)
+
+For both these possibilities, the magnitude of the order parameter is
+given by Δ₀ ≈ 2ℏΩ_(c)exp (−D/λ), where D is the number of spatial
+dimensions, ℏΩ_(c) the cut-off energy for the attractive interaction,
+and λ the dimensionless coupling constant for the p-wave pairing
+channel. The experimental data do not give us enough information to
+infer the origin of the pairing interaction. However, the large
+splitting between majority and minority bands allows us to conclude that
+spin fluctuations play no role. This leaves the combination of
+electron-phonon and electron-electron interactions as the most likely
+cause for Cooper pairing in SmN. The sharper superconducting transition
+in the superlattice indicates a cleaner sample and/or interface-enhanced
+superconductivity. On the other hand, the broad superconducting
+transition for the thin film can be associated with the formation of
+domains, which is consistent with the measured incomplete diamagnetic
+response [see Fig. 4(d)].
+
+An important issue for p-wave superconductivity is its weakness with
+respect to disorder. It has been established that, for all possible
+forms of the order parameter in any spatial dimension, the critical
+temperature T_(c) is suppressed with respect to the one in the absence
+of disorder T_(c0) according
+
+Figure 5: (a) Temperature-dependent resistivity of a SmN/GaN
+superlattice, showing a much more abrupt superconducting transition than
+in bulk SmN films. Anomalies can be seen corresponding to the Curie
+temperatures of both the GdN and SmN layers, at 70 K and 30 K,
+respectively. (b) Magnetoresistance of the same superlattice in fields
+applied parallel (black) and perpendicular (red) to the layers. The line
+shape enables straightforward determination of an upper critical field
+μ₀H_(c2). Inset: The corresponding upper critical field plotted versus
+temperature. (c) The temperature-dependent magnetization is
+overwhelmingly dominated by the GdN. Inset: Hysteresis loops confirming
+the GdN remains ferromagnetic even in the temperature range where the
+SmN is superconducting. (d) The low-field magnetization shows a clear
+diamagnetic response in the superconducting regime that is superimposed
+on the large GdN magnetic moment.
+
+to the universal formula [3]
+
+$$\ln\frac{T_{\rm c0}}{T_{\rm c}}=\psi\left(\frac{1}{2}+\frac{\hbar}{4\pi\,\tau\,k_{ \rm B}T_{\rm c}}\right)-\psi\left(\frac{1}{2}\right),$$
+(2)
+
+where ψ denotes the Digamma function, τ the quasiparticle scattering
+time, and $k_{\rm B}$ the Boltzmann constant. From the experimentally
+measured resistivity ρ = 0.18 mΩcm and carrier density n = 2 × 10²¹ cm⁻³
+for the thin film, we can extract the scattering time τ as a function of
+the effective mass m by means of the Drude formula, obtaining
+τ = m/(nq²ρ), where q is the electron charge. Using τ and the
+experimentally measured $T_{\rm c}\approx 3$ K we can infer what the
+critical temperature would be in the absence of disorder. If we use for
+the effective mass a value typical for a 5d-band m_(5d) ≲ 0.5 m₀, with
+m₀ being the electron mass in vacuum, we obtain a highly unrealistic
+value for $T_{\rm c0}\approx 800$ K. In order to obtain a value in the
+realistic range $T_{\rm c0}<30$ K, the effective charge-carrier mass m
+needs to be larger than 15 m₀, see Fig. 6. Therefore, we must conclude
+that the 4f band is crucial for superconductivity in SmN, making it a
+heavy-fermion superconductor. We note at this point that such a large
+value for the effective mass for the quasielectrons may necessitate the
+consideration of nonadiabatic corrections to the electron-phonon
+coupling [58].
+
+As a consistency check, we assume phonon-mediated pairing and, taking a
+realistic value of the Debye temperature for SmN
+[59]$T_{D}=\hbar\Omega_{c}/k_{\rm B}=600$ K and an effective mass of
+m = 15 m₀, we find λ ≈ 0.8. Such a value corresponds to a physically
+realistic strong coupling situation.
+
+## VI Summary and Outlook
+
+In summary, we consistently find superconductivity below a temperature
+of 5 K in heavily doped ferromagnetic SmN but not in any of the other
+rare-earth-nitride films that we have grown. As previous work has
+established the unique property of SmN to have a nearly vanishing net
+magnetic moment coexisting with a large spin splitting in the conduction
+band, it can be inferred that the superconductivity resides in a
+majority-spin band, implying triplet pairing. SmN is further unusual in
+the predicted location of the very narrow majority-spin 4f band at the
+bottom of the conduction band. The full set of experimental results
+supports a scenario of SmN being a heavy-fermion spin-polarized
+superconductor with p-wave triplet pairing.
+
+The discovery of a superconducting ferromagnetic semiconductor paves the
+way to explore an entirely new technological paradigm of semiconductor
+superspintronics. The ability to adjust the density and type of charge
+carriers in this material; the wide range of possibilities for
+integrating it into heterostructures with conventional semiconductors or
+other members of the rare-earth-nitride series, some of which are
+expected to exhibit topological order [60, 61]; and the unconventional
+properties of p-wave superconducting phases creates a versatile platform
+for engineering new quantum phases of matter with potential for
+revolutionizing microchip design.
+
+###### Acknowledgements.
+
+Funding for this work was provided by the Marsden Fund (Contract
+No.VUW1309) and the MacDiarmid Institute for Advanced Materials and
+Nanotechnology, which is a New Zealand Centre of Research Excellence. We
+acknowledge support from GANEX (ANR-11-LABX-0014). GANEX belongs to the
+publicly funded Investissements d’Avenir program managed by the French
+ANR agency. E.-M.A. was supported by a Feodor Lynen Research Fellowship
+from the Alexander von Humboldt Foundation. A.G.M. thanks the School of
+Chemical and Physical Sciences at Victoria University of Wellington for
+hospitality. We thank L. Figueras for providing the sample and
+resistivity data on the near-stoichiometric SmN, J. Kennedy and P. P.
+Murmu for Rutherford backscattering spectrometry measurements, and A.
+Schilling, S. Wimbush, and J. Storey for discussions.
+
+## References
+
+* [1] M. Tinkham, _Introduction to Superconductivity_ (McGraw-Hill, New
+York, 1996). * [2] M. Sigrist and K. Ueda, Phenomenological theory of
+unconventional superconductivity, Rev. Mod. Phys. **63**, 239 (1991). *
+[3] V. P. Mineev and K. V. Samokhin, _Introduction to Unconventional
+Superconductivity_ (Gordon and Breach, New York, 1999). * [4] A. P.
+Mackenzie and Y. Maeno, The superconductivity of Sr₂RuO₄ and the physics
+of spin-triplet pairing, Rev. Mod. Phys. **75**, 657 (2003). * [5] G.
+Deutscher, _New Superconductors: From Granular to High $T_{\rm c}$_
+(World Scientific, Singapore, 2006). * [6] S. S. Saxena, P. Agarwal, K.
+Ahilan, F. M. Grosche, R. K. W. Haselwimmer, M. J. Steiner, E. Pugh, I.
+R. Walker, S. R.
+
+Figure 6: Dependence of the critical temperature $T_{\rm c0}$ in the
+clean system on the superconducting charge-carriers’ effective mass, m,
+as inferred from the measured $T_{\rm c}\approx 3$ K, the normal-state
+resistivity, and the carrier density according to the universal theory
+for pair breaking in a p-wave superconductor. Here m₀ denotes the
+electron mass in vacuum. A highly unrealistic value for
+$T_{\rm c0}\gtrsim 800$ K would be associated with the 5d-band effective
+mass m_(5d) ≲ 0.5 m₀. Hence we conclude that carriers from the very
+weakly dispersing 4f band of SmN, or possibly its hybridization with the
+5d band, must form the superconducting condensate.
+
+Julian, P. Monthoux, G. G. Lonzarich, A. Huxley, I. Sheikin, D.
+Braithwaite, and J. Flouquet, Superconductivity on the border of
+itinerant-electron ferromagnetism in UGe2, Nature **406**, 587 (2000). *
+[7] C. Pfleiderer, M. Uhlarz, S. M. Hayden, R. Vollmer, H. von
+Lohneysen, N. R. Bernhoeft, and G. G. Lonzarich, Coexistence of
+superconductivity and ferromagnetism in the d-band metal ZrZn₂, Nature
+**412**, 58 (2001). * [8] D. Aoki, A. Huxley, E. Ressouche, D.
+Braithwaite, J. Flouquet, J.-P. Brison, E. Lhotel, and C. Paulsen,
+Coexistence of superconductivity and ferromagnetism in URhGe, Nature
+**413**, 613 (2001). * [9] C. Pfleiderer, Superconducting phases of
+f-electron compounds, Rev. Mod. Phys. **81**, 1551 (2009). * [10] D.
+Aoki, F. Hardy, A. Miyake, V. Taufour, T. D. Matsuda, and J. Flouquet,
+Properties of ferromagnetic superconductors, Compt. Rend. Phys. **12**,
+573 (2011). * [11] F. S. Bergeret, A. F. Volkov, and K. B. Efetov,
+Long-Range Proximity Effects in Superconductor-Ferromagnet Structures,
+Phys. Rev. Lett. **86**, 4096 (2001). * [12] M. Eschrig, J. Kopu, J. C.
+Cuevas, and G. Schon, Theory of Half-Metal/Superconductor
+Heterostructures, Phys. Rev. Lett. **90**, 137003 (2003). * [13] S. A.
+Wolf, D. D. Awschalom, R. A. Buhrman, J. M. Daughton, S. von Molnar, M.
+L. Roukes, A. Y. Chtchelkanova, and D. M. Treger, Spintronics: A
+spin-based electronics vision for the future, Science **294**, 1488
+(2001). * [14] J. Linder and J. W. A. Robinson, Superconducting
+spintronics, Nat. Phys. **11**, 307 (2015). * [15] Matthias Eschrig,
+Spin-polarized supercurrents for spintronics: A review of current
+progress, Rep. Prog. Phys. **78**, 104501 (2015). * [16] A. C. Basaran,
+J. E. Villegas, J. S. Jiang, A. Hoffmann, and I. K. Schuller, Mesoscopic
+magnetism and superconductivity, MRS Bull. **40**, 925 (2015). * [17] R.
+M. Lutchyn, J. D. Sau, and S. Das Sarma, Majorana Fermions and a
+Topological Phase Transition in Semiconductor-Superconductor
+Heterostructures, Phys. Rev. Lett. **105**, 077001 (2010). * [18] Y.
+Oreg, G. Refael, and F. von Oppen, Helical Liquids and Majorana Bound
+States in Quantum Wires, Phys. Rev. Lett. **105**, 177002 (2010). * [19]
+V. Mourik, K. Zuo, S. M. Frolov, S. R. Plissard, E. P. A. M. Bakkers,
+and L. P. Kouwenhoven, Signatures of Majorana fermions in hybrid
+superconductor-semiconductor nanowire devices, Science **336**, 1003
+(2012). * [20] A. Das, Y. Ronen, Y. Most, Y. Oreg, M. Heiblum, and H.
+Shtrikman, Zero-bias peaks and splitting in an Al-InAs nanowire
+topological superconductor as a signature of Majorana fermions, Nat.
+Phys. **8**, 887 (2012). * [21] T. Schapers,
+_Superconductor/Semiconductor Junctions_ (Springer, Berlin, 2001). *
+[22] T. Herrmannsdorfer, V. Heera, O. Ignatchik, M. Uhlarz, A. Mucklich,
+M. Posselt, H. Reuther, B. Schmidt, K.-H. Heinig, W. Skorupa, M.
+Voelskow, C. Wundisch, R. Skrotzki, M. Helm, and J. Wosnitza,
+Superconducting State in a Gallium-Doped Germanium Layer at low
+Temperatures, Phys. Rev. Lett. **102**, 217003 (2009). * [23] X. Blase,
+E. Bustarret, C. Chapelier, T. Klein, and C. Marcenant, Superconducting
+group-IV semiconductors, Nat. Mater. **8**, 375 (2009). * [24] T.
+Jungwirth, J. Sinova, J. Masek, J. Kucera, and A. H. MacDonald, Theory
+of ferromagnetic (III,Mn)V semiconductors, Rev. Mod. Phys. **78**, 809
+(2006). * [25] Tomasz Dietl, A ten-year perspective on dilute magnetic
+semiconductors and oxides, Nat. Mater. **9**, 965 (2010). * [26] T.
+Dietl and H. Ohno, Dilute ferromagnetic semiconductors: Physics and
+spintronic structures, Rev. Mod. Phys. **86**, 187 (2014). * [27] T.
+Jungwirth, J. Wunderlich, V. Novak, K. Olejnik, B. L. Gallagher, R. P.
+Campion, K. W. Edmonds, A. W. Rushforth, A. J. Ferguson, and P. Nemec,
+Spin-dependent phenomena and device concepts explored in (Ga,Mn)As, Rev.
+Mod. Phys. **86**, 855 (2014). * [28] P. Larson, W. R. L. Lambrecht, A.
+Chantis, and M. van Schilfgaarde, Electronic structure of rare-earth
+nitrides using the LSDA +U approach: Importance of allowing 4f orbitals
+to break the cubic crystal symmetry, Phys. Rev. B **75**, 045114
+(2007). * [29] P. Fulde and R. A. Ferrell, Superconductivity in a strong
+spin-exchange field, Phys. Rev. **135**, A550 (1964). * [30] A. I.
+Larkin and Y. N. Ovchinnikov, Nonuniform state of superconductors, Sov.
+Phys. JETP **20**, 762 (1965). * [31] Editorial, The rise of quantum
+materials, Nat. Phys. **12**, 105 (2016). * [32] C. M. Aerts, P.
+Strange, M. Horne, W. M. Temmerman, Z. Szotek, and A. Svane,
+Half-metallic to insulating behavior of rare-earth nitrides, Phys. Rev.
+B **69**, 045115 (2004). * [33] Chun-Gang Duan, R. F. Sabirianov, W. N.
+Mei, P. A. Dowben, S. S. Jaswal, and E. Y. Tsymbal, Electronic, magnetic
+and transport properties of rare-earth monopnictides, J. Phys.: Condens.
+Matter **19**, 315220 (2007). * [34] F. Natali, B. J. Ruck, N. O. V.
+Plank, H. J. Trodahl, S. Granville, C. Meyer, and W. R. L. Lambrecht,
+Rare-earth mononitrides, Prog. Mater. Sci. **58**, 1316 (2013). * [35]
+A. R. H. Preston, S. Granville, D. H. Housden, B. Ludbrook, B. J. Ruck,
+H. J. Trodahl, A. Bittar, G. V. M. Williams, J. E. Downes, A. DeMasi, Y.
+Zhang, K. E. Smith, and W. R. L. Lambrecht, Comparison between
+experiment and calculated band structures for DyN and SmN, Phys. Rev. B
+**76**, 245120 (2007). * [36] H. J. Trodahl, A. R. H. Preston, J. Zhong,
+B. J. Ruck, N. M. Strickland, C. Mitra, and W. R. L. Lambrecht,
+Ferromagnetic redshift of the optical gap in GdN, Phys. Rev. B **76**,
+085211 (2007). * [37] R. Vidyasagar, T. Kita, T. Sakurai, and H. Ohta,
+Giant optical splitting in the spin-states assisting a sharp magnetic
+switching in GdN thin films, Appl. Phys. Lett. **102**, 222408 (2013). *
+[38] K. Senapati, M. G. Blamire, and Z. H. Barber, Spin-filter Josephson
+junctions, Nature Mater. **10**, 849 (2011). * [39] A. Kandala, A.
+Richardella, D. W. Rench, D. M. Zhang, T. C. Flanagan, and N. Samarth,
+Growth and characterization of hybrid insulating ferromagnet-topological
+insulator heterostructure devices, Appl. Phys. Lett. **103**, 202409
+(2013). * [40] M. Azeem, Optical properties of rare earth nitrides,
+Ph.D. thesis, Victoria University of Wellington, 2013. * [41] C. Morari,
+F. Beiugeanu, I. Di Marco, L. Peters, E. Burzo, S. Mican, and L.
+Chioncel, Magnetism and electronic structure calculation of SmN, J.
+Phys.: Condens. Matter **27**, 115503 (2015). * [42] C.-M. Lee, H.
+Warring, S. Vezian, B. Damilano, S. Granville, M. Al Khalifoui, Y.
+Cordier, H. J. Trodahl, B. J. Ruck, and F. Natali, Highly resistive
+epitaxial Mg-doped GdN thin films, Appl. Phys. Lett. **106**, 022401
+(2015). * [43] A. Punya, T. Cheiwchanchamnangij, A. Thiess, and Walter
+R. L. Lambrecht, First-principles study of nitrogen vacancies in GdN, in
+_MRS Proceedings_, Vol. 1290 (Cambridge University Press, Cambridge, UK,
+2011). * [44] F. Leuenberger, A. Parge, W. Felsch, K. Fauth, and M.
+Hessler, GdN thin films: Bulk and local electronic and magnetic
+properties, Phys. Rev. B **72**, 014427 (2005). * [45] J. F. McNulty, B.
+J. Ruck, and H. J. Trodahl, On the ferromagnetic ground state of SmN,
+Phys. Rev. B **93**, 054413 (2016). * [46] C. Meyer, B. J. Ruck, J.
+Zhong, S. Granville, A. R. H. Preston, G. V. M. Williams, and H. J.
+Trodahl, Near-zero-moment ferromagnetism in the semiconductor SmN, Phys.
+Rev. B **78**, 174406 (2008). * [47] E.-M. Anton, B. J. Ruck, C. Meyer,
+F. Natali, H. Warring, F. Wilhelm, A. Rogalev, V. N. Antonov, and H. J.
+Trodahl, Spin/orbit moment imbalance in the near-zero moment
+ferromagnetic semiconductor SmN, Phys. Rev. B **87**, 134414 (2013). *
+[48] J. F. McNulty, E.-M. Anton, B. J. Ruck, F. Natali, H. Warring, F.
+Wilhelm, A. Rogalev, M. M. Soares, N. B. Brookes, and H. J. Trodahl,
+Twisted phase of the orbital-dominant ferromagnet SmN in a GdN/SmN
+heterostructure, Phys. Rev. B **91**, 174426 (2015). * [49] R. M. Moon
+and W. C. Koehler, Magnetic properties of SmN, J. Magn. Magn. Mater.
+**14**, 265 (1979). * [50] J. C. Parlebas, K. Asakura, A. Fujiwara, I.
+Harada, and A. Kotani, X-ray magnetic circular dichroism at rare-earth
+L23 absorption edges in various compounds and alloys, Phys. Rep.
+**431**, 1 (2006). * [51] F. Natali, S. Vezian, S. Granville, B.
+Damilano, H. J. Trodahl, E.-M. Anton, H. Warring, F. Semond, Y. Cordier,
+S. V. Chong, and B. J. Ruck, Molecular beam epitaxy of ferromagnetic
+epitaxial GdN thin films, J. Cryst. Growth **404**, 146 (2014). * [52]
+A. Le Louarn, S. Vezian, F. Semond, and J. Massies, AlN buffer layer
+growth for GaN epitaxy on (111) Si: Al or N first? J. Cryst. Growth
+**311**, 3278 (2009). * [53] S. Granville, B. J. Ruck, F. Budde, A. Koo,
+D. J. Pringle, F. Kuchler, A. R. H. Preston, D. H. Housden, N. Lund, A.
+Bittar, G. V. M. Williams, and H. J. Trodahl, Semiconducting ground
+state of GdN thin films, Phys. Rev. B **73**, 235335 (2006). * [54] S.
+Yamanaka, K. Hotehama, and H. Kawaji, Superconductivity at 25.5 K in
+electron-doped layered hafnium nitride, Nature **392**, 580 (1998). *
+[55] B. W. Roberts, Survey of superconductive materials and critical
+evaluation of selected properties, J. Phys. Chem. Ref. Data **5**, 581
+(1976). * [56] Y. Dubi, Y. Meir, and Y. Avishai, Nature of the
+superconductor-insulator transition in disordered superconductors,
+Nature **449**, 876 (2007). * [57] F. Natali, B. J. Ruck, H. J. Trodahl,
+D. L. Binh, S. Vezian, B. Damilano, Y. Cordier, F. Semond, and C. Meyer,
+Role of magnetic polarons in ferromagnetic GdN, Phys. Rev. B **87**,
+035202 (2013). * [58] L. Pietronero, S. Strassler, and C. Grimaldi,
+Nonadiabatic superconductivity. I. Vertex corrections for the
+electron-phonon interactions, Phys. Rev. B **52**, 10516 (1995). * [59]
+S. Granville, C. Meyer, A. R. H. Preston, B. M. Ludbrook, B. J. Ruck, H.
+J. Trodahl, T. R. Paudel, and W. R. L. Lambrecht, Vibrational properties
+of rare-earth nitrides: Raman spectra and theory, Phys. Rev. B **79**,
+054301 (2009). * [60] K. F. Garrity and D. Vanderbilt, Chern insulator
+at a magnetic rocksalt interface, Phys. Rev. B **90**, 121103 (2014). *
+[61] Z. Li, J. Kim, N. Kioussis, S.-Y. Ning, H. Su, T. Iitaka, T.
+Tohyama, X. Yang, and J.-X. Zhang, GdN thin film: Chern insulating state
+on square lattice, Phys. Rev. B **92**, 201303 (2015).

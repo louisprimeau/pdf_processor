@@ -1,0 +1,185 @@
+
+
+# \(\mu\)SR and magnetometry study of superconducting 5% Pt-doped IrTe\({}_{2}\)
+
+M. N. Wilson
+
+T. Medina
+
+T. J. Munsie
+
+S. C. Cheung
+
+B. A. Frandsen
+
+L. Liu
+
+J. Yan
+
+D. Mandrus
+
+Y. J. Uemura
+
+G. M. Luke
+
+###### Abstract
+
+We present magnetometry and muon spin rotation (\(\mu\)SR) measurements of the superconducting dichalcogenide Ir\({}_{0.95}\)Pt\({}_{0.65}\)Te\({}_{2}\). From both sets of measurements, we calculate the penetration depth and thence superfluid density as a function of temperature. The temperature dependence of the superfluid densities from both sets of data indicate fully gapped superconductivity that can be fit to a conventional \(s\)-wave model and yield fitting parameters consistent with a BCS weak coupling superconductor. We therefore see no evidence for exotic superconductivity in Ir\({}_{0.95}\)Pt\({}_{0.65}\)Te\({}_{2}\).
+
+2016 11 May 2016 11 May 2016 11 May 2016 11 May 2016 10.1103/PhysRevB.94.184504
+
+## I Introduction
+
+Transition metal dichalchogenides have been studied for many years in an effort to understand their diverse properties [1,2]. These materials are layered quasi-two-dimensional systems that frequently exhibit charge density wave (CDW) ordering that is not yet fully understood [2]. Furthermore, the crystal structure of these materials is amenable to substitution and intercalation of a wide variety of dopant atoms to allow tuning through a broad range of electronic properties [3]. In particular, these systems provide a valuable avenue to study the interplay of structural transitions and superconductivity as in many cases superconductivity emerges after the CDW transition is suppressed by doping or applied pressure [4, 5, 6, 7, 8].
+
+IrTe\({}_{2}\) is a member of this group of compounds. It undergoes a structural transition at about 270 K [9] from the trigonal P3m1 space group to triclinic P\(\overline{1}\)[10, 11, 12]. Recent work has shown that this structural transition is associated with a charge density wave that has a periodicity six times larger than the underlying lattice [13, 14, 15]. Substituting Ir with Pd, Pt, or Rh [7, 16, 17, 18] or intercalation with Cu [19] suppresses the structural transition and leads to superconductivity with a maximum \(T_{C}\) of 3 K and \(H_{C2}\approx 0.1\) T. Intercalation with other transition metals also suppresses the structural transition but does not lead to superconductivity, possibly as a result of competing magnetism [20]. Measurements of \(T_{C}\) as a function of hydrostatic pressure in Pt-substituted IrTe\({}_{2}\) have shown that increasing the temperature of the structural transition decreases \(T_{C}\), which shows that the appearance of superconductivity is directly related to the disappearance of the structural transition [21].
+
+IrTe\({}_{2}\) is of particular interest as both Ir and Te have high atomic numbers. Spin orbit coupling is therefore expected to be high which may lead to exotic states such as topological superconductivity [22, 23]. Determining the superconducting symmetry is important as unconventional (non-\(s\)-wave) symmetry is required for superconductors to be topologically nontrivial [23].
+
+Previous measurements of the superconducting symmetry by thermal conductivity [24] and STM [25] suggest conventional \(s\)-wave superconductivity. However, the thermal conductivity measurements cannot conclusively rule out odd-parity \(p\)-wave superconductivity, and STM measurements are inherently a surface technique and so the state they probe may not be representative of the bulk superconductivity. Furthermore, no penetration depth measurements have been conducted on this material. These measurements are important, as the temperature dependence of the penetration depth gives information about the symmetry of the superconducting gap [26].
+
+Muon spin rotation (\(\mu\)SR) is a powerful technique that can be used to study the magnetic penetration depth of type II superconductors in the vortex state [26]. In this technique spin-polarized muons are implanted up to a few hundred \(\mu\)m into the sample where they precess in the local magnetic field and decay, emitting positrons that are detected to gain information about the local magnetic field. Importantly, the muons are implanted far enough into the sample that this can be considered a truly bulk technique. Therefore surface effects that may change the states measured by techniques such as STM will not be a factor in these measurements.
+
+In this paper, we present complementary \(\mu\)SR and SQUID magnetometry measurements of the penetration depth of Ir\({}_{0.95}\)Pt\({}_{0.05}\)Te\({}_{2}\). These measurements indicate an \(s\)-wave superconducting state, with gap and \(T_{C}\) values that are consistent with a conventional BCS weak-coupling superconductor.
+
+## II Experimental Methods
+
+Single crystals of Ir\({}_{0.95}\)Pt\({}_{0.05}\)Te\({}_{2}\) with sizes of a couple mm\({}^{3}\) were grown using the self flux growth method [27]. Muon spin rotation (\(\mu\)SR) experiments were performed at the TRIUMF laboratory in Vancouver, Canada. We used the Pandora dilution refrigerator spectrometer on the M15 surface-muon beam line. This instrument gives access to temperatures between 0.03 and 10 K with the sample mounted on a silver cold finger, magnetic fields up to 5 T with a superconducting magnet, and a time resolution of 0.4 ns. The field is applied parallel to the incoming muon beam direction, and we performed measurements with the muon spin rotated perpendicular to the field direction (SR). These experiments were performed on an unaligned collection of small (<1-2 mm) irregularly shaped single crystals mounted on a 1 x 2 cm\({}^{2}\) silver plate using Apiezon N-grease. We used the \(\mu\)SR fit software package to analyze the \(\mu\)SR data [28].
+
+Magnetometry measurements were performed at McMaster University using a Quantum Design XL-5 MPMS with an iHelium He\({}^{3}\) cryostat insert for measurements down to 0.5 K. Magnetization vs. temperature curves were measured both on a subset of unaligned crystals from the \(\mu\)SR sample weighing 238 mg (polycrystalline sample), and on an aligned single-crystal plate weighing 4.72 mg with dimensions 2.4 mm x 1.5 mm x 0.35 mm (C axis). Magnetization versus field curves were measured with fields up to 0.15 T and temperatures ranging from 0.5 to 3 K using the single-crystal plate. Alignment of the single crystal was verified with Laue x-Ray diffraction prior to the magnetometry measurements.
+
+## III Results and Discussion
+
+Figure 1 shows a temperature scan of the magnetization taken with an applied field of 300 Oe after cooling in zero field on the polycrystalline sample for comparison with the \(\mu\)SR data. This data shows strong diamagnetism, indicating that our sample is superconducting with a \(T_{c}\) of about 2.3 K at \(H_{\text{ext}}\) = 300 Oe. The inset shows the temperature dependence of the upper critical field (\(H_{C2}\)) measured by performing magnetization measurements during isothermal field scans. This data shows a linear dependence to the critical field down to the lowest accessible temperature.
+
+Figures 2(a)-2(c) show \(\mu\)SR time spectra measured in an applied external field of 300 Oe \(<\)\(H_{C2}\) transverse to the muon spins at 0.03, 1, and 2 K after field cooling the sample to ensure a uniform vortex lattice. These data show a relaxing oscillating signal, with a beat evident in the lower temperatures along with a nonrelaxing signal that persists to large times. This indicates the presence of more than one component to the signal, and can be more easily visualized by looking at the Fourier transform (FT) of the 0.03 K data found in Fig. 2(d). We interpret the two peaks in the FT as arising from muons missing the sample and landing in the silver sample holder (peak at \(\approx\)300 G) and those hitting the sample and probing the superconducting state (lower field peak).
+
+Muons that land in a superconducting sample with an applied field between \(H_{C1}\) and \(H_{C2}\) see an asymmetric field distribution arising from the vortex state that will have the form shown in Fig. 2(d) inset. The experimental data from such a measurement, even on an ideal vortex lattice, will always show some broadening of this distribution due to the finite lifespan of the muon and time-window of the experiment. In practice, inhomogeneities in a sample will cause additional broadening of the field distribution that is difficult to rigorously account for. This is particularly important for the case of a polycrystalline sample where varied orientation and possible slight differences between the properties of different grains will broaden the signal. For our sample, we fit the field distribution to a three component model shown in Eq. (1) similar to that used by Khasanov _et al._ in measurements on high \(T_{C}\) cuprates [30]. This fit has two Gaussian-relaxing components representing the asymmetric superconducting line shape, and one nonrelaxing component representing the silver background. These fits are made in the time domain to avoid Fourier transform broadening and to properly use the experimental error bars for weighting:
+
+\[A = A_{T}[F\cos(\gamma_{\mu}B_{Ag}t)+(1-F)((1-C)\cos\] (1) \[\times(\gamma_{\mu}B_{1}t)e^{-0.5(\sigma_{\mu}t)^{2}}+C\cos( \gamma_{\mu}B_{2}t)e^{-0.5(\sigma_{\mu}t)^{2}})].\]
+
+Here, \(C\) and \(F\) are temperature independent values giving the ratio of the three components, \(B_{Ag}\) is the temperature independent mean field for the silver site, \(B_{1}\) and \(B_{2}\) are the temperature dependent sample fields, and \(\sigma_{i}\) are the temperature dependent Gaussian relaxation rates.
+
+Figure 1: Magnetization measurements on a polycrystalline sample of I\({}_{0.99}\)P\({}_{0.05}\)Te\({}_{2}\) measured in a field of 300 Oe after cooling in zero field. (Inset) Upper critical field of the polycrystalline sample. The red line shows a linear fit to the critical field.
+
+Figure 2: SR \(\mu\)SR time spectra of I\({}_{0.95}\)Pt\({}_{0.05}\)Te\({}_{2}\) measured in an applied field of 300 Oe at (a) \(T=\) 0.03, (b) 1, and (c) 2 K. (d) Fourier transform of the \(\mu\)SR data collected in an applied field of 300 Oe at \(T=\) 0.03 K. The inset in (d) shows the theoretical field distribution of a superconductor using the London model [29].
+
+  These fits gave values of \(C=0.405\) and \(F=0.271\), and the temperature dependent values shown in Fig. 3, where \(B_{av}=(1-F)B_{1}+FB_{2}\). The temperature dependence of the fit parameters indicate that \(T_{C}\approx 2.25\) K, consistent with that from our magnetization measurements at the same field. From these fits, we then determined the penetration depth using the analytical approximation appropriate for applied fields \(0.25<b<1\), where \(b=B_{av}/B_{c2}\)[31]:
+
+\[\lambda=\xi\sqrt{(1.94\times 10^{-2})\frac{\phi_{0}}{\xi^{2}}(1-b)\frac{\gamma_{ \mu}}{\sigma_{T}}+0.069}.\] (2)
+
+Here, \(\gamma_{\mu}=2\pi\times 135.538\) MHz/T is the muon gyromagnetic ratio, \(\phi_{0}=2.06783\times 10^{-15}\) Wb is the flux quantum, \(\xi\) is the coherence length, and \(\sigma_{T}\) is the overall effective width of the fit frequency distribution. We interpolated \(H_{c2}\) values from the data shown in the inset of Fig. 1 and used the relation \(H_{c2}=\phi_{0}/(2\pi\xi^{2})\) to determine \(\xi\). \(\sigma_{T}\) is given by Eq. (3) for the sum of two Gaussian distributions with different means [32]:
+
+\[\sigma_{T} = \left((1-C)(\sigma_{1}-\sigma_{bg})^{2}+C\sigma_{2}^{2}\right.\] (3) \[\left.+\,C(1-C)(\gamma_{\mu}\,B_{1}-\gamma_{\mu}\,B_{2})^{2})^{0.5}.\right.\]
+
+Here, \(\sigma_{b}\) is the high-\(T\) background relaxation rate.
+
+The calculated penetration depth is shown in Fig. 4 (blue squares). This penetration depth diverges towards infinity approaching \(T_{C}\) and at low temperature (\(T<0.5\) K) has an average value of \(154\pm 6\) nm with very weak temperature dependence (linear fit slope of \(-1\pm 4\) nm \(\approx 0\)). This behavior is consistent with what is expected for a conventional fully gapped superconductor that should asymptote to a constant low temperature value.
+
+To compare with the penetration depth measured by \(\mu\)SR, we also performed magnetization versus field measurements at a range of temperatures below \(T_{C}\) on a single-crystal plate. As our field in these measurements was applied using a superconducting coil, there will always be some trapped flux in the magnet, resulting in an offset from the expected field set by applying current. We corrected for this by doing a linear fit of the low-field MvH data of the ZFC field scans and subtracting the resulting field offset. This indicated a trapped flux of \(\approx\)2.5 Oe for the \(H\mid\mid\) C axis measurements, and \(\approx\)7.5 Oe for \(H\perp\) C axis.
+
+Magnetization vs. temperature data for this crystal at 50 Oe \(<H_{c1}\) is shown in Fig. 5 and indicates that \(T_{C}\approx 3\) K at this lower applied field. The magnetization in Fig. 5(b) is significantly larger than 50 G because demagnetization effects increase the effective internal field. We accounted for this in the rest of the analysis by approximating our sample as a rectangular prism of dimensions 2.4 mm \(\times\) 1.5 mm \(\times\) 0.35 mm. This gives a demagnetization factor of \(D_{\parallel}=0.7039\) for the field applied parallel to the C axis, and \(D_{\perp}=0.1124\) for the field applied perpendicular to the C axis, using the formula found in Ref. [33]. The internal field is then calculated as \(H_{\rm int}=H_{\rm ext}-DM\). This gives low temperature effective ZFC internal fields of 176 G for \(H\mid\mid\) C axis, and 55 G for \(H\perp\) C axi,s which indicate that either 98% or 84% of the volume is superconducting. The discrepancy between these two numbers may indicate some inaccuracy in our estimation of the demagnetization factors, but this uncertainty does not substantially affect the conclusions we have reached.
+
+The magnetization of a type II superconductor in the reversible regime near \(H_{c2}\) can be approximated using the London model as [34]
+
+\[-4\pi\,M=\frac{\alpha\phi_{0}}{8\pi\lambda_{2}}\ln\left(\frac{\beta\,H_{c2}}{ H}\right).\] (4)
+
+Here, \(M\) is the magnetization in G, \(\phi_{0}\) is the flux quantum, \(\lambda\) is the effective zero-field penetration depth, \(\alpha\) and \(\beta\) are constants that depend on the field range being fit. We therefore plotted \(M\) versus \(\ln(H)\) and fit the resulting linear regime to determine \(\lambda\) from the slope (\(s\)) as
+
+\[\lambda=\sqrt{\alpha\frac{\phi_{0}}{8\pi s}}.\] (5)
+
+Figure 4: Penetration depth determined from magnetometry and \(\mu\)SR measurements. Green circles are from magnetometry of a single crystal with \(H\parallel\) C axis. Red triangles are from magnetometry with \(H\perp\) C axis. Blue squares are from \(\mu\)SR using a Gaussian fit.
+
+Figure 3: Parameters used to fit Eq. (1) to the \(\mu\)SR data measured in a field of 300 Oe transverse to the muon spins. (a) and (b) show the individual relaxation rates \(\sigma_{1}\) and \(\sigma_{2}\). (c) shows the average sample internal field. (d) shows the effective total width of the frequency distribution [see Eq. (3)].
+
+  We used an \(\alpha\) value of 0.7 in the following analysis, appropriate to higher field ranges [34]. However, it is important to note that changing this value will only result in a rescaling of the penetration depth; it will not affect the temperature dependence. Examples of these linear fits are shown in Figs. 6(c) and 6(d). The resulting penetration depths are plotted alongside that measured by \(\mu\)SR in Fig. 4 (green circles and red triangles).
+
+This analysis gives low-temperature penetration depths of \(\lambda_{||}(0)=91\) nm and \(\lambda_{\perp}(0)=125\) nm, which shows that the anisotropy in this material is not large. The low temperature penetration depth measured by \(\mu\)SR (156 nm) is slightly larger than these two values. One would expect that the polycrystalline \(\mu\)SR sample should result in a directional averaging of the two penetration depths, However, as the \(\mu\)SR data is measured at 300 Oe, we would also expect it to have a slightly larger penetration depth compared to the effective zero-field values from the magnetization fitting. It is thus not surprising that the \(\mu\)SR value is above the average of the two zero-field values, and we can say that penetration depths measured by our two different techniques seem broadly consistent, giving a true zero-field average penetration depth close to 100 nm.
+
+From the penetration depth, we determined the normalized superfluid density, \(n_{s}\), in each case as
+
+\[\frac{n_{s}(T)}{n_{s}(0)}=\frac{\lambda^{2}(0)}{\lambda^{2}(T)}.\] (6)
+
+The resultant superfluid densities are plotted in Fig. 7. This figure allows us to look at the temperature dependencies of the superfluid density in each case without the confounding possible normalization issues discussed above. The inset in Fig. 7 shows these superfluid densities plotted versus normalized temperature (\(\frac{T}{T_{C}}\)) and shows that the temperature dependence of the superfluid density measured by the two methods is essentially the same aside from the shift in \(T_{C}\). Estimating \(H_{c2}\) from our MvH scans gives approximate values of 300 G for \(H\perp\) C axis and 225 G for \(H\parallel\) C axis at \(T=2.3\) K, the \(T_{C}\) measured from \(\mu\)SR at 300 G. From these values we would expect a somewhat lower \(T_{C}\) at 300 G (closer to 2.1 K), but the discrepancy is not large. The likely explanation is that there is some variation between individual crystal grains, and that the one we used for the single-crystal measurements has a slightly lower \(T_{C}\) compared to the polycrystalline aggregate used for the \(\mu\)SR measurements.
+
+To determine whether our data matches what would be expected of a fully gapped superconductor, we fit these superfluid densities to the formula [35]
+
+\[n_{s}(T)=C\bigg{[}1-2\int_{\Delta}^{\infty}dE\bigg{(}-\frac{\partial F}{ \partial E}\bigg{)}\frac{E}{\sqrt{E^{2}-\Delta^{2}}}\bigg{]}.\] (7)
+
+Here, \(C\) is a scaling constant, \(E\) is the energy difference above the Fermi energy, \(F=\frac{1}{\Delta^{2}/n_{s}^{2}+1}\) is the Fermi function, \(k_{B}\) is the Boltzmann constant, and \(\Delta\) is the gap, which we approximate
+
+Figure 5: Magnetization measurements on a single-crystal sample of I\({}_{0.95}\)Pt\({}_{0.03}\)Te\({}_{2}\) in a field of 50 Oe applied (a) perpendicular to the C axis and (b) parallel to the C axis. Closed circles show measurements after cooling in zero applied field and open circles show measurements after cooling with the field applied.
+
+Figure 6: (a) and (b) Magnetization vs internal field curves measured at 0.5 K (black squares) and 2 K (red circles) for (a) \(H\parallel\) C axis and (b) \(H\perp\) C axis. (c) and (d) Magnetization vs ln(\(H\)) curves along with linear fits to the high-field region (solid lines) measured at 0.5 K (black squares) and 2 K (red circles) for (c) \(H\parallel\) C axis and (b) \(H\perp\) C axis.
+
+  using the interpolation formula [36]
+
+\[\Delta(T)=\Delta_{0}\tanh\left(1.742\sqrt{\frac{T_{c}}{T}}-1\right).\] (8)
+
+Here, \(\Delta_{0}\) is the zero temperature value of the gap, and \(T_{c}\) is the critical temperature.
+
+The results of these fits are shown as the solid lines in Fig. 7. These data all show good agreement with the fits, therefore our data is consistent with Ir\({}_{0.95}\)Pt\({}_{0.05}\)Te\({}_{2}\) being a fully gapped superconductor. In particular, the data show a flat temperature dependence of \(n_{s}\) at low temperatures, which suggests that there are no nodes in the gap and hence the majority of the carriers are fully gapped. We find no evidence in these fits for unconventional superconductivity, however there are some exotic states such as \(p\)-wave \(k_{x}\pm ik_{y}\) that are fully gapped and would be indistinguishable from \(s\) wave in our measurements [37].
+
+Furthermore, we can compare the fit values for \(T_{c}\) and \(\Delta_{0}\) shown in Table 1 to the expected constant \(\frac{2\Delta_{0}}{k_{x}T_{c}}=3.5\) expected for a BCS weak coupling superconductor. The data show a range between 3.68 and 4.7 for this ratio, which is close to the expected ratio. The somewhat larger gap extracted from the \(\mu\)SR data may come from disorder in the vortex lattice during the \(\mu\)SR measurements particularly at higher temperature. Disorder would tend to increase the measured \(\mu\)SR relaxation rate and hence the superfluid density. If this occurs most at higher temperature, it would have the effect of sharpening the measured transition, yielding a larger fit gap value. This could be mitigated by future \(\mu\)SR measurements on large single crystals where the effect of disorder may be easier to isolate.
+
+Our data overall give results similar to other groups STM measurements on Ir\({}_{0.95}\)Pd\({}_{0.05}\)Te\({}_{2}\) that found a value of \(\frac{2\Delta_{0}}{k_{x}T_{c}}=3.6\)[25]. This indicates that differently doped (Pd versus Pt) IrTe\({}_{2}\) display similar superconducting properties.
+
+## IV Conclusion
+
+We have presented penetration depth and superfluid density data of Ir\({}_{0.95}\)Pt\({}_{0.05}\)Te\({}_{2}\) determined from SQUID magnetometry and \(\mu\)SR. These data are consistent with conventional BCS weak coupling \(s\)-wave superconductivity in Ir\({}_{0.95}\)Pt\({}_{0.05}\)Te\({}_{2}\), with a zero-temperature gap of \(\Delta_{0}=0.46\) meV. We see no evidence for nodes in the gap which suggests that \(d\)-wave pairing symmetry does not appear in this material. However, we are unable to distinguish \(p\)-wave and \(s\)-wave pairing as some \(p\)-wave states may be fully gapped.
+
+Finally, our work shows that the temperature dependence of the penetration depths measured by two very different techniques (\(\mu\)SR and magnetometry) are consistent with one another. This strengthens the conclusions we can draw from one technique alone, and is to our knowledge the first quantitative comparison of the results of the two techniques on the same material.
+
+## Acknowledgments
+
+We thank G. D. Morris, B. S. Hitti, and D. J. Arseneau (TRIUMF) for their assistance with the \(\mu\)SR measurements. Work at McMaster University was supported by the Natural Sciences and Engineering Research Council of Canada and the Canadian Foundation for Innovation. M.N.W acknowledges support from the Alexander Graham Bell Canada Graduate Scholarship program. The Columbia University group acknowledges support from NSF DMR-1436095 (DMREF), OISE-0968226 (PIRE), JAEA Reimei project, and Friends of University of Tokyo Inc. Work at ORNL was supported by the US Department of Energy, Office of Science, Basic Energy Sciences, Materials Sciences and Engineering Division.
+
+## References
+
+* [1] J. A. Wilson and A. D. Yoffe, Adv. Phys. **18**, 193 (1969).
+* [2] K. Rossnagel, J. Phys.: Condens. Matter **23**, 213001 (2011).
+* [3] R. H. Friend and A. D. Yoffe, Adv. Phys. **36**, 1 (1987).
+* [4] T. Yokoya, T. Kiss, A. Chainani, S. Shin, M. Nohara, and H. Takagi, Science **294**, 2518 (2001).
+* [5] E. Morosan, H. W. Zandbergen, B. S. Dennis, J. W. G. Bos, Y. Onose, T. Klimczuk, A. P. Ramirez, N. P. Ong, and R. J. Cava, Nat. Phys. **2**, 544 (2006).
+* [6] A. F. Kusmartseva, B. Sipos, H. Berger, L. Forro, and E. Tutis, Phys. Rev. Lett. **103**, 236401 (2009).
+
+\begin{table}
+\begin{tabular}{l c c c}  & \(\Delta_{0}\) (meV) & \(T_{C}\) (K) & \(\frac{2\Delta_{0}}{k_{B}T_{C}}\) \\ \(\mu SR\) & 0.467 & 2.29 & 4.7 \\ SQUID perpendicular & 0.463 & 2.84 & 3.9 \\ SQUID parallel & 0.463 & 2.92 & 3.7 \\ \end{tabular}
+\end{table}
+Table 1: Parameters used for the superfluid density fits to Eq. (7) shown in Fig. 7.
+
+Figure 7: Normalized superfluid density determined from magnetization and \(\mu\)SR measurements. Red triangles are from magnetometry of a single crystal with \(H\parallel\) C axis. Green circles are from magnetometry with \(H\perp\) C axis. Blue squares are from the \(\mu\)SR data. Solid lines show BCS fits to the data using Eq. (7).
+
+  * [7] J. J. Yang, Y. J. Choi, Y. S. Oh, A. Hogan, Y. Horibe, K. Kim, B. I. Min, and S.-W. Cheong, Phys. Rev. Lett. **108**, 116402 (2012).
+* [8] B. Sipos, A. F. Kusmartseva, A. Akrap, H. Berger, and L. Forro, Nat. Mater. **7**, 960 (2008).
+* [9] N. Matsumoto, K. Taniguchi, R. Endoh, H. Takano, and S. Nagata, J. Low Temp. Phys. **117**, 1129 (1999).
+* [10] H. Cao, B. C. Chakoumakos, X. Chen, J. Yan, M. A. McGuire, H. Yang, R. Custelcean, H. Zhou, D. J. Singh, and D. Mandrus, Phys. Rev. B **88**, 115122 (2013).
+* [11] G. L. Pascut, K. Haule, M. J. Gutmann, S. A. Barnett, A. Bombardi, S. Artyukhin, T. Birol, D. Vanderbilt, J. J. Yang, S.-W. Cheong, and V. Kiryukhin, Phys. Rev. Lett. **112**, 086402 (2014).
+* [12] T. Toriyama, M. Kobori, T. Konishi, Y. Ohta, K. Sugimoto, J. Kim, A. Fujiwara, S. Pyon, K. Kudo, and M. Nohara, J. Phys. Soc. Jpn. **83**, 033701 (2014).
+* [13] W. Ruan, P. Tang, A. Fang, P. Cai, C. Ye, X. Li, W. Duan, N. Wang, and Y. Wang, Sci. Bull. **60**, 798 (2015).
+* [14] P. J. Hsu, T. Mauerer, M. Vogt, J. J. Yang, Y. S. Oh, S.-W. Cheong, M. Bode, and W. Wu, Phys. Rev. Lett. **111**, 266401 (2013).
+* [15] Q. Li, W. Lin, J. Yan, X. Chen, A. G. Gianfrancesco, D. J. Singh, D. Mandrus, S. V. Kalinin, and M. Pan, Nat. Commun. **5**, 5358 (2014).
+* [16] S. Pyon, K. Kudo, and M. Nohara, J. Phys. Soc. Jpn. **81**, 053701 (2012).
+* [17] K. Kudo, M. Kobayashi, S. Pyon, and M. Nohara, J. Phys. Soc. Jpn. **82**, 085001 (2013).
+* [18] D. Ootsuki, Y. Wakisaka, S. Pyon, K. Kudo, M. Nohara, M. Arita, H. Anzai, H. Namatame, M. Taniguchi, N. L. Saini, and T. Mizokawa, Phys. Rev. B **86**, 014519 (2012).
+* [19] M. Kamitani, M. S. Bahramy, R. Arita, S. Seki, T. Arima, Y. Tokura, and S. Ishiwata, Phys. Rev. B **87**, 180501(R) (2013).
+* [20] J.-Q. Yan, B. Saparov, A. S. Sefat, H. Yang, H. B. Cao, H. D. Zhou, B. C. Sales, and D. G. Mandrus, Phys. Rev. B **88**, 134502 (2013).
+* [21] A. Kiswandhi, J. S. Brooks, H. B. Cao, J. Q. Yan, D. Mandrus, Z. Jiang, and H. D. Zhou, Phys. Rev. B **87**, 121107(R) (2013).
+* [22] A. P. Schnyder, S. Ryu, A. Furusaki, and A. W. W. Ludwig, Phys. Rev. B **78**, 195125 (2008).
+* [23] L. Fu and E. Berg, Phys. Rev. Lett. **105**, 097001 (2010).
+* [24] S. Y. Zhou, X. L. Li, B. Y. Pan, X. Qiu, J. Pan, X. C. Hong, Z. Zhang, A. F. Fang, N. L. Wang, and S. Y. Li, Europhys. Lett. **104**, 27010 (2013).
+* [25] D. J. Yu, F. Yang, L. Miao, C. Q. Han, M.-Y. Yao, F. Zhu, Y. R. Song, K. F. Zhang, J. F. Ge, X. Yao, Z. Q. Zou, Z. J. Li, B. F. Gao, C. Liu, D. D. Guan,w and C. L. Gao, D. Qian, and J.-F. Jia, Phys. Rev. B **89**, 100501(R) (2014).
+* [26] J. E. Sonier, Rev. Mod. Phys. **72**, 769 (2000).
+* [27] A. F. Fang, G. Xu, T. Dong, P. Zheng, and N. L. Wang, Sci. Rep. **3**, 1153 (2013).
+* [28] A. Suter and B. M. Wojek, Phys. Procedia **30**, 69 (2012).
+* [29] E. H. Brandt, Phys. Rev. B **37**, 2349(R) (1988).
+* [30] R. Khasanov, A. Shengelaya, A. Maisuradze, F. La Mattina, A. Bussmann-Holder, H. Keller, and K. A. Muller, Phys. Rev. Lett. **98**, 057007 (2007).
+* [31] E. H. Brandt, Phys. Rev. B **68**, 054506 (2003).
+* [32] H. Cramer, _Mathematical Methods of Statistics_ (Princeton University Press, Princeton, 1946), Chap. 15.4.
+* [33] A. Aharoni, J. Appl. Phys. **83**, 3432 (1998).
+* [34] Z. Hao and J. R. Clem, Phys. Rev. Lett. **67**, 2371 (1991).
+* [35] M. Tinkham, _Introduction to Superconductivity_ (Dover, New York, 2004), p. 92.
+* [36] F. Gross, B. S. Chandrasekhar, D. Einzel, K. Andres, P. J. Hirschfeld, H. R. Ott, J. Beuers, Z. Fisk, and J. L. Smith, Z. Phys. B **64**, 175 (1986).
+* [37] G. M. Luke, Y. Fudamoto, K. M. Kojima, M. I. Larkin, B. Nachumi, Y. J. Uemura, J. E. Sonier, Y. Maeno, Z. Q. Mao, Y. Mori, and D. F. Agterberg, Phys. B (Amsterdam, Neth.) **289-290**, 373 (2000).
+
+ 

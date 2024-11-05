@@ -1,0 +1,525 @@
+Superconducting and normal-state properties of single-crystalline
+Tl0.47Rb0.34Fe1.63Se2 as seen via 77Se and 87Rb NMR
+
+Long Ma,¹ G. F. Ji,¹ J. Zhang,² J. B. He,¹ D. M. Wang,¹ G. F. Chen,¹ Wei
+Bao,¹ Weiqiang Yu^(1, *)
+
+¹Department of Physics, Renmin University of China, Beijing 100872,
+China
+
+²School of Energy, Power and Mechanical Engineering, North China
+Electric Power University, Beijing 102206, China
+
+Received 22 February 2011; revised manuscript received 7 April 2011;
+published 11 May 2011
+
+###### Abstract
+
+We report both ⁷⁷Se and ⁸⁷Rb nuclear magnetic resonance (NMR) studies on
+Tl0.47Rb0.34Fe1.63Se2 single-crystalline superconductors (T_(c) ≈ 32 K).
+Singlet superconductivity is suggested by a sharp drop of the Knight
+shift K(T) below T_(c), after subtracting the superconducting
+diamagnetic effect. However, the Hebel-Slichter coherence peak below
+T_(c) is not observed in the spin-lattice relaxation rate 1/T₁, even
+with a low in-plane NMR field of 2.6 T. Just above T_(c), no evidence of
+low-energy spin fluctuation is found in the spin-lattice relaxation rate
+on both the ⁷⁷Se and the ⁸⁷Rb sites. Upon warming, however, the Knight
+shifts and the spin-lattice relaxation rates of both nuclei increase
+substantially with temperature. In particular, the Knight shift is
+nearly isotropic and follow a function fit of K = a + bT² from T_(c) up
+to 300 K. Our observations should put a strong constraint to the theory
+of magnetism and superconductivity in the recently discovered iron
+selenide superconductors.
+
+DOI: 10.1103/PhysRevB.83.174510 PACS number(s): 74.70.Xa, 76.60.−k
+
+## I Introduction
+
+As the second type of high-temperature superconductors after cuprates,
+the iron-based superconductors [1, 2, 3, 4] have attracted a lot of
+research interests in recent years. The iron pnictide superconductors
+are remarkable in that they originate from antiferromagnetic (AFM)
+semimetals [4] and have multiple electron and hole bands on the Fermi
+surface which are gapped in the superconducting state. [5, 6] Lately, a
+family of iron selenide superconductors, with nominal chemical formulas
+A_(y)Fe_(2 − x)Se₂ or (TI, A_(y))Fe_(2 − x)Se₂ (A = K, Rb, Cs). [7, 8,
+9, 10, 11] have been discovered within a T_(c) as high as 33 K.
+Comparing with iron pnictides, this iron selenide family shows
+qualitatively different properties in lattice structure, band structure,
+and magnetic properties, as described below, and thus enrich and
+challenge our understanding of the iron-based superconductivity.
+
+First, the composition of this type of superconductors is suggested to
+be close to A_(0.8)Fe_(1.6)Se₂ by the x-ray and the neutron diffraction
+structure refinement studies. [12, 13] This chemical stoichiometry leads
+to an almost perfect Fe-vacancy order in superconductors with a
+$\sqrt{5}\times\sqrt{5}\times 1$ supercell at low temperatures. [12, 13,
+14, 15, 16] Second, the angle-resolved photoemission spectroscopy
+(ARPES) studies found that the hole bands centered at the Γ point sink
+below the Fermi level, [17, 18] which is different from previous iron
+pnictide and chalcogenide superconductors. [19, 20, 21] Third, nodeless
+superconducting gaps are observed on the electron pockets on the Fermi
+surface. [17, 18, 21, 20, 21] NMR studies on nominal K0.8Fe_(2 − x)Se₂
+show a singlet pairing symmetry from the Knight shift, whereas the
+Hebel-Slichter coherence peak is not observed in the spin-lattice
+relaxation rate. [22] The s^(±) gap symmetry, proposed in iron pnictides
+with interband transitions, [23, 24] may not be applicable here because
+of the absence of the hole band on the Fermi surface. Finally, an AFM
+order with large magnetic moments (2.3-3.3 μ_(B)/Fe) has been determined
+by neutron diffraction [13, 32] for all of the these iron selenide
+superconductors and possibly coexists with bulk superconductivity, as
+indicated by the μSR and other bulk measurements. [13, 26, 27] From NMR,
+however, the Curie-Weiss upturn in 1/T₁T, as an indication of low-energy
+spin fluctuations observed in most iron pnictides, [28, 29, 30, 31, 32,
+33, 34, 35] is not seen in K0.8Fe_(2 − x)Se₂ (Ref. [22]).
+
+In the previous NMR studies, the superconducting diamagnetic effect is
+not counted, which may preclude a strong evidence for a singlet pairing.
+[23, 36, 37] It should also be noted that the large NMR magnetic field
+used in those studies may suppress the Hebel-Slichter coherence peak.
+Furthermore, a large increase of the Knight shifts and the spin-lattice
+relaxation rates with temperature are also observed in the normal state
+with an unknown origin. So far NMR data are only available in
+K0.8Fe_(2 − x)Se₂. NMR studies in the same structure family are seeking
+to verify and understand these observations.
+
+In this paper, we report both ⁷⁷Se and ⁸⁷Rb NMR studies on a
+single-crystalline Tl0.47Rb0.34Fe1.63Se2 superconductor. The paper is
+organized as following. First, we compare the Knight shifts of ⁷⁷Se and
+⁸⁷Rb in the superconducting state. The superconducting diamagnetic
+effect are evaluated, owing to the differences in the hyperfine coupling
+strength of the two nuclei. Second, we investigate the spin-lattice
+relaxation rate under different NMR fields below T_(c). The coherence
+peak is not observed even with a 2.6-T in-plane field. Finally, we study
+the Knight shift and the spin-lattice relaxation rate in the normal
+state and discuss the possible spin fluctuations. Detailed comparisons
+with K0.8Fe_(2 − x)Se₂ are also given in the paper.
+
+## II Experimental techniques and results
+
+The Tl0.47Rb0.34Fe1.63Se2 single crystals were synthesized by the
+Bridgeman method. [11] The chemical composition, determined by the
+inductively coupled plasma (ICP) analysis, is consistent with the Fe
+vacancy order in a general stoichiometric structure of
+A_(0.8)Fe_(1.6)Se₂ (or A₂Fe₄Se₅). [14] In this paper, we primarily
+report our results on one single crystal with dimensions of ∼5 x 3 x 1
+mm³ (T_(c) ≈ 32 K at zero field). The superconducting transition was
+monitored _in situ_ by the ac susceptibility measurements with the NMR
+coil. In Fig. 1(a), T_(c) is shown at about 31 K with an 11.62-T field
+oriented along the crystalline c axis.
+
+The ⁷⁷Se (S = 1/2) NMR is performed under an 11.62-T NMR field, and ⁸⁷Rb
+(S = 3/2) NMR is performed under 11.62- and 2.6-T fields. We also
+studied the field anisotropy effect with field along both the
+crystalline c axis and the ab plane. Typical ⁷⁷Se spectra with H//c are
+shown in Fig. 1(b). A linewidth about 20 kHz is observed at T = 35 K,
+and narrows down as temperature increases. Below T_(c), the spectra
+broaden and shift to lower frequencies. The ⁸⁷Rb has one center
+transition and two satellites (v_(q) ≈ 1.4 MHz, data not shown).
+
+The Knight shifts ⁷⁷K(T) and ⁸⁷K(T) are obtained from
+K(T) = (f − γ_(n)B)/γ_(n)B, where f is the measured resonance frequency
+at magnetic field B, and ⁷⁷γ_(n) = 8.131 MHz/T and ⁸⁷γ_(n) = 13.931
+MHz/T are the gyromagnetic ratios of two respective nuclei. The Knight
+shift data of ⁷⁷Se and ⁸⁷Rb are shown in Figs. 2 and 3, respectively.
+
+The spin-lattice relaxation rate 1/T₁ is measured by the
+inversion-recovery method and is obtained from the fitting
+I(t)/I(0) = 1 − ae^(−t/T1) for ⁷⁷Se and
+I(t)/I(0) = 1 − a(0.1e^(−t/T1) + 0.9e^(−t/T1)) for ⁸⁷Rb (a ≥ 1). The
+fitting works nicely at all measured temperatures, indicating a single
+phase. The 1/⁷⁷T₁ and 1/⁸⁷T₁ data are shown in Figs. 4 and 5,
+respectively.
+
+## III The NMR Knight shift and the singlet superconductivity
+
+The ⁷⁷Se Knight shift data of Tl_(0.47)Rb_(0.34)Fe_(1.63)Se₂ are shown
+in Fig. 2(a). The measurements were performed with field along either
+the ab plane (open diamonds) or the c axis (open circles). Above T_(c),
+the ⁷⁷K for both field orientations increases monotonically with
+temperature. In fact, both sets of data can be nicely fit by a simple
+function K(T) = a + bT² with temperature from T_(c) to 300 K, as shown
+in Fig. 2(b). The fitting parameters are given as
+
+Figure 1: (Color online) (a) The temperature shift of the tuning
+frequency f of a fixed NMR circuit, with the field (11.62 T) oriented
+along the crystalline c axis. The large frequency shift below T_(c) is
+related to the ac susceptibility χ_(ac) of the sample, Δf ∝ −χ_(ac).
+T_(c) of the sample is determined as 31 ± 1 K with the applied field.
+(b) The ⁷⁷Se NMR spectra at different temperatures. For data below 28 K,
+the circles represent the integrated spectral intensity, and the solid
+lines are Gaussian fits to the data.
+
+Figure 4: (Color online) The temperature dependence of the spin-lattice
+relaxation rate 1/⁷⁷T₁ with an 11.62-T field oriented along the c axis.
+The solid line is a guide for the eye. Insets: (a) 1/⁷⁷T₁T vs
+temperature; (b) the low-temperature 1/⁷⁷T₁ data highlighted with a
+log-log scale. The solid line is a guide for the eye.
+
+Figure 3: (Color online) (a) The temperature dependence of the Knight
+shift ⁸⁷K under an 11.62-T NMR field with H//c. The solid line is a
+function fit to K(T) = a + bT². (b) Repid of the low-temperature part of
+⁸⁷K (open circles) and ⁷⁷K (open diamonds) under the same field
+condition. The solid line is a guide to the normal state ⁷⁷K. The solid
+diamonds with error bars represent the values of ⁷⁷K after subtracting
+the superconducting diamagnetic effect (see text).
+
+a ≈ 0.1% and b ≈ 6 × 10⁻⁶%/K² for H//ab and a ≈ 0.1% and
+b ≈ 5.5 × 10⁻⁶%/K² for H//c. The low-temperature part of ⁷⁷K(T) is
+highlighted in Fig. 2(c) to show a fast drop of ⁷⁷K from T_(c) to
+T_(c)/2 (about 15 K) with both field orientations. Below 15 K, the
+spectral intensity is very small due to RF screening, and we believe our
+Knight shift is not well determined because that vortex core also
+contributes to the spectrum.
+
+The ⁸⁷Rb Knight shift data of Tl_(0.4r)Rb_(0.34)Fe_(1.63)Se₂ are shown
+in Fig. 3(a). The measurements were performed with field along the
+crystalline c axis. Above T_(c), the ⁸⁷K also increases with
+temperature, following the same a + bT² behavior (see the solid line
+fitting).
+
+We first discuss the Knight shift data in the superconducting state and
+its implication to the pairing symmetry. Below T_(c), the total shift K
+includes three parts K = K_(d) + K_(s) + K_(c), where K_(d), K_(s), and
+K_(c) represent the superconducting diamagnetic shielding, the spin, and
+the chemical (or orbital) contribution to the frequency shift. In
+principle, K_(c) does not change with temperature, while K_(d) decreases
+from zero to negative below T_(c), and K_(s) measures local electron
+susceptibility. Therefore, below T_(c), the change of the shift follows
+ΔK(T) = ΔK_(s)(T) + ΔK_(d)(T) with ΔK defined as ΔK = K(T) − K(T_(c)).
+Usually, the K_(s) and the K_(d) are difficult to separate. In the
+current compound, due to a weaker hyperfine coupling on the interlayer
+⁸⁷Rb site, as shown by the smaller Knight shift, K_(s) and K_(d) can be
+estimated by comparing the ⁷⁷K and the ⁸⁷K under the same field
+condition [see Fig. 3(b)], as described below.
+
+Let us first look at the Knight shifts at a specific temperature T = 16
+K. The ⁸⁷K decreases by about 0.028 ± 0.004% from T_(c) to 16 K, which
+gives the diamagnetic shift of −0.028% < ΔK_(d) < 0.1. It is reasonable
+to assume that K_(d) is the same for both nuclei from the same
+diamagnetic shielding; therefore, the value of ⁷⁷K_(s) + ⁷⁷K_(c) for
+⁷⁷Se should be moved up by the same amount 0.028 ± 0.004% (or less) from
+the ⁷⁷K(T) (0.015 ± 0.004%). This gives
+⁷⁷K_(s) + ⁷⁷K_(c) ≤ 0.043 ± 0.008% at 16 K, which is far below the guide
+line of the normal state ⁷⁷K.
+
+The K_(d) and K_(s) can also be calculated with a higher precision as
+follows. We first estimate ⁸⁷K_(s)/⁷⁷K_(s) ≈ 0.4 from the change of the
+Knight shift in the temperature range between T_(c) and 300 K, because
+the ⁷⁷K and the ⁸⁷K increase with the same T² behavior. Then the values
+of K_(d) and K_(s) are separated from the ⁷⁷K and ⁸⁷K data at each
+temperature below T_(c), using ⁸⁷K_(s)/⁷⁷K_(s) = 0.4. We plot the
+resulting value of ⁷⁷K_(s) + ⁷⁷K_(c) below T_(c) in Fig. 3(b) (the solid
+diamonds). The data shown that the diamagnetic shift is less than 0.02%
+even at the lowest temperature.
+
+A sharp drop in ⁷⁷K just below T_(c), after the subtraction of the
+diamagnetic effect, is clearly seen, indicating a singlet
+superconductivity. This confirms the previous results in
+K_(0.8)Fe_(2 − x)Se₂, although the diamagnetic effect was not considered
+there.[22] The singlet pairing puts a strong constraint to the
+superconducting mechanism and narrows down the gap to s-wave, d-wave, or
+other even orbital symmetry.
+
+## IV The spin-lattice relaxation rate and the coherence peak
+
+We further study the spin-lattice relaxation rate below T_(c) to
+understand the pairing symmetry. Usually, the 1/T₁ far below T_(c)
+follows an activation behavior for a conventional s-wave superconductor.
+Unfortunately, the strong RF screening of our single-crystal limits our
+studies of T₁ to a narrow temperature range below T_(c).
+
+The 1/⁷⁷T₁ data with field oriented along the c axis is shown in Fig. 4.
+Above T_(c), the 1/⁷⁷T₁ increases with temperatures. Below T_(c), a
+sharp drop of 1/⁷⁷T₁ is clearly shown by the low-temperature highlight
+in Fig. 4(b). In Fig. 5, we show the 1/⁸⁷T₁ data of ⁸⁷Rb with a 2.6-T
+field oriented along the ab plane. We are able to measure 1/⁸⁷T₁ below
+T_(c) due to the higher natural abundance of ⁸⁷Rb. A sharp drop of
+1/⁸⁷T₁ is also prominent, as shown in Fig. 5(b).
+
+The above data show that the Hebel-Slichter coherence peak is absent in
+the 1/T₁ just below T_(c) for both nuclei. Since the H_(c2)^(ab)(0) is
+over 60 T for this class of iron selenide superconductors,[38; 39] the
+coherence peak is unlikely to be suppressed with the 2.6-T in-plane
+field. The absence of the coherence peak in the current compound is
+consistent with the result reported in K_(0.8)Fe_(2 − x)Se₂ (Refs. [22;
+36; 37]).
+
+Usually, the absence of a coherence peak is interpreted as evidence for
+d-wave or other non-s-wave pairing symmetry. In most iron pnictides, the
+coherence peak is not observed by far,[40; 41; 42; 43; 44; 45; 46] which
+is proposed as a consequence of the s^(±) pairing symmetry with
+interband impurity scattering.[47; 48; 49; 50; 51] In the current iron
+selenide superconductors, however, the s^(±) scenario with interband
+transitions may not be applicable, because the hole band is absent on
+the Fermi surface close to the Γ point. The absence of the coherence
+peak suggests that the system is different from a conventional s-wave
+superconductor and needs to be further addressed. It may be worthwhile
+to note that an s^(±) symmetry is proposed in K_(0.8)Fe_(2 − x)Se₂
+considering the coupling between the bonding and the antibonding states
+on the Fermi surface.[52]
+
+## V The low-temperature spin dynamics
+
+Next we discuss the magnetic properties from the Knight shift and the
+spin-lattice relaxation rate data in the normal state. In Fig. 4(a), the
+1/⁷⁷T₁T is plotted versus temperature to compare with the Fermi liquid
+behavior (1/T₁T= const.).
+
+Figure 5: (Color online) The temperature dependence of the spin-lattice
+rate 1/⁸⁷T₁ with a 2.6-T field oriented along the ab plane. The solid
+line is a guide for the eye. Insets: (a) 1/⁸⁷T₁T vs temperature; (b) the
+highlighted low-temperature 1/⁸⁷T₁ data.
+
+Our data show that 1/⁷⁷T₁T reaches a constant value when the temperature
+is close to T_(c). 1/⁸⁷T₁T also shows a similar temperature dependence
+as seen in Fig. 5(a). The Knight shift data, ⁷⁷K and ⁸⁷K, also level off
+toward T_(c) [see Figs. 2(a) and 3(a)]. The levels off of both the
+Knight shift and the 1/T₁T suggest that the system approaches a normal
+Fermi liquid behavior at low temperatures, with a constant density of
+states at the Fermi level.
+
+In contrast, the binary iron selenide (FeSe) superconductors show strong
+AFM spin fluctuations by a Curie-Weiss upturn in 1/T₁T ∼ 1/(T + Θ)[28]
+above T_(c). Similarly, the Curie-Weiss upturn in 1/T₁T has also been
+reported in many iron arsenide superconductors.[29, 30, 31, 32, 33, 34,
+35] The existence of AFM spin fluctuations just above T_(c) in the
+previous iron-based superconductors draw a correlation between spin
+fluctuations and superconductivity.[28, 30, 31, 32, 33, 34, 35]
+
+The absence of the Curie-Weiss upturn in 1/⁷⁷T₁T in the current material
+and also in K_(0.8)Fe_(2 − x)Se₂[22] suggests that the spin fluctuations
+are weak in both compounds, although their T_(c)’s are also high. These
+distinctive behaviors of the spin-lattice relaxation rate in the current
+iron selenides does not seem to support that the superconductivity has a
+magnetic origin. We note that in several iron pnictides with low T_(c),
+the spin fluctuations appear to be weak.[36, 37, 38]
+
+However, we should be aware that spin fluctuations may exist in other
+forms. For example, some spin fluctuations at the wave vector (±π, ±π)
+cannot be detected in the current spin-lattice relaxation rate, due to
+the cancellation effect on the Se and Rb sites which are located at the
+center of the Fe square. Furthermore, as we show below, the spin
+fluctuations may exist in the high-energy modes according to our
+high-temperature data.
+
+## VI The High-Temperature Spin Dynamics
+
+To further compare with a Fermi liquid behavior, we plot (T₁T)^(−0.5)
+against K(T) in Figs. 6(a) and 6(b) for both nuclei. Usually, a Fermi
+liquid follows the Korringa relation (T₁T)^(−0.5) ∝ K_(s). As shown in
+Fig. 6(a), a linear relation between (T₁T)^(−0.5) and K(T), as demanded
+by the Korringa relation, is approximately satisfied for ⁷⁷Se in the
+low-temperature limit. However, the Korringa relation is not obeyed in
+the high-temperature range, indicating a deviation from the Fermi liquid
+behavior. Here we estimated K_(c) ≈ 0 based on the value of K at
+T ≪ T_(c), where K_(s)(T) = 0 is expected [see Fig. 3(b)]. For ⁸⁷Rb, the
+Korringa relation does not hold either at high temperatures.
+
+Now we look closely at the high-temperature behavior of the Knight shift
+and the spin-lattice relaxation rate. The 1/T₁T of two nuclei increases
+substantially with temperature. The Knight shift data ⁷⁷K and the ⁸⁷K
+increase by over a factor of three, when the temperature increases from
+T_(c) to the room temperature, as shown in Figs. 2 and 3. The Knight
+shift ⁷⁷K of K_(0.8)Fe_(2 − x)Se₂ with H//ab is also plotted in Fig.
+2(b), and it falls on the same line of the current compound. This
+suggests a universal electronic structure in these iron selenide
+superconductors. In contrast, in most iron pnictides, the Knight shift
+shows a much smaller increase with a linear T behavior.[32]
+
+The anisotropy of the Knight shift is small with
+K_(ab)^(ab)/K_(c)^(s) ≈ 1.1 in the studied temperature range, as
+indicated by the slightly different slope in the T² plot of ⁷⁷K (see
+Fig. 2). This anisotropy may come from an anisotropic susceptibility or
+an anisotropic hyperfine coupling. As a local probe, the Knight shift
+data should indicate an intrinsic behavior of the magnetic
+susceptibility. In contrast, the magnetic susceptibility reported on
+Tl_(0.58)Rb_(0.42)Fe_(1.72)Se₂ shows a T² behavior with H ∥ c, but not
+with H ∥ ab [Refs. [38]], which may be affected by some unknown
+contributions. Furthermore, the ratio ⁸⁷K/⁷⁷K ≈ 0.4 indicates that the
+hyperfine field on the interlayer Rb site is comparable to that on the
+Se site, implying a three-dimensional-like system.
+
+Such a large increase of the Knight shift is unlikely caused by charge
+excitations. In this compound, the charge excitation scenario will
+require an increase of the electron density over a factor of three up to
+the room temperature, which has not been indicated by any ARPES or
+transport measurements. Spin fluctuations constitute another possible
+scenario. The temperature behavior of the Knight shift suggest that a
+finite spin gap (or pseudogap) may exist, so that the spin fluctuations
+are suppressed at low temperatures and thermally activated at high
+temperatures. However, the experimental evidence for the physical origin
+of such a spin gap is lacking. Our evidence of nearly isotropic,
+three-dimensional Knight shift should constitute important constraints
+to possible theories.
+
+We note that a magnetic transition at about 500 K has been reported by
+recent neutron scattering[25] and susceptibility measurements[27] on
+(Tl, A)${}_{\rm Fe2-x}$Se₂ superconductors. However, the long-range
+antiferromagnetism has not been seen by NMR so far. It is possible that
+the sample is phase separated with magnetic regions and nonmagnetic
+regions at low temperatures. Further NMR measurements, in particular at
+high temperatures, are needed to address this issue.
+
+## VII Summary
+
+To summarize, our ⁷⁷Se and ⁸⁷Rb Knight shifts of
+Tl_(0.47)Rb_(0.34)Fe_(1.63)Se₂ show bulk evidence for singlet
+superconductivity. However, the Hebel-Slichter coherence peak is not
+seen in the spin-lattice relaxation rate at a very low in-plane field,
+which suggests that the system is probably not a conventional s-wave
+superconductor. In the normal state, evidence for low-energy spin
+fluctuations is not observed close
+
+Figure 6: (Color online) The plot of (T₁T)^(−0.5) vs K(T) with
+temperature as an implicit parameter. The solid line represents the
+Korringa relation.
+
+to T_(c), which raises questions about the correlation between spin
+fluctuations and the superconductivity. With increasing temperature,
+however, the Knight shift increases substantially with a T² behavior up
+to room temperature, which is in contrast to most iron pnictides. The
+spin-lattice relaxation rate also shows a large increase with
+temperature. The Knight shift and the spin-lattice relaxation may
+suggest spin excitations with a finite gap (or pseudogap) which are
+thermally excited at high temperatures.
+
+Our resolved chemical composition of Tl_(0.47)Rb_(0.34)Fe_(1.63)Se₂
+suggests that the A₂Fe₄Se₅ stoichiometric structure is formed in our
+superconducting compound. Furthermore, the similar NMR data of
+Tl_(0.47)Rb_(0.34)Fe_(1.63)Se₂ and K_(0.8)Fe_(2 − x)Se₂ indicates the
+same electronic structure and pairing symmetry in both compounds, which
+points to a common origin of superconductivity in this structure family
+of the iron-based superconductors.
+
+###### Acknowledgements.
+
+The authors acknowledge Y. Su, Q. M. Zhang, and X. J. Zhou for
+discussions on theoretical and experimental results, and Z. Y. Lu, T.
+Xiang, and G. Zhang for pointing out the T² dependence of the Knight
+shift. Work at the RUC is supported by the NSFC (Grants No. 10974254,
+No. 11034012, and No. 11074304) and the National Basic Research Program
+of China (Grants No. 2010CB923000 and No. 2011CBA00100). W.Y. is also
+supported by Program for New Century Excellent Talents in University.
+J.Z. acknowledges the support by the Fundamental Research Funds for the
+Central Universities.
+
+## References
+
+* [1] Y. Kamihara, T. Watanabe, M. Hirano, and H. Hosono, J. Am. Chem.
+Soc. **130**, 3296 (2008). * [2] X. H. Chen, T. Wu, G. Wu, R. H. Liu, H.
+Chen, and D. F. Fang, Nature (London) **453**, 761 (2008). * [3] Z. A.
+Ren, W. Lu, J. Yang, W. Yi, X. L. Shen, Z. C. Li, G. C. Che, X. L. Dong,
+L. L. Sun, F. Zhou, and Z. X. Zhao, Chin. Phys. Lett. **25**, 2215
+(2008). * [4] G. F. Chen, Z. Li, D. Wu, G. Li, W. Z. Hu, J. Dong, P.
+Zheng, J. L. Luo, and N. L. Wang, Phys. Rev. Lett. **100**, 247002
+(2008). * [5] H. Ding, P. Richard, K. Nakayama, K. Sugawara, T. Arakane,
+Y. Sekiba, A. Takayama, S. Souma, T. Sato, T. Takahashi, Z. Wang, X.
+Dai, Z. Fang, G. F. Chen, J. L. Luo, and N. L. Wang, Europhys. Lett.
+**83**, 47001 (2008). * [6] L. Zhao, H. Y. Liu, W. T. Zhang, J. Q. Meng,
+J. W. Jia, G. D. Liu, X. L. Dong, G. F. Chen, J. L. Luo, N. L. Wang, W.
+Lu, G. L. Wang, Y. Zhou, Y. Zhu, X. Y. Wang, Z. Y. Xu, C. T. Chen, and
+X. J. Zhou, Chin. Phys. Lett. **25**, 4402 (2008). * [7] J. Guo, S. Jin,
+G. Wang, S. Wang, K. Zhu, T. Zhou, M. He, and X. Chen, Phys. Rev. B
+**82**, 180520(R) (2010). * [8] Y. Mizuguchi, H. Takeya, Y. Kawasaki, T.
+Ozaki, S. Tsuda, T. Yamaguchi, and Y. Takano, Appl. Phys. Lett. **98**,
+042511 (2011). * [9] A. F. Wang, J. J. Ying, Y. J. Yan, R. H. Liu, X. G.
+Luo, Z. Y. Li, X. F. Wang, M. Zhang, G. J. Ye, P. Cheng, Z. J. Xiang,
+and X. H. Chen, Phys. Rev. B **83**, 060512 (2011). * [10] M. Fang, H.
+Wang, S. C. Dong, Z. Li, C. Feng, J. Chen, and H. Yuan, Europhys. Lett.
+**94**, 27009 (2010). * [11] D. M. Wang, J. B. He, T.-L. Xia, and G. F.
+Chen, Phys. Rev. B **83**, 132502 (2011). * [12] P. Zavalij, W. Bao, X.
+F. Wang, J. J. Ying, X. H. Chen, D. M. Wang, J. B. He, X. Q. Wang, G. F.
+Chen, P.-Y. Hsieh, Q. Huang, and M. A. Green, Phys. Rev. B **83**,
+132509 (2011). * [13] W. Bao, Q. Huang, G. F. Chen, M. A. Green, D. M.
+Wang, J. B. He, X. Q. Wang, and Y. Qiu, e-print arXiv:1102.0830 (to be
+published). * [14] W. Bao, G. N. Li, Q. Huang, G. F. Chen, J. B. He, M.
+A. Green, Y. Qiu, D. M. Wang, and J. L. Luo, e-print arXiv:1102.3674 (to
+be published). * [15] Z. Wang, Y. J. Song, H. L. Shi, Z. Wang, Z. Chen,
+H. F. Tian, G. F. Chen, J. G. Guo, H. X. Yang, and J. Q. Li, Phys. Rev.
+B **83**, 140505 (2011). * [16] J. Bacsa, A. Ganin, Y. Takabayashi, K.
+Christensen, K. Prassides, M. Rosseinsky, and J. Claridge, e-print
+arXiv:1102.0488 (to be published). * [17] Y. Zhang, L. X. Yang, M. Xu,
+Z. R. Ye, F. Chen, C. He, H. C. Xu, J. Jiang, B. P. Xie, J. J. Ying, X.
+F. Wang, X. H. Chen, J. P. Hu, M. Matsunami, S. Kimura, and D. L. Feng,
+Nat. Mater. **10**, 273 (2011). * [18] T. Qian, X.-P. Wang, W.-C. Jin,
+P. Zhang, P. Richard, G. Xu, X. Dai, Z. Fang, J.-G. Guo, X.-L. Chen, and
+H. Ding, Phys. Rev. Lett. **106**, 187001 (2011). * [19] D. Mou, S. Liu,
+X. Jia, J. He, Y. Peng, L. Zhao, L. Yu, G. Liu, S. He, X. Dong, J.
+Zhang, H. Wang, C. Dong, M. Fang, X. Wang, Q. Peng, Z. Wang, S. Zhang,
+F. Yang, Z. Xu, C. Chen, and X. J. Zhou, Phys. Rev. Lett. **106**,
+107001 (2011). * [20] X.-P. Wang, T. Qian, P. Richard, P. Zhang, J.
+Dong, H.-D. Wang, C.-H. Dong, M.-H. Fang, and H. Ding, Europhys. Lett.
+**93**, 57001 (2011). * [21] L. Zhao, D. Mou, S. Liu, X. Jia, J. He, Y.
+Peng, L. Yu, X. Liu, G. Liu, S. He, X. Dong, J. Zhang, J. B. He, D. M.
+Wang, G. F. Chen, J. G. Guo, X. L. Chen, X. Wang, Q. Peng, Z. Wang, S.
+Zhang, F. Yang, Z. Xu, C. Chen, and X. J. Zhou, Phys. Rev. B **83**,
+140508(R) (2011). * [22] W. Yu, L. Ma, J. B. He, D. M. Wang, T.-L. Xia,
+G. F. Chen, and W. Bao, Phys. Rev. Lett. **106**, 197001 (2011). * [23]
+I. I. Mazin, D. J. Singh, M. D. Johannes, and M. H. Du, Phys. Rev. Lett.
+**101**, 057003 (2008). * [24] K. Kuroki, S. Onari, R. Arita, H. Usui,
+Y. Tanaka, H. Kontani, and H. Aoki, Phys. Rev. Lett. **101**, 087004
+(2008). * [25] F. Ye, S. Chi, W. Bao, X. F. Wang, J. J. Ying, X. H.
+Chen, H. D. Wang, C. H. Dong, and M. Fang, e-print arXiv:1102.2882 (to
+be published). * [26] Z. Shermadini, A. Krzton-Maziopa, M. Bendele, R.
+Khasanov, H. Luetkens, K. Conder, E. Pomjakushina, S. Weyeneth, V.
+Pomjakushin, O. Bossen, and A. Amato, Phys. Rev. Lett. **106**, 117602
+(2011). * [27] R. H. Liu, X. G. Luo, M. Zhang, A. F. Wang, J. J. Ying,
+X. F. Wang, Y. J. Yan, Z. J. Xiang, P. Cheng, G. J. Ye, Z. Y. Li, and X.
+H. Chen, Europhys. Lett. **94**, 27008 (2011). * [28] T. Imai, K.
+Ahilan, F. L. Ning, T. M. McQueen, and R. J. Cava, Phys. Rev. Lett.
+**102**, 177005 (2009).
+
+* (29) K. Kitagawa, N. Katayama, K. Ohgushi, M. Yoshida, and M.
+Takigawa, J. Phys. Soc. Jpn. **77**, 114709 (2008). * (30) S.-H. Baek,
+H. Lee, S. E. Brown, N. J. Curro, E. D. Bauer, F. Ronning, T. Park, and
+J. D. Thompson, Phys. Rev. Lett. **102**, 227601 (2009). * (31) M.
+Yashima, H. Nishimura, H. Mukuda, Y. Kitaoka, K. Miyazawa, P. M.
+Shirage, K. Kiho, H. Kito, H. Eisaki, and A. Iyo, J. Phys. Soc. Jpn.
+**78**, 103702 (2009). * (32) F. L. Ning, K. Ahilan, T. Imai, A. S.
+Sefat, M. A. McGuire, B. C. Sales, D. Mandrus, P. Cheng, B. Shen, and
+H.-H. Wen, Phys. Rev. Lett. **104**, 037001 (2010). * (33) Y. Nakai, T.
+Iye, S. Kitagawa, K. Ishida, H. Ikeda, S. Kasahara, H. Shishido, T.
+Shibauchi, Y. Matsuda, and T. Terashima, Phys. Rev. Lett. **105**,
+107003 (2010). * (34) R. R. Urbano, E. L. Green, W. G. Moulton, A. P.
+Reyes, P. L. Kuhns, E. M. Bittar, C. Adriano, T. M. Garitezi, L.
+Bufaical, and P. G. Pagliuso, Phys. Rev. Lett. **105**, 107001 (2010). *
+(35) L. Ma, J. Zhang, G. F. Chen, and W. Yu, Phys. Rev. B **82**,
+180501(R) (2010). * (36) H. Kotegawa, Y. Hara, H. Nohara, H. Tou, Y.
+Mizuguchi, H. Takeya, and Y. Takano, J. Phys. Soc. Jpn. **80**, 043708
+(2011). * (37) D. A. Torchetti, M. Fu, D. C. Christensen, K. J. Nelson,
+T. Imai, H. C. Lei, and C. Petrovic, Phys. Rev. B **83**, 104508
+(2011). * (38) H. Wang, C. Dong, Z. Li, S. Zhu, Q. Mao, C. Feng, H. Q.
+Yuan, and M. Fang, Europhys. Lett. **93**, 47004 (2011). * (39) E. D.
+Mun, M. M. Altarawneh, C. H. Mielke, V. S. Zapf, R. Hu, S. L. Bud ko,
+and P. C. Canfield, Phys. Rev. B **83**, 100514 (2011). * (40) H.-J.
+Grafe, D. Paar, G. Lang, N. J. Curro, G. Behr, J. Werner, J.
+Hamann-Borrero, C. Hess, N. Leps, R. Klingeler, and B. Buchner, Phys.
+Rev. Lett. **101**, 047003 (2008). * (41) K. Matano, Z. A. Ren, X. L.
+Dong, L. L. Sun, Z. X. Zhao, and G. Q. Zheng, Europhys. Lett. **83**,
+57001 (2008). * (42) M. Sato, Y. Kobayashi, S. C. Lee, H. Takahashi, E.
+Satomi, and Y. Miura, J. Phys. Soc. Jpn. **79**, 014710 (2010). * (43)
+Y. Kobayashi, A. Kawabata, S. C. Lee, T. Moyoshi, and M. Sato, J. Phys.
+Soc. Jpn. **78**, 073704 (2009). * (44) S. W. Zhang, L. Ma, Y. D. Hou,
+J. Zhang, T.-L. Xia, G. F. Chen, J. P. Hu, G. M. Luke, and W. Yu, Phys.
+Rev. B **81**, 012503 (2010). * (45) H. Fukazawa, T. Yamazaki, K. Kondo,
+Y. Kohori, N. Takeshita, P. M. Shirage, K. Kihou, K. Miyazawa, H. Kito,
+H. Eisaki, and A. Iyo, J. Phys. Soc. Jpn. **78**, 033704 (2009). * (46)
+F. Hammerath, S.-L. Drechsler, H.-J. Grafe, G. Lang, G. Fuchs, G. Behr,
+I. Eremin, M. M. Korshunov, and B. Buchner, Phys. Rev. B **81**,
+140504(R) (2010). * (47) D. Parker, O. V. Dolgov, M. M. Korshunov, A. A.
+Golubov, and I. I. Mazin, Phys. Rev. B **78**, 134524 (2008). * (48) A.
+V. Chubukov, D. V. Efremov, and I. Eremin, Phys. Rev. B **78**, 134512
+(2008). * (49) M. M. Parish, J. Hu, and B. A. Bernevig, Phys. Rev. B
+**78**, 144514 (2008). * (50) Y. Bang, H.-Y. Choi, and H. Won, Phys.
+Rev. B **79**, 054529 (2009). * (51) Y. Nagai, N. Hayashi, N. Nakai, H.
+Nakamura, M. Okumura, and M. Machida, New J. Phys. **10**, 103026
+(2008). * (52) I. I. Mazin, e-print arXiv:1102.3655 (to be published). *
+(53) Z. Li, D. L. Sun, C. T. Lin, Y. H. Su, J. P. Hu, and G. Q. Zheng,
+Phy. Rev. B **83**, 140506(R) (2011). * (54) Y. Nakai, K. Ishida, Y.
+Kamihara, M. Hirano, and H. Hosono, Phys. Rev. Lett. **101**, 077006
+(2008). * (55) P. Jeglic, A. Potocnik, M. Klanjsek, M. Bobnar, M.
+Jagodic, K. Koch, H. Rosner, S. Margadonna, B. Lv, A. M. Guloy, and D.
+Arcon, Phys. Rev. B **81**, 140511(R) (2010). * (56) Z. Li, Y. Ooe, X.
+C. Wang, Q. Q. Liu, C. Q. Jin, M. Ichioka, and G.-Q. Zheng, J. Phys.
+Soc. Jpn. **79**, 083702 (2010).

@@ -1,0 +1,183 @@
+Complete absence of isotope effect in YBa₂Cu₃O₇: Consequences for
+phonon-mediated superconductivity
+
+L. C. Bourne, A. Zettl, T. W. Barbee III, and Marvin L. Cohen
+
+Department of Physics, University of California, Berkeley, California
+94720
+
+and Materials and Chemical Sciences Division, Lawrence Berkeley
+Laboratory, Berkeley, California 94720
+
+23 June 1987; revised manuscript received 8 July 1987
+
+###### Abstract
+
+YBa₂Cu₃O₇ has been prepared with enriched ¹³⁵Ba, ¹³⁸Ba, ⁶³Cu, and ⁶³Cu
+isotopes. The superconducting transition temperature T_(c) is found to
+be insensitive to the mass of the Ba and Cu atoms. This result, when
+combined with earlier findings of no T_(c) shift for oxygen-isotope
+substitution or rare-earth substitution, demonstrates the complete
+absence of an isotope effect in YBa₂Cu₃O₇. The consequences of these
+results for the applicability of phonon-mediated electron pairing
+mechanisms are discussed.
+
+## 1 Introduction
+
+The
+$T_{c  ture (midpoint) _Tc_ = 89.70 K, while the sample prepared with 65Cu has _Tc_ = 89.90 K. For Cu isotopes, we thus find _Tc_ (65Cu) - _Tc_ (63Cu) = 0.2 K. A similar shift is found if the onset temperature _Tc_ is used as the relevant transition temperature. A second and nearly identical set of experiments for Cu isotopes found a similarly small shift but of opposite sign.
+
+Figure 2 shows resistance data for samples prepared from the two different Ba isotopes. The data indicate (midpoint) transition temperatures _Tc_ = 91.85 K and _Tc_ = 91.95 K for 135Ba and 138Ba, respectively. Hence, for the Ba isotopes we find _Tc_ (138Ba) - _Tc_ (135Ba) = 0.1 K. As with the Cu isotopes, we find no significant shift in _Tc_ by Ba isotope substitution. It is interesting to note that the Ba isotope samples shown in Fig. 2 have _Tc_'s approximately 2 K higher than the _Tc_'s corresponding to the Cu isotope samples. This difference is due only to the slightly different annealing conditions for the two sets of samples. 135Ba and 138Ba isotope samples prepared using exactly the same conditions as were used for the Cu samples of Fig. 1 were found to have _Tc_'s near 90.0 K, again with no significant shift between the Ba samples.
+
+For \(a$ = 0.5, _Tc_ is expected to decrease by 1.0 and 1.4 K for the Ba
+and Cu substitutions, respectively. However, our experiments demonstrate
+that there exists no isotope shift for either Cu within 0.2 K or Ba
+within 0.1 K in YBa2Cu3O7. Within these limits, we find for Cu isotopes
+a = 0.07 and for Ba isotopes a = 0 +- 0.10.
+
+The lack of an isotope effect in YBa2Cu3O7 for each of the elements may
+be examined in the context of conventional phonon-mediated electron
+pairing within the BCS theory. Here, we consider the possibility of
+obtaining the observed null isotope shift for various strengths of the
+electron-phonon coupling l. It is convenient to consider three ranges of
+phonon coupling: l < 1.25, l > 15, and 1.25 < l < 15. Within these
+ranges, we consider the limits on the parameters of the
+electron-electron interaction that arise from the constraints of the
+observed _Tc_ and the lack of an observed isotope effect.
+
+For l < 1.25, two square-well solutions for _Tc_ and a can be obtained
+analytically. The McMillan8 equation is representative of these
+solutions which have the generic form
+
+$$\begin{array}{l} {T_{c} \propto \alpha_{D}\exp\left[ {- 1/\Omega^{\bullet} - \mu^{\bullet}} \right]} \\ {a = \frac{1}{2}\,\left[ {1 - \left( \frac{\mu^{\bullet}}{\lambda^{\bullet} - \mu^{\bullet}} \right)^{2}} \right]} \\ \end{array},$$
+
+where l = _l_/(1 + _l_), _m_* is the renormalized Coulomb interaction,
+and o_(D) is the phonon cutoff frequency. The parameter a - 0 as _m_* -
+l */2 or _m_* > l * (unphysical in a two square-well BCS phonon model).
+For l < 1.25, this condition cannot be satisfied if _Tc_ = 90 K even for
+the largest l in this range.
+
+In the range l > 15, Kresin, Gutfreund, and Little9 used a 2 x 2 matrix
+equation in the Matsubara representation and found the Allen-Dynes
+result [10]$T_{c} = 0.18\lambda\frac{\mu^{\bullet}}{\Omega}$, where l is
+the phonon frequency in an Einstein spectrum, and
+
+λ_(eff) = λ[1.2(1 + 2.23μ^(•) + 1.08μ^(••))^(1/2) − 0.2 + 1.24μ^(••)2]⁻¹ .
+
+Solutions of this equation where the Einstein spectrum is assumed to
+represent an "average" phonon frequency yield a = 0 and _Tc_ = 90 K for
+unphysically large values of l and _m_*.
+
+An analytic expression for _Tc_ in the range 1.25 < l < 15 can be
+obtained if a constant spectral function of the following form is used:
+
+$$a^{2}F(\omega ) = \begin{cases} \lambda/2,\text{ if }0 < \omega < \Omega_{\text{max}}, \\ 0,\text{ otherwise}. \\ \end{cases}$$
+
+This model with _m_* = 0 yields
+
+T_(c) = Ω_(max)(e^(2/Ω) − 1)^(−1/2)/(2π)
+
+if only a 1 x 1 Matsubara matrix is used. [10] This equation has the
+same form as a numerical fit introduced by Kresin [11] for arbitrary l.
+As shown in Fig. 3, Eq. (4) gives
+
+Figure 3: _Tc_ vs _λ_ calculated numerically (broken curve), and from
+the equation derived in the text (solid curves); (a) _α_max = 400 K, (b)
+_α_max = 600 K, (c) _α_max = 800 K.
+
+a reasonable representation of T_(c)(λ) for μ^(•) = 0 over a large range
+of λ. Comparison of Eq. (4) for $\Omega_{\rm max}=$400, 600, and 800 K
+is made with the numerical solution using the phonon spectrum described
+below.
+
+Since Eq. (4) is not valid for large μ^(•), we resort to a numerical
+solution of the Eliashberg equations to search for an α = 0 and T_(c)=90
+K solution. To do this, we have used a model phonon spectrum based on
+the Raman data on YBa₂Cu₃O₇ of Hemley and Mao [12] assuming a constant
+electron-phonon interaction. The Eliashberg equations were solved in the
+Matsubara representation using large enough matrices to ensure
+convergence. We calculated the isotope effect in this range of λ by
+assuming the functional form T_(c) ∝ ααg(λ, μ^(•)), where g is evaluated
+numerically. In this case, the isotope effect is given by
+
+$$\alpha=\frac{1}{2}\left[1+\mu^{\bullet\frac{2}{d\ln g(\lambda,\mu^{\bullet})} }\right]\ .$$
+(5)
+
+Within this model, we find solutions to the Eliashberg equations with
+T_(c)=90 K for all λ ≥ 2.9. However, when the entire phonon spectrum is
+shifted to simulate the effect of isotope substitution, we find no
+numerical solution that can yield α = 0 and T_(c) near 90 K. Therefore,
+we simulate the substitution of a single element (Ba, Cu, or O) by
+shifting only a portion of the phonon spectrum. For Ba or Cu
+substitution, solutions with T_(c)=90 K and a within the experimental
+limits exist. A solution for the oxygen-isotope shift places more
+stringent constraints on λ and μ^(•) as will be discussed here. For ¹⁸O
+substitution, the high-frequency phonon peaks seen by Batlogg
+$\it{et}$$\it{et}$$\it{et}$ are shifted. Using these shifts, we find a
+solution with α = 0 ± 0.02 but λ > 30. We note that since the phonon
+density of states is taken from Raman spectra, only a subset of phonon
+modes is used. Figure 4 shows the isotherm for T_(c)=90 K and the area
+within which α = 0 ± 0.02 for simulated oxygen substitution. At large λ,
+the value of μ^(•) for α = 0 appears to saturate in agreement with the
+previous discussion for the strong-coupling limit. As is shown in Fig.
+4, when shifting only log¹⁸ peaks there are no solutions with T_(c)=90 K
+and α = 0 for λ < 15. For λ > 15, a solution can be found at λ ≈ 35 with
+μ^(•) ≈ 0.47.
+
+We have found that the complete absence of an isotope effect observed in
+the high-T_(c) compound YBa₂Cu₃O₇ can still be explained within
+conventional phonon-mediated electron pairing using a model that
+simulates the effect of substituting isotopes of a single element.
+However, the values of λ and μ^(•) which reproduce the experimental
+results are restricted to unphysical ranges. Hence, it is unlikely that
+superconductivity in YBa₂Cu₃O₇ can be explained by solely phonon-induced
+electron pairing unless material properties are considered. [13] We also
+note that because the Raman spectrum was used in the calculation,
+long-wavelength phonons are over represented.
+
+One of the authors (T.W.B.) wishes to thank K. J. Chang and J. P.
+Carbotte for helpful discussions. This work was supported by National
+Science Foundation Grant No. DMR83-19-024 (T.W.B. and M.L.C.), and by
+the Director, Office of Energy Research, Office of Basic Energy
+Sciences, Materials Sciences Division of the U.S. Department of Energy
+under Contract No. DE-AC03-76SF00098. One of the authors (A.Z.)
+acknowledges support from the Alfred P. Sloan Foundation.
+
+## References
+
+* [1] J. G. Bednorz and K. A. Muller, Z. Phys. B **64**, 189 (1986). *
+[2] W. K. Wu, J. R. Ashburn, C. J. Torng, P. H. Hor, R. L. Meng, L. Gao,
+Z. J. Huang, Y. Q. Wang, and C. W. Chu, Phys. Rev. Lett. **58**, 908
+(1987); L. C. Bourne, M. L. Cohen, W. N. Creager, M. F. Crommie, A. M.
+Stacy, and A. Zettl, Phys. Lett. A **120**, 494 (1987). * [3] J.
+Bardeen, L. N. Cooper, and J. R. Schrieffer, Phys. Rev. **106**, 162
+(1957); **108**, 1175 (1957). * [4] J. C. Swihart, IBM J. Res. Dev.
+**6**, 14 (1962); J. W. Garland, Phys. Rev. Lett. **11**, 111, 114
+(1963). * [5] D. W. Murphy, S. Sunshine, R. B. van Dover, R. J. Cava, B.
+Batlogg, S. M. Zahurak, and L. F. Schneemeyer, Phys. Rev. Lett. **58**,
+1888 (1987); P. H. Hor, R. L. Meng, Y. Q. Wang, L. Gao, Z. J. Huang, J.
+Bechtold, K. Forster, and C. W. Chu, _ibid._ **58**, 1891 (1987). * [6]
+B. Batlogg, R. J. Cava, A. Jayaraman, R. B. van Dover, G. A. Kourouklis,
+S. Sunshine, D. W. Murphy, L. W. Rupp, H. S. Chen, A. White, K. T.
+Short, A. M. Mujece, and E. A. Rietman, Phys. Rev. Lett. **58**, 2333
+(1987); L. C. Bourne, M. F. Crommie, A. Zettl, H. zur Loye, S. W.
+Keller, K. L. Leary,
+
+Figure 4: Values of λ and μ^(•) for which T_(c)=90 K from numerical
+calculations (solid curve) and from a two square-well model (dashed
+curve). The shaded area represents solutions with α = 0 ± 0.02 found
+numerically by shifting only the phonon spectrum peaks corresponding to
+oxygen vibrations. An intersection of the solid curve with the shaded
+area would indicate values of λ and μ^(•) consistent with
+phonon-mediated superconductivity in YBa₂Cu₃O₇.
+
+A. M. Stacy, K. J. Chang, M. L. Cohen, and D. E. Morris, _ibid._**58**,
+2337 (1987). * Weber (1987)W. Weber, Phys. Rev. Lett. **58**, 1371
+(1987). * McMillan (1968)W. L. McMillan, Phys. Rev. **167**, 331
+(1968). * Kresin et al. (1984)V. Kresin, H. Gutfreund, and W. A. Little,
+Solid State Commun. **51**, 339 (1984). * Allen and Dynes (1975)P. B.
+Allen and R. C. Dynes, Phys. Rev. B **12**, 905 (1975). * Kresin
+(1987)V. Z. Kresin, Bull. Am. Phys. Soc. **32**, 796 (1987); and
+(unpublished). * Hemley and Mao (1987)R. J. Hemley and H. K. Mao, Phys.
+Rev. Lett. **58**, 2340 (1987). * Phillips (1987)J. C. Phillips, Phys.
+Rev. B **36**, 861 (1987).

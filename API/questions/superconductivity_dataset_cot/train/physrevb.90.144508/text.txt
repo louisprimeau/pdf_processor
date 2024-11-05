@@ -1,0 +1,146 @@
+Coexistence of superconductivity and density wave in Ba\({}_{2}\)Ti\({}_{2}\)Fe\({}_{2}\)As\({}_{4}\)O: An optical spectroscopy study
+
+H. P. Wang
+
+nlwang@pku.edu.cn Beijing National Laboratory for Condensed Matter Physics, Institute of Physics, Chinese Academy of Sciences, Beijing 100190, China
+
+Y. L. Sun
+
+Department of Physics, Zhejiang University, Hangzhou 310027, China
+
+X. B. Wang
+
+Department of Physics, Zhejiang University, Hangzhou 310027, China
+
+Y. Huang
+
+Beijing National Laboratory for Condensed Matter Physics, Institute of Physics, Chinese Academy of Sciences, Beijing 100190, China
+
+T. Dong
+
+Beijing National Laboratory for Condensed Matter Physics, Institute of Physics, Chinese Academy of Sciences, Beijing 100190, China
+
+R. Y. Chen
+
+International Center for Quantum Materials, School of Physics, Peking University, Beijing 100871, China
+
+G. H. Cao
+
+Department of Physics, Zhejiang University, Hangzhou 310027, China
+
+N. L. Wang
+
+International Center for Quantum Materials, School of Physics, Peking University, Beijing 100871, China Collaborative Innovation Center of Quantum Matter, Beijing 100871, China
+
+Received 18 September 2014; revised manuscript received 29 September 2014; published 13 October 2014
+
+###### Abstract
+
+We performed an optical spectroscopy measurement on single crystals of Ba\({}_{2}\)Ti\({}_{2}\)Fe\({}_{2}\)As\({}_{4}\)O, which is a newly discovered superconductor showing a coexistence of superconductivity and density wave orders. The study reveals spectral changes associated with both density wave and superconductivity phase transitions. The density wave phase transition at \(T_{\rm DW}\approx 125\) K leads to the reconstruction of Fermi surfaces which removes about half of Drude spectral weight. The ratio of \(2\Delta_{\rm DW}/k_{B}T_{\rm DW}\approx 11.9\) is considerably larger than the mean-field value based on the weak-coupling BCS theory. At the lowest temperature in the superconducting state, further spectral change associated with the superconducting condensate is observed. The low frequency optical conductivity could be well modeled within the Mattis-Bardeen approach with two isotropic gaps of \(\Delta_{1}(0)=3.4\) meV and \(\Delta_{2}(0)=7.9\) meV. The superconducting properties of the Ba\({}_{2}\)Ti\({}_{2}\)Fe\({}_{2}\)As\({}_{4}\)O compound are similar to those of BaFe\({}_{1.85}\)Co\({}_{0.15}\)As\({}_{2}\).
+
+pacs: 74.70.Xa, 74.25.Gz, 74.25.nd +
+Footnote †: preprint: APS/123-QED
+
+## I Introduction
+
+The discovery of iron-based superconductors [1] has generated tremendous interest in the condensed-matter community and triggered new efforts in exploring superconductors in new families of compounds. The exploration has been mainly focused on materials with structural, electronic, and magnetic properties similar to those of the iron or cuprate superconductors, or those close to charge or magnetic instabilities. The efforts led to the discovery of superconductivity in BaTi\({}_{2}\)Sb\({}_{2}\)O with \(T_{c}\approx 1.2\) K [2]. The compound belongs to a two-dimensional (2D) titanium oxypnictide family, consisting of alternate stacking of conducting octahedral layers Ti\({}_{2}\)Pn\({}_{2}\)O (Pn = As, Sb) and other insulating layers [e.g., Na\({}_{2}\), Ba, (SrF\({}_{2}\), (SmO)\({}_{2}\)] [3; 4; 5; 6; 7; 8; 9; 10; 11; 12]. The undoped compounds in this family commonly exhibit phase transitions below certain temperatures (e.g., 320 K for Na\({}_{2}\)Ti\({}_{2}\)As\({}_{2}\)O [5; 6; 7; 8; 10], 114 K for Na\({}_{2}\)Ti\({}_{2}\)Sb\({}_{2}\)O [6], 200 K for BaTi\({}_{2}\)As\({}_{2}\)O [11], 45 K for BaTi\({}_{2}\)Sb\({}_{2}\)O [2]), as characterized by the sharp jumps in resistivity and drops in magnetic susceptibility. First-principles band structure calculations indicate that the phase transitions are driven by density wave (DW) instabilities arising from the nested electron and hole Fermi surfaces (FSs) [13; 14; 15; 16; 17]. However, there is no agreement on whether the DW is a charge density wave (CDW) or a spin density wave (SDW). As superconductivity emerges only in compounds with low phase transition temperature, i.e., BaTi\({}_{2}\)Sb\({}_{2}\)O, and \(T_{c}\) is further enhanced when the phase transition temperature is suppressed by doping--e.g., Na (\(T_{c}\approx 5.5\) K) [18], K (\(T_{c}\approx 6.1\) K) [19], Rb (\(T_{c}\approx 5.4\) K) [20], and Sn ( \(T_{c}\approx 2.5\) K) [21] and with isovalent Bi substitution for Sb (\(T_{c}\approx 4.6\) K) [3]--the family offers a new domain in which to study the interplay between superconductivity and DW instabilities.
+
+Among the newly discovered oxypnictide superconductors, Ba\({}_{2}\)Ti\({}_{2}\)Fe\({}_{2}\)As\({}_{4}\)O (Ba22241) is particularly interesting. From the structural point of view, the compound can be considered as an intergrowth of BaFe\({}_{2}\)As\({}_{2}\) and BaTi\({}_{2}\)As\({}_{2}\)O [22]. Although neither BaFe\({}_{2}\)As\({}_{2}\) nor BaTi\({}_{2}\)As\({}_{2}\)O is superconducting, the combined structure, Ba22241, shows superconductivity at \(T_{c}=21.5\) K without doping. Furthermore, the compound still shows a DW transition at \(T_{\rm DW}=125\) K. Compared with BaTi\({}_{2}\)As\({}_{2}\)O, the DW ordering temperature is significantly reduced. Previous studies show that the anomaly at \(T_{\rm DW}\) is due to a SDW or CDW transition in the Ti\({}_{2}\)As\({}_{2}\)O block, and the superconductivity arises from the Fe\({}_{2}\)As\({}_{2}\) layer rather than the Ti\({}_{2}\)As\({}_{2}\)O layer [22; 23]. First-principles calculations indicate the FSs can be separated into Ti-related sheets and Fe-related sheets, and there is a \(0.12e\) charge transfer from Ti\({}_{2}\)As\({}_{2}\)O layers to Fe\({}_{2}\)As\({}_{2}\) layers [23]. Therefore, there is a self-doping effect, which suppresses the stripe type antiferromagnetism at the Fe sites and simultaneously induces superconductivity. The Ba22241 material represents a rare example showing two-dimensional DW ordering sandwiched by superconducting layers. It would be very interesting to investigate the charge dynamical properties of this material.
+
+In this work, we report an optical study on Ba\({}_{2}\)Ti\({}_{2}\)Fe\({}_{2}\)As\({}_{4}\)O single crystals. Above \(T_{\rm DW}\), we observe a metallic response with a plasma frequency of 2.6 eV. A typical density wave energy gap forms when the compound enters into the DW ordering phase, leading to the removal of parts of the FSs. The sample remains metallic below \(T_{\rm DW}\). A ratio of \(2\Delta_{\rm DW}/k_{B}T_{c}\approx 11.9\) is obtained. The value is considerably larger than the mean-field value of the weak-coupling BCS theory. Below \(T_{c}\), we observe the formation of a superconducting condensate. About 35% of the free carrier spectral weight in the normal state collapses into the superconducting condensate, suggesting that the material is not in the clean limit. The optical conductivity at the lowest temperature could be well reproduced by the Mattis-Bardeen formula with two isotropic gaps of \(\Delta_{1}(0)=3.4\) meV and \(\Delta_{2}(0)=7.9\) meV. The coexistence of density wave and superconductivity makes Ba\({}_{2}\)Ti\({}_{2}\)Fe\({}_{2}\)As\({}_{4}\)O a promising candidate to study collective excitations in broken symmetry states.
+
+  
+
+## II Experiments
+
+The Ba\({}_{2}\)Ti\({}_{2}\)Fe\({}_{2}\)As\({}_{4}\)O single crystal samples used in our optical measurements were grown by employing a Ba\({}_{2}\)As\({}_{3}\) flux method. The detailed procedure of crystal growth and characterization can be found elsewhere [24]. The optical reflectance measurements were performed on Bruker IFS 113v and 80v spectrometers in the frequency range from 30 to 35 000 cm\({}^{-1}\). An _in situ_ gold and aluminum overcoating technique was used to obtain the reflectivity \(R(\omega)\). The real part of conductivity \(\sigma_{1}(\omega)\) is obtained by the Kramers-Kronig transformation of \(R(\omega)\). The Hagen-Rubens relation was used for low frequency extrapolation; at the high frequency side a \(\omega^{-1}\) relation was used up to 300 000 cm\({}^{-1}\), above which \(\omega^{-4}\) was applied.
+
+## III Results
+
+### Density wave state
+
+Figures 1 and 2 show the reflectivity \(R(\omega)\) and real part of the optical conductivity \(\sigma_{1}(\omega)\) spectra at different temperature, respectively. At 300 and 150 K, the temperatures higher than the phase transition, \(R(\omega)\) shows typical metallic responses. \(R(\omega)\) decreases almost linearly with frequency in the low energy region, which is a common feature in materials with strong carrier scatterings. Below the density wave transition temperature \(T_{\rm DW}\), \(R(\omega)\) is obviously suppressed at the energy roughly lower than 1100 cm\({}^{-1}\). Accordingly, \(\sigma_{1}(\omega)\) shows a peak structure at this frequency. This feature is similar to what has been observed for the two other titanium oxypnictide compounds, Na\({}_{2}\)Ti\({}_{2}\)Sb\({}_{2}\)O [25] and Na\({}_{2}\)Ti\({}_{2}\)As\({}_{2}\)O [26], though its structure is less prominent. The optical data clearly indicate the formation of a density wave energy gap. At lower energies, \(R(\omega)\) becomes even higher than the values at higher temperatures and there still exists well defined Drude component in \(\sigma_{1}(\omega)\). Therefore, the compound is still metallic and the Fermi surfaces are only partially gapped below \(T_{\rm DW}\). The suppressed spectral weight due to the opening of the density wave energy gap is transferred to higher energy scales.
+
+In Fig. 3, we plot the frequency-dependent integrated spectral weight at different temperatures in the normal state. The spectral weight is defined as \(W_{s}=\int_{0}^{\infty}\sigma_{1}(\omega)d\omega\), where \(\omega_{c}\) is a cut off frequency. We can see that the spectral weight is gradually recovered at high frequencies. The spectral weight transfer is seen more clearly in the plot of the ratio of the spectral weight at two different temperatures below and above the density wave transition, e.g. \(W_{s}(30\;{\rm K})/W_{s}(300\;{\rm K})\), as shown in the inset of Fig. 3. The value of the ratio is higher than unity at very low frequency, which is apparently due to the higher conductivity values of the narrow Drude component in the density wave state. The ratio becomes less than the unity at higher energy due to the opening of a density wave energy gap in the \(\sigma_{1}(\omega)\) spectrum at 30 K. Eventually, the spectral weight is recovered and the ratio approaches unity at higher energies.
+
+To characterize the spectral change across the phase transition, we decompose the optical conductivity spectra into different components using a Drude-Lorentz analysis. The
+
+Figure 1: (Color online) Optical reflectivity \(R(\omega)\) in the frequency range between 30 and 3000 cm\({}^{-1}\) at five representative temperature. The inset: \(R(\omega)\) at 300 K up to 35000 cm\({}^{-1}\) in a linear frequency range.
+
+Figure 3: (Color online) Cutoff frequency dependent spectral weight at four different temperature. Inset: the normalized spectral weight \(W_{s}(30\;{\rm K})/W_{s}(300\;{\rm K})\) up to 10 000 cm\({}^{-1}\).
+
+Figure 2: (Color online) The real part of optical conductivity \(\sigma_{1}(\omega)\) for Ba\({}_{2}\)Ti\({}_{2}\)Fe\({}_{2}\)As\({}_{4}\)O below 3000 cm\({}^{-1}\). The inset: \(\sigma_{1}(\omega)\) up to 35 000 cm\({}^{-1}\) for 300K.
+
+ dielectric function has the form [27]
+
+\[\epsilon(\omega)=\epsilon_{\infty}-\sum_{i}\frac{\omega_{p,i}^{2}}{\omega^{2}+i \omega/\tau_{i}}+\sum_{j}\frac{\Omega_{j}^{2}}{\omega_{j}^{2}-\omega^{2}-i\omega /\tau_{j}}\] (1)
+
+where \(\epsilon_{\infty}\) is the dielectric constant at high energy, the middle and last terms are the Drude and Lorentz components. The complex conductivity is \(\sigma(\omega)=\sigma_{1}(\omega)+i\sigma_{2}(\omega)=-i\omega[\epsilon(\omega )-\epsilon_{\infty}]/4\pi\). As shown in Fig. 4, the conductivity spectrum below 6000 cm\({}^{-1}\) at room temperature could be well reproduced by two Drude components (a sharp one and a broader one) and a Lorentz component. At 30 K an additional Lorentz component at low frequency is added to characterize the density wave energy gap. The two-Drude-components model has been widely used in the study of Fe-based superconductors and other multiband systems [28, 29, 30]. The overall plasma frequency \(\omega_{p}\) is considered to contribute from two different channels with \(\omega_{p}=\left(\omega_{p1}^{2}+\omega_{p2}^{2}\right)^{1/2}\). In the present case we obtain \(\omega_{p}\approx 21\,600\) cm\({}^{-1}\) above \(T_{\text{DW}}\) and \(\omega_{p}\approx 15\,000\) cm\({}^{-1}\) at 30 K. Another method to estimate the overall plasma frequency is to calculate the low-\(\omega\) spectral weight, \(\omega_{p}^{2}=8\int_{0}^{\omega_{p}}\sigma(\omega)d\omega\). The cutoff frequency \(\omega_{c}\) is chosen so as to make the integration cover all contributions from free carriers and exclude contributions from interband transitions. Usually, the integral goes to a frequency where the conductivity shows a minimum. We expect there is a balance between the Drude component tail and the onset part of interband transition. In view of the complex band structure of this material, there should exist multiple interband transitions even in the mid-infrared frequency region. There is no good way to choose the cutoff frequency. Then, we refrain from calculating the plasma frequency with this method. Assuming that the effective mass of charge carriers does not change very much, we get the ratio of \(\omega_{p,30k}^{2}/\omega_{p,300k}^{2}\approx 48\%\), suggesting that about half of the free carrier spectral weight remains after the phase transition. Compared with the Na\({}_{2}\)Ti\({}_{2}\)As\({}_{2}\)O [26] and Na\({}_{2}\)Ti\({}_{2}\)Sb\({}_{2}\)O [25] in which about 95% of FSs are removed, here in Ba\({}_{2}\)Ti\({}_{2}\)Fe\({}_{2}\)As\({}_{4}\)O a much lower fraction of the FSs is removed after the phase transition. This result can be easily understood considering the fact that the FSs are contributed from both Ti\({}_{2}\)As\({}_{2}\)O and Fe\({}_{2}\)As\({}_{2}\) layers and only those from the Ti\({}_{2}\)As\({}_{2}\)O layer are affected by the density wave phase transition. The density wave gap size can be identified by the peak position of the Lorentz component, and we get \(2\Delta_{\text{DW}}\approx 1070\) cm\({}^{-1}\) = 133 meV. The gap ratio \(2\Delta_{\text{DW}}/k_{B}T_{c}\approx 11.9\) is larger than the mean-field value based on the weak-coupling BCS theory. Similar values were also seen for two other titanium-based compounds in optical studies [25, 26].
+
+### Superconducting state
+
+Below \(T_{c}\), further spectral change is observed due to the development of superconductivity. Compared with the spectrum at 30 K in the normal state, \(R(\omega)\) at 8 K shows a clear upturn in the very-low-\(\omega\) region, and reaches approximately unity at about 55 cm\({}^{-1}\), as can be seen from Fig. 1. Correspondingly, the \(\sigma_{1}(\omega)\) drops to zero at the same energy scale, as shown in Fig. 5. Therefore, superconducting condensate and formation of a superconducting energy gap are clearly observed in far-infrared measurements. According to the Ferrell-Glover-Tinkham (FGT) sum rule, the difference of the spectral weight between \(T\approx T_{c}\) and \(T\ll T_{c}\) (the so-called missing area) is related to the formation of a superconducting condensate [31],
+
+\[W_{c}\equiv W_{s}(\omega_{c},T\approx T_{c})-W_{s}(\omega_{c},T\ll T_{c})= \omega_{p,S}^{2}/8,\] (2)
+
+where \(\omega_{p,S}\) is the square of the superconducting plasma frequency and \(\omega_{c}\) is the cutoff frequency which should be chosen such that the \(\omega_{p,S}^{2}\) converges smoothly. The equation implies that the spectral weight lost in \(\sigma_{1}(\omega)\) in the superconducting state has been transferred to the weight at the zero frequency delta function. With \(\omega_{c}\simeq 1000\) cm\({}^{-1}\), we obtain \(\omega_{p,S}\) = 5350 cm\({}^{-1}\). The superconducting condensate can also
+
+Figure 4: (Color online) The experimental data of \(\sigma_{1}(\omega)\) at 300 and 30 K together with the Drude-Lorentz fits.
+
+Figure 5: (Color online) The real part of in-plane optical conductivity of Ba\({}_{2}\)Ti\({}_{2}\)Fe\({}_{2}\)As\({}_{4}\)O at 8 K together with two gap fits and mid-infrared component.
+
+  be extract from \(\epsilon_{1}(\omega)=\epsilon_{\infty}-\omega_{p,S}^{2}/\omega^{2}\) by determining \([-\omega^{2}\epsilon_{1}(\omega)]^{1/2}\) in the \(\omega\to 0\) limit. \(\epsilon_{1}\) can be extracted from the complex optical conductivity; then we get \(\omega_{p,S}=5430\) cm\({}^{-1}\). The results from the two methods suggest the superconducting plasma frequency \(\omega_{p,S}\simeq 5400\) cm\({}^{-1}\). The penetration depth is related to the superconducting plasma frequency by \(\lambda=c/\omega_{p,S}\); then we get the value of \(\lambda\approx 2900\) A. We note that the value of \(\omega_{p,S}^{2}/\omega_{p,D}^{2}\simeq 0.35\), that is, less than half of the low-frequency free carrier spectral weight in the normal state has collapsed into superconducting condensate. It implies that the superconductor is actually in the dirty limit [30]. Therefore, the optical conductivity can be modeled using a Mattis-Bardeen approach [32, 33]. As shown in Fig. 5, the conductivity spectrum at the lowest temperature 8 K can be well reproduced by two isotropic energy gaps with \(\Delta_{1}=3.4\) meV, \(1/\tau_{1}=10\Delta_{0}\) and \(\Delta_{2}=7.9\) meV, \(1/\tau_{2}=6\Delta_{0}\) together with a Lorentzian tail. We note that the relation \(1/\tau\gtrsim 2\Delta\) agrees well with the above analysis of dirty-limit superconductivity. For the smaller energy gap, the ratio \(2\Delta_{1}/k_{B}T_{c}\simeq 3.7\), which is close to the BCS weak coupling limit. But for the larger energy gap, the ratio \(2\Delta_{2}/k_{B}T_{c}\simeq 8.5\) is significantly larger than the BCS mean field value. It is worth noting that those results are similar to those observed for the electron doped Fe-pnictide compound BaFe\({}_{1.85}\)Co\({}_{0.15}\)As\({}_{2}\)[30, 34, 35], a prototype iron-based superconductor. The result is not surprising as the superconductivity in Ba\({}_{2}\)Ti\({}_{2}\)Fe\({}_{2}\)As\({}_{4}\)O arises from the Fe\({}_{2}\)As\({}_{2}\) layers. If we take the charge transfer from the Ti\({}_{2}\)As\({}_{2}\)O layer to the Fe\({}_{2}\)As\({}_{2}\) layer as self-doping, the doping level in the FeAs layer is actually close to that for BaFe\({}_{1.85}\)Co\({}_{1.85}\)As\({}_{2}\).
+
+Ba\({}_{2}\)Ti\({}_{2}\)Fe\({}_{2}\)As\({}_{4}\)O represents a very interesting compound exhibiting the coexistence of superconductivity and density wave instability. At present, there is no agreement on the nature of the density wave instability, that is, whether it is a spin density wave or charge density wave order. Although the first-principles calculations on some of the titanium oxypnictides, e.g., Na\({}_{2}\)Ti\({}_{2}\)As\({}_{2}\)O and Na\({}_{2}\)Ti\({}_{2}\)Sb\({}_{2}\)O [16], suggest an SDW order driven by the nesting of disconnected FSs, to date no magnetic order has been detected on any compound in this titanium oxypnictide family. Instead, the available NMR measurement on some of the compounds, e.g., BaTi\({}_{2}\)Sb\({}_{2}\)O [36], actually reveals an absence of internal field at the Sb site, which therefore favors a CDW origin. If the density wave order in Ba\({}_{2}\)Ti\({}_{2}\)Fe\({}_{2}\)As\({}_{4}\)O is indeed a CDW order, then the material would provide a promising candidate to study the collective excitations in the broken symmetry states, in particular the amplitude mode in the superconducting state. Electronic Raman scattering is a primary tool to probe the collective amplitude mode in a superconductor, however it is limited to a compound showing the coexistence of superconductivity and CDW; for example, in NbSe\({}_{2}\)[37, 38]. The present compound has much higher \(T_{c}\) than NbSe\({}_{2}\), so it might be easier to probe such collective excitations.
+
+## IV Summary
+
+To summarize, we have performed an optical spectroscopy study on Ba\({}_{2}\)Ti\({}_{2}\)Fe\({}_{2}\)As\({}_{4}\)O single crystals. We observed spectral changes associated with both density wave and superconductivity phase transitions. Compared with two other density wave compounds in the titanium oxypnictide family, Na\({}_{2}\)Ti\({}_{2}\)Sb\({}_{2}\)O and Na\({}_{2}\)Ti\({}_{2}\)As\({}_{2}\)O, much weaker spectral change has been found across the density wave phase transition at 125 K in Ba\({}_{2}\)Ti\({}_{2}\)Fe\({}_{2}\)As\({}_{4}\)O. This could be attributed to the presence of more Fermi surface sheets being contributed from both Ti\({}_{2}\)As\({}_{2}\)O to Fe\({}_{2}\)As\({}_{2}\) layers, and only those from Ti\({}_{2}\)As\({}_{2}\)O layers being affected by the density wave phase transition. With the development of superconductivity below 21.5 K, further spectral change associated with the superconducting condensate was observed. Our analysis indicates that about 35% of free carrier spectral weight has collapsed into the superconducting condensate at \(T\ll T_{c}\), suggesting that the superconductivity in this compound is in the dirty limit. The low frequency optical conductivity could be well modeled within Mattis-Bardeen approach with two isotropic gaps of \(\Delta_{1}(0)=3.4\) meV and \(\Delta_{2}(0)=7.9\) meV. The coexistence of density wave and superconductivity makes Ba\({}_{2}\)Ti\({}_{2}\)Fe\({}_{2}\)As\({}_{4}\)O a promising candidate to study collective excitations in broken symmetry states.
+
+###### Acknowledgements.
+
+ This work is supported by the National Science Foundation of China (Grants No. 11120101003 and No. 11327806), and the 973 project of the Ministry of Science and Technology of China (Grants No. 2011CB921701 and No. 2012CB821403).
+
+## References
+
+* [1] Y. Kamihara, T. Watanabe, M. Hirano, and H. Hosono, J. Am. Chem. Soc **130**, 3296 (2008).
+* [2] T. Yajima, K. Nakano, F. Takeiri, T. Ono, Y. Hosokoshi, Y. Matsushita, J. Hester, Y. Kobayashi, and H. Kageyama, J. Phys. Soc. Jpn. **81**, 103706 (2012).
+* [3] H. F. Zhai, W.-H. Jiao, Y.-L. Sun, J.-K. Bao, H. Jiang, X.-J. Yang, Z.-T. Tang, Q. Tao, X.-F. Xu, Y.-K. Li, C. Cao, J.-H. Dai, Z.-A. Xu, and G.-H. Cao, Phys. Rev. B **87**, 100502(R) (2013).
+* [4] A. Adam and H. U. Schuster, Z. Anorg. Allg. Chem. **584**, 150 (1990).
+* [5] E. A. Axtell, III, T. Ozawa, S. M. Kauzlarich, and R. R. P. Singh, J. Solid State Chem. **134**, 423 (1997).
+* [6] T. C. Ozawa, R. Pantoja, E. A. Axtell, S. M. Kauzlarich, J. E. Greedan, M. Bieringer, and J. W. Richardson, J. Solid State Chem. **153**, 275 (2000).
+* [7] T. C. Ozawa, S. M. Kauzlarich, M. Bieringer, and J. E. Greedan, J. E. Chem. Mater. **13**, 1804 (2001).
+* [8] T. C. Ozawa and S. M. Kauzlarich, J. Cryst. Growth **265**, 571 (2004).
+* [9] T. C. Ozawa and S. M. Kauzlarich, Sci. Technol. Adv. Mater. **9**, 033003 (2008).
+
+  * [10] R. H. Liu, D. Tan, Y. A. Song, Q. J. Li, Y. J. Yan, J. J. Ying, Y. L. Xie, X. F. Wang, and X. H. Chen, Phys. Rev. B **80**, 144516 (2009).
+* [11] X. F. Wang, Y. J. Yan, J. J. Ying, Q. J. Li, M. Zhang, N. Xu, and X. H. Chen, J. Phys.: Condens. Matter **22**, 075702 (2010).
+* [12] R. H. Liu, Y. A. Song, Q. J. Li, J. J. Ying, Y. J. Yan, Y. He, and X. H. Chen, Chem. Mater. **22**, 1503 (2010).
+* [13] W. E. Pickett, Phys. Rev. B **58**, 4335 (1998).
+* [14] F. F. de Biani, P. Alemany, and E. Canadell, Inorg. Chem. **37**, 5807 (1998).
+* [15] D. J. Singh, New J. Phys. **14**, 123003 (2012).
+* [16] X. W. Yan and Z. Y. Lu, J. Phys.: Condens. Matter **25**, 365501 (2013).
+* [17] A. Subedi, Phys. Rev. B **87**, 054506 (2013).
+* [18] P. Doan, M. Gooch, Z. Tang, B. Lorenz, A. Moller, J. Tapp, P. C. W. Chu, and A. M. Guloy, J. Am. Chem. Soc. **134**, 16520 (2012).
+* [19] U. Pachmayr and D. Johrendt, Solid State Sci. **28**, 31 (2014).
+* [20] F. von Rohr, R. Nesper, and A. Schilling, Phys. Rev. B **89**, 094505 (2014).
+* [21] K. Nakano, T. Yajima, F. Takeiri, M. A. Green, J. Hester, Y. Kobayashi, and H. Kageyama, J. Phys. Soc. Jpn. **82**, 074707 (2013).
+* [22] Y. L. Sun, H. Jiang, H. F. Zhai, J. K. Bao, W. H. Jiao, Q. Tao, C. Y. Shen, Y. W. Zeng, Z. A. Xu, and G. H. Cao, J. Am. Chem. Soc. **134**, 12893 (2012).
+* [23] H. Jiang, Y.-L. Sun, J. Dai, G.-H. Cao, and C. Cao, arXiv:1207.6705.
+* [24] Y.-L. Sun, A. Ablimit, J.-K. Bao, H. Jiang, J. Zhou, and G.-H. Cao, Sci. Technol. Adv. Mater. **14**, 055008 (2013).
+* [25] Y. Huang, H. P. Wang, W. D. Wang, Y. G. Shi, and N. L. Wang, Phys. Rev. B **87**, 100507(R) (2013).
+* [26] Y. Huang, H. P. Wang, R. Y. Chen, X. Zhang, P. Zheng, Y. G. Shi, and N. L. Wang, Phys. Rev. B **89**, 155120 (2014).
+* [27] W. Z. Hu, J. Dong, G. Li, Z. Li, P. Zheng, G. F. Chen, J. L. Luo, and N. L. Wang, Phys. Rev. Lett. **101**, 257005 (2008).
+* [28] M. Nakajima, S. Ishida, K. Kihou, Y. Tomioka, T. Ito, Y. Yoshida, C. H. Lee, H. Kito, A. Iyo, H. Eisaki, K. M. Kojima, and S. Uchida, Phys. Rev. B **81**, 104528 (2010).
+* [29] D. Wu, N. Barisic, P. Kallina, A. Faridian, B. Gorshunov, N. Drichko, L. J. Li, X. Lin, G. H. Cao, Z. A. Xu, N. L. Wang, and M. Dressel, Phys. Rev. B **81**, 100512(R) (2010).
+* [30] J. J. Tu, J. Li, W. Liu, A. Punnoose, Y. Gong, Y. H. Ren, L. J. Li, G. H. Cao, Z. A. Xu, and C. C. Homes, Phys. Rev. B **82**, 174509 (2010).
+* [31] R. A. Ferrell and R. E. Glover, Phys. Rev. **109**, 1398 (1958).
+* [32] D. C. Mattis and J. Bardeen, Phys. Rev. **111**, 412 (1958).
+* [33] W. Zimmermann, F. H. Brandt, M. Bauer, E. Seider, and L. Genzel, Phys. C **183**, 99 (1991).
+* [34] K. W. Kim, M. Rossle, A. Dubroka, V. K. Malik, T. Wolf, and C. Bernhard, Phys. Rev. B **81**, 214508 (2010).
+* [35] E. van Heumen, Y. Huang, S. de Jong, A. B. Kuzmenko, M. S. Golden, and D. van der Marel, Europhys. Lett. **90**, 37005 (2010).
+* [36] S. Kitagawa, K. Ishida, K. Nakano, T. Yajima, and H. Kageyama, Phys. Rev. B **87**, 060510 (2013).
+* [37] R. Sooryakumar and M. V. Klein, Phys. Rev. Lett. **45**, 660 (1980); Phys. Rev. B **23**, 3213 (1981).
+* [38] M.-A. Measson, Y. Gallais, M. Cazayous, B. Clair, P. Rodiere, L. Cario, and A. Sacuto, Phys. Rev. B **89**, 060503 (2014).
+
+ 

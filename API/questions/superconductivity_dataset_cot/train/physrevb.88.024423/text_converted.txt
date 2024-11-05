@@ -1,0 +1,454 @@
+# Superconductivity and non-Fermi-liquid behavior of La3Pd4Si4 and
+Ce3Pd4Si4
+
+F. Kneidinger, H. Michor, and E. Bauer
+
+Institute of Solid State Physics, Vienna University of Technology,
+A-1040 Wien, Austria
+
+A. Gribanov, A. Lipatov, and Y. Seropegin
+
+Department of Chemistry, Moscow State University, GSP-1, 119991 Moscow,
+Russia
+
+J. Sereni
+
+Div. Bajas Temperaturas, CAB-CNEA, 8400 San Carlos de Bariloche,
+Argentina
+
+P. Rogl
+
+Institute of Physical Chemistry, University of Vienna, A-1090 Wien,
+Austria
+
+15 April A superconducting quantum interference device (SQUID)
+magnetometer was used to study magnetic properties from 2.5 up to 300 K
+in fields up to 6 T using polycrystalline specimens of about 20 mg.
+Specific heat measurements on about 1 g of polycrystalline Ce₃Pd₄Si₄
+were performed at temperatures ranging from 2.5 up to 100 K by means of
+an adiabatic step heating method. Additionally, specific heat
+measurements in the temperature range between 350 mK and 20 K were
+carried on La₃Pd₄Si₄ and Ce₃Pd₄Si₄ samples with a commercial Quantum
+Design PPMS ³He relaxation calorimeter in fields up to 1 T. Electrical
+resistivity measurements were carried out in a ³He bath top-loading
+cryostat with a maximum magnetic field of 12.5 T and for temperatures
+from 350 mK up to 300 K. Resistivity was measured with the electrical
+current flowing parallel to the applied magnetic field via a four-probe
+technique using an ac bridge (Lakeshore 370).
+
+## III Results and Discussion
+
+The XRD analyses indicate that RE₃Pd₄Si₄ phases with La and Ce as rare
+earth elements are present as a major phase with a minor amount of
+impurity phases. The XRD pattern of La₃Pd₄Si₄ together with the
+corresponding Rietveld refinement are shown in Fig. 1, revealing
+a = 0.42358(1) nm, b = 0.42900(1) nm, and c = 2.45400(7) nm. Some small
+extra XRD peaks could be indexed on the basis of a La₂Pd₃Si₃ phase. The
+content of impurities is estimated to be a few percent in each sample.
+In the case of Ce₃Pd₄Si₄ these small impurity phases were identified as
+Ce₂Pd₃Si₃ (Ce₂Rh_(1.35)Ge_(4.65) type) and CeOPd₂Si₂ (ThCr₂Si₂ type) in
+agreement with the Ce-Pd-Si phase diagram [3], where these two phases
+were reported as neighboring phases.
+
+### La₃Pd₄Si₄
+
+Both resistivity and heat capacity measurements carried out on La₃Pd₄Si₄
+evidence bulk superconductivity below 2 K. Shown in Fig. 2 is the
+temperature dependent electrical resistivity ρ of La₃Pd₄Si₄ at zero
+field (main panel) and at various externally applied magnetic fields.
+Clearly visible is a superconducting transition being located slightly
+above 2 K. This transition temperature is in good coincidence with data
+reported in Refs. [6] and [7] derived from measurements of the
+electrical resistivity and magnetic susceptibility. Metallic behavior
+and the importance of _s-d_ scattering in La₃Pd₃Si₄ is quantitatively
+revealed from the applicability of the Bloch-Wilson model [18], i.e.,
+
+$$\rho(T) = A\left(\frac{T}{\theta_{D}}\right)^{5}\int_{0}^{\theta_{D}/T} \frac{z^{5}dz}{[\exp(z)-1][1-\exp(-z)]}$$
+$$\quad+B\left(\frac{T}{\theta_{D}}\right)^{3}\int_{\theta_{\rm min }/T}^{\theta_{D}/T}\frac{z^{3}dz}{[\exp(z)-1][1-\exp(-z)]}-\kappa\,T^{3}.$$
+
+The Mott-Jones term κ T³ accounts for scattering of conduction electrons
+on a narrow d band (e.g., Pd-4d or La-5d in La₃Pd₃Si₄) near to the Fermi
+energy [19] and explains the negative curvature in ρ(T) at higher
+temperatures. A least-squares fit of this model to the experimental data
+(solid line, Fig. 2) reveals a Debye temperature θ_(D) = 155 K, and
+κ ≈ 10⁻⁷μΩ cm K⁻³ as well as a minimum phonon energy
+$k_{B}\theta_{\rm min}=\hbar\omega_{\rm min}$, with
+$\theta_{\rm min}=98$ K. Here $\omega_{\rm min}$ is the frequency
+corresponding to the minimum q⃗ value to excite the _s-d_ transitions
+[18]. A = 54μΩ cm and B = 8.6μΩ cm are material dependent constants
+(compare Fig. 5, too).
+
+The superconducting phase transition is relatively sharp, evidencing
+good sample quality. The application of magnetic fields (inset, Fig. 2)
+consecutively suppresses superconductivity, and magnetic fields of the
+order of 1 T are sufficient to entirely eliminate the superconducting
+state. This suppression is accompanied by a slight increase of the width
+of the phase transition. The Debye temperature as derived from
+resistivity data is significantly lower than that derived from our
+specific heat measurements (see below). This might be a result of
+
+Figure 1: (Color online) X-ray powder pattern and Rietveld refinement of
+La₃Pd₄Si₄. The inset is a sketch of the crystal structure in projection
+along [100].
+
+Figure 2: (Color online) Temperature dependent electrical resistivity ρ
+of La₃Pd₄Si₄. The solid line is a least-squares fit as explained in the
+text. The inset shows ρ(T) of La₃Pd₄Si₄ at various externally applied
+magnetic fields.
+
+non-negligible electron-electron scattering superimposed to
+electron-phonon scattering.
+
+To proof whether superconductivity in La₃Pd₄Si₄ is of bulk nature and
+does not refer to an impurity phase, heat capacity measurements C_(p)(T)
+have been carried out for temperatures down to 350 mK and for magnetic
+fields up to 0.4 T. Results are displayed in Fig. 3. Bulk
+superconductivity is obvious from the distinct anomaly of C_(p)/T around
+2 K. An accurate determination of the superconducting transition
+temperature can be made from an idealized jump of the heat capacity
+anomaly (solid line, Fig. 3) by a balance of entropy, yielding
+T_(c) = 1.98 K, in good agreement with the resistivity data. The ideal
+peak height of the SC anomaly would then be 27 mJ/mol K².
+
+An estimation of the normal state Sommerfeld value γ_(n) within the
+temperature range between 2 and 5 K, reveals 26 mJ/mol K², and,
+additionally, θ_(D) = 280 K. A similar γ value is obtained if field
+measurements (e.g., μ₀H = 0.4 T) are considered, resulting in γ_(n) = 28
+mJ/mol K². The latter, however, is derived within a much smaller range
+of extrapolation.
+
+From the jump of the specific heat ΔC_(p)/T(T = T_(c)) ≈ 27 mJ/mol K²,
+we calculate the parameter ΔC_(p)/(γ_(n)T_(c)) ≈ 1.03, which is below
+the figure expected from BCS theory, ΔC_(p)/(γ T_(c)) ≈ 1.43.
+
+Deviations from a standard BCS behavior are also evident from the
+temperature dependent specific heat. Compared in Fig. 4(a) are the
+experimental heat capacity data of La₃Pd₄Si₄ plotted in a normalized
+representation C_(p)/(γ_(n)T_(c)), together with the heat capacity of a
+fully gapped s-wave superconductor as tabulated by Muhlschlegel[20]
+[solid line, Fig. 4(a)] and a simple power law C_(p) ∝ T³
+[dashed-double-dotted line, Fig. 4(a)]. The latter would indicate point
+nodes in the superconducting gap. Obviously both models do not properly
+account for the experimental data, specifically in the low temperature
+range.
+
+A further model calculation is based on a two gap scenario employing the
+so-called α model developed by Padamsee _et al.[21]_ with only one
+adjustable parameter α = Δ(0)/(k_(B)T_(c)). Note, the value α = 1.764
+corresponds to the weak coupling BCS limit. The heat capacity in the
+superconducting state is then a sum of individual contributions of both
+gaps Δ_(i)(0), together with the ratio γ₁/γ₂, with the partial specific
+heat contributions γ₁ + γ₂ = γ_(n). Such calculations have been
+successfully applied to MgB₂,[22] to borocarbide superconductors,[23] or
+recently to the ternary iron-silicide Lu₂Fe₅Si₅.[24] Employing this
+model to La₃Pd₄Si₄ with α₁ = 1.95, α₂ = 1.1, and γ₁/γ₂ = 0.7/0.3 [dashed
+line, Fig. 4(a)] reveals convincing agreement with the experimental data
+in an extended temperature range. Such a two gap model would also be in
+line with the pronounced positive curvature found for the upper critical
+field of La₃Pd₄Si₄ (see below). The temperature dependent difference
+between the experimental data and the three theoretical models are shown
+in Fig. 4(b), clearly demonstrating the superior agreement of the two
+gap scenario over a fully gapped s-wave model or the simple power law.
+
+As shown in Fig. 3, both the transition temperature and the jump of the
+specific heat at T_(c) become suppressed with increasing externally
+applied magnetic fields. This field dependent lowering of T_(c) is
+outlined in Fig. 4(b), where both resistivity and heat capacity data are
+summarized. As it is obvious from this figure, T_(c)(μ₀H) shows a
+superlinear dependence, reaching an upper critical field at zero
+temperature μ₀H_(c2)(0) of about 0.6 T. A typical BCS superconductor,
+however, would exhibit a sublinear temperature dependence μ₀H_(c2)(T).
+In absence of low temperature measurements, Fujii[7, 6] estimated an
+upper
+
+Figure 3: (Color online) Temperature dependent heat capacity C_(p) of
+La₃Pd₄Si₄ plotted as C_(p)/T vs T for various externally applied
+magnetic fields. The dashed line represents an ideal superconducting
+transition with T_(c) = 1.98 K.
+
+Figure 4: (Color online) (a) Low temperature specific heat C_(p) of
+La₃Pd₄Si₄ plotted in a normalized representation C_(p)/(γ_(n)T_(c)) vs
+T/T_(c). γ_(n) is the Sommerfeld constant in the normal state region of
+La₃Pd₄Si₄. The solid line is the heat capacity of a fully gapped BCS
+superconductor, whereas the dashed line represents a model with two
+different superconducting gaps. For details see the text. The
+dashed–double-dotted line is a power law C_(p) ∝ T³. (b) Temperature
+dependent difference δ of experimental and theoretical heat capacity
+data C_(p)/(γ_(n)T_(c)) below T_(c). The colors refer to (a). (c) Upper
+critical magnetic field μ₀H_(c2) of La₃Pd₄Si₄ as derived from
+resistivity (50
+
+critical field μ₀H_(c2) ≈ 0.33 T from a simple extrapolation of
+susceptibility results.
+
+The unusual temperature dependence of the upper critical field of
+La₃Pd₄Si₄ can have different microscopic origins: (i) The existence of
+more than one Fermi-surface sheet with energy gaps of different
+magnitudes as reported, e.g., for binary MgB₂, or (ii) strong
+anisotropies of the superconducting order parameter residing on a single
+Fermi-surface sheet.
+
+Positive curvatures of μ₀H_(c2)(T) have been observed, e.g., for the
+nonmagnetic rare-earth nickel borocarbides RNi₂B₂C (R = Y, Lu) and were
+explained theoretically employing effective two-band models.[25, 26]
+Phenomenologically, μ₀H_(c2)(T) of borocarbides and MgB₂ were accounted
+for in a wide temperature range using the simple expression[27]
+
+μ₀H_(c2) = μ₀H_(c2)^(*)(1 − T/T_(c))^(1 + β),
+(2)
+
+where μ₀H_(c2)^(*) and β are fitting parameters. Similar to the
+borocarbide case and MgB₂, μ₀H_(c2)(T) of La₃Pd₄Si₄, as displayed in
+Fig. 4(c), can be described on the basis of Eq. (2). A least-squares fit
+is shown in Fig. 4(c) as a dashed line revealing H_(c2)^(*) = 0.6 and
+β = 0.77. Exponents of a similar order were derived for borocarbides and
+MgB₂, too.
+
+Werthamer _et al.[28]_ derived an expression (abbreviated as _WHH
+model_) for the upper critical field μ₀H_(c2) in terms of orbital pair
+breaking, including the effect of Pauli spin paramagnetism and
+spin-orbit scattering. The WHH model is ruled by two parameters, namely
+α_(M), the Pauli paramagnetic limitation (= Maki parameter[29]), and
+λ_(∞), describing spin-orbit scattering. While the value of α_(M) allows
+a rough discrimination between orbital pair breaking and Pauli limiting,
+λ_(∞) becomes non-negligible for heavier atoms.
+
+The Maki parameter α_(M) can be estimated[28] from the Sommerfeld value
+γ and the residual resistivity ρ₀ as α_(M) = 0.23. The reasonably low
+value of α indicates that orbital pair breaking in La₃Pd₄Si₄ is the
+essential mechanism, limiting the upper critical field. The overall
+temperature dependence of μ₀H_(c2) as derived from the WHH model is
+displayed as a solid line in Fig. 4(b), revealing μ₀H_(c2)(0) = 0.21 T,
+which is more than two times smaller than the experimentally observed
+data.
+
+The thermodynamic critical field is calculated from the free energy
+difference between the superconducting and normal state, given by the
+expression
+$\Delta F(T)=F_{n}-F_{t}=\mu_{0}H_{c}^{2}(T)/2=\int_{T_{c}}^{T}\int_{T_{c}}^{T} \frac{(C-C_{n})}{T}dT^{\prime\prime}dT^{\prime}$.
+The quantity C_(n)(T) is obtained from the zero field specific heat
+measurement, whereas C_(n)(T) is obtained from the data corresponding to
+the 0.4 T run. The values derived are displayed in Fig. 4(b) as a
+dashed-dotted line; an extrapolation to T → 0 yields μ₀H_(c)(0) ≈ 0.04
+T. This allows us to evaluate a value for the dimensionless Ginzburg
+Landau parameter $\kappa_{\rm GL}=H_{c2}(0)/(\sqrt{2}H_{c})\simeq 9.8$,
+where the experimentally determined H_(c2)(0) = 0.55 T has been used.
+The coherence length ξ₀ for T → 0 can be obtained from
+μ₀H_(c2) = Φ₀/(2π ξ₀²), yielding ξ₀ ≃ 2.44 × 10⁻⁸ m. Combining the
+Ginzburg Landau parameter with the coherence length, the London
+penetration depth can be obtained as λ_(L)(T → 0) ≃ 2.39 × 10⁻⁷ m.
+
+An estimation of the electron-phonon interaction strength
+$\lambda_{v,\rm ph}$ is possible in terms of the McMillan formula.[30]
+Applying this model, and taking the repulsive screened Coulomb part
+μ^(*) ≈ 0.13, yields $\lambda_{v,\rm ph}\approx 0.52$; this
+characterizes La₃Pd₄Si₄ as a SC in the weak coupling limit.
+
+Similarly, an electron-phonon enhancement factor of about the same
+magnitude can be found if recent electronic structure calculations are
+considered,[31] where the calculated density of states at the Fermi
+energy corresponds to a bare band value γ_(b) = 19.8 mJ/mol K². A
+comparison with the experimentally derived Sommerfeld value γ = 29
+mJ/mol K² yields $\lambda_{v,\rm ph}\approx 0.46$, supporting the weak
+coupling regime.
+
+Based on the value of $l_{\rm tr}/\xi\approx 0.75$ we classify La₃Pd₄Si₄
+as a weakly coupled superconductor in the dirty limit; the value of
+$\kappa_{\rm GL}\approx 10$ refers to a type II superconductor.
+
+### Ce₃Pd₄Si₄
+
+Intermetallic compounds based on Ce are known a long time for a variety
+of interesting ground states, primarily triggered by the Kondo effect as
+a result of distinct interactions between conduction electrons and the
+magnetic moment of the Ce ion. In the following, results derived from
+resistivity, heat capacity, and magnetization measurements will be used
+to obtain information on the ground state properties of Ce₃Pd₄Si₄.
+
+Shown in Fig. 5 are temperature dependent resistivity measurements of
+Ce₃Pd₄Si₄ and of La₃Pd₄Si₄; the latter compound serves as a nonmagnetic
+reference, representing the contribution to the electrical resistivity
+owing to the electron-phonon interaction. While ρ(T) of La₃Pd₄Si₄
+exhibits superconductivity below 2 K and a simple metallic behavior in
+the normal state region (see the previous section), ρ(T) of Ce₃Pd₄Si₄
+shows a much more complex temperature dependence as typical for Kondo
+lattice systems. The most dominant feature is a maximum in ρ(T) around
+8.5 K with ρ(T) dropping above and below this temperature. Well above
+100 K, a local minimum develops in ρ(T). A comparison of the
+experimental data of Ce₃Pd₄Si₄ and La₃Pd₄Si₄ allows
+
+Figure 5: (Color online) Temperature dependent resistivity ρ of
+La₃Pd₄Si₄ and Ce₃Pd₄Si₄ plotted on a logarithmic temperature scale. The
+magnetic contribution $\rho_{\rm mag}(T)$ of Ce₃Pd₄Si₄ is also shown in
+this plot, where the dashed line should emphasize Kondo interaction;
+$\rho_{\rm mag}\approx\rho(\rm Ce_{3}Pd_{4}Si_{4})-\rho(\rm La_{3}Pd_{4}Si_{4})$.
+The solid line is a least-squares fit as explained in Fig. 2.
+
+us to derive the magnetic part $\rho_{\rm mag}$ if one assumes that the
+phonon contribution of both compounds is equal. $\rho_{\rm mag}(T)$ of
+Ce₃Pd₄Si₄ is included in Fig. 5, too. The logarithmic temperature
+dependence of $\rho_{\rm mag}$ at elevated temperatures evidences Kondo
+interaction in the presence of crystalline electric field splitting. The
+drop of ρ(T) at low temperatures results from the development of a
+coherent state owing to the Kondo lattice properties of Ce₃Pd₄Si₄. In
+general, such a coherent state would be concomitant with Fermi-liquid
+features, and a T² behavior of $\rho_{\rm mag}(T)$ should become
+obvious. The present experimental data, however, reveal a distinctly
+different power law.
+
+A closer inspection of the low temperature resistivity data is shown in
+Fig. 6, where measurements at various magnetic fields are added. The low
+temperature maximum in ρ(T) is weakly field dependent and shifts from
+about 8.5 K at zero magnetic field to about 10.5 K at an externally
+applied field of 8 T. Such a field dependence of the electrical
+resistivity is typical for cerium and ytterbium based Kondo lattices. At
+the lowest temperatures of our study, Fermi-liquid features are absent
+in ρ(T). Rather, the zero field measurement can be accounted for by a
+simple power law ρ(T) = ρ₀ + AT^(n), where the exponent n = 1 reveals
+best agreement; in the case of the 12 T run, n = 1.15. These exponents
+are indicative of a non-Fermi-liquid behavior, arising, most likely,
+from the proximity of a magnetic instability of the Ce ions.
+
+A magnetic state of the Ce ions in Ce₃Pd₄Si₄, can be concluded from
+magnetic susceptibility measurements χ(T) as shown in Fig. 7. Applying a
+modified Curie-Weiss law to the experimental data, i.e.,
+
+$$\chi=\chi_{0}+\frac{C}{T-\theta_{p}},$$
+(3)
+
+yields information concerning a temperature independent Pauli
+contribution χ₀, the effective magnetic moment $\mu_{\rm eff}$ (deduced
+from the Curie constant C), and the paramagnetic Curie temperature
+θ_(p). Results of a least-squares fit (T > 50 K) according to Eq. (3)
+are shown as a solid line in Fig. 7, revealing an effective magnetic
+moment $\mu_{\rm eff}=2.51$μ_(B) close to that of the Ce-4f¹ electronic
+configuration [$\mu_{\rm eff}({\rm Ce^{3+}})=2.54$$\mu_{\rm B}$] and a
+paramagnetic Curie temperature θ_(p) = −29 K. The latter refers to
+antiferromagnetic interactions among the Ce ions. χ(T) at low
+temperatures does not show any characteristic anomaly being typical for
+long range magnetic order. This is in line with isothermal magnetization
+data taken at T = 2 K (inset, Fig. 7). A smooth, slightly curvilinear
+M(H) dependence is observed with relatively small magnetization values
+at 6 T. A description of these data can be done calculating the field
+dependent magnetization of an effective spin 1/2 system at T = 2 K,
+employing a Lande factor $g_{\rm eff}=0.775$. Fairly good agreement is
+obtained in this way, except for the low field range, where the
+disagreement between the model and the experimental data appears to be
+in line with the Curie-like bending of the magnetic susceptibility at
+low temperatures. CEF effects are the primary cause for the appearance
+of only small magnetization values, well below g_(j)j = 2.14μ_(B),
+associated with the total angular momentum of the free Ce³⁺ ion. A
+comparison with magnetization data of Ce₃Pd₄Ge₄ at T = 2 K [35] shows
+for the latter a clear indication for a metamagnetic phase transition
+around 4 T, thus referring to an antiferromagnetic ground state.
+
+To further prove the ground state of Ce₃Pd₄Si₄, heat capacity
+measurements C_(p) have been performed down to 400 mK. Results are
+displayed in Fig. 8 as C_(p)/T vs T, together with those of La₃Pd₄Si₄.
+The most prominent feature is an almost logarithmic contribution in the
+range of a few Kelvin, followed by a smooth saturation of C_(p)/T
+towards zero with very large values of about 2.7 J/mol K², corresponding
+to γ = 0.9 J/mol K² per cerium ion. Considering renormalization group
+calculations by Oliveira and Wilkins,[32] the Kondo temperature T_(K)
+follows from T_(K) = 0.68 ⋅ R/γ = 6.2 K if a doublet is considered as
+ground state.
+
+Figure 6: (Color online) Low temperature electrical resistivity ρ
+measured at various externally applied magnetic fields. The inset shows
+resistivity details together with power law fits for the zero and 12 T
+run.
+
+Figure 7: (Color online) Temperature dependent magnetic susceptibility χ
+of Ce₃Pd₄Si₄ plotted as 1/χ vs T. The solid line is a fit employing a
+modified Curie-Weiss law. The inset displays the isothermal
+magnetization (T = 2 K) of Ce₃Pd₄Si₄; the solid line is the
+magnetization of an effective spin 1/2 system with a Lande factor
+$g_{\rm eff}=0.775$.
+
+Assuming that the phonon contribution to the heat capacity of Ce₃Pd₄Si₄
+can be represented by the specific heat of La₃Pd₄Si₄, the magnetic
+entropy $S_{\rm mag}$ can be derived by integrating $C_{\rm mag}/\,T$.
+Results of this evaluation are plotted in Fig. 8 as a dashed line,
+referring to the right axis. An entropy of 3 ⋅ Rln 2 is reached around
+18 K. The slow rate of the recovery of magnetic entropy in Ce₃Pd₄Si₄ is
+a consequence of the Kondo effect present in this compound.
+$S_{\rm mag}(T)$ also allows us to estimate the Kondo temperature
+independently from
+$T_{K}=T(S_{\rm mag}\approx 0.45\cdot R\ln 2)\approx 4.4$ K [33], in
+very good agreement with the estimation obtained from the Sommerfeld
+value. Kondo-type interaction is also supposed to be responsible for the
+suppression of long range magnetic order, absent in Ce₃Pd₄Si₄ at least
+down to 400 mK.
+
+The further increase of $S_{\rm mag}$ at higher temperatures indicates
+that the excited crystalline electric field levels are not well
+separated from the ground state; hence some hybridization between CEF
+levels might appear. This is seen from some deformation of the maximum
+of the magnetic contribution to the electrical resistivity, too.
+
+In order to test whether or not Ce₃Pd₄Si₄ is at or near the quantum
+critical point, the self-consistent renormalization (SCR) model of
+Moriya and Takimoto [14] can be taken into account:
+
+$$C_{m} = 9N_{0}\int_{0}^{x_{0}}dx\,x^{2}\left\{\left[u^{2}-2u\frac{dy}{ dt}+\left(\frac{dy}{dt}\right)^{2}\right]\right.$$
+(4)
+$$\times\left[-\frac{1}{u}-\frac{1}{2u^{2}}+\psi^{\prime}(u)\right]$$
+$$\left.-t\frac{d^{2}y}{dt^{2}}\left[\ln u-\frac{1}{2u}-\psi(u) \right]\right\},$$
+
+where  
+
+## References
+
+* [1] E. Wawrzynska, S. Baran, J. Leciejewicz, W. Sikora, N. Stusser,
+and A. Szytula, J. Phys.: Condens. Mat. **15**, 803 (2003). * [2] E.
+Wawrzynska, J. Hernandez-Velasco, B. Penc, W. Sikora, A. Szytula, and A.
+Zygmunt, J. Phys.: Condens. Mat. **15**, 5279 (2003). * [3] G. Bocelli,
+O. Sologub, and P. Salamakha, J. Alloys Compounds **360**, L3 (2003). *
+[4] E. Wawrzynska, J. Hernandez-Velasco, B. Penc, and A. Szytula, J.
+Phys.: Condens. Mat. **16**, 45 (2004). * [5] E. Wawrzynska, J.
+Hernandez-Velasco, B. Penc, M. Rams, and A. Szytula, J. Magn. Magn.
+Mater. **288**, 111 (2005). * [6] H. Fujii, T. Mochiku, H. Takeya, and
+A. Sato, Phys. Rev. B **72**, 214520 (2005). * [7] H. Fujii, J. Phys.:
+Condens. Matter **18**, 8037 (2006). * [8] T. Mochiku, H. Fujii, H.
+Takeya, T. Wuernisha, K. Mori, T. Ishigaki, T. Kamiyama, and K. Hirata,
+Physica C **463-465**, 182 (2007). * [9] S. Kasahara, H. Fujii, H.
+Takeya, T. Mochiku, A. D. Thakur, and K. Hirata, J. Phys.: Condens.
+Matter **20**, 385204 (2008). * [10] S. Kasahara, H. Fujii, T. Mochiku,
+H. Takeya, and K. Hirata, Physica B **403**, 1119 (2008). * [11] P.
+Rogl, B. Chevalier, and J. Etourneau, J. Solid State Chem. **88**, 429
+(1990). * [12] A. Lipatov, A. Gribanov, A. Grytsiv, P. Rogl, E.
+Murashova, Y. Seropegin, G. Giester, and K. Kalmykov, J. Solid State
+Chem. **182**, 2497 (2009). * [13] E. Parthe, L. Gelato, B. Chabot, M.
+Penzo, K. Cenzual, and R. Gladyshevskii, _TYPIX–Standardized Data and
+Crystal Chemical Characterization of Inorganic Structure Types_
+(Springer, Berlin, 1994). * [14] T. Moriya and T. Takimoto, J. Phys.
+Soc. Jpn. **64**, 960 (1995). * [15] T. Roisnel and J.
+Rodriguez-Carvajal, Mater. Sci. Forum **118**, 378 (2001). * [16] J.
+Rodriguez-Carvajal, Physica B **192**, 55 (1993). * [17] STOE-WINXPOW
+(Version 1.06), Stoe & Cie GmbH, Darmstadt, Germany, 1999 * [18] A. H.
+Wilson, Proc. R. Soc. London Ser. A **167**, 580 (1938). * [19] J. C. H.
+Chiu, Phys. Rev. B **13**, 1507 (1976). * [20] B. Muhlschlegel, Z.
+Phys., **155**, 313 (1959). * [21] H. Padamsee, J. E. Neighbor, and C.
+A. Shiffman, J. Low Temp. Phys. **12**, 387 (1973). * [22] F. Bouquet,
+R. A. Fisher, N. E. Phillips, D. G. Hinks, and J. D. Jorgensen, Phys.
+Rev. Lett. **87**, 047001 (2001). * [23] C. L. Huang, J.-Y. Lin, C. P.
+Sun, T. K. Lee, J. D. Kim, E. M. Choi, S. I. Lee, and H. D. Yang, Phys.
+Rev. B **73**, 012502 (2006). * [24] Y. Nakajima, T. Nakagawa, T.
+Tamegai, and H. Harima, Phys. Rev. Lett. **100**, 157001 (2008). * [25]
+S. V. Shulga, S. L. Drechsler, G. Fuchs, K. H. Muller, K. Winzer, M.
+Heinecke, and K. Krug, Phys. Rev. Lett. **80**, 1730 (1998). * [26] S.
+Manalo, H. Michor, M. El-Hagary, G. Hilscher, and E. Schachinger, Phys.
+Rev. B **63**, 104508 (2001). * [27] K.-H. Muller, G. Fuchs, A.
+Handstein, K. Nenkov, V. N. Narozhnyi, D. Eckert, and M. Wolf, Physica C
+**372-376**, 1251 (2002); J. Freudenberger, S.-L. Drechsler, G. Fuchs,
+A. Kreyssig, K. Nenkov, S. V. Shulga, K.-H. Muller, and L. Schultz,
+_ibid._**306**, 1 (1998). * [28] N. R. Werthamer, E. Helfand, and P. C.
+Hohenberg, Phys. Rev. **147**, 295 (1966). * [29] K. Maki, Phys. Rev.
+**148**, 362 (1966). * [30] W. L. McMillan, Phys. Rev. **167**, 331
+(1968). * [31] M. J. Wijnarski and M. Samsel-Czekala, J. Alloys
+Compounds **546**, 124 (2013). * [32] L. N. Oliveira and J. W. Wilkins,
+Phys. Rev. Lett. **47**, 1553 (1981). * [33] H.-U. Desgranges and K. D.
+Schotte, Phys. Lett. A **90**, 240 (1982). * [34] E. D. Bauer, V. A.
+Sidorov, S. Bobev, D. J. Mixson, J. D. Thompson, J. L. Sarrao, and M. F.
+Hundley, Phys. Rev. B **71**, 014419 (2005). * [35] H. J. Im, Y. S.
+Kwon, and M. H. Jung, Solid State Commun. **124**, 181 (2002).

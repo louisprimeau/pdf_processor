@@ -1,0 +1,644 @@
+# Superconductivity in 122-type antimonide BaPt₂Sb₂
+
+Motoharu Imai,¹ Soshi Ibuka,^(1,) Naoki Kikugawa,¹ Taichi Terashima,²
+Shinya Uji,² Takeshi Yajima,^(3, 4) Hiroshi Kageyama,³ and Izumi Hase⁵
+
+Present address: Institute of Materials Structure Science, High Energy
+Accelerator Research Organization, 203-1 Shirakata, Tokai, Ibaraki
+319-1106, Japan. Superconducting Properties Unit, National Institute for
+Materials Science, 1-2-1 Sengen, Tsukuba, Ibaraki 305-0047, Japan
+
+²Superconducting Properties Unit, National Institute for Materials
+Science, 3-13 Sakura, Tsukuba, Ibaraki 305-0003, Japan
+
+³Graduate School of Engineering, Kyoto University, Nishikyo-ku, Kyoto
+615-8510, Japan
+
+⁴Institute for Solid State Physics, University of Tokyo, 5-1-5
+Kashiwanoha, Kashiwa, Chiba 277-8581, Japan
+
+⁵Electronics and Photonics Research Institute, National Institute of
+Advanced Industrial Science and Technology, AIST Central 2, 1-1-4
+Umezono, Tsukuba, Ibaraki 305-8568, Japan
+
+###### Abstract
+
+The crystal structure, superconducting properties, and electronic
+structure of the novel superconducting 122-type antimonide BaPt₂Sb₂ have
+been studied by measurements of powder x-ray diffraction patterns,
+electrical resistivity, a magnetic susceptibility, specific heat, and by
+_ab initio_ calculations. The material crystallizes in a new monoclinic
+variant of the CaBe₂Ge₂-type structure, in which Pt₂Sb₂ layers that
+consist of PtSb₄ tetrahedra, and Sb₂Pt₂ layers that consist of SbPt₄
+tetrahedra, are stacked alternatively, with Ba atoms located between
+them. Measurements of electrical resistivity, ac magnetic
+susceptibility, and specific heat revealed that BaPt₂Sb₂ is a
+superconducting material with a critical temperature of 1.8 K. The
+electronic heat capacity coefficient and the Debye temperature were 8.6
+(2) mJ/mol K² and 146(4) K, respectively. The upper critical field and
+the Ginzburg-Landau coherent length were determined to be 0.27 T and 35
+nm, respectively. The calculations showed that the material has two
+three-dimensional Fermi surfaces (FSs) and two two-dimensional FSs,
+leading to anisotropic transport properties. The d states of the Pt
+atoms in the Pt₂Sb₂ layers are the main contributors to the density of
+states at the Fermi level. A comparison between experimental and
+calculated results indicates that BaPt₂Sb₂ is a superconducting material
+with moderate coupling.
+
+doi:10.1103/PhysRevB.91.014513
+
+22 September 201413 January 2015
+
+## I Introduction
+
+The discovery of superconductivity with a critical temperature T_(C) of
+26 K in LaFeAs(O,F) [1] has stimulated studies on superconducting iron
+pnictides, and various systems such as 1111, 122, and 11 have been
+discovered [2, 3, 4, 5, 6, 7, 8, 9]. AFe₂As₂ (_A_ = Ba, Sr, Ca, or Eu)
+is the parent material for the superconducting 122 iron pnictides.
+Partial substitution of A, Fe, or As, or pressurization induces
+superconductivity with a relatively high T_(C). For example, (Ba,
+K)Fe₂As₂ and (Ca, La)Fe₂(As, P₂) have a T_(C) of 38 and 45 K,
+respectively [10, 11]. AFe₂As₂ crystallizes with a ThCr₂Si₂-type
+structure, in which A atoms are located between Fe₂As₂ layers. Each
+Fe₂As₂ layer comprises a square lattice of Fe atoms, each of which is
+surrounded by four As atoms in a tetrahedral coordination.
+
+Superconductivity has also been observed in iron-free pnictides with a
+ThCr₂Si₂-type or related structure, although their T_(C) values were
+relatively low [12, 13, 14, 15, 16, 17, 18, 19]. SrPt₂As₂ is a
+superconductor with a T_(C) of 5.4 K [20]. It crystallizes in a
+modulated orthorhombic variant of the CaBe₂Ge₂-type structure, which is
+a derivative of the ThCr₂Si₂-type structure [21]. In CaBe₂Ge₂-type
+SrPt₂As₂, Sr atoms are sandwiched between two kinds of layers. One is a
+Pt₂As₂ layer, which is a similar structure to the Fe₂As₂ layer in
+_A_Fe₂As₂. The other is an As₂Pt₂ layer, in which As atoms form a square
+lattice, with each being surrounded by four Pt atoms in a tetrahedral
+coordination. The electronic structure has been calculated for
+ThCr₂Si₂-type SrPt₂As₂, which is a hypothetical material, and
+CaBe₂Ge₂-type SrPt₂As₂[22]. The results indicated that in the latter
+material, the Fermi surfaces (FSs) had characteristics that were
+intermediate between those for AFe₂As₂ and ThCr₂Si₂-phase iron-free
+pnictides. AFe₂As₂ has two-dimensional (2D) FSS [2, 3, 5, 6, 23, 24],
+while ThCr₂Si₂-type iron-free pnictides have three-dimensional (3D) FS
+[25, 26, 27, 28, 29]. CaBe₂Ge₂-type SrPt₂As₂ has two 2D FSs and two 3D
+FSs. The coexistence of 2D and 3D FSs has also been reported for
+CaBe₂Ge₂-type BaPd₂Sb₂[29]. Thus, some CaBe₂Ge₂-type iron-free pnictides
+are positioned between ThCr₂Si₂-type iron pnictides and ThCr₂Si₂-type
+iron-free pnictides from the viewpoint of ferrimology. Furthermore, the
+coexistence of 2D and 3D FSs is expected to cause multigap
+superconductivity, as in the case of MgB₂[30, 31], and this is an area
+of considerable interest in the field of superconductivity. Therefore,
+searching for superconducting CaBe₂Ge₂-type pnictides and studying their
+superconducting properties are important with regard to forming a
+systematic understanding of superconductivity in 122 pnictides.
+
+However, superconducting materials that are structurally related to
+iron-based superconductors are limited to phosphides and arsenides.
+Recently, the 122 antimonide SrPt₂Sb₂ has been reported to be a
+superconductor with a T_(C) of 2.1 K [32]. To the best of our knowledge,
+this is the first report of a superconducting 122 antimonide that is
+related to superconducting iron pnictides. As previously reported, the
+crystal structure of SrPt₂Sb₂ is different to that of CaBe₂Ge₂[21].
+Although a precise analysis of the crystal structure needs to be
+performed, it is possibly related to the CaBe₂Ge₂-type structure. Since
+SrPt₂Sb₂ isovalent to SrPt₂As₂ and deduced to have a crystal structure
+related to that of CaBe₂Ge₂, SrPt₂Sb is expected to have both 3D and 2D
+FSs, and to exhibit physical properties that reflect this.
+
+In this paper, we report on the successful synthesis of BaPt₂Sb₂, its
+crystal and electronic structures, and the appearance of
+superconductivity. To the best of our knowledge, BaPt₂Sb₂ is a novel
+material that has not so far been reported. A powder x-ray diffraction
+(XRD) analysis indicates that it crystallizes in a monoclinic variant of
+the CaBe₂Ge₂-type structure. Measurements of electrical resistivity, ac
+magnetic susceptibility, and specific heat reveal that BaPt₂Sb₂ is a
+superconducting material with a $T_{\rm C}$ of 1.82 K. _Ab initio_
+calculations demonstrate that it has 3D and 2D FSs, and that the main
+contribution to the density of states at the Fermi level $N(E_{\rm F})$,
+which is responsible for its superconductivity, is from the d states of
+Pt.
+
+## II Experimental Methods
+
+The starting materials were Ba (purity 99.9
+
+The crystal structure was examined by powder XRD using a Bragg-Brentano
+diffractometer (RINT-TTR III, Rigaku) with Cu Kα radiation (40 kV, 300
+mA), and a step size of 0.02^(∘) in the 2θ range of 15.0^(∘)-120.0^(∘)
+at room temperature. A fine powder sample was mounted on a glass plate
+holder with a depth of 0.3 mm. The XRD pattern was analyzed by the
+direct-space method with a simulated annealing algorithm, and
+subsequently refined by the Rietveld method [33] using the software
+"Fullprof" [34]. The background was modeled using a six-coefficient
+polynomial function.
+
+The electrical resistivity ρ at temperatures ranging from 1.8 to 300.0 K
+was measured by a four-probe method using a physical properties
+measurement system (PPMS, Quantum Design Co.). The magnetic field
+dependence of ρ was determined using a standard ac technique at a
+frequency (f) of ∼15 Hz.
+
+The ac susceptibility
+$\chi_{\rm ac}=\chi^{\prime}-i\,\chi^{\prime\prime}$ was evaluated by a
+mutual-inductance method with an ac modulation field of
+$\mu_{0}\,H_{\rm ac}\sim 0.037\,$mT and f∼67 Hz using the same sample
+used for the ac resistivity measurements. The sample was cooled using a
+dilution fridge that was equipped with a superconducting magnet for
+applying an external field. The specific heat was measured by a
+relaxation method using the PPMS.
+
+In order to investigate the electronic structure of BaPt₂Sb₂, _ab
+initio_ band calculations were performed for this compound. The
+full-potential linearized augmented plane-wave (FLAPW) scheme was used
+and the exchange-correlation potential was constructed within the
+local-density approximation. These were implemented using the kansai-94
+and tspace[35] computer codes. The space group was C2/m (No. 12), and
+the lattice constants and atomic parameters were set to experimentally
+observed values (this work). The muffin-tin radii used in this
+calculation were 2.6 bohrs for Ba, 2.4 bohrs for Pt, and 2.3 bohrs for
+Sb. For the plane-wave basis functions, about 1000 LAPWs were used.
+Since this compound contains the heavy atoms Pt and Sb, the spin-orbit
+interaction (SOI) was included using a second-variational approach [36].
+In this scheme, a scalar-relativistic calculation was first performed,
+and the SOI was then included iteratively.
+
+## III Results and Discussion
+
+### Crystal structure
+
+Figure 1 shows a powder XRD pattern for BaPt₂Sb₂ together with the
+results of a Rietveld analysis. The observed pattern can be reproduced
+well by assuming that BaPt₂Sb₂ has a monoclinic structure with the
+parameters shown in Table 1, and that a small amount (0.8 mol
+
+Figure 1: (Color online) Powder XRD pattern for BaPt₂Sb₂. The red points
+and black line represent observed and calculated intensities.
+respectively. The difference between the two intensities is indicated by
+the blue line shifted by −7000 counts. Peak positions for BaPt₂Sb₂ and
+the PtSb impurity are labeled by green and purple vertical bars located
+at −2000 and −4000 counts, respectively.
+
+layers that consist of SbPt₄ tetrahedra. These layers are stacked
+alternatively along the [001] direction, with Ba atoms between them.
+This crystal structure is similar to that for CaBe₂Ge₂, but some
+differences exist. First, the angle between the c axis and the a-b
+plane, $\beta_{\rm{uc}}$, is 91.227^(∘), whereas the three angles
+$\alpha_{\rm{uc}}$, $\beta_{\rm{uc}}$, and $\gamma_{\rm{uc}}$, are
+90^(∘) in the CaBe₂Ge₂-type structure [Fig. 2(d)]. Second, the Pt1 (or
+Sb1) atoms form a deformed square lattice in the Pt₂Sb₂ (or Sb₂Pt₂)
+layers in the proposed structure, whereas Pt (or Sb) atoms form a square
+lattice in the Pt₂Sb₂ (or Sb₂Pt₂) layers in CaBe₂Ge₂-type BaPt₂Sb₂
+(hypothetical) as shown in Figs. 2(e) and 2(f). The shape of the lattice
+formed by Pt1 (or Sb1) atoms is isosceles trapezoid, and the degree of
+deformation in the Pt1 lattice is larger than that for Sb1 atoms. The
+Pt1 (or Sb1) atoms are aligned along the b-axis direction, whereas they
+form a zigzag pattern along the a-axis direction. Third, the Pt1 (or
+Sb1) deformed square lattice in the proposed structure is almost
+parallel to the a and b axes, whereas the square lattice in the
+CaBe₂Ge₂-type structure is rotated 45^(∘) relative to the a and b axes
+[Figs. 2(e) and 2(f)].
+
+A monoclinic variant of the CaBe₂Ge₂-type structure has been reported in
+materials such as LnPt₂Ge₂ (Ln = La - Dy) [37] and a high-pressure phase
+of SrPt₂As₂[21], and this variant is known as the LaPt₂Ge₂-type
+structure. The LaPt₂Ge₂-type structure can be obtained from the
+CaBe₂Ge₂-type structure by changing the b-axis length and increasing the
+unit-cell angle β from 90^(∘) by several tenths of a degree. The
+relation between the unit-cell axis and the square Pt lattice is
+different for the LaPt₂Ge₂-type structure and the proposed crystal
+structure of BaPt₂Sb₂. In the LaPt₂Ge₂-type structure, the square
+lattice is rotated by 45^(∘) relative to the a and b axes, as in the
+case of the CaBe₂Ge₂-type structure, whereas the square lattice is
+almost parallel to the a and b axes in BaPt₂Sb₂. To the best of our
+knowledge, the proposed structure is a completely different one.
+
+Table 2 lists interatomic distances. The intralayer interatomic distance
+has two values of 2.681(3) and 2.734(3) A, which are both similar to the
+interlayer interatomic distance of 2.708(7) A. This indicates that the
+crystal structure is three dimensional. The $T_{\rm{C}}$ for iron-based
+superconductors has often been discussed in terms of two structural
+parameters, the Pn-Fe-Pn angle in FePn₄ tetrahedra, and the Pn elevation
+above the Fe square lattice, where Pn represents pnictogen [38, 39, 40].
+The Sb-Pt-Sb angles in the PtSb₄ tetrahedra and the Pt-Sb-Pt angles in
+the SbPt₄ tetrahedra are far from the ideal regular tetrahedron angle of
+109.5^(∘) that is thought to be favorable for a high $T_{\rm{C}}$ in the
+iron pnictides. The Sb elevation above the distorted Pt square lattice
+is similar to the Pn elevation for iron pnictides with a high
+$T_{\rm{C}}$.
+
+The crystal structure of SrPt₂Sb₂ was reported to be different from the
+CaBe₂Ge₂-type [32], but has not been determined yet. This structure
+proposed in this paper may help to clarify the crystal structure of
+SrPt₂Sb₂.
+
+  Interatomic distances                                                 
+  --------------------------------- ----------------------------------- ----------------
+  Intralayer                                                            
+  Pt₂Sb₂ layer                      2.681(3) Å × 2                      2.734(3) Å × 2
+                                    Sb height from the Pt square        1.263(3) Å
+                                    lattice                             
+  Sb₂Pt₂ layer                      2.687(2) Å × 2                      2.702(2) Å × 2
+                                    Pt height from the Sb square        1.266(2) Å
+                                    lattice                             
+  Interlayer                        2.708(7) Å                          
+  Bond angles                                                           
+  PbSb₄ tetrahedron                                                     
+  Sb-Pt-Sb angle                                                        
+  Diagonal ($\alpha_{\rm{bond}}$)   122.92(15)^(∘)× 2                   
+  Adjacent ($\beta_{\rm{bond}}$)    91.58(16)^(∘), 102.78(12)^(∘)× 2,   
+                                    113.50(19)^(∘)                      
+  SbPt₄ tetrahedron                                                     
+  Pt-Sb-Pt angle                                                        
+  Diagonal ($\alpha_{\rm{bond}}$)   123.95(12)^(∘)× 2                   
+  Adjacent ($\beta_{\rm{bond}}$)    102.47(12)^(∘), 103.10(9)^(∘)× 2,   
+                                    102.34(12)^(∘)                      
+
+Table 2: Interatomic distances and bond angles. The values in
+parentheses represent the standard deviation.
+
+Figure 2: (Color online) (a) Crystal structure of BaPt₂Sb₂, (b) PtSb₄
+and SbPt₄ tetrahedra that form the Pt₂Sb₂ and Sb₂Pt₂ layers. (c) view
+along the [001] direction, (d) view along the [010] direction, (e)
+deformed Pt square lattice of BaPt₂Sb₂ along the [001] direction, and
+(f) Pt square lattice of CaBe₂Ge₂-type BaPt₂Sb₂ along the [001]
+direction. Red broken lines show Pt lattice. Blue solid lines show unit
+cell. Large purple spheres, small white spheres, and small orange
+spheres represent Ba, Pt, and Sb atoms, respectively.
+
+### Electrical resistivity, ac magnetic susceptibility, specific heat,
+and magnetic phase diagram
+
+Based on the results of electrical resistivity, ac magnetic
+susceptibility, and specific-heat measurements, it was found that
+BaPt₂Sb₂ undergoes a superconducting transition.
+
+Figure 3(a) shows the electrical resistivity ρ as a function of
+temperature, where the inset is an expanded view at low temperatures. It
+can be seen that ρ decreases with decreasing temperature, undergoes an
+abrupt drop at 1.85 K, and becomes negligibly small at 1.82 K, which
+suggests that BaPt₂Sb₂ undergoes a normal-to-superconducting transition.
+The residual resistivity ratio ρ (300 K) / ρ (2 K) is 4.04. Figure 3(b)
+shows ρ measured at constant temperatures as a function of the magnetic
+field strength. Under an applied magnetic field, the sample underwent a
+superconducting-to-normal transition. The symbols H_(C2)ρ^(, 0n),
+H_(C2)ρ^(, mid), and H_(C2)ρ^(, comp) represent the magnetic field
+strength at which ρ starts to increase from zero, that where ρ is half
+the normal resistivity value, and that where an extrapolation of the ρ-T
+curve at the transition reaches the normal resistivity value,
+respectively. The critical field increases with decreasing temperature,
+as will be discussed in more detail later.
+
+Figure 4 shows the real and imaginary parts of the ac magnetic
+susceptibility χ^(′) and χ^(′′), respectively, measured at constant
+temperatures below 1.44 K as a function of magnetic field amplitude μ₀H.
+The inset is an expanded view of χ^(′) measured at 0.03 K. The χ^(′)
+curves reflect a diamagnetic signal at low μ₀H, and this disappears at
+the point μ₀H_(C2)χ^(′). The χ^(′′) curves exhibit a peak at a magnetic
+field amplitude almost corresponding to the inflection point in the
+χ^(′) curves. The shoulder observed at low μ₀H in the χ^(′′) curves is
+due to a background signal associated with the apparatus. This behavior
+of χ^(′) and χ^(′′) suggests that BaPt₂Sb₂ becomes superconducting in
+this temperature range [41], and that the abrupt decrease in ρ at 1.85 K
+corresponds to a superconducting transition. The magnitude of the
+diamagnetic signal for BaPt₂Sb₂ was investigated by comparing it with
+that for a Pb sample with the same shape and size. At 1.6 K, the two
+signals had almost the same magnitude, and since Pb is a perfect
+diamagnetic at this temperature, the superconducting volume fraction in
+BaPt₂Sb₂ was almost 100
+
+Figure 5(a) shows the specific heat divided by the temperature C/T as a
+function of T², measured for different magnetic field strengths. At 0 T,
+an anomaly appears around 1.7 K, and this shifts to lower temperature
+and becomes smaller with increasing magnetic field, until it finally
+disappears at 0.2 T. This large specific-heat anomaly and the large
+diamagnetic signal in χ^(′) indicate that the observed superconductivity
+is bulk superconductivity. These results reveal that BaPt₂Sb₂ is a
+superconducting material with a T_(C) of 1.8 K.
+
+The electronic specific-heat coefficient γ_(a), and the coefficients β
+and δ were determined to be 8.6 (2) mJ/mol K², 2.32 (6) mJ/mol K⁴, and
+0.111 (5) mJ/mol K⁶, respectively, by fitting the equation
+C/T = γ_(a) + βT² + δT⁴ to the data obtained at 0.2 T. The Debye
+temperature θ_(D) was calculated to be 146(4) K from the value of β. In
+order to confirm the validity of the fit, the difference in the entropy
+S between the normal and superconducting states S_(es) − S_(en) was
+calculated
+
+Figure 4: (Color online) Real and imaginary parts of ac magnetic
+susceptibility χ^(′) and χ^(′′), respectively, measured at constant
+temperatures below 1.44 K as a function of magnetic field amplitude μ₀H.
+The inset shows an expanded view of χ^(′) measured at 0.03 K.
+H_(C2)χ^(′) indicates the magnetic field amplitude where the diamagnetic
+signal disappears.
+
+Figure 3: (Color online) (a) Electrical resistivity as a function of
+temperature, (b) electrical resistivity at fixed temperatures as a
+function of magnetic field strength. The inset in Fig. 3(a) is an
+expanded view of the resistivity at low temperatures ranging from 1.8 to
+2.1 K. The symbols H_(C2)ρ^(, on), H_(C2)ρ^(, mid), and H_(C2)ρ^(, comp)
+represent the magnetic field strength at which ρ starts to increase from
+zero, that at which ρ is half the normal resistivity value, and that at
+which an extrapolation of the ρ-T curve during the transition reaches
+the normal resistivity value, respectively.
+
+by integrating (C_(es) − γ_(n))/T between 0 and 2 K, where C_(es) is the
+electronic specific heat for the superconducting state. C_(es) is
+obtained by subtracting the phonon specific heat C_(ph) = βT³ + δT⁵ from
+C (0 T) and extrapolating C_(es) (0 T) to 0 K. The entropy difference
+goes to zero when the temperature reaches 1.8 K, as shown in the inset,
+which confirms the thermodynamic consistency of the fit.
+
+In Fig. 5(b), the difference in C/T between 0 and 0.2 T,
+[C(0T) − C(0.2T)]/T, is shown as a function of the temperature. The
+dashed line represents an entropy-conserving construction. The
+transition to the superconducting state with the entropy-conserving
+construction gives ΔC(T_(C))/T_(C) = 11.8(2) mJ/mol K² and T_(C) = 1.66
+K. The ratio of the specific-heat jump at T_(C) to γ_(n),
+ΔC(T_(C))/γ_(n)T_(C), is calculated to be 1.37, which is almost the same
+as that predicted by BCS theory (1.43) [42].
+
+The anomaly in the C/T − T curve has a shoulder at 1.76 K. A detailed
+investigation of the shoulder region is currently underway. However, it
+is possibly the result of multigap superconductivity or spatial
+inhomogeneity in the chemical composition of the samples.
+
+Figure 6(a) is a magnetic field-temperature phase diagram deduced from
+the measurements of electrical resistivity, ac magnetic susceptibility,
+and specific heat. The empty triangles, circles, and rhombus represent
+T_(C)^(-con), T_(C)^(-mid), and T_(C)^(-con)app shown in Fig. 3(b). The
+solid squares represent H_(C)^(-mid), as shown in the inset of Fig. 4.
+The solid triangles represent the superconducting critical temperature
+T_(C)^(SH) determined from the specific-heat data using the
+entropy-conserving construction.
+
+Figure 6(b) shows the reduced magnetic field h^(*) as a function of the
+reduced temperature t^(*), where h^(*) = H/(−dH/dT)T_(C) and
+t^(*) = T/T_(C). The dashed-dotted dotted lines show h^(*) calculated
+using the pair-breaking model proposed by Werthamer, Helfand, and
+Hohenber (WHH), in the clean and dirty limits [43, 44, 45],
+respectively. The h^(*) − t^(*) curve obtained from the resistivity data
+agrees with those obtained from the ac magnetic susceptibility and
+specific-heat data. The t^(*) dependence of h^(*) deviates from the
+calculated curve. The value of H_(C)⁻² (0) was therefore determined to
+be 0.27 T from μ₀H_(C)^(-2-con). This value is approximately one-tenth
+of the Pauli limiting field μ₀H_(p) (3.31 T), defined as
+
+Figure 5: (Color online) (a) Specific heat divided by temperature C/T,
+measured at various magnetic field strengths as a function of squared
+temperature T², and (b) specific-heat difference between 0 and 0.2 T
+divided by temperature [C(0T) − C(0.2T)]/T as a function of temperature.
+The inset in Fig. 5(a) shows the difference in entropy S between the
+normal and superconducting states S_(es) − S_(m) as a function of
+temperature.
+
+Figure 6: (Color online) (a) Magnetic field-temperature phase diagram
+deduced from measurements of electrical resistivity, ac magnetic
+susceptibility, and specific heat. The empty triangles, circles, and
+rhombus indicate T_(C)^(-con), T_(C)^(-2-mid), and T_(C)^(-2-con)app,
+shown in Fig. 3(b). The solid squares and triangles represent H_(C)
+determined from γ^(′), and T_(C) determined from the specific-heat data,
+respectively. (b) Reduced magnetic field h^(*) as a function of reduced
+temperature t^(*), where h^(*) = H/(−dH/dT)T_(C) and t^(*) = T/T_(C).
+The dashed-dotted and dotted lines show h^(*) calculated using a
+pair-breaking model in the clean and dirty limits, respectively.
+
+$H_{\rm p}=18.4T_{\rm C}$ (kOe) [46, 47], which indicates the absence of
+Pauli limiting in BaPt₂Sb₂. The Ginzburg-Landau (GL) coherent length ξ
+(0) was determined to be 35 nm using the formula
+$H_{\rm C2}(0)=\Phi_{0}/2\pi\xi(0)^{2}$, where Φ₀ is the flux quantum
+[42].
+
+As described above, the t^(*) dependence of h^(*) deviates from the
+calculated curve based on the pair-breaking model proposed by WHH,
+assuming that the superconductor has a single superconducting gap. A
+similar deviation has been observed for iron pnictides such as
+LaFeAsO_(1 − x)F_(x)[48], Co-doped SrFe₂As₂[49], and Co-doped
+BaFe₂As₂[50], and was interpreted within the framework of a two-gap
+model. A theory for two-gap superconductors indicated that the
+$T-H_{\rm C2}$ (T) curve can differ from that predicted by single-gap
+theory, and that $H_{\rm C2}$ (0) can considerably exceed the value
+determined based on the one-gap model in the dirty limit,
+$0.7T_{\rm C}d\,H_{\rm C2}/dT_{\rm C}$[51]. In the case of MgB₂, two
+superconducting gaps are formed as a result of a 2D cylindrical FS and a
+3D tubular-network FS [31, 32]. BaPt₂Sb₂ has four FS sheets with
+different dimensionality and carrier type. Two are 2D electronlike FSs
+and two are 3D holelike FSs, as later calculations will show. Therefore,
+these FSs are expected to form multiple superconducting gaps in
+BaPt₂Sb₂, as in the case of MgB₂. Therefore, the observed deviation in
+the t^(*) − h^(*) curve might be due to such multigap superconductivity.
+Further study using single-crystalline samples is necessary in order to
+confirm whether the presence of multiple gaps plays an important role in
+the superconductivity of BaPt₂Sb₂.
+
+### Electronic structure
+
+Figures 7 and 8 illustrate the band structure and the total and partial
+density of states (DOS) for BaPt₂Sb₂. The bands in the energy range from
+−0.2 to 0.0 Ry mainly consists of Sb s-states. The bands in the energy
+range from 0.1 to 0.7 Ry mainly consist of Sb p and Pt d states. Above
+0.7 Ry, the bands originate from the Ba d and Pt d states. Since the
+bands associated with Pt and Sb are broad, the correlation is deduced to
+be weak in BaPt₂Sb₂. Four bands cross the Fermi level $E_{\rm F}$, as
+can be seen clearly on the Γ-Y line. $N(E_{\rm F})$ is 29.8
+states/Ry/chemical formula unit, or 2.58 states/eV/chemical formula
+unit. Figure 8(b) shows an expanded view of the partial DOS near
+$E_{\rm F}$. $N(E_{\rm F})$ mainly consists of Sb p and Pt d states, and
+the contribution from the Pt d states is larger, particularly for Pt1
+atoms (Pt atoms at 4g site in Table 1). The contributions of the Pt2 d,
+Sb2 p, and Sb1 p states are approximately one half, one third, and one
+fifth of that of the Pt1 d states, respectively. It is worth noting that
+the Pt1 atoms are in PtSb₄ tetrahedra in the Pt₂Sb₂ layers. These
+results suggest that carrier conduction mainly occurs in these layers.
+
+The four bands that cross $E_{\rm F}$ on the Γ-Y line from the Γ to Y
+points are the 37th, 38th, 39th, and 40th bands from the bottom,
+respectively, which results in four FS sheets, as illustrated in Fig. 9.
+The sheets formed by the 37th and 38th bands are holelike, whereas the
+other two are electronlike. The 37th and 38th bands form 3D FSs around
+the Γ point. The 39th and 40th bands form 2D FSs with a cylindrical
+shape along the k_(x) direction at the corners near the M point.
+
+The shape of the FSs in BaPt₂Sb₂ is similar to that observed in
+BaPd₂Sb₂[29] and SrPt₂As₂[22] in that there are two 3D FSs and two 2D
+FSs. However, the carrier types are different. SrPt₂As₂ has one holelike
+FS and three electronlike FSs, whereas BaPt₂Sb₂ has two holelike FSs and
+two electronlike FSs, as in the case of BaPd₂Sb₂.
+
+The anisotropic shape of the FSs is expected to be reflected in
+anisotropic transport properties. To investigate this, the Fermi
+velocity components $v_{\rm F}$${}^{\rm x}$ and $v_{\rm F}$${}^{\rm z}$
+were calculated
+
+Figure 8: (Color online) (a) Total and partial density of states (DOS)
+for BaPt₂Sb₂. (b) Expanded view of partial DOS for BaPt₂Sb₂ near the
+Fermi level $E_{\rm F}$.
+
+Figure 7: Band structure of BaPt₂Sb₂.
+
+assuming the angle $\beta_{\rm ac}$ in the unit cell to be 90^(∘)
+because the first two digits in the Fermi velocities are the same for
+crystal structures with $\beta_{\rm ac}$ values of 90^(∘) and
+91.227^(∘). Table 3 lists the average values of $v_{\rm F}$^(x) and
+$v_{\rm F}$^(z), and the ratio $v_{\rm F}$^(x)/$v_{\rm F}$^(z) for
+BaPt₂Sb₂ together with the two polymorphs BaPd₂Sb₂ and SrPt₂As₂. The
+$v_{\rm F}$^(z)/$v_{\rm F}$^(z) values are clearly greater than unity
+for BaPt₂Sb₂ and the CaBe₂Ge₂-type materials, which suggests that these
+materials have anisotropic transport properties. On the other hand,
+those for the ThCr₂Si₂-type materials are close to unity, suggesting
+isotropic transport properties. Thus, the existence of 2D FSs in
+BaPt₂Sb₂ and the CaBe₂Ge₂-type materials is reflected in anisotropic
+transport properties.
+
+Table 4 lists $T_{\rm C}$, $\gamma_{\rm a}$, $\theta_{\rm D}$,
+$N(E_{\rm F})$, and the electron-phonon coupling constant λ for
+BaPt₂Sb₂, SrPt₂Sb₂[32], LaPd₂Sb₂[52], and SrPt₂As₂[20, 22]. LaPd₂Sb₂ is
+a recently reported superconducting material ($T_{\rm C}$ = 1.4 K) with
+the CaBe₂Ge₂-type structure. $\gamma_{\rm a}$${}^{\rm ext}$ is
+$\gamma_{\rm a}$ obtained from specific-heat measurements and
+$\gamma_{\rm a}$${}^{\rm calc}$ is $\gamma_{\rm a}$ calculated using the
+equation $\gamma_{\rm a}$${}^{\rm calc}$ = (π²/3)N(E_(F))k_(B)².λ was
+estimated to be 0.67 for BaPt₂Sb₂ using the relation
+$\gamma_{\rm a}$${}^{\rm expt}$ = (1 + λ)${}_{\rm f}$${}^{\rm calc}$.
+BaPt₂Sb₂ is a superconducting material with moderate coupling. The value
+of $\gamma_{\rm a}$${}^{\rm expt}$ for BaPt₂Sb₂ is comparable to those
+for SrPt₂Sb₂ and SrPt₂Sb₂, and is slightly larger than that for
+LaPd₂Sb₂. $\theta_{\rm D}$ for BaPt₂Sb₂ is the smallest among the four
+compounds. The value of λ is comparable to that for SrPt₂As₂.
+
+## IV Conclusion
+
+This study clearly demonstrated that the 122-type antimonide, BaPt₂Sb₂,
+which is structurally related to the iron-based superconductors, shows
+superconductivity with a $T_{\rm C}$ of 1.8 K. BaPt₂Sb₂ crystallizes in
+a new monoclinic variant of the CaBe₂Ge₂-type structure. Calculations
+showed that it has two 3D FSs and two 2D FSs, which results in
+anisotropic transport properties. The d states of Pt atoms in PbSb₄
+tetrahedra in the Pt₂Sb₂ layers make the main contribution to
+$N(E_{\rm F})$. A comparison between experimental and calculation
+results indicated that BaPt₂Sb₂ is a superconducting material with
+moderate coupling.
+
+This study also demonstrated that unknown variants of the CaBe₂Ge₂-type
+structure may exist in 122-type pnictides. It is therefore worthwhile to
+search for superconducting 122 antimonides with a CaBe₂Ge₂-type
+structure or variant since this can lead to the discovery of new
+superconducting materials. Since the calculated electronic structure for
+CaBe₂Ge₂-type iron-free pnictides indicates that they have
+characteristics intermediate between those for ThCr₂Si₂-type iron and
+iron-free pnictides, this will also aid in forming a systematic
+understanding of superconductivity in 122 pnictides.
+
+l c c c c c c & $T_{\rm C}$ (K) & $\gamma_{\rm a}$${}^{\rm expt}$
+(mJ/mol K²) & $\theta_{\rm D}$ (K) & $N(E_{\rm F})$ (states/eV cell) &
+$\gamma_{\rm a}$${}^{\rm calc}$ (mJ/mol K²) & λ
+BaPt₂Sb₂ & 1.82 & 8.6(2) & 146(4) & 2.19 & 5.16 & 0.67
+SrPt₂Sb₂ & 2.1${}^{\rm a}$ & 9.2(1)${}^{\rm a}$ & 183${}^{\rm a}$ & & &
+& –
+LaPd₂Sb₂ & 1.4${}^{\rm b}$ & 6.89${}^{\rm a}$ & 210${}^{\rm b}$ & & & &
+–
+SrPt₂As₂ & 5.2${}^{\rm c}$ & 9.72${}^{\rm c}$ & 211${}^{\rm c}$ &
+2.55${}^{\rm d}$ & 6.01${}^{\rm d}$ & 0.62${}^{\rm d}$
+
+Table 4: Superconducting critical temperature $T_{\rm C}$, electronic
+heat capacity coefficient $\gamma_{\rm a}$, Debye temperature
+$\theta_{\rm D}$, calculated density of states at the Fermi level
+$N(E_{\rm F})$, and electron-phonon coupling constant λ for BaPt₂Sb₂,
+SrPt₂Sb₂[32], LaPd₂Sb₂[52], and SrPt₂As₂[20, 22].
+$\gamma_{\rm a}$${}^{\rm expt}$ is $\gamma_{\rm a}$ obtained from
+specific-heat measurements, and $\gamma_{\rm a}$${}^{\rm calc}$ is
+$\gamma_{\rm a}$ estimated by calculations. The values in parentheses
+represent the standard deviation.
+
+Figure 9: Fermi surfaces (FSs) for BaPt₂Sb₂, formed by the (a) 37th, (b)
+38th, (c) 39th, and (d) 40th bands. The FSs for the 37th and 38th bands
+are holelike, and FSs for the 39th and 40th bands are electronlike.
+
+## Acknowledgments
+
+The authors thank M. Nishio of National Institute for Materials Science
+(NIMS) for EPMA, M. Takagi of NIMS for experimental support, Y. Yamada,
+F. Ishikawa, and N. Eguchi of Niigata University for their support at
+the first stage of the synthesis. This work was supported in part by the
+Japan Society for the Promotion of Science through its "Funding Program
+for World-Leading Innovative R&D on Science and Technology (FIRST
+Program)."
+
+## References
+
+* [1] Y. Kamihara, T. Watanabe, M. Hirano, and H. Hosono, J. Am. Chem.
+Soc. **130**, 3296 (2008). * [2] N.-L. Wang, H. Hosono, and P. Dai,
+_Iron-Based Superconductors_ (Pan Stanford Publishing, Singapore,
+2013). * [3] Y. Izyumov and E. Kurmaev, _High-Tc Superconductors Based
+on FeAs Compounds_ (Springer, Heidelberg, 2010). * [4] H. Hosono, J.
+Phys. Soc. Jpn. **77**, 1 (2008). * [5] D. C. Johnston, Adv. Phys.
+**59**, 803 (2010). * [6] J. Paglione and R. L. Greene, Nat. Phys.
+**6**, 645 (2010). * [7] P. J. Hirschfeld, M. M. Korshunov, and I. I.
+Mazin, Rep. Prog. Phys. **74**, 124508 (2011). * [8] G. R. Stewart, Rev.
+Mod. Phys. **83**, 1589 (2011). * [9] K. Ishida, Y. Nakai, and H.
+Hosono, J. Phys. Soc. Jpn. **78**, 062001 (2009). * [10] M. Rotter, M.
+Tegel, and D. Johrendt, Phys. Rev. Lett. **101**, 107006 (2008). * [11]
+K. Kudo, K. Iba, M. Takasuga, Y. Kitahama, J. Matsumura, M. Danura, Y.
+Nogami, and M. Nohara, Sci. Rep. **3**, 1478 (2013). * [12] F. Ronning,
+E. D. Bauer, T. Park, S. H. Baek, H. Sakai, and J. D. Thompson, Phys.
+Rev. B **79**, 134507 (2009). * [13] T. Mine, H. Yanagi, T. Kamiya, Y.
+Kamihara, M. Hirano, and H. Hosono, Solid State Commun. **147**, 111
+(2008). * [14] D. Hirai, T. Takayama, R. Higashinaka, H. Aruga-Katori,
+and H. Takagi, J. Phys. Soc. Jpn. **78**, 023706 (2009). * [15] W.
+Jeitschko, R. Glaum, and L. Boonk, J. Solid State Chem. **69**, 93
+(1987). * [16] J.-T. Han, J.-S. Zhou, J.-G. Cheng, and J. B. Goodenough,
+J. Am. Chem. Soc. **132**, 908 (2010). * [17] E. D. Bauer, F. Ronning,
+B. L. Scott, and J. D. Thompson, Phys. Rev. B **78**, 172504 (2008). *
+[18] D. Hirai, T. Takayama, D. Hashizume, R. Higashinaka, A. Yamamoto,
+A. K. Hiroko, and H. Takagi, Physica C (Amsterdam) **470**, S296
+(2010). * [19] F. Ronning, N. Kurita, E. D. Bauer, B. L. Scott, T. Park,
+T. Klimczuk, R. Movshovich, and J. D. Thompson, J. Phys.: Condens.
+Matter **20**, 342203 (2008). * [20] K. Kudo, Y. Nishikubo, and M.
+Nohara, J. Phys. Soc. Jpn. **79**, 123710 (2010). * [21] A. Imre, A.
+Hellmann, G. Wenski, J. Grap, D. Johrendt, and A. Mewis, Z. Anorg. Allg.
+Chem. **633**, 2037 (2007). * [22] I. R. Shein and A. L. Ivanovskii,
+Phys. Rev. B **83**, 104501 (2011). * [23] D. J. Singh, Phys. Rev. B
+**78**, 094511 (2008). * [24] C. Liu, G. D. Samolyuk, Y. Lee, N. Ni, T.
+Kondo, A. F. Santander-Syro, S. L. Bud’ko, J. L. McChesney, E.
+Rotenberg, T. Valla, A. V. Fedorov, P. C. Canfield, B. N. Harmon, and A.
+Kaminski, Phys. Rev. Lett. **101**, 177005 (2008). * [25] A. Subedi and
+D. J. Singh, Phys. Rev. B **78**, 132511 (2008). * [26] I. R. Shein and
+A. L. Ivanovskii, Phys. Rev. B **79**, 054510 (2009). * [27] I. R. Shein
+and A. L. Ivanovskii, Solid State Commun. **149**, 1860 (2009). * [28]
+I. R. Shein and A. L. Ivanovskii, Physica B (Amsterdam) **405**, 3213
+(2010). * [29] I. Hase and T. Yanagisawa, Physica C (Amsterdam) **494**,
+27 (2013). * [30] H. J. Choi, D. Roundy, H. Sun, M. L. Cohen, and S. G.
+Louie, Nature (London) **418**, 758 (2002). * [31] A. Y. Liu, I. I.
+Mazin, and J. Kortus, Phys. Rev. Lett. **87**, 087005 (2001). * [32] M.
+Imai, S. Emura, M. Nishio, Y. Matsushita, S. Ibuka, N. Eguchi, F.
+Ishikawa, Y. Yamada, T. Muranaka and J. Akimitsu, Supercond. Sci.
+Technol. **26**, 075001 (2013). * [33] R. A. Young, _The Rietveld
+Method_ (Oxford University Press, Oxford, 1993). * [34] J.
+Rodriguez-cavrajal, Physica B (Amsterdam) **192**, 55 (1993). * [35] A.
+Yanase, _Fortran Program For Space Group (TSPACE)_ (Shokabo, Tokyo,
+1995). * [36] D. D. Koelling and B. N. Harmon, J. Phys. C: Solid State
+Phys. **10**, 3107 (1977). * [37] G. Venturini, B. Malaman, and B.
+Roques, J. Less-Common Met. **146**, 271 (1989). * [38] C. H. Lee, A.
+Iyo, H. Eisaki, H. Kito, M. T. Fernandez-Diaz, T. Ito, K. Kihou, H.
+Matsubata, M. Braden, and K. Yamada, J. Phys. Soc. Jpn. **77**, 083704
+(2008). * [39] D. Johrendt, H. Hosono, R. D. Hoffmann, and R. Pottgen,
+Z. Kristallogr. **226**, 435 (2011). * [40] K. Kuroki, H. Usui, S.
+Onari, R. Arita, and H. Aoki, Phys. Rev. B **79**, 224511 (2009). * [41]
+A. F. Khoder, Phys. Lett. A **94**, 378 (1983). * [42] M. Tinkham,
+_Introduction to Superconductivity_, 2nd ed. (McGraw-Hill, New York,
+1996). * [43] E. Helfand and N. R. Werthamer, Phys. Rev. Lett. **13**,
+686 (1964). * [44] E. Helfand and N. R. Werthamer, Phys. Rev. **147**,
+288 (1966). * [45] N. Werthame, E. Helfand, and P. Hohenber, Phys. Rev.
+**147**, 295 (1966). * [46] B. S. Chandrasekhar, Appl. Phys. Lett.
+**1**, 7 (1962). * [47] A. M. Clogston, Phys. Rev. Lett. **9**, 266
+(1962). * [48] F. Hunte, J. Jaroszynski, A. Gurevich, D. C.
+Larbalestier, R. Jin, A. S. Sefat, M. A. McGuire, B. C. Sales, D. K.
+Christen, and D. Mandrus, Nature (London) **453**, 903 (2008). * [49] S.
+A. Baily, Y. Kohama, H. Hiramatsu, B. Maiorov, F. F. Balakirev, M.
+Hirano, and H. Hosono, Phys. Rev. Lett. **102**, 117004 (2009). * [50]
+M. Kano, Y. Kohama, D. Graf, F. Balakirev, A. S. Sefat, M. A. McGuire,
+B. C. Sales, D. Mandrus, and S. W. Tozer, J. Phys. Soc. Jpn. **78**,
+084719 (2009). * [51] A. Gurevich, Phys. Rev. B **67**, 184515 (2003). *
+[52] S. Ganesapotti, T. Yajima, T. Toloyama, Z. Li, K. Nakano, Y.
+Nozaki, C. Tassel, Y. Kobayashi, and H. Kageyama, J. Alloys Compd.
+**583**, 151 (2014).

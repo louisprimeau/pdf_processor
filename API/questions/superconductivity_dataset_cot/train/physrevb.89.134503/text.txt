@@ -1,0 +1,286 @@
+Poisoning effect of Mn in LaFe\({}_{1-x}\)Mn\({}_{x}\)AsO\({}_{0.89}\)F\({}_{0.11}\): Unveiling a quantum critical point in the phase diagram of iron-based superconductors
+
+F. Hammerath
+
+Corresponding author: franziska.hammerath@unipv.it; present address: IFW-Dresden, Institute for Solid State Research, PF 270116, 01171 Dresden, Germany.1Dipartimento di Fisica and Unita CNISM di Pavia, I-27100 Pavia, Italy
+
+P. Bonfa
+
+Dipartimento di Fisica and Unita CNISM di Pavia, I-43124 Parma, Italy
+
+S. Sanna
+
+Dipartimento di Fisica and Unita CNISM di Pavia, I-27100 Pavia, Italy
+
+G. Prando
+
+Present address: IFW-Dresden, Institute for Solid State Research, PF 270116, 01171 Dresden, Germany.1Dipartimento di Fisica and Unita CNISM di Pavia, I-27100 Pavia, Italy
+
+R. De Renzi
+
+Dipartimento di Fisica and Unita CNISM di Pavia, I-43124 Parma, Italy
+
+Y. Kobayashi
+
+Department of Physics, Division of Material Sciences, Nagoya University, Furo-cho, Chikusa-ku, Nagoya 464-8602, Japan
+
+M. Sato
+
+Department of Physics, Division of Material Sciences, Nagoya University, Furo-cho, Chikusa-ku, Nagoya 464-8602, Japan
+
+P. Carretta
+
+Dipartimento di Fisica and Unita CNISM di Pavia, I-43124 Parma, Italy
+
+29 January 2014; revised manuscript received 17 March 2014; published 4 April 2014
+
+###### Abstract
+
+A superconducting-to-magnetic transition is reported for LaFeAsO\({}_{0.89}\)F\({}_{0.11}\) where a per-thousand amount of Mn impurities is dispersed. By employing local spectroscopic techniques like muon spin rotation (\(\mu\)SR) and nuclear quadrupole resonance (NQR) on compounds with Mn contents ranging from \(x=0.025\)% to \(x=0.75\) %, we find that the electronic properties are extremely sensitive to the Mn impurities. In fact, a small amount of Mn as low as 0.2% suppresses superconductivity completely. Static magnetism, involving the FeAs planes, is observed to arise for \(x>0.1\)% and becomes further enhanced upon increasing Mn substitution. Also a progressive increase of low-energy spin fluctuations, leading to an enhancement of the NQR spin-lattice relaxation rate \(T_{1}^{-1}\), is observed upon Mn substitution. The analysis of \(T_{1}^{-1}\) for the sample closest to the crossover between superconductivity and magnetism (\(x=0.2\)%) points toward the presence of an antiferromagnetic quantum critical point around that doping level.
+
+pacs: 10.1103/PhysRevB.89.134503 +
+Footnote †: preprint: PHYSICAL REVIEW B **89**, 134503 (2014)
+
+## I Introduction
+
+The study of the effect of impurities on a superconductor is a well-known and versatile method to investigate the symmetry of the order parameter and the related pairing mechanisms [1]. Accordingly, the effects of transition metal ion substitution [2, 3, 4, 5] or the introduction of deficiencies [6, 7, 8] on the superconducting ground state of iron-based superconductors have been intensively studied in recent years. The superconductors of the \(Ln\)Fe\({}_{1-x}M_{x}\)AsO\({}_{1-x}\)F\({}_{y}\) (\(Ln\)111) family, with \(Ln=\) La, Ce, Nd, Sm ..., and \(M=\) impurity elements doped on the Fe site, are one of the example systems used in such studies.
+
+The behavior of the superconducting transition temperature \(T_{c}\) in optimally F doped (\(y\simeq 0.11\)) \(Ln\)1111 superconductors have been investigated under a variety of transition metal substitutions (e.g., \(M=\) Co, Ni, and Ru) [2, 3, 4]. The initial suppression rates, \(|dT_{c}/dx|_{x\to 0}\), are much smaller than those typically induced by nonmagnetic impurities in systems with an \(s_{\pm}\) symmetry of the superconducting order parameter. One has to consider that \(T_{c}\) is primarily determined by the number of conducting electrons [4, 9] and, indeed, Co and Ni for Fe substitution do introduce electrons in La1111 [2, 9]. On the other hand, the very small value of \(|dT_{c}/dx|_{x\to 0}\) observed for \(M=\) Ru, a substitution which does not change the carrier density, can be considered as an evidence that the scattering by nonmagnetic impurities does not act as an efficient pair-breaking center. The Ru substitution is also observed to induce static magnetism for \(x>10\)% [10, 11], indicating the importance of the change of the electronic state caused by relatively high doping levels. There are also many reports on the effect of Zn doping in Fe-based superconductors [5, 12, 13, 14] and on the relevance of the observed electron localization taking place at low temperature [2].
+
+At variance with the cases of \(M=\) Co and Ni, a remarkable increase of the resistivity and a very rapid suppression of \(T_{c}\) were found for \(M=\) Mn in optimally F doped La1111 (\(y=0.11\)) [2]. This trend has been explained by considering the electron localization induced by Mn. Similar effects have been observed also in Ba\({}_{0.5}\)K\({}_{0.5}\)(Fe\({}_{1-x}\)Mn\({}_{x}\)As)\({}_{2}\)[13, 14]. It has to be remarked that in contrast to other transition metals such as Co, Mn substitution in the undoped (antiferromagnetic) parent compound BaFe\({}_{2}\)As\({}_{2}\) just leads to a decrease of the magnetic transition temperature \(T_{m}\), without inducing superconductivity [15]. Several experimental techniques such as nuclear magnetic resonance (NMR), inelastic neutron scattering, and photoemission spectroscopy showed that no charge doping occurs upon Mn substitution and that Mn moments tend to localize, suggesting that the moments are acting as magnetic scattering centers [16, 17, 18, 19]. Also in undoped (antiferromagnetic) LaFeAsO, Mn magnetic moments affect the long-range magnetic order within the Fe planes, which evolves into a short-range magnetic order upon adding Mn, without leading to the onset of superconductivity [20].
+
+Here we focus on the peculiar case of Mn substituion on the Fe site in nominally optimally doped LaFeAsO\({}_{0.89}\)F\({}_{0.11}\). Among the \(Ln\)1111 family, LaFeAsO\({}_{1-y}\)F\({}_{y}\) is the system with the lowest \(T_{c}\) at optimal doping and, remarkably, also the lowest \(T_{m}\) of the magnetic phase induced by Ru substitution [11, 21]. Furthermore, no coexistence region of magnetism and superconductivity is found in its phase diagram upon electron doping [21]. The low \(T_{c}\) and \(T_{m}\) values indicate weaker superconducting and magnetic ground states, suggesting that LaFeAsO\({}_{1-y}\)F\({}_{y}\) is the most promising candidate to observe a quantum critical point (QCP), an aspect that has already been pointed out at a very early stage of the pnictide research [22]. Accordingly, slight changes in the ground state, such as those induced by the insertion of low amounts of impurities, might lead to big effects on the ground state and on the electronic properties.
+
+  Indeed, we observe a drastic suppression of \(T_{c}\) in a very small substitutional range, where charge doping, if any, can be safely neglected. Two competing magnetic and superconducting ground states are found and studied in detail by means of nuclear quadrupole resonance (NQR) and muon spin rotation (\(\mu\)SR) spectroscopy, allowing us to draw the electronic phase diagram for LaFe\({}_{1-x}\)Mn\({}_{x}\)AsO\({}_{0.89}\)F\({}_{0.11}\) in the low "doping" region. We find that superconductivity is already completely suppressed for \(x=0.2\%\). Short-range static magnetism sets in for \(x\geqslant 0.1\%\) and becomes more and more enhanced upon further Mn substitution. \({}^{75}\)As NQR spin-lattice relaxation rate measurements sense a progressive slowing down of low-energy spin fluctuations with increasing Mn content. The analysis of the spin dynamics within the framework of Moriya's self consistent renormalization (SCR) theory points toward the presence of a QCP at the crossover region between superconductivity and magnetism in LaFe\({}_{1-x}\)Mn\({}_{x}\)AsO\({}_{0.89}\)F\({}_{0.11}\).
+
+## II Sample characterization
+
+We studied polycrystalline samples of LaFe\({}_{1-x}\)Mn\({}_{x}\)AsO\({}_{0.89}\)F\({}_{0.11}\) with nominal Mn contents of \(x=0\%\), 0.025%, 0.075%, 0.1%, 0.2%, 0.5%, and 0.75%. The sample preparation and characterization by means of electrical resistivity, Hall coefficient, thermoelectric power, and specific heat measurements have already been discussed in Ref. [2]. The superconducting transition temperature \(T_{c}\) was determined via superconducting quantum interference device (SQUID) magnetometry. All the samples are optimally electron doped with a nominal fluorine content of 11%. For \(x\leqslant 0.2\%\)\({}^{19}\)F-NMR measurements have been performed in an applied magnetic field of \(\mu_{0}H=1\) T to check the relative fluorine doping level. Within the error bars, no variation of the intensity of the \({}^{19}\)F-NMR resonance line was found, confirming that the intrinsic F content does not differ among the samples within \(\pm 0.005\). This emphasizes that the effects presented in the following clearly stem from the influence of the Mn impurities only.
+
+The superconducting transition temperature \(T_{c}\) was checked additionally by following the detuning of the NQR resonance coil. \(T_{c}=29\), 25, 16.3, and 11.5 K were found for \(x=0\%\), 0.025%, 0.075%, and 0.1%, respectively, in nice agreement with magnetization and TF-\(\mu\)SR measurements.
+
+## III Technical aspects and experimental results
+
+### Nuclear quadrupole resonance
+
+\({}^{75}\)As nuclear quadrupole resonance (NQR) spectra allow us to probe the local charge distribution in the FeAs planes and therewith to evidence a possible charge doping induced by Mn. In fact, since the nuclear quadrupole moment \(Q\) of \({}^{75}\)As (nuclear spin \(I=3/2\)) interacts with the components \(V_{\alpha\beta}\) of the electric field gradient (EFG) generated by the surrounding charge distribution, the NQR frequency turns out to be
+
+\[v_{\rm NQR}=\frac{3eQV_{zz}}{2I(2I-1)h}\sqrt{1+\eta^{2}/3},\] (1)
+
+where \(V_{zz}\) and \(\eta\) are the highest eigenvalue of the EFG and its asymmetry, respectively.
+
+For the \({}^{75}\)As NQR measurements all samples were ground to a fine powder to enhance radiofrequency penetration. \({}^{75}\)As NQR spectra were taken by integrating the full spin echo obtained after a standard Hahn spin-echo pulse sequence of the form \(\frac{\pi}{2}-\tau-\pi\) upon varying the irradiation frequency. The pulsewidth, the repetition rate of the pulse sequences, and \(\tau\) were adjusted to maximize the spin-echo intensity and minimize spin-lattice and spin-spin relaxation effects on the spectra. Figure 1(a) shows the \({}^{75}\)As-NQR spectra measured at \(T=77\) K for Mn contents from \(x=0\%\) up to \(x=0.2\%\). We observe a double-peaked \({}^{75}\)As-NQR spectrum, very similar to what has been previously observed for slightly underdoped LaFeAsO\({}_{1-y}\)F\({}_{y}\) samples [23, 24, 25], where it has been assigned to two charge environments, which are coexisting at the nanoscale [23]. In these previous studies the shape of the \({}^{75}\)As-NQR spectrum has been found to depend strongly on the fluorine doping level, which corresponds to effective electron doping and affects the EFG drastically. The very similar shape of all the spectra shown in Fig. 1(a) confirms that the fluorine content, although possibly lower than the nominal one, does not change among the samples. The spectra could be well fitted with two Gaussian lines, shown as solid lines in Fig. 1(a). The relative weight of both Gaussians (roughly 30% versus 70% for the low- and high-frequency peak, respectively) does not change upon increasing the Mn content [see Fig. 1(c)]. Also the full width at half maximum (FWHM) does not change upon Mn substitution. Only for the highest measured doping level (\(x=0.2\%\)) we observe a slight broadening of the high-frequency peak, which can be possibly related to the enhanced magnetic correlations in this compound. The slight decrease of the peak frequencies upon increasing the Mn content [see Fig. 1(b)] can be ascribed to lattice strain associated to the presence of disorder [26]. We do not find any
+
+Figure 1: (Color online) (a) \({}^{75}\)As-NQR spectra of LaFe\({}_{1-x}\)Mn\({}_{x}\)AsO\({}_{0.89}\)F\({}_{0.11}\) for Mn contents from \(x=0\%\) up to \(x=0.2\%\) (symbols), measured at \(T=77\) K. Solid lines are fits including two Gaussian lines for each sample. Right side: Mn-content-dependent spectral peak frequencies (b) and high-frequency weight (c) of the double-peaked \({}^{75}\)As-NQR spectra, deduced from the fits in (a). Filled squares in (b) denote the low-frequency peak, open squares the high-frequency peak. Solid lines in (b) and (c) are guides to the eyes.
+
+  evidence for a difference among the carrier numbers of these samples in the studied doping range. This is in agreement with previous experimental observations on Mn substituted pnictides [16, 17, 18, 19, 27].
+
+The temperature dependence of the shape of the \({}^{75}\)As-NQR spectra was checked for some representative samples (\(x=0.025\)% and \(x=0.075\)%). The results are plotted in Fig. 2. While the peak frequencies and the FWHM of the low-frequency peak do not change upon cooling, the FWHM of the high-frequency peak increases slightly. Thus, the high-frequency peak seems to be more sensitive to the growing magnetic correlations in these compounds [for the discussion of the magnetic correlations see the following discussions of the \({}^{75}\)As-NQR (\(T_{1}T\))\({}^{-1}\) and of the \(\mu\)SR results].
+
+The \({}^{75}\)As NQR spin-lattice relaxation rate \(T_{1}^{-1}\) was measured with an inversion recovery pulse sequence and the recovery of the nuclear magnetization \(M_{z}(\tau)\) was fitted to:
+
+\[M_{z}(\tau)=M_{0}\big{[}1-fe^{-(3\tau/T)/\tau}\big{]},\] (2)
+
+where \(M_{0}\) is the saturation magnetization in thermal equilibrium, \(f\) close to two accounts for incomplete inversion, and \(\beta\) is a stretched exponent, which indicates a distribution of \(T_{1}^{-1}\). In Fig. 3 the \({}^{75}\)As NQR spin-lattice relaxation rate divided by temperature \((T_{1}T)^{-1}\), measured for samples with \(x=0\)% up to \(x=0.2\)%, is shown. At high temperatures, the recovery of the nuclear magnetization is single exponential [\(\beta=1\); see Eq. (2)] until the system reaches the region where magnetic fluctuations start to slow down. Below around 30-50 K, depending on the doping level, \(0.4\leqslant\beta\leqslant 0.8\) had to be used to fit the recovery. These values are close to those expected for a Gaussian distribution of \(T_{1}^{-1}\) and indicate a distribution of local fields and spin fluctuation frequencies, as expected for such a disordered system.
+
+Up to 0.1% Mn content, \((T_{1}T)^{-1}\) was measured at both peaks of the \({}^{75}\)As-NQR spectrum. No apparent difference between the specific relaxations of the two peaks could be observed, confirming that the two local charge environments expressed in the double-peaked NQR spectra indeed coexist at the nanoscale [23].
+
+At high temperatures \((T_{1}T)^{-1}\) of the Mn undoped sample is nearly flat. Upon increasing the Mn content, the relaxation becomes slightly faster and begins to show an upturn toward lower temperatures. Interestingly, the transition into the superconducting state is only visible in the \((T_{1}T)^{-1}\) data of the samples with 0% and 0.025% Mn content, where \((T_{1}T)^{-1}\) decreases below \(T_{c}\), as expected. For the samples with 0.075% and 0.1% Mn content, no signature of the superconducting transition can be observed in \((T_{1}T)^{-1}\), which displays an even steeper increase below \(T_{c}\). Below 15 K, also the spin-lattice relaxation rate of the sample with the lowest Mn content increases after the initial decrease below \(T_{c}=25\) K.
+
+This enhancement of \((T_{1}T)^{-1}\) upon Mn substitution is a signature of growing magnetic fluctuations, which are governing the relaxation processes, even in the superconducting state. These magnetic fluctuations seem to be uncorrelated with the pairing mechanism, since they increase upon Mn substitution while \(T_{c}\) is strongly suppressed. The nature of these spin dynamics will be discussed in detail in Sec. IV.
+
+### Muon spin rotation and relaxation spectroscopy
+
+To investigate the low-temperature electronic properties of the sample series, we performed zero field (ZF), transverse field (TF), and longitudinal field (LF) \(\mu\)SR at the Paul Sherrer Institut (PSI)-Villigen (CH) with the GPS instrument of the \(\pi\)M3 beam line. For these measurements, pressed pellets of the powdered samples were prepared and mounted onto the sample holder using mylar tape. Figure 4 displays a few representative time domain spectra of the muon asymmetry, namely the time evolution of the muon spin polarization, in
+
+Figure 3: (Color online) \({}^{75}\)As-NQR spin-lattice relaxation rate divided by temperature \((T_{1}T)^{-1}\) for LaFe\({}_{1,1}\)Mn\({}_{x}\)AsO\({}_{0.89}\)F\({}_{0.11}\) with \(x=0\)% up to \(x=0.2\)%. \((T_{1}T)^{-1}\) was measured at the low- and high-frequency peak of the double-peaked \({}^{75}\)As-NQR spectra (filled and open symbols, respectively). For \(x=0.2\)% only \((T_{1}T)^{-1}\) of the low-frequency peak was measured. The arrows denote the superconducting transition temperatures for \(x=0\)% (orange, \(T_{c}=29\) K) up to \(x=0.1\)% (blue, \(T_{c}=11.5\) K).
+
+Figure 2: (Color online) Temperature-dependent \({}^{75}\)As-NQR spectra of LaFe\({}_{1,x}\)Mn\({}_{x}\)AsO\({}_{0.89}\)F\({}_{0.11}\) with \(x=0.025\)% and \(x=0.075\)%. Solid lines denote fits with two Gaussians for each spectrum.
+
+  the superconducting state for TF measurements [Fig. 4(a)] and in ZF measurements for the samples with static magnetism [Fig. 4(b)].
+
+In the magnetic phase, the ZF \(\mu\)SR asymmetry of powder samples can be written as
+
+\[A(t) = \sum\limits_{i}^{N_{n}}A_{\perp}^{(i)}f^{(i)}(t,B^{(i)}) + A_{\parallel}e^{-\lambda_{\perp}t},\]
+
+where \(A_{\perp}^{(i)}\) and \(A_{\parallel}\) represent the initial amplitudes of the muon spin component perpendicular (transverse) and parallel (longitudinal) to the local magnetic field \(B^{(i)}\), respectively. \(f^{(i)}(t,B)\) describes the time dependence of the transverse component and \(\lambda_{\perp}\) is the decay rate of the longitudinal one. The index \(i\) accounts for inequivalent muon sites, which usually are resolved only in the transverse component.
+
+In a ZF experiment the field at the muon site \(B^{(i)}\) can originate only from the presence of spontaneous internal fields. Let us first consider the ZF asymmetry for larger \(x\) values: The low-temperature ZF \(\mu\)SR time signal of \(x=0.5\%\) and \(0.75\%\) [see Fig. 4(b)] show strongly damped oscillations, which reflect the muon spin precession around a rather disordered distribution of local fields. The best fit requires \(N_{\mu}=2\), in agreement with previous results on 11111 [28, 29], with \(f_{Z\rm{S}}^{(i)}(t,B^{(i)})=\cos(2\pi\,\gamma\,B^{(i)}t)e^{-\frac{\lambda_{ \perp}^{(i)}}{2}t)}\) (where \(\gamma=135.5\) MHz/T is the gyromagnetic ratio of the muon divided by \(2\pi\)), and yields \(\lambda_{\perp}^{(1)}\approx 20\,\mu\)s\({}^{-1}\) and \(\lambda_{\perp}^{(2)}\approx 5\,\mu\)s\({}^{-1}\). The temperature evolution of the two local fields \(B^{(i)}\) is displayed in Figs. 5(b) and 5(c).
+
+Now we turn to the ZF asymmetry decay of the lower \(x\) values. The transverse component of the sample with \(x=0.2\%\) [Fig. 4(b)] displays only a fast decaying amplitude, \(f_{Z\rm{R}}(t)=e^{-(\lambda_{\perp}t)}\), with \(\lambda_{\perp}\approx 10\,\mu\)s\({}^{-1}\). This is a signature of overdamped oscillations due to the presence of a highly disordered distribution of static internal fields with an amplitude \(\Delta\,B=\lambda_{\perp}/\pi\,\gamma\sim 200\) G (referring to the full width at half maximum of the field distribution). The static character of these fields is confirmed by LF measurements performed at 1.5 K (not shown), which reveal that an external longitudinal field of the order of 1000 G completely recovers the muon spin polarization.
+
+For the \(x=0.1\%\) sample [Fig. 4(b)] the transverse amplitude of the ZF time spectrum is sizeably reduced and displays an even slower decay rate (\(\lambda_{\perp}\sim 3\,\mu\)s\({}^{-1}\)), which indicates a weakening of the magnetic state. For \(x<0.1\%\) no transverse component is found but only an amplitude with a simple Gaussian decay rate due to nuclear dipolar interaction. For \(x=0.075\%\), this had to be multiplied by a tiny component with an exponential decay, arising from diluted magnetic impurities. This extra exponential decay rate was roughly constant.
+
+For the magnetic samples \(x\geqslant 0.1\%\) the magnetic volume fraction, i.e., the fraction of the sample where muons detect a magnetic order, can be evaluated as \(V_{\rm{mag}}=3(1-A_{\parallel}/A_{\rm{tot}})/2\)[11], with \(A_{\rm{tot}}\) being the total initial asymmetry calibrated at high temperature. The temperature evolution of \(V_{\rm{mag}}\) is displayed in Fig. 5(a) and shows that a full magnetic volume fraction is achieved at low temperature for \(x\geqslant 0.2\%\), while the \(x=0.1\%\) sample is only partially magnetic. From these data it is possible to estimate the magnetic transition temperature \(T_{m}(x)\) (see Fig. 7), which can be empirically defined as the temperature at which \(V_{\rm{mag}}=0.5\).
+
+It is noteworthy that for \(x<0.1\%\) no static magnetic state is detected and the samples display only a superconducting character below \(T_{c}\).
+
+In order to further investigate the superconducting state, TF \(\mu\)SR experiments have been performed by cooling the samples in an external field of \(H=200\) G. In this case, since no spontaneous random internal fields could be detected for \(x<0.1\%\), \(A_{\parallel}^{(i)}=0\) in Eq. (3). The fit of the TF \(\mu\)SR signal [Fig. 4(a)] is described by
+
+\[f_{\rm{TF}}(t,B)=\cos(2\pi\,\gamma\,Bt)e^{-(\sigma t)^{2}},\]  where the Gaussian relaxation rate \(\sigma\) below \(T_{c}\) is determined by the field distribution generated by the flux line lattice [30]. Accordingly, in the clean limit, \(\sigma\) can be expressed in terms of the London penetration depth \(\lambda_{L}\) and turns out to be proportional to the supercarrier density \(n_{s}\):
+
+\[\sigma\propto\lambda_{L}^{-2}\propto\frac{n_{s}}{m^{*}}.\] (5)
+
+where \(m^{*}\) is the effective mass of the carriers [31]. The temperature evolution both of \(\sigma(T)\) and \(B(T)\) are displayed in Fig. 6. Below \(T_{c}\) a clear increase of \(\sigma\) and a concomitant diamagnetic shift of the local field \(B=\mu_{0}H(1+\chi)\) (with \(\chi<0\)), characteristic of the superconducting ground state, are observed.
+
+The measurements highlight a strong decrease of \(T_{c}\) upon Mn substitution, in agreement with SQUID and detuning measurements. Moreover, a decrease of the absolute value of \(\sigma\) is observed with increasing Mn content. According to Eq. (5) this points toward a change of the superconducting carrier concentration or of the effective mass (see Sec. IV for details). The low-temperature upturn of both \(\sigma\) and \(B\), for the \(\chi=0.075\)% sample, is possibly related to the growing magnetic correlations detected by the \({}^{75}\)As \(T_{1}^{-1}\).
+
+## IV Discussion
+
+The analysis of magnetic volumes when dealing with magnetic impurities is a nontrivial task and one must be careful in distinguishing the various contributions to the ZF \(\mu\)SR asymmetry. As already mentioned, Mn impurities give rise to a static magnetic state and Mn atoms likely participate in a short-range magnetic order involving at least the neighboring Fe atoms, which they polarize. Given the high sensitivity of \(\mu\)SR to local fields, it is possible that the "magnetic islands" surrounding the Mn produce dipolar fields at the muon sites also outside the island volume. This would result in a \(\mu\)SR signal with 100% magnetic volume (since all the muons probe a local field) but where the Fe atoms would only partially be involved. We have checked whether this is indeed the case for the \(x=\)0.1%, 0.2%, 0.5%, and 0.75% samples by performing simulations for the dipolar field at the muon sites (see Appendix B) and evaluating the correspondent time decay of the \(\mu\)SR asymmetry. While the rough approximations used to tackle the problem do not allow definitive conclusions for the samples with \(x=0.1\)% and 0.2%, for \(x>0.2\)% the simulations suggest that static magnetism develops throughout the whole Fe plane. This observation is also supported by the \(T_{m}\) values, which approach the ones of the undoped F-free La1111, and can be hardly justified by a glassy ordering of a few per thousand of Mn moments.
+
+Our experimental results provide a microscopic insight into the origin of the suppression of the superconducting ground state already reported in Ref. [2]. Apart from the rapid suppression of \(T_{c}\), also a drastic change of the overall temperature dependence of the resistivity upon adding Mn impurities was reported in Ref. [2]. Already a very small amount of Mn induces a significant upturn of the resistivity at low temperatures, indicating a progressive localization of charges and a concomitant transition to an insulating ground state [2]. This metal-to-insulator transition (MIT) can hardly be considered to be due to the Anderson localization in ordinary systems [32], because the Mn concentration is very small. Instead, the MIT and the appearance of static magnetism in LaFe\({}_{1+x}\)Mn\({}_{x}\)AsO\({}_{0.89}\)F\({}_{0.11}\) indicate the existence of a nonstandard origin for the electron localization found in the proximity to a quantum critical point, which induces the weakening of superconductivity. This is also suggested by the electronic phase diagram which we can extract from our \(\mu\)SR and NQR results (see Fig. 7). Coherently with previous reports [2] and magnetization measurements, \(T_{c}\) is rapidly suppressed and superconductivity disappears for \(x=0.2\)%. Short-range magnetism is observed in the \(\mu\)SR asymmetries
+
+Figure 5: (Color online) (a) Magnetic volume fraction estimated from the longitudinal component of the ZF asymmetries (see text). (b) and (c) Temperature dependence of the local magnetic fields \(B_{\mu^{+}}^{(1,2)}\) (filled and empty symbols, respectively) at the muon site, detected by ZF \(\mu\)SR for \(x=0.5\)% and 0.75%, respectively. The lines are guides to the eye.
+
+Figure 6: (Color online) (a) Muon spin relaxation rate \(\sigma\) observed in transverse external fields in superconducting LaFe\({}_{1+x}\)Mn\({}_{x}\)AsO\({}_{0.89}\)F\({}_{0.11}\) with \(x=0\)%, 0.025%, and 0.075%. Lines are guides to the eyes. (b) Local field at the muon site for the same samples: the diamagnetic shift is clearly present in all superconducting compounds.
+
+  for \(x=0.1\%\) and \(0.2\%\) (this hinders the observation of superconductivity in the sample with \(x=0.1\%\) by means of TF-\(\mu\)SR) while for \(x>0.2\%\) the magnetic order develops through all the FeAs plane. This order develops at the expense of superconductivity evidencing a strong competition between the two ground states. Together with the charge localization probed by resistivity measurements [2], this points toward a QCP at the boundary between the superconducting and the magnetic ground state.
+
+The \({}^{75}\)As NQR \(T_{1}^{-1}\) is driven by electronic spin fluctuations [23] and is observed to progressively grow upon Mn substitution for all the superconducting samples. To analyze the nature of the growing spin fluctuations in this crossover region near the QCP, we express the nuclear spin-lattice relaxation rate due to electronic spin fluctuations [33, 34] as
+
+\[\frac{1}{T_{1}}=\frac{\gamma_{n}^{2}}{2}k_{B}T\frac{1}{N}\sum_{\vec{q}}|A_{\vec {q}}|^{2}\frac{\chi_{n}^{\prime}(\vec{q},\omega_{0})}{\omega_{0}},\] (6)
+
+where \(\gamma_{n}\) is the nuclear gyromagnetic ratio, \(N\) the number of unit cells, i.e., of \(\vec{q}\) values, \(A_{\vec{q}}\) the Fourier-\(q\)-component of the hyperfine coupling constant, \(\chi_{1}^{\prime\prime}(\vec{q},\omega_{0})\) the imaginary part of the dynamic susceptibility perpendicular to the quantization axis of the nuclear spins (and thus perpendicular to the direction of the EFG \(z\) axes), \(\omega_{0}\) the nuclear Larmor frequency, which can be basically taken as \(\omega_{0}\to 0\), since it is much lower than the electron spin fluctuation frequency, and \(\vec{q}\) is summed over the entire Brillouin zone.
+
+The measured \((T_{1}T)^{-1}\) can be well described by a power law of the form \((T_{1}T)^{-1}\propto T^{-b}\) with \(b\simeq 1.4\), over a broad doping and temperature range [see Fig. 8(a)]. This is very alike to what has been observed in SmFeAsO\({}_{1-y}\)F\({}_{y}\)[35]. In this compound, a similar increase of \({}^{19}\)F-NMR \((T_{1}T)^{-1}\) has been observed due to a nonneglible coupling between \(f\) electrons and conduction electrons and has been analyzed within the framework of the self-consistent renormalization (SCR) theory. This justifies also analyzing our data in the framework of the SCR theory, which is usually used to describe spin fluctuations in weakly itinerant systems near a QCP.
+
+Based on the SCR theory, we calculated the spin-lattice relaxation rate for both antiferromagnetic (afm) and ferromagnetic (fm) spin fluctuations in two dimensions (see Appendix A). Taking into account the resulting temperature dependencies of \(T_{1}^{-1}\) for both cases [see Eqs. (A9) and (A10)], it turns out that the experimentally observed temperature dependence is determined by 2D antiferromagnetic spin fluctuations, which, next to a QCP, lead to \(T_{1}^{-1}\propto\ln(1/T)\). In fact, this is indeed the behavior observed for the sample with \(x=0.2\%\), which is the closest to the QCP in the phase diagram [see Fig. 8(b)].
+
+Figure 8: (a) \((T_{1}T)^{-1}\) vs. temperature for the samples with \(0.025\%\), \(0.075\%\), and \(0.1\%\) Mn substitution. Filled and open symbols mark \((T_{1}T)^{-1}\) measured on the low- and high-frequency peak of the double-peaked \({}^{75}\)As-NQR spectrum, respectively. The solid line denotes the empirical power law dependence \((T_{1}T)^{-1}\propto T^{-1.4}\). (b) \(T_{1}^{-1}\) vs. inverse temperature for the samples with \(0.075\%\) (down-pointing triangles) and \(0.2\%\) (up-pointing triangles) Mn substitution, measured at the low- (filled symbols) and high-frequency (open symbols) peaks of the double-peaked \({}^{75}\)As-NQR spectrum. The black solid line denotes the logarithmic temperature dependence \(T_{1}^{-1}\propto\ln(1/T)\) for \(x=0.2\%\), indicating 2D afm spin fluctuations. (c) Numerically calculated in-plane correlation length of afm spin fluctuations for the same sample. The solid line shows \(g\propto\alpha\sqrt{T_{0}/T}\) with \(\alpha=(3.5\pm 0.3)\) lattice units.
+
+Figure 7: (Color online) Electronic phase diagram of LaFe\({}_{1-x}\)Mn\({}_{x}\)AsO\({}_{0.98}\)F\({}_{0.11}\). The dependence of the superconducting transition temperature \(T_{c}\) on the magnetic impurities was determined from magnetization measurements (red squares), \(\mu\)SR (orange triangles), and NQR (yellow diamonds). The magnetic transition temperature \(T_{m}\) (blue triangles) was determined by \(\mu\)SR.
+
+  For this particular sample, the correlation length \(\xi\) describing the in-plane antiferromagnetic correlation can be calculated. Starting from Eq. (A5) and expressing the static susceptibility at the antiferromagnetic wavevector \(\chi(Q_{\rm AF})\) in terms of the in-plane correlation length \(\xi\) (given in lattice units) [35],
+
+\[\chi(Q_{\rm AF})=\frac{S(S+1)4\pi\xi^{2}}{3k_{B}T\ln(4\pi\xi^{2}+1)},\] (7)
+
+the following dependence of the spin-lattice relaxation rate on the in-plane correlation length results:
+
+\[\frac{1}{T_{1}}=\frac{\gamma^{2}A^{2}\hbar S(S+1)}{4\pi 3k_{B}T_{0}}\frac{4\pi \xi^{2}}{\ln(4\pi\xi^{2}+1)}.\] (8)
+
+By taking \(A=50\) kOe [36] and \(S=1/2\), we have derived \(T_{0}\simeq 350\) K from the high-temperature limit, where logarithmic corrections are not relevant and \(\chi(Q_{\rm AF})\) follows a simple Curie-Weiss behavior. The resulting numerically calculated in-plane correlation length for \(x=0.2\)% is plotted in Fig. 8(c). Its temperature dependence can be used for a double-check of the assumption of antiferromagnetic spin fluctuations in the proximity to a QCP, since in that case the in-plane correlation length should scale as \(\xi\propto\sqrt{T_{0}/T}\) for \(T\ll T_{0}\)[35, 37]. This is indeed what we find [see Fig. 8(c)] and confirms that the \({}^{75}\)As-NQR \((T_{1}T)^{-1}\) is determined by 2D antiferromagnetic spin fluctuations. Note that a recent \({}^{31}\)P NMR study on LaFeAs\({}_{1.4}\)F\({}_{2}\)O also found evidence for a quantum critical point in this compound expressed in strong antiferromagnetic fluctuations around \(x=0.3\)[38].
+
+Further information on the effect of Mn in LaFe\({}_{1.4}\)Mn\({}_{x}\)AsO\({}_{0.89}\)F\({}_{0.11}\) can be derived by plotting the superconducting transition temperature \(T_{c}\) versus the TF-\(\mu\)SR Gaussian relaxation rate \(\sigma\propto n_{\rm S}/m^{*}\) [see Eq. (5)], which is usually known as the Uemura plot [39]. Figure 9 shows this plot for LaFe\({}_{1.4}\)Mn\({}_{x}\)AsO\({}_{0.89}\)F\({}_{0.11}\) in comparison to several other 1111 iron-based superconductors [40, 41, 42]. Similarly to other compounds, a nice linear relation between \(T_{c}\) and \(n_{s}/m^{*}\) is found also for LaFe\({}_{1.4}\)Mn\({}_{x}\)AsO\({}_{0.89}\)F\({}_{0.11}\). Remarkably, \(n_{\rm S}/m^{*}\) decreases even faster than \(T_{c}(x)\), most likely due to an enhancement of the effective mass \(m^{*}\) upon Mn substitution, since the system is approaching localization. Such an enhancement of \(m^{*}\) has been recently reported for Ba(Fe\({}_{1.4}\)Mn\({}_{x}\)As\({}_{2}\)) and has been explained as a result of a Kondo-like band renormalization due to magnetic scattering effects [18]. Still, care should be taken when comparing the effects of impurities on 122 and 1111 iron-based superconductors, since they can differ a lot among different families of pnictides. On the other hand, the similar behavior found in the Uemura plot of LaFe\({}_{1.4}\)Mn\({}_{x}\)AsO\({}_{0.89}\)F\({}_{0.11}\) and LaFeAsO\({}_{1.7}\)F\({}_{7}\) (Fig. 9) is likely to be a coincidence. For the latter, F-doping is known to cause an effective charge doping and thus should change the superconducting carrier density, whereas, as it has been shown by our \({}^{75}\)As-NQR data, a change of the carrier density by Mn for \(x\leqslant 0.2\)% is rather unlikely. Direct measurements of the effective mass \(m^{*}\) would help to clarify this point.
+
+Recent theoretical works showed that even very weak, short-range Neel-type magnetic fluctuations promoted by Mn impurities can suppress the superconducting state very efficiently [43] and lead to the appearance of an unusual tetragonal magnetic state [44]. This is in excellent agreement with our experimental results, which show that the fast suppression of the superconducting \(T_{c}\) is accompanied by an increase of the low-energy spin fluctuations in a very small Mn substitution range and the appearance of static magnetism upon further Mn substitution. In this regard, further investigations of the ordering vector of the magnetic state are envisaged.
+
+Finally, it is worth noting that the extreme poisoning effect of Mn is limited to La1111 only. For Nd 1111 and Sm 1111 the impurity concentration leading to the suppression of superconductivity is about ten times larger [2, 45]. This difference may originate from the details of the delicate \(Ln\) dependence of the material parameters, as highlighted in recent theoretical works [46, 47].
+
+## V Conclusion
+
+We studied the effect of tiny amounts of Mn impurities in LaFe\({}_{1.4}\)Mn\({}_{x}\)AsO\({}_{0.89}\)F\({}_{0.11}\), which quenches superconductivity very effectively. Immediately after the quench of \(T_{c}\), static magnetism appears just beside the superconducting dome. We showed that this magnetic phase cannot involve just the diluted magnetic impurities, but is intrinsic to the FeAs planes. Furthermore, we observed a progressive slowing down of spin fluctuations with increasing Mn content, giving rise to an enhancement of \({}^{75}\)As NQR \((T_{1}T)^{-1}\). The analysis of \((T_{1}T)^{-1}\) showed that the spin fluctuations are of 2D antiferromagnetic character and can be well described within Moriya's SCR theory for weakly itinerant systems near a quantum critical point. Together with the localization effects found in resistivity measurements [2] we can conclude that the effect of Mn impurities in LaFe\({}_{1.4}\)Mn\({}_{x}\)AsO\({}_{0.89}\)F\({}_{0.11}\) goes beyond a standard magnetic pair breaking effect and rather suggests the proximity to a quantum critical point.
+
+###### Acknowledgements.
+
+ We thank R. M. Fernandes, M. Mazzani, G. Allodi, and G. Lang for discussion. We acknowledge financial support
+
+Figure 9: (Color online) Uemura plot, showing \(T_{c}\) versus \(\sigma\propto n_{S}/m^{*}\) as deduced from our \(\mu\)SR results on LaFe\({}_{1.4}\)Mn\({}_{x}\)AsO\({}_{0.89}\)F\({}_{0.11}\) (orange triangles), in comparison to LaFeAsO\({}_{1.7}\)F\({}_{7}\) (blue circles) and several other 1111 pnictide superconductors [40, 41, 42].
+
+  from PSI EU funding. F.H., S.S., and P.C. acknowledge support by Fondazione Cariplo (Research Grant No. 2011-0266).
+
+## Appendix A SCR theory of 2D spin fluctuations
+
+According to the SCR theory, the dynamical magnetic susceptibility in the paramagnetic phase in units of \((2\mu_{B})^{2}\) is given by [34]
+
+\[\chi(q,\omega_{0})=\frac{\pi\,T_{0}}{\alpha_{Q}T_{A}}\frac{x^{\theta}}{2\pi k_{ B}T_{0}x^{\theta}(y+x^{2})-i\hbar\omega_{0}}\,,\] (11)
+
+with \(T_{0}\) and \(T_{A}\) being two parameters that characterize the width of the spin excitation spectrum in frequency and \(q\) ranges, respectively, \(\alpha_{Q}\) being a dimensionless interaction constant and
+
+\[y=\frac{1}{2\alpha_{Q}k_{B}T_{A}\chi(Q)}.\] (12)
+
+Furthermore, \(x=\frac{q}{q_{B}}\), where \(q_{B}\) is the effective zone boundary, and \(\theta=1\) and 0 for ferromagnetic (\(Q=0\)) and antiferromagnetic (\(Q\neq 0\)) spin fluctuations, respectively.
+
+We calculated the spin-lattice relaxation rate for both afm and fm spin fluctuations in two dimensions, where \(q_{B}=(4\pi/A_{c})^{1/2}\) with \(A_{c}\) being the unit cell volume. \(\chi_{y}^{\prime\prime}(\vec{q},\omega_{0})/\omega_{0}\) was determined from Eq. (11). Assuming a \(\vec{q}\)-independent form factor \(|A_{\vec{q}}|^{2}=A^{2}\), as expected for itinerant systems, considering the limit \(\omega_{0}\to 0\) and integrating \(\chi_{\perp}^{\prime\prime}(\vec{q},\omega_{0})/\omega_{0}\) in two dimensions over a circle of radius \(q_{B}\) one arrives at
+
+\[\frac{1}{T_{1}T}=\frac{\gamma_{n}^{2}A^{2}}{2}\frac{\hbar}{4\pi k_{B}}\frac{1} {\alpha_{Q}T_{0}T_{A}}\frac{1}{y(y+1)},\] (13)
+
+for antiferromagnetic fluctuations, and
+
+\[\frac{1}{T_{1}T}=\frac{\gamma_{n}^{2}A^{2}}{2}\frac{\hbar}{4\pi k_{B}}\frac{1} {\alpha_{Q}T_{0}T_{A}}\left[\frac{1}{y(y+1)}+\frac{\tan^{-1}(1/\sqrt{y})}{y^{3 /2}}\right],\] (14)
+
+for ferromagnetic fluctuations. With Eq. (12) and assuming \(T\ll T_{A}\), which implies \(y\to 0\), the spin-lattice relaxation rate finally becomes
+
+\[\frac{1}{T_{1}}\simeq\frac{\hbar\gamma_{n}^{2}A^{2}}{4\pi}\left(\frac{T}{T_{0} }\right)\chi(Q_{\rm AF})\,\propto T\,\chi(Q_{\rm AF}),\] (15)
+
+for the antiferromagnetic case, and
+
+\[\frac{1}{T_{1}}\simeq\frac{\hbar\gamma_{n}^{2}A^{2}}{8}\sqrt{2\alpha_{Q}k_{B}T _{A}}\left(\frac{T}{T_{0}}\right)\chi(0,0)^{3/2}\,\propto T\,\chi(0,0)^{3/2},\] (16)
+
+for the ferromagnetic case. The temperature dependence of the nuclear spin-lattice relaxation rate in the case of two-dimensional antiferromagnetic and ferromagnetic spin fluctuations thus depends on the temperature dependence of the \(\vec{q}\)-specific susceptibility, which has been previously derived to scale as [48]
+
+\[\chi(Q_{\rm AF})\propto\frac{\ln\left(\frac{1}{T}\right)}{T}\quad\text{ for}\quad\text{2D afm},\] (17) \[\chi(0,0)\propto\frac{1}{T\ln\left(\frac{1}{T}\right)}\quad\text{ for}\quad\text{2D fm}.\] (18)
+
+We finally end up with the following temperature dependencies of the nuclear spin-lattice relaxation rate due to two-dimensional spin fluctuations:
+
+\[\frac{1}{T_{1}}\propto\ln\left(\frac{1}{T}\right)\quad\text{for}\quad\text{2D afm},\] (19) \[\frac{1}{T_{1}}\propto\frac{1}{\sqrt{T}\left[\ln\left(\frac{1}{T }\right)\right]^{3/2}}\quad\text{for}\quad\text{2D fm}.\] (20)
+
+The observed temperature dependence of the measured nuclear spin-lattice relaxation rate \(T_{1}^{-1}\) , which is plotted in Fig. 8(b), is clearly determined by 2D antiferromagnetic spin fluctuations. \(T_{1}^{-1}\) increases with decreasing temperature in the interesting temperature range, as suggested by Eq. (19) and, in particular, the data of the sample with 0.2% can be well fitted with a temperature dependence according to Eq. (19).
+
+## Appendix B Effect of diluted magnetic impurities
+
+To characterize the evolution of the magnetic ground state of LaFe\({}_{1-x}\)Mn\({}_{x}\)AsO\({}_{0.89}\)F\({}_{0.11}\) as a result of Mn impurity substitution, we need to identify the contribution to the \(\mu\)SR signal due to the magnetic moment localized on the Mn and on the neighboring Fe atoms. Indeed, given the high sensitivity of the \(\mu\)SR technique to small magnetic fields, strong magnetic moments diluted in the sample could give rise to a large volume fraction of muons probing a local field as a consequence of the dipolar interaction.
+
+The presence of local moments on Mn atoms suggests that the impurities are surrounded by a small neighborhood of magnetic iron atoms, characterized by a short-ranged order. Nonetheless, we do not have access to the magnetic moments on both Mn and Fe. We are thus forced to a rough approximation to evaluate the \(\mu\)SR signal. We considered a large local moment of 3 \(\mu_{B}\) localized at Mn atoms' positions only. Even if this picture is unphysical since the Fe atoms do not participate to the static Mn order, it is a convenient and operative approximation to discriminate between the contributions coming from the magnetic states surrounding the impurities and those from the rest of the sample.
+
+To estimate the field at the \(\mu^{+}\) site we randomly substituted Mn impurities for Fe in the LaFeAsO structure with random local moment orientation. Only the dipolar interaction between the muon and the Mn impurities is considered.
+
+The expected depolarization rates as a function of Mn concentration are shown in Fig. 10. As expected, in the low dilution limit, the magnetic impurities give rise to an exponential depolarization rate. For \(x\geqslant 0.2\%\) a Lorentzian Kubo-Toyabe-like trend is recovered.
+
+For \(x=0.1\%\) the expected depolarization rate is rather close to the experimental values for \(t<0.5\,\mu\)s, but we note that a second slowly decaying component is present in the experimental signal. For \(x=0.2\%\), the discrepancy of a factor of 2 between the data and the simulation does not allow conclusive inferences about the origin of the field at the muon sites. Nonetheless, for \(x\geqslant 0.5\%\) the experimental depolarization rates are 3 to 6 times larger than the computationally estimated ones. Magnetic volumes surrounding the impurities  are therefore much bigger than those in the \(x=0.1\%\) and \(0.2\%\) samples and the presence of precessions strongly suggests that the whole iron plane is involved in the static magnetic ground state.
+
+## References
+
+* [1] Y. Wang, A. Kreisel, P. J. Hirschfeld, and V. Mishra, Phys. Rev. B **87**, 094504 (2013).
+* [2] M. Sato, Y. Kobayashi, S. C. Lee, H. Takahashi, E. Satomi, and Y. Miura, J. Phys. Soc. Jpn. **79**, 014710 (2010).
+* [3] E. Satomi, S. C. Lee, Y. Kobayashi, and M. Sato, J. Phys. Soc. Jpn. **79**, 094702 (2010).
+* [4] T. Kawamata, E. Satomi, Y. Kobayashi, M. Itoh, and M. Sato, J. Phys. Soc. Jpn. **80**, 084720 (2011).
+* [5] S. Kitagawa, Y. Nakai, T. Iye, K. Ishida, Y. F. Guo, Y. G. Shi, K. Yamaura, and E. Takayama-Muromachi, Phys. Rev. B **83**, 180501 (2011).
+* [6] G. Fuchs, S.-L. Drechsler, N. Kozlova, G. Behr, A. Kohler, J. Werner, K. Nenkov, C. Hess, R. Klingeler, J. E. Hamann-Borrero, A. Kondrat, M. Grobosch, A. Narduzzo, M. Knupfer, J. Freudenberger, B. Buchner, and L. Schultz, Phys. Rev. Lett. **101**, 237003 (2008).
+* [7] F. Hammerath, S.-L. Drechsler, H.-J. Grafe, G. Lang, G. Fuchs, G. Behr, I. Eremin, M. M. Korshunov, and B. Buchner, Phys. Rev. B **81**, 140504(R) (2010).
+* [8] H. Kito, H. Eisaki, and A. Iyo, J. Phys. Soc. Jpn. **77**, 063707 (2008).
+* [9] M. Sato and Y. Kobayashi, Solid State Commun. **152**, 688 (2012).
+* [10] S. Sanna, P. Carretta, P. Bonfa, G. Prando, G. Allodi, R. De Renzi, T. Shiroka, G. Lamura, A. Martinelli, and M. Putti, Phys. Rev. Lett. **107**, 227003 (2011).
+* [11] S. Sanna, P. Carretta, R. De Renzi, G. Prando, P. Bonfa, M. Mazzani, G. Lamura, T. Shiroka, Y. Kobayashi, and M. Sato, Phys. Rev. B **87**, 134518 (2013).
+* [12] Y. Li, J. Tong, Q. Tao, C. Feng, G. Cao, W. Chen, F. chun Zhang, and Z. an Xu, New J. Phys. **12**, 083008 (2010).
+* [13] P. Cheng, B. Shen, J. Hu, and H.-H. Wen, Phys. Rev. B **81**, 174529 (2010).
+* [14] J. Li, Y. F. Guo, S. B. Zhang, J. Yuan, Y. Tsujimoto, X. Wang, C. I. Sathish, Y. Sun, S. Yu, W. Yi, K. Yamaura, E. Takayama-Muromachiu, Y. Shirako, M. Akaogi, and H. Kontani, Phys. Rev. B **85**, 214509 (2012).
+* [15] A. Thaler, H. Hodovanets, M. S. Torikachvili, S. Ran, A. Kracher, W. Straszheim, J. Q. Yan, E. Mun, and P. C. Canfield, Phys. Rev. B **84**, 144528 (2011).
+* [16] Y. Texier, Y. Laplace, P. Mendels, J. T. Park, G. Friemel, D. L. Sun, D. S. Inosov, C. T. Lin, and J. Bobroff, Europhys. Lett. **99**, 17002 (2012).
+* [17] H. Suzuki, T. Yoshida, S. Ideta, G. Shibata, K. Ishigami, T. Kadono, A. Fujimori, M. Hashimoto, D. H. Lu, Z.-X. Shen, K. Ono, E. Sakai, H. Kumigashira, M. Matsuo, and T. Sasagawa, Phys. Rev. B **88**, 100501 (2013).
+* [18] T. Urata, Y. Tanabe, K. K. Huynh, H. Oguro, K. Watanabe, S. Heguri, and K. Tanigaki, Phys. Rev. B **89**, 024503 (2014).
+* [19] D. S. Inosov, G. Friemel, J. T. Park, A. C. Walters, Y. Texier, Y. Laplace, J. Bobroff, V. Hinkov, D. L. Sun, Y. Liu, R. Khasanov, K. Sedlak, P. Bourges, Y. Sidis, A. Ivanov, C. T. Lin, T. Keller, and B. Keimer, Phys. Rev. B **87**, 224425 (2013).
+* [20] R. Frankovsky, H. Luetkens, F. Tambornino, A. Marchuk, G. Pascua, A. Amato, H.-H. Klauss, and D. Johrendt, Phys. Rev. B **87**, 174515 (2013).
+* [21] H. Luetkens, H.-H. Klauss, M. Kraken, F. J. Litterst, T. Dellmann, R. Klingeler, C. Hess, R. Khasanov, A. Amato, C. Baines, M. Kosmala, O. J. Schumann, M. Braden, J. Hamann-Borrero, N. Leps, A. Kondrat, G. Behr, J. Werner, and B. Buchner, Nature Mater. **8**, 305 (2009).
+* [22] I. I. Mazin, D. J. Singh, M. D. Johannes, and M. H. Du, Phys. Rev. Lett. **101**, 057003 (2008).
+* [23] G. Lang, H.-J. Grafe, D. Paar, F. Hammerath, K. Manthey, G. Behr, J. Werner, and B. Buchner, Phys. Rev. Lett. **104**, 097001 (2010).
+
+Figure 10: (Color online) Upper and lower panels show the experimental (red dots) and simulated (blue lines) asymmetry depolarizations for \(x=0.1\%,0.2\%,0.5\%\), and \(0.75\%\) on two different time scales. The experimental data are the same as described in the legend of Fig. 4(b).
+
+  * [24] T. Oka, Z. Li, S. Kawasaki, G. F. Chen, N. L. Wang, and G.-q. Zheng, Phys. Rev. Lett. **108**, 047001 (2012).
+* [25] Y. Kobayashi, E. Satomi, S. C. Lee, and M. Sato, J. Phys. Soc. Jpn. **79**, 093709 (2010).
+* [26] G. Lang, H.-J. Grafe, F. Hammerath, K. Manthey, D. Paar, G. Behr, J. Werner, J. Hamann-Borrero, and B. Buchner, Physica C: Superconductivity **470**, S454 (2010).
+* [27] C. Ding, H. Man, C. Qin, J. Lu, Y. Sun, Q. Wang, B. Yu, C. Feng, T. Goko, C. J. Arguello, L. Liu, B. A. Frandsen, Y. J. Uemura, H. Wang, H. Luetkens, E. Morenzoni, W. Han, C. Q. Jin, T. Munsie, T. J. Williams, R. M. D'Otrenzio, T. Medina, G. M. Luke, T. Imai, and F. L. Ning, Phys. Rev. B **88**, 041102 (2013).
+* [28] H. Maeter, H. Luetkens, Y. G. Pashkevich, A. Kwadrin, R. Khasanov, A. Amato, A. A. Gusev, K. V. Lamonova, D. A. Chervinskii, R. Klingeler, C. Hess, G. Behr, B. Buchner, and H.-H. Klauss, Phys. Rev. B **80**, 094524 (2009).
+* [29] R. D. Renzi, P. Bonfa, M. Mazzani, S. Sanna, G. Prando, P. Carretta, R. Khasanov, A. Amato, H. Luetkens, M. Bendele, F. Bernardini, S. Massidda, A. Palenzona, M. Tropeano, and M. Vignolo, Supercond. Sci. Technol. **25**, 084009 (2012).
+* [30] J. E. Sonier, J. H. Brewer, and R. F. Kiefl, Rev. Mod. Phys. **72**, 769 (2000).
+* [31] E. H. Brandt, Phys. Rev. B **37**, 2349 (1988).
+* [32] P. W. Anderson, Phys. Rev. **109**, 1492 (1958).
+* [33] T. Moriya, J. Phys. Soc. Jpn. **18**, 516 (1963).
+* [34] A. Ishigaki and T. T. Moriya, J. Phys. Soc. Jpn. **65**, 3402 (1996).
+* [35] G. Prando, P. Carretta, A. Rigamonti, S. Sanna, A. Palenzona, M. Putti, and M. Tropeano, Phys. Rev. B **81**, 100508 (2010).
+* [36] H.-J. Grafe, G. Lang, F. Hammerath, D. Paar, K. Manthey, K. Koch, H. Rosner, N. J. Curro, G. Behr, J. Werner, N. Leps, R. Klingeler, H.-H. Klauss, F. J. Litterst, and B. Buchner, New J. Phys. **11**, 035002 (2009).
+* [37] A. J. Millis, Phys. Rev. B **48**, 7183 (1993).
+* [38] S. Kitagawa, T. Iye, Y. Nakai, K. Ishida, C. Wang, G.-H. Cao, and Z.-A. Xu, J. Phys. Soc. Jpn. **83**, 023707 (2014).
+* [39] Y. J. Uemura, G. M. Luke, B. J. Sternlieb, J. H. Brewer, J. F. Carolan, W. N. Hardy, R. Kadono, J. R. Kempton, R. F. Kiefl, S. R. Kreitzman, P. Mulhern, T. M. Riseman, D. L. Williams, B. X. Yang, S. Uchida, H. Takagi, J. Gopalakrishnan, A. W. Sleight, M. A. Subramanian, C. L. Chien, M. Z. Cieplak, G. Xiao, V. Y. Lee, B. W. Statt, C. E. Rironach, W. J. Kossler, and X. H. Yu, Phys. Rev. Lett. **62**, 2317 (1989).
+* [40] H. Luetkens, H.-H. Klauss, R. Khasanov, A. Amato, R. Klingeler, I. Hellmann, N. Leps, A. Kondrat, C. Hess, A. Kohler, G. Behr, J. Werner, and B. Buchner, Phys. Rev. Lett. **101**, 097009 (2008).
+* [41] J. P. Carlo, Y. J. Uemura, T. Goko, G. J. MacDougall, J. A. Rodriguez, W. Yu, G. M. Luke, P. Dai, N. Shannon, S. Miyasaka, S. Suzuki, S. Tajima, G. F. Chen, W. Z. Hu, J. L. Luo, and N. L. Wang, Phys. Rev. Lett. **102**, 087001 (2009).
+* [42] P. Carretta, R. D. Renzi, G. Prando, and S. Sanna, Physica Scripta **88**, 068504 (2013).
+* [43] R. M. Fernandes and A. J. Millis, Phys. Rev. Lett. **110**, 117004 (2013).
+* [44] X. Wang and R. M. Fernandes, arXiv:1312.6176.
+* [45] S. Singh, J. Shimoyama, A. Yannemoto, H. Ogino, and K. Kishio, Physica C: Superconductivity **494**, 57 (2013).
+* [46] K. Suzuki, H. Usui, K. Kuroki, S. Iimura, Y. Sato, S. Matsuishi, and H. Hosono, J. Phys. Soc. Jpn. **82**, 083702 (2013).
+* [47] H. Usui, K. Suzuki, and K. Kuroki, Supercond. Sci. Technol. **25**, 084004 (2012).
+* [48] T. Moriya and K. Ueda, Rep. Prog. Phys. **66**, 1299 (2003).
+
+ 

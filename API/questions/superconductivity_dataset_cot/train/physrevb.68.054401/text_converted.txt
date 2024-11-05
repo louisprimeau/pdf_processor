@@ -1,0 +1,511 @@
+# Crystal structure and superconductivity of TiZr up to 57 GPa
+
+I. O. Bashkin
+
+V. K. Fedotov
+
+M. V. Nefedova
+
+M. V. Tissen
+
+E. G. Ponyatovsky
+
+A. Schiwek
+
+W. B. Holzapfel
+
+Fachbereich 6-Physik, Universitat Paderborn, D-33095 Paderborn, Germany
+
+13 March 2003; published 1 August 2003
+
+###### Abstract
+
+The crystal structure of the equiatomic TiZr alloy is studied in the
+pressure range up to 57 GPa using the diamond anvils and synchrotron
+radiation. It is found that this alloy follows the α → ω → β transition
+series earlier observed on Zr and Hf. Superconductivity measurements on
+the same alloy to 47 GPa show that the transition to the bcc β phase is
+connected with an increase in the superconducting transition temperature
+to 15 K. The pressure dependence of the atomic volume is fitted to an
+equation of state. Low values of the pressure derivative of the bulk
+modulus as well as the increase in the superconducting transition
+temperature are discussed in terms of a pressure-induced s − d electron
+transfer.
+
+DOI: 10.1103/PhysRevB.68.054401 PACS number(s): 74.62.Fj, 61.50.Ks,
+61.66.Dk, 64.30.+t
+
+## I Introduction
+
+The interest in the high-pressure behavior of the group IV metals was
+revived about 12 years ago by the discovery of the hexagonal ω to the
+bcc β phase transitions in Zr and Hf.[1, 2, 3, 4, 5] These observations
+presented a remarkable experimental support to the theoretical ideas
+based on the electronic band-structure calculations for the transition
+metals and the calculated dependence of the electronic properties on
+pressure or the atomic volume.[6, 7, 8, 9] The most important result of
+these calculations is the observation that the relatively narrow d-band
+moves with respect to the bottom of the broad sp-band when the atomic
+volume is varied.[6, 7] This shift of the d-band results in a change of
+the d-band occupancy under pressure and provides the main contribution
+to the pressure dependence of the electronic properties of the metals
+(see review Ref. [6]). The total band-energy calculations indicate also
+that the structural stability is strongly correlated with the d-band
+occupancy (Refs. [7, 8, 9], and references therein). The calculations
+gradually reproduced the correct structural sequence in the Periodic
+Table for all nonmagnetic metals at atmospheric pressure,[7, 8, 9] and
+the structural sequences were presented for many group I-III metals
+under pressure.[7, 8] The high-pressure stability of the β phase in Zr
+and Hf has been modeled theoretically[10] parallel to the experimental
+observations, and the whole α → ω → β transition series starting with
+the hcp α phase was reproduced in further theoretical studies.[11, 12,
+13]
+
+For Zr at 300 K, the α − ω equilibrium pressure is 2.2 GPa,[14] and the
+ω − β transition occurs at 33± 2 GPa.[1, 2, 3] The equilibrium pressures
+for the α − ω − β structural sequence observed in Hf are about 38 and 71
+GPa, respectively.[5] Measurements of the superconducting transition
+temperature, T_(c), in Zr under pressure show its increase by about 5 K
+at the ω − β transition.[4, 15, 16] Original speculations on the nature
+of the transition[1] relate the d-band occupancy critical for the
+structural change with the pressure-induced s  − d electron transfer and
+with the lower partial volume of the d-electrons. It was also
+emphasized[3] that the atomic volumes and the T_(c) values are nearly
+the same for β-Zr above the structural transition and for Nb at normal
+pressure therefore it was assumed that the d-band occupancy is the same
+in β-Zr and in Nb under appropriate conditions. In other words, β-Zr
+becomes a group V element from the point of view of its structure and
+properties dependent on the d-band occupancy. Titanium shows a different
+behavior at very high pressures. Although the α − ω equilibrium pressure
+is also low, 2.0 GPa at 300 K,[14]ω-Ti does not undergo a transition to
+the β phase up to 216 GPa.[17, 18] Instead, two orthorhombic Ti phases
+were found with the ω − γ transition pressure of 116 GPa in Ref. [19] or
+128 GPa in Refs. [17, 18] and the γ − δ transition pressure of 140
+GPa.[17, 18] The situation for Ti is complicated for the total energy
+calculations as well. The calculations predict the same α − ω − β
+structural sequence in Ti with the ω − β transition around 100 GPa
+therefore the orthorhombic γ and δ phases are discussed as intermediate
+and metastable at room temperature.[13, 20, 21]
+
+The analogy between Zr and the group V metals is fraught with
+interesting consequences for the Zr-based alloys because alloying is a
+well-known means for varying the electron concentration.[6, 22, 23]
+Ti-Zr alloys are of a particular interest in this case. The T − P phase
+diagrams of Ti and Zr are very similar up to 10 GPa.[24] Both metals
+undergo the α − β transition at atmospheric pressure upon heating above
+1155 and 1136 K, respectively, and the α − ω transition on compression.
+The α − ω − β triple points are located at 913 K and 8.0 GPa for Ti
+(Ref. [25]) and at 973 K and 5.5 GPa for Zr.[26] The ω − β transition
+lines have small positive slopes near the triple points.[24] Ti and Zr
+are completely soluble in their α and β phases at atmospheric
+pressure[27] as well as in their ω phase.[28, 29] The α − β transition
+temperature has a minimum at 852 K at ambient pressure for the
+equiatomic TiZr alloy, and the parameters of the α − ω − β triple point,
+733 K and 4.9 GPa, are also lower in this case than in the pure
+metals.[28] The α − ω transition occurs in Ti-Zr alloys around 10 GPa at
+300 K.[29, 30] The superconducting transition temperatures of the
+α − Ti₂$\!{\it{Zr}}_{1-x}$ alloys at atmospheric pressure, T_(c)(x), are
+low and reach a maximum of just 1.7 K at x = 0.5.[31]
+
+The analogy between Nb and β-Zr has been extended more recently to
+considerations on the behavior of the β-phase Ti-Zr alloys under high
+pressure, which should have much in common with the Ti-group V metal
+alloys, particularly, Ti-Nb at normal pressure.[30] The T_(c) measure
+ments on the Ti_(x)Zr_(1 − x) alloys with x≤ 0.5 showed discontinuities
+in the T_(c)(P) curves around 10 GPa and above 30 GPa, which was
+attributed to the structural transitions. The isobaric T_(c)(x) values
+taken at 46 GPa increased to 15 K as the Ti content increased to x =
+0.5, [30] which is rather similar to the behavior of the Ti−Nb alloys.
+[31] In order to complete the analogy, the present work deals with
+structural properties of the equiatomic TiZr alloy under pressures up to
+57 GPa. X-ray diffraction is used thereby to confirm the α→ω→β
+structural sequence, which perfectly explains then the high-pressure
+superconducting behavior of this alloy.
+
+## II Experiment
+
+The TiZr alloy was prepared from the metallic elements with total
+impurity contents less than 0.02 and 0.04 at.
+
+Energy dispersive x-ray diffraction (EDXD) experiments were performed on
+the F3 beamline at the HASYLAB (DESY, Hamburg). [32] Diamond-anvil cells
+[33, 34] with flats of 0.5 mm or 0.3 mm diameter were used to generate
+high pressures. The samples were placed into holes in the Inconel
+gaskets of 0.25 or 0.15 mm, respectively, together with a few ruby chips
+and with white mineral oil as pressure transmitting medium. Pressure was
+measured with the ruby luminescence technique [35] on the basis of the
+nonlinear ruby scale. [36] The diffraction spectra were collected with a
+Ge detector at a Bragg angle of θ≈ 5.11^(∘) in typically 15 min. Two
+series of experiments were performed on the TiZr alloy at room
+temperature. The first series was a compression/decompression cycle to
+38.3 GPa using the anvils with 0.5 mm flats, and the second series was a
+compression run to 56.9 GPa.
+
+The superconductivity measurements used a different diamond-anvil cell
+made of a non-magnetic alloy with diamond flats of 0.5 mm diameter. [30]
+The pressure-transmitting medium was the 4:1 methanol−ethanol mixture.
+The superconducting transitions were recorded as jumps in the thermal
+dependence of the magnetic susceptibility, χ(T), measured on heating.
+(Cu−Fe)−Cu thermocouples were used for the temperature measurements with
+an accuracy of ± 0.2 K.
+
+## III Results
+
+The α−ω−β structural sequence includes three well-known structures that
+give distinctly different EDX spectra as illustrated in Figs. 1−3. Only
+the α phase is observed on increasing pressure up to 10.3 GPa (Fig. 1).
+The α phase still predominates in the EDX spectra at 12.2 GPa, but the
+onset of the α−ω transition is noticeable at this pressure by small
+distortions of the strong α-phase reflections. The ω phase dominates in
+the diffraction pattern taken at 15.5 GPa and persists then up to about
+54 GPa. A typical EDX spectrum of ω-TiZr (at 39.1 GPa) is shown in Fig.
+2. In the first pressure series ending at 38.3 GPa, the ω-phase was then
+maintained on decompression down to normal conditions.
+
+Above 45 GPa in the second experiment, the relative intensities in the
+diffraction patterns start to change, and the pattern observed at the
+highest pressure of 56.9 GPa corresponds to pure β phase with the
+lattice parameter of 309.8 pm, as shown in Fig. 3. The comparison of the
+bar diagrams of the β and ω phases in Fig. 3 illustrates that all
+reflections of the β phase overlap with lines from the ω phase. This
+overlap results from a close relation between the ω and β structures. In
+fact, the ω phase is often considered as a distortion of the β phase,
+the central atoms of each bcc cell
+
+Figure 2: Room-temperature EDXD spectrum for TiZr at 28.7 GPa. Miller
+indices are given for the ω phase. Other notations are the same as in
+Fig. 1.
+
+Figure 1: Room-temperature EDXD spectra for TiZr at 10.3 GPa (bottom)
+and 12.1 GPa (top). Experimental data are plotted as points, and the
+computer-simulated patterns are represented by solid lines. Miller
+indices are given for the α phase at 10.3 GPa, the Inconel reflections
+are marked without indexing. The upper axis gives the relation between
+the energy scale and the interplanar spacings.
+
+being shifted by 1/6 along the body diagonal of this cell and the shifts
+in the neighboring cells being in opposite directions. Therefore the
+amount of the ω phase with respect to the β phase is estimated from the
+relative intensity of a prominent (001)ω peak with respect to the
+summary intensity, I_(S), of the (101)ω + (110)ω + (001)β peak. The
+pressure dependence of this relative intensity, I(001)ω/I_(S), in Fig. 4
+illustrates the evolution of the ω − β transition. Obviously, the ω − β
+transition begins above 40 GPa and is completed around the final point
+of the present experimental region. The 50
+
+The present structural data allow now for a detailed interpretation of
+the superconducting behavior reported recently³⁰ for Ti−Zr alloys under
+pressure. Figure 5 shows the pressure dependence of the superconducting
+transition temperature of the present TiZr alloy to 47 GPa. Several
+experimental isosars of the magnetic susceptibility, χ_(P)(T), are
+represented in the inset. The steps in the χ(T) curves are due to the
+superconducting transitions in the alloy. The T_(c) values were
+determined from each χ(T) curve as intersection points between the
+steepest tangent to the curve and the linear extension of the
+high-temperature section of the curve, as illustrated with arrows in
+Fig. 5.
+
+Three distinctly different sections are seen in the T_(c)(P) curve in
+Fig. 5. In the pressure range 0−9.4 GPa, T_(c) increases from 1.8 to 3.9
+K. A small decrease in T_(c) around 10 GPa is clearly related to the
+α − ω transition in the alloy. This value for the transition pressure
+allows very well with the previous data²⁹ where partial α − ω
+transitions were observed in Ti_(x)Zr_(1 − x) alloys with x = 0.74,
+0.66, and 0.56 which had been treated under quasihydrostatic pressures
+of about 9 GPa at room temperature. Above 11 GPa, the T_(c) values
+increase with an average slope of dT_(c)/dP≈ 0.11 K/GPa up to 36 GPa
+where the steps in χ(T) become less distinct (see the inset). This
+distortion of the superconducting anomaly finally changes into the
+second step in the χ(T) curves. The occurrence of two χ(T) anomalies
+indicates that the ω − β transition proceeds through a two-phase state
+rather than through a gradual change of the central-atom displacements.
+In other words, the ω − β transition proceeds directly as a first-order
+phase transition without any possible intermediate low-symmetry phase.
+The nucleation of the new superconducting high-pressure phase results in
+a distortion of the χ(T) anomaly, and the occurrence of the distinct
+second step in χ(T) at 47 GPa indicates that the amount of the β phase
+in the sample becomes here comparable to the amount of the ω phase. This
+correlates well with the EDX data that are indicative of the 10−20
+
+Figure 4: Effect of pressure on the relative intensity of the (001)ω
+reflection with respect to the total intensity of the
+(101)ω+(110)ω + (001)β line (squares) and the estimated variation of the
+relative amount of the β phase (diamonds) in TiZr at the phase
+transition. The lines are guides to the eyes.
+
+Figure 5: Effect of pressure on the superconducting transition
+temperature of TiZr. Representative isobars for the magnetic
+susceptibility measured on heating, χ(T), are shown in the inset. Arrows
+in the inset mark the T_(c) values.
+
+Figure 3: Room temperature EDXD spectrum for TiZr at P= 56.9 GPa. Miller
+indices are given for the β phase. The calculated bar diagrams for
+ω-TiZr and for Inconel are presented without indexing. Other notations
+are the same as in Fig. 1.
+
+whose T_(c) gradually increased to 17.2 K upon compression to 120
+GPa.[57]
+
+Comparing the experimental data on the structural and superconducting
+behavior, one can conclude that the TiZr alloy undergoes the α-ω
+transition on increasing pressure at P = 11.0 ± 1.5 GPa, and the ω − β
+transition is extended on increasing pressure over a wide interval from
+about 43 to 57 GPa.
+
+Further evaluation of the experimental EDXD spectra was based on a
+Rietveld-type simulation. A multiphase diffraction pattern including the
+appropriate TiZr phases and Inconel was generated for each EDXD spectrum
+and fitted to the spectrum with respect to the positions of the
+diffraction peaks. A detailed refinement including the peak intensities
+was not attempted for various experimental reasons, but primarily
+because the small number of grains in the samples could not produce an
+ideal powder pattern in EDXD. The quality of the fit is illustrated in
+Figs. 1-3, where the experimental data are represented with points, the
+solid lines are the simulated diffraction patterns, and the calculated
+peak positions are shown with bars. Figure 6 presents the pressure
+dependence of the corresponding lattice parameters a and c for the α and
+ω phases. The ratios of the lattice parameters of the ω phase,
+c/a = 0.618 ± 0.002, and of the α phase, c/a = 1.581 ± 0.005, are the
+same within the experimental accuracy for all points in Fig. 6 and agree
+very well with the data for atmospheric pressure, c/a = 0.617 and 1.586,
+respectively.[28] This constancy of c/a is similar to the situation in
+α- and ω-Zr.[1] The amount of the β phase in the region of the ω − β
+transition estimated using this data treatment is compared with the
+decreasing intensity of the (001)ω reflection in Fig. 4.
+
+Figure 7 shows the effect of pressure on the average atomic volume,
+V(P). Solid lines in Fig. 7 represent fits of the V(P) data for the α
+and ω phases by the use of an equation of state (EOS) in the form of an
+adapted polynomial expansion previously labeled AP2,[38]
+
+P = 3 ⋅ K₀ ⋅ x⁻⁵ ⋅ (1 − x) ⋅ (1 + c₂x(1 − x)) ⋅ e^(c₀(1 − x)).
+
+Here x = (V/V₀)^(1/3), V₀ is the average atomic volume, and K₀ is the
+isothermal bulk modulus, both at ambient pressure. Model constant
+$c_{0}\!=\!-\!\ln(3\cdot K_{0}/P_{\rm FG_{0}})$ compares K₀ with the
+pressure of a Fermi gas, $P_{\rm FG_{0}}\!=\!a_{\rm FG}(Z/V_{0})^{5/3}$,
+for the average electron density, Z/V₀, where Z stands for the average
+number of electrons per atom and $a_{\rm FG}\!=\!23.37\cdot 10^{12}$
+GPa⋅mp⁵ is a universal constant. For regular solids c₂ is a small
+correction related to K₀^(′) = 3 + (2/3)(c₀ + c₂). This EOS is favored
+here because it includes the correct asymptotic behavior under very
+strong compression. A detailed discussion of the advantages of the AP2
+form has been given elsewhere.[38]
+
+The average atomic volumes of the α- and ω-TiZr phases at atmospheric
+pressure have been determined previously:[28]V_(0α) = 20.539 ⋅ 10⁶ pm³
+and V_(0α) = 20.231 ⋅ 10⁶ pm³. Values for K₀ and K₀^(′) from the present
+AP2 fitting are listed in Table I. For the present moderate ranges in
+pressure, the choice of the EOS form does not affect noticeably the
+values of K₀ and K₀^(′), which allows comparing the present data with
+previous values for pure Ti and Zr metals although different EOS forms
+had been used in these data evaluations. A remarkable feature of all
+these evaluations are very low values of the pressure derivative of the
+bulk modulus, K₀^(′), for all the phases involved.
+
+The volume decrease at the α − ω transition in the TiZr alloy at 11 GPa
+is found to be ΔV = 0.44 ⋅ 10⁶ pm³/atom or ΔV/V_(0α) = 2.1
+
+Figure 6: Effect of pressure on the TiZr lattice parameters. Data from
+the first experiment are plotted as solid (compression) and open
+(decompression) circles, diamonds are for the second experiment. Solid
+lines are guides to the eye. The data at ambient pressure are taken from
+Ref. [28].
+
+Figure 7: Effect of pressure on the atomic volumes of the α, ω, and β
+phases of TiZr. Solid lines represent the fitted EOS for the α and ω
+phases. The experimental data for the ω phase are given by solid circles
+for compression and open circles for decompression in the first series
+and by diamonds for the second series. The α phase is represented by
+downward triangles in the first series and by upward triangles in the
+second series; squares are for the β phase in the second series. The
+data at ambient pressure are taken from Ref. [28].
+
+volume decrease at the ω − β transition is very small compared to the
+values reported for pure Zr and pure Hf, as shown in Table 2.
+
+## IV Discussion
+
+The strongly reduced value of ΔV/V for the ω − β transition in TiZr with
+respect to pure Zr is a remarkable feature. This implies that further
+increase in the Ti content can result in the opposite sign of the volume
+effect. In other words, one expects that the ω − β transition pressure
+rapidly increases with increasing Ti content, and this trend gives also
+a thermodynamic reason for the observation of a different transition,
+ω − γ, with ΔV/V =  − 1.6%[17, 18, 19] in pure titanium.
+
+Another remarkable feature is presented as very low values for the
+pressure derivative of the bulk modulus, K₀^(′), for all phases of the
+group IV metals in Table 1 (with the exception of the value for α-Ti
+which seems doubtful). This observation was made earlier [39] and
+related there to the pressure-induced s → d electron transfer at the
+beginning of the transition metal series compared to the middle of the
+transition metal series where K₀^(′) ≈ 5. The data in Table 1 indicate
+therefore that the s → d electron transfer in the group IV metals is not
+only responsible for the structural transitions, but also for the
+anomalies in the EOS shown by the K₀^(′) values. The change in the
+d-band occupancy at the structural transitions should therefore be
+small, much less than one electron per atom, explaining also the
+relatively small values for the volume decrease at these phase
+transitions. There are some theoretical estimates (e.g., Ref. [8]) that
+the bcc structure becomes stable in the early transition metals when the
+total number of the valence electrons per atom, z, becomes larger than
+4.2, or the number of the d-electrons becomes N_(d)  > 2.2. These
+theoretical numbers correlate with the experimental observation that the
+bcc solid solutions are stable in many group IV−V metal alloys at normal
+pressure when the concentration of the group V metal becomes larger than
+about 25
+
+Superconducting transition temperatures as well as many other electronic
+properties and their systematics in the Periodic Table are commonly
+discussed in the framework of the empirical rigid band models related to
+the Matthias rule. [22, 32, 31] The basic idea is that the metallic
+properties depend on the electronic density of the states at the Fermi
+level, N_(F), and its dependence on the total concentration of the
+valence electrons, z, with the assumption that the N_(F)(z) curve is the
+same for all metals with the same [22, 31] or even different [23]
+crystal structures in each metal series of the Periodic Table. The
+experimental and theoretical high-pressure data presently available show
+deviations from this simple rule. Theoretical determinations of the
+electronic density-of-states (DOS) spectra for three Zr phases at
+different pressures [11] indicate that the relative positions of the s-
+and d-bands and the shapes of the DOS curves are pressure-dependent. The
+total number of the valence electrons cannot change at the phase
+transitions in the group IV metals and alloys, but T_(c) can increase by
+an order of magnitude in the experimental pressure range. There is a
+strong concentration dependence of T_(c) in the β-Ti₂Zr_(1 − x) alloys
+at a constant pressure [30] as in many group IV−V metal alloys, but z
+has the same value for any concentration in the Ti−Zr alloys.
+Furthermore, the T_(c) pressure dependence, dT_(c)/dP, above the ω − β
+transition is also concentration dependent. [30] These observations are
+not consistent with the Matthias rule but can be readily understood if
+one admits that the electronic and structural properties of the
+transition metals are primarily dependent on the number of d-electrons,
+N_(d), and not so closely related to the total number of valence
+electrons, z.
+
+## V Conclusions
+
+The present structural study on the equiatomic TiZr alloy under high
+pressure confirms the expected α → ω − β structural sequence with
+average forward transition pressures of about 11 and 52 GPa,
+respectively. The volume decrease at the ω − β transition in TiZr is
+small compared to this value for Zr, which relates well to the
+observation that this transi
+
+  Transition    Metal    ΔV/V (%)    P_(w) (GPa)    Ref.
+  ------------ ------- ------------ ------------- ---------
+                 Ti     1.4 to 1.7       2.0         24
+  α − ω          Zr        2.3           2.2         24
+                 Hf        0.54          38           5
+  α → ω          Ti        1.9            9          19
+                TiZr       2.1         11± 1.5     present
+  ω − β          Zr        1.6           30           1
+                 Hf        2.1           71           5
+  ω − β          Zr        1.8           33           3
+                TiZr       0.3        43 to 57     present
+  ω − γ          Ti        1.6           116         19
+  ω − γ          Ti        1.6           128        17,18
+  γ → δ          Ti        1.4           140        17,18
+
+Table 2: Volume decrease and transition pressures, P_(w), for the group
+IV metals together with the present data for TiZr. Arrows represent
+values for the forward transitions only.
+
+            V₀ (10⁶ pm³)   K₀ (GPa)   K₀^(′)    Ref.
+  -------- -------------- ---------- -------- ---------
+  α-Ti         17.735        102       9.1       19
+  α-TiZr       20.539       148(3)    3.8(2)   Present
+  ω-Ti         17.37         142       2.3       19
+  ω-Ti         17.37        123.1      3.2      17,18
+  ω-TiZr       20.231       146(3)    1.7(2)   Present
+  ω-Zr           ⋯           104       2.1        1
+  ω-Zr          22.7         121       1.7        3
+  β-Zr          18.0         201       0.8        3
+  γ-Ti         17.05         152       2.0       19
+
+Table 1: Atomic volumes, isothermal bulk modulus, K₀, and pressure
+derivatives, K₀^(′), for the α and ω phases of TiZr and the
+corresponding values for elemental Ti and Zr. The numbers in parentheses
+represent standard deviations of the last digit from the fits only. The
+additional uncertainties for the K₀^(′) values due to uncertainties in
+the ruby scale are probably 0.3.
+
+tion may occur in pure Ti only at much higher pressures or not at all.
+The EOS for TiZr is characterized by a low value for the pressure
+derivative of the bulk modulus, K₀^(′) . This softness in the equation
+of state is typical for a pressure-induced s-d electron transfer. The
+transition to the bcc β-TiZr phase is connected with an increase in the
+superconducting transition temperature from 6 to 15 K. The variations in
+the superconducting properties are well understood on the basis of
+pressure-dependent shifts of the Fermi level within the d-band.
+
+###### Acknowledgements.
+
+X-ray studies were performed under Project No. II-96-76. The Russian
+group was supported by the RFBR Grant No. 00-02-17562 and by the RAS
+program "Physics and chemistry of the extreme states of the matter."
+
+## References
+
+* [1] H. Xia, S.J. Duclos, A.L. Ruoff, and Y.K. Vohra, Phys. Rev. Lett.
+**64**, 204 (1990). * [2] H. Xia, A.L. Ruoff, and Y.K. Vohra, Phys. Rev.
+B **44**, 10 374 (1991). * [3] Y. Akahama, M. Kobayashi, and H.
+Kawamura, J. Phys. Soc. Jpn. **60**, 3211 (1991). * [4] Y. Akahama, M.
+Kobayashi, and H. Kawamura, J. Phys. Soc. Jpn. **59**, 3843 (1990). *
+[5] H. Xia, G. Parthasarathy, H. Luo, Y.K. Vohra, and A.L. Ruoff, Phys.
+Rev. B **42**, 6736 (1990). * [6] I.V. Svechkarev and A.S. Panfilov,
+Phys. Status Solidi B **63**, 11 (1974). * [7] J.C. Duthe and D.G.
+Pettifor, Phys. Rev. Lett. **38**, 564 (1977). * [8] H.L. Skriver, Phys.
+Rev. B **31**, 1909 (1985). * [9] M. Sigalas, D.A. Papaconstantopoulos,
+and N.C. Bacalis, Phys. Rev. B **45**, 5777 (1992). * [10] J.S.
+Gyanchandani, S.C. Gupta, S.K. Sikka, and R. Chidambaram, J. Phys.:
+Condens. Matter **2**, 6457 (1990). * [11] R. Ahuja, J.M. Wills, B.
+Johansson, and O. Eriksson, Phys. Rev. B **48**, 16 269 (1993). * [12]
+S.A. Ostanin and V.Yu. Trubitsin, Phys. Rev. B **57**, 13 485 (1998). *
+[13] K.D. Joshi, G. Jyoti, S.C. Gupta, and S.K. Sikka, J. Phys.:
+Condens. Matter **14**, 10921 (2002). * [14] V.A. Zilbershtein, N.P.
+Chistotina, A.A. Zharov, N.S. Grishina, and E.I. Estrin, Fiz. Met.
+Metalloved. **39**, 445 (1975). * [15] Y. Akahama, M. Kobayashi, and H.
+Kawamura, High Press. Res. **10**, 711 (1992). * [16] I.O. Bashkin, M.V.
+Nefedova, and V.G. Tissen, Phys. Solid State **42**, 11 (2000). * [17]
+Y. Akahama, H. Kawamura, and T. LeBihan, J. Phys.: Condens. Matter
+**14**, 10583 (2002). * [18] Y. Akahama, H. Kawamura, and T. Le Bihan,
+Phys. Rev. Lett. **87**, 275503 (2001). * [19] Y.K. Vohra and P.T.
+Spencer, Phys. Rev. Lett. **86**, 3068 (2001). * [20] J. S.
+Gyanchandani, S. K. Sikka, and R. Chidambaram, in _Proceedings of the
+International Conference on High Pressure Science and Technology,
+Bangalore, 1991_ (Oxford, New Delhi, 1992), p. 331. * [21] K.D. Joshi,
+G. Jyoti, S.C. Gupta, and S.K. Sikka, Phys. Rev. B **65**, 052106
+(2002). * [22] G. Gladstone, M. A. Jensen, and J. R. Schrieffer,
+_Superconductivity in the Transition Metals: Theory and Experiment, in
+Superconductivity_, edited by R. D. Parks (Marcel Dekker, New York,
+1969). * [23] A.R. Miedema, J. Phys. F: Met. Phys. **4**, 120 (1974). *
+[24] E. Yu. Tonkov, _High Pressure Phase Transformations_ (Gordon and
+Breach, Philadelphia, 1992) Vol. 2, pp. 682, 691. * [25] F. P. Bundy, in
+_New Materials and Methods for Investigation of Metals and Alloys_
+(Metallurgia, Moscow, 1966), p. 230; G. E. Research Laboratory Report
+No. 63-RL-3481C, October 1963, USA. * [26] A. Jayaraman, W. Klement, and
+G.C. Kennedy, Phys. Rev. **131**, 644 (1963). * [27] M. Hansen and K.
+Anderko, _Constitution of Binary Alloys_ (McGraw-Hill, New York, 1958),
+Vol. 2; F. A. Shunk, _Constitution of Binary Alloys, Second Supplement_
+(McGraw-Hill, New York, 1967). * [28] I.O. Bashkin, A.Yu. Pagnuev, A.F.
+Gurov, V.K. Fedotov, G.E. Abrosimova, and E.G. Ponyatovskii, Phys. Solid
+State **42**, 170 (2000). * [29] V.V. Aksenenkov, V.D. Blank, B.A.
+Kulnitskii, and E.I. Estrin, Fiz. Met. Metalloved. **69**, 154 (1990). *
+[30] I.O. Bashkin, V.G. Tissen, M.V. Nefedova, A. Schiwek, W.B.
+Holzapfel, and E.G. Ponyatovsky, JETP Lett. **73**, 75 (2001). * [31] E.
+M. Savitskii, Yu. V. Efimov, N. D. Kozlova, B. P. Mihailov, L. F.
+Myzenkova, and E. D. Doronkin, _Superconducting Materials_ (Metallurgia,
+Moscow, 1976). * [32] J.W. Otto, Nucl. Instrum. Methods Phys. Res. A
+**384**, 552 (1996). * [33] K. Syassen and W.B. Holzapfel, Europhys.
+Conf. Abstr. **1A**, 75 (1975). * [34] W. B. Holzapfel, in _High
+Pressure Chemistry_, edited by H. Kelm (Reidel, Boston, 1978), p. 177. *
+[35] R.A. Forman, G.J. Piermarini, J.D. Barnett, and S. Block, Science
+**176**, 284 (1972); G.J. Piermarini, S. Block, and J.D. Barnett, J.
+Appl. Phys. **44**, 5377 (1973). * [36] H.K. Mao, P.M. Bell, J.W.
+Shaner, and D.J. Steinberg, J. Appl. Phys. **49**, 3276 (1978). * [37]
+M. Ishizuka, M. Iketani, and S. Endo, Phys. Rev. B **61**, R3823
+(2000). * [38] W.B. Holzapfel, Z. Kristallogr. **216**, 473 (2001). *
+[39] Y.K. Vohra, S.K. Sikka, and W.B. Holzapfel, J. Phys. F: Met. Phys.
+**13**, L107 (1983).

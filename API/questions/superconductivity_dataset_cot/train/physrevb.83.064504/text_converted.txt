@@ -1,0 +1,439 @@
+# Superconductivity and non-Fermi-liquid behavior of Ce₂PdIn₈
+
+V. H. Tran,¹ D. Kaczorowski,¹ R. T. Khan,² and E. Bauer²
+
+¹Institute of Low Temperature and Structure Research, Polish Academy of
+Sciences, P. O. Box 1410, PL-50-950 Wroclaw, Poland
+
+²Institute of Solid State Physics, Vienna University of Technology,
+A-1040 Wien, Austria
+
+###### Abstract
+
+The electrical resistivity of the heavy fermion superconductor Ce₂PdIn₈
+was measured in magnetic fields up to 12 T and under hydrostatic
+pressures up to 21 kbar. At zero field, the low-temperature electrical
+resistivity in the normal state exhibits a power-law behavior
+ρ₀ + AT^(n) with n < 2. In this non-Fermi-liquid regime, both the
+superconducting temperature T_(c) and the coefficient A decrease with
+increasing pressure, while the exponent n and the resistivity maximum at
+$T_{\rm max}$ increase. The findings indicate a destabilization of the
+superconducting state via increasing hybridization strength between the
+4f and conduction electrons. In concert, enlargement of the f-band width
+at the Fermi level results in a decrease of the density of states
+N(E_(F)). Application of magnetic fields recovers the Fermi-liquid state
+at H_(c2), at which both A and ρ₀ show a tendency to diverge. The data
+obtained indicate that any change in the Kondo interaction strength in
+Ce₂PdIn₈ by applied pressure or quenching spin fluctuations by external
+magnetic fields results in pushing away the system from the
+non-Fermi-liquid regime concomitantly with the destruction of the
+superconducting state. These new results support a scenario in which the
+superconductivity in Ce₂PdIn₈ is driven by antiferromagnetic spin
+fluctuations in the vicinity of an underlying quantum critical point.
+
+pacs: 10.1103/PhysRevB.83.064504 + Footnote †: preprint: PHYSICAL REVIEW
+B **83**, 064504 (2011)
+
+## I Introduction
+
+In metallic cerium compounds, the competition between the
+Ruderman-Kittel-Kasuya-Yosida (RKKY) interaction and the Kondo effect is
+usually assumed to be responsible for a variety of physical phenomena.
+This concept was discussed a long time ago by Doniach,¹ in terms of the
+function |J N(E_(F))|, where |J| is the magnitude of the magnetic
+exchange interaction and N(E_(F)) is the electronic density of states at
+the Fermi energy E_(F). When the RKKY interaction dominates over the
+Kondo effect, real systems show magnetic order. In the opposite
+situation, nonmagnetic ground states are found. Between these two
+extreme situations, there exists a critical region, where exotic
+phenomena such as a heavy fermion (HF) behavior, non-Fermi-liquid (nFL)
+features, or a quantum critical point (QCP) are expected to occur.² ⁻ ⁴
+Several experiments have proved that on approaching the critical region
+from the magnetically ordered side, superconductivity may appear.⁵ ⁻ ⁸
+This type of superconductivity is not very well understood because it
+coexists with weak magnetism or situates near QCPs, suggesting new
+pairing mechanisms, different from the BCS electron-phonon attraction.
+
+Recently, the intermetallic compound Ce₂PdIn₈ was found to exhibit a
+superconducting transition at T_(c) = 0.7 K.⁹ ⁻ ¹³ Measurements of the
+bulk properties of polycrystalline and single-crystalline samples
+yielded the upper critical field H_(c2)(0) ≈ 2.5 and 4.8 T,
+respectively. Similarly, the Ginzburg-Landau coherence length was
+estimated to be ξ ≈ 8.2 and 11.5 nm, respectively, and the magnetic
+penetration depth λ ≈ 170 and 400 nm, respectively. A large ratio
+l/ξ₀ ≈ 8-40 between the mean free path and the BCS coherence length
+indicates that Ce₂PdIn₈ is a clean limit superconductor. Moreover, it
+has been shown that unconventional superconductivity in this material is
+closely associated with the HF properties. The Sommerfeld coefficient
+measured at 0.3 K in a magnetic field of 5 T [i.e., larger than
+H_(c2)(0)] is as large as 500 mJ/K² mol Ce, which yields an effective
+mass of ∼200m₀. Interestingly, just above the onset of the
+superconducting state the physical properties of Ce₂PdIn₈ are typical
+for nFL systems. The compound shows a linear temperature dependence of
+the electrical resistivity ρ(T) ∝ T and a logarithmic dependence of the
+electronic specific heat C/T(T)∝ lnT in a wide temperature
+range.^(9, 12) All these hitherto reported data suggested that Ce₂PdIn₈
+is very similar to the structurally closely related compounds CeCoIn₅,
+CeIrIn₈, and Ce₂CoIn₈.¹⁴ ⁻ ¹⁶ in which superconductivity is believed to
+situear near a QCP. In order to clarify the relationship between
+unconventional superconductivity and the nFL state associated with a
+QCP, it is necessary to investigate the superconducting state and the
+normal state in Ce₂PdIn₈ in more detail.
+
+In this paper we report on the effect of applying hydrostatic pressure,
+P, and magnetic fields, H, on the electrical resistivity of a
+high-quality polycrystalline Ce₂PdIn₈ specimen. Both these external P
+and H parameters were found to result in a decrease of T_(c) and in
+driving the system away from the nFL state. We argue that pressure
+increases J owing to an enhancement in the hybridization strength
+between conduction electrons and f electrons, and simultaneously it
+decreases N(E_(F)) owing to an enlargement of the f-band width at the
+Fermi level. On the other hand, the application of magnetic fields
+H < H_(c2) (for a given value of pressure) yields an enhancement of spin
+fluctuations and thus leads to an increase of the quasiparticle
+effective mass. In stronger fields (above H_(c2)), spin fluctuations
+become suppressed and the low-temperature properties of the compound are
+those of a Fermi liquid. Based on the obtained results we conclude that
+superconductivity in Ce₂PdIn₈ is mediated by antiferromagnetic (AF) spin
+fluctuations associated with an underlying QCP.
+
+## II Experimental
+
+A polycrystalline sample of Ce₂PdIn₈ was prepared by arc melting the
+stoichiometric amounts of high-purity elemental components (Ce-3N, Ames
+Laboratory, Pd-3N, Chempur and In-6N, Chempur). Details on the synthesis
+were given in Ref. [12]. The quality of the product was proved by powder
+x-ray diffraction and microprobe analysis. The derived lattice
+parameters were nearly same as those reported previously.[12] No foreign
+phases were found, in particular, CeIn₃ or metallic In. Moreover, the
+high quality of the studied sample was approved by a rather large value
+of the residual resistivity ratio RRR = 12, notably larger that those
+reported for single crystals.[9, 13]
+
+The electrical resistivity under pressure up to 21 kbar was measured in
+the temperature range 0.3-250 K. The measurements were performed with a
+four-point ac bridge technique and a current of 1 mA. Hydrostatic
+pressure was generated by a piston cylinder cell using Daphne oil as a
+pressure-transmitting medium. In all the measurements, pressure was
+fixed at room temperature and the data were taken on cooling the
+specimen with a rate of 0.5 K/min. High-quality Pb was used as a
+pressure indicator; its superconducting transition width was less than
+30 mK. At selected pressures, transverse magnetoresistance measurements
+were performed in magnetic fields up to 12 T using a ³He cryostat
+equipped with a Cryogenics LTD magnet.
+
+## III Results and discussion
+
+The temperature dependencies of the electrical resistivity of Ce₂PdIn₈
+as measured under various pressures are shown in Fig. 1. Upon
+application of pressure, the room temperature resistivity (RTR)
+initially jumps to a higher value and then its magnitude varies linearly
+with a rate 0.37 μΩ cm/kbar. The behavior observed at 4.5 kbar is likely
+mainly owing to electrical contact sliding inside the pressure cell, yet
+some contribution owing to grain boundaries and other crystal defects is
+also possible. Remarkably, a very similar pressure response was observed
+for CeCoIn₅, where after an initial jump, the RTR also follows a linear
+P dependence with a rate of ≈0.4 μΩ cm/kbar.[17] The linear slope of
+RTR(P) revealed for the two indices is rather small [it may be compared,
+e.g., with those reported for CeCu₂Si₂ (2.8 μΩ cm/kbar) (Ref. [18]) and
+CePtSi (1.6 μΩ cm/kbar) (Ref. [19]), which indicates that in both
+compounds the phonon contribution to the resistivity is hardly affected
+by pressure.
+
+An inspection of the ρ(T, P) curves shows that the data taken at 1 bar
+are very similar to those previously reported for ambient pressure.[12]
+It exhibits a maximum at $T_{\rm max}$, which is a feature
+characteristic of an interplay between Kondo and crystalline
+electric-field interactions. Above $T_{\rm max}$, ρ(T) varies as −ln T
+owing to incoherent Kondo scattering of the conduction electrons, while
+below $T_{\rm max}$ a rapid decrease of the resistivity with decreasing
+temperature occurs owing to the onset of coherent scattering of the
+conduction electrons from Kondo centers arranged periodically in the
+crystal lattice. In order to determine precisely the values of
+$T_{\rm max}$ at different pressures, the phonon contribution should be
+subtracted from the measured resistivity. Assuming that the
+high-temperature phonon scattering is given by
+$\rho_{\rm ph}=c_{\rm ph}T$ and the incoherent Kondo scattering follows
+the function ρ_(K) = −c_(K)ln T, the high-temperature resistivity data
+can be described by
+
+$$\rho(T)=\rho_{0}+\rho_{\infty}+\rho_{\rm ph}+\rho_{K},$$
+(1)
+
+where ρ₀ and ρ_(∞) are the resistivity terms owing to scattering the
+conduction electrons on static defects in the crystal lattice and on
+disordered magnetic moments, respectively. As an example, a
+least-squares fit of Eq. (1) to the experimental data taken at 1 bar is
+depicted in Fig. 1 by the solid line. A similarly good description of
+the high-temperature resistivity in terms of Eq. (1) was obtained for
+the other pressures, hence supporting the presence of the Kondo
+interaction in the compound studied. Shown in the inset to Fig. 1 is the
+nonphononic contribution to the resistivity ρ(T)-$\rho_{\rm ph}$.
+Apparently, with increasing pressure the $T_{\rm max}$ value
+systematically shifts to higher temperatures. In the pressure range
+studied, $T_{\rm max}$ is ∼25 K at 1 bar and increases linearly with a
+rate $dT_{\rm max}/dP=1.8$ K/kbar, reaching ∼62 K at 21 kbar [see Fig.
+2(a)]. This behavior is similar to that reported for the CeTeIn₅
+superconductors, which also exhibit a maximum in ρ(T).[16, 17, 20, 21]
+For example, in CeCoIn₅$T_{\rm max}\approx 50$ K (ambient pressure)
+changes with a rate of ∼2.8 K/kbar.[17] In turn, in CeRhIn₅,
+$T_{\rm max}\approx 23.5$ K was observed at 13.5 kbar, and for higher
+pressures this maximum shifts to higher temperatures with the rate
+$dT_{\rm max}/dP=1$ K/kbar.[20] For all these compounds, $T_{\rm max}$
+corresponds to the coherence temperature $T_{\rm coh}$.[22] An increase
+of $T_{\rm coh}$ upon applying pressure is naturally expected in cerium
+compounds because pressure leads to an enhancement of the hybridization
+between the conduction electrons and the f electrons (represented by J),
+and simultaneously results in an enlargement of the f-band width. The
+latter causes a reduction of the density of states at the Fermi level
+N(E_(F)). Thus, it seems fully justified presuming that a very similar
+pressure response occurs in the closely related middle Ce₂PdIn₈.
+
+Application of hydrostatic pressure remarkably influences the position
+of $T_{\rm max}$ but causes a rather weak change in the Kondo term
+represented by the resistivity slope c_(K) = −dρ(T)/dln T [see Fig.
+2(b)]. Within the model developed by Cornut and Coqblin,[23] the
+parameter c_(K) characterizes the Kondo interaction strength and depends
+on |J³N(E_(F))²|. The decrease of the parameter c_(K) indicates that
+|J³N(E_(F))²| decreases with pressure. Considering the pressure
+dependence of $T_{\rm max}$ and c_(K), one may conclude that N(E_(F))
+strongly diminishes with increasing pressure.
+
+Figure 1: (Color online) Electrical resistivity of Ce₂PdIn₈ as a
+function of temperature under several hydrostatic pressures up to 21
+kbar. The solid line is a fit of the data to Eq. (1). The inset
+represents the resistivity at approximately $T_{\rm max}$.
+
+The pressure dependence of the superconducting transition in Ce₂PdIn₈ is
+shown in Fig. 2(c). At 1 bar T_(c) is equal to 0.7 K, in agreement with
+the previous report,[9; 12] and decreases with increasing pressure. For
+pressures higher than 16 kbar, the onset of superconductivity is not
+observed anymore above 0.35 K. A rough extrapolation of the T_(c) data
+suggests that superconductivity vanishes at P ∼ 21 kbar. It is
+worthwhile noting that the pressure dependence of T_(c) in Ce₂PdIn₈
+remarkably differs from those of CeCoIn₈ and CeRhIn₅. For the latter
+compounds, a superconducting dome in the T-P phase diagram was observed,
+in which T_(c) achieves its maximum value at a critical pressure P^(*)
+of ∼13 kbar (Ref. [24]) and 23 kbar,[25] respectively. It was also shown
+that P^(*) separates two distinct regimes, namely, (i) nFL
+characteristics up to P^(*) and (ii) Fermi-liquid-like properties above
+P^(*).[24] In the case of Ce₂PdIn₈, as discussed below, the Fermi-liquid
+state has not been observed in the pressure range studied, and
+superconductivity develops only from the nFL state.
+
+Figure 3 displays the low-temperature electrical resistivity of
+Ce₂PdIn₈. Remarkably, the resistivity measured just above T_(c) shows no
+T²-dependence characteristic of the Fermi-liquid state. Instead, ρ(T)
+exhibits a power-law T^(n) dependence with n < 2, which is usually
+considered as a fingerprint of a nFL state. A possible origin of this
+behavior is scattering of conduction electrons on two-dimensional
+antiferromagnetic quantum fluctuations.[26] Results of least-squares
+fits of ρ(T) = ρ₀ + AT^(n) in the temperature range T_(c) − 5 K are
+shown in Fig. 3 as solid lines. Values of the residual resistivity ρ₀,
+the exponent n, and the coefficient A are presented in Fig. 4. For the
+pressure range studied, n was found to increase from 1 at ambient
+pressure to 1.3 at 21 kbar. Previously, similar power-law exponents were
+found in magnetic heavy-fermion systems, tuned by pressure to
+superconductivity,[5] in CeTIn₈ compounds[27] and in high-T_(c)
+cuprates.[28] Remarkably, both n and ρ₀ start to increase at P ∼ 21
+kbar, coinciding with the suppression of superconductivity near this
+value of pressure [cf. Fig. 2(c)]. This hints to a superconducting state
+in Ce₂PdIn₈ being directly related to a quantum critical behavior.
+
+As is apparent from Fig. 4, the coefficient A rapidly decreases with
+increasing pressure, from 4.7 μΩ cm/K at 1 bar down to 0.6 μΩ cm/K^(1.3)
+at 21 kbar. In a number of heavy-fermion compounds, the prefactor A in
+ρ(T) = ρ₀ + AT² is
+
+Figure 4: (Color online) Pressure dependencies of the exponent n
+(left-hand scale), the residual resistivity ρ₀ (right-hand scale), and
+the resistivity prefactor A (bottom). The dashed lines serve as a guide
+to the eye. The inset shows the relationship between A⁻¹ and
+$T_{\rm max}$. The data of CeCoIn₈ are taken from Refs. [17; 24]. The
+solid lines emphasize a linear dependence of ln(A⁻¹) vs $T_{\rm max}$.
+
+Figure 3: (Color online) The electrical resistivity under pressures near
+the superconducting transition. The solid lines represent the fits of
+the equation ρ(T) = ρ₀ + AT^(n).
+
+proportional to the square of the electronic specific heat γ (A ∝ γ²)
+and it is also proportional to the inverse of the square of Kondo
+temperature (A ∝ T_(K)⁻²).[29] For nFL systems, no similar relationships
+between A, γ, and T_(K) have been worked out yet. Nevertheless, the
+experimental data derived for CeCoIn₅ seem to indicate a proportionality
+between A and γ derived in the nFL regime.[24] A similar relationship
+likely holds for Ce₂PdIn₈ for which a clear reduction of N(E_(F)) with
+increasing pressure was observed (see above). In the inset to Fig. 4,
+the values of A⁻¹ are plotted as a function of $T_{\rm max}$ determined
+from the high-temperature resistivity data. Clearly, a proportionality
+$\ln(A^{-1})\sim T_{\rm max}$ is observed for the entire pressure range
+studied. Moreover, a similar relationship is observed also for CeCoIn₅.
+It seems quite remarkable that the coefficient A in both nFL compounds
+correlates with $T_{\rm max}$, which can be associated with the
+coherence temperature $T_{\rm coh}$ (see above), rather than showing any
+straight correlation with T_(K) that is a single-ion Kondo temperature
+in Fermi-liquid systems. This unique type of scaling should be tested
+for other nFL systems.
+
+For several hydrostatic pressures, the electrical resistivity of
+Ce₂PdIn₈ was measured in magnetic fields up to 12 T, and applied
+perpendicular to the electrical current (transverse magnetoresistance).
+As an example, Fig. 5 presents the data collected at 1 bar; similar
+results were obtained at higher pressures. The resistivity maximum at
+$T_{\rm max}$ was found to be hardly field dependent for fields μ₀H < 3
+T. However, above 3 T the maximum in ρ(T) shifts toward lower
+temperatures with increasing field strength [see Fig. 5(a)]. This
+behavior can be rationalized as suppression of spin fluctuations by the
+magnetic field, which manifests itself in a gradual reduction of the
+coherence temperature $T_{\rm coh}\approx T_{\rm max}$. When comparing
+the normal-state resistivity of Ce₂PdIn₈ measured in fields above [Fig.
+5(b)] and below [Fig. 5(c)] μ₀H_(c2) ≈ 2.5 T, one recognizes a drastic
+change in the slope dρ(T)/dT when the applied field is tuned through
+H_(c2). Below H_(c2), the normal-state resistivity can only be
+represented by the aforementioned nFL function ρ(T) = ρ₀ + AT. In
+contrast, ρ(T) measured in fields above H_(c2) can be described by the
+power law ρ ∼ AT² in the temperature range $0.3-T_{\rm FL}$, where
+$T_{\rm FL}$ increases with rising field strength. The observation of a
+T² dependence of the resistivity indicates that the Fermi-liquid ground
+state in Ce₂PdIn₈ is recovered by application of strong enough magnetic
+fields. Figure 6 summarizes the field-dependent values of n, A, and ρ₀.
+Apparently, all these parameters exhibit anomalies near H_(c2), namely,
+n jumps to n = 2, A shows a maximum, while ρ₀(H) goes through a minimum.
+All these findings corroborate the scenario of AF spin fluctuations
+associated with a QCP, which govern the behavior of Ce₂PdIn₈ close to
+H_(c2). Below the critical field, spin fluctuations become enhanced on
+approaching the AF QCP, whereas above H_(c2) they are gradually
+suppressed by field.
+
+The magnetic-field and hydrostatic pressure dependencies of T_(c) and
+$T_{\rm FL}$ allow constructing a P-H-T phase diagram shown in Fig. 7.
+At 1 bar, the upper critical field H_(c2)(0), taken as the value
+extrapolated to zero temperature, is ∼2.5 T. The initial slope of the
+upper critical field at T_(c), −μ₀dH_(c2)/dT, amounts to 16(1) T/K. The
+coherence length can be estimated as ξ ≈ 10.5 nm by using the relation
+H_(c2) = Φ₀/2πξ², where Φ₀ is a quantum flux. Similarly, from the data
+measured at 4.5 kbar, one obtains the characteristic superconducting
+
+Figure 5: (Color online) Temperature variations of the electrical
+resistivity of Ce₂PdIn₈ measured at ambient pressure in various applied
+magnetic fields. (a) The data around the resistivity maximum at
+$T_{\rm max}$ (denoted by the arrows). (b) Low-temperature data taken in
+H > H_(c2). The solid lines indicate a AT² dependence below the
+Fermi-liquid temperature $T_{\rm FL}$ (denoted by the arrow). (c)
+Low-temperature data taken in H < H_(c2).
+
+Figure 6: (Color online) Field dependencies of the exponent n, the
+coefficient A, and the residual resistivity ρ₀ obtained from the fits of
+the equation ρ(T) = ρ₀ + AT^(*) to the low-temperature resistivity data.
+
+parameters, μ₀H_(c2) = 2.2 T, −dμ₀H_(c2)/dT = 15(1) T/K, and ξ ≈ 12.2
+nm, while those derived from the the 9(1) kbar data are μ₀H_(c2) = 1.8
+T, −dμ₀H_(c2)/dT = 9.5 T/K and ξ ≈ 13.5 nm. In terms of clean
+superconductors,[30; 31] the initial slope is related to the effective
+mass of the superconducting carriers as −d H_(c2)/dT ∝ (m^(*))²T_(c).
+Hence, the observed change in the values of −dH_(c2)/dT with increasing
+pressure indicates that m^(*) is likely at its maximum at pressures
+below 4.5 kbar.
+
+Finally, we should emphasize that there exists a distinct difference in
+the values of μ₀H_(c2) obtained for single-crystalline[9] and
+polycrystalline samples of Ce₂PdIn₈. This is an indication of strongly
+anisotropic properties of the investigated compound. For that reason the
+absolute values of the transport coefficients (e.g., A, c_(K), ρ₀)
+derived from the data obtained on polycrystalline material must be taken
+with appropriate caution. However, the pressure and magnetic-field
+dependencies of these quantities, demonstrated in this work, are
+believed to represent the actual behavior of the compound studied.
+
+## IV Summary
+
+The temperature-dependent electrical resistivity of a good-quality
+polycrystalline sample Ce₂PdIn₈ obtained in magnetic fields up to 12 T
+and under hydrostatic pressures up to 21 kbar indicate that
+heavy-fermion superconductivity in this compound emerges from a nFL
+normal state. Application of pressure and/or sufficiently strong
+magnetic fields results in a suppression of superconductivity and
+simultaneously pushes the system away from the nFL state. In the
+pressure range available there is no evidence of a Fermi-liquid behavior
+nor of any long-range magnetic ordering. A Fermi-liquid state, however,
+is recovered in magnetic fields above the critical field μ₀H_(c2), which
+seems to be a quantum critical point. The pressure and field
+dependencies of the resistivity suggest that superconductivity in
+Ce₂PdIn₈ is likely mediated by the AF spin fluctuations in the very
+proximity of an avoided quantum critical phase transition.
+
+###### Acknowledgements.
+
+The authors are grateful to Dr. Daniel Gnida for his assistance in
+preparing the specimens for resistivity measurements. The work by D.K.
+was supported by Ministry of Science and Higher Education (Poland) under
+research Grant No. N N202 130739. Two of us (R.T.K. and E.B.) were
+supported by the Austrian FWF, P22295.
+
+## References
+
+* [1] S. Doniach, Physica B **91**, 231 (1977). * [2] A. J. Millis,
+Phys. Rev. B **48**, 7183 (1993). * [3] T. Moriya and T. Takimoto, J.
+Phys. Soc. Jpn. **64**, 960 (1995). * [4] E. Miranda, V. Dobrosavljevic,
+and G. Kotlia, J. Phys. Condens. Matter **8**, 9871 (1996). * [5] N. D.
+Mathur, F. M. Grosche, S. R. Julian, I. R. Walker, D. M. Freye, R. K. W.
+Haselwimmer, and G. G. Lonzarich, Nature (London) **394**, 39 (1998). *
+[6] S. Kawasaki, T. Mito, G.-q. Zheng, C. Thessieu, Y. Kawasaki, K.
+Ishida, Y. Kitaoka, T. Muramatsu, T. C. Kobayashi, D. Aoki, S. Araki, Y.
+Haga, R. Settai, and Y. Onuki, Phys. Rev. B **65**, 020504(R) (2001). *
+[7] G. Knebel, M.-A. Measson, B. Salce, D. Aoki, D. Braithwaite, J. P.
+Brison, and J. Flouquet, J. Phys. Condens. Matter **16**, 8905 (2004). *
+[8] T. Park, F. Ronning, H. Q. Yuan, M. B. Salamon, R. Movshovich, J. L.
+Sarrao, and J. D. Thompson, Nature (London) **440**, 65 (2006). * [9] D.
+Kaczorowski, A. P. Pikul, D. Gnida, and V. H. Tran, Phys. Rev. Lett.
+**103**, 027003 (2009). * [10] K. Uhlifova, J. Prokleska, and V.
+Sechovsky, Phys. Rev. Lett. **104**, 059701 (2010). * [11] D.
+Kaczorowski, A. P. Pikul, D. Gnida, and V. H. Tran, Phys. Rev. Lett.
+**104**, 059702 (2010). * [12] D. Kaczorowski, D. Gnida, A. P. Pikul,
+and V. H. Tran, Solid State Commun. **150**, 411 (2010). * [13] K.
+Uhlifova, J. Prokleska, V. Sechovsky, and S. Danis, Internatell’s
+**18**, 2025 (2010). * [14] C. Petrovic, P. G. Pagliuso, M. F. Hundley,
+R. Movshovich, J. L. Sarrao, J. D. Thompson, Z. Fisk, and P. Monthoux,
+J. Phys. Condens. Matter **13**, L337 (2001). * [15] G. Chen, S. Ohara,
+M. Hedo, Y. Uwatoko, K. Saito, M. Sorai, and I. Sakamoto, J. Phys. Soc.
+Jpn. **71**, 2836 (2002). * [16] C. Petrovic, R. Movshovich, M. Jaime,
+P. G. Pagliuso, M. F. Hundley, J. L. Sarrao, Z. Fisk, and J. D.
+Thompson, Europhys. Lett. **53**, 354 (2001). * [17] M. Nicklas, R.
+Borth, E. Lengyel, P. G. Pagliuso, J. L. Sarrao, V. A. Sidorov, G.
+Sparn, F. Steglich, and J. D. Thompson, J. Phys. Condens. Matter **13**,
+L905 (2001). * [18] B. Bellarbi, A. Benoit, D. Jaccard, J. M. Mignot,
+and H. F. Braun, Phys. Rev. B **30**, 1182 (1984). * [19] H. D. Yang and
+W. H. Lee, Phys. Rev. B **43**, 3664 (1991). * [20] H. Hegger, C.
+Petrovic, E. G. Moshopoulou, M. F. Hundley, J. L. Sarrao, Z. Fisk, and
+J. D. Thompson, Phys. Rev. Lett. **84**, 4986 (2000).
+
+Figure 7: (Color online) _T-P-H_ phase diagram of a polycrystalline
+Ce₂PdIn₈. The closed circles denote T_(c), the squares represent
+$T_{\rm FL}$, and the open circles stand for H_(c2). The dashed and
+dotted lines serve as a guide for the eye. The solid curve is a
+hypothetical QCP line.
+
+* (21) H. Shishido, R. Settai, D. Aoki, S. Ikeda, H. Nakawaki, N.
+Nakamura, T. Iizuka, Y. Inada, K. Sugiyama, T. Takeuchi, K. Kindo, T. C.
+Kobayashi, Y. Haga, H. Harima, Y. Aoki, T. Namiki, H. Sato, and Y.
+Onuki, J. Phys. Soc. Jpn. **71**, 162 (2002). * (22) Y. Nakajima, H.
+Shishido, H. Nakai, T. Shibauchi, K. Behnia, K. Izawa, M. Hedo, Y.
+Uwatoko, T. Matsumoto, R. Settai, U. Onuki, H. Kontani, and Y. Matsuda,
+J. Phys. Soc. Jpn. **76**, 024703 (2007). * (23) B. Cornut and B.
+Coqblin, Phys. Rev. B **5**, 4541 (1972). * (24) V. A. Sidorov, M.
+Nicklas, P. G. Pagliuso, J. L. Sarrao, Y. Bang, A. V. Balatsky, and J.
+D. Thompson, Phys. Rev. Lett. **89**, 157004 (2002). * (25) T.
+Muramatsu, N. Tateiwa, T. C. Kobayashi, K. Shimizu, K. Amaya, D. Aoki,
+H. Shishido, Y. Haga, and Y. Onuki, J. Phys. Soc. Jpn. **70**, 3362
+(2001). * (26) S. Sachdev, _Quantum Phase Transitions_ (Cambridge
+University Press, Cambridge, UK, 1999). * (27) J. D. Thompsona, M.
+Nicklas, A. Bianchi, R. Movshovich, A. Llobet, W. Bao, A. Malinowski, M.
+F. Hundley, N. O. Moreno, P. G. Pagliuso, J. L. Sarrao, S. Nakatsuji, Z.
+Fisk, R. Borth, E. Lengyel, N. Oeschler, G. Sparn, and F. Steglich,
+Physica B **329-333**, 446 (2003). * (28) H. Takagi, B. Batlogg, H. L.
+Kao, J. Kwo, R. J. Cava, J. J. Krajewski, W. F. Peck Jr., Phys. Rev.
+Lett. **69**, 2975 (1992). * (29) A. C. Hewson, _The Kondo Problem to
+Heavy Fermions_ (Cambridge University Press, Cambridge, UK, 1993). *
+(30) N. Werthamer, E. Helfand, and P. Hohenberg, Phys. Rev. **147**, 295
+(1966) * (31) L. N. Bulaevskii, O. V. Dolgov, and M. O. Putsyn, Phys.
+Rev. B **38**, 11290 (1988).

@@ -1,0 +1,245 @@
+Pressure effects on the superconductivity of the HfPd\({}_{2}\)Al Heusler compound: Experimental and theoretical study
+
+B. Wiendlocha
+
+wiendlocha@fis.agh.edu.pl AGH University of Science and Technology, Faculty of Physics and Applied Computer Science, Aleja Mickiewicza 30, 30-059 Krakow, Poland
+
+M. J. Winiarski
+
+Faculty of Applied Physics and Mathematics, Gdansk University of Technology, Naratuwicza 11/12, 80-233 Gdansk, Poland
+
+M. Muras
+
+AGH University of Science and Technology, Faculty of Physics and Applied Computer Science, Aleja Mickiewicza 30, 30-059 Krakow, Poland
+
+C. Zvoriste-Walters
+
+European Commission, Joint Research Centre (JRC), Institute for Transuranium Elements (ITU), Postfach 2340, 76125 Karlsruhe, Germany
+
+J.-C. Griveau
+
+Grupen Commission, Joint Research Centre (JRC), Institute for Transuranium Elements (ITU), Postfach 2340, 76125 Karlsruhe, Germany
+
+S. Heathman
+
+Grupen Commission, Joint Research Centre (JRC), Institute for Transuranium Elements (ITU), Postfach 2340, 76125 Karlsruhe, Germany
+
+M. Gazda
+
+Faculty of Applied Physics and Mathematics, Gdansk University of Technology, Naratuwicza 11/12, 80-233 Gdansk, Poland
+
+T. Klimczuk
+
+tomasz.klimczuk@pg.gda.pl European Commission, Joint Research Centre (JRC), Institute for Transuranium Elements (ITU), Postfach 2340, 76125 Karlsruhe, Germany
+
+###### Abstract
+
+Polycrystalline Hf Pd\({}_{2}\)Al has been synthesized using the arc-melting method and studied under ambient-pressure conditions by x-ray diffraction from room temperature up to 450 degC. High-pressure x-ray diffraction up to 23 GPa was also performed using Diacell-type membrane diamond anvil cells. The estimated linear thermal expansion coefficient was found to be \(\alpha=1.40(3)\times 10^{-5}\) K\({}^{-1}\), and the bulk modulus derived from the fit to the third-order Birch-Mumaghan equation of state is \(B_{0}=97(2)\) GPa. Resistivity studies under applied pressure (\(p\leqslant 7.49\) GPa) showed a linear decrease of superconducting critical temperature with increasing pressure and the slope \(dTc_{c}/dp=-0.13(1)\) K GPa\({}^{-1}\). The same behavior is observed for the electron-phonon coupling constant \(\lambda_{\rm ep}(p)\) that changes from 0.67 to 0.6, estimated for \(p=0.05\) and 7.49 GPa, respectively. First-principles electronic structure and phonon calculation results are presented and used to estimate the magnitude of electron-phonon interaction \(\lambda_{\rm ep}\) and its evolution with pressure. Theoretical results explain the experimentally observed decrease in \(Tc\) due to considerable lattice stiffening.
+
+2014 10.1103/PhysRevB.91.024509 2015 15 October 2014; revised manuscript received 23 December 2014; published 16 January 2015
+
+## I Introduction
+
+The Heusler group of alloys, discovered 100 years ago by Friedrich Heusler [1], are well-ordered, ternary intermetallic compounds of general composition \(AT_{2}M\), where \(A\) is generally a transition metal, \(T\) is a transition metal from group VIIIB-IB, and \(M\) is typically a \(sp\) metal or metalloid (Sb, Bi). A prototype material of this group, MnCu\({}_{2}\)Al, was the first ferromagnetic alloy not to contain any ferromagnetic elements. More than 100 Heusler alloys are known to date [2], showing a variety of interesting physical properties, such as shape memory effect [3, 4], magnetic ordering [5, 6], half-metallic ferromagnetism [7], or heavy fermion behavior [8, 9, 10, 11, 12], which makes them an interesting group of materials for research and applications. There are also nearly 30 known Heusler superconductors with critical temperatures in the range of a few kelvins [2, 13, 14, 15, 16, 17, 18, 19, 20], most of them having rare-earth atoms in the \(A\) position [7]. In two of them, YbPd\({}_{2}\)Sn [16] and ErPd\({}_{2}\)Sn [18], superconductivity and magnetic ordering (antiferromagnetism) coexist. Therefore, Heusler alloys belong to a rare class of materials bridging superconducting and magnetically ordered compounds.
+
+In this paper we present studies on the pressure dependence of the critical temperature in HfPd\({}_{2}\)Al, which were inspired by a previous finding that in cubic Heusler phase series Hf Pd\({}_{2}\)Al, Hf Pd\({}_{2}\)In, ZrPd\({}_{2}\)Al, and ZrPd\({}_{2}\)In [(Hf, Zr)Pd\({}_{2}\)(In, Al)] the critical temperature increases with decreasing lattice parameter \(a\). Another studied family of compounds, YPd\({}_{2}\)Sn, LuPd\({}_{2}\)Sn, and ScPd\({}_{2}\)Sn [(Y, Lu, Sc)Pd\({}_{2}\)Sn], showed inverse behavior--\(Tc\) increased with increasing \(a\) (Ref. [2]). Pressure effects on superconductivity were previously studied in _RE_Pd\({}_{2}\)(Sn, Pb) alloys (\(RE\) = Sc, Y, Tm, Yb, and Lu) and revealed linear decreases of \(Tc\) with applied pressure [15]. Negative change under pressure (\(dTc_{c}/dp<0\)) was also observed in other groups of superconductors (see, e.g., Ref. [21]).
+
+The goal of this study was to check if a further decrease in lattice parameter in group (Hf, Zr)Pd\({}_{2}\)(In, Al) would lead to higher critical temperatures. The highest \(Tc\) (and the lowest \(a\)) value in this group is reported for HfPd\({}_{2}\)Al (3.7 K) [2], and therefore this compound was chosen for studies under applied pressure.
+
+In order to analyze and better understand the experimental results, theoretical studies were undertaken. Using the density functional theory, electronic structure and phonon calculations were performed, and the magnitude of the electron-phonon coupling (EPC) was studied as a function of external pressure. The theoretical results explain qualitatively well the pressure-induced modifications of the EPC constant \(\lambda_{\rm ep}\) and critical temperature \(Tc\).
+
+## II Methods
+
+Polycrystalline samples of Hf Pd\({}_{2}\)Al were synthesized by arc-melting stoichiometric amounts of the elements (Hf 99.5%, Pd 99.95%, and Al 99.9%, all Afa Aesar) under a zirconium-gettered ultrapure argon atmosphere. As it was pointed out in Ref. [2] the postannealing process for the Hf Pd\({}_{2}\)Al compound worsens superconducting properties, and therefore an as-cast Hf Pd\({}_{2}\)Al sample was studied.
+
+The purity of the product was verified by powder x-ray diffraction (PXRD) using a Philips X\({}^{\prime}\)pert Pro MPD with Cu \(K\alpha\) radiation. The high-temperature PXRD patterns were collected up to 450 degC in air and a lattice parameter for Hf Pd\({}_{2}\)Al at different temperatures was refined by means of the Rietveld method [22] using the fullprof 5.30 program [23]. Above approximately 450 degC the sample oxidized and  therefore collection of the XRD diffraction pattern above this temperature was not continued.
+
+The high-pressure study was performed by means of _in situ_ x-ray diffraction. Pressure was determined using the ruby scale [24] and silicone oil was used as pressure-transmitting medium for all experiments. The sample was loaded into Diacell-type membrane diamond anvil cells (MDACs) with 500-\(\mu\)m culet size using preindented Re gaskets with 200-\(\mu\)m-diameter holes. High-pressure x-ray diffraction was performed using a modified Bruker D8 x-ray diffractometer with focusing mirror optics installed on a molybdenum rotating anode source (Mo\(K\alpha_{1}\)),\(\lambda\) = 0.709 26 A,100 x 100 \(\mu\)m\({}^{2}\), coupled with a Bruker SMART Apex II charged-coupled device (CCD). The MDACs were rotated through a sample angle \(\Delta\Omega\) = \(\pm\)2deg while collecting each diffraction image. The sample to CCD distance and CCD nonorthogonality correction were calibrated using powder diffraction data from a LaB\({}_{6}\) standard and the recorded diffraction images were integrated using the ESRF Ht2d software [25].
+
+A polycrystalline sample of Hf Pd\({}_{2}\)Al was extracted from the batch and polished down to thickness of 20 \(\mu\)m. Average dimensions of the sample were therefore 750 x 100 x 20 \(\mu\)m\({}^{3}\). The electrical resistance of the sample was measured by a four-probe dc technique with the sample and a thin foil of lead used as a manometer [26] held in a pyrophyllite gasket with a solid pressure-transmitting medium of steatite. The external-pressure device was a piston-cylinder system made of nonmagnetic CuBe, with the pressure generated by two 3.5-mm-diameter anvils made of low-magnetic tungsten carbide and sintered diamonds. To avoid any heating effect which would modify the \(T_{c}\) determination the applied current was relatively low (0.5 mA). Pressure was changed at room temperature and quasihydrostatic conditions were observed during the whole experiment.
+
+Electronic structure calculations were performed using the Korringa-Kohn-Rostoker (KKR) method [27]. Using the so-called rigid muffin-tin approximation (RMTA) [28] the electronic part of the EPC constant, i.e., McMillan-Hopfield parameters \(\eta\)[29, 30] for each \(i\) atom in the unit cell were calculated [31]:
+
+\[\eta_{i} = \sum_{l}\frac{(2l+2)n_{l}(E_{F})n_{l+1}(E_{F})}{(2l+1)(2l+3)n(E_{ F})}\] (1) \[\times \left|\int_{0}^{R_{\text{MT}}}r^{2}R_{l}(r)\frac{dV}{dr}\,R_{l+1} dr\right|^{2},\]
+
+where \(l\) is the angular momentum number, \(n_{l}(\text{E}_{\text{F}})\) are \(l\)-decomposed densities of states (DOS) at the Fermi level at atom \(i\), \(n(\text{E}_{\text{F}})\) is the total DOS at \(\text{E}_{\text{F}}\) per primitive cell (DOS are given per spin), \(R_{l}(r)\) are normalized radial wave functions, and \(R_{\text{MT}}\) is the muffin-tin radius (for discussion and examples of application of RMTA see Refs. [30, 31, 32, 33, 34], and references therein). The crystal potential was constructed in the framework of the local density approximation, using the von Barth and Hedin [35] formula for the exchange-correlation part. As required by RMTA, spherical muffin-tin potential was used, and semirelativistic calculation results are presented here. The validity of spherical potential and semirelativistic approximations was verified by comparing the density of states curve to additionally calculated DOS obtained from the full potential full relativistic KKR method [36], and no significant differences were found (e.g., the total DOS at the Fermi level was 34 Ry\({}^{-1}\)/f.u. versus 31 Ry\({}^{-1}\)/f.u. from semirelativistic muffin-tin calculations). The maximal angular momentum \(l_{\text{max}}\) = 4 was set for all the constituent atoms; calculations were done on a dense \(k\)-point mesh (up to 1800 points in the irreducible part of the Brillouin zone). The electronic structure was calculated using the experimental crystal structure and lattice parameters, for several external-pressure values from 0 to 7.5 GPa (i.e., the range where \(T_{c}\) was measured).
+
+Phonon calculations were done using the plane-wave pseudopotential method, as implemented in the quantum espresso package [37]. Projector augmented-wave (PAW) pseudopotentials were used, with the generalized gradient approximation (GGA) exchange-correlation functional of Perdew, Burke, and Ernzerhof (Perdew _et al._[38]). Wave function and charge density cutoffs were set to 48 and 480 Ry, respectively, and a \(k\)-point mesh of 18 x 18 x 18 points in the Brillouin zone was used. The lattice constant relaxation calculations for each pressure were done as a first step, whereby the value for the zero pressure was found to be 6.418 A, in good agreement with the experimental value of 6.367 A (see below). For the optimized unit cells, the interatomic force constants were obtained by Fourier transformation of the dynamical matrices calculated on a 4 x 4 x 4 \(q\)-point grid. The phonon DOS was calculated using the tetrahedron integration method and phonon frequencies recalculated to the 10 x 10 x 10 \(q\)-point mesh. The partial (atomic) phonon DOS were obtained using the qHA package [39].
+
+The combined electronic structure and phonon calculation results were used to calculate the electron-phonon coupling constant \(\lambda_{\text{ep}}\) and the superconducting critical temperature, as a function of external pressure.
+
+## III Results and Discussion
+
+### Experiment
+
+The HfPd\({}_{2}\)Al as-cast sample was first characterized at room temperature using the powder x-ray diffraction (PXRD) technique. The PXRD confirmed a good quality sample with a very small amount (less than 5%) of HfPdAl impurity phase. The fullprof package (Ref. [23]) was used to refine a cubic lattice parameter which at room temperature was determined as \(a\) = 6.3670(4) A, close to the value reported in [2, 40]. PXRD patterns were then collected above room temperature up to 450 degC. The inset of Fig. 1 shows a clear shift of the (422) Bragg peak towards lower angles as the temperature is increased, which is reflected in an increase of the lattice parameter. The thermal expansion in the temperature range 293-723 K is shown in the main panel of Fig. 1. The linear thermal expansion coefficient was found to be \(\alpha\) = 1.40(3) x 10\({}^{-5}\) K\({}^{-1}\), being independent of the temperature in the investigated temperature range. The value is comparable with the result obtained for another Heusler alloy, Ni\({}_{2}\)MnGa (\(\alpha\) = 1.5 x 10\({}^{-5}\) K\({}^{-1}\)) [41].
+
+In addition to the PXRD studies, the high-pressure behavior of Hf Pd\({}_{2}\)Al has been investigated up to 23 GPa by x-ray diffraction as described in Sec. II. The compression data  \(V/V_{0}\) as a function of pressure is shown in Fig. 2. In order to determine the bulk modulus \(B_{0}\) and its pressure derivative (\(B_{0}^{\prime}\)) the data were fitted to the third-order Birch-Murnaghan equation of state (BMEOS) [42],
+
+\[P=3B_{0}f(1+2f)^{5/2}\times\left[1+\tfrac{3}{2}(B^{\prime}_{0}-4)f\right],\] (2)
+
+with \(f=\tfrac{1}{2}[(V_{0}/V)^{2/0}-1]\), which yielded \(B_{0}=97(2)\) GPa and \(B_{0}^{\prime}=8.5(5)\). The extrapolated cell parameter value at ambient conditions (room pressure) was found to be \(6.3712(35)\) A.
+
+Figure 3(a) presents the temperature dependence of the heat capacity divided by temperature (\(C_{p}/T\)) near the superconducting transition. A sharp anomaly at \(T_{c}=3.53\) K confirms the bulk nature of the superconductivity and the good quality of the tested Hf Pd\({}_{2}\)Al sample. The \(T^{2}\) dependence of \(C_{p}/T\), measured at a magnetic field of \(\mu_{0}H=3\) T, which exceeds \(H_{c2}\), is shown in Fig. 3(b). A curve through the data points shows the fit of \(C_{p}/T=\gamma^{\prime}+\beta T^{2}+\delta T^{4}\) in the temperature range 2 K \(<\) T \(<\) 5 K. The fit reveals a Sommerfeld coefficient \(\gamma=7.6(3)\) mJ mol\({}^{-1}\) K\({}^{-2}\) and Debye temperature \(\Theta_{D}=177(3)\) K (where \(\beta=\tfrac{12\pi^{2}\lambda_{\mathrm{ep}}}{5\Theta_{D}}\) and \(N=4\) is the number of atoms per formula unit). Knowing the \(\gamma\) value, one can calculate the specific heat jump \(\Delta C/\gamma T_{c}=1.59\) which is very close to the value reported in Ref. [2]\(\Delta C/\gamma T_{c}=1.5\). A logarithmic averaged phonon frequency can be determined from \(\tfrac{\Delta C}{\gamma T_{c}}=1.43[1+53(\tfrac{T_{c}}{\alpha_{\mathrm{bg}}})^{ 2}\ln(\tfrac{\alpha_{\mathrm{bg}}}{3T_{c}})]\) and for Hf Pd\({}_{2}\)Al we obtained \(\alpha_{\mathrm{bg}}=120\) K. The electron-phonon coupling constant \(\lambda_{\mathrm{ep}}\) can also be estimated from the inverted Allen and Dynes equation for \(T_{c}\)[43] [see Eq. (9)]:
+
+\[\lambda_{\mathrm{ep}}=\frac{1.04+\mu^{*}\ln(\alpha_{\mathrm{bg}}/1.2~{}T_{c}) }{(1-0.62\mu^{*})\ln(\omega_{\mathrm{bg}}/1.2T_{c})-1.04}.\] (3)
+
+Taking \(T_{c}=3.53\) K, \(\omega_{\mathrm{bg}}=120\) K, and a Coulomb repulsion constant \(\mu^{*}=0.1\), we obtained \(\lambda_{\mathrm{ep}}=0.657\) which confirms that Hf Pd\({}_{2}\)Al is a moderately coupled superconductor. Note that the Allen-Dynes prefactor \(\omega_{\mathrm{bg}}/1.2\) in \(T_{c}\) Eq. (9) was originally fitted [43] using a lower value of the Coulomb pseudopotential parameter, \(\mu^{*}=0.1\), than the "standard" McMillan's \(\mu^{*}=0.13\) (see also Ref. [44]), so we consequently used \(\mu^{*}=0.1\) whenever Eq. (3) or Eq. (9) was used; otherwise Eq. (9) underestimates the \(T_{c}\) comparing to McMillans equation.
+
+The superconducting transition was further examined through temperature-dependent measurements of the electrical resistivity under applied pressure from \(p=0\) to \(7.49\) GPa. Normalized resistivity \(\rho(T)/\rho(4\) K) is shown in Figs. 4(a) and 4(b). As can be seen from Fig. 4(a), under ambient pressure the superconducting transition is sharp and \(T_{c}=3.55\) K. This value is in very good agreement with the \(T_{c}\) determined from heat capacity measurements, and slightly lower than reported in Ref. [2]. A slightly higher \(T_{c}\) and a much broader transition is observed for Hf Pd\({}_{2}\)Al under applied pressure [see Fig. 4(b)]. The first effect is likely caused by decreased electrical current (\(I=0.5\) mA) used during measurements reducing the Ohm effect in the sample while the second one is due to quasidydostatic-pressure conditions of the solid transmitting medium. The superconducting critical temperature, \(T_{c}\), was defined as the temperature at which \(R(T)/R(4\) K) = 0.5. These data correspond to the open circles in Fig. 4(c) that presents the pressure dependence of \(T_{c}(p)\). The superconducting critical temperature monotonically decreases with the pressure increase and the slope \(dT_{c}/dp=-0.13(1)\) K GPa\({}^{-1}\). Neglecting the potential influence of applied pressure on a logarithmic averaged phonon frequency (discussed in the theoretical part), we took \(\omega_{\mathrm{bg}}=120\) K and calculated the electron-phonon coupling constant (\(\lambda_{\mathrm{ep}}\)) for each value of applied pressure by using Eq. (3). As can be seen from Fig. 4(d), \(\lambda_{\mathrm{ep}}(p)\) decreases linearly from approximately 0.67 to 0.6, estimated for p = 0.05 and 7.49 GPa, respectively.
+
+The electron-phonon coupling may also be estimated from the inverted McMillan formula [29]:
+
+\[\lambda_{\mathrm{ep}}=\frac{1.04+\mu^{*}\ln\left(\tfrac{\theta_{D}}{1.45T_{c} }\right)}{\left(1-0.62\mu^{*}\right)\ln\left(\tfrac{\theta_{D}}{1.45T_{c}} \right)-1.04}.\] (4)
+
+For ambient pressure, \(T_{c}=3.55\) K and \(\Theta_{D}=177\) K, we obtained \(\lambda_{\mathrm{ep}}=0.68\) and 0.61 for \(\mu^{*}=0.13\) and 0.1, respectively [45]. These values are very close to \(\lambda_{\mathrm{ep}}=0.65\)
+
+Figure 2: (Color online) Variation of relative volume with pressure for Hf Pd\({}_{2}\)Al. The blue curve is the fit to the third-order Birch-Murnaghan EOS (BMEOS). For more details see text.
+
+Figure 1: (Color online) Relative change of the \(a\) lattice parameter of Hf Pd\({}_{2}\)Al with increasing temperature. The data were estimated by the Le Bail method using the fullprof package. Inset shows a clear shift of the (422) Bragg peak of Hf Pd\({}_{2}\)Al towards lower angles as temperature is increased.
+
+  based on the heat capacity measurement and Allen-Dynes formula.
+
+### Theory
+
+The electron-phonon coupling parameter, \(\lambda_{\rm ep}\), can be approximately calculated using the formula [31]
+
+\[\lambda_{\rm ep}=\sum_{i}\frac{\eta_{i}}{M_{i}\langle\omega_{i}{}^{2}\rangle},\] (5)
+
+where \(\eta_{i}\) is the McMillan-Hopfield parameter of the \(i\)th atom in the unit cell, with mass \(M_{i}\) and average square phonon frequency \(\langle\omega_{i}{}^{2}\rangle=\int oF(o)d\omega/\int o^{-1}F(o)d\omega\), and \(F(o)\) is the phonon DOS. In this way \(\lambda_{\rm ep}\) is a sum of the contributions from each atom's sublattice (in our case these are Hf, Pd with two atoms, and Al).
+
+The pressure dependence of \(T_{c}\) is mainly determined by the pressure dependence of \(\lambda_{\rm ep}\) (the increase in \(\omega_{\rm op}\) or \(\Theta_{\rm D}\) under pressure is less important). In multiatomic crystals, for each of the sublattices (or for the monoatomic system), this is controlled by the ratio of electronic and phonon contributions, \(\eta_{i}\) and \(\langle\omega_{i}{}^{2}\rangle\). Since \(\langle\omega_{i}{}^{2}\rangle\) describes stiffness of the lattice and is expected to increase with pressure, the change of the McMillan-Hopfield parameter \(\eta_{i}\) is the key factor determining the response of superconductor to external pressure. For each sublattice we may calculate the logarithmic derivative:
+
+\[\frac{d\ln\lambda_{i}}{dP}=-\frac{1}{\bar{B}}\left(\frac{d\ln\eta_{i}}{d\ln V} -\frac{d\ln\langle\omega_{i}{}^{2}\rangle}{d\ln V}\right),\] (6)
+
+where \(P\) is pressure, \(V\) is the unit cell volume, and \(\bar{B}\) is the bulk modulus defined by the simplified volume-pressure dependence equation \(V(P)=V_{0}\exp(-P/\bar{B})\), used to convert the pressure derivative into the volume one. To avoid confusion with the bulk modulus determined from the Birch-Murnaghan EOS [Eq. (2)], the symbol \(\bar{B}\) is used here. In the pressure range 0-7.5 GPa the fit of the experimental \(V(P)\) data to this equation gives \(\bar{B}\approx 124\) GPa; however, its value is not important for the sign of the pressure dependence of \(\lambda_{\rm ep}\), which we analyze here.
+
+Figure 4: (Color online) Normalized electrical resisitivity under ambient pressure (a) and various applied pressures (b) of Hf Pd\({}_{2}\)Al. Pressure dependence of the superconducting critical temperature (c) and electron-phonon coupling parameter (d).
+
+Figure 3: (Color online) (a) Temperature dependence of heat capacity divided by temperature (\(C_{p}/T\)) of Hf Pd\({}_{2}\)Al measured in zero magnetic field in the vicinity of the superconducting transition. (b) \(C_{p}/T\) versus \(T^{2}\) measured in \(\mu_{0}H=3\) T. The red curve is a fit of \(C_{p}/T=\gamma+\beta T^{2}+\delta T^{4}\).
+
+  Now, defining the average Gruneisen parameter as
+
+\[\gamma_{G}=-\frac{d\ln\langle\omega\rangle}{d\ln V}\approx-\frac{1}{2}\frac{d\ln \langle\omega^{2}\rangle}{d\ln V},\] (7)
+
+the simple rule can be obtained for the pressure effect on EPC. \(\lambda_{i}\) decreases with pressure as long as the term in brackets in Eq. (6) is positive, i.e., when \(\frac{d\ln\eta_{i}}{d\ln V}>-2\gamma_{G}^{i}\). Since \(\frac{d\ln\eta_{i}}{d\ln V}\) is usually negative [31, 46] and \(\gamma_{G}\) positive, it is convenient to write it as
+
+\[-\frac{d\ln\eta_{i}}{d\ln V}<2\gamma_{G}^{i};\] (8)
+
+i.e., behavior of \(\lambda_{i}\) with pressure is determined by the magnitude of the Gruneisen parameter and logarithmic derivative of the McMillan-Hopfield parameter. \(\lambda_{i}\) decreases if the increase of \(\eta_{i}\) with decreasing unit cell volume is slower than the lattice stiffening, described by the double \(\gamma_{G}\) parameter of the sublattice \(i\).
+
+The electronic structure and phonon calculations were undertaken to verify whether \(T_{c}\) and its pressure dependence in Hf Pd\({}_{2}\)Al can be described within this conventional scenario. Figure 5, top panel, shows the electronic density of states of Hf Pd\({}_{2}\)Al at ambient pressure, with partial atomic densities marked by colors. Bottom panel of Fig. 5 compares DOS near the Fermi level for 0 and 7.45 GPa external pressures. The highest contribution to the DOS near \(E_{F}\) comes from the two Pd atoms' \(4d\) states. The corresponding electronic bands are plotted for the same set of pressures in Fig. 6. As was pointed out in Ref. [40], the Fermi level in this family of Heusler compounds lies between van Hove singularities, with the closest singularity located at the \(L\) point, which is shown well in Fig. 6. Upon applying external pressure, the location of this singularity remains almost unchanged. Table 1 presents the computed electronic structure parameters of Hf Pd\({}_{2}\)Al. The Hf and Pd atoms contribute equally to the density of states at \(E_{F}\), if counting per atom, with a minor contribution from Al. As pressure increases, due to the increased hybridization, values of \(n(E_{F})\) slightly decrease. The McMillan-Hopfield \(\eta_{i}\) parameter is highest for the Pd atom, with a dominating contribution from the \(d\)-\(f\) scattering channel, as typical for the transition-metal element [31, 47]. A slightly smaller value of \(\eta_{i}\) is found on Hf, and here \(p\)-\(d\) and \(d\)-\(f\) contributions are equally important. When the unit cell volume decreases, \(\eta_{i}\) for Hf and Pd are increasing, as a result of the increase in the matrix element of the potential gradient between the radial wave functions of \(l\) and \(l\)+1 type [see Eq. (1)]. The opposite tendency is found for Al--here \(\eta_{i}\) is gradually decreasing with pressure. The modifications of \(\eta_{i}\) in the pressure range 0-7.45 GPa are plotted in Fig. 7, and the slopes of the logarithmic derivatives versus volume of the primitive cell (\(V\)), \(\frac{d\ln\eta_{i}}{d\ln V}\), calculated by linear fitting of the ln\(\eta_{i}\) versus ln\(V\), are reported in Table 2, and are described later.
+
+The phonon densities of states and phonon dispersions are shown in Figs. 8 and 9, respectively, with the partial atomic DOS plotted in colors in Fig. 8. Due to large differences in atomic masses (\(M_{\rm Hf}\approx\)178 u, \(M_{\rm Pd}\approx\) 106 u, \(M_{\rm Al}\approx\) 27 u), a gap in the phonon spectrum is formed, with the high-frequency range due to aluminum oscillations. Although hafnium is heavier than palladium, it seems from our calculations that the densities of states around the frequency of 4 THz have larger populations for this atom, resulting in smaller \(\langle\omega_{i}{}^{2}\rangle\). When pressure is increased to 7.45 GPa, the vibration spectrum moves towards higher frequencies as also observed in the phonon dispersions plot. Generally, the phonon dispersions are only shifted towards higher frequencies with pressure, except for the lowest acoustic mode in the \(K\)-\(\Gamma\) direction. We observe the softening of this mode, with the minimum value deep elastics from 0.7 THz at P = 0 GPa to 0.626 THz for P = 7.45 GPa. This suggests the possibility of a structural transition of Hf Pd\({}_{2}\)Al at higher pressures. Also, similar soft-mode behavior, but already evident at ambient pressure, as indicated by the imaginary frequency around the minimum point, was previously reported in Ref. [40] from calculations in the isoelectronic compound ZrPd\({}_{2}\)Al. Thus the observed soft-mode behavior may be a more general property of this group of Heusler alloys. Phonon anomalies were also recently observed in superconducting YPd\({}_{2}\)Sn Heusler compound [48].
+
+Now returning to the analysis of electron-phonon coupling, the average square phonon frequencies, calculated using partial phonon densities for 0 and 7.45 GPa, are collected in Table 1. Using these values and corresponding McMillan-Hopfield parameters, the atomic contributions, \(\lambda_{i}\), to the electron-phonon coupling constant, \(\lambda_{\rm ep}\), are calculated and presented in that table. The \(\lambda_{i}\) coefficient calculated per atom in the unit cell is greatest for palladium, being more than twice the value
+
+Figure 5: (Color online) Top panel: Electronic density of states for Hf Pd\({}_{2}\)Al at ambient pressure. Bottom panel: Comparison of DOS near the Fermi level for 0 and 7.45 GPa external pressures. Color lines show the atomic partial DOS (per atom).
+
+  for hafnium. Together with the fact that there are two Pd atoms in the primitive cell of Hf Pd\({}_{2}\)Al, the electron-phonon coupling value is mainly the effect of interaction between electrons and phonons on palladium atoms. The aluminum contribution to the total EPC is found to be negligible. The calculated values of total \(\lambda_{\text{sp}}\), average phonon frequency, and critical temperature \(T_{c}\) as a function of pressure for four pressure values (0, 2.53, 4.50, and 7.45 GPa) are collected in Table 3. Critical temperature is calculated from the Allen-Dynes formula [43]:
+
+\[T_{c}=\frac{\omega_{\text{bg}}}{1.20}\exp\left[\frac{-1.04(1+\lambda_{\text{ sp}})}{\lambda-\mu^{*}(1+0.62\lambda_{\text{sp}})}\right],\] (9)
+
+where
+
+\[\omega_{\text{bg}}=\exp\left[\frac{\int F\left(o\right)\ln\omega\frac{d\omega} {\omega}}{\int F\left(o\right)\frac{d\omega}{\omega}}\right].\] (10)
+
+\begin{table}
+\begin{tabular}{l c c c c c c c c c c c} Atom & \(n_{i}(E_{F})\) & \(n_{i}(E_{F})\) & \(n_{p}(E_{F})\) & \(n_{d}(E_{F})\) & \(n_{f}(E_{F})\) & \(n_{f}(E_{F})\) & \(n_{l}\) & \(\eta_{rp}\) & \(\eta_{pd}\) & \(n_{df}\) & \(\sqrt{\left(\omega_{i}\right)^{2}}\) & \(\lambda_{i}\) \\ \hline  & & & & & \(P=0\) GPa & & & & & & & \\ Hf & 4.0 & 0.03 & 0.17  Note, that the theoretical value of \(\omega_{\rm log}=110\) K (Table 3) at ambient pressure corresponds very well with the value estimated from the heat capacity measurement \(\omega_{\rm log}=120\) K, discussed earlier.
+
+From Table 3 we see that the zero-pressure value of \(\lambda_{\rm ep}^{\rm calc}=0.54\) is about 20% lower than the "experimental" value deduced from \(T_{c}\) for "as-cast" samples (\(\lambda_{\rm ep}^{\rm expt}=0.66\)). Possible reasons for this underestimation may be both "technical" (such as inaccuracy of the RMTA, which is known to underestimate EPC in some materials; see, e.g., Ref. [32], or neglecting of the off-diagonal terms in Eq. (5), i.e., setting \(\lambda_{ij}=\lambda_{i}\delta_{ij}\)) and "chemical," i.e., assumption that the investigated sample is a defect-free and perfectly ordered crystal. The latter assumption is likely not to be true, due to the observed dependence of \(T_{c}\) on the heat treatment applied to the sample, i.e., decreasing of \(T_{c}\) after annealing [2]. We actually expect a significant amount
+
+\begin{table}
+\begin{tabular}{l c c c}  & Hf & Pd & Al \\ \hline \(\frac{d\ln\chi_{i}}{d\ln\chi_{i}}\) & \(-2.16(0.13)\) & \(-3.28(0.22)\) & 2.08(0.32) \\ \(\mathcal{V}_{G}^{\prime}\) & 1.40(0.07) & 2.02(0.09) & 1.53(0.06) \\ \(\mathcal{V}_{G}\) (total) & & 1.87(0.22) & \\ \end{tabular}
+\end{table}
+Table 2: First row: slope of the logarithmic derivative of the McMillan-Hopfield parameters versus volume of the primitive cell (\(V\)), calculated by linear fitting of \(\ln\eta_{i}\) versus \(\ln V\). Second row: atomic Grüneisen parameter, calculated as a slope of \(\ln(\omega_{i})\) versus \(\ln V\), where \(\langle\omega_{i}\rangle\) is the partial average phonon frequency. Third row: same as second, but for the total phonon spectrum. Values in brackets are standard deviations of fittings.
+
+Figure 8: (Color online) Phonon density of states for Hf Pd\({}_{2}\)Al at 0 (top panel) and 7.45 GPa (bottom panel). Color lines show the atomic partial DOS (per atom).
+
+Figure 7: (Color online) Effect of pressure on McMillan-Hopfield parameters.
+
+Figure 9: (Color online) Phonon dispersion relations for Hf Pd\({}_{2}\)Al at 0 (top panel) and 7.45 GPa (bottom panel).
+
+  of antisite defects to be present there (antisite disorder was observed in many related Heusler and half-Heusler systems, such as Co\({}_{2}\)MnGe [49], Fe\({}_{1-x}\)Ni\({}_{x}\)TiSb [50], and FeVSb [51]). Moreover, our preliminary KKR calculations with the coherent potential approximation (CPA) for the system with antisite defects showed that EPC is likely to increase if antisite defects are present. This could potentially explain the underestimation of \(\lambda_{\rm ep}\) but this subject is beyond the scope of this paper and will be addressed in future studies. The 20% underestimation in \(\lambda_{\rm ep}\), due to the exponential dependence of \(T_{c}\) on \(\lambda_{\rm ep}\), gives a much larger underestimation of \(T_{c}\). Nevertheless, the decreasing tendency for both \(T_{c}\) and \(\lambda_{\rm ep}\) is well reproduced in the presented calculations, as shown in Fig. 10, where the relative changes are plotted. The analysis of the data in Table 2 explains the reason for the decrease in \(\lambda_{\rm ep}\), in agreement with the description of Eq. (8). For both Pd and Hf sublattices, the condition \(-\frac{d\ln\pi}{d\ln\psi}<2\nu_{G}^{\prime}\) is fulfilled; i.e., the lattice stiffening occurs faster than the increase in the McMillan-Hopfield parameters, resulting in a decreasing of the EPC strength. The calculated value of the "average" Gruneisen parameter, obtained from the total phonon spectrum in the 0-7.45 GPa pressure range, is \(\nu_{G}=1.87\pm 0.22\). This is a quite typical value, and similar ones were reported for other Heusler alloys such as Ni\({}_{2}\)MnSn (\(\gamma_{G}=1.86\)[52]), Ti\({}_{2}\)FeGe (\(\gamma_{G}=2.44\)), and Ti\({}_{2}\)FeSn (\(\gamma_{G}=2.50\)) [53]. This is not the case for other examples such as Ni\({}_{2}\)MnGe or Ni\({}_{2}\)MnSb which have much lower values, \(\gamma_{G}=0.21\) and 0.47, respectively [52]. To verify the correctness of our calculated \(\gamma_{G}\), we have estimated the Gruneisen parameter using the experimental results, based on the formula [54]
+
+\[\gamma_{G}=\frac{3\alpha K_{T}}{C_{V}\rho}.\]
+
+Here, \(\alpha\) is the linear thermal expansion coefficient, \(K_{T}=-V\frac{3\rho}{3\nu}|_{T}\) is the isothermal bulk modulus, \(C_{V}\) is the constant volume heat capacity (per mass), and \(\rho\) is the mass density.
+
+The pressure-dependent \(K_{T}\) values at 300 K were directly computed from the fitted BMEOS (see above), and the constant volume heat capacity was taken from the Dulong-Petit law (calculations of the specific heat, using the theoretical phonon DOS, showed that for Hf Pd\({}_{2}\)Al at 300 K \(C_{v}\) is already 96% of the Dulong-Petit value of \(12\,R/\mathrm{mole/f.u.}\), so the difference is negligible). The resulting \(\gamma_{G}\) was equal to 1.6 at low pressures, so in reasonable agreement with the theoretical value \(\gamma_{G}=1.87\). Values for higher pressures, calculated by neglecting the pressure dependence of \(\alpha\) (so less accurate) are increasing via \(\gamma_{G}=2.0\) at 3 GPa to \(\gamma_{G}=2.5\) at 7.45 GPa, due to an increase of \(K_{T}\). We observe a smaller theoretical Gruneisen parameter at higher pressures, as well as a larger theoretical value of \(\tilde{B}_{\rm theor}\approx 173\) GPa, fitted using the equation \(V(P)=V_{0}\exp(-P/\tilde{B})\). This helps to explain the slower decrease of \(\lambda_{\rm ep}\) and \(T_{c}\) with pressure at higher pressures, compared to that observed experimentally, as plotted in Fig. 10.
+
+## IV Summary and conclusions
+
+In summary, a polycrystalline sample of HfPd\({}_{2}\)Al was synthesized by the arc-melting method and its purity checked by powder x-ray diffraction. The heat capacity and electrical resistivity measurements confirm bulk superconductivity. Estimated superconducting critical temperature, Sommerfeld parameter, Debye temperature, and the heat capacity superconducting jump are in good agreement with those previously reported for HfPd\({}_{2}\)Al [2].
+
+Our high-temperature XRD study of HfPd\({}_{2}\)Al reveals the linear thermal expansion coefficient \(\alpha=1.40(3)\times 10^{-5}\) K\({}^{-1}\), which is comparable with the result obtained for Ni\({}_{2}\)MnGa (\(\alpha=1.5\times 10^{-5}\) K\({}^{-1}\)) [41]. The main part of this paper is focused on the compression and resistivity data under applied pressure. The estimated bulk modulus for Hf Pd\({}_{2}\)Al at room temperature is \(B_{0}=97(2)\) GPa, which is much smaller than the value obtained from the electronic structure calculations (\(B=159\) GPa) [40]. The superconducting critical temperature decreases linearly with applied pressure and \(dT_{c}/dp=-0.13(1)\) K GPa\({}^{-1}\). The negative slope of \(T_{c}(p)\) is contrary to expectations based on the lattice parameter \(T_{c}(a)\) dependence observed for (Hf, Zr)Pd\({}_{2}\)(In, Al) Heusler alloys, for which the critical temperature increases with decreasing lattice parameter \(a\). Thus, the differences in \(T_{c}\) among (Hf, Zr)Pd\({}_{2}\)(In, Al) Heuslers likely come from the differences in electronic and phonon structures and are not just the effect of chemical pressure. The value of \(dT_{c}/dp\) estimated for Hf Pd\({}_{2}\)Al is comparable to the value obtained for ScPd\({}_{2}\)Al
+
+Figure 10: (Color online) Relative changes of electron-phonon coupling parameter \(\lambda_{\rm ep}\) (top panel) and critical temperature \(T_{c}\) (bottom panel) obtained from calculations (empty symbols) and measurements (full symbols). The overall trends are very similar, but theoretical results underestimate the experimentally observed changes for the highest pressures.
+
+  (\(dT_{c}/dp=-0.145\) K GPa\({}^{-1}\)) and remains the lowest among those reported for \(AP\)d\({}_{2}\)Sn (\(A=\) Sc, Y, Tm, Yb, Lu) and YPd\({}_{2}\)Pb Heusler-type superconductors [15].
+
+Electronic structure and phonon calculations were performed on Hf Pd\({}_{2}\)Al for several external pressures in the range 0-7.5 GPa. Using the rigid muffin-tin approximation an electron-phonon coupling constant \(\lambda_{\rm ep}\) was calculated. We found that the highest contribution to \(\lambda_{\rm ep}\) in Hf Pd\({}_{2}\)Al comes from the Pd atoms' sublattice. Under external pressure the electronic part of the EPC constant, i.e., McMillan-Hopfield parameters \(\eta\), increase for Pd and Hf and decrease for Al. Nevertheless, the pressure-induced stiffening of the crystal lattice, represented by the average Griniesen parameter \(\gamma_{G}=1.87\) (calculations), \(\gamma_{G}=1.60\) (experiment), overcomes the increase in \(\eta_{\rm pd}\) and \(\eta_{\rm Hf}\); thus the total electron-phonon coupling constant \(\lambda_{\rm ep}\) decreases. Although the initial (zero pressure) value of the electron-phonon coupling parameter \(\lambda_{\rm ep}=0.54\) is underestimated in calculations by about 20%, compared to the experimental value \(\lambda_{\rm ep}=0.67\), the theoretical results explain rather well the experimentally observed decrease in \(\lambda_{\rm ep}\) and \(T_{c}\) with pressure which are a result of considerable lattice stiffening and not compensated enough by an increase of the McMillan-Hopfield parameters.
+
+###### Acknowledgements.
+
+ B.W. was supported by the National Science Center (Poland) (Project No. DEC-2011/02/A/ST3/00124). The research performed at Gdansk University of Technology was financially supported by the National Science Centre (Poland) Grant No. DEC-2012/07/E/ST3/00584.
+
+## References
+
+* [1] F. Heusler, Verh. Dtsch. Phys. Ges. **5**, 219 (1903).
+* [2] T. Klimczuk, C. H. Wang, K. Gofryk, F. Ronning, J. Winterlik, G. H. Fecher, J.-C. Griveau, E. Colineau, C. Felser, J. D. Thompson, D. J. Safarik, and R. J. Cava, Phys. Rev. B **85**, 174505 (2012).
+* [3] A. Fujita, K. Fukamichi, F. Gejima, and R. Kainuma, Appl. Phys. Lett. **77**, 3054 (2000).
+* [4] Z. H. Liu, M. Zhang, Y. T. Cui, Y. Q. Zhou, W. H. Wang, G. H. Wu, X. X. Zhang, and G. Xiao, Appl. Phys. Lett. **82**, 424 (2003).
+* [5] K. Gofryk, D. Kaczorowski, T. Plackowski, A. Leithe-Jasper, and Yu. Grin, Phys. Rev. B **72**, 094409 (2005).
+* [6] D. Kaczorowski, K. Gofryk, T. Plackowski, A. Leithe-Jasper, and Y. Grin, J. Magn. Magn. Mater. **290-291**, 573 (2005).
+* [7] J. Winterlik, G. H. Fecher, and C. Felser, Solid State Commun. **145**, 475 (2008).
+* [8] R. Lahiouel, J. Pierre, E. Siaud, R. M. Galera, M. J. Besnus, J. P. Kappler, and A. P. Murani, Z. Phys. B **67**, 185 (1987).
+* [9] S. Takayanagi, S. B. Woods, N. Wada, T. Watanabe, Y. Onuki, A. Kobori, T. Komatsubara, M. Imai, and H. Asano, J. Magn. Magn. Mater. **76-77**, 281 (1988).
+* [10] H. Nakamura, Y. Kitaoka, K. Asayama, Y. Onuki, and T. Komatsubara, J. Magn. Magn. Mater. **76-77**, 467 (1988).
+* [11] D. Kaczorowski, A. Leithe-Jasper, T. Cichorek, K. Tenya, J. Custers, P. Gegenwart, and Yu. Grin, Acta Phys. Pol. B **34**, 1253 (2003).
+* [12] K. Gofryk, D. Kaczorowski, and A. Czopnik, Solid State Commun. **133**, 625 (2005).
+* [13] M. Ishikawa, J. L. Jorda, and A. Junod, _Superconductivity in d- and f-Band Metals_ (Kernforschungszentrum, Karlsruhe, Germany, 1982), p. 141.
+* [14] J. H. Wernick, G. W. Hull, T. H. Geballe, J. E. Bernardini, and J. V. Waszczak, Mater. Lett. **2**, 90 (1983).
+* [15] M. J. Johnson and R. N. Shelton, Solid State Commun. **52**, 839 (1984).
+* [16] H. A. Kierstead, B. D. Dunlap, S. K. Malik, A. M. Umarji, and G. K. Shenoy, Phys. Rev. B **32**, 135 (1985).
+* [17] S. Waki, Y. Yamaguchi, and K. Mitsugi, J. Phys. Soc. Jpn. **54**, 1673 (1985).
+* [18] R. N. Shelton, L. S. Hausermann-Berg, M. J. Johnson, P. Klavins, and H. D. Yang, Phys. Rev. B **34**, 199 (1986).
+* [19] C. L. Seaman, N. R. Dilley, M. C. De Andrade, J. Herrmann, M. B. Maple, and Z. Fisk, Phys. Rev. B **53**, 2651 (1996).
+* [20] K. Ramesh Kumar, V. Chunchu, and A. Thamizhavel, J. Appl. Phys. **113**, 17E155 (2013).
+* [21] D. W. Capone II, R. P. Guertin, S. Foner, D. G. Hinks, and H. C. Li, Phys. Rev. B **29**, 6375(R) (1984); S. Gabani, I. Takacova, G. Pristas, E. Galzo, K. Flachbart, T. Mori, D. Braithwaite, M. Misek, K. V. Kamenev, M. Hanfland, and P. Samuely, _ibid._**90**, 045136 (2014).
+* [22] H. M. Rietveld, J. Appl. Crystallogr. **2**, 65 (1969).
+* [23] J. Rodriguez-Carvajal, in _Abstracts of the Satellite Meeting on Powder Diffraction of the XV Congress of the IUCr_ (Toulouse, France, 1990), p. 127.
+* [24] G. J. Piermarini, S. Block, J. D. Barnett, and R. A. Forman, J. Appl. Phys. **46**, 2774 (1975).
+* [25] A. P. Hammersley, S. O. Svensson, H. Hanfland, A. N. Fitch, and D. Hausermann, High Pressure Res. **14**, 235 (1996).
+* [26] B. Bireckoven and J. Wittig, J. Phys. E **21**, 841 (1988).
+* [27] A. Bansil, S. Kaprzyk, P. E. Mijnarends, and J. Tobola, Phys. Rev. B **60**, 13396 (1999).
+* [28] G. D. Gaspari and B. L. Gyorffy, Phys. Rev. Lett. **28**, 801 (1972).
+* [29] W. L. McMillan, Phys. Rev. **167**, 331 (1968).
+* [30] J. J. Hopfield, Phys. Rev. **186**, 443 (1969).
+* [31] B. Wiendlocha, J. Tobola, and S. Kaprzyk, Phys. Rev. B **73**, 134522 (2006).
+* [32] I. I. Mazin, S. N. Rashkeev, and S. Y. Savrasov, Phys. Rev. B **42**, 366 (1990).
+* [33] B. Wiendlocha, J. Tobola, S. Kaprzyk, D. Fruchart, and J. Marcus, Phys. Status Solidi B **243**, 351 (2006).
+* [34] B. Wiendlocha, J. Tobola, M. Sternik, S. Kaprzyk, K. Parlinski, and A. M. Oles, Phys. Rev. B **78**, 060507(R) (2008).
+* [35] U. von Barth and L. Hedin, J. Phys. C: Solid State Phys. **5**, 1629 (1972).
+* [36] K. Kutorasinski, B. Wiendlocha, J. Tobola, and S. Kaprzyk, Phys. Rev. B **89**, 115205 (2014).
+* [37] P. Giannozzi _et al._, J. Phys.: Condens. Matter **21**, 395502 (2009); http://www.quantum-espresso.org.
+* [38] J. P. Perdew, K. Burke, and M. Ernzerhof, Phys. Rev. Lett. **77**, 3865 (1996).
+
+  * [39]qHA code written by Eyvaz Isaev which is distributed as a part of quantum espresso code; see http://www.quantum-espresso.org
+* [40] J. Winterlik, G. H. Fecher, A. Thomas, and C. Felser, Phys. Rev. B **79**, 064508 (2009).
+* [41] V. D. Buchelnikov, V. V. Khovailo, and T. Takagi. J. Magn. Magn. Mater. **300**, e459 (2006).
+* [42] F. Birch, Phys. Rev. **71**, 809 (1947).
+* [43] P. B. Allen and R. C. Dynes, Phys. Rev. B **12**, 905 (1975).
+* [44] B. Wiendlocha and M. Sternik, Intermetallics **53**, 150 (2014).
+* [45]\(\mu^{\ast}=0.13\) falls within the range 0.1-0.15 used in the literature. The same value was also used, for example, by A. B. Karki, Y. M. Xiong, N. Haldolaarachchige, S. Stadler, I. Vekhter, P. W. Adams, D. P. Young, W. A. Phelan, and J. Y. Chan, Phys. Rev. B **83**, 144525 (2011).
+* [46] V. K. Ratti, R. Evans, and B. L. Gyorffy, J. Phys. F: Met. Phys. **4**, 371 (1974).
+* [47] B. Wiendlocha, J. Tobola, S. Kaprzyk, and D. Fruchart, J. Alloys Compd. **442**, 289 (2007).
+* [48] H. M. Tutuncu and G. P. Srivastava, J. Appl. Phys. **116**, 013907 (2014).
+* [49] B. Ravel, J. O. Cross, M. P. Raphael, V. G. Harris, R. Ramesh, and L. V. Saraf, Appl. Phys. Lett. **81**, 2812 (2002).
+* [50] J. Tobola, L. Jodin, P. Pecheur, H. Scherrer, G. Venturini, B. Malaman, and S. Kaprzyk, Phys. Rev. B **64**, 155103 (2001).
+* [51] L. Jodin, J. Tobola, P. Pecheur, H. Scherrer, and S. Kaprzyk, Phys. Rev. B **70**, 184207 (2004).
+* [52] J. Li, Z. Zhang, Y. Sun, J. Zhang, G. Zhou, H. Luo, and G. Liu, Physica B **409**, 35 (2013).
+* [53] X.-P. Wei, G.-Y. Mao, S-B. Chu, H. Deng, J.-B. Deng, and X.-R. Hu, J. Magn. Magn. Mater. **341**, 122 (2013).
+* [54] G. Grimvall, _Thermophysical Properties of Materials_ (Elsevier Science, Amsterdam, 1999).
+
+ 

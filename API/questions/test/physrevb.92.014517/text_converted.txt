@@ -1,0 +1,454 @@
+Spatially resolved penetration depth measurements and vortex
+manipulation in the ferromagnetic superconductor ErNi₂B₂C
+
+Dirk Wulferding,^(1, 2,)1 Ikyu Yang,^(1, 2,)1 Jinho Yang,^(1, 2)2
+Minkyung Lee,^(1, 3) Hee Cheul Choi,^(1, 3)
+
+Sergey L. Bud’ko,^(4, 5) Paul C. Canfield,^(4, 5) Han Woong Yeom,^(1, 2)
+and Jeehoon Kim^(1, 2,)
+
+¹Center for Artificial Low Dimensional Electronic Systems, Institute for
+Basic Science, 77 Cheongam-Ro, Nam-Gu, Pohang 790-784, Korea ²Department
+of Physics, Pohang University of Science and Technology, Pohang 790-784,
+Korea ³Department of Chemistry, Pohang University of Science and
+Technology, Pohang 790-784, Korea ⁴Ames Laboratory, U.S. Department of
+Energy, Ames, Iowa 50011, USA ⁵Department of Physics and Astronomy, Iowa
+State University, Ames, Iowa 50011, USA
+
+Footnote 1: footnotemark:
+
+Footnote 2: footnotemark:
+
+Footnote 3: footnotemark:
+
+Received 14 May 2015; revised manuscript received 8 July 2015; published
+31 July 2015
+
+###### Abstract
+
+We present a local probe study of the magnetic superconductor ErNi₂B₂C,
+using magnetic force microscopy at sub-Kelvin temperatures. ErNi₂B₂C is
+an ideal system to explore the effects of concomitant superconductivity
+and ferromagnetism. At 500 mK, far below the transition to a weakly
+ferromagnetic state, we directly observe a structured magnetic
+background on the micrometer scale. We determine spatially resolved
+absolute values of the magnetic penetration depth λ and study its
+temperature dependence as the system undergoes magnetic phase
+transitions from paramagnetic to antiferromagnetic, and to weak
+ferromagnetic, all within the superconducting regime. In addition, we
+estimate the absolute pinning force of Abrikosov vortices, which shows a
+position dependence and temperature dependence as well, and discuss the
+possibility of the purported spontaneous vortex formation.
+
+pacs: DOI: 10.1103/PhysRevB.92.014517
+
+## I Introduction
+
+The interplay between magnetism and superconductivity has caught the
+attention of many condensed-matter scientists. Once thought to be
+mutually exclusive, several materials have since emerged in which a
+coexistence of magnetic order and superconductivity can be found [1, 2,
+3]. This is contrasted, e.g., by high-temperature cuprate
+superconductors; although a low temperature rare-earth-related magnetic
+ordering may occur within the superconducting phase [4], there is a
+clear separation between the Cu-based strong antiferromagnetic and the
+superconducting phases [5]. Nevertheless, spin fluctuations in the Cu-O
+planes that arise from the melting of the antiferromagnetically ordered
+phase upon doping seem to support and mediate superconductivity [5, 6].
+
+The possibility of studying materials that exhibit magnetic order and
+superconductivity simultaneously could shed a new light on the
+importance of magnetic correlations for the pairing mechanism of Cooper
+pairs in unconventional superconductors. In particular, our insight into
+high-temperature superconductivity could greatly benefit from a detailed
+study of the interplay among intrinsic magnetism, penetration depth λ,
+and coherence length ξ.
+
+From an applied point of view, the pinning of Abrikosov vortices in
+type-II superconductors is a central issue, as increased pinning forces
+F_(P) can greatly enhance both critical currents J_(c) and critical
+magnetic fields H_(c2)[7]. The presence of an intrinsic magnetic field
+(with $B_{\rm int}<H_{c2}$) can have a strong effect on F_(P) and may
+thus present an alternative to artificially introduced pinning centers.
+
+The rare-earth borocarbides RNi₂B₂C (with R= Dy, Ho, Er, and Tm) exhibit
+magnetism within the superconducting phase [1]. Conspicuously, their
+superconducting and magnetic transition temperatures are comparable,
+suggesting similar energy scales for magnetism and superconductivity
+[3]. The observation of a pronounced isotope effect in these
+intermetallic compounds points towards conventional phonon mediated
+superconductivity [8, 9]. Of these borocarbides, ErNi₂B₂C has a
+relatively high superconducting transition temperature of T_(c) = 10.5 K
+and develops antiferromagnetic order around T_(N) = 6 K [10].
+Remarkably, below $T_{\rm WFM}=2.3$ K a weak ferromagnetic phase can be
+detected with a net magnetic moment of 0.39μ_(B)/Er and a resulting
+intrinsic magnetic field of about $B_{\rm int}=500$-700 G [11, 12].
+Previous tunnel diode oscillator (TDO) experiments focusing on the
+magnetic penetration depth λ uncovered a pronounced temperature
+dependence with clear features at T_(N) and $T_{\rm WFM}$, therefore
+indicating a strong impact of the magnetic properties on λ, as well as
+fingerprints of the formation of a spontaneous vortex lattice (i.e.,
+induced by intrinsic magnetism) below $T_{\rm WFM}$[13]. At the same
+time, Bitter decoration experiments [14] and scanning Hall probe
+measurements [12] revealed a microscopic variation of the intrinsic
+magnetic field emerging below T_(N) in the form of well-ordered,
+micrometer sized magnetic stripes, along which vortices tend to order. A
+spontaneous vortex phase in the weak ferromagnetic regime was not
+observed, though. However, the Bitter decoration experiments were
+conducted down to 1.9 K, which is only slightly below $T_{\rm WFM}$, and
+the spatial resolution of scanning Hall probes is rather limited. In
+fact, until now no clear consensus on the issue of spontaneous vortex
+lattice formation in ErNi₂B₂C has been reached, partly due to its low
+ferromagnetic transition temperature. This open issue together with the
+microscopic variation of the magnetic field calls for a local probe
+investigation of ErNi₂B₂C at sub-Kelvin temperatures.
+
+Here we present a magnetic force microscopy (MFM) study on ErNi₂B₂C at
+He-3 temperatures and with a high spatial resolution. We observe
+magnetic stripelike features at T = 500 mK, that arise from twin domain
+boundaries. Their pronounced temperature behavior supports the
+spontaneous vortex formation scenario. Using the magnetic moment of the
+tip we estimate the pinning force of a single vortex. In addition, a
+spatially resolved determination of the penetration depth λ is
+presented, which reveals a close relation between λ and the
+microscopically varying intrinsic magnetism.
+
+## II Experimental details
+
+A single crystal of ErNi₂B₂C was grown via Ni₂B flux growth technique
+[10, 15]. The sample’s magnetic properties have been measured to
+determine T_(c) using a magnetic property measurement system (MPMS)
+superconducting quantum interference device (Quantum Design, Inc.). The
+crystal orientation was determined by polarized Raman-scattering
+experiments, using the orientation dependence of the B_(1g) phonon mode
+intensity [16]. Prior to MFM measurements, the sample was mechanically
+polished to obtain a fresh surface within the ab plane with a roughness
+as small as 5 nm. MFM measurements were performed with a unique
+home-built He-3 MFM probe with a vector magnetic field capability
+(2T-2T-9T along the xyz direction) and a temperature range of 320 mK-300
+K [17]. All experiments were carried out with no magnetic fields applied
+and with a commercially available tip [18].
+
+## III Experimental results and discussion
+
+We first discuss the origin of magnetic stripes and the local variation
+of the magnetic penetration depth, before moving on to the pinning
+force. Synchrotron x-ray-scattering experiments on ErNi₂B₂C revealed a
+structural tetragonal-to-orthorhombic distortion upon entering the
+antiferromagnetic phase at T_(N) = 6 K. This leads to the formation of
+twin domain boundaries below T_(N) along [110] and [1$\bar{1}$0] [19],
+which are already inhabited by a ferromagnetic component aligned along
+the c axis [20]. In small applied magnetic fields (of the order of 10 G)
+vortices were found along the boundaries, thus forming stripes with
+roughly 5-μm spacing [21]. The transition at $T_{\rm{WFM}}$ is driven by
+magnetoelastic coupling, which enhances Ruderman-Kittel-Kasuya-Yosida
+interactions among the Er 4f electrons, and thereby a long-range ordered
+weak ferromagnetism is induced in the bulk, as evidenced by inelastic
+neutron-scattering experiments [22]. In our MFM data [see Fig. 1(a)] a
+structured magnetic background can be clearly seen in the form of bright
+stripes with a separation of ≈7.5 μm at T = 500 mK, i.e., deep within
+both the superconducting and the weak ferromagnetic phase. The stripes
+run from the lower right corner to the upper left corner [highlighted by
+dashed lines in Fig. 1(a)] and at 45^(∘) from the crystallographic a and
+b axes. We therefore ascribe the stripes to regions of increased
+ferromagnetism. Their orientation along the [110] or [1$\bar{1}$0]
+direction suggests a coincidence with twin domain boundaries [19, 21].
+Indeed, magnetic stripes of the same orientation and comparable spacing
+have been observed in Bitter decoration experiments for T < T_(N) and
+attributed to twin boundaries [14, 20]. However, the magnetic stripes in
+our experiment evidence a considerably different temperature behavior,
+as discussed further below.
+
+In order to probe the influence of the varying internal magnetic field
+on the superconductivity in the sample, we performed local measurements
+of λ across two stripes along the blue arrow in Fig. 1(a). The
+determination of λ can be done by slowly bringing the tip to the surface
+at a fixed sample position and measuring the Meissner force gradient
+acting upon the magnetic tip. By comparing the Meissner force curves to
+those of a well-known standard sample (a Nb film), one can obtain the
+absolute values of λ[23]. In Fig. 1(b) we plot two Meissner force curves
+measured at the beginning (dashed black) and at the end (solid green) of
+the arrow. A clear shift is observed, indicating a spatial variation in
+λ. In the inset of Fig. 1(b) several absolute λ values at different
+positions (open squares) are plotted. These values, measured under the
+same conditions, vary by more than 20
+
+The temperature dependence of λ [see Fig. 1(c)] can be well described by
+a BCS-type behavior, i.e.,
+$\lambda(T)=\frac{\lambda(0)}{\sqrt{1-(T/T_{c})^{3}}}$
+
+Figure 1: (Color online) (a) A 15 × 15-μm² MFM image obtained at T = 500
+mK and 300-nm tip-sample distance. The blue arrow marks a line of 6.5-μm
+length along which spatially resolved λ measurements were performed. The
+dashed lines outline the magnetic stripes. (b) Meissner force curves
+obtained at the beginning [dashed black curve, corresponding to the
+black dot in (a)] and at the end of the arrow [green solid curve,
+corresponding to the green dot in (a)]. The inset shows local λ values
+along the blue arrow in (a). (c) Temperature dependence of λ obtained at
+a single position (blue spheres) and the magnetic moment measured at
+H = 30 Oe (solid red line). The dashed blue line is a fit according to
+the BCS theory.
+
+where _l_(0) is the penetration depth at T = 0 K. The fit yields _l_(0)
+190 nm and T_(c) 9.1 K. Our directly obtained penetration depth _l_(0)
+is larger than those previously reported from bulk probe experiments
+[10,25], while T_(c) is slightly below the reported value of 10.5 K.
+Aside from the different experimental approaches, it is known that the
+T_(c) of as-grown samples is lower than that of annealed samples [26].
+Indeed, bulk magnetization measurements of our as-grown sample yield a
+T_(c) of 9.9 K [red line in Fig. 1(c)]. Another important consideration
+is a possible deviation of ErNi2B2C from the BCS behavior. In fact, a
+pronounced non-BCS-type behavior is apparent below T_(c) in the highly
+resolved temperature dependence of the TDO study [13], which is related
+to the different magnetic phases within the superconducting regime.
+Since our temperature dependence is more coarse, a deviation from the
+BCS behavior could be obscured.
+
+In addition to the magnetic stripes, we clearly see four separate
+vortices in Fig. 1(a). They are aligned antiparallel to the magnetic
+stripes, as indicated by the MFM contrast. Furthermore, they remain
+above _T_WFM and even above T_(N) (as discussed below). Therefore, they
+exist independently of any intrinsic magnetic property. We ascribe these
+features to vortices induced by a weak external stray field. As this
+stray field is present regardless of the temperature (i.e., already
+above T_(c), in contrast to the weak intrinsic ferromagnetism), its flux
+lines will be trapped inside ErNi2B2C upon cooling through T_(c). The
+observation of n = 4 vortices on a scan area of A = 15 x 15 _m_m2 could
+already be accounted for by
+$H_{\text{stray}} = \frac{n\Phi_{0}}{A} \approx 0.37$ Oe, considering
+that each vortex corresponds to a flux quantum of Φ₀. Although this
+estimation is somewhat rough due to our limited scan area, we expect
+that the stray field does not exceed 1 Oe, and is therefore below the
+accuracy of our vector magnet with a resolution of 1 Oe.
+
+In order to study the depinning of vortices in ErNi2B2C, we manipulate
+the separate stray field induced vortices via the tip-sample
+interaction. In Figs. 2(a) and 2(b) two 15 x 15-_m_m2 MFM images are
+shown at T = 1.5 K and lift heights (LHs) of 200 and 300 nm. The scan
+area corresponds to the one in Fig. 1(a). While at LH = 200 nm a
+manipulation of the lower vortices along the twin boundary is observed,
+an increase to LH = 300 nm leads to an image of static vortices. For all
+images the fast scan direction is horizontal, while the slow scan
+direction is vertical, from the bottom to the top. Note that the
+direction of the manipulated vortex motion always follows the bright
+stripe. We recall that the magnetic flux direction within the twin
+boundary is antiparallel to that of the stray field vortices, as
+evidenced by the opposing contrast that corresponds to opposing magnetic
+forces acting on the tip. It is therefore energetically unfavorable for
+a separate vortex to move into the stripe. On the other hand, the upper
+right vortex caught between two domain boundaries can move neither up
+nor down and hence experiences a much stronger pinning. To estimate the
+pinning force of vortices as a function of temperature, we consider the
+magnetic force between tip and vortex, given by
+$F_{iv} = \frac{m\Phi_{0}}{2\pi} \times \frac{1}{[z + \lambda(T)^{3}\rbrack}$[27].
+Here, m = (3.7 +- 0.2) nAm is the magnetic moment per unit length of the
+tip, Φ₀ = h/2e is the magnetic flux quantum of a single vortex, and z is
+the distance between tip and sample surface around which the vortex
+manipulation sets in. m has been estimated via monopole-monopole
+approximation [27]. Considering that at T = 1.5 K the onset of the
+vortex manipulation is at a tip-sample distance of 200-300 nm, we can
+get a rough estimation of the pinning force F_(P) for vortices in the
+range of 5-8 pN.
+
+When increasing the temperature from 1.5 to 4.5 K and thereby moving
+from the weak ferromagnetic phase into the antiferromagnetic phase, the
+magnetic stripes vanish while the twin boundaries remain [see Figs.
+2(c)-2(f)]. Hence, the background in the MFM images appears to be
+homogeneous. In contrast, stray field induced vortices remain as
+expected. In this intermediate temperature regime the pinning force is
+strongly reduced compared to the weak ferromagnetic
+
+Figure 2: (Color online) (a) and (b) MFM images taken at T = 1.5 K with
+200- and 300-nm tip lift height (LH). (c)–(f) MFM images taken at T =
+4.5 K with 300-, 400-, 500-, and 600-nm tip lift height. (g) The pinning
+force of the vortices obtained from MFM measurements as a function of
+temperature (red circles) compared to the pinning force estimated from
+measurements of the critical current L (solid blue line) [28].
+
+phase. This is in good accordance with previous magnetization and
+transport experiments, where a threefold decrease in the relative F_(P)
+was reported when heating the sample up through T_(WFM) [solid blue line
+in Fig. 2(g)] [28]. Still, the direction of vortex manipulation remains
+along the twin boundaries, which continue to carry a reduced
+ferromagnetic component along the c axis and antiparallel to the vortex
+flux. This agrees well with the previous Bitter decoration experiment,
+where field-induced vortex stripes occur along [110] and [1$\bar{1}$0]
+[14]. That work reports parallel vortex stripes with 1-2-μm spacing,
+which is also confirmed by our observations of parallel vortex lines
+aligned on both sides of the twin boundaries [arrows in Fig. 2(c)]. We
+manage to manipulate the vortex position at 4.5 K up to a tip-sample
+distance of 500 nm. Only at LH≥ 600 nm, a static vortex image is
+obtained, leading to a pinning force of 2.0-2.5 pN.
+
+Moving from the magnetically ordered (T < T_(N)) into the paramagnetic
+superconducting regime (T > T_(N)), we study the vortex dynamics as a
+function of temperature at a constant LH of 700 nm (see Fig. 3). It is
+important to note that the vortex configuration changes strongly around
+T_(N) = 6 K [see Figs. 3(a) and 3(b)]. A detailed investigation of the
+critical current revealed a dynamic domain formation and annihilation in
+a narrow temperature regime around T_(N), which leads to a considerable
+increase in antiferromagnetic antiphase domain boundaries on which
+vortices strongly get pinned [29]. These domain dynamics are evidenced
+by our observation of vortex rearrangements at T = 6 K. Above T_(N), the
+structure relaxes from orthorhombic to tetragonal, leading to a
+disappearance of the twin boundaries, and hence to a random distribution
+of vortices. This is contrasted by the Bitter decoration study [14],
+where a clear hexagonal vortex lattice forms for T > T_(N) in an applied
+field of 25 Oe. Since our stray field is too weak to induce a
+considerable vortex density, local impurities may dominate the vortex
+arrangement instead. The increasing thermal energy of the vortices
+allows a manipulation with a LH of 700 nm at 7 K and higher, as it leads
+roughly to a twofold reduction in the pinning force compared to T = 4.5
+K. We estimate a pinning force at 7 K of around 1.0-1.5 pN. The
+temperature dependence of the pinning force F_(P) is plotted in Fig.
+2(g). It mirrors the critical current behavior, which is closely related
+to F_(P)[29], as both exhibit roughly a twofold decrease between 4.5 and
+7 K. Moreover, our F_(P) data are consistent with the observation of a
+finite J_(c) at T > T_(N) in Ref. [29], which was previously conjectured
+to vanish above the Neel temperature [30]. At 7 and 8 K in the absence
+of twin boundaries, there is no more preferred vortex manipulation
+direction. Instead, vortices are being dragged equally to the left and
+right while a general upwards trend in motion is observed, thus
+following the slow scan direction. Eventually, thermally enhanced vortex
+dynamics overcome the pinning potential and ErNi₂B₂C transits into a
+vortex liquid phase between 8 and 9 K, i.e., close to T_(c).
+
+Our MFM images also allow us to comment on the issue of the coexistence
+mechanism in ErNi₂B₂C. It is believed that magnetism and
+superconductivity can coexist under two possible scenarios: (i) a
+spontaneous formation of vortices [31, 32] or (ii) a variation of
+magnetic moments on a length scale smaller than the penetration depth
+λ[31, 33]. We clearly detect a modulation of the magnetic background
+over several micrometers. However, additional small-scale magnetic
+variations are not observed in our MFM images down to our resolution
+limit of 20 nm. Hence we do not find direct evidence for scenario (ii)
+from our data, although we cannot exclude possible magnetic variations
+on a smaller length scale than the instrumental limit. In addition, a
+phase separation between purely ferromagnetic and superconducting
+regions is not evident as the magnetic stripes still exhibit a Meissner
+force. On the other hand, scenario (i) is possible if the condition
+H_(c1) < B_(int) < H_(c2) is fulfilled [34]. For ErNi₂B₂C, the critical
+fields H_(c1) and H_(c2) are around 500 Oe and 12 kOe (below T_(WFM)),
+respectively [11]. As B_(int) = 500-700 G, [11, 12] we have a system at
+hand in which the spontaneous formation of vortices could very well be
+realized at T < T_(WFM). We can estimate the number of vortices n
+expected to appear in the presence of the intrinsic magnetic field. For
+a 15 × 15-μm² image as shown in Fig. 1(a) our estimation yields
+$n=\frac{B_{\text{int}}A}{B_{\text{th}}}\approx 7600$ vortices. It is
+tempting to reinterpret the magnetic stripes below T_(WFM) as regions of
+ultrahigh vortex density, where single vortices cannot be resolved
+separately anymore. Considering that the twin boundaries carry a
+ferromagnetic component aligned along the c axis [20] and that the flux
+lines of the vortices induced by the weak intrinsic ferromagnetism run
+along the c axis as well, an accumulation of vortices in the vicinity of
+the twin boundaries could be energetically favorable. In this case the
+locally probed λ values in the striped region [black and green dot, Fig.
+1(a)] do not reflect the true penetration depth, as each force gradient
+curve has a contribution of both the Meissner force from the
+superconducting region as well as the magnetic force from the flux
+quanta. In a previous Bitter decoration study vortex stripes pinned
+along the [100] direction have been observed at temperatures slightly
+below T_(WFM) and in applied magnetic fields of 15-20 Oe, which
+rearrange into a hexagonal vortex lattice above T_(WFM)[21]. They were
+interpreted as a pinning of external field-induced vortices along
+ferromagnetic domains, that vanish above T_(WFM)
+
+Figure 3: (Color online) (a) A 15 × 15-μm² MFM image obtained at T = 5 K
+and (b)–(e) 20 × 20-μm² MFM images taken at T = 6, 7, 8, and 9 K. The
+lift height for all images was constant at 700 nm.
+
+[see Figs. 2(b) and 2(c)]. A spontaneous flux lattice, on the other
+hand, was not observed. In our experiments, carried out in negligible
+external magnetic fields, the stripes vanish completely above T_(WFM).
+This is in stark contrast to several previous Bitter decoration
+experiments [14, 20, 21] and further support for our scenario of the
+_spontaneous_ vortex formation induced by the weak intrinsic
+ferromagnetic field. Note that also a slight rearrangement of stray
+field induced vortices can be found upon crossing T_(WFM), which could
+result from an interaction with departing spontaneous vortices. In order
+to unambiguously prove the existence of spontaneous vortex stripes in
+ErNi₂B₂C, however, further experiments with a higher resolution or
+within a lower vortex density region (e.g., by applying an opposing
+magnetic field) are required in a narrow temperature regime around the
+weak ferromagnetic transition.
+
+## IV Summary
+
+In summary, we have presented an MFM study of the magnetic
+superconductor ErNi₂B₂C down to sub-Kelvin temperatures. We introduced a
+straightforward method for locally determining the vortex pinning force
+F_(P), as well as demonstrated a spatially resolved measurement of the
+penetration depth λ. Our measurements yield λ(0) ≈ 190 nm. Below
+T_(WFM), λ varies locally by more than 20
+
+## Acknowledgments
+
+We acknowledge important discussions with O. E. Ayala-Valenzuela. This
+work was supported by the Institute for Basic Science, Grant No.
+IBS-R014-D1. Work done by P.C.C. and S.L.B. was supported by the US
+Department of Energy, Office of Basic Energy Science, Division of
+Materials Sciences and Engineering. Their research was performed at the
+Ames Laboratory. The Ames Laboratory is operated for the US Department
+of Energy by Iowa State University under Contract No. DE-AC02-07CH11358.
+
+## References
+
+* [1] P. C. Canfield, P. L. Gammel, and D. J. Bishop, Phys. Today
+**51**, 40 (1998). * [2] J. W. Lynn, S. Skanthakumar, Q. Huang, S. K.
+Sinha, Z. Hossain, L. C. Gupta, R. Nagarajan, and C. Godart, Phys. Rev.
+B **55**, 6584 (1997). * [3] K.-H. Muller and V. N. Narozhnyi, Rep.
+Prog. Phys. **64**, 943 (2001). * [4] S. Simizu, S. A. Friedberg, E. A.
+Hayri, and M. Greenblatt, Phys. Rev. B **36**, 7129 (1987). * [5] D. J.
+Scalapino, Rev. Mod. Phys. **84**, 1383 (2012). * [6] D. Wulferding, M.
+Shay, G. Drachuck, R. Ofer, G. Bazalitsky, Z. Salman, P. Lemmens, and A.
+Keren, Phys. Rev. B **90**, 104511 (2014). * [7] G. Blatter, M. V.
+Feigel’man, V. B. Geshkenbein, A. I. Larkin, and V. M. Vinokur, Rev.
+Mod. Phys. **66**, 1125 (1994). * [8] D. D. Lawrie and J. P. Franck,
+Physica C **235**, 2401 (1994). * [9] K. O. Cheon, I. R. Fisher, and P.
+C. Canfield, Physica C **312**, 35 (1999). * [10] B. K. Cho, P. C.
+Canfield, L. L. Miller, D. C. Johnston, W. P. Beyermann, and A. Yatskar,
+Phys. Rev. B **52**, 3684 (1995). * [11] P. C. Canfield, S. L. Bud’ko,
+and B. K. Cho, Physica C **262**, 249 (1996). * [12] H. Bluhm, S. E.
+Sebastian, J. W. Guikema, I. R. Fisher, and K. A. Moler, Phys. Rev. B
+**73**, 014514 (2006). * [13] E. E. M. Chia, M. B. Salamon, T. Park,
+H.-J. Kim, S.-I. Lee, and H. Takeya, Europhys. Lett. **73**, 772
+(2006). * [14] L. Ya. Vinnikov, J. Anderegg, S. L. Bud’ko, P. C.
+Canfield, and V. G. Kogan, Phys. Rev. B **71**, 224513 (2005). * [15] P.
+C. Canfield and I. R. Fisher, J. Cryst. Growth **225**, 155 (2001). *
+[16] See, e.g., G. Drachuck, M. Shay, G. Bazalitsky, R. Ofer, Z. Salman,
+A. Amato, C. Niedermayer, D. Wulferding, P. Lemmens, and A. Keren, J.
+Supercond. Novel Magn. **25**, 2331 (2012). * [17] J. Yang and J. Kim
+(unpublished). * [18] PPP-MFMR from NANOSENSORS^(TM). * [19] C. Detlefs,
+A. H. M. Z. Islam, T. Gu, A. I. Goldman, C. Stassis, P. C. Canfield, J.
+P. Hill, and T. Vogt, Phys. Rev. B **56**, 7843 (1997). * [20] N. Saha,
+R. Surdeanu, M. Marchevsky, G. J. Nieuwenhuys, C. D. Dewhurst, R. J.
+Wijngaarden, D. McK. Paul, and P. H. Kes, Phys. Rev. B **63**, 020502(R)
+(2000). * [21] I. S. Veschunov, L. Ya. Vinnikov, S. L. Bud’ko, and P. C.
+Canfield, Phys. Rev. B **76**, 174506 (2007). * [22] H. Kawano-Furukawa,
+H. Takeshita, M. Ochiai, T. Nagata, H. Yoshizawa, N. Furukawa, H.
+Takeya, and K. Kadowaki, Phys. Rev. B **65**, 180508(R) (2002). * [23]
+J. Kim, L. Civale, E. Nazaretski, N. Haberkorn, F. Ronning, A. S. Sefat,
+T. Tajima, B. H. Moeckly, J. D. Thompson, and R. Movshovich, Supercond.
+Sci. Technol. **25**, 112001 (2012). * [24] Note that a discrepancy
+between λ values obtained at the start (black dot) and end point (green
+dot) might be related to a small hysteresis behavior of the piezo
+scanners. * [25] U. Yaron, P. L. Gammel, A. P. Ramirez, D. A. Huse, D.
+J. Bishop, A. I. Goldman, C. Stassis, P. C. Canfield, K. Mortensen, and
+M. R. Eskilden, Nature (London) **382**, 236 (1996). * [26] X. Y. Miao,
+S. L. Bud’ko, and P. C. Canfield, J. Alloys Compd. **338**, 13 (2002). *
+[27] O. M. Auslaender, L. Luan, E. W. J. Straver, J. E. Hoffman, N. C.
+Koshnick, E. Zeldov, D. A. Bonn, R. Liang, W. N. Hardy, and K. A. Moler,
+Nature Phys. **5**, 35 (2009). * [28] P. L. Gammel, B. Barber, D. Lopez,
+A. P. Ramirez, D. J. Bishop, S. L. Bud’ko, and P. C. Canfield, Phys.
+Rev. Lett. **84**, 2497 (2000).
+
+* [29] M. Weigand, L. Civale, F. J. Baca, J. Kim, S. L. Bud’ko, P. C.
+Canfield, and B. Maiorov, Phys. Rev. B **87**, 140506(R) (2013). * [30]
+P. C. Canfield and S. L. Bud’ko, in _Rare Earth Transition Metal
+Borocarbides (Nitrides): Superconducting, Magnetic and Normal State
+Properties_, edited by K.-H. Muller and V. Narozhnyi (Kluwer Academic,
+Dordrecht, 2001), p. 33. * [31] H. S. Greenside, E. I. Blount, and C. M.
+Varma, Phys. Rev. Lett. **46**, 49 (1981). * [32] C. G. Kuper, M.
+Revzen, and A. Ron, Phys. Rev. Lett. **44**, 1545 (1980). * [33] E. I.
+Blount and C. M. Varma, Phys. Rev. Lett. **42**, 1079 (1979). * [34] T.
+K. Ng and C. M. Varma, Phys. Rev. Lett. **78**, 330 (1997).

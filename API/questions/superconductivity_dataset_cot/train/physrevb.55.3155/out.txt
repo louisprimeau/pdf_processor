@@ -1,0 +1,349 @@
+
+
+# Thermal transport in YBa2Cu3O6+_x_: Doping dependence across the phase diagram
+
+C. P. Popoviciu and J. L. Cohn
+
+Department of Physics, University of Miami, Coral Gables, Florida 33124
+
+16 August 1996
+
+###### Abstract
+
+A systematic study of the temperature and oxygen-doping dependence of thermal conductivity (_k_) and thermoelectric power (_S_) in polycrystal YBa2Cu3O6+_x_ is reported for compositions spanning the phase diagram (0<_x_ < 1). _k_(_x_) is nonmonotonic with apparent enhancements near x = 0.1, 0.3, and 0.6. Thermal hysteresis in k and S with a common temperature dependence is observed for all x, and is substantially enhanced at these same compositions. These features are likely related to the oxygen order and associated changes in the local structure. The superconducting-state enhancement of k is parametrized by its change in slope at the superconducting transition. The doping dependence of this quantity agrees with that of the in-plane thermal conductivity in single crystals, and confirms that the enhancement scales with the superconducting condensate density throughout the underdoped regime. [S0163-1829(97)11205-X]
+
+## I Introduction
+
+Experimental efforts over the past several years have revealed systematic behaviors of the in-plane electrical resistivity,[1, 2, 3, 4] Hall coefficient,[5] and thermopower[6, 7, 8] in the cuprates as functions of temperature and doping. These established signatures of the in-plane transport have played an important role in the development of theoretical models for the cuprate normal state and superconductivity. The experimental situation for the in-plane thermal conductivity (_k_ab) is considerably less complete.[9] Doping-dependent studies on either single crystals or polycrystals are few in number.[10, 11, 12, 13] Even in YBa2Cu3O6+_x_(Y-123), the most widely studied material, the temperature dependence and magnitude of _k_ab in the normal state of superconducting specimens show substantial variability from specimen to specimen. In spite of numerous measurements of k in both single-crystal and polycrystal Y-123 having _Tc_  90 K, the assessment of systematics from the literature is complicated by the previously common practice of using _Tc_ values to estimate oxygen content. For Y-123, _Tc_ depends only weakly on x in the range 0.8<=_x_ <= 1.0 (the "90 K plateau") and hence the doping and temperature dependences of k in this regime remain poorly understood.
+
+The enhancement of the superconducting-state _k_ab above its normal-state value is common to the cuprates, and this feature has received considerable attention.[14, 15, 16, 17, 18, 19, 20] The enhancement possibly reflects unusual quasiparticle dynamics related to strong correlations and/or novel pairing symmetry. However, interpretations are hampered by the fact that an enhancement in the lattice thermal conductivity can also occur, as in conventional superconductors. Recently Cohn,[21] using results from the literature, has demonstrated that over a broad range of doping this enhancement in Y-123 correlates with specific heat jumps,[22] a measure of the superconducting condensate density. The doping dependence of the enhancement should offer important constraints on interpretations of this phenomenon. A principal motivation for the present study was to further explore this behavior on individual Y-123 specimens with well-defined composition and to extend the doping range.
+
+Ideally, one would like to perform successive measurements on the same sample with differing oxygen configurations so as to control for variations in microstructure (defects, impurities, flux inclusions, etc.) that may distinguish individual specimens. For small single crystals this is difficult in practice. An alternative approach, more straightforward experimentally, is to perform such a successive set of experiments on individual polycrystalline specimens. In this paper we present the results of an extensive study involving two specimens each measured at 12 values of x across the phase diagram. The only comparable study was reported by Zavaritskii _et al.[13]_ for a single specimen and six values of x; our results are consistent with this earlier work. In the present work we emphasize several findings about _k_(_x_,_T_): (i) nonmonotonic doping dependence _k_(_x_), (ii) systematic thermal hysteresis, and (iii) doping dependence of the superconducting-state enhancement. Where single-crystal data are available, we make direct comparisons with our results.
+
+## II Experimental details
+
+### Specimens and measurement technique
+
+Two polycrystalline samples used in this study were cut into parallelopipeds (approximate dimensions 5 x 1.5 x 1.25 mm [5]) from the same starting pellet of YBa2Cu3O6+_x_. X-ray diffraction (XRD) analysis of the pellet prior to heat treatments and subsequent measurements indicated a _c_-axis lattice parameter, c = 11.680 A. Using the results of iodometric analyses on polycrystals,[23] this value corresponds to x = 6.90 +- 0.02. Transport measurements were performed repeatedly on both specimens following successive heat treatments[24, 25] to vary the oxygen content, x (see Table I).
+
+The thermopower S and thermal conductivity k were measured simultaneously in a radiation-shielded vacuum-can probe, using a steady-state technique[11] employing a Chromel-Constantan differential thermocouple and metal-chip resistor as heater. Electrical contacts were made with silver paint. The thermopower of the Au leads was calibrated against lead in a separate experiment and corrections applied.
+
+ The magnitude of the thermopower (TEP), which is well established as a sensitive measure of oxygen content,[6, 26] was used to estimate x for each data set with x >= 0.15. Typical results are shown in Fig. 1. For the nitrogen-annealed specimens we assign nominal values of x = 0.05 and x ~ 0.07 for specimens 1 and 2, respectively, based on previous annealing studies [25, 27] and the room-temperature TEP values (Table 1) which indicate a slightly higher oxygen content for specimen 2.
+
+The thermal conductivity measurements have an inaccuracy of +-8 % due to uncertainties in the contact geometry. In separate experiments at selected oxygen contents the samples were suspended by their leads and the combined heat losses due to radiation and conduction through the leads determined; the data were corrected accordingly. These corrections are 10-15 % at room temperature and 1-3 % at T < 100 K.
+
+### Crystalline anisotropy
+
+The thermal conductivity of Y-123 is anisotropic, with transport in the CuO2 planes (k_{b}) roughly a factor of 2-4 larger than transverse to the planes (k_{c}) (we ignore in-plane anisotropy since polycrystals are twinned). This anisotropy is temperature and probably doping dependent, though published data are available only near x = 0 (Ref. [28]) and x = 0.9 (Ref. [29]). Generally we would expect the thermal conductivity of polycrystals to represent a weighted average of the transport coefficient in these two crystallographic directions. Temperature- or doping-dependent features arising from intrinsic changes in scattering tend to be reduced in amplitude in polycrystals due to the additional scattering at grain boundaries. These qualitative expectations are borne out in experiment as shown in Fig. 2 where we plot data for crystals [28, 30] and polycrystal 1 at x ~ 0.05. We see that the polycrystal data are reasonably well described as a weighted average of k_{b} and k_{c} with the temperature-dependent anisotropy ratio as the weighting factor and an overall magnitude reduced by a factor of 2-3.
+
+## III Results
+
+### Normal-state T dependence
+
+The data for the two samples in the insulating (0 <= x < 0.4) and superconducting (0.4 <= x < 1.0) regimes are shown in Figs. 3-5. Qualitatively similar behavior for _k_(_x_,_T_) is observed for the two specimens. The magnitude of k is consistently 10-20 % larger for specimen 2, slightly
+
+Figure 1: Thermopower vs temperature for Y-123 polycrystal 2 at different oxygen configurations.
+
+  larger than can be accounted for by geometric uncertainties. Thermal hysteresis in \kappa is evident as a difference between warming and cooling curves for both specimens throughout the phase diagram. The magnitude of the hysteresis varies with temperature and doping, and is discussed in more detail below.
+
+Focusing on the normal-state data for superconducting compositions (Fig. 5), we see that for x >= 0.79, \kappa exhibits a negative temperature coefficient (TC) with a nearly constant shift in magnitude for different x values. The more heavily underdoped specimens exhibit a positive TC at low temperatures, resulting in a broad maximum at T ~ 120 K. An interesting exception to these qualitative trends is seen in the data for specimen 1 in run 1 where x ~ 0.86 (solid circles). A maximum is observed near 150 K. This curve is to be compared with the behavior of the same specimen upon reoxygenation to the same nominal oxygen content (open squares, run 10). A comparison of the thermopowers for these two runs (Fig. 6) indicates a stronger positive TC during run 1. Several studies have demonstrated that a positive TC in the
+
+TEP is associated with the CuO chains.[31, 32, 33] Evidently, the specimen during run 1 is characterized by a greater relative contribution to the transport from the CuO chains. Further support for this conclusion is provided by thermal conductivity measurements of untwinned Y-123 crystals with x = 0.9; a negative TC was observed at T <= 150 K for transport along the CuO chains.[11] Different degrees of CuO-chain order for runs 1 and 10 would be expected based on the different annealing conditions of the specimen prior to these runs (Table 1). The conditions for run 1 tend to promote oxygen ordering and some oxygen loss as compared to the as-prepared state. The anneal prior to run 10 favors a more uniform oxygen distribution. Clearly the thermal conductivity in Y-123, like the TEP, is sensitive near optimum doping to the specific configuration of oxygen within the CuO2 planes. These results suggest a similar explanation for variations in the TC of the normal-state \kappa_{ab} for published data on twinned Y-123 single crystals having T_{c} >= 90 K.
+
+### Oxygen-doping dependence of \kappa
+
+The doping dependence of the average thermal conductivity at T = 100 K is presented in Fig. 7 where we plot \kappa(x)/\kappa(x ~ 0.05) for each of the two specimens. Other fixed temperatures yield similar results, but the lower-temperature values are more reliable given uncertainties in the radiation corrections applied at higher T. Also plotted in this figure are
+
+Figure 4: Thermal conductivity vs temperature for insulating Y-123 polycrystals.
+
+Figure 3: Thermal conductivity vs temperature for insulating Y-123 polycrystals with x ~ 0.05.
+
+Figure 2: Thermal conductivity vs temperature for Y-123 polycrystal 1 compared with in-plane and out-of-plane data on crystals (Refs. [28] and [30]), all with x ~ 0.05.
+
+  in-plane data for insulating single crystals.[30] and available data on superconducting crystals[21] for which values of x were reported.
+
+The polycrystal data indicate a nonmonotonic dependence of \kappa with doping, and this trend is also evident in the single-crystal data.
+
+Particularly interesting and unexpected is the enhancement in \kappa(x) near x\!=\!0.6 and an apparent enhancement near x\!=\!0.3 (the latter is nearly within the experimental uncertainty). The enhancement in the crystal data near x\!=\!0.1 has been discussed previously.[30] Polycrystal specimen 2, for which both features are prominent, also exhibits the greatest hysteresis at these compositions.
+
+### Hysteresis
+
+Thermal hysteresis is observed in both \kappa and S (Fig. 8). This hysteresis, denoted \Delta\,\kappa\!=\!\kappa_{\rm cooling}\!-\!\kappa_{\rm warming} and similarly for \Delta S, is temperature and doping dependent, and finite throughout the phase diagram in both specimens. The temperature dependence of \Delta\,\kappa is remarkably similar for both specimens and all compositions, with the single exception of sample 2 at x\!\approx\!0.07. In Fig. 9 we plot \Delta\,\kappa(T), normalized by the maximum value \Delta\,\kappa_{\rm max} which occurs in the range 110 K \ll\!T\!\approx\!170 K. In excellent agreement with this scaling curve is data for in-plane thermal conductivity on a single crystal with x\!=\!0.08 (solid line).[30] Clearly a common mechanism underlies this phenomenon in both polycrystals and single crystals, and is operative in both the insulating and superconducting regimes.
+
+Figure 8: Hysteretic thermal conductivity and thermopower for specimen 2 at x\!=\!0.28.
+
+Figure 6: Thermopower vs temperature for sample 1, runs 1 and 10, both with x\!\approx\!0.86. The stronger positive temperature coefficient for run 1 indicates a larger CuO chain contribution.
+
+Figure 7: Oxygen doping dependence of thermal conductivity at T\!=\!100 K for the polycrystal specimens and crystals (Refs. 21 and 30).
+
+  Variations in the magnitude of the hysteresis appear to be specimen dependent. Figure 10 shows the doping dependence of \Delta\kappa_{\rm max}, expressed as a percentage of the average conductivity, \kappa_{\rm av}=(\kappa_{\rm cooling}+\kappa_{\rm warming})/2, at the temperature of the maximum. \Delta\kappa_{\rm max}/\kappa_{\rm av}\sim 1-2 % for both specimens with notable exceptions evident for specimen 2 at x = 0.55, 0.28, 0.07. As noted above, these compositions coincide with those at which enhancements in \kappa_{\rm av} are observed (Fig. 7). Evidently these two phenomena are closely related.
+
+The TEP hysteresis has doping and temperature dependences that correlate with those of \delta\kappa. However, as Fig. 11 shows, this behavior is specimen dependent. Whereas for specimen 2 we have approximately \Delta\kappa = \Delta S, specimen 1 exhibits in some cases \Delta S  \Delta\kappa. For the in-plane measurements on single crystals, the opposite is true: \Delta\kappa >= \Delta S. This suggests that some of the hysteresis in S for the polycrystals comes from the c-axis TEP. Although this contribution to the polycrystal TEP is expected to be small for superconducting compositions, this is not the case for the lightly doped insulators for which the in-plane and out-of-plane electrical resistivities become comparable.[34] Unfortunately c-axis TEP data are not available in this doping range to test this hypothesis. The reason for the different behavior of the two polycrystal specimens in Fig. 11 is unknown.
+
+An analysis is clearly complicated because different weighting factors in \kappa and S are to be expected for the c-axis and ab -plane contributions. For \kappa this weighting is determined by \kappa_{c}/\kappa_{ab} (Fig. 2), whereas for the TEP it is \sigma_{c}/\sigma_{ab}.
+
+### Superconducting-state enhancement
+
+We parametrize the enhancement in the following way.[35] The normal-state data are fitted to a polynomial, excluding the region near T_{c} where fluctuation effects cause small deviations.[11] This curve defines \kappa^{n} [Fig. 12(a)]. We then form the ratio \kappa^{n}/\kappa^{n} using the superconducting-state data [Fig. 12(b)] and compute the slope, d(\kappa^{n}/\kappa^{n})/dt|_{t\to 1} in the linear-t regime, typically 0.90 <= t <= 0.98. Figure 13 shows -d(\kappa^{n}/\kappa^{n})/dt|_{t\to 1} plotted versus x for both specimens. The uncertainty in the slope at each value of x is found by varying the lower cutoff temperature and order of the polynomial used to determine \kappa^{n}. For x >= 0.65 this uncertainty is \pm 5%. Larger uncertainties, denoted by the error bars, arise at x = 0.55, 0.58 due to the larger hysteresis and at the lowest values of x where the enhancement is just resolvable.
+
+The data for both specimens fall on a common curve, with the exception of sample 1 at x = 0.58. We note the correlation, for both samples at this composition, between values of -d(\kappa^{n}/\kappa^{n})/dt|_{t\to 1}, \kappa at T = 100 K (Fig. 7), and \Delta\kappa (Fig. 10): All three quantities are enhanced for sample 2, but not for sample 1.
+
+The doping dependence of -d(\kappa^{n}/\kappa^{n})/dt|_{t\to 1} is in excellent agreement with the in-plane single-crystal data. In Fig. 14 we combine the polycrystal and single crystal data on a single plot that demonstrates the correlation[21] of -d(\kappa^{n}/\kappa^{n})/dt|_{t\to 1} with the superconducting condensate density as measured by specific heat jumps (solid line).[22]
+
+## IV Discussion
+
+One of the more interesting aspects of this study is the nonmonotonic dependence of \kappa(x) (Fig. 7). Variations with x arise from changes in both the electronic (\kappa_{e}) and lattice
+
+Figure 11: The maximum hysteresis in \kappa plotted against that in S, both expressed as a percentage of averaged cooling and warming values at the temperature of the maximum. Solid lines are guides to the eye.
+
+Figure 10: Doping dependence of the maximum thermal conductivity hysteresis, expressed as a percentage of the average value at the temperature of the maximum. The in-plane data for crystals are from Ref. 30.
+
+  (\kappa_{L}) contributions. Changes in \kappa_{L} are clearly responsible for the behavior in the insulating regime (0 <= x < 0.4) where \kappa_{e} is negligible.[30]
+
+In the superconducting regime, both contributions must be considered, \kappa = \kappa_{e} + \kappa_{L}. Starting near x = 0.9, a decrease in \kappa_{e} with decreasing x is to be expected since the carrier density decreases. An upper bound on \kappa_{e} for crystals can be estimated using the in-plane electrical resistivity (\rho_{ab}) vs x (Ref. [3]) and the Wiedemann-Franz law (WFL).[56] The implication is a \kappa_{e} that decreases monotonically with x and accounts for roughly one-third of the total \kappa_{ab} throughout the superconducting regime. The inferred \kappa_{L} (Fig. 7, dotted line) decreases by a factor of 3 as x varies from 0.9 to 0.7, implying that chain-site oxygen vacancies give rise to substantial scattering of in-plane phonons. Note that the variations in \kappa(x) are a factor of 2-3 smaller in the polycrystals, consistent with our expectation (Fig. 2) that both grain boundary scattering and a contribution from \kappa_{c} reduce the sensitivity of \kappa to intrinsic changes in the in-plane scattering.
+
+The enhanced \kappa values at x = 0.55,0.28,0.1 are clearly associated with \kappa_{L}, and imply a reduction in phonon scattering at these compositions. That strong thermal hysteresis also occurs at these values of x (Fig. 10) suggests that both phenomena are connected with local structural modifications associated with charge transfer between the CuO_x_ and CuO_2 planes within oxygen-ordered domains. Bistability of the apical oxygen sublattice has been suggested as a possible origin of the hysteresis.[38] The value x = 0.55 corresponds to the ortho-II phase where the CuO chains are alternately full and empty. For the insulating compositions the average structure is tetragonal and the CuO_x_ layers are composed of chain fragments of varying length and random orientations along the equivalent in-plane crystallographic axes. Chain fragments composed of two or more oxygen atoms result in the transfer of holes from the CuO_x_ plane to the CuO_2 planes.[37] This leads to a local decrease in the Cu(2)-O(2) and Cu(2)-O(4) bond lengths, and a decrease in the Ba-ion-CuO_x_-plane distance for each such fragment. These localized lattice distortions are separated by regions that are oxygen deficient. It is likely that the lattice thermal conductivity would be sensitive to the resulting pattern of structural distortions. Ordered arrangements, like ortho-II, should yield less phonon scattering, with \kappa_{L} correspondingly enhanced. Ordering seems a less likely explanation for the enhancements at x ~ 0.28 and 0.10. Doped holes in the CuO_2 planes produce magnetic polarons[39] that disturb the in-plane antiferromagnetic order in this regime. Thus it is possible that pho
+
+Figure 14: -d(\kappa^{s}/\kappa^{n})/dt|_{t \to 1} vs x for polycrystals from Fig. 13 (multiplied by 1.7) and for single crystals (Ref. [21]). The solid line is the normalized specific heat jump adapted from Ref. [22].
+
+Figure 12: (a) Polynomial fit (solid line) to normal state data defining \kappa^{n} and (b) the ratio \kappa^{s}/\kappa^{n} vs reduced temperature. The solid line is a linear least-squares fit with slope d(\kappa^{s}/\kappa^{s})/dt|_{t \to 1}.
+
+  non damping by such collective excitations plays a role in the \kappa(x) behavior for the insulators. This is certainly an interesting topic for further investigation.
+
+Regarding the hysteresis, it is interesting to note that the temperature dependence of \Delta\kappa (Fig. 9) is remarkably similar to that of an anomalous phonon scattering term identified from the in-plane thermal conductivity of lightly doped insulating Y-123 and La_{2}CuO_{4}.[30] The origin of this scattering remains unknown, but its absence in Nd_{2}CuO_{4} suggests that it is related to tilt instabilities of CuO polyhedra. Neutron scattering studies[40] of superconducting Y-123 indicate anharmonic behavior for the apical oxygen in-plane motion. Thus there is motivation for interpreting the hysteresis (and the anomalous damping) along the lines suggested in Ref. [38].
+
+The doping dependence of the superconducting-state enhancement of \kappa for polycrystals confirms the conclusion from single-crystal data[21] that the enhancement scales with the condensate density (Fig. 14). The implications of this result for interpretations based on electronic or phononic mechanisms have been discussed elsewhere.[21] We have recently computed[41] the electronic contribution to -\left.d(\kappa^{\kappa}/\kappa^{\varsigma})/dt\right|_{\left|\,\tau\to 1\right.} in the quasiparticle approximation,[42] incorporating a pseudogap in the density of states. This electronic contribution is determined by competing terms associated with the pseudogap and the change in quasiparticle lifetime at T_{c}. It may be possible to further constrain interpretations of the enhancement using this model, the results reported here, and new determinations of the quasiparticle lifetime near T_{c} for underdoped Y-123. Similar investigations of other cuprates would also be of interest.
+
+The extended doping range of the present study also confirms the existence of a small local maximum in the enhancement near x\!=\!0.55, a feature that is also present in the specific heat data.[22] This feature is also observed in the specific heat jump data[43] for Y_{0.9}Ca_{0.1}Ba_{2}Cu_{3}O_{6+x}, but there the local maximum is shifted to lower x by \sim\!0.1. The latter result is significant because it demonstrates that the local maximum is not associated with an enhanced condensate density arising from ordered CuO chains,[44] but rather appears to be intrinsic to the underdoped CuO_{2} planes, occurring for a hole concentration per planar Cu, p\!\approx\!0.10. In examining Fig. 14 it may be more instructive to focus on the depression in the thermal conductivity slope change and specific heat jumps that occur near x\!=\!0.7\!-\!0.75, corresponding to p\!\approx\!0.13.[45] At this composition the normal-state pseudogap becomes comparable to the superconducting energy gap,[46] and electronic phase separation may result. The influence of phase separation on the superconducting condensate and local structure may be relevant to an understanding of Fig. 14 and 7.
+
+To summarize, our results demonstrate that the heat conduction in Y-123 is quite sensitive to both oxygen content and oxygen order throughout the phase diagram. This sensitivity is manifested in the nonmonotonic doping dependence of \kappa and the superconducting-state enhancement (x\!\approx\!0.4). The systematics of thermal hysteresis in \kappa suggest the importance of the (possibly dynamic) local structure in the damping of heat-carrying phonons. The doping and T-dependent trends reflected in the present data are consistent with and extend those found previously for in-plane transport in crystals.
+
+## Acknowledgments
+
+The authors gratefully acknowledge T. A. Vanderah for providing the polycrystalline starting material used in this work and its characterization by x-ray diffraction. This work was supported by the National Science Foundation, Grant No. DMR-9631236, and by the University of Miami Research Council.
+
+## References
+
+* [1] H. Takagi _et al._, Phys. Rev. Lett. **69**, 2975 (1992).
+* [2] Y. Nakamura and S. Uchida, Phys. Rev. B **47**, 8369 (1993).
+* [3] T. Ito, K. Takenaka, and S. Uchida, Phys. Rev. Lett. **70**, 3995 (1993).
+* [4] B. Bucher _et al._, Phys. Rev. Lett. **70**, 2012 (1993).
+* [5] N.-P. Ong, in _Physical Properties of High Temperature Superconductors_, edited by D. M. Ginsberg (World Scientific, Singapore, 1990), Vol. II, p. 459.
+* [6] S. D. Obertelli, J. R. Cooper, and J. L. Tallon, Phys. Rev. B **46**, 14 928 (1992).
+* [7] C. K. Subramaniam _et al._, Supercond. Sci. Technol. **7**, 30 (1994).
+* [8] J. L. Tallon _et al._, Phys. Rev. B **51**, 12 911 (1995).
+* [9] C. Uher, in _Physical Properties of High Temperature Superconductors_, edited by D. M. Ginsberg (World Scientific, Singapore, 1993), Vol. III, p. 159.
+* [10] Y. Nakamura _et al._, Physica C **185-189**, 1409 (1991).
+* [11] J. L. Cohn _et al._, Phys. Rev. B **45**, 13 144 (1992).
+* [12] J. L. Cohn _et al._, Phys. Rev. B **46**, 12 053 (1992).
+* [13] N. V. Zavaritskii, A. V. Samoilov, and A. A. Yurgens, JETP Lett. **48**, 242 (1988).
+* [14] J. L. Cohn _et al._, Phys. Rev. Lett. **71**, 1657 (1993).
+* [15] R. C. Yu, M. B. Salamon, and J. P. Lu, **71**, 1658 (1993).
+* [16] A. S. Alexandrov and N. F. Mott, Phys. Rev. Lett **71**, 1075 (1993).
+* [17] B. W. Statt and A. Griffin, Phys. Rev. B **48**, 619 (1993).
+* [18] W. S. Williams, Solid State Commun. **87**, 355 (1993).
+* [19] P. B. Allen _et al._, Phys. Rev. B **49**, 9073 (1994).
+* [20] C. Uher, Y. Liu, and J. F. Whitaker, J. Supercond. **7**, 323 (1994).
+* [21] J. L. Cohn, Phys. Rev. B **53**, R2963 (1996).
+* [22] J. W. Loram _et al._, Phys. Rev. Lett. **71**, 1740 (1993).
+* [23] M. E. Parks _et al._, J. Solid State Chem. **79**, 53 (1989); M. S. Osofsky _et al._, Phys. Rev. B **45**, 4916 (1992).
+* [24] R. K. Siddique, Physica C **228**, 365 (1994).
+* [25] J. D. Jorgensen _et al._, Phys. Rev. B **41**, 1863 (1990).
+* [26] P. J. Ouseph and M. Ray O'Bryan, Phys. Rev. B **40**, 4123 (1990).
+* [27] P. Schleger, W. N. Hardy, and B. X. Yang, Physica C **176**, 261 (1991).
+* [28] J. L. Cohn, J. Supercond. **8**, 457 (1995).
+* [29] S. J. Hagen, Z. Z. Wang, and N.-P. Ong, Phys. Rev. B **40**, 9389 (1989).
+* [30] J. L. Cohn, C. K. Lowe-Ma, and T. A. Vanderah, Phys. Rev. B **52**, R13 134 (1995).
+* [31] J. L. Cohn _et al._, Phys. Rev. B **45**, 13 140 (1992).
+* [32] J.-S. Zhou _et al._, Phys. Rev. B **51**, 3250 (1995).
+
+  * [33] C. Bernhard and J. L. Tallon, Phys. Rev. B **54**, 10 201 (1996).
+* [34] J. L. Cohn (unpublished).
+* [35] Alternative parametrizations \kappa_{\rm max}/\kappa(T_{c}) or \delta W/W (Ref. 21) yield qualitatively similar behavior.
+* [36] The WFL analysis is not valid for polycrystals since grain-boundary barriers pose a higher electrical resistance than electronic thermal resistance. However, Peacor _et al._ [Phys. Rev. B **42**, 2684 (1990)] have found that for Ba_{0.6}K_{0.4}BiO_{3} polycrystals both \kappa_{e} and \kappa_{L} are reduced by comparable fractions by such barriers.
+* [37] H. Shaked _et al._, Phys. Rev. B **51**, 547 (1995).
+* [38] A. P. Saiko, V. E. Gusakov, and V. S. Kuz'min, JETP Lett. **57**, 116 (1993).
+* [39] J. Rossat-Mignod _et al._, Physica B **169**, 58 (1991).
+* [40] P. Schweiss _et al._, Phys. Rev. B **49**, 1387 (1994).
+* [41] C. P. Popoviciu and J. L. Cohn (unpublished).
+* [42] V. Ambegaokar and J. Woo, Phys. Rev. **139**, A1818 (1965); V. Ambegaokar and L. Teordt, _ibid._**134**, A805 (1964).
+* [43] J. W. Loram _et al._, Physica C **235-240**, 1735 (1994).
+* [44] V. Z. Kresin and S. A. Wolf, Phys. Rev. B **46**, 6458 (1992); S. D. Adrian _et al._, _ibid._**51**, 6800 (1995).
+* [45] J. L. Tallon _et al._, Phys. Rev. B **51**, 12 911 (1995).
+* [46] J. L. Tallon, Physica C **235-240**, 1821 (1994); J. L. Tallon _et al._, Phys. Rev. Lett. **75**, 4114 (1995); G. V. M. Williams _et al._, Phys. Rev. B **54**, R6909 (1996).
+
+ 
+
+# Thermal transport in YBa2Cu3O6+_x_: Doping dependence across the phase diagram
+
+C. P. Popoviciu and J. L. Cohn
+
+Department of Physics, University of Miami, Coral Gables, Florida 33124
+
+16 August 1996
+
+###### Abstract
+
+A systematic study of the temperature and oxygen-doping dependence of thermal conductivity (_k_) and thermoelectric power (_S_) in polycrystal YBa2Cu3O6+_x_ is reported for compositions spanning the phase diagram (0<_x_ < 1). _k_(_x_) is nonmonotonic with apparent enhancements near x = 0.1, 0.3, and 0.6. Thermal hysteresis in k and S with a common temperature dependence is observed for all x, and is substantially enhanced at these same compositions. These features are likely related to the oxygen order and associated changes in the local structure. The superconducting-state enhancement of k is parametrized by its change in slope at the superconducting transition. The doping dependence of this quantity agrees with that of the in-plane thermal conductivity in single crystals, and confirms that the enhancement scales with the superconducting condensate density throughout the underdoped regime. [S0163-1829(97)11205-X]
+
+## I Introduction
+
+Experimental efforts over the past several years have revealed systematic behaviors of the in-plane electrical resistivity,[1, 2, 3, 4] Hall coefficient,[5] and thermopower[6, 7, 8] in the cuprates as functions of temperature and doping. These established signatures of the in-plane transport have played an important role in the development of theoretical models for the cuprate normal state and superconductivity. The experimental situation for the in-plane thermal conductivity (_k_ab) is considerably less complete.[9] Doping-dependent studies on either single crystals or polycrystals are few in number.[10, 11, 12, 13] Even in YBa2Cu3O6+_x_(Y-123), the most widely studied material, the temperature dependence and magnitude of _k_ab in the normal state of superconducting specimens show substantial variability from specimen to specimen. In spite of numerous measurements of k in both single-crystal and polycrystal Y-123 having _Tc_  90 K, the assessment of systematics from the literature is complicated by the previously common practice of using _Tc_ values to estimate oxygen content. For Y-123, _Tc_ depends only weakly on x in the range 0.8<=_x_ <= 1.0 (the "90 K plateau") and hence the doping and temperature dependences of k in this regime remain poorly understood.
+
+The enhancement of the superconducting-state _k_ab above its normal-state value is common to the cuprates, and this feature has received considerable attention.[14, 15, 16, 17, 18, 19, 20] The enhancement possibly reflects unusual quasiparticle dynamics related to strong correlations and/or novel pairing symmetry. However, interpretations are hampered by the fact that an enhancement in the lattice thermal conductivity can also occur, as in conventional superconductors. Recently Cohn,[21] using results from the literature, has demonstrated that over a broad range of doping this enhancement in Y-123 correlates with specific heat jumps,[22] a measure of the superconducting condensate density. The doping dependence of the enhancement should offer important constraints on interpretations of this phenomenon. A principal motivation for the present study was to further explore this behavior on individual Y-123 specimens with well-defined composition and to extend the doping range.
+
+Ideally, one would like to perform successive measurements on the same sample with differing oxygen configurations so as to control for variations in microstructure (defects, impurities, flux inclusions, etc.) that may distinguish individual specimens. For small single crystals this is difficult in practice. An alternative approach, more straightforward experimentally, is to perform such a successive set of experiments on individual polycrystalline specimens. In this paper we present the results of an extensive study involving two specimens each measured at 12 values of x across the phase diagram. The only comparable study was reported by Zavaritskii _et al.[13]_ for a single specimen and six values of x; our results are consistent with this earlier work. In the present work we emphasize several findings about _k_(_x_,_T_): (i) nonmonotonic doping dependence _k_(_x_), (ii) systematic thermal hysteresis, and (iii) doping dependence of the superconducting-state enhancement. Where single-crystal data are available, we make direct comparisons with our results.
+
+## II Experimental details
+
+### Specimens and measurement technique
+
+Two polycrystalline samples used in this study were cut into parallelopipeds (approximate dimensions 5 x 1.5 x 1.25 mm [5]) from the same starting pellet of YBa2Cu3O6+_x_. X-ray diffraction (XRD) analysis of the pellet prior to heat treatments and subsequent measurements indicated a _c_-axis lattice parameter, c = 11.680 A. Using the results of iodometric analyses on polycrystals,[23] this value corresponds to x = 6.90 +- 0.02. Transport measurements were performed repeatedly on both specimens following successive heat treatments[24, 25] to vary the oxygen content, x (see Table I).
+
+The thermopower S and thermal conductivity k were measured simultaneously in a radiation-shielded vacuum-can probe, using a steady-state technique[11] employing a Chromel-Constantan differential thermocouple and metal-chip resistor as heater. Electrical contacts were made with silver paint. The thermopower of the Au leads was calibrated against lead in a separate experiment and corrections applied.
+
+ The magnitude of the thermopower (TEP), which is well established as a sensitive measure of oxygen content,[6, 26] was used to estimate x for each data set with x >= 0.15. Typical results are shown in Fig. 1. For the nitrogen-annealed specimens we assign nominal values of x = 0.05 and x ~ 0.07 for specimens 1 and 2, respectively, based on previous annealing studies [25, 27] and the room-temperature TEP values (Table 1) which indicate a slightly higher oxygen content for specimen 2.
+
+The thermal conductivity measurements have an inaccuracy of +-8 % due to uncertainties in the contact geometry. In separate experiments at selected oxygen contents the samples were suspended by their leads and the combined heat losses due to radiation and conduction through the leads determined; the data were corrected accordingly. These corrections are 10-15 % at room temperature and 1-3 % at T < 100 K.
+
+### Crystalline anisotropy
+
+The thermal conductivity of Y-123 is anisotropic, with transport in the CuO2 planes (k_{b}) roughly a factor of 2-4 larger than transverse to the planes (k_{c}) (we ignore in-plane anisotropy since polycrystals are twinned). This anisotropy is temperature and probably doping dependent, though published data are available only near x = 0 (Ref. [28]) and x = 0.9 (Ref. [29]). Generally we would expect the thermal conductivity of polycrystals to represent a weighted average of the transport coefficient in these two crystallographic directions. Temperature- or doping-dependent features arising from intrinsic changes in scattering tend to be reduced in amplitude in polycrystals due to the additional scattering at grain boundaries. These qualitative expectations are borne out in experiment as shown in Fig. 2 where we plot data for crystals [28, 30] and polycrystal 1 at x ~ 0.05. We see that the polycrystal data are reasonably well described as a weighted average of k_{b} and k_{c} with the temperature-dependent anisotropy ratio as the weighting factor and an overall magnitude reduced by a factor of 2-3.
+
+## III Results
+
+### Normal-state T dependence
+
+The data for the two samples in the insulating (0 <= x < 0.4) and superconducting (0.4 <= x < 1.0) regimes are shown in Figs. 3-5. Qualitatively similar behavior for _k_(_x_,_T_) is observed for the two specimens. The magnitude of k is consistently 10-20 % larger for specimen 2, slightly
+
+Figure 1: Thermopower vs temperature for Y-123 polycrystal 2 at different oxygen configurations.
+
+  larger than can be accounted for by geometric uncertainties. Thermal hysteresis in \kappa is evident as a difference between warming and cooling curves for both specimens throughout the phase diagram. The magnitude of the hysteresis varies with temperature and doping, and is discussed in more detail below.
+
+Focusing on the normal-state data for superconducting compositions (Fig. 5), we see that for x >= 0.79, \kappa exhibits a negative temperature coefficient (TC) with a nearly constant shift in magnitude for different x values. The more heavily underdoped specimens exhibit a positive TC at low temperatures, resulting in a broad maximum at T ~ 120 K. An interesting exception to these qualitative trends is seen in the data for specimen 1 in run 1 where x ~ 0.86 (solid circles). A maximum is observed near 150 K. This curve is to be compared with the behavior of the same specimen upon reoxygenation to the same nominal oxygen content (open squares, run 10). A comparison of the thermopowers for these two runs (Fig. 6) indicates a stronger positive TC during run 1. Several studies have demonstrated that a positive TC in the
+
+TEP is associated with the CuO chains.[31, 32, 33] Evidently, the specimen during run 1 is characterized by a greater relative contribution to the transport from the CuO chains. Further support for this conclusion is provided by thermal conductivity measurements of untwinned Y-123 crystals with x = 0.9; a negative TC was observed at T <= 150 K for transport along the CuO chains.[11] Different degrees of CuO-chain order for runs 1 and 10 would be expected based on the different annealing conditions of the specimen prior to these runs (Table 1). The conditions for run 1 tend to promote oxygen ordering and some oxygen loss as compared to the as-prepared state. The anneal prior to run 10 favors a more uniform oxygen distribution. Clearly the thermal conductivity in Y-123, like the TEP, is sensitive near optimum doping to the specific configuration of oxygen within the CuO2 planes. These results suggest a similar explanation for variations in the TC of the normal-state \kappa_{ab} for published data on twinned Y-123 single crystals having T_{c} >= 90 K.
+
+### Oxygen-doping dependence of \kappa
+
+The doping dependence of the average thermal conductivity at T = 100 K is presented in Fig. 7 where we plot \kappa(x)/\kappa(x ~ 0.05) for each of the two specimens. Other fixed temperatures yield similar results, but the lower-temperature values are more reliable given uncertainties in the radiation corrections applied at higher T. Also plotted in this figure are
+
+Figure 4: Thermal conductivity vs temperature for insulating Y-123 polycrystals.
+
+Figure 3: Thermal conductivity vs temperature for insulating Y-123 polycrystals with x ~ 0.05.
+
+Figure 2: Thermal conductivity vs temperature for Y-123 polycrystal 1 compared with in-plane and out-of-plane data on crystals (Refs. [28] and [30]), all with x ~ 0.05.
+
+  in-plane data for insulating single crystals.[30] and available data on superconducting crystals[21] for which values of x were reported.
+
+The polycrystal data indicate a nonmonotonic dependence of \kappa with doping, and this trend is also evident in the single-crystal data.
+
+Particularly interesting and unexpected is the enhancement in \kappa(x) near x\!=\!0.6 and an apparent enhancement near x\!=\!0.3 (the latter is nearly within the experimental uncertainty). The enhancement in the crystal data near x\!=\!0.1 has been discussed previously.[30] Polycrystal specimen 2, for which both features are prominent, also exhibits the greatest hysteresis at these compositions.
+
+### Hysteresis
+
+Thermal hysteresis is observed in both \kappa and S (Fig. 8). This hysteresis, denoted \Delta\,\kappa\!=\!\kappa_{\rm cooling}\!-\!\kappa_{\rm warming} and similarly for \Delta S, is temperature and doping dependent, and finite throughout the phase diagram in both specimens. The temperature dependence of \Delta\,\kappa is remarkably similar for both specimens and all compositions, with the single exception of sample 2 at x\!\approx\!0.07. In Fig. 9 we plot \Delta\,\kappa(T), normalized by the maximum value \Delta\,\kappa_{\rm max} which occurs in the range 110 K \ll\!T\!\approx\!170 K. In excellent agreement with this scaling curve is data for in-plane thermal conductivity on a single crystal with x\!=\!0.08 (solid line).[30] Clearly a common mechanism underlies this phenomenon in both polycrystals and single crystals, and is operative in both the insulating and superconducting regimes.
+
+Figure 8: Hysteretic thermal conductivity and thermopower for specimen 2 at x\!=\!0.28.
+
+Figure 6: Thermopower vs temperature for sample 1, runs 1 and 10, both with x\!\approx\!0.86. The stronger positive temperature coefficient for run 1 indicates a larger CuO chain contribution.
+
+Figure 7: Oxygen doping dependence of thermal conductivity at T\!=\!100 K for the polycrystal specimens and crystals (Refs. 21 and 30).
+
+  Variations in the magnitude of the hysteresis appear to be specimen dependent. Figure 10 shows the doping dependence of \Delta\kappa_{\rm max}, expressed as a percentage of the average conductivity, \kappa_{\rm av}=(\kappa_{\rm cooling}+\kappa_{\rm warming})/2, at the temperature of the maximum. \Delta\kappa_{\rm max}/\kappa_{\rm av}\sim 1-2 % for both specimens with notable exceptions evident for specimen 2 at x = 0.55, 0.28, 0.07. As noted above, these compositions coincide with those at which enhancements in \kappa_{\rm av} are observed (Fig. 7). Evidently these two phenomena are closely related.
+
+The TEP hysteresis has doping and temperature dependences that correlate with those of \delta\kappa. However, as Fig. 11 shows, this behavior is specimen dependent. Whereas for specimen 2 we have approximately \Delta\kappa = \Delta S, specimen 1 exhibits in some cases \Delta S  \Delta\kappa. For the in-plane measurements on single crystals, the opposite is true: \Delta\kappa >= \Delta S. This suggests that some of the hysteresis in S for the polycrystals comes from the c-axis TEP. Although this contribution to the polycrystal TEP is expected to be small for superconducting compositions, this is not the case for the lightly doped insulators for which the in-plane and out-of-plane electrical resistivities become comparable.[34] Unfortunately c-axis TEP data are not available in this doping range to test this hypothesis. The reason for the different behavior of the two polycrystal specimens in Fig. 11 is unknown.
+
+An analysis is clearly complicated because different weighting factors in \kappa and S are to be expected for the c-axis and ab -plane contributions. For \kappa this weighting is determined by \kappa_{c}/\kappa_{ab} (Fig. 2), whereas for the TEP it is \sigma_{c}/\sigma_{ab}.
+
+### Superconducting-state enhancement
+
+We parametrize the enhancement in the following way.[35] The normal-state data are fitted to a polynomial, excluding the region near T_{c} where fluctuation effects cause small deviations.[11] This curve defines \kappa^{n} [Fig. 12(a)]. We then form the ratio \kappa^{n}/\kappa^{n} using the superconducting-state data [Fig. 12(b)] and compute the slope, d(\kappa^{n}/\kappa^{n})/dt|_{t\to 1} in the linear-t regime, typically 0.90 <= t <= 0.98. Figure 13 shows -d(\kappa^{n}/\kappa^{n})/dt|_{t\to 1} plotted versus x for both specimens. The uncertainty in the slope at each value of x is found by varying the lower cutoff temperature and order of the polynomial used to determine \kappa^{n}. For x >= 0.65 this uncertainty is \pm 5%. Larger uncertainties, denoted by the error bars, arise at x = 0.55, 0.58 due to the larger hysteresis and at the lowest values of x where the enhancement is just resolvable.
+
+The data for both specimens fall on a common curve, with the exception of sample 1 at x = 0.58. We note the correlation, for both samples at this composition, between values of -d(\kappa^{n}/\kappa^{n})/dt|_{t\to 1}, \kappa at T = 100 K (Fig. 7), and \Delta\kappa (Fig. 10): All three quantities are enhanced for sample 2, but not for sample 1.
+
+The doping dependence of -d(\kappa^{n}/\kappa^{n})/dt|_{t\to 1} is in excellent agreement with the in-plane single-crystal data. In Fig. 14 we combine the polycrystal and single crystal data on a single plot that demonstrates the correlation[21] of -d(\kappa^{n}/\kappa^{n})/dt|_{t\to 1} with the superconducting condensate density as measured by specific heat jumps (solid line).[22]
+
+## IV Discussion
+
+One of the more interesting aspects of this study is the nonmonotonic dependence of \kappa(x) (Fig. 7). Variations with x arise from changes in both the electronic (\kappa_{e}) and lattice
+
+Figure 11: The maximum hysteresis in \kappa plotted against that in S, both expressed as a percentage of averaged cooling and warming values at the temperature of the maximum. Solid lines are guides to the eye.
+
+Figure 10: Doping dependence of the maximum thermal conductivity hysteresis, expressed as a percentage of the average value at the temperature of the maximum. The in-plane data for crystals are from Ref. 30.
+
+  (\kappa_{L}) contributions. Changes in \kappa_{L} are clearly responsible for the behavior in the insulating regime (0 <= x < 0.4) where \kappa_{e} is negligible.[30]
+
+In the superconducting regime, both contributions must be considered, \kappa = \kappa_{e} + \kappa_{L}. Starting near x = 0.9, a decrease in \kappa_{e} with decreasing x is to be expected since the carrier density decreases. An upper bound on \kappa_{e} for crystals can be estimated using the in-plane electrical resistivity (\rho_{ab}) vs x (Ref. [3]) and the Wiedemann-Franz law (WFL).[56] The implication is a \kappa_{e} that decreases monotonically with x and accounts for roughly one-third of the total \kappa_{ab} throughout the superconducting regime. The inferred \kappa_{L} (Fig. 7, dotted line) decreases by a factor of 3 as x varies from 0.9 to 0.7, implying that chain-site oxygen vacancies give rise to substantial scattering of in-plane phonons. Note that the variations in \kappa(x) are a factor of 2-3 smaller in the polycrystals, consistent with our expectation (Fig. 2) that both grain boundary scattering and a contribution from \kappa_{c} reduce the sensitivity of \kappa to intrinsic changes in the in-plane scattering.
+
+The enhanced \kappa values at x = 0.55,0.28,0.1 are clearly associated with \kappa_{L}, and imply a reduction in phonon scattering at these compositions. That strong thermal hysteresis also occurs at these values of x (Fig. 10) suggests that both phenomena are connected with local structural modifications associated with charge transfer between the CuO_x_ and CuO_2 planes within oxygen-ordered domains. Bistability of the apical oxygen sublattice has been suggested as a possible origin of the hysteresis.[38] The value x = 0.55 corresponds to the ortho-II phase where the CuO chains are alternately full and empty. For the insulating compositions the average structure is tetragonal and the CuO_x_ layers are composed of chain fragments of varying length and random orientations along the equivalent in-plane crystallographic axes. Chain fragments composed of two or more oxygen atoms result in the transfer of holes from the CuO_x_ plane to the CuO_2 planes.[37] This leads to a local decrease in the Cu(2)-O(2) and Cu(2)-O(4) bond lengths, and a decrease in the Ba-ion-CuO_x_-plane distance for each such fragment. These localized lattice distortions are separated by regions that are oxygen deficient. It is likely that the lattice thermal conductivity would be sensitive to the resulting pattern of structural distortions. Ordered arrangements, like ortho-II, should yield less phonon scattering, with \kappa_{L} correspondingly enhanced. Ordering seems a less likely explanation for the enhancements at x ~ 0.28 and 0.10. Doped holes in the CuO_2 planes produce magnetic polarons[39] that disturb the in-plane antiferromagnetic order in this regime. Thus it is possible that pho
+
+Figure 14: -d(\kappa^{s}/\kappa^{n})/dt|_{t \to 1} vs x for polycrystals from Fig. 13 (multiplied by 1.7) and for single crystals (Ref. [21]). The solid line is the normalized specific heat jump adapted from Ref. [22].
+
+Figure 12: (a) Polynomial fit (solid line) to normal state data defining \kappa^{n} and (b) the ratio \kappa^{s}/\kappa^{n} vs reduced temperature. The solid line is a linear least-squares fit with slope d(\kappa^{s}/\kappa^{s})/dt|_{t \to 1}.
+
+  non damping by such collective excitations plays a role in the \kappa(x) behavior for the insulators. This is certainly an interesting topic for further investigation.
+
+Regarding the hysteresis, it is interesting to note that the temperature dependence of \Delta\kappa (Fig. 9) is remarkably similar to that of an anomalous phonon scattering term identified from the in-plane thermal conductivity of lightly doped insulating Y-123 and La_{2}CuO_{4}.[30] The origin of this scattering remains unknown, but its absence in Nd_{2}CuO_{4} suggests that it is related to tilt instabilities of CuO polyhedra. Neutron scattering studies[40] of superconducting Y-123 indicate anharmonic behavior for the apical oxygen in-plane motion. Thus there is motivation for interpreting the hysteresis (and the anomalous damping) along the lines suggested in Ref. [38].
+
+The doping dependence of the superconducting-state enhancement of \kappa for polycrystals confirms the conclusion from single-crystal data[21] that the enhancement scales with the condensate density (Fig. 14). The implications of this result for interpretations based on electronic or phononic mechanisms have been discussed elsewhere.[21] We have recently computed[41] the electronic contribution to -\left.d(\kappa^{\kappa}/\kappa^{\varsigma})/dt\right|_{\left|\,\tau\to 1\right.} in the quasiparticle approximation,[42] incorporating a pseudogap in the density of states. This electronic contribution is determined by competing terms associated with the pseudogap and the change in quasiparticle lifetime at T_{c}. It may be possible to further constrain interpretations of the enhancement using this model, the results reported here, and new determinations of the quasiparticle lifetime near T_{c} for underdoped Y-123. Similar investigations of other cuprates would also be of interest.
+
+The extended doping range of the present study also confirms the existence of a small local maximum in the enhancement near x\!=\!0.55, a feature that is also present in the specific heat data.[22] This feature is also observed in the specific heat jump data[43] for Y_{0.9}Ca_{0.1}Ba_{2}Cu_{3}O_{6+x}, but there the local maximum is shifted to lower x by \sim\!0.1. The latter result is significant because it demonstrates that the local maximum is not associated with an enhanced condensate density arising from ordered CuO chains,[44] but rather appears to be intrinsic to the underdoped CuO_{2} planes, occurring for a hole concentration per planar Cu, p\!\approx\!0.10. In examining Fig. 14 it may be more instructive to focus on the depression in the thermal conductivity slope change and specific heat jumps that occur near x\!=\!0.7\!-\!0.75, corresponding to p\!\approx\!0.13.[45] At this composition the normal-state pseudogap becomes comparable to the superconducting energy gap,[46] and electronic phase separation may result. The influence of phase separation on the superconducting condensate and local structure may be relevant to an understanding of Fig. 14 and 7.
+
+To summarize, our results demonstrate that the heat conduction in Y-123 is quite sensitive to both oxygen content and oxygen order throughout the phase diagram. This sensitivity is manifested in the nonmonotonic doping dependence of \kappa and the superconducting-state enhancement (x\!\approx\!0.4). The systematics of thermal hysteresis in \kappa suggest the importance of the (possibly dynamic) local structure in the damping of heat-carrying phonons. The doping and T-dependent trends reflected in the present data are consistent with and extend those found previously for in-plane transport in crystals.
+
+## Acknowledgments
+
+The authors gratefully acknowledge T. A. Vanderah for providing the polycrystalline starting material used in this work and its characterization by x-ray diffraction. This work was supported by the National Science Foundation, Grant No. DMR-9631236, and by the University of Miami Research Council.
+
+## References
+
+* [1] H. Takagi _et al._, Phys. Rev. Lett. **69**, 2975 (1992).
+* [2] Y. Nakamura and S. Uchida, Phys. Rev. B **47**, 8369 (1993).
+* [3] T. Ito, K. Takenaka, and S. Uchida, Phys. Rev. Lett. **70**, 3995 (1993).
+* [4] B. Bucher _et al._, Phys. Rev. Lett. **70**, 2012 (1993).
+* [5] N.-P. Ong, in _Physical Properties of High Temperature Superconductors_, edited by D. M. Ginsberg (World Scientific, Singapore, 1990), Vol. II, p. 459.
+* [6] S. D. Obertelli, J. R. Cooper, and J. L. Tallon, Phys. Rev. B **46**, 14 928 (1992).
+* [7] C. K. Subramaniam _et al._, Supercond. Sci. Technol. **7**, 30 (1994).
+* [8] J. L. Tallon _et al._, Phys. Rev. B **51**, 12 911 (1995).
+* [9] C. Uher, in _Physical Properties of High Temperature Superconductors_, edited by D. M. Ginsberg (World Scientific, Singapore, 1993), Vol. III, p. 159.
+* [10] Y. Nakamura _et al._, Physica C **185-189**, 1409 (1991).
+* [11] J. L. Cohn _et al._, Phys. Rev. B **45**, 13 144 (1992).
+* [12] J. L. Cohn _et al._, Phys. Rev. B **46**, 12 053 (1992).
+* [13] N. V. Zavaritskii, A. V. Samoilov, and A. A. Yurgens, JETP Lett. **48**, 242 (1988).
+* [14] J. L. Cohn _et al._, Phys. Rev. Lett. **71**, 1657 (1993).
+* [15] R. C. Yu, M. B. Salamon, and J. P. Lu, **71**, 1658 (1993).
+* [16] A. S. Alexandrov and N. F. Mott, Phys. Rev. Lett **71**, 1075 (1993).
+* [17] B. W. Statt and A. Griffin, Phys. Rev. B **48**, 619 (1993).
+* [18] W. S. Williams, Solid State Commun. **87**, 355 (1993).
+* [19] P. B. Allen _et al._, Phys. Rev. B **49**, 9073 (1994).
+* [20] C. Uher, Y. Liu, and J. F. Whitaker, J. Supercond. **7**, 323 (1994).
+* [21] J. L. Cohn, Phys. Rev. B **53**, R2963 (1996).
+* [22] J. W. Loram _et al._, Phys. Rev. Lett. **71**, 1740 (1993).
+* [23] M. E. Parks _et al._, J. Solid State Chem. **79**, 53 (1989); M. S. Osofsky _et al._, Phys. Rev. B **45**, 4916 (1992).
+* [24] R. K. Siddique, Physica C **228**, 365 (1994).
+* [25] J. D. Jorgensen _et al._, Phys. Rev. B **41**, 1863 (1990).
+* [26] P. J. Ouseph and M. Ray O'Bryan, Phys. Rev. B **40**, 4123 (1990).
+* [27] P. Schleger, W. N. Hardy, and B. X. Yang, Physica C **176**, 261 (1991).
+* [28] J. L. Cohn, J. Supercond. **8**, 457 (1995).
+* [29] S. J. Hagen, Z. Z. Wang, and N.-P. Ong, Phys. Rev. B **40**, 9389 (1989).
+* [30] J. L. Cohn, C. K. Lowe-Ma, and T. A. Vanderah, Phys. Rev. B **52**, R13 134 (1995).
+* [31] J. L. Cohn _et al._, Phys. Rev. B **45**, 13 140 (1992).
+* [32] J.-S. Zhou _et al._, Phys. Rev. B **51**, 3250 (1995).
+
+  * [33] C. Bernhard and J. L. Tallon, Phys. Rev. B **54**, 10 201 (1996).
+* [34] J. L. Cohn (unpublished).
+* [35] Alternative parametrizations \kappa_{\rm max}/\kappa(T_{c}) or \delta W/W (Ref. 21) yield qualitatively similar behavior.
+* [36] The WFL analysis is not valid for polycrystals since grain-boundary barriers pose a higher electrical resistance than electronic thermal resistance. However, Peacor _et al._ [Phys. Rev. B **42**, 2684 (1990)] have found that for Ba_{0.6}K_{0.4}BiO_{3} polycrystals both \kappa_{e} and \kappa_{L} are reduced by comparable fractions by such barriers.
+* [37] H. Shaked _et al._, Phys. Rev. B **51**, 547 (1995).
+* [38] A. P. Saiko, V. E. Gusakov, and V. S. Kuz'min, JETP Lett. **57**, 116 (1993).
+* [39] J. Rossat-Mignod _et al._, Physica B **169**, 58 (1991).
+* [40] P. Schweiss _et al._, Phys. Rev. B **49**, 1387 (1994).
+* [41] C. P. Popoviciu and J. L. Cohn (unpublished).
+* [42] V. Ambegaokar and J. Woo, Phys. Rev. **139**, A1818 (1965); V. Ambegaokar and L. Teordt, _ibid._**134**, A805 (1964).
+* [43] J. W. Loram _et al._, Physica C **235-240**, 1735 (1994).
+* [44] V. Z. Kresin and S. A. Wolf, Phys. Rev. B **46**, 6458 (1992); S. D. Adrian _et al._, _ibid._**51**, 6800 (1995).
+* [45] J. L. Tallon _et al._, Phys. Rev. B **51**, 12 911 (1995).
+* [46] J. L. Tallon, Physica C **235-240**, 1821 (1994); J. L. Tallon _et al._, Phys. Rev. Lett. **75**, 4114 (1995); G. V. M. Williams _et al._, Phys. Rev. B **54**, R6909 (1996).
+
+ 

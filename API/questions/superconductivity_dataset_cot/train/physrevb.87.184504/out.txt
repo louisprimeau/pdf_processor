@@ -1,0 +1,301 @@
+
+
+# Superconductivity in the noncentrosymmetric half-Heusler compound LuPtBi:
+
+A candidate for topological superconductivity
+
+F. F. Tafti,^{1,*} Takenori Fujii,^{2} A. Juneau-Fecteau,^{1} S. Rene de Cotret,^{1} N. Doiron-Leyraud,^{1}
+
+Atsushi Asamitsu,^{2} and Louis Taillefer^{1,3,\dagger}
+
+^{1}Departement de physique & RQMP, Universite de Sherbrooke, Sherbrooke, Quebec, Canada J1K 2R1
+
+^{2}Cryogenic Research Center, University of Tokyo, Bunkyo, Tokyo 113-0032, Japan
+
+^{3}Canadian Institute for Advanced Research, Toronto, Ontario, Canada M5G 1Z8
+
+###### Abstract
+
+We report superconductivity in the ternary half-Heusler compound LuPtBi, with T_{c} = 1.0 K and H_{c2} = 1.6 T. The crystal structure of LuPtBi lacks inversion symmetry, hence the material is a noncentrosymmetric superconductor. Magnetotransport data show semimetallic behavior in the normal state, which is evidence for the importance of spin-orbit interaction. The combination of strong spin-orbit coupling and noncentrosymmetric crystal structure make LuPtBi a strong candidate for 3D topological superconductivity.
+
+pacs: DOI: 10.1103/PhysRevB.87.184504 PACS number(s): 74.25.fc, 71.30.+h
+
+## I Introduction
+
+Half-Heusler ternary compounds attract increasingly more attention as new multifunctional materials with spintronic and thermoelectric applications.[1, 2, 3] Their simple stoichiometric composition, formulated as XYZ, provides remarkable electronic tunability. Chemical substitution with different elements from the periodic table tunes the electronic structure of the final product to semiconducting,[4] semimetallic,[5] heavy fermion,[6, 7] or superconducting[8, 9] behavior. Recent theoretical work presents these highly tunable compounds as new platforms for topological quantum phenomena due to the presence of strong spin-orbit interactions.[10, 11, 12]
+
+The original theoretical prediction of the 2D topological insulators was based on the \Gamma_{6}/\Gamma_{8} band inversion in the bulk of (Cd,Hg)Te quantum well due to strong spin-orbit coupling which gives rise to the conducting surface states.[13, 14] The same theoretical framework is readily extended to the half-Heusler compounds based on the similarity of their crystal structure to the zinc-blend structure of the (Cd,Hg)Te system.[15] Half-Heusler compounds crystallize in the space group F\bar{4}3m composed of three FCC sublattices placed at X(0,0,0), Y(1/(4,1/4,1/4), and Z(3/4,3/4) along the cubic diagonal (Fig. 1). The choice of XYZ elements determines the strength of spin-orbit coupling which is proportional to the atomic number z. Band structure calculations[10] have established a linear correlation between the total atomic number z_{\text{tot}}=z_{X}+z_{Y}+z_{Z} in the XYZ composition of the half-Heuslers and the band inversion amplitude |E_{\Gamma_{8}}-E_{\Gamma_{8}}|.
+
+A choice of YZ=\text{PtBi} in particular favors strong spin orbit coupling due to the heavy masses of the atomic constituents. Amongst the XPtBi family, superconductivity is reported in LaPtBi and YPtBi and the possibility of topological superconductivity is proposed.[8, 9, 16] Lu is the heaviest lanthanide, hence LuPtBi is the most promising candidate for 3D topological superconductivity amongst the half-Heusler compounds due to the maximal strength of spin-orbit coupling. We report the discovery of superconductivity at T_{c} = 1.0 K in this promising material.
+
+LuPtBi is interesting for a second reason. Its noncentrosymmetric (NCS) crystal structure, in which inversion symmetry is violated, implies that parity is no longer a conserved quantum number and mixed singlet-triplet pairing is possible.[17] As a result, novel properties may follow, such as large Pauli-limiting fields and helical vortex states.[18, 19] The helical vortex state is equivalent to the Fulde-Ferrell-Larkin-Ovchinnikov (FFLO) state in centrosymmetric superconductors, where Cooper pairs have finite center-of-mass momentum and the order parameter is spatially modulated along the field. The helical vortex state occurs within Ginzburg-Landau theory by including strong spin-orbit coupling,[20] a condition pertinent to LuPtBi.
+
+## II Methods
+
+Single crystals of LuPtBi were grown in Bi flux. X-ray diffraction patterns along the [100] and [111] directions, presented in Fig. 1, show no evidence of impurity phases. The lattice constant of the cubic structure a = 6.578 A is consistent with previous reports.[6] Energy dispersive x-ray spectrometry gives atomic percentages (32.3 : 34.6 : 33.1) \pm 3.0% for Lu:Pt:Bi, confirming the stoichiometric ratio of the chemical composition.
+
+Four-probe resistivity measurements were performed from 300 to 0.3 K in a Cambridge Magnetic Refrigerator (CMR). The current was applied along the high-symmetry [100] direction, and the magnetic field in the [010] direction. The Hall effect was measured by reversing the field and antisymmetrizing the data at H=\pm 10 T. AC susceptibility was measured with the mutual inductance method using a system of four coils and a lock-in detector. We used a drive field of amplitude 0.03 Oe and frequency 1 kHz.
+
+## III Results
+
+Figure 2(a) shows the temperature dependence of electrical resistivity in LuPtBi from 300 to 0.3 K. The resistivity gradually decreases from \rho=137\mu\Omega cm at room temperature to a residual value \rho_{0}=74\mu\Omega cm at T\to 0. The inset of Fig. 2(a) shows the temperature dependence of the Hall coefficient R_{\text{H}} measured from T = 20 to 2 K. At low temperatures, it saturates to a large positive value, R_{\text{H}}(0)=+256 mm^{3}/C, corresponding to a hole concentration n_{\text{H}}=1/eR_{\text{H}}=2.44\times10^{19} cm^{-3}, in a simple one-band model. Our resistivity and Hall data are comparable to a previous study of LuPtBi which reports \rho_{0}=105\mu\Omega cm and R_{\rm H}(0)=+143 mm^{3}/C hence n_{\rm H}=1/eR_{\rm H}=4.3\times 10^{19} cm^{-3}.[21] This study stops at T=2 K hence superconductivity was not revealed. Using the result of the one-band Drude model \sigma_{0}=ne^{2}\tau/m and assuming a spherical Fermi surface where k_{\rm F}=(3\pi^{2}n)^{1/3}, we obtain a large mean free path l=1.3\mum, confirming high sample quality.
+
+Figure 2(b) shows the field dependence of the resistivity at T=0.5 K from H=0 to 13 T. A strong positive magnetoresistance (MR) is observed, whereby \rho increases by a factor 5 in 13 T. Our observation of a large mean free path is consistent with a large orbital MR. Such high MR values and low carrier concentrations are typical characteristics of semimetals.[22]
+
+Our use of a one-band Drude model to determine n_{H} and l is clearly naive, considering that semimetals are typically multiband systems, nevertheless, we use these simple calculations for a first estimate of the physical parameters of the material. We use the same model to calculate similar physical properties of the other two superconducting members of the half-Heusler series, namely YPtBi and LaPtBi, and compare them to LuPtBi in Table 1. The three compounds have comparable T_{c} values and small concentration of carriers, comparable to degenerate semiconductors.[23]
+
+Figure 3 shows the superconducting transition at T_{c}=1.0\pm 0.1 K. The transition is observed as a drop in both electrical resistivity and magnetic susceptibility, confirming bulk superconductivity in LuPtBi. The peculiar nonsaturating, linear drop of susceptibility is a common observation amongst the candidates of topological superconductivity such as YPtBi and Cu_{x}Bi_{2}Se_{3}.[9; 24]
+
+We have determined the upper critical field H_{c2} of LuPtBi by studying the field dependence of the resistivity at different temperatures. Figure 4(a) shows resistivity curves as a function of field from T=0.2 K to 0.8 K. H_{c2}(T) at each temperature is defined as the full recovery of the normal-state resistivity. Figure 4(b) shows the temperature dependence of H_{c2}(T) extracted from the data in Fig. 4(a). We evaluate the zero temperature limit of the upper critical field to be H_{c2}(0)=1.6\pm 0.1 T by fitting our data to the generalized Ginzburg-Landau model:
+
+\[H_{c2}(T)=H_{c2}(0)\frac{1-t^{2}}{1+t^{2}},\] (1)
+
+\begin{table}
+\begin{tabular}{l c c c c} X & T_{c} (K) & H_{c2} (T) & n_{\rm H} (cm^{-3}) & Reference \\ \hline La & 0.9 & 1.5 & 6\times 10^{18} & Ref. [8] \\ Y & 0.8 & 1.5 & 2\times 10^{18} & Ref. [9] \\ Y & 0.8 & 1.2 & 2\times 10^{19} & Ref. [16] \\ Lu & & & 4\times 10^{19} & Ref. [21] \\ Lu & 1.0 & 1.6 & 2\times 10^{19} & This work \\ \end{tabular}
+\end{table}
+Table 1: Physical properties of the three superconducting members of the XPtBi series, with X=Y,[16] La,[8] and Lu.[21] T_{c} is defined as the onset of the superconducting drop in the resistivity vs T curve; H_{c2} is extracted from the temperature dependence of the onset of the superconducting drop in the resistivity vs H curves; the Hall concentration n_{\rm H}=1/eR_{\rm H}(0). Note the different values for the low-temperature n_{\rm H} of YPtBi obtained from two different studies.
+
+Figure 2: (Color online) (a) Electrical resistivity of LuPtBi as a function of temperature. Inset: Hall coefficient of LuPtBi as a function of temperature, below 20 K. (b) Normal-state resistivity of LuPtBi as a function of magnetic field, plotted as \rho/\mu_{0} vs H at T=0.5 K, with \rho_{0}=74\mu\Omega cm.
+
+Figure 1: (Color online) X-ray diffraction data along the [100] (red) and [111] (blue) crystallographic directions. The interplanar distance along the [111] direction is 3.801 Å, consistent with the cubic lattice parameter a=6.578 Å. Inset: the conventional unit cell of LuPtBi. This noncentrosymmetric structure, common to all the XYZ half-Heusler family, belongs to the F\bar{4}3m space group. By taking out the X atom (Lu in this case), we obtain the zinc-blend structure of the HgTe.
+
+  where t=T/T_{c} [Fig. 4(b)]. Using the zero-temperature relation H_{c2}=\phi_{0}/2\pi\,\xi_{0}^{2}, we extract the coherence length \xi_{0}=14 nm. Comparing the coherence length with the mean free path, we find our sample satisfying the clean limit condition l\gg\xi_{0}.
+
+## IV Discussion
+
+According to transport experiments, the XPtBi compounds may be either semiconducting or semimetallic, depending on the choice of the rare earth element X.[6] The former is favored by the lighter rare earth atoms while the latter is favored by the heavier ones. Band structure calculations show that in the absence of spin-orbit interaction, XPtBi is a semiconductor. Semimetallic properties appear only when the spin-orbit interaction is included.[25] Our observations of the weak temperature dependence of resistivity, the small concentration of carriers, and the large magnetoresistance in LuPtBi indicate that the normal state is a semimetal, hence spin-orbit interaction must play a significant role. A large spin-orbit coupling is also expected from atomic physics considerations since Lu has the largest atomic number amongst the lanthanides.
+
+LuPtBi is an unconventional superconductor in two respects. First, it is a noncentrosymmetric superconductor, because its crystal structure lacks inversion symmetry. Secondly, superconductivity in the bulk of the material emerges from a band structure which is likely to be topologically nontrivial. Below, we discuss both aspects in turn.
+
+### Noncentrosymmetic superconductivity
+
+Superconductivity in a NCS system was first observed in the heavy-fermion metal CePt_{3}Si.[26] Soon after, similar f-electron systems were discovered such as CeIrSi_{3} and CeRhSi_{3}, both superconducting under pressure.[27, 28] NCS superconductivity has also been discovered in non-f systems such as Li_{2}Pd_{3}B and Li_{2}Pt_{3}B.[29, 30]
+
+In the absence of a center of inversion, an asymmetric crystal field potential creates an electric field \tilde{E}=-\nabla\Phi which can generate a Rashba spin-orbit interaction (\tilde{E}\times\vec{p}) \cdot\tilde{S}. This interaction splits the Fermi surface and introduces a certain helicity to the electrons on each surface, hence pure spin-singlet or spin-triplet pairings can no longer be valid descriptions of the pairing state. Mixed singlet-triplet pairing is one intriguing possibility.[31]
+
+We evaluate H_{c2}=1.6 T in LuPtBi from a generalized Ginzburg-Landau analysis [Fig. 4(a)]. Using the Werthamer-Helfand-Hohenberg formula in the clean limit H_{\rm orb}=0.72T_{c}\left[-dH_{c2}/dT\right]_{T_{c}}, we evaluate the orbital limiting field H_{\rm orb}=1.24 T. Using H_{\rm P}=\Delta/\sqrt{2}\mu_{\rm B} and \Delta=1.76k_{\rm B}T_{c}, we evaluate the Pauli limiting field H_{P}=1.85 T. Since H_{\rm orb}<H_{\rm C2}<H_{\rm P}, superconductivity in LuPtBi is Pauli limited. The Maki parameter \alpha=\sqrt{2}H_{\rm orb}/H_{\rm P} is less than one hence the FFLO state is not favorable.[32]
+
+Table 2 summarizes T_{c}, H_{c2}, H_{\rm orb}, and H_{\rm P} for a number of NCS superconductors, including the heavy fermion systems which contain free f electrons and the ones with no f electrons. H_{c2} of the heavy-fermion NCS superconductors clearly exceeds the Pauli limiting field H_{\rm P}, suggestive of triplet pairing. In the non-f NCS superconductors H_{c2}<H_{\rm P}, hence spin triplet pairing is not an obvious possibility. A recent careful study of YPtBi shows that the temperature dependence of H_{c2} at different pressures collapses onto a single universal curve different from the standard curve expected from spin-singlet superconductors, hence triplet pairing is not entirely ruled out.[16] Our data shows that similar to YPtBi and
+
+Figure 4: (Color online) (a) Field dependence of the resistivity in LuPtBi, at different temperatures. A selected number of isotherms are shown as indicated. H_{c2}(T) is taken as the full recovery of the normal-state resistivity, as marked by arrows for T=0.2 K and 0.6 K. (b) H_{c2} as a function of temperature. The dotted line is a fit to the Ginzburg-Landau expression [Eq. (1)], which yields H_{c2}(0)=1.6 T.
+
+Figure 3: (Color online) Superconducting phase transition in LuPtBi, occurring at T_{c}=1.0 K. The transition is observed in both the resistivity (blue curve, right axis) and the magnetic susceptibility (red curve, left axis).
+
+  the other non-f systems, H_{c2}<H_{\rm P} in LuPtBi. This similarity between LuPtBi and the non-f systems is not surprising, since the f^{14} shell of Lu^{3+} is full and does not contribute to the electric conduction. The fact that H_{c2}>H_{\rm P} only for heavy-fermion NCS superconductors raises the question: What is the effect of strong correlations in determining the magnitude of H_{c2} and the pairing symmetry in the NCS superconductors? Further theoretical work is needed to answer that question.
+
+### Topological superconductivity
+
+LuPtBi is the most promising candidate for 3D topological superconductivity amongst the half-Heusler series due to its maximal spin-orbit coupling.[10, 15, 33] Strong spin-orbit coupling gives rise to the band inversion required for topological insulator and semimetal phases. In this context, LuPtBi provides a topological background for superconductivity. However, band inversion is not a sufficient condition for topological superconductivity. It remains for further theoretical calculations, beyond single band models, to probe the topological nature of superconducting members of the half-Heusler series. The other two superconducting compounds in this series, YPtBi and LaPtBi, include rare-earth ions with much smaller atomic numbers and no f electrons. Lu^{3+}, contrary to the Y^{3+} and La^{3+}, has a full f shell and a much larger z number. Our finding in LuPtBi shows that superconductivity is a common trend in the half-Heusler systems where f electrons do not contribute to the conduction band.
+
+The inherent particle-hole symmetry of the Bogoliubov-de Gennes Hamiltonian allows for a unified classification of topological superconductors and insulators based on the time reversal and the particle-hole symmetries.[34, 35] Both topological insulators and superconductors are characterized by the existence of a bulk gap (band gap in the former and superconducting gap in the latter) and topologically protected gapless surface modes. One interesting possibility is that the nonsaturating linear drop of susceptibility at T_{c} (Fig. 3) which is commonly observed in all candidates of topological superconductivity, e.g., Cu_{x}Bi_{2}Se_{3}, YPtBi, and LuPtBi is due to gapless superconductivity on the surface of the material. The in gap states which are the hallmark of topological superconductors (and insulators) could steal from the superfluid density and result in this particular shape of the transition. Recent theoretical works show that topological superconductivity of class DIII can be realized in NCS superconductors with time reversal symmetry,[36] a condition pertinent to LuPtBi. At the surface of a topological superconductor, the conventional electrons which form the helical edge states in the topological insulator are replaced by Majorana fermions.[37, 38, 39] One intriguing possibility is to search for a zero-bias conductance peak on the surface of LuPtBi via soft point contact spectroscopy, similar to the experimental observations on Cu_{x}Bi_{2}Se_{3}.[40]
+
+## V Conclusion
+
+LDA calculations show that LuPtBi is electronically tuned to a semimetal state from a parent topological-insulator state[11] and our transport data reveal semimetallic behavior in LuPtBi. Our finding of superconductivity in a noncentrosymmetric material that satisfies the requirements of a topologically nontrivial band structure offers the exciting possibility of a 3D topological superconductor.
+
+###### Acknowledgements.
+
+ We thank K. Behnia, S. Bhattacharjee, J. Paglione, S. Ryu, K. Samokhin, A. P. Schnyder, and S.-C. Zhang for helpful discussions. The work at Sherbrooke was supported by a Canada Research Chair, CIFAR, NSERC, CFI, and FQRNT.
+
+## References
+
+* [1] 'fazel.fallah.tafui@usherbrooke.ca
+* [2] 'louis.taillerf@usherbrooke.ca
+* [3] 'C. Felser, G. H. Fecher, and B. Balke, Angew. Chem., Int. Ed. **46**, 668 (2007).
+* [4] 'K. Mastronardi, D. Young, C.-C. Wang, P. Khalifah, R. J. Cava, and A. P. Ramirez, Appl. Phys. Lett. **74**, 1415 (1999).
+* [5] 'M. H. Jung, T. Yoshino, S. Kawasaki, T. Pietrus, Y. Bando, T. Suemitsu, M. Sera, and T. Takabatake, J. Appl. Phys. **89**, 7631 (2001).
+* [6] 'R. Shan, E. V. Vilanova, J. Qin, A. Dion, F. Casper, G. H. Fecher, G. Jakob, and C. Felser, arXiv:1209.6288.
+* [7] 'Y. Xia, V. Ponnambalam, S. Bhattacharya, A. L. Pope, S. J. Poon, and T. M. Tritt, J. Phys.: Condens. Matter **13**, 77 (2001).
+* [8] 'P. C. Canfield, J. D. Thompson, W. P. Beyermann, A. Lacerda, M. F. Hundley, E. Peterson, Z. Fisk, and H. R. Ott, J. Appl. Phys. **70**, 5800 (1991).
+* [9] 'Z. Fisk, P. C. Canfield, W. P. Beyermann, J. D. Thompson, M. F. Hundley, H. R. Ott, E. Felder, M. B. Maple, M. A. Lopez de la Torre, P. Visani, and C. L. Seaman, Phys. Rev. Lett. **67**, 3310 (1991).
+* [10] 'G. Goll, M. Marz, A. Hamann, T. Tomanic, K. Grube, T. Yoshino, and T. Takabatake, Physica B: Condensed Matter **403**, 1065 (2008).
+* [11] 'N. P. Butch, P. Syers, K. Kirshenbaum, A. P. Hope, and J. Paglione, Phys. Rev. B **84**, 220504 (2011).
+* [12] 'S. Chadov, X. Qi, J. Kubler, G. H. Fecher, C. Felser, and S. C. Zhang, Nat. Mater. **9**, 541 (2010).
+
+\begin{table}
+\begin{tabular}{l c c c c} Material & T_{c} (K) & H_{\rm{sth}} (T) & H_{\rm{P}} (T) & H_{c2} (T) \\ \hline CePt_{3}Si & 0.75 & 4.6 & 1.4 & 5.0 \\ CeIrSi_{3} & 1.6 & 13.1 & 1.9 & 11.1 \\ CeRhSi_{3} & 1.0 & 8.7 & 1.8 & 7.0 \\ Li_{2}Pd_{3}B & 7.0 & 5.0 & 13 & 5.5 \\ Li_{2}Pt_{3}B & 2.7 & 1.0 & 5.0 & 2.0 \\ YPtBi & 0.8 & 1.0 & 1.4 & 1.2 \\ LuPtBi & 1.0 & 1.2 & 1.8 & 1.6 \\ \end{tabular}
+\end{table}
+Table 2: Transition temperature and characteristic field scales of some NSC superconductors, including three heavy-fermion systems (Refs. [26, 27, 28]) (top three lines) and systems without f electrons (Refs. [16, 29, 30]) (bottom four lines). The former group satisfies H_{c2}>H_{\rm P}, hence superconductivity is not Pauli limited, whereas the latter group satisfies H_{\rm{sth}}<H_{c2}<H_{\rm P}, hence superconductivity is Pauli limited. LuPtBi belongs to the latter group.
+
+  * [11] H. Lin, L. A. Wray, Y. Xia, S. Xu, S. Jia, R. J. Cava, A. Bansil, and M. Z. Hasan, Nat. Mater. **9**, 546 (2010).
+* [12] M. Franz, Nat. Mater. **9**, 536 (2010).
+* [13] X.-L. Qi and S.-C. Zhang, Rev. Mod. Phys. **83**, 1057 (2011).
+* [14] B. A. Bernevig, T. L. Hughes, and S.-C. Zhang, Science **314**, 1757 (2006).
+* [15] W. Feng, D. Xiao, Y. Zhang, and Y. Yao, Phys. Rev. B **82**, 235121 (2010).
+* [16] T. V. Bay, T. Naka, Y. K. Huang, and A. de Visser, Phys. Rev. B **86**, 064515 (2012).
+* [17] S. S. Saxena and P. Monthoux, Nature (London) **427**, 799 (2004).
+* [18] V. M. Edelstein, Phys. Rev. Lett. **75**, 2004 (1995).
+* [19] R. P. Kaur, D. F. Agterberg, and M. Sigrist, Phys. Rev. Lett. **94**, 137002 (2005).
+* [20] K. V. Samokhin, Phys. Rev. B **70**, 104521 (2004).
+* [21] E. Mun, Ph.D. thesis, Iowa State University, 2010.
+* [22] A. B. Pippard, _Magnetoresistance in Metals_, 1st ed. (Cambridge University Press, Cambridge, UK, 2009).
+* [23] J. F. Schooley, W. R. Hosler, E. Ambler, J. H. Becker, M. L. Cohen, and C. S. Koonce, Phys. Rev. Lett. **14**, 305 (1965).
+* [24] Y. S. Hor, A. J. Williams, J. G. Checkelsky, P. Roushan, J. Seo, Q. Xu, H. W. Zandbergen, A. Yazdani, N. P. Ong, and R. J. Cava, Phys. Rev. Lett. **104**, 057001 (2010).
+* [25] T. Oguchi, Phys. Rev. B **63**, 125115 (2001).
+* [26] E. Bauer, G. Hilscher, H. Michor, C. Paul, E. W. Scheidt, A. Gribanov, Y. Seropegin, H. Noel, M. Sigrist, and P. Rogl, Phys. Rev. Lett. **92**, 027003 (2004).
+* [27] I. Sugitani, Y. Okuda, H. Shishido, T. Yamada, A. Thamizhavel, E. Yamamoto, T. D. Matsuda, Y. Haga, T. Takeuchi, R. Settai, and Y. Onuki, J. Phys. Soc. Jpn. **75**, 043703 (2006).
+* [28] N. Kimura, K. Ito, K. Saitoh, Y. Umeda, H. Aoki, and T. Terashima, Phys. Rev. Lett. **95**, 247004 (2005).
+* [29] K. Togano, P. Badica, Y. Nakamori, S. Orimo, H. Takeya, and K. Hirata, Phys. Rev. Lett. **93**, 247004 (2004).
+* [30] P. Badica, T. Kondo, and K. Togano, J. Phys. Soc. Jpn. **74**, 1014 (2005).
+* [31] S. Fujimoto, J. Phys. Soc. Jpn. **76**, 051008 (2007).
+* [32] L. W. Gruenberg and L. Gunther, Phys. Rev. Lett. **16**, 996 (1966).
+* [33] W. Al-Sawai, H. Lin, R. S. Markiewicz, L. A. Wray, Y. Xia, S.-Y. Xu, M. Z. Hasan, and A. Bansil, Phys. Rev. B **82**, 125208 (2010).
+* [34] A. P. Schnyder, S. Ryu, A. Furusaki, and A. W. W. Ludwig, Phys. Rev. B **78**, 195125 (2008).
+* [35] A. Kitaev, AIP Conf. Proc. **1134**, 22 (2009).
+* [36] A. P. Schnyder and S. Ryu, Phys. Rev. B **84**, 060504 (2011).
+* [37] M. Z. Hasan and C. L. Kane, Rev. Mod. Phys. **82**, 3045 (2010).
+* [38] J. E. Moore, Nature (London) **464**, 194 (2010).
+* [39] X.-L. Qi, T. L. Hughes, S. Raghu, and S.-C. Zhang, Phys. Rev. Lett. **102**, 187001 (2009).
+* [40] S. Sasaki, M. Kriener, K. Segawa, K. Yada, Y. Tanaka, M. Sato, and Y. Ando, Phys. Rev. Lett. **107**, 217001 (2011).
+
+ 
+
+# Superconductivity in the noncentrosymmetric half-Heusler compound LuPtBi:
+
+A candidate for topological superconductivity
+
+F. F. Tafti,^{1,*} Takenori Fujii,^{2} A. Juneau-Fecteau,^{1} S. Rene de Cotret,^{1} N. Doiron-Leyraud,^{1}
+
+Atsushi Asamitsu,^{2} and Louis Taillefer^{1,3,\dagger}
+
+^{1}Departement de physique & RQMP, Universite de Sherbrooke, Sherbrooke, Quebec, Canada J1K 2R1
+
+^{2}Cryogenic Research Center, University of Tokyo, Bunkyo, Tokyo 113-0032, Japan
+
+^{3}Canadian Institute for Advanced Research, Toronto, Ontario, Canada M5G 1Z8
+
+###### Abstract
+
+We report superconductivity in the ternary half-Heusler compound LuPtBi, with T_{c} = 1.0 K and H_{c2} = 1.6 T. The crystal structure of LuPtBi lacks inversion symmetry, hence the material is a noncentrosymmetric superconductor. Magnetotransport data show semimetallic behavior in the normal state, which is evidence for the importance of spin-orbit interaction. The combination of strong spin-orbit coupling and noncentrosymmetric crystal structure make LuPtBi a strong candidate for 3D topological superconductivity.
+
+pacs: DOI: 10.1103/PhysRevB.87.184504 PACS number(s): 74.25.fc, 71.30.+h
+
+## I Introduction
+
+Half-Heusler ternary compounds attract increasingly more attention as new multifunctional materials with spintronic and thermoelectric applications.[1, 2, 3] Their simple stoichiometric composition, formulated as XYZ, provides remarkable electronic tunability. Chemical substitution with different elements from the periodic table tunes the electronic structure of the final product to semiconducting,[4] semimetallic,[5] heavy fermion,[6, 7] or superconducting[8, 9] behavior. Recent theoretical work presents these highly tunable compounds as new platforms for topological quantum phenomena due to the presence of strong spin-orbit interactions.[10, 11, 12]
+
+The original theoretical prediction of the 2D topological insulators was based on the \Gamma_{6}/\Gamma_{8} band inversion in the bulk of (Cd,Hg)Te quantum well due to strong spin-orbit coupling which gives rise to the conducting surface states.[13, 14] The same theoretical framework is readily extended to the half-Heusler compounds based on the similarity of their crystal structure to the zinc-blend structure of the (Cd,Hg)Te system.[15] Half-Heusler compounds crystallize in the space group F\bar{4}3m composed of three FCC sublattices placed at X(0,0,0), Y(1/(4,1/4,1/4), and Z(3/4,3/4) along the cubic diagonal (Fig. 1). The choice of XYZ elements determines the strength of spin-orbit coupling which is proportional to the atomic number z. Band structure calculations[10] have established a linear correlation between the total atomic number z_{\text{tot}}=z_{X}+z_{Y}+z_{Z} in the XYZ composition of the half-Heuslers and the band inversion amplitude |E_{\Gamma_{8}}-E_{\Gamma_{8}}|.
+
+A choice of YZ=\text{PtBi} in particular favors strong spin orbit coupling due to the heavy masses of the atomic constituents. Amongst the XPtBi family, superconductivity is reported in LaPtBi and YPtBi and the possibility of topological superconductivity is proposed.[8, 9, 16] Lu is the heaviest lanthanide, hence LuPtBi is the most promising candidate for 3D topological superconductivity amongst the half-Heusler compounds due to the maximal strength of spin-orbit coupling. We report the discovery of superconductivity at T_{c} = 1.0 K in this promising material.
+
+LuPtBi is interesting for a second reason. Its noncentrosymmetric (NCS) crystal structure, in which inversion symmetry is violated, implies that parity is no longer a conserved quantum number and mixed singlet-triplet pairing is possible.[17] As a result, novel properties may follow, such as large Pauli-limiting fields and helical vortex states.[18, 19] The helical vortex state is equivalent to the Fulde-Ferrell-Larkin-Ovchinnikov (FFLO) state in centrosymmetric superconductors, where Cooper pairs have finite center-of-mass momentum and the order parameter is spatially modulated along the field. The helical vortex state occurs within Ginzburg-Landau theory by including strong spin-orbit coupling,[20] a condition pertinent to LuPtBi.
+
+## II Methods
+
+Single crystals of LuPtBi were grown in Bi flux. X-ray diffraction patterns along the [100] and [111] directions, presented in Fig. 1, show no evidence of impurity phases. The lattice constant of the cubic structure a = 6.578 A is consistent with previous reports.[6] Energy dispersive x-ray spectrometry gives atomic percentages (32.3 : 34.6 : 33.1) \pm 3.0% for Lu:Pt:Bi, confirming the stoichiometric ratio of the chemical composition.
+
+Four-probe resistivity measurements were performed from 300 to 0.3 K in a Cambridge Magnetic Refrigerator (CMR). The current was applied along the high-symmetry [100] direction, and the magnetic field in the [010] direction. The Hall effect was measured by reversing the field and antisymmetrizing the data at H=\pm 10 T. AC susceptibility was measured with the mutual inductance method using a system of four coils and a lock-in detector. We used a drive field of amplitude 0.03 Oe and frequency 1 kHz.
+
+## III Results
+
+Figure 2(a) shows the temperature dependence of electrical resistivity in LuPtBi from 300 to 0.3 K. The resistivity gradually decreases from \rho=137\mu\Omega cm at room temperature to a residual value \rho_{0}=74\mu\Omega cm at T\to 0. The inset of Fig. 2(a) shows the temperature dependence of the Hall coefficient R_{\text{H}} measured from T = 20 to 2 K. At low temperatures, it saturates to a large positive value, R_{\text{H}}(0)=+256 mm^{3}/C, corresponding to a hole concentration n_{\text{H}}=1/eR_{\text{H}}=2.44\times10^{19} cm^{-3}, in a simple one-band model. Our resistivity and Hall data are comparable to a previous study of LuPtBi which reports \rho_{0}=105\mu\Omega cm and R_{\rm H}(0)=+143 mm^{3}/C hence n_{\rm H}=1/eR_{\rm H}=4.3\times 10^{19} cm^{-3}.[21] This study stops at T=2 K hence superconductivity was not revealed. Using the result of the one-band Drude model \sigma_{0}=ne^{2}\tau/m and assuming a spherical Fermi surface where k_{\rm F}=(3\pi^{2}n)^{1/3}, we obtain a large mean free path l=1.3\mum, confirming high sample quality.
+
+Figure 2(b) shows the field dependence of the resistivity at T=0.5 K from H=0 to 13 T. A strong positive magnetoresistance (MR) is observed, whereby \rho increases by a factor 5 in 13 T. Our observation of a large mean free path is consistent with a large orbital MR. Such high MR values and low carrier concentrations are typical characteristics of semimetals.[22]
+
+Our use of a one-band Drude model to determine n_{H} and l is clearly naive, considering that semimetals are typically multiband systems, nevertheless, we use these simple calculations for a first estimate of the physical parameters of the material. We use the same model to calculate similar physical properties of the other two superconducting members of the half-Heusler series, namely YPtBi and LaPtBi, and compare them to LuPtBi in Table 1. The three compounds have comparable T_{c} values and small concentration of carriers, comparable to degenerate semiconductors.[23]
+
+Figure 3 shows the superconducting transition at T_{c}=1.0\pm 0.1 K. The transition is observed as a drop in both electrical resistivity and magnetic susceptibility, confirming bulk superconductivity in LuPtBi. The peculiar nonsaturating, linear drop of susceptibility is a common observation amongst the candidates of topological superconductivity such as YPtBi and Cu_{x}Bi_{2}Se_{3}.[9; 24]
+
+We have determined the upper critical field H_{c2} of LuPtBi by studying the field dependence of the resistivity at different temperatures. Figure 4(a) shows resistivity curves as a function of field from T=0.2 K to 0.8 K. H_{c2}(T) at each temperature is defined as the full recovery of the normal-state resistivity. Figure 4(b) shows the temperature dependence of H_{c2}(T) extracted from the data in Fig. 4(a). We evaluate the zero temperature limit of the upper critical field to be H_{c2}(0)=1.6\pm 0.1 T by fitting our data to the generalized Ginzburg-Landau model:
+
+\[H_{c2}(T)=H_{c2}(0)\frac{1-t^{2}}{1+t^{2}},\] (1)
+
+\begin{table}
+\begin{tabular}{l c c c c} X & T_{c} (K) & H_{c2} (T) & n_{\rm H} (cm^{-3}) & Reference \\ \hline La & 0.9 & 1.5 & 6\times 10^{18} & Ref. [8] \\ Y & 0.8 & 1.5 & 2\times 10^{18} & Ref. [9] \\ Y & 0.8 & 1.2 & 2\times 10^{19} & Ref. [16] \\ Lu & & & 4\times 10^{19} & Ref. [21] \\ Lu & 1.0 & 1.6 & 2\times 10^{19} & This work \\ \end{tabular}
+\end{table}
+Table 1: Physical properties of the three superconducting members of the XPtBi series, with X=Y,[16] La,[8] and Lu.[21] T_{c} is defined as the onset of the superconducting drop in the resistivity vs T curve; H_{c2} is extracted from the temperature dependence of the onset of the superconducting drop in the resistivity vs H curves; the Hall concentration n_{\rm H}=1/eR_{\rm H}(0). Note the different values for the low-temperature n_{\rm H} of YPtBi obtained from two different studies.
+
+Figure 2: (Color online) (a) Electrical resistivity of LuPtBi as a function of temperature. Inset: Hall coefficient of LuPtBi as a function of temperature, below 20 K. (b) Normal-state resistivity of LuPtBi as a function of magnetic field, plotted as \rho/\mu_{0} vs H at T=0.5 K, with \rho_{0}=74\mu\Omega cm.
+
+Figure 1: (Color online) X-ray diffraction data along the [100] (red) and [111] (blue) crystallographic directions. The interplanar distance along the [111] direction is 3.801 Å, consistent with the cubic lattice parameter a=6.578 Å. Inset: the conventional unit cell of LuPtBi. This noncentrosymmetric structure, common to all the XYZ half-Heusler family, belongs to the F\bar{4}3m space group. By taking out the X atom (Lu in this case), we obtain the zinc-blend structure of the HgTe.
+
+  where t=T/T_{c} [Fig. 4(b)]. Using the zero-temperature relation H_{c2}=\phi_{0}/2\pi\,\xi_{0}^{2}, we extract the coherence length \xi_{0}=14 nm. Comparing the coherence length with the mean free path, we find our sample satisfying the clean limit condition l\gg\xi_{0}.
+
+## IV Discussion
+
+According to transport experiments, the XPtBi compounds may be either semiconducting or semimetallic, depending on the choice of the rare earth element X.[6] The former is favored by the lighter rare earth atoms while the latter is favored by the heavier ones. Band structure calculations show that in the absence of spin-orbit interaction, XPtBi is a semiconductor. Semimetallic properties appear only when the spin-orbit interaction is included.[25] Our observations of the weak temperature dependence of resistivity, the small concentration of carriers, and the large magnetoresistance in LuPtBi indicate that the normal state is a semimetal, hence spin-orbit interaction must play a significant role. A large spin-orbit coupling is also expected from atomic physics considerations since Lu has the largest atomic number amongst the lanthanides.
+
+LuPtBi is an unconventional superconductor in two respects. First, it is a noncentrosymmetric superconductor, because its crystal structure lacks inversion symmetry. Secondly, superconductivity in the bulk of the material emerges from a band structure which is likely to be topologically nontrivial. Below, we discuss both aspects in turn.
+
+### Noncentrosymmetic superconductivity
+
+Superconductivity in a NCS system was first observed in the heavy-fermion metal CePt_{3}Si.[26] Soon after, similar f-electron systems were discovered such as CeIrSi_{3} and CeRhSi_{3}, both superconducting under pressure.[27, 28] NCS superconductivity has also been discovered in non-f systems such as Li_{2}Pd_{3}B and Li_{2}Pt_{3}B.[29, 30]
+
+In the absence of a center of inversion, an asymmetric crystal field potential creates an electric field \tilde{E}=-\nabla\Phi which can generate a Rashba spin-orbit interaction (\tilde{E}\times\vec{p}) \cdot\tilde{S}. This interaction splits the Fermi surface and introduces a certain helicity to the electrons on each surface, hence pure spin-singlet or spin-triplet pairings can no longer be valid descriptions of the pairing state. Mixed singlet-triplet pairing is one intriguing possibility.[31]
+
+We evaluate H_{c2}=1.6 T in LuPtBi from a generalized Ginzburg-Landau analysis [Fig. 4(a)]. Using the Werthamer-Helfand-Hohenberg formula in the clean limit H_{\rm orb}=0.72T_{c}\left[-dH_{c2}/dT\right]_{T_{c}}, we evaluate the orbital limiting field H_{\rm orb}=1.24 T. Using H_{\rm P}=\Delta/\sqrt{2}\mu_{\rm B} and \Delta=1.76k_{\rm B}T_{c}, we evaluate the Pauli limiting field H_{P}=1.85 T. Since H_{\rm orb}<H_{\rm C2}<H_{\rm P}, superconductivity in LuPtBi is Pauli limited. The Maki parameter \alpha=\sqrt{2}H_{\rm orb}/H_{\rm P} is less than one hence the FFLO state is not favorable.[32]
+
+Table 2 summarizes T_{c}, H_{c2}, H_{\rm orb}, and H_{\rm P} for a number of NCS superconductors, including the heavy fermion systems which contain free f electrons and the ones with no f electrons. H_{c2} of the heavy-fermion NCS superconductors clearly exceeds the Pauli limiting field H_{\rm P}, suggestive of triplet pairing. In the non-f NCS superconductors H_{c2}<H_{\rm P}, hence spin triplet pairing is not an obvious possibility. A recent careful study of YPtBi shows that the temperature dependence of H_{c2} at different pressures collapses onto a single universal curve different from the standard curve expected from spin-singlet superconductors, hence triplet pairing is not entirely ruled out.[16] Our data shows that similar to YPtBi and
+
+Figure 4: (Color online) (a) Field dependence of the resistivity in LuPtBi, at different temperatures. A selected number of isotherms are shown as indicated. H_{c2}(T) is taken as the full recovery of the normal-state resistivity, as marked by arrows for T=0.2 K and 0.6 K. (b) H_{c2} as a function of temperature. The dotted line is a fit to the Ginzburg-Landau expression [Eq. (1)], which yields H_{c2}(0)=1.6 T.
+
+Figure 3: (Color online) Superconducting phase transition in LuPtBi, occurring at T_{c}=1.0 K. The transition is observed in both the resistivity (blue curve, right axis) and the magnetic susceptibility (red curve, left axis).
+
+  the other non-f systems, H_{c2}<H_{\rm P} in LuPtBi. This similarity between LuPtBi and the non-f systems is not surprising, since the f^{14} shell of Lu^{3+} is full and does not contribute to the electric conduction. The fact that H_{c2}>H_{\rm P} only for heavy-fermion NCS superconductors raises the question: What is the effect of strong correlations in determining the magnitude of H_{c2} and the pairing symmetry in the NCS superconductors? Further theoretical work is needed to answer that question.
+
+### Topological superconductivity
+
+LuPtBi is the most promising candidate for 3D topological superconductivity amongst the half-Heusler series due to its maximal spin-orbit coupling.[10, 15, 33] Strong spin-orbit coupling gives rise to the band inversion required for topological insulator and semimetal phases. In this context, LuPtBi provides a topological background for superconductivity. However, band inversion is not a sufficient condition for topological superconductivity. It remains for further theoretical calculations, beyond single band models, to probe the topological nature of superconducting members of the half-Heusler series. The other two superconducting compounds in this series, YPtBi and LaPtBi, include rare-earth ions with much smaller atomic numbers and no f electrons. Lu^{3+}, contrary to the Y^{3+} and La^{3+}, has a full f shell and a much larger z number. Our finding in LuPtBi shows that superconductivity is a common trend in the half-Heusler systems where f electrons do not contribute to the conduction band.
+
+The inherent particle-hole symmetry of the Bogoliubov-de Gennes Hamiltonian allows for a unified classification of topological superconductors and insulators based on the time reversal and the particle-hole symmetries.[34, 35] Both topological insulators and superconductors are characterized by the existence of a bulk gap (band gap in the former and superconducting gap in the latter) and topologically protected gapless surface modes. One interesting possibility is that the nonsaturating linear drop of susceptibility at T_{c} (Fig. 3) which is commonly observed in all candidates of topological superconductivity, e.g., Cu_{x}Bi_{2}Se_{3}, YPtBi, and LuPtBi is due to gapless superconductivity on the surface of the material. The in gap states which are the hallmark of topological superconductors (and insulators) could steal from the superfluid density and result in this particular shape of the transition. Recent theoretical works show that topological superconductivity of class DIII can be realized in NCS superconductors with time reversal symmetry,[36] a condition pertinent to LuPtBi. At the surface of a topological superconductor, the conventional electrons which form the helical edge states in the topological insulator are replaced by Majorana fermions.[37, 38, 39] One intriguing possibility is to search for a zero-bias conductance peak on the surface of LuPtBi via soft point contact spectroscopy, similar to the experimental observations on Cu_{x}Bi_{2}Se_{3}.[40]
+
+## V Conclusion
+
+LDA calculations show that LuPtBi is electronically tuned to a semimetal state from a parent topological-insulator state[11] and our transport data reveal semimetallic behavior in LuPtBi. Our finding of superconductivity in a noncentrosymmetric material that satisfies the requirements of a topologically nontrivial band structure offers the exciting possibility of a 3D topological superconductor.
+
+###### Acknowledgements.
+
+ We thank K. Behnia, S. Bhattacharjee, J. Paglione, S. Ryu, K. Samokhin, A. P. Schnyder, and S.-C. Zhang for helpful discussions. The work at Sherbrooke was supported by a Canada Research Chair, CIFAR, NSERC, CFI, and FQRNT.
+
+## References
+
+* [1] 'fazel.fallah.tafui@usherbrooke.ca
+* [2] 'louis.taillerf@usherbrooke.ca
+* [3] 'C. Felser, G. H. Fecher, and B. Balke, Angew. Chem., Int. Ed. **46**, 668 (2007).
+* [4] 'K. Mastronardi, D. Young, C.-C. Wang, P. Khalifah, R. J. Cava, and A. P. Ramirez, Appl. Phys. Lett. **74**, 1415 (1999).
+* [5] 'M. H. Jung, T. Yoshino, S. Kawasaki, T. Pietrus, Y. Bando, T. Suemitsu, M. Sera, and T. Takabatake, J. Appl. Phys. **89**, 7631 (2001).
+* [6] 'R. Shan, E. V. Vilanova, J. Qin, A. Dion, F. Casper, G. H. Fecher, G. Jakob, and C. Felser, arXiv:1209.6288.
+* [7] 'Y. Xia, V. Ponnambalam, S. Bhattacharya, A. L. Pope, S. J. Poon, and T. M. Tritt, J. Phys.: Condens. Matter **13**, 77 (2001).
+* [8] 'P. C. Canfield, J. D. Thompson, W. P. Beyermann, A. Lacerda, M. F. Hundley, E. Peterson, Z. Fisk, and H. R. Ott, J. Appl. Phys. **70**, 5800 (1991).
+* [9] 'Z. Fisk, P. C. Canfield, W. P. Beyermann, J. D. Thompson, M. F. Hundley, H. R. Ott, E. Felder, M. B. Maple, M. A. Lopez de la Torre, P. Visani, and C. L. Seaman, Phys. Rev. Lett. **67**, 3310 (1991).
+* [10] 'G. Goll, M. Marz, A. Hamann, T. Tomanic, K. Grube, T. Yoshino, and T. Takabatake, Physica B: Condensed Matter **403**, 1065 (2008).
+* [11] 'N. P. Butch, P. Syers, K. Kirshenbaum, A. P. Hope, and J. Paglione, Phys. Rev. B **84**, 220504 (2011).
+* [12] 'S. Chadov, X. Qi, J. Kubler, G. H. Fecher, C. Felser, and S. C. Zhang, Nat. Mater. **9**, 541 (2010).
+
+\begin{table}
+\begin{tabular}{l c c c c} Material & T_{c} (K) & H_{\rm{sth}} (T) & H_{\rm{P}} (T) & H_{c2} (T) \\ \hline CePt_{3}Si & 0.75 & 4.6 & 1.4 & 5.0 \\ CeIrSi_{3} & 1.6 & 13.1 & 1.9 & 11.1 \\ CeRhSi_{3} & 1.0 & 8.7 & 1.8 & 7.0 \\ Li_{2}Pd_{3}B & 7.0 & 5.0 & 13 & 5.5 \\ Li_{2}Pt_{3}B & 2.7 & 1.0 & 5.0 & 2.0 \\ YPtBi & 0.8 & 1.0 & 1.4 & 1.2 \\ LuPtBi & 1.0 & 1.2 & 1.8 & 1.6 \\ \end{tabular}
+\end{table}
+Table 2: Transition temperature and characteristic field scales of some NSC superconductors, including three heavy-fermion systems (Refs. [26, 27, 28]) (top three lines) and systems without f electrons (Refs. [16, 29, 30]) (bottom four lines). The former group satisfies H_{c2}>H_{\rm P}, hence superconductivity is not Pauli limited, whereas the latter group satisfies H_{\rm{sth}}<H_{c2}<H_{\rm P}, hence superconductivity is Pauli limited. LuPtBi belongs to the latter group.
+
+  * [11] H. Lin, L. A. Wray, Y. Xia, S. Xu, S. Jia, R. J. Cava, A. Bansil, and M. Z. Hasan, Nat. Mater. **9**, 546 (2010).
+* [12] M. Franz, Nat. Mater. **9**, 536 (2010).
+* [13] X.-L. Qi and S.-C. Zhang, Rev. Mod. Phys. **83**, 1057 (2011).
+* [14] B. A. Bernevig, T. L. Hughes, and S.-C. Zhang, Science **314**, 1757 (2006).
+* [15] W. Feng, D. Xiao, Y. Zhang, and Y. Yao, Phys. Rev. B **82**, 235121 (2010).
+* [16] T. V. Bay, T. Naka, Y. K. Huang, and A. de Visser, Phys. Rev. B **86**, 064515 (2012).
+* [17] S. S. Saxena and P. Monthoux, Nature (London) **427**, 799 (2004).
+* [18] V. M. Edelstein, Phys. Rev. Lett. **75**, 2004 (1995).
+* [19] R. P. Kaur, D. F. Agterberg, and M. Sigrist, Phys. Rev. Lett. **94**, 137002 (2005).
+* [20] K. V. Samokhin, Phys. Rev. B **70**, 104521 (2004).
+* [21] E. Mun, Ph.D. thesis, Iowa State University, 2010.
+* [22] A. B. Pippard, _Magnetoresistance in Metals_, 1st ed. (Cambridge University Press, Cambridge, UK, 2009).
+* [23] J. F. Schooley, W. R. Hosler, E. Ambler, J. H. Becker, M. L. Cohen, and C. S. Koonce, Phys. Rev. Lett. **14**, 305 (1965).
+* [24] Y. S. Hor, A. J. Williams, J. G. Checkelsky, P. Roushan, J. Seo, Q. Xu, H. W. Zandbergen, A. Yazdani, N. P. Ong, and R. J. Cava, Phys. Rev. Lett. **104**, 057001 (2010).
+* [25] T. Oguchi, Phys. Rev. B **63**, 125115 (2001).
+* [26] E. Bauer, G. Hilscher, H. Michor, C. Paul, E. W. Scheidt, A. Gribanov, Y. Seropegin, H. Noel, M. Sigrist, and P. Rogl, Phys. Rev. Lett. **92**, 027003 (2004).
+* [27] I. Sugitani, Y. Okuda, H. Shishido, T. Yamada, A. Thamizhavel, E. Yamamoto, T. D. Matsuda, Y. Haga, T. Takeuchi, R. Settai, and Y. Onuki, J. Phys. Soc. Jpn. **75**, 043703 (2006).
+* [28] N. Kimura, K. Ito, K. Saitoh, Y. Umeda, H. Aoki, and T. Terashima, Phys. Rev. Lett. **95**, 247004 (2005).
+* [29] K. Togano, P. Badica, Y. Nakamori, S. Orimo, H. Takeya, and K. Hirata, Phys. Rev. Lett. **93**, 247004 (2004).
+* [30] P. Badica, T. Kondo, and K. Togano, J. Phys. Soc. Jpn. **74**, 1014 (2005).
+* [31] S. Fujimoto, J. Phys. Soc. Jpn. **76**, 051008 (2007).
+* [32] L. W. Gruenberg and L. Gunther, Phys. Rev. Lett. **16**, 996 (1966).
+* [33] W. Al-Sawai, H. Lin, R. S. Markiewicz, L. A. Wray, Y. Xia, S.-Y. Xu, M. Z. Hasan, and A. Bansil, Phys. Rev. B **82**, 125208 (2010).
+* [34] A. P. Schnyder, S. Ryu, A. Furusaki, and A. W. W. Ludwig, Phys. Rev. B **78**, 195125 (2008).
+* [35] A. Kitaev, AIP Conf. Proc. **1134**, 22 (2009).
+* [36] A. P. Schnyder and S. Ryu, Phys. Rev. B **84**, 060504 (2011).
+* [37] M. Z. Hasan and C. L. Kane, Rev. Mod. Phys. **82**, 3045 (2010).
+* [38] J. E. Moore, Nature (London) **464**, 194 (2010).
+* [39] X.-L. Qi, T. L. Hughes, S. Raghu, and S.-C. Zhang, Phys. Rev. Lett. **102**, 187001 (2009).
+* [40] S. Sasaki, M. Kriener, K. Segawa, K. Yada, Y. Tanaka, M. Sato, and Y. Ando, Phys. Rev. Lett. **107**, 217001 (2011).
+
+ 

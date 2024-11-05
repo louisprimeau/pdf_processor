@@ -1,0 +1,94 @@
+Distinct behaviors of suppression to superconductivity in LaRu\({}_{3}\)Si\({}_{2}\) induced by Fe and Co dopants
+
+Sheng Li, Jian Tao, Xiangang Wan, Xiaxin Ding, Huan Yang, and Hai-Hu Wen
+
+Center for Superconducting Physics and Materials, National Laboratory of Solid State Microstructures and Department of Physics, Nanjing University, Nanjing 210093, China
+
+25 February  done on the Quantum Design physical property measurement system (ppms-16f) and squid-vsm.
+
+The XRD patterns for Fe- and Co-doped samples are shown in Figs. 2 and 3, respectively, and Fig. 4 shows the Rietveld fitting to the XRD data by the software topas. One can see that the samples are rather clean, except for a small amount of Ru impurity. For the Fe-doped samples, we do not see a clear change of the lattice constants \(a\) and \(c\). This could be due to the fact that the maximal doping level here is 3%, which is already enough to kill the superconductivity completely. For the Co doping, however, there is an obvious decrease of the \(a\) and \(c\) lattice constants with doping, as shown in Fig. 3. The variations of the lattice constants in the Co-doped samples are well associated with the resistivity data shown below, clearly suggesting that the Co atoms are also successfully doped into the LaRu\({}_{3}\)Si\({}_{2}\) system.
+
+In Table 1, we present the analyzed compositions of Fe and Co in the doped samples. Here we took two typical samples: \(x=0.03\) for Fe doping and \(x=0.08\) for Co doping. We have randomly selected three points on the surface of each sample and analyzed the composition using the energy dispersive x-ray (EDX) analysis. The resultant output is about 2% for \(x=0.03\) for Fe doping and about 7.5% for \(x=0.08\) in the case of Co doping. This again shows that Co can be easily doped into the sample, while the real doped composition of Fe is slightly lower than the nominal value.
+
+## III Results and discussion
+
+### Suppression to superconductivity
+
+In Figs. 5(a) and 5(b), we present the temperature dependence of the normalized resistivity of Fe- and Co-doped samples. It can be seen that the transition temperature was suppressed remarkably with Fe doping and shifted to below 2 K at only a doping level of 3%. However, for the Co-doped ones, there is no significant change of \(T_{c}\), up to 8% Co doping. These behaviors are also revealed by the magnetization of the samples, as shown in Fig. 6. For the superconducting samples, the resistivity increases monotonously with the increase of the doping level, both for the Fe and Co doping. However, it is clear that the enhancement of the residual resistivity in Fig. 5(c) is weaker in the Fe-doped samples than in the Co-doped ones, but the suppression to the superconductivity is the opposite. In Fig. 5(d) we illustrate the suppression of \(T_{c}\) with doping concentrations of Fe and Co. This is easy to understand in that the suppression to the superconductivity in the Fe-doped samples is induced by the local magnetic moments. These magnetic scattering centers are detrimental to the Cooper pairs and thus suppress the superconducting transition temperature significantly. However, in the normal state these impurities, although possessing strong magnetic moments, act as the usual scattering centers. In the Co-doped case, the increase of the residual resistivity is quite strong. For example, the residual resistivity increases more than 100% with a Co doping level of about 8%. However, the superconducting transition temperature drops only about 2 K. This sharp contrast between the behaviors of the Fe- and Co-doped samples is unexpected from a straightforward picture, since both Fe and Co would behave similarly; i.e., both would contribute local magnetic moments and influence the electric conduction as well as the superconductivity.
+
+### Doping induced magnetic moments
+
+In order to unravel the puzzle concerning the sharp contrast between the Fe- and Co-doped samples, we have done the magnetization measurements under high magnetic fields. The raw data of magnetization measured at 3 T up to room temperature are shown in Fig. 7(a). The temperature dependencies of the magnetic susceptibility look similar; however, it is only for the Fe-doped samples that there is a strong diverging of the magnetic susceptibility at low temperatures. This diverging of \(\chi\) at low temperatures can be understood as the formation of some strong local magnetic moments. The magnetization for Co-doped samples reveals an itinerant moment. To illustrate this point more clearly, we fit the low-temperature magnetization with the Curie-Weiss law:
+
+\[\chi=\chi_{0}+C/(T+T_{0}),\] (1)
+
+where \(C=\mu_{0}\mu_{\rm eff}^{2}/3k_{B}\) and \(\chi_{0}\) and \(T_{0}\) are the fitting parameters. The first term \(\chi_{0}\) arises mainly from the Pauli paramagnetism of the conduction electrons; the second term is induced by the local magnetic moments, given by the doped ions. In order to derive the correct values for \(C\) and \(\chi_{0}\), we adjust the \(\chi_{0}\) value to make the \(1/(\chi_{\rm\ -\chi_{0}})\) versus \(T\) a linear relation in the low-temperature limit; the slope gives \(1/C\), and the intercept delivers the value of \(T_{0}\). Before doing the
+
+Figure 1: (Color online) Top view of the atomic structure of LaRu\({}_{3}\)Si\({}_{2}\). The Ru atoms construct a Kagome lattice (blue middle size circles), while the Si (red small size circles) and La atoms (yellow large size circles) form a honeycomb and a triangle structure, respectively. The three different atoms do not overlap each other from a top view. The prism at the top corner illustrates one unit cell of the structure.
+
+\begin{table}
+\begin{tabular}{l c c c} Position & Composition & Position & Composition \\ \hline
+1 & Fe = 1.8\% & 1 & Co = 7.3\% \\
+2 & Fe = 1.9\% & 2 & Co = 7.8\% \\
+3 & Fe = 2.1\% & 3 & Co = 7.4\% \\ \end{tabular}
+\end{table}
+Table 1: The energy dispersive x-ray (EDX) analysis for the Fe-doped sample with \(x=0.03\) and the Co-doped sample with \(x=0.08\).
+
+  Figure 3: (Color online) (a) X-ray-diffraction patterns of the sample La(Ru1-x Co\({}_{x}\))\({}_{3}\)Si\({}_{2}\); up to the doping level of 8% the sample is still quite clean. (b) and (c) Doping dependence of both \(a\) and \(c\) lattice constants with the increase of-doped Co concentration compared to the Fe doping.
+
+Figure 2: (Color online) (a) X-ray-diffraction patterns of the sample La(Ru1-x Fe\({}_{x}\))\({}_{3}\)Si\({}_{2}\). One can see that the main phase is the 132 structure, with a slight Ru and La impurity phase. (b) and (c) Doping dependence of the \(a\)-axis and \(c\)-axis lattice constants. Because Fe doping is only up to 3%, no distinct change of the lattice constant is observed.
+
+  estimate on the magnetic moment given by the doped ions (Fe and Co), we need to calculate the magnetic moment given by the Ru atoms in the background. Using Eq. (1) and the data for the parent sample, we get 0.12 \(\mu_{B}\)/Ru. For the doped samples, we subtract the contribution of the Ru ions (each has 0.12 \(\mu_{B}\)/Ru) from the total magnetic moment and the rest should originate from the doped atoms.
+
+  data treated in this way are shown in Figs. 7(b)-7(e). Here Figs. 7(b) and 7(c) are representing results for the Fe-doped samples with \(x\) = 0.01 and 0.0275; Figs. 7(d) and 7(e) are for the Co-doped ones for \(x\) = 0.02 and 0.08. One can see that the low-temperature part is indeed linear. The fitting parameters are listed in Table 2. Once \(C\) is determined, we can get the magnetic moment given by the Fe and Co ions \(\mu_{\rm eff}\)/Co or \(\mu_{\rm eff}\)/Fe. It turns out that \(\mu_{\rm eff}\)/Co = 0.45 \(\mu_{B}\) in the Co-doped (\(x\) = 0.08) sample and 1.51 \(\mu_{B}\)/Fe in the Fe-doped one (\(x\) = 0.0275). Figures 8(a) and 8(b) show the derived \(\mu_{\rm eff}\) for Co- and Fe-doped samples, respectively. The decrease of the \(\mu_{\rm eff}\) in Co-doped samples indicates the weakening of the magnetic moments of the averaged Co dopant. This is also consistent with the theoretical results: Co dopant introduces weak magnetic moments. With further doping of Co, the average magnetic moment given by the Co ions is getting weaker and weaker, while in Fe-doped samples an increase of \(\mu_{\rm eff}\) is observed, showing the enhancement of magnetic moments by the Fe impurities. This strongly suggests that the electrons given by the Fe ions are more polarized, yielding a magnetic moment of about 1.5 \(\mu_{B}\)/Fe, comparable to the theoretical calculation: 2.05 \(\mu_{B}\)/Fe.
+
+It is interesting to mention that, although the Ru and Fe are in the same column in the periodic table, the doped Fe atoms apparently play a very different role as the Ru does. This is consistent with the common sense that the \(3d\) electrons (here contributed by Fe ions) are more localized, leading to the magnetic moments. This is very different from the iron pnictide superconductors, in which many different kinds of \(3d\) or \(4d\) transition metals can be doped to the Fe sites for inducing superconductivity, showing a wide flexibility.[15, 16, 17, 18, 19] Doping many transition metals, like Co, Ni, Pd, Ir, Pt, and Ru, does not induce very strong magnetic moments, but instead the antiferromagnetic (AF) order is suppressed. On the other hand, in LaRu\({}_{3}\)Si\({}_{2}\), doping Co does not suppress the superconductivity quickly, although the impurity scattering is strong. This effect manifests that the pairing gap is probably an \(s\)-wave type, although gap anisotropy exists for the present system.[7] It remains to be explored whether the Co doping in LaRu\({}_{3}\)Si\({}_{2}\) can result in a "dome" -like doping dependence of superconducting transition temperature, or, in other words, whether we can find an antiferromagnetic order as the parent phase and superconductivity can be induced by suppressing this AF order.
+
+### Density-functional theory calculations
+
+Using the wien2k package,[20] we studied the electronic structure based on the generalized gradient approximation.[21]
+
+\begin{table}
+\begin{tabular}{l c c c} Doping & C (K emu/mol Oe) & \(T_{0}\) (K) & \(\mu_{\rm eff}\) (\(\mu_{B}\)) \\ Ru & 0.00403 & 7.025 & 0.12 \\ Co-0.02 & 0.00883 & 5.596 & 0.81 \\ Co-0.05 & 0.01046 & 12.608 & 0.59 \\ Co-0.08 & 0.00984 & 9.307 & 0.45 \\ Fe-0.01 & 0.00613 & 4.553 & 0.76 \\ Fe-0.02 & 0.0188 & 5.097 & 1.40 \\ Fe-0.025 & 0.02304 & 4.89 & 1.42 \\ Fe-0.0275 & 0.02723 & 4.628 & 1.51 \\ \end{tabular}
+\end{table}
+Table 2: Fitting parameters with the Curie-Weiss law for the Co- and Fe-doped samples.
+
+Figure 8: Magnetic moment with Fe and Co doping calculated by the constant \(C\) in the Curie-Weiss law [Eq. (1)]. (a) The-doped Fe impurities leading to an enhanced magnetic moment. (b) The Co doping giving a gradually weakened magnetic moment.
+
+Figure 9: Calculated \(3d\) partial DOS (a) for Co \(3d\) orbitals and (b) for Fe \(3d\) orbitals. The positive and negative values signal the spin-up and spin-down portion of the DOS.
+
+  To consider the low doping concentration, we perform calculation for a \(2\times 2\times 2\) supercell and replace one of the 48 Ru atoms in the supercell by Fe/Co. In Fig. 9, we show the Fe/Co \(3d\) partial DOS. It is interesting to find that the main part of Co \(3d\) is located below \(E_{F}\). Therefore the Co \(3d\) band is close to fully occupied, although due to the hybridization with Si and Ru Co \(3d\) has also a distribution above the Fermi level (\(E_{F}\)). Thus, it is natural to expect that the spin splitting is very small, and Co becomes nonmagnetic as shown in Fig. 9(a). For Fe, while the spin-up channel is almost fully occupied like Co, the spin down is clearly partially occupied as shown in Fig. 9(b). Therefore, there is a big exchange splitting and the magnetic moment at the Fe site is found to be 2.05 \(\mu_{B}\), close to our experimental value of 1.5 \(\mu_{B}\). Because of the strong hybridization with Fe \(3d\) electrons, the neighboring Ru site has also about 0.1 \(\mu_{B}\) magnetic moment.
+
+## IV Summary
+
+In summary, contrasting behaviors of the suppression to superconductivity have been observed in Fe- and Co-doped LaRu\({}_{3}\)Si\({}_{2}\). In the case of doping Fe, the superconductivity can be easily suppressed, while it is much slower in the Co-doped samples. Measurements and analysis on the dc magnetization suggest that the Fe doping induces some strong local magnetic moments, while Co doping does not. This is well consistent with our DFT calculations. In the Fe doped samples, the impurities act as strong pair breakers, which is caused by the local magnetic moment, while the doping of Co atoms brings about equally spin-up and spin-down electrons, which contribute much weaker magnetic moments. Therefore the pair breaking is much weaker in the Co-doped samples.
+
+###### Acknowledgements.
+
+ We appreciate the useful discussions with Jan Zaanen, Zidan Wang, and Jianxin Li. This work is supported by the NSF of China (Grant No. 11034011/A0402), the Ministry of Science and Technology of China (973 projects: Grants No. 2011CBA00102 and No. 2012CB821403), and a Project Funded by the Priority Academic Program Development of Jiangsu Higher Education Institutions (PAPD).
+
+## References
+
+* [1] M. Escorne, A. Mauger, L. C. Gupta, and C. Godart, Phys. Rev. B **49**, 12051 (1994).
+* [2] H. C. Xu _et al._, Solid State Commun. **35**, 91 (1980).
+* [3] H. Barz, Mater. Res. Bull. PNAS **15**, 1489 (1980); J. M. Vandenberg and H. Barz, _ibid._**15**, 1493 (1980).
+* [4] C. Godart and L. C. Gupta, Phys. Lett. A. **120**, 427 (1987).
+* [5] U. Rauchschwalbe, W. Lieke, F. Steglich, C. Godart, L. C. Gupta, and R. D. Parks, Phys. Rev. B **30**, 444 (1984).
+* [6] D. J. Scalapino, Phys. Rep. **250**, 329 (1995); T. Moriya and K. Ueda, Rep. Prog. Phys. **66**, 1299 (2003); P. Monthoux, D. Pines, and G. Longarch, Nature (London) **450**, 20 (2007).
+* [7] S. Li, B. Zeng, X. Wan, J. Tao, F. Han, H. Yang, Z. Wang, and H.-H. Wen, Phys. Rev. B **84**, 214527 (2011).
+* [8] Q. Han, Z. D. Wang, Q.-H. Wang, and T. Xia, Phys. Rev. Lett. **92**, 027004 (2004).
+* [9] J. Kang, S.-L. Yu, Z.-J. Yao, and J.-X. Li, J. Phys.: Condens. Matter **23**, 175702 (2011).
+* [10] P. W. Anderson, J. Phys. Chem. Solids **11**, 26 (1959).
+* [11] For a review on the impurity effect on superconductivity, one is referred to A. V. Balatsky, J. X. Zhu, and I. Vekhter, Rev. Mod. Phys. **78**, 373 (2006).
+* [12] A. Yazdani, B. A. Jones, C. P. Lutz, M. F. Crommie, and D. M. Eigler, Science **275**, 1767 (1997).
+* [13] S. Pan _et al._, Nature (London) **403**, 746 (2000).
+* [14] G. Xiao, M. Z. Cieplak, J. Q. Xiao, and C. L. Chien, Phys. Rev. B **42**, 8752 (1990).
+* [15] A. S. Sefat, R. Y. Jin, M. A. McGuire, B. C. Sales, D. J. Singh, and D. Mandrus, Phys. Rev. Lett. **101**, 117004 (2008).
+* [16] C. Wang, Y. K. Li, Z. W. Zhu, S. Jiang, X. Lin, Y. K. Luo, S. Chi, L. J. Li, Z. Ren, M. He, H. Chen, Y. T. Wang, Q. Tao, G. H. Cao, and Z. A. Xu, Phys. Rev. B **79**, 054521 (2009).
+* [17] N. Ni, S. L. Bud'ko, A. Kreyssig, S. Nandi, G. E. Rustan, A. I. Goldman, S. Gupta, J. D. Corbett, A. Kracher, and P. C. Canfield, Phys. Rev. B **78**, 014507 (2008).
+* [18] F. Han, X. Zhu, P. Cheng, G. Mu, Y. Jia, L. Fang, Y. Wang, H. Luo, B. Zeng, B. Shen, L. Shan, C. Ren, and H.-H. Wen, Phys. Rev. B **80**, 024506 (2009).
+* [19] S. Sharma, A. Bharathi, S. Chandra, V. R. Reddy, S. Paulraj, A. T. Satya, V. S. Sastry, A. Gupta, and C. S. Sundar, Phys. Rev. B **81**, 174512 (2010).
+* [20] P. Blaha, K. Schwarz, G. Madsen, D. Kvasnicka, and J. Luitz, _WIEN2k, An Augmented Plane Wave \(+\) Local Orbitals Program for Calculating Crystal Properties_ (Technical University of Vienna, Vienna, 2001).
+* [21] J. P. Perdew, K. Burke, and M. Ernzerhof, Phys. Rev. Lett. **77**, 3865 (1996).
+
+ 

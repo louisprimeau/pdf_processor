@@ -1,0 +1,598 @@
+# Effect of Sn, Nb, and La substitution on superconductivity and
+magnetic order
+
+in RuSr2_R_Cu2O8 (_R_ = Eu,Gd)
+
+G. V. M. Williams
+
+2. Physikalisches Institut, Universitat Stuttgart, D-70550 Stuttgart,
+Germany
+
+and Industrial Research Limited, P.O. Box 31310, Lower Hutt, New Zealand
+
+Ho Keun Lee
+
+School of Chemical and Physical Sciences, Victoria University of
+Wellington, Private Bag, Wellington, New Zealand
+
+and Department of Physics, Kangwon National University, Chunchon
+200-701, Republic of Korea
+
+S. Kramer
+
+2. Physikalisches Institut, Universitat Stuttgart, D-70550 Stuttgart,
+Germany
+
+Received 27 December 2001; published 28 March 2003
+
+###### Abstract
+
+We report the results from a resistance, and magnetization study on
+Ru1 - _A_A_S_T2 - B2 _R_Cu2O8 (_A_ = Sn,Nb, B = La, R = Eu,Gd) where the
+parent compound has previously been reported to display
+superconductivity and predominately low field antiferromagnetic order.
+We show that, contrary to a study on Ru1 - _S_nSnSr2GdCu2O8, there is no
+significant change in the superconducting transition temperature when Sn
+is substituted for Ru, implying that there is no significant Sn-induced
+charge transfer to the CuO2 planes. Furthermore, increasing the Sn
+concentration has the effect of increasing the temperature where zero
+resistance and the onset of bulk ac diamagnetic shielding occurs, which
+we interpret in terms of a decreasing ferromagnetic component leading to
+an increase in the temperature where the spontaneous vortex phase
+occurs. Contrary to previous studies on the pure compounds, we find an
+initial negative _dM_/_dB_ at low temperatures in magnetically ordered
+Ru1 - _S_nSnSr2_R_Cu2O8 for Sn concentrations at, and greater than, 0.1.
+The substitution of Ru by nuclei that have a larger (Nb5+) or smaller
+(Sn4+) valence results in a similar decrease in the magnetic ordering
+temperature and an increase in the average Ru valence. La substitution
+for Sr causes charge transfer to the CuO2 planes and an increase in the
+magnetic ordering temperature that is not expected.
+
+DOI: 10.1103/PhysRevB.67.104514 PACS number(s): 74.72.-h, 75.30.Cr,
+74.25.Ha, 74.25.Fy + Footnote †: preprint: PHYSICAL REVIEW B **67**,
+104514 (2003)
+
+## Introduction
+
+It has recently been reported that the ruthenate cuprate, RuSr2_R_Cu2O8
+(_R_ = Gd,Eu) displays superconductivity arising from the CuO2 planes
+[1-5] and magnetic order arising from the RuO2 layers [1-6]. These
+materials and the related ferromagnetic superconductors, RuSr2R2 -
+_A_CeCu2O10 + d, were first discovered by Bauernfeind, Widder, and
+Braun. [1,2] It was originally believed that RuSr2_R_Cu2O8 is
+ferromagnetic; however, powder neutron diffraction studies have shown
+that the low field magnetic order is predominately antiferromagnetic.
+[3,4] The small ferromagnetic component, which orders at 132 K, is
+believed to be large enough to affect superconductivity unless there is
+some form of accommodation via a spatial modulation of the respective
+order parameters or a spontaneous vortex phase. [7,8] This model was
+originally proposed for the ferromagnetic superconductor, RuSr2R2 -
+_A_Ce_Cu2O10 + d. [9] In this model, there exists a spontaneous vortex
+phase for _T_SVP < T < T , where the local field, _B_loc, is greater
+than the lower critical field _B_cl. For temperatures less than _T_SVP,
+_B_cl is greater than _B_loc and hence the bulk diamagnetic transition
+occurs. However, it has been suggested that a bulk diamagnetic
+transition does not occur in RuSr2_R_Cu2O8 because the derivative of the
+initial change in magnetization with increasing applied magnetic field
+is positive. [10,11] The application of the spontaneous vortex phase
+model to RuSr2_R_Cu2O8 has been indirect [7, 8] and it is not known if
+changing the magnetic ordering temperature and the ferromagnetic
+component will lead to changes in the magnetization data that are
+consistent with the spontaneous vortex model.
+
+Recent theoretical band structure calculations based on the
+experimentally observed structure have concluded that antiferromagnetic
+order is energetically favored over ferromagnetic order in RuSr2GdCu2O8.
+[12] In particular, Nakamura _et al._ showed the importance of including
+the effect of the rotations of the RuO6 octahedra. Previous calculations
+by Pickett, Weht, and Schick [13] had concluded that the magnetic order
+was ferromagnetic but Pickett, Weht, and Schick had used the structure
+as determined by the analysis of the x-ray diffraction spectra where
+rotations of RuO6 octahedra could not be observed. Unfortunately, the
+experimental data shows that the magnetic order is more complex than
+purely antiferromagnetic. For example, Takagiwa _et al._[14] have
+reported the existence of a significant low field ferromagnetic
+component in RuSr2YCu2O8 [ ∼ 0.28μ_(B)/Ru (Ref. [14])], which is ∼24
+
+The similar bond angle distortions and bond lengths in the SrRuO₃
+substructure but different average Ru valences in RuSr₂RCu₂O₈ and
+RuSr₂R_(2 − x)Ce_(x)Cu₂O_(10 + δ) would appear to suggest that band
+filling effects are responsible for the different magnetically ordered
+states. This can be contrasted with the ruthenates where isoelectronic
+substitution for atoms not in the RuO₂ layers shows that the magnetic
+ordering temperature is correlated with the rotation angle of the RuO₆
+octahedra and the Ru-O-Ru bond length, [22] which is consistent with a
+theoretical study by Mazin and Singh. [23] Electronic doping via
+substitutions for atoms not in the RuO₂ layers can lead to a change in
+the rotation and tilting of the RuO₆ octahedra as well as electronic
+doping in the RuO₂ layers where the individual effects on the magnetic
+ordering temperature are not easy to separate. For example, Na⁺
+substitution for Sr²⁺ in SrRuO₃ leads to a decrease in the magnetic
+ordering temperature as well as a transition from an itinerant
+ferromagnetic metal to a ferromagnetic semiconductor. [24] Direct
+substitution for Ru by a nonmagnetic atom with the same valence will
+lead to a decrease in the magnetic ordering temperature via a dilution
+of the magnetic lattice and broken superexchange paths. However, it is
+also believed that changes in the rotation and tilting of the RuO₆
+octahedra are also important. [25] A study on Ru_(1 − x)Sn_(x)Sr₂GdCu₂O₈
+showed that the magnetic ordering temperature decreased with increasing
+Sn concentration. [26] This was accompanied by a large change in the
+Ru-O-Ru bond angle distortion that is nearly half of that observed in
+Sr_(1 − x)Ca_(x)RuO₃, [22] which indicates that bond angle distortions
+and bond length changes also contribute to the decrease in the magnetic
+ordering temperature. The magnetization and resistance data were
+interpreted in terms of a fixed Ru valence of 4+ and charge transfer
+between the CuO₂ and RuO₂ layers. However, the x = 0 and x = 0.1 samples
+did not show zero resistance at a finite temperature and more recent
+measurements have found a mixed Ru valence in the pure compounds. [17,
+18, 19]
+
+It is apparent that further experimental research is required to enable
+a better understanding of the magnetic and superconducting order in the
+ruthenate cuprates. In this paper, we report the results from a
+resistance and magnetization study on RuSr₂_R_Cu₂O₈, where the
+superconducting and magnetic order were probed by substituting La for
+Sr, Sn for Ru, and Nb for Ru.
+
+## Experimental Details
+
+The Ru_(1 − x)Sn_(x)Sr₂EuCu₂O₈, Ru_(1 − x)Nb_(x)Sr₂EuCu₂O₈, and
+RuSr_(1 − x)La_(x)EuCu₂O₈ ceramic samples were made from a
+stoichiometric mix of RuO₂, SnO₂, Nb₂O₅, SrCO₃, La₂O₃, Eu₂O₃, Gd₂O₃, and
+CuO. The powder was first calcined in air at 960 degC for 12 h. The
+samples were then pressed into pellets and sintered at 1010 degC in N₂
+gas for 10 h, 1050 degC in O₂ gas for 10 h, 1055 degC in O₂ gas for 10
+h, and 1060 degC in O₂ gas for 10 h, 24 h, and 7 days. The samples were
+reground after sintering at each temperature. The initial sintering at
+1010 degC was performed to suppress the formation of ferromagnetic
+SrRuO₃. As found in a previous study, [22] all
+Ru_(1 − x)Sn_(x)Sr₂_R_Cu₂O₈ samples with x > 0 showed evidence of SrSnO₃
+in the x-ray diffraction spectra which could not be decreased by
+additional sintering. However, as we show later, the magnetic ordering
+temperatures are lower than those found in the previous study on
+Ru_(1 − x)Sn_(x)Sr₂GdCu₂O₈ for similar Sn concentrations. Furthermore,
+all our pure and Sn substituted samples display a zero resistance at
+finite temperatures, which was not reported in the previous study. There
+was no evidence of impurity phases in the Ru_(1 − x)Nb_(x)Sr₂EuCu₂O₈ and
+RuSr_(1.9)La_(0.1)EuCu₂O₈ x-ray diffraction spectra.
+
+The ac and dc magnetization measurements were made using a SQUID
+magnetometer. The ac magnetization measurements were made with an ac
+field of 5 mT and a frequency of 1 kHz. The remanent magnetic field of
+the superconducting magnetic was ±0.6 mT. The resistance measurements
+were made using the four terminal technique.
+
+## Results and Analyses
+
+We show in Fig. 1 the normalized resistance data from
+Ru_(1 − x)Sn_(x)Sr₂GdCu₂O₈ [Fig. 1(a)] with x = 0 (solid curve) and x =
+0.2 (dashed curve) and Ru_(1 − x)Sn_(x)Sr₂EuCu₂O₈ [Fig. 1(b)] with x =
+0, 0.1, and 0.3 (solid curves). Unlike the study on
+Ru_(1 − x)Sn_(x)Sr₂GdCu₂O₈, [26] we find that the resistance for x = 0
+and x = 0.2 does reach zero at a finite temperature. Furthermore, the
+temperature where the resistance is zero, T_(c)^(R)(0), systematically
+increases with increasing Sn concentration for both the
+Ru_(1 − x)Sn_(x)Sr₂GdCu₂O₈ and Ru_(1 − x)Sn_(x)Sr₂EuCu₂O₈ samples. It is
+possible that the samples used in the previous study on
+Ru_(1 − x)Sn_(x)Sr₂GdCu₂O₈ (Ref. [26]) were very disordered because it
+is known that annealing for an additional seven days leads to a
+T_(c)^(R)(0) of ∼35 K in RuSr₂GdCu₂O₈. [27, 28]
+
+It has previously been shown that superconductivity in RuSr₂GdCu₂O₈
+occurs at ∼45 K and corresponds to the initial decrease in the
+resistance but the bulk diamagnetic transition occurs for temperatures
+below ∼35 K. [1, 27, 28] A similar effect was observed in RuSr₂EuCu₂O₈
+where superconductivity and the initial decrease in the resistance occur
+near 32 K while the transition into the bulk diamagnetic state occurs
+near 12 K. [8, 15] As mentioned earlier, this has been attributed to the
+existence of a spontaneous vortex phase. The normal-state resistance
+data shows a semiconductorlike increase for temperatures less than ∼100
+K. It has recently been shown that this semiconductorlike increase is
+not intrinsic and is due to intergranular transport.[8] Therefore, it is
+not appropriate to use the initial decrease in the resistance as the
+criterion to determine T_(c). This is especially pertinent to the
+previous study on Ru_(1 − x)Sn_(x)Sr₂GdCu₂O₈ where a semiconductorlike
+upturn was observed for all Sn concentrations and the peak in the
+resistance data was used to determine that T_(c) increased from 36 K to
+48 K as the Sn concentration increased from 0 to 0.2.[26] However, it is
+apparent in Fig. 1 that there is no well-defined peak in the resistance
+data for Ru_(1 − x)Sn_(x)Sr₂EuCu₂O₈ with x = 0.3 or
+Ru_(1 − x)Sn_(x)Sr₂GdCu₂O₈ with x = 0.2 that can be used to estimate
+T_(c). It has previously been argued that T_(c) in the pure compound can
+also be estimated from the temperature where there is a significant
+increase in the derivative of the resistance.[27, 29] If we use a
+similar criteria to estimate T_(c) using the resistance data from our
+Ru_(1 − x)Sn_(x)Sr₂GdCu₂O₈ samples, we obtain T_(c) values of 52 K and
+49 K for x = 0 and x = 0.2, respectively. Thus, unlike the previous
+study on Ru_(1 − x)Sn_(x)Sr₂GdCu₂O₈, we find no significant change in
+T_(c) , as estimated from the resistance data, with increasing Sn
+concentration.
+
+Also plotted in Fig. 1(b) is the normalized resistance from
+Ru_(0.6)Nb_(0.4)Sr₂EuCu₂O₈ (dashed curve) and RuSr_(1.9)La_(0.1)EuCu₂O₈
+(dotted curve), where it can be seen that both samples do not exhibit a
+metallic ground state at low temperatures. The disappearance of
+superconductivity when La is substituted for Sr or Nb is substituted for
+Ru is likely to be due to charge transfer to the CuO₂ planes and hence a
+decrease in the hole concentration on the CuO₂ planes. We first note
+that studies on the high temperature superconducting cuprates have shown
+that there is a good correlation between T_(c) and the hole
+concentration, p, on the CuO₂ planes where superconductivity exists for
+0.05≤p≤0.27. In particular, it has been found that
+
+$$T_{c}(p)\!=\!T_{c,\rm max}[\,1\!-\!82.6(p\!-\!0.16)^{2}\,],$$
+(1)
+
+where $T_{c,\rm max}$ is the maximum T_(c) for each family of
+superconductors.[30] It should be noted that p is not the carrier
+concentration on the CuO₂ planes because the carrier concentration
+cannot be estimated in the usual way via the Hall coefficient owing to
+the strong dependence of the Hall coefficient on temperature. Rather, p
+derives from valence counting. For example, it is directly proportional
+to the Sr content in La_(2 − p)Sr_(p)CuO₄. The effect of increasing
+(e.g., La³⁺ for Sr²⁺ in YBa₂Cu₃O₇) or decreasing (e.g., Ca²⁺ for Y³⁺ in
+YBa₂Cu₃O₇) the valence at one of the atomic sites can lead to a decrease
+or increase in p. Recent studies have shown that RuSr₂EuCu₂O₈ is very
+underdoped where p ∼ 0.07.[27, 31] Thus, substituting 0.1La³⁺ for Sr²⁺
+could correspond to a maximum decrease in p to 0.02, which is in the
+insulator region. Similarly, applying the simple valence counting model
+to the substitution of Nb for Ru (average valence 4.62) shows that p
+could decrease to as low as −0.01, assuming that there is no change in
+the Ru valence. We show later that there is a small Nb-induced increase
+in the average Ru valence to 4.77 that corresponds to a decrease in p to
+−0.05, which is in the insulator region. Note that if there was charge
+transfer to the CuO₂ planes in the Sn-substituted samples this would
+cause an increase of the hole concentration from ∼0.07 to ∼0.16 for
+0.3Sn substitution. According to Eq. (1), T_(c) should increase
+considerably. However, as mentioned above a significant change in T_(c)
+is not observed. This implies that there is no Sn-induced charge
+transfer to the CuO₂ planes and hence, in a simple valence counting
+model, Sn substitution should lead to an increase in the average Ru
+valence in the RuO₂ layers leading to an average Ru valence of up to
+4.89 for x = 0.3.
+
+The onset of bulk ac diamagnetic shielding for
+Ru_(1 − x)Sn_(x)Sr₂_R_Cu₂O₈ can be seen in Fig. 2, where we plot the ac
+susceptibility. We use the ac susceptibility rather than dc
+susceptibility, because the remanent magnetization from the SQUID
+magnetometer superconducting magnet is close to the field where the bulk
+dc diamagnetic phase disappears in the pure samples. Furthermore, the
+small remanent field is sufficient to partially align the ferromagnetic
+component from the RuO₂ planes. It is clear than Sn substitution
+systematically increases the temperature where the transition into the
+bulk ac diamagnetic state commences. The real part of the ac
+susceptibility data also contains a contribution from the small
+ferromagnetic component, and hence the transition to the bulk
+diamagnetic state commences at a temperature greater than that where
+χ^(′) = 0 occurs. The onset of bulk ac diamagnetic shielding in
+Ru_(1 − x)Sn_(x)Sr₂EuCu₂O₈ is clear in the inset to Fig. 2(b), where we
+plot the imaginary part of the ac susceptibility, χ^(′′). Thus, the bulk
+ac diamagnetic transition for Ru_(1 − x)Sn_(x)Sr₂EuCu₂O₈ commences at
+temperatures of 11, 16, and 20 K for x = 0, 0.1, and 0.3, respectively.
+We show below that there is also a Sn-induced decrease in the ferro
+
+Figure 1: Plot of the resistance against temperature for
+Ru_(1 − x)Sn_(x)Sr₂_R_Cu₂O₈ with (a) R =  Gd and x = 0 (solid curve) and
+x = 0.2 (dashed curve), (b) R =  Eu and x = 0, 0.1, and 0.3 where the
+arrow indicates increasing Sn concentration and the solid line indicates
+the superconducting transition temperature in the pure compound reported
+in other studies. Also shown in (b) is the resistance data from
+Ru_(0.6)Nb_(0.4)Sr₂EuCu₂O₈ (dashed curve) and RuSr_(1.9)La_(0.1)EuCu₂O₈
+(dotted curve).
+
+magnetic component of the magnetization and the low temperature and high
+field magnetization. Thus, within the spontaneous vortex phase model,
+the increase in the diamagnetic transition temperature can be attributed
+to a decrease in the local field arising from the ferromagnetic
+component in the RuO₂ layers.
+
+Unlike previous studies on RuSr₂EuCu₂O₈ and RuSr₂GdCu₂O₈, we find that
+the dc magnetization initially decreases with increasing magnetic field
+at 2 K for Sn concentrations ≥0.1. This is apparent in Fig. 3, where we
+plot the initial magnetization against the applied magnetic field at 2 K
+for Ru_(1 − x)Sn_(x)Sr₂EuCu₂O₈ with x = 0, 0.1, and 0.3. It can be seen
+in Figs. 4(a) and 4(b) that these samples are still magnetically ordered
+where the magnetic ordering temperature is above the superconducting
+ordering temperature.
+
+As mentioned earlier, it has been argued that the absence of an initial
+negative dM/dB in magnetically ordered RuSr₂ReCu₂O₈ implies the absence
+of a bulk diamagnetic transition in this compound.[10]
+
+It is clear in Fig. 4 that Sn or Nb substitution for Ru significantly
+suppresses the magnetic ordering temperature, while La substitution for
+Sr results in a small increase in the magnetic ordering temperature. The
+peak in the ac and dc data for the pure compound is also observed in
+RuSr₂GdCu₂O₈ at the same temperature of 132 K (not shown). This peak is
+close to the magnetic ordering temperature defined as the temperature
+where dM/dT is a maximum negative value. The effect of Sn or Nb
+substitution is to broaden the peak observed in the ac data and in the
+zero-field-cooled magnetization data for small applied fields. However,
+this low field peak has disappeared in the La substituted sample. Note
+that the magnetization data for the x = 0.3 Sn sample also has a small
+peak near 65 K, which indicates that there is an inhomogeneous Sn
+distribution. Despite repeated annealing, we were unable to reduce the
+magnitude of this small peak.
+
+The low field peak at 132 K observed in the pure compound disappears for
+applied magnetic fields greater than ∼0.25 T and the zero-field-cooled
+and field-cooled hysteresis
+
+Figure 3: Plot of the dc magnetization against applied magnetic field at
+2 K for Ru_(1 − x)Sn_(x)Sr₂EuCu₂O₈ with x = 0 (solid curve), 0.1 (dotted
+curve) and 0.3 (dashed curve). The data have not been corrected for
+demagnetizing effects. The arrow indicates increasing Sn concentration.
+
+Figure 2: Plot of χ^(′) against temperature for
+Ru_(1 − x)Sn_(x)Sr₂_R_Cu₂O₈ with (a) $R\!=\!{\rm Gd}$ and x = 0 (solid
+curve) and x = 0.2 (dashed curve), (b) $R\!=\!{\rm Eu}$ and x = 0, 0.1,
+and 0.3 where the arrow indicates increasing Sn concentration. The data
+have not been corrected for demagnetizing effects. Inset: Plot of the
+corresponding χ^(′′) against temperature.
+
+behavior disappears for applied magnetic fields greater than 2 T. The
+hysteresis behavior has been attributed to the small ferromagnetic
+component.[15] The appearance of bulk dc diamagnetic shielding at 5 mT
+for Sn substituted samples and x 0.1 makes it difficult to use the low
+temperature field-cooled magnetization to estimate the ferromagnetic
+component, as has been done for the pure compound.[15] However, it is
+evident in Fig. 4(b) that, in the absence of diamagnetic shielding, the
+low-temperature field-cooled magnetization from the x = 0.1 sample is
+ 44
+
+The resulting magnetic ordering temperatures are plotted in Fig. 5,
+where it is apparent that Sn or Nb substitution for Ru cause a similar
+decrease in the magnetic ordering temperature. We note that the magnetic
+ordering temperature for our x = 0.3 sample (35 K) is significantly less
+than that reported in Ru_(1 − x)Sn_(x)Sr₂GdCu₂O₈ with a similar nominal
+Sn concentration [ 87 K (Ref. 26)]. The origin of the similar decrease
+in the magnetic ordering temperatures is discussed later. The effect of
+La substitution for Sr is to increase the magnetic ordering temperature
+to 160 K, which is not expected when compared with similar substitutions
+in the ruthenates and assuming that there is no charge transfer to the
+RuO₂ layers. For example, in Sr_(1 − x)Ca_(x)RuO₃ , substituting Ca
+(ionic radii 0.112 nm) for the larger Sr (ionic radii 0.126 nm) results
+in an increase in the Ru-O-Ru bond angle distortion that affects the
+superexchange interaction and leads to a decrease in the magnetic
+ordering temperature.[22] The La ionic radii (0.116 nm) is also less
+than that of Sr (0.126 nm) and hence it might be expected that La
+substitution for Sr in RuSr₂_R_Cu₂O₈ should also lead to an increase in
+the Ru-O-Ru bond angle distortion and hence a decrease in the magnetic
+ordering temperature.
+
+The effect of Sn, Nb, or La substitution on the magnetic field
+dependence of the magnetization in RuSr₂EuCu₂O₈ can be seen in Fig. 6.
+The curves for Ru_(1 − x)Sn_(x)Sr₂GdCu₂O₈ are not shown because they are
+significantly distorted by the large moment from Gd³⁺, which
+magnetically orders near 2.5 K.[3] The general feature of a gradual
+increase in the magnetization with increasing magnetic field is
+preserved irrespective of the substituted atom. In the case of the pure
+compound, the slow increase in the magnetization was attributed to a
+spin-flop transition[15] that was also evident from neutron diffraction
+measurements.[3, 14] Unfortunately, there is no neutron diffraction data
+for the substituted samples; however, the similar general increase in
+the magnetization may suggest a similar spin-flop transition from a
+predominately antiferromagnetic low field state.
+
+The remanent magnetization for the pure compound is  0.034μ_(B)/Ru site,
+which is slightly less than that found in a previous study
+( 0.05μ_(B)/Ru site[15]). It decreases to  0.015μ_(B)/Ru site for 0.4Nb
+substitution for Ru and for 0.1La substitution for Sr. The remanent
+magnetization is  0.023μ_(B)/Ru site and 0.026μ_(B)/Ru site for the Sn
+substituted samples with x = 0.1 and 0.3, respectively, but these values
+are significantly affected by dc diamagnetic shielding. The effect of
+increasing Sn and Nb substitution for Ru, as well as La substitution for
+Sr is to decrease the high field magnetization, as can be seen in Fig.
+6. This is more evident in the lower right inset to Fig. 6, where the
+magnetization is plotted at 6 T and per Ru site rather than per Ru atom
+(solid symbols). Correcting for the actual Ru concentration when Nb is
+substituted for Ru leads to a magnetization per Ru atom that is  86
+
+Figure 5: The magnetic ordering temperature against x for
+Ru_(1 − x)Sn_(x)Sr₂EuCu₂O₈ (filled circles), Ru_(1 − x)Sn_(x)Sr₂GdCu₂O₈
+(filled diamond) and Ru_(0.6)Nb_(0.4)Sr₂EuCu₂O₈ (filled up triangle).
+
+Figure 6: Plot of the dc magnetization against applied magnetic field at
+5 K for Ru_(1 − x)Sn_(x)Sr₂EuCu₂O₈ with x = 0, 0.1, and 0.3,
+Ru_(0.6)Nb_(0.4)Sr₂EuCu₂O₈ and RuSr_(1.9)La_(0.1)EuCu₂O₈. The initial
+increase in the magnetization has been removed for clarity. Lower right
+plot: Plot of the magnetization per Ru site at 5 K and 6 T for
+Ru_(1 − x)Sn_(x)Sr₂EuCu₂O₈ with x = 0, 0.1, and 0.3 (filled circles) and
+Ru_(0.6)Nb_(0.4)Sr₂EuCu₂O₈ (filled up triangle). Also shown is the
+magnetization per Ru atom for Ru_(0.6)Nb_(0.4)Sr₂EuCu₂O₈ (open up
+triangle).
+
+phase means that the exact Sn fraction on the Ru sites in unknown and
+hence it is not possible to perform a similar calculation for the Sn
+substituted samples. However, it is clear that the magnetization at 6 T
+for x = 0.3 is less than 70
+
+As mentioned earlier, there is no Sn-induced charge transfer to the CuO2
+planes and hence Sn substitution is expected to increase the average Ru
+valence. To determine if Nb substitution also changes the effective Ru
+valence, we estimate the moment per Ru atom above the magnetic ordering
+temperature in a manner similar to that of Butera _et al._[32] for the
+Ru0.6Nb0.4Sr2EuCu2O8 sample using the data plotted in Fig. 7. Here we
+plot _M_/_H_ for an applied magnetic field of 1 T (filled up triangles).
+We show in the inset that _M_/_H_ is independent of field for T > 130 K,
+which is  80 K above the magnetic ordering temperature. The temperature
+above which _M_/_H_ is independent of field is significantly less than
+that found in RuSr2EuCu2O8, where _M_/_H_ is independent of field for
+temperatures above 200 K. [15] This corresponds to  70 K above the
+magnetic ordering temperature and provides additional evidence that the
+intrinsic magnetic ordering temperature is reduced rather than phase
+separation occurring. Therefore, we fit the data in Fig. 7 above 150 K,
+and in the region where _M_/_H_ is independent of field, to
+
+χ = c/(T − ϑ) + χ_(VV) + χ₀
+
+The first term is the Currie-Weiss term from the Ru moments with ϑ being
+the Curie-Weiss temperature and c =
+$\mu_{0}\rho N_{A}(1 - x)\mu_{B}^{2}P_{\rm eff}^{2}(M_{r}3k_{B})$ where
+μ₀ is the vacuum permeability, r is the sample density, _NA_ is
+Avogadro’s constant, m_(B) is the Bohr magneton, M_(r) is the molecular
+weight, k_(B) is Boltzmann’s constant, and _P_eff is the Ru effective
+Bohr magneton number. For Ru4+ with a low spin t_(2g)⁴ ground state,
+_P_eff=2.83 and for Ru5+ with a t_(2g)³ ground state, _P_eff =3.87. The
+second term in Eq. (1) is the van Vleck paramagnetism from Eu3+. As in a
+previous study, we use the crystal field parameter of 303 cm-1 found in
+Eu2CuO4. [33] This term is plotted in Fig. 7 (dashed curve). The final
+term in Eq. (2) contains the Pauli spin susceptibility from the CuO2
+planes, any temperature independent Stoner enhanced term from the RuO2
+layers and orbital and core terms. The contribution from the CuO2 planes
+is small and less than 4 x 10-5 in the high temperature superconducting
+cuprates. [34] Therefore, we approximate the contribution from the CuO2
+planes as being temperature independent.
+
+The resultant fit to Eq. (2) is plotted in Fig. 7. The fitting
+parameters are ϑ = 29 K, _P_eff=3.66, and _kh_0=12 x 10-5. We find that
+ϑ is positive and  21 K is less than the magnetic ordering temperature.
+A positive ϑ would appear to suggest ferromagnetic correlations.
+However, a positive ϑ was also observed in the pure compound (ϑ = 100 K)
+even though neutron diffraction measurements have now shown that the low
+temperature ground state is predominately ferromagnetic. [34] A similar
+apparent contradiction was observed in CaRuO3, where a negative ϑ occurs
+that would appear to suggest antiferromagnetic correlations. [35]
+However, recent studies have shown that the correlations are
+ferromagnetic. [36] In the case of the Ru1-_A_A_S_T_2-_B_,B,_R_Cu2O8
+compounds these discrepancies between the paramagnetic Curie-Weiss
+temperature and the low field magnetic ground state are related to the
+fact that the low-temperature magnetic ground state strongly depends on
+the external magnetic field. For example, as mentioned above,
+RuSr2_R_Cu2O8 displays a large antiferromagnetic component for low
+applied fields and a spin-flop transition into a ferromagnetic state
+with increasing applied magnetic field. [34, 16, 14]
+
+The fitted value of _P_eff implies an average Ru valence of  4.77, which
+is greater than that found in the pure compound [ 4.62 (Ref. [17])] from
+the analysis of the XANES data. In a simple valence counting model,
+replacing Ru (average valence 4.62) with Nb5+ should lead to a decrease
+in the average Ru valence. Thus, similar to Sn substitution for Ru, we
+find that Nb5+ substitution also leads to an increase in the average Ru
+valence. Consequently, there is charge transfer to the CuO2 planes,
+which is consistent with the absence of superconductivity.
+
+_kh_0 is larger than that found in the high-temperature superconducting
+cuprates, which indicates that there is a contribution from the RuO2
+planes. By comparison with SrRuO3, we expect the orbital and core terms
+to be small and hence _kh_0 is dominated by the spin susceptibility in
+the RuO2 planes. We note that _kh_0 is less than that found in SrRuO3
+[ 50x10-5 (Ref. [25])], which has a significant Stoner enhancement.
+
+Thus both Nb and Sn substitution for Ru lead to an increase in the
+average Ru valence as well as similar decreases in the magnetic ordering
+temperature. However, there is no evidence for a major change in the
+magnetic order or spin correlations from that observed in the pure
+compound. Rather, the major effect of Nb and Sn substitution is to
+dilute the magnetic lattice, leading to a decrease in the magnetic
+ordering temperature. There is also the added effect of the increase in
+the Ru-O-Ru bond angle distortions observed in Ru1-_x_Sn_x_Z_GdCu2O8.
+[26] In the absence of neutron diffrac
+
+Figure 7: Plot of _M_/_H_ against temperature for Ru0.6Nb0.4Sr2EuCu2O8
+(filled up triangles) for an applied magnetic field of 1 T. The dashed
+curve is the calculated Eu3+ van Vleck paramagnetism contribution. The
+solid curve is a fit to the data as described in the text. Inset: Plot
+of _M_/_H_ against temperature for Ru0.6Nb0.4Sr2EuCu2O8 with applied
+magnetic fields of 1, 3, and 6 T. The arrow indicates increasing applied
+magnetic field.
+
+tion data, it would seem reasonable to speculate that there is an
+increase in the RuO₆ rotation angle induced by Nb substitution.
+
+## Conclusion
+
+In conclusion, we find that Sn substitution for Ru in
+Ru_(1 − x)Sn_(x)Sr₂RCu₂O₈ results in a systematic increase in the
+temperature where the bulk ac diamagnetic transition commences. This can
+be accounted for within the spontaneous vortex phase interpretation, by
+a decrease in the local field from the ferromagnetic component in the
+RuO₂ planes. We also find that dM/dB is initially negative for
+magnetically ordered Ru_(1 − x)Sn_(x)Sr₂RCu₂O₈ when x≫0.1, which is not
+observed in the pure compound. The appearance of an initially negative
+dM/dB for x≫0.1 may be related to the decrease in the magnitude of the
+ferromagnetic component. The absence of superconductivity when 0.1 La is
+substituted for Sr or 0.4 Nb is substituted for Ru is likely to be due
+to a decrease in the hole concentration on the CuO₂ planes. However,
+contrary to a previous report, we find no evidence for Sn-induced charge
+transfer to the CuO₂ layers. Substitution of Sn or Nb for Ru, which is
+believed to have an average valence of ∼4.62 in the pure compound, leads
+to comparable decreases in the magnetic ordering temperature and an
+increase in the average Ru valence. However, there is no evidence for a
+change in the nature of the magnetic correlations or magnetic order. The
+magnetic ordering temperature decreases primarily due to a spin dilution
+of the magnetic lattice as well as broken superexchange paths. There is
+also the additional effect of an increase in the Ru-O-Ru bond angle
+distortion in Sn-substituted RuSr₂RCu₂O₈ and it is possible that a
+similar decrease in the Ru-O-Ru bond angle distortion occurs in
+Nb-substituted RuSr₂RCu₂O₈. The small decrease in the low-temperature
+moment per Ru is likely to be a consequence of spin dilution and broken
+superexchange paths. La substitution for Sr leads to a small increase in
+the magnetic ordering temperature that, by comparison with ruthenate
+compounds, is not expected.
+
+###### Acknowledgements.
+
+We acknowledge funding support from the New Zealand Marsden Fund (GVMW),
+the Alexander von Humboldt Foundation (GVMW), and from the Kangwon
+National University (H.K.L.). We thank Victoria University of Wellington
+for the provision of some of the facilities and R. Fairlie and N. Gibson
+for preparing and characterizing some of the samples.
+
+## References
+
+* (1) L. Bauernfeind, W. Widder, and H. F. Braun, Physica C **254**, 151
+(1995). * (2) L. Bauernfeind, W. Widder, and H. F. Braun, J. Low Temp.
+Phys. **105**, 1605 (1996). * (3) J. W. Lynn, B. Keimer, C. Ulrich, C.
+Bernhard, and J. L. Tallon, Phys. Rev. B **61**, 14 964 (2000). * (4) J.
+D. Jorgensen, O. Chmaissem, H. Shaked, S. Short, P. W. Klamut, B.
+Dabrowski, and J. L. Tallon, Phys. Rev. B **63**, 054440 (2001). * (5)
+C. Bernhard, J. L. Tallon, Ch. Neidermayer, Th. Blasius, A. Golnik, E.
+Brucher, R. K. Kremer, D. R. Noakes, C. E. Stronach, and E. J. Ansaldo,
+Phys. Rev. B **59**, 14 099 (1999). * (6) I. Felner, U. Asaf, S. Reich,
+and Y. Tsabba, Physica C **311**, 163 (1999). * (7) C. Bernhard, J. L.
+Tallon, E. Bruecher, and K. K. Kremer, Phys. Rev. B **61**, 14 960
+(2000). * (8) M. Pozek, A. Dulcic, D. Paar, G. V. M. Williams, and S.
+Kramer, Phys. Rev. B **64**, 064508 (2001). * (9) E. B. Sonin and I.
+Felner, Phys. Rev. B **57**, 14 000 (1998). * (10) Y. Y. Xue, R. L.
+Meng, J. Cmaidalka, B. Lorenz, L. M. Desaneti, A. K. Heilman, and C. W.
+Chu, Physica C **341-348**, 459 (2000). * (11) C. W. Chu, Y. Y. Xue, S.
+Tsui, J. Cmaidalka, A. K. Heilman, B. Lorenz, and R. L. Meng, Physica C
+**335**, 231 (2000). * (12) K. Nakamura, K. T. Park, and J. D.
+Jorgensen, Phys. Rev. B **63**, 024507 (2001). * (13) W. E. Pickett, R.
+Weht, and A. B. Schick, Phys. Rev. Lett. **83**, 3713 (1999). * (14) H.
+Takagiwa, J. Akimitsu, H. Kawano-Furukawa, and H. Yoshizawa, J. Phys.
+Soc. Jpn. **70**, 333 (2001). * (15) G. V. M. Williams and S. Kramer,
+Phys. Rev. B **62**, 4132 (2000). * (16) G. V. M. Williams, A. C.
+McLaughlin, J. P. Attfield, S. Kramer, and H. K. Lee, cond-mat/0108521
+(unpublished). * (17) R. S. Liu, L.-Y. Jang, H.-H. Hung, and J. L.
+Tallon, Phys. Rev. B **63**, 212507 (2001). * (18) K. Kumagai, S.
+Takada, and Y. Furukawa, Phys. Rev. B **63**, 180509 (2001). * (19) Y.
+Tokunaga, H. Kotegawa, K. Ishida, Y. Kitaoka, H. Takagiwa, and J.
+Akimitsu, Phys. Rev. Lett. **86**, 5767 (2001). * (20) I. Felner, U.
+Asaf, C. Godart, and E. Alleno, Physica B **259-261**, 703 (1999). *
+(21) G. V. M. Williams, L.-Y. Jang, and R. S. Liu, Phys. Rev. B **65**,
+064508 (2002). * (22) T. He, Q. Huang, and R. J. Cava, Phys. Rev. B
+**63**, 024402 (2000). * (23) I. I. Mazin and D. J. Singh, Phys. Rev. B
+**56**, 2556 (1997). * (24) M. Shepard, G. Cao, S. McCall, F. Freiberl,
+and J. E. Crow, J. Appl. Phys. **79**, 4821 (1996). * (25) C. Cao, S.
+McCall, J. Bolivar, M. Shepard, F. Freibert, P. Henning, J. E. Crow, and
+T. Yuen, Phys. Rev. B **54**, 15 144 (1996). * (26) A. C. McLaughlin and
+J. P. Attfield, Phys. Rev. B **60**, 14 605 (1999). * (27) J. L. Tallon,
+J. W. Loram, G. W. M. Williams, and C. Bernhard, Phys. Rev. B **61**,
+6471 (2000). * (28) A. C. McLaughlin, W. Zhou, J. P. Attfield, A. N.
+Fitch, and J. L. Tallon, Phys. Rev. B **60**, 7512 (1999). * (29) D. J.
+Pringle, J. L. Tallon, B. G. Walker, and H. J. Trodahl, Phys. Rev. B
+**59**, 11 679 (1999). * (30) M. R. Presland, J. L. Tallon, R. G.
+Buckley, R. S. Liu, and N. E. Flower, Physica C **176**, 95 (1991).
+
+* [31] S. Kramer and G. V. M. Williams, Physica C **377**, 282 (2002). *
+[32] A. Butera, A. Fainstein, E. Winkler, and J. L. Tallon, Phys. Rev. B
+**63**, 054442 (2001). * [33] M. Tovar, D. Rao, J. Barnett, S. B.
+Oseroff, J. D. Thompson,S.-W. Cheong, Z. Fisk, D. C. Vier, and S.
+Schultz, Phys. Rev. B **39**, 2661 (1989). * [34] M. Takigawa, A. P.
+Reyes, P. C. Hammel, J. D. Thompson, R. H. Heffner, Z. Fisk, and K. C.
+Ott, Phys. Rev. B **43**, 247 (1991). * [35] G. Cao, S. McCall, M.
+Shepard, J. E. Crow, and R. P. Guertin, Phys. Rev. B **56**, 321
+(1997). * [36] K. Yoshimura, T. Imai, T. Kiyama, K. R. Thurber, A. W.
+Hunt, and K. Kosuge, Phys. Rev. Lett. **83**, 4397 (1999).

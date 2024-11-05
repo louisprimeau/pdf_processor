@@ -1,0 +1,223 @@
+
+
+# Coexistence of ferromagnetism and superconductivity in CeO\({}_{0.3}\)F\({}_{0.7}\)BiS\({}_{2}\)
+
+J. Lee,\({}^{1,2}\) S. Demura,\({}^{3}\) M. B. Stone,\({}^{2}\) K. Iida,\({}^{1}\) G. Ehlers,\({}^{2}\) C. R. dela Cruz,\({}^{2}\) M. Matsuda,\({}^{2}\) K. Deguchi,\({}^{3}\) Y. Takano,\({}^{3}\) Y. Mizuguchi,\({}^{3,4}\) O. Miura,\({}^{4}\) D. Louca,\({}^{1}\) and S.-H. Lee\({}^{1}\)
+
+\({}^{1}\)Department of Physics, University of Virginia, Charlottesville, Virginia 22904, USA
+
+\({}^{2}\)Quantum Condensed Matter Division, Oak Ridge National Laboratory, Oak Ridge, Tennessee 37831-6393, USA
+
+\({}^{3}\)National Institute for Materials Science, 1-2-1 Sengen, Tsukuba 305-0047, Japan
+
+\({}^{4}\)Department of Electrical and Electronic Engineering, Tokyo Metropolitan University, 1-1 Minami-osawa, Hachioji 192-0397, Japan
+
+###### Abstract
+
+Bulk magnetization, transport, and neutron scattering measurements were performed to investigate the electronic and magnetic properties of a polycrystalline sample of the newly discovered ferromagnetic superconductor, CeO\({}_{0.3}\)F\({}_{0.3}\)BiS\({}_{2}\). Ferromagnetism develops below \(T_{FM}\) = 6.54(8) K and superconductivity is found to coexist with the ferromagnetic state below \(T_{SC}\)\(\sim\) 4.5 K. Inelastic neutron scattering measurements reveal a very weakly dispersive magnetic excitation at 1.8 meV that can be explained by an Ising-like spin Hamiltonian. Under application of an external magnetic field, the direction of the magnetic moment changes from the \(c\) axis to the \(ab\) plane and the 1.8 meV excitation splits into two modes. A possible mechanism for the unusual magnetism and its relation to superconductivity is discussed.
+
+pacs: DOI: 10.1103/PhysRevB.90.224410 [ ]
+
+PACS number(s): 61.05.F-, 75.25.-j, 75.30.Ds, 78.70.Nx
+
+## 1 Introduction
+
+The recently discovered BiS\({}_{2}\)-based superconductors [1, 2, 3, 4, 5] share many common characteristics with other unconventional superconductors, such as the cuprates and iron-based superconductors. Prevalent in theses system is the presence of a square lattice in their layered structure and superconductivity induced by doping charge carriers [1, 2, 6, 7]. The superconducting (SC) mechanism in the new BiS\({}_{2}\)-based superconductors is still under debate. While electron-phonon coupling constant calculations [8, 9, 10] yield a \(T_{SC}\) close to the experimental value, suggesting a conventional phonon mediated mechanism, no significant change in the phonon density of states has been observed across the superconducting transition of the LaO\({}_{0.8}\)F\({}_{0.5}\)BiS\({}_{2}\) system [11]. In contrast, other experimental [12, 13, 14, 15] and theoretical results [16, 17, 18] suggest an unconventional superconducting mechanism may exist in this system. Conventional superconductivity with \(s\)-wave Cooper pairing would be destroyed in the presence of magnetism by the orbital effect [19] and/or the paramagnetic effect [20, 21]. Therefore, studying the relation of superconductivity to magnetism would provide important information on the nature of the superconducting mechanism.
+
+CeO\({}_{1-x}\)F\({}_{x}\)BiS\({}_{2}\) exhibits ferromagnetism and superconductivity at low temperatures [5, 22, 23], thus providing a good system to investigate the superconducting mechanism of the BiS\({}_{2}\) materials. The coexistence of ferromagnetism and superconductivity deserves attention on its own because actual systems exhibiting such coexistence are quite rare. Examples include some heavy fermion superconductors [24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38], Ruthenate-layered cuprates [33, 34, 35, 36, 37, 38], Eu(Fe\({}_{1-x}\)Co\({}_{y}\))\({}_{2}\)(As\({}_{1-x}\)P\({}_{x}\))\({}_{2}\)[39, 40, 41, 42, 43, 44], and CeFe(As\({}_{1-y}\)P\({}_{y}\))(O\({}_{1-x}\)F\({}_{x}\)) [45, 46, 47, 48].
+
+Layered superconductors are typically composed of alternating superconducting and blocking layers [1, 2, 49, 50]. The superconducting layers serve as a conducting path of charge carriers [49] which become superconducting below the transition temperature, and the blocking layers are insulating spacers sandwiched between superconducting layers. The interplay between the superconducting and blocking layers and its impact on superconductivity has been of great interest in cuprates and pnictide superconductors. Recently the R\({}_{c}\)T\({}_{m}\)P\({}_{n}\)O system (R\({}_{c}\): rare earth; T\({}_{m}\): transition metal; P\({}_{n}\): pnictogen) [51] has shown diverse electronic and magnetic properties depending on the T\({}_{m}\)P\({}_{n}\) blocking layers. Experimental systems in this category includes a ferromagnetic Kondo system CeRuPO [52], a correlation-enhanced local moment antiferromagnet CeNiAsO [53], and superconducting LaFePO [54]. Recent work examining LnOBiS\({}_{2}\) systems (Ln = La, Nd, Ce, Pr, Yb) [2, 3, 4, 5, 55] show that superconductivity occurs in the BiS\({}_{2}\) layer. Density functional calculations [1, 16] also find Bi-6\(p\) and S-3\(p\) bands close to the Fermi level. In CeO\({}_{1-x}\)F\({}_{x}\)BiS\({}_{2}\), the blocking layers are formed by magnetic Ce ions separating the superconducting BiS\({}_{2}\) layers. It is important to examine how the two layers interact with each other.
+
+In this paper, the crystal and magnetic structures and magnetic fluctuations in the superconducting CeO\({}_{1-x}\)F\({}_{x}\)BiS\({}_{2}\) are examined as a function of temperature and magnetic field. Even though the crystal symmetry is \(P4/mmm\), broadening of the nuclear Bragg peaks is present, indicating poor crystallinity. Below \(T_{FM}\)\(\approx\) 6.5 K, the Ce\({}^{3+}\) magnetic moments align ferromagnetically along the \(c\) axis, and a spin-wave mode around \(\hbar\omega\)\(\approx\) 1.8 meV appears. The spin-wave can be described by a three-dimensional (3D) Ising spin Hamiltonian with nearest-neighbor and next-nearest-neighbor interactions. Application of a magnetic field leads to a spin flop to the \(ab\) plane while the \(\hbar\omega\)\(\approx\) 1.8 meV mode splits into two excitations. These atypical changes with applied magnetic field could be explained by considering the Ising nature of the Ce magnetic moment together with imperfect crystallinity. We suggest that CeO\({}_{1-x}\) F\({}_{x}\)BiS\({}_{2}\) is a ferromagnetic superconductor where rare-earth layers show Ising ferromagnetism with negligible interaction with superconducting layers enabling the coexistence of two typically antagonistic phenomena.
+
+## 2 Experiment
+
+A 1.0 g polycrystalline sample of CeO\({}_{0.3}\)F\({}_{0.7}\)BiS\({}_{2}\) was prepared with a solid-state reaction and then annealed under high-pressure using a cubic-anvil-type high-pressure machine in air. Bi\({}_{2}\)S\({}_{3}\) powders were obtained by sintering the mixtures of Bi grains and S grains in an evacuated quartz tube at 500 C for 10 hours. Mixtures of Bi grains, Bi\({}_{2}\)S\({}_{3}\) grains, Bi\({}_{2}\)O\({}_{3}\) powders, BiF\({}_{3}\) powders and Ce\({}_{2}\)S\({}_{3}\) powders with nominal compositions of CeO\({}_{0.3}\)F\({}_{0.7}\)BiS\({}_{2}\) were ground, pelletized, and sealed into an evacuated quartz tube. The tube was heated at 800 \({}^{\circ}\)C for 10 hours. The obtained pellets were ground and annealed at 600 \({}^{\circ}\)C for 1 hour under a hydrostatic pressure of 3 GPa. The neutron scattering measurements were performed at the High Flux Isotope Reactor using the HB2A powder diffractometer [56], and at the Spallation Neutron Source using the Cold Neutron Chopper Spectrometer (CNCS) [57]. The samples were loaded into vanadium cans for the diffraction measurements at HB2A and into an aluminum can for the inelastic measurement at CNCS under a He atmosphere and mounted on a cryostat. The neutron diffraction data from HB2A were collected at a constant wavelength of 1.5408 A at 2 K and 20 K. The inelastic neutron scattering (INS) measurements at CNCS were performed with an incident energy \(E_{i}=4\) meV. For the inelastic measurements, the background was determined and subtracted from the data using an empty can measurement.
+
+## III Susceptibility and Resistivity
+
+Shown in Fig. 1 are the low-temperature bulk magnetization and transport property measurements as a function of an external magnetic field. Figure 1(a) shows DC magnetic susceptibility with zero field cooling (ZFC) and field cooling (FC) at various fields ranging from 10 to 1000 Oe. Upon cooling, the magnetic susceptibility, \(\chi\), gradually increases at \(T\approx 8\) K, as shown in the differential susceptibility plot in the inset. This indicates the development of ferromagnetism consistent with the previous report [5]. A linear extrapolation of the high magnetic field data to 0 T is shown in Fig. 1(b). This provides estimates of the spontaneous magnetic moment, a magnetic moment in zero applied external field, of 0.52 \(\mu_{B}\)/Ce and 0.11 \(\mu_{B}\)/Ce at 2 and 5 K, respectively. The magnetic moment is quite smaller than what is expected from 4\(f^{1}\) electron of Ce\({}^{3+}\)[58].
+
+Further cooling leads to a rapid drop in \(\chi\) at \(T_{sc}\approx 4.5\) K due to the diamagnetism from the Meissner effect where the system exhibits superconductivity [Fig. 1(a)]. When the external magnetic field is increased, superconductivity is suppressed, as evidenced by the weakening of the diamagnetic effect. Figure 1(c) represents resistivity measured at various field ranging from 0 to 6 T. The suppression of superconductivity with increasing field is also observed from nonzero resistivity above 1.6 T. Figure 1(d) shows the superconducting volume fraction (SVF) as a function of field, estimated by the following equation: SVF [\(\%\)] = 4\(\pi\times\{\chi(T_{SC}^{\rm onset})-\chi(2\) K\}\times 100\) where \(T_{SC}^{\rm onset}\) is the temperature below which the magnetic susceptibility starts to drop. At zero field, the SVF is over 90%, which is consistent with a recent specific heat measurement [55]. Increasing field rapidly decreases the SVF, and the superconductivity almost vanishes around 400 Oe, suggesting the zero resistivity between 400 Oe and 1.6 T shown in Fig. 1(c) is from filamentary superconductivity.
+
+## IV Static Spin Correlations
+
+### Diffraction results
+
+The neutron powder diffraction pattern shown in Fig. 2 is from data collected on HB2A at \(T=20\) K. Significant Bragg peak broadening is observed, indicating that the system is not very crystalline. A similar observation was previously made in a related system, La(O,F)BiS\({}_{2}\)[11], however the peak broadening is larger in CeO\({}_{0.3}\)F\({}_{0.7}\)BiS\({}_{2}\). At the same time, several impurity phases are present in the sample, with some unknown. These unknown impurities are unlikely to compromise our result as their peaks are temperature independent, thus not belonging to the magnetic phase. Also considering that their summed integrated intensity corresponds to the 1.4(6) percent of total integrated intensity, it is likely that the volume fractions of those foreign phases are less than a few percent. The structural parameters obtained from the refinement are summarized in Table 1. The intrinsic peak broadening does not allow for a full refinement including thermal parameters. The main features were indexed using the \(P4/nmm\) space group, and the peaks were fit using an anisotropic broadening function [60]. A set of possible nonzero anisotropic strain parameters are \(S_{400}=S_{404}\), \(S_{202}=S_{602}\), \(S_{604}\), and \(S_{220}\), whose refined parameters are summarized in Table 2. The red solid line shown in Fig. 2 represents the best fit. The inset in the figure shows the crystal structure obtained. Superconductivity occurs in the BiS\({}_{2}\) layers [1,16] where the Bi ions form a square lattice and separated by the Ce(O/F) blocking layer.
+
+Figure 1: (Color online) Field dependence measurements of magnetic susceptibility and resistivity of CeO\({}_{0.3}\)F\({}_{0.9}\)BiS\({}_{2}\), (a) Magnetic susceptibility with ZFC and FC at various fields. The inset shows an enlarged plot of ZFC differential susceptibility data showing the onset of ferromagnetism. (b) Isothermal \(M\)-\(H\) curve at different temperatures. Dashed lines are linear fits for magnetic fields greater than 3 T. (c) Resistivity measured at various fields. (d) Estimated SVF as a function of applied magnetic field.
+
+  As the sample is cooled to \(\approx\) 1.5 K, an enhancement of the neutron scattering intensity superimposed on the nuclear Bragg intensity is observed (Fig. 3). Given that the intensity appears at the nuclear peaks, it is most likely ferromagnetic in nature with a magnetic propagation vector of \(k=(000)\). The increase in intensity is especially significant at the (102) peak, and its integrated intensity is shown in the inset as a function of temperature. Upon cooling, CeO\({}_{0.3}\)F\({}_{0.7}\)BiS\({}_{2}\) undergoes a second-order phase transition around \(T_{FM}\approx 7\) K. We fit the integrated intensity with a power law above 4 K: \(I\propto(T_{FM}-T)^{2\beta}\). \(T_{FM}=6.54(8)\) and \(\beta=0.30(7)\) are obtained from this comparison. The value of the critical exponent, \(\beta\), is closest to the theoretical value of a three-dimensional Ising model [61], which is 0.326, but given the large error bar, a three-dimensional \(XY\) model (\(\beta=0.345\)) is also possible.
+
+Given that the nuclear Bragg peaks are very broad and the magnetic signal is weak, a magnetic structure refinement is not straight forward. This is especially difficult in a ferromagnet since the magnetic intensity can be obscured by thermal and/or strain/stress broadening. Group theoretical analysis is used to determine the possible symmetry consistent type of magnetic order in this system. In the \(P4/nmm\) crystal space group, there are in total four possible irreducible representations (IRs) compatible with \(k=(000)\): \(\Gamma_{2}\), \(\Gamma_{3}\), \(\Gamma_{9}\), and \(\Gamma_{10}\). They represent antiferromagnetic ordering with spins along the \(c\) axis, ferromagnetic ordering with spins along the \(c\) axis, ferromagnetic ordering with spins in the \(ab\) plane, and antiferromagnetic ordering with spins in the \(ab\) plane, respectively.
+
+The model magnetic neutron patterns for each IR together with their corresponding spin configurations are shown in Fig. 4. In the case where spins are lying along the \(c\) axis such as in \(\Gamma_{2}\) and \(\Gamma_{3}\), there cannot be any \((00L)\) magnetic Bragg peaks because only spin moments that are orthogonal to the wave vector can contribute to the scattering intensity. The strongest peaks are the (100) and (101) in the antiferromagnetic spin configuration of \(\Gamma_{2}\), while the (102) peak is the strongest peak
+
+\begin{table}
+\begin{tabular}{l c c c} \(S_{400}\) & \(S_{504}\) & \(S_{220}\) & \(S_{202}\) \\ \hline \(8.465\times 10^{1}\) & 9.913 & 1.561 \(\times\) 10\({}^{2}\) & 1.144 \(\times\) 10\({}^{1}\) \\ (0.750 \(\times\) 10\({}^{1}\)) & (0.978) & (0.414 \(\times\) 10\({}^{2}\)) & (0.649 \(\times\) 10\({}^{1}\)) \\ \end{tabular}
+\end{table}
+Table 2: The anisotropic phenomenological strain parameter used to fit the diffraction pattern of CeO\({}_{0.3}\)F\({}_{0.7}\)BiS\({}_{2}\). The numbers in the parentheses represent estimated errors.
+
+Figure 3: (Color online) The neutron powder diffraction data of CeO\({}_{0.3}\)F\({}_{0.7}\)BiS\({}_{2}\) below and above the magnetic phase transition temperature, \(T_{M}\). Red circles represent 2 K data and blue squares represents 20 K data. The inset shows the summed intensity of the \(Q=(102)\) Bragg peak as a function of temperature. The red line represent the power-law fit down to 4 K.
+
+Figure 2: (Color online) Neutron powder diffraction data from CeO\({}_{0.3}\)F\({}_{0.7}\)BiS\({}_{2}\) at \(T=20\) K. The black crosses are the measured scattering intensity, and the red solid line represents the Rietveld refinement fit to the data. The vertical bars indicate Bragg reflection positions of the main phase and impurity phases: CeO\({}_{0.3}\)F\({}_{0.9}\)BiS\({}_{2}\), CeF, Bi\({}_{2}\)S\({}_{3}\), and Bi in descending order. Their weight fractions are 99.3(31)\(\%\), 0.44(2)\(\%\), 0.21(1)\(\%\), and 0.06(1)\(\%\), respectively. The blue solid line shows the difference between measured and fitted intensities.
+
+  in the ferromagnetic spin configuration of \(\Gamma_{3}\). On the other hand, if the spins are in the \(ab\) plane as in \(\Gamma_{9}\) and \(\Gamma_{10}\), (\(00L\)) peaks are allowed. In the ferromagnetic configuration of \(\Gamma_{9}\), the (001) magnetic Bragg peak is clearly the strongest peak. In the antiferromagnetic configuration of \(\Gamma_{10}\), the (001) is still the strongest peak while the (002) peak is comparable in intensity.
+
+Since the increase of the measured magnetic scattering is prominent at (102), it can be deduced that the magnetic structure is of the \(\Gamma_{3}\) type, as it shows ferromagnetic ordering of the Ce\({}^{3+}\) magnetic ions along the \(c\) axis. It is unlikely for other IRs to be mixed with \(\Gamma_{3}\), as a small component along the \(c\) axis, whether AFM or FM, would have produced significant scattering at (001), which is not observed in the data.
+
+### Elastic measurements
+
+Measurements at CNCS allowed us to reach a lower \(Q\) value which showed the presence of the (001) nuclear peak at 0 T as shown in Fig. 5(a). No difference was observed at the two temperatures measured for zero applied field for \(T=1.5\) and 10 K, which suggests that the intensity under this peak is nuclear.
+
+As shown in Fig. 1(a), an external magnetic field suppresses superconductivity. Figure 5(a) shows the \(Q\) dependence of the elastic neutron scattering intensity integrated over \(\hbar\omega\) from \(-0.5\) to \(0.5\) meV at \(T=1.5\) K with varying field. It can be seen that the ferromagnetic intensity at the (102) Bragg peak does not show significant change with field. On the other hand, a notable effect under field is observed with the appearance of an elastic magnetic signal at the (001) reflection. In addition, a broad intensity peak is observed at low \(Q\), below 0.5 A\({}^{-1}\), that shows little temperature dependence and becomes less pronounced with field as in Fig. 5(c). This is likely related to the reduced crystallinity of the sample that may give rise to domains with some domains having short-range correlations. The integrated intensity of the (001) Bragg peak as a function of magnetic field is shown in Fig. 5(b) at \(T=1.5\) K \(<T_{FM}\) and at 5.5 K just below \(T_{FM}\). A similar behavior under field is observed at both temperatures, where the intensity increases gradually up to 4 T. The field-induced (001) magnetic peak indicates that the spin configuration changes from the ferromagnetic alignment along the \(c\) axis, \(\Gamma_{3}\), at zero field to ferromagnetic alignment in the \(ab\) plane, \(\Gamma_{9}\), under applied magnetic field.
+
+We can estimate the ratio of in-plane magnetic moment and \(c\) axis magnetic moment by comparing the intensity of \(Q=\) (001) and \(Q=\) (102) as in Table 3. A gradual increase of in-plane magnetic moment with field is observed. It should be noted that when the moment direction rotates from the \(c\) axis to the \(ab\) plane and the size of moment is fixed, the (102) intensity should decrease. On the other hand, if an \(ab\)-plane moment is induced while the \(c\)-axis moment remains fixed, the (102) peak will increase. Our measurements as shown in Fig. 5 (c) indicate slight increase but only within error bars. The details regarding how much the intensity will change are determined by the amount of induced ab-plane moment and decrease of c-axis moment. It is, however, hard to extract the absolute size of magnetic moment from our neutron diffraction data due to large broadening.
+
+Figure 4: (Color online) Group theoretical analysis on the possible magnetic structures and their simulated neutron scattering intensities. The most prominent Bragg peaks are indicated in each panel. Group analysis was done using the program sarah[62] and the number of IRs follows Kovalev’s notation. Insets illustrate the corresponding magnetic order of the Ce moments for each IR.
+
+Figure 5: (Color online) (a) Elastic neutron scattering intensities at different fields at \(T=1.5\) K from the CNCS measurements. The data were integrated between \(-0.5\) and \(0.5\) meV energy transfer. (b) The field dependence of the summed intensity of the \(Q=\) (001) Bragg peak at \(T=1.5\) K and \(T=5.5\) K and the \(Q=\) (102) peak at \(T=1.5\) K. The \(Q=\) (001) intensity at \(T=10\) K at zero field is shown to demonstrate that \(Q=\) (001) intensity is purely nuclear at zero field. This intensity is displaced slightly along the negative \(x\)-axis direction for visualization. (c) The field dependence of the quasielastic scattering intensity at low \(Q\) around [\(0.3,0.46\)] Å\({}^{-1}\) summed over \(E=\) [\(0.1,0.4\)] meV measured at \(T=1.5\) K.
+
+  
+
+## V. Inelastic measurements
+
+### A. Spin fluctuation
+
+In order to investigate how the magnetic correlations evolve through the magnetic phase transition at \(T_{FM}\sim 6.5\) K, inelastic time-of-flight neutron scattering measurements were performed at several different temperatures spanning \(T_{FM}\). To see the magnetic signals below \(T_{FM}\) more clearly, the \(T=10\) K \(>T_{FM}\) data were subtracted as a background in our analysis. At 1.4 K, we find the emergence of a strong and flat excitation centered at \(\hbar\omega=1.8\) meV, as shown in Figs. 6(a) and 6(c). Upon warming, the 1.8 meV excitation stays flat up to about 4 K and starts decreasing in intensity to vanish above 8 K [see Fig. 6(d)]. The \(T\) dependence is similar to that of the FM Bragg peak intensity, indicating the 1.8 meV mode is most likely a ferromagnetic spin wave.
+
+The simplest Hamiltonian that reproduces all important characteristics of the spin excitation is the anisotropic exchange spin Hamiltonian:
+
+\[H=\sum_{i,j}J_{i,j}\left\{\alpha S_{i}^{x}S_{j}^{x}+\alpha S_{i}^{y}S_{j}^{y}+ S_{i}^{z}S_{j}^{z}\right\}+g\mu_{B}\sum_{i}\vec{B}\cdot\vec{S}_{i}\] (1)
+
+where \(J_{i,j}\) and \(B\) are the exchange integral and the external magnetic field, respectively. \(\vec{S}_{i}\) is the spin operator at the position \(r_{i}\), and \(S_{i}^{y}\) represents the \(v=x,y,z\) component of the spin. \(g\) is the Lande \(g\) factor, and \(\mu_{B}\) is the Bohr magneton. The first term describes anisotropic interactions between the magnetic moments where the degree of anisotropy is controlled by \(\alpha\) , and the second term gives rise to the Zeeman effect from the external magnetic field. \(\alpha<1\), \(\alpha>1\), and \(\alpha=1\) cases correspond to Ising-like, \(XY\)-like, and Heisenberg spins, respectively. For the exchange interactions, nearest neighbor (NN) and next-nearest neighbor (NNN) have been considered. The bond length for the interlayer \(J_{1}\) and that of the intra-layer \(J_{2}\) coupling are 4.010(30) A and 4.038(1) A, respectively.
+
+This Hamiltonian can be solved analytically, and the eigenenergies are the following:
+
+\[\begin{split}\epsilon&=-4J_{1}S-4J_{2}S+2\alpha J_{ 2}S(cosk_{x}+cosk_{y})\\ &\quad\pm 2|\alpha J_{1}S|\sqrt{1+cosk_{x}+cosk_{y}+cosk_{x}cosk_{y}}+g \mu_{B}B_{z}.\end{split}\] (2)
+
+Here, \(k_{x}\), \(k_{y}\), and \(k_{z}\) correspond to the Miller indices of a reciprocal wave vector. The theoretical neutron scattering intensities were calculated and averaged over all solid angles to simulate the data obtained from the polycrystalline sample. The best result was obtained with parameters \(J_{1}=J_{2}=-0.24\) meV with \(\alpha=-0.1\), as shown in Fig. 6(b). These values suggest that the main interaction between magnetic moments is ferromagnetic and very Ising-like. We note that the Ising nature is consistent with the result we obtained from power-law fitting of the magnetic order parameter. The negative value of anisotropy parameter, i.e., antiferromagnetic \(x-y\) interactions, was needed to produce the up-turn of the excitation mode at low \(Q\).
+
+### B. Field dependence
+
+The magnetic excitations change as a function of applied field as shown in Figs. 7(a)-7(c). The \(H=3\) T data [Fig. 7(b)] show that the magnetic field smears out the 1.8 meV mode. The energy cut of the data from 1.3 to 2.8meV shows that, under field, the 1.8 meV mode splits into two peaks, one of which remains nearly at the same starting energy, while the other peak moves to higher energy as the external field increases [Fig. 7(c)]. This behavior is clearly seen in Fig. 7(d) where we plot the Gaussian peak positions [see Fig. 7(c)] as a function of \(H\) at \(T=1.5\) K.
+
+Figure 6: (Color online) (a) The contour map of measured inelastic neutron scattering intensity in reciprocal wave vector (\(Q\)) and energy transfer (\(E\)) space. (b) Simulated spin excitation spectrum in \(Q\)-\(E\) space. (c) Inelastic neutron scattering intensities along energy transfer at different temperatures. Intensities shown are summed over \(0.5\leqslant Q\leqslant 1\) Å\({}^{-1}\). (d) Temperature dependence of integrated intensities around magnetic excitation and magnetic Bragg peak \(Q=(102)\). The \(T\) dependence of the magnetic excitation was obtained by integrating the intensity over \(Q\) from 0.5 to 2.0 Å\({}^{-1}\) and over energy transfer from 1.5 to 2.5 meV. All figures shown here are background subtracted by the data obtained at \(T=10\) K.
+
+\begin{table}
+\begin{tabular}{c c c} \(H\) (T) & \(I_{(001)}/I_{(102)}\) & \(m_{ab}/m_{c}\) \\ \hline
+0 & 0 & 0 \\
+1 & 0.36(39) & 0.25 \\
+2 & 0.99(59) & 0.44 \\
+3 & 1.1(5) & 0.47 \\
+4 & 1.5(6) & 0.57 \\ \end{tabular}
+\end{table}
+Table 3: The magnetic Bragg peak intensity ratio of \(Q=(001)\) and \(Q=(102)\) at different applied magnetic fields. For each field, the expected ratio of \(ab\)-component magnetic moment and \(c\)-component moment are calculated. For nuclear backgrounds, Bragg peak intensities at \(T=1.5\) K and \(T=10\) K were used for \(Q=(001)\) and \(Q=(102)\), respectively, both at zero field. The numbers in the parentheses represent estimated errors.
+
+ 
+
+## VI Discussion
+
+In the absence of an external magnetic field, the spins in CeO\({}_{0.3}\)F\({}_{0.7}\)BiS\({}_{2}\) are aligned along the \(c\) direction with a strong Ising-like exchange anisotropy. The application of field introduces a magnetic component in the _ab_ plane suggesting that there exists a strong _ab_-plane magnetic susceptibility compared to a weak _c_-axis susceptibility. A similar anisotropic magnetic susceptibility was previously observed in a Ce-based intermetallic compound, CeAgSb\({}_{2}\)[63, 64]. The latter system has a tetragonal crystal structure as well and shows ferromagnetic ordering along the \(c\) axis below _T\({}_{c}\)_ = 9 K. This system shows a linear increase of the in-plane magnetization when \(H\parallel\) (100), whereas the magnetization along the \(c\) axis remains the same when \(H\parallel\) (001). After intense debate, it has been determined that the magnetic state of this system can be described by spins in the \(\left|\pm 1/2\right\rangle\) crystal electric field (CEF) split ground state with anisotropic ferromagnetic exchange interactions [65, 66, 67, 68]. The larger in-plane component of \(J_{x,y}\) than \(J_{z}\) of the ground state is responsible for the anisotropic susceptibility. The magnetic moment of the ground state arises from \(g_{J}\mu_{B}J_{z}=0.41\mu_{B}\) where \(g_{J}\) is the Lande \(g\) factor for Ce\({}^{3+}\), and this value is close to our magnetic moment estimated from Fig. 1(b). Considering the same crystallographic space group, ferromagnetic structure, small magnetic moment, and Ising nature of spin interaction, we believe the same physics can apply to our system as well. In this picture, the increase of in-plane magnetic moment comes from the grains where the external field is applied in the _ab_ direction. Future experiment with a single-crystal sample would be necessary to confirm this scenario.
+
+The split of the ferromagnetic spin wave under an external magnetic field is quite unusual for a monoatomic ferromagnet that has only one spin wave mode. Under an external magnetic field, a single spin wave dispersion is expected to shift by the Zeeman energy, \(g\mu_{B}HS\), if the moments are aligned parallel to the field. Thus, the origin of the _H_-induced splitting of the 1.8 meV mode into two is likely due to the presence of several magnetic domains.
+
+A possible explanation for the origin of the split can be a spin-glass-like disorder of the transverse spin components arising from local atomic distortions with spontaneous magnetization along the \(c\) axis. Such a magnetic ground state is called asperromagnetism [69] and is usually found in amorphous crystal structures such as Fe\({}_{100\sim\)B\({}_{x}\)[70] or CeNi\({}_{0.4}\)CuO\({}_{0.6}\)[71]. Strong random local anisotropy with a wide distribution of the exchange interactions can be a sufficient condition for the onset of asperromagnetism. It should be noted that the large broadening of the nuclear Bragg peaks shown in Fig. 2 indicates a strong lattice disorder. The broad background near \(Q=(001)\) in which the intensity is reduced under the magnetic field is also consistent with the spread of magnetic moments around the \(c\) axis. The fluctuation energy of the perpendicular spins will not change with the external magnetic field, and these moments are likely the ones contributing to the lower-field-insensitive mode.
+
+Lastly, the coexistence of ferromagnetism and superconductivity in this system deserves special attention. From our measurements, we did not observe any change in either the magnetic structure or excitation upon entering the superconducting phase. The spin Hamiltonian most applicable to our system suggests that the inter-layer coupling is negligible. This may indicate that the coexistence of ferromagnetism and superconductivity is made possible by the electronic separation of the superconducting layer and the magnetic layer, for instance, as in the case of EuFe\({}_{2}\)As\({}_{2}\)[43, 44, 72, 73, 74]. This is further supported from density functional calculations on the superconducting CeO\({}_{0.3}\)F\({}_{0.5}\)BiS\({}_{2}\), which suggest that the rare-earth band is isolated away from the Fermi surface [75]. In the CeFeAs\({}_{1\sim\)P\({}_{x}\)O system, for comparison, heavy fermion behavior at \(x\) > 0.9 is explained by interlayer hybridization between Fe-3\(d\) and Ce-4\(f\) electrons, and reduction of this coupling leads to the onset of ferromagnetism [54]. A recent Ce \(L_{3}\)-edge x-ray absorption spectroscopy experiment on CeO\({}_{1-x}\)F\({}_{x}\)BiS\({}_{2}\) also suggested reduced hybridization between the Ce-4\(f\) orbital and Bi-6\(p\) conduction band in the superconducting F-doping region [76] due to structural displacement of S ions. The authors claimed that the reduced hybridization can be responsible for onset of both ferromagnetism in the Ce(O,F) layer and superconductivity in BiS\({}_{2}\) layer. It should be noted, however, that it is also possible that the pairing symmetry is unconventional, as in a spin-triplet pairing [18], enabling a mutually supportive coexistence between them. The pairing state of superconductivity in this system remains unclear and calls for further studies.
+
+## VII Conclusion
+
+We have studied the nature of magnetism in the rare case of a ferromagnetic superconductor in CeO\({}_{0.3}\)F\({}_{0.7}\)BiS\({}_{2}\). The neutron powder diffraction shows broadening of the nuclear Bragg peaks suggesting an imperfect crystalline structure as in other compounds in the new BiS\({}_{2}\)-based superconducting
+
+Figure 7: (Color online) The change of inelastic neutron scattering with external magnetic field is shown. (a) Spin excitation spectrum at \(H=0\) T. (b) Spin excitation spectrum at \(H=3\) T. (c) Inelastic neutron scattering intensities along energy transfer at different fields of 0 T and 3 T. Scattering intensities are integrated over \(0.5\leqslant Q\leqslant 1\) Å\({}^{-1}\). (d) Gaussian fitted peak positions at different magnetic fields.
+
+ family [11, 77]. The magnetic structure investigation showed that the magnetic moments are aligned ferromagnetically along the \(c\) axis below \(T_{M}\approx 7\) K. Upon application of an external magnetic field, the ferromagnetic component develops in the \(ab\) plane. From inelastic neutron scattering measurements, it is shown that the Ising-like spin Hamiltonian with NN and NNN interactions can best describe the observed spin wave near \(E\approx 1.8\) meV. An external magnetic field splits the spin-wave into two modes: one excitation increases in energy while the other remains nearly at the same energy. The anomalous phenomenon observed under field is discussed in terms of CEF and aseromagnetism, both of which are related with an Ising-like spin nature. In this new ferromagnetic superconductor, there seems to be little interaction between the ferromagnetic and superconducting layers.
+
+###### Acknowledgements.
+
+ The work at the University of Virginia has been supported by the National Science Foundation, Grant No. DMR-1404994. A portion of this research at ORNL's High Flux Isotope Reactor and Spallation Neutron Source was sponsored by the Scientific User Facilities Division, Office of Basic Energy Sciences, U.S. Department of Energy.
+
+## References
+
+* [1] Y. Mizuguchi, H. Fujihisa, Y. Gotoh, K. Suzuki, H. Usui, K. Kuroki, S. Demura, Y. Takano, H. Izawa, and O. Miura, Phys. Rev. B. **86**, 220510(R) (2012).
+* [2] Y. Mizuguchi, S. Demura, K. Deguchi, Y. Takano, H. Fujihisa, Y. Gotoh, H. Izawa, and O. Miura, J. Phys. Soc. Jap. **81**, 114725 (2012).
+* [3] S. Demura, Y. Mizuguchi, K. Deguchi, H. Okazaki, H. Hara, T. Watanabe, S. J. Denholme, M. Fujioka, T. Ozaki, H. Fujihisa, Y. Gotoh, O. Miura, T. Yamaguchi, H. Takeya, and Y. Takano, J. Phys. Soc. Jap. **82**, 033708 (2013).
+* [4] R. Jha, S. Kumar Singh, and V. P. S. Awana, J. Supercond. Nov. Magn. **26**, 499 (2013).
+* [5] J. Xing, S. Li, X. Ding, H. Yang, and H.-H. Wen, Phys. Rev. B **86**, 214518 (2012).
+* [6] J. Paglione and R. L. Greene, Nat. Phys. **6**, 645 (2010).
+* [7] M. Fujita, H. Hiraka, M. Matsuda, M. Matsuura, J. M. Traquada, S. Wakimoto, G. Xu, and K. Yamada, J. Phys. Soc. Jpn. **81**, 011007 (2012).
+* [8] X. Wan, H.-C. Ding, S. Y. Savrasov, and C.-G. Duan, Phys. Rev. B **87**, 115124 (2013).
+* [9] B. Li, Z. W. Xing, and G. Q. Huang, Euro. Phys. Lett. **101**, 47002 (2013).
+* [10] T. Yildirim, Phys. Rev. B. **87**, 020506(R) (2013).
+* [11] J. Lee, M. B. Stone, A. Huq, T. Yildirim, G. Ehlers, Y. Mizuguchi, O. Miura, Y. Takano, K. Deguchi, S. Demura, and S.-H. Lee, Phys. Rev. B **87**, 205134 (2013).
+* [12] S. Li, H. Yang, D. Fang, Z. Wang, J. Tao, X. Ding, and H. H. Wen, Sci. China-Phys. Mech. Astron. **56**, 2019 (2013).
+* [13] J. Liu, D. Fang, Z. Wang, J. Xing, Z. Du, X. Zhu, H. Yang, and H. H. Wen, Europhys. Lett. **106**, 67002 (2014).
+* [14] R. Jha, H. Kishan, and V. P. S. Awana, J. Appl. Phys. **115**, 013902 (2014).
+* [15] L. K. Zeng, X. B. Wang, J. Ma, P. Richard, S. M. Nie, H. M. Weng, N. L. Wang, Z. Wang, T. Qian, and H. Ding, Phys. Rev. B **90**, 054512 (2014).
+* [16] H. Usui, K. Suzuki, and K. Kuroki, Phys. Rev. B **86**, 220501(R) (2012).
+* [17] G. B. Martins, A. Moreo, and E. Dagotto, Phys. Rev. B **87**, 081102(R) (2013).
+* [18] Y. Yang, W.-S. Wang, Y.-Y. Xiang, Z.-Z. Li, and Q.-H. Wang, Phys. Rev. B **88**, 094519 (2013).
+* [19] V. L. Ginzburg, Zh. Eksp. Teor. Fiz. **31**, 202 (1956) [Sov. Phys. JETP **4**, 153 (1957)].
+* [20] A. M. Clogston, Phys. Rev. Lett. **9**, 266 (1962).
+* [21] B. S. Chandrasekhar, Appl. Phys. Lett. **1**, 7 (1962).
+* [22] S. Demura, K. Deguchi, Y. Mizuguchi, K. Sato, R. Honjyo, A. Yamashita, T. Yamaki, H. Hara, T. Watanabe, S. J. Denholme, M. Fujioka, H. Okazaki, T. Ozaki, O. Miura, T. Yamaguchi, H. Takeya, and Y. Takano, arXiv:1311.4267.
+* [23] R. Jha, H. Kishan, and V. P. S. Awana, Solid State Commun. **194**, 6 (2014)
+* [24] F. Hardy, A. Huxley, J. Flouquet, B. Salce, G. Knebel, D. Braithwaite, D. Aoki, M. Uhlarz, and C. Pfleiderer, Physica B **359**, 1111 (2005).
+* [25] N. T. Huy, A. Gasparini, D. E. de Nijs, Y. Huang, J. C. P. Klaasse, T. Gortenmulder, A. de Visser, A. Hamann, T. Gorlach, and H. v. Lohneysen, Phys. Rev. Lett. **99**, 067006 (2007).
+* [26] N. T. Huy, D. E. de Nijs, Y. K. Huang, and A. de Visser, Phys. Rev. Lett. **100**, 077002 (2008).
+* [27] T. C. Kobayashi, S. Fukushima, H. Hidaka, H. Kotegawa, T. Akazawa, E. Yamamoto, Y. Haga, R. Settai, and Y. Onuki, Physica B **378-380**, 355 (2006).
+* [28] T. C. Kobayashi, A. Hori, S. Fukushima, H. Hidaka, H. Kotegawa, T. Akazawa, K. Takeda, Y. Ohishi, and E. Yamamoto, J. Phys. Soc. Jpn. **76**, 051007 (2007).
+* [29] F. Levy, I. Sheikin, B. Grenier, and A. D. Huxley, Science **309**, 1343 (2005).
+* [30] S. S. Saxena, P. Agarwal, K. Ahilan, F. M. Grosche, R. K. W. Haselwimmer, M. J. Steiner, E. Pugh, I. R. Walker, S. R. Julian, P. Monthoux, G. G. Lonzarich, A. Huxley, I. Sheikin, D. Braithwaite, and J. Flouquet, Nature (London) **406**, 587 (2000).
+* [31] D. Aoki, T. D. Matsuda, V. Taufour, E. Hassinger, G. Knebel, and J. Flouquet, J. Phys. Soc. Jpn. **78**, 113709 (2009).
+* [32] D. Aoki, A. Huxley, E. Ressouche, D. Braithwaite, J. Flouquet, J.-P. Brison, E. Lhotel, and C. Paulsen, Nature (London) **413**, 613 (2001).
+* [33] I. Felner, U. Asaf, Y. Levi, and O. Millo, Phys. Rev. B **55**, R3374(R) (1997).
+* [34] A. C. Mclaughlin, I. Felner, and V. P. S. Awana, Phys. Rev. B **78**, 094501 (2008).
+* [35] G. V. M. Williams and S. Kramer, Phys. Rev. B **62**, 4132 (2000).
+* [36] O. Chmaissem, J. D. Jorgensen, H. Shaked, P. Dollar, and J. L. Tallon, Phys. Rev. B **61**, 6401 (2000).
+* [37] A. B. Shick, R. Weht, and W. E. Pickett, J. Supercond. **13**, 687 (2000).
+* [38] N. M. Souza-Neto, D. Haskel, J. C. Lang, O. Chmaissem, B. Dabrowski, and I. Felner, Phys. Rev. B **80**, 140414 (2009).
+
+  * [39] W.-H. Jiao, Q. Tao, J.-K. Bao, Y.-L. Sun, C.-M. Feng, Z.-A. Xu, I. Nowik, I. Felner, and G.-H. Cao, Europhys. Lett. **95**, 67007 (2011).
+* [40] S. Jiang, H. Xing, G. Xuan, Z. Ren, C. Wang, Z.-A. Xu, and G. Cao, Phys. Rev. B **80**, 184514 (2009).
+* [41] Z. Ren, Q. Tao, S. Jiang, C. Feng, C. Wang, J. Dai, G. Cao, and Z. Xu, Phys. Rev. Lett. **102**, 137002 (2009).
+* [42] H. S. Jeevan, D. Kasinathan, H. Rosner, and P. Gegenwart, Phys. Rev. B **83**, 054511 (2011).
+* [43] G. Cao, S. Xu, Z. Ren, S. Jiang, C. Feng, and Z. Xu, J. Phys. Condens. Matter **23**, 464204 (2011).
+* [44] S. Zapf, D. Wu, L. Bogani, H. S. Jeevan, P. Gegenwart, and M. Dressel, Phys. Rev. B **84**, 140503(R) (2011).
+* [45] Y. Luo, Y. Li, S. Jiang, J. Dai, G. Cao, and Z.-A. Xu, Phys. Rev. B **81**, 134422 (2010).
+* [46] Y. Luo, H. Han, S. Jiang, X. Lin, Y. Li, J. Dai, G. Cao, and Z.-A. Xu, Phys. Rev. B **83**, 054501 (2011).
+* [47] R. Sarkar, M. Baenitz, A. Jesche, C. Geibel, and F. Steglich, J. Phys.: Condens. Matter **24**, 135602 (2012).
+* [48] A. Jesche, T. Forster, J. Spehling, M. Nicklas, M. de Souza, R. Gumeniuk, H. Luetkens, T. Goltz, C. Krellner, M. Lang, J. Sichelschmidt, H.-H. Klauss, and C. Geibel, Phys. Rev. B **86**, 020501(R) (2012).
+* [49] Y. Kamihara, T. Watanabe, M. Hirano, and H. Hosono, J. Am. Chem. Soc. **130**, 3297 (2008).
+* [50] N. P. Armitage, P. Fournier, and R. L. Greene, Rev. Mod. Phys. **82**, 2421 (2010)
+* [51] Y.-K. Luo, Y.-K. Li, C. Wang, X. Lin, J.-H. Dai, G.-H. Cao, and Z.-A. Xu, Chin. Phys. B **22**, 087415 (2013).
+* [52] C. Krellner, N. S. Kini, E. M. Bruning, K. Koch, H. Rosner, M. Nicklas, M. Baenitz, and C. Geibel, Phys. Rev. B **76**, 104418 (2007).
+* [53] Y. Luo, H. Han, H. Tan, X. Lin, Y. Li, S. Jiang, C. Feng, J. Dai, G. Cao, Z. Xu, and S. Li, J. Phys.: Condens. Matter **23**, 175701 (2011).
+* [54] S. Lebegue, Phys. Rev. B **75**, 035110 (2007).
+* [55] D. Yazici, K. Huang, B. D. White, A. H. Chang, A. J. Friedman, and M. B. Maple, Philos. Mag. **93**, 673 (2013).
+* [56] V. O. Garlea, B. C. Chakoumakos, S. A. Moore, G. B. Taylor, T. Chae, R. G. Maples, R. A. Riedel, G. W. Lynn, and D. L. Selby, Appl. Phys. A **99**, 531 (2010).
+* [57] G. Ehlers, A. A. Podlesnyak, J. L. Niedziela, E. B. Iverson, and P. E. Sokol, Rev. Sci. Instrum. **82**, 85108 (2011).
+* [58] S. Blundell, _Magnetism in Condensed Matter_ (Oxford University Press, Oxford, 2001).
+* [59] J. Rodriguez-Carvajal, Physica B **192**, 55 (1993).
+* [60] P. W. Stephens, J. Appl. Crystallogr. **32**, 281 (1999).
+* [61] M. F. Collins, _Magnetic Critical Scattering_ (Oxford University Press, Oxford, 1989).
+* [62] A. S. Wills, Physica B **276**, 680 (2000).
+* [63] T. Takeuchi, A. Thamizhavel, T. Okubo, M. Yamada, N. Nakamura, T. Yamamoto, Y. Inada, K. Sugiyama, A. Galatanu, E. Yamamoto, K. Kindo, T. Ebihara, and Y. Onuki, Phys. Rev. B **67**, 064403 (2003).
+* [64] S. Araki, N. Metoki, A. Galatanu, E. Yamamoto, A. Thamizhavel, and Y. Onuki, Phys. Rev. B **68**, 024408 (2003).
+* [65] M. Houshiar, D. T. Adroja, and B. D. Rainford, J. Magn. Magn. Mater. **140**, 1231 (1995).
+* [66] Y. Muro, N. Takeda, and M. Ishikawa, J. Alloys Compd. **257**, 23 (1997).
+* [67] K. D. Myers, S. L. Bud'ko, I. R. Fisher, Z. Islam, H. Kleinke, A. H. Lacerda, and P. C. Canfield, J. Magn. Magn. Mater. **205**, 27 (1999).
+* [68] G. Andre, F. Bouree, M. Kolenda, B. Lesniewska, A. Oles, and A. Szytua, Physica B **292**, 176 (2000).
+* [69] J. M. D. Coey, _Magnetism and Magnetic Materials_ (Cambridge University Press, Cambridge, 2010).
+* [70] S. J. Harker and R. J. Pollard, J. Phys.: Condens. Matter **1**, 8269 (1989).
+* [71] J. C. Gomez Sal, J. Garcia Soldevilla, J. A. Blanco, J. I. Espeso, J. Rodriguez Fernandez, F. Luis, F. Bartolome, and J. Bartolome, Phys. Rev. B **56**, 11741 (1997).
+* [72] A. Ahmed, M. Itou, S. Xu, Z. Xu, G. Cao, Y. Sakurai, J. Penner-Hahn, and A. Deb, Phys. Rev. Lett. **105**, 207003 (2010).
+* [73] I. Nowik, I. Felner, Z. Ren, G. H. Cao, and Z. A. Xu, J. Phys.: Condens. Matter **23**, 065701 (2011).
+* [74] S. Nandi, W. T. Jin, Y. Xiao, Y. Su, S. Price, D. K. Shukla, J. Strempfer, H. S. Jeevan, P. Gegenwart, and Th. Bruckel, Phys. Rev. B **89**, 014512 (2014).
+* [75] C. Morice, E. Artacho, S. E. Dutton, D. Molnar, H.-J. Kim, and S. S. Saxena, arXiv:1312.2615.
+* [76] T. Sugimoto, B. Joseph, E. Paris, A. Iadecola, T. Mizokawa, S. Demura, Y. Mizuguchi, and Y. Takano, N. L. Saini, Phys. Rev. B **89**, 201117(R) (2014).
+* [77] J. Kajitani, K. Deguchi, A. Omachi, T. Hiroi, Y. Takano, H. Takatsu, H. Kadowaki, O. Miura, and Y. Mizuguchi, Solid State Commun. **181**, 1 (2014).
+
+ 

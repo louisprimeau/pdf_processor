@@ -1,0 +1,437 @@
+# In-plane magnetic penetration depth in NbS₂
+
+P. Diener,¹ M. Leroux,¹ L. Cario,² T. Klein,^(1, 3) and P. Rodiere¹
+
+¹Institut Neel, CNRS/UJF 25 rue des Martyrs, BP 166, F-38042 Grenoble
+cedex 9, France
+
+²Institut des Materiaux Jean Rouxel (IMN), Universite de Nantes, CNRS, 2
+rue de la Houssiniere, BP 3229, F-44322 Nantes, France
+
+³Institut Universitaire de France and Universite J. Fourier-Grenoble 1,
+Grenoble, France
+
+Received 11 August 2010; revised manuscript received 17 May 2011;
+published 11 August 2011
+
+###### Abstract
+
+We report on the temperature dependence of the in-plane magnetic
+penetration depth (λ_(ab)) and first penetration field
+[H_(f) ∝ 1/λ_(ab)²(T) for H | 𝒞| in 2H-NbS₂ single crystals. An
+exponential temperature dependence is clearly observed in λ_(ab)(T) at
+low temperature, marking the presence of a fully open superconducting
+gap. This compound is the only superconducting 2H-dichalcogenide which
+does not develop a charge density wave (CDW). However, as previously
+observed in 2H-NbSe₂, this gap (Δ₁ = 1.1 k_(B)T_(c)) is significantly
+smaller than the standard BCS weak-coupling value. At higher
+temperature, a larger gap (Δ₂ = 1.8 k_(B)T_(c)) has to be introduced to
+describe the data which are compatible with a two-gap model. The
+superconducting gaps are hence very similar in NbS₂ and NbSe₂ and we
+show here that both of them open in the strongly coupled Nb tubular
+sheets independent of whether or not a CDW is present.
+
+pacs: DOI: 10.1103/PhysRevB.84.054531 + Footnote †: preprint: PHYSICAL
+REVIEW B **84**, 054531 (2011)
+
+## I Introduction
+
+In numerous strongly correlated systems, superconductivity appears in
+the vicinity of a second electronic instability. These superconductors
+then often show deviations from the weak-coupling BCS theory, which
+raises the question of the interplay between the two orders.[1] This
+question is particularly well illustrated in dichalcogenides. Indeed, in
+1T-TiSe₂,[2, 3] 2H-TaS₂,[4, 5] or 2H-NbSe₂ superconductivity coexists
+with a charge density wave (CDW). In 2H-NbSe₂ the charge density wave
+develops for instance at T_(D) = 33 K and coexists with
+superconductivity (SC) below T_(c) = 7.1 K.
+
+In parallel, specific heat, tunneling spectroscopy, and de Haas-van
+Alphen measurements [6, 7, 8, 9, 10] showed that NbSe₂ is characterized
+by the coexistence of two superconducting gaps:
+Δ₁ = (1.0 ± 0.1)k_(B)T_(c), which is much smaller than the BCS
+weak-coupling value (Δ/k_(B)T_(c) ∼ 1.7) and Δ₂ = (2.0 ± 0.3)k_(B)T_(c).
+It was then initially suggested that the CDW might be at the origin of
+Δ₁.[11, 12, 13, 14]
+
+However, scanning tunneling spectroscopy (STS) and specific heat
+measurements clearly indicated the presence of a reduced superconducting
+gap (of similar amplitude) in the NbS₂ system as well,[15, 16] showing
+that this interpretation does not hold. Indeed, this isoelectronic
+compound is particularly interesting to probe for the possible influence
+of the CDW on the superconducting states in dichalcogenides, as it is
+the only system among the four 2H layered superconducting
+transition-metal dichalcogenides [17] MX₂ (M = Nb, Ta; X = S, Se) which
+does not exhibit a CDW transition. Those measurements hence clearly
+showed that the presence of two superconducting gaps in
+2H-dichalcogenides is not a direct consequence of the presence of a CDW
+in some of them.
+
+In a first scenario, those two gaps can be considered as being the
+limiting values of one single anisotropic superconducting gap (without
+nodes) whereas in an alternative scenario they can be related to
+different values of the electron-phonon coupling constants (λ_(c − ph))
+on different sheets of the Fermi surface (FS) (so-called multiband
+superconductivity [18]).
+
+Clear evidence for multiband superconductivity was first obtained in
+MgB₂ for which λ_(c − ph) varies from ∼1.2 for the 2 dimensional (2D) σ
+band to ∼ 0.4 for the 3 dimensional π band.[19, 20] Since the FS of
+NbSe₂ is composed of four strongly coupled quasi-2D Nb-derived cylinders
+(bands 17 and 18 with λ_(c − ph) ranging from 0.8 to 1.9) and one
+Se-derived pancake sheet with a much smaller λ_(c − ph) value ∼ 0.3
+(band 16),[8] it was tempting to ascribe the small superconducting gap
+to this reduced λ_(c − ph):[21, 22] However, angle resolved photo
+electron spectroscopy (ARPES) measurements [11, 14] suggested that, in
+NbSe₂, both gaps open on the tubular sheets and the situation seems to
+be quite different from that of MgB₂ as the two gaps could both be
+associated with the same (strongly coupled) FS sheets. However, an
+experimental confirmation that the two gaps are also related to the same
+FS sheets in NbS₂ was still lacking.
+
+In order to address this issue, we have performed in-plane penetration
+depth and penetration field measurements in NbS₂ single crystals.
+Indeed, λ is a directional probe and corresponding measurements are only
+sensitive to supercurrents flowing perpendicularly to the direction of
+the applied magnetic field. Band structure calculations in NbSe₂ have
+for instance shown that the tubular sheets contribute 98
+
+STS and specific heat (C_(p)) measurements clearly showed that NbSe₂ and
+NbS₂ systems share the particularity of each having two superconducting
+gaps but also highlighted some fundamental differences. Indeed, whereas
+vortices exhibit a clear stellar shape in NbSe₂, they appear to be
+isotropic in NbS₂. Moreover, the two systems have very different
+anisotropies of their upper critical fields, increasing from ∼3.2 in
+NbSe₂[9] to ∼8.1 in NbS₂.[24] However, the vortex shape and H_(c2)
+values are determined by the coherence length (ξ), which is related to
+the superconducting gap but also to electronic properties of the normal
+state (Fermi velocity and possibly electronic mean free path in the
+so-called dirty limit). In contrast, the temperature dependence of the
+penetration depth is determined only by the superconducting gap
+structure. Those later measurements hence provide very valuable
+information to help understand those differences and will be discussed
+at the end of the paper.
+
+## II Sample and experiments
+
+H-NbS₂ samples were grown using the vapor transport growth technique
+with a large sulfur excess, as described elsewhere.[25] Single crystals
+have a flat hexagonal or triangular shape and typical dimensions of
+150²× 30 μm. The large flat faces grow perpendicular to the c axis. The
+2H crystallographic structure has been checked on each sample using a
+four-circle diffractometer. The bulk critical temperature was checked on
+several samples of each batch by ac specific heat.[16] All the measured
+crystals showed sharp superconducting transitions (ΔT_(c) ∼ 0.3 K) at
+T_(c) = (6.05 ± 0.2) K, emphasizing the excellent bulk homogeneity of
+each crystal. Previous scanning tunneling microscopy measurements on
+single crystals of the same origin confirmed the absence of a CDW down
+to 0.1 K.[15] To avoid contamination by oxygen intercalation between
+layers, which would reduce T_(c) and smear the transition,[24] samples
+were kept in vacuum. All the measurements were carried out in the first
+month following the growth of the samples.
+
+A high-stability LC oscillator operating at 14 MHz, driven by a tunnel
+diode,[26; 27; 28] has been used to measure the variation of the
+magnetic penetration depth. The tiny sample, placed in the center of the
+solenoid coil, acts as a small perturbation to the inductance (L). By
+changing the temperature of the sample, the magnetic penetration depth
+variations produce a change of the inductance, leading to a change in
+the LC resonant frequency δf(T). The amplitude of the ac excitation
+field is smaller than 1 μT (that is,  ≪ H_(c1)) to keep the sample in
+the Meissner state. This technique enables us to measure the variation
+of λ with an excellent sensitivity as our setup can detect relative
+frequency changes δf/f₀ of a few times 10⁻⁹, which corresponds to
+changes in λ on the order of 1 A in mm³ samples. The sample is glued
+with vacuum grease at the bottom of a sapphire cold finger whose
+temperature is regulated between T_(min) = 0.5 and 10 K whereas the LC
+oscillator remains at fixed temperature (3 K). The frequency shift
+δf = f(T) − f(T_(min)) is then proportional to the magnetic penetration
+depth:
+
+$$\delta\lambda(T)=R\frac{\delta f(T)}{\Delta f_{0}},$$
+(1)
+
+where Δf₀ is the change induced by the introduction of the
+superconducting sample in the coil (measured _in situ_ by extracting the
+cold finger from the coil at the lowest temperature), and R is an
+effective dimension which depends on the sample geometry. In principle,
+R can be evaluated by using the formula proposed by Prozorov _et
+al.[29]_ in the case of cylinders. However, recent measurements in
+pnictides highlighted the difficulties of evaluating this effective
+dimension, in particular for magnetic fields perpendicular to the ab
+planes (main sample surface).[30] Indeed, very different δλ(T) were
+obtained by different groups, most probably due to the roughness of the
+sample edges, which undermines this evaluation.
+
+To overcome this difficulty we have performed first penetration field
+(H_(f)) measurements using miniature GaAs-based quantum-well Hall probe
+arrays. The remanent local dc field [B_(rem)(H_(a))] in the sample has
+been measured after applying a magnetic field H_(a) and sweeping the
+field back to zero. In the Meissner state, no vortices penetrate the
+sample and B_(rem) remains equal to zero up to H_(a) = H_(f). A finite
+B_(rem) value is then obtained for H_(a) ≥ H_(f) due to vortices which
+remain pinned in the sample. As H_(f) is directly proportional to the
+first critical field H_(c1) ∝ 1/λ², the normalized in-plane superfluid
+density,
+
+$$\tilde{\rho}_{ab}(T)=\frac{\lambda_{0}^{2}}{\lambda_{ab}^{2}(T)}=\frac{1}{ \left[1+\frac{R}{\lambda_{0}\Delta f_{0}}\delta f(T)\right]^{2}},$$
+(2)
+
+is expected to vary as H_(f)(T)/H_(f)(0) (where λ₀ is the
+zero-temperature penetration depth). Even though the uncertainties on
+the H_(f) values hinders any precise determination of the gap values,
+those measurements can then be used as milestones to obtain the R/λ₀Δf₀
+coefficient (see inset of Fig. 3).
+
+## III Evidence for a small gap value in NbS₂
+
+Figure 1 shows typical δf(T) curves between 0.08 T_(c) and 0.85 T_(c)
+for three NbS₂ single crystals (see inset of Fig. 1). The magnetic field
+is applied perpendicularly to the layers, i.e., along the
+crystallographic c axis, so that supercurrents are flowing in the
+layers, probing the in-plane penetration
+
+Figure 1: (Color online) Temperature dependence of the frequency shift
+δf(T), for B (squares), D (triangles) (right scale), and C8 (circles)
+(left scale) NbS₂ single crystals. Inset: Microscope images of each
+sample (with a bigger scale for C8).
+
+depth, λ_(ab).[31] Samples B and D were grown in the same batch and have
+in-plane dimensions equal to 110 and 140 μm, respectively, and
+thicknesses t = 30 and 25 μm, respectively. Sample C8 was grown in a
+second batch and has a larger size (430² × 110μm³). The frequency shift
+is ten times higher for C8 than for other samples due to it larger
+volume but all renormalized curves are fully identical, underlying the
+excellent reproducibility of the temperature dependence discussed below.
+
+In the local London theory, at low temperature (typically T < T_(c)/3),
+the temperature dependence of the gap can be neglected and λ(T) is given
+by
+
+$$(\lambda(T)-\lambda_{0})/\lambda_{0}=\sqrt{\frac{\pi\,\Delta(0)}{2k_{B}T}}e^{- \Delta(0)/k_{B}T},$$
+(3)
+
+where k_(B) is the Boltzmann constant and Δ(0) is the value of the
+smallest superconducting gap at 0 K. Indeed, due to this exponential
+dependence only the smallest gap is expected to show up at low
+temperature. As shown in Fig. 2 a very poor agreement to the data is
+obtained if the gap parameter is fixed to the weak-coupling BCS gap of
+1.76k_(B)T_(c). A much better fit is obtained by taking Δ/k_(B) = 7.2 K
+ ≈ 1.2T_(c). Note that this gap value does not depend on the
+renormalization constant. The assumption
+$\lambda(T_{\rm min})\approx\lambda_{0}$, where $T_{\rm min}$ is the
+lowest experimental temperature, is valid here, since an extrapolation
+of Eq. (3) gives
+$[\lambda(0.5\ {\rm K})-\lambda_{0}]/\lambda_{0}<10^{-3}$. Since the
+superfluid current mainly originates from the Nb sheets for H∥c, those
+measurements hence directly show that this small gap is associated with
+those sheets in NbS₂ as well.
+
+In order to get information on the larger gap, it is necessary to
+perform a detailed analysis of the temperature dependence at higher
+temperature. The inset of Fig. 3 displays the temperature dependence of
+the superfluid density ρ̃_(ab)(T) up to T_(c) deduced from Eq. (2) for
+different R/λ₀Δf₀ values compared to H_(f)/H_(f)(0). Note that a small
+change in R/λ₀Δf₀ will modify strongly the normalized superfluid
+density, but the curvature of H_(f)(T) is essentially independent of λ₀.
+H_(f)(T) can hence be used to determine R/λ₀Δf₀ with good accuracy and,
+as shown, a good agreement between H_(f) and the superfluid density is
+obtained by taking R/λ₀Δf₀ = 0.02 Hz⁻¹. Clear deviations from the BCS
+weak-coupling theoretical curve (dashed line) are visible throughout the
+entire temperature range. In particular, the BCS values exceed the
+experimental data at low temperature due to the small value of the gap.
+
+In the multigap model, ρ̃ is phenomenologically assumed to be the sum of
+two independent superfluid densities,
+
+$$\tilde{\rho}=\omega\tilde{\rho_{1}}+(1-\omega)\tilde{\rho_{2}},$$
+(4)
+
+where ω is the weight of band 1 and $\tilde{\rho_{i}}$ are given by
+
+$$\tilde{\rho_{i}}(T)=1-\int\frac{\partial f}{\partial E}\frac{E}{\sqrt{E^{2}- \Delta_{i}^{2}(T)}}.$$
+(5)
+
+The best fit to the data using Eq. (4) and Eq. (5) (solid line in Fig.
+3) is obtained with Δ₁ = (1.05 ± 0.05)k_(B)T_(c) and
+Δ₂ = (1.8 ± 0.1)k_(B)T_(c) with ω ∼ 0.5. Those values are in very good
+agreement with those deduced from tunneling spectroscopy measurements,
+which revealed a distribution of gaps having two main values at 0.53 meV
+= 6.15 K  ≈ 1 k_(B)T_(c) and 0.98 meV = 10.8 K  ≈ 1.8 k_(B)T_(c).[15]
+Moreover, the temperature dependence of the specific heat measured on
+sample C8 can be well described by taking Δ₁ ∼ 1.05k_(B)T_(c),
+Δ₂ ∼ 2.1k_(B)T_(c)
+
+Figure 3: (Color online) Normalized superfluid density of NbS₂ deduced
+from tunnel diode oscillator measurements (TDO) for Rλ₀/Δf₀ = 0.02 Hz⁻¹
+(closed squares), compared to H_(f)(T)/H_(f)(0) (open circles) both on
+sample C8. As shown, the weak-coupling BCS normalized superfluid density
+(dashed line) is not compatible with the data. A very similar
+temperature dependence was previously obtained in NbSe₂ (solid
+triangles) and both compounds could be well described by a two-gap model
+(thick line; see text for details). Inset: Influence of the R/λ₀Δf₀
+parameter on the shape of the superfluid density, with R/λ₀Δf₀ being
+equal to, respectively, 0.01, 0.02, and 0.03 Hz⁻¹ for diamonds, squares,
+and circles.
+
+Figure 2: (Color online) Temperature dependence of the rescaled
+frequency shift δf/Δf₀ ∝ Δλ_(ab)/λ₀ in NbS₂ at T < T_(c)/3 (red
+circles). Results are fitted with the exponential low-temperature
+approximation (see text) to determine the smaller gap Δ. An excellent
+fit is obtained for Δ ≈ 1.17 k_(B)T_(c). Results cannot be described by
+an exponential behavior with the weak-coupling BCS value
+Δ = 1.76 k_(B)T_(c). Inset: Superconducting transition: T_(c) = 6.05 K
+is determined by the maximum variation of the frequency shift.
+
+and ω ∼ 0.6.[16] Even if this two-gap model well reproduces the
+temperature dependence of β_(i) it is worth noting that this temperature
+dependence is also compatible with a single anisotropic in-plane
+superconducting gap. The simplest model which respects the symmetry of
+the crystal has an in-plane six-fold shape,
+$\Delta(\phi)=\Delta_{1}+\frac{\Delta_{2}-\Delta_{1}}{2}[1+\cos(6\phi)]$,
+where the extrema of the superconducting gap define two characteristic
+energy scales. With this model, we find Δ₁ ∼ 0.9(1)k_(B)T_(c) and
+Δ₂ ∼ 1.9(3)k_(B)T_(c).
+
+## IV Comparison between NbS₂ and NbSe₂
+
+We have also reported in Fig. 3 the temperature dependence of β_(ab)
+deduced from penetration depth measurements in 2H-NbSe₂.[12] Since the
+critical temperatures are slightly different in the two compounds, the
+data have been plotted as a function of T/T_(c) with T_(c) = 6.05 and
+7.1 K for NbS₂ and NbSe₂, respectively. In both case, the presence of
+two characteristic gap values is necessary to fit the temperature
+dependence of the in-plane superfluid density. We hence show that in
+both compounds the exotic superconducting gap structure is related to
+the Nb tubular sheets and that, even if the charge density wave is
+perturbing those sheets in NbSe₂ (but not in NbS₂, which does not
+exhibit any CDW), this CDW does not affect the superconducting gap
+structure. Our results hence contradict the ARPES measurements on
+NbSe₂,[11] which suggested a strong correlation between the gap
+structure and the CDW formation. The presence of an identical exotic gap
+structure in two different compounds (even of the same family) is
+particularly rare, highlighting the robustness of the underlying
+mechanism at its origin. It is worth noting that there exists a R/λ₀Δf₀
+value (∼0.02 Hz⁻¹; see above) for which the temperature dependencies
+obtained for both compounds are very similar on the whole temperature
+range.
+
+Note that this strong similitude in the gap structure is not in
+contradiction with the fact that the vortex cores have an isotropic
+shape in NbS₂[15] and six-fold shape in NbSe₂.[32, 33] Indeed, in this
+later case, the particular shape could be due to an anisotropic Fermi
+velocity[34] caused by the presence of the charge density wave.
+
+Finally, It is interesting to note that even with similar
+superconducting gaps, it is possible to understand the large difference
+of the anisotropy of the upper critical field in the two systems. In the
+case of NbSe₂, the anisotropy of the upper critical field can be
+understood by the anisotropy of the two set of Nb bands. Indeed, the
+coherence length related to the pancake band is larger due to a large
+renormalized Fermi velocity and a small gap.[8] According to band
+structure calculations, the anisotropies of the Fermi velocities
+(v_(F)^(ab)/v_(F)^(c)) of the two tubular sheets are on the order of 2
+(Band 17[75]) and 10 (Band 18) in NbSe₂, neither of which corresponds to
+the experimental value of the anisotropy of the upper critical field
+(∼3.2)[23]. However, μ₀H_(c2)^(1c)(0) = Φ₀/2πξ_(ab)² is defined by the
+band having the smallest ξ_(ab) value. All bands have quite similar
+in-plane Fermi velocities but if one assumes that Δ₂ is associated with
+band 17 and Δ₁ is associated with band 18, one gets
+ξ_(ab, 17) ∼ (Δ₁/Δ₂)ξ_(ab, 18) ∼ ξ_(ab, 18)/1.7 and H_(c2)^(1c) will be
+defined by band 17. Moreover, for μ₀H_(c2)^(1ab)(0) = Φ₀/2πξ_(ab)ξ_(c),
+the very small value of c-axis Fermi velocity of band 18 implies that
+H_(c2)^(1ab) will be defined by this latter band. One hence gets
+H_(c2)^(1ab)/H_(c2)^(1c) = (v_(F)^(ab, 17)v_(F)^(ab, 17)/v_(F)^(ab, 18)v_(F)^(c, 18))(Δ₁/Δ₂)² ∼ 10/(1.7)² ∼ 3,
+in good agreement with the experimental value. Note that this situation
+strongly differs from the one observed in MgB₂ in which the anisotropy
+of H_(c2) is defined only by the σ band (for T ≪ T_(c)). As NbSe₂ and
+NbS₂ have similar H_(c2)^(1ab) values, one can conclude that band 18 is
+not affected by the chemical substitution and the increase of the H_(c2)
+anisotropy to ∼8.1 in NbS₂ is hence due to an increase of v_(F)^(ab, 17)
+but this change in the Fermi velocity does not affect the
+superconducting gap structure.
+
+The presence of two characteristic gap values appears to be a robust
+characteristic feature in 2H dichalcogenides, but its origin is still
+open to questions. With the present results, the influence of the CDW
+also has to be excluded, underlying the necessity of proposing new clues
+for the origin of the reduced superconducting gap observed in both
+compounds.
+
+## V Conclusion
+
+The temperature dependence of the in-plane magnetic penetration depth of
+single crystals of 2H-NbS₂ has been measured and compared to previous
+measurements on 2H-NbSe₂. The temperature dependence shows a similar
+curvature in both compounds, evidencing a similar reduced
+superconducting gap structure in the sheets of the Fermi surface where
+the e-ph coupling constant is the largest. The CDW, present only in
+NbSe₂, is not at the origin of the reduced superconducting gap. In the
+light of the discovery of a particular acoustic phonon mode observed in
+lead or niobium,[36] more accurate knowledge of the phonon dispersion in
+NbS₂ could shed insight into the origins of the reduced superconducting
+gap in the dichalcogenides.
+
+## Acknowledgments
+
+P.R. thanks R. and B. Thomas for helpful discussions. T.K. is most
+obliged to V. Mosser of ITRON, Montrouge, and M. Konczykowski from the
+Laboratoire des Solides Irradies, Palaiseau, for the development of the
+Hall sensors used in this study.
+
+## References
+
+* [1] G. Seyfarth, J. P. Brison, G. Knebel, D. Aoki, G. Lapertot, and J.
+Flouquet, Phys. Rev. Lett. **101**, 046401 (2008). * [2] E. Morosan, H.
+W. Zandbergen, and B. S. E. A. Dennis, Nature Phys. **2**, 544 (2006). *
+[3] A. F. Kusmartseva, B. Sipos, H. Berger, L. Forro, and E. Tutis,
+Phys. Rev. Lett. **103**, 236401 (2009). * [4] B. Sipos _et al._, Nature
+Mater. **7**, 960 (2008). * [5] K. E. Wagner _et al._, Phys. Rev. B
+**78**, 104520 (2008). * [6] P. Garoche, J. J. Veyssie, P. Manuel, and
+P. Molinie, Solid. State Commun. **19**, 455 (1976). * [7] H. F. Hess,
+R. B. Robinson, R. C. Dynes, J. M. Valles, and J. V. Waszczak, Phys.
+Rev. Lett. **62**, 214 (1989).
+
+* (8) R. Corcoran, P. Meeson, Y. Onuki, P. A. Probst, M. Springford, K.
+Takita, H. Harima, G. Y. Guo, and B. L. Gyorffy, J. Phys. Condens.
+Matter **6**, 4479 (1994). * (9) D. Sanchez, A. Junod, J. Muller, H.
+Berger, and F. Levy, Physica B **204**, 167 (1995). * (10) I. Guillamon,
+H. Suderow, F. Guinea, and S. Vieira, Phys. Rev. B **77**, 134505
+(2008). * (11) T. Kiss, T. Yokoya, A. Chainani, S. Shin, T. Hanaguri, M.
+Nohara, and H. Takagi, Nature Phys. **3**, 720 (2007). * (12) J. D.
+Fletcher, A. Carrington, P. Diener, P. Rodiere, J. P. Brison, R.
+Prozorov, T. Otheiser, and R. W. Giannetta, Phys. Rev. Lett. **98**,
+057003 (2007). * (13) A. H. Castro Neto, Phys. Rev. Lett. **86**, 4382
+(2001). * (14) S. V. Borisenko _et al._, Phys. Rev. Lett. **102**,
+166402 (2009). * (15) I. Guillamon, H. Suderow, S. Vieira, L. Cario, P.
+Diener, and P. Rodiere, Phys. Rev. Lett. **101**, 166407 (2008). * (16)
+J. Kacmarcik, Z. Pribulova, C. Marcenat, T. Klein, P. Rodiere, L. Cario,
+and P. Samuely, Phys. Rev. B **82**, 014518 (2010). * (17) R. Friend and
+A. D. Yoffe, Adv. Phys. **36**, 1 (1987). * (18) H. Shul, B. T.
+Matthias, and L. R. Walker, Phys. Rev. Lett. **3**, 552 (1959). * (19)
+H. Choi, D. Roundy, H. Sun, M. Cohen, L. Louie, and G. Steven, Nature
+(London) **418**, 758 (2002). * (20) I. I. Mazin and V. P. Antropov,
+Physica C **385**, 49 (2003). * (21) T. Yokoya _et al._, Science
+**294**, 2518 (2001). * (22) E. Boaknin _et al._, Phys. Rev. Lett.
+**90**, 117003 (2003). * (23) M. D. Johannes, I. I. Mazin, and C. A.
+Howells, Phys. Rev. B **73**, 205102 (2006). * (24) K. Onabe, M. Naito,
+and S. Tanaka, J. Phys. Soc. Jpn. **45**, 50 (1978). * (25) W. Fisher
+and M. Sienko, Inorg. Chem. **19**, 39 (1980). * (26) C. Van Degrift,
+Rev. Sci. Instrum. **46**, 599 (1975). * (27) P. Diener, P. Rodiere, T.
+Klein, C. Marcenat, J. Kacmarcik, Z. Pribulova, D. J. Jang, H. S. Lee,
+H. G. Lee, and S. I. Lee, Phys. Rev. B **79**, 220508 (2009). * (28) R.
+Prozorov, R. W. Giannetta, A. Carrington, P. Fournier, R. L. Greene, P.
+Guptasarma, D. G. Hinks, and A. R. Banks, Appl. Phys. Lett. **77**, 4202
+(2000). * (29) R. Prozorov, R. W. Giannetta, A. Carrington, and F. M.
+Araujo-Moreira, Phys. Rev. B **62**, 115 (2000). * (30) T. Klein, D.
+Braithwaite, A. Demuer, W. Knafo, G. Lapertot, C. Marcenat, P. Rodiere,
+I. Sheikin, P. Strobel, A. Sulpice, and P. Toulemonde, Phys. Rev. B
+**82**, 184506 (2010). * (31) B. S. Chandrasekhar and D. Einzel, Ann.
+Phys. **2**, 535 (1993). * (32) H. F. Hess, R. B. Robinson, and J. V.
+Waszczak, Phys. Rev. Lett. **64**, 2711 (1990). * (33) I. Guillamon, H.
+Suderow, S. Vieira, and P. Rodiere, Physica C **468**, 537 (2008). *
+(34) F. Gygi and M. Schluter, Phys. Rev. Lett. **65**, 1820 (1990). *
+(35) The two set of Nb bands, called 17 and 18 by Corcoran _et al._,
+correspond, respectively, to 2 and 3 in Johannes and Mazin. * (36) P.
+Aynajian, T. Keller, L. Boeri, S. M. Shapiro, K. Habicht, and B. Keimer,
+Science **319**, 1509 (2008).

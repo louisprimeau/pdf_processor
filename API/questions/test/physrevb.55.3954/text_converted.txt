@@ -1,0 +1,892 @@
+# Specific heat of YBa₂Cu₃O_(7 − δ)
+
+Kathryn A. Moler,1 David L. Sisson, Jeffrey S. Urbach,2 Malcolm R.
+Beasley, and Aharon Kapitulnik
+
+Departments of Physics and Applied Physics, Stanford University,
+Stanford, California 94305
+
+David J. Baar, Ruixing Liang, and Walter N. Hardy
+
+Department of Physics, University of British Columbia, Vancouver,
+British Columbia, Canada V6T1Z1
+
+Footnote 1: The γ dependence of the  perconductors with lines of nodes
+in the gap function.26 Secondly, we report additional measurements on
+the dependence of the specific heat on twins and on oxygenation, with
+oxygen doping levels of 7 − δ= 6.95, 6.97, and 6.99. These measurements
+show that the zero-field linear-T term decreases significantly with
+decreasing concentrations of twins and oxygen vacancies. The Schottky
+anomaly and the T³ term also decrease with decreasing δ.
+
+## II. Technique
+
+All heat capacity measurements share the common feature that a sample
+(heat capacity C_(s)) together with some addenda (heat capacity
+$C_{\rm add}$) are coupled to a thermal bath via a thermal link κ_(w).
+The heat capacity data presented here were taken with the relaxation
+method,27 in which the heat capacity is determined by a direct
+measurement of the thermal time constant, τ= (C_(s)+
+$C_{\rm add}$)/κ_(w). In contrast to adiabatic calorimetry, the
+relaxation method puts less stringent requirements on the thermal
+isolation of the sample and allows a smaller sample size.
+
+The sample is attached with a small amount of Wakefield thermal compound
+(∼10 μg) to a sapphire chip. Each chip has a thin-film heater and two
+thermometers made of phosphorus-doped silicon with aluminum contact
+pads.28 The silicon-on-sapphire (SOS) chip is suspended from a copper
+block by 0.001 in. Au-7
+
+The thermal conductance of the gold wires, κ_(w), depends on magnetic
+field and temperature. κ_(w) may also be changed by a few percent if
+there is a small physical shift in the position of the wires as a
+consequence of vibrations or magnetic-field-induced torques.
+Accordingly, κ_(w) is measured at each temperature and field during each
+run by applying a fixed power and measuring the resulting increase in
+the temperature of the sapphire chip, typically a few hundred mK. Since
+κ_(w) is approximately linear in T, this procedure corresponds to a
+measurement of κ_(w) at the midpoint of the block and sample
+temperature.
+
+The SOS chip temperature is controlled and measured by the thin film
+heater and thermometers deposited directly onto the chip. The resistance
+of the SOS thermometer is monitored by a homemade computer programmable
+ac bridge run at a few kHz. A separate heater and calibrated carbon
+glass resistor (CGR) thermometer are used to control the temperature of
+the copper block, which is suspended in vacuum and is surrounded by an
+isothermal copper shield.
+
+The data-taking program has been designed to be insensitive to the
+calibration of the thermometer on the SOS chip, essentially by using the
+cgr thermometer for a point-by-point calibration of the chip thermometer
+during a run.25,29 Although cumbersome, this procedure compensates for
+the silicon thermometers’ high magnetoresistance, chip-to-chip
+variation, and sensitivity to thermal cycling.
+
+The measurements of τ are at different temperatures than the
+measurements of κ_(w). Generally polynomial fits of up to third order
+have been used to interpolate the thermal conductance data. However, the
+data points are sufficiently dense and the scatter is sufficiently low
+that linear interpolations give an indistinguishable result. These
+interpolated thermal conductance values are combined with the relaxation
+times to determine the total heat capacity, C_(s)+ $C_{\rm add}$=
+κ_(w)τ. The total addenda consists of the sapphire substrate, the doped
+silicon heater and thermometers, the aluminum contact pads, the
+Wakefield thermal compound used to attach the sample to the sapphire,
+any extra gold wire on the chip, and one-third of the gold wire between
+the SOS chip and the block.27 The heat capacity of the addenda is
+determined separately for each run, and is typically about 0.2 μJ/K at
+4.2 K.
+
+Under standard operating conditions, the precision of the measurement in
+the temperature range 2-10 K is ∼0.5
+
+The sample is weighed to the nearest microgram both before and after the
+measurement to make sure that no chip
+
+Figure 1.: Measured addenda heat capacity at 0 and 8 T, plotted as C/T
+vs T². Bottom right inset: schematic of a sample mounted on a
+silicon-on-sapphire chip. Upper left inset: difference between the
+measured addenda heat capacity at 8 and 0 T.
+
+ping or cracking has occured during thermal cycling. The specific heat,
+c, is reported in units of mJ/mol K, normalized in moles of formula
+units (13 - d atoms).
+
+## III Crystals
+
+The single-crystal YBa2Cu3O7 - d samples were grown at the University of
+British Columbia (UBC) by a flux-growth technique in BaZrO3-coated
+yttria stabilized zirconia crucibles.30 Crystals grown by this technique
+have previously been characterized by low-field magnetization,
+_ab_-plane resistivity, heat capacity near T_(c), and microwave surface
+resistance. Similar samples show a linear temperature dependence of the
+microwave penetration depth.7 The samples chosen for specific heat,
+while small by the usual standards of heat capacity measurements, were
+an order of magnitude larger than those used for microwave measurements.
+The linear-_T_ behavior of the penetration depth was confirmed on
+smaller samples from the same batch.
+
+The crystals were annealed on YBCO ceramic in a tube furnace under high
+purity oxygen flow. The pressure and temperature required to achieve
+particular doping levels had been previously calibrated and checked by
+titration on ceramic samples. The estimated error in the oxygen doping,
+d, is +- 0.005.
+
+Sample T1 was a nominally pure, twinned 2.6 mg single crystal, initially
+measured at optimal doping, (7 - _d_) = 6.95. The crystal had a
+transition temperature T_(c) = 93.1 K with a width D_T__c_ < 0.2 K as
+determined by SQUID magnetometry. Optical and scanning electron
+microscopy showed the surface and edges of the crystal to be mostly
+clean, with a few flux spots which occupied < 0.1
+
+One of the pieces of sample T1, weighing 0.8 mg, was detwinned to create
+sample U1. About 20
+
+## IV Data
+
+The zero-field specific heats of the UBC crystals T1 (twinned, 7 - d =
+6.95) and U1 (untwinned, 7 - d = 6.95, 6.97, and 6.99) are plotted in
+Fig. 2(a) as _cT_ vs T2. The increase in the noise in the measurement of
+U1 relative to T1 results from the sample’s smaller size. Two general
+trends are noticeable from Fig. 2. First, the total specific heat
+decreases as twin boundaries are removed, and decreases further as
+oxygen is added. Second, the data are close to linear on a plot of _cT_
+vs T2, suggesting that the specific heat can be reasonably well
+described by _c_(_T_,0) = _gT_ + _bT_3. Figure 2(b) shows the specific
+heat of samples T2 (twinned, 7 - d = 6.95) and U2 (untwinned, 7 - d =
+6.95). These data also appear linear on a plot _cT_ vs T2, and the
+specific heat again decreases as twin boundaries are removed from the
+sample.
+
+Figure 3 shows the specific heat of crystal T1 in zero field and in an 8
+T magnetic field applied either parallel or perpendicular to the copper
+oxide planes. The specific heat increases in a magnetic field, and the
+anisotropy of the field-dependent increase is comparable in magnitude to
+the total increase. In a separate run, data were taken in an 8 T
+magnetic field applied in the plane at 0 and 45 degrees to the twin
+boundaries [Fig. 3 (inset]) on sample T1. No in-plane anisotropic
+magnetic field dependence was found within the resolution of the
+measurement. In a magnetic field, the data are not linear on a plot of
+_cT_ vs T2, but show a broad "bump" at the lower temperatures. This bump
+is similar in parallel and perpendicular magnetic fields. In addition,
+the perpendicular-field data exhibit a close-to-constant offset from the
+parallel-field data, suggesting an increased linear-_T_ term in
+perpendicular field.
+
+## V Models for Data Analysis
+
+The Debye phonon specific heat, c_(D), is cubic in temperature at low
+temperatures,
+
+$$c_{D} = \frac{12\pi^{4}}{5}nk_{B}\left(\frac{T}{\Theta_{D}}\right)^{3} = \beta T^{3},$$
+
+where Θ_(D) is the Debye temperature.32 At higher temperatures the Debye
+interpolation is insufficient to describe the phonon specific heat of
+most materials. The deviations may
+
+Figure 2: The zero-field specific heat of two YBa2Cu3O7 - d single
+crystals, plotted as _c_(_T_,0)/_T_ vs T2, before and after detwinning
+and reoxygenation.
+
+be expanded in higher order terms such as T⁵, T⁷, etc., assuming that
+dispersion is the dominant effect. They may also be described as a
+gapped Einstein contribution, c_(E), associated with optical phonons:
+
+$$c_{E} = mR\left( {\frac{T_{E}}{T}} \right)^{2}\frac{\exp( - T_{E}/T)}{[ 1 - \exp( - T_{E}/T)\rbrack^{2}},$$
+
+where m is the number of oscillators per unit cell and R = 8314 mJ/mol K
+is the universal gas constant. In general, both are expected and a
+comparison of these approaches is beyond the scope of this paper. We
+will mostly restrict our discussion to the temperature range T < 8 K, in
+which we find empirically that a T³ term is sufficient to describe the
+data.
+
+In principle, the phonon specific heat may be field dependent, and both
+the sound velocity and the density of YBCO have been shown to be field
+dependent. Measurements of the "giant magnetostriction" effect in YBCO
+show length changes ΔL/L of order 10-4 at 4.2 K in fields up to 12 T,
+[33] and the sound velocity v_(s) shows changes of the same order,
+[34]Δv_(s)/v_(s) ∼ 10⁻⁴. In an oversimplified model for the phonons,
+these quantitites can be directly related to the Debye temperature
+Θ_(D), which is proportional to the sound velocity and to the density of
+the lattice. Thus, these measurements suggest that any field dependence
+of the phonon specific heat, βT³, would be more than an order of
+magnitude below than the resolution of our data.
+
+The low-temperature electronic specific heat of a normal metal obeys
+
+c_(e) = γ_(n)T,
+
+where γ_(e) is proportional to the density of states at the Fermi level,
+N(E_(F)). [32] The linearity of the electronic contribution depends on
+the assumption that the density of states is constant over the energy
+range probed by the measurement, k_(B)T. Any energy dependence of the
+density of states in this range will change the electronic specific
+heat.
+
+In a superconductor with lines of nodes in the gap function, the density
+of states N(E) rises linearly with energy at the Fermi level in zero
+field, N(E) ∝ |E − E_(F)|. This density of states results in a
+contribution to the electronic specific heat c_(e) which is quadratic in
+temperature,
+
+c_(e) = αT².
+
+The coefficient α may be estimated from the slope of the density of
+states as α ≈ γ_(n)T²/T_(c), where γ_(n) is the coefficient of the
+linear-T term in the normal state, [22-24] neglecting factors assumed to
+be of order 1 such as angular dependence of the density of states.
+
+The specific heat of most high-T_(c) materials in a magnetic field
+contains a broad low-temperature peak which can be well described by a
+spin-1/2 Schottky anomaly, $nc_{\rm Schottky}(T,H)$. [19, 20] The
+Schottky anomaly is given by
+
+$$c_{\rm Schottky}(T,H) = \left( {\frac{g\,\mu_{B}H}{k_{B}T}} \right)^{2}\frac{e^{\pi\,\mu_{B}H/k_{B}T}}{(1 + e^{\pi\,\mu_{B}H/k_{B}T})^{2}},$$
+
+where μ_(B) is the Bohr magneton and g is the Lande g factor. The
+concentration of spin-1/2 particles is n/R, where R is the universal gas
+constant. This expression is exact only for free spins. The number of
+spins needed to describe the specific heat of cuprate superconductors
+has variously been argued to be linear in field in YBCO; [35] to be
+linear in field at low fields and relatively constant at high fields in
+LSCO; [36] and to be field independent in YBCO. [37] The apparent field
+dependence of the number of spins depends, of course, on which other
+terms are allowed in the description of the total field-dependent
+specific heat.
+
+The Lande g factor may be somewhat anisotropic, and spin-spin
+interactions may broaden the Schottky anomaly. In zero field, there is
+no contribution to the specific heat from ideal free spin-1/2 particles.
+The presence of internal fields or interactions between the spin-1/2
+particles may result in a broadened Schottky anomaly. This broadening is
+more noticeable at low fields and low temperatures, where it appears as
+an upturn in the zero-field low-temperature specific heat. Some
+techniques for describing the broadening have been discussed by the
+Berkeley group. [20, 37, 38] Depending on the temperature range, several
+parameters may be required to model the upturn, or it may be possible to
+represent it as the high-temperature tail of a Schottky anomaly with
+some effective internal field $H_{\rm eff}$,
+
+$$c_{\rm Schottky}(T,H \approx 0) = \frac{1}{4}\left( {\frac{g\,\mu H_{\rm eff}}{k_{B}T}} \right)^{2}.$$
+
+Cuprate superconductors are strongly type-II materials, and there are
+several possible contributions associated with vortices in the mixed
+state. In 1964 Caroli, deGennes, and Matricon [39] showed that the
+quasiparticle excitations inside the vortex core have an energy level
+spacing e₀ ≈ Δ²/E_(F). The core "minigap" e₀ is comparable to the energy
+level spacing of an electron confined to a box of size ξ. At very
+
+Figure 3: The specific heat of sample T1, plotted as c(T, H)/T vs T²,
+for magnetic fields of 0 T and 8 T applied either parallel or
+perpendicular to the CuO₂ planes. Inset: Data from a separate run,
+showing two different orientations of the magnetic field within the
+plane.
+
+low temperatures, this energy level spacing theoretically results in a
+gapped contribution to the specific heat,[40]
+
+$$c_{\rm cores} \approx \gamma_{n}T\frac{H}{H_{c2}}\biggl{[}\frac{\varepsilon_{0}}{k_{B}T} \biggr{]}^{5/2}e^{-\varepsilon_{0}/k_{B}T},\quad k_{B}T \ll \varepsilon_{0}\,.$$
+(7)
+
+The minigap is quite low for conventional superconductors, but can be
+calculated to be tens of K or more for cuprate superconductors due to
+their short coherence length. At temperatures large compared to the
+minigap, k_(B)T ≫ ε₀, the vortex core behaves much like a cylinder of
+normal metal with radius ξ. In this case the temperature dependence of
+the specific heat is similar to that of a normal metal,[40]
+
+$$c_{\rm cores} = \gamma(H)T\approx\gamma_{n}T\frac{H}{H_{c2}},\quad k_{B}T\gg \varepsilon_{0}\,.$$
+(8)
+
+Equations (7) and (8) have quite different temperature dependences, but
+share a common field dependence. H/H_(c2) may be roughly interpreted as
+the volume fraction of the ’normal" cores. In general, for isolated
+vortex cores, any contribution from excitations inside the cores will
+increase linearly with the number of cores. Thus, any core contribution
+will be linear in H for H_(c1) ≪ H ≪ H_(c2). This discussion about the
+core contribution is based on the assumption λ ≫ ξ, and therefore only
+hold for high-κ materials. In materials which are not strongly type II,
+the vortex cores cannot be treated as isolated. Neither Eq. (7) nor Eq.
+(8) provides a good description of the measured γ(H) of, for example,
+vanadium.[41]
+
+In addition to contributions associated with the internal degrees of
+freedom, it is possible to excite modes associated with vortex-vortex
+interactions.[42, 43, 44] In a layered superconductor, neglecting
+damping, the vortex mass, and interlayer coupling, these modes would
+result in a two-dimensional Debye specific heat with a vortex Debye
+temperature Θ_(v) = $\frac{1}{2}\,\hbar\,\omega_{c}/k_{B}$= 7 K for B=
+10 T.[44] In this model, the low-temperature specific heat varies as T²,
+as expected for a two-dimensional Debye solid, and saturates at
+temperatures above Θ_(v) to the classical limit of 1 k_(B) per pancake.
+The detailed functional dependence in the presence of finite
+dissipation, mass, and Magnus force has been discussed in several
+theoretical papers.[42, 43, 44] An unambiguous identification of the
+vortex lattice specific heat would provide an important test of
+phenomenological models of vortex dynamics. All of these models share
+the common feature that the specific heat saturates to the classical
+Dulong and Petit limit of 2 k_(B) per pancake at most, which is within
+current experimental resolution. When the isolated pancake description
+is not valid, and interlayer coupling is introduced, such as would be
+appropriate for YBCO, the number of degrees of freedom may be reduced by
+orders of magnitude from this limit.
+
+In two high-κ A15 compounds, the coefficient of the linear-T term in the
+specific heat has been shown by Stewart and Brandt to be linear in
+H.[45] The coefficient of the linear-T term for V₃Si was slightly larger
+than expected from Eq. (8), but Eq. (8) provides a good description of
+the magnetic field dependence of the specific heat for Nb₃Sn. More
+recently, in zero-field-cooled measurements of V₃Si, Ramirez has found
+hysteresis and curvature in the field dependence of the specific heat
+near H_(c1), suggesting that the field dependence of the specific heat
+of conventional high-κ materials is not fully understood near
+H_(c1).[46]
+
+The estimated minigap for the cuprate superconductors is sufficiently
+large that the condition k_(B)T ≫ ε₀ is not satisfied in the
+Caroli-deGennes-Matricon model. There is some experimental evidence for
+a large minigap.[47, 48] although a consensus has not been reached.
+Although Eq. (8) is thus not expected to apply to the cuprates, Fig. 3
+shows that the increase in the specific heat in a magnetic field is not
+exponentially suppressed at low temperatures and is much larger than can
+be explained by a minigap core contribution, Eq. 7. If there is a
+minigap core contribution to this specific heat data, it is too small to
+identify in the presence of the other excitations.
+
+Caroli, deGennes, and Matricon assumed a fully gapped superconductor in
+their calculations.[39] Volovik calculated in 1993 that for a
+superconductor with lines of nodes in the gap function, the dominant
+contribution to the magnetic field dependence of the specific heat
+should come from quasiparticle excitations _outside_ the vortex
+core.[26] The density of states predicted by Volovik results from the
+Doppler shift of the quasiparticle excitation spectrum in the presence
+of a non-zero supercurrent. If the superfluid velocity is ν⃗_(s), the
+quasiparticle excitation spectrum
+$E(\vec{k})=\sqrt{\eta_{k}^{2}+|\Delta_{k}|^{2}}$, where η_(k) is the
+bare excitation energy and Δ_(k) is the superconducting energy gap, is
+shifted by an amount k⃗ ⋅ ν⃗_(s). This shift is the physical origin of the
+depairing current. Far from the vortex core in a fully gapped
+superconductor, the Doppler shift k⃗ ⋅ ν⃗_(s) is small compared to the
+gap, and does not have much effect on the excitation spectrum. Within a
+coherence length of the core, however, the Doppler shift is comparable
+to the gap, and significant pairbreaking results. This effect is one way
+to understand the conventional normal-core model.
+
+Volovik’s result[26] is derived from the Doppler shift and from the
+dependence of the intervortex spacing R(H) on magnetic field,
+$R(H)\propto 1/\sqrt{H}$. The density of states at the Fermi level is
+related to the quasiparticle excitation energy E(k⃗) by
+
+$$N(E_{F}) = \int\frac{d^{3}k}{(2\,\pi)^{3}}\biggl{[}\,d^{2}r\,\delta(E(\vec{k},\vec{r})-\vec{k}\cdot\vec{\nu}_{s}(\vec{r}))\,.$$
+(9)
+
+For a superconductor with lines of nodes, the shift is significant
+everywhere that the superfluid velocity is not zero. The vortex
+superfluid velocity v_(s) depends on the distance r from the center of
+the vortex as v_(s) ∝ 1/r. The integrand in Eq. (9) may be loosely
+interpreted as the local density of states at the Fermi level, which
+thus falls off as 1/r and has an angular variation which reflects the
+symmetry of the underlying order parameter. This local density of states
+is plotted in Fig. 9 for a tetragonal d-wave gap function.
+
+To find the total density of states, Eq. (9) is integrated over the
+entire vortex. For H ≫ H_(c1), i.e., R(H) ≪ Λ, the intervortex spacing
+R(H) is the upper cutoff in the integral. This integral gives a density
+of states per vortex $N(E_{F},H)\propto R(H)\propto 1/\sqrt{H}$. In the
+limit that the number of vortices is proportional to H, which is not
+valid near H_(c1), multiplying by the number of vortices gives a total
+density of states $N(E_{F},H)\propto\sqrt{H}$. Finally, noting that the
+density of states should extrapolate roughly to the normal-state density
+of states N_(n) at H = H_(c2), this result is normalized as
+$$N(E_{F},H) = kN_{n}\sqrt{H/H_{c2}},$$
+
+where k is a factor of order 1. The factor k has not been quantitatively
+calculated, but should depend on the vortex lattice structure, on the
+slope of the gap near the gap node, and on possible structure in N_(n).
+
+The shift in the excitation spectrum depends on the angle between the
+local superfluid velocity and the nodes, giving the vortex the same
+symmetry as the gap (Fig. 9). Because the nodes are 90deg apart (in a
+purely tetragonal _d_-wave superconductor), the superfluid velocity can
+never be perpendicular to all nodes, and there are no places where
+_N_(E_(F)) becomes zero. Both the density of states, and in a clean
+system the anisotropy in the density of states, extend throughout the
+entire vortex.
+
+As the field is increased, the node fills in with a finite density of
+states, and the _a_T_2 term associated with the nodes is replaced by a
+linear-_T_ term,
+
+$$c\,{\rm Volovik} = k\,\gamma_{n}T\sqrt{H/H_{c2}}.$$
+
+Depending on the field and temperature, it may be possible to observe a
+crossover between these two behaviors.
+
+There is presently a great deal of interesting theoretical activity
+concerning the influence of anisotropic gaps on the structure of the
+vortex core.[49-51] The theoretically complicated core structure would
+modify the $\sqrt[3]{H}$ term except in the limit H <= _H__c_2. The
+Volovik term comes predominantly from the region between the cores, so
+the observation of the Volovik term at intermediate fields would not
+give direct information about the core structure.
+
+## VI Analysis of zero-field data
+
+Since the absolute scatter (in units of mJ/mol K) increases at higher
+temperatures, a weighted-least-squares criterion was used for all fits,
+
+$${\rm minimize}{\sum\,}\left( {\frac{c_{{\rm fit}} - c_{i}}{c_{i}}} \right)^{2}.$$
+
+The quoted errors are only statistical and are determined at the 90
+
+The dependence of the specific heat on twinning and oxygen doping may be
+seen in Fig. 2, where the specific heat of crystals T1, U1, T2, and U2
+are plotted as _c_/_T_ vs T2. These data may be fit to straight lines,
+_c_(_T_,0)/_T_ = _g_(0) + _b_(0) T2, giving the values found in Table I
+and plotted in Fig. 4. The largest measured value of _g_(0) from the
+data in Table I is 3.2 mJ/mol K2, and this term decreases as twins are
+removed and further decreases as oxygen is added. Most YBCO samples have
+zero-field linear-_T_ terms with coefficients _g_(0) >= 4 mJ/mol
+K2.[20,19]
+
+Although the specific heat data for sample T1 shown in Fig. 2 is well
+described by _c_(_T_,0) = _g_(0) T + _bT_3, one cannot rule out the
+possibility that the specific heat may include other terms. Physically
+motivated possibilities include a quadratic term _aT_2 associated with
+lines of nodes and a small low-temperature upturn A2/_T_2. A large
+upturn associated with spin-spin interactions for spin-1/2 particles,
+Eq. (6), is usually seen in the low-temperature specific heat of
+YBa2Cu3O7 - g.[37] For data plotted as _c_/_T_ vs T2, an A2/_T_2 would
+result in an upturn at low temperatures, while an _aT_2 term would
+result in a downturn. It is possible for both terms to be present with
+small coefficients, without being obvious in a visual inspection of a
+graph such as Fig. 2.
+
+To set limits on these terms, the data is fit to the functional form,
+
+c(T, 0) = A₂/T² + γ(0)T + αT² + βT³.
+
+The results of the fit to Eq. (13), and variations on this equation with
+a and/or A2 chosen to be zero, are shown in Table II. Four parameters is
+quite a few for the description of a single smooth data set, and either
+zero or small values of both a and A2 are consistent with the data.
+
+The value b = 0.40 mJ/mol K4 corresponds to a Debye temperature b_(D) =
+400 K. The values of b in Table I are comparable to what have been
+observed in other measurements.[20,19] The change in b with oxygen
+content corresponds to a 10
+
+  -------- --------- --------------------- ----------------
+   Sample   7 - _δ_         _β_(0)              _γ_(0)
+    T1a      6.95        0.405 ± 0.001       3.23 ± 0.03
+    U1b      6.95        0.400 ± 0.010        2.2 ± 0.1
+    U1b      6.97        0.367 ± 0.010        2.0 ± 0.2
+    U1b      6.99        0.265 ± 0.010        1.2 ± 0.1
+    T2a      6.95        0.460 ± 0.010        3.0 ± 0.2
+    U2b      6.95     0.387 ±0.020 −0.014   2.4 ± 0.4 −0.5
+  -------- --------- --------------------- ----------------
+
+Table 1: Zero-field specific heat fit to _c_/_T_ = _γ_+ _βT_3. Units are
+mJ, mol, and K.
+
+Figure 4: Dependence of the specific heat parameters on oxygen content
+for the mostly untwinned crystal U1.
+
+powers of temperature are not necessary to describe the data. Above 8 K,
+the specific heat deviates from a T³ law. These deviations are
+consistent with either higher order terms in the phonon specific heat
+such as T⁵ and T⁷, or with a gapped excitation. Several forms of gapped
+excitations, including a spin gap and an optical phonon mode [Eq. (2)],
+give adequate descriptions of the data. When the optical phonon form is
+used, the fit results in the value T_(gap) = 90 K. In order to avoid the
+extra parameters necessary to describe the phonon specific heat above 8
+K, all of the remaining fits reported here are restricted to T ≪ 7 K.
+
+## VII Analysis of the field dependence
+
+Figure 3 shows the specific heat of crystal T1 in zero field and in an 8
+T magnetic field applied either parallel or perpendicular to the copper
+oxide planes. The largest contribution to the specific heat is the βT³
+term, believed to come from the Debye phonons. All three data sets have
+similar slopes on this plot of c/T vs T², indicating that the βT³ term
+is similar in all three data sets. The zero-field linear-T term γ(0)T
+appears as a finite intercept on the c/T axis for the zero-field data.
+In an 8 T magnetic field applied parallel to the CuO ₂ planes, there is
+an additional magnetic contribution, a low-temperature bump peaking
+around 3−4 K. In an 8 T perpendicular magnetic field, there is a similar
+bump. As discussed below and previously shown by Emerson _et al._ for
+polycrystalline samples, [37] this contribution can be well described as
+a Schottky anomaly, $nc_{S\rm{ Schottky}}(T,H)$, due to an assumed
+concentration of spin-1/2 particles. The data in perpendicular field
+also show a substantially increased linear-T term, γ_(⊥)(H)T.
+
+The approximately linear-T temperature dependence of the anisotropy of
+the specific heat cannot be explained by a contribution from vibrations
+of the vortex lattice, which should level out at a
+temperature-independent value of 1 or 2 k_(B) per pancake at a
+temperature of a few K in an 8 T field. In fact this upper limit is
+generous, since it assumes that the vortex has a mass for the 2k_(B)
+limit and that the pancake vortices are decoupled. Even with these
+assumptions, the upper limit 2k_(B) per pancake is too small to explain
+the observed anisotropy of the field dependence of the specific heat.
+
+The anisotropic magnetic field dependence is also much larger than can
+be explained by a minigap core contribution, Eq. (7), with a minigap of
+tens of K or more as expected for YBCO. In order to explain the
+approximately linear-T dependence of the anisotropy, the minigap would
+need to be small compared to the temperature range of the measurements,
+and Eq. (8) would then apply for a traditional high-κ superconductor.
+While a gapped core may be present, the specific heat of such cores is
+insufficient to explain the data.
+
+Accordingly, we model the data allowing for the other contributions
+mentioned in the last section: a possibly anisotropic Schottky anomaly,
+and a linear-T term with an unknown H dependence. Each data set at each
+value of the magnetic field is thus described by
+
+$$c(T,H) = \gamma T + \beta T^{3} + nc_{S\rm{ Schottky}}(g\,\mu_{B}H/k_{B}T).$$
+
+The specific heat data in zero magnetic field and in two orientations of
+an 8 T applied field (Fig. 3) are replotted in Fig. 5(b) with the phonon
+specific heat subtracted. This plot shows that the location of the
+maximum of the Schottky anomaly is slightly different in the two curves.
+The data in parallel and perpendicular fields can be fit to Eq. (14)
+with the Lande g factor treated as a free parameter. This fit results in
+the values g_(⊥) = 2.0 for a field applied perpendicular to the CuO ₂
+planes and g_(∥) = 2.2 - 2.3 for a field applied parallel to the CuO ₂
+planes. The data on sample T1 in an 8 T parallel field show a linear-T
+term, γ_(∥)(H)T, which is increased by about 0.5 mJ/mol K2 relative to
+γ(0), as determined by fitting the data in Figs. 5(a) to Eq. (14).
+Because of uncertainties in the Schottky anomaly and the sample
+alignment, the results are also consistent with no increase in the
+parallel-field linear term, γ_(∥)(H)T.
+
+We now turn our attention to the perpendicular field. Each of six data
+sets (H = 0, 0.5, 2, 4, 6, and 8 T) from sample T1 is fit individually
+to Eq. (14), using a Lande g factor of g = 2. As in the last section, a
+weighted-least-squares criterion was used for all fits. The parameters
+resulting from this fit are listed in Table III and are plotted in Fig.
+6, along with statistical error bars determined at the 90
+
+Of the three parameters, γ, β, and n, only γ has a strong magnetic field
+dependence, increasing with H with negative
+
+  ----- -------------------- ----------------------- ------------------ --
+    H            γ                      β                    n          
+   0.0   3.23 + 0.03− 0.03    0.405 + 0.002− 0.001                      
+   0.5   3.58 + 0.09− 0.09    0.397 + 0.002− 0.003      43 + 20− 23     
+   2.0   4.32 + 0.10− 0.09    0.388 + 0.003− 0.004    26.1 + 1.0− 0.9   
+   4.0   5.23 + 0.20− 0.19    0.389 + 0.006− 0.005    21.9 + 1.0− 1.3   
+   6.0   4.77 + 0.63− 0.88    0.402 + 0.019 − 0.012   25.9 + 5.1 − 4.2  
+   8.0   6.16 + 0.51 − 0.41   0.386 + 0.005− 0.007    19.0 + 3.2 − 3.9  
+  ----- -------------------- ----------------------- ------------------ --
+
+Table 3: Individual-field fits to Eq. (14) for sample T1 from 2−7 K.
+Units are mJ, mol, K, and T.
+
+curvature. The larger apparent value of n for H = 0.5 T may be
+physically explained by interactions between the spin-1/2 particles, but
+is not statistically significant. Within the resolution of the
+measurement, b is independent of field for H >= 2 T, and is increased by
+ 5
+
+The scatter in the values of b, n, and g is partially due to the large
+number of parameters (three) used to describe each data set. These
+results suggest that it is appropriate to refit the data with the
+assumptions of the field independence of
+
+Figure 8: Coefficient of the linear-_T_ term for crystal T1, as
+determined from (a) individual-field fits and (b) a global fit with the
+H = 0 data set excluded. The solid lines are fits to
+$\chi(0) + A\sqrt {H}$ with A = 0.89 mJ/mol K2 T1/2 and A = 0.87 mJ/mol
+K2 T1/2, respectively.
+
+Figure 6: Parameters from fitting six different data sets on crystal T1
+in perpendicular field to
+$c = \gamma T + \beta T^{3} + nc_{\rm Schottky}$. Error bars are at the
+statistical 90
+
+Figure 7: Field dependence of the coefficient of the linear-_T_ term for
+crystals T1 (twinned) and U1 (mostly untwinned), as determined from a
+global fit. Error bars are at the statistical 90
+
+the concentration of spin-$\frac{1}{2}$ particles, n, and the phonon
+specific heat, βT³. In addition to being consistent with the
+individual-field fits, these assumptions are physically plausible, as
+discussed in Sec. IV. To model the perpendicular field dependence with
+such constraints, identical analyses are performed on data from samples
+T1 (twinned) and U1 (untwinned). Allowing for the possibility of a small
+quadratic term, αT², the zero-field specific heat is described by
+
+c(T, 0) = γ(0)T + αT² + βT³.
+
+The specific heat for H >= 0.5 T is described by
+
+$$c(T,H) = [\gamma(0) + \gamma_{\perp}(H)]T + \beta T^{3} + nc_{\rm Schottky}(g\,\mu_{B}H/k_{B}T).$$
+
+All data sets are fit simultaneously to Eqs. (15) and (16) with a Lande
+g factor of g = 2.0. In this global fit, β and n are constrained by
+multiple data sets, γ(0) and α are constrained by the zero-field data,
+and γ_(⊥)(H)T is allowed a different value at each field.
+
+The parameters determined from this fit are shown in Table IV for both
+samples T1 and U1, with 90
+
+The field-dependent linear-T term, γ_(⊥)(H)T, has a nonlinear dependence
+on field (Fig. 7). This nonlinear field dependence is well described by
+$\gamma_{\perp}(H) = A\sqrt{H}$, with A = 0.9 mJ/mol K² T^(1/2) for both
+samples T1 and U1.
+
+The qualitative nonlinearity of γ_(⊥)(H) is robust to the assumptions
+used to describe the total specific heat. The coefficients of the
+linear-T term for sample T1 as determined from the individual fits (Fig.
+6) are replotted in Fig. 8(a), together with a fit to
+$\gamma(0) + \gamma_{\perp}(H) = \gamma(0) + A\sqrt{H}$. This fit
+results in the value A = 0.89 mJ/mol K² T^(1/2), as was also found in
+the global fit.
+
+In an alternative fit which avoids the zero-field data entirely, the
+five data sets for sample T1 with H ≥ 0.5 T are globally fit to Eq.
+(16), again keeping β and n independent of field. There are thus two
+global parameters, plus values of [γ(0) + γ_(⊥)(H)] in five fields [Fig.
+8(b)]. The resulting linear-T term is better described by a $\sqrt{H}$
+dependence than by an H dependence, and from the fit shown in Fig. 8(b),
+A = 0.87 mJ/mol K² T^(1/2). This fit also returns an extrapolated value
+of γ(0) = 3.1 mJ/mol K², which is in agreement with the value determined
+by independently fitting just the zero-field data.
+
+## VIII Interpretation
+
+Any excitations which are confined to the vortex cores would probably
+result in a contribution to the specific heat which is linear in H
+(proportional to the number of vortices), independently of the details
+of the core excitation spectrum. Although there may in principle be some
+dependence of the core excitations on magnetic field, it is likely that
+for H ≪ H_(c2) the core excitations would be roughly independent of
+field. Accordingly, a nonlinear field dependence observed in
+N(E_(F), H), such as we observe, suggests excitations outside the vortex
+core. The observed field dependence of the specific heat agrees
+semiquantitatively with the prediction of Volovik for the density of
+states at the Fermi level for a superconductor with lines of nodes in
+the gap function.[26] This density of states extends throughout the
+entire vortex (Fig. 9).
+
+Parks _et al._ have pointed out that their measurements of vortex
+dynamics in YBCO thin films are best explained by the presence of the
+extra quasiparticles expected for a vortex with an anisotropic gap.[54]
+Recent theoretical work suggests that the structure of the vortex core
+in a d-wave superconductor is both interesting and complicated,[26, 49,
+50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67,
+68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85,
+86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, states picks up
+contributions from all of the nodes. The complete in-plane angular
+magnetic field dependence of the density of states is given by
+
+$$N(0,H,\theta = \pi/2,\varphi) = \frac{\kappa^{\prime}}{2}(|\sin\varphi| + |\cos\varphi|)N_{F}\sqrt{H/H_{c2}}|,$$
+
+as shown by Volovik.[55]
+
+Measurements of the in-plane anisotropy of the magnetic field dependence
+at 8 T were made on a heavily twinned sample of YBa2Cu3O6,95 with the
+field parallel to the twins and at a 45deg angle to the twins [Fig. 3
+(inset)]. These measurements did not detect a significant angular
+variation in γ_(∥)(H) within the experimental error (about 0.2 mJ/mol
+K2).
+
+To compare these results to theory requires a value for H_(c2∥), which
+is not well known. Guessing H_(c2∥) = 1000 T, consistent with
+measurements of H_(c2⊥) and the anisotropy, and taking γ_(n) ≈ 20 mJ/mol
+K2 as found in other heat capacity measurements,[20,21 Eq. (17) gives an
+estimated angular variation of 0.4 mJ/mol K2 times a factor of order 1
+for a purely tetragonal _d_-wave superconductor. The theoretical
+uncertainties are sufficiently large that these data are not evidence
+against an anisotropic gap, although the estimated in-plane anisotropy
+and the resolution of the measurements are comparable in magnitude.
+Measurements at higher fields over a greater range of angles, preferably
+on untwinned samples, might improve our understanding of the structure
+of in-plane vortices, and would allow the determination of the locations
+of the gap minima if the above model proves to be the correct one.
+
+A quadratic term, αT², associated with lines of nodes would be expected
+to disappear in a magnetic field, where the energy dependence of the
+density of states close to the nodes, N(E, H = 0) × |E − E_(F)|, is
+replaced by a finite N(E_(F), H). The field at which this crossover
+occurs depends on the temperature range. As a rough estimate, the αT²
+term would disappear for crossover temperatures T^(*) or fields H^(*)
+given by
+$T^{\ast} \approx T_{c}N(E_{F},H^{\ast})/N_{n} \approx T_{c}\sqrt{(H^{\ast}/H_{c2})}$:
+a little below 0.5 T for the temperature range of these data. The αT²
+term is comparable in magnitude to the systematic uncertainty in the
+addenda T³ phonon specific heat, but is several times larger than the
+relatively small systematic uncertainty of the field dependence, <1
+
+From the slope of the density of states in a superconductor with lines
+of nodes, theory yields α = γ_(n)/T_(c), [22,23] or α ≈ 0.2 mJ/mol K3
+for YBCO within factors of order unity. This estimate is in good
+agreement with the value α = 0.1 mJ/mol K3 obtained from the global fits
+(Table IV) on samples U1 and T1.
+
+For the field dependence of the density of states, Volovik predicts
+$N(E_{F},H) = kN_{n}\sqrt{H/H_{c2}}$, where k is of order 1 and is
+defined by the vortex lattice structure, by the slope of the gap near
+the gap node, and by possible structure in the normal-state density of
+states N_(n).[26] Taking γ_(n) = 20 mJ/mol K2, consistent with other
+heat capacity work,[20,21] and H_(c2, 1) = 150 T gives the estimate
+$\gamma_{\perp}(H) = A\sqrt{H}$ with A = k × 1.6 mJ/mol K2 T1/2, in
+reasonable agreement with the value A = 0.9 mJ/mol K2 T1/2 found for
+both samples U1 and T1.
+
+Both of the above comparisons used the measured value of γ_(n), the
+normal state density of states averaged over the Fermi surface. Because
+both the αT² and $A\sqrt{H}T$ terms are a consequence of the nodes,
+these terms should be sensitive to the normal-state density of states
+close to the nodes. The above comparisons may indicate that the density
+of states close to the nodes is smaller than the angular average of the
+density of states, consistent with photoemission measurements on
+BSCCO:[56] but the theoretical uncertainty in k makes quantitative
+comparison difficult.
+
+A quadratic T² term has been known for some time in the specific heat of
+heavy-fermion superconductors, and has recently been reported in the
+specific heat of La2_(−x)Sr_(x)CuO4.[57] Two other recent works support
+the existence of a $\sqrt{H}$ term in superconductors with lines of
+nodes. A $\sqrt{H}$ term has been recently reported in the
+low-temperature specific heat of UPt3.[58] Also, a reanalysis of
+existing data on polycrystalline YBCO samples shows a nonlinear γ(H)T
+term which appears consistent with $\sqrt{H}$,[38] with similar but less
+dramatic curvature on Ca- and Sr-doped La2CuO4 samples.
+
+These predictions do not distinguish between different types of lines of
+nodes, such as _d_-wave or extended _s_-wave.[59] In principle, this
+interpretation could also apply to a gap function with no nodes, but
+with a very small minimum gap, $\Delta_{\rm min} \ll k_{B}T \approx 0.5$
+meV. In order to produce these results, however, such a gap function
+would need to have an unusual energy dependence of the density of states
+similar to that associated with lines of nodes,
+N(E, H = 0) × |E − E_(F)|.
+
+The above discussion should not be taken to suggest that the data are
+entirely consistent with the specific heat expected for a superconductor
+with lines of nodes in the gap function. In fact, the observed
+zero-field linear-T term is not. A wide range of values have been
+reported for γ_(n), the coefficient of the linear-T term in the normal
+state of optimally-doped YBCO.[19, 20, 21] The later measurements,
+including the measurements of Loram _et al._,[21] are close to
+γ_(n) = 20 mJ/mol K2. γ_(n) is determined from bulk measurements in the
+normal state and therefore reflects the normal density of states N_(n)
+averaged over the entire Fermi surface. In other words, as usually
+measured, γ_(n) is not sensitive to possible k̄ dependence of N_(n).
+Taking the value γ_(n) = 20 mJ/mol K2 with that caveat, the residual
+density of states N(E_(F))/N_(n) in the superconducting state is about
+15
+
+The residual density of states can also be extracted from fitting the
+temperature dependence of the penetration depth[7] to the _d_-wave model
+with scattering of Hirschfeld _et al._[60] In samples similar to the
+samples measured here, these fits im ply a density of states which is no
+greater than 1
+
+## IX Summary
+
+The coefficient of the linear-T term in the specific heat of YBCO does
+not depend linearly on magnetic field, H. The observed curvature with
+field can be well described by $\sqrt{H}$, with a numerical prefactor
+which agrees semiquantitatively with Volovik’s prediction for the
+density of states in superconductors with lines of nodes in the gap
+function.
+
+It is possible that the zero-field linear-T term has a separate origin
+from the excitations which give rise to the quadratic-T term and to the
+$\sqrt{H}T$ field dependence of the specific heat. This assumption leads
+to a self-consistent analysis of the specific heat, and is given
+additional support by the measurements on the untwinned crystal U1, in
+which γ(0) decreases substantially, while the field-dependent specific
+heat is unaffected.
+
+## Acknowledgments
+
+Work at Stanford was supported by the Air Force Office of Scientific
+Research. We thank N. E. Phillips, R. A. Fisher, J. E. Gordon, and A.
+Junod for extensive discussions, including discussions of their data and
+analyses prior to publication. We also thank D. A. Bonn, B. Efron, K.
+Maki, R. B. Laughlin, D. Scalapino, C. Varma, and especially G. Volovik
+for useful discussions.
+
+## References
+
+* [1] J. Bardeen, L. N. Cooper, and J. R. Schrieffer, Phys. Rev.
+**108**, 1175 (1957). * [2] N. E. Phillips, Phys. Rev. **114**, 676
+(1959). * [3] W. S. Corak, B. B. Goodman, C. B. Satterthwaite, and A.
+Wexler, Phys. Rev. **102**, 656 (1956). * [4] N. E. Phillips, CRC Crit.
+Rev. Solid State Sci. 467 (1971). * [5] D. Scalapino, Phys. Rep.
+**250**, 329 (1995). * [6] D. Pines and P. Monthoux, J. Phys. Chem.
+Solids **56**, 1651 (1995). * [7] W. N. Hardy, D. A. Bonn, D.C. Morgan,
+Ruixing Liang, and Kuan Zhang, Phys. Rev. Lett. **70**, 3999 (1993). *
+[8] D. A. Bonn, S. Kamal, Kuan Zhang, Ruixing Liang, D. J. Baar, E.
+Klein, and W. N. Hardy, Phys. Rev. B **50**, 4051 (1994). * [9] J. A.
+Martindale, S. E. Barrett, K. E. O’Hara, C. P. Slichter, W. C. Lee, and
+D. M. Ginsberg, Phys. Rev. B **47**, 9155 (1993). * [10] Z.-X. Shen, D.
+S. Dessau, B. O. Wells, D. M. King, W. E. Spicer, A. J. Arko, D.
+Marshall, L. W. Lombardo, A. Kapitulik, P. Dickinson, and S. Doniach,
+Phys. Rev. Lett. **70**, 1553 (1993). * [11] K. A. Moler, D. J. Baar, J.
+S. Urbach, Ruixing Liang, W. N. Hardy, and A. Kapitulnik, Phys. Rev.
+Lett. **73**, 2744 (1994). * [12] T. P. Devereaux, D. Einzel, B.
+Stadlober, R. Hackl, D. H. Leach, and J. J. Neumeier, Phys. Rev. Lett.
+**72**, 396 (1994). * [13] D. A. Wollman, D. J. Van Harlingen, W. C.
+Lee, D. M. Ginsberg, and A. Leggett, Phys. Rev. Lett. **71**, 2134
+(1993). * [14] A. G. Sun, D. A. Gajewski, M. B. Maple, and R. C. Dynes,
+Phys. Rev. Lett. **72**, 2267 (1994). * [15] C. C. Tsuei, J. R. Kirtley,
+C. C. Chi, L. S. Yu-Jahnes, A. Gupta, T. Shaw, J. Z. Sun, and M. B.
+Ketchen, Phys. Rev. Lett. **73**, 593 (1994). * [16] D. A. Brawner and
+H. R. Ott, Phys. Rev. B **50**, 6530 (1994). * [17] A. Mathai, Y. Gim,
+R.C. Black, A. Amar, and F.C. Wellstood, Phys. Rev. Lett. **74**, 4523
+(1995). * [18] J. Annett, N. Goldenfeld, and S. R. Renn, Phys. Rev. B
+**43**, 2778 (1991). * [19] A. Junod, in _Physical Properties of HTSC
+II_, edited by D. Ginsberg (World Scientific, Singapore, 1990). * [20]
+N. E. Phillips, R. A. Fisher, and J. E. Gordon, in _Progress in Low
+Temperature Physics_, edited by D. F. Brewer (Elsevier Science
+Publishers B. V., Amsterdam, 1992), Vol. 13, pp. 267-357. * [21] J. W.
+Loram, K. A. Mirza, J. R. Cooper, and W. Y. Liang, Phys. Rev. Lett.
+**71**, 1740 (1993). * [22] M. Prohammer, A. Perez-Gonzalez, and J. P.
+Carbotte, Phys. Rev. B **47**, 15 152 (1993). * [23] D. Scalapino
+(private communication). * [24] R. B. Laughlin (private
+communication). * [25] K. A. Moler, Ph.D. thesis, Stanford University,
+1995. * [26] G. E. Volovik, JETP Lett. **58**, 469 (1993). * [27] R.
+Bachmann, F. J. DiSalvo, Jr., T. H. Geballe, R. L. Greene, R. E. Howard,
+C. N. King, H. C. Kirsch, K. N. Lee, R. E. Schwall, H.-U. Thomas, and R.
+B. Zubeck, Rev. Sci. Instrum. **43**, 205 (1972). * [28] F. Hellman,
+Ph.D. thesis, Stanford University, 1985. * [29] S. R. Early, Ph.D.
+thesis, Stanford University, 1981; J. S. Urbach, Ph.D. thesis, Stanford
+University, 1993. * [30] Ruixing Liang, P. Dosanjh, D. A. Bonn, D. J.
+Baar, J. F. Carolan, and W. N. Hardy, Physica C **195**, 51 (1992). *
+[31] A. P. Ramirez, R. J. Cava, G. P. Espinosa, edited by M. B. Brodsky,
+R. C. Dynes, K. Kitazawa, H. L. Tuller, J. P. Remeika, B. Batlogg, S.
+Zahurak, and E. A. Reitman, in _High-Temperature Superconductors_, MRS
+Symposia Proceedings No. 99 (Materials Research Society, Pittsburgh,
+1987), p. 459. * [32] N. W. Ashcroft and N. D. Mermin, _Solid State
+Physics_ (W. B. Saunders Company, Philadelphia, 1976). * [33] V. V.
+Chabanenko, I. B. Krynetskii, S. Piechota, and H. Szymczak, Physica B
+**289-290**, 216 (1996). * [34] P. Lemmens, P. Froning, S. Ewert, J.
+Pankert, H. Passing, and A. Comberg, Physica B **165-166**, 1275
+(1990). * [35] D. Sanchez, A. Junod, J.-Y. Genoud, T. Graf, and J.
+Muller, Physica C **200**, 1 (1992). * [36] T. E. Mason, G. Aeppli, S.
+M. Hayden, A. P. Ramirez, and H. A. Mook, Phys. Rev. Lett. **71**, 919
+(1993). * [37] J. P. Emerson, R. A. Fisher, N. E. Phillips, D. A.
+Wright, and E. M. McCarron III, Phys. Rev. B **49**, 9256 (1994). * [38]
+R. A. Fisher, J. E. Gordon, S. F. Reklis, D. A. Wright, J. P. Emerson,
+B. F. Woodfield, E. M. McCarron III, and N. E. Phillips, Physica C
+**252**, 237 (1995). * [39] C. Caroli, P. G. deGennes, and J. Matricon,
+Phys. Lett. **9**, 307 (1964). * [40] A. L. Fetter and P. Hohenberg, in
+_Superconductivity_, edited by R. D. Parks (Marcel Dekker, Inc., New
+York, 1969), Vol. 2, pp. 817-923. * [41] R. Radebaugh and P. H. Keesom,
+Phys. Rev. **149**, 209 (1966).
+
+* [42] L. N. Bulaevskii and M. P. Maley, Phys. Rev. Lett. **71**, 3541
+(1993); and (private communication). * [43] A. L. Fetter, Phys. Rev. B
+**50**, 13 695 (1994). * [44] K. A. Moler, A. L. Fetter, and A.
+Kapitulnik, J. Low Temp. Phys. **100**, 185 (1995). * [45] G. R. Stewart
+and B. L. Brandt, Phys. Rev. B **29**, 3908 (1984). * [46] A. Ramirez,
+Phys. Lett. A **211**, 59 (1996). * [47] K. Karrai, E. J. Choi, F.
+Dunmore, S. Liu, H. D. Drew, Qi Li, D. B. Fenner, Y.D. Zhu, and Fu-Chun
+Zhang, Phys. Rev. Lett. **69**, 152 (1992). * [48] I. Maggio-Aprile, Ch.
+Renner, A. Erb, E. Walker, and O Fischer, Phys. Rev. Lett. **75**, 2754
+(1995). * [49] P. I. Soininen, C. Kallin, and A. J. Berlinsky, Phys.
+Rev. B **50**, 13 883 (1994). * [50] N. Schopohl and K. Maki
+(unpublished). * [51] A. J. Berlinsky, A. L. Fetter, M. Franz, C.
+Kallin, and P. I. Soininen, Phys. Rev. Lett. **75**, 2200 (1995). * [52]
+B. Efron, _An Introduction to the Bootstrap_ (Chapman and Hall, New
+York, 1993). * [53] Y. Nakazawa and M. Ishikawa, Physica C **162-164**,
+83 (1989). * [54] B. Parks, S. Spielman, J. Orenstein, D. T. Nemeth, F.
+Ludwig, J. Clarke, P. Merchant, and D. J. Lew, Phys. Rev. Lett. **74**,
+3265 (1995). * [55] G. E. Volovik (unpublished). * [56] D. S. Dessau,
+Z.-X. Shen, D. M. King, D. S. Marshall, L. W. Lombardo, P. H. Dickinson,
+A. G. Loeser, J. DiCarlo, C.-H. Park, A. Kapitulnik, and W. E. Spicer,
+Phys. Rev. Lett. **71**, 2781 (1993). * [57] N. Momono, M. Ido, T.
+Nakano, M. Oda, Y. Okajima, and K. Yamaya, Physica C **233**, 395
+(1994). * [58] A. Ramirez, N. Stucheli, and E. Bucher, Phys. Rev. Lett.
+**74**, 1218 (1995). * [59] C. M. Varma (private communication). * [60]
+P. J. Hirschfeld and N. Goldenfeld, Phys. Rev. B **48**, 4219 (1993). *
+[61] P. J. Hirschfeld, W. O. Putikka, and D. J. Scalapino, Phys. Rev. B
+**50**, 10 250 (1994).

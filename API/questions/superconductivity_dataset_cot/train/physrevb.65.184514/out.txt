@@ -1,0 +1,287 @@
+
+
+# Magnetization and 11B NMR study of Mg1-_x_Al_B_2 superconductors
+
+M. Pissas
+
+Institute of Materials Science, NCSR, Demokritos, 153 10 Aghia Paraskevi, Athens, Greece
+
+G. Papavassiliou
+
+Institute of Materials Science, NCSR, Demokritos, 153 10 Aghia Paraskevi, Athens, Greece
+
+M. Karayanni
+
+Institute of Materials Science, NCSR, Demokritos, 153 10 Aghia Paraskevi, Athens, Greece
+
+M. Fardis
+
+Institute of Materials Science, NCSR, Demokritos, 153 10 Aghia Paraskevi, Athens, Greece
+
+I. Maurin
+
+School of Chemistry, Physics and Environmental Science, University of Sussex, Brighton BN1 9QJ, United Kingdom
+
+I. Margiolaki
+
+School of Chemistry, Physics and Environmental Science, University of Sussex, Brighton BN1 9QJ, United Kingdom
+
+K. Prassides
+
+Institute of Materials Science, NCSR, Demokritos, 153 10 Aghia Paraskevi, Athens, Greece School of Chemistry, Physics and Environmental Science, University of Sussex, Brighton BN1 9QJ, United Kingdom
+
+C. Christides
+
+Institute of Materials Science, NCSR, Demokritos, 153 10 Aghia Paraskevi, Athens, Greece School of Chemistry, Physics and Environmental Science, University of Sussex, Brighton BN1 9QJ, United Kingdom Department of Engineering Sciences, School of Engineering, University of Patras, 26110 Patras, Greece
+
+18 January 2002; revised manuscript received 27 February 2002; published 30 April 2002
+
+###### Abstract
+
+We demonstrate the magnetic-field distribution of the pure vortex state in lightly doped Mg1-_x_Al,B2 (_x_  0.025) powder samples, by using 11B nuclear magnetic resonance in magnetic fields of 23.5 and 47 kOe. The magnetic-field distribution at T = 5 K is Al-doping dependent, revealing a considerable decrease of anisotropy in respect to pure MgB2. This result correlates nicely with magnetization measurements and is consistent with _s_-band hole driven superconductivity for MgB2.
+
+pacs: 74.25.-q, 74.60.-w, 76.60.Es +
+Footnote †: preprint: PHYSICAL REVIEW B, VOLUME 65, 184514
+
++
+Footnote †: preprint: PHYSICAL REVIEW B, VOLUME 65, 184514
+
+## I Introduction
+
+The synthesis of MgB2 had been reported [1] in 1954 but only recently Nagamatsu _et al._[2] discovered that this compound is a superconductor with a surprisingly high _T_c ~ 39 K. At first it was suggested [3] that a BCS-type mechanism with strong electron-phonon coupling and high phonon energy of the light boron atoms can be responsible for the observed high _T_c. This is based on the observation of the isotope effect [4] on _T_c and a strong negative pressure coefficient [5] of _T_c. Alternatively, Hirsch [6] proposed a "universal" mechanism where superconductivity in MgB2 is driven by the pairing of dressed holes. Electronic band-structure calculations [7; 8; 9; 10] indicate that in MgB2 the charge carriers are situated in two bands derived from the s bonding _p_x,y-orbitals of boron, which are essentially two dimensional (_2D_), and in one electron and one hole bands derived from the _p_-bonding _p_z, orbitals of boron. Both, s and _p_z bands have strong in-plane dispersion due to the large overlap between all p orbitals of neighboring boron atoms. Despite some diversities in these models, there is a general agreement [11; 12; 3; 6; 7; 8; 13] that the key point for superconductivity in MgB2 is the _2D_s band of _p_z,y orbitals within the boron layers, and the delocalized metallic-type bonding between these layers. These calculations predict [7; 13; 14; 15] a strong anisotropy in the Fermi surface (and possibly in the electron-phonon coupling) that is consistent with the observed [16; 17] anisotropy in _H_c2. Specifically, the anisotropic ratio: g = _H_c2/_H_c2, was found [17; 18; 15] to be between 1.7 and 6, depending on the material and the experimental method.
+
+In view of this description, measurements on electron- or hole-doped MgB2 are of interest as they may help our understanding of how the electronic density of states and the Fermi surface depend on doping. Al substitution for Mg in Mg1-_x_Al,B2 provides [19; 20] a way for electron doping. The similarity of the calculated electronic density of states between MgB2 and AlB2 indicates that doping results in simple filling of the available electronic states, with one electron donated per Al [8; 9; 10]. A very first study of Al doped MgB2 has shown [19] that _T_c is slightly suppressed for x  0.1. However, band-structure calculations show [3] that there is a sharp drop in the density of states of MgB2 at only slightly higher electron concentrations. Suzuki _et al._[10] predict that in Mg1-_x_Al,B2 the concentration of s holes varies with x as _n_h = (0.8 - 1.4_x_) x 1022 cm-3, leading to _n_h = 0 for x  0.6. For 0.1 < x  0.25, a two phase mixture is formed, whereas for x > 0.25 a single nonsuperconducting phase is detected. The detrimental effect of doping on _T_c in Mg1-_x_Al,B2 can be explained within the BCS model, as it increases the Fermi energy (E_{F}) and decreases the density of states _N_(E_{F}). Besides, thermoelectric power and resistivity measurements show [21] that Mg1-_x_Al,B2 alloys are hole-type normal metals.
+
+In order to analyze trends associated with the band filling and their relation to loss of superconductivity, we have performed a detailed study of Mg1-_x_Al,B2 (0 <= x  0.1) using structural, magnetic, and 11B nuclear magnetic resonance (NMR) line-shape measurements. Complementary magnetic and NMR measurements reveal a decrease of anisotropy by slight Al doping relative to pure MgB2 samples, providing an experimental evidence about the effect of _s_-band hole filling in these superconductors.
+
+## II Experimental details
+
+Powder samples with nominal composition Mg1-_x_Al,B2 (0 <= x  1) were prepared by liquid vapor to solid reaction as described elsewhere. [22] Synchrotron x-ray powder-diffraction measurements were performed on Mg1-_x_Al,B2 samples, sealed in thin-wall glass capillaries, 0.5 mm in diameter, at 295 K. Images of the Debye-Scherrer rings were recorded on the 345-mm-diameter Mar Research circular image plate system on the BM1A beam line at the ESRF, Grenoble. A monochromatic x-ray beam of wavelength, l = 0.799 83 A and dimensions 0.5 x 0.5 mm2 was focused onto the sample by sagittal bending of the second crystal of the double-crystal Si(111) monochromator. Patterns were measured with sample-to-detector distance of 200 mm for periods of 10 s. During the data collection the sample was rotated about its axis by 10o. One-dimensional diffraction patterns were obtained by integrating around the rings using local software (program titled). dc-magnetization measurements were performed in a superconducting quantum interference device (SQUID) magnetometer (Quantum Design) under a magnetic field of H = 10 Oe. ^{11}B NMR line-shape measurements of the central transition (-1/2\rightarrow1/2) were performed on two spectrometers operating in external magnetic fields H_{\rm o} = 23.5 and 47 kOe. The spectra were obtained from the Fourier transform of half of the echo, following a typical \pi/2-\tau-\pi spin-echo pulse sequence.[23] The irradiation frequency was the same in all experiments. The spectral bandwidth around the irradiation frequency was \approx 150 kHz, which is enough to cover adequately the NMR signals at low temperatures.
+
+## III Results and Discussion
+
+### X-ray measurements
+
+Figure 1(a) shows parts of the x-ray diffraction patterns that reveal a clear splitting of the (002) reflection in Mg_{1.975}Al_{0.025}B_{2} whereas the Mg_{1.995}Al_{0.005}B_{2} is single phase sample. This implies the onset of macroscopic phase separation with increasing Al content.[20] A similar result has been reported[24] in C-doped MgB_{2}, where the carbon miscibility is also very small as well: x<0.04. For this reason we restrict our NMR study only to Mg_{1-x}Al_{x}B_{2} samples with x\ll0.025. The deduced lattice parameters are plotted in Fig. 1(b). For x<0.025, the c axis exhibits a negative slope: dc/dx\approx-0.2 A/at. % Al), whereas the in-plane a axis remains nearly constant. For x\approx 0.025, the coexisting phases differ mainly in their interlayer lattice constant.
+
+### Magnetic measurements
+
+Thermomagnetic measurements show that all the examined samples are superconductors, with their T_{c} decreasing quasilinearly with increasing Al content (dT_{c}/dx\approx-0.1 K/at. % Al). A steeper decrease of T_{c} is observed for x>0.1 and T_{c} becomes zero at x\approx 0.55. Figure 2 shows the reversible portion of the temperature dependence of the magnetization in various fields for x = 0.01. Contrary to the expected linear behavior, the M(T) curves exhibit a pronounced curvature nearby the T_{c2}(H) that is attributed[17, 18] to the anisotropy of MgB_{2}. The dot lines through the experimental points come from a simulation of the reversible magnetic moment using the equation[17]
+
+Figure 2: (a) (upper panel) Zero field and field cooling magnetic moment as a function of the temperature for 10\leqH\leq54 kOe for the powder Mg_{0.99}Al_{0.01}B_{2} sample used in NMR measurements. The dot lines are simulations of the reversible magnetic moment, using a \gamma\approx5.4 (see main text). (b) (middle panel) Isothermal magnetization loops in the reversible regime at 26\leqT\approx36 K for Mg_{0.99}Al_{0.01}B_{2}. (c) (lower panel) Variation of H_{c2}^{ab} as a function of temperature for the x = 0.01 sample. The solid line is a fit with a power-law relation H_{c2}^{ab}=H^{\ast}(1-T/T_{c})^{\nu} (H^{\ast}= 262\pm5 kOe, T_{c} = 37.9\pm 0.1 K, and \nu= 1.27\pm 0.02). For comparison the H_{c2}^{ab}(T) curve (thick solid line) of the x = 0 sample is included.
+
+Figure 1: (a) Synchrotron x-ray diffraction (\lambda = 0.79983 Å) profiles showing the (002), (101), and (100) reflections for the Mg_{1-x}Al_{x}B_{2} samples with x = 0.005 and 0.025. (b) Variation of the hexagonal unit-cell parameters of Mg_{1-x}Al_{x}B_{2} for 0\leqx\approx 0.025. Solid circles and squares correspond to the c and a axis of the Mg_{1-x}Al_{x}B_{2} phase, respectively. The corresponding open symbols for x = 0.025 are the cell constants of the second (Mg_{1-x}Al_{x}B_{2})^{\prime} phase (see main text).
+
+  \[4\,\pi M = - \frac{\Phi_{\rm o}}{8\,\pi\lambda(T)^{2}\beta_{A}\gamma^{1/3}\sqrt{ \gamma^{2}\!-\!1}}\Bigg{[}\frac{1-4\,h^{2}}{3\,h^{2}}\sqrt{1\!-\!h^{2}}\] (1) \[+ \ln\!\Bigg{(}\frac{1+\sqrt{1-h^{2}}}{h}\Bigg{)}\Bigg{]},\]
+
+where h\!=\!H/H_{\rm c2}^{ab}, \lambda\!=\!(\lambda_{ab}^{2}\lambda_{c})^{1/3} is the average penetration depth, \beta_{A}\!=\!1.16, \Phi_{\rm o} is the flux quantum, and \gamma\!=\!H_{c2}^{ab}/H_{\rm c2}^{c} is the anisotropy constant. To simulate the M(T) data we assume first, a power-law relation: H_{c2}^{ab}(T)\!=\!H^{*}(1-T/T_{c})^{\nu} (H^{*}\!=\!262\!\pm\!25 kOe, T_{c}\!=\!37.9\!\pm\!0.1 K, and a \nu\!=\!1.27\pm\!0.05), second, a \lambda\!\sim\!200 nm, and third, an anisotropy constant \gamma^{\sim}\!5.4.
+
+It is important to note that the power-law variation of H_{c2}^{ab} concerns only the region T\!\!>\!T_{c}/2. At lower temperatures the H_{c2}^{ab} exhibits a negative curvature [18] and approaches saturation at T\!=\!0 K at a value of about 140 kOe. Assuming that: H_{c2}^{ab} is about 140 kOe in both samples (x\!=\!0 and 0.01), with a \gamma\!=\!6 or 5.6, then the estimated H_{c2}^{c} will be 23.3 kOe and 25 kOe, respectively. Also, we find that the temperature dependence of H_{c2}^{ab} has the same functional form for x\!=\!0.01 and x\!=\!0 (i.e., the same exponent) whereas for x\!=\!0.01 the T_{c} and the H^{*} values are smaller by 0.7 K and 20 kOe respectively. Similarly, the M(H) data have been simulated by using the same \gamma and a temperature depended \lambda(T). In agreement with the NMR spectra (vide infra) for x\!=\!0.01, the deduced value of the anisotropy constant from magnetic measurements is _smaller than_ the anisotropy constant of pure MgB_{2} (\gamma\!\sim\!6). It is worth noting here that both, the pure and Al-doped samples were prepared with the same method. Thus, the obtained differences in \gamma cannot be attributed in the preparation method used. To cross-check the validity of the estimated \gamma values we have applied an alternative simulation method, [18] that was used by Bud'ko _et al._ in pure MgB_{2} powder samples, and we have obtained exactly the same values.
+
+### ^{11}B NMR measurements
+
+Generally, vortices at low temperature form a lattice in the mixed state of type-II superconductors, [25] generating a spatial field modulation that gives rise to a characteristic magnetic-field distribution f(H) with van Hove singularities. For a perfect vortex lattice the field distribution exhibits a peak at a value H_{s}, which corresponds to the saddle point located midway between two vortices, whereas two steps at the maximum (H_{\rm max}) and minimum (H_{\rm min}) fields are expected. [26, 27] Other studies have [27, 28] shown that the f(H) is reflected on NMR line shapes because the Larmor frequency of the resonating nuclei depends linearly on the local magnetic field. Thus, NMR is a very sensitive local probe of the spatially inhomogeneous magnetic field associated with the vortex state, [26, 27] which is formed in external magnetic fields H_{c1}\!<\!H_{\rm o}\!<\!H_{c2}. In case of strong anisotropy and in applied field H_{c2}^{c}\!<\!H_{\rm o}\!\!<\!H_{c2}^{ab}, a powder superconducting sample with randomly oriented grains is expected to give a superposition of magnetic-field distributions, ranging in between the normal state and the Abrikosov lattice. In a recent study [23] it was observed that the ^{11}B NMR line shapes in pure MgB_{2} remain unchanged down to the temperature of the second critical field T_{c2} whereas for T\!\!<\!T_{c2}, a second peak develops at lower frequencies. The intensity ratio of this second peak to the unshifted high-T peak was observed to increase in field H_{\rm o}\!=\!23.5 kOe when compared [23] with that in field H_{\rm o} = 47 kOe. A direct comparison of the NMR line shapes with dc-magnetic measurements, that reveal the temperature dependence of H_{c2}^{ab} and H_{c2}^{c}, has shown that the frequency position and the shape of the low-frequency peak follows the development of the vortex lattice as a function of temperature. [23] Since in pure MgB_{2}, H_{c2}^{ab}\!\approx\!140 kOe, [15, 17] this was explained by considering that a part of the grains remains in the normal state (unshifted peak) down to the lowest measured temperature T\!=\!5 K when H_{c2}^{c}\!\!<\!H_{\rm o}<\!H_{\rm o}^{ab}.
+
+Figure 3 shows the ^{11}B NMR line shapes for x\!=\!0.01 in 23.5 kOe as a function of temperature. As in MgB_{2} spectra, [23] the line shapes in the normal state are temperature independent. For T\!\!\approx\!30 K the vortex lattice is formed, inducing a gradual shift of the peak frequency (corresponding to H_{s}) that creates the characteristic asymmetric broadening of the NMR frequency distribution as expected from the vortex lattice only. [26] Remarkably, the normal-state signal component disappears in the mixed superconducting state by light Al doping, and only the pure vortex lattice signal is present. This effect indicates an enhancement (relative to pure MgB_{2}) of H_{c2}^{c} above 23.5 kOe by Al doping, which gives rise to the pure superconducting state at low temperatures. At T\!\!=\!5 K the shift of H_{s} from the field H_{\rm o} in the normal state is about 50 Oe. However, the expected [29] sharp singularities in the field distribution function f(H) of the vortex lattice are smeared out in our NMR spectra because we measure an anisotropic polycrystalline sample. Thus, we cannot
+
+Figure 3: ^{11}B NMR line shapes as a function of temperature for MgB_{0.99}Al_{0.01}B_{2} under a magnetic field H\!=\!23.5 kOe. Each spectrum is normalized to its maximum intensity for clarity.
+
+  estimate[28] whether a square or triangular type of vortex lattice is formed.
+
+Figure 4 shows NMR spectra at T = 5 K in _H_o = 23.5 kOe for Mg_{1-x}Al_{x}B_{2} (0 \leqx\leq 0.025). At T = 300 K the NMR spectra are essentially identical for 0 \leqx\leq 0.2. Since the cell constants change slightly in this concentration region, the observed similarity in the NMR spectra indicates that the induced line shape is resolution limited. At T = 5 K all the samples are in the mixed state and the line shape reflects the magnetic-field distribution from the vortex lattice. Remarkably, the line shapes depend on x. As discussed above for the x = 0 system, the observed line shape is the result of the anisotropy. Hence, the disappearance of the normal-state signal component and the variation of the vortex state signal with x can be explained by assuming that the anisotropy decreases with Al doping. For comparison we have scaled the signal intensity of the x = 0.005 system under the low-frequency tail of pure MgB_{2} in Fig. 4. Apparently there is an excellent matching of the two signals, providing clear experimental evidence that this shoulder corresponds to the magnetic-field distribution of the vortex state. Thus, it becomes evident that even for x = 0.005 the component from the normal-state signal disappears. We also notice that for x \geq 0.025 the line shape changes drastically. This can be explained by considering that either the anisotropy starts to increase abruptly or the particular line shape is associated with the onset of phase separation at this composition. Figure 5 shows the dependence of the NMR spectra on Al doping for Mg_{1-x}Al_{x}B_{2} (0 \leqx\leq 0.025), at T = 5 K and _H_o = 47 kOe. Contrary to Fig. 4, in all samples the line shapes exhibit a low-frequency tail and an unshifted peak, corresponding to coexisting vortex and normal-state components. This indicates that 3.2\leqy\leq6.4 (e.g., for x = 0.01 sample) by considering H_{c2}^{ab}_{2}\approx 140 kOe.
+
+Results of Knight shift and nuclear spin-lattice relaxation rates (1/_T_1) for ^{25}Mg, ^{11}B, and ^{27}Al nuclei were reported for MgB_{2}, \DeltaB_{2}, and (Mg_{1-x}Al_{x})B_{2} powder samples.[30, 31, 32, 33] The comparison of the data in the two compounds shows the dramatic drop of the density of states at the boron site[32, 33] in AlB_{2} and (Mg_{1-x}Al_{x})B_{2} with respect to MgB_{2}. In addition, the discrepancies in the results of 1/_T_1 below _T_c , reported by different authors, can be explained[32] by the strong anisotropy of the upper critical field in MgB_{2}. In this study the observed decrease of anisotropy, by substituting Al for Mg, can be attributed to the progressive electron filling of the \sigma bands with increasing x, which reduces the anisotropy of the boron \rho states. It is worth noting that we could not estimate the absolute anisotropy constant, but we have found that the anisotropy in Al-doped samples is smaller than the value of the x = 0 sample. In the microscopic theory the anisotropy parameter is given[34] by \gamma^{2}= \left\langle\Delta({\bf k}_{F})\upsilon_{ab}^{2}\right\rangle/\left\langle\Delta({\bf k}_{F})\upsilon_{c}^{2}\right\rangle, where \upsilon_{i} are the Fermi velocities and \left\langle\cdots\right\rangle stands for Fermi-surface averages. When the ratio \left\langle\upsilon_{ab}^{2}\right\rangle/\left\langle\upsilon_{c}^{2}\right\rangle is averaged over the entire Fermi surface for MgB_{2} it is close to unity,[3, 18] which means a strong anisotropy of \Delta({\bf k}_{F}). Following the arguments of Bud'ko _et al._,[18] the electron-phonon interaction is particularly strong on the Fermi-surface sheets that are shaped as slightly distorted cylinders along the _c_-axis crystal direction. If the gap \Delta on the remaining Fermi-surface sheets is negligible, the reduction of the anisotropy could originate from the reduction of the \sigma holes, as mentioned above.
+
+## IV Conclusion
+
+In conclusion, we show the magnetic-field distribution in the pure vortex state of lightly doped Mg_{1-x}Al_{x}B_{2} by using ^{11}B NMR line-shape measurements. Our NMR and magnetization data reveal that substitution of Al for Mg reduces the anisotropy substantially. According to current theoretical
+
+Figure 4: ^{11}B NMR line shapes of Mg_{1-x}Al_{x}B_{2} for 0.0\leq_x_ \approx 0.025 at T = 5 K in a field _H_o = 23.5 kOe. Each spectrum is normalized to its maximum intensity for clarity.
+
+  models this behavior can be explained only if we consider a reduction of the \sigma holes. We argue that our results provide an experimental basis for further theoretical investigations concerning the important role of p_{x,y} orbitals (which form the 2D\sigma-holes band) in the superconductivity of MgB_{2}.
+
+###### Acknowledgements.
+
+ We thank the ESRF for provision of synchrotron x-ray beamtime and P. Pattison and I. A. Beukes for help with the experiments.
+
+## References
+
+* [1] M. Jones and R. March, J. Am. Chem. Soc. **76**, 1434 (1954).
+* [2] J. Nagamatsu, N. Nakagawa, Y. Z. Murakana, and J. Akimitsu, Nature (London) **410**, 63 (2001); C. Buzea and T. Yamashita, Supercond. Sci. Technol. **14**, R115 (2001) (for a recent review).
+* [3] J. Kortus, I. I. Mazin, K. D. Belashchenko, V. P. Antropov, and L. L. Boyer, Phys. Rev. Lett. **86**, 4656 (2001).
+* [4] S. L. Bud'ko, G. Lapertot, C. Petrovic, C. E. Cunningham, N. Anderson, and P. C. Canfield, Phys. Rev. Lett. **86**, 1877 (2001); D. G. Hinks, H. Claus, and J. D. Jorgensen, Nature (London) **411**, 457 (2001).
+* [5] K. Prassides, Y. Iwasa, T. Ito, Dam. H. Chi, K. Uehara, E. Nishibori, M. Takata, M. Sakata, Y. Ohishi, O. Shimomura, T. Muranaka, and J. Akimitsu, Phys. Rev. B **64**, 012509 (2001); B. Lorenz, R. L. Meng, and C. W. Chu, _ibid._**64**, 012507 (2001).
+* [6] J. E. Hirsch and F. Marsiglio, Phys. Rev. B **64**, 144523 (2001).
+* [7] J. M. An and W. E. Pickett, Phys. Rev. Lett. **86**, 4366 (2001).
+* [8] K. D. Belashchenko, M. van Schilfgaarde, and V. P. Antropov, Phys. Rev. B **64**, 092503 (2001); K. D. Belashchenko, V. P. Antropov, and S. N. Rashkew, _ibid._**64**, 132506 (2001).
+* [9] G. Satta, G. Profeta, F. Bernardini, A. Continenza, and S. Massidda, Phys. Rev. B **64**, 104507 (2001).
+* [10] S. Suzuki, S. Higai, and K. Nakao, J. Phys. Soc. Jpn. **70**, 1206 (2001).
+* [11] Y. Kong, O. V. Dolgov, O. Jepsen, and O. K. Andersen, Phys. Rev. B **64**, 020501(R) (2001).
+* [12] P. P. Singh, Phys. Rev. Lett. **87**, 087004 (2001).
+* [13] Y. Wang, T. Plackowski, and A. Junod, Physica C **355**, 179 (2001).
+* [14] F. Bouquet, R. A. Fisher, N. E. Phillips, D. G. Hinks, and J. D. Jorgensen, Phys. Rev. Lett. **87**, 047001 (2001).
+* [15] O. F. de Lima, R. A. Ribeiro, M. A. Avila, C. A. Cardoso, and A. A. Coelho, Phys. Rev. Lett. **86**, 5974 (2001); S. Lee, H. Mori, T. Masui, Y. Eltsev, A. Yamamoto, and S. Tajima, J. Phys. Soc. Jpn. **70**, 2255 (2001); M. Xu, H. Kitazawa, Y. Takano, J. Ye, K. Nishida, H. Abe, A. Matsushita, N. Tsujii, and G. Kido, Appl. Phys. Lett. **79**, 2779 (2001).
+* [16] S. Patnaik, L. D. Cooley, A. Gurevich, A. A. Polyanskii, J. Jiang, X. Y. Cai, A. A. Squitieri, M. T. Naus, M. K. Lee, J. H. Choi, L. Belenky, S. D. Bu, J. Letteri, X. Song, D. G. Schlom, S. E. Babcock, C. B. Eom, E. E. Hellstrom, and D. C. Larbalestier, Supercond. Sci. Technol. **14**, 315 (2001).
+* [17] F. Simon, A. Janossy, T. Feher, F. Muranyi, S. Garaj, L. Forro, C. Petrovic, S. L. Bud'ko, G. Lapertot, V. G. Kogan, and P. C. Canfield, Phys. Rev. Lett. **87**, 047002 (2001).
+* [18] S. L. Bud'ko, V. G. Kogan, and P. C. Canfield, Phys. Rev. B **64**, 180506 (2001); S. L. Bud'ko, _et al._, cond-mat/0201085, Phys. Rev. B (to be published).
+* [19] J. S. Slusky, N. Rogado, K. A. Regan, M. A. Hayward, P. Khalifah, T. He, K. Inumaru, S. M. Loureiro, M. K. Haas, H. W. Zandbergen, and R. J. Cava, Nature (London) **410**, 343 (2001).
+* [20] J. Y. Xiang, D. N. Zheng, J. Q. Li, L. Li, P. L. Lang, H. Chen, C. Dong, G. C. Che, Z. A. Ren, H. H. Qi, H. Y. Tian, Y. M. Ni, and Z. X. Zhao, cond-mat/0104366 (unpublished); J. Q. Li, L. Li, F. M. Liu, C. Dong, J. Y. Xiang, and Z. X. Zhao, Phys. Rev. B **65**, 132505 (2002); H. W. Zandbergen, M. T. Wu, H. Jiang, M. A. Hayward, M. K. Haas, and R. J. Cava, Physica C **366**, 221 (2002).
+* [21] B. Lorenz, R. L. Meng, Y. Y. Xue, and C. W. Chu, Phys. Rev. B **64**, 052513 (2001).
+* [22] M. Pissas, E. Moraitakis, D. Stamopoulos, G. Papavassiliou, V. Psycharis, and S. Koutandos, J. Supercond. **14**, 615 (2001).
+* [23] G. Papavassiliou, M. Pissas, M. Fardis, M. Karayanni, and C. Christides, Phys. Rev. B **65**, 012510 (2002).
+* [24] T. Takenobu, T. Ito, D. H. Chi, K. Prassides, and Y. Iwasa, Phys. Rev. B **64**, 134513 (2001); I. Maurin _et al._, Physica B (to be published).
+* [25] E. H. Brandt, Physica C **369**, 10 (2002).
+* [26] E. H. Brandt and A. Seeger, Adv. Phys. **35**, 189 (1986).
+* [27] W. Fite and A. G. Redfield, Phys. Rev. Lett. **17**, 381 (1966).
+* [28] K. H. Lee, B. J. Mean, G. S. Go, S. W. Seo, K. S. Han, D. H. Kim, H. Lee, B. K. Cho, and S. I. Lee, Phys. Rev. B **62**, 123 (2000).
+* [29] A. Rigamonti, F. Borsa, and P. Carretta, Rep. Prog. Phys. **61**, 1367 (1998), see Fig. 4.
+* [30] M. Mali, J. Roos, A. Shengelaya, H. Keller, and K. Conder, Phys. Rev. B **65**, 100518 (2002).
+* [31] J. K. Jung, S. H. Baek, F. Borsa, S. L. Bud'ko, G. Lapertot, and P. C. Canfield, Phys. Rev. B **64**, 012514 (2001).
+* [32] S. H. Baek, B. J. Suh, E. Pavarini, F. Borsa, R. G. Barnes, S. L. Bud'ko, and P. C. Canfield, cond-mat/0201450 (unpublished).
+* [33] H. Kotegawa, K. Ishida, Y. Kitaoka, T. Muranaka, N. Nakagawa, H. Takagiwa, and J. Akimitsu, cond-mat/0201578 (unpublished).
+* [34] L. P. Gor'kov and T. K. Melik-Barkhudarov, Zh. Eksp. Teor. Fiz. **45**, 1493 (1963) [Sov. Phys. JETP **18**, 1031 (1964)].
+
+ 
+
+# Magnetization and 11B NMR study of Mg1-_x_Al_B_2 superconductors
+
+M. Pissas
+
+Institute of Materials Science, NCSR, Demokritos, 153 10 Aghia Paraskevi, Athens, Greece
+
+G. Papavassiliou
+
+Institute of Materials Science, NCSR, Demokritos, 153 10 Aghia Paraskevi, Athens, Greece
+
+M. Karayanni
+
+Institute of Materials Science, NCSR, Demokritos, 153 10 Aghia Paraskevi, Athens, Greece
+
+M. Fardis
+
+Institute of Materials Science, NCSR, Demokritos, 153 10 Aghia Paraskevi, Athens, Greece
+
+I. Maurin
+
+School of Chemistry, Physics and Environmental Science, University of Sussex, Brighton BN1 9QJ, United Kingdom
+
+I. Margiolaki
+
+School of Chemistry, Physics and Environmental Science, University of Sussex, Brighton BN1 9QJ, United Kingdom
+
+K. Prassides
+
+Institute of Materials Science, NCSR, Demokritos, 153 10 Aghia Paraskevi, Athens, Greece School of Chemistry, Physics and Environmental Science, University of Sussex, Brighton BN1 9QJ, United Kingdom
+
+C. Christides
+
+Institute of Materials Science, NCSR, Demokritos, 153 10 Aghia Paraskevi, Athens, Greece School of Chemistry, Physics and Environmental Science, University of Sussex, Brighton BN1 9QJ, United Kingdom Department of Engineering Sciences, School of Engineering, University of Patras, 26110 Patras, Greece
+
+18 January 2002; revised manuscript received 27 February 2002; published 30 April 2002
+
+###### Abstract
+
+We demonstrate the magnetic-field distribution of the pure vortex state in lightly doped Mg1-_x_Al,B2 (_x_  0.025) powder samples, by using 11B nuclear magnetic resonance in magnetic fields of 23.5 and 47 kOe. The magnetic-field distribution at T = 5 K is Al-doping dependent, revealing a considerable decrease of anisotropy in respect to pure MgB2. This result correlates nicely with magnetization measurements and is consistent with _s_-band hole driven superconductivity for MgB2.
+
+pacs: 74.25.-q, 74.60.-w, 76.60.Es +
+Footnote †: preprint: PHYSICAL REVIEW B, VOLUME 65, 184514
+
++
+Footnote †: preprint: PHYSICAL REVIEW B, VOLUME 65, 184514
+
+## I Introduction
+
+The synthesis of MgB2 had been reported [1] in 1954 but only recently Nagamatsu _et al._[2] discovered that this compound is a superconductor with a surprisingly high _T_c ~ 39 K. At first it was suggested [3] that a BCS-type mechanism with strong electron-phonon coupling and high phonon energy of the light boron atoms can be responsible for the observed high _T_c. This is based on the observation of the isotope effect [4] on _T_c and a strong negative pressure coefficient [5] of _T_c. Alternatively, Hirsch [6] proposed a "universal" mechanism where superconductivity in MgB2 is driven by the pairing of dressed holes. Electronic band-structure calculations [7; 8; 9; 10] indicate that in MgB2 the charge carriers are situated in two bands derived from the s bonding _p_x,y-orbitals of boron, which are essentially two dimensional (_2D_), and in one electron and one hole bands derived from the _p_-bonding _p_z, orbitals of boron. Both, s and _p_z bands have strong in-plane dispersion due to the large overlap between all p orbitals of neighboring boron atoms. Despite some diversities in these models, there is a general agreement [11; 12; 3; 6; 7; 8; 13] that the key point for superconductivity in MgB2 is the _2D_s band of _p_z,y orbitals within the boron layers, and the delocalized metallic-type bonding between these layers. These calculations predict [7; 13; 14; 15] a strong anisotropy in the Fermi surface (and possibly in the electron-phonon coupling) that is consistent with the observed [16; 17] anisotropy in _H_c2. Specifically, the anisotropic ratio: g = _H_c2/_H_c2, was found [17; 18; 15] to be between 1.7 and 6, depending on the material and the experimental method.
+
+In view of this description, measurements on electron- or hole-doped MgB2 are of interest as they may help our understanding of how the electronic density of states and the Fermi surface depend on doping. Al substitution for Mg in Mg1-_x_Al,B2 provides [19; 20] a way for electron doping. The similarity of the calculated electronic density of states between MgB2 and AlB2 indicates that doping results in simple filling of the available electronic states, with one electron donated per Al [8; 9; 10]. A very first study of Al doped MgB2 has shown [19] that _T_c is slightly suppressed for x  0.1. However, band-structure calculations show [3] that there is a sharp drop in the density of states of MgB2 at only slightly higher electron concentrations. Suzuki _et al._[10] predict that in Mg1-_x_Al,B2 the concentration of s holes varies with x as _n_h = (0.8 - 1.4_x_) x 1022 cm-3, leading to _n_h = 0 for x  0.6. For 0.1 < x  0.25, a two phase mixture is formed, whereas for x > 0.25 a single nonsuperconducting phase is detected. The detrimental effect of doping on _T_c in Mg1-_x_Al,B2 can be explained within the BCS model, as it increases the Fermi energy (E_{F}) and decreases the density of states _N_(E_{F}). Besides, thermoelectric power and resistivity measurements show [21] that Mg1-_x_Al,B2 alloys are hole-type normal metals.
+
+In order to analyze trends associated with the band filling and their relation to loss of superconductivity, we have performed a detailed study of Mg1-_x_Al,B2 (0 <= x  0.1) using structural, magnetic, and 11B nuclear magnetic resonance (NMR) line-shape measurements. Complementary magnetic and NMR measurements reveal a decrease of anisotropy by slight Al doping relative to pure MgB2 samples, providing an experimental evidence about the effect of _s_-band hole filling in these superconductors.
+
+## II Experimental details
+
+Powder samples with nominal composition Mg1-_x_Al,B2 (0 <= x  1) were prepared by liquid vapor to solid reaction as described elsewhere. [22] Synchrotron x-ray powder-diffraction measurements were performed on Mg1-_x_Al,B2 samples, sealed in thin-wall glass capillaries, 0.5 mm in diameter, at 295 K. Images of the Debye-Scherrer rings were recorded on the 345-mm-diameter Mar Research circular image plate system on the BM1A beam line at the ESRF, Grenoble. A monochromatic x-ray beam of wavelength, l = 0.799 83 A and dimensions 0.5 x 0.5 mm2 was focused onto the sample by sagittal bending of the second crystal of the double-crystal Si(111) monochromator. Patterns were measured with sample-to-detector distance of 200 mm for periods of 10 s. During the data collection the sample was rotated about its axis by 10o. One-dimensional diffraction patterns were obtained by integrating around the rings using local software (program titled). dc-magnetization measurements were performed in a superconducting quantum interference device (SQUID) magnetometer (Quantum Design) under a magnetic field of H = 10 Oe. ^{11}B NMR line-shape measurements of the central transition (-1/2\rightarrow1/2) were performed on two spectrometers operating in external magnetic fields H_{\rm o} = 23.5 and 47 kOe. The spectra were obtained from the Fourier transform of half of the echo, following a typical \pi/2-\tau-\pi spin-echo pulse sequence.[23] The irradiation frequency was the same in all experiments. The spectral bandwidth around the irradiation frequency was \approx 150 kHz, which is enough to cover adequately the NMR signals at low temperatures.
+
+## III Results and Discussion
+
+### X-ray measurements
+
+Figure 1(a) shows parts of the x-ray diffraction patterns that reveal a clear splitting of the (002) reflection in Mg_{1.975}Al_{0.025}B_{2} whereas the Mg_{1.995}Al_{0.005}B_{2} is single phase sample. This implies the onset of macroscopic phase separation with increasing Al content.[20] A similar result has been reported[24] in C-doped MgB_{2}, where the carbon miscibility is also very small as well: x<0.04. For this reason we restrict our NMR study only to Mg_{1-x}Al_{x}B_{2} samples with x\ll0.025. The deduced lattice parameters are plotted in Fig. 1(b). For x<0.025, the c axis exhibits a negative slope: dc/dx\approx-0.2 A/at. % Al), whereas the in-plane a axis remains nearly constant. For x\approx 0.025, the coexisting phases differ mainly in their interlayer lattice constant.
+
+### Magnetic measurements
+
+Thermomagnetic measurements show that all the examined samples are superconductors, with their T_{c} decreasing quasilinearly with increasing Al content (dT_{c}/dx\approx-0.1 K/at. % Al). A steeper decrease of T_{c} is observed for x>0.1 and T_{c} becomes zero at x\approx 0.55. Figure 2 shows the reversible portion of the temperature dependence of the magnetization in various fields for x = 0.01. Contrary to the expected linear behavior, the M(T) curves exhibit a pronounced curvature nearby the T_{c2}(H) that is attributed[17, 18] to the anisotropy of MgB_{2}. The dot lines through the experimental points come from a simulation of the reversible magnetic moment using the equation[17]
+
+Figure 2: (a) (upper panel) Zero field and field cooling magnetic moment as a function of the temperature for 10\leqH\leq54 kOe for the powder Mg_{0.99}Al_{0.01}B_{2} sample used in NMR measurements. The dot lines are simulations of the reversible magnetic moment, using a \gamma\approx5.4 (see main text). (b) (middle panel) Isothermal magnetization loops in the reversible regime at 26\leqT\approx36 K for Mg_{0.99}Al_{0.01}B_{2}. (c) (lower panel) Variation of H_{c2}^{ab} as a function of temperature for the x = 0.01 sample. The solid line is a fit with a power-law relation H_{c2}^{ab}=H^{\ast}(1-T/T_{c})^{\nu} (H^{\ast}= 262\pm5 kOe, T_{c} = 37.9\pm 0.1 K, and \nu= 1.27\pm 0.02). For comparison the H_{c2}^{ab}(T) curve (thick solid line) of the x = 0 sample is included.
+
+Figure 1: (a) Synchrotron x-ray diffraction (\lambda = 0.79983 Å) profiles showing the (002), (101), and (100) reflections for the Mg_{1-x}Al_{x}B_{2} samples with x = 0.005 and 0.025. (b) Variation of the hexagonal unit-cell parameters of Mg_{1-x}Al_{x}B_{2} for 0\leqx\approx 0.025. Solid circles and squares correspond to the c and a axis of the Mg_{1-x}Al_{x}B_{2} phase, respectively. The corresponding open symbols for x = 0.025 are the cell constants of the second (Mg_{1-x}Al_{x}B_{2})^{\prime} phase (see main text).
+
+  \[4\,\pi M = - \frac{\Phi_{\rm o}}{8\,\pi\lambda(T)^{2}\beta_{A}\gamma^{1/3}\sqrt{ \gamma^{2}\!-\!1}}\Bigg{[}\frac{1-4\,h^{2}}{3\,h^{2}}\sqrt{1\!-\!h^{2}}\] (1) \[+ \ln\!\Bigg{(}\frac{1+\sqrt{1-h^{2}}}{h}\Bigg{)}\Bigg{]},\]
+
+where h\!=\!H/H_{\rm c2}^{ab}, \lambda\!=\!(\lambda_{ab}^{2}\lambda_{c})^{1/3} is the average penetration depth, \beta_{A}\!=\!1.16, \Phi_{\rm o} is the flux quantum, and \gamma\!=\!H_{c2}^{ab}/H_{\rm c2}^{c} is the anisotropy constant. To simulate the M(T) data we assume first, a power-law relation: H_{c2}^{ab}(T)\!=\!H^{*}(1-T/T_{c})^{\nu} (H^{*}\!=\!262\!\pm\!25 kOe, T_{c}\!=\!37.9\!\pm\!0.1 K, and a \nu\!=\!1.27\pm\!0.05), second, a \lambda\!\sim\!200 nm, and third, an anisotropy constant \gamma^{\sim}\!5.4.
+
+It is important to note that the power-law variation of H_{c2}^{ab} concerns only the region T\!\!>\!T_{c}/2. At lower temperatures the H_{c2}^{ab} exhibits a negative curvature [18] and approaches saturation at T\!=\!0 K at a value of about 140 kOe. Assuming that: H_{c2}^{ab} is about 140 kOe in both samples (x\!=\!0 and 0.01), with a \gamma\!=\!6 or 5.6, then the estimated H_{c2}^{c} will be 23.3 kOe and 25 kOe, respectively. Also, we find that the temperature dependence of H_{c2}^{ab} has the same functional form for x\!=\!0.01 and x\!=\!0 (i.e., the same exponent) whereas for x\!=\!0.01 the T_{c} and the H^{*} values are smaller by 0.7 K and 20 kOe respectively. Similarly, the M(H) data have been simulated by using the same \gamma and a temperature depended \lambda(T). In agreement with the NMR spectra (vide infra) for x\!=\!0.01, the deduced value of the anisotropy constant from magnetic measurements is _smaller than_ the anisotropy constant of pure MgB_{2} (\gamma\!\sim\!6). It is worth noting here that both, the pure and Al-doped samples were prepared with the same method. Thus, the obtained differences in \gamma cannot be attributed in the preparation method used. To cross-check the validity of the estimated \gamma values we have applied an alternative simulation method, [18] that was used by Bud'ko _et al._ in pure MgB_{2} powder samples, and we have obtained exactly the same values.
+
+### ^{11}B NMR measurements
+
+Generally, vortices at low temperature form a lattice in the mixed state of type-II superconductors, [25] generating a spatial field modulation that gives rise to a characteristic magnetic-field distribution f(H) with van Hove singularities. For a perfect vortex lattice the field distribution exhibits a peak at a value H_{s}, which corresponds to the saddle point located midway between two vortices, whereas two steps at the maximum (H_{\rm max}) and minimum (H_{\rm min}) fields are expected. [26, 27] Other studies have [27, 28] shown that the f(H) is reflected on NMR line shapes because the Larmor frequency of the resonating nuclei depends linearly on the local magnetic field. Thus, NMR is a very sensitive local probe of the spatially inhomogeneous magnetic field associated with the vortex state, [26, 27] which is formed in external magnetic fields H_{c1}\!<\!H_{\rm o}\!<\!H_{c2}. In case of strong anisotropy and in applied field H_{c2}^{c}\!<\!H_{\rm o}\!\!<\!H_{c2}^{ab}, a powder superconducting sample with randomly oriented grains is expected to give a superposition of magnetic-field distributions, ranging in between the normal state and the Abrikosov lattice. In a recent study [23] it was observed that the ^{11}B NMR line shapes in pure MgB_{2} remain unchanged down to the temperature of the second critical field T_{c2} whereas for T\!\!<\!T_{c2}, a second peak develops at lower frequencies. The intensity ratio of this second peak to the unshifted high-T peak was observed to increase in field H_{\rm o}\!=\!23.5 kOe when compared [23] with that in field H_{\rm o} = 47 kOe. A direct comparison of the NMR line shapes with dc-magnetic measurements, that reveal the temperature dependence of H_{c2}^{ab} and H_{c2}^{c}, has shown that the frequency position and the shape of the low-frequency peak follows the development of the vortex lattice as a function of temperature. [23] Since in pure MgB_{2}, H_{c2}^{ab}\!\approx\!140 kOe, [15, 17] this was explained by considering that a part of the grains remains in the normal state (unshifted peak) down to the lowest measured temperature T\!=\!5 K when H_{c2}^{c}\!\!<\!H_{\rm o}<\!H_{\rm o}^{ab}.
+
+Figure 3 shows the ^{11}B NMR line shapes for x\!=\!0.01 in 23.5 kOe as a function of temperature. As in MgB_{2} spectra, [23] the line shapes in the normal state are temperature independent. For T\!\!\approx\!30 K the vortex lattice is formed, inducing a gradual shift of the peak frequency (corresponding to H_{s}) that creates the characteristic asymmetric broadening of the NMR frequency distribution as expected from the vortex lattice only. [26] Remarkably, the normal-state signal component disappears in the mixed superconducting state by light Al doping, and only the pure vortex lattice signal is present. This effect indicates an enhancement (relative to pure MgB_{2}) of H_{c2}^{c} above 23.5 kOe by Al doping, which gives rise to the pure superconducting state at low temperatures. At T\!\!=\!5 K the shift of H_{s} from the field H_{\rm o} in the normal state is about 50 Oe. However, the expected [29] sharp singularities in the field distribution function f(H) of the vortex lattice are smeared out in our NMR spectra because we measure an anisotropic polycrystalline sample. Thus, we cannot
+
+Figure 3: ^{11}B NMR line shapes as a function of temperature for MgB_{0.99}Al_{0.01}B_{2} under a magnetic field H\!=\!23.5 kOe. Each spectrum is normalized to its maximum intensity for clarity.
+
+  estimate[28] whether a square or triangular type of vortex lattice is formed.
+
+Figure 4 shows NMR spectra at T = 5 K in _H_o = 23.5 kOe for Mg_{1-x}Al_{x}B_{2} (0 \leqx\leq 0.025). At T = 300 K the NMR spectra are essentially identical for 0 \leqx\leq 0.2. Since the cell constants change slightly in this concentration region, the observed similarity in the NMR spectra indicates that the induced line shape is resolution limited. At T = 5 K all the samples are in the mixed state and the line shape reflects the magnetic-field distribution from the vortex lattice. Remarkably, the line shapes depend on x. As discussed above for the x = 0 system, the observed line shape is the result of the anisotropy. Hence, the disappearance of the normal-state signal component and the variation of the vortex state signal with x can be explained by assuming that the anisotropy decreases with Al doping. For comparison we have scaled the signal intensity of the x = 0.005 system under the low-frequency tail of pure MgB_{2} in Fig. 4. Apparently there is an excellent matching of the two signals, providing clear experimental evidence that this shoulder corresponds to the magnetic-field distribution of the vortex state. Thus, it becomes evident that even for x = 0.005 the component from the normal-state signal disappears. We also notice that for x \geq 0.025 the line shape changes drastically. This can be explained by considering that either the anisotropy starts to increase abruptly or the particular line shape is associated with the onset of phase separation at this composition. Figure 5 shows the dependence of the NMR spectra on Al doping for Mg_{1-x}Al_{x}B_{2} (0 \leqx\leq 0.025), at T = 5 K and _H_o = 47 kOe. Contrary to Fig. 4, in all samples the line shapes exhibit a low-frequency tail and an unshifted peak, corresponding to coexisting vortex and normal-state components. This indicates that 3.2\leqy\leq6.4 (e.g., for x = 0.01 sample) by considering H_{c2}^{ab}_{2}\approx 140 kOe.
+
+Results of Knight shift and nuclear spin-lattice relaxation rates (1/_T_1) for ^{25}Mg, ^{11}B, and ^{27}Al nuclei were reported for MgB_{2}, \DeltaB_{2}, and (Mg_{1-x}Al_{x})B_{2} powder samples.[30, 31, 32, 33] The comparison of the data in the two compounds shows the dramatic drop of the density of states at the boron site[32, 33] in AlB_{2} and (Mg_{1-x}Al_{x})B_{2} with respect to MgB_{2}. In addition, the discrepancies in the results of 1/_T_1 below _T_c , reported by different authors, can be explained[32] by the strong anisotropy of the upper critical field in MgB_{2}. In this study the observed decrease of anisotropy, by substituting Al for Mg, can be attributed to the progressive electron filling of the \sigma bands with increasing x, which reduces the anisotropy of the boron \rho states. It is worth noting that we could not estimate the absolute anisotropy constant, but we have found that the anisotropy in Al-doped samples is smaller than the value of the x = 0 sample. In the microscopic theory the anisotropy parameter is given[34] by \gamma^{2}= \left\langle\Delta({\bf k}_{F})\upsilon_{ab}^{2}\right\rangle/\left\langle\Delta({\bf k}_{F})\upsilon_{c}^{2}\right\rangle, where \upsilon_{i} are the Fermi velocities and \left\langle\cdots\right\rangle stands for Fermi-surface averages. When the ratio \left\langle\upsilon_{ab}^{2}\right\rangle/\left\langle\upsilon_{c}^{2}\right\rangle is averaged over the entire Fermi surface for MgB_{2} it is close to unity,[3, 18] which means a strong anisotropy of \Delta({\bf k}_{F}). Following the arguments of Bud'ko _et al._,[18] the electron-phonon interaction is particularly strong on the Fermi-surface sheets that are shaped as slightly distorted cylinders along the _c_-axis crystal direction. If the gap \Delta on the remaining Fermi-surface sheets is negligible, the reduction of the anisotropy could originate from the reduction of the \sigma holes, as mentioned above.
+
+## IV Conclusion
+
+In conclusion, we show the magnetic-field distribution in the pure vortex state of lightly doped Mg_{1-x}Al_{x}B_{2} by using ^{11}B NMR line-shape measurements. Our NMR and magnetization data reveal that substitution of Al for Mg reduces the anisotropy substantially. According to current theoretical
+
+Figure 4: ^{11}B NMR line shapes of Mg_{1-x}Al_{x}B_{2} for 0.0\leq_x_ \approx 0.025 at T = 5 K in a field _H_o = 23.5 kOe. Each spectrum is normalized to its maximum intensity for clarity.
+
+  models this behavior can be explained only if we consider a reduction of the \sigma holes. We argue that our results provide an experimental basis for further theoretical investigations concerning the important role of p_{x,y} orbitals (which form the 2D\sigma-holes band) in the superconductivity of MgB_{2}.
+
+###### Acknowledgements.
+
+ We thank the ESRF for provision of synchrotron x-ray beamtime and P. Pattison and I. A. Beukes for help with the experiments.
+
+## References
+
+* [1] M. Jones and R. March, J. Am. Chem. Soc. **76**, 1434 (1954).
+* [2] J. Nagamatsu, N. Nakagawa, Y. Z. Murakana, and J. Akimitsu, Nature (London) **410**, 63 (2001); C. Buzea and T. Yamashita, Supercond. Sci. Technol. **14**, R115 (2001) (for a recent review).
+* [3] J. Kortus, I. I. Mazin, K. D. Belashchenko, V. P. Antropov, and L. L. Boyer, Phys. Rev. Lett. **86**, 4656 (2001).
+* [4] S. L. Bud'ko, G. Lapertot, C. Petrovic, C. E. Cunningham, N. Anderson, and P. C. Canfield, Phys. Rev. Lett. **86**, 1877 (2001); D. G. Hinks, H. Claus, and J. D. Jorgensen, Nature (London) **411**, 457 (2001).
+* [5] K. Prassides, Y. Iwasa, T. Ito, Dam. H. Chi, K. Uehara, E. Nishibori, M. Takata, M. Sakata, Y. Ohishi, O. Shimomura, T. Muranaka, and J. Akimitsu, Phys. Rev. B **64**, 012509 (2001); B. Lorenz, R. L. Meng, and C. W. Chu, _ibid._**64**, 012507 (2001).
+* [6] J. E. Hirsch and F. Marsiglio, Phys. Rev. B **64**, 144523 (2001).
+* [7] J. M. An and W. E. Pickett, Phys. Rev. Lett. **86**, 4366 (2001).
+* [8] K. D. Belashchenko, M. van Schilfgaarde, and V. P. Antropov, Phys. Rev. B **64**, 092503 (2001); K. D. Belashchenko, V. P. Antropov, and S. N. Rashkew, _ibid._**64**, 132506 (2001).
+* [9] G. Satta, G. Profeta, F. Bernardini, A. Continenza, and S. Massidda, Phys. Rev. B **64**, 104507 (2001).
+* [10] S. Suzuki, S. Higai, and K. Nakao, J. Phys. Soc. Jpn. **70**, 1206 (2001).
+* [11] Y. Kong, O. V. Dolgov, O. Jepsen, and O. K. Andersen, Phys. Rev. B **64**, 020501(R) (2001).
+* [12] P. P. Singh, Phys. Rev. Lett. **87**, 087004 (2001).
+* [13] Y. Wang, T. Plackowski, and A. Junod, Physica C **355**, 179 (2001).
+* [14] F. Bouquet, R. A. Fisher, N. E. Phillips, D. G. Hinks, and J. D. Jorgensen, Phys. Rev. Lett. **87**, 047001 (2001).
+* [15] O. F. de Lima, R. A. Ribeiro, M. A. Avila, C. A. Cardoso, and A. A. Coelho, Phys. Rev. Lett. **86**, 5974 (2001); S. Lee, H. Mori, T. Masui, Y. Eltsev, A. Yamamoto, and S. Tajima, J. Phys. Soc. Jpn. **70**, 2255 (2001); M. Xu, H. Kitazawa, Y. Takano, J. Ye, K. Nishida, H. Abe, A. Matsushita, N. Tsujii, and G. Kido, Appl. Phys. Lett. **79**, 2779 (2001).
+* [16] S. Patnaik, L. D. Cooley, A. Gurevich, A. A. Polyanskii, J. Jiang, X. Y. Cai, A. A. Squitieri, M. T. Naus, M. K. Lee, J. H. Choi, L. Belenky, S. D. Bu, J. Letteri, X. Song, D. G. Schlom, S. E. Babcock, C. B. Eom, E. E. Hellstrom, and D. C. Larbalestier, Supercond. Sci. Technol. **14**, 315 (2001).
+* [17] F. Simon, A. Janossy, T. Feher, F. Muranyi, S. Garaj, L. Forro, C. Petrovic, S. L. Bud'ko, G. Lapertot, V. G. Kogan, and P. C. Canfield, Phys. Rev. Lett. **87**, 047002 (2001).
+* [18] S. L. Bud'ko, V. G. Kogan, and P. C. Canfield, Phys. Rev. B **64**, 180506 (2001); S. L. Bud'ko, _et al._, cond-mat/0201085, Phys. Rev. B (to be published).
+* [19] J. S. Slusky, N. Rogado, K. A. Regan, M. A. Hayward, P. Khalifah, T. He, K. Inumaru, S. M. Loureiro, M. K. Haas, H. W. Zandbergen, and R. J. Cava, Nature (London) **410**, 343 (2001).
+* [20] J. Y. Xiang, D. N. Zheng, J. Q. Li, L. Li, P. L. Lang, H. Chen, C. Dong, G. C. Che, Z. A. Ren, H. H. Qi, H. Y. Tian, Y. M. Ni, and Z. X. Zhao, cond-mat/0104366 (unpublished); J. Q. Li, L. Li, F. M. Liu, C. Dong, J. Y. Xiang, and Z. X. Zhao, Phys. Rev. B **65**, 132505 (2002); H. W. Zandbergen, M. T. Wu, H. Jiang, M. A. Hayward, M. K. Haas, and R. J. Cava, Physica C **366**, 221 (2002).
+* [21] B. Lorenz, R. L. Meng, Y. Y. Xue, and C. W. Chu, Phys. Rev. B **64**, 052513 (2001).
+* [22] M. Pissas, E. Moraitakis, D. Stamopoulos, G. Papavassiliou, V. Psycharis, and S. Koutandos, J. Supercond. **14**, 615 (2001).
+* [23] G. Papavassiliou, M. Pissas, M. Fardis, M. Karayanni, and C. Christides, Phys. Rev. B **65**, 012510 (2002).
+* [24] T. Takenobu, T. Ito, D. H. Chi, K. Prassides, and Y. Iwasa, Phys. Rev. B **64**, 134513 (2001); I. Maurin _et al._, Physica B (to be published).
+* [25] E. H. Brandt, Physica C **369**, 10 (2002).
+* [26] E. H. Brandt and A. Seeger, Adv. Phys. **35**, 189 (1986).
+* [27] W. Fite and A. G. Redfield, Phys. Rev. Lett. **17**, 381 (1966).
+* [28] K. H. Lee, B. J. Mean, G. S. Go, S. W. Seo, K. S. Han, D. H. Kim, H. Lee, B. K. Cho, and S. I. Lee, Phys. Rev. B **62**, 123 (2000).
+* [29] A. Rigamonti, F. Borsa, and P. Carretta, Rep. Prog. Phys. **61**, 1367 (1998), see Fig. 4.
+* [30] M. Mali, J. Roos, A. Shengelaya, H. Keller, and K. Conder, Phys. Rev. B **65**, 100518 (2002).
+* [31] J. K. Jung, S. H. Baek, F. Borsa, S. L. Bud'ko, G. Lapertot, and P. C. Canfield, Phys. Rev. B **64**, 012514 (2001).
+* [32] S. H. Baek, B. J. Suh, E. Pavarini, F. Borsa, R. G. Barnes, S. L. Bud'ko, and P. C. Canfield, cond-mat/0201450 (unpublished).
+* [33] H. Kotegawa, K. Ishida, Y. Kitaoka, T. Muranaka, N. Nakagawa, H. Takagiwa, and J. Akimitsu, cond-mat/0201578 (unpublished).
+* [34] L. P. Gor'kov and T. K. Melik-Barkhudarov, Zh. Eksp. Teor. Fiz. **45**, 1493 (1963) [Sov. Phys. JETP **18**, 1031 (1964)].
+
+ 

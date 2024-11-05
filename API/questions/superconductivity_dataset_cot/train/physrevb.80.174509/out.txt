@@ -1,0 +1,331 @@
+Charge-carrier localization induced by excess Fe in the superconductor Fe_{1+y}Te_{1-x}Se_{x}
+
+T. J. Liu
+
+Department of Physics, Tulane University, New Orleans, Louisiana 70118, USA
+
+X. Ke
+
+Department of Physics and Materials Research Institute, The Pennsylvania State University, University Park, Pennsylvania 16802, USA
+
+B. Qian
+
+Department of Physics, Tulane University, New Orleans, Louisiana 70118, USA
+
+J. Hu
+
+Department of Physics, Tulane University, New Orleans, Louisiana 70118, USA
+
+D. Fobes
+
+Department of Physics, Tulane University, New Orleans, Louisiana 70118, USA
+
+E. K. Vehstedt
+
+Department of Physics, Tulane University, New Orleans, Louisiana 70118, USA
+
+H. Pham
+
+Advanced Materials Research Institute and Department of Physics, University of New Orleans, New Orleans, Louisiana 70118, USA
+
+J. H. Yang
+
+Department of Physics, Tulane University, New Orleans, Louisiana 70118, USA
+
+M. H. Fang
+
+Department of Physics, Tulane University, New Orleans, Louisiana 70118, USA Department of Physics, Tulane University, New Orleans, Louisiana 70118, USA
+
+L. Spinu
+
+Advanced Materials Research Institute and Department of Physics, University of New Orleans, New Orleans, Louisiana 70118, USA
+
+P. Schiffer
+
+Department of Physics, Tulane University, New Orleans, Louisiana 70118, USA
+
+Y. Liu
+
+Department of Physics, Tulane University, New Orleans, Louisiana 70118, USA
+
+Z. Q. Mao
+
+30 September 2009; published 9 November 2009
+
+###### Abstract
+
+We have investigated the effect of Fe nonstoichiometry on properties of the Fe_{1+y}(Te,Se) superconductor system by means of resistivity, Hall coefficient, magnetic susceptibility, and specific-heat measurements. We find that the excess Fe at interstitial sites of the (Te, Se) layers not only suppresses superconductivity but also results in a weakly localized electronic state. We argue that these effects originate from the magnetic coupling between the excess Fe and the adjacent Fe square-planar sheets, which favors a short-range magnetic order.
+
+10.1103/PhysRevB.80.174509
+
+PACS number(s): 74.70.-b, 72.15.Rn, 74.25.Fy, 74.25.Ha
+
+## I Introduction
+
+The discovery of high-temperature superconductivity in Fe-based compounds has generated tremendous excitement.[1, 2, 3, 4, 5, 6] Fe_{1+y}(Te,Se) is an important ferrous superconducting system. The superconducting transition temperature of the end member, FeSe (T_{\rm c}\approx 8 K), whose superconductivity was first discovered by Hsu _et al._,[7] can be raised to 14-15 K by partial Te substitution for Se,[8, 9] and up to \sim27-37 K by applying hydrostatic pressure.[10, 11, 12, 13] Density-functional theory (DFT) calculations showed that Fermi surfaces (FS) of FeSe and FeTe are similar to those of FeAs compounds,[14] which was confirmed by recent photoemission studies.[15] Superconductivity in Fe_{1+y}Se is extremely sensitive to stoichiometry[16] and cannot be understood in the standard electron-phonon picture.[14, 17, 18] The observation of spin resonance below T_{\rm c} and enhancement of spin fluctuations near T_{\rm c} in this system suggests a superconducting pairing mechanism mediated by spin fluctuations.[19, 20] While this material series possesses a crystal structure resembling those of iron arsenides[7] with Fe square planar sheets [Fe(1) in Fig. 1] forming from the edge-sharing iron chalcogen tetrahedral network, it exhibits an interesting aspect: the interstitial sites of the (Te, Se) layers allow partial occupation of iron, resulting in nonstoichiometric composition Fe_{1+y}(Te, Se), where y represents excess Fe at interstitial sites [Fe(2) in Fig. 1].[21, 22] This structural characteristic is analogous to that of Li_{1-x}FeAs in which Li occupies interstitial sites of As layers.[23, 24, 25]
+
+The end member Fe_{1+y}Te in the Fe_{1+y}(Te,Se) series is not superconducting. Instead it exhibits a simultaneous structural and antiferromagnetic (AFM) phase transition near 60-70 K (Refs. [21, 22, and 26]) with the AFM structure distinct from those seen in undoped FeAs compounds.[27, 28, 29] The AFM order in Fe_{1+y}Te propagates along the diagonal direction of the Fe square lattice[22, 26] while in FeAs compounds the propagation direction of the spin-density wave (SDW)-type AFM order is along the edge of the Fe square lattice.[27, 28, 29] Another interesting feature of Fe_{1+y}Te is that its AFM wave vector can be tuned by the excess Fe, changing from commensurate to incommensurate when y is increased above 0.076.[22] These results suggest that the mechanism of magnetism in Fe_{1+y}Te should be very different from that of the FS nesting driven SDW order in FeAs parent compounds. In fact, FS nesting associated with the SDW instability as well as the expected SDW gap was not observed in Fe_{1+y}Te.[15, 30] Several theoretical models have been proposed to explain the unusual magnetic order in Fe_{1+y}Te.[31, 32, 33, 34]
+
+Figure 1: (Color online) Upper panel: schematic crystal structure of Fe_{1+y}(Te, Se). The iron on the square-planar sheet is denoted by Fe(1); the iron partially occupying at the interstitial sites of the (Te, Se) layers is the excess Fe, denoted by Fe(2). (a) Magnetic susceptibility as a function of temperature \chi(T) measured under a magnetic field of 30 Oe (applied along the c axis). (b) In-plane resistivity as a function of temperatures \rho_{\rm ab}(T). SC1 and SC2 represent two superconducting samples with 3% and 11% Fe(2).
+
+  The observation of the dramatic effect of excess Fe on the AFM order in Fe_{1+y}Te suggests that the effect of excess Fe on the superconducting properties of Fe_{1+y}(Te, Se) must be understood in order to understand the superconducting pairing mechanism. In this paper, we report experimental results showing how the superconducting and normal-state properties of the Fe_{1+y}(Te, Se) system are controlled by the excess Fe: the excess Fe was found to lead to weakly localized electronic states and the suppression of superconductivity. We argue that the weakly localized states are caused by magnetic coupling between the excess Fe and the adjacent Fe square-planar sheets.
+
+## II Experiment
+
+Two groups of single crystals with nominal compositions Fe_{1+y}Te and Fe_{1+y}(Te_{0.6}Se_{0.4}), y=0 and 0.18, were used in this study. From our previous studies on polycrystalline samples,[8] the composition Fe_{1+y}(Te_{0.6}Se_{0.4}) should have the highest T_{\rm c} while Fe_{1+y}Te is not superconducting. The single crystals were synthesized by a flux method. Mixed powders of these compositions were sealed in evacuated quartz tubes and slowly heated to 930 ^{\circ}C, and slowly cooled to 400 ^{\circ}C at a rate of 3 ^{\circ}C/h before the furnace was shut down. Single crystals with dimensions of \sim1 cm\times0.5 cm\times0.5 cm can easily be obtained with this method and are shown to be the pure \beta phase (called \alpha phase in Refs. 7 and 8) with the P4/nmm space group by x-ray diffraction. The sample compositions were analyzed using an energy dispersive x-ray spectrometer (EDXS). Table 1 summarizes all nominal and measured compositions of samples used in this study. We will use SC1 and SC2 to denote the superconducting samples with less and more excess Fe, and NSC1 and NSC2 for the nonsuperconducting parent compounds, respectively. Samples SC1 and NSC1 have approximately 3-4 % excess Fe whereas Samples SC2 and NSC2 have approximately 11% excess Fe. We have performed comprehensive studies on these samples through measurements of resistivity (using a four-probe method), Hall effect (using a five-probe method with magnetic field applied along the c axis), specific heat (a standard semidiabatic heat-pulse technique), and magnetic susceptibility. These measurements were performed in Quantum Design Physical Property Measurement System and superconducting quantum interference device magnetometer.
+
+## III Results and discussions
+
+Figure 1(a) shows the magnetic susceptibility of the samples SC1 and SC2 measured under a magnetic field of 30 Oe with a zero-field cooling. Sample SC1 was found to show large diamagnetism reflecting bulk superconductivity, consistent with a recent report of bulk superconductivity in single-crystal samples FeTe_{0.5}Se_{0.5}.[35] Sample SC2, on the other hand, shows small diamagnetism and a broad transition, suggesting the absence of bulk superconductivity. In-plane resistivity (\rho_{\rm ab}) measurements showed an onset superconducting transition temperature T^{\rm onset} of \sim14.8 K for sample SC1 and 11.6 K for Sample SC2 [Fig. 1(b)]. The transition width \Delta T_{\rm c}, was found to be 1.3 K for sample SC1 and 5.1 K for Sample SC2. These observations suggest that the excess Fe lowers not only the T_{\rm c} but the superconducting volume fraction in Fe_{1+y}(Te_{0.6}Se_{0.4}) as well. A similar trend was found previously in Fe_{1+y}Se.[16]
+
+The physical origin of suppression of superconductivity by the excess Fe in Fe_{1+y}(Te_{0.6}Se_{0.4}) can be inferred from its effects on the normal-state transport properties. As shown in Figs. 2(a) and 2(b), the sample SC2 with high excess Fe shows nonmetallic behavior above the superconducting transition in both \rho_{\rm ab} and \rho_{\rm c} with logarithmic temperature dependences below 50 K [Fig. 3(a)]. The logarithmic behavior is characteristic of weak localization in two dimensions. Sample SC1 containing less excess Fe, on the other hand, features metallic behavior below 200 K for \rho_{\rm ab} [Fig. 2(a)] and below 75 K for \rho_{\rm c} [Fig. 2(b)]. These observations suggest that the increase in excess Fe concentration results in a weakly localized electronic state.
+
+The behavior of the nonsuperconducting parent compounds Fe_{1+y}Te is also strongly affected by the excess Fe. As seen in Fig. 4, the sample NSC1 with low excess Fe exhibits metallic behavior below the structural and AFM transitions at T_{\rm ST}=72 K in both \rho_{\rm ab} and \rho_{\rm c}, consistent with early results on our polycrystalline samples.[8] Moreover, quadratic temperature dependence below 28 K was observed in this
+
+\begin{table}
+\begin{tabular}{l c c} Nominal composition & Measured average composition & Label \\ Fe(Te_{0.6}Se_{0.4}) & Fe_{1.03}(Te_{0.63}Se_{0.37}) & SC1 \\ Fe_{1.18}(Te_{0.6}Se_{0.4}) & Fe_{1.11}(Te_{0.64}Se_{0.36}) & SC2 \\ FeTe & Fe_{1.04}Te & NSC1 \\ Fe_{1.18}Te & Fe_{1.11}Te & NSC2 \\ \end{tabular}
+\end{table}
+Table 1: Sample nominal compositions and compositions measured by EDXS.
+
+Figure 2: (Color online) (a) In-plane resistivity as a function of temperature \rho_{\rm ab}(T) for superconducting samples SC1 [3% Fe(2)] and SC2 [11%Fe(2)]. (b) Resistivity along the c axis \rho_{\rm c}(T) for samples SC1 and SC2.
+
+  sample, as shown in Fig. 3(b). This feature, together with the constant electronic specific coefficient observed at low temperatures (see below), suggests a Fermi-liquid (FL) ground state. However, for the sample NSC2 with more excess Fe and T_{\rm ST}=65 K both \rho_{\rm ab} and \rho_{\rm c} show weakly nonmetallic behavior following a minimum below T_{\rm ST}, suggesting a weakly localized electronic state, similar to the phenomena seen in the sample SC2. We note that both SC2 and NSC2 samples exhibit a kink in \rho_{\rm c} near 120 K; this feature seems associated with the \sim125 K magnetic anomaly observed previously in polycrystalline samples.[8] Its origin has not yet been clarified.
+
+The influence of excess Fe on electronic states is further revealed in the temperature dependences of Hall coefficient R_{\rm H} of these samples, as shown in Fig. 5. R_{\rm H} is determined from the slope of Hall resistivity \rho_{xy}(H) [inset of Fig. 5(a)]. Both SC1 and SC2 have positive R_{\rm H} above T_{\rm c}, indicating that their electronic transport is dominated by holes. The temperature dependence of R_{\rm H}, however, revealed significant differences between them: sample SC1 exhibits a broad peak at approximately 60 K while sample SC2 exhibits an upturn below 50 K, below which logarithmic temperature dependence was seen in resistivity. The increasing R_{\rm H} at low temperatures seen in SC2 implies that the charge carry density decreases with decreasing temperature, consistent with the localization behavior seen in the temperature dependence of resistivity. The broad peak in sample SC1 is similar to that seen in the Co-doped BaFe_{2}As_{2} superconductor.[36] Samples NSC1 and NSC2 were also found to display marked differences in the temperature dependence of R_{\rm H}. Sample NSC1 has positive R_{\rm H} at temperatures above T_{\rm ST} and shows a sharp drop near T_{\rm ST}, from \sim1.5\times10^{-9} m^{3}/C to a negative value of \sim-2\times10^{-9} m^{3}/C, consistent with a previous result obtained on a similar sample.[30] In contrast, R_{\rm H} for Sample NSC2 was found to exhibit a slight decrease below T_{\rm ST}, remaining positive for the whole temperature range measured. These observations indicate that the increase in excess Fe results in a significant change in carrier density in both superconducting and nonsuperconducting samples.
+
+Figure 4: (Color online) (a) In-plane resistivity as a function of temperature \rho_{\rm ab}(T) for nonsuperconducting samples NSC1 [4% Fe(2)] and NSC2 [11% Fe(2)]. (b) Resistivity along the c axis as a function of temperature \rho_{\rm c}(T) for NSC1 and NSC2.
+
+Figure 5: (Color online) (a) Hall coefficient R_{\rm H} as a function of temperature for superconducting samples SC1 [3% Fe(2)] and SC2 [11% Fe(2)]. (b) Hall coefficient R_{\rm H} as a function of temperature for nonsuperconducting samples NSC1 [4% Fe(2)] and NSC2 [11% Fe(2)]. Inset in (a): Hall resistivity \rho_{xy} vs magnetic field at various temperatures for sample SC2.
+
+Figure 3: (Color online) (a) Resistivity as a function of temperature plotted on the \log T scale for superconducting sample SC2 [11%Fe(2)]. (b) Resistivity as a function of temperature plotted on the T^{2} scale for nonsuperconducting sample NSC1 [4% Fe(2)].
+
+  Specific-heat data taken on these samples show a significant anomaly at T_{\rm c} for SC1 and no discernable feature for SC2 (Fig. 6), confirming the absence of bulk superconductivity in the latter as suggested above. For samples NSC1 and NSC2, the low-temperature specific-heat data can be well described by C = \gamma T + \beta T^{3} + \delta T^{5}, where \gamma T and \beta T^{3} + \delta T^{5} are electron- and phonon-specific heats, respectively. Plotting C/T against T^{2} and fits to experimental data below 12 K [inset to Fig. 6(b)] yield an estimate of \gamma = 33 mJ/mol K^{2} for NSC1 and 27 mJ/mol K^{2} for NSC2. The decrease in \gamma caused by the increase in excess Fe concentration suggests that the excess Fe gives rise to a decrease of the density of states (DOS) near the Fermi level, consistent with the differences in resistivity and Hall coefficient between samples with more and less excess Fe.
+
+The charge-carrier localization observed in Fe_{1+\gamma}(Te, Se) system with excess Fe can be attributed to the magnetic coupling between the excess Fe and the adjacent Fe square-planar sheets. DFT calculations on Fe_{1+\gamma}Te showed that the excess Fe at interstitial sites of (Te, Se) layers is magnetic,[37] in good agreement with the neutron-scattering experiment showing that the excess Fe at interstitial sites [Fe(2)] and the Fe on the square lattice [Fe(1)] are magnetically coupled, following the same magnetic modulation.[22] This coupling plays an important role in tuning the AFM order from commensurate to incommensurate when the excess Fe content is increased.[22] Furthermore, DFT calculations[37] indicate that in Fe_{1+\gamma}Te the electronic states near E_{\rm F} are dominated by the Fe(1) 3d characteristics with smaller contributions from the Fe(2) 3d band; the formation of local moments at Fe(2) sites not only reduces the Fe(2) 3d DOS at E_{\rm F} but also considerably decreases the Fe(1) 3d DOS at E_{\rm F}, resulting in a pseudogap near E_{\rm F}. These theoretical results are consistent with our experimental results. Therefore the Fe(1)-Fe(2) magnetic coupling is the driving force for the charge-carrier localization in Fe_{1+\gamma}Te.
+
+The magnetic coupling between Fe(1) and Fe(2) is also responsible for the lack of bulk superconductivity and the charge-carrier localization observed in SC2. While this sample does not exhibit a long-range magnetic order, a short-range magnetic order was observed in both polycrystalline[22] and single-crystal[38] samples with the excess Fe content close to that in SC2. In addition, the magnetic susceptibility of SC2 is \sim0.02 emu/mol right above T_{\rm c}, which is about one order of magnitude larger than that of SC1. These observations suggest that Fe(2) is magnetic in SC2 and that its magnetic coupling with Fe(1) is essential for facilitating the short-range magnetic order. Moreover, our previous neutron-scattering measurements revealed that the short-range magnetic order in samples with rich excess Fe enhances noticeably below 40 K.[22] This characteristic temperature is close to the temperature below which the charge-carrier localization behavior in both resistivity (Figs. 2 and 3) and Hall coefficient [Fig. 5(a)] was observed, suggesting that the short-range magnetic order stabilized by the Fe(1)-Fe(2) magnetic coupling is the origin of the charge-carrier localization in the superconducting sample containing high excess Fe. The small superconducting volume fraction observed in such samples suggests that the Fe(1)-Fe(2) magnetic coupling that mediates the short-range magnetic order suppresses superconducting pairing interaction. Disorders/defects introduced by the presence of excess Fe or Se substitution for Te should only have a minor effect on superconductivity since the Fe_{1+\gamma}(Te,Se) system is believed to have a considerably high upper critical field and a short coherence length as the LaFeAs (O,F) and (Ba,K)Fe_{2}As_{2} systems.[30; 39; 40]
+
+In general, short-range magnetic correlation could lead to an anomaly in specific heat at low temperatures. In sample SC2 with rich excess Fe we did not observe any feature related to short-range magnetic correlations. This can be attributed to the fact that this sample, while it does not exhibit bulk superconductivity, undergoes an inhomogeneous, non-bulk superconducting transition, as shown in the susceptibility data in Fig. 1(a); this would decrease electronic specific heat, thus smearing the anomaly feature caused by short-range magnetic correlations.
+
+## IV IV. Conclusions
+
+In summary, we have investigated the role of excess Fe at interstitial sites of (Te, Se) layers in the Fe_{1+\gamma}(Te, Se) superconductor system and shown that in the superconducting Fe_{1+\gamma}(Te,Se) the excess Fe not only suppresses superconductivity but also leads to weak charge-carrier localization; in the nonsuperconducting parent compound Fe_{1+\gamma}Te, however, the increase in excess Fe concentration causes an electronic-state evolution from a FL to a weakly localized state. Together with the magnetic structure previously established by neutron-scattering studies and recent DFT calculations, our results suggest that such weak charge-carrier localization is related to the magnetic coupling between the
+
+Figure 6: (Color online) Heat capacity C/T as a function of temperature for superconducting samples (a) SC1 and SC2, and nonsuperconducting samples (b) NSC1 and NSC2. Inset in (b) shows C/T versus T^{5}. The solid lines represent the fit to experimental data below 12 K (see the text).
+
+  excess Fe and the adjacent Fe sheets, which is responsible for the superconductivity suppression caused by the excess Fe.
+
+###### Acknowledgements.
+
+ The authors thank W. Bao for useful discussions. The work at Tulane is supported by the NSF under Grant No. DMR-0645305 for materials and equipment, the DOE under Grant No. DE-FG02-07ER46358 for personnel, the DOD ARO under Grant No. W911NF-08-C-0131, and the Research Corporation. Work at UNO is supported by DARPA under Grant No. HR0011-07-1-0031. Work at Penn State is supported by the DOE under Grant No. DE-FG02-04ER46159 and DOD ARO under Grant No. W911NF-07-1-0182 and NSF under Grant No. DMR-0701582. Work at Zhejiang University is supported by the NBRPC (Grants No. 2006CB01003 and No. 2009CB929104) and the PCSIRT of the Ministry of Education of China (Grant No. IRT0754).
+
+## References
+
+* [1] Y. Kamihara, T. Watanabe, M. Hirano, and H. Hosono, J. Am. Chem. Soc. **130**, 3296 (2008).
+* [2] X. H. Chen, T. Wu, G. Wu, R. H. Liu, H. Chen, and D. F. Fang, Nature (London) **453**, 761 (2008).
+* [3] G. F. Chen, Z. Li, D. Wu, G. Li, W. Z. Hu, J. Dong, P. Zheng, J. L. Luo, and N. L. Wang, Phys. Rev. Lett. **100**, 247002 (2008).
+* [4] Z. A. Ren, G. C. Che, X. L. Dong, J. Yang, W. Lu, W. Yi, X. L. Shen, Z. C. Li, L. L. Sun, F. Zhou, and Z. X. Zhao, EPL. **83**, 17002 (2008).
+* [5] J. Yang, Z. C. Li, W. Lu, W. Yi, X. L. Shen, Z. A. Ren, G. C. Che, X. L. Dong, L. L. Sun, F. Zhou, and Z. X. Zhao, Supercond. Sci. Technol. **21**, 082001 (2008).
+* [6] Y. Jia, P. Cheng, L. Fang, H. Luo, H. Yang, C. Ren, L. Shan, C. Gu, and H.-H. Wen, Appl. Phys. Lett. **93**, 032503 (2008).
+* [7] F. C. Hsu, J. Y. Luo, K. W. Yeh, T. K. Chen, T. W. Huang, P. M. Wu, Y. C. Lee, Y. L. Huang, Y. Y. Chu, D. C. Yan, and M. K. Wu, Proc. Natl. Acad. Sci. U.S.A. **105**, 14262 (2008).
+* [8] M. H. Fang, H. M. Pham, B. Qian, T. J. Liu, E. K. Vehstedt, Y. Liu, L. Spinu, and Z. Q. Mao, Phys. Rev. B **78**, 224503 (2008).
+* [9] K. W. Yeh, T. W. Huang, Y. L. Huang, T. K. Chen, F. C. Hsu, P. M. Wu, Y. C. Lee, Y. Y. Chu, C. L. Chen, J. Y. Luo, D. C. Yan, and M. K. Wu, EPL. **84**, 37002 (2008).
+* [10] Y. Mizuguchi, F. Tomioka, S. Tsuda, T. Yamaguchi, and Y. Takano, Appl. Phys. Lett. **93**, 152505 (2008).
+* [11] S. Margadonna, Y. Takabayashi, Y. Ohishi, Y. Mizuguchi, Y. Takano, T. Kagayama, T. Nakagawa, M. Takata, and K. Prassides, Phys. Rev. B **80**, 064506 (2009).
+* [12] S. Medvedev, T. M. McQueen, I. A. Troyan, T. Palasyuk, M. I. Eremets, R. J. Cava, S. Naghavi, F. Casper, V. Ksenofontov, G. Wortmann, and C. Felser, Nature Mater. **8**, 630 (2009).
+* [13] G. Garbarino, A. Sow, P. Lejay, A. Sulpice, P. Toulemonde, M. Mezouar, and M. Nunez-Regueiro, EPL **86**, 27001 (2009).
+* [14] A. Subedi, L. J. Zhang, D. J. Singh, and M. H. Du, Phys. Rev. B **78**, 134514 (2008).
+* [15] Y. Xia, D. Qian, L. Wray, D. Hsieh, G. F. Chen, J. L. Luo, N. L. Wang, and M. Z. Hasan, Phys. Rev. Lett. **103**, 037002 (2009).
+* [16] T. M. McQueen, Q. Huang, V. Ksenofontov, C. Felser, Q. Xu, H. Zandbergen, Y. S. Hor, J. Allred, A. J. Williams, D. Qu, J. Checkelsky, N. P. Ong, and R. J. Cava, Phys. Rev. B **79**, 014522 (2009).
+* [17] D. Phelan, J. N. Millican, E. L. Thomas, J. B. Leao, Y. Qiu, and R. Paul, Phys. Rev. B **79**, 014519 (2009).
+* [18] H. Kotegawa, S. Masaki, Y. Awai, H. Tou, Y. Mizuguchi, and Y. Takano, J. Phys. Soc. Jpn. **77**, 113703 (2008).
+* [19] Y. M. Qiu, W. Bao, Y. Zhao, C. Broholm, V. Stanev, Z. Tesanovic, Y. C. Gasparovic, S. Chang, J. Hu, B. Qian, M. H. Fang, and Z. Q. Mao, Phys. Rev. Lett. **103**, 067008 (2009).
+* [20] T. Imai, K. Ahilan, F. L. Ning, T. M. McQueen, and R. J. Cava, Phys. Rev. Lett. **102**, 177005 (2009).
+* [21] D. Fruchart, P. Convert, P. Wolfers, R. Madar, J. P. Senateur, and R. Fruchart, Mater. Res. Bull. **10**, 169 (1975).
+* [22] W. Bao, Y. Qiu, Q. Huang, M. A. Green, P. Zajdel, M. R. Fitzsimmons, M. Zhernenkov, S. Chang, M. Fang, B. Qian, E. K. Vehstedt, J. Yang, H. M. Pham, L. Spinu, and Z. Q. Mao, Phys. Rev. Lett. **102**, 247001 (2009).
+* [23] X. C. Wang, Q. Q. Liu, Y. X. Lv, W. B. Gao, L. X. Yang, R. C. Yu, F. Y. Li, and C. Q. Jin, Solid State Commun. **148**, 538 (2008).
+* [24] M. J. Pitcher, D. R. Parker, P. Adamson, S. J. C. Herkelrath, A. T. Boothroyd, R. M. Ibberson, M. Brunelli, and S. J. Clarke, Chem. Commun. (Cambridge) **2008**, 5918.
+* [25] J. H. Tapp, Z. Tang, B. Lv, K. Sasmal, B. Lorenz, P. C. W. Chu, and A. M. Guloy, Phys. Rev. B **78**, 060505 (2008).
+* [26] S. L. Li, C. de la Cruz, Q. Huang, Y. Chen, J. W. Lynn, J. P. Hu, Y. L. Huang, F. C. Hsu, K. W. Yeh, M. K. Wu, and P. C. Dai, Phys. Rev. B **79**, 054503 (2009).
+* [27] C. de la Cruz, Q. Huang, J. W. Lynn, J. Li, W. R. Ii, J. L. Zarestky, H. A. Mook, G. F. Chen, J. L. Luo, N. L. Wang, and P. C. Dai, Nature (London) **453**, 899 (2008).
+* [28] Q. Huang, Y. Qiu, W. Bao, M. A. Green, J. W. Lynn, Y. C. Gasparovic, T. Wu, G. Wu, and X. H. Chen, Phys. Rev. Lett. **101**, 257003 (2008).
+* [29] J. Zhao, D.-X. Yao, S. Li, T. Hong, Y. Chen, S. Chang, W. Ratcliff Ii, J. W. Lynn, H. A. Mook, G. F. Chen, J. L. Luo, N. L. Wang, E. W. Carlson, Jiangping Hu, and Pengcheng Dai, Phys. Rev. Lett. **101**, 167203 (2008).
+* [30] G. F. Chen, Z. G. Chen, J. Dong, W. Z. Hu, G. Li, X. D. Zhang, P. Zheng, J. L. Luo, and N. L. Wang, Phys. Rev. B **79**, 140509(R) (2009).
+* [31] M. D. Johannes and I. I. Mazin, Phys. Rev. B **79**, 220510 (2009).
+* [32] A. Turner, F. Wang, and A. Vishwanath, arXiv:0905.3782 (unpublished).
+* [33] M. J. Han and S. Y. Savrasov, Phys. Rev. Lett. **103**, 067001 (2009).
+* [34] C. Fang, B. A. Bemevig, and J. P. Hu, EPL **86**, 67005 (2009).
+* [35] B. C. Sales, A. S. Sefat, M. A. McGuire, R. Y. Jin, D. Mandrus, and Y. Mozharivskyj, Phys. Rev. B **79**, 094521 (2009).
+
+  * (36) A. S. Sefat, R. Jin, M. A. McGuire, B. C. Sales, D. J. Singh, and D. Mandrus, Phys. Rev. Lett. **101**, 117004 (2008).
+* (37) L. Zhang, D. J. Singh, and M. H. Du, Phys. Rev. B **79**, 012506 (2009).
+* (38) W. Bao (private communication).
+* (39) F. Hunte, J. Jaroszynski, A. Gurevich, D. C. Larbalestier, R. Jin, A. S. Sefat, M. A. McGuire, B. C. Sales, D. K. Christen, and D. Mandrus, Nature (London) **453**, 903 (2008).
+* (40) H. Q. Yuan, J. Singleton, F. F. Balakirev, S. A. Baily, G. F. Chen, J. L. Luo, and N. L. Wang, Nature (London) **457**, 565 (2009).
+
+ Charge-carrier localization induced by excess Fe in the superconductor Fe_{1+y}Te_{1-x}Se_{x}
+
+T. J. Liu
+
+Department of Physics, Tulane University, New Orleans, Louisiana 70118, USA
+
+X. Ke
+
+Department of Physics and Materials Research Institute, The Pennsylvania State University, University Park, Pennsylvania 16802, USA
+
+B. Qian
+
+Department of Physics, Tulane University, New Orleans, Louisiana 70118, USA
+
+J. Hu
+
+Department of Physics, Tulane University, New Orleans, Louisiana 70118, USA
+
+D. Fobes
+
+Department of Physics, Tulane University, New Orleans, Louisiana 70118, USA
+
+E. K. Vehstedt
+
+Department of Physics, Tulane University, New Orleans, Louisiana 70118, USA
+
+H. Pham
+
+Advanced Materials Research Institute and Department of Physics, University of New Orleans, New Orleans, Louisiana 70118, USA
+
+J. H. Yang
+
+Department of Physics, Tulane University, New Orleans, Louisiana 70118, USA
+
+M. H. Fang
+
+Department of Physics, Tulane University, New Orleans, Louisiana 70118, USA Department of Physics, Tulane University, New Orleans, Louisiana 70118, USA
+
+L. Spinu
+
+Advanced Materials Research Institute and Department of Physics, University of New Orleans, New Orleans, Louisiana 70118, USA
+
+P. Schiffer
+
+Department of Physics, Tulane University, New Orleans, Louisiana 70118, USA
+
+Y. Liu
+
+Department of Physics, Tulane University, New Orleans, Louisiana 70118, USA
+
+Z. Q. Mao
+
+30 September 2009; published 9 November 2009
+
+###### Abstract
+
+We have investigated the effect of Fe nonstoichiometry on properties of the Fe_{1+y}(Te,Se) superconductor system by means of resistivity, Hall coefficient, magnetic susceptibility, and specific-heat measurements. We find that the excess Fe at interstitial sites of the (Te, Se) layers not only suppresses superconductivity but also results in a weakly localized electronic state. We argue that these effects originate from the magnetic coupling between the excess Fe and the adjacent Fe square-planar sheets, which favors a short-range magnetic order.
+
+10.1103/PhysRevB.80.174509
+
+PACS number(s): 74.70.-b, 72.15.Rn, 74.25.Fy, 74.25.Ha
+
+## I Introduction
+
+The discovery of high-temperature superconductivity in Fe-based compounds has generated tremendous excitement.[1, 2, 3, 4, 5, 6] Fe_{1+y}(Te,Se) is an important ferrous superconducting system. The superconducting transition temperature of the end member, FeSe (T_{\rm c}\approx 8 K), whose superconductivity was first discovered by Hsu _et al._,[7] can be raised to 14-15 K by partial Te substitution for Se,[8, 9] and up to \sim27-37 K by applying hydrostatic pressure.[10, 11, 12, 13] Density-functional theory (DFT) calculations showed that Fermi surfaces (FS) of FeSe and FeTe are similar to those of FeAs compounds,[14] which was confirmed by recent photoemission studies.[15] Superconductivity in Fe_{1+y}Se is extremely sensitive to stoichiometry[16] and cannot be understood in the standard electron-phonon picture.[14, 17, 18] The observation of spin resonance below T_{\rm c} and enhancement of spin fluctuations near T_{\rm c} in this system suggests a superconducting pairing mechanism mediated by spin fluctuations.[19, 20] While this material series possesses a crystal structure resembling those of iron arsenides[7] with Fe square planar sheets [Fe(1) in Fig. 1] forming from the edge-sharing iron chalcogen tetrahedral network, it exhibits an interesting aspect: the interstitial sites of the (Te, Se) layers allow partial occupation of iron, resulting in nonstoichiometric composition Fe_{1+y}(Te, Se), where y represents excess Fe at interstitial sites [Fe(2) in Fig. 1].[21, 22] This structural characteristic is analogous to that of Li_{1-x}FeAs in which Li occupies interstitial sites of As layers.[23, 24, 25]
+
+The end member Fe_{1+y}Te in the Fe_{1+y}(Te,Se) series is not superconducting. Instead it exhibits a simultaneous structural and antiferromagnetic (AFM) phase transition near 60-70 K (Refs. [21, 22, and 26]) with the AFM structure distinct from those seen in undoped FeAs compounds.[27, 28, 29] The AFM order in Fe_{1+y}Te propagates along the diagonal direction of the Fe square lattice[22, 26] while in FeAs compounds the propagation direction of the spin-density wave (SDW)-type AFM order is along the edge of the Fe square lattice.[27, 28, 29] Another interesting feature of Fe_{1+y}Te is that its AFM wave vector can be tuned by the excess Fe, changing from commensurate to incommensurate when y is increased above 0.076.[22] These results suggest that the mechanism of magnetism in Fe_{1+y}Te should be very different from that of the FS nesting driven SDW order in FeAs parent compounds. In fact, FS nesting associated with the SDW instability as well as the expected SDW gap was not observed in Fe_{1+y}Te.[15, 30] Several theoretical models have been proposed to explain the unusual magnetic order in Fe_{1+y}Te.[31, 32, 33, 34]
+
+Figure 1: (Color online) Upper panel: schematic crystal structure of Fe_{1+y}(Te, Se). The iron on the square-planar sheet is denoted by Fe(1); the iron partially occupying at the interstitial sites of the (Te, Se) layers is the excess Fe, denoted by Fe(2). (a) Magnetic susceptibility as a function of temperature \chi(T) measured under a magnetic field of 30 Oe (applied along the c axis). (b) In-plane resistivity as a function of temperatures \rho_{\rm ab}(T). SC1 and SC2 represent two superconducting samples with 3% and 11% Fe(2).
+
+  The observation of the dramatic effect of excess Fe on the AFM order in Fe_{1+y}Te suggests that the effect of excess Fe on the superconducting properties of Fe_{1+y}(Te, Se) must be understood in order to understand the superconducting pairing mechanism. In this paper, we report experimental results showing how the superconducting and normal-state properties of the Fe_{1+y}(Te, Se) system are controlled by the excess Fe: the excess Fe was found to lead to weakly localized electronic states and the suppression of superconductivity. We argue that the weakly localized states are caused by magnetic coupling between the excess Fe and the adjacent Fe square-planar sheets.
+
+## II Experiment
+
+Two groups of single crystals with nominal compositions Fe_{1+y}Te and Fe_{1+y}(Te_{0.6}Se_{0.4}), y=0 and 0.18, were used in this study. From our previous studies on polycrystalline samples,[8] the composition Fe_{1+y}(Te_{0.6}Se_{0.4}) should have the highest T_{\rm c} while Fe_{1+y}Te is not superconducting. The single crystals were synthesized by a flux method. Mixed powders of these compositions were sealed in evacuated quartz tubes and slowly heated to 930 ^{\circ}C, and slowly cooled to 400 ^{\circ}C at a rate of 3 ^{\circ}C/h before the furnace was shut down. Single crystals with dimensions of \sim1 cm\times0.5 cm\times0.5 cm can easily be obtained with this method and are shown to be the pure \beta phase (called \alpha phase in Refs. 7 and 8) with the P4/nmm space group by x-ray diffraction. The sample compositions were analyzed using an energy dispersive x-ray spectrometer (EDXS). Table 1 summarizes all nominal and measured compositions of samples used in this study. We will use SC1 and SC2 to denote the superconducting samples with less and more excess Fe, and NSC1 and NSC2 for the nonsuperconducting parent compounds, respectively. Samples SC1 and NSC1 have approximately 3-4 % excess Fe whereas Samples SC2 and NSC2 have approximately 11% excess Fe. We have performed comprehensive studies on these samples through measurements of resistivity (using a four-probe method), Hall effect (using a five-probe method with magnetic field applied along the c axis), specific heat (a standard semidiabatic heat-pulse technique), and magnetic susceptibility. These measurements were performed in Quantum Design Physical Property Measurement System and superconducting quantum interference device magnetometer.
+
+## III Results and discussions
+
+Figure 1(a) shows the magnetic susceptibility of the samples SC1 and SC2 measured under a magnetic field of 30 Oe with a zero-field cooling. Sample SC1 was found to show large diamagnetism reflecting bulk superconductivity, consistent with a recent report of bulk superconductivity in single-crystal samples FeTe_{0.5}Se_{0.5}.[35] Sample SC2, on the other hand, shows small diamagnetism and a broad transition, suggesting the absence of bulk superconductivity. In-plane resistivity (\rho_{\rm ab}) measurements showed an onset superconducting transition temperature T^{\rm onset} of \sim14.8 K for sample SC1 and 11.6 K for Sample SC2 [Fig. 1(b)]. The transition width \Delta T_{\rm c}, was found to be 1.3 K for sample SC1 and 5.1 K for Sample SC2. These observations suggest that the excess Fe lowers not only the T_{\rm c} but the superconducting volume fraction in Fe_{1+y}(Te_{0.6}Se_{0.4}) as well. A similar trend was found previously in Fe_{1+y}Se.[16]
+
+The physical origin of suppression of superconductivity by the excess Fe in Fe_{1+y}(Te_{0.6}Se_{0.4}) can be inferred from its effects on the normal-state transport properties. As shown in Figs. 2(a) and 2(b), the sample SC2 with high excess Fe shows nonmetallic behavior above the superconducting transition in both \rho_{\rm ab} and \rho_{\rm c} with logarithmic temperature dependences below 50 K [Fig. 3(a)]. The logarithmic behavior is characteristic of weak localization in two dimensions. Sample SC1 containing less excess Fe, on the other hand, features metallic behavior below 200 K for \rho_{\rm ab} [Fig. 2(a)] and below 75 K for \rho_{\rm c} [Fig. 2(b)]. These observations suggest that the increase in excess Fe concentration results in a weakly localized electronic state.
+
+The behavior of the nonsuperconducting parent compounds Fe_{1+y}Te is also strongly affected by the excess Fe. As seen in Fig. 4, the sample NSC1 with low excess Fe exhibits metallic behavior below the structural and AFM transitions at T_{\rm ST}=72 K in both \rho_{\rm ab} and \rho_{\rm c}, consistent with early results on our polycrystalline samples.[8] Moreover, quadratic temperature dependence below 28 K was observed in this
+
+\begin{table}
+\begin{tabular}{l c c} Nominal composition & Measured average composition & Label \\ Fe(Te_{0.6}Se_{0.4}) & Fe_{1.03}(Te_{0.63}Se_{0.37}) & SC1 \\ Fe_{1.18}(Te_{0.6}Se_{0.4}) & Fe_{1.11}(Te_{0.64}Se_{0.36}) & SC2 \\ FeTe & Fe_{1.04}Te & NSC1 \\ Fe_{1.18}Te & Fe_{1.11}Te & NSC2 \\ \end{tabular}
+\end{table}
+Table 1: Sample nominal compositions and compositions measured by EDXS.
+
+Figure 2: (Color online) (a) In-plane resistivity as a function of temperature \rho_{\rm ab}(T) for superconducting samples SC1 [3% Fe(2)] and SC2 [11%Fe(2)]. (b) Resistivity along the c axis \rho_{\rm c}(T) for samples SC1 and SC2.
+
+  sample, as shown in Fig. 3(b). This feature, together with the constant electronic specific coefficient observed at low temperatures (see below), suggests a Fermi-liquid (FL) ground state. However, for the sample NSC2 with more excess Fe and T_{\rm ST}=65 K both \rho_{\rm ab} and \rho_{\rm c} show weakly nonmetallic behavior following a minimum below T_{\rm ST}, suggesting a weakly localized electronic state, similar to the phenomena seen in the sample SC2. We note that both SC2 and NSC2 samples exhibit a kink in \rho_{\rm c} near 120 K; this feature seems associated with the \sim125 K magnetic anomaly observed previously in polycrystalline samples.[8] Its origin has not yet been clarified.
+
+The influence of excess Fe on electronic states is further revealed in the temperature dependences of Hall coefficient R_{\rm H} of these samples, as shown in Fig. 5. R_{\rm H} is determined from the slope of Hall resistivity \rho_{xy}(H) [inset of Fig. 5(a)]. Both SC1 and SC2 have positive R_{\rm H} above T_{\rm c}, indicating that their electronic transport is dominated by holes. The temperature dependence of R_{\rm H}, however, revealed significant differences between them: sample SC1 exhibits a broad peak at approximately 60 K while sample SC2 exhibits an upturn below 50 K, below which logarithmic temperature dependence was seen in resistivity. The increasing R_{\rm H} at low temperatures seen in SC2 implies that the charge carry density decreases with decreasing temperature, consistent with the localization behavior seen in the temperature dependence of resistivity. The broad peak in sample SC1 is similar to that seen in the Co-doped BaFe_{2}As_{2} superconductor.[36] Samples NSC1 and NSC2 were also found to display marked differences in the temperature dependence of R_{\rm H}. Sample NSC1 has positive R_{\rm H} at temperatures above T_{\rm ST} and shows a sharp drop near T_{\rm ST}, from \sim1.5\times10^{-9} m^{3}/C to a negative value of \sim-2\times10^{-9} m^{3}/C, consistent with a previous result obtained on a similar sample.[30] In contrast, R_{\rm H} for Sample NSC2 was found to exhibit a slight decrease below T_{\rm ST}, remaining positive for the whole temperature range measured. These observations indicate that the increase in excess Fe results in a significant change in carrier density in both superconducting and nonsuperconducting samples.
+
+Figure 4: (Color online) (a) In-plane resistivity as a function of temperature \rho_{\rm ab}(T) for nonsuperconducting samples NSC1 [4% Fe(2)] and NSC2 [11% Fe(2)]. (b) Resistivity along the c axis as a function of temperature \rho_{\rm c}(T) for NSC1 and NSC2.
+
+Figure 5: (Color online) (a) Hall coefficient R_{\rm H} as a function of temperature for superconducting samples SC1 [3% Fe(2)] and SC2 [11% Fe(2)]. (b) Hall coefficient R_{\rm H} as a function of temperature for nonsuperconducting samples NSC1 [4% Fe(2)] and NSC2 [11% Fe(2)]. Inset in (a): Hall resistivity \rho_{xy} vs magnetic field at various temperatures for sample SC2.
+
+Figure 3: (Color online) (a) Resistivity as a function of temperature plotted on the \log T scale for superconducting sample SC2 [11%Fe(2)]. (b) Resistivity as a function of temperature plotted on the T^{2} scale for nonsuperconducting sample NSC1 [4% Fe(2)].
+
+  Specific-heat data taken on these samples show a significant anomaly at T_{\rm c} for SC1 and no discernable feature for SC2 (Fig. 6), confirming the absence of bulk superconductivity in the latter as suggested above. For samples NSC1 and NSC2, the low-temperature specific-heat data can be well described by C = \gamma T + \beta T^{3} + \delta T^{5}, where \gamma T and \beta T^{3} + \delta T^{5} are electron- and phonon-specific heats, respectively. Plotting C/T against T^{2} and fits to experimental data below 12 K [inset to Fig. 6(b)] yield an estimate of \gamma = 33 mJ/mol K^{2} for NSC1 and 27 mJ/mol K^{2} for NSC2. The decrease in \gamma caused by the increase in excess Fe concentration suggests that the excess Fe gives rise to a decrease of the density of states (DOS) near the Fermi level, consistent with the differences in resistivity and Hall coefficient between samples with more and less excess Fe.
+
+The charge-carrier localization observed in Fe_{1+\gamma}(Te, Se) system with excess Fe can be attributed to the magnetic coupling between the excess Fe and the adjacent Fe square-planar sheets. DFT calculations on Fe_{1+\gamma}Te showed that the excess Fe at interstitial sites of (Te, Se) layers is magnetic,[37] in good agreement with the neutron-scattering experiment showing that the excess Fe at interstitial sites [Fe(2)] and the Fe on the square lattice [Fe(1)] are magnetically coupled, following the same magnetic modulation.[22] This coupling plays an important role in tuning the AFM order from commensurate to incommensurate when the excess Fe content is increased.[22] Furthermore, DFT calculations[37] indicate that in Fe_{1+\gamma}Te the electronic states near E_{\rm F} are dominated by the Fe(1) 3d characteristics with smaller contributions from the Fe(2) 3d band; the formation of local moments at Fe(2) sites not only reduces the Fe(2) 3d DOS at E_{\rm F} but also considerably decreases the Fe(1) 3d DOS at E_{\rm F}, resulting in a pseudogap near E_{\rm F}. These theoretical results are consistent with our experimental results. Therefore the Fe(1)-Fe(2) magnetic coupling is the driving force for the charge-carrier localization in Fe_{1+\gamma}Te.
+
+The magnetic coupling between Fe(1) and Fe(2) is also responsible for the lack of bulk superconductivity and the charge-carrier localization observed in SC2. While this sample does not exhibit a long-range magnetic order, a short-range magnetic order was observed in both polycrystalline[22] and single-crystal[38] samples with the excess Fe content close to that in SC2. In addition, the magnetic susceptibility of SC2 is \sim0.02 emu/mol right above T_{\rm c}, which is about one order of magnitude larger than that of SC1. These observations suggest that Fe(2) is magnetic in SC2 and that its magnetic coupling with Fe(1) is essential for facilitating the short-range magnetic order. Moreover, our previous neutron-scattering measurements revealed that the short-range magnetic order in samples with rich excess Fe enhances noticeably below 40 K.[22] This characteristic temperature is close to the temperature below which the charge-carrier localization behavior in both resistivity (Figs. 2 and 3) and Hall coefficient [Fig. 5(a)] was observed, suggesting that the short-range magnetic order stabilized by the Fe(1)-Fe(2) magnetic coupling is the origin of the charge-carrier localization in the superconducting sample containing high excess Fe. The small superconducting volume fraction observed in such samples suggests that the Fe(1)-Fe(2) magnetic coupling that mediates the short-range magnetic order suppresses superconducting pairing interaction. Disorders/defects introduced by the presence of excess Fe or Se substitution for Te should only have a minor effect on superconductivity since the Fe_{1+\gamma}(Te,Se) system is believed to have a considerably high upper critical field and a short coherence length as the LaFeAs (O,F) and (Ba,K)Fe_{2}As_{2} systems.[30; 39; 40]
+
+In general, short-range magnetic correlation could lead to an anomaly in specific heat at low temperatures. In sample SC2 with rich excess Fe we did not observe any feature related to short-range magnetic correlations. This can be attributed to the fact that this sample, while it does not exhibit bulk superconductivity, undergoes an inhomogeneous, non-bulk superconducting transition, as shown in the susceptibility data in Fig. 1(a); this would decrease electronic specific heat, thus smearing the anomaly feature caused by short-range magnetic correlations.
+
+## IV IV. Conclusions
+
+In summary, we have investigated the role of excess Fe at interstitial sites of (Te, Se) layers in the Fe_{1+\gamma}(Te, Se) superconductor system and shown that in the superconducting Fe_{1+\gamma}(Te,Se) the excess Fe not only suppresses superconductivity but also leads to weak charge-carrier localization; in the nonsuperconducting parent compound Fe_{1+\gamma}Te, however, the increase in excess Fe concentration causes an electronic-state evolution from a FL to a weakly localized state. Together with the magnetic structure previously established by neutron-scattering studies and recent DFT calculations, our results suggest that such weak charge-carrier localization is related to the magnetic coupling between the
+
+Figure 6: (Color online) Heat capacity C/T as a function of temperature for superconducting samples (a) SC1 and SC2, and nonsuperconducting samples (b) NSC1 and NSC2. Inset in (b) shows C/T versus T^{5}. The solid lines represent the fit to experimental data below 12 K (see the text).
+
+  excess Fe and the adjacent Fe sheets, which is responsible for the superconductivity suppression caused by the excess Fe.
+
+###### Acknowledgements.
+
+ The authors thank W. Bao for useful discussions. The work at Tulane is supported by the NSF under Grant No. DMR-0645305 for materials and equipment, the DOE under Grant No. DE-FG02-07ER46358 for personnel, the DOD ARO under Grant No. W911NF-08-C-0131, and the Research Corporation. Work at UNO is supported by DARPA under Grant No. HR0011-07-1-0031. Work at Penn State is supported by the DOE under Grant No. DE-FG02-04ER46159 and DOD ARO under Grant No. W911NF-07-1-0182 and NSF under Grant No. DMR-0701582. Work at Zhejiang University is supported by the NBRPC (Grants No. 2006CB01003 and No. 2009CB929104) and the PCSIRT of the Ministry of Education of China (Grant No. IRT0754).
+
+## References
+
+* [1] Y. Kamihara, T. Watanabe, M. Hirano, and H. Hosono, J. Am. Chem. Soc. **130**, 3296 (2008).
+* [2] X. H. Chen, T. Wu, G. Wu, R. H. Liu, H. Chen, and D. F. Fang, Nature (London) **453**, 761 (2008).
+* [3] G. F. Chen, Z. Li, D. Wu, G. Li, W. Z. Hu, J. Dong, P. Zheng, J. L. Luo, and N. L. Wang, Phys. Rev. Lett. **100**, 247002 (2008).
+* [4] Z. A. Ren, G. C. Che, X. L. Dong, J. Yang, W. Lu, W. Yi, X. L. Shen, Z. C. Li, L. L. Sun, F. Zhou, and Z. X. Zhao, EPL. **83**, 17002 (2008).
+* [5] J. Yang, Z. C. Li, W. Lu, W. Yi, X. L. Shen, Z. A. Ren, G. C. Che, X. L. Dong, L. L. Sun, F. Zhou, and Z. X. Zhao, Supercond. Sci. Technol. **21**, 082001 (2008).
+* [6] Y. Jia, P. Cheng, L. Fang, H. Luo, H. Yang, C. Ren, L. Shan, C. Gu, and H.-H. Wen, Appl. Phys. Lett. **93**, 032503 (2008).
+* [7] F. C. Hsu, J. Y. Luo, K. W. Yeh, T. K. Chen, T. W. Huang, P. M. Wu, Y. C. Lee, Y. L. Huang, Y. Y. Chu, D. C. Yan, and M. K. Wu, Proc. Natl. Acad. Sci. U.S.A. **105**, 14262 (2008).
+* [8] M. H. Fang, H. M. Pham, B. Qian, T. J. Liu, E. K. Vehstedt, Y. Liu, L. Spinu, and Z. Q. Mao, Phys. Rev. B **78**, 224503 (2008).
+* [9] K. W. Yeh, T. W. Huang, Y. L. Huang, T. K. Chen, F. C. Hsu, P. M. Wu, Y. C. Lee, Y. Y. Chu, C. L. Chen, J. Y. Luo, D. C. Yan, and M. K. Wu, EPL. **84**, 37002 (2008).
+* [10] Y. Mizuguchi, F. Tomioka, S. Tsuda, T. Yamaguchi, and Y. Takano, Appl. Phys. Lett. **93**, 152505 (2008).
+* [11] S. Margadonna, Y. Takabayashi, Y. Ohishi, Y. Mizuguchi, Y. Takano, T. Kagayama, T. Nakagawa, M. Takata, and K. Prassides, Phys. Rev. B **80**, 064506 (2009).
+* [12] S. Medvedev, T. M. McQueen, I. A. Troyan, T. Palasyuk, M. I. Eremets, R. J. Cava, S. Naghavi, F. Casper, V. Ksenofontov, G. Wortmann, and C. Felser, Nature Mater. **8**, 630 (2009).
+* [13] G. Garbarino, A. Sow, P. Lejay, A. Sulpice, P. Toulemonde, M. Mezouar, and M. Nunez-Regueiro, EPL **86**, 27001 (2009).
+* [14] A. Subedi, L. J. Zhang, D. J. Singh, and M. H. Du, Phys. Rev. B **78**, 134514 (2008).
+* [15] Y. Xia, D. Qian, L. Wray, D. Hsieh, G. F. Chen, J. L. Luo, N. L. Wang, and M. Z. Hasan, Phys. Rev. Lett. **103**, 037002 (2009).
+* [16] T. M. McQueen, Q. Huang, V. Ksenofontov, C. Felser, Q. Xu, H. Zandbergen, Y. S. Hor, J. Allred, A. J. Williams, D. Qu, J. Checkelsky, N. P. Ong, and R. J. Cava, Phys. Rev. B **79**, 014522 (2009).
+* [17] D. Phelan, J. N. Millican, E. L. Thomas, J. B. Leao, Y. Qiu, and R. Paul, Phys. Rev. B **79**, 014519 (2009).
+* [18] H. Kotegawa, S. Masaki, Y. Awai, H. Tou, Y. Mizuguchi, and Y. Takano, J. Phys. Soc. Jpn. **77**, 113703 (2008).
+* [19] Y. M. Qiu, W. Bao, Y. Zhao, C. Broholm, V. Stanev, Z. Tesanovic, Y. C. Gasparovic, S. Chang, J. Hu, B. Qian, M. H. Fang, and Z. Q. Mao, Phys. Rev. Lett. **103**, 067008 (2009).
+* [20] T. Imai, K. Ahilan, F. L. Ning, T. M. McQueen, and R. J. Cava, Phys. Rev. Lett. **102**, 177005 (2009).
+* [21] D. Fruchart, P. Convert, P. Wolfers, R. Madar, J. P. Senateur, and R. Fruchart, Mater. Res. Bull. **10**, 169 (1975).
+* [22] W. Bao, Y. Qiu, Q. Huang, M. A. Green, P. Zajdel, M. R. Fitzsimmons, M. Zhernenkov, S. Chang, M. Fang, B. Qian, E. K. Vehstedt, J. Yang, H. M. Pham, L. Spinu, and Z. Q. Mao, Phys. Rev. Lett. **102**, 247001 (2009).
+* [23] X. C. Wang, Q. Q. Liu, Y. X. Lv, W. B. Gao, L. X. Yang, R. C. Yu, F. Y. Li, and C. Q. Jin, Solid State Commun. **148**, 538 (2008).
+* [24] M. J. Pitcher, D. R. Parker, P. Adamson, S. J. C. Herkelrath, A. T. Boothroyd, R. M. Ibberson, M. Brunelli, and S. J. Clarke, Chem. Commun. (Cambridge) **2008**, 5918.
+* [25] J. H. Tapp, Z. Tang, B. Lv, K. Sasmal, B. Lorenz, P. C. W. Chu, and A. M. Guloy, Phys. Rev. B **78**, 060505 (2008).
+* [26] S. L. Li, C. de la Cruz, Q. Huang, Y. Chen, J. W. Lynn, J. P. Hu, Y. L. Huang, F. C. Hsu, K. W. Yeh, M. K. Wu, and P. C. Dai, Phys. Rev. B **79**, 054503 (2009).
+* [27] C. de la Cruz, Q. Huang, J. W. Lynn, J. Li, W. R. Ii, J. L. Zarestky, H. A. Mook, G. F. Chen, J. L. Luo, N. L. Wang, and P. C. Dai, Nature (London) **453**, 899 (2008).
+* [28] Q. Huang, Y. Qiu, W. Bao, M. A. Green, J. W. Lynn, Y. C. Gasparovic, T. Wu, G. Wu, and X. H. Chen, Phys. Rev. Lett. **101**, 257003 (2008).
+* [29] J. Zhao, D.-X. Yao, S. Li, T. Hong, Y. Chen, S. Chang, W. Ratcliff Ii, J. W. Lynn, H. A. Mook, G. F. Chen, J. L. Luo, N. L. Wang, E. W. Carlson, Jiangping Hu, and Pengcheng Dai, Phys. Rev. Lett. **101**, 167203 (2008).
+* [30] G. F. Chen, Z. G. Chen, J. Dong, W. Z. Hu, G. Li, X. D. Zhang, P. Zheng, J. L. Luo, and N. L. Wang, Phys. Rev. B **79**, 140509(R) (2009).
+* [31] M. D. Johannes and I. I. Mazin, Phys. Rev. B **79**, 220510 (2009).
+* [32] A. Turner, F. Wang, and A. Vishwanath, arXiv:0905.3782 (unpublished).
+* [33] M. J. Han and S. Y. Savrasov, Phys. Rev. Lett. **103**, 067001 (2009).
+* [34] C. Fang, B. A. Bemevig, and J. P. Hu, EPL **86**, 67005 (2009).
+* [35] B. C. Sales, A. S. Sefat, M. A. McGuire, R. Y. Jin, D. Mandrus, and Y. Mozharivskyj, Phys. Rev. B **79**, 094521 (2009).
+
+  * (36) A. S. Sefat, R. Jin, M. A. McGuire, B. C. Sales, D. J. Singh, and D. Mandrus, Phys. Rev. Lett. **101**, 117004 (2008).
+* (37) L. Zhang, D. J. Singh, and M. H. Du, Phys. Rev. B **79**, 012506 (2009).
+* (38) W. Bao (private communication).
+* (39) F. Hunte, J. Jaroszynski, A. Gurevich, D. C. Larbalestier, R. Jin, A. S. Sefat, M. A. McGuire, B. C. Sales, D. K. Christen, and D. Mandrus, Nature (London) **453**, 903 (2008).
+* (40) H. Q. Yuan, J. Singleton, F. F. Balakirev, S. A. Baily, G. F. Chen, J. L. Luo, and N. L. Wang, Nature (London) **457**, 565 (2009).
+
+ 

@@ -1,0 +1,135 @@
+Measurements of the temperature dependence of the magnetic-field penetration depth l in high-T_{c} superconductors (HTS) are of great interest since l is directly related to the London penetration depth l_{L} and, in turn, to the pair density n_{s}. The fundamental question of the pair mechanism responsible for high-T_{c} superconductivity and of the corresponding pairing state is intimately related to the temperature dependence of the magnetic penetration.
+
+This dependence is predicted to be purely exponential at low temperatures for an _s_-wave isotropic BCS superconductor, exhibiting a nonzero value of the gap over the entire Fermi surface. If nodal structures are present in the gap function, the temperature dependence of the penetration depth will show at low temperatures a power law, where the exponent is an integer number related to the fermiology of the superconductor and to the direction of the applied field.1
+
+Experimentally, it can be extremely hard to distinguish the exponential behavior from a power dependence at low temperatures, where the penetration depth changes only very slowly with the temperature. Therefore, in order to get reliable data, a high-sensitivity technique is needed.
+
+Many measurements of l(_T_) have been reported so far for HTS materials.2-7 For the YBa2Cu3O7-b (YBCO) compound, different behaviors at low temperatures have been observed. Anlage _et al._4 found an exponential behavior of l (with reduced gap), but the overall data could not be described by a BCS temperature dependence with a single-value gap. More recently, precision measurements have been performed on high-quality thin films and single crystals showing both quadratic5 and linear6 dependences. These difficulties in clearing up the electrodynamics of YBCO can be ascribed to the complexity of the microstructure of this compound and to the presence of impurities and/or disorder.
+
+In a recent paper,7 convincing evidence for a BCS-like behavior of high-quality single crystals and films of the _n_-doped high-T_{c} superconductor Nd1.85Ce0.15CuO4-8 (NCCO) were reported. Here, where the longer in-plane coherence length (_x_0  80 A)8 and the absence of Cu-O chains implies less sensitivity to microstructural defects, the penetration-depth measurements could be indeed well fitted over the whole temperature range assuming a single-value gap l0, with 2D0/_kBT_c * 4. Measurements of the surface resistance on the same samples were also consistent with this picture.
+
+The aim of this work is to present new data on the temperature dependence of the in-plane magnetic-field penetration depth for NCCO thin films. The experimental apparatus is based on a microwave resonator and allows us to achieve a resolution of a few angstroms from temperatures near T_{c} down to 1.5 K.
+
+The samples were obtained by laser ablation from a target of the desired stoichiometry in N2O ambient on (100) LaAlO3 substrates.9 The size of the films is 10 x 10 mm2 and the nominal thickness is 3000 A. X-ray-diffraction data show _c_-axis orientation, while the critical temperature values are in the 16-20 K range.
+
+The measurements were carried out by employing an inverted microstrip ring resonator technique described elsewhere.10,11 Test measurements on a symmetric Nb resonator, performed with the technique described below, showed a temperature dependence of the penetration depth in close agreement with the theoretical (BCS) prediction, giving a value 2D0/_kBT_c = 3.9 +- 0.1. To avoid patterning, the NCCO film is used as the ground plane whereas a high-quality YBCO film, deposited on a (100) LaAlO3 substrate by inverted cylindrical magnetron sputtering,12 is used for the microstrip ring. Due to the resonator geometry and film orientation, the current flows along the Cu-O2 planes so that the in-plane penetration depth is indeed measured. The dielectric layer is a thin (_d_  130 \mum), low-loss, single-crystal sapphire. The microstrip width u is about 500 \mum, while the ring diameter D is 8 mm. The ratio _u_/_D_ is small enough to ensure that in the frequency range of investigation (1 - 20 GHz) only the TM 10 modes can propagate. The microwave measurements are performed at the first harmonic, close to 4 GHz, using a network analyzer. The typical quality factor values of the YBCO/NCCO resonators are in the range 102-103, implying a frequency resolution of tens of kHz at low temperatures. Under these conditions, the sensitivity achieved for penetration-depth changes is  about 0.5 nm. The signal launchers are capacitively coupled to the device and are adjusted so that the resonator can be considered in the unloaded regime (insertion loss greater than 20 dB). The microwave power is usually set to 100 _m_W; this, together with the high values of the insertion losses, ensures that the measurements are performed at low excitation levels so that the data are not dependent on the power incident on the resonator.
+
+In the loose-coupling limit, the temperature variations of the resonant frequency are related to the temperature dependence of the penetration depth of the NCCO and YBCO films, l_{N} and l_{Y} respectively, by the relation:13
+
+\[\begin{equation*}{\mathrm{v}}(T) = \frac{c}{{\pi D}{\sqrt {{\varepsilon}_{{\mathrm{eff}}}(T)}}} \\{\times \frac{1}{{\left[ {1 + \frac{{\lambda}_{{\mathrm{eff}}}}{d} + \frac{{\lambda}_{N}(T)}{d}{\mathrm{coth}}\left[ {\frac{{t}_{N}}{{\lambda}_{N}(T)}} \right]} \right]}^{1/2}}}\end{equation*}\]
+
+, where eeff is a temperature-dependent effective dielectric constant, t_{N} is the NCCO thickness, and l_{f} is the penetration depth of the YBCO film corrected for finite-thickness effects. The value of l_{f} ( 170 nm) was determined by preliminary measurements on symmetric YBCO resonators. Consistently with current literature,5,6 the rate of change of _l__N_eff in the low-temperature region (_T_ < 15 K) is less than 0.5 nm/K, corresponding in our case to a frequency shift less than 10 kHz/K, so that only about 2% of the observed overall frequency shift [see Fig. 1(a)] can be ascribed to changes in the value of l_{T}. For this reason, we can assume l_{T} temperature independent in our measurements. The temperature changes in the effective dielectric constant of the resonator are essentially due to the variations of the helium vapor density as the resonator package approaches the liquid-helium surface.13 To avoid this undesired effect, which can mask, at low temperatures, the variations of the resonant frequency related to the NCCO penetration depth, the measurements are performed at low-pressure conditions ( < 10 mbar).
+
+In Fig. 1(a) the experimental dependence of the resonant frequency n versus temperature is reported for one of our NCCO films. The continuous curve is obtained by Eq. (1), using l_{T} = 170 nm, and for l_{N}(_T_) the complete theoretical BCS expression in the local limit _l__(_T_) = l_{L}(_T_) V 1 + [_x_0/_J_(0,_T_)], where l is the mean free path and _J_(_0,_T_) is the BCS range function.14
+
+The fit is obtained using appropriate numerical approximations for the BCS integrals and a standard best-fit program, with x0/_l_ and t_{N} as input parameters and T_{c}, eeff, l_{N}(0), and l_{N}(_T_) as fitting parameters. Input and fitting parameters are reported in Table 1.
+
+The value of T_{c} obtained by the fitting procedure agrees well with the resistively measured value for the same film (_T__c_0 = 17.8 K). The value of l0 indicates a weak-coupling behavior for our NCCO films, yielding an energy gap ratio 2_l__0_/_k__B_T_c = 3.1 +- 0.1. The zero-temperature penetration depth l_{N}(0) is higher than the values reported in Ref. 17. This can be ascribed to the lower quality of our films. Since the condition t_{N} < l_{N} holds at all temperatures, the film effective surface resistance R_{f} is significantly enhanced due to both finite-thickness effects and power transmission through the substrate.15 This can justify the value R_{f}  10 m_l_ measured at liquid-helium temperature, higher than previously reported in the literature.7,9
+
+In Fig. 1(b) the frequency shift D_n_(_T_) = _n_(_0_) - _n_(_T_) at low temperatures (_T_ <= _T__c_/2) is reported on an expanded scale for the same sample, together with the complete BCS theoretical curve. A clear exponential dependence is displayed by D_n_(_T_), reflecting the BCS _s_-wave behavior
+
+\begin{table}
+\begin{tabular}{c c c c c c} t_{N} (nm) & _ξ__0_/_l_ & T_{c} (K) & _λ__N_ (nm) & _λ__0_ (meV) & eeff \\
+300 & 0.5a & 17.2 + 0.1 & 360 ± 20 & 2.3 ± 0.1 & 6.4 ± 0.1 \\ \end{tabular}
+\end{table}
+Table 1: Parameters used to fit the temperature dependence λ_N_(_T_) of the Nd1.85Ce0.15CuO4−8 compound in the framework of the BCS theory (local limit).
+
+Figure 1: (a) Temperature dependence of the resonator frequency _ν_ for a Nd1.85Ce0.15CuO4−8 thin film; (b) temperature dependence of Δ_ν_(_T_) = _ν_(0) − _ν_(_T_) for _T_/_T__c_ ≤ 0.5 for the same sample. The continuous curve represents the best fit of the data using the local limit BCS formulation.
+
+  of \lambda_{N}(T), which predicts, at very low temperatures in the clean local limit:
+
+\[\Delta\nu(T)\propto\Delta\lambda_{N}(T)=\lambda_{N}(0)\left\lfloor\frac{\pi\Delta_ {0}}{2k_{B}T}\right\rfloor^{1/2}\exp\left\{-\frac{\Delta_{0}}{k_{B}T}\right\}\,.\] (2)
+
+However, it should be noted that, within our measurement sensitivity, the use of Eq. (2) in place of the full BCS integral expression in the fitting procedure for \lambda_{N}(T) represents a good approximation only for T\leq T_{c}/4. A fit of all our data in Fig. 1(b) (T\leq T_{c}/2) with Eq. (2) would in fact lead to a considerable overestimation (more than 15%) of the parameter 2\Delta_{0}/k_{B}T_{c}. Besides minor difference in the parameters reported in Table I, for all the measured films both the exponential behavior at low temperatures and the value 2\Delta_{0}/k_{B}T_{c} in the BCS weak-coupling range were clearly verified, and any attempt to fit the low-temperature data with a power law was unsuccessful.
+
+In conclusion, our measurements of the temperature dependence of the magnetic penetration depth in NCCO films show that the electrodynamics of this superconductor can be described by the BCS theory. The low-temperature behavior is in fact clearly exponential, in spite of the quality of our samples, indicating a constant, single-gap (s-wave) behavior. Our data, obtained by a different technique, confirm the results of Ref. [7] on NCCO thin films and single crystals, though a smaller value of 2\Delta_{0}/k_{B}T_{c} is found.
+
+The authors would like to thank A. Maggio and F. Belardo for their technical assistance. The work has been supported by the National Research Council (CNR) of Italy under the Progetto Finalizzato "Superconductive and Cryogenic Technologies" and by the Consorzio INFM of Italy.
+
+## References
+
+* [*] Present address: Istituto di Cibernetica, Consiglio Nazionale delle Ricerche, Arco Felice (Na), I-80072 Napoli, Italy.
+* [3] F. Gross, B. S. Chandrasekhar, D. Einzel, K. Andres, P. J. Hirschfeld, H. R. Ott, J. Beuers, Z. Fisk, and J. L. Smith, Z. Phys. B **64**, 175 (1986); J. F. Annett, N. D. Goldenfeld, and S. R. Renn, in _Physical Properties of High Temperature Superconductors II_, edited by D. M. Ginsberg (World Scientific, New York, 1990), p. 571.
+* [4] H. Ning, H. Duan, P. D. Kirven, A. M. Hermann, and T. Datta, J. Supercond. **5**, 503 (1992).
+* [5] A. Maeda, T. Shibauchi, N. Kondo, K. Uchinokura, and M. Kobayashi, Phys. Rev. B **46**, 14 234 (1992).
+* [6] S. M. Anlage, B. W. Langley, G. Deutscher, J. Halbritter, and M. R. Beasley, Phys. Rev. B **44**, 9764 (1991).
+* [7] Z. Ma, R. C. Tabor, L. W. Lombardo, A. Kapitulnik, M. R. Beasley, P. Merchant, C. B. Eom, S. Y. Hou, and J. M. Phillips, Phys. Rev. Lett. **71**, 781 (1993).
+* [8] W. N. Hardy, D. A. Bonn, D. C. Morgan, R. Liang, and K. Zhang, Phys. Rev. Lett. **70**, 3999 (1993).
+* [9] D. H. Wu, J. Mao, S. N. Mao, J. L. Peng, X. X. Xi, T. Venkatesan, R. L. Greene, and S. M. Anlage, Phys. Rev. Lett. **70**, 85 (1993).
+* [10] Y. Hidaka and M. Suzuki, Nature **338**, 635 (1989).
+* [11] A. Kussmaul, J. S. Moodera, P. M. Tedrow, and A. Gupta, Appl. Phys. Lett. **61**, 2715 (1992).
+* [12] A. Andreone, C. Attanasio, A. Di Chiara, L. Maritato, A. Nigro, G. Peluso, and R. Vaglio, Physica C **180**, 272 (1991).
+* [13] A. Andreone, C. Attanasio, A. Di Chiara, L. Maritato, M. Santoro, and R. Vaglio, J. Appl. Phys. **73**, 4500 (1993).
+* [14] A. Andreone, A. Di Chiara, F. Fontana, F. Miletto, G. Peluso, U. Scotti di Uccio, and M. Valentino, Fiz. Nizk. Temp. **18**, 1113 (1992) [Sov. J. Low Temp. Phys. **18**, 779 (1992)].
+* [15] B. W. Langley, S. M. Anlage, R. F. W. Pease, and M. R. Beasley, Rev. Sci. Instrum. **62**, 1801 (1991).
+* [16] M. Tinkham, _Introduction to Superconductivity_ (McGraw-Hill, New York, 1975).
+* [17] N. Klein, H. Chaloupka, G. Muller, S. Orbach, H. Piel, B. Roas, L. Schultz, U. Klein, and M. Peiniger, J. Appl. Phys. **67**, 6940 (1990).
+
+ Measurements of the temperature dependence of the magnetic-field penetration depth l in high-T_{c} superconductors (HTS) are of great interest since l is directly related to the London penetration depth l_{L} and, in turn, to the pair density n_{s}. The fundamental question of the pair mechanism responsible for high-T_{c} superconductivity and of the corresponding pairing state is intimately related to the temperature dependence of the magnetic penetration.
+
+This dependence is predicted to be purely exponential at low temperatures for an _s_-wave isotropic BCS superconductor, exhibiting a nonzero value of the gap over the entire Fermi surface. If nodal structures are present in the gap function, the temperature dependence of the penetration depth will show at low temperatures a power law, where the exponent is an integer number related to the fermiology of the superconductor and to the direction of the applied field.1
+
+Experimentally, it can be extremely hard to distinguish the exponential behavior from a power dependence at low temperatures, where the penetration depth changes only very slowly with the temperature. Therefore, in order to get reliable data, a high-sensitivity technique is needed.
+
+Many measurements of l(_T_) have been reported so far for HTS materials.2-7 For the YBa2Cu3O7-b (YBCO) compound, different behaviors at low temperatures have been observed. Anlage _et al._4 found an exponential behavior of l (with reduced gap), but the overall data could not be described by a BCS temperature dependence with a single-value gap. More recently, precision measurements have been performed on high-quality thin films and single crystals showing both quadratic5 and linear6 dependences. These difficulties in clearing up the electrodynamics of YBCO can be ascribed to the complexity of the microstructure of this compound and to the presence of impurities and/or disorder.
+
+In a recent paper,7 convincing evidence for a BCS-like behavior of high-quality single crystals and films of the _n_-doped high-T_{c} superconductor Nd1.85Ce0.15CuO4-8 (NCCO) were reported. Here, where the longer in-plane coherence length (_x_0  80 A)8 and the absence of Cu-O chains implies less sensitivity to microstructural defects, the penetration-depth measurements could be indeed well fitted over the whole temperature range assuming a single-value gap l0, with 2D0/_kBT_c * 4. Measurements of the surface resistance on the same samples were also consistent with this picture.
+
+The aim of this work is to present new data on the temperature dependence of the in-plane magnetic-field penetration depth for NCCO thin films. The experimental apparatus is based on a microwave resonator and allows us to achieve a resolution of a few angstroms from temperatures near T_{c} down to 1.5 K.
+
+The samples were obtained by laser ablation from a target of the desired stoichiometry in N2O ambient on (100) LaAlO3 substrates.9 The size of the films is 10 x 10 mm2 and the nominal thickness is 3000 A. X-ray-diffraction data show _c_-axis orientation, while the critical temperature values are in the 16-20 K range.
+
+The measurements were carried out by employing an inverted microstrip ring resonator technique described elsewhere.10,11 Test measurements on a symmetric Nb resonator, performed with the technique described below, showed a temperature dependence of the penetration depth in close agreement with the theoretical (BCS) prediction, giving a value 2D0/_kBT_c = 3.9 +- 0.1. To avoid patterning, the NCCO film is used as the ground plane whereas a high-quality YBCO film, deposited on a (100) LaAlO3 substrate by inverted cylindrical magnetron sputtering,12 is used for the microstrip ring. Due to the resonator geometry and film orientation, the current flows along the Cu-O2 planes so that the in-plane penetration depth is indeed measured. The dielectric layer is a thin (_d_  130 \mum), low-loss, single-crystal sapphire. The microstrip width u is about 500 \mum, while the ring diameter D is 8 mm. The ratio _u_/_D_ is small enough to ensure that in the frequency range of investigation (1 - 20 GHz) only the TM 10 modes can propagate. The microwave measurements are performed at the first harmonic, close to 4 GHz, using a network analyzer. The typical quality factor values of the YBCO/NCCO resonators are in the range 102-103, implying a frequency resolution of tens of kHz at low temperatures. Under these conditions, the sensitivity achieved for penetration-depth changes is  about 0.5 nm. The signal launchers are capacitively coupled to the device and are adjusted so that the resonator can be considered in the unloaded regime (insertion loss greater than 20 dB). The microwave power is usually set to 100 _m_W; this, together with the high values of the insertion losses, ensures that the measurements are performed at low excitation levels so that the data are not dependent on the power incident on the resonator.
+
+In the loose-coupling limit, the temperature variations of the resonant frequency are related to the temperature dependence of the penetration depth of the NCCO and YBCO films, l_{N} and l_{Y} respectively, by the relation:13
+
+\[\begin{equation*}{\mathrm{v}}(T) = \frac{c}{{\pi D}{\sqrt {{\varepsilon}_{{\mathrm{eff}}}(T)}}} \\{\times \frac{1}{{\left[ {1 + \frac{{\lambda}_{{\mathrm{eff}}}}{d} + \frac{{\lambda}_{N}(T)}{d}{\mathrm{coth}}\left[ {\frac{{t}_{N}}{{\lambda}_{N}(T)}} \right]} \right]}^{1/2}}}\end{equation*}\]
+
+, where eeff is a temperature-dependent effective dielectric constant, t_{N} is the NCCO thickness, and l_{f} is the penetration depth of the YBCO film corrected for finite-thickness effects. The value of l_{f} ( 170 nm) was determined by preliminary measurements on symmetric YBCO resonators. Consistently with current literature,5,6 the rate of change of _l__N_eff in the low-temperature region (_T_ < 15 K) is less than 0.5 nm/K, corresponding in our case to a frequency shift less than 10 kHz/K, so that only about 2% of the observed overall frequency shift [see Fig. 1(a)] can be ascribed to changes in the value of l_{T}. For this reason, we can assume l_{T} temperature independent in our measurements. The temperature changes in the effective dielectric constant of the resonator are essentially due to the variations of the helium vapor density as the resonator package approaches the liquid-helium surface.13 To avoid this undesired effect, which can mask, at low temperatures, the variations of the resonant frequency related to the NCCO penetration depth, the measurements are performed at low-pressure conditions ( < 10 mbar).
+
+In Fig. 1(a) the experimental dependence of the resonant frequency n versus temperature is reported for one of our NCCO films. The continuous curve is obtained by Eq. (1), using l_{T} = 170 nm, and for l_{N}(_T_) the complete theoretical BCS expression in the local limit _l__(_T_) = l_{L}(_T_) V 1 + [_x_0/_J_(0,_T_)], where l is the mean free path and _J_(_0,_T_) is the BCS range function.14
+
+The fit is obtained using appropriate numerical approximations for the BCS integrals and a standard best-fit program, with x0/_l_ and t_{N} as input parameters and T_{c}, eeff, l_{N}(0), and l_{N}(_T_) as fitting parameters. Input and fitting parameters are reported in Table 1.
+
+The value of T_{c} obtained by the fitting procedure agrees well with the resistively measured value for the same film (_T__c_0 = 17.8 K). The value of l0 indicates a weak-coupling behavior for our NCCO films, yielding an energy gap ratio 2_l__0_/_k__B_T_c = 3.1 +- 0.1. The zero-temperature penetration depth l_{N}(0) is higher than the values reported in Ref. 17. This can be ascribed to the lower quality of our films. Since the condition t_{N} < l_{N} holds at all temperatures, the film effective surface resistance R_{f} is significantly enhanced due to both finite-thickness effects and power transmission through the substrate.15 This can justify the value R_{f}  10 m_l_ measured at liquid-helium temperature, higher than previously reported in the literature.7,9
+
+In Fig. 1(b) the frequency shift D_n_(_T_) = _n_(_0_) - _n_(_T_) at low temperatures (_T_ <= _T__c_/2) is reported on an expanded scale for the same sample, together with the complete BCS theoretical curve. A clear exponential dependence is displayed by D_n_(_T_), reflecting the BCS _s_-wave behavior
+
+\begin{table}
+\begin{tabular}{c c c c c c} t_{N} (nm) & _ξ__0_/_l_ & T_{c} (K) & _λ__N_ (nm) & _λ__0_ (meV) & eeff \\
+300 & 0.5a & 17.2 + 0.1 & 360 ± 20 & 2.3 ± 0.1 & 6.4 ± 0.1 \\ \end{tabular}
+\end{table}
+Table 1: Parameters used to fit the temperature dependence λ_N_(_T_) of the Nd1.85Ce0.15CuO4−8 compound in the framework of the BCS theory (local limit).
+
+Figure 1: (a) Temperature dependence of the resonator frequency _ν_ for a Nd1.85Ce0.15CuO4−8 thin film; (b) temperature dependence of Δ_ν_(_T_) = _ν_(0) − _ν_(_T_) for _T_/_T__c_ ≤ 0.5 for the same sample. The continuous curve represents the best fit of the data using the local limit BCS formulation.
+
+  of \lambda_{N}(T), which predicts, at very low temperatures in the clean local limit:
+
+\[\Delta\nu(T)\propto\Delta\lambda_{N}(T)=\lambda_{N}(0)\left\lfloor\frac{\pi\Delta_ {0}}{2k_{B}T}\right\rfloor^{1/2}\exp\left\{-\frac{\Delta_{0}}{k_{B}T}\right\}\,.\] (2)
+
+However, it should be noted that, within our measurement sensitivity, the use of Eq. (2) in place of the full BCS integral expression in the fitting procedure for \lambda_{N}(T) represents a good approximation only for T\leq T_{c}/4. A fit of all our data in Fig. 1(b) (T\leq T_{c}/2) with Eq. (2) would in fact lead to a considerable overestimation (more than 15%) of the parameter 2\Delta_{0}/k_{B}T_{c}. Besides minor difference in the parameters reported in Table I, for all the measured films both the exponential behavior at low temperatures and the value 2\Delta_{0}/k_{B}T_{c} in the BCS weak-coupling range were clearly verified, and any attempt to fit the low-temperature data with a power law was unsuccessful.
+
+In conclusion, our measurements of the temperature dependence of the magnetic penetration depth in NCCO films show that the electrodynamics of this superconductor can be described by the BCS theory. The low-temperature behavior is in fact clearly exponential, in spite of the quality of our samples, indicating a constant, single-gap (s-wave) behavior. Our data, obtained by a different technique, confirm the results of Ref. [7] on NCCO thin films and single crystals, though a smaller value of 2\Delta_{0}/k_{B}T_{c} is found.
+
+The authors would like to thank A. Maggio and F. Belardo for their technical assistance. The work has been supported by the National Research Council (CNR) of Italy under the Progetto Finalizzato "Superconductive and Cryogenic Technologies" and by the Consorzio INFM of Italy.
+
+## References
+
+* [*] Present address: Istituto di Cibernetica, Consiglio Nazionale delle Ricerche, Arco Felice (Na), I-80072 Napoli, Italy.
+* [3] F. Gross, B. S. Chandrasekhar, D. Einzel, K. Andres, P. J. Hirschfeld, H. R. Ott, J. Beuers, Z. Fisk, and J. L. Smith, Z. Phys. B **64**, 175 (1986); J. F. Annett, N. D. Goldenfeld, and S. R. Renn, in _Physical Properties of High Temperature Superconductors II_, edited by D. M. Ginsberg (World Scientific, New York, 1990), p. 571.
+* [4] H. Ning, H. Duan, P. D. Kirven, A. M. Hermann, and T. Datta, J. Supercond. **5**, 503 (1992).
+* [5] A. Maeda, T. Shibauchi, N. Kondo, K. Uchinokura, and M. Kobayashi, Phys. Rev. B **46**, 14 234 (1992).
+* [6] S. M. Anlage, B. W. Langley, G. Deutscher, J. Halbritter, and M. R. Beasley, Phys. Rev. B **44**, 9764 (1991).
+* [7] Z. Ma, R. C. Tabor, L. W. Lombardo, A. Kapitulnik, M. R. Beasley, P. Merchant, C. B. Eom, S. Y. Hou, and J. M. Phillips, Phys. Rev. Lett. **71**, 781 (1993).
+* [8] W. N. Hardy, D. A. Bonn, D. C. Morgan, R. Liang, and K. Zhang, Phys. Rev. Lett. **70**, 3999 (1993).
+* [9] D. H. Wu, J. Mao, S. N. Mao, J. L. Peng, X. X. Xi, T. Venkatesan, R. L. Greene, and S. M. Anlage, Phys. Rev. Lett. **70**, 85 (1993).
+* [10] Y. Hidaka and M. Suzuki, Nature **338**, 635 (1989).
+* [11] A. Kussmaul, J. S. Moodera, P. M. Tedrow, and A. Gupta, Appl. Phys. Lett. **61**, 2715 (1992).
+* [12] A. Andreone, C. Attanasio, A. Di Chiara, L. Maritato, A. Nigro, G. Peluso, and R. Vaglio, Physica C **180**, 272 (1991).
+* [13] A. Andreone, C. Attanasio, A. Di Chiara, L. Maritato, M. Santoro, and R. Vaglio, J. Appl. Phys. **73**, 4500 (1993).
+* [14] A. Andreone, A. Di Chiara, F. Fontana, F. Miletto, G. Peluso, U. Scotti di Uccio, and M. Valentino, Fiz. Nizk. Temp. **18**, 1113 (1992) [Sov. J. Low Temp. Phys. **18**, 779 (1992)].
+* [15] B. W. Langley, S. M. Anlage, R. F. W. Pease, and M. R. Beasley, Rev. Sci. Instrum. **62**, 1801 (1991).
+* [16] M. Tinkham, _Introduction to Superconductivity_ (McGraw-Hill, New York, 1975).
+* [17] N. Klein, H. Chaloupka, G. Muller, S. Orbach, H. Piel, B. Roas, L. Schultz, U. Klein, and M. Peiniger, J. Appl. Phys. **67**, 6940 (1990).
+
+ 

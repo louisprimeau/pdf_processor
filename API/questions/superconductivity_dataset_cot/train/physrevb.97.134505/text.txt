@@ -1,0 +1,250 @@
+
+
+# Pressure effect on the superconducting and the normal state of _b_-Bi2Pd
+
+G. Pristas
+
+gabriel.pristas@saske.sk Centre of Low Temperature Physics, Institute of Experimental Physics SAS, Watsonowa 47, 040 01 Kosice, Slovakia
+
+Mat. Orendac
+
+Centre of Low Temperature Physics, Institute of Experimental Physics SAS, Watsonowa 47, 040 01 Kosice, Slovakia Institute of Physics, Faculty of Science, P. J. Safarik University, Park Angelinum 9, 040 01 Kosice, Slovakia
+
+S. Gabani
+
+Centre of Low Temperature Physics, Institute of Experimental Physics SAS, Watsonowa 47, 040 01 Kosice, Slovakia
+
+J. Kacmarcik
+
+Centre of Low Temperature Physics, Institute of Experimental Physics SAS, Watsonowa 47, 040 01 Kosice, Slovakia
+
+E. Gazo
+
+Centre of Low Temperature Physics, Institute of Experimental Physics SAS, Watsonowa 47, 040 01 Kosice, Slovakia
+
+Z. Pribulova
+
+Centre of Low Temperature Physics, Institute of Experimental Physics SAS, Watsonowa 47, 040 01 Kosice, Slovakia
+
+A. Correa-Orellana
+
+Instituto de Ciencia de Materiales de Madrid, Consejo Superior de Investigaciones Cientificas (ICMM-CSIC), Sor Juana Ines dela Cruz 3, 28049 Madrid, Spain
+
+E. Herrera
+
+Laboratorio de Bajas Temperaturas, Departamento de Fisica de la Materia Condensada, Instituto Nicolas Cabrera and Condensed Matter Physics Center (IFIMAC), Universidad Autonoma de Madrid, 28049 Madrid, Spain
+
+H. Suderow
+
+Laboratorio de Bajas Temperaturas, Departamento de Fisica de la Materia Condensada, Instituto Nicolas Cabrera and Condensed Matter Physics Center (IFIMAC), Universidad Autonoma de Madrid, 28049 Madrid, Spain
+
+P. Samuely
+
+Centre of Low Temperature Physics, Institute of Experimental Physics SAS, Watsonowa 47, 040 01 Kosice, Slovakia Institute of Physics, Faculty of Science, P. J. Safarik University, Park Angelinum 9, 040 01 Kosice, Slovakia Instituto de Ciencia de Materiales de Madrid, Consejo Superior de Investigaciones Cientificas (ICMM-CSIC), Sor Juana Ines dela Cruz 3, 28049 Madrid, Spain
+
+November 6, 2021
+
+###### Abstract
+
+The pressure effect up to 24.0 kbar on superconducting and normal-state properties of _b_-Bi2Pd single crystal (\(T_{\text{c}}\approx 4.98\) K at ambient pressure) has been investigated by measurements of the electrical resistivity. In addition, we have performed the heat capacity measurements in the temperature range 0.7-300 K at ambient pressure. The recent calculations of electronic density of states, electron-phonon interaction spectral function, and phonon density of states of _b_-Bi2Pd [Zheng and Margine, Phys. Rev. B **95**, 014512 (2017)], are used to fit the resistivity and the heat capacity data. In the superconducting state we have focused on the influence of pressure on the superconducting transition temperature \(T_{\text{c}}\) and upper critical field \(H_{\text{c2}}\) and a negative effect with \(dT_{\text{c}}/dp=-0.025\) K/kbar and \(dH_{\text{c2}}/dp=-8\) mT/kbar is found. A simplified Bloch-Gruneisen model was used to analyze the pressure effect on the temperature dependence of the normal-state resistivity. The obtained results point to a decrease of the electron-phonon coupling parameter \(\lambda\) and to a shift of phonon frequencies to higher values with pressure. Moreover, the temperature dependence of the normal-state resistivity follows a \(T^{2}\) dependence above \(T_{\text{c}}\) up to about 25 K. Together with the enhanced value of Sommerfeld coefficient \(\gamma=13.23\) mJ mol\({}^{-1}\) K\({}^{-2}\) these results point to a certain role of the electron-electron interaction in the superconducting pairing mechanism in _b_-Bi2Pd.
+
+DOI: 10.1103/PhysRevB.97.134505
+
+## I Introduction
+
+Application of pressure (_p_) is an effective method for controlling physical properties of condensed matter. Especially, in case of superconducting materials, the study of pressure influence on superconducting parameters can shed light on coupling mechanism of Cooper pairs [1,2]. Recently, the compound _b_-Bi2Pd has attracted interest due to controversial results about the origin of superconductivity, where there are some indications on a multigap superconductivity [3], topologically protected surface states [4,5,6], as well as a standard conventional superconductivity in this system [7,8,9]. Therefore, we decided to study the influence of high pressure on superconducting parameters of _b_-Bi2Pd, and perform additional measurements of its normal-state properties. To our knowledge there is a single experimental study of the pressure effect (measured up to 16.63 kbar) on the superconducting transition temperature of _b_-Bi2Pd [10].
+
+The rest of the paper is organized as follows. Section II deals with the preparation of single crystals and experimental details. In Sec. III.1 we present the results of the magnetotransport experiments in the superconducting state under high pressure up to 24.0 kbar. As a result, the pressure dependence of the superconducting transition temperature \(T_{\text{c}}\) and the upper critical fields \(H_{\text{c2}}\) have been obtained, both showing a decrease. Angular dependence of the upper critical field brings evidence that surface superconductivity is at play for the field orientation close to parallel to the basal plane of the crystal. In Sec. III.2 we present resistivity measurements in the normal state between 5 and 300 K and up to 24.0 kbar. The resistivity data at ambient pressure can be fitted by the Bloch-Gruneisen formula based on the theoretically predicted electron-phonon interaction spectral function \(\alpha^{2}F(\omega)\)[9], but also by its simplified version with a single-phonon mode. The latter model applied on the normal-state resistivity at increasing pressure provides evidence that the dominant phonon frequency is shifted higher and the electron-phonon coupling constantis decreasing upon increasing pressure causing a lower \(T_{\text{c}}\). The fits by the Bloch-Gruneisen model are affected by \(T^{2}\) dependence of resistivity at low temperatures up to about 25 K, similarly as in Nb3Sn [11]. Evolution of this \(T^{2}\) dependence of the resistivity under pressure we present in Sec. III.3. In the last paragraph of Sec. III.4 we present experimental data of the heat capacity at ambient pressure, which we compare with the calculations based on the theoretically predicted phonon density of states (PHDOS) [9]. The obtained Sommerfeld coefficient is significantly smaller than that from experiment. This together with the \(T^{2}\) dependence of the resistivity indicates that beside the electron-phonon coupling, also an electron-electron interaction may play a role in the superconductivity of \(\beta\)-Bi\({}_{2}\)Pd. Finally, in Sec. IV. we summarize our results.
+
+## II Experiment
+
+The single crystals of \(\beta\)-Bi\({}_{2}\)Pd have been grown using melt-growth technique from high-purity Bi (Alfa Aesar 99.99%) and Pd (Alfa Aesar 99.95%) sealed at 140 mbar of He gas in quartz ampoules. The details of sample preparation can be found in Ref. [12].
+
+All the measurements have been realized in the Centre of Low Temperature Physics, Kosice. The high-pressure magnetotransport experiments have been performed in a piston cylinder pressure cell. Pressure was applied at room temperature and the Daphne oil 7373 was used as pressure transmitting medium. For determination of applied pressure we used the absolute value of the resistivity of Pb at room temperature [13] and value of superconducting transition temperature \(T_{\rm c}\) at low temperatures, respectively. The pressure change on cooling is estimated to be less than 2 kbar. The temperature and magnetic field dependences of the resistance between 1.6 and 300 K were measured using \({}^{4}\) He cryostat with superconducting magnet and variable temperature insert (Oxford Instruments). The electrical resistivity was measured by a standard four-probe technique using lock-in amplifiers by Stanford Research. Low-temperature measurement of the heat capacity from 0.7-7 K have been performed using ac calorimetry. More details about the ac calorimetry measurements can be found in Ref. [7]. Measurement of the heat capacity in the temperature range 2-300 K has been performed using the standard relaxation technique on the Physical Property Measurement System (PPMS) by Quantum Design.
+
+## III Results and Discussion
+
+### Magnetotransport experiments in superconducting state under high pressure
+
+The pressure effect on superconducting and normal-state properties of \(\beta\)-Bi\({}_{2}\)Pd (\(T_{\rm c}\approx 4.98\) K at ambient pressure) has been investigated by measurements of the electrical resistivity on two pieces of samples cut out from the same thin sheet of single crystal. The two samples were positioned such that one of them had _ab_ planes aligned parallel to applied magnetic field \(H\), while the other was perpendicular to this direction [see Fig. 1(a)]. This configuration allowed us to measure the upper critical field in both directions, \(H_{\rm c2}\)\({}^{\rm ab}\) and \(H_{\rm c2}\)\({}^{\rm c}\), simultaneously. As it will be shown later, during closing of the pressure cell the sample for measurement of \(H_{\rm c2}\)\({}^{\rm ab}\) was misaligned from a perfect parallel position and therefore we will denote the observed critical field as \(H_{\rm c2}\)\({}^{\rm ab*}\).
+
+Figure 1(b) shows the superconducting transitions of \(\beta\)-Bi\({}_{2}\)Pd sample in zero magnetic field under various pressures. The width of superconducting transition is about 80 mK at all pressures. The fact that the width of the transition remains the same upon increasing pressure points to highly homogeneous hydrostatic pressure in our piston cylinder pressure cell. In order to compare our results with the work by Zhao _et al._[10], we analyzed their data in the same way as in our case, i.e., a value of \(T_{\rm c}\) is defined as the temperature corresponding to the midpoint of the resistivity transition and the width of the transition is defined as temperature range between 90% and 10% of resistivity value in normal state.
+
+Figure 2: Pressure dependence of superconducting transition temperature \(T_{\rm c}\) for \(\beta\)-Bi\({}_{2}\)Pd up to 24.0 kbar (solid squares) and corresponding linear fit (blue line). For comparison we show also data from Zhao _et al._[10] (open circles).
+
+Figure 1: (a) Photo and schematic drawing of assembled feed-through with two samples of \(\beta\)-Bi\({}_{2}\)Pd and Pb as manometer. (b) Pressure dependences of the superconducting transition for \(\beta\)-Bi\({}_{2}\)Pd.
+
+  Figure 2 shows comparison of the pressure dependence of \(T_{\rm c}\) for our \(\beta\)-Bi\({}_{2}\)Pd sample and the sample measured in Ref. [10]. One can see that values of \(T_{\rm c}\) are in good agreement with each other. In our case we have at least three times narrower transitions, which points to better quality of our sample. This is also obvious from a comparison of absolute values of the resistivity, where just above \(T_{\rm c}\) in the case of Zhao _et al._\(\rho\) is about 48 \(\mu\Omega\)cm and in our case it is about 22 \(\mu\Omega\)cm. The slightly enhanced value of \(T_{\rm c}\) for sample in work by Zhao _et al._ can be explained by the increased number of lattice defects, as it was shown, for example, in tin [14]. The resistivity measurements up to 24.0 kbar have shown a negative effect of pressure on \(T_{\rm c}\) with a slope of \(dT_{\rm c}/dp=-0.025\) K/kbar, which is in good agreement with the work by Zhao _et al._, where \(dT_{\rm c}/dp=-0.028\) K/kbar (measured up to 16.63 kbar) was found. Decrease of \(T_{\rm c}\) with pressure can be understood in the framework of suppressing the electron-phonon interaction and the shift of phonon frequencies in \(\beta\)-Bi\({}_{2}\)Pd to higher energy. The superconducting transitions at different magnetic fields for \(\beta\)-Bi\({}_{2}\)Pd at maximum pressure of 24.0 kbar, in two above-mentioned configurations, \(H||ab\) and \(H~{}||~{}c\), are shown in Fig. 3.
+
+The upper critical fields have been determined from the magnetoresistive superconducting transitions at the steepest slope, around 50% of the normal-state resistance (\(T\), \(H\)). Figures 4 and 5 show the resulting temperature dependences of \(H_{\rm c2}\)\({}^{c}\)(\(T\)) and \(H_{\rm c2}\)\({}^{ab*}\)(\(T\)) at various pressures (circles and squares, respectively). These graphs reveal a systematic decrease of the zero-field transition temperature \(T_{\rm c}\) as well as of the zero-temperature value of \(H_{\rm c2}\)\({}^{c}\)(0) and \(H_{\rm c2}\)\({}^{ab*}\)(0) with increasing pressure. \(H_{\rm c2}\)(0) values were extrapolated using the Werthamer-Helfand-Hohenberg (WHH) [15] fits
+
+Figure 4: Temperature dependences of the upper critical field (\(H_{\rm c2}\)\({}^{c}\)) at different pressures for \(\beta\)-Bi\({}_{2}\)Pd (solid circles). Lines represent WHH fits. For comparison we show also measurements of \(H_{\rm c2}\)\({}^{c}\) (from resistivity) at the sample from the same ingot as our sample, measured in Ref. [7] down to 0.4 K (crosses). Inset: Linear decrease of \(H_{\rm c2}\)\({}^{c}\)(0) with increasing pressure.
+
+Figure 5: Temperature dependences of the critical field (\(H_{\rm c2}\)\({}^{ab*}\)) at different pressures for \(\beta\)-Bi\({}_{2}\)Pd (solid squares). Lines represent WHH fits. For comparison we also show the thermodynamic (\(\times\)) and the resistive (\(+\)) measurements of \(H_{\rm c2}\)\({}^{ab}\) from Ref. [7] down to 0.4 K. Dashed line represents the supposed third critical field \(H_{\rm c2}\)\((T)\) obtained as 1.695 product of the thermodynamically determined \(H_{\rm c2}\)\({}^{ab}\) (\(p=1\) bar).
+
+Figure 3: Superconducting transitions in different magnetic fields for \(\beta\)-Bi\({}_{2}\)Pd at 24.0 kbar in two configurations: (a) magnetic field in the \(c\) direction (\(H_{\rm c2}\)\({}^{c}\)), and (b) magnetic field close to parallel to the \(ab\) plane (\(H_{\rm c2}\)\({}^{ab*}\)).
+
+  (see lines in Figs. 4 and 5). \(H_{\rm{c2}}{}^{c}\)(0) values are displayed in the inset of the Fig. 4 showing a linear decrease with the slope \(dH_{\rm{c2}}{}^{c}/dp=-8\,\)mT/kbar. At low temperatures below \(\sim\)2 K, the experimental data of \(H_{\rm{c2}}{}^{c}\) slightly deviate from WHH fits. Such deviation in the resistivity measurements was observed also in our previous work [7]. On the other hand, the upper critical fields determined from the heat capacity measurements were in good agreement with the standard WHH model in whole temperature range [7]. Such behavior of the resistively determined upper critical field was observed also in system Bi\({}_{2}\)Se\({}_{3}\)[16] and Bi\({}_{4}\)Te\({}_{3}\)[17] with characteristic layered crystal structure. In case of \(\beta\)-Bi\({}_{2}\)Pd, cleaved surface of a single crystal is expected to be composed by Bi atoms due to the weakest bond between adjacent Bi layers [6], which could lead to topologically trivial and/or nontrivial surface states [6]. Indeed, the resistive measurements are sensitive to properties of the surface thus existence of such surface states could influence determination of critical fields.
+
+The deviation of the resistively determined \(H_{\rm{c2}}\) from WHH fit is even more pronounced if the field is oriented parallel to the \(ab\) planes. Moreover, the values at ambient pressure significantly exceed those determined thermodynamically. In Fig. 5, our recent results (squares) are supplemented by \(H_{\rm{c2}}{}^{ab}\) determined from the heat capacity (symbols \(\times\)), as well as from the resistivity (symbols \(+\)) measurements as presented in our previous study [7]. There, we have shown that the resistive \(H_{\rm{c2}}{}^{ab}\) data were very close to the supposed third critical field or surface critical field \(H_{\rm{c3}}(T)\)[18] calculated from the thermodynamic upper critical field as \(1.695\times H_{\rm{c2}}{}^{ab}\). This supposed third critical field is included in Fig. 5 as well, represented by the dashed line. The configuration of the four probes in our resistivity measurements at \(H\parallel ab\) is favorable to detect \(H_{\rm{c3}}\) too. However, one can see that our data at ambient pressure (black squares) lie at slightly lower values of magnetic field for corresponding temperature (due to small misalignment of the sample from being perfectly along \(H\parallel\)\(|ab\)). To elaborate further the surface superconductivity we have performed an angular-dependent measurement of the critical magnetic field using horizontal rotator in PPMS (at ambient pressure). Figure 6 shows a cusplike behavior of the critical field taken at 2 K. Such a cusp is characteristic of the surface superconductivity and can be fitted by the formula [19]:
+
+\[\left[\frac{H_{\rm{c}}(\theta)}{H_{\rm{c3}}^{ab}}\sin\theta\left(1+\frac{1- \cos\theta}{2\tan\theta}\right)\right]^{2}+\frac{H_{\rm{c}}(\theta)}{H_{\rm{c2 }}^{c}}\cos\theta=1.\] (1)
+
+Comparing maximum value of the critical field measured at \(H\parallel\)\(ab\) (angle 90\({}^{\circ}\) in Fig. 6) and observed value of \(H_{\rm{c2}}{}^{ab*}\) at temperature 2 K (Fig. 5), we estimated that in the pressure cell there was about 5\({}^{\circ}\) misalignment from perfect parallel orientation of magnetic field to \(ab\) direction. During the increase of applied pressure this misalignment can be changed and therefore we can only qualitatively conclude that with pressure \(H_{\rm{c2}}{}^{ab*}\)(0) and related \(H_{\rm{c3}}\)(0) have a tendency to decrease.
+
+### Magnetotransport experiments in normal state under high pressure
+
+In this section we will focus on the normal state of the \(\beta\)-Bi\({}_{2}\)Pd, namely, the temperature dependence of the resistivity above \(T_{\rm{c}}\) up to room temperature. From these measurements we obtain information about the pressure effect on the characteristic phonon spectrum and the electron-phonon coupling parameter \(\lambda\).
+
+For typical three-dimensional metals where the electrons are scattered only by phonons, the temperature dependence of resistivity in the normal state can be described by the Bloch-Gruneisen theory. The temperature dependence of electrical resistivity changes from \(\rho\sim T\) for the high-temperature regime to \(\rho\sim T^{5}\) at low temperatures below characteristic Debye temperature. Using isotropic Eliashberg spectral function \(\alpha^{2}F(\omega)\) from Ref. [9], we can calculate the temperature dependence of the resistivity via formula:
+
+\[\rho_{BG}(T)=\rho_{0}+\frac{4\pi m}{ne^{2}}\int_{0}^{\omega_{\rm{flux}}} \alpha^{2}F(\omega)\frac{xe^{x}}{\left(e^{x}-1\right)^{2}}d\omega,\] (2)
+
+where \(\rho_{0}\) is residual resistivity, \(m\) is electron mass, \(n\) is density of electrons, \(e\) is electron charge, \(\alpha^{2}F(\omega)\) is electron-phonon transport coupling function and \(x=\omega/T\), where \(\omega\) stands for the frequency. We have checked that there is no significant difference in results taking \(\alpha^{2}F(\omega)\) from Ref. [9] with or without spin-orbit coupling (SOC). For the sake of simplicity, we will thus in the following refer only to \(\alpha^{2}F(\omega)\) calculated with SOC included. The calculated curve using experimental value of \(\rho_{0}=21.78\)\(\mu\Omega\)cm is shown in Fig. 7 by the red curve. One can see that the curve is not describing experimental results satisfactorily. It was already mentioned in Refs. [3] and [10] that in case of \(\beta\)-Bi\({}_{2}\)Pd, the temperature dependence of resistivity has several features, which are not compatible with the Bloch-Gruneisen model. Namely it exhibits a minor downturn around 50 K and a hump below about 150 K. This hump or negative curvature in the resistivity at high temperatures can be fitted by introducing the empirical parallel-resistor model
+
+Figure 6: Angular dependence of the upper critical field measured at fixed temperature 2 K and fit of surface superconductivity formula (black curve). Inset shows several transitions for different angles.
+
+  [20,21] with general formula:
+
+\[\frac{1}{\rho(T)}=\frac{1}{\rho_{0}+\rho_{BG}}+\frac{1}{\rho_{\max}},\] (3)
+
+where \(\rho_{0}\) is residual resistivity and \(\rho_{\max}\) is some limiting value. Tendency to resistivity saturation is found for many transition-metal compounds and it was shown that by introducing the empirical parallel resistor we can describe experimental observation satisfactorily [20,21]. For explanation of saturation resistivity origin, we have to treat electrons quantum mechanically and not semiclassically as it is in case of Bloch-Gruneisen theory [21]. For our purpose we will take to account \(\rho_{\max}\) in order to fit our experimental data, however, we will not study a mechanism of resistivity saturation. In Fig. 7 we show a fit (blue curve) of experimental data using the parallel-resistor model. The best fit with parameters of \(\rho_{0}=24.8\,\mu\Omega\)cm and \(\rho_{\max}=234\,\mu\Omega\)cm corresponds with the data in a large-temperature interval, but deviates below 50 K in agreement with the observations of Imai _et al._[3]. This deviation suggests that the electrical resistivity in \(\beta\)-Bi\({}_{2}\)Pd cannot be explained as being only due to scattering of the conduction electrons by phonons, but at temperatures below about 50 K some other scattering mechanism plays an important role.
+
+Figure 8 shows the temperature dependences of electrical resistivity under various pressures. Increasing pressure is suppressing the value of electrical resistivity in the whole temperature range. The discontinuity between the ambient pressure data and the data at higher pressures probably comes from strains during the initial pressurization (note similar discontinuity in the normal-state resistivity value in Fig. 1). Unfortunately, after releasing pressure, the contacts to the sample were broken, therefore we were not able to reproduce the measurement at ambient conditions after pressure treatment with the same contact configuration.
+
+In order to qualitatively estimate the effect of pressure on the phonon spectrum and on the electron-phonon coupling constant \(\lambda\) from the temperature dependence of the resistivity at various pressures, we replaced the Eliashberg function in the Bloch-Gruneisen formula by a single Einstein-like phonon mode. Such an approach was successfully used to analyze the resistivity data in YB\({}_{6}\)[2,22]. In our case, this prominent phonon contribution comes from the low-energy phonon modes up to 8 meV. Regarding calculations of Zheng and Margine [9] the largest fraction (60%) of the total electron-phonon coupling comes from these modes. Moreover, the importance of these phonon modes is confirmed also in Sec. III.4 where the lattice contribution to the heat capacity is studied in detail. Within this approximation, the formula reads:
+
+\[\rho_{BG}(T)=\frac{2\pi}{\varepsilon_{0}\Omega_{p}^{2}}\lambda T_{E}\frac{xe^{ x}}{(e^{x}-1)^{2}},\] (4)
+
+where \(\Omega_{p}\equiv(ne^{2}/\varepsilon_{0}m^{*})^{1/2}\) is the unscreened plasma frequency, \(\lambda\) is electron-phonon coupling parameter, and \(x=T_{E}/T\), where \(T_{E}\) is Einstein temperature of the characteristic phonon mode.
+
+In the first step we fitted our data of \(\rho(T)\) at ambient pressure by this simplified Bloch-Gruneisen formula with \(\lambda=0.97\), as predicted by the theory [9]. Comparing Figs. 7 and 8 shows that the fit with the single Einstein-like phonon mode is of the same quality as that with \(\alpha^{2}F(o)\), justifying this simplification for further analysis. In order to minimize the fitting parameters, we fixed the value of \(\rho_{\max}=234\,\mu\Omega\)cm resulting from the fit at ambient pressure. The resulting parameters of fits at different pressures are summarized in Table 1. With increasing pressure the electron-phonon coupling parameter \(\lambda\) is gradually suppressed, while at the same time \(T_{E}\) increases, pointing to shift of the characteristic phonon modes to higher frequencies.
+
+If we consider that \(\beta\)-Bi\({}_{2}\)Pd is a standard BCS superconductor [7,8,9], then we can use the McMillan formula [23] for estimation of \(T_{c}\). This formula connects the value of \(T_{c}\) with the electron-phonon coupling constant \(\lambda\), the logarithmically averaged phonon frequency \(\omega_{\ln}\), and the screened Coulomb
+
+Figure 8: Temperature dependences of electrical resistivity under various pressures (points). Black lines correspond to fits of data using parallel resistor model with simplified Bloch-Grüneisen formula using a single phonon mode.
+
+Figure 7: Temperature dependence of resistivity for \(\beta\)-Bi\({}_{2}\)Pd at ambient pressure (circles). Red curve represents calculated dependence of resistivity using Bloch-Grüneisen formula [Eq. (2)]. Blue curve is the fit of experimental data using empirical parallel-resistor model [Eq. (3)]. Inset shows Eliashberg spectral function \(\alpha^{2}F(o)\) with spin-orbit coupling from Ref. [9].
+
+  repulsion parameter \(\mu^{*}\) :
+
+\[T_{c}^{\rm cal}=\frac{\omega_{\rm{Ba}}}{1.2}\text{exp}\left[-\frac{1.04(1+\lambda)} {\lambda(1-0.62\mu^{*})-\mu^{*}}\right],\] (5)
+
+Using Eq. (5), where we replace \(\omega_{\rm{Ba}}\) by \(T_{\rm{E}}\), taking \(\mu^{*}=0.1\) and values of \(\lambda\) from Table 1, we calculated evolution of the transition temperature \(T_{\rm{c}}^{\rm cal}\) with pressure. For ambient pressure we arrived to the value of \(T_{\rm{c}}^{\rm cal}=4.96\) K, which is in striking agreement with experimentally observed value \(T_{\rm{c}}^{\rm exp}=4.98\) K. Upon increasing pressure the calculated \(T_{\rm{c}}\) decreases; however, the decrease is much faster than what is observed experimentally. This discrepancy is another indication for not purely electron-phonon coupling of Cooper pairs in \(\beta\)-Bi\({}_{2}\)Pd.
+
+In addition, we present in Table 1 the pressure dependence of coherence length \(\xi\) calculated using equation:
+
+\[\xi=\sqrt{\frac{\Phi_{0}}{2\pi\,H_{\rm{c}}^{c}}},\] (6)
+
+where \(\Phi_{0}\) is magnetic flux quantum and \(H_{\rm{c}}\)\({}^{2}\) is the value from magnetotransport data extrapolated to zero temperature using WHH fits (see Sec. III.1). The value of coherence length at ambient pressure (23.4 nm) is in agreement with that obtained from soft point-contact spectroscopy studies by Che _et al._[8]. With increasing pressure the coherence length increases up to 28.9 nm at 24.0 kbar.
+
+### Evolution of \(T^{2}\) resistivity under high pressure
+
+As shown above, the resistivity data below 50 K cannot be satisfactorily described by the Bloch-Gruneisen model taking into account only scattering of conduction electrons on phonons. This observation points to the fact that in \(\beta\)-Bi\({}_{2}\)Pd the resistivity is governed not only by electron-phonon scattering, but we have to include also another scattering processes. \(T^{2}\) dependence of resistivity indicates the electron-electron interaction [27]. Although this feature was observed also previously in Refs. [3] and [10], the authors did not discuss its possible origin. Figure 9 shows temperature dependence of resistivity as a function of \(T^{2}\). The data from \(T_{\rm{c}}\) up to \(\sim\)25 K can be well described by the relation \(\rho(T)=\rho_{0}+AT^{2}\), where \(\rho_{0}\) is the residual resistivity and \(A\) is the prefactor. \(\rho_{0}\) and \(A\) for various pressures are shown in Fig. 10. Recently, Ren _et al._[11] observed very similar behavior of \(\rho(T)\) in Nb\({}_{3}\)Sn. Their results highlighted the importance of the electronic states at the Fermi level and opened a question on the superconducting pairing in this material. Similar behavior of resistivity has been observed in other systems such as V\({}_{3}\)Si [24], strongly correlated material KFe\({}_{2}\)As\({}_{2}\), and other heavy fermion systems [25, 26].
+
+In order to emphasize the direct relation of \(T_{\rm{c}}\) with electronic states at the Fermi level, we plotted in Fig. 11. To as a function of \(A^{0.5}\) taking into account that \(A\approx[N(E_{\rm{F}})]^{2}\) in the systems with significant electron-electron scattering [27], where \(N(E_{\rm{F}})\) is electronic density of states at the Fermi level. As was already mentioned above, we observed discontinuity between the ambient pressure data and the data at higher pressures (see Fig. 8), and therefore we are not taking into account the initial point at \(p=1\) bar (rightmost point in Fig. 11). Figure 11 shows linear behavior of \(T_{\rm{c}}\) against \(A^{0.5}\), meaning that \(dT_{\rm{c}}/dA^{0.5}\,\sigma\,dT_{\rm{c}}/dN(E_{\rm{F}})\) is not changing with pressure. The mutual decrease of \(T_{\rm{c}}\) and \(A\) with pressure points to a close relationship between these quantities. This result is consistent with the studies of Nb\({}_{3}\)Sn [11, 28], which show that \(T_{\rm{c}}\) is a function of \(N(E_{\rm{F}})\).
+
+### Heat capacity at ambient pressure
+
+In the previous sections we presented the results of the resistivity measurements, where surface plays an important role and it is difficult to distinguish between bulk and surface properties. On the other hand, heat-capacity measurement is
+
+\begin{table}
+\begin{tabular}{c c c c c c c} Pressure [kbar] & \(\rho_{0}\) [\(\mu\Omega\)cm] & \(\lambda\) & \(T_{\rm{E}}\) [K] & \(T_{\rm{c}}^{\rm cal}\) [K] & \(T_{\rm{c}}^{\rm exp}\) [K] & \(\xi(0)\) [nm] \\ \hline
+0.001 & 24.23 & 0.970 & 74.65 & 4.96 & 4.98 & 23.4 \\
+6.8 & 23.23 & 0.850 & 77.68 & 4.10 & 4.81 & 25.1 \\
+10.6 & 22.79 & 0.829 & 78.22 & 3.93 & 4.72 & 25.9 \\
+13.3 & 22.47 & 0.809 & 79.40 & 3.80 & 4.62 & 26.4 \\  sensitive to bulk properties and thus can provide a direct test of the theoretical model of the system proposed by Zheng and Margine [9]. Therefore, we have performed measurement of the heat capacity by a relaxation technique in temperature range from 300 K down to 2 K in \(\mu_{0}H=0\) T at ambient pressure. The experiment has been performed on a thin rectangular sample with the dimensions \(3\times 3\) mm\({}^{2}\times 15\,\mu\)m (sample mass 4.25 \(\pm\) 0.05 mg), which ensured perfect thermal coupling with the calorimeter. Furthermore, in combination with our data from ac calorimetry [7], we extended the temperature range of the measured heat capacity down to 700 mK.
+
+Figure 12 shows temperature dependence of the heat capacity, where we have combination of the normal-state data from ac calorimetry (measured in magnetic field 1 T) and the data from relaxation technique above \(T_{\rm c}\). The inset shows \(C/T\) vs. \(T^{2}\) at low temperatures, where for \(T<\theta_{\rm D}/10\)[29] it should be equal to
+
+\[C_{\rm total}(T)=\gamma T+\beta T^{3},\] (7)
+
+where the first term is an electronic contribution with a Sommerfeld coefficient \(\gamma\) and the second term is a low-temperature lattice contribution. From the fit in the temperature range from 0.7-3 K we obtain \(\gamma=13.23\) mJ mol\({}^{-1}\) K\({}^{-2}\) and \(\beta=2.37\) mJ mol\({}^{-1}\) K\({}^{-4}\). The value of \(\gamma\) is in agreement with previous works [8,12]. The Sommerfeld coefficient was analyzed in accordance with [29]:
+
+\[\gamma=\frac{1}{3}\pi^{2}k_{B}^{2}(1+\lambda)N(E_{F}),\] (8)
+
+where \(k_{B}\) is Boltzmann's constant, \(\lambda\) is the electron-phonon coupling constant, and \(N(E_{F})\) is the electronic density of states at the Fermi level (EDOS). Using calculated theoretical values [9] for density of states at the Fermi level \(N(E_{F})=0.788\) state/[spin/eV unit cell] and the electron-phonon coupling strength \(\lambda=0.97\), we arrive to the value of \(\gamma=3.13\) mJ mol\({}^{-1}\) K\({}^{-2}\). This is much lower than what was observed experimentally and implies that the product of \((1+\lambda)N(E_{F})\) should be around three times larger than the theoretical prediction by Zheng and Margine [9]. Together with the \(T^{2}\) dependence of the electrical resistivity these results point to a certain role of the electron-electron interaction in the superconducting pairing mechanism in \(\beta\)-Bi\({}_{2}\)Pd.
+
+Regarding the lattice contribution to the heat capacity, for low temperatures we can write:
+
+\[\beta=\frac{12}{5}N_{A}k_{B}\pi^{4}\Theta_{D}^{-3}(0),\] (9)
+
+where \(N_{A}\) is Avogadro's number and \(\theta_{\rm D}(0)\) is the initial Debye temperature. From a fit of normal-state data in temperature range 0.7-3 K we find \(\theta_{\rm D}(0)=91\) K.
+
+The low-temperature \(T^{3}\) regime of the lattice heat capacity works up to about 3 K (9 K\({}^{2}\), see inset in Fig. 12). The value of the heat capacity at room temperature [\(C_{\rm total}(300\,{\rm K})=77.4\) J mol\({}^{-1}\) K\({}^{-1}\)] is very close to the Dulong-Petit value (\(C_{\rm v}=74.8\) J mol\({}^{-1}\) K\({}^{-1}\)), which points to the fact that at this temperature almost all phonon modes are already excited.
+
+For the lattice contribution to the heat capacity we assumed that \(C_{\rm ph}=C_{\rm total}\)-\(\gamma T\), neglecting the anharmonic specific heat.
+
+Figure 11: Plot of \(T_{\rm c}\) vs A\({}^{0.5}\) for \(\beta\)-Bi\({}_{2}\)Pd. Red line is linear fit of the data neglecting point at \(p=1\) bar (see text).
+
+Figure 12: Temperature dependence of the total heat capacity in normal state of \(\beta\)-Bi\({}_{2}\)Pd combining ac-calorimetry and relaxation technique. Inset shows low-temperature zoom of the data (points) in representation \(C/T\) vs \(T^{2}\) and the linear fit (blue line).
+
+Figure 10: Pressure dependences of a quadratic term of the resistivity \(A\) and residual resistivity \(\rho_{0}\).
+
+  We analyzed \(C_{\text{ph}}\) in a standard way by fitting the experimental data using a simple Debye model [Eq. (10)], where PHDOS is proportional to \(\omega^{2}\) with cutoff Debye frequency \(\omega_{\text{D}}(\theta_{\text{D}}=\hbar\omega_{\text{D}}/k_{\text{B}})\):
+
+\[C_{v}(T)=3Nrk_{B}\bigg{(}\frac{T}{\Theta_{D}}\bigg{)}^{3}\int_{0}^{\Theta_{D}/ T}\frac{x^{4}e^{x}}{[e^{x}-1]^{2}}dx,\] (10)
+
+where \(N\) is a number of oscillators, \(r\) is a number of atoms in a molecule of the system (\(r=3\)), and \(x=\theta_{\text{D}}/T\). The best fit of the experimental data is for the Debye temperature \(\theta_{\text{D}}=145.68\) K [red curve in Fig. 13(a)]. The Debye model describes experimental data very well at low temperatures, however, above about 5 K it starts to deviate from the experimental observations [see Fig. 13(b)]. At 20 K the Debye model underestimates the experiment by about 25%.
+
+According to the model of Zheng and Margine [9] we can calculate the contribution of lattice vibrations to the specific heat by using their calculated PHDOS [\(F(\omega)\)] by the following equation [29]:
+
+\[C_{\text{c}}(T)=k_{B}\int_{0}^{\omega_{\text{max}}}\frac{\left(\frac{k_{\text{ B}}}{k_{B}T}\right)^{2}\exp\left(\frac{k_{\text{B}}}{k_{B}T}\right)}{\left[\exp \left(\frac{k_{\text{B}}}{k_{B}T}\right)-1\right]^{2}}F(\omega)d\omega.\] (11)
+
+We considered the normalization condition for Eq. (11):
+
+\[\int_{0}^{\omega_{\text{max}}}F(\omega)d\omega=3Nr.\] (12)
+
+Figure 13(a) shows the calculated phonon heat capacity using Eq. (11) (black curve). In Fig. 13(b) we can see the zoom of data below 35 K and calculated heat capacity using PHDOS from [9] (black curve), which gives a much better agreement with the experiment than a simple Debye model (red curve). This can be attributed to the difference between the calculated PHDOS and the Debye one as it is shown in the inset of Fig. 13(a). Between 3 and 7 meV there are much more states predicted by Zheng and Margine than in the Debye model and this is obviously reflected in the calculated heat capacity. However, with increasing temperature the difference between the two models vanishes as is expected considering integral function for calculation of the heat capacity. Slight deviation from the experimental data is observed in the temperature range from around 70-250 K, close to room temperature the calculated curves again meet the experimental data. In fact, we can conclude that predicted PHDOS by Zheng and Margine describe experimental observation of lattice contribution to the heat capacity very well underlying importance of low-energy phonon modes.
+
+According to the enhanced value of \(\gamma\) and pronounced \(T^{2}\) behavior in temperature dependence of electrical resistivity in \(\beta\)-Bi\({}_{2}\)Pd, the Kadowaki-Woods ratio (\(R_{\text{KW}}=A/\gamma^{2}\)) [30, 31] can be discussed. In case of \(\beta\)-Bi\({}_{2}\)Pd we have \(R_{\text{KW}}=22\,\mu\Omega\,\text{cm}\,\text{mol}^{2}\,\text{K}^{2}\text{J}^{ -2}\). Despite the fact that \(\gamma\) for \(\beta\)-Bi\({}_{2}\)Pd is from one to two orders of magnitude lower than that of the heavy fermion systems, the \(R_{\text{KW}}\) lies close to the value typical for them [see inset in Fig. 13(b)]. Taking into account the independence of \(R_{\text{KW}}\) on pressure [32], we can estimate the evolution of \(\gamma\) from the pressure dependence of coefficient \(A\) (see Fig. 10). If we consider the linear dependence of \(A\)\(dA/dp=-34.56\times 10^{-3}\,\text{n}\Omega\,\text{cm}\,\text{K}^{-2}/\text{kbar}\) (neglecting point at \(p=1\) bar), than we have \(d\gamma/dp=-64\times 10^{-3}\,\text{m}\,\text{mol}^{-1}\,\text{K}^{-2}/\text{kbar}\). This means that we can expect decrease of effective mass of electrons with pressure. It will be interesting to compare our estimation with experiment, where the absolute value of the heat capacity can be measured under pressure (see for example Ref. [33]).
+
+## IV Conclusions
+
+In conclusion, we have studied the magnetoresistive measurements of single-crystal \(\beta\)-Bi\({}_{2}\)Pd samples (\(T_{\text{c}}\approx 4.98\,\text{K}\) at ambient pressure) under pressure up to 24.0 kbar. The negative linear pressure effect on the transition temperature with the slope \(dT_{\text{c}}/dp=-0.025\,\text{K}/\text{kbar}\) has been observed. The
+
+Figure 13: (a) Temperature dependence of a lattice contribution to the heat capacity in normal state of \(\beta\)-Bi\({}_{2}\)Pd (circles), fit to a simple Debye model (red curve) and calculated phonon contribution to the heat capacity using theoretically predicted PHDOS [9] (black curve). Inset shows PHDOS in case of Debye model (red curve) and PHDOS calculated in Ref. [9] (black curve). (b) Emphasized low-temperature part of the heat capacity and the two theoretical curves. Inset shows standard Kadowaki-Woods plot for several heavy fermion systems (open symbols, from Ref. [31] and references therein) and line represents typical value of \(R_{\text{KW}}=10\,\mu\Omega\text{cm}\,\text{mol}^{2}\,\text{K}^{2}\,\text{J}^{ -2}\) for heavy fermion systems. Value of \(R_{\text{KW}}\) for \(\beta\)-Bi\({}_{2}\)Pd is shown by full symbol.
+
+  upper critical field \(H_{\rm c2}{}^{c}(0)\) and the critical field \(H_{\rm c2}{}^{ab*}(0)\) are decreasing with pressure as well. Experimental observations were compared with calculated resistivity using the Bloch-Gruneisen model taking into account theoretically predicted \(\alpha^{2}F(\omega)\)[9]. We have shown that electrical resistivity in \(\beta\)-Bi\({}_{2}\)Pd cannot be explained as being only due to scattering of conduction electrons by phonons, but at temperatures below \(\sim\)50 K other scattering mechanisms plays an important role. Using a simplified Bloch-Gruneisen model for temperature dependence of resistivity, where we replaced \(\alpha^{2}F(\omega)\) by a single characteristic Einstein phonon mode, we estimated the decrease of the electron-phonon coupling constant \(\lambda\) with pressure as well as increase of characteristic phonon energy. In addition we have performed measurements of the heat capacity from room temperature down to 0.7 K at ambient pressure. Obtained experimental data were fitted using theoretically predicted electron and phonon density of states [9]. The calculated lattice contribution to the heat capacity is in good agreement with experimental observation, however, observed electronic contribution (namely Sommerfeld coefficient) largely exceeds theoretical expectations. The \(T^{2}\) dependence of the normal-state resistivity, together with the enhanced value of Sommerfeld coefficient \(\gamma\) = 13.23 mJ mol\({}^{-1}\) K\({}^{-2}\) point to a certain role of the electron-electron interaction in superconducting pairing mechanism in \(\beta\)-Bi\({}_{2}\)Pd.
+
+###### Acknowledgements.
+
+ This work was supported by projects VEGA 2/0032/16, VEGA 2/0149/16, APVV-16-0372, EU ERDF Grant No. ITMS26220120047 and by European Microkelvin Platform. Liquid nitrogen for experiments was sponsored by US Steel Kosice, s.r.o. E.H. was supported by the Departamento Administrativo de Ciencia, Tecnologia e Innovacion, COLCIENCIAS (Colombia), programa doctorados en el exterior convocatoria No. 568-2012 and the Universidad Nacional de Colombia, Division de Investigacion y Extension sede Bogota (DIEP) Project No. 356515. H.S. and A. C. by the Spanish Ministry of Economy and Competitiveness (FIS2017-84330-R, MDM-2014-0377), by the Comunidad de Madrid through program Nanofrontmag-CM (S2013/MIT-2850), and by COST CA16218.
+
+## References
+
+* [1] C. W. Chu, P. H. Hor, R. L. Meng, L. Gao, Z. J. Huang, and Y. Q. Wang, Phys. Rev. Lett. **58**, 405 (1987).
+* [2] S. Gabani, I. Takacova, G. Pristas, E. Gazo, K. Flachbart, T. Mori, D. Braithwaite, M. Misek, K. V. Kamenev, M. Hanfland, and P. Samuely, Phys. Rev. B **90**, 045136 (2014).
+* [3] Y. Imai, F. Nabeshima, T. Yoshinaka, K. Miyatani, R. Kondo, S. Komiya, I. Tsukada, and A. Maeda, J. Phys. Soc. Jpn. **81**, 113708 (2012).
+* [4] M. Sakano, K. Okawa, M. Kanou, H. Sanjo, T. Okuda, T. Sasagawa, and K. Ishizaka, Nature Comm. **6**, 8595 (2015).
+* [5] Yan-Feng Lv, Wen-Lin Wang, Yi-Min Zhang, Hao Ding, Wei Li, Lili Wang, Ke He, Can-Li Song, Xu-Cun Ma, and Qi-Kun Xue, Sci. Bull. **62**, 852 (2017).
+* [6] K. Iwaya, Y. Kohsaka, K. Okawa, T. Machida, M.S. Bahramy, T. Hanaguri, and T. Sasagawa, Nature Comm. **8**, 976 (2017).
+* [7] J. Kacmarcik, Z. Pribulova, T. Samuely, P. Szabo, V. Cambel, J. Soltys, E. Herrera, H. Suderow, A. Correa-Orellana, D. Prabhakaran, and P. Samuely, Phys. Rev. B **93**, 144502 (2016).
+* [8] L. Che, T. Le, C. Q. Xu, X. Z. Xing, Z. Shi, X. Xu, and X. Lu, Phys. Rev. B **94**, 024519 (2016).
+* [9] J. J. Zheng and E. R. Margine, Phys. Rev. B **95**, 014512 (2017).
+* [10] K. Zhao, B. Lv, Y.-Y. Xue, X-Y. Zhu, L. Z. Deng, Z. Wu, and C. W. Chu, Phys. Rev. B **92**, 174404 (2015).
+* [11] Z. Ren, L. Gamperle, A. Fete, C. Senatore, and D. Jaccard, Phys. Rev. B **95**, 184503 (2017).
+* [12] E. Herrera, I. Guillamon, J. A. Galvis, A. Correa, A. Fente, R. F. Luccas, F. J. Mompean, M. Garcia-Hernandez, S. Vieira, J. P. Brison, and H. Suderow, Phys. Rev. B **92**, 054507 (2015)
+* [13] A. Eiling and J. S. Schilling, J. Phys. F: Metal Phys. **11**, 629 (1981).
+* [14] W. Buckel and R. Hilsch, Z. Phys. **132**, 420 (1952).
+* [15] N. R. Werthamer, E. Helfand, and P. C. Hohenberg, Phys. Rev. **147**, 295 (1966).
+* [16] K. Kirshenbaum, P. S. Syers, A. P. Hope, N. P. Butch, J. R. Jeffries, S. T. Weir, J. J. Hamlin, M. B. Maple, Y. K. Vohra, and J. Paglione, Phys. Rev. Lett. **111**, 087001 (2013).
+* [17] J. R. Jeffries, A. L. Lima Sharma, P. A. Sharma, C. D. Sapataru, S. K. McCall, J. D. Sugar, S. T. Weir, and Y. K. Vohra, Phys. Rev. B **84**, 092505 (2011).
+* [18] D. Saint-James and P. G. Gennes, Phys. Lett. **7**, 306 (1963).
+* [19] K. Yamafuji, E. Kusayanagi, and F. Irie, Phys. Lett. **21**, 11 (1966).
+* [20] H. Wiesmann, M. Gurwitch, H. Lutz, A. Ghosh, B. Schwarz, M. Strongin, P. B. Allen, and J. W. Halley, Phys. Rev. Lett. **38**, 782 (1977).
+* [21] O. Gunnarsson, M. Calandra, and J. E. Han, Rev. Mod. Phys. **75**, 1085 (2003).
+* [22] R. Lortz, Y. Wang, U. Tutsch, S. Abe, C. Meingast, P. Popovich, W. Knafo, N. Shitsevalova, Yu. B. Paderno, and J. Junod, Phys. Rev. B **73**, 024512 (2006).
+* [23] W. L. McMillan, Phys. Rev. **167**, 331 (1968).
+* [24] M. Nunez-Regueiro, G. Garbarino, and M. Nunez-Regueiro, J. Phys.: Conf. Ser. **400**, 022085 (2012).
+* [25] J. O. Willis, J. D. Thompson, Z. Fisk, A. de Visser, J. J. M. Franse, and A. Menovsky, Phys. Rev. B **31**, 1654(R) (1985).
+* [26] J. D. Thompson, M. W. McElfresh, J. O. Willis, Z. Fisk, J. L. Smith, and M. B. Maple, Phys. Rev. B **35**, 48 (1987).
+* [27] M. J. Rice, Phys. Rev. Lett. **20**, 1439 (1968).
+* [28] A. K. Ghosh, M. Gurvitch, H. Wiesmann, and M. Strongin, Phys. Rev. B **18**, 6116 (1978).
+* [29] E. S. R. Gopal, _Specific Heats at Low Temperatures_ (Heywood Books, London, 1966).
+* [30] K. Kadowaki and S. B. Woods, Solid State Commun. **58**, 507 (1986).
+* [31] A. C. Jacko, J. O. Fjaerestad, and B. J. Powell, Nature Phys. **5**, 422 (2009).
+* [32] S. Seo, V. A. Sidorov, H. Lee, D. Jang, Z. Fisk, J. D. Thompson, and T. Park, Phys. Rev. B **85**, 205145 (2012).
+* [33] D. Jaccard and K. Sengupta, Rev. Sci. Instrum. **81**, 043908 (2010).
+
+ 

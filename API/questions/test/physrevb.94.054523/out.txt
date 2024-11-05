@@ -1,0 +1,477 @@
+Superconducting gap structure of the skutterudite LaPt_{4}Ge_{12} probed by specific heat
+
+and thermal transport
+
+H. Pfau
+
+Present address: Stanford Institute for Materials and Energy Sciences, SLAC National Accelerator Laboratory and Stanford University, 2575 Sand Hill Road, Menlo Park, CA 94025, USA; hfau@stanford.edu Max Planck Institute for Chemical Physics of Solids, 01187 Dresden, Germany
+
+M. Nicklas
+
+Max Planck Institute for Chemical Physics of Solids, 01187 Dresden, Germany Institut fur Experimentelle Physik, TU Bergsdademie Freiberg, 09596 Freiberg, Germany
+
+U. Stockert
+
+Max Planck Institute for Chemical Physics of Solids, 01187 Dresden, Germany
+
+R. Gumeniuk
+
+Max Planck Institute for Chemical Physics of Solids, 01187 Dresden, Germany Institut fur Experimentelle Physik, TU Bergsdademie Freiberg, 09596 Freiberg, Germany
+
+W. Schnelle
+
+Max Planck Institute for Chemical Physics of Solids, 01187 Dresden, Germany
+
+A. Leithe-Jasper
+
+Max Planck Institute for Chemical Physics of Solids, 01187 Dresden, Germany
+
+Y. Grin
+
+Max Planck Institute for Chemical Physics of Solids, 01187 Dresden, Germany
+
+F. Steglich
+
+Max Planck Institute for Chemical Physics of Solids, 01187 Dresden, Germany
+
+November 6, 2021
+
+###### Abstract
+
+We investigated the superconducting order parameter of the filled skutterudite LaPt_{4}Ge_{12}, with a transition temperature of T_{c} = 8.3 K. To this end, we performed temperature and magnetic-field dependent specific-heat and thermal-conductivity measurements. All data are compatible with a single superconducting s-wave gap. However, a multiband scenario cannot be ruled out. The results are discussed in the context of previous studies on the substitution series Pr_{1-x}La_{x}Pt_{4}Ge_{12}. They suggest compatible order parameters for the two end compounds LaPt_{4}Ge_{12} and PrPt_{4}Ge_{12}. This is not consistent with a single s-wave gap in LaPt_{4}Ge_{12} considering previous reports of unconventional and/or multiband superconductivity in PrPt_{4}Ge_{12}.
+
+doi:10.1103/PhysRevB.94.054523
+
+2469-9950/2016/94(5)054523-1
+
+## I Introduction
+
+The pairing mechanism of a superconductor determines the symmetry of its order parameter, which in turn is connected to the symmetry of the superconducting gap. Superconductors, whose averaged order parameter over the entire Fermi surface yields zero, are called unconventional. They attract much interest [1] in modern condensed matter physics because a description of the underlying physics has to go beyond the standard Bardeen-Cooper-Schrieffer (BCS) theory for an s-wave order parameter. Their gap contains nodes, whose existence and position can be detected by a variety of experimental probes. Often, only a combination of results from different probes allows one to draw a conclusive picture. The search and study of unconventional superconductors was triggered by the discovery of heavy-fermion superconductivity [2], the high-T_{c} cuprates [3], and organic superconductors [4]. By now, a lot more materials are believed to be unconventional superconductors.
+
+In this context, the filled-skutterudite compounds MT_{4}X_{12} (M = electropositive metal, T = transition metal, and X = usually a pnictogen) attracted much attention with the discovery of PrOs_{4}Sb_{12}, which is the first Pr-based heavy-fermion superconductor and believed to be of unconventional type [5, 6]. It exhibits exotic properties probably connected to the quadrupole degrees of freedom [6]. The skutterudite family MPt_{4}Ge_{12} (M = Sr, Ba, La, Pr, Th) with a Pt-Ge framework are also superconductors [7, 8, 9, 10, 11]. The two members PrPt_{4}Ge_{12} and LaPt_{4}Ge_{12} show superconductivity at relatively high transition temperatures compared to other skutterudites, namely T_{c} = 7.9 K and 8.3 K [8].
+
+PrPt_{4}Ge_{12} seems to be a good candidate for unconventional superconductivity. It is considered to be a moderately strong-coupling superconductor from the large specific-heat jump compared to the BCS value [8]. There are indications of point nodes from NMR [12], specific heat, and penetration depth [13]. Furthermore, \muSR measurements detected a time-reversal symmetry breaking below T_{c}[14, 15]. Additionally, a number of investigations including photoemission, magnetization, penetration depth, and specific heat revealed multiband superconductivity in this compound [13, 16, 17, 18, 19].
+
+The continuous evolution of T_{c} across the doping series (Pr_{1-x}La_{x})Pt_{4}Ge_{12} suggests compatible order parameters of the end members PrPt_{4}Ge_{12} and LaPt_{4}Ge_{12}[14]. However, the few existing investigations on LaPt_{4}Ge_{12} point towards a single isotropic gap: the specific-heat jump \Delta C/\gamma_{\rm{n}}T_{\rm{c}} is only slightly above the BCS value suggesting a weaker coupling than in PrPt_{4}Ge_{12}[8]. NMR and photoelectron-spectroscopy results for LaPt_{4}Ge_{12} could be best explained by a single isotropic gap [16, 20]. Additionally, no time-reversal symmetry breaking is observed in LaPt_{4}Ge_{12} by \muSR [14]. Only one recent study using \muSR and tunnel diode spectroscopy for penetration-depth measurements reports indications of multiband superconductivity in LaPt_{4}Ge_{12}[21].
+
+In order to develop a conclusive picture, it is necessary to shed more light on the superconducting properties of LaPt_{4}Ge_{12}. In particular, it is important to clarify if LaPt_{4}Ge_{12} is a multiband superconductor. To this end, we performed specific-heat measurements at temperatures down to 0.4 K for different magnetic fields. While the temperature dependence at zero field can be described with a single superconducting s-wave gap, the field dependence of the specific-heat \gamma_{0} coefficient shows sublinear behavior, which is discussed in terms of Fermi-surface anisotropies. Additionally, we use the specific-heat results to analyze the data of our detailed thermal-conductivity study with a focus on the behavior below 1 K. Our temperature- and field-dependent measurements are compatible with a single-gap s-wave state.
+
+## II Methods
+
+For the synthesis of single crystals of LaPt_{4}Ge_{12}, a bulk sample of mass 2 g was placed in a glassy-carbon crucible, sealed in a Ta tube, and enclosed in a quartz ampoule. The ampoule was heated up to 870 ^{\circ}C within 5 h and kept at this temperature for 10 h. Then it was cooled down to 845 ^{\circ}C  and held for 30 days and furnace cooled. Single crystals of 1-4 mm size were mechanically extracted from the sample [22].
+
+We investigated three high-quality single crystals of LaPt_{4}Ge_{12} selected from the same batch with a residual resistivity ratio (RRR) of 17 and a residual resistivity \rho_{0} of 3.8 \mu\Omega cm. Crystal no. 1 with a mass of m=14.7 mg and crystal no. 2 with 67.2 mg were used for specific-heat measurements by a relaxation method (Heat Capacity Option in a PPMS by Quantum Design). On crystal no. 3 we performed transport measurements with a standard two-thermometer-one-heater technique. For this purpose, we cut it first into a rectangular bar along the principal cubic crystal axes with a cross-sectional area of 0.492 mm^{2} and a contact distance of 1.08 mm. This arrangement was used for thermal-conductivity measurements in a PPMS (Thermal Transport Option) above 2 K and in zero magnetic field. Afterwards, a long plate was cut from crystal no. 3 again along the principal cubic crystal axes with the dimensions (0.04\times 0.50\times 1.92) mm^{3}. This sample no. 3a was used to measure thermal conductivity both as a function of temperature and isothermally as a function of magnetic field for temperatures below 1 K and for magnetic fields of 0\leqslant H\leqslant 2 T. The heat current \bm{j} was applied along the same direction as for the PPMS measurement. A superconducting split-coil magnet generated a magnetic field \bm{H}\perp\bm{j}.
+
+## III Results
+
+### \bm{T} dependence of the specific heat
+
+The specific heat C(T) of LaPt_{4}Ge_{12} was measured at zero field and in a field of 2 T, which is above the superconducting critical field [Fig. 1(a)]. Our measurements are in good agreement with previous results on polycrystalline samples [8]. The data at 2 T, C_{2}T(T), are used as an estimate of the phonon contribution. To obtain the electronic contribution C_{e} to the specific heat at zero field, the results at 2 T are subtracted from the zero-field data except for a normal-state electronic contribution \gamma_{\rm a}=C_{\rm a}(T)/T=\rm const, which is determined by a fit to C_{2}T(T) between 0.3 K <T< 10 K using the sum of a Debye and Einstein model,
+
+\[C(T)=\gamma_{\rm a}T+\beta T^{3}+C_{\rm E},\] (1)
+
+where C_{\rm E} describes the Einstein specific heat from a single phonon mode. The fit result is also plotted in Fig. 1(a). From the fit we obtain \gamma_{\rm a}=56 mJ mol^{-1}K^{-2}, \beta=3.7 mJ mol^{-1}K^{-4} (Debye temperature \Theta=208 K), and an Einstein temperature of T_{\rm E}=95.5 K. The fit describes the data in the whole temperature range reasonably well, only below 4 K there are small deviations and the phonon contribution follows \beta^{\prime}T^{2.5}. This deviation is most likely due to the complicated phonon spectrum generally observed in filled skutterudites caused by a combination of modes from the filler atom La and modes from the cage structure formed by Pt and Ge [9; 11; 23]. The addition of a T^{5} term is not able to improve the fit. The deviations of the data from the model in Eq. (1), however, can be neglected for the following analysis of the specific heat, but it becomes important when we discuss the thermal conductivity. The result for the electronic contribution to C_{0}T(T) is shown in Fig. 1(b) as the specific heat coefficient \gamma(T)=C_{\rm e}(T)/T. We note that the feature in C_{\rm e}/T below 1 K is an artifact due to the subtraction of the lattice contribution to the specific heat.
+
+The specific heat exhibits a sharp superconducting transition at 8.0 K with a width of 0.13 K, which is an indication of the good quality of our crystals. The jump height is larger than expected from the predictions of the weak-coupling BCS model (\Delta_{0}=1.76\,k_{\rm B}T_{\rm c}), which cannot reproduce our data.
+
+Figure 1: Temperature dependence of the specific heat. (a) C(T) is shown for two different crystals both at zero field and above the upper critical field H_{\rm c2}. A fit of the results at 2 T with Eq. (1) falls on top of the data, except below 4 K, where the phonon contribution follows \beta^{\prime}T^{2.5} (see inset). (b) The electronic contribution C_{\rm e}(T) to the zero-field curve follows a BCS behavior with \Delta_{0}=2.03\,k_{\rm B}T_{\rm c} (solid line). Both samples show the same results within the measurement uncertainty. (c),(d) Numerical evaluation of the two gap \sigma model. (c) The parameter \alpha of the model was determined from the specific-heat jump at T_{\rm c} for the displayed parameter range of \Delta_{1} and \Delta_{2}. (d) The variance compared to the data in (b), \chi^{2}, reveals a large parameter region around \Delta_{1},\Delta_{2}=\Delta_{0} (blue), where the \alpha model is able to describe the data equally well (note the logarithmic scale). The electronic specific heat from the two example parameter sets 1 (\Delta_{1}/k_{\rm B}T_{\rm c}=2.21, \Delta_{2}/k_{\rm B}T_{\rm c}=1.61, x=0.67) and 2 (\Delta_{1}/k_{\rm B}T_{\rm c}=2.62, \Delta_{2}/k_{\rm B}T_{\rm c}=1.40, x=0.45) is shown as dashed and dotted curves in (b). Curve 1 falls almost on top of that of the single-band model.
+
+  However, we are able to describe C_{\rm e}(T)/T adjusting the gap to \Delta_{0}=2.03\,k_{\rm B}T_{\rm c}. This value is in reasonable agreement with the results from photoelectron spectroscopy, \Delta_{0}=1.95\,k_{\rm B}T_{\rm c}[16], and NMR, \Delta_{0}=1.92\,k_{\rm B}T_{\rm c}[12].
+
+Since superconductivity in other skutterudites is discussed in terms of multiband superconductivity [13; 24; 25; 26] and there are results in favor of this interpretation for LaPt_{4}Ge_{12} as well [21], we also consider this possibility based on our specific-heat data. In the case of two gaps, the specific heat might be described by a weighted sum of the contributions from both gaps within the standard two-gap \alpha model [27]
+
+\[C_{\rm e,\alpha}=xC_{\rm e,1}+(1-x)C_{\rm e,2}.\] (2)
+
+Both C_{\rm e,1} and C_{\rm e,2} are calculated within the BCS theory, but with variable gap sizes \Delta_{1} and \Delta_{2}. The third free parameter of this model is the weighting factor x. Since our data can already be described with a single gap \Delta_{0}, one of the two gaps considered for the \alpha model must be greater, the other one smaller than \Delta_{0}. We therefore evaluate the \alpha model numerically in the parameter range (1\,k_{\rm B}T_{\rm c}\lesssim\Delta_{1}\lesssim\Delta_{0}), (\Delta_{0}\lesssim\Delta_{2}\lesssim 3\,k_{\rm B}T_{\rm c}) using the data between 2 K <T<T_{\rm c}. Using Eq. (2), we determined the corresponding x from the height of the specific heat jump at T_{\rm c}, which we obtained from the single band calculation with \Delta_{0}=2.03\,k_{\rm B}T_{\rm c}. The results for x are shown in Fig. 1(c).
+
+In order to find all parameter sets (\Delta_{1},\Delta_{2},x), which are able to describe our data, we evaluate the variance
+
+\[\chi^{2}=\frac{1}{n}\frac{1}{T^{2}\gamma_{\rm n}^{2}}\sum_{i}^{n}(C_{\rm e, \alpha}-C_{\rm e})^{2},\] (3)
+
+which we plot in Fig. 1(d) on a logarithmic scale. In this plot, we can identify the single band case in the corner where \Delta_{1},\Delta_{2}=\Delta_{0}. It also extends vertically and horizontally from this point, where we find either x=1 or x=0, respectively. However, there is also a large region away from the single-band case, which has the same low variance. As an example, the electronic specific heat calculated from parameter set 1 [see Fig. 1(b)] lies almost on top of the single-band calculation. We obtain such a shape and large size of this low-variance region, because a single band is already capable to describe our data. Away from the low variance region, the results from the \alpha model start to deviate from our data, which is demonstrated by the curve from parameter set 2 in Fig. 1(b). In summary, our results from the analysis with the \alpha model reveal two possible scenarios: (a) two gaps close to \Delta_{0} or (b) \Delta_{1}\approx\Delta_{0} and \Delta_{2}\neq\Delta_{0} as long as (1-x) stays small. The very good agreement with a single s-wave gap excludes the possibility to describe C_{\rm e}(T) of LaPt_{4}Ge_{12} using a nodal gap structure almost completely. The question whether there are multiple s-wave gaps with different gap sizes involved may ultimately be solved by measurements on the substitution series (La_{\rm a}Pr_{1-x})Pt_{4}Ge_{12}.
+
+### H dependence of the specific heat
+
+The magnetic-field dependence of the \gamma_{0} coefficient in the superconducting state was determined by an extrapolation of C_{\rm e}(T,H={\rm const})/T data to zero temperature assuming an exponential behavior at low temperatures in the superconducting state. Figure 2 clearly shows that \gamma_{0}(H/H_{\rm c2}) normalized to its normal state value \gamma_{\rm n} follows a sublinear curve \gamma_{0}/\gamma_{\rm n}=(H/H_{\rm c2})^{\eta} with an exponent of \eta=0.72 between 0\leqslant H\leqslant H_{\rm c2}. \mu_{0}H_{\rm c2}=1.4 T has been determined from thermal conductivity; see below. This exponent lies in between expectations for nodal superconductors in simplified models (\eta=0.5) [28] and a fully gapped isotropic superconductor (\eta=1.0) [29]. However, these predictions take only certain quasiparticle contributions into account: for an s-wave superconductor it is the contribution to the density of states from the states within the vortex cores; for nodal superconductors it is a contribution from the delocalized quasiparticles around the nodes. Deviations are, therefore, expected, if one takes further contributions into account. In addition to core states and delocalized quasiparticles, respectively, this would be vortex lattice contributions [30].
+
+Since the temperature dependence of the specific heat does not indicate the presence of nodes in the superconducting gap function, we will focus here on the case of fully gapped superconductors. A deviation of \gamma_{0}(H) from the predicted linear dependence was observed in several s-wave superconductors [31; 32; 33; 34; 35]. Several possible reasons have been suggested: (1) multiband superconductivity; (2) anisotropic Fermi surface; (3) nonlinear contributions from the vortex lattice, which arise due to a field-dependent vortex-core radius [30; 31].
+
+We first discuss case (1). In the multiband superconductor MgB_{2}, two distinct field scales were identified [27; 36], which correspond to the two different upper-critical fields of the two gaps. Interestingly, the field dependence of \gamma_{0}/\gamma_{\rm n} tracks the field dependence of the thermal conductivity \kappa_{0}/\kappa_{n} with the same characteristic field scales. This is not the case in LaPt_{4}Ge_{12}, as \kappa_{0}/\kappa_{n} shows a curvature with opposite sign (see below) and makes, therefore, a scenario with two gaps of very different size, as in PrPt_{4}Ge_{12}, rather unlikely.
+
+Figure 2: Magnetic-field dependence of the specific heat. \gamma_{0}(H/H_{\rm c2}) normalized to its normal state value \gamma_{\rm n} deviates from a linear behavior (dashed line) and follows a power law (solid line) with an exponent of 0.72. \gamma_{0}(H/H_{\rm c2}) was extracted from a fit to C(T)/T at different fields. A selection of these data is shown in the inset as function of T^{2} for the equally spaced fields H=0,0.27,\ldots,1.4T=\mu_{0}H_{\rm c2}. The lines are guides to the eye.
+
+  LaPt_{4}Ge_{12} has a complex, anisotropic Fermi surface with several bands crossing the Fermi level [37]. This might explain the observed sublinear behavior in \nu_{0}(H). A similar scenario has been suggested for the borocarbide superconductor LuNi_{2}B_{2}C [35, 38].
+
+We cannot exclude that a field dependent vortex core radius provides a further mechanism for the observed deviations; however, so far there are no indications for such a scenario in LaPt_{4}Ge_{12}.
+
+### T dependence of the thermal conductivity
+
+Figure 3(a) presents the thermal conductivity \kappa(T) at zero field for temperatures up to 100 K. Figure 3(b) shows the section below about 0.5 K as a function of T[1.4], which we will discuss first in more detail. The data follow a power law, which we fit with \kappa(T)/T=\kappa_{0}/T+bT^{a} below T=0.4 K. From the fit, we obtain a residual term \kappa_{0}/T=0.01 W K^{-2} m^{-1} [\kappa_{0}/\kappa(H_{\rm c2})=1\%], which is of the order of our measurement uncertainty. A sizable residual term is expected for a nodal superconductor [39, 40, 41] due to pair-breaking impurities. Our observed \kappa_{0}/T is small compared to these expectations and experimental results for unconventional superconductors, e.g., the d-wave superconductors Tl_{2}Ba_{2}CuO_{6+8} with \kappa_{0}/\kappa(H_{\rm c2})\approx 35\%[42], and CeIrIn_{5} with \kappa_{0}/\kappa(H_{\rm c2})\approx 20\%[41]. Hence this result points towards a superconductor with a finite gap everywhere on the Fermi surface.
+
+The exponent we obtain from the power law fit is a=1.4. In an s-wave superconductor, the thermal conductivity at sufficiently low T/T_{\rm c} is expected to be entirely due to phonons. With the relation
+
+\[\kappa_{\rm p}=\frac{1}{3}C_{\rm p}v_{\rm p}l_{\rm p},\] (4)
+
+one can estimate the phonon contribution \kappa_{\rm p} from the specific heat C_{\rm p} and the mean free path l_{\rm p}. C_{\rm p}=\beta T^{3} is the phonon specific heat from a Debye model determined above. The sound velocity v_{\rm p} can be calculated from C_{\rm p} using the two equations
+
+\[\beta T^{3}=\frac{12\pi^{4}}{5}Nk_{B}\frac{T^{3}}{\Theta^{3}}\quad\mbox{and} \quad v_{\rm p}=\frac{k_{B}\Theta}{\hbar}\left(\frac{V}{6\pi^{2}N}\right)^{1/3},\] (5)
+
+where \Theta is the Debye temperature, V=7.25\times 10^{-9} m^{3} is the volume of sample no. 2, and N=17mN_{\rm A}/M=3.84\times 10^{20} is the number of atoms in the crystal. This leads to \Theta=208 K and v_{\rm p}=1860 m/s. However, the experimental specific-heat data on LaPt_{4}Ge_{12} follow only approximately a T^{3} dependence, but can be better described by a T^{2.5} law below 4 K [see inset of Fig. 1(a)]. Interestingly, the thermal conductivity follows a T^{2.4} dependence at low T, which is close to the experimentally determined T dependence of C_{\rm p}. The almost identical exponents hint at a scenario, where phonons scattered on boundaries are the main contribution to \kappa at low T. A fit of the thermal conductivity with an adjusted power law C_{\rm p}=\beta^{\prime}T^{2.5}, with the velocity v_{\rm p} calculated above, and l_{\rm p} as free parameter is shown in Fig. 3(b). It leads to a mean free path of l_{\rm p}=0.055 mm, which is a reasonable value considering the shortest of the sample dimensions (0.04\times0.50\times 1.92) mm^{3}. This nice agreement suggests first boundary scattering as the main contribution to l_{\rm p} and a negligible contribution of specular reflections, which would lead to a considerably larger l_{\rm p}. Secondly, it points towards a negligible electronic contribution to \kappa at low T and thus to a finite gap at every k point of the Fermi surface.
+
+With the results from the low-temperature thermal conductivity, we can also understand the behavior in the whole temperature range [Fig. 3(a)]. At T_{\rm c}, a clear drop is visible followed by a hump at slightly lower T. In general, the thermal conductivity both in the normal state, \kappa^{\rm n}, and in the superconducting state, \kappa^{\rm s}, consists of a phonon and an electron contribution
+
+\[\kappa^{\rm n}=\kappa^{\rm n}_{\rm e}+\kappa^{\rm n}_{\rm p},\] (6)
+
+\[\kappa^{\rm s}=\kappa^{\rm s}_{\rm e}+\kappa^{\rm s}_{\rm p}.\] (7)
+
+Assuming an s-wave superconductor, the drop can be attributed to the decreasing number of electronic heat carriers; hence \kappa^{\rm s}_{\rm e} decreases rapidly. The hump indicates an enhanced mean free path of phonons due to the decreasing number of
+
+Figure 3: Temperature dependence of the thermal conductivity at H=0. (a) In the double-logarithmic representation up to 100 K, a clear but smooth drop of \kappa(T) at T_{\rm c} is visible. A hump appears at lower T. Inset: \kappa(T) on a linear scale. For an s-wave superconductor, one expects a rapidly decreasing \kappa_{\rm e} (e) below T_{\rm c}, while \kappa_{\rm p} (p) increases forming a hump. The sketched T dependencies for \kappa_{\rm e} and \kappa_{\rm p} are inspired by the theory of Bardeen, Rickayzen, and Tewordt (BRT) for s-wave superconductors. The dashed lines are guides to the eye. (b) The low-temperature thermal conductivity can be fitted with a power law \kappa(T)/T\propto T^{1.4} (solid yellow) leading to a residual term of \kappa(T)/T(T\to 0)=0.01 W K^{-2} m^{-1}. A second fit (dashed red) with Eq. (4) using the experimental specific-heat results indicates a dominant phonon contribution scattered by sample boundaries.
+
+  electronic scattering centers; therefore, \kappa_{\rm p}^{\rm s} increases below T_{\rm c}. Bardeen, Rickayzen, and Tewordt (BRT) developed a standard theory for thermal conductivity in the case of an s-wave superconductor [43]. In the spirit of the BRT theory, we sketched the temperature dependence for both \kappa_{\rm p} and \kappa_{\rm e} in the inset of Fig. 3(a), which can qualitatively explain our observed temperature dependence of the thermal conductivity.
+
+### H dependence of the thermal conductivity
+
+We now turn to the field dependence of \kappa(H)/T for LaPt_{4}Ge_{12}, which is presented in Fig. 4(a) for selected temperatures between 290 mK and 650 mK together with a zero-temperature extrapolation. The measurements were performed on increasing field. A comparison with measurements during decreasing field showed no hysteresis. The field dependence is consistent with temperature-dependent measurements at finite fields, which were performed on warming and which do not show any difference between field and zero-field cooling.
+
+A clear kink is visible at \mu_{0}H_{c2}=1.4 T. This is slightly lower than 1.6 T from the extrapolation of the specific-heat data on polycrystals obtained at T\geqslant 1.8 K [8] and from resistivity data down to 0.3 K [21]. The latter observation is in agreement with resistivity measurements on our samples (not shown), which show a slightly higher H_{c2} than from thermal transport and specific heat (Fig. 2). This deviation is most likely due to surface effects. Below H_{c2}, the thermal conductivity shows an almost linear field dependence in the zero-temperature limit. For finite temperatures, a minimum appears at low fields. It shifts to higher fields and becomes more pronounced as the temperature is increased.
+
+Generally, \kappa(H) is almost constant below H_{\rm c1}[47, 36, 49], a regime which we will not consider here since \mu_{0}H_{c1}\simeq 14 mT obtained from magnetization measurements is very small in LaPt_{4}Ge_{12}.
+
+However, there are drastic changes above H_{\rm c1} due to the properties of the vortex state: in addition to the delocalized quasiparticles due to thermal excitations above the gap, there are quasiparticles from the core region, which lead to an increase of \kappa_{\rm e}^{\rm s}[47, 50, 51, 52]. Around the vortex core, a supercurrent flows, which decays over a distance roughly equal to the penetration depth \lambda. The supercurrent with the velocity \bm{v}_{\rm S} leads to a Doppler shift of the energy of delocalized quasiparticles \epsilon(\bm{k})\rightarrow\epsilon(\bm{k})-\hbar\bm{k}\cdot\bm{v}_{\rm S}(H)[28, 53]. This changes the excitation spectrum, increases the density of states, and effectively lowers the gap \Delta for \bm{k} directions with a component parallel to \bm{v}_{\rm S}. This effect also increases \kappa_{\rm e}^{\rm s}[28, 54, 55] and becomes important especially for superconductors with nodes in the gap. Scattering of electrons and phonons on the vortex lattice decreases \kappa_{\rm e}^{\rm s} and \kappa_{\rm p}^{\rm s}[47, 50, 54].
+
+The sum of all these effects leads to pronounced and typical differences in \kappa(H) for materials with different gap structures. They are all anisotropic with respect to the angle between current and field and also with respect to the angle between field and wave vector [47, 54, 56, 57]. In the following we restrict the discussion to our case of a field perpendicular to the current. The field dependence of \kappa(H) can be affected by the quality of the sample as exemplified in Fig. 4(b) for the case of an s-wave superconductor [47, 48, 50, 57].
+
+In Fig. 4(b), we compare our data with results on different materials. The materials chosen for this comparison show a field dependence of the thermal conductivity typical for their superconducting gap symmetry. The key signatures found in LaPt_{4}Ge_{12} are the finite slope close to H_{\rm c2}, no residual term \kappa_{0}/\kappa_{n} at zero field, and a minimum at intermediate fields, which is absent for T\to 0 but increases in amplitude with increasing T. The curve for LaPt_{4}Ge_{12} compares best with that of InBi, which is a representative example for dirty s-wave superconductors [47, 48, 49, 58, 59]. The most important difference to the clean s-wave case is the infinite slope at H_{\rm c2} found in the latter one. We also added data for a second dirty superconductor at higher relative temperature to illustrate the appearance of a minimum at intermediate fields very similar to our observation in LaPt_{4}Ge_{12}.
+
+The good agreement of \kappa(H) in LaPt_{4}Ge_{12} with that of a dirty s-wave superconductor fits to the specific heat results
+
+Figure 4: Magnetic-field dependence of the thermal conductivity. (a) Dots represent field sweeps after zero-field cooling. Open squares are extracted from temperature sweeps after field cooling; filled squares are their zero-temperature extrapolations. The line is a guide to the eye. \kappa(H)/T is almost linear and develops a minimum at low fields which becomes more pronounced with higher temperature. The shaded areas illustrate qualitatively how the electronic and the phonon contribution change with field [44, 45]. (b) We compare the field-dependent thermal conductivity data for T\to 0 with the following materials representing different gap symmetries. d-wave no. 1: Tl_{2}Ba_{2}CuO_{6+\delta} (T/T_{\rm c}\to 0) [42]; d-wave no. 2: CeIrIrIn_{5} (T/T_{\rm c}\to 0) [41]; multiband: MgB_{2} (T/T_{\rm c}=0.02) [46]; clean s-wave: Nb (T/T_{\rm c}=0.22) [47]; dirty s-wave low T: InBi (T/T_{\rm c}=0.10) [48]; dirty s-wave high T: Ta_{08}Nb_{20} (T/T_{\rm c}=0.35) [47]. Note the different scaling of the field axis to account for the different H_{\rm c1} and H_{\rm c2}.
+
+  and the temperature dependence of the thermal conductivity. We find, in addition, that our sample is actually in the dirty limit, since the Ginzburg-Landau coherence length \xi=20 nm is of the same order as the superconducting mean free path l=60 nm. Here, we used the upper critical field to determine \xi with \mu_{0}H_{\mathrm{c2}}=\Phi_{0}/2\pi\,\xi^{2}=1.4 T. To calculate l, we applied l=[\frac{\xi^{-\frac{1}{2}-1.6\times 10^{12}\mu_{0}\gamma_{2}T_{\mathrm{c}}}}{1.8 \times 10^{12}(\mu_{0}\gamma_{2}T_{\mathrm{c}})^{2}}]^{0.5} cm, [60] where we use the electronic specific heat coefficient \gamma_{\mathrm{n}}=1600 in the unit \mathrm{erg\,K^{-2}/cm^{-3}}, the residual resistivity \rho_{0}=4\times 10^{-6} in the unit \Omega cm (from crystal no. 3, not shown), T_{\mathrm{c}}=8 in the unit K, and the aforementioned coherence length \xi=2\times 10^{-6} in the unit cm.
+
+The good agreement with results for a dirty s-wave superconductor implies that the field dependence of the thermal conductivity is composed of a phonon part \kappa_{\mathrm{p}}^{\mathrm{s}}, which decreases with increasing field due to scattering on vortices, and an electronic contribution, which increases due to an enhanced number of localized states in the vortex cores tunneling to ever closer neighboring vortices. This behavior is indicated in Fig. 4(a).
+
+Since our specific-heat results indicate that a description within a two-band model is also consistent with the data, we like to analyze our thermal-transport data with respect to this scenario as well. A typical feature of \kappa(H) in multiband systems is a plateau at intermediate fields as shown in Fig. 4(b) for MgB_{2}, which is attributed to the suppression of the smaller of the two gaps. We do not observe such change of curvature in LaPt_{4}Ge_{12}. However, this change might be very weak as, e.g., in the case of NbSe_{2}[36].
+
+Let us now compare our thermal conductivity results with observations and predictions for the case of nodes in the superconducting gap. There are both theoretical [54, 55] and experimental [61, 62, 63] reports on a minimum in \kappa\,(H) for unconventional superconductors. The slope above the minimum can vary considerably depending on the type of gap and the purity of the sample [54, 55, 64] [cf. Fig. 4(b)]. Such a minimum is consistent with our observation. Hence this property does not rule out nodes in the gap of LaPt_{4}Ge_{12} completely. However, one would expect a sizable residual term for T\to 0 in a nodal superconductor. In contrast, both single-band and multiband s-wave superconductors show an insignificantly small residual term exactly as our results on LaPt_{4}Ge_{12}.
+
+## IV Conclusion
+
+We performed specific-heat and thermal-conductivity measurements to investigate the superconducting order parameter of LaPt_{4}Ge_{12}. The specific heat shows a sharp superconducting transition at 8.0 K and its zero-field temperature dependence in the superconducting state can nicely be described assuming a single BCS s-wave gap of the size \Delta=2.0\,k_{\mathrm{B}}T_{\mathrm{c}}. The field dependence of the \gamma_{0} coefficient deviates from the simple linear behavior for s-wave pairing. Such a deviation can arise if the Fermi surface shows strong anisotropies as is the case for LaPt_{4}Ge_{12}. We used the specific-heat results to analyze the low-temperature thermal transport in detail. The temperature dependence of the thermal conductivity reveals a dominant phonon contribution at low temperatures and a negligible electronic residual term. Together with the dependence of the thermal conductivity on magnetic field, this behavior suggests a single gap BCS s-wave superconductor.
+
+However, we cannot completely exclude a two-band scenario from our experimental results, in particular if both gaps have a similar size \Delta\,/\,k_{\mathrm{B}}T_{\mathrm{c}} or if one of them has only a tiny contribution to the thermal transport and thermodynamic properties. The analysis of the specific heat data enables us to limit the possible range of amplitudes \Delta_{1} and \Delta_{2} and weighting factors x within the two-gap \alpha model. The possible parameter range is comparatively large, since a single-band model is already sufficient to describe our experimental results.
+
+Since the sister compound PrPt_{4}Ge_{12} is discussed to be a multigap and/or unconventional superconductor, further thermal conductivity and specific heat measurements on the substitution series (Pr_{1-x}La_{x})Pt_{4}Ge_{12} are highly desired. They might help to resolve the question if PrPt_{4}Ge_{12} and LaPt_{4}Ge_{12} have compatible superconducting order parameters, as was suggested by the smooth evolution of T_{c}(x) across the substitution series.
+
+## Acknowledgment
+
+We are indebted to R. Daou and H. Rosner for valuable discussions.
+
+## References
+
+* (1) B. White, J. Thompson, and M. Maple, Physica C **514**, 246 (2015).
+* (2) F. Steglich, J. Aarts, C. D. Bredl, W. Lieke, D. Meschede, W. Franz, and H. Schafer, Phys. Rev. Lett. **43**, 1892 (1979).
+* (3) J. G. Bednorz and K. A. Muller, Z. Phys. B **64**, 189 (1986).
+* (4) D. Jerome, A. Mazaud, M. Ribault, and K. Bechgaard, J. Phys. Lett. **41**, 95 (1980).
+* (5) E. D. Bauer, N. A. Frederick, P.-C. Ho, V. S. Zapf, and M. B. Maple, Phys. Rev. B **65**, 100506 (2002).
+* (6) Y. Aoki, H. Sugawara, H. Hisatomo, and H. Sato, J. Phys. Soc. Jpn. **74**, 209 (2005).
+* (7) E. Bauer, A. Grytsiv, X.-Q. Chen, N. Melnychenko-Koblyuk, G. Hilscher, H. Kaldarar, H. Michor, E. Royanian, G. Giester, M. Rotter _et al._, Phys. Rev. Lett. **99**, 217001 (2007).
+* (8) R. Gumeniuk, W. Schnelle, H. Rosner, M. Nicklas, A. Leithe-Jasper, and Y. Grin, Phys. Rev. Lett. **100**, 017002 (2008).
+* (9) E. Bauer, X.-Q. Chen, P. Rogl, G. Hilscher, H. Michor, E. Royanian, R. Podloucky, G. Giester, O. Sologub, and A. P. Goncalves, Phys. Rev. B **78**, 064516 (2008).
+* (10) D. Kaczorowski and V. H. Tran, Phys. Rev. B **77**, 180504 (2008).
+* (11) I. Jeon, K. Huang, D. Yazici, N. Kanchanavatee, B. D. White, P.-C. Ho, S. Jang, N. Pouse, and M. B. Maple, Phys. Rev. B **93**, 104507 (2016).
+* (12) F. Kanetake, H. Mukuda, Y. Kitaoka, K. ichi Magishi, H. Sugawara, K. M. Itoh, and E. E. Haller, J. Phys. Soc. Jpn. **79**, 063702 (2010).
+* (13) J. L. Zhang, Y. Chen, L. Jiao, R. Gumeniuk, M. Nicklas, Y. H. Chen, L. Yang, B. H. Fu, W. Schnelle, H. Rosner _et al._, Phys. Rev. B **87**, 064502 (2013).
+
+  * [14] A. Maisuradze, W. Schnelle, R. Khasanov, R. Gumeniuk, M. Nicklas, H. Rosner, A. Leithe-Jasper, Y. Grin, A. Amato, and P. Thalmeier, Phys. Rev. B **82**, 024524 (2010).
+* [15] J. Zhang, D. E. MacLaughlin, A. D. Hillier, Z. F. Ding, K. Huang, M. B. Maple, and L. Shu, Phys. Rev. B **91**, 104523 (2015).
+* [16] Y. Nakamura, H. Okazaki, R. Yoshida, T. Wakita, H. Takeya, K. Hirata, M. Hirai, Y. Muraoka, and T. Yokoya, Phys. Rev. B **86**, 014521 (2012).
+* [17] L. S. S. Chandra, M. K. Chattopadhyay, and S. B. Roy, Supercond. Sci. Technol. **25**, 105009 (2012).
+* [18] K. Huang, L. Shu, I. K. Lum, B. D. White, M. Janoschek, D. Yazici, J. J. Hamlin, D. A. Zocco, P.-C. Ho, R. E. Baumbach _et al._, Phys. Rev. B **89**, 035145 (2014).
+* [19] Y. P. Singh, R. B. Adhikari, S. Zhang, K. Huang, D. Yazici, I. Jeon, M. B. Maple, M. Dzero, and C. C. Almasan, arXiv:1607.03563.
+* [20] M. Toda, H. Sugawara, K. ichi Magishi, T. Saito, K. Koyama, Y. Aoki, and H. Sato, J. Phys. Soc. Jpn. **77**, 124702 (2008).
+* [21] J. L. Zhang, G. M. Pang, L. Jiao, M. Nicklas, Y. Chen, Z. F. Weng, M. Smidman, W. Schnelle, A. Leithe-Jasper, A. Maisuradze _et al._, Phys. Rev. B **92**, 220503 (2015).
+* [22] R. Gumeniuk, H. Borrmann, A. Ormeci, H. Rosner, W. Schnelle, M. Nicklas, Y. Grin, and A. Leithe-Jasper, Z. Kristallogr. **225**, 531 (2010).
+* [23] J. L. Feldman, D. J. Singh, I. I. Mazin, D. Mandrus, and B. C. Sales, Phys. Rev. B **61**, R9209 (2000).
+* [24] G. Seyfarth, J. P. Brison, M.-A. Measson, D. Braithwaite, G. Lapertot, and J. Flouquet, Phys. Rev. Lett. **97**, 236403 (2006).
+* [25] R. W. Hill, S. Li, M. B. Maple, and L. Taillefer, Phys. Rev. Lett. **101**, 237005 (2008).
+* [26] L. Bochenek, R. Wawryk, Z. Henkie, and T. Cichorek, Phys. Rev. B **86**, 060511 (2012).
+* [27] F. Bouquet, Y. Wang, R. A. Fisher, D. G. Hinks, J. D. Jorgensen, A. Junod, and N. E. Phillips, Europhys. Lett. **56**, 856 (2001).
+* [28] G. E. Volovik, JETP Lett. **58**, 469 (1993).
+* [29] A. L. Fetter and P. Hohenberg, in _Superconductivity_ (Marcel Dekker, Inc., New York, 1969), Vol. 2, pp. 817-923.
+* [30] M. Ichioka, A. Hasegawa, and K. Machida, Phys. Rev. B **59**, 184 (1999).
+* [31] J. E. Sonier, M. F. Hundley, J. D. Thompson, and J. W. Brill, Phys. Rev. Lett. **82**, 4914 (1999).
+* [32] M. Nohara, M. Isshiki, F. Sakai, and H. Takagi, J. Phys. Soc. Jpn. **68**, 1078 (1999).
+* [33] M. Hedo, Y. Inada, E. Yamamoto, Y. Haga, Y. Onuki, Y. Aoki, T. D. Matsuda, H. Sato, and S. Takahashi, J. Phys. Soc. Jpn. **67**, 272 (1998).
+* [34] A. Ramirez, Phys. Lett. A **211**, 59 (1996).
+* [35] M. Nohara, M. Isshiki, H. Takagi, and R. J. Cava, J. Phys. Soc. Jpn. **66**, 1888 (1997).
+* [36] E. Boaknin, M. A. Tanatar, J. Paglione, D. Hawthorn, F. Ronning, R. W. Hill, M. Sutherland, L. Taillefer, J. Sonier, S. M. Hayden _et al._, Phys. Rev. Lett. **90**, 117003 (2003).
+* [37] H. Rosner (private communication).
+* [38] V. Metlushko, U. Welp, A. Koshelev, I. Aranson, G. W. Crabtree, and P. C. Canfield, Phys. Rev. Lett. **79**, 1738 (1997).
+* [39] M. J. Graf, S.-K. Yip, J. A. Sauls, and D. Rainer, Phys. Rev. B **53**, 15147 (1996).
+* [40] A. C. Durst and P. A. Lee, Phys. Rev. B **62**, 1270 (2000).
+* [41] H. Shakeripour, C. Petrovic, and L. Taillefer, New J. Phys. **11**, 055065 (2009).
+* [42] C. Proust, E. Boaknin, R. W. Hill, L. Taillefer, and A. P. Mackenzie, Phys. Rev. Lett. **89**, 147003 (2002).
+* [43] J. Bardeen, G. Rickayzen, and L. Tewordt, Phys. Rev. **113**, 982 (1959).
+* [44] L. Dubeck, P. Lindenfeld, E. A. Lynton, and H. Rohrer, Phys. Rev. Lett. **10**, 98 (1963).
+* [45] W. Pesch, R. Watts-Tobin, and L. Kramer, Z. Phys. **269**, 253 (1974).
+* [46] A. V. Sologubenko, J. Jun, S. M. Kazakov, J. Karpinski, and H. R. Ott, Phys. Rev. B **66**, 014504 (2002).
+* [47] J. Lowell and J. Sousa, J. Low Temp. Phys. **3**, 65 (1970).
+* [48] J. O. Willis and D. M. Ginsberg, Phys. Rev. B **14**, 1916 (1976).
+* [49] A. K. Gupta and S. Wolf, Phys. Rev. B **6**, 2595 (1972).
+* [50] C. Caroli and M. Cyrot, Phys. Kondens. Materie **4**, 285 (1965).
+* [51] E. Schmidbauer, H. Wenzl, and E. Umlauf, Z. Phys. **240**, 30 (1970).
+* [52] A. A. Golubov and A. E. Koshelev, Phys. Rev. B **83**, 094521 (2011).
+* [53] M. Cyrot, Phys. Kondens. Materie **3**, 374 (1965).
+* [54] C. Kubert and P. J. Hirschfeld, Phys. Rev. Lett. **80**, 4963 (1998).
+* [55] I. Vekhter and A. Houghton, Phys. Rev. Lett. **83**, 4626 (1999).
+* [56] U. Brandt, W. Pesch, and L. Tewordt, Z. Phys. **201**, 209 (1967).
+* [57] K. Maki, Phys. Rev. **158**, 397 (1967).
+* [58] Y. Muto, K. Noto, T. Mamiya, and T. Fukuroi, J. Phys. Soc. Jpn. **24**, 992 (1968).
+* [59] L. Dubeck, P. Lindenfeld, E. A. Lynton, and H. Rohrer, Rev. Mod. Phys. **36**, 110 (1964).
+* [60] T. P. Orlando, E. J. McNiff, S. Foner, and M. R. Beasley, Phys. Rev. B **19**, 4545 (1979).
+* [61] T. Watanabe, K. Izawa, Y. Kasahara, Y. Haga, Y. Onuki, P. Thalmeier, K. Maki, and Y. Matsuda, Phys. Rev. B **70**, 184502 (2004).
+* [62] Y. Machida, A. Itoh, Y. So, K. Izawa, Y. Haga, E. Yamamoto, N. Kimura, Y. Onuki, Y. Tsutsumi, and K. Machida, Phys. Rev. Lett. **108**, 157002 (2012).
+* [63] K. Izawa, H. Takahashi, H. Yamaguchi, Y. Matsuda, M. Suzuki, T. Sasaki, T. Fukase, Y. Yoshida, R. Settai, and Y. Onuki, Phys. Rev. Lett. **86**, 2653 (2001).
+* [64] H. Won and K. Maki, Curr. Appl. Phys. **1**, 291 (2001).
+
+ Superconducting gap structure of the skutterudite LaPt_{4}Ge_{12} probed by specific heat
+
+and thermal transport
+
+H. Pfau
+
+Present address: Stanford Institute for Materials and Energy Sciences, SLAC National Accelerator Laboratory and Stanford University, 2575 Sand Hill Road, Menlo Park, CA 94025, USA; hfau@stanford.edu Max Planck Institute for Chemical Physics of Solids, 01187 Dresden, Germany
+
+M. Nicklas
+
+Max Planck Institute for Chemical Physics of Solids, 01187 Dresden, Germany Institut fur Experimentelle Physik, TU Bergsdademie Freiberg, 09596 Freiberg, Germany
+
+U. Stockert
+
+Max Planck Institute for Chemical Physics of Solids, 01187 Dresden, Germany
+
+R. Gumeniuk
+
+Max Planck Institute for Chemical Physics of Solids, 01187 Dresden, Germany Institut fur Experimentelle Physik, TU Bergsdademie Freiberg, 09596 Freiberg, Germany
+
+W. Schnelle
+
+Max Planck Institute for Chemical Physics of Solids, 01187 Dresden, Germany
+
+A. Leithe-Jasper
+
+Max Planck Institute for Chemical Physics of Solids, 01187 Dresden, Germany
+
+Y. Grin
+
+Max Planck Institute for Chemical Physics of Solids, 01187 Dresden, Germany
+
+F. Steglich
+
+Max Planck Institute for Chemical Physics of Solids, 01187 Dresden, Germany
+
+November 6, 2021
+
+###### Abstract
+
+We investigated the superconducting order parameter of the filled skutterudite LaPt_{4}Ge_{12}, with a transition temperature of T_{c} = 8.3 K. To this end, we performed temperature and magnetic-field dependent specific-heat and thermal-conductivity measurements. All data are compatible with a single superconducting s-wave gap. However, a multiband scenario cannot be ruled out. The results are discussed in the context of previous studies on the substitution series Pr_{1-x}La_{x}Pt_{4}Ge_{12}. They suggest compatible order parameters for the two end compounds LaPt_{4}Ge_{12} and PrPt_{4}Ge_{12}. This is not consistent with a single s-wave gap in LaPt_{4}Ge_{12} considering previous reports of unconventional and/or multiband superconductivity in PrPt_{4}Ge_{12}.
+
+doi:10.1103/PhysRevB.94.054523
+
+2469-9950/2016/94(5)054523-1
+
+## I Introduction
+
+The pairing mechanism of a superconductor determines the symmetry of its order parameter, which in turn is connected to the symmetry of the superconducting gap. Superconductors, whose averaged order parameter over the entire Fermi surface yields zero, are called unconventional. They attract much interest [1] in modern condensed matter physics because a description of the underlying physics has to go beyond the standard Bardeen-Cooper-Schrieffer (BCS) theory for an s-wave order parameter. Their gap contains nodes, whose existence and position can be detected by a variety of experimental probes. Often, only a combination of results from different probes allows one to draw a conclusive picture. The search and study of unconventional superconductors was triggered by the discovery of heavy-fermion superconductivity [2], the high-T_{c} cuprates [3], and organic superconductors [4]. By now, a lot more materials are believed to be unconventional superconductors.
+
+In this context, the filled-skutterudite compounds MT_{4}X_{12} (M = electropositive metal, T = transition metal, and X = usually a pnictogen) attracted much attention with the discovery of PrOs_{4}Sb_{12}, which is the first Pr-based heavy-fermion superconductor and believed to be of unconventional type [5, 6]. It exhibits exotic properties probably connected to the quadrupole degrees of freedom [6]. The skutterudite family MPt_{4}Ge_{12} (M = Sr, Ba, La, Pr, Th) with a Pt-Ge framework are also superconductors [7, 8, 9, 10, 11]. The two members PrPt_{4}Ge_{12} and LaPt_{4}Ge_{12} show superconductivity at relatively high transition temperatures compared to other skutterudites, namely T_{c} = 7.9 K and 8.3 K [8].
+
+PrPt_{4}Ge_{12} seems to be a good candidate for unconventional superconductivity. It is considered to be a moderately strong-coupling superconductor from the large specific-heat jump compared to the BCS value [8]. There are indications of point nodes from NMR [12], specific heat, and penetration depth [13]. Furthermore, \muSR measurements detected a time-reversal symmetry breaking below T_{c}[14, 15]. Additionally, a number of investigations including photoemission, magnetization, penetration depth, and specific heat revealed multiband superconductivity in this compound [13, 16, 17, 18, 19].
+
+The continuous evolution of T_{c} across the doping series (Pr_{1-x}La_{x})Pt_{4}Ge_{12} suggests compatible order parameters of the end members PrPt_{4}Ge_{12} and LaPt_{4}Ge_{12}[14]. However, the few existing investigations on LaPt_{4}Ge_{12} point towards a single isotropic gap: the specific-heat jump \Delta C/\gamma_{\rm{n}}T_{\rm{c}} is only slightly above the BCS value suggesting a weaker coupling than in PrPt_{4}Ge_{12}[8]. NMR and photoelectron-spectroscopy results for LaPt_{4}Ge_{12} could be best explained by a single isotropic gap [16, 20]. Additionally, no time-reversal symmetry breaking is observed in LaPt_{4}Ge_{12} by \muSR [14]. Only one recent study using \muSR and tunnel diode spectroscopy for penetration-depth measurements reports indications of multiband superconductivity in LaPt_{4}Ge_{12}[21].
+
+In order to develop a conclusive picture, it is necessary to shed more light on the superconducting properties of LaPt_{4}Ge_{12}. In particular, it is important to clarify if LaPt_{4}Ge_{12} is a multiband superconductor. To this end, we performed specific-heat measurements at temperatures down to 0.4 K for different magnetic fields. While the temperature dependence at zero field can be described with a single superconducting s-wave gap, the field dependence of the specific-heat \gamma_{0} coefficient shows sublinear behavior, which is discussed in terms of Fermi-surface anisotropies. Additionally, we use the specific-heat results to analyze the data of our detailed thermal-conductivity study with a focus on the behavior below 1 K. Our temperature- and field-dependent measurements are compatible with a single-gap s-wave state.
+
+## II Methods
+
+For the synthesis of single crystals of LaPt_{4}Ge_{12}, a bulk sample of mass 2 g was placed in a glassy-carbon crucible, sealed in a Ta tube, and enclosed in a quartz ampoule. The ampoule was heated up to 870 ^{\circ}C within 5 h and kept at this temperature for 10 h. Then it was cooled down to 845 ^{\circ}C  and held for 30 days and furnace cooled. Single crystals of 1-4 mm size were mechanically extracted from the sample [22].
+
+We investigated three high-quality single crystals of LaPt_{4}Ge_{12} selected from the same batch with a residual resistivity ratio (RRR) of 17 and a residual resistivity \rho_{0} of 3.8 \mu\Omega cm. Crystal no. 1 with a mass of m=14.7 mg and crystal no. 2 with 67.2 mg were used for specific-heat measurements by a relaxation method (Heat Capacity Option in a PPMS by Quantum Design). On crystal no. 3 we performed transport measurements with a standard two-thermometer-one-heater technique. For this purpose, we cut it first into a rectangular bar along the principal cubic crystal axes with a cross-sectional area of 0.492 mm^{2} and a contact distance of 1.08 mm. This arrangement was used for thermal-conductivity measurements in a PPMS (Thermal Transport Option) above 2 K and in zero magnetic field. Afterwards, a long plate was cut from crystal no. 3 again along the principal cubic crystal axes with the dimensions (0.04\times 0.50\times 1.92) mm^{3}. This sample no. 3a was used to measure thermal conductivity both as a function of temperature and isothermally as a function of magnetic field for temperatures below 1 K and for magnetic fields of 0\leqslant H\leqslant 2 T. The heat current \bm{j} was applied along the same direction as for the PPMS measurement. A superconducting split-coil magnet generated a magnetic field \bm{H}\perp\bm{j}.
+
+## III Results
+
+### \bm{T} dependence of the specific heat
+
+The specific heat C(T) of LaPt_{4}Ge_{12} was measured at zero field and in a field of 2 T, which is above the superconducting critical field [Fig. 1(a)]. Our measurements are in good agreement with previous results on polycrystalline samples [8]. The data at 2 T, C_{2}T(T), are used as an estimate of the phonon contribution. To obtain the electronic contribution C_{e} to the specific heat at zero field, the results at 2 T are subtracted from the zero-field data except for a normal-state electronic contribution \gamma_{\rm a}=C_{\rm a}(T)/T=\rm const, which is determined by a fit to C_{2}T(T) between 0.3 K <T< 10 K using the sum of a Debye and Einstein model,
+
+\[C(T)=\gamma_{\rm a}T+\beta T^{3}+C_{\rm E},\] (1)
+
+where C_{\rm E} describes the Einstein specific heat from a single phonon mode. The fit result is also plotted in Fig. 1(a). From the fit we obtain \gamma_{\rm a}=56 mJ mol^{-1}K^{-2}, \beta=3.7 mJ mol^{-1}K^{-4} (Debye temperature \Theta=208 K), and an Einstein temperature of T_{\rm E}=95.5 K. The fit describes the data in the whole temperature range reasonably well, only below 4 K there are small deviations and the phonon contribution follows \beta^{\prime}T^{2.5}. This deviation is most likely due to the complicated phonon spectrum generally observed in filled skutterudites caused by a combination of modes from the filler atom La and modes from the cage structure formed by Pt and Ge [9; 11; 23]. The addition of a T^{5} term is not able to improve the fit. The deviations of the data from the model in Eq. (1), however, can be neglected for the following analysis of the specific heat, but it becomes important when we discuss the thermal conductivity. The result for the electronic contribution to C_{0}T(T) is shown in Fig. 1(b) as the specific heat coefficient \gamma(T)=C_{\rm e}(T)/T. We note that the feature in C_{\rm e}/T below 1 K is an artifact due to the subtraction of the lattice contribution to the specific heat.
+
+The specific heat exhibits a sharp superconducting transition at 8.0 K with a width of 0.13 K, which is an indication of the good quality of our crystals. The jump height is larger than expected from the predictions of the weak-coupling BCS model (\Delta_{0}=1.76\,k_{\rm B}T_{\rm c}), which cannot reproduce our data.
+
+Figure 1: Temperature dependence of the specific heat. (a) C(T) is shown for two different crystals both at zero field and above the upper critical field H_{\rm c2}. A fit of the results at 2 T with Eq. (1) falls on top of the data, except below 4 K, where the phonon contribution follows \beta^{\prime}T^{2.5} (see inset). (b) The electronic contribution C_{\rm e}(T) to the zero-field curve follows a BCS behavior with \Delta_{0}=2.03\,k_{\rm B}T_{\rm c} (solid line). Both samples show the same results within the measurement uncertainty. (c),(d) Numerical evaluation of the two gap \sigma model. (c) The parameter \alpha of the model was determined from the specific-heat jump at T_{\rm c} for the displayed parameter range of \Delta_{1} and \Delta_{2}. (d) The variance compared to the data in (b), \chi^{2}, reveals a large parameter region around \Delta_{1},\Delta_{2}=\Delta_{0} (blue), where the \alpha model is able to describe the data equally well (note the logarithmic scale). The electronic specific heat from the two example parameter sets 1 (\Delta_{1}/k_{\rm B}T_{\rm c}=2.21, \Delta_{2}/k_{\rm B}T_{\rm c}=1.61, x=0.67) and 2 (\Delta_{1}/k_{\rm B}T_{\rm c}=2.62, \Delta_{2}/k_{\rm B}T_{\rm c}=1.40, x=0.45) is shown as dashed and dotted curves in (b). Curve 1 falls almost on top of that of the single-band model.
+
+  However, we are able to describe C_{\rm e}(T)/T adjusting the gap to \Delta_{0}=2.03\,k_{\rm B}T_{\rm c}. This value is in reasonable agreement with the results from photoelectron spectroscopy, \Delta_{0}=1.95\,k_{\rm B}T_{\rm c}[16], and NMR, \Delta_{0}=1.92\,k_{\rm B}T_{\rm c}[12].
+
+Since superconductivity in other skutterudites is discussed in terms of multiband superconductivity [13; 24; 25; 26] and there are results in favor of this interpretation for LaPt_{4}Ge_{12} as well [21], we also consider this possibility based on our specific-heat data. In the case of two gaps, the specific heat might be described by a weighted sum of the contributions from both gaps within the standard two-gap \alpha model [27]
+
+\[C_{\rm e,\alpha}=xC_{\rm e,1}+(1-x)C_{\rm e,2}.\] (2)
+
+Both C_{\rm e,1} and C_{\rm e,2} are calculated within the BCS theory, but with variable gap sizes \Delta_{1} and \Delta_{2}. The third free parameter of this model is the weighting factor x. Since our data can already be described with a single gap \Delta_{0}, one of the two gaps considered for the \alpha model must be greater, the other one smaller than \Delta_{0}. We therefore evaluate the \alpha model numerically in the parameter range (1\,k_{\rm B}T_{\rm c}\lesssim\Delta_{1}\lesssim\Delta_{0}), (\Delta_{0}\lesssim\Delta_{2}\lesssim 3\,k_{\rm B}T_{\rm c}) using the data between 2 K <T<T_{\rm c}. Using Eq. (2), we determined the corresponding x from the height of the specific heat jump at T_{\rm c}, which we obtained from the single band calculation with \Delta_{0}=2.03\,k_{\rm B}T_{\rm c}. The results for x are shown in Fig. 1(c).
+
+In order to find all parameter sets (\Delta_{1},\Delta_{2},x), which are able to describe our data, we evaluate the variance
+
+\[\chi^{2}=\frac{1}{n}\frac{1}{T^{2}\gamma_{\rm n}^{2}}\sum_{i}^{n}(C_{\rm e, \alpha}-C_{\rm e})^{2},\] (3)
+
+which we plot in Fig. 1(d) on a logarithmic scale. In this plot, we can identify the single band case in the corner where \Delta_{1},\Delta_{2}=\Delta_{0}. It also extends vertically and horizontally from this point, where we find either x=1 or x=0, respectively. However, there is also a large region away from the single-band case, which has the same low variance. As an example, the electronic specific heat calculated from parameter set 1 [see Fig. 1(b)] lies almost on top of the single-band calculation. We obtain such a shape and large size of this low-variance region, because a single band is already capable to describe our data. Away from the low variance region, the results from the \alpha model start to deviate from our data, which is demonstrated by the curve from parameter set 2 in Fig. 1(b). In summary, our results from the analysis with the \alpha model reveal two possible scenarios: (a) two gaps close to \Delta_{0} or (b) \Delta_{1}\approx\Delta_{0} and \Delta_{2}\neq\Delta_{0} as long as (1-x) stays small. The very good agreement with a single s-wave gap excludes the possibility to describe C_{\rm e}(T) of LaPt_{4}Ge_{12} using a nodal gap structure almost completely. The question whether there are multiple s-wave gaps with different gap sizes involved may ultimately be solved by measurements on the substitution series (La_{\rm a}Pr_{1-x})Pt_{4}Ge_{12}.
+
+### H dependence of the specific heat
+
+The magnetic-field dependence of the \gamma_{0} coefficient in the superconducting state was determined by an extrapolation of C_{\rm e}(T,H={\rm const})/T data to zero temperature assuming an exponential behavior at low temperatures in the superconducting state. Figure 2 clearly shows that \gamma_{0}(H/H_{\rm c2}) normalized to its normal state value \gamma_{\rm n} follows a sublinear curve \gamma_{0}/\gamma_{\rm n}=(H/H_{\rm c2})^{\eta} with an exponent of \eta=0.72 between 0\leqslant H\leqslant H_{\rm c2}. \mu_{0}H_{\rm c2}=1.4 T has been determined from thermal conductivity; see below. This exponent lies in between expectations for nodal superconductors in simplified models (\eta=0.5) [28] and a fully gapped isotropic superconductor (\eta=1.0) [29]. However, these predictions take only certain quasiparticle contributions into account: for an s-wave superconductor it is the contribution to the density of states from the states within the vortex cores; for nodal superconductors it is a contribution from the delocalized quasiparticles around the nodes. Deviations are, therefore, expected, if one takes further contributions into account. In addition to core states and delocalized quasiparticles, respectively, this would be vortex lattice contributions [30].
+
+Since the temperature dependence of the specific heat does not indicate the presence of nodes in the superconducting gap function, we will focus here on the case of fully gapped superconductors. A deviation of \gamma_{0}(H) from the predicted linear dependence was observed in several s-wave superconductors [31; 32; 33; 34; 35]. Several possible reasons have been suggested: (1) multiband superconductivity; (2) anisotropic Fermi surface; (3) nonlinear contributions from the vortex lattice, which arise due to a field-dependent vortex-core radius [30; 31].
+
+We first discuss case (1). In the multiband superconductor MgB_{2}, two distinct field scales were identified [27; 36], which correspond to the two different upper-critical fields of the two gaps. Interestingly, the field dependence of \gamma_{0}/\gamma_{\rm n} tracks the field dependence of the thermal conductivity \kappa_{0}/\kappa_{n} with the same characteristic field scales. This is not the case in LaPt_{4}Ge_{12}, as \kappa_{0}/\kappa_{n} shows a curvature with opposite sign (see below) and makes, therefore, a scenario with two gaps of very different size, as in PrPt_{4}Ge_{12}, rather unlikely.
+
+Figure 2: Magnetic-field dependence of the specific heat. \gamma_{0}(H/H_{\rm c2}) normalized to its normal state value \gamma_{\rm n} deviates from a linear behavior (dashed line) and follows a power law (solid line) with an exponent of 0.72. \gamma_{0}(H/H_{\rm c2}) was extracted from a fit to C(T)/T at different fields. A selection of these data is shown in the inset as function of T^{2} for the equally spaced fields H=0,0.27,\ldots,1.4T=\mu_{0}H_{\rm c2}. The lines are guides to the eye.
+
+  LaPt_{4}Ge_{12} has a complex, anisotropic Fermi surface with several bands crossing the Fermi level [37]. This might explain the observed sublinear behavior in \nu_{0}(H). A similar scenario has been suggested for the borocarbide superconductor LuNi_{2}B_{2}C [35, 38].
+
+We cannot exclude that a field dependent vortex core radius provides a further mechanism for the observed deviations; however, so far there are no indications for such a scenario in LaPt_{4}Ge_{12}.
+
+### T dependence of the thermal conductivity
+
+Figure 3(a) presents the thermal conductivity \kappa(T) at zero field for temperatures up to 100 K. Figure 3(b) shows the section below about 0.5 K as a function of T[1.4], which we will discuss first in more detail. The data follow a power law, which we fit with \kappa(T)/T=\kappa_{0}/T+bT^{a} below T=0.4 K. From the fit, we obtain a residual term \kappa_{0}/T=0.01 W K^{-2} m^{-1} [\kappa_{0}/\kappa(H_{\rm c2})=1\%], which is of the order of our measurement uncertainty. A sizable residual term is expected for a nodal superconductor [39, 40, 41] due to pair-breaking impurities. Our observed \kappa_{0}/T is small compared to these expectations and experimental results for unconventional superconductors, e.g., the d-wave superconductors Tl_{2}Ba_{2}CuO_{6+8} with \kappa_{0}/\kappa(H_{\rm c2})\approx 35\%[42], and CeIrIn_{5} with \kappa_{0}/\kappa(H_{\rm c2})\approx 20\%[41]. Hence this result points towards a superconductor with a finite gap everywhere on the Fermi surface.
+
+The exponent we obtain from the power law fit is a=1.4. In an s-wave superconductor, the thermal conductivity at sufficiently low T/T_{\rm c} is expected to be entirely due to phonons. With the relation
+
+\[\kappa_{\rm p}=\frac{1}{3}C_{\rm p}v_{\rm p}l_{\rm p},\] (4)
+
+one can estimate the phonon contribution \kappa_{\rm p} from the specific heat C_{\rm p} and the mean free path l_{\rm p}. C_{\rm p}=\beta T^{3} is the phonon specific heat from a Debye model determined above. The sound velocity v_{\rm p} can be calculated from C_{\rm p} using the two equations
+
+\[\beta T^{3}=\frac{12\pi^{4}}{5}Nk_{B}\frac{T^{3}}{\Theta^{3}}\quad\mbox{and} \quad v_{\rm p}=\frac{k_{B}\Theta}{\hbar}\left(\frac{V}{6\pi^{2}N}\right)^{1/3},\] (5)
+
+where \Theta is the Debye temperature, V=7.25\times 10^{-9} m^{3} is the volume of sample no. 2, and N=17mN_{\rm A}/M=3.84\times 10^{20} is the number of atoms in the crystal. This leads to \Theta=208 K and v_{\rm p}=1860 m/s. However, the experimental specific-heat data on LaPt_{4}Ge_{12} follow only approximately a T^{3} dependence, but can be better described by a T^{2.5} law below 4 K [see inset of Fig. 1(a)]. Interestingly, the thermal conductivity follows a T^{2.4} dependence at low T, which is close to the experimentally determined T dependence of C_{\rm p}. The almost identical exponents hint at a scenario, where phonons scattered on boundaries are the main contribution to \kappa at low T. A fit of the thermal conductivity with an adjusted power law C_{\rm p}=\beta^{\prime}T^{2.5}, with the velocity v_{\rm p} calculated above, and l_{\rm p} as free parameter is shown in Fig. 3(b). It leads to a mean free path of l_{\rm p}=0.055 mm, which is a reasonable value considering the shortest of the sample dimensions (0.04\times0.50\times 1.92) mm^{3}. This nice agreement suggests first boundary scattering as the main contribution to l_{\rm p} and a negligible contribution of specular reflections, which would lead to a considerably larger l_{\rm p}. Secondly, it points towards a negligible electronic contribution to \kappa at low T and thus to a finite gap at every k point of the Fermi surface.
+
+With the results from the low-temperature thermal conductivity, we can also understand the behavior in the whole temperature range [Fig. 3(a)]. At T_{\rm c}, a clear drop is visible followed by a hump at slightly lower T. In general, the thermal conductivity both in the normal state, \kappa^{\rm n}, and in the superconducting state, \kappa^{\rm s}, consists of a phonon and an electron contribution
+
+\[\kappa^{\rm n}=\kappa^{\rm n}_{\rm e}+\kappa^{\rm n}_{\rm p},\] (6)
+
+\[\kappa^{\rm s}=\kappa^{\rm s}_{\rm e}+\kappa^{\rm s}_{\rm p}.\] (7)
+
+Assuming an s-wave superconductor, the drop can be attributed to the decreasing number of electronic heat carriers; hence \kappa^{\rm s}_{\rm e} decreases rapidly. The hump indicates an enhanced mean free path of phonons due to the decreasing number of
+
+Figure 3: Temperature dependence of the thermal conductivity at H=0. (a) In the double-logarithmic representation up to 100 K, a clear but smooth drop of \kappa(T) at T_{\rm c} is visible. A hump appears at lower T. Inset: \kappa(T) on a linear scale. For an s-wave superconductor, one expects a rapidly decreasing \kappa_{\rm e} (e) below T_{\rm c}, while \kappa_{\rm p} (p) increases forming a hump. The sketched T dependencies for \kappa_{\rm e} and \kappa_{\rm p} are inspired by the theory of Bardeen, Rickayzen, and Tewordt (BRT) for s-wave superconductors. The dashed lines are guides to the eye. (b) The low-temperature thermal conductivity can be fitted with a power law \kappa(T)/T\propto T^{1.4} (solid yellow) leading to a residual term of \kappa(T)/T(T\to 0)=0.01 W K^{-2} m^{-1}. A second fit (dashed red) with Eq. (4) using the experimental specific-heat results indicates a dominant phonon contribution scattered by sample boundaries.
+
+  electronic scattering centers; therefore, \kappa_{\rm p}^{\rm s} increases below T_{\rm c}. Bardeen, Rickayzen, and Tewordt (BRT) developed a standard theory for thermal conductivity in the case of an s-wave superconductor [43]. In the spirit of the BRT theory, we sketched the temperature dependence for both \kappa_{\rm p} and \kappa_{\rm e} in the inset of Fig. 3(a), which can qualitatively explain our observed temperature dependence of the thermal conductivity.
+
+### H dependence of the thermal conductivity
+
+We now turn to the field dependence of \kappa(H)/T for LaPt_{4}Ge_{12}, which is presented in Fig. 4(a) for selected temperatures between 290 mK and 650 mK together with a zero-temperature extrapolation. The measurements were performed on increasing field. A comparison with measurements during decreasing field showed no hysteresis. The field dependence is consistent with temperature-dependent measurements at finite fields, which were performed on warming and which do not show any difference between field and zero-field cooling.
+
+A clear kink is visible at \mu_{0}H_{c2}=1.4 T. This is slightly lower than 1.6 T from the extrapolation of the specific-heat data on polycrystals obtained at T\geqslant 1.8 K [8] and from resistivity data down to 0.3 K [21]. The latter observation is in agreement with resistivity measurements on our samples (not shown), which show a slightly higher H_{c2} than from thermal transport and specific heat (Fig. 2). This deviation is most likely due to surface effects. Below H_{c2}, the thermal conductivity shows an almost linear field dependence in the zero-temperature limit. For finite temperatures, a minimum appears at low fields. It shifts to higher fields and becomes more pronounced as the temperature is increased.
+
+Generally, \kappa(H) is almost constant below H_{\rm c1}[47, 36, 49], a regime which we will not consider here since \mu_{0}H_{c1}\simeq 14 mT obtained from magnetization measurements is very small in LaPt_{4}Ge_{12}.
+
+However, there are drastic changes above H_{\rm c1} due to the properties of the vortex state: in addition to the delocalized quasiparticles due to thermal excitations above the gap, there are quasiparticles from the core region, which lead to an increase of \kappa_{\rm e}^{\rm s}[47, 50, 51, 52]. Around the vortex core, a supercurrent flows, which decays over a distance roughly equal to the penetration depth \lambda. The supercurrent with the velocity \bm{v}_{\rm S} leads to a Doppler shift of the energy of delocalized quasiparticles \epsilon(\bm{k})\rightarrow\epsilon(\bm{k})-\hbar\bm{k}\cdot\bm{v}_{\rm S}(H)[28, 53]. This changes the excitation spectrum, increases the density of states, and effectively lowers the gap \Delta for \bm{k} directions with a component parallel to \bm{v}_{\rm S}. This effect also increases \kappa_{\rm e}^{\rm s}[28, 54, 55] and becomes important especially for superconductors with nodes in the gap. Scattering of electrons and phonons on the vortex lattice decreases \kappa_{\rm e}^{\rm s} and \kappa_{\rm p}^{\rm s}[47, 50, 54].
+
+The sum of all these effects leads to pronounced and typical differences in \kappa(H) for materials with different gap structures. They are all anisotropic with respect to the angle between current and field and also with respect to the angle between field and wave vector [47, 54, 56, 57]. In the following we restrict the discussion to our case of a field perpendicular to the current. The field dependence of \kappa(H) can be affected by the quality of the sample as exemplified in Fig. 4(b) for the case of an s-wave superconductor [47, 48, 50, 57].
+
+In Fig. 4(b), we compare our data with results on different materials. The materials chosen for this comparison show a field dependence of the thermal conductivity typical for their superconducting gap symmetry. The key signatures found in LaPt_{4}Ge_{12} are the finite slope close to H_{\rm c2}, no residual term \kappa_{0}/\kappa_{n} at zero field, and a minimum at intermediate fields, which is absent for T\to 0 but increases in amplitude with increasing T. The curve for LaPt_{4}Ge_{12} compares best with that of InBi, which is a representative example for dirty s-wave superconductors [47, 48, 49, 58, 59]. The most important difference to the clean s-wave case is the infinite slope at H_{\rm c2} found in the latter one. We also added data for a second dirty superconductor at higher relative temperature to illustrate the appearance of a minimum at intermediate fields very similar to our observation in LaPt_{4}Ge_{12}.
+
+The good agreement of \kappa(H) in LaPt_{4}Ge_{12} with that of a dirty s-wave superconductor fits to the specific heat results
+
+Figure 4: Magnetic-field dependence of the thermal conductivity. (a) Dots represent field sweeps after zero-field cooling. Open squares are extracted from temperature sweeps after field cooling; filled squares are their zero-temperature extrapolations. The line is a guide to the eye. \kappa(H)/T is almost linear and develops a minimum at low fields which becomes more pronounced with higher temperature. The shaded areas illustrate qualitatively how the electronic and the phonon contribution change with field [44, 45]. (b) We compare the field-dependent thermal conductivity data for T\to 0 with the following materials representing different gap symmetries. d-wave no. 1: Tl_{2}Ba_{2}CuO_{6+\delta} (T/T_{\rm c}\to 0) [42]; d-wave no. 2: CeIrIrIn_{5} (T/T_{\rm c}\to 0) [41]; multiband: MgB_{2} (T/T_{\rm c}=0.02) [46]; clean s-wave: Nb (T/T_{\rm c}=0.22) [47]; dirty s-wave low T: InBi (T/T_{\rm c}=0.10) [48]; dirty s-wave high T: Ta_{08}Nb_{20} (T/T_{\rm c}=0.35) [47]. Note the different scaling of the field axis to account for the different H_{\rm c1} and H_{\rm c2}.
+
+  and the temperature dependence of the thermal conductivity. We find, in addition, that our sample is actually in the dirty limit, since the Ginzburg-Landau coherence length \xi=20 nm is of the same order as the superconducting mean free path l=60 nm. Here, we used the upper critical field to determine \xi with \mu_{0}H_{\mathrm{c2}}=\Phi_{0}/2\pi\,\xi^{2}=1.4 T. To calculate l, we applied l=[\frac{\xi^{-\frac{1}{2}-1.6\times 10^{12}\mu_{0}\gamma_{2}T_{\mathrm{c}}}}{1.8 \times 10^{12}(\mu_{0}\gamma_{2}T_{\mathrm{c}})^{2}}]^{0.5} cm, [60] where we use the electronic specific heat coefficient \gamma_{\mathrm{n}}=1600 in the unit \mathrm{erg\,K^{-2}/cm^{-3}}, the residual resistivity \rho_{0}=4\times 10^{-6} in the unit \Omega cm (from crystal no. 3, not shown), T_{\mathrm{c}}=8 in the unit K, and the aforementioned coherence length \xi=2\times 10^{-6} in the unit cm.
+
+The good agreement with results for a dirty s-wave superconductor implies that the field dependence of the thermal conductivity is composed of a phonon part \kappa_{\mathrm{p}}^{\mathrm{s}}, which decreases with increasing field due to scattering on vortices, and an electronic contribution, which increases due to an enhanced number of localized states in the vortex cores tunneling to ever closer neighboring vortices. This behavior is indicated in Fig. 4(a).
+
+Since our specific-heat results indicate that a description within a two-band model is also consistent with the data, we like to analyze our thermal-transport data with respect to this scenario as well. A typical feature of \kappa(H) in multiband systems is a plateau at intermediate fields as shown in Fig. 4(b) for MgB_{2}, which is attributed to the suppression of the smaller of the two gaps. We do not observe such change of curvature in LaPt_{4}Ge_{12}. However, this change might be very weak as, e.g., in the case of NbSe_{2}[36].
+
+Let us now compare our thermal conductivity results with observations and predictions for the case of nodes in the superconducting gap. There are both theoretical [54, 55] and experimental [61, 62, 63] reports on a minimum in \kappa\,(H) for unconventional superconductors. The slope above the minimum can vary considerably depending on the type of gap and the purity of the sample [54, 55, 64] [cf. Fig. 4(b)]. Such a minimum is consistent with our observation. Hence this property does not rule out nodes in the gap of LaPt_{4}Ge_{12} completely. However, one would expect a sizable residual term for T\to 0 in a nodal superconductor. In contrast, both single-band and multiband s-wave superconductors show an insignificantly small residual term exactly as our results on LaPt_{4}Ge_{12}.
+
+## IV Conclusion
+
+We performed specific-heat and thermal-conductivity measurements to investigate the superconducting order parameter of LaPt_{4}Ge_{12}. The specific heat shows a sharp superconducting transition at 8.0 K and its zero-field temperature dependence in the superconducting state can nicely be described assuming a single BCS s-wave gap of the size \Delta=2.0\,k_{\mathrm{B}}T_{\mathrm{c}}. The field dependence of the \gamma_{0} coefficient deviates from the simple linear behavior for s-wave pairing. Such a deviation can arise if the Fermi surface shows strong anisotropies as is the case for LaPt_{4}Ge_{12}. We used the specific-heat results to analyze the low-temperature thermal transport in detail. The temperature dependence of the thermal conductivity reveals a dominant phonon contribution at low temperatures and a negligible electronic residual term. Together with the dependence of the thermal conductivity on magnetic field, this behavior suggests a single gap BCS s-wave superconductor.
+
+However, we cannot completely exclude a two-band scenario from our experimental results, in particular if both gaps have a similar size \Delta\,/\,k_{\mathrm{B}}T_{\mathrm{c}} or if one of them has only a tiny contribution to the thermal transport and thermodynamic properties. The analysis of the specific heat data enables us to limit the possible range of amplitudes \Delta_{1} and \Delta_{2} and weighting factors x within the two-gap \alpha model. The possible parameter range is comparatively large, since a single-band model is already sufficient to describe our experimental results.
+
+Since the sister compound PrPt_{4}Ge_{12} is discussed to be a multigap and/or unconventional superconductor, further thermal conductivity and specific heat measurements on the substitution series (Pr_{1-x}La_{x})Pt_{4}Ge_{12} are highly desired. They might help to resolve the question if PrPt_{4}Ge_{12} and LaPt_{4}Ge_{12} have compatible superconducting order parameters, as was suggested by the smooth evolution of T_{c}(x) across the substitution series.
+
+## Acknowledgment
+
+We are indebted to R. Daou and H. Rosner for valuable discussions.
+
+## References
+
+* (1) B. White, J. Thompson, and M. Maple, Physica C **514**, 246 (2015).
+* (2) F. Steglich, J. Aarts, C. D. Bredl, W. Lieke, D. Meschede, W. Franz, and H. Schafer, Phys. Rev. Lett. **43**, 1892 (1979).
+* (3) J. G. Bednorz and K. A. Muller, Z. Phys. B **64**, 189 (1986).
+* (4) D. Jerome, A. Mazaud, M. Ribault, and K. Bechgaard, J. Phys. Lett. **41**, 95 (1980).
+* (5) E. D. Bauer, N. A. Frederick, P.-C. Ho, V. S. Zapf, and M. B. Maple, Phys. Rev. B **65**, 100506 (2002).
+* (6) Y. Aoki, H. Sugawara, H. Hisatomo, and H. Sato, J. Phys. Soc. Jpn. **74**, 209 (2005).
+* (7) E. Bauer, A. Grytsiv, X.-Q. Chen, N. Melnychenko-Koblyuk, G. Hilscher, H. Kaldarar, H. Michor, E. Royanian, G. Giester, M. Rotter _et al._, Phys. Rev. Lett. **99**, 217001 (2007).
+* (8) R. Gumeniuk, W. Schnelle, H. Rosner, M. Nicklas, A. Leithe-Jasper, and Y. Grin, Phys. Rev. Lett. **100**, 017002 (2008).
+* (9) E. Bauer, X.-Q. Chen, P. Rogl, G. Hilscher, H. Michor, E. Royanian, R. Podloucky, G. Giester, O. Sologub, and A. P. Goncalves, Phys. Rev. B **78**, 064516 (2008).
+* (10) D. Kaczorowski and V. H. Tran, Phys. Rev. B **77**, 180504 (2008).
+* (11) I. Jeon, K. Huang, D. Yazici, N. Kanchanavatee, B. D. White, P.-C. Ho, S. Jang, N. Pouse, and M. B. Maple, Phys. Rev. B **93**, 104507 (2016).
+* (12) F. Kanetake, H. Mukuda, Y. Kitaoka, K. ichi Magishi, H. Sugawara, K. M. Itoh, and E. E. Haller, J. Phys. Soc. Jpn. **79**, 063702 (2010).
+* (13) J. L. Zhang, Y. Chen, L. Jiao, R. Gumeniuk, M. Nicklas, Y. H. Chen, L. Yang, B. H. Fu, W. Schnelle, H. Rosner _et al._, Phys. Rev. B **87**, 064502 (2013).
+
+  * [14] A. Maisuradze, W. Schnelle, R. Khasanov, R. Gumeniuk, M. Nicklas, H. Rosner, A. Leithe-Jasper, Y. Grin, A. Amato, and P. Thalmeier, Phys. Rev. B **82**, 024524 (2010).
+* [15] J. Zhang, D. E. MacLaughlin, A. D. Hillier, Z. F. Ding, K. Huang, M. B. Maple, and L. Shu, Phys. Rev. B **91**, 104523 (2015).
+* [16] Y. Nakamura, H. Okazaki, R. Yoshida, T. Wakita, H. Takeya, K. Hirata, M. Hirai, Y. Muraoka, and T. Yokoya, Phys. Rev. B **86**, 014521 (2012).
+* [17] L. S. S. Chandra, M. K. Chattopadhyay, and S. B. Roy, Supercond. Sci. Technol. **25**, 105009 (2012).
+* [18] K. Huang, L. Shu, I. K. Lum, B. D. White, M. Janoschek, D. Yazici, J. J. Hamlin, D. A. Zocco, P.-C. Ho, R. E. Baumbach _et al._, Phys. Rev. B **89**, 035145 (2014).
+* [19] Y. P. Singh, R. B. Adhikari, S. Zhang, K. Huang, D. Yazici, I. Jeon, M. B. Maple, M. Dzero, and C. C. Almasan, arXiv:1607.03563.
+* [20] M. Toda, H. Sugawara, K. ichi Magishi, T. Saito, K. Koyama, Y. Aoki, and H. Sato, J. Phys. Soc. Jpn. **77**, 124702 (2008).
+* [21] J. L. Zhang, G. M. Pang, L. Jiao, M. Nicklas, Y. Chen, Z. F. Weng, M. Smidman, W. Schnelle, A. Leithe-Jasper, A. Maisuradze _et al._, Phys. Rev. B **92**, 220503 (2015).
+* [22] R. Gumeniuk, H. Borrmann, A. Ormeci, H. Rosner, W. Schnelle, M. Nicklas, Y. Grin, and A. Leithe-Jasper, Z. Kristallogr. **225**, 531 (2010).
+* [23] J. L. Feldman, D. J. Singh, I. I. Mazin, D. Mandrus, and B. C. Sales, Phys. Rev. B **61**, R9209 (2000).
+* [24] G. Seyfarth, J. P. Brison, M.-A. Measson, D. Braithwaite, G. Lapertot, and J. Flouquet, Phys. Rev. Lett. **97**, 236403 (2006).
+* [25] R. W. Hill, S. Li, M. B. Maple, and L. Taillefer, Phys. Rev. Lett. **101**, 237005 (2008).
+* [26] L. Bochenek, R. Wawryk, Z. Henkie, and T. Cichorek, Phys. Rev. B **86**, 060511 (2012).
+* [27] F. Bouquet, Y. Wang, R. A. Fisher, D. G. Hinks, J. D. Jorgensen, A. Junod, and N. E. Phillips, Europhys. Lett. **56**, 856 (2001).
+* [28] G. E. Volovik, JETP Lett. **58**, 469 (1993).
+* [29] A. L. Fetter and P. Hohenberg, in _Superconductivity_ (Marcel Dekker, Inc., New York, 1969), Vol. 2, pp. 817-923.
+* [30] M. Ichioka, A. Hasegawa, and K. Machida, Phys. Rev. B **59**, 184 (1999).
+* [31] J. E. Sonier, M. F. Hundley, J. D. Thompson, and J. W. Brill, Phys. Rev. Lett. **82**, 4914 (1999).
+* [32] M. Nohara, M. Isshiki, F. Sakai, and H. Takagi, J. Phys. Soc. Jpn. **68**, 1078 (1999).
+* [33] M. Hedo, Y. Inada, E. Yamamoto, Y. Haga, Y. Onuki, Y. Aoki, T. D. Matsuda, H. Sato, and S. Takahashi, J. Phys. Soc. Jpn. **67**, 272 (1998).
+* [34] A. Ramirez, Phys. Lett. A **211**, 59 (1996).
+* [35] M. Nohara, M. Isshiki, H. Takagi, and R. J. Cava, J. Phys. Soc. Jpn. **66**, 1888 (1997).
+* [36] E. Boaknin, M. A. Tanatar, J. Paglione, D. Hawthorn, F. Ronning, R. W. Hill, M. Sutherland, L. Taillefer, J. Sonier, S. M. Hayden _et al._, Phys. Rev. Lett. **90**, 117003 (2003).
+* [37] H. Rosner (private communication).
+* [38] V. Metlushko, U. Welp, A. Koshelev, I. Aranson, G. W. Crabtree, and P. C. Canfield, Phys. Rev. Lett. **79**, 1738 (1997).
+* [39] M. J. Graf, S.-K. Yip, J. A. Sauls, and D. Rainer, Phys. Rev. B **53**, 15147 (1996).
+* [40] A. C. Durst and P. A. Lee, Phys. Rev. B **62**, 1270 (2000).
+* [41] H. Shakeripour, C. Petrovic, and L. Taillefer, New J. Phys. **11**, 055065 (2009).
+* [42] C. Proust, E. Boaknin, R. W. Hill, L. Taillefer, and A. P. Mackenzie, Phys. Rev. Lett. **89**, 147003 (2002).
+* [43] J. Bardeen, G. Rickayzen, and L. Tewordt, Phys. Rev. **113**, 982 (1959).
+* [44] L. Dubeck, P. Lindenfeld, E. A. Lynton, and H. Rohrer, Phys. Rev. Lett. **10**, 98 (1963).
+* [45] W. Pesch, R. Watts-Tobin, and L. Kramer, Z. Phys. **269**, 253 (1974).
+* [46] A. V. Sologubenko, J. Jun, S. M. Kazakov, J. Karpinski, and H. R. Ott, Phys. Rev. B **66**, 014504 (2002).
+* [47] J. Lowell and J. Sousa, J. Low Temp. Phys. **3**, 65 (1970).
+* [48] J. O. Willis and D. M. Ginsberg, Phys. Rev. B **14**, 1916 (1976).
+* [49] A. K. Gupta and S. Wolf, Phys. Rev. B **6**, 2595 (1972).
+* [50] C. Caroli and M. Cyrot, Phys. Kondens. Materie **4**, 285 (1965).
+* [51] E. Schmidbauer, H. Wenzl, and E. Umlauf, Z. Phys. **240**, 30 (1970).
+* [52] A. A. Golubov and A. E. Koshelev, Phys. Rev. B **83**, 094521 (2011).
+* [53] M. Cyrot, Phys. Kondens. Materie **3**, 374 (1965).
+* [54] C. Kubert and P. J. Hirschfeld, Phys. Rev. Lett. **80**, 4963 (1998).
+* [55] I. Vekhter and A. Houghton, Phys. Rev. Lett. **83**, 4626 (1999).
+* [56] U. Brandt, W. Pesch, and L. Tewordt, Z. Phys. **201**, 209 (1967).
+* [57] K. Maki, Phys. Rev. **158**, 397 (1967).
+* [58] Y. Muto, K. Noto, T. Mamiya, and T. Fukuroi, J. Phys. Soc. Jpn. **24**, 992 (1968).
+* [59] L. Dubeck, P. Lindenfeld, E. A. Lynton, and H. Rohrer, Rev. Mod. Phys. **36**, 110 (1964).
+* [60] T. P. Orlando, E. J. McNiff, S. Foner, and M. R. Beasley, Phys. Rev. B **19**, 4545 (1979).
+* [61] T. Watanabe, K. Izawa, Y. Kasahara, Y. Haga, Y. Onuki, P. Thalmeier, K. Maki, and Y. Matsuda, Phys. Rev. B **70**, 184502 (2004).
+* [62] Y. Machida, A. Itoh, Y. So, K. Izawa, Y. Haga, E. Yamamoto, N. Kimura, Y. Onuki, Y. Tsutsumi, and K. Machida, Phys. Rev. Lett. **108**, 157002 (2012).
+* [63] K. Izawa, H. Takahashi, H. Yamaguchi, Y. Matsuda, M. Suzuki, T. Sasaki, T. Fukase, Y. Yoshida, R. Settai, and Y. Onuki, Phys. Rev. Lett. **86**, 2653 (2001).
+* [64] H. Won and K. Maki, Curr. Appl. Phys. **1**, 291 (2001).
+
+ 

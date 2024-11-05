@@ -1,0 +1,333 @@
+Experimental determination of superconducting parameters for the intermetallic perovskite superconductor MgCNi3
+
+Z. Q. Mao, M. M. Rosario, K. D. Nelson, K. Wu, I. G. Deac, P. Schiffer, and Y. Liu
+
+Department of Physics, The Pennsylvania State University, University Park, Pennsylvania 16802
+
+T. He, K. A. Regan, and R. J. Cava
+
+Department of Chemistry and Princeton Materials Institute, Princeton University, Princeton, New Jersey 08540
+
+Received 8 February 2002; published 13 March 2003
+
+###### Abstract
+
+We have measured upper-critical-field _H_c2, specific heat C, and tunneling spectra of the intermetallic perovskite superconductor MgCNi3 with a superconducting transition temperature _T_c ~ 7.6 K. Based on these measurements and relevant theoretical relations, we have evaluated various superconducting parameters for this material, including the thermodynamic critical field _H_c(0), coherence length \xi(0), penetration depth \lambda(0), lower-critical-field _H_c1(0), and Ginzburg-Landau parameter \kappa(0). From the specific heat, we obtain the Debye temperature \Theta_{\text{D}}^{\infty}284 K. We find a jump of \Delta_C_/_g_T_c = 2.1 at _T_c (where g is the normal-state electronic specific coefficient), which is larger than the weak-coupling BCS value of 1.43, suggesting that MgCNi3 may be a strong-coupling superconductor. In addition, we observed a pronounced zero-bias conductance peak (ZBCP) in the tunneling spectra. We discuss the possible physical origins of the observed ZBCP.
+
+pacs: 0163-1829/2003/67/094502 +
+Footnote †: preprint: PHYSICAL REVIEW B **67**, 094502 (2003)
+
+## I Introduction
+
+Following the remarkable discovery of superconductivity at 39 K in MgB2,1 intermetallic compounds have received renewed interest in the search for new superconducting materials. A new intermetallic superconductor MgCNi3 with the superconducting transition temperature _T_c ~ 7.6 K was found recently by He _et al._[2] This compound has a cubic perovskite crystal structure, with Ni, C, and Mg replacing O, Ti, and Sr, for example, in the more familiar oxide perovskite SrTiO3. It is a unique material that bridges the intermetallic compound MgB2 and perovskite oxide superconductors.
+
+The electronic structure of MgCNi3, calculated by several groups with different methods,[3; 4; 5; 6; 7] indicated that the electronic states of MgCNi3 at the Fermi energy _F_F are dominated by the 3d orbitals of Ni. The derived density of states has a sharp peak just below _E_F, which leads to a moderate Stoner enhancement. This signals the presence of substantial ferromagnetic (FM) spin fluctuations in MgCNi3,[6; 7] as confirmed by 13C NMR measurements.[8] The presence of such FM fluctuations may favor unconventional pairing as in Sr2RuO4.[7; 9] However, the nuclear spin-lattice relaxation rate 1/_T_1 obtained in NMR measurements[8] exhibited a clear coherence peak just below _T_c, typical for an isotropic _s_-wave superconductor.
+
+We measured the temperature dependence of resistivity in various magnetic field, and obtained the upper-critical-field _H_c2(_T_) for this material. We also carried out the specific-heat measurements over a wider temperature region of 20-0.4 K on a high-quality MgCNi3 sample. The value of _T_c for this sample is 7.63 K as opposed to 6.2 K for the sample used in the previous measurements.[2] From these measurements, we estimated various superconducting parameters of MgCNi3, including the thermodynamic critical field _H_c(0), coherence length \xi(0), penetration depth \lambda(0), lower-critical-field _H_c1(0), and Ginzburg-Landau (GL) parameter \kappa(0).
+
+The superconducting energy gap (\Delta) of MgCNi3 has been estimated from NMR measurements,[8] yielding a value of 2\Delta_I_/_k_B_T_c ~ 3.2 where _T_c is the superconducting transition temperature. This value is less than the weak-coupling value of 3.53. However, our specific heat measurements revealed a jump of \Delta_C_/_g_T_c = 2.1 (1.9 in Ref. 2) at the _T_c of 7.63 K, considerably larger than the weak-coupling value 1.43, which is inconsistent with the NMR result.
+
+To determine the superconducting gap directly, as well as to obtain information on the pairing symmetry of this superconductor with apparently large ferromagnetic fluctuation similar to Sr2RuO4, we have carried out tunneling spectroscopy measurements on high-quality polycrystalline MgCNi3 samples. From these measurements, we found a characteristic energy scale associated with a sharp decreasing of the tunneling conductance. If this energy scale is the superconducting energy gap, then this result can be taken as further support of strong-coupling superconductivity of MgCNi3. In addition, we observed a pronounced zero-bias conductance peak (ZBCP) in tunneling spectra. We discuss its possible physical origins.
+
+## II Experiment
+
+The polycrystalline material used for this study was synthesized by solid-state reaction. The preparation details can be found in Ref. 2. We determined _H_c2(_T_) from four-probe resistance measurements. Specific-heat measurements were performed using a relaxation method in a commercial calorimeter in a quantum design physical property measurement system.
+
+We prepared mechanical junctions for tunneling spectrum measurements. They were made on polycrystalline samples using a sharp W tip with an end radius of about 15 _m_m. The sample and the W tip were held together by an insulated Cu frame, with the tip touching the sample gently. The sample surface was examined by scanning electron microscopy. The  average grain size on the surface was found to be about 5 \mum. As a result, the mechanical tunnel junction involved only a few MgCNi_{3} grains.
+
+Current-voltage (I-V) characteristics, as well as junction resistance, was measured by a four-point method in a 1 K pot dip probe and a ^{3}He cryostat. To reduce heating, the I-V curves were measured by a dc pulsed-current method with a typical pulse duration of 50 ms followed by a 2 s delay between successive pulses. The tunneling conductance dI/dV was computed numerically from the measured I-V curves.
+
+## III Results and discussions
+
+### Electrical transport
+
+Figure 1 shows the H-T phase diagram, obtained from the R vs T curves at different fields. Here T_{\rm c} is defined as the intersection of the linear extrapolation of the most rapidly changing part of R(T) and that of the normal-state resistance, as shown in the inset of Fig. 1. Within the weak-coupling BCS theory, H_{\rm c2}(T\!=\!0) can be estimated using the Werthamer-Helfand-Hohenberg (WHH) formula,[10]
+
+\[\mu_{0}H_{\rm c2}(0)\!=\!-0.693(dH_{\rm c2}/dT)_{T-T_{\rm c}}T_{\rm c}\,,\] (1)
+
+which leads to a \mu_{0}H_{\rm c2}(0) value of 14.8 T. Meanwhile the Pauli-limiting field
+
+\[\mu_{0}H^{\rm Pauli}\!=\!1.24k_{\rm B}T_{\rm c}/\mu_{\rm B}\] (2)
+
+expected within the same weak-coupling BCS theory[11] is about 14 T for T_{\rm c}\!=\!7.60 K. The \mu_{0}H^{\rm Pauli} is about 0.8 T less than the \mu_{0}H_{\rm c2}(0)^{\rm WHH}, suggesting that pair-breaking effects due to the Zeeman energy in MgCNi_{3} is small. From our experimental results of specific heat and tunneling spectra, to be presented below, MgCNi_{3} appears to be a strong-coupling superconductor. Taking into account the effects of strong coupling, a reasonable extrapolation of H_{\rm c2}(0) should lie between \mu_{0}H^{\rm Pauli} and \mu_{0}H_{\rm c2}(0)^{\rm WHH}, around 14.4 T, based on which the superconducting coherence length \xi(0) can be estimated to be approximately 46 A, using the Ginzberg-Landau formula for an isotropic three-dimensional superconductor, \mu_{0}H_{\rm c2}(0)\!=\!\phi_{0}/2\,\pi\,\xi(0)^{2}. This value is in good agreement with a earlier report of \xi(0)\!=\!47 A.[12] The \xi(0) estimated from H_{\rm c2}(0) is actually the GL coherence length \xi_{\rm GL}(0), which is comparable to Pippard coherence length \xi_{\rm p}. Both \xi_{\rm GL}(0) and \xi_{\rm p} depend on the mean-free-path l of electrons. The intrinsic coherence length \xi_{0} can be estimated by
+
+\[\xi_{0}\!=\!\alpha\hbar\,V_{\rm F}/k_{\rm B}T_{\rm c}\,,\] (3)
+
+where \alpha\!=\!0.18, \hbar\!=\!h/2\pi as h is the plank constant, and V_{\rm F} is the Fermi velocity. For MgCNi_{3}, band-structure calculation has given V_{\rm F}\!=\!2.0\!\times\!10^{5} m/s,[4] thus yielding \xi_{0}\!=\!360 A, much greater than \xi_{\rm GL}(0). This difference suggests that MgCNi_{3} is an impure superconductor in which \xi_{\rm p} and \xi_{0} are related by
+
+\[\xi_{\rm p}\!\approx\!(\xi_{0}l)^{1/2}.\] (4)
+
+From Eq. (4) (Ref. [13]), l is estimated to be 6 A, comparable to the value of l(\!\approx\!10 A) estimated from
+
+\[l\!=\!2\,m\,V_{\rm F}/(ne^{2}\rho_{0})\,,\] (5)
+
+for the sample used in Ref. [12] where carrier density n and residual resistivity \rho_{0} were measured on the identical sample. Since the estimated l is very short, MgCNi_{3} is probably a bad metal, like SrRuO_{3}[14]
+
+### Specific heat
+
+We measured the specific heat of MgCNi_{3} from 20 K down to 0.4 K. As shown in the inset of Fig. 2, the specific-heat data in the temperature region of T_{\rm c}^{\rm onset} (\approx\!9.4 K) <T<16 K, was fitted well with the form C(T)\!=\!\gamma T\!+\!\beta T^{5}+\!\delta T^{5}, which is the usual temperature dependence of specific heat for metals at T\!\!\approx\!\Theta_{\rm D}. The \Theta_{\rm D} can be determined from the coefficient of the T^{3} term \beta\!=\!N(12/5)\,\pi^{4}R\,\Theta_{D}^{-3}, where R\!=\!8.314 J/mol K, and N\!=\!5 for MgCNi_{3}. The linear term of C(T) is due to the electronic contribution, while the T^{3} and T^{5} terms come from the phonon contribution. From the above fitting, we obtained \gamma\!=\!30.1 mJ/mol K^{2} and \Theta_{D}\approx\!284 K.
+
+By subtracting the phonon contribution from the C(T), we obtained the temperature dependence of electronic specific heat C_{\rm c}(T). The main panel of Fig. 2 shows C_{\rm c}/T as a function of T. It reveals a much sharper superconducting transition than seen in the specific-heat data in Ref. [2]. From an entropy-conserving construction (see the solid lines in the figure), the midpoint transition temperature T_{c}^{\rm mid} was estimated to be 7.63 K, and the specific-heat jump \Delta\,C/T_{c}^{\rm mid}=\!63.3 mJ/mol K^{2}. This value is larger than that reported in Ref. [2] where \Delta\,C/T_{c}^{\rm mid}\!=\!57.0 mJ/mol K^{2} with T_{\rm c}^{\rm mid}\!=\!6.2 K,
+
+Figure 1: Upper-critical-field \mu_{0}H_{\rm c2} as a function of temperature for MgCNi_{3}. The square symbol is \mu_{0}H_{\rm c2}(0) estimated using WHH theory and the triangle is the estimated Pauli-limiting field (see text). The inset shows the temperature dependence of sample resistance in zero field.
+
+  indicating that the sample used in the present study is of improved quality. On the other hand, we note that the C_{\rm e}/T shows an unusual behavior at low temperature, i.e., an upturn for T<2 K. This upturn may be due to the magnetic Schottky contribution and/or the paramagnetism of unreacted Ni impurities. Similar behavior was observed in MgB_{2} where Fe impurities led an upturn in C/T at low temperature.[15]
+
+It is known that the parameter \Delta C(T_{\rm c})/\gamma T_{\rm c} can be used to measure the strength of the electron coupling.[16] In the BCS weak-coupling limit, its value is 1.43. For MgCNi_{3}, the ratio of \Delta C(T_{\rm c})/\gamma T_{\rm c} estimated from the above data is approximately 2.1 (1.9 in Ref. [2]), larger than the weak-coupling value. This suggests that MgCNi_{3} may be a strong-coupling superconductor. We noted that this value is close to that of Hg with \Delta C(T_{\rm c})/\gamma T_{\rm c}= 2.37. Nevertheless, we would like to point out that the coupling strength of MgCNi_{3} might not be as strong as Hg or Pb. This is because Debye temperature \Theta_{D} is much higher in MgCNi_{3}(\Theta_{D}\approx284 K) than in Hg or Pb (\Theta_{D}\approx100 K). If they have comparable coupling strength, the expected T_{c} for MgCNi_{3} from McMillan T_{c} equation[17] is over 20 K even we assume a strong Coulomb repulsion with \mu* = 0.15. This expected T_{\rm c} is clearly much higher than the observed T_{\rm c} (= 7.63 K). Further studies on single crystal (unavailable so far) seem necessary to resolve this inconsistency.
+
+Based on the specific-heat data and H_{\rm c2}(0) obtained above, we can estimate various superconducting parameters using theoretical relations for an isotropic three-dimensional superconductor. H_{\rm c}(0) can be estimated by integrating the specific-heat data of Fig. 2 in the superconducting state and using the relation
+
+\[\mu_{0}H_{\rm c}(0)^{2}/2=-\gamma T_{\rm c}^{2}/2+\int_{0}^{T_{\rm c}}C_{\rm e}(T)dT.
+
+However, the original data of C_{\rm e} contains magnetic contributions, leading to the upturn in C_{\rm e}/T and an imbalance of entropy S between superconducting and normal states at T_{\rm c}. To remove this magnetic contribution, we attempted a BCS extrapolation in C_{\rm e} using C_{\rm e}=a\,\gamma T_{\rm c}exp[-\Delta(0)/k_{\rm B}T]. The entropy balance requirement, S_{\rm n}(T_{\rm c})=S_{\rm s}(T_{\rm c}), is used to determine the values of a and \Delta(0). We found that a= 27.5 and \Delta(0)/k_{\rm B}T_{\rm c}= 2.2 with this procedure (see the dotted line of Fig. 2). The start temperature for extrapolation is about 6.2 K. In principle, the BCS exponential extrapolation is valid only at low temperatures (say T<0.1T_{\rm c}). Nevertheless, we note that even in intermediate temperature region the specific heat does not deviate very much from the exponential behavior in the BCS picture.[16] As a result, the extrapolation made in Fig. 2 may still be used to estimate the entropy of superconducting state. Using this procedure to remove the upturn in the C_{\rm e}/T and calculate the integral in Eq. (6), we obtain a \mu_{0}H_{\rm c}(0) value of 0.19 T. The GL parameter \kappa was evaluated from
+
+\[H_{\rm c2}(0)=\sqrt{2}\,\kappa H_{\rm c}(0)\] (7)
+
+to be 54, which is large, but not as large as that of high-T_{\rm c} superconductors.[18] From \kappa=\lambda/\xi, the estimated penetration depth is \lambda(0)= 2480 A. Using
+
+\[H_{\rm c1}(0)H_{\rm c2}(0)=H_{\rm c}(0)^{2}[\ln\kappa(0)+0.08]\] (8)
+
+valid for \kappa\gg 1, the lower-critical-field \mu_{0}H_{\rm c1} was estimated to be 10 mT. All estimated parameters are summarized in Table 1.
+
+### Single-particle tunneling
+
+Figure 3 displays a set of typical tunneling conductance spectra (dI/dV vs V) of MgCNi_{3} (Junction MCN/W Sample #6). The junction resistance R_{\rm J}(T) measured at 0.4 mA (corresponding to a voltage below 0.02 mV for T<8 K), started to drop at the bulk T_{\rm c}, 7.63 K, as shown in the left inset where bulk resistivity is also included for comparison. This drop was much broader than the transition seen in bulk resistivity, suggesting that the junction resistance must have been dominated by the tunnel barrier. Therefore, the voltage drop should primarily occur at the junction interface.
+
+\begin{table}
+\begin{tabular}{c} Parameters \\ \hline T_{\rm c} = 7.63 K \\ \mu_{0}H_{\rm c2}(0) = 14.4 T \\ \mu_{0}H_{\rm c}(0) = 0.19 T \\ \mu_{0}H_{\rm c1}(0) = 10 mT \\ \xi(0) = 46 Å \\ \xi_{0} = 360 Å \\ \lambda(0) = 2480 Å \\ \kappa(0) = 54 \\ \gamma = 30.1 mJ/mol K^{2} \\ \Theta_{\rm D}= 284 K \\ \Delta C/\gamma T_{\rm c}= 2.1 \\ \end{tabular}
+\end{table}
+Table 1: Superconducting and other parameters for MgCNi_{3}.
+
+Figure 2: Temperature dependence of the electronic specific heat divided by temperature, C_{\rm e}/T, of MgCNi_{3}. The dotted line is a BCS extrapolation with \Delta(0)/k_{\rm B}T_{\rm c}= 2.2 for which the entropy balance S_{\rm n}(T_{\rm c})=S_{\rm s}(T_{\rm c}) is maintained. The inset shows the C/T as a function of T^{2} above T_{\rm c}. The solid line is the fit of the experimental data to C=\gamma T+\beta T^{3}+\delta T^{5} between 9.4 and 16 K.
+
+  As seen in the main panel of Fig. 3, the dominant feature, a pronounced ZBCP accompanied by two dips, starts to develop around the bulk T_{\rm c}. The dip feature had a smooth, clearly identifiable temperature dependence up to bulk T_{\rm c}. Therefore, the energy where dI/dV shows a sharp drop (as indicated by arrows in Fig. 3), is clearly a characteristic energy E_{\rm c} associated with the bulk phase of MgCNi_{3}. If this energy scale is the superconducting gap \Delta, thus yielding 2\,\Delta/k_{\rm B}T_{\rm c}\approx4.6, then this result can be taken as further support of strong-coupling superconductivity of MgCNi_{3}.
+
+Figure 4 shows the tunneling spectra of another junction (MCN/W Sample #4) measured down to 0.4 K. The tunneling features seen in this junction look somewhat different from junction MCN/W Sample #6 shown in Fig. 3: the conductance peak was much broader and did not split at higher temperatures (>3 K); but evolved into a spectrum of sharper central ZBCP with two side peaks as T<3 K. We believe that such a difference is most likely caused by distinct barrier strength at the junction interface. Nevertheless, the characteristic energy E_{\rm c} defined using the same way as described above (see the arrows in Fig. 4) seems comparable to that defined in junction MCN/W Sample #6.
+
+It is interesting to consider the possible physical origins of the ZBCP's observed in the tunneling spectra. First, it is known that magnetic impurities in or near the barrier can lead to a ZBCP due to magnetic and Kondo scattering (the Appelbaum-Anderson model).[19] For the MgCNi_{3} samples used in the present study, a small amount of unreacted Ni was very likely to exist, as reflected in the specific-heat measurement. It might appear near the tunnel barrier as a magnetic impurity. However, a ZBCP due to magnetic impurities should be uncorrelated with the occurrence of superconductivity. In contrast, the ZBCP in the present case was found to emerge just below bulk T_{\rm c}. In addition, the height of the ZBCP caused by magnetic impurities should depend on temperature logarithmically,[19] which was not found in our experiment. Further, in the Appelbaum-Anderson model, a magnetic field should split the ZBCP. But in our experiment, we found that the ZBCP became sharper under a magnetic field, instead of splitting, as shown in the right inset of Fig. 4. Therefore, magnetic impurities cannot be responsible for the observed ZBCP in MgCNi_{3}.
+
+Although our tunneling spectra were obtained at a superconductor/normal-metal (S/N) interface, the observed ZBCP cannot be due to conventional Andreev reflection. The values of (dI/dV)_{\rm s}/(dI/dV)_{\rm n} at zero bias [(dI/dV)_{\rm n} is the normal-state zero-bias conductance at 8 K], which were found to be around 5 in these two junctions discussed above, were considerably larger than the maximum value of 2 expected for the conventional Andreev reflection.[20]
+
+Another mechanism for the ZBCP that is particularly relevant to our experiment is related to Josephson-coupling effects. Our mechanical contacts are somewhat similar to point contacts. For point contacts, it is well known that they easily create superconductor/insulator/superconductor (SIS) break junctions.[21, 22] This also likely happened to our mechanical contacts. If this had happened, Josephson-current in break junctions would cause a ZBCP. However, this conjecture is inconsistent with our observations. The reasons are the following: (1) the observed ZBCP is much broader than that expected from Josephson current; (2) the ZBCP became well saturated below 2 K, which should not occur to the ZBCP caused by Josephson current; (3) we observed similar ZBCP in planar superconductor/insulator/normal-metal (SIN) junc
+
+Figure 4: Tunneling conductance spectra (on a logarithmic scale) for junction MCN/W Sample 4. All curves except the top curve have been shifted downwards for clarity by multiplying dI/dV with a numerical factor. The left inset shows the R_{\rm J}(T) of junction MCN/W Sample 4, measured at 1 mA (corresponding to a voltage below 0.08 meV for T<8 K). The right inset shows tunneling conductance spectra of junction MCN/W Sample 4 measured under fields of 0 T and 0.5 T at 1.5 K.
+
+Figure 3: Tunneling spectra of dI/dV\simV (on a logarithmic scale) for junction MCN/W Sample 6 at different temperatures. All curves except the top curve have been shifted downwards for clarity by multiplying dI/dV with a numerical factor. The left inset shows the junction resistance R_{\rm J}(T) and bulk resistivity.
+
+  tions of MgCNi_{3} (data not shown here). In terms of these facts, we can exclude the possibility that the observed ZBCP is due to Josephson current.
+
+Can the observed ZBCP be due to the surface mid-gap Andreev Bound states (ABS's) [23, 24] of a non-s-wave superconductor? ABS's arise from quantum interference during the Andreev reflection at the surface of an unconventional superconductor where the scattered quasiparticles experience a phase change. ABS's manifest as a ZBCP, as observed in d- and p-wave superconductors. [25, 26, 27, 28] To examine if there is such a possibility for our ZBCP observations, we have estimated the temperature dependence of spectral weight of central ZBCP and side peak in Fig. 4 by integrating (dI/dV)/(dI/dV)_{\rm n} in the appropriate ranges of V. It was found that a clear spectral-weight transfer from the side peak to the ZBCP occurs with decreasing temperature. This suggests that the ABSs may be a possible origin for the ZBCP observed in MgCNi_{3}. However, this suggestion does not seem consistent with NMR measurements on MgCNi_{3} (Ref. 8) that revealed a coherence peak in 1/T_{1} just below T_{c} , typical for an isotropic s-wave superconductor. Evidently further experiments are needed for definitive determination of the pairing symmetry of MgCNi_{3}, such as phase sensitive experiment.
+
+If MgCNi_{3} turns out to be a s-wave superconductor, a recent theoretical model associated with multiple-band superconductivity [29, 30] can interpret our ZBCP. This model indicated if the Fermi surface (FS) consists of multiple pockets, which are centered at or around some symmetry points of Brillouin Zone (BZ), and the interband Cooper pair scattering is repulsive, a nontrivial phase relation can develop between different FS pockets, thus leading to ABS's at the surface [30] which can cause a ZBCP in tunneling spectra. In other words, unconventional phenomenon can also arise in multiband superconductors with s-wave pairing. Band structure calculation [3, 4, 5, 6] have revealed that in MgCNi_{3} two bands cross FS: jungle-gym-like FS sheet is around BZ edge with a spheroidlike sheet around \Gamma; the second FS shows some X-centered shell-like feature at BZ face. These characteristics of FS suggest that ABS's due to repulsive interband Cooper pair scattering might be present at the surface of MgCNi_{3} and responsible for the observed ZBCP. [30] If this is true, MgCNi_{3} is expected to show two-band superconductivity. However, no clear corresponding evidences have been observed in our specific-heat and tunneling measurements. Further experiment probes are necessary to elucidate this issue.
+
+Finally, we comment on why the coupling strength estimated from NMR (Ref. 8) is inconsistent with that reflected in specific-heat and tunneling measurements. The ratio of 2\,\Delta/k_{\rm B}T_{\rm c} ( = 3.2) evaluated by NMR was obtained from the exponential fit of the temperature dependence of 1/T_{1} (measured at 0.45 T). In principle, the most reliable \Delta value should be obtained by the fit of 1/T_{1} to temperatures much lower than T_{c} to avoid the crossover regime. However, the 1/T_{1} fit in Ref. 8 was extended only down to 2.5 K. Below this temperature, the 1/T_{1} became saturated. This saturation behavior was ascribed to the flux avalanche effect. If the diminished temperature range resulted in a low estimate of \Delta, then these NMR data and the present specific-heat and tunneling results might be reconciled.
+
+## IV IV. Conclusion
+
+In conclusion, we have carried out upper-critical-field, specific-heat, and tunneling spectroscopy measurements of the newly discovered intermetallic perovskite superconductor MgCNi_{3}. We have evaluated various superconducting parameters from the specific heat and H_{\rm c2}(T) data. The specific-heat measurement gives \Delta C/\gamma T_{\rm c} = 2.1 and the Debye temperature \Theta_{D}^{\sim}284 K suggesting that MgCNi_{3} may be a strong-coupling superconductor. In addition, we observed a pronounced ZBCP in tunneling spectra of MgCNi_{3}. From our analysis, we suggest two possibilities for the origin of the observed ZBCP: (1) due to ABS's originating from unconventional pairing, and (2) ABS's caused by repulsive Cooper pair interband scattering with s-wave pairing. Further experiments are needed to resolve this issue.
+
+###### Acknowledgements.
+
+ We would like to thank T. Imai, D. Agterberg, D.J. Singh, I.I. Mazin, and N-C. Yeh for useful discussions. This work was supported at Penn State by NSF through Grants Nos. DMR-9974327, DMR-0101318, and DMR-9702661, and at Princeton by NSF Grants Nos. DMR-9809483 and DMR-9725979, and DOE through Grant No. DE-FG02-98-ER45706.
+
+## References
+
+* [1] J. Nagamatsu, N. Nakagawa, T. Muranaka, Y. Zenitani, and J. Akimitsu, Nature (London) **410**, 63 (2001).
+* [2] T. He, Q. Huang, A.P. Ramirez, Y. Wang, K.A. Regan, N. Rogado, M.A. Hayward, M.K. Haas, J.S. Slusky, K. Inumara, H.W. Zandbergen, N.P. Ong, and R.J. Cava, Nature (London) **411**, 54 (2001).
+* [3] A. Szajek, J. Phys.: Condens. Matter **13**, L595 (2001).
+* [4] S.B. Dugdale and T. Jarlborg, Phys. Rev. B **64**, 100508(R) (2001).
+* [5] J.H. Shim and B.I. Min, Phys. Rev. B **64**, 180510(R) (2001).
+* [6] D.J. Singh and I.I. Mazin, Phys. Rev. B **64**, 140507(R) (2001).
+* [7] H. Rosner, R. Weht, M.D. Johannes, W.E. Pickett, and E. Tosatti, Phys. Rev. Lett. **88**, 027001 (2002).
+* [8] P.M. Singer, T. Imai, T. He, M.A. Hayward, and R.J. Cava, Phys. Rev. Lett. **87**, 257601 (2001).
+* [9] Y. Maeno, T.M. Rice, and M. Sigrist, Phys. Today **54** (1), 42 (2001).
+* [10] N.R. Werthamer, E. Helfand, and P.C. Hohenberg, Phys. Rev. **147**, 295 (1966).
+* [11] A.M. Clogston, Phys. Rev. Lett. **9**, 266 (1962).
+
+  * [12] S.Y. Li, R. Fan, X.H. Chen, C.H. Wang, W.Q. Mo, K.Q. Ruan, Y.M. Xiong, X.G. Luo, H.T. Zhang, L. Li, Z. Sun, and L.Z. Cao, Phys. Rev. B **64**, 132505 (2001).
+* [13] De Gennes, _Superconductivity of Metals and Alloys_ (Benjamin, New York, 1966).
+* [14] K. Kostic, Y. Okada, N.C. Collins, Z. Schlesinger, J.W. Reiner, L. Klein, A. Kapitulnik, T.H. Geballe, and M.R. Beasley, Phys. Rev. Lett. **81**, 2498 (1998).
+* [15] Y. Wang, T. Plackowski, and A. Junod, Physica C **355**, 179 (2001).
+* [16] H. Padamsee, J.E. Neighbor, and C.A. Shiffman, J. Low Temp. Phys. **12**, 387 (1973).
+* [17] W. L. McMillan and J. M. Rowell, in _Superconductivity_, edited by R. D. Parks (Dekker, New York, 1969), Vol. 1.
+* [18] A. Junod, in _Studies of High Temperature Superconductors_, edited by A. Norikar (Nova Science, New York, 1996), Vol. 19.
+* [19] J. Appelbaum, Phys. Rev. Lett. **14**, 91 (1966).
+* [20] G.E. Blonder, M. Tinkham, and T.M. Klapwijk, Phys. Rev. B **25**, 4515 (1982).
+* [21] Y. DeWildel, N. Miyakawa, P. Guptasarma, M. Iavarone, L. Ozyuzer, J.F. Zasadzinski, P. Romano, D.G. Hinks, C. Kendziora, G.W. Crabtree, and K.E. Gray, Phys. Rev. Lett. **80**, 153 (1998).
+* [22] H. Schmidt, J.F. Zasadzinski, K.E. Gray, and D.G. Hinks, Phys. Rev. Lett. **88**, 127002 (2002).
+* [23] C.R. Hu, Phys. Rev. Lett. **72**, 1526 (1994).
+* [24] Y. Tanaka and S. Kashiwaya, Phys. Rev. Lett. **74**, 3451 (1995).
+* [25] L.H. Greene, M. Covington, M. Aprili, E. Badica, and D.E. Pugel, Physica B **280**, 159 (2000).
+* [26] J.Y. Wei, N.-C. Yeh, D.F. Garrigus, and M. Strasik, Phys. Rev. Lett. **81**, 2542 (1998).
+* [27] F. Laube, G. Goll, H.v. L hneysen, M. Fogelstr m, and F. Lichtenberg, Phys. Rev. Lett. **84**, 1595 (2000).
+* [28] Z.Q. Mao, K.D. Nelson, R. Jin, Y. Liu, and Y. Maeno, Phys. Rev. Lett. **87**, 037003 (2001).
+* [29] D.F. Agterberg, Victor Barzykin, and Lev P. Gor'kov, Phys. Rev. B **60**, 14 868 (1999).
+* [30] K. Voelker and M. Sigrist, cond-mat/0208367 (unpublished).
+
+ Experimental determination of superconducting parameters for the intermetallic perovskite superconductor MgCNi3
+
+Z. Q. Mao, M. M. Rosario, K. D. Nelson, K. Wu, I. G. Deac, P. Schiffer, and Y. Liu
+
+Department of Physics, The Pennsylvania State University, University Park, Pennsylvania 16802
+
+T. He, K. A. Regan, and R. J. Cava
+
+Department of Chemistry and Princeton Materials Institute, Princeton University, Princeton, New Jersey 08540
+
+Received 8 February 2002; published 13 March 2003
+
+###### Abstract
+
+We have measured upper-critical-field _H_c2, specific heat C, and tunneling spectra of the intermetallic perovskite superconductor MgCNi3 with a superconducting transition temperature _T_c ~ 7.6 K. Based on these measurements and relevant theoretical relations, we have evaluated various superconducting parameters for this material, including the thermodynamic critical field _H_c(0), coherence length \xi(0), penetration depth \lambda(0), lower-critical-field _H_c1(0), and Ginzburg-Landau parameter \kappa(0). From the specific heat, we obtain the Debye temperature \Theta_{\text{D}}^{\infty}284 K. We find a jump of \Delta_C_/_g_T_c = 2.1 at _T_c (where g is the normal-state electronic specific coefficient), which is larger than the weak-coupling BCS value of 1.43, suggesting that MgCNi3 may be a strong-coupling superconductor. In addition, we observed a pronounced zero-bias conductance peak (ZBCP) in the tunneling spectra. We discuss the possible physical origins of the observed ZBCP.
+
+pacs: 0163-1829/2003/67/094502 +
+Footnote †: preprint: PHYSICAL REVIEW B **67**, 094502 (2003)
+
+## I Introduction
+
+Following the remarkable discovery of superconductivity at 39 K in MgB2,1 intermetallic compounds have received renewed interest in the search for new superconducting materials. A new intermetallic superconductor MgCNi3 with the superconducting transition temperature _T_c ~ 7.6 K was found recently by He _et al._[2] This compound has a cubic perovskite crystal structure, with Ni, C, and Mg replacing O, Ti, and Sr, for example, in the more familiar oxide perovskite SrTiO3. It is a unique material that bridges the intermetallic compound MgB2 and perovskite oxide superconductors.
+
+The electronic structure of MgCNi3, calculated by several groups with different methods,[3; 4; 5; 6; 7] indicated that the electronic states of MgCNi3 at the Fermi energy _F_F are dominated by the 3d orbitals of Ni. The derived density of states has a sharp peak just below _E_F, which leads to a moderate Stoner enhancement. This signals the presence of substantial ferromagnetic (FM) spin fluctuations in MgCNi3,[6; 7] as confirmed by 13C NMR measurements.[8] The presence of such FM fluctuations may favor unconventional pairing as in Sr2RuO4.[7; 9] However, the nuclear spin-lattice relaxation rate 1/_T_1 obtained in NMR measurements[8] exhibited a clear coherence peak just below _T_c, typical for an isotropic _s_-wave superconductor.
+
+We measured the temperature dependence of resistivity in various magnetic field, and obtained the upper-critical-field _H_c2(_T_) for this material. We also carried out the specific-heat measurements over a wider temperature region of 20-0.4 K on a high-quality MgCNi3 sample. The value of _T_c for this sample is 7.63 K as opposed to 6.2 K for the sample used in the previous measurements.[2] From these measurements, we estimated various superconducting parameters of MgCNi3, including the thermodynamic critical field _H_c(0), coherence length \xi(0), penetration depth \lambda(0), lower-critical-field _H_c1(0), and Ginzburg-Landau (GL) parameter \kappa(0).
+
+The superconducting energy gap (\Delta) of MgCNi3 has been estimated from NMR measurements,[8] yielding a value of 2\Delta_I_/_k_B_T_c ~ 3.2 where _T_c is the superconducting transition temperature. This value is less than the weak-coupling value of 3.53. However, our specific heat measurements revealed a jump of \Delta_C_/_g_T_c = 2.1 (1.9 in Ref. 2) at the _T_c of 7.63 K, considerably larger than the weak-coupling value 1.43, which is inconsistent with the NMR result.
+
+To determine the superconducting gap directly, as well as to obtain information on the pairing symmetry of this superconductor with apparently large ferromagnetic fluctuation similar to Sr2RuO4, we have carried out tunneling spectroscopy measurements on high-quality polycrystalline MgCNi3 samples. From these measurements, we found a characteristic energy scale associated with a sharp decreasing of the tunneling conductance. If this energy scale is the superconducting energy gap, then this result can be taken as further support of strong-coupling superconductivity of MgCNi3. In addition, we observed a pronounced zero-bias conductance peak (ZBCP) in tunneling spectra. We discuss its possible physical origins.
+
+## II Experiment
+
+The polycrystalline material used for this study was synthesized by solid-state reaction. The preparation details can be found in Ref. 2. We determined _H_c2(_T_) from four-probe resistance measurements. Specific-heat measurements were performed using a relaxation method in a commercial calorimeter in a quantum design physical property measurement system.
+
+We prepared mechanical junctions for tunneling spectrum measurements. They were made on polycrystalline samples using a sharp W tip with an end radius of about 15 _m_m. The sample and the W tip were held together by an insulated Cu frame, with the tip touching the sample gently. The sample surface was examined by scanning electron microscopy. The  average grain size on the surface was found to be about 5 \mum. As a result, the mechanical tunnel junction involved only a few MgCNi_{3} grains.
+
+Current-voltage (I-V) characteristics, as well as junction resistance, was measured by a four-point method in a 1 K pot dip probe and a ^{3}He cryostat. To reduce heating, the I-V curves were measured by a dc pulsed-current method with a typical pulse duration of 50 ms followed by a 2 s delay between successive pulses. The tunneling conductance dI/dV was computed numerically from the measured I-V curves.
+
+## III Results and discussions
+
+### Electrical transport
+
+Figure 1 shows the H-T phase diagram, obtained from the R vs T curves at different fields. Here T_{\rm c} is defined as the intersection of the linear extrapolation of the most rapidly changing part of R(T) and that of the normal-state resistance, as shown in the inset of Fig. 1. Within the weak-coupling BCS theory, H_{\rm c2}(T\!=\!0) can be estimated using the Werthamer-Helfand-Hohenberg (WHH) formula,[10]
+
+\[\mu_{0}H_{\rm c2}(0)\!=\!-0.693(dH_{\rm c2}/dT)_{T-T_{\rm c}}T_{\rm c}\,,\] (1)
+
+which leads to a \mu_{0}H_{\rm c2}(0) value of 14.8 T. Meanwhile the Pauli-limiting field
+
+\[\mu_{0}H^{\rm Pauli}\!=\!1.24k_{\rm B}T_{\rm c}/\mu_{\rm B}\] (2)
+
+expected within the same weak-coupling BCS theory[11] is about 14 T for T_{\rm c}\!=\!7.60 K. The \mu_{0}H^{\rm Pauli} is about 0.8 T less than the \mu_{0}H_{\rm c2}(0)^{\rm WHH}, suggesting that pair-breaking effects due to the Zeeman energy in MgCNi_{3} is small. From our experimental results of specific heat and tunneling spectra, to be presented below, MgCNi_{3} appears to be a strong-coupling superconductor. Taking into account the effects of strong coupling, a reasonable extrapolation of H_{\rm c2}(0) should lie between \mu_{0}H^{\rm Pauli} and \mu_{0}H_{\rm c2}(0)^{\rm WHH}, around 14.4 T, based on which the superconducting coherence length \xi(0) can be estimated to be approximately 46 A, using the Ginzberg-Landau formula for an isotropic three-dimensional superconductor, \mu_{0}H_{\rm c2}(0)\!=\!\phi_{0}/2\,\pi\,\xi(0)^{2}. This value is in good agreement with a earlier report of \xi(0)\!=\!47 A.[12] The \xi(0) estimated from H_{\rm c2}(0) is actually the GL coherence length \xi_{\rm GL}(0), which is comparable to Pippard coherence length \xi_{\rm p}. Both \xi_{\rm GL}(0) and \xi_{\rm p} depend on the mean-free-path l of electrons. The intrinsic coherence length \xi_{0} can be estimated by
+
+\[\xi_{0}\!=\!\alpha\hbar\,V_{\rm F}/k_{\rm B}T_{\rm c}\,,\] (3)
+
+where \alpha\!=\!0.18, \hbar\!=\!h/2\pi as h is the plank constant, and V_{\rm F} is the Fermi velocity. For MgCNi_{3}, band-structure calculation has given V_{\rm F}\!=\!2.0\!\times\!10^{5} m/s,[4] thus yielding \xi_{0}\!=\!360 A, much greater than \xi_{\rm GL}(0). This difference suggests that MgCNi_{3} is an impure superconductor in which \xi_{\rm p} and \xi_{0} are related by
+
+\[\xi_{\rm p}\!\approx\!(\xi_{0}l)^{1/2}.\] (4)
+
+From Eq. (4) (Ref. [13]), l is estimated to be 6 A, comparable to the value of l(\!\approx\!10 A) estimated from
+
+\[l\!=\!2\,m\,V_{\rm F}/(ne^{2}\rho_{0})\,,\] (5)
+
+for the sample used in Ref. [12] where carrier density n and residual resistivity \rho_{0} were measured on the identical sample. Since the estimated l is very short, MgCNi_{3} is probably a bad metal, like SrRuO_{3}[14]
+
+### Specific heat
+
+We measured the specific heat of MgCNi_{3} from 20 K down to 0.4 K. As shown in the inset of Fig. 2, the specific-heat data in the temperature region of T_{\rm c}^{\rm onset} (\approx\!9.4 K) <T<16 K, was fitted well with the form C(T)\!=\!\gamma T\!+\!\beta T^{5}+\!\delta T^{5}, which is the usual temperature dependence of specific heat for metals at T\!\!\approx\!\Theta_{\rm D}. The \Theta_{\rm D} can be determined from the coefficient of the T^{3} term \beta\!=\!N(12/5)\,\pi^{4}R\,\Theta_{D}^{-3}, where R\!=\!8.314 J/mol K, and N\!=\!5 for MgCNi_{3}. The linear term of C(T) is due to the electronic contribution, while the T^{3} and T^{5} terms come from the phonon contribution. From the above fitting, we obtained \gamma\!=\!30.1 mJ/mol K^{2} and \Theta_{D}\approx\!284 K.
+
+By subtracting the phonon contribution from the C(T), we obtained the temperature dependence of electronic specific heat C_{\rm c}(T). The main panel of Fig. 2 shows C_{\rm c}/T as a function of T. It reveals a much sharper superconducting transition than seen in the specific-heat data in Ref. [2]. From an entropy-conserving construction (see the solid lines in the figure), the midpoint transition temperature T_{c}^{\rm mid} was estimated to be 7.63 K, and the specific-heat jump \Delta\,C/T_{c}^{\rm mid}=\!63.3 mJ/mol K^{2}. This value is larger than that reported in Ref. [2] where \Delta\,C/T_{c}^{\rm mid}\!=\!57.0 mJ/mol K^{2} with T_{\rm c}^{\rm mid}\!=\!6.2 K,
+
+Figure 1: Upper-critical-field \mu_{0}H_{\rm c2} as a function of temperature for MgCNi_{3}. The square symbol is \mu_{0}H_{\rm c2}(0) estimated using WHH theory and the triangle is the estimated Pauli-limiting field (see text). The inset shows the temperature dependence of sample resistance in zero field.
+
+  indicating that the sample used in the present study is of improved quality. On the other hand, we note that the C_{\rm e}/T shows an unusual behavior at low temperature, i.e., an upturn for T<2 K. This upturn may be due to the magnetic Schottky contribution and/or the paramagnetism of unreacted Ni impurities. Similar behavior was observed in MgB_{2} where Fe impurities led an upturn in C/T at low temperature.[15]
+
+It is known that the parameter \Delta C(T_{\rm c})/\gamma T_{\rm c} can be used to measure the strength of the electron coupling.[16] In the BCS weak-coupling limit, its value is 1.43. For MgCNi_{3}, the ratio of \Delta C(T_{\rm c})/\gamma T_{\rm c} estimated from the above data is approximately 2.1 (1.9 in Ref. [2]), larger than the weak-coupling value. This suggests that MgCNi_{3} may be a strong-coupling superconductor. We noted that this value is close to that of Hg with \Delta C(T_{\rm c})/\gamma T_{\rm c}= 2.37. Nevertheless, we would like to point out that the coupling strength of MgCNi_{3} might not be as strong as Hg or Pb. This is because Debye temperature \Theta_{D} is much higher in MgCNi_{3}(\Theta_{D}\approx284 K) than in Hg or Pb (\Theta_{D}\approx100 K). If they have comparable coupling strength, the expected T_{c} for MgCNi_{3} from McMillan T_{c} equation[17] is over 20 K even we assume a strong Coulomb repulsion with \mu* = 0.15. This expected T_{\rm c} is clearly much higher than the observed T_{\rm c} (= 7.63 K). Further studies on single crystal (unavailable so far) seem necessary to resolve this inconsistency.
+
+Based on the specific-heat data and H_{\rm c2}(0) obtained above, we can estimate various superconducting parameters using theoretical relations for an isotropic three-dimensional superconductor. H_{\rm c}(0) can be estimated by integrating the specific-heat data of Fig. 2 in the superconducting state and using the relation
+
+\[\mu_{0}H_{\rm c}(0)^{2}/2=-\gamma T_{\rm c}^{2}/2+\int_{0}^{T_{\rm c}}C_{\rm e}(T)dT.
+
+However, the original data of C_{\rm e} contains magnetic contributions, leading to the upturn in C_{\rm e}/T and an imbalance of entropy S between superconducting and normal states at T_{\rm c}. To remove this magnetic contribution, we attempted a BCS extrapolation in C_{\rm e} using C_{\rm e}=a\,\gamma T_{\rm c}exp[-\Delta(0)/k_{\rm B}T]. The entropy balance requirement, S_{\rm n}(T_{\rm c})=S_{\rm s}(T_{\rm c}), is used to determine the values of a and \Delta(0). We found that a= 27.5 and \Delta(0)/k_{\rm B}T_{\rm c}= 2.2 with this procedure (see the dotted line of Fig. 2). The start temperature for extrapolation is about 6.2 K. In principle, the BCS exponential extrapolation is valid only at low temperatures (say T<0.1T_{\rm c}). Nevertheless, we note that even in intermediate temperature region the specific heat does not deviate very much from the exponential behavior in the BCS picture.[16] As a result, the extrapolation made in Fig. 2 may still be used to estimate the entropy of superconducting state. Using this procedure to remove the upturn in the C_{\rm e}/T and calculate the integral in Eq. (6), we obtain a \mu_{0}H_{\rm c}(0) value of 0.19 T. The GL parameter \kappa was evaluated from
+
+\[H_{\rm c2}(0)=\sqrt{2}\,\kappa H_{\rm c}(0)\] (7)
+
+to be 54, which is large, but not as large as that of high-T_{\rm c} superconductors.[18] From \kappa=\lambda/\xi, the estimated penetration depth is \lambda(0)= 2480 A. Using
+
+\[H_{\rm c1}(0)H_{\rm c2}(0)=H_{\rm c}(0)^{2}[\ln\kappa(0)+0.08]\] (8)
+
+valid for \kappa\gg 1, the lower-critical-field \mu_{0}H_{\rm c1} was estimated to be 10 mT. All estimated parameters are summarized in Table 1.
+
+### Single-particle tunneling
+
+Figure 3 displays a set of typical tunneling conductance spectra (dI/dV vs V) of MgCNi_{3} (Junction MCN/W Sample #6). The junction resistance R_{\rm J}(T) measured at 0.4 mA (corresponding to a voltage below 0.02 mV for T<8 K), started to drop at the bulk T_{\rm c}, 7.63 K, as shown in the left inset where bulk resistivity is also included for comparison. This drop was much broader than the transition seen in bulk resistivity, suggesting that the junction resistance must have been dominated by the tunnel barrier. Therefore, the voltage drop should primarily occur at the junction interface.
+
+\begin{table}
+\begin{tabular}{c} Parameters \\ \hline T_{\rm c} = 7.63 K \\ \mu_{0}H_{\rm c2}(0) = 14.4 T \\ \mu_{0}H_{\rm c}(0) = 0.19 T \\ \mu_{0}H_{\rm c1}(0) = 10 mT \\ \xi(0) = 46 Å \\ \xi_{0} = 360 Å \\ \lambda(0) = 2480 Å \\ \kappa(0) = 54 \\ \gamma = 30.1 mJ/mol K^{2} \\ \Theta_{\rm D}= 284 K \\ \Delta C/\gamma T_{\rm c}= 2.1 \\ \end{tabular}
+\end{table}
+Table 1: Superconducting and other parameters for MgCNi_{3}.
+
+Figure 2: Temperature dependence of the electronic specific heat divided by temperature, C_{\rm e}/T, of MgCNi_{3}. The dotted line is a BCS extrapolation with \Delta(0)/k_{\rm B}T_{\rm c}= 2.2 for which the entropy balance S_{\rm n}(T_{\rm c})=S_{\rm s}(T_{\rm c}) is maintained. The inset shows the C/T as a function of T^{2} above T_{\rm c}. The solid line is the fit of the experimental data to C=\gamma T+\beta T^{3}+\delta T^{5} between 9.4 and 16 K.
+
+  As seen in the main panel of Fig. 3, the dominant feature, a pronounced ZBCP accompanied by two dips, starts to develop around the bulk T_{\rm c}. The dip feature had a smooth, clearly identifiable temperature dependence up to bulk T_{\rm c}. Therefore, the energy where dI/dV shows a sharp drop (as indicated by arrows in Fig. 3), is clearly a characteristic energy E_{\rm c} associated with the bulk phase of MgCNi_{3}. If this energy scale is the superconducting gap \Delta, thus yielding 2\,\Delta/k_{\rm B}T_{\rm c}\approx4.6, then this result can be taken as further support of strong-coupling superconductivity of MgCNi_{3}.
+
+Figure 4 shows the tunneling spectra of another junction (MCN/W Sample #4) measured down to 0.4 K. The tunneling features seen in this junction look somewhat different from junction MCN/W Sample #6 shown in Fig. 3: the conductance peak was much broader and did not split at higher temperatures (>3 K); but evolved into a spectrum of sharper central ZBCP with two side peaks as T<3 K. We believe that such a difference is most likely caused by distinct barrier strength at the junction interface. Nevertheless, the characteristic energy E_{\rm c} defined using the same way as described above (see the arrows in Fig. 4) seems comparable to that defined in junction MCN/W Sample #6.
+
+It is interesting to consider the possible physical origins of the ZBCP's observed in the tunneling spectra. First, it is known that magnetic impurities in or near the barrier can lead to a ZBCP due to magnetic and Kondo scattering (the Appelbaum-Anderson model).[19] For the MgCNi_{3} samples used in the present study, a small amount of unreacted Ni was very likely to exist, as reflected in the specific-heat measurement. It might appear near the tunnel barrier as a magnetic impurity. However, a ZBCP due to magnetic impurities should be uncorrelated with the occurrence of superconductivity. In contrast, the ZBCP in the present case was found to emerge just below bulk T_{\rm c}. In addition, the height of the ZBCP caused by magnetic impurities should depend on temperature logarithmically,[19] which was not found in our experiment. Further, in the Appelbaum-Anderson model, a magnetic field should split the ZBCP. But in our experiment, we found that the ZBCP became sharper under a magnetic field, instead of splitting, as shown in the right inset of Fig. 4. Therefore, magnetic impurities cannot be responsible for the observed ZBCP in MgCNi_{3}.
+
+Although our tunneling spectra were obtained at a superconductor/normal-metal (S/N) interface, the observed ZBCP cannot be due to conventional Andreev reflection. The values of (dI/dV)_{\rm s}/(dI/dV)_{\rm n} at zero bias [(dI/dV)_{\rm n} is the normal-state zero-bias conductance at 8 K], which were found to be around 5 in these two junctions discussed above, were considerably larger than the maximum value of 2 expected for the conventional Andreev reflection.[20]
+
+Another mechanism for the ZBCP that is particularly relevant to our experiment is related to Josephson-coupling effects. Our mechanical contacts are somewhat similar to point contacts. For point contacts, it is well known that they easily create superconductor/insulator/superconductor (SIS) break junctions.[21, 22] This also likely happened to our mechanical contacts. If this had happened, Josephson-current in break junctions would cause a ZBCP. However, this conjecture is inconsistent with our observations. The reasons are the following: (1) the observed ZBCP is much broader than that expected from Josephson current; (2) the ZBCP became well saturated below 2 K, which should not occur to the ZBCP caused by Josephson current; (3) we observed similar ZBCP in planar superconductor/insulator/normal-metal (SIN) junc
+
+Figure 4: Tunneling conductance spectra (on a logarithmic scale) for junction MCN/W Sample 4. All curves except the top curve have been shifted downwards for clarity by multiplying dI/dV with a numerical factor. The left inset shows the R_{\rm J}(T) of junction MCN/W Sample 4, measured at 1 mA (corresponding to a voltage below 0.08 meV for T<8 K). The right inset shows tunneling conductance spectra of junction MCN/W Sample 4 measured under fields of 0 T and 0.5 T at 1.5 K.
+
+Figure 3: Tunneling spectra of dI/dV\simV (on a logarithmic scale) for junction MCN/W Sample 6 at different temperatures. All curves except the top curve have been shifted downwards for clarity by multiplying dI/dV with a numerical factor. The left inset shows the junction resistance R_{\rm J}(T) and bulk resistivity.
+
+  tions of MgCNi_{3} (data not shown here). In terms of these facts, we can exclude the possibility that the observed ZBCP is due to Josephson current.
+
+Can the observed ZBCP be due to the surface mid-gap Andreev Bound states (ABS's) [23, 24] of a non-s-wave superconductor? ABS's arise from quantum interference during the Andreev reflection at the surface of an unconventional superconductor where the scattered quasiparticles experience a phase change. ABS's manifest as a ZBCP, as observed in d- and p-wave superconductors. [25, 26, 27, 28] To examine if there is such a possibility for our ZBCP observations, we have estimated the temperature dependence of spectral weight of central ZBCP and side peak in Fig. 4 by integrating (dI/dV)/(dI/dV)_{\rm n} in the appropriate ranges of V. It was found that a clear spectral-weight transfer from the side peak to the ZBCP occurs with decreasing temperature. This suggests that the ABSs may be a possible origin for the ZBCP observed in MgCNi_{3}. However, this suggestion does not seem consistent with NMR measurements on MgCNi_{3} (Ref. 8) that revealed a coherence peak in 1/T_{1} just below T_{c} , typical for an isotropic s-wave superconductor. Evidently further experiments are needed for definitive determination of the pairing symmetry of MgCNi_{3}, such as phase sensitive experiment.
+
+If MgCNi_{3} turns out to be a s-wave superconductor, a recent theoretical model associated with multiple-band superconductivity [29, 30] can interpret our ZBCP. This model indicated if the Fermi surface (FS) consists of multiple pockets, which are centered at or around some symmetry points of Brillouin Zone (BZ), and the interband Cooper pair scattering is repulsive, a nontrivial phase relation can develop between different FS pockets, thus leading to ABS's at the surface [30] which can cause a ZBCP in tunneling spectra. In other words, unconventional phenomenon can also arise in multiband superconductors with s-wave pairing. Band structure calculation [3, 4, 5, 6] have revealed that in MgCNi_{3} two bands cross FS: jungle-gym-like FS sheet is around BZ edge with a spheroidlike sheet around \Gamma; the second FS shows some X-centered shell-like feature at BZ face. These characteristics of FS suggest that ABS's due to repulsive interband Cooper pair scattering might be present at the surface of MgCNi_{3} and responsible for the observed ZBCP. [30] If this is true, MgCNi_{3} is expected to show two-band superconductivity. However, no clear corresponding evidences have been observed in our specific-heat and tunneling measurements. Further experiment probes are necessary to elucidate this issue.
+
+Finally, we comment on why the coupling strength estimated from NMR (Ref. 8) is inconsistent with that reflected in specific-heat and tunneling measurements. The ratio of 2\,\Delta/k_{\rm B}T_{\rm c} ( = 3.2) evaluated by NMR was obtained from the exponential fit of the temperature dependence of 1/T_{1} (measured at 0.45 T). In principle, the most reliable \Delta value should be obtained by the fit of 1/T_{1} to temperatures much lower than T_{c} to avoid the crossover regime. However, the 1/T_{1} fit in Ref. 8 was extended only down to 2.5 K. Below this temperature, the 1/T_{1} became saturated. This saturation behavior was ascribed to the flux avalanche effect. If the diminished temperature range resulted in a low estimate of \Delta, then these NMR data and the present specific-heat and tunneling results might be reconciled.
+
+## IV IV. Conclusion
+
+In conclusion, we have carried out upper-critical-field, specific-heat, and tunneling spectroscopy measurements of the newly discovered intermetallic perovskite superconductor MgCNi_{3}. We have evaluated various superconducting parameters from the specific heat and H_{\rm c2}(T) data. The specific-heat measurement gives \Delta C/\gamma T_{\rm c} = 2.1 and the Debye temperature \Theta_{D}^{\sim}284 K suggesting that MgCNi_{3} may be a strong-coupling superconductor. In addition, we observed a pronounced ZBCP in tunneling spectra of MgCNi_{3}. From our analysis, we suggest two possibilities for the origin of the observed ZBCP: (1) due to ABS's originating from unconventional pairing, and (2) ABS's caused by repulsive Cooper pair interband scattering with s-wave pairing. Further experiments are needed to resolve this issue.
+
+###### Acknowledgements.
+
+ We would like to thank T. Imai, D. Agterberg, D.J. Singh, I.I. Mazin, and N-C. Yeh for useful discussions. This work was supported at Penn State by NSF through Grants Nos. DMR-9974327, DMR-0101318, and DMR-9702661, and at Princeton by NSF Grants Nos. DMR-9809483 and DMR-9725979, and DOE through Grant No. DE-FG02-98-ER45706.
+
+## References
+
+* [1] J. Nagamatsu, N. Nakagawa, T. Muranaka, Y. Zenitani, and J. Akimitsu, Nature (London) **410**, 63 (2001).
+* [2] T. He, Q. Huang, A.P. Ramirez, Y. Wang, K.A. Regan, N. Rogado, M.A. Hayward, M.K. Haas, J.S. Slusky, K. Inumara, H.W. Zandbergen, N.P. Ong, and R.J. Cava, Nature (London) **411**, 54 (2001).
+* [3] A. Szajek, J. Phys.: Condens. Matter **13**, L595 (2001).
+* [4] S.B. Dugdale and T. Jarlborg, Phys. Rev. B **64**, 100508(R) (2001).
+* [5] J.H. Shim and B.I. Min, Phys. Rev. B **64**, 180510(R) (2001).
+* [6] D.J. Singh and I.I. Mazin, Phys. Rev. B **64**, 140507(R) (2001).
+* [7] H. Rosner, R. Weht, M.D. Johannes, W.E. Pickett, and E. Tosatti, Phys. Rev. Lett. **88**, 027001 (2002).
+* [8] P.M. Singer, T. Imai, T. He, M.A. Hayward, and R.J. Cava, Phys. Rev. Lett. **87**, 257601 (2001).
+* [9] Y. Maeno, T.M. Rice, and M. Sigrist, Phys. Today **54** (1), 42 (2001).
+* [10] N.R. Werthamer, E. Helfand, and P.C. Hohenberg, Phys. Rev. **147**, 295 (1966).
+* [11] A.M. Clogston, Phys. Rev. Lett. **9**, 266 (1962).
+
+  * [12] S.Y. Li, R. Fan, X.H. Chen, C.H. Wang, W.Q. Mo, K.Q. Ruan, Y.M. Xiong, X.G. Luo, H.T. Zhang, L. Li, Z. Sun, and L.Z. Cao, Phys. Rev. B **64**, 132505 (2001).
+* [13] De Gennes, _Superconductivity of Metals and Alloys_ (Benjamin, New York, 1966).
+* [14] K. Kostic, Y. Okada, N.C. Collins, Z. Schlesinger, J.W. Reiner, L. Klein, A. Kapitulnik, T.H. Geballe, and M.R. Beasley, Phys. Rev. Lett. **81**, 2498 (1998).
+* [15] Y. Wang, T. Plackowski, and A. Junod, Physica C **355**, 179 (2001).
+* [16] H. Padamsee, J.E. Neighbor, and C.A. Shiffman, J. Low Temp. Phys. **12**, 387 (1973).
+* [17] W. L. McMillan and J. M. Rowell, in _Superconductivity_, edited by R. D. Parks (Dekker, New York, 1969), Vol. 1.
+* [18] A. Junod, in _Studies of High Temperature Superconductors_, edited by A. Norikar (Nova Science, New York, 1996), Vol. 19.
+* [19] J. Appelbaum, Phys. Rev. Lett. **14**, 91 (1966).
+* [20] G.E. Blonder, M. Tinkham, and T.M. Klapwijk, Phys. Rev. B **25**, 4515 (1982).
+* [21] Y. DeWildel, N. Miyakawa, P. Guptasarma, M. Iavarone, L. Ozyuzer, J.F. Zasadzinski, P. Romano, D.G. Hinks, C. Kendziora, G.W. Crabtree, and K.E. Gray, Phys. Rev. Lett. **80**, 153 (1998).
+* [22] H. Schmidt, J.F. Zasadzinski, K.E. Gray, and D.G. Hinks, Phys. Rev. Lett. **88**, 127002 (2002).
+* [23] C.R. Hu, Phys. Rev. Lett. **72**, 1526 (1994).
+* [24] Y. Tanaka and S. Kashiwaya, Phys. Rev. Lett. **74**, 3451 (1995).
+* [25] L.H. Greene, M. Covington, M. Aprili, E. Badica, and D.E. Pugel, Physica B **280**, 159 (2000).
+* [26] J.Y. Wei, N.-C. Yeh, D.F. Garrigus, and M. Strasik, Phys. Rev. Lett. **81**, 2542 (1998).
+* [27] F. Laube, G. Goll, H.v. L hneysen, M. Fogelstr m, and F. Lichtenberg, Phys. Rev. Lett. **84**, 1595 (2000).
+* [28] Z.Q. Mao, K.D. Nelson, R. Jin, Y. Liu, and Y. Maeno, Phys. Rev. Lett. **87**, 037003 (2001).
+* [29] D.F. Agterberg, Victor Barzykin, and Lev P. Gor'kov, Phys. Rev. B **60**, 14 868 (1999).
+* [30] K. Voelker and M. Sigrist, cond-mat/0208367 (unpublished).
+
+ 

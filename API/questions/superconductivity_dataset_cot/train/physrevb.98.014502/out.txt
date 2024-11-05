@@ -1,0 +1,251 @@
+
+
+# Multigap superconductivity in chiral noncentrosymmetric TaRh_{2}B_{2}
+
+D. A. Mayoh
+
+d.mayoh@warwick.ac.uk Physics Department, University of Warwick, Coventry CV4 7AL, United Kingdom
+
+A. D. Hillier
+
+ISIS Facility, STFC Rutherford Appleton Laboratory, Harwell Science and Innovation Campus, Oxfordshire OX11 0QX, United Kingdom
+
+K. Gotze
+
+Physics Department, University of Warwick, Coventry CV4 7AL, United Kingdom
+
+D. McK. Paul
+
+Physics Department, University of Warwick, Coventry CV4 7AL, United Kingdom
+
+G. Balakrishnan
+
+Physics Department, University of Warwick, Coventry CV4 7AL, United Kingdom
+
+M. R. Lees
+
+Physics Department, University of Warwick, Coventry CV4 7AL, United Kingdom
+
+November 6, 2021
+
+###### Abstract
+
+We report the observation of multigap superconductivity in TaRh_{2}B_{2}. We show TaRh_{2}B_{2} is a bulk type-II superconductor with a transition temperature T_{\rm c}=6.00(5) K. We present transverse-field muon spin relaxation data where the superconducting gap can be fit using a two-gap (s+s)-wave model. We also report the zero-field electronic specific heat in the superconducting state that is best described by the same (s+s) model, providing further evidence of multiband behavior in this superconductor. Zero-field muon spin relaxation measurements show time-reversal symmetry is preserved in the superconducting state. We demonstrate that TaRh_{2}B_{2} has an upper critical field of 15.2(1) T, which is significantly higher than previously reported and exceeds the Pauli limit.
+
+pacs: 10.1103/PhysRevB.98.014502 +
+Footnote †: preprint: PHYSICAL REVIEW B **98**, 014502 (2018)
+
+_Introduction_. The discovery of two noncentrosymmetric (NCS) superconductors with chiral structures, TaRh_{2}B_{2} and NbRh_{2}B_{2}[1], has added a new twist to an already exciting area of superconductivity research [2, 3]. For all superconductors, the topology of the electronic band structure, along with the underlying crystal structure, play vital roles in determining the superconducting properties of the material.
+
+For a simple s-wave, electron-phonon mediated superconductor with a single Fermi surface, the gap function has the full symmetry of the crystal. Higher angular momentum (p-, d-, and f-wave) coupling channels can lead to nodes in the gap and if, e.g., two equivalent gap functions are degenerate, a chiral state such as (p_{x}+ip_{y}) where the gap function winds around some axis of the Fermi surface. Chiral superconductivity may also arise due to the presence of several Fermi sheets, requiring multiple gap functions to describe the superconducting state. Chiral superconductors can exhibit broken time-reversal symmetry (TRS) and support exotic topologically protected edge states, surface currents, and Majorana modes [4]. Two of the most studied candidate chiral superconductors, the heavy fermion f-wave superconductor UPt_{3}, and the p-wave oxide superconductor Sr_{2}RuO_{4}, have multiple bands crossing the Fermi energy. More recently it has been suggested that SrPtAs, a superconductor with a locally NCS structure, exhibits a chiral (d+id)-wave state [5]. Both Sr_{2}RuO_{4} and SrPtAs break time-reversal symmetry [6, 7].
+
+In contrast to superconductors with a centrosymmetric (CS) crystal structure where parity is a good quantum number and the Cooper pairs form in a purely spin-singlet or spin-triplet state, the lack of a center inversion in a NCS superconductor means parity is no longer a good quantum number. Anti-symmetric spin-orbit coupling (ASOC) can then lead to a mixing of the singlet and triplet pair states. This mixing gives rise to interesting behavior including time-reversal symmetry breaking [8, 9, 10] and upper critical fields that exceed the Pauli limit. NCS superconductors with a chiral structure are rare but examples do exist. For example, Li_{2}(Pd_{1-x}Pt_{x})_{3}B (0\leqslant x\leqslant 1) has an antiperovskite structure (NCS chiral space group P4_{3}32). Li_{2}Pd_{3}B is an s-wave superconductor, while the stronger ASOC in Li_{2}Pt_{3}B enhances the triplet component, producing line nodes in the gap, as revealed by the linear temperature dependence of the magnetic penetration depth \lambda(T) at low T[11, 12]. Mo_{3}Al_{2}C (NCS chiral space group P4_{3}32) is a strongly coupled superconductor with a T_{\rm c} of 9 K. NMR and electronic heat capacity data, along with a pressure-enhanced T_{\rm c}, suggest Mo_{3}Al_{2}C has a nodal gap with singlet-triplet mixing [13, 14].
+
+Multigap superconductivity has been reported in several classes of superconductor including the iron pnictides [15, 16, 17] and the borides including MgB_{2}[16, 18, 19, 20, 21]. There are several nonchiral NCS superconductors that exhibit multigap behavior. For example, Y_{2}C_{3} is proposed to have a double gap, each with s-wave symmetry and interband coupling. Even in CS materials, a combination of strong spin-orbit (SO) coupling and disorder can have profound effects on the superconducting properties. The R_{2}Pd_{3}S_{5} (x\leqslant 1) family of materials where R= Nb or Ta with the CS space group C2/m are particularly noteworthy in this regard [22, 23, 24]. Strong SO coupling, along with Anderson localization resulting from a level of disorder due to Pd deficiency, leads to highly anisotropic upper critical fields that in some cases far exceed the Pauli limit [e.g., Nb_{2}Pd_{0.81}S_{5}, T_{\rm c}\sim 6.6 K, and H_{\rm c2}(0) along the b axis of 37 T] [22].
+
+TaRh_{2}B_{2} and NbRh_{2}B_{2} are both NCS superconductors with a chiral structure and have the potential to exhibit similar exciting physics. The first report on this material [1] shows TaRh_{2}B_{2} has a trigonal structure (space group P3_{1}), with a T_{\rm c} of 5.8 K and an upper critical field that exceeds the Pauli limit. Here, we have used a combination of muon spectroscopy and heat capacity to probe the nature of the superconducting state of TaRh_{2}B_{2}. We show that TaRh_{2}B_{2} can be best described using a two-gap (s+s)-wave model. We clearly demonstrate that TaRh_{2}B_{2} is a type-II superconductor with an upper critical field, \mu_{0}H_{\rm c2}=15.2(1) T, that is significantly higher than previous reported [1] and well above the Pauli limit.
+
+ Experimental details.Polycrystalline samples of TaRh_{2}B_{2} were prepared from the constituent elements using the synthesis method described earlier [1,25]. Powder x-ray diffraction (PXRD) performed using a Panalytical X-Pert Pro diffractometer showed the material forms with a trigonal P31 structure and lattice parameters a=4.6984(2) A and c=8.7338(5) A. The samples were confirmed to be single phase to within the detection limit of the technique.
+
+A Quantum Design Physical Property Measurement System (PPMS) with a ^{3}He insert was used to measure ac resistivity (\rho) and heat capacity (C) from 0.5 to 300 K in fields up to 9 T. \rho(T) measurements were extended to 15 T using an Oxford Instruments cryomagnet.
+
+Zero-field (ZF) and transverse-field (TF) muon spin relaxation/rotation (\muSR) experiments were carried out using the MuSR spectrometer at the ISIS pulsed muon facility. The muons implanted into the sample rapidly thermalize, before decaying with a mean lifetime of 2.2 \mus. The decay positrons are recorded by 64 scintillation detectors positioned in circular arrays around the sample. A full description of the detector geometries is given in Ref. [26]. Stray fields at the sample position were canceled to within 1 \muT by an active compensation system. The powdered TaRh_{2}B_{2} sample was mounted on a 99.995% silver plate and placed in a ^{3}He refrigerator, allowing data to be collected between 0.3 \leqslant T\leqslant 8.5 K, in transverse fields up to 40 mT.
+
+Characterization of the superconducting state.Heat capacity and resistivity data show TaRh_{2}B_{2} is a bulk type-II superconductor with a superconducting transition temperature T_{\rm c}=6.00(5) K. A more comprehensive set of characterization data is provided in the Supplemental Material [25]. Figure 1(a) shows \rho(T) for TaRh_{2}B_{2} close to T_{\rm c} in different magnetic fields. The resistivity just above T_{\rm c} is high (\sim2 m\Omega cm), with an upturn in \rho(T) suggesting a degree of localization [23]. The transition broadens and shifts to lower T with increasing field. An anomaly in specific heat at T_{\rm c} confirms bulk superconductivity [see Fig. 1(b)]. \gamma_{\rm h}=4.29(6) mJ/mol K^{2} and \Delta C/\gamma_{\rm h}T_{\rm c}=1.57(2) is larger than the 1.43 expected from conventional Bardeen-Cooper-Schrieffer (BCS) superconductors, suggesting the presence of enhanced electron-phonon (e-p) coupling.
+
+The critical temperatures or upper critical fields extracted from the midpoint of the resistive transition, or the anomaly in C(T) at the superconducting transition, are collected together in Fig. 1(c). The upper critical field \mu_{0}H_{\rm c2}(T) is almost linear in T at lower fields. The data deviate from the Werthamer-Helfand-Hohenberg (WHH) model [27] at lower T and so we use a phenomenological Ginzburg-Landau (GL) expression H_{\rm c2}(T)=H_{\rm c2}(0)[1-(T/T_{\rm c})^{2}]/[1+(T/T_{\rm c})^{2}] to estimate \mu_{0}H_{\rm c2}(0)=15.2(1) T, which is well above the Pauli limit of \mu_{0}H^{\rm p}[\rm T]=1.85\times T_{\rm c}[K]=11.1(1) T. The temperature dependence of the electronic specific heat C_{\rm el}(T) provides important information about the nature of the superconducting gap (see Fig. 2). Immediately below T_{\rm c}, C_{\rm el}(T) clearly deviates from a simple s-wave BCS-like behavior, instead exhibiting a T^{3} dependence (see the inset of Fig. 2). A similar behavior is seen in other two-gap superconductors including Lu_{2}Fe_{3}Si_{5}[28,29] and MgB_{2}[18,21]. In these materials, a shoulder in C_{\rm el}(T) is followed by a rapid fall at lower T as the second gap opens. As seen in Fig. 2, we observe a flattening in C_{\rm el}(T) in TaRh_{2}B_{2} at low temperature due to a hyperfine contribution. The zero-field C_{\rm el}(T) data from T_{\rm c} to 1.5 K were fit using a single-gap isotropic s-wave, a line nodal d-wave, an isotropic two-gap (s+s)-wave, and an (s+d)-wave
+
+Figure 2: Zero-field normalized electronic specific heat of TaRh_{2}B_{2} with a single-gap isotropic s-wave (yellow), a line nodal d-wave (purple), an isotropic two-gap (s+s)-wave (blue), and a two-gap (s+d)-wave model (dark red). The inset shows a linear fit to the zero-field C(T)/T vs T^{2}, indicating a T^{3} dependence to the specific heat.
+
+Figure 1: (a) Resistivity vs temperature for TaRh_{2}B_{2} in fields from 0 to 9 T in 0.5-T steps. The black (red) dashed line(s) are at 50% (95% and 5%) of the resistivity just above the superconducting transition. (b) C(T)/T vs T^{2} in several applied fields up to 8 T. (c) Temperature dependence of the upper critical field for TaRh_{2}B_{2}. Points were extracted from the midpoint (50%) of the resistive transition and the anomaly in C(T) at the midpoint of the superconducting transition. The dashed and dashed-dotted lines show the expected \mu_{0}H_{\rm c2}(T) from the WHH and GL models, respectively.
+
+  model [30] with the two-gap models producing a better fit to the data (shown in Fig. 2). The gap values for the (s+s)-wave fit are \Delta_{0.1}/k_{\rm B}T_{\rm c}=2.19(12), \Delta_{0.2}/k_{\rm B}T_{\rm c}=1.1(3) with a weighting of 4:1. The larger gap is above the BCS value of 1.76, again indicating moderate e-p coupling.
+
+_Zero-field \muSR measurements_. Zero-field (ZF) muon spin relaxation spectra collected at temperatures above (7 K) and below (0.3 K) T_{\rm c} are shown in Fig. 3(a). In these experiments, any muons stopped in the silver sample holder give a time-independent background. There is no indication of a precessional signal ruling out the possibility of a large internal field and hence long-range magnetic order in TaRh_{2}B_{2} down to at least 300 mK. In the absence of atomic moments, the muon spin relaxation is due to static, randomly oriented local fields associated with the nuclear moments at the muon site. The solid lines in Fig. 3(a) are fits using a Gaussian Kubo-Toyabe expression [31]. The fact that the spectra above and below T_{\rm c} are identical confirms time-reversal symmetry is preserved in TaRh_{2}B_{2} in the superconducting state.
+
+_Transverse-field \muSR measurements_. Transverse-field \muSR experiments were performed in the superconducting mixed state in applied fields of 30 and 40 mT, well above the \mu_{0}H_{\rm c1}(0)\sim 4 mT of TaRh_{2}B_{2}[25]. In this geometry, the detectors in the spectrometer were grouped in eight blocks, each with a phase offset \phi. In order to ensure the most uniform flux-line lattice possible, the magnetic field was applied above T_{\rm c} and the sample cooled to a base temperature. The data were then collected in field-cooled-warming (FCW) mode. A typical TF-\muSR precession signal for TaRh_{2}B_{2} in 30 mT at 300 mK is shown in Fig. 3(b). Above T_{\rm c} the signal decays with time because of the inhomogeneous field distribution of the flux-line lattice. The depolarization above T_{\rm c} is reduced but still persists due to randomly oriented nuclear magnetic moments. The TF spectra were fit using a sinusoidal oscillating function with a Gaussian relaxation, an oscillatory background term arising from the muons implanted directly into the silver sample holder that do not depolarize, and a linear background,
+
+\[G(t) = A_{1}\exp\left(-\frac{\sigma^{2}t^{2}}{2}\right)\cos\left(2\pi v _{1}t+\phi\right)\] (1) \[+ A_{2}\cos\left(2\pi v_{2}t+\phi\right)+A_{0},\]
+
+where v_{1} and v_{2} are the frequencies of the muon precession signal and the background signal, respectively, A_{0} is a flat background, and \sigma is the Gaussian muon spin relaxation rate. The superconducting contribution to the relaxation rate \sigma_{\rm se} can be calculated from \sigma_{\rm se}=\sqrt{(\sigma^{2}-\sigma_{\rm n}^{2})}, where \sigma_{\rm n} is the nuclear magnetic dipolar contribution, which is assumed to be temperature independent.
+
+For a type-II superconductor with a large upper critical field and a hexagonal Abrikosov vortex lattice, \sigma_{\rm se} is related to the magnetic penetration depth \lambda by the expression \frac{\sigma_{\rm e}^{2}(T)}{\gamma_{\rm n}^{2}}=0.00371\frac{\Phi_{0}^{2}}{ \lambda^{2}(T)}, where \gamma_{\rm n}/2\pi=135.5 MHz/T is the muon gyromagnetic ratio and \Phi_{0}=2.068\times 10^{-15} Wb is the magnetic-flux quantum. \lambda is directly related to the superfluid density from which the nature of the superconducting gap can be determined. In the clean limit, the temperature dependence of the London magnetic penetration depth \lambda(T) can be calculated using the following expression,
+
+\[\left[\frac{\lambda^{-2}(T,\Delta_{0.j})}{\lambda^{-2}(0,\Delta_ {0.j})}\right] = 1+\frac{1}{\pi}\int_{0}^{2\pi}\int_{\Delta_{(T,0)}}^{\infty} \left(\frac{\partial f}{\partial E}\right)\] (2) \[\times\frac{EdEd\phi}{\sqrt{E^{2}-\Delta_{i}(T,\phi)^{2}}},\]
+
+where f=[1+\exp\left(E/k_{B}T\right)]^{-1} is the Fermi function, and the temperature and angular dependence of the gap is \Delta(T,\phi)=\Delta_{0}\delta(T/T_{c})g(\phi). Here, g(\phi) is the angular dependence of the superconducting gap function and is 1 for an s-wave gap and |\cos\left(2\phi\right)| for a d-wave gap where \phi is the azimuthal angle along the Fermi surface. \Delta(0) is the gap magnitude at 0 K and the temperature dependence of the gap is approximated by [32]\delta(T/T_{\rm c})=\tanh\left\{1.82[1.018(T_{c}/T-1)]^{0.51}\right\}. For the multigap analysis we have used a weighted sum of the two gaps given by
+
+\[\left[\frac{\lambda^{-2}(T,\Delta_{0})}{\lambda^{-2}(0,\Delta_{0})}\right]=w \left[\frac{\lambda^{-2}(T,\Delta_{0.1})}{\lambda^{-2}(0,\Delta_{0.1})}\right] +(1-w)\left[\frac{\lambda^{-2}(T,\Delta_{0.2})}{\lambda^{-2}(0,\Delta_{0.2})}\right].\] (3)
+
+Figure 3(c) shows \lambda^{-2}(T). We obtain good fits to the data, as measured by \chi^{2}_{\rm norm} and the form of the normalized residual, using a two-gap (s+s)-wave model [see Fig. 3(c)]. The \lambda^{-2}(T) data were also fit using a single isotropic s-wave, a d-wave, and an (s+d)-wave model. The parameters extracted from
+
+Figure 3: (a) Zero-field \muSR time spectra collected at 0.3 (green) and 7.0 K (purple) show TRS is preserved in TaRh_{2}B_{2}. (b) Transverse-field \muSR time spectra for TaRh_{2}B_{2} collected at 7.0 (top) and 0.3 K (bottom) in an applied field of 30 mT. The solid lines are fits using Eq. (1). The Gaussian decay of the oscillatory signal shows the effect of the flux-line lattice. (c) Inverse square of the London penetration depth \lambda^{-2} as a function of temperature for TaRh_{2}B_{2}. The lines are fits to the data using Eqs. (2) and (3) for one- and two-gap models. The inset shows the low-temperature data on an expanded scale.
+
+  these fits are given in Table 1. There is little difference between the quality of the fits for the (s+s) and (s+d) models, as measured by \chi^{2}_{\rm norm}, with the (s+s)-wave model just preferred. Figure 3(c) clearly shows that a single-gap s-wave model does not produce a good fit. The value of the larger energy gap for the (s+s)-wave model is \Delta_{0.1}=1.16(4) meV, giving a superconducting gap ratio \Delta_{0.1}/k_{\rm B}T_{\rm c}=2.28(8), which is higher than the 1.76 expected for BCS superconductors, a further indication of the enhanced electron-phonon coupling in the superconducting state of TaRh_{2}B_{2}. The (s+s)-wave model gives a magnetic penetration depth \lambda(0)=648(5) nm, which is higher than the value calculated from magnetization [1,25].
+
+_Discussion._ Muon spectroscopy, heat capacity, and resistivity measurements have been carried out on the chiral NCS superconductor TaRh_{2}B_{2}. We show TaRh_{2}B_{2} is a bulk type-II superconductor with a T_{\rm c}=6.00(5) K driven by moderate electron-phonon coupling. Zero-field \muSR shows time-reversal symmetry is preserved in the superconducting state. Our results clearly show strong evidence for multigap superconductivity in TaRh_{2}B_{2}. The temperature dependence of both the electronic heat capacity and the penetration depth, extracted from TF \muSR data, reveal this multigap nature, with either an isotropic (s+s)-wave or an (s+d)-wave order parameter. For both models, the value of the larger gap \Delta_{0.1}/k_{\rm B}T_{\rm c} extracted from the \muSR and heat capacity data is higher than the BCS value of 1.76.
+
+We determine a number of other important superconducting parameters for this NCS superconductor with a chiral structure [25]. In particular, we show that the upper critical field \mu_{0}H_{\rm c2}(0) exceeds the Pauli limit. There are several potential sources for the suppression of paramagnetic pair breaking. Any triplet superconducting component should be robust to paramagnetic pair breaking [2,3], but TaRh_{2}B_{2} appears to be a superconductor in the dirty limit with considerable localization of the carriers and perhaps some disorder due to variations in the stoichiometry [25]. This is likely to suppress any triplet component that may be present. Strong coupling can increase H_{\rm c2}(0). The fit to the C_{\rm el}(T) below T_{\rm c} as well as the jump in heat capacity at T_{\rm c} suggest the coupling is only moderately enhanced, however, multigap behavior can sometimes reduce the jump at T_{\rm c}[21,29]. Spin-orbit scattering associated with the presence of heavier elements Ta and Rh could help to increase H_{\rm c2}(0) in TaRh_{2}B_{2} (cf. Ta_{2}Pd_{x}S_{4} and related R_{2}Pd_{x}S_{5} materials [22,23]). H_{\rm c2}(0) can also be increased by a Stoner enhancement [33].
+
+The observed multigap nature of the superconductivity is also likely to play an important role in augmenting the upper critical field [34]. Further investigations into the effects driving this enhancement in the upper critical field are necessary, but these will require, for example, a much more detailed understanding of the density of states. High-quality single crystals are urgently required to further investigate the superconducting order parameter of TaRh_{2}B_{2} and to confirm the mechanism allowing for a Pauli-limit violation in this compound.
+
+_Acknowledgments._ This work is funded by the EPSRC, United Kingdom, through Grant No. EP/M028771/1. This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (Grant Agreement No. 681260).
+
+## References
+
+* [1] E. M. Carnicom, W. Xie, T. Klimczuk, J. Lin, K. Gornicka, Z. Sobczak, N. P. Ong, and R. J. Cava, Sci. Adv. **4**, eaar7969 (2018).
+* [2] E. Bauer and M. Sigrist, _Non-centrosymmetric Superconductors: Introduction and Overview_ (Springer, Heidelberg, 2012).
+* [3] M. Smidman, M. B. Salamon, H. Q. Yuan, and D. F. Agterberg, Rep. Prog. Phys. **80**, 036501 (2017).
+* [4] C. Kallin and J. Berlinsky, Rep. Prog. Phys. **79**, 054502 (2016).
+* [5] M. H. Fischer, T. Neupert, C. Platt, A. P. Schnyder, W. Hanke, J. Goryo, R. Thomale, and M. Sigrist, Phys. Rev. B **89**, 020509 (2014).
+* [6] G. M. Luke, Y. Fudamoto, K. M. Kojima, M. I. Larkin, J. Merrin, B. Nachumi, Y. J. Uemura, Y. Maeno, Z. Q. Mao, Y. Mori, H. Nakamura, and M. Sigrist, Nature (London) **394**, 558 (1998).
+* [7] P. K. Biswas, H. Luetkens, T. Neupert, T. Sturzer, C. Baines, G. Pascua, A. P. Schnyder, M. H. Fischer, J. Goryo, M. R. Lees, H. Maeter, F. Bruckner, H.-H. Klauss, M. Nicklas, P. J. Baker, A. D. Hillier, M. Sigrist, A. Amato, and D. Johrendt, Phys. Rev. B **87**, 180503 (2013).
+* [8] A. D. Hillier, J. Quintanilla, and R. Cywinski, Phys. Rev. Lett. **102**, 117007 (2009).
+* [9] R. P. Singh, A. D. Hillier, B. Mazidian, J. Quintanilla, J. F. Annett, D. M. Paul, G. Balakrishnan, and M. R. Lees, Phys. Rev. Lett. **112**, 107002 (2014).
+* [10] J. A. T. Barker, D. Singh, A. Thamizhavel, A. D. Hillier, M. R. Lees, G. Balakrishnan, D. M. Paul, and R. P. Singh, Phys. Rev. Lett. **115**, 267001 (2015).
+* [11] H. Q. Yuan, D. F. Agterberg, N. Hayashi, P. Badica, D. Vandervelde, K. Togano, M. Sigrist, and M. B. Salamon, Phys. Rev. Lett. **97**, 017006 (2006).
+* [12] M. Nishiyama, Y. Inada, and G.-Q. Zheng, Phys. Rev. Lett. **98**, 047002 (2007).
+* [13] A. B. Karki, Y. M. Xiong, I. Vekhter, D. Browne, P. W. Adams, D. P. Young, K. R. Thomas, J. Y. Chan, H. Kim, and R. Prozorov, Phys. Rev. B **82**, 064512 (2010).
+
+\begin{table}
+\begin{tabular}{l l l l} Model & d-wave & (s+s)-wave & (s+d)-wave \\ \hline w & 1 & 0.89(2) & 0.51(2) \\ \Delta_{0.1} (meV) & 1.92(7) & 1.16(4) & 1.30(6) \\ \Delta_{0.2} (meV) & & 0.14(5) & 1.44(5) \\ \Delta_{0.1}/k_{\rm B}T_{\rm c} & 3.78(14) & 2.28(8) & 2.56(11) \\ \Delta_{0.2}/k_{\rm B}T_{\rm c} & & 0.27(9) & 2.83(9) \\ \lambda^{-2}(0) (\mum^{-2}) & 2.44(2) & 2.38(2) & 2.37(4) \\ \chi^{2}_{\rm norm} & 1.81 & 1.18 & 1.35 \\ \end{tabular}
+\end{table}
+Table 1: Superconducting gap parameters for TaRh_{2}B_{2} extracted from the fits to the penetration depth data using a BCS model in the clean limit.
+
+  * Bauer et al. (2010) E. Bauer, G. Rogl, X.-Q. Chen, R. T. Khan, H. Michor, G. Hilscher, E. Roganian, K. Kumagai, D. Z. Li, Y. Y. Li, R. Podloucky, and P. Rogl, Phys. Rev. B **82**, 064511 (2010).
+* Stewart (2011) G. R. Stewart, Rev. Mod. Phys. **83**, 1589 (2011).
+* Khasanov and Guguchia (2015) R. Khasanov and Z. Guguchia, Supercond. Sci. Technol. **28**, 034003 (2015).
+* Si et al. (2016) Q. Si, R. Yu, and E. Abrahams, Nat. Rev. Mater. **1**, 16017 (2016).
+* Bouquet et al. (2001) F. Bouquet, R. A. Fisher, N. E. Phillips, D. G. Hinks, and J. D. Jorgensen, Phys. Rev. Lett. **87**, 047001 (2001).
+* Liu et al. (2001) A. Y. Liu, I. I. Mazin, and J. Kortus, Phys. Rev. Lett. **87**, 087005 (2001).
+* Iavarone et al. (2002) M. Iavarone, G. Karapetrov, A. E. Koshelev, W. K. Kwok, G. W. Crabtree, D. G. Hinks, W. N. Kang, E.-M. Choi, H. J. Kim, H.-J. Kim, and S. I. Lee, Phys. Rev. Lett. **89**, 187002 (2002).
+* Zehetmayer (2013) M. Zehetmayer, Supercond. Sci. Technol. **26**, 043001 (2013).
+* Zhang et al. (2013) Q. Zhang, G. Li, D. Rhodes, A. Kiswandhi, T. Besara, B. Zeng, J. Sun, T. Siegrist, M. D. Johannes, and L. Balicas, Sci. Rep. **3**, 1446 (2013).
+* Lu et al. (2014) Y. Lu, T. Takayama, A. F. Bangura, Y. Katsura, D. Hashizume, and H. Takagi, J. Phys. Soc. Jpn. **83**, 023702 (2014).
+* Biswas et al. (2015) P. K. Biswas, H. Luetkens, X. Xu, J. H. Yang, C. Baines, A. Amato, and E. Morenzoni, Phys. Rev. B **91**, 100504 (2015).
+* (25) See Supplemental Material at http://link.aps.org/supplemental/10.1103/PhysRevB.98.014502 for a more comprehensive set of characterization data for TaRh_{2}B_{2}, which includes Refs. [35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 
+
+# Multigap superconductivity in chiral noncentrosymmetric TaRh_{2}B_{2}
+
+D. A. Mayoh
+
+d.mayoh@warwick.ac.uk Physics Department, University of Warwick, Coventry CV4 7AL, United Kingdom
+
+A. D. Hillier
+
+ISIS Facility, STFC Rutherford Appleton Laboratory, Harwell Science and Innovation Campus, Oxfordshire OX11 0QX, United Kingdom
+
+K. Gotze
+
+Physics Department, University of Warwick, Coventry CV4 7AL, United Kingdom
+
+D. McK. Paul
+
+Physics Department, University of Warwick, Coventry CV4 7AL, United Kingdom
+
+G. Balakrishnan
+
+Physics Department, University of Warwick, Coventry CV4 7AL, United Kingdom
+
+M. R. Lees
+
+Physics Department, University of Warwick, Coventry CV4 7AL, United Kingdom
+
+November 6, 2021
+
+###### Abstract
+
+We report the observation of multigap superconductivity in TaRh_{2}B_{2}. We show TaRh_{2}B_{2} is a bulk type-II superconductor with a transition temperature T_{\rm c}=6.00(5) K. We present transverse-field muon spin relaxation data where the superconducting gap can be fit using a two-gap (s+s)-wave model. We also report the zero-field electronic specific heat in the superconducting state that is best described by the same (s+s) model, providing further evidence of multiband behavior in this superconductor. Zero-field muon spin relaxation measurements show time-reversal symmetry is preserved in the superconducting state. We demonstrate that TaRh_{2}B_{2} has an upper critical field of 15.2(1) T, which is significantly higher than previously reported and exceeds the Pauli limit.
+
+pacs: 10.1103/PhysRevB.98.014502 +
+Footnote †: preprint: PHYSICAL REVIEW B **98**, 014502 (2018)
+
+_Introduction_. The discovery of two noncentrosymmetric (NCS) superconductors with chiral structures, TaRh_{2}B_{2} and NbRh_{2}B_{2}[1], has added a new twist to an already exciting area of superconductivity research [2, 3]. For all superconductors, the topology of the electronic band structure, along with the underlying crystal structure, play vital roles in determining the superconducting properties of the material.
+
+For a simple s-wave, electron-phonon mediated superconductor with a single Fermi surface, the gap function has the full symmetry of the crystal. Higher angular momentum (p-, d-, and f-wave) coupling channels can lead to nodes in the gap and if, e.g., two equivalent gap functions are degenerate, a chiral state such as (p_{x}+ip_{y}) where the gap function winds around some axis of the Fermi surface. Chiral superconductivity may also arise due to the presence of several Fermi sheets, requiring multiple gap functions to describe the superconducting state. Chiral superconductors can exhibit broken time-reversal symmetry (TRS) and support exotic topologically protected edge states, surface currents, and Majorana modes [4]. Two of the most studied candidate chiral superconductors, the heavy fermion f-wave superconductor UPt_{3}, and the p-wave oxide superconductor Sr_{2}RuO_{4}, have multiple bands crossing the Fermi energy. More recently it has been suggested that SrPtAs, a superconductor with a locally NCS structure, exhibits a chiral (d+id)-wave state [5]. Both Sr_{2}RuO_{4} and SrPtAs break time-reversal symmetry [6, 7].
+
+In contrast to superconductors with a centrosymmetric (CS) crystal structure where parity is a good quantum number and the Cooper pairs form in a purely spin-singlet or spin-triplet state, the lack of a center inversion in a NCS superconductor means parity is no longer a good quantum number. Anti-symmetric spin-orbit coupling (ASOC) can then lead to a mixing of the singlet and triplet pair states. This mixing gives rise to interesting behavior including time-reversal symmetry breaking [8, 9, 10] and upper critical fields that exceed the Pauli limit. NCS superconductors with a chiral structure are rare but examples do exist. For example, Li_{2}(Pd_{1-x}Pt_{x})_{3}B (0\leqslant x\leqslant 1) has an antiperovskite structure (NCS chiral space group P4_{3}32). Li_{2}Pd_{3}B is an s-wave superconductor, while the stronger ASOC in Li_{2}Pt_{3}B enhances the triplet component, producing line nodes in the gap, as revealed by the linear temperature dependence of the magnetic penetration depth \lambda(T) at low T[11, 12]. Mo_{3}Al_{2}C (NCS chiral space group P4_{3}32) is a strongly coupled superconductor with a T_{\rm c} of 9 K. NMR and electronic heat capacity data, along with a pressure-enhanced T_{\rm c}, suggest Mo_{3}Al_{2}C has a nodal gap with singlet-triplet mixing [13, 14].
+
+Multigap superconductivity has been reported in several classes of superconductor including the iron pnictides [15, 16, 17] and the borides including MgB_{2}[16, 18, 19, 20, 21]. There are several nonchiral NCS superconductors that exhibit multigap behavior. For example, Y_{2}C_{3} is proposed to have a double gap, each with s-wave symmetry and interband coupling. Even in CS materials, a combination of strong spin-orbit (SO) coupling and disorder can have profound effects on the superconducting properties. The R_{2}Pd_{3}S_{5} (x\leqslant 1) family of materials where R= Nb or Ta with the CS space group C2/m are particularly noteworthy in this regard [22, 23, 24]. Strong SO coupling, along with Anderson localization resulting from a level of disorder due to Pd deficiency, leads to highly anisotropic upper critical fields that in some cases far exceed the Pauli limit [e.g., Nb_{2}Pd_{0.81}S_{5}, T_{\rm c}\sim 6.6 K, and H_{\rm c2}(0) along the b axis of 37 T] [22].
+
+TaRh_{2}B_{2} and NbRh_{2}B_{2} are both NCS superconductors with a chiral structure and have the potential to exhibit similar exciting physics. The first report on this material [1] shows TaRh_{2}B_{2} has a trigonal structure (space group P3_{1}), with a T_{\rm c} of 5.8 K and an upper critical field that exceeds the Pauli limit. Here, we have used a combination of muon spectroscopy and heat capacity to probe the nature of the superconducting state of TaRh_{2}B_{2}. We show that TaRh_{2}B_{2} can be best described using a two-gap (s+s)-wave model. We clearly demonstrate that TaRh_{2}B_{2} is a type-II superconductor with an upper critical field, \mu_{0}H_{\rm c2}=15.2(1) T, that is significantly higher than previous reported [1] and well above the Pauli limit.
+
+ Experimental details.Polycrystalline samples of TaRh_{2}B_{2} were prepared from the constituent elements using the synthesis method described earlier [1,25]. Powder x-ray diffraction (PXRD) performed using a Panalytical X-Pert Pro diffractometer showed the material forms with a trigonal P31 structure and lattice parameters a=4.6984(2) A and c=8.7338(5) A. The samples were confirmed to be single phase to within the detection limit of the technique.
+
+A Quantum Design Physical Property Measurement System (PPMS) with a ^{3}He insert was used to measure ac resistivity (\rho) and heat capacity (C) from 0.5 to 300 K in fields up to 9 T. \rho(T) measurements were extended to 15 T using an Oxford Instruments cryomagnet.
+
+Zero-field (ZF) and transverse-field (TF) muon spin relaxation/rotation (\muSR) experiments were carried out using the MuSR spectrometer at the ISIS pulsed muon facility. The muons implanted into the sample rapidly thermalize, before decaying with a mean lifetime of 2.2 \mus. The decay positrons are recorded by 64 scintillation detectors positioned in circular arrays around the sample. A full description of the detector geometries is given in Ref. [26]. Stray fields at the sample position were canceled to within 1 \muT by an active compensation system. The powdered TaRh_{2}B_{2} sample was mounted on a 99.995% silver plate and placed in a ^{3}He refrigerator, allowing data to be collected between 0.3 \leqslant T\leqslant 8.5 K, in transverse fields up to 40 mT.
+
+Characterization of the superconducting state.Heat capacity and resistivity data show TaRh_{2}B_{2} is a bulk type-II superconductor with a superconducting transition temperature T_{\rm c}=6.00(5) K. A more comprehensive set of characterization data is provided in the Supplemental Material [25]. Figure 1(a) shows \rho(T) for TaRh_{2}B_{2} close to T_{\rm c} in different magnetic fields. The resistivity just above T_{\rm c} is high (\sim2 m\Omega cm), with an upturn in \rho(T) suggesting a degree of localization [23]. The transition broadens and shifts to lower T with increasing field. An anomaly in specific heat at T_{\rm c} confirms bulk superconductivity [see Fig. 1(b)]. \gamma_{\rm h}=4.29(6) mJ/mol K^{2} and \Delta C/\gamma_{\rm h}T_{\rm c}=1.57(2) is larger than the 1.43 expected from conventional Bardeen-Cooper-Schrieffer (BCS) superconductors, suggesting the presence of enhanced electron-phonon (e-p) coupling.
+
+The critical temperatures or upper critical fields extracted from the midpoint of the resistive transition, or the anomaly in C(T) at the superconducting transition, are collected together in Fig. 1(c). The upper critical field \mu_{0}H_{\rm c2}(T) is almost linear in T at lower fields. The data deviate from the Werthamer-Helfand-Hohenberg (WHH) model [27] at lower T and so we use a phenomenological Ginzburg-Landau (GL) expression H_{\rm c2}(T)=H_{\rm c2}(0)[1-(T/T_{\rm c})^{2}]/[1+(T/T_{\rm c})^{2}] to estimate \mu_{0}H_{\rm c2}(0)=15.2(1) T, which is well above the Pauli limit of \mu_{0}H^{\rm p}[\rm T]=1.85\times T_{\rm c}[K]=11.1(1) T. The temperature dependence of the electronic specific heat C_{\rm el}(T) provides important information about the nature of the superconducting gap (see Fig. 2). Immediately below T_{\rm c}, C_{\rm el}(T) clearly deviates from a simple s-wave BCS-like behavior, instead exhibiting a T^{3} dependence (see the inset of Fig. 2). A similar behavior is seen in other two-gap superconductors including Lu_{2}Fe_{3}Si_{5}[28,29] and MgB_{2}[18,21]. In these materials, a shoulder in C_{\rm el}(T) is followed by a rapid fall at lower T as the second gap opens. As seen in Fig. 2, we observe a flattening in C_{\rm el}(T) in TaRh_{2}B_{2} at low temperature due to a hyperfine contribution. The zero-field C_{\rm el}(T) data from T_{\rm c} to 1.5 K were fit using a single-gap isotropic s-wave, a line nodal d-wave, an isotropic two-gap (s+s)-wave, and an (s+d)-wave
+
+Figure 2: Zero-field normalized electronic specific heat of TaRh_{2}B_{2} with a single-gap isotropic s-wave (yellow), a line nodal d-wave (purple), an isotropic two-gap (s+s)-wave (blue), and a two-gap (s+d)-wave model (dark red). The inset shows a linear fit to the zero-field C(T)/T vs T^{2}, indicating a T^{3} dependence to the specific heat.
+
+Figure 1: (a) Resistivity vs temperature for TaRh_{2}B_{2} in fields from 0 to 9 T in 0.5-T steps. The black (red) dashed line(s) are at 50% (95% and 5%) of the resistivity just above the superconducting transition. (b) C(T)/T vs T^{2} in several applied fields up to 8 T. (c) Temperature dependence of the upper critical field for TaRh_{2}B_{2}. Points were extracted from the midpoint (50%) of the resistive transition and the anomaly in C(T) at the midpoint of the superconducting transition. The dashed and dashed-dotted lines show the expected \mu_{0}H_{\rm c2}(T) from the WHH and GL models, respectively.
+
+  model [30] with the two-gap models producing a better fit to the data (shown in Fig. 2). The gap values for the (s+s)-wave fit are \Delta_{0.1}/k_{\rm B}T_{\rm c}=2.19(12), \Delta_{0.2}/k_{\rm B}T_{\rm c}=1.1(3) with a weighting of 4:1. The larger gap is above the BCS value of 1.76, again indicating moderate e-p coupling.
+
+_Zero-field \muSR measurements_. Zero-field (ZF) muon spin relaxation spectra collected at temperatures above (7 K) and below (0.3 K) T_{\rm c} are shown in Fig. 3(a). In these experiments, any muons stopped in the silver sample holder give a time-independent background. There is no indication of a precessional signal ruling out the possibility of a large internal field and hence long-range magnetic order in TaRh_{2}B_{2} down to at least 300 mK. In the absence of atomic moments, the muon spin relaxation is due to static, randomly oriented local fields associated with the nuclear moments at the muon site. The solid lines in Fig. 3(a) are fits using a Gaussian Kubo-Toyabe expression [31]. The fact that the spectra above and below T_{\rm c} are identical confirms time-reversal symmetry is preserved in TaRh_{2}B_{2} in the superconducting state.
+
+_Transverse-field \muSR measurements_. Transverse-field \muSR experiments were performed in the superconducting mixed state in applied fields of 30 and 40 mT, well above the \mu_{0}H_{\rm c1}(0)\sim 4 mT of TaRh_{2}B_{2}[25]. In this geometry, the detectors in the spectrometer were grouped in eight blocks, each with a phase offset \phi. In order to ensure the most uniform flux-line lattice possible, the magnetic field was applied above T_{\rm c} and the sample cooled to a base temperature. The data were then collected in field-cooled-warming (FCW) mode. A typical TF-\muSR precession signal for TaRh_{2}B_{2} in 30 mT at 300 mK is shown in Fig. 3(b). Above T_{\rm c} the signal decays with time because of the inhomogeneous field distribution of the flux-line lattice. The depolarization above T_{\rm c} is reduced but still persists due to randomly oriented nuclear magnetic moments. The TF spectra were fit using a sinusoidal oscillating function with a Gaussian relaxation, an oscillatory background term arising from the muons implanted directly into the silver sample holder that do not depolarize, and a linear background,
+
+\[G(t) = A_{1}\exp\left(-\frac{\sigma^{2}t^{2}}{2}\right)\cos\left(2\pi v _{1}t+\phi\right)\] (1) \[+ A_{2}\cos\left(2\pi v_{2}t+\phi\right)+A_{0},\]
+
+where v_{1} and v_{2} are the frequencies of the muon precession signal and the background signal, respectively, A_{0} is a flat background, and \sigma is the Gaussian muon spin relaxation rate. The superconducting contribution to the relaxation rate \sigma_{\rm se} can be calculated from \sigma_{\rm se}=\sqrt{(\sigma^{2}-\sigma_{\rm n}^{2})}, where \sigma_{\rm n} is the nuclear magnetic dipolar contribution, which is assumed to be temperature independent.
+
+For a type-II superconductor with a large upper critical field and a hexagonal Abrikosov vortex lattice, \sigma_{\rm se} is related to the magnetic penetration depth \lambda by the expression \frac{\sigma_{\rm e}^{2}(T)}{\gamma_{\rm n}^{2}}=0.00371\frac{\Phi_{0}^{2}}{ \lambda^{2}(T)}, where \gamma_{\rm n}/2\pi=135.5 MHz/T is the muon gyromagnetic ratio and \Phi_{0}=2.068\times 10^{-15} Wb is the magnetic-flux quantum. \lambda is directly related to the superfluid density from which the nature of the superconducting gap can be determined. In the clean limit, the temperature dependence of the London magnetic penetration depth \lambda(T) can be calculated using the following expression,
+
+\[\left[\frac{\lambda^{-2}(T,\Delta_{0.j})}{\lambda^{-2}(0,\Delta_ {0.j})}\right] = 1+\frac{1}{\pi}\int_{0}^{2\pi}\int_{\Delta_{(T,0)}}^{\infty} \left(\frac{\partial f}{\partial E}\right)\] (2) \[\times\frac{EdEd\phi}{\sqrt{E^{2}-\Delta_{i}(T,\phi)^{2}}},\]
+
+where f=[1+\exp\left(E/k_{B}T\right)]^{-1} is the Fermi function, and the temperature and angular dependence of the gap is \Delta(T,\phi)=\Delta_{0}\delta(T/T_{c})g(\phi). Here, g(\phi) is the angular dependence of the superconducting gap function and is 1 for an s-wave gap and |\cos\left(2\phi\right)| for a d-wave gap where \phi is the azimuthal angle along the Fermi surface. \Delta(0) is the gap magnitude at 0 K and the temperature dependence of the gap is approximated by [32]\delta(T/T_{\rm c})=\tanh\left\{1.82[1.018(T_{c}/T-1)]^{0.51}\right\}. For the multigap analysis we have used a weighted sum of the two gaps given by
+
+\[\left[\frac{\lambda^{-2}(T,\Delta_{0})}{\lambda^{-2}(0,\Delta_{0})}\right]=w \left[\frac{\lambda^{-2}(T,\Delta_{0.1})}{\lambda^{-2}(0,\Delta_{0.1})}\right] +(1-w)\left[\frac{\lambda^{-2}(T,\Delta_{0.2})}{\lambda^{-2}(0,\Delta_{0.2})}\right].\] (3)
+
+Figure 3(c) shows \lambda^{-2}(T). We obtain good fits to the data, as measured by \chi^{2}_{\rm norm} and the form of the normalized residual, using a two-gap (s+s)-wave model [see Fig. 3(c)]. The \lambda^{-2}(T) data were also fit using a single isotropic s-wave, a d-wave, and an (s+d)-wave model. The parameters extracted from
+
+Figure 3: (a) Zero-field \muSR time spectra collected at 0.3 (green) and 7.0 K (purple) show TRS is preserved in TaRh_{2}B_{2}. (b) Transverse-field \muSR time spectra for TaRh_{2}B_{2} collected at 7.0 (top) and 0.3 K (bottom) in an applied field of 30 mT. The solid lines are fits using Eq. (1). The Gaussian decay of the oscillatory signal shows the effect of the flux-line lattice. (c) Inverse square of the London penetration depth \lambda^{-2} as a function of temperature for TaRh_{2}B_{2}. The lines are fits to the data using Eqs. (2) and (3) for one- and two-gap models. The inset shows the low-temperature data on an expanded scale.
+
+  these fits are given in Table 1. There is little difference between the quality of the fits for the (s+s) and (s+d) models, as measured by \chi^{2}_{\rm norm}, with the (s+s)-wave model just preferred. Figure 3(c) clearly shows that a single-gap s-wave model does not produce a good fit. The value of the larger energy gap for the (s+s)-wave model is \Delta_{0.1}=1.16(4) meV, giving a superconducting gap ratio \Delta_{0.1}/k_{\rm B}T_{\rm c}=2.28(8), which is higher than the 1.76 expected for BCS superconductors, a further indication of the enhanced electron-phonon coupling in the superconducting state of TaRh_{2}B_{2}. The (s+s)-wave model gives a magnetic penetration depth \lambda(0)=648(5) nm, which is higher than the value calculated from magnetization [1,25].
+
+_Discussion._ Muon spectroscopy, heat capacity, and resistivity measurements have been carried out on the chiral NCS superconductor TaRh_{2}B_{2}. We show TaRh_{2}B_{2} is a bulk type-II superconductor with a T_{\rm c}=6.00(5) K driven by moderate electron-phonon coupling. Zero-field \muSR shows time-reversal symmetry is preserved in the superconducting state. Our results clearly show strong evidence for multigap superconductivity in TaRh_{2}B_{2}. The temperature dependence of both the electronic heat capacity and the penetration depth, extracted from TF \muSR data, reveal this multigap nature, with either an isotropic (s+s)-wave or an (s+d)-wave order parameter. For both models, the value of the larger gap \Delta_{0.1}/k_{\rm B}T_{\rm c} extracted from the \muSR and heat capacity data is higher than the BCS value of 1.76.
+
+We determine a number of other important superconducting parameters for this NCS superconductor with a chiral structure [25]. In particular, we show that the upper critical field \mu_{0}H_{\rm c2}(0) exceeds the Pauli limit. There are several potential sources for the suppression of paramagnetic pair breaking. Any triplet superconducting component should be robust to paramagnetic pair breaking [2,3], but TaRh_{2}B_{2} appears to be a superconductor in the dirty limit with considerable localization of the carriers and perhaps some disorder due to variations in the stoichiometry [25]. This is likely to suppress any triplet component that may be present. Strong coupling can increase H_{\rm c2}(0). The fit to the C_{\rm el}(T) below T_{\rm c} as well as the jump in heat capacity at T_{\rm c} suggest the coupling is only moderately enhanced, however, multigap behavior can sometimes reduce the jump at T_{\rm c}[21,29]. Spin-orbit scattering associated with the presence of heavier elements Ta and Rh could help to increase H_{\rm c2}(0) in TaRh_{2}B_{2} (cf. Ta_{2}Pd_{x}S_{4} and related R_{2}Pd_{x}S_{5} materials [22,23]). H_{\rm c2}(0) can also be increased by a Stoner enhancement [33].
+
+The observed multigap nature of the superconductivity is also likely to play an important role in augmenting the upper critical field [34]. Further investigations into the effects driving this enhancement in the upper critical field are necessary, but these will require, for example, a much more detailed understanding of the density of states. High-quality single crystals are urgently required to further investigate the superconducting order parameter of TaRh_{2}B_{2} and to confirm the mechanism allowing for a Pauli-limit violation in this compound.
+
+_Acknowledgments._ This work is funded by the EPSRC, United Kingdom, through Grant No. EP/M028771/1. This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (Grant Agreement No. 681260).
+
+## References
+
+* [1] E. M. Carnicom, W. Xie, T. Klimczuk, J. Lin, K. Gornicka, Z. Sobczak, N. P. Ong, and R. J. Cava, Sci. Adv. **4**, eaar7969 (2018).
+* [2] E. Bauer and M. Sigrist, _Non-centrosymmetric Superconductors: Introduction and Overview_ (Springer, Heidelberg, 2012).
+* [3] M. Smidman, M. B. Salamon, H. Q. Yuan, and D. F. Agterberg, Rep. Prog. Phys. **80**, 036501 (2017).
+* [4] C. Kallin and J. Berlinsky, Rep. Prog. Phys. **79**, 054502 (2016).
+* [5] M. H. Fischer, T. Neupert, C. Platt, A. P. Schnyder, W. Hanke, J. Goryo, R. Thomale, and M. Sigrist, Phys. Rev. B **89**, 020509 (2014).
+* [6] G. M. Luke, Y. Fudamoto, K. M. Kojima, M. I. Larkin, J. Merrin, B. Nachumi, Y. J. Uemura, Y. Maeno, Z. Q. Mao, Y. Mori, H. Nakamura, and M. Sigrist, Nature (London) **394**, 558 (1998).
+* [7] P. K. Biswas, H. Luetkens, T. Neupert, T. Sturzer, C. Baines, G. Pascua, A. P. Schnyder, M. H. Fischer, J. Goryo, M. R. Lees, H. Maeter, F. Bruckner, H.-H. Klauss, M. Nicklas, P. J. Baker, A. D. Hillier, M. Sigrist, A. Amato, and D. Johrendt, Phys. Rev. B **87**, 180503 (2013).
+* [8] A. D. Hillier, J. Quintanilla, and R. Cywinski, Phys. Rev. Lett. **102**, 117007 (2009).
+* [9] R. P. Singh, A. D. Hillier, B. Mazidian, J. Quintanilla, J. F. Annett, D. M. Paul, G. Balakrishnan, and M. R. Lees, Phys. Rev. Lett. **112**, 107002 (2014).
+* [10] J. A. T. Barker, D. Singh, A. Thamizhavel, A. D. Hillier, M. R. Lees, G. Balakrishnan, D. M. Paul, and R. P. Singh, Phys. Rev. Lett. **115**, 267001 (2015).
+* [11] H. Q. Yuan, D. F. Agterberg, N. Hayashi, P. Badica, D. Vandervelde, K. Togano, M. Sigrist, and M. B. Salamon, Phys. Rev. Lett. **97**, 017006 (2006).
+* [12] M. Nishiyama, Y. Inada, and G.-Q. Zheng, Phys. Rev. Lett. **98**, 047002 (2007).
+* [13] A. B. Karki, Y. M. Xiong, I. Vekhter, D. Browne, P. W. Adams, D. P. Young, K. R. Thomas, J. Y. Chan, H. Kim, and R. Prozorov, Phys. Rev. B **82**, 064512 (2010).
+
+\begin{table}
+\begin{tabular}{l l l l} Model & d-wave & (s+s)-wave & (s+d)-wave \\ \hline w & 1 & 0.89(2) & 0.51(2) \\ \Delta_{0.1} (meV) & 1.92(7) & 1.16(4) & 1.30(6) \\ \Delta_{0.2} (meV) & & 0.14(5) & 1.44(5) \\ \Delta_{0.1}/k_{\rm B}T_{\rm c} & 3.78(14) & 2.28(8) & 2.56(11) \\ \Delta_{0.2}/k_{\rm B}T_{\rm c} & & 0.27(9) & 2.83(9) \\ \lambda^{-2}(0) (\mum^{-2}) & 2.44(2) & 2.38(2) & 2.37(4) \\ \chi^{2}_{\rm norm} & 1.81 & 1.18 & 1.35 \\ \end{tabular}
+\end{table}
+Table 1: Superconducting gap parameters for TaRh_{2}B_{2} extracted from the fits to the penetration depth data using a BCS model in the clean limit.
+
+  * Bauer et al. (2010) E. Bauer, G. Rogl, X.-Q. Chen, R. T. Khan, H. Michor, G. Hilscher, E. Roganian, K. Kumagai, D. Z. Li, Y. Y. Li, R. Podloucky, and P. Rogl, Phys. Rev. B **82**, 064511 (2010).
+* Stewart (2011) G. R. Stewart, Rev. Mod. Phys. **83**, 1589 (2011).
+* Khasanov and Guguchia (2015) R. Khasanov and Z. Guguchia, Supercond. Sci. Technol. **28**, 034003 (2015).
+* Si et al. (2016) Q. Si, R. Yu, and E. Abrahams, Nat. Rev. Mater. **1**, 16017 (2016).
+* Bouquet et al. (2001) F. Bouquet, R. A. Fisher, N. E. Phillips, D. G. Hinks, and J. D. Jorgensen, Phys. Rev. Lett. **87**, 047001 (2001).
+* Liu et al. (2001) A. Y. Liu, I. I. Mazin, and J. Kortus, Phys. Rev. Lett. **87**, 087005 (2001).
+* Iavarone et al. (2002) M. Iavarone, G. Karapetrov, A. E. Koshelev, W. K. Kwok, G. W. Crabtree, D. G. Hinks, W. N. Kang, E.-M. Choi, H. J. Kim, H.-J. Kim, and S. I. Lee, Phys. Rev. Lett. **89**, 187002 (2002).
+* Zehetmayer (2013) M. Zehetmayer, Supercond. Sci. Technol. **26**, 043001 (2013).
+* Zhang et al. (2013) Q. Zhang, G. Li, D. Rhodes, A. Kiswandhi, T. Besara, B. Zeng, J. Sun, T. Siegrist, M. D. Johannes, and L. Balicas, Sci. Rep. **3**, 1446 (2013).
+* Lu et al. (2014) Y. Lu, T. Takayama, A. F. Bangura, Y. Katsura, D. Hashizume, and H. Takagi, J. Phys. Soc. Jpn. **83**, 023702 (2014).
+* Biswas et al. (2015) P. K. Biswas, H. Luetkens, X. Xu, J. H. Yang, C. Baines, A. Amato, and E. Morenzoni, Phys. Rev. B **91**, 100504 (2015).
+* (25) See Supplemental Material at http://link.aps.org/supplemental/10.1103/PhysRevB.98.014502 for a more comprehensive set of characterization data for TaRh_{2}B_{2}, which includes Refs. [35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 

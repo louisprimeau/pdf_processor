@@ -1,0 +1,153 @@
+Coexistence of multiphase superconductivity and ferromagnetism in lithiated iron selenide hydroxide [(Li1-_x_Fe_x_)OH]FeSe
+
+Christian Urban,\({}^{1}\) Ilya Valmianski,\({}^{1}\) Ursula Pachmayr,\({}^{2}\) Ali C. Basaran,\({}^{1}\) Dirk Johrendt,\({}^{2}\) and Ivan K. Schuller\({}^{1}\)
+
+\({}^{1}\)Department of Physics and Center for Advanced Nanoscience, University of California, San Diego, La Jolla, California 92093, USA
+
+\({}^{2}\)Department of Chemistry, Ludwig-Maximilians-Universitaet Muenchen, D-81377, Munich, Germany
+
+###### Abstract
+
+We present experimental evidence for (a) multiphase superconductivity and (b) coexistence of magnetism and superconductivity in a single structural phase of lithiated iron selenide hydroxide [(Li1-_x_Fe_x_)OH]FeSe. Magnetic field modulated microwave spectroscopy data confirms superconductivity with at least two distinct transition temperatures attributed to well-defined superconducting phases at \(T_{\text{SC1}}=40\pm 2\) K and \(T_{\text{SC2}}=35\pm 2\) K. Magnetometry data for the upper critical fields reveal a change in the magnetic order (\(T_{M}=12\) K) below \(T_{\text{SC1}}\) and \(T_{\text{SC2}}\) that is consistent with ferromagnetism. This occurs because the superconducting coherence length is much smaller than the structural coherence length, allowing for several different electronic and magnetic states on a single crystallite. The results give insight into the physics of complex multinary materials, where several phenomena governed by different characteristic length scales coexist.
+
+DOI: 10.1103/PhysRevB.97.024516
+
+024516
+
+## I Introduction
+
+Understanding the coexistence of physical phenomena in multinary compounds is key for the development of functional materials. Some important classes of such materials are multiferroics [1], magnetic superconductors [2], as well as interfacially controlled [3,4] and proximity effect driven compounds [5]. In many cases, the systems being investigated are doped and are inhomogeneous on length scales shorter than the characteristic coherence length of the particular phenomena under study. Thus, it is important to understand how different length scales interact to give rise to an overall global response.1
+
+Footnote 1: For a discussion of length scales see for instance Ref. [13].
+
+A particularly interesting phenomenon is the coexistence of superconductivity (SC) and magnetism within the same compound. Examples include reentrant SC [6,7], where the SC competes directly with magnetism, SC with a high concentration of magnetic elements [8], magnetic SC [9,10], superlattices of ferromagnetic (FM) and SC materials [11,12,13], molecular magnetic SC [14,15], and FM-SC created by charge doping [14,16] or high pressure [17]. Very recently there have been claims of SC coexisting with FM at interfaces of insulating oxides [4]. For a recent review see Refs. [4] and [18].
+
+Despite the many examples of materials that contain magnetic and SC elements, spatially coexisting SC and FM have been found in only a few systems and at very low temperatures. Significant efforts in the design of new materials by intercalating spacer layers into FeSe crystals led to the discovery of the FM-SC, lithiated iron selenide hydroxide [(Li0.8Fe0.2)OH]FeSe (LISH), with a record for FM-SC systems superconducting transition temperature (\(T_{\text{C}}\)) of 43 K [19]. The FM ordering temperature (10 K) is one of the highest and the SC volume fraction is very large, close to 100% at 2 K, despite the long-range magnetic order. The physical origin and nature of both transitions and its relation to each other in this class of Fe-based SC is still under debate [19,10,11,12,13,14,15,16,17,18,19,120,121,122,123,124,125,126].
+
+LISH is particularly well suited to address the interaction and length scales over which the structure, SC, and magnetism interact. In order to study these we have used a combination of conventional structural and magnetic methods, together with magnetic field modulated microwave spectroscopy (MFMMS). MFMMS is a unique, highly sensitive, and selective technique [27] which provides information about inhomogeneous materials exhibiting multiple phase transitions [28]. Specifically, it has been extensively used to study SC systems [29,29,30] with multiple superconducting phases [31]. A unique advantage over other methods is its ability to distinguish phase transitions of different origins within the same compound [28,29].
+
+In this study, we present two main results. First, we find that crystallographically single-phase polycrystalline samples of LISH exhibit multiple SC phases with distinct \(T_{\text{C}}\)'s. Magnetometry data reveal that the SC coherence length is substantially shorter than the x-ray coherence length. Second, we show that these SC phases are coincidental with a magnetic ordering appearing at \(T_{M}=12\) K. This magnetic ordering is consistent with ferromagnetism.
+
+## II Experimental
+
+Polycrystalline LISH was synthesized under hydrothermal conditions analogous to reference with \(x=0.2\)[19]. Briefly, iron metal (99.9%; 0.0851 g), selenourea (99%; 0.5 g), and LiOH \(\cdot\) H\({}_{2}\)O (3 g) were mixed with distilled water (10 mL), tightly sealed in a Teflon-lined steel autoclave (50 mL), and heated at 155 degC for 6 d. The shiny lamellar precipitates obtained were washed several times with distilled water and ethanol, and dried under dynamic vacuum. The resulting  compound is moderately temperature- and air sensitive and needs to be stored at \(-25\) degC under an inert (Ar) atmosphere. The transfer from the storage glass into the sample tubes for the MFMMS was done in an Ar glove box. The sample tube was then flushed 10 s with He gas before immediately being placed into the already cold measurement system (below \(-25\) degC).
+
+X-ray powder diffraction was carried out using a Huber G670 diffractometer with Cu-K\(\alpha_{1}\) radiation (\(\lambda=1.54\) A) and a Ge-111 monochromator. Structural parameters were obtained from Rietveld refinement [32,33] of these diffraction data using the TOBAS software package [34].
+
+Magnetization measurements were performed using a Quantum Design DynaCool system equipped with a vibrating sample magnetometer with a maximum field of 9 T and a temperature range between 1.8 and 400 K. The following protocol was used for the zero-field-cooling (ZFC) procedure: the samples were cooled to 2 K without applied field (\(H=0\) Oe). The magnetization was measured in a small field (typically 30 Oe) while heating the sample to 60 K, well above the \(T_{\text{c}}\). Subsequently, the field-cooling (FC) branch was obtained by cooling the sample to 2 K in the same small field. Hysteresis loops were recorded starting at zero field for different temperatures and the magnetization was measured as a function of increasing field up to the maximum field value. In between all measurements the magnet was oscillated around 0 Oe well above the sample \(T_{\text{c}}\) to minimize residual magnetic fields to less than 5 Oe.
+
+A customized Bruker EleXsys \(X\)-band (9.4-GHz) electron paramagnetic resonance apparatus was used to perform MFMMS. The spectrometer was operated in a nonconventional mode in which the microwave absorption signal was measured as a function of temperature. A 100-KHz 15-Oe peak-to-peak modulation field was used to enhance the signal to noise. A small (15 Oe) external magnetic field was applied and kept constant during the measurement. As a result, the total applied magnetic field was always positive to avoid field-dependent hysteretic effects. The sample was placed in the center of a rectangular dual-mode cavity with microwave magnetic field parallel to the modulation and external magnetic fields. The applied microwave power was chosen to be low enough (1 mW) to avoid sample heating. A flow cryostat was used to sweep the temperature from 300 to 4 K at 5 K/min.
+
+## III Results
+
+Figure 1 shows the measured (blue) x-ray powder pattern together with an excellent (see Table 1) refinement (red line) of a LISH single-phase compound. The crystallographic data obtained are included in Table 1. The numbers in between parentheses are a Gaussian estimate of the error in the last significant figure. The tetragonal structure consists of anti-PbO type layers of lithium-iron-hydroxide alternating with FeSe layers in good agreement with literature values [19-26]. The \(R\) values of the Rietveld refinement are exceptionally low (\(R_{\text{wp}}=1.57\), \(R_{\text{exp}}=1.28\)) and, for example, significantly better than the \(R\) values (\(R_{\text{wp}}=7.35\), \(R_{\text{exp}}=4.71\)) in the determination of the now-accepted structural model of Yttrium Barium Copper Oxide [35]. The measured diffraction peaks arise from the superposition of instrumentally broadened peaks therefore the peak width provides a lower limit for the structural coherence length. Using the Scherrer formula, a structural coherence length of x-ray diffraction \(\xi_{\text{XRD}}=91\) nm is obtained from the average width of the diffraction peaks between 8 and 100deg (\(2\theta\) angle).
+
+The MFMMS spectrum of the LISH at the lowest field (1.5 mT) as a function of temperature shows an abrupt increase at \(T_{\text{MFMMS},1}=38\) K, which is the typical signature of a superconducting transition (Fig. 2) [29]. Decreasing the temperature further reveals a strong and broad feature centered around 15 K which is also observed in MFMMS spectra of the nonmagnetic "sister" compound KFeSe [36] and further in a variety of cuprates [37,38]. Yazici _et al._[36] relate the origin of a similar broad peak to additional dissipation mechanisms like vortex motion and pinning, a Bragg glass-vortex liquid transition, or Josephson junctions (weak links) which create additional microwave absorption in the MFMMS [29]. Therefore the broad peak observed in the MFMMS spectra is assigned to a "background" which is not necessarily related to the phase purity and the onset of a magnetic or new superconducting phase. A ferromagnetic transition manifests itself as a dip as opposed to a peak and is difficult to detect due to the background peak.
+
+Figure 1: X-ray powder diffraction (blue), Rietveld refinement (red), and difference curve (gray) of ([Li\({}_{1-x}\)Fe\({}_{x}\)OH]FeSe. The excellent agreement between experiment and refinement indicates a well-defined structurally homogeneous sample. The inset shows the structural model of the compound.
+
+  When the applied magnetic field is increased to 20 mT the background decreases and a second transition around 32 K with an abrupt peak onset at approximately \(T_{\text{MFMMS},2}=T_{\text{SC2}}=35\) K becomes more pronounced, and is clearly distinct at 30 mT [Fig. 2(a)]. Both peaks shift as a function of field to lower temperatures, as is typical for SC. Both observations together indicate two different SC transitions related to two phases [28, 29]. An isothermal, low-field scan at 25 K shows a clockwise chirality which further supports the superconducting nature of the transitions [Fig. 2(b)] [29].
+
+Standard ZFC-FC magnetometry was performed with 30-Oe applied field using the protocol described above [Fig 2(e)]. The separation of the two magnetization branches at \(T_{\text{t}}=40\) K defines the SC transition temperature. The ZFC cooled curve saturates at low temperature and it implies full diamagnetism at 2 K. The slight upturn in both the ZFC and FC curves indicates ferromagnetic ordering.
+
+Isothermal magnetization measurements produced hysteresis curves which consist of the superposition of a paramagnetic curve and the hysteresis loop of a conventional superconductor [Fig. 2(c)]. To isolate the superconducting part of the signal a paramagnetic contribution had to be subtracted [Fig. 2(d)]. Simple paramagnetism implies that the magnetization per unit cell \(n(T)\) behaves as Brillouin functions using Curie's law [39] with a \(g\) factor, \(g=2\), and momenta \(J=3/2\), \(S=1/2\), and \(L=1\). However, the fitting parameter \(n(T)\) is a function of temperature and constant only between 13 and 30 K [Fig. 3(b)]. In this temperature region the paramagnetic contribution of \(n(13\text{--}30\,\text{K})=1.8\mu_{\text{B}}\) per unit cell is compatible with the estimation of an upper limit: \(2.64\,\mu_{\text{B}}\), using body-centered cubic (bcc) iron. The number of Fe atoms is 1.2 per unit cell and a magnetic moment per unit cell for iron in bcc form is \(2.2\,\mu_{\text{B}}/\text{atom}_{\text{Fe}}\). Below 13 K \(n(T)\) decreases, which suggests a change in the total magnetic order at 13 K. Roughly above 30 K \(n(T)\) increases with temperature, which supports another transition tentatively due to superconductivity setting in at that temperature supported by MFMMS at \(T_{\text{SC2}}=35\) K.
+
+After separating the paramagnetic and superconducting contributions, a lower (upper) critical field \(H_{\text{c1}}\) (\(H_{\text{c2}}\)) for each temperature was extracted from the superconducting hysteresis loop. The lower critical field \(H_{\text{c1}}\) is the point where the magnetization starts to deviate from the linear field dependence from the virgin curve [black curve, inset, Fig. 2(c)]. The upper critical fields at each temperature \(H_{\text{c2}}(T)\) were extracted from the SC hysteresis loops by fitting the data with a stretched exponential and by finding the field at which the upper branch decreases to three times the noise level above zero. Below 6 K the magnetic field of 9 T was not enough to close the loops and the upper critical fields were extrapolated.
+
+The zero-temperature upper and lower critical fields \(H_{\text{c1},2}\) (\(T=0\)) can usually be obtained from an extrapolation to \(T=0\) of \(H_{\text{c1},2}\) (T) with the following expressions [40, 41, 42]:
+
+\[H_{\text{c1}}(\,T)=H_{\text{c1}}(0\,\text{K})\Bigg{[}1-\left(\frac{T}{T_{c}} \right)^{2}\Bigg{]},\] (1)
+
+\[H_{\text{c2}}(\,T)=H_{\text{c2}}(0\,\text{K})\Bigg{[}\frac{1-\left(\frac{T}{T }\right)^{2}}{1+\left(\frac{T}{T_{c}}\right)^{2}}\Bigg{]}.\] (2)
+
+The lower critical field is therefore determined to \(H_{\text{c1}}(0\,\text{K})=8.3\,\,\pm 0.4\) mT with a transition temperature of \(39.3\pm 1.3\) K. The error bars in Fig. 3(a) are the standard deviations from approximately ten different experimental measurements of five samples of the lower critical field at each temperature. MgB\({}_{2}\) has a comparable lower critical field [43, 44, 45].
+
+The temperature dependence of \(H_{\text{c2}}\)(T) has two regimes which we fit independently with the model (2). The high-temperature, low critical field regime has a critical field of \(H_{\text{c2}}{}^{\prime}\) (\(0\,\text{K})=9\,\text{T}\) and transition temperature of \(T_{\text{high}T}=41\) K, while the low-temperature, high critical field regime is fit
+
+Figure 3: Lower critical field \(H_{\text{c1}}(T)\) in (a) and the upper critical fields \(H_{\text{c2}}(T)\) in (b) as a function of temperature. The upper critical fields are fit with two different curves, each representing a different magnetic phase. (c) The paramagnetic fit parameter \(n(T)\) representing the magnetization per unit cell is plotted as a function of temperature. A change in slope occurs around 33 K, and at \(T_{\text{low}T}\), close to \(T_{\text{cross}T}=T_{M}=12\,\text{K}\), likely the crossover between the two magnetic phases.
+
+Figure 2: (a) Magnetic field modulated microwave absorption spectroscopy of lithiated FeSe hydroxide at different dc fields. The spectra are shifted vertically for clarity. The flat lines on the high-temperature side of the scans indicate that there is no change in the microwave absorption. The two distinct peaks with an onset at 38 K and approximately 35 K indicate the presence of two well-defined superconducting phases. The large background around 15 K is attributed to a variety of dissipation mechanisms as found earlier (see main text). (b) Chirality characteristic of a superconductor. (c) Hysteresis loop (\(M\) vs \(H\)) at 1.8 K, virgin curve to 9 T, down branch to \(-9\) T, and up branch to 9 T (see arrows). The line in between the two branches is the paramagnetic fit (see text). (d) \(M\) vs \(H\) hysteresis after subtraction of the fitted paramagnetic contribution; this curve resembles the typical shape of superconducting hysteresis curves and, by fitting a stretched exponential, \(H_{\text{c2}}(T)\) for each curve is found. (e) Zero-field (red) and field-cooled (black) curves were obtained with 30-Oe dc applied field. The separation point of the ZFC-FC curves at 40 K determines the superconducting transition temperature. A change in the slope around 18 K on both branches indicates the possible onset of magnetic order.
+
+  with a critical field of \(H_{c2}{}^{II}\) (0 K) = 120 T and a transition temperature of \(T_{\text{low}T}\) = 17 K [Fig. 3(b)]. An experimentally observable magnetic crossover can be seen in Fig. 3(b), 5 K lower, at \(T_{\text{M}}\) = 12 K at which the \(H_{c2}(T)\) curvature changes similar to low-temperature magnetic superconductors and to several related theoretical publications, which implies a change in magnetic ordering at this observed crossover temperature, \(T_{M}\) = 12 K [10, 46, 47].
+
+\(H_{c2}{}^{I}\) (0 K) = 9 T, derived from the high-temperature region, is comparable to the upper critical field at zero temperature obtained from the experimental data in this regime with the Werthamer-Helfand-Hohenberg approximation [48]. Earlier published values for LISH are on the same order of magnitude as \(H_{c2}{}^{II}\) (0 K) = 120 T [49, 50].
+
+The superconducting coherence lengths \(\xi_{I,II}\) (\(T=0\)) were extracted using the Ginzburg-Landau equations [51] with \(\Phi_{0}\) = 2x10\({}^{-7}\) G cm\({}^{2}\):
+
+\[\xi(T=0)=\left(\frac{\Phi_{0}}{2\pi\mu_{0}H_{c2,\ T=0}}\right)^{1/2}.\] (3)
+
+\(\xi_{I}=5.95\) nm and \(\xi_{II}=1.63\) nm are at least 15 times smaller than the structural characteristic length (\(91\pm 7\) nm) obtained from XRD as described previously. Since \(H_{c2}{}^{I}\) (0 K) = 9 T is the smaller of the two upper critical fields, \(\xi_{I}\) calculated using \(H_{c2}{}^{I}\)(0 K) represents an upper limit for the SC coherence length. This implies that the structural information obtained with XRD is an average over a length scale which is much larger (\(\sim\)15 times) than the longest superconducting length scale. Therefore the material appears structurally uniform while it is inhomogeneous on the length scales relevant to superconductivity, as shown by the two MFMMS peaks at \(T_{\text{SC2}}\) = 35 K and \(T_{\text{MFMMS},1}\) = 38 K. It is noteworthy that transport and susceptibility measurements are intrinsically unable to detect the various phases in the type of sample presented here.
+
+## IV Conclusion
+
+The highest transition temperature determined by MFMMS, \(T_{\text{MFMMS},1}\) = 38 K, is in agreement with the transition temperature determined from the ZFC-FC curves and the analysis of the upper critical fields. This implies a superconducting transition of [(Li\({}_{1-x}\)Fe\({}_{x}\))OH]FeSe at \(T_{\text{SC1}}\) = 40 \(\pm\) 2 K in agreement with the literature. The upper critical fields suggest a magnetic transition at the crossover temperature \(T_{\text{M}}\) = 12 K. The MFMMS data are not conclusive in that temperature range.
+
+Remarkably, the upper critical field at zero temperature is enhanced more than one order of magnitude by the magnetic ordering. Enhancements of \(H_{c2}(T)\) of smaller magnitudes have been observed previously in antiferromagnetic and ferromagnetic superconductors [52, 53, 54]. A recent neutron powder diffraction study [24] of (\({}^{7}\)Li\({}_{0.82}\)Fe\({}_{0.18}\)OD)FeSe found no evidence for an antiferromagnetic ordering although ferromagnetic order could not be excluded, while the theoretical results of Liu _et al._ show the coexistence of ferromagnetism and superconductivity [55]. This together with our experiment suggests that the magnetic order below \(T_{M}=12\) K in LISH is ferromagnetic.
+
+In summary, we found two clear and distinct transition temperatures within structurally homogeneous LISH. This has implications for new unconventional doped superconductors which are inhomogeneous on sufficiently small length scales. In-depth analysis of the magnetometry data implies that the superconducting phase coexists with a magnetic order, below \(T_{M}=12\) K. This magnetic order is consistent with ferromagnetism and greatly enhances the critical field of the superconducting state. Ferromagnetism-enhanced critical fields were previously observed in literature in other materials but the enhancement we found in LISH is significantly larger. This opens the possibility of tuning critical fields in superconductors using functional materials in which superconductivity and ferromagnetism coexist.
+
+## Acknowledgments
+
+We gratefully acknowledge the financial support by the German Research Foundation (DFG) Grant No. JO257/7-1. Research at University of California, San Diego is supported by AFOSR Grant No. FA9550-14-1-0202.
+
+## References
+
+* Schmid [1994]H. Schmid, Ferroelectrics **162**, 317 (1994).
+* Hirsch _et al._ [2015]J. E. Hirsch, M. B. Maple, and F. Marsiglio, Physica C **514**, 1 (2015).
+* Ohtomo and Hwang [2004]A. Ohtomo and H. Y. Hwang, Nature (London) **427**, 423 (2004).
+* Li _et al._ [2011]L. Li, C. Richter, J. Mannhart, and R. C. Ashoori, Nat. Phys. **7**, 762 (2011).
+* de la Venta _et al._ [2013]J. de la Venta, S. Wang, J. G. Ramirez, and I. K. Schuller, Appl. Phys. Lett. **102**, 122404 (2013).
+* Chevrel _et al._ [1971]R. Chevrel, M. Sergent, and Prigent, J. Solid State Chem. **3**, 515 (1971).
+* Matthias _et al._ [1972]B. T. Matthias, M. Marezio, E. Corenzwit, A. S. Cooper, and H. E. Barz, Science **175**, 1465 (1972).
+* Fischer _et al._ [1975]O. Fischer, A. Treyvaud, R. Chevrel, and M. Sergent, Solid State Commun. **17**, 721 (1975).
+* Butera _et al._ [2001]A. Butera, A. Fainstein, E. Winkler, and J. Tallon, Phys. Rev. B **63**, 054442 (2001).
+* Eisaki _et al._ [1994]H. Eisaki, H. Takagi, R. J. Cava, B. Batlogg, J. J. Krajewski, W. F. Peck, Jr., K. Mizuhashi, J. O. Lee, and S. Uchida, Phys. Rev. B **50**, 647 (1994).
+* Anton _et al._ [2016]E.-M. Anton, S. Granville, A. Engel, S. V. Chong, M. Governale, U. Zulicke, A. G. Moghaddam, H. J. Trodahl, F. Natali, S. Vezian, and B. J. Ruck, Phys. Rev. B **94**, 024106 (2016).
+* Homma _et al._ [1986]H. Homma, C. S. L. Chun, G.-G. Zheng, and I. K. Schuller, Phys. Rev. B **33**, 3562 (1986).
+* Schuller and Homma [1987]I. K. Schuller and H. Homma, MRS Bull. **12**, 18 (1987).
+* Kobayashi _et al._ [2000]H. Kobayashi, A. Kobayashi, and P. Cassoux, Chem. Soc. Rev. **29**, 325 (2000).
+* Coronado _et al._ [2010]E. Coronado, C. Marti-Gastaldo, E. Navarro-Moratalla, A. Ribera, S. J. Blundell, and P. J. Baker, Nat. Chem. **2**, 1031 (2010).
+* Drew _et al._ [2018]A. J. Drew, C. Niedermayer, P. J. Baker, F. L. Pratt, S. J. Blundell, T. Lancaster, R. H. Liu, G. Wu, X. H. Chen, I. Watanabe, V. K.
+
+  Malik, A. Dubroka, M. Rossle, K. W. Kim, C. Baines, and C. Bernhard, Nat. Mater. **8**, 310 (2009).
+* [17] E. Slooten, T. Naka, A. Gasparini, Y. K. Huang, and A. de Visser, Phys. Rev. Lett. **103**, 097003 (2009).
+* [18] C. T. Wolowits, B. D. White, and M. B. Maple, Physica C **514**, 113 (2015).
+* [19] U. Pachmayr, F. Nitsche, H. Luetkens, S. Kamusella, F. Bruckner, R. Sarkar, H.-H. Klauss, and D. Johrendt, Angew. Chem. Int. Ed. **54**, 293 (2015).
+* [20] X. F. Lu, N. Z. Wang, H. Wu, Y. P. Wu, D. Zhao, X. Z. Zeng, X. G. Luo, T. Wu, W. Bao, G. H. Zhang, F. Q. Huang, Q. Z. Huang, and X. H. Chen, Nat. Mater. **14**, 325 (2015).
+* [21] U. Pachmayr and D. Johrendt, Chem. Commun. **51**, 4689 (2015).
+* [22] Y. P. Wu, D. Zhao, X. R. Lian, X. F. Lu, N. Z. Wang, X. G. Luo, X. H. Chen, and T. Wu, Phys. Rev. B **91**, 125107 (2015).
+* [23] F. Nejadastrari and Z. M. Stadnik, J. Alloys Compd. **652**, 470 (2015).
+* [24] J. W. Lynn, X. Zhou, C. K. H. Borg, S. R. Saha, J. Paglione, and E. E. Rodriguez, Phys. Rev. B **92**, 060510(R) (2015).
+* [25] H. Sun, D. N. Woodruff, S. J. Cassidy, G. M. Allcroft, S. J. Sedlmaier, A. L. Thompson, P. A. Bingham, S. D. Forder, S. Cartenet, N. Mary, S. Ramos, F. R. Foronda, B. H. Williams, X. Li, S. J. Blundell, and S. J. Clarke, Inorg. Chem. **54**, 1958 (2015).
+* [26] X. F. Lu, N. Z. Wang, G. H. Zhang, X. G. Luo, Z. M. Ma, B. Lei, F. Q. Huang, and X. H. Chen, Phys. Rev. B **89**, 020507 (2014).
+* [27] S. H. Glarum, J. H. Marshall, and L. F. Schneemeyer, Phys. Rev. B **37**, 7491 (1988).
+* [28] S. Guenon, J. G. Ramirez, A. C. Basaran, J. Wampler, M. Thiemens, S. Taylor, and I. K. Schuller, Sci. Rep. **4**, 7333 (2014).
+* [29] J. G. Ramirez, A. C. Basaran, J. de la Venta, J. Pereiro, and I. K. Schuller, Rep. Prog. Phys. **77**, 093902 (2014).
+* [30] J. Stankowski and B. Czyzak, Appl. Magn. Reson. **2**, 465 (1991).
+* [31] B. F. Kim, J. Bohandy, K. Moorjani, and F. J. Adrian, J. Appl. Phys. **63**, 2029 (1988).
+* [32] H. M. Rietfeld, J. Appl. Cryst. **2**, 65 (1969).
+* [33] L. B. McCusker, R. B. Von Dreele, D. E. Cox, D. Louer, and P. Scardi, J. Appl. Crystallogr. **32**, 36 (1999).
+* [34] A. Coelho, Topas-Academic, Version 4.1, Coelho Software, Brisbane (2007).
+* [35] M. A. Beno, L. Soderholm, D. W. Capone II, D. G. Hinks, J. D. Jorgensen, J. D. Grace, I. K. Schuller, C. U. Segre, and K. Zhang, Appl. Phys. Lett. **51**, 57 (1987).
+* [36] D. Yazici, A. C Basaran, J. G. Ramirez, I. K. Schuller, and M. B. Maple, Supercond. Sci. Technol. **29**, 085015 (2016).
+* [37] J. Bohandy, F. J. Adrian, B. F. Kim, K. Moorjani, R. D. Shull, L. J. Swartzendruber, L. H. Bennett, and J. S. Wallace, J. Supercond. **1**, 191 (1988).
+* [38] K. Moorjani, J. Bohandy, F. J. Adrian, B. F. Kim, R. D. Shull, C. K. Chiang, L. J. Swartzendruber, and L. H. Bennett, Phys. Rev. B **36**, 4036 (1987).
+* [39] N. W. Ashcroft and N. D. Mermin, _Solid State Physics_ (Holt, Rinehart and Winston, New York, 1976), p. 655.
+* [40] J. W. Rohlf, _Modern Physics from A to Z_ (Wiley, New York, 1994), p. 646.
+* [41] X. Zhu, H. Yang, L. Fang, G. Mu, and H.-H. Wen, Supercond. Sci. Technol. **21**, 105001 (2008).
+* [42] L. Fang, Y. Wang, P. Y. Zou, L. Tang, Z. Xu, H. Chen, C. Dong, L. Shan, and H. H. Wen, Phys. Rev. B **72**, 014534 (2005).
+* [43] A. D. Caplin, Y. Bugoslavsky, L. F. Cohen, L. Cowey, J. Driscoll, J. Moore, and G. K. Perkins, Supercond. Sci. Technol. **16**, 176 (2002).
+* [44] K.-H. Muller, G. Fuchs, H. Handstein, K. Nenkov, V. N. Narozhnyi, and D. Eckert, J. Alloys Compd. **322**, L10 (2001).
+* [45] S. L. Bud'ko, C. Petrovic, G. Lapertot, C. E. Cunningham, P. C. Canfield, M.-H. Jung, and A. H. Lacerda, Phys. Rev. B **63**, 220503 (2001).
+* [46] E. I. Blount and C. M. Varma, Phys. Rev. Lett. **42**, 1079 (1979)
+* [47] O. Fischer, _Ternary Superconductors_, edited by G. K. Shenoy, B. D. Dunlap, and F. Y. Fradin (Elsevier North Holland, Inc., New York, 1981), p. 303.
+* [48] N. R. Werthamer, E. Helfand, and P. C. Hohenberg, Phys. Rev. **147**, 295 (1966).
+* [49] C. Wang, X. Yi, Y. Qiu, Q. Tang, X. Zhang, Y. Luo, and B. Yu, Supercond. Sci. Technol. **29**, 055003 (2016).
+* [50] Z. Wang, J. Yuan, J. Wosnitzal, H. Zhou, Y. Huang, K. Jin, F. Zhou, X. Dong, and Z. Zhao, J. Phys.: Condens. Matter **29**, 025701 (2017).
+* [51] C. S. Yadav and P. L. Paulose, New J. Phys. **11**, 103046 (2009).
+* [52] H. C. Hamaker, L. D. Woolf, H. B. MacKay, Z. Fisk, and M. B. Maple, Solid State Commun. **32**, 289 (1979).
+* [53] O. Fischer, M. Ishikawa, M. Pelizzone, and A. Treyvaud, J. Phys., Colloq. **40**, c5-89 (1979).
+* [54] K. Machida, K. Nokura, and T. Matsubara, Phys. Rev. B **22**, 2307 (1980).
+* [55] D.-Y. Liu, Z. Sun, and L.-J. Zou, New J. Phys. **19**, 023028 (2017).
+
+ 

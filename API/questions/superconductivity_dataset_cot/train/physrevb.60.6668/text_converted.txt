@@ -1,0 +1,706 @@
+# Neutron-diffraction study of the evolution of antiferromagnetic order
+in UPt3 doped with Pd
+
+R. J. Keizer, A. de Visser, A. A. Menovsky, and J. J. M. Franse
+
+Van der Waals-Zeeman Institute, University of Amsterdam,
+Valckenierstraat 65, 1018 XE Amsterdam, The Netherlands
+
+B. Fak
+
+Departement de Recherche sur la Matiere Condensee, SPSMS/MDN CEA, 38054
+Grenoble, France
+
+J.-M. Mignot
+
+Laboratoire Leon Brillouin, CEA-CNRS, CEA/Saclay, 91191 Gif sur Yvette,
+France
+
+7 December 1998
+
+###### Abstract
+
+Neutron-diffraction experiments have been carried out on a series of
+heavy-electron pseudobinary U(Pt1-Pd4)3 single crystals (_x_ <= 0.05).
+The small-moment antiferromagnetic order reported for pure UPt3 is
+robust upon doping with Pd and persists till at least x = 0.005. The
+ordered moment grows from 0.018 +- 0.002_m_B_/U atom for pure UPt3 to
+0.048 +- 0.008_m_B_/U atom for x = 0.005. The Neel temperature T_(N) is
+approximately 6 K and, most remarkably, does not vary with Pd contents.
+The order parameter squared for the small-moment antiferromagnetism has
+an unusual quasilinear temperature variation. For x = 0.01 a second
+antiferromagnetic phase with much larger ordered moments is found. For
+this phase at optimum doping (_x_ = 0.05) T_(N) attains a maximum value
+of 5.8 K and the ordered moment equals 0.63 +- 0.05_m_B_/U atom.
+T_(N)(_x_) for the large-moment antiferromagnetic order follows a
+Onionach-type phase diagram. From this diagram we infer that the
+antiferromagnetic instability in U(Pt1-,Pd4)3 is located in the range
+0.5-1 at.
+
+pacs: 7 [
+
+PHYSICAL REVIEW B VOLUME 60, NUMBER 9 1 SEPTEMBER 1999-1
+
+]
+
+## I Introduction
+
+It has been recognized, for more than a decade now, that the
+heavy-electron compound UPt3 is close to an antiferromagnetic
+instability. Evidence for the proximity to a magnetic instability is
+provided by pronounced spin-fluctuation phenomena at low temperatures
+[1] and incipient magnetic ordering, [2] which can readily be made
+visible by chemical substitution. The low-temperature thermal, magnetic
+and transport properties of pure UPt3 demonstrate the formation of a
+strongly renormalized Fermi liquid at low temperatures. [1, 2, 3, 4, 5]
+The coefficient, g = 0.42 J/mol K2, of the linear term in the specific
+heat _c_(_T_) is very much enhanced with respect to a normal metal,
+which gives rise to a Fermi-liquid description with a quasiparticle mass
+of  200 times the free-electron mass. The low-temperature Pauli
+susceptibility, _kh_0 = _kh_(_T_ - 0), is equally enhanced. Upon raising
+the temperature, _kh_(_T_) exhibits a maximum at _T_max = 18 K, which
+indicates the stabilization of antiferromagnetic spin fluctuations below
+_T_max. From the electrical resistivity _r_(_T_) data, it follows that
+the coherence regime sets in near 10 K, while the Fermi-liquid _A_T_2
+regime is attained at T < 1.5 K. The coefficient A is enhanced by two
+orders of magnitude over that of a normal metal, which is a general rule
+in heavy-electron compounds. Measurements of the thermal and transport
+properties in a magnetic field [1, 3] provide further evidence that the
+electron correlations are primarily of antiferromagnetic nature.
+
+Inelastic neutron-scattering experiments have put the evidence for
+antiferromagnetic spin fluctuations on firm footing. [4, 5, 6] The
+fluctuation spectrum is quite complex as different energy scales are
+present. Spin-polarized neutron-scattering data on polycrystalline
+material [3] yield a quasielastic contribution centered at  10 meV,
+which is related to the fluctuating local f moment. The size of the
+fluctuating moment is of the order of 2_m_B_/U atom, which is not far
+from the value of the effective moment deduced from the high-temperature
+Curie-Weiss constant (_m_eff = 2.6 +- 0.2_m_B_/U atom). [1] Subsequent
+polarized and unpolarized neutron-scattering measurements on
+single-crystalline samples [5] revealed a response centered at 5 meV,
+which is consistent with antiferromagnetic short-range order between
+nearest-neighbor uranium atoms located in adjacent basal planes (UPt3
+has a hexagonal crystal structure). The antiferromagnetic correlations
+disappear above _T_max, while in-plane ferromagnetic correlations
+persist till about 150 K. At yet a lower energy (0.2 meV) a second type
+of antiferromagnetic in-plane correlations was found at **Q** = (0.5, 0,
+1). [6] Surprisingly, at the same Q vector, weak magnetic Bragg
+reflections were detected. This then provided evidence that, in pure
+UPt3, small-moment antiferromagnetic order (SMAF) develops below a Neel
+temperature of  6 K. [6] The size of the ordered moment is unusually
+small, m = 0.02 +- 0.01_m_B_/U atom. It is directed along the _a_* axis
+in the hexagonal basal plane. The magnetic unit cell consists of a
+doubling of the nuclear unit cell along the _a_* axis. More recently
+another type of correlations was observed near Q = 0 (forward direction)
+at low energies in a time-of-flight experiment. [7] These ferromagnetic
+correlations near Q = 0 have been interpreted in terms of the effect of
+low-lying fermion quasiparticles in the presence of strong spin-orbit
+coupling.
+
+Incipient magnetic order in UPt3 was first detected by substitution
+studies. [2] By replacing Pt by isoelectronic Pd, pronounced
+phase-transition anomalies appear in the thermal and transport
+properties. Notably, the _l_-like anomaly in _c_(_T_) and the Cr-type
+anomaly in _p_(_T_) give evidence for an anti ferromagnetic phase
+transition of the spin-density-wave type. Neutron-diffraction
+experiments [8] carried out on a single-crystalline sample with optimal
+doping, U(Pt0.95Pd0.05)3 (_T_N,max=5.8 K), confirmed the
+antiferromagnetic order. The ordered moment equals 0.6 +- 0.2_m_H/U atom
+and is directed along the _a_* axis. By plotting the Neel temperatures,
+deduced from the _c_(_T_) and _r_(_T_) data, as functions of the Pd
+concentration, the border of the antiferromagnetic phase could be
+delineated. [3] Anomalies observed in the thermal and transport data
+restricted the antiferromagnetic order to the concentration range 2-7
+at.
+
+The pronounced spin-fluctuation phenomena and the incipient magnetic
+order unambiguously demonstrate the proximity to a magnetic instability
+of UPt3. Therefore, it came as a great surprise that the
+strongly-renormalized Fermi liquid is also unstable against
+superconductivity. [16] In the past decade many experiments have
+demonstrated that superconductivity in UPt3 is unconventional. [17] The
+most important manifestations of unconventional superconductivity in
+UPt3 are (i) the observation of power laws in the temperature variation
+of the superconducting properties, rather than the standard BCS
+exponential laws, (ii) the splitting of the superconducting transition
+in zero magnetic field, and (iii) the existence of three superconducting
+vortex phases in the magnetic field-temperature plane. In the past
+years, a number of phenomenological Ginzburg-Landau models have been
+worked out in order to understand the observed field and pressure
+variation of the three vortex phases. [18] The model which received the
+most attention is the so-called _E_-representation model, which is based
+on the coupling of a two-dimensional superconducting order parameter to
+a symmetry-breaking field (SBF). [19] The underlying mechanism is that a
+weak SBF lifts the degeneracy of the order parameter, which results in
+two superconducting phases in zero field. The key issue of the E model
+is to identify the SBF and to prove that it couples to
+superconductivity. A natural candidate for the SBF is the SMAF, which
+was found to coexist with superconductivity. [6] Within the E model, the
+splitting of the superconducting transition temperature D_Tc_ = _T_c + -
+_T_c is proportional to the strength of the symmetry-breaking field,
+D_Tc_ e, or in case that the SMAF acts as the SBF, D_Tc_ m2.
+
+In this paper we report neutron-diffraction experiments conducted to
+investigate the evolution of magnetic order in the U(Pt, Pd)3 series.
+The aim of these experiments was to answer the following questions: (i)
+what is the connection between the SMAF observed in pure UPt3 and the
+LMAF observed in the doped compounds, (ii) how does the LMAF emerge upon
+Pd doping, (iii) is the SMAF stable with respect to Pd doping and does
+it couple to superconductivity, and (iv) is the SMAF influenced by
+annealing the samples. In order to address these questions we have
+carried out neutron-diffraction experiments on single-crystalline
+U(Pt1-_x_Pd_x_)3 with x = 0.001, 0.002, 0.005, 0.01, 0.02, and 0.05. For
+all concentrations x <= 0.01 we were able to detect SMAF, while for x >=
+0.01 LMAF was observed. The paper is organized as follows. In Sec. II we
+focus on the experimental details, like the sample preparation process
+and the relevant information regarding the neutron-scattering
+experiments. Section III is devoted to the calculation of the magnetic
+moment. In Secs. IV and V our neutron-diffraction results for the SMAF
+and the LMAF compounds are presented. In Sec. VI we constitute the
+magnetic phase diagram and in Sec. VII we discuss the connection between
+SMAF and superconductivity. In Sec. VIII we discuss the results. A
+preliminary account of part of this work was presented in Ref. [20].
+
+## II Experiment
+
+Polycrystalline material was prepared by arc-melting the constituents in
+a stoichiometric ratio in an arc furnace on a water-cooled copper
+crucible under a continuously Ti-gettered argon atmosphere (0.5 bar). As
+starting materials we used natural uranium (JRC-EC, Geel) with a purity
+of 99.98
+
+In order to characterize the samples the resistivity was measured on
+bar-shaped specimens spark-cut along the crystallographic a and c axis.
+The residual resistivity r0,a and r0,c values are listed in Table I. For
+pure UPt3 we obtain residual resistance ratios of  460 and  720 for a
+current along the a and c axis, respectively. Upon alloying with Pd,
+r0,a increases smoothly with Pd content at a rate of 11.3 _r_d_1 cm/at.
+
+The neutron-diffraction experiments were carried out at three different
+reactor facilities. At Siloe (CEA-Grenoble) the samples with x = 0.01,
+0.02, and 0.05 were measured in the temperature range 1.8-10 K, using
+the DN1 triple-axis spectrometer. At the Institute Laue-Langevin in
+Grenoble the samples with x = 0.002, 0.005, and 0.01 were measured in
+the temperature interval 0.1-10 K, using the IN14 triple-axis
+spectrometer. Finally, at the Laboratoire Leon Brillouin (CEA-Saclay)
+experiments were carried out on the samples with x = 0.001 and 0.002 in
+the temperature range 0.1-10 K on the 4F2 triple-axis spectrometer.
+
+For all experiments a pyrolytic graphite PG(002) analyzer was set to
+zero-energy transfer in order to separate the elastic Bragg scattering
+from possible low-energy magnetic excitations. To suppress the
+second-order contamination a 10 cm long Be filter and/or a 4 cm long
+pyrolytic graphite (PG) filter was used (see Table 2). A vertically
+focusing PG(002) monochromator was used in all cases. The incident wave
+vector and the collimation of the different instruments are listed in
+Table 2. The four different collimation angles refer to (i) the
+collimation of the neutrons incident on the monochromator, (ii)
+collimation before the sample, (iii) collimation before the analyzer,
+and (iv) collimation before the detector.
+
+UPt3 crystallizes in a hexagonal closed packed structure (MgCd3 type)
+with space group P6₃/mmc.[22] The lattice parameters are given by a =
+5.764 A and c = 4.899 A. The atomic positions in the unit cell are given
+by
+
+$$2\ \ \mathrm{U}\ \ \mathrm{at}\biggl{(}\frac{1}{3},\frac{2}{3},\frac{1}{4} \biggr{)}\biggl{|}\frac{2}{3},\frac{1}{3},\frac{3}{4}\biggr{|},$$
+
+$$6\ \ \mathrm{Pt}\ \ \mathrm{at}\biggl{[}z,2z,\frac{1}{4}\biggr{]}\biggl{|}2z,\frac{z}{z},\frac{1}{4}\biggr{|}\biggl{(}z,z,\frac{z}{z},\frac{1}{4}\biggr{)},$$
+
+$$\biggl{(}z,2z,\frac{3}{4}\biggr{)}\biggl{|}2z,z,\frac{3}{4}\biggr{|}\biggl  netic Bragg peaks in the reciprocal basal plane as observed by neutron scattering. The magnetic Bragg peaks corresponding to the domain with propagation vector **q1** = (1/2, 0, 0) are located at, e.g., **Q** = (1/2, 1, 0), (3/2, - 1, 0), (-1/2, -1, 0), and (-3/2, 1, 0), as indicated by the open circles in Fig. 2. Neutron-scattering measures the projection of the Fourier component of the moment on a plane perpendicular to the scattering vector **Q**. For reflections such as (+-1/2, 0, 0) this component **mq**1 is parallel to **Q** and the intensities vanish. There exist two other symmetry-related domains, **q2** and **q3**, obtained from **q1** by a rotation of 120deg and 240deg, respectively. Assuming a single-_q_ structure, **q1**, **q2**, and **q3** describe the three antiferromagnetic domains. In the absence of an in-plane magnetic field one expects, in general, to measure the same intensity for the magnetic Bragg peaks of the three domains. In this case the antiferromagnetic Fourier component **mq** becomes equal to the U magnetic moment **m**. We will comment on the possibility of a triple-_q_ structure later.
+
+A proper determination of the size of the (tiny) ordered magnetic moments across the U(Pt1-_x_Pd_x_)3 series is not an easy task. Therefore, we have chosen to measure the various samples under the same experimental conditions and also to use the same procedure for the calibration of magnetic intensities. In order to determine the size of the magnetic moment, the cross sections of the magnetic and nuclear Bragg peaks have to be compared. We use the integrated intensity from longitudinal (_th_-2_th_) scans. The integrated nuclear \(P_{N}\) and magnetic \(P_{M}\) intensities are calculated from [23, 24]
+
+\[P_{N}({\bf Q}) = cL(\theta)\left|\sum\limits_{j}\;b_{j}e^{i({\bf Q} \cdot {\bf R}_{j})}e^{-W_{j}}\right|^{2},$$
+
+$$P_{M}({\bf Q}) = cL(\theta)\left|p\sum\limits_{j}\;{\bf m}_{{\bf q}_{i}}^{\perp}f_{j}({\bf Q})e^{i({\bf Q}\cdot {\bf R}_{j})}e^{-W_{j}}\right|^{2},$$
+
+where the sum is taken over all the Bravais lattices of the nuclear unit
+cell. **R**_i_ denotes the position of the nuclei in the cell, _L_(_th_)
+= 1/sin(2_th_) is the Lorentz factor with _th_ the Bragg angle,
+_e_-_W_j_ is the Debye-Waller factor, b_(j) is the scattering length of
+the nucleus at site j, f_(j)(**Q**) is the magnetic form factor, the
+symbol + denotes the projection on the plane perpendicular to the
+scattering vector **Q**, p = 0.2696 x10-12 cm, and c is a normalization
+constant depending on the experimental conditions. For scattering in the
+basal plane there are two types of nuclear peaks which could be used for
+calibration, i.e., the (1, 0, 0) and (1, 1, 0)-type peaks. However, the
+intensity of the (1, 0, 0) reflection is very sensitive to deviations
+from the ideal Pt position z = 5/6 in the unit cell (see Fig. 3).
+Actually, the measured ratio of the (1, 0, 0) and the (1, 1, 0) nuclear
+peaks indicates that the proper z value is 0.8253 or 0.8370 instead of
+5/6 (see Fig. 3). We have chosen to use the (1, 1, 0) nuclear peak for
+calibration as its intensity depends only weakly on the z value. By this
+procedure we possibly introduce a systematic error in determining the
+ordered moment. However, this error is the same for all samples, so that
+a meaningful comparison between the moments of the samples can be made.
+The systematic error is not included in the error bars of the ordered
+moment for the different samples. Note that the variation of the lattice
+parameters a and c for x <= 0.05 is almost negligible. The a parameter
+remains constant within the experimental accuracy and the c parameter
+decreases at a relative rate of 0.7 x10-4 per at.
+
+## IV Small-Moment Antiferromagnetic Order for **0** < x <= 0.01
+
+Neutron-diffraction experiments have been carried out in the temperature
+range 0.1-10 K on annealed U(Pt1-_x_Pd_x_)3 single crystals with x =
+0.005 and 0.01 and unannealed crystals with x = 0.001 and 0.002. The
+samples with x = 0.001 and 0.002 were remeasured in the temperature
+interval 1.8-10 K after annealing. In Fig. 4 we have plotted the
+temperature variation of the maximum intensity of the magnetic Bragg
+peak at Q = (1/2, 1, 0) for x <= 0.01 after subtracting the background.
+Let us first focus on the data of the annealed
+
+Figure 3: Calculated intensities of the nuclear (1,0,0) (solid line) and
+(1,1,0) (dashed line) Bragg peaks as function of the position z of the
+Pt atoms in the unit cell. From the measured ratio of the intensities
+for the (1,0,0) and the (1,1,0) Bragg peaks we find z = 0.8253 or z =
+0.8370, instead of the ideal value z = 5/6 (indicated by the dotted
+vertical lines).
+
+Figure 2: Reciprocal-lattice (_α_*-_b_* plane) of U(Pt1−_Pd_x_)3. The
+open symbols indicate the positions where magnetic Bragg reflections are
+observed by neutron scattering. The three magnetic domains (assuming a
+single-_q_ structure) are indicated by **q1** (○), **q2** (■), and
+**q3** (■). The closed symbols indicate the positions of the nuclear
+(1,0,0) (■) and (1,1,0)-type (■) of reflections.
+
+samples, represented by open symbols. In this case, absolute values of
+m² in units of $\mu_{\rm B}^{2}$ have been plotted using the calibration
+procedure presented in Sec. III.
+
+The behavior of m²(T) for the various samples as shown in Fig. 4 is
+quite unusual. Figure 4 clearly demonstrates that the small-moment
+magnetism is robust upon alloying with Pd. The size of the ordered
+moment increases gradually with Pd concentration, but, remarkably, SMAF
+invariably sets in near T_(N)∼ 6 K for x≤ 0.01. For all samples with x≤
+0.005, m²(T) has an unusual form. The value of m² starts to rise slowly
+below T_(N)∼ 6 K, then a quasilinear temperature dependence follows from
+∼4 K down to T_(c)⁺ (0.1-0.4 K, see Table 1). Below T_(c)⁺ the magnetic
+intensity saturates. The absolute values of the ordered moments have
+been calculated using integrated intensities. We obtain m(T_(c)⁺) =
+0.024 ± 0.003, 0.036 ± 0.003, and 0.048 ± 0.008 μ_(B)/U atom for x =
+0.001, 0.002, and 0.005, respectively, in the annealed state (see also
+Table 1). For comparison Fig. 4 shows also m²(T) for pure UPt₃, as
+reported by Hayden _et al._[25] The value for m(T_(c)⁺) was estimated in
+Ref. 25 at 0.03 ± 0.01μ_(B)/U atom. Because of the relatively large
+uncertainty in this value we have calibrated m²(T) for pure UPt₃ with
+help of a recent measurement by Van Dijk _et al._ (Ref. 26). Following
+the same calibration procedure as for the doped compounds we arrive at
+the value m = 0.018 ± 0.002μ_(B)/U atom for pure UPt₃. This is identical
+to the value reported recently by Isaacs _et al._ (Ref. 27).
+
+The effect on annealing was investigated for the x = 0.001 and 0.002
+samples. In the limit T→T_(c)⁺m equals 0.019 ± 0.003 and 0.038 ±
+0.003μ_(B)/U atom in the unannealed state, for x = 0.001 and 0.002,
+respectively. This shows that the size of the ordered moment is not
+changed (within the experimental accuracy) by our annealing procedure.
+Also the temperature variation of m²(T) does not change upon annealing.
+This is illustrated by the comparison of the data for the annealed and
+unannealed samples shown in Fig. 4, where the moments for the unannealed
+sample have been multiplied by a factor 1.26 and 0.95, for x = 0.001 and
+0.002, respectively, for normalization purposes (assuming that in the
+limit T→T_(c)⁺m is the same for annealed and unannealed samples).
+
+In order to investigate the effect of annealing on the magnetic
+correlation length ξ_(m), we have scanned the magnetic Bragg peak at Q =
+(1/2, 1, 0) at several selected temperatures for x = 0.001 and 0.002
+before and after annealing. Typical data sets, taken on the annealed x =
+0.001 and 0.002 samples, are shown in Figs. 5 and 6, respectively. By
+fitting a Lorentzian profile, convoluted with the Gaussian experimental
+resolution, we were able to extract the correlation length
+
+Figure 4: Temperature variation of m² derived from the intensity of the
+magnetic Bragg peak for annealed (open symbols) and unannealed (closed
+symbols) U(Pt_(1 − x)Pd_(x))₃. For x = 0.001 (○), 0.002 (□), 0.005 (□)
+data are taken at **Q** = (1/2, 1, 0) and for x = 0.01 (○) at **Q** =
+(1/2, 0, 1). In the case of x = 0.00 we have reproduced the data of Ref.
+25 (dashed line) after normalizing them to the moment deduced in Ref. 26
+(■). The solid lines are guides to the eye.
+
+Figure 5: Longitudinal scans of the magnetic Bragg peak **Q** = (1/2, 1,
+0) for annealed U(Pt_(0.999)Pd_(0.001))₃ at temperatures 1.6 ≈ T ≈ 6.2 K
+as indicated. The solid lines are fits to the data using a Lorentzian
+convoluted with the Gaussian experimental resolution. The width of the
+λ/2 peak without Be filter is shown in the lower part of the figure
+together with the experimental resolution (dashed line).
+
+along **Q**. Note that the width of the l/2 peak, measured without the
+Be filter, is not a correct estimate for the experimental resolution on
+the spectrometers used here (see Fig. 5). For x = 0.001 we obtain
+ξ_(m) = 570 ± 130 A and ξ_(m) = 710 ± 150 A before and after annealing,
+and for x = 0.002 ξ_(m) = 700 ±150 A and ξ_(m) = 610 ± 130 A before and
+after annealing. Thus, no effect of annealing on ξ_(m) is observed
+within the experimental error. This is consistent with the recent
+conclusion reached by Isaacs _et al._, [27] who investigated the effect
+of annealing on the correlation lengths along _a_* and _c_* for pure
+UPt3. Since the size of the ordered moments and the values of the
+correlation lengths are within the experimental error the same before
+and after annealing, we conclude that strain has no significant effect
+on the SMAF.
+
+## V Large-moment antiferromagnetic order for x >= 0.01
+
+In this section we report our neutron-diffraction results on the
+annealed U(Pt1-_x_Pd_x_)3 single crystals with x = 0.01, 0.02, and 0.05.
+We have plotted the temperature variation of the maximum intensity of
+the magnetic Bragg peak at Q = (1/2, 1, 0) (background subtracted) for x
+= 0.02 and 0.05 in Fig. 7 and for x = 0.01 at Q = (1/2, 0, 1) in Fig. 8.
+Absolute values of m2 in units of μ_(B)² have been obtained using the
+calibration procedure presented in Sec. III. The temperature variation
+m2(_T_) for x = 0.02 and 0.05 is rather conventional compared to the
+quasilinear temperature variation observed for the SMAF compounds (Fig.
+4). The order parameter follows m2(_T_) (1 - (_T_/_T_)_)_a_2b, with the
+values a = 1.9 +- 0.2 and 1.8 +- 0.1 and b = 0.50 +- 0.05 and 0.32 +-
+0.03 for x = 0.02 and 0.05, respectively. These values of b are not too
+far from the theoretical value b = 0.38 for the 3D Heisenberg model.
+[28] The phenomenological parameter α reflects spin-wave excitations. In
+a cubic antiferromagnetic system α is predicted to be 2. [29] To our
+knowledge no predictions are available for a hexagonal system. In the
+limit T →0 K, we obtain m = 0.35 +- 0.05 and 0.63 +- 0.05 _m_B_ / U atom
+for x = 0.02 and 0.05, respectively. The size of the ordered moment
+obtained for x = 0.05 is in excellent agreement with the value reported
+in Ref. [8]. For the LMAF compounds the magnetic Bragg peaks are
+resolution limited.
+
+The temperature dependence of the magnetic Bragg intensity of the sample
+with x = 0.01 is quite intriguing: m2(_T_) starts to rise slowly below
+_T_N 6 K, grows rapidly below  2 K, and then saturates below  0.5 K. The
+rapid rise near 2 K suggests a crossover from the small-moment to the
+large-moment state, with an estimate of _T_N 1.8 K for the LMAF. For T
+→0 K, m reaches a value of 0.11 +- 0.03 _m_B_ / U atom. This value is
+obtained for both **Q** = (1/2, 1, 0) and **Q** = (1/2, 0, 1). We
+emphasize that the width of the magnetic Bragg peak does not change in
+the temperature range 0.08-3 K (see Fig. 9), which ensures that the
+unusual m2(_T_) curve is not due to an increase of ξ_(m) upon lowering
+the temperature. The interpretation of a crossover to the LMAF state is
+consistent with recent _m_SR experiments on U(Pt0.99Pd0.01)3, which show
+that the LMAF gives rise to
+
+Figure 8: Temperature variation of m2 measured at the magnetic Bragg
+peak **Q** = (1/2, 0, 1) for annealed U(Pt1−_x_Pd_x_)3 with x = 0.01 (
+). The sharp increase in the intensity near 1.8 K indicates a crossover
+from SMAF to LMAF.
+
+Figure 7: Temperature variation of m2 for annealed U(Pt1−_x_Pd_x_)3
+derived from the intensity of the magnetic Bragg peak **Q** = (1/2, 1,
+0) for x = 0.02(□) and 0.05 (○) and at **Q** = (1/2, 0, 1) for 0.01 ( ).
+The solid lines represent fits to m2(_T_)×[1 - (_T_/_T_)_α_]2β (see
+text).
+
+a spontaneous _m_+ precession frequency below T_(N)   1.8 K.
+
+In the case of x = 0.01, the transition to the LMAF state does not show
+up in the thermal and transport data, in contrast to data for x = 0.02
+and 0.05, which exhibit clear magnetic phase transitions at T_(N) = 3.5
+and 5.8 K, respectively.2,3 Careful resistivity measurements down to
+0.016 K on a polycrystalline sample with composition U(Pt0.80Pd0.001)3
+did not reveal any signature of a phase transition.30 This was taken as
+evidence that the Neel temperature for the LMAF drops to zero between 1
+and 2 at.
+
+## VI Evolution of magnetism in the U(Pt1-xPd2)3 pseudobinaries
+
+Our neutron-diffraction results show that all the U(Pt1-_x_Pd4)3
+compounds (_x_ <= 0.05) order antiferromagnetically. In Fig. 10 we plot
+the Neel temperatures of the different samples versus Pd concentration.
+For samples with x <= 0.01 SMAF invariably sets in with a Neel point of
+ 6 K. Most likely this phase line extends horizontally to higher Pd
+concentrations, but for x > 0.01 it becomes more and more difficult to
+discriminate experimentally between SMAF and LMAF. A closer inspection
+of the data for x = 0.02 (Fig. 7) shows that indeed some magnetic
+intensity is visible in the temperature range 3.5-6 K. However, a
+careful measurement of the background signal for x = 0.02 is needed in
+order to put this on firm footing. LMAF emerges in the concentration
+range 0.5-1 at.
+
+The size of the ordered moment, measured at T_(c)⁺ as function of Pd
+concentration is plotted in Fig. 11. The moment first increases slowly
+from 0.018 +- 0.002_m__B_/U atom for pure UPt3 to 0.036 +- 0.003_m__B_/U
+atom for 0.5 at.
+
+## VII Interplay of magnetism and superconductivity
+
+Recently, we have measured the specific heat and electrical resistivity
+at the superconducting transition of single-crystalline (_x_ = 0.0,
+0.001, 0.002, and 0.005) and polycrystalline (_x_ = 0.0025, 0.003,
+0.004, 0.006, and 0.007) UPt3 doped with small amounts of Pd.34,35 The
+main findings can be summarized by (i) T_(c)⁺ is suppressed linearly
+with Pd content at a rate of 0.79 +- 0.04 K/at.
+
+Figure 11: Uranium ordered moment at T_(c)⁺ as function of Pd
+concentration in single-crystalline U(Pt1−_x_Pd4)3 alloys. The line is a
+guide to the eye.
+
+Figure 10: The Néel temperature T_(N) versus Pd concentration for
+U(Pt1−_x_Pd4)3 alloys as determined from neutron diffraction (○) and
+specific-heat experiments (□) (Refs. 2, 3, 31, 32). SMAF and LMAF denote
+small-moment and large-moment antiferromagnetic order, respectively. In
+the lower left corner the upper superconducting transition temperature
+T_(c)⁺ as determined by resistivity experiments is given (Ref. 35). SC
+denotes the superconducting phase.
+
+The Ginzburg-Landau _E_-representation scenario[19] predicts
+ΔT_(c) ⋅ m². However, this proportionality relation is only valid for
+ΔT_(c)/T_(c) ≪ 1, which no longer holds for the Pd-doped samples. At
+∼0.3 at
+
+The critical Pd concentration x_(c) for the suppression of
+superconductivity is ∼0.7 at.
+
+## VIII Discussion
+
+Our neutron-diffraction data unambiguously show that the unusual
+small-moment antiferromagnetic order observed in pure UPt₃ is stable
+upon Pd doping. Indeed, we find that Pd doping leads to an enhancement
+of SMAF as the ordered moment grows with increasing Pd content. The
+reverse behavior was observed in the neutron-diffraction experiments
+under pressure carried out on pure UPt₃.[25] The moment decreases under
+pressure and vanishes completely at p_(c)∼ 0.35 GPa. A quite remarkable
+observation is that both data sets, obtained by Pd doping and applying
+pressure, show that T_(N) retains a constant value of ∼6 K. This,
+together with the gradual increase of m²(T) below ∼6 K, could indicate
+that the transition to the SMAF state is not a true phase transition.
+
+The origin and nature of the SMAF are still subjects of lively debates.
+Unraveling the nature of the small moment is hampered by the fact that,
+till today, it has been probed convincingly by neutron-diffraction
+(Refs. [6], [25]-[27] and this work) and magnetic x-ray-scattering[27]
+experiments only. The analysis of both neutron-diffraction and magnetic
+x-ray-scattering data,[27] lead to the conclusion that the SMAF is
+quantitatively the same in the bulk and near surface of annealed UPt₃.
+The only difference is the somewhat smaller correlation length along a*
+and c* obtained in the case of magnetic x-ray scattering,
+ξ_(a*) = 85 ± 13 A and ξ_(c*) = 113± 30 A at T = 0.15 K. These values
+should be compared to ξ_(a*) = 280 ± 50 A and ξ_(c*) = 500 ± 130 A at
+T = 0.57 K in the case of the neutron-diffraction experiment.
+
+The possibility that the small moment is caused by magnetic impurities,
+defects or sample inhomogeneities can safely be excluded. Firstly,
+rather high impurity concentrations would be needed, for instance, ∼1000
+ppm of magnetic impurities with moments of 0.6μ_(B), in order to obtain
+the same magnetic signal as for the small moment of 0.02μ_(B). Secondly,
+impurities will not contribute to Bragg peaks of the type (1/2, 0, 0),
+since randomly distributed impurities or defects would give
+Q-independent scattering, while ordered imperfections would give rise to
+new satellite Bragg peaks close to the nuclear peaks. The same arguments
+are valid for stacking faults, observed in polycrystalline materials by
+transmission electron microscopy and x-ray-diffraction measurements,[37]
+and which could locally change the crystal symmetry and give rise to
+magnetic moments on certain uranium atoms. On the other hand, one can
+imagine that there are sizable sample regions (clusters) where large
+magnetic moments develop, which are perfectly ordered with a propagation
+vector of (1/2, 0, 0). This, in principle, could give rise to the
+observed Bragg peaks. Due to the finite size of these clusters (100-500
+A), the magnetic correlation length is limited. These clusters would
+form 0.1
+
+At this point it is important to note that recent zero-field μSR studies
+on polycrystalline[8] and single-crystalline[39] UPt₃ failed to detect
+the small magnetic moment (except for the μSR study reported in Ref.
+[40], but this result has not been reproduced). In the course of a
+detailed investigation[9] of the evolution of magnetism in U(Pt, Pd)₃ by
+the μSR technique, we found that LMAF gives rise to a spontaneous μ⁺
+precession frequency. However, we did not observe any signal of the SMAF
+in polycrystalline samples with x = 0.000, 0.002, and 0.005. A possible
+explanation for this is that the muon comes to rest at a site where the
+magnetic dipolar fields cancel due to the magnetic ordering. However,
+this is highly unlikely as SMAF and LMAF have an identical magnetic
+structure and we have been able to detect the LMAF (in samples with
+x = 0.01, 0.02, and 0.05). It is also unrealistic to expect a change of
+the stopping site at these low Pd concentrations. The μSR technique is
+sensitive enough to detect a static moment of the order of 0.02μ_(B).
+One possibility is that the small moment fluctuates at a rate (f > 10
+MHz) too fast to be detected by μSR but on a time scale which appears
+static to neutrons and x rays. This then also solves the long-standing
+problem of why the small moment of UPt₃ cannot be seen by NMR, while its
+signal should fall well in the detection limit as was concluded from
+experiments on U(Pt_(1 − x)Pd_(x))₃ (x ≈ 0.05) which successfully probed
+the LMAF.[41] Fluctuating moments are also in line with the hypothesis
+that there is no true phase transition at T_(N) for SMAF. The invariance
+of T_(N) and the crossover-type of behavior suggests that the small
+moment is only a weak instability of the renormalized Fermi-liquid whose
+properties hardly change at these low Pd concentrations (x ≈ 0.005).
+
+In the Ginzburg-Landau analysis,[19] which makes use of the
+symmetry-breaking field scenario, it is generally assumed that the SMAF
+forms in a single-q structure. However, the existing neutron-scattering
+data are compatible with a triple-q structure as well. The question
+whether the magnetic order corresponds to a single-q or a triple-q
+structure is crucial for the understanding of the unconventional
+superconductivity because a single-q structure breaks the hexagonal
+symmetry, while a triple-q does not. The single-q and triple-q
+structures can be distinguished by applying a mag netic field. For
+example, in the case of a strong magnetic field applied along the b
+axis, one expects to reorient all domains along the a* axis or in the
+terms of Fig. 2, q₁ is expected to increase a factor 3 due to the
+depopulation of q₂ and q₃ . Experiments carried out up to 3.2 T (Ref.
+[42]) and 12 T (Ref. [26]) did not show any redistribution of magnetic
+domains, so a triple-q structure for the SMAF cannot be excluded.
+However, it is possible that a field of 12 T is not sufficiently strong
+to change the domain population of moments as weak as 0.02μ_(B) . The
+SMAF itself is very stable to a magnetic field. T_(N) is suppressed by
+only 0.7 and 0.4 K for a field of 10 T applied along the a and c axis,
+respectively. In the case of the LMAF the magnetic structure is
+single-q. Neutron-diffraction experiments [43] carried out on
+U(Pt_(0.95)Pd_(0.05))₃ as function of an external field applied in the
+basal plane showed the formation of a single-domain sample in 5 T.
+
+The magnetic phase diagram of the U(Pt_(1 − x)Pd_(x))₃ pseudo-binaries
+(Fig. 10) is quite unusual because of the distinction between SMAF and
+LMAF. The differences between the SMAF and LMAF can be outlined as
+follows: (i) the order parameter squared for the SMAF is unusual and
+grows quasi-silinearly, while the order parameter for the LMAF is
+conventional and confirms a real phase transition, (ii) T_(N) for the
+SMAF does not change with Pd content, while T_(N) of the LMAF compounds
+follows a rather conventional Doniach-type phase diagram, (iii) the SMAF
+is not observed in zero-field μSR experiments in contrast to the LMAF.
+This demonstrates that the SMAF and LMAF are not directly connected.
+
+While the origin of SMAF in UPt₃ remains unclear, the emergence of LMAF
+in the alloyed systems is a general feature of heavy-fermion systems.
+The magnetic instability is normally explained in terms of a competition
+between the on-site Kondo effect and the intersite
+Ruderman-Kittel-Kasuya-Yosida (RKKY) interaction. However, in the case
+of the U(Pt, Pd)₃ system a clear-cut identification of T_(K) and
+$T_{\rm RKKY}$ is not at hand. [44] Moreover, since UPt₃ is very close
+to a magnetic instability, the variation of T_(K) and $T_{\rm RKKY}$
+before magnetic ordering occurs is small. Better documented systems in
+this respect are (Ce_(1 − x)La_(x))Ru_(x)Si_(x), where magnetism sets in
+at x = 0.07 (Ref. [45]) and CeCu_(6 − x)Au_(x) , where magnetism sets in
+at x = 0.1. [46] In these systems the magnetic instability is reached at
+a critical hybridization, which results from expanding the lattice. In
+the case of U(Pt, Pd)₃ the occurrence of LMAF can be parametrized, to a
+certain extent, by the reduction of the c/a ratio upon alloying (and not
+by a volume effect, as the volume decreases). The application of
+pressure has the opposite effect, since pressure increases the c/a ratio
+due to the anisotropy in the linear compressibilities (κ_(c) < κ_(a)).
+[3] These effects are however small and a satisfactory quantitative
+analysis is hampered by the limited accuracy in the values of the
+lattice constants and compressibilities. Pressure experiments, carried
+out on the 5 and 7 at.
+
+Currently, much attention in heavy-fermion research is focused on the
+occurrence of non-Fermi-liquid effects at the critical concentration for
+the suppression of magnetism. In the case of U(Pt, Pd)₃ we expect that
+the border line magnetic/nonmagnetic is close to 0.7 at.
+
+## IX Summary
+
+Neutron-diffraction experiments, carried out on a series of
+heavy-electron pseudobinary U(Pt_(1 − x)Pd_(x))₃ single crystals
+(x ≈ 0.05), show that two kinds of antiferromagnetic order, termed
+small-moment antiferromagnetic order (SMAF) and large-moment
+antiferromagnetic order (LMAF), are found in the phase diagram. The
+small-moment antiferromagnetic order, first reported for pure UPt₃, is
+robust upon doping with Pd and persists till at least x = 0.005. The
+ordered moment grows from 0.018 ± 0.002μ_(B)/U atom for pure UPt₃ to
+0.048 ± 0.008μ_(B)/U atom for x = 0.005. The Neel temperature of 6 K,
+does not vary with Pd contents. The order parameter for the small-moment
+antiferromagnetism has an unusual quasilinear temperature variation and
+points to a crossover phenomenon rather than a true phase transition.
+The small moment is not observed by μSR and NMR experiments. This could
+indicate that the moment is not static, but fluctuates at a rate larger
+than 10 MHz. For x ≈ 0.01 large-moment antiferromagnetic order is
+observed. At the optimum doping (x = 0.05) T_(N) attains a maximum value
+of 5.8 K and the ordered moment equals 0.63 ± 0.05μ_(B)/U atom. T_(N)(x)
+for the large-moment antiferromagnetic order follows a Doniach-type
+phase diagram. From this diagram we infer that the antiferromagnetic
+instability in U(Pt_(1 − x)Pd_(x))₃ takes place for Pd concentrations
+0.005< x < 0.01.
+
+###### Acknowledgements.
+
+This work was part of the research program of the Dutch Foundation for
+Fundamental Research of Matter ("Stichting" FOM). J. Bossy, S. Pujol, N.
+H. van Dijk, and Ph. Boutrouille are gratefully acknowledged for
+experimental assistance at various stages of these experiments. We thank
+J. Flouquet and P. H. Frings for stimulating discussions. R. J. Keizer
+and A. de Visser acknowledge the EC-TMR Large Scale Facilities program
+at LLB for financial support.
+
+## References
+
+* [1] P. H. Frings, J. J. M. Franse, F. R. de Boer, and A. Menovsky, J.
+Magn. Magn. Mater. **31-34**, 240 (1983). * [2] A. de Visser, J. C. P.
+Klaasse, M. van Sprang, J. J. M. Franse, A. Menovsky, T. T. M. Palstra,
+and A. J. Dirkmaat, Phys. Lett. **113A**, 489 (1986). * [3] A. de
+Visser, A. Menovsky, and J. J. M. Franse, Physica B **147**, 81
+(1987). * [4] G. Aeppli, E. Bucher, and G. Shirane, Phys. Rev. B **32**,
+7579 (1985). * [5] G. Aeppli, A. Goldman, G. Shirane, E. Bucher, and
+M.-Ch. Lux-Steiner, Phys. Rev. Lett. **58**, 808 (1987). * [6] G.
+Aeppli, E. Bucher, C. Broholm, J. K. Kjems, J. Baumann, and J. Hufnagl,
+Phys. Rev. Lett. **60**, 615 (1988). * [7] N. R. Bernhoeft, and G. G.
+Lonzarich, J. Phys.: Condens. Matter **7**, 7325 (1995). * [8] P.
+Frings, B. Renker, and C. Vettier, J. Magn. Magn. Mater. **63&64**, 202
+(1987). * [9] A. de Visser, R. J. Keizer, R. van Harrevelt, A. A.
+Menovsky, J. J. M. Franse, A. Amato, F. N. Gygax, M. Pinkpank, and A.
+Schenck, Physica B **230-232**, 53 (1997); J. Magn. Magn. Mater.
+**177-181**, 435 (1998). * [10] A. P. Ramirez, B. Batlogg, E. Bucher,
+and A. S. Cooper, Phys. Rev. Lett. **57**, 1072 (1985). * [11] K.
+Kadowaki, J. J. M. Franse, and S. B. Woods, J. Magn. Magn. Mater.
+**70**, 403 (1987). * [12] A. I. Goldman, G. Shirane, G. Aeppli, B.
+Batlogg, and E. Bucher, Phys. Rev. B **34**, 6564 (1986). * [13] B.
+Batlogg, D. J. Bishop, E. Bucher, B. Golding, Jr., A. P. Ramirez, Z.
+Fisk, and J. L. Smith, J. Magn. Magn. Mater. **63&64**, 441 (1987). *
+[14] K. Kadowaki, J. C. P. Klaasse, and J. J. M. Franse, J. Magn. Magn.
+Mater. **76&77**, 233 (1988). * [15] K. Kadowaki, M. van Sprang, A. A.
+Menovsky, and J. J. M. Franse, Jpn. J. Appl. Phys., Suppl. **26**, 1243
+(1987). * [16] G. R. Stewart, Z. Fisk, J. O. Willis, and J. L. Smith,
+Phys. Rev. Lett. **52**, 679 (1984). * [17] For a recent review, see R.
+H. Heffner, and M. Norman, Comments Condens. Matter Phys. **17**, 361
+(1996). * [18] For a recent review, see J. A. Sauls, Adv. Phys. **43**,
+113 (1994). * [19] R. Joynt, Supercond. Sci. Technol. **1**, 210 (1988);
+K. Machida, M. Ozaki, and T. Ohmi, J. Phys. Soc. Jpn. **58**, 4116
+(1989); D. W. Hess, T. Tokuyasu, and J. A. Sauls, J. Phys.: Condens.
+Matter **1**, 8135 (1989). * [20] A. de Visser, R. J. Keizer, A. A.
+Menovsky, M. Mihalik, F. S. Tautz, J. J. M. Franse, B. Fak, N. H. van
+Dijk, J. Flouquet, J. Bossy, and S. Pujol, Physica B **230-232**, 49
+(1997). * [21] M. J. Graf, R. J. Keizer, A. A. Menovsky, and J. J. M.
+Franse, Phys. Rev. B **60**, 3056 (1999). * [22] T. J. Heal, and G. I.
+Williams, Acta Crystallogr. **8**, 494 (1955). * [23] J. Schweizer, in
+_Neutron and Synchrotron Radiation for Condensed Matter Studies_, edited
+by J. Baruchel, J. L. Hodeau, M. S. Lehmann, J. R. Regnard, and C.
+Schlenker (Springer-Verlag, Berlin, 1994), Vol. II, p. 97. * [24] J.
+Rossat-Mignod, in _Methods of Experimental Physics_, edited by K. Skold
+and D. L. Price (Academic, New York, 1987), Vol. 23, part C, p. 69. *
+[25] S. M. Hayden, L. Taillefer, C. Vettier, and J. Flouquet, Phys. Rev.
+B **46**, 8675 (1992). * [26] N. H. van Dijk, B. Fak, L. P. Regnault, A.
+Huxley, and M.-T. Fernandez-Diaz, Phys. Rev. B **58**, 3186 (1998); N.
+H. van Dijk (private communication). * [27] E. D. Isaacs, P. Zschack, C.
+L. Broholm, C. Burns, G. Aeppli, A. P. Ramirez, T. T. M. Palstra, R. W.
+Erwin, N. Stucheli, and E. Bucher, Phys. Rev. Lett. **75**, 1178
+(1995). * [28] C. Domb, _The Critical Point_ (Taylor & Francis, London,
+1996). * [29] R. Kubo, Phys. Rev. **87**, 568 (1952). * [30] A. de
+Visser, P. Haen, T. Vorenkamp, M. van Sprang, A. A. Menovsky, and J. J.
+M. Franse, J. Magn. Magn. Mater. **76&77**, 112 (1988). * [31] J. J. M.
+Franse, K. Kadowaki, A. Menovsky, M. van Sprang, and A. de Visser, J.
+Appl. Phys. **61**, 3380 (1987). * [32] T. Suzuki, K. Kumagai, Y.
+Kohori, and T. Kohara, J. Magn. Magn. Mater. **177-181**, 461 (1998). *
+[33] S. Doniach, Physica B **91**, 231 (1977). * [34] A. de Visser, R.
+J. Keizer, M. J. Graf, A. A. Menovsky, and J. J. M. Franse, J. Magn.
+Magn. Mater. **177-181**, 287 (1998). * [35] M. J. Graf, R. J. Keizer,
+A. de Visser, and J. J. M. Franse, Physica B **259-261**, 666 (1999); R.
+J. Keizer, M. J. Graf, A. de Visser, and J. J. M. Franse (unpublished).
+. * [36] T. Trappmann, H. von Lohneysen, and L. Taillefer, Phys. Rev. B
+**43**, 13 714 (1991). * [37] M. C. Aronson, R. Clarke, B. G. Demczyk,
+B. R. Coles, J. L. Smith, A. de Visser, T. Vorenkamp, and J. J. M.
+Franse, Physica B **186-188**, 788 (1993). * [38] B. Fak (unpublished) *
+[39] P. Dalmas de Reotier, A. Huxley, A. Yaouanc, J. Flouquet, P.
+Bonville, P. Imbert, P. Pari, P. C. M. Gubbens, and A. M. Mulders, Phys.
+Lett. A **205**, 239 (1995). * [40] R. Heffner, D. W. Cooke, A. L.
+Giorgi, R. L. Hutson, M. E. Schillaci, H. D. Rempp, J. L. Smith, J. O.
+Willis, D. E. MacLaughlin, C. Boekema, R. L. Lichti, J. Oostens, and A.
+B. Denison, Phys. Rev. B **39**, 11 345 (1989). * [41] Y. Kohori, M.
+Ishii, and T. Kohara, J. Magn. Magn. Mater. **177-181**, 441 (1998). *
+[42] B. Lussier, L. Taillefer, W. J. L. Buyers, T. E. Mason, and T.
+Petersen, Phys. Rev. B **54**, R6873 (1996). * [43] P. H. Frings
+(private communication). * [44] J. J. M. Franse, H. P. van der Meulen,
+and A. de Visser, Physica B **165&166**, 383 (1990). * [45] P. Haen, J.
+P. Kappler, F. Lapierre, P. Lehmann, P. Lejay, J. Flouquet, and A.
+Meyer, J. Phys. (Paris), Colloq. **49**, C8-757 (1988). * [46] H. von
+Lohneysen, A. Schroder, T. Trappmann, and M. Welsch, J. Magn. Magn.
+Mater. **108**, 45 (1992). * [47] K. Bakker, Ph.D. thesis, University of
+Amsterdam, 1993. * [48] J. Tang, A. de Visser, A. Matsushita, and T.
+Matsumoto, J. Magn. Magn. Mater. **177-181**, 465 (1998).

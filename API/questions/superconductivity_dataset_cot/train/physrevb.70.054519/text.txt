@@ -1,0 +1,167 @@
+Magnetic field dependence of low-temperature specific heat of the spinel oxide superconductor LiTi\({}_{2}\)O\({}_{4}\)
+
+C. P. Sun
+
+Department of Physics, National Sun Yat Sen University, Kaohsiung 804, Taiwan, Republic of China
+
+J.-Y. Lin
+
+Institute of Physics, National Chiao-Tung University, Hsin-chu 300, Taiwan, Republic of China
+
+S. Mollah
+
+P. L. Ho
+
+H. D. Yang
+
+F. C. Hsu
+
+Y. C. Liao
+
+M. K. Wu
+
+Department of Physics, National Sain Yat Sen University, Kaohsiung 804, Taiwan, Republic of China Institute of Physics, Academia Sinica, Taipei 100, Taiwan, Republic of China
+
+11 March 200420  leading to the formation of Li\({}_{2}\)Ti\({}_{2}\)O\({}_{5}\). Then it was mixed with a proper amount of Ti\({}_{2}\)O\({}_{3}\), grounded thoroughly, pressed into pellets, and sintered at 880\({}^{\circ}\)C for 24 h under a dynamic vacuum with pressure less than 10\({}^{-4}\) Torr. Basically, to obtain a pure LiTi\({}_{2}\)O\({}_{4}\) phase, one needs to add \(\sim\)15% more of Li than nominal composition due to its volatility. Powder x-ray diffraction (XRD) data obtained by SIEMENS D5000 diffractometer using \(CuKa\) radiation showed that Li\({}_{1+x}\)Ti\({}_{2}\)O\({}_{4}\) exhibited a Ti\({}_{2}\)O\({}_{3}\) impurity phase for \(x\)=0 and the pure LiTi\({}_{2}\)O\({}_{4}\) phase was obtained for 0.1 \(\leq\)\(x\)\(\leq\) 0.15 (Ref. 8) which was used for this specific heat measurement. The low temperature specific heat \(C(T,H)\) was measured with a \({}^{3}\)He heat-pulsed thermal relaxation calorimeter [18] in the temperature range from 0.6 to 20 K under different magnetic fields (0\(-\)8 T). The precision of the measurement in this temperature range is about 1%. To test the accuracy of the field dependence of specific heat, \(C(T,H)\) of a standard copper sample was measured at \(H\)=0, 1, and 8 T, respectively. The scatter of data in different magnetic fields was within 3%. \(T_{c}(\sim\)11.4 K) obtained from specific heat data is consistent with that measured by resistivity on the same sample. [8]
+
+## III Results and Discussion
+
+Figure 1 shows the low temperature specific heat \(C(T,H)\) of LiTi\({}_{2}\)O\({}_{4}\) with \(H\)=0 and 8 T as \(C/T\) vs \(T^{2}\). The normal state specific heat in the absence of a magnetic field,
+
+\[C_{n}(T)=\gamma_{n}T+C_{lattice}(T),\] (1)
+
+is extracted from \(H\)=8 T data between 8 and 20 K, where \(\gamma_{n}T\) is the electronic term due to free charge carriers and \(C_{lattice}(T)\)=\(\beta T^{3}+\alpha T^{6}\) is representing the phonon contribution which is assumed to be independent of the magnetic field. It is found that \(\gamma_{n}\)=19.15\(\pm\)0.20(mJ/mol K\({}^{2}\)), \(\beta\)=0.048 \(\pm\)0.002(mJ/mol K\({}^{4}\)), and \(\alpha\)=0.00012\(\pm\)0.00005(mJ/mol K\({}^{6}\)) give the best fitting (solid line in Fig. 1) to the experimental data. It is noted that if we take \(C_{lattice}(T)\)=\(\beta T^{3}+\alpha T^{5}+DT^{7}\), the best fit occurs at a negative value of (D(=-2.8\(\pm\)0.5 \(\times\) 10\({}^{-7}\) mJ/mol K\({}^{8}\)) which is unreasonable. On the other hand, \(C_{lattice}(T)\)=\(\beta T^{3}\) gives a much higher rms value compared to \(C_{lattice}(T)\)=\(\beta T^{3}+\alpha T^{5}\). The enhancement of \(\gamma_{n}\) by the electron-phonon interaction is given by [19]
+
+\[\gamma_{n}=(1/3)k_{B}\pi^{2}N(E_{F})(1+\lambda),\] (2)
+
+where \(N(E_{F})\) is the band structure density of states at the Fermi level, \(k_{B}\) is the Boltzmann constant, and \(\lambda\) is the electron-phonon interaction constant. Taking \(\lambda\)=0.65 as obtained from low temperature specific heat data (discussed later), the calculated value of \(N(E_{F})\) for the present sample
+
+\begin{table}
+\begin{tabular}{l c c c c} Parameters & Ref. 2 & Ref. 3 & Ref. 4 & Present work \\ \hline \(T_{c}\) (K) & 11.7 & 12.4 & 11.8 & 11.4\(\pm\)0.3 \\ \(\Delta T_{c}\) (K) & 1.2 & 0.32 & 0.2 & 0.3 \\ \(\gamma_{n}\) (mJ/mol K\({}^{2}\)) & 21.4 & 21.98 & 17.9 & 19.15\(\pm\)0.20 \\ \(N(E_{F})\) (states/eV atom) & 0.97 & 0.76 & 0.82 & 0.70\(\pm\)0.01 \\ \(\beta\) (mJ/mol K\({}^{4}\)) & 0.043 & 0.089 & 0.040 & 0.048\(\pm\)0.002 \\ \(\Theta_{\rm D}\) (K) & 685 & 535 & 700 & 657\(\pm\)33 \\ \(\delta C/\gamma_{n}T_{c}\) & 1.59 & 1.57 & 1.75 & 1.78 \\ \(2\Delta/k_{B}T_{c}\) & – & \(\sim\)3.8 & – & \(\sim\)4.0 \\ \(\  is \(\sim\)0.70 states/eV atom. This is lower than that (\(\sim\)0.97 states/eV atom) perceived by McCallum _et al.[2]_ from susceptibility data which would not satisfy the transition temperature from the McMillan equation.[19] However, the authors[2] indicated that the reduction of \(N(E_{F})\) by 15% (orbital contribution and/or exchange enhancement to total susceptibility) would explain it. The reduced \(N(E_{F})\) is in close agreement with the present investigation. The Debye temperature \(\Theta_{\rm D}\)=657 +- 33 K is derived by using the relation
+
+\[\beta = 1.944 \times 10^{6} \times n/\Theta_{\rm D}^{3},\] (3)
+
+where \(n\) is the number of atoms per formula unit and takes 7 for LiTi2O4. This is somewhat higher than those experimentally obtained and theoretically predicted values[3, 11] (\(\sim\)575 K) but closer to those (685 - 700 K) reported by the group of Johnston.[2, 4] The values of \(\gamma_{n}\),\(N(E_{F})\), and \(\Theta_{\rm D}\) are listed in Table 1 along with some other parameters for a comparison with reported results.
+
+The characteristics of superconducting phase transition in LiTi2O4 can be analyzed using the relation
+
+\[\delta C(T) = C(T,H = 0\ {\rm T}) - C_{n}(T).\] (4)
+
+The resultant \(\delta C(T)/T\) vs T is shown in Fig. 2, where the inset illustrates the conservation of entropy \(S = \int_{0}^{T}(\delta C/T)dT\) around the transition. This conservation of entropy is essential for a second order, such as superconducting-normal, phase transition. In this case, failure to include the \(\alpha T^{5}\) term in Eq. (1) will not totally satisfy this requirement.[2] In fact, this requirement may be used to testify the justification of the values of \(\gamma_{n}\) and \(\Theta_{\rm D}\). The dimensionless specific-heat jump at \(T_{c}\) is \(\delta C/\gamma_{n}T_{c} = 1.78\) as indicated in Fig. 2 which is greater than the typical weak coupling value (\(\sim\)1.43). Thus \(\delta C(T)/T\) is well fitted to the BCS model as shown in Fig. 2 by the solid line with a little higher \(2\Delta/k_{B}T_{c}(\sim\)-4.0), where \(\Delta\) is the superconducting energy gap instead of the weak coupling value (\(\sim\)3.52). This value of \(2\Delta/k_{B}T_{c}\sim 4\) (i.e., \(\Delta\) = 1.97 meV) is consistent with 3.8 in Ref. 3 and the reference therein where the tunneling experiments yielded the value of 4.0. Consequently, _the superconductivity in LiTi2O4 can be explained by the moderate coupling BCS framework though the early low temperature specific heat and theoretical calculations, respectively, indicated weak and strong coupling.[2, 4, 10, 11, 3, 4, 10]_
+
+The electronic specific heat in the superconducting state is given by \(C_{ex}(T) = C(T) - C_{lattice}(T)\). A plot of logarithmic \(C_{ex}(T)/\gamma_{n}T_{c}\) vs \(T_{c}/T\) (Fig. 3) shows that the fitting of data (as demonstrated by the solid line) within \(T_{c}/T\)=2 to 5 and fol
+
+Figure 3: Logarithmic \(C_{ex}/\gamma_{n}T_{c}\) vs \(T_{c}/T\) of LiTi2O4 in the superconducting state. The solid line is the linear fit to the data for \(T_{c}/T\) between 2 and 5.
+
+Figure 2: Plot of \(\delta C(T)/T\) vs T with \(\delta C(T)\) = \(C(T) - C_{n}(T)\). The solid line is the BCS fitting with \(2\Delta/k_{B}T_{c}\)=4. The inset shows the entropy conservation around the transition temperature.
+
+  lows the relation \(C_{ex}(T)/\gamma_{n}T_{c}\)=\(A\) exp[(-\(aT_{c}/T\))] with \(A\) = 9.87 and \(a\)= 1.58. However, the BCS theory predicts \(C_{ex}(T)/\gamma_{n}T_{c}\)=8.5 exp[(-1.44T_{c}/T\)] for this temperature fitting range in the weak coupling limit.[2] Therefore, both the values of the coefficient and prefactor are in the range of typical moderate coupling BCS fully gapped superconductors.
+
+The electron-phonon coupling constant \(\lambda\) is estimated to be \(\sim\)0.65 (Table 1) using the relation [20]
+
+\[\delta C/\gamma_{n}T_{c}=1.43+0.942\lambda^{2}-0.195\lambda^{3}.\] (5)
+
+According to McMillan model,[19] for weak coupling \(\lambda\)\(\ll\) 1, for weak and intermediate coupling \(\lambda\)\(<\) 1, and for strong coupling \(\lambda\)\(>\) 1. Therefore, the present \(\lambda\) value suggests that LiTi\({}_{2}\)O\({}_{4}\) is a moderate coupling superconductor rather than a weak coupling one.[2, 3, 4] Nevertheless, the value of \(\lambda\) is much lower than that (\(\sim\)1.8) of the theoretical predictions (indicating strong coupling superconductivity in LiTi\({}_{2}\)O\({}_{4}\)) which may be due to the spin fluctuation effect.[10, 11] Taking \(\Theta_{\rm D}\) = 657 K, \(\lambda\)\(=\) 0.65, and observed \(T_{c}\)\(\sim\) 11.4 K, the Coulomb repulsion parameter \(\mu^{*}\)\(\sim\) 0.13 can be obtained from the McMillan formula,[19]
+
+\[T_{c}=(\Theta_{\rm D}/1.45)\times\exp\{-\ 1.04(1+\lambda)/[\lambda-\mu^{*}(1+0.62 \lambda)]\}.\] (6)
+
+The value of \(\mu^{*}\) is the same as transition metals,[19] and is in the range of those reported earlier[2, 3] confirming the BCS-type \(d\)-band superconductivity in LiTi\({}_{2}\)O\({}_{4}\).
+
+The magnetic field dependence of \(C(T,H)/T\) and \(\delta C(T,H)(\equiv C(T,H)-C_{n}(T))/T\) were plotted in Figs. 4(a) and 4(b), respectively. It is noticed that the conservation of entropy (the area above and below zero of \(C/T\) are equivalent around the superconducting transition) is fundamentally satisfied for all studied magnetic fields. This implies that the sample is of good quality without detectable impurities (particularly magnetic field dependent nonsuperconducting phases). The dissimilar example has been observed in Ba\({}_{1-x}\)K\({}_{x}\)BiO\({}_{3}\) (Ref. [21]) due to defects and the inhomogeneity of the sample. Figure 5 demonstrates the magnetic field dependence of very low temperature (\(\leq\)5 K) specific heat as \(C/T\) vs \(T^{2}\). The coefficient of electronic specific heat \(\gamma(H)\) with various fields has been estimated from the linear extrapolation of data below 2 K down to 0 K. In order to investigate the low energy vortex excitation under magnetic fields, the variation of \(\gamma(H)\) with \(H\) is shown in Fig. 6. The
+
+Figure 4: (a) \(C(T,H)/T\) vs \(T\) and (b) \(\delta C(T,H)/T\) vs \(T\) under various magnetic fields. The entropy around the superconducting transition is conserved even in magnetic fields.
+
+  best fit leads to \(\gamma(H)\!\sim\!H^{0.95}\) as indicated by the solid line. Clearly, \(\gamma(H)\) follows an \(H\) dependence which is very close to be linear, especially for \(H\!\approx\!1\) T. The slight deviation in low \(H\) could be due to the vortex-vortex interaction as discussed in Refs. [22] and [23]. The value of \(H_{c2}(T\!=\!0)\) estimated from Fig. 6 using linear extrapolation of \(\gamma(H)\) for \(H\!\approx\!1\) T to \(\gamma_{n}\!\sim\!19.15\) mJ/mol K\({}^{2}\) is \(H_{c2}(T\!=\!0)\!=\!11.0\!\pm\!0.5\) T. It is noted that a pronounced nonlinearity of \(\gamma(H)\), seen in UPt\({}_{3}\),[24] CeRu\({}_{2}\),[25] and NbSe\({}_{2}\),[26] at low magnetic fields, is not obvious in the present LiTi\({}_{2}\)O\({}_{4}\). Theoretically, \(\gamma(H)\) is expected to be proportional to \(H\) for a conventional \(s\)-wave superconductor.[27] However, \(\gamma(H)\!\propto\!H^{0.5}\) is predicted for a nodal superconductivity.[28] In fact, \(\gamma(H)\) of cuprate superconductors has been extensively studied in this context.[29] Consequently, the magnetic field dependence of \(\gamma(H)\) suggests that LiTi\({}_{2}\)O\({}_{4}\) is an \(s\)-wave superconductor in nature.
+
+Figure 7 shows the temperature variation of upper critical field \(H_{c2}(T)\) as obtained from Fig. 4 where the solid line is the theoretical fitting based on negligible spin paramagnetic and spin-orbital effect by using the Werthamer-Helfand-Hohenberg (WHH) theory.[30] The error bar in \(T_{c}(H)\) is determined by the sharpness of the superconducting transition as shown in the inset of Fig. 7 for a particular magnetic field of 6 T. The same procedure is also followed for other magnetic fields. The best fit results in \((dH_{c}/dT_{c})_{T=T}\!=\!1.45\)\(\pm\!0.03(\)T/K\()\) and consequently \(H_{c2}(0)\!=\!11.7\!\pm\!0.4\) T (Table I). It is noted that the value of \(H_{c2}(0)\) estimated from WHH theory is consistent with the value (11.0\(\pm\)0.5 T) obtained from Fig. 6. This consistency implies that the spin-orbital interaction in LiTi\({}_{2}\)O\({}_{4}\) is negligible as considered for the fitting of the data with WHH theory. The small spin-orbital interaction is actually expected since Ti is one of the lightest transition elements. However, the \(H_{c2}(0)\) of present sample is much higher than that (\(\sim\!2\) T) predicted by Heintz _et al.[3]_ but lower than that (\(\sim\!32.8\) T) reported by Harrison _et al.[7]_ For type-II superconductors, the Pauli limiting field \(H_{p}(0)\) =1.84\(\times\)10\({}^{4}T_{c}\) should satisfy the relation[31]\(H_{c2}(0)\!\approx\!H_{p}(0)\). Though Harrison _et al.[7]_ concluded LiTi\({}_{2}\)O\({}_{4}\) to be an extreme type-II superconductor, their reported value of \(H_{c2}(0)\) did not satisfy the above condition. Our estimated value of \(H_{p}(0)\)\(\sim\!21\) T (Table I) is higher than \(H_{c2}(0)\!\sim\!11.7\) T, confirming the typical type-II superconductivity in LiTi\({}_{2}\)O\({}_{4}\).
+
+To determine the following important parameters of LiTi\({}_{2}\)O\({}_{4}\), the residual resistivity \(\rho_{res}\!\sim\!6.9\!\times\!10^{-5}\)\(\Omega\) cm was calculated from the formula[32]
+
+\[[-dH_{c2}/dT]_{T=T_{c}}\!=\!4.48\times 10^{4}\gamma_{n}\rho_{res}.\] (7)
+
+It is noted that the calculated \(\rho_{res}\), though much lower than the measured value (\(\sim\!5.3\!\times\!10^{-2}\Omega\) cm) from the resistivity data (not shown), is in the same order of magnitude as that
+
+Figure 5: \(C/T\) vs \(T^{2}\) at very low temperature (\(\approx\!5\) K) under different magnetic fields. \(\gamma(H)\) has been estimated from the linear extrapolation of data down to 0 K.
+
+Figure 6: Magnetic field dependence of electronic specific heat coefficient \(\gamma(H)\) derived from the linear extrapolation of data using \(C/T\) vs \(T^{2}\) plot (Fig. 5) for various magnetic fields below 2 K.
+
+  reported in Ref. 7. However, the measured value is consistent with that reported by Johnston _et al._1 This large discrepancy between the measured and calculated \(\rho_{res}\) indicates that the studied sample exhibits a lot of grain boundaries which highly affect its electrical transport properties. The single crystalline LiTi\({}_{2}\)O\({}_{4}\) may be indispensable for solving the puzzles of the transport properties. Thermodynamic critical field \(H_{c}(0) \sim 0.320\pm 0.003\) T, Ginzburg-London (GL) coherence length \(\xi_{\rm GL}(0) \sim 55\pm 3\) A, penetration depth \(\lambda_{\rm GL}(0) \sim 1600\pm 50\) A, and lower critical field \(H_{c1}(0)\sim 26.0\pm 0.3\) mT (Table I) are estimated from the following relations [33, 23] in the dirty limit by using \(\gamma_{n}\sim 4570\) erg/ cm\({}^{3}\) K\({}^{2}\) (converted from \(\gamma_{n}\sim 19.15\) mJ/mol K\({}^{2}\)), \(\rho_{res}\sim 6.9\)\(\times 10^{-5}\)\(\Omega\) cm [calculated from Eq. (7)] and \(H_{c2}(0)\sim 11.7\) T,
+
+\[H_{c}(0)=4.23\,\gamma_{n}{}^{1/2}T_{c}\ {\rm Oe},\] (8)
+
+\[\xi_{\rm GL}(0)=\{\Phi_{0}(2\,\pi H_{c2}(0)\})^{1/2}\ \rm\AA,\] (9)
+
+\[\lambda_{\rm GL}(0)=6.42\times 10^{5}(\rho_{res}/T_{c})^{1/2}\ \rm\AA,\] (10)
+
+\[H_{c1}(0)=H_{c}(0)(2^{1/2}\,\kappa)^{-1}\ \ln\ \kappa\ {\rm Oe},\] (11)
+
+where the fluxon \(\Phi_{0}\)\(\approx 2.0678\times 10^{9}\) Oe A\({}^{2}\) and \(\kappa\)[=\(\lambda_{\rm GL}(0)\)/ \(\xi_{\rm GL}(0)\)]\(\sim 29\pm 1\). The values of \(\xi_{\rm GL}(0)\) and \(\lambda_{\rm GL}(0)\) are, respectively, higher and lower than those [\(\xi_{\rm GL}(0)\sim 25.9\) A and \(\lambda_{\rm GL}(0)\sim 2730\) A] reported by Harrison _et al._7 Furthermore, \(H_{c1}(0)\) is in the range of the values achieved from [3] the M-H curve (\(\sim\)20 mT) and the fitting of \(H_{c1}(T)=H_{c1}(0)(T_{c}-T)\) plot (\(\sim\)25 mT). All the obtained parameters \(\xi_{\rm GL}(0)\), \(\lambda_{\rm GL}(0)\), and \(\kappa\) of LiTi\({}_{2}\)O\({}_{4}\) further satisfy the conditions for type-II superconductivity.[33]
+
+All the above estimation of the parameters assumes the dirty limit superconductivity in LiTi\({}_{2}\)O\({}_{4}\). Consequently, it is of interest to estimate the value of mean free path \(l\) below \(T_{c}\), which should be smaller than that of \(\xi_{\rm GL}(0)\) in the dirty limit. The band structure calculations indicate that the Fermi level of LiTi\({}_{2}\)O\({}_{4}\) in the partially filled conduction band lies in an electronic structure which is not too far from the free-electron-like one with a mass renormalization factor.[10, 11] By the free electron model with \(\rho_{res}\)=6.9\(\times 10^{-5}\)\(\Omega\) cm and the carrier concentration \(n\)=1.35\(\times 110^{23}\) cm\({}^{-3}\) (Ref. 7), the estimated \(l\)=32 A is indeed shorter than \(\xi_{\rm GL}(0)\). Therefore, the
+
+\begin{table}
+\begin{tabular}{l c c c c c} Superconductors & LiTi\({}_{2}\)O\({}_{4}\) & BaPb\({}_{0.75}\)Bi\({}_{0.25}\)O\({}_{3}\) & Ba\({}_{0.6}\)K\({}_{0.4}\)BiO\({}_{3}\) & La\({}_{1.84}\)Sr\({}_{0.16}\)CuO\({}_{4}\) & Sr\({}_{2}\)RuO\({}_{4}\) \\ Crystal structure & Spinel cubic & Perovskite cubic & Perovskite cubic & Layered-perovskite & Layered-perovskite \\ \hline \(T_{c}\) (K) & 11.4\(\pm\)0.3 & 11.7 & 30 & 38 & 1.48 \\ \(\gamma_{n}\) (mJ/mol K\({}^{2}\)) & 19.15\(\pm\)0.20 & 1.6 & 0.9 & 0.77 & 37.5 \\ \(N(E_{F})\) (states/eV atom) & 0.70\(\pm\)0.01 & 0.14 & 0.32\(\pm\)0.07 & – & – \\ \(\Theta_{\rm D}\) (K) & 657\(\pm\)33 & 195 & 346 & 389 & – \\ \(\delta C/\gamma_{n}T_{c}\) & 1.97 & – & – & – & 0.74\(\pm\)0.02 \\ \(2\Delta/k_{B}T_{c}\) & \(\sim\)4 & – & 3.5\(\pm\)0.1 & – & – \\ \(\lambda\) & 0.65 & 1.45 & 0.6\(-\)0.8 & – & – \\ Pairing state & \(s\)-wave & \(s\)-wave & \(s\)-wave & \(d\)-wave & \(p\)-wave? \\ Reference & This work & 12 & 21, 34 & 35, 36 & 37 \\ \end{tabular}
+\end{table}
+Table 2: A comparison of several important parameters for particular transition-metal oxide superconductors.
+
+Figure 7: Temperature variation of upper critical field \(H_{c2}(T)\) of LiTi\({}_{2}\)O\({}_{4}\) obtained from Fig. 4 where the solid line indicates the fitting of data with WHH theory by which \(H_{c2}(0)\sim 11.7\) T is estimated. The inset shows the example of how the error bar of \(T_{c}(H)\) is determined by the sharpness of the superconducting transition for \(H\) =6 T data.
+
+  above analysis using Eqs. (7)-(11) in the dirty limit regime is self-consistent. In addition, the issue of the mass renormalization factor in the previous literature [10, 11] was actually unsolved. A large \(\lambda_{\rm tot}\)=1.8 was inferred implying a strong electron-electron interaction with unknown origin. [11] One can express \(\lambda_{\rm tot}\)=\(\lambda+\lambda_{e}\), where \(\lambda\) is the electron-phonon coupling constant and \(\lambda_{e}\) manifests the interactions due to the possible spin fluctuations and other electron-electron interactions. If we rewrite Eq. (2) as \(\gamma_{n}\)=\((1/3)k_{B}\pi^{2}N(E_{F})(1+\lambda_{\rm tot})\) and assume the theoretical \(N(E_{F})\)=0.46 states/eV atom as achieved from the band structure calculations, [10, 11] then \(\lambda_{\rm tot}\)=1.53 can be obtained from the \(\gamma_{n}\)=19.15(mJ/mol K\({}^{2}\)) of present specific heat data. Therefore, the resultant \(\lambda_{\rm c}\)=\(\lambda_{\rm tot}\)\(\rightarrow\)\(\lambda\)=1.53 \(-\)0.65=0.88 suggests a moderate electron-electron interaction in LiTi\({}_{2}\)O\({}_{4}\), and is more consistent with a Stoner enhancement factor \((1-S)^{-1}\)\(\sim\) 2, which was derived from the magnetic susceptibility \(\chi\)=\(\mu_{B}^{2}N(E_{F})/(1-S)\). [11]
+
+Finally, it may be interesting to look over the existing transition-metal oxide superconductors, such as, BaPb\({}_{0.75}\)Bi\({}_{0.25}\)O\({}_{3}\) (Ref. [12]), Ba\({}_{0.6}\)K\({}_{0.4}\)BiO\({}_{3}\) (Refs. [21] and [34]), La\({}_{1.84}\)Sr\({}_{0.16}\)CuO\({}_{4}\) (Refs. [35] and [36]) and Sr\({}_{2}\)RuO\({}_{4}\) (Ref. [37]) for comparison. Some of the important parameters along with those of our studied LiTi\({}_{2}\)O\({}_{4}\) are summarized in Table II. One would find that the \(T_{c}\) of these superconductors does not strongly correlate with their structure, \(\gamma_{n}\),\(N(E_{\rm F})\), \(\Theta_{\rm D}\), and the electron-phonon coupling constant \(\lambda\). It is also evident that the superconductivity of each material occurs at only very narrow transition-metal composition. A small amount of metal substitution or a little off-stoichiometry for transition metal will dramatically suppress the superconductivity. Thus, the electronic properties of the transition metals Ti, Bi, Cu, and Ru must play a unique role on the occurrence of superconductivity. In addition, the superconducting pairing state of these superconductors varies from \(s\)-wave, \(d\)-wave to possible \(p\)-wave symmetry (Table II). Accordingly, theoretical calculations and experimental probes on the energy bands need to be done for clarifying these points. Moreover, three more transition-metal oxide superconductors Cd\({}_{x}\)Re\({}_{2}\)O\({}_{7}\) (\(T_{c}\)\(\sim\) 1 K, Ref. [38]), Na\({}_{0.35}\)CoO\({}_{2}\)\({}^{-}\)1.3H\({}_{2}\)O (\(T_{c}\)\(\sim\) 5 K, Ref. [39]) and KOs\({}_{2}\)O\({}_{6}\) (\(T_{c}\)\(\sim\) 9 K, Ref. [40]) were reported most recently and also have attracted much attention due to their novel normal- and superconducting-state features. It is no doubt that the understanding of nature of superconductivity in transition-metal oxide superconductors will still challenge the scientists in the fields of condensed matter physics.
+
+## IV Summary
+
+In summary, the low temperature specific heat of LiTi\({}_{2}\)O\({}_{4}\) in magnetic fields is presented. Based on the present measurements and relevant theoretical relations, the normal- and superconducting-state parameters including electronic specific heat coefficient \(\gamma_{n}\)=19.15 mJ/mol K\({}^{2}\), Debye temperature \(\Theta_{\rm D}\)=657 K, \(\delta C/\gamma_{n}T_{c}\)\(\sim\) 1.78, superconducting energy gap \(\Delta\)\(\sim\) 1.97 meV, electron-phonon coupling constant \(\lambda\)\(\sim\) 0.65, upper critical field \(H_{c2}(0)\)\(\sim\) 11.7 T, thermodynamic critical field \(H_{c}(0)\)\(\sim\) 0.32 T, coherence length \(\xi_{\rm GL}(0)\)\(\sim\) 55 A, penetration depth \(\lambda_{\rm GL}(0)\)\(\sim\) 1600 A, and lower critical field \(H_{c1}(0)\)\(\sim\) 26 mT are evaluated and compared with some of those reported. Combining the results \(C_{\rm es}(T)/\gamma_{n}T_{c}\) =9.87 exp(\(-1.58T_{c}/T\)) and \(\gamma(H)\)\(\times\)\(H^{0.95}\), we conclude that LiTi\({}_{2}\)O\({}_{4}\) is a typical BCS-like, fully gapped, and moderate-coupling type-II superconductor in the dirty limit. The analysis also suggests that LiTi\({}_{2}\)O\({}_{4}\) is a moderately electron-electron correlated system.
+
+###### Acknowledgements.
+
+ This work was supported by National Science Council of Republic of China under contracts No. NSC 92-2112-M-110-017 and No. NSC 92-2112-M-009-032.
+
+## References
+
+* [*] Corresponding author. Electronic address: yang@mail.phys.nsysu.edu.tw
+* [+] Permanent address: Department of Physics, Aligarh Muslim University, Aligarh-202002, India.
+* [3] D. C. Johnston, J. Low Temp. Phys. **25**, 145 (1976).
+* [4] R. W. McCallum, D. C. Johnston, C. A. Luengo, and M. B. Maple, J. Low Temp. Phys. **25**, 177 (1976).
+* [5] J. M. Heintz, M. Drillon, R. Kuentzler, Y. Dossmann, J. P. Kappler, O. Durmeyer, and F. Gautier, Z. Phys. B: Condens. Matter **76**, 303 (1989).
+* [6] D. C. Johnston, C. A. Swenson, and S. Kondo, Phys. Rev. B **59**, 2627 (1999).
+* [7] D. P. Tunstall, J. R. M. Todd, S. Arumugam, G. Dai, M. Dalton, and P. P. Edwards, Phys. Rev. B **50**, 16 541 (1994).
+* [8] E. G. Moshopoulou, J. Am. Ceram. Soc. **82**, 3317 (1999).
+* [9] M. R. Harrison, P. P. Edwards, and J. B. Goodenough, J. Solid State Chem. **54**, 136 (1984); Philos. Mag. B **52**, 679 (1985).
+* [10] F. C. Xu, Y. C. Liao, M. J. Wang, C. T. Wu, K. F. Chiu, and M. K. Wu, J. Low Temp. Phys. **131**, 569 (2003).
+* [11] O. Durmeyer, J. P. Kappler, E. Beaurepaire, J. M. Heintz, and M. Drillon, J. Phys.: Condens. Matter **2**, 6127 (1990).
+* [12] S. Satpathy and R. M. Martin, Phys. Rev. B **36**, 7269 (1987).
+* [13] S. Massidda, J. Yu, and A. J. Freeman, Phys. Rev. B **38**, 11 352 (1988).
+* [14] T. Itoh, K. Kitazawa, and S. Tanaka, J. Phys. Soc. Jpn. **53**, 2668 (1984).
+* [15] P. W. Anderson, P. A. Lee, M. Randeria, T. M. Rice, N. Trivedi, and F. C. Zhang, cond-mat/0311467 (unpublished).
+* [16] C. M. Varma, cond-mat/0312385 (unpublished).
+* [17] D. Guyomard and J. M. Tarascon, Solid State Ionics **69**, 222 (1994); S. Shi, C. Ouyang, D. S. Wang, L. Chen, and X. Huang, Solid State Commun. **126**, 531 (2003).
+* [18] S. Kondo, D. C. Johnston, C. A. Swenson, F. Borsa, A. V. Mahajan, L. L. Miller, T. Gu, A. I. Goldman, M. B. Maple, D. A. Gajewski, E. J. Freeman, N. R. Dilley, R. P. Dickey, J. Merrin, K. Kojima, G. M. Luke, Y. J. Uemura, O. Chmaissem, and J. D. Jorgensen, Phys. Rev. Lett. **78**, 3729 (1997).
+* [19] C. P. Sun and H. D. Yang (unpublished).
+
+  * [18] H. D. Yang, J.-Y. Lin, H. H. Li, F. H. Hsu, C.-J. Liu, S.-C. Li, R.-C. Yu, and C.-Q. Jin, Phys. Rev. Lett. **87**, 167003 (2001).
+* [19] W. L. McMillan, Phys. Rev. **167**, 331 (1968).
+* [20] V. Z. Kresin and V. P. Parkhomenko, Sov. Phys. Solid State **16**, 2180 (1975).
+* [21] B. F. Woodfield, D. A. Wright, R. A. Fisher, and N. E. Phillips, Phys. Rev. Lett. **83**, 4622 (1999).
+* [22] J.-Y. Lin, P. L. Ho, H. L. Huang, P. H. Lin, Y.-L. Zhang, R.-C. Yu, C.-Q. Jin, and H. D. Yang, Phys. Rev. B **67**, 052501 (2003).
+* [23] A. P. Ramirez, Phys. Lett. A **211**, 59 (1996).
+* [24] A. P. Ramirez, N. Stucheli, and E. Bucher, Phys. Rev. Lett. **74**, 1218 (1995).
+* [25] M. Hedo, Y. Inada, E. Yamamoto, Y. Haga, Y. Onuki, Y. Aoki, T. D. Matsuda, H. Sato, and S. Takahashi, J. Phys. Soc. Jpn. **67**, 272 (1998).
+* [26] J. E. Sonier, M. F. Hundley, J. D. Thompson, and J. W. Brill, Phys. Rev. Lett. **82**, 4914 (1999).
+* [27] C. Caroli, P. G. de Gennes, and J. Marticon, Phys. Lett. **9**, 307 (1964).
+* [28] G. E. Volovik, JETP Lett. **58**, 469 (1993).
+* [29] H. D. Yang and J.-Y. Lin, J. Phys. Chem. Solids **62**, 1861 (2001).
+* [30] N. R. Werthamer, E. Helfand, and P. C. Hohenberg, Phys. Rev. **147**, 295 (1966).
+* [31] B. S. Chandrasekhar, Appl. Phys. Lett. **1**, 7 (1962).
+* [32] T. P. Orlando, E. J. McNiff, Jr., S. Foner, and M. R. Beasley, Phys. Rev. B **19**, 4545 (1979).
+* [33] C. Kittel, _Introduction to Solid State Physics_, 7th ed. (Wiley, New York, 1996).
+* [34] B. Batlogg, R. J. Cava, L. W. Rupp, Jr., A. M. Mujsec, J. J. Krajewski, J. P. Remeika, W. F. Peck, Jr., A. S. Cooper, and G. P. Espinosa, Phys. Rev. Lett. **61**, 1670 (1988).
+* [35] S. J. Chen, C. F. Chang, H. L. Tsay, H. D. Yang, and J.-Y. Lin, Phys. Rev. B **58**, R14 753 (1998).
+* [36] A. Junod, in _Studies of High Temperature Superconductors_, edited by A. V. Narlikar (Nova Science, Commack, NY, 1996), Vol. 19, p. 1.
+* [37] S. Nishizaki, Y. Maeno, and Z. Mao, J. Phys. Soc. Jpn. **69**, 572 (2000).
+* [38] M. Hanawa, Y. Muraoka, T. Tayama, T. Sakakibara, J. Yamaura, and Z. Hiroi, Phys. Rev. Lett. **87**, 187001 (2001).
+* [39] K. Takada, H. Sakurai, E. Takayama-Muromachi, F. Izumi, R. A. Dilanian, and T. Sasaki, Nature (London) **422**, 53 (2003).
+* [40] S. Yonezawa, Y. Muraoka, Y. Matsushita, and Z. Hiroi, J. Phys.: Condens. Matter **16**, L9 (2004).
+
+ 

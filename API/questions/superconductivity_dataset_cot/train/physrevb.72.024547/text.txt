@@ -1,0 +1,203 @@
+Specific heat, magnetic susceptibility, resistivity and thermal expansion of the superconductor ZrB\({}_{12}\)
+
+R. Lortz,\({}^{1}\) Y. Wang,\({}^{1}\) S. Abe,\({}^{1}\) C. Meingast,\({}^{2}\) Yu. B. Paderno,\({}^{3}\) V. Filippov,\({}^{3}\) and A. Junod\({}^{1,\ast}\)
+
+\({}^{1}\)Department of Condensed Matter Physics, University of Geneva, CH-1211 Geneva 4 (Switzerland)
+
+\({}^{2}\)Forschungszentrum Karlsruhe, Institut fur Festkorperphysik, 76021 Karlsruhe, Germany
+
+\({}^{3}\)Institute for Problems of Materials Science NANU, Kiev, Ukraine
+
+24 February 2005; published 29 July 2005
+
+###### Abstract
+
+In an attempt to clarify conflicting published data, we report new measurements of specific heat, resistivity, magnetic susceptibility, and thermal expansivity up to room temperature for the 6 K superconductor ZrB\({}_{12}\), using well-characterized single crystals with a residual resistivity ratio \(>\)9. The specific heat gives the bulk result 2\(\Delta(0)/k_{B}T_{c}\)=3.7 for the superconducting gap ratio, and excludes multiple gaps and \(d\)-wave symmetry for the Cooper pairs. The Sommerfeld constant \(\gamma_{n}\)=0.34 mJ K\({}^{-2}\) gat\({}^{-1}\) and the magnetic susceptibility \(\chi\)=\(-\)2.1 \(\times\) 10\({}^{-5}\) indicate a low density of states at the Fermi level. The Debye temperature \(\theta_{D}\) is in the range 1000\(-\)1200 K near zero and room temperature, but decreases by a factor of \(\sim\)2 at \(\sim\)35 K. The specific heat and resistivity curves are inverted to yield approximations of the phonon density of states \(F(\omega)\) and the spectral electron-phonon scattering function \(\alpha_{\nu}^{2}F(\omega)\), respectively. Both unveil a 15 meV mode, attributed to Zr vibrations in oversized B cages, which gives rise to electron-phonon coupling. The thermal expansivity further shows that this mode is anharmonic, while the vanishingly small discontinuity at \(T_{c}\) establishes that the cell volume is nearly optimal with respect to \(T_{c}\).
+
+24 February 2005; published 29 July 2005
+
+## Introduction
+
+The discovery of superconductivity at about 40 K in the metallic compound MgB\({}_{2}\)[1, 2] has stimulated a renewed interest in borides. The highest superconducting critical temperature in the \(M\)B\({}_{12}\) family is found in ZrB\({}_{12}\) with \(T_{c}\)=6 K.[3] This relatively high value compared to other dodecaborides has been considered as puzzling in view of the particularly low density of states at the Fermi level revealed by early measurements, such as the specific heat[3] and the magnetic susceptibility.[4] The exceptional hardness of this compound is reflected in the initial Debye temperature \(\theta_{D}(0)\) of the order of 1000 K.[3] The minor fraction of transition-metal atoms appears to be responsible for superconductivity, as shown by a comparison with similar materials.[4] Measurements of the isotope effect confirm this view: the exponent \(d\ln T_{c}/d\ln m\) for boron, \(-\)0.09 \(\pm\) 0.05,[5] is small compared to that for zirconium, \(-\)0.32 \(\pm\) 0.02.[6] The boron sublattice appears to serve as an inert background. The crystal structure (space group \(Fm3m\), \(a\)=7.388 A)[7, 8] is isotropic and based on a fcc arrangement of zirconium atoms, each of them being surrounded by 24 boron atoms arranged on a truncated octahedron. ZrB\({}_{12}\) has the smallest lattice constant of all known dodecaborides,[9] which suggests that the superconducting critical temperature might increase under pressure.
+
+Recently, large and homogeneous single crystals became available,[10] and several papers addressed again the properties and the superconducting mechanism of ZrB\({}_{12}\). Electron transport, penetration-depth, point-contact spectroscopy (PCS), scanning tunneling spectroscopy (STS), and ac and dc magnetization were investigated, with apparently conflicting results. The coupling strength appears to be weak, with a gap ratio 2\(\Delta(0)/k_{B}T_{c}\)=3.64 according to transport.[11] Consistently with this result, the thermodynamic critical field obtained from magnetization measurements follows a BCS-like behavior.[12] However PCS[11] and STS[12] rather indicate very strong coupling with a gap ratio 2\(\Delta(0)/k_{B}T_{c}\)=4.8. The symmetry of the superconducting wave function appears to be \(d\) wave according to the temperature dependence of the penetration depth,[13] but \(s\) wave according to STS and PCS.[11, 12] Similar discrepancies appear in the characterization of phonons. The Debye temperature is reported to be \(\theta_{D}\) =270\(-\)300 K according to transport,[13, 14, 15] but 930 K according to early specific-heat measurements.[3] Magnetic properties also are controversial: the upper critical field \(H_{c2}(0)\) is reported to be in the range of 1100 to over 2000 G according to PCS, radio-frequency susceptibility, and transport,[11, 13] but only 390 G according to dc magnetization.[12] Even the issue of type-I or type-II superconductivity is debated.[12, 13] Some of these discrepancies were discussed in terms of surface superconductivity.[12]
+
+This situation motivated us to measure again the specific heat, a technique which, at variance with many experiments cited above, is a bulk probe sensitive to volume-averaged quantities. Results will be presented in two papers. In the present one, we report specific-heat data measured with high accuracy up to room temperature in zero magnetic field. By using an inversion process, we obtain a coarse determination of the phonon density of states (PDOS) \(F(\omega)\). An important observation is that the PDOS departs markedly from the Debye model, featuring both very high cutoff energies and initial Debye temperature of the order of \(\sim\)1000 K, and an excess weight at intermediate energy. In parallel with specific heat, we report resistivity data in the same temperature range. By using a similar inversion technique, we obtain a coarse picture of the spectral electron-phonon coupling function relevant for transport, \(\alpha_{\nu}^{2}F(\omega)\). The function \(\alpha_{\nu}^{2}F(\omega)\) is closely related to the coupling function \(\alpha^{2}F(\omega)\) that deter  mines the superconducting critical temperature.[16; 17] The isotopic average of the electron-phonon matrix element \(\alpha_{\nu}^{2}F(\omega)/F(\omega)\) is found to be particularly large at phonon energies of the order of 15 meV. Implications on superconductivity and previous apparent discrepancies are discussed.
+
+Having measured the specific heat in the normal and in the superconducting state, we can determine the coupling strength in various ways. Our bulk data unambiguously point to weak coupling. The comparison of the Sommerfeld constant with the bare density of states at the Fermi level[18] confirms that the electron-phonon renormalization is small. We do not observe any power-law dependence of the specific heat at \(T\)\(\ll\)\(T_{c}\) that could be indicative of an unconventional symmetry of Cooper pairs. Finally we address the question of the possible pressure enhancement of the critical temperature by measuring the thermal expansivity, which is thermodynamically related to the pressure dependence of \(T_{c}\). We find that \(T_{c}\) of ZrB\({}_{12}\) is nearly at its optimum with respect to the cell volume. The study of the phase diagram in the \(H\)-\(T\) plane, showing the unusual occurrence of type-II/1 superconductivity, is presented in a second paper.[19]
+
+## II Experimental
+
+Single crystals were grown by the Kiev group by zone melting under argon atmosphere as described in Refs. 10-12, to which we refer for more detailed characterization. The large sample used for specific-heat measurements is a parallelepiped shaped by spark cutting followed by etching in a boiling HNO\({}_{3}\):H\({}_{2}\)O 1:1 solution. Its dimensions are 4.8 \(\times\) 4.7 \(\times\) 2.9 mm\({}^{3}\), with the \(\langle 100\rangle\) axis normal to the larger face; its mass is 0.21 g. The sample used for resistivity and magnetization measurements is a rod cut parallel to the \(\langle 100\rangle\) direction with a diamond saw. Its length is approximately 5.3 mm, its section 0.33 mm\({}^{2}\), and its mass 6.5 mg. The demagnetization factor is \(D\) \(\equiv\) 0.03 along the long axis.
+
+Energy-dispersive x-ray diffraction measurements (EDX) were used to check variations of the concentration from the center to the edges of the large sample, since the surface of the original cylindrical ingot tends to be boron-deficient. The B/(B + Zr) ratio (ideally 0.923) varies significantly (i.e., beyond 2\(\sigma\)=0.01) only in two corners of the sample, over a layer of a few tenths of a mm, where at the same time 7 % at. zinc is detected. On the average, 0.5 % at. silicon and 3 % at. oxygen are present at the surface. These impurities are assumed to arise from spark cutting (using Cu--Zn wires), abrasive polishing, and etching. However, the volume close to the surface where at most \(\sim\)10% of foreign phases is detected does not represent more than \(\sim\) 1% of the total volume. It follows that the global concentration of foreign phases is of the order of \(\sim\)0.1%. A bulk measurement such as the specific heat is insensitive to such concentration levels, and indeed the superconducting transition shows remarkable homogeneity. However, resistance and magnetic-shielding measurements may in principle be affected. The needle-shaped sample cut with a diamond saw without further polishing or etching is believed to be free from these problems.
+
+The superconducting transition temperature \(T_{c}\) was determined by four methods: resistivity [Fig. 1(a)], ac susceptibility [Fig. 1(b)], dc magnetization [Fig. 1(c)], and specific-heat jump at \(T_{c}\) [Fig. 1(d)] which, in this order, are increasingly representative of the bulk volume (Table 1). On the average, \(T_{c}\) \(\equiv\) 5.96 K and the bulk transition width is \(\approx\)0.5% of \(T_{c}\)
+
+\begin{table}
+\begin{tabular}{l c c}  & \(T_{c}\) midpoint (K) & \(\Delta T_{c}\) (mK) \\ Resistivity & 5.97 & \(<\)25 (0\%–100\%) \\ AC susceptibility @ 8 kHz, 0.01 Oe & 5.98 & 80 (10\%–90\%) \\ Meissner magnetization @ 1.75 Oe & 6.00 & 20 (10\%–90\%) \\ Specific-heat jump & 5.91 & \(<\)30 (0\%–100\%) \\ \end{tabular}
+\end{table}
+Table 1: Critical temperature and transition width measured by different methods. Differences result from independent temperature calibrations, differences in heating rates, and data density.
+
+Figure 1: Superconducting transition of the ZrB\({}_{12}\) crystal observed by (a) resistivity, (b) ac susceptibility, (c) Meissner magnetization, and (d) specific heat.
+
+  These experiments demonstrate the remarkable bulk homogeneity of the superconducting properties of the single crystal.
+
+The resistivity [Fig. 1(a)] was measured in a dc four-lead technique with offset compensation in a Quantum Design MPMS-5 magnetometer using a universal probe, a dc source, and a dc nanovoltmeter. The resistance of the contacts realized with silver paint were of the order of 1 O each. Data were taken from 2 to 320 K in zero field, using currents of 6 and 20 mA. For this experiment, the residual field of the MPMS magnet was zeroed by monitoring the magnetization of a Pb sphere. In-field data will be reported in a second paper.[19] The low-temperature resistivity does not change appreciably below ~10 K, making the determination of the residual resistivity _r_(0) = 1.925 _m_O cm unambiguous. Together with _r_(300) = 17.95 _m_O cm at room temperature, the residual resistivity ratio is found to be _r_(300)/_r_(0) = 9.325. Uncertainties in the absolute values due to geometrical factors are of the order of 10%.
+
+The Meissner magnetization [Fig. 1(c)] was measured in a Quantum Design MPMS-5 magnetometer using a scan length of 4 cm. The sample was cooled from above \(T_{c}\) to 5 K in a field of 1.75 Oe [~0.4% of \(H_{c}\)(0)], followed by data acquisition during warming through the transition at a rate of ~0.01 K min-1. Above \(T_{c}\), the magnetization was found to be linear in \(H\) up to the largest available field of 5 T. The normal-state susceptibility _kh_(_T_) is shown in Fig. 2. It is small and dominated by the diamagnetic core contribution. It does not show any spurious Curie or ferromagnetic component, at variance with early measurements.[4] The average susceptibility between 50 and 300 K is -2.08 x 10-5 in SI units (-1.66 x 10-6 uem cm-3,-7.75 x 10-6 uem gat-1). Based on band-structure calculations, the paramagnetic Pauli contribution is estimated to be 1.06 x 10-5.[18, 20]
+
+The specific heat was measured by a generalized relaxation technique at low temperature (1.2-16 K),[21] and using an adiabatic, continuous-heating calorimeter at high temperature (15-300 K).[21] Care was taken to zero the residual field of the 14 T magnet mounted in the cryostat. This precaution turned out to be important in view of the small critical field of ZrB12. For this purpose, in a preliminary experiment, we maximized the superconducting transition temperature of a pure Pb wire. As a sensitive check, we verified that the superconducting transition of ZrB12 was free from any latent heat. For normal-state specific-heat measurements, we applied a field of 5000 Oe. Results are shown in Fig. 3.
+
+A high-resolution capacitance dilatometer[22, 23] was used to measure the thermal expansion in the temperature range of 4-300 K. Data were taken upon heating at a constant rate of 15 mK s-1. He exchange gas (100 mbar at 300 K) was used to thermally couple the sample to the dilatometer.
+
+## Discussion
+
+### Specific heat and electron-phonon coupling strength
+
+Normal-state specific-heat data at low temperature are analyzed in a standard way according to the formula
+
+\[C_{n}(T\to 0)=\gamma_{n}T+\sum_{n\geq 1}\beta_{2n+1}T^{2n+1},\] (1)
+
+where the first term is the electronic contribution, with \(g_{n}\) = \(\frac{1}{3}\pi^{2}k_{B}^{2}(1+\lambda_{ep})N_{sb}(E_{F})\), \(k_{B}\) is Boltzmann's constant, \(k_{p}\) is the electron-phonon coupling constant, and \(N_{b}\)(_E__F_) is the band-structure density of states including two spin directions. The second term is the low-temperature expansion of the lattice specific heat, with \(b\)3 = \(\frac{12}{5}N_{sb}\pi^{4}\theta_{D}^{x 3}(0)\), with \(N_{b}\) Avogadros number and \(r_{D}\)(0) the initial Debye temperature. From a fit of normal-state data from 1.2 to 16 K, we find \(g_{n}\) = 0.34 mJ K-2 gat-1 and \(r_{D}\)(0) = 970 K. The Sommerfeld constant \(g_{n}\) corresponds to a dressed density of states at the Fermi level _N_(\(E_{F}\)) = 0.144 states eV-1 atom-1. Compared to recent band-structure calculations,[18, 20] there is room for a small renormalization factor 1 + \(k_{p}\)  1.2; in other words ZrB12 is in the weak-coupling regime of superconductivity. Consistently with this conclusion, we find that the normalized specific-heat jump is \(\Delta C/\gamma_{n}T_{c}\) = 1.66, not far from the weak-coupling BCS limit 1.43.
+
+The thermodynamic critical field \(H_{c}\)(_T_) is obtained by numerical integration of the data:
+
+Figure 3: Total specific heat _C/T_ of ZrB12 in the superconducting state (open symbols) and in the normal state (closed symbols) versus temperature squared. The dashed lines below and above the specific-heat peak at \(T_{c}\) are calculated using the _α_-model with 2Δ(0)/_k__B__T__c_ = 3.5 and 3.9, respectively (best fit: 3.7). Inset: specific heat \(C\) versus temperature up to room temperature (~3000 independent data).
+
+Figure 2: Magnetic susceptibility in the normal state as a function of the temperature. Dashed line: average between 50 and 300 K.
+
+  \[-\frac{1}{2}\mu_{0}VH_{c}^{2}(T)=\Delta F(T)=\Delta U(T)-T\Delta S(T),\]
+
+\[\Delta U(T)=\int_{T}^{T_{c}}[C_{s}(T^{\prime})-C_{n}(T^{\prime})]dT^{\prime},\]
+
+\[\Delta S(T)=\int_{T}^{T_{c}}\frac{C_{s}(T^{\prime})-C_{n}(T^{\prime})}{T^{ \prime}}dT^{\prime},\] (2)
+
+where \(V\) is the volume of one gram-atom (1 gat=1/13 mol corresponds to 4.68 cm\({}^{3}\) or 17.0 g) and the specific heat \(C\) is given per gat. We obtain \(H_{c}(0)\)= 415 Oe at \(T\)=0. The deviation function \(D(t)\)= \(h\)\(-\)(1\(-\)\(t^{2}\)), where \(h\)= \(H_{c}(T)/H_{c}(0)\) and \(t\)= \(T/T_{c}\), is comparable with that of In or Sn,[24; 25] and again characteristic of weak coupling. A more quantitative description of the same experimental information is given by the \(\alpha\) model.[26] We find that the supposedly constant ratio \(\Delta_{Zn_{2}[T]}\)/\(\Delta_{BCS}(T)\) that best fits the normalized electronic specific-heat curve over the whole temperature range is 1.05, i.e., \(2\Delta_{Zn_{2}B_{2}}(0)/k_{B}T_{c}\)=3.7, again only slightly above the weak-coupling limit \(2\Delta_{BCS}(0)/k_{B}T_{c}\)=3.53. In another approach, we make use of the strong-coupling corrections calculated within the isotropic single-band model on the basis of Eliashberg theory as given by Eq. (14) and (15) of Ref. [27]. Taking the measured specific-heat jump ratio \(\Delta C/\gamma_{n}T_{c}\)=1.66 as an input parameter, we obtain for the characteristic logarithmic average energy \(\omega_{\rm in}\) = exp(\(\int\ln\omega\alpha^{2}F(\omega)d\omega/\sqrt{\alpha^{2}F(\omega)d\omega/ \omega}\))=159 K, and \(2\Delta_{Zn_{2}[2}(0)/k_{B}T_{c}\)=3.69, in perfect agreement with the result of the \(\alpha\) model. It is concluded that ZrB\({}_{12}\) definitely is a weak-coupling superconductor. Bulk values of the gap ratio obtained here and values as high as 4.8 obtained by spectroscopic methods[11; 12] are mutually exclusive. They can only be reconciled if the gap is enhanced at the surface, as already suggested in Ref. [12], rather than degraded as would generally be the case for chemical inhomogeneity. This puzzling issue would deserve additional spectroscopic investigations.
+
+We finally note that the quality of the \(\alpha\)-model fit and the shape of the deviation function exclude \(d\)-wave superconductivity. In particular, in the latter case, the dimensionless ratio \(\gamma_{n}T_{c}^{2}/\mu_{0}VH_{c}^{2}(0)\) would be nearly twice as large (3.7) as that measured (1.9).[28]
+
+### Specific heat and phonon density of states
+
+The Debye temperature \(\theta_{D}(0)\)=970 K given by the low-temperature expansion of the specific heat is consistent with measurements of the ultrasonic sound velocity, \(\theta_{D}^{elast}\) = 1040 K.[29] However, the Debye temperature is not constant. Figure 4 shows ideal Debye curves \(C_{D}(T)\) for selected values of \(\theta_{D}\), together with the lattice specific heat measured up to room temperature. It is clear than the data do not follow any curve with a constant \(\theta_{D}\), and in particular are inconsistent with \(\theta_{D}\)\(\equiv\) 270\(-\)300 K obtained from fits of the resistivity given in Refs. [13; 14; 15]. The effective Debye temperature is defined as the value \(\theta_{D}(T)\) such that the tabulated ideal Debye specific heat[30]\(C_{D}(\theta_{D}/T)\) equals the measured lattice specific heat \(C_{ph}(T)\)= \(C(T)\)\(-\)\(\gamma_{n}T\) at a given temperature \(T\). A correction for the temperature dependence of \(\gamma_{n}\) does not appear necessary in view of the absence of structure in the density of states near the Fermi level[18] and the small electron-phonon renormalization.[16] The effective Debye temperature is plotted in the inset of Fig. 4. Main features are (\(i\)) \(\theta_{D}\) at room temperature, 1200 K, is close to \(\theta_{D}\) at 10 K and (\(ii\)) there is deep minimum at \(T_{m}\)\(\approx\) 35 K. Whereas point (\(i\)) means that both the initial curvature of \(F(\omega)\) and the cutoff frequency \(\omega_{D}\) are apparently consistent with a single Debye component, point (\(ii\)) reflects additional weight at intermediate energies \(\omega_{E}\)= 5\(T_{m}\)\(\approx\) 15 meV. Analogous situations occur, e.g., in Na and Al due to the presence of optical phonons[30] and in hexaborides.[31]
+
+The specific-heat data at high temperature have sufficiently low scatter (\(\sim\)0.02 %) to attempt an inversion of \(C_{ph}(T)\) to extract the PDOS \(F(\omega)\). More precisely, the problem being generally ill-conditioned, we can only obtain a substitutional spectrum, i.e., a smoothed phonon density of states \(\bar{F}(\omega)\) that reproduces precisely the specific heat and low-order moments of \(F(\omega)\), but may not show the true PDOS in detail. A simplified method consists in representing \(F(\omega)\) by a geometrical series of Einstein modes with fixed positions and adjustable weights:
+
+\[F(\omega)=\sum_{k}F_{k}\beta(\omega-\omega_{k}).\] (3)
+
+The corresponding lattice specific heat is given by
+
+\[C(T)=3R\sum_{k}F_{k}\frac{x_{k}^{2}e^{x_{k}}}{(e^{x_{k}}-1)^{2}},\] (4)
+
+where \(x_{k}\)= \(\omega_{k}/T\). The weights \(F_{k}\), normalized to a total of one if the specific heat is given per gram-atom, are found by a least-squares fit of the measured specific heat. The number of modes is chosen to be small enough so that the solution is
+
+Figure 4: Lattice specific heat of ZrB\({}_{12}\) versus temperature up to 300 K. The dashed lines show, from left to right, the ideal Debye specific heat calculated for \(\theta_{D}\)=270, 635, 865, and 1200 K. Inset: effective Debye temperature versus temperature.
+
+  stable; in practice a good choice is \(\omega_{k+1}/\omega_{k}\)= 1.75. Figure 5 shows the decomposition of the lattice specific heat into Einstein contributions. The PDOS obtained in this way is shown in Fig. 6. Qualitatively similar to that of LaB\({}_{6}\)[31] it consists of a quasi-Debye background with a high characteristic frequency, as expected in view of the boron mass, superposed onto an optical mode with energy \(\sim\)15 meV, presumably associated with the oscillations of the Zr atoms in the boron "cages" present in the structure. The relative weight of the latter mode, 5.3%, is not far from the fraction of Zr atoms per formula unit, 1/13; part of the missing weight may be located in the neighboring energy bins. The question arises whether the latter mode strongly contributes to the electron-phonon coupling. This point is addressed in the next section, using resistivity as an experimental probe.
+
+### Resistivity and electron-phonon coupling
+
+The resistivity (Fig. 7) is analyzed in a similar way. We start from the generalized Bloch-Gruneisen formula (see, e.g., Ref. [16], in particular pp. 212 and 219):
+
+\[\rho(T)=\rho(0)+\frac{4\pi m}{ne^{2}}\int_{0}^{\omega_{\rm max}}\alpha_{\mu}^{ 2}F(\omega)\frac{xe^{x}}{(e^{x}-1)^{2}}d\omega,\] (5)
+
+where \(x\)= \(\omega/T\) and \(\alpha_{\mu}^{2}F(\omega)\) is the electron-phonon "transport coupling function." In the restricted Bloch-Gruneisen approach, one would have \(\alpha_{\mu}^{2}F(\omega)\approx\omega^{4}\), and as a consequence \(\rho(T)-\rho(0)\approx T^{5}\), but deviations from the Debye model, complications with phonon polarizations, and Umklapp processes would not justify this simplification beyond the low-temperature continuum limit. Using a decomposition into Einstein modes similar to Eq. (3),
+
+\[\alpha_{\mu}^{2}F(\omega)=\sum_{k}\alpha_{k}^{2}F_{k}\delta(\omega-\omega_{k}),\] (6)
+
+we obtain the discrete version of Eq. (5):
+
+\[\rho(T)=\rho(0)+\frac{4\pi m}{ne^{2}}\sum_{k}\alpha_{k}^{2}F_{k}\frac{x_{k}e^{ x_{k}}}{(e^{x_{k}}-1)^{2}},\] (7)
+
+where the fitting parameters are the coefficients \(\alpha_{k}^{2}F_{k}\) and \(\rho(0)\). Figure 8 shows the decomposition of the total resistivity into Einstein components. In agreement with specific heat, the main component arises from modes with energies near 15 meV. In the absence of information on \(n/m\), the amplitudes of \(\alpha_{\mu}^{2}F(\omega)\) shown in Fig. 6 are normalized arbitrarily. Two independent runs performed with different sets of contacts were analyzed separately; their results shown in Fig. 6 demonstrate the stability of the inversion at low energy.
+
+The electron-phonon transport coupling function \(\alpha_{\mu}^{2}F(\omega)\) is closely related to the function \(\alpha^{2}F(\omega)\) which governs superconductivity.[17] Compared to other modes, the \(\sim\)170 K region is weighted much more heavily in the \(\alpha_{\mu}^{2}F(\omega)\) function than in the PDOS \(F(\omega)\). T
+
+Figure 5: Lattice specific heat divided by the cube of the temperature showing the decomposition into Einstein terms. The main peak at \(\sim\)35 K is associated with the Einstein mode at \(\omega_{E}\)=170 K (15 meV).
+
+Figure 6: Full line, closed symbols: phonon density of states \(F(\omega)\) obtained by inversion of the specific heat. Dashed lines, open symbols: spectral electron-phonon transport coupling function \(\alpha_{\mu}^{2}F(\omega)\) obtained by inversion of the resistivity, showing the results of two independent runs.
+
+Figure 7: Resistivity of ZrB\({}_{12}\) versus temperature. Main frame: zero magnetic field. Inset: expanded low-temperature normal-state region in a field of 1 T.
+
+  experiments showing the importance of the zirconium mass, these observations suggest that most of the electron-phonon coupling arises from the low-frequency vibration (\(\sim\)15 meV) of loosely bound zirconium atoms in their boron cages. It is interesting to compare this situation with that of MgB\({}_{2}\). In the latter case, most of the coupling comes from the \(E_{2g}\) mode having an energy of 700 to 900 K.[32] Remembering that the phonon energy appears as a prefactor in \(T_{c}\) equations,[17] this difference by a factor of 4 to 5 explains much of the difference between \(T_{c}\) of ZrB\({}_{12}\) (6 K) and that of MgB\({}_{2}\) (39 K). The low dimensionality and multiple gap structure of MgB\({}_{2}\) may be invoked to explain the rest. This difference also explains why the resistivity of ZrB\({}_{12}\) behaves so differently from that of MgB\({}_{2}\).[15]
+
+Another remark confirms that the \(\sim\)15 meV mode rather than the whole spectrum determines superconductivity in ZrB\({}_{12}\): Based on strong-coupling corrections to the specific heat jump, we have found that the characteristic energy of phonons which appears as a prefactor in Allen and Dynes \(T_{c}\) equation[17] is \(\omega_{\rm{th}}\)\(\equiv\)\(\exp[\int\ln\omega\alpha^{2}F(\omega)d\omega/\omega/\int\alpha^{2}F(\omega)d\omega/\omega]\)\(\approx\)14 meV. This is close to the energy of the low-lying mode, and far from the uniformly weighted logarithmic average \(\exp[\int\ln\omega F(\omega)d\omega/\omega/\int F(\omega)d\omega/\omega]\)=42 meV.
+
+The generalized Bloch-Gruneisen equation used here fits the measured resistivity over the whole temperature range from 2 to 300 K, without requiring any additional electron-electron scattering term \(\rho_{e-e}\)\(\propto\)\(T^{2}\). Different conclusions were obtained in the literature by assuming that the Debye temperature has a value between 270 and 300 K and remains constant at least up to 25 K.[13, 14, 15] The latter assumption is obviously not supported by specific-heat measurements (Fig. 4); the initial Debye temperature is close to 1000 K and the continuum approximation \(F(\omega)\)\(\propto\)\(\omega^{2}\) does not hold beyond 10 K. At 25 K the deviation with respect to the initial \(C_{phonon}(T)\)\(\propto\)\(T^{3}\) law is as high as 300%. Therefore the full structure of the PDOS must be taken into account to understand both the specific heat and the resistivity. This is further confirmed by thermal-expansion measurements, as shown below.
+
+### Thermal expansivity and anharmonicity
+
+Thermal-expansion experiments were undertaken to give three types of information: (_i_) confirm the main features of the PDOS; (_ii_) evaluate the volume dependence of phonon modes; and (_iii_) determine the variation of \(T_{c}\) with pressure. The linear thermal expansivity \(\alpha(T)\) for a cubic system is given by
+
+\[\alpha(T)=\frac{1}{L}\biggl{(}\frac{\partial L}{\partial T}\biggr{)}_{p}=\frac {\kappa_{T}}{3}\biggl{(}\frac{\partial S}{\partial V}\biggr{)}_{T},\] (8)
+
+where \(\kappa_{T}\) is the isothermal compressibility. The expansivity, which is closely related to the lattice specific heat at constant volume via the Gruneisen parameter \(\gamma_{G}\)= 3\(\alpha\)\(V\)/\(\kappa_{T}\)\(C_{v}\), actually measures the PDOS with a weighting \(\gamma_{G}(\omega)\)\(\equiv\)\(-\)\(\partial\ln\omega/\partial\ln V\) that represents anharmonicity. Results of the experiments are shown in Fig. 9. The nearly linear expansivity in the temperature range from 100 to 300 K is typical for a high Debye temperature. Around 50 K a broad anomaly appears, which is an indication for low-lying modes with a strong anharmonicity. A simple fit is obtained using a contribution from an Einstein mode (\(T_{E}^{a}\)=170 K) and another one from a Debye distribution (\(\theta_{D}^{a}\)=1400 K), as shown by the dotted and dashed lines, respectively. While \(T_{E}^{a}\) and \(\theta_{D}^{a}\) are consistent with the main features of the spectra determined by specific heat and resistivity, the considerable weighting of the \(T_{E}^{a}\) component in the expansivity evidences large volume dependence for this mode. This is also apparent in the behavior of the average Gruneisen parameter \(\gamma_{G}(T)\) (Fig. 10), evaluated assuming \(\kappa_{T}^{a}\)=248 GPa by analogy with U\({}_{12}\).[33] The signature of the 15 meV modes occurs near 35 K (\(=\)\(T_{E}^{a}\)/5) in this plot, as was the case for \(\theta_{D}(T)\). For a more quantitative analysis we performed a similar fit for the thermal expansivity as for the specific heat based on a series of Einstein functions using the same frequencies. Equation
+
+Figure 8: Total resistivity divided by the temperature showing the decomposition into Einstein terms and the residual term. The largest Einstein component is centered on \(\omega\)=170 K. Residuals \(R\)/\(R_{fit}\)=1 are shown by crosses.
+
+Figure 9: Linear thermal expansivity of ZrB\({}_{12}\) versus temperature. The dotted and dashed lines show the decomposition into Einstein and Debye components, respectively; the resulting fit is hidden by the data. Inset: expanded view near the superconducting transition at 6 K.
+
+  (9) allows us to extract the Gruneisen parameters \(\gamma_{G_{k}}\) for each phonon frequency separately (inset of Fig. 10):
+
+\[\alpha(T)=\frac{3R\kappa_{T}}{3V}{\sum\limits_{k}{\gamma_{Ci}F_{k}}}\frac{{\gamma _{c}^{2}e^{\kappa_{k}}}}{{\left({e^{\kappa_{k}}-1}\right)^{2}}},\] (9)
+
+where the \(F_{k}\) are taken from Eq. (4). The 170 K mode is heavily weighted with \(\gamma_{G_{k}}\)=4.1, whereas the other modes are much less anharmonic with \(\gamma_{G_{k}}\) values below 2. Similarly to MgB\({}_{2}\), the anharmonic mode is the one that gives rise to a large electron-phonon coupling.
+
+The pressure dependence of \(T_{c}\) is obtained from the Ehrenfest relation
+
+\[\Delta\alpha=\frac{1}{3V}\frac{\Delta C}{T_{c}}{\left({\frac{\partial T_{c}}{ \partial p}}\right)_{T}},\] (10)
+
+where \(\Delta\) stands for discontinuities at the second-order transition. No such discontinuity can be observed in \(\alpha\) at 6 K within the experimental scatter of \(\sim\)10\({}^{-8}\) K\({}^{-1}\) (inset of Fig. 9). This sets an upper limit of 0.24 K GPa\({}^{-1}\) for the absolute value of the pressure dependence of \(T_{c}\). As this value is rather small,[34] one can conclude that the cell volume of ZrB\({}_{12}\) is close to its optimal value for superconductivity. This means that the increase of phonon frequencies with pressure, which, taken alone, should raise \(T_{c}\), is compensated by changes in the electronic structure.
+
+## Conclusion
+
+Specific-heat, resistivity, and thermal-expansion experiments performed on high-quality single crystals have been used to characterize ZrB\({}_{12}\) (Table 2). At variance with some published data, we find that this superconductor, which has a low density of states at the Fermi level, lies in the weak-coupling regime, as it shows all typical characteristics of single-band, isotropic BCS superconductivity. The apparent discrepancy between various estimations of the Debye temperature is resolved by showing that the PDOS of ZrB\({}_{12}\) contains both very high frequencies \(\sim\)100 meV and a high density of low-lying modes near 15 meV. The comparative analysis of specific-heat, resistivity and thermal-expansion data leads to the conclusion that the latter low-lying modes, which are anharmonic and coupled to the electronic system, play an important role in the superconductivity of ZrB\({}_{12}\). They are tentatively associated with the vibration of zirconium atoms loosely bound in the oversized cages formed by boron ions, a situation analogous to that of LaB\({}_{6}\) described by Mandrus _et al.[31]_ One distinct characteristics of ZrB\({}_{12}\) compared to MgB\({}_{2}\) is the low frequency of the phonon modes which are coupled to electrons. We have shown that this cannot be remedied by decreasing the cell volume. Substituting Zr by a lighter element should favor higher \(T_{c}\). The unusual magnetic properties of the superconducting state of ZrB\({}_{12}\) will be addressed in a second paper.[19]
+
+## Acknowledgments
+
+Stimulating discussions with V. Gasparov, J. Kortus, I.R. Shein, J. Teyssier, and T. Jarlborg are gratefully acknowledged; in particular V. Gasparov attracted our attention to ZrB\({}_{12}\) and passed on samples. We thank M. Schindl for expertise in EDX measurements, and A. Naula for technical help. This work was supported by the Swiss National Science Foundation through the National Centre of Competence in Research "Materials with Novel Electronic Properties--MaNEP."
+
+\begin{table}
+\begin{tabular}{l c} \(T_{c}\) (K) & 5.96\(\pm\)0.05 \\ RRR & 9.33\(\pm\)0.03 \\ \(V\) (cm\({}^{3}\) gat\({}^{-1}\)) & 4.68 \\ \(M\) (g gat\({}^{-1}\)) & 17.0 \\ \(\gamma_{n}\) (mJ K\({}^{-2}\) gat\({}^{-1}\)) & 0.34\(\pm\)0.02 \\ \(\Delta C/\gamma_{n}T_{c}\) & 1.66\(\pm\)0.1 \\ \(\theta_{D}(0)\) (K) & 970\(\pm\)20 \\ \(H_{c}(0)\) (mT) & 41.5\(\pm\)1 \\ \(2\Delta(0)/k_{B}T_{c}\) & 3.7\(\pm\)0.1 \\ \(\gamma_{n}T_{c}^{2}/\mu_{0}VH_{c}^{2}(0)\) & 1.88\(\pm\)0.2 \\ \(\chi\) (S.I.) & \(-2.08\times 10^{-5}\) \\ \(N_{\rm sh}(E_{\rm F})\) (eV cell)\({}^{-1}\) & 1.59 \\ \end{tabular}
+\end{table}
+Table 2: Characteristic parameters of ZrB\({}_{12}\). \(T_{c}\) superconducting transition temperature; RRR, residual resistivity ratio; \(V\) and \(M\), mean atomic volume and mass, respectively; \(\gamma_{n}\) Sommerfeld constant; \(\Delta C/\gamma_{n}T_{c}\), normalized specific-heat jump at \(T_{c}\); \(\Theta_{D}(0)\), Debye temperature at \(T\)\(\rightarrow\)0; \(H_{c}(0)\), thermodynamic critical field at \(T\)\(\rightarrow\)0; \(2\Delta(0)/k_{\rm B}T_{c}\), normalized superconducting gap; \(\chi\), normal-state magnetic susceptibility; \(N_{\rm sh}(E_{\rm F})\), bare density of states at the Fermi level (per 13-atom quarter-cell) (Ref. [20]).
+
+Figure 10: Grüneisen parameter of ZrB\({}_{12}\) versus temperature, assuming a bulk modulus \(\kappa_{T}^{-1}\)=248 GPa. Inset: open diamonds, Grüneisen parameter of each phonon modes obtained from the fit using Eq. (9); full circles, the phonon density of states \(F(\omega)\) as plotted in Fig. 6.
+
+  * [9] Corresponding author. E-mail address: alain.junod@physics.unige.ch
+* [10] J. Nagamatsu, N. Nakagawa, T. Muranaka, Y. Zenitani, and J. Akimitsu, Nature (London) **410**, 63 (2001).
+* [11] J. Akimitsu, in _Symposium on Transition Metal Oxides_, Sendai, Japan, 10, January 2001.
+* [12] B. T. Matthias, T. H. Geballe, K. Andres, E. Corenzwit, G. W. Hull, and J. P. Maita, Science **159**, 530 (1968).
+* [13] P. Donze, F. Heiniger, J. Muller, M. Peter, and P. Spitzli, in _11th Int. Conf. on Low Temp. Phys. LT11_, St Andrews, Scotland, 1968, Vol. 2, p. 1021.
+* [14] C. W. Chu and H. H. Hill, Science **159**, 1227 (1968).
+* [15] Z. Fisk, A. C. Lawson, B. T. Matthias, and E. Corenzwit, Phys. Lett. **37A**, 251 (1971).
+* [16] B. Post and F. W. Glaser, J. Metals Trans. AIME, 631 (1952).
+* [17] C. H. L. Kennard and L. Davis, J. Solid State Chem. **47**, 103 (1983).
+* [18] Z. Fisk and B. T. Matthias, Science **165**, 279 (1969).
+* [19] Y. B. Paderno, A. B. Liashchenko, V. B. Filippov, and A. V. Dukhnenko, in _Proc. Int. Conf. on "Science for Materials in the Frontier of Centuries: Advantages and Challenges" (IPMS NASU)_, Kiev 2002, p. 347.
+* [20] D. Daghero, R. S. Gonnelli, G. A. Ummarino, A. Calzolari, V. Dellarrocca, V. A. Stepanov, V. B. Filippov, and Y. B. Paderno, Supercond. Sci. Technol. **17**, S250 (2004).
+* [21] M. I. Tsindlekht, G. I. Leviev, I. Asulin, A. Sharoni, O. Millo, I. Felner, Y. B. Paderno, V. B. Filippov, and M. A. Belogolovskii, Phys. Rev. B **69**, 212508 (2004).
+* [22] V. A. Gasparov, N. S. Sidorov, I. I. Zver'kova, S. S. Khassanov, and M. P. Kulakov, cond-mat/0411116.
+* [23] V. A. Gasparov, N. S. Sidorov, M. P. Kulakov, I. I. Zver'kova, V. P. Kobyakov, H.-Y. Zhai, H. M. Christen, M. P. Paranthaman, and D. H. Lowdes, in _Superconductivity in Magnesium Diboride and Related Materials (Boromag), Book of Abstracts_, Genova, Italy, 17-19 June 2002, p. 52.
+* [24] V. A. Gasparov, M. P. Kulakov, N. S. Sidorov, I. I. Zver'kova, V. B. Filippov, A. B. Lyashenko, and Y. B. Paderno, JETP Lett. **80**, 330 (2004).
+* [25] G. Grimvall, _The Electron-Phonon Interaction in Metals_ (North-Holland, Amsterdam, 1981).
+* [26] P. B. Allen and R. C. Dynes, Phys. Rev. B **12**, 905 (1975).
+* [27] I. R. Shein and A. L. Ivanovskii, Phys. Solid State **45**, 1429 (2003).
+* [28] Y. Wang, R. Lortz, Y. B. Paderno, and A. Junod, cond-mat/ 0502036.
+* [29] I. R. Shein, private communication (2004).
+* [30] A. Junod, in _Studies of High Temperature Superconductors_, edited by A. Narlikar (Nova Science Publishers, Commack, NY, 1996), Vol. 19, p. 1.
+* [31] C. Meingast, B. Blank, H. Burkle, B. Obst, T. Wolf, H. Wuhl, V. Selvanamickam, and K. Salama, Phys. Rev. B **41**, 11299 (1990).
+* [32] R. Pott and R. Scheffzky, J. Phys. E **16**, 444 (1983).
+* [33] D. U. Gubser, Phys. Rev. B **6**, 827 (1972).
+* [34] J. M. Daams and J. P. Carbotte, Solid State Commun. **29**, 501 (1979).
+* [35] H. Padamsee, J. E. Neighbor, and C. A. Shiffman, J. Low Temp. Phys. **12**, 387 (1973).
+* [36] J. P. Carbotte, Rev. Mod. Phys. **62**, 1027 (1990).
+* [37] H. Chi and J. P. Carbotte, Phys. Rev. B **49**, 6143 (1994).
+* [38] Y. Paderno, A. Liashchenko, V. Filippov, and A. Dukhnenko, in _Science for Materials, the Frontier of Centuries Advantages and Challenges, Conf. Proc. IPMS NASU_, edited by V. Skorokhod, Kiev, 2002, p. 404.
+* [39] E. S. R. Gopal, _Specific Heats at Low Temperatures_ (Heywood Books, London, 1966).
+* [40] D. Mandrus, B. C. Sales, and R. Jin, Phys. Rev. B **64**, 012302 (2001).
+* [41] H. J. Choi, D. Roundy, H. Sun, M. L. Cohen, and S. G. Louie, Phys. Rev. B **66**, 020513(R) (2002).
+* [42] J.-P. Dancausse, E. Gering, S. Heathman, and U. Benedict, J. Alloys Compd. **189**, 205 (1992).
+* [43] As the compound is very hard, we also converted the pressure dependence into a volume dependence, using the isothermal compressibility of UB\({}_{12}\) mentioned in the text. We find a value of 0.6 K per percent volume change as an upper limt.
+
+ 

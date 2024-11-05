@@ -1,0 +1,317 @@
+# Reflectivity and conductivity of YBa2Cu3O7
+
+R. T. Collins, Z. Schlesinger, F. Holtzberg, P. Chaudhari, and C. Feild
+
+IBM Thomas J. Watson Research Center, Yorktown Heights, New York 10598
+
+###### Abstract
+
+We obtain the _a_-_b_ plane infrared conductivity of YBa2Cu3O7 from
+temperature-dependent reflectivity spectra of crystals and films with
+_T_c = 92 K. The normal state is characterized by a free-carrier band
+with an enhanced low-frequency mass and a frequency-dependent scattering
+rate, which indicate coupling to an excitation spectrum with a
+characteristic frequency scale of a_(c) <= 700 cm-1 and coupling
+strength of l = 2 to 3.
+
+The recent discovery of high-temperature superconductivity in layered
+copper oxide compounds [1, 2] has been followed by a monumental effort
+to understand the physics of these systems. Crucial to that endeavor is
+the reliable measurement of fundamental properties in both the normal
+and superconducting states. Spectroscopic techniques, such as inelastic
+neutron scattering, tunneling, and infrared spectroscopy, are
+particularly important because they probe the spectrum of intermediate
+energy (i.e., 1 meV to 1 eV) excitations which may be crucial to the
+mechanism of high-temperature superconductivity. Probing these
+excitations with infrared requires precise measurements of the
+reflectivity and its temperature dependence, from which the dynamic
+conductivity _s_(_o_) is obtained.
+
+A central question regarding the normal-state infrared properties
+[3]⁻[6] is whether the conductivity of the copper-oxygen planes is most
+appropriately described in terms of a dynamic interaction which leads to
+a frequency-dependent scattering rate and carrier mass, or as a
+superposition of a free-carrier band and some type of mid-infrared
+interband transition. These two approaches differ fundamentally since
+the former implies a strongly coupled normal state, while the latter is
+most consistent with a weak-coupling view. In this work we describe
+reflectivity measurements on the _a_-_b_ plane of YBa2Cu3O7 crystals and
+films with transitions at _T_c = 92 K. We find that either model can
+describe the reflectivity at a single temperature, but, in contrast with
+similar work on oxygen-deficient material, [6] we find significant
+temperature dependence in _R_(_o_) and _s_(_o_) through the crucial
+mid-infrared region. This broad band temperature dependence is
+inconsistent with a mid-infrared band model, but is the expected
+behavior within a frequency-dependent scattering approach.
+
+Our measurements were made on the _a_-_b_ plane of oriented films of
+YBa2Cu3O7 with relatively large areas (= 10 mm2) and on crystals of
+smaller area (= 2 mm2), with both as annealed and polished surfaces. The
+films were grown on SrTiO3 substrates to a thickness of = 1 _m_m. Both
+films and crystals were single phase. All of the samples were
+microtwinned so that an average of the _a_-_b_ plane properties was
+obtained. ac susceptibility measurements showed the samples to have
+superconducting transitions at = 92 K with widths less than 0.2 K for
+the crystals and of = 1 K for the films. Reflectivity measurements were
+made at near normal incidence. Each sample was mounted in close
+proximity to an evaporated gold reference mirror which was carefully
+aligned parallel to the sample surface. A manipulator allowed either the
+sample or reference to be positioned in the infrared beam. We tested our
+technique by studying both brass-Au and Au-Au reflectivity ratios and in
+each case obtain accuracy of a few tenths of a percent.
+
+We have measured the normal-state reflectivity of our samples for
+temperatures between 300 K and 95 K. In Fig. 1 we show spectra taken at
+250 K (dots) and 100 K (triangles) for a polished face of one of our
+YBa2Cu3O7 crystals. We see in Fig. 1 that the reflectivity increases
+over a very wide frequency range (= 100-8000 cm-1) as T is reduced in
+the normal state. Virtually identical spectra were observed for as
+annealed crystal faces. Although the films showed a slightly lower
+reflectivity (= 5
+
+Figure 1: The reflectivity and the real part of the conductivity of
+YBa2Cu3O7 are shown for T = 100 K (triangles) and 250 K (dots) for _ω_
+up to 12 000 cm−1.
+
+we have previously reported.4
+
+Figure 1 also gives the real part of the conductivity, s1(_o_), at 250
+and 100 K, obtained by appending the high-frequency reflectivity data of
+Ref. 7 (12000-30 000 cm-1) onto our data (100-12 000 cm-1) and applying
+a Kramers-Kronig transform analysis to the resultant spectrum. Below 100
+cm-1 the reflectivity was terminated with a Hagen-Rubens form and above
+30 000 cm-1 a 1/_o_4 termination was used. We obtain the plasma
+frequency from the f sum rule on s1(_o_), which we integrate up to  20
+000 cm-1 after subtracting off a temperature-independent interband
+(Lorentz oscillator) contribution to s1(_o_) centered at  2 eV. In this
+manner a plasma frequency of o_(p) = 22 000 cm-1 = 2.7 eV is obtained,
+corresponding to a ratio _n_/_m_b = (5.5 x 1021 cm-3)/_m_e where n is
+the free-carrier concentration and _m_b is the band mass, in agreement
+with previous results.4
+
+In Fig. 2, the reflectivity (from Fig. 1) and the real (a) and imaginary
+(b) parts of _s_(_o_) are plotted for o < 2500 cm-1. We can analyze the
+conductivity in terms of a frequency-dependent scattering model in which
+
+$$\begin{equation*}{\vec{\sigma}}({\omega})={{ne^2{\tau}^{\ast}({\omega})}\over{m^{\ast}({\omega})[1-i{\omega}^{\ast}({\omega})]}}\;,\end{equation*}$$
+
+where _m_*(_o_) = _m_b[1 + l(_o_)] is the renormalized mass and
+_t_*(_o_) = _t_(_o_)]1 + l(_o_)] is the renormalized scattering rate.
+Frequency-dependent scattering models have previously been used to treat
+electron-phonon interactions in ordinary metals8,9 and spin-related
+excitations in heavy-fermion systems.10,11
+
+In Fig. 3 we plot t-1(_o_) and _m_*/_m_b - 1, which are obtained using
+Eq. (1) with _n_/_m_b = (5.5 x 1021 cm-3)/_m_e, and, like s1(_o_) and
+s2(_o_), are related by causality. The behavior shown in Figs. 3(a) and
+3(b) can be understood as a consequence of an interaction of the charged
+carriers with an inelastic scattering spectrum. At low temperature and
+frequency the carriers have an enhanced mass because they drag an
+excitation cloud along with them, and the scattering rate is low since
+the inelastic scattering channels are not energetically available. With
+increasing frequency, the scattering rate increases as additional
+scattering channels become accessible, and the mass enhancement
+diminishes as the carriers shed their excitation cloud. In this manner
+an excitation spectrum which is not itself infrared active, but which is
+strongly coupled to the carriers, can dramatically influence the
+infrared (and dc) conductivity. In Fig. 3 the frequency dependence of
+_t_-1(_o_) is most rapid from about 200-700 cm-1. Within the inelastic
+scattering approach, we associate this with the characteristic frequency
+of the excitation spectrum to which the carriers are coupled. The
+low-frequency value of l(_o_) at 100 K indicates an overall coupling
+strength of roughly l = 3 to that spectrum. This
+
+Figure 3: (a) The unrenormalized scattering rate and (b) the reduced
+mass enhancement of YBa2Cu3O7 are shown for T = 100 K (triangles) and
+250 K (dots). The lines through the data points in (a) and (b) refer to
+a model calculation which uses the coupling spectrum a2_F_(_o_) shown in
+(c).
+
+Figure 2: The reflectivity and the real part of the conductivity of
+YBa2Cu3O7 (a) and the imaginary part of the conductivity (b) are shown
+for T = 100 K (triangles) and 250 K (dots) for _ω_ up to 2500 cm−1. The
+lines through the data points refer to a frequency-dependent scattering
+model calculation described in the text.
+
+coupling strength lies between that typical of the electron-phonon
+interaction (l = 1) and the very large values associated with
+"spin-fluctuation exchange" induced mass enhancements (l = 50) in
+moderately heavy electron systems such as UPt3 and CePd3.[10,11]
+
+In our frequency-dependent scattering analysis of the conductivity in
+Fig. 2, we have assumed only a single free-carrier band. The
+low-frequency peak in s1(_o_) in the 100-K conductivity is a direct
+consequence of the reduced scattering rate at frequencies less than the
+characteristic scattering energy. Bonn _et al._5 have suggested an
+alternative analysis of the _a_-_b_ plane conductivity in which s1(_o_)
+is divided into a low-frequency Drude peak with a frequency-independent
+scattering rate and a temperature-independent interband transition which
+is responsible for the mid-infrared conductivity. While we are able to
+fit this mid-infrared band model to our 100-K spectrum (with
+approximately $\frac{1}{3}$ of the area in the low-energy peak), we find
+that the temperature dependence predicted by the model is inconsistent
+with our observations. In particular, neither _R_(_o_) nor _s_(_o_) is
+predicted to show temperature dependence for o >= 1500 cm - (in the part
+of the spectrum dominated by the interband transition). In a
+frequency-dependent scattering model there is a fundamental relationship
+between frequency and temperature dependence. To illustrate this, it is
+useful to introduce a coupling spectrum, a2_F_(_o_), from which a
+scattering rate and mass enhancement are calculated as a function of
+frequency and temperature. In general, this is a nontrivial calculation
+that requires a detailed knowledge of the nature of the interaction. For
+the sake of simplicity, we approximate the optical scattering rate,
+_t_-1(_o_), by the quasiparticle lifetime averaged over the Fermi
+surface, and use (Ref. 12),
+
+τ⁻¹(ω) = −2ImΣ̄(ω) = π∫₀^(∞)dω^(′)a²F(ω^(′))f(ω^(′); T),
+
+where Σ̄(ω) is the self-energy and
+
+$$\begin{equation*}f({\omega}^{\prime};T)={\mathrm{coth}}\left\{\frac{{\omega}^{\prime}}{2T}\right\}-{\frac{1}{2}}{\mathrm{ tanh}}\left(\frac{{\omega}^{\prime}+{\omega}}{2T}\right)\\ -{\frac{1}{2}}{\mathrm{tanh}}\left(\frac{{\omega}^{\prime}-{\omega}}{2T}\right)\end{equation*}.$$
+
+is an occupation factor related term which contains all of the
+temperature dependence in Eq. (2). Figure 3(c) shows a spectral function
+which provides a fit to both the temperature and frequency dependence of
+our data [dashed (250-K) and dotted (100-K) curves] in Figs. 2 and 3.
+_Im_*/_m__b_ - 1 is obtained from a Kramers-Kronig transform of
+_t_-1(_o_).] We have included an elastic contribution to _t_-1(_o_) of
+560 cm - 1. The spectral function a2_F_(_o_) obtained by this fitting
+procedure should be viewed only as a rough approximation to the true
+coupling spectrum. In particular, calculations which explicitly take
+into account the difference between the transport scattering rate and
+quasiparticle lifetime indicate that the spectral weight above 800 cm -
+1 should be ignored.[13] The integrated coupling strength in this
+high-frequency range is less than 1, and, hence, does not dramatically
+alter our estimate of the total coupling. These calculations also
+predict a somewhat larger temperature dependence than we observe. The
+salient point is that the temperature dependence exhibited by our data
+is qualitatively consistent with the presence of frequency-dependent
+scattering rather than with the mid-infrared mode-model. We cannot rule
+out the possibility that frequency-dependent scattering and a
+mid-infrared mode may both be present. This is a particularly
+interesting possibility in YBa2Cu3O7 where the presence of localized
+carriers on the chains could give a modelike contribution to the
+mid-infrared. Reflectivity measurements in the near-infrared (> 8000
+cm - 1) already indicate that the a and b axis are inequivalent.[14]
+Separation of the _a_-_b_ plane conductivity into chain and plane
+contributions will have to wait for studies of untwinned samples. At
+present we do not feel that the contributions of the chains will
+significantly alter the characteristic scattering frequency (<= 700
+cm - 1) although the mass enhancement may be reduced.
+
+In models of transport in correlated systems potentially applicable to
+YBa2Cu3O7, a mass enhancement such as we observe can arise from the
+interaction of the carriers with spin-related excitations associated
+with the Cu, for which the characteristic energy scale is set by the
+exchange interaction J. In resonating valence bond (RVB) language this
+is the holon-spinon scattering.] For example, Kane, Lee, and Reed [15]
+have studied the motion of a hole in a large-_U_ Hubbard model with
+either Neel or an RVB order, and obtain a mass enhancement of order
+_t_/_J_ associated with coupling to spin excitations of characteristic
+energy J, where _4t_ is the hole bandwidth. In principle, strong
+electron-phonon coupling provides an alternative origin for our measured
+mass enhancement [the phonon density of states is roughly constant up to
+a cutoff frequency of about 600 cm - 1 (Ref. 16)]. The observed coupling
+strength, l   2-3, however, would be unprecedented, particularly at such
+a high-frequency scale.
+
+In Fig. 3 we have plotted _t_-1(_o_), however, the actual (renormalized)
+scattering rate is _t_-1(_o_) = _t_-1(_o_) _m__b_/_m__b_ with a little
+that throughout our frequency range the inelastic contribution to
+_h_/_t_-1(_o_) is of order _kT_ + h_(o), suggesting a nearly localized
+Fermi liquid, or that YBa2Cu3O7 is at the edge of the regime in which a
+Fermi liquid theory is well defined.
+
+An examination of the correspondence between our infrared results and
+other measurable quantities is also useful. For example, using our
+measured values for o_(p) and _m__b_/_m__b_ we estimate the _a_-_b_
+plane London penetration depth to be l = (_c_/_o__p_)(_m__b_*/_m__b_)1/2
+= 1400 A. Specific-heat measurements are also expected to exhibit the
+same mass enhancement as with the infrared. The correspondence between
+our infrared data and the dc conductivity can be examined using the
+measured low-frequency values of _t_-1(_o_) [Fig. 3(a)] in the o = 0
+limit of Eq. (1), _s_dc = _ne_2_t_(0)/_m__b_, from which we obtain 85,
+105, 140, and 175 m th cm at T = 100, 150, 200, and 250 K, respectively.
+These values are comparable to typical measured dc resistivities on
+similar crystals. Although they appear to extrapolate roughly to the
+origin, there is actually some upward curvature which, in the model,
+leads to a positive intercept on the y axis.
+
+Efforts to measure and interpret the _a_-_b_ plane infrared conductivity
+of crystalline YBa₂Cu₃O₇ began with Ref. [4], in which σ₁(ω) at room
+temperature and ω 1000 cm -1 was reported, and shown to contain no
+strong 0.3-0.5 eV peak as reported in ceramic samples. Subsequent
+efforts extended this work to lower frequencies and temperatures [5, 6],
+where σ₁(ω) exhibits a temperature-dependent peak as shown in Fig. 2.
+Sulewski _et al._[3] were the first to apply a frequency-dependent
+scattering model to the oxide superconductors in their study of ceramic
+YBa₂Cu₃O₇. More recently, Thomas _et al._[6] have analyzed the _a_-_b_
+plane conductivity of O-deficient crystals (T_(c) = 50-70 K) in terms of
+both the frequency-dependent scattering approach and mid-infrared band
+model. Their results differ fundamentally from ours in that they observe
+a much lower reflectance throughout the entire mid-infrared region and
+they find no temperature dependence above 1000 cm -1, which, unlike our
+data, seems consistent with a mid-infrared-band model [5]. They
+emphasize the frequency-dependent scattering approach from which they
+obtain a coupling of λ = 9, although, as they point out, their measured
+temperature dependence is not consistent with their carrier-oscillator
+model [6].
+
+In conclusion, we find that the frequency and temperature dependence of
+the normal-state transport of YBa₂Cu₃O₇ in the far-infrared region
+supports a frequency-dependent scattering rate arising from coupling to
+an excitation spectrum with a characteristic energy scale of ≃ 200-700
+cm -1 and an integrated coupling strength of λ = 2-3. This approach
+provides a unified description of both the temperature and frequency
+dependence of the transport behavior above T_(c).
+
+_Note added in proof_. Since the submission of this paper we have made
+measurements which suggest that part of the mid-infrared conductivity
+does arise from a source other than the free carriers in the planes
+(such as the chain related contributions mentioned above). Accounting
+for this does not appear to alter the characteristic scattering
+frequency (ω_(c) = 200-700 cm -1) substantially, but does reduce our
+estimate for the unrenormalized plasma frequency (ω_(p)) which, in turn,
+can reduce our estimate of λ by as much as a factor of 2. We then obtain
+reasonable agreement between the measured temperature dependences and
+those calculated using the more sophisticated frequency dependent
+scattering approaches (13) mentioned above.
+
+We would like to acknowledge excellent technical assistance from J. A.
+Calise, Gene Komsa, and John Sosik and valuable conversations with P. W.
+Anderson, H. Fukuyama, P. A. Lee, D. M. Newns, A. J. Sievers, and B. C.
+Webb. Insights developed over the last decade by A. J. Sievers and
+co-workers (including F. E. Pinkerton, B. C. Webb, and P. E. Sulewski)
+have been crucial to our present effort.
+
+## References
+
+* [1] J. G. Bednorz and K. A. Muller, Z. Phys. B **64**, 189 (1986). *
+[2] M. K. Wu, J. Ashburn, C. J. Torng, P. H. Hor, R. L. Meng, L. Gao, Z.
+J. Huang, Y. Q. Wang, and C. W. Chu, Phys. Rev. Lett. **58**, 908
+(1987). * [3] P. E. Sulewski, T. W. Noh, J. T. McWhirter, A. J. Sievers,
+S. E. Russek, R. A. Buhrman, C. S. Jee, J. E. Crow, R. E. Salomon, and
+G. Myer, Phys. Rev. B **36**, 2357 (1987). * [4] Z. Schlesinger, R. T.
+Collins, D. L. Kaiser, and F. Holtzberg, Phys. Rev. Lett. **59**, 1958
+(1987). * [5] D. A. Bonn, A. H. O’Reilly, J. E. Greedan, C. V. Stager,
+T. Timusk, K. Karamas, and D. B. Tanner, Phys. Rev. B **37**, 1574
+(1988); T. Timusk, S. L. Herr, K. Kamaras, C. D. Porter, D. B. Tanner,
+D. A. Bonn, J. D. Garrett, C. V. Stager, J. E. Greedan, and M. Reedyk
+(unpublished). * [6] G. A. Thomas, J. Orenstein, D. H. Rapkine, M.
+Capizzi, A. J. Millis, R. N. Bhatt, L. F. Schneemeyer, and J. V.
+Waszczak (unpublished). * [7] K. Kamaras, C. D. Porter, M. G. Doss, S.
+L. Herr, D. B. Tanner, D. A. Bonn, J. E. Greedan, A. H. O’Reilly, C. V.
+Stager, and T. Timusk, Phys. Rev. Lett. **59**, 919 (1987). * [8] T.
+Holstein, Phys. Rev. **96**, 535 (1954). * [9] P. B. Allen, Phys. Rev. B
+**3**, 305 (1971). * [10] B. C. Webb, A. J. Sievers, and T. Mihalisin,
+Phys. Rev. Lett. **57**, 1951 (1986). * [11] P. E. Sulewski, A. J.
+Sievers, M. B. Maple, M. S. Torikachvili, J. L. Smith, and Z. Fisk,
+Phys. Rev. B **38**, 5338 (1988). * [12] A. J. Millis, Subir Sachdev,
+and C. M. Varma, Phys. Rev. B **37**, 4975 (1988). * [13] D. J.
+Scalapino, N. E. Bickers, Z. Schlesinger, and R. T. Collins
+(unpublished); A. J. Millis (unpublished). * [14] M. P. Petrov, A. I.
+Grachev, M. V. Krasin’kova, A. A. Nechitailov, V. V. Prokofiev, V. V.
+Poborchy, S. I. Shagin, and N. F. Kartenko, Solid State Commun. **67**,
+1197 (1988). * [15] C. L. Kane, P. A. Lee, and N. Read (unpublished). *
+[16] B. Renker, E. Gering, G. Roth, W. Reichardt, D. Ewert and H.
+Rietschel (unpublished).

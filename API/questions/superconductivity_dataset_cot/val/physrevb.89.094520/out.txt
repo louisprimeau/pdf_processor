@@ -1,0 +1,277 @@
+
+
+# Characteristics of the phase transition near 147 K in Sr_{3}Ir_{4}Sn_{13}
+
+C. N. Kuo,^{1} H. F. Liu,^{1} C. S. Lue,^{1,2,} L. M. Wang,^{3,} C. C. Chen,^{4} Y. K. Kuo^{4,}
+
+cslue@mail.ncku.edu.tw liminwang@ntu.edu.tw ykkuo@mail.nthu.edu.tw
+
+###### Abstract
+
+In order to assess the phase transition nature in Sr_{3}Ir_{4}Sn_{13}, we have carried out the electrical resistivity, Hall coefficient, Seebeck coefficient, thermal conductivity, specific heat, and ^{119}Sn nuclear magnetic resonance (NMR) measurements, mainly focusing on the signatures around the phase transition temperature T^{*} = 147 K. The phase transition has been characterized by marked features near T^{*} in all measured physical quantities. In particular, the Hall measurement reveals the abrupt change in both magnitude and sign of the charge carriers below T^{*}, providing strong evidence for the Fermi surface reconstruction associated with this phase transition. Moreover, the NMR observations indicate the presence of the splitting of the resonance lines below T^{*} which could be accounted for by the local distortion of the Sn2 icosahedra within the Pm\overline{3}n phase. The NMR Knight shift analysis further provides microscopic evidence for the reduction in both Sn 5s and Ir 5d electronic states near the Fermi surfaces of Sr_{3}Ir_{4}Sn_{13}. With respect to these observations, it suggests that the strong interplay between electronic and structural instability is responsible for the peculiar phase transition in Sr_{3}Ir_{4}Sn_{13}.
+
+2014 10.1103/PhysRevB.89.094 
+
+### Electrical resistivity
+
+Data of the electrical resistivity \rho were obtained using a standard four-point probe method. The observed electrical resistivity for Sr_{3}Ir_{4}Sn_{13} is displayed in Fig. 1. The temperature dependence of \rho is very similar to that reported by Klintberg _et al_. [2], showing a distinct hump near T^{*} = 147 K and a superconducting phase transition below T_{c} = 5 K. The normal state resistivity between 5 and 30 K can be described well to a power law,
+
+\[\rho(T)=\rho_{o}+AT^{2},\] (1)
+
+where \rho_{o} is the residual resistivity and A is the temperature coefficient of the electric resistivity. In the upper inset of Fig. 1, we showed the plot of \rho vs T^{2}, with the linear relation yielding \rho_{o} = 1.93 \mu\Omega cm and A = 0.009 \mu\Omega cm/K^{2}. The residual resistivity \rho_{o} may arise from the scattering due to domain boundaries and/or defects by electrons. The small value of \rho_{o} indicates the high quality of the present single crystal and gives an estimate of the residual resistivity ratio [RRR, \rho(300 K)/\rho_{o}] of about 18.4 for our single-crystalline Sr_{3}Ir_{4}Sn_{13}.
+
+It is instructive to mention that the electron-electron scattering rate at low temperatures should grow as T^{2} in the Fermi liquid picture. The Kadowaki-Woods ratio A/\gamma^{2} is usually used to determine the strength of the electronic correlation of the studied system [19]. Taking A = 0.009 \mu\Omega cm/K^{2} and the low-temperature specific heat coefficient \gamma = 39.3 mJ/mol K^{2} obtained by Kase _et al_. [1], we found A/\gamma^{2} = 0.58 \times 10^{-5}\mu\Omega cm/(mJ/mol K^{2})^{2} for Sr_{3}Ir_{4}Sn_{13}. Enhancement of \gamma can be due to electron-phonon and electron-electron effects. Based on the reported electron-phonon coupling constant \lambda_{\rm ep} = 0.983 and the recent band-structure calculated Fermi-level density of states (DOS) of approximately 12.5 states/eV f.u. [1,20], we deduced the electron-electron enhancement term to be \lambda_{ee} = 24.8, leading to the electronic specific heat coefficient \gamma_{e} = 37.8 mJ/mol K^{2}. Thus, it is more realistic to use \gamma_{e} for calculating the Kadowaki-Woods ratio, yielding the ratio of A/\gamma_{e}^{2} = 0.63 \times 10^{-5}\mu\Omega cm/(mJ/mol K^{2})^{2} for Sr_{3}Ir_{4}Sn_{13}. This value is found to be comparable to those of heavy fermion systems [21], indicating the importance of the strongly correlated effect on the low-temperature state of Sr_{3}Ir_{4}Sn_{13}. Here, we also demonstrated that the large \gamma value is mainly enhanced by the electron-electron effect.
+
+It is worthwhile comparing these results to those of Ca_{3}Ir_{4}Sn_{13} which exhibits superconducting behavior below T_{c} = 7 K and anomalous features at T^{*} = 38 K [22, 23, 24, 25, 26]. Yang _et al_. estimated A/\gamma_{e}^{2} = 1.14 \times 10^{-5}\mu\Omega cm/(mJ/mol K^{2})^{2} for Ca_{3}Ir_{4}Sn_{13}[22], very close to the value originally identified as characteristic of heavy fermion materials [27]. It is interesting that the band-structure-calculated Fermi-level DOS of 12.5 states/eV f.u. and the extracted low-temperature specific heat coefficient \gamma = 39-41 mJ/mol K^{2} for Ca_{3}Ir_{4}Sn_{13} are almost the same as those of Sr_{3}Ir_{4}Sn_{13}[20, 22, 24]. Therefore, this comparison provides evidence for the strong electron-electron correlation on the low-temperature state of Ca_{3}Ir_{4}Sn_{13}, similar to the present case of Sr_{3}Ir_{4}Sn_{13}.
+
+### Hall coefficient
+
+For the Hall coefficient measurement, the single-crystal slabs with a flat surface of crystalline (110) plane were cut into dimensions of 2.5\times 0.8\times 0.08 mm^{3}. Five leads were soldered with indium and a Hall-measurement geometry was constructed to allow simultaneous measurements of both longitudinal (\rho_{xx}) and transverse (Hall) resistivities (\rho_{xy}) using standard dc techniques. The contact size was miniaturized as small as possible (<0.2 mm) to avoid large inaccuracy in the determination of resistivities. Hall voltages were taken in opposing fields up to 6 T and with an in-plane current density of about 60 A/cm^{2}.
+
+Figure 2(a) shows the temperature variation of the Hall coefficient R_{H} for Sr_{3}Ir_{4}Sn_{13} measured at a constant field H = 3 T. The negative sign in R_{H} at temperatures above 150 K indicates that the electron-type carriers dominate its electrical transport. Upon further cooling, a sharp change in R_{H} accompanying with a sign change takes place below T^{*}. The strong temperature dependence of R_{H} suggests a multiband character of the Fermi surfaces. Here a simple two-band picture is sufficient for the realization of the Fermi surface structure as
+
+\[R_{H}=\frac{\sigma_{n}^{2}R_{n}+\sigma_{p}^{2}R_{p}}{(\sigma_{n}+\sigma_{p})^{2 }},\] (2)
+
+where R_{n,p} and \sigma_{n,p} represent the Hall coefficients and electrical conductivities for the n- and p-type carriers from electronic and hole bands, respectively. In principle, each parameter is governed by the scattering relaxation time which varies differently with temperature. At low temperatures, the p-type carriers have a dominant contribution, leading to a positive sign in R_{H}. A noticeable downturn in R_{H} appears below 25 K, implying that multiscattering channels are involved. A similar peak feature prior to T_{c} has been reported in the strong coupling superconductor of SrPt_{3}P [28], suggesting that the joined scattering mechanism plays an important role for the unconventional superconductivity in this material. Such a scenario could be appropriate to the present case of Sr_{3}Ir_{4}Sn_{13}.
+
+Figure 1: (Color online) Electrical resistivity \rho as a function of temperature for Sr_{3}Ir_{4}Sn_{13}. The upper inset displays a plot of \rho vs T^{2}, showing a linear relation between 5 and 30 K. The lower inset gives a room-temperature single-crystal x-ray diffraction pattern from the (110) plane of Sr_{3}Ir_{4}Sn_{13}. Reflections are indexed with respect to the Yb_{3}Rh_{4}Sn_{13}-type structure (space group Pm\overline{3}n).
+
+ We also carried out the magnetic field dependence of the transverse Hall resistivity \rho_{xy} for Sr_{3}Ir_{4}Sn_{13} below and above T^{*}. As displayed in Fig. 2(b), the plot of the \rho_{xy}-H curve shows conventional linear behavior for each temperature, confirming the absence of anomalous Hall effects in the present experiment. The inset of Fig. 2(a) illustrates the temperature dependence of the Hall carrier concentration n_{H}, obtained from 1/(R_{H}e). The magnitude of n_{H} was estimated to be about 10^{23} cm^{-3} at room temperature, indicative of the high carrier density for Sr_{3}Ir_{4}Sn_{13}. The prominent change in both sign and magnitude of n_{H} appears near T^{*}, providing strong evidence for a significant change of the electronic band structure across the phase transition. Therefore, the reduction in n_{H} could be realized as Fermi surface nesting associated with the superlattice distortion. The abrupt decrease in the carrier density below T^{*} has also been found in the isostructural compound of Ca_{3}Ir_{4}Sn_{13}, suggesting a similar phase transition mechanism for both systems [24].
+
+### Seebeck coefficient
+
+Seebeck coefficient and thermal conductivity experiments were simultaneously performed in a closed cycle refrigerator using a heat pulse technique. Further details about the experimental techniques for these measurements can be found elsewhere [29]. It is known that the Seebeck coefficient is a sensitive probe for the phenomenon associated with changes in the Fermi surfaces, such as CDW ordering and crystallographic distortion [6, 30]. The plot of the measured Seebeck coefficient as a function of temperature for Sr_{3}Ir_{4}Sn_{13} is given in Fig. 3. As one can see, the strong temperature variation of S gives evidence for the presence of a multiband effect. We thus employed a two-band model as in the case for the Hall coefficient analysis as
+
+\[S=\frac{\sigma_{n}S_{n}+\sigma_{p}S_{p}}{\sigma_{n}+\sigma_{p}},\]
+
+where S_{n,p} are the Seebeck coefficients for the n- and p-type carriers, respectively. For T<T^{*}, the positive sign of S signifies that the hole-type carriers dominate the thermoelectric transport, being consistent with the observation from the Hall measurement. With raising temperature above T^{*}, a drastic change in the feature of S has been noticed. This phenomenon can be understood by an increasing contribution from the n-type carriers, indicating substantial modification in the Fermi surfaces across the phase transition. It is worthwhile mentioning that the present S feature is quite similar to that of SmNiC_{2}[16], which has been identified as a 3D CDW system [13, 14, 15, 16, 17, 18]. The comparison thus suggests the possible CDW ordering associated with the observed phase transition in Sr_{3}Ir_{4}Sn_{13}.
+
+### Thermal conductivity
+
+Figure 4 illustrates the temperature dependence of the observed thermal conductivity \kappa for Sr_{3}Ir_{4}Sn_{13}. In the vicinity of T^{*}, a clear drop in \kappa, indicated by an arrow, was observed. In principle, the total thermal conductivity for an ordinary metal is a sum of electronic and lattice terms. The electronic thermal conductivity (\kappa_{e}) can be evaluated using the Wiedemann-Franz law \kappa_{e}\rho/T=L_{o}, where \rho is the experimental dc electric resistivity and L_{o}=2.45\times 10^{-8} W\Omega K^{-2} is the theoretical Lorenz number. The extracted T-dependent \kappa_{e} for Sr_{3}Ir_{4}Sn_{13} above 50 K is displayed in Fig. 4. Remarkably, \kappa_{e} also exhibits a kink at around T^{*}, and the feature is identical to the observed \kappa. This analysis thus provides a confirmation that the drop in \kappa
+
+Figure 3: (Color online) Temperature dependence of the Seebeck coefficient S for Sr_{3}Ir_{4}Sn_{13}. The arrow indicates the position of T^{*}.
+
+Figure 2: (Color online) (a) Hall resistivity as a function of temperature for Sr_{3}Ir_{4}Sn_{13} measured at H=3 T. The inset shows the temperature dependence of the Hall carrier concentration. (b) Magnetic field dependence of the Hall resistivity \rho_{xy} at various temperatures. Each dashed straight line represents linear behavior.
+
+  near T^{*} is essentially caused by the reduction of the electronic contribution.
+
+The lattice thermal conductivity (\kappa_{L}), obtained by subtracting \kappa_{e} from the experimental \kappa, is presented in Fig. 4. It is clear that a small peak in \kappa_{L} is discerned in the vicinity of T^{*}. Similar observations have been reported in the CDW superconductors of Lu_{5}Ir_{4}Si_{10} and Lu_{5}Rh_{4}Si_{10}[6, 31]. The excess \kappa_{L} has been attributed to the considerable heat carried by the soft phonons during the phase transition. Such a scenario could be appropriate for the present case of Sr_{3}Ir_{4}Sn_{13}. As a matter of fact, the calculated phonon dispersion indicated several soft phonon modes are responsible for the structural distortion associated with T^{*}of Sr_{3}Ir_{4}Sn_{13}[20].
+
+### Specific heat
+
+Specific heat measurement was performed with a high-resolution ac calorimeter, using chopped light as a heat source. Further details about the experimental techniques for these measurements can be found elsewhere [6]. The temperature-dependent specific heat of Sr_{3}Ir_{4}Sn_{13} is shown in Fig. 5. A spiky feature in C_{p} demonstrates the appearance of a sharp phase transition at T^{*}=147 K. The absence of thermal hysteresis indicates that this transition is second order or weak first order in nature. To evaluate the change of the entropy associated with the phase transition, we first determined the specific heat jump \Delta C_{p}\simeq 20.2 J/mol K by subtracting a smooth background, estimated by fitting the lattice specific heat through the experimental data far from the transition region. This also reveals an excess specific heat \Delta C_{p}/C_{p}\simeq 14\% at T^{*}. The temperature dependence of \Delta C_{p}/T around the phase transition is shown in the inset of Fig. 5. A large entropy change of \Delta S\simeq 0.17\,R (where R is the ideal gas constant) was obtained by integrating \Delta C_{p}/T through the entire transition region.
+
+It is worthwhile comparing these results to those of Lu_{5}Ir_{4}Sn_{10}, which also exhibits a huge specific heat jump near its CDW phase transition temperature of about 83 K. The values of \Delta C_{p}\simeq 55 and \simeq160 J/mol K have been reported for the polycrystalline and single-crystalline Lu_{5}Ir_{4}Si_{10}[5, 6]. The corresponding large entropy changes \Delta S\simeq 0.17R and \simeq0.5R lead to the conclusion that the nature of CDW in Lu_{5}Ir_{4}Si_{10} is beyond the mean-field description. Since the CDW in Lu_{5}Ir_{4}Si_{10} is associated with the lattice distortion within its 3D crystal structure, it seems that the appearance of a large specific heat anomaly is a common feature among the CDW materials arising from lattice instability. Therefore, the exhibited C_{p} behaviors in Sr_{3}Ir_{4}Sn_{13} are reminiscent of those observed in Lu_{5}Ir_{4}Si_{10}, indicative of a similar origin for both phase transitions.
+
+### Nuclear magnetic resonance
+
+Nuclear magnetic resonance is known as a site-selective tool, yielding the local information of structural and electronic characteristics for the studied material. In this investigation, NMR measurements were carried out using a Varian 300 spectrometer, with a constant field of 7.0868 T. A home-built probe was employed for both room-temperature and low-temperature experiments [32, 33]. To avoid the skin depth problem of the rf transmission power, we used a powder sample by crushing the single crystals of Sr_{3}Ir_{4}Sn_{13}. The specimen was put in a plastic vial that showed no observable ^{119}Sn NMR signal.
+
+^{119}Sn (nuclear spin I=1/2) NMR spectra which were mapped out by integrating spin echo signals of various excitations are displayed in Fig. 6. Two ^{119}Sn NMR resonance lines have been resolved at room temperature. Such an observation is consistent with the existence of two nonequivalent crystallographic Sr sites, denoted as Sn1 and Sn2, in the cubic Pm\overline{3}n phase. We assigned the high-frequency line to Sn1 since the Sn1 atoms occupy the axially symmetric 2a site (in Wyckoff notations). On the other hand, the Sn2 atoms reside at the 24k site, which is nonaxially symmetric, and the recognizable NMR line shape exhibits two distinctive shoulders due to anisotropic Knight shift effects. The simulated line shapes for
+
+Figure 4: (Color online) Temperature variation of the total thermal conductivity \kappa for Sr_{3}Ir_{4}Sn_{13}. The electronic thermal conductivity \kappa_{e} was evaluated using the Wiedemann-Franz law. The lattice thermal conductivity \kappa_{L} was obtained by subtracting \kappa_{e} from the experimental \kappa. The arrows highlight the position of T^{*}.
+
+Figure 5: (Color online) Temperature variation of the specific heat C_{p} for Sr_{3}Ir_{4}Sn_{13}. The absence of thermal hysteresis near T^{*} indicates the second-order nature of this phase transition. The dashed curve represents the background estimated by fitting the lattice specific heat through the experimental data far from the transition region. Inset: A \Delta C_{p}/T vs T plot in the vicinity of T^{*}.
+
+  both Sn1 and Sn2 sites were plotted as dotted curves beneath the data points taken at 297 K. Note that the line-shape areas for Sn1 and Sn2 agree with a ratio of 1:12, according to their site occupations within the Yb_{3}Rh_{4}Sn_{13}-type structure.
+
+To gain more insight into the evolution of the line shape across the phase transition, we provide several representative spectra taken below and above T^{*}. It is apparent that the linewidth does not exhibit a dramatic broadening at low temperatures, signifying the nonmagnetic origin for this phase transition. Below T^{*}, the Sn2 site splits into two peaks, labeled as Sn2-I and Sn2-II, respectively, indicating the occurrence of two different Sn2 atomic environments. The observed line shape can be reproduced from simulation, shown as dotted curves beneath the data points at 77 K. However, the number of the observed peaks is less than that of the nonequivalent crystallographic Sn sites revealed from the analysis of low-T XRD [2]. Accordingly, there are four nonequivalent Sn2 sites due to the distortion of the Sn2 icosahedra within the Pm\overline{3}n phase. It is not clear why these values differ, but it is possible for these to be reconciled if the corresponding spin susceptibility among some Sn sites is similar, leading to partially unresolved NMR line separation as observed. Alternatively, the additional Sn2 NMR line below T^{*}could be a consequence of the CDW formation. In the commensurate CDW phase, the appearance of one or more NMR splitting lines is expected because of the influence of the periodic modulation in the electronic density on the probed nuclei [34]. Such line splitting behavior has been observed in the well-established commensurate CDW phase of 2H-TaSe_{2} below 90 K [35, 36, 37].
+
+Figure 7 illustrates the temperature dependence of the ^{119}Sn NMR Knight shift ^{119}K for each Sn site of Sr_{3}Ir_{4}Sn_{13}, obtained from the simulated result of the individual NMR spectrum. The values of ^{119}K were referred to the ^{119}Sn resonance frequency \nu_{R}=112.519 MHz, evaluated from the nuclear gyromagnetic ratio ^{119}\nu_{N}/2\pi=1.5867 MHz/kOe. The Knight shift here is a sum of three parts as ^{119}K=K_{\rm orb}+K_{s}+K_{\rm sd}. The first term K_{\rm orb} is the orbital shift due to the contribution from the Van Vleck orbital magnetism and the second one K_{s} arises from Sn character electrons. The effect arising from p electrons can be neglected, due to relatively weak core polarization from p orbitals [38]. The third term K_{\rm sd} reflects the Ir 5d electronic behavior through the transferred hyperfine interaction via conduction electrons. As one can see, the Knight shifts are almost temperature independent for both Sn1 and Sn2 sites as T>T^{*}, in good agreement with the characteristic of a paramagnet. Lowering the temperature below T^{*}, each Knight shift changes progressively with a rapid drop, consistent with the feature found in the bulk magnetic susceptibility \chi shown in the inset of Fig. 7. Therefore, the NMR Knight shift analysis provides microscopic evidence that the reduction in \chi is partially related to the decrease in the Sn 5s and Ir 5d electronic states of Sr_{3}Ir_{4}Sn_{13}. With this accordance, it indicates that the interplay between electronic and structural instability is responsible for the peculiar phase transition in Sr_{3}Ir_{4}Sn_{13}.
+
+## III Conclusions
+
+The present investigation shows clear evidence for a pronounced phase transition in the vicinity of T^{*} = 147 K in Sr_{3}Ir_{4}Sn_{13}. Based on the analyses of the anomalous signatures in the temperature dependencies of \rho, R_{H}, S, and \kappa_{e} near T^{*}, we obtained a precise picture that the characteristics of the phase transition are highly associated with the electronic state reconstruction at Fermi surfaces. In addition, the NMR observations provide concrete evidence that the Fermi surface
+
+Figure 6: (Color online) Evolution of ^{119}Sn NMR spectrum of Sr_{3}Ir_{4}Sn_{13} measured at various temperatures. Above T^{*}, each spectrum shows resolved contributions from two Sn sites. The dotted curves at 297 K are simulated results for the Sn1 and Sn2 sites, respectively. Distinctive Sn2-I and Sn2-II NMR resonance lines appear in the spectra at low temperatures. The simulated curves at 77 K represent isolated components for the Sn1, Sn2-I, and Sn2-II sites, respectively.
+
+Figure 7: (Color online) Temperature-dependent ^{119}Sn NMR Knight shifts for Sr_{3}Ir_{4}Sn_{13}. The dashed vertical line indicates the phase transition temperature. The inset shows the magnetic susceptibility \chi of Sr_{3}Ir_{4}Sn_{13} in the vicinity of T^{*}.
+
+  modification is essentially related to the slight displacement and/or distortion of the Sn2 atom from its initial position within the Yb_{3} Rh_{4}Sn_{13}-type structure. While the observed phase transition behavior in Sr_{3}Ir_{4}Sn_{13} resembles the CDW formation in many aspects, the unambiguous CDW state in Sr_{3}Ir_{4}Sn_{13} will have to wait until there is identification of charge modulation along a specific wave vector direction by means of a high-resolution transmission electron microscopy (HRTEM) [12,39].
+
+###### Acknowledgements.
+
+ We are grateful to M. W. Chu of the Center for Condensed Matter Sciences in National Taiwan University for the help with structural analysis. This work was supported by the National Science Council of Taiwan under Grants No. NSC-101-2112-M-006-009-MY2 (C.S.L.), No. NSC-101-2112-M-002-020-MY2 (L.M.W.), and No. NSC-100-2628-M-259-001-MY3 (Y.K.K.).
+
+## References
+
+* [1] N. Kase, H. Hayamizu, and J. Akimitsu, Phys. Rev. B **83**, 184509 (2011).
+* [2] L. E. Klintberg, S. K. Goh, P. L. Alireza, P. J. Saines, D. A. Tompsett, P. W. Logg, J. Yang, B. Chen, K. Yoshimura, and F. M. Grosche, Phys. Rev. Lett. **109**, 237008 (2012).
+* [3] R. N. Shelton, L. S. Hausermann-Berg, P. Klavins, H. D. Yang, M. S. Anderson, and C. A. Swenson, Phys. Rev. B **34**, 4590 (1986).
+* [4] H. D. Yang, P. Klavins, and R. N. Shelton, Phys. Rev. B **43**, 7681 (1991).
+* [5] B. Becker, N. G. Patil, S. Ramakrishnan, A. A. Menovsky, G. J. Nieuwenhuys, J. A. Mydosh, M. Kohgi, and K. Iwasa, Phys. Rev. B **59**, 7266 (1999).
+* [6] Y.-K. Kuo, C. S. Lue, F. H. Hsu, H. H. Li, and H. D. Yang, Phys. Rev. B **64**, 125124 (2001).
+* [7] Y. -K. Kuo, F. H. Hsu, H. H. Li, H. L. Huang, C. W. Huang, C. S. Lue, and H. D. Yang, Phys. Rev. B **67**, 195101 (2003).
+* [8] S. van Smaalen, M. Shaz, L. Palatinus, P. Daniels, F. Galli, G. J. Nieuwenhuys, and J. A. Mydosh, Phys. Rev. B **69**, 014103 (2004).
+* [9] M. Inamdar and S. Ramakrishnan, Phys. Rev. B **77**, 113103 (2008).
+* [10] R. Tediosi, F. Carbone, A. B. Kuzmenko, J. Teyssier, D. van der Marel, and J. A. Mydosh, Phys. Rev. B **80**, 035107 (2009).
+* [11] F. Galli, S. Ramakrishnan, T. Taniguchi, G. J. Nieuwenhuys, J. A. Mydosh, S. Geupel, J. Ludecke, and S. van Smaalen, Phys. Rev. Lett. **85**, 158 (2000).
+* [12] C. M. Tseng, C. H. Chen, and H. D. Yang, Phys. Rev. B **77**, 155131 (2008).
+* [13] S. Shimomura, C. Hayashi, G. Asaka, N. Wakabayashi, M. Mizumaki, and H. Onodera, Phys. Rev. Lett. **102**, 076404 (2009).
+* [14] J. Laverock, T. D. Haynes, C. Utfeld, and S. B. Dugdale, Phys. Rev. B **80**, 125111 (2009).
+* [15] A. Wolfel, L. Li, S. Shimomura, H. Onodera, and S. van Smaalen, Phys. Rev. B **82**, 054120 (2010).
+* [16] J. H. Kim, J. S. Rhyee, and Y. S. Kwon, Phys. Rev. B **86**, 235101 (2012).
+* [17] N. Hanasaki, Y. Nogami, M. Kakinuma, S. Shimomura, M. Kosaka, and H. Onodera, Phys. Rev. B **85**, 092402 (2012).
+* [18] B. Woo, S. Seo, E. Park, J. H. Kim, D. Jang, T. Park, H. Lee, F. Ronning, J. D. Thompson, V. A. Sidorov, and Y. S. Kwon, Phys. Rev. B **87**, 125121 (2013).
+* [19] K. Kadowaki and S. B. Woods, Solid State Commun. **58**, 507 (1986).
+* [20] D. A. Tompsett, Phys. Rev. B **89**, 075117 (2014).
+* [21] N. Tsujii, H. Kontani, and K. Yoshimura, Phys. Rev. Lett. **94**, 057201 (2005).
+* [22] J. Yang, B. Chen, C. Michioka, and K. Yoshimura, J. Phys. Soc. Jpn. **79**, 113705 (2010).
+* [23] H. Hayamizu, N. Kase, and J. Akimitsu, Physica C **470**, S541 (2010).
+* [24] K. Wang and C. Petrovic, Phys. Rev. B **86**, 024522 (2012).
+* [25] S. Y. Zhou, H. Zhang, X. C. Hong, B. Y. Pan, X. Qiu, W. N. Dong, X. L. Li, and S. Y. Li, Phys. Rev. B **86**, 064504 (2012).
+* [26] S. Gerber, J. L. Gavilano, M. Medarde, V. Pomjakushin, C. Baines, E. Pomjakushina, K. Conder, and M. Kenzelmann, Phys. Rev. B **88**, 104505 (2013).
+* [27] G. R. Stewart, Rev. Mod. Phys. **56**, 755 (1984).
+* [28] T. Takayama, K. Kuwano, D. Hirai, Y. Katsura, A. Yamamoto, and H. Takagi, Phys. Rev. Lett. **108**, 237001 (2012).
+* [29] C. S. Lue, S. H. Yang, A. Abhyankar, Y. D. Hsu, H. T. Hong, and Y. K. Kuo, Phys. Rev. B **82**, 045111 (2010).
+* [30] Y. K. Kuo, K. M. Sivakumar, T. H. Su, and C. S. Lue, Phys. Rev. B **74**, 045115 (2006).
+* [31] C. S. Lue, Y.-K. Kuo, F. H. Hsu, H. H. Li, H. D. Yang, P. S. Fodor, and L. E. Wenger, Phys. Rev. B **66**, 033101 (2002).
+* [32] C. S. Lue, H. F. Liu, S. L. Hsu, M. W. Chu, H. Y. Liao, and Y. K. Kuo, Phys. Rev. B **85**, 205120 (2012).
+* [33] H. F. Liu, C. N. Kuo, C. S. Lue, K.-Z. Syu, and Y. K. Kuo, Phys. Rev. B **88**, 115113 (2013).
+* [34] P. -J. Chu, B. C. Gerstein, H. D. Yang, and R. N. Shelton, Phys. Rev. B **37**, 1796 (1988).
+* [35] F. Borsa, D. R. Torgeson, and H. R. Shanks, Phys. Rev. B **15**, 4576 (1977).
+* [36] B. H. Suits, S. Couturie, and C. P. Slichter, Phys. Rev. Lett. **45**, 194 (1980).
+* [37] L. Pfeiffer, R. E. Walstedt, R. F. Bell, and T. Kovacs, Phys. Rev. Lett. **49**, 1162 (1982).
+* [38]_Metallic Shifts in NMR_, edited by G. C. Carter, L. H. Bennett, and D. J. Kahan (Pergamon, Oxford, 1977).
+* [39] M. H. Lee, C. H. Chen, M.-W. Chu, C. S. Lue, and Y. K. Kuo, Phys. Rev. B **83**, 155121 (2011).
+
+ 
+
+# Characteristics of the phase transition near 147 K in Sr_{3}Ir_{4}Sn_{13}
+
+C. N. Kuo,^{1} H. F. Liu,^{1} C. S. Lue,^{1,2,} L. M. Wang,^{3,} C. C. Chen,^{4} Y. K. Kuo^{4,}
+
+cslue@mail.ncku.edu.tw liminwang@ntu.edu.tw ykkuo@mail.nthu.edu.tw
+
+###### Abstract
+
+In order to assess the phase transition nature in Sr_{3}Ir_{4}Sn_{13}, we have carried out the electrical resistivity, Hall coefficient, Seebeck coefficient, thermal conductivity, specific heat, and ^{119}Sn nuclear magnetic resonance (NMR) measurements, mainly focusing on the signatures around the phase transition temperature T^{*} = 147 K. The phase transition has been characterized by marked features near T^{*} in all measured physical quantities. In particular, the Hall measurement reveals the abrupt change in both magnitude and sign of the charge carriers below T^{*}, providing strong evidence for the Fermi surface reconstruction associated with this phase transition. Moreover, the NMR observations indicate the presence of the splitting of the resonance lines below T^{*} which could be accounted for by the local distortion of the Sn2 icosahedra within the Pm\overline{3}n phase. The NMR Knight shift analysis further provides microscopic evidence for the reduction in both Sn 5s and Ir 5d electronic states near the Fermi surfaces of Sr_{3}Ir_{4}Sn_{13}. With respect to these observations, it suggests that the strong interplay between electronic and structural instability is responsible for the peculiar phase transition in Sr_{3}Ir_{4}Sn_{13}.
+
+2014 10.1103/PhysRevB.89.094 
+
+### Electrical resistivity
+
+Data of the electrical resistivity \rho were obtained using a standard four-point probe method. The observed electrical resistivity for Sr_{3}Ir_{4}Sn_{13} is displayed in Fig. 1. The temperature dependence of \rho is very similar to that reported by Klintberg _et al_. [2], showing a distinct hump near T^{*} = 147 K and a superconducting phase transition below T_{c} = 5 K. The normal state resistivity between 5 and 30 K can be described well to a power law,
+
+\[\rho(T)=\rho_{o}+AT^{2},\] (1)
+
+where \rho_{o} is the residual resistivity and A is the temperature coefficient of the electric resistivity. In the upper inset of Fig. 1, we showed the plot of \rho vs T^{2}, with the linear relation yielding \rho_{o} = 1.93 \mu\Omega cm and A = 0.009 \mu\Omega cm/K^{2}. The residual resistivity \rho_{o} may arise from the scattering due to domain boundaries and/or defects by electrons. The small value of \rho_{o} indicates the high quality of the present single crystal and gives an estimate of the residual resistivity ratio [RRR, \rho(300 K)/\rho_{o}] of about 18.4 for our single-crystalline Sr_{3}Ir_{4}Sn_{13}.
+
+It is instructive to mention that the electron-electron scattering rate at low temperatures should grow as T^{2} in the Fermi liquid picture. The Kadowaki-Woods ratio A/\gamma^{2} is usually used to determine the strength of the electronic correlation of the studied system [19]. Taking A = 0.009 \mu\Omega cm/K^{2} and the low-temperature specific heat coefficient \gamma = 39.3 mJ/mol K^{2} obtained by Kase _et al_. [1], we found A/\gamma^{2} = 0.58 \times 10^{-5}\mu\Omega cm/(mJ/mol K^{2})^{2} for Sr_{3}Ir_{4}Sn_{13}. Enhancement of \gamma can be due to electron-phonon and electron-electron effects. Based on the reported electron-phonon coupling constant \lambda_{\rm ep} = 0.983 and the recent band-structure calculated Fermi-level density of states (DOS) of approximately 12.5 states/eV f.u. [1,20], we deduced the electron-electron enhancement term to be \lambda_{ee} = 24.8, leading to the electronic specific heat coefficient \gamma_{e} = 37.8 mJ/mol K^{2}. Thus, it is more realistic to use \gamma_{e} for calculating the Kadowaki-Woods ratio, yielding the ratio of A/\gamma_{e}^{2} = 0.63 \times 10^{-5}\mu\Omega cm/(mJ/mol K^{2})^{2} for Sr_{3}Ir_{4}Sn_{13}. This value is found to be comparable to those of heavy fermion systems [21], indicating the importance of the strongly correlated effect on the low-temperature state of Sr_{3}Ir_{4}Sn_{13}. Here, we also demonstrated that the large \gamma value is mainly enhanced by the electron-electron effect.
+
+It is worthwhile comparing these results to those of Ca_{3}Ir_{4}Sn_{13} which exhibits superconducting behavior below T_{c} = 7 K and anomalous features at T^{*} = 38 K [22, 23, 24, 25, 26]. Yang _et al_. estimated A/\gamma_{e}^{2} = 1.14 \times 10^{-5}\mu\Omega cm/(mJ/mol K^{2})^{2} for Ca_{3}Ir_{4}Sn_{13}[22], very close to the value originally identified as characteristic of heavy fermion materials [27]. It is interesting that the band-structure-calculated Fermi-level DOS of 12.5 states/eV f.u. and the extracted low-temperature specific heat coefficient \gamma = 39-41 mJ/mol K^{2} for Ca_{3}Ir_{4}Sn_{13} are almost the same as those of Sr_{3}Ir_{4}Sn_{13}[20, 22, 24]. Therefore, this comparison provides evidence for the strong electron-electron correlation on the low-temperature state of Ca_{3}Ir_{4}Sn_{13}, similar to the present case of Sr_{3}Ir_{4}Sn_{13}.
+
+### Hall coefficient
+
+For the Hall coefficient measurement, the single-crystal slabs with a flat surface of crystalline (110) plane were cut into dimensions of 2.5\times 0.8\times 0.08 mm^{3}. Five leads were soldered with indium and a Hall-measurement geometry was constructed to allow simultaneous measurements of both longitudinal (\rho_{xx}) and transverse (Hall) resistivities (\rho_{xy}) using standard dc techniques. The contact size was miniaturized as small as possible (<0.2 mm) to avoid large inaccuracy in the determination of resistivities. Hall voltages were taken in opposing fields up to 6 T and with an in-plane current density of about 60 A/cm^{2}.
+
+Figure 2(a) shows the temperature variation of the Hall coefficient R_{H} for Sr_{3}Ir_{4}Sn_{13} measured at a constant field H = 3 T. The negative sign in R_{H} at temperatures above 150 K indicates that the electron-type carriers dominate its electrical transport. Upon further cooling, a sharp change in R_{H} accompanying with a sign change takes place below T^{*}. The strong temperature dependence of R_{H} suggests a multiband character of the Fermi surfaces. Here a simple two-band picture is sufficient for the realization of the Fermi surface structure as
+
+\[R_{H}=\frac{\sigma_{n}^{2}R_{n}+\sigma_{p}^{2}R_{p}}{(\sigma_{n}+\sigma_{p})^{2 }},\] (2)
+
+where R_{n,p} and \sigma_{n,p} represent the Hall coefficients and electrical conductivities for the n- and p-type carriers from electronic and hole bands, respectively. In principle, each parameter is governed by the scattering relaxation time which varies differently with temperature. At low temperatures, the p-type carriers have a dominant contribution, leading to a positive sign in R_{H}. A noticeable downturn in R_{H} appears below 25 K, implying that multiscattering channels are involved. A similar peak feature prior to T_{c} has been reported in the strong coupling superconductor of SrPt_{3}P [28], suggesting that the joined scattering mechanism plays an important role for the unconventional superconductivity in this material. Such a scenario could be appropriate to the present case of Sr_{3}Ir_{4}Sn_{13}.
+
+Figure 1: (Color online) Electrical resistivity \rho as a function of temperature for Sr_{3}Ir_{4}Sn_{13}. The upper inset displays a plot of \rho vs T^{2}, showing a linear relation between 5 and 30 K. The lower inset gives a room-temperature single-crystal x-ray diffraction pattern from the (110) plane of Sr_{3}Ir_{4}Sn_{13}. Reflections are indexed with respect to the Yb_{3}Rh_{4}Sn_{13}-type structure (space group Pm\overline{3}n).
+
+ We also carried out the magnetic field dependence of the transverse Hall resistivity \rho_{xy} for Sr_{3}Ir_{4}Sn_{13} below and above T^{*}. As displayed in Fig. 2(b), the plot of the \rho_{xy}-H curve shows conventional linear behavior for each temperature, confirming the absence of anomalous Hall effects in the present experiment. The inset of Fig. 2(a) illustrates the temperature dependence of the Hall carrier concentration n_{H}, obtained from 1/(R_{H}e). The magnitude of n_{H} was estimated to be about 10^{23} cm^{-3} at room temperature, indicative of the high carrier density for Sr_{3}Ir_{4}Sn_{13}. The prominent change in both sign and magnitude of n_{H} appears near T^{*}, providing strong evidence for a significant change of the electronic band structure across the phase transition. Therefore, the reduction in n_{H} could be realized as Fermi surface nesting associated with the superlattice distortion. The abrupt decrease in the carrier density below T^{*} has also been found in the isostructural compound of Ca_{3}Ir_{4}Sn_{13}, suggesting a similar phase transition mechanism for both systems [24].
+
+### Seebeck coefficient
+
+Seebeck coefficient and thermal conductivity experiments were simultaneously performed in a closed cycle refrigerator using a heat pulse technique. Further details about the experimental techniques for these measurements can be found elsewhere [29]. It is known that the Seebeck coefficient is a sensitive probe for the phenomenon associated with changes in the Fermi surfaces, such as CDW ordering and crystallographic distortion [6, 30]. The plot of the measured Seebeck coefficient as a function of temperature for Sr_{3}Ir_{4}Sn_{13} is given in Fig. 3. As one can see, the strong temperature variation of S gives evidence for the presence of a multiband effect. We thus employed a two-band model as in the case for the Hall coefficient analysis as
+
+\[S=\frac{\sigma_{n}S_{n}+\sigma_{p}S_{p}}{\sigma_{n}+\sigma_{p}},\]
+
+where S_{n,p} are the Seebeck coefficients for the n- and p-type carriers, respectively. For T<T^{*}, the positive sign of S signifies that the hole-type carriers dominate the thermoelectric transport, being consistent with the observation from the Hall measurement. With raising temperature above T^{*}, a drastic change in the feature of S has been noticed. This phenomenon can be understood by an increasing contribution from the n-type carriers, indicating substantial modification in the Fermi surfaces across the phase transition. It is worthwhile mentioning that the present S feature is quite similar to that of SmNiC_{2}[16], which has been identified as a 3D CDW system [13, 14, 15, 16, 17, 18]. The comparison thus suggests the possible CDW ordering associated with the observed phase transition in Sr_{3}Ir_{4}Sn_{13}.
+
+### Thermal conductivity
+
+Figure 4 illustrates the temperature dependence of the observed thermal conductivity \kappa for Sr_{3}Ir_{4}Sn_{13}. In the vicinity of T^{*}, a clear drop in \kappa, indicated by an arrow, was observed. In principle, the total thermal conductivity for an ordinary metal is a sum of electronic and lattice terms. The electronic thermal conductivity (\kappa_{e}) can be evaluated using the Wiedemann-Franz law \kappa_{e}\rho/T=L_{o}, where \rho is the experimental dc electric resistivity and L_{o}=2.45\times 10^{-8} W\Omega K^{-2} is the theoretical Lorenz number. The extracted T-dependent \kappa_{e} for Sr_{3}Ir_{4}Sn_{13} above 50 K is displayed in Fig. 4. Remarkably, \kappa_{e} also exhibits a kink at around T^{*}, and the feature is identical to the observed \kappa. This analysis thus provides a confirmation that the drop in \kappa
+
+Figure 3: (Color online) Temperature dependence of the Seebeck coefficient S for Sr_{3}Ir_{4}Sn_{13}. The arrow indicates the position of T^{*}.
+
+Figure 2: (Color online) (a) Hall resistivity as a function of temperature for Sr_{3}Ir_{4}Sn_{13} measured at H=3 T. The inset shows the temperature dependence of the Hall carrier concentration. (b) Magnetic field dependence of the Hall resistivity \rho_{xy} at various temperatures. Each dashed straight line represents linear behavior.
+
+  near T^{*} is essentially caused by the reduction of the electronic contribution.
+
+The lattice thermal conductivity (\kappa_{L}), obtained by subtracting \kappa_{e} from the experimental \kappa, is presented in Fig. 4. It is clear that a small peak in \kappa_{L} is discerned in the vicinity of T^{*}. Similar observations have been reported in the CDW superconductors of Lu_{5}Ir_{4}Si_{10} and Lu_{5}Rh_{4}Si_{10}[6, 31]. The excess \kappa_{L} has been attributed to the considerable heat carried by the soft phonons during the phase transition. Such a scenario could be appropriate for the present case of Sr_{3}Ir_{4}Sn_{13}. As a matter of fact, the calculated phonon dispersion indicated several soft phonon modes are responsible for the structural distortion associated with T^{*}of Sr_{3}Ir_{4}Sn_{13}[20].
+
+### Specific heat
+
+Specific heat measurement was performed with a high-resolution ac calorimeter, using chopped light as a heat source. Further details about the experimental techniques for these measurements can be found elsewhere [6]. The temperature-dependent specific heat of Sr_{3}Ir_{4}Sn_{13} is shown in Fig. 5. A spiky feature in C_{p} demonstrates the appearance of a sharp phase transition at T^{*}=147 K. The absence of thermal hysteresis indicates that this transition is second order or weak first order in nature. To evaluate the change of the entropy associated with the phase transition, we first determined the specific heat jump \Delta C_{p}\simeq 20.2 J/mol K by subtracting a smooth background, estimated by fitting the lattice specific heat through the experimental data far from the transition region. This also reveals an excess specific heat \Delta C_{p}/C_{p}\simeq 14\% at T^{*}. The temperature dependence of \Delta C_{p}/T around the phase transition is shown in the inset of Fig. 5. A large entropy change of \Delta S\simeq 0.17\,R (where R is the ideal gas constant) was obtained by integrating \Delta C_{p}/T through the entire transition region.
+
+It is worthwhile comparing these results to those of Lu_{5}Ir_{4}Sn_{10}, which also exhibits a huge specific heat jump near its CDW phase transition temperature of about 83 K. The values of \Delta C_{p}\simeq 55 and \simeq160 J/mol K have been reported for the polycrystalline and single-crystalline Lu_{5}Ir_{4}Si_{10}[5, 6]. The corresponding large entropy changes \Delta S\simeq 0.17R and \simeq0.5R lead to the conclusion that the nature of CDW in Lu_{5}Ir_{4}Si_{10} is beyond the mean-field description. Since the CDW in Lu_{5}Ir_{4}Si_{10} is associated with the lattice distortion within its 3D crystal structure, it seems that the appearance of a large specific heat anomaly is a common feature among the CDW materials arising from lattice instability. Therefore, the exhibited C_{p} behaviors in Sr_{3}Ir_{4}Sn_{13} are reminiscent of those observed in Lu_{5}Ir_{4}Si_{10}, indicative of a similar origin for both phase transitions.
+
+### Nuclear magnetic resonance
+
+Nuclear magnetic resonance is known as a site-selective tool, yielding the local information of structural and electronic characteristics for the studied material. In this investigation, NMR measurements were carried out using a Varian 300 spectrometer, with a constant field of 7.0868 T. A home-built probe was employed for both room-temperature and low-temperature experiments [32, 33]. To avoid the skin depth problem of the rf transmission power, we used a powder sample by crushing the single crystals of Sr_{3}Ir_{4}Sn_{13}. The specimen was put in a plastic vial that showed no observable ^{119}Sn NMR signal.
+
+^{119}Sn (nuclear spin I=1/2) NMR spectra which were mapped out by integrating spin echo signals of various excitations are displayed in Fig. 6. Two ^{119}Sn NMR resonance lines have been resolved at room temperature. Such an observation is consistent with the existence of two nonequivalent crystallographic Sr sites, denoted as Sn1 and Sn2, in the cubic Pm\overline{3}n phase. We assigned the high-frequency line to Sn1 since the Sn1 atoms occupy the axially symmetric 2a site (in Wyckoff notations). On the other hand, the Sn2 atoms reside at the 24k site, which is nonaxially symmetric, and the recognizable NMR line shape exhibits two distinctive shoulders due to anisotropic Knight shift effects. The simulated line shapes for
+
+Figure 4: (Color online) Temperature variation of the total thermal conductivity \kappa for Sr_{3}Ir_{4}Sn_{13}. The electronic thermal conductivity \kappa_{e} was evaluated using the Wiedemann-Franz law. The lattice thermal conductivity \kappa_{L} was obtained by subtracting \kappa_{e} from the experimental \kappa. The arrows highlight the position of T^{*}.
+
+Figure 5: (Color online) Temperature variation of the specific heat C_{p} for Sr_{3}Ir_{4}Sn_{13}. The absence of thermal hysteresis near T^{*} indicates the second-order nature of this phase transition. The dashed curve represents the background estimated by fitting the lattice specific heat through the experimental data far from the transition region. Inset: A \Delta C_{p}/T vs T plot in the vicinity of T^{*}.
+
+  both Sn1 and Sn2 sites were plotted as dotted curves beneath the data points taken at 297 K. Note that the line-shape areas for Sn1 and Sn2 agree with a ratio of 1:12, according to their site occupations within the Yb_{3}Rh_{4}Sn_{13}-type structure.
+
+To gain more insight into the evolution of the line shape across the phase transition, we provide several representative spectra taken below and above T^{*}. It is apparent that the linewidth does not exhibit a dramatic broadening at low temperatures, signifying the nonmagnetic origin for this phase transition. Below T^{*}, the Sn2 site splits into two peaks, labeled as Sn2-I and Sn2-II, respectively, indicating the occurrence of two different Sn2 atomic environments. The observed line shape can be reproduced from simulation, shown as dotted curves beneath the data points at 77 K. However, the number of the observed peaks is less than that of the nonequivalent crystallographic Sn sites revealed from the analysis of low-T XRD [2]. Accordingly, there are four nonequivalent Sn2 sites due to the distortion of the Sn2 icosahedra within the Pm\overline{3}n phase. It is not clear why these values differ, but it is possible for these to be reconciled if the corresponding spin susceptibility among some Sn sites is similar, leading to partially unresolved NMR line separation as observed. Alternatively, the additional Sn2 NMR line below T^{*}could be a consequence of the CDW formation. In the commensurate CDW phase, the appearance of one or more NMR splitting lines is expected because of the influence of the periodic modulation in the electronic density on the probed nuclei [34]. Such line splitting behavior has been observed in the well-established commensurate CDW phase of 2H-TaSe_{2} below 90 K [35, 36, 37].
+
+Figure 7 illustrates the temperature dependence of the ^{119}Sn NMR Knight shift ^{119}K for each Sn site of Sr_{3}Ir_{4}Sn_{13}, obtained from the simulated result of the individual NMR spectrum. The values of ^{119}K were referred to the ^{119}Sn resonance frequency \nu_{R}=112.519 MHz, evaluated from the nuclear gyromagnetic ratio ^{119}\nu_{N}/2\pi=1.5867 MHz/kOe. The Knight shift here is a sum of three parts as ^{119}K=K_{\rm orb}+K_{s}+K_{\rm sd}. The first term K_{\rm orb} is the orbital shift due to the contribution from the Van Vleck orbital magnetism and the second one K_{s} arises from Sn character electrons. The effect arising from p electrons can be neglected, due to relatively weak core polarization from p orbitals [38]. The third term K_{\rm sd} reflects the Ir 5d electronic behavior through the transferred hyperfine interaction via conduction electrons. As one can see, the Knight shifts are almost temperature independent for both Sn1 and Sn2 sites as T>T^{*}, in good agreement with the characteristic of a paramagnet. Lowering the temperature below T^{*}, each Knight shift changes progressively with a rapid drop, consistent with the feature found in the bulk magnetic susceptibility \chi shown in the inset of Fig. 7. Therefore, the NMR Knight shift analysis provides microscopic evidence that the reduction in \chi is partially related to the decrease in the Sn 5s and Ir 5d electronic states of Sr_{3}Ir_{4}Sn_{13}. With this accordance, it indicates that the interplay between electronic and structural instability is responsible for the peculiar phase transition in Sr_{3}Ir_{4}Sn_{13}.
+
+## III Conclusions
+
+The present investigation shows clear evidence for a pronounced phase transition in the vicinity of T^{*} = 147 K in Sr_{3}Ir_{4}Sn_{13}. Based on the analyses of the anomalous signatures in the temperature dependencies of \rho, R_{H}, S, and \kappa_{e} near T^{*}, we obtained a precise picture that the characteristics of the phase transition are highly associated with the electronic state reconstruction at Fermi surfaces. In addition, the NMR observations provide concrete evidence that the Fermi surface
+
+Figure 6: (Color online) Evolution of ^{119}Sn NMR spectrum of Sr_{3}Ir_{4}Sn_{13} measured at various temperatures. Above T^{*}, each spectrum shows resolved contributions from two Sn sites. The dotted curves at 297 K are simulated results for the Sn1 and Sn2 sites, respectively. Distinctive Sn2-I and Sn2-II NMR resonance lines appear in the spectra at low temperatures. The simulated curves at 77 K represent isolated components for the Sn1, Sn2-I, and Sn2-II sites, respectively.
+
+Figure 7: (Color online) Temperature-dependent ^{119}Sn NMR Knight shifts for Sr_{3}Ir_{4}Sn_{13}. The dashed vertical line indicates the phase transition temperature. The inset shows the magnetic susceptibility \chi of Sr_{3}Ir_{4}Sn_{13} in the vicinity of T^{*}.
+
+  modification is essentially related to the slight displacement and/or distortion of the Sn2 atom from its initial position within the Yb_{3} Rh_{4}Sn_{13}-type structure. While the observed phase transition behavior in Sr_{3}Ir_{4}Sn_{13} resembles the CDW formation in many aspects, the unambiguous CDW state in Sr_{3}Ir_{4}Sn_{13} will have to wait until there is identification of charge modulation along a specific wave vector direction by means of a high-resolution transmission electron microscopy (HRTEM) [12,39].
+
+###### Acknowledgements.
+
+ We are grateful to M. W. Chu of the Center for Condensed Matter Sciences in National Taiwan University for the help with structural analysis. This work was supported by the National Science Council of Taiwan under Grants No. NSC-101-2112-M-006-009-MY2 (C.S.L.), No. NSC-101-2112-M-002-020-MY2 (L.M.W.), and No. NSC-100-2628-M-259-001-MY3 (Y.K.K.).
+
+## References
+
+* [1] N. Kase, H. Hayamizu, and J. Akimitsu, Phys. Rev. B **83**, 184509 (2011).
+* [2] L. E. Klintberg, S. K. Goh, P. L. Alireza, P. J. Saines, D. A. Tompsett, P. W. Logg, J. Yang, B. Chen, K. Yoshimura, and F. M. Grosche, Phys. Rev. Lett. **109**, 237008 (2012).
+* [3] R. N. Shelton, L. S. Hausermann-Berg, P. Klavins, H. D. Yang, M. S. Anderson, and C. A. Swenson, Phys. Rev. B **34**, 4590 (1986).
+* [4] H. D. Yang, P. Klavins, and R. N. Shelton, Phys. Rev. B **43**, 7681 (1991).
+* [5] B. Becker, N. G. Patil, S. Ramakrishnan, A. A. Menovsky, G. J. Nieuwenhuys, J. A. Mydosh, M. Kohgi, and K. Iwasa, Phys. Rev. B **59**, 7266 (1999).
+* [6] Y.-K. Kuo, C. S. Lue, F. H. Hsu, H. H. Li, and H. D. Yang, Phys. Rev. B **64**, 125124 (2001).
+* [7] Y. -K. Kuo, F. H. Hsu, H. H. Li, H. L. Huang, C. W. Huang, C. S. Lue, and H. D. Yang, Phys. Rev. B **67**, 195101 (2003).
+* [8] S. van Smaalen, M. Shaz, L. Palatinus, P. Daniels, F. Galli, G. J. Nieuwenhuys, and J. A. Mydosh, Phys. Rev. B **69**, 014103 (2004).
+* [9] M. Inamdar and S. Ramakrishnan, Phys. Rev. B **77**, 113103 (2008).
+* [10] R. Tediosi, F. Carbone, A. B. Kuzmenko, J. Teyssier, D. van der Marel, and J. A. Mydosh, Phys. Rev. B **80**, 035107 (2009).
+* [11] F. Galli, S. Ramakrishnan, T. Taniguchi, G. J. Nieuwenhuys, J. A. Mydosh, S. Geupel, J. Ludecke, and S. van Smaalen, Phys. Rev. Lett. **85**, 158 (2000).
+* [12] C. M. Tseng, C. H. Chen, and H. D. Yang, Phys. Rev. B **77**, 155131 (2008).
+* [13] S. Shimomura, C. Hayashi, G. Asaka, N. Wakabayashi, M. Mizumaki, and H. Onodera, Phys. Rev. Lett. **102**, 076404 (2009).
+* [14] J. Laverock, T. D. Haynes, C. Utfeld, and S. B. Dugdale, Phys. Rev. B **80**, 125111 (2009).
+* [15] A. Wolfel, L. Li, S. Shimomura, H. Onodera, and S. van Smaalen, Phys. Rev. B **82**, 054120 (2010).
+* [16] J. H. Kim, J. S. Rhyee, and Y. S. Kwon, Phys. Rev. B **86**, 235101 (2012).
+* [17] N. Hanasaki, Y. Nogami, M. Kakinuma, S. Shimomura, M. Kosaka, and H. Onodera, Phys. Rev. B **85**, 092402 (2012).
+* [18] B. Woo, S. Seo, E. Park, J. H. Kim, D. Jang, T. Park, H. Lee, F. Ronning, J. D. Thompson, V. A. Sidorov, and Y. S. Kwon, Phys. Rev. B **87**, 125121 (2013).
+* [19] K. Kadowaki and S. B. Woods, Solid State Commun. **58**, 507 (1986).
+* [20] D. A. Tompsett, Phys. Rev. B **89**, 075117 (2014).
+* [21] N. Tsujii, H. Kontani, and K. Yoshimura, Phys. Rev. Lett. **94**, 057201 (2005).
+* [22] J. Yang, B. Chen, C. Michioka, and K. Yoshimura, J. Phys. Soc. Jpn. **79**, 113705 (2010).
+* [23] H. Hayamizu, N. Kase, and J. Akimitsu, Physica C **470**, S541 (2010).
+* [24] K. Wang and C. Petrovic, Phys. Rev. B **86**, 024522 (2012).
+* [25] S. Y. Zhou, H. Zhang, X. C. Hong, B. Y. Pan, X. Qiu, W. N. Dong, X. L. Li, and S. Y. Li, Phys. Rev. B **86**, 064504 (2012).
+* [26] S. Gerber, J. L. Gavilano, M. Medarde, V. Pomjakushin, C. Baines, E. Pomjakushina, K. Conder, and M. Kenzelmann, Phys. Rev. B **88**, 104505 (2013).
+* [27] G. R. Stewart, Rev. Mod. Phys. **56**, 755 (1984).
+* [28] T. Takayama, K. Kuwano, D. Hirai, Y. Katsura, A. Yamamoto, and H. Takagi, Phys. Rev. Lett. **108**, 237001 (2012).
+* [29] C. S. Lue, S. H. Yang, A. Abhyankar, Y. D. Hsu, H. T. Hong, and Y. K. Kuo, Phys. Rev. B **82**, 045111 (2010).
+* [30] Y. K. Kuo, K. M. Sivakumar, T. H. Su, and C. S. Lue, Phys. Rev. B **74**, 045115 (2006).
+* [31] C. S. Lue, Y.-K. Kuo, F. H. Hsu, H. H. Li, H. D. Yang, P. S. Fodor, and L. E. Wenger, Phys. Rev. B **66**, 033101 (2002).
+* [32] C. S. Lue, H. F. Liu, S. L. Hsu, M. W. Chu, H. Y. Liao, and Y. K. Kuo, Phys. Rev. B **85**, 205120 (2012).
+* [33] H. F. Liu, C. N. Kuo, C. S. Lue, K.-Z. Syu, and Y. K. Kuo, Phys. Rev. B **88**, 115113 (2013).
+* [34] P. -J. Chu, B. C. Gerstein, H. D. Yang, and R. N. Shelton, Phys. Rev. B **37**, 1796 (1988).
+* [35] F. Borsa, D. R. Torgeson, and H. R. Shanks, Phys. Rev. B **15**, 4576 (1977).
+* [36] B. H. Suits, S. Couturie, and C. P. Slichter, Phys. Rev. Lett. **45**, 194 (1980).
+* [37] L. Pfeiffer, R. E. Walstedt, R. F. Bell, and T. Kovacs, Phys. Rev. Lett. **49**, 1162 (1982).
+* [38]_Metallic Shifts in NMR_, edited by G. C. Carter, L. H. Bennett, and D. J. Kahan (Pergamon, Oxford, 1977).
+* [39] M. H. Lee, C. H. Chen, M.-W. Chu, C. S. Lue, and Y. K. Kuo, Phys. Rev. B **83**, 155121 (2011).
+
+ 

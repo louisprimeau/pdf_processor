@@ -1,0 +1,361 @@
+Pressure-induced superconductivity in EuFe_{2}As_{2} without a quantum critical point: Magnetotransport and upper critical field measurements under high pressure
+
+Nobuyuki Kurita
+
+1National Institute for Materials Science, Tsukuba, Ibaraki 305-0003, Japan JST, Transformative Research-Project on Iron Pnictides (TRIP), Chiyoda, Tokyo 102-0075, Japan Institute for Solid State Physics, The University of Tokyo, Kashiwanoha, Kashiwa, Chiba 277-8581, Japan
+
+Motoi Kimata
+
+Kota Kodama
+
+Graduate School of Pure and Applied Sciences, University of Tsukuba, Ibaraki 305-0003, Japan Department of Physics, Graduate School of Science, Osaka City University, Osaka 558-8585, Japan
+
+Atsushi Harada
+
+National Institute for Materials Science, Tsukuba, Ibaraki 305-0003, Japan JST, Transformative Research-Project on Iron Pnictides (TRIP), Chiyoda, Tokyo 102-0075, Japan
+
+Megumi Tomita
+
+National Institute for Materials Science, Tsukuba, Ibaraki 305-0003, Japan
+
+Hiroyuki S. Suzuki
+
+National Institute for Materials Science, Tsukuba, Ibaraki 305-0003, Japan
+
+Takehiko Matsumoto
+
+National Institute for Materials Science, Tsukuba, Ibaraki 305-0003, Japan
+
+Keizo Murata
+
+Institute for Solid State Physics, The University of Tokyo, Kashiwanoha, Kashiwa, Chiba 277-8581, Japan
+
+Shinya Uji
+
+National Institute for Materials Science, Tsukuba, Ibaraki 305-0003, Japan JST, Transformative Research-Project on Iron Pnictides (TRIP), Chiyoda, Tokyo 102-0075, Japan Institute for Solid State Physics, The University of Tokyo, Kashiwanoha, Kashiwa, Chiba 277-8581, Japan
+
+Taichi Terashima
+
+National Institute for Materials Science, Tsukuba, Ibaraki 305-0003, Japan JST, Transformative Research-Project on Iron Pnictides (TRIP), Chiyoda, Tokyo 102-0075, Japan Institute for Solid State Physics, The University of Tokyo, Kashiwanoha, Kashiwa, Chiba 277-8581, Japan
+
+###### Abstract
+
+Resistivity and Hall effect measurements of EuFe_{2}As_{2} up to 3.2 GPa indicate no divergence of quasiparticle effective mass at the pressure P_{\rm c} where the magnetic and structural transition disappears. This is corroborated by analysis of the temperature (T) dependence of the upper critical field. T-linear resistivity is observed at pressures slightly above P_{\rm c}. The scattering rates for both electrons and holes are shown to be approximately T-linear. When a field is applied, a T^{2} dependence is recovered, indicating that the origin of the T-linear dependence is spin fluctuations.
+
+pacs: 10.1103/PhysRevB.88.224510 +
+Footnote †: preprint: PHYSICAL REVIEW B **88**, 224510 (2013)
+
+## I Introduction
+
+Since the discovery of superconductivity in LaFeAs(O, F) at T_{\rm c}=26 K,[1] considerable attention has been paid to iron-based superconductors (SCs) with a variety of crystal structures containing stacked iron-pnictide (or -chalcogenide) layers.[2] The maximum values of T_{\rm c} thus far achieved are 54-56 K (Refs. [3, 4, 5]) and 39 K (Ref. [6]) in the "1111" (_R_FeAsO; R = rare earth) and "122" (AFe_{2}As_{2}; A = alkaline earth or Eu) groups, respectively. Despite intensive research, the detailed mechanism of the superconductivity, for example, the symmetry of the SC order parameter, remains highly controversial.[7, 8, 9, 10, 11, 12] It has been revealed that iron-based SCs have a unique Fermi surface (FS) structure, typically consisting of two- or three-hole and two-electron sheets.[13, 14] The 1111 and 122 parent compounds undergo FS reconstruction associated with an antiferromagnetic (AF) order of Fe moments at T_{0}.[2] With the suppression of T_{0} via dopings[1, 6] or the application of pressure (P),[15] the superconducting (SC) ground state can be triggered. Hence magnetic instability may play an important role in iron-based SCs.
+
+One of the intriguing issues of iron-based SCs is the origin of non-Fermi-liquid (NFL) behavior in their transport properties, such as T-linear resistivity,[16, 17] which emerges as T_{0} is suppressed. The existence of a quantum critical point (QCP), where the second-order transition temperature becomes zero, in iron-based SCs has theoretically been proposed[18] and has been demonstrated by the observation of a peak in the penetration depth, which is proportional to (n/m^{*})^{-1/2}, at the optimal doping in the BaFe_{2}(As,P)_{2} system,[19] for example (n and m^{*} are the carrier number and quasiparticle effective mass, respectively).
+
+However, the existence of a QCP does not appear to be universal in iron-based SCs nor is its relevance to the superconductivity clear, as suggested by phase diagrams of La-based 1111 systems,[20, 21] or the composition x dependencies of the penetration depth and Drude weight of optical conductivity, both of which are related to n/m^{*}, in the Ba(Fe_{1-x}Co_{x})_{2}As_{2} system,[22, 23] for example. In addition, it has been argued that the interpretation of the NFL-like behavior may not be straightforward owing to the multiband character of iron-based systems.[24, 25]
+
+Pressure tuning of the electronic structures in stoichiometric compounds is a better means of studying a QCP than tuning by chemical substitution, which might obscure a QCP by the inevitably introduced randomness. We therefore study EuFe_{2}As_{2} under applied pressure (see Fig. 1). The transition temperature T_{0} is about 190 K at ambient pressure, and the critical pressure P_{\rm c}, where indications of the transition at T_{0} disappear and bulk superconductivity appears, is 2.5-2.7 GPa.[26, 27, 28, 29, 30] This sudden disappearance of T_{0} is incompatible with a QCP. Although the Eu^{2+} moments exhibit an AF order at T_{\rm N}\sim 20 K, the ferromagnetic (FM) alignment can be achieved at only a few teslas[31, 32, 33] and the spin disorder scattering can be minimized.[34] Because of the large exchange field from the Eu^{2+} moments to the conduction electron spins, the upper critical field B_{\rm c2} for the P-induced superconductivity is much smaller[27, 35] than that for other iron-based SCs with similar T_{\rm c}.[36, 37, 38] These unique characteristics of EuFe_{2}As_{2}, thus, provide a significant opportunity to experimentally investigate the iron-based superconductivity with high T_{\rm c} of 30 K. Our measurements of transport properties and upper critical fields up to 3.2 GPa reported below show no evidence of diverging quasiparticle effective mass at P_{\rm c}, indicating that the emergence of P-induced superconductivity in this clean system does not involve a QCP. However, it does not curtail the importance of spin fluctuations: we observe T-linear resistivity at pressures near P_{\rm c} and find that the Fermi liquid T^{2} dependence can be recovered by the application of a magnetic field.
+
+## II Experimental details
+
+Single crystals of EuFe_{2}As_{2} were grown by the Bridgman method from a stoichiometric mixture of the constituent elements. Resistivity and Hall effect were measured simultaneously by a conventional six-contact method with an ac current  for I\parallel ab and B\parallel c. For the magnetotransport measurements, we used thin platelike samples (\sim1 \times 0.4 \times 0.03 mm^{3}) with residual resistivity ratio RRR = 13 (P_{\rm c} = 2.7 GPa [28]). On the other hand, samples with RRR = 7 (P_{\rm c} = 2.5 GPa, Ref. [29]) were used to analyze the P dependence of B_{\rm c2}. As shown in Fig. 1, the P evolutions of T_{0}, T_{\rm N}, and T_{\rm c} for the two samples with different quality can be scaled by their P_{\rm c} values. High pressure experiments up to 3.2 GPa were performed down to 1.6 K in a ^{4}He cryostat equipped with a 17 T SC magnet using a clamped piston cylinder pressure device. [39] Daphne 7474 (Idemitsu Kosan), which remains liquid up to 3.7 GPa at room temperature, [40] was used as a pressure-transmitting medium. The applied pressure was determined at 4.2 K from the change in resistance of a calibrated Manganin wire. [27] As in our previous works, [27, 35]B denotes the externally applied field, and the magnetization within a sample (up to \sim0.9 T, Ref. [34]) is neglected.
+
+## III Results and discussions
+
+First, we discuss how electron and hole carriers evolve as a function of P via multicarrier analysis. Figure 2(a) shows the low-T data of transverse magnetoresistivity \rho(B) and Hall resistivity \rho_{\rm H}(B) in EuFe_{2}As_{2} (RRR = 13) at ambient pressure. The \rho(B) curves show a minimum (e.g., \sim2 T at 2 K), which is attributable to the B-induced FM alignment of the Eu^{2+} moments. [31, 32, 33] At high fields, \rho(B) shows positive magnetoresistance (MR), as expected from the cyclotron motion of electrons. \rho_{\rm H}(B) exhibits pronounced nonlinear behavior at low temperatures. [34] The field-induced transition of the Eu^{2+} moments is not detectable in the \rho_{\rm H}(B) curves, indicating negligible effect of the Eu^{2+} moments on the number of carriers. At pressures sufficiently below P_{\rm c}, the \rho_{\rm H}(B) and \rho(B) curves are qualitatively similar to those at ambient pressure except that the curvature in \rho_{\rm H}(B) and the magnitude of MR in \rho_{\rm H}(B) decreases with increasing P [Fig. 2(b)]. In the vicinity of P_{\rm c}, SC transitions due to the partial [Fig. 2(c)] or bulk superconductivity appears. In the high-field normal state, \rho(B) and \rho_{\rm H}(B) still slightly exhibit a positive MR and nonlinear behavior, respectively. As P is increased to above P_{\rm c}, \rho_{\rm H} exhibits nearly B-linear dependence [Fig. 2(d)], whereas \rho indicates negative MR due to the suppression of spin fluctuations of the Fe ions, [34] except in the low-T and high-B regions where the cyclotron motion dominates.
+
+Figure 3 shows the T dependence of the Hall coefficient R_{\rm H}, as defined by {\rm d}\rho_{\rm H}/{\rm d}B at B=0, under several pressures. [41] The enhancement of |R_{\rm H}(T)| below T_{0} for P<P_{\rm c} indicates the destruction of substantial parts of the FS. [34] For P>P_{\rm c} (inset), |R_{\rm H}(T)| still increases below \sim80 K. Similar enhancement of |R_{\rm H}(T)| has been observed in the paramagnetic phase of BaFe_{2}(As,P)_{2}, and it has been argued that the behavior cannot be explained by a multiband picture for a Fermi liquid. [42] However, in the present case, |R_{\rm H}| at 2.8 GPa is 2 \times 10^{-9} m^{3}/C
+
+Figure 2: (Color online) Low-temperature data of \rho(B) and \rho_{\rm H}(B) in EuFe_{2}As_{2} (RRR = 13) at (a) P = 0, (b) 1.6, (c) 2.6, and (d) 3.2 GPa. Solid curves are fits to a multicarrier model.
+
+Figure 1: (Color online) P-T phase diagram in EuFe_{2}As_{2} with RRR = 13 (circles, bottom axis) and 7^{29} (triangles, top axis), deduced from the resistivity measurements up to 3.2 GPa under zero field. The pressure is scaled with the critical value P_{\rm c}. PM, AFM, and SC indicate the paramagnetic, antiferromagnetic, and superconducting states, respectively. For the SC phase, open and solid symbols indicate T_{\rm c}^{\rm on} (onset) and T_{\rm c}^{\rm on=0} (zero resistivity), respectively. T_{\rm c}^{B=15}T determined at B=15 T is also shown. Dashed curves are a guide to the eyes.
+
+  (T\sim T_{\rm c}), which corresponds to \approx0.16 electron/Fe (e/Fe) in a single-carrier model. This value is comparable to the band-calculation value for BaFe_{2}As_{2} (0.15 e/Fe), and hence can be accounted for within a simple two-carrier picture.
+
+EuFe_{2}As_{2} is a compensated metal with an equal number of electrons and holes, for which a simple two-carrier model predicts a linear \rho_{\rm H}. The nonlinearity in \rho_{\rm H}(B) below P_{\rm c} thus indicates that more than two carriers contribute to the electronic transport. In the case of the sister compound BaFe_{2}As_{2}, a Shubnikov-de Haas oscillation study has shown that the Fermi surface in the AF phase consists of one hole and two electron pockets.[43] In keeping with this, a three-carrier model can account for the nonlinear behavior of \rho_{\rm H}(B) as well as the \rho(B) data for BaFe_{2}As_{2}.[44]
+
+We therefore apply essentially the same three-carrier analysis to the obtained \rho_{\rm H}(B) and \rho(B) data for EuFe_{2}As_{2} at P\leqslant P_{\rm c}, assuming one hole (H) and two electrons (E1 and E2) with density n_{i} and mobility \mu_{i}. We impose a constraint n_{\rm H}=n_{\rm E1}+n_{\rm E2}, owing to the carrier compensation, which is held under applied pressures. To avoid the effect of the Eu^{2+} moments or superconductivity, high-field data are used for the analysis. The solid curves in Fig. 2(a) indicate the fits, which capture the overall features of the experimental results. The fitting gives (n_{\rm H}, n_{\rm E1}, n_{\rm E2}; \mu_{\rm H}, \mu_{\rm E1}, \mu_{\rm E2}) = (6.6, 5.6, 0.92 [10^{-2} e/Fe]; 0.57, 0.57, 1.5 [10^{3} cm^{2}/V s]) for T=2 K. The fitting errors are approximately 3% for H and E1, and 20% for E2. The parameter sets obtained at 20 and 30 K are comparable to those at 2 K. One can find the tendency that n_{\rm H}\approx n_{\rm E1}\gg n_{\rm E2} and \mu_{\rm H}\approx\mu_{\rm E1}\ll\mu_{\rm E2}, similar to the case of BaFe_{2}As_{2}.[44] The magnitudes of the parameter sets, particularly \mu_{i}, for EuFe_{2}As_{2} (RRR=13) are comparable to those for as-grown samples of BaFe_{2}As_{2}.[44] For other pressures, a similar quality of fitting can be obtained.
+
+At P>P_{\rm c}, we assume one electron carrier (E) and one hole carrier (H) with n_{\rm H}=n_{\rm E}. In the analysis, the slope of \rho_{\rm H}(B) and the \rho value at B=0 are used. To determine the parameter sets (n_{\rm H},n_{\rm E}; \mu_{\rm H}, \mu_{\rm E}) uniquely, we fix n_{\rm H}=n_{\rm E}=7.5\times 10^{-2} e/Fe. A band-structure calculation suggests that the carrier density for BaFe_{2}As_{2} is 0.15 e/Fe.[24] However, the shrinking of the FS has been observed in BaFe_{2}(As, P_{2}[45] and has been theoretically attributed to strong interband scattering.[46] The volume of the FS is approximately halved as the optimal doping is approached in BaFe_{2}(As,P)_{2}.[45] We therefore use the halved value.
+
+Figure 4 displays the P evolutions of n_{i}, |\mu_{i}|, and conductivity \sigma_{i}. As the pressure approaches P_{\rm c}, n_{i} increases, while |\mu_{i}| decreases. It appears that n_{i} and |\mu_{i}| develop reasonably continuously to their values at P>P_{\rm c}. Neither of the P dependencies of \mu_{i} (=e\tau_{i}/m_{i}^{*}) or \sigma (=e^{2}\tau_{i}n_{i}/m_{i}^{*}) suggests the divergence of m^{*} or (n/m^{*})^{-1} at P_{\rm c}.
+
+We further substantiate the absence of a QCD by deriving the P dependence of the effective masses from B_{\rm c2}-T_{\rm c} phase diagrams under applied pressures. Figures 5(a) and 5(b) show \rho vs T at 2.6 and 3.0 GPa, respectively, in the RRR=7 sample under several B for B\parallel ab. T_{\rm c} under each magnetic field is determined by the midpoint temperature of the SC transitions. Figure 5(c) shows the thus determined upper critical field B_{\rm c2} as a function of temperature for several pressures. It appears that B_{\rm c2}(0) is highest at P\sim P_{\rm c} and decreases with
+
+Figure 4: (Color online) Pressure evolution of the carrier density n_{i}, mobility \mu_{i}, and conductivity \sigma_{i}, deduced from multicarrier analysis. Solid and open symbols correspond to the results obtained at \leqslant10 and 20 K, respectively. One hole (H) and two types of electrons (E1 and E2) are considered for P\leqslant P_{\rm c} (=2.7 GPa), whereas a simple two-band model with n_{\rm H}=n_{\rm E}=7.5\times 10^{-2} electrons/Fe (e/Fe) is assumed for P>P_{\rm c}.
+
+Figure 3: (Color online) T dependence of the Hall coefficient R_{\rm H} (=\rho_{xy}/d\,B|_{B\to 0}) at several pressures. The inset shows an expanded view of R_{\rm H}(T) in the low-T region at high pressures.
+
+  increasing P. In EuFe_{2}As_{2}, orbital and Pauli paramagnetic effects and magnetic Eu^{2+} moments all play an important role in determining B_{\rm c2}, which complicates the understanding of the obtained B_{\rm c2} vs T_{\rm c}. In a previous paper, we analyzed B_{\rm c2}(T) data obtained at 2.5 GPa [also shown in Fig. 5(c)] using a multiple pair-breaking model [47, 48] that includes the antiferromagnetic exchange field B_{J} due to magnetic Eu^{2+} moments. We obtained the spin-orbit scattering parameter \lambda_{\rm so}=2.4, and the maximum of B_{J}| as B_{J}^{n}=75 T, where the Maki parameter \alpha=3 is fixed. [35] It is known that m^{*} is related to \alpha through m^{*}\propto\sqrt{\alpha/T_{\rm c}} or \propto\alpha/\rho_{0} (\rho_{0}: residual resistivity) in the clean or dirty limit, respectively. Thus we estimate \alpha as a function of P using the same model. As \alpha is highly sensitive to other fitting parameters, we use the values of \lambda_{\rm so}=2.4 and B_{J}^{n}=75 T for all the pressures. Dashed curves are fitting results using \alpha and T_{\rm c} as free parameters. The inset of Fig. 5(c) shows the P dependencies of \alpha/T_{\rm c} and \alpha/\rho_{0}. The former exhibits only a modest increase, whereas the latter exhibits a decrease as P_{\rm c} is approached. This indicates that, either in the clean or dirty limit, there is no divergence of m^{*} as the pressure approaches P_{\rm c}.
+
+We now address the issue of the NFL behavior. Figure 6(a) shows the T dependence of \rho under zero field in EuFe_{2}As_{2} (RRR=13) at several pressures. Solid curves are fits to \rho=\rho_{0}+CT^{*} (C is a constant). To avoid the effect of Eu^{2+} moments or superconductivity, we use data in a fitting range from 35 K (fixed) to several temperatures between 50 K and T_{0}. Figure 6(b) indicates the P evolution of the exponent x. At P\ll P_{\rm c}, Fermi liquid (FL) like behavior (x\sim 2) is observed. As the pressure approaches P_{\rm c}, x decreases rapidly and reaches approximately unity.
+
+It has previously been proposed that the T-linear resistivity in iron-based SCs arises from the T-dependent carrier concentration and that the carrier scattering rate \tau^{-1} obeys a standard FL T^{2} law. [24, 25] We therefore show the T dependence of (m^{*}/m_{0})/\tau_{\rm f}=(e/m_{0})\mu_{i}^{-1} at 2.9, 3.1, and 3.2 GPa (>P_{\rm c}) obtained from the above two-carrier analyses in Fig. 7. The figures indicate that the scattering rates for both electrons and holes are nearly proportional to T in a remarkably wide T range. Although we have assumed
+
+Figure 6: (Color online) (a) \rho vs T under zero field at several pressures. The data are arbitrarily shifted in the longitudinal direction for clarity. Solid curves are fits to \rho=\rho_{0}+CT^{*}. (b) P evolution of the exponent x under zero field. Solid symbols are obtained from fits in the T range between 35 and 60 K. Error bars are estimated from fits in several T ranges from 35 K (>T_{\rm N},T_{\rm c}) to temperatures between 50 K and T_{0}.
+
+Figure 5: (Color online) \rho vs T of EuFe_{2}As_{2} (RRR=7, P_{\rm c}=2.5 GPa), under several B for B\parallel ab at (a) P=2.6 and (b) 3.0 GPa. (c) P dependence of B_{\rm c2}^{0\%} vs T_{\rm c} of EuFe_{2}As_{2} for B\parallel ab. Dashed curves are fits to the multiple pair-breaking formula (see text). Open symbols indicate the published data obtained from high-field resistivity measurements at 2.5 GPa up to 27 T. [35] The inset shows \alpha/T_{\rm c} and \alpha/\rho_{0} as functions of P.
+
+  n_{\rm H}=n_{\rm E}=7.5\times 10^{-2} e/Fe in estimating \mu_{i} as noted above, any carrier number in the range between 0.05 and 0.1 e/Fe gives a similar approximately T-linear dependence of \mu_{i}.
+
+Figure 8 shows \rho(T) at 2.9 GPa (\simP_{\rm c}) under several fields of up to 15 T. The FL T^{2} behavior is gradually restored with increasing B. To estimate the T variation of the exponent x under applied fields, we fit the data to \rho=\rho_{0}+CT^{x} in several temperature ranges. The inset of Fig. 8 shows the T variation of x under 0, 8, and 15 T. Under zero field, the x value is close to one. Under applied fields of 8 and 15 T, with decreasing T, the x value increases from \sim1 and approaches \sim2. This clearly indicates that the origin of the T-linear resistivity is spin fluctuations. As is well known, spin fluctuation theories predict T-linear resistivity for two-dimensional nearly AF metals.[49] To our knowledge, there has been no observation of a B-induced change in the resistivity exponent from 1 to 2 in iron-based SCs. The present observation is most likely to result from the fact that the conduction carrier spins are influenced by the large exchange field from the Eu^{2+} moments, in addition to the externally applied field. That is, as soon as the Eu^{2+} moments are fully aligned by the applied field, the conduction electrons feel a large exchange field of -B_{J}^{m}=-75 T, which effectively suppresses the spin fluctuations.
+
+## IV Conclusions
+
+To conclude, our analyses of magnetotransport and upper critical fields in EuFe_{2}As_{2} under high pressure indicate that there is no QCP at P_{\rm c} in this pure compound, which is in sharp contrast to the observation in BaFe_{2}(As,P)_{2}.[19, 50] On the other hand, we have shown that the scattering rates for both electrons and holes are approximately T-linear for P>P_{\rm c}. The recovery of the FL T^{2} dependence of \rho at high fields clearly indicates that spin fluctuations are the origin of the anomalous scattering. It appears that systematic analyses of spin (and/or orbital) fluctuations based on the electronic structures of individual materials, beyond a generic scenario based on a QCP, are necessary to elucidate the mechanism of iron-based superconductivity.
+
+## Acknowledgment
+
+We would like to thank H. Eisaki, S. Ishida, and H. Harima for fruitful discussions. This work was partially supported by a Grant-in-Aid for Young Scientists (No. 23740279) from the Ministry of Education, Culture, Sports, Science and Technology, Japan.
+
+## Appendix
+
+The procedure for the three carrier analysis used in simultaneously fitting the obtained \rho and \rho_{\rm H} data of EuFe_{2}As_{2} is shown below. This procedure is essentially the same as that used in the recent work on the sister compound BaFe_{2}As_{2}.[44]
+
+Tensor components of the electrical conductivity, \sigma_{xx} (=\sigma_{yy}) and \sigma_{xy} (=-\sigma_{yx}), for three carriers can be expressed in the following forms using those of the electrical resistivity, \rho_{xx} (=\rho_{yy}=\rho) and \rho_{xy} (=-\rho_{yx} = \rho_{\rm H}):
+
+\[\begin{split}\sigma_{xx}&=\frac{\rho_{xx}}{\rho_{ xx}^{2}+\rho_{xy}^{2}}=\sum_{i=1}^{3}\frac{q_{i}n_{i}\mu_{i}}{1+(\mu_{i}B)^{2}},\\ \sigma_{xy}&=\frac{\rho_{xy}}{\rho_{xx}^{2}+\rho_{xy }^{2}}=\sum_{i=1}^{3}\frac{q_{i}n_{i}\mu_{i}^{2}B}{1+(\mu_{i}B)^{2}},\end{split}\] (10)
+
+where q_{i}, n_{i}, and \mu_{i} are the charge, density, and mobility of the ith carrier, respectively, and the tensors of the electrical conductivity \sigma and resistivity \rho have the forms
+
+\[\begin{split}\sigma=\begin{pmatrix}\sigma_{xx}&\sigma_{xy}\\ -\sigma_{xy}&\sigma_{xx}\end{pmatrix},\quad\rho=\begin{pmatrix}\rho_{xx}&\rho_ {xy}\\ -\rho_{xy}&\rho_{xx}\end{pmatrix}.\end{split}\] (11)
+
+From Eq. (1), \rho_{xx} and \rho_{xy} can be written as follows:
+
+\[\begin{split}\rho_{xx}&=\frac{\sum_{i=1}^{3}\frac{q_{i}n_{i} \mu_{i}}{1+(\mu_{i}B)^{2}}}{\sum_{i=1}^{3}\frac{q_{i}n_{i}\mu_{i}}{1+(\mu_{i}B) ^{2}}+\sum_{i=1}^{3}\frac{q_{i}n_{i}\mu_{i}^{2}B}{1+(\mu_{i}B)^{2}}},\\ \rho_{xy}&=\frac{\sum_{i=1}^{3}\frac{q_{i}n_{i}\mu_{i}^{2}B}{1+(\mu_{i}B) ^{2}}}{\sum_{i=1}^{3}\frac{q_{i}n_{i}\mu_{i}^{2}B}{1+(\mu_{i}B)^{2}}+\sum_{i=1} ^{3}\frac{q_{i}n_{i}\mu_{i}^{2}B}{1+(\mu_{i}B)^{2}}}.\end{split}\] (12)
+
+Figure 8: (Color online) \rho(T) at 2.9 GPa under 0, 3, 8, and 15 T. The inset shows the T dependence of x under several fields.
+
+  * [1] Present address: Department of Physics, Tokyo Institute of Technology, Meguro-ku, Tokyo 152-8551, Japan.
+* [2] Y. Kamihara, T. Watanabe, M. Hirano, and H. Hosono, J. Am. Chem. Soc. **130**, 3296 (2008).
+* [3] For recent reviews, see D. C. Johnston, Adv. Phys. **59**, 803 (2010); G. R. Stewart, Rev. Mod. Phys. **83**, 1589 (2011).
+* [4] H. Kito, H. Eisaki, and A. Iyo, J. Phys. Soc. Jpn. **77**, 063707 (2008).
+* [5] Z.-A. Ren, W. Lu, J. Yang, W. Yi, X.-L. Shen, Z.-C. Li, G.-C. Che, X.-L. Dong, L.-L. Sun, F. Zhou, and Z.-X. Zhou, Chin. Phys. Lett. **25**, 2215 (2008).
+* [6] C. Wang, L. Li, S. Chi, Z. Zhu, Z. Ren, Y. Li, Y. Wang, X. Lin, Y. Luo, S. Jiang, X. Xu, G. Cao, and Z. Xu, Europhys. Lett. **83**, 67006 (2008).
+* [7] M. Rotter, M. Tegel, and D. Johrendt, Phys. Rev. Lett. **101**, 107006 (2008).
+* [8] I. I. Mazin, D. J. Singh, M. D. Johannes, and M. H. Du, Phys. Rev. Lett. **101**, 057003 (2008).
+* [9] K. Kuroki, H. Usui, S. Onari, R. Arita, and H. Aoki, Phys. Rev. B **79**, 224511 (2009).
+* [10] Y. Nakai, K. Ishida, Y. Kamihara, M. Hirano, and H. Hosono, J. Phys. Soc. Jpn. **77**, 073701 (2008).
+* [11] K. Hashimoto, M. Yamashita, S. Kasahara, Y. Senshu, N. Nakata, S. Tonegawa, K. Ikada, A. Serafin, A. Carrington, T. Terashima, H. Ikeda, T. Shibauchi, and Y. Matsuda, Phys. Rev. B **81**, 220501(R) (2010).
+* [12] H. Kontani and S. Onari, Phys. Rev. Lett. **104**, 157001 (2010).
+* [13] M. Sato, Y. Kobayashi, S. C. Lee, H. Takahashi, E. Satomi, and Y. Miura, J. Phys. Soc. Jpn. **79**, 014710 (2010).
+* [14] D. J. Singh and M.-H. Du, Phys. Rev. Lett. **100**, 237003 (2008).
+* [15] H. Ding, P. Richard, K. Nakayama, K. Sugawara, T. Arakane, Y. Sekiba, A. Takayama, S. Souma, T. Sato, T. Takahashi, Z. Wang, X. Dai, Z. Fang, G. F. Chen, J. L. Luo, and N. L. Wang, Eur. Phys. Lett. **83**, 47001 (2008).
+* [16] P. L. Alireza, J. Gillett, Y. T. Chris Ko, S. E. Sebastian, and G. G. Lonzarich, J. Phys.: Condens. Matter **21**, 012208 (2009).
+* [17] R. H. Liu, G. Wu, T. Wu, D. F. Fang, H. Chen, S. Y. Li, K. Liu, Y. L. Xie, X. F. Wang, R. L. Yang, L. Ding, C. He, D. L. Feng, and X. H. Chen, Phys. Rev. Lett. **101**, 087001 (2008).
+* [18] M. Gooch, B. Lv, B. Lorenz, A. M. Guloy, and C.-W. Chu, Phys. Rev. B **79**, 104504 (2009).
+* [19] J. Dai, Q. Si, J. -X. Zhu, and E. Abrahams, Proc. Natl. Acad. Sci. USA, **106**, 4118 (2009).
+* [20] K. Hashimoto, K. Cho, T. Shibauchi, S. Kasahara, Y. Mizukami, R. Katsumata, Y. Tearahara, T. Terashima, H. Ikeda, M. A. Tanatar, H. Kitano, N. Salovich, R. W. Giannetta, P. Walmsley, A. Carrington, R. Prozorov, and Y. Matsuda, Science **336**, 1554 (2012).
+* [21] H. Luetkens, H.-H. Klauss, M. Kraken, F. J. Litterst, T. Dellmann, R. Klingeler, C. Hess, R. Khasanov, A. Amato, C. Baines, M. Kosmala, O. J. Schumann, M. Braden, J. Hamann-Borrero, N. Leps, A. Kondrat, G. Behr, J. Werner, and B. Buchner, Nat. Mater. **8**, 305 (2009).
+* [22] S. Iimura, S. Matuishi, H. Sato, T. Hanna, Y. Muraba, S. W. Kim, J. E. Kim, M. Takata, and H. Hosono, Nat. Commun. **3**, 943 (2012).
+* [23] M. Nakajima, S. Ishida, K. Kihou, Y. Tomioka, T. Ito, Y. Yoshida, C. H. Lee, H. Kito, A. Iyo, H. Eisaki, K. M. Kojima, and S. Uchida, Phys. Rev. B **81**, 104528 (2010).
+* [24] R. T. Gordon, H. Kim, N. Salovich, R. W. Giannetta, R. M. Fernandes, V. G. Kogan, T. Prozorov, S. L. Bud'ko, P. C. Canfield, M. A. Tanatar, and R. Prozorov, Phys. Rev. B **82**, 054507 (2010).
+* [25] L. Fang, H. Luo, P. Cheng, Z. Wang, Y. Jia, G. Mu, B. Shen, I. I. Mazin, L. Shan, C. Ren, and H.-H. Wen, Phys. Rev. B **80**, 140508(R) (2009).
+* [26] F. Rullier-Albenque, D. Colson, A. Forget, and H. Alloul, Phys. Rev. Lett. **103**, 057001 (2009).
+* [27] C. F. Miclea, M. Nicklas, H. S. Jeevan, D. Kasinathan, Z. Hossain, H. Rosner, P. Gegenwart, C. Geibel, and F. Steglich, Phys. Rev. B **79**, 212509 (2009).
+* [28] T. Terashima, M. Kimata, H. Satsukawa, A. Harada, K. Hazama, S. Uji, H. S. Suzuki, T. Matsumoto, and K. Murata, J. Phys. Soc. Jpn. **78**, 083701 (2009); **78**, 118001 (2009).
+* [29] N. Kurita, M. Kimata, K. Kodama, A. Harada, M. Tomita, H. S. Suzuki, T. Matsumoto, K. Murata, S. Uji, and T. Terashima, J. Phys.: Conf. Ser. **273**, 012098 (2011).
+* [30] N. Kurita, M. Kimata, K. Kodama, A. Harada, M. Tomita, H. S. Suzuki, T. Matsumoto, K. Murata, S. Uji, and T. Terashima, Phys. Rev. B **83**, 214513 (2011).
+* [31] K. Matsubayashi, K. Munakata, M. Isobe, N. Katayama, K. Ohgushi,Y. Ueda, Y. Uwatoko, N. Kawamura, M. Mizumaki, N. Ishimatsu, M. Hedo, and I. Umehara, Phys. Rev. B **84**, 024502 (2011).
+* [32] S. Jiang, Y. Luo, Z. Ren, Z. Zhu, C. Wang, X. Xu, Q. Tao, G. Cao, and Z. Xu, New J. Phys. **11**, 025007 (2009).
+* [33] Y. Xiao, Y. Su, M. Meven, R. Mittal, C. M. N. Kumar, T. Chatterji, S. Price, J. Persson, N. Kumar, S. K. Dhar, A. Thamizhavel, and Th. Brueckel, Phys. Rev. B **80**, 174424 (2009).
+* [34] Y. Xiao, Y. Su, W. Schmidt, K. Schmalzl, C. M. N. Kumar, S. Price, T. Chatterji, R. Mittal, L. J. Chang, S. Nandi, N. Kumar, S. K. Dhar, A. Thamizhavel, and Th. Brueckel, Phys. Rev. B **81**, 220406(R) (2010).
+* [35] T. Terashima, N. Kurita, A. Kikkawa, H. S. Suzuki, T. Matsumoto, K. Murata, and S. Uji, J. Phys. Soc. Jpn. **79**, 103706 (2010).
+* [36] N. Kurita, M. Kimata, K. Kodama, A. Harada, M. Tomita, H. S. Suzuki, T. Matsumoto, K. Murata, S. Uji, and T. Terashima, Phys. Rev. B **83**, 100501(R) (2011).
+* [37] F. Hunte, J. Jaroszynski, A. Gurevich, D. C. Larbalestier, R. Jin, A. S. Sefat, M. A. McGuire, B. C. Sales, D. K. Christen, and D. Mandrus, Nature (London) **453**, 903 (2008).
+* [38] H. Q. Yuan, J. Singleton, F. F. Balakirev, S. A. Baily, G. F. Chen, J. L. Luo, and N. L. Wang, Nature (London) **457**, 565 (2009).
+* [39] H. Kotegawa, H. Sugawara, and H. Tou, J. Phys. Soc. Jpn. **78**, 013709 (2009).
+* [40] Y. Uwatoko, M. Hedo, N. Kurita, M. Koeda, M. Abliz, and T. Matsumoto Physica C **329-333**, 1658 (2003).
+* [41] K. Murata, K. Yokogawa, H. Yoshino, S. Klotz, P. Munsch, A. Irizawa, M. Nishiyama, K. Iizuka, T. Nanba, T. Okada, Y. Shiraga, and S. Aoyama, Rev. Sci. Instrum. **79**, 085101 (2008).
+* [42]R_{\rm H}(T) estimated at different B shows qualitatively similar behavior.
+* [43] S. Kasahara, T. Shibauchi, K. Hashimoto, K. Ikada, S. Tonegawa, R. Okazaki, H. Shishido, H. Ikeda, H. Takeya, K. Hirata, T. Terashima, and Y. Matsuda, Phys. Rev. B **81**, 184519 (2010).
+* [44] T. Terashima, N. Kurita, M. Tomita, K. Kihou, C.-H. Lee, Y. Tomioka, T. Ito, A. Iyo, H. Eisaki, T. Liang, M. Nakajima, S. Ishida, S.-i. Uchida, H. Harima, and S. Uji, Phys. Rev. Lett. **107**, 176402 (2011).
+
+  * [45] S. Ishida, T. Liang, M. Nakajima, K. Kihou, C. H. Lee, A. Iyo, H. Eisaki, T. Kakeshita, T. Kida, M. Hagiwara, Y. Tomioka, T. Ito, and S. Uchida, Phys. Rev. B **84**, 184514 (2011).
+* [46] H. Shishido, A. F. Bangura, A. I. Coldea, S. Tonegawa, K. Hashimoto, S. Kasahara, P. M. C. Rourke, H. Ikeda, T. Terashima, R. Settai, Y. Onuki, D. Vignolles, C. Proust, B. Vignolle, A. McCollam, Y. Matsuda, T. Shibauchi, and A. Carrington, Phys. Rev. Lett. **104**, 057008 (2010).
+* [47] L. Ortenzi, E. Cappelluti, L. Benfatto, and L. Pietronero, Phys. Rev. Lett. **103**, 046404 (2009).
+* [48] N. R. Werthamer, E. Helfand, and P. C. Hohenberg, Phys. Rev. **147**, 295 (1966).
+* [49] G. Fischer, Helv. Phys. Acta **45**, 331 (1972).
+* [50] T. Moriya, Y. Takahashi, and K. Ueda, J. Phys. Soc. Jpn. **59**, 2905 (1990).
+* [51] P. Walmsley, C. Putzke, L. Malone, I. Guillamon, D. Vignolles, C. Proust, S. Badoux, A. I. Coldea, M. D. Watson, S. Kasahara, Y. Mizukami, T. Shibauchi, Y. Matsuda, and A. Carrington, Phys. Rev. Lett. **110**, 257002 (2013).
+
+ Pressure-induced superconductivity in EuFe_{2}As_{2} without a quantum critical point: Magnetotransport and upper critical field measurements under high pressure
+
+Nobuyuki Kurita
+
+1National Institute for Materials Science, Tsukuba, Ibaraki 305-0003, Japan JST, Transformative Research-Project on Iron Pnictides (TRIP), Chiyoda, Tokyo 102-0075, Japan Institute for Solid State Physics, The University of Tokyo, Kashiwanoha, Kashiwa, Chiba 277-8581, Japan
+
+Motoi Kimata
+
+Kota Kodama
+
+Graduate School of Pure and Applied Sciences, University of Tsukuba, Ibaraki 305-0003, Japan Department of Physics, Graduate School of Science, Osaka City University, Osaka 558-8585, Japan
+
+Atsushi Harada
+
+National Institute for Materials Science, Tsukuba, Ibaraki 305-0003, Japan JST, Transformative Research-Project on Iron Pnictides (TRIP), Chiyoda, Tokyo 102-0075, Japan
+
+Megumi Tomita
+
+National Institute for Materials Science, Tsukuba, Ibaraki 305-0003, Japan
+
+Hiroyuki S. Suzuki
+
+National Institute for Materials Science, Tsukuba, Ibaraki 305-0003, Japan
+
+Takehiko Matsumoto
+
+National Institute for Materials Science, Tsukuba, Ibaraki 305-0003, Japan
+
+Keizo Murata
+
+Institute for Solid State Physics, The University of Tokyo, Kashiwanoha, Kashiwa, Chiba 277-8581, Japan
+
+Shinya Uji
+
+National Institute for Materials Science, Tsukuba, Ibaraki 305-0003, Japan JST, Transformative Research-Project on Iron Pnictides (TRIP), Chiyoda, Tokyo 102-0075, Japan Institute for Solid State Physics, The University of Tokyo, Kashiwanoha, Kashiwa, Chiba 277-8581, Japan
+
+Taichi Terashima
+
+National Institute for Materials Science, Tsukuba, Ibaraki 305-0003, Japan JST, Transformative Research-Project on Iron Pnictides (TRIP), Chiyoda, Tokyo 102-0075, Japan Institute for Solid State Physics, The University of Tokyo, Kashiwanoha, Kashiwa, Chiba 277-8581, Japan
+
+###### Abstract
+
+Resistivity and Hall effect measurements of EuFe_{2}As_{2} up to 3.2 GPa indicate no divergence of quasiparticle effective mass at the pressure P_{\rm c} where the magnetic and structural transition disappears. This is corroborated by analysis of the temperature (T) dependence of the upper critical field. T-linear resistivity is observed at pressures slightly above P_{\rm c}. The scattering rates for both electrons and holes are shown to be approximately T-linear. When a field is applied, a T^{2} dependence is recovered, indicating that the origin of the T-linear dependence is spin fluctuations.
+
+pacs: 10.1103/PhysRevB.88.224510 +
+Footnote †: preprint: PHYSICAL REVIEW B **88**, 224510 (2013)
+
+## I Introduction
+
+Since the discovery of superconductivity in LaFeAs(O, F) at T_{\rm c}=26 K,[1] considerable attention has been paid to iron-based superconductors (SCs) with a variety of crystal structures containing stacked iron-pnictide (or -chalcogenide) layers.[2] The maximum values of T_{\rm c} thus far achieved are 54-56 K (Refs. [3, 4, 5]) and 39 K (Ref. [6]) in the "1111" (_R_FeAsO; R = rare earth) and "122" (AFe_{2}As_{2}; A = alkaline earth or Eu) groups, respectively. Despite intensive research, the detailed mechanism of the superconductivity, for example, the symmetry of the SC order parameter, remains highly controversial.[7, 8, 9, 10, 11, 12] It has been revealed that iron-based SCs have a unique Fermi surface (FS) structure, typically consisting of two- or three-hole and two-electron sheets.[13, 14] The 1111 and 122 parent compounds undergo FS reconstruction associated with an antiferromagnetic (AF) order of Fe moments at T_{0}.[2] With the suppression of T_{0} via dopings[1, 6] or the application of pressure (P),[15] the superconducting (SC) ground state can be triggered. Hence magnetic instability may play an important role in iron-based SCs.
+
+One of the intriguing issues of iron-based SCs is the origin of non-Fermi-liquid (NFL) behavior in their transport properties, such as T-linear resistivity,[16, 17] which emerges as T_{0} is suppressed. The existence of a quantum critical point (QCP), where the second-order transition temperature becomes zero, in iron-based SCs has theoretically been proposed[18] and has been demonstrated by the observation of a peak in the penetration depth, which is proportional to (n/m^{*})^{-1/2}, at the optimal doping in the BaFe_{2}(As,P)_{2} system,[19] for example (n and m^{*} are the carrier number and quasiparticle effective mass, respectively).
+
+However, the existence of a QCP does not appear to be universal in iron-based SCs nor is its relevance to the superconductivity clear, as suggested by phase diagrams of La-based 1111 systems,[20, 21] or the composition x dependencies of the penetration depth and Drude weight of optical conductivity, both of which are related to n/m^{*}, in the Ba(Fe_{1-x}Co_{x})_{2}As_{2} system,[22, 23] for example. In addition, it has been argued that the interpretation of the NFL-like behavior may not be straightforward owing to the multiband character of iron-based systems.[24, 25]
+
+Pressure tuning of the electronic structures in stoichiometric compounds is a better means of studying a QCP than tuning by chemical substitution, which might obscure a QCP by the inevitably introduced randomness. We therefore study EuFe_{2}As_{2} under applied pressure (see Fig. 1). The transition temperature T_{0} is about 190 K at ambient pressure, and the critical pressure P_{\rm c}, where indications of the transition at T_{0} disappear and bulk superconductivity appears, is 2.5-2.7 GPa.[26, 27, 28, 29, 30] This sudden disappearance of T_{0} is incompatible with a QCP. Although the Eu^{2+} moments exhibit an AF order at T_{\rm N}\sim 20 K, the ferromagnetic (FM) alignment can be achieved at only a few teslas[31, 32, 33] and the spin disorder scattering can be minimized.[34] Because of the large exchange field from the Eu^{2+} moments to the conduction electron spins, the upper critical field B_{\rm c2} for the P-induced superconductivity is much smaller[27, 35] than that for other iron-based SCs with similar T_{\rm c}.[36, 37, 38] These unique characteristics of EuFe_{2}As_{2}, thus, provide a significant opportunity to experimentally investigate the iron-based superconductivity with high T_{\rm c} of 30 K. Our measurements of transport properties and upper critical fields up to 3.2 GPa reported below show no evidence of diverging quasiparticle effective mass at P_{\rm c}, indicating that the emergence of P-induced superconductivity in this clean system does not involve a QCP. However, it does not curtail the importance of spin fluctuations: we observe T-linear resistivity at pressures near P_{\rm c} and find that the Fermi liquid T^{2} dependence can be recovered by the application of a magnetic field.
+
+## II Experimental details
+
+Single crystals of EuFe_{2}As_{2} were grown by the Bridgman method from a stoichiometric mixture of the constituent elements. Resistivity and Hall effect were measured simultaneously by a conventional six-contact method with an ac current  for I\parallel ab and B\parallel c. For the magnetotransport measurements, we used thin platelike samples (\sim1 \times 0.4 \times 0.03 mm^{3}) with residual resistivity ratio RRR = 13 (P_{\rm c} = 2.7 GPa [28]). On the other hand, samples with RRR = 7 (P_{\rm c} = 2.5 GPa, Ref. [29]) were used to analyze the P dependence of B_{\rm c2}. As shown in Fig. 1, the P evolutions of T_{0}, T_{\rm N}, and T_{\rm c} for the two samples with different quality can be scaled by their P_{\rm c} values. High pressure experiments up to 3.2 GPa were performed down to 1.6 K in a ^{4}He cryostat equipped with a 17 T SC magnet using a clamped piston cylinder pressure device. [39] Daphne 7474 (Idemitsu Kosan), which remains liquid up to 3.7 GPa at room temperature, [40] was used as a pressure-transmitting medium. The applied pressure was determined at 4.2 K from the change in resistance of a calibrated Manganin wire. [27] As in our previous works, [27, 35]B denotes the externally applied field, and the magnetization within a sample (up to \sim0.9 T, Ref. [34]) is neglected.
+
+## III Results and discussions
+
+First, we discuss how electron and hole carriers evolve as a function of P via multicarrier analysis. Figure 2(a) shows the low-T data of transverse magnetoresistivity \rho(B) and Hall resistivity \rho_{\rm H}(B) in EuFe_{2}As_{2} (RRR = 13) at ambient pressure. The \rho(B) curves show a minimum (e.g., \sim2 T at 2 K), which is attributable to the B-induced FM alignment of the Eu^{2+} moments. [31, 32, 33] At high fields, \rho(B) shows positive magnetoresistance (MR), as expected from the cyclotron motion of electrons. \rho_{\rm H}(B) exhibits pronounced nonlinear behavior at low temperatures. [34] The field-induced transition of the Eu^{2+} moments is not detectable in the \rho_{\rm H}(B) curves, indicating negligible effect of the Eu^{2+} moments on the number of carriers. At pressures sufficiently below P_{\rm c}, the \rho_{\rm H}(B) and \rho(B) curves are qualitatively similar to those at ambient pressure except that the curvature in \rho_{\rm H}(B) and the magnitude of MR in \rho_{\rm H}(B) decreases with increasing P [Fig. 2(b)]. In the vicinity of P_{\rm c}, SC transitions due to the partial [Fig. 2(c)] or bulk superconductivity appears. In the high-field normal state, \rho(B) and \rho_{\rm H}(B) still slightly exhibit a positive MR and nonlinear behavior, respectively. As P is increased to above P_{\rm c}, \rho_{\rm H} exhibits nearly B-linear dependence [Fig. 2(d)], whereas \rho indicates negative MR due to the suppression of spin fluctuations of the Fe ions, [34] except in the low-T and high-B regions where the cyclotron motion dominates.
+
+Figure 3 shows the T dependence of the Hall coefficient R_{\rm H}, as defined by {\rm d}\rho_{\rm H}/{\rm d}B at B=0, under several pressures. [41] The enhancement of |R_{\rm H}(T)| below T_{0} for P<P_{\rm c} indicates the destruction of substantial parts of the FS. [34] For P>P_{\rm c} (inset), |R_{\rm H}(T)| still increases below \sim80 K. Similar enhancement of |R_{\rm H}(T)| has been observed in the paramagnetic phase of BaFe_{2}(As,P)_{2}, and it has been argued that the behavior cannot be explained by a multiband picture for a Fermi liquid. [42] However, in the present case, |R_{\rm H}| at 2.8 GPa is 2 \times 10^{-9} m^{3}/C
+
+Figure 2: (Color online) Low-temperature data of \rho(B) and \rho_{\rm H}(B) in EuFe_{2}As_{2} (RRR = 13) at (a) P = 0, (b) 1.6, (c) 2.6, and (d) 3.2 GPa. Solid curves are fits to a multicarrier model.
+
+Figure 1: (Color online) P-T phase diagram in EuFe_{2}As_{2} with RRR = 13 (circles, bottom axis) and 7^{29} (triangles, top axis), deduced from the resistivity measurements up to 3.2 GPa under zero field. The pressure is scaled with the critical value P_{\rm c}. PM, AFM, and SC indicate the paramagnetic, antiferromagnetic, and superconducting states, respectively. For the SC phase, open and solid symbols indicate T_{\rm c}^{\rm on} (onset) and T_{\rm c}^{\rm on=0} (zero resistivity), respectively. T_{\rm c}^{B=15}T determined at B=15 T is also shown. Dashed curves are a guide to the eyes.
+
+  (T\sim T_{\rm c}), which corresponds to \approx0.16 electron/Fe (e/Fe) in a single-carrier model. This value is comparable to the band-calculation value for BaFe_{2}As_{2} (0.15 e/Fe), and hence can be accounted for within a simple two-carrier picture.
+
+EuFe_{2}As_{2} is a compensated metal with an equal number of electrons and holes, for which a simple two-carrier model predicts a linear \rho_{\rm H}. The nonlinearity in \rho_{\rm H}(B) below P_{\rm c} thus indicates that more than two carriers contribute to the electronic transport. In the case of the sister compound BaFe_{2}As_{2}, a Shubnikov-de Haas oscillation study has shown that the Fermi surface in the AF phase consists of one hole and two electron pockets.[43] In keeping with this, a three-carrier model can account for the nonlinear behavior of \rho_{\rm H}(B) as well as the \rho(B) data for BaFe_{2}As_{2}.[44]
+
+We therefore apply essentially the same three-carrier analysis to the obtained \rho_{\rm H}(B) and \rho(B) data for EuFe_{2}As_{2} at P\leqslant P_{\rm c}, assuming one hole (H) and two electrons (E1 and E2) with density n_{i} and mobility \mu_{i}. We impose a constraint n_{\rm H}=n_{\rm E1}+n_{\rm E2}, owing to the carrier compensation, which is held under applied pressures. To avoid the effect of the Eu^{2+} moments or superconductivity, high-field data are used for the analysis. The solid curves in Fig. 2(a) indicate the fits, which capture the overall features of the experimental results. The fitting gives (n_{\rm H}, n_{\rm E1}, n_{\rm E2}; \mu_{\rm H}, \mu_{\rm E1}, \mu_{\rm E2}) = (6.6, 5.6, 0.92 [10^{-2} e/Fe]; 0.57, 0.57, 1.5 [10^{3} cm^{2}/V s]) for T=2 K. The fitting errors are approximately 3% for H and E1, and 20% for E2. The parameter sets obtained at 20 and 30 K are comparable to those at 2 K. One can find the tendency that n_{\rm H}\approx n_{\rm E1}\gg n_{\rm E2} and \mu_{\rm H}\approx\mu_{\rm E1}\ll\mu_{\rm E2}, similar to the case of BaFe_{2}As_{2}.[44] The magnitudes of the parameter sets, particularly \mu_{i}, for EuFe_{2}As_{2} (RRR=13) are comparable to those for as-grown samples of BaFe_{2}As_{2}.[44] For other pressures, a similar quality of fitting can be obtained.
+
+At P>P_{\rm c}, we assume one electron carrier (E) and one hole carrier (H) with n_{\rm H}=n_{\rm E}. In the analysis, the slope of \rho_{\rm H}(B) and the \rho value at B=0 are used. To determine the parameter sets (n_{\rm H},n_{\rm E}; \mu_{\rm H}, \mu_{\rm E}) uniquely, we fix n_{\rm H}=n_{\rm E}=7.5\times 10^{-2} e/Fe. A band-structure calculation suggests that the carrier density for BaFe_{2}As_{2} is 0.15 e/Fe.[24] However, the shrinking of the FS has been observed in BaFe_{2}(As, P_{2}[45] and has been theoretically attributed to strong interband scattering.[46] The volume of the FS is approximately halved as the optimal doping is approached in BaFe_{2}(As,P)_{2}.[45] We therefore use the halved value.
+
+Figure 4 displays the P evolutions of n_{i}, |\mu_{i}|, and conductivity \sigma_{i}. As the pressure approaches P_{\rm c}, n_{i} increases, while |\mu_{i}| decreases. It appears that n_{i} and |\mu_{i}| develop reasonably continuously to their values at P>P_{\rm c}. Neither of the P dependencies of \mu_{i} (=e\tau_{i}/m_{i}^{*}) or \sigma (=e^{2}\tau_{i}n_{i}/m_{i}^{*}) suggests the divergence of m^{*} or (n/m^{*})^{-1} at P_{\rm c}.
+
+We further substantiate the absence of a QCD by deriving the P dependence of the effective masses from B_{\rm c2}-T_{\rm c} phase diagrams under applied pressures. Figures 5(a) and 5(b) show \rho vs T at 2.6 and 3.0 GPa, respectively, in the RRR=7 sample under several B for B\parallel ab. T_{\rm c} under each magnetic field is determined by the midpoint temperature of the SC transitions. Figure 5(c) shows the thus determined upper critical field B_{\rm c2} as a function of temperature for several pressures. It appears that B_{\rm c2}(0) is highest at P\sim P_{\rm c} and decreases with
+
+Figure 4: (Color online) Pressure evolution of the carrier density n_{i}, mobility \mu_{i}, and conductivity \sigma_{i}, deduced from multicarrier analysis. Solid and open symbols correspond to the results obtained at \leqslant10 and 20 K, respectively. One hole (H) and two types of electrons (E1 and E2) are considered for P\leqslant P_{\rm c} (=2.7 GPa), whereas a simple two-band model with n_{\rm H}=n_{\rm E}=7.5\times 10^{-2} electrons/Fe (e/Fe) is assumed for P>P_{\rm c}.
+
+Figure 3: (Color online) T dependence of the Hall coefficient R_{\rm H} (=\rho_{xy}/d\,B|_{B\to 0}) at several pressures. The inset shows an expanded view of R_{\rm H}(T) in the low-T region at high pressures.
+
+  increasing P. In EuFe_{2}As_{2}, orbital and Pauli paramagnetic effects and magnetic Eu^{2+} moments all play an important role in determining B_{\rm c2}, which complicates the understanding of the obtained B_{\rm c2} vs T_{\rm c}. In a previous paper, we analyzed B_{\rm c2}(T) data obtained at 2.5 GPa [also shown in Fig. 5(c)] using a multiple pair-breaking model [47, 48] that includes the antiferromagnetic exchange field B_{J} due to magnetic Eu^{2+} moments. We obtained the spin-orbit scattering parameter \lambda_{\rm so}=2.4, and the maximum of B_{J}| as B_{J}^{n}=75 T, where the Maki parameter \alpha=3 is fixed. [35] It is known that m^{*} is related to \alpha through m^{*}\propto\sqrt{\alpha/T_{\rm c}} or \propto\alpha/\rho_{0} (\rho_{0}: residual resistivity) in the clean or dirty limit, respectively. Thus we estimate \alpha as a function of P using the same model. As \alpha is highly sensitive to other fitting parameters, we use the values of \lambda_{\rm so}=2.4 and B_{J}^{n}=75 T for all the pressures. Dashed curves are fitting results using \alpha and T_{\rm c} as free parameters. The inset of Fig. 5(c) shows the P dependencies of \alpha/T_{\rm c} and \alpha/\rho_{0}. The former exhibits only a modest increase, whereas the latter exhibits a decrease as P_{\rm c} is approached. This indicates that, either in the clean or dirty limit, there is no divergence of m^{*} as the pressure approaches P_{\rm c}.
+
+We now address the issue of the NFL behavior. Figure 6(a) shows the T dependence of \rho under zero field in EuFe_{2}As_{2} (RRR=13) at several pressures. Solid curves are fits to \rho=\rho_{0}+CT^{*} (C is a constant). To avoid the effect of Eu^{2+} moments or superconductivity, we use data in a fitting range from 35 K (fixed) to several temperatures between 50 K and T_{0}. Figure 6(b) indicates the P evolution of the exponent x. At P\ll P_{\rm c}, Fermi liquid (FL) like behavior (x\sim 2) is observed. As the pressure approaches P_{\rm c}, x decreases rapidly and reaches approximately unity.
+
+It has previously been proposed that the T-linear resistivity in iron-based SCs arises from the T-dependent carrier concentration and that the carrier scattering rate \tau^{-1} obeys a standard FL T^{2} law. [24, 25] We therefore show the T dependence of (m^{*}/m_{0})/\tau_{\rm f}=(e/m_{0})\mu_{i}^{-1} at 2.9, 3.1, and 3.2 GPa (>P_{\rm c}) obtained from the above two-carrier analyses in Fig. 7. The figures indicate that the scattering rates for both electrons and holes are nearly proportional to T in a remarkably wide T range. Although we have assumed
+
+Figure 6: (Color online) (a) \rho vs T under zero field at several pressures. The data are arbitrarily shifted in the longitudinal direction for clarity. Solid curves are fits to \rho=\rho_{0}+CT^{*}. (b) P evolution of the exponent x under zero field. Solid symbols are obtained from fits in the T range between 35 and 60 K. Error bars are estimated from fits in several T ranges from 35 K (>T_{\rm N},T_{\rm c}) to temperatures between 50 K and T_{0}.
+
+Figure 5: (Color online) \rho vs T of EuFe_{2}As_{2} (RRR=7, P_{\rm c}=2.5 GPa), under several B for B\parallel ab at (a) P=2.6 and (b) 3.0 GPa. (c) P dependence of B_{\rm c2}^{0\%} vs T_{\rm c} of EuFe_{2}As_{2} for B\parallel ab. Dashed curves are fits to the multiple pair-breaking formula (see text). Open symbols indicate the published data obtained from high-field resistivity measurements at 2.5 GPa up to 27 T. [35] The inset shows \alpha/T_{\rm c} and \alpha/\rho_{0} as functions of P.
+
+  n_{\rm H}=n_{\rm E}=7.5\times 10^{-2} e/Fe in estimating \mu_{i} as noted above, any carrier number in the range between 0.05 and 0.1 e/Fe gives a similar approximately T-linear dependence of \mu_{i}.
+
+Figure 8 shows \rho(T) at 2.9 GPa (\simP_{\rm c}) under several fields of up to 15 T. The FL T^{2} behavior is gradually restored with increasing B. To estimate the T variation of the exponent x under applied fields, we fit the data to \rho=\rho_{0}+CT^{x} in several temperature ranges. The inset of Fig. 8 shows the T variation of x under 0, 8, and 15 T. Under zero field, the x value is close to one. Under applied fields of 8 and 15 T, with decreasing T, the x value increases from \sim1 and approaches \sim2. This clearly indicates that the origin of the T-linear resistivity is spin fluctuations. As is well known, spin fluctuation theories predict T-linear resistivity for two-dimensional nearly AF metals.[49] To our knowledge, there has been no observation of a B-induced change in the resistivity exponent from 1 to 2 in iron-based SCs. The present observation is most likely to result from the fact that the conduction carrier spins are influenced by the large exchange field from the Eu^{2+} moments, in addition to the externally applied field. That is, as soon as the Eu^{2+} moments are fully aligned by the applied field, the conduction electrons feel a large exchange field of -B_{J}^{m}=-75 T, which effectively suppresses the spin fluctuations.
+
+## IV Conclusions
+
+To conclude, our analyses of magnetotransport and upper critical fields in EuFe_{2}As_{2} under high pressure indicate that there is no QCP at P_{\rm c} in this pure compound, which is in sharp contrast to the observation in BaFe_{2}(As,P)_{2}.[19, 50] On the other hand, we have shown that the scattering rates for both electrons and holes are approximately T-linear for P>P_{\rm c}. The recovery of the FL T^{2} dependence of \rho at high fields clearly indicates that spin fluctuations are the origin of the anomalous scattering. It appears that systematic analyses of spin (and/or orbital) fluctuations based on the electronic structures of individual materials, beyond a generic scenario based on a QCP, are necessary to elucidate the mechanism of iron-based superconductivity.
+
+## Acknowledgment
+
+We would like to thank H. Eisaki, S. Ishida, and H. Harima for fruitful discussions. This work was partially supported by a Grant-in-Aid for Young Scientists (No. 23740279) from the Ministry of Education, Culture, Sports, Science and Technology, Japan.
+
+## Appendix
+
+The procedure for the three carrier analysis used in simultaneously fitting the obtained \rho and \rho_{\rm H} data of EuFe_{2}As_{2} is shown below. This procedure is essentially the same as that used in the recent work on the sister compound BaFe_{2}As_{2}.[44]
+
+Tensor components of the electrical conductivity, \sigma_{xx} (=\sigma_{yy}) and \sigma_{xy} (=-\sigma_{yx}), for three carriers can be expressed in the following forms using those of the electrical resistivity, \rho_{xx} (=\rho_{yy}=\rho) and \rho_{xy} (=-\rho_{yx} = \rho_{\rm H}):
+
+\[\begin{split}\sigma_{xx}&=\frac{\rho_{xx}}{\rho_{ xx}^{2}+\rho_{xy}^{2}}=\sum_{i=1}^{3}\frac{q_{i}n_{i}\mu_{i}}{1+(\mu_{i}B)^{2}},\\ \sigma_{xy}&=\frac{\rho_{xy}}{\rho_{xx}^{2}+\rho_{xy }^{2}}=\sum_{i=1}^{3}\frac{q_{i}n_{i}\mu_{i}^{2}B}{1+(\mu_{i}B)^{2}},\end{split}\] (10)
+
+where q_{i}, n_{i}, and \mu_{i} are the charge, density, and mobility of the ith carrier, respectively, and the tensors of the electrical conductivity \sigma and resistivity \rho have the forms
+
+\[\begin{split}\sigma=\begin{pmatrix}\sigma_{xx}&\sigma_{xy}\\ -\sigma_{xy}&\sigma_{xx}\end{pmatrix},\quad\rho=\begin{pmatrix}\rho_{xx}&\rho_ {xy}\\ -\rho_{xy}&\rho_{xx}\end{pmatrix}.\end{split}\] (11)
+
+From Eq. (1), \rho_{xx} and \rho_{xy} can be written as follows:
+
+\[\begin{split}\rho_{xx}&=\frac{\sum_{i=1}^{3}\frac{q_{i}n_{i} \mu_{i}}{1+(\mu_{i}B)^{2}}}{\sum_{i=1}^{3}\frac{q_{i}n_{i}\mu_{i}}{1+(\mu_{i}B) ^{2}}+\sum_{i=1}^{3}\frac{q_{i}n_{i}\mu_{i}^{2}B}{1+(\mu_{i}B)^{2}}},\\ \rho_{xy}&=\frac{\sum_{i=1}^{3}\frac{q_{i}n_{i}\mu_{i}^{2}B}{1+(\mu_{i}B) ^{2}}}{\sum_{i=1}^{3}\frac{q_{i}n_{i}\mu_{i}^{2}B}{1+(\mu_{i}B)^{2}}+\sum_{i=1} ^{3}\frac{q_{i}n_{i}\mu_{i}^{2}B}{1+(\mu_{i}B)^{2}}}.\end{split}\] (12)
+
+Figure 8: (Color online) \rho(T) at 2.9 GPa under 0, 3, 8, and 15 T. The inset shows the T dependence of x under several fields.
+
+  * [1] Present address: Department of Physics, Tokyo Institute of Technology, Meguro-ku, Tokyo 152-8551, Japan.
+* [2] Y. Kamihara, T. Watanabe, M. Hirano, and H. Hosono, J. Am. Chem. Soc. **130**, 3296 (2008).
+* [3] For recent reviews, see D. C. Johnston, Adv. Phys. **59**, 803 (2010); G. R. Stewart, Rev. Mod. Phys. **83**, 1589 (2011).
+* [4] H. Kito, H. Eisaki, and A. Iyo, J. Phys. Soc. Jpn. **77**, 063707 (2008).
+* [5] Z.-A. Ren, W. Lu, J. Yang, W. Yi, X.-L. Shen, Z.-C. Li, G.-C. Che, X.-L. Dong, L.-L. Sun, F. Zhou, and Z.-X. Zhou, Chin. Phys. Lett. **25**, 2215 (2008).
+* [6] C. Wang, L. Li, S. Chi, Z. Zhu, Z. Ren, Y. Li, Y. Wang, X. Lin, Y. Luo, S. Jiang, X. Xu, G. Cao, and Z. Xu, Europhys. Lett. **83**, 67006 (2008).
+* [7] M. Rotter, M. Tegel, and D. Johrendt, Phys. Rev. Lett. **101**, 107006 (2008).
+* [8] I. I. Mazin, D. J. Singh, M. D. Johannes, and M. H. Du, Phys. Rev. Lett. **101**, 057003 (2008).
+* [9] K. Kuroki, H. Usui, S. Onari, R. Arita, and H. Aoki, Phys. Rev. B **79**, 224511 (2009).
+* [10] Y. Nakai, K. Ishida, Y. Kamihara, M. Hirano, and H. Hosono, J. Phys. Soc. Jpn. **77**, 073701 (2008).
+* [11] K. Hashimoto, M. Yamashita, S. Kasahara, Y. Senshu, N. Nakata, S. Tonegawa, K. Ikada, A. Serafin, A. Carrington, T. Terashima, H. Ikeda, T. Shibauchi, and Y. Matsuda, Phys. Rev. B **81**, 220501(R) (2010).
+* [12] H. Kontani and S. Onari, Phys. Rev. Lett. **104**, 157001 (2010).
+* [13] M. Sato, Y. Kobayashi, S. C. Lee, H. Takahashi, E. Satomi, and Y. Miura, J. Phys. Soc. Jpn. **79**, 014710 (2010).
+* [14] D. J. Singh and M.-H. Du, Phys. Rev. Lett. **100**, 237003 (2008).
+* [15] H. Ding, P. Richard, K. Nakayama, K. Sugawara, T. Arakane, Y. Sekiba, A. Takayama, S. Souma, T. Sato, T. Takahashi, Z. Wang, X. Dai, Z. Fang, G. F. Chen, J. L. Luo, and N. L. Wang, Eur. Phys. Lett. **83**, 47001 (2008).
+* [16] P. L. Alireza, J. Gillett, Y. T. Chris Ko, S. E. Sebastian, and G. G. Lonzarich, J. Phys.: Condens. Matter **21**, 012208 (2009).
+* [17] R. H. Liu, G. Wu, T. Wu, D. F. Fang, H. Chen, S. Y. Li, K. Liu, Y. L. Xie, X. F. Wang, R. L. Yang, L. Ding, C. He, D. L. Feng, and X. H. Chen, Phys. Rev. Lett. **101**, 087001 (2008).
+* [18] M. Gooch, B. Lv, B. Lorenz, A. M. Guloy, and C.-W. Chu, Phys. Rev. B **79**, 104504 (2009).
+* [19] J. Dai, Q. Si, J. -X. Zhu, and E. Abrahams, Proc. Natl. Acad. Sci. USA, **106**, 4118 (2009).
+* [20] K. Hashimoto, K. Cho, T. Shibauchi, S. Kasahara, Y. Mizukami, R. Katsumata, Y. Tearahara, T. Terashima, H. Ikeda, M. A. Tanatar, H. Kitano, N. Salovich, R. W. Giannetta, P. Walmsley, A. Carrington, R. Prozorov, and Y. Matsuda, Science **336**, 1554 (2012).
+* [21] H. Luetkens, H.-H. Klauss, M. Kraken, F. J. Litterst, T. Dellmann, R. Klingeler, C. Hess, R. Khasanov, A. Amato, C. Baines, M. Kosmala, O. J. Schumann, M. Braden, J. Hamann-Borrero, N. Leps, A. Kondrat, G. Behr, J. Werner, and B. Buchner, Nat. Mater. **8**, 305 (2009).
+* [22] S. Iimura, S. Matuishi, H. Sato, T. Hanna, Y. Muraba, S. W. Kim, J. E. Kim, M. Takata, and H. Hosono, Nat. Commun. **3**, 943 (2012).
+* [23] M. Nakajima, S. Ishida, K. Kihou, Y. Tomioka, T. Ito, Y. Yoshida, C. H. Lee, H. Kito, A. Iyo, H. Eisaki, K. M. Kojima, and S. Uchida, Phys. Rev. B **81**, 104528 (2010).
+* [24] R. T. Gordon, H. Kim, N. Salovich, R. W. Giannetta, R. M. Fernandes, V. G. Kogan, T. Prozorov, S. L. Bud'ko, P. C. Canfield, M. A. Tanatar, and R. Prozorov, Phys. Rev. B **82**, 054507 (2010).
+* [25] L. Fang, H. Luo, P. Cheng, Z. Wang, Y. Jia, G. Mu, B. Shen, I. I. Mazin, L. Shan, C. Ren, and H.-H. Wen, Phys. Rev. B **80**, 140508(R) (2009).
+* [26] F. Rullier-Albenque, D. Colson, A. Forget, and H. Alloul, Phys. Rev. Lett. **103**, 057001 (2009).
+* [27] C. F. Miclea, M. Nicklas, H. S. Jeevan, D. Kasinathan, Z. Hossain, H. Rosner, P. Gegenwart, C. Geibel, and F. Steglich, Phys. Rev. B **79**, 212509 (2009).
+* [28] T. Terashima, M. Kimata, H. Satsukawa, A. Harada, K. Hazama, S. Uji, H. S. Suzuki, T. Matsumoto, and K. Murata, J. Phys. Soc. Jpn. **78**, 083701 (2009); **78**, 118001 (2009).
+* [29] N. Kurita, M. Kimata, K. Kodama, A. Harada, M. Tomita, H. S. Suzuki, T. Matsumoto, K. Murata, S. Uji, and T. Terashima, J. Phys.: Conf. Ser. **273**, 012098 (2011).
+* [30] N. Kurita, M. Kimata, K. Kodama, A. Harada, M. Tomita, H. S. Suzuki, T. Matsumoto, K. Murata, S. Uji, and T. Terashima, Phys. Rev. B **83**, 214513 (2011).
+* [31] K. Matsubayashi, K. Munakata, M. Isobe, N. Katayama, K. Ohgushi,Y. Ueda, Y. Uwatoko, N. Kawamura, M. Mizumaki, N. Ishimatsu, M. Hedo, and I. Umehara, Phys. Rev. B **84**, 024502 (2011).
+* [32] S. Jiang, Y. Luo, Z. Ren, Z. Zhu, C. Wang, X. Xu, Q. Tao, G. Cao, and Z. Xu, New J. Phys. **11**, 025007 (2009).
+* [33] Y. Xiao, Y. Su, M. Meven, R. Mittal, C. M. N. Kumar, T. Chatterji, S. Price, J. Persson, N. Kumar, S. K. Dhar, A. Thamizhavel, and Th. Brueckel, Phys. Rev. B **80**, 174424 (2009).
+* [34] Y. Xiao, Y. Su, W. Schmidt, K. Schmalzl, C. M. N. Kumar, S. Price, T. Chatterji, R. Mittal, L. J. Chang, S. Nandi, N. Kumar, S. K. Dhar, A. Thamizhavel, and Th. Brueckel, Phys. Rev. B **81**, 220406(R) (2010).
+* [35] T. Terashima, N. Kurita, A. Kikkawa, H. S. Suzuki, T. Matsumoto, K. Murata, and S. Uji, J. Phys. Soc. Jpn. **79**, 103706 (2010).
+* [36] N. Kurita, M. Kimata, K. Kodama, A. Harada, M. Tomita, H. S. Suzuki, T. Matsumoto, K. Murata, S. Uji, and T. Terashima, Phys. Rev. B **83**, 100501(R) (2011).
+* [37] F. Hunte, J. Jaroszynski, A. Gurevich, D. C. Larbalestier, R. Jin, A. S. Sefat, M. A. McGuire, B. C. Sales, D. K. Christen, and D. Mandrus, Nature (London) **453**, 903 (2008).
+* [38] H. Q. Yuan, J. Singleton, F. F. Balakirev, S. A. Baily, G. F. Chen, J. L. Luo, and N. L. Wang, Nature (London) **457**, 565 (2009).
+* [39] H. Kotegawa, H. Sugawara, and H. Tou, J. Phys. Soc. Jpn. **78**, 013709 (2009).
+* [40] Y. Uwatoko, M. Hedo, N. Kurita, M. Koeda, M. Abliz, and T. Matsumoto Physica C **329-333**, 1658 (2003).
+* [41] K. Murata, K. Yokogawa, H. Yoshino, S. Klotz, P. Munsch, A. Irizawa, M. Nishiyama, K. Iizuka, T. Nanba, T. Okada, Y. Shiraga, and S. Aoyama, Rev. Sci. Instrum. **79**, 085101 (2008).
+* [42]R_{\rm H}(T) estimated at different B shows qualitatively similar behavior.
+* [43] S. Kasahara, T. Shibauchi, K. Hashimoto, K. Ikada, S. Tonegawa, R. Okazaki, H. Shishido, H. Ikeda, H. Takeya, K. Hirata, T. Terashima, and Y. Matsuda, Phys. Rev. B **81**, 184519 (2010).
+* [44] T. Terashima, N. Kurita, M. Tomita, K. Kihou, C.-H. Lee, Y. Tomioka, T. Ito, A. Iyo, H. Eisaki, T. Liang, M. Nakajima, S. Ishida, S.-i. Uchida, H. Harima, and S. Uji, Phys. Rev. Lett. **107**, 176402 (2011).
+
+  * [45] S. Ishida, T. Liang, M. Nakajima, K. Kihou, C. H. Lee, A. Iyo, H. Eisaki, T. Kakeshita, T. Kida, M. Hagiwara, Y. Tomioka, T. Ito, and S. Uchida, Phys. Rev. B **84**, 184514 (2011).
+* [46] H. Shishido, A. F. Bangura, A. I. Coldea, S. Tonegawa, K. Hashimoto, S. Kasahara, P. M. C. Rourke, H. Ikeda, T. Terashima, R. Settai, Y. Onuki, D. Vignolles, C. Proust, B. Vignolle, A. McCollam, Y. Matsuda, T. Shibauchi, and A. Carrington, Phys. Rev. Lett. **104**, 057008 (2010).
+* [47] L. Ortenzi, E. Cappelluti, L. Benfatto, and L. Pietronero, Phys. Rev. Lett. **103**, 046404 (2009).
+* [48] N. R. Werthamer, E. Helfand, and P. C. Hohenberg, Phys. Rev. **147**, 295 (1966).
+* [49] G. Fischer, Helv. Phys. Acta **45**, 331 (1972).
+* [50] T. Moriya, Y. Takahashi, and K. Ueda, J. Phys. Soc. Jpn. **59**, 2905 (1990).
+* [51] P. Walmsley, C. Putzke, L. Malone, I. Guillamon, D. Vignolles, C. Proust, S. Badoux, A. I. Coldea, M. D. Watson, S. Kasahara, Y. Mizukami, T. Shibauchi, Y. Matsuda, and A. Carrington, Phys. Rev. Lett. **110**, 257002 (2013).
+
+ 

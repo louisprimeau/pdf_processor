@@ -1,0 +1,787 @@
+Magnetic and transport properties of Zn-doped YBa_{2}Cu_{3}O_{7} in the normal state
+
+S. Zagoulaev
+
+Laboratoire de Physique de la Matiere Condensee, Ecole Normale Superieure, 24 rue Lhomond, 75231 Paris, France and Theoretical Physics Department, St. Petersburg University, St. Petersburg 198904, Russia
+
+P. Monod
+
+LPMC, Ecole Normale Superieure, 24 rue Lhomond 75231 Paris, France
+
+J. Jegoudez
+
+Laboratoire de Chimie des Solides, Universite Paris Sud, 91405 Orsay, France
+
+###### Abstract
+
+Detailed resistivity and susceptibility measurements are reported on YBa_{2}(Cu_{1-x}Zn_{x})O_{7} ceramics samples for 0% \leq x\leq 10% in the normal state. The superconducting temperature T_{c}(x) is found to decrease linearly with x down to 0 K at a rate of 8.8\pm0.3 K/% up to 10% Zn in agreement with previous work. The resistivity analysis in the metallic regime shows that it is possible to fit a modified Matthiesen's law for the additivity of the impurity scattering and the thermal scattering quite similar to what is found for the _ab_-plane resistivity of Zn-doped single crystals. The residual resistivity linear increment of Zn in ceramic samples for x\leq 5% is found to be 40\pm4 \muL cm/% Zn. With the first weak-localization correction to the resistivity the data can be fitted (with the same parameters) up to x= 8% of Zn, yielding a two-dimensional resistivity cross section of diameter 7.7 A two times larger than in single crystals. The same samples have been used for magnetic susceptibility determination with an improved resolution. Special care has been taken to remove (via electron paramagnetic resonance double integration) the contribution from the parasitic Y_{2}BaCuO_{5} "green phase," which we find consistently below 1% per mole YBa_{2}Cu_{3}O_{7}, independent of Zn level below x= 10%. We find a Curie-law term in the susceptibility which increases linearly with Zn content. The moment defined in this way corresponds to (0.64\pm0.15)\mu_{B} per Zn impurity. Associated with this Curie term we measure a ferromagnetic Curie temperature T_{c} which decreases as the Zn concentration x increases at a rate of (57\pm6)(1-0.1x) K. The constant, temperature-independent susceptibility \chi_{\rm spin} is found to decrease linearly with increasing Zn concentration, about two times faster than what would be expected for a localized model of the Zn perturbation within a single unit cell. Comparing this decrease of \chi_{\rm spin} with the increase of the Curie constant allows a consistent interpretation of the effect of Zn in [CuO_{2}] plane. We propose that the four near neighbor Cu to the Zn site bear a magnetic moment and are linked by a ferromagnetic interaction.
+
+pacs: 0163-1829/95/52(14)/10474(14)/506.00 +
+Footnote †: preprint: 1 OCTOBER 1995-II
+
+## I Introduction
+
+In order to improve our understanding of the physics of the [CuO_{2}] plane in the normal state of the high-temperature superconductors one major way of investigation consists in substituting Cu atoms by foreign, impurity atoms.
+
+The purpose of this paper is a detailed study of the magnetic and transport properties of Zn-doped YBa_{2}Cu_{3}O_{7}(YBCO): [YBa_{2}(Cu_{1-x}Zn_{x})_{3}O_{7}]. Indeed, among the different Cu substitutions in this compound studied so far [1, 2]. Co, Fe, and Ni bear, as expected, a magnetic moment due to their incomplete d shells whereas Zn or Ga should not be magnetic by themselves owing to their 3d10 character. However, the very strong detrimental effect of Zn doping on the critical temperature T_{c} of YBCO, about 10 K/% Zn, noticed very early [3], has been attributed to a possible magnetic scattering [4]. In this respect, the situation concerning the magnetic behavior upon doping at the Cu site of La_{2-x}Sr_{x}CuO_{4}, which has been explored by Xiao _et al._[5, 6] for Fe, Co, Ni, Zn, Ga, and Al, and recently by Nakano _et al._, [7] appears to be somewhat simpler to analyze than the corresponding case of YBCO, where the existence of two Cu sites (the chains and the planes) complicates the analysis. Xiao _et al._ find that substituting Zn, Ga, or Al in the CuO_{2} plane of La_{1.85}Sr_{0.15}CuO_{4} decreases T_{c} at a rate of 12 K/% impurity, identical to that observed with Co. In addition, static magnetization measurements in the concentration range up to 6% Zn, Ga, or Al reveal, from the observed Curie term, as essentially concentration-independent magnetic moment close to 1\mu_{B} in a classical, Langevin type of fit.
+
+In the case of YBCO doped with Zn and in contrast to the doping with Ga, there is strong evidence from NMR [8, 9], oxygen doping [10], muon spin resonance (\muSR) [11], neutron scattering [12], and transport properties [13] that the majority of Zn atoms are substituted in the plane sites preferentially to the chains. However, some intermediate situation cannot be excluded _a priori_, which might depend on the specific preparation method of the compound as shown by Cooper [14]. The transport properties of Zn-doped YBCO in the normal state have been reported by numerous authors [15], among which are the following:
+
+(i) Cooper _et al._[14, 15] demonstrated a Mathiessen law  behavior as a function of Zn concentration in ceramics prepared by solid-state reaction from oxalates or carbonates.
+
+(ii) **Chien, Wang,** and **Ong4** focused on the Hall angle, i.e., the ratio of transverse to longitudinal conductivity, which they determined separately on Zn-doped single crystals prepared from the liquid state by the flux method (allowing for a large drop of concentration of Zn upon crystallization). In both cases the rate of decrease of T_{e} is close to 10 K/% Zn.
+
+We report below
+
+(1) the determination of the resistivity scattering cross section _A_Zn of Zn from a quantitative analysis of the resistivity data in the range 0-8 % Zn doping;
+
+(2) the magnetic moment m, Curie temperature T_{C}, and temperature-independent susceptibility _X_spin as a function of Zn doping in the range 0-10 % Zn in YBCO.
+
+As will be clear in the discussion, the image that emerges from the nonmagnetic doping in the Cu plane site of YBCO is quite similar to that of La1.85Sr0.15CuO4. In particular, the large resistivity scattering cross section found provides a firm basis for a model of locally induced magnetism by a nonmagnetic dopant, at the expense of the itinerant carrier susceptibility.
+
+## II Samples and experimental method
+
+For both type of measurements (resistivity and magnetization) the same types of samples were used, namely, neighboring slices 4 x 10 x 1 and 4 x 4 x 6 mm3, respectively, of Zn-doped ceramics. These were obtained by conventional solid-state reaction from Y2O3, BaCO3, CuO, and the nominal amount of ZnO needed. After two sets of calcination (in air) of the loose powder above 900 degC, with intermediate grinding in an agate mortar, a final sintering at 950 degC for 24 h in air was performed on pressed bars (25 x 10 x 5 mm3) at 1.5 ton/cm2, followed by slow cooling down to room temperature. Table I summarizes the thermal history of each batch. In order to assess the role of a possible (small) oxygen deficiency a further oxygen anneal was given, without notable change of the magnetic and resistivity results. X-ray analysis was performed on a Philips PW diffractometer. The 6-2th powder spectra did not show parasitic phases in all cases, up to 10% Zn, within the noise background, and gave no measurable dependence of the crystalline parameters a, b, and c redefined using the sllex code within 0.1%. This agrees with the results from Refs. [16-18].
+
+The density of the ceramics obtained could be varied from 4.8 to 5.8 g/cm3 depending on the compaction of the powder before sintering. In order to measure by electron paramagnetic resonance (EPR) the amount of parasitic "green" phase Y2BaCuO5 a small quantity, typically 20 mg, was further ground by milling down to about 20 _m_m to avoid skin effect corrections. Double integration of the characteristic EPR spectrum at 10 GHz at room temperature was performed. Indeed, after proper calibration by a pure powder sample of Y2BaCuO5 (and proper corrections for Q factors of the cavity) this method is sensitive (down to about 100 ppm) and reliable. We find the important result, shown in Table II and Fig. 1, that the amount of Y2BaCuO5 in our samples is constant, independent of Zn concentration in the range 0-8 % Zn at a level of (0.15 +- 0.1)% mole of Y2BaCuO5 (211) per mole of YBa2(Cu1-_x_Zn_x_)3O7 (123), consistent with the null result of the x-ray spectra. For 10% Zn the contamination is found to be larger, namely, at 1% mole 211 per mole 123. Of course, the EPR can also detect other parasitic phases such as BaCuO2 or Y2Cu2O5, which are expected to occur in the presence of a phase separation. No such spectra were observed, however, which tends to eliminate the likeliness of this effect in our samples. Finally, in an attempt to check the EPR spectra attributed to the presence of magnetic Zn centers in La1.85Sr0.15Cu1-_x_Zn_x_O4 by Finkelstein _et al._, [19] we performed a systematic search down to 3.9 K on the 10% Zn-doped YBCO with no resulting signal near g = 2 other than the residual "green" phase.
+
+The resistivity measurements were performed by a standard four-point method, using silver paste as contacts. The accuracy of the measurement due to the geometry of the silver contacts was +-5%. At every temperature the resistance was measured with varying current density from +-0.1 to +-1 A/cm2, showing in each
+
+\begin{table}
+\begin{tabular}{c c c c c}  & Thermal treatment & Thermal treatment & Thermal treatment & \\  & (air) & (air) & (air) & O2 \\ Batch & first & second & third & oxygenation \\  & & & & \\
+2 & pressed & pressed & — & 450 °C \\  & 900 °C & 950 °C & & 12 h \\  & 16 h & 24 h & & \\
+3 & pressed & pressed & — & 450 °C \\  & 900 °C & 950 °C & & 12 h \\  & 16 h & 24 h & & \\
+4 & powder & powder & pressed & 350 °C \\  & 920 °C & 900 °C & 950 °C & 10 h \\  & 15 h & 10 h & 20 h & \\
+6 & powder & powder & pressed & 400 °C \\  & 910 °C & 910 °C & 950 °C & 20 h \\  & 12 h & 12 h & 20 h & \\ \end{tabular}
+\end{table}
+Table 1: Successive thermal treatments for the different batches of YBa2(Cu1−_x_Zn_x_)3O7.
+
+  case a well-defined Ohm's law. The temperature was monitored by a calibrated platinum probe embedded in the Cu mount over which the sample was pressed with vacuum grease. Great care was taken to avoid thermal hysteresis due to inherent time constants upon warming or cooling. This was achieved by changing slowly the height of the probe holder in a helium container. Reproducibility was obtained to within the scatter of the data, +-0.05 K.
+
+Magnetic measurements were performed using about 200 mg samples with a superconducting quantum interference device (SQUID) magnetometer from 0.005 up to 5 T and from 1.9 up to 300 K. However, only the data in the normal state or slightly below T_{c} are significant since the inherent (small) inhomogeneities of the field coil make it impractical to measure with good accuracy superconducting and normal properties in the same run. Owing to the relatively large quantity of the sample an overall precision of about 1% could be obtained in the different terms contributing to the susceptibility, thus enabling one to study with good accuracy their dependence upon Zn doping.
+
+## III Results
+
+### Resistivity
+
+Typical results of resistivity versus temperature curves are presented for a selected number of Zn concentrations, each from the same batch, i.e., with identical preparation routine, below 1% [batch 4 (Fig. 2)] and from 1% to 8% [batches 2 and 3 (Fig. 3)]. As can be seen the overall resistivity behavior is still metalliclike at 8% Zn but displays a negative slope of _d_r/_dT_ at 10% Zn (not shown here). In order to extract the residual resistivity _r_(_x_,0) we first tried a procedure similar to that of Cooper:14 as a first step a geometrical correction for the density was made, namely,
+
+\[\rho(x,T) = R(x,T)(S/l)[d(x)/d_{0}]^{1/3}\ ,\]
+
+where _R_(_x_,_T_) is the measured resistance of the sample of section S and density _d_(_x_), l is the distance between voltage electrodes, and d0 the x-ray density. However, contrary to the results of Cooper _et al._15 this procedure gave no obvious correlation between the slope _d_r/_dT_ and the density ratio _d_(_x_)/_d_0, but rather a monotonic, approxi
+
+\begin{table}
+\begin{tabular}{c c c c c c c c c} x & & a & b & c & d & 211 & T_{c} & _ΔT__c_ \\ (\%) & Batch & (Å) & (Å) & (Å) & (g/cm^{3}) & (_g_111/g_123) & (K) & (K) \\ \hline
+0.0 & 2 & 3.81(6) & 3.88(2) & 11.65(2) & 4.746 & & 86.0 & 2.9 \\
+2.0 & 2 & 3.81(4) & 3.88(3) & 11.64(8) & 5.358 & & 64.9 & 3.0 \\
+3.0 & 2 & 3.82(7) & 3.88(5)  mately linear increase of d\rho/dT with the concentration x (Fig. 4) which can be represented by
+
+\[d\rho(x)/dT = 3.2 + (0.2 \pm 0.1)x\]
+
+in \mu\Omega cm {\bf K}^{- 1}\%^{- 1} (in the metallic regime x\leq 5\%). We remark that the same relative increase of d\rho(x)/dT is observed by Chien, Wang, and Ong on single crystals [4] and by Ilonca _et al._ in ceramics. [20]
+
+As will be justified in the discussion below, in order to compare our results with those of single crystals, we have chosen to normalize the measured slopes of d\rho(x)/dT to those of single crystals [4] of the same concentration and to define the residual resistivity \rho(x,0) by the extrapolation of the linear part of \rho(x,T) down to T=0. The results concerning \rho(x,0) normalized to the slope d\rho/dT of single crystals appear in Fig. 5 in the range x=0-8\% Zn.
+
+Figure 4: Thermal broadening d\rho/dT of ceramic samples for different batches of YBa_{2}(Cu_{1-x}Zn_{x})_{3}O_{7} as a function of Zn concentration as compared to the same thermal slope measured in the a, b plane of single crystals from Refs. 4 and 24. In the limit of metallic behavior (x\leq 5\%) both quantities slowly increase with x in a similar way. The ratio of these slopes is used at each concentration to normalize the ceramics data to those of a single crystal in the a, b plane.
+
+Figure 5: Residual resistivity of YBa_{2}(Cu_{1-x}Zn_{x})_{3}O_{7} obtained by extrapolating at T=0 the resistivity curves of Figs. 2 and 3 after normalization of the slopes at each concentration as represented in Fig. 4. From the linear increase for x\leq 5\% a diffusion cross section is defined. The continuous line is an attempt to fit the first weak-localization correction following Ref. 32.
+
+Figure 3: Same as Fig. 2 for batches 2 and 3 for higher concentration of Zn: the slope d\rho/dT increases slightly with x and the width of the transition reaches 13 K for x=8\%. The resistance has been corrected only for the density in Figs. 2 and 3 (see Table I).
+
+  It appears that a reasonable linear fit can be obtained from x = 0 up to x = 5% Zn where a gradual upturn of the curve _r_(_x_,0) versus x occurs. In the discussion we show that the procedure adopted here consists in assuming that the _ratio_ of impurity to thermal scattering process is the _same_ in single crystals and in ceramics since both processes are microscopic in nature. Thus we use the observed thermal scattering measured on ceramics to define the effective geometrical path followed among the array of (anisotropic) crystals of the ceramic in order to evaluate the impurity scattering. Failure to do so would yield larger resistivity scattering rates as can be seen in the work of Xiao _et al._[21] on ceramics based on Zn-doped La_{1.85}Sr_{0.15}CuO_{4}. The result of a linear fit through the data of Fig. 5 gives a resistivity increase per % Zn of d _r_/_dx_ = 40+-3 _m_O cm/% Zn. From this figure the scattering cross section A_{2n}^{(123)} is readily obtained in either three-dimensions (3D) or 2D as presented in the discussion below together with the analysis of the resistivity for 5% x <= 5%.
+
+Finally, in Fig. 6 the results of the superconducting temperature T_{c}(_x_) are plotted as a function of Zn content from x = 0% to x = 10% where no superconductivity is found down to 1.9 K, according to magnetic measurements. T_{c} is defined from the resistivity curve of Figs. 2 and 3 by the midpoint of the transition. It is observed that the width of the transition (defined by the 10% - 90% criterion) is at most 10 K for the higher Zn content and only a few K for the smaller concentrations. However, in a number of cases a "shoulderlike" feature about 30% in height and a couple of K wide is observed, qualitatively similar to the curves obtained from single crystals.4 Since this same feature manifests itself at different Zn concentrations and thus at widely different T_{c} it is very unlikely to be linked to a parasitic phase but rather to a possible small inhomogeneity of oxygen doping of the material. The average linear decrease of T_{c}(_x_) is found to be _dT__c_/_dx_ = 8.8+-0.3 K/% Zn in excellent agreement with the points obtained from the onset of Meissner diamagnetism at low field (typically 100 (G) and in good accordance with other determinations.4,12,15 We note that the onset of Meissner diamagnetism is systematically a few K above the midpoint of the resistive transition, possibly due to either a difference between thermometer calibrations in the two setups or the use of different criteria for "onset" and "mid-transition" temperature.
+
+### Magnetic measurements
+
+Magnetic susceptibility x = _M_/_H_ measurements at fixed field of 5 T for concentrations 0 < x < 10% Zn are depicted in Fig. 7 between 1.9 and 300 K. For the sake of clarity an upward shift of 2x10-7 emu has been introduced for each concentration above 0%. The main features are (i) the presence of a sizable constant susceptibility term near room temperature, (ii) an increasing Curie-like term as the Zn concentration increases, (iii) the conspicuous onset of Meissner diamagnetism for the lowest concentrations.
+
+In order to evaluate the parameters involved in the fit of the magnetization to
+
+\[M(x) = M_{0}(x) + C(x)H/\{T - T_{C}(x)\}\]
+
+[where _C_(_x_) is the Curie constant and T_{C}(_x_) is the Curie
+
+Figure 6: Superconducting transition for all our samples (batches 2, 3, 4, and 6) versus x (%). The resistive transition temperature is defined at midheight of the resistance drop and the magnetic transition temperature at the onset of Meissner effect by extrapolating the steepest slope of _M_(_T_) to M = 0. The sample at x = 10% Zn is not found superconducting below 1.7 K in low field by magnetic measurement (field cooled).
+
+Figure 7: Overview of the susceptibility _M_/_H_ of a selection of ceramic samples of YBa2(Cu1−2 Zn3−)O7 measured in 5 T. Each curve is displaced upward by 2 × 10−7 emu for sake of clarity. The Curie contribution associated with the presence of Zn is obvious. The susceptibility is independent of field except for the lowest temperatures for x = 10%. The contribution of parasitic green phase has been subtracted, as explained in the text, after double integration of the EPR signal due to Y3BaCuO3. This correction is at most 10% of the measured Curie contribution.
+
+  temperature, not to be confused with T_{c}(x)] a series of field-cooled magnetization curves were taken between 100 G and 5 T, as shown in Fig. 8 for the 5% Zn compound. At this stage the contribution of the magnetization of Y2BaCuO5 was subtracted from the total magnetization. This was achieved for each sample by first measuring the intensity of the EPR signal (which we find identical to that of the green phase in shape, width, and g factors) and comparing it with that of a known quantity of the pure green phase. The ratio of the two intensities yields the molar concentration of the green phase present in the sample. This ratio is then multiplied by the measured magnetization of pure Y2BaCuO5 in the same conditions of field and temperature as the sample. The resulting calculated (parasitic) magnetization is subtracted out from the raw data. Since the molar amount of green phase present was found to be of the order of (0.15+-0.1)% the correction to the magnetization was at most of the order of 10% of the total magnetization and is not likely to be the source of serious errors in the following analysis. The temperature-independent susceptibility originating from the atomic diamagnetism, the Van Vleck paramagnetism of the Cu2+ ions, and the carrier spin contribution is then obtained by extrapolating down to zero on an M versus 1/_T_ plot in the range 150 to 300 K, as shown in Fig. 9. The resulting susceptibility, shown in Fig. 10, is found to be linear in field up to 5 T to within +-2%.
+
+Subtracting this temperature-independent term from the total magnetization allows the determination of C(x) and T_{C}(x) as shown in the plot of (M-M_{0})^{-1} versus T presented in Fig. 11 in the range 50 to 160 K.22 This range is limited at low temperatures by the curvature due to the onset of superconducting fluctuations above T_{c} and at high temperatures by the increasing errors due to the diminishing Curie term. Within this range (and with a similar analysis for the other concentrations) a fairly well-defined Curie contribution is found, extrapolating to T_{C}(5\%) = 24\pm 4 K where the error represents the spread of values of T_{C} extrapolated at each field between 1 and 5 T. This procedure yields the variation of the _T_-independent susceptibility with concentration for 0 < x < 10 % The good relative accuracy on the measured susceptibility allows us to follow the dependence of this quantity as a function of concentration of Zn for 0 < x < 10 %.
+
+The term \chi_{\rm spin}(x) (which would stand for the Pauli sus
+
+Figure 8: Magnetization of YBa2(Cu0.95Zn0.05)3O7 as a function of temperature for various fields between 0.01 and 5 T after correction for the residual green-phase contribution (see text). The Curie component associated with the presence of Zn is obvious together with the Meissner effect onset at T_{c} = 44 K.
+
+Figure 10: Magnetization versus field of the temperature-independent term M_{0} obtained in Fig. 8. The straight line obtained defines the high-temperature susceptibility to within ±1%.
+
+Figure 9: Magnetization of the 5% Zn-doped sample versus 1/_T_. The accuracy of the measured magnetization is about 10−5 emu/g. This, and the linear behavior versus 1/_T_ observed, allow an overall relative precision of the order of ±2% for the _T_-independent magnetization M_{0} as determined by extrapolation at 1/_T_ = 0.
+
+  ceptibility for a normal metal) is then obtained after subtraction from the measured constant term \chi_{0} of the atomic diamagnetism \chi_{D} calculated from Ref. [23] and by subtracting \chi_{\rm{V}\!\!V}, the average Van Vleck contribution of the Cu^{2+} ions.[23]^{-}[25] Care was taken, however, to subtract only the contribution of the remaining Cu^{2+} in the lattice, i.e., taking into account that each Zn atom suppresses the Van Vleck term associated with each replaced Cu atom. The overall variation of \chi_{\rm{spin}} is plotted versus x in Fig. 12. A linear decrease is observed corresponding to
+
+\[\chi_{\rm{spin}}(x) = \chi_{0}(x)-(1-x)\chi_{\rm{V}\!\!V}-\chi_{D}\] \[= (5.6\pm 0.4)-(0.13\pm 0.02)x\]
+
+in units of 10^{-7} (emu G^{-1} g^{-1} %^{-1}).
+
+A linear decrease with x is also found for T_{C}(x) as shown in Fig. 13. Since at low concentration the magnitude of the Curie term becomes small and the superconductivity sets in at higher temperatures, the determination of T_{C} is most accurate at higher concentrations. This determination becomes meaningless at zero concentration. The best fit is represented by T_{C}(x)\!=\!(57\pm 6)(1\!-\!0.1x) K, reflecting the large uncertainty near x\!=\!0.
+
+The Curie constant obtained from a 1/(M\!-\!M_{0}) versus T plot similar to Fig. 11 is represented versus x in Fig. 14 up to x\!=\!10%. The scatter of the data, about \pm 10% for each concentration, represents that of the determination of the Curie constant at different fields (between 1 and 5 T in general) together with the effect of the slight deviation from linearity observed in Fig. 11. As is obvious in Fig. 14 the Curie constant is found to increase with x at a rate of (2.3\pm0.9)\times 10^{-6} emu K G^{-1} g^{-1}\%^{-1}. However, a systematic deviation from this linear increase is apparently linked with the batch origin of different samples. This batch-to-batch scatter is larger than that of each determination and is dominant source of error.
+
+Figure 11: Determination of the Curie temperature and the Curie constant for YBa_{2}(Cu_{0.95}Zn_{0.05})_{1}O_{7}. The temperature range over which the data are fitted to a Curie-Weiss law is limited at low temperature by the onset of Meissner diamagnetic fluctuations (here about 10 K above T_{c}) and at high temperature (here 160 K) by the large errors introduced when M\!-\!M_{0} is smaller than 5\times 10^{-4} emu/g. Within this range the Curie constant is fairly well defined at each field to within about 10% together with the field-independent Curie temperature 24\pm5 K. Similar data are observed for all concentrations with varying accuracy; the larger the Zn concentration the better, since the width of the temperature range of the fit increases with x.
+
+Figure 12: Spin susceptibility of YBa_{2}(Cu_{1-x}Zn_{x})_{3}O_{7}\chi_{\rm{spin}}(x) versus Zn concentration. \chi_{\rm{spin}}(x) is obtained from the constant susceptibility by subtracting the diamagnetic and Van Vleck contributions of the remaining Cu^{2+} atoms. The accuracy is about \pm 5%.
+
+Figure 13: Curie temperature T_{C}(x) of the magnetic contribution associated with Zn versus x (%). T_{C}(x) is taken from plots similar to Fig. 11. The accuracy is strongly dependent on x, as shown.
+
+  If the magnetic moment \mu represented by this Curie term is associated with the presence of N_{Zn} Zn atoms then
+
+\[\left[\frac{\mu}{\mu_{B}}\right]^{2}=\frac{3k_{B}C}{N_{Zn}\mu_{B}^{2}}\]
+
+and \mu(Zn/123)/\mu_{B} = 0.64\pm0.15, where the uncertainty reflects mainly the batch-to-batch scatter.
+
+Finally, we plot in Fig. 15 the relation between the decrease of the spin susceptibility \chi_{\rm spin}(x) and the increase of the Curie constant C(x) taking x as an implicit parameter. We see in Fig. 15 that an approximately linear decrease with a slope of \Delta\chi_{\rm spin}/\Delta C = (- 5.1\pm0.3 ) \times 10^{-3} K^{-1} is followed, with somewhat less scatter than the individual \chi_{\rm spin}(x) or C(x) plots. This might reflect the fact that part of the batch-to-batch scatter is somehow reduced when comparing these two intrinsic properties, as will be discussed below.
+
+## IV Discussion
+
+### Resistivity
+
+The validity of our set of results obtained on ceramic samples as compared to those of Refs. [4] and [26] on single crystals needs to be qualified. On one hand, we do know from the chemical solid-state reaction and from the apparent absence of a parasitic phase related to the presence of Zn that the nominal concentration of Zn is indeed introduced within the YBa_{2}Cu_{3}O_{7} lattice. On the other hand, the results from ceramic samples are known to be difficult to analyze in terms of absolute values of resistivity for two major reasons.
+
+(i) The role of the "intergrain" scattering is not known nor is possible to quantify it for each sample. Our best determination is that obtained from the residual resistivity for x = 0 samples \rho(x = 0) = 30\pm5 \muD cm which, fortunately, is not large compared to the effect of adding 5% of Zn atoms; in other words the mean free path due to 5% Zn is much smaller than the grain size. However, this method _assumes_ that this residual "intergrain" resistivity remains constant with variable Zn content.
+
+(ii) Another, even more serious source of error is that due to the unknown fraction of conductivity along the c axis. Indeed, in a random mixture of disoriented crystals the overall resistivity will reflect mainly the behavior of the more conducting ab plane, while the c axis contribution (of the order of 4% of that of the ab plane) will be neglected. This state of affairs is indeed expected in a perfectly packed, randomly oriented mixture of spherical-shaped crystals.[27] However, in actual YBCO ceramics most of the grains are in the shape of platelets parallel to the ab plane and, moreover, the distribution of voids between grains (responsible for the decrease of density as compared to the x-ray value [about (20\pm10)% ]) is correlated with the orientation and shape of the grains. It follows that the simplifying hypothesis consistent with the effective medium conductivity[27] that the actual conductivity would be \frac{2}{3}(ab) and \frac{1}{3}(c), added in parallel, is, at best, a higher limiting value.
+
+However, we can write that the observed rate of increase, with Zn concentration, of the slope (d\rho/dT) is the same in ceramic and single crystals:
+
+\[\frac{d^{2}\rho_{\rm cer}}{dT\,dx}=\frac{d^{2}\rho_{\rm cryst}}{dT\,dx}\ .\]
+
+For each concentration we define the ratio of the (unknown) geometrical aspect (S/l) of the ceramic versus
+
+Figure 14: Curie constant C_{c}(x) of the magnetic contribution associated with Zn versus x. The Curie constant is taken as the average slope at each field from plots similar to Fig. 11. The accuracy is determined primarily by the slight deviation from linearity present in this plot. The batch dependence of the Curie constant is quite apparent. The average increase corresponds to a moment of 0.64\pm0.15 \mu_{B}/Zn site.
+
+Figure 15: Spin susceptibility \chi_{\rm spin}(x) versus Curie constant C_{c}(x) for YBa_{2}(Cu_{1-x}Zn_{x})_{3}O_{7}. This figure shows that the increase of the Curie constant is tightly correlated with the decrease of the average spin susceptibility and allows us to compare different batches in the same way. This fact strongly supports a local model for the magnetism associated with the Zn substitution in the CuO_{2} planes.
+
+  that of the single crystal by
+
+\[\alpha = \frac{d\rho_{\rm cer}/dT}{d\rho_{\rm cryst}/dT} = \frac{(S/I)_{\rm cer}}{(S/I)_{\rm cryst}}\;\;,\]
+
+which is represented versus x in Fig. 16.
+
+In this figure it appears that for most of the batches (except no. 4) the apparent geometrical ratio \alpha between a ceramic at a given Zn concentration and the corresponding single crystal is independent of Zn concentration within our range of concentration (for batches 2 and 3 it is close to 5\pm1). Once this is acknowledged then our procedure consists in simply scaling the slope d\rho/dT of the ceramic with that interpolated from the measured single crystal.[4] Indeed, this assumes a constant, material-independent ratio between the thermal scattering rate and that of the Zn impurities, but not necessarily their mutual independence (Mathiessen's law).
+
+Concerning the interpretation of the dependence of Zn concentration of d\rho/dT two approaches can be used.
+
+(i) The fact that the slope d\rho/dT increases with increasing Zn content at a rate of d\rho(x)/dT=(1 + bx)d\rho(0)/dT (with b= 0.27\pm0.05 per % Zn) may be compared to the same behavior observed by Wuyts _et al._[28] with variable oxygen doping: this effect might offer a measure of the maximum possible change of carrier density as a function of Zn content which should be taken into account in our analysis.[29] More precisely, when \Omega_{\gamma-\delta} changes from \delta= 0 to \delta= 0.4 the slope d\rho(\mbox{O}_{\delta})/dT changes by a factor of 4.7. Correspondingly, the change of slope as a function of Zn amounts to a factor of 0.27 for 1% Zn. If we suppose that the change of slope as a function of Zn is entirely due to a change in carrier concentration, then we determine the apparent "\delta_{\rm app}" for 1% Zn from the above factors:
+
+\[\delta_{\rm app}(1\%\ {\rm Zn}) \leq 0.03\;.\]
+
+This number is an upper limit of the carrier density change by Zn doping. Extrapolating this to 10% of Zn \delta_{\rm app}(10\%\ {\rm Zn})= 0.3 shows that this effect alone is not sufficient to account for the nonmetallic behavior observed. Indeed, at 10% of Zn the resistivity at room temperature is of the order of 1200 \mu\Omega cm, well within the localization regime or near the percolation threshold (in contrast with pure YBCO with \delta= 0.3).
+
+(ii) Another possibility, suggested from the theoretical analysis of the t-J model,[30] is that the apparent breakdown of Matthiessen's law observed is intrinsic to the two-fluid picture (holons and spinons) of the model. In that case the resistivity is written as
+
+\[\rho(x,T) = \rho(x) + \rho(T)\left[1 + \frac{1}{J}\frac{\#}{\tau(x)}\;\right]\;,\]
+
+where the increased temperature dependence of \rho(T) is explicitly related to the inverse of the exchange constant J and the collision rate \tau(x) induced by the presence of Zn. In our case the measured increase of slope d\rho/dT with x yields, for x= 5% Zn, bx= 1.35 and with 1/\tau(x= 5%)= 3\times 10^{14} s^{-1} leads to
+
+\[J\left[{\rm YBa}_{2}({\rm Cu}_{1-x}{\rm Zn}_{x}){\rm O}_{7} \right] \cong 1700\ {\rm K}\;,\]
+
+which is of the right order of magnitude for J (Ref. [31]) (we assume that J is independent of x).
+
+We now turn to the discussion of the scattering cross sections. The diffusion cross section of Zn is given in 3D by
+
+\[A_{{\rm Zn}/{\rm YBCO}}^{\rm 3D} = \frac{e^{2}}{\#}\frac{1}{k_{F}}\frac{d\rho_{0}}{dx}\;,\]
+
+where k_{F} is the Fermi wave vector of YBa_{2}Cu_{3}O_{7}. Taking
+
+\[n\left[1\;e^{+}/{\rm cell}\right] = k_{F}^{3}/3\pi^{2} = 5.78\times 10^{21}e^{+}/{\rm cm}^{3}\]
+
+yields A_{{\rm Zn}/{\rm YBCO}}^{\rm 3D} = 172\pm 20 A^{2}, corresponding to a "spherical" radius of A_{{\rm Zn}/{\rm YBCO}}^{\rm 3D} = 7.4\pm 0.4 A. Taking the same method as Chien, Wang, and Ong[4] with our determination of resistivity yields
+
+\[A_{{\rm Zn}/{\rm YBCO}}^{\rm 2D} (n = 0.25e^{+}/{\rm Cu}^{2+}\ {\rm in\ plane}) = 8.45\pm 0.50\ {\rm\AA}\]
+
+where A_{{\rm Zn}/{\rm YBCO}}^{\rm 2D} is the 2D disk scattering diameter. Analyzing the data of Semba and Matsuda[26] on Zn-doped single crystals yields A_{{\rm Zn}/{\rm YBCO}}^{\rm 2D} = 4.92 A compared to Chien, Wang, and Ong's 4.2 A.[4] The same type of data from Xiao _et al._[32] on Zn-doped La_{1.85}Sr_{0.15}Cu_{1-x}Zn_{x}O_{4} ceramic yields
+
+\[A_{{\rm Zn}/{\rm LSCO}}^{\rm 2D} (n = 0.15\ e^{+}/{\rm Cu}^{2+}{\rm in\ plane}) = 9.2\ {\rm\AA}\]
+
+(without normalization), which compares well with our determination on YBa_{2}Cu_{3}O_{7} [after normalization of the slope d\rho(x)/dT].
+
+We note that these results depend on the choice
+
+Figure 16: Ratio of the thermal slope d\rho/dT measured on the different ceramic batches to that of a single crystal in the ab plane (Ref. [4]). This factor measures the effective geometrical aspect ratio of the samples. Except for batch 4 it is observed to be approximately constant as a function of Zn concentration. This factor is used in the analysis to normalize the curves \rho(T) and to extract the residual resistivity.
+
+  n=0.25\ e^{+}/Cu^{2+} in plane. From a first-principle band-structure calculation [33] another suggested choice is n=0.08\ e^{+}/Cu^{2+} in plane. In this case a reduction by a factor 3.1 is calculated for the scattering cross section as shown in Table 3.
+
+We further remark that the data of Semba and Matsuda [26] enable one to evaluate the resistivity cross section of Zn in the c direction of YBa_{2}(Cu_{1-x}Zn_{x})_{3}O_{7}. In a 3D model using n=1\ e^{+}/cell (k_{F}=5.55\times 10^{7} cm^{-1}) and d\rho_{c}(T=0)/dx=514\ \mu\Omega cm/% we get A_{Zn/YBCO}^{3}=1420\pm 400 A^{2}. It is difficult to draw conclusions from this admittedly large cross section since the corresponding calculated mean free path is 1 A, i.e., beyond the Ioffe-Regel metallic limit. [34]
+
+In this respect it is tempting to analyze the upward deviation from linearity of the x dependence of \rho(x,0) for x>5% by a weak-localization approach. [35] Writing
+
+\[[\rho(x,0)]^{-1}=\frac{\#k_{F}}{ne^{2}}\frac{1}{l(x)}\ \left[1-\frac{3\pi^{2}}{[ k_{F}l(x)]^{2}}\ \right]\]
+
+and using the mean free path l^{-1}=xNA_{Zn/YBCO} where N is the number of Cu sites per unit volume, n is the hole density, and A_{Zn/YBCO} the scattering cross section, allows us to fit \rho(x,0) as the sum of a linear term and a cubic term in x. This fit is represented in Fig. 5 and allows one to determine A_{Zn/YBCO}^{2D} from the whole set of data, including the nonlinear part. Taking n=0.25e^{+}/ Cu^{2+} in plane, we find A_{Zn/YBCO}^{2D}=7.7\pm 2.1 A, to be compared with A_{Zn/YBCO}^{2D} obtained from the linear part (8.45\pm 0.50 A). This shows indeed that the upward curvature of the \rho(x,0) dependence upon x is more likely to be due to the onset of weak localization rather than to an undetected phase separation for the Zn doping above 5%. This further indicates that the solubility for Zn in YBa_{2}Cu_{3}O_{7} is at least larger than 8% in complete agreement with our findings from Fig. 1. A similar conclusion was reached by Cieplak _et al._ on the La_{1.85}Sr_{0.15}Cu_{1-x}Zn_{x}O_{4} system. [36]
+
+The partial conclusion of this part of the discussion is that the scattering cross section of Zn is larger than the [CuO_{2}] unit cell (14.8 A^{2}) and of the order of that of the (s-wave) unitary limit. This corresponds to a specific resistivity increase given by
+
+\[\left[\frac{d\rho_{0}}{dx}\ \right]_{unitary\ {\rm limit}}^{3D}=\frac{\#}{e^{2}}\frac{4\pi}{k_{F}}\frac{N}{n}=28\ \mu\Omega\ {\rm cm}/\%\]
+
+for N/n=3 sites per carrier for one unit cell.
+
+This large cross section cannot be reconciled with any type of Coulomb potential scattering proportional to the square of the effective charge Z_{eff} (at most 1) of Zn in the [CuO_{2}] plane. This may indicate that the scattering potential for Zn has an extended spatial width. However, our analysis is hampered at present by the lack of a proper description of the resistivity in ceramics of anisotropic conducting crystals of arbitrary shape and density factor, taking into account the possibility of an anisotropic scattering cross section of the impurities.
+
+### Magnetic properties
+
+The discussion of the magnetic properties investigated concerns the x dependence of the temperature-independent term X_{\rm spin}(x) and that of the Curie term \chi_{C}(x,T). In order to separate out these two contributions (after removing that of the parasite 211 phase as explained above) we write that the temperature-independent Van Vleck term only applies to the occupied Cu sites and that the atomic diamagnetic part is identical for Cu and Zn. Then
+
+\begin{table}
+\begin{tabular}{c c c c c c c c} \hline  & & k_{F} & E_{F} & A^{\ast} & \chi_{\rm Pauli} & \rho(E_{F}) & \\ D & n & (cm^{-1}) & (eV) & Zn/123 & (emu g^{-1} cm^{-3}) & (state/eV f.u.) & Footnote \\
+3D & 5.78\times 10^{20} & 5.553\times 10^{7} & 1.175 & 172\pm20 & 3.97\times 10^{-7} & 1.3 & b \\  & (e^{+}/cm^{3}) & & & (Å^{2}) & & & \\
+2D & 1.69\times 10^{14} & 3.256\times 10^{7} & 0.404 & 8.45\pm0.5 & 3.85\times 10^{-7} & 0.62 & c \\  & (e^{+}/cm^{2}) & & & (Å) & & & \\
+2D & 0.54\times 10^{14} & & & & & & d \\  & (e^{+}/cm^{2}) & & & & & & \\
+3D & & 3.587 & & & 0.99 & \\
+3D & & & & (35\pm1)\times 10^{-7} & 11.1\pm0.3 & e \\  & & & & X_{\rm spin} experimental & experimental & \\ \hline \end{tabular}
+\end{table}
+Table 3: Physical parameters of YBa_{2}Cu_{3}O_{7} in 2D and 3D models.
+
+  \[\frac{[M(H,T,x)-M_{211}(H,T)]}{H}\] \[= \chi_{\rm tot}(x,T) = \chi(x,\infty)+\chi_{C}(x,T)\] \[= \chi_{\rm dia}+(1-x)\chi_{\rm VV}({\rm Cu})\] \[+\chi_{\rm spin}(x)+\frac{C(x)}{T-T_{C}(x)}\ \ .\]
+
+As explained in the experimental section, \chi(x,\infty) is obtained from \chi_{\rm tot}(x,T) by the extrapolation to T\to\infty of the Curie term. A simple way to obtain \chi_{\rm spin}(x) consists in subtracting \chi_{\rm dia}({\rm YBa_{2}Cu_{3}O_{7}})=-2.63\times 10^{-7} emu G^{-1} g^{-1},[23] and further subtracting the powder average of the Van Vleck Cu term taken from Ref. 25. However, we can expect, _a priori_, \chi_{\rm spin}(x) to be also anisotropic; thus we write with obvious notations
+
+\[\chi(x,\infty)= \chi_{\rm dia}({\rm YBa_{2}Cu_{3}O_{7}})+\frac{3}{3}[\chi_{\rm spin }^{ab}(x)+(1-x)\chi_{\rm VV}^{ab}]\] \[+\frac{1}{3}[\chi_{\rm spin}(x)+(1-x)\chi_{\rm VV}^{c}]\ \ .\]
+
+The anisotropy of \chi(x,\infty) along a, b, and c has been measured by Lee and Johnston;[24] hence, for x=0,
+
+\[\frac{\chi_{\rm spin}^{ab}+\chi_{\rm VV}^{ab}+\chi_{\rm dia}}{\chi_{\rm spin}^ {c}+\chi_{\rm VV}^{c}+\chi_{\rm dia}}=0.62\pm 0.03\ \ .\]
+
+The two above relations, together with the calculated value[24] of \chi_{\rm VV}^{ab}=1.37\times 10^{-7} emu G^{-1} g^{-1} and \chi_{\rm VV}^{c}=3.20\times 10^{-7} emu G^{-1} g^{-1}, allow us to determine
+
+\[\chi_{\rm spin}({\rm YBa_{2}Cu_{3}O_{7}})= \frac{3}{3}\chi_{\rm spin}^{ab}+\frac{1}{3}\chi_{\rm spin}^{c}\] \[= (5.38\pm 0.15)\times 10^{-7}\ {\rm emu}\,{\rm G}^{-1}\,{\rm g}^{-1}\]
+
+and the anisotropy ratio \chi_{\rm spin}^{ab}/\chi_{\rm spin}^{c}=0.90\pm 0.05. Fortunately this set of values turns out to depend in a rather noncritical, almost linear way on the measured quantities so that the error involved in their derivation is close to that of the measurements. Thus we make the important remark the practically all the susceptibility anisotropy of {\rm YBa_{2}Cu_{3}O_{7}} in the normal state is due to that of the Van Vleck term of Cu; hence the remaining \chi_{\rm spin} is nearly _isotropic_ in agreement with Batlogg[37] and Mila and Rice.[25] Furthermore, since \chi_{\rm spin}(x) decreases only slowly with increasing x, this result appears to hold as well in the presence of Zn doping. In the rest of this paper we will consider this to be the case and we will not deal with an anisotropic \chi_{\rm spin}(x).
+
+We can now compare the above value of \chi_{\rm spin} with that calculated from the bare Pauli susceptibility taking one hole per unit cell n=5.78\times 10^{21}\ e^{+}/{\rm cm}^{3}. We find
+
+\[\chi_{\rm Pauli}^{\rm bare}({\rm YBa_{2}Cu_{3}O_{7}}) = \frac{1}{\pi}\left[\frac{3n}{\pi}\right]^{1/3}\left[\frac{m}{ \pi^{2}}\right]\mu_{B}^{2}\] \[= 3.97\times 10^{-7}\ \frac{\rm emu}{{\rm G}^{-1}\ {\rm cm}^{-3}}\ \ ,\]
+
+corresponding to 0.62\times 10^{-7} emu G^{-1} g^{-1} and to a bare density of states \rho(E_{F})=1.3 state/eV f.u. This value is a factor of 9 smaller than the determined experimentally as above for \chi_{\rm spin}(x) and would be further diminished by 2^{1/3} (hence a factor of 11.3 instead of 9) if we assumed only a partial charge transfer of 0.5 electron into the planes as do Chien, Wang, and Ong.[4]
+
+One brutal way to try to reconcile this order of magnitude discrepancy is to increase the effective mass ratio m^{\star}/m.[38] However, if we adopt this scheme then we expect \chi_{\rm spin} to have the same anisotropy as that of the conductivity, in contradiction with the above conclusions and also with the experimental values of the plasma frequency and the London penetration depth, which are consistent only with m^{\star}/m=2.5\pm 0.5 for n=1\ e^{+}/{\rm f.u}.[39] Also contrary to experimental evidence would be the presence of an (_ad hoc_) large susceptibility enhancement factor. We find a near agreement within the normal-metal model between our determination of \chi_{\rm spin} and the temperature linear coefficient of the specific heat \gamma as determined by Loram, Mirza and Freeman.[40] Indeed, \gamma=1.6\pm 0.2 mJ/g-at. K^{-2} yields \gamma_{n}({\rm YBa_{2}Cu_{3}O_{7}})=20.8\pm 2.6 mJ/mol K^{-2}. We express \chi_{\rm spin} and \gamma_{n} in terms of their respective densities of states by
+
+\[\rho_{\chi}(E_{F})=\chi_{\rm spin}/\mu_{B}^{2}=11.1\ {\rm state/eV}\,{\rm f.u}.\]
+
+and
+
+\[\rho_{\gamma}(E_{F})=3\gamma_{n}/\pi^{2}k_{B}^{2}=8.8\ {\rm state/eV}\,{\rm f.u}.\]
+
+leading to a Wilson ratio equal to 1.26. We note that the (1+\lambda) phonon coupling correction to \gamma and the spin enhancement factor of \chi_{\rm spin} will not tend to cancel each other but rather act to further increase this ratio.
+
+Finally we remark that this value of the spin susceptibility measured for one mole of Cu (3 atoms Cu/f.u.), \chi_{\rm spin}({\rm YBa_{2}Cu_{3}O_{7}})=1.2\times 10^{-4} emu/G mol Cu^{2+}, compares in order of magnitude with that of pure paramagnetic CuO (at room temperature) (Ref. 41), \chi({\rm CuO},300\ {\rm K})=2.12\times 10^{-4} emu/G mol Cu^{2+}, where the Van Vleck and diamagnetic parts nearly cancel each other.
+
+We summarize this discussion by Table 4 where the susceptibilities of various cuprates compounds in the normal state are indicated: they appear to all display the same order of magnitude (per mole Cu), consistent with a Fermi-liquid model, or suggesting a contribution from antiferromagnetic fluctuations possibly related to those observed in CuO above the Neel temperature.[42]
+
+We discuss now the change of \chi_{\rm spin}(x) as a function of doping with Zn. As shown in Fig. 12 the measured value of \chi_{\rm spin}(x) decreases linearly with x at a rate
+
+\begin{table}
+\begin{tabular}{c c c} Compounds & \chi_{\rm tot} (300 K) \\ (emu G^{-1}/mol Cu^{2+}) & Reference \\ CuO & 2.12\times 10^{-4} & 40 \\ La_{2}CuO_{4} & 0.58\times 10^{-4} & 24 \\ La_{1.9}Sr_{6.1}CuO_{4} & 1.53\times 10^{-4} & 24 \\ YBa_{2}Cu_{3}O_{6} & 0.43\times 10^{-4} & 24 \\ YBa_{2}Cu_{3}O_{7} & 1.05\times 10^{-4} & Present work \\ ({\rm Tl_{0.9}}Pb_{0.3}Sr_{2}CaCu_{3}O_{7} & 1.07\times 10^{-4} & 45 \\ \end{tabular}
+\end{table}
+Table 4: Comparison of the temperature-independent susceptibility of different compounds.
+
+  d\chi_{\rm spin}/dx=(-1.3\pm 0.2)\times 10^{-8} emu G-1 g-1 %-1. As evidenced from NMR on 63Cu, 17O,43 and 89Y,44 where no decrease of Knight shift is found upon doping with Zn, the bulk susceptibility (away from the Zn impurity) remains unaffected. In as much as Zn doping does not change the average hole doping, no change of the spin susceptibility can be expected _a priori_. It is then tempting to attribute the observed change in \chi_{\rm spin}(x) to a local modification of the electronic configuration around each Zn impurity. We further remark that the measured rate of decrease of \chi_{\rm spin}(x) is significantly faster (by a factor of 2.3) than what would be expected if the only effect of Zn doping were to replace a Cu site by a (nonmagnetic) Zn site. In the latter case one would expect a simple dilution to take place at a rate
+
+\[\begin{array}{l} \left[ {d\chi_{\rm spin}/dx} \right]_{\rm dilution}\\ = \left( {-0.56\pm 0.2} \right)\times 10^{-8}\ {\rm emu}\ {\rm G}^{-1}\,{\rm g}^{-1}\,{\rm \%}^{-1}\ .\end{array}\]
+
+At this point it is important to be aware that the way we have defined the Curie contribution supposes that the Pauli susceptibility remains temperature independent with Zn doping. This is no longer true when the weak-localization limit is reached. In this case, the 3D correction \Delta\chi_{\rm spin}(x) to the susceptibility35 enables us to calculate the ratio \Delta\chi_{\rm spin}(x)/\chi_{\rm spin}(x) for one unit cell as
+
+\[\Delta\chi_{\rm spin}(x)/\chi_{\rm spin}(x)=\frac{3}{2}\frac{U}{E_{F}}(k_{f}l )^{-3/2}\left[\frac{k_{B}T}{E_{F}}\right]^{1/2}\ ,\]
+
+where U is the Stoner factor found from the field-dependent part of the Hartree term of the free energy. The correction is at most of the order of 10-2 at T = 100 K with (_U_/_E__F_) = 0.1 and k_{F} l = 1 and does not appreciably change our conclusions.
+
+In the next section we will concentrate on the Curie term appearing associated with the Zn site. In order to reconcile this decrease of \chi_{\rm spin}(x) with the associated emergence of the Curie susceptibility we first calculate the expected relation between the change of the average Pauli susceptibility and that of the Curie constant in a jellium model (with one electron per site) where we suppose that the effect of replacing one atom of the jellium by one vacancy of concentration x results in a free magnetic moment (at the expense of the local hole density). Thus
+
+\[\chi_{\rm Pauli}(x)=\mu_{B}^{2}\rho_{\rm jellium}(E_{F})(1-x)\]
+
+and
+
+\[C(x)=\mu_{B}^{2}Nx/3k_{B}\]
+
+(_N_ is the number of sites per unit volume), which expresses that the Pauli susceptibility is not modified in the bulk but is suppressed on the site of the vacancy; the resulting localized electron gives rise to the Curie constant. The relation sought is
+
+\[\frac{\Delta\chi_{\rm Pauli}/\Delta x}{\Delta C/\Delta x}=-3k_{B}\rho_{\rm jellium}(E_{F})/N=\frac{9}{2}\ \left[\frac{n}{N}\right]\frac{1}{T_{F}}\]
+
+taking \rho_{\rm jellium}(E_{F})=3n/2k_{B}T_{F}, where n is the number of carriers per unit volume and T_{F} the jellium Fermi temperature. We find \Delta\chi/\Delta C=-3.3\times 10^{-4} K-1, with T_{F} = 13 620 K and n = N. In order to compare this number with our measurements we take into account the following factors:
+
+(i) _n_/_N_ = 1/3 for YBa2Cu3O7;
+
+(ii) the density of states to be used is a factor 8.54 larger than obtained from the calculated Pauli susceptibility;
+
+(iii) the magnetic moment associated with the Curie term is only 0.64 m_{B}.
+
+With these appropriate factors we calculate \Delta\chi/\Delta C=-2.2\times 10^{-3} K-1, to be compared with Fig. 14 where the slope is \Delta\chi/\Delta C=-(4.4\pm 0.3)\times 10^{-3} K-1. This order of magnitude agreement is quite encouraging for a local model associated with the effect of Zn in [CuO2] planes.
+
+If the Wilson ratio found for x = 0 is not modified by the presence of Zn since Zn is modeled to have only a local effect on each site, then one should expect \gamma_{n}(x) to decrease in a similar way as \chi_{\rm spin}(x). It is not obvious whether the present accuracy of the specific-heat measurement can be sensitive to the 20% decrease observed for \chi_{\rm spin}(x) for 0% \leq x\leq 10%.40
+
+A support to our present finding is given by the measurements46 of the temperature-independent susceptibility of YBa2Cu3O7 \rm YBa_{Cu}3O6 [\chi_{\rm spin}(4\%)=2.3\times 10^{-7} emu G-1 g-1]. It is found in this case46 that the high-temperature limit of susceptibility decreases from YBa2Cu3O6 [\chi_{\rm spin}(0\%)=2.7\times 10^{-7} emu G-1 g-1] at a rate d\chi_{\rm spin}/dx=-1.1\times 10^{-8} emu G-1 g-1 %-1. This rate is very close to that (-1.3\times 10^{-8} emu G-1 g-1 %-1) found in the present work on YBa2Cu3O7. This fact shows that the variation of \chi_{\rm spin}(x) occurs irrespective of that of \chi_{\rm Pauli}.
+
+In order to go further in the interpretation of the magnetic properties of Zn in YBa2Cu3O7 one needs a microscopic model of Zn dissolved in a [CuO2] plane, which we lack. Hence the following considerations might only serve as a general guide for such a model. The most glaring questions are first how the presence of Zn leads to the appearance of a magnetic moment and secondly where does this magnetic moment appear? If the Zn atom site is discarded (as already shown by Cieplak _et al_.36 on La1.85Sr0.15CuO4 using Zn, Ga, and Al as dopants) then, by symmetry, the first four Cu neighbors are the most likely to be involved. This extended Zn perturbation effect is indeed allowed by the size of the scattering cross section measured which encompasses the first Cu neighbors. This is further strongly suggested by the presence of satellites of the 89Y NMR line separated from the main NMR line by a local average hyperfine field following a Curie law.44 Accepting the idea (originally proposed by Arai and Shimizu1 on the basis of magnetic and transport properties of Fe-doped YBCO) that the magnetic moment might be distributed among the four Cu near-neighbor sites implies that each Cu moment is only 0.32_m__B_ per site (N_{\rm Zn}\mu_{\rm Zn}^{2}=4N_{\rm Zn}\mu_{\rm Cu}^{2}). It also implies that these four moments experience a ferromagnetic coupling since they are related by the second-neighbor position with each other (Fig. 17). This next-nearest-neighbor fer  romagnetic coupling should be related to that of the bulk [CuO_{2}] planes and is proposed to be primarily responsible for the observed Curie temperature T_{C}(x). On this basis, it is quite tempting to give the following interpretation to the observed decrease of the Curie temperature with increasing x. Each isolated Zn sites induces a magnetic moment composed of four near-neighbor Cu atoms each contributing 0.32\mu_{B}. These four moments experience a ferromagnetic coupling resulting in a Curie temperature T_{C}(x\to 0)\cong(57\pm 6). K. Upon increasing the Zn concentration these moments begin to experience the long-distance spin-spin interaction resulting in an antiferromagnetic average quite similar to the situation in spin glasses [47]. The observed decrease of the Curie temperature with x is then simply due to the superposition of a fixed, short-range ferromagnetic coupling and a variable, long-range antiferromagnetic one. This qualitative model does not explain why these two opposite effects should compensate each other for x=10\% but does predict that the low-temperature magnetic state at this concentration should be spin-glass-like, although the (apparent) Curie temperature vanishes.
+
+## V Conclusion
+
+In this work we have performed transport and magnetic measurements of Zn dissolved in YBCO in order to get a more detailed knowledge of the effect of Zn in the normal state and possibly in the superconducting state of YBCO. We first observe that T_{c} is indeed strongly suppressed by Zn at a rate of 8.8 K/%. Our conclusion concerning the resistivity measurements, although hampered by the fact that our samples are in the form of ceramics, is that Zn presents a large resistivity 2D cross section of diameter 7.7\pm0.4 A about a factor of 2 larger than that obtained in single crystals [4, 26] in the ab plane. The origin of this discrepancy is not clear and may have to do with the fact that we tend to average transport properties in the ab and c directions: indeed, the apparent scattering cross section is huge in the c direction [26]. This averaging is also involved in increasing the apparent temperature-dependent resistivity.
+
+The paradoxical appearance of a magnetic moment associated with the presence of Zn doping leads to an average magnetic moment of 0.64\mu_{B}/Zn according to the measured Curie constant as a function of x with, however, a scatter in the observed values which might imply that not all the Zn atoms are localized in the [CuO_{2}] planes. This scatter is reduced by comparing the decrease of the temperature-independent spin susceptibility to the increase of the Curie constant for each concentration, consistent with a localized model for the Zn perturbation. This model implies that the four near-neighbor Cu sites are magnetic (with 0.32\mu_{B}/Cu) and experience a ferromagnetic coupling between them together with the more usual long-distance antiferromagnetic coupling to other Zn sites.
+
+Thus is appears that YBa_{2}(Cu_{1-x}Zn_{x})_{3}O_{7} behaves in a way quite similar to that observed in La_{1.85}Sr_{0.15}CuO_{4} for Zn and other a_priori_ nonmagnetic dopants such as Ga and Al which also strongly suppresses the superconductivity. There is at present no microscopic model of these effects: this work (and the preceding ones) show that we deal here with a rather fundamental and original aspect of the high-temperature superconducting materials as compared to classical superconductors.
+
+###### Acknowledgements.
+
+ We are grateful for numerous discussions with our colleagues in Orsay, Saclay, and Paris, particularly P. Mendels, H. Alloul, G. Collin, R. Villeneuve, A. Revcolevschi, A. George, M. Gabay, and N. Bontemps. We are indebted to J. Imry, A. Abrikosov, J. R. Cooper, and E. Abrahams for illuminating a number of points and to N. Bontemps for a critical reading of the manuscript. We thank K. Semba and D. J. C. Walker for sending us copies of their work before publication. This work is supported by the NEDO grant "Short coherence length in HTSC."
+
+## References
+
+* [1] J. Arai and H. Shimizu, Physica C **161**, 475 (1989).
+* [2] T. Tommasa, Y. Nakamichi, and K. Kumagai, J. Phys. Soc. Jpn. **59**, 3471 (1990); C. Y. Yang, A. R. Moodenbaugh, Y. L. Wang, Y. Xu, S. M. Heald, and D. O. Welch, Phys. Rev. B **42**, 2231 (1990).
+* [3] R. Liang, T. Nakamura, H. Kawaji, M. Itoh, and T. Nakamura, Physica C **170**, 307 (1990).
+* [4] T. R. Chien, Z. Z. Wang, and N. P. Ong, Phys. Rev. Lett. **67**,
+
+Figure 17: Model for Zn impurity environment in CuO_{2} plane of YBa_{2}(Cu_{1-x}Zn_{x})_{3}O_{7}. The four near-neighbor Cu sites are within the limit of the 2D resistivity cross section diameter and are supposed to bear a magnetic moment of 0.32\mu_{B}. The dotted lines indicate a ferromagnetic coupling and the continuous line an antiferromagnetic coupling. The remaining part of the CuO_{2} plane is supposed unaffected.
+
+  2088 (1991).
+* [2] Gang Xiao, M. Z. Cieplak, J. Q. Xiao, and C. L. Chien, Phys. Rev. B **42**, 8752 (1990).
+* [3] Gang Xiao, M. Z. Cieplak, and C. L. Chien, Phys. Rev. B **42**, 240 (1990).
+* [4] T. Nakano, M. Oda, C. Manabe, N. Momono, Y. Miura, and M. Ido, Phys. Rev. B **49**, 16 000 (1994).
+* [5] H. Alloul, T. Ohno, H. Casalta, J. F. Marucco, P. Mendels, J. Arabski, G. Collin, and M. Mehbod, Physica C **171**, 419 (1990).
+* [6] P. Mendels, H. Alloul, J. F. Marucco, J. Arabski, and G. Collin, Physica C **171**, 429 (1990).
+* [7] H. Alloul, P. Mendels, H. Casalta, J. F. Marucco, and J. Arabski, Phys. Rev. Lett. **67**, 3140 (1991).
+* [8] P. Mendels, H. Alloul, J. H. Brewer, G. D. Morris, T. L. Duty, S. Johnston, E. J. Ansaldo, G. Collin, J. F. Marucco, C. Niedermayer, D. R. Noakes, and C. E. Stronach, Phys. Rev. B **49**, 10 035 (1994).
+* [9] Gang Xiao, M. Z. Cieplak, D. Musser, A. Gavrin, F. H. Streitz, C. L. Chien, J. J. Rhyne, and J. A. Gotaas, Nature **332**, 238 (1988).
+* [10] T. Tamegai, and Y. Iye, Phys. Rev. B **44**, 10 167 (1991); D. J. C. Walker, A. P. Mackenzie, and J. R. Cooper (unpublished).
+* [11] R. Cooper, Supercond. Sci. Technol. **4**, 8181 (1991).
+* [12] J. R. Cooper, S. D. Obertelli, P. A. Freeman, D. N. Zheng, J. W. Loram, and W. Y. Liang, Supercond. Sci. Technol. **4**, 5277 (1991).
+* [13] J. M. Tarascon, P. Barboux, P. F. Miceli, L. H. Greene, and G. W. Hull, Phys. Rev. B **37**, 7458 (1988).
+* [14] R. Villeneuve and G. Collin (private communication).
+* [15] L. Raffo, F. Licci, and A. Migliori, Phys. Rev. B **48**, 1192 (1993).
+* [16] A. M. Finkelstein, V. E. Kataev, E. F. Kukovitskii, and G. B. Teitel'baum, Physica C **168**, 370 (1990).
+* [17] G. Ilonca, M. Mehbod, A. Lanckbeen, and R. Deltour, Phys. Rev. B **47**, 15 265 (1993).
+* [18] Gang Xiao, A. Bakhshai, M. Z. Cieplak, Z. Tesanovic, and C. L. Chien, Phys. Rev. B **39**, 315 (1989).
+* [19] Note that the temperature range of the fit is restricted as explained above.
+* [20] M. Takigawa, P. C. Hammel, R. H. Heffner, Z. Fisk, J. L. Smith, and R. B. Schwarz, Phys. Rev. B **39**, 300 (1989).
+* [21] W. C. Lee and D. C. Johnston, Phys. Rev. B **41**, 1904 (1990).
+* [22] F. Mila and T. M. Rice, Physica C **157**, 561 (1989).
+* [23] K. Semba and A. Matsuda, Phys. Rev. B **49**, 10 043 (1994).
+* [24] Rolf Landauer, J. Appl. Phys. **23**, 779 (1952); D. Stroud, Phys. Rev. B **12**, 3368 (1975).
+* [25] B. Wuyts, E. Osquiguil, M. Maenhoudt, S. Libbrecht, Z. X. Gao, and Y. Bruynseraede, Phys. Rev. B **47**, 5512 (1993).
+* [26] We note that a twofold increase d\rho/dT is observed when measuring the resistivity of pure YBCO samples as a function of oxygen depletion from O_{7} to O_{6,6} without a measurable, systematic increase of the residual resistivity defined by extrapolation to T=0 of the normal resistivity.
+* [27] M. Gabay (private communication).
+* [28] S. Chakravarty, B. I. Halperin, and D. R. Nelson, Phys. Rev. B **39**, 2344 (1989).
+* [29] Gang Xiao, J. Q. Xiao, C. L. Chien, and M. Z. Cieplak, Phys. Rev. B **43**, 1245 (1991).
+* [30] S. Zagoulaev and I. I. Tupitsin (unpublished).
+* [31] A. F. Ioffe and A. R. Regel, Prog. Semicond. **4**, 237 (1960).
+* [32] H. Fukuyama, in _Localization, Interaction, and Transport Phenomena_, edited by B. Kramer, G. Bergmann, and Y. Bruynseraede, Springer Series in Solid-State Sciences Vol. 61 (Springer-Verlag, Berlin, 1985); P. Lee and T. V. Ramakrishnan, Rev. Mod. Phys. **57**, 287 (1985).
+* [33] M. Z. Cieplak, S. Guha, H. Kojima, P. Lindenfeld, Gang Xiao, J. Q. Xiao, and C. L. Chien, Phys. Rev. B **46**, 5536 (1992).
+* [34] B. Batlogg, Physica B **169**, 7 (1991).
+* [35] Y. Iye _et al._, Physica C **153-155**, 26 (1988).
+* [36] T. Timusk and D. Tanner, in _Physical Properties of HTSC I_, edited by D. Ginsberg (World Scientific, Singapore, 1988), p. 339.
+* [37] W. Loram, K. A. Mirza, and P. F. Freeman, Physica C **171**, 243 (1990).
+* [38] C. B. Azzoni, A. Paleari, and G. B. Parravicini, J. Phys. Condens. Matter **4**, 1359 (1992).
+* [39] T. Imai, C. P. Slichter, K. Yoshimura, and K. Kosuge, Phys. Rev. Lett. **70**, 1002 (1993).
+* [40] Y. Kitaoka, K. Ischida, G.-Q. Zheng, S. Ohsugi, and K. Asayama, J. Phys. Chem. Solids **54**, 1385 (1993).
+* [41] A. V. Mahajan, H. Alloul, G. Collin, and J. F. Marucco, Phys. Rev. Lett. **72**, 3100 (1994).
+* [42] A. Trokiner, P. V. Bellot, and S. Zagoulaev (private communication).
+* [43] P. Mendels (private communication).
+* [44] In principle, this simple behavior should also be altered when reaching the onset of localization: this is expected to influence only the two higher concentration points on Fig. 13.
+
+  Figure 17: Model for Zn impurity environment in CuO_{2} plane of YBa_{2}(Cu_{1-x}Zn_{x})_{3}O_{7}. The four near-neighbor Cu sites are within the limit of the 2D resistivity cross section diameter and are supposed to bear a magnetic moment of 0.32\mu_{B}. The dotted lines indicate a ferromagnetic coupling and the continuous line an antiferromagnetic coupling. The remaining part of the CuO_{2} plane is supposed unaffected.
+
+ Magnetic and transport properties of Zn-doped YBa_{2}Cu_{3}O_{7} in the normal state
+
+S. Zagoulaev
+
+Laboratoire de Physique de la Matiere Condensee, Ecole Normale Superieure, 24 rue Lhomond, 75231 Paris, France and Theoretical Physics Department, St. Petersburg University, St. Petersburg 198904, Russia
+
+P. Monod
+
+LPMC, Ecole Normale Superieure, 24 rue Lhomond 75231 Paris, France
+
+J. Jegoudez
+
+Laboratoire de Chimie des Solides, Universite Paris Sud, 91405 Orsay, France
+
+###### Abstract
+
+Detailed resistivity and susceptibility measurements are reported on YBa_{2}(Cu_{1-x}Zn_{x})O_{7} ceramics samples for 0% \leq x\leq 10% in the normal state. The superconducting temperature T_{c}(x) is found to decrease linearly with x down to 0 K at a rate of 8.8\pm0.3 K/% up to 10% Zn in agreement with previous work. The resistivity analysis in the metallic regime shows that it is possible to fit a modified Matthiesen's law for the additivity of the impurity scattering and the thermal scattering quite similar to what is found for the _ab_-plane resistivity of Zn-doped single crystals. The residual resistivity linear increment of Zn in ceramic samples for x\leq 5% is found to be 40\pm4 \muL cm/% Zn. With the first weak-localization correction to the resistivity the data can be fitted (with the same parameters) up to x= 8% of Zn, yielding a two-dimensional resistivity cross section of diameter 7.7 A two times larger than in single crystals. The same samples have been used for magnetic susceptibility determination with an improved resolution. Special care has been taken to remove (via electron paramagnetic resonance double integration) the contribution from the parasitic Y_{2}BaCuO_{5} "green phase," which we find consistently below 1% per mole YBa_{2}Cu_{3}O_{7}, independent of Zn level below x= 10%. We find a Curie-law term in the susceptibility which increases linearly with Zn content. The moment defined in this way corresponds to (0.64\pm0.15)\mu_{B} per Zn impurity. Associated with this Curie term we measure a ferromagnetic Curie temperature T_{c} which decreases as the Zn concentration x increases at a rate of (57\pm6)(1-0.1x) K. The constant, temperature-independent susceptibility \chi_{\rm spin} is found to decrease linearly with increasing Zn concentration, about two times faster than what would be expected for a localized model of the Zn perturbation within a single unit cell. Comparing this decrease of \chi_{\rm spin} with the increase of the Curie constant allows a consistent interpretation of the effect of Zn in [CuO_{2}] plane. We propose that the four near neighbor Cu to the Zn site bear a magnetic moment and are linked by a ferromagnetic interaction.
+
+pacs: 0163-1829/95/52(14)/10474(14)/506.00 +
+Footnote †: preprint: 1 OCTOBER 1995-II
+
+## I Introduction
+
+In order to improve our understanding of the physics of the [CuO_{2}] plane in the normal state of the high-temperature superconductors one major way of investigation consists in substituting Cu atoms by foreign, impurity atoms.
+
+The purpose of this paper is a detailed study of the magnetic and transport properties of Zn-doped YBa_{2}Cu_{3}O_{7}(YBCO): [YBa_{2}(Cu_{1-x}Zn_{x})_{3}O_{7}]. Indeed, among the different Cu substitutions in this compound studied so far [1, 2]. Co, Fe, and Ni bear, as expected, a magnetic moment due to their incomplete d shells whereas Zn or Ga should not be magnetic by themselves owing to their 3d10 character. However, the very strong detrimental effect of Zn doping on the critical temperature T_{c} of YBCO, about 10 K/% Zn, noticed very early [3], has been attributed to a possible magnetic scattering [4]. In this respect, the situation concerning the magnetic behavior upon doping at the Cu site of La_{2-x}Sr_{x}CuO_{4}, which has been explored by Xiao _et al._[5, 6] for Fe, Co, Ni, Zn, Ga, and Al, and recently by Nakano _et al._, [7] appears to be somewhat simpler to analyze than the corresponding case of YBCO, where the existence of two Cu sites (the chains and the planes) complicates the analysis. Xiao _et al._ find that substituting Zn, Ga, or Al in the CuO_{2} plane of La_{1.85}Sr_{0.15}CuO_{4} decreases T_{c} at a rate of 12 K/% impurity, identical to that observed with Co. In addition, static magnetization measurements in the concentration range up to 6% Zn, Ga, or Al reveal, from the observed Curie term, as essentially concentration-independent magnetic moment close to 1\mu_{B} in a classical, Langevin type of fit.
+
+In the case of YBCO doped with Zn and in contrast to the doping with Ga, there is strong evidence from NMR [8, 9], oxygen doping [10], muon spin resonance (\muSR) [11], neutron scattering [12], and transport properties [13] that the majority of Zn atoms are substituted in the plane sites preferentially to the chains. However, some intermediate situation cannot be excluded _a priori_, which might depend on the specific preparation method of the compound as shown by Cooper [14]. The transport properties of Zn-doped YBCO in the normal state have been reported by numerous authors [15], among which are the following:
+
+(i) Cooper _et al._[14, 15] demonstrated a Mathiessen law  behavior as a function of Zn concentration in ceramics prepared by solid-state reaction from oxalates or carbonates.
+
+(ii) **Chien, Wang,** and **Ong4** focused on the Hall angle, i.e., the ratio of transverse to longitudinal conductivity, which they determined separately on Zn-doped single crystals prepared from the liquid state by the flux method (allowing for a large drop of concentration of Zn upon crystallization). In both cases the rate of decrease of T_{e} is close to 10 K/% Zn.
+
+We report below
+
+(1) the determination of the resistivity scattering cross section _A_Zn of Zn from a quantitative analysis of the resistivity data in the range 0-8 % Zn doping;
+
+(2) the magnetic moment m, Curie temperature T_{C}, and temperature-independent susceptibility _X_spin as a function of Zn doping in the range 0-10 % Zn in YBCO.
+
+As will be clear in the discussion, the image that emerges from the nonmagnetic doping in the Cu plane site of YBCO is quite similar to that of La1.85Sr0.15CuO4. In particular, the large resistivity scattering cross section found provides a firm basis for a model of locally induced magnetism by a nonmagnetic dopant, at the expense of the itinerant carrier susceptibility.
+
+## II Samples and experimental method
+
+For both type of measurements (resistivity and magnetization) the same types of samples were used, namely, neighboring slices 4 x 10 x 1 and 4 x 4 x 6 mm3, respectively, of Zn-doped ceramics. These were obtained by conventional solid-state reaction from Y2O3, BaCO3, CuO, and the nominal amount of ZnO needed. After two sets of calcination (in air) of the loose powder above 900 degC, with intermediate grinding in an agate mortar, a final sintering at 950 degC for 24 h in air was performed on pressed bars (25 x 10 x 5 mm3) at 1.5 ton/cm2, followed by slow cooling down to room temperature. Table I summarizes the thermal history of each batch. In order to assess the role of a possible (small) oxygen deficiency a further oxygen anneal was given, without notable change of the magnetic and resistivity results. X-ray analysis was performed on a Philips PW diffractometer. The 6-2th powder spectra did not show parasitic phases in all cases, up to 10% Zn, within the noise background, and gave no measurable dependence of the crystalline parameters a, b, and c redefined using the sllex code within 0.1%. This agrees with the results from Refs. [16-18].
+
+The density of the ceramics obtained could be varied from 4.8 to 5.8 g/cm3 depending on the compaction of the powder before sintering. In order to measure by electron paramagnetic resonance (EPR) the amount of parasitic "green" phase Y2BaCuO5 a small quantity, typically 20 mg, was further ground by milling down to about 20 _m_m to avoid skin effect corrections. Double integration of the characteristic EPR spectrum at 10 GHz at room temperature was performed. Indeed, after proper calibration by a pure powder sample of Y2BaCuO5 (and proper corrections for Q factors of the cavity) this method is sensitive (down to about 100 ppm) and reliable. We find the important result, shown in Table II and Fig. 1, that the amount of Y2BaCuO5 in our samples is constant, independent of Zn concentration in the range 0-8 % Zn at a level of (0.15 +- 0.1)% mole of Y2BaCuO5 (211) per mole of YBa2(Cu1-_x_Zn_x_)3O7 (123), consistent with the null result of the x-ray spectra. For 10% Zn the contamination is found to be larger, namely, at 1% mole 211 per mole 123. Of course, the EPR can also detect other parasitic phases such as BaCuO2 or Y2Cu2O5, which are expected to occur in the presence of a phase separation. No such spectra were observed, however, which tends to eliminate the likeliness of this effect in our samples. Finally, in an attempt to check the EPR spectra attributed to the presence of magnetic Zn centers in La1.85Sr0.15Cu1-_x_Zn_x_O4 by Finkelstein _et al._, [19] we performed a systematic search down to 3.9 K on the 10% Zn-doped YBCO with no resulting signal near g = 2 other than the residual "green" phase.
+
+The resistivity measurements were performed by a standard four-point method, using silver paste as contacts. The accuracy of the measurement due to the geometry of the silver contacts was +-5%. At every temperature the resistance was measured with varying current density from +-0.1 to +-1 A/cm2, showing in each
+
+\begin{table}
+\begin{tabular}{c c c c c}  & Thermal treatment & Thermal treatment & Thermal treatment & \\  & (air) & (air) & (air) & O2 \\ Batch & first & second & third & oxygenation \\  & & & & \\
+2 & pressed & pressed & — & 450 °C \\  & 900 °C & 950 °C & & 12 h \\  & 16 h & 24 h & & \\
+3 & pressed & pressed & — & 450 °C \\  & 900 °C & 950 °C & & 12 h \\  & 16 h & 24 h & & \\
+4 & powder & powder & pressed & 350 °C \\  & 920 °C & 900 °C & 950 °C & 10 h \\  & 15 h & 10 h & 20 h & \\
+6 & powder & powder & pressed & 400 °C \\  & 910 °C & 910 °C & 950 °C & 20 h \\  & 12 h & 12 h & 20 h & \\ \end{tabular}
+\end{table}
+Table 1: Successive thermal treatments for the different batches of YBa2(Cu1−_x_Zn_x_)3O7.
+
+  case a well-defined Ohm's law. The temperature was monitored by a calibrated platinum probe embedded in the Cu mount over which the sample was pressed with vacuum grease. Great care was taken to avoid thermal hysteresis due to inherent time constants upon warming or cooling. This was achieved by changing slowly the height of the probe holder in a helium container. Reproducibility was obtained to within the scatter of the data, +-0.05 K.
+
+Magnetic measurements were performed using about 200 mg samples with a superconducting quantum interference device (SQUID) magnetometer from 0.005 up to 5 T and from 1.9 up to 300 K. However, only the data in the normal state or slightly below T_{c} are significant since the inherent (small) inhomogeneities of the field coil make it impractical to measure with good accuracy superconducting and normal properties in the same run. Owing to the relatively large quantity of the sample an overall precision of about 1% could be obtained in the different terms contributing to the susceptibility, thus enabling one to study with good accuracy their dependence upon Zn doping.
+
+## III Results
+
+### Resistivity
+
+Typical results of resistivity versus temperature curves are presented for a selected number of Zn concentrations, each from the same batch, i.e., with identical preparation routine, below 1% [batch 4 (Fig. 2)] and from 1% to 8% [batches 2 and 3 (Fig. 3)]. As can be seen the overall resistivity behavior is still metalliclike at 8% Zn but displays a negative slope of _d_r/_dT_ at 10% Zn (not shown here). In order to extract the residual resistivity _r_(_x_,0) we first tried a procedure similar to that of Cooper:14 as a first step a geometrical correction for the density was made, namely,
+
+\[\rho(x,T) = R(x,T)(S/l)[d(x)/d_{0}]^{1/3}\ ,\]
+
+where _R_(_x_,_T_) is the measured resistance of the sample of section S and density _d_(_x_), l is the distance between voltage electrodes, and d0 the x-ray density. However, contrary to the results of Cooper _et al._15 this procedure gave no obvious correlation between the slope _d_r/_dT_ and the density ratio _d_(_x_)/_d_0, but rather a monotonic, approxi
+
+\begin{table}
+\begin{tabular}{c c c c c c c c c} x & & a & b & c & d & 211 & T_{c} & _ΔT__c_ \\ (\%) & Batch & (Å) & (Å) & (Å) & (g/cm^{3}) & (_g_111/g_123) & (K) & (K) \\ \hline
+0.0 & 2 & 3.81(6) & 3.88(2) & 11.65(2) & 4.746 & & 86.0 & 2.9 \\
+2.0 & 2 & 3.81(4) & 3.88(3) & 11.64(8) & 5.358 & & 64.9 & 3.0 \\
+3.0 & 2 & 3.82(7) & 3.88(5)  mately linear increase of d\rho/dT with the concentration x (Fig. 4) which can be represented by
+
+\[d\rho(x)/dT = 3.2 + (0.2 \pm 0.1)x\]
+
+in \mu\Omega cm {\bf K}^{- 1}\%^{- 1} (in the metallic regime x\leq 5\%). We remark that the same relative increase of d\rho(x)/dT is observed by Chien, Wang, and Ong on single crystals [4] and by Ilonca _et al._ in ceramics. [20]
+
+As will be justified in the discussion below, in order to compare our results with those of single crystals, we have chosen to normalize the measured slopes of d\rho(x)/dT to those of single crystals [4] of the same concentration and to define the residual resistivity \rho(x,0) by the extrapolation of the linear part of \rho(x,T) down to T=0. The results concerning \rho(x,0) normalized to the slope d\rho/dT of single crystals appear in Fig. 5 in the range x=0-8\% Zn.
+
+Figure 4: Thermal broadening d\rho/dT of ceramic samples for different batches of YBa_{2}(Cu_{1-x}Zn_{x})_{3}O_{7} as a function of Zn concentration as compared to the same thermal slope measured in the a, b plane of single crystals from Refs. 4 and 24. In the limit of metallic behavior (x\leq 5\%) both quantities slowly increase with x in a similar way. The ratio of these slopes is used at each concentration to normalize the ceramics data to those of a single crystal in the a, b plane.
+
+Figure 5: Residual resistivity of YBa_{2}(Cu_{1-x}Zn_{x})_{3}O_{7} obtained by extrapolating at T=0 the resistivity curves of Figs. 2 and 3 after normalization of the slopes at each concentration as represented in Fig. 4. From the linear increase for x\leq 5\% a diffusion cross section is defined. The continuous line is an attempt to fit the first weak-localization correction following Ref. 32.
+
+Figure 3: Same as Fig. 2 for batches 2 and 3 for higher concentration of Zn: the slope d\rho/dT increases slightly with x and the width of the transition reaches 13 K for x=8\%. The resistance has been corrected only for the density in Figs. 2 and 3 (see Table I).
+
+  It appears that a reasonable linear fit can be obtained from x = 0 up to x = 5% Zn where a gradual upturn of the curve _r_(_x_,0) versus x occurs. In the discussion we show that the procedure adopted here consists in assuming that the _ratio_ of impurity to thermal scattering process is the _same_ in single crystals and in ceramics since both processes are microscopic in nature. Thus we use the observed thermal scattering measured on ceramics to define the effective geometrical path followed among the array of (anisotropic) crystals of the ceramic in order to evaluate the impurity scattering. Failure to do so would yield larger resistivity scattering rates as can be seen in the work of Xiao _et al._[21] on ceramics based on Zn-doped La_{1.85}Sr_{0.15}CuO_{4}. The result of a linear fit through the data of Fig. 5 gives a resistivity increase per % Zn of d _r_/_dx_ = 40+-3 _m_O cm/% Zn. From this figure the scattering cross section A_{2n}^{(123)} is readily obtained in either three-dimensions (3D) or 2D as presented in the discussion below together with the analysis of the resistivity for 5% x <= 5%.
+
+Finally, in Fig. 6 the results of the superconducting temperature T_{c}(_x_) are plotted as a function of Zn content from x = 0% to x = 10% where no superconductivity is found down to 1.9 K, according to magnetic measurements. T_{c} is defined from the resistivity curve of Figs. 2 and 3 by the midpoint of the transition. It is observed that the width of the transition (defined by the 10% - 90% criterion) is at most 10 K for the higher Zn content and only a few K for the smaller concentrations. However, in a number of cases a "shoulderlike" feature about 30% in height and a couple of K wide is observed, qualitatively similar to the curves obtained from single crystals.4 Since this same feature manifests itself at different Zn concentrations and thus at widely different T_{c} it is very unlikely to be linked to a parasitic phase but rather to a possible small inhomogeneity of oxygen doping of the material. The average linear decrease of T_{c}(_x_) is found to be _dT__c_/_dx_ = 8.8+-0.3 K/% Zn in excellent agreement with the points obtained from the onset of Meissner diamagnetism at low field (typically 100 (G) and in good accordance with other determinations.4,12,15 We note that the onset of Meissner diamagnetism is systematically a few K above the midpoint of the resistive transition, possibly due to either a difference between thermometer calibrations in the two setups or the use of different criteria for "onset" and "mid-transition" temperature.
+
+### Magnetic measurements
+
+Magnetic susceptibility x = _M_/_H_ measurements at fixed field of 5 T for concentrations 0 < x < 10% Zn are depicted in Fig. 7 between 1.9 and 300 K. For the sake of clarity an upward shift of 2x10-7 emu has been introduced for each concentration above 0%. The main features are (i) the presence of a sizable constant susceptibility term near room temperature, (ii) an increasing Curie-like term as the Zn concentration increases, (iii) the conspicuous onset of Meissner diamagnetism for the lowest concentrations.
+
+In order to evaluate the parameters involved in the fit of the magnetization to
+
+\[M(x) = M_{0}(x) + C(x)H/\{T - T_{C}(x)\}\]
+
+[where _C_(_x_) is the Curie constant and T_{C}(_x_) is the Curie
+
+Figure 6: Superconducting transition for all our samples (batches 2, 3, 4, and 6) versus x (%). The resistive transition temperature is defined at midheight of the resistance drop and the magnetic transition temperature at the onset of Meissner effect by extrapolating the steepest slope of _M_(_T_) to M = 0. The sample at x = 10% Zn is not found superconducting below 1.7 K in low field by magnetic measurement (field cooled).
+
+Figure 7: Overview of the susceptibility _M_/_H_ of a selection of ceramic samples of YBa2(Cu1−2 Zn3−)O7 measured in 5 T. Each curve is displaced upward by 2 × 10−7 emu for sake of clarity. The Curie contribution associated with the presence of Zn is obvious. The susceptibility is independent of field except for the lowest temperatures for x = 10%. The contribution of parasitic green phase has been subtracted, as explained in the text, after double integration of the EPR signal due to Y3BaCuO3. This correction is at most 10% of the measured Curie contribution.
+
+  temperature, not to be confused with T_{c}(x)] a series of field-cooled magnetization curves were taken between 100 G and 5 T, as shown in Fig. 8 for the 5% Zn compound. At this stage the contribution of the magnetization of Y2BaCuO5 was subtracted from the total magnetization. This was achieved for each sample by first measuring the intensity of the EPR signal (which we find identical to that of the green phase in shape, width, and g factors) and comparing it with that of a known quantity of the pure green phase. The ratio of the two intensities yields the molar concentration of the green phase present in the sample. This ratio is then multiplied by the measured magnetization of pure Y2BaCuO5 in the same conditions of field and temperature as the sample. The resulting calculated (parasitic) magnetization is subtracted out from the raw data. Since the molar amount of green phase present was found to be of the order of (0.15+-0.1)% the correction to the magnetization was at most of the order of 10% of the total magnetization and is not likely to be the source of serious errors in the following analysis. The temperature-independent susceptibility originating from the atomic diamagnetism, the Van Vleck paramagnetism of the Cu2+ ions, and the carrier spin contribution is then obtained by extrapolating down to zero on an M versus 1/_T_ plot in the range 150 to 300 K, as shown in Fig. 9. The resulting susceptibility, shown in Fig. 10, is found to be linear in field up to 5 T to within +-2%.
+
+Subtracting this temperature-independent term from the total magnetization allows the determination of C(x) and T_{C}(x) as shown in the plot of (M-M_{0})^{-1} versus T presented in Fig. 11 in the range 50 to 160 K.22 This range is limited at low temperatures by the curvature due to the onset of superconducting fluctuations above T_{c} and at high temperatures by the increasing errors due to the diminishing Curie term. Within this range (and with a similar analysis for the other concentrations) a fairly well-defined Curie contribution is found, extrapolating to T_{C}(5\%) = 24\pm 4 K where the error represents the spread of values of T_{C} extrapolated at each field between 1 and 5 T. This procedure yields the variation of the _T_-independent susceptibility with concentration for 0 < x < 10 % The good relative accuracy on the measured susceptibility allows us to follow the dependence of this quantity as a function of concentration of Zn for 0 < x < 10 %.
+
+The term \chi_{\rm spin}(x) (which would stand for the Pauli sus
+
+Figure 8: Magnetization of YBa2(Cu0.95Zn0.05)3O7 as a function of temperature for various fields between 0.01 and 5 T after correction for the residual green-phase contribution (see text). The Curie component associated with the presence of Zn is obvious together with the Meissner effect onset at T_{c} = 44 K.
+
+Figure 10: Magnetization versus field of the temperature-independent term M_{0} obtained in Fig. 8. The straight line obtained defines the high-temperature susceptibility to within ±1%.
+
+Figure 9: Magnetization of the 5% Zn-doped sample versus 1/_T_. The accuracy of the measured magnetization is about 10−5 emu/g. This, and the linear behavior versus 1/_T_ observed, allow an overall relative precision of the order of ±2% for the _T_-independent magnetization M_{0} as determined by extrapolation at 1/_T_ = 0.
+
+  ceptibility for a normal metal) is then obtained after subtraction from the measured constant term \chi_{0} of the atomic diamagnetism \chi_{D} calculated from Ref. [23] and by subtracting \chi_{\rm{V}\!\!V}, the average Van Vleck contribution of the Cu^{2+} ions.[23]^{-}[25] Care was taken, however, to subtract only the contribution of the remaining Cu^{2+} in the lattice, i.e., taking into account that each Zn atom suppresses the Van Vleck term associated with each replaced Cu atom. The overall variation of \chi_{\rm{spin}} is plotted versus x in Fig. 12. A linear decrease is observed corresponding to
+
+\[\chi_{\rm{spin}}(x) = \chi_{0}(x)-(1-x)\chi_{\rm{V}\!\!V}-\chi_{D}\] \[= (5.6\pm 0.4)-(0.13\pm 0.02)x\]
+
+in units of 10^{-7} (emu G^{-1} g^{-1} %^{-1}).
+
+A linear decrease with x is also found for T_{C}(x) as shown in Fig. 13. Since at low concentration the magnitude of the Curie term becomes small and the superconductivity sets in at higher temperatures, the determination of T_{C} is most accurate at higher concentrations. This determination becomes meaningless at zero concentration. The best fit is represented by T_{C}(x)\!=\!(57\pm 6)(1\!-\!0.1x) K, reflecting the large uncertainty near x\!=\!0.
+
+The Curie constant obtained from a 1/(M\!-\!M_{0}) versus T plot similar to Fig. 11 is represented versus x in Fig. 14 up to x\!=\!10%. The scatter of the data, about \pm 10% for each concentration, represents that of the determination of the Curie constant at different fields (between 1 and 5 T in general) together with the effect of the slight deviation from linearity observed in Fig. 11. As is obvious in Fig. 14 the Curie constant is found to increase with x at a rate of (2.3\pm0.9)\times 10^{-6} emu K G^{-1} g^{-1}\%^{-1}. However, a systematic deviation from this linear increase is apparently linked with the batch origin of different samples. This batch-to-batch scatter is larger than that of each determination and is dominant source of error.
+
+Figure 11: Determination of the Curie temperature and the Curie constant for YBa_{2}(Cu_{0.95}Zn_{0.05})_{1}O_{7}. The temperature range over which the data are fitted to a Curie-Weiss law is limited at low temperature by the onset of Meissner diamagnetic fluctuations (here about 10 K above T_{c}) and at high temperature (here 160 K) by the large errors introduced when M\!-\!M_{0} is smaller than 5\times 10^{-4} emu/g. Within this range the Curie constant is fairly well defined at each field to within about 10% together with the field-independent Curie temperature 24\pm5 K. Similar data are observed for all concentrations with varying accuracy; the larger the Zn concentration the better, since the width of the temperature range of the fit increases with x.
+
+Figure 12: Spin susceptibility of YBa_{2}(Cu_{1-x}Zn_{x})_{3}O_{7}\chi_{\rm{spin}}(x) versus Zn concentration. \chi_{\rm{spin}}(x) is obtained from the constant susceptibility by subtracting the diamagnetic and Van Vleck contributions of the remaining Cu^{2+} atoms. The accuracy is about \pm 5%.
+
+Figure 13: Curie temperature T_{C}(x) of the magnetic contribution associated with Zn versus x (%). T_{C}(x) is taken from plots similar to Fig. 11. The accuracy is strongly dependent on x, as shown.
+
+  If the magnetic moment \mu represented by this Curie term is associated with the presence of N_{Zn} Zn atoms then
+
+\[\left[\frac{\mu}{\mu_{B}}\right]^{2}=\frac{3k_{B}C}{N_{Zn}\mu_{B}^{2}}\]
+
+and \mu(Zn/123)/\mu_{B} = 0.64\pm0.15, where the uncertainty reflects mainly the batch-to-batch scatter.
+
+Finally, we plot in Fig. 15 the relation between the decrease of the spin susceptibility \chi_{\rm spin}(x) and the increase of the Curie constant C(x) taking x as an implicit parameter. We see in Fig. 15 that an approximately linear decrease with a slope of \Delta\chi_{\rm spin}/\Delta C = (- 5.1\pm0.3 ) \times 10^{-3} K^{-1} is followed, with somewhat less scatter than the individual \chi_{\rm spin}(x) or C(x) plots. This might reflect the fact that part of the batch-to-batch scatter is somehow reduced when comparing these two intrinsic properties, as will be discussed below.
+
+## IV Discussion
+
+### Resistivity
+
+The validity of our set of results obtained on ceramic samples as compared to those of Refs. [4] and [26] on single crystals needs to be qualified. On one hand, we do know from the chemical solid-state reaction and from the apparent absence of a parasitic phase related to the presence of Zn that the nominal concentration of Zn is indeed introduced within the YBa_{2}Cu_{3}O_{7} lattice. On the other hand, the results from ceramic samples are known to be difficult to analyze in terms of absolute values of resistivity for two major reasons.
+
+(i) The role of the "intergrain" scattering is not known nor is possible to quantify it for each sample. Our best determination is that obtained from the residual resistivity for x = 0 samples \rho(x = 0) = 30\pm5 \muD cm which, fortunately, is not large compared to the effect of adding 5% of Zn atoms; in other words the mean free path due to 5% Zn is much smaller than the grain size. However, this method _assumes_ that this residual "intergrain" resistivity remains constant with variable Zn content.
+
+(ii) Another, even more serious source of error is that due to the unknown fraction of conductivity along the c axis. Indeed, in a random mixture of disoriented crystals the overall resistivity will reflect mainly the behavior of the more conducting ab plane, while the c axis contribution (of the order of 4% of that of the ab plane) will be neglected. This state of affairs is indeed expected in a perfectly packed, randomly oriented mixture of spherical-shaped crystals.[27] However, in actual YBCO ceramics most of the grains are in the shape of platelets parallel to the ab plane and, moreover, the distribution of voids between grains (responsible for the decrease of density as compared to the x-ray value [about (20\pm10)% ]) is correlated with the orientation and shape of the grains. It follows that the simplifying hypothesis consistent with the effective medium conductivity[27] that the actual conductivity would be \frac{2}{3}(ab) and \frac{1}{3}(c), added in parallel, is, at best, a higher limiting value.
+
+However, we can write that the observed rate of increase, with Zn concentration, of the slope (d\rho/dT) is the same in ceramic and single crystals:
+
+\[\frac{d^{2}\rho_{\rm cer}}{dT\,dx}=\frac{d^{2}\rho_{\rm cryst}}{dT\,dx}\ .\]
+
+For each concentration we define the ratio of the (unknown) geometrical aspect (S/l) of the ceramic versus
+
+Figure 14: Curie constant C_{c}(x) of the magnetic contribution associated with Zn versus x. The Curie constant is taken as the average slope at each field from plots similar to Fig. 11. The accuracy is determined primarily by the slight deviation from linearity present in this plot. The batch dependence of the Curie constant is quite apparent. The average increase corresponds to a moment of 0.64\pm0.15 \mu_{B}/Zn site.
+
+Figure 15: Spin susceptibility \chi_{\rm spin}(x) versus Curie constant C_{c}(x) for YBa_{2}(Cu_{1-x}Zn_{x})_{3}O_{7}. This figure shows that the increase of the Curie constant is tightly correlated with the decrease of the average spin susceptibility and allows us to compare different batches in the same way. This fact strongly supports a local model for the magnetism associated with the Zn substitution in the CuO_{2} planes.
+
+  that of the single crystal by
+
+\[\alpha = \frac{d\rho_{\rm cer}/dT}{d\rho_{\rm cryst}/dT} = \frac{(S/I)_{\rm cer}}{(S/I)_{\rm cryst}}\;\;,\]
+
+which is represented versus x in Fig. 16.
+
+In this figure it appears that for most of the batches (except no. 4) the apparent geometrical ratio \alpha between a ceramic at a given Zn concentration and the corresponding single crystal is independent of Zn concentration within our range of concentration (for batches 2 and 3 it is close to 5\pm1). Once this is acknowledged then our procedure consists in simply scaling the slope d\rho/dT of the ceramic with that interpolated from the measured single crystal.[4] Indeed, this assumes a constant, material-independent ratio between the thermal scattering rate and that of the Zn impurities, but not necessarily their mutual independence (Mathiessen's law).
+
+Concerning the interpretation of the dependence of Zn concentration of d\rho/dT two approaches can be used.
+
+(i) The fact that the slope d\rho/dT increases with increasing Zn content at a rate of d\rho(x)/dT=(1 + bx)d\rho(0)/dT (with b= 0.27\pm0.05 per % Zn) may be compared to the same behavior observed by Wuyts _et al._[28] with variable oxygen doping: this effect might offer a measure of the maximum possible change of carrier density as a function of Zn content which should be taken into account in our analysis.[29] More precisely, when \Omega_{\gamma-\delta} changes from \delta= 0 to \delta= 0.4 the slope d\rho(\mbox{O}_{\delta})/dT changes by a factor of 4.7. Correspondingly, the change of slope as a function of Zn amounts to a factor of 0.27 for 1% Zn. If we suppose that the change of slope as a function of Zn is entirely due to a change in carrier concentration, then we determine the apparent "\delta_{\rm app}" for 1% Zn from the above factors:
+
+\[\delta_{\rm app}(1\%\ {\rm Zn}) \leq 0.03\;.\]
+
+This number is an upper limit of the carrier density change by Zn doping. Extrapolating this to 10% of Zn \delta_{\rm app}(10\%\ {\rm Zn})= 0.3 shows that this effect alone is not sufficient to account for the nonmetallic behavior observed. Indeed, at 10% of Zn the resistivity at room temperature is of the order of 1200 \mu\Omega cm, well within the localization regime or near the percolation threshold (in contrast with pure YBCO with \delta= 0.3).
+
+(ii) Another possibility, suggested from the theoretical analysis of the t-J model,[30] is that the apparent breakdown of Matthiessen's law observed is intrinsic to the two-fluid picture (holons and spinons) of the model. In that case the resistivity is written as
+
+\[\rho(x,T) = \rho(x) + \rho(T)\left[1 + \frac{1}{J}\frac{\#}{\tau(x)}\;\right]\;,\]
+
+where the increased temperature dependence of \rho(T) is explicitly related to the inverse of the exchange constant J and the collision rate \tau(x) induced by the presence of Zn. In our case the measured increase of slope d\rho/dT with x yields, for x= 5% Zn, bx= 1.35 and with 1/\tau(x= 5%)= 3\times 10^{14} s^{-1} leads to
+
+\[J\left[{\rm YBa}_{2}({\rm Cu}_{1-x}{\rm Zn}_{x}){\rm O}_{7} \right] \cong 1700\ {\rm K}\;,\]
+
+which is of the right order of magnitude for J (Ref. [31]) (we assume that J is independent of x).
+
+We now turn to the discussion of the scattering cross sections. The diffusion cross section of Zn is given in 3D by
+
+\[A_{{\rm Zn}/{\rm YBCO}}^{\rm 3D} = \frac{e^{2}}{\#}\frac{1}{k_{F}}\frac{d\rho_{0}}{dx}\;,\]
+
+where k_{F} is the Fermi wave vector of YBa_{2}Cu_{3}O_{7}. Taking
+
+\[n\left[1\;e^{+}/{\rm cell}\right] = k_{F}^{3}/3\pi^{2} = 5.78\times 10^{21}e^{+}/{\rm cm}^{3}\]
+
+yields A_{{\rm Zn}/{\rm YBCO}}^{\rm 3D} = 172\pm 20 A^{2}, corresponding to a "spherical" radius of A_{{\rm Zn}/{\rm YBCO}}^{\rm 3D} = 7.4\pm 0.4 A. Taking the same method as Chien, Wang, and Ong[4] with our determination of resistivity yields
+
+\[A_{{\rm Zn}/{\rm YBCO}}^{\rm 2D} (n = 0.25e^{+}/{\rm Cu}^{2+}\ {\rm in\ plane}) = 8.45\pm 0.50\ {\rm\AA}\]
+
+where A_{{\rm Zn}/{\rm YBCO}}^{\rm 2D} is the 2D disk scattering diameter. Analyzing the data of Semba and Matsuda[26] on Zn-doped single crystals yields A_{{\rm Zn}/{\rm YBCO}}^{\rm 2D} = 4.92 A compared to Chien, Wang, and Ong's 4.2 A.[4] The same type of data from Xiao _et al._[32] on Zn-doped La_{1.85}Sr_{0.15}Cu_{1-x}Zn_{x}O_{4} ceramic yields
+
+\[A_{{\rm Zn}/{\rm LSCO}}^{\rm 2D} (n = 0.15\ e^{+}/{\rm Cu}^{2+}{\rm in\ plane}) = 9.2\ {\rm\AA}\]
+
+(without normalization), which compares well with our determination on YBa_{2}Cu_{3}O_{7} [after normalization of the slope d\rho(x)/dT].
+
+We note that these results depend on the choice
+
+Figure 16: Ratio of the thermal slope d\rho/dT measured on the different ceramic batches to that of a single crystal in the ab plane (Ref. [4]). This factor measures the effective geometrical aspect ratio of the samples. Except for batch 4 it is observed to be approximately constant as a function of Zn concentration. This factor is used in the analysis to normalize the curves \rho(T) and to extract the residual resistivity.
+
+  n=0.25\ e^{+}/Cu^{2+} in plane. From a first-principle band-structure calculation [33] another suggested choice is n=0.08\ e^{+}/Cu^{2+} in plane. In this case a reduction by a factor 3.1 is calculated for the scattering cross section as shown in Table 3.
+
+We further remark that the data of Semba and Matsuda [26] enable one to evaluate the resistivity cross section of Zn in the c direction of YBa_{2}(Cu_{1-x}Zn_{x})_{3}O_{7}. In a 3D model using n=1\ e^{+}/cell (k_{F}=5.55\times 10^{7} cm^{-1}) and d\rho_{c}(T=0)/dx=514\ \mu\Omega cm/% we get A_{Zn/YBCO}^{3}=1420\pm 400 A^{2}. It is difficult to draw conclusions from this admittedly large cross section since the corresponding calculated mean free path is 1 A, i.e., beyond the Ioffe-Regel metallic limit. [34]
+
+In this respect it is tempting to analyze the upward deviation from linearity of the x dependence of \rho(x,0) for x>5% by a weak-localization approach. [35] Writing
+
+\[[\rho(x,0)]^{-1}=\frac{\#k_{F}}{ne^{2}}\frac{1}{l(x)}\ \left[1-\frac{3\pi^{2}}{[ k_{F}l(x)]^{2}}\ \right]\]
+
+and using the mean free path l^{-1}=xNA_{Zn/YBCO} where N is the number of Cu sites per unit volume, n is the hole density, and A_{Zn/YBCO} the scattering cross section, allows us to fit \rho(x,0) as the sum of a linear term and a cubic term in x. This fit is represented in Fig. 5 and allows one to determine A_{Zn/YBCO}^{2D} from the whole set of data, including the nonlinear part. Taking n=0.25e^{+}/ Cu^{2+} in plane, we find A_{Zn/YBCO}^{2D}=7.7\pm 2.1 A, to be compared with A_{Zn/YBCO}^{2D} obtained from the linear part (8.45\pm 0.50 A). This shows indeed that the upward curvature of the \rho(x,0) dependence upon x is more likely to be due to the onset of weak localization rather than to an undetected phase separation for the Zn doping above 5%. This further indicates that the solubility for Zn in YBa_{2}Cu_{3}O_{7} is at least larger than 8% in complete agreement with our findings from Fig. 1. A similar conclusion was reached by Cieplak _et al._ on the La_{1.85}Sr_{0.15}Cu_{1-x}Zn_{x}O_{4} system. [36]
+
+The partial conclusion of this part of the discussion is that the scattering cross section of Zn is larger than the [CuO_{2}] unit cell (14.8 A^{2}) and of the order of that of the (s-wave) unitary limit. This corresponds to a specific resistivity increase given by
+
+\[\left[\frac{d\rho_{0}}{dx}\ \right]_{unitary\ {\rm limit}}^{3D}=\frac{\#}{e^{2}}\frac{4\pi}{k_{F}}\frac{N}{n}=28\ \mu\Omega\ {\rm cm}/\%\]
+
+for N/n=3 sites per carrier for one unit cell.
+
+This large cross section cannot be reconciled with any type of Coulomb potential scattering proportional to the square of the effective charge Z_{eff} (at most 1) of Zn in the [CuO_{2}] plane. This may indicate that the scattering potential for Zn has an extended spatial width. However, our analysis is hampered at present by the lack of a proper description of the resistivity in ceramics of anisotropic conducting crystals of arbitrary shape and density factor, taking into account the possibility of an anisotropic scattering cross section of the impurities.
+
+### Magnetic properties
+
+The discussion of the magnetic properties investigated concerns the x dependence of the temperature-independent term X_{\rm spin}(x) and that of the Curie term \chi_{C}(x,T). In order to separate out these two contributions (after removing that of the parasite 211 phase as explained above) we write that the temperature-independent Van Vleck term only applies to the occupied Cu sites and that the atomic diamagnetic part is identical for Cu and Zn. Then
+
+\begin{table}
+\begin{tabular}{c c c c c c c c} \hline  & & k_{F} & E_{F} & A^{\ast} & \chi_{\rm Pauli} & \rho(E_{F}) & \\ D & n & (cm^{-1}) & (eV) & Zn/123 & (emu g^{-1} cm^{-3}) & (state/eV f.u.) & Footnote \\
+3D & 5.78\times 10^{20} & 5.553\times 10^{7} & 1.175 & 172\pm20 & 3.97\times 10^{-7} & 1.3 & b \\  & (e^{+}/cm^{3}) & & & (Å^{2}) & & & \\
+2D & 1.69\times 10^{14} & 3.256\times 10^{7} & 0.404 & 8.45\pm0.5 & 3.85\times 10^{-7} & 0.62 & c \\  & (e^{+}/cm^{2}) & & & (Å) & & & \\
+2D & 0.54\times 10^{14} & & & & & & d \\  & (e^{+}/cm^{2}) & & & & & & \\
+3D & & 3.587 & & & 0.99 & \\
+3D & & & & (35\pm1)\times 10^{-7} & 11.1\pm0.3 & e \\  & & & & X_{\rm spin} experimental & experimental & \\ \hline \end{tabular}
+\end{table}
+Table 3: Physical parameters of YBa_{2}Cu_{3}O_{7} in 2D and 3D models.
+
+  \[\frac{[M(H,T,x)-M_{211}(H,T)]}{H}\] \[= \chi_{\rm tot}(x,T) = \chi(x,\infty)+\chi_{C}(x,T)\] \[= \chi_{\rm dia}+(1-x)\chi_{\rm VV}({\rm Cu})\] \[+\chi_{\rm spin}(x)+\frac{C(x)}{T-T_{C}(x)}\ \ .\]
+
+As explained in the experimental section, \chi(x,\infty) is obtained from \chi_{\rm tot}(x,T) by the extrapolation to T\to\infty of the Curie term. A simple way to obtain \chi_{\rm spin}(x) consists in subtracting \chi_{\rm dia}({\rm YBa_{2}Cu_{3}O_{7}})=-2.63\times 10^{-7} emu G^{-1} g^{-1},[23] and further subtracting the powder average of the Van Vleck Cu term taken from Ref. 25. However, we can expect, _a priori_, \chi_{\rm spin}(x) to be also anisotropic; thus we write with obvious notations
+
+\[\chi(x,\infty)= \chi_{\rm dia}({\rm YBa_{2}Cu_{3}O_{7}})+\frac{3}{3}[\chi_{\rm spin }^{ab}(x)+(1-x)\chi_{\rm VV}^{ab}]\] \[+\frac{1}{3}[\chi_{\rm spin}(x)+(1-x)\chi_{\rm VV}^{c}]\ \ .\]
+
+The anisotropy of \chi(x,\infty) along a, b, and c has been measured by Lee and Johnston;[24] hence, for x=0,
+
+\[\frac{\chi_{\rm spin}^{ab}+\chi_{\rm VV}^{ab}+\chi_{\rm dia}}{\chi_{\rm spin}^ {c}+\chi_{\rm VV}^{c}+\chi_{\rm dia}}=0.62\pm 0.03\ \ .\]
+
+The two above relations, together with the calculated value[24] of \chi_{\rm VV}^{ab}=1.37\times 10^{-7} emu G^{-1} g^{-1} and \chi_{\rm VV}^{c}=3.20\times 10^{-7} emu G^{-1} g^{-1}, allow us to determine
+
+\[\chi_{\rm spin}({\rm YBa_{2}Cu_{3}O_{7}})= \frac{3}{3}\chi_{\rm spin}^{ab}+\frac{1}{3}\chi_{\rm spin}^{c}\] \[= (5.38\pm 0.15)\times 10^{-7}\ {\rm emu}\,{\rm G}^{-1}\,{\rm g}^{-1}\]
+
+and the anisotropy ratio \chi_{\rm spin}^{ab}/\chi_{\rm spin}^{c}=0.90\pm 0.05. Fortunately this set of values turns out to depend in a rather noncritical, almost linear way on the measured quantities so that the error involved in their derivation is close to that of the measurements. Thus we make the important remark the practically all the susceptibility anisotropy of {\rm YBa_{2}Cu_{3}O_{7}} in the normal state is due to that of the Van Vleck term of Cu; hence the remaining \chi_{\rm spin} is nearly _isotropic_ in agreement with Batlogg[37] and Mila and Rice.[25] Furthermore, since \chi_{\rm spin}(x) decreases only slowly with increasing x, this result appears to hold as well in the presence of Zn doping. In the rest of this paper we will consider this to be the case and we will not deal with an anisotropic \chi_{\rm spin}(x).
+
+We can now compare the above value of \chi_{\rm spin} with that calculated from the bare Pauli susceptibility taking one hole per unit cell n=5.78\times 10^{21}\ e^{+}/{\rm cm}^{3}. We find
+
+\[\chi_{\rm Pauli}^{\rm bare}({\rm YBa_{2}Cu_{3}O_{7}}) = \frac{1}{\pi}\left[\frac{3n}{\pi}\right]^{1/3}\left[\frac{m}{ \pi^{2}}\right]\mu_{B}^{2}\] \[= 3.97\times 10^{-7}\ \frac{\rm emu}{{\rm G}^{-1}\ {\rm cm}^{-3}}\ \ ,\]
+
+corresponding to 0.62\times 10^{-7} emu G^{-1} g^{-1} and to a bare density of states \rho(E_{F})=1.3 state/eV f.u. This value is a factor of 9 smaller than the determined experimentally as above for \chi_{\rm spin}(x) and would be further diminished by 2^{1/3} (hence a factor of 11.3 instead of 9) if we assumed only a partial charge transfer of 0.5 electron into the planes as do Chien, Wang, and Ong.[4]
+
+One brutal way to try to reconcile this order of magnitude discrepancy is to increase the effective mass ratio m^{\star}/m.[38] However, if we adopt this scheme then we expect \chi_{\rm spin} to have the same anisotropy as that of the conductivity, in contradiction with the above conclusions and also with the experimental values of the plasma frequency and the London penetration depth, which are consistent only with m^{\star}/m=2.5\pm 0.5 for n=1\ e^{+}/{\rm f.u}.[39] Also contrary to experimental evidence would be the presence of an (_ad hoc_) large susceptibility enhancement factor. We find a near agreement within the normal-metal model between our determination of \chi_{\rm spin} and the temperature linear coefficient of the specific heat \gamma as determined by Loram, Mirza and Freeman.[40] Indeed, \gamma=1.6\pm 0.2 mJ/g-at. K^{-2} yields \gamma_{n}({\rm YBa_{2}Cu_{3}O_{7}})=20.8\pm 2.6 mJ/mol K^{-2}. We express \chi_{\rm spin} and \gamma_{n} in terms of their respective densities of states by
+
+\[\rho_{\chi}(E_{F})=\chi_{\rm spin}/\mu_{B}^{2}=11.1\ {\rm state/eV}\,{\rm f.u}.\]
+
+and
+
+\[\rho_{\gamma}(E_{F})=3\gamma_{n}/\pi^{2}k_{B}^{2}=8.8\ {\rm state/eV}\,{\rm f.u}.\]
+
+leading to a Wilson ratio equal to 1.26. We note that the (1+\lambda) phonon coupling correction to \gamma and the spin enhancement factor of \chi_{\rm spin} will not tend to cancel each other but rather act to further increase this ratio.
+
+Finally we remark that this value of the spin susceptibility measured for one mole of Cu (3 atoms Cu/f.u.), \chi_{\rm spin}({\rm YBa_{2}Cu_{3}O_{7}})=1.2\times 10^{-4} emu/G mol Cu^{2+}, compares in order of magnitude with that of pure paramagnetic CuO (at room temperature) (Ref. 41), \chi({\rm CuO},300\ {\rm K})=2.12\times 10^{-4} emu/G mol Cu^{2+}, where the Van Vleck and diamagnetic parts nearly cancel each other.
+
+We summarize this discussion by Table 4 where the susceptibilities of various cuprates compounds in the normal state are indicated: they appear to all display the same order of magnitude (per mole Cu), consistent with a Fermi-liquid model, or suggesting a contribution from antiferromagnetic fluctuations possibly related to those observed in CuO above the Neel temperature.[42]
+
+We discuss now the change of \chi_{\rm spin}(x) as a function of doping with Zn. As shown in Fig. 12 the measured value of \chi_{\rm spin}(x) decreases linearly with x at a rate
+
+\begin{table}
+\begin{tabular}{c c c} Compounds & \chi_{\rm tot} (300 K) \\ (emu G^{-1}/mol Cu^{2+}) & Reference \\ CuO & 2.12\times 10^{-4} & 40 \\ La_{2}CuO_{4} & 0.58\times 10^{-4} & 24 \\ La_{1.9}Sr_{6.1}CuO_{4} & 1.53\times 10^{-4} & 24 \\ YBa_{2}Cu_{3}O_{6} & 0.43\times 10^{-4} & 24 \\ YBa_{2}Cu_{3}O_{7} & 1.05\times 10^{-4} & Present work \\ ({\rm Tl_{0.9}}Pb_{0.3}Sr_{2}CaCu_{3}O_{7} & 1.07\times 10^{-4} & 45 \\ \end{tabular}
+\end{table}
+Table 4: Comparison of the temperature-independent susceptibility of different compounds.
+
+  d\chi_{\rm spin}/dx=(-1.3\pm 0.2)\times 10^{-8} emu G-1 g-1 %-1. As evidenced from NMR on 63Cu, 17O,43 and 89Y,44 where no decrease of Knight shift is found upon doping with Zn, the bulk susceptibility (away from the Zn impurity) remains unaffected. In as much as Zn doping does not change the average hole doping, no change of the spin susceptibility can be expected _a priori_. It is then tempting to attribute the observed change in \chi_{\rm spin}(x) to a local modification of the electronic configuration around each Zn impurity. We further remark that the measured rate of decrease of \chi_{\rm spin}(x) is significantly faster (by a factor of 2.3) than what would be expected if the only effect of Zn doping were to replace a Cu site by a (nonmagnetic) Zn site. In the latter case one would expect a simple dilution to take place at a rate
+
+\[\begin{array}{l} \left[ {d\chi_{\rm spin}/dx} \right]_{\rm dilution}\\ = \left( {-0.56\pm 0.2} \right)\times 10^{-8}\ {\rm emu}\ {\rm G}^{-1}\,{\rm g}^{-1}\,{\rm \%}^{-1}\ .\end{array}\]
+
+At this point it is important to be aware that the way we have defined the Curie contribution supposes that the Pauli susceptibility remains temperature independent with Zn doping. This is no longer true when the weak-localization limit is reached. In this case, the 3D correction \Delta\chi_{\rm spin}(x) to the susceptibility35 enables us to calculate the ratio \Delta\chi_{\rm spin}(x)/\chi_{\rm spin}(x) for one unit cell as
+
+\[\Delta\chi_{\rm spin}(x)/\chi_{\rm spin}(x)=\frac{3}{2}\frac{U}{E_{F}}(k_{f}l )^{-3/2}\left[\frac{k_{B}T}{E_{F}}\right]^{1/2}\ ,\]
+
+where U is the Stoner factor found from the field-dependent part of the Hartree term of the free energy. The correction is at most of the order of 10-2 at T = 100 K with (_U_/_E__F_) = 0.1 and k_{F} l = 1 and does not appreciably change our conclusions.
+
+In the next section we will concentrate on the Curie term appearing associated with the Zn site. In order to reconcile this decrease of \chi_{\rm spin}(x) with the associated emergence of the Curie susceptibility we first calculate the expected relation between the change of the average Pauli susceptibility and that of the Curie constant in a jellium model (with one electron per site) where we suppose that the effect of replacing one atom of the jellium by one vacancy of concentration x results in a free magnetic moment (at the expense of the local hole density). Thus
+
+\[\chi_{\rm Pauli}(x)=\mu_{B}^{2}\rho_{\rm jellium}(E_{F})(1-x)\]
+
+and
+
+\[C(x)=\mu_{B}^{2}Nx/3k_{B}\]
+
+(_N_ is the number of sites per unit volume), which expresses that the Pauli susceptibility is not modified in the bulk but is suppressed on the site of the vacancy; the resulting localized electron gives rise to the Curie constant. The relation sought is
+
+\[\frac{\Delta\chi_{\rm Pauli}/\Delta x}{\Delta C/\Delta x}=-3k_{B}\rho_{\rm jellium}(E_{F})/N=\frac{9}{2}\ \left[\frac{n}{N}\right]\frac{1}{T_{F}}\]
+
+taking \rho_{\rm jellium}(E_{F})=3n/2k_{B}T_{F}, where n is the number of carriers per unit volume and T_{F} the jellium Fermi temperature. We find \Delta\chi/\Delta C=-3.3\times 10^{-4} K-1, with T_{F} = 13 620 K and n = N. In order to compare this number with our measurements we take into account the following factors:
+
+(i) _n_/_N_ = 1/3 for YBa2Cu3O7;
+
+(ii) the density of states to be used is a factor 8.54 larger than obtained from the calculated Pauli susceptibility;
+
+(iii) the magnetic moment associated with the Curie term is only 0.64 m_{B}.
+
+With these appropriate factors we calculate \Delta\chi/\Delta C=-2.2\times 10^{-3} K-1, to be compared with Fig. 14 where the slope is \Delta\chi/\Delta C=-(4.4\pm 0.3)\times 10^{-3} K-1. This order of magnitude agreement is quite encouraging for a local model associated with the effect of Zn in [CuO2] planes.
+
+If the Wilson ratio found for x = 0 is not modified by the presence of Zn since Zn is modeled to have only a local effect on each site, then one should expect \gamma_{n}(x) to decrease in a similar way as \chi_{\rm spin}(x). It is not obvious whether the present accuracy of the specific-heat measurement can be sensitive to the 20% decrease observed for \chi_{\rm spin}(x) for 0% \leq x\leq 10%.40
+
+A support to our present finding is given by the measurements46 of the temperature-independent susceptibility of YBa2Cu3O7 \rm YBa_{Cu}3O6 [\chi_{\rm spin}(4\%)=2.3\times 10^{-7} emu G-1 g-1]. It is found in this case46 that the high-temperature limit of susceptibility decreases from YBa2Cu3O6 [\chi_{\rm spin}(0\%)=2.7\times 10^{-7} emu G-1 g-1] at a rate d\chi_{\rm spin}/dx=-1.1\times 10^{-8} emu G-1 g-1 %-1. This rate is very close to that (-1.3\times 10^{-8} emu G-1 g-1 %-1) found in the present work on YBa2Cu3O7. This fact shows that the variation of \chi_{\rm spin}(x) occurs irrespective of that of \chi_{\rm Pauli}.
+
+In order to go further in the interpretation of the magnetic properties of Zn in YBa2Cu3O7 one needs a microscopic model of Zn dissolved in a [CuO2] plane, which we lack. Hence the following considerations might only serve as a general guide for such a model. The most glaring questions are first how the presence of Zn leads to the appearance of a magnetic moment and secondly where does this magnetic moment appear? If the Zn atom site is discarded (as already shown by Cieplak _et al_.36 on La1.85Sr0.15CuO4 using Zn, Ga, and Al as dopants) then, by symmetry, the first four Cu neighbors are the most likely to be involved. This extended Zn perturbation effect is indeed allowed by the size of the scattering cross section measured which encompasses the first Cu neighbors. This is further strongly suggested by the presence of satellites of the 89Y NMR line separated from the main NMR line by a local average hyperfine field following a Curie law.44 Accepting the idea (originally proposed by Arai and Shimizu1 on the basis of magnetic and transport properties of Fe-doped YBCO) that the magnetic moment might be distributed among the four Cu near-neighbor sites implies that each Cu moment is only 0.32_m__B_ per site (N_{\rm Zn}\mu_{\rm Zn}^{2}=4N_{\rm Zn}\mu_{\rm Cu}^{2}). It also implies that these four moments experience a ferromagnetic coupling since they are related by the second-neighbor position with each other (Fig. 17). This next-nearest-neighbor fer  romagnetic coupling should be related to that of the bulk [CuO_{2}] planes and is proposed to be primarily responsible for the observed Curie temperature T_{C}(x). On this basis, it is quite tempting to give the following interpretation to the observed decrease of the Curie temperature with increasing x. Each isolated Zn sites induces a magnetic moment composed of four near-neighbor Cu atoms each contributing 0.32\mu_{B}. These four moments experience a ferromagnetic coupling resulting in a Curie temperature T_{C}(x\to 0)\cong(57\pm 6). K. Upon increasing the Zn concentration these moments begin to experience the long-distance spin-spin interaction resulting in an antiferromagnetic average quite similar to the situation in spin glasses [47]. The observed decrease of the Curie temperature with x is then simply due to the superposition of a fixed, short-range ferromagnetic coupling and a variable, long-range antiferromagnetic one. This qualitative model does not explain why these two opposite effects should compensate each other for x=10\% but does predict that the low-temperature magnetic state at this concentration should be spin-glass-like, although the (apparent) Curie temperature vanishes.
+
+## V Conclusion
+
+In this work we have performed transport and magnetic measurements of Zn dissolved in YBCO in order to get a more detailed knowledge of the effect of Zn in the normal state and possibly in the superconducting state of YBCO. We first observe that T_{c} is indeed strongly suppressed by Zn at a rate of 8.8 K/%. Our conclusion concerning the resistivity measurements, although hampered by the fact that our samples are in the form of ceramics, is that Zn presents a large resistivity 2D cross section of diameter 7.7\pm0.4 A about a factor of 2 larger than that obtained in single crystals [4, 26] in the ab plane. The origin of this discrepancy is not clear and may have to do with the fact that we tend to average transport properties in the ab and c directions: indeed, the apparent scattering cross section is huge in the c direction [26]. This averaging is also involved in increasing the apparent temperature-dependent resistivity.
+
+The paradoxical appearance of a magnetic moment associated with the presence of Zn doping leads to an average magnetic moment of 0.64\mu_{B}/Zn according to the measured Curie constant as a function of x with, however, a scatter in the observed values which might imply that not all the Zn atoms are localized in the [CuO_{2}] planes. This scatter is reduced by comparing the decrease of the temperature-independent spin susceptibility to the increase of the Curie constant for each concentration, consistent with a localized model for the Zn perturbation. This model implies that the four near-neighbor Cu sites are magnetic (with 0.32\mu_{B}/Cu) and experience a ferromagnetic coupling between them together with the more usual long-distance antiferromagnetic coupling to other Zn sites.
+
+Thus is appears that YBa_{2}(Cu_{1-x}Zn_{x})_{3}O_{7} behaves in a way quite similar to that observed in La_{1.85}Sr_{0.15}CuO_{4} for Zn and other a_priori_ nonmagnetic dopants such as Ga and Al which also strongly suppresses the superconductivity. There is at present no microscopic model of these effects: this work (and the preceding ones) show that we deal here with a rather fundamental and original aspect of the high-temperature superconducting materials as compared to classical superconductors.
+
+###### Acknowledgements.
+
+ We are grateful for numerous discussions with our colleagues in Orsay, Saclay, and Paris, particularly P. Mendels, H. Alloul, G. Collin, R. Villeneuve, A. Revcolevschi, A. George, M. Gabay, and N. Bontemps. We are indebted to J. Imry, A. Abrikosov, J. R. Cooper, and E. Abrahams for illuminating a number of points and to N. Bontemps for a critical reading of the manuscript. We thank K. Semba and D. J. C. Walker for sending us copies of their work before publication. This work is supported by the NEDO grant "Short coherence length in HTSC."
+
+## References
+
+* [1] J. Arai and H. Shimizu, Physica C **161**, 475 (1989).
+* [2] T. Tommasa, Y. Nakamichi, and K. Kumagai, J. Phys. Soc. Jpn. **59**, 3471 (1990); C. Y. Yang, A. R. Moodenbaugh, Y. L. Wang, Y. Xu, S. M. Heald, and D. O. Welch, Phys. Rev. B **42**, 2231 (1990).
+* [3] R. Liang, T. Nakamura, H. Kawaji, M. Itoh, and T. Nakamura, Physica C **170**, 307 (1990).
+* [4] T. R. Chien, Z. Z. Wang, and N. P. Ong, Phys. Rev. Lett. **67**,
+
+Figure 17: Model for Zn impurity environment in CuO_{2} plane of YBa_{2}(Cu_{1-x}Zn_{x})_{3}O_{7}. The four near-neighbor Cu sites are within the limit of the 2D resistivity cross section diameter and are supposed to bear a magnetic moment of 0.32\mu_{B}. The dotted lines indicate a ferromagnetic coupling and the continuous line an antiferromagnetic coupling. The remaining part of the CuO_{2} plane is supposed unaffected.
+
+  2088 (1991).
+* [2] Gang Xiao, M. Z. Cieplak, J. Q. Xiao, and C. L. Chien, Phys. Rev. B **42**, 8752 (1990).
+* [3] Gang Xiao, M. Z. Cieplak, and C. L. Chien, Phys. Rev. B **42**, 240 (1990).
+* [4] T. Nakano, M. Oda, C. Manabe, N. Momono, Y. Miura, and M. Ido, Phys. Rev. B **49**, 16 000 (1994).
+* [5] H. Alloul, T. Ohno, H. Casalta, J. F. Marucco, P. Mendels, J. Arabski, G. Collin, and M. Mehbod, Physica C **171**, 419 (1990).
+* [6] P. Mendels, H. Alloul, J. F. Marucco, J. Arabski, and G. Collin, Physica C **171**, 429 (1990).
+* [7] H. Alloul, P. Mendels, H. Casalta, J. F. Marucco, and J. Arabski, Phys. Rev. Lett. **67**, 3140 (1991).
+* [8] P. Mendels, H. Alloul, J. H. Brewer, G. D. Morris, T. L. Duty, S. Johnston, E. J. Ansaldo, G. Collin, J. F. Marucco, C. Niedermayer, D. R. Noakes, and C. E. Stronach, Phys. Rev. B **49**, 10 035 (1994).
+* [9] Gang Xiao, M. Z. Cieplak, D. Musser, A. Gavrin, F. H. Streitz, C. L. Chien, J. J. Rhyne, and J. A. Gotaas, Nature **332**, 238 (1988).
+* [10] T. Tamegai, and Y. Iye, Phys. Rev. B **44**, 10 167 (1991); D. J. C. Walker, A. P. Mackenzie, and J. R. Cooper (unpublished).
+* [11] R. Cooper, Supercond. Sci. Technol. **4**, 8181 (1991).
+* [12] J. R. Cooper, S. D. Obertelli, P. A. Freeman, D. N. Zheng, J. W. Loram, and W. Y. Liang, Supercond. Sci. Technol. **4**, 5277 (1991).
+* [13] J. M. Tarascon, P. Barboux, P. F. Miceli, L. H. Greene, and G. W. Hull, Phys. Rev. B **37**, 7458 (1988).
+* [14] R. Villeneuve and G. Collin (private communication).
+* [15] L. Raffo, F. Licci, and A. Migliori, Phys. Rev. B **48**, 1192 (1993).
+* [16] A. M. Finkelstein, V. E. Kataev, E. F. Kukovitskii, and G. B. Teitel'baum, Physica C **168**, 370 (1990).
+* [17] G. Ilonca, M. Mehbod, A. Lanckbeen, and R. Deltour, Phys. Rev. B **47**, 15 265 (1993).
+* [18] Gang Xiao, A. Bakhshai, M. Z. Cieplak, Z. Tesanovic, and C. L. Chien, Phys. Rev. B **39**, 315 (1989).
+* [19] Note that the temperature range of the fit is restricted as explained above.
+* [20] M. Takigawa, P. C. Hammel, R. H. Heffner, Z. Fisk, J. L. Smith, and R. B. Schwarz, Phys. Rev. B **39**, 300 (1989).
+* [21] W. C. Lee and D. C. Johnston, Phys. Rev. B **41**, 1904 (1990).
+* [22] F. Mila and T. M. Rice, Physica C **157**, 561 (1989).
+* [23] K. Semba and A. Matsuda, Phys. Rev. B **49**, 10 043 (1994).
+* [24] Rolf Landauer, J. Appl. Phys. **23**, 779 (1952); D. Stroud, Phys. Rev. B **12**, 3368 (1975).
+* [25] B. Wuyts, E. Osquiguil, M. Maenhoudt, S. Libbrecht, Z. X. Gao, and Y. Bruynseraede, Phys. Rev. B **47**, 5512 (1993).
+* [26] We note that a twofold increase d\rho/dT is observed when measuring the resistivity of pure YBCO samples as a function of oxygen depletion from O_{7} to O_{6,6} without a measurable, systematic increase of the residual resistivity defined by extrapolation to T=0 of the normal resistivity.
+* [27] M. Gabay (private communication).
+* [28] S. Chakravarty, B. I. Halperin, and D. R. Nelson, Phys. Rev. B **39**, 2344 (1989).
+* [29] Gang Xiao, J. Q. Xiao, C. L. Chien, and M. Z. Cieplak, Phys. Rev. B **43**, 1245 (1991).
+* [30] S. Zagoulaev and I. I. Tupitsin (unpublished).
+* [31] A. F. Ioffe and A. R. Regel, Prog. Semicond. **4**, 237 (1960).
+* [32] H. Fukuyama, in _Localization, Interaction, and Transport Phenomena_, edited by B. Kramer, G. Bergmann, and Y. Bruynseraede, Springer Series in Solid-State Sciences Vol. 61 (Springer-Verlag, Berlin, 1985); P. Lee and T. V. Ramakrishnan, Rev. Mod. Phys. **57**, 287 (1985).
+* [33] M. Z. Cieplak, S. Guha, H. Kojima, P. Lindenfeld, Gang Xiao, J. Q. Xiao, and C. L. Chien, Phys. Rev. B **46**, 5536 (1992).
+* [34] B. Batlogg, Physica B **169**, 7 (1991).
+* [35] Y. Iye _et al._, Physica C **153-155**, 26 (1988).
+* [36] T. Timusk and D. Tanner, in _Physical Properties of HTSC I_, edited by D. Ginsberg (World Scientific, Singapore, 1988), p. 339.
+* [37] W. Loram, K. A. Mirza, and P. F. Freeman, Physica C **171**, 243 (1990).
+* [38] C. B. Azzoni, A. Paleari, and G. B. Parravicini, J. Phys. Condens. Matter **4**, 1359 (1992).
+* [39] T. Imai, C. P. Slichter, K. Yoshimura, and K. Kosuge, Phys. Rev. Lett. **70**, 1002 (1993).
+* [40] Y. Kitaoka, K. Ischida, G.-Q. Zheng, S. Ohsugi, and K. Asayama, J. Phys. Chem. Solids **54**, 1385 (1993).
+* [41] A. V. Mahajan, H. Alloul, G. Collin, and J. F. Marucco, Phys. Rev. Lett. **72**, 3100 (1994).
+* [42] A. Trokiner, P. V. Bellot, and S. Zagoulaev (private communication).
+* [43] P. Mendels (private communication).
+* [44] In principle, this simple behavior should also be altered when reaching the onset of localization: this is expected to influence only the two higher concentration points on Fig. 13.
+
+  Figure 17: Model for Zn impurity environment in CuO_{2} plane of YBa_{2}(Cu_{1-x}Zn_{x})_{3}O_{7}. The four near-neighbor Cu sites are within the limit of the 2D resistivity cross section diameter and are supposed to bear a magnetic moment of 0.32\mu_{B}. The dotted lines indicate a ferromagnetic coupling and the continuous line an antiferromagnetic coupling. The remaining part of the CuO_{2} plane is supposed unaffected.
+
+ 

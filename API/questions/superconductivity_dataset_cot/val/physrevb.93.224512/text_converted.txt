@@ -1,0 +1,886 @@
+Proximity-induced superconductivity within the insulating
+(Li0.84Fe0.16)OH layers in (Li0.84Fe0.16)OHFe0.98Se
+
+Rustem Khasanov
+
+rustem.khasanov@psi.ch Laboratory for Muon Spin Spectroscopy, Paul
+Scherrer Institut, CH-5232 Villigen PSI, Switzerland
+
+Huaxue Zhou
+
+Beijing National Laboratory for Condensed Matter Physics, Institute of
+Physics & University of Chinese Academy of Science, CAS, Beijing 100190,
+China
+
+Alex Amato
+
+Laboratory for Muon Spin Spectroscopy, Paul Scherrer Institut, CH-5232
+Villigen PSI, Switzerland
+
+Zurab Guguchia
+
+Beijing National Laboratory for Condensed Matter Physics, Institute of
+Physics & University of Chinese Academy of Science, CAS, Beijing 100190,
+China
+
+Elyzeio Morenzoni
+
+Laboratory for Muon Spin Spectroscopy, Paul Scherrer Institut, CH-5232
+Villigen PSI, Switzerland
+
+Xiaoli Dong
+
+Beijing National Laboratory for Condensed Matter Physics, Institute of
+Physics & University of Chinese Academy of Science, CAS, Beijing 100190,
+China
+
+Guangming Zhang
+
+Beijing National Laboratory for Condensed Matter Physics, Institute of
+Physics & University of Chinese Academy of Science, CAS, Beijing 100190,
+China
+
+Zhongxian Zhao
+
+Beijing National Laboratory for Condensed Matter Physics, Institute of
+Physics & University of Chinese Academy of Science, CAS, Beijing 100190,
+China
+
+November 7, 2021; revised manuscript received 22 May 2016; published 15
+June 2016
+
+###### Abstract
+
+The superconducting and magnetic properties of single crystalline
+(Li0.84Fe0.16)OHFe0.98Se with the transition temperature T_(c) ≃ 40 K
+were studied by means of muon-spin rotation (μSR). The zero-field and
+field-shift μSR experiments confirm the homogeneity of the sample and
+the antiferromagnetic ordering within the (Li0.84Fe0.16)OH layers below
+T_(m) ≃ 10 K. The temperature dependence of the in-plane component of
+the magnetic penetration depth (λ_(ab)) was found to be consistent with
+gap opening within the superconducting FeSe planes, and it is well
+described within either the single s-wave gap or two s-wave gaps
+scenario. The opening of an additional small superconducting gap within
+the insulating (Li1.7Fe )OH layers was detected from the temperature
+evolution of the out-of plane component of the magnetic penetration
+λ_(c)⁻²(T). The superconductivity in (Li0.84Fe0.16)OH is most probably
+induced by the proximity to the superconducting FeSe layers.
+
+pacs: DOI: 10.1103/PhysRevB.93.224512 + Footnote †: preprint: PHYSICAL
+REVIEW B **93**, 224512 (2016)
+
+## I Introduction
+
+Recently, the iron chalcogenide system has attracted much interest due
+to a series of discoveries of new superconductors with high transition
+temperatures (T_(c)’s). The superconducting transition temperature of
+FeSe1-_(x) reaches values up to T_(c) ≃ 37 K by applying pressure [1].
+An intercalation of the alkali metals (K, Cs, Rb) between FeSe layers
+increases T_(c) above 30 K [2, 3, 4]. The transition temperature value
+raises up to T_(c) ≃ 100 K in a single layer FeSe film grown on a SrTiO₃
+substrate [5, 6]. Significant enhancement of T_(c) is also observed in
+FeSe structures intercalated with alkali metal coordinated to molecular
+spacers (as, e.g., ammonia, pyridine, ethylenediamine, or
+hexamethylenediamine) [7, 8, 9, 10] as well as by lithium-iron hydroxide
+[11, 12, 13, 14, 15]. In this case T_(c) was also claimed to increase
+with the increased two-dimensionality [16]. However, to date, the
+enhancement of two-dimensional properties caused by intercalation was
+solely related to the increased distance between the superconducting
+FeSe layers [10, 16]. Due to the lack of good quality single crystals,
+the anisotropic physical properties as well as the role of the
+intermediate spacer layer were not yet studied. Recently Dong _et
+al._[15] have reported the synthesis of high-quality single crystals of
+(Li1.7Fe )OHFeSe with T_(c) reaching ≃42 K. The highly anisotropic
+properties of (Li1.7Fe )OHFeSe were confirmed in the measurements of the
+normal state resistivity and upper critical field.
+
+In this paper we report on a detailed study of the evolution of the
+superconducting and magnetic properties of single crystalline
+(Li0.84Fe0.16)OHFe0.98Se by using the muon-spin rotation (μSR)
+technique. The zero-field and field-shift μSR experiments confirm the
+homogeneity of the sample and the antiferromagnetic ordering within the
+(Li0.84Fe0.16)OH layers below T_(m) ≃ 10 K. The temperature dependence
+of the in-plane component of the magnetic penetration depth studied in
+transverse-field μSR experiment was found to be consistent with gap
+opening within the superconducting FeSe planes, and it is well described
+within either the single s-wave gap (Δ_(s) = 10.5 meV) or two s-wave
+gaps (Δ_(s, 1) = 15 meV and Δ_(s, 2) = 9 meV) scenario in agreement with
+the results of ARPES [17] and STS [18] experiments, respectively. The
+opening of an additional small superconducting gap of unknown symmetry
+(≃1.05 meV and 1.5 meV in a case of s- and d-wave symmetry,
+respectively) was detected from the temperature evolution of the out-of
+plane component of the magnetic penetration λ_(c)⁻²(T). This gap, most
+probably, opens within the insulating (Li1.7Fe )OH layers and appears to
+be induced by the proximity to the superconducting FeSe layers. The
+strong enhancement of the out-of-plane superfluid density
+ρ_(s, c) ∝ λ_(c)⁻² occurs at the same temperatures where the magnetism
+within the intermediate (Li0.84Fe0.16)OH layers sets in. The penetration
+depth anisotropy γ = λ_(c)/λ_(ab) decreases from γ ≃ 10 at T_(c) to  ≃ 6
+at T ≃ 1.6 K.
+
+The paper is organized as follows: In Sec. II we describe the sample
+preparation procedure and the application of the "surface muon" μSR
+technique to study thin single crystalline samples. The zero-field (ZF)
+and the transverse-field (TF) μSR data analysis procedure are described
+in Sec. III. Section IV A comprises studies of the magnetic response of
+the (Li0.84Fe0.16)OHFe0.98Se sample. The field-shift experiments, the
+temperature dependencies of the in-plane and out of-plane components of
+the magnetic penetration depth are presented in Sec. IV B. The
+enhancement of two-dimensional properties and the interplay between the
+magnetism and superconductivity in (Li1.7Fe )OHFeSe system are briefly
+discussed in Secs. IV B.5 and IV C. The theoretical considerations of an
+interplay between the antiferromagnetically ordered and the
+superconducting layers are presented in Sec. IV C.1. The conclusions
+follow in Sec. V.
+
+## II Sample preparation and experimental techniques
+
+### Sample preparation
+
+The superconducting (Li0.84Fe0.16)OHFe0.98 Se single crystal was
+synthesized by using the hydrothermal ion-exchange synthesis [15]. 0.012
+mol selenourea (Alfa Aesar, 99.97
+
+### Experimental techniques
+
+X-ray diffraction (XRD) measurements were carried out at a room
+temperature on a Rigaku Ultima IV (3KW) diffractometer using Cu-K_(α)
+radiation. The room temperature x-ray diffraction (XRD) patterns
+demonstrate a good sample quality and its orientation along (001) planes
+(see Fig. 1).
+
+The magnetic measurements were conducted on a Quantum Design MPMS-XL1
+system with a remanent field lower than 0.4 μT. The zero-field cooled
+(ZFC) and field cooled (FC) magnetization curves measured at μ₀H = 0.1
+mT applied along the ab plane are shown in Fig. 2(a). A sharp
+diamagnetic transition occurs at about 40.5 K. The ZFC magnetization
+curve measured at μ₀H = 10 mT is shown in Fig. 2(b). Note the absence of
+"ferromagneticlike" features as observed by Pachmayr _et al._[12] on
+[(Li1-_x_Fe_(α))OH](Fe1-_x_Li_(γ))Se.
+
+The muon spin rotation (μSR) experiments were carried out at the πM3
+beam line at the Paul Scherrer Institute, Switzerland. The zero-field
+(ZF) and transverse-field (TF) μSR measurements were performed at
+temperatures ranging from ≃1.5 to 50 K. In TF measurements the external
+magnetic field was applied perpendicular to the muon-spin polarization.
+The typical counting statistics were ∼15 - 20 x 10⁶ positron events for
+each data point.
+
+### Application of the "surface muon" μSR technique to study thin
+samples
+
+So called "surface" muons with momentum of ≃28.6 MeV/c and kinetic
+energy of ≃4.1 MeV (as used in our studies) stop in the matter at the
+depth of about 0.15 g/cm². For (Li0.84Fe0.16)OHFe0.98Se with the density
+of ≃4 g/cm³ this corresponds to a depth of ≃0.4 mm. In order to measure
+the sample with a thickness of ≃0.1 mm, as (Li0.84Fe0.16)OHFe0.98Se
+single crystal studied here, a special sample holder was constructed.
+The schematic view of the experimental setup is presented in Fig. 3. The
+sample was sandwiched between two pieces made of several 0.125 mm thick
+Kapton sheets. The first few Kapton layers play a role of a "degrader"
+by decelerating the muons in the incoming muon beam. After passing the
+degrader the muons are already slow enough to be stopped in the sample.
+The last layers are used to stop the muons which were still able to go
+through the sample.
+
+Figure 2: (a) The zero-field cooled (ZFC) and field cooled (FC)
+magnetization curves measured at μ₀H = 0.1 mT applied along the ab
+plane. (b) ZFC magnetization curve measured at μ₀H = 10 mT. Note the
+absence of “ferromagneticlike” features as observed by Pachmayr _et
+al._[12] on [(Li1-_x_Fe_(α))OH](Fe1-_x_Li_(γ))Se.
+
+Figure 1: The x-ray diffraction patterns of (Li0.84Fe0.16)OHFe0.98Se
+single crystal demonstrating its orientations along (001) planes. The
+inset shows the photo of the single crystal used in our studies.
+
+The reliable thickness of the "degrader" layer (5 x 0.125 mm Kapton
+sheets) as well as the ZF- and TF-μSR response of Kapton were determined
+in the separate set of experiments.
+
+## III ZF- and TF-μSR data analysis procedure
+
+### ZF-μSR data analysis procedure
+
+The μSR experiments in zero field (ZF-μSR) were performed in order to
+study the magnetic response of the sample. In two sets of experiments
+the initial muon-spin polarization P(0) was applied parallel to the
+crystallographic c axis and the ab plane, respectively. For the
+experimental setup presented in Fig. 3 it corresponds to cases with
+P(0) ∥ x and P(0) ∥ z directions, correspondingly. A few representative
+muon-time spectra for both initial muon-spin orientations are shown in
+Fig. 4.
+
+The asymmetry A(t) in the whole temperature range and for both
+orientations was fitted by using the following functional form:
+
+$$\frac{A_{ZF}(t)}{A_{ZF}(0)} = f_{m}\ [f_{p}\ e^{-\Lambda_{L}t}+(1-f_{p})\ e^{-\Lambda_{L}t}]$$
+(1)
+  + (1 − f_(m)) e^(−Λt)GKT(t) + BG.
+
+The first and the second terms on the right hand site represent
+contributions from the magnetically ordered parts of the sample and
+those remaining in the nonmagnetic state. f_(m) is the magnetic fraction
+with the corresponding transversal (Λ_(T)) and longitudinal (Λ_(L))
+relaxation rates; f_(p) is the fraction of muons experiencing precession
+in the internal fields (in powder samples f_(p) ≡ 2/3); GKT is the
+Gaussian Kubo-Toyabe relaxation function representing the contribution
+of nuclear moments; Λ represents the relaxation caused by randomly
+distributed magnetic impurities; and BG is the background contribution
+caused by muons missing the sample and/or stopped in Kapton layers.
+
+Both data sets [P(0) ∥ c and P(0) ∥ ab] were fitted simultaneously (all
+runs within the single fit procedure). For each particular temperature
+the parameters f_(m), Λ_(L), Λ_(T), and Λ were assumed to be the same
+for P(0) ∥ c and P(0) ∥ ab set of measurements. f_(p) and the Gaussian
+Kubo-Toyabe relaxation σ_(GKT) entering GKT function were assumed to be
+dependent on the orientation and independent on temperature.
+
+### TF-μSR data analysis procedure
+
+Two sets of field-cooled TF-μSR experiments with the magnetic field (H)
+applied parallel to the c axis and the ab plane were performed.
+Following the experimental setup presented in Fig. 3 the first (H ∥ c)
+case corresponds to the magnetic field and the initial muon-spin
+polarization [P(0)] applied along the x and z direction,
+correspondingly. In the second set of experiments (H ∥ ab), the
+orientation of P(0) was kept the same, while the magnetic field was
+applied along the y axes.
+
+Figure 5 shows the TF-μSR time spectra measured with the external field
+μ₀H = 12 mT applied parallel to the crystallographic c direction above
+(T = 42.4 K) and below (T = 1.5 K) the superconducting transition
+temperature T_(c). The stronger damping at T ≃ 1.5 K is caused by the
+nonuniform field distribution in the flux-line lattice.
+
+In order to account for the asymmetric field distribution P(B) in the
+superconductor in the vortex state (see, e.g., Ref. [19] and Sec.
+IV.2.1) the H ∥ c data were analyzed by using the skewed Gaussian (SKG)
+field distribution [20]:
+
+$$P_{\mathrm{sig}}(B)=\sqrt{\frac{2}{\pi}}\frac{\gamma_{\mu}}{\sigma_{+}+\sigma _{-}}\begin{cases}\exp\big{[}-\frac{1}{2}\frac{(B-B_{0})^{2}}{(\sigma_{-}/ \gamma_{\mu})^{2}}\big{]}&B\geqslant B_{0}\\ \exp\big{[}-\frac{1}{2}\frac{(B-B_{0})^{2}}{(\sigma_{-}/\gamma_{\mu})^{2}} \big{]}&B<B_{0}\end{cases}.$$
+(2)
+
+Figure 4: The zero-field muon-time spectra measured with the initial
+muon-spin polarization P(0) applied parallel to the crystallographic c
+axis (a) and the ab plane (b).
+
+Figure 3: The schematic view of the experimental setup for μSR
+experiments on thin single-crystalline samples. The first few Kapton
+layers play a role of degrader by decelerating the muons in the incoming
+muon beam. The last layers are used in order to stop the muons passing
+the sample. The crystallographic c axis of the
+(Li_(0.84)Fe_(0.16))OHFe_(0.98)Se is aligned along the x direction.
+
+Here γ_(μ) = 2π 135.5 MHz/T is the muon gyromagnetic ratio; B₀ is the
+field corresponding to the maximum of P(B) distribution; σ₊ and σ⁻ are
+Gaussian widths of the distribution above and below B₀, respectively.
+
+The first (M₁) and the second (M₂) moments of the SKG distribution are
+[20]:
+
+$$M_{1}=\langle B\rangle=B_{0}+\sqrt{\frac{2}{\pi}}\ \frac{\sigma_{+}-\sigma_{-}}{ \gamma_{\mu}}$$
+(3)
+
+and
+
+$$M_{2}=\frac{1}{\pi\,\gamma_{\mu}^{2}}\ [(\pi-2)\ \sigma_{-}^{2}-(\pi-4)\ \sigma_{+}\sigma_{-}+(\pi-2)\ \sigma_{+}^{2}].$$
+(4)
+
+In order to fit the SKG distribution to the experimental TF-μSR data the
+transformation from the field domain to the time domain is performed via
+[20]:
+
+SKG(t) = ∫_(−∞)^(∞)P_(kg)(B) cos (γ_(μ) Bt) dB.
+(5)
+
+Finally, by considering the magnetic response of
+(Li_(0.84)Fe_(0.16))OHFe_(0.08)Se studied in the ZF-μSR experiment (see
+Sec. IV.1), the TF-μSR data for H ∥ c orientation were fitted as:
+
+$$\frac{A_{TF}(t)}{A_{TF}(0)} = (1-f_{m})\ \text{SKG}(t)$$
+(6)
+×e^(−λ_(TF)t) + BG.
+
+Here Λ_(TF) is the exponential relaxation caused by magnetic impurities.
+Following Ref. [21], Λ_(TF) relates to the value measured in the zero
+field (see Sec. IV.1) as Λ_(TF) ≃ 0.56 Λ. The prefactor (1 − f_(m))
+accounts for the fraction of muons experiencing oscillations in parts of
+the sample remaining nonmagnetic (see Sec. IV.1). For the analysis of
+the TF spectra the BG term includes the magnetic contribution.
+
+The results of the analysis are presented in Fig. 6. The inset in Fig.
+6(a) shows the temperature dependence of the square root of the second
+moment σ = (M₂)^(1/2) obtained by using Eq. (4).
+
+The second set of TF-μSR experiments was performed by applying the
+external field (μ₀H = 10.8 mT) parallel to the ab plane. The analysis
+reveals that within the whole temperature range the field distribution
+P(B) remains symmetric and could be well described by single Gaussian
+distribution function. In analogy with the H ∥ c case, described above,
+the H ∥ ab set of data was fitted by using the following functional
+form:
+
+$$\frac{A_{TF}(t)}{A_{TF}(0)} = (1-f_{m})\ e^{-\sigma^{2}t/2}$$
+(7)
+×e^(−Λ_(TF)t)cos (γ_(μ) Bt + ϕ) + BG.
+
+The meaning of the parameters are the same as in Eq. (6). ϕ is the
+initial phase of the muon-spin ensemble. Note that the Gaussian
+distribution function is the trivial case of SKG one
+
+Figure 5: TF-μSR time-spectra of (Li_(0.84)Fe_(0.16))OHFe_(0.98)Se
+measured in H ∥ c direction (μ₀H = 12 mT) below (T = 1.5 K) and above
+(T = 42.4 K) the superconducting transition temperature. The stronger
+damping in the superconducting state is due to the formation of the
+vortex lattice.
+
+Figure 6: Temperature dependences of σ₊ and σ⁻ (panel a) and B₀ (panel
+b) obtained from the fit of TF-μSR data by using Eq. (6). The external
+field μ₀H = 12 mT is applied parallel to the crystallographic c axis.
+The inset in panel a shows the square root of the second moment σ as
+calculated by using Eq. (4). $\sigma_{\text{\tiny{am}}}$ is the nuclear
+moment contribution measured above T_(c).
+
+with σ = σ₊ = σ⁻. The results of the analysis of H ∥ ab data are
+presented in Fig. 7.
+
+### Determination of the in-plane and the out-of-plane components of the
+magnetic penetration depth
+
+The superconducting contribution to the square root of the second moment
+σ was further calculated by subtracting the nuclear dipolar contribution
+measured above T_(c) [σ_(nm), see the inset in Figs. 6(a) and 7(a)] as:
+
+σ_(sc)² = σ² − σ_(nm)².
+(8)
+
+In extreme type II superconductor σ_(sc) is related to the magnetic
+penetration depth λ by the expression [22]:
+
+$$\frac{\sigma_{sc}^{2}}{\gamma_{\mu}^{2}}=0.00371\frac{\Phi_{0}^{2}}{\lambda^{ 4}(T)}.$$
+(9)
+
+(Φ₀ = 2.068 × 10⁻¹⁵ Wb is the magnetic flux quantum).
+
+According to the London model, the inverse squared magnetic field
+penetration depth for the isotropic superconductor is proportional to
+the so-called superfluid density in terms of λ⁻² ∝ ρ_(s) = n_(s)/m^(*)
+(ρ_(s) is the superfluid density, n_(s) is the charge carrier
+concentration, and m^(*) is the effective mass of the charge carriers).
+For an anisotropic superconductor the magnetic penetration depth is also
+anisotropic and is determined by an effective mass tensor [23]:
+
+$$m_{\rm eff}=\begin{pmatrix}m_{s}^{*}&0&0\\ 0&m_{f}^{*}&0\\ 0&0&m_{k}^{*}\end{pmatrix},$$
+(10)
+
+where m_(s)^(*) is the mass of the carrier flowing along the ith
+principal axis. The effective penetration depth for the magnetic field
+applied along the ith principal axis of the effective mass tensor is
+then given as [23]:
+
+$$\lambda_{jk}^{-2}=\frac{1}{\lambda_{j}\lambda_{k}}\propto\sigma^{|i|}.$$
+(11)
+
+For convenience we drop index "sc" in the superconducting part of the
+square root of the second moment σ_(sc). Equation (11) implies that by
+applying the magnetic field along the crystallographic a, b, and c
+directions one measures σ^(|a|) ∝ 1/λ_(b)λ_(c), σ^(|b|) ∝ 1/λ_(a)λ_(c),
+and σ^(|c|) ∝ 1/λ_(a)λ_(b), respectively.
+
+For the particular (La_(0.84)Fe_(0.16))OHFe_(0.98)Se sample studied
+here, λ_(a) = λ_(b), so by applying the magnetic field along principal c
+direction the in-plane component of the magnetic penetration depth
+(λ_(ab)) is obtained:
+
+$$\lambda_{ab}^{-2}\left(\mu{\rm m}^{-2}\right)=9.32(\mu{\rm m}^{-2}/\mu{\rm s} ^{-1})\times\sigma^{|c|}\ (\mu{\rm s}^{-1}).$$
+(12)
+
+The out-of-plane component of the magnetic penetration depth (λ_(c)) can
+be calculated by combining the results of H ∥ c and H ∥ ab experiments
+as:
+
+$$\lambda_{c}^{-2}\left(\mu{\rm m}^{-2}\right)=9.32(\mu{\rm m}^{-2}/\mu{\rm s}^{ -1})\times\frac{(\sigma^{|ab|})^{2}\ (\mu{\rm s}^{-2})}{\sigma^{|c|}\ (\mu{\rm s}^{-1})}.$$
+(13)
+
+## IV Results and discussions
+
+### Magnetism of (Li_(0.84)Fe_(0.16))OHFe_(0.98)Se
+
+Dependencies of the magnetic volume fraction f_(m) and the exponential
+relaxation rate Λ on temperature measured in ZF-μSR experiments are
+presented in Figs. 8(a) and 8(b). Both dependencies were obtained from
+the simultaneous (global) fit of P(0) ∥ c and P(0) ∥ ab sets of data by
+using Eq. (1) (see Sec. III.1). Figure 8(a) implies that the magnetic
+fraction f_(m) is nearly zero down to ∼10-15 K and increases up to ≃20
+
+From the data presented in Figs. 8(a) and 8(b) two important points
+emerge. (i) Following Refs. [11,12,24] the intermediate
+(Li_(1 − x)Fe_(x))OH layer becomes fully magnetic at low temperatures.
+Since in our experiments up to 80
+
+Figure 7: Temperature dependences of the Gaussian relaxation rate σ
+(panel a) and the internal field B (panel b) obtained from the fit of
+TF-μSR data by using Eq. (7). The external field μ₀H = 10.8 mT is
+applied parallel to the ab plane. σ_(nm) is the nuclear moment
+contribution measured above T_(c).
+
+within the nonmagnetic FeSe layer. Indeed, for T ≲ 10 K the exponential
+relaxation rate Λ increases almost in the same way as the magnetic
+fraction f_(m).
+
+### Superconductivity of (Li_(0.84)Fe_(0.16))OHFe_(0.98)Se
+
+#### iii.2.1 The homogeneity of the superconducting state: Field-shift
+experiments
+
+The homogeneity of the superconducting state was checked by performing a
+series of field-shift experiments in transverse-field (TF)
+configuration. Figure 9 exhibits the fast Fourier transform of the
+TF-μSR time spectra, which reflects the internal field distribution
+P(B). The black symbols correspond to P(B) obtained after cooling the
+sample at μ₀H = 12 mT (H ∥ c) from a temperature above T_(c) down to
+1.48 K [Fig. 9(a)] and 20.2 K [Fig. 9(b)]. The red symbols are P(B)
+distributions after field cooling in 12 mT and subsequently increasing
+it up to 15 mT. The solid black and red lines represent the
+corresponding fits of Eq. (6) to the data. The analysis reveal that the
+main part of the signal, accounting for approximately 92
+
+The asymmetric P(B) distributions reported in Fig. 9 possess the basic
+features expected for a well aligned vortex lattice. In the case of
+triangular lattice [inset in Fig. 9(b)] the cutoff at low fields
+corresponds to the minimum in P(B) occurring at the midpoint of three
+adjacent vortices ($B_{\rm min}$). The peak arises from the saddle point
+midway between two adjacent vortices ($B_{\rm saddle}$), whereas the
+long tail towards high fields is due to the region around the vortex
+core ($B_{\rm max}$).
+
+#### iii.2.2 Temperature dependence of λ_(ab)⁻²
+
+The temperature dependence of the inverse squared in-plane magnetic
+penetration depth λ_(ab)⁻² ∝ ρ_(s, ab) is shown in Fig. 10(a).
+
+Figure 8: (a) Temperature dependence of the magnetic volume fraction
+f_(m) of (Li_(0.84)Fe_(0.16))OHFe_(0.98)Se as observed by means of
+ZF-μSR. (b) Temperature dependence of the exponential relaxation rate Λ.
+Lines in (a) and (b) are guides to the eye.
+
+Figure 9: Fast Fourier transform of TF-μSR time spectra after cooling in
+an applied field of μ₀H = 12 mT, H ∥ c, (black symbols) and after a
+subsequent field increase to 15 mT (red symbols) at T = 1.48 K (a) and
+20.2 K (b). The solid lines are fits by using Eq. (6). The inset in (b)
+is the contour plot of the field variation within the triangular vortex
+lattice. $B_{\rm min}$, $B_{\rm max}$, and $B_{\rm saddle}$ are the
+minimum, maximum, and the saddle point fields.
+
+Note that the temperature dependence of λ_(ab)⁻² is primarily determined
+by the superconducting gap(s) opening in the ab plane. They should
+correspond to the ones measured directly in recent angle-resolved
+photoemission (ARPES) and scanning tunneling spectroscopy (STS)
+experiments [17, 18, 27, 28]. At present, there is no consistency on the
+number of gaps (one versus two), their symmetries, and absolute values.
+ARPES experiments reveal the presence of a single band around the M
+point at the Brillouin zone with an isotropic (s-wave) gap. The reported
+gap value varies between Δ_(x) = 10.5 meV and ≃13 meV [17, 27]. STS
+experiments point to the presence of two sets of electron pockets near
+the M point with different symmetries and high values of the gaps. Two
+s-wave gaps with Δ_(x, 1) ≃ 15 meV and Δ_(x, 2) ≃ 9 meV were found in
+Ref. [18], while two anisotropic gaps with maximum values
+Δ_(em, 1) = 14.3 meV and Δ_(em, 2) = 8.6 meV were observed in Ref. [28].
+The angular distributions of gaps reported in Refs. [17, 18, 27, 28] are
+shown schematically in Figs. 10(b)-10(e).
+
+The temperature dependence of λ_(ab)⁻² was further analyzed within the
+local (London) approach by using the following functional form [29, 30]:
+
+$$\frac{\lambda^{-2}(T)}{\lambda^{-2}(0)}=1+\frac{1}{\pi}\int_{0}^{2\pi}\int_{ \Delta(T,\varphi)}^{\infty}\left(\frac{\partial f}{\partial E}\right)\frac{E \;dEd\varphi}{\sqrt{E^{2}-\Delta(T,\varphi)^{2}}}.$$
+(14)
+
+Here λ⁻²(0) is the zero-temperature value of the magnetic penetration
+depth, f = [1 + exp (E/k_(B)T)]⁻¹ is the Fermi function, φ is the angle
+along the Fermi surface, and
+Δ(T, φ) = Δ g(φ)tanh [1.82[1.018(T_(c)/T − 1)]^(0.51)] [Δ is the gap
+value at T = 0][30]. g(φ) describes the angular dependence of the gap:
+g_(s)(φ) = 1 for the s-wave gap, g_(am)(φ) = [1 − a(1 − cos 4φ)] for the
+anisotropic gap [28], and g_(d)(φ) = |cos (2φ)| for the d-wave gap.
+
+The two-gap analysis was performed within the framework of the
+phenomenological α model [30, 31]:
+
+$$\frac{\lambda^{-2}(T)}{\lambda^{-2}(0)}=\omega\;\frac{\lambda^{-2}(T,\Delta_{ 1})}{\lambda^{-2}(0,\Delta_{1})}+(1-\omega)\;\frac{\lambda^{-2}(T,\Delta_{2}) }{\lambda^{-2}(0,\Delta_{2})}.$$
+(15)
+
+Here ω (0 ≤ ω ≤ 1) is the weight factor representing the relative
+contribution of the larger gap to λ⁻².
+
+The results of the analysis are presented in Fig. 10(a) and Table 1. It
+should be noted here that the fits were performed by using the gap
+values and the gap symmetries as measured in ARPES and STS experiments
+(see Refs. [17, 18, 27, 28] and also Figs. 10(b)-10(e)). The only free
+parameters were λ_(ab)²(0) and T_(c) in the case of single s-wave gap
+fits and λ_(ab)²(0), T_(c), and ω within a two-gap approach. Obviously,
+three out of four gap models describe the obtained λ_(ab)⁻²(T)
+dependence almost equally well. Only the curve with Δ_(s) = 13 meV
+deviates significantly from the data.
+
+Two important points need to be considered: (i) The analysis reveals
+that within the single s-wave gap approach a satisfactory agreement
+between the fit and the data is achieved for 9.8 ≲ Δ_(s) ≲ 10.6 meV. The
+gap value of 10.5 meV measured in Ref. [17] stays within this limit,
+while the value of 13 meV from Ref. [27] is ≃15
+
+2.3 Consistency of the in-plane superfluid density with the anisotropic
+gap of the single-layer FeSe on the SrTiO₃ substrate
+
+The similarity in electronic behavior of (Li_(1 − x)Fe_(x))OHFeSe and
+the single-layer FeSe on the SrTiO₃ substrate could be further confirmed
+by comparing the consistency of the in-plane superfluid density
+ρ_(s, ab) ∝ λ_(ab)⁻² with the most precise gap measurement performed
+recently by Zhang _et al._[32] by means of ARPES. Following Ref. [32]
+the gap in the single-layer FeSe on the SrTiO₃ substrate is anisotropic
+and is described as:
+
+Δ(φ) = 9.98 − 1.24 cos 2θ + 1.15 cos 4θ meV.
+(16)
+
+The results of the fit with the gap described by the above equation is
+shown in Fig. 10(a). The angular dependence of the gap is presented in
+the panel f. During the fit λ_(ab)⁻²(0) and T_(c) were kept free and
+were found to be 12.67(3) μs⁻² and 42.2(1) K, respectively.
+
+#### 3.2.4 Temperature dependence of λ_(c)⁻²
+
+The temperature dependence of the inverse squared out-of-plane magnetic
+penetration depth λ_(c)⁻² ∝ ρ_(s, c) is shown in Fig. 11. It is
+reasonable to assume that the superconducting energy gap(s) detected
+within the ab plane should remain the same in the perpendicular
+direction. This seems to be correct for some Fe-based superconductors
+as, e.g., SrFe_(1.75)Co_(0.25)As₂[33], FeSe_(0.5)Te_(0.5)[34], LiFeAs
+[35], which are characterized by relatively small values of the
+anisotropy parameter γ_(x) = λ_(c)/λ_(ab). By lowering the temperature
+γ_(x) changes from γ_(x) ≃ 2.0, 1.5, and 2.0 close to T_(c) to
+γ_(x) ≃ 2.7, 2.5, and 1.0 at T ≃ 0 for SrFe_(1.75)Co_(0.25)As₂,
+FeSe_(0.5)Te_(0.5) and LiFeAs, respectively [33, 34, 35].
+
+The analysis reveals, however, that _none_ of the gap models describing
+λ_(ab)⁻²(T) agree with the λ_(c)⁻²(T) dependence. The inflection point
+at T ≃ 10 K clearly implies that a superconducting gap with an absolute
+value much smaller than determined by means of ARPES and STS is present.
+Bearing this in mind and accounting for the simplest s-wave model
+describing λ_(ab)⁻²(T) (Δ_(s) = 10.5 meV, T_(c) = 41.9 K, see Fig. 10
+and Table 1), the two-gap model (Eq. (15)) with the larger gap
+Δ_(s) = 10.5 meV and the smaller gap remaining as a free parameter was
+fitted to the λ_(c)⁻²(T). For the smaller gap the s-wave and d-wave type
+of symmetries were considered. The results of the fit are presented in
+Fig. 11(a) and Table 1. The angular distributions of the gaps in the
+case of s + s and s + d model fittings are shown schematically in Figs.
+11(b) and 11(c). Both s + s and s + d gap models fit λ_(c)⁻²(T) equally
+well. One cannot distinguish between them within the accuracy of the
+experiment. The gap values (Δ_(s, 2) = 1.05 meV and Δ_(d) = 1.50 meV)
+are a factor of 5 to 10 lower than the smallest gap within the ab plane.
+This clearly differentiates (Li_(1 − x)Fe_(x))OHFeSe from other Fe-based
+superconductors where the gap(s) were found to be essentially direction
+independent.
+
+#### 3.2.5 Enhanced two-dimensional properties of
+(Li_(1 − x)Fe_(x))OHFeSe
+
+In (Li_(1 − x)Fe_(x))OHFeSe the FeSe layers are weakly bonded to the
+intermediate (Li_(1 − x)Fe_(x))OH layers via hydrogen atoms.
+
+Figure 11: (a) Temperature dependence of λ_(c)⁻² of
+(Li_(0.84)Fe_(0.16))OHFe_(0.98)Se. The fitting curves were obtained
+within the s + s (b) and s + d (c) gap symmetries. The larger gap and
+T_(c) were fixed to Δ_(s) = 10.5 meV and T_(c) = 41.9 K, respectively.
+The curve with Δ_(s) = 10.5 meV is shown for comparison with λ_(ab)⁻²(T)
+data (see Fig. 10).
+
+c c c c c c & Model & Gap Value(s) & Reference & T_(c) & λ⁻²(0) & ω
+& & (meV) & & (K) & (μm⁻²) &
+& s-wave gap & 10.5 & [17] & 41.9(1) & 12.54(4) &
+& s-wave gap & 13 & [27] & 40.8(1) & 12.21(6) &
+& s + s-wave gaps & 15/9 & [18] & 41.9(1) & 12.65(3) & 0.27(3)
+& an + an gaps & 14.3/8.6 & [28] & 41.7(1) & 12.65(3) & 1.00(2)
+& s + s-wave gaps & 10.5/1.05(3) & & 41.9 & 0.298(6) & 0.39(3)
+λ_(c)⁻² & s + d-wave gap & 10.5/1.50(3) & & 41.9 & 0.326(6) & 0.34(3)
+
+Table 1: Summary of the in-plane (λ_(ab)) and the out-of-plane (λ_(c))
+magnetic penetration depth studies of (Li_(0.84)Fe_(0.16))OHFe_(0.98)Se.
+The analysis of λ_(ab)⁻² was performed by using the gap values and the
+gap symmetries as reported in Refs. [17, 18, 27, 28]. In the analysis of
+λ_(c)⁻², the large gap and T_(c) were fixed to Δ_(s) = 10.5 meV and
+T_(c) = 41.9 K, respectively. The respective meaning of the parameters
+is: T_(c): transition temperature; λ(0)⁻²: zero-temperature value of
+inverse squared magnetic penetration depth; and ω is the relative weight
+of the larger gap to λ⁻².
+
+The distance between the superconducting FeSe layers (≃9.3 A) is also
+higher than in most of the Fe-based superconducting families (including,
+e.g., 11, 111, 122, and 245 families). This clearly indicates that
+(Li_(1 − x)Fe_(x))OHFeSe has a highly two-dimensional character, which
+is also confirmed experimentally by: (i) the observation of an extremely
+high resistivity ratio ρ_(c)/ρ_(ab) which increases continuously with
+decreasing temperature by reaching the value of ρ_(c)/ρ_(ab) ≃ 2500 at
+T = 50 K [15]. (ii) The similar electronic structure of
+(Li_(1 − x)Fe_(x))OHFeSe and the single-layer FeSe on the SrTiO₃
+substrate observed by means of ARPES and STS [17, 18, 27, 28]. Both
+systems were found to have a similar Fermi-surface topology, band
+structure, and superconducting gap symmetry. This statement is further
+confirmed by an agreement of our λ_(ab)⁻²(T) data with the recent gap
+measurements from Ref. [32] (see Sec. IV.2.3); (iii) The present
+observation of a high value of the magnetic field penetration depth
+anisotropy. $\gamma_{\rm z}=\lambda_{c}/\lambda_{ab}\simeq 10$ close to
+T_(c) which decreases to ≃7 at T = 1.5 K (see Fig. 12).
+
+We believe therefore that the enhanced two-dimensionality of
+(Li_(1 − x)Fe_(x))OHFeSe leads to the unusual observation of a smaller
+gap opening along the crystallographic c direction. The large s-wave
+gap(s) (or large anisotropic gaps, see Table 1) correspond to a
+condensation of the supercarriers confined within the two-dimensional
+FeSe layers, whereas the tiny small gap opens in the
+(Li_(1 − x)Fe_(x))OH layers and is induced by the superconducting FeSe
+layers due to proximity effects. Such a situation is similar to the
+appearance of a proximity-induced gap in CuO chains in the cuprate
+superconductor YBa₂Cu₄O₈[36]. The superconducting gap detected in the
+chains (≃5 meV) is significantly smaller than the gap in the
+superconducting CuO₂ planes (≃20 meV) [37] and is confined within a very
+narrow k-space region. We should stress, however, on the significant
+difference between (Li_(1 − x)Fe_(x))OHFeSe studied here and YBa₂Cu₄O₈.
+In the later compound the chains are metallic and, therefore, allow for
+conductivity (superconductivity) along the chain direction. In
+(Li_(1 − x)Fe_(x))OHFeSe the resistivity anisotropy increases with
+decreasing temperature [15] thus suggesting that the intermediate
+(Li_(1 − x)Fe_(x))OH layers become more insulating. Consequently,
+instead of expecting that the entire (Li_(1 − x)Fe_(x))OH remains
+conducting (superconducting), there is a lack of conducting channels
+between the FeSe layers through the (Li_(1 − x)Fe_(x))OH ones.
+
+There are indications from recent ARPES and STS experiments supporting
+the validity of the above scenario. STS measurements reveal that the
+(Li_(1 − x)Fe_(x))OH surface has a metallic behavior when the FeSe
+layers exhibit superconductivity [18]. The tunneling spectrum has a weak
+dip at a Fermi level which may point to a superconducting gap opening.
+We note that the modulation amplitude in STS experiments, ΔV = 1 meV, is
+comparable to the values of the smallest gap obtained in our studies.
+ARPES experiments on a similar (Li_(1 − x)Fe_(x))OHFeSe sample show that
+in addition to the electronlike bands crossing the Fermi level at around
+the M point, there is a tiny electronlike weight at the Fermi energy
+near the T point, which could be a contribution from the
+(Li_(1 − x)Fe_(x))OH layers [27]. The presence of such a tiny electron
+spectral weight might play a crucial role for the proximity effect.
+
+### Interplay between the superconductivity and magnetism
+
+We want to emphasize that the enhancement of the out-of-plane superfluid
+density (ρ_(x, c) ∝ λ_(c)⁻²) occurs at the same temperature range where
+the antiferromagnetic order within the (Li_(1 − x)Fe_(x))OHFeSe layers
+sets in. The theory calculations presented below reveal that carriers
+within the superconducting FeSe layers are strongly hybridized with the
+local Fe moments in (Li_(1 − x)Fe_(x))OH. The effect of such
+hybridization is twofold. First of all, it enhances the
+superconductivity within the FeSe layers, and, secondly, weak
+superconductivity with dominant d-wave symmetry can be induced in the
+insulating (Li_(1 − x)Fe_(x))OH layers. Note that the latter statement
+is consistent with the Δ_(d) ≃ 1.5 meV gap obtained from the fit of
+λ_(c)⁻²(T) data (see Fig. 11 and Table 1).
+
+iii.3.1 **Theoretical consideration of an interplay between
+antiferromagnetic and superconducting layers**
+
+To study the interplay between two-dimensional (Li_(1 − x)Fe_(x))OH and
+FeSe layers, one could consider a two-layer model with model Hamiltonian
+
+H = ∑_(k, σ)ϵ_(k)C_(kσ)^(†)C_(kσ) + ∑_(k)Δ_(k)(C_(k↑)^(†)C_(−k↓)^(†) + C_(−k↓)C_(k↑))
+(17)
+$$+J\sum_{<ij>}\mathbf{S}_{i}\cdot\mathbf{S}_{j}+K\sum_{i,\sigma \sigma^{\prime}}\mathbf{S}_{i}\cdot C_{i\sigma}^{\dagger}\frac{1}{2}\tau_{ \alpha\beta}C_{i\sigma^{\prime}}.$$
+
+Here the first two terms describe a two-dimensional FeSe layer with the
+superconducting gap functions Δ_(k) for both d_(xz) and d_(yz) orbitals,
+the third term characterizes the antiferromagnetic (AF) spin exchange
+interaction among the nearest neighbor local magnetic moments within the
+two-dimensional insulating (Li_(1 − x)Fe_(x))OH layers, and the last
+term describes the spin exchange coupling between the local moments and
+the conduction electrons. If the interlayer coupling is absent (K = 0),
+the local moments of the (Li_(1 − x)Fe_(x))OH layer forms
+
+Figure 12: The temperature dependence of the anisotropy parameter
+$\gamma_{\rm z}=\lambda_{c}/\lambda_{ab}$. The line is a guide for the
+eye.
+
+a paramagnetic phase with strong spin fluctuation at finite
+temperatures, and the long-range AF order exists _only_ at zero
+temperature. The finite interlayer coupling is certainly helpful for the
+local magnetic moments to form the AF long-range order above the zero
+temperature.
+
+In the following, we focus on the paramagnetic phase. The local magnetic
+moments of spin-1/2 operators have a fermionic representation
+${\bf S}_{i}=\frac{1}{2}\sum_{\sigma\sigma^{\prime}}f^{\dagger}_{i\sigma}\tau_{ \sigma\sigma^{\prime}}f_{i\sigma^{\prime}}$
+with two local constraints: ∑_(σ)f_(iσ)^(†)f_(iσ) = 1 and
+f_(i↑)f_(i↓) = 0, where τ is the Pauli matrices. The first constraint
+restricts any local charge fluctuation, while the second one is imposed
+by the spin SU(2) symmetry. From the heavy fermion systems it is well
+known that there is a characteristic temperature T_(K), below which the
+Kondo spin exchange interaction induces a strong hybridization between
+the local magnetic moments and the conduction electrons. This is because
+the Kondo spin exchange can be expressed as
+
+$${\bf S}_{i}\cdot{\bf s}_{i}=-\frac{1}{2}(f^{\dagger}_{i\uparrow}c_{i\uparrow}+ f^{\dagger}_{i\downarrow}c_{i\downarrow})(c^{\dagger}_{i\uparrow}f_{i\uparrow}+c^{ \dagger}_{i\downarrow}f_{i\downarrow}),$$
+(18)
+
+where a hybridization parameter can be introduced as
+V = −⟨f_(i↑)^(†)c_(i↑) + f_(i↓)^(†)c_(i↓)⟩. Meanwhile, the AF Heisenberg
+superexchange can also be expressed as
+
+$${\bf S}_{i}\cdot{\bf S}_{j} = -\frac{1}{4}(f^{\dagger}_{i\uparrow}f_{j\uparrow}+f^{\dagger}_{i \downarrow}f_{j\downarrow})(f^{\dagger}_{j\uparrow}f_{i\uparrow}+f^{\dagger}_ {j\downarrow}f_{i\downarrow})$$
+(19)
+$$-\frac{1}{4}(f^{\dagger}_{i\uparrow}f^{\dagger}_{j\downarrow}-f^{ \dagger}_{i\downarrow}f^{\dagger}_{j\uparrow})(f_{j\downarrow}f_{i\uparrow}-f _{j\uparrow}f_{i\downarrow}),$$
+
+and the hopping and pairing order parameters may be induced:
+χ_(ij) = −⟨f_(i↑)^(†)f_(j↑) + f_(i↓)^(†)f_(j↓)⟩ and
+Δ_(ij) = −⟨f_(i↑)^(†)f_(j↓)^(†) − f_(i↑)^(†)f_(j↑)^(†)⟩.
+
+When the spinon hopping parameter χ is simply chosen as a uniform
+parameter, the spinons form a very narrow band with a dispersion
+$\chi_{\bf k}=J\chi(\cos k_{x}+\cos k_{y})+\lambda$, where λ is the
+Lagrangian multiplier to impose the local constraint on average. The
+local constraint f_(i↑)f_(i↓) = 0 excludes the extended s-wave pairing,
+and the d-wave symmetric pairing dominates and
+Δ_(i, i + e_(x)) = −Δ_(i, i + e_(y)) ≡ Δ_(x). Then a mean field model
+Hamiltonian can be obtained
+
+$$H_{mf} = \sum_{{\bf k},\sigma}\epsilon_{\bf k}C^{\dagger}_{\bf k\sigma}C_{ \bf k\sigma}+\sum_{\bf k}\Delta_{\bf k}(C^{\dagger}_{\bf k\uparrow}C^{\dagger} _{-{\bf k}\downarrow}+C_{-{\bf k}\downarrow}C_{\bf k\uparrow})$$
+(20)
+$$+\sum_{{\bf k}\sigma}\chi_{\bf k}f^{\dagger}_{i\sigma}f_{\bf k \sigma}+\sum_{\bf k}\Delta_{x,\bf k}(f^{\dagger}_{\bf k\uparrow}f^{\dagger}_{- {\bf k}\downarrow}+f_{-{\bf k}\downarrow}f_{\bf k\uparrow})$$
+$$+\frac{KV}{2}\sum_{{\bf k}\sigma}(c^{\dagger}_{\bf k\sigma}f_{ \bf k\sigma}+f^{\dagger}_{\bf k\sigma}c_{\bf k\sigma})+{\rm const},$$
+
+where
+$\Delta_{x,\bf k}\equiv\frac{J\Delta_{x}}{2}(\cos k_{x}-\cos k_{y})$.
+Exact diagonalization gives rise to the quasiparticle spectrum, and the
+mean field order parameters V, Δ_(s), and the Lagrangian multiplier λ
+can be obtained by solving the saddle point equations. Thus the
+superconducting electrons in the FeSe layer mix with the local moments
+via the strong hybridization so that the superconductivity of FeSe layer
+gets enhanced. More importantly, a weak superconductivity with dominate
+d-wave symmetry can be induced in the insulating (Li_(1 − x)Fe_(x))OH
+layer.
+
+## V Conclusions
+
+In conclusion, the magnetic and superconducting properties of
+(Li_(0.84)Fe_(0.16))OHFe_(0.98)Se single crystal were studied by means
+of muon-spin rotation technique. The zero-field and field-shift μSR
+experiments confirm the homogeneity of the sample and the
+antiferromagnetic ordering within the (Li_(0.84)Fe_(0.16))OH layers
+below T_(m) ≃ 10 K. The temperature dependences of the in-plane
+(ρ_(x, ab) ∝ λ_(ab)⁻²) and the out-of-plane (ρ_(x, c) ∝ λ_(c)⁻²)
+components of the superfluid density were measured in transverse field
+μSR experiments. λ_(ab)⁻²(T) was found to be consistent with gap opening
+within the superconducting FeSe planes, and it is well described within
+either the single s-wave gap (Δ_(s) = 10.5 meV) or two s-wave gaps
+(Δ_(x, 1) = 15 meV and Δ_(x, 2) = 9 meV) scenario in agreement with the
+results of ARPES [17] and STS [18] experiments, respectively. The
+opening of an additional small superconducting gap of unknown symmetry
+(≃1.05 meV and 1.5 meV in a case of s- and d-wave symmetry,
+respectively) was detected from λ_(c)⁻²(T). This gap, most probably,
+opens within the insulating (Li_(1 − x)Fe_(x))OH layers and appears to
+be induced by the proximity to the superconducting FeSe layers. The
+strong enhancement of the out-of-plane superfluid density
+ρ_(x, c) ∝ λ_(c)⁻² occurs at the same temperatures where the magnetism
+sets in. The question of whether or not the superconductivity and
+antiferromagnetism within the intermediate (Li_(1 − x)Fe_(x))OH layers
+relate to each other requires further studies.
+
+###### Acknowledgements.
+
+This work was performed at the SμS Paul Scherrer Institute (PSI,
+Switzerland). The work of H.Z., X.D., and Z.Z. was supported by
+"Strategic Priority Research Program (B)" of the Chinese Academy of
+Sciences (Grant No. XDB07020100) and Natural Science Foundation of China
+(Projects No. 11574370 and No. 11274358). The work of Z.G. was supported
+by the Swiss National Science Foundation (SNF-Grant No. 290
+200021-149486).
+
+## References
+
+* [1] S. Margadonna, Y. Takabayashi, Y. Ohishi, Y. Mizuguchi, Y. Takano,
+T. Kagayama, T. Nakagawa, M. Takata, and K. Prassides, Phys. Rev. B
+**80**, 064506 (2009). * [2] J. Guo, S. Jin, G. Wang, S. Wang, K. Zhu,
+T. Zhou, M. He, and X. Chen, Phys. Rev. B **82**, 180520(R) (2010). *
+[3] A. Krzton-Maziopa, Z. Shermadini, E. Pomjakushina, V. Pomjakushin,
+M. Bendele, A. Amato, R. Khasanov, H. Luetkens, and K. Conder, J. Phys.:
+Condens. Matter **23**, 052203 (2011). * [4] A. F. Wang, J. J. Ying, Y.
+J. Yan, R. H. Liu, X. G. Luo, Z. Y. Li, X. F. Wang, M. Zhang, G. J. Ye,
+P. Cheng, Z. J. Xiang, and X. H. Chen, Phys. Rev. B **83**, 060512(R)
+(2011). * [5] Q.-Y. Wang, Z. Li, W.-H. Zhang, Z.-C. Zhang, J.-S. Zhang,
+W. Li, H. Ding, Y.-B. Ou, P. Deng, K. Chang _et al._, Chin. Phys. Lett.
+**29**, 037402 (2012). * [6] J.-F. Ge, Z.-L. Liu, C. Liu, C.-L. Gao, D.
+Qian, Q.-K. Xue, Y. Liuand, and J.-F. Jia, Nat. Mater. **14**, 285
+(2015).
+
+* [7] T. P. Ying, X. L. Chen, G. Wang, S. F. Jin, T. T. Zhou, X. F. Lai,
+H. Zhang, and W. Y. Wang, Sci. Rep. **2**, 426 (2012). * [8] M.
+Burrard-Lucas, D. G. Free, S. J. Sedlmaier, J. D. Wright, S. J. Cassidy,
+Y. Hara, A. J. Corkett, T. Lancaster, P. J. Baker, S. J. Blundell _et
+al._, Nat. Mater. **12**, 15 (2012). * [9] A. Krzton-Maziopa, E.
+Pomjakushina, V. Y. Pomjakushin, F. von Rohr, A. Schilling, and K.
+Conder, J. Phys.: Condens. Matter **24**, 382202 (2012). * [10] S.
+Hosono, T. Noji, T. Hatakeda, T. Kawamata, M. Kato, and Y. Koike, J.
+Phys. Soc. Jpn. **83**, 113704 (2014). * [11] X. F. Lu, N. Z. Wang, H.
+Wu, Y. P. Wu, D. Zhao, X. Z. Zeng, X. G. Luo, T. Wu, W. Bao, G. H.
+Zhang, F. Q. Huang, Q. Z. Huang, and X. H. Chen, Nat. Mater. **14**, 325
+(2014). * [12] U. Pachmayr, F. Nitsche, H. Luetkens, S. Kamusella, F.
+Brueckner, R. Sarkar, H.-H. Klauss, and D. Johrendt, Angew. Chem. Int.
+Ed. **54**, 293 (2015). * [13] H. Sun, D. N. Woodruff, S. J. Cassidy, G.
+M. Allcroft, S. J. Sedlmaier, A. L. Thompson, P. A. Bingham, S. D.
+Forder, S. Cartenet, N. Mary, S. Ramos, F. R. Foronda, B. H. Williams,
+X. Li, S. J. Blundell, and S. J. Clarke, Inorg. Chem. **54**, 1958
+(2015). * [14] X. Dong, H. Zhou, H. Yang, J. Yuan, K. Jin, F. Zhou, D.
+Yuan, L. Wei, J. Li, X. Wang, G. Zhang, and Z. Zhao, J. Am. Chem. Soc.
+**137**, 66 (2015). * [15] X. Dong, K. Jin, D. Yuan, H. Zhou, J. Yuan,
+Y. Huang, W. Hua, J. Sun, P. Zheng, W. Hu, Y. Mao, M. Ma, G. Zhang, F.
+Zhou, and Z. Zhao, Phys. Rev. B **92**, 064515 (2015). * [16] A.-M.
+Zhang, T.-L. Xia, K. Liu, W. Tong, Z.-R. Yang, and Q.-M. Zhang, Sci.
+Rep. **3**, 1216 (2013). * [17] X. H. Niu, R. Peng, H. C. Xu, Y. J. Yan,
+J. Jiang, D. F. Xu, T. L. Yu, Q. Song, Z. C. Huang, Y. X. Wang, B. P.
+Xie, X. F. Lu, N. Z. Wang, X. H. Chen, Z. Sun, and D. L. Feng, Phys.
+Rev. B **92**, 060504(R) (2015). * [18] Y. J. Yan, W. H. Zhang, M. Q.
+Ren, X. Liu, X. F. Lu, N. Z. Wang, X. H. Niu, Q. Fan, J. Miao, R. Tao,
+B. P. Xie, X. H. Chen, T. Zhang, and D. L. Feng, arXiv:1507.02577. *
+[19] J. E. Sonier, J. H. Brewer, and R. F. Kieft, Rev. Mod. Phys.
+**72**, 769 (2000). * [20] A. Suter, internal PSI report
+(unpublished). * [21] A. Yaouanc and P. Dalmas de Reotier, _Muon Spin
+Rotation, Relaxation and Resonance_ (Oxford University Press, Oxford,
+2011). * [22] E. H. Brandt, Phys. Rev. B **37**, 2349(R) (1988). * [23]
+S. L. Thiemann, Z. Radovic, and V. G. Kogan, Phys. Rev. B **39**, 11406
+(1989). * [24] W. Chen, C. Zeng, E. Kaxiras, and Z. Zhang, Phys. Rev. B
+**93**, 064517 (2016). * [25] M. Bendele, A. Ichsanow, Yu. Pashkevich,
+L. Keller, Th. Strasle, A. Gusev, E. Pomjakushina, K. Conder, R.
+Khasanov, and H. Keller, Phys. Rev. B **85**, 064517 (2012). * [26] J.
+E. Sonier, R. F. Kieft, J. H. Brewer, D. A. Bonn, J. F. Carolan, K. H.
+Chow, P. Dosanjh, W. N. Hardy, R. Liang, W. A. MacFarlane, P. Mendels,
+G. D. Morris, T. M. Riseman, and J. W. Schneider, Phys. Rev. Lett.
+**72**, 744 (1994). * [27] L. Zhao, A. Liang, D. Yuan, Y. Hu, D. Liu, J.
+Huang, S. He, B. Shen, Y. Xu, X. Liu, L. Yu, G. Liu, H. Zhou, Y. Huang,
+X. Dong, F. Zhou, Z. Zhao, C. Chen, Z. Xu, and X. J. Zhou, Nat. Commun.
+**7**, 10608 (2016). * [28] Z. Du, X. Yang, H. Lin, D. Fang, G. Du, J.
+Xing, H. Yang, X. Zhu, and H.-H. Wen, Nat. Commun. **7**, 10565
+(2016). * [29] M. Tinkham, _Introduction to Superconductivity_ (Krieger
+Publishing Company, Malabar, Florida, 1975). * [30] R. Khasanov, A.
+Shengelaya, A. Maisuradze, F. La Mattina, A. Bussmann-Holder, H. Keller,
+and K. A. Muller, Phys. Rev. Lett. **98**, 057007 (2007). * [31] A.
+Carrington and F. Manzano, Physica C **385**, 205 (2003). * [32] Y.
+Zhang, J. J. Lee, R. G. Moore, W. Li, M. Yi, M. Hashimoto, D. H. Lu, T.
+P. Devereaux, D.-H. Lee, and Z.-X. Shen, arXiv:1512.06322. * [33] R.
+Khasanov, A. Maisuradze, H. Maeter, A. Kwadrin, H. Luetkens, A. Amato,
+W. Schnelle, H. Rosner, A. Leithe-Jasper, and H.-H. Klauss, Phys. Rev.
+Lett. **103**, 067010 (2009). * [34] M. Bendele, S. Weyeneth, R.
+Puzniak, A. Maisuradze, E. Pomjakushina, K. Conder, V. Pomjakushin, H.
+Luetkens, S. Katrych, A. Wisniewski, R. Khasanov, and H. Keller, Phys.
+Rev. B **81**, 224520 (2010). * [35] Y. J. Song, J. S. Ghim, J. H. Yoon,
+K. J. Lee, M. H. Jung, H.-S. Ji, J. H. Shim, and Y. S. Kwon, Europhys.
+Lett. **94**, 57008 (2011). * [36] T. Kondo, R. Khasanov, J. Karpinski,
+S. M. Kazakov, N. D. Zhigadlo, Z. Bukowski, M. Shi, A. Bendounan, Y.
+Sassa, J. Chang, S. Pailhes, J. Mesot, J. Schmalian, H. Keller, and A.
+Kaminski, Phys. Rev. Lett. **105**, 267003 (2010). * [37] R. Khasanov,
+A. Shengelaya, A. Bussmann-Holder, J. Karpinski, H. Keller, and K. A.
+Muller, J. Supercond. Novel Magn. **21**, 81 (2008).

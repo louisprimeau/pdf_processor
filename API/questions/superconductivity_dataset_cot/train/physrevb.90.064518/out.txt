@@ -1,0 +1,529 @@
+Possible charge-density wave, superconductivity, and f-electron valence instability in EuBiS_{2}F
+
+Hui-Fei Zhai
+
+Zhang-Tu Tang
+
+Hao Jiang
+
+Hao Jiang
+
+Kai Xu
+
+Ke Zhang
+
+Pan Zhang
+
+Jun-Ke Bao
+
+Jun-Ke Sun
+
+Wen-He Jiao
+
+J. Nowik
+
+Felner
+
+Yu-Ke Li
+
+Ya-Ke Li
+
+Qian Tao
+
+Chun-Mu Feng
+
+Zhu-An Xu
+
+Guang-Han Cao
+
+###### Abstract
+
+Superconductivity (SC) and charge-density wave (CDW) are two contrasting yet relevant collective electronic states, which have received sustained interest for decades. Here, we report that, in a layered europium bismuth sulfofluoride, EuBiS_{2}F, a CDW-like transition occurs at 280 K, below which SC emerges at 0.3 K, without any extrinsic doping. The Eu ions were found to exhibit an anomalously temperature-independent mixed valence of about +2.2, associated with the formation of a possible dynamic CDW. The mixed valence of Eu gives rise to self electron doping into the conduction bands mainly consisting of the in-plane Bi6p states, which in turn brings about the CDW and SC. In particular, the electronic specific-heat coefficient is enhanced by \sim50 times, owing to the significant hybridizations between Eu4f and Bi6p electrons, as verified by band-structure calculations. Thus EuBiS_{2}F manifests itself as an unprecedented material that simultaneously accommodates SC, CDW, and f-electron valence instability.
+
+pacs: 10.1103/PhysRevB.90.064518 +
+Footnote †: Author to whom correspondence should be addressed: ghcao@ zju.edu.cn
+
++
+Footnote †: Author to whom correspondence should be addressed: ghcao@ zju.edu.cn
+
++
+Footnote †: Author to whom correspondence should be addressed: ghcao@ zju.edu.cn
+
++
+Footnote †: Author to whom correspondence should be addressed: ghcao@ zju.edu.cn
+
++
+Footnote †: Author to whom correspondence should be addressed: ghcao@ zju.edu.cn
+
++
+Footnote †: Author to whom correspondence should be addressed: ghcao@ zju.edu.cn
+
++
+Footnote †: Author to whom correspondence should be addressed: ghcao@ zju.edu.cn
+
++
+Footnote †: Author to whom correspondence should be addressed: ghcao@ zju.edu.cn
+
++
+Footnote †: Author to whom correspondence should be addressed: ghcao@ zju.edu.cn
+
++
+Footnote †: Author to whom correspondence should be addressed: ghcao@ zju.edu.cn
+
+## I Introduction
+
+Charge-density wave (CDW) and superconductivity (SC) are different collective electronic orders, although both are associated with Fermi surface instabilities owing dynamically to electron-phonon interactions (for conventional BCS superconductors). CDW, usually occurring in low-dimensional materials, generally shows periodic modulations of conduction electron density and crystalline lattice in real space. In contrast, SC, appearing in materials not limiting to low dimensionality, exhibits an intriguing electronic ordering in momentum space due to condensation of Cooper pairs, without any static lattice deformation. Basically, they are competing orders, nevertheless, coexistence of SC and CDW is frequently observed in low-dimensional systems by various experiments [1, 2, 3]. In recent years, the relationship between CDW and SC has become a hot topic in cuprate high-temperature superconductors [1, 4, 5, 6, 7, 8] as well as "conventional" superconductors that bear CDW instability [1, 2, 9]. Currently, accumulating evidences seem to indicate that CDW serves as an intertwined electronic orders, not simply competing with SC [10].
+
+Recently, SC was discovered in a quasi-two-dimensional (Q2D) bismuth chalcogenide, LaO_{1-x}F_{x}BiS_{2}[11] (the chemical formula is preferably written as LaBiS_{2}O_{1-x}F_{x} according to standard nomenclature [12]). This new class of materials consists of BiS_{2} bilayers that are believed to be responsible for SC. Band structure calculations [13, 16, 17, 18] reveal that the undoped parent compound LaBiS_{2}O belongs to a band insulator with an energy gap of \sim0.8 eV [16, 17, 18]. The conduction bands near Fermi level consist mainly of in-plane Bi6p orbitals. Upon electron doping, these conduction bands are partially filled, which leads to Q2D Fermi surface (FS) sheets. A minimal electronic model including Bi 6_p_x_ and 6_p_y_ orbitals was thus constructed and investigated [13, 14, 15]. Interestingly, the resultant two bands have a Q1D character with a double minimum dispersion, making FS nesting possible. Possible CDW phases due to Q1D distortions of the Bi and/or S atoms were proposed for x\sim 0.5[16, 18]. Nevertheless, except for an inflection point in the temperature dependence of resistivity in La_{0.9}_M__{0.1}BiS_{2}O (M = Th, Ti, Zr, and Hf), which was speculated to be related to a CDW effect [19], no more signatures in physical properties for a CDW transition have been observed so far.
+
+Here, we report a series of evidences for a CDW-like transition at T^{*}\sim 280 K in an isostructural compound, EuBiS_{2}F, synthesized for the first time. Unlike other parent compounds such as LaBiS_{2}O [20] and SrBiS_{2}F [21] that are undoped insulators, surprisingly, EuBiS_{2}F itself is metallic, and moreover it exhibits SC below 0.3 K. By various experimental approaches, we demonstrate that EuBiS_{2}F is actually self-doped due to partial electron transfer from the Eu ions to the BiS_{2} bilayers. The Eu ions exhibit an anomalously temperature-independent mixed valence of about +2.2. The electronic specific-heat coefficient extracted from the experimental data is as large as 73 mJ K^{-2} mol^{-1}, \sim50 times larger than those of its analogues, suggesting significant hybridizations between Eu4f and Bi6p electrons, which is reproduced by first-principles calculations. Therefore, to our knowledge, EuBiS_{2}F represents the first material that simultaneously bears SC, CDW, and f-electron valence instability.
+
+## II Experimental Methods
+
+### Sample's synthesis
+
+The EuBiS_{2}F polycrystalline sample was synthesized by a solid-state reaction in sealed evacuated quartz tubes. All  the starting materials were bought from Alfa Aesar. The stoichiometric mixtures of EuS [presynthesized by reacting Eu (99.9%) and S (99.9995%) pieces in sealed evacuated quartz tubes at 1073 K for 20 h], EuF_{2} (99.9%), and Bi_{2}S_{3} (99.995%) powders, loaded in an evacuated quartz ampule, were heated in a muffle furnace to 1053 K for 20 h. The reacted mixtures were ground for homogenization in an agate mortar, pressed into pellets, and sintered at 1053 K for another 20 h. This process was repeated until nearly single-phase sample was obtained. An argon-filled glove box was employed for the operations above to avoid the contamination of water and oxygen as far as possible.
+
+### X-ray diffractions and crystal structure
+
+Powder x-ray diffraction (XRD) was carried out at room temperature (RT) and at low temperatures down to 13 K on a PANalytical x-ray diffractometer (Model EMPYREAN) with a monochromatic CuK_{\alpha 1} radiation. The lattice parameters were precisely determined using Si powders as the internal standard reference material. The crystal structure was refined based on the CeBiS_{2}O-type structure model [22] by a Rietveld analysis using the code RIETAN-2000 [23]. With the exact lattice parameters, all the structural refinements were easily convergent. The resultant weighted reliable factor R_{\rm wp} is 7.1%-9.0%, and the "goodness of fit" parameter is 1.1-1.5, indicating good reliability for the refined crystal structure.
+
+### Physical property measurements
+
+The electrical resistivity was measured with a standard four-electrode method on a Quantum Design physical property measurement system (PPMS-9). The as-prepared EuBiS_{2}F pellet was cut into a thin bar with a dimension of 2.0\times 1.6\times 0.6 mm^{3}, and gold wires (\phi = 30 \mum) were attached onto the sample's surface with silver paint. The size of the contact pads produces a total uncertainty in the absolute values of resistivity of \pm15%. A dilution refrigerator was employed for measuring the resistivity at ultra low temperatures down to 20 mK with an electric current of 20 \muA. The Hall coefficient was measured by permutating the voltage and current electrodes [24] under a magnetic field of 60 kOe, and the results were checked by a standard field-sweep measurement. The heat capacity was measured using a relaxation method on the PPMS-9. The dc magnetization was measured on a Quantum Design magnetic property measurement system (MPMS-5). Signals from the sample holder were carefully removed.
+
+### Mossbauer spectroscopy
+
+Mossbauer studies on ^{151}Eu at various temperature (up to 388 K), were performed by using a conventional constant acceleration drive and \sim50 mCi ^{151}Sm_{2}O_{3} source. All spectra obtained were analyzed in terms of least square fit procedures to theoretical expected spectra. The experimental spectra were analyzed by two Lorentzian lines from which values for the isomer shift (\delta) and the spectral area of the resonance absorption lines were derived. The analysis considered also the exact shape of the source emission line [25]. The velocity calibration was performed with an \alpha-iron foil at RT and the reported \delta values are relative to Eu_{2}O_{3} at RT.
+
+### Electronic structure calculations
+
+We carried out electronic structure calculations using the Vienna _ab initio_ simulation package (vasp) [26]. The experimental crystal structure parameters at 15 K were employed for the calculations. The strong Coulomb repulsion of the Eu4f electrons was included using local spin density approximation plus a U parameter (LSDA+U). The plane-wave basis energy cutoff was set at 540 eV.
+
+## III Results and discussion
+
+### Crystal structure and bond valence sum of Eu
+
+EuBiS_{2}F crystallizes in the tetragonal CeBiS_{2}O-type structure [22] with space group P4/mmm (No. 129). The crystal structure, shown in the top inset of Fig. 1(a), can be viewed as an intergrowth of fluorite-like Eu_{2}F_{2} block layers and NaCl-like BiS_{2} bilayers along the crystallographic c axis. The XRD patterns for the EuBiS_{2}F sample were well reproduced using the crystal structure model by Rietveld refinement [23]. No obvious extra reflections appear, indicating monophasic EuBiS_{2}F within the XRD detecting limit (\sim2 wt.% in normal conditions).
+
+The refined structural data were tabulated in Table S1 Ref. [27]. The room-temperature lattice parameters a [= 4.0508(1) A] and c [=13.5338(3) A] are 0.7% and 2.1% smaller, respectively, than its counterparts of SrBiS_{2}F [a = 4.079(2) A and c = 13.814(5) A [21]]. Consequently, the c/a ratio of EuBiS_{2}F [3.341(1)] is remarkably reduced, compared with those (\sim3.39) of other CeBiS_{2}O-type parent compounds. Since the c/a value decreases upon electron doping for the CeBiS_{2}O-related systems [11,28,29,30, 31, 32], one may speculate that EuBiS_{2}F could be self electron doped (see previous examples of self-doping in Refs. [33,34]) owing to possible mixed valence of Eu. An alternative approach to verify this speculation is to calculate the bond valence sum [35] of Eu (Eu-BVS) by the formula \sum\exp(\frac{R_{0}-d_{ij}}{0.37}), where R_{0} is an empirical parameter (2.04 and 2.53 A for Eu-F and Eu-S bonds, respectively [35]) and d_{ij} denotes the measured bond distances between Eu and the _nine_ coordinating anions. The resultant Eu-BVS value at RT is 2.15(2). As a comparison, the Sr-BVS value in SrBiS_{2}F is calculated to be 2.05(4), based on the RT crystallographic data in Ref. [21]. The relatively high valence in EuBiS_{2}F means that the BiS_{2} bilayers are indeed self-doped, accounting in turn for the anomalously small c/a ratio.
+
+In order to detect the possible superstructured CDW phase predicted [16,18], we performed low-temperature XRD measurements down to 13 K. No splitting for the (200) or (220) peak was detectable, as seen in the bottom inset of Fig. 1(a). Also, the structural fittings using the superstructures of \sqrt{2}\times\sqrt{2}\times 1[16] (with space group Cmma) or \sqrt{2}\times 2\sqrt{2}\times 1[18] (with space group P22;2) could not give a better refinement. Although static long-range CDW order cannot be detected by the conventional XRD technique, considering the strong signals for a CDW-like transition at 280 K (see the following sections), we suppose that a dynamic and/or short-range CDW ordering is still likely. Indeed, theoretical calculations [16] indicate shallowness of the double-well potential with respect to the in-plane S(1) displacement, which leads to absence  of static CDW order. Further experimental investigations with other techniques such as synchrotron XRD and electron diffractions at low temperatures are expected to be helpful to clarify this issue.
+
+Figure 1(b) show temperature dependence of the crystal structural parameters and the Eu-BVS. The lattice parameters a and c decrease monotonically with decreasing temperature. A subtle anomaly around 280 K can be detected, and it is more evident in _c_/_a_ ratio. As stated above, the decrease in _c_/_a_ means more electron doping on the BiS2 bilayers. Thus the small decrease in _c_/_a_ below 280 K suggests further electron transfer from the Eu atoms to the BiS2 bilayers with decreasing temperature. Indeed, the Eu-BVS value exhibits a detectable variations. At low temperatures, both _c_/_a_ and Eu-BVS saturate, indicating a stable mixed-valence state for Eu.
+
+### Electrical transport properties
+
+Figure 2 shows the temperature dependence of resistivity, _r_(_T_), for the EuBiS2F polycrystalline sample. Unlike the parent compound SrBiS2F that shows semiconducting behaviour [21,32], EuBiS2F is virtually metallic, due to the self-doping effect. More surprisingly, the _r_(_T_) curve exhibits a broad hump below ~280 K, resembling the CDW transitions in Q2D systems like Cu_T_BiSe2 [9]. The resistivity anomaly cannot be ascribed to the increase of the Eu valence, because the latter would generate more electron carriers in the conducting BiS2 bilayers, which would lower (rather than raise) the resistivity. Moreover, the hump is not even related to the Eu 4f electrons, because we observed a similar hump, due to the CDW instability, in an Eu-free sample (Sr0.7Ca0.3)0.75La0.25BiS2F (see Fig. S1 in Ref. [27]). Therefore this _r_(_T_) hump is interpreted by a gap (probably a pseudogap) opening at Fermi level (_E_F) because of the formation of dynamic/short-range CDW below 280 K. Here we note that no obvious nonlinear _IV_ relations associated with the sliding of CDW was observed down to 2 K.
+
+At low temperatures, a superconducting transition takes place with a zero-resistance temperature of 0.3 K at zero field [see the inset of Fig. 2(a)]. The superconducting transition temperature _T_c is reduced by a factor of 10, compared with the BiS2-based superconductors synthesized under ambient pressure [28, 29, 30, 31, 32]. This could be due to the formation of CDW which loses partial FSs, relatively low electron doping, and/or pair breaking by the Eu magnetic moment. The superconducting transition was also demonstrated by the magnetoresistivity measurement at fixed temperatures, as shown in Fig. 2(b). The upper critical fields (_H_c2) were determined using the criteria of 90%_r_a, where _r_a stands for the normal-state resistivity. The temperature dependence of _H_c2 shows positive curvature below _T_c, possibly due to large anisotropy in _H_c2 [36] (note that the sample is polycrystals). The _m_th_H_c2 value at 0.018 K is 0.16 T, which is obviously smaller than the Pauli limiting field, _m_th_H_c2=1.84 _T_c  0.4 T.
+
+To further understand the anomaly around 280 K in _r_(_T_), we measured the temperature dependence of Hall coefficient (_R_H). As shown in Fig. 2(c), at room temperature, _R_H is negative, indicating dominant electron transport. If we assume a single-band scenario, the carrier density is estimated to be n = 1/e\left| R_{\text{H}} \right| = (2.1 \pm 0.3) \times 10^{27} m-3, equivalent to a Hall number of V_{\text{cell}}/(2e\left| R_{\text{H}} \right|) = 0.24 \pm 0.03 electrons per formula unit (fu). This electron density corresponds to an Eu valence of +2.24(3), if assuming that all the electron carriers in the conduction band (CB) come from Eu4f orbitals [see the schematic energy-band diagrams in Fig. 2(c)]. Below 280 K, _R_H increases steeply, and then it changes the sign at lower temperatures. This peculiar _R_H(_T_) behavior strongly suggests FS reconstructions owing to a CDW transition. In the
+
+Figure 1: (Color online) Crystal structure and its temperature dependence for EuBiS2F. (a) Powder x-ray diffractions and their Rietveld refinement profiles at 300 K (top) and 15 K (bottom). Top inset: the crystal structure of EuBiS2F. Bottom inset: an enlarged plot showing the (200) and (220) reflections. (b) Temperature dependence of lattice parameters a, c, _c_/_a_, and the bond valence sum of Eu (Eu-BVS). The solid line is a guide to the eye.
+
+  Sr_{1-x}La_{x}BiS_{2}F system, as a comparison, the R_{\rm H}(T) is either positive (for x\leqslant 0.45) or negative (for x\geqslant 0.5) [32,37,38]. We speculate that a pseudogap opens below T^{*}, which could lower the E_{\rm F} a little, as shown in the left diagram in Fig. 2(c). As a result, more transferred electrons are expected, accounting for the small increase of Eu valence below 280 K.
+
+### Magnetic properties
+
+The magnetic properties Eu^{2+} and Eu^{3+} ions are very different because of different electron filling on the 4f orbitals (4f^{7} and 4f^{6}, respectively). The ground state of the former is ^{8}S_{7/2} with an effective local-moment of g\sqrt{S(S+1)}\mu_{\rm B} = 7.94 \mu_{\rm B} (S=7/2). In contrast, the ground state of the latter is ^{7}F_{0}, which has zero magnetic moment. Nevertheless, the excited states ^{7}F_{J} (J=1,2,\ldots,6), due to the spin-orbit interaction \lambdaL **.** S, give rise to appreciable van Vleck paramagnetic susceptibility (\chi_{\rm vv}) [39]. Here the coupling constant \lambda also measures the energy of the first excited state. The \lambda value is 480 K for free Eu^{3+} ions [39], and it has a small change in solids, e.g., \lambda = 471 K for EuBO_{3} and \lambda = 490 K for EuF_{3}[40]. Consequently, the \chi_{\rm vv}(T) is featured by a temperature-independent plateau in the low-temperature regime (say, T\leqslant 100 K), and Curie-like paramagnetism with an effective magneton number of 3.4 per Eu^{3+} for the high-temperature region (T>200 K) [40]. In the EuBiS_{2}F system, therefore, we can correctly analyze the temperature dependence of magnetic susceptibility, \chi(T), with an extended Curie-Weiss law,
+
+\[\chi\,=\,\chi_{0}+C/(T+\theta_{\rm N}).\] (1)
+
+In the low-temperature limit, the first term \chi_{0} includes \chi_{\rm vv}, in addition to Pauli paramagnetism (and Landau diamagnetism) of conduction electrons and Langevin diamagnetism from the core-shell electrons of all the constituent elements. At the high-temperature side, \chi_{\rm vv} is included to the second term, where C denotes Curie constant and \theta_{\rm N} is termed as paramagnetic Neel temperature. One may obtain the effective moment by the formulas \mu_{\rm eff}=\sqrt{3k_{\rm B}C/N_{\rm A}}, where k_{\rm B} and N_{\rm A} denote Boltzmann and Avogadro constants, respectively.
+
+Figure 3(a) shows the temperature dependence of magnetic susceptibility, \chi(T), for the EuBiS_{2}F sample at T\leqslant 100 K. No magnetic transition is evident down to 2 K. The \chi(T) data can be well fitted by Eq. (1), except for minor deviations below 10 K. The fitted effective paramagnetic moment is 7.2 \mu_{\rm B} fu^{-1}, which means that the concentration of Eu^{2+} is 83% (hence the Eu valence is +2.17, fully consistent with the Eu-BVS value above). The Eu^{3+} ions (with a population of 17%) should give considerable contribution to \chi_{0}. Indeed, the fitted \chi_{0} value is as large as 0.0032(2) emu mol^{-1}. By referring to the Van Vleck susceptibility of EuF_{3} (\sim0.006 emu mol^{-1} below 100 K) in which the Eu valence is totally 3+ [40], the \chi_{\rm vv} value of EuBiS_{2}F is then estimated to be 0.001 emu mol^{-1} below 100 K. Since the Langevin diamagnetic susceptibility is negligibly small (about -1.5\times 10^{-4} emu mol^{-1}) [41] within the fitting errors, then, the Pauli susceptibility can be roughly estimated to be \sim0.002 emu mol^{-1}. This unusually large value of Pauli susceptibility suggests substantial hybridizations between Eu4f and CB (see band structure calculations in Sec. III.6).
+
+Figure 3(b) shows the high-temperature range of \chi(T), which was also fitted with Eq. (1). The fitting gives smaller \chi_{0} but larger C values, because \chi_{\rm vv} is now included in the second term of Eq. (1). By subtraction of the fitted curve from the experimental data, the residual susceptibility \Delta\chi
+
+Figure 2: (Color online) Electrical transport properties and superconductivity in EuBiS_{2}F. (a) Temperature dependence of resistivity showing a CDW-like anomaly at 280 K and superconductivity at 0.3 K (inset). (b) The magnetoresistivity as a function of magnetic field at low temperatures. The inset plots the upper critical field, H_{2}, by the criteria of 90%\rho_{a}, where \rho_{a} stands for the normal-state resistivity. (c) Temperature dependence of Hall coefficient in which a turning point at 280 K is seen. Upper inset: field dependence of Hall resistivity at some fixed temperatures. Bottom inset: schematic energy-band diagrams for T<T^{*} (left) and T>T^{*} (right), respectively. CB (VB) denotes thy conduction band (valence band) in the BiS_{2} bilayers.
+
+  shows a humplike anomaly where the magnetic susceptibility tends to drop [by (5 +- 2) x 10-5 emu mol-1] at around 280 K. At first sight, it seems to be related to the change in Eu valence. However, a similar hump in kh was also observed in an Eu-free analogous sample, (Sr0.7Ca0.3)0.75La0.25BiS2F (see Fig. S2 in Ref. [27]). Thus we speculate that the "drop" of kh at 280 K mainly results from the loss of Pauli paramagnetic susceptibility when a (pseudo)gap opens at the CDW transition. Here, we note that the decrease of N(E_{\rm F}) in the CDW phase for LaBiS2O0.5,F0.5 calculated [18] is just equivalent to the loss of Pauli magnetic susceptibility.
+
+The possible variation in Eu valence can be analyzed as follows. If P_{3+} denotes the concentration of Eu3+ [so that the fraction of Eu2+ is (1-P_{3+})], and assuming that kh0 were temperature independent, one may calculate P_{3+} by the relation
+
+\[\chi=\chi_{0}+P_{3+}\frac{C_{3+}}{T}+(1-P_{3+})\frac{C_{2+}}{T+\theta_{\rm N}}.\] (2)
+
+With C_{2+}=7.875 emu mol-1 K-1 and C_{3+}=1.45 emu mol-1 K-1 (equivalent to 3.40 \mu_{\rm B} fu-1) [40], the Eu valence was obtained as plotted in Fig. 3(d). The subtle anomaly around 280 K should be predominately due to the actual change in kh0, as discussed above. However, the Eu valence does tend to increase below 220 K, which is quantitatively consistent with the Eu-BVS values shown in Fig. 1(b).
+
+One may also obtain the information of Eu valence from the field-dependent magnetization at 2 K [Fig. 3(c)], which shows a saturation at high magnetic fields. The saturation magnetization is significantly smaller than the expected value (gS=7.0\mu_{\rm B} fu-1) for Eu2+ions only. By fitting the M(H) data using a Brillouin function with consideration of Weiss molecular field B_{\rm mf}=\xi M, the saturation magnetization is determined to be 5.58 \mu_{\rm B} fu-1, corresponding to the Eu valence of +2.20, consistent with the conclusion from the Curie-Weiss fitting above. The fitted parameter \xi is a negative value (-0.40), reflecting dominant antiferromagnetic interactions among the Eu localized moments, also agreeing with the positive value of \theta_{\rm N} fitted with Eq. (1).
+
+### Mossbauer spectroscopy
+
+Mossbauer spectroscopy (MS) is a powerful technique to study the Eu valence. The isomer shift \delta of the nuclei of Eu2+ and Eu3+ ions falls in two nonoverlapping ranges: \delta_{2+}=-7.7\sim-13.5 mm/s and \delta_{3+}=-0.01\sim+2.6 mm/s (relative to ^{151}Eu_{2}O_{3}). Thus MS easily identifies the valence state of Eu and, in the case of inhomogeneous mixed valence, the concentration of each Eu species can be determined by the relative absorption intensity. For the fast valence fluctuation (VF) scenario, the mean Eu valence can also be quantitatively evaluated by the shift in \delta[42]. MS may also supply information on quadrupole and magnetic interactions.
+
+Figure 4(a) shows the ^{151}Eu Mossbauer spectra at some typical temperatures of 90, 200, 297, and 388 K. At low temperatures (90 and 200 K), two absorption lines (or peaks) appear at -13.5 and -0.5 mm/s, which are obviously identified to the Mossbauer resonance absorptions of Eu2+ and Eu3+ nuclei, respectively. Since there is only one equivalent site in the crystal structure even at low temperatures, the two separate lines indicate slow Eu VFs (or even static charge ordering of Eu2+ and Eu3+) with the time scale of \tau_{\rm rf}>10^{-8} s (note that the probing time of MS is about 10^{-9} s). The intensity of the minor line is about 1/3 of the major one, therefore, the mean Eu valence is \sim+2.25, basically consistent with the above conclusion drawn from the crystal structure and magnetic data. As the temperature is increased
+
+Figure 4: (Color online) Mössbauer result on EuBiS2F. (a) ^{151}Eu Mössbauer spectra of EuBiS2F at some typical temperatures. (b) Temperature dependence of the isomer shifts (top), absorption linewidth (middle), and relative intensity of the minor line (bottom) from the data fitting of the ^{151}Eu Mossbauer spectra. The vertical dashed lines at -13.5 and -0.5 mm/s (a) and at 280 K (b) are guides to the eye.
+
+Figure 3: (Color online) Magnetic properties of EuBiS2F. Temperature dependence of the dc magnetic susceptibility measured with an applied field of 1 kOe [(a) T\leq 100 K and (b) T\geq 220 K]. The solid lines are the fitted curves. The difference (multiplied by 100) between the experimental data and the fitted ones is shown in the lower part of (b). (c) Field dependence of magnetization at 2 K. The dotted line is a Brillouin fit. (d) The Eu valence estimated by the magnetic susceptibility. See details in the text.
+
+  to 297 K, the intensity of the Eu^{3+} line decreases remarkably. Simultaneously, the two absorption lines get closer, and the linewidth is abnormally large (up to 5 mm/s). This fact suggests Eu VFs with the characteristic \tau_{\text{vf}} close to 10^{-9} s, associated with the electron hopping between Eu^{2+} and Eu^{3+}. At 388 K, the Eu^{3+} line almost vanishes because the VFs are much faster. The residual tiny Eu^{3+} peak could be due to traces of EuF_{3} and/or Eu_{2}O_{3} (originated from unavoidable oxygen contamination during the sample preparation) impurities [43]. In the fast VF limit, the isomer shift is then formulated by \delta_{\text{vf}}=(1-P_{3+})\delta_{2+}+P_{3+}\delta_{3+}. With \delta_{\text{vf}}=-11.6 mm/s, \delta_{2+}=-13.5 mm/s, and \delta_{3+}=0 mm/s, the Eu valence at 388 K can be estimated to be +2.14(2).
+
+By data fitting using the exact shape of the emission spectrum of ^{151}Sm_{2}O_{3} and considering quadrupole interactions, we were able to obtain the refined \delta, the full linewidth at half maximum (\Gamma) and the peak intensities (I), which are plotted respectively in Fig. 4(b). All these MS parameters point to a transition at 280 K. The most prominent feature is that the \Gamma value is peaked at 280 K. The sharp decrease in \Gamma below 280 K suggests slowing down of the Eu VFs, probably in connection with the dynamic CDW. One may estimate the percentages of fast (\tau_{\text{vf}}<10^{-9} s) and slow (\tau_{\text{vf}}>10^{-9} s) VFs by the changes in the isomer shifts and in the relative intensity of Eu^{3+}, respectively. At 273 K, for example, the percentage of fast-VF Eu^{3+} is 5(1)% (of the total Eu ions), whilst the slow-VF Eu^{3+} holds 14(2)%. Hence the overall Eu valence is +2.19(3) at 273 K.
+
+### Specific heat
+
+The heat capacity of a solid may supply important information not only for phase transitions but also for electronic and magnetic states. Figure 5(a) shows the temperature dependence of the specific heat C(T) for the EuBiS_{2}F sample. The C(T) data tend to saturate to 120 J K^{-1} mol^{-1} at RT, consistent with the high-T limit for the lattice specific heat (i.e., the Dulong-Petit value 3N\,R=15R=124.7 J K^{-1} mol^{-1}, where N counts the number of elements per fu, R is the gas constant). One sees an anomaly around 280 K, a signal of second-order transition, further supporting a CDW-like transition.
+
+In EuBiS_{2}F, the specific heat is due to several different origins including crystalline lattice (C_{\text{lat}}), conduction electron (C_{\text{el}}), and Eu magnetism (C_{\text{m}}). One may correctly separate them out by considering different contribution weights in different temperature regions. Since no magnetic ordering takes place above 2 K, and the magnetic susceptibility follows well the Curie-Weiss law above 10 K, C_{\text{m}} is then expected to be very small above 10 K at zero magnetic field. Therefore we make use of a conventional approach, in which the low-T lattice contribution is taken as \beta T^{3}, to extract C_{\text{el}}. The plot of C/T versus T^{2} in the inset of Fig. 5(a) gives \gamma=73.3 mJ K^{-2} mol^{-1} and \beta=1.19 mJ K^{-4} mol^{-1}. The resultant Debye temperature, \theta_{\text{D}}=[(12/5)NR\pi^{4}/\beta]^{1/3}=201 K, is reasonably in between those of LaBiS_{2}O_{0.5}F_{0.5} (221 K) and YbBiS_{2}O_{0.5}F_{0.5} (186 K) [19], which vice versa guarantee the reliability of the Sommerfeld parameter. Notably, the fitted \gamma value is over 50 times of that of Sr_{0.5}La_{0.5}BiS_{2}F (1.42 mJ K^{-2} mol^{-1}) [32]. Its corresponding N(E_{\text{F}}) [=3\gamma/(\pi R_{\text{B}})^{2}] is as large as 30 eV^{-1} fu^{-1}, which is about 25 times of the bare density of states of LaBiS_{2}O_{0.5}F_{0.5} (1.22 eV^{-1} fu^{-1}) [17]. The greatly enhanced \gamma is related to the unusually large Pauli magnetic susceptibility above, mainly originating from the hybridization between conduction electrons and the Eu 4f electrons (see band-structure calculations in Sec. III.6).
+
+Figure 5(b) zooms in the C(T) data below 20 K. At zero magnetic field, a peak appears at 1.6 K with a high maximum up to 10.41 J K^{-1} mol^{-1}. Under a magnetic field of 5 T, the peak is suppressed, forming a broad hump centered at about 3.5 K. Since the ground state of Eu^{2+} has zero orbital angular momentum, Schottky-like contribution is not expected. Hence the peak should be of magnetic origin. It is noted that, on the right side of the peak, there is no discontinuous jump (or divergence) in specific heat, as opposed to an ordinary long-range magnetic ordering. This lets us consider that the specific anomaly comes from freezing of nonordered Eu^{2+} spins, i.e., a spin glass transition. Similar observation was reported in (Eu,Sr)S [44] and EuCu_{2}Si_{2}[45]. To extract C_{\text{m}} below 10 K more accurately, the C(T) data from 10 to 20 K were fitted by a polynomial with odd-power terms, C\approx
+
+Figure 5: (Color online) Specific heat capacity for EuBiS_{2}F. (a) Temperature dependence of specific heat capacity, C(T), from 0.5 to 320 K. Upper left inset: an enlarged plot of the C(T) showing an anomaly at 280 K. Lower right inset: plot of C/T vs T^{2} at low-temperature region (the dashed line obeys C/T=\gamma+\beta T^{2}). (b) An enlarged plot of C(T) from 0.5 to 20 K. The dashed line is a polynomial fit (see details in the text), representing the lattice and electronic contributions. (c) C_{\text{m}}/T (where C_{\text{m}} denotes magnetic contribution to the specific heat) and magnetic entropy S_{\text{m}} (left axis) as functions of temperature.
+
+  C_{\rm el}+C_{\rm lat}=A_{1}T+A_{3}T^{3}+A_{5}T^{5}+A_{7}T^{7} (the resultant A_{1} and A_{3} agree well with the above \gamma and \beta values). Then, the magnetic contribution C_{\rm m} below 10 K was obtained by removing the contributions of C_{\rm lat} and C_{\rm el}. Consequently, the magnetic entropy can be calculated by S_{\rm m}=\int_{0}^{T}(C_{\rm m}/T)dT, as shown in Fig. 5(c), which is 12.4 J K^{-1} mol^{-1} at 20 K under zero field. Furthermore, nearly the same S_{\rm m} value can be achieved under 5 T for integrating up to 60 K. The released magnetic entropy equals to 72% of Rln(2S+1) (S=7/2 for Eu^{2+}). Considering the omission of magnetic entropy above 20 K, the resultant S_{\rm m} value actually gives an upper limit of the Eu valence of +2.28 below 20 K.
+
+### Band-structure calculations
+
+To interpret the above experimental results, we performed a first-principles calculation using local spin density approximation with consideration of on-site Coulomb interaction (LSDA+_U_), particularly paying attention to the Eu 4f electronic states (the issue of CDW instability was well documented by Yildirim [18]). We first investigated the influence of the parameter U. Figure 6(a) shows the variations of Eu 4f bands of EuBiS2F with U=0, 1, ..., 6 eV. In all cases, there is a large gap between occupied and unoccupied levels, as shown in the inset. Another prominent feature is that the highest occupied band (HOB) is located around E_{\rm F}, regardless of the different U values. This fact suggests that the Eu 4f frontier occupied level in the HOB is pinned by the chemical potential of the conduction bands. The filled states in HOB actually represent Eu^{2+}, whilst the empty states in HOB, i.e., the 4f holes, correspond to Eu^{3+}.
+
+Figure 6(b) shows the calculated band structure of EuBiS2F with a realistic value of U=3 eV. There are seven flat bands near E_{\rm F}, all coming from the Eu 4f orbitals. The HOB crosses E_{\rm F}, and hybridizes with the Bi 6p bands (see the zoom-in plot at the bottom). Furthermore, this HOB donates electrons to the Bi 6p bands, and leaves hole pockets around the **M** point [see also the FS in Fig. 6(d)]. Consequently, although undoped, the CB of EuBiS2F is filled with the transferred electrons. Due to the Q2D structure, cylindriclike FSs are present [Fig. 6(d)]. Except for the 4_f_-hole pockets, two electron-type FS sheets appear around the **X** point, similar to the case of LaBiS2O1-xF_{\rm x} with x=0.25[13]. This 2D-like FS sheets have considerable nesting areas for developing CDW instability.
+
+Figure 6(c) shows the calculated electronic DOS of EuBiS2F. Obviously, the sharp peaks come from the Eu 4f orbitals. They are basically divided into two groups, which are about 7 eV apart (corresponding to an effective Hubbard U\sim 7 eV). The frontier HOB nearby E_{\rm F} has mainly contributions from the f_{x2}' wave function. The DOS at E_{\rm F}, N(E_{\rm F}), mainly comprises of Bi6p (0.75 x 2 eV^{-1} fu^{-1}) and Eu4f (21.6 eV^{-1} fu^{-1}). The total N(E_{\rm F}) is about 20 times of that of LaBiS2O0.5F0.5[17], well accounting for the enhancement of electronic specific-heat coefficient as well as Pauli susceptibility.
+
+## IV Concluding remarks
+
+We have demonstrated a series of signatures for a CDW-like transition in EuBiS2F, albeit no static long-range superlattice order was detected by XRD. They include a clear kink in the c/a ratio, a resistivity hump, a kink in the Hall coefficient, a subtle magnetic susceptibility change, and a specific-heat hump, all at T^{*}\sim 280 K. The slowing down of Eu VFs below T^{*} suggests a dynamic CDW scenario. Such a dynamic CDW is supported by the theoretical calculations,
+
+Figure 6: (Color) Band calculations for EuBiS2F using LSDA + U method. (a) Variations of Eu4-_f_ bands with different U values. DOS denotes the density of states. (b) Calculated band structure of EuBiS2F with U=3 eV. The contributions of the relevant orbital states are distinguished by different colors. The lower panels zoom in the band dispersions crossing the Fermi level (E_{\rm F}=0). (c) Total and projected DOS with U=3 eV. (Inset) Enlarged plot near E_{\rm F}. (d) Fermi surfaces of EuBiS2F derived from the band structure in (b).
+
+  which indicate dynamic in-plane displacements of S(1) owing to the shallowness of the double-well potential [16]. Very recently, "checkerboard stripe" electronic state was observed on the cleaved surface of NdO_{0.7}F_{0.3}BiS_{2} single crystals [46]. Although the nanoscale electronic inhomogeneity was considered to be due to the atomic defects on the cleaved surface, it could be in some relation to the CDW instability.
+
+As is known, CDW instability mostly originates from the FS nesting [1,2]. Since the shape and the size of the FS sheets are predominantly decided by the electron filling in the CB of BiS_{2}-based materials [13], the electron doping level should be crucial for the occurrence of CDW. Our finding in EuBiS_{2}F implies that the CDW instability is optimized at around x\sim 0.2. To verify this point, we synthesized samples of (Sr,Ca)_{0.75}La_{0.25}BiS_{2}F, in which the electron doping was fixed to x=0.25. We indeed observed a similar CDW anomaly in this designed system (see Figs. S1 and S2 in Ref. [27]).
+
+It is due to the mixed valence of Eu that considerable amount of electron carriers are transferred into the CB, which induces SC as well as CDW instability. Table 1 summarizes the Eu valence in EuBiS_{2}F determined via various methods at different temperature ranges. Basically, the Eu valence is about +2.2, nearly independent of temperature down to 2 K. This result is very unusual, since the Eu valence mostly increases remarkably with decreasing temperature, e.g., in the systems of EuM_{2}Si_{2} (M= Cu [42], Pd [47], Ir [48,49]) and EuNi_{2}P_{2}[49,50] where Eu VFs were present. As for the crystal structure of EuBiS_{2}F, there is only one crystallographic site for the Eu ions. Therefore the mixed valence of Eu means existence of VFs. Indeed, according to the Mossbauer results above, VFs are dominant above T^{*}=280 K. Around T^{*}, however, the VF frequency decreases rapidly. At temperatures far below T^{*}, the VFs of Eu^{2+} and Eu^{3+} are slower than 10^{8} Hz. These observations suggest that Eu should have unequivalent Eu sites in a short-time scale, which could be realized in the proposed CDW phase with distortions of BiS(1) layers [18]. Thus the Eu valence is "pinned" by the CDW-like transition [see the schematic energy-band diagrams for the T<T^{*} scenario in Fig. 2(c)], resulting in the unique temperature-independent mixed valence. In turn, the Eu VFs (no matter how slow they are) should be in favor of an unusual dynamic CDW state.
+
+The emergence of SC under the CDW-like transition suggests that EuBiS_{2}F is also a CDW superconductor, like the well known NbSe_{2}[1, 2, 3]. The formation of CDW generally loses a portion of FSs, which leads to a decrease of T_{\rm c}. In this sense, CDW competes with SC, as usual. However, an anharmonic model calculation [16] shows that the CDW instability is also essential for the SC, suggesting a more profound relationship between SC and CDW.
+
+Finally, we would like to emphasize that the occurrence of SC at the (self) electron doping level corresponding to x\sim 0.2 is also surprising. Previous reports [37,38] indicate that, in an analogous system of Sr_{1-x}La_{x}BiS_{2}F, SC appears for x>0.3, below which the samples show _insulating_ behavior, and the optimal doping is at x\sim 0.5. According to the band structure calculations [13,16, 17, 18], the FSs undergo a Lifshitz transition, characterized by a change in FS topology, with electron doping. The two doping levels, x\sim 0.2 and x\sim 0.5, have very different FS topologies. Therefore the superconducting state in EuBiS_{2}F might be different from those of other BiS_{2}-based materials. It was predicted that [15], below the Lifshitz filling level (like the case of EuBiS_{2}F), the superconducting state is weak topological due to strong spin-orbit coupling. Further investigations are called for to verify this prediction.
+
+## Acknowledgments
+
+We would like to thank F. Steglich, Q. M. Si, F. C. Zhang, J. H. Dai, H. Q. Yuan, Q. H. Wang, C. Cao, and Z. Ren for helpful discussions. This work was supported by the National Basic Research Program of China (under Grant Nos. 2011CBA00103 and 2010CB923003), the National Science Foundation of China (under grant Nos. 11190023), and the Fundamental Research Funds for the Central Universities of China (Grant No. 2013FZA3003).
+
+## References
+
+* [1] A. M. Gabovich, A. I. Voitenko, and M. Ausloos, Phys. Rep. **367**, 583 (2002).
+* [2] P. Monceau, Adv. Phys. **61**, 325 (2012).
+* [3] J. A. Wilson, F. J. Di Salvo, and S. Mahajan, Adv. Phys. **24**, 117 (1975).
+* [4] D. W. Wise, M. C. Boyer, K. Chatterjee, T. KONDO, T. Takeuchi, H. Ikuta, Y. Y. Wang, and E. W. Hudson, Nat. Phys. **4**, 696 (2008).
+* [5] M. J. Lawler, K. Fujita, J. Lee, A. R. Schmidt, Y. Kohsaka, C. K. Kim, H. Eisaki, S. Uchida, J. C. Davis, and J. P. Sethna, Nature (London) **466**, 347 (2010).
+* [6] T. Wu, H. Mayaffre, S. Kramer, M. Horvatic, C. Berthier, W. N. Hardy, R. Liang, D. A. Bonn, and M.-H. Julien, Nature (London) **477**, 191 (2011).
+* [7] G. Ghiringhelli, M. Le Tacon, M. Minola, S. Blanco-Canosa, C. Mazzoli, N. B. Brookes, G. M. De Luca, A. Frano, D. G. Hawthorn, F. He, T. Loew, M. Moretti Sala, D. C. Peets, M. Salluzzo, E. Schierle, R. Sutarto, G. A. Sawatzky, E. Weschke, B. Keimer, and L. Braicovich, Science **337**, 821 (2012).
+* [8] J. Chang, E. Blackburn, A. T. Holmes, N. B. Christensen, J. Larsen, J. Mesot, Ruixing Liang, D. A. Bonn, W. N. Hardy,
+
+\begin{table}
+\begin{tabular}{l c c c c c} Methods & Eu-BVS & Magnetization & Mössbauer & Heat capacity & Fermi surface \\ Eu valence & 2.14(2)–2.18(2) & 2.17(2)–2.20(1) & 2.24(2); 2.19(3); 2.14(2) & \textless2.28 & 2.25(5) \\ T (K) & 310–13 & 300–2 & \leqslant200; 273; 388 & 0.5–20 & NA \\ \end{tabular}
+\end{table}
+Table 1: Summary of the Eu valence in EuBiS_{2}F determined via various methods in different temperature (T) ranges. Eu-BVS refers to bond valence sum [35] of the Eu ions. The number in parentheses represents the measurement uncertainty for the last digit.
+
+  A. Watenphul, M. v. Zimmermann, E. M. Forgan, and S. M. Hayden, Nat. Phys. **8**, 871 (2012).
+* [9] E. Morosan, H. W. Zandbergen, B. S. Dennis, J. W. G. Bos, Y. Onose, T. Klimczuk, A. P. Ramirez, N. P. Ong, and R. J. Cava, Nat. Phys. **2**, 544 (2006).
+* [10] J. C. S. Davis and D. H. Lee, Proc. Natl. Acad. Sci. USA **110**, 17623 (2013).
+* [11] Y. Mizuguchi, S. Demura, K. Deguchi, Y. Takano, H. Fujihisa, Y. Gotoh, H. Izawa, and O. Miura, J. Phys. Soc. Jpn. **81**, 114725 (2012).
+* [12] Z. Hiroi, arXiv:0805.4668.
+* [13] H. Usui, K. Suzuki, and K. Kuroki, Phys. Rev. B **86**, 220501(R) (2012).
+* [14] G. B. Martins, A. Moreo, and E. Dagotto, Phys. Rev. B **87**, 081102(R) (2013).
+* [15] Y. Yang, W. S. Wang, Y. Y. Xiang, Z. Z. Li, and Q. H. Wang, Phys. Rev. B **88**, 094519 (2013).
+* [16] X. Wan, H.-C. Ding, S. Y. Savrasov, and C.-G. Duan, Phys. Rev. B **87**, 115124 (2013).
+* [17] B. Li, Z. W. Xing, and G. Q. Huang, Europhys. Lett. **101**, 47002 (2013).
+* [18] T. Yildirim, Phys. Rev. B **87**, 020506(R) (2013).
+* [19] D. Yazici, K. Huang, B. D. White, I. Jeon, V. W. Burnett, A. J. Friedman, I. K. Lum, M. Nallaiyan, S. Spagna, and M. B. Maple, Phys. Rev. B **87**, 174512 (2013).
+* [20] V. S. Tanryverdiev, O. M. Aliev, and I. Aliev, Inorg. Mater. **31**, 1361 (1995).
+* [21] H. Lei, K. Wang, M. Abeykoon, E. S. Bozin, and C. Petrovic, Inorg. Chem. **52**, 10685 (2013).
+* [22] P. R. Ceolin and N. Rodier, Acta Cryst. **B32**, 1476 (1976).
+* [23] F. Izumi and T. Ikeda, Mater. Sci. Forum **321-324**, 198 (2000).
+* [24] H. H. Sample, W. J. Bruno, S. B. Sample, and E. K. Sichel, J. Appl. Phys. **61**, 1079 (1987).
+* [25] I. Nowik and I. Felner, Hyper. Inter. **28**, 959 (1986).
+* [26] G. Kresse and J. Furthmuller, Phys. Rev. B **54**, 11169 (1996).
+* [27] See Supplemental Material at http://link.aps.org/supplemental/10.1103/PhysRevB.90.064518 for the crystal structure data of EuBiS_{2}F at different temperatures (Table S1) and the temperature dependences of resistivity (Fig. S1) and magnetic susceptibility (Fig. S2) of the (Sr_{0.7}Ca_{0.3})_{0.75}La_{0.25}BiS_{2}F polycrystals.
+* [28] S. Demura, Y. Mizuguchi, K. Deguchi, H. Okazaki, H. Hara, T. Watanabe, S. J. Denholme, M. Fujioka, T. Ozaki, H. Fujihisa, Y. Gotoh, O. Miura, T. Yamaguchi, H. Takeya, and Y. Takano, J. Phys. Soc. Jpn. **82**, 033708 (2013).
+* [29] J. Xing, S. Li, X. Ding, H. Yang, and H.-H. Wen, Phys. Rev. B **86**, 214518 (2012).
+* [30] V. P. S. Awana, A. Kumar, R. Jha, S. K. Singh, A. Pal, Shruti, J. Saha, and S. Patnaik, Solid State Commun. **157**, 21 (2013).
+* [31] R. Jha, A. Kumar, S. K. Singh, and V. P. S. Awana, J. Sup. Novel Mag. **26**, 499 (2013).
+* [32] X. Lin, X. Ni, B. Chen, X. Xu, X. Yang, J. Dai, Y. Li, X. Yang, Y. Luo, Q. Tao, G. Cao, and Z. Xu, Phys. Rev. B **87**, 020504(R) (2013).
+* [33] G. H. Cao, Z. Ma, C. Wang, Y. Sun, J. Bao, S. Jiang, Y. Luo, C. Feng, Y. Zhou, Z. Xie, F. Hu, S. Wei, I. Nowik, I. Felner, L. Zhang, Z. Xu, and F. C. Zhang, Phys. Rev. B **82**, 104518 (2010).
+* [34] Y. L. Sun, H. Jiang, H. F. Zhai, J. K. Bao, W. H. Jiao, Q. Tao, C. Y. Shen, Y. W. Zeng, Z. A. Xu, and G. H. Cao, J. Am. Chem. Soc. **134**, 12893 (2012).
+* [35] N. E. Brese and M. O'Keeffe, Acta Cryst. **B47**, 192 (1991).
+* [36] Y. Mizuguchi, A. Miyake, K. Akiba, M. Tokunaga, J. Kajitani, and O. Miura, Phys. Rev. B **89**, 174515 (2014).
+* [37] H. Sakai, D. Kotajima, K. Saito, H. Wadati, Y. Wakisaka, M. Mizumaki, K. Nitta, Y. Tokura, and S. Ishiwata, J. Phys. Soc. Jpn. **83**, 014709 (2014).
+* [38] Y. Li, X. Lin, L. Li, N. Zhou, X. Xu, C. Cao, J. Dai, L. Zhang, Y. Luo, W. Jiao, Q. Tao, G. Cao, and Z. Xu., Supercond. Sci. Technol. **27**, 035009 (2014).
+* [39] R. M. Bozorth and J. H. Van Vleck, Phys. Rev. **118**, 1493 (1960).
+* [40] Y. Takikawa, S. Ebisu, and S. Nagata, J. Phys. Chem. Solids. **71**, 1592 (2010).
+* [41] E. Konig and G. Konig, in _Landolt-Bornstein, New Series, Group II_, edited by K.-H. Hellwege and A. M. Hellwege (Springer-Verlag, Berlin, 1976), Vol. 8, p. 27.
+* [42] E. R. Bauminger, D. Froindlich, I. Nowik, S. Ofer, I. Feiner, and I. Mayer, Phys. Rev. Lett. **30**, 1053 (1973).
+* [43] I. Nowik, I. Felner, Z. Ren, G. H. Cao, and Z. A. Xu, J. Phys.: Condens. Matt. **23**, 065701 (2011).
+* [44] D. Meschede, F. Steglich, W. Felsch, H. Maletta, and W. Zinn, Phys. Rev. Lett. **44**, 102 (1980).
+* [45] P. Wang, Z. M. Stadnik, J. Zakrowski, B. K. Cho, and J. Y. Kim, Phys. Rev. B **82**, 134404 (2010).
+* [46] T. Machida, Y. Fujisawa, M. Nagao, S. Demura, K. Deguchi, Y. Mizuguchi, Y. Takano, and H. Sakata, arXiv:1403.6110.
+* [47] E. V. Sampathkumaran, L. C. Gupta, R. Vijayaraghavan, K. V. Gopalakrishnan, R. G. Pillay, and H. G. Devare, J. Phys. C **14**, L237 (1981).
+* [48] B. Chevalier, J. M. D. Coey, B. Lloret, and J. Etourneau, J. Phys. C **19**, 4521 (1986).
+* [49] V. Guritanu, S. Seiro, J. Sichelschmidt, N. Caroca-Canales, T. Iizuka, S. Kimura, C. Geibel, and F. Steglich, Phys. Rev. Lett. **109**, 247207 (2012).
+* [50] R. Nagarajan, G. K. Shenoy, L. C. Gupta, and E. V. Sampathkumaran, Phys. Rev. B **32**, 2846 (1985).
+
+ Possible charge-density wave, superconductivity, and f-electron valence instability in EuBiS_{2}F
+
+Hui-Fei Zhai
+
+Zhang-Tu Tang
+
+Hao Jiang
+
+Hao Jiang
+
+Kai Xu
+
+Ke Zhang
+
+Pan Zhang
+
+Jun-Ke Bao
+
+Jun-Ke Sun
+
+Wen-He Jiao
+
+J. Nowik
+
+Felner
+
+Yu-Ke Li
+
+Ya-Ke Li
+
+Qian Tao
+
+Chun-Mu Feng
+
+Zhu-An Xu
+
+Guang-Han Cao
+
+###### Abstract
+
+Superconductivity (SC) and charge-density wave (CDW) are two contrasting yet relevant collective electronic states, which have received sustained interest for decades. Here, we report that, in a layered europium bismuth sulfofluoride, EuBiS_{2}F, a CDW-like transition occurs at 280 K, below which SC emerges at 0.3 K, without any extrinsic doping. The Eu ions were found to exhibit an anomalously temperature-independent mixed valence of about +2.2, associated with the formation of a possible dynamic CDW. The mixed valence of Eu gives rise to self electron doping into the conduction bands mainly consisting of the in-plane Bi6p states, which in turn brings about the CDW and SC. In particular, the electronic specific-heat coefficient is enhanced by \sim50 times, owing to the significant hybridizations between Eu4f and Bi6p electrons, as verified by band-structure calculations. Thus EuBiS_{2}F manifests itself as an unprecedented material that simultaneously accommodates SC, CDW, and f-electron valence instability.
+
+pacs: 10.1103/PhysRevB.90.064518 +
+Footnote †: Author to whom correspondence should be addressed: ghcao@ zju.edu.cn
+
++
+Footnote †: Author to whom correspondence should be addressed: ghcao@ zju.edu.cn
+
++
+Footnote †: Author to whom correspondence should be addressed: ghcao@ zju.edu.cn
+
++
+Footnote †: Author to whom correspondence should be addressed: ghcao@ zju.edu.cn
+
++
+Footnote †: Author to whom correspondence should be addressed: ghcao@ zju.edu.cn
+
++
+Footnote †: Author to whom correspondence should be addressed: ghcao@ zju.edu.cn
+
++
+Footnote †: Author to whom correspondence should be addressed: ghcao@ zju.edu.cn
+
++
+Footnote †: Author to whom correspondence should be addressed: ghcao@ zju.edu.cn
+
++
+Footnote †: Author to whom correspondence should be addressed: ghcao@ zju.edu.cn
+
++
+Footnote †: Author to whom correspondence should be addressed: ghcao@ zju.edu.cn
+
+## I Introduction
+
+Charge-density wave (CDW) and superconductivity (SC) are different collective electronic orders, although both are associated with Fermi surface instabilities owing dynamically to electron-phonon interactions (for conventional BCS superconductors). CDW, usually occurring in low-dimensional materials, generally shows periodic modulations of conduction electron density and crystalline lattice in real space. In contrast, SC, appearing in materials not limiting to low dimensionality, exhibits an intriguing electronic ordering in momentum space due to condensation of Cooper pairs, without any static lattice deformation. Basically, they are competing orders, nevertheless, coexistence of SC and CDW is frequently observed in low-dimensional systems by various experiments [1, 2, 3]. In recent years, the relationship between CDW and SC has become a hot topic in cuprate high-temperature superconductors [1, 4, 5, 6, 7, 8] as well as "conventional" superconductors that bear CDW instability [1, 2, 9]. Currently, accumulating evidences seem to indicate that CDW serves as an intertwined electronic orders, not simply competing with SC [10].
+
+Recently, SC was discovered in a quasi-two-dimensional (Q2D) bismuth chalcogenide, LaO_{1-x}F_{x}BiS_{2}[11] (the chemical formula is preferably written as LaBiS_{2}O_{1-x}F_{x} according to standard nomenclature [12]). This new class of materials consists of BiS_{2} bilayers that are believed to be responsible for SC. Band structure calculations [13, 16, 17, 18] reveal that the undoped parent compound LaBiS_{2}O belongs to a band insulator with an energy gap of \sim0.8 eV [16, 17, 18]. The conduction bands near Fermi level consist mainly of in-plane Bi6p orbitals. Upon electron doping, these conduction bands are partially filled, which leads to Q2D Fermi surface (FS) sheets. A minimal electronic model including Bi 6_p_x_ and 6_p_y_ orbitals was thus constructed and investigated [13, 14, 15]. Interestingly, the resultant two bands have a Q1D character with a double minimum dispersion, making FS nesting possible. Possible CDW phases due to Q1D distortions of the Bi and/or S atoms were proposed for x\sim 0.5[16, 18]. Nevertheless, except for an inflection point in the temperature dependence of resistivity in La_{0.9}_M__{0.1}BiS_{2}O (M = Th, Ti, Zr, and Hf), which was speculated to be related to a CDW effect [19], no more signatures in physical properties for a CDW transition have been observed so far.
+
+Here, we report a series of evidences for a CDW-like transition at T^{*}\sim 280 K in an isostructural compound, EuBiS_{2}F, synthesized for the first time. Unlike other parent compounds such as LaBiS_{2}O [20] and SrBiS_{2}F [21] that are undoped insulators, surprisingly, EuBiS_{2}F itself is metallic, and moreover it exhibits SC below 0.3 K. By various experimental approaches, we demonstrate that EuBiS_{2}F is actually self-doped due to partial electron transfer from the Eu ions to the BiS_{2} bilayers. The Eu ions exhibit an anomalously temperature-independent mixed valence of about +2.2. The electronic specific-heat coefficient extracted from the experimental data is as large as 73 mJ K^{-2} mol^{-1}, \sim50 times larger than those of its analogues, suggesting significant hybridizations between Eu4f and Bi6p electrons, which is reproduced by first-principles calculations. Therefore, to our knowledge, EuBiS_{2}F represents the first material that simultaneously bears SC, CDW, and f-electron valence instability.
+
+## II Experimental Methods
+
+### Sample's synthesis
+
+The EuBiS_{2}F polycrystalline sample was synthesized by a solid-state reaction in sealed evacuated quartz tubes. All  the starting materials were bought from Alfa Aesar. The stoichiometric mixtures of EuS [presynthesized by reacting Eu (99.9%) and S (99.9995%) pieces in sealed evacuated quartz tubes at 1073 K for 20 h], EuF_{2} (99.9%), and Bi_{2}S_{3} (99.995%) powders, loaded in an evacuated quartz ampule, were heated in a muffle furnace to 1053 K for 20 h. The reacted mixtures were ground for homogenization in an agate mortar, pressed into pellets, and sintered at 1053 K for another 20 h. This process was repeated until nearly single-phase sample was obtained. An argon-filled glove box was employed for the operations above to avoid the contamination of water and oxygen as far as possible.
+
+### X-ray diffractions and crystal structure
+
+Powder x-ray diffraction (XRD) was carried out at room temperature (RT) and at low temperatures down to 13 K on a PANalytical x-ray diffractometer (Model EMPYREAN) with a monochromatic CuK_{\alpha 1} radiation. The lattice parameters were precisely determined using Si powders as the internal standard reference material. The crystal structure was refined based on the CeBiS_{2}O-type structure model [22] by a Rietveld analysis using the code RIETAN-2000 [23]. With the exact lattice parameters, all the structural refinements were easily convergent. The resultant weighted reliable factor R_{\rm wp} is 7.1%-9.0%, and the "goodness of fit" parameter is 1.1-1.5, indicating good reliability for the refined crystal structure.
+
+### Physical property measurements
+
+The electrical resistivity was measured with a standard four-electrode method on a Quantum Design physical property measurement system (PPMS-9). The as-prepared EuBiS_{2}F pellet was cut into a thin bar with a dimension of 2.0\times 1.6\times 0.6 mm^{3}, and gold wires (\phi = 30 \mum) were attached onto the sample's surface with silver paint. The size of the contact pads produces a total uncertainty in the absolute values of resistivity of \pm15%. A dilution refrigerator was employed for measuring the resistivity at ultra low temperatures down to 20 mK with an electric current of 20 \muA. The Hall coefficient was measured by permutating the voltage and current electrodes [24] under a magnetic field of 60 kOe, and the results were checked by a standard field-sweep measurement. The heat capacity was measured using a relaxation method on the PPMS-9. The dc magnetization was measured on a Quantum Design magnetic property measurement system (MPMS-5). Signals from the sample holder were carefully removed.
+
+### Mossbauer spectroscopy
+
+Mossbauer studies on ^{151}Eu at various temperature (up to 388 K), were performed by using a conventional constant acceleration drive and \sim50 mCi ^{151}Sm_{2}O_{3} source. All spectra obtained were analyzed in terms of least square fit procedures to theoretical expected spectra. The experimental spectra were analyzed by two Lorentzian lines from which values for the isomer shift (\delta) and the spectral area of the resonance absorption lines were derived. The analysis considered also the exact shape of the source emission line [25]. The velocity calibration was performed with an \alpha-iron foil at RT and the reported \delta values are relative to Eu_{2}O_{3} at RT.
+
+### Electronic structure calculations
+
+We carried out electronic structure calculations using the Vienna _ab initio_ simulation package (vasp) [26]. The experimental crystal structure parameters at 15 K were employed for the calculations. The strong Coulomb repulsion of the Eu4f electrons was included using local spin density approximation plus a U parameter (LSDA+U). The plane-wave basis energy cutoff was set at 540 eV.
+
+## III Results and discussion
+
+### Crystal structure and bond valence sum of Eu
+
+EuBiS_{2}F crystallizes in the tetragonal CeBiS_{2}O-type structure [22] with space group P4/mmm (No. 129). The crystal structure, shown in the top inset of Fig. 1(a), can be viewed as an intergrowth of fluorite-like Eu_{2}F_{2} block layers and NaCl-like BiS_{2} bilayers along the crystallographic c axis. The XRD patterns for the EuBiS_{2}F sample were well reproduced using the crystal structure model by Rietveld refinement [23]. No obvious extra reflections appear, indicating monophasic EuBiS_{2}F within the XRD detecting limit (\sim2 wt.% in normal conditions).
+
+The refined structural data were tabulated in Table S1 Ref. [27]. The room-temperature lattice parameters a [= 4.0508(1) A] and c [=13.5338(3) A] are 0.7% and 2.1% smaller, respectively, than its counterparts of SrBiS_{2}F [a = 4.079(2) A and c = 13.814(5) A [21]]. Consequently, the c/a ratio of EuBiS_{2}F [3.341(1)] is remarkably reduced, compared with those (\sim3.39) of other CeBiS_{2}O-type parent compounds. Since the c/a value decreases upon electron doping for the CeBiS_{2}O-related systems [11,28,29,30, 31, 32], one may speculate that EuBiS_{2}F could be self electron doped (see previous examples of self-doping in Refs. [33,34]) owing to possible mixed valence of Eu. An alternative approach to verify this speculation is to calculate the bond valence sum [35] of Eu (Eu-BVS) by the formula \sum\exp(\frac{R_{0}-d_{ij}}{0.37}), where R_{0} is an empirical parameter (2.04 and 2.53 A for Eu-F and Eu-S bonds, respectively [35]) and d_{ij} denotes the measured bond distances between Eu and the _nine_ coordinating anions. The resultant Eu-BVS value at RT is 2.15(2). As a comparison, the Sr-BVS value in SrBiS_{2}F is calculated to be 2.05(4), based on the RT crystallographic data in Ref. [21]. The relatively high valence in EuBiS_{2}F means that the BiS_{2} bilayers are indeed self-doped, accounting in turn for the anomalously small c/a ratio.
+
+In order to detect the possible superstructured CDW phase predicted [16,18], we performed low-temperature XRD measurements down to 13 K. No splitting for the (200) or (220) peak was detectable, as seen in the bottom inset of Fig. 1(a). Also, the structural fittings using the superstructures of \sqrt{2}\times\sqrt{2}\times 1[16] (with space group Cmma) or \sqrt{2}\times 2\sqrt{2}\times 1[18] (with space group P22;2) could not give a better refinement. Although static long-range CDW order cannot be detected by the conventional XRD technique, considering the strong signals for a CDW-like transition at 280 K (see the following sections), we suppose that a dynamic and/or short-range CDW ordering is still likely. Indeed, theoretical calculations [16] indicate shallowness of the double-well potential with respect to the in-plane S(1) displacement, which leads to absence  of static CDW order. Further experimental investigations with other techniques such as synchrotron XRD and electron diffractions at low temperatures are expected to be helpful to clarify this issue.
+
+Figure 1(b) show temperature dependence of the crystal structural parameters and the Eu-BVS. The lattice parameters a and c decrease monotonically with decreasing temperature. A subtle anomaly around 280 K can be detected, and it is more evident in _c_/_a_ ratio. As stated above, the decrease in _c_/_a_ means more electron doping on the BiS2 bilayers. Thus the small decrease in _c_/_a_ below 280 K suggests further electron transfer from the Eu atoms to the BiS2 bilayers with decreasing temperature. Indeed, the Eu-BVS value exhibits a detectable variations. At low temperatures, both _c_/_a_ and Eu-BVS saturate, indicating a stable mixed-valence state for Eu.
+
+### Electrical transport properties
+
+Figure 2 shows the temperature dependence of resistivity, _r_(_T_), for the EuBiS2F polycrystalline sample. Unlike the parent compound SrBiS2F that shows semiconducting behaviour [21,32], EuBiS2F is virtually metallic, due to the self-doping effect. More surprisingly, the _r_(_T_) curve exhibits a broad hump below ~280 K, resembling the CDW transitions in Q2D systems like Cu_T_BiSe2 [9]. The resistivity anomaly cannot be ascribed to the increase of the Eu valence, because the latter would generate more electron carriers in the conducting BiS2 bilayers, which would lower (rather than raise) the resistivity. Moreover, the hump is not even related to the Eu 4f electrons, because we observed a similar hump, due to the CDW instability, in an Eu-free sample (Sr0.7Ca0.3)0.75La0.25BiS2F (see Fig. S1 in Ref. [27]). Therefore this _r_(_T_) hump is interpreted by a gap (probably a pseudogap) opening at Fermi level (_E_F) because of the formation of dynamic/short-range CDW below 280 K. Here we note that no obvious nonlinear _IV_ relations associated with the sliding of CDW was observed down to 2 K.
+
+At low temperatures, a superconducting transition takes place with a zero-resistance temperature of 0.3 K at zero field [see the inset of Fig. 2(a)]. The superconducting transition temperature _T_c is reduced by a factor of 10, compared with the BiS2-based superconductors synthesized under ambient pressure [28, 29, 30, 31, 32]. This could be due to the formation of CDW which loses partial FSs, relatively low electron doping, and/or pair breaking by the Eu magnetic moment. The superconducting transition was also demonstrated by the magnetoresistivity measurement at fixed temperatures, as shown in Fig. 2(b). The upper critical fields (_H_c2) were determined using the criteria of 90%_r_a, where _r_a stands for the normal-state resistivity. The temperature dependence of _H_c2 shows positive curvature below _T_c, possibly due to large anisotropy in _H_c2 [36] (note that the sample is polycrystals). The _m_th_H_c2 value at 0.018 K is 0.16 T, which is obviously smaller than the Pauli limiting field, _m_th_H_c2=1.84 _T_c  0.4 T.
+
+To further understand the anomaly around 280 K in _r_(_T_), we measured the temperature dependence of Hall coefficient (_R_H). As shown in Fig. 2(c), at room temperature, _R_H is negative, indicating dominant electron transport. If we assume a single-band scenario, the carrier density is estimated to be n = 1/e\left| R_{\text{H}} \right| = (2.1 \pm 0.3) \times 10^{27} m-3, equivalent to a Hall number of V_{\text{cell}}/(2e\left| R_{\text{H}} \right|) = 0.24 \pm 0.03 electrons per formula unit (fu). This electron density corresponds to an Eu valence of +2.24(3), if assuming that all the electron carriers in the conduction band (CB) come from Eu4f orbitals [see the schematic energy-band diagrams in Fig. 2(c)]. Below 280 K, _R_H increases steeply, and then it changes the sign at lower temperatures. This peculiar _R_H(_T_) behavior strongly suggests FS reconstructions owing to a CDW transition. In the
+
+Figure 1: (Color online) Crystal structure and its temperature dependence for EuBiS2F. (a) Powder x-ray diffractions and their Rietveld refinement profiles at 300 K (top) and 15 K (bottom). Top inset: the crystal structure of EuBiS2F. Bottom inset: an enlarged plot showing the (200) and (220) reflections. (b) Temperature dependence of lattice parameters a, c, _c_/_a_, and the bond valence sum of Eu (Eu-BVS). The solid line is a guide to the eye.
+
+  Sr_{1-x}La_{x}BiS_{2}F system, as a comparison, the R_{\rm H}(T) is either positive (for x\leqslant 0.45) or negative (for x\geqslant 0.5) [32,37,38]. We speculate that a pseudogap opens below T^{*}, which could lower the E_{\rm F} a little, as shown in the left diagram in Fig. 2(c). As a result, more transferred electrons are expected, accounting for the small increase of Eu valence below 280 K.
+
+### Magnetic properties
+
+The magnetic properties Eu^{2+} and Eu^{3+} ions are very different because of different electron filling on the 4f orbitals (4f^{7} and 4f^{6}, respectively). The ground state of the former is ^{8}S_{7/2} with an effective local-moment of g\sqrt{S(S+1)}\mu_{\rm B} = 7.94 \mu_{\rm B} (S=7/2). In contrast, the ground state of the latter is ^{7}F_{0}, which has zero magnetic moment. Nevertheless, the excited states ^{7}F_{J} (J=1,2,\ldots,6), due to the spin-orbit interaction \lambdaL **.** S, give rise to appreciable van Vleck paramagnetic susceptibility (\chi_{\rm vv}) [39]. Here the coupling constant \lambda also measures the energy of the first excited state. The \lambda value is 480 K for free Eu^{3+} ions [39], and it has a small change in solids, e.g., \lambda = 471 K for EuBO_{3} and \lambda = 490 K for EuF_{3}[40]. Consequently, the \chi_{\rm vv}(T) is featured by a temperature-independent plateau in the low-temperature regime (say, T\leqslant 100 K), and Curie-like paramagnetism with an effective magneton number of 3.4 per Eu^{3+} for the high-temperature region (T>200 K) [40]. In the EuBiS_{2}F system, therefore, we can correctly analyze the temperature dependence of magnetic susceptibility, \chi(T), with an extended Curie-Weiss law,
+
+\[\chi\,=\,\chi_{0}+C/(T+\theta_{\rm N}).\] (1)
+
+In the low-temperature limit, the first term \chi_{0} includes \chi_{\rm vv}, in addition to Pauli paramagnetism (and Landau diamagnetism) of conduction electrons and Langevin diamagnetism from the core-shell electrons of all the constituent elements. At the high-temperature side, \chi_{\rm vv} is included to the second term, where C denotes Curie constant and \theta_{\rm N} is termed as paramagnetic Neel temperature. One may obtain the effective moment by the formulas \mu_{\rm eff}=\sqrt{3k_{\rm B}C/N_{\rm A}}, where k_{\rm B} and N_{\rm A} denote Boltzmann and Avogadro constants, respectively.
+
+Figure 3(a) shows the temperature dependence of magnetic susceptibility, \chi(T), for the EuBiS_{2}F sample at T\leqslant 100 K. No magnetic transition is evident down to 2 K. The \chi(T) data can be well fitted by Eq. (1), except for minor deviations below 10 K. The fitted effective paramagnetic moment is 7.2 \mu_{\rm B} fu^{-1}, which means that the concentration of Eu^{2+} is 83% (hence the Eu valence is +2.17, fully consistent with the Eu-BVS value above). The Eu^{3+} ions (with a population of 17%) should give considerable contribution to \chi_{0}. Indeed, the fitted \chi_{0} value is as large as 0.0032(2) emu mol^{-1}. By referring to the Van Vleck susceptibility of EuF_{3} (\sim0.006 emu mol^{-1} below 100 K) in which the Eu valence is totally 3+ [40], the \chi_{\rm vv} value of EuBiS_{2}F is then estimated to be 0.001 emu mol^{-1} below 100 K. Since the Langevin diamagnetic susceptibility is negligibly small (about -1.5\times 10^{-4} emu mol^{-1}) [41] within the fitting errors, then, the Pauli susceptibility can be roughly estimated to be \sim0.002 emu mol^{-1}. This unusually large value of Pauli susceptibility suggests substantial hybridizations between Eu4f and CB (see band structure calculations in Sec. III.6).
+
+Figure 3(b) shows the high-temperature range of \chi(T), which was also fitted with Eq. (1). The fitting gives smaller \chi_{0} but larger C values, because \chi_{\rm vv} is now included in the second term of Eq. (1). By subtraction of the fitted curve from the experimental data, the residual susceptibility \Delta\chi
+
+Figure 2: (Color online) Electrical transport properties and superconductivity in EuBiS_{2}F. (a) Temperature dependence of resistivity showing a CDW-like anomaly at 280 K and superconductivity at 0.3 K (inset). (b) The magnetoresistivity as a function of magnetic field at low temperatures. The inset plots the upper critical field, H_{2}, by the criteria of 90%\rho_{a}, where \rho_{a} stands for the normal-state resistivity. (c) Temperature dependence of Hall coefficient in which a turning point at 280 K is seen. Upper inset: field dependence of Hall resistivity at some fixed temperatures. Bottom inset: schematic energy-band diagrams for T<T^{*} (left) and T>T^{*} (right), respectively. CB (VB) denotes thy conduction band (valence band) in the BiS_{2} bilayers.
+
+  shows a humplike anomaly where the magnetic susceptibility tends to drop [by (5 +- 2) x 10-5 emu mol-1] at around 280 K. At first sight, it seems to be related to the change in Eu valence. However, a similar hump in kh was also observed in an Eu-free analogous sample, (Sr0.7Ca0.3)0.75La0.25BiS2F (see Fig. S2 in Ref. [27]). Thus we speculate that the "drop" of kh at 280 K mainly results from the loss of Pauli paramagnetic susceptibility when a (pseudo)gap opens at the CDW transition. Here, we note that the decrease of N(E_{\rm F}) in the CDW phase for LaBiS2O0.5,F0.5 calculated [18] is just equivalent to the loss of Pauli magnetic susceptibility.
+
+The possible variation in Eu valence can be analyzed as follows. If P_{3+} denotes the concentration of Eu3+ [so that the fraction of Eu2+ is (1-P_{3+})], and assuming that kh0 were temperature independent, one may calculate P_{3+} by the relation
+
+\[\chi=\chi_{0}+P_{3+}\frac{C_{3+}}{T}+(1-P_{3+})\frac{C_{2+}}{T+\theta_{\rm N}}.\] (2)
+
+With C_{2+}=7.875 emu mol-1 K-1 and C_{3+}=1.45 emu mol-1 K-1 (equivalent to 3.40 \mu_{\rm B} fu-1) [40], the Eu valence was obtained as plotted in Fig. 3(d). The subtle anomaly around 280 K should be predominately due to the actual change in kh0, as discussed above. However, the Eu valence does tend to increase below 220 K, which is quantitatively consistent with the Eu-BVS values shown in Fig. 1(b).
+
+One may also obtain the information of Eu valence from the field-dependent magnetization at 2 K [Fig. 3(c)], which shows a saturation at high magnetic fields. The saturation magnetization is significantly smaller than the expected value (gS=7.0\mu_{\rm B} fu-1) for Eu2+ions only. By fitting the M(H) data using a Brillouin function with consideration of Weiss molecular field B_{\rm mf}=\xi M, the saturation magnetization is determined to be 5.58 \mu_{\rm B} fu-1, corresponding to the Eu valence of +2.20, consistent with the conclusion from the Curie-Weiss fitting above. The fitted parameter \xi is a negative value (-0.40), reflecting dominant antiferromagnetic interactions among the Eu localized moments, also agreeing with the positive value of \theta_{\rm N} fitted with Eq. (1).
+
+### Mossbauer spectroscopy
+
+Mossbauer spectroscopy (MS) is a powerful technique to study the Eu valence. The isomer shift \delta of the nuclei of Eu2+ and Eu3+ ions falls in two nonoverlapping ranges: \delta_{2+}=-7.7\sim-13.5 mm/s and \delta_{3+}=-0.01\sim+2.6 mm/s (relative to ^{151}Eu_{2}O_{3}). Thus MS easily identifies the valence state of Eu and, in the case of inhomogeneous mixed valence, the concentration of each Eu species can be determined by the relative absorption intensity. For the fast valence fluctuation (VF) scenario, the mean Eu valence can also be quantitatively evaluated by the shift in \delta[42]. MS may also supply information on quadrupole and magnetic interactions.
+
+Figure 4(a) shows the ^{151}Eu Mossbauer spectra at some typical temperatures of 90, 200, 297, and 388 K. At low temperatures (90 and 200 K), two absorption lines (or peaks) appear at -13.5 and -0.5 mm/s, which are obviously identified to the Mossbauer resonance absorptions of Eu2+ and Eu3+ nuclei, respectively. Since there is only one equivalent site in the crystal structure even at low temperatures, the two separate lines indicate slow Eu VFs (or even static charge ordering of Eu2+ and Eu3+) with the time scale of \tau_{\rm rf}>10^{-8} s (note that the probing time of MS is about 10^{-9} s). The intensity of the minor line is about 1/3 of the major one, therefore, the mean Eu valence is \sim+2.25, basically consistent with the above conclusion drawn from the crystal structure and magnetic data. As the temperature is increased
+
+Figure 4: (Color online) Mössbauer result on EuBiS2F. (a) ^{151}Eu Mössbauer spectra of EuBiS2F at some typical temperatures. (b) Temperature dependence of the isomer shifts (top), absorption linewidth (middle), and relative intensity of the minor line (bottom) from the data fitting of the ^{151}Eu Mossbauer spectra. The vertical dashed lines at -13.5 and -0.5 mm/s (a) and at 280 K (b) are guides to the eye.
+
+Figure 3: (Color online) Magnetic properties of EuBiS2F. Temperature dependence of the dc magnetic susceptibility measured with an applied field of 1 kOe [(a) T\leq 100 K and (b) T\geq 220 K]. The solid lines are the fitted curves. The difference (multiplied by 100) between the experimental data and the fitted ones is shown in the lower part of (b). (c) Field dependence of magnetization at 2 K. The dotted line is a Brillouin fit. (d) The Eu valence estimated by the magnetic susceptibility. See details in the text.
+
+  to 297 K, the intensity of the Eu^{3+} line decreases remarkably. Simultaneously, the two absorption lines get closer, and the linewidth is abnormally large (up to 5 mm/s). This fact suggests Eu VFs with the characteristic \tau_{\text{vf}} close to 10^{-9} s, associated with the electron hopping between Eu^{2+} and Eu^{3+}. At 388 K, the Eu^{3+} line almost vanishes because the VFs are much faster. The residual tiny Eu^{3+} peak could be due to traces of EuF_{3} and/or Eu_{2}O_{3} (originated from unavoidable oxygen contamination during the sample preparation) impurities [43]. In the fast VF limit, the isomer shift is then formulated by \delta_{\text{vf}}=(1-P_{3+})\delta_{2+}+P_{3+}\delta_{3+}. With \delta_{\text{vf}}=-11.6 mm/s, \delta_{2+}=-13.5 mm/s, and \delta_{3+}=0 mm/s, the Eu valence at 388 K can be estimated to be +2.14(2).
+
+By data fitting using the exact shape of the emission spectrum of ^{151}Sm_{2}O_{3} and considering quadrupole interactions, we were able to obtain the refined \delta, the full linewidth at half maximum (\Gamma) and the peak intensities (I), which are plotted respectively in Fig. 4(b). All these MS parameters point to a transition at 280 K. The most prominent feature is that the \Gamma value is peaked at 280 K. The sharp decrease in \Gamma below 280 K suggests slowing down of the Eu VFs, probably in connection with the dynamic CDW. One may estimate the percentages of fast (\tau_{\text{vf}}<10^{-9} s) and slow (\tau_{\text{vf}}>10^{-9} s) VFs by the changes in the isomer shifts and in the relative intensity of Eu^{3+}, respectively. At 273 K, for example, the percentage of fast-VF Eu^{3+} is 5(1)% (of the total Eu ions), whilst the slow-VF Eu^{3+} holds 14(2)%. Hence the overall Eu valence is +2.19(3) at 273 K.
+
+### Specific heat
+
+The heat capacity of a solid may supply important information not only for phase transitions but also for electronic and magnetic states. Figure 5(a) shows the temperature dependence of the specific heat C(T) for the EuBiS_{2}F sample. The C(T) data tend to saturate to 120 J K^{-1} mol^{-1} at RT, consistent with the high-T limit for the lattice specific heat (i.e., the Dulong-Petit value 3N\,R=15R=124.7 J K^{-1} mol^{-1}, where N counts the number of elements per fu, R is the gas constant). One sees an anomaly around 280 K, a signal of second-order transition, further supporting a CDW-like transition.
+
+In EuBiS_{2}F, the specific heat is due to several different origins including crystalline lattice (C_{\text{lat}}), conduction electron (C_{\text{el}}), and Eu magnetism (C_{\text{m}}). One may correctly separate them out by considering different contribution weights in different temperature regions. Since no magnetic ordering takes place above 2 K, and the magnetic susceptibility follows well the Curie-Weiss law above 10 K, C_{\text{m}} is then expected to be very small above 10 K at zero magnetic field. Therefore we make use of a conventional approach, in which the low-T lattice contribution is taken as \beta T^{3}, to extract C_{\text{el}}. The plot of C/T versus T^{2} in the inset of Fig. 5(a) gives \gamma=73.3 mJ K^{-2} mol^{-1} and \beta=1.19 mJ K^{-4} mol^{-1}. The resultant Debye temperature, \theta_{\text{D}}=[(12/5)NR\pi^{4}/\beta]^{1/3}=201 K, is reasonably in between those of LaBiS_{2}O_{0.5}F_{0.5} (221 K) and YbBiS_{2}O_{0.5}F_{0.5} (186 K) [19], which vice versa guarantee the reliability of the Sommerfeld parameter. Notably, the fitted \gamma value is over 50 times of that of Sr_{0.5}La_{0.5}BiS_{2}F (1.42 mJ K^{-2} mol^{-1}) [32]. Its corresponding N(E_{\text{F}}) [=3\gamma/(\pi R_{\text{B}})^{2}] is as large as 30 eV^{-1} fu^{-1}, which is about 25 times of the bare density of states of LaBiS_{2}O_{0.5}F_{0.5} (1.22 eV^{-1} fu^{-1}) [17]. The greatly enhanced \gamma is related to the unusually large Pauli magnetic susceptibility above, mainly originating from the hybridization between conduction electrons and the Eu 4f electrons (see band-structure calculations in Sec. III.6).
+
+Figure 5(b) zooms in the C(T) data below 20 K. At zero magnetic field, a peak appears at 1.6 K with a high maximum up to 10.41 J K^{-1} mol^{-1}. Under a magnetic field of 5 T, the peak is suppressed, forming a broad hump centered at about 3.5 K. Since the ground state of Eu^{2+} has zero orbital angular momentum, Schottky-like contribution is not expected. Hence the peak should be of magnetic origin. It is noted that, on the right side of the peak, there is no discontinuous jump (or divergence) in specific heat, as opposed to an ordinary long-range magnetic ordering. This lets us consider that the specific anomaly comes from freezing of nonordered Eu^{2+} spins, i.e., a spin glass transition. Similar observation was reported in (Eu,Sr)S [44] and EuCu_{2}Si_{2}[45]. To extract C_{\text{m}} below 10 K more accurately, the C(T) data from 10 to 20 K were fitted by a polynomial with odd-power terms, C\approx
+
+Figure 5: (Color online) Specific heat capacity for EuBiS_{2}F. (a) Temperature dependence of specific heat capacity, C(T), from 0.5 to 320 K. Upper left inset: an enlarged plot of the C(T) showing an anomaly at 280 K. Lower right inset: plot of C/T vs T^{2} at low-temperature region (the dashed line obeys C/T=\gamma+\beta T^{2}). (b) An enlarged plot of C(T) from 0.5 to 20 K. The dashed line is a polynomial fit (see details in the text), representing the lattice and electronic contributions. (c) C_{\text{m}}/T (where C_{\text{m}} denotes magnetic contribution to the specific heat) and magnetic entropy S_{\text{m}} (left axis) as functions of temperature.
+
+  C_{\rm el}+C_{\rm lat}=A_{1}T+A_{3}T^{3}+A_{5}T^{5}+A_{7}T^{7} (the resultant A_{1} and A_{3} agree well with the above \gamma and \beta values). Then, the magnetic contribution C_{\rm m} below 10 K was obtained by removing the contributions of C_{\rm lat} and C_{\rm el}. Consequently, the magnetic entropy can be calculated by S_{\rm m}=\int_{0}^{T}(C_{\rm m}/T)dT, as shown in Fig. 5(c), which is 12.4 J K^{-1} mol^{-1} at 20 K under zero field. Furthermore, nearly the same S_{\rm m} value can be achieved under 5 T for integrating up to 60 K. The released magnetic entropy equals to 72% of Rln(2S+1) (S=7/2 for Eu^{2+}). Considering the omission of magnetic entropy above 20 K, the resultant S_{\rm m} value actually gives an upper limit of the Eu valence of +2.28 below 20 K.
+
+### Band-structure calculations
+
+To interpret the above experimental results, we performed a first-principles calculation using local spin density approximation with consideration of on-site Coulomb interaction (LSDA+_U_), particularly paying attention to the Eu 4f electronic states (the issue of CDW instability was well documented by Yildirim [18]). We first investigated the influence of the parameter U. Figure 6(a) shows the variations of Eu 4f bands of EuBiS2F with U=0, 1, ..., 6 eV. In all cases, there is a large gap between occupied and unoccupied levels, as shown in the inset. Another prominent feature is that the highest occupied band (HOB) is located around E_{\rm F}, regardless of the different U values. This fact suggests that the Eu 4f frontier occupied level in the HOB is pinned by the chemical potential of the conduction bands. The filled states in HOB actually represent Eu^{2+}, whilst the empty states in HOB, i.e., the 4f holes, correspond to Eu^{3+}.
+
+Figure 6(b) shows the calculated band structure of EuBiS2F with a realistic value of U=3 eV. There are seven flat bands near E_{\rm F}, all coming from the Eu 4f orbitals. The HOB crosses E_{\rm F}, and hybridizes with the Bi 6p bands (see the zoom-in plot at the bottom). Furthermore, this HOB donates electrons to the Bi 6p bands, and leaves hole pockets around the **M** point [see also the FS in Fig. 6(d)]. Consequently, although undoped, the CB of EuBiS2F is filled with the transferred electrons. Due to the Q2D structure, cylindriclike FSs are present [Fig. 6(d)]. Except for the 4_f_-hole pockets, two electron-type FS sheets appear around the **X** point, similar to the case of LaBiS2O1-xF_{\rm x} with x=0.25[13]. This 2D-like FS sheets have considerable nesting areas for developing CDW instability.
+
+Figure 6(c) shows the calculated electronic DOS of EuBiS2F. Obviously, the sharp peaks come from the Eu 4f orbitals. They are basically divided into two groups, which are about 7 eV apart (corresponding to an effective Hubbard U\sim 7 eV). The frontier HOB nearby E_{\rm F} has mainly contributions from the f_{x2}' wave function. The DOS at E_{\rm F}, N(E_{\rm F}), mainly comprises of Bi6p (0.75 x 2 eV^{-1} fu^{-1}) and Eu4f (21.6 eV^{-1} fu^{-1}). The total N(E_{\rm F}) is about 20 times of that of LaBiS2O0.5F0.5[17], well accounting for the enhancement of electronic specific-heat coefficient as well as Pauli susceptibility.
+
+## IV Concluding remarks
+
+We have demonstrated a series of signatures for a CDW-like transition in EuBiS2F, albeit no static long-range superlattice order was detected by XRD. They include a clear kink in the c/a ratio, a resistivity hump, a kink in the Hall coefficient, a subtle magnetic susceptibility change, and a specific-heat hump, all at T^{*}\sim 280 K. The slowing down of Eu VFs below T^{*} suggests a dynamic CDW scenario. Such a dynamic CDW is supported by the theoretical calculations,
+
+Figure 6: (Color) Band calculations for EuBiS2F using LSDA + U method. (a) Variations of Eu4-_f_ bands with different U values. DOS denotes the density of states. (b) Calculated band structure of EuBiS2F with U=3 eV. The contributions of the relevant orbital states are distinguished by different colors. The lower panels zoom in the band dispersions crossing the Fermi level (E_{\rm F}=0). (c) Total and projected DOS with U=3 eV. (Inset) Enlarged plot near E_{\rm F}. (d) Fermi surfaces of EuBiS2F derived from the band structure in (b).
+
+  which indicate dynamic in-plane displacements of S(1) owing to the shallowness of the double-well potential [16]. Very recently, "checkerboard stripe" electronic state was observed on the cleaved surface of NdO_{0.7}F_{0.3}BiS_{2} single crystals [46]. Although the nanoscale electronic inhomogeneity was considered to be due to the atomic defects on the cleaved surface, it could be in some relation to the CDW instability.
+
+As is known, CDW instability mostly originates from the FS nesting [1,2]. Since the shape and the size of the FS sheets are predominantly decided by the electron filling in the CB of BiS_{2}-based materials [13], the electron doping level should be crucial for the occurrence of CDW. Our finding in EuBiS_{2}F implies that the CDW instability is optimized at around x\sim 0.2. To verify this point, we synthesized samples of (Sr,Ca)_{0.75}La_{0.25}BiS_{2}F, in which the electron doping was fixed to x=0.25. We indeed observed a similar CDW anomaly in this designed system (see Figs. S1 and S2 in Ref. [27]).
+
+It is due to the mixed valence of Eu that considerable amount of electron carriers are transferred into the CB, which induces SC as well as CDW instability. Table 1 summarizes the Eu valence in EuBiS_{2}F determined via various methods at different temperature ranges. Basically, the Eu valence is about +2.2, nearly independent of temperature down to 2 K. This result is very unusual, since the Eu valence mostly increases remarkably with decreasing temperature, e.g., in the systems of EuM_{2}Si_{2} (M= Cu [42], Pd [47], Ir [48,49]) and EuNi_{2}P_{2}[49,50] where Eu VFs were present. As for the crystal structure of EuBiS_{2}F, there is only one crystallographic site for the Eu ions. Therefore the mixed valence of Eu means existence of VFs. Indeed, according to the Mossbauer results above, VFs are dominant above T^{*}=280 K. Around T^{*}, however, the VF frequency decreases rapidly. At temperatures far below T^{*}, the VFs of Eu^{2+} and Eu^{3+} are slower than 10^{8} Hz. These observations suggest that Eu should have unequivalent Eu sites in a short-time scale, which could be realized in the proposed CDW phase with distortions of BiS(1) layers [18]. Thus the Eu valence is "pinned" by the CDW-like transition [see the schematic energy-band diagrams for the T<T^{*} scenario in Fig. 2(c)], resulting in the unique temperature-independent mixed valence. In turn, the Eu VFs (no matter how slow they are) should be in favor of an unusual dynamic CDW state.
+
+The emergence of SC under the CDW-like transition suggests that EuBiS_{2}F is also a CDW superconductor, like the well known NbSe_{2}[1, 2, 3]. The formation of CDW generally loses a portion of FSs, which leads to a decrease of T_{\rm c}. In this sense, CDW competes with SC, as usual. However, an anharmonic model calculation [16] shows that the CDW instability is also essential for the SC, suggesting a more profound relationship between SC and CDW.
+
+Finally, we would like to emphasize that the occurrence of SC at the (self) electron doping level corresponding to x\sim 0.2 is also surprising. Previous reports [37,38] indicate that, in an analogous system of Sr_{1-x}La_{x}BiS_{2}F, SC appears for x>0.3, below which the samples show _insulating_ behavior, and the optimal doping is at x\sim 0.5. According to the band structure calculations [13,16, 17, 18], the FSs undergo a Lifshitz transition, characterized by a change in FS topology, with electron doping. The two doping levels, x\sim 0.2 and x\sim 0.5, have very different FS topologies. Therefore the superconducting state in EuBiS_{2}F might be different from those of other BiS_{2}-based materials. It was predicted that [15], below the Lifshitz filling level (like the case of EuBiS_{2}F), the superconducting state is weak topological due to strong spin-orbit coupling. Further investigations are called for to verify this prediction.
+
+## Acknowledgments
+
+We would like to thank F. Steglich, Q. M. Si, F. C. Zhang, J. H. Dai, H. Q. Yuan, Q. H. Wang, C. Cao, and Z. Ren for helpful discussions. This work was supported by the National Basic Research Program of China (under Grant Nos. 2011CBA00103 and 2010CB923003), the National Science Foundation of China (under grant Nos. 11190023), and the Fundamental Research Funds for the Central Universities of China (Grant No. 2013FZA3003).
+
+## References
+
+* [1] A. M. Gabovich, A. I. Voitenko, and M. Ausloos, Phys. Rep. **367**, 583 (2002).
+* [2] P. Monceau, Adv. Phys. **61**, 325 (2012).
+* [3] J. A. Wilson, F. J. Di Salvo, and S. Mahajan, Adv. Phys. **24**, 117 (1975).
+* [4] D. W. Wise, M. C. Boyer, K. Chatterjee, T. KONDO, T. Takeuchi, H. Ikuta, Y. Y. Wang, and E. W. Hudson, Nat. Phys. **4**, 696 (2008).
+* [5] M. J. Lawler, K. Fujita, J. Lee, A. R. Schmidt, Y. Kohsaka, C. K. Kim, H. Eisaki, S. Uchida, J. C. Davis, and J. P. Sethna, Nature (London) **466**, 347 (2010).
+* [6] T. Wu, H. Mayaffre, S. Kramer, M. Horvatic, C. Berthier, W. N. Hardy, R. Liang, D. A. Bonn, and M.-H. Julien, Nature (London) **477**, 191 (2011).
+* [7] G. Ghiringhelli, M. Le Tacon, M. Minola, S. Blanco-Canosa, C. Mazzoli, N. B. Brookes, G. M. De Luca, A. Frano, D. G. Hawthorn, F. He, T. Loew, M. Moretti Sala, D. C. Peets, M. Salluzzo, E. Schierle, R. Sutarto, G. A. Sawatzky, E. Weschke, B. Keimer, and L. Braicovich, Science **337**, 821 (2012).
+* [8] J. Chang, E. Blackburn, A. T. Holmes, N. B. Christensen, J. Larsen, J. Mesot, Ruixing Liang, D. A. Bonn, W. N. Hardy,
+
+\begin{table}
+\begin{tabular}{l c c c c c} Methods & Eu-BVS & Magnetization & Mössbauer & Heat capacity & Fermi surface \\ Eu valence & 2.14(2)–2.18(2) & 2.17(2)–2.20(1) & 2.24(2); 2.19(3); 2.14(2) & \textless2.28 & 2.25(5) \\ T (K) & 310–13 & 300–2 & \leqslant200; 273; 388 & 0.5–20 & NA \\ \end{tabular}
+\end{table}
+Table 1: Summary of the Eu valence in EuBiS_{2}F determined via various methods in different temperature (T) ranges. Eu-BVS refers to bond valence sum [35] of the Eu ions. The number in parentheses represents the measurement uncertainty for the last digit.
+
+  A. Watenphul, M. v. Zimmermann, E. M. Forgan, and S. M. Hayden, Nat. Phys. **8**, 871 (2012).
+* [9] E. Morosan, H. W. Zandbergen, B. S. Dennis, J. W. G. Bos, Y. Onose, T. Klimczuk, A. P. Ramirez, N. P. Ong, and R. J. Cava, Nat. Phys. **2**, 544 (2006).
+* [10] J. C. S. Davis and D. H. Lee, Proc. Natl. Acad. Sci. USA **110**, 17623 (2013).
+* [11] Y. Mizuguchi, S. Demura, K. Deguchi, Y. Takano, H. Fujihisa, Y. Gotoh, H. Izawa, and O. Miura, J. Phys. Soc. Jpn. **81**, 114725 (2012).
+* [12] Z. Hiroi, arXiv:0805.4668.
+* [13] H. Usui, K. Suzuki, and K. Kuroki, Phys. Rev. B **86**, 220501(R) (2012).
+* [14] G. B. Martins, A. Moreo, and E. Dagotto, Phys. Rev. B **87**, 081102(R) (2013).
+* [15] Y. Yang, W. S. Wang, Y. Y. Xiang, Z. Z. Li, and Q. H. Wang, Phys. Rev. B **88**, 094519 (2013).
+* [16] X. Wan, H.-C. Ding, S. Y. Savrasov, and C.-G. Duan, Phys. Rev. B **87**, 115124 (2013).
+* [17] B. Li, Z. W. Xing, and G. Q. Huang, Europhys. Lett. **101**, 47002 (2013).
+* [18] T. Yildirim, Phys. Rev. B **87**, 020506(R) (2013).
+* [19] D. Yazici, K. Huang, B. D. White, I. Jeon, V. W. Burnett, A. J. Friedman, I. K. Lum, M. Nallaiyan, S. Spagna, and M. B. Maple, Phys. Rev. B **87**, 174512 (2013).
+* [20] V. S. Tanryverdiev, O. M. Aliev, and I. Aliev, Inorg. Mater. **31**, 1361 (1995).
+* [21] H. Lei, K. Wang, M. Abeykoon, E. S. Bozin, and C. Petrovic, Inorg. Chem. **52**, 10685 (2013).
+* [22] P. R. Ceolin and N. Rodier, Acta Cryst. **B32**, 1476 (1976).
+* [23] F. Izumi and T. Ikeda, Mater. Sci. Forum **321-324**, 198 (2000).
+* [24] H. H. Sample, W. J. Bruno, S. B. Sample, and E. K. Sichel, J. Appl. Phys. **61**, 1079 (1987).
+* [25] I. Nowik and I. Felner, Hyper. Inter. **28**, 959 (1986).
+* [26] G. Kresse and J. Furthmuller, Phys. Rev. B **54**, 11169 (1996).
+* [27] See Supplemental Material at http://link.aps.org/supplemental/10.1103/PhysRevB.90.064518 for the crystal structure data of EuBiS_{2}F at different temperatures (Table S1) and the temperature dependences of resistivity (Fig. S1) and magnetic susceptibility (Fig. S2) of the (Sr_{0.7}Ca_{0.3})_{0.75}La_{0.25}BiS_{2}F polycrystals.
+* [28] S. Demura, Y. Mizuguchi, K. Deguchi, H. Okazaki, H. Hara, T. Watanabe, S. J. Denholme, M. Fujioka, T. Ozaki, H. Fujihisa, Y. Gotoh, O. Miura, T. Yamaguchi, H. Takeya, and Y. Takano, J. Phys. Soc. Jpn. **82**, 033708 (2013).
+* [29] J. Xing, S. Li, X. Ding, H. Yang, and H.-H. Wen, Phys. Rev. B **86**, 214518 (2012).
+* [30] V. P. S. Awana, A. Kumar, R. Jha, S. K. Singh, A. Pal, Shruti, J. Saha, and S. Patnaik, Solid State Commun. **157**, 21 (2013).
+* [31] R. Jha, A. Kumar, S. K. Singh, and V. P. S. Awana, J. Sup. Novel Mag. **26**, 499 (2013).
+* [32] X. Lin, X. Ni, B. Chen, X. Xu, X. Yang, J. Dai, Y. Li, X. Yang, Y. Luo, Q. Tao, G. Cao, and Z. Xu, Phys. Rev. B **87**, 020504(R) (2013).
+* [33] G. H. Cao, Z. Ma, C. Wang, Y. Sun, J. Bao, S. Jiang, Y. Luo, C. Feng, Y. Zhou, Z. Xie, F. Hu, S. Wei, I. Nowik, I. Felner, L. Zhang, Z. Xu, and F. C. Zhang, Phys. Rev. B **82**, 104518 (2010).
+* [34] Y. L. Sun, H. Jiang, H. F. Zhai, J. K. Bao, W. H. Jiao, Q. Tao, C. Y. Shen, Y. W. Zeng, Z. A. Xu, and G. H. Cao, J. Am. Chem. Soc. **134**, 12893 (2012).
+* [35] N. E. Brese and M. O'Keeffe, Acta Cryst. **B47**, 192 (1991).
+* [36] Y. Mizuguchi, A. Miyake, K. Akiba, M. Tokunaga, J. Kajitani, and O. Miura, Phys. Rev. B **89**, 174515 (2014).
+* [37] H. Sakai, D. Kotajima, K. Saito, H. Wadati, Y. Wakisaka, M. Mizumaki, K. Nitta, Y. Tokura, and S. Ishiwata, J. Phys. Soc. Jpn. **83**, 014709 (2014).
+* [38] Y. Li, X. Lin, L. Li, N. Zhou, X. Xu, C. Cao, J. Dai, L. Zhang, Y. Luo, W. Jiao, Q. Tao, G. Cao, and Z. Xu., Supercond. Sci. Technol. **27**, 035009 (2014).
+* [39] R. M. Bozorth and J. H. Van Vleck, Phys. Rev. **118**, 1493 (1960).
+* [40] Y. Takikawa, S. Ebisu, and S. Nagata, J. Phys. Chem. Solids. **71**, 1592 (2010).
+* [41] E. Konig and G. Konig, in _Landolt-Bornstein, New Series, Group II_, edited by K.-H. Hellwege and A. M. Hellwege (Springer-Verlag, Berlin, 1976), Vol. 8, p. 27.
+* [42] E. R. Bauminger, D. Froindlich, I. Nowik, S. Ofer, I. Feiner, and I. Mayer, Phys. Rev. Lett. **30**, 1053 (1973).
+* [43] I. Nowik, I. Felner, Z. Ren, G. H. Cao, and Z. A. Xu, J. Phys.: Condens. Matt. **23**, 065701 (2011).
+* [44] D. Meschede, F. Steglich, W. Felsch, H. Maletta, and W. Zinn, Phys. Rev. Lett. **44**, 102 (1980).
+* [45] P. Wang, Z. M. Stadnik, J. Zakrowski, B. K. Cho, and J. Y. Kim, Phys. Rev. B **82**, 134404 (2010).
+* [46] T. Machida, Y. Fujisawa, M. Nagao, S. Demura, K. Deguchi, Y. Mizuguchi, Y. Takano, and H. Sakata, arXiv:1403.6110.
+* [47] E. V. Sampathkumaran, L. C. Gupta, R. Vijayaraghavan, K. V. Gopalakrishnan, R. G. Pillay, and H. G. Devare, J. Phys. C **14**, L237 (1981).
+* [48] B. Chevalier, J. M. D. Coey, B. Lloret, and J. Etourneau, J. Phys. C **19**, 4521 (1986).
+* [49] V. Guritanu, S. Seiro, J. Sichelschmidt, N. Caroca-Canales, T. Iizuka, S. Kimura, C. Geibel, and F. Steglich, Phys. Rev. Lett. **109**, 247207 (2012).
+* [50] R. Nagarajan, G. K. Shenoy, L. C. Gupta, and E. V. Sampathkumaran, Phys. Rev. B **32**, 2846 (1985).
+
+ 

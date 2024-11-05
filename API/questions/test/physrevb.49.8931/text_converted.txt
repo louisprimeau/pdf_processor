@@ -1,0 +1,967 @@
+# Superconducting and dielectric instabilities in Tl2Mo6Se6:
+
+Unusual transport properties and unsaturating critical field
+
+R. Brusetti, A. Briggs, and O. Laborde
+
+Centre de Recherches sur les Tres Basses Temperatures, Centre National
+de la Recherche Scientifique,
+
+25 Avenue des Martyrs, 38042 Grenoble, France
+
+M. Potel and P. Gougeon
+
+Laboratoire de Chimie Minerale B, Universite de Rennes, Avenue du
+General Leclerc,
+
+35042 Rennes Cedex, France
+
+26 July 1993
+
+###### Abstract
+
+The Hall effect of the quasi-one-dimensional compound Tl2Mo6Se6
+undergoes a progressive transition between an electronlike metallic
+regime at 300 K and a holelike semimetallic regime just above the
+superconducting transition (T_(e) ≈ 6.5 K). We show that, above ≈80 K,
+the paradoxical transport properties can be explained by an unusual
+anisotropic electron scattering related to the low dimensionality of the
+system and to its instability. A spin-density-wave (SDW) or
+charge-density-wave (CDW) state certainly builds up below ∼ 80 K–leading
+also to a change of regime in the thermopower but not in the
+conductivity–which is accompanied, at lower temperatures, by a
+magnetic-field dependence of the Hall coefficient and by a significant
+transverse magnetoresistance. The superconducting (SC) state therefore
+arises after the electron spectrum has been partly dielectrized by the
+CDW (or SDW) condensation, and it involves a very small density of
+states. A large paraconductivity which we attribute to superconducting
+fluctuations is detected just above T_(e) and the transverse upper
+critical field H_(ε2)¹ does not saturate down to 50 mK, which confirms
+that we are dealing with a very unusual superconducting state,
+intricately connected with the other competing instabilities.
+
+pacs: 0163-1829/94/49(13)/8931(13)/S06.00 + Footnote †: preprint: 1
+APRIL 1994-1
+
+## I Introduction
+
+The interest of the solid-state physics community is more and more often
+drawn towards compounds whose unusual properties are related to a
+pronounced anisotropy. Among these compounds Tl2Mo6Se6 stands in a
+remarkable position: It is certainly the inorganic superconductor that
+has the greatest uniaxial anisotropy–comparable to the most anisotropic
+organic superconductors–but, unlike most of them, it has very simple
+crystal and band structures which should encourage theoretical
+investigations. At room temperature the crystal symmetry is hexagonal
+[1] (space group P6₃/m) and the band structure mainly consists of a wide
+(≈ 4.5 eV) half-filled quasi-one-dimensional band (the "helix" band)–the
+electrons being provided by the thallium atoms.[2, 3] The presence of a
+few electrons in a quasi-isotropic overlapping band (the "octahedron"
+band) was inferred from the stability of the structure which otherwise
+would be unstable against a Peierls-like distortion. It is worth
+noticing also that this system is diamagnetic.[4]
+
+These simple features contrast with the many uncommon properties
+observed in this compound:[5] a relatively high superconducting
+transition temperature (T_(e) ≈ 6.5 K) compared to the very small
+density of electrons; an extreme type-II behavior with macroscopic
+penetration depths which imply that the mixed state could be quite
+different from the Abrikosov-Gorkov picture; a nonmetallic thermopower
+which seems related to nonclassical scattering mechanisms. Recently it
+has been shown that an uniaxial stress can induce an insulating ground
+state with nonlinear effects reminiscent of a charge-density-wave (CDW)
+or spin-density-wave (SDW) dielectrization.[6] Moreover the
+superconducting state can coexist with this instability and even seems
+to take advantage of it before disappearing.
+
+This paper is organized as follows: In Sec. II we present the
+Hall-effect data obtained for Tl2Mo6Se6 and examine the whole
+"normal-state" properties under this new light; in Sec. III we report
+upper critical field and magnetoresistance measurements at very low
+temperatures which show outstanding features. Our analysis of these data
+allows us to deduce a coherent picture of this very peculiar system
+which is briefly summarized in Sec. IV. We also outline there the
+questions that deserve further investigation and could lead to a better
+understanding of low-dimensional materials.
+
+## II Hall effect and transport properties
+
+The Hall voltage measurements were made on two ribbon-shaped crystals
+approximately 5 mm long in the c direction and about 20 μm thick. To
+avoid heating effects on the current contacts they were made by
+evaporating gold around the ends of the crystals before pasting the gold
+leads (20 μm diam) with silver paint. The Hall voltage was measured
+perpendicular to the c direction by clasping the sample between two
+crossed gold leads. Using no silver paint here allows small contact
+areas to be defined on the two largest opposite faces (about 100 μm
+wide) with minimum perturbation of the current lines. The Hall
+resistance R_(y) was measured with an ac bridge working at the frequency
+of 33 Hz; the current used was less than 1 mA; We determined the
+thickness of the samples with a scanning electron microscope.
+
+**Standard 4He** and 3He cryostats have been used with superconducting
+coils delivering up to 8 and 6 T, respectively. The magnetic field was
+swept in both directions to eliminate the magnetoresistive contribution
+which comes from an imperfect alignment of the voltage leads and is
+noticeable below about 15 K.
+
+### Results
+
+Our measurements have revealed an unexpected behavior of the Hall effect
+which is strongly temperature dependent and, below about 30 K, depends
+also on the magnetic field as it is exemplified in the inset of Fig. 1.
+Between 30 and 5 K we can extrapolate the Hall resistance derivatives
+_dR__xy_/_dH_ towards their zero-field limits; the corresponding values
+of the Hall coefficient R_(H) are plotted as a function of the
+temperature in Fig. 1, together with the "high-field" values we have
+determined for H = 4 T.
+
+At ambient temperature the Hall constant is only (−4.2 ± 0.5 × 10⁻¹⁰) m3
+C-1; lowering the temperature increases the absolute value of R_(H) up
+to a maximum around 80 K where it has been multiplied by about 30. Then
+R_(H) goes through zero at 45 K and reaches a positive value of
+3.5 × 10⁻⁸ m3 C-1 at 10 K.
+
+We shall now discuss these results together with the previous transport
+data and, as is suggested by this behavior of the Hall effect, we shall
+consider in turn the high-temperature (80 K <= T <= 300 K) and
+low-temperature (T_(c) <= T <= 80 K) properties of the normal state.
+
+### Discussion of the normal-state properties
+
+The behavior of the Hall effect clearly indicates that a change of
+regime takes place around 80 K in Tl2MoO6Se6. This is a crucial piece of
+information for our understanding of this compound and it is quite
+surprising that it has not been detected earlier. Actually a similar,
+though less pronounced, upturn toward a low-temperature hole dominated
+process can be recognized, _a posteriori_, in the thermopower data which
+are presented again for comparison in Fig. 2. However, as the
+resistivity does not show any anomaly in the same temperature range, we
+did not pay much attention to this part of the thermopower data which
+could be influenced, moreover, by phonon-drag effects.
+
+From another point of view there was some reason to expect, for this
+compound, another kind of electronic phase transition (other than
+superconducting) because, as mentioned in Sec. I, the
+quasi-one-dimensional (quasi-1D) character of its band structure favors
+a CDW or SDW transition. We shall delay any further discussion about the
+probability of such a transition but keep it in mind while considering
+the high-temperature (80 K <= T <= 300 K) electronic properties.
+
+#### The high-temperature transport properties
+
+Even a quick look at the behaviors of the resistivity, thermopower, and
+Hall effect, as displayed in Figs. 1 and 2, makes it clear that they are
+not consistent with the simple quasi-1D-metal model presented in Sec. I.
+The large thermopower which does not vary linearly with temperature and
+the strongly temperature-dependent Hall effect are rather reminiscent of
+semimetallic Bi and Sb. However, we think that this kind of
+interpretation is not satisfactory either.
+
+Let us consider first the conductivity: Along the c direction (_s_1) it
+is about 2 x 106 O-1 m-1 at 300 K and could result from the electrons
+provided by the Tl atoms (6.4 x 1027 m-3) in a quasi-1D band where their
+effective mass m1 is approximately the free-electron mass m_(e), in
+accordance with the band-structure calculations.2 Then the scattering
+time _t_| we deduce is about 10-14 s and the Hall constant at ambient
+temperature is satisfactorily accounted for (see the Appendix). In the
+perpendicular direction the conductivity is at least two orders of magni
+
+Figure 1: Temperature dependence of the Hall constant at H = 4 T (▲) and
+extrapolated at zero field (○); the solid line is a guide to the eye.
+The inset shows the magnetic-field dependence of the Hall resistance at
+low temperature.
+
+Figure 2: Temperature dependence of the resistivity (+) and of the
+thermopower (open circles, see Ref. 5; solid triangles, see Ref. 7).
+
+tude lower: In samples which were not superconducting Mori _et al._7
+measured σ₁/σ₁ ≈ 200, whereas in samples similar to ours Armici _et
+al._9 measured σ₁/σ₁ ≈ 1000. This is compatible with the description
+resulting from the band-structure calculations and is strongly supported
+by the IR reflectivity data.8 For the parallel polarization a
+well-defined plasma edge is observed which is well accounted for by the
+half-filled quasi-1D band described above and by a scattering time
+τ₁ ≈ 4 × 10⁻¹⁵ s; for the perpendicular polarization no plasma edge is
+observed down to 50 meV which implies σ₁/σ₁ > 400.
+
+The coherence of this picture makes quite credible these values of the
+electron concentration, mass and scattering time, as well as the
+quasi-one-dimensionality of the electronic transport, whereas they
+cannot be reconciled with a semimetallic picture.
+
+At this point we are faced with the problem of interpreting the high and
+temperature-independent thermopower. In Ref. 5 we mentioned the
+possibility of invoking an unusual scattering process leading to a
+strongly energy-dependent scattering time. We thought it could be
+related to the scattering of the electrons from the quasi-1D "helix"
+band toward the isotropic "octahedron band" which should be slightly
+populated in order to stabilize the structure against a Peierls-like
+distortion.2,3 However, it is very unlikely that such a process, which
+has been proposed by Mott10 for the transition metals, could explain the
+thermopower of Tl2Mo6Se6.
+
+First, it does not explain why we observe no temperature dependence
+between 300 and 80 K, as we know today, from our study of the lattice
+dynamics,11 that any phonon-drag effect which could mask it, should
+occur at lower temperatures.
+
+Second, in order to account for the negative thermopower, the scattering
+time τ₁ must _increase_ with energy which supposes, in the Mott picture,
+that the density of states at the Fermi level D_(EF)_decreases_ with
+energy in the upper "octahedron" band: This is most unlikely as this
+band is quite isotropic and nearly empty.2
+
+In several quasi-one-dimensional conductors a high and
+temperature-independent thermopower has also been observed.12-14 In some
+cases it might be explained by a correlation-induced localization in
+narrow bands,13 which certainly play no role in the inorganic Tl2Mo6Se6
+where the conduction band is larger than 4 eV and gives rise to no
+detectable magnetism.5
+
+A main feature of the electronic transport in this kind of compound is
+its diffusive behavior in the transverse directions as long as the
+transfer integral t₁ is much lower than ℏ/τ₁.15 Band-structure
+calculations2 give t₁ ≈ 1.2 eV, which agrees with the optical data,8 and
+7 meV  < t₁ < 20 meV; this is consistent with the anisotropy of the
+conductivity and upper critical field if this is mainly determined by
+the anisotropy of the band structure, i.e.:
+
+$$\left. \frac{dH_{\epsilon_{2}}^{1}}{dT} \right\rbrack_{\tau_{c}} \left/ \frac{dH_{\epsilon_{2}}^{1}}{dT} \right\rbrack_{\tau_{c}} = \epsilon\;\;\;{\rm and}\;\;\frac{\sigma_{1}}{\sigma_{1}} = \epsilon^{2} \approx \left[ \frac{t_{1}\epsilon}{t_{1}\sqrt{3}a} \right]^{2}$$
+
+for such an open Fermi surface.
+
+At ambient temperature the conductivity and IR reflectivity data8 give
+ℏ/τ₁ ≈ 0.15 eV; therefore the transverse transport could become
+progressively coherent during the cooling down. Nevertheless, as long as
+we stay within the framework of the scattering time approximation and of
+the Boltzmann description, this effect should not invalidate the
+standard expression for the thermopower:
+
+$$S = - \frac{\pi^{2}k_{B}T}{3e}\left[ \frac{\epsilon_{k}^{\prime\prime}}{(\epsilon_{k}^{\prime})^{2}} + \frac{\tau^{\prime}(\epsilon)}{\tau(\epsilon)} \right\rbrack_{\epsilon = \epsilon_{F}}.$$
+
+The first term in Eq. (1) gives no contribution if we are dealing with a
+half-filled one-dimensional tight-binding band; if we include a moderate
+transverse dispersion the corresponding band term still gives only a
+minor contribution. Going a step further we have also verified that it
+cannot be strongly reinforced only by taking account of an anisotropy of
+the scattering time (see the Appendix). So we are led again to assign to
+the second term of Eq. (1)–or to the corresponding scattering term in a
+less restrictive model–the high and temperature-independent value of S.
+The thermopower of β(BEDT-TTF)2J3 has been analyzed in the same way and
+the same conclusion has been reached by Mortensen, Williams, and Wang.14
+
+Turning now our attention to the Hall effect we could be tempted to
+explain its temperature dependence by a two-band model in which a pocket
+of very light electrons is progressively populated during cooling, due
+to an hypothetical relative shift of the bands induced by some large
+contraction of the lattice. However, we stress again that we do not see
+how to introduce such a pocket without recasting completely the
+calculated band structure which is strongly supported by the resistivity
+and optical data.
+
+The influence of a diffusive transverse motion on the Hall effect has
+been investigated by Lyo,16 Ong, and Portis17 who found that it could
+lead only to a slight enhancement (less than a factor of  ≈ 5),
+therefore a transition from a diffusive to a coherent motion should not
+explain alone the strong temperature dependence observed in Tl2Mo6Se6.
+However, these calculations still involve the scattering time
+approximation for the longitudinal motion and, within this framework
+they show that the enhancement factor of R_(H) is directly related also
+to the thermopower as long as it can be interpreted in the same
+framework.
+
+Conversely this analysis strengthens our feeling that the abnormal Hall
+effect and thermopower are both related to an unusual scattering, the
+possible sources of which we shall discuss now.
+
+It is well known that in one-dimensional materials undergoing a Peierls
+transition at T_(c) we can observe precursory CDW fluctuations up to
+ambient temperature.18 It has been claimed that they could be
+responsible for a significant paraconductivity in the organic
+conductors;19 however it is generally admitted that the electronic
+density of states is hardly affected as long as the temperature is
+higher than the mean-field transition value $T_{c}^{\rm MF}$,20 the
+smaller the transverse transfer integral t₁, the greater the
+$T_{c}^{\rm MF}/T_{c}$ ratio. As we shall show later it is most likely
+that a Peierls type instability develops at low temperature but it seems
+difficult to assign to $T_{c}^{\rm MF}$ a value greater than about 80 K.
+Above this temperature the CDW fluctuations are one-dimensional and if
+they take a part in the transport properties of Tl2Mo6Se6 up to 300 K it
+should be only _via_ a perturbation of the scattering mechanisms. We are
+here in a field which was very controversial at the beginning of the
+1980’s and which has been left relatively unexplored since. It is clear
+that we have not enough experimental and theoretical information to
+estimate what is the actual importance of the CDW fluctuations and of
+the diffusive-to-coherent transition for electronic transport in
+Tl2Mo6Se6. Furthermore we cannot totally rule out the possibility that a
+neighboring band and/or localized states originating from interrupted
+Mo6Se6 chains [3] could enter the scattering mechanisms in a subtle way.
+Finally we remark that, contenting ourselves with a phenomenological
+approach, we can reproduce the temperature dependence of the Hall effect
+with the Boltzmann model by considering a quasi-one-dimensional band and
+a temperature-dependent anisotropy of an "effective" scattering time
+mimicking a possible influence of the transverse coherence and of the
+fluctuations (see the Appendix); however, to explain also the high value
+of the thermopower we still need τ, or its anisotropy, to be strongly
+energy dependent, as we have already noted when considering Eq. (1).
+
+#### iii.2.2 The low-temperature electronic properties
+
+We underlined above that we have some reason to believe in the main
+features of the calculated band structure: the room-temperature
+conductivity agrees with the half-filled "helix" band contribution and
+the scattering time τ_(∥) deduced from the IR reflectance measurements
+[8]τ_(∥) = 10⁻¹⁴ s, a typical value for the quasi-one-dimensional
+compounds [21]. The optical data also confirm the one dimensionality of
+the helix band and its width ( ≈ 4.5 eV), ruling out a noticeable
+population of the upper "octahedron" band. The Hall effect at 300 K is
+also compatible with this description (see the Appendix) although it is
+much more difficult to interpret at lower temperatures. The
+band-structure calculations are not sufficiently accurate to fix the
+occupancy of the octahedron band but a maximum population of 0.1
+electron per Tl atom was deduced from experimental estimations of the
+anisotropy and from the stability of the structure which otherwise would
+be unstable against any Peierls-like distortion [2].
+
+Now the experimental landscape is quite different: Our Hall-effect
+measurements show unambiguously that a change of regime takes place in
+Tl2Mo6Se6 around 80 K, from which we can deduce first, that the
+high-temperature state anisotropy could be higher than the one we
+estimate from the upper critical fields H_(c2), and second, that the
+octahedron band could be even less populated than proposed in Ref. 2 and
+the stability of the structure more fragile.
+
+Incidentally the synthesis of large amounts of powder for our neutron
+experiments [11] gave us the opportunity to observe that
+superconductivity was favored by a slight deficiency of thallium: We
+prepared 20 g-powder samples of nominal composition Tl_(x)Mo6Se6 with x
+ranging between 1.8 and 2.05, by using the same starting materials and
+the same procedure including a final annealing at 1100 degC. We
+monitored the ac susceptibility of the samples down to 1.2 K and
+detected the superconducting transition only for x = 1.9 and 1.95, with
+an onset at 3 and 7 K, respectively, but the amplitude of the transition
+was three times smaller in the second sample. This strongly suggests
+first that the boundary of the superconducting phase stays nearer to x =
+1.95 than to x = 1.9 and second that T_(c) goes through a maximum just
+before we leave the superconducting phase [22].
+
+For x < 1.9 the ground state is probably insulating as suggested by the
+following experiment: A couple of crystals that were annealed for 1 h at
+500 degC in a flow of HCl gas displayed a larger resistivity upturn and
+a lower superconducting T_(c) than the pristine samples. Although this
+result calls for confirmation it is a first indication that the removal
+of a small proportion of Tl atoms favors also the semiconducting
+low-temperature (LT) phase and that the superconducting instability can
+coexist with the dielectric instability in a small domain of the
+T_(c)(x) phase diagram.
+
+This behavior is very similar to what is observed if a stress is applied
+to a crystal along the c direction [6], i.e., T_(c) first increases
+slightly and then the SC state disappears abruptly above a 0.6
+
+These results are consistent with the band structure described above and
+with the buildup of a CDW or SDW instability below about 80 K, favored
+by an uniaxial stress or a slight reduction of the number of conduction
+electrons. The mechanism probably involved in the first case is the
+enhancement of the transverse coupling _via_ the _c/a_ ratio which
+allows the fluctuating distortions to condense at temperatures nearer to
+the mean-field value $T_{\rm MF}$; in the second case small variations
+of the band filling could produce a better nesting of the opposite parts
+of the Fermi surface and also improve the efficiency of the umklapp
+electron-electron scattering (the g₃ coupling parameter in the Fermi-gas
+model [23]) which is relevant only for a half-filled band.
+
+One rather puzzling feature of the transition from the metallic
+high-temperature (HT) state to the semiconducting LT state is that we
+cannot detect it in the resistivity of the unstressed samples whereas it
+appears clearly in the thermopower and Hall effect. Even under stress no
+abrupt resistivity change marks the transition temperature; the same
+remark applies to the M₂Mo6Se6 isotopes (_M_ = IA metal: Cs, Rb, K, Na)
+which are semiconducting below about 80 K.24 This behavior could be
+explained on the one hand by a large enhancement of the carrier mobility
+in the same temperature range: Actually the M2Mo6Se6 lattice is rather
+soft11 and, if the phonon contribution to the electron scattering
+follows approximately the same temperature dependence as the specific
+heat, we expect a steep decrease of this contribution below 80 K. On the
+other hand we can invoke one-dimensional effects like those put forward
+in the case of TMTSF-TCNQ,25 for instance: The transition could be
+progressive because it takes place in a temperature range where the
+transverse electronic motion is becoming coherent; moreover, if we have
+to deal with a CDW or SDW transition, it can be preceded by a wide
+region of strong fluctuations (see Sec. II.2.1).
+
+Obviously our assignment of the low-temperature properties to a CDW or
+SDW state deserves more direct evidence from diffraction or NMR
+experiments. Our feeling is that, among these two possibilities, the CDW
+state is the most likely because the M2Mo6Se6 compounds are diamagnetic
+down to T_(e).4
+
+Below about 80 K the thermopower and Hall effect of Tl2Mo6Se6 increase
+rapidly and finally become dominated by a hole contribution. This
+behavior is consistent with the progressive condensation of the CDW or
+SDW inducing first a pseudogap near T = _T_MF and then a real gap on a
+part of the Fermi surface (FS). The geometry and population of the
+electron and hole pockets which are created by this process depend
+critically on the wrapping of the unperturbed FS upon which we have only
+rather crude information. In the following section we shall compare more
+precisely the normal low-temperature transport properties with the usual
+two-band model but we can already see a particular difficulty in the
+description of the Hall effect: As we mentioned above R_(H) is field
+dependent below about 30 K; this phenomenon can be related to a
+low-field to high-field transition for o_(c) t 1, o_(c) being the
+cyclotron frequency. However, we observe in Fig. 1 that R_(H) decreases
+quite linearly from the lowest fields, therefore we think that a main
+contribution to this effect could arise from the sensitivity of the CDW
+or SDW to magnetic fields, as in NbSe3,26 KMo6O17,27 or the Bechgaard
+salts (TMTSF)2X,28 respectively. This is confirmed by the behavior of
+the magnetoresistance, as presented below.
+
+## III Transverse magnetoresistance and upper critical field _H__c_2
+
+We have measured the transverse magnetoresistance of a crystal of the
+same batch and approximately the same dimensions as those used in the
+Hall-effect measurements. We employed also the same technique to make
+the current contacts (but the gold leads were soldered with Indium to
+the gold plated tips of the sample) and the same ac bridge to measure
+the resistance of the sample with a 10 mA current in the c direction.
+The voltage contacts were achieved by pasting the gold leads to
+evaporated gold spots. Preliminary measurements were made in a standard
+He4 cryostat, in the field provided by a 0.7-T rotating electromagnet,
+to check that no anisotropy was detectable in the basal plane. Then we
+used a He3 cryostat including a 6-T superconducting solenoid and finally
+a top-loading dilution refrigerator mounted on a Bitter coil of the
+Service National des Champs Intenses. Our measurements have been done
+chiefly by regulating the temperature while sweeping the magnetic field.
+Even with the lowest speed compatible with a reasonable measuring time
+the eddy currents induced by the sweep and the vibrations of the Bitter
+coil prevented us from regulating correctly the temperature below about
+50 mK.
+
+### Transverse magnetoresistance
+
+A summary of our results is presented in Fig. 3 where the temperature
+dependence of the resistivity below 15 K is plotted for different values
+of the field.
+
+As we shall show below, the amplification by the magnetic field of the
+low-temperature resistivity upturn cannot be attributed solely to
+orbital effects. Actually the field dependence of the resistivity
+follows a H2 behavior only at high fields (_H_ >= 10 T). The curvature
+of the _r_(_H_) curves becomes negative at lower fields where they join
+the end of the superconducting transition (Fig. 4). Therefore we propose
+to process these data in the following way: At each temperature we
+extrapolate the H2 behavior down to H = 0 and obtain a value r0(_T_).
+Then we express the resistivity as ρ(H, T) = ρ_(s)(H, T) + βH², where
+ρ_(s)(H, T) is a term tending towards r0(_T_) when H - , see inset in
+Fig. 3), and define the magnetoresistance as
+
+$$\frac{\Delta\rho}{\rho} = \frac{\rho(H,T) - \rho_{0}(T)}{\rho_{0}(T)} = \frac{\rho_{s}(H,T) - \rho_{0}(T)}{\rho_{0}(T)} + \alpha H^{2}$$
+
+This asymptotic value r0(_T_) is plotted in Fig. 3 where it appears
+clearly that the major part of the resistivity upturn comes from this
+contribution.
+
+We shall consider first the a coefficient in Eq. (2) which is
+approximately constant [ = (2.3 +- 0.15)10-4 T-2]
+
+Figure 3: Temperature dependence of the resistivity in different
+transverse magnetic field; the solid line represents the r0(_T_) values
+defined by Eq. (2). All the lines are a guide to the eye. The inset
+illustrates our decomposition of the magnetoresistance which leads to
+Eq. (2).
+
+within the temperature range where high-field data are available, i.e.,
+between 0.1 and 1 K.
+
+It is tempting to ascribe this term to an orbital origin and to compare
+it with that derived from a two-band model.[29] Then we find that the
+measured values of σ and R_(H) are only compatible with α if this
+results from a high-field nonsaturating behavior, typical of a
+compensated metal.[30] The carrier concentration would be
+n = p = ∞ 3× 10²⁰ cm⁻³, the holes having a much higher mobility (ν = 0.2
+m²/V s) than the electrons (μ ≈ 10⁻³ m²/V s). In view of the complexity
+of the system we are dealing with, this model is certainly too crude. In
+particular it supposes that we have well-defined electron and hole
+pockets; such a FS could result from the opening of a CDW or SDW gap in
+the middle of the quasi-1D helix band, however, the absence of anomaly
+in the conductivity, and the absence of discontinuity in the Hall effect
+and thermopower, indicate that the dielectric instability cannot
+condense completely and leads only to a pseudogap and a fluctuation
+regime.
+
+Alternatively, if we suppose that the Fermi surface of the normal state
+is still an open one, made of two slightly warped planes at ±k_(F), the
+existence of a magnetoresistance is difficult to explain. Anisotropic
+scattering[31] or superconducting fluctuations[32] have been put forward
+in the studies of the (TMTSF)₂X family.[33] We think like Jacobsen _et
+al._, and Chaikin[31] that it could be associated with the precursor of
+the spin-density-wave transition which takes place at lower temperature
+in (TMTSF)₂PF₆ or which is induced by higher fields in (TMTSF)₂ClO₄. The
+case of Tl₂Mo₆Se₆ is still more complicated because we are here in the
+range of temperature where a transition is taking place; moreover the
+field dependence of R_(H) and the major nonorbital contribution to the
+magnetoresistance ρ₀(T) are signs of the sensitivity of this transition
+to the magnetic field. Therefore our decomposition of the
+magnetoresistance illustrated by Eq. (2) should be only considered as a
+first phenomenological attempt to disentangle its various constituents.
+
+We shall turn our attention to the contribution which does not follow an
+H² law–the first term in the right side of Eq. (2)–and we present its
+field dependence at different temperatures in Figs. 5 and 6.
+
+One way to rationalize this unusual effect is to consider that ρ₀(T) is
+the normal value of the resistivity and that the proximity of the
+superconducting phase induces a supplementary conductivity which is
+reduced by a transverse magnetic field; in other words a
+paraconductivity associated with superconducting fluctuations.
+
+In this case current theories,[34] applied to low-dimensional materials,
+predict a crossover between a 3D behavior near to T_(c) [ε =
+(T − T_(c))/T_(c) < ≪ 1] and a 2D or 1D behavior for ε >1, corresponding
+to a transverse correlation length ξ₁ greater or smaller than the
+distance d between the conducting planes (2D) or chains (1D),
+respectively. If the main contribution to the fluctuation conductivity
+is the regular one calculated by Aslamazov and Larkin[35] (AL) it should
+follow a ε^(−1/2) law within the 3D regime and decrease more rapidly
+within the low-dimensional regime [Δσ ∝ ε⁻⁹ with η >$\frac{1}{2}$ (Refs.
+[32] and [36]). The situation is more complicated if one has to include
+the "anomalous" fluctuation conductivity derived by Maki and
+Thompson[37] (MT), which results from the scattering of the normal
+excitations by the superconducting fluctuations; as illustrated by
+Hikita and Suzuki in YBa₂Cu₃O₇ this contribution can reduce the
+effective exponent η of the power law.[38, 39]
+
+To compare our data with these theoretical results we have plotted in
+Fig. 7 the excess conductivity Δσ as a function of ε, taking Δσ =
+ρ(H, T)⁻¹ - ρ₀(T)⁻¹, to be consistent with our conception of the normal
+resistivity. The transition temperature we used in this plot is T_(c) =
+6.54 K corresponding to the middle of the resistive transition. The
+zero-field paraconductivity, as it appears on Fig. 7, roughly agrees
+with the above theoretical picture: A
+
+Figure 4: The magnetic-field dependence of the resistivity in low field
+at T ≥ T_(c): (a), and in high field at T < T_(c): (b).
+
+Figure 5: The magnetic-field dependence of the nonorbital contribution
+to the transverse magnetoresistance, i.e., Δρ/ρ − αH², as defined by Eq.
+(2), in low field at T ≥ T_(c).
+
+crossover occurs between two power laws with, respectively, η ≈ 0.3
+below and η ≈ 0.45 above ε ≈ 0.1.
+
+The AL contribution to the paraconductivity in a quasi-one-dimensional
+superconductor has been calculated by Schulz _et al._[32] using a model
+system of a square array of parallel conducting chains with the
+possibility of electron tunneling between adjacent chains. They obtain
+in the 3D regime
+
+$$\sigma_{1}^{3{\rm D}} \approx \frac{e^{2}\pi^{3/2}}{8\sqrt{2}d_{\perp}^{2}\pi k_{F}}\left[ \frac{T}{T_{F}}\frac{\theta}{T_{F}}\right]^{-1/2}\left[\frac{T}{B}\right] \varepsilon^{-1/2}\ ,$$
+(3)
+
+where d_(⊥) is the distance between the chains; T_(F) and k_(F) are,
+respectively, the Fermi temperature and electron momentum, θ represents
+the finite electron lifetime broadening of the Fermi distribution
+(k_(B)θ ≈ π/τ; τ being the electron scattering time). B is related to
+the crossover temperature between 1D and 3D regimes, it is given
+approximately by k_(B)B ≈ 2π²t₁²/k_(B)θ but it has been used as an
+adjustable parameter by Schulz _et al._, owing to its strong dependence
+on the approximate forms employed for the integrals involved in the
+derivation of Eq. (3). Finally it is also supposed that we are dealing
+with a tight-binding band.
+
+This formula cannot account for the excess conductivity in Tl₂Mo₆Se₆ if
+we neglect the perturbation of the 1D helix band by the CDW (or SDW)
+instability. Actually, taking E_(F) ≈ 2 eV, k_(F) = π/c, d_(⊥) = a, and
+τ ≈ 10⁻¹⁴ s we obtain at T = 7.2 K (ε ≈ 0.1):
+$\sigma_{1}^{3{\rm D}} \approx 2\times 10^{7}$ (T/B) Ω⁻¹ m⁻¹, which is
+about 50 times greater than our experimental estimation (Fig. 7) if we
+take B ≈ 7 K (which would imply a mean-field transition temperature
+T_(c)⁰ ≈ 13 K). We are faced with an even larger discrepancy if we take,
+instead of Eq. (3), the formula corresponding to the 1D regime.
+
+Therefore our results could agree with the fluctuation conductivity
+model proposed by Schulz _et al._ only if we have to deal with a much
+narrower but still quasi-one-dimensional band, which seems quite
+contradictory if this new band structure results from the opening of a
+CDW (or SDW) gap. Another possibility is to abandon the strong
+fluctuation picture stemming from the quasi-one-dimensional model above,
+owing to the fact that the transverse coherence length ξ₁⁰ is much
+larger than d_(⊥) = a, and to turn to the usual 3D model. In this case
+the (AL) excess conductivity is given by [34]
+
+$$\sigma_{3{\rm D}}^{\rm AL} = \frac{1}{32}\frac{e^{2}}{\pi\xi_{2}^{0}}\varepsilon^{-1/2}\ ,$$
+(4)
+
+which gives at most 10⁴Ω⁻¹ m⁻¹ when ε = 0.1, taking for ξ⁰ the shortest
+coherence length: ξ₁⁰ = 25 A. So our data are just situated halfway
+between the two extreme models. This situation could be interpreted
+naively as if the SC state retained some one-dimensional character after
+the partial deieletrization of the electron spectrum.
+
+Finally we shall notice that this paraconductivity is of the same order
+of magnitude as in YBa₂Cu₃O₇ (Ref. [39]) and leads to a very similar
+behavior of its field dependence σ(0) − σ(H) as shown in Fig. 8.
+
+Figure 8: The magnetoconductivity ρ(0, T)⁻¹ − ρ_(s)(H, T)⁻¹ as a
+function of the magnetic field; ρ(0, T) is the conductivity in zero
+field and ρ_(s)(H, T) is the conductivity in transverse field, as
+defined in Eq. (2).
+
+Figure 6: The magnetic-field dependence of the nonorbital contribution
+to the transverse magnetoresistance, i.e., Δρ/ρ − αH², as defined by Eq.
+(2), in high field at T ≤ T_(c).
+
+### The transverse upper critical field
+
+We defined the upper critical field H_(c₂)^(⊥) at the point where the
+resistivity is 90
+
+The temperature dependence of H_(c₂)^(⊥) we obtain this way is displayed
+in Fig. 10. It is characterized by a continuous increase down to the
+lowest temperatures (50 mK), which is quite extraordinary. We should
+emphasize that this positive curvature would be still more pronounced if
+we take H_(c₂)^(⊥) at 50
+
+A positive curvature of the critical-field curve is not very
+exceptional: it has been observed in many different materials,[42] among
+which the quasi-1D superconductors, the Chevrel phases and the quasi-2D
+high-T_(c)’s; however, up to now, this behavior was always followed by
+the usual low-temperature saturation. Among the explanations proposed a
+very few could lead to such a delayed saturation and apply to Tl₂Mo₆Se₆:
+One, which has been developed by Gabovich and Shpigel,[43] is based upon
+a partial dielectrization of the electron spectrum; it leads also to a
+saturation when T →  0, at least as long as the quasiclassical
+approximation is valid, i.e., until the penetration depth λ(T) is much
+less than the cyclotron radius r_(c) = mv_(F)/eH. However, Tl₂Mo₆Se₆ has
+macroscopic penetration depths[5] and even if we take for the electron
+mass and Fermi velocity the values corresponding to the helix band
+[v_(F) ≈ 7.310⁵ m/s (Ref. [44]) and m ≈ m_(e)] the above condition is
+not satisfied (r_(c) ≈ 4.1μm for H = 1 T). Moreover, when T →  0 we are
+faced with another complication which has been raised by Tesanovic and
+co-workers:[45] When ℏω_(c) becomes greater than k_(B)T Landau
+quantization should be taken into account which leads, in the extreme
+limit where a single Landau level is occupied, to the possibility of a
+new superconducting state favored by the magnetic field. This quantum
+limit can be approached if v_(F) is very small, consequently an
+enhancement of H_(c₂) in Tl₂Mo₆Se₆ could result from this effect if the
+SC state is determined by a Fermi surface where the CDW (or SDW)
+instability has induced a partial gapping–as emerges from our analysis
+of the thermopower and Hall-effect measurements (Sec. II.2). Therefore
+we see that, through the two different mechanisms involved in these
+models, the dielectrization of the Fermi surface could contribute to the
+nonsaturation of H_(c₂)^(⊥), especially since this dielectrization seems
+to be favored also by the magnetic field (Sec. III.1).
+
+In quasi-one-dimensional systems another mechanism has been proposed
+recently,[46] which could lead to the reentrance of the superconducting
+phase in strong magnetic fields: When ω_(c) becomes larger than the
+transverse coupling t_(⊥) the electronic motion can be localized in
+planes parallel to the magnetic field, which suppresses the orbital
+frustration of the order parameter. However, in Tl₂Mo₆Se₆ the
+low-temperature value of t_(⊥) seems too large for this mechanism to be
+effective.
+
+Figure 10: Temperature dependence of the transverse upper critical field
+H_(c₂)^(⊥); the insert shows a normalized plot h_(z)^(•)(t), where
+t = T/T_(c) and h^(•) is the critical field normalized by
+dH_(c)/dT)_(t = 1); the crosses are the results of Lepetit _et al._
+(Ref. [40]).
+
+Figure 9: Typical magnetic-field dependence of the resistivity in the
+neighborhood of the superconducting transition.
+
+## IV Conclusion
+
+From the data we have presented here we can sketch the behavior of the
+conduction electrons in Tl2Mo6Se6 as follows: Coming from the thallium
+atoms (≈ 6.3 x 1027/m3) they occupy a half-filled (≈ 4.5 eV)
+quasi-one-dimensional band at room temperature; their scattering cannot
+be accounted for by the Boltzmann model unless we introduce a strongly
+energy-dependent scattering time and allow for a temperature dependence
+of its anisotropy. This unusual scattering could be related to the
+building up of the CDW (or SDW) instability that emerges timidly below
+about 80 K. The existence of this instability, which has been revealed
+unambiguously by our Hall-effect measurements, sheds a new light on the
+properties of Tl2Mo6Se6. In particular it provides a strong confirmation
+of our low-field magnetization measurements [5] from which we deduced
+that a very small density of states was left at the Fermi level before
+the superconducting transition takes place (D_(EF) ≈ 0.5 states/eV
+molecule).
+
+A theoretical description of such a frustrated (despite the high
+uniaxial anisotropy that should favor it) dielectric instability is
+needed. Bad nesting conditions due to the hexagonal symmetry could make
+condensation difficult or, conversely, a slight reduction of the band
+filling or an uniaxial stress could improve nesting. The usual transport
+properties of Tl2Mo6Se6 call for a new microscopic approach of the
+electron scattering, which could benefit our understanding of many other
+highly anisotropic materials.
+
+Lowering the temperature below 10 K seems to make Tl2Mo6Se6 enter a
+domain where the CDW (or SDW) instability coexists with the
+superconducting instability: This phenomenon is not very surprising
+today because it is reminiscent of what has been observed in many
+low-dimensional compounds including NbSe3, Ba(Pb,Bi)O3, Li0.9Mo6O17,
+[48] (Lu1-x Se2x)lSi10, [49] and the (TMTSF)2X Beechgaard salts.
+However, it is particularly remarkable here because of the very
+high-T_(c)/D_(EF) ratio we get and which seems to result from this
+coexistence. A theoretical treatment of this phenomenon in Tl2Mo6Se6
+requires more information on the nature of the dielectric instability;
+this would entail difficult diffraction and NMR experiments as we are
+dealing here with a small density of electrons which are only partially
+condensed.
+
+In the same temperature range we have shown that superconducting
+fluctuations can give rise to a sensible paraconductivity which does not
+follow current models. The application of a transverse magnetic field
+tips the scales in favor of the dielectric instability, at least when
+the temperature is not too low, because below about 1 K it seems that
+the superconductivity is less and less affected by the field: The
+positive curvature of the H_(c₂)^(⊥)(T) curve down to 100 mK or less is
+certainly the most striking behavior of this compound among many other
+unusual ones. It makes Tl2Mo6Se6 a valuable illustration of the recently
+revisited problem concerning the compatibility of superconductivity with
+high magnetic fields. [45, 46]
+
+###### Acknowledgements.
+
+We thank M. Decroux (Institut de Physique de la Matiere Condensee,
+Geneve) for his specific-heat measurements and G. Fillion (Laboratoire
+Louis Neel, C.N.R.S. Grenoble) for his magnetization measurements.
+
+## Appendix
+
+We take the magnetic field and the current in the z and x directions,
+respectively.
+
+Within the framework of the Boltzmann model and admitting that the
+electron motion is coherent (bandlike) in all directions, the Hall
+coefficient of a metal can be written
+
+$$R_{H} = - \frac{4\pi^{3}}{3}\frac{\Im_{7}}{\Im_{1}\Im_{2}}$$
+
+with
+
+$$\Im_{1} = - \int\tau\frac{\partial f_{0}}{\partial E}\left[\frac{\partial E}{\partial k_{x}}\right]^{2}\!\!dV\;,$$
+$$\Im_{2} = - \int\tau\frac{\partial f_{0}}{\partial E}\left[\frac{\partial E}{\partial k_{y}}\right]^{2}\!\!dV\;,$$
+$$\Im_{7} = \int\tau\frac{\partial f_{0}}{\partial E}\frac{\partial E}{\partial k_{x}}\Omega\left[\tau\frac{\partial E}{\partial k_{y}}\right]\!\!dV$$
+$$= - \int\tau\frac{\partial f_{0}}{\partial E}\frac{\partial E}{\partial k_{y}}\Omega\left[\tau\frac{\partial E}{\partial k_{x}}\right]\!\!dV\;.$$
+
+We use here the formalism introduced by Davis. [47]
+
+Ω is the operator: (∂E/∂k_(y))(∂/∂k_(x)) − (∂E/∂k_(x)); these relations
+also suppose that E(k) and τ(k) are even functions of k_(x), k_(y), and
+k_(x). f0 is the usual Fermi distribution function in zero field and
+-_e_ is the charge of the electron.
+
+### Constant-scattering-time approximation
+
+To simplify the description we shall replace the hexagonal structure by
+a tetragonal one and we consider a quasi-one-dimensional tight-binding
+band:
+
+E(k) = 2Σ^(k)t_(∥)cos (k_(x)c)
+(1)
++2Σ^(k)t_(∥)[cos (k_(y)a) + cos (k_(x)a)] ,
+
+where Σ^(k) and Σ^(k) hold for the signs + or -; in our case they are
+both -. [2] The current flows in the high conductivity direction c,
+i.e., t1 >>_t_1.
+
+Then ℑ₇ reduces to
+
+$$\Im_{7} = - \mu^{2}\tau^{2}\int\frac{\partial f_{0}}{\partial E}v_{g}^{2}\frac{\partial^{2}E}{\partial k_{x}^{2}}\!\!dV$$
+
+with v_(g) = (1/μ)(∂E/∂k_(y)).
+
+We approximate ∂f₀/∂E by a δ function at E_(F) and |∂E/∂k| by
+|∂E/∂k_(x)|, which can be considered as a constant over the Fermi
+surface. The same approximations being used for ℑ₁ and ℑ₂, we obtain for
+a Brillouin zone limited by k_(y) = +-(_p_/_a_), k_(x) = +(_p_/_a_), and
+k_(x) = +-_k__x__e__
+$$R_{H}=\frac{\Sigma^{\parallel}\pi a^{2}c}{e\tan(k_{c}^{F}c)}\;\;\;{\rm in}\;\;{\rm SI}\;\;{\rm units}\;\;,$$
+(A5)
+
+which is often used as
+
+$$R_{H}=\frac{\Sigma^{\parallel}}{ne}\frac{k_{c}^{F}c}{\tan(k_{c}^{F}c)}\;\;,$$
+
+where n is the number of electrons per unit volume. The same expression
+is obtained for a hexagonal lattice.
+
+According to this formula, if the quasi-1D band is half-filled we have
+R_(H) = 0. The value we measured at room temperature
+R_(H) ≈ −4.2 × 10⁻¹⁰ m³/C would correspond to a band filling of 0.83
+electron instead of one per Mo₃Se₃ unit. As discussed in Sec. II.2.1 the
+number of conduction electrons could be only ≈ 0.95/Mo₃Se₃ but not much
+lower. However, the approximations used in the derivation of (A5) could
+easily account for this discrepancy, particularly the
+constant-scattering-time approximation which is reconsidered below.
+
+### Anisotropic scattering time
+
+The aim of these calculations is only to show that the anisotropy of the
+scattering time can sensibly influence the Hall coefficient. As we have
+no information on what this anisotropy could be we shall take for it a
+simple analytical form that allows a description of various behaviors
+and leads to straightforward integrations; we take
+
+$$\tau=\frac{k_{y}^{2}+k_{z}^{2}}{A^{2}}+\frac{k_{x}^{2}}{B^{2}}\;\;.$$
+(A6)
+
+Keeping the same other approximations we obtain three contributions for
+ℑ_(γ):
+
+$${\cal H}_{1} = \hat{\pi}^{2}\Sigma^{\parallel}\int\tau v_{y}^{2}\frac{\partial \tau}{\partial k_{x}}dS\;\;,$$
+$${\cal H}_{2} = -\frac{\hat{\pi}}{|v_{x}^{F}|}\left[\frac{\partial^{2}E}{\partial k _{x}^{2}}\right]_{F}\int\tau^{2}v_{y}^{2}dS\;\;,$$
+(A7)
+$${\cal H}_{3} = \hat{\pi}^{2}|v_{x}^{F}|\int\tau v_{y}\frac{\partial\tau}{ \partial k_{y}}dS\;\;,$$
+
+where v_(x)^(F) is the Fermi velocity. Then ℑ₁ and ℑ₂ become
+
+$${\Im}_{1}=-\hat{\pi}|v_{x}^{F}|\int\tau\,dS\;\;\;{\rm and}\;\;{\Im}_{2}=-\frac {\hat{\pi}}{|v_{x}^{F}|}\int\tau v_{y}^{2}dS\;\;.$$
+(A8)
+
+After integration over the Fermi surface we obtain
+
+$$R_{H}=-\frac{4\pi}{e}({\Re}_{1}+{\Re}_{2}+{\Re}_{3})$$
+
+with
+
+$${\Re}_{1} = \Sigma^{\parallel}\frac{\tau_{0}\sigma^{2}}{4k_{c}^{F}\pi^{2}}\left[ \frac{2\tau_{0}+\beta/A^{2}a^{2}}{K^{2}}\right]\;\;,$$
+$${\Re}_{2} = \frac{\Sigma^{\parallel}a^{2}c}{8\pi^{2}\tan(k_{c}^{F}c)}\frac{( \alpha/A^{4}a^{4}+\beta\tau_{0}/3a^{2}A^{2}+2\tau_{0}^{2})}{K^{2}}\;\;,$$
+(A9)
+$${\Re}_{3} = \Sigma^{\perp}\frac{t_{\parallel}}{t_{\perp}}\frac{c}{2\pi^{4}}| \sin(k_{c}^{F}c)|\frac{(\gamma/A^{4}a^{4}+2\pi^{2}\tau_{0}/A^{2})}{K^{2}}$$
+
+with
+
+$$K= \tau_{0}+\frac{2\pi^{2}}{3a^{2}A^{2}};\;\;\tau_{0}=\frac{(k_{c}^ {F})^{2}}{B^{2}};\;\;\alpha=\frac{128\pi^{4}}{45}-\frac{8\pi^{2}}{3}+3\;\;;;$$
+$$\beta= 4\pi^{2}-3;\;\;\gamma=\frac{3}{3}\pi^{4}+\pi^{3}-6\pi\;\;.$$
+
+Replacing the tetragonal structure by the hexagonal one would certainly
+change a little the coefficients α, β, and γ.
+
+The typical behavior of R_(H) as a function of A, given by (A9), is
+displayed in Fig. 11 for τ₀ = 10⁻¹³ s and t_(∥)/t_(⊥) = 100, together
+with the three contributions in (A9). For 0.8 <k_(c)^(F)/k_(1/2)< 1 the
+k_(c)^(F) dependence of R_(H) can be neglected (k_(1/2) is the k_(x)
+value for the half-filled 1D band: k_(1/2) = π/2c). The behavior of
+R_(H) for τ₀ = 10⁻¹⁴ s is shown in Fig. 12 including also the case where
+t_(∥)/t_(⊥) = 1000. In Fig. 13, we show that when R_(H) is not too great
+it is proportional to t_(∥)/t_(⊥) and otherwise only depends on
+$\tau_{\rm max}/\tau_{0}$, $\tau_{\rm max}$ being the maximum value of τ
+on the Fermi surface, given according to (A6) by
+$\tau_{\rm max}=\tau_{0}+2\pi^{2}/a^{2}A^{2}$.
+
+We see in this figure that for t_(∥)/t_(⊥)∼ 1000 the Hall coefficient
+changes from about −4 × 10⁻¹⁰ m³/C (the room-temperature value) to −10⁻⁸
+m³/C (the minimum value at ∼ 60 K) by only changing
+$\tau_{\rm max}/\tau_{0}$ from 1.01 to 1.04. Therefore this model shows
+that a very small variation of the scattering time over the Fermi
+surface is able to explain a strong temperature dependence of R_(H) in a
+quasi-one-dimensional compound.
+
+Moreover, we have to note that this slight variation of τ is obtained by
+allowing for a very anisotropic ${\bf k}$ dependence as given by Eq.
+(A6) (A / B≈ 10 for τ₀ = 10⁻¹⁴ s).
+
+The scattering time which is involved in the dc conductivity is
+
+$$\tau_{\sigma}=\frac{1}{{\cal A}}\int\tau dS\;\;,$$
+
+Figure 11: The dependence of the Hall effect as a function of the A
+parameter which describe the anisotropy of the scattering time according
+to Eq. (A6) (solid line); the corresponding values of
+$\tau_{\rm max}/\tau_{0}$ are given on the upper abscissa axis. The
+contributions ℜ₁, ℜ₂ and ℜ₃ (multiplied by 4π/e) are defined in Eq. (A9)
+(dotted lines); the parameters used in this calculation are τ₀ = 10⁻¹³
+s, t_(∥) = 100τ_(⊥).
+
+where ${\cal A}$ is the area of the Fermi surface; the optical
+scattering time deduced from the plasma edge is
+
+$$\tau_{\sigma} = \frac{1}{{\cal A}}\frac{\int\tau^{2}dS}{\int\tau\,dS}\ .$$
+
+In our model we obtain
+
+$$\tau_{\sigma} = 3\tau_{\rm max} - 2\tau_{0}$$
+
+and
+
+$$\tau_{\rm op} = \frac{1}{5}\left[\frac{38\tau_{0}^{2} - 96\tau_{\rm max}\tau_{0} + 63\tau_{\rm max}^{2}}{3\tau_{\rm max} - 2\tau_{0}}\right]\ .$$
+
+For
+$\tau_{\rm max}/\tau_{0} \simeq 1  ed to paramagnetic impurities (see Ref. 24).
+* [5] R. Brusetti, P. Monceau, M. Potel, P. Gougeon, and M. Sergent, Solid State Commun. **66**, 181 (1988).
+* [6] G. X. Tessema, Y. T. Tseng, M. J. Skove, E. P. Stillwell, R. Brusetti, P. Monceau, M. Potel, and P. Gougeon, Phys. Rev. B **43**, 3434 (1991); Y. T. Tseng, G. X. Tessema, M. J. Skove, M. Potel, and P. Gougeon, Solid State Commun. **82**, 841 (1992).
+* [7] T. Mori, Y. Yokogawa, A. Kobayashi, Y. Sasaki, and H. Kobayashi, Solid State Commun. **49**, 249 (1984).
+* [8] H. P. Geserich, G. Scheiber, M. Durrler, M. Potel, M. Sergent, and P. Monceau, Physica **143B**, 234 (1986).
+* [9] J. C. Armici, M. Decroux, O. Fisher, M. Potel, R. Chevrel, and M. Sergent, Solid State Commun. **33**, 607 (1980).
+* [10] N. F. Mott, Proc. R. Soc. (London) A **156**, 368 (1936).
+* [11] R. Brusetti, A. J. Dianoux, P. Gougeon, M. Potel, E. Bonjour, and R. Calemczuk, Phys. Rev. B **41**, 6315 (1990).
+* [12] See, for example, P. M. Chaikin, W. W. Fuller, R. Lacoe, J. F. Kwak, R. L. Greene, J. C. Eckert, and N. P. Ong, Solid State Commun. **39**, 553 (1981); P. M. Chaikin, R. L. Greene, and R. M. Engler, _ibid._**25**, 1009 (1978); A. J. Epstein, J. S. Miller, and P. M. Chaikin, Phys. Rev. Lett. **43**, 1178 (1979).
+* [13] P. M. Chaikin and G. Beni, Phys. Rev. B **13**, 647 (1976); P. M. Chaikin, J. F. Kwak, and A. J. Epstein, Phys. Rev. Lett. **42**, 1178 (1979); C. S. Jacobsen, K. Mortensen, J. R. Andersen, and K. Bechgaard, Phys. Rev. B **18**, 905 (1978); K. Mortensen, C. S. Jacobsen, R. Andersen, and K. Bechgaard, in _Quasi-One-Dimensional Conductors_, edited by S. Barisic, A. Bjelis, J. R. Cooper, and B. Leontic, Lecture Notes in Physics Vol. 95 (Springer-Verlag, Berlin, 1979), p. 159.
+* [14] K. Mortensen, J. M. Williams, and H. H. Wang, Solid State Commun. **56**, 105 (1985).
+* [15] M. Weger, Phys. Colloq. **39**, C6-1456 (1978); J. Friedel and D. Jerome, Contemp. Phys. **23**, 583 (1982).
+* [16] K. Lyo, Phys. Rev. B **14**, 3377 (1976).
+* [17] N. P. Ong and A. M. Portis, Phys. Rev. B **15**, 1782 (1977).
+* [18] See, for example, S. K. Khanna, J. P. Pouget, R. Comes, A. F. Garito, and A. J. Heeger, Phys. Rev. B **16**, 1468 (1977); S. Kagoshima, T. Ishiguro, H. Anzai, J. Phys. Soc. Jpn. **41**, 2061 (1976); C. Weyl, E. M. Engler, K. Bechgaard, G. Jenanno, and S. Etemad, Solid State Commun. **19**, 925 (1976); J. P. Pouget, S. Megtert, and R. Comes, in _Quasi-One-Dimensional Conductors_, edited by S. Barisic, A. Bjelis, J. R. Cooper, and B. Leontic, Lecture Notes in Physics (Springer-Verlag, Berlin, 1979), p. 14; and reference quoted by D. Jerome and H. J. Schulz, Adv. Phys. **31**, 299 (1982), Sec. III 2.1.
+* [19] See, for example, H. Gutfreund, B. Horovitz, and M. Weger, J. Phys. C **7**, 383 (1974); A. Andrieux, H. J. Schulz, D. Jerome, and K. Bechgaard, Phys. Rev. Lett. **43**, 227 (1979); D. Jerome, _Proceedings of the NATO ASI Conference in Tomar Portugal 1979_, edited by L. Alcacer (Reidel, Dordrecht, 1980), p. 123.
+* [20] D. Jerome and H. J. Schulz, in _Extended Linear Chain Compounds_, edited by J. S. Miller (Plenum, New York, 1982), Vol. 2, p. 159; H. J. Schulz, in _Proceedings of the NATO Advanced Study Institute on Low Dimensional Conductors and Superconductors, Magog, Canada, 1986_, edited by L. Caron and D. Jerome (Plenum, New York, 1987), p. 95.
+* [21] D. Jerome and H. J. Schulz, Adv. Phys. **31**, 299 (1982); H. P. Geserich, in _Electronic Properties of Inorganic Quasi-One-Dimensional Materials II_, edited by P. Monceau (Reidel, Dordrecht, 1985), p. 111.
+* [22] Accordingly the thallium content in the needle-shaped crystals with \(T_{c}\!\approx\!6.5$
+K should also correspond to 1.90 ≤ x ≤ 1.95, which looks paradoxical as
+they grew at 1200^(∘)C from a powder sample of nominal content x = 2.00.
+However, the crystal growth of this hexagonal compound could be favored
+by a thallium deficiency and actually they are often found radiating
+from a small Tl₂Se crystal. * [23] J. Solyom, Adv. Phys. **28**, 201
+(1979); V. J. Emery, R. Bruinsma, and S. Barisic, Phys. Rev. Lett.
+**48**, 1039 (1982). * [24] J. M. Tarascon, F. J. DiSalvo, and J. V.
+Waszczak, Solid State Commun. **52**, 227 (1984). * [25] J. R. Cooper,
+M. Weeger, D. Jerome, D. Lefur, K. Bechgaard, A. N. Bloch, and D. O.
+Cowan, Solid State Commun. **19**, 749 (1976). * [26] R. V. Coleman, M.
+P. Everson, Hao-An Lu, A. Johnson, and L. M. Falicov, Phys. Rev. B
+**41**, 460 (1990). * [27] A. Rotger, J. Dumas, J. Marcus, C. Schlenker,
+J. P. Ulmet, A. Audouard, and S. Askenazy, Physica B **177**, 318
+(1992). * [28] See, for example, J. R. Cooper, W. Kang, P. Auban, G.
+Montambaux, D. Jerome, and K. Bechgaard, Phys. Rev. Lett. **63**, 1984
+(1989), and references therein; W. Kang, S. T. Hannahs, and P. M.
+Chaikin, Phys. Rev. Lett. **70**, 3091 (1993), and references therein. *
+[29] J. M. Ziman, _Electrons and Phonons_ (Clarendon, Oxford, 1963), p.
+494. * [30] C. Kittel, _Quantum Theory of Solids_ (Wiley, New York,
+1963), p. 241. * [31] C. S. Jacobsen, K. Mortensen, M. Weger, and K.
+Bechgaard, Solid State Commun. **38**, 423 (1981); P. M. Chaikin, Phys.
+Rev. Lett. **69**, 2831 (1992). * [32] H. J. Schulz, D. Jerome, A.
+Mazaud, M. Ribault, and K. Bechgaard, J. Phys. (Paris) **42**, 991
+(1981); H. J. Schulz, D. Jerome, and K. Bechgaard, Phys. Rev. B **28**,
+6560 (1983). * [33] D. Jerome, A. Mazaud, M. Ribault, and K. Bechgaard,
+J. Phys. (Paris) Lett. **41**, L95 (1980); K. Bechgaard, K. Carneiro, M.
+Olsen, and F. B. Rasmussen, Phys. Rev. Lett. **46**, 852 (1981); R.
+Brusetti, M. Ribault, D. Jerome, and K. Bechgaard, J. Phys. (Paris)
+**43**, 801 (1982). * [34] For a review, see, R. A. Ferrell, J. Low
+Temp. Phys. **1**, 241 (1969); Skocpol and M. Tinkham, Rep. Prog. Phys.
+**38**, 1049 (1975). * [35] L. G. Aslamazov and A. I. Larkin, Fiz.
+Tverd. Tela **10**, 1104 (1968) [Sov. Phys. Solid State **10**, 875
+(1968)]. * [36] K. Okamoto and M. Wakata, Prog. Theor. Phys. **66**, 15
+(1981). * [37] K. Maki, Prog. Theor. Phys. **39**, 897 (1968); **40**,
+193 (1968); R. Thompson, Phys. Rev. B **1**, 327 (1970). * [38] K. Maki
+and R. Thompson, Phys. Rev. B **39**, 2767 (1989); S. Hikami and A. I.
+Larkin, Mod. Phys. Lett. **2**, 693 (1988). * [39] M. Hikita and M.
+Suzuki, Phys. Rev. B **41**, 834 (1990). * [40] R. Lepetit, P. Monceau,
+M. Potel, P. Gougeon, and M. Sergent, J. Low. Temp. Phys. **56**, 219
+(1984). * [41] N. R. Werthamer, E. Helfand, and P. C. Hohenberg, Phys.
+Rev. **147**, 295 (1966). * [42] Many examples of such materials can be
+found in Ref. 43, where the various explanations proposed are also
+quoted. * [43] A. M. Gabovich and A. S. Shpigel, Phys. Rev. B **38**,
+297 (1988). * [44] This value of v_(F) is deduced from the polarized
+reflectance spectra presented in Ref. 8; the original value quoted there
+was slightly in error, as mentioned by M. Durrler (private
+communication). * [45] T. Tesanovic, M. Rasolt, and L. Xing, Phys. Rev.
+Lett. **63**, 2425 (1989); Phys. Rev. B **43**, 288 (1991); Z.
+Tesanovic, Int. J. Mod. Phys. B **5**, 353 (19 Rev. Lett. **70**, 2613
+(1993). * [47] L. Davis, Jr., Phys. Rev. **56**, 93 (1939). * [48] A
+review is given, in _Low-Dimensional Electronic Properties of Molybdenum
+Bronzes and Oxides_, edited by C. Schlenker (Kluwer, Dordrecht, 1989). *
+[49] H. D. Hang, P. Klavins, and R. N. Shelton, Phys. Rev. B **43**,
+7681 (1991).

@@ -1,0 +1,333 @@
+Dirac metal to topological metal transition at a structural phase change in Au_{2}Pb and prediction of \mathbb{Z}_{2} topology for the superconductor
+
+Leslie M. Schoop
+
+lschoop@princeton.edu Department of Chemistry, Princeton University, Princeton, New Jersey 08544, USA
+
+Lilia S. Xie
+
+Department of Chemistry, Princeton University, Princeton, New Jersey 08544, USA
+
+Ru Chen
+
+Molecular Foundry, Lawrence Berkeley National Laboratory, Berkeley, California 94720, USA Department of Physics, University of California, Berkeley, California 94720, USA
+
+Quinn D. Gibson
+
+Department of Chemistry, Princeton University, Princeton, New Jersey 08544, USA
+
+Saul H. Lapidus
+
+X-ray Science Division, Advanced Photon Source, Argonne National Laboratory, Argonne, Illinois 60439, USA
+
+Itamar Kimchi
+
+Department of Chemistry, Princeton University, Princeton, New Jersey 08544, USA
+
+Max Hirschberger
+
+Joseph Henry Laboratory, Department of Physics, Princeton University, Princeton, New Jersey 08544, USA
+
+Neel Haldolaarachchige
+
+Department of Chemistry, Princeton University, Princeton, New Jersey 08544, USA
+
+Mazhar N. Ali
+
+Department of Chemistry, Princeton University, Princeton, New Jersey 08544, USA
+
+Carina A. Belvin
+
+National Laboratory, Berkeley, California 94720, USA Research Experience for Undergraduates Program, Princeton Center for Complex Materials (PCCM), Princeton, New Jersey 08544, USA
+
+Tian Liang
+
+Joseph Henry Laboratory, Department of Physics, Princeton University, Princeton, New Jersey 08544, USA
+
+Jeffrey B. Neaton
+
+Molecular Foundry, Lawrence Berkeley National Laboratory, Berkeley, California 94720, USA Research Experience for Undergraduates Program, Princeton Center for Complex Materials (PCCM), Princeton, New Jersey 08544, USA
+
+N. P. Ong
+
+Joseph Henry Laboratory, Department of Physics, Princeton University, Princeton, New Jersey 08544, USA
+
+Ashvin Vishwanath
+
+Department of Chemistry, Princeton University, Princeton, New Jersey 08544, USA
+
+R. J. Cava
+
+Department of Chemistry, Princeton University, Princeton, New Jersey 08544, USA
+
+###### Abstract
+
+Three-dimensional Dirac semimetals (DSMs) are materials that have massless Dirac electrons and exhibit exotic physical properties. It has been suggested that structurally distorting a DSM can create a topological insulator but this has not yet been experimentally verified. Furthermore, Majorana fermions have been theoretically proposed to exist in materials that exhibit both superconductivity and topological surface states. Here we show that the cubic Laves phase Au_{2}Pb has a bulk Dirac cone that is predicted to gap on cooling through a structural phase transition at 100 K. The low temperature phase can be assigned a Z_{2}=-1 topological index, and this phase becomes superconducting below 1.2 K. These characteristics make Au_{2}Pb a unique platform for studying the transition between bulk Dirac electrons and topological surface states as well as studying the interaction of superconductivity with topological surface states, combining many different properties of emergent materials--superconductivity, bulk Dirac electrons, and a topologically nontrivial Z_{2} invariant.
+
+DOI: 10.1103/PhysRevB.91.214517 PACS number(s): 74.70.Ad, 61.50.Ks, 71.20.Lp, 74.10.+v +
+Footnote †: preprint: APS/123-QED
+
+## I Introduction
+
+Dirac semimetals (DSMs) have recently emerged as a new type of electronic material with relativistic, massless electrons in the bulk [1, 2, 3, 4, 5]. Cd_{3}As_{2} and Na_{3}Bi, for example, display Dirac points protected by crystalline symmetry, and transport experiments have shown properties such as ultrahigh mobility and large linear magnetoresistance [2, 4, 5, 6]. The effects of structural and electronic instabilities on the three-dimensional (3D) Dirac spectrum are not well known to date, however. Breaking crystalline symmetry, for example, can gap out the Dirac spectrum, adding a finite mass term and creating a topological insulator [1, 3]. Furthermore, the behavior of Dirac electrons in 3D materials under the influence of electronic or magnetic instabilities such as ferromagnetism and superconductivity is not yet well explored.
+
+To date, cubic Laves phases, which are based on the pyrochlore lattice [7], have not been investigated as potential 3D DSMs although they display a range of other interesting electronic properties [8, 9]. Here we report the properties and electronic structure of Au_{2}Pb, a cubic Laves phase [10] that has been reported to superconductor below 1.2 K [11]. Our electronic structure calculations predict that cubic Au_{2}Pb has a bulk Dirac cone at room temperature. The band inversion energy of this cone is much larger than in the other known 3D DSMs. We find, however, through high resolution x-ray diffraction experiments, that Au_{2}Pb on cooling undergoes a previously unreported symmetry breaking phase transition near 50 K, which our calculations show to gap out the Dirac spectrum in the high temperature phase. The result is a low temperature nontrivial massive 3D Dirac phase with Z_{2}=-1 topology. Upon further cooling, Au_{2}Pb becomes superconducting. This implies that Au_{2}Pb is a bulk superconductor with spin polarized topological surface states whose existence is guaranteed by the nontrivial Z_{2} topology of the low temperature phase. The surfaces of single crystals of Au_{2}Pb are therefore a natural platform for realizing Majorana fermions [12] and for probing other consequences of the interaction of topological surface states with superconductivity.
+
+## II Experiment and Calculation
+
+Single crystals of Au_{2}Pb were grown out of Pb flux. Synchrotron x-ray diffraction studies were performed on Au_{2}Pb at the Advanced Photon Source at Argonne National Laboratory on beamline 11-BM. The patterns were collected from 7 to 154 K in 2.5 K increments, with a wavelength of 0.413841 A and a 2\theta range of 0.5 to 26 deg. Structural solution was performed by utilizing distortion mode analysis by utilizing a combination of ISODISTORT and TOPAS [13, 14]. The powder data were refined with the Rietveld method, using the FULLPROF program [15]. Resistivity and heat capacity measurements were performed with a Physical Property Measurement System (PPMS) from Quantum Design, equipped with a ^{3}He cryostat.
+
+Electronic structure calculations were performed in the framework of density functional theory (DFT) using the wien2k [16] code with a full-potential linearized augmented  plane-wave and local orbitals [FP-LAPW + lo] basis [17] together with the Perdew-Becke-Ernzerhof (PBE) parametrization [18] of the generalized gradient approximation (GGA) as the exchange-correlation functional. The plane wave cut-off parameter R_{\rm MT}K_{\rm MAX} was set to 8 and the irreducible Brillouin zone was sampled by 560 k points (cubic) and 216 k points (orthorhombic). Experimental lattice parameters from the Rietveld refinements were used in calculations. Spin-orbit coupling (SOC) was included.
+
+## III Results
+
+The superconducting transition for Au_{2}Pb was confirmed with resistivity and specific heat measurements. The resistivity shows a sharp drop at T_{c}=1.3 K. In Fig. 1(a) the T_{c} determined resistively is plotted versus the applied field. A clear linear dependence of \mu_{0}H_{c2}(T) is seen; a linear fit to the data reveals dH_{c2}/dT_{c}=-0.0928 T/K. By using the Werthamer-Helfand-Hohenberg (WHH) relationship [19]\mu_{0}H_{c2}(0)=-0.77_{c}dH_{c2}/dT_{c}, we estimate the zero-temperature upper critical field to be 83 mT. The coherence length can be calculated by using the Ginzburg-Landau formula \xi_{\rm GL}(0)=[\phi_{0}/2\pi\,H_{c2}(0)]^{1/2}, where \phi_{0}=h/2e and is found to be \xi_{\rm GL}(0)=629 A.
+
+Figure 2(a) presents the electronic part of the specific heat of Au_{2}Pb. A sharp anomaly is observed at the superconducting transition temperature (1.19 K) indicating bulk superconductivity. The behavior above T_{c} follows the expected C_{V}=\gamma\,T+\beta T^{3} relation, where \gamma\,T describes the electronic contribution and \beta T^{3} the phonon contribution, related to the Debye temperature \Theta_{D}. \gamma is the Sommerfeld parameter. Fitting from 1.3 to 2.5 K we obtain \gamma=2.2 mJ/mol K^{2} and \Theta_{D}=139.6 K. Estimating the magnitude of the specific heat jump \Delta C/\gamma\,T_{c}=1.95, higher than the BCS value of 1.43, but lower than that of elemental Pb [20]. Assuming \mu^{*}=0.13, the electron-phonon coupling constant (\lambda_{\rm ep}) can then be calculated from the inverted McMillan's formula [21]: \lambda_{\rm ep}=\frac{1.04+\mu^{*}\ln\left(\frac{\pi\,B_{c2}}{2\,\xi_{D}} \right)}{(1-0.62)\mu^{*}\ln\left(\frac{\pi\,B_{c2}}{2\,\xi_{D}}\right)-1.04} and is 0.58, which suggests weak coupling. The noninteracting density of states at the Fermi energy is given by N(E_{F})=\frac{3\gamma}{\pi^{2}k_{B}^{2}(1+\lambda_{\rm ep})}. The value obtained for Au_{2}Pb, N(E_{F})=0.6 states eV^{-1} per formula unit, agrees well with the \approx0.5 states eV^{-1} per formula unit predicted by band structure calculation (see below). Table 1 summarizes
+
+Figure 1: (Color online) Characterization of the superconductivity and normal state resistivity in Au_{2}Pb. (a) Critical field determination of Au_{2}Pb, the blue line shows the linear fit to determine the slope dH_{c2}/dT=-0.0928 T/K. The inset shows the resistivity close to T_{c} for different fields. (b) \rho(T) between 300 and 25 K. Three discontinuities can be seen, at 97, 51, and 40 K. The lower inset shows the derivative which shows the discontinuities more clearly. Blue lines represent data measured on cooling while red lines represent data measured on heating.
+
+Figure 2: (Color online) Specific heat of Au_{2}Pb, confirming the bulk superconductivity and a phase transition at 50.4 K. The upper inset shows the electronic specific heat vs temperature of Au_{2}Pb. The sharp jump indicates bulk superconductivity. The value of \Delta C/(\gamma\,T_{c})=1.95 is higher than the expected BCS value. The lower inset shows the linear fit above T_{c} that was used to determine the Sommerfeld coefficient \gamma and the coefficient for the phononic contribution to the heat capacity \beta.
+
+  the superconducting properties. We conclude that Au_{2}Pb is a robust weakly coupled BCS superconductor.
+
+The full temperature range of the resistivity is shown in Fig. 1(b). The data reveal several discontinuities, which we determined are related to structural phase transitions; one of them (at 50.4 K) is also seen in the heat capacity data (Fig. 2). In agreement with these observations, our low temperature synchrotron powder diffraction data shows that Au_{2}Pb undergoes two structural phase transitions on cooling. It is cubic above 100 K, below that temperature an unknown intermediate structure appears for a short range of temperature. Then on cooling to 55 K and below, a third structure appears. This is the structure of the low temperature superconducting phase. It is primitive orthorhombic and below 40 K it is the only phase remaining. We were able to fully solve the structure (R_{\rm Bragg} value of 5.73%) in the space group Pbcn with the lattice constants a=7.9040(7) A, b=5.5786(10) A, and c=11.1905(2) A. Table 2 summarizes the atom positions. This low temperature structure is a slightly distorted version of the cubic Laves phase structure, with the pyrochlore planes being buckled (Fig. 3). Note that temperature dependent structural phase transitions of the cubic Laves phase are common [7].
+
+The calculated electronic structures of the high temperature cubic and low temperature orthorhombic phases for Au_{2}Pb are shown in Figs. 4 and 5. Counting all the parity eigenvalues for the time-reversal-invariant momenta (TRIM) points of the bulk Brillouin zone (BZ) [22], gives a Z_{2} invariant of -1 for both structures. [We counted 11 electrons for each Au and 4 for Pb (see Tables S1 and S2 in the Supplemental Material [23] for a listing of the parities and Fig. S1 for the influence of spin-orbit coupling to the band structure)]. In both cases the parity at \Gamma is opposite from the parity at all other TRIM leading to Z_{2}=-1. In the cubic high temperature phase there is an allowed crossing along the \Gamma-X line that is protected by C_{4} rotation symmetry. (The point group along this line is C_{4v}, allowing for two different irreducible representations, \Gamma_{6} and \Gamma_{7}). Since the irreducible representation of the two bands crossing at the \Gamma-X line is different, the crossing is protected by crystalline symmetry. In contrast, the potential cones along \Gamma-K are gapped out because the symmetry along this line is C_{2v}, which allows only one irreducible representation in the presence of SOC. Thus, around the Fermi level, there are massless Dirac electrons present in high temperature Au_{2}Pb [Figs. 4(a) and 4(b)], there are also electron and hole pockets at different places within the BZ. This of course raises the question of whether these other, non-Dirac bands at E_{F} will be problematic for detecting the Dirac electrons. To address this, in Fig. 4(b) we show the calculated 3D band structure of cubic Au_{2}Pb, which clearly indicates that the Dirac cone is in fact isolated and therefore will be detectable by ARPES studies on a cubic surface such as (0,0,1). Furthermore, a 2D energy projection of the 3D k space along a (0,0,1) surface normal that includes the nearest other Fermi pockets [Fig. 4(c)] indicates that the Dirac point is well separated from the Fermi pockets in such a 2D projection. Thus Au_{2}Pb, along with PtBi_{2}, which has a 3D Dirac cone 300 meV below the Fermi energy [24], is one of the very few cubic materials predicted to have a 3D Dirac cone. Due to the cubic symmetry there are six different Dirac cones in the BZ, in contrast to Cd_{4}As_{2} and Na_{3}Bi where there are two cones in the BZ. The cones in Au_{2}Pb are also further apart in momentum space than the ones on Cd_{3}As_{2} and Na_{3}Bi; the distance is 0.203 A^{-1} in Au_{2}Pb and 0.152 A^{-1} in Na_{3}Bi. Furthermore, the Lifshitz transition in Au_{2}Pb is much higher in energy than in the other two materials (roughly 400 meV), which allows the Dirac states to be probed for larger variations of the Fermi level. (In Na_{3}Bi it is around 130 meV and in Cd_{3}As_{2} it is 20 meV.)
+
+## IV Discussion and conclusions
+
+Upon cooling into the low temperature structure, the Dirac electrons in Au_{2}Pb become massive because the symmetry reduction allows the bands along \Gamma-X to mix. Nonetheless the superconducting low temperature phase is topologically nontrivial. The Z_{2}=-1 invariant indicates that it must have topological surface states, which should project to the \bar{\Gamma} point of the surface BZ, for all surfaces. Note that low temperature Au_{2}Pb is not strictly speaking a TI since the Fermi surface has electron and hole pockets. Due to the continuous gap present in the electronic structure, however, it can be viewed as an insulator with bent bands. The same is observed in elemental Sb which is a topological nontrivial metal [25]. It is important to realize that the bands crossing the Fermi level are required in order to observe superconductivity in the low temperature state; a true TI does not have a Fermi surface and therefore cannot be superconducting. In addition, surface states have been detected by APRES on other topological materials with pockets from other than Dirac electrons, such as Sb [25] or Bi_{4}Se_{3}[26], and hence they will also be detectable in Au_{2}Pb. With single crystal diffraction we identified the (110), (100), and (111) surfaces of the cubic structure to be exposed in the as-grown material. Spectroscopy studies on the (100) surface,
+
+\begin{table}
+\begin{tabular}{c c c c} Atom & Wyckoff & x & y & z \\ \hline Pb & 8d & 0.3696(2) & -0.0062(2) & 0.1274(2) \\ Au 1 & 4c & 0.0000 & 0.0120(4) & 0.25000 \\ Au 2 & 8d & 0.2741(1) & 0.2148(2) & 0.3742(2) \\ Au 3 & 4a & 0.00000 & 0.00000 & 0.00000 \\ \end{tabular}
+\end{table}
+Table 2: Structural information for low temperature (T=6.76 K) orthorhombic Au_{2}Pb. Space group Pbnc, a=7.9040(7) Å, b=5.5786(10) Å, and c=11.1905(2) Å.
+
+  Figure 4: (Color online) (a) Electronic structure of high temperature cubic Au_{2}Pb. (b) A view of the electronic structure of the high temperature phase along the (100) direction. The cubic electronic structure has a 3D Dirac cone along \Gamma-X (criced), which gets gapped out when the compound becomes distorted at low temperatures (Fig. 5). Despite the metallic pockets the Dirac point should be visible in APRES measured on the (100) surface. (c) 2D projection of the 3D band structure of cubic Au_{2}Pb, along a cubic axis such as (0,0,1). Color brightness shows the intensity of the signal that would be observed (e.g., in ARPES) by probing the bulk along this cubic axis, at energies near the energy of the Dirac cone, below the Fermi energy. The features associates with the Dirac cone are well separated, even in this 2D projection, from the Fermi surfaces of other band crossings.
+
+Figure 3: (Color online) Structural information on Au_{2}Pb. (a) Crystal structure of the high temperature cubic Laves phase Au_{2}Pb. (b) Crystal structure of the low temperature orthorhombic, distorted phase of Au_{2}Pb. (c) Synchrotron diffraction patterns at different temperatures showing the presence of three different phases in Au_{2}Pb. Newly appearing peaks are circled, peaks associated with the orthorhombic phase are circled in red. Blue circled peaks belong to the intermediate phase. Impurity phases are marked with asterisks; those peaks remain present across the whole temperature regime measured. Patterns are displaced for clarity. (d) Rietveld refinement of orthorhombic Au_{2}Pb at 7 K, the insert shows the region shown in (c); all the newly appearing peaks are captured by the structural model.
+
+  which contains the projection of the \Gamma-X line should therefore be feasible. The fact that many surfaces are naturally exposed allows for probing many different surfaces as well. In addition, magnetotransport measurement could be undertaken with an applied field along the (100) plane, which theoretically breaks the Dirac point into two Weyl nodes.
+
+We have presented an example of a real material where a naturally occurring symmetry change at a structural transition is predicted to gap out a 3D Dirac cone. In addition to therefore undergoing a massless to massive quasiparticle transition upon cooling, the low temperature phase of Au_{2}Pb is topologically nontrivial. This phase becomes superconducting. A few other materials with topological band structures have been shown to be superconducting. These are Au_{x}Bi_{2}Se_{3}[27], Sn_{1-x}In_{x}Te [28], TlBiTe_{2}[29], Tl_{5}Te_{3}[30], and the half-Heusler alloys YPtBi [31], ErPdBi [32], LuPdBi [33], and LuPtBi [34]. Each of these has disadvantages. In Cu_{x}Bi_{2}Se_{3} and Sn_{1-x}In_{x}Te the superconductivity emerges from a parent TI material but requires doping to induce metallicity. The half-Heusler compounds do not have a continuous gap, and, in order to display surface states, strain would be needed. TlBiTe_{2} also requires doping to be superconducting and has a very low T_{c} (0.14 K). In the case of Tl_{5}Te_{3}, the Fermi level does not lie within the continuous gap. Au_{2}Pb in contrast has a continuous gap throughout the BZ, with the Fermi level inside this gap and in the superconducting regime is both superconducting and topological at its native composition. Thus for Au_{2}Pb there is a natural interface between a spin polarized topological surface state and a superconductor in a bulk material.
+
+Topological superconductivity is associated with quasiparticle excitations that are Majorana fermions [35]. Relevant to the case of Au_{2}Pb, Majorana fermions are predicted to occur at the surface of topological insulators (TIs) when the proximity effect is used to induce superconductivity [12]. The strong spin splitting of the TI allows for p-wave Cooper pairing on the surface in spite of the s-wave superconductivity in the bulk. The Fermi energy must be in the band inverted regime of the electronic structure, which is the case for Au_{2}Pb. Thus we argue that because the T_{c} of Au_{2}Pb is high enough for STM studies, this compound is a uniquely promising candidate for studying the interaction between superconductivity and topological surface states.
+
+In addition, the phase transition observed in Au_{2}Pb allows for studies of the breakdown of the 3D Dirac cone on symmetry breaking. It has been proposed that the known 3D Dirac semimetals Cd_{2}As_{3} and Na_{3}Bi should transition into a TI state if they are distorted [1, 3], but this will be difficult to achieve experimentally as such distortions are not naturally occurring in these materials. Au_{2}Pb, in contrast, distorts naturally upon cooling. The 3D Dirac properties of cubic Au_{2}Pb are advantageous to other known 3D DSMs in additional ways. The cubic symmetry causes the presence of six cones rather than only two. The cones are farther apart in momentum space than the cones of other 3D DSMs. These characteristics, together with the very high band inversion energy, make Au_{2}Pb a unique 3D Dirac material.
+
+Finally, we note that the electronic structure of cubic Au_{2}Pb does not only have the 3D Dirac cone at the Fermi level but also other bands crossing on the \Gamma-K line. The low temperature
+
+Figure 5: (Color online) (a) Electronic structures of low temperature orthorhombic Au_{2}Pb. (b) Emphasizes the continuous gap in the electronic structure of orthorhombic Au_{2}Pb. An energy dependent density of states (DOS) plot is shown for orthorhombic Au_{2}Pb in (c). Orthorhombic Au_{2}Pb has a continuous gap and can be viewed as a semiconductor with bent bands. The calculated DOS at E_{F} matches well with the measured value.
+
+  electronic structure is topologically nontrivial but has a Fermi surface composed of electron and hole pockets. These pockets allow the compound to become superconducting. This is in contrast to a true TI which cannot become superconducting without doping. As such, our work on Au_{2}Pb indicates that 3D Dirac materials that have other pockets that are well separated away in the BZ should be an interesting focus for future research, as more instabilities and symmetry breaking transitions are possible. Au_{2}Pb is therefore a new type of material that combines many physical properties of interest including the transition from massless to massive electrons, topological surface states, and superconductivity. It will therefore be of significant interest for further study; ARPES study of the high temperature and low temperature phases will be of particular near-term interest.
+
+###### Acknowledgements.
+
+ This research was supported by the ARO MURI on topological insulators, Grant No. W911NF-12-1-0461. This research used resources of the Advanced Photon Source, a US Department of Energy (DOE) Office of Science User Facility operated for the DOE Office of Science by Argonne National Laboratory under Contract No. DE-AC02-06CH11357. We acknowledge support from a MRSEC grant from the US National Science Foundation DMR 0819860. This work is also supported by the Laboratory Directed Research and Development Program and the Molecular Foundry of Lawrence Berkeley National Laboratory under DOE Contract No. DE-AC02-05CH11231. The authors thank the National Energy Research Scientific Computing Center (NERSC) for the use of its computing facilities.
+
+## References
+
+* [1] Z. Wang, Y. Sun, X.-Q. Chen, C. Franchini, G. Xu, H. Weng, X. Dai, and Z. Fang, Phys. Rev. B **85**, 195320 (2012).
+* [2] Z. Liu, B. Zhou, Y. Zhang, Z. Wang, H. Weng, D. Prabhakaran, S.-K. Mo, Z. Shen, Z. Fang, X. Dai, Z. Hussain, and Y. Chen, Science **343**, 864 (2014).
+* [3] Z. Wang, H. Weng, Q. Wu, X. Dai, and Z. Fang, Phys. Rev. B **88**, 125427 (2013).
+* [4] S. Borisenko, Q. Gibson, D. Evtushinsky, V. Zabolotnyy, B. Buchner, and R. J. Cava, Phys. Rev. Lett. **113**, 027603 (2014).
+* [5] M. Neupane, S.-Y. Xu, R. Sankar, N. Alidoust, G. Bian, C. Liu, I. Belopolski, T.-R. Chang, H.-T. Jeng, H. Lin, A. Bansil, F. Chou, and M. Z. Hasan, Nat. Commun. **5**, 3786 (2014).
+* [6] T. Liang, Q. Gibson, M. N. Ali, M. Liu, R. J. Cava, and N. P. Ong, Nature Materials **14**, 280 (2015).
+* [7] S. Roy, Philos. Mag. B **65**, 1435 (1992).
+* [8] J. Snyder, J. Slusky, R. Cava, and P. Schiffer, Nature (London) **413**, 48 (2001).
+* [9] X. Wan, A. M. Turner, A. Vishwanath, and S. Y. Savrasov, Phys. Rev. B **83**, 205101 (2011).
+* [10] H. Perlitz, Strukturbericht **3**, 612 (1934).
+* [11] D. Hamilton, C. J. Raub, B. Matthias, E. Corenzwit, and G. Hull Jr., J. Phys. Chem. Solids **26**, 665 (1965).
+* [12] L. Fu and C. L. Kane, Phys. Rev. Lett. **100**, 096407 (2008).
+* [13] B. Campbell, J. Evans, F. Perselli, and H. Stokes, Compcomm Newsletter **8**, 81 (2007).
+* [14] B. J. Campbell, H. T. Stokes, D. E. Tanner, and D. M. Hatch, J. Appl. Crystallogr. **39**, 607 (2006).
+* [15] J. Rodriguez-Carvajal, Physica B (Amsterdam) **192**, 55 (1993).
+* [16] P. Blaha, K. Schwarz, G. Madsen, D. Kvasnicka, and J. Luitz, _WIEN2k, An Augmented Plane Wave + Local Orbitals Program for Calculating Crystal Properties_ (Technische Universitat Wien, Austria, 2001).
+* [17] D. J. Singh and L. Nordstrom, _Planewaves, Pseudopotentials, and the LAPW Method_, 2nd ed. (Springer, New York, 2006).
+* [18] J. P. Perdew, K. Burke, and M. Ernzerhof, Phys. Rev. Lett. **77**, 3865 (1996).
+* [19] N. Werthamer, E. Helfand, and P. Hohenberg, Phys. Rev. **147**, 295 (1966).
+* [20] J. Neighbor, J. Cochran, and C. Shiffman, Phys. Rev. **155**, 384 (1967).
+* [21] W. McMillan, Phys. Rev. **167**, 331 (1968).
+* [22] L. Fu and C. L. Kane, Phys. Rev. B **76**, 045302 (2007).
+* [23] See Supplemental Material at http://link.aps.org/supplemental/10.1103/PhysRevB.91.214517 for the parity values of the valence bands of high and low Temperature Au_{2}Pb and the influence of spin orbit coupling to the band structure of both Au_{2}Pb phases.
+* [24] Q. D. Gibson, L. M. Schoop, L. Muechler, L. S. Xie, M. Hirschberger, N. P. Ong, R. Car, and R. J. Cava, Phys. Rev. B **91**, 205128 (2015).
+* [25] J. C. Teo, L. Fu, and C. Kane, Phys. Rev. B **78**, 045426 (2008).
+* [26] T. Valla, H. Ji, L. Schoop, A. Weber, Z.-H. Pan, J. Sadowski, E. Vescovo, A. Fedorov, A. Caruso, Q. Gibson, L. Muechler, C. Felser, and R. Cava, Phys. Rev. B **86**, 241101 (2012).
+* [27] Y. Hor, A. Williams, J. Checkelsky, P. Roushan, J. Seo, Q. Xu, H. Zandbergen, A. Yazdani, N. Ong, and R. Cava, Phys. Rev. Lett. **104**, 057001 (2010).
+* [28] G. Balakrishnan, L. Bawden, S. Cavendish, and M. R. Lees, Phys. Rev. B **87**, 140507 (2013).
+* [29] Y. L. Chen, Z. K. Liu, J. G. Analytis, J.-H. Chu, H. J. Zhang, B. H. Yan, S.-K. Mo, R. G. Moore, D. H. Lu, I. R. Fisher, S. C. Zhang, Z. Hussain, and Z.-X. Shen, Phys. Rev. Lett. **105**, 266401 (2010).
+* [30] K. Arpino, D. Wallace, Y. Nie, T. Birol, P. King, S. Chatterjee, M. Uchida, S. Koobpayeh, J.-J. Wen, K. Page, C. Fennie, K. Shen, and T. McQueen, Phys. Rev. Lett. **112**, 017002 (2014).
+* [31] N. P. Butch, P. Syers, K. Kirshenbaum, A. P. Hope, and J. Paglione, Phys. Rev. B **84**, 220504 (2011).
+* [32] Y. Pan, A. Nikitin, T. Bay, Y. Huang, C. Paulsen, B. Yan, and A. de Visser, Europhys. Lett. **104**, 27001 (2013).
+* [33] G. Xu, W. Wang, X. Zhang, Y. Du, E. Liu, S. Wang, G. Wu, Z. Liu, and X. X. Zhang, Sci. Rep. **4**, 5709 (2014).
+* [34] F. Tafti, T. Fujii, A. Juneau-Fecteau, S. R. de Cotret, N. Doiron-Leyraud, A. Asamitsu, and L. Taillefer, Phys. Rev. B **87**, 184504 (2013).
+* [35] M. Leijnse and K. Flensberg, Semicond. Sci. Technol. **27**, 124003 (2012).
+
+ Dirac metal to topological metal transition at a structural phase change in Au_{2}Pb and prediction of \mathbb{Z}_{2} topology for the superconductor
+
+Leslie M. Schoop
+
+lschoop@princeton.edu Department of Chemistry, Princeton University, Princeton, New Jersey 08544, USA
+
+Lilia S. Xie
+
+Department of Chemistry, Princeton University, Princeton, New Jersey 08544, USA
+
+Ru Chen
+
+Molecular Foundry, Lawrence Berkeley National Laboratory, Berkeley, California 94720, USA Department of Physics, University of California, Berkeley, California 94720, USA
+
+Quinn D. Gibson
+
+Department of Chemistry, Princeton University, Princeton, New Jersey 08544, USA
+
+Saul H. Lapidus
+
+X-ray Science Division, Advanced Photon Source, Argonne National Laboratory, Argonne, Illinois 60439, USA
+
+Itamar Kimchi
+
+Department of Chemistry, Princeton University, Princeton, New Jersey 08544, USA
+
+Max Hirschberger
+
+Joseph Henry Laboratory, Department of Physics, Princeton University, Princeton, New Jersey 08544, USA
+
+Neel Haldolaarachchige
+
+Department of Chemistry, Princeton University, Princeton, New Jersey 08544, USA
+
+Mazhar N. Ali
+
+Department of Chemistry, Princeton University, Princeton, New Jersey 08544, USA
+
+Carina A. Belvin
+
+National Laboratory, Berkeley, California 94720, USA Research Experience for Undergraduates Program, Princeton Center for Complex Materials (PCCM), Princeton, New Jersey 08544, USA
+
+Tian Liang
+
+Joseph Henry Laboratory, Department of Physics, Princeton University, Princeton, New Jersey 08544, USA
+
+Jeffrey B. Neaton
+
+Molecular Foundry, Lawrence Berkeley National Laboratory, Berkeley, California 94720, USA Research Experience for Undergraduates Program, Princeton Center for Complex Materials (PCCM), Princeton, New Jersey 08544, USA
+
+N. P. Ong
+
+Joseph Henry Laboratory, Department of Physics, Princeton University, Princeton, New Jersey 08544, USA
+
+Ashvin Vishwanath
+
+Department of Chemistry, Princeton University, Princeton, New Jersey 08544, USA
+
+R. J. Cava
+
+Department of Chemistry, Princeton University, Princeton, New Jersey 08544, USA
+
+###### Abstract
+
+Three-dimensional Dirac semimetals (DSMs) are materials that have massless Dirac electrons and exhibit exotic physical properties. It has been suggested that structurally distorting a DSM can create a topological insulator but this has not yet been experimentally verified. Furthermore, Majorana fermions have been theoretically proposed to exist in materials that exhibit both superconductivity and topological surface states. Here we show that the cubic Laves phase Au_{2}Pb has a bulk Dirac cone that is predicted to gap on cooling through a structural phase transition at 100 K. The low temperature phase can be assigned a Z_{2}=-1 topological index, and this phase becomes superconducting below 1.2 K. These characteristics make Au_{2}Pb a unique platform for studying the transition between bulk Dirac electrons and topological surface states as well as studying the interaction of superconductivity with topological surface states, combining many different properties of emergent materials--superconductivity, bulk Dirac electrons, and a topologically nontrivial Z_{2} invariant.
+
+DOI: 10.1103/PhysRevB.91.214517 PACS number(s): 74.70.Ad, 61.50.Ks, 71.20.Lp, 74.10.+v +
+Footnote †: preprint: APS/123-QED
+
+## I Introduction
+
+Dirac semimetals (DSMs) have recently emerged as a new type of electronic material with relativistic, massless electrons in the bulk [1, 2, 3, 4, 5]. Cd_{3}As_{2} and Na_{3}Bi, for example, display Dirac points protected by crystalline symmetry, and transport experiments have shown properties such as ultrahigh mobility and large linear magnetoresistance [2, 4, 5, 6]. The effects of structural and electronic instabilities on the three-dimensional (3D) Dirac spectrum are not well known to date, however. Breaking crystalline symmetry, for example, can gap out the Dirac spectrum, adding a finite mass term and creating a topological insulator [1, 3]. Furthermore, the behavior of Dirac electrons in 3D materials under the influence of electronic or magnetic instabilities such as ferromagnetism and superconductivity is not yet well explored.
+
+To date, cubic Laves phases, which are based on the pyrochlore lattice [7], have not been investigated as potential 3D DSMs although they display a range of other interesting electronic properties [8, 9]. Here we report the properties and electronic structure of Au_{2}Pb, a cubic Laves phase [10] that has been reported to superconductor below 1.2 K [11]. Our electronic structure calculations predict that cubic Au_{2}Pb has a bulk Dirac cone at room temperature. The band inversion energy of this cone is much larger than in the other known 3D DSMs. We find, however, through high resolution x-ray diffraction experiments, that Au_{2}Pb on cooling undergoes a previously unreported symmetry breaking phase transition near 50 K, which our calculations show to gap out the Dirac spectrum in the high temperature phase. The result is a low temperature nontrivial massive 3D Dirac phase with Z_{2}=-1 topology. Upon further cooling, Au_{2}Pb becomes superconducting. This implies that Au_{2}Pb is a bulk superconductor with spin polarized topological surface states whose existence is guaranteed by the nontrivial Z_{2} topology of the low temperature phase. The surfaces of single crystals of Au_{2}Pb are therefore a natural platform for realizing Majorana fermions [12] and for probing other consequences of the interaction of topological surface states with superconductivity.
+
+## II Experiment and Calculation
+
+Single crystals of Au_{2}Pb were grown out of Pb flux. Synchrotron x-ray diffraction studies were performed on Au_{2}Pb at the Advanced Photon Source at Argonne National Laboratory on beamline 11-BM. The patterns were collected from 7 to 154 K in 2.5 K increments, with a wavelength of 0.413841 A and a 2\theta range of 0.5 to 26 deg. Structural solution was performed by utilizing distortion mode analysis by utilizing a combination of ISODISTORT and TOPAS [13, 14]. The powder data were refined with the Rietveld method, using the FULLPROF program [15]. Resistivity and heat capacity measurements were performed with a Physical Property Measurement System (PPMS) from Quantum Design, equipped with a ^{3}He cryostat.
+
+Electronic structure calculations were performed in the framework of density functional theory (DFT) using the wien2k [16] code with a full-potential linearized augmented  plane-wave and local orbitals [FP-LAPW + lo] basis [17] together with the Perdew-Becke-Ernzerhof (PBE) parametrization [18] of the generalized gradient approximation (GGA) as the exchange-correlation functional. The plane wave cut-off parameter R_{\rm MT}K_{\rm MAX} was set to 8 and the irreducible Brillouin zone was sampled by 560 k points (cubic) and 216 k points (orthorhombic). Experimental lattice parameters from the Rietveld refinements were used in calculations. Spin-orbit coupling (SOC) was included.
+
+## III Results
+
+The superconducting transition for Au_{2}Pb was confirmed with resistivity and specific heat measurements. The resistivity shows a sharp drop at T_{c}=1.3 K. In Fig. 1(a) the T_{c} determined resistively is plotted versus the applied field. A clear linear dependence of \mu_{0}H_{c2}(T) is seen; a linear fit to the data reveals dH_{c2}/dT_{c}=-0.0928 T/K. By using the Werthamer-Helfand-Hohenberg (WHH) relationship [19]\mu_{0}H_{c2}(0)=-0.77_{c}dH_{c2}/dT_{c}, we estimate the zero-temperature upper critical field to be 83 mT. The coherence length can be calculated by using the Ginzburg-Landau formula \xi_{\rm GL}(0)=[\phi_{0}/2\pi\,H_{c2}(0)]^{1/2}, where \phi_{0}=h/2e and is found to be \xi_{\rm GL}(0)=629 A.
+
+Figure 2(a) presents the electronic part of the specific heat of Au_{2}Pb. A sharp anomaly is observed at the superconducting transition temperature (1.19 K) indicating bulk superconductivity. The behavior above T_{c} follows the expected C_{V}=\gamma\,T+\beta T^{3} relation, where \gamma\,T describes the electronic contribution and \beta T^{3} the phonon contribution, related to the Debye temperature \Theta_{D}. \gamma is the Sommerfeld parameter. Fitting from 1.3 to 2.5 K we obtain \gamma=2.2 mJ/mol K^{2} and \Theta_{D}=139.6 K. Estimating the magnitude of the specific heat jump \Delta C/\gamma\,T_{c}=1.95, higher than the BCS value of 1.43, but lower than that of elemental Pb [20]. Assuming \mu^{*}=0.13, the electron-phonon coupling constant (\lambda_{\rm ep}) can then be calculated from the inverted McMillan's formula [21]: \lambda_{\rm ep}=\frac{1.04+\mu^{*}\ln\left(\frac{\pi\,B_{c2}}{2\,\xi_{D}} \right)}{(1-0.62)\mu^{*}\ln\left(\frac{\pi\,B_{c2}}{2\,\xi_{D}}\right)-1.04} and is 0.58, which suggests weak coupling. The noninteracting density of states at the Fermi energy is given by N(E_{F})=\frac{3\gamma}{\pi^{2}k_{B}^{2}(1+\lambda_{\rm ep})}. The value obtained for Au_{2}Pb, N(E_{F})=0.6 states eV^{-1} per formula unit, agrees well with the \approx0.5 states eV^{-1} per formula unit predicted by band structure calculation (see below). Table 1 summarizes
+
+Figure 1: (Color online) Characterization of the superconductivity and normal state resistivity in Au_{2}Pb. (a) Critical field determination of Au_{2}Pb, the blue line shows the linear fit to determine the slope dH_{c2}/dT=-0.0928 T/K. The inset shows the resistivity close to T_{c} for different fields. (b) \rho(T) between 300 and 25 K. Three discontinuities can be seen, at 97, 51, and 40 K. The lower inset shows the derivative which shows the discontinuities more clearly. Blue lines represent data measured on cooling while red lines represent data measured on heating.
+
+Figure 2: (Color online) Specific heat of Au_{2}Pb, confirming the bulk superconductivity and a phase transition at 50.4 K. The upper inset shows the electronic specific heat vs temperature of Au_{2}Pb. The sharp jump indicates bulk superconductivity. The value of \Delta C/(\gamma\,T_{c})=1.95 is higher than the expected BCS value. The lower inset shows the linear fit above T_{c} that was used to determine the Sommerfeld coefficient \gamma and the coefficient for the phononic contribution to the heat capacity \beta.
+
+  the superconducting properties. We conclude that Au_{2}Pb is a robust weakly coupled BCS superconductor.
+
+The full temperature range of the resistivity is shown in Fig. 1(b). The data reveal several discontinuities, which we determined are related to structural phase transitions; one of them (at 50.4 K) is also seen in the heat capacity data (Fig. 2). In agreement with these observations, our low temperature synchrotron powder diffraction data shows that Au_{2}Pb undergoes two structural phase transitions on cooling. It is cubic above 100 K, below that temperature an unknown intermediate structure appears for a short range of temperature. Then on cooling to 55 K and below, a third structure appears. This is the structure of the low temperature superconducting phase. It is primitive orthorhombic and below 40 K it is the only phase remaining. We were able to fully solve the structure (R_{\rm Bragg} value of 5.73%) in the space group Pbcn with the lattice constants a=7.9040(7) A, b=5.5786(10) A, and c=11.1905(2) A. Table 2 summarizes the atom positions. This low temperature structure is a slightly distorted version of the cubic Laves phase structure, with the pyrochlore planes being buckled (Fig. 3). Note that temperature dependent structural phase transitions of the cubic Laves phase are common [7].
+
+The calculated electronic structures of the high temperature cubic and low temperature orthorhombic phases for Au_{2}Pb are shown in Figs. 4 and 5. Counting all the parity eigenvalues for the time-reversal-invariant momenta (TRIM) points of the bulk Brillouin zone (BZ) [22], gives a Z_{2} invariant of -1 for both structures. [We counted 11 electrons for each Au and 4 for Pb (see Tables S1 and S2 in the Supplemental Material [23] for a listing of the parities and Fig. S1 for the influence of spin-orbit coupling to the band structure)]. In both cases the parity at \Gamma is opposite from the parity at all other TRIM leading to Z_{2}=-1. In the cubic high temperature phase there is an allowed crossing along the \Gamma-X line that is protected by C_{4} rotation symmetry. (The point group along this line is C_{4v}, allowing for two different irreducible representations, \Gamma_{6} and \Gamma_{7}). Since the irreducible representation of the two bands crossing at the \Gamma-X line is different, the crossing is protected by crystalline symmetry. In contrast, the potential cones along \Gamma-K are gapped out because the symmetry along this line is C_{2v}, which allows only one irreducible representation in the presence of SOC. Thus, around the Fermi level, there are massless Dirac electrons present in high temperature Au_{2}Pb [Figs. 4(a) and 4(b)], there are also electron and hole pockets at different places within the BZ. This of course raises the question of whether these other, non-Dirac bands at E_{F} will be problematic for detecting the Dirac electrons. To address this, in Fig. 4(b) we show the calculated 3D band structure of cubic Au_{2}Pb, which clearly indicates that the Dirac cone is in fact isolated and therefore will be detectable by ARPES studies on a cubic surface such as (0,0,1). Furthermore, a 2D energy projection of the 3D k space along a (0,0,1) surface normal that includes the nearest other Fermi pockets [Fig. 4(c)] indicates that the Dirac point is well separated from the Fermi pockets in such a 2D projection. Thus Au_{2}Pb, along with PtBi_{2}, which has a 3D Dirac cone 300 meV below the Fermi energy [24], is one of the very few cubic materials predicted to have a 3D Dirac cone. Due to the cubic symmetry there are six different Dirac cones in the BZ, in contrast to Cd_{4}As_{2} and Na_{3}Bi where there are two cones in the BZ. The cones in Au_{2}Pb are also further apart in momentum space than the ones on Cd_{3}As_{2} and Na_{3}Bi; the distance is 0.203 A^{-1} in Au_{2}Pb and 0.152 A^{-1} in Na_{3}Bi. Furthermore, the Lifshitz transition in Au_{2}Pb is much higher in energy than in the other two materials (roughly 400 meV), which allows the Dirac states to be probed for larger variations of the Fermi level. (In Na_{3}Bi it is around 130 meV and in Cd_{3}As_{2} it is 20 meV.)
+
+## IV Discussion and conclusions
+
+Upon cooling into the low temperature structure, the Dirac electrons in Au_{2}Pb become massive because the symmetry reduction allows the bands along \Gamma-X to mix. Nonetheless the superconducting low temperature phase is topologically nontrivial. The Z_{2}=-1 invariant indicates that it must have topological surface states, which should project to the \bar{\Gamma} point of the surface BZ, for all surfaces. Note that low temperature Au_{2}Pb is not strictly speaking a TI since the Fermi surface has electron and hole pockets. Due to the continuous gap present in the electronic structure, however, it can be viewed as an insulator with bent bands. The same is observed in elemental Sb which is a topological nontrivial metal [25]. It is important to realize that the bands crossing the Fermi level are required in order to observe superconductivity in the low temperature state; a true TI does not have a Fermi surface and therefore cannot be superconducting. In addition, surface states have been detected by APRES on other topological materials with pockets from other than Dirac electrons, such as Sb [25] or Bi_{4}Se_{3}[26], and hence they will also be detectable in Au_{2}Pb. With single crystal diffraction we identified the (110), (100), and (111) surfaces of the cubic structure to be exposed in the as-grown material. Spectroscopy studies on the (100) surface,
+
+\begin{table}
+\begin{tabular}{c c c c} Atom & Wyckoff & x & y & z \\ \hline Pb & 8d & 0.3696(2) & -0.0062(2) & 0.1274(2) \\ Au 1 & 4c & 0.0000 & 0.0120(4) & 0.25000 \\ Au 2 & 8d & 0.2741(1) & 0.2148(2) & 0.3742(2) \\ Au 3 & 4a & 0.00000 & 0.00000 & 0.00000 \\ \end{tabular}
+\end{table}
+Table 2: Structural information for low temperature (T=6.76 K) orthorhombic Au_{2}Pb. Space group Pbnc, a=7.9040(7) Å, b=5.5786(10) Å, and c=11.1905(2) Å.
+
+  Figure 4: (Color online) (a) Electronic structure of high temperature cubic Au_{2}Pb. (b) A view of the electronic structure of the high temperature phase along the (100) direction. The cubic electronic structure has a 3D Dirac cone along \Gamma-X (criced), which gets gapped out when the compound becomes distorted at low temperatures (Fig. 5). Despite the metallic pockets the Dirac point should be visible in APRES measured on the (100) surface. (c) 2D projection of the 3D band structure of cubic Au_{2}Pb, along a cubic axis such as (0,0,1). Color brightness shows the intensity of the signal that would be observed (e.g., in ARPES) by probing the bulk along this cubic axis, at energies near the energy of the Dirac cone, below the Fermi energy. The features associates with the Dirac cone are well separated, even in this 2D projection, from the Fermi surfaces of other band crossings.
+
+Figure 3: (Color online) Structural information on Au_{2}Pb. (a) Crystal structure of the high temperature cubic Laves phase Au_{2}Pb. (b) Crystal structure of the low temperature orthorhombic, distorted phase of Au_{2}Pb. (c) Synchrotron diffraction patterns at different temperatures showing the presence of three different phases in Au_{2}Pb. Newly appearing peaks are circled, peaks associated with the orthorhombic phase are circled in red. Blue circled peaks belong to the intermediate phase. Impurity phases are marked with asterisks; those peaks remain present across the whole temperature regime measured. Patterns are displaced for clarity. (d) Rietveld refinement of orthorhombic Au_{2}Pb at 7 K, the insert shows the region shown in (c); all the newly appearing peaks are captured by the structural model.
+
+  which contains the projection of the \Gamma-X line should therefore be feasible. The fact that many surfaces are naturally exposed allows for probing many different surfaces as well. In addition, magnetotransport measurement could be undertaken with an applied field along the (100) plane, which theoretically breaks the Dirac point into two Weyl nodes.
+
+We have presented an example of a real material where a naturally occurring symmetry change at a structural transition is predicted to gap out a 3D Dirac cone. In addition to therefore undergoing a massless to massive quasiparticle transition upon cooling, the low temperature phase of Au_{2}Pb is topologically nontrivial. This phase becomes superconducting. A few other materials with topological band structures have been shown to be superconducting. These are Au_{x}Bi_{2}Se_{3}[27], Sn_{1-x}In_{x}Te [28], TlBiTe_{2}[29], Tl_{5}Te_{3}[30], and the half-Heusler alloys YPtBi [31], ErPdBi [32], LuPdBi [33], and LuPtBi [34]. Each of these has disadvantages. In Cu_{x}Bi_{2}Se_{3} and Sn_{1-x}In_{x}Te the superconductivity emerges from a parent TI material but requires doping to induce metallicity. The half-Heusler compounds do not have a continuous gap, and, in order to display surface states, strain would be needed. TlBiTe_{2} also requires doping to be superconducting and has a very low T_{c} (0.14 K). In the case of Tl_{5}Te_{3}, the Fermi level does not lie within the continuous gap. Au_{2}Pb in contrast has a continuous gap throughout the BZ, with the Fermi level inside this gap and in the superconducting regime is both superconducting and topological at its native composition. Thus for Au_{2}Pb there is a natural interface between a spin polarized topological surface state and a superconductor in a bulk material.
+
+Topological superconductivity is associated with quasiparticle excitations that are Majorana fermions [35]. Relevant to the case of Au_{2}Pb, Majorana fermions are predicted to occur at the surface of topological insulators (TIs) when the proximity effect is used to induce superconductivity [12]. The strong spin splitting of the TI allows for p-wave Cooper pairing on the surface in spite of the s-wave superconductivity in the bulk. The Fermi energy must be in the band inverted regime of the electronic structure, which is the case for Au_{2}Pb. Thus we argue that because the T_{c} of Au_{2}Pb is high enough for STM studies, this compound is a uniquely promising candidate for studying the interaction between superconductivity and topological surface states.
+
+In addition, the phase transition observed in Au_{2}Pb allows for studies of the breakdown of the 3D Dirac cone on symmetry breaking. It has been proposed that the known 3D Dirac semimetals Cd_{2}As_{3} and Na_{3}Bi should transition into a TI state if they are distorted [1, 3], but this will be difficult to achieve experimentally as such distortions are not naturally occurring in these materials. Au_{2}Pb, in contrast, distorts naturally upon cooling. The 3D Dirac properties of cubic Au_{2}Pb are advantageous to other known 3D DSMs in additional ways. The cubic symmetry causes the presence of six cones rather than only two. The cones are farther apart in momentum space than the cones of other 3D DSMs. These characteristics, together with the very high band inversion energy, make Au_{2}Pb a unique 3D Dirac material.
+
+Finally, we note that the electronic structure of cubic Au_{2}Pb does not only have the 3D Dirac cone at the Fermi level but also other bands crossing on the \Gamma-K line. The low temperature
+
+Figure 5: (Color online) (a) Electronic structures of low temperature orthorhombic Au_{2}Pb. (b) Emphasizes the continuous gap in the electronic structure of orthorhombic Au_{2}Pb. An energy dependent density of states (DOS) plot is shown for orthorhombic Au_{2}Pb in (c). Orthorhombic Au_{2}Pb has a continuous gap and can be viewed as a semiconductor with bent bands. The calculated DOS at E_{F} matches well with the measured value.
+
+  electronic structure is topologically nontrivial but has a Fermi surface composed of electron and hole pockets. These pockets allow the compound to become superconducting. This is in contrast to a true TI which cannot become superconducting without doping. As such, our work on Au_{2}Pb indicates that 3D Dirac materials that have other pockets that are well separated away in the BZ should be an interesting focus for future research, as more instabilities and symmetry breaking transitions are possible. Au_{2}Pb is therefore a new type of material that combines many physical properties of interest including the transition from massless to massive electrons, topological surface states, and superconductivity. It will therefore be of significant interest for further study; ARPES study of the high temperature and low temperature phases will be of particular near-term interest.
+
+###### Acknowledgements.
+
+ This research was supported by the ARO MURI on topological insulators, Grant No. W911NF-12-1-0461. This research used resources of the Advanced Photon Source, a US Department of Energy (DOE) Office of Science User Facility operated for the DOE Office of Science by Argonne National Laboratory under Contract No. DE-AC02-06CH11357. We acknowledge support from a MRSEC grant from the US National Science Foundation DMR 0819860. This work is also supported by the Laboratory Directed Research and Development Program and the Molecular Foundry of Lawrence Berkeley National Laboratory under DOE Contract No. DE-AC02-05CH11231. The authors thank the National Energy Research Scientific Computing Center (NERSC) for the use of its computing facilities.
+
+## References
+
+* [1] Z. Wang, Y. Sun, X.-Q. Chen, C. Franchini, G. Xu, H. Weng, X. Dai, and Z. Fang, Phys. Rev. B **85**, 195320 (2012).
+* [2] Z. Liu, B. Zhou, Y. Zhang, Z. Wang, H. Weng, D. Prabhakaran, S.-K. Mo, Z. Shen, Z. Fang, X. Dai, Z. Hussain, and Y. Chen, Science **343**, 864 (2014).
+* [3] Z. Wang, H. Weng, Q. Wu, X. Dai, and Z. Fang, Phys. Rev. B **88**, 125427 (2013).
+* [4] S. Borisenko, Q. Gibson, D. Evtushinsky, V. Zabolotnyy, B. Buchner, and R. J. Cava, Phys. Rev. Lett. **113**, 027603 (2014).
+* [5] M. Neupane, S.-Y. Xu, R. Sankar, N. Alidoust, G. Bian, C. Liu, I. Belopolski, T.-R. Chang, H.-T. Jeng, H. Lin, A. Bansil, F. Chou, and M. Z. Hasan, Nat. Commun. **5**, 3786 (2014).
+* [6] T. Liang, Q. Gibson, M. N. Ali, M. Liu, R. J. Cava, and N. P. Ong, Nature Materials **14**, 280 (2015).
+* [7] S. Roy, Philos. Mag. B **65**, 1435 (1992).
+* [8] J. Snyder, J. Slusky, R. Cava, and P. Schiffer, Nature (London) **413**, 48 (2001).
+* [9] X. Wan, A. M. Turner, A. Vishwanath, and S. Y. Savrasov, Phys. Rev. B **83**, 205101 (2011).
+* [10] H. Perlitz, Strukturbericht **3**, 612 (1934).
+* [11] D. Hamilton, C. J. Raub, B. Matthias, E. Corenzwit, and G. Hull Jr., J. Phys. Chem. Solids **26**, 665 (1965).
+* [12] L. Fu and C. L. Kane, Phys. Rev. Lett. **100**, 096407 (2008).
+* [13] B. Campbell, J. Evans, F. Perselli, and H. Stokes, Compcomm Newsletter **8**, 81 (2007).
+* [14] B. J. Campbell, H. T. Stokes, D. E. Tanner, and D. M. Hatch, J. Appl. Crystallogr. **39**, 607 (2006).
+* [15] J. Rodriguez-Carvajal, Physica B (Amsterdam) **192**, 55 (1993).
+* [16] P. Blaha, K. Schwarz, G. Madsen, D. Kvasnicka, and J. Luitz, _WIEN2k, An Augmented Plane Wave + Local Orbitals Program for Calculating Crystal Properties_ (Technische Universitat Wien, Austria, 2001).
+* [17] D. J. Singh and L. Nordstrom, _Planewaves, Pseudopotentials, and the LAPW Method_, 2nd ed. (Springer, New York, 2006).
+* [18] J. P. Perdew, K. Burke, and M. Ernzerhof, Phys. Rev. Lett. **77**, 3865 (1996).
+* [19] N. Werthamer, E. Helfand, and P. Hohenberg, Phys. Rev. **147**, 295 (1966).
+* [20] J. Neighbor, J. Cochran, and C. Shiffman, Phys. Rev. **155**, 384 (1967).
+* [21] W. McMillan, Phys. Rev. **167**, 331 (1968).
+* [22] L. Fu and C. L. Kane, Phys. Rev. B **76**, 045302 (2007).
+* [23] See Supplemental Material at http://link.aps.org/supplemental/10.1103/PhysRevB.91.214517 for the parity values of the valence bands of high and low Temperature Au_{2}Pb and the influence of spin orbit coupling to the band structure of both Au_{2}Pb phases.
+* [24] Q. D. Gibson, L. M. Schoop, L. Muechler, L. S. Xie, M. Hirschberger, N. P. Ong, R. Car, and R. J. Cava, Phys. Rev. B **91**, 205128 (2015).
+* [25] J. C. Teo, L. Fu, and C. Kane, Phys. Rev. B **78**, 045426 (2008).
+* [26] T. Valla, H. Ji, L. Schoop, A. Weber, Z.-H. Pan, J. Sadowski, E. Vescovo, A. Fedorov, A. Caruso, Q. Gibson, L. Muechler, C. Felser, and R. Cava, Phys. Rev. B **86**, 241101 (2012).
+* [27] Y. Hor, A. Williams, J. Checkelsky, P. Roushan, J. Seo, Q. Xu, H. Zandbergen, A. Yazdani, N. Ong, and R. Cava, Phys. Rev. Lett. **104**, 057001 (2010).
+* [28] G. Balakrishnan, L. Bawden, S. Cavendish, and M. R. Lees, Phys. Rev. B **87**, 140507 (2013).
+* [29] Y. L. Chen, Z. K. Liu, J. G. Analytis, J.-H. Chu, H. J. Zhang, B. H. Yan, S.-K. Mo, R. G. Moore, D. H. Lu, I. R. Fisher, S. C. Zhang, Z. Hussain, and Z.-X. Shen, Phys. Rev. Lett. **105**, 266401 (2010).
+* [30] K. Arpino, D. Wallace, Y. Nie, T. Birol, P. King, S. Chatterjee, M. Uchida, S. Koobpayeh, J.-J. Wen, K. Page, C. Fennie, K. Shen, and T. McQueen, Phys. Rev. Lett. **112**, 017002 (2014).
+* [31] N. P. Butch, P. Syers, K. Kirshenbaum, A. P. Hope, and J. Paglione, Phys. Rev. B **84**, 220504 (2011).
+* [32] Y. Pan, A. Nikitin, T. Bay, Y. Huang, C. Paulsen, B. Yan, and A. de Visser, Europhys. Lett. **104**, 27001 (2013).
+* [33] G. Xu, W. Wang, X. Zhang, Y. Du, E. Liu, S. Wang, G. Wu, Z. Liu, and X. X. Zhang, Sci. Rep. **4**, 5709 (2014).
+* [34] F. Tafti, T. Fujii, A. Juneau-Fecteau, S. R. de Cotret, N. Doiron-Leyraud, A. Asamitsu, and L. Taillefer, Phys. Rev. B **87**, 184504 (2013).
+* [35] M. Leijnse and K. Flensberg, Semicond. Sci. Technol. **27**, 124003 (2012).
+
+ 

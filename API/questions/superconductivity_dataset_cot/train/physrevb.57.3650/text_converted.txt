@@ -1,0 +1,1045 @@
+# Quasiparticle tunneling spectra of the high-T_(c) mercury cuprates:
+
+Implications of the d-wave two-dimensional van Hove scenario
+
+J. Y. T. Wei*
+
+Department of Applied Physics, Columbia University, New York, New York
+10027
+
+C. C. Tsuei
+
+IBM T. J. Watson Research Center, P.O. Box 218, Yorktown Heights, New
+York 10598
+
+P. J. M. van Bentum
+
+Research Institute for Materials, University of Nijmegen, NL-6525 ED,
+The Netherlands
+
+Q. Xiong
+
+Texas Center for Superconductivity, University of Houston, Houston,
+Texas 77204
+
+M. K. Wu
+
+Department of Applied Physics, Columbia University, New York, New York
+10027
+
+and Department of Physics and Materials Science Center, National Tsing
+Hua University, Hsinchu, 30043, Taiwan, Republic of China
+
+2013 changes sign along the k_(x) =  ± k_(y) directions in the _ab_
+plane, consistent with the d_(z² − y²) pairing symmetry endorsed by most
+of the current microscopic theories.[18] Second, there is much direct
+evidence, from high-resolution angle-resolved photoemission (ARPES)
+measurements[19, 20, 21] and corroborating band structure
+calculations,[22] that most of the high-T_(c) cuprates have a quasi-2D
+electronic dispersion with saddle points near the Fermi surface at
+**X** = (  ± π, 0) and **Y** = (0,±π) corresponding to a logarithmic van
+Hove singularity (vHs) in the normal-state DOS. It is natural to
+consider whether this combination of pairing symmetry and band structure
+could explain the tunneling characteristics observed, both as a
+consistency check and to enable proper spectral analysis.
+
+Quasiparticle tunneling in the context of _d_-wave pairing symmetry has
+been considered previously,[23, 24, 25, 26, 27, 28] but never properly
+taking into account the characteristic band structure of the cuprates.
+The standard approach is to calculate the quasiparticle DOS for direct
+comparison to the tunneling conductance. The matrix element |T|² for
+tunneling _into_ the cuprate is typically treated as energy independent,
+isotropic, and nonvanishing only in the _ab_ plane or it is simplified
+by assuming a narrow tunneling cone which provides high directional
+selectivity and by invoking the Wentzel-Kramers-Brillouin (WKB)
+approximation which neglects wave vector matching in the barrier
+transmission.[29, 30] These simplifications are usually made to
+facilitate model calculations. However, it is not obvious that the
+tunneling cone argument and the WKB approximation are insensitive to
+band-structure anisotropy, or valid in the presence of saddle points.
+Nor is there reason _a priori_ to neglect the probability for tunneling
+perpendicularly _into_ the _ab_ plane simply because of the low _c_-axis
+dispersion. It is important to consider |T|² explicitly, in order to
+relate the calculated quasiparticle DOS to the conductance spectra
+observed.
+
+The mercury-based cuprates HgBa₂Ca_(n − 1)Cu_(n)O_(2n + 2 + δ)
+[Hg-12(_n_-1)_n_] offer an attractive system to study this problem.[31,
+32, 33] Consisting essentially of conducting (CuO₂)_(n) stacks separated
+by insulating BaO-Hg-BaO perovskite blocks, the Hg cuprates are an
+exemplary quasi-2D system with tetragonal symmetry, very low lattice
+distortion, and exhibiting very high T_(c). Band-structure calculations
+have indicated a characteristic cross-shaped Fermi surface which lies
+close to saddle points in a generic 2D dispersion associated with the
+(CuO₂)_(n) layers, at least for Hg-1212 and Hg-1223.[34] Normal-state
+transport measurements have provided corroborating evidence for this
+picture, showing a highly 2D electrical resistivity (ρ_(c) ≫ ρ_(ab)) and
+such characteristic anomalies as linear temperature dependence of the
+in-plane resistivity (ρ_(ab) × T), non-Drude temperature dependence of
+the Hall angle (cot θ_(μ) × T²), pressure dependence of T_(c) and
+doping-sensitive thermopower,[35, 36] all of which could be regarded as
+generic effects of the band structure.[22, 37, 38, 39, 40] Preliminary
+tricrystal experiments on the Hg-1212 films have also demonstrated the
+signature of _d_-wave pairing symmetry.[17] These results strongly
+suggest that the Hg cuprates can be modeled in the combined _d_-wave 2D
+van Hove scenario.
+
+Mixed tunneling data have been reported on the Hg cuprates so far. Chen
+_et al._ observed BCS-like spectra with near-BCS gap values in
+polycrystalline Hg-1201 by point-contact spectroscopy.[41] Jeong _et
+al._, observed two types of spectra, one BCS-like with a large gap and
+the other showing heavily smeared double-gap features, in
+polycrystalline Hg-1223 by scanning tunneling spectroscopy (STS).[42]
+Rossel _et al._ also observed smeared gap spectra by STS in melted
+polycrystalline Hg-1223, but enhanced-peak spectra with very large gap
+values in single crystals of Pb-doped Hg-1234.[43] Differences in sample
+quality and measurement technique could have contributed to this
+spectral variety. In each case a specific set of model assumptions was
+used to analyze the data, but entirely within the conventional framework
+of an _s_-wave energy gap and without consideration of the band
+structure.
+
+This paper presents tunneling measurements by scanning tunneling
+spectroscopy on epitaxial films of Hg-1212 and polycrystalline samples
+of Hg-1201 and Hg-1223. The Hg-1212 data is, as far as we know, the
+first of its kind, and all the tunneling spectra were taken with the
+same measurement technique. The spectra show distinctively non-BCS gap
+behaviors which cannot be easily reconciled with the standard _s_-wave
+model. We explain the data by explicitly considering quasiparticle
+tunneling in the _d_-wave 2D van Hove scenario, using a traditional
+planar-junction formalism for elastic and specular transmission. Model
+calculations based on these generic assumptions reveal a profoundly
+directional and energy-dependent spectral weighting due to the gap
+anisotropy and **k** dependence of the matrix element |T|². Tunneling
+across a _c_-axis junction is shown to cause spectral enhancement, while
+tunneling across an _a_-axis junction leads to spectral suppression and
+thereby a quasilinear spectral background. Simple superposition of these
+two model cases enables an interpretation of our data. The analysis
+indicates very large values for the _d_-wave energy-gap maximum: Δ₀≈33,
+50, and 75 meV for optimally doped Hg-1201, Hg-1212, and Hg-1223,
+respectively, corresponding to reduced-gap ratios of 2Δ₀/k_(B)T_(c)≈7.9,
+9.5, and 13. These large reduced-gap ratios deviate markedly from BCS
+universality, and suggest an overall trend of 2Δ₀/k_(B)T_(c) rising with
+T_(c) among the cuprates.
+
+The experimental procedure is described in Sec. II. The spectroscopy
+data is presented in Sec. III, then analyzed in Sec. IV. The full
+_d_-wave 2D van Hove model for quasiparticle tunneling is given in Sec.
+V, along with model calculations simulating various junction
+orientations. The simulations are used to interpret the data and
+determine the _d_-wave gap values in Sec. VI.
+
+## II Experiment
+
+Samples of optimally doped Hg-1201, Hg-1212, and Hg-1223 were used in
+our experiment. Epitaxial _c_-axis films of Hg-1212 were made by pulsed
+laser-ablated deposition on (100) SrTiO₃ substrates,[44] showing sharp
+resistive and diamagnetic transitions at ∼ 123 K, with zero resistivity
+at ∼ 122 K and a room temperature resistivity of ∼ 400 μΩ cm.
+Polycrystalline samples of Hg-1201 and Hg-1223 were synthesized by a
+controlled vapor/solid reaction technique,[33] showing similarly sharp
+T_(c)’s at ∼ -97 and ∼ 135 K, respectively, with room-temperature
+resistivities ∼ 20 mΩ cm. X-Ray diffraction verified all the samples to
+be single-phase and the film samples to be have high crys talline
+alignment. Tunneling spectroscopy was performed with a cryogenic
+scanning tunneling microscope (STM) at 4.2 K in ∼ 1 μTorr of helium
+exchange gas, using a platinum tip as counter-electrode. Details of the
+STM is published elsewhere.[45] To prevent surface degradation by the
+atmosphere, each sample was kept under dry argon prior to being loaded
+for measurement. Stable tunneling junctions were formed between the
+voltage-biased sample and piezo-driven tip in constant-current feedback
+mode. Current vs voltage _I_-_V_ spectra were taken by momentarily
+disabling the STM feedback at a fixed spot on a sample and rapidly
+sweeping the voltage (∼ 1 mV/0.1 ms) while measuring the current. This
+process was repeated 256 times in rapid succession to average the
+_I_-_V_ data. Conductance _d_I/_dV_ spectra were extracted by
+numerically differentiating the _I_-_V_ spectra. Constant-current
+topography was attempted but did not produce meaningful images. The
+scanning capability did allow spectroscopy to be performed over large
+areas (∼ 1 × 1 μm²) as a check of spectral reproducibility. Junction
+quality was monitored by checking the effective barrier height ϕ (in eV)
+according to the standard relation I∝e⁻/ϕs between piezo displacement s
+(in A) and tunneling current. Very low values for ϕ (∼ 1 meV) were
+typically observed, indicating tip-sample contact and the existence of a
+dead layer acting as tunnel barrier. Large values (ϕ∼ 2.5 eV) were
+occasionally observed, as instances of ideal "vacuum-gap" junction. No
+correlation was noticed between the apparent junction quality and
+spectral behavior. All the spectra presented here were taken on
+low-transmission junctions (∼ 10 to 100 MΩ), i.e., well in the
+normal-metal-insulator-superconductor (NIS) Giaever tunneling regime
+where NS Andreev reflection probability is low.[46]
+
+## III Spectroscopy Data
+
+Conductance _d_I/_dV_ spectra showing distinct gap features were
+observed. Representative spectra of this kind are shown in Figs. 1(a),
+1(b), and 1(c) for Hg-1201, Hg-1212, and Hg-1223, respectively, with the
+insets displaying the current-voltage _I_-_V_ characteristics. These
+spectra were reproducible over large areas (∼ 0.1× 0.1 μm²) in each
+sample, and insensitive to either the tunneling distance (for vacuum-gap
+junctions) or tip pressure (for contact junctions) as controlled by the
+feedback current. Pronounced spectral peaks appear at ∼ ± 33, ± 50, and
+± 75 meV, respectively for Hg-1201, Hg-1212, and Hg-1223. The peak
+shapes are fairly broad and symmetric, and the peak heights are
+generally asymmetric about zero-bias, except for Hg-1201. A small
+zero-bias conductance (< 10
+
+For the polycrystalline samples, two other types of spectra were also
+observed. The first type shows a pronounced zero-bias conductance peak
+(ZBCP). A typical example, taken on Hg-1201, is given in Fig. 2. Such
+spectra have often been observed in the high-T_(c) cuprates,
+particularly on 110 tunnel junctions, i.e., with the junction oriented
+normal to a k_(x) = ±k_(y) crystalline axis in the _ab_ plane.[50] The
+ZBCP has been attributed to midgap surface states on a junction oriented
+
+Figure 1: Tunneling conductance spectra showing distinct gap features,
+taken at 4.2 K with a Pt tip by STM: (a) polycrystalline Hg-1201, with
+T_(c) ≈ 97 K; (b) epitaxial _c_-axis film of Hg-1212, with T_(c) ≈ 123
+K; (c) polycrystalline Hg-1223, with T_(c) ≈ 135 K. The insets display
+the corresponding current-voltage characteristics. The voltage
+corresponds to bias of the sample relative to the tip.
+
+along or near a gap-node axis of a d-wave superconductor, and could thus
+be considered a signature of d_(x² − y²) order parameter symmetry as
+well as other symmetries with phase sign changes.[51, 52, 53, 54] This
+issue will be discussed in Sec. V. The other type of spectra shows
+heavily suppressed gap features. A typical example, taken on Hg-1223, is
+given in Fig. 3. Such suppressed-peak spectra are commonly observed in
+the high-T_(c) cuprates.[4, 5, 6] The absence of clear gap peaks,
+together with steep quasilinear background and smeared subgap behavior,
+can be regarded as generic anomalies which tend to complicate spectral
+analysis. Several groups have investigated the quasilinear conductance
+background. Harteg _et al._, for example, have offered an explanation of
+the background in terms of out-of-plane tunneling.[16] However, even if
+the background were subtracted out or normalized away, smearing
+parameters much larger than the thermal broadening at 4.2 K would still
+be needed to fit the BCS density of states, thus making the gap
+determination highly uncertain. Kirtley has addressed this issue by
+weighting the BCS density of states
+$N(E,\Delta) = E/\sqrt{E^{2} - \Delta^{2}}$ with a Gaussian gap
+distribution,[7] to account for the possibility of chemical
+inhomogeneity of the tunneling surface. An alternative mechanism for the
+spectral smearing was proposed by van Bentum _et al._,[8] by considering
+energy-fluctuation effects associated with tip-sample charging through
+single-electron tunneling.[55, 56, 57] Although plausible, the Gaussian
+distribution and charge-fluctuation models can only account for peak
+suppression and not at all for peak enhancement. As will be shown in
+Sec. V, a combined consideration of the band structure and gap symmetry
+can explain both types of spectral behavior rather naturally. In the
+following section (Sec. IV), exclusive focus will be given to the
+enhanced-peak spectra (Fig. 1) which are more amenable to spectral
+analysis and gap determination.
+
+## IV Spectral Analysis
+
+s_-wave_. Conventional analysis of quasiparticle tunneling between a
+metal electrode and a superconductor relies on the Giaever expression
+for normalized conductance[58]
+
+$$\frac{(dI/dV)_{s}}{(dI/dV)_{n}} = \int_{-\infty}^{\infty}N_{s}(E)\ \frac{- \partial F(E + eV)}{\partial(eV)}\ dE,$$
+
+where the subscripts s and n denote superconducting state and normal
+state in the superconductor, E is the quasiparticle energy defined
+relative to the Fermi level, F(E) = [1 + exp (E/k_(B)T)]⁻¹ is the Fermi
+function, and the BCS quasiparticle density of states is written in the
+Dynes form[59]
+
+$$N_{s}(E) = {\rm Re}\big{[}|E - i\Gamma|/\sqrt{(E - i\Gamma)^{2} - \Delta^{2}}\big{]},$$
+
+with Γ as a smearing parameter to account for quasiparticle lifetime.
+Note that this expression presupposes an s-wave energy gap Δ and is
+completely insensitive to band structure. The superconductor is
+implicitly assumed to be an isotropic metal with simple dispersion, thus
+allowing the tunneling transition probability |T|² to be factored out of
+the integral as a constant within the domain of interest and normalized
+away.
+
+An attempt was made to fit this model to the measured dI/dV spectra
+shown in Fig. 1. The normal-state conductance (dI/dV)_(n) was estimated
+by interpolating the spectral background with polynomial regression. The
+Fermi function was set to T = 4.2 K which provided negligible ( ∼ 1.3
+meV) thermal smearing. Fitting results from the data for Hg-1201 are
+presented as an example in Fig. 4(a). The data is given by the crosses
+and the fits indicated by lines. Only the positive-bias branch is shown
+for the sake of clarity. Despite the well-developed gap features and the
+adjustable smearing parameter, spectral agreement between data and model
+is poor. Peak height and gap bottom could not both be satisfied with a
+single choice of Γ. As shown by the two trial fits in Fig. 4(a), the
+model curve is either too ’short’ or too ’low’ and inevitably lopsided.
+This dilemma was also encountered by Renner _et al.[47]_ and by Boon _et
+al.[48]_ in their analysis of c-axis tunneling data taken on
+cold-cleaved BSCCO crystals. The measured peak-shape is clearly more
+symmetric than the form of N_(s)(E) would allow.
+
+It is important to note that since the BCS square-root singularities are
+asymptotic in form, they tend to broaden asymmetrically about ±Δ with
+the energy-smearing associated with iΓ and shift the spectral peaks
+outwards. The same
+
+Figure 3: Example of tunneling spectra showing suppressed gap features,
+taken at 4.2 K with a Pt tip on polycrystalline Hg-1223 (T_(c) ≈ 135 K).
+The main plot displays the conductance data, and the inset gives the
+corresponding current-voltage characteristic.
+
+Figure 2: Example of tunneling spectra showing zero-bias conductance
+peak (ZBCP), taken with a Pt tip at 4.2 K on polycrystalline Hg-1201
+(T_(c) ≈ 97 K). The main plot displays the conductance data, and the
+inset gives the corresponding current-voltage characteristic.
+
+argument would also apply to either thermal, Gaussian, or
+charge-fluctuation broadening. If the smearing is large, this shift can
+amount to a sizable discrepancy between the apparent peak position and
+the fitting parameter D. Γ/D ratios as large as  50
+
+_Simple d wave._ A simple _d_-wave fit was also attempted, using a
+heuristic model given by Won and Maki.[60] This model assumes the
+tunneling to sample uniformly all directions in the _ab_ plane, by angle
+averaging the quasiparticle DOS $N_{s}(E,\Updelta )$ with a simplified
+_d_-wave energy-gap function,
+
+$$\Delta({\bf k}) = \Delta_{0}\,\cos (2\,\varphi ),$$
+
+where D0 is the gap maximum and ph is the polar angle in **k** space.
+The averaging scheme is plausible for a junction with large contact area
+and nonuniform orientation, but invariably neglects the band structure
+by normalizing away the tunneling matrix element |T|². The nodal gap
+function provides a distribution of gap values which effectively
+broadens the gap singularity. This implies a peak shape which is more
+symmetric than the s wave model and in principle more compatible with
+the data. Typical results of the fit are shown as dashed curves in Fig.
+4(b), again using the Hg-1201 data as an illustrative example. Although
+relying less on lifetime smearing (G/D0   7
+
+_vHs-enhanced d wave._ Next we consider how the band structure alters
+the _d_-wave quasiparticle DOS. A convenient expression for calculating
+the quasiparticle DOS at zero temperature is
+
+$$N_{s}(E) = \sum\limits_{\bf k}\,\,\,\delta(E - \sqrt{\xi_{\bf k}^{2} + \Delta_{\bf k}}^{2} ),$$
+
+where D**k** is the superconducting energy gap and $\xi_{\bf k}$ is the
+normal-state energy dispersion defined relative to the Fermi level. For
+the high-_T__c_ cuprates, it is justified on both theoretical and
+experimental grounds[17-22] to assume
+
+$$\Delta_{\bf k} = \Delta_{0}(\cos\,k_{x} - \cos\,k_{y} )/2$$
+
+for a _d__x_2-_y_2 pairing symmetry, and to use the 2D tight-binding
+dispersion
+
+$$\xi_{\bf k} = - 2t(\cos\,k_{x} + \cos\,k_{y} ) + 4\,t'(\cos\,k_{x}\,\cos\,k_{y} ) - \mu$$
+
+to model the Cu-O square lattice, where the pairing interaction is
+presumably located. Here m is the Fermi energy, while t and _t’_
+represent the nearest-neighbor and next-nearest-neighbor overlap
+integrals. The presence of saddle points at **X** and **Y** in the
+Brillouin zone (BZ) gives rise to a logarithmic singularity (the 2D vHs)
+near the Fermi level, and the next-nearest-neighbor term _t’_ has the
+effect of denesting the FS from half filling.
+
+The main effect of the vHs on the quasiparticle DOS is to enhance the
+height of the gap singularity, which is broadened by the _d_-wave gap
+anisotropy. Intuitively speaking, as the energy gap opens up about the
+vHs, more states must now pile up on the gap edges than for a flat
+energy band. This enhancement mostly affects states near the saddle
+points, where heightened DOS ( _d_-_dk_/_dk_/_dk_ - ) coincides with
+maxima in the _d_-wave gap distribution. The larger gap-values receive
+heavier spectral weighting in summing over the BZ, leading to a peak
+shape which is a convolution of the BCS square-root singularity and the
+logarithmic van Hove singularity. The vHs-enhanced _d_-wave peak is both
+broader
+
+Figure 4: Fitting results of the normalized Hg-1201 data from Fig. 1(a).
+Only the positive-bias branch is shown for comparison, with the data
+given by the cross-symbols. (a) _s_-wave model, using the BCS density of
+states $N_{s} = E/\sqrt{E^{2} - \Updelta^{2}}$ with lifetime broadening
+G as an adjustable parameter. Peak height and gap bottom could not both
+be satisfied with a single choice of G. The fit is either too “short”
+(solid curve) or too “low” (dotted curve) and inevitably “lopsided,”
+demonstrating the incompatibility of _Ns_ with the data. (b) _d_-wave
+models: dotted curve represents the simple angle-averaged N_(s), using
+the simplified gap function D = D0 cos(2σ); solid curve represents the
+vHs-enhanced _d_-wave quasiparticle DOS, using the gap function D**k** =
+D0(cos k_(x) − cos  k_(y))/2 and the dispersion
+$\varepsilon_{\bf k} = - 2t(\cos\,k_{x} + \cos\,k_{y} )$. Good spectral
+agreement between the data and the latter _d_-wave model demonstrates
+the importance of the band structure.
+
+than the _s_-wave peak and taller than the simple _d_-wave peak, exactly
+as required to fit our data. To demonstrate this, the
+background-normalized Hg-1201 data was fitted to the vHs-enhanced
+_d_-wave DOS, using Eq. (4) with the band-structure parameters t = 185
+meV and m = 0.5 eV, the d function represented by a Lorentzian of width
+G and the energy E replaced by the voltage V. Here, the band asymmetry
+is implicitly ignored by setting _t’_ = 0 and will be explicitly
+considered in Sec. V. A typical fit in arbitrary units is included as
+the solid curve in Fig. 4(b). The spectral agreement is quite good, with
+some minor midgap and above-gap discrepancies, and a moderate lifetime
+parameter (G/D0   12
+
+It should be emphasized here that the _quasiparticle density of states_
+cannot be directly equated with the _tunneling conductance_. They are
+distinct spectra related by the tunneling matrix element |T|² according
+to the transfer-Hamiltonian formalism.[61] In fact, according to the
+well-known argument by Harrison,[30] any band-structure information
+contained in the former is not expected to carry over to the latter,
+because of cancellation between the bare DOS (   ∼ ∂k/∂ξ) and a group
+velocity factor (   ∼ ∂ξ/∂k) inherent in |T|². For our band structure,
+the vHs which alters the quasiparticle DOS should in principle be offset
+by group velocity suppression near the saddle points and not survive the
+tunneling. Therefore, any manifestation of the vHs in the tunneling
+spectra needs to rigorously justified. Strictly speaking, the
+cancellation argument is only exact for specular tunneling (transverse
+momentum conserved) into an isotropic material with simple parabolic
+dispersion, and could break down if the junction is diffusive[62] or if
+the band structure is sufficiently complex.[1, 30] For the latter case,
+|T|² can become significantly energy and **k** dependent and no longer
+removable from the tunneling integral. This essentially invalidates the
+background normalization procedure, making the spectral analysis highly
+nontrivial. Still, the good spectral agreement seen in Fig. 4(b)
+suggests a basic compatibility between the data and the vHs-enhanced
+_d_-wave model. To understand this we must explicitly consider how |T|²
+relates the calculated quasiparticle DOS with the tunneling conductance
+observed.
+
+## V Quasiparticle tunneling in the _d_-wave 2d van Hove scenario
+
+_Model_. We start with the general expression for quasiparticle
+tunneling across a normal-metal-insulator-superconductor (NIS) junction
+at zero temperature, derived from many-body formalism.[64]
+
+$$I = \pm 2\,\pi e\sum_{{\bf k}_{\bf q}}\,|T_{{\bf k}_{\bf q}}|^{2}[1 \mp\xi_{\bf k}/E_{\bf k}]\,\delta(\xi_{\bf q}-e\,V\pm E_{\bf k})$$
+(7)
+$$\times \,\theta(|e\,V|-E_{\bf k}).$$
+
+Here I is the current (per junction area) and V is the voltage, with the
+± sign indicating its polarity (_S_ relative to _N_). The subscripts
+**k** and **q** label the wave vectors for S and N. The step function
+_th_ represents the Fermi function at zero temperature, and the
+delta-function d reflects energy-conservation (elastic tunneling). For
+the superconductor, the quasiparticle and normal-state dispersions
+_E_**k** and _ξ_**k** are related by the gap function D_**k** according
+to $E_{\bf k}^{2} = \xi_{\bf k}^{2} + {\Delta_{\bf k}}^{2}$. For the
+metal electrode, a free-electron dispersion _ξ_**k** = ℏ²q²/2m is
+assumed. In the planar-junction approximation, the transmission becomes
+a one-dimensional problem (longitudinal along _x_) with the simple
+tunneling matrix element derived from the transfer-Hamiltonian
+formalism:[1]
+
+$$|T_{{\bf k}_{\bf q}}|^{2} = \frac{\partial\xi_{\bf k}}{\partial k_{L}}\frac{\partial\xi_{\bf q }}{\partial q_{L}}\,D(\varepsilon_{L})\,\delta(k_{T}-q_{T}).$$
+(8)
+
+Here, the subscripts L and T indicate directions longitudinal and
+transverse to the junction, the d function indicates conservation of
+transverse momentum (specular transmission), and the barrier
+transmission is given by the semiclassical expression[1, 29]
+
+D(ε_(L)) = gexp ⟨ − 2∫₀^(d)κdx ⟩,
+(9)
+
+where the longitudinal energy ε_(L) = E_(k) − ℏ²k_(T)²/2m according to
+the assumptions of elasticity and specularity, and
+$\kappa = \sqrt{2m[U(x,V) - \varepsilon_{L}]/\hbar^{2}}$ is the wave
+vector inside the barrier of height _U_(_x,V_), thickness d, and
+free-electron mass m. Assuming a square barrier in the low-transmission
+limit e^(−2πd) ≪ 1, the prefactor g can be written as[1, 30]
+
+$$g = \frac{16q_{L}\kappa^{2}k_{L}}{({q_{L}}^{2} + \kappa^{2})(\kappa^{2} + {k_{L}}^{2})}$$
+(10)
+
+to represent wave vector matching across the NIS junction. These
+expressions are exact for specular transmission across a planar junction
+within the elastic channel. Note that if $|T_{{\bf k}_{\bf q}}|^{2}$ is
+set to unity, Eq. (7) can be differentiated with respect to voltage to
+recover Giaever’s expression for quasiparticle DOS [Eq. (1)], apart from
+the $1 \mp\xi_{\bf k}/E_{\bf k}$ factor which is essentially the
+occupation probability reflecting the mixed electron/hole character of a
+quasiparticle.[65]
+
+In the conventional scenario based on an _s_-wave energy gap and
+free-electron dispersions, the tunneling equation is simplified in the
+continuum limit by the following arguments.
+
+(1) The group velocity factors eliminate the longitudinal band
+structures in converting the integrals over longitudinal momenta to
+integrals over energy; e.g., ∂ξ/∂k_(L) cancels with ∂k_(L)/∂ξ, which is
+a Jacobian in the coordinate-transformation dk_(L) → dξ.[30]
+
+(2) The barrier transmission factor D(ε_(L)) collapses the transverse
+momentum integration by falling off rapidly with k_(T) or q_(T), i.e.,
+narrow tunneling cone, thereby suppressing the transverse band
+structure.[66, 67]
+
+(3) The wave vector matching prefactor g is set to unity by invoking the
+WKB approximation, which is valid for junction interfaces sufficiently
+gradual compared with the electron wavelength.[29, 30]
+
+(4) The coherence factor $1 \mp\xi_{\bf k}/E_{\bf k}$ is set to unity,
+because $\xi_{\bf k}/E_{\bf k}$ is odd about the Fermi surface, i.e.,
+electron-hole symmetry.
+
+Equation (7) then becomes I = ±C∫_(−∞)^(∞)  dξ θ(|e V|−E)D(E), where the
+collapsed k_(T) integral, an uninteresting $\xi_{\bf q}$ integral, and
+all the numerical factors have been absorbed into the constant C.
+Assuming D(E) to be weak and making the variable transformation dε → dE,
+this expression can be differentiated to recover the conventional
+expression Eq. (1) in the zero-temperature limit. Note that the
+tunneling dI/dV spectra here does not measure the superconductor’s
+normal-state DOS, but only the quasiparticle DOS
+$E/\sqrt{E^{2}\!-\!\Delta^{2}}$ which is just the Jacobian ∂ξ/∂E. This
+is a well-known realization of the principle that tunneling is
+insensitive to any _bare_ DOS based on an independent-particle
+dispersion, but does directly reveal any _dressed_ DOS ’renormalized’ by
+many-body effects.[68]
+
+In the d-wave 2D van Hove scenario, this conventional simplification is
+generally not possible. Each of the last three arguments can break down
+as a consequence of the band structure. These possibilities will be
+discussed in the context of c-axis tunneling, a-axis tunneling, and
+band-structure asymmetry below. As a preliminary remark, it is important
+to point out that despite a quasi-2D band structure the probability for
+c-axis tunneling (junction perpendicular to the c axis) cannot be
+ignored. This is a natural but counterintuitive consequence of the
+band-structure cancellation argument. Essentially, since the
+longitudinal band structure drops out of the problem, a flat c-axis
+dispersion cannot suppress tunneling across a c-axis junction as in a
+usual transport process, which scales inversely with the effective mass.
+For an open energy contour such as a cylindrical FS, a low c-axis group
+velocity (∼ ∂ξ/∂k_(⊥)) also implies a large degeneracy of states
+(∼ ∂k_(⊥)/∂ξ), and the two factors would then offset each other. This
+effectively removes the effective mass from the tunneling problem, as is
+clear from Eq. (7). Therefore, even if the c-axis conductivity is low
+(e.g., σ_(a)/σ_(ab) ∼ 10⁻⁴ according to Ref. [35]) c-axis tunneling
+could still be appreciable. Note that here we are referring to tunneling
+_into_ a 2D system based on Cu-O planes, and make no assumptions about
+any tunneling _between_ the planes.
+
+First, it is not difficult to see that the highly idealized tunneling
+cone argument breaks down for a c-axis junction in the 2D scenario. For
+a simple FS and a square barrier of height U₀ and thickness d, the
+transmission probability Eq. (9) can be expanded into a Gaussian,
+D(ε_(L))^(∼) exp (−βk_(T)²), where
+$\beta\!=\!\hbar\,d\!I/\sqrt{2m\,U_{0}}$. For typical barrier parameters
+(d= 10 A, U₀ = 1 eV) this Gaussian is quite sharp (β ≈ 50), collimating
+the tunneling within a narrow momentum-cone (Δφ ≈ 8^(∘)) from the
+junction normal.[66, 67] In general, however, the tunneling cone width
+could vary with local FS curvature, depending on how k_(T) relates with
+k_(φ) in the $\xi_{\bf k}$ contour. For an open energy contour, such as
+along the axis of a cylindrical FS given by
+$\xi_{\bf k}\!=\!(\hbar^{2}/2m)(k_{\perp}^{2}+k_{\varphi}^{2})$, the
+radial k_(T) becomes independent of the azimuthal k_(φ). This is
+essentially the geometry for a c-axis junction in our 2D scenario. The
+tunneling cone can be said to "flatten out," as the longitudinal energy
+($\varepsilon_{L}\!=\!E_{\bf k}\!-\!\hbar^{2}k_{T}^{2}/2m$) in the
+barrier and therefore D(ε_(L)) become invariant over a given energy
+contour, apart from a small difference between $E_{\bf k}$ and
+$\xi_{\bf k}$. Without loss of generality ε_(L) can be set to a
+constant, making D(ε_(L)) uniform in energy. This uniform weighting
+leads to full survival of the transverse band structure through the
+Jacobian ∂k_(T)/∂ξ which, unlike the longitudinal band structure, is not
+cancelled by any reciprocal factors in the matrix element |T|² upon
+integration over energy. The tunneling conductance dI/dV should
+therefore be directly proportional to the 2D DOS lying transverse (in
+the ab plane) to the junction normal (c axis). In the literature this
+corresponds to a well-known _final-state effect_, first observed by
+tunneling into Landau-levels of electronic states localized on a
+semiconductor surface, which fully manifests the quantized transverse 2D
+band structure.[1, 69, 70] In our model case of a 2D superconductor, the
+vHs-enhanced quasiparticle DOS is expected to show up in c-axis
+tunneling.
+
+Second, the WKB approximation becomes invalid when the energy dispersion
+$\xi_{\bf k}$ goes through an extremum along the direction normal to the
+tunneling junction.[71, 72] For the cuprates, the situation corresponds
+to a-axis tunneling (junction perpendicular to the a axis) in the
+vicinity of the saddle point at ${\bf X}$. As was shown by van Bentum
+and Tsuei for the case of a-axis tunneling in the 2D van Hove
+scenario,[73] the longitudinal wave vector k_(L) is effectively rescaled
+relative to the BZ edge, in accordance with the effective mass
+method.[74] This rescaling causes the WKB coefficient g to vanish
+continuously as the BZ edge is approached, i.e., g → 0 as k_(L) → 0
+according to Eq. (10), signifying severe wave vector mismatch across the
+junction and diminished barrier transmission. In the WKB picture, a
+vanishing wave vector represents an extremely large electron wavelength
+λ compared with the length scale δx of the potential jump at the
+insulator-cuprate interface.[29, 30] The WKB approximation breaks down
+because the gradual-junction criterion λ ≪ δx is no longer satisfied. As
+will be demonstrated in the simulations below, this breakdown makes the
+tunneling probability highly energy dependent, producing a V-shaped
+spectral weighting which suppresses the gap singularities and gives rise
+to a quasilinear conductance background (see Fig. 5).
+
+Finally, the coherence factor $1\!\mp\xi_{\bf k}/E_{\bf k}$ cannot be
+ignored if electron-hole symmetry about the Fermi surface is broken. For
+our 2D tight-binding band [Eq. (6)] this happens because the FS is
+denseted from half filling by t^(′). This asymmetry corresponds to
+uneven quasiparticle occupation probability
+$\frac{1}{2}[1\!\mp\xi_{\bf k}/E_{\bf k}]$ above and below the energy
+gap. In essence the term $\xi_{\bf k}/E_{\bf k}$ is no longer odd in
+${\bf k}$ about $\xi_{\bf k}\!=\!0$ and does not cancel out upon
+summation [Eq. (7)] over the entire band. This vestige of the
+$\xi_{\bf k}/E_{\bf k}$ term is expected to produce spectral asymmetry
+about zero bias in tunneling, as implied by the ∓ sign. It could also
+introduce considerable directional weighting, by virtue of the
+anisotropies inherent in both $\xi_{\bf k}$ and $\Delta_{\bf k}$. Such a
+weighting may be quite nontrivial in the d-wave 2D van Hove scenario,
+considering for example that $\xi_{\bf k}/E_{\bf k}$ is unity along the
+gap nodes but varies with the energy in the saddle point directions. In
+our model calculations this anisotropy turns out to be small and only
+the spectral asymmetry is appreciable, although both effects could
+become important as the band asymmetry increases with larger t^(′).
+
+_Simulations._ To demonstrate quasiparticle tunneling in the d-wave 2D
+van Hove scenario, model calculations of the full tunneling equation
+[Eq. (7)] were performed, using the 2D tight-binding band dispersion
+[Eq. (6)] and the d-wave gap function [Eq. (5)]. Finite temperature was
+introduced by representing the step function as a Fermi function at
+temperature T. Finite quasiparticle lifetime was included by expressing
+the δ function as a Lorentzian of width Γ. The following model
+parameters were used: t^(′) = 0.16t, μ = 2.7t, Δ₀ = 0.1t, Γ = 0.02t, and
+k_(B)T = 0.002t. The band-structure parameters correspond to a doping
+level of ∼ 15% with the vHS exactly at μ. For the transmission
+probability D(ε_(L)), a symmetric trapezoidal barrier
+$U(V)\!=\!U_{0}\!-\!\frac{1}{2}|$eV| was assumed for simplicity, with a
+large height U₀ = 1.5 eV to minimize the voltage dependence. The Fermi
+energies were taken to be 0.5 eV for the cuprate and 2.5 eV for the
+metal. The in-plane Cu-O lattice parameter a = 3.9 A was used to set the
+scale of the wave vector ${\bf k}$. Two values for the barrier
+thickness, d = 2.5 and 20 A, were selected for comparison.
+
+Conductance dI/dV spectra simulating an a-axis junction and a c-axis
+junction are shown respectively in Figs. 5 and 6 in normalized units
+(arbitrary vs Δ₀/e). These spectra will be described and interpreted in
+the following. First, the a-axis junction spectra (Fig. 5) show heavily
+suppressed gap peaks at ∼  ± Δ₀/e, a steep quasilinear background,
+asymmetry about zero bias, appreciable subgap smearing, and a small
+midgap conductance. The thin-junction (d = 2.5 A) case looks remarkably
+similar to the suppressed-peak type of spectra shown as data in Fig. 3
+(Sec. III). As discussed above, the peak suppression and quasilinear
+background are due to a V-shaped spectral weighting associated with
+breakdown of the WKB approximation near the saddle point ${\bf X}$ where
+the FS touches the BZ edge. The spectral asymmetry reflects band
+asymmetry about the FS which is densed by the next-nearest-neighbor
+interaction t^(′). The zero-bias conductance, on the other hand, can be
+understood as available states introduced by the temperature and
+lifetime broadening. And the subgap smearing can be attributed to an
+appreciable tunneling cone width which is sensitive to the barrier
+thickness (β ≈ d) and to the local FS curvature. Decreasing the barrier
+thickness effectively widens the tunneling cone (smaller β), which
+explains why there is more subgap smearing for the thinner junction
+[Fig. 5(a)]. Increasing the barrier thickness, however, tends to amplify
+the voltage dependence U(V) implicit in D(ε_(L)), thus accounting for
+the additional spectral slope for the thicker junction [Fig. 5(b)]. No
+clear gap features show up in either case.
+
+The c-axis junction simulations show a very different spectral behavior
+which is extremely sensitive to the barrier thickness. The thin-junction
+result [Fig. 6(a)] has pronounced but broadened gap peaks at ±Δ₀, with a
+very small midgap conductance, no noticeable background slope, and
+overall asymmetry favoring positive bias. This is essentially the
+vHs-enhanced d-wave quasiparticle DOS we expected, as the tunneling cone
+flattens out with the geometry to reveal the 2D band structure
+transverse to the junction normal. The spectral asymmetry follows from
+the band structure asymmetry which shows up through the coherence
+factor. WKB breakdown effects do not apply here, since the longitudinal
+wave vector k_(L) does not cross the BZ edge. The thick-junction result
+[Fig. 6(b)], on the other hand, shows dull peaks with considerable
+subgap smearing and a larger zero-bias conductance. This behavior can be
+understood in terms of the cross-shaped FS shape, which introduces a
+polar-angle
+
+Figure 5: Simulations of quasiparticle tunneling for an a-axis junction
+in the d-wave 2D van Hove scenario: (a) for a thin junction (d = 0.25
+nm); (b) for a thick junction (d = 2.0 nm). Note the spectral
+suppression, smearing and asymmetry, which are generic anomalies seen in
+the high-T_(c) cuprates (cf. Fig. 3).
+
+Figure 6: Simulations of quasiparticle tunneling for a c-axis junction
+in the d-wave 2D van Hove scenario: (a) for a thin junction (d = 0.25
+nm); (b) for a thick junction (d = 2.0 nm). Note the spectral
+enhancement in (a), which is essentially the vHs-enhanced d-wave
+quasiparticle DOS [cf. Fig. 4(b)].
+
+weighting through k_(T) in the transmission probability _D_(e_(L))
+ ∼ exp (−βk_(T)²). Since k_(T) is smallest along the k_(x) = +-_k__y_
+direction for this geometry, this weighting favors the gap nodes over
+the gap maxima and, for a sufficiently thick barrier (because b _d_),
+counters the vHs enhancement which has essentially the opposite
+weighting. Subgap smearing and zero-bias conductance follow naturally,
+since the smaller gaps are more susceptible to the thermal and lifetime
+broadening. A mild spectral slope can also arise [Fig. 6(b)], as the
+larger barrier thickness enhances the voltage-dependence implicit in
+_D_(e_(L)). It is important to note that these effects are negligible
+for the thin barrier case, i.e., _D_(e_(L)) - 1 in the limit d - 0 and
+the tunneling conductance essentially becomes the full quasiparticle
+DOS.
+
+Another model case of interest is the "’nodal" [110] junction, i.e.,
+with the junction normal oriented along a nodal axis of the _d__x_2-_y_2
+order parameter. Hu and co-workers [51] as well as Tanaka and co-workers
+[52] have considered this nodal junction and, more generally,
+nonnational junction scenarios theoretically, using the
+Bogoliubov-deGennes equations [63] and the formalism of Blonder,
+Tinkham, and Klapwijk. [46] Their simulations demonstrate the existence
+of a midgap surface state which can give rise to a zero-bias conductance
+peak (ZBCP) in the tunneling spectra. As mentioned in Sec. II, such
+spectra have been observed in our polycrystalline Hg-cuprate samples
+[Fig. (2)], as well as by previous workers in other cuprates,
+particularly on 110 tunnel junctions. [50] We will examine the
+appearance of the ZBCP experimentally in a separate paper involving
+controlled _in-plane_ junctions. [54] Here it suffices to remark that
+since the nodal axis lies far away from the saddle points, the
+nodal-junction model of Hu and co-workers is largely unaffected by our
+band-structure arguments given above, thus complementing the overall d
+-wave 2D van Hove scenario for quasiparticle tunneling.
+
+It is important to note that the spectral simulations would be
+characteristically different if an isotropic _s_-wave pairing symmetry
+were assumed. In such an _s_-wave 2D van Hove scenario, the absence of
+gap distribution would raise and sharpen the conductance peaks for the
+_c_-axis junction case while flattening the subgap conductance for both
+the _c_-axis and _a_-axis junction cases. This would lead to a more
+"’U-shaped" spectral behavior, although the quasilinear background
+coming from the _a_-axis contribution would not change significantly, as
+could be seen by comparing Fig. 5 with the _s_-wave simulations given in
+Ref. [73]. Furthermore, the ZBCP associated with a "nodal" junction in
+the _d_-wave scenario would not appear at all in such a non-nodal
+_s_-wave scenario, [51, 52] regardless of the band structure.
+
+It should also be noted that if the pairing symmetry were a mixture of d
+wave and s wave, the problem would involve a spectral superposition of
+the component symmetries depending on their relative amplitude and
+phase. In the d + _is_ scenario with s as the minor component, for
+example, one would expect the _c_-axis and _a_-axis junction cases to
+show additional subgap structures associated with the smaller _s_-wave
+gap. [54] For the nodal-junction case, a ZBCP structure could still
+occur as long as there is a phase sign change in the order parameter,
+[51, 52] although the ZBCP would be split by broken time reversal
+symmetry. [50, 53] These issues deserve more detailed investigation.
+[54] Here we merely observe that the absence of such mixed-symmetry
+spectral features in our tunneling data are consistent with a
+predominantly _d_-wave order parameter in the Hg-cuprates at 4.2 K,
+although the existence of a subdominant _s_-wave component at lower
+temperatures or in a magnetic field cannot be ruled out. [50, 53]
+
+## VI Data interpretation and discussion
+
+These simulations illustrate the large variety of spectral behavior in
+the _d_-wave 2D van Hove scenario, sensitive to junction orientation,
+thickness and even the FS shape. This explains the remarkable diversity
+of tunneling results observed in the high-_T__c_ cuprates. Spectral
+suppression associated with _a_-axis tunneling offers a natural
+band-structure explanation for the characteristic quasilinear
+background, without the need to invoke spurious effects or esoteric
+mechanisms. Spectral enhancement associated with tunneling
+_perpendicularly into_ the _ab_ plane provides a critical link between
+the enhanced-peak data and the _d_-wave 2D van Hove scenario by allowing
+a full manifestation of the quasiparticle DOS. Considering the spectral
+complexity introduced by the gap anisotropy and the band structure, any
+simple agreement with the BCS DOS would be fortuitous. And without
+precise control of the junction, no detailed comparison between data and
+model would be possible, particularly in the case of polycrystalline
+samples. For our data, the _d_-wave van Hove model does provide a
+general framework for spectral interpretation, with the simulations
+reproducing most of the generic spectral features.
+
+Qualitatively speaking, each of the measured spectra shown in Fig. 1 can
+be described as a superposition of the thin-junction _c_-axis model
+[Fig. 6(a)] and the thick-junction _a_-axis model [Fig. 5(b)]. An
+equally weighted superposition of this sort is given in Fig. 7(a),
+demonstrating the resemblance to our data, particularly for Hg-1223
+[Fig. 1(c)]. Such a "combined" junction could arise, for example, with
+the STM tip being in contact with a step edge between crystal platelets
+which are known to be abundant in cuprate samples. It could also happen
+if the tip were to break through a pristine _c_-axis crystal face,
+allowing _a_-axis tunneling to contribute. The latter scenario would
+explain why quasilinear spectral backgrounds are seen on our _c_-axis
+Hg-1212 films [Fig. 1(b)], especially when there is tip-sample contact.
+Essentially the _c_-axis contribution provides the enhanced gap peaks,
+while the _a_-axis contribution provides the quasi linear background.
+Peak width and subgap smearing could be adjusted through the barrier and
+broadening parameters d, U0, _k__B__T_, and G, while the spectral
+asymmetry and background slope could vary according to the specific
+band-structure parameters t, _t_’, and m. The degree of the asymmetry,
+for example, would increase with increasing _t_’. The sense of the
+asymmetry, on the other hand, would change with the doping level
+depending on where the vHs lies relative to the Fermi level m. This
+latter possibility is demonstrated by another simulation of the
+"combined" junction, shown in Fig. 7(b), with the vHs shifted 10 meV
+below the Fermi level. Note that the shift has reversed the spectral
+asymmetry without altering the overall spectral features.
+
+The overall band structure picture is supported by recent ARPES
+measurements on YBa₂Cu₃O_(7 + δ) (YBCO) and BSCCO, which show a
+characteristically densed Fermi surface that does _nearly_ (within  20
+meV) but not _directly_ cross van Hove saddle points in the band
+structure.[19, 20, 21] In fact, these saddle points appear to be
+_extended_ in the bottom half of the energy band, the vHs being more
+singular and asymmetric than described by the 2D tight-binding
+dispersion.[75, 76] For our model, this _extended_-υHs scenario would
+imply: (1) stronger gap peaks for c-axis tunneling, because of the vHs
+enhancement; (2) steeper peak suppression and quasilinear background for
+a-axis tunneling, by virtue of the WKB breakdown; (3) larger spectral
+asymmetry, because of the increased band asymmetry about the Fermi
+level. These corrections could further improve agreement between our
+data and model, assuming that the Hg cuprates have similarly extended
+van Hove singularities.
+
+We complete the data interpretation by addressing a noticeable midgap
+discrepancy between our data and model. It is apparent by inspection
+that the gap bottom is more rounded in the data than in the model, even
+if a larger broadening parameter were used. This problem is quite
+distinct in the Hg-1212 data [Fig. 1(b)], although pretty negligible for
+Hg-1223 [Fig. 1(c)]. It was also apparent in our fit of the Hg-1201 data
+to the vHs-enhanced d-wave DOS [Fig. 1(a)]. A plausible reason for the
+discrepancy could be the effects of impurity scattering on the nodal
+d-wave order parameter. Near a nodal line in the Brillouin zone, states
+with equal but opposite order parameter values are effectively averaged
+together by the impurity scattering.[77, 78, 79] This widens the gap
+nodes and increases the available states near midgap. The former implies
+a smaller distribution of gap values and therefore a more rounded
+low-bias spectral behavior. The latter leads naturally to zero-bias
+conductance, obviating the need for any smearing parameters to introduce
+states into the gap. Both effects would help to explain the midgap
+discrepancy between our data and model.
+
+The overall consistency between our tunneling data and the d-wave 2D vHs
+model enables us to determine the d-wave gap maxima Δ₀ for the Hg
+cuprates. It is clear from our c-axis junction simulation in Fig. 6(a)
+that the gap peaks coincide with ±Δ₀ to fairly high accuracy. The
+vHs-enhanced d-wave gap singularities are relatively impervious to
+displacement by energy smearing because of their symmetric shape. Even
+if larger smearing parameters (lifetime, thermal, or otherwise) were
+introduced, these d-wave broadened singularities would not shift
+appreciably outward from ±Δ₀. This is in contrast to the asymmetrically
+shaped s-wave singularities which have the asymptotic square-root form.
+With little uncertainty, therefore, the d-wave energy-gap maxima can be
+taken as Δ₀≈33, 50, and 75 meV, respectively, for Hg-1201, Hg-1212, and
+Hg-1223, using the vHs-enhanced d-wave DOS fit presented earlier [Fig.
+4(b)] as a heuristic example. These values correspond to reduced-gap
+ratios of 2Δ₀/k_(B)T_(C)≈7.9, 9.5, and 13, assuming optimally doped
+T_(c) values of 97, 123, and 135 K, respectively. These 2Δ₀/k_(B)T_(C)
+ratios are substantially larger than the standard BCS value of 3.54,[86]
+but comparable to the large gap values reported for YBCO and BSCCO. For
+example, recent ARPES measurements on BSCCO indicate a d-wave energy gap
+with Δ₀≈30 meV (2Δ₀/k_(B)T_(C)≈8),[80] and Δ₀≈27 meV
+(2Δ₀/k_(B)T_(C)≈7.2).[81] Break-junction tunneling measurements on BSCCO
+and YBCO[82, 83] indicate gap values of Δ₀≈32 meV (2Δ₀/k_(B)T_(C)≈8.6)
+and Δ₀≈29 meV (2Δ₀/k_(B)T_(C)≈7.6), respectively.
+
+The reduced-gap values for the Hg cuprates can be compared with data for
+other high-T_(c) materials. A masterplot of 2Δ₀/k_(B)T_(C) vs T_(c) is
+shown in Fig. 8. All the materials represented are presumed to have
+optimally doped T_(c)’s. The STM tunneling data for the Hg cuprates
+reported in this work are indicated by solid circles and underlined
+labels. STM tunneling data from previous works[42, 47] are indicated by
+open circles. The break-junction tunneling data on BSCCO, YBCO, its 60 K
+phase (YBCO-60 K) and La_(2 − x)Sr_(x)CuO_(4 − x) (LSCO) are indicated
+by solid squares.[82, 83, 84] The point-contact junction data from
+Nd_(2 − x)Ce_(x)CuO_(4 − y), NCCO, the noncuprate Ba_(1 − x)K_(x)BiO_(x)
+(BKBO) and Hg-1201 are indicated by solid triangles.[85, 51] The ARPES
+data for BSCCO are indicated by asterisks.[80, 81] Although a subset of
+all the published data, these data points are the most meaningful
+because they were taken from a selection of spectra which show distinct
+gap features. The break-junction tunneling and ARPES data are especially
+reliable since these measurements involve breaking the sample _in situ_,
+thus ensuring bulk stoichiometry. Considered together, these data
+suggest that for optimal doping 2Δ₀/k_(B)T_(C) tends to increase with
+increasing T_(c) . The lower T_(c) materials hover just above the BCS
+weak-coupling limit of 3.54 and well within the conventional
+
+Figure 7: Simulations of quasiparticle tunneling for a ”combined”
+junction in the d-wave 2D van Hove scenario, using an equally weighted
+superposition of the thick a-axis [Fig. 5(b)] and thin c-axis junction
+[Fig. 6(a)]; (a) with the vHs directly at the Fermi level; (b) with the
+vHs shifted 10 meV below the Fermi level. Note that the doping level
+shift reverses the spectral asymmetry without altering the overall
+spectral features.
+
+strong-coupling regime (∼3.6−5.2).[68, 67] The preponderance of data
+points at 2Δ₀/k_(B)T_(c) 6.5−8.5 for the higher-T_(c) YBCO and BSCCO
+already indicates a serious deviation from the BSC range. The Hg-cuprate
+data suggest that 2Δ₀/k_(B)T_(c) continues, to increase with elevated
+T_(c) . A simple linear fit is shown as the dotted curve in the
+masterplot to illustrate this upward trend, with the requirement that it
+approaches the BCS limit as T_(c) → 0. In essence, whatever mechanism is
+responsible for enhancing the critical temperature seems also to be
+responsible for the deviation of the reduced-gap ratio from BCS
+universality. This correlation provides an important criterion for the
+understanding of high- T_(c) superconductivity.
+
+## VII Summary
+
+In summary, we have presented quasiparticle tunneling spectra on the
+high-T_(c) superconductors Hg₁Ba₂Ca_(n − 1)Cu_(n)O_(2n + 2 δ) (n =
+1,2,3), and shown the spectra to be consistent with d_(x²−, y²) order
+parameter symmetry in the 2D van Hove scenario. The band structure
+appears to play a significant role in the tunneling: the 2D van Hove
+singularity enhances the quasiparticle density-of-states peaks, in
+conjunction with broadening by the nodal d-wave gap anisotropy; the low
+c-axis dispersion allows the spectral enhancement to be manifested, by
+effectively flattening out the tunneling cone; the saddle points in the
+energy dispersion along the a axis introduce severe wave vector mismatch
+across the tunnel junction, resulting in a quasilinear spectral slope
+through breakdown of the WKB approximation; the next-nearest-neighbor
+interaction in the CuO₂ lattice and doping dependence of the densed
+Fermi surface produce spectral asymmetry. The symmetric shape of the
+vHs-enhanced d-wave gap singularity makes it impervious to displacement
+by energy smearing, thus allowing accurate determination of the d-wave
+energy-gap maximum Δ₀. The reduced-gap ratios 2Δ₀/k_(B)T_(c) were
+determined to be 7.9, 9.5, and 13, respectively, for optimally doped
+Hg-1201, Hg-1212, and Hg-1223. These values are substantially larger
+than the BCS weak coupling limit of 3.54. A comparison with data from
+other high-T_(c) cuprates indicates an overall trend of 2Δ₀/k_(B)T_(c)
+rising with T_(c) , in violation of BCS universality. This trend
+suggests the large 2Δ₀/k_(B)T_(c) to be intimately related to the T_(c)
+enhancement mechanism, providing another key criterion for the
+understanding of high-T_(c) superconductivity, along with the 2D van
+Hove scenario and d-wave order parameter symmetry.
+
+###### Acknowledgements.
+
+J.Y.T.W. would like to thank T. Jung, A. Levy, and J. Rosen for their
+valuable technical guidance, as well as D. M. Newns and M. Takigawa for
+helpful discussions. J.Y.T.W. is grateful to IBM T. J. Watson Research
+Center for hosting him (during his research), as well as to the
+University of Nijmegen for their hospitality during his visit. Critical
+reading of the manuscript by N.-C. Yeh was greatly appreciated. This
+work was supported by the Republic of China National Science Council,
+the New York State Institute on Superconductivity, and the State of
+Texas through the Texas Center for Superconductivity at the University
+of Houston.
+
+## References
+
+* [1] E. L. Wolf, _Principles of Electron Tunneling Spectroscopy_
+(Oxford University Press, Oxford, 1985); C. B. Duke, _Tunneling in
+Solids_ (Academic, New York, 1969). * [2] G. Bednorz and K. A. Muller,
+Z. Phys. B **64**, 189 (1986). * [3] M. K. Wu, J. R. Ashburn, C. J.
+Torng, R. L. Meng, L. Gao, Z. J. Huang, Y. Q. Wang, and C. W. Chu, Phys.
+Rev. Lett. **58**, 908 (1987). * [4] J. R. Kirtley, Int. J. Mod. Phys. B
+**4**, 201 (1990). * [5] T. Hasegawa, H. Ikuta, and K. Kitazawa, in
+_Physical Properties of High Temperature Superconductors III_, edited by
+D. M. Ginsberg (World Scientific, Singapore, 1992), p. 525. * [6] P. J.
+M. van Bentum and H. van Kempen, in _Scanning Tunneling Microscopy I_,
+edited by H. J. Guntherodt and R. Wiesendanger, Vol. 20 of _Springer
+Series in Surface Science_ (Springer, Berlin, 1992), p. 201. * [7] J. R.
+Kirtley, Phys. Rev. B **41**, 7201 (1990). * [8] P. J. M. van Bentum _et
+al._, Phys. Rev. Lett. **60**, 369 (1988). * [9] M. Tachiki, S.
+Steglich, F. Adrian, and H. Adrien, Z. Phys. B **80**, 161 (1990). *
+[10] W. A. Atkinson and J. P. Carbotte, Phys. Rev. B **51**, 1161
+(1995). * [11] P. Monthoux, A. V. Balatsky, and D. Pines, Phys. Rev. B
+**46**, 14 803 (1992).
+
+Figure 8: Masterplot of 2Δ₀/k_(B)T_(c) vs T_(c) for various high-T_(c)
+cuprates, including the noncuprate BKBO for comparison. All the
+materials represented are presumed to have optimally doped T_(c)’s The
+STM tunneling data for the Hg cuprates reported in this work are
+indicated by solid circles and underlined labels. STM tunneling data
+from previous works (Refs. 42 and 47) are indicated by open circles. The
+break-junction tunneling data on BSCCO, YBCO, YBCO-60 K and LSCO are
+indicated by solid squares (Refs. 82–84). The point-contact junction
+data from NCCO, BKBO, and Hg-1201 are indicated by solid triangles
+(Refs. 41 and 85). The ARPES data for BSCCO are indicated by asterisks
+(Refs. 80 and 81). The plot reveals a dramatic deviation of
+2Δ₀/k_(B)T_(c) from BCS universality as T_(c) increases, as illustrated
+by the simple linear fit (dotted curve) through the BCS weak-coupling
+limit of 3.54.
+
+* [12] N. Bulut and D. J. Scalapino, Phys. Rev. B **45**, 2371 (1992). *
+[13] P. W. Anderson and Z. Zou, Phys. Rev. Lett. **60**, 132 (1988); P.
+W. Anderson, _ibid._**67**, 660 (1991). * [14] H. J. Tao, A. Chang,
+Farun Lu, and E. L. Wolf, Phys. Rev. B **45**, 10 622 (1992). * [15] C.
+M. Varma _et al._, Phys. Rev. Lett. **63**, 1996 (1989). * [16] J.
+Hartge _et al._, J. Phys. Chem. Solids **54**, 1359 (1993). * [17] C. C.
+Tsuei _et al._, Phys. Rev. Lett. **73**, 593 (1994); J. R. Kirtley _et
+al._, Europhys. Lett. **36**, 707 (1996); C. C. Tsuei _et al._, Science
+**271**, 329 (1996); C. C. Tsuei _et al._ (unpublished). * [18] For
+examples, see D. Pines and P. Monthoux, J. Phys. Chem. Solids **56**,
+1651 (1995); N. Bulut and D. J. Scalapino, Phys. Rev. B **54**, 14 971
+(1996). * [19] Z. X. Shen _et al._, Phys. Rev. Lett. **70**, 1553
+(1993). * [20] D. S. Dessau _et al._, Phys. Rev. Lett. **71**, 2781
+(1993). * [21] R. Liu _et al._, Phys. Rev. B **52**, 553 (1995). * [22]
+R. S. Markiewicz, J. Phys. Chem. Solids **54**, 1153 (1993); R. S.
+Markiewicz (unpublished). * [23] W. M. Que and G. Kirczenow, Phys. Rev.
+B **38**, 4601 (1988). * [24] T. Schneider, H. Deraedt, and M. Frick, Z.
+Phys. B **76**, 3 (1989). * [25] C. Zhou and H. J. Schulz, Phys. Rev. B
+**45**, 7397 (1992). * [26] F. Wenger and S. Ostlund, Phys. Rev. B
+**47**, 5977 (1993). * [27] K. Kouznetsov and L. Coffey, Phys. Rev. B
+**54**, 3617 (1996). * [28] J. Bok and J. Bouvier, Physica C **274**, 1
+(1997). * [29] S. Gasiorowicz, _Quantum Physics_ (Wiley, New York,
+1974), pp. 84-86, Appendix 3. * [30] W. A. Harrison, Phys. Rev. **123**,
+85 (1961). * [31] S. N. Putlin, E. V. Antipov, O. Chmaissem, and M.
+Marezio, Nature (London) **362**, 226 (1993). * [32] A. Schilling, M.
+Cantoni, J. D. Guo, and H. R. Ott, Nature (London) **363**, 56 (1993). *
+[33] C. W. Chu, L. Gao, F. Chen, Z. J. Huang, R. L. Meng, and Y. Y. Xue,
+Nature (London) **365**, 323 (1993); R. L. Meng _et al._, Physica C
+**216**, 21 (1993). * [34] D. L. Novikov and A. J. Freeman, Physica C
+**212**, 233 (1993); C. O. Rodriguez, N. E. Christensen, and E. L. P.
+Blanca, _ibid._**216**, 12 (1993). * [35] J. M. Harris, H. Wu, N. P.
+Ong, R. L. Meng, and C. W. Chu, Phys. Rev. B **50**, 3246 (1994); A.
+Carrington _et al._, Physica C **234**, xx (1994). * [36] Q. Xiong _et
+al._, Phys. Rev. B **50**, 10 346 (1994); M. Nunez-Regueiro _et al._,
+Science **262**, 97 (1993); C. W. Chu _et al._, Nature (London) **365**,
+323 (1993). * [37] D. M. Newns _et al._, Phys. Rev. Lett. **73**, 1695
+(1994); C. C. Tsuei _et al._, Chin. J. Phys. **31**, 795 (1993). * [38]
+F. Chen, Z. J. Huang, R. L. Meng, Y. Y. Sun, and C. W. Chu, Phys. Rev. B
+**48**, 16 047 (1993). * [39] Y. Kubo, Phys. Rev. B **50**, 3181
+(1994). * [40] A. Carrington, A. P. Mackenzie, C. T. Lin, and J. R.
+Cooper, Phys. Rev. Lett. **69**, 2855 (1992). * [41] J. Chen, J. F.
+Zasadzinski, K. E. Grey, J. L. Wagner, and D. G. Hinks, Phys. Rev. B
+**49**, 3683 (1994). * [42] G. T. Jeong, J. I. Kye, S. H. Chun, S. Lee,
+S. I. Lee, and Z. G. Khim, Phys. Rev. B **49**, 15 416 (1994). * [43] C.
+Rossel, P. Bauer, J. Karpinski, A. Schilling, and A. Morawski
+(unpublished). * [44] C. C. Tsuei, A. Gupta, G. Trafas, and D. Mitzi,
+Science **263**, 1259 (1994). * [45] J. Y. T. Wei, Ph.D. thesis,
+Columbia University, New York, 1996. * [46] G. E. Blonder, M. Tinkham,
+and T. M. Klapwijk, Phys. Rev. B **25**, 4515 (1982). * [47] C. Renner
+and O. Fisher, Phys. Rev. B **51**, 9208 (1995); Physica C **235**, 53
+(1994); B. Barbiellini, O Fischer, M. Peter, C. Renner, and M. Weger,
+_ibid._**220**, 55 (1994). * [48] E. G. J. Boon, A. J. A. van Roy, and
+H. van Kempen, Physica C **235-240**, 1879 (1994); E. G. J. Boon and H.
+van Kempen (unpublished). * [49] D. Coffey and L. Coffey, Phys. Rev.
+Lett. **70**, 1529 (1993); Phys. Rev. B **53**, 15 292 (1996). * [50]
+For example, see, M. Covington _et al._, Phys. Rev. Lett. **79**, 277
+(1997), and references therein. * [51] C. R. Hu, Phys. Rev. Lett.
+**72**, 1526 (1994); (unpublished); J. Yang and C. R. Hu, Phys. Rev. B
+**50**, 16 766 (1994); J. H. Xu, J. H. Miller, and C. S. Ting,
+_ibid._**53**, 3604 (1996). * [52] Y. Tanaka and S. Kashiwaya, Phys.
+Rev. Lett. **74**, 3451 (1995); S. Kashiwaya _et al._, Phys. Rev. B
+**51**, 1350 (1995). * [53] M. Fogelstrom, D. Rainer, and J. A. Sauls,
+Phys. Rev. Lett. **79**, 281 (1997). * [54] J. Y. T. Wei, N.-C. Yeh, D.
+F. Garrigus, and M. Strasik (unpublished). * [55] D. V. Averin and K. K.
+Likharev, J. Low Temp. Phys. **62**, 345 (1986). * [56] H. R. Zeller and
+I. Giaever, Phys. Rev. **181**, 789 (1969). * [57] B. G. Orr, J. R.
+Clem, H. M. Jaeger, and A. M. Goldman, Phys. Rev. B **34**, 3491
+(1987). * [58] I. Giaever, Phys. Rev. Lett. **5**, 147 (1960). * [59] R.
+C. Dynes, V. Narayanamurti, and J. P. Garno, Phys. Rev. Lett. **41**,
+1509 (1978). * [60] H. Won and K. Maki, Phys. Rev. B **49**, 1397
+(1994). * [61] J. Bardeen, Phys. Rev. Lett. **6**, 57 (1961). * [62] R.
+Stratton, J. Phys. Chem. Solids **23**, 1177 (1962). * [63] P. G. de
+Gennes, _Superconductivity of Metals and Alloys_ (Benjamin, New York,
+1966). * [64] G. D. Mahan, _Many Particle Physics_ (Plenum, New York,
+1990), Chap. 9. * [65] J. R. Schrieffer, _Theory of Superconductivity_
+(Benjamin, New York, 1964). * [66] G. Beuermann, Z. Phys. B **44**, 29
+(1981). * [67] E. L. Wolf and G. B. Arnold, Phys. Rep. **91**, 31
+(1982). * [68] M. H. Cohen, L. M. Falicov and J. C. Philips, Phys. Rev.
+Lett. **8**, 316 (1962). * [69] D. J. Ben Daniel and C. B. Duke, Phys.
+Rev. **160**, 679 (1967). * [70] D. C. Tsui, Phys. Rev. Lett. **24**,
+303 (1970). * [71] J. V. Morgan and E. O. Kane, Phys. Rev. Lett. **3**,
+466 (1959). * [72] R. T. Shuey, Phys. Rev. **137**, A1268 (1965). * [73]
+P. J. M. van Bentum and C. C. Tsuei, in _Superconductivity and Its
+Applications_,edited by H-S. Kwok _et al._, AIP Conf. Proc. No. 273
+(AIP, New York, 1992), p. 277. * [74] W. A. Harrison, _Solid State
+Theory_ (Dover, New York, 1979); S. Datta, _Quantum Phenomena_
+(Addison-Wesley, Reading, MA, 1989). * [75] K. Gofron _et al._, Phys.
+
+* (80) M. R. Norman, M. Randeria, H. Ding, and J. C. Campuzano, Phys.
+Rev. B **52**, 615 (1995). * (81) H. Ding _et al._, Phys. Rev. Lett.
+**74**, 2784 (1995). * (82) Y. G. Ponomarev _et al._, Phys. Rev. B
+**52**, 1352 (1995); Y. G. Ponomarev _et al._, Physica C **243**, 167
+(1995). * (83) D. Mandrus, J. Hartge, C. Kendziora, L. Mihaly, and L.
+Forro, Europhys. Lett. **22**, 199 (1993). * (84) H. Murakami, S.
+Ohbuchi, and R. Aoki, J. Phys. Soc. Jpn. **63**, 2653 (1994). * (85) J.
+F. Huang _et al._, Nature (London) **347**, 369 (1990). * (86) J.
+Bardeen, L. N. Cooper, and J. R. Schrieffer, Phys. Rev. **108**, 1175
+(1957). * (87) J. P. Carbotte, Rev. Mod. Phys. **62**, 1027 (1990).

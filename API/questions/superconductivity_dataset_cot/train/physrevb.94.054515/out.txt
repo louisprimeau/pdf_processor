@@ -1,0 +1,595 @@
+
+
+# Superconducting properties of the noncentrosymmetric superconductor Re_{6}Hf
+
+D. Singh,^{1} A. D. Hillier,^{2} A. Thamizhavel,^{3} and R. P. Singh^{1,}
+
+rpsingh@iiserb.ac.in ^{1}Indian Institute of Science Education and Research Blhopal, Blhopal 462066, India
+
+^{2}ISIS facility, STFC Rutherford Appleton Laboratory, Harwell Science and Innovation Campus, Oxfordshire, OX11 0QX, United Kingdom
+
+^{3}Department of Condensed Matter Physics and Materials Science, Tata Institute of Fundamental Research, Mumbai 400005, India
+
+^{4}Department of Condensed Matter Physics and Materials Science, Tata Institute of Fundamental Research, Mumbai 400005, India
+
+###### Abstract
+
+We report synthesis and detailed characterization of the noncentrosymmetric superconductor Re_{6}Hf using powder x-ray diffraction (XRD), magnetization, transport, and thermodynamic measurements. XRD confirmed the noncentrosymmetric, \alpha-Mn cubic structure in Re_{6}Hf with the cubic cell parameter a=9.6850(3) A. Resistivity, DC, and AC magnetization measurements confirmed the type-II superconductivity in Re_{6}Hf with the transition temperature T_{c}^{\rm onset}\sim 5.96 K, having the lower critical field H_{c1}(0)\,5.6 mT and upper critical field H_{c2}(0) 12.2 T. The electronic specific heat data fits well with the single-gap BCS model. The Sommerfeld coefficient (\gamma) also shows linear relation with the magnetic field. All above results suggest s-wave superconductivity in Re_{6}Hf.
+
+2016 12 May 2016 94, 054515 2016 12 May 2016 94, 054515 12 May 2016 94, 054515 12 May 2016 94, 054515 12 May 2016 94, 054515 12 May 2016 94, 054515 12 May 2016 94, 054515 12 May 2016
+
+## I Introduction
+
+In 1957, Bardeen, Cooper, and Schrieffer (BCS) explained the origin of superconductivity using the concept of Cooper pairs [1]. Cooper pairs are formed from electrons that have equal and opposite crystal momenta and spin. Since electrons are fermions, the wave function must be antisymmetric with respect to the exchange of two electrons. The two electron wave function can be made asymmetric by considering the spatial and spin components. If the spatial wave function is symmetric/antisymmetric, then the spin wave function must be antisymmetric/symmetric. This is termed as spin-singlet state/spin-triplet state. This scenario is only possible if inversion symmetry is present in crystal structure [2,3].
+
+There have been intense theoretical and experimental studies on superconducting systems lacking spatial inversion symmetry, following the discovery of unconventional superconductivity in the noncentrosymmetric (NSC) heavy fermion compound CePt_{3}Si [4]. In a NCS superconductor (SC), the absence of the center of inversion induces Rashba-type antisymmetric spin-orbit coupling (ASOC) due to an asymmetric potential gradient along the crystal axis. This momentum dependent spin structure in consequence lifts the degeneracy of the conduction band electrons at the Fermi surface resulting into the possible mixing of spin-singlet and spin-triplet pairing states. The magnitude of ASOC splitting actually dictates the extent of mixing of spin-singlet and spin-triplet components [5-10]. The possible mixing of pair states in NCS superconductors may lead to various superconducting properties such as the upper critical field exceeding Pauli limit, point or line nodes in the superconducting gap parameter resulting into nodal excitations in penetration depth, heat capacity and other thermodynamic measurements, and time reversal symmetry breaking in the superconducting condensate [11].
+
+Apart from CePt_{3}Si several other Ce- and U-based heavy fermionic NCS SCs, e.g., CeRhSi_{3}[12,13], CeIrSi_{3}[14,15], CeCoGe_{3}[16], and UIr [17] were discovered with applied pressure, however this does not resolve the problem as strong electron correlations in the f-electron systems with superconductivity at the vicinity of the magnetic quantum critical point hinder the pursuit to realize the effects of ASOC and the absence of an inversion center on superconductivity. Superconductivity in these systems is expected to be due to the unconventional pairing mechanism, most likely driven by magnetic fluctuations. Hence, several weakly correlated and nonmagnetic NCS superconducting systems, e.g., Li_{2}(Pd,Pt)_{3}B [18-22], LaNiC_{2}[23,24], Y_{2}C_{3}[25], L_{2}C_{3}[26] Re_{3}W [27], Mg_{10}Ir_{19}B_{16}[28], LaMP(M=Ir, Rh and P=P, As) [29], Mo_{3}Al_{2}C [30,31], Rh_{2}Ga_{9}[32,33], Ir_{2}Ga_{9}[32,33], Ru_{7}B_{3}[34-36], Nb_{0.18}Re_{0.82}[37-39], La_{7}Ir_{3}[40], and Re_{2}Zr [41,42] were investigated to understand the primary mechanism for unconventional superconductivity in NCS SCs. It was found that only a few of them exhibited unconventional superconducting behavior including triplet pairing [10,22,40,41,43] and upper critical field close to the Pauli limit [25,31]. Others exhibited only dominant s-wave character.
+
+Theoretical results suggest that ASOC play an important role in controlling the mixing of spin-singlet and spin-triplet pairing channel. In NCS superconductor Li_{2}(Pd,Pt)_{3}B [10,18-22,44], it was shown that the pairing state can be tuned from spin-singlet to spin-triplet by changing the strength of ASOC. Here substitution of the Pt element with strong spin-orbital coupling to the site of the Pd element changes the overall mixing of pairing states leading to unconventional superconductivity.
+
+Recently, noncentrosymmetric superconductor Re_{6}Zr shows an unconventional superconducting ground state having the signature of time reversal symmetry breaking with dominant s-wave pairing by muon spectroscopy [41]. As spin-orbital coupling varies as Z^{4}, by substituting Zr by Hf, the strength of the spin-orbit coupling can be enhanced by a factor of 10 in Re_{6}Hf compared to Re_{6}Zr. This in turn may increase the contribution of the spin-triplet component in the superconducting ground state. In this paper, we present the results of measured superconducting properties of intermetallic binary compound Re_{6}Hf exhibiting bulk superconductivity at T_{c}^{\rm onset}\sim 5.96 K. Superconducting properties were determined by resistivity, magnetization, and specific heat measurements in Re_{6}Hf and results were compared to Re_{6}Zr to elucidate the effects of enhanced ASOC.
+
+ 
+
+## II Experimental details
+
+A polycrystalline sample of Re_{6}Hf (3g) was synthesized using the standard arc-melting technique where the stoichiometric amounts of Hf(4N) and Re(4N) were taken in a nominal ratio of 6:1 on a water cooled copper hearth under the flow of high purity argon gas. Both the elements were melted together to make a single button of Re_{6}Hf, then flipped and remelted several times for the sample homogeneity. The sample formed was hard and silvery gray in color with negligible mass loss.
+
+X-ray diffraction (XRD) was carried out on a PANalytical diffractometer equipped with CuK_{\alpha} radiation (\lambda=1.54056 A) for the characterization of crystal structure and phase purity. Magnetization and AC susceptibility measurements were performed using a Quantum Design superconducting quantum interference device (MPMS 3, Quantum Design). In magnetization measurement, the sample was cooled down to 1.8 K in zero field and then a field of 10 mT was applied. The data were recorded while warming it to 10 K called ZFCW mode, whereas in the FCC mode, the sample was cooled down to 1.8 K in a 10 mT field with data taken simultaneously. Magnetization and AC susceptibility measurements were also done under different applied fields in a temperature range of 1.8 K to 8.0 K in magnetic fields up to 7.0 T. Specific heat measurements were performed by the two tau time-relaxation method using the physical property measurement system (PPMS, Quantum Design, Inc.) in zero field and under applied magnetic fields up to 7.0 T. The electrical resistivity measurement was performed on the PPMS by using a conventional four-probe ac technique at frequency 157 Hz and excitation current 10 mA. The measurement was done in zero field from 1.85 K to 300 K to know the residual resistivity \rho_{0} and residual resistivity ratio (RRR).
+
+## III Results and discussion
+
+### Sample characterization
+
+Polycrystalline sample of Re_{6}Hf was crushed into a very fine powder for XRD analysis. The powder XRD data was collected at room temperature as shown in Fig. 1. Rietveld refinement was performed using High Score Plus Software. The refinement shows that the sample is in single phase with no impurity. Re_{6}Hf crystallizes into a cubic, noncentrosymmetric \alpha_-Mn_ structure with lattice cell parameter a=9.6850(3) A. The primitive Bravais lattice adopts the space group I\bar{4}3m (space group no. 217). There are around eight formula units per unit cell. The material is intrinsically disordered, which is reflected in the low value of the residual resistivity ratio and high residual resistivity seen in the section below. Refined cell parameters and atomic positions are shown in Table 1.
+
+### Normal and superconducting state properties
+
+#### iii.2.1 Electrical resistivity
+
+The temperature dependence of the resistivity for Re_{6}Hf between 1.85 K and 300 K in zero magnetic field is shown in Fig. 2(a). Resistivity increases leisurely with temperature showing poor metallic behavior. The residual resistivity ratio is found to be \rho(300)/\rho(10)=1.47, which is very small, suggesting that resistivity has either little temperature dependence or is dominated by disorder. This behavior is similar to other Re based \alpha_-Mn_ compounds Nb_{0.18}Re_{0.82} (RRR \sim 1.3) [37], Re_{24}Ti_{5} (RRR \sim 1.3) [45], and Re_{6}Zr (RRR \sim 1.10) [41,42]. An expanded plot of the zero-field resistivity data \rho(T) is shown in the inset of Fig. 2(a), which shows a superconducting transition at the onset temperature T_{c}^{\text{onset}}=5.96 K, with the transition width of \Delta T=0.41 K.
+
+The low temperature resistivity data have been fitted to a power law
+
+\[\rho=\rho_{0}+AT^{2}\] (1)
+
+from 10 K \leqslant T\leqslant 50 K, as shown in Fig. 2(b) by the solid red line. First term \rho_{0} is the residual resistivity due to crystallographic defects and the second term is the electronic contribution to resistivity due to electron-electron scattering at low temperatures in the Fermi-liquid picture. Here A is taken as a measure of the degree of electron-electron correlation.
+
+By fitting Eq. (1), we obtained \rho_{0}=106.12\pm 0.02\mu\Omega cm and A=(2.79\pm 0.01)\times 10^{-3}\mu\Omega cm K^{-2}. The higher value of \rho_{0} is most likely due to the polycrystalline nature of the sample. The value of A is low, indicating a weakly correlated system. Resistivity doesn't increase significantly
+
+\begin{table}
+\begin{tabular}{l c c c}  & Structure & Cubic \\  & Space group & I\bar{4}3m \\  & Lattice parameters & \\  & a (Å) & 9.6850(3) \\  & V_{\text{cell}} (Å^{3}) & 908 & \\ \hline \hline Atomic Coordinates & & & \\ \hline Atom & Wyckoff position & x & y & z \\ Re1 & 24g & 0.106 & 0.106 & 0.288 \\ Re2 & 24g & 0.344 & 0.344 & 0.031 \\ Hf1 & 8c & 0.315 & 0.315 & 0.315 \\ Hf2 & 2a & 0 & 0 & 0 \\ \end{tabular}
+\end{table}
+Table 1: Crystal structure parameters obtained from the Rietveld refinement of the room temperature powder x-ray diffraction of Re_{6}Hf.
+
+Figure 1: Powder XRD pattern for the Re_{6}Hf sample recorded at room temperature using CuK_{\omega} radiation. Rietveld refined calculated pattern for cubic noncentrosymmetric \alpha_-Mn_ (217) structure is shown by a dotted red line.
+
+ from its residual resistivity \rho_{0} value in the fitted temperature range due to dominance by disorder but shows a quadratic temperature dependence as shown in Fig. 2(b), which can be described by Fermi-liquid behavior [31,37,42,45,46].
+
+#### ii.2.2 Magnetization
+
+The superconductivity in Re_{\rm e}Hf was confirmed by the magnetization data taken in ZFCW and FCC mode as shown in Fig. 3. The data were taken in low applied field of 10 mT, showing the onset of strong diamagnetic signal due to superconducting transition at T_{c}^{\rm onset}=5.94 K. Superconducting transition was further confirmed by AC susceptibility (Fig. 4) measurement.
+
+Figure 5(a) shows the low field (0-30 mT) magnetization curves M(H) for Re_{\rm e}Hf taken at different temperatures. Lower critical field H_{c1}(T) is defined as the field deviating from the linear line for initial slope in magnetization curve. The H_{c1} is 5.2 mT at T=1.8 K and decreases monotonically with increase in temperature to 1.0 mT at T=5.5 K. The temperature variation of H_{c1}(T) is shown in Fig. 5(b). As expected H_{c1}(T) varies as a function of T^{2} in accordance with Ginzburg-Landau (GL) theory
+
+\[H_{c1}(T)=H_{c1}(0)\left(1-\left(\frac{T}{T_{c}}\right)^{2}\right).\] (2)
+
+Figure 4: Temperature dependence of [(a) real and (b) imaginary] AC susceptibility for Re_{\rm e}Hf.
+
+Figure 3: Temperature dependence of the magnetic moment, collected via zero-field cooled warming (ZFCW) and field cooled cooling (FCC) methods under an applied field of 10 mT.
+
+Figure 2: (a) Temperature dependence of the resistivity for Re_{\rm e}Hf shown over the range 1.85 K \leqslant T\leqslant 300 K. The inset shows the superconducting transition at T_{c}^{\rm onset}=5.96 K. (b) Quadratic temperature dependence over the temperature range 10 K \leqslant T\leqslant 50 K indicating Fermi-liquid behavior at low temperature.
+
+  Lower critical field H_{c1}(0) was estimated to be 5.6\pm 0.5 mT by fitting the relation given in Eq. (2) in the data given in Fig. 5(b).
+
+A magnetization curve at 1.8 K in high applied magnetic field range (\pm 7 T) is shown in Fig. 6. As evident from the graph, Re_{6}Hf exhibits a conventional type-II superconductivity. H_{Irr} estimated from magnetization curve is 1.80 T at 1.8 K, here for fields H>H_{Irr} unpinning of vortices starts taking place.
+
+#### iii.2.3 Specific heat
+
+Specific heat C(T) measurement for Re_{6}Hf in zero field in the temperature range 1.85 K \leqslant T\leqslant 10 K is shown in Fig. 7(a). The superconducting transition in specific heat data is manifested by a sharp jump in C(T) at T_{c}=5.96 K, confirming bulk superconductivity in Re_{6}Hf. The field dependence of the specific heat is shown in Fig. 7(b), where a jump near T_{c} moves to lower temperature and the size of the jump \Delta C becomes smaller with increasing magnetic field. The low temperature normal state specific heat can be extracted easily with the relation
+
+\[\frac{C}{T}=\gamma_{n}+\beta_{3}T^{2}+\beta_{5}T^{4},\] (3)
+
+where the extrapolation of normal state behavior below T_{c}, to the T\rightarrow 0 limit, allows the determination of normal state Sommerfeld coefficient \gamma_{n}, Debye constant \beta_{3}, and the anharmonic contribution \beta_{5} to the specific heat. By fitting Eq. (3) between 36 K \leqslant T^{2}\leqslant 100 K, as shown by the solid
+
+Figure 5: (a) Low-field magnetization curves for Re_{6}Hf at various temperatures (b) Temperature dependence of the lower critical field H_{c1} was fitted using Ginzburg-Landau relation gives H_{c1}(0)\sim 5.6 mT.
+
+Figure 6: Magnetization vs magnetic field variation at T=1.8 K. The magnetization is irreversible below a field H_{Irr}=1.8 T.
+
+Figure 7: (a) Temperature dependence of specific heat in zero field showing superconducting transition at T_{c}=5.96 K. (b) Field dependence of the specific heat data, showing the suppression of T_{c} with increasing field.
+
+  red line in Fig. 8, we obtained \gamma_{n} = 27.2 \pm 0.1 mJ mol^{-1} K^{-2}, \beta_{3} = 0.28 \pm 0.05 mJ mol^{-1} K^{-4}, and \beta_{5} = 0.0014 \pm 0.0003 \muJ mol^{-1} K^{-6}.
+
+The Debye temperature \theta_{D} is related to the \beta_{3} coefficient through the formula
+
+\[\theta_{D}=\left(\frac{12\pi^{4}RN}{5\beta}\right)^{\frac{1}{3}}\] (4)
+
+where R is the molar gas constant (=8.314 J mol^{-1} K^{-1}). Using N (=7) the number of atoms per formula unit, it gives \theta_{D} = 364 K. For noninteracting particles, the Sommerfeld coefficient is proportional to the density of states D_{C}(E_{F}) at the Fermi level which is calculated to be 11.53 \frac{\text{states}}{c^{3}V/\mu} from the relation given by
+
+\[\gamma_{n}=\left(\frac{\pi^{2}k_{B}^{2}}{3}\right)D_{C}(E_{f})\] (5)
+
+where k_{B}\approx 1.38 \times 10^{-23} J K^{-1}.
+
+This calculated density of states D_{C}(E_{f}), and the effective mass m^{*} of quasiparticles, contains the influence of the many body electron-phonon interaction and is related to the bare band-structure density of states D_{\text{band}}(E_{f}) and m_{\text{band}}^{*} according to relation
+
+\[D_{C}(E_{f})=D_{\text{band}}(E_{f})(1+\lambda_{e,ph})\] (6)
+
+\[m^{*}=m_{\text{band}}^{*}(1+\lambda_{e,ph})\] (7)
+
+where \lambda_{e,ph} is the dimensionless electron-phonon coupling constant. The electron-phonon coupling constant which gives the strength of attractive interaction between electron and phonon can be calculated using \theta_{D} and T_{c} given in McMillan theory McMillan (1963) by
+
+\[\lambda_{e-ph}=\frac{1.04+\mu^{*}ln(\theta_{D}/1.45T_{c})}{(1-0.62\mu^{*})ln( \theta_{D}/1.45T_{c})-1.04}\] (8)
+
+where \mu^{*} is the repulsive screened coulomb parameter, typically given by \mu^{*}=0.13 for many intermetallic superconductors. Using T_{c}=5.96 K (from our specific heat measurement) we obtained \lambda_{e-ph}=0.63. This value is comparable to other fully gapped noncentrosymmetric superconductors such as 0.6 for Re_{24}Ti_{5}Kimura _et al._ (2015), 0.5 for Nb_{0.18}Re_{0.82}Miyazaki _et al._ (2015), Re_{6}Zr K_{2}Kimura _et al._ (2015), and SrAuSi_{3}Kimura _et al._ (2015) suggesting that Re_{6}Hf is a moderately coupled superconductor. Using the value of \lambda_{e-ph}, we calculated D_{\text{band}}(E_{f}) equal to 7.04 \frac{\text{states}}{c^{3}V/\mu}. Also by taking m_{\text{band}}^{*}=m_{e} the effective mass for the quasiparticles comes out to be 1.63 m_{e}.
+
+The electronic contribution to the specific heat in the superconducting state C_{el}(T) can be calculated by subtracting the phononic contribution from the measured data C(T)
+
+\[C_{el}(T)=C(T)-\beta_{3}T^{3}+\beta_{5}T^{5}.\] (9)
+
+The magnitude of the specific heat jump \frac{\Delta C_{el}}{T_{c}} at T_{c} is 41.55 mJ mol^{-1} K^{-2}. This gives the normalized specific heat jump \frac{\Delta C_{el}}{\gamma_{n}T_{c}}=1.53 for \gamma_{n}=27.2 mJ mol^{-1} K^{-2}, which is slightly higher than the BCS value of \frac{\Delta C_{el}}{\gamma_{n}T_{c}}=1.43 in the weak coupling limit.
+
+The temperature dependence of the specific heat data in the superconducting state can best be described by the single-gap BCS expression for normalized entropy S
+
+\[\frac{S}{\gamma_{n}T_{c}}=-\frac{6}{\pi^{2}}\left(\frac{\Delta(0)}{k_{B}T_{c} }\right)\int_{0}^{\infty}[f\ln(f)+(1-f)\ln(1-f)]dy\] (10)
+
+where f(\xi)=[\exp(E(\xi)/k_{B}T)+1]^{-1} is the Fermi function, E(\xi)=\sqrt{\xi^{2}+\Delta^{2}(t)}, where \xi is the energy of normal electrons measured relative to the Fermi energy, y=\xi/\Delta(0), t=T/T_{c}, and \Delta(t)=\tanh[1.82(1.018((I/t)-1))^{0.51}] is the BCS approximation for the temperature dependence of the energy gap. The normalized electronic specific heat is related to the normalized entropy by
+
+\[\frac{C_{el}}{\gamma_{n}T_{c}}=t\frac{d(S/\gamma_{n}T_{c})}{dt}\] (11)
+
+where C_{el} below T_{c} is described by Eq. (11), whereas above T_{c} it is equal to \gamma_{n}T_{c}. Figure 9 shows the fitting of specific heat data to Eq. (11) which yields \alpha=\Delta(0)/k_{B}T_{c}=1.82\pm 0.03, which is slightly larger than the BCS value \alpha_{BCS}=1.764 in the weak coupling limit, suggesting a moderately coupled superconductivity in Re_{6}Hf as concluded from the value of \lambda_{e,ph} obtained earlier.
+
+Figure 9: Solid green curve in C_{el}/\gamma_{n}T versus T/T_{c} data show the single-gap BCS model fitting for \alpha=\Delta(0)/k_{B}T_{c}=1.82.
+
+  In the \alpha model BCS parameter \alpha_{BCS} is replaced by \alpha which can be determined from the jump \Delta C_{el} at T_{c} according to the formula \Delta C_{el}/\gamma_{n}T_{c}=1.426(\alpha/\alpha_{BCS})^{2}. Substituting the value of normalized specific heat jump \Delta C_{el}/\gamma_{n}T_{c}=1.53 for our sample, we get \alpha=1.82 which is in good agreement with the fitted value obtained above showing the consistency of the method.
+
+The fully gapped s-wave superconductivity in Re_{6}Hf can also be confirmed by the magnetic field dependence of the Sommerfeld coefficient \gamma(H). The Sommerfeld coefficient is proportional to the vortex density in a conventional fully gapped type-II superconductor. Therefore, as we apply more field the vortex density increases due to an increase in the number of field induced vortices which in turn enhances the quasiparticle density of states. This gives rise to a linear relation between \gamma and H, i.e., \gamma(H)\propto H for a nodeless and isotropic s-wave superconductor [48; 49; 50]. For a superconductor with nodes in the gap, Volovik predicted a nonlinear relation given by \gamma(H)\propto H^{\frac{1}{2}}[51].
+
+The Sommerfeld coefficient \gamma was calculated by fitting Eq. (12) in C_{el}/T versus T data for various fields and extrapolating it to T=0 K [48]
+
+\[\frac{C_{el}}{T}=\gamma+\frac{A}{T}\text{exp}\bigg{(}\frac{-bT_{c}}{T}\bigg{)}.\] (12)
+
+Field dependence of \gamma is shown in Fig. 10 where we can clearly observe a linear relation between \gamma(H) and H confirming the s-wave superconductivity in Re_{6}Hf which we have already seen by the single-gap BCS fitting in low temperature specific heat measurement.
+
+The condensation energy U (0) can be calculated using \gamma and \alpha(=\Delta(0)/k_{B}T_{c}) from the relation
+
+\[U(0)=\frac{1}{2}\Delta^{2}(0)D_{\text{band}}(E_{f})=\frac{3\gamma_{n}\Delta^{ 2}(0)}{4\pi^{2}k_{B}^{2}}\] (13)
+
+which gives U(0)=246.1 mJ mol^{-1}. The magnitude of electron-electron correlation can be given by Kadowaki-Woods ratio, which is given by K_{w}=\frac{A}{\gamma_{n}^{2}}, where A is the coefficient of the quadratic temperature dependent resistivity term, whereas \gamma_{n} is the normal state Sommerfeld coefficient. In heavy fermionic systems where electron-electron correlation is significant the Kadowaki-Woods ratio K_{w} approaches 1\times 10^{-5}\mu\Omega cm mJ^{-2}mole^{2} K^{2}[52; 53; 54]. For A=0.00279\mu\Omega cm K^{-2} and \gamma_{n}=27.2 mJ mol^{-1} K^{-2}, we found K_{w}=0.37\times 10^{-5}\mu\Omega cm mJ^{-2} mole^{2} K^{2} which is smaller than strongly correlated systems indicating that Re_{6}Hf is a weakly correlated system.
+
+Isothermal magnetization measurement was done in magnetic fields up to 7.0 T to calculate the upper critical field H_{c2}(0) as shown in the inset of Fig. 11. The transition temperature T_{c} was taken as the onset of the diamagnetic signal in magnetization measurement. As the field increases, T_{c} shifts to lower temperature with the superconducting transition becoming broader. H_{c2}(T) was seen to be varying linearly when plotted against reduced temperature (T/T_{c}) as displayed in Fig. 11, and can be fitted using the Ginzburg-Landau (GL) formula to calculate H_{c2}(0)
+
+\[H_{c2}(T)=H_{c2}(0)\frac{(1-t^{2})}{(1+t^{2})}\] (14)
+
+where t = T/T_{c}. Our experimental data fits fairly well with Eq. (14) yielding the upper critical field H_{c2}(0) to be around 12.2 \pm 0.1 T. The similar linear behavior of H_{c2}(T) was noted when calculated from specific heat measurements C(T) as shown by blue data points in Fig. 11; when fitted with GL formula it gives H_{c2}(0)\approx 12.2 T.
+
+H_{c2}(0) can be used to estimate the Ginzburg Landau coherence length \xi_{GL} from the relation [55]
+
+\[H_{c2}(0)=\frac{\Phi_{0}}{2\pi\xi_{GL}^{2}}\] (15)
+
+where \Phi_{0}(=2.07\times 10^{-15} Tm^{2}) is the magnetic flux quantum. Using H_{c2}(0)=12.2 T we calculated \xi_{GL}(0)\approx 52 A.
+
+In a type-II superconductor, Cooper pair breaking due to the applied magnetic field is attributed to two types of mechanisms: orbital and Pauli paramagnetic limiting field
+
+Figure 11: Determination of the upper critical field H_{c2}(0) via magnetization and heat capacity measurements. The solid lines are Ginzburg-Landau [Eq. (14)] fits. The inset shows the M(T) curves for various applied magnetic fields.
+
+Figure 10: \gamma and H were plotted versus each other after normalizing by \gamma_{n}(=27.2 mJ mol^{-1} K^{-2}) and H_{c2}(0)(=12.2 T). Solid blue curve in \gamma/\gamma_{n} versus H/H_{c2}(0) plot show the linear relation indicating s-wave superconductivity in Re_{6}Hf.
+
+  effect. In orbital pair breaking, the field-induced kinetic energy of a Cooper pair exceeds the superconducting condensation energy, whereas in Pauli paramagnetic limiting it is energetically favorable for the electron spins to align with the magnetic field, thus breaking the Cooper pairs. For BCS superconductors, the orbital limit of the upper critical field H_{c2}^{\text{orbital}}(0) was given by the Werthamer-Helfand-Hohenberg (WHH) expression [56,57]
+
+\[H_{c2}^{\text{orbital}}(0)=-\alpha T_{c}\frac{dH_{c2}(T)}{dT}\bigg{|}_{T=T_{c}}\] (16)
+
+where \alpha is the purity factor given by 0.693 for dirty limit superconductors and 0.73 for clean limit superconductors. Initial slope \frac{-dT_{c2}(T)}{dT}\big{|}_{T=T_{c}} calculated from the H_{c2}-T phase diagram is 2.36 T K^{-1}, which gives the orbital limiting upper critical field H_{c2}^{\text{orbital}}(0)\approx 9.77 T in the dirty limit. The Pauli limiting field within the BCS theory is given by H_{c2}^{P}(0)=1.86T_{c}[58,59], which for T_{c}=5.96 K gives H_{c2}^{P}(0)\approx 11.10 T. The Maki parameter [60]\alpha_{M} is the measure of relative strengths of the orbital and Pauli limiting values of H_{c2} and is given by
+
+\[\alpha_{M}=\sqrt{2}H_{c2}^{orb}(0)/H_{c2}^{P}(0).\] (17)
+
+From this relation we obtain \alpha_{M}=1.24. The sizable value of Maki parameter obtained from this expression is an indication that the effect of Pauli limiting field is non-negligible [37]. Since upper critical field H_{c2}(0) calculated above is close to both the orbital limiting field and Pauli limiting field, it is highly desirable to do the detailed investigations of the upper critical field in high quality single crystals of Re_{6}Hf. If H_{c2}(0) actually exceeds Pauli limit in clean single crystals of Re_{6}Hf, it confirms the contribution of spin-triplet component in superconducting pairing state. Anisotropic measurements of upper critical field H_{c2}(0) also aspires since the paramagnetic pair breaking effect depends on the spin structure of the paired electrons in momentum space which can give more information on effects of the ASOC and broken inversion symmetry on the superconducting state.
+
+The Ginzburg Landau penetration depth \lambda_{GL}(0) can be obtained from H_{c1}(0) and \xi_{GL}(0) using the relation [28]
+
+\[H_{c1}(0)=\bigg{(}\frac{\Phi_{0}}{4\pi\lambda_{GL}^{2}(0)}\bigg{)}ln\bigg{(} \frac{\lambda_{GL}(0)}{\xi_{GL}(0)}\bigg{)}.\] (18)
+
+For H_{c1}(0)\approx 5.6 mT and \xi_{GL}(0) = 52 A, we obtained \lambda_{GL}(0)\approx 3538 A.
+
+The Ginzburg Landau (GL) parameter is given by the relation
+
+\[k_{GL}=\frac{\lambda_{GL}(0)}{\xi_{GL}(0)}.\] (19)
+
+For \xi_{GL}(0) = 52 A and \lambda_{GL}(0) = 3538 A, we get \text{k}_{GL}\approx 68. GL parameter k_{GL}\gg\frac{1}{\sqrt{2}}, indicating that Re_{6}Hf is a strong type-II superconductor. Thermodynamic critical field H_{c} is obtained from k_{GL}, H_{c1}(0), and H_{c2}(0) using the relation [28]
+
+\[H_{c1}(0)H_{c2}(0)=H_{c}^{2}lnk_{GL}\] (20)
+
+yielding H_{c} around 126.7 mT.
+
+Ginzburg number G_{i} is the ratio of thermal energy k_{B}T (where the upper limit of T is T_{c}) to condensation energy associated with coherence volume, which measures the sensitivity of the vortex system against thermal fluctuations [61,62]
+
+\[G_{i}=\frac{1}{2}\bigg{(}\frac{k_{B}\mu_{0}\tau T_{c}}{4\pi\xi^{3}(0)H_{c}^{2 }(0)}\bigg{)}^{2}\] (21)
+
+where r is the anisotropy parameter which is 1 for cubic Re_{6}Hf. For \xi_{0} = 52 A, H_{c}(0) = 126.7 mT, and T_{c} = 5.96 K, we got G_{i} = 6.65 \times 10^{-2}. It was already noticed from the magnetization curve that melting of vortices starts at field H>H_{fr}(=1.8 T) which is much smaller than the upper critical field. This behavior is usually found in high temperature superconductors where melting of vortices is attributed to thermal fluctuations and very rarely in low T_{c} superconductors. G_{i}, which is found to be of the same order as high T_{c} superconductors, suggests that thermal fluctuations may be playing a role in unpinning of vortices. This is intriguing since most of the low T_{c} superconductors do not show vortex unpinning due to thermal fluctuations. This seems to be the case here also, since estimation of critical fields was quite straightforward with no significant broadening of thermodynamic measurements with the magnetic field, indicating an unconventional vortex state. Some theoretical and experimental work also suggested that noncentrosymmetric superconductors have an unconventional vortex state [63, 64, 65, 66]. Hence, a detailed study on the vortex dynamics of the good quality single crystal of Re_{6}Hf is needed to interpret these transverse results.
+
+## IV. Conclusion
+
+A single phase polycrystalline sample of Re_{6}Hf was prepared by arc-melting technique, which crystallizes into cubic, noncentrosymmetric \alpha-Mn (217) structure with lattice cell parameter a=9.6850(3) A. Transport, magnetization, and thermodynamic measurements reveal that Re_{6}Hf is a weakly correlated, type-II superconductor with the bulk transition temperature at T_{c}\approx 5.96 K. Above transition temperature T_{c}, resistivity measurement showed the poor metallic behavior whereas magnetization measurement showed weak paramagnetism. The computed value of the upper critical field H_{c2}(0)(\approx 12.2 T) is close to the Pauli limiting field, hence further investigations need to be done to explore the
+
+\begin{table}
+\begin{tabular}{l c c c} Parameters & unit & Re_{6}Hf & Re_{6}Zr [42] \\ \hline T_{c} & K & 5.96 & 6.7 \\ \rho_{0} & \mu2 cm & 106.12 & 137 \\ A & \mu2 cm K^{-2} & 0.0028 & 0.008 \\ H_{c1}(0) & mT & 5.6 & 8 \\ H_{c2}(0) & T & 12.2 & 11.6 \\ H_{c2}^{\text{orbital}}(0) & T & 9.8 & 10.65 \\ H_{c2}^{\text{orbital}}(0) & T & 11.1 & 12.2 \\ \xi_{GL} & Å & 52 & 53.3 \\ \lambda_{GL} & Å & 3538 & 3696 \\ k_{GL} & & 68.0 & 69.3 \\ \gamma_{u} & mJ mol^{-1} K^{-2} & 27.2 & 27.4 \\ \theta_{D} & K & 364 & 330 \\ \Delta C_{el}/\gamma_{u}T_{c} & & 1.53 & 1.62 \\ \end{tabular}
+\end{table}
+Table 2: Normal and superconducting properties of Re_{6}Hf.
+
+  possible mixture of singlet and triplet pairing states. Low temperature specific heat measurement indicates that Re_{6}Hf is a moderately coupled superconductor and it was further confirmed by the field dependence of Sommerfeld coefficient \gamma(H) where it varies linearly with H suggesting that electronic states near the Fermi surface are fully gapped. A similar type of behavior was observed in Re_{6}Zr in its initial measurements. Experimentally estimated values of all the parameters for our sample and Re_{6}Zr are summarized in Table 2. From Table 2 it is very clear that Re_{6}Zr and Re_{6}Hf parameters are almost the same despite Re_{6}Hf having much stronger spin-orbital coupling strength compared to Re_{6}Zr. These results suggest that along with spin-orbital coupling strength some other mechanism/phenomena is playing a role in determining the strength of spin-singlet and spin-triplet pairing channel. In order to fully understand the role of spin-orbital coupling, further experimental work on high-quality single crystals is required.
+
+_Note._ Recently, we became aware that superconductivity was reported on the same compound by another group [67].
+
+###### Acknowledgements.
+
+ We are grateful for valuable discussions with P. Biswas. R.P.S. acknowledges Science and Engineering Research Board, Government of India for the Ramanujan Fellowship through Grant No. SR/S2/RJN-83/2012.
+
+## References
+
+* [1] J. Bardeen, L. N. Cooper, and J. R. Schrieffer, Phys. Rev. **108**, 1175 (1957).
+* [2] P. W. Anderson, J. Phys. Chem. Solids **11**, 26 (1959).
+* [3] P. W. Anderson, Phys. Rev. B **30**, 4000 (1984).
+* [4] E. Bauer, G. Hilscher, H. Michor, Ch. Paul, E. W. Scheidt, A. Gribanov, Yu. Seropegin, H. Noel, M. Sigrist, and P. Rogl, Phys. Rev. Lett. **92**, 027003 (2004).
+* [5] V. M. Edel'shtein, Sov. Phys. JETP **68**, 1244 (1989).
+* [6] L. P. Gor'kov and E. I. Rashba, Phys. Rev. Lett. **87**, 037004 (2001).
+* [7] K. V. Samokhin, E. S. Zijlstra, and S. K. Bose, Phys. Rev. B **69**, 094514 (2004).
+* [8] P. A. Frigeri, D. F. Agterberg, A. Koga, and M. Sigrist, Phys. Rev. Lett. **92**, 097001 (2004).
+* [9] S. Fujimoto, J. Phys. Soc. Jpn. **76**, 051008 (2007).
+* [10] M. Nishiyama and Y. Inada, and Guo-qing Zheng, Phys. Rev. Lett. **98**, 047002 (2007).
+* [11] E. Bauer and M. Sigrist, _Non-centrosymmetric Superconductor: Introduction and Overview_ (Springer-Verlag, Heidelberg, 2012).
+* [12] N. Kimura, K. Ito, K. Saitoh, Y. Umeda, H. Aoki, and T. Terashima, Phys. Rev. Lett. **95**, 247004 (2005).
+* [13] N. Kimura, K. Ito, H. Aoki, S. Uji, and T. Terashima, Phys. Rev. Lett. **98**, 197001 (2007).
+* [14] I. Sugitani, Y. Okuda, H. Shishido, T. Yamada, A. Thamizhavel, E. Yamamoto, T. D. Matsuda, Y. Haga, T. Takeuchi, R. Settai, and Y. Onuki, J. Phys. Soc. Jpn. **75**, 043703 (2006).
+* [15] R. Settai, Y. Miyauchi, T. Takeuchi, F. Levy, I. Sheikin, and Y. Onuki, J. Phys. Soc. Jpn. **77**, 073705 (2008).
+* [16] R. Settai, I. Sugitani, Y. Okuda, A. Thamizhavel, M. Nakashima, Y. Onuki, and H. Harima, J. Magn. Mater. **310**, 844 (2007).
+* [17] T. Akazawa, H. Hidaka, H. Kotegawa, T. C. Kobayashi, T. Fujiwara, E. Yamamoto, Y. Haga, R. Settai, and Y. Onuki, J. Phys. Soc. Jpn. **73**, 3129 (2004).
+* [18] P. Badica, T. Kondo, and K. Togano, J. Phys. Soc. Jpn. **74**, 1014 (2005).
+* [19] K. Togano, P. Badica, Y. Nakamori, S. Orimo, H. Takeya, and K. Hirata, Phys. Rev. Lett. **93**, 247004 (2004).
+* [20] P. Badica, T. Kondo, T. Kudo, Y. Nakamori, S. Orimo, and K. Togano, Appl. Phys. Lett. **85**, 4433 (2004).
+* [21] H. Takeya, K. Hirata, K. Yamaura, K. Togano, M. ElMassalami, R. Rapp, F. A. Chaves, and B. Ouladdiaf, Phys. Rev. B **72**, 104506 (2005).
+* [22] H. Q. Yuan, D. F. Agterberg, N. Hayashi, P. Badica, D. Vandervelde, K. Togano, and M. Sigrist, and M. B. Salamon, Phys. Rev. Lett. **97**, 017006 (2006).
+* [23] J. Chen, L. Jiao, J. L. Zhang, Y. Chen, L. Yang, M. Nicklas, F. Steglich, and H. Q. Yuan, New J. Phys. **15**, 053005 (2013).
+* [24] V. K. Pecharsky, L. L. Miller, and K. A. Gschneidner, Phys. Rev. B **58**, 497 (1998).
+* [25] J. Chen, M. B. Salamon, S. Akutagawa, J. Akimitsu, J. Singleton, J. L. Zhang, and L. Jiao, and H. Q. Yuan, Phys. Rev. B **83**, 144529 (2011).
+* [26] S. Kuroiwa, Y. Saura, J. Akimitsu, M. Hiraishi, M. Miyazaki, K. H. Satoh, S. Takeshita, and R. Kadono, Phys. Rev. Lett. **100**, 097002 (2008).
+* [27] P. K. Biswas, M. R. Lees, A. D. Hillier, R. I. Smith, W. G. Marshall, and D. McK. Paul, Phys. Rev. B **84**, 184529 (2011).
+* [28] T. Klimczuk, F. Ronning, V. Sidorov, R. J. Cava, and J. D. Thompson, Phys. Rev. Lett. **99**, 257004 (2007).
+* [29] Y. Qi, J. Guo, H. Lei, Z. Xiao, T. Kamiya, and H. Hosono, Phys. Rev. B **89**, 024517 (2014).
+* [30] E. Bauer, G. Rogl, X.-Q. Chen, R. T. Khan, H. Michor, G. Hilscher, E. Royanian, K. Kumagai, D. Z. Li, Y. Y. Li, R. Podloucky, and P. Rogl, Phys. Rev. B **82**, 064511 (2010).
+* [31] A. B. Karki, Y. M. Xiong, I. Vekhter, D. Browne, P. W. Adams, D. P. Young, K. R. Thomas, J. Y. Chan, H. Kim, and R. Prozorov, Phys. Rev. B **82**, 064512 (2010).
+* [32] T. Shibayama, M. Nohara, H. Aruga Katori, Y. Okamoto, Z. Hiroi, and H. Takagi, J. Phys. Soc. Jpn. **76**, 073708 (2007).
+* [33] K. Wakui, S. Akutagawa, N. Kase, K. Kawashima, T. Muranaka, Y. Iwahori, J. Abe, and J. Akimitsu, J. Phys. Soc. Jpn. **78**, 034710 (2009).
+* [34] N. Kase and J. Akimitsu, J. Phys. Soc. Jpn. **78**, 044710 (2009).
+* [35] L. Fang, H. Yang, X. Zhu, G. Mu, Z. Sheng Wang, L. Shan, C. Ren, and H.-Hu Wen, Phys. Rev. B **79**, 144509 (2009).
+* [36] R. P. Singh, N. A. Parzyk, M. R. Lees, D. M. Paul, and G. Balakrishnan, J. Cryst. Growth **395**, 22 (2014).
+* [37] A. B. Karki, Y. M. Xiong, N. Haldolaarachchige, S. Stadler, I. Vekhter, P. W. Adams, D. P. Young, W. A. Phelan, and J. Y. Chan, Phys. Rev. B **83**, 144525 (2011).
+* [38] C. S. Lue, T. H. Su, H. F. Liu, and B. L. Young, Phys. Rev. B **84**, 052509 (2011).
+
+  * [39] J. Chen, L. Jiao, J. L. Zhang, Y. Chen, L. Yang, M. Nicklas, F. Steglich, and H. Q. Yuan, Phys. Rev. B **88**, 144510 (2013).
+* [40] J. A. T. Barker, D. Singh, A. Thamizhaved, A. D. Hillier, M. R. Lees, G. Balakrishnan, D. McK. Paul, and R. P. Singh, Phys. Rev. Lett. **115**, 267001 (2015).
+* [41] R. P. Singh, A. D. Hillier, B. Mazidian, J. Quintanilla, J. F. Annett, D. M. Paul, G. Balakrishnan, and M. R. Lees, Phys. Rev. Lett. **112**, 107002 (2014).
+* [42] A. M. Khan, arXiv:1603.07297.
+* [43] A. D. Hillier, J. Quintanilla, and R. Cywinski, Phys. Rev. Lett. **102**, 117007 (2009).
+* [44] H. Takeya, M. ElHassalami, and S. Kasahara, and K. Hirata, Phys. Rev. B **76**, 104506 (2007).
+* [45] C. S. Lue, H. F. Liu, C. N. Kuo, P. S. Shih, J-Y. Lin, Y. K. Kuo, M. W. Chu, T-L Hung, and Y. Y. Chen, Superconduct. Sci. Tech. **26**, 055011 (2013).
+* [46] F. von Rohr, H. Luo, N. Ni, M. Worle, and R. J. Cava, Phys. Rev. B **89**, 224504 (2014).
+* [47] W. L. McMillan, Phys. Rev. **167**, 331 (1968).
+* [48] M. Isobe, A. Masao, and N. Shirakawa, Phys. Rev. B **93**, 054519 (2016).
+* [49] C. Caroli, P. G. de Gennes, and J. Matricon, Phys. Lett. **9**, 307 (1964).
+* [50] P. G. de Gennes, _Superconductivity of Metals and Alloys_ (W. A. Benjamin, New York, 1966).
+* [51] G. E. Volovik, JETP Lett. **58**, 469 (1993).
+* [52] K. Kadowaki and S. B. Woods, Solid State Commun. **58**, 507 (1986).
+* [53] R. Jin, J. He, S. McCall, C. S. Alexander, F. Drmiotis, and D. Mandrus, Phys. Rev. B **64**, 180503 (2001).
+* [54] A. C. Jacko, J. O. Fjaerestad, and B. J. Powell, Nat. Phys. **5**, 422 (2009).
+* [55] M. Tinkham, _Introduction to Superconductivity_, 2nd ed. (McGraw-Hill, New York, 1996).
+* [56] E. Helfand and N. R. Werthamer, Phys. Rev. **147**, 288 (1966).
+* [57] N. R. Werthamer, E. Helfand, and P. C. Hohenberg, Phys. Rev. **147**, 295 (1966).
+* [58] B. S. Chandrasekhar, Appl. Phys. Lett. **1**, 7 (1962).
+* [59] A. M. Clogston, Phys. Rev. Lett. **9**, 266 (1962).
+* [60] K. Maki, Phys. Rev. **148**, 362 (1966).
+* [61] O. Prakash, A. Thamizhavel, and S. Ramakrishnan, Supercond. Sci. Technol. **28**, 15012 (2015).
+* [62] G. Blatter, M. V. Feigel'man, V. B. Geshkenbein, and A. I. Larkin, and V. M. Vinokur, Rev. Mod. Phys. **66**, 1125 (1994).
+* [63] M. Sigrist and D. F. Agterberg, Prog. Theor. Phys. **102**, 965 (1999).
+* [64] E. Dumont and A. C. Mota, Phys. Rev. B **65**, 144519 (2002).
+* [65] C. F. Miclea, A. C. Mota, M. Sigrist, F. Steglich, T. A. Sayles, B. J. Taylor, C. A. McElroy, and M. B. Maple, Phys. Rev. B **80**, 132502 (2009).
+* [66] C. F. Miclea, A. C. Mota, M. Nicklas, R. Cardoso, F. Steglich, M. Sigrist, A. Prokofiev, and E. Bauer, Phys. Rev. B **81**, 014527 (2010).
+* [67] B. Chen, Y. Guo, H. Wang, Q. Su, Q. Mao, J. Du, Y. Zhou, J. Yang, and M. Fang, Phys. Rev. B **94**, 024518 (2016).
+
+ 
+
+# Superconducting properties of the noncentrosymmetric superconductor Re_{6}Hf
+
+D. Singh,^{1} A. D. Hillier,^{2} A. Thamizhavel,^{3} and R. P. Singh^{1,}
+
+rpsingh@iiserb.ac.in ^{1}Indian Institute of Science Education and Research Blhopal, Blhopal 462066, India
+
+^{2}ISIS facility, STFC Rutherford Appleton Laboratory, Harwell Science and Innovation Campus, Oxfordshire, OX11 0QX, United Kingdom
+
+^{3}Department of Condensed Matter Physics and Materials Science, Tata Institute of Fundamental Research, Mumbai 400005, India
+
+^{4}Department of Condensed Matter Physics and Materials Science, Tata Institute of Fundamental Research, Mumbai 400005, India
+
+###### Abstract
+
+We report synthesis and detailed characterization of the noncentrosymmetric superconductor Re_{6}Hf using powder x-ray diffraction (XRD), magnetization, transport, and thermodynamic measurements. XRD confirmed the noncentrosymmetric, \alpha-Mn cubic structure in Re_{6}Hf with the cubic cell parameter a=9.6850(3) A. Resistivity, DC, and AC magnetization measurements confirmed the type-II superconductivity in Re_{6}Hf with the transition temperature T_{c}^{\rm onset}\sim 5.96 K, having the lower critical field H_{c1}(0)\,5.6 mT and upper critical field H_{c2}(0) 12.2 T. The electronic specific heat data fits well with the single-gap BCS model. The Sommerfeld coefficient (\gamma) also shows linear relation with the magnetic field. All above results suggest s-wave superconductivity in Re_{6}Hf.
+
+2016 12 May 2016 94, 054515 2016 12 May 2016 94, 054515 12 May 2016 94, 054515 12 May 2016 94, 054515 12 May 2016 94, 054515 12 May 2016 94, 054515 12 May 2016 94, 054515 12 May 2016
+
+## I Introduction
+
+In 1957, Bardeen, Cooper, and Schrieffer (BCS) explained the origin of superconductivity using the concept of Cooper pairs [1]. Cooper pairs are formed from electrons that have equal and opposite crystal momenta and spin. Since electrons are fermions, the wave function must be antisymmetric with respect to the exchange of two electrons. The two electron wave function can be made asymmetric by considering the spatial and spin components. If the spatial wave function is symmetric/antisymmetric, then the spin wave function must be antisymmetric/symmetric. This is termed as spin-singlet state/spin-triplet state. This scenario is only possible if inversion symmetry is present in crystal structure [2,3].
+
+There have been intense theoretical and experimental studies on superconducting systems lacking spatial inversion symmetry, following the discovery of unconventional superconductivity in the noncentrosymmetric (NSC) heavy fermion compound CePt_{3}Si [4]. In a NCS superconductor (SC), the absence of the center of inversion induces Rashba-type antisymmetric spin-orbit coupling (ASOC) due to an asymmetric potential gradient along the crystal axis. This momentum dependent spin structure in consequence lifts the degeneracy of the conduction band electrons at the Fermi surface resulting into the possible mixing of spin-singlet and spin-triplet pairing states. The magnitude of ASOC splitting actually dictates the extent of mixing of spin-singlet and spin-triplet components [5-10]. The possible mixing of pair states in NCS superconductors may lead to various superconducting properties such as the upper critical field exceeding Pauli limit, point or line nodes in the superconducting gap parameter resulting into nodal excitations in penetration depth, heat capacity and other thermodynamic measurements, and time reversal symmetry breaking in the superconducting condensate [11].
+
+Apart from CePt_{3}Si several other Ce- and U-based heavy fermionic NCS SCs, e.g., CeRhSi_{3}[12,13], CeIrSi_{3}[14,15], CeCoGe_{3}[16], and UIr [17] were discovered with applied pressure, however this does not resolve the problem as strong electron correlations in the f-electron systems with superconductivity at the vicinity of the magnetic quantum critical point hinder the pursuit to realize the effects of ASOC and the absence of an inversion center on superconductivity. Superconductivity in these systems is expected to be due to the unconventional pairing mechanism, most likely driven by magnetic fluctuations. Hence, several weakly correlated and nonmagnetic NCS superconducting systems, e.g., Li_{2}(Pd,Pt)_{3}B [18-22], LaNiC_{2}[23,24], Y_{2}C_{3}[25], L_{2}C_{3}[26] Re_{3}W [27], Mg_{10}Ir_{19}B_{16}[28], LaMP(M=Ir, Rh and P=P, As) [29], Mo_{3}Al_{2}C [30,31], Rh_{2}Ga_{9}[32,33], Ir_{2}Ga_{9}[32,33], Ru_{7}B_{3}[34-36], Nb_{0.18}Re_{0.82}[37-39], La_{7}Ir_{3}[40], and Re_{2}Zr [41,42] were investigated to understand the primary mechanism for unconventional superconductivity in NCS SCs. It was found that only a few of them exhibited unconventional superconducting behavior including triplet pairing [10,22,40,41,43] and upper critical field close to the Pauli limit [25,31]. Others exhibited only dominant s-wave character.
+
+Theoretical results suggest that ASOC play an important role in controlling the mixing of spin-singlet and spin-triplet pairing channel. In NCS superconductor Li_{2}(Pd,Pt)_{3}B [10,18-22,44], it was shown that the pairing state can be tuned from spin-singlet to spin-triplet by changing the strength of ASOC. Here substitution of the Pt element with strong spin-orbital coupling to the site of the Pd element changes the overall mixing of pairing states leading to unconventional superconductivity.
+
+Recently, noncentrosymmetric superconductor Re_{6}Zr shows an unconventional superconducting ground state having the signature of time reversal symmetry breaking with dominant s-wave pairing by muon spectroscopy [41]. As spin-orbital coupling varies as Z^{4}, by substituting Zr by Hf, the strength of the spin-orbit coupling can be enhanced by a factor of 10 in Re_{6}Hf compared to Re_{6}Zr. This in turn may increase the contribution of the spin-triplet component in the superconducting ground state. In this paper, we present the results of measured superconducting properties of intermetallic binary compound Re_{6}Hf exhibiting bulk superconductivity at T_{c}^{\rm onset}\sim 5.96 K. Superconducting properties were determined by resistivity, magnetization, and specific heat measurements in Re_{6}Hf and results were compared to Re_{6}Zr to elucidate the effects of enhanced ASOC.
+
+ 
+
+## II Experimental details
+
+A polycrystalline sample of Re_{6}Hf (3g) was synthesized using the standard arc-melting technique where the stoichiometric amounts of Hf(4N) and Re(4N) were taken in a nominal ratio of 6:1 on a water cooled copper hearth under the flow of high purity argon gas. Both the elements were melted together to make a single button of Re_{6}Hf, then flipped and remelted several times for the sample homogeneity. The sample formed was hard and silvery gray in color with negligible mass loss.
+
+X-ray diffraction (XRD) was carried out on a PANalytical diffractometer equipped with CuK_{\alpha} radiation (\lambda=1.54056 A) for the characterization of crystal structure and phase purity. Magnetization and AC susceptibility measurements were performed using a Quantum Design superconducting quantum interference device (MPMS 3, Quantum Design). In magnetization measurement, the sample was cooled down to 1.8 K in zero field and then a field of 10 mT was applied. The data were recorded while warming it to 10 K called ZFCW mode, whereas in the FCC mode, the sample was cooled down to 1.8 K in a 10 mT field with data taken simultaneously. Magnetization and AC susceptibility measurements were also done under different applied fields in a temperature range of 1.8 K to 8.0 K in magnetic fields up to 7.0 T. Specific heat measurements were performed by the two tau time-relaxation method using the physical property measurement system (PPMS, Quantum Design, Inc.) in zero field and under applied magnetic fields up to 7.0 T. The electrical resistivity measurement was performed on the PPMS by using a conventional four-probe ac technique at frequency 157 Hz and excitation current 10 mA. The measurement was done in zero field from 1.85 K to 300 K to know the residual resistivity \rho_{0} and residual resistivity ratio (RRR).
+
+## III Results and discussion
+
+### Sample characterization
+
+Polycrystalline sample of Re_{6}Hf was crushed into a very fine powder for XRD analysis. The powder XRD data was collected at room temperature as shown in Fig. 1. Rietveld refinement was performed using High Score Plus Software. The refinement shows that the sample is in single phase with no impurity. Re_{6}Hf crystallizes into a cubic, noncentrosymmetric \alpha_-Mn_ structure with lattice cell parameter a=9.6850(3) A. The primitive Bravais lattice adopts the space group I\bar{4}3m (space group no. 217). There are around eight formula units per unit cell. The material is intrinsically disordered, which is reflected in the low value of the residual resistivity ratio and high residual resistivity seen in the section below. Refined cell parameters and atomic positions are shown in Table 1.
+
+### Normal and superconducting state properties
+
+#### iii.2.1 Electrical resistivity
+
+The temperature dependence of the resistivity for Re_{6}Hf between 1.85 K and 300 K in zero magnetic field is shown in Fig. 2(a). Resistivity increases leisurely with temperature showing poor metallic behavior. The residual resistivity ratio is found to be \rho(300)/\rho(10)=1.47, which is very small, suggesting that resistivity has either little temperature dependence or is dominated by disorder. This behavior is similar to other Re based \alpha_-Mn_ compounds Nb_{0.18}Re_{0.82} (RRR \sim 1.3) [37], Re_{24}Ti_{5} (RRR \sim 1.3) [45], and Re_{6}Zr (RRR \sim 1.10) [41,42]. An expanded plot of the zero-field resistivity data \rho(T) is shown in the inset of Fig. 2(a), which shows a superconducting transition at the onset temperature T_{c}^{\text{onset}}=5.96 K, with the transition width of \Delta T=0.41 K.
+
+The low temperature resistivity data have been fitted to a power law
+
+\[\rho=\rho_{0}+AT^{2}\] (1)
+
+from 10 K \leqslant T\leqslant 50 K, as shown in Fig. 2(b) by the solid red line. First term \rho_{0} is the residual resistivity due to crystallographic defects and the second term is the electronic contribution to resistivity due to electron-electron scattering at low temperatures in the Fermi-liquid picture. Here A is taken as a measure of the degree of electron-electron correlation.
+
+By fitting Eq. (1), we obtained \rho_{0}=106.12\pm 0.02\mu\Omega cm and A=(2.79\pm 0.01)\times 10^{-3}\mu\Omega cm K^{-2}. The higher value of \rho_{0} is most likely due to the polycrystalline nature of the sample. The value of A is low, indicating a weakly correlated system. Resistivity doesn't increase significantly
+
+\begin{table}
+\begin{tabular}{l c c c}  & Structure & Cubic \\  & Space group & I\bar{4}3m \\  & Lattice parameters & \\  & a (Å) & 9.6850(3) \\  & V_{\text{cell}} (Å^{3}) & 908 & \\ \hline \hline Atomic Coordinates & & & \\ \hline Atom & Wyckoff position & x & y & z \\ Re1 & 24g & 0.106 & 0.106 & 0.288 \\ Re2 & 24g & 0.344 & 0.344 & 0.031 \\ Hf1 & 8c & 0.315 & 0.315 & 0.315 \\ Hf2 & 2a & 0 & 0 & 0 \\ \end{tabular}
+\end{table}
+Table 1: Crystal structure parameters obtained from the Rietveld refinement of the room temperature powder x-ray diffraction of Re_{6}Hf.
+
+Figure 1: Powder XRD pattern for the Re_{6}Hf sample recorded at room temperature using CuK_{\omega} radiation. Rietveld refined calculated pattern for cubic noncentrosymmetric \alpha_-Mn_ (217) structure is shown by a dotted red line.
+
+ from its residual resistivity \rho_{0} value in the fitted temperature range due to dominance by disorder but shows a quadratic temperature dependence as shown in Fig. 2(b), which can be described by Fermi-liquid behavior [31,37,42,45,46].
+
+#### ii.2.2 Magnetization
+
+The superconductivity in Re_{\rm e}Hf was confirmed by the magnetization data taken in ZFCW and FCC mode as shown in Fig. 3. The data were taken in low applied field of 10 mT, showing the onset of strong diamagnetic signal due to superconducting transition at T_{c}^{\rm onset}=5.94 K. Superconducting transition was further confirmed by AC susceptibility (Fig. 4) measurement.
+
+Figure 5(a) shows the low field (0-30 mT) magnetization curves M(H) for Re_{\rm e}Hf taken at different temperatures. Lower critical field H_{c1}(T) is defined as the field deviating from the linear line for initial slope in magnetization curve. The H_{c1} is 5.2 mT at T=1.8 K and decreases monotonically with increase in temperature to 1.0 mT at T=5.5 K. The temperature variation of H_{c1}(T) is shown in Fig. 5(b). As expected H_{c1}(T) varies as a function of T^{2} in accordance with Ginzburg-Landau (GL) theory
+
+\[H_{c1}(T)=H_{c1}(0)\left(1-\left(\frac{T}{T_{c}}\right)^{2}\right).\] (2)
+
+Figure 4: Temperature dependence of [(a) real and (b) imaginary] AC susceptibility for Re_{\rm e}Hf.
+
+Figure 3: Temperature dependence of the magnetic moment, collected via zero-field cooled warming (ZFCW) and field cooled cooling (FCC) methods under an applied field of 10 mT.
+
+Figure 2: (a) Temperature dependence of the resistivity for Re_{\rm e}Hf shown over the range 1.85 K \leqslant T\leqslant 300 K. The inset shows the superconducting transition at T_{c}^{\rm onset}=5.96 K. (b) Quadratic temperature dependence over the temperature range 10 K \leqslant T\leqslant 50 K indicating Fermi-liquid behavior at low temperature.
+
+  Lower critical field H_{c1}(0) was estimated to be 5.6\pm 0.5 mT by fitting the relation given in Eq. (2) in the data given in Fig. 5(b).
+
+A magnetization curve at 1.8 K in high applied magnetic field range (\pm 7 T) is shown in Fig. 6. As evident from the graph, Re_{6}Hf exhibits a conventional type-II superconductivity. H_{Irr} estimated from magnetization curve is 1.80 T at 1.8 K, here for fields H>H_{Irr} unpinning of vortices starts taking place.
+
+#### iii.2.3 Specific heat
+
+Specific heat C(T) measurement for Re_{6}Hf in zero field in the temperature range 1.85 K \leqslant T\leqslant 10 K is shown in Fig. 7(a). The superconducting transition in specific heat data is manifested by a sharp jump in C(T) at T_{c}=5.96 K, confirming bulk superconductivity in Re_{6}Hf. The field dependence of the specific heat is shown in Fig. 7(b), where a jump near T_{c} moves to lower temperature and the size of the jump \Delta C becomes smaller with increasing magnetic field. The low temperature normal state specific heat can be extracted easily with the relation
+
+\[\frac{C}{T}=\gamma_{n}+\beta_{3}T^{2}+\beta_{5}T^{4},\] (3)
+
+where the extrapolation of normal state behavior below T_{c}, to the T\rightarrow 0 limit, allows the determination of normal state Sommerfeld coefficient \gamma_{n}, Debye constant \beta_{3}, and the anharmonic contribution \beta_{5} to the specific heat. By fitting Eq. (3) between 36 K \leqslant T^{2}\leqslant 100 K, as shown by the solid
+
+Figure 5: (a) Low-field magnetization curves for Re_{6}Hf at various temperatures (b) Temperature dependence of the lower critical field H_{c1} was fitted using Ginzburg-Landau relation gives H_{c1}(0)\sim 5.6 mT.
+
+Figure 6: Magnetization vs magnetic field variation at T=1.8 K. The magnetization is irreversible below a field H_{Irr}=1.8 T.
+
+Figure 7: (a) Temperature dependence of specific heat in zero field showing superconducting transition at T_{c}=5.96 K. (b) Field dependence of the specific heat data, showing the suppression of T_{c} with increasing field.
+
+  red line in Fig. 8, we obtained \gamma_{n} = 27.2 \pm 0.1 mJ mol^{-1} K^{-2}, \beta_{3} = 0.28 \pm 0.05 mJ mol^{-1} K^{-4}, and \beta_{5} = 0.0014 \pm 0.0003 \muJ mol^{-1} K^{-6}.
+
+The Debye temperature \theta_{D} is related to the \beta_{3} coefficient through the formula
+
+\[\theta_{D}=\left(\frac{12\pi^{4}RN}{5\beta}\right)^{\frac{1}{3}}\] (4)
+
+where R is the molar gas constant (=8.314 J mol^{-1} K^{-1}). Using N (=7) the number of atoms per formula unit, it gives \theta_{D} = 364 K. For noninteracting particles, the Sommerfeld coefficient is proportional to the density of states D_{C}(E_{F}) at the Fermi level which is calculated to be 11.53 \frac{\text{states}}{c^{3}V/\mu} from the relation given by
+
+\[\gamma_{n}=\left(\frac{\pi^{2}k_{B}^{2}}{3}\right)D_{C}(E_{f})\] (5)
+
+where k_{B}\approx 1.38 \times 10^{-23} J K^{-1}.
+
+This calculated density of states D_{C}(E_{f}), and the effective mass m^{*} of quasiparticles, contains the influence of the many body electron-phonon interaction and is related to the bare band-structure density of states D_{\text{band}}(E_{f}) and m_{\text{band}}^{*} according to relation
+
+\[D_{C}(E_{f})=D_{\text{band}}(E_{f})(1+\lambda_{e,ph})\] (6)
+
+\[m^{*}=m_{\text{band}}^{*}(1+\lambda_{e,ph})\] (7)
+
+where \lambda_{e,ph} is the dimensionless electron-phonon coupling constant. The electron-phonon coupling constant which gives the strength of attractive interaction between electron and phonon can be calculated using \theta_{D} and T_{c} given in McMillan theory McMillan (1963) by
+
+\[\lambda_{e-ph}=\frac{1.04+\mu^{*}ln(\theta_{D}/1.45T_{c})}{(1-0.62\mu^{*})ln( \theta_{D}/1.45T_{c})-1.04}\] (8)
+
+where \mu^{*} is the repulsive screened coulomb parameter, typically given by \mu^{*}=0.13 for many intermetallic superconductors. Using T_{c}=5.96 K (from our specific heat measurement) we obtained \lambda_{e-ph}=0.63. This value is comparable to other fully gapped noncentrosymmetric superconductors such as 0.6 for Re_{24}Ti_{5}Kimura _et al._ (2015), 0.5 for Nb_{0.18}Re_{0.82}Miyazaki _et al._ (2015), Re_{6}Zr K_{2}Kimura _et al._ (2015), and SrAuSi_{3}Kimura _et al._ (2015) suggesting that Re_{6}Hf is a moderately coupled superconductor. Using the value of \lambda_{e-ph}, we calculated D_{\text{band}}(E_{f}) equal to 7.04 \frac{\text{states}}{c^{3}V/\mu}. Also by taking m_{\text{band}}^{*}=m_{e} the effective mass for the quasiparticles comes out to be 1.63 m_{e}.
+
+The electronic contribution to the specific heat in the superconducting state C_{el}(T) can be calculated by subtracting the phononic contribution from the measured data C(T)
+
+\[C_{el}(T)=C(T)-\beta_{3}T^{3}+\beta_{5}T^{5}.\] (9)
+
+The magnitude of the specific heat jump \frac{\Delta C_{el}}{T_{c}} at T_{c} is 41.55 mJ mol^{-1} K^{-2}. This gives the normalized specific heat jump \frac{\Delta C_{el}}{\gamma_{n}T_{c}}=1.53 for \gamma_{n}=27.2 mJ mol^{-1} K^{-2}, which is slightly higher than the BCS value of \frac{\Delta C_{el}}{\gamma_{n}T_{c}}=1.43 in the weak coupling limit.
+
+The temperature dependence of the specific heat data in the superconducting state can best be described by the single-gap BCS expression for normalized entropy S
+
+\[\frac{S}{\gamma_{n}T_{c}}=-\frac{6}{\pi^{2}}\left(\frac{\Delta(0)}{k_{B}T_{c} }\right)\int_{0}^{\infty}[f\ln(f)+(1-f)\ln(1-f)]dy\] (10)
+
+where f(\xi)=[\exp(E(\xi)/k_{B}T)+1]^{-1} is the Fermi function, E(\xi)=\sqrt{\xi^{2}+\Delta^{2}(t)}, where \xi is the energy of normal electrons measured relative to the Fermi energy, y=\xi/\Delta(0), t=T/T_{c}, and \Delta(t)=\tanh[1.82(1.018((I/t)-1))^{0.51}] is the BCS approximation for the temperature dependence of the energy gap. The normalized electronic specific heat is related to the normalized entropy by
+
+\[\frac{C_{el}}{\gamma_{n}T_{c}}=t\frac{d(S/\gamma_{n}T_{c})}{dt}\] (11)
+
+where C_{el} below T_{c} is described by Eq. (11), whereas above T_{c} it is equal to \gamma_{n}T_{c}. Figure 9 shows the fitting of specific heat data to Eq. (11) which yields \alpha=\Delta(0)/k_{B}T_{c}=1.82\pm 0.03, which is slightly larger than the BCS value \alpha_{BCS}=1.764 in the weak coupling limit, suggesting a moderately coupled superconductivity in Re_{6}Hf as concluded from the value of \lambda_{e,ph} obtained earlier.
+
+Figure 9: Solid green curve in C_{el}/\gamma_{n}T versus T/T_{c} data show the single-gap BCS model fitting for \alpha=\Delta(0)/k_{B}T_{c}=1.82.
+
+  In the \alpha model BCS parameter \alpha_{BCS} is replaced by \alpha which can be determined from the jump \Delta C_{el} at T_{c} according to the formula \Delta C_{el}/\gamma_{n}T_{c}=1.426(\alpha/\alpha_{BCS})^{2}. Substituting the value of normalized specific heat jump \Delta C_{el}/\gamma_{n}T_{c}=1.53 for our sample, we get \alpha=1.82 which is in good agreement with the fitted value obtained above showing the consistency of the method.
+
+The fully gapped s-wave superconductivity in Re_{6}Hf can also be confirmed by the magnetic field dependence of the Sommerfeld coefficient \gamma(H). The Sommerfeld coefficient is proportional to the vortex density in a conventional fully gapped type-II superconductor. Therefore, as we apply more field the vortex density increases due to an increase in the number of field induced vortices which in turn enhances the quasiparticle density of states. This gives rise to a linear relation between \gamma and H, i.e., \gamma(H)\propto H for a nodeless and isotropic s-wave superconductor [48; 49; 50]. For a superconductor with nodes in the gap, Volovik predicted a nonlinear relation given by \gamma(H)\propto H^{\frac{1}{2}}[51].
+
+The Sommerfeld coefficient \gamma was calculated by fitting Eq. (12) in C_{el}/T versus T data for various fields and extrapolating it to T=0 K [48]
+
+\[\frac{C_{el}}{T}=\gamma+\frac{A}{T}\text{exp}\bigg{(}\frac{-bT_{c}}{T}\bigg{)}.\] (12)
+
+Field dependence of \gamma is shown in Fig. 10 where we can clearly observe a linear relation between \gamma(H) and H confirming the s-wave superconductivity in Re_{6}Hf which we have already seen by the single-gap BCS fitting in low temperature specific heat measurement.
+
+The condensation energy U (0) can be calculated using \gamma and \alpha(=\Delta(0)/k_{B}T_{c}) from the relation
+
+\[U(0)=\frac{1}{2}\Delta^{2}(0)D_{\text{band}}(E_{f})=\frac{3\gamma_{n}\Delta^{ 2}(0)}{4\pi^{2}k_{B}^{2}}\] (13)
+
+which gives U(0)=246.1 mJ mol^{-1}. The magnitude of electron-electron correlation can be given by Kadowaki-Woods ratio, which is given by K_{w}=\frac{A}{\gamma_{n}^{2}}, where A is the coefficient of the quadratic temperature dependent resistivity term, whereas \gamma_{n} is the normal state Sommerfeld coefficient. In heavy fermionic systems where electron-electron correlation is significant the Kadowaki-Woods ratio K_{w} approaches 1\times 10^{-5}\mu\Omega cm mJ^{-2}mole^{2} K^{2}[52; 53; 54]. For A=0.00279\mu\Omega cm K^{-2} and \gamma_{n}=27.2 mJ mol^{-1} K^{-2}, we found K_{w}=0.37\times 10^{-5}\mu\Omega cm mJ^{-2} mole^{2} K^{2} which is smaller than strongly correlated systems indicating that Re_{6}Hf is a weakly correlated system.
+
+Isothermal magnetization measurement was done in magnetic fields up to 7.0 T to calculate the upper critical field H_{c2}(0) as shown in the inset of Fig. 11. The transition temperature T_{c} was taken as the onset of the diamagnetic signal in magnetization measurement. As the field increases, T_{c} shifts to lower temperature with the superconducting transition becoming broader. H_{c2}(T) was seen to be varying linearly when plotted against reduced temperature (T/T_{c}) as displayed in Fig. 11, and can be fitted using the Ginzburg-Landau (GL) formula to calculate H_{c2}(0)
+
+\[H_{c2}(T)=H_{c2}(0)\frac{(1-t^{2})}{(1+t^{2})}\] (14)
+
+where t = T/T_{c}. Our experimental data fits fairly well with Eq. (14) yielding the upper critical field H_{c2}(0) to be around 12.2 \pm 0.1 T. The similar linear behavior of H_{c2}(T) was noted when calculated from specific heat measurements C(T) as shown by blue data points in Fig. 11; when fitted with GL formula it gives H_{c2}(0)\approx 12.2 T.
+
+H_{c2}(0) can be used to estimate the Ginzburg Landau coherence length \xi_{GL} from the relation [55]
+
+\[H_{c2}(0)=\frac{\Phi_{0}}{2\pi\xi_{GL}^{2}}\] (15)
+
+where \Phi_{0}(=2.07\times 10^{-15} Tm^{2}) is the magnetic flux quantum. Using H_{c2}(0)=12.2 T we calculated \xi_{GL}(0)\approx 52 A.
+
+In a type-II superconductor, Cooper pair breaking due to the applied magnetic field is attributed to two types of mechanisms: orbital and Pauli paramagnetic limiting field
+
+Figure 11: Determination of the upper critical field H_{c2}(0) via magnetization and heat capacity measurements. The solid lines are Ginzburg-Landau [Eq. (14)] fits. The inset shows the M(T) curves for various applied magnetic fields.
+
+Figure 10: \gamma and H were plotted versus each other after normalizing by \gamma_{n}(=27.2 mJ mol^{-1} K^{-2}) and H_{c2}(0)(=12.2 T). Solid blue curve in \gamma/\gamma_{n} versus H/H_{c2}(0) plot show the linear relation indicating s-wave superconductivity in Re_{6}Hf.
+
+  effect. In orbital pair breaking, the field-induced kinetic energy of a Cooper pair exceeds the superconducting condensation energy, whereas in Pauli paramagnetic limiting it is energetically favorable for the electron spins to align with the magnetic field, thus breaking the Cooper pairs. For BCS superconductors, the orbital limit of the upper critical field H_{c2}^{\text{orbital}}(0) was given by the Werthamer-Helfand-Hohenberg (WHH) expression [56,57]
+
+\[H_{c2}^{\text{orbital}}(0)=-\alpha T_{c}\frac{dH_{c2}(T)}{dT}\bigg{|}_{T=T_{c}}\] (16)
+
+where \alpha is the purity factor given by 0.693 for dirty limit superconductors and 0.73 for clean limit superconductors. Initial slope \frac{-dT_{c2}(T)}{dT}\big{|}_{T=T_{c}} calculated from the H_{c2}-T phase diagram is 2.36 T K^{-1}, which gives the orbital limiting upper critical field H_{c2}^{\text{orbital}}(0)\approx 9.77 T in the dirty limit. The Pauli limiting field within the BCS theory is given by H_{c2}^{P}(0)=1.86T_{c}[58,59], which for T_{c}=5.96 K gives H_{c2}^{P}(0)\approx 11.10 T. The Maki parameter [60]\alpha_{M} is the measure of relative strengths of the orbital and Pauli limiting values of H_{c2} and is given by
+
+\[\alpha_{M}=\sqrt{2}H_{c2}^{orb}(0)/H_{c2}^{P}(0).\] (17)
+
+From this relation we obtain \alpha_{M}=1.24. The sizable value of Maki parameter obtained from this expression is an indication that the effect of Pauli limiting field is non-negligible [37]. Since upper critical field H_{c2}(0) calculated above is close to both the orbital limiting field and Pauli limiting field, it is highly desirable to do the detailed investigations of the upper critical field in high quality single crystals of Re_{6}Hf. If H_{c2}(0) actually exceeds Pauli limit in clean single crystals of Re_{6}Hf, it confirms the contribution of spin-triplet component in superconducting pairing state. Anisotropic measurements of upper critical field H_{c2}(0) also aspires since the paramagnetic pair breaking effect depends on the spin structure of the paired electrons in momentum space which can give more information on effects of the ASOC and broken inversion symmetry on the superconducting state.
+
+The Ginzburg Landau penetration depth \lambda_{GL}(0) can be obtained from H_{c1}(0) and \xi_{GL}(0) using the relation [28]
+
+\[H_{c1}(0)=\bigg{(}\frac{\Phi_{0}}{4\pi\lambda_{GL}^{2}(0)}\bigg{)}ln\bigg{(} \frac{\lambda_{GL}(0)}{\xi_{GL}(0)}\bigg{)}.\] (18)
+
+For H_{c1}(0)\approx 5.6 mT and \xi_{GL}(0) = 52 A, we obtained \lambda_{GL}(0)\approx 3538 A.
+
+The Ginzburg Landau (GL) parameter is given by the relation
+
+\[k_{GL}=\frac{\lambda_{GL}(0)}{\xi_{GL}(0)}.\] (19)
+
+For \xi_{GL}(0) = 52 A and \lambda_{GL}(0) = 3538 A, we get \text{k}_{GL}\approx 68. GL parameter k_{GL}\gg\frac{1}{\sqrt{2}}, indicating that Re_{6}Hf is a strong type-II superconductor. Thermodynamic critical field H_{c} is obtained from k_{GL}, H_{c1}(0), and H_{c2}(0) using the relation [28]
+
+\[H_{c1}(0)H_{c2}(0)=H_{c}^{2}lnk_{GL}\] (20)
+
+yielding H_{c} around 126.7 mT.
+
+Ginzburg number G_{i} is the ratio of thermal energy k_{B}T (where the upper limit of T is T_{c}) to condensation energy associated with coherence volume, which measures the sensitivity of the vortex system against thermal fluctuations [61,62]
+
+\[G_{i}=\frac{1}{2}\bigg{(}\frac{k_{B}\mu_{0}\tau T_{c}}{4\pi\xi^{3}(0)H_{c}^{2 }(0)}\bigg{)}^{2}\] (21)
+
+where r is the anisotropy parameter which is 1 for cubic Re_{6}Hf. For \xi_{0} = 52 A, H_{c}(0) = 126.7 mT, and T_{c} = 5.96 K, we got G_{i} = 6.65 \times 10^{-2}. It was already noticed from the magnetization curve that melting of vortices starts at field H>H_{fr}(=1.8 T) which is much smaller than the upper critical field. This behavior is usually found in high temperature superconductors where melting of vortices is attributed to thermal fluctuations and very rarely in low T_{c} superconductors. G_{i}, which is found to be of the same order as high T_{c} superconductors, suggests that thermal fluctuations may be playing a role in unpinning of vortices. This is intriguing since most of the low T_{c} superconductors do not show vortex unpinning due to thermal fluctuations. This seems to be the case here also, since estimation of critical fields was quite straightforward with no significant broadening of thermodynamic measurements with the magnetic field, indicating an unconventional vortex state. Some theoretical and experimental work also suggested that noncentrosymmetric superconductors have an unconventional vortex state [63, 64, 65, 66]. Hence, a detailed study on the vortex dynamics of the good quality single crystal of Re_{6}Hf is needed to interpret these transverse results.
+
+## IV. Conclusion
+
+A single phase polycrystalline sample of Re_{6}Hf was prepared by arc-melting technique, which crystallizes into cubic, noncentrosymmetric \alpha-Mn (217) structure with lattice cell parameter a=9.6850(3) A. Transport, magnetization, and thermodynamic measurements reveal that Re_{6}Hf is a weakly correlated, type-II superconductor with the bulk transition temperature at T_{c}\approx 5.96 K. Above transition temperature T_{c}, resistivity measurement showed the poor metallic behavior whereas magnetization measurement showed weak paramagnetism. The computed value of the upper critical field H_{c2}(0)(\approx 12.2 T) is close to the Pauli limiting field, hence further investigations need to be done to explore the
+
+\begin{table}
+\begin{tabular}{l c c c} Parameters & unit & Re_{6}Hf & Re_{6}Zr [42] \\ \hline T_{c} & K & 5.96 & 6.7 \\ \rho_{0} & \mu2 cm & 106.12 & 137 \\ A & \mu2 cm K^{-2} & 0.0028 & 0.008 \\ H_{c1}(0) & mT & 5.6 & 8 \\ H_{c2}(0) & T & 12.2 & 11.6 \\ H_{c2}^{\text{orbital}}(0) & T & 9.8 & 10.65 \\ H_{c2}^{\text{orbital}}(0) & T & 11.1 & 12.2 \\ \xi_{GL} & Å & 52 & 53.3 \\ \lambda_{GL} & Å & 3538 & 3696 \\ k_{GL} & & 68.0 & 69.3 \\ \gamma_{u} & mJ mol^{-1} K^{-2} & 27.2 & 27.4 \\ \theta_{D} & K & 364 & 330 \\ \Delta C_{el}/\gamma_{u}T_{c} & & 1.53 & 1.62 \\ \end{tabular}
+\end{table}
+Table 2: Normal and superconducting properties of Re_{6}Hf.
+
+  possible mixture of singlet and triplet pairing states. Low temperature specific heat measurement indicates that Re_{6}Hf is a moderately coupled superconductor and it was further confirmed by the field dependence of Sommerfeld coefficient \gamma(H) where it varies linearly with H suggesting that electronic states near the Fermi surface are fully gapped. A similar type of behavior was observed in Re_{6}Zr in its initial measurements. Experimentally estimated values of all the parameters for our sample and Re_{6}Zr are summarized in Table 2. From Table 2 it is very clear that Re_{6}Zr and Re_{6}Hf parameters are almost the same despite Re_{6}Hf having much stronger spin-orbital coupling strength compared to Re_{6}Zr. These results suggest that along with spin-orbital coupling strength some other mechanism/phenomena is playing a role in determining the strength of spin-singlet and spin-triplet pairing channel. In order to fully understand the role of spin-orbital coupling, further experimental work on high-quality single crystals is required.
+
+_Note._ Recently, we became aware that superconductivity was reported on the same compound by another group [67].
+
+###### Acknowledgements.
+
+ We are grateful for valuable discussions with P. Biswas. R.P.S. acknowledges Science and Engineering Research Board, Government of India for the Ramanujan Fellowship through Grant No. SR/S2/RJN-83/2012.
+
+## References
+
+* [1] J. Bardeen, L. N. Cooper, and J. R. Schrieffer, Phys. Rev. **108**, 1175 (1957).
+* [2] P. W. Anderson, J. Phys. Chem. Solids **11**, 26 (1959).
+* [3] P. W. Anderson, Phys. Rev. B **30**, 4000 (1984).
+* [4] E. Bauer, G. Hilscher, H. Michor, Ch. Paul, E. W. Scheidt, A. Gribanov, Yu. Seropegin, H. Noel, M. Sigrist, and P. Rogl, Phys. Rev. Lett. **92**, 027003 (2004).
+* [5] V. M. Edel'shtein, Sov. Phys. JETP **68**, 1244 (1989).
+* [6] L. P. Gor'kov and E. I. Rashba, Phys. Rev. Lett. **87**, 037004 (2001).
+* [7] K. V. Samokhin, E. S. Zijlstra, and S. K. Bose, Phys. Rev. B **69**, 094514 (2004).
+* [8] P. A. Frigeri, D. F. Agterberg, A. Koga, and M. Sigrist, Phys. Rev. Lett. **92**, 097001 (2004).
+* [9] S. Fujimoto, J. Phys. Soc. Jpn. **76**, 051008 (2007).
+* [10] M. Nishiyama and Y. Inada, and Guo-qing Zheng, Phys. Rev. Lett. **98**, 047002 (2007).
+* [11] E. Bauer and M. Sigrist, _Non-centrosymmetric Superconductor: Introduction and Overview_ (Springer-Verlag, Heidelberg, 2012).
+* [12] N. Kimura, K. Ito, K. Saitoh, Y. Umeda, H. Aoki, and T. Terashima, Phys. Rev. Lett. **95**, 247004 (2005).
+* [13] N. Kimura, K. Ito, H. Aoki, S. Uji, and T. Terashima, Phys. Rev. Lett. **98**, 197001 (2007).
+* [14] I. Sugitani, Y. Okuda, H. Shishido, T. Yamada, A. Thamizhavel, E. Yamamoto, T. D. Matsuda, Y. Haga, T. Takeuchi, R. Settai, and Y. Onuki, J. Phys. Soc. Jpn. **75**, 043703 (2006).
+* [15] R. Settai, Y. Miyauchi, T. Takeuchi, F. Levy, I. Sheikin, and Y. Onuki, J. Phys. Soc. Jpn. **77**, 073705 (2008).
+* [16] R. Settai, I. Sugitani, Y. Okuda, A. Thamizhavel, M. Nakashima, Y. Onuki, and H. Harima, J. Magn. Mater. **310**, 844 (2007).
+* [17] T. Akazawa, H. Hidaka, H. Kotegawa, T. C. Kobayashi, T. Fujiwara, E. Yamamoto, Y. Haga, R. Settai, and Y. Onuki, J. Phys. Soc. Jpn. **73**, 3129 (2004).
+* [18] P. Badica, T. Kondo, and K. Togano, J. Phys. Soc. Jpn. **74**, 1014 (2005).
+* [19] K. Togano, P. Badica, Y. Nakamori, S. Orimo, H. Takeya, and K. Hirata, Phys. Rev. Lett. **93**, 247004 (2004).
+* [20] P. Badica, T. Kondo, T. Kudo, Y. Nakamori, S. Orimo, and K. Togano, Appl. Phys. Lett. **85**, 4433 (2004).
+* [21] H. Takeya, K. Hirata, K. Yamaura, K. Togano, M. ElMassalami, R. Rapp, F. A. Chaves, and B. Ouladdiaf, Phys. Rev. B **72**, 104506 (2005).
+* [22] H. Q. Yuan, D. F. Agterberg, N. Hayashi, P. Badica, D. Vandervelde, K. Togano, and M. Sigrist, and M. B. Salamon, Phys. Rev. Lett. **97**, 017006 (2006).
+* [23] J. Chen, L. Jiao, J. L. Zhang, Y. Chen, L. Yang, M. Nicklas, F. Steglich, and H. Q. Yuan, New J. Phys. **15**, 053005 (2013).
+* [24] V. K. Pecharsky, L. L. Miller, and K. A. Gschneidner, Phys. Rev. B **58**, 497 (1998).
+* [25] J. Chen, M. B. Salamon, S. Akutagawa, J. Akimitsu, J. Singleton, J. L. Zhang, and L. Jiao, and H. Q. Yuan, Phys. Rev. B **83**, 144529 (2011).
+* [26] S. Kuroiwa, Y. Saura, J. Akimitsu, M. Hiraishi, M. Miyazaki, K. H. Satoh, S. Takeshita, and R. Kadono, Phys. Rev. Lett. **100**, 097002 (2008).
+* [27] P. K. Biswas, M. R. Lees, A. D. Hillier, R. I. Smith, W. G. Marshall, and D. McK. Paul, Phys. Rev. B **84**, 184529 (2011).
+* [28] T. Klimczuk, F. Ronning, V. Sidorov, R. J. Cava, and J. D. Thompson, Phys. Rev. Lett. **99**, 257004 (2007).
+* [29] Y. Qi, J. Guo, H. Lei, Z. Xiao, T. Kamiya, and H. Hosono, Phys. Rev. B **89**, 024517 (2014).
+* [30] E. Bauer, G. Rogl, X.-Q. Chen, R. T. Khan, H. Michor, G. Hilscher, E. Royanian, K. Kumagai, D. Z. Li, Y. Y. Li, R. Podloucky, and P. Rogl, Phys. Rev. B **82**, 064511 (2010).
+* [31] A. B. Karki, Y. M. Xiong, I. Vekhter, D. Browne, P. W. Adams, D. P. Young, K. R. Thomas, J. Y. Chan, H. Kim, and R. Prozorov, Phys. Rev. B **82**, 064512 (2010).
+* [32] T. Shibayama, M. Nohara, H. Aruga Katori, Y. Okamoto, Z. Hiroi, and H. Takagi, J. Phys. Soc. Jpn. **76**, 073708 (2007).
+* [33] K. Wakui, S. Akutagawa, N. Kase, K. Kawashima, T. Muranaka, Y. Iwahori, J. Abe, and J. Akimitsu, J. Phys. Soc. Jpn. **78**, 034710 (2009).
+* [34] N. Kase and J. Akimitsu, J. Phys. Soc. Jpn. **78**, 044710 (2009).
+* [35] L. Fang, H. Yang, X. Zhu, G. Mu, Z. Sheng Wang, L. Shan, C. Ren, and H.-Hu Wen, Phys. Rev. B **79**, 144509 (2009).
+* [36] R. P. Singh, N. A. Parzyk, M. R. Lees, D. M. Paul, and G. Balakrishnan, J. Cryst. Growth **395**, 22 (2014).
+* [37] A. B. Karki, Y. M. Xiong, N. Haldolaarachchige, S. Stadler, I. Vekhter, P. W. Adams, D. P. Young, W. A. Phelan, and J. Y. Chan, Phys. Rev. B **83**, 144525 (2011).
+* [38] C. S. Lue, T. H. Su, H. F. Liu, and B. L. Young, Phys. Rev. B **84**, 052509 (2011).
+
+  * [39] J. Chen, L. Jiao, J. L. Zhang, Y. Chen, L. Yang, M. Nicklas, F. Steglich, and H. Q. Yuan, Phys. Rev. B **88**, 144510 (2013).
+* [40] J. A. T. Barker, D. Singh, A. Thamizhaved, A. D. Hillier, M. R. Lees, G. Balakrishnan, D. McK. Paul, and R. P. Singh, Phys. Rev. Lett. **115**, 267001 (2015).
+* [41] R. P. Singh, A. D. Hillier, B. Mazidian, J. Quintanilla, J. F. Annett, D. M. Paul, G. Balakrishnan, and M. R. Lees, Phys. Rev. Lett. **112**, 107002 (2014).
+* [42] A. M. Khan, arXiv:1603.07297.
+* [43] A. D. Hillier, J. Quintanilla, and R. Cywinski, Phys. Rev. Lett. **102**, 117007 (2009).
+* [44] H. Takeya, M. ElHassalami, and S. Kasahara, and K. Hirata, Phys. Rev. B **76**, 104506 (2007).
+* [45] C. S. Lue, H. F. Liu, C. N. Kuo, P. S. Shih, J-Y. Lin, Y. K. Kuo, M. W. Chu, T-L Hung, and Y. Y. Chen, Superconduct. Sci. Tech. **26**, 055011 (2013).
+* [46] F. von Rohr, H. Luo, N. Ni, M. Worle, and R. J. Cava, Phys. Rev. B **89**, 224504 (2014).
+* [47] W. L. McMillan, Phys. Rev. **167**, 331 (1968).
+* [48] M. Isobe, A. Masao, and N. Shirakawa, Phys. Rev. B **93**, 054519 (2016).
+* [49] C. Caroli, P. G. de Gennes, and J. Matricon, Phys. Lett. **9**, 307 (1964).
+* [50] P. G. de Gennes, _Superconductivity of Metals and Alloys_ (W. A. Benjamin, New York, 1966).
+* [51] G. E. Volovik, JETP Lett. **58**, 469 (1993).
+* [52] K. Kadowaki and S. B. Woods, Solid State Commun. **58**, 507 (1986).
+* [53] R. Jin, J. He, S. McCall, C. S. Alexander, F. Drmiotis, and D. Mandrus, Phys. Rev. B **64**, 180503 (2001).
+* [54] A. C. Jacko, J. O. Fjaerestad, and B. J. Powell, Nat. Phys. **5**, 422 (2009).
+* [55] M. Tinkham, _Introduction to Superconductivity_, 2nd ed. (McGraw-Hill, New York, 1996).
+* [56] E. Helfand and N. R. Werthamer, Phys. Rev. **147**, 288 (1966).
+* [57] N. R. Werthamer, E. Helfand, and P. C. Hohenberg, Phys. Rev. **147**, 295 (1966).
+* [58] B. S. Chandrasekhar, Appl. Phys. Lett. **1**, 7 (1962).
+* [59] A. M. Clogston, Phys. Rev. Lett. **9**, 266 (1962).
+* [60] K. Maki, Phys. Rev. **148**, 362 (1966).
+* [61] O. Prakash, A. Thamizhavel, and S. Ramakrishnan, Supercond. Sci. Technol. **28**, 15012 (2015).
+* [62] G. Blatter, M. V. Feigel'man, V. B. Geshkenbein, and A. I. Larkin, and V. M. Vinokur, Rev. Mod. Phys. **66**, 1125 (1994).
+* [63] M. Sigrist and D. F. Agterberg, Prog. Theor. Phys. **102**, 965 (1999).
+* [64] E. Dumont and A. C. Mota, Phys. Rev. B **65**, 144519 (2002).
+* [65] C. F. Miclea, A. C. Mota, M. Sigrist, F. Steglich, T. A. Sayles, B. J. Taylor, C. A. McElroy, and M. B. Maple, Phys. Rev. B **80**, 132502 (2009).
+* [66] C. F. Miclea, A. C. Mota, M. Nicklas, R. Cardoso, F. Steglich, M. Sigrist, A. Prokofiev, and E. Bauer, Phys. Rev. B **81**, 014527 (2010).
+* [67] B. Chen, Y. Guo, H. Wang, Q. Su, Q. Mao, J. Du, Y. Zhou, J. Yang, and M. Fang, Phys. Rev. B **94**, 024518 (2016).
+
+ 

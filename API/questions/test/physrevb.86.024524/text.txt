@@ -1,0 +1,339 @@
+Interplay of superconductivity and charge density wave ordering in pseudoternary alloy compounds: Lu\({}_{2}\)Ir\({}_{3}\)(Si\({}_{1-x}\)Ge\({}_{x}\))\({}_{5}\), Lu\({}_{2}\)(Ir\({}_{1-x}\)Rh\({}_{x}\))\({}_{3}\)Si\({}_{5}\), and (Lu\({}_{1-x}\)Sc\({}_{x}\))\({}_{2}\)Ir\({}_{3}\)Si\({}_{5}\)
+
+N. S. Sangeetha
+
+Department of Physics, Indian Institute of Technology Guwahati, Guwahati, Assam 781039, India
+
+A. Thamizhavel
+
+Department of Condensed Matter Physics and Materials Science, Tata Institute of Fundamental Research, Homi Bhabha Road, Colaba, Mumbai 400005, India
+
+C. V. Tonry
+
+Department of Physics, Indian Institute of Technology Bombay, Mumbai 400076, India
+
+Saurabh Basu
+
+Department of Physics, Indian Institute of Technology Bombay, Mumbai 400076, India
+
+A. M. Awasthi
+
+IUC-DAEF, Indira
+
+S. Ramakrishnan
+
+Department of Condensed Matter Physics and Materials Science, Tata Institute of Fundamental Research, Homi Bhabha Road, Colaba, Mumbai 400005, India
+
+D. Pal
+
+d. Pal@iitp.ac.in Department of Physics, Indian Institute of Technology Bombay, Mumbai 400076, India
+
+November 7, 2021
+
+###### Abstract
+
+We explore the interplay and competition between superconductivity (SC) and the charge density wave (CDW) ordering transition on pseudoternary alloys (Lu\({}_{1-x}\)Sc\({}_{x}\))\({}_{2}\)Ir\({}_{3}\)Si\({}_{5}\), Lu\({}_{2}\)(Ir\({}_{1-x}\)Rh\({}_{x}\))\({}_{3}\)Si\({}_{5}\), and Lu\({}_{2}\)Ir\({}_{3}\)(Si\({}_{1-x}\)Ge\({}_{x}\))\({}_{5}\) via magnetization, thermal and transport measurements. We track the evolution of the superconducting transition temperature \(T_{\rm SC}\) and the CDW ordering transition temperature \(T_{\rm CDW}\) as a function of doping concentration \(x\) to present a temperature-concentration phase diagram for each of the series of compounds. We find that as we increase \(x\), \(T_{\rm CDW}\) and \(T_{\rm SC}\) show a nonmonotonic behavior in Lu\({}_{2}\)Ir\({}_{3}\)(Si\({}_{1-x}\)Ge\({}_{x}\))\({}_{5}\). Here, we observe that both CDW and SC survive till 20% of the Ge substitution. In Lu\({}_{2}\)(Ir\({}_{1-x}\)Rh\({}_{x}\))\({}_{3}\)Si\({}_{5}\), as Rh concentration increases, \(T_{\rm CDW}\) varies rapidly from 207 to 284 K, whereas the \(T_{\rm SC}\) changes gradually from 5.5 to 2.5 K. In addition, the SC substitution at the Lu site of Lu\({}_{2}\)Ir\({}_{3}\)Si\({}_{5}\) displays a slight change in CDW transition temperature, without affecting the SC ordering temperature too much. Our study reveals that the CDW anomalies are broadened and smeared out, probably by substitutional disorder effects. The heat capacity data in the vicinity of the CDW transition for all the substituted alloys are analyzed using a model of critical fluctuations in addition to a mean-field contribution and a smooth lattice background. The critical exponent changes appreciably with increasing disorder, which suggests that the first-order CDW transition in the parent compound Lu\({}_{2}\)Ir\({}_{3}\)Si\({}_{5}\) changes to a second-order transition via doping.
+
+pacs: 10.1103/PhysRevB.86.024524 +
+Footnote †: preprint: PJYSICAL B 86, 024524 2012
+
+## I Introduction
+
+The charge density wave (CDW) transition is a well-known phenomenon in a large variety of quasi-low-dimensional conductors. Their appearance is basically due to the nesting of the Fermi surface arising out of low dimensionality. This is very well documented from the early works of many research groups.[1, 2, 3] In the past several years a wide range of quasi-low-dimensional compounds such as K\({}_{0.3}\)MoO\({}_{3}\) (Refs. [4, 5, 6]), NbSe\({}_{3}\) (Ref. [7]), ZrTe\({}_{3}\) (Ref. [8]), 2H-TaSe\({}_{2}\) or 2H-NbSe\({}_{2}\), TiSe\({}_{2}\) or high-\(T_{C}\) cuprates,[9, 10, 11] so an and different families of organic materials (TTF-TCNQ and Bechgaard salts)[12, 13] have been under extensive investigation. Superconductivity (SC) also appears in some materials such as 2H-NbSe\({}_{2}\) which is a multigaps-wave superconductor.[14, 15] The interplay between magnetic order and superconductivity has received considerable attention with the discovery of pnictide superconductors.[16, 17] SC and CDW are two very different cooperative phenomena, both of which occur due to Fermi surface (FS) instabilities that result in the opening up of a gap at the FS, leading to a reduction in the density of states (DOS) at the FS below their respective transition temperatures. In the newly found arsenic superconductors, it was found that the suppression of the spin density wave, either by external pressure or chemical pressure, broadens the superconducting region drastically.[18, 19, 20] In Cu\({}_{x}\)TiSe\({}_{2}\), the superconductivity originates only after a considerable suppression of the CDW ordering.[21] Similarly, Xiangde _et al._ have very recently reported the coexistence of bulk superconductivity and charge density wave in Cu intercalated quasi-two-dimensional crystals of ZrTe\({}_{3}\) (Ref. [22]). These results further indicate that the superconductivity and CDW compete with each other. It is therefore of great interest to investigate the effects that SC and CDW have on each other when both happen to occur in the same system.[23] However, most of these studies have been done on systems with quasi-low-dimensional structures. CDW is generally observed in compounds with lower dimensionality (two dimensional or one dimensional, 2D/1D) and the transition is a second-order one. The low dimensionality produces anisotropic Fermi surfaces with a small curvature that is favorable for nesting and this leads to the CDW formation. But recently the 2-3-5 as well as the 5-4-10 series compounds, which are considered to have a three-dimensional (3D) structure, have provided evidence of CDW ordering, accompanied by a first-order transition. Hence it appears that in these materials, due to the presence of the 3D structures, it is unlikely to get a perfect nesting, but the Fermi surface has an unusual feature such that imperfect nesting effects remain a possibility, like spin density wave (SDW) in chromium metal.
+
+Hence, to gain a comprehensive understanding of the coexistence, competition, or interplay of charge density wave with magnetism or superconductivity, new classes of materials, especially those having a 3D structure are needed. Recently the three-dimensional rare-earth intermetallic compounds belonging to the series \(R_{3}T_{4}X_{10}\) (\(R\) = rare-earth elements; \(T\) = transition metal, and \(X\) = \(s\)-\(p\) metal) have provided a platform to investigate different types of cooperative phenomena. For example, an interplay of SC and CDW can be realized if \(R\) is nonmagnetic whereas it is competing between magnetism and CDW/SDW if \(R\) is magnetic and so on.[24, 25, 26, 27] Similarly, the rare-earth transition metal silicides and germanides with the general formula \(R_{2}T_{3}X_{5}\) have attracted considerable attention due to the variety of phase transitions and remarkable physical properties that they exhibit.[28, 29] Among the known  alloys, Lu\({}_{2}\)Ir\({}_{3}\)Si\({}_{5}\) shows a superconducting transition at 3.5 K and undergoes another phase transition below 190 K which has been shown to be a strongly coupled charge density wave ordering.[30] Electrical resistivity data for Er\({}_{2}\)Ir\({}_{3}\)Si\({}_{5}\) exhibit a weak anomaly at 150 K (Ref. [31]). Thus, it would be interesting to study the competition/interplay between CDW and SC properties on Lu\({}_{2}\)Ir\({}_{3}\)Si\({}_{5}\). In particular, we are aware of only three reports on phase transitions in Lu\({}_{2}\)Ir\({}_{3}\)Si\({}_{5}\) (Refs. [30, 32, 33], One observes significant effect in the variation of the transition temperature of CDW/SC of Lu\({}_{2}\)Ir\({}_{4}\)Si\({}_{10}\) on the application of (chemical) pressure or by changing the density of electrons in the Fermi surface.[34] Hence it would be important to investigate the consequence of the chemical pressure and variation of electrons in the Fermi surface in Lu\({}_{2}\)Ir\({}_{3}\)Si\({}_{5}\). Lu\({}_{2}\)Ir\({}_{3}\)Ge\({}_{5}\) is isostructural to that of Lu\({}_{2}\)Ir\({}_{3}\)Si\({}_{5}\), but differs only by the size of a unit cell, hence one would expect a CDW transition also in Lu\({}_{2}\)Ir\({}_{3}\)Ge\({}_{5}\). However, Lu\({}_{2}\)Ir\({}_{3}\)Ge\({}_{5}\) is found to show only a superconducting transition below 1.8 K without any signature of CDW ordering.[35] Thus it is of interest to investigate how the CDW and SC evolve when we substitute Ge in the Si site of Lu\({}_{2}\)Ir\({}_{3}\)Si\({}_{5}\). Further, it is well known that in 2-3-5-systems the density of electrons in the Fermi surface is governed mostly by the transition metals.[36] Hence it is of interest to examine the influence of Rh at the Ir site of this compound, as it has been already established that Lu\({}_{2}\)Rh\({}_{3}\)Si\({}_{5}\) show normal behavior till 1.8 K (Ref. [37]). Further, it would be of interest to see the influence of Sc on the Lu site, as it was demonstrated earlier that the Lu atom was responsible for the origin of CDW in Lu\({}_{2}\)Ir\({}_{3}\)Si\({}_{5}\) (Ref. [25]). In this paper, we use the pseudoternary system of Lu\({}_{2}\)Ir\({}_{3}\)Si\({}_{5}\) to investigate the effects of atomic disorder ([Lu\({}_{1-x}\)Sc\({}_{x}\))\({}_{2}\)Ir\({}_{3}\)Si\({}_{5}\)), the density of states at the Fermi level [Lu\({}_{2}\)(Ir\({}_{1-x}\)Rh\({}_{x}\))\({}_{3}\)Si\({}_{5}\)] and the lattice volume [Lu\({}_{2}\)Ir\({}_{3}\)(Si\({}_{1-x}\)Ge\({}_{x}\))\({}_{5}\)] on both CDW and superconductivity via dc magnetic susceptibility, electrical resistivity, and heat capacity measurements.
+
+## II Experiment
+
+The polycrystalline samples of Lu\({}_{2}\)Ir\({}_{3}\)(Si\({}_{1-x}\)Ge\({}_{x}\))\({}_{5}\), Lu\({}_{2}\)(Ir\({}_{1-x}\)Rh\({}_{x}\))\({}_{3}\)Si\({}_{5}\), and (Lu\({}_{1-x}\)Sc\({}_{x}\))\({}_{2}\)Ir\({}_{3}\)Si\({}_{5}\) were prepared by arc melting the stoichiometric mixtures of constituent elements (the purity of Lu, Si, Ge was 99.999%; and that of Sc, Ir, Rh was 99.99%) on a water cooled copper hearth within a Ti-gettered argon atmosphere. The resulting ingots were flipped over and remelted at least six times to promote the homogeneity of the mixture. The samples were wrapped in the Tantalum foil, then sealed in a quartz tube under a vacuum and finally annealed at 1000 degC for ten days. The room temperature powder x-ray diffraction (XRD) with Cu K\(\alpha\) radiation was taken on the annealed samples by using PANalytical commercial x-ray diffractometer. A commercial superconducting quantum interference device (SQUID) magnetometer (MPMS5, Quantum Design, USA) was used to measure dc magnetic susceptibility in the temperature range from 1.8 to 300 K for the field of 10 Oe to estimate the superconducting transition and in the field of 5 T to look at the CDW transition in the temperature range of 50 to 300 K. The temperature dependence of the electrical resistivity between 1.8 and 300 K was measured using a home-built electrical resistivity set up with the standard dc four probe technique. The specific heat data were taken on the samples in zero field between 1.8 to 10 K using a commercial physical property measurement system (PPMS, Quantum Design, USA) whereas for the temperature between 120 to 300 K, it was measured in a commercial differential scanning calorimetry (DSC) system to probe the CDW transition.
+
+The crystal structure of Lu\({}_{2}\)Ir\({}_{3}\)Si\({}_{5}\) is shown in Fig. 1. The ternary rare-earth-transition metal silicide Lu\({}_{2}\)Ir\({}_{3}\)Si\({}_{5}\) crystallizes in the three-dimensional orthorhombic U\({}_{2}\)Co\({}_{3}\)Si\({}_{5}\) type structure with the space group _Ibam_ (No. 72). The Ir-Si-Ir bond forms as a cage around the Lu atom. The Lu atoms form a two-dimensional array with the shortest Lu-Lu distance of 3.911 A. By analyzing the distances between other atoms, these Lu atoms have the shortest distance with respect to all other bonds, suggesting a quasi-1D conducting channel in the Lu-Lu chain developing along the \(c\) axis. The lattice constants \(a\), \(b\), and \(c\) were estimated from the Revicted fit of their powder x-ray diffraction patterns by using the fullprof program. The results are listed in the Table 1.
+
+Figure 1: (Color online) The crystal structure of Lu\({}_{2}\)Ir\({}_{3}\)Si\({}_{5}\). The large (red) spheres correspond to the Lu atom, Ir atoms with medium (yellow) spheres, and Si atoms with small (green) spheres.
+
+  
+
+## III Results
+
+### Lu\({}_{2}\)Ir\({}_{3}\)(Si\({}_{1-x}\)Ge\({}_{x}\))\({}_{5}\)
+
+#### iii.1.1 X-ray diffraction studies
+
+The x-ray diffraction (XRD) pattern of the samples clearly reveals the absence of any impurity phase and also confirms that the samples crystallize in the U\({}_{2}\)Co\({}_{3}\)Si\({}_{3}\) type of structure with the space group _Ibam_. The lattice constants \(a\), \(b\), and \(c\) were estimated from the Reitveld fit of their powder x-ray diffraction patterns by using the fullprof program.[38] The refinement was done using the site occupation for constituent elements determined by the electron probe microanalyzer (EPMA), shown in Fig. 2. The results are listed in Table 1 and the corresponding unit cell volume and \(c/a\) ratio are plotted in Fig. 3. The \(a\) axis of the unit cell increases progressively as the Ge concentration increases up to 2% (\(x<0.02\)) in the alloy and above which the value it decreases, whereas the lattice volume and the \(c/a\) ratio increases linearly upon Ge doping as shown in Fig. 3. Even though EPMA shows contrast in the photograph, the ratio of the constituent elements does not show any significant variation at various regions of the sample.
+
+We also have performed an energy-dispersive x-ray analysis and confirmed the stoichiometry of Lu\({}_{2}\)Ir\({}_{3}\)(Si\({}_{1-x}\)Ge\({}_{x}\))\({}_{5}\) (\(x=0.0\)-\(0.2\)) crystals as well.
+
+#### iii.1.2 Magnetic susceptibility studies
+
+The temperature dependence of the dc susceptibility for the pseudoternary alloys of Lu\({}_{2}\)Ir\({}_{3}\)(Si\({}_{1-x}\)Ge\({}_{x}\))\({}_{5}\) for a low concentration of \(x=0.00\)-\(0.2\) is shown in Fig. 4. The left panels in the figure show the low temperature (1.8 to 10 K) zero-field-cooled (ZFC) (it is warming data in a field after the sample was cooled in zero field) data in the field of 1 mT to observe the existence of superconductivity in the samples. The field-cooled (FC) (the sample was cooled in the presence of the field and then warming up data in the presence of a field was recorded) does show a bifurcation from the ZFC data at the onset of the diamagnetic signal (data not presented here). The superconducting transition is clearly seen with the appearance of the diamagnetic signal
+
+Figure 4: The temperature dependence of the dc susceptibility for the samples of Lu\({}_{2}\)Ir\({}_{3}\)(Si\({}_{1-x}\)Ge\({}_{x}\))\({}_{5}\) with \(x=0.00\)–\(0.2\). The left panels demonstrate the low temperature behavior of dc susceptibility which highlights the superconducting transition. The right panels show the CDW transition for these samples.
+
+Figure 2: (Color online) Powder x-ray diffraction data of the Lu\({}_{2}\)Ir\({}_{3}\)Si\({}_{4.95}\)Ge\({}_{0.05}\). The solid line represents the simulated data using fullprof (Reitveld Program).
+
+ around the ordering region, however, the transition is not complete till 1.8 K and shows features of superconductivity. The superconducting transition temperature for the undoped sample (\(x=0.00\)) matches with the previously reported value,[33] but it is 2 K higher than that reported by Singh _et al.[30]_ The difference can be seen with all the doped compounds which may be due to the disorder, defects, or inhomogeneities (on the atomic scale) present in our samples. We suspect that the differences in the transition temperature \(T_{\rm SC}\) are caused by strain-induced disorder in the sample arising from defects or localized atomic disorder. Hence as the chemical pressure is not uniform throughout the sample, so different regions undergo transitions at different temperatures and hence the two-step transition was observed. It can also be related to the presence of a different phase suggested by the EPMA result.
+
+The right panels show the susceptibility data over temperatures from 100 to 300 K in a field of 5 T to highlight the CDW transition. The diamagnetic drop in \(\chi\) (right panels of the figure) is the striking feature of the CDW transition for the nonmagnetic samples, which is consistent with the previous result.[30] This is attributed to a reduction of the electronic density of states at the Fermi level which results in the partial opening of an energy gap at the Fermi level. It can immediately be seen that even a small Ge concentration affects the CDW strongly. As the Ge concentration increases in the alloy from \(x=0.00\) to \(x=0.02\), \(T_{\rm CDW}\) starts to decrease from 200 K corresponding to the undoped sample Lu\({}_{2}\)Ir\({}_{3}\)Si\({}_{5}\), down to 160 K and then increases gradually up to 231 K for the higher concentration of Ge (\(x>0.02\)) (see the right panels of Fig. 4). The value of the \(T_{\rm CDW}\) is determined by the peaks in the derivative (\(d\chi/dT\) vs \(T\)) plots. Importantly, there is a corresponding change in the superconducting transition temperature \(T_{\rm SC}\). The observed transition temperature varies systematically as a function of \(x\); the \(T_{\rm SC}\) rises to a maximum value of 7.7 K for \(x=0.2\) and then drops to 3.6 K (see the left panel of Fig. 4). It is interesting to note that both SC and CDW orderings do not vanish even with 20% of the Ge substitution in the alloy. Moreover, they compete with each other. We shall return to this point as we discuss further.
+
+#### iii.2.3 Resistivity studies
+
+Figures 5 and 6 are the plots of the normalized electrical resistivity as a function of temperature from 1.8 to 300 K of the pseudoternary systems Lu\({}_{2}\)Ir\({}_{3}\)(Si\({}_{1-x}\)Ge\({}_{x}\))\({}_{5}\) for \(x=0.00\), 0.004, 0.01, and 0.02 and for \(x=0.05\), 0.1, 0.15, and 0.2, respectively. The main panel demonstrates the CDW transition at higher temperatures. The insets of the figure show the low temperature behavior of resistivity between 1.8 to 9 K, where we can clearly observe a sharp drop in resistivity at a certain temperature, highlighting the SC transition. Again, the resistive drop does not become zero till 1.8 K, in corroboration of the low temperature susceptibility data. We anticipate that the resistivity for the above compounds will go to zero below 1.8 K, the lowest temperature available in our setup.
+
+It is to be noted that \(\rho(T)\) at higher temperatures depicts the semimetallic CDW character of the pseudoternary alloys of Lu\({}_{2}\)Ir\({}_{3}\)(Si\({}_{1-x}\)Ge\({}_{x}\))\({}_{5}\). The multiple transitions at the low temperature region corroborates with the susceptibility data and may have its origin in the EPMA results. It is noticed that the step in the transition gradually vanishes with the increase in Ge concentration and the plausible explanation is that it occurs due to the relaxation of the lattice chain via lattice expansion. The upturn in the resistivity data at higher temperatures occurs due to the opening up of a gap at the Fermi level indicating the CDW ordering. After reaching the maximum, the resistivity continues to show metallic behavior down to the lowest temperature and then finally undergoes the superconducting transition. Thus the electronically separated phase transition is associated with the metal-insulator-metal transition due to the partial gap of the Fermi surface. We also observe an increase in \(T_{\rm SC}\) (from 5.5 to 7.7 K) as the Ge concentration increases from \(x=0.004\) to \(x=0.02\), while \(T_{\rm CDW}\) shifts to lower temperatures (from 200 to 160 K) for these samples (see Fig. 5). For the samples with a higher Ge substitution, a reverse trend is observed in both the \(T_{\rm SC}\) and \(T_{\rm CDW}\) transitions [i.e., the decrease in the SC transition temperature while the CDW ordering temperature is enhanced from 160 to 231 K (see Fig. 6)]. The dc susceptibility data are in good agreement with the above inference.
+
+It has been suggested that the CDW formation and superconductivity are competing phenomena since both compete for the density of states near the Fermi surface. Hence the presence of impurities in a CDW material may lead to a change in the CDW transition temperature and also possible smearing of the CDW transition. In addition to impurity, scattering of electrons and inducing a finite electron lifetime
+
+Figure 5: The temperature dependence of the electrical resistivity for Lu\({}_{2}\)Ir\({}_{3}\)(Si\({}_{1-x}\)Ge\({}_{x}\))\({}_{5}\) with \(x=0.00\), 0.004, 0.01, and 0.02. The main panels shows the variation of resistivity from 1.8 to 300 K. The insets show resistivity data between 1.8 to 9 K to highlight SC transition.
+
+  may also induce Friedel oscillations in the electron-charge distribution, leading to a static lattice distortion which leads to the modification of the CDW transition temperature.[26] All these facts may contribute in their own ways and hence the CDW transition temperature shows a modulation as the amount of Ge in the alloy Lu\({}_{2}\)Ir\({}_{3}\)(Si\({}_{1-x}\)Ge\({}_{x}\))\({}_{5}\) varies.
+
+\(T_{\rm CDW}\) is determined from the temperature of the peak position in the plot of \(d\rho/dT\) vs \(T\) and the transition width \(\triangle\,T_{\rm CDW}\) is defined by the full width at half maximum (FWHM) of the peaks at the transition, as observed in the derivatives of the resistivity data. The temperature dependence of the CDW transition temperature \(T_{\rm CDW}\), the amplitude of the anomaly in resistivity \(\triangle\rho/\rho\)(300 K), the superconducting transition temperature \(T_{\rm SC}\) for the different composition of the alloy Lu\({}_{2}\)Ir\({}_{3}\)(Si\({}_{1-x}\)Ge\({}_{x}\))\({}_{5}\) and the sharpness of the transition \(\triangle\,T_{\rm CDW}/T_{\rm CDW}\) are listed in Table 2. One can see that the reduction of \(\triangle\rho\) and \(\triangle T_{\rm CDW}\) anticorrelates with the \(T_{\rm SC}\) increase for the Ge concentration ratio between 0.00 and 0.02. In the region of doping concentration, \(x\) = 0.05-0.2, the value of \(\triangle\rho\) does not show any change, which may be due to the saturation of the influence of disorder in the system.
+
+#### iii.2.4 Heat-capacity studies
+
+The temperature dependence of heat capacity (\(C_{P}\)) for Lu\({}_{2}\)Ir\({}_{3}\)(Si\({}_{1-x}\)Ge\({}_{x}\))\({}_{5}\) is fitted above the superconducting transition using the given expression
+
+\[C_{\rm Tot}=C_{\rm elec}+C_{\rm Ph}=\gamma\,T+\beta\,T^{3},\] (1)
+
+where \(C_{\rm elec}\) is due to the electronic contribution and \(C_{\rm Ph}\) is due to the phonon contribution, with \(\gamma\) and \(\beta\) being constants. From the \(\gamma\) and \(\beta\) values, we can calculate the enhanced density of states at the Fermi level
+
+\[N^{*}(E_{F})\,=\,3\gamma/2\pi^{2}N\,x\,k_{B}^{2}\] (2)
+
+as well as the Debye temperature,
+
+\[\theta_{D}=\left(\frac{12\pi^{4}N\,x\,k_{B}}{5\beta}\right)^{1/3},\] (3)
+
+where \(N\) is the Avogadro number, \(x\) is the number of atoms per formula unit, and \(k_{B}\) is the Boltzmann constant. Using the value of \(\theta_{D}\) and \(T_{\rm SC}\), we can calculate the electron phonon scattering parameter \(\lambda_{\rm SC}\) from McMillan's theory;[22] the expression is given as
+
+\[\lambda_{\rm SC}=\frac{1.04+\mu^{*}{\rm ln}(\theta_{\rm D}/1.45\,T_{\rm SC})}{ (1-0.62\mu^{*}){\rm ln}(\theta_{\rm D}/1.45\,T_{\rm SC})-1.04}.\] (4)
+
+Hence, the bare density of states is obtained as
+
+\[N(E_{F})=N^{*}(E_{F})/(1+\lambda_{\rm SC}).\] (5)
+
+The estimated superconducting parameters from \(C_{P}\) data are presented in Table 3.
+
+The heat capacity data in the temperature range from 120 to 300 K for the compounds Lu\({}_{2}\)Ir\({}_{3}\)(Si\({}_{1-x}\)Ge\({}_{x}\))\({}_{5}\) are shown in Figs. 7 and 8. The observed specific heat \(C_{P}\) is a combination of the contribution from the lattice background and anomalous
+
+\begin{table}
+\begin{tabular}{c c c c c} \(x\) & \(T_{\rm CDW}\) (K) & \(\frac{\triangle\rho}{\rho(300\,{\rm K})}\)(\%) & \(\frac{\triangle T_{\rm CDW}}{T_{\rm CDW}}\)(\%) & \(T_{C}\) (K) \\ \hline
+0.00 & 200 & 22 & 14 & 5.5 \\
+0.004 & 192 & 11 & 13 & 6.3 \\
+0.01 & 174 & 12 & 12 & 6.8 \\  peaks. Clearly the anomaly, in the heat capacity found in each compound, denotes the CDW ordering of the compound. The peaks appear to be reduced in magnitude and broadened compared to the anomaly seen in the data for Lu\({}_{2}\)Ir\({}_{3}\)Si\({}_{5}\). It is noted that \(T_{\rm CDW}\) measured from \(C_{P}\) measurements is consistent with the previously reported resistivity and dc susceptibility results. The background subtraction of specific heat has been done by fitting the lattice contribution of specific heat, for the data far away from the transition, to demonstrate the heat capacity jumps, \(\triangle C_{\rm CDW}\) for all the compounds. The entropy change \(\triangle S_{\rm CDW}\) across the CDW transition is estimated by integrating \(\triangle C_{\rm CDW}/Tvs\)\(T\) curves depicted in Fig. 9 along with the temperature dependence of \(\triangle C_{\rm CDW}\) across the CDW ordering for all the substituted alloys. The parameters obtained from heat capacity data such as specific heat jump \(\triangle C_{\rm CDW}\), entropy change associated with the transition \(\triangle S_{\rm CDW}\), and an excess specific heat ratio \(\triangle C_{\rm CDW}/C_{\rm CDW}\) are summarized in Table 4. Here we observe that the amplitude of the specific heat at the CDW transition decreases with the increase in the Ge concentration. Such an effect can be related to the increase in the local defects or atomic disorder with the increase in the substitution concentration. This can be corroborated from the fact that the width of the CDW transition enhances with the substitution concentration.
+
+The parent compound Lu\({}_{2}\)Ir\({}_{3}\)Si\({}_{5}\) (Fig. 7) shows a massive specific heat jump of almost 45 J/mol K around 207 K within a very narrow temperature region (\(\Delta T_{\rm CDW}/T_{\rm CDW}\sim 1.5\%\)) near its CDW transition, along with a huge entropy change that signifies it to be the first-order transition, similar to that observed in R\({}_{3}\)Ir\({}_{4}\)Si\({}_{10}\) (Ref. [39]). Furthermore, it is worthwhile to mention a pronounced thermal hysteresis in Lu\({}_{2}\)Ir\({}_{3}\)Si\({}_{5}\) between the warm up and cooling down scans in resistivity, magnetic susceptibility, heat capacity, thermal conductivity, and Seebeck coefficient [30, 33], a characteristic feature expected in a first-order transition. In this regard Lu\({}_{2}\)Ir\({}_{3}\)Si\({}_{5}\) has many interesting properties that deviate from the standard weakly coupled CDW behavior and shows signatures of a strongly coupled system.
+
+The specific heat data of Lu\({}_{2}\)Ir\({}_{3}\)(Si\({}_{1-x}\)Ge\({}_{x}\))\({}_{5}\) near the CDW transition is analyzed with a model of critical fluctuations in addition to the BCS mean-field contributions, which has been proposed by Kuo _et al._ for the R\({}_{3}\)Ir\({}_{4}\)Si\({}_{10}\) system [40]. In their model, the specific heat \(C\) consists of three terms as in the following
+
+\[C\,=\,C_{L}+C_{\rm MF}+C_{\rm B},\] (6)
+
+where \(C_{L}\) is the lattice background, \(C_{\rm MF}\) is the mean-field term below \(T_{\rm CDW}\), and \(C_{\rm B}\) is associated with the fluctuation contributions. At the temperatures under consideration (i.e., 150 to 300 K), the lattice term can be assumed to take the form as given by Einstein's model
+
+\[C_{L}\,=\,a_{1}\left(\frac{a_{2}}{T}\right)^{a_{3}}\frac{e^{a_{1}/T}}{(e^{a_{1 }/T}-1)^{2}}.\] (7)
+
+Figure 8: The temperature dependence of the specific heat for Lu\({}_{2}\)Ir\({}_{3}\)(Si\({}_{1-x}\)Ge\({}_{x}\))\({}_{5}\) (\(x\) = 0.05, 0.1, 0.15, and 0.2) from 120 to 300 K. The peaks are the signature of the CDW transition.
+
+Figure 7: The temperature dependence of the specific heat for Lu\({}_{2}\)Ir\({}_{3}\)(Si\({}_{1-x}\)Ge\({}_{x}\))\({}_{5}\) (\(x\) = 0.00, 0.004, 0.01, and 0.02). The main panels demonstrate the data from 120 to 300 K. The fit to model is shown in the upper two panels by a continuous line. In the second panel the step change in specific heat is shown clearly.
+
+  The mean field term below \(T_{\rm CDW}\) is represented by
+
+\[C_{\rm MF}\ =\ \gamma^{*}T_{\rm CDW}\,(1+\beta t),\] (8)
+
+where \(\gamma^{*}\) is the effective electronic specific heat coefficient and \(t\,=\,(T_{\rm CDW}-T)/T_{\rm CDW}\) is the reduced temperature.
+
+The critical fluctuation contribution to the heat capacity has been given by
+
+\[C_{fl}^{-} =\,b^{-}|t|^{-\alpha^{-}},\ \ \ T<T_{\rm CDW},\] \[C_{fl}^{+} =\,b^{+}|t|^{-\alpha^{+}},\ \ \ T>T_{\rm CDW}.\] (9)
+
+Thus to fit the total heat capacity below and above \(T_{\rm CDW}\), the fitting functional term can be expressed as
+
+\[C^{-} =\,C_{L}+\gamma^{*}T_{\rm CDW}\,(1+\beta t)\,+\,b^{-}|t|^{-\alpha^{-}},\ \ \ T<T_{\rm CDW}\,,\] \[C^{+} =\,C_{L}\,+\,b^{+}|t|^{-\alpha^{+}},\ \ \ T>T_{\rm CDW}\,.\]
+
+Here, \(a_{1},a_{2},a_{3},\gamma^{*},\beta,\,b^{-},\) and \(b^{+}\) are the effective fitting parameters; \(\alpha^{+}\) and \(\alpha^{-}\) are called the critical exponents. The range of temperature fluctuation is significant in our data which is about 5 K (\(\triangle T_{G}\)). The fitting procedure proposed by Kuo _et al._ is as follows: First set the value of CDW transition temperature \(T_{\rm CDW}\), and then use the specific heat data above and away \(T_{\rm CDW}\) to find the best fitting values of \(a_{1},a_{2},\) and \(a_{3}\) in \(C_{L}\). With the obtained \(C_{L}\), the optimum values of \(\gamma^{*}\) and \(\beta\) can be found by fitting the curve for a specific heat below and near but not too close to \(T_{\rm CDW}\) to the function of \(C_{L}+C_{\rm MF}\) afterwards determined the best fitting values of \(b^{-}\), \(\alpha^{-}\) and \(b^{+}\), \(\alpha^{+}\) by adjusting the functions (\(C_{L}+C_{\rm MF}+C_{\rm fl}\)) and (\(C_{L}+C_{\rm MF}\)) for temperatures below and above \(T_{\rm CDW}\), respectively, to match the measured specific heat curve. Following the procedure, we have fitted the heat capacity data for the samples Lu\({}_{2}\)Ir\({}_{3}\)(Si\({}_{1-x}\)Ge\({}_{x}\))\({}_{5}\) with \(x\,=\,0.00\), \(0.004\), \(0.01\), \(0.02\), \(0.05\), \(0.1\), \(0.15\), and \(0.2\). The upper two panels of Fig. 7 demonstrate the fitted and the actual data of Lu\({}_{2}\)Ir\({}_{3}\)Si\({}_{5}\) and Lu\({}_{2}\)Ir\({}_{3}\)Si\({}_{4.98}\)Ge\({}_{0.02}\), which show a satisfactory agreement.
+
+The values of the extracted fitting parameters for all the samples are listed in Table 5, providing important information about the transitions. It can be seen that the critical exponents \(\alpha^{-}\) and \(\alpha^{+}\) extracted from the fit for Lu\({}_{2}\)Ir\({}_{3}\)Si\({}_{5}\) are close to 2, much larger than the value \(\alpha\,=\,0.5\) for a mean-field-like transition. The parent compound shows a higher power of divergence in \(C_{P}\) near \(T_{\rm CDW}\), which reflects the very narrow transition width.[40] Upon doping, the transition curve becomes broadened with the lower power of divergence in \(C_{P}\). In spite of this the specific heat data show disorder or inhomogeneity-induced broadening for higher Ge concentration, the \(C_{P}\) is
+
+\begin{table}
+\begin{tabular}{l c c c c c}  & \(T_{\rm CDW}\) & \(\triangle C_{\rm CDW}\) & & \(\triangle S_{\rm CDW}\) & \(\xi_{0}\) \\ \(x\) & (K) & (J/mol K) & \(\frac{\triangle C_{\rm CDW}}{\rm Curve}(\%)\) & (J/mol K) & Å \\ \hline
+0.00 & 207 & 45 & 25 & 1.52 & 5.4 \\
+0.004 & 193 & 24 & 18 & 1.04 & 6.8 \\
+0.01 & 176 & 8.7 & 6.9 & 0.74 & 9.66 \\
+0.02 & 164 & 5.5 & 3.2 & 0.21 & 11.37 \\
+0.05 & 179 & 3.1 & 2.4 & 0.12 & 13.54 \\
+0.10 & 20  discontinuous at \(T_{\rm CDW}\), which are shown by the solid line in the second panel of Fig. 7. It is also to be noted that the value of the critical exponents reduce progressively until they reach a value of about 0.4 for the compound Lu\({}_{2}\)Ir\({}_{3}\)Si\({}_{5}\)Ge\({}_{1}\).
+
+We also obtained another important quantity \(\gamma^{*}\) from the fit where \(\gamma^{*}\)T\({}_{\rm CDW}\) represents the electronic specific heat jump of the mean-field term near the 3D ordering temperature. The predicted mean-field value of the specific heat jump is \(\Delta\)C\({}_{\rm CDW}\) = 12.8 J/mol K for Lu\({}_{2}\)Ir\({}_{3}\)Si\({}_{5}\), which is much smaller than the observed value \(\Delta\)C\({}_{\rm CDW}\) = 45 J/mol K. The value of electronic specific heat \(\gamma^{*}\) for Lu\({}_{2}\)Ir\({}_{3}\)Si\({}_{5}\) is about \(6.2\times 10^{-2}\) J/mol K\({}^{2}\) and the bare Sommerfeld's constant \(\gamma=7.5\times 10^{-3}\). It gives a unit ratio of \(\gamma^{*}/\gamma^{*}=8.3\), which is about 5.7 times larger than the BCS weak-coupling limit value 1.43, indicating the strong coupling nature of the CDW transition. Such enhancements in the specific heat jump from their mean-field value have been reported in other CDW systems.[40, 41, 42]
+
+The CDW coherence length \(\xi_{0}\) of a value about 5.4 A, which can be deduced for Lu\({}_{2}\)Ir\({}_{3}\)Si\({}_{5}\) by using the Ginzburg criteria \(\Delta T_{G}=(T_{\rm CDW}/32)(k_{g}/\pi\,\Delta C_{\rm CDW}\xi_{0}^{3})^{2}\). \(\Delta T_{G}=5\) K is the temperature region where the fluctuations are important. According to McMillan's model proposed for strong CDW systems, the deduced short coherence length is an indication of strong interchain coupling in Lu\({}_{2}\)Ir\({}_{3}\)Si\({}_{5}\). In addition, it was reported that a large number of soft phonon modes in the transition region contribute substantially to the heat capacity. The larger value of \(\gamma^{*}T_{\rm CDW}\) corroborates the above inference by an assumption of the larger portion of Fermi surface nesting in the studied compound, as compared to other CDW compounds. It explains the origin of huge specific heat jumps displayed in the Si compound. Similar results have been reported for other CDW materials such as 4.6 A for K\({}_{0.3}\)MoO\({}_{3}\) (Ref. [43]), 4.5 A for 2H-TaSe\({}_{2}\) (Ref. [44]), and 5 A for Lu\({}_{5}\)Ir\({}_{4}\)Si\({}_{10}\) (Ref. [40]). The values of \(\gamma^{*}/\gamma\) and \(\gamma^{*}T_{\rm CDW}\) decrease and saturate close to the mean-field value for Ge substituted alloys compared to the undoped Si compound. Moreover, the evolution of critical exponents also suggests that the CDW transition is non-mean-field-like in the pure compound Lu\({}_{2}\)Ir\({}_{3}\)Si\({}_{5}\), but changes to a mean-field-like transition, which may be induced by disorder effects.
+
+### Lu\({}_{2}\)(Ir\({}_{1-x}\)Rh\({}_{x}\))Si\({}_{5}\)
+
+#### X-ray diffraction studies
+
+The powder x-ray diffraction data for all the doped samples confirmed the single phase with the U\({}_{2}\)Co\({}_{3}\)Si\({}_{5}\) type structure (_Ibam_). The Riteveld analysis of the observed XRD pattern for all the compounds was done using the fullprof program and the estimated lattice parameters \(a\), \(b\), and \(c\) are presented in Table 6. The lattice parameters and the unit cell volume decreases with the increase of Rh concentration as shown in Fig. 10. We have confirmed the stoichiometry of the compounds Lu\({}_{2}\)(Ir\({}_{1-x}\)Rh\({}_{x}\))\({}_{3}\)Si\({}_{5}\) for all the values of \(x\) using the EPMA. Here also, we could notice the contrast difference in EPMA image, but the homogeneity in the ratio of the constituent elements for the samples is maintained at those different locations.
+
+#### X-ray diffraction studies
+
+Figure 11 depicts dc magnetic susceptibility of Lu\({}_{2}\)(Ir\({}_{1-x}\)Rh\({}_{x}\))Si\({}_{5}\) for various Rh concentrations (\(x=0.00\)-0.3) as a function of temperature. The left panels display low temperature susceptibility data in the field of 10 Oe, exhibiting the diamagnetism due to the superconducting transition for different compositions, characteristics of a superconductivity similar to Lu\({}_{2}\)Ir\({}_{3}\)(Si\({}_{1-x}\)Ge\({}_{x}\))\({}_{3}\).
+
+The signature of the diamagnetic drop across the CDW transition as the sample is cooled to the CDW state is shown in the right panels of Fig. 11 under an applied field of 5 T. This feature is due to the appearance of the partial gap at the Fermi surface and hence reduces the electronic density of
+
+\begin{table}
+\begin{tabular}{c c c c c c c c c}  & \multicolumn{2}{c}{Lattice term} & \multicolumn{2}{c}{Mean-field term} & \multicolumn{3}{c}{Fluctuation term} \\ \cline{2-10}  & \(a_{1}\) & & & \(\gamma^{*}\) & & \(b^{-}\) & & \(b^{+}\) & \\ Ge & (J/mol K) & \(a_{2}\) (K) & \(a_{3}\) & (J/mol K\({}^{2}\)) & \(\beta\) & (J/mol K) & \(\alpha^{-}\) & (J/mol K) & \(\alpha^{+}\) \\ \hline
+0.00 & 173 & 167 & 1.45 & 0.062 & 6.01 & 0.009 & 1.8 & 0.003 & 1.72 \\
+0.02 & 127 & 139 & 1.71 & 0.029 & 4.05 & 0.54 & 1.13 & 1.57 & 1.06 \\
+0.05 & 129 & 134 & 1.56 & 0.021 & 6.57 & 0.2  states. As can be seen from the figure, the CDW transition temperature shifts towards higher temperatures, the further the CDW transition also begins to smear out and broadens considerably as we increase the Rh concentration in the alloy. For 30% Rh concentration and above (\(x>0.3\), not shown here), the CDW is not noticed and most probably not detected by these global measurements. The value of \(T_{\rm CDW}\) is determined from the peaks observed in the derivative plots (\(d\chi/dT\) vs \(T\)).
+
+Furthermore, it is interesting to note that the systematic decrease in the superconducting transition temperature \(T_{\rm SC}\) upon Rh doping in the alloy system, as can be seen in the left panels of Fig. 11, and it goes below 1.8 K for \(x=0.3\). This is in the opposite sense to that of \(T_{\rm CDW}\). We could conclude that both CDW and SC are not noticeable for \(x=30\)% and above. Thus, it has been shown that the study of Lu\({}_{2}\)(Ir\({}_{1-x}\)Rh\({}_{x}\))\({}_{3}\)Si\({}_{5}\) provides very convincing evidence that the CDW and the SC are competing for the same Fermi surface.
+
+#### iii.2.3 Resistivity studies
+
+The normalized electrical resistivity vs temperature of Lu\({}_{2}\)(Ir\({}_{1-x}\)Rh\({}_{x}\))\({}_{3}\)Si\({}_{5}\) for \(x=0.00\)-0.3 are presented in Fig. 12. The superconducting transition \(T_{\rm SC}\) can clearly be observed by a sharp drop in the low temperature resistivity data, shown in the left panel of the figure. But the transition is not complete even down to 1.8 K, a result that may be related to the nonuniformity of the EPMA image.The right panel displays an abrupt increase in resistivity at the higher temperature region, which represents the onset of the CDW state. This presence of the metal-insulator transition occurs as a result of the partial gap at the Fermi level associated with the CDW transition. The onset and development of CDW instabilities in Lu\({}_{2}\)(Ir\({}_{1-x}\)Rh\({}_{x}\))\({}_{3}\)Si\({}_{5}\) are very well tracked by resistivity measurements. These data show that both CDW and SC are present in Lu\({}_{2}\)(Ir\({}_{1-x}\)Rh\({}_{x}\))\({}_{3}\)Si\({}_{5}\) at least up to 30% of Rh substitution, which corroborates the susceptibility data and hence suggest that there is a competition between CDW and SC in these compounds.
+
+Thus, the SC and CDW compete for the same density of states at the Fermi surface and in turn they suppress each other. The value of the \(T_{\rm CDW}\) has been determined from the peak position in the derivative plots of the resistivity data
+
+Figure 11: The temperature dependence of the dc susceptibility for the samples of Lu\({}_{2}\)(Ir\({}_{1-x}\)Rh\({}_{x}\))\({}_{3}\)Si\({}_{5}\) (\(x=0.00\), 0.01, 0.03, 0.1, 0.2, and 0.3). The left panel shows the dc susceptibility data from 2 to 10 K and the right panels show the data from 100 to 300 K.
+
+Figure 12: The temperature dependence of the electrical resistivity for Lu\({}_{2}\)(Ir\({}_{1-x}\)Rh\({}_{x}\))\({}_{3}\)Si\({}_{5}\) (\(x=0.00\), 0.01, 0.03, 0.1, 0.2, and 0.3). The left panel shows the resistivity data between 1.8 to 10 K indicating the SC transition. The right panel shows the data from 1.8 till 300 K highlighting the CDW transition.
+
+Figure 10: Rh concentration (\(x\)) dependence of the volume for Lu\({}_{2}\)(Ir\({}_{1-x}\)Rh\({}_{x}\))\({}_{3}\)Si\({}_{5}\) for \(x=0.00\), 0.01, 0.03, 0.1, 0.2, and 0.3.
+
+  for various values of \(x\). The resistivity enhancement \(\triangle\rho/\rho\), sharpness of the transition \(\triangle T_{\text{CDW}}/T_{\text{CDW}}\), \(T_{\text{SC}}\), and \(T_{\text{CDW}}\) are listed in Table 7. From the table, one can notice that as the CDW transition shifts to higher temperatures from 202 to 283 K the SC decreases to lower temperatures (5.5 to 2.5 K), as \(x\) increases from 0 to 0.2. The sharpness of the SC transition gets smeared out at higher Rh concentration. These observations indicate that the increase in \(T_{\text{CDW}}\) along with the suppression of \(T_{\text{SC}}\) with Rh concentration may be due to the effect of charge-carrier densities. The above inference corroborates the dc susceptibility results. We will return to this point later in the discussion part.
+
+  Figure 13 illustrates the heat capacity data for Lu\({}_{2}\)(Ir\({}_{1-x}\)Rh\({}_{x}\))\({}_{3}\)Si\({}_{5}\)\(x\) = 0.00, 0.01, 0.03, 0.1, 0.2, and 0.3 in the temperature range from 150 to 320 K highlights CDW ordering. We note that \(T_{\rm CDW}\) determined from \(C_{P}\) matches with that of dc susceptibility and resistivity results. Figure 14 depicts the temperature dependence of \(\Delta S_{\rm CDW}\) and \(\Delta C_{\rm CDW}\) across \(T_{\rm CDW}\) for all the substituted alloys. The values of specific heat jump \(\Delta C_{\rm CDW}\), entropy change \(\Delta S_{\rm CDW}\) associated with the CDW transition and \(\Delta C_{\rm CDW}/C_{\rm CDW}\) which illustrate the characteristics of a specific heat anomaly for these alloys are listed in Table 9. It is clearly seen that the excess specific heat \(\Delta C_{\rm CDW}/C_{\rm CDW}\) is suppressed by the Rh substitution.
+
+The data near the CDW transition were analyzed via a least-square-fitting procedure to a model of critical fluctuations in addition to the BCS mean-field contributions, described in the previous section. The solid line in Fig. 13 shows a fit to Eq. (10). The fitting parameters for Lu\({}_{2}\)(Ir\({}_{1-x}\)Rh\({}_{x}\))\({}_{3}\)Si\({}_{5}\) using this model are listed in Table 10. It is worthwhile to mention that the critical exponents \(\alpha^{+}\) and \(\alpha^{-}\) extracted from the best fit for these materials reduce progressively from 1.8 (for the undoped compound Lu\({}_{2}\)Ir\({}_{5}\)Si\({}_{5}\)) to the value of about 0.4 (the mean-field value) as depicted in Lu\({}_{2}\)Ir\({}_{3}\)(Si\({}_{1-x}\)Ge\({}_{x}\))\({}_{5}\). The value of the \(\gamma^{+}\) increases slightly with Rh concentration in the Lu\({}_{2}\)(Ir\({}_{1-x}\)Rh\({}_{x}\))\({}_{3}\)Si\({}_{5}\) series in contrast to that of Lu\({}_{2}\)Ir\({}_{3}\)(Si\({}_{1-x}\)Ge\({}_{x}\))\({}_{5}\). Besides, coherence lengths \(\xi_{0}\) (see Table 9) deduced for these materials have relatively large values compared to that of the parent compound. In this respect, it is important to note that both atomic disorder and chemical pressure play a very crucial role.
+
+### (Lu\({}_{1-x}\)Sc\({}_{x}\))\({}_{2}\)Ir\({}_{5}\)Si\({}_{5}\)
+
+#### 3.3.1 X-ray diffraction studies
+
+The powder x-ray diffraction pattern confirms the expected orthorhombic U\({}_{2}\)Co\({}_{3}\)Si\({}_{5}\) type structure without the presence of any of the impurity phase. We have analyzed the data via the Reitveld fitting using the fullprof program. The starting parameters for the fitting are taken from the parent Lu\({}_{2}\)Ir\({}_{3}\)Si\({}_{5}\).
+
+The estimated lattice constants \(a\), \(b\), and \(c\) from the best fit of the data for (Lu\({}_{1-x}\)Sc\({}_{x}\))\({}_{2}\)Ir\({}_{3}\)Si\({}_{5}\) (\(x\) = 0.00, 0.02, 0.04, and 0.05) are summarized in Table 10 and plotted in Fig. 15. It is clear that the unit cell volume and lattice constants decrease progressively as Sc concentration increases in the alloy. Since Sc has a smaller metallic radius, it contracts the lattice chemically, resulting in a nonnegligible size effect in the alloying process. We analyzed the homogeneity and purity of the sample using the EDAX and found a qualitative consistency between the taken stoichiometric concentration and the analyzed one.
+
+#### 3.3.2 Magnetic susceptibility studies
+
+Figure 16 depicts the temperature dependence the dc susceptibility for (Lu\({}_{1-x}\)Sc\({}_{x}\))\({}_{2}\)Ir\({}_{3}\)Si\({}_{5}\) (\(x\) = 0.02, 0.04, and 0.05). The left panel shows \(\chi\) vs T in the temperature range from 1.8 to 10 K under a magnetic field of 10 Oe in the ZFC state which clearly displays diamagnetic signals, indicating the superconducting transition. The superconducting transition temperature in all the Sc substituted alloys are observed to occur around 3.5 K. This is close to the value of \(T_{\rm SC}\) reported by Singh _et al._ in the parent compound, Lu\({}_{2}\)Ir\({}_{3}\)Si\({}_{5}\) (Ref. [30]). The CDW transition is observed in the right panel of the Fig. 16
+
+\begin{table}
+\begin{tabular}{c c c c c c c c c}  & \multicolumn{3}{c}{Lattice term} & \multicolumn{3}{c}{Mean-field term} & \multicolumn{3}{c}{Fluctuation term} \\ \cline{2-10}  & \(a_{1}\) & & & \(\gamma^{*}\) & & \(b^{-}\) & & \(b^{+}\) & \\ Rh & (J/mol K) & \(a_{2}\) (K) & \(a_{3}\) & (J/mol K\({}^{2}\)) & \(\beta\) & (J/mol K) & \(\alpha^{-}\) & (J/mol K) & \(\alpha^{+}\) \\ \hline
+0.00 & 173 & 167 & 1.45 & 0.062 & 6.01 & 0.009 & 1.8 & 0.003 & 1.72 \\
+0.03 & 93 & 113 & 1.5 & 0.073 & 4.9 & 0.64 & 0.75 & 0.82 & 0.71 \\
+0.09  which is a plot of the dc susceptibility in the temperature range between 50 to 300 K at an applied field of 5 T.
+
+The data exhibit a diamagnetic drop below \(T_{\rm CDW}\), thereby signifying the opening of a gap at the Fermi surface. The rise in \(\chi\) at low temperatures is due to the influence of magnetic impurities at the parts per million (ppm) level in Lu. As we can see from the graph, \(T_{\rm CDW}\) decreases with the increase in Sc concentration. For the sample with \(x=0.02\), the CDW anomaly is almost identical to that of \(x=0\). With the further increase in \(x\), the CDW transition widens. However, the superconducting transition does not change in a complementary manner. The onset is at 3.2 K for all the Sc doped alloys (till 5% of Sc) and is not perturbed even by substitutional disorder. It is worthwhile to note that the substitution of Sc in the alloy suppresses the CDW transition without disturbing superconducting ordering till 5% of the Sc concentration. We avoided reporting of the compounds with large amount Sc concentration as they do not preserve the Lu\({}_{2}\)Ir\({}_{3}\)Si\({}_{5}\) crystal structure.
+
+#### iii.2.3 Resistivity studies
+
+Figure 17 shows the normalized electrical resistivity as a function of temperature for the pseudoternary systems (Lu\({}_{1-x}\)Sc\({}_{x}\))\({}_{2}\)Ir\({}_{3}\)Si\({}_{5}\) for \(x=0.02\), 0.04, and 0.05. Superconducting transitions are highlighted in the left panel of the figure. Again, the resistivity drop at low temperature is not complete down to 1.8 K, like all other pseudoternary compounds of Lu\({}_{2}\)Ir\({}_{3}\)Si\({}_{5}\). The sharp step like anomaly in the resistivity measurement at high temperature reveals the CDW transition (right panel of Fig. 17). With the increase of the Sc concentration in (Lu\({}_{1-x}\)Sc\({}_{x}\))\({}_{2}\)Ir\({}_{3}\)Si\({}_{5}\), \(T_{\rm CDW}\) decreases, whereas \(T_{\rm SC}\) remains unchanged at 3.2 K for all compounds. The Sc concentration dependence of the CDW temperature \(T_{\rm CDW}\) and the superconducting transition \(T_{\rm SC}\) [derived from the resistivity derivative plot (\(d\rho/dT\))], the amplitude of the resistivity anomaly (\(\triangle\rho/\rho\)) and sharpness of the transition (\(\triangle T_{\rm CDW}/T_{\rm CDW}\)) are listed in Table 17. It can be conjectured that the impurities lower the \(T_{\rm CDW}\), smear out the CDW transition, but do not affect the \(T_{\rm SC}\).
+
+These results are consistent with the susceptibility data and we could conclude that the substitution of Sc not only causes chemical pressure, but induces an atomic disorder.
+
+Figure 16: Plot of the temperature dependence of the dc susceptibility of (Lu\({}_{1-x}\)Sc\({}_{x}\))\({}_{2}\)Ir\({}_{3}\)Si\({}_{5}\)\(x=0.02\), 0.04, and 0.05. The left panel demonstrates dc susceptibility data from 2 to 10 K and the right panel shows the data from 50 till 300 K.
+
+Figure 17: The temperature dependence of the electrical resistivity for (Lu\({}_{1-x}\)Sc\({}_{x}\))\({}_{2}\)Ir\({}_{3}\)Si\({}_{5}\) (\(x=0.02\), 0.04, and 0.05). The left panel shows the resistivity data between 1.8 to 10 K indicating the SC transition. The right panel shows the data from 1.8 till 300 K highlighting the CDW transition.
+
+Figure 18: The temperature dependence of the specific heat for (Lu\({}_{1-x}\)Sc\({}_{x}\))\({}_{2}\)Ir\({}_{3}\)Si\({}_{5}\) (\(x=0.02\), 0.04, and 0.05). The main panels demonstrate the data from 120 to 300 K. The solid line is the fit to the critical fluctuation model (see text).
+
+\begin{table}
+\begin{tabular}{c c c c c} \(x\) & \(T_{\rm CDW}\) (K) & \(\frac{(\triangle\rho)}{\rho(300\,\rm K)}\)(\%) & \(\frac{\triangle T_{\rm CDW}}{T_{\rm CDW}}\)(\%) & \(T_{C}\) (K) \\ \hline
+0.02 & 182 & 24 & 10 & 2.8 \\
+0.04 & 174 & 20 & 10 & 3.1 \\
+0.05 & 163 & 19 & 9.8 & 3.2 \\  
+
+#### iii.2.4 Heat capacity studies
+
+The temperature dependence of the heat capacity data for the substituted alloy (Lu1-xSc)2Ir3Si5 (_x_ = 0.02, 0.04, and 0.05) are presented in Fig. 18. We note that the _T_CDW observed in this measurement is consistent with the previously reported value obtained from _kh_ and \(r\) results. The specific heat parameters for the CDW transition such as the heat capacity jump \(\triangle C_{\text{CDW}}\), the entropy change \(\triangle S_{\text{CDW}}\), and the excess specific heat jump \(\triangle C_{\text{CDW}}/C_{\text{CDW}}\) is summarized in Table 13. The corresponding plots are displayed in Fig. 19. It is very clear that excess specific heat \(\triangle C_{\text{CDW}}/C_{\text{CDW}}\) at _T_CDW is suppressed and the transition width is broadened by the Sc substitution, just as one would anticipate in this system.
+
+To further explore the CDW transition in (Lu1-xSc)2Ir3Si5, the specific heat data between the range over 120 to 300 K are analyzed in accordance with the critical-fluctuation model proposed by Kuo _et al._ (see above Sec. III.1). The solid line in Fig. 18 is a fit to this model. The extracted fitting parameters for each compound are given in Table 14. It turns out that the critical exponents \(\alpha^{+}\) and \(\alpha^{-}\) are close to 0.5 which indicates that a BCS mean-field-like transition occurs as the system is doped. We observed this trend for all other pseudoternary compounds presented in the above sections. This indicates that the chemical pressure relates to the changes in the electronic configuration.
+
+## IV Discussion
+
+It is worthwhile to compare the crystal structures of Lu2Ir3Si5 and Lu5Ir4Si10 with those of the conventional low-dimensional CDW systems like NbSe2 and NbSe3 (Ref. [2]), in all these compounds the SC and CDW coexist. Lu2Ir3Si5 adopts the orthorhombic U2Co3Si5 type structure, as seen in Fig. 1. One observes the absence of transition metal (Ir-Ir) contacts. Further Ir and Si atoms form planar rings which are stacked parallel to the basal plane which are connected along the \(c\) axis via Ir-Si-Ir zigzag chains. The Lu atoms form a quasi-one-dimensional zigzag chain along the \(c\) axis which are well separated from Ir-Si ring. The distance between adjacent Lu-Lu and Ir-Ir atoms are large, whereas Ir-Si and Si-Si distances are small, thereby indicating strong covalent interactions. Looking again at the crystal structure of Lu5Ir4Si10 (Ref. [25]), reveals that the main features of the structural arrangement are almost identical to that of Lu2Ir3Si5. In both compounds, if one observes the crystal structure along the \(c\) axis, the Lu atoms are found to be placed in the center of the Ir-Si rings. The Lu atoms form a quasi-one-dimensional chain along the caxis which is separated from the rings. Hence looking at these structures, it is difficult to predict the origin of CDW in this compound.
+
+In contrast, NbSe2 forms a layered Se-Nb-Se structure, where the Nb atom is sandwiched between hexagonally packed Se atoms. These layers are repeated along gthe crystallographic \(c\) axis which are well separated from its neighbors. However, within the sheet, \(d\) orbitals are strongly overlapping which leads to a quasi-one-dimensional electronic band. On the other hand, the NbSe3 structural unit forms infinite chains of Se trigonal prisms stacked along the \(b\) axis. The Nb atoms are located at about the center of the prisms. The chains are linked together with Nb-Se bonds in the \(c\) direction, so as to form infinite slabs parallel to the _bc_ plane. These slabs are two trigonal prisms thick, which are distorted isosceles triangles and they are linked together by weak Se-Se bonds. Inside the slab there exist two types of units, which can be grouped as a set of four chains and a set of two chains. Each chain is displaced and rotated with respect to the adjacent one by _b_/2 and \(\sim\)180\({}^{\circ}\), respectively. The two transitions taking place in NbSe3 along the _b_axis are related to the four-chain and two-chain units, would strongly support the 1D character of NbSe3 (Ref. [45]).
+
+In this section we will discuss the interplay between superconductivity and charge density wave ordering exhibited in substituted compounds of Lu2Ir3Si5. As a part of that the temperature-concentration (_T_-_x_) phase diagram has been constructed by combining the results derived from transport, magnetic, and thermal measurements for all the samples in the alloy system, displayed in Figs. 20-22.
+
+With the increase of Ge concentration, _T_CDW shows a nonmonotonic behavior, in contrast to the Lu5Ir4(Si1-xGe)10 system where it behaves in a quasilinear manner. In our study, we find that Ge substitution lowers the _T_CDW, broadens and smears the CDW transition, while increasing the _T_SC superconducting transition for low Ge impurity concentration (_x_ <= 0.02), as one would expect in this system. However, for higher Ge concentration, we could observe that the _T_SC reduces along with the enhancement of _T_CDW until \(x\) = 0.2. This strongly indicates that the SC in the system competes with the CDW ordering. We determine the initial concentration dependence (for small \(x\)) of \(T_{\rm CDW}\) and \(T_{\rm SC}\) to be (\(d\,T_{\rm CDW}/dx\)) = 23.72(\(\pm\)0.7) K/at.% and (\(d\,T_{\rm SC}/dx\)) = 1.85(\(\pm\)0.07) K/at.%. Also, we note that the CDW system is suppressed even though there is an expansion of the lattice volume. In addition, the suppression of the \(T_{\rm SC}\) and the enhancement of the \(T_{\rm CDW}\) in certain compounds are related to the increase in density of states in its narrow \(d\) band, for which the resistive anomaly due to the CDW transition shows a sudden increase upon doping (Table 2). The same phenomena may be responsible in our case, but it is a definite example of the system being beyond mean-field theory as is also anticipated from the specific heat parameters. A definite conclusion for such a scenario needs further experimental support, such as the optical spectroscopy study to give a rigorous explanation about this unusual nonmonotonic behavior seen in the temperature-concentration phase diagram of Lu\({}_{2}\)Ir\({}_{3}\)(Si\({}_{1-x}\)Ge\({}_{x}\))\({}_{5}\). From this observation, one would conclude that the effects of ionic size plays an important role for the CDW transition in this class of materials.
+
+More interestingly, we monitored that both CDW and SC are still present until 20% of the Ge substitution in the alloy system, a robust behavior of CDW and superconductivity in these compounds. This is seemingly contradictory to the case of Lu\({}_{5}\)Ir\({}_{4}\)(Si\({}_{1-x}\)Ge\({}_{x}\))\({}_{10}\), for which the CDW anomaly completely disappears at \(x\) = 10% and in fact attains a maximum value of \(T_{\rm SC}\) = 6.6 K for a 20% Ge substitution. Afterwards the \(T_{\rm SC}\) reduces until it reaches a value of 2.4 K for the pure Ge sample.[46] But in the 2-3-5 system, a high pressure study on this alloy is needed to find the complete suppression of CDW and SC ordering.
+
+It will be interesting to understand the electronic density of states near the Fermi level in Lu\({}_{2}\)Ir\({}_{3}\)Si\({}_{5}\) by Rh impurity doping on Ir site, Lu\({}_{2}\)(Ir\({}_{1-x}\)Rh\({}_{x}\))\({}_{3}\)Si\({}_{5}\). Figure 21 depicts the temperature-concentration phase diagram of Lu\({}_{2}\)(Ir\({}_{1-x}\)Rh\({}_{x}\))\({}_{3}\)Si\({}_{5}\). It shows that \(T_{\rm CDW}\) enhances quasilinearly upon the increase of Rh concentration in Lu\({}_{2}\)(Ir\({}_{1-x}\)Rh\({}_{x}\))\({}_{3}\)Si\({}_{5}\) while the \(T_{\rm SC}\) is suppressed. The variation of \(T_{\rm SC}\) and \(T_{\rm CDW}\) with doping concentration is gradual in contrast to the Lu\({}_{5}\)(Ir\({}_{1-x}\)Rh\({}_{x}\))\({}_{4}\)Si\({}_{10}\) systems previously investigated. The calculated initial concentration dependence (for small \(x\)) of \(T_{\rm CDW}\) and \(T_{\rm SC}\) for this system to be \([d\,T_{\rm CDW}/dx\) = 19.73(\(\pm\)0.5) K/at.%] and \([d\,T_{\rm SC}/dx\) = \(-0.88(\pm\)0.09)/\(K\)/at.%]. We attribute this behavior to pressure broadening of the \(d\) conduction band in the presence of strong Coulomb repulsion. The increase of Rh concentration changes the electron density at the Fermi surface. This fall in the density of states and impairment of the Fermi-surface nesting account for the formation of negative chemical pressure. It therefore stabilized the CDW formation in Lu\({}_{2}\)(Ir\({}_{1-x}\)Rh\({}_{x}\))\({}_{3}\)Si\({}_{5}\) by the increase in \(d\) bandwidth under chemical pressure. A similar situation exists for the quasi-one-dimensional charge transfer salt TTF-TCNQ (Ref. [47]) and in VSe\({}_{2}\) (Ref. [48]). We also noted that both SC and CDW ordering are not noticeable at and above \(x\) = 30% of Rh concentration. This result suggests that the SC and CDW are strongly correlated and mutually incompatible to suppress each other in this Lu\({}_{2}\)Ir\({}_{3}\)Si\({}_{5}\) system.
+
+At present, we use a quite distinct method to study the interplay between superconductivity and CDW in Lu\({}_{2}\)Ir\({}_{3}\)Si\({}_{5}\) by doping with Sc impurities on Lu sites. The presence of an impurity in a CDW material may lead to a change
+
+\begin{table}
+\begin{tabular}{c c c c c c c c c}  & \multicolumn{2}{c}{Lattice term} & \multicolumn{2}{c}{Mean-field term} & \multicolumn{4}{c}{Fluctuation term} \\ \cline{2-9}  & \(a_{1}\) & & & \(\gamma^{*}\) & & \(b^{-}\) & & \(b^{+}\) & \\ Sc & (J/mol K) & \(a_{2}\) (K) & \(a_{3}\) & (J/mol K\({}^{2}\)) & \(\beta\) & (J/mol K) & \(\alpha^{-}\) & (J/mol K) & \(\alpha^{+}\) \\ \hline
+0.02 & 112 & 103 & 1.6 & 0.042 & 2.7 & 0.54 & 0.51 & 1.17 & 0.48 \\
+0.04 & 165 & 180 & 1.8 & 0.023 & 0.5 & 0.39 & 0.45 & 5.01 & 0.44 \\
+0.05 & 117 & 101 & 1.8 & 0.009 & 1.23 & 1.42 & 0.47 & 1.17 & 0.49 \\ \end{tabular}
+\end{table}
+Table 11: The fitting parameters extracted from the specific heat data of (Lu\({}_{1-x}\)Sc\({}_{x}\))\({}_{2}\)Ir\({}_{3}\)Si\({}_{5}\) using a model of critical fluctuations and mean-field contributions near CDW region.
+
+  of the CDW transition temperature and also lead to the possible smearing of the CDW transition itself (see Table 11). Figure 22 depicts the temperature-concentration phase diagram of (Lu\({}_{1-x}\)Sc\({}_{x}\))\({}_{2}\)Ir\({}_{3}\)Si\({}_{5}\). We determined the initial concentration dependence (for small \(x\)) of \(T_{\rm CDW}\) to be \((dT_{\rm CDW}/dx)=-4.07(\pm 0.2)\) K/at.%. It may be noted that the Sc substitution does not disturb the superconducting transition temperature while reducing CDW ordering till 5% of Sc concentration, the maximum attainable Sc ratio to substitute at Lu sites without affecting the parent Lu\({}_{2}\)Ir\({}_{3}\)Si\({}_{5}\) crystal structure. But in (Lu\({}_{1-x}\)Sc\({}_{x}\))\({}_{2}\)Ir\({}_{3}\)Si\({}_{5}\), the \(T_{\rm SC}\) is strongly enhanced at a very low Sc concentration in contrast to our data. Hence, our results suggest that the suppression of CDW does not take place due to the reduction of the electron in the density of states at the Fermi level, but due to the difference in the atomic weights of Sc and Lu. It does not hinder the transfer of electrons of the Fermi surface from the CDW site to the SC site. These findings suggest that the Lu site is possibly related to the origin of CDW ordering in Lu\({}_{2}\)Ir\({}_{3}\)Si\({}_{5}\) system.
+
+In all of the above the temperature-concentration phase diagram, we noticed that the disorder plays a little role in the suppression/enhancement of CDW and SC.
+
+## V Conclusion
+
+In conclusion, the interplay and competition between the CDW and superconductivity in pseudoternary systems of [(Lu\({}_{1-x}\)Sc\({}_{x}\))\({}_{2}\)Ir\({}_{3}\)Si\({}_{5}\)], [Lu\({}_{2}\)(Ir\({}_{1-x}\)Rh\({}_{x}\))\({}_{3}\)Si\({}_{5}\)], and [Lu\({}_{2}\)Ir\({}_{3}\)(Si\({}_{1-x}\)Ge\({}_{x}\))\({}_{5}\)] are studied in detail via electrical, magnetic, and thermal properties. Our experiments reveal that the CDW formation in these compounds is sensitive to atomic disorder. The superconducting transition is not complete down to zero until 1.8 K for all the substituted alloys in the system. In this context, we would like to mention that preliminary measurements on single crystal Lu\({}_{2}\)Ir\({}_{3}\)Si\({}_{5}\) do not show a sharp drop of resistance to zero in the superconducting state. We find that there is a correlation between \(T_{\rm SC}\) and \(T_{\rm CDW}\). Analysis of heat capacity data in the vicinity of the CDW phase transition suggests that it is a strongly coupled and non-mean-field-like CDW transition. The critical exponent parameters extracted from the critical fluctuation model suggest that the CDW transition gradually changes from first-order-like to a second-order-like transition with the increase of concentration in the substituted alloys.
+
+###### Acknowledgements.
+
+ N.S.S. thanks A. K. Grover, TIFR Mumbai, for his various kinds of support throughout the current research work. N.S.S. is also grateful to H. R. Naren for his help during the experiments. C.V.T. would like to acknowledge the Department of Science and Technology for the partial support through Project No. IR/S2/PV-10/2006.
+
+## References
+
+* [1] R. E. Peierls, _Quantum Theory of Solids_ (Oxford University Press, New York, 1955).
+* [2] G. Gruner, _Density Waves in Solids_ (Addison-Wesley, Reading, MA, 1994).
+* [3] W. L. McMillian, Phys. Rev. B **16**, 643 (1977).
+* [4] L. Degiorgi, B. Alavi, G. Mihaly, and G. Gruner, Phys. Rev. B **44**, 7808 (1991).
+* [5] G. Travaglini, P. Wachter, J. Marcus, and C. Schlenker, Solid State Commun. **37**, 599 (1981).
+* [6] G. Travaglini and P. Wachter, Phys. Rev. B **30**, 1971 (1984).
+* [7] A. Fournel, J. P. Sorbier, M. Konczykowski, and P. Monceau, Phys. Rev. Lett. **57**, 2199 (1986).
+* [8] K. Stowe and F. R. Wagner, J. Solid State Chem. **138**, 160 (1998).
+* [9] S. Sridhar, D. Reagor, and G. Gruner, Phys. Rev. Lett. **55**, 1196 (1985).
+* [10] T. Yokoya _et al._, Science **294**, 2518 (2001).
+* [11] K. A. Muller and J. G. Bednorz, Science **237**, 1133 (1987).
+* [12] T. Giamarchi, S. Biermann, A. Georges, and A. Lichtenstein, J. Phys. IV (France) **114**, 23 (2004).
+* [13] A. Schwartz, M. Dressel, G. Gruner, V. Vescoli, L. Degiorgi, and T. Giamarchi, Phys. Rev. B **58**, 1261 (1998).
+* [14] R. C. Morris, Phys. Rev. Lett. **34**, 1164 (1975).
+* [15] E. Revolinski, G. A. Spiering, and D. J. Beerntsen, J. Phys. Chem. Solids **26**, 1029 (1965).
+* [16] Y. Kamihara, T. Watanabe, M. Hirano, and H. Hosono, J. Am. Chem. Soc. **130**, 3296 (2008).
+* [17] I. I. Mazin and M. D. Johannes, Nat. Phys. **5**, 141 (2008).
+* [18] F. Han, X. Zhu, P. Cheng, G. Mu, Y. Jia, L. Fang, Y. Wang, H. Luo, B. Zeng, B. Shen, L. Shan, C. Ren, and H. H. Wen, Phys. Rev. B **80**, 024506 (2009).
+* [19] G. F. Chen, Z. Li, D. Wu, G. Li, W. Z. Hu, J. Dong, P. Zheng, J. L. Luo, and N. L. Wang, Phys. Rev. Lett. **100**, 247002 (2008).
+* [20] M. S. Torikachvili, S. L. Bud'ko, N. Ni, and P. C. Canfield, Phys. Rev. Lett. **101**, 057006 (2008).
+* [21] E. Morosan, H. W. Zandbergen, B. S. Dennis, J. W. G. Bos, Y. Onose, T. Klimczuk, A. P. Ramirez, N. P. Ong, and R. J. Cava, Nat. Phys. **2**, 544 (2006).
+* [22] X. Zhu, H. Lei, and C. Petrovic, Phys. Rev. Lett. **106**, 246404 (2011).
+
+  * (23) Kazaushige Machida and Masaru Kato, Phys. Rev. B **36**, 854 (1987).
+* (24) H. D. Yang, R. N. Shelton, and H. F. Braun, Phys. Rev. B **33**, 5062 (1986).
+* (25) B. Becker, N. G. Patil, S. Ramakrishnan, A. A. Menovsky, G. J. Nieuwenhuys, J. A. Mydosh, M. Kohgi, and K. Iwasa, Phys. Rev. B **59**, 7266 (1999).
+* (26) H. D. Yang, P. Klavins, and R. N. Shelton, Phys. Rev. B **43**, 7688 (1991).
+* (27) K. Ghosh, S. Ramakrishnan, and G. Chandra, Phys. Rev. B **48**, 4152 (1993).
+* (28) C. B. Vining and R. N. Shelton, Phys. Rev. B **28**, 2732 (1983).
+* (29) H. F. Braun, Phys. Lett. A **75**, 386 (1980).
+* (30) Y. Singh, D. Pal, S. Ramakrishnan, A. M. Awasthi, and S. K. Malik, Phys. Rev. B **71**, 045109 (2005).
+* (31) Y. Singh, D. Pal, and S. Ramakrishnan, Phys. Rev. B **70**, 064403 (2004).
+* (32) M. H. Lee, C. H. Chen, M.-W. Chu, C. S. Lue, and Y. K. Kuo, Phys. Rev. B **83**, 155121 (2011).
+* (33) Y. K. Kuo, K. M. Sivakumar, T. H. Su, and C. S. Lue, Phys. Rev. B **74**, 045115 (2006).
+* (34) R. N. Shelton, L. S. Hausermann-Berg, P. Klavins, H. D. Yang, M. S. Anderson, and C. A. Swenson, Phys. Rev. B **34**, 4590 (1986).
+* (35) Y. Singh and S. Ramakrishnan, Phys. Rev. B **69**, 174423 (2004).
+* (36) J. A. Gotaas, J. W. Lynn, R. N. Shelton, P. Klavins, and H. F. Braun, Phys. Rev. B **36**, 7277 (1987).
+* (37) S. Ramakrishnan, M. G. Patil, A. D. Chinchure, and V. R. Marathe, Phys. Rev. B **64**, 064514 (2001).
+* (38) Juan Rodriguez-Carvajal, Physica B **55**, 192 (1993).
+* (39) Y.-K. Kuo, F. H. Hsu, H. H. Li, H. L. Huang, C. W. Huang, C. S. Lue, and H. D. Yang, Phys. Rev. B **67**, 195101 (2003).
+* (40) Y.-K. Kuo, C. S. Lue, F. H. Hsu, H. H. Li, and H. D. Yang, Phys. Rev. B **64**, 125124 (2001).
+* (41) R. S. Kwok, G. Gruner, and S. E. Brown, Phys. Rev. Lett. **65**, 365 (1990).
+* (42) R. S. Kwok and S. E. Brown, Phys. Rev. Lett. **63**, 895 (1989).
+* (43) M. Chung, Y.-K. Kuo, X. Zhang, E. Figueroa, J. W. Brill, and G. Mozurkewich, Synth. Met. **71**, 1891 (1995).
+* (44) R. A. Craven and S. F. Meyer, Phys. Rev. B **16**, 4583 (1977).
+* (45) J. L. Hodeau, M. Marezio, C. Roucau, R. Ayroles, A. Meerschaut, J. Rouxel, and P. Monceau, J. Phys. C: Solid State Phys. **11**, 4117 (1978).
+* (46) Y. Singh, R. Nirmala, S. Ramakrishnan, and S. K. Malik, Phys. Rev. B **72**, 045106 (2005).
+* (47) J. Friedel, _The Physics of Metals_, edited by J. M. Ziman (Cambridge University Press, Cambridge, England, 1969), Chap. 8.
+* (48) R. H. Friend, D. Jerome, D. M. Schleich, and P. Molinie, Solid State Commun. **27**, 169 (1978).
+
+ 

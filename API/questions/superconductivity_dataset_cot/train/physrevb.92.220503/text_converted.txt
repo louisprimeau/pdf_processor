@@ -1,0 +1,443 @@
+# Weak interband-coupling superconductivity in the filled skutterudite
+LaPt₄Ge₁₂
+
+J. L. Zhang,^(1, 2) G. M. Pang,¹ L. Jiao,¹ M. Nicklas,^(3,) Y. Chen,¹ Z.
+F. Weng,¹ M. Smidman,¹ W. Schnelle,³ A. Leithe-Jasper,³ A.
+Maisuradze,^(4, 5) C. Baines,⁴ R. Khasanov,⁴ A. Amato,⁴ F.
+Steglich,^(1, 3) R. Gumeniuk,^(3, 6) and H. Q. Yuan^(1, 7,)
+
+¹Center for Correlated Matter and Department of Physics, Zhejiang
+University, Hangzhou 310058, China
+
+²High Magnetic Field Laboratory, Chinese Academy of Sciences, Hefei
+230031, China
+
+³Max Planck Institute for Chemical Physics of Solids, Nothnitzer Strasse
+40, D-01187 Dresden, Germany
+
+⁴Laboratory for Muon Spin Spectroscopy, Paul Scherrer Institut, CH-5232
+Villigen PSI, Switzerland
+
+⁵Physik-Institut der Universitat Zurich, Winterthurerstrasse 190,
+CH-8057 Zurich, Switzerland
+
+⁶Institut fur Experimentelle Physik, TU Bergakademie Freiberg, Leipgger
+Strasse 23, D-09596 Freiberg, Germany
+
+⁷Collaborative Innovation Center of Advanced Microstructures, Nanjing
+210093, China
+
+###### Abstract
+
+The superconducting pairing state of LaPt₄Ge₁₂ is studied by measuring
+the magnetic penetration depth λ(T, B) and superfluid density ρ_(s)(T)
+using a tunnel-dode-oscillator (TDO)-based method and transverse-field
+muon-spin rotation (TF-μSR) spectroscopy. The penetration depth follows
+an exponential-type temperature dependence at T ≪ T_(c), but increases
+linearly with magnetic field at T = 1.5 K. A detailed analysis
+demonstrates that both λ_(L)(T) and $\rho_{T}^{\rm TDO}(T)$, measured in
+the Hessner state using the TDO method, are well described by a two-gap
+γ model with gap sizes of Δ₁(0) = 1.31k_(B)T_(c) and
+Δ₂(0) = 1.80k_(B)T_(c), and weak interband coupling. In contrast,
+$\rho_{s}^{\mu\rm SR}(T)$, derived from the μSR data, can be fitted by a
+single-gap BCS model with a gap close to Δ₂(0). We conclude that
+LaPt₄Ge₁₂ is a marginal two-gap superconductor and the small gap Δ₁
+seems to be suppressed by a small magnetic field applied in the μSR
+experiments. In comparison, the 4 f electrons in PrPt₄Ge₁₂ may enhance
+the interband coupling and, therefore, give rise to more robust
+multiband superconductivity.
+
+pacs: 10.1103/PhysRevB.92.220503
+
++ Footnote †: preprint: PHYSICAL REVIEW B **92**, 220503(R) (2015)
+
+DOI: 10.1103/PhysRevB.92.220503
+
+The discovery of superconductivity (SC) in a series of Pr-based
+skutterudite compounds, i.e., PrT_(d)X₁₂ (T = Fe, Ru, Os, and X =
+pnictogen), has attracted considerable interest. Despite intensive
+investigations of the physical properties of these compounds, their
+superconducting order parameter and, therefore, the pairing mechanism
+remains highly controversial [1], with evidence for nodal
+superconductivity in some compounds and conventional BCS SC in others.
+Even for the same compound, most prominently, the heavy-fermion
+superconductor PrOs₄Sb₁₂, the gap symmetry is still under debate. Here,
+the early measurements provided evidence of point nodes with a possible
+triplet pairing state [2, 3, 4]. Upon improving the sample homogeneity
+and measuring to lower temperatures, recent measurements give evidence
+for multiband SC in PrOs₄Sb₁₂[5, 6]. Exploration of other filled
+skutterudite superconductors may help to elucidate the superconducting
+pairing state and the question of its universality.
+
+A family of Ge-based skutterudites with T_(c) ranging from 5 to 8.3 K,
+i.e., MPt₄Ge₁₂ (M = π, Ba, La, Pr), was discovered a few years ago [7,
+8, 9, 10]. Much as PrOs₄Sb₁₂, zero-field muon-spin rotation (μSR)
+experiments showed evidence for time-reversal symmetry (TRS) breaking in
+the superconducting state of PrPt₄Ge₁₂, but not for LaPt₄Ge₁₂[11, 12,
+13, 14, 15, 16]. However, more recent experiments suggested multigap SC
+for PrPt₄Ge₁₂[14, 15, 16]. Furthermore, a coherence peak was observed in
+the nuclear spin-lattice relaxation rate 1/T₁ just below T_(c) for
+PrPt₄Ge₁₂, which is unexpectedly suppressed in LaPt₄Ge₁₂[17]. However,
+the weak variation of T_(c) and of the specific heat jump at T_(c) with
+the Pr content x in La_(1 − x)Pt_(x)Pt₄Ge₁₂ suggests that the order
+parameters of the two end members are similar [12]. Thus, LaPt₄Ge₁₂ is
+not a simple reference compound of PrPt₄Ge₁₂, as seen in many
+heavy-fermion systems. In order to clarify the superconducting order
+parameter in LaPt₄Ge₁₂, further investigations are badly needed.
+Furthermore, a comparative study of PrPt₄Ge₁₂ and LaPt₄Ge₁₂ could shed
+new light on the role of Pr-4 f electrons in the formation of SC and,
+therefore, provide a more general picture of the pairing states in
+skutterudite superconductors.
+
+In this Rapid Communication, we report a comprehensive study of the
+magnetic penetration depth λ(T, B) and superfluid density ρ_(s)(T) of
+LaPt₄Ge₁₂ using μSR and a tunnel-diode-oscillator (TDO)-based technique.
+The London penetration depth λ_(L)(T), measured by the TDO method,
+follows exponential-type behavior in the low-temperature limit,
+suggesting nodeless SC for LaPt₄Ge₁₂. The penetration depth λ_(m)(B),
+determined from the μSR experiments at T = 1.5 K, follows a linear field
+dependence, giving evidence for multigap SC. The superfluid density
+$\rho_{s}^{\rm TDO}(T)$, converted from λ_(L)(T), is best described by a
+two-gap γ model, with gap sizes of Δ₁(0) = 1.31k_(B)T_(c) and
+Δ₂(0) = 1.80k_(B)T_(c) at T = 0. However, the superfluid density
+$\rho_{s}^{\mu\rm SR}(T)$ derived from μSR with a transverse field of 75
+mT is fitted by a conventional BCS model with a gap of Δ(0) ≈ Δ₂(0). We
+argue that marginal two-gap SC exists in LaPt₄Ge₁₂ and also some other
+skutterudite superconductors. Due to very weak interband coupling in
+LaPt₄Ge₁₂, the small gap may be destroyed by a weak magnetic field (as
+used in our μSR measurements) or other perturbations.
+
+Polycrystalline samples of LaPt₄Ge₁₂, as described in Ref. [7], were
+used for the μSR experiments, which were performed using the πM3
+beamline at the Paul Scherrer Institute (Switzerland) down to
+temperatures of T = 1.5 K on the General Purpose Surface-Muon instrument
+(GPS) and T ≈ 0.02 K on the Low Temperature Facility (LTF) spectrometer.
+
+The samples were cooled in $B_{\rm{app}}=75$ mT from above T_(c) down to
+1.5 K, and then measured as a function of temperature. At T = 1.5 K, we
+also collected data in several applied magnetic fields. Typical counting
+statistics were 7-8 × 10⁶ positron events per data point. High quality
+single crystals of LaPt₄Ge₁₂, grown using multistep thermal treatments
+[15, 18], were utilized for the London penetration depth study by a
+TDO-based method. The ac field induced by the coil of the experimental
+setup was less than 2 μT, which is much smaller than the lower critical
+field of LaPt₄Ge₁₂, guaranteeing that the sample was in the Meissner
+state. Typical sample dimensions were about 0.6 × 0.6 × 0.2 mm³. The
+change of the London penetration depth Δλ_(L)(T) is proportional to the
+frequency shift, i.e., Δλ_(L)(T) = GΔf(T), where G is solely determined
+by the sample and coil geometries [19].
+
+Figure 1(a) shows the Fourier transforms of the μSR time spectra P(B) of
+LaPt₄Ge₁₂ at various temperatures for $B_{\rm{app}}=75$ mT. Above
+T_(c) = 8.3 K, a narrow and sharp peak is visible in P(B), as is
+expected for weak nuclear depolarization. Upon lowering the temperature,
+the peak significantly broadens and becomes asymmetric, in accordance
+with the field distribution of a well arranged flux-line lattice (FLL).
+These features point to isotropic SC and weak pinning of the FLL in the
+polycrystalline samples. In this context, we adopt the exact solution of
+the Ginzburg-Landau equations following the method suggested by Brandt
+to analyze the data [20, 21]. The complete analysis of the data follows
+the procedures described in Ref. [22]. Accordingly, we considered the
+spatial magnetic field distribution
+$B({\bf r})=B({\bf r},\lambda_{m},\xi,(B))$ within the unit cell of the
+FLL, where λ_(m) is the magnetic penetration depth and ξ is the
+coherence length. The data are well fitted using the theoretical
+polarization function P(t) given in Ref. [22], as denoted by the solid
+lines in Fig. 1(a).
+
+The mean value of the superfluid density can be expressed as
+$\rho_{s}^{\mu}{\rm SR}\propto(1-b)/\lambda_{m}^{2}$, where
+b = ⟨B⟩/B_(c2)(0) is the reduced field. In Fig. 1(b), we plot
+$\rho_{s}^{\mu}{\rm SR}$ derived from the μSR data as a function of
+temperature, which can be fitted by the conventional s-wave BCS model
+with a gap amplitude of Δ(0) = 1.9k_(B)T_(c). The field dependence of
+the penetration depth provides an alternative method for probing the
+low-energy excitations. For nodal or multigap superconductors, the
+penetration depth λ_(m) depends on the applied magnetic field [23], but
+there is hardly any variation for conventional s-wave superconductors
+[24]. In the inset of Fig. 1(b) we show the field dependence of λ_(m)
+obtained at 1.5 K for several Pt₄Ge₁₂-based superconducting
+skutterudites. In order to avoid correlation effects between λ and ξ,
+the values of the coherence length ξ were fixed to 15.0, 14.2, 19.7, and
+27.0 nm for the La-, Pt-, Sr-, and BaPt₄Ge₁₂ skutterudites, respectively
+[25]. These values were obtained from the corresponding upper critical
+fields B_(c2) at 1.5 K using the Ginzburg-Landau relation
+B_(c2) = Φ₀/2πξ[11, 22]. For LaPt₄Ge₁₂ we used B_(c2)(1.5 K) = 1.48 T
+[26]. λ_(m) of SrPt₄Ge₁₂ and BaPt₄Ge₁₂ are independent of the applied
+field, as expected for s-wave SC with an isotropic gap [see Fig. 1(b)].
+In contrast, λ_(m) of both LaPt₄Ge₁₂ and PrPt₄Ge₁₂ displays a linear
+field dependence with a similar slope, which remarkably resembles that
+of MgB₂[27], a prototype example of a two-band superconductor. Such
+behavior is compatible with multiband SC, as previously shown for
+PrPt₄Ge₁₂[14, 15, 16], but is unexpected for a single-band BCS
+superconductor.
+
+In order to understand this contradictory behavior, we measured the
+London penetration depth Δλ_(L)(T) using the TDO-based method for
+single-crystalline LaPt₄Ge₁₂. A sharp superconducting transition at
+T_(c) = 8.2 K is observed in both the electrical resistivity ρ(T) and
+specific heat C_(es)(T)/T, as shown in Figs. 2(a) and 2(b). Along with
+the residual resistivity ratio RRR = 16.3, this confirms the high
+quality of the LaPt₄Ge₁₂ crystals. Figure 2(c) presents Δλ_(L)(T) for
+two samples from the same batch. The Δλ_(L)(T) data are well
+reproducible between the two samples, showing nearly
+temperature-independent behavior below 1.5 K. This provides further
+evidence for nodeless SC in LaPt₄Ge₁₂. According
+
+Figure 2: (Color online) Temperature dependence of (a) the electrical
+resistivity ρ(T), (b) the electronic specific heat, and (c) the London
+penetration depth Δλ_(L)(T) for LaPt₄Ge₁₂ single crystals. The inset
+shows Δλ_(L)(T) over a wide temperature range. For clarity, the
+Δλ_(L)(T) data of sample No. 2 are shifted by 10 Å. The solid lines
+present a fit of the BCS model to the experimental Δλ_(L)(T) at
+T ≪ T_(c).
+
+Figure 1: (Color online) (a) Fourier transforms of the μSR time spectra
+P(B) of LaPt₄Ge₁₂ at various temperatures, with an applied field of
+$B_{\rm{app}}=75$ mT. For reasons of clarity, the data at each
+temperature were scaled and shifted vertically. The solid lines are fits
+to the data. (b) Temperature dependence of the superfluid density
+$\rho_{s}^{\mu}{\rm SR}\propto(1-b)/\lambda_{m}^{2}$. The solid line
+shows a BCS fit. Inset: Magnetic penetration depth λ_(m) as a function
+of normalized field ⟨B⟩/B_(c2) in MPt₄Ge₁₂, M = La, Pr [11], Sr, and Ba
+[22].
+
+to the BCS model, the penetration depth at T ≪ T_(c) can be expressed by
+[28]$\Delta\lambda(T)\approx\lambda(0)\sqrt{\frac{\pi\lambda(0)}{2k_{B}T}}\exp{(-\frac{ \Delta\lambda(0)}{k_{B}T})}$,
+where λ(0) is the penetration depth at T = 0. Here, we take the value of
+λ(0) ≈ 120 nm from the μSR results. Usually, the parameter Δ(0) varies
+upon changing the fitted temperature range, but becomes saturated at
+sufficiently low temperatures. The solid lines in Fig. 2(c) represent
+the best fits to the BCS model in the low-temperature limit, giving
+Δ(0) = 1.39k_(B)T_(c) for sample No. 1 and Δ(0) = 1.34k_(B)T_(c) for
+sample No. 2. The fitted Δ(0) is much smaller than the BCS value of
+Δ(0) = 1.76k_(B)T_(c), indicating the appearance of a secondary gap at
+low temperatures or the anisotropic effect, which is unlikely in a cubic
+system.
+
+In Fig. 3, we plot the normalized superfluid density
+$\rho_{s}^{\rm TDO}(T)=\lambda^{2}(0)/\lambda_{L}^{2}(T)$ for LaPt₄Ge₁₂,
+which shows an upward curvature near T_(c). Such behavior may result
+from the underestimation of λ(0). As a comparison, the lower inset of
+Fig. 3 shows $\rho_{s}^{\rm TDO}(T)$ calculated using different values
+of λ(0). Indeed, the upturn of $\rho_{s}^{\rm TDO}(T)$ weakens with
+increasing λ(0); $\rho_{s}^{\rm TDO}(T)$ resembles the μSR data for
+λ(0) = 250 nm, but still shows a clear deviation near T_(c). It is noted
+that our samples have a regular geometry and the total uncertainties
+from the λ(0) value and the G factor in the TDO measurements should be
+limited to about 20
+
+According to the γ model [29], which applies generally to clean two-band
+superconductors, the total superfluid density can be written as
+ρ_(s)(T) = γρ₁[Δ₁(0), T] + (1 − γ)ρ₂[Δ₂(0), T], where γ is the relative
+weight of the contribution from the gap Δ₁. For a two-band system with
+known density of states n_(μ) and Fermi velocities ν_(u) (μ = 1, 2), γ
+is determined by γ = n₁⟨v₁²⟩/(n₁⟨v₁²⟩ + n₂⟨v₂²⟩). Here, ⟨v_(μ)²⟩
+represents the average of the squared Fermi velocities over the
+corresponding band. According to the electronic structure calculations
+[7], several energy bands cross the Fermi energy in LaPt₄Ge₁₂. As an
+approximation, we group the major energy bands into two effective bands
+according to the values of Fermi velocity in each band, which gives
+n₁ = 0.12, n₂ = 0.88, and ν₁/ν₂ ∼ 2.3. Thus, a value of γ = 0.42 is
+estimated. The partial superfluid density ρ_(μ) and the energy gap Δ_(μ)
+are calculated self-consistently using the quasiclassic Eilenberger
+equations. Following the method described in Ref. [29], we fitted the
+experimental $\rho_{s}^{\rm TDO}(T)$ with fitting parameters of γ and
+λ_(μν), where λ_(μν) are the interband and intraband pairing couplings.
+The best-fit results, with λ₁₁ = 0.63, λ₁₂ = 0.0025, and λ₂₂ = 0.20, are
+shown in Fig. 3, which overlaps nicely with the experimental data. The
+derived values of n₁ = 0.23 and γ = 0.4 are compatible with those
+estimated directly from the band structure calculations. Such a fit
+gives Δ₁(0) = 1.31k_(B)T_(c) and Δ₂(0) = 1.80k_(B)T_(c); the small gap
+Δ₁(0) agrees well with that obtained from the exponential fits of
+Δλ_(L)(T) at T ≪ T_(c), where Δ(0) = 1.39k_(B)T_(c). As shown in the
+upper inset of Fig. 3, Δ₁(T) exhibits non-BCS behavior, the rapid
+vanishing of Δ₁(T) leads to the upturn in $\rho_{s}^{\rm TDO}(T)$ near
+T_(c).
+
+Remarkably, the calculated partial superfluid density ρ₂(T) is nearly
+identical to $\rho_{\mu}^{\rm sSR}(T)$ (see Fig. 3). Such an agreement
+suggests that the small energy gap is likely destroyed by the small
+magnetic field applied in the μSR experiments. In a two-band
+superconductor with a vanishing λ₁₂, it was theoretically shown that the
+small gap may be suppressed at a largely reduced effective upper
+critical field [30]. The so-called "virtual" upper critical field
+B_(c2)^(*), above which the vortex cores overlap and thus drive the
+majority of the electrons in the associated band normal, can be
+estimated by B_(c2)^(*)(0) ∼ B_(c2)⟨0|λ₁(0)v₂/Δ₂(0)ν₁|². For LaPt₄Ge₁₂,
+a value of B_(c2)^(*)(0) ∼ 150 mT is estimated by using the parameters
+derived above and B_(c2)(0) = 1.6 T [26]. The small B_(c2)^(*)(0) may
+account for the discrepancy between ρ_(s)(T) determined from the TDO and
+μSR experiments. In the TDO measurements, the sample is in the Meissner
+state, which allows us to detect both the large and the small gaps. On
+the other hand, the transverse-field muon-spin rotation (TF-μSR)
+measurements were carried out in a field of 75 mT. In this case, the
+small gap Δ₁ is largely suppressed and $\rho_{s}^{\rm sSR}(T)$ is
+governed by the large gap, leading to a single-band BCS behavior with an
+energy gap Δ₂. Our analysis suggests that LaPt₄Ge₁₂ is a marginal
+two-band superconductor, the signatures of the small gap being easily
+extinguished by magnetic fields due to its weak interband coupling. It
+should be noted that the band structure of LaPt₄Ge₁₂ is more
+
+Figure 3: (Color online) The normalized superfluid density ρ_(s)(T) of
+LaPt₄Ge₁₂. The circles and triangles represent the experimental data
+obtained by using the TDO method ($\rho_{s}^{\rm TDO}$) and the TF-μSR
+measurements ($\rho_{s}^{\rm sSR}$), respectively. The solid line is a
+fit based on the γ model; the derived partial superfluid densities ρ₁(T)
+and ρ₂(T) are shown by the dashed and dashed-dotted lines, respectively.
+Lower inset: The superfluid density $\rho_{s}^{\rm TDO}(T)$ calculated
+with λ₀ = 80, 120, and 250 nm. Upper inset: Temperature dependence of
+the gap amplitudes Δ₁(T) and Δ₂(T).
+
+complex than the simplified scenario discussed above, which may explain
+the difference in the fields required to suppress the small gap in the
+measurements of field and temperature dependence of the penetration
+depth. On the other hand, the interband impurity scattering may mix the
+two bands, which may also lead to single-gap superconducting behavior
+[31].
+
+It was previously shown that the sister compound, PrPt₄Ge₁₂, is also a
+two-gap superconductor with a relatively small admixture of a second gap
+with reduced Δ₀/k_(B)T_(c)[15]. As a comparison, we plotted
+$\rho_{\rm r}^{\rm TDO}(T)$ of LaPt₄Ge₁₂ and PrPt₄Ge₁₂ in Fig. 4, which
+show different curvatures near T_(c). In Fig. 4, we reanalyzed the
+$\rho_{\rm r}^{\rm TDO}$ of PrPt₄Ge₁₂ in terms of the γ model. The best
+fit gives intraband coupling parameters of λ₁₁ = 0.59 and λ₂₂ = 0.18,
+which are compatible with those of LaPt₄Ge₁₂. On the other hand, the
+fitted interband coupling λ₁₂ = 0.07 is over one order of magnitude
+larger than that of LaPt₄Ge₁. The enhanced interband coupling leads to a
+more robust small energy gap, showing the same type of temperature
+dependence for the two gaps [15]. For PrPt₄Ge₁₂, the gap parameters
+derived from the γ model [Δ₁(0) = 0.88k_(B)T_(c),
+Δ₂(0) = 2.17k_(B)T_(c), and γ = 0.15] are consistent with those fitted
+by the α model [15]. These results suggest that the Pr-4f electrons may
+not play a crucial role in the formation of SC, but enhance the
+interband coupling in the MPt₄Ge₁₂ compounds. The latter factor might
+arise from the local crystal field excitations at the Pr sites in
+PrPt₄Ge₁₂. This finding is consistent with the local-density
+approximation calculations, which show similar electronic structures for
+the two compounds, where the main contribution of the density of states
+at the Fermi level is from the Pt and Ge states [7]. Following the same
+methods used in Ref. [15] for PrPt₄Ge₁₂, we also fit
+$\rho_{\rm r}^{\rm TDO}(T)$ of LaPt₄Ge₁₂ with various gap functions (see
+Fig. 4). It can be seen that all the other models give a poor fit to the
+experimental data, further supporting the two-gap SC of LaPt₄Ge₁₂.
+
+Our results may have broader implications for reconciling the diverse
+behaviors of several multiband superconductors, in particular, those
+with a weak interband coupling. A number of filled skutterudite
+superconductors have been considered to be two-band superconductors on
+the basis of various experiments [5, 6, 32], while in others the data
+are not convincing [33, 34]. Other similar examples also include V₃Si,
+La₂C₃, and MgCNi₃, where different experimental probes are not yet
+conclusive on the order parameter symmetry [35]. Focusing on our
+results, we find that, in LaPt₄Ge₁₂, the smaller gap is subtle and could
+be easily suppressed by magnetic fields due to the weak interband
+coupling. To further examine this scenario, it is desirable to study the
+evolution of the gap structure by tuning the magnetic field or the
+impurity scattering in LaPt₄Ge₁₂ and other superconductors with weak
+interband coupling.
+
+In summary, we have investigated the superconducting order parameter of
+LaPt₄Ge₁₂ by measuring the penetration depth and the superfluid density
+using two different methods. We found that Δλ_(L)(T) and
+$\rho_{\rm r}^{\rm TDO}(T)$ from the TDO measurements in the Meissner
+state can be consistently described by the two-band γ model with
+Δ₁(0) = 1.31k_(B)T_(c) and Δ₂(0) = 1.80k_(B)T_(c). The small gap is
+likely suppressed by the small magnetic field applied in the μSR
+experiments. Our results suggest that LaPt₄Ge₁₂ is a two-band
+superconductor where the critical field for suppressing the small gap is
+significantly reduced due to the extraordinarily weak interband
+coupling. The presence of 4f electrons in the Pr-based skutterudite
+superconductors may enhance the interband coupling and, therefore, give
+rise to more robust multiband behavior.
+
+We are grateful to H. Rosner for sharing the band structure data with
+us. We would also like to acknowledge useful discussions with H. Pfau,
+Yu. Grin, C. Cao, and X. Lu. This work was partially supported by the
+National Basic Research Program of China (No. 2011CBAA00103), the
+National Natural Science Foundation of China (No. 11174245, No.
+11474251, and No. 11504378), and the Fundamental Research Funds for the
+Central Universities, the Max Planck Society under the auspices of the
+Max Planck Partner Group of the Max Planck Institute for Chemical
+Physics of Solids, Dresden. The work performed at the Swiss Muon Source
+(SμS), Paul Scherrer Institut (PSI, Switzerland) was supported by the
+NCCR program _Materials with Novel Electronic Properties_ (MaNEP)
+sponsored by the Swiss National Science Foundation.
+
+## References
+
+* (1) B. C. Sales, in _Handbook on the Physics and Chemistry of Rare
+Earths_, edited by K. A. Gschneidner, Jr., J.-C. G. Bunzli, and V. K.
+Pecharsky (Elsevier, Amsterdam, 2003), Vol. 33, p. 1. * (2) W. Higemoto,
+S. R. Saha, A. Koda, K. Ohishi, R. Kadono, Y. Aoki, H. Sugawara, and H.
+Sato, Phys. Rev. B **75**, 020510(R) (2007).
+
+Figure 4: (Color online) The normalized superfluid density
+$\rho_{\rm r}^{\rm TDO}(T)$ for LaPt₄Ge₁₂ and PrPt₄Ge₁₂. The symbols and
+solid lines represent the experimental data and their corresponding fits
+using the two-band γ model. For comparison, we also fit
+$\rho_{\rm r}^{\rm TDO}(T)$ of LaPt₄Ge₁₂, using various gap functions
+allowed by the crystal symmetry [15].
+
+* [3] K. Izawa, Y. Nakajima, J. Goryo, Y. Matsuda, S. Osaki, H.
+Sugawara, H. Sato, P. Thalmeier, and K. Maki, Phys. Rev. Lett. **90**,
+117001 (2003). * [4] E. E. M. Chia, M. B. Salamon, H. Sugawara, and H.
+Sato, Phys. Rev. Lett. **91**, 247003 (2003). * [5] G. Seyfarth, J. P.
+Brison, M.-A. Measson, D. Braithwaite, G. Lapertot, and J. Flouquet,
+Phys. Rev. Lett. **97**, 236403 (2006). * [6] R. W. Hill, S. Li, M. B.
+Maple, and L. Taillefer, Phys. Rev. Lett. **101**, 237005 (2008). * [7]
+R. Gumeniuk, W. Schnelle, H. Rosner, M. Nicklas, A. Leithe-Jasper, and
+Y. Grin, Phys. Rev. Lett. **100**, 017002 (2008); H. Rosner (private
+communication). * [8] E. Bauer, A. Grytsiv, X.-Q. Chen, N.
+Melnychenko-Koblyuk, G. Hilscher, H. Kaldarar, H. Michor, E. Royanian,
+G. Giester, M. Rotter, R. Podloucky, and P. Rogl, Phys. Rev. Lett.
+**99**, 217001 (2007). * [9] D. Kaczorowski and V. H. Tran, Phys. Rev. B
+**77**, 180504(R) (2008). * [10] E. Bauer, X.-Q. Chen, P. Rogl, G.
+Hilscher, H. Michor, E. Royanian, R. Podloucky, G. Giester, O. Sologub,
+and A. P. Goncalves, Phys. Rev. B **78**, 064516 (2008). * [11] A.
+Maisuradze, M. Nicklas, R. Gumeniuk, C. Baines, W. Schnelle, H. Rosner,
+A. Leithe-Jasper, Yu. Grin, and R. Khasanov, Phys. Rev. Lett. **103**,
+147002 (2009). * [12] A. Maisuradze, M. Nicklas, R. Khasanov, R.
+Gumeniuk, M. Nicklas, H. Rosner, A. Leithe-Jasper, Yu. Grin, A. Amato,
+and P. Thalmeier, Phys. Rev. B **82**, 024524 (2010). * [13] J. Zhang,
+D. E. MacLaughlin, A. D. Hillier, Z. F. Ding, K. Huang, M. B. Maple, and
+L. Shu, Phys. Rev. B **91**, 104523 (2015). * [14] L. S. Sharath
+Chandra, M. K. Chattopadhyay, and S. B. Roy, Philos. Mag. **92**, 3866
+(2012). * [15] J. L. Zhang, Y. Chen, L. Jiao, R. Gumeniuk, M. Nicklas,
+Y. H. Chen, L. Yang, B. H. Fu, W. Schnelle, H. Rosner, A. Leithe-Jasper,
+Y. Grin, F. Steglich, and H. Q. Yuan, Phys. Rev. B **87**, 064502
+(2013). * [16] Y. Nakamura, H. Okazaki, R. Yoshida, T. Wakita, H.
+Takeya, K. Hirata, M. Hirai, Y. Muraoka, and T. Yokoya, Phys. Rev. B
+**86**, 014521 (2012). * [17] F. Kanetake, H. Mukuda, Y. Kitaoka, H.
+Sugawara, K. Magishi, K. M. Itoh, and E. E. Haller, Physica C **470**,
+S703 (2010); J. Phys. Soc. Jpn. **79**, 063702 (2010). * [18] R.
+Gumeniuk, H. Borrmann, A. Ormeci, H. Rosner, W. Schnelle, M. Nicklas,
+Yu. Grin, and A. Leithe-Jasper, Z. Krystallogr. **225**, 531 (2010). *
+[19] R. Prozorov, R. W. Giannetta, A. Carrington, and F. M.
+Araujo-Moreira, Phys. Rev. B **62**, 115 (2000). * [20] E. H. Brandt,
+Phys. Rev. B **68**, 054506 (2003). * [21] E. H. Brandt, Phys. Rev.
+Lett. **78**, 2208 (1997). * [22] A. Maisuradze, R. Gumeniuk, W.
+Schnelle, M. Nicklas, C. Baines, R. Khasanov, A. Amato, and A.
+Leithe-Jasper, Phys. Rev. B **86**, 174513 (2012). * [23] M. H. S. Amin,
+M. Franz, and I. Affleck, Phys. Rev. Lett. **84**, 5864 (2000). * [24]
+I. L. Landau and H. Keller, Physica C **466**, 131 (2007). * [25] A.
+Maisuradze, R. Khasanov, A. Shengelaya, and H. Keller, J. Phys.:
+Condens. Matter **21**, 075701 (2009). * [26] See Supplemental Material
+at http://link.aps.org/supplemental/10.1103/PhysRevB.92.220503 for
+additional information on the superconducting upper-critical field of
+LaPt₄Ge₁₂. * [27] K. Ohishi, T. Muranaka, J. Akimitsu, A. Koda, W.
+Higemoto, and R. Kadono, J. Phys. Soc. Jpn. **72**, 29 (2003). * [28] R.
+Prozorov and R. W. Giannetta, Supercond. Sci. Technol. **19**, R41
+(2006), and references therein. * [29] V. G. Kogan, C. Martin, and R.
+Prozorov, Phys. Rev. B **80**, 014507 (2009). * [30] L. Tewordt and D.
+Fay, Phys. Rev. B **68**, 092503 (2003). * [31] Y. Ohashi, Physica C
+**412-414**, 41 (2004) * [32] D. T. Adroja, A. D. Hillier, J.-G. Park,
+E. A. Goremychkin, K. A. McEwen, N. Takeda, R. Osborn, B. D. Rainford,
+and R. M. Ibberson, Phys. Rev. B **72**, 184503 (2005). * [33] E. E. M.
+Chia, M. B. Salamon, H. Sugawara, and H. Sato, Phys. Rev. B **69**,
+180509(R) (2004). * [34] L. Shu, D. E. MacLaughlin, W. P. Beyermann, R.
+H. Heffner, G. D. Morris, O. O. Bernal, F. D. Callaghan, J. E. Sonier,
+W. M. Yuhasz, N. A. Frederick, and M. B. Maple, Phys. Rev. B **79**,
+174511 (2009). * [35] M. Zehetmayer, Supercond. Sci. Technol. **26**,
+043001 (2013), and references therein.

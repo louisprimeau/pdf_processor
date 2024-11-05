@@ -1,0 +1,860 @@
+Low anisotropy of the upper critical field in a strongly anisotropic
+layered cuprate Bi_(2.15)Sr_(1.9)CuO_(6 + δ): Evidence for a
+paramagnetically limited superconductivity
+
+S. O. Katterwe,^(1,)1
+
+Institut fur Luft und K$\ddot{a}$ltetechnik gemeinnutzige Gesellschaft
+mbH, Bertolt-Brecht-Allee 20, D-01309 Dresden, Germany.
+
+Footnote 1: vladimir.krasnov@fysik.su.se
+
+Th. Jacobs,¹ A. Maljuk,² and V. M. Krasnov^(1,)
+
+¹Department of Physics, Stockholm University, AlbaNova University
+Center, SE-10691 Stockholm, Sweden
+
+²Leibniz Institute for Solid State and Materials Research IFW Dresden,
+Helmholtzstrasse 20, D-01171 Dresden, Germany
+
+###### Abstract
+
+We study angular-dependent magnetoresistance in a low-T_(c) layered
+cuprate Bi_(2.15)Sr_(1.9)CuO_(6 + δ). The low T_(c) ∼ 4 K allows
+complete suppression of superconductivity by modest magnetic fields and
+facilitates accurate analysis of the upper critical field H_(c2). We
+observe a universal exponential decay of fluctuation conductivity in a
+broad range of temperatures above T_(c) and propose a method for
+extraction of H_(c2)(T) from the scaling analysis of the fluctuation
+conductivity at T > T_(c). Our main result is observation of a
+surprisingly low H_(c2) anisotropy ∼2, which is much smaller than the
+effective mass anisotropy of the material ∼300. We show that the
+anisotropy is decreasing with increasing field and saturates at a small
+value when the field reaches the paramagnetic limit. We argue that the
+dramatic discrepancy of high-field and low-field anisotropies is clear
+evidence for paramagnetically limited superconductivity.
+
+DOI: 10.1103/PhysRevB.89.214516 PACS number(s): 74.25.F-, 74.25.Op,
+74.40.-n, 74.72.Gh + Footnote †: preprint: PHYSICAL REVIEW B **89**,
+214516 (2014)
+
+## I Introduction
+
+The upper critical field H_(c2) is one of the key parameters of type-II
+superconductors [1]. It is particularly important for understanding
+unconventional superconductivity [2, 3]. However, estimation of H_(c2)
+for high-temperature superconductors is a notoriously difficult task.
+The high T_(c) leads to an extended region of thermally activated flux
+flow. The complex physics of anisotropic pinning and melting of the
+vortex lattice [4] makes it hard, if at all possible [5], to confidently
+obtain H_(c2) from flux-flow characteristics at T < T_(c)(H).
+
+The high T_(c) in combination with a strong coupling leads to a large
+superconducting energy gap Δ ∼ 20-50 meV [6, 7, 8, 9, 10, 11] and
+H_(c2)(0) ∼ 10² T [12, 13, 14, 15, 16, 17, 18, 19]. Such strong fields
+may alter the ground state of the material. For cuprates and pnictides
+the parent state is antiferromagnetic. It has been demonstrated that
+relatively weak fields can induce a canted ferromagnetic order in
+strongly underdoped cuprates [20]. Furthermore, the normal state of
+underdoped cuprates is characterized by the presence of the pseudogap
+(PG), which probably represents a charge/spin or orbital density wave
+order coexisting and competing with superconductivity [8, 10, 21, 22,
+23, 24, 25, 26, 27, 28]. Suppression of superconductivity by magnetic
+field may enhance the competing PG, as follows from observation of a
+charge density wave in a vortex core [9]. But even stronger magnetic
+fields of several hundred teslas suppress the PG [29, 30]. Thus, both
+superconducting and normal state properties are affected by strong
+magnetic fields and separation of the two contributions is highly
+nontrivial and controversial. Disentanglement of superconducting and PG
+characteristics is difficult even above T_(c) due to the presence of
+profound superconducting fluctuations [31, 32, 33]. Therefore, principal
+new questions, which do not appear for low-T_(c) superconductors, are to
+what extent H ∼ H_(c2) alters the abnormal normal state of high-T_(c)
+superconductors and how to define the nonsuperconducting background in
+measured characteristics.
+
+For many unconventional superconductors the measured H_(c2) exceeds the
+paramagnetic limit of the BCS theory [1, 34]. This has been reported for
+organic [35, 36, 37], cuprate [14, 15], pnictide [38, 39, 40], and heavy
+fermion [41, 42, 43] superconductors. Such an overshooting is an
+important hint in a long-standing search for exotic spin-triplet and
+Fulde-Ferrell-Larkin-Ovchinnikov states (for review see, e.g., Ref.
+[43]). Yet, the overshooting is not a proof of unconventional pairing
+because the paramagnetic limit is rather flexible. It is increasing in
+the presence of spin-orbit interaction [1] and in the two-dimensional
+(2D) case and is lifted in the one-dimensional (1D) case [43, 44].
+Unconventional superconductors are usually anisotropic. Some of them
+have quasi-2D or possibly even quasi-1D structure. Many have a
+significant spin-orbit interaction between localized spins and itinerant
+charge carriers. Consequently, one needs a more robust criterion for the
+paramagnetically (un)limited superconductivity in search for exotic
+states of matter.
+
+Here we investigate the anisotropy of H_(c2) in a strongly anisotropic
+layered Bi_(2.15)Sr_(1.9)CuO_(6 + δ) (Bi-2201) cuprate with a low
+T_(c) ∼ 4 K. The low T_(c) and the associated large disparity of
+superconducting and pseudogap scales [30] allow simple and accurate
+estimation of H_(c2) without complications typical for high-T_(c)
+cuprates. We present a detailed analysis of angular dependence of
+in-plane and out-of-plane magnetoresistance (MR) and demonstrate that
+they exhibit very different behavior. We observe a universal
+approximately exponential decay of the in-plane fluctuation
+paraconductivity above T_(c) and propose a method for extraction of
+H_(c2)(T) from a scaling analysis of fluctuations at T > T_(c). This
+obviates the complexity of the flux-flow phenomena and allows
+unambiguous extraction of H_(c2)(T). Remarkably, we obtained that the
+anisotropy of the upper critical field H_(c2)¹/H_(c2)¹(T → 0) ≃ 2 is
+much smaller than the anisotropy of the effective mass γ_(m) ≃ 300[45].
+This discrepancy clearly indicates that H_(c2)¹ parallel to the CuO
+planes is cut off by the paramagnetic limit.
+
+Cuprates have homologous families with different number of CuO planes
+per unit cell. Cuprates within the homologous family have similar
+carrier concentrations, resistivities, anisotropies, and layeredness,
+but largely different T_(c). For Bi-based cuprates the three-layer
+compound Bi₂Sr₂Ca₂Cu₃O_(10 + δ) (Bi-2223) has a maximum T_(c) of ∼110 K,
+the two-layer compound Bi₂Sr₂CaCu₂O_(8 + δ) (Bi-2212) has a T_(c) ∼ 95
+K, and a single-layer compound Bi₂Sr₂CuO_(6 + δ) (Bi-2201) has an
+optimal (with respect to oxygen doping) T_(c) that ranges from ∼30 K for
+Bi/Pb and Sr/La substituted crystals [46] to just a few K in the pure
+Bi-2201 compound [5, 47, 48, 49]. According to Ref. [48] the
+stoichiometric Bi-2201 compound is nonsuperconducting and a finite T_(c)
+appears only in off-stoichiometric Bi_(2 + x)Sr_(2 − y)CuO_(6 + δ)
+compounds with x, y ≠ 0. Thus, the Bi/Sr off-stoichiometry allows fine
+tuning of the maximum T_(c)[48, 49].
+
+Development of high magnetic field techniques in recent years has lead
+to significant progress in studies of H_(c2) in high-T_(c)
+superconductors [13, 14, 18, 19]. But the problem of disentanglement of
+superconducting and PG magnetic responses remains. It leads to a lack of
+clear criteria for extraction of H_(c2) from measurement at H ∼ 100 T.
+This problem is avoided in low-T_(c) cuprates because the relative
+disparity between superconducting and pseudogap scales is increasing
+with decreasing T_(c)[30]. Therefore, analysis of H_(c2) in low-T_(c)
+cuprates should provide unambiguous information about the
+superconducting state, not affected by interference with the coexisting
+PG. This is the main motivation of the present work.
+
+## II Experimental
+
+Studied crystals are parts of one pristine Bi_(2.15)Sr_(1.9)CuO_(6 + δ)
+single crystal with T_(c) ≃ 3.5 K. Growth and characterization of
+crystals is described in Ref. [48]. Oxygen doping was consecutively
+decreased by soft annealing in vacuum, which does not affect the crystal
+quality [47]. We present data for a slightly overdoped (with respect to
+oxygen content) T_(c) ≃ 4.0 K [OD(4.0)] and a nearly optimally doped
+T_(c) ≃ 4.3 K [OP(4.3)] crystal.
+
+Figure 1(a) shows an image of the studied sample OP(4.3). The sample
+consists of ten micron-size mesa structures (two big and eight small)
+with attached gold electrodes. In-plane resistance is measured with a
+lock-in technique in a four-probe configuration by sending an ac current
+through the left and right current contacts (big mesas), and measuring
+the longitudinal voltage between a pair of small mesas. The c-axis
+transport is measured in a three-probe configuration by sending a probe
+current through one of the small mesas to one of the current contacts.
+The voltage is measured with respect to unbiased contact pads. Details
+of sample fabrication and measurement setup can be found in Ref. [30].
+
+Figure 1(b) shows the c-axis resistance versus temperature at H = 0 and
+14 T along the c axis. It is seen that R_(c)(T) exhibits an upturn at
+T < T^(*) ∼ 110 K, indicating opening of the c-axis PG. According to
+previous studies [30, 46, 50] such a T^(*) corresponds to a near
+optimally doped (OP) (slightly underdoped) Bi-2201. A superconducting
+transition occurs at a much lower T_(c) ≃ 4 K. The c-axis field of 14 T
+completely suppresses the superconducting transition but does not change
+significantly the PG characteristics due to a large disparity of
+superconducting and PG scales in this low-T_(c) compound [30].
+
+The large c-axis resistance R_(c) ∼ kΩ corresponds to a non-metallic
+resistivity ρ_(c) ≃ 20Ω cm [30], which is much larger than the in-plane
+resistivity ρ_(ab) ≃ (1-4) × 10⁻⁴Ω cm [51]. The anisotropy of
+resistivity γ_(R) = ρ_(c)/ρ_(ab) ∼ 10⁵ and the corresponding effective
+mass anisotropy $\gamma_{m}=\sqrt{\gamma_{R}}\sim 300$ is very large
+[45], similar to Bi-2212 [52] and Bi-2223 [53] cuprates. This reflects a
+layered 2D structure of Bi-based cuprates with mobile electrons
+localized on atomic CuO planes. The c-axis transport is caused by
+interlayer tunneling. Below T_(c) this leads to appearance of an
+intrinsic Josephson effect [54], observed in all Bi-based cuprates [6,
+8, 16, 53, 55], including Bi-2201 [30, 50, 56]. Interlayer tunneling
+creates the basis for the intrinsic tunneling spectroscopy technique [6,
+8, 16, 30, 53] and facilitates simultaneous magnetotransport and
+spectroscopic measurements, beneficial for analysis of H_(c2)[16].
+Figure 1(c) shows the current-voltage I-V characteristics of a small
+mesa at T = 1.8 K. A detailed analysis of intrinsic tunneling
+characteristics of our Bi-2201 crystals can be found in Ref. [30]. The
+small area of our mesas allows investigation of intrinsic tunneling
+characteristics [6, 8, 16, 30, 53] without significant distortion by
+self-heating [8].
+
+## III In-plane and out-of-plane magnetoresistance
+
+### In-plane magnetoresistance
+
+Figures 2(a) and 2(b) show temperature dependencies of the in-plane
+resistance R_(ab) at different magnetic fields (a) perpendicular and (b)
+parallel to the ab planes for the OP(4.3) sample. For H ⊥ ab, R_(ab)
+reaches the normal state value R_(n) already at T ≃ 10 T. For H ∥ ab the
+field of 17 T still does not
+
+Figure 1: (Color online) (a) Scanning electron microscopy image of the
+sample OP(4.3). (b) Temperature dependence of the c-axis resistance at
+H = 0 and 14 T. The compound has a low T_(c) ≃ 4 K and the pseudogap
+onset temperature T^(*) ≃ 110 K. (c) Current-voltage characteristic of a
+small mesa at T = 1.8 K and H = 0.
+
+completely suppress superconductivity. The difference is both due to the
+anisotropy and due to different contributions from flux-flow and orbital
+effects. The Lorentz force density f_(L) = (1/c)[J × B], where J is the
+transport current density and B is the magnetic induction, acts both on
+vortices and mobile charge carriers. In Fig. 2(a) H ⊥ H ∥ ab the Lorentz
+force is at maximum and effectively drives pancake vortices [4] along
+CuO planes. Therefore, R_(ab)(H ⊥ ab) is dominated by the flux-flow
+contribution at T < T_(c)(H). In the case of Fig. 2(b) H ∥ ab ∥ I there
+is no Lorentz force and the flux-flow contribution should be minimal.
+
+Figure 2(c) represents a detailed comparison of R_(ab)(T) at H = 0 and
+17 T for the two field orientations. We notice that the resistive
+transition at H ∥ ab ∥ I is simply shifted towards a lower T due to
+suppression of T_(c)(H). On the other hand R_(ab) at H ⊥ ab is also
+shifted upwards, even at T ≫ T_(c). This indicates that there is an
+additional positive MR in the normal state (∼1
+
+### Out-of-plane magnetoresistance
+
+Figures 3(a) and 3(b) show temperature dependencies of the c-axis
+resistance R_(c) at different magnetic fields (a) perpendicular and (b)
+parallel to the ab planes. Irrespective of field orientation, there are
+both positive and negative contributions to c-axis MR. Figure 3(c)
+represents a detailed comparison of R_(c)(T) at H = 0 and at H = 17 T
+for the two field orientations. It is seen that in the normal state
+there is a significant negative c-axis MR for both field orientations.
+It is largest for H ⊥ ab and reaches almost 10
+
+A positive MR appears only in the superconducting state T < T_(c)(H). It
+is due to suppression of the interlayer Josephson current with respect
+to the bias current [58, 59]. At H ∥ ab there is a profound Josephson
+flux-flow phenomenon due to easy sliding of Josephson vortices along the
+ab planes [55, 60]. This also leads to a positive MR with a peak at H
+strictly parallel to the ab planes [61]. The negative c-axis MR persists
+
+Figure 2: (Color online) T dependencies of the in-plane resistance at
+magnetic fields (a) perpendicular and (b) parallel to the ab planes. (c)
+Comparison of the data from (a) and (b) for zero and 17 T. For H ∥ ab
+the R_(ab)(T) is shifted to lower temperatures. For H ⊥ ab the
+superconducting transition is completely suppressed and R_(ab) is
+shifted upwards, indicating presence of a positive orbital
+magnetoresistance in the normal state. (d) MR in a perpendicular field
+below and just above T_(c). Note that the saturation field ∼H_(c2)(T) is
+decreasing with T → T_(c). Panels (e) and (f) show MR for both field
+orientations (e) below and (f) above T_(c). The positive MR at T > T_(c)
+is caused both by suppression of superconducting fluctuations and an
+additional orbital normal state MR.
+
+both in the superconducting [16] and the normal states and is attributed
+to field suppression of either the superconducting gap Δ[16] or the
+pseudogap Δ_(PG)[29]. For high-T_(c) Bi-2212 [6, 8] and Bi-2223 [53]
+cuprates the corresponding energies (Δ∼ 30-50 meV, Δ_(PG)∼ 30-70 meV)
+and fields (H_(c2)∼ 100-200 T, H^(*)∼ 200-300 T) are similar [16, 29]
+and separation of the two contributions is difficult. However, in the
+studied low-T_(c) superconductor the separation becomes trivial because,
+as shown in Ref. [30], all PG characteristics remain similar to
+high-T_(c) materials, but all superconducting characteristics scale down
+with T_(c)[11], leading to a large disparity of superconducting and PG
+characteristics.
+
+Figures 3(d) and 3(e) show c-axis MR for different field orientations
+and temperatures (d) below and (e) above T_(c). It is seen that the
+negative MR persists at H > H_(c2)^(⊥)∼ 10 T and at T > T_(c) and is due
+to field suppression of the PG [29, 30]. Figure 3(f) shows pulsed field
+measurements of R_(c)(H^(⊥)) at T= 1.6 K up to 65 T for a slightly
+underdoped crystal from the same batch (data from Ref. [30]). It is seen
+that at high fields R_(c)(H^(⊥)) is approximately linear in the
+semilogarithmic scale. An extrapolation to the normal resistance R_(n)∼
+160 Ω yields the PG closing field H^(*)∼ 300 T. It corresponds to the
+Zeeman energy gμ_(B)H^(*)∼ 35 meV  ≃ Δ_(PG)[30].
+
+### Angular magnetoresistance at T < T_(c)
+
+Angular dependence of the upper critical field H_(c2)(Θ) is given by the
+following equations:
+
+$$\left(\frac{H_{c2}(\Theta)\sin\Theta}{H_{c2}^{\perp}}\right)^{2}+\left(\frac{H _{c2}(\Theta)\cos\Theta}{H_{c2}^{\parallel}}\right)^{2}=1$$
+(1)
+
+for a three-dimensional (3D) superconductor and
+
+$$\left|\frac{H_{c2}(\Theta)\sin\Theta}{H_{c2}^{\perp}}\right|+\left(\frac{H_{c2 }(\Theta)\cos\Theta}{H_{c2}^{\parallel}}\right)^{2}=1$$
+(2)
+
+for the 2D case. In the simplest case of an isotropic superconductor the
+flux-flow resistivity can be approximately estimated from the
+Bardeen-Stephen model [62],
+
+$$R(\Theta)=R_{n}\frac{H}{H_{c2}(\Theta)}.$$
+(3)
+
+It connects the angular MR R(Θ) with H_(c2)(Θ). The main qualitative
+difference between 3D and 2D cases is that R(Θ = 0^(∘)) has a smooth
+minimum in the 3D case and a sharp cusplike dip in the 2D case [63].
+
+Figures 4(a) and 4(b) show angular dependencies of the in-plane
+resistance R_(ab)(Θ) at T= 2 K measured upon rotation around two
+orthogonal axes in the ab plane (a) perpendicular and (b) parallel to
+the current. In both cases Θ= 90^(∘) corresponds to H ⊥ ab, H ⊥ I. But
+Θ = 0^(∘) corresponds to either (a) the Lorentz force-free configuration
+H ∥ I, or (b) to the case H ⊥ I when the Lorentz force is acting on
+Josephson vortices in the direction perpendicular to layers. Dashed
+lines in (b) represent properly scaled data from panel (a) [64]. It is
+seen that the behavior in both cases is very similar. Therefore, at
+H ∥ ab the flux-flow contribution to R_(ab) is small either due to zero
+Lorentz force or a strong intrinsic pinning in the layered
+superconductor [65, 66, 67], which prevents motion of Josephson vortices
+across the planes.
+
+Figure 4(c) shows angular dependencies of the c-axis resistance. Apart
+from the dip at Θ ∼ 0^(∘) due to the anisotropy
+
+Figure 3: (Color online) Temperature dependencies of the c-axis
+resistance for (a) H ⊥ ab and (b) H ∥ ab. (c) Comparison of the data
+from (a) and (b) for H= 0 and 17 T. Panels (d) and (e) show c-axis MR
+for the two field orientations (d) below and (e) above T_(c). It is seen
+that the normal state negative MR is present for both field
+orientations. (f) R_(c)(H^(⊥)) measured up to 65 T (data from Ref.
+[30]). It is seen that there is both a positive MR at low fields due to
+suppression of the supercurrent and a negative MR at high fields due to
+suppression of the PG.
+
+of H_(c2), the R_(c)(Θ) has an additional sharp maximum at Θ = 0^(∘) due
+to onset of the Josephson flux-flow phenomenon [61]. In this case the
+Lorentz force is directed along the ab planes and easily drags Josephson
+vortices with low pinning and viscosity [60]. The shape of R_(c)(Θ) at
+large angles is visibly affected by the negative normal state MR, which
+causes a shallow minimum of R_(c)(Θ) at Θ = 90^(∘) at large fields.
+
+From Figs. 4(a)-4(c) it is seen that R(Θ) exhibits a cusp at Θ = 0^(∘),
+indicating the 2D nature of superconductivity in CuO planes. The cusp
+becomes narrower and sharper with increasing field. This is in a
+qualitative agreement with calculations for the 2D model using Eqs. (2)
+and (3), shown in Fig. 4(d). The sharpening of the cusp at Θ = 0^(∘)
+occurs when the field becomes larger than H_(c2)^(⊥). In this case the
+sample is in the normal state with a flat R_(ab)(Θ) = R_(a) for angles
+Θ ∼ 90^(∘) at which H_(c2)(Θ) < H. As the field approaches H_(c2)^(∥),
+superconductivity survives only in a narrow range of angles Θ ∼ 0^(∘).
+Therefore, a significant narrowing of the cusp at H = 17 T in Figs.
+4(a)-4(c) indicates that H_(c2)^(∥) is close to 17 T.
+
+The anisotropy of H_(c2) can be analyzed from comparison of
+angular-dependent R(Θ) with MR at the corresponding parallel
+R(H^(∥) = Hcos (Θ)) and perpendicular R(H^(⊥) = Hsin (Θ)) field
+orientations. If one of the field components is smaller than the
+corresponding H_(c2), adding an orthogonal component will contribute to
+suppression of superconductivity. But if the field component is larger
+than H_(c2), then an extra field component will not give a significant
+contribution to MR. In Figs. 4(e) and 4(f) we perform such the
+comparison at T = 2 K. Black symbols in Fig. 4(e) represent R_(ab)(Θ) at
+H = 17 T from Fig. 4(a) as a function of sin²(Θ). The solid red line
+represents the MR in solely the perpendicular field component
+R_(ab)(H^(⊥) = Hsin (Θ)). The dashed blue line represents a sum of
+resistances in the corresponding perpendicular and parallel field
+components R_(ab)(H^(⊥) = Hsin (Θ)) + R_(ab)(H^(∥) = Hcos (Θ)), shown in
+Fig. 2(e). It is seen that at sin²(Θ) ≳ 0.35 the angular MR is
+determined almost entirely by H^(⊥) and an additional H^(∥) does not
+contribute significantly to MR. This angle corresponds to
+H^(⊥) = Hsin (Θ) > H_(c2)^(⊥) ≃ 10 T, as indicated by a vertical arrow
+in Fig. 4(e). At larger angles superconductivity is already suppressed
+because H^(⊥) > H_(c2)^(⊥) and MR becomes insensitive to an additional
+parallel field component. Such the analysis confirms that
+H_(c2)^(⊥) ≃ 10 T. At smaller angles H^(⊥) < H_(c2)^(⊥) and H^(∥) does
+contribute to MR, although not additively.
+
+Figure 4(f) represents a similar comparison for the out-of-plane
+resistance. Solid and dashed lines represent the MR solely in
+perpendicular and parallel fields from Fig. 3(d). Apparently, R_(c)(Θ)
+is not determined by a single field component. The most pronounced
+feature of R_(c)(sin²(Θ)) is a rapid drop at sin (Θ) → 0, which reflects
+the corresponding behavior of R_(c)(H^(⊥)). Therefore, the crystal still
+maintains some superconductivity at H^(∥) = 17 T, but it is rapidly
+suppressed by a small additional H^(⊥) component upon a slight rotation
+of the crystal. Consequently, H_(c2)^(∥)(2 K) is slightly larger than 17
+T. On the other hand, since H_(c2)^(⊥) < 17 T, there is no similar drop
+at sin (Θ) = 1.
+
+Figure 4: (Color online) (a) and (b) Angular dependencies of in-plane
+resistances for rotation around two orthogonal axes in the ab plane.
+Dashed lines in (b) represent scaled data from (a) [64]. (c) Angular
+dependence of the c-axis resistance. The peak at Θ = 0^(∘) is due to
+onset of Josephson flux flow. (d) Theoretical angular dependencies of
+flux-flow resistances for a 2D model with an anisotropy γ = 5. Note that
+the cusp at Θ = 0^(∘) becomes sharper at H > H_(c2)^(⊥) because
+superconductivity survives only in a narrow range of angles around
+Θ = 0^(∘). A similar narrowing is seen in panels (a)–(c). Panels (e) and
+(f) represent comparison of (e) in-plane and (f) out-of-plane angular MR
+(symbols) with resistances at the corresponding perpendicular
+H^(⊥) = Hsin (Θ) (solid lines) and parallel H^(∥) = Hcos (Θ) field
+components at T = 2 K and H = 17 T.
+
+## IV Fluctuation magnetoresistance
+
+From comparison of Figs. 4(a), 4(b), and 4(d) it is clear that Eqs. (2)
+and (3) only explain the narrowing of the cusp, but do not fit the R(Θ)
+data. This demonstrates the inappropriateness of Eq. (3) for layered
+superconductors because it does not take into consideration
+transformation of the vortex structure, the pinning strength, and the
+Lorentz force upon rotation of the crystal. Furthermore, Eq. (3) assumes
+that the resistance always reaches the normal state value R_(n) at
+H = H_(c2) and thus neglects the remaining fluctuation paraconductivity
+at H > H_(c2)[33]. As discussed above, R_(ab)(Θ = 0^(∘)) should have
+minimal flux-flow contribution due to either zero Lorentz force or
+presence of a strong intrinsic pinning. Consequently, the dip in
+resistance at Θ = 0^(∘) in Fig. 4(a) and the major part of the resistive
+transition 0 < R < R_(n) at H ∥ ab ∥ I in Fig. 2(b) are due to
+fluctuation conductivity, rather than flux flow. Without flux flow,
+H_(c2) would correspond to the onset of resistivity R ∼ 0, rather than
+R = R_(n). This has been demonstrated by simultaneous tunneling and
+transport measurements for conventional superconductors [16]. Without
+exact knowledge of the flux-flow contribution it is impossible to
+confidently extract H_(c2) from R(T, H) data at T < T_(c). The lack of
+criteria for R(H = H_(c2)) obscures estimation of H_(c2)[5]. Therefore,
+in the remaining part of the paper we will focus on the analysis of the
+fluctuation part of MR at T > T_(c). As we will demonstrate, such data
+do not suffer from ambiguity associated with the flux-flow phenomenon
+and facilitate confident extraction of H_(c2).
+
+### Angular magnetoresistance at T > T_(c)
+
+Figure 5 (a) shows angular dependencies of the in-plane resistance at
+H = 10 T and at different T close and above T_(c) ≃ 4.3 K. Here
+Θ = 0^(∘) corresponds to zero Lorentz force configuration H ∥ ab ∥ I. It
+is seen that the cusp at Θ = 0^(∘), characteristic for the 2D
+superconducting state, is rapidly diminishing with increasing T > T_(c).
+It disappears at ∼2T_(c). At T ≳ 10 K it turns into a shallow minimum,
+which persists to T ≫ T_(c) and represents the anisotropy of the
+positive orbital MR in the normal state.
+
+Figure 5(b) shows angular dependencies of the c-axis resistance below
+and above T_(c). Here, measurements were performed at bias above the
+Josephson flux-flow branch in the I-V so that the Josephson flux-flow
+peak in R_(c)(Θ = 0^(∘)) does not occur [61]. Above T_(c) the cusp in
+R_(c)(Θ) = 0^(∘) completely disappears and only a shallow maximum at
+Θ = 0^(∘) remains, which indicates a small angular anisotropy of the
+normal state MR, as seen from Fig. 3(e). In Fig. 5(c) we show angular
+dependencies of in-plane and c-axis resistances, normalized by the
+corresponding values at Θ = 90^(∘). One can see a shallow 3D behavior in
+the normal state.
+
+In Fig. 5(d) we show absolute values of the angular MR amplitude
+∣ΔMR(Θ = 0^(∘)) = R(0^(∘))/R(090^(∘)) − 1∣, normalized by the magnetic
+field, for the in-plane and the c-axis resistances. The in-plane
+ΔMR_(ab) (circles) is large in the superconducting state and remains
+significant in the fluctuation region at T_(c) < T ≲ 2T_(c) when the
+cusp in R_(ab)(Θ = 0^(∘)) is observed; see Fig. 5(a). With increasing T,
+∣ΔMR_(ab)∣ rapidly
+
+Figure 5: (Color online) Angular dependence of (a) in-plane and (b)
+c-axis resistances at H = 10 T for different temperatures. The cusp at
+Θ = 0^(∘) is vanishing at T ≳ 2T_(c) for R_(ab) and at T > T_(c) for
+R_(c). (c) Angular-dependent MR above T_(c), normalized by
+R(Θ = 90^(∘)). At T ≥ 10 K the MR is varying in a smooth 3D manner. (d)
+Temperature dependencies of absolute values of angular MR amplitudes
+normalized by the field (in the semilogarithmic scale). Note that the
+in-plane MR decays at a scale T ∼ T_(c) and the out-of-plane MR at the
+PG temperature T^(*) ≃ 110 K. Panels (e) and (f) represent comparison of
+(e) in-plane and (f) out-of-plane angular MR at T = 7.7 K  > T_(c) with
+the MR at the corresponding parallel and perpendicular field components.
+The in-plane angular MR at not too small angles is dominated by the
+perpendicular field component (solid line). The c-axis angular MR is
+given by the additive contribution of the two field components (dashed
+lines).
+
+decreases. At T > 20 K it flattens off. The remaining weakly T-dependent
+value represents the anisotropy of the positive in-plane MR in the
+normal state, presumably of the orbital origin. The out-of-plane
+$\mid\Delta{\rm MR}_{c}\mid$ (squares) decreases almost exponentially
+with increasing temperature in a wide T range above T_(c). It becomes
+hardly detectable above the pseudogap opening temperature T^(*) ≃ 110 K,
+while the in-plane $\Delta{\rm MR}_{ab}$ still remains recognizable.
+
+A different behavior of in-plane and out-of-plane MR can be also seen
+from comparison of individual and combined contributions of the two
+field components. Symbols in Figs. 5(e) and 5(f) show angular-dependent
+(e) in-plane and (f) c-axis MR at T = 7.7 K  > T_(c) as a function of
+sin²(Θ). Dashed blue lines represent additive contributions from the two
+field components, R = R₀ + ΔR(H^(⊥)) + ΔR(H^(∥)), where R₀ = R(H = 0),
+and ΔR(H^(⊥)) and ΔR(H^(∥)) are the corresponding MR solely in
+perpendicular and parallel fields, shown in Figs. 2(f) and 3(e). It is
+seen that the c-axis MR is well described by the simple additive
+contribution of the two field components, while the in-plane does not.
+This reflects different mechanisms of in-plane and out-of-plane
+magnetoresistances. The negative c-axis MR is due to field suppression
+of the pseudogap. The applied field is much smaller than the PG closing
+field H^(*) ∼ 300 T [30]. Therefore, the c-axis MR is far from
+saturation and is approximately linear in field, leading to additive,
+independent from each other, contribution from the two field components.
+
+The positive in-plane MR at T_(c) < T ≲ 2T_(c) is mostly due to
+suppression of superconducting fluctuations with the characteristic
+field H_(c2)^(⊥) ∼ 10 T, which is in the range of applied fields. This
+leads to saturation of MR and to nonadditive contribution of the two
+field components. Unlike the normal state angular MR, which has a 3D
+character, as shown in Fig. 5(c), superconducting fluctuations at
+T_(c) < T ≲ 2T_(c) remain quasi-2D, as seen from the cusp in
+R_(ab)(Θ = 0) in Fig. 5(b). The solid line in Fig. 5(e) indicates that
+at not too small angles the in-plane MR is determined by the c-axis
+field component.
+
+### Fluctuation conductivity
+
+Fluctuation paraconductivity is seen as a tail of the in-plane resistive
+transitions from Figs. 2(a) and 2(b) at T_(c) < T ≲ 10 K, in the same
+range where the cusp is seen in the angular MR, Fig. 5(a). Figures
+6(a)-6(c) represent normalized excess conductivities
+Δσ_(ab)(T) = 1/R_(ab)(T) − 1/R_(n)(T), in perpendicular and parallel
+magnetic fields. Here we used different approximations for R_(n): (a)
+R_(n)^(⊥)(T) = R_(ab)(T, H^(⊥) = 14 T), (b)
+R_(n)^(∥)(T) = R_(ab)(T, H^(∥) = 17 T), and (c) a linear extrapolation
+from high T, shown by the dashed line in Fig. 2(b).
+
+It is seen that for both field orientations the fluctuation conductivity
+at T > T_(c) decreases approximately linearly in the semilogarithmic
+scale with almost field-independent slopes. This implies
+
+Δσ_(ab)(T, H) ∝ exp {−a[T − T_(c)(H)]},
+(4)
+
+where a is some constant. A similar exponential decay has been reported
+for other cuprates [16, 49, 68]. Even though such an exponential decay
+does not follow explicitly from theoretical analysis of fluctuation
+conductivity [33, 69], it allows an
+
+Figure 6: (Color online) Fluctuation part of the in-plane conductivity
+Δσ_(ab)(T) = 1/R_(ab)(T) − 1/R_(n)(T), normalized by the normal state
+resistance, for fields (a) perpendicular and (b), (c) parallel to the ab
+plane. Curves in panels (b) and (c) were obtained from the same data
+using different R_(n)(T): (b) R_(n) = R_(ab)(H = 17 T), (c) linear
+extrapolation from high T, shown by the dashed line in Fig. 2(b). It is
+seen that fluctuation paraconductivity decays approximately
+exponentially with increasing T with an almost field independent slope.
+Panels (d) and (e) show data from (a) and (c), respectively, shifted by
+T_(c)(H). (f) Field dependence of paraconductivity Δσ_(ab)(H^(⊥)) at
+different T. An approximately exponential decay is seen.
+
+unambiguous determination of the characteristic temperature scale
+T_(c)(H) from the relative shift of the curves along the T axis with
+respect to the known T_(c)(H = 0). Since the Δσ_(ab)(T) curves in Figs.
+6(a)-6(c) remain almost parallel at different H, such determination of
+T_(c)(H) does not suffer from widening of the resistive transition, as
+in the flux-flow case at T < T_(c) in Fig. 2(a). Therefore, thus
+obtained T_(c)(H) has the same degree of certainty as T_(c)(H = 0).
+
+Equation (4) suggests that Δσ(T, H) curves could be collapsed in one by
+shifting them along the T axis by T_(c)(H). In Figs. 6(d) and 6(e) we
+show such an attempt for the data from Figs. 6(a) and 6(c),
+respectively. Even though the scaling is not always perfect, the shift
+parameter T_(c)(H) is determined unambiguously because (i) the shift for
+the curve at H = 0 is fixed by T_(c)(0); (ii) the curves from low to
+intermediate fields do collapse at high enough T; (iii) when the curves
+do not collapse, we required that fluctuation conductivity for a given
+T − T_(c)(H) should be decreasing with increasing H because
+superconductivity is suppressed by magnetic field. This means that the
+Δσ(T − T_(c)(H)) curves at higher H should always lie lower and should
+not cross the curves at smaller H. In Fig. 6(d) the curve Δσ(T, H = 10
+T) was not shifted at all, implying that T_(c)(H = 10 T) = 0, which is
+consistent with our previous estimation of H_(c2)^(⊥)(T = 0) ≃ 10 T.
+
+Figure 6(f) represents a semilogarithmic plot of Δσ_(ab)R_(n) vs H ⊥ ab
+for the OD(4.0) sample at T = 1.8 K and slightly above T_(c) at T = 4.2
+K. It is seen that Δσ_(ab)(H) decays almost exponentially also as a
+function of field at constant T. In this case the relative shift along
+the horizontal axis provides the characteristic magnetic field scale for
+suppression of superconductivity ∼H_(c2). Assuming that H_(c2) = 0 at
+T = 4.2 K  ∼ T_(c), we estimate from the relative shift of the two
+curves that H_(c2)^(⊥)(T = 2 K)  ≃ 6 T. This is consistent with
+T_(c)(H^(⊥) = 6 T)  ≃ 2 K, estimated from Δσ_(ab)(T) scaling in Fig.
+6(d). Thus, from the analysis of fluctuation conductivity we obtain a
+confident estimation of T_(c)(H) or equivalently H_(c2)(T).
+
+### The upper critical field
+
+Figure 7(a) contains the main result of this work: T dependencies of
+H_(c2) obtained from the analysis of fluctuation conductivity, Eq. (4),
+at T > T_(c)(H) (filled symbols). Filled blue and red squares represent
+H_(c2)^(⊥)(T) for OD(4.0) and OP(4.3) crystals, respectively. Horizontal
+and vertical error bars correspond to the accuracy of scaling of
+Δσ(T, H) curves according to Eq. (4), as seen in Figs. 6(d) and 6(f).
+
+Estimation of H_(c2)^(∥) at low T is complicated by the lack of
+confident knowledge of R_(n)(T). In Figs. 6(b) and 6(c) we used two
+different approximations of R_(n)(H^(∥)). Filled circles and rhombuses
+represent H_(c2)^(⊥)(T) for the OP(4.3) crystal, obtained from the
+scaling of data in Fig. 6(b) and Figs. 6(c) and 6(f), respectively. Up
+to H^(∥) = 10 T both approximations of R_(n) give the same
+H_(c2)^(⊥)(T). Therefore, those values are confident. However, at H > 12
+T results start to depend on the choice of R_(n)(T). Unfortunately, none
+of the two approximations is good enough at T → 0. Qualitatively,
+R_(n) = R_(ab)(H^(∥) = 17 T) tends to underestimate H_(c2)^(∥) because
+it assumes H_(c2)^(∥)(T = 0) = 17 T. The linear extrapolation of
+R_(n)(T > T_(c)) tends to overestimate H_(c2)^(∥)(T = 0) because it
+assumes that R(H = H_(c2)) = R_(n). However, without the flux-flow
+phenomenon R(H = H_(c2)) ≃ 0[16]. This is what we expect for our Lorentz
+force free data at H ∥ ab. In the absence of a better way to define
+H_(c2)^(∥) at low T, in Fig. 7(a) we also show fields H_(50%)(T) at
+which middle points of resistive transitions occur for in-plane (open
+circles) and c-axis (open squares) resistances. Those points fall in
+between the underestimating (solid circles) and overestimating
+(rhombuses) analysis of fluctuation conductivity. Therefore, they
+provide a reasonable estimate of H_(c2)^(∥) at lower T.
+
+From Fig. 7(a) it is seen that H_(c2)^(⊥)(T) and H_(c2)^(∥)(T) are
+qualitatively different. The H_(c2)^(⊥)(T) is almost linear in the whole
+T range H_(c2)^(⊥)(T) ∝ T_(c) − T. Such a behavior is consistent with
+
+Figure 7: (Color online) (a) The upper critical field perpendicular
+(filled squares) and parallel to layers (filled circles and rhombuses)
+obtained from the scaling analysis of fluctuation conductivity according
+to Eq. (4) at T > T_(c)(H). For comparison we also show middle points
+H_(50%)(T) of in-plane (small open circles) and out-of-plane (small open
+squares) resistive transitions in parallel field. The dashed line
+represents the $\sqrt{T_{c}-T}$ dependence. Open triangles (right axis)
+show T dependence of the superconducting gap, obtained by intrinsic
+tunneling spectroscopy [30]. (b) T dependence of the anisotropy of the
+upper critical field γ_(H) = H_(c2)^(⊥)/H_(c2)^(⊥). It is seen that at
+low temperature it saturates at a small value γ_(H)(0) ∼ 2. (c) Angular
+anisotropy of the in-plane resistance R_(ab)(90^(∘))/R_(ab)(0^(∘)) at
+T = 2 K as a function of magnetic field. The anisotropy rapidly
+decreases with increasing H as soon as the field approaches the
+paramagnetic limit.
+
+a conventional orbital upper critical field,
+
+$$H_{c2}^{\perp}=\frac{\Phi_{0}}{2\pi\xi_{ab}^{2}},$$
+(5)
+
+where Φ₀ is the flux quantum and ξ_(ab) is the in-plane coherence
+length, ξ_(ab)(0) = 5.5 ± 0.2 nm.
+
+The H_(c2)^(⊥)(T) is clearly nonlinear. The dashed line in Fig. 7(a)
+demonstrates that $H_{c2}^{\perp}(T)\propto\sqrt{T_{c}-T}$. At first
+glance, it resembles the behavior of H_(c2)^(∥)(T) in thin film
+multilayers [65, 67],
+
+$$H_{c2}^{\parallel}=\frac{\sqrt{3}\Phi_{0}}{\pi\xi_{ab}d},$$
+(6)
+
+where d is the thickness of superconducting layers. However, the
+corresponding d = 9.3 ± 0.5 nm is much larger than the thickness of CuO
+layers ∼0.2 nm, as noted previously in Ref. [14], and is not connected
+to any geometrical length scale of the sample. Consequently, there is no
+agreement with Eq. (6).
+
+### The paramagnetic limit
+
+The upper limit of H_(c2) is determined by Pauli paramagnetism. The
+spin-singlet pairing is destroyed when the Zeeman spin-split energy
+becomes comparable to the superconducting energy gap Δ. This gives [1,
+34]
+
+$$H_{p}=\frac{\sqrt{2}\Delta}{g\mu_{B}},$$
+(7)
+
+where g is the gyromagnetic ratio and μ_(B) is the Bohr magneton. In the
+case of negligible spin-orbit coupling g ≃ 2 this yields
+dH_(c2)/dT(T = T_(c)) = −2.25 T/K for d-wave superconductors [70]. Our
+values H_(c2)^(⊥)/T_(c) ≃ 2.5 T/K and ∣dH_(c2)^(⊥)/dT ∣ (T = T_(c)) ≃ 5
+T/K and especially H_(c2)^(∥)/T_(c) ≃ 5 T/K and
+∣dH_(c2)^(∥)/dT ∣ (T = T_(c)) > 40 T/K clearly exceed this limit. Most
+importantly, H_(p) does not depend on orientation of the field.
+Therefore, paramagnetically limited H_(c2) should be approximately
+isotropic, irrespective of the underlying effective mass anisotropy.
+
+According to Eq. (7), H_(p) is determined solely by Δ. Open triangles in
+Fig. 7(a) show Δ(T) dependence measured by intrinsic tunneling
+spectroscopy on a slightly underdoped crystal from the same batch [30].
+It matches nicely H_(c2)^(∥)(T). Therefore, we conclude that the
+observed $H_{c2}^{\parallel}(T)\propto\sqrt{T_{c}-T}$ dependence is not
+originating from the geometrical confinement, Eq. (6), but follows the
+corresponding Δ(T) dependence of H_(p) in Eq. (7).
+
+Figure 7(b) shows the anisotropy of the upper critical field
+γ_(H) = H_(c2)^(⊥)/H_(c2)^(⊥). Close to T_(c) it diverges due to
+different T dependencies of the two fields. However, at T ≪ T_(c) it
+shows a tendency for saturation at γ_(H)(T → 0) ∼ 2. Such a low
+anisotropy of H_(c2) is remarkable for the layered Bi-2201 compound with
+γ_(m) ∼ 300[45].
+
+In Fig. 7(c) we show magnetic field dependence of the angular anisotropy
+[R_(ab)(90^(∘))/R_(ab)(0^(∘))]^(1/2) obtained from the data in Fig.
+4(a). The anisotropy is large at low fields, but rapidly decreases at
+H > 7 T when the paramagnetic limitation starts to play a role. At high
+fields it tends to saturate at ∼2, consistent with γ_(H) in Fig. 7(b).
+As mentioned above, paramagnetically limited H_(c2) should be isotropic.
+Therefore, a finite residual anisotropy γ_(H)(T → 0) ∼ 2 indicates that
+only H_(c2)^(∥) is paramagnetically limited, while H_(c2)^(⊥) is still
+governed by orbital effects. Finally we note that γ_(H) < γ_(m) was
+reported for several unconventional superconductors [13, 14, 35, 36]. In
+particular, a nearly isotropic H_(c2) was reported for the (Ba,K)Fe₂As₂
+pnictide [71] despite a quasi-2D electronic structure. It is likely that
+all those observations have the same origin.
+
+## V Conclusions
+
+To conclude, we presented a comprehensive analysis of both in-plane and
+out-of-plane magnetoresistance in a layered cuprate
+Bi_(2.15)Sr_(1.9)CuO_(6 + δ) with a low T_(c) ≃ 4 K. We have shown that
+the in-plane and the out-of-plane resistances behave differently almost
+in all respects. The in-plane magnetoresistance has two positive
+contributions. The positive in-plane MR due to suppression of
+superconductivity (or superconducting fluctuations) is dominant at
+T ≲ 2T_(c) and magnetic fields H_(c2) ≲ 10 T. It is clearly
+distinguishable by its 2D cusplike angular dependence. At T ≳ 2T_(c) the
+superconducting contribution vanishes and only a weakly T-dependent
+positive MR, presumably of orbital origin, remains. Such normal state
+in-plane MR has a smooth 3D-type angular dependence. The c-axis MR at
+T > T_(c) is dominated by a negative MR caused by suppression of the
+pseudogap. It decays rapidly upon approaching the PG opening temperature
+T^(*) ≃ 110 K  ≫ T_(c) and at the PG closing field H^(*) ∼ 300 T
+ ≫ H_(c2), and exhibits a smooth 3D-type angular dependence. Different
+behavior of the in-plane and the out-of-plane MR underlines different
+origins of superconductivity and the c-axis pseudogap, which becomes
+particularly obvious from analysis of low-T_(c) cuprates [30].
+
+The main focus of our work was on analysis of fluctuation conductivity
+at T > T_(c). We observed a universal, nearly exponential, decay of
+in-plane paraconductivity as a function of temperature and magnetic
+field and proposed a method for extraction of H_(c2) based on a scaling
+analysis of the fluctuation paraconductivity. This way we obtained
+confident values of H_(c2), avoiding the complexity of flux-flow
+phenomena at T < T_(c). We observed that H_(c2)^(⊥) is following a
+linear T dependence H_(c2)^(⊥) ∝ 1 − T/T_(c), typical for H_(c2) limited
+by orbital effects. On the other hand, H_(c2)^(∥) follows the T
+dependence of the superconducting gap with a characteristic
+∝$\sqrt{1-T/T_{c}}$ dependence close to T_(c). Our main result is
+observation of a remarkably low anisotropy of the upper critical field
+γ_(H)(T → 0) ≃ 2, which is much smaller than the effective mass
+anisotropy γ_(m) ∼ 300. This demonstrates that the anisotropy of H_(c2)
+in unconventional superconductors may have nothing to do with the
+anisotropy of the electronic structure and the actual anisotropy of
+superconductivity at zero field. The large discrepancy in anisotropies
+serves instead as robust evidence for paramagnetically limited
+superconductivity.
+
+## Acknowledgments
+
+Technical support from the Core Facility in Nanotechnology at Stockholm
+University is gratefully acknowledged. We are grateful to A. Rydh and M.
+V. Kartsovnik for assistance in experiment and useful remarks.
+
+## References
+
+* [1] D. Saint-James, G. Sarma, and E. J. Thomas, _Type-II
+Superconductivity_ (Pergamon Press, Oxford, NY, 1969). * [2] A.
+Gurevich, Physica C **456**, 160 (2007). * [3] V. G. Kogan and R.
+Prozorov, Rep. Prog. Phys. **75**, 114502 (2012). * [4] G. Blatter, M.
+V. Feigel’man, V. B. Geshkenbein, A. I. Larkin, and V. M. Vinokur, Rev.
+Mod. Phys. **66**, 1125 (1994). * [5] S. I. Vedeneev, A. G. M. Jansen,
+E. Haanappel, and P. Wyder, Phys. Rev. B **60**, 12467 (1999). * [6] V.
+M. Krasnov, A. Yurgens, D. Winkler, P. Delsing, and T. Claeson, Phys.
+Rev. Lett. **84**, 5860 (2000). * [7] O. Fischer, M. Kugler, I.
+Maggio-Aprile, C. Berthod, and C. Renner, Rev. Mod. Phys. **79**, 353
+(2007). * [8] V. M. Krasnov, Phys. Rev. B **79**, 214510 (2009). * [9]
+J. E. Hoffman, E. W. Hudson, K. M. Lang, V. Madhavan, H. Eisaki, S.
+Uchida, and J. C. Davis, Science **295**, 466 (2002). * [10] A.
+Damascelli, Z. Hussain, and Z. X. Shen, Rev. Mod. Phys. **75**, 473
+(2003). * [11] S. I. Ideta, T. Yoshida, A. Fujimori, H. Anzai, T.
+Fujita, A. Ino, M. Arita, H. Namatame, M. Taniguchi, Z. X. Shen, K.
+Takashima, K. Kojima, and S. I. Uchida, Phys. Rev. B **85**, 104515
+(2012). * [12] J. L. O’Brien, H. Nakagawa, A. S. Dzurak, R. G. Clark, B.
+E. Kane, N. E. Lumpkin, R. P. Starrett, N. Miura, E. E. Mitchell, J. D.
+Goettee, D. G. Rickel, and J. S. Brooks, Phys. Rev. B **61**, 1584
+(2000). * [13] T. Sekitani, N. Miura, S. Ikeda, Y. H. Matsuda, and Y.
+Shiohara, Physica B **346**-**347**, 319 (2004). * [14] S. I. Vedeneev,
+C. Proust, V. P. Mineev, M. Nardone, and G. L. J. A. Rikken, Phys. Rev.
+B **73**, 014528 (2006). * [15] P. Li, F. F. Balakirev, and R. L.
+Greene, Phys. Rev. B **75**, 172508 (2007). * [16] V. M. Krasnov, H.
+Motzkau, T. Golod, A. Rydh, S. O. Katterwe, and A. B. Kulakov, Phys.
+Rev. B **84**, 054516 (2011). * [17] B. J. Ramshaw, J. Day, B. Vignolle,
+D. LeBoeuf, P. Dosanjh, C. Proust, L. Taillefer, R. Liang, W. N. Hardy,
+and D. A. Bonn, Phys. Rev. B **86**, 174501 (2012). * [18] J. Chang, N.
+Doiron-Leyraud, O. Cyr-Choiniere, G. Grissonnanche, F. Laliberte, E.
+Hassinger, J-Ph. Reid, R. Daou, S. Pyon, T. Takayama, H. Takagi, and L.
+Taillefer, Nat. Phys. **8**, 751 (2012). * [19] G. Grissonnanche _et
+al._, Nat. Commun. **5**, 3280 (2014). * [20] Y. Ando, A. N. Lavrov, and
+S. Komiya, Phys. Rev. Lett. **90**, 247003 (2003). * [21] J. L. Tallon
+and J. W. Loram, Physica C **349**, 53 (2001). * [22] I. M. Vishik _et
+al._, Proc. Natl. Acad. Sci. USA **109**, 18332 (2012). * [23] F.
+Onufrieva and P. Pfeuty, Phys. Rev. Lett. **109**, 257001 (2012). * [24]
+J. D. Sau, I. Mandal, S. Tewari, and S. Chakravarty, Phys. Rev. B
+**87**, 224503 (2013). * [25] M. E. Simon and C. M. Varma, Phys. Rev.
+Lett. **89**, 247003 (2002). * [26] C. Weber, A. Lauchli, F. Mila, and
+T. Giamarchi, Phys. Rev. Lett. **102**, 017005 (2009). * [27] J.
+Orenstein and J. E. Moore, Phys. Rev. B **87**, 165110 (2013). * [28] A.
+M. Gabovich and A. I. Voitenko, Low. Temp. Phys. **39**, 232 (2013). *
+[29] T. Kawakami, T. Shibauchi, Y. Terao, M. Suzuki, and L.
+Krusin-Elbaum, Phys. Rev. Lett. **95**, 017001 (2005). * [30] Th.
+Jacobs, S. O. Katterwe, H. Motzkau, A. Rydh, A. Maljuk, T. Helm, C.
+Putzke, E. Kampert, M. V. Kartsovnik, and V. M. Krasnov, Phys. Rev. B
+**86**, 214506 (2012). * [31] A. Dubroka _et al._, Phys. Rev. Lett.
+**106**, 047006 (2011). * [32] T. Kondo, Y. Hamaya, A. D. Palczewski, T.
+Takeuchi, J. S. Wen, Z. J. Xu, G. Gu, J. Schmalian, and A. Kaminski,
+Nat. Phys. **7**, 21 (2011). * [33] A. Glatz, A. A. Varlamov, and V. M.
+Vinokur, Phys. Rev. B **84**, 104510 (2011). * [34] A. M. Clogston,
+Phys. Rev. Lett. **9**, 266 (1962). * [35] F. Zuo, J. S. Brooks, R. H.
+McKenzie, J. A. Schlueter, and J. M. Williams, Phys. Rev. B **61**, 750
+(2000). * [36] J. Singleton, Rep. Prog. Phys. **63**, 1111 (2000). *
+[37] I. J. Lee, P. M. Chaikin, and M. J. Naughton, Phys. Rev. B **62**,
+R14669 (2000). * [38] K. Cho, H. Kim, M. A. Tanatar, Y. J. Song, Y. S.
+Kwon, W. A. Coniglio, C. C. Agosta, A. Gurevich, and R. Prozorov, Phys.
+Rev. B **83**, 060502 (2011). * [39] S. Khim, B. Lee, J. W. Kim, E. S.
+Choi, G. R. Stewart, and K. H. Kim, Phys. Rev. B **84**, 104502
+(2011). * [40] P. Burger, F. Hardy, D. Aoki, A. E. Bohmer, R. Eder, R.
+Heid, T. Wolf, P. Schweiss, R. Fromknecht, M. J. Jackson, C. Paulsen,
+and C. Meingast, Phys. Rev. B **88**, 014517 (2013). * [41] H. A.
+Radovan, N. A. Fortune, T. P. Murphy, S. T. Hannahs, E. C. Palm, S. W.
+Tozer, and D. Hall, Nature (London) **425**, 51 (2003). * [42] K.
+Kakuyanagi, M. Saitoh, K. Kumagai, S. Takashima, M. Nohara, H. Takagi,
+and Y. Matsuda, Phys. Rev. Lett. **94**, 047602 (2005). * [43] Y.
+Matsuda and H. Shimahara, J. Phys. Soc. Jpn. **76**, 051005 (2007). *
+[44] A. I. Buzdin and J. P. Brison, Europhys. Lett. **35**, 707
+(1996). * [45] L. Ya. Vinnikov, A. G. Jukina, V. N. Zverev, A. D.
+Shovkun, and A. B. Kulakov, Zh. Exp. Teor. Fiz. **146** Nr. 2, (2014)
+(to be published). * [46] A. N. Lavrov, Y. Ando, and S. Ono, Europhys.
+Lett. **57**, 267 (2002). * [47] E. Sonder, B. C. Chakoumakos, and B. C.
+Sales, Phys. Rev. B **40**, 6872 (1989). * [48] B. Liang, A. Maljuk, and
+C. T. Lin, Physica C **361**, 156 (2001). * [49] H. Luo and H. H. Wen,
+Phys. Rev. B **89**, 024506 (2014). * [50] A. Yurgens, D. Winkler, T.
+Claeson, S. Ono, and Y. Ando, Phys. Rev. Lett. **99**, 147005 (2003). *
+[51] Y. Ando, G. S. Boebinger, A. Passner, N. L. Wang, C. Geibel, and F.
+Steglich, Phys. Rev. Lett. **77**, 2065 (1996). * [52] T. Watanabe, T.
+Fujii, and A. Matsuda, Phys. Rev. Lett. **79**, 2113 (1997). * [53] Y.
+Yamada, K. Anagawa, T. Shibauchi, T. Fujii, T. Watanabe, A. Matsuda, and
+M. Suzuki, Phys. Rev. B **68**, 054533 (2003). * [54] R. Kleiner and P.
+Muller, Phys. Rev. B **49**, 1327 (1994). * [55] S. O. Katterwe and V.
+M. Krasnov, Phys. Rev. B **80**, 020502(R) (2009). * [56] H. Kashiwaya,
+T. Matsumoto, H. Shibata, H. Eisaki, Y. Yoshida, H. Kambara, S.
+Kawabata, and S. Kashiwaya, Appl. Phys. Express **3**, 043101 (2010). *
+[57] J. M. Ziman, _Principles of the Theory of Solids_ (Cambridge
+University Press, Cambridge, NY, 1999).
+
+* [58] N. Morozov, L. Krusin-Elbaum, T. Shibauchi, L. N. Bulaevskii, M.
+P. Maley, Yu. I. Latyshev, and T. Yamashita, Phys. Rev. Lett. **84**,
+1784 (2000). * [59] S. O. Katterwe, A. Rydh, and V. M. Krasnov, Phys.
+Rev. Lett. **101**, 087003 (2008). * [60] S. O. Katterwe, A. Rydh, H.
+Motzkau, A. B. Kulakov, and V. M. Krasnov, Phys. Rev. B **82**, 024517
+(2010). * [61] H. Motzkau, S. O. Katterwe, A. Rydh, and V. M. Krasnov,
+Physica C **491**, 51 (2013). * [62] J. Bardeen and M. J. Stephen, Phys.
+Rev. **140**, A1197 (1965). * [63] M. J. Naughton, R. C. Yu, P. K.
+Davies, J. E. Fischer, R. V. Chamberlin, Z. Z. Wang, T. W. Jing, N. P.
+Ong, and P. M. Chaikin, Phys. Rev. B **38**, 9280 (1988). * [64]
+Measurements in Figs. 4(a) and 4(b) were made over different sections of
+the same OP(4.3) crystal, with approximately factor 2 difference in
+length, which leads to the corresponding difference in resistances. *
+[65] M. Tachiki and S. Takahashi, Solid State Commun. **70**, 291
+(1989). * [66] W. K. Kwok, U. Welp, V. M. Vinokur, S. Fleshler, J.
+Downey, and G. W. Crabtree, Phys. Rev. Lett. **67**, 390 (1991). * [67]
+V. M. Krasnov, A. E. Kovalev, V. A. Oboznov, and N. F. Pedersen, Phys.
+Rev. B **54**, 15448 (1996). * [68] F. Rullier-Albenque, H. Alloul, and
+G. Rikken, Phys. Rev. B **84**, 014522 (2011). * [69] K. S. Tikhonov, G.
+Schwiete, and A. M. Finkel’stein, Phys. Rev. B **85**, 174527 (2012). *
+[70] J. P. Carbotte, Rev. Mod. Phys. **62**, 1027 (1990). * [71] H. Q.
+Yuan, J. Singleton, F. F. Balakirev, S. A. Baily, G. F. Chen, J. L. Luo,
+and N. L. Wan, Nature (London) **457**, 565 (2009).

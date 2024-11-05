@@ -1,0 +1,564 @@
+# Specific-heat analysis of rare-earth transition-metal borocarbides:
+
+An estimation of the electron-phonon coupling strength
+
+H. Michor, T. Holubar, C. Dusek, and G. Hilscher
+
+Institut fur Experimentalphysik, Technische Universitat Wien, Wiedner
+Hauptstrasse 8-10, A-1040 Wien, Austria
+
+18 May 1
+
+## III Results
+
+### Results of the specific-heat measurements
+
+A comparison of the low-temperature specific heat of YNi₂B₂C, LuNi₂B₂C,
+together with LaPt_(1.5)Au_(0.5)B₂C is shown in a C_(P)/T versus T²
+representation in Figs. 1(a)−1(c). External fields are applied to
+suppress superconductivity to determine the normal-state heat capacity
+$C_{P}\!=\!C_{e}\!+\!C_{\rm ph}$ = γT + βT³ where γ is the Sommerfeld
+parameter and β is related to the low-temperature value of the Debye
+temperature by $\Theta_{D}^{\rm LT}\!\!=\!(1944\!\times\!N/\beta)^{1/3}$
+(N is the number of atoms per formula unit). From these data in Figs.
+1(a)−1(c) all experimental quantities can be deduced which enter into
+the universal relations predicted by the BCS weak-coupling theory:
+H_(c)(0)/T_(c)H_(c)^(′)(T_(c)) = 0.57, γT_(c)²/H_(c)²(0) = 0.168, and
+(ΔC)_(T_(c))/γT_(c) = 1.43, where (ΔC)_(T_(c)) = (C_(s) − C_(n))_(T_(c))
+is the specific-heat jump at T_(c), H_(c)(T), and H_(c)^(′)(T_(c)) is
+the thermodynamic critical field and its derivative at T_(c). Strong
+electron-phonon coupling modifies these relations; the magnitude of
+these corrections was expressed in terms of the strong-coupling
+parameter T_(c)/ω̃₁ by Rainer and Bergmann [14] and finally extended to
+approximate formulas for a large number of superconductors by Marsiglio
+and Carbotte. [15, 16] Thus we present in the following the analysis of
+the C_(P)(T, H) data with respect to these quantities to examine the
+deviations from the aforementioned BCS values which provide a sensitive
+measure for the coupling strength.
+
+It is obvious from Figs. 1(a)−1(c) that extrapolations from the normal
+state above T_(c) gives too small values for γ since the C_(P)/T vs T²
+plots exhibit a significant deviation from linear behavior below T_(c).
+If, furthermore, the low-temperature heat capacity is dominated by
+lattice contributions containing some low-energy Einstein modes, the
+usually employed linearization of these plots may be precarious: The
+comparison of the normal-state heat-capacity ratios $C_{e}/C_{\rm ph}$
+at 10 K yielding values of about 3, 1, and 0.1 for YNi₂B₂C, LuNi₂B₂C,
+and LaPt_(1.5)Au_(0.5)B₂C, respectively, indicates that the uncertainty
+of the γ value is largest for the latter compound. Additionally, its
+normal-state heat capacity exhibits a significant field dependence [see
+inset of Fig. 1(c)] which is not observed for both the Y and Lu compound
+after suppression of superconductivity in the normal state up to 11 T.
+In a previous paper [4] we derived for LaPt_(1.5)Au_(0.5)B₂C a γ value
+of 5.2(6) mJ/mol K² from a fit of the low-temperature data with
+$C_{P}(T)\!=\!\gamma T\!+\!C_{\rm Debye}(T)$. The numerical analysis of
+the specific heat with a more realistic model for the phonon spectrum
+(see Sec. III B) incorporating not only the Debye spectrum but also
+low-energy Einstein modes gives γ  = 6.4(8) mJ/mol K². In the case of
+LuNi₂B₂C the same analysis yields γ  = 19.5(3) mJ/mol K² instead of
+18.5(5) mJ/mol K² (Ref. [4]), while for YNi₂B₂C the Sommerfeld constant
+[γ  = 18.2(2) mJ/mol K²] remains unaffected by this procedure because of
+the large $C_{e}/C_{\rm ph}$ ratio of about 3 at low temperatures. These
+results are collected in Table 1 where also available data from the
+literature [17, 18, 19, 20] together with band-structure results [5, 6,
+7, 8] are compiled for a comparison.
+
+The electron mass enhancement (λ) due to electron-phonon interaction
+and/or electron-electron correlations can be estimated from the ratio of
+the experimental γ values and the calculated density of states (DOS) at
+E_(f) yielding $\gamma/\gamma_{\rm band}\!=\!(1\!+\!\lambda)$. These
+values summarized in Table 1 indicate weak-coupling for
+LaPt_(1.5)Au_(0.5)B₂C but moderately strong-coupling superconductivity
+for LuNi₂B₂C and YNi₂ B₂C, if all mass enhancement is attributed to
+electron-phonon interactions. Note that λ ≈ 0.1 for
+LaPt_(1.5)Au_(0.5)B₂C is incompatible with a T_(c) of 10 K which will be
+discussed in Sec. VI.2. Photoemission [9, 10] and x-ray-absorption
+spectroscopy [11] studies have shown that electron correlations
+
+Figure 1: C_(P)/T versus T² plot for YNi₂B₂C (a), LuNi₂B₂C (b), and
+LaPt_(1.5)Au_(0.5)B₂C (c) for various external fields as labeled; the
+inset of Fig. 3(c) shows the significant field dependence of the
+normal-state heat capacity above 2 T.
+
+have to be taken into account which reduce the calculated DOS at E_(f)
+by a factor of about 0.5.9 Accordingly, taking this reduction of the DOS
+at E_(f) into account, the corrected l values would place all three
+compounds into the very strong-coupling regime.
+
+The specific-heat jump (ΔC)_(T_(c)) is determined from the zero-field
+data by assuming an idealized sharp, entropy conserving superconducting
+transition (see Fig. 2) yielding T̄_(c) given in Table 2. In case of
+YNi2B2C (ΔC)_(T_(c)) = 460 mJ/ mol K is by about 7
+
+iii.2.1 Thermodynamic- and upper critical field and an estimate for the
+gap-to-critical temperature ratio
+
+The temperature dependence of the upper critical field derived from
+specific-heat measurements is displayed in Fig. 3 where in the inset the
+field dependence of the specific-heat jump of LuNi2B2C is shown in the
+low-field regime. Both compounds YNi2B2C and LuNi2B2C exhibit a
+significant positive deviation of m0_H_c_2(_T_) from the initially
+linear dependence below 2 T being consistent with magnetic and
+resistivity measurements. This feature has been already noted for
+YNi2B2C.4,121,21 As a consequence of this positive deviation, the
+Werthamer formula H_(c)2(0) ≈ −0.7T_(c)(dH_(c2)/dT)_(T_(c))
+underestimates the upper critical field _H__c_2(0) of YNi2B2C and
+LuNi2B2C which will be discussed in Sec. IV.3. From the low-temperature
+extrapolation of _H__c_2(_T_) and the thermodynamic critical field given
+below we obtain the Ginzburg-Landau parameter
+$\kappa_{1}(0) = H_{c2}(0)/[\sqrt {2}H_{c}(0)] = 16$ for YNi2B2C which
+is significantly higher than our previous value12[κ₁(0) = 10.5] using
+the Werthamer formula but is in reasonable agreement with that deduced
+from magnetic measurements on single crystals by Xu _et al._22
+[κ₁(0) = 13-15] and from the combination of magnetic and _m_SR data by
+Cywinski _et al._21 [κ₁(0) = 13]. For LuNi2B2C and LuPt1,5Au0.5B2C we
+obtain κ₁(0) = 21 and 7, respectively.
+
+The temperature dependence of the thermodynamic critical field
+H_(c)(_T_) is obtained by integrating the entropy difference between the
+normal and superconducting state:
+
+$$\frac{\mu_{0}H_{c}^{2}(T)}{2} = \int_{T_{c}}^{T}\int_{T_{c}}^{T^{\prime}}\frac{(C_{s} - C_{n})}{T^{\prime\prime}}dT^{\prime\prime}.$$
+
+The application of the above relation to the data in Figs. 1(a) -1(c)
+(close to Tc we used the idealized data shown in Fig. 2) gives
+H_(c)(_T_), displayed in Fig. 4 from which H_(c)^(′)(T_(c)) the slope of
+H_(c) at T_(c) is derived. Note, that for all three compounds the 9 T
+measurement is used for the normal-state heat capacity. The uncertainty
+of H_(c)(_T_) and its derivative is again largest for the La compound
+because of the field dependence of the normal-state heat capacity and
+the more restricted temperature range for the evaluation. Thus, we
+present in Fig. 5 the deviation function _D_(_t_) from the purely
+quadratic temperature dependence of H_(c)(_T_):
+D(T/T_(c)) = D(t) = [H_(c)(t)/H_(c)(0)] − [1 − (t)²] for the Y and Lu
+compound only. As can be seen from the comparison with a BCS
+superconductor, LuNi2B2C exhibits a positive deviation of about 0.7
+
+The shape of the deviation function _D_(_t_) can be used to obtain a
+quantitative estimate of the coupling strength via the gap-to-critical
+temperature ratio Δ(0)/k_(B)T_(c) = α in terms of the phenomenological a
+model by Padamsee _et al._23 From the comparison of the experimental
+data in Fig. 5 with the
+
+  ----------------- ----------------------- --------------------- -------------------------------- ----------
+                     $\Theta_{D}^{\rm LT}$   $\gamma_{\rm\ exp}$   $\gamma_{\rm band\ structure}$      λ
+                              (K)                (mJ/mol K2)                (mJ/mol K2)            
+       YNi2B2C              490(5)                 18.2(2)                      9.5a                **0.9**
+                            489(5)b               18.7(5)b                                         
+                             415c                   8.9c                                           
+      LuNi2B2C              360(3)                 19.5(3)                     11.3d                **0.75**
+                           345(10)e                19(2)e                     11.2(1)f             
+                           350(10)g                11(2)f                                          
+      LaNi2B2C              495(8)                 8.4(3)                        6h                 **0.4**
+   LaPt1,5Au0.5B2C          250(3)                 6.4(8)                       5.9f                **0.1**
+   LaPt1,7Au0.3B2C         220(10)e               7.5(1.5)g                                        
+       YCo2B2               570(10)                6.7(1)                                          
+  ----------------- ----------------------- --------------------- -------------------------------- ----------
+
+Table 1: Comparison of the low-temperature specific-heat results for
+$\Theta_{D}^{\rm LT}$ and $\gamma_{\rm\ exp}$ with other available
+experimental and theoretical results ($\gamma_{\rm band\ structure}$)
+yielding the given estimate for the mass enhancement l.
+
+Figure 2: Specific-heat jump at T_(c) ; the solid line shows the
+idealized jump under the constraint of entropy conservation. The filled
+symbols correspond to the zero field and the hollowed symbols to the 9 T
+measurements.
+
+calculated D(t) functions presented in Fig. 1 of Ref. [23],
+Δ(0)/k_(B)T_(c) is estimated to be 2.2 and 2.1 for LuNi₂B₂C and YNi₂B₂C,
+respectively, whilst for LaPt_(1.5)Au_(0.5)B₂C only a rough estimate can
+be made ranging between 2.0 and 2.2.
+
+In a previous work [12] we demonstrated for YNi₂B₂C that the electronic
+specific heat in the superconducting state follows a power law C_(es)= 3
+γT_(c)(T/T_(c))^(a), with an exponent a close to 3, rather than the
+expected exponential behavior. This can qualitatively be seen from the
+rather linear behavior of the C_(P)/T versus T² plots of the data below
+T_(c) for all three compounds. Carter _et al._[18] reported a similar
+temperature dependence of C_(es) on LuNi₂B₂C and LaPt_(1.7)Au_(0.3)B₂C.
+Therefore a determination of the gap with the BCS formula C_(es)(T)=
+8.5γT_(c) exp [−0.82Δ(0)/k_(B)T] (2.5 < T_(c)/T<6) cannot be performed.
+For a more detailed analysis of C_(es)(T) of YNi₂B₂C we refer to Ref.
+[12].
+
+#### Thermodynamic BCS ratios
+
+It is instructive to compare the experimental results of the
+dimensionless ratios Δ(0)/k_(B)T̄_(c), (ΔC)_(T_(c))/γT̄_(c), h_(c)(0) =
+H_(c)(0)/H_(c)^(′)(T̄_(c))T̄_(c), and γT̄_(c)²/H_(c)²(0) summarized in
+Table 2 and their deviations from the BCS values with λ given in
+Table 1. As strong coupling modifies these ratios which are universal in
+the BCS limit but not in the Eliashberg theory, the deviations can be
+regarded as a measure of the coupling
+
+Table 3: Fixed parameters of the model spectrum.
+
+Figure 8: Normal-state heat capacity of superconducting YNi₂B₂C,
+LuNi₂B₂C, LaPt_(1.5)Au_(0.5)B₂C, and nonsuperconducting YCo₂B₂; solid
+lines represent the fit of the model phonon spectra F(ω) [see Figs. 7(a)
+and 7(b)] to C_(P)(T) according to Eq. (2).
+
+modes of these three compounds have nearly the same energies. In the
+case of LaPt_(1.8)Au_(0.5)B₂C the Debye contribution (Θ_(D)) is situated
+at about 160 K, close to the low-energy Einstein contribution (Θ_(E1))
+and causes a rather prominent maximum in the phonon density of states
+displayed in Fig. 7(b). In comparison to the Ni compounds the latter
+spectrum describes a much softer lattice.
+
+A significant difference of the lattice properties between the filled
+and unfilled version of the ThCr₂Si₂ structure emerges from the
+comparison of the model phonon spectra of YNi₂B₂C and YCo₂B₂ also
+displayed in Fig. 7(b). With regard to the missing light carbon atom in
+YCo₂B₂, the corresponding spectral weight of the high-energy
+contribution (Θ_(E₃)) was reduced from five to two and simultaneously
+the width of this part of the model spectrum was reduced to 150 K,
+because the flat high-energy contribution of the borocarbides cannot
+account for the high-temperature specific heat of YCo₂B₂. This
+modification yields the model spectrum of YCo₂B₂ where the high-energy
+cutoff is significantly decreased to 930 K but the low-frequency modes
+are shifted to higher energies. The latter is also evident from a
+comparison of the low-temperature $\Theta_{D}^{\rm LT}$ values of
+YNi₂B₂C [$\Theta_{D}^{\rm LT}$= 490(5) K] and YCo₂B₂
+[$\Theta_{D}^{\rm LT}$= 570(10) K] indicating an overall lattice
+stiffening in the low-temperature regime, whilst the high-frequency
+modes soften which is also evident from the crossover of the C_(P)(T)
+data in Fig. 6.
+
+The phonon spectrum of YNi₂B₂C can be compared with the results of Raman
+spectroscopy reported by Hadjiev _et al._[27] They detected four
+Raman-active modes with the energies corresponding to 285 K (B_(1g)),
+406 K (E_(1g)), 676 K (E_(g)), and 1197 K (A_(1g)). The high-energy mode
+coincides quite well with the cutoff temperature of the fit and supports
+the applicability of the model spectrum proposed.
+
+### Comparison of a characteristic phonon frequency ω̃ with the model
+spectrum
+
+Kresin and Parkhomenko [28] demonstrated that several thermodynamic
+properties of strong-coupling superconductors can be described in terms
+of the ratio T_(c)/ω̃. For a very simple phonon spectrum, consisting of
+sharp well separated maxima, the characteristic phonon frequency ω̃
+corresponds to the energy of the first prominent maximum of the
+electron-phonon spectral function α²F(ω). If corrections proportional to
+(T_(c)/ω)² due to contributions of higher energies have to be taken into
+account, the value of ω̃ might be slightly higher. Applying the formula
+
+$$\frac{(\Delta C)_{T_{c}}}{\gamma T_{c}}=1.43\left[1+1.8\left/\ \ln\frac{\tilde{\omega}}{T_{c}}+0.5\right.\right]\left(\frac{\pi T_{c}}{\tilde{\omega}}\right)^{2}\right]$$
+(3)
+
+to the experimental values of the normalized specific-heat jump
+(ΔC)_(T_(c))/γT_(c), we obtain ω̃^(∞) 200 and 150 K for YNi₂B₂C and
+LuNi₂B₂C, respectively. These values are in agreement with those
+resulting from the model spectra (see Θ_(E₁) in Table 4).
+
+A similar formula for the strong-coupling correction to the normalized
+gap ratio by Geilikman and Kresin [29]
+
+$$\frac{\Delta(0)}{k_{B}T_{c}}=1.76\left[1+5.3\left(\frac{T_{c}}{\tilde{\omega}}\right)^{2}\ln(\frac{\tilde{\omega}}{T_{c}})\right]$$
+(4)
+
+yields Δ(0)/k_(B)T_(c) ≡ 2.11 and 1.90 for LuNi₂B₂C and YNi₂B₂C,
+respectively, taking ω̃( ≈ Θ_(E₁) ) from our model spectra. Table 5 gives
+an overview for the estimates of Δ(0)/k_(B)T_(c) according to the α
+model (Sec. III.1), Eqs. (4) and (13). Although Eq. (13) is given in
+Sec. IV.1 and contains $T_{c}/\omega_{\rm\ ln}$ which will be evaluated
+in the next section, we present these results in Table 5 for the
+convenience of a comparison since both expressions are of similar shape.
+Ekino _et al._[30] performed tunneling measurements on YNi₂B₂C and
+reported Δ(4.2K)/k_(B)T_(c) ≈ 1.8 which is in reasonable agreement with
+the estimates collected in Table 5.
+
+## IV Discussion
+
+### Analysis of the thermodynamic ratios in terms of the strong-coupling
+corrections to the BCS values
+
+The ratio between the critical temperature and a quantity representing a
+characteristic phonon frequency such as, e.g., Θ_(D) (Ref. [32]) or ω̃
+(Ref. [28]) [see Eqs. (3), (4)] has been used for a discussion of the
+coupling strength by various authors. Rainer and Bergmann [14] applied
+the Eliashberg theory for strong-coupling superconductors to several
+realistic superconductors and demonstrated that the magnitude of the
+deviations of the critical fields from BCS predictions can be estimated
+from the ratio T_(c)/ω̃₁ with ω̃₁ the first generalized moment of the
+electron-phonon spectral function α²(ω)F(ω). The moments of α²(ω)F(ω)
+are defined as [24]
+
+$$\langle\omega^{n}\rangle=\frac{2}{\lambda}\int_{0}^{\infty}d\omega\alpha^{2}( \omega)F(\omega)\omega^{n-1}.$$
+(5)
+
+The electron-phonon interaction parameter λ is a dimensionless measure
+of the coupling strength
+
+$$\lambda=2\int_{0}^{\infty}d\omega\,\frac{\alpha^{2}(\omega)F(\omega)}{\omega}.$$
+(6)
+
+The logarithmic average frequency $\omega_{\rm ln}$ , equal to the n → 0
+limit of the sequence of average frequencies
+
+ω̃_(n) = ⟨ω^(n)⟩^(1/n)
+(7)
+
+can be written in the form
+
+$$\omega_{\rm ln}\equiv\lim_{n\to 0}\tilde{\omega}_{n}=\ \exp\left(\frac{2}{\lambda}\int_{0}^{n\!  Ref. 16 for a review and references therein) derived approximate formulas for the strong-coupling corrections to the dimensionless BCS ratios:
+
+\[\frac{\left(\Delta C\right)_{T_{c}}}{\gamma T_{c}} = 1.43\left[ {1 + 53\left( \frac{T_{c}}{\omega_{\rm ln}} \right)^{2}\ln\left( \frac{\omega_{\rm ln}}{3T_{c}} \right)} \right],$$
+
+$$\frac{\gamma T_{c}^{2}}{H_{c}^{2}(0)} = 0.168\left[ {1 - 12.2\left( \frac{T_{c}}{\omega_{\rm ln}} \right)^{2}\ln\left( \frac{\omega_{\rm ln}}{3T_{c}} \right)} \right],$$
+
+$$h_{c}(0) = 0.576\left[ {1 - 13.4\left( \frac{T_{c}}{\omega_{\rm ln}} \right)^{2}\ln\left( \frac{\omega_{\rm ln}}{3.5T_{c}} \right)} \right],$$
+
+$$\frac{\Delta(0)}{k_{B}T_{c}} = 1.76\left[ {1 + 12.5\left( \frac{T_{c}}{\omega_{\rm ln}} \right)^{2}\ln\left( \frac{\omega_{\rm ln}}{2T_{c}} \right)} \right].$$
+
+The strong-coupling variable is the ratio $T_{c}/\omega_{\rm ln}$ with
+the average phonon frequency $\omega_{\rm ln}$ given by Eq. (8). It was
+shown [16] that these equations provide a satisfactory description of
+the strong-coupling corrections to the BCS ratios for a large number of
+electron-phonon-mediated superconductors with an accuracy of about 10
+
+The simplest assumption is a frequency independent α²(ω). Since this
+approximation yields $\omega_{\rm ln}$ values which are larger than the
+above given estimates (unambiguously too large for LuNi₂B₂C), the use of
+decreasing functions for α²(ω) seems to be reasonable. Thus we follow
+the approach of Junod _et al._[26] They suggested the approximation
+α²(ω)∝ω^(−1/2) and used the assumptions α²(ω)∝1 and α²(ω)∝ω⁻¹ as
+limiting cases for the calculation of $\omega_{\rm ln}$ , ω̄₁ , and ω̄₂ .
+The corresponding results for the average frequencies $\omega_{\rm ln}$
+, ω̄₁ , and ω̄₂ with the proposed assumptions on the frequency dependence
+of α² are summarized in Table 6.
+
+The thermodynamic ratios given in Table 2 are displayed in Fig. 9 to
+classify the coupling strength of the compounds investigated. The solid
+lines in Figs. 9(a)−9(d) represent the general trend according to Eqs.
+(10)−(13) typical for many superconductors which allow an apparent
+graphical comparison with our results for the borocarbides. The open
+symbols displayed in Figs. 9(a)−9(d) correspond to $\omega_{\rm ln}$
+values determined under the assumption of α²(ω)∝ω^(−1/2) and the
+associated horizontal error bars correspond to $\omega_{\rm ln}$ values
+determined with α²(ω)∝ω⁻¹ and α²(ω)∝1, respectively. Figure 9 further
+illustrates that the coupling strength of these three superconductors is
+of the same magnitude and decreases slightly in the sequence: LuNi₂B₂C,
+LaPt_(1.5)Au_(0.5)B₂C, and YNi₂B₂C.
+
+The ω̄₁ values of Table 6 can be compared with the theoretical
+predictions of Rainer and Bergmann [14] for the magnitude of the
+strong-coupling correction of the thermodynamic critical field H_(c)
+from BCS at given ratios of T_(c)/ω̄₁ . The numerical results for the
+enhancement parameters η_(H_(c))(T_(c)) and η_(H_(c))(0) of the
+thermodynamic critical field H_(c)(T) =
+$\eta_{H_{c}}(T)H_{c}^{\rm BCS}(T)$ as well as η_(H_(c2))(T_(c)) and
+η_(H_(c2))(0), the enhancement parameters of the upper critical field,
+can be deduced from Fig. 1 of Ref. 14. Calculations for the upper
+critical field have been performed in the dirty-limit approximation,
+which cannot be applied to the RNi₂B₂C compounds because they are
+clean-limit superconductors [31].
+
+The experimental values of the enhancement parameters η_(H_(c))(0) and
+η_(H_(c))(T_(c)) were determined from the relations γT_(c)²/H_(c)²(0) =
+0.168 η_(H_(c))⁻²(0) and (ΔC)_(T_(c))/γT_(c) = 1.43 η_(H_(c))²(T_(c)).
+Table 7 contains our experimental enhancement factors of the
+thermodynamic critical field and those taken from Rainer and Bergmann
+[14] for the T_(c)/ω̄₁ values corresponding to Table 6. The comparison of
+the data in Table 7 reveals that the approximation α²∝ω^(−1/2) appears
+to be a reasonable approach.
+
+### Determination of the electron-phonon interaction parameter
+
+For the evaluation of λ we use the Allen and Dynes formula [24] with a
+Coulomb pseudopotential μ* = 0.13 (see, e.g., Ref. 32)
+
+$$T_{c} = \frac{f_{1}f_{2}\omega_{\rm ln}}{1.20}\exp\left( {- \frac{1.04(1+\lambda)}{\lambda-\mu^{*}-0.62\lambda\mu^{*}}} \right),$$
+
+where f₁ and f₂ are corrective factors given by
+
+$$f_{1} = \left[ {1 + \left( \frac{\lambda}{2.46(1+3.8\mu^{*})} \right)^{\frac{3}{2}}} \right]^{\frac{1}{3}},$$
+
+$$f_{2} = 1 + \frac{\left( \frac{\bar{\omega}_{2}}{\omega_{\rm ln}} - 1 \right)\lambda^{2}}{\lambda^{2}+1.82(1+6.3\mu^{*})\frac{\bar{\omega}_{2}}{\omega_{ \rm ln}}}.$$
+
+[TABLE]
+
+Table 8: Comparison of the electron-phonon mass enhancement factors
+$\lambda_{\rm tot}$($=\gamma_{\rm exp}/\gamma_{\rm band}\!-\!1$) with
+$\lambda_{\rm AD}$ and the average value
+$\tilde{\alpha}^{2}(=1/2\lambda_{\rm AD}\delta_{1})$.
+
+Figure 9: (a)–(d) Strong-coupling correction to the dimensionless BCS
+ratios (ΔC)_(T)/γT_(c), Δ(0)/k_(B)T_(c), γT_(c)²/H_(c)²(0), and h_(c)(0)
+as a function of the strong-coupling variable $T_{c}/\omega_{\rm ln}$
+for YNi₂B₂C (▫), LuNi₂B₂C (△), and LaPt_(1.5)Au_(0.5)B₂C (◇).
+
+α̂² = (1/2)λ ω̂₁. Although it is difficult to disentangle the phononic and
+electronic contribution one can use the relation
+λ = N(E_(f))⟨I²⟩/(M ω̂₂²) for a qualitative discussion (with ⟨I²⟩ the
+average of the electron-phonon matrix elements and M the mean atomic
+mass). The denominator, a phonon quantity, varies for these four
+compounds only by about 10
+
+In this context it is of interest that Mattheiss _et al.[33]_ attributed
+the superconducting properties to an electron-phonon mechanism in which
+high-frequency boron A_(1g) phonons couple strongly to an energy band of
+the Ni-B-C manifold whose position is sensitive to the geometry of the
+NiB₄ tetrahedron and modulate the Ni-B-Ni bond angle. It is proposed
+that superconductivity occurs only when a special s − p band is
+optimally aligned to E_(f) which happens to occur for nearly ideal NiB₄
+angles in YNi₂B₂C and LuNi₂B₂C concomitant with a high DOS at E_(f). As
+a result of the deviation from the idealized structure due to the larger
+La ionic radius with respect to Lu or Y the relevant s − p band is
+shifted to higher energies yielding a reduction of N(E_(f)) by −47% for
+LaNi₂B₂C with respect to LuNi₂B₂C. This is in agreement with the
+experiment where we observe a reduction of −57% (see Table 1). However,
+the low characteristic frequencies ω̂₁ and $\omega_{\rm ln}$ (Table 6),
+derived from our model phonon spectra which provides a satisfactory
+description of the strong-coupling corrections, seem to contradict the
+suggestion of Mattheiss _et al.[33]_ that the mechanism for
+superconductivity is based on high-frequency boron A_(1g) optical
+phonons with energies equivalent to 1200 K.
+
+### The upper critical field
+
+In order to quantitatively examine the upward curvature of H_(c2)(T) we
+plot in Fig. 10 the normalized upper critical field
+h_(c2)(T) = H_(c2)(T)/(T_(c)dH_(c2)/dT)_(T_(c)) as a function of the
+reduced temperature t = T/T_(c) together with the weak-coupling result
+labeled as "BCS." From the temperature dependence of the thermodynamic
+and upper critical field (in Figs. 3 and 4) one obtains the normalized
+ratio k(T) = κ₁(T)/κ₁(T_(c)) of the Ginzburg-Landau parameter
+$\kappa_{1}(T)\!=\!H_{c2}(T)/\sqrt{2}H_{c}(T)$ displayed in the inset of
+Fig. 10. The data of LaPt_(1.5)Au_(0.5)B₂C are close to the BCS result
+but exhibit considerable scatter and are therefore not shown. The
+extrapolated values for k(0) = κ₁(0)/κ₁(T_(c)) are about 1.5(1), 2.0(1),
+and 1.3(3) for YNi₂B₂C, LuNi₂B₂C, and LaPt_(1.5)Au_(0.5)B₂C,
+respectively. The former two are significantly enhanced with respect to
+the weak-coupling ("BCS") result in the clean limit (1.26). Carbotte[16]
+showed that h_(c2)(0) and k(0) follow approximate relations that contain
+the strong-coupling correction
+$(T_{c}/\omega_{\rm ln})^{2}\!\ln(\omega_{\rm ln}/bT_{c})$ in a similar
+way to Eqs. (10)−(13) for the dimensionless BCS ratios. A comparison of
+k(0) with the data compiled in Ref. [16] of a large number of
+electron-phonon-mediated superconductors, which are in the range
+$0\!<\!T_{c}/\omega_{\rm ln}\!<\!$0.2 for 1.2 < k(0) < 1.8 shows that
+k(0) = 1.5 yields $T_{c}/\omega_{\rm ln}$ of about 0.15 for YNi₂B₂C
+while a remarkably high $T_{c}/\omega_{\rm ln}\!>\!$0.2 would be
+required to account for k(0) ≈ 2 of LuNi₂B₂C. Both values are
+significantly higher than the rather consistent $T_{c}/\omega_{\rm ln}$
+values derived from the four dimensionless ratios [Eqs. (10)−(13)]
+ranging between 0.06 and 0.1. Not even very strong coupling can account
+for the pronounced upward curvature and enhancement of h_(c2)(0) for
+LuNi₂B₂C which is reminiscent of a calculation using a δ-function-based
+phonon spectrum with T_(c)/ω_(E) ≈ 1 (Ref. [16]) where ω_(E) is the
+Einstein frequency of the δ function. However, a dominant Einstein
+frequency at about 15 K is not compatible with the specific-heat data
+from which we obtain Θ_(E1) = 117 K as the low-frequency Einstein mode
+for LuNi₂B₂C.
+
+Although various properties in the superconducting state of these
+borocarbides can be explained rather consistently with the model phonon
+spectra, the significant upturn of h_(c2)(0) and the enhancement of the
+normalized Ginzburg-Landau parameter remain to be resolved.
+
+## V Conclusion
+
+We determined the thermodynamic BCS ratios of YNi₂B₂C, LuNi₂B₂C, and
+LaPt_(1.5)Au_(0.5)B₂C from specific-heat measurements and deduced
+according to their deviation from the weak-coupling BCS values the
+strong-coupling correction in terms of $T_{c}/\omega_{\rm ln}$ .
+
+From the normal-state specific heat between 2 and 300 K of these
+superconductors and the nonsuperconducting reference compounds LaNi₂B₂C
+and YCo₂B₂ we constructed model phonon spectra yielding the moments of
+the phonon density of states F(ω). A remarkable reduction of the
+high-frequency modes is obtained for YCo₂B₂ with respect to the
+borocarbides investigated due to the missing carbon atoms in
+
+Figure 10: Normalized upper critical field
+h_(c2)(T) = H_(c2)(T)/(T_(c)dH_(c2)/dT)_(Tc) as a function of the
+reduced temperature T/T_(c) for YNi₂B₂C, LuNi₂B₂C, and
+LaPt_(1.5)Au_(0.5)B₂C; inset: normalized Ginzburg-Landau parameter for
+YNi₂B₂C, LuNi₂B₂C; dashed lines: weak-coupling BCS result for a
+comparison.
+
+the former. The model phonon spectra of the superconducting compounds
+YNi₂B₂C, LuNi₂B₂C, and LaPt_(1, 5)Au_(0.5)B₂C are (with the exception of
+a softening of the low-frequency modes of the latter) essentially the
+same as for nonsuperconducting LaNi₂B₂C. The former three compounds can
+be classified as moderately strong coupled superconductors since the
+electron-phonon enhancement parameter λ derived from the Allen and Dynes
+formula ranges between 0.95 and 1.15.
+
+The difference between these λ values and those deduced from
+$\gamma_{\rm exp}/\gamma_{\rm band}$ shows that band-structure
+calculations overestimate N(E_(f)) in particular for
+LaPt_(1, 5)Au_(0.5)B₂C and that electron-electron correlations may be
+important. As the λ values from the Allen and Dynes formula are of the
+same magnitude for the three superconducting compounds, the lower T_(c)
+of LaPt_(1, 5)Au_(0.5)B₂C is suggested to be associated with the
+softening of the low-frequency modes, while the disappearance of
+superconductivity in LaNi₂B₂C may be attributed to the smaller γ value
+reduced by about 50
+
+###### Acknowledgements.
+
+We are indebted to N.M. Hong and M. Vybornov for their support in sample
+preparation and x-ray characterization. This work was supported by the
+Austrian Science Foundation under Grants No. 11090, S5604, and by the
+Kartnner Elektrizitatsgesellschaft (KELAG).
+
+## References
+
+* [1] R. J. Cava, H. Takagi, H. W. Zandbergen, J. J. Krajewski, W. F.
+Peck, Jr., T. Sigrist, B. Batlogg, R. B. van Dover, R. J. Felder, K.
+Mizuhashi, J. O. Lee, H. Eisaki, and S. Uchida, Nature (London) **367**,
+254 (1994). * [2] R. Nagarajan, C. Mazumdar, Z. Hossain, S. K. Dhar, K.
+V. Gopalakrishnan, L. C. Gupta, C. Godart, B. D. Padalia, and R.
+Vijayaraghavan, Phys. Rev. Lett. **72**, 274 (1994). * [3] T. Siegrist,
+H. W. Zandbergen, R. J. Cava, J. J. Krajewski, and W. F. Peck, Jr.,
+Nature (London) **367**, 146 (1994). * [4] G. Hilscher, H. Michor, N. M.
+Hong, W. Perthold, M. Vybornov, and P. Rogl, Physica B **206 & 207**,
+542 (1995). * [5] L. F. Mattheiss, Phys. Rev. B **49**, 13 279 (1994). *
+[6] W. E. Pickett and D. J. Singh, Phys. Rev. Lett. **72**, 3702
+(1994). * [7] J. I. Lee, T. S. Zhao, I. G. Kim, B. I. Min, and S. J.
+Youn, Phys. Rev. B **50**, 4030 (1994). * [8] D. J. Singh, Phys. Rev. B
+**50**, 6486 (1994). * [9] A. Fujimori, K. Kobayashi, T. Mizokawa, K.
+Mamiya, and A. Sekiyama, Phys. Rev. B **50**, 9660 (1994). * [10] M. S.
+Golden, M. Kupfer, M. Kielwein, M. Buchgeister, J. Fink, D. Techan, W.
+E. Pickett, and D. J. Singh, Europhys. Lett. **28**, 369 (1994). * [11]
+E. Pellegrin, C. T. Chen, G. Meigs, R. J. Cava, J. J. Krajewski, and W.
+F. Peck, Jr., Phys. Rev. B **51**, 16 159 (1995). * [12] N. M. Hong, H.
+Michor, M. Vybornov, T. Holubar, P. Hundegger, W. Perthold, G. Hilscher,
+and P. Rogl, Physica C **227**, 85 (1994). * [13] R. J. Cava, B.
+Batlogg, J. J. Krajewski, W. Peck, Jr., T. Sigrist, R. M. Fleming, S.
+Carter, H. Takagi, R. J. Felder, R. V. van Dover, and L. W. Rupp, Jr.,
+Physica C **226**, 170 (1994). * [14] D. Rainer and G. Bergmann, J. Low
+Temp. Phys. **14**, 501 (1974). * [15] F. Marsiglio and J. P. Carbotte,
+Phys. Rev. B **33**, 6141 (1986). * [16] J. P. Carbotte, Rev. Mod. Phys.
+**62**, 1027 (1990). * [17] R. Movshovich, M. F. Hundley, J. D.
+Thompson, P. C. Canfield, B. K. Cho, and A. V. Chubukov, Physica C
+**227**, 381 (1994). * [18] S. A. Carter, B. Batlogg, R. J. Cava, J. J.
+Krajewski, and W. F. Peck, Jr., Phys. Rev. B **50**, 4216 (1994). * [19]
+J. S. Kim, W. W. Kim, and G. R. Stewart, Phys. Rev. B **50**, 3485
+(1994). * [20] C. Godart, L. C. Gupta, R. Nagarajan, S. K. Dhar, H.
+Noel, M. Potel, C. Mazumdar, Z. Hossain, C. Levy-Clement, G.
+Schiffmacher, B. D. Padalia, and R. Vijayaraghavan, Phys. Rev. B **51**,
+489 (1995). * [21] R. Cywinski, Z. P. Han, R. Bewley, R. Cubitt, M. T.
+Wylie, E. M. Forgan, S. L. Lee, M. Warden, and S. H. Kilcoyne, Physica C
+**233**, 273 (1994). * [22] Ming Xu, P. C. Canfield, J. E. Ostenson, D.
+K. Finnemore, B. K. Cho, Z. R. Wang, and D. C. Johnson, Physica C
+**227**, 321 (1994). * [23] H. Padamsee, J. E. Neighbor, and C. A.
+Shiffman, J. Low Temp. Phys. **12**, 387 (1973). * [24] P. B. Allen and
+R.C. Dynes, Phys. Rev. B **12**, 905 (1975). * [25] A. Junod, T.
+Jarlborg, and J. Muller, Phys. Rev. B **27**, 1568 (1983). * [26] A.
+Junod, D. Bichsel, and J. Muller, Helv. Phys. Acta **52**, 580 (1979). *
+[27] V. G. Hadjiev, L. N. Bozukov, and M. G. Baychev, Phys. Rev. B
+**50**, 16 726 (1994). * [28] V. Z. Kresin and V. P. Parkhomenko, Fiz.
+Tverd. Tela (Leningrad) **16**, 3363 (1974) [Sov. Phys. Solid State
+**16**, 2180 (1975)]. * [29] B. T. Geilikman and V. Z. Kresin, Fiz.
+Tverd. Tela (Leningrad) **7**, 3294 (1965) [Sov. Phys. Solid State
+**7**, 2659 (1966)]. * [30] T. Ekino, H. Fujii, M. Kosugi, Y. Zenitani,
+and J. Akimitsu, Physica C **235**-**240**, 2529 (1994). * [31] H.
+Takagi, R. J. Cava, H. Eisaki, J. O. Lee, K. Mizuhashi, B. Batlogg, S.
+Uchida, J. J. Krajewski, and W. F. Peck, Jr., Physica C **228**, 389
+(1994). * [32] W. L. McMillan, Phys. Rev. **167**, 331 (1968). * [33] L.
+F. Mattheiss, T. Siegrist, and R. J. Cava, Solid State Commun. **91**,
+587 (1994).

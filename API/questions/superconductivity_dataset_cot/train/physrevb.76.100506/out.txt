@@ -1,0 +1,187 @@
+
+
+# Pressure dependence of the superconducting transition and electron correlations
+
+in Na2CoO2*1.3H2O
+
+E. Kusano
+
+Department of Physics, Okayama University, Okayama 700-8530, Japan
+
+S. Kawasaki
+
+Department of Physics, Okayama University, Okayama 700-8530, Japan
+
+K. Matano
+
+Department of Physics, Okayama University, Okayama 700-8530, Japan
+
+Guo-qing Zheng
+
+Department of Physics and TCSAM, University of Houston, Houston, Texas 77204-5932, USA
+
+R. L. Meng
+
+Department of Physics and TCSAM, University of Houston, Houston, Texas 77204-5932, USA
+
+J. Cmaidalka
+
+Department of Physics and TCSAM, University of Houston, Houston, Texas 77204-5932, USA
+
+C. W. Chu
+
+Lawrence Berkeley National Laboratory, 1 Cyclotron Road, Berkeley, California 94720, USA Hong Kong University of Science and Technology, Hong Kong, China
+
+21 June 2007 with the temperature at which 1/T_{1} decreases (see below).
+
+Figure 2 shows the \pm 5/2\!\leftrightarrow\!\pm 7/2 NQR transition line at three typical pressures. For convenience, we call this resonance frequency 3\nu_{Q}; it increases with increasing pressure. It is noted that the width of the transition does not depend on pressure, indicating that the quality of the sample is unaffected by applying pressure.
+
+Figure 3 shows the temperature dependence of the quantity 1/T_{1}T at ambient and high pressures. The data for pressures of 1.27 and 1.93 GPa are very similar to those at 0.49 GPa and are not shown for the sake of clarity. Overall, the absolute value of 1/T_{1}T decreases with increasing P. The extent of the progressive increase in 1/T_{1}T upon lowering T also changes (see later discussion). It has been noted that the non-Korringa behavior, namely, the increase of 1/T_{1}T upon lowering T, is a signature of spin correlations.[2, 5] Since the Knight shift along both a and c axes decreases with decreasing T and becomes a constant at T_{c}\!\leftrightarrow\!T\!\approx\!100 K, the spin correlations are not ferromagnetic in origin;[12] the facts rather point to antiferromagnetic spin fluctuations.
+
+In order to quantify the discussion, we analyze our data in the same way as for the ambient pressure data. In a general form, 1/T_{1}T is written as
+
+\[1/T_{1}T\!=\sum_{q}A_{q}^{2}\chi^{\prime\prime}(q,\omega)/\omega\] (2)
+
+in the \omega\!\rightarrow\!0 limit, where A_{q} is the hyperfine coupling constant, and \chi^{\prime\prime}(q,\omega) is the imaginary part of the q-dependent, dynamical susceptibility. If one assumes that there is a peak around the AF wave vector Q, then one may have the following approximation:
+
+\[1/T_{1}T\!=\!(1/T_{1}T)_{AF}+(1/T_{1}T)_{0}\] (3)
+
+where (1/T_{1}T)_{0} denotes the contribution from wave vectors other than Q, which usually is dominated by the uniform susceptibility \chi_{0}. For the AF contribution, we use the formula for a two-dimensional antiferromagnetically correlated metal, namely, (1/T_{1}T)_{AF}\!=\!C/(T\!+\!\theta).[13] We find that this model fits the data quite well, as depicted by the curves in Fig. 3. The resulting fitting parameters are shown in Fig. 4. Note that a small value of \theta means that the system is close to the AF instability (\theta\!=\!0). Therefore, the increase of \theta to a larger positive value indicates a weakening of the antiferromagnetic correlations. On the other hand, the decrease of (1/T_{1}T)_{0} can be attributed to the decrease of the density of states at the Fermi level, N(E_{F}), since (1/T_{1}T)_{0}\!\propto\!N(E_{F})^{2}.
+
+As seen in Fig. 4, overall, T_{c} decreases with increasing pressure, but nonmonotonically. The average rate of dT_{c}/dP in the whole P range is -0.49\!\pm\!0.09 K/GPa. The average rate below 1.6 GPa is -0.28\!\pm\!0.05 K GPa, which is in good agreement with the rate -0.27\!\pm\!0.03 K/GPa reported by Lorenz _et al._,[3] who measured the ac susceptibility in this pressure range. However, in the measurements of Lorenz _et al._, T_{c} is P insensitive in the range of P\!\leq\!0.5 GPa, while in the present study, T_{c} is P insensitive in the range of 0.49\!\leq\!P\!\leq\!1.93 GPa. The reason for the discrepancy is unknown at this point. It is noted that \nu_{Q} increases smoothly in the whole pressure range, which assures that the pressure is indeed transmitted to the sample.
+
+Below 0.49 GPa, \theta increases and (1/T_{1}T)_{0} decreases, which indicates that the decrease of T_{c} is accompanied by both weakening of the spin correlations and reduction of the DOS. The pressure effects on T_{c}, \theta, the DOS, and \nu_{Q} are
+
+Figure 1: (Color online) Typical examples of the ac susceptibility measured using the NQR coil. The arrows indicate T_{c} at different pressures.
+
+Figure 3: (Color online) 1/T_{1}T as a function of temperature at ambient and high pressures. The curves are fits to 1/T_{1}T =(1/T_{1}T)_{0}+(80~\mbox{s}^{-1})/(T\!+\!\theta). The resulting (1/T_{1}T)_{0} and \theta are plotted in Fig. 4.
+
+Figure 2: (Color online) ^{99}Co NQR spectra at the \pm 5/2\!\leftrightarrow\!\pm 7/2 transition under three different pressures.
+
+  equivalent to increasing the Na content.[5] This suggests that the pressure effect in this range is to induce a charge redistribution between Co and oxygen. On the other hand, at pressures above 1.93 GPa, the DOS decreases with increasing P, while \theta is less P dependent, suggesting that the reduction of T_{c} at high pressures is primarily due to the reduction of the DOS. Although several mechanisms for the superconductivity,[14, 15, 16, 17, 18, 19] including electron-lattice interaction,[14] and a charge-order-driven mechanism,[15] have been proposed, our result indicates that the Co electronic state (namely, the DOS) and magnetic fluctuations of likely antiferromagnetic origin are primarily responsible for the superconductivity.
+
+Finally, we turn to the superconducting state. Figure 5 shows the temperature dependence of 1/T_{1} at P=0 and 0.49 GPa. It can be seen that 1/T_{1} follows a T^{3} variation down to the lowest temperature measured (\sim0.12T_{c}). This result establishes that the sample is free of impurity scattering, and indicates unambiguously that line nodes exist in the gap function. As we noted in previous publications,[2, 5] the gap function with line nodes generates an energy- (E-) linear DOS at low E, which results in a T^{n} (n=3) dependence of 1/T_{1}. Low-E excitations arising from impurity scattering or other competing orders usually modify the DOS near the Fermi level, leading to an exponent n less than 3. Also, an anisotropic s-wave gap would give rise to a coherence peak just below T_{c}, which is incompatible with the experimental result. It is noted that the existence of nodes is consistent with superconductivity being induced by electron correlations.
+
+In conclusion, we have presented systematic ^{59}Co NQR measurements on the cobalt oxide superconductor Na_{4}CoO_{2}\cdot1.3H_{2}O under high pressures up to 2.36 GPa. We find that T_{c} decreases with increasing pressure at an average rate of -0.49\pm 0.09 K/GPa. At low pressures P\approx0.49 GPa, the decrease of T_{c} is accompanied by both a weakening of the spin correlations at a finite wave vector and a reduction of the density of states at the Fermi level. At high pressures above 1.93 GPa, however, the decrease of T_{c} is the mainly to a reduction of the density of states. These results indicate that the electronic and magnetic state of Co is primarily responsible for the superconductivity; namely, both a large DOS and spin correlations are indispensable for a high T_{c} in this class of materials. The spin-lattice relaxation rate 1/T_{1} at P=0.49 GPa shows a T^{3} variation below T_{c} down to T\sim0.12T_{c}, which provides compelling evidence for the presence of line nodes in the superconducting gap function.
+
+We thank M. Nishiyama and K. Katayama for assistance in some of the measurements.This work was supported in part by research grants from MEXT, NSF, the T. L. L. Temple Foundation, the John and Rebecca Moores Endowment, and DOE.
+
+Figure 4: (Color online) Various parameters obtained in this study plotted as a function of pressure. The dotted curves are guides to the eyes. The error in estimating the peak frequency 3_{VQ} and (1/T_{1}T_{0}) is within the size of the symbols. Note that the density of states is proportional to \sqrt{(1/T_{1}T_{0})}.
+
+Figure 5: (Color online) Temperature dependence of 1/T_{1} at ambient pressure and P=0.49 GPa. The arrow indicates T_{c} at different pressures. The straight line depicts the T^{3} variation.
+
+  KUSANO _et al._
+* [1] K. Takada, H. Sakurai, E. Takayama-Muromachi, F. Izumi, R. A. Dilanian, and T. Sasaki, Nature (London) **422**, 53 (2003).
+* [2] T. Fujimoto, G.-Q. Zheng, Y. Kitaoka, R. L. Meng, J. Cmaidalka, and C. W. Chu, Phys. Rev. Lett. **92**, 047004 (2004).
+* [3] Y. Bang, M. J. Graf, and A. V. Balatsky, Phys. Rev. B **68**, 212504 (2003).
+* [4] Q. Han and Z. D. Wang, Phys. Rev. B **70**, 184504 (2004).
+* [5] G.-Q. Zheng, K. Matano, R. L. Meng, J. Cmaidalka, and C. W. Chu, J. Phys.: Condens. Matter **18**, L63 (2006).
+* [6] Y. Kobayashi, M. Yokoi, and M. Sato, J. Phys. Soc. Jpn. **72**, 2453 (2003).
+* [7] G.-Q. Zheng, K. Matano, D. P. Chen, and C. T. Lin, Phys. Rev. B **73**, 180503(R) (2006).
+* [8] B. Lorenz, J. Cmaidalka, R. L. Meng, and C. W. Chu, Phys. Rev. B **68**, 132504 (2003).
+* [9] J. Chepin and J. H. Ross, J. Phys.: Condens. Matter **3**, 8103 (1991).
+* [10] K. Murata, H. Yoshino, H. O. Yadav, Y. Honda, and N. Shirakawa, Rev. Sci. Instrum. **68**, 2490 (1997).
+* [11] T. F. Smith, C. W. Chu, and M. B. Maple, Cryogenics **9**, 53 (1969).
+* [12] D. J. Singh, Phys. Rev. B **61**, 13397 (2000).
+* [13] T. Moriya, K. Ueda, and Y. Takahashi, J. Phys. Soc. Jpn. **59**, 2905 (1990).
+* [14] K. Yada and H. Kontani, J. Phys. Soc. Jpn. **75**, 033705 (2006).
+* [15] O. I. Motrunich and P. A. Lee, Phys. Rev. B **70**, 024514 (2004).
+* [16] M. D. Johannes, I. I. Mazin, D. J. Singh, and D. A. Papaconstantopoulos, Phys. Rev. Lett. **93**, 097005 (2004).
+* [17] B. Liu, Y. Liang, and S. Feng, Commun. Theor. Phys. **43**, 1127 (2005).
+* [18] K. Kuroki, S. Ohkubo, T. Nojima, R. Arita, S. Onari, and Y. Tanaka, Phys. Rev. Lett. **98**, 136401 (2007).
+* [19] M. Ogata, J. Phys. Soc. Jpn. **72**, 1839 (2003).
+
+ 
+
+# Pressure dependence of the superconducting transition and electron correlations
+
+in Na2CoO2*1.3H2O
+
+E. Kusano
+
+Department of Physics, Okayama University, Okayama 700-8530, Japan
+
+S. Kawasaki
+
+Department of Physics, Okayama University, Okayama 700-8530, Japan
+
+K. Matano
+
+Department of Physics, Okayama University, Okayama 700-8530, Japan
+
+Guo-qing Zheng
+
+Department of Physics and TCSAM, University of Houston, Houston, Texas 77204-5932, USA
+
+R. L. Meng
+
+Department of Physics and TCSAM, University of Houston, Houston, Texas 77204-5932, USA
+
+J. Cmaidalka
+
+Department of Physics and TCSAM, University of Houston, Houston, Texas 77204-5932, USA
+
+C. W. Chu
+
+Lawrence Berkeley National Laboratory, 1 Cyclotron Road, Berkeley, California 94720, USA Hong Kong University of Science and Technology, Hong Kong, China
+
+21 June 2007 with the temperature at which 1/T_{1} decreases (see below).
+
+Figure 2 shows the \pm 5/2\!\leftrightarrow\!\pm 7/2 NQR transition line at three typical pressures. For convenience, we call this resonance frequency 3\nu_{Q}; it increases with increasing pressure. It is noted that the width of the transition does not depend on pressure, indicating that the quality of the sample is unaffected by applying pressure.
+
+Figure 3 shows the temperature dependence of the quantity 1/T_{1}T at ambient and high pressures. The data for pressures of 1.27 and 1.93 GPa are very similar to those at 0.49 GPa and are not shown for the sake of clarity. Overall, the absolute value of 1/T_{1}T decreases with increasing P. The extent of the progressive increase in 1/T_{1}T upon lowering T also changes (see later discussion). It has been noted that the non-Korringa behavior, namely, the increase of 1/T_{1}T upon lowering T, is a signature of spin correlations.[2, 5] Since the Knight shift along both a and c axes decreases with decreasing T and becomes a constant at T_{c}\!\leftrightarrow\!T\!\approx\!100 K, the spin correlations are not ferromagnetic in origin;[12] the facts rather point to antiferromagnetic spin fluctuations.
+
+In order to quantify the discussion, we analyze our data in the same way as for the ambient pressure data. In a general form, 1/T_{1}T is written as
+
+\[1/T_{1}T\!=\sum_{q}A_{q}^{2}\chi^{\prime\prime}(q,\omega)/\omega\] (2)
+
+in the \omega\!\rightarrow\!0 limit, where A_{q} is the hyperfine coupling constant, and \chi^{\prime\prime}(q,\omega) is the imaginary part of the q-dependent, dynamical susceptibility. If one assumes that there is a peak around the AF wave vector Q, then one may have the following approximation:
+
+\[1/T_{1}T\!=\!(1/T_{1}T)_{AF}+(1/T_{1}T)_{0}\] (3)
+
+where (1/T_{1}T)_{0} denotes the contribution from wave vectors other than Q, which usually is dominated by the uniform susceptibility \chi_{0}. For the AF contribution, we use the formula for a two-dimensional antiferromagnetically correlated metal, namely, (1/T_{1}T)_{AF}\!=\!C/(T\!+\!\theta).[13] We find that this model fits the data quite well, as depicted by the curves in Fig. 3. The resulting fitting parameters are shown in Fig. 4. Note that a small value of \theta means that the system is close to the AF instability (\theta\!=\!0). Therefore, the increase of \theta to a larger positive value indicates a weakening of the antiferromagnetic correlations. On the other hand, the decrease of (1/T_{1}T)_{0} can be attributed to the decrease of the density of states at the Fermi level, N(E_{F}), since (1/T_{1}T)_{0}\!\propto\!N(E_{F})^{2}.
+
+As seen in Fig. 4, overall, T_{c} decreases with increasing pressure, but nonmonotonically. The average rate of dT_{c}/dP in the whole P range is -0.49\!\pm\!0.09 K/GPa. The average rate below 1.6 GPa is -0.28\!\pm\!0.05 K GPa, which is in good agreement with the rate -0.27\!\pm\!0.03 K/GPa reported by Lorenz _et al._,[3] who measured the ac susceptibility in this pressure range. However, in the measurements of Lorenz _et al._, T_{c} is P insensitive in the range of P\!\leq\!0.5 GPa, while in the present study, T_{c} is P insensitive in the range of 0.49\!\leq\!P\!\leq\!1.93 GPa. The reason for the discrepancy is unknown at this point. It is noted that \nu_{Q} increases smoothly in the whole pressure range, which assures that the pressure is indeed transmitted to the sample.
+
+Below 0.49 GPa, \theta increases and (1/T_{1}T)_{0} decreases, which indicates that the decrease of T_{c} is accompanied by both weakening of the spin correlations and reduction of the DOS. The pressure effects on T_{c}, \theta, the DOS, and \nu_{Q} are
+
+Figure 1: (Color online) Typical examples of the ac susceptibility measured using the NQR coil. The arrows indicate T_{c} at different pressures.
+
+Figure 3: (Color online) 1/T_{1}T as a function of temperature at ambient and high pressures. The curves are fits to 1/T_{1}T =(1/T_{1}T)_{0}+(80~\mbox{s}^{-1})/(T\!+\!\theta). The resulting (1/T_{1}T)_{0} and \theta are plotted in Fig. 4.
+
+Figure 2: (Color online) ^{99}Co NQR spectra at the \pm 5/2\!\leftrightarrow\!\pm 7/2 transition under three different pressures.
+
+  equivalent to increasing the Na content.[5] This suggests that the pressure effect in this range is to induce a charge redistribution between Co and oxygen. On the other hand, at pressures above 1.93 GPa, the DOS decreases with increasing P, while \theta is less P dependent, suggesting that the reduction of T_{c} at high pressures is primarily due to the reduction of the DOS. Although several mechanisms for the superconductivity,[14, 15, 16, 17, 18, 19] including electron-lattice interaction,[14] and a charge-order-driven mechanism,[15] have been proposed, our result indicates that the Co electronic state (namely, the DOS) and magnetic fluctuations of likely antiferromagnetic origin are primarily responsible for the superconductivity.
+
+Finally, we turn to the superconducting state. Figure 5 shows the temperature dependence of 1/T_{1} at P=0 and 0.49 GPa. It can be seen that 1/T_{1} follows a T^{3} variation down to the lowest temperature measured (\sim0.12T_{c}). This result establishes that the sample is free of impurity scattering, and indicates unambiguously that line nodes exist in the gap function. As we noted in previous publications,[2, 5] the gap function with line nodes generates an energy- (E-) linear DOS at low E, which results in a T^{n} (n=3) dependence of 1/T_{1}. Low-E excitations arising from impurity scattering or other competing orders usually modify the DOS near the Fermi level, leading to an exponent n less than 3. Also, an anisotropic s-wave gap would give rise to a coherence peak just below T_{c}, which is incompatible with the experimental result. It is noted that the existence of nodes is consistent with superconductivity being induced by electron correlations.
+
+In conclusion, we have presented systematic ^{59}Co NQR measurements on the cobalt oxide superconductor Na_{4}CoO_{2}\cdot1.3H_{2}O under high pressures up to 2.36 GPa. We find that T_{c} decreases with increasing pressure at an average rate of -0.49\pm 0.09 K/GPa. At low pressures P\approx0.49 GPa, the decrease of T_{c} is accompanied by both a weakening of the spin correlations at a finite wave vector and a reduction of the density of states at the Fermi level. At high pressures above 1.93 GPa, however, the decrease of T_{c} is the mainly to a reduction of the density of states. These results indicate that the electronic and magnetic state of Co is primarily responsible for the superconductivity; namely, both a large DOS and spin correlations are indispensable for a high T_{c} in this class of materials. The spin-lattice relaxation rate 1/T_{1} at P=0.49 GPa shows a T^{3} variation below T_{c} down to T\sim0.12T_{c}, which provides compelling evidence for the presence of line nodes in the superconducting gap function.
+
+We thank M. Nishiyama and K. Katayama for assistance in some of the measurements.This work was supported in part by research grants from MEXT, NSF, the T. L. L. Temple Foundation, the John and Rebecca Moores Endowment, and DOE.
+
+Figure 4: (Color online) Various parameters obtained in this study plotted as a function of pressure. The dotted curves are guides to the eyes. The error in estimating the peak frequency 3_{VQ} and (1/T_{1}T_{0}) is within the size of the symbols. Note that the density of states is proportional to \sqrt{(1/T_{1}T_{0})}.
+
+Figure 5: (Color online) Temperature dependence of 1/T_{1} at ambient pressure and P=0.49 GPa. The arrow indicates T_{c} at different pressures. The straight line depicts the T^{3} variation.
+
+  KUSANO _et al._
+* [1] K. Takada, H. Sakurai, E. Takayama-Muromachi, F. Izumi, R. A. Dilanian, and T. Sasaki, Nature (London) **422**, 53 (2003).
+* [2] T. Fujimoto, G.-Q. Zheng, Y. Kitaoka, R. L. Meng, J. Cmaidalka, and C. W. Chu, Phys. Rev. Lett. **92**, 047004 (2004).
+* [3] Y. Bang, M. J. Graf, and A. V. Balatsky, Phys. Rev. B **68**, 212504 (2003).
+* [4] Q. Han and Z. D. Wang, Phys. Rev. B **70**, 184504 (2004).
+* [5] G.-Q. Zheng, K. Matano, R. L. Meng, J. Cmaidalka, and C. W. Chu, J. Phys.: Condens. Matter **18**, L63 (2006).
+* [6] Y. Kobayashi, M. Yokoi, and M. Sato, J. Phys. Soc. Jpn. **72**, 2453 (2003).
+* [7] G.-Q. Zheng, K. Matano, D. P. Chen, and C. T. Lin, Phys. Rev. B **73**, 180503(R) (2006).
+* [8] B. Lorenz, J. Cmaidalka, R. L. Meng, and C. W. Chu, Phys. Rev. B **68**, 132504 (2003).
+* [9] J. Chepin and J. H. Ross, J. Phys.: Condens. Matter **3**, 8103 (1991).
+* [10] K. Murata, H. Yoshino, H. O. Yadav, Y. Honda, and N. Shirakawa, Rev. Sci. Instrum. **68**, 2490 (1997).
+* [11] T. F. Smith, C. W. Chu, and M. B. Maple, Cryogenics **9**, 53 (1969).
+* [12] D. J. Singh, Phys. Rev. B **61**, 13397 (2000).
+* [13] T. Moriya, K. Ueda, and Y. Takahashi, J. Phys. Soc. Jpn. **59**, 2905 (1990).
+* [14] K. Yada and H. Kontani, J. Phys. Soc. Jpn. **75**, 033705 (2006).
+* [15] O. I. Motrunich and P. A. Lee, Phys. Rev. B **70**, 024514 (2004).
+* [16] M. D. Johannes, I. I. Mazin, D. J. Singh, and D. A. Papaconstantopoulos, Phys. Rev. Lett. **93**, 097005 (2004).
+* [17] B. Liu, Y. Liang, and S. Feng, Commun. Theor. Phys. **43**, 1127 (2005).
+* [18] K. Kuroki, S. Ohkubo, T. Nojima, R. Arita, S. Onari, and Y. Tanaka, Phys. Rev. Lett. **98**, 136401 (2007).
+* [19] M. Ogata, J. Phys. Soc. Jpn. **72**, 1839 (2003).
+
+ 

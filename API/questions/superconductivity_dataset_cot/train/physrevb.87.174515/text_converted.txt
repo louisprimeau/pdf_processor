@@ -1,0 +1,463 @@
+# Short-range magnetic order and effective suppression of
+superconductivity
+
+by manganese doping in LaFe_(1 − x)Mn_(x)AsO_(1 − y)F_(y)
+
+Rainer Frankovsky,¹ Hubertus Luetkens,² Frank Tamborrino,¹ Alexey
+Marchuk,¹ Gwendolyne Pascua,² Alex Amato,² Hans-Henning Klauss,³ and
+Dirk Johrendt,^(1, *)
+
+¹Department Chemie, Ludwig-Maximilians Universitat Munchen, 8137
+Munchen, Germany
+
+²Laboratory for Muon-Spin Spectroscopy, Paul Scherrer Institut, CH-5232
+Villigen PSI, Switzerland
+
+³Institut fur Festkorperphysik, TU Dresden, 01069 Dresden, Germany
+
+###### Abstract
+
+We present a study of the structural and physical properties of directly
+hole-doped LaFe_(1 − x)Mn_(x)AsO (x = 0.0 − 0.2) and the influence of
+charge compensation by additional F doping in
+LaFe_(0.9)Mn_(0.1)AsO_(1 − y)F_(y) (y = 0.1 − 0.5). High-quality
+polycrystalline samples were prepared for Mn-doped LaFe_(1 − x)Mn_(x)AsO
+and the low doping regime in LaFe_(0.9)Mn_(0.1)AsO_(1 − y)F_(y) (y = 0.1
+and 0.2) using a solid-state metathesis reaction. The unit cell
+increases upon Mn doping, but decreases again when additional F is
+inserted. The semiconducting character of LaFe_(1 − x)Mn_(x)AsO
+decreases with additional F doping. Muon spin relaxation (μSR)
+measurements reveal short-range magnetic order in LaFe_(1 − x)Mn_(x)AsO
+and a suppression of magnetism by additional electron doping with
+fluoride in LaFe_(0.9)Mn_(0.1)AsO_(1 − y)F_(y). Superconductivity
+remains absent even though the electronic preconditions are fulfilled in
+electron-doped LaFe_(0.9)Mn_(0.1)AsO_(1 − y)F_(y) at x > 0.1, which is
+suggestive of effective pair breaking by Mn in this system.
+
+2013 174515 10.1103/PhysRevB.87.174515
+
+## I Introduction
+
+Charge doping suppresses structural transitions from tetragonal to
+orthorhombic symmetry and spin-density-wave (SDW) antiferromagnetism in
+stoichiometric parent compounds of 1111- and 122-type iron arsenides
+like LaFeAsO or BaFe₂As₂, and superconductivity is induced in the
+proximity of magnetism.[1, 2] In stark contrast to the cuprates, also
+substitution of the iron atoms by transition metals with the same or
+higher number of valence electrons induces superconductivity, for
+example in Ba(Fe_(1 − x)Co_(x))₂As₂.[3] However, whether transition
+metal substitution leads to charge doping or acts as scattering centers
+is still under debate.[4, 5, 6]
+
+Even less understood is the fact that hole doping by transition metal
+substitution (Cr, Mn) has on no account induced superconductivity so
+far.[7, 8, 9, 10]
+
+Substitution of Fe by Cr or Mn in Ba(Fe_(1 − x)TM_(x))₂As₂ leads to a
+suppression of the structural transition for x ≥ 0.335 and x > 0.10,
+respectively.[8, 9, 10, 11] Even though the transition is absent for
+highly doped samples, a magnetic phase develops albeit with a magnetic
+structure different from the low doped samples.[9, 12] The
+antiferromagnetic (AFM) ordering changes from stripelike SDW to
+Neel-type (G-type) in Cr-substituted compounds, which is consistent with
+the absence of the orthorhombic phase. A coexistence of both types of
+AFM ordering is reported for x = 0.305 and x = 0.335, although the
+structural transition is already suppressed for the latter
+concentration.[9] This is unusual, since the stripelike SDW ordering is
+believed to be coupled to the orthorhombic transition by magnetoelastic
+effects.[13, 14, 15] For Ba(Fe_(1 − x)Mn_(x))₂As₂, a more complicated
+behavior is observed. In first reports, magnetic ordering with a
+propagation vector ($\nicefrac{{1}}{{2}}$$\nicefrac{{1}}{{2}}$ 1)
+(stripelike SDW) was observed in the absence of the orthorhombic
+distortion (x > 0.10), but no traces of Neel type fluctuations or
+ordering have been found.[10] However, recent neutron diffraction
+studies found coexistence of long-ranged stripelike antiferromagnetic
+ordering and purely dynamic short-range Neel-type spin fluctuations
+introduced by Mn in Ba(Fe_(0.925)Mn_(0.075))₂As₂.[12] Whether these
+short-range fluctuations are also present in the samples with higher Mn
+concentrations has not been studied yet. Nuclear magnetic resonance
+(NMR) measurements of Ba(Fe_(1 − x)Mn_(x))₂As₂ revealed localized Mn
+moments, which couple to the conduction electrons and induce a staggered
+spin polarization within the Fe layer.[6] It was proposed that spin
+fluctuations (Neel-type) which arise from these local Mn moments could
+be disruptive for superconductivity.[6, 12] Actually, very recent
+theoretical calculations confirmed the suppression of superconductivity
+by Neel-type fluctuations in the iron pnictides.[16] Meanwhile, there is
+growing evidence for local Mn moments leading to a different type of
+(short range) magnetic fluctuations/ordering, which competes with the
+long-range ordering developed by the Fe lattice.
+
+In contrast to this, very little is known about manganese substitution
+in 1111 compounds. Substitution of Fe by Mn in CaFeAsF and LaFeAsO
+changes the resistivity behavior from metallic to semiconducting.[7, 17]
+Because this is already observed for very small Mn concentrations, one
+may argue that Mn mainly acts as a scattering center in these
+compounds.[17] In LaFe_(1 − x)Mn_(x)AsO, the structural distortion seems
+to be suppressed at x ≥ 0.05 according to conductivity and
+thermoelectric power measurements.[7] However, information about the
+magnetic behavior of the 1111 compounds upon Mn substitution is still
+lacking.
+
+It is widely believed that, in FeAs superconductors, certain structural
+preconditions like interatomic distances, the pnictogen layer height, or
+the distance between the iron-arsenide layers have to be fulfilled to
+induce superconductivity or to reach high critical temperatures (for an
+overview, see Ref. [18]). One of the most noticeable correlations of
+$T_{\rm c}$ to a structural parameter is found in the As-Fe-As angles of
+the FeAs tetrahedra. Lee _et al_. have collected structural data from
+many iron-based superconductors and found that the highest $T_{\rm c}$’s
+appear in systems where the angles are close to the value of 109.47^(∘),
+suggesting that the potential for high critical temperatures is biggest
+for regular tetrahedra.[19] It has been suggested that the angle is not
+only determined by the different atom sizes, but that the electron count
+plays an important role as well.[20] Although the experimental data
+indicate that an ideal tetrahedral angle seems to be crucial for high
+$T_{\rm c}$’s, the most recent investigations about the interplay
+between doping and structural changes in doped BaFe₂As₂ have shown that
+charge modifications play the mayor role for the suppression of
+magnetism and the emergence of superconductivity. Zinth _et al_. have
+demonstrated that charge compensation in
+Ba_(1 − x)K_(x)(Fe_(0.93)Co_(0.07))₂As₂ (x ≈ 0.14) recovers the magnetic
+and structural transitions of the parent compound and superconductivity
+reemerges for lower (electron-doped) as well as for higher (hole-doped)
+potassium concentrations.[21] This shows how the physical properties can
+be controlled by modifying the charge balance in BaFe₂As₂.
+
+To expand the knowledge about the influence of direct hole doping on the
+structural, electronic, and magnetic properties of 1111-type iron
+arsenides, we investigated the series LaFe_(1 − x)Mn_(x)AsO
+(x = 0.0-0.2) and draw a comparison with directly hole-doped 122
+compounds. Furthermore, the influence of charge compensation by
+additional electrons due to additional F doping in
+LaFe_(0.1)Mn_(0.1)AsO_(0.9)F_(0.1) as well as the formally
+electron-doped series LaFe_(0.9)Mn_(0.1)AsO_(1 − y)F_(y) (y = 0.2-0.5)
+are presented.
+
+## II Experimental Methods
+
+FeAs was first synthesized by heating a stoichiometric mixture of the
+elements (pieces, purity  > 99.8%) to 773-973 K in sealed alumina
+crucibles and combined with stoichiometric amounts of Na (ingots, 99.8
+
+$$(1-x){\rm NaFeAs}+x{\rm NaMnAs}+(1-y){\rm LaOCl}+y{\rm LaF}_{3}+y{\rm Na}$$
+$$\rightarrow{\rm LaFe}_{1-x}{\rm Mn}_{x}{\rm AsO}_{1-y}{\rm F}_{y}+( 1-y){\rm NaCl}+2y{\rm NaF}$$
+$$(x=0.0-0.2\ {\rm with}\ y=0.0;\ y=0.1-0.5\ {\rm with}\ x=0.1),$$
+
+The precursors were well homogenized, filled in alumina crucibles,
+welded in Niobium tubes enclosed by silica tubes. All crucibles and
+tubes contained a purified argon atmosphere. The reaction mixtures were
+heated to 1023 K for 48 h and 1223 K for 96 h, followed by cooling to
+room temperature with 300 K/h. The concomitantly formed salts NaCl and
+NaF were removed by washing the obtained mixture with water (3 times)
+and ethanol, followed by drying the product under high vacuum. Sample
+preparation except the synthesis of LaOCl and FeAs was performed in a
+glove box under an atmosphere of argon (O₂ and H₂O  < 1 ppm). Phase
+purity was checked by x-ray powder diffraction with Cu-K_(0.1) radiation
+(huber G670 Guinier imaging plate diffractometer) and Rietveld
+refinements using the topas program package.[26] Energy dispersive x-ray
+(EDX) measurements confirmed the effective Mn content of the series
+LaFe_(1 − x)Mn_(x)AsO. The magnetic measurements were done with a
+Quantum Design MPMS XL5 SQUID magnetometer. The electric resistivity was
+measured from 12 to 300 K using the four-probe method. The measurements
+were performed on pressed pellets of the washed samples, which were
+annealed at 1123 K for 48 h. In order to detect even very weak or
+short-range ordered magnetism, muon spin relaxation (μSR) experiments
+were performed at the πM3 beam line at the Paul-Scherrer-Institut
+(Switzerland). The μSR data were analyzed using the free software
+package musrfit.[27]
+
+## III Results and Discussion
+
+The metathesis reaction yielded single-phase samples of
+LaFe_(1 − x)Mn_(x)AsO (see Fig. 1). With increasing Mn concentration,
+the cell parameters and the volume increase almost
+
+Figure 1: (Color online) X-ray powder pattern (blue) and Rietveld fit
+(red) of LaFe_(1 − x)Mn_(x)AsO_(1 − y)F_(y) for x = 0.2, y = 0.0 (left)
+and x = 0.1, y = 0.2 (right) after the removal of NaF and/or NaCl.
+
+linearly, indicating that Mn is successfully inserted (see Fig. 2, left
+side). This, together with the sample purity, indicates that the
+effective Mn contents are very close to the nominal ones. Parallel to
+the unit cell expansion, the Fe-As and metal-metal distances increase.
+The twofold As-Fe-As angle e2 of the FeAs tetrahedra becomes more
+regular, decreasing from 113.1(2)deg (_x_ = 0) to 111.8(2)deg (_x_ =
+0.20). The structural changes upon Mn doping are therefore consistent
+with the ones reported by Beradan _et al._ (_x_ = 0.0-0.1),7 but the
+reported cell parameters of the corresponding compositions are much
+larger than those we find. The effective doping levels have been
+confirmed by at least five EDX measurements of each sample, and we
+obtained averaged compositions showing deviations of less than 1
+
+Samples of the series LaFe0.0Mn0.1AsO1-_y_F with lower F doping up to y
+= 0.2 contained only small amounts of LaAs (<3 wt
+
+A metal-to-semiconductor transition for Mn concentrations higher than 3
+
+Figure 2: (Color online) Changes of the unit cell parameters (top) and
+interatomic distances (bottom) with increasing Mn fraction in
+LaFe1−_x_Mn,AsO (left side) and further F doping in LaFe0.9Mn0.1AsO
+(right side). The dotted black line marks the Mn concentration held
+constant for the LaFe0.9Mn0.1AsO1−_y_F varies. Some interatomic
+distances of similar 1111 compounds are listed for comparison (own
+synthesized compounds). Error bars of the cell parameters are smaller
+than the symbol size.
+
+more pronounced, and the ratio $R_{12{\rm K}}/R_{300{\rm K}}$ is the
+highest for x = 0.2. The measured resistivity ρ_(s) at 300 K increases
+as well, and it is more than one order of magnitude higher for the
+highest Mn concentration, compared to undoped LaFeAsO (4.7 × 10⁻⁴Ωm for
+x = 0.2 and 2.8 × 10⁻⁵Ωm for x = 0.0). Furthermore, low-temperature
+x-ray diffraction (XRD) measurements showed that the structural
+transition is absent for the whole series LaFe_(1 − x)Mn_(x)AsO
+(x = 0.05-0.20). Additional electrons introduced by F doping lead to a
+higher charge carrier concentration within the FeAs layer, and the
+metallic behavior is regained with increasing F doping. Figure 3 shows
+that F doping in LaFe_(0.9)Mn_(0.1)AsO_(1 − y)F_(y) leads to a decrease
+of the $R_{12{\rm K}}/R_{300{\rm K}}$ values and the resistivity ρ_(s)
+at 300 K. The discordant values for $\rho_{s(300{\rm K})}$ of the
+y = 0.3 and 0.5 sample are probably due to increased contact
+resistances. We did not find superconductivity for the formally
+electron-doped samples (y > 0.2), nor did we observe an anomaly of the
+electrical resistivity for charge compensated
+LaFe_(0.9)Mn_(0.1)AsO_(0.9)F_(0.1). Low-temperature XRD measurements of
+LaFe_(0.9)Mn_(0.1)AsO_(1 − y)F_(y) (y = 0.1 and 0.2) showed no
+transition from tetragonal-to-orthorhombic symmetry at low temperatures.
+
+Magnetic measurements on a SQUID magnetometer showed
+temperature-independent susceptibility and no anomaly that would
+indicate a magnetic transition. In some samples, ferromagnetic
+impurities were found. Under the assumption that this impurity is
+metallic iron, we estimated the amount to be smaller than 0.5 wt
+
+For a more detailed study of the magnetic properties, we performed muon
+spin relaxation (μSR) experiments on the x = 0.05-0.20 and the y = 0.10
+and 0.20 samples. Here, μSR as a local magnetic probe can provide
+valuable information on the magnetic volume fraction and the magnetic
+homogeneity. Figure 4 shows the zero field (ZF) μSR spectra for the
+Mn-doped samples (y = 0). The data of LaFeAsO (x = 0) are shown for
+comparison.[28] At high temperatures, the muon spin polarization is only
+weakly relaxing as a function of time due to the interaction of the muon
+spin ensemble with the small magnetic fields originating from nuclear
+magnetic moments or diluted ferromagnetic impurities only. At low
+temperatures, the muons might experience a much stronger internal
+magnetic field due to ordering of the electronic moments. This is the
+case for all Mn-doped samples, as evident from the strongly
+time-dependent muon spin polarization observed in the ZF spectra. In a
+long-range ordered magnet, a coherent muon precession of the whole
+ensemble is observed, giving rise to long-lived oscillations in the ZF
+μSR time spectra, as it is the case for the x = 0 sample. The value of
+the precession frequency is proportional to local magnetic field and
+therefore to the ordered electronic magnetic moment. A damping of the
+μSR oscillation indicates a distribution of internal magnetic fields
+sensed by the muon ensemble and is therefore a measure of the disorder
+in the magnetic system. It is evident that the μSR precession is
+strongly damped for all Mn-doped samples. This proves that the doping of
+Mn ions into the magnetic Fe lattice introduces considerable disorder,
+making the magnetic ordering short range in nature. Interestingly, the
+observed frequency is still 16.5 MHz for the x = 0.05 sample compared to
+23 MHz at x = 0. If the same stripe AFM magnetic structure is assumed,
+this means that the average ordered magnetic moment is only reduced by
+29
+
+With a local probe like ZF μSR, on the other hand, it is possible to
+determine the magnetic volume fraction. In a 100
+
+The temperature dependence of the magnetic volume fraction can be better
+determined in a series of weak transverse field (TF) μSR measurements.
+In this case, a weak external magnetic field of 50 Oe is applied
+perpendicular to the initial muon spin direction. In a paramagnetic
+state, all the muon spins precess in the external field. If the sample,
+on the other hand, is magnetic, the muon spins precess in the much
+larger internal fields. Therefore, the amplitude of the precession
+signal in the external magnetic field is a measure for the paramagnetic
+volume fraction. In Fig. 5, the magnetic volume fraction is shown as a
+function of temperature for various Mn-doping levels. The transition is
+rather broad for the Mn-doped samples, while it is sharp for the undoped
+compound. This indicates a certain amount of disorder and/or chemical
+inhomogeneity. In such a situation, it is difficult to determine the
+true Neel temperature $T_{\rm N}$; therefore, the values for 10
+
+In Fig. 6, the obtained magnetic phase diagram is shown. It resembles
+that for Mn-doped BaFe₂As₂ with a minimum of $T_{\rm N}$ around
+x = 0.10. For Mn concentrations of x ≥ 0.10 in Ba(Fe_(1 − x)Mn_(x))₂As₂,
+only long-range magnetic order has been detected so far.[10; 11] On the
+contrary, our data indicate
+
+Figure 4: (Color online) Zero field μSR spectra of the
+LaFe_(1 − x)Mn_(x)AsO series, the data for x = 0.0 was taken from Ref.
+[28].
+
+short-range/disordered magnetism for the 1111 system, which can be
+understood if Mn acts predominately as a magnetic scattering center,
+which presumably distorts the long-range magnetic order of the iron
+atoms, or induces a different type of short-range antiferromagnetic
+order itself. Additionally, it is natural to assume that the SDW
+magnetism of the Fe sublattice, which is observed for the parent
+compound, is destroyed or at least fairly disturbed by Mn doping with
+x ≥ 0.05 since the magnetoelastically coupled orthorhombic distortion is
+absent for these samples.
+
+The ZF spectra of the charge-compensated (y = 0.10) and formally
+electron-doped sample (y = 0.20) are shown in Fig. 7 (together with
+LaFe_(0.9)Mn_(0.1)AsO). Surprisingly, F doping leads to a complete
+suppression of the magnetic transition, and the y = 0.1 sample is
+nonmagnetic over the whole temperature range. The observation of an
+essentially nonmagnetic state for a charge-compensated sample is
+astonishing, since it is completely different from
+Ba_(1 − x)K_(x)(Fe_(0.93)Co_(0.07))₂As₂ (x ≈ 0.14), where the magnetism
+of the parent compound is regained for the charge-compensated
+composition.[21] Actually, we would like to point out that, in the case
+of the 1111 family investigated here, the charge-compensated sample with
+x = y = 0.1 is the most nonmagnetic sample investigated in this study.
+
+The y = 0.2 sample is similar to the y = 0.1 sample, but the magnetism
+is slightly stronger, which can be appreciated by comparing the 5 K data
+in Fig. 7. Here, ZF, TF, and longitudinal field (LF) μSR measurements
+show that the observed weak magnetism remains partially dynamic down to
+the lowest measured temperatures and that it does only occupy ≈30
+
+From a NMR study, Texier _et al.[6]_ found that introducing Mn into
+Ba(Fe_(1 − x)Mn_(x))₂As₂ does not actually introduce charge doping and
+that the Mn ion carries a local moment due to the localization of the
+additional hole. These localized moments in turn can couple to the Fe
+electronic band and
+
+Figure 5: (Color online) Development of the magnetic volume fraction as
+a function of temperature for LaFe_(1 − x)Mn_(x)AsO_(1 − x)F_(y), data
+for x = 0.0 are taken from Ref. [28].
+
+Figure 6: (Color online) Structural and magnetic phase diagram of
+LaFe_(1 − x)Mn_(x)AsO_(1 − x)F_(y). The structural data for x < 0.05 are
+taken from Ref. [7]. The data for x = 0.0 are taken from Ref. [28]. The
+magnetic volume fraction has a color code in steps of 10
+
+Figure 7: (Color online) Zero field spectra of
+LaFe_(1 − x)Mn_(x)AsO_(1 − x)F_(y) (x = 0.1 and y = 0.0–0.2). On the
+left side, a short time window is shown as for the Mn-doped series
+presented in Fig. 4, and on the right, a long time window is displayed,
+since the magnetism is much weaker for the F-doped compounds.
+
+induce an alternating spin polarization into it. For the case of
+Ba(Fe_(1 − x)Mn_(x))₂As₂, it was argued that these local Mn moments are
+unable to suppress the antiferromagnetic ordering at low doping, but
+that they suppress superconductivity due to breaking of Cooper pairs.
+Texier _et al._[6] speculate that this pair breaking should prevent
+superconductivity even if the long-range magnetic order could be
+destroyed by other means.
+
+Similar conclusions can be drawn from our structural, magnetic, and
+transport measurements on LaFe_(1 − x)Mn_(x)AsO_(1 − y)F_(y). The doping
+with relatively small amounts of x≥ 0.05 Mn into LaFe_(1 − x)Mn_(x)AsO
+leads to a complete suppression of the tetragonal-to-orthorhombic
+transition usually concomitant with the stripelike SDW AFM order. Upon
+further Mn doping, short-range magnetism is found to persist up to the
+highest doping level studied here. It is possible that a similar but
+more disordered kind of Neel magnetic order, as observed for Cr- and
+Mn-doped BaFe₂As₂ compounds, is established, even though we cannot
+directly prove this hypothesis with our local probe technique. As in the
+case of Ba(Fe_(1 − x)Mn_(x))₂As₂, no superconductivity is induced by Mn
+doping into LaFeAsO. On the contrary, the room temperature resistivity
+increases with Mn doping, and the temperature dependence of the
+resistivity changes from metallic to increasingly semiconducting, and
+the increasing bond lengths indicate a more localized electronic
+behavior. The electron doping by introducing F into of
+LaFe_(0.9)Mn_(0.1)AsO_(1 − y)F_(y), in contrast, increases the
+conductivity of the system, as evidenced by our resistivity
+measurements. In addition, the static magnetism is quickly suppressed by
+the electron doping and the structural prerequisites for
+high-$T_{\rm c}$ superconductivity like an almost regular Fe-As
+tetrahedron is successively approached. Nevertheless, neither in the
+nominally charge-compensated compound (x = 0.1, y = 0.1), nor in the
+nominally electron-doped compound (x = 0.1, y = 0.2) is
+superconductivity induced. Theoretically, it has been shown that the
+combination of short-range Neel fluctuations and pair-breaking impurity
+scattering effectively can suppress superconductivity. [16] Therefore,
+it is reasonable to assume that a similar effect is at work in
+LaFe_(0.9)Mn_(0.1)AsO_(1 − y)F_(y) as well with localized paramagnetic
+Mn magnetic moments and possibly residual Neel fluctuations acting as
+pair breakers in the otherwise nonmagnetic samples.
+
+## IV Summary
+
+We obtained high-quality samples of LaFe_(1 − x)Mn_(x)AsO using a
+solid-state metathesis reaction. Also, the double-substituted
+LaFe_(0.9)Mn_(0.1)AsO_(1 − y)F_(y) series has been obtained in very good
+quality for F-doping levels ≤0.2, despite the use of five starting
+materials. Structural investigations revealed that, upon additional F
+doping, parameters like the metal-metal distance or the As-Fe-As angle
+reach values which have been thought to be essential for the emergence
+of high-superconducting $T_{\rm c}$’s. On the other hand, the increase
+of the metal-arsenic distances indicates a situation with stronger
+localization of the electrons. The magnetic behavior of the Mn-doped
+1111 compounds is different from the corresponding 122 compounds. We
+find short-range magnetic order, with the transition temperatures
+passing a minimum for x = 0.10. While the structural transition is
+present for Mn concentrations of up to ≈11
+
+## Acknowledgment
+
+This work has been supported by FP7 European Project SUPER-IRON (Grant
+Agreement No.283204).
+
+## References
+
+* [1] Y. Kamihara, T. Watanabe, M. Hirano, and H. Hosono, J. Am. Chem.
+Soc. **130**, 3296 (2008). * [2] M. Rotter, M. Tegel, and D. Johrendt,
+Phys. Rev. Lett. **101**, 107006 (2008). * [3] A. S. Sefat, A. Huq, M.
+A. McGuire, R. Jin, B. C. Sales, D. Mandrus, L. M. D. Cranswick, P. W.
+Stephens, and K. H. Stone, Phys. Rev. B **78**, 104505 (2008). * [4] H.
+Wadati, I. Elfimov, and G. A. Sawatzky, Phys. Rev. Lett. **105**, 157004
+(2010). * [5] S. Konbu, K. Nakamura, H. Ikeda, and R. Arita, Solid State
+Commun. **152**, 728 (2012). * [6] Y. Texier, Y. Laplace, P. Mendels, J.
+T. Park, G. Friemel, D. L. Sun, D. S. Inosov, C. T. Lin, and J. Bobroff,
+Europhys. Lett. **99**, 17002 (2012). * [7] D. Berardan, L.
+Pinssard-Gaudart, and N. Dragoe, J. Alloys Compd. **481**, 470 (2009). *
+[8] A. S. Sefat, D. J. Singh, L. H. VanBebber, Y. Mozharivskyj, M. A.
+McGuire, R. Jin, B. C. Sales, V. Keppens, and D. Mandrus, Phys. Rev. B
+**79**, 224524 (2009).
+
+* [9] K. Marty, A. D. Christianson, C. H. Wang, M. Matsuda, H. Cao, L.
+H. VanBebber, J. L. Zarsetky, D. J. Singh, A. S. Sefat, and M. D.
+Lumsden, Phys. Rev. B **83**, 060509(R) (2011). * [10] M. G. Kim, A.
+Kreyssig, A. Thaler, D. K. Pratt, W. Tian, J. L. Zarestky, M. A. Green,
+S. L. Bud’ko, P. C. Canfield, R. J. McQueeney, and A. I. Goldman, Phys.
+Rev. B **82**, 220503 (2010). * [11] A. Thaler, H. Hodovanets, M. S.
+Torikachvili, S. Ran, A. Kracher, W. Straszheim, J. Q. Yan, E. Mun, and
+P. C. Canfield, Phys. Rev. B **84**, 144528 (2011). * [12] G. S. Tucker,
+D. K. Pratt, M. G. Kim, S. Ran, A. Thaler, G. E. Granroth, K. Marty, W.
+Tian, J. L. Zarestky, M. D. Lumsden, S. L. Bud’ko, P. C. Canfield, A.
+Kreyssig, A. I. Goldman, and R. J. McQueeney, Phys. Rev. B **86**,
+020503(R) (2012). * [13] C. Fang, H. Yao, W. F. Tsai, J. P. Hu, and S.
+A. Kivelson, Phys. Rev. B **77**, 224509 (2008). * [14] C. Xu, M.
+Muller, and S. Sachdev, Phys. Rev. B **78**, 020501(R) (2008). * [15] R.
+M. Fernandes, L. H. VanBebber, S. Bhattacharya, P. Chandra, V. Keppens,
+D. Mandrus, M. A. McGuire, B. C. Sales, A. S. Sefat, and J. Schmalian,
+Phys. Rev. Lett. **105**, 157003 (2010). * [16] R. M. Fernandes and A.
+J. Mills, Phys. Rev. Lett. **110**, 117004 (2013). * [17] S. Matsuishi,
+Y. Inoue, T. Nomura, Y. Kamihara, M. Hirano, and H. Hosono, New J. Phys.
+**11**, 025012 (2009). * [18] D. C. Johnston, Adv. Phys. **59**, 803
+(2010). * [19] C. H. Lee, A. Iyo, H. Eisaki, H. Kito, M. T.
+Fernandez-Diaz, T. Ito, K. Kihou, H. Matsuhata, M. Braden, and K.
+Yamada, J. Phys. Soc. Jpn. **77**, 083704 (2008). * [20] D. Johrendt, J.
+Mater. Chem. **21**, 13726 (2011). * [21] V. Zinth, T. Dellmann, H. H.
+Klauss, and D. Johrendt, Angew. Chem. Int. Ed. **50**, 7919 (2011). *
+[22] C. W. Chu, F. Chen, M. Gooch, A. M. Guloy, B. Lorenz, B. Lv, K.
+Sasmal, Z. J. Tang, J. H. Tapp, and Y. Y. Xue, Physica C **469**, 326
+(2009). * [23] G. Achenbach and H. U. Schuster, Z. anorg. allg. Chemie
+**475**, 9 (1981). * [24] J. Holsa, K. Koski, S. Makkonen, E. Sailynoja,
+and H. Rahiala, J. Alloys Compd. **249**, 217 (1997). * [25] R.
+Frankovsky, A. Marchuk, R. Pobel, and D. Johrendt, Solid State Commun.
+**152**, 632 (2012). * [26] A. Coelho, TOPAS-Academic, Version 4.1,
+Coelho-Software, Brisbane (2007). * [27] A. Suter and B. M. Wojek,
+Physics Procedia **30**, 69 (2012). * [28] H. H. Klauss, H. Luetkens, R.
+Klingeler, C. Hess, F. J. Litterst, M. Kraken, M. M. Korshunov, I.
+Eremin, S. L. Drechsler, R. Khasanov, A. Amato, J. Hamann-Borrero, N.
+Leps, A. Kondrat, G. Behr, J. Werner, and B. Buchner, Phys. Rev. Lett.
+**101**, 077005 (2008). * [29] N. Emery, E. J. Wildman, J. M. S. Skakle,
+G. Giriat, R. I. Smith, and A. C. McLaughlin, Chem. Commun. **46**, 6777
+(2010). * [30] Y. Singh, M. A. Green, Q. Huang, A. Kreyssig, R. J.
+McQueeney, D. C. Johnston, and A. I. Goldman, Phys. Rev. B **80**,
+100403(R) (2009). * [31] A. Yaouanc and P. D. de Reotier, _Muon Spin
+Rotation, Relaxation and Resonance_ (Oxford University Press, Oxford,
+2011).

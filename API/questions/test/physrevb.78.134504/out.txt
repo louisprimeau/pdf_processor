@@ -1,0 +1,327 @@
+
+
+# Effect of electron-phonon coupling on the superconducting transition temperature
+
+in dodecaboride superconductors: A comparison of LuB_{12} with ZrB_{12}
+
+J. Teyssier, R. Lortz,* A. Petrovic, and D. van der Marel
+
+Departement de Physique de la Matiere Condensee, Universite de Geneve, Quai Ernest-Ansermet 24, 1211 Geneve 4, Switzerland
+
+V. Filippov and N. Shitsevalova
+
+Institute for Problems of Materials Science, National Academy of Sciences of Ukraine, 252680 Kiev, Ukraine
+
+24 June 2008; revised manuscript received 29 August 2008; published 2 October 2008
+
+###### Abstract
+
+We report a detailed study of specific heat, electrical resistivity, and optical spectroscopy in the superconducting boride LuB_{12} (_T_c = 0.4 K), and compare it to the higher _T_c compound ZrB_{12} (_T_c = 6 K). Both compounds have the same structure based on enclosed metallic Lu or Zr ions in oversized boron cages. The infrared reflectivity and ellipsometry in the visible range allow us to extract the optical conductivity from 6 meV to 4 eV in the normal state from 20 to 280 K. By extracting the superconducting properties, phonon density of states, and electron-phonon coupling function from these measurements, we discuss the important factors governing _T_c and explain the difference between the two compounds. The phonon density of states seems to be insignificantly modified by substitution of Zr with Lu. However, the soft vibrations of the metal ions in boron cages, responsible for the relatively high _T_c in ZrB_{12}, have almost no contribution to the electron-phonon coupling in LuB_{12}.
+
+pacs: DOI: 10.1103/PhysRevB.78.134504 +
+Footnote †: preprint: PHYSICAL REVIEW B **78**, 134504 (2008)
+
+## I Introduction
+
+The discovery of superconductivity in MgB_{2} has stimulated intense research on other superconducting borides. The superconducting borides with the second and third highest transition temperatures are YB_{6} (_T_c = 6-7.5 K) (Ref. [1]) and ZrB_{12} (_T_c = 6 K), respectively: _T_c's of more than one order of magnitude lower are found in LaB_{6} (_T_c < 0.1 K) (Ref. [3]) and LuB_{12} (_T_c = 0.44 K). [4; 5] The two latter compounds belong to the rare-earth boride family, intensively studied because of their wide variety of physical properties: [6] valence fluctuations (SmB_{6} and YbB_{12}), magnetic ordering (CeB_{6} and HoB_{12}), and superconductivity (LaB_{6} and LuB_{12}). Rare-earth hexa- and dodecaborides both exhibit structures based on oversized crystalline cages formed by a covalent 2p boron ions in which metal atoms are enclosed. Such materials are particularly interesting when they become superconducting since they then represent model systems for studying electron-phonon interactions: The phonon mode responsible for superconductivity can be easily extracted from simple thermodynamic and transport experiments. [7; 8] Apart from the borides, superconductors with similar structures are found, for example, among the pyrochlores [9; 10] or the clathrates. [11; 12; 13; 14] Strong covalent bonds between the boron atoms in B_{12} cages lead to a very rigid lattice with a high Debye temperature. The size of the caged atom only has a minor effect on the lattice parameter; however the presence of the metal atoms stabilizes the structure since two valence electrons per metal atom are transferred to the cages in order to compensate the electron deficiency in the boron sublattice. The enclosed ions undergo large vibrations in form of soft Einstein phonons, which have been reported to mediate superconductivity in YB_{6} (Ref. [8]) and ZrB_{12}. [7]
+
+Since large high-quality single crystals are available, the superconductivity in ZrB_{12} and YB_{6} has been object of intense research. The isotope effect in ZrB_{12} for zirconium [15] (\beta^{\infty}-0.32) is much larger than for boron [16] (\beta^{\infty}-0.09), pointing to a large contribution of lattice modes involving Zr atoms to the electron-phonon coupling responsible for superconductivity in ZrB_{12}. The same was concluded from an inversion of specific-heat and resistivity data for YB_{6} (Ref. [8]) and ZrB_{12}, [7] and the coupling was mainly attributed to these low-energy phonon modes. An absence of magnetism in LuB_{12} leads to its use as a nonmagnetic reference for the study of the Kondo insulator YbB_{12}. [17] LuB_{12} and ZrB_{12} band-structure calculations [18; 19; 20] revealed very similar total densities of states at the Fermi level. The lattice dynamics were also studied, showing closely related phonon spectra for both compounds. [21] Considering these similarities in the crystal dynamics and electronic structures, the large difference in the superconducting transition temperature in LaB_{6} and YB_{6}, and ZrB_{12} and LuB_{12} pairs appears incomprehensible. The hexaborides have been studied by Schell _et al._[22] but up until now the dodecaborides have not yet been investigated.
+
+In this paper, we present specific-heat and electrical resistivity experiments used as "thermal spectroscopies" in combination with optical measurements on LuB_{12}. We discuss the electron-phonon coupling strength in this material and compare it to ZrB_{12} for which we recently reported thermodynamic [7] and optical [20] investigations of the Eliashberg function. Our experiments reveal that the electron-phonon coupling of the vibration of the Lu ions in the boron cages is almost absent, in direct contrast with the particularly strong coupling in the higher _T_c compound ZrB_{12}.
+
+## II Techniques
+
+LuB_{12} crystallizes in the UB_{12} type structure work, [23] which can be viewed as a cubic rock salt arrangement of Lu and B_{12} cuboctahedral clusters. The sample preparation process involves synthesizing dodecaborides by a borothermal reduction of the metal oxides in vacuum at 1900 K, compacting these powders into rods and subsequently sintering them, then finally inductive zone melting them in a high-frequency induction zone unit.[24]
+
+The specific heat was measured using a high-precision continuous-heating adiabatic calorimeter between 16 and 300 K, and a relaxation calorimeter in a ^{3}He cryostat in the temperature range between 300 mK and 16 K. The resistivity was measured using a standard four probe technique.
+
+Optical measurements were performed on the (001) surface of a single crystal of diameter 5 mm. In the visible photon energy range (0.8-4 eV), the complex dielectric function \varepsilon(\omega) was determined by directly using spectroscopic ellipsometry at an incident angle of 62^{\circ}. The reflectivity of the sample was measured in the infrared spectral range (6 meV and 0.8 eV) using a Bruker 113 Fourier transform spectrometer. The reflectivity reference was taken by _in situ_ gold evaporation. For the optical experiments the sample was mounted in a helium flow cryostat, allowing measurements from room temperature down to 10 K. Figure 1(b) presents the real and imaginary parts of \varepsilon(\omega) measured by ellipsometry at selected temperatures. The reflectivity measured at low frequencies and extracted from the dielectric constant in the visible range is plotted in Fig. 1(a).
+
+A mismatch of 1.4% is observed between the reflectivity extracted from ellipsometry data in the visible range and the reflectivity measured in the infrared. This mismatch has not been corrected and is revealed as a jump in the optical conductivity (Fig. 2). In order to obtain the optical conductivity in the infrared region, we used a variational routine[26] yielding the Kramers-Kronig consistent dielectric function, which reproduces all the fine details of the infrared reflectivity data while _simultaneously_ fitting to the complex dielectric function in the visible and UV range.
+
+Figure 2 shows the evolution of the optical conductivity with temperature. A Drude-like peak, which narrows when the temperature is reduced, indicates metallic behavior. The dc conductivity is also displayed in this graph. LuB_{12} is a very good conductor with a resistivity at 20 K of \rho_{\rm dc} =2.05 \mu\Omega cm.
+
+## III III. Superconducting properties
+
+The specific heat of LuB_{12} has been previously reported.[5, 27] Figure 3 presents the specific heat C/T of LuB_{12}, in comparison to that of ZrB_{12} reported in Ref. [7], in the temperature range from 350 mK to 10 K on a logarithmic temperature scale. The unit gat is an abbreviation of gram atom ("gram per atom"), which represents one mole of atoms and is thus related to the SI unit mol. 1 gat represents in this particular case 1/13 mol. Sharp jumps indicate the superconducting transition temperatures at 6 (ZrB_{12}) and 0.42 K (LuB_{12}). The upturn below 2 K above T_{c} in LuB_{12} is related to a Schottky anomaly, which we attribute to nuclear moments with a characteristic energy of 0.9 K (indicated by the dotted line).
+
+A magnetic field of 1 T is sufficient to suppress superconductivity. This allows us to analyze the normal-state specific heat in a standard way according to the expansion
+
+Figure 3: (Color online) Total specific heat C/T of LuB_{12} (closed symbols) in the superconducting states (zero-field data) and the normal states (superconductivity has been suppressed by a magnetic field of 1 T) in comparison to ZrB_{12} (open symbols) (Ref. [7]), showing the superconducting transitions at 0.42 and 6 K, respectively. The dotted line models a Schottky contribution that we attribute to nuclear moments. 1 gat represents here 1/13 mol.
+
+Figure 2: (Color online) Temperature dependence of the real part of the optical conductivity. dc values from resistivity measurements are shown in the left panel.
+
+Figure 1: (Color online) (a) Temperature dependence of the reflectivity. The dashed line corresponds to the reflectivity measured by Okamura _et al._ (Ref. [25]). (b) Temperature dependence of the dielectric function measured using ellipsometry. Open symbols represent frequencies where the full temperature dependence is measured.
+
+  \[C_{n}(T\to 0)=\gamma_{n}T+\sum_{n=1}^{3}\beta_{2n+1}T^{2n+1},\]
+
+where the first term is the electronic contribution, with \gamma_{N} =\frac{1}{3}\pi^{2}k_{B}^{2}(1+\lambda_{\rm ep})N(E_{F}), k_{B} is Boltzmann's constant, \lambda_{\rm ep} is the electron-phonon coupling constant, and N(E_{F}) is the band-structure density of states at the Fermi level, including two spin directions [i.e., the electronic density of states (EDOS)]. The second term is the low-temperature expansion of the lattice specific heat, where \beta_{3}=\frac{12}{3}N_{\rm Av}k_{B}\pi^{4}\theta_{D}^{3}(0), with N_{\rm Av} as Avogadro's number and \theta_{D}(0) as the initial Debye temperature. From a fit from 2.5 to 5 K we obtain \gamma_{n} =0.26\pm 0.02 mJ gat^{-1} K^{-2}. This value is slightly smaller than values reported in literature.[5, 27] As electron-electron interactions are weak in this family of borides, the Sommerfeld constant is mainly related to electron-phonon interactions. The Sommerfeld constant corresponds therefore to a dressed density of states at the Fermi level (1+\lambda_{\rm ep})N(E_{F}) =0.11 states eV^{-1} atom^{-1}, which is slightly lower than the value of ZrB_{12}. A comparison with recent band-structure calculations[28] (see Table 1) leaves space for a small renormalization factor of \lambda_{\rm ep} \equiv 0.38 (LuB_{12}) and \lambda_{\rm ep} \equiv 0.38 (ZrB_{12}). Surprisingly, both values are very close to each other. We will discuss this at a later point. Both values are in the weak-coupling regime of superconductivity. We can use the normalized specific-heat jump \Delta C/\gamma_{n}T_{c} as another test of the coupling strength: \Delta C/\gamma_{n}T_{c} =1.14, which is in the weak-coupling limit below the BCS value of 1.43 and lower than the value reported for ZrB_{12} (\Delta C/\gamma_{n}T_{c} =1.66^{6}). Although the latter criterion is not very precise here as our experimental temperature window is not low enough to reveal details about the superconducting order parameter, this is a hint that the coupling constant \lambda_{\rm ep} is smaller in LuB_{12} than in ZrB_{12}. Table 1 gives an overview of the superconducting properties.
+
+## IV Phonon density of states and electron-phonon coupling
+
+It has been shown previously[7, 8, 29] that specific heat can provide information usually taken from inelastic neutron scattering with limited but sufficient accuracy to characterize the phonon density of states (PDOS). In a similar manner, an accurate measurement of the resistivity can provide information on the electron-phonon coupling function usually measured by tunneling experiments.[7, 8, 29] The normal-state specific heat of both compounds has been previously investigated,[7, 8, 27] whereas the resistivity of LuB_{12} has not yet been analyzed in this way. In the following we will directly compare the PDOS of both compounds to study how the enclosed ion in the boron cages influences the PDOS, and electron-phonon coupling function in order to understand the difference in T_{c} between the two compounds. The PDOS obtained from the specific heat is needed as an input to extract the electron-phonon coupling function for transport, which is closely related to the electron-phonon coupling function for superconductivity.
+
+It has been reported previously that the specific heat in the normal state of both compounds shows a rather unusual temperature dependence at low temperatures (Fig. 4).[7, 27] The low-temperature T^{3} regime of the lattice specific heat does not extend beyond a few Kelvin, as shown by the large positive curvature of the normal-state curve in Fig. 3. A simplified method of obtaining the PDOS from specific heat consists of representing F(\omega) by a basis of Einstein modes with constant spacing on a logarithmic frequency axis:
+
+\[F(\omega)=\sum_{k}F_{k}\delta(\omega-\omega_{k}).\] (1)
+
+The corresponding lattice specific heat is given by
+
+\[C_{ph}(T)=3N_{\rm Av}k_{B}\sum_{k}F_{k}\frac{x_{k}^{2}e^{x_{k}}}{(e^{x_{k}}-1 )^{2}},\] (2)
+
+where x_{k}=\hbar\omega_{k}/k_{B}T. The weights F_{k} are found by a least-squares fit of the lattice specific heat. The number of modes is chosen to be small enough to ensure the stability of the solution; we used \omega_{k+1}/\omega_{k}=1.75. A larger number would lead to oscillations in the fit and decrease its quality. Note that we do not try to find the energy of each mode; we rather aim to establish a histogram of the phonon density in pre-defined frequency bins. The robustness of the fit is demonstrated by the rms deviation: <0.4% above 10 K.
+
+Figure 5 illustrates the decomposition of the lattice specific heat into a set of Einstein functions. We use a plot of C/T (Ref. [3]) as, in this representation, contributions related
+
+Figure 4: (Color online) Total specific heat divided by temperature for ZrB_{12} and LuB_{12}.
+
+\begin{table}
+\begin{tabular}{l c c}  & LuB_{12} & ZrB_{12} \\ \hline T_{c} [K] & 0.42\pm 0.05 & 5.96\pm 0.05 \\ \gamma_{n} [mJ/mole k^{2}] & 0.26\pm 0.02 & 0.34\pm 0.02 \\ \Delta C/\gamma_{n}T_{c} & 1.14\pm 0.1 & 1.66\pm 0.1 \\ 2\Delta_{0}/k_{B}T_{c} & 3.2\pm 0.1 & 3.7\pm 0.1 \\ (1+\lambda_{\rm ep})N(E_{F}) [states eV^{-1} atom^{-1}] & 0.110 & 0.144 \\ N(E_{F}) [states eV^{-1} atom^{-1}] a  & 0.078 & 0.104 \\ \lambda_{ep} & 0.41 & 0.38 \\ \end{tabular}
+\end{table}
+Table 1: Superconducting parameters of LuB_{12} in comparison to ZrB_{12}.
+
+  to Einstein phonons appear as a bell-shaped curve.[30] In practice we performed first a fit to this bell-shaped anomaly with a single Einstein mode. Due to the sharp structure of this feature, the energy of this particular mode can be fitted with a high resolution of \sim1% precision. Afterwards we performed the fit with the full set of modes, keeping the energies of the modes constant while adjusting their weights. In the case of ZrB_{12}, a low lying Einstein phonon is visible with a characteristic energy of 170 +- 2 K. This mode is also present in LuB_{12} where the mode is slightly shifted down to 162 +- 2 K in accordance with Ref. [27]. The PDOS obtained in this way is included in Fig. 7. In analogy with other isostructural borides, it consists of a quasi-Debye background with a high characteristic frequency (\sim1000 K), as expected in view of the boron mass, superimposed on a low-energy mode at 14-15 meV, presumably associated with the oscillations of the Lu/Zr atoms in the boron "cages" present in the structure. The nature of the metallic ion only has a minor influence on the PDOS. Replacing Zr by Lu, the low-frequency mode shifts down from 15 to 14 meV and its amplitude increases. This small shift in phonon frequency certainly cannot explain the large difference in T_{c}.
+
+In ZrB_{12} it has been previously demonstrated that the \sim15 meV mode contributes strongly to the electron-phonon coupling and mediates superconductivity.[7] The question eventually arises whether this coupling is also present in LuB_{12}. To investigate this question we follow the same approach as for ZrB_{12} using resistivity and optical spectroscopy as experimental probes.
+
+We analyze the resistivity (Fig. 6) in a similar way as the specific heat. We start from the generalized Bloch-Gruneisen formula (see, e.g., Ref. [31], in particular pp. 212 and 219):
+
+\[\rho(T)=\rho(0)+\frac{4\pi m^{*}}{ne^{2}}\int_{0}^{a_{\rm max}}\alpha_{\rm tr} ^{2}F(\omega)\frac{xe^{x}}{(e^{x}-1)^{2}}d\omega,\] (3)
+
+where x = \omega/T and \alpha_{\rm tr}^{2}F(\omega) is the electron-phonon "transport coupling function" or transport Eliashberg function. In the restricted Bloch-Gruneisen approach, one would have \alpha_{\rm tr}^{2}F(\omega)\propto\omega^{4}, and as a consequence \rho(T)-\rho(0)\propto T^{5}, but deviations from the Debye model, complications with phonon polarizations, and Umklapp processes would not justify this simplification beyond the low-temperature continuum limit. Using a decomposition into Einstein modes similar to Eq. (2),
+
+\[\alpha_{\rm tr}^{2}F(\omega)=\sum_{k}\alpha_{k}^{2}F_{k}\delta(\omega-\omega_{ k}),\] (4)
+
+we obtain the discrete version of Eq. (3):
+
+\[\rho(T)=\rho(0)+\frac{4\pi m^{*}}{ne^{2}}\sum_{k}\alpha_{k}^{2}F_{k}\frac{x_{k }e^{x_{k}}}{(e^{x_{k}}-1)^{2}},\] (5)
+
+where the fitting parameters are the \alpha_{k}^{2}F_{k} coefficients. The residual resistivity \rho(0) = 2.05 \mu\Omega can was determined separately. Figure 6 shows the decomposition of the total resistivity into Einstein components. The electron-phonon transport coupling function \alpha_{\rm tr}^{2}F(\omega) is closely related to the isotropic Eliashberg function \alpha^{2}F(\omega), which governs superconductivity.[32] In ZrB_{12} the main component arises from modes with energies near 170 K, which results in a pronounced peak in \alpha_{\rm tr}^{2}F(\omega) at 170 K (\sim15 meV) (Fig. 7).
+
+Figure 5: (Color online) Lattice specific heat divided by T^{3} of ZrB_{12} and LuB_{12} showing its decomposition into Einstein terms. Our model uses a set of Einstein functions where characteristic temperatures are equally spaced on a logarithmic scale.
+
+Figure 6: (Color online) Total resistivity divided by temperature in ZrB_{12} (Ref. [7]) (upper panel) and LuB_{12} (lower panel), showing the decomposition into Einstein terms and the residual term. The largest Einstein component in ZrB_{12} is centered on \omega=170 K. The corresponding mode in LuB_{12} at \omega=162 K only shows a small amplitude.
+
+  Compared to other modes, the \sim170 K region in ZrB_{12} is weighted much more heavily in the \alpha_{u}^{2}F(\omega) function than in the PDOS F(\omega). In case of LuB_{12} the low-frequency mode that is shifted down to 162 K (\sim14 meV) shows a peak in \alpha_{u}^{2}F(\omega), which is four times smaller than that of ZrB_{12}. The electron-phonon coupling parameter relevant for transport \lambda_{u}=\,2\,\,\,\,\,\,\,\,\,\,\,  quence, the direct extraction of the transport electron-phonon coupling function from optical data, as for ZrB_{12}, would be too imprecise. To nevertheless incorporate the electron-phonon interaction, we inserted the \alpha_{\rm tr}^{2}F(\Omega) obtained from resistivity (Fig. 7) into Eq. (7). In the case of ZrB_{12}, an additional electron-boson interaction was necessary to reproduce the experimental data. Parameters relative to the free carriers in Eq. (6) (used in the fit) are given in Table 2. The plasma frequency calculated using LDA is also presented and a similar deviation of about 15% is observed for both compounds.
+
+As for a normal metal, the plasma frequency is slightly increased upon cooling the system because of the narrowing of the Drude peak. It has been shown that the plasma frequencies of these two dodecaborides follow the opposite trend. Even if these materials are extremely good metals in the normal state, the delocalization of the metal ions within the cages (demonstrated by using x-ray diffraction [21]) reduces the number of charge carriers. This decrease in the plasma frequency has been quantitatively related to the delocalization effect through band-structure calculations.
+
+## V V. Discussion and Conclusions
+
+In order to understand why the T_{c} of LuB_{12} (T_{c}=0.4 K) is so low compared to that of ZrB_{12} (T_{c}=6 K), we have performed a comparative analysis of specific-heat, electrical resistivity, and optical data. The Sommerfeld constant points toward a dressed density of states (1+\lambda_{\rm ep})N(E_{F}) =0.11 states eV^{-1} atom^{-1}, which is slightly lower than the value of 0.144 states eV^{-1} atom^{-1} of ZrB_{12}. For the electron-phonon coupling parameter \lambda_{\rm ep} we extracted surprisingly similar values of \lambda_{\rm ep}\cong 0.41 for LuB_{12} and \lambda_{\rm ep}\equiv 0.38 for ZrB_{12}, both lying in the weak-coupling regime of superconductivity. These values are very close to the \lambda_{\rm tr} values \lambda_{\rm tr} =\Sigma_{\rm\lambda}u_{\rm tr,\rm\rm\lambda}=0.42 for ZrB_{12} and \lambda_{\rm tr}=\Sigma_{\rm\lambda}u_{\rm tr,\rm\rm\lambda}=0.29 for LuB_{12} obtained from the resistivity. The normalized specific-heat jump \Delta C/\gamma_{\rm tr}T_{c} (which is another measure of the coupling strength) is however clearly smaller in LuB_{12} compared to ZrB_{12} (see Table 1), therefore indicating that a weaker electron-phonon coupling may nevertheless be the main reason for the large difference in T_{c} between the two compounds. As shown previously [27, 2] both compounds show a pronounced peak in the PDOS associated with the vibration of the enclosed metal atoms in the cagelike boron host. In ZrB_{12} this Einstein phonon is centered at 170 K; replacing Zr by Lu shifts the mode down to 162 K. This and the only marginally lower density of states at the Fermi level cannot only account for the large change of T_{c} from 6 K down to 0.4 K. We have previously reported that the Einstein phonon at 170 K in ZrB_{12} shows a strong peak in the transport electron-phonon coupling function \alpha_{\rm tr}^{2}F(\omega). \alpha_{\rm tr}^{2}F(\omega) is closely related to the isotropic Eliashberg function for superconductivity \alpha^{2}F(\omega), and a strong peak in \alpha_{\rm tr}^{2}F(\omega) therefore indicates the phonon mode which provides most of the superconducting coupling and determines the T_{c}. In the case of LuB_{12} we find that electron-phonon coupling to the corresponding mode at 162 K is nearly absent: the \alpha_{\rm tr}^{2}F(\omega) only shows a tiny peak at this energy.
+
+The smallness of the electron-phonon coupling constant in LuB_{12} is confirmed by the optical spectroscopy, which shows that the \alpha_{\rm tr}^{2}F(\omega) function derived from thermodynamic and transport experiments is entirely realistic.
+
+The main reason for the lower T_{c} in LuB_{12} is thus the weaker coupling of the Einstein phonon related to the vibration of the enclosed ion to the conduction electrons. The origin of this weaker electron-phonon interaction remains unclear but may be found in the different "volume filling factors" of the boron cages. This factor, which we define as the ratio between the volumes of the caged ions to the total volume of the boron cages, tunes the hybridization of the Lu/Zr electronic orbitals with those of the boron cage atoms and therefore strongly influences the electron-phonon interaction. The optical experiments furthermore reveal an abnormal temperature dependence of the plasma frequency in LuB_{12}. Such an effect has already been observed in ZrB_{12} and was attributed to a delocalization of the Zr ion in the boron cages [20]. The hybridization of the orbitals of the caged atoms with those of the boron cages would react very sensitively to such a delocalization. This may result in a stronger suppression of charge carriers at the Fermi level at low temperatures in LuB_{12}.
+
+###### Acknowledgements.
+
+ R.L. thanks A. Junod for sharing his knowledge about calorimetry and its analysis. This work is supported by the Swiss National Science Foundation through Grant No. 200020-109588 and the National Center of Competence in Research (NCCR) "Materials with Novel Electronic Properties-MaNEP."
+
+\begin{table}
+\begin{tabular}{l l l}  & LuB_{12} & ZrB_{12} \\ \hline \Omega_{p} [eV] & 4.9 & 5.5 \\ \Omega_{p} LDA [eV]1  & 5.7 (+16\%) & 6.3 (+14\%) \\ \gamma_{\rm imp} [meV] & 31 & 33 \\ \end{tabular}
+\end{table}
+Table 2: Fitting parameters of the low-frequency component of our optical spectra related to the free carrier term in Eq. (6). A good correlation is observed with the plasma frequency predicted by local-density approximation (LDA).
+
+  * [4] Corresponding author. Present address: Department of Physics, The Hong Kong University of Science & Technology, Clear Water Bay, Kowloon, Hong Kong. Iortz@ust.hk
+* [5]_Gmelin Handbook of Inorganic Chemistry: Sc, Y, La-Lu Rare Earth Elements_, Compounds with Boron, System Number 39 Vol. C11a, edited by H. Bergman _et al._ (Springer-Verlag, Berlin, 1990).
+* [6] B. T. Matthias, T. H. Geballe, K. Andres, E. Corenzwit, G. W. Hull, and J. P. Maita, Science **159**, 530 (1968).
+* [7] R. J. Sobczak and M. J. Sienko, J. Less-Common Met. **67**, 167 (1979).
+* [8] I. Bat'ko, M. Bat'kova, K. Flachbart, V. B. Filippov, Y. B. Paderno, N. Y. Shicevalova, and T. Wagner, J. Alloys Compd. **217**, L1 (1995).
+* [9] K. Flachbart, S. Gabani, K. Gloos, M. Meissner, M. Opel, Y. Paderno, V. Pavlik, P. Samuely, E. Schuberth, N. Shitsevalova, K. Siemensmeyer, and P. Szabo, J. Low Temp. Phys. **140**, 339 (2005).
+* [10] J. Etourneau and P. Hagenmuller, Philos. Mag. B **52**, 589 (1985).
+* [11] R. Lortz, Y. Wang, S. Abe, C. Meingast, Y. B. Paderno, V. Filippov, and A. Junod, Phys. Rev. B **72**, 024547 (2005).
+* [12] R. Lortz, Y. Wang, U. Tutsch, S. Abe, C. Meingast, P. Popovich, W. Knafo, N. Shitsevalova, Y. B. Paderno, and A. Junod, Phys. Rev. B **73**, 024512 (2006).
+* [13] M. Bruhwiler, S. M. Kazakov, N. D. Zhigadlo, J. Karpinski, and B. Batlogg, Phys. Rev. B **70**, 020503(R) (2004).
+* [14] Z. Hiroi, S. Yonezawa, Y. Nagao, and J. Yamaura, Phys. Rev. B **76**, 014523 (2007).
+* [15] H. Kawaji, H. O. Horie, S. Yamanaka, and M. Ishikawa, Phys. Rev. Lett. **74**, 1427 (1995).
+* [16] S. Yamanaka, E. Enishi, H. Fukuoka, and M. Yasukawa, Inorg. Chem. **39**, 56 (2000).
+* [17] R. Viennois, P. Toullemonde, C. Paulsen, and A. San Miguel, J. Phys.: Condens. Matter **17**, L311 (2005).
+* [18] T. Rachi, H. Yoshino, R. Kumashiro, M. Kitajima, K. Kobayashi, K. Yokogawa, K. Murata, N. Kimura, H. Aoki, H. Fukuoka, S. Yamanaka, H. Shimotani, T. Takenobu, Y. Iwasa, T. Sasaki, N. Kobayashi, Y. Miyazaki, K. Saito, F. Z. Guo, K. Kobayashi, K. Osaka, K. Kato, M. Takata, and K. Tanigaki, Phys. Rev. B **72**, 144504 (2005).
+* [19] C. W. Chu and H. H. Hill, Science **159**, 1227 (1968).
+* [20] Z. Fisk, A. C. Lawson, B. T. Matthias, and E. Corenzwit, Phys. Lett. **37A**, 251 (1971).
+* [21] K. Nemkovski, P. A. Alekseev, J.-M. Mignot, A. V. Rybina, F. Iga, T. Takabatake, N. Yu Shitsevalova, Yu B. Paderno, V. N. Lazukov, E. V. Nefcodova, N. N. Tiden, and I. P. Sadikov, J. Solid State Chem. **179**, 2895 (2006).
+* [22] I. R. Shein and A. L. Ivanovskii, Phys. Solid State **45**, 1429 (2003).
+* [23] B. Jager, S. Paluch, O. J. Zogal, W. Wolf, P. Herzig, V. B. Filippov, N. Shitsevalova, and Y. Paderno, J. Phys.: Condens. Matter **18**, 2525 (2006).
+* [24] J. Teyssier, A. B. Kuzmenko, D. van der Marel, F. Marsiglio, A. B. Liashenko, N. Shitsevalova, and V. Filippov, Phys. Rev. B **75**, 134503 (2007).
+* [25] H. Werheit, Y. Paderno, V. Filippov, V. Paderno, A. Pietraszko, M. Armbruster, and U. Schwarz, J. Solid State Chem. **179**, 2761 (2006).
+* [26] G. Schell, H. Winter, H. Rietschel, and F. Gompf, Phys. Rev. B **25**, 1589 (1982).
+* [27] V. I. Matkovich and J. Economy, _Boron and Refractory Borides_, edited by V. I. Matkovich (Springer-Verlag, Berlin, 1977), pp. 78-95.
+* [28] A. Czopnik, N. Shitsevalova, A. Krivchikov, V. Pluzhnikov, Y. Paderno, and Y. Onuki, J. Solid State Chem. **177**, 507 (2004).
+* [29] H. Okamura, S. Kimura, H. Shinozaki, T. Nanba, F. Iga, N. Shimizu, and T. Takabatake, Phys. Rev. B **58**, R7496 (1998).
+* [30] A. B. Kuzmenko, Rev. Sci. Instrum. **76**, 083108 (2005).
+* [31] A. Czopnik, N. Shitsevalova, V. Pluzhnikov, A. Krivchikov, Yu. Paderno, and Y. Onuki, J. Phys.: Condens. Matter **17**, 5971 (2005).
+* [32] J. Teyssier (unpublished).
+* [33] Y. Wang, T. Plackowski, and A. Junod, Physica C **355**, 179 (2001).
+* [34] A. Junod, T. Jarlborg, and J. Muller, Phys. Rev. B **27**, 1568 (1983).
+* [35] G. Grimvall, _The Electron-Phonon Interaction in Metals_ (North-Holland, Amsterdam, 1981).
+* [36] P. B. Allen and R. C. Dynes, Phys. Rev. B **12**, 905 (1975).
+* [37] O. Dolgov and S. Shulga, J. Supercond. **8**, 611 (1995).
+* [38] M. I. Tsindlekht, G. I. Leviev, I. Asulin, A. Sharoni, O. Millo, I. Felner, Y. B. Paderno, V. B. Filippov, and M. A. Belogolovskii, Phys. Rev. B **69**, 212508 (2004).
+* [39] D. Daghero, R. S. Gonnelli, G. A. Ummarino, A. Calzolari, V. Dellarocca, V. A. Stepanov, V. B. Filippov, and Y. B. Paderno, Supercond. Sci. Technol. **17**, S250 (2004).
+* [40] R. Khasanov, D. Di Castro, M. Belogolovskii, Y. Paderno, V. Filippov, R. Brutsch, and H. Keller, Phys. Rev. B **72**, 224509 (2005).
+
+ 
+
+# Effect of electron-phonon coupling on the superconducting transition temperature
+
+in dodecaboride superconductors: A comparison of LuB_{12} with ZrB_{12}
+
+J. Teyssier, R. Lortz,* A. Petrovic, and D. van der Marel
+
+Departement de Physique de la Matiere Condensee, Universite de Geneve, Quai Ernest-Ansermet 24, 1211 Geneve 4, Switzerland
+
+V. Filippov and N. Shitsevalova
+
+Institute for Problems of Materials Science, National Academy of Sciences of Ukraine, 252680 Kiev, Ukraine
+
+24 June 2008; revised manuscript received 29 August 2008; published 2 October 2008
+
+###### Abstract
+
+We report a detailed study of specific heat, electrical resistivity, and optical spectroscopy in the superconducting boride LuB_{12} (_T_c = 0.4 K), and compare it to the higher _T_c compound ZrB_{12} (_T_c = 6 K). Both compounds have the same structure based on enclosed metallic Lu or Zr ions in oversized boron cages. The infrared reflectivity and ellipsometry in the visible range allow us to extract the optical conductivity from 6 meV to 4 eV in the normal state from 20 to 280 K. By extracting the superconducting properties, phonon density of states, and electron-phonon coupling function from these measurements, we discuss the important factors governing _T_c and explain the difference between the two compounds. The phonon density of states seems to be insignificantly modified by substitution of Zr with Lu. However, the soft vibrations of the metal ions in boron cages, responsible for the relatively high _T_c in ZrB_{12}, have almost no contribution to the electron-phonon coupling in LuB_{12}.
+
+pacs: DOI: 10.1103/PhysRevB.78.134504 +
+Footnote †: preprint: PHYSICAL REVIEW B **78**, 134504 (2008)
+
+## I Introduction
+
+The discovery of superconductivity in MgB_{2} has stimulated intense research on other superconducting borides. The superconducting borides with the second and third highest transition temperatures are YB_{6} (_T_c = 6-7.5 K) (Ref. [1]) and ZrB_{12} (_T_c = 6 K), respectively: _T_c's of more than one order of magnitude lower are found in LaB_{6} (_T_c < 0.1 K) (Ref. [3]) and LuB_{12} (_T_c = 0.44 K). [4; 5] The two latter compounds belong to the rare-earth boride family, intensively studied because of their wide variety of physical properties: [6] valence fluctuations (SmB_{6} and YbB_{12}), magnetic ordering (CeB_{6} and HoB_{12}), and superconductivity (LaB_{6} and LuB_{12}). Rare-earth hexa- and dodecaborides both exhibit structures based on oversized crystalline cages formed by a covalent 2p boron ions in which metal atoms are enclosed. Such materials are particularly interesting when they become superconducting since they then represent model systems for studying electron-phonon interactions: The phonon mode responsible for superconductivity can be easily extracted from simple thermodynamic and transport experiments. [7; 8] Apart from the borides, superconductors with similar structures are found, for example, among the pyrochlores [9; 10] or the clathrates. [11; 12; 13; 14] Strong covalent bonds between the boron atoms in B_{12} cages lead to a very rigid lattice with a high Debye temperature. The size of the caged atom only has a minor effect on the lattice parameter; however the presence of the metal atoms stabilizes the structure since two valence electrons per metal atom are transferred to the cages in order to compensate the electron deficiency in the boron sublattice. The enclosed ions undergo large vibrations in form of soft Einstein phonons, which have been reported to mediate superconductivity in YB_{6} (Ref. [8]) and ZrB_{12}. [7]
+
+Since large high-quality single crystals are available, the superconductivity in ZrB_{12} and YB_{6} has been object of intense research. The isotope effect in ZrB_{12} for zirconium [15] (\beta^{\infty}-0.32) is much larger than for boron [16] (\beta^{\infty}-0.09), pointing to a large contribution of lattice modes involving Zr atoms to the electron-phonon coupling responsible for superconductivity in ZrB_{12}. The same was concluded from an inversion of specific-heat and resistivity data for YB_{6} (Ref. [8]) and ZrB_{12}, [7] and the coupling was mainly attributed to these low-energy phonon modes. An absence of magnetism in LuB_{12} leads to its use as a nonmagnetic reference for the study of the Kondo insulator YbB_{12}. [17] LuB_{12} and ZrB_{12} band-structure calculations [18; 19; 20] revealed very similar total densities of states at the Fermi level. The lattice dynamics were also studied, showing closely related phonon spectra for both compounds. [21] Considering these similarities in the crystal dynamics and electronic structures, the large difference in the superconducting transition temperature in LaB_{6} and YB_{6}, and ZrB_{12} and LuB_{12} pairs appears incomprehensible. The hexaborides have been studied by Schell _et al._[22] but up until now the dodecaborides have not yet been investigated.
+
+In this paper, we present specific-heat and electrical resistivity experiments used as "thermal spectroscopies" in combination with optical measurements on LuB_{12}. We discuss the electron-phonon coupling strength in this material and compare it to ZrB_{12} for which we recently reported thermodynamic [7] and optical [20] investigations of the Eliashberg function. Our experiments reveal that the electron-phonon coupling of the vibration of the Lu ions in the boron cages is almost absent, in direct contrast with the particularly strong coupling in the higher _T_c compound ZrB_{12}.
+
+## II Techniques
+
+LuB_{12} crystallizes in the UB_{12} type structure work, [23] which can be viewed as a cubic rock salt arrangement of Lu and B_{12} cuboctahedral clusters. The sample preparation process involves synthesizing dodecaborides by a borothermal reduction of the metal oxides in vacuum at 1900 K, compacting these powders into rods and subsequently sintering them, then finally inductive zone melting them in a high-frequency induction zone unit.[24]
+
+The specific heat was measured using a high-precision continuous-heating adiabatic calorimeter between 16 and 300 K, and a relaxation calorimeter in a ^{3}He cryostat in the temperature range between 300 mK and 16 K. The resistivity was measured using a standard four probe technique.
+
+Optical measurements were performed on the (001) surface of a single crystal of diameter 5 mm. In the visible photon energy range (0.8-4 eV), the complex dielectric function \varepsilon(\omega) was determined by directly using spectroscopic ellipsometry at an incident angle of 62^{\circ}. The reflectivity of the sample was measured in the infrared spectral range (6 meV and 0.8 eV) using a Bruker 113 Fourier transform spectrometer. The reflectivity reference was taken by _in situ_ gold evaporation. For the optical experiments the sample was mounted in a helium flow cryostat, allowing measurements from room temperature down to 10 K. Figure 1(b) presents the real and imaginary parts of \varepsilon(\omega) measured by ellipsometry at selected temperatures. The reflectivity measured at low frequencies and extracted from the dielectric constant in the visible range is plotted in Fig. 1(a).
+
+A mismatch of 1.4% is observed between the reflectivity extracted from ellipsometry data in the visible range and the reflectivity measured in the infrared. This mismatch has not been corrected and is revealed as a jump in the optical conductivity (Fig. 2). In order to obtain the optical conductivity in the infrared region, we used a variational routine[26] yielding the Kramers-Kronig consistent dielectric function, which reproduces all the fine details of the infrared reflectivity data while _simultaneously_ fitting to the complex dielectric function in the visible and UV range.
+
+Figure 2 shows the evolution of the optical conductivity with temperature. A Drude-like peak, which narrows when the temperature is reduced, indicates metallic behavior. The dc conductivity is also displayed in this graph. LuB_{12} is a very good conductor with a resistivity at 20 K of \rho_{\rm dc} =2.05 \mu\Omega cm.
+
+## III III. Superconducting properties
+
+The specific heat of LuB_{12} has been previously reported.[5, 27] Figure 3 presents the specific heat C/T of LuB_{12}, in comparison to that of ZrB_{12} reported in Ref. [7], in the temperature range from 350 mK to 10 K on a logarithmic temperature scale. The unit gat is an abbreviation of gram atom ("gram per atom"), which represents one mole of atoms and is thus related to the SI unit mol. 1 gat represents in this particular case 1/13 mol. Sharp jumps indicate the superconducting transition temperatures at 6 (ZrB_{12}) and 0.42 K (LuB_{12}). The upturn below 2 K above T_{c} in LuB_{12} is related to a Schottky anomaly, which we attribute to nuclear moments with a characteristic energy of 0.9 K (indicated by the dotted line).
+
+A magnetic field of 1 T is sufficient to suppress superconductivity. This allows us to analyze the normal-state specific heat in a standard way according to the expansion
+
+Figure 3: (Color online) Total specific heat C/T of LuB_{12} (closed symbols) in the superconducting states (zero-field data) and the normal states (superconductivity has been suppressed by a magnetic field of 1 T) in comparison to ZrB_{12} (open symbols) (Ref. [7]), showing the superconducting transitions at 0.42 and 6 K, respectively. The dotted line models a Schottky contribution that we attribute to nuclear moments. 1 gat represents here 1/13 mol.
+
+Figure 2: (Color online) Temperature dependence of the real part of the optical conductivity. dc values from resistivity measurements are shown in the left panel.
+
+Figure 1: (Color online) (a) Temperature dependence of the reflectivity. The dashed line corresponds to the reflectivity measured by Okamura _et al._ (Ref. [25]). (b) Temperature dependence of the dielectric function measured using ellipsometry. Open symbols represent frequencies where the full temperature dependence is measured.
+
+  \[C_{n}(T\to 0)=\gamma_{n}T+\sum_{n=1}^{3}\beta_{2n+1}T^{2n+1},\]
+
+where the first term is the electronic contribution, with \gamma_{N} =\frac{1}{3}\pi^{2}k_{B}^{2}(1+\lambda_{\rm ep})N(E_{F}), k_{B} is Boltzmann's constant, \lambda_{\rm ep} is the electron-phonon coupling constant, and N(E_{F}) is the band-structure density of states at the Fermi level, including two spin directions [i.e., the electronic density of states (EDOS)]. The second term is the low-temperature expansion of the lattice specific heat, where \beta_{3}=\frac{12}{3}N_{\rm Av}k_{B}\pi^{4}\theta_{D}^{3}(0), with N_{\rm Av} as Avogadro's number and \theta_{D}(0) as the initial Debye temperature. From a fit from 2.5 to 5 K we obtain \gamma_{n} =0.26\pm 0.02 mJ gat^{-1} K^{-2}. This value is slightly smaller than values reported in literature.[5, 27] As electron-electron interactions are weak in this family of borides, the Sommerfeld constant is mainly related to electron-phonon interactions. The Sommerfeld constant corresponds therefore to a dressed density of states at the Fermi level (1+\lambda_{\rm ep})N(E_{F}) =0.11 states eV^{-1} atom^{-1}, which is slightly lower than the value of ZrB_{12}. A comparison with recent band-structure calculations[28] (see Table 1) leaves space for a small renormalization factor of \lambda_{\rm ep} \equiv 0.38 (LuB_{12}) and \lambda_{\rm ep} \equiv 0.38 (ZrB_{12}). Surprisingly, both values are very close to each other. We will discuss this at a later point. Both values are in the weak-coupling regime of superconductivity. We can use the normalized specific-heat jump \Delta C/\gamma_{n}T_{c} as another test of the coupling strength: \Delta C/\gamma_{n}T_{c} =1.14, which is in the weak-coupling limit below the BCS value of 1.43 and lower than the value reported for ZrB_{12} (\Delta C/\gamma_{n}T_{c} =1.66^{6}). Although the latter criterion is not very precise here as our experimental temperature window is not low enough to reveal details about the superconducting order parameter, this is a hint that the coupling constant \lambda_{\rm ep} is smaller in LuB_{12} than in ZrB_{12}. Table 1 gives an overview of the superconducting properties.
+
+## IV Phonon density of states and electron-phonon coupling
+
+It has been shown previously[7, 8, 29] that specific heat can provide information usually taken from inelastic neutron scattering with limited but sufficient accuracy to characterize the phonon density of states (PDOS). In a similar manner, an accurate measurement of the resistivity can provide information on the electron-phonon coupling function usually measured by tunneling experiments.[7, 8, 29] The normal-state specific heat of both compounds has been previously investigated,[7, 8, 27] whereas the resistivity of LuB_{12} has not yet been analyzed in this way. In the following we will directly compare the PDOS of both compounds to study how the enclosed ion in the boron cages influences the PDOS, and electron-phonon coupling function in order to understand the difference in T_{c} between the two compounds. The PDOS obtained from the specific heat is needed as an input to extract the electron-phonon coupling function for transport, which is closely related to the electron-phonon coupling function for superconductivity.
+
+It has been reported previously that the specific heat in the normal state of both compounds shows a rather unusual temperature dependence at low temperatures (Fig. 4).[7, 27] The low-temperature T^{3} regime of the lattice specific heat does not extend beyond a few Kelvin, as shown by the large positive curvature of the normal-state curve in Fig. 3. A simplified method of obtaining the PDOS from specific heat consists of representing F(\omega) by a basis of Einstein modes with constant spacing on a logarithmic frequency axis:
+
+\[F(\omega)=\sum_{k}F_{k}\delta(\omega-\omega_{k}).\] (1)
+
+The corresponding lattice specific heat is given by
+
+\[C_{ph}(T)=3N_{\rm Av}k_{B}\sum_{k}F_{k}\frac{x_{k}^{2}e^{x_{k}}}{(e^{x_{k}}-1 )^{2}},\] (2)
+
+where x_{k}=\hbar\omega_{k}/k_{B}T. The weights F_{k} are found by a least-squares fit of the lattice specific heat. The number of modes is chosen to be small enough to ensure the stability of the solution; we used \omega_{k+1}/\omega_{k}=1.75. A larger number would lead to oscillations in the fit and decrease its quality. Note that we do not try to find the energy of each mode; we rather aim to establish a histogram of the phonon density in pre-defined frequency bins. The robustness of the fit is demonstrated by the rms deviation: <0.4% above 10 K.
+
+Figure 5 illustrates the decomposition of the lattice specific heat into a set of Einstein functions. We use a plot of C/T (Ref. [3]) as, in this representation, contributions related
+
+Figure 4: (Color online) Total specific heat divided by temperature for ZrB_{12} and LuB_{12}.
+
+\begin{table}
+\begin{tabular}{l c c}  & LuB_{12} & ZrB_{12} \\ \hline T_{c} [K] & 0.42\pm 0.05 & 5.96\pm 0.05 \\ \gamma_{n} [mJ/mole k^{2}] & 0.26\pm 0.02 & 0.34\pm 0.02 \\ \Delta C/\gamma_{n}T_{c} & 1.14\pm 0.1 & 1.66\pm 0.1 \\ 2\Delta_{0}/k_{B}T_{c} & 3.2\pm 0.1 & 3.7\pm 0.1 \\ (1+\lambda_{\rm ep})N(E_{F}) [states eV^{-1} atom^{-1}] & 0.110 & 0.144 \\ N(E_{F}) [states eV^{-1} atom^{-1}] a  & 0.078 & 0.104 \\ \lambda_{ep} & 0.41 & 0.38 \\ \end{tabular}
+\end{table}
+Table 1: Superconducting parameters of LuB_{12} in comparison to ZrB_{12}.
+
+  to Einstein phonons appear as a bell-shaped curve.[30] In practice we performed first a fit to this bell-shaped anomaly with a single Einstein mode. Due to the sharp structure of this feature, the energy of this particular mode can be fitted with a high resolution of \sim1% precision. Afterwards we performed the fit with the full set of modes, keeping the energies of the modes constant while adjusting their weights. In the case of ZrB_{12}, a low lying Einstein phonon is visible with a characteristic energy of 170 +- 2 K. This mode is also present in LuB_{12} where the mode is slightly shifted down to 162 +- 2 K in accordance with Ref. [27]. The PDOS obtained in this way is included in Fig. 7. In analogy with other isostructural borides, it consists of a quasi-Debye background with a high characteristic frequency (\sim1000 K), as expected in view of the boron mass, superimposed on a low-energy mode at 14-15 meV, presumably associated with the oscillations of the Lu/Zr atoms in the boron "cages" present in the structure. The nature of the metallic ion only has a minor influence on the PDOS. Replacing Zr by Lu, the low-frequency mode shifts down from 15 to 14 meV and its amplitude increases. This small shift in phonon frequency certainly cannot explain the large difference in T_{c}.
+
+In ZrB_{12} it has been previously demonstrated that the \sim15 meV mode contributes strongly to the electron-phonon coupling and mediates superconductivity.[7] The question eventually arises whether this coupling is also present in LuB_{12}. To investigate this question we follow the same approach as for ZrB_{12} using resistivity and optical spectroscopy as experimental probes.
+
+We analyze the resistivity (Fig. 6) in a similar way as the specific heat. We start from the generalized Bloch-Gruneisen formula (see, e.g., Ref. [31], in particular pp. 212 and 219):
+
+\[\rho(T)=\rho(0)+\frac{4\pi m^{*}}{ne^{2}}\int_{0}^{a_{\rm max}}\alpha_{\rm tr} ^{2}F(\omega)\frac{xe^{x}}{(e^{x}-1)^{2}}d\omega,\] (3)
+
+where x = \omega/T and \alpha_{\rm tr}^{2}F(\omega) is the electron-phonon "transport coupling function" or transport Eliashberg function. In the restricted Bloch-Gruneisen approach, one would have \alpha_{\rm tr}^{2}F(\omega)\propto\omega^{4}, and as a consequence \rho(T)-\rho(0)\propto T^{5}, but deviations from the Debye model, complications with phonon polarizations, and Umklapp processes would not justify this simplification beyond the low-temperature continuum limit. Using a decomposition into Einstein modes similar to Eq. (2),
+
+\[\alpha_{\rm tr}^{2}F(\omega)=\sum_{k}\alpha_{k}^{2}F_{k}\delta(\omega-\omega_{ k}),\] (4)
+
+we obtain the discrete version of Eq. (3):
+
+\[\rho(T)=\rho(0)+\frac{4\pi m^{*}}{ne^{2}}\sum_{k}\alpha_{k}^{2}F_{k}\frac{x_{k }e^{x_{k}}}{(e^{x_{k}}-1)^{2}},\] (5)
+
+where the fitting parameters are the \alpha_{k}^{2}F_{k} coefficients. The residual resistivity \rho(0) = 2.05 \mu\Omega can was determined separately. Figure 6 shows the decomposition of the total resistivity into Einstein components. The electron-phonon transport coupling function \alpha_{\rm tr}^{2}F(\omega) is closely related to the isotropic Eliashberg function \alpha^{2}F(\omega), which governs superconductivity.[32] In ZrB_{12} the main component arises from modes with energies near 170 K, which results in a pronounced peak in \alpha_{\rm tr}^{2}F(\omega) at 170 K (\sim15 meV) (Fig. 7).
+
+Figure 5: (Color online) Lattice specific heat divided by T^{3} of ZrB_{12} and LuB_{12} showing its decomposition into Einstein terms. Our model uses a set of Einstein functions where characteristic temperatures are equally spaced on a logarithmic scale.
+
+Figure 6: (Color online) Total resistivity divided by temperature in ZrB_{12} (Ref. [7]) (upper panel) and LuB_{12} (lower panel), showing the decomposition into Einstein terms and the residual term. The largest Einstein component in ZrB_{12} is centered on \omega=170 K. The corresponding mode in LuB_{12} at \omega=162 K only shows a small amplitude.
+
+  Compared to other modes, the \sim170 K region in ZrB_{12} is weighted much more heavily in the \alpha_{u}^{2}F(\omega) function than in the PDOS F(\omega). In case of LuB_{12} the low-frequency mode that is shifted down to 162 K (\sim14 meV) shows a peak in \alpha_{u}^{2}F(\omega), which is four times smaller than that of ZrB_{12}. The electron-phonon coupling parameter relevant for transport \lambda_{u}=\,2\,\,\,\,\,\,\,\,\,\,\,  quence, the direct extraction of the transport electron-phonon coupling function from optical data, as for ZrB_{12}, would be too imprecise. To nevertheless incorporate the electron-phonon interaction, we inserted the \alpha_{\rm tr}^{2}F(\Omega) obtained from resistivity (Fig. 7) into Eq. (7). In the case of ZrB_{12}, an additional electron-boson interaction was necessary to reproduce the experimental data. Parameters relative to the free carriers in Eq. (6) (used in the fit) are given in Table 2. The plasma frequency calculated using LDA is also presented and a similar deviation of about 15% is observed for both compounds.
+
+As for a normal metal, the plasma frequency is slightly increased upon cooling the system because of the narrowing of the Drude peak. It has been shown that the plasma frequencies of these two dodecaborides follow the opposite trend. Even if these materials are extremely good metals in the normal state, the delocalization of the metal ions within the cages (demonstrated by using x-ray diffraction [21]) reduces the number of charge carriers. This decrease in the plasma frequency has been quantitatively related to the delocalization effect through band-structure calculations.
+
+## V V. Discussion and Conclusions
+
+In order to understand why the T_{c} of LuB_{12} (T_{c}=0.4 K) is so low compared to that of ZrB_{12} (T_{c}=6 K), we have performed a comparative analysis of specific-heat, electrical resistivity, and optical data. The Sommerfeld constant points toward a dressed density of states (1+\lambda_{\rm ep})N(E_{F}) =0.11 states eV^{-1} atom^{-1}, which is slightly lower than the value of 0.144 states eV^{-1} atom^{-1} of ZrB_{12}. For the electron-phonon coupling parameter \lambda_{\rm ep} we extracted surprisingly similar values of \lambda_{\rm ep}\cong 0.41 for LuB_{12} and \lambda_{\rm ep}\equiv 0.38 for ZrB_{12}, both lying in the weak-coupling regime of superconductivity. These values are very close to the \lambda_{\rm tr} values \lambda_{\rm tr} =\Sigma_{\rm\lambda}u_{\rm tr,\rm\rm\lambda}=0.42 for ZrB_{12} and \lambda_{\rm tr}=\Sigma_{\rm\lambda}u_{\rm tr,\rm\rm\lambda}=0.29 for LuB_{12} obtained from the resistivity. The normalized specific-heat jump \Delta C/\gamma_{\rm tr}T_{c} (which is another measure of the coupling strength) is however clearly smaller in LuB_{12} compared to ZrB_{12} (see Table 1), therefore indicating that a weaker electron-phonon coupling may nevertheless be the main reason for the large difference in T_{c} between the two compounds. As shown previously [27, 2] both compounds show a pronounced peak in the PDOS associated with the vibration of the enclosed metal atoms in the cagelike boron host. In ZrB_{12} this Einstein phonon is centered at 170 K; replacing Zr by Lu shifts the mode down to 162 K. This and the only marginally lower density of states at the Fermi level cannot only account for the large change of T_{c} from 6 K down to 0.4 K. We have previously reported that the Einstein phonon at 170 K in ZrB_{12} shows a strong peak in the transport electron-phonon coupling function \alpha_{\rm tr}^{2}F(\omega). \alpha_{\rm tr}^{2}F(\omega) is closely related to the isotropic Eliashberg function for superconductivity \alpha^{2}F(\omega), and a strong peak in \alpha_{\rm tr}^{2}F(\omega) therefore indicates the phonon mode which provides most of the superconducting coupling and determines the T_{c}. In the case of LuB_{12} we find that electron-phonon coupling to the corresponding mode at 162 K is nearly absent: the \alpha_{\rm tr}^{2}F(\omega) only shows a tiny peak at this energy.
+
+The smallness of the electron-phonon coupling constant in LuB_{12} is confirmed by the optical spectroscopy, which shows that the \alpha_{\rm tr}^{2}F(\omega) function derived from thermodynamic and transport experiments is entirely realistic.
+
+The main reason for the lower T_{c} in LuB_{12} is thus the weaker coupling of the Einstein phonon related to the vibration of the enclosed ion to the conduction electrons. The origin of this weaker electron-phonon interaction remains unclear but may be found in the different "volume filling factors" of the boron cages. This factor, which we define as the ratio between the volumes of the caged ions to the total volume of the boron cages, tunes the hybridization of the Lu/Zr electronic orbitals with those of the boron cage atoms and therefore strongly influences the electron-phonon interaction. The optical experiments furthermore reveal an abnormal temperature dependence of the plasma frequency in LuB_{12}. Such an effect has already been observed in ZrB_{12} and was attributed to a delocalization of the Zr ion in the boron cages [20]. The hybridization of the orbitals of the caged atoms with those of the boron cages would react very sensitively to such a delocalization. This may result in a stronger suppression of charge carriers at the Fermi level at low temperatures in LuB_{12}.
+
+###### Acknowledgements.
+
+ R.L. thanks A. Junod for sharing his knowledge about calorimetry and its analysis. This work is supported by the Swiss National Science Foundation through Grant No. 200020-109588 and the National Center of Competence in Research (NCCR) "Materials with Novel Electronic Properties-MaNEP."
+
+\begin{table}
+\begin{tabular}{l l l}  & LuB_{12} & ZrB_{12} \\ \hline \Omega_{p} [eV] & 4.9 & 5.5 \\ \Omega_{p} LDA [eV]1  & 5.7 (+16\%) & 6.3 (+14\%) \\ \gamma_{\rm imp} [meV] & 31 & 33 \\ \end{tabular}
+\end{table}
+Table 2: Fitting parameters of the low-frequency component of our optical spectra related to the free carrier term in Eq. (6). A good correlation is observed with the plasma frequency predicted by local-density approximation (LDA).
+
+  * [4] Corresponding author. Present address: Department of Physics, The Hong Kong University of Science & Technology, Clear Water Bay, Kowloon, Hong Kong. Iortz@ust.hk
+* [5]_Gmelin Handbook of Inorganic Chemistry: Sc, Y, La-Lu Rare Earth Elements_, Compounds with Boron, System Number 39 Vol. C11a, edited by H. Bergman _et al._ (Springer-Verlag, Berlin, 1990).
+* [6] B. T. Matthias, T. H. Geballe, K. Andres, E. Corenzwit, G. W. Hull, and J. P. Maita, Science **159**, 530 (1968).
+* [7] R. J. Sobczak and M. J. Sienko, J. Less-Common Met. **67**, 167 (1979).
+* [8] I. Bat'ko, M. Bat'kova, K. Flachbart, V. B. Filippov, Y. B. Paderno, N. Y. Shicevalova, and T. Wagner, J. Alloys Compd. **217**, L1 (1995).
+* [9] K. Flachbart, S. Gabani, K. Gloos, M. Meissner, M. Opel, Y. Paderno, V. Pavlik, P. Samuely, E. Schuberth, N. Shitsevalova, K. Siemensmeyer, and P. Szabo, J. Low Temp. Phys. **140**, 339 (2005).
+* [10] J. Etourneau and P. Hagenmuller, Philos. Mag. B **52**, 589 (1985).
+* [11] R. Lortz, Y. Wang, S. Abe, C. Meingast, Y. B. Paderno, V. Filippov, and A. Junod, Phys. Rev. B **72**, 024547 (2005).
+* [12] R. Lortz, Y. Wang, U. Tutsch, S. Abe, C. Meingast, P. Popovich, W. Knafo, N. Shitsevalova, Y. B. Paderno, and A. Junod, Phys. Rev. B **73**, 024512 (2006).
+* [13] M. Bruhwiler, S. M. Kazakov, N. D. Zhigadlo, J. Karpinski, and B. Batlogg, Phys. Rev. B **70**, 020503(R) (2004).
+* [14] Z. Hiroi, S. Yonezawa, Y. Nagao, and J. Yamaura, Phys. Rev. B **76**, 014523 (2007).
+* [15] H. Kawaji, H. O. Horie, S. Yamanaka, and M. Ishikawa, Phys. Rev. Lett. **74**, 1427 (1995).
+* [16] S. Yamanaka, E. Enishi, H. Fukuoka, and M. Yasukawa, Inorg. Chem. **39**, 56 (2000).
+* [17] R. Viennois, P. Toullemonde, C. Paulsen, and A. San Miguel, J. Phys.: Condens. Matter **17**, L311 (2005).
+* [18] T. Rachi, H. Yoshino, R. Kumashiro, M. Kitajima, K. Kobayashi, K. Yokogawa, K. Murata, N. Kimura, H. Aoki, H. Fukuoka, S. Yamanaka, H. Shimotani, T. Takenobu, Y. Iwasa, T. Sasaki, N. Kobayashi, Y. Miyazaki, K. Saito, F. Z. Guo, K. Kobayashi, K. Osaka, K. Kato, M. Takata, and K. Tanigaki, Phys. Rev. B **72**, 144504 (2005).
+* [19] C. W. Chu and H. H. Hill, Science **159**, 1227 (1968).
+* [20] Z. Fisk, A. C. Lawson, B. T. Matthias, and E. Corenzwit, Phys. Lett. **37A**, 251 (1971).
+* [21] K. Nemkovski, P. A. Alekseev, J.-M. Mignot, A. V. Rybina, F. Iga, T. Takabatake, N. Yu Shitsevalova, Yu B. Paderno, V. N. Lazukov, E. V. Nefcodova, N. N. Tiden, and I. P. Sadikov, J. Solid State Chem. **179**, 2895 (2006).
+* [22] I. R. Shein and A. L. Ivanovskii, Phys. Solid State **45**, 1429 (2003).
+* [23] B. Jager, S. Paluch, O. J. Zogal, W. Wolf, P. Herzig, V. B. Filippov, N. Shitsevalova, and Y. Paderno, J. Phys.: Condens. Matter **18**, 2525 (2006).
+* [24] J. Teyssier, A. B. Kuzmenko, D. van der Marel, F. Marsiglio, A. B. Liashenko, N. Shitsevalova, and V. Filippov, Phys. Rev. B **75**, 134503 (2007).
+* [25] H. Werheit, Y. Paderno, V. Filippov, V. Paderno, A. Pietraszko, M. Armbruster, and U. Schwarz, J. Solid State Chem. **179**, 2761 (2006).
+* [26] G. Schell, H. Winter, H. Rietschel, and F. Gompf, Phys. Rev. B **25**, 1589 (1982).
+* [27] V. I. Matkovich and J. Economy, _Boron and Refractory Borides_, edited by V. I. Matkovich (Springer-Verlag, Berlin, 1977), pp. 78-95.
+* [28] A. Czopnik, N. Shitsevalova, A. Krivchikov, V. Pluzhnikov, Y. Paderno, and Y. Onuki, J. Solid State Chem. **177**, 507 (2004).
+* [29] H. Okamura, S. Kimura, H. Shinozaki, T. Nanba, F. Iga, N. Shimizu, and T. Takabatake, Phys. Rev. B **58**, R7496 (1998).
+* [30] A. B. Kuzmenko, Rev. Sci. Instrum. **76**, 083108 (2005).
+* [31] A. Czopnik, N. Shitsevalova, V. Pluzhnikov, A. Krivchikov, Yu. Paderno, and Y. Onuki, J. Phys.: Condens. Matter **17**, 5971 (2005).
+* [32] J. Teyssier (unpublished).
+* [33] Y. Wang, T. Plackowski, and A. Junod, Physica C **355**, 179 (2001).
+* [34] A. Junod, T. Jarlborg, and J. Muller, Phys. Rev. B **27**, 1568 (1983).
+* [35] G. Grimvall, _The Electron-Phonon Interaction in Metals_ (North-Holland, Amsterdam, 1981).
+* [36] P. B. Allen and R. C. Dynes, Phys. Rev. B **12**, 905 (1975).
+* [37] O. Dolgov and S. Shulga, J. Supercond. **8**, 611 (1995).
+* [38] M. I. Tsindlekht, G. I. Leviev, I. Asulin, A. Sharoni, O. Millo, I. Felner, Y. B. Paderno, V. B. Filippov, and M. A. Belogolovskii, Phys. Rev. B **69**, 212508 (2004).
+* [39] D. Daghero, R. S. Gonnelli, G. A. Ummarino, A. Calzolari, V. Dellarocca, V. A. Stepanov, V. B. Filippov, and Y. B. Paderno, Supercond. Sci. Technol. **17**, S250 (2004).
+* [40] R. Khasanov, D. Di Castro, M. Belogolovskii, Y. Paderno, V. Filippov, R. Brutsch, and H. Keller, Phys. Rev. B **72**, 224509 (2005).
+
+ 

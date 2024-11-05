@@ -1,0 +1,146 @@
+
+
+# Electron-phonon coupling in \(M_{n+1}x_{n}\)-phase carbides
+
+S. E. Lofland, J. D. Hettinger, T. Meehan, A. Bryan, and P. Finkel
+
+Department of Physics and Astronomy, Rowan University, Glassboro, New Jersey 08028, USA
+
+S. Gupta and M. W. Barsoum
+
+Department of Materials Science and Engineering, Drexel University, Philadelphia, Pennsylvania 19104, USA
+
+G. Hug
+
+LEM, ONERA-CNRS, Chatillon, France
+
+###### Abstract
+
+We have investigated the electrical resistivity, magnetotransport, and heat capacity in several compounds of the type \(M_{n+1}Ac_{n}\). The temperature dependence of the electrical resistivity and the electronic contribution to the heat capacity of this family of materials are strongly influenced by electron-phonon coupling. We have extracted two independent values for the electron-phonon coupling parameter \(\lambda\) from the experimental data and find consistency between the two sets. We use \(\lambda\) to predict the superconducting transition temperature \(T_{c}\) of these materials. In agreement with those predictions, Nb\({}_{2}\)AsC has a superconducting transition near 2 K.
+
+2006 10.1103/PhysRevB.74.174501 174501 10.1103/PhysRevB.74.174501 Compounds of the form \(M_{n+1}AX_{n}\), where \(M\) is a transition metal, \(A\) is an \(A\)-group element, and \(X\) is \(C\) or \(N\) (\(MAX\) phases), have been given much recent interest due to their refractory properties.[1, 2, 3] Yet they also have an unusual mixture of mechanical[4, 5] and electrical properties[6, 7] that have implications for both application and pure science. For one, some of these compounds show a nearly zero Seebeck coefficient[6, 7] over a very large range of temperatures and some of them are superconductors.[8] Their electronic properties, including excellent conductivities, which are comparable to or higher than those of the constituent transition metals, would not have been anticipated. We have recently been able to synthesize many different \(MAX\) phases, and we now have sufficient data for a systematic investigation of the electronic properties. In what follows, we present a simple unified picture to describe those properties.
+
+Bulk polycrystalline samples of Hf\({}_{2}\)InC,[9] Nb\({}_{2}\)SnC,[10] and Nb\({}_{2}\)AsC (Ref. [11]) were made as described previously. V\({}_{2}\)AsC was synthesized by the same method as used for Nb\({}_{2}\)AsC.[11] To prepare the Ti\({}_{2}\)GeC sample, stoichiometric amounts of Ti (99.5% pure with \(-\)325 mesh) Ge (99% pure with \(-\)300 mesh) and graphite (99.999% pure, \(-\)100 mesh) powders (all acquired from Alfa Aesar, Ward Hill, MA) were ball milled for 1 h, sealed under mechanical vacuum in borosilicate glass tubes which in turn were collapsed at 650 \({}^{\circ}\)C and prereacted for 10 h at that temperature. The prereacted sealed powders were then placed in a hot isostatic press (HIP), heated at a rate of 10 \({}^{\circ}\)C/min to 650 \({}^{\circ}\)C and then to 750 \({}^{\circ}\)C at 5 \({}^{\circ}\)C/min. At 750 \({}^{\circ}\)C the HIP was pressurized with Ar gas to a pressure of \(\sim\)70 MPa. The HIP was then heated to 1600 \({}^{\circ}\)C, at which time the pressure was \(\approx\) 100 MPa. The sample was held at 1600 \({}^{\circ}\)C for 8 h.
+
+Heat capacity, magnetotransport, and ac susceptibility measurements were performed with a quantum Design Physical Properties Measurement System. Heat capacity data were taken in the temperature range 2\(-\)300 K. Magnetotransport measurements were carried out over the temperature range 5\(-\)300 K in magnetic fields up to 9 T with a four-probe configuration described previously[7] with currents up to 100 mA for samples of average dimensions of 1\(\times\) 2\(\times\) 15 mm\({}^{3}\). ac susceptibility was measured between 2 and 10 K for amplitudes of 1 Oe at a frequency of 1 kHz.
+
+We calculated the density of states at the Fermi level \(N(E_{F})\) using the procedure outlined in Ref. [12]. Briefly, the ground states were calculated in the framework of the full potential augmented plane wave method using the wien2k code. We performed a full optimization of all the free parameters of the space group, i.e., unit cell volume, \(c/a\), and \(z_{M}\), the vertical position of the transition metal. More specifically, we first searched for a minimum of the total energy with respect to the volume. Then keeping the latter constant, we searched for a minimum of the total energy by varying the \(c/a\) ratio. A similar procedure is then reapplied to optimize \(z_{M}\). The whole process was then iterated until the total energy was minimized with respect to all three parameters simultaneously. Typically three iterations were sufficient to complete the process.
+
+The electrical transport data for Hf\({}_{2}\)InC are shown in Fig. 1(a). The inset of Fig. 1(a) shows the measured voltage as a function of magnetic field which can be separated into terms add and even upon magnetic field reversal. Data for Ti\({}_{2}\)GeC, V\({}_{2}\)AsC, and Nb\({}_{2}\)SnC were similar and are not shown; however, the temperature dependence of the resistivity \(\rho\) of Nb\({}_{2}\)AsC is shown in Fig. 1(b) where there was the onset of superconductivity at 10 K. This transition was found to be quite broad and was incomplete down to 2 K, and there was no anomaly in the heat capacity (Fig. 2) above 2 K. However, the apparent diamagnetic response observed in the ac susceptibility (Fig. 2, inset) suggested that there may be a superconducting transition with an onset near 2 K.
+
+The temperature dependent resistivity of a metal near room temperature is primarily a result of charge carrier-phonon interactions. However, the measured resistivity value is not the intrinsic resistivity at a given temperature but instead depends on varying defect density, phase purity, and microstructure. The residual resistivity \(\rho_{0}\), measured at 5 K, can be subtracted from the overall resistivity to allow an estimate of the intrinsic room temperature resistivity, \(\rho_{in}\), assuming Matthiessen's rule applies (where we assume \(\rho_{0}\) is roughly constant as a function of temperature). The magne totransport data were analyzed to determine the Hall coefficient and magnetoresistance values which were then used [13, 14] to calculate the electron carrier density \(n\) in a two-band model. The \(n\) values were effectively identical to the hole concentration. These results are summarized in Table 1.
+
+Specific heat \(c_{p}\) data were analyzed in the usual fashion with the expression
+
+\[\frac{c_{p}}{T}=\gamma+\beta T^{2},\] (1)
+
+where \(\gamma\) and \(\beta\) are the electronic and phonon contributions, respectively, to the low-temperature specific heat. The Debye temperature \(\theta_{D}\) can be determined from the phonon contribution to the specific heat via
+
+\[\theta_{D}^{\lambda}=\frac{12\pi^{4}Rx}{5\beta},\] (2)
+
+where \(x\) is the number of atoms per unit cell and \(R\) the universal gas constant. The measured values for \(\theta_{D}\), \(\gamma\), and \(n\) averaged over all reported values as well as the average reported band structure electronic density of states \(N_{\rm bs}(E_{F})\) are also listed in Table 1.
+
+From these results, we can extract the electron-phonon coupling constant \(\lambda\). To do this, we follow work done in the 1960s and 1970s to determine \(\lambda\) in pure transition metals and their alloys to predict their superconducting critical temperature \(T_{c}\). McMillan [28] and Hopfield [29] factorized \(\lambda\) with
+
+\[\lambda=\frac{\eta}{M\langle\omega^{2}\rangle},\] (3)
+
+where \(\eta\) is the McMillan-Hopfield electron-phonon parameter, \(M\) the atomic mass, and \(\langle\omega^{2}\rangle\) the average of the squared phonon frequencies. \(\lambda\) can be determined by comparing \(N_{\rm bs}(E_{F})\) to the measured value of \(\gamma\)[28], which has been renormalized from the free-electron value by the electron-phonon interaction:
+
+\[N_{\rm bs}(E_{F})=\left(\frac{1}{1+\lambda}\right)\frac{3\gamma}{2\pi^{2}k_{B }^{2}}.\] (4)
+
+These values for the electron-phonon coupling factor determined from heat capacity measurements \(\lambda_{cp}\) are listed in the first column of Table 2. From the scatter in the measured \(\gamma\) values and calculated \(N_{\rm bs}(E_{F})\) values, the estimated error in \(\lambda_{cp}\) is around 15%.
+
+Later Kulikov [30] showed that the phonon-limited resistivity of transition metals can be considered as the product of
+
+Figure 2: Temperature dependence of heat capacity of Nb\({}_{2}\)AsC. There is no anomaly in the 2–10 K. The inset shows the ac susceptibility, suggesting that the true onset of superconductivity takes place just below 2 K.
+
+Figure 1: (a) Temperature dependence of resistivity of Hf\({}_{2}\)InC. The inset shows the field dependence from which the magnetoresistance and Hall coefficient were calculated, yielding a Hall value of \(2.8\times 10^{-10}\) m\({}^{3}\)/C at 5 K. (b) Temperature dependence of resistivity of Nb\({}_{2}\)AsC, which shows the onset of a superconducting transition.
+
+  two factors, one related to the phonon spectrum and the other related to the electronic structure. Within that framework, \(\rho\) can be written as
+
+\[\rho = \frac{\pi}{3}\frac{N(E_{F})}{nM}\eta\frac{1}{k_{B}\theta_{D}}\bigg{(}\frac{T}{\theta_{D}}\bigg{)}^{5}J_{5}(\theta_{D}/T),\]
+
+where
+
+\[J_{5}(\theta_{D}/T) = \int_{0}^{\theta_{D}/T}\frac{z^{5}dz}{(e^{z}-1)(1-e^{-z})}.\]
+
+This model yields the same functional temperature dependence of the resistivity as the Bloch-Gruneisen model appropriate to alkali metals. Assuming that \(\lambda\) can be factorized and that \(\eta\) and \(\langle M\omega^{2}\rangle\) can be averaged over the constituent elements as has been done in binary compounds,[31] one can calculate \(\lambda\) from \(\rho\), using \(\langle\omega^{2}\rangle \approx \theta_{D}^{2}/2\). These values for the electron-phonon coupling \(\lambda_{p}\) are listed in the second column of Table 2. From the error in determining \(n\) and the range of values found for \(\theta_{D}\), the estimated error in \(\lambda_{p}\) is roughly 25%.
+
+The two \(\lambda\) values in Table 2 agree reasonably well. The differences between the two columns are comparable to the differences between the \(\lambda\) values determined from experimental numbers by McMillan[28] and self-consistent band-structure calculations by Papaconstantopoulos _et al.[32]_ on transition metals. In spite of the fact that the _MAX_ phase materials are layered hexagonal structures (not cubicity) and that there are several low-lying optical phonons,[33, 34] the agreement is remarkable. Typically one would expect in this case that \(\theta_{D}^{2}\) is a poor approximation to \(\langle\omega^{2}\rangle\). However, in spite of the anisotropic structure, the electrical transport properties are found to be surprisingly isotropic,[35] allowing the use of this simple approximation. Since \(\lambda_{p}\) directly depends on \(n\), the agreement between values \(\lambda_{cp}\) confirms that the carrier concentration values are also reasonable.
+
+For comparison, Hailov _et al.[26]_ have calculated \(\eta\) for Nb\({}_{2}\)AsC and V\({}_{2}\)AsC, yielding values of 4.0 and 4.4 eV/A
+
+\begin{table}
+\begin{tabular}{c c c} Compound & \(\lambda_{cp}\) & \(\lambda_{p}\) \\ Ti\({}_{2}\)AlC & 0.47 & 0.39 \\ Ti\({}_{3}\)AlC\({}_{2}\) & 0.11 & 0.61 \\ Ti\({}_{3}\)SiC\({}_{2}\) & 0.14 & 0.94 \\ Ti\({}_{2}\)GeC & 0.14 & 0.48 \\ Ti\({}_{3}\)GeC\({}_{2}\) & 0.23 & 0.22 \\ V\({}_{2}\)AlC & 0.41 & 0.49 \\ V\({}_{2}\)AsC & 1.2 & 0.58 \\ Cr\({}_{2}\)AlC & 1.2 & 0.62 \\ Nb\({}_{2}\)AlC & 0.33 & 0.46 \\ Nb\({}_{2}\)SnC & 0.31 & 0.22 \\ Nb\({}_{2}\)AsC & 0.33 & 0.34 \\ Hf\({}_{2}\)InC & 0.45 & 0.14 \\ \end{tabular}
+\end{table}
+Table 2: Values of the electron-phonon coupling constant determined from heat capacity \(\lambda_{cp}\) and resistivity \(\lambda_{p}\) for several _MAX_ phase materials.
+
+\begin{table}
+\begin{tabular}{c c c c c c}  & Debye temperature & Average electronic heat capacity contribution & Average calculated density of states (states/eV unit cell) & Intrinsic room temperature resistivity (10\({}^{-8}\)\(\Omega\) m) & Electron carrier density (10\({}^{27}\)/m\({}^{3}\)) \\ Compound & (K) & \(\gamma\) (mJ/mol K\({}^{2}\)) & & 3.15,d  & 28e  & 1.0e  \\ Ti\({}_{3}\)AlC\({}_{2}\) & 760f  & 4.5f  & 3.4g,h  & 18f  & 1.1f  \\ Ti\({}_{3}\)SiC\({}_{2}\) & 715f  & 6.3f,j,k  & 4.7g,h  & 21m  & 2.3m  \\ Ti\({}_{2}\)GeC & 625m  & 4.8n  & 3.6o  & 30n  & 1.3n  \\ Ti\({}_{3}\)GeC\({}_{2}\) & 670m  & 6.4m,p  & 4.5h  & 21m  & 1.4m  \\ V\({}_{2}\)AlC & 658a  & 9.1a,b  & 5.5a,c  & 20e  & 2.7e  \\ V\({}_{2}\)AsC & 444a  & 11.7a  & 4.5a,n  & 65a  & 1.9a  \\ Cr\({}_{2}\)AlC & 673a  & 16.2a,b  & 6.2a,c  & 60e  & 1.2e  \\ Nb\({}_{2}\)AlC & 540a  & 6.0a  & 3.8a  & 20e  & 2.7e  \\ Nb\({}_{2}\)SnC & 380a  & 5.7a  & 3.7a  & 30n  & 1.8a  \\ Nb\({}_{2}\)AsC & 520a  & 4.7a  & 3.0a,g  & 120a  & 0.6a  \\ Hf\({}_{2}\)InC & 330a  & 3.4a  & 2.0n  & 35a  & 0.7a  \\ \end{tabular}
+\end{table}
+Table 1: Electronic parameters of MAX phase materials.
+
+  per unit cell, respectively, from band-structure calculations and the Gaspari-Gyorffy theory. Using the same approximations as above, one finds \(\lambda\) values of 0.031 and 0.067 for Nb\({}_{2}\)AsC and V\({}_{2}\)AsC, respectively. Clearly, these theoretical values are too small to account for either the experimental results on heat capacity or the resistivity. However, this may be related to the aforementioned limitations in the approximations used to estimate \(\lambda\).
+
+As suggested by Dynes and Varma for transition metals,[36] the relationship between the average \(\lambda\) values as a function of \(N_{\text{bs}}(E_{F})\) should be roughly linear, as observed (Fig. 3). The majority of the differences in the electrical transport of these materials appears to be a result of the variation in \(\theta_{D}\) and \(N_{\text{bs}}(E_{F})\), the former of which depends primarily on the mass of the \(M\) and \(A\) ions[33] while the latter is mostly a function of the transition metal ion only.[15]
+
+From \(\lambda\), one can use the McMillan formula[16] to calculate \(T_{c}\):
+
+\[T_{c}=\frac{\theta_{D}}{1.45}\exp\left[-\frac{1.04(1+\lambda)}{\lambda-\mu^{*} (1+0.62\lambda)}\right],\] (7)
+
+where \(\mu^{*}\) is the Coulomb pseudopotential. Bennemann and Garland[37] found an empirical relation for \(\mu^{*}\):
+
+\[\mu^{*}=0.26\frac{N_{\text{bs}}(E_{F})}{1+N_{\text{bs}}(E_{F})},\] (8)
+
+where \(N_{\text{bs}}(E_{F})\) is expressed in states/eV atom. The calculated values of \(T_{c}\) are, for the most part, less than 1 K, as observed, which is not surprising given that most of the compounds studied here have 4.5 electrons/atom or less, whereas maxima in \(T_{c}\) should occur at 4.7 and 6.5 electrons/atom according to the Matthias' rules.[38] In fact, with the notable exception of Nb\({}_{3}\)SC,[8] which has an electron count of 5.0/atom, the known \(T_{c}\)s of all \(MAX\) phases are less than 2 K. On the other hand, the rather large \(\lambda\) value for Cr\({}_{2}\)AlC and V\({}_{2}\)AsC with electron counts of 4.75/atom would suggest a larger \(T_{c}\) value, which is not observed. However, Schneider _et al.[39]_ have calculated the energies of the magnetic states of Cr\({}_{2}\)AlC and found that there was little difference between that of the paramagnetic and antiferromagnetic states. Spin fluctuations may lead to an enhanced \(\lambda\) value as well as the suppression of superconductivity.
+
+In conclusion, we have investigated the electronic properties of a large set of \(MAX\) phase materials. The electron carrier concentrations are in the range of 1\(-\)2\(\times\)10\({}^{27}\)/m\({}^{3}\). The electrical resistivity, heat capacity, \(\gamma\), and the superconducting properties can be adequately described by electron-phonon coupling. The \(\lambda\) values determined from two independent methods are reasonably consistent.
+
+This work was supported by the NSF Grant No. DMR 0503711.
+
+## References
+
+* [1] D. Chen, K. Shirato, M. W. Barsoum, T. El-Raghy, and R. O. Ritchie, J. Am. Ceram. Soc. **84**, 2914 (2001).
+* [2] M. W. Barsoum, C. J. Rawn, T. El-Raghy, A. T. Procopio, W. D. Porter, H. Wang, and C. R. Hubbard, J. Appl. Phys. **83**, 825 (2000).
+* [3] M. W. Barsoum, D. Brodkin, and T. El-Raghy, Scr. Mater. **36**, 535 (1997).
+* [4] M. W. Barsoum, M. Radovic, T. Zhen, P. Finkel, and S. R. Kalidindi, Phys. Rev. Lett. **94**, 085501 (2005).
+* [5] M. W. Barsoum, A. Murugaiah, S. R. Kalidindi, and T. Zhen, Phys. Rev. Lett. **92**, 255508 (2004).
+* [6] H. I. Yoo, M. W. Barsoum, and T. El-Raghy, Nature (London) **407**, 581 (2000).
+* [7] P. Finkel, J. D. Hettinger, S. E. Lofland, M. W. Barsoum, and T. El-Raghy, Phys. Rev. B **65**, 035113 (2001).
+* [8] K. Sakamaki, H. Wada, H. Nozaki, Y. Onuki, and M. Kawai, Solid State Commun. **112**, 323 (1999).
+* [9] M. W. Barsoum, J. Golczewski, H. J. Siefert, and F. Aldinger, J. Alloys Compd. **340**, 173 (2002).
+* [10] T. El-Raghy, S. Chakraborty, and M. W. Barsoum, J. Eur. Ceram. Soc. **20**, 2619 (2000).
+* [11] R. S. Kumar, S. Rekhti, A. L. Cornelius, and M. W. Barsoum, Appl. Phys. Lett. **86**, 111904 (2005).
+* [12] G. Hug and E. Fries, Phys. Rev. B **65**, 113104 (2002).
+* [13] P. Finkel, B. Seaman, K. Harrell, J. Palma, J. D. Hettinger, S. E. Lofland, A. Ganguly, M. W. Barsoum, Z. Sun, Sa Li, and R. Ahuja, Phys. Rev. B **70**, 085104 (2004).
+* [14] J. D. Hettinger, S. E. Lofland, P. Finkel, T. Meehan, J. Palma, K. Harrell, S. Gupta, A. Ganguly, T. El-Raghy, and M. W. Barsoum, Phys. Rev. B **72**, 115120 (2005).
+* [15] S. E. Lofland, J. D. Hettinger, K. Harrell, P. Finkel, S. Gupta, M. W. Barsoum, and G. Hug, Appl. Phys. Lett. **84**, 508 (2004).
+
+Figure 3: Electron-phonon coupling as a function of the normalized density of states. The line is a guide to the eye.
+
+  * [16] M. K. Drulis, H. Drulis, S. Gupta, and M. W. Barsoum (unpublished).
+* [17] Z. Sun, R. Ahuja, S. Li, and J. M. Schneider, Appl. Phys. Lett. **83**, 899 (2003).
+* [18] J. C. Ho, H. H. Hamdeh, M. W. Barsoum, and T. El-Raghy, J. Appl. Phys. **86**, 3609 (1999).
+* [19] A. Ivanovskii and A. Medvedeva, Mendeleev Commun. **1**, 36 (1999).
+* [20] Y. C. Zhou, Z. Sun, X. Wang, and S. Chen, J. Phys.: Condens. Matter **13**, 10001 (2001).
+* [21] J. C. Ho, H. H. Hamdeh, M. W. Barsoum, and T. El-Raghy, J. Appl. Phys. **85**, 7970 (1999).
+* [22] M. K. Drulis, A. Czopnik, H. Drulis, and M. W. Barsoum, J. Appl. Phys. **95**, 128 (2004).
+* [23] N. I. Medvedeva, D. L. Novikov, A. L. Ivanovsky, M. V. Kuznetsov, and A. J. Freeman, Phys. Rev. B **58**, 16042 (1998).
+* [24] Y. C. Zhou, H. Y. Dong, X. H. Wang, and S. Q. Chen, J. Phys.: Condens. Matter **12**, 9617 (2000).
+* [25] M. K. Drulis, A. Czopnik, H. Drulis, J. E. Spanier, A. Ganguly, and M. W. Barsoum, Mater. Sci. Eng., B **119**, 159 (2005).
+* [26] S. V. Halilov, D. J. Singh, and D. A. Papaconstantopoulos, Phys. Rev. B **65**, 174519 (2002).
+* [27] P. Finkel, M. W. Barsoum, J. D. Hettinger, S. E Lofland, and H. I. Yoo, Phys. Rev. B **67**, 235108 (2003).
+* [28] W. L. McMillan, Phys. Rev. **167**, 331 (1967).
+* [29] J. J. Hopfield, Phys. Rev. **186**, 443 (1969).
+* [30] N. I. Kulikov, J. Phys. F: Met. Phys. **8**, L137 (1978).
+* [31] I. R. Gomersall and B. L. Gyorffy, J. Phys. F: Met. Phys. **3**, L138 (1973).
+* [32] D. A. Papaconstantopoulos, L. L. Boyer, B. M. Klein, A. R. Williams, V. L. Morruzzi, and J. F. Janak, Phys. Rev. B **15**, 4221 (1977).
+* [33] M. Amer, M. W. Barsoum, T. El-Raghy, I. Wiess, S. LeClair, and D. Liptak, J. Appl. Phys. **84**, 5817 (1998).
+* [34] J. E. Spanier, S. Gupta, M. Amer, and M. W. Barsoum, Phys. Rev. B **71**, 012103 (2005).
+* [35] T. Meehan and J. D. Hettinger (unpublished).
+* [36] R. C. Dynes and C. M. Varma, J. Phys. F: Met. Phys. **6**, L215 (1976).
+* [37] K. H. Benneman and J. W. Garland, _Superconductivity of \(d\) and \(f\) band metals_, edited D. H. Douglas, AIP Conf. Proc. No. 4 (AIP, NY, 1972), p. 103.
+* [38] B. T. Matthias, in _Progress of Low Temperature Physics_, edited by C. J. Gorter (North-Holland, Amsterdam, 1957), Vol. 2.
+* [39] J. M. Schneider, Z. Sun, R. Mertens, F. Uestel, and R. Ahuja, Solid State Commun. **130**, 445 (2004).
+
+ 

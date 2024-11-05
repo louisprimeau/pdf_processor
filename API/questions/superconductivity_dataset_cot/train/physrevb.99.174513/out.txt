@@ -1,0 +1,343 @@
+
+
+# Probing the superconducting ground state of ZrIrSi: A muon spin rotation and relaxation study
+
+K. Panda
+
+A. Bhattacharyya
+
+amitava.bhattacharyya@fkmvu.ac.in Department of Physics, Ramakrishna Mission Wesvandan Educational and Research Institute, Howrah 711202, India
+
+D. T. Adroja
+
+ISIS Facility, Rutherford Appleton Laboratory, Chilton, Didcot, Oxon OX11 0QX, United Kingdom Highly Correlated Matter Research Group, Physics Department, University of Johannesburg, Auckland Park 2006, South Africa
+
+N. Kase
+
+Department of Applied Physics, Tokyo University of Science, Tokyo 125-8585, Japan
+
+P. K. Biswas
+
+ISIS Facility, Rutherford Appleton Laboratory, Chilton, Didcot, Oxon OX11 0QX, United Kingdom
+
+Surabhi Saha
+
+Department of Physics, Indian Institute of Science, Bangalore 560012, India
+
+Tanmoy Das
+
+Department of Physics, University of Warwick, Coventry CV4 7AL, United Kingdom
+
+M. R. Lees
+
+Department of Physics, Indian Institute of Science, Bangalore 560012, India
+
+A. D. Hillier
+
+ISIS Facility, Rutherford Appleton Laboratory, Chilton, Didcot, Oxon OX11 0QX, United Kingdom
+
+###### Abstract
+
+The superconducting ground state of recently discovered ZrIrSi is probed by means of muon spin rotation and relaxation (\muSR) and resistivity measurements. The occurrence of superconductivity at T_{\rm C}=1.7 K is confirmed by resistivity measurements. Zero field \muSR study revealed that below T_{\rm C} there is no spontaneous magnetic field in the superconducting state, which indicates time-reversal symmetry is preserved in the case of ZrIrSi. From transverse field \muSR measurement, we have estimated the superfluid density as a function of temperature, which is described by an isotropic s-wave model with a superconducting gap 2\Delta(0)/k_{\rm B}T_{\rm C}=5.10(2) and indicates the presence of strong coupling superconductivity. _Ab initio_ electronic structure calculation indicates that there are four bands passing through the Fermi level, forming four Fermi surface pockets. We find that the low-energy bands are dominated by the 4d orbitals of the transition metal Zr, with substantially less weight from the 5d orbitals of the Ir atoms.
+
+DOI: 10.1103/PhysRevB.99.174513
+
+## I Introduction
+
+Recently, a number of studies have been carried out in ternary metal phosphide, silicide, and arsenide with the general formula TrT^{\prime}X (Tr and T^{\prime} are either 4d or 3d transition elements, whereas X is either a group IV or a group V member) [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]. These systems have attracted considerable attention due to their relatively high superconducting transition temperature (T_{\rm C}), for example, 15.5 K for hexagonal h-MoNiP [8], 13 K for h-ZrRuP [11], and 12 K for h-ZrRuAs [12]. These ternary equiatomic systems provide a structure in which to investigate the role of spin-orbit (SO) coupling in superconductivity, which has not been so well studied in these systems. Compounds with Ir are often characterized by a strong SO coupling effect, due to the presence of the Ir 5d orbitals. Superconductivity is observed in a number of Ir-based compounds such as Li2IrSi3 (T_{\rm C}=4.2 K) [13, 14], IrGe (T_{\rm C}=4.7 K) [15], IrIr3 (T_{\rm C}=3.1 K (La), T_{\rm C}=3.3 K (Ce)) [16, 17, 18], CalIr2 (T_{\rm C}=5.8 K) [19], HfNi5 (T_{\rm C}=3.1 K) [20], and SciIrP (T_{\rm C}=3.4 K) [21]. Cuamba _et al._[13, 14, 15, 22] suggest that the presence of strong SO coupling and a significant contribution to the total density of states (DOS) come from the Ir atom in most of the Ir-based compounds. Recently, we have reported time-reversal symmetry (TRS) breaking superconductivity on the transition-metal-based caged-type R_{\rm S}Rh6Sn18 (R= Lu, Sc, and Y) [23, 24, 25] compounds due to strong spin-orbit coupling.
+
+In ternary equiatomic compounds, superconductivity has only been found in two types of crystal structures: the first is the hexagonal Fe2P type (space group P6m2) [4, 6, 8], and the second is the orthorhombic Co2Si type (space group Pnma) [2, 4, 7, 8]. It is interesting to note that in these systems T_{\rm C} is strongly associated with crystal structure. Furthermore, the h-Fe2P-type structure exhibits a T_{\rm C} higher than that of the o-Co2Si-type structure, for example: h-ZrRuP has a T_{\rm C} at 13.0 K, whereas o-ZrRuP has a T_{\rm C} at 3.5 K. In the case of the h-Fe2P-type structure each layer is filled with either Tr and T^{\prime} or X and X elements. In the case of o-ZrRuP, Shirotani _et al._[9] reported the formation of two-dimensional triangular Ru3 clusters that are connected in the basal plane through Ru-P ionic bonds. They are also connected through Zr-Ru bonds where Zr atoms occupy the z=1/2 plane. If phosphorus is replaced by the more electronegative silicon then the nearest-neighbor Ru-Ru bond length is enlarged to 2.87 A. Surprisingly o-MoRuP shows superconductivity at 15.5 K, which is as high as isoelectronic h-ZrRuP (T_{\rm C}=13 K) and h-MoNiP (T_{\rm C}=13 K). Ching _et al._[4] have shown that in o-MoRuP and o-ZrRuP a higher value of the DOS at the Fermi level is directly related to higher T_{\rm C}, as suggested for a BCS superconductor. In these systems, the density of states are governed by Mo 4d orbitals. Ching _et al._[4] have calculated the values of the density of states, which are 0.46 states per eV atom and 0.33 states per eV atom for o-MoRuP and o-ZrRuP, respectively.
+
+Therefore, to investigate the superconducting pairing mechanism in ZrIrSi, we have conducted a systematic muon spin rotation and relaxation (\muSR) study. Zero field (ZF) \muSR is a powerful technique to determine whether TRS breaking occurs in the superconducting state [26]. ZF-\muSR for ZrIrSi data indicate the absence of any spontaneous magnetic fields below T_{\rm C}, thus implying that TRS is not broken in the superconducting state. The superfluid density as a function of temperature is determined from the depolarization rate of the transverse field (TF) \muSR which is well described by an isotropic s-wave model. These results are further supported by _ab initio_ electronic structure calculation.
+
+## II Experimental Details
+
+For this study, a polycrystalline sample of ZrIrSi was synthesized using a typical arc melting process on a water-cooled copper hearth using Zr (99.99%), Ir (99.99%), and Si (99.999%) in a stoichiometric ratio. The ingot was remelted several times to improve the phase homogeneity. The sample was then annealed at 1000 degC for a week in a sealed vacuum quartz tube. X-ray diffraction was carried out using Cu-K_{\alpha} radiation. Electrical resistivity measurements were made using a standard dc four-probe technique down to 0.5 K.
+
+\muSR experiments were performed at the ISIS pulsed neutron and muon source of Rutherford Appleton Laboratory, UK, using a MuSR spectrometer with 64 detectors at transverse and longitudinal directions [27]. One hundred percent spin-polarized muons were implanted into the sample. The muons decay with an average lifetime of 2.2 \mus producing two neutrinos and a positron, which is emitted in a direction that is related to orientation of the muon spin vector at the time of the decay. These positrons were detected by the detectors, placed in either the forward (F) or the backward (B) direction. The time dependence of the \muSR asymmetry spectra A was calculated as A(t)=\frac{N_{\rm F}(t)-\alpha N_{\rm B}(t)}{N_{\rm F}(t)+\alpha N_{\rm B}(t)}, where N_{\rm F}(t) and N_{\rm B}(t) are the number of positrons counted in the forward and backward detectors, respectively, and \alpha is an instrumental calibration factor. ZF-\muSR study was carried out with detectors in a longitudinal configuration, where a correction coil is used to reduce any stray magnetic fields to below 1 \muT. ZF-\muSR measurements are crucial to understand the type of pairing symmetry in superconductors [26]. TF-\muSR measurements were carried out in the vortex state in the presence of 10-, 20-, 30-, and 40-mT applied fields, which are above the lower critical field \mu_{0}H_{\rm c1}(0) (= 0.7 mT) and below the upper critical field \mu_{0}H_{\rm c2}(0) (= 0.6 T). The sample was mounted onto a high-purity (99.995%) silver sample holder using diluted GE varnish and then wrapped with thin silver foil. This was inserted in the sample chamber using a dilution refrigerator that can go down to 50 mK. We analyzed the \muSR data using the wimda[28] software.
+
+## III Results and Discussion
+
+### Crystal structure and resistivity
+
+The powder x-ray diffraction data revealed that ZrIrSi crystallizes in the orthorhombic structure (space group _Pnma_) as displayed in Fig. 1(a). The calculated lattice parameters are a=6.557(3)\,A, b=3.942(6)\,A, and c=7.413(4)\,A, which are in agreement with a previous report [20]. The temperature (T) variation of the electrical resistivity \rho(T) in the zero applied magnetic field is presented in Fig. 1(b). The electrical resistivity data reveals superconductivity at T_{\rm C}=1.7 K. Kase _et al._[20] have estimated the Ginzburg Landau coherence length \zeta=23.1 nm. It is interesting to note that the T dependence of the upper critical field shows a convex curvature [20], which might suggest the presence of SO coupling. Similar curvature is also found in R_{3}T_{4}Sn_{13} (R= La or Sr; T= Rh or Ir), which is a SO-coupled superconductor [29].
+
+### Tf-\muSR analysis
+
+To explore the pairing mechanism and gap structure of the superconducting state of ZrIrSi, TF-\muSR measurements were performed down to 0.05 K. Figures 1(c)-1(f) present the TF-\muSR asymmetry time spectra in the presence of 10 and 30 mT applied magnetic fields at temperatures above and below T_{\rm C}. Below T_{\rm C} the spectra depolarizes strongly because of the inhomogeneous field distribution in the vortex state. TF-\muSR data were fit using two Gaussian oscillatory functions [30, 31, 32]:
+
+\[G_{\rm TF}(t)=\sum_{i=1}^{2}A_{i}\cos(\omega_{i}t+\phi)\exp\left(-\frac{\sigma _{i}^{2}t^{2}}{2}\right),\] (1)
+
+Figure 1: (a) The crystal structure of ZrIrSi which crystallizes in the orthorhombic structure with the space group _Pnma_, where the spheres represent the Zr (green), Ir (red), and Si (blue) atoms. (b) Temperature variation of resistivity in zero field. Time dependence TF-\muSR asymmetry spectra for ZrIrSi recorded at (c) T=0.1 K and (d) T=1.9 K in the presence of the applied field \mu_{0}H=10 mT and at (e) T=0.1 K and (f) T=2.0 K in the applied field \mu_{0}H=30 mT. The red solid line shows the fittings to the data using Eq. (1) described in the text.
+
+  where A_{\rm i}, \sigma_{\rm i}, \omega_{\rm i}, and \phi is the initial asymmetry, the Gaussian relaxation rate, the muon spin precession frequency, and the initial phase of the offset, respectively. In this fit \sigma_{2}=0. This background term arises from those muons that missed the sample and were directly implanted into the silver sample holder and so do not depolarize as silver has a minimal nuclear moment. \sigma_{1} can be expressed as \sigma_{1}=\sqrt{\sigma_{\rm sc}^{2}+\sigma_{\rm n}^{2}}, where \sigma_{\rm sc} comes from the superconducting part and \sigma_{\rm n} comes from nuclear magnetic dipolar moment which is fixed in the entire temperature range, as supported by the ZF-\muSR data presented later.
+
+The temperature variation of \sigma_{\rm sc} is depicted in Fig. 2(a). As the H_{\rm c2} value is low in this sample, \sigma_{\rm sc} depends on the applied field as displayed in Fig. 2(b). Brandt [33, 34] has reported that, for a superconductor with H_{\rm ext}/H_{\rm c2}\leqslant 0.25, \sigma_{\rm sc} is associated with the magnetic penetration depth [\lambda(T)] by the following equation:
+
+\[\sigma_{\rm sc}[\mu s^{-1}] = 4.83\times 10^{4}(1-H_{\rm ext}/H_{\rm c2})\] (2) \[\times\{1+1.21[1-\sqrt{(H_{\rm ext}/H_{\rm c2})}]^{3}\}\lambda^{- 2}\ [{\rm nm}].\]
+
+This equation is a good approximation for \kappa\geqslant 5, where \kappa=\lambda/\xi (\lambda is the magnetic penetration depth and \xi is the superconducting coherence length), which is valid for our case as \kappa=40.5 for ZrIrSi [20]. From this relation we have determined the temperature dependence of \lambda(T) and \mu_{\rm o}H_{\rm c2}(T). Isothermal cuts perpendicular to the temperature axis of \sigma_{\rm sc} data sets were used to determine the H dependence of the depolarization rate \sigma_{\rm sc}(H) as displayed in Fig. 2(b). We have estimated the magnetic penetration depths, \lambda=254.4(3) nm, using an s-wave model.
+
+We have plotted the temperature variation of normalized \lambda^{-2}(T)/\lambda^{-2}(0), which is directly proportional to the superfluid density. \lambda^{-2}(T)/\lambda^{-2}(0) data were fitted using the following equation [35, 36, 37, 38, 39]:
+
+\[\frac{\sigma_{\rm sc}(T)}{\sigma_{\rm sc}(0)} = \frac{\lambda^{-2}(T)}{\lambda^{-2}(0)}\] (3) \[= 1+\frac{1}{\pi}\int_{0}^{2\pi}\int_{\Delta(T)}^{\infty}\left( \frac{\delta f}{\delta E}\right)\frac{EdEd\phi}{\sqrt{E^{2}-\Delta(T)^{2}}}.\]
+
+Here f is the Fermi function which can be expressed as f=[1+\exp(-E/k_{\rm B}T)]^{-1}. \Delta(T,0)=\Delta_{0}\delta(T/T_{\rm C})\delta(\phi); where g(\phi) is the angular dependence of the gap function, \phi is the azimuthal angle in the direction of Fermi surface. The temperature variation of the superconducting gap is approximated by the relation \delta(T/T_{\rm C})=\tanh\{1.82[1.018(T_{\rm C}/T-1)]^{0.51}\}. The spatial dependence g(\phi) is substituted by (i) 1 for an s-wave gap and (ii) |\cos(2\phi)| for a d-wave gap with line nodes.
+
+Figure 2(c) presents the fits to the \lambda^{-2}(T)/\lambda^{-2}(0) data of ZrIrSi using a single-gap s-wave model and a nodal d-wave model. It is clear that the data can be well described by the isotropic s-wave model with a gap value of 0.37(1) meV. This model gives a gap to the T_{\rm C} ratio, 2\Delta(0)/k_{\rm B}T_{\rm C}=5.10(2). The higher value of the gap compared to the BCS gap (3.53) indicates a strong coupling superconductivity in ZrIrSi. Similar high gap values were obtained for Ir-based superconductors, for example: IrGe [2\Delta(0)/k_{\rm B}T_{\rm C}=5.14] [15, 22] and CaIrSi_{3} [2\Delta(0)/k_{\rm B}T_{\rm C}=5.4] [40]. On the other hand, the d-wave model is clearly not suitable for this system as the \chi^{2} value increased significantly for this fit (\chi^{2}=6.82). As ZrIrSi is a type II superconductor, supposing that approximately all the normal state carriers (n_{\rm e}) contribute to the superconductivity (n_{\rm s}\approx n_{\rm e}, where n_{\rm s} is the superconducting carrier density), the effective-mass enhancement m^{*} values have been estimated to be n_{\rm s}=6.9(1)\times 10^{26} carriers m^{-3} and m^{*}=1.474(3)m_{\rm e}, respectively, for ZrIrSi. Detailed calculations can be found in Refs. [41, 42, 43].
+
+### _Zf-\mu_SR analysis
+
+In order to investigate the pairing mechanism in the superconducting ground state, we have performed a ZF-\muSR study. The time evolution of asymmetry spectra is shown in Fig. 3 for T=0.05 K <T_{\rm C} and T=2 K >T_{\rm C}. The spectra below and above T_{\rm C} are found to be identical, ruling out the presence of any magnetic field. This reveals that TRS is preserved in the superconducting state of ZrIrSi. This ZF data were fit by a Lorentzian function:
+
+\[G_{\rm ZF}(t)=A_{0}(t)\exp{(-\lambda t)}+A_{\rm bg},\]
+
+Figure 2: (a) The superconducting depolarization rate \sigma_{\rm sc}(T) as a function of temperature in the presence of an applied field of 10\leqslant\mu_{\rm o}H\leqslant 40 mT. (b) The magnetic field dependence of the muon spin depolarization rate is shown for a range of different temperatures. The solid lines are the results of fitting the data using Brandt’s equation as discussed in Eq. (2). (c) The inverse magnetic penetration depth squared as a function of temperature is shown here. The lines show the fits using s-wave (solid) and d-wave (dashed) gap functions.
+
+  where A_{0} and A_{\rm bg} are the sample and background asymmetry, respectively, which are nearly temperature independent. \lambda is the relaxation rate which comes from nuclear moments. The red and blue lines in Fig. 3 indicate the fits to the ZF-\muSR data. The fitting parameters of the ZF-\muSR asymmetry data are as follows: \lambda=0.030(9)\mus^{-1} at 0.05 K and \lambda=0.026(3)\mus^{-1} at 2 K. The change in the relaxation rate is within the error bar and indicates no clear evidence of TRS breaking in ZrIrSi.
+
+### Theoretical calculations
+
+ZrIrSi unit-cell has an _mmm_ point group symmetry and it belongs to the _Pmma_(_62_) space group (orthorhombic crystal structure). We have used the Vienna Ab-initio Simulation Package (vasp) for _ab initio_ electronic structure calculation. The projector augmented wave (PAW) pseudopotentials are used to describe the core electrons, and for the exchange-correlation functional, the Perdew-Burke-Ernzerhof form is used. We have used a local density application (LDA) functional with a cutoff energy for the plane-wave basis set of 500 eV. The Monkhorst-Pack k-mesh is set to 14\times 14\times 14 in the Brillouin zone for the self-consistent calculation. The optimized lattice parameters by energy minimization were found to be as follows: a=3.9643 A, b=6.5893 A, and c=7.4070 A, and \alpha=\beta=\gamma=90^{\circ}. To deal with the strong correlation effect of the d electrons of the Ir atoms, we employed the LDA + U method with U=2.8 eV. For the Fermi surface calculation, we used a larger k mesh of 31\times 31\times 31.
+
+In Fig. 4, we show the band structure and the Fermi surface plots. We find that there are four bands passing through the Fermi level, forming four Fermi surface pockets. Two Fermi pockets are centered around the \Gamma point, while the other two pockets are centered around the X point. Unlike the multigap superconductivity in MgB_{2}[44] and Mo_{8}Ga_{41}[45] which are driven by the presence of multiple Fermi surfaces, we do not find any evidence of multigap superconductivity in ZrIrSi, which is in agreement with the TF-\muSR results. This is presumably because of the absence of the E_{2g}-phonon mode which could enable interband scattering, while in the present case phonon modes cause intraband electron-phonon coupling. Moreover, we observe substantial three-dimensionality in all four Fermi surfaces. This substantially weakens the Fermi surface nesting strength. Thus the possibility of an interband nesting driven by unconventional s^{\pm}-pairing symmetry is suppressed as compared to a two-dimensional iron-pnictide family with similar Fermi surface topology (see, e.g., Ref. [46]).
+
+Finally, we study the orbitals' contributions to the low-energy electronic states. We find that the low-energy bands are dominated by the 4d orbitals of the transition metal Zr, with substantially less weight from the 5d orbitals of the Ir atoms. Due to the presence of d orbitals in the low-energy states, it is natural to anticipate the involvement of strong correlation in these systems and hence strong coupling superconductivity which changes from the typical electron-phonon mechanism to a quasiparticle-phonon mechanism within the Eliashberg theory [47]. However, to our surprise, we find a substantially lower effective mass of 1.5m_{e} (where m_{e} is the bare electron's mass), which is in remarkable agreement with the results from the TF-\muSR measurements. This is well captured within our LDA + U calculation without essentially including dynamical correlations. We repeated the calculations for the isostructural compounds TlIrSi and HfIrSi and found that the essential Fermi surface topology and three-dimensionality remain the same in all three materials (not shown). Therefore, we conclude that the superconductivity in ZrIrSi and its isostructural materials (such as TlIrSi and HfIrSi) can be well understood within the conventional BCS theory. Although our estimate of
+
+Figure 4: (a) Computed DFT band structure is plotted along the standard high-symmetric directions for the orthorhombic crystal structure of ZrIrSi. The bands are colored with the difference in the d-orbital weight of the Zr and Ir atoms, where red color gives stronger Zr d-orbital weight while blue color dictates Ir d-orbital weight. Four bands which pass through the Fermi level are indicated by 1,2,3,4 numbers. (b) Corresponding Fermi surfaces are plotted in the full three-dimensional Brillouin zone. We find that Fermi surface 1 and 2 form pockets around the X point, while Fermi surface 3 and 4 constitute pockets centering the \Gamma point. The colors on the Fermi surface only aid visualization.
+
+Figure 3: ZF-\muSR asymmetry time spectra for ZrIrSi at 0.05 K (black circles) and 2 K (dark yellow squares) are shown together. The lines are the least-squares fits to the data using Eq. (4).
+
+  the BCS ratio of 5.1 is slightly higher than the BCS estimate of 3.5, we believe this slight increment is caused by the spin-orbit coupling of the Ir atoms and by the Fermi surface anisotropy.
+
+## IV Conclusions
+
+In conclusion, we have performed ZF- and TF-\muSR measurements in the mixed state of ZrIrSi. Using Brandt's equation we have determine the temperature dependence of the magnetic penetration depth. The superfluid density n_{\mathrm{s}}\propto 1/\lambda^{2} is well described by an isotropic s-wave model. The obtained gap value is 2\Delta(0)/k_{\mathrm{B}}T_{\mathrm{C}}=5.10(2), which suggest ZrIrSi to be a strongly coupled BCS superconductor. _Ab initio_ electronic structure calculation indicates BCS superconductivity, which supports our experimental results. The low-energy bands are dominated by the 4d orbitals of the transition metal Zr, with a substantially less weight from the 5d orbitals of the Ir atoms. ZF-\muSR reveals there is no spontaneous magnetic field below T_{\mathrm{C}}, which suggest the absence of TRS breaking. The present results pave the way to develop a realistic theoretical model to interpret the origin of superconductivity in ternary systems.
+
+###### Acknowledgements.
+
+ K.P. acknowledges financial support from DST, India, under Inspire Fellowship No. IF170620. A.B. acknowledges DST, India, for Inspire Faculty Research Grant No. DST/INSPIRE/04/2015/000169 and UK-India Newton funding for funding support. D.T.A. thanks the Royal Society of London for the UK-China Newton funding and the JSPS for the invitation fellowship. T.D. acknowledges the financial support from the Science and Engineering Research Board (SERB), Department of Science & Technology (DST), Government of India, for the Start-Up Research Grant (Young Scientist).
+
+## References
+
+* [1] H. Barz, H. C. Ku, G. P. Meisner, Z. Fisk, and B. T. Matthias, Proc. Natl. Acad. Sci. USA **77**, 3132 (1980).
+* [2] R. Muller, R. N. Shelton, J. W. Richardson, and R. A. Jacobson, J. Less-Common Met. **42**, 177 (1983).
+* [3] D. K. Seo, J. Ren, M. H. Whangbo, and E. Canadell, Inorg. Chem. **36**, 6058 (1997).
+* [4] W. Y. Ching, Y. N. Xu, L. Ouyang, and W. Wong-Ng, J. Appl. Phys. **93**, 8209 (2003).
+* [5] H. Keiber, H. Wuhl, G. P. Meisner, and G. R. Stewart, J. Low Temp. Phys. **55**, 11 (1984).
+* [6] I. Shirotani, M. Takaya, I. Kaneko, C. Sekine, and T. Yagi, Physica C (Amsterdam, Neth.) **357-360**, 329 (2001).
+* [7] I. Shirotani, Y. Konno, Y. Okada, C. Sekine, S. Tado, and T. Yagi, Solid State Commun. **108**, 967 (1998).
+* [8] I. Shirotani, M. Takeya, I. Kaneko, C. Sekine, and T. Yagi, Solid State Commun. **116**, 683 (2000).
+* [9] I. Shirotani, K. Tachi, Y. Konno, S. Todo, and T. Yagi, Phil. Mag. Part B **79**, 767 (1999).
+* [10] I. Shirotani, K. Tachi, K. Takeda, S. Todo, T. Yagi, and K. Kanoda, Phys. Rev. B **52**, 6197 (1995).
+* [11] I. Shirotani, N. Ichihashi, K. Nozawa, M. Kinoshita, T. Yagi, K. Suzuki, and T. Enoki, Jpn. J. Appl. Phys. **32**, 695 (1993).
+* [12] G. P. Meisner, H. C. Ku, and H. Barz, Mater. Res. Bull. **18**, 983 (1983).
+* [13] S. Pyon, K. Kudo, J. Matsumura, H. Ishii, G. Matsuo, M. Nohara, H. Hojo, K. Oka, M. Azuma, O. Garlea, K. Kodama, and S. Shamoto, J. Phys. Soc. Jpn. **83**, 093706 (2014).
+* [14] H. Y. Lu, N. N. Wang, L. Geng, S. Chen, Y. Yang, W. J. Lu, W. S. Wang, and J. Sun, Europhys. Lett. **110**, 17003 (2015).
+* [15] B. T. Matthias, T. H. Gkballk, and V. B. Compton, Rev. Mod. Phys. **35**, 1 (1963).
+* [16] N. Haldolaarachchigel, L. Schoop, M. A. Khan, W. Huang, H. Ji, K. Hetiatarchchilage, and D. P. Young, J. Phys.: Condens. Matter **29**, 475602 (2017).
+* [17] Y. J. Sato, A. Nakamura, Y. Shimizu, A. Maurya, Y. Homma, D. Li, F. Honda, and D. Aoki, J. Phys. Soc. Jpn. **87**, 053704 (2018).
+* [18] A. Bhattacharyya, D. T. Adroja, P. K. Biswas, Y. J. Sato, M. R. Lees, D. Aoki, and A. D. Hillier, arXiv:1901.04796.
+* [19] N. Haldolaarachchige, Q. Gibson, L. M. Schoop, H. Luo, and R. J. Cava, J. Phys. Condens. Matter **27**, 185701 (2015).
+* [20] N. Kase, H. Suzuki, T. Nakano, and N. Takeda, Supercond. Sci. Technol. **29**, 035011 (2016).
+* [21] U. Pfannenschmidt, U. C. Rodewald, and R. P. Otten, Z. Naturforsch., B: J. Chem. Sci. **66**, 205 (2011).
+* [22] A. S. Cuamba, H.-Y. Lu, and C. S. Ting, Phys. Rev. B **94**, 094513 (2016).
+* [23] A. Bhattacharyya, D. T. Adroja, J. Quintanilla, A. D. Hillier, N. Kase, A. M. Strydom, and J. Akimitsu, Phys. Rev. B **91**, 060503(R) (2015).
+* [24] A. Bhattacharyya, D. T. Adroja, N. Kase, A. Hillier, J. Akimitsu, and A. M. Strydom, Sci. Rep. **5**, 12926 (2015).
+* [25] A. Bhattacharyya, D. T. Adroja, N. Kase, A. D. Hillier, A. M. Strydom, and J. Akimitsu, Phys. Rev. B **98**, 024511 (2018).
+* [26] J. E. Sonier, J. H. Brewer, and R. F. Kiefl, Rev. Mod. Phys. **72**, 769 (2000).
+* [27] S. L. Lee, S. H. Kilcoyne, and R. Cywinski, _Muon Science: Muons in Physics, Chemistry, and Materials_ (SUSSP and IOP, Bristol, England, 1999).
+* [28] F. L. Pratt, Physica B (Amsterdam, Neth.) **289-290**, 710 (2000).
+* [29] N. Kase, H. Hayamizu, and J. Akimitsu, Phys. Rev. B **83**, 184509 (2011).
+* [30] A. Bhattacharyya, D. T. Adroja, M. Smidman, and V. K. Anand, Sci. China: Phys., Mech. Astron. **61**, 127402 (2018).
+* [31] D. Adroja, A. Bhattacharyya, P. K. Biswas, M. Smidmann, A. D. Hillier, H. Mao, H. Luo, G. H. Cao, Z. Wang, and C. Wang, Phys. Rev. B **96**, 144502 (2017).
+* [32] A. Bhattacharyya, D. T. Adroja, K. Panda, S. Saha, T. Das, A. J. S. Machado, O. V. Cigarroa, T. W. Grant, Z. Fisk, A. D. Hillier, and P. Manfrinetti, Phys. Rev. Lett. **122**, 147001 (2019).
+* [33] E. H. Brandt, J. Low Temp. Phys. **73**, 355 (1988).
+* [34] E. H. Brandt, Phys. Rev. B **68**, 054506 (2003).
+
+  * [35] R. Prozorov and R. W. Giannetta, Supercond. Sci. Technol. **19**, R41 (2006).
+* [36] D. T. Adroja, A. Bhattacharyya, M. Telling, Y. Feng, M. Smidman, B. Pan, J. Zhao, A. D. Hillier, F. L. Pratt, and A. M. Strydom, Phys. Rev. B **92**, 134505 (2015).
+* [37] D. T. Adroja, A. Bhattacharyya, M. Smidman, A. D. Hillier, Y. Feng, B. Pan, J. Zhao, M. R. Lees, A. M. Strydom, and P. K. Biswas, J. Phys. Soc. Jpn. **86**, 03470 (2017).
+* [38] D. Das, R. Gupta, A. Bhattacharyya, P. K. Biswas, D. T. Adroja, and Z. Hossain, Phys. Rev. B **97**, 184509 (2018).
+* [39] A. Bhattacharyya, D. T. Adroja, A. D. Hillier, R. Jha, V. P. S. Awana, and A. M. Strydom, J. Phys: Condens. Matter **29**, 265602 (2017).
+* [40] R. P. Singh, A. D. Hillier, D. Chowdhury, J. A. T. Barker, D. McK. Paul, M. R. Lees, and G. Balakrishnan, Phys. Rev. B **90**, 104504 (2014).
+* [41] A. D. Hillier and R. Cywinski, Appl. Magn. Reson. **13**, 95 (1997).
+* [42] D. T. Adroja, A. D. Hillier, J.-G. Park, E. A. Goremychkin, K. A. McEwen, N. Takeda, R. Osborn, B. D. Rainford, and R. M. Ibberson, Phys. Rev. B **72**, 184503 (2005).
+* [43] V. K. Anand, D. Britz, A. Bhattacharyya, D. T. Adroja, A. D. Hillier, A. M. Strydom, W. Kockelmann, B. D. Rainford, and K. A. McEwen, Phys. Rev. B **90**, 014513 (2014).
+* [44] Amy Y. Liu, I. I. Mazin, and J. Kortus, Phys. Rev. Lett. **87**, 087005 (2001).
+* [45] A. Sirohi, S. Saha, P. Neha, S. Das, S. Patnaik, T. Das, and G. Sheet, Phys. Rev. B **99**, 054503 (2019).
+* [46] P. J. Hirschfeld, M. M. Korshunov, and I. I. Mazin, Rep. Prog. Phys. **74**, 124508 (2011); T. Das, EPJ Web Conf. **23**, 00014 (2012).
+* [47] T. Das and K. Dolui, Phys. Rev. B **91**, 094510 (2015).
+
+ 
+
+# Probing the superconducting ground state of ZrIrSi: A muon spin rotation and relaxation study
+
+K. Panda
+
+A. Bhattacharyya
+
+amitava.bhattacharyya@fkmvu.ac.in Department of Physics, Ramakrishna Mission Wesvandan Educational and Research Institute, Howrah 711202, India
+
+D. T. Adroja
+
+ISIS Facility, Rutherford Appleton Laboratory, Chilton, Didcot, Oxon OX11 0QX, United Kingdom Highly Correlated Matter Research Group, Physics Department, University of Johannesburg, Auckland Park 2006, South Africa
+
+N. Kase
+
+Department of Applied Physics, Tokyo University of Science, Tokyo 125-8585, Japan
+
+P. K. Biswas
+
+ISIS Facility, Rutherford Appleton Laboratory, Chilton, Didcot, Oxon OX11 0QX, United Kingdom
+
+Surabhi Saha
+
+Department of Physics, Indian Institute of Science, Bangalore 560012, India
+
+Tanmoy Das
+
+Department of Physics, University of Warwick, Coventry CV4 7AL, United Kingdom
+
+M. R. Lees
+
+Department of Physics, Indian Institute of Science, Bangalore 560012, India
+
+A. D. Hillier
+
+ISIS Facility, Rutherford Appleton Laboratory, Chilton, Didcot, Oxon OX11 0QX, United Kingdom
+
+###### Abstract
+
+The superconducting ground state of recently discovered ZrIrSi is probed by means of muon spin rotation and relaxation (\muSR) and resistivity measurements. The occurrence of superconductivity at T_{\rm C}=1.7 K is confirmed by resistivity measurements. Zero field \muSR study revealed that below T_{\rm C} there is no spontaneous magnetic field in the superconducting state, which indicates time-reversal symmetry is preserved in the case of ZrIrSi. From transverse field \muSR measurement, we have estimated the superfluid density as a function of temperature, which is described by an isotropic s-wave model with a superconducting gap 2\Delta(0)/k_{\rm B}T_{\rm C}=5.10(2) and indicates the presence of strong coupling superconductivity. _Ab initio_ electronic structure calculation indicates that there are four bands passing through the Fermi level, forming four Fermi surface pockets. We find that the low-energy bands are dominated by the 4d orbitals of the transition metal Zr, with substantially less weight from the 5d orbitals of the Ir atoms.
+
+DOI: 10.1103/PhysRevB.99.174513
+
+## I Introduction
+
+Recently, a number of studies have been carried out in ternary metal phosphide, silicide, and arsenide with the general formula TrT^{\prime}X (Tr and T^{\prime} are either 4d or 3d transition elements, whereas X is either a group IV or a group V member) [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]. These systems have attracted considerable attention due to their relatively high superconducting transition temperature (T_{\rm C}), for example, 15.5 K for hexagonal h-MoNiP [8], 13 K for h-ZrRuP [11], and 12 K for h-ZrRuAs [12]. These ternary equiatomic systems provide a structure in which to investigate the role of spin-orbit (SO) coupling in superconductivity, which has not been so well studied in these systems. Compounds with Ir are often characterized by a strong SO coupling effect, due to the presence of the Ir 5d orbitals. Superconductivity is observed in a number of Ir-based compounds such as Li2IrSi3 (T_{\rm C}=4.2 K) [13, 14], IrGe (T_{\rm C}=4.7 K) [15], IrIr3 (T_{\rm C}=3.1 K (La), T_{\rm C}=3.3 K (Ce)) [16, 17, 18], CalIr2 (T_{\rm C}=5.8 K) [19], HfNi5 (T_{\rm C}=3.1 K) [20], and SciIrP (T_{\rm C}=3.4 K) [21]. Cuamba _et al._[13, 14, 15, 22] suggest that the presence of strong SO coupling and a significant contribution to the total density of states (DOS) come from the Ir atom in most of the Ir-based compounds. Recently, we have reported time-reversal symmetry (TRS) breaking superconductivity on the transition-metal-based caged-type R_{\rm S}Rh6Sn18 (R= Lu, Sc, and Y) [23, 24, 25] compounds due to strong spin-orbit coupling.
+
+In ternary equiatomic compounds, superconductivity has only been found in two types of crystal structures: the first is the hexagonal Fe2P type (space group P6m2) [4, 6, 8], and the second is the orthorhombic Co2Si type (space group Pnma) [2, 4, 7, 8]. It is interesting to note that in these systems T_{\rm C} is strongly associated with crystal structure. Furthermore, the h-Fe2P-type structure exhibits a T_{\rm C} higher than that of the o-Co2Si-type structure, for example: h-ZrRuP has a T_{\rm C} at 13.0 K, whereas o-ZrRuP has a T_{\rm C} at 3.5 K. In the case of the h-Fe2P-type structure each layer is filled with either Tr and T^{\prime} or X and X elements. In the case of o-ZrRuP, Shirotani _et al._[9] reported the formation of two-dimensional triangular Ru3 clusters that are connected in the basal plane through Ru-P ionic bonds. They are also connected through Zr-Ru bonds where Zr atoms occupy the z=1/2 plane. If phosphorus is replaced by the more electronegative silicon then the nearest-neighbor Ru-Ru bond length is enlarged to 2.87 A. Surprisingly o-MoRuP shows superconductivity at 15.5 K, which is as high as isoelectronic h-ZrRuP (T_{\rm C}=13 K) and h-MoNiP (T_{\rm C}=13 K). Ching _et al._[4] have shown that in o-MoRuP and o-ZrRuP a higher value of the DOS at the Fermi level is directly related to higher T_{\rm C}, as suggested for a BCS superconductor. In these systems, the density of states are governed by Mo 4d orbitals. Ching _et al._[4] have calculated the values of the density of states, which are 0.46 states per eV atom and 0.33 states per eV atom for o-MoRuP and o-ZrRuP, respectively.
+
+Therefore, to investigate the superconducting pairing mechanism in ZrIrSi, we have conducted a systematic muon spin rotation and relaxation (\muSR) study. Zero field (ZF) \muSR is a powerful technique to determine whether TRS breaking occurs in the superconducting state [26]. ZF-\muSR for ZrIrSi data indicate the absence of any spontaneous magnetic fields below T_{\rm C}, thus implying that TRS is not broken in the superconducting state. The superfluid density as a function of temperature is determined from the depolarization rate of the transverse field (TF) \muSR which is well described by an isotropic s-wave model. These results are further supported by _ab initio_ electronic structure calculation.
+
+## II Experimental Details
+
+For this study, a polycrystalline sample of ZrIrSi was synthesized using a typical arc melting process on a water-cooled copper hearth using Zr (99.99%), Ir (99.99%), and Si (99.999%) in a stoichiometric ratio. The ingot was remelted several times to improve the phase homogeneity. The sample was then annealed at 1000 degC for a week in a sealed vacuum quartz tube. X-ray diffraction was carried out using Cu-K_{\alpha} radiation. Electrical resistivity measurements were made using a standard dc four-probe technique down to 0.5 K.
+
+\muSR experiments were performed at the ISIS pulsed neutron and muon source of Rutherford Appleton Laboratory, UK, using a MuSR spectrometer with 64 detectors at transverse and longitudinal directions [27]. One hundred percent spin-polarized muons were implanted into the sample. The muons decay with an average lifetime of 2.2 \mus producing two neutrinos and a positron, which is emitted in a direction that is related to orientation of the muon spin vector at the time of the decay. These positrons were detected by the detectors, placed in either the forward (F) or the backward (B) direction. The time dependence of the \muSR asymmetry spectra A was calculated as A(t)=\frac{N_{\rm F}(t)-\alpha N_{\rm B}(t)}{N_{\rm F}(t)+\alpha N_{\rm B}(t)}, where N_{\rm F}(t) and N_{\rm B}(t) are the number of positrons counted in the forward and backward detectors, respectively, and \alpha is an instrumental calibration factor. ZF-\muSR study was carried out with detectors in a longitudinal configuration, where a correction coil is used to reduce any stray magnetic fields to below 1 \muT. ZF-\muSR measurements are crucial to understand the type of pairing symmetry in superconductors [26]. TF-\muSR measurements were carried out in the vortex state in the presence of 10-, 20-, 30-, and 40-mT applied fields, which are above the lower critical field \mu_{0}H_{\rm c1}(0) (= 0.7 mT) and below the upper critical field \mu_{0}H_{\rm c2}(0) (= 0.6 T). The sample was mounted onto a high-purity (99.995%) silver sample holder using diluted GE varnish and then wrapped with thin silver foil. This was inserted in the sample chamber using a dilution refrigerator that can go down to 50 mK. We analyzed the \muSR data using the wimda[28] software.
+
+## III Results and Discussion
+
+### Crystal structure and resistivity
+
+The powder x-ray diffraction data revealed that ZrIrSi crystallizes in the orthorhombic structure (space group _Pnma_) as displayed in Fig. 1(a). The calculated lattice parameters are a=6.557(3)\,A, b=3.942(6)\,A, and c=7.413(4)\,A, which are in agreement with a previous report [20]. The temperature (T) variation of the electrical resistivity \rho(T) in the zero applied magnetic field is presented in Fig. 1(b). The electrical resistivity data reveals superconductivity at T_{\rm C}=1.7 K. Kase _et al._[20] have estimated the Ginzburg Landau coherence length \zeta=23.1 nm. It is interesting to note that the T dependence of the upper critical field shows a convex curvature [20], which might suggest the presence of SO coupling. Similar curvature is also found in R_{3}T_{4}Sn_{13} (R= La or Sr; T= Rh or Ir), which is a SO-coupled superconductor [29].
+
+### Tf-\muSR analysis
+
+To explore the pairing mechanism and gap structure of the superconducting state of ZrIrSi, TF-\muSR measurements were performed down to 0.05 K. Figures 1(c)-1(f) present the TF-\muSR asymmetry time spectra in the presence of 10 and 30 mT applied magnetic fields at temperatures above and below T_{\rm C}. Below T_{\rm C} the spectra depolarizes strongly because of the inhomogeneous field distribution in the vortex state. TF-\muSR data were fit using two Gaussian oscillatory functions [30, 31, 32]:
+
+\[G_{\rm TF}(t)=\sum_{i=1}^{2}A_{i}\cos(\omega_{i}t+\phi)\exp\left(-\frac{\sigma _{i}^{2}t^{2}}{2}\right),\] (1)
+
+Figure 1: (a) The crystal structure of ZrIrSi which crystallizes in the orthorhombic structure with the space group _Pnma_, where the spheres represent the Zr (green), Ir (red), and Si (blue) atoms. (b) Temperature variation of resistivity in zero field. Time dependence TF-\muSR asymmetry spectra for ZrIrSi recorded at (c) T=0.1 K and (d) T=1.9 K in the presence of the applied field \mu_{0}H=10 mT and at (e) T=0.1 K and (f) T=2.0 K in the applied field \mu_{0}H=30 mT. The red solid line shows the fittings to the data using Eq. (1) described in the text.
+
+  where A_{\rm i}, \sigma_{\rm i}, \omega_{\rm i}, and \phi is the initial asymmetry, the Gaussian relaxation rate, the muon spin precession frequency, and the initial phase of the offset, respectively. In this fit \sigma_{2}=0. This background term arises from those muons that missed the sample and were directly implanted into the silver sample holder and so do not depolarize as silver has a minimal nuclear moment. \sigma_{1} can be expressed as \sigma_{1}=\sqrt{\sigma_{\rm sc}^{2}+\sigma_{\rm n}^{2}}, where \sigma_{\rm sc} comes from the superconducting part and \sigma_{\rm n} comes from nuclear magnetic dipolar moment which is fixed in the entire temperature range, as supported by the ZF-\muSR data presented later.
+
+The temperature variation of \sigma_{\rm sc} is depicted in Fig. 2(a). As the H_{\rm c2} value is low in this sample, \sigma_{\rm sc} depends on the applied field as displayed in Fig. 2(b). Brandt [33, 34] has reported that, for a superconductor with H_{\rm ext}/H_{\rm c2}\leqslant 0.25, \sigma_{\rm sc} is associated with the magnetic penetration depth [\lambda(T)] by the following equation:
+
+\[\sigma_{\rm sc}[\mu s^{-1}] = 4.83\times 10^{4}(1-H_{\rm ext}/H_{\rm c2})\] (2) \[\times\{1+1.21[1-\sqrt{(H_{\rm ext}/H_{\rm c2})}]^{3}\}\lambda^{- 2}\ [{\rm nm}].\]
+
+This equation is a good approximation for \kappa\geqslant 5, where \kappa=\lambda/\xi (\lambda is the magnetic penetration depth and \xi is the superconducting coherence length), which is valid for our case as \kappa=40.5 for ZrIrSi [20]. From this relation we have determined the temperature dependence of \lambda(T) and \mu_{\rm o}H_{\rm c2}(T). Isothermal cuts perpendicular to the temperature axis of \sigma_{\rm sc} data sets were used to determine the H dependence of the depolarization rate \sigma_{\rm sc}(H) as displayed in Fig. 2(b). We have estimated the magnetic penetration depths, \lambda=254.4(3) nm, using an s-wave model.
+
+We have plotted the temperature variation of normalized \lambda^{-2}(T)/\lambda^{-2}(0), which is directly proportional to the superfluid density. \lambda^{-2}(T)/\lambda^{-2}(0) data were fitted using the following equation [35, 36, 37, 38, 39]:
+
+\[\frac{\sigma_{\rm sc}(T)}{\sigma_{\rm sc}(0)} = \frac{\lambda^{-2}(T)}{\lambda^{-2}(0)}\] (3) \[= 1+\frac{1}{\pi}\int_{0}^{2\pi}\int_{\Delta(T)}^{\infty}\left( \frac{\delta f}{\delta E}\right)\frac{EdEd\phi}{\sqrt{E^{2}-\Delta(T)^{2}}}.\]
+
+Here f is the Fermi function which can be expressed as f=[1+\exp(-E/k_{\rm B}T)]^{-1}. \Delta(T,0)=\Delta_{0}\delta(T/T_{\rm C})\delta(\phi); where g(\phi) is the angular dependence of the gap function, \phi is the azimuthal angle in the direction of Fermi surface. The temperature variation of the superconducting gap is approximated by the relation \delta(T/T_{\rm C})=\tanh\{1.82[1.018(T_{\rm C}/T-1)]^{0.51}\}. The spatial dependence g(\phi) is substituted by (i) 1 for an s-wave gap and (ii) |\cos(2\phi)| for a d-wave gap with line nodes.
+
+Figure 2(c) presents the fits to the \lambda^{-2}(T)/\lambda^{-2}(0) data of ZrIrSi using a single-gap s-wave model and a nodal d-wave model. It is clear that the data can be well described by the isotropic s-wave model with a gap value of 0.37(1) meV. This model gives a gap to the T_{\rm C} ratio, 2\Delta(0)/k_{\rm B}T_{\rm C}=5.10(2). The higher value of the gap compared to the BCS gap (3.53) indicates a strong coupling superconductivity in ZrIrSi. Similar high gap values were obtained for Ir-based superconductors, for example: IrGe [2\Delta(0)/k_{\rm B}T_{\rm C}=5.14] [15, 22] and CaIrSi_{3} [2\Delta(0)/k_{\rm B}T_{\rm C}=5.4] [40]. On the other hand, the d-wave model is clearly not suitable for this system as the \chi^{2} value increased significantly for this fit (\chi^{2}=6.82). As ZrIrSi is a type II superconductor, supposing that approximately all the normal state carriers (n_{\rm e}) contribute to the superconductivity (n_{\rm s}\approx n_{\rm e}, where n_{\rm s} is the superconducting carrier density), the effective-mass enhancement m^{*} values have been estimated to be n_{\rm s}=6.9(1)\times 10^{26} carriers m^{-3} and m^{*}=1.474(3)m_{\rm e}, respectively, for ZrIrSi. Detailed calculations can be found in Refs. [41, 42, 43].
+
+### _Zf-\mu_SR analysis
+
+In order to investigate the pairing mechanism in the superconducting ground state, we have performed a ZF-\muSR study. The time evolution of asymmetry spectra is shown in Fig. 3 for T=0.05 K <T_{\rm C} and T=2 K >T_{\rm C}. The spectra below and above T_{\rm C} are found to be identical, ruling out the presence of any magnetic field. This reveals that TRS is preserved in the superconducting state of ZrIrSi. This ZF data were fit by a Lorentzian function:
+
+\[G_{\rm ZF}(t)=A_{0}(t)\exp{(-\lambda t)}+A_{\rm bg},\]
+
+Figure 2: (a) The superconducting depolarization rate \sigma_{\rm sc}(T) as a function of temperature in the presence of an applied field of 10\leqslant\mu_{\rm o}H\leqslant 40 mT. (b) The magnetic field dependence of the muon spin depolarization rate is shown for a range of different temperatures. The solid lines are the results of fitting the data using Brandt’s equation as discussed in Eq. (2). (c) The inverse magnetic penetration depth squared as a function of temperature is shown here. The lines show the fits using s-wave (solid) and d-wave (dashed) gap functions.
+
+  where A_{0} and A_{\rm bg} are the sample and background asymmetry, respectively, which are nearly temperature independent. \lambda is the relaxation rate which comes from nuclear moments. The red and blue lines in Fig. 3 indicate the fits to the ZF-\muSR data. The fitting parameters of the ZF-\muSR asymmetry data are as follows: \lambda=0.030(9)\mus^{-1} at 0.05 K and \lambda=0.026(3)\mus^{-1} at 2 K. The change in the relaxation rate is within the error bar and indicates no clear evidence of TRS breaking in ZrIrSi.
+
+### Theoretical calculations
+
+ZrIrSi unit-cell has an _mmm_ point group symmetry and it belongs to the _Pmma_(_62_) space group (orthorhombic crystal structure). We have used the Vienna Ab-initio Simulation Package (vasp) for _ab initio_ electronic structure calculation. The projector augmented wave (PAW) pseudopotentials are used to describe the core electrons, and for the exchange-correlation functional, the Perdew-Burke-Ernzerhof form is used. We have used a local density application (LDA) functional with a cutoff energy for the plane-wave basis set of 500 eV. The Monkhorst-Pack k-mesh is set to 14\times 14\times 14 in the Brillouin zone for the self-consistent calculation. The optimized lattice parameters by energy minimization were found to be as follows: a=3.9643 A, b=6.5893 A, and c=7.4070 A, and \alpha=\beta=\gamma=90^{\circ}. To deal with the strong correlation effect of the d electrons of the Ir atoms, we employed the LDA + U method with U=2.8 eV. For the Fermi surface calculation, we used a larger k mesh of 31\times 31\times 31.
+
+In Fig. 4, we show the band structure and the Fermi surface plots. We find that there are four bands passing through the Fermi level, forming four Fermi surface pockets. Two Fermi pockets are centered around the \Gamma point, while the other two pockets are centered around the X point. Unlike the multigap superconductivity in MgB_{2}[44] and Mo_{8}Ga_{41}[45] which are driven by the presence of multiple Fermi surfaces, we do not find any evidence of multigap superconductivity in ZrIrSi, which is in agreement with the TF-\muSR results. This is presumably because of the absence of the E_{2g}-phonon mode which could enable interband scattering, while in the present case phonon modes cause intraband electron-phonon coupling. Moreover, we observe substantial three-dimensionality in all four Fermi surfaces. This substantially weakens the Fermi surface nesting strength. Thus the possibility of an interband nesting driven by unconventional s^{\pm}-pairing symmetry is suppressed as compared to a two-dimensional iron-pnictide family with similar Fermi surface topology (see, e.g., Ref. [46]).
+
+Finally, we study the orbitals' contributions to the low-energy electronic states. We find that the low-energy bands are dominated by the 4d orbitals of the transition metal Zr, with substantially less weight from the 5d orbitals of the Ir atoms. Due to the presence of d orbitals in the low-energy states, it is natural to anticipate the involvement of strong correlation in these systems and hence strong coupling superconductivity which changes from the typical electron-phonon mechanism to a quasiparticle-phonon mechanism within the Eliashberg theory [47]. However, to our surprise, we find a substantially lower effective mass of 1.5m_{e} (where m_{e} is the bare electron's mass), which is in remarkable agreement with the results from the TF-\muSR measurements. This is well captured within our LDA + U calculation without essentially including dynamical correlations. We repeated the calculations for the isostructural compounds TlIrSi and HfIrSi and found that the essential Fermi surface topology and three-dimensionality remain the same in all three materials (not shown). Therefore, we conclude that the superconductivity in ZrIrSi and its isostructural materials (such as TlIrSi and HfIrSi) can be well understood within the conventional BCS theory. Although our estimate of
+
+Figure 4: (a) Computed DFT band structure is plotted along the standard high-symmetric directions for the orthorhombic crystal structure of ZrIrSi. The bands are colored with the difference in the d-orbital weight of the Zr and Ir atoms, where red color gives stronger Zr d-orbital weight while blue color dictates Ir d-orbital weight. Four bands which pass through the Fermi level are indicated by 1,2,3,4 numbers. (b) Corresponding Fermi surfaces are plotted in the full three-dimensional Brillouin zone. We find that Fermi surface 1 and 2 form pockets around the X point, while Fermi surface 3 and 4 constitute pockets centering the \Gamma point. The colors on the Fermi surface only aid visualization.
+
+Figure 3: ZF-\muSR asymmetry time spectra for ZrIrSi at 0.05 K (black circles) and 2 K (dark yellow squares) are shown together. The lines are the least-squares fits to the data using Eq. (4).
+
+  the BCS ratio of 5.1 is slightly higher than the BCS estimate of 3.5, we believe this slight increment is caused by the spin-orbit coupling of the Ir atoms and by the Fermi surface anisotropy.
+
+## IV Conclusions
+
+In conclusion, we have performed ZF- and TF-\muSR measurements in the mixed state of ZrIrSi. Using Brandt's equation we have determine the temperature dependence of the magnetic penetration depth. The superfluid density n_{\mathrm{s}}\propto 1/\lambda^{2} is well described by an isotropic s-wave model. The obtained gap value is 2\Delta(0)/k_{\mathrm{B}}T_{\mathrm{C}}=5.10(2), which suggest ZrIrSi to be a strongly coupled BCS superconductor. _Ab initio_ electronic structure calculation indicates BCS superconductivity, which supports our experimental results. The low-energy bands are dominated by the 4d orbitals of the transition metal Zr, with a substantially less weight from the 5d orbitals of the Ir atoms. ZF-\muSR reveals there is no spontaneous magnetic field below T_{\mathrm{C}}, which suggest the absence of TRS breaking. The present results pave the way to develop a realistic theoretical model to interpret the origin of superconductivity in ternary systems.
+
+###### Acknowledgements.
+
+ K.P. acknowledges financial support from DST, India, under Inspire Fellowship No. IF170620. A.B. acknowledges DST, India, for Inspire Faculty Research Grant No. DST/INSPIRE/04/2015/000169 and UK-India Newton funding for funding support. D.T.A. thanks the Royal Society of London for the UK-China Newton funding and the JSPS for the invitation fellowship. T.D. acknowledges the financial support from the Science and Engineering Research Board (SERB), Department of Science & Technology (DST), Government of India, for the Start-Up Research Grant (Young Scientist).
+
+## References
+
+* [1] H. Barz, H. C. Ku, G. P. Meisner, Z. Fisk, and B. T. Matthias, Proc. Natl. Acad. Sci. USA **77**, 3132 (1980).
+* [2] R. Muller, R. N. Shelton, J. W. Richardson, and R. A. Jacobson, J. Less-Common Met. **42**, 177 (1983).
+* [3] D. K. Seo, J. Ren, M. H. Whangbo, and E. Canadell, Inorg. Chem. **36**, 6058 (1997).
+* [4] W. Y. Ching, Y. N. Xu, L. Ouyang, and W. Wong-Ng, J. Appl. Phys. **93**, 8209 (2003).
+* [5] H. Keiber, H. Wuhl, G. P. Meisner, and G. R. Stewart, J. Low Temp. Phys. **55**, 11 (1984).
+* [6] I. Shirotani, M. Takaya, I. Kaneko, C. Sekine, and T. Yagi, Physica C (Amsterdam, Neth.) **357-360**, 329 (2001).
+* [7] I. Shirotani, Y. Konno, Y. Okada, C. Sekine, S. Tado, and T. Yagi, Solid State Commun. **108**, 967 (1998).
+* [8] I. Shirotani, M. Takeya, I. Kaneko, C. Sekine, and T. Yagi, Solid State Commun. **116**, 683 (2000).
+* [9] I. Shirotani, K. Tachi, Y. Konno, S. Todo, and T. Yagi, Phil. Mag. Part B **79**, 767 (1999).
+* [10] I. Shirotani, K. Tachi, K. Takeda, S. Todo, T. Yagi, and K. Kanoda, Phys. Rev. B **52**, 6197 (1995).
+* [11] I. Shirotani, N. Ichihashi, K. Nozawa, M. Kinoshita, T. Yagi, K. Suzuki, and T. Enoki, Jpn. J. Appl. Phys. **32**, 695 (1993).
+* [12] G. P. Meisner, H. C. Ku, and H. Barz, Mater. Res. Bull. **18**, 983 (1983).
+* [13] S. Pyon, K. Kudo, J. Matsumura, H. Ishii, G. Matsuo, M. Nohara, H. Hojo, K. Oka, M. Azuma, O. Garlea, K. Kodama, and S. Shamoto, J. Phys. Soc. Jpn. **83**, 093706 (2014).
+* [14] H. Y. Lu, N. N. Wang, L. Geng, S. Chen, Y. Yang, W. J. Lu, W. S. Wang, and J. Sun, Europhys. Lett. **110**, 17003 (2015).
+* [15] B. T. Matthias, T. H. Gkballk, and V. B. Compton, Rev. Mod. Phys. **35**, 1 (1963).
+* [16] N. Haldolaarachchigel, L. Schoop, M. A. Khan, W. Huang, H. Ji, K. Hetiatarchchilage, and D. P. Young, J. Phys.: Condens. Matter **29**, 475602 (2017).
+* [17] Y. J. Sato, A. Nakamura, Y. Shimizu, A. Maurya, Y. Homma, D. Li, F. Honda, and D. Aoki, J. Phys. Soc. Jpn. **87**, 053704 (2018).
+* [18] A. Bhattacharyya, D. T. Adroja, P. K. Biswas, Y. J. Sato, M. R. Lees, D. Aoki, and A. D. Hillier, arXiv:1901.04796.
+* [19] N. Haldolaarachchige, Q. Gibson, L. M. Schoop, H. Luo, and R. J. Cava, J. Phys. Condens. Matter **27**, 185701 (2015).
+* [20] N. Kase, H. Suzuki, T. Nakano, and N. Takeda, Supercond. Sci. Technol. **29**, 035011 (2016).
+* [21] U. Pfannenschmidt, U. C. Rodewald, and R. P. Otten, Z. Naturforsch., B: J. Chem. Sci. **66**, 205 (2011).
+* [22] A. S. Cuamba, H.-Y. Lu, and C. S. Ting, Phys. Rev. B **94**, 094513 (2016).
+* [23] A. Bhattacharyya, D. T. Adroja, J. Quintanilla, A. D. Hillier, N. Kase, A. M. Strydom, and J. Akimitsu, Phys. Rev. B **91**, 060503(R) (2015).
+* [24] A. Bhattacharyya, D. T. Adroja, N. Kase, A. Hillier, J. Akimitsu, and A. M. Strydom, Sci. Rep. **5**, 12926 (2015).
+* [25] A. Bhattacharyya, D. T. Adroja, N. Kase, A. D. Hillier, A. M. Strydom, and J. Akimitsu, Phys. Rev. B **98**, 024511 (2018).
+* [26] J. E. Sonier, J. H. Brewer, and R. F. Kiefl, Rev. Mod. Phys. **72**, 769 (2000).
+* [27] S. L. Lee, S. H. Kilcoyne, and R. Cywinski, _Muon Science: Muons in Physics, Chemistry, and Materials_ (SUSSP and IOP, Bristol, England, 1999).
+* [28] F. L. Pratt, Physica B (Amsterdam, Neth.) **289-290**, 710 (2000).
+* [29] N. Kase, H. Hayamizu, and J. Akimitsu, Phys. Rev. B **83**, 184509 (2011).
+* [30] A. Bhattacharyya, D. T. Adroja, M. Smidman, and V. K. Anand, Sci. China: Phys., Mech. Astron. **61**, 127402 (2018).
+* [31] D. Adroja, A. Bhattacharyya, P. K. Biswas, M. Smidmann, A. D. Hillier, H. Mao, H. Luo, G. H. Cao, Z. Wang, and C. Wang, Phys. Rev. B **96**, 144502 (2017).
+* [32] A. Bhattacharyya, D. T. Adroja, K. Panda, S. Saha, T. Das, A. J. S. Machado, O. V. Cigarroa, T. W. Grant, Z. Fisk, A. D. Hillier, and P. Manfrinetti, Phys. Rev. Lett. **122**, 147001 (2019).
+* [33] E. H. Brandt, J. Low Temp. Phys. **73**, 355 (1988).
+* [34] E. H. Brandt, Phys. Rev. B **68**, 054506 (2003).
+
+  * [35] R. Prozorov and R. W. Giannetta, Supercond. Sci. Technol. **19**, R41 (2006).
+* [36] D. T. Adroja, A. Bhattacharyya, M. Telling, Y. Feng, M. Smidman, B. Pan, J. Zhao, A. D. Hillier, F. L. Pratt, and A. M. Strydom, Phys. Rev. B **92**, 134505 (2015).
+* [37] D. T. Adroja, A. Bhattacharyya, M. Smidman, A. D. Hillier, Y. Feng, B. Pan, J. Zhao, M. R. Lees, A. M. Strydom, and P. K. Biswas, J. Phys. Soc. Jpn. **86**, 03470 (2017).
+* [38] D. Das, R. Gupta, A. Bhattacharyya, P. K. Biswas, D. T. Adroja, and Z. Hossain, Phys. Rev. B **97**, 184509 (2018).
+* [39] A. Bhattacharyya, D. T. Adroja, A. D. Hillier, R. Jha, V. P. S. Awana, and A. M. Strydom, J. Phys: Condens. Matter **29**, 265602 (2017).
+* [40] R. P. Singh, A. D. Hillier, D. Chowdhury, J. A. T. Barker, D. McK. Paul, M. R. Lees, and G. Balakrishnan, Phys. Rev. B **90**, 104504 (2014).
+* [41] A. D. Hillier and R. Cywinski, Appl. Magn. Reson. **13**, 95 (1997).
+* [42] D. T. Adroja, A. D. Hillier, J.-G. Park, E. A. Goremychkin, K. A. McEwen, N. Takeda, R. Osborn, B. D. Rainford, and R. M. Ibberson, Phys. Rev. B **72**, 184503 (2005).
+* [43] V. K. Anand, D. Britz, A. Bhattacharyya, D. T. Adroja, A. D. Hillier, A. M. Strydom, W. Kockelmann, B. D. Rainford, and K. A. McEwen, Phys. Rev. B **90**, 014513 (2014).
+* [44] Amy Y. Liu, I. I. Mazin, and J. Kortus, Phys. Rev. Lett. **87**, 087005 (2001).
+* [45] A. Sirohi, S. Saha, P. Neha, S. Das, S. Patnaik, T. Das, and G. Sheet, Phys. Rev. B **99**, 054503 (2019).
+* [46] P. J. Hirschfeld, M. M. Korshunov, and I. I. Mazin, Rep. Prog. Phys. **74**, 124508 (2011); T. Das, EPJ Web Conf. **23**, 00014 (2012).
+* [47] T. Das and K. Dolui, Phys. Rev. B **91**, 094510 (2015).
+
+ 

@@ -1,0 +1,685 @@
+Temperature versus Sm concentration phase diagram and quantum
+criticality in the correlated electron system Ce_(1 − x)Sm_(x)CoIn₅
+
+N. Pouse
+
+Present address: Department of Physics, University of California,
+Berkeley, California 94720.Present address: Department of Physics,
+Central Washington University, 400 East University Way, Ellensburg,
+Washington 98926-7442.Present addresses: Center for Nanophysics and
+Advanced Materials, Department of Physics, University of Maryland,
+College Park, MD 20742; NIST Center for Neutron Research, National
+Institute of Standards and Technology, 100 Bureau Drive, Gaithersburg,
+MD 20899.
+
+S. Jang
+
+Present address: Department of Physics, University of California,
+Berkeley, California 94720.Present address: Department of Physics,
+Central Washington University, 400 East University Way, Ellensburg,
+Washington 98926-7442.Present address: Center for Nanophysics and
+Advanced Materials, Department of Physics, University of California, San
+Diego, La Jolla, California 92093, USA Center for Advanced Nanoscience,
+University of California, San Diego, La Jolla, California 92093, USA
+Materials Science and Engineering Program, University of California, San
+Diego, La Jolla, California 92093, USA
+
+B. D. White
+
+Present address: Department of Physics, University of California, San
+Diego, La Jolla, California 92093, USA Center for Advanced Nanoscience,
+University of California, San Diego, La Jolla, California 92093, USA
+
+S. Ran
+
+Present address: Department of Physics, University of California, San
+Diego, La Jolla, California 92093, USA Department of Physics, University
+of California, San Diego, La Jolla, California 92093, USA
+
+R. B. Adhikari
+
+Department of Physics, Kent State University, Kent, Ohio 44242, USA
+
+C. C. Almasan
+
+Department of Physics, Kent State University, Kent, Ohio 44242, USA
+
+M. B. Maple
+
+Present address: Department of Physics, University of California, San
+Diego, La Jolla, California 92093, USA Materials Science and Engineering
+Program, University of California, San Diego, La Jolla, California
+92093, USA Department of Physics, Kent State University, Kent, Ohio
+44242, USA
+
+###### Abstract
+
+We report electrical resistivity, magnetization, and specific heat
+measurements on the correlated electron system Ce_(1 − x)Sm_(x)CoIn₅ (0
+ ≤ x≤ 1). Superconductivity (SC) in the heavy-fermion compound CeCoIn₅,
+which is suppressed with increasing Sm concentration x, and
+antiferromagnetic (AFM) order of SmCoIn₅, which is suppressed with
+decreasing x, converge near a quantum critical point at x_(QCP) ≈ 0.15,
+with no indication of coexistence of SC and AFM in the vicinity of the
+QCP. Non-Fermi-liquid (NFL) behavior is observed in the normal-state
+electrical resistivity, ρ(T), and specific heat, C(T), in the vicinity
+of the QCP; e.g., the coefficient and the exponent of the power-law T
+dependence of ρ(T) exhibit pronounced maxima and minima, respectively,
+at x_(QCP), while C(T)/T exhibits a logarithmic divergence in T at
+x_(QCP). A low-temperature upturn in ρ(T) develops in the range
+0.70 ≤ x ≤ 0.85 which is reminiscent of a single impurity Kondo effect,
+suggesting that Sm substitution tunes the relative strength of competing
+Kondo and Ruderman-Kittel-Kasuya-Yosida energy scales. The suppression
+of SC with increasing x is probably associated with the exchange
+interaction between the Ce quasiparticles involved in the
+superconductivity and the magnetic moments of the Sm ions.
+
+DOI: 10.1103/PhysRevB.97.235149
+
+## I Introduction
+
+Quantum criticality has been an important and fascinating area of
+correlated electron research due in large part to its presence in
+disparate classes of materials including cuprates and iron pnictide
+high-temperature superconductors, as well as lanthanide- and
+actinide-based heavy-fermion (HF) metals [1]. A quantum critical point
+(QCP) emerges when a second-order phase transition is suppressed to zero
+temperature by tuning nonthermal control parameters such as chemical
+composition, applied pressure, or magnetic field, frequently yielding an
+observable superconducting state [2]. The proximity of superconductivity
+to magnetism in these materials has led to an ongoing debate about the
+underlying mechanism behind the emergent superconductivity and continues
+to drive a great deal of research in this area [3]. The HF
+superconductors CeTIn₅ (T= Co, Rh, Ir) are a prototypical class of
+strongly correlated systems in which unconventional superconductivity
+(SC) emerges in close proximity to an antiferromagnetic (AFM) QCP [3, 4,
+5, 6].
+
+The compound CeCoIn₅ is a d-wave superconductor [7, 8, 9, 10] that has
+provided an opportunity to study the effects of impurities, either
+magnetic or nonmagnetic, on an unconventional superconductor. The
+compound SmCoIn₅ is isostructural with CeCoIn₅, but undergoes three
+successive phase transitions [11] and has not been found to exhibit
+superconductivity under ambient or applied pressure up to 8 GPa [12].
+This is in contrast with the related compound PuCoIn₅ in which
+superconductivity was observed [13]; PuCoIn₅ and SmCoIn₅ have the same
+crystal structure and Pu³⁺ shares the same f-electron shell
+configuration as Sm³⁺.
+
+Our study of the system Ce_(1 − x)Sm_(x)CoIn₅ reported herein was
+motivated by a series of studies on the system Ce_(1 − x)Yb_(x)CoIn₅[14,
+15]. Ytterbium, which can have the same valence states as Sm (2+, 3+),
+was found to display valence fluctuations when substituted into the Ce
+site, while Ce remained trivalent [14, 16]. The Yb valence decreases
+rapidly from 3+ at low x until stabilizing at 2.3+ for x > 0.07[16]. The
+decrease in Yb valence in Ce_(1 − x)Yb_(x)CoIn₅ is accompanied by other
+anomalous phenomena at x = 0.07, such as suppression of the quantum
+critical field, H_(QCP)[17], a Fermi-surface reconstruction [18], and a
+possible crossover from a nodal to nodeless superconducting energy gap
+[19]. This last result was observed in measurements of the London
+penetration depth, λ(T)[19]; although, recent thermal conductivity
+measurements do not show this change in the superconducting energy gap
+[20]. This nodeless superconductivity has been explored by a composite
+pairing scenario in which a fully gapped d-wave molecular superfluid of
+composite pairs form [21]. By substituting Sm into the Ce site in this
+study, we were interested in seeing whether we could observe some of the
+same phenomena reported in the Yb-substituted system [22, 23].
+
+Our measurements of the specific heat of SmCoIn₅ indicate that there are
+two additional phase transitions besides AFM order at T_(N) ∼ 11.6 K,
+including a first-order transition at 10.2 K, and another transition
+with a smaller feature at 6.0 K. This behavior, with three transitions,
+is similar to that observed in a previous study of SmIn₅[24]; however,
+the origin of these additional phase transitions is unknown in SmCoIn₅.
+From μSR measurements on SmIn₃, it is suggested that these ordering
+temperatures are associated with a transition between commensurate and
+incommensurate AFM states [25], although the signatures of the
+transitions are qualitatively different when we compare specific heat
+measurements on SmCoIn₅ and SmIn₃. Additional experiments such as
+anomalous x-ray diffraction must be conducted to determine the nature of
+these transitions. Introducing Ce into SmCoIn₅ disrupts the additional
+phase transitions observed in SmCoIn₅ and results in a single, broad
+transition in the specific heat for concentrations down to x = 0.175. On
+the Ce-rich side of the phase diagram, we
+
+Figure 2: (a), (b) Lattice constants, a and c, plotted as a function of
+x, respectively. (c) Volume of the unit cell, V, plotted as a function
+of x. (d) Representative powder x-ray diffraction pattern for an x = 0.1
+sample (black circles) and calculated fit from the Rietveld refinement
+(red line) used to determine the lattice constants a and c. In panels
+(a)–(c), dashed lines are guides to the eye. Error bars for all
+concentrations and most are less than or of the order of 10⁻⁴ Å;
+however, the x = 0.5 sample has a larger error bar of the order of 10⁻³
+Å.
+
+Figure 1: Energy-dispersive x-ray spectroscopy (EDX) measurements were
+performed on selected single crystals of Ce_(1 − x)Sm_(x)CoIn₅. We
+observed excellent agreement between the measured and nominal Sm
+concentrations. EDX measurements were performed at several locations for
+each sample to evaluate the chemical homogeneity of synthesized single
+crystals. The dashed line is a guide to the eye.
+
+find that superconductivity is rapidly suppressed by x = 0.15.
+Electrical resistivity data demonstrate that the Kondo coherence
+temperature T^(*) is also suppressed with increasing x. The evolution of
+SC and AFM order across the Ce_(1 − x)Sm_(x)CoIn₅ phase diagram provides
+information about the interplay of these two phenomena and
+non-Fermi-liquid (NFL) behavior of the physical properties near a QCP in
+this system.
+
+## II Experimental Details
+
+Single-crystalline samples of Ce_(1 − x)Sm_(x)CoIn₅ were grown using a
+molten In flux as described in Ref. [26]. The crystal structure was
+characterized through analysis of powder x-ray diffraction (XRD)
+patterns collected by a Bruker D8 Discover x-ray diffractometer using a
+Cu Kα source. The chemical composition was investigated by means of
+energy-dispersive x-ray spectroscopy (EDX) using an FEI Quanta 600
+scanning electron microscope equipped with an INCA EDX detector from
+Oxford Instruments. Four-wire electrical resistivity measurements, ρ(T),
+were performed from 300 K down to ∼ 1.1 K in a pumped ⁴He Dewar and down
+to 1.8 K in a Quantum Design Physical Property Measurement System (PPMS)
+DynaCool. For selected samples, ρ(T) was also measured down to 25 mK in
+an Oxford Kelvinox-300 ³He-⁴He dilution refrigerator. Magnetic
+susceptibility measurements were performed between 300 and 2 K in a
+Quantum Design Magnetic Property Measurement System equipped with a 7 T
+superconducting magnet. Specific heat measurements were performed down
+to 1.8 K in a Quantum Design PPMS DynaCool and down to 0.5 K using a ³He
+option. All specific heat measurements were made using a standard
+thermal relaxation technique.
+
+## III Results
+
+### Crystal structure
+
+EDX measurements were performed on selected single crystals used for
+measurements in this study; we observed excellent agreement between
+measured (x_(EDX)) and nominal Sm concentration values (x_(nom)) over
+the entire range of x as shown in Fig. 1. Deviations from this agreement
+may represent inhomogeneity within the single crystals being measured by
+EDX or experimental error from the analysis on Sm concentration. Another
+plausible explanation is the formation of SmIm₃ using excess In from the
+molten flux melt which would contribute to a Sm deficiency in the single
+crystals. This explanation is backed by observations in C(T)
+measurements of rare Ce_(1 − x)Sm_(x)CoIn₅ single crystals showing
+multiple peaks associated with SmIm₃ transitions [24]. Crystals
+exhibiting this behavior were screened; however, this could still
+account for small deficiencies in Sm which can be manifested in EDX and
+powder XRD data for the lattice parameters. These results
+
+Figure 3: Electrical resistivity, ρ, normalized by its value at 300 K,
+plotted vs temperature, T, for Ce_(1 − x)Sm_(x)CoIn₅. (a) Samples with
+low Sm concentration display both a coherence peak associated with the
+formation of a coherent Kondo lattice and superconductivity (see inset)
+that is suppressed with increasing x. (b) As x increases above 0.6, we
+observe a crossover into a single-ion-like Kondo effect in which Ce ions
+behave as a magnetic impurity in SmCoIn₅. (c) On the Sm-rich side of the
+phase diagram, the only salient feature observed is a sharp, “kneelike”
+feature consistent with AFM order of the Sm sublattice, as observed
+previously (see inset) [12].
+
+suggest that there is neither a solubility limit nor a miscibility gap
+in the Ce1-x Sm_(x)CoIn₅ system.
+
+Rietveld refinements were performed on powder XRD patterns for each
+sample using gsas[27] and exgqui[28]; the lattice constants are
+presented in Figs. 2(a) and 2(b), while the unit-cell volume is shown in
+Fig. 2(c). The Ce1-x Sm_(x)CoIn₅ system exhibits a single tetragonal
+crystal structure with space group P4/mmm over the entire concentration
+range. A representative XRD pattern for an x = 0.1 sample is displayed
+in Fig. 2(d). The expected Bragg reflection pattern is shown in red and
+the measured XRD pattern is displayed as a black scatter plot that
+overlaps the refined XRD pattern. The agreement between our data and the
+refinement results was excellent for all samples with typical reduced χ²
+values of less than 5. The lattice constants, a and c, along with the
+unit-cell volume, V, decrease linearly with increasing Sm concentration
+which is in agreement with Vegard’s law [see Figs. 2(a)-2(c)]. This
+adherence to Vegard’s law suggests that the Sm valence remains constant
+at 3+ for all concentrations.
+
+### Electrical resistivity
+
+Electrical resistivity, ρ(T), measurements were performed on selected
+samples in the Ce1-x Sm_(x)CoIn₅ system, and the data are displayed in
+Fig. 3. The behavior of ρ(T) evolves with increasing Sm concentration
+through three distinct regions: low Sm concentrations with x ≤ 0.6
+[panel (a)], intermediate region 0.7 ≤ x ≤ 0.85 [panel (b)], and high
+Sm-concentration region of x ≥ 0.9 [panel (c)]. From published studies,
+we expect a superconducting transition in CeCoIn₅[3, 4, 5] and three
+successive phase transitions, one of which is AFM, for SmCoIn₅[11, 12].
+Our data for the parent compounds are consistent with published studies;
+rare-earth substitution (Sm for Ce or Ce for Sm) away from the Ce- and
+Sm-based parent compounds suppresses these transitions to lower
+temperatures.
+
+Upon chemical substitution away from the Ce- and Sm-based end member
+compounds, both T_(N) and T_(c) appear to be suppressed linearly
+initially (see the phase diagram in Fig. 4); we were unable to observe
+evidence for coexistence of SC and AFM order in measurements down to ∼
+25 mK at any Sm concentration, x. We note that it was difficult to
+clearly identify AFM order for some concentrations due to the presence
+of the coherence peak and the decreasing size of the drop in ρ(T)
+associated with the onset of the AFM order. Therefore, only electrical
+resistivity data are used to identify T_(c), while T_(N) is determined
+from specific heat data that will be discussed below. These results are
+summarized in the phase diagram in Fig. 4.
+
+As we alloy away from each parent compound, we also observe a change in
+the interplay between the Ruderman-Kittel-Kasuya-Yosida (RKKY)
+interaction and the Kondo effect. For CeCoIn₅, a coherence peak in ρ(T)
+associated with the formation of a Kondo lattice involving Ce³⁺ ions is
+observed. With increasing x, the coherence peak gradually shifts to
+lower temperature and broadens as seen in Fig. 3(a). The magnitude and
+position of the peak in ρ(T) associated with Kondo lattice behavior may
+not evolve smoothly throughout the alloy series due to the influence on
+the aforementioned Kondo lattice of single-ion Kondo-like behavior, AFM
+and other types of order of the Sm ions, RKKY interactions between Ce
+and Sm ions, crystalline electric field effects, atomic disorder, etc.
+These effects are highly sensitive to the Ce to Sm ratio which may vary
+somewhat throughout a Ce1-x Sm_(x)CoIn₅ single crystal. For x ≥ 0.7, the
+Ce³⁺ ion concentration is so dilute that a coherent Kondo lattice can no
+longer form, which explains the absence of a coherence peak for x ≥ 0.7.
+Instead, a minimum followed by an upturn in ρ(T) with decreasing
+temperature is observed as shown in Fig. 3(b). This behavior is
+reminiscent of the single-ion Kondo effect associated with a moderately
+dilute concentration of Ce³⁺ ions dissolved into SmCoIn₅. The RKKY
+interaction dominates for x ≥ 0.9, which leads to long-range magnetic
+ordering of Sm³⁺ ions.
+
+### Magnetization
+
+Magnetization measurements were performed on single crystals in the
+Ce1-x Sm_(x)CoIn₅ system with an applied magnetic field H = 5 kOe
+oriented parallel to the ab plane; M(T)/H data are shown in Fig. 5 for
+representative samples. This behavior is consistent with a Curie-Weiss
+law, shown in Eq. (1), for temperatures above ∼ 50 K.
+
+$$\frac{M}{H}=\frac{C}{T-\theta_{\text{CW}}}.$$
+(1)
+
+It is challenging to perform a Curie-Weiss analysis of our M/H data
+since we have two distinct magnetic species with an easy axis along the
+c axis[7] on the Ce-rich side and perpendicular to the c axis[11] on the
+Sm-rich side. These issues along with the likelihood of the samples
+hosting minor amounts of magnetic impurities contribute to the magnetic
+susceptibility’s nonmonotonic behavior with x. Therefore, we are unable
+to provide a detailed analysis of the evolution of the effective
+magnetic moment, μ_(eff), and Curie-Weiss temperature, θ, with Sm
+concentration x.
+
+A Curie-Weiss analysis of the M(H, T) data for SmCoIn₅ is shown in Fig.
+6. This analysis yielded an effective magnetic moment
+μ_(eff) = 1.00μ_(B) and a Curie-Weiss temperature θ = −73 K. The value
+of μ_(eff) for Sm is slightly larger than the
+
+Figure 4: Superconducting critical temperature, T_(c), and Sm ordering
+temperatures T₁, T₂, and T₃ (where T₁ is the Néel temperature, T_(N)) vs
+Sm concentration, x. Lines are guides to the eye.
+
+Sm³⁺ free ion Hund’s rule value of 0.84μ_(B)[29]. A negative value for θ
+reflects the influence of AFM interactions and the Van Vleck
+temperature-independent contribution to χ(T).
+
+### Specific heat
+
+Specific heat measurements from 2 to 30 K are shown in Fig. 7.
+Additional measurements down to 0.5 K were also performed for selected
+samples with concentrations near the concentration where T_(N) is
+completely suppressed (AFM QCP) to look for NFL behavior. Data for
+Ce_(1 − x)Sm_(x)CoIn₅ and LaCoIn₅ single crystals for T > 30 K are
+similar, particularly the T² dependence of C/T which suggests that
+LaCoIn₅ is a suitable nonmagnetic reference compound due to the
+similarity in the phonon contribution to the specific heat. The
+superconducting transition in CeCoIn₅ is observed with a sharp jump at
+T_(c) = 2.3 K. For Sm-rich compounds, we can identify up to three
+different phase transitions which are consistent with electrical
+resistivity and magnetization measurements as shown in Fig. 8; these
+transitions are likely associated with
+
+Figure 8: (a) Electrical resistivity, ρ, (b) magnetization divided by
+magnetic field, M/H, and (c) specific heat, C, vs temperature, T, in the
+range 0 ≤ T ≤ 20 K. Corresponding magnetic transitions can be observed
+in the different measurements with the vertical red dashed lines drawn
+through T₁, T₂, and T₃ which serve as guides to the eye.
+
+Figure 5: Magnetization, M/H, vs temperature, T, measured in an applied
+magnetic field H = 5 kOe. The magnetic field was oriented parallel to
+the ab plane.
+
+Figure 6: Magnetization, M/H, and (M/H − χ₀)⁻¹, where χ₀ is a constant,
+vs temperature, T, for SmCoIn₅. Best-fit values for the effective
+magnetic moment, $\mu_{\rm eff}$, Curie-Weiss temperature, θ, and χ₀
+were extracted from a fit of the Curie-Weiss law to the data and are
+given in the panel. Features corresponding to magnetic transitions are
+observed at low temperatures.
+
+Figure 7: Specific heat, C, vs temperature, T, between 2 and 30 K for
+Ce_(1 − x)Sm_(x)CoIn₅ and a nonmagnetic reference compound, LaCoIn₅.
+
+magnetic order, but two of them are currently unidentified as will be
+discussed later. The evolution of the specific heat data as we move from
+x = 0 to x = 1 is shown in Fig. 9 (where data for LaCoIn₅ are included
+for reference). These data were used to construct the phase diagram
+displayed in Fig. 4.
+
+The highest transition temperature, T₁, is the Neel temperature, T_(N),
+as reported by Inada _et al._[11]. As we substitute Ce into SmCoIn₅, we
+observe a continuous suppression of T₁ down to x = 0.175. The second
+temperature, T₂, is also suppressed; however, it is not suppressed at
+the same rate as T₁, which eventually leads to an overlap of both
+transition signatures. This coincidence of features indicates either
+that we have only one distinct transition for these concentrations, or
+that they cannot be separately resolved by specific heat measurements.
+The third characteristic temperature, T₃, only appears as a very subtle
+feature in the data for both x = 0.9 and 1 (see Fig. 8). For all other
+concentrations (including x = 0.95), the feature at T₃ is either too
+small to detect, or it disappears. It is also possible that, like T₂,
+this transition merges with the other magnetic transitions. As seen in
+the phase diagram, T₃ appears to increase with decreasing x.
+
+Three distinct transitions have been observed in other Sm-based members
+of the Sm_(n)M_(m)In_(3n + 2m) family of compounds (M= Rh or Ir;
+n = 1, 2; m = 0, 1), such as SmIn₃, SmIrIn₅, SmRhIn₅, SmRhIn₅, and
+Sm₂RhIn₈[24, 30, 31]. It is particularly instructive to consider the
+compound SmIn₃, which is closely related to SmCoIn₅ (in analogy with the
+well-known structural relationship between CeIn₃ and CeCoIn₅). Muon spin
+rotation (μSR) measurements have been performed on SmIn₃ to clarify the
+nature of the three phase transitions; the results of this study
+demonstrated they are all associated with magnetic ordering [30]. From
+specific heat data [24], we see similar features indicative of phase
+transitions. We conclude that SmCoIn₅ and SmIn₃ each exhibit a similar
+AFM transition at their highest transition temperature, T₁. The nature
+of the remaining two transitions at T₂ and T₃ is still unknown. From the
+aforementioned study on SmIn₃[25], there is evidence of a transition
+from incommensurate to commensurate AFM order at T₂; although, the shape
+of the specific heat feature is qualitatively different from our data
+presented herein. In either case, the nature of T₃ is still unknown.
+Additional measurements such as anomalous x-ray diffraction will need to
+be conducted to identify the nature of these ordered phases.
+
+Heat capacity measurements were performed down to 0.5 K to characterize
+the Ce_(1 − x)Sm_(x)CoIn₅ system around the potential AFM QCP. Figure 10
+shows C(T)/T data plotted on a semilogarithmic scale for selected
+concentrations in the vicinity of the possible QCP near x = 0.15.
+Consistent with NFL behavior, C(T)/T for x = 0.15 diverges
+logarithmically with decreasing T over a large temperature range.
+Neighboring concentrations do not exhibit this strong logarithmic
+divergence in T due to the higher values of T_(c) (x = 0.1) and T_(N)
+(x = 0.175, 0.225, 0.25, 0.3, and 0.4), restricting the range within
+which NFL behavior can reasonably be distinguished. This picture is
+consistent with the current phase diagram in Fig. 4. As we see from our
+measurements, SC is observed up to a concentration x = 0.1 where
+T_(c) ≈ 1 K and AFM is last observed at x = 0.175 below T_(N) ≈ 1.2 K.
+Despite performing measurements down to 0.5 K, we were unable to observe
+any additional phase transitions at the concentration x = 0.15. The
+suppression of T_(c) and T_(N) with x becomes
+
+Figure 10: Specific heat, C, divided by temperature, T, C/T, vs log(T)
+for selected Sm concentrations x near a potential AFM QCP. C(T)/T
+exhibits a logarithmic divergence in T for x = 0.15, behavior that is
+consistent with quantum criticality. For other concentrations (x = 0.1,
+0.175, 0.225, 0.25, 0.3, and 0.4), this behavior is not as apparent due
+to the proximity to their respective phase transitions, distance from
+the QCP, and the limited temperature range over which logarithmic
+behavior in T can be identified.
+
+Figure 9: Specific heat, C, plotted vs temperature, T, for LaCoIn₅ and
+Ce_(1 − x)Sm_(x)CoIn₅ (x = 0, 0.05, 0.25, 0.5, 0.7, 0.8, 0.9, and 1) to
+demonstrate the evolution of behavior; we move from superconductivity on
+the Ce-rich side to antiferromagnetic order on the Sm-rich side.
+
+nonlinear in this concentration range; instead, SC is suppressed much
+more rapidly with x for x > 0.1, while AFM order is suppressed more
+rapidly with decreasing x for x < 0.175. From this picture, we suggest
+that a QCP, associated with the suppression of both the SC and AFM
+phases where T_(c) and T_(N) are driven to zero temperatures, lies in
+very close proximity to the concentration x = 0.15.
+
+The apparent AFM QCP at x_(QCP) ≈ 0.15 for Ce_(1 − x)Sm_(x)CoIn₅ reveals
+a gradual suppression of T_(N) with decreasing x in comparison to other
+substituted 115 compounds in which the AFM QCP occurs at larger values
+of x, such as CeCo_(1 − x)Rh_(x)In₅[32,33] (x_(QCP) ≈ 0.25),
+Y_(1 − x)Ce_(x)RhIn₅[26] (x_(QCP) ≈ 0.65), and La_(1 − x)Ce_(x)RhIn₅[34]
+(x_(QCP) ≈ 0.5). This may suggest a robust AFM phase in SmCoIn₅,
+supported by evidence of three distinct magnetic transitions, when
+compared to the AFM phase in CeRhIn₅. The measurements reported herein
+do not provide any evidence for the coexistence of the superconducting
+and AFM phases associated with the Ce and Sm ions, respectively, in
+contrast to CeCo_(1 − x)Rh_(x)In₅ at ambient pressure, in which the Ce
+ions are responsible for both the SC and the AFM ordering. Thus, the
+Ce_(1 − x)Sm_(x)CoIn₅ system may fall into the class of magnetically
+ordered superconductors which consist of a superconducting subsystem
+involving electrons associated with Ce ions that interact via the
+exchange interaction with a magnetically ordered subsystem consisting of
+the localized f electrons of the Sm ions. In these types of systems, SC
+has been found to coexist with AFM order and to be suppressed by
+ferromagnetic order of localized magnetic moments [35].
+
+## IV Discussion
+
+### Electronic and phonon contributions to specific heat
+
+Further analysis was performed on the specific heat data for
+Ce_(1 − x)Sm_(x)CoIn₅ using the Debye model, C/T = γ + βT². By fitting a
+straight line to the C/T vs T² data in the temperature range T > T_(N),
+we extracted best-fit values for β. We used the values of β to calculate
+the values of the characteristic Debye temperature, Θ_(D), using the
+relation
+
+$$\beta=\frac{12\pi^{4}N_{A}k_{B}}{5\Theta_{D}^{3}}.$$
+(2)
+
+These results are plotted in Fig. 11 where Θ_(D) increases monotonically
+with x. Due to the broad features from magnetic ordering and the limited
+temperature range in which the Debye model is applicable, characterized
+by the calculated Debye temperature, it is difficult to extrapolate
+meaningful values of γ. We looked at two characteristic "γ" values as a
+general observation, one at 15 K and another at 2 K to compare to the
+value (γ = 53 mJ/mol K²) from a study of SmCoIn₅ by Inada _et al._[11].
+To do this, we extracted values for C_(e)/T at 2 K, where C_(e)/T =
+C/T - βT² is the electronic contribution to the specific heat divided by
+temperature; we performed a similar analysis above the magnetic ordering
+temperature by selecting C_(e)/T at 15 K. The results for C_(e)/T are
+plotted in Fig. 11, where we observe that values for C_(e)/T at high and
+low T behave in opposite manners; at 2 K, the value of C_(e)/T simply
+decreases with x for x ≥ 0.25 (concentrations where the AFM transition
+is clearly observed). This trend can be easily understood since the
+closer T_(N) is to 2 K, the larger the magnetic contribution is to
+C_(e)/T. For C_(e)/T at 15 K (a high-temperature, normal-state γ), we
+observe a similar trend with x as we did at 2 K for x < 0.25; however,
+for x ≥ 0.25, there is a monotonic increase in C_(e)/T due to the
+introduction of the AFM transition above x = 0.225.
+
+### Entropy calculations from specific heat
+
+Entropy calculations were made using measured specific data via
+numerical integration of Eq. (3).
+
+$$S(T)=\int\frac{C_{e}(T)}{T}dT.$$
+(3)
+
+Calculations of S(T) associated with magnetic ordering are compared to
+various values of the entropy R ln(2J + 1) in Fig. 12 with dashed lines
+for $J=\frac{1}{2}$, 1, and $\frac{3}{2}$. Concentrations exhibiting
+large peaks in C vs T data (x ≥ 0.5) show a change in slope near
+characteristic entropy values. For 0.5 ≤ x ≤ 0.8, the entropy associated
+with magnetic ordering is around R ln 2. For Sm-rich concentrations
+(x ≥ 0.9), the change in entropy is about R ln 3; we have already
+described a crossover in behavior of the electrical resistivity data
+that also occurs near x ≈ 0.9 (see Fig. 3).
+
+### Non-Fermi-liquid behavior in low-temperature electrical resistivity
+
+Low-temperature electrical resistivity, ρ(T), data in the paramagnetic
+state are often fitted using a power-law function of the usual form:
+
+ρ = ρ₀ + AT^(n).
+(4)
+
+Due to errors in the geometrical factor A/L (A = cross-sectional area,
+L= length) used to convert electrical resistance R to electrical
+resistivity $\rho=R(\frac{A}{L})$, the following equation
+
+Figure 11: Electronic contribution to the specific heat divided by
+temperature, C_(e)/T, at 2 K (black squares), temperature-independent
+contribution to C_(e)/T at 15 K, above the magnetic ordering temperature
+(blue triangles), and Debye temperature Θ_(D) (red circles), all plotted
+as a function of Sm concentration x, in Ce_(1 − x)Sm_(x)CoIn₅. Dashed
+curves are guides to the eye. The procedures for determining the values
+of C_(e)/T at 2 and 15 K are described in the text.
+
+was fitted to the normalized resistivity, $\rho(x,T)/\rho(300~{}\rm K)$,
+data:
+
+$$(\rho-\rho_{0})/\rho(300~{}\rm K)=A^{\prime}T^{n},$$
+(5)
+
+where $A^{\prime}=A/\rho(300~{}\rm K)$.
+
+Exponents, n, that are subquadratic, indicative of NFL behavior, were
+observed to develop in the 0 ≤ x ≤ 0.5 concentration region. This
+fitting procedure is reasonable around the projected QCP near x = 0.15;
+however, due to the proximity to the superconducting and magnetically
+ordered phases, the temperature range in which this fit can be achieved
+is very small. By plotting $\log[(\rho-\rho_{0})/\rho(300~{}\rm K)]$ vs
+log T (see Fig. 13), we observed a linear region which corresponds to a
+constant value of n. Extracting n as the slope of the line in these
+plots, we plotted $\rho_{0}/\rho(300~{}\rm K)$, A^(′), and n vs x to
+characterize the behavior of the electrical resistivity around the QCP
+as shown in Fig. 14. We observe a decreasing NFL exponent of n ≈ 1 at
+x = 0 to n ≈ 0.13 at x = 0.15 before n returns to n ≈ 1 as x increases
+beyond the QCP near x = 0.15. The normalized residual resistivity,
+$\rho_{0}/\rho(300~{}\rm K)$, increases steadily as a function of x,
+likely due to the increasing number of magnetic ions introduced via Sm
+substitution. The normalized coefficient, A^(′)(x), shows a sharp cusp
+near the QCP, which is indicative of NFL behavior. The behavior of n(x)
+is consistent with quantum critical behavior where proximity to a QCP in
+the normal state results in a departure of the physical properties from
+Fermi-liquid behavior where n = 2. The residual resistivity, ρ₀(x), and
+the coefficient, A(x), can be determined by multiplying the normalized
+residual resistivity, $\rho_{0}(x)/\rho(x,300~{}\rm K)$, and normalized
+coefficient, $A^{\prime}(x)=A(x)/\rho(x,300~{}\rm K)$, by the value of
+$\rho(x,300~{}\rm K)$ determined by making a least-squares fit of the
+relation $\rho(x,300~{}\rm K)=\rho(0,300~{}\rm K)+\alpha$ to the
+$\rho(x,300~{}\rm K)$ data. This fit yields the values
+$\rho(0,300~{}\rm K)=0.21\pm 0.19$ mΩ cm and α = 2.23 ± 0.80 mΩ cm. The
+errors reflect the scatter in the measured values of
+$\rho(x,300~{}\rm K)$, which are partially due to uncertainties in the
+geometrical factor used to convert R(T) to ρ(T).
+
+The power-law behavior of the electrical resistivity in this system is
+consistent with a previous study of other Ce_(1 − x)R_(x)CoIn₅ systems
+($R=\rm Yb$, $\rm Y$, $\rm Lu$, $\rm Er$, $\rm Dy$, $\rm Gd$) by
+Paglione _et al._[36], in which values of n ≲ 1 were found for various R
+substituents. Furthermore, an inverse proportionality between n and ρ₀
+for each R ion was found, similar to what we have observed in the
+Ce_(1 − x)Sm_(x)CoIn₅ system.
+
+## V V. Concluding remarks
+
+Based on powder x-ray diffraction, electrical resistivity,
+magnetization, and specific heat measurements on Ce_(1 − x)Sm_(x)CoIn₅
+single crystals, we constructed a T vs x phase diagram for this system.
+As Sm is substituted for Ce, we observe a crossover from
+superconductivity on the Ce-rich side to antiferromagnetism and other
+types of order whose origin is currently unknown on the Sm-rich side. We
+observed NFL
+
+Figure 12: Electronic entropy, S(T), calculated as described in the
+text, plotted vs temperature, T. Dashed lines showing Rln (2J + 1) at
+various values of total angular momentum J are provided for comparison.
+
+behavior consistent with quantum criticality in the intermediate region
+0.1 < x < 0.225. There appears to be an AFM QCP in the vicinity of
+x = 0.15 with no indication of coexistence of SC and AFM. An evolution
+from Kondo coherence to single-ion Kondo behavior and then eventually to
+magnetic ordering via the RKKY interaction (and other types of order)
+occurs as x increases from 0 to 1. Since Sm has a high neutron
+absorption cross section making it unsuitable for neutron-scattering
+measurements, further studies into this compound using techniques such
+as anomalous x-ray diffraction will be necessary to elucidate the nature
+of magnetic order in the Ce_(1 − x)Sm_(x)CoIn₅ system.
+
+###### Acknowledgements.
+
+Research at the University of California, San Diego was supported by the
+US Department of Energy, Office of Basic Energy Sciences, Division of
+Materials Science and Engineering under Grant No. DE-FG02-04-ER46105
+(materials synthesis and characterization) and the US National Science
+Foundation under Grant No. DMR-1206553 (low-temperature measurements).
+Research at Kent State University was supported by the US National
+Science Foundation under Grant No. DMR-1505826 (low-temperature specific
+heat measurements).
+
+## References
+
+* (1) P. Gegenwart, Q. Si, and F. Steglich, Nature Phys. **4**, 186
+(2008). * (2) F. Steglich, J. Arndt, S. Friedemann, C. Krellner, Y.
+Toskiwa, T. Westerkamp, M. Brando, P. Gegenwart, C. Geibel, S. Wirth,
+and O. Stockert, J. Phys.: Condens. Matter **22**, 164202 (2010). * (3)
+J. D. Thompson and Z. Fisk, J. Phys. Soc. Jpn. **81**, 011002 (2012). *
+(4) G. Stewart, Rev. Mod. Phys. **56**, 755 (1984). * (5) F. Steglich,
+C. Geibel, R. Modler, M. Lang, P. Hellmann, and P. Gegenwart, J. Low
+Temp. Phys. **99**, 267 (1995). * (6) B. D. White, J. D. Thompson, and
+M. B. Maple, Physica C **514**, 246 (2015). * (7) C. Petrovic, P. G.
+Pagliuso, M. F. Hundley, R. Movshovich, J. L. Sarrao, J. D. Thompson,
+and Z. Fisk, J. Phys.: Condens. Matter **13**, L337 (2001). * (8) L. H.
+Greene, W. K. Park, J. L. Sarrao, and J. D. Thompson, Physica B **378**,
+671 (2006). * (9) B. B. Zhou, S. Misra, E. H. da Silva Neto, P.
+Aynajian, R. E. Baumbach, J. D. Thompson, E. D. Bauer, and A. Yazdani,
+Nat. Phys. **9**, 474 (2013). * (10) M. P. Allan, F. Massee, D. K. Morr,
+J. Van Dyke, A. W. Rost, A. P. Mackenzie, C. Petrovic, and J. C. Davis,
+Nat. Phys. **9**, 468 (2013). * (11) Y. Inada, M. Hedo, T. Fujiwara, T.
+Sadamasa, and Y. Uwatoko, Physica B **378**, 421 (2006). * (12) M.
+Koeda, M. Hedo, T. Fujiwara, Y. Uwatoko, T. Sadamasa, and Y. Inada, J.
+Phys. Soc. Jpn. **76**, 62 (2007). * (13) E. D. Bauer, M. M. Alarawneh,
+P. H. Tobash, K. Gofryk, O. E. Ayala-Valenzuela, J. N. Mitchell, R. D.
+McDonald, C. H. Mielke, F. Ronning, J.-C. Griveau, E. Colineau, R.
+Eloirdi, R. Caciuffo, B. L. Scott, O. Janka, S. M. Kauzlarich, and J. D.
+Thompson, J. Phys.: Condens. Matter **24**, 052206 (2012). * (14) L.
+Shu, R. E. Baumbach, M. Janoschek, E. Gonzales, K. Huang, T. A. Sayles,
+J. Paglione, J. O’Brien, J. J. Hamlin, D. A. Zocco, P.-C. Ho, C. A.
+McElroy, and M. B. Maple, Phys. Rev. Lett. **106**, 156403 (2011). *
+(15) C. Capan, G. Seyfarth, D. Hurt, B. Prevost, S. Roorda, A. D.
+Bianchi, and Z. Fisk, Europhys. Lett. **92**, 47004 (2010). * (16) L.
+Dudy, J. D. Denlinger, L. Shu, M. Janoschek, J. W. Allen, and M. B.
+Maple, Phys. Rev. B **88**, 165118 (2013). * (17) T. Hu, Y. P. Singh, L.
+Shu, M. Janoschek, M. Dzero, M. B. Maple, and C. C. Almasan, Proc. Natl.
+Acad. Sci. **110**, 7160 (2013). * (18) A. Polyakov, O. Ignatchik, B.
+Bergk, K. Gotze, A. D. Bianchi, S. Blackburn, B. Prevost, G. Seyfarth,
+M. Cote, D. Hurt, C. Capan, Z. Fisk, R. G. Goodrich, I. Sheikin, M.
+Richter, and J. Wosnitza, Phys. Rev. B **85**, 245119 (2012). * (19) H.
+Kim, M. A. Tanatar, R. Flint, C. Petrovic, R. Hu, B. D. White, I. K.
+Lum, M. B. Maple, and R. Prozorov, Phys. Rev. Lett. **114**, 027003
+(2015). * (20) Y. Xu, J. K. Dong, I. K. Lum, J. Zhang, X. C. Hong, L. P.
+He, K. F. Wang, Y. C. Ma, C. Petrovic, M. B. Maple _et al._, Phys. Rev.
+B **93**, 064502 (2016). * (21) O. Erten, R. Flint, and P. Coleman,
+Phys. Rev. Lett. **114**, 027002 (2015). * (22) M. Shimozawa, T.
+Watashige, S. Yasumoto, Y. Mizukami, M. Nakamura, H. Shishido, S. K.
+Goh, T. Terashima, T. Shibauchi, and Y. Matsuda, Phys. Rev. B **86**,
+144526 (2012). * (23) S. Jang, B. D. White, I. K. Lum, H. Kim, M. A.
+Tanatar, W. E. Straszheim, R. Prozorov, T. Keiber, F. Bridges, L. Shu,
+and R. E. Baumbach, Philos. Mag. **94**, 4219 (2014). * (24) M. Kasaya,
+B. Liu, M. Sera, T. Kasuya, D. Endoh, T. Goto, and T. Fujimura, J. Magn.
+Magn. Mater. **52**, 289 (1985). * (25) T. U. Ho, W. Higemoto, K.
+Ninomiya, H. Luetkens, T. Sugai, Y. Haga, and H. S. Suzuki, J. Magn.
+Magn. Mater. **80**, 033701 (2011). * (26) V. S. Zapf, N. A. Frederick,
+K. L. Rogers, K. D. Hof, P.-C. Ho, E. D. Bauer, and M. B. Maple, Phys.
+Rev. B **67**, 064405 (2003). * (27) A. C. Larson and R. B. von Dreele,
+General Structure Analysis System (GSAS), Los Alamos National Laboratory
+Report LAUR 86-748 (1994). * (28) H. M. Rietveld, J. Appl. Crystallogr.
+**2**, 65 (1969). * (29) J. H. Van Vleck, _The Theory of Electric and
+Magnetic Susceptibilities_ (Oxford University Press, New York, 1932). *
+(30) Takashi U. Ito, W. Higemoto, K. Ninomiya, H. Luetkens, T. Sugai, Y.
+Haga, and H. S. Suzuki, J. Phys. Soc. Jpn. **80**, 033710 (2011). * (31)
+P. G. Pagliuso, J. D. Thompson, M. F. Hundley, J. L. Sarrao, and Z.
+Fisk, Phys. Rev. B **63**, 054426 (2001). * (32) V. S. Zapf, E. J.
+Freeman, E. D. Bauer, J. Petricka, C. Sirvent, N. A. Frederick, R. P.
+Dickey, and M. B. Maple, Phys. Rev. B **65**, 014506 (2001). * (33) J.
+R. Jeffries, N. A. Frederick, E. D. Bauer, H. Kimura, V. S. Zapf, K.-D.
+Hof, T. A. Sayles, and M. B. Maple, Phys. Rev. B **72**, 024551
+(2005). * (34) B. E. Light, R. S. Kumar, A. L. Cornelius, P. G.
+Pagliuso, and J. L. Sarrao, Phys. Rev. B **69**, 024419 (2004). * (35)
+M. B. Maple, Physica B **215**, 110 (1995). * (36) J. Paglione, T. A.
+Sayles, P.-C. Ho, J. R. Jeffries, and M. B. Maple, Nat. Phys. **3**, 703
+(2007).

@@ -1,0 +1,431 @@
+# Transport properties of Cu-O chains in Sr2CuO3+_d_
+
+W. B. Archibald, J.-S. Zhou, and J. B. Goodenough
+
+Center for Materials Science and Engineering, ETC 9.102, University of
+Texas at Austin, Austin, Texas 78712-1063
+
+10 July 1995
+
+###### Abstract
+
+High-pressure oxidation of Sr2CuO3+_d_ with d < 0.1 has produced samples
+with metallic chains as well as those with small-polaron behavior. The
+paramagnetic susceptibility evolves with increasing d from a primarily
+Bonner-Fisher temperature dependence to a Curie-Weiss behavior for
+small-polaron samples and a strongly mass-enhanced Pauli paramagnetism
+for the metallic samples. Samples of intermediate oxidation exhibited a
+smooth transition from metallic behavior at low temperatures to
+small-polaron behavior at higher temperatures. The small low-temperature
+Seebeck coefficient _a_(_T_) of the metallic samples exhibited a
+negative enhancement characterized by a hump at approximately 75 K
+typical of acoustic-phonon drag; there was no evidence for an _a_(_T_)
+like that of the CuO2 planes of the superconductive cuprates, which have
+an enhancement with a _T_max 140 K that we have associated with vibronic
+states derived from dynamic pseudo-Jahn-Teller deformations of the Cu
+sites inside large correlation polarons. These data support the
+suggestion that an enhancement with a _T_max 140 K found for the chains
+in YBa2Cu3O6,96 is the result of a strong elastic coupling to the
+superconductive CuO2 sheets and is not an intrinsic property of the
+chains.
+
+## Introduction
+
+We report on the transport properties of orthorhombic Sr2CuO3+_δ_, which
+contains isolated chains of corner-shared square-coplanar CuO4 units
+(Fig. 1). Similar one-dimensional chains are found in the 90-K
+superconductor YBa2Cu3O7-_δ_ but in this structure the apical oxygen are
+shared by the Cu of the superconductive two-dimensional CuO2 sheets. In
+superconductive La2-_x_Sr2CuO4, there are no chains, only CuO2 sheets.
+
+In the superconductive and overdoped La2-_x_Sr2CuO4 compositions, we
+have found1 an enhancement term _δ_a_(_T_) in the Seebeck coefficient
+
+α(T) = α₀ + δα(T),
+
+that has a maximum value at a _T_max 140 K; the nearly
+temperature-independent term a0 decreases monotonically from a large,
+positive value in the optimally doped sample x = 0.15 to a small,
+negative value in the overdoped sample x = 0.30. We have argued that a
+_T_max 140 K is too high for the _δ_a_(_T_) enhancement to be accounted
+for with a process involving acoustic phonons, but that it is compatible
+with one involving optical-mode phonons. We have also shown that holes
+trapped in pockets of more covalently bonded regions of a CuO2 sheet
+would form nonadiabatic large polarons occupying about five Cu sites as
+a result of cooperative, dynamic pseudo-Jahn-Teller deformations of the
+sites within a polaron,2,3 and that interpolon elastic coupling would
+cause the polaron gas to condense into a polaron liquid below 300 K and
+into a polaron solid below _T__(C) in the superconductive
+compositions.2,4 The strong electron-lattice interactions associated
+with the dynamic, cooperative pseudo-Jahn-Teller deformations result in
+_vibronic_ charge carriers that, as a polaron-liquid or polaron-solid
+phase, give rise to a vibronic energy dispersion _ε_(**k**) capable of
+introducing an optical-mode enhancement _δ_a_(_T_) to the Seebeck
+coefficient. Moreover, the vibronic energy dispersion _ε_(**k**) would
+be extremely flat in the Cu-O bond directions, as observed with
+angle-resolved photoemission spectroscopy,5 and would exhibit a midband
+energy gap in the superconductive compositions that disappeared with the
+loss of polaron formation in the overdoped compositions where the
+vibronic states become homogeneous over the Cu atoms of a CuO2 sheet.
+
+Thermopower measurements of the YBa2Cu3O7-_δ_ 90-K superconductor record
+a negative contribution from the chains of the Cu(1)O1-_δ_ planes that
+is competitive with the
+
+Figure 1: The structure of orthorhombic Sr2CuO3 showing isolated chains
+of corner-shared square-coplanar CuO4 units.
+
+positive contribution from the CuO₂ sheets.[6] By simultaneously
+substituting Ca for Y and La for Ba so as to maintain the optimum
+oxidation state of the Cu-O array, it proved possible to suppress the
+chain contribution to the thermopower by breaking up the chains.[7] With
+this strategy we could demonstrate not only that the optimally doped
+CuO₂ sheets gave the same thermopower behavior in YBa₂Cu₃O_(7 − δ) as in
+La_(2 − x)Sr_(x)CuO₄, but also that the chain contribution too could be
+described by Eq. (1), but with a change in sign of both α₀ and δα(T)
+with a $T_{\rm max}$≈140 K as for the sheets. Since the chains would not
+support vibronic states associated with cooperative pseudo-Jahn-Teller
+deformations as in the CuO₂ sheets unless they were driven by coupling
+to the sheets, we were motivated to investigate the character of the
+charge carriers in isolated chains and whether any enhancement
+associated with itinerant charge carriers in these chains gave an
+enhancement factor δα(T) with a $T_{\rm max}$≈140 K or one with a lower
+$T_{\rm max}$ characteristic of a conventional acoustic-phonon drag.
+
+The isolated Cu-O chains of the orthorhombic Sr₂CuO₃ structure, Fig. 1,
+give a spin magnetic susceptibility described by[8]
+
+$$\chi(T) = \rho\chi_{\rm CW} + (1 - \rho)\chi_{\rm BF},$$
+(2)
+
+where $\chi_{\rm CW}$ is a Curie-Weiss component associated with
+impurities or short chain lengths with an odd number of Cu²⁺ sites and
+$\chi_{\rm BF}$ is the Bonner-Fisher[9] susceptibility for an S = 1/2
+infinite, isotropic Heisenberg chain with an antiferromagnetic exchange
+constant |J|/k_(B)≈1300 K. The low-spin Cu⁵⁺ centers are diamagnetic.
+The parameter ρ increased with oxidation, but the extent of doping of
+the chains either n-type or p-type has been so small that there has been
+no report on their transport properties. A challenge for us, therefore,
+was to find a way to oxidize the chains sufficiently to render them
+metallic; without an energy dispersion $\epsilon({\bf k})$, it would not
+be possible to observe an enhancement term δα(T) of the Seebeck
+coefficient.[1] However, the experiment faced another hazard. A
+one-dimensional metal having a partially filled, narrow band of
+itinerant electrons is unstable with respect to stabilization of a
+Peierls charge-density wave (CDW) in a single-valent system and to a
+sliding CDW in a mixed-valent system.
+
+Fortunately we have been able to oxidize under high oxygen pressure the
+Cu-O chains to the metallic state with no CDW transition; the
+thermopower shows a δα(T), but with a $T_{\rm max}$≈75 K characteristic
+of a conventional phonon drag rather than the $T_{\rm max}$≈140 K
+characteristic of the superconductive copper oxides.
+
+## Experimental
+
+Sr₂CuO₃ was prepared by conventional solid-state reaction of
+stoichiometric quantities of SrCO₃ and CuO calcined at 950 ^(∘)C,
+sintered at 1000 ^(∘)C in air, and quenched from 500 ^(∘)C. We were
+unable to make n-type Sr₂CuO₃ with either chemical substitution or
+reduction under high pressure. However, we were able to oxidize Sr₂CuO₃
+under a high oxygen pressure in the range 20≈$P_{\rm O(2)}$≈55 kbar at
+temperatures 800≈T≈1100 ^(∘)C.
+
+Powdered single-phase Sr₂CuO₃ was pelletized, sintered, and placed in a
+copper crucible together with KClO₄ as an oxygen source. A gold ring was
+placed between the sample and the copper crucible; a disk of
+yttrium-stabilized zirconia separated the sample and the KClO₄. The
+zirconia disk allowed the transfer of oxygen, but blocked the transfer
+of K⁺ and Cl⁻ ions. Separation of the sample and the KClO₄ proved
+critical as contamination with K⁺ ions stabilizes an Sr₂CuO_(4 − λ)
+tetragonal phase containing CuO₂ planes. Before assembly, all materials
+were dried. The temperature inside the pressure chamber was determined
+from a calibrated curve of heater-input power versus temperature. The
+interstitial-oxygen concentration of the product could be controlled by
+varying the temperature of the high-pressure anneal. All samples were
+quenched under high pressure. Oxidized Sr₂CuO_(3 + δ) samples exhibiting
+polaronic transport behavior were highly reproducible; the preparation
+of metallic samples was more difficult to reproduce as the synthesis
+conditions are very close to those that transform the orthorhombic phase
+to the tetragonal phase containing CuO₂ planes instead of chains.
+
+Previous attempts[10] to prepare orthorhombic Sr₂CuO_(3 + δ) missed the
+orthorhombic phase with metallic chains because of stabilization of the
+tetragonal phase under high pressure. In those experiments, there was
+contact of the sample with the KClO₄ oxygen source. We found that such
+contact converts the orthorhombic Sr₂CuO_(3 + δ) phase to the tetragonal
+phase at lower annealing temperatures, which narrows the range of δ for
+the orthorhombic phase in the P-T phase diagram and suppresses the
+metallic compositions.
+
+All the orthorhombic Sr₂CuO_(3 + δ) samples, both those having polaronic
+conduction and those that were metallic, gradually lose oxygen over a
+period of a few days under ambient conditions. Therefore all
+measurements were carried out on fresh samples below 300 K.
+
+Since the Sr₂CuO_(3 + δ) structure lacks high-angle diffraction peaks,
+we calculated the lattice parameters by curve fitting several
+good-profile peaks against Mo as an internal standard. The oxygen
+content was determined by iodiometric titration. Magnetic
+susceptibilities were taken with a superconducting quantum interference
+device magnetometer (Quantum Design); thermopower and conductivity data
+were obtained with a home-built apparatus described elsewhere.[11]
+
+In the metallic samples the value of the Seebeck coefficient is low
+enough that the contribution from the copper leads cannot be neglected,
+especially in the low-temperature range. In order to correct for the
+background, the contribution to the Seebeck coefficient from the copper
+leads was measured directly at low temperatures (T<80 K) with a
+123-superconductor sample. The copper-lead contribution above 80 K is
+almost linearly dependent on temperature and was taken from the
+literature.
+
+## Results
+
+From Fig. 1, it is apparent that the extra oxygen can occupy two
+possible interstitial sites: one is located between two Cu atoms of
+adjacent Cu-O chains, the other is within the Sr₂O₂ rocksalt layer
+coordinated tetrahedrally by four Sr²⁺ ions and also by four oxygen
+atoms as in La₂NiO_(4 + δ) (Ref. [12]) and La₂CuO_(4 + δ).[13] The
+evolution of the lattice parameters with increasing interstitial oxygen
+concentration δ is given in Table 1; an increase in the c parameter with
+no measurable change in the a and b parameters indicates that the
+interstitial oxygen atoms occupy sites in the Sr2O2 rocksalt layers. In
+the Sr2O2 layers, the interstitial oxygen does not coordinate a Cu atom,
+so the Cu-O-Cu interactions in the chains remain relatively unperturbed
+except for interactions between the interstitial oxygen and the apical
+oxygen of the chains. In the case of La2CuO4+_d_, the interstitial
+oxygen oxidize the CuO2 sheets at low temperatures to make them
+superconductive.[14] Similarly located interstitial oxygen atoms in
+Sr2CuO3+_d_ can be expected to oxidize the Cu-O chains by capturing two
+electrons to become O_(i)²⁻ ions rather than bonding with the apical
+oxygen to form a polyanion such as the peroxide (O2)²⁻ ion.
+
+Figure 2 shows the x-ray-diffraction patterns taken with Cu _K_α
+radiation in the range 30.5deg<=2_th_<=35deg for (a) the lightly
+oxidized (polaronic) and the parent orthorhombic Sr2CuO3+_d_, (b) the
+metallic, orthorhombic Sr2CuO3+_d_, and (c) the tetragonal phase. The
+metallic samples show a superlattice peak at 2_th_>=32.3deg; this peak
+does not belong to the tetragonal phase, which has a peak below
+2_th_=32deg. We presume the superlattice peak is due to an ordering of
+the interstitial oxygen atoms.
+
+Ami _et al.[8]_ found the Curie-Weiss component in Eq. (2) increases
+with d (to a maximum d  0.02 in their experiments), which they
+interpreted to be due to an increase of finite chain lengths containing
+an odd number of Cu²⁺ ions. Figure 3 shows our spin susceptibility data
+obtained by subtracting from the measured susceptibility a closed-shell
+diamagnetic term $\chi_{\rm dia} = - 7.7 \times 10^{- 5}$ cm³/mol. For
+the starting material, a small value of the parameter r of Eq. (2)
+indicates a nearly stoichiometric Sr2CuO3 according to the analysis of
+Ami _et al.[8]_ As d increases in orthorhombic, polaronic Sr2CuO3+_d_,
+creation of low-spin Cu³⁺ ions reduces the lengths of the spin-1/2
+antiferromagnetic chains, and the Curie-Weiss component increases until
+a typical Curie-Weiss behavior is found as illustrated in Figs. 3(b) and
+3(c). However, oxidation to metallic, orthorhombic Sr2CuO3+_d_ destroys
+the Curie-Weiss behavior; the metallic phase shows a nearly
+temperature-independent magnetic susceptibility, Fig. 3, that is higher
+than expected for a conventional metal. The high density of states at
+the Fermi energy _ef_ derived from an itinerant-particle model indicates
+a strong mass enhancement of the Pauli susceptibility. The itineracy of
+the electronic states in the metallic samples is confirmed by the
+thermopower data shown in Fig. 4.
+
+As Figs. 4 and 5 show, the starting Sr2CuO3 sample gives a typical
+semiconductive behavior expected for a half-filled
+
+Figure 3: Magnetic susceptibility (_λ_) and inverse magnetic
+susceptibility (_λ_−1) vs temperature with diamagnetic core
+contributions (_λ_dia) subtracted.
+
+           As-prepared   Polaronic    Metallic
+  ------- ------------- ----------- -------------
+   a (Å)    3.916(0)     3.917(1)     3.915(2)
+   b (Å)    3.502(1)     3.500(1)     3.499(1)
+   c (Å)    12.706(2)    12.713(2)    12.712(2)
+    _δ_      0.01(1)      0.03(1)    0.03<δ<0.1a
+
+Table 1: Lattice parameters and additional oxygen content (_δ_) for the
+metallic, polaronic, and as-prepared Sr2CuO3+_δ_.
+
+Figure 2: Evolution of the x-ray-diffraction pattern with doping in the
+range 30.5°<=2_θ_<34°. (a) As-prepared and lightly oxidized (polaronic),
+orthorhombic Sr2CuO3+_δ_, (b) metallic, orthorhombic Sr2CuO3+_δ_ with
+superlattice peak marked with (*), (c) tetragonal Sr2CuO4−_δ_.
+
+z² − x² band that is split into two Hubbard bands by strong on-site
+electron-electron interactions. Charge carriers are introduced by
+thermal excitation across an energy gap. The large $x_{\rm BF}$ in this
+sample is consistent with this result. The lightly doped Sr₂CuO_(3 + δ)
+samples show a large, temperature-independent Seebeck coefficient above
+200 K that is typical of polaronic behavior. Calculation of the
+magnitude of α=(k/e)ln [2(1 − c)/c] for a small-polaron occupancy
+fraction c gave a value for c equal, within experimental error, to 2 δ
+as determined by iodimetric titration. A small-polaron hopping
+conduction of holes at low-spin Cu³⁺ ions is also consistent with our
+interpretation of the evolution of magnetic susceptibility with δ.
+
+The metallic sample of Fig. 4 gave a small Seebeck coefficient that
+increases nearly linearly with temperature below and above 200 K. The
+inset of Fig. 4 shows there is also a resistivity anomaly at 200 K.
+Another sample, Fig. 5, shows metallic behavior below 120 K with a
+transition to polaronic behavior above 230 K. The data of Figs. 4 and 5
+are corrected by subtraction of the contribution from the copper leads
+as determined independently. In addition to the change in slope of α(T)
+near 200 K, we call attention to two additional features of Fig. 4: the
+high values of α(T) above 200 K and a negative enhancement factor δα(T)
+below 200 K with a hump centered at $T_{\rm max}$∼75 K.
+
+## Discussion
+
+The Cu-O bond lengths in orthorhombic Sr₂CuO₃ have an equilibrium value
+for a Cu²⁺ ion, which makes it difficult to add or subtract antibonding
+electrons within this structure. As demonstrated for CuO₂ sheets,[15]
+application of a tensile stress is needed for n-type doping and of a
+compressive stress for p-type doping. We were able to dope orthorhombic
+Sr₂CuO₃p-type by oxidation under a compressive stress with
+$P_{\rm O(2)}$≈55 kbar to obtain Sr₂CuO_(3 + δ) with δ<0.1. Application
+of higher oxygen pressures or substitution of some Sr²⁺ by K⁺ stabilizes
+a tetragonal Sr₂CuO_(4 − λ) phase containing CuO₂ planes with Cu atoms
+coordinated by five or six oxygen atoms.
+
+In orthorhombic Sr₂CuO_(3 + δ) the δ excess oxygen atoms occupy
+interstitial sites in the Sr₂O₂ sheets as O₁²⁻ ions, a situation
+analogous to that of the δ excess oxygen in La₂NiO_(4 + δ) and
+superconductive La₂CuO_(4 + δ) The appearance of a superlattice
+diffraction peak in metallic Sr₂CuO_(3 + δ) samples suggests an ordering
+of the O₁²⁻ ions.
+
+As in the CuO₂ sheets of the cuprate superconductors, there is a change
+from small-polaron to metallic (large-polaron) conduction with increased
+oxidation. However, the CuO₂ sheets have intermediate-size nonadiabatic
+polarons (about five Cu sites) and a condensation of a polaron gas into
+a polaron liquid segregating the parent antiferromagnetic-insulator
+phase from the superconductive phase below 300 K in the underdoped
+region; the isolated chains of Sr₂CuO_(3 + δ) support only small
+polarons (one Cu site) or a metallic behavior characteristic of a
+mass-enhanced Fermi liquid. The smooth transition from Fermi-liquid (or
+large-polaron) to small-polaron behavior with increasing temperature at
+intermediate doping, Fig. 5, contrasts sharply with the transition from
+a polaron liquid to a polaron gas near 300 K in the superconductive
+cuprates. In the superconductors, a δα(T) with a $T_{\rm max}$≈140 K is
+superposed on a large α₀ whereas the isolated chains of metallic
+Sr₂CuO_(3 + δ) have a small α(T) at lower temperatures with a δα(T)<0
+described by a hump with a broad maximum at $T_{\rm max}$∼75 K, which is
+typical of a phonon-drag process,[16] but with the peak greatly
+suppressed. There is no evidence for vibronic coupling in isolated
+chains; the δα(T) with a $T_{\rm max}$≈140 K observed for chains in the
+
+Figure 4: Seebeck coefficient α vs temperature for (a) as-prepared, (b)
+polaronic, and (c) metallic Sr₂CuO_(3 + δ) Inset: Resistance vs
+temperature for the metallic sample.
+
+Figure 5: Seebeck coefficient α vs temperature for a sample with oxygen
+doping intermediate to the metallic and polaronic samples of Fig. 4
+showing a smooth transition from metallic behavior at low temperatures
+to small-polaron behavior at higher temperatures.
+
+90-K superconductor YBa₂Cu₃O_(7 − δ) is therefore to be associated with
+a strong elastic coupling in that compound to CuO₂ sheets where, we have
+postulated, vibronic coupling is occurring within the polarons of a
+polaron liquid to give a vibronic energy dispersion $\epsilon({\bf k})$.
+The elastic coupling between chains and sheets via shared apical oxygen
+atoms provides a coupling mechanism between CuO₂ sheets across the
+Cu(1)O_(1 − δ) planes that may be as important as the band overlap of
+the charge reservoir in contributing to the high-T_(c) of
+YBa₂Cu₃O_(7 − δ)
+
+The Seebeck coefficient for polaronic conduction obeys the hopping
+formula α=(k/e)ln[2(1-c)/c] only in the high-temperature limit, which
+corresponds to T>150 K in Fig. 4(b). At low temperatures, the Seebeck
+coefficient normally approaches zero as T^(1/2). However, polaronic
+Sr₂CuO_(3 + δ) shows an abrupt drop in α to a negative value below 150
+K, Fig. 4(b), which we associate with the onset of either a static
+charge-density wave or long-range ordering of Cu³⁺ ions. Therefore, the
+absence of a CDW in metallic Sr₂CuO_(3 + δ) is noteworthy.
+
+The linear relation between α and temperature found in the metallic
+samples is expected from the Mott formula; the additional hump at low
+temperatures ($T_{\rm max}$${}^{\rm w}$75 K) is due to phonon drag. The
+magnitude of the thermopower of a metal at a given temperature reflects
+the asymmetry of the $\epsilon({\bf k})$ dispersion curve near the Fermi
+energy ϵ_(f); the value of α is normally below 40 μV/K, so the high
+value of α above 200 K in Fig. 4(c) is exceptional. The extremely high
+value of the susceptibility in our metallic Sr₂CuO_(3 + δ) indicates a
+narrow-band conduction at the limit where a transition to polaronic
+behavior occurs. As the temperature increases at this limit, motional
+narrowing could cause a resonance between the itinerant and
+small-polaron electron states with a full transition to small-polaron
+conduction at higher temperatures. Just such a transition is seen below
+300 K in Fig. 5, and we believe that the change in the slope of the
+Seebeck coefficient above 20 μV/K in Fig. 4(c) reflects the onset of
+such a transition in our metallic Sr₂CuO_(3 + δ) sample. In this case α
+no longer possesses a pure itinerant behavior. The anomaly in the
+resistance measurement seems to support this argument is dominated by
+grain-boundary scattering, nevertheless the temperature-independent
+resistance changes to semiconductive behavior around 180 K, which
+corresponds to the change in slope in the thermopower vs temperature. We
+suspect that the phonon drag is associated with a large itinerant
+electron fraction, but that a resonance to a small-polaron fraction
+persists to lowest temperatures to suppress stabilization of a CDW and
+phonon drag in this phase.
+
+## Conclusions
+
+Orthorhombic Sr₂CuO₃ exhibiting Bonner-Fisher behavior was doped under
+high oxygen pressure. Orthorhombic Sr₂CuO_(3 + δ) shows semiconducting,
+small-polaron, and metallic conduction as δ is increased. Comparison of
+the magnetic and transport behavior of orthorhombic Sr₂CuO_(3 + δ) and
+the CuO₂ sheets of the cuprate superconductors indicates that the
+cooperation of lattice deformations associated with the charge carriers
+in two dimensions is a necessary condition for the formation of
+intermediate-size polarons. Metallic Sr₂CuO_(3 + δ) exhibits normal
+phonon-drag effects with a peak at $T_{\rm max}$${}^{\rm w}$75 K instead
+of the large enhancement in α(T) at $T_{\rm max}$${}^{\rm w}$140 K found
+in the cuprate superconductors, which we have interpreted as evidence
+for vibronic coupling between optical phonons and electronic states. A
+smooth transition from metallic to polaronic behavior with increasing
+temperature suggests the coexistence of the two types of electrons is
+present over a wide temperature range and may be responsible for
+suppressing a Peierls distortion and the phonon-drag component in the
+thermopower of the metallic chains.
+
+_Note added in proof._ Shin _et al._[17] have reported an investigation
+of Sr_(2 − x)Na_(x)CuO₃ (0≤x≤0.5). This system remains a polaronic
+conductor to x = 0.5.
+
+## Acknowledgments
+
+We would like to thank Dr. K. S. Nanjundaswamy for his help in sample
+preparation, and the Robert A. Welch Foundation, Houston, Texas, the
+Texas Advanced Research Program, and the National Science Foundation for
+financial support.
+
+## References
+
+* (1) J.-S. Zhou and J. B. Goodenough, Phys. Rev. B **51**, 3104
+(1995). * (2) G. Bersuker and J. B. Goodenough (unpublished). * (3)
+J.-S. Zhou, G. Bersuker, and J. B. Goodenough, J. Supercond., **8**
+(1995). * (4) J. B. Goodenough and J.-S. Zhou, Phys. Rev. B **49**, 4251
+(1994). * (5) D. M. King _et al._, Phys. Rev. Lett. **73**, 3298
+(1994). * (6) A. J. Lowe, S. Regan, and M. A. Howson, Phys. Rev. B
+**44**, 9757 (1991). * (7) J.-S. Zhou, J. P. Zhou, J. B. Goodenough, and
+J. T. McDevitt, Phys. Rev. B **51**, 3250 (1995). * (8) T. Ami, M. K.
+Crawford, R. L. Harlow, Z. R. Wang, D. C. Johnston, Q. Huang, and R. W.
+Erwin, Phys. Rev. B **51**, 5994 (1995). * (9) J. C. Bonner and M. E.
+Fisher, Phys. Rev. **135**, A640 (1964). * (10) Z. Hiroi, M. Takano, M.
+Azuma, and Y. Takeda, Nature (London) **364**, 315 (1993). * (11) J. B.
+Goodenough, J.-S. Zhou, and J. Chan, Phys. Rev. B **47**, 5275 (1993). *
+(12) J. D. Jorgenson, B. Dabrowski, S. Pei, D. R. Richards, and D. G.
+Hinks, Phys. Rev. B **40**, 2187 (1989). * (13) C. Chaillout, J.
+Chenavas, S. W. Cheong, Z. Fisk, M. Marezio, B. Morosin, and J. E.
+Schirber, Physica C **170**, 87 (1990). * (14) J.-S. Zhou, H. Chen, and
+J. B. Goodenough, Phys. Rev. B **50**, 4168 (1994). * (15) J. B.
+Goodenough and A. Manthiram, J. Solid State Chem. **88**, 115 (1990). *
+(16) D. K. C. MacDonald, _Thermoelectricity: An Introduction to the
+Principles_ (Wiley, New York, 1962). * (17) Y. J. Shin, E. D. Manova, J.
+M. Dance, P. Dordor, J. C. Grenier, E. Marquestaut, J. P. Doumerc, M.
+Pouchard, and P. Hagenmuller, Z. Anorg. Allg. Chem. **616**, 201 (1992).
+
+Figure 1: The structure of orthorhombic Sr₂CuO₃ showing isolated chains
+of corner-shared square-coplanar CuO₄ units.

@@ -1,0 +1,284 @@
+Anisotropic upper critical field and possible
+Fulde-Ferrel-Larkin-Ovchinnikov state in the stoichiometric pnictide
+superconductor LiFeAs
+
+K. Cho,¹ H. Kim,^(1, 2) M. A. Tanatar,¹ Y. J. Song,³ Y. S. Kwon,³ W. A.
+Coniglio,⁴ C. C. Agosta,⁴ A. Gurevich,⁵ and R. Prozorov^(1, 2, 7)
+
+¹Ames Laboratory, Ames, Iowa 50011, USA
+
+²Department of Physics & Astronomy, Iowa State University, Ames, Iowa
+50011, USA
+
+³Department of Physics, Sungkyunkwan University, Suwon, Gyeonggi-Do
+440-746, Republic of Korea
+
+⁴Department of Physics, Clark University, Worcester, Massachusetts
+01610, USA
+
+⁵National High Magnetic Field Laboratory, Florida State University,
+Tallahassee, Florida 32310, USA
+
+⁶National High Magnetic Field Laboratory, Florida State University,
+Tallahassee, Florida 32310, USA
+
+Received 24 November 2010; revised manuscript received 31 December 2010;
+published 7 February 2011
+
+###### Abstract
+
+Measurements of the temperature and angular dependencies of the upper
+critical field H_(c2) of a stoichiometric single crystal LiFeAs in
+pulsed magnetic fields up to 50 T were performed using a tunnel diode
+resonator. Complete H_(c2)^(1/5)(T) and H_(c2)^(1/5)(T) functions with
+H_(c2)^(1/5)(0) = 17 ± 1 T, H_(c2)^(1/5)(0) = 26 ± 1 T, and the
+anisotropy parameter γ_(H)(T) ≡ H_(c2)^(1/5)/H_(c2)^(1/5) decreasing
+from 2.5 at T_(c) to 1.5 at T ≪ T_(c) were obtained. The results for
+both orientations are in excellent agreement with a theory of H_(c2) for
+two-band s^(±) pairing in the clean limit. We show that H_(c2)^(1/5)(T)
+is mostly limited by the orbital pair breaking, whereas the shape of
+H_(c2)^(1/5)(T) indicates strong paramagnetic Pauli limiting and the
+inhomogeneous Fulde-Ferrel-Larkin-Ovchinnikov state below T_(F) ∼ 5 K.
+
+pacs: 74.70.Xa, 74.25.Ha, 74.25.Op + Footnote †: preprint: PHYSICAL
+REVIEW B **83**, 060502(R) (2011)
+
+There are only a few stoichiometric iron-based compounds (Fe-SCs)
+exhibiting ambient-pressure superconductivity without doping. Among
+them, LiFeAs is unique because of its relatively high T_(c) = 18 K , as
+compared to LaFePO (T_(c) = 5.6 K)² and KFe₂As₂ (T_(c) = 3 K).³ The
+absence of doping induced disorder leads to weak electron scattering,
+low resistivity, ρ(T_(c)) ≈ 10μΩ cm (Ref. [4]) and high resistivity
+ratio, RRR = ρ(300K)/ρ(T_(c)) > 30.^(4.5) These parameters differ
+significantly from those of most Fe-SCs for which superconductivity is
+induced by doping, for example, Ba(Fe_(1 − x)T_(x))₂As₂ (Refs. [6] and
+[7]), (Ba_(1 − x)K_(x))₂As₂ (Ref. [3]), and BaFe₂(As_(1 − x)P_(x))₂
+(Ref. [8]). With the highest T_(c) among stoichiometric Fe-SCs, negative
+dT_(c)/dP,⁹ tetragonal crystal structure,^(1, 5) and the absence of
+antiferromagnetism,¹⁰ LiFeAs serves as a model of clean, nearly
+optimally doped Fe-SC.⁴ Because of very high H_(c2) of Fe-SCs, they may
+also exhibit exotic behavior caused by strong magnetic fields, for
+example, the Fulde-Ferrel-Larkin-Ovchinnikov (FFLO) state in which the
+Zeeman splitting results in oscillations of the order parameter along
+the field direction.¹¹ Thus, measurements of H_(c2)(T) in stoichiometric
+LiFeAs single crystals can reveal manifestations of s^(±) pairing in the
+clean limit¹² for which the FFLO state is least suppressed by
+doping-induced disorder¹¹ as compared to other optimally doped Fe-SCs.
+
+Measurements of the upper critical fields parallel (H_(c2)^(1/5)) and
+perpendicular (H_(c2)^(1/5)) to the crystallographic c axis in many
+Fe-Sc have shown several common trends.^(6, 7, 13, 26, 27) Close to
+T_(c) where H_(c2) is limited by orbital pair breaking, the anisotropy
+parameter γ_(H) ≡ H_(c2)^(1/2)/H_(c2)^(1/5) ranges between 1.5 and
+5,^(18, 23, 26, 25) in agreement with the anisotropy of the normal state
+resistivity γ_(H) = (ρ_(c)/ρ_(ab))^(1/2) above T_(c).⁷ As T decreases,
+H_(c2)(T) becomes more isotropic,^(18, 20, 27) consistent with multiband
+pairing scenarios and the behavior of H_(c2) in dirty MgB₂,²⁸ yet
+opposite to clean s⁺ MgB₂ single crystals.²⁹ However, the more isotropic
+H_(c2) at low T can also result from strong Pauli pair breaking for
+H|ab, since the observed H_(c2) on many Fe-SCs significantly exceeds the
+BCS paramagnetic limit H_(p)[T] = 1.84T_(c)[K].^(17, 18, 25, 27, 30)
+Thus, measuring H_(c2) in LiFeAs can probe the interplay of orbital and
+Pauli pair breaking in the clean s^(±) pairing limit at high magnetic
+fields. These measurements are also interesting because magnetic
+fluctuations may contain significant ferromagnetic contribution which
+may lead to triplet pairing.³¹ Experimentally, vortex properties of
+LiFeAs were found to be very similar to the supposedly triplet
+Sr₂RuO₄,³² although NMR studies suggest singlet pairing.³³ Triplet
+superconductors can exhibit unusual responses to a magnetic field,³⁴
+and, indeed, candidate materials show pronounced anomalies, as observed
+in UPt₃ (Refs. [35] and [36]) and Sr₂RuO₄ (Ref. [37]). Surprisingly, our
+measurements show that normalized H_(c2)^(1/5) of LiFeAs matches quite
+closely that of Sr₂RuO₄.
+
+We present the measurements of a complete H-T phase diagram of LiFeAs in
+pulsed magnetic fields up to 50 T and down to 0.6 K using a tunnel diode
+resonator (TDR) technique. We found that H_(c2)^(±c)(T) shows rapid
+saturation at low temperatures, consistent with strong Pauli pair
+breaking. A similar conclusion was reached from torque measurements.³⁸
+Our data can be described well by a theory of H_(c2) for the multiband
+s^(±) pairing in the clean limit,³⁹ which also suggests the FFLO state
+in LiFeAs for H⊥c below 5 K. Previous measurements of H_(c2) in LiFeAs
+were performed at relatively low fields,^(5, 40) thus not allowing to
+reveal the spin-limited behavior at low T. The only reported high-field
+measurements associate H_(c2) with the disappearance of irreversibility
+in torque measurements.³⁸ The authors supported this association by
+comparing with the specific heat data. However, in our opinion, the
+irreversibility field may underestimate the true H_(c2)(T) and have
+different temperature dependence due to depinning of vortices. It may
+also have significant (cusplike) angular variation, which would be
+particularly important for torque measurements that rely on the finite
+angle between magnetic moment and field. Related complications were
+discussed in high-T_(c) cuprates.^(4, 1)
+
+Single crystals of LiFeAs were grown in a sealed tungsten crucible using
+the Bridgeman method and placed in ampoules.
+
+Immediately after opening, samples were covered with Apiezon N grease,
+which provides some degree of short-term protection.[4] The samples were
+cleaved and cut inside the grease layer to minimize exposure to the air.
+The two studied samples had dimensions of 0.6 × 0.5 × 0.1 mm³ (sample A)
+and 0.9 × 0.8 × 0.2 mm³ (sample B). The superconducting transition
+temperature for both samples was T_(c) = 17.6 ± 0.1 K (more than 10
+
+There are only two data points obtained from the second crystal (sample
+B). Due to lack of high-field magnet time, we could not finish the whole
+phase diagram for this sample. However, two data points were obtained at
+the lowest temperature of 0.66 K and are fully consistent with those
+from sample A. The transition temperature in zero field was nearly
+identical between the two samples (17.5 and 17.6 K, respectively). These
+two observations provide a strong confirmation of the reproducibility of
+the H_(c2)(T) functions.
+
+Drawing two lines to obtain H_(c2) is a common technique in high-field
+measurement. It has been pointed out that frequency versus field traces
+are quite rounded leading to some arbitrariness especially at high
+temperatures. Therefore, we carefully repeated this process many times
+and consistently from low to high temperatures. In this way the
+appropriate error bars were obtained for each trace. The data obtained
+at high temperature, where we had an overlap with conventional magnets,
+are in a good agreement.
+
+Figure 1 shows the change of the resonant frequency as a function of H
+for sample A for two field orientations and two temperatures and also
+shows a graphical definition of H_(c2). We note that we obtain the same
+values of H_(c2) from pulse and conventional magnet measurements (up to
+9 T) at higher temperatures. From many such traces, both H_(c2)^( ⊥ ±)
+and H_(c2)^( ∥ ±) were determined as shown in Fig. 1 and are plotted in
+Fig. 2. Only lowest temperature pulse field sweeps as well as an H = 0
+temperature sweep were measured for sample B. The results practically
+coincide with the data for sample A.
+
+Figure 2(a) compares our H_(c2) data on samples A and B with the
+previous transport[43; 40; 41] and torque measurements.[38] Figure 2(a)
+also shows the behavior expected from the orbital
+Werthamer-Helfand-Hohenberg (WHH) theory[44] with
+$H_{\rm orb}(0)=0.69T_{c}|dH_{c2}/dT|_{T_{c}}$, the single-gap BCS
+paramagnetic limit, $H_{P}^{\rm BC}=1.84T_{c}=32.2$ T, as well as
+H_(P)^(Δ₁) = 34.7 T and H_(P)^(Δ₂) = 20.4 T calculated with
+Δ₁(0)/T_(c) ≈ 1.885 and Δ₁(0)/T_(c) ≈ 1.111 reported for the same
+samples in Ref. [4]. Clearly, the observed H_(c2)(T) exhibits much
+stronger flattening at low temperature compared to the orbital WHH
+theory. The inset in Fig. 2(a) shows the dependence of H_(c2) on the
+angle φ between ${\bf H}$ and the ab plane at 0.66 K where H_(c2)^( ⊥ ±)
+is defined at a maximum of
+$H_{c2}(\varphi)=H_{c2}^{\rm lc}+(H_{c2}^{\perp\pm}-H_{c2}^{\rm lc})\cos\varphi$
+depicted by the solid line.
+
+We analyze our H_(c2)(T) data using a two-band theory, which takes into
+account both orbital and paramagnetic pair breaking in the clean limit,
+and the possibility of the FFLO with the wave vector Q(T, H). In this
+case the equation for H_(c2) is given by[39]
+
+a₁G₁ + a₂G₂ + G₁G₂ = 0,
+(1)
+
+$$G_{1}=\ln t+2e^{\nu}{\rm Re}\sum_{n=0}^{\infty}\int_{q}^{\infty}due^{-n^{2}}$$
+
+Here Q(T, H) is determined by the condition that H_(c2)(T, Q) is
+maximum, a₁ = (λ₀ + λ⁻)/2w, a₂ = (λ₀ − λ⁻)/2w, λ⁻ = λ₁₁ − λ₂₂,
+λ₀ = (λ⁻² + 4λ₁₂λ₂₁)^(1/2),
+$w  the sake of simplicity, we consider here the case of \(\epsilon_{1}=\epsilon_{2}=\epsilon$
+for which H_(c2)^( ⊥ ϵ₂) is defined by Eqs. (1) and (2) with g₁ = g₂ and
+rescaled q → qϵ^(−3/4), α → αϵ^(−1/2), and
+$\sqrt{b}\to\epsilon^{1/4}\sqrt{b}$ in G₁ and
+$\sqrt{\eta b}\to\epsilon^{1/4}\sqrt{b}$ in G₂.[39]
+
+Figure 2(b) shows the fit of the measured H_(c2)(T) to Eq. (1) for ŝ^(±)
+pairing with λ₁₁ = λ₂₂ = 0, λ₁₂₍₂₎₁ = 0.25, η = 0.3, α = 0.35, and
+ϵ = 0.128. Equation (1) describes H_(c2)^( ⊥ c)(T), H_(c2)^( ⊥ c)(T) and
+$\gamma_{H}(T)=D_{1}(T)/\sqrt{\epsilon
+
+ by either orbital or Zeeman pair breaking. Shown in Fig. 3 are the normalized \(H_{c2}(T)/T_{c}H_{c2}^{\prime}$
+as functions of T/T_(c) for H∥ab where the Zeeman pair breaking is most
+pronounced. Here H_(c2)^(′) = |d H_(c2)/d T|_(T → T_(c)), and our data
+are shown by the thick solid black line, whereas the literature data are
+shown by symbols. The reference materials include LiFeAs; [38]
+Pauli-limited organic superconductor κ-(BEDT-TTF)₂Cu(N(CN)₂)Br; [48]
+heavy fermion CeCoIn₅; [49] optimally doped iron pnictides,
+Ba(Fe_(1 − x)Co_(x))₂As₂ (Ref. [18] and Ba_(x)K_(1 − x)FeAs₂; [50] iron
+chalcogenide Fe(Se,Te); [27] and conventional NbTi. [50] Remarkably,
+scaled data obtained on crystals with different T_(c) and by different
+measurements (this work and Ref. [38]) are very similar, indicating an
+intrinsic behavior of LiFeAs, namely, that it is indeed closer to the
+paramagnetic limit. Notably, the data for LiFeAs lay below other Fe-SCs,
+except for the highest purity (RR R ≈ 87) KFe₂As₂. [51] On the other
+hand, our data appear above CeCoIn₅, believed to be mostly Pauli
+limited. [49] Interestingly, the data for LiFeAs stay almost on top of
+the H_(c2)(T) for Sr₂RuO₄, in which limiting of H_(c2) proceeds in a
+very unusual manner, leading to the formation of the second
+superconducting phase. [37] Given that vortex dynamics in these two
+materials is also similar, [32] the coincidence of the
+H_(c2)(T)/T_(c)H_(c2)^(′) curves is worth further exploration.
+
+_Summarizing._ Full-temperature-range experimental H_(c2)^( ⊥ c)(T) and
+H_(c2)^( ⊥ c)(T) deviate significantly from the single-band WHH behavior
+but are in excellent agreement with the theory of H_(c2) for the s^(±)
+pairing in the clean limit. Our results indicate Pauli-limited behavior
+and the FFLO state below 5 K for H⊥c.
+
+We thank A. Carrington, V. G. Kogan, L. Taillefer and T. Terashima for
+discussions. The work at Ames Laboratory was supported by the US
+Department of Energy, Office of Basic Energy Sciences, Division of
+Materials Sciences and Engineering under Contract No. DE-AC02-07CH11358.
+The work at Clark was supported by the US Department of Energy under
+Contract No. ER46214. The work at Sungkyunkwan University was supported
+by the Basic Science Research Program (2010-0007487), the Mid-career
+Researcher Program (No. R01-2008-000-20586-0). R.P. acknowledges support
+from the Alfred P. Sloan Foundation. A.G. was supported by NSF through
+NSF-DMR-0084173 and by the State of Florida.
+
+## References
+
+* [1] X. C. Wang _et al._, Solid State Comm. **148**, 538 (2008). * [2]
+Y. Kamihara _et al._, J. Am. Chem. Soc. **128**, 10012 (2006). * [3] M.
+Rotter _et al._, Phys. Rev. Lett. **101**, 107006 (2008). * [4] H. Kim
+_et al._, e-print arXiv:1008.3251. * [5] Y. J. Song _et al._, Appl.
+Phys. Lett. **96**, 212508 (2010). * [6] N. Ni _et al._, Phys. Rev. B
+**82**, 024519 (2010). * [7] M. A. Tanatar _et al._, Phys. Rev. B
+**79**, 094507 (2009). * [8] S. Kasahara _et al._, Phys. Rev. B **81**,
+184519 (2010). * [9] C. W. Chu _et al._, Physica C **469**, 326
+(2009). * [10] S. V. Borisenko _et al._, Phys. Rev. Lett. **105**,
+067002 (2010). * [11] Y. Matsuda and H. Shimahara, J. Phys. Soc. Jpn.
+**76**, 051005 (2007). * [12] I. Mazin _et al._, Phys. Rev. Lett.
+**101**, 057003 (2008); K. Kuroki _et al._, _ibid._**101**, 087004
+(2008); V. Mishra _et al._, Phys. Rev. B **79**, 094512 (2009). * [13]
+F. Hunte _et al._, Nature (London) **453**, 903 (2008). * [14] Y. Jia
+_et al._, Appl. Phys. Lett. **93**, 032503 (2008). * [15] J. Kacmarcik
+_et al._, Phys. Rev. B **80**, 014515 (2009). * [16] H. Lee _et al._,
+Phys. Rev. B **80**, 144512 (2009). * [17] J. Jaroszynski _et al._,
+Phys. Rev. B **78**, 174523 (2008). * [18] M. Kano _et al._, J. Phys.
+Soc. Jpn **78**, 084719 (2009). * [19] Z. Bukowski _et al._, Phys. Rev.
+B **79**, 104521 (2009). * [20] H. Q. Yuan _et al._, Nature (London)
+**457**, 565 (2009). * [21] S. Jiang _et al._, Phys. Rev. B **80**,
+184514 (2009). * [22] N. P. Butch _et al._, Phys. Rev. B **81**, 024518
+(2010). * [23] D. Braithwaite _et al._, J. Phys. Soc. Jpn. **79**,
+053703 (2010). * [24] H. Lei _et al._, Phys. Rev. B **81**, 184522
+(2010). * [25] T. Kida _et al._, J. Phys. Soc. Jpn. **79**, 074706
+(2010). * [26] S. Khim _et al._, Phys. Rev. B **81**, 184511 (2010). *
+[27] M. Fang _et al._, Phys. Rev. B **81**, 020509(R) (2010). * [28] A.
+Gurevich, Phys. Rev. B **67**, 184515 (2003). * [29] V. G. Kogan and S.
+L. Bud’ko, Physica C **385**, 131 (2003). * [30] G. Fuchs _et al._,
+Phys. Rev. Lett. **101**, 237003 (2008); New J. Phys. **11**, 075007
+(2009); A. Yamamoto _et al._, Appl. Phys. Lett. **94**, 062511 (2009);
+M. Altarawneh _et al._, Phys. Rev. B **78**, 220505(R) (2008). * [31] T.
+M. Rice and M. Sigrist, J. Phys. Condens. Matter **7**, L643 (1995). *
+[32] A. K. Pramanik _et al._, e-print arXiv:1009.4896. * [33] Z. Li _et
+al._, J. Phys. Soc. Jpn. **79**, 083702 (2010). * [34] A. G. Lebed and
+N. Hayashi, Physica C **341**, 1677 (2000). * [35] H. Suderow _et al._,
+Phys. Rev. Lett. **80**, 165 (1998). * [36] K. Hasselbach _et al._,
+Phys. Rev. Lett. **63**, 93 (1989). * [37] K. Deguchi _et al._, J. Phys.
+Soc. Jpn. **71**, 2839 (2002). * [38] N. Kurita _et al._, J. Phys. Soc.
+Jpn. **80**, 013706 (2011). * [39] A. Gurevich, Phys. Rev. B **82**,
+184504 (2010). * [40] B. Lee _et al._, Europhys. Lett. **91**, 67002
+(2010). * [41] A. Carrington _et al._, Phys. Rev. B **54**, 3788
+(1996). * [42] R. Prozorov and R. W. Giannetta, Supercond. Sci. Technol.
+**19**, R41 (2006). * [43] O. Heyer _et al._, e-print arXiv:1010.2876. *
+[44] N. R. Werthamer _et al._, Phys. Rev. **147**, 295 (1966). * [45] M.
+A. Tanatar _et al._, Phys. Rev. B **66**, 134503 (2002). * [46] L. W.
+Gruenberg and L. Gunther, Phys. Rev. Lett. **16**, 996 (1966). * [47] A.
+E. Kovalev _et al._, Phys. Rev. B **62**, 103 (2000). * [48] E. Ohmichi
+_et al._, Syn. Metals **133**, 245 (2003). * [49] A. Bianchi _et al._,
+Phys. Rev. Lett. **91**, 187004 (2003). * [50] Y. Shapira and L. J.
+Neuringer, Phys. Rev. **140**, A1638 (1965). * [51] T. Terashima _et
+al._, J. Phys. Soc. Jpn. **78**, 063702 (2009).

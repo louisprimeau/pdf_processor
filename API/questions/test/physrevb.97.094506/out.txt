@@ -1,0 +1,329 @@
+Probing the superconducting ground state of the rare-earth ternary boride superconductors _R_RuB_{2} (_R_ = Lu,Y) using muon-spin rotation and relaxation
+
+J. A. T. Barker, R. P. Singh, A. D. Hillier, D. McK. Paul
+
+jocl.barker@psi.ch 1Physics Department, University of Warwick, Coventry CV4 7AL, United Kingdom 2Laboratory for Muon-Spin Spectroscopy, Paul Scherrer Institut, CH-5232 Villigen PSI, Switzerland 3Department of Physics, Indian Institute of Science Education and Research Bhopal, Bhopal 462066, India 4ISIS facility, STFC Rutherford Appleton Laboratory, Harwell Science and Innovation Campus, Oxfordshire OX11 0QX, United Kingdom
+
+###### Abstract
+
+The superconductivity in the rare-earth transition-metal ternary borides _R_RuB_{2} (where R = Lu and Y) has been investigated using muon-spin rotation and relaxation. Measurements made in zero field suggest that time-reversal symmetry is preserved upon entering the superconducting state in both materials; a small difference in depolarization is observed above and below the superconducting transition in both compounds, however, this has been attributed to quasistatic magnetic fluctuations. Transverse-field measurements of the flux-line lattice indicate that the superconductivity in both materials is fully gapped, with a conventional _s_-wave pairing symmetry and BCS-like magnitudes for the zero-temperature gap energies. The electronic properties of the charge carriers in the superconducting state have been calculated, with effective masses m^{*}/m_{e}=9.8\pm 0.1 and 15.0\pm 0.1 in the Lu and Y compounds, respectively, with superconducting carrier densities n_{s}=(2.73\pm 0.04)\times 10^{28} m^{-3} and (2.17\pm 0.02)\times 10^{28} m^{-3}. The materials have been classified according to the Uemura scheme for superconductivity, with values for T_{c}/T_{\text{F}} of 1/(414\pm 6) and 1/(304\pm 3), implying that the superconductivity may not be entirely conventional in nature.
+
+DOI: 10.1103/PhysRevB.97.094506
+
+## I Introduction
+
+Rare-earth ternary boride superconductors are a class of materials which have been observed to exhibit relatively large values of the superconducting transition temperature T_{\text{c}}[1]. The transition-metal borides with an atomic formula _RT_4B_{4} (where R is the rare-earth atom and T is a transition metal) can crystallize in a number of polytypes, including primitive tetragonal [2], body-centered-tetragonal [3], or orthorhombic crystal structures [4]. In all these polytypes, the boron atoms are found to have dimerized into noninteracting B2 units. The highest values of T_{\text{c}} have been found in the tetragonal polytypes, where the transition-metal atoms cluster into isolated tetrahedra and form linear or zigzag chains. In the orthorhombic structure, the T atoms form an extended three-dimensional cluster that interpenetrates. The superconducting transition temperatures are systematically lower in the orthorhombic polytype than the tetragonal compounds across the whole range of rare-earth elements, implying that the dimensionality of the T clusters plays an important role in the superconductivity [5].
+
+A new structural phase in the transition-metal ternary boride family was reported in 1980, after anomalous superconducting transitions were observed with T_{\text{c}}'s that did not match known structures [6]. The stoichiometrically distinct _RT_B_{2} phase crystallizes into an orthorhombic structure with the _Pnma_ space group. The key features in this material are zigzag chains of rare-earth atoms, with dimerized boron. The boron dimers weakly interact, forming straight chains that run in parallel to the direction of the main _R_-_R_ zigzag chain, and are perpendicular to the planes of R and T atoms (see Fig. 1). Only compounds with nonmagnetic R atoms exhibit superconductivity, whereas the inclusion of magnetic atoms is accompanied by magnetic ordering with critical temperatures up to 46 K [7].
+
+Two materials in this family, LuRuB_{2} and YRuB_{2}, are important as reference materials for studying the entire family tree--the 4f electron shell is full in the Lu compound, and empty in the Y compound. Superconductivity has been reported in the Lu compound at temperatures of 9.7-10.1 K, and in the Y compound at temperatures of 7.2-7.8 K, with large values for the upper critical field _B_c2 of 5.7 and 4.8 T, respectively [7, 8]. These large values indicate that the superconductivity might be expected to be strongly coupled, with a high superconducting carrier density. However, NMR measurements have identified that these materials appear to lie in the weak-coupling limit of the conventional BCS theory [9, 10]. In this paper, we report the results of a muon-spin rotation and relaxation (\muSR) study of the superconducting properties in this pair of materials. We combine the results with previously reported findings in order to further characterize the electronic properties of the superconducting state.
+
+The \muSR technique provides an excellent means of characterizing superconductors, as it probes the magnetism in a sample at a microscopic level. Spin-relaxation experiments in zero field (ZF) allow the detection of spontaneous magnetization that can be associated with spin-triplet superconductivity [11, 12, 13, 14, 15]. Because \muSR measures the field distribution across the sample, the temperature dependence and absolute value of the magnetic penetration depth can be established to a  high degree of accuracy. Using this information, multiband superconductivity, line or point nodes, as well as anisotropy in the order parameter can all be unambiguously determined [16, 17, 18]. A key strength of \muSR is that even in polycrystalline samples, the angular average is often enough to reliably observe these effects.
+
+## II Experimental details
+
+### Sample preparation
+
+Polycrystalline samples of LuRuB_{2} and YRuB_{2} were prepared by arc-melting stoichiometric quantities of high-purity Y/Lu, Ru, and B in a tri-arc furnace under an Ar (5N) atmosphere on a water cooled copper hearth. Each sample was flipped and remelted several times in order to improve the homogeneity of the as-cast ingot. The samples were subsequently sealed in evacuated quartz tubes, and annealed at 1050 ^{\circ}C for 1 week.
+
+### Sample characterization
+
+Powder x-ray diffraction (XRD) data were collected for both samples. Rietveld refinement of the data (see Table 1) confirmed that both samples had crystallized into the expected orthorhombic structure, with space group _Pnma_ and lattice parameters in good agreement with those previously reported [6].
+
+The superconducting transition temperature T_{\rm c} for each sample was checked via dc magnetic susceptibility measurements using a 5 T Quantum Design magnetic property measurement system. The temperature dependence of the magnetic susceptibility in an applied field of 1 mT is displayed in Fig. 2. The observed transition temperatures for the Lu and Y compounds are approximately 9.8 and 7.8 K, in agreement with previous reports [7, 8]. After correcting for demagnetization, a full superconducting volume fraction is found in both samples. The Meissner fraction \chi_{\rm FCC}/\chi_{\rm ZFCW} in the Y compound is 11 times larger than in the Lu compound, indicating that flux pinning is much weaker in YRuB_{2}. The dc susceptibility data highlight no irregularities or anomalies that may be due to impurities in the sample ordering magnetically or become superconducting.
+
+### Muon spectroscopy
+
+Muon-spin relaxation measurements in zero field (ZF) and muon-spin rotation experiments in a transverse field (TF) were carried out on the MuSR spectrometer at the ISIS pulsed neutron and muon source, based at the Rutherford Appleton Laboratory in the UK The ISIS synchrotron produces pulses of protons at a frequency of 50 Hz, where four out of five pulses pass through the graphite muon production target. The
+
+\begin{table}
+\begin{tabular}{l c c}  & LuRuB_{2} & YRuB_{2} \\ \hline Structure & Orthorhombic & Orthorhombic \\ Space group & _Pnma_ & _Pnma_ \\ a (Å) & 5.8075\pm 0.0009 & 5.9071\pm 0.0004 \\ b (Å) & 5.2323\pm 0.0007 & 5.2971\pm 0.0003 \\ c (Å) & 6.2790\pm 0.0009 & 6.3535\pm 0.0004 \\ \end{tabular}
+\end{table}
+Table 1: Lattice parameters determined from the Rietveld refinements to the powder XRD data.
+
+Figure 1: Crystal structure of the RRuB_{2} ternary borides. The R atoms (large spheres) form zigzag chains that run parallel to the b crystallographic axis. The B atoms (small spheres) form weakly interacting dimers, with the Ru atoms (medium spheres) isolated.
+
+Figure 2: Temperature dependence of the magnetic susceptibility \chi for (a) LuRuB_{2} and (b) YRuB_{2}. The samples were cooled in zero field to 1.8 K, at which point a field of 1 mT was applied. Data were collected upon zero-field-cooled warming (ZFCW) and during a subsequent field-cooled cooling (FCC).
+
+  muons produced in this fashion are 100% spin polarized, and after filtering to a momentum of 26 MeV/c, are delivered to the MuSR spectrometer where they are implanted into the sample. The muons rapidly thermalize and sit at interstitial positions in the crystal lattice. Positive muons decay after an average lifetime of 2.2 \mus into a positron and two neutrinos, where the positron is emitted preferentially in the direction of the muon-spin vector. The decay positrons are detected and time stamped in the 64 scintillation detectors, which are arranged in circular arrays positioned before, F, or after, B, the sample for longitudinal (relaxation) experiments. The asymmetry A of the \muSR time spectrum is then calculated by taking the difference of the counts in the F and B detector arrays, weighted by the total number of counts: A(t)=[F(t)-\alpha B(t)]/[F(t)+\alpha B(t)]. Here, \alpha is a calibration constant which represents a relative counting efficiency between the F and B detectors. The asymmetry function allows one to measure the time evolution of the muon-spin polarization, and thus the local magnetic environment experienced by the muon ensemble can be determined.
+
+In a TF experiment, a magnetic field is applied perpendicular to the initial muon-spin polarization direction. In this configuration, the signals from the 64 detectors are normalized and subsequently mapped into two orthogonal components, which are then analyzed simultaneously [19].
+
+Powdered samples were mounted on silver sample plates using GE varnish. Silver is used as in ZF it produces a time-independent background, while in TF it contributes a nondecaying oscillation; both cases are easy to account for during data analysis. Both samples were mounted in a ^{3}He sorption cryostat with a temperature range of 0.3-50 K. For the ZF measurements, samples were cooled in zero applied field, and data points were collected in increments upon warming. Stray fields at the sample position are actively canceled to within 1 \muT by a flux gate magnetometer and an active compensation system controlling three pairs of correction coils. The TF experiments were conducted in a field of 30 mT. The samples were field cooled to a base temperature in order to promote the formation of a well-ordered, flux-line lattice, and data points collected upon incremental warming.
+
+## III Results and discussion
+
+### Zero and longitudinal-field muon-spin relaxation
+
+Results from the ZF-\muSR relaxation experiments are presented first. Figure 3 shows the time evolution of the muon-spin polarization in both samples collected above and below T_{c}. There is a clear change in the relaxation behavior on either side of the transition in both compounds, although the difference is much subtler in the Y compound. There is no evidence for an oscillatory component, which indicates that there is no coherent field associated with magnetic ordering. In the absence of atomic moments, the depolarization of the muon ensemble is due to the presence of static, randomly oriented nuclear moments. This behavior is modeled by the Gaussian Kubo-Toyabe equation [20]
+
+\[G_{\rm KT}(t)=\frac{1}{3}+\frac{2}{3}\big{(}1-\sigma_{\rm ZF}^{2}t^{2}\big{)} \exp\left(-\frac{\sigma_{\rm ZF}^{2}t^{2}}{2}\right),\] (1)
+
+where \sigma_{\rm ZF} measures the width of the nuclear dipolar field experienced by the muons. The spectra are well described by the function
+
+\[G_{z}(t)=G_{\rm KT}(t)\exp(-\Lambda t),\] (2)
+
+where \Lambda measures the electronic relaxation rate, and is usually attributed to "fast-fluctuation" effects that occur on a time scale much shorter than the muon lifetime.
+
+The nuclear term \sigma_{\rm ZF} is found to remain temperature independent in both compounds. As the temperature is increased from the base, there is an exponential decrease in \Lambda in both materials (see Fig. 4). This is reminiscent of the "critical slowing down" behavior of spin fluctuations in the vicinity of phase transitions to magnetically ordered states [21]. In both materials a small longitudinal field of 10 mT is sufficient to completely decouple the Gaussian component of the relaxation. Furthermore, the electronic component is almost completely suppressed from the ZF values, implying that the fluctuations responsible for this relaxation channel are in fact static or quasistatic with respect to the muon
+
+Figure 3: Time evolution of the spin polarization of muons implanted under zero-field conditions in (a) LuRuB_{2} and (b) YRuB_{2} at temperatures above and below T_{c}. The time-independent background due to muons stopping in silver has been subtracted, and the data normalized to the initial asymmetry—the muons are 100% spin polarized at t=0 s. The solid lines are the results of fitting the data to Eq. (2).
+
+  lifetime. There is no clear anomaly at T_{\rm c} in either material, indicating that the process responsible for these fluctuations is independent of the superconductivity. Although tempting, we conclude that we do not see any evidence for broken time-reversal symmetry.
+
+### Transverse-field muon-spin rotation
+
+In order to characterize the flux-line lattice, TF-\muSR was performed in a field of 30 mT in both materials. A selection of typical polarization spectra collected above and below T_{\rm c} is displayed in Fig. 5. The enhanced depolarization rate below T_{\rm c} is due to the field distribution P(B) formed by the flux-line lattice in the mixed state of the superconductor. Measuring the second moment \langle\Delta B^{2}\rangle of this field distribution allows the magnetic penetration depth \lambda to be calculated to a high degree of accuracy. In order to determine \langle\Delta B^{2}\rangle, the TF spectra are modeled as a sum of n sinusoidal oscillations, each within a Gaussian relaxation envelope,
+
+\[G_{x}(t)=\sum_{i=1}^{n}A_{i}\exp\left(-\frac{\sigma_{i}^{2}t^{2}}{2}\right) \cos(\gamma_{\mu}B_{i}t+\phi),\] (3)
+
+where A_{i} is the initial asymmetry, \sigma_{i} is the Gaussian relaxation rate, and B_{i} is the first moment of the ith component in the field distribution. There is a phase offset \phi, which is shared by each oscillating component, and \gamma_{\mu}/2\pi=135.5 MHz T^{-1} defines the muon gyromagnetic ratio. The number of components required is generally in the range 1\leqslant n\leqslant 5, with the requirement determined by the superconducting characteristics of the material. Strongly type-II superconductors with large penetration depths are often modeled well by a single oscillation, whereas low-\kappa materials, in which the coherence length plays a more important role in the structure of P(B), may require up to five separate oscillating components [18]. Treating the data in this way is equivalent to modeling the internal field distribution in the superconductor P(B) as a sum of n individual Gaussians [22],
+
+\[P(B)=\gamma_{\mu}\sum_{i=1}^{n}\frac{A_{i}}{\sigma_{i}}\exp\left(-\frac{\gamma _{\mu}^{2}(B-B_{i})^{2}}{2\sigma_{i}^{2}}\right).\] (4)
+
+The second moment of this field distribution is thus
+
+\[\langle\Delta B^{2}\rangle=\frac{\sigma_{\rm eff}^{2}}{\gamma_{\mu}^{2}}=\sum_ {i=1}^{n}\frac{A_{i}}{A_{\rm tot}}\bigg{[}\frac{\sigma_{i}^{2}}{\gamma_{\mu}^{ 2}}+(B_{i}-\langle B\rangle)^{2}\bigg{]},\] (5)
+
+where A_{\rm tot}=\sum_{i=1}^{n}A_{i} and \langle B\rangle=A_{\rm tot}^{-1}\sum_{i=1}^{n}A_{i}B_{i} is the first moment of P(B). Finally, the extra broadening from the nuclear moments \sigma_{\rm N} must be subtracted in quadrature from the total effective depolarization rate \sigma_{\rm eff} to yield the contribution of the flux-line lattice \sigma_{\rm FLL}^{2}=\sigma_{\rm eff}^{2}-\sigma_{\rm N}^{2}. \sigma_{\rm N} is assumed to be temperature independent, and is determined by measurements made in the normal state just above T_{\rm c}. Two oscillating components were required to adequately describe the LuRuB_{2} spectra, whereas three were required for the YRuB_{2}--a non-decaying background oscillation due to muons stopping in the silver sample holder has been subtracted from the spectra presented in Fig. 5. Above T_{\rm c} a single oscillation suffices in both materials to describe the depolarization.
+
+Figure 4: Temperature dependence of the electronic relaxation rate in LuRuB_{2} (triangles) and YRuB_{2} (circles), collected in ZF and in an applied longitudinal field of 10 mT. The solid lines are guides to the eye, indicating the exponential decay of \Lambda in ZF as T is increased.
+
+Figure 5: Representative TF-\muSR polarization signals collected (a) above and (b) below T_{\rm c} in LuRuB_{2} under an applied field of 30 mT. A nondecaying background oscillation due to muons stopping in the silver has been subtracted, and the data normalized to the initial asymmetry. The solid lines are fits using Eq. (3).
+
+  The temperature dependences of \sigma_{\rm eff} in both compounds are presented in Fig. 6. In superconductors with large critical fields and hexagonal flux-line lattices, there exists a simple relationship between the Gaussian depolarization rate \sigma_{\rm FLL} and the magnetic penetration depth, as long as the average field is a very small fraction of the upper critical field B_{\rm c2}. For both compounds B/B_{\rm c2}\approx 0.005 and so we can use the expression [23]
+
+\[\frac{\sigma_{\rm FLL}^{2}(T)}{\gamma_{\mu}^{2}}=0.00371\frac{\Phi_{0}^{2}}{ \lambda^{4}(T)},\] (6)
+
+where \Phi_{0} is the magnetic flux quantum. The magnetic penetration depths at T=0 K are thus found to be \lambda_{\rm Lu}(0)=221\pm 2 nm and \lambda_{\rm Y}(0)=190\pm 1 nm for the LuRuB_{2} and YRuB_{2} materials, respectively.
+
+Assuming London local electrodynamics, the temperature dependence of \lambda can be calculated for an isotropic s-wave superconductor in the clean limit using the following equation,
+
+\[\frac{\lambda^{-2}(T)}{\lambda^{-2}(0)}=1+2\int_{\Delta(T)}^{\infty}\left( \frac{\partial f}{\partial E}\right)\frac{EdE}{\sqrt{E^{2}-\Delta^{2}(T)}},\] (7)
+
+where f=[1+\exp(E/k_{\rm B}T)]^{-1} is the Fermi function and \Delta(T)=\Delta(0)\tanh[1.82[1.018(T_{c}/T-1)]^{0.51}] is the BCS approximation for the temperature dependence of the energy gap. The normalized inverse-squared penetration depth, or superfluid density, is displayed in Fig. 7 for both materials, with fits to the data using this model. The resultant values for the energy gaps are \Delta_{\rm Lu}(0)=1.36\pm 0.03 meV and \Delta_{\rm Y}(0)=1.10\pm 0.01 meV. The BCS theory proposes a universal proportionality between the energy gap and the superconducting transition temperature. This is conventionally encoded in the BCS parameter 2\Delta(0)/k_{\rm B}T_{\rm c}, which has the theoretical value of 3.52 in the weak-coupling limit. For the Lu and Y compounds, the BCS parameters are found to be 3.3 \pm 0.2 and 3.4 \pm 0.1, respectively. This seems to classify the (Lu/Y)RuB_{2} ternary borides as conventional, weakly coupled BCS type-II superconductors, in agreement with the NMR results [9].
+
+Figure 8: The results of the \muSR experiments summarized in the “Uemura plot,” which describes a universal scaling between T_{\rm c} and T_{\rm F} in different classes of superconductors. The Lu and Y ternary borides find themselves halfway between the conventional and unconventional regions, in the vicinity of the borocarbide and hexaboride superconductors.
+
+Figure 6: TF-\muSR effective depolarization rates in (a) LuRuB_{2} and (b) YRuB_{2}, calculated from the \sigma_{i} (insets) as described in the text. The solid line is a fit to Eq. (7), which is valid as there is a simple numerical coefficient relating \sigma_{\rm eff} and \lambda^{-2}.
+
+Figure 7: Temperature dependence of the superfluid density as a function of the reduced temperature T/T_{\rm c} for LuRuB_{2} (triangles) and YRuB_{2} (circles). The data overlay each other, reflecting the high degree of similarity in the order parameters of the two materials. The solid lines are fits using Eq. (7).
+
+  The magnetic penetration depth is directly related to the electronic properties of the superconducting state by the expression [24]
+
+\[\lambda(0)=\left[\frac{m^{*}}{\mu_{0}n_{\rm s}e^{2}}\left(1+\frac{\xi_{0}}{l} \right)\right]^{\frac{1}{2}},\] (8)
+
+where m^{*} is the effective mass of charge carrying electrons, and n_{\rm s} is the superconducting charge carrier density. The ratio of BCS coherence length to the mean free path \xi_{0}/l encodes the dirty limit correction, which for the Lu and Y compounds has been found to take on the values 3.9 and 0.85, respectively [8]. Equation (8) can be coupled with the expression for the Sommerfeld constant \gamma, which is also related to the electronic properties of the system [25],
+
+\[\gamma=\left(\frac{\pi}{3}\right)^{\frac{1}{2}}\frac{k_{\rm B}^{2}m^{*}n_{\rm e }^{\frac{1}{2}}}{\hbar^{2}},\] (9)
+
+where n_{\rm e} is the electronic carrier density and k_{\rm B} is Boltzmann's constant. By assuming that n_{\rm e} at T_{\rm c} is equivalent to n_{\rm s} as T\to 0 K, Eqs. (8) and (9) can be solved simultaneously to find values for m^{*} and n_{\rm s}. Consequently, an effective Fermi temperature can be calculated using the relation k_{\rm B}T_{\rm F}=(\hbar^{2}/2)(3\pi^{2}n_{\rm s})^{2/3}/m^{*}. The results of following this procedure are displayed in Table 2.
+
+Uemura _et al._ have described a method of classifying superconductors based on the ratio of the critical temperature T_{\rm c} to the effective Fermi temperature T_{\rm F}, which is found to be 1/414 and 1/304 for the Lu and Y compounds, respectively [26, 27, 28]. This places the ternary borides in the vicinity of the "band of unconventiality" described by Uemura, as depicted in Fig. 8. This is the first indication that the superconductivity in these compounds may not be entirely conventional. In fact, both compounds find themselves occupying the same region in the Uemura diagram as the borocarbide superconductors, and the rare-earth hexaborides [25]. High transition temperatures are a common theme in these families of materials, as well as the intriguing interplay between the superconductivity and the complex magnetic order associated with the rare-earth 4f electrons.
+
+## IV Conclusions
+
+In conclusion, TF and ZF-\muSR measurements have been carried out on the rare-earth ternary borides (Lu/Y)RuB_{2}. Both superconductors are well described by the conventional BCS theory of superconductivity in the weakly coupled limit, with fully gapped s-wave order parameters and preserved time-reversal symmetry in the superconducting state. The ZF-\muSR measurements reveal spin fluctuations that exhibit a critical slowing down behavior as the temperature is decreased, implying that both systems may be close to quantum critical points. Calculations of the electronic properties of the superconducting state reveal that the rare-earth ternary borides share similarities with the hexaboride and borocarbide superconducting families.
+
+## Acknowledgments
+
+The authors would like to thank T. E. Orton for valuable technical support. J.A.T.B. acknowledges ISIS and the STFC for studentship funding through Grant No. ST/K502418/1. This work was funded by the EPSRC, UK, through Grant No. EP/I007210/1. Some of the equipment used in this research was obtained through the Science City Advanced Materials project: Creating and Characterizing Next Generation Advanced Materials, with support from Advantage West Midlands and partly funded by the European Regional Development Fund.
+
+## References
+
+* [1] C. T. Wolowiec, B. D. White, and M. B. Maple, Physica C **514**, 113 (2015).
+* [2] B. T. Matthias, E. Corenzwit, J. M. Vandenberg, and H. E. Barz, Proc. Natl. Acad. Sci. USA **74**, 1334 (1977).
+* [3] D. C. Johnston, Solid State Commun. **24**, 699 (1977).
+* [4] K. Yvon and D. C. Johnston, Acta Crystallogr. Sect. B **38**, 247 (1982).
+* [5] D. Johnston and H. Braun, in _Superconductivity in Ternary Compounds II_, edited by M. Maple and O. Fischer, Topics in Current Physics Vol. 34 (Springer, New York, 1982), pp. 11-55.
+* [6] R. Shelton, B. Karcher, D. Powell, R. Jacobson, and H. Ku, Mater. Res. Bull. **15**, 1445 (1980).
+* [7] H. Ku and R. Shelton, Mater. Res. Bull. **15**, 1441 (1980).
+* [8] W. Lee, S. Appl, and R. Shelton, J. Low Temp. Phys. **68**, 147 (1987).
+* [9] Y. Kishimoto, Y. Kawasaki, Y. Ideta, S. Endou, T. Tanaka, M. Tanabe, T. Ohno, G. Ghosh, A. K. Tyagi, and L. C. Gupta, J. Phys.: Conf. Ser. **176**, 012039 (2009).
+* [10] J. Bardeen, L. N. Cooper, and J. R. Schrieffer, Phys. Rev. **108**, 1175 (1957).
+* [11] G. M. Luke, Y. Fudamoto, K. M. Kojima, M. I. Larkin, J. Merrin, B. Nachumi, Y. J. Uemura, Y. Maeno, Z. Q. Mao, Y. Mori, H. Nakamura, and M. Sigrist, Nature (London) **394**, 558 (1998).
+* [12] Y. Aoki, A. Tsuchiya, T. Kanayama, S. R. Saha, H. Sugawara, H. Sato, W. Higemoto, A. Koda, K. Ohishi, K. Nishiyama, and R. Kadono, Phys. Rev. Lett. **91**, 067003 (2003).
+* [13] A. D. Hillier, J. Quintanilla, and R. Cywinski, Phys. Rev. Lett. **102**, 117007 (2009).
+
+\begin{table}
+\begin{tabular}{l c c}  & LuRuB_{2} & YRuB_{2} \\ \hline \lambda (nm) & 221 \pm 2 & 190 \pm 1 \\ \Delta(0) (meV) & 1.36 \pm 0.03 & 1.10 \pm 0.01 \\ BCS parameter & 3.3 \pm 0.2 & 3.4 \pm 0.1 \\ m^{*}/m_{\rm e} & 9.8 \pm 0.1 & 15.0 \pm 0.1 \\ n_{\rm s} (\times 10^{28} m^{-3}) & 2.73 \pm 0.04 & 2.17 \pm 0.02 \\ T_{\rm c}/T_{\rm F} & 1/(414\pm 6) &  * Hillier _et al._ [2012]A. D. Hillier, J. Quintanilla, B. Mazidian, J. F. Annett, and R. Cywinski, Phys. Rev. Lett. **109**, 097001 (2012).
+* Bhattacharya _et al._ [2015]A. Bhattacharya, D. T. Adroja, J. Quintanilla, A. D. Hillier, N. Kase, A. M. Strydom, and J. Akimitsu, Phys. Rev. B **91**, 060503 (2015).
+* Biswas _et al._ [2011]P. K. Biswas, G. Balakrishnan, D. M. Paul, M. R. Lees, and A. D. Hillier, Phys. Rev. B **83**, 054517 (2011).
+* Sonier _et al._ [1994]J. E. Sonier, R. F. Kiefl, J. H. Brewer, D. A. Bonn, J. F. Carolan, K. H. Chow, P. Dosanjh, W. N. Hardy, R. Liang, W. A. MacFarlane, P. Mendels, G. D. Morris, T. M. Riseman, and J. W. Schneider, Phys. Rev. Lett. **72**, 744 (1994).
+* Khasanov _et al._ [2008]R. Khasanov, K. Conder, E. Pomjakushina, A. Amato, C. Baines, Z. Bukowski, J. Karpinski, S. Katrych, H.-H. Klauss, H. Luetkens, A. Shengelaya, and N. D. Zhigadlo, Phys. Rev. B **78**, 220510 (2008).
+* Rainford [1999]B. D. Rainford, in _Muon Science: Muons in Physics, Chemistry and Materials Science_, edited by S. L. Lee, S. H. Kilcoyne, and R. Cywinski (OP, Bristol, UK, 1999), pp. 463-471.
+* Hayano _et al._ [1979]R. S. Hayano, Y. J. Uemura, J. Imazato, N. Nishida, T. Yamazaki, and R. Kubo, Phys. Rev. B **20**, 850 (1979).
+* Dunsiger _et al._ [1996]S. R. Dunsiger, R. F. Kiefl, K. H. Chow, B. D. Gaulin, M. J. P. Gingras, J. E. Greedan, A. Keren, K. Kojima, G. M. Luke, W. A. MacFarlane, N. P. Raju, J. E. Sonier, Y. J. Uemura, and W. D. Wu, Phys. Rev. B **54**, 9019 (1996).
+* Maisuradze _et al._ [2010]A. Maisuradze, W. Schnelle, R. Khasanov, R. Gumeniuk, M. Nicklas, H. Rosner, A. Leithe-Jasper, Y. Grin, A. Amato, and P. Thalmeier, Phys. Rev. B **82**, 024524 (2010).
+* Brandt [2009]E. H. Brandt, Physica B **404**, 695 (2009).
+* Tinkham [2004]M. Tinkham, _Introduction to Superconductivity_, 2nd ed. (Dover, New York, 2004).
+* Hillier and Cywinski [1997]A. Hillier and R. Cywinski, Appl. Magn. Reson. **13**, 95 (1997).
+* Uemura _et al._ [1988]Y. J. Uemura, V. J. Emery, A. R. Moodenbaugh, M. Suenaga, D. C. Johnston, A. J. Jacobson, J. T. Lewandowski, J. H. Brewer, R. F. Kiefl, S. R. Kreitzman, G. M. Luke, T. Riseman, C. E. Stronach, W. J. Kossler, J. R. Kempton, X. H. Yu, D. Opie, and H. E. Schone, Phys. Rev. B **38**, 909 (1988).
+* Uemura _et al._ [1991]Y. J. Uemura, G. M. Luke, B. J. Sternlieb, J. H. Brewer, J. F. Carolan, W. N. Hardy, R. Kadono, J. R. Kempton, R. F. Kiefl, S. R. Kreitzman, P. Mulhern, T. M. Riseman, D. L. Williams, B. X. Yang, S. Uchida, H. Takagi, J. Gopalakrishnan, A. W. Sleight, M. A. Subramanian, C. L. Chien, M. Z. Cieplak, G. Xiao, V. Y. Lee, B. W. Statt, C. E. Stronach, W. J. Kossler, and X. H. Yu, Phys. Rev. Lett. **62**, 2317 (1989).
+* Uemura _et al._ [1991]Y. J. Uemura, L. P. Le, G. M. Luke, B. J. Sternlieb, W. D. Wu, J. H. Brewer, T. M. Riseman, C. L. Seaman, M. B. Maple, M. Ishikawa, D. G. Hinks, J. D. Jorgensen, G. Saito, and H. Yamochi, Phys. Rev. Lett. **66**, 2665 (1991).
+
+ Probing the superconducting ground state of the rare-earth ternary boride superconductors _R_RuB_{2} (_R_ = Lu,Y) using muon-spin rotation and relaxation
+
+J. A. T. Barker, R. P. Singh, A. D. Hillier, D. McK. Paul
+
+jocl.barker@psi.ch 1Physics Department, University of Warwick, Coventry CV4 7AL, United Kingdom 2Laboratory for Muon-Spin Spectroscopy, Paul Scherrer Institut, CH-5232 Villigen PSI, Switzerland 3Department of Physics, Indian Institute of Science Education and Research Bhopal, Bhopal 462066, India 4ISIS facility, STFC Rutherford Appleton Laboratory, Harwell Science and Innovation Campus, Oxfordshire OX11 0QX, United Kingdom
+
+###### Abstract
+
+The superconductivity in the rare-earth transition-metal ternary borides _R_RuB_{2} (where R = Lu and Y) has been investigated using muon-spin rotation and relaxation. Measurements made in zero field suggest that time-reversal symmetry is preserved upon entering the superconducting state in both materials; a small difference in depolarization is observed above and below the superconducting transition in both compounds, however, this has been attributed to quasistatic magnetic fluctuations. Transverse-field measurements of the flux-line lattice indicate that the superconductivity in both materials is fully gapped, with a conventional _s_-wave pairing symmetry and BCS-like magnitudes for the zero-temperature gap energies. The electronic properties of the charge carriers in the superconducting state have been calculated, with effective masses m^{*}/m_{e}=9.8\pm 0.1 and 15.0\pm 0.1 in the Lu and Y compounds, respectively, with superconducting carrier densities n_{s}=(2.73\pm 0.04)\times 10^{28} m^{-3} and (2.17\pm 0.02)\times 10^{28} m^{-3}. The materials have been classified according to the Uemura scheme for superconductivity, with values for T_{c}/T_{\text{F}} of 1/(414\pm 6) and 1/(304\pm 3), implying that the superconductivity may not be entirely conventional in nature.
+
+DOI: 10.1103/PhysRevB.97.094506
+
+## I Introduction
+
+Rare-earth ternary boride superconductors are a class of materials which have been observed to exhibit relatively large values of the superconducting transition temperature T_{\text{c}}[1]. The transition-metal borides with an atomic formula _RT_4B_{4} (where R is the rare-earth atom and T is a transition metal) can crystallize in a number of polytypes, including primitive tetragonal [2], body-centered-tetragonal [3], or orthorhombic crystal structures [4]. In all these polytypes, the boron atoms are found to have dimerized into noninteracting B2 units. The highest values of T_{\text{c}} have been found in the tetragonal polytypes, where the transition-metal atoms cluster into isolated tetrahedra and form linear or zigzag chains. In the orthorhombic structure, the T atoms form an extended three-dimensional cluster that interpenetrates. The superconducting transition temperatures are systematically lower in the orthorhombic polytype than the tetragonal compounds across the whole range of rare-earth elements, implying that the dimensionality of the T clusters plays an important role in the superconductivity [5].
+
+A new structural phase in the transition-metal ternary boride family was reported in 1980, after anomalous superconducting transitions were observed with T_{\text{c}}'s that did not match known structures [6]. The stoichiometrically distinct _RT_B_{2} phase crystallizes into an orthorhombic structure with the _Pnma_ space group. The key features in this material are zigzag chains of rare-earth atoms, with dimerized boron. The boron dimers weakly interact, forming straight chains that run in parallel to the direction of the main _R_-_R_ zigzag chain, and are perpendicular to the planes of R and T atoms (see Fig. 1). Only compounds with nonmagnetic R atoms exhibit superconductivity, whereas the inclusion of magnetic atoms is accompanied by magnetic ordering with critical temperatures up to 46 K [7].
+
+Two materials in this family, LuRuB_{2} and YRuB_{2}, are important as reference materials for studying the entire family tree--the 4f electron shell is full in the Lu compound, and empty in the Y compound. Superconductivity has been reported in the Lu compound at temperatures of 9.7-10.1 K, and in the Y compound at temperatures of 7.2-7.8 K, with large values for the upper critical field _B_c2 of 5.7 and 4.8 T, respectively [7, 8]. These large values indicate that the superconductivity might be expected to be strongly coupled, with a high superconducting carrier density. However, NMR measurements have identified that these materials appear to lie in the weak-coupling limit of the conventional BCS theory [9, 10]. In this paper, we report the results of a muon-spin rotation and relaxation (\muSR) study of the superconducting properties in this pair of materials. We combine the results with previously reported findings in order to further characterize the electronic properties of the superconducting state.
+
+The \muSR technique provides an excellent means of characterizing superconductors, as it probes the magnetism in a sample at a microscopic level. Spin-relaxation experiments in zero field (ZF) allow the detection of spontaneous magnetization that can be associated with spin-triplet superconductivity [11, 12, 13, 14, 15]. Because \muSR measures the field distribution across the sample, the temperature dependence and absolute value of the magnetic penetration depth can be established to a  high degree of accuracy. Using this information, multiband superconductivity, line or point nodes, as well as anisotropy in the order parameter can all be unambiguously determined [16, 17, 18]. A key strength of \muSR is that even in polycrystalline samples, the angular average is often enough to reliably observe these effects.
+
+## II Experimental details
+
+### Sample preparation
+
+Polycrystalline samples of LuRuB_{2} and YRuB_{2} were prepared by arc-melting stoichiometric quantities of high-purity Y/Lu, Ru, and B in a tri-arc furnace under an Ar (5N) atmosphere on a water cooled copper hearth. Each sample was flipped and remelted several times in order to improve the homogeneity of the as-cast ingot. The samples were subsequently sealed in evacuated quartz tubes, and annealed at 1050 ^{\circ}C for 1 week.
+
+### Sample characterization
+
+Powder x-ray diffraction (XRD) data were collected for both samples. Rietveld refinement of the data (see Table 1) confirmed that both samples had crystallized into the expected orthorhombic structure, with space group _Pnma_ and lattice parameters in good agreement with those previously reported [6].
+
+The superconducting transition temperature T_{\rm c} for each sample was checked via dc magnetic susceptibility measurements using a 5 T Quantum Design magnetic property measurement system. The temperature dependence of the magnetic susceptibility in an applied field of 1 mT is displayed in Fig. 2. The observed transition temperatures for the Lu and Y compounds are approximately 9.8 and 7.8 K, in agreement with previous reports [7, 8]. After correcting for demagnetization, a full superconducting volume fraction is found in both samples. The Meissner fraction \chi_{\rm FCC}/\chi_{\rm ZFCW} in the Y compound is 11 times larger than in the Lu compound, indicating that flux pinning is much weaker in YRuB_{2}. The dc susceptibility data highlight no irregularities or anomalies that may be due to impurities in the sample ordering magnetically or become superconducting.
+
+### Muon spectroscopy
+
+Muon-spin relaxation measurements in zero field (ZF) and muon-spin rotation experiments in a transverse field (TF) were carried out on the MuSR spectrometer at the ISIS pulsed neutron and muon source, based at the Rutherford Appleton Laboratory in the UK The ISIS synchrotron produces pulses of protons at a frequency of 50 Hz, where four out of five pulses pass through the graphite muon production target. The
+
+\begin{table}
+\begin{tabular}{l c c}  & LuRuB_{2} & YRuB_{2} \\ \hline Structure & Orthorhombic & Orthorhombic \\ Space group & _Pnma_ & _Pnma_ \\ a (Å) & 5.8075\pm 0.0009 & 5.9071\pm 0.0004 \\ b (Å) & 5.2323\pm 0.0007 & 5.2971\pm 0.0003 \\ c (Å) & 6.2790\pm 0.0009 & 6.3535\pm 0.0004 \\ \end{tabular}
+\end{table}
+Table 1: Lattice parameters determined from the Rietveld refinements to the powder XRD data.
+
+Figure 1: Crystal structure of the RRuB_{2} ternary borides. The R atoms (large spheres) form zigzag chains that run parallel to the b crystallographic axis. The B atoms (small spheres) form weakly interacting dimers, with the Ru atoms (medium spheres) isolated.
+
+Figure 2: Temperature dependence of the magnetic susceptibility \chi for (a) LuRuB_{2} and (b) YRuB_{2}. The samples were cooled in zero field to 1.8 K, at which point a field of 1 mT was applied. Data were collected upon zero-field-cooled warming (ZFCW) and during a subsequent field-cooled cooling (FCC).
+
+  muons produced in this fashion are 100% spin polarized, and after filtering to a momentum of 26 MeV/c, are delivered to the MuSR spectrometer where they are implanted into the sample. The muons rapidly thermalize and sit at interstitial positions in the crystal lattice. Positive muons decay after an average lifetime of 2.2 \mus into a positron and two neutrinos, where the positron is emitted preferentially in the direction of the muon-spin vector. The decay positrons are detected and time stamped in the 64 scintillation detectors, which are arranged in circular arrays positioned before, F, or after, B, the sample for longitudinal (relaxation) experiments. The asymmetry A of the \muSR time spectrum is then calculated by taking the difference of the counts in the F and B detector arrays, weighted by the total number of counts: A(t)=[F(t)-\alpha B(t)]/[F(t)+\alpha B(t)]. Here, \alpha is a calibration constant which represents a relative counting efficiency between the F and B detectors. The asymmetry function allows one to measure the time evolution of the muon-spin polarization, and thus the local magnetic environment experienced by the muon ensemble can be determined.
+
+In a TF experiment, a magnetic field is applied perpendicular to the initial muon-spin polarization direction. In this configuration, the signals from the 64 detectors are normalized and subsequently mapped into two orthogonal components, which are then analyzed simultaneously [19].
+
+Powdered samples were mounted on silver sample plates using GE varnish. Silver is used as in ZF it produces a time-independent background, while in TF it contributes a nondecaying oscillation; both cases are easy to account for during data analysis. Both samples were mounted in a ^{3}He sorption cryostat with a temperature range of 0.3-50 K. For the ZF measurements, samples were cooled in zero applied field, and data points were collected in increments upon warming. Stray fields at the sample position are actively canceled to within 1 \muT by a flux gate magnetometer and an active compensation system controlling three pairs of correction coils. The TF experiments were conducted in a field of 30 mT. The samples were field cooled to a base temperature in order to promote the formation of a well-ordered, flux-line lattice, and data points collected upon incremental warming.
+
+## III Results and discussion
+
+### Zero and longitudinal-field muon-spin relaxation
+
+Results from the ZF-\muSR relaxation experiments are presented first. Figure 3 shows the time evolution of the muon-spin polarization in both samples collected above and below T_{c}. There is a clear change in the relaxation behavior on either side of the transition in both compounds, although the difference is much subtler in the Y compound. There is no evidence for an oscillatory component, which indicates that there is no coherent field associated with magnetic ordering. In the absence of atomic moments, the depolarization of the muon ensemble is due to the presence of static, randomly oriented nuclear moments. This behavior is modeled by the Gaussian Kubo-Toyabe equation [20]
+
+\[G_{\rm KT}(t)=\frac{1}{3}+\frac{2}{3}\big{(}1-\sigma_{\rm ZF}^{2}t^{2}\big{)} \exp\left(-\frac{\sigma_{\rm ZF}^{2}t^{2}}{2}\right),\] (1)
+
+where \sigma_{\rm ZF} measures the width of the nuclear dipolar field experienced by the muons. The spectra are well described by the function
+
+\[G_{z}(t)=G_{\rm KT}(t)\exp(-\Lambda t),\] (2)
+
+where \Lambda measures the electronic relaxation rate, and is usually attributed to "fast-fluctuation" effects that occur on a time scale much shorter than the muon lifetime.
+
+The nuclear term \sigma_{\rm ZF} is found to remain temperature independent in both compounds. As the temperature is increased from the base, there is an exponential decrease in \Lambda in both materials (see Fig. 4). This is reminiscent of the "critical slowing down" behavior of spin fluctuations in the vicinity of phase transitions to magnetically ordered states [21]. In both materials a small longitudinal field of 10 mT is sufficient to completely decouple the Gaussian component of the relaxation. Furthermore, the electronic component is almost completely suppressed from the ZF values, implying that the fluctuations responsible for this relaxation channel are in fact static or quasistatic with respect to the muon
+
+Figure 3: Time evolution of the spin polarization of muons implanted under zero-field conditions in (a) LuRuB_{2} and (b) YRuB_{2} at temperatures above and below T_{c}. The time-independent background due to muons stopping in silver has been subtracted, and the data normalized to the initial asymmetry—the muons are 100% spin polarized at t=0 s. The solid lines are the results of fitting the data to Eq. (2).
+
+  lifetime. There is no clear anomaly at T_{\rm c} in either material, indicating that the process responsible for these fluctuations is independent of the superconductivity. Although tempting, we conclude that we do not see any evidence for broken time-reversal symmetry.
+
+### Transverse-field muon-spin rotation
+
+In order to characterize the flux-line lattice, TF-\muSR was performed in a field of 30 mT in both materials. A selection of typical polarization spectra collected above and below T_{\rm c} is displayed in Fig. 5. The enhanced depolarization rate below T_{\rm c} is due to the field distribution P(B) formed by the flux-line lattice in the mixed state of the superconductor. Measuring the second moment \langle\Delta B^{2}\rangle of this field distribution allows the magnetic penetration depth \lambda to be calculated to a high degree of accuracy. In order to determine \langle\Delta B^{2}\rangle, the TF spectra are modeled as a sum of n sinusoidal oscillations, each within a Gaussian relaxation envelope,
+
+\[G_{x}(t)=\sum_{i=1}^{n}A_{i}\exp\left(-\frac{\sigma_{i}^{2}t^{2}}{2}\right) \cos(\gamma_{\mu}B_{i}t+\phi),\] (3)
+
+where A_{i} is the initial asymmetry, \sigma_{i} is the Gaussian relaxation rate, and B_{i} is the first moment of the ith component in the field distribution. There is a phase offset \phi, which is shared by each oscillating component, and \gamma_{\mu}/2\pi=135.5 MHz T^{-1} defines the muon gyromagnetic ratio. The number of components required is generally in the range 1\leqslant n\leqslant 5, with the requirement determined by the superconducting characteristics of the material. Strongly type-II superconductors with large penetration depths are often modeled well by a single oscillation, whereas low-\kappa materials, in which the coherence length plays a more important role in the structure of P(B), may require up to five separate oscillating components [18]. Treating the data in this way is equivalent to modeling the internal field distribution in the superconductor P(B) as a sum of n individual Gaussians [22],
+
+\[P(B)=\gamma_{\mu}\sum_{i=1}^{n}\frac{A_{i}}{\sigma_{i}}\exp\left(-\frac{\gamma _{\mu}^{2}(B-B_{i})^{2}}{2\sigma_{i}^{2}}\right).\] (4)
+
+The second moment of this field distribution is thus
+
+\[\langle\Delta B^{2}\rangle=\frac{\sigma_{\rm eff}^{2}}{\gamma_{\mu}^{2}}=\sum_ {i=1}^{n}\frac{A_{i}}{A_{\rm tot}}\bigg{[}\frac{\sigma_{i}^{2}}{\gamma_{\mu}^{ 2}}+(B_{i}-\langle B\rangle)^{2}\bigg{]},\] (5)
+
+where A_{\rm tot}=\sum_{i=1}^{n}A_{i} and \langle B\rangle=A_{\rm tot}^{-1}\sum_{i=1}^{n}A_{i}B_{i} is the first moment of P(B). Finally, the extra broadening from the nuclear moments \sigma_{\rm N} must be subtracted in quadrature from the total effective depolarization rate \sigma_{\rm eff} to yield the contribution of the flux-line lattice \sigma_{\rm FLL}^{2}=\sigma_{\rm eff}^{2}-\sigma_{\rm N}^{2}. \sigma_{\rm N} is assumed to be temperature independent, and is determined by measurements made in the normal state just above T_{\rm c}. Two oscillating components were required to adequately describe the LuRuB_{2} spectra, whereas three were required for the YRuB_{2}--a non-decaying background oscillation due to muons stopping in the silver sample holder has been subtracted from the spectra presented in Fig. 5. Above T_{\rm c} a single oscillation suffices in both materials to describe the depolarization.
+
+Figure 4: Temperature dependence of the electronic relaxation rate in LuRuB_{2} (triangles) and YRuB_{2} (circles), collected in ZF and in an applied longitudinal field of 10 mT. The solid lines are guides to the eye, indicating the exponential decay of \Lambda in ZF as T is increased.
+
+Figure 5: Representative TF-\muSR polarization signals collected (a) above and (b) below T_{\rm c} in LuRuB_{2} under an applied field of 30 mT. A nondecaying background oscillation due to muons stopping in the silver has been subtracted, and the data normalized to the initial asymmetry. The solid lines are fits using Eq. (3).
+
+  The temperature dependences of \sigma_{\rm eff} in both compounds are presented in Fig. 6. In superconductors with large critical fields and hexagonal flux-line lattices, there exists a simple relationship between the Gaussian depolarization rate \sigma_{\rm FLL} and the magnetic penetration depth, as long as the average field is a very small fraction of the upper critical field B_{\rm c2}. For both compounds B/B_{\rm c2}\approx 0.005 and so we can use the expression [23]
+
+\[\frac{\sigma_{\rm FLL}^{2}(T)}{\gamma_{\mu}^{2}}=0.00371\frac{\Phi_{0}^{2}}{ \lambda^{4}(T)},\] (6)
+
+where \Phi_{0} is the magnetic flux quantum. The magnetic penetration depths at T=0 K are thus found to be \lambda_{\rm Lu}(0)=221\pm 2 nm and \lambda_{\rm Y}(0)=190\pm 1 nm for the LuRuB_{2} and YRuB_{2} materials, respectively.
+
+Assuming London local electrodynamics, the temperature dependence of \lambda can be calculated for an isotropic s-wave superconductor in the clean limit using the following equation,
+
+\[\frac{\lambda^{-2}(T)}{\lambda^{-2}(0)}=1+2\int_{\Delta(T)}^{\infty}\left( \frac{\partial f}{\partial E}\right)\frac{EdE}{\sqrt{E^{2}-\Delta^{2}(T)}},\] (7)
+
+where f=[1+\exp(E/k_{\rm B}T)]^{-1} is the Fermi function and \Delta(T)=\Delta(0)\tanh[1.82[1.018(T_{c}/T-1)]^{0.51}] is the BCS approximation for the temperature dependence of the energy gap. The normalized inverse-squared penetration depth, or superfluid density, is displayed in Fig. 7 for both materials, with fits to the data using this model. The resultant values for the energy gaps are \Delta_{\rm Lu}(0)=1.36\pm 0.03 meV and \Delta_{\rm Y}(0)=1.10\pm 0.01 meV. The BCS theory proposes a universal proportionality between the energy gap and the superconducting transition temperature. This is conventionally encoded in the BCS parameter 2\Delta(0)/k_{\rm B}T_{\rm c}, which has the theoretical value of 3.52 in the weak-coupling limit. For the Lu and Y compounds, the BCS parameters are found to be 3.3 \pm 0.2 and 3.4 \pm 0.1, respectively. This seems to classify the (Lu/Y)RuB_{2} ternary borides as conventional, weakly coupled BCS type-II superconductors, in agreement with the NMR results [9].
+
+Figure 8: The results of the \muSR experiments summarized in the “Uemura plot,” which describes a universal scaling between T_{\rm c} and T_{\rm F} in different classes of superconductors. The Lu and Y ternary borides find themselves halfway between the conventional and unconventional regions, in the vicinity of the borocarbide and hexaboride superconductors.
+
+Figure 6: TF-\muSR effective depolarization rates in (a) LuRuB_{2} and (b) YRuB_{2}, calculated from the \sigma_{i} (insets) as described in the text. The solid line is a fit to Eq. (7), which is valid as there is a simple numerical coefficient relating \sigma_{\rm eff} and \lambda^{-2}.
+
+Figure 7: Temperature dependence of the superfluid density as a function of the reduced temperature T/T_{\rm c} for LuRuB_{2} (triangles) and YRuB_{2} (circles). The data overlay each other, reflecting the high degree of similarity in the order parameters of the two materials. The solid lines are fits using Eq. (7).
+
+  The magnetic penetration depth is directly related to the electronic properties of the superconducting state by the expression [24]
+
+\[\lambda(0)=\left[\frac{m^{*}}{\mu_{0}n_{\rm s}e^{2}}\left(1+\frac{\xi_{0}}{l} \right)\right]^{\frac{1}{2}},\] (8)
+
+where m^{*} is the effective mass of charge carrying electrons, and n_{\rm s} is the superconducting charge carrier density. The ratio of BCS coherence length to the mean free path \xi_{0}/l encodes the dirty limit correction, which for the Lu and Y compounds has been found to take on the values 3.9 and 0.85, respectively [8]. Equation (8) can be coupled with the expression for the Sommerfeld constant \gamma, which is also related to the electronic properties of the system [25],
+
+\[\gamma=\left(\frac{\pi}{3}\right)^{\frac{1}{2}}\frac{k_{\rm B}^{2}m^{*}n_{\rm e }^{\frac{1}{2}}}{\hbar^{2}},\] (9)
+
+where n_{\rm e} is the electronic carrier density and k_{\rm B} is Boltzmann's constant. By assuming that n_{\rm e} at T_{\rm c} is equivalent to n_{\rm s} as T\to 0 K, Eqs. (8) and (9) can be solved simultaneously to find values for m^{*} and n_{\rm s}. Consequently, an effective Fermi temperature can be calculated using the relation k_{\rm B}T_{\rm F}=(\hbar^{2}/2)(3\pi^{2}n_{\rm s})^{2/3}/m^{*}. The results of following this procedure are displayed in Table 2.
+
+Uemura _et al._ have described a method of classifying superconductors based on the ratio of the critical temperature T_{\rm c} to the effective Fermi temperature T_{\rm F}, which is found to be 1/414 and 1/304 for the Lu and Y compounds, respectively [26, 27, 28]. This places the ternary borides in the vicinity of the "band of unconventiality" described by Uemura, as depicted in Fig. 8. This is the first indication that the superconductivity in these compounds may not be entirely conventional. In fact, both compounds find themselves occupying the same region in the Uemura diagram as the borocarbide superconductors, and the rare-earth hexaborides [25]. High transition temperatures are a common theme in these families of materials, as well as the intriguing interplay between the superconductivity and the complex magnetic order associated with the rare-earth 4f electrons.
+
+## IV Conclusions
+
+In conclusion, TF and ZF-\muSR measurements have been carried out on the rare-earth ternary borides (Lu/Y)RuB_{2}. Both superconductors are well described by the conventional BCS theory of superconductivity in the weakly coupled limit, with fully gapped s-wave order parameters and preserved time-reversal symmetry in the superconducting state. The ZF-\muSR measurements reveal spin fluctuations that exhibit a critical slowing down behavior as the temperature is decreased, implying that both systems may be close to quantum critical points. Calculations of the electronic properties of the superconducting state reveal that the rare-earth ternary borides share similarities with the hexaboride and borocarbide superconducting families.
+
+## Acknowledgments
+
+The authors would like to thank T. E. Orton for valuable technical support. J.A.T.B. acknowledges ISIS and the STFC for studentship funding through Grant No. ST/K502418/1. This work was funded by the EPSRC, UK, through Grant No. EP/I007210/1. Some of the equipment used in this research was obtained through the Science City Advanced Materials project: Creating and Characterizing Next Generation Advanced Materials, with support from Advantage West Midlands and partly funded by the European Regional Development Fund.
+
+## References
+
+* [1] C. T. Wolowiec, B. D. White, and M. B. Maple, Physica C **514**, 113 (2015).
+* [2] B. T. Matthias, E. Corenzwit, J. M. Vandenberg, and H. E. Barz, Proc. Natl. Acad. Sci. USA **74**, 1334 (1977).
+* [3] D. C. Johnston, Solid State Commun. **24**, 699 (1977).
+* [4] K. Yvon and D. C. Johnston, Acta Crystallogr. Sect. B **38**, 247 (1982).
+* [5] D. Johnston and H. Braun, in _Superconductivity in Ternary Compounds II_, edited by M. Maple and O. Fischer, Topics in Current Physics Vol. 34 (Springer, New York, 1982), pp. 11-55.
+* [6] R. Shelton, B. Karcher, D. Powell, R. Jacobson, and H. Ku, Mater. Res. Bull. **15**, 1445 (1980).
+* [7] H. Ku and R. Shelton, Mater. Res. Bull. **15**, 1441 (1980).
+* [8] W. Lee, S. Appl, and R. Shelton, J. Low Temp. Phys. **68**, 147 (1987).
+* [9] Y. Kishimoto, Y. Kawasaki, Y. Ideta, S. Endou, T. Tanaka, M. Tanabe, T. Ohno, G. Ghosh, A. K. Tyagi, and L. C. Gupta, J. Phys.: Conf. Ser. **176**, 012039 (2009).
+* [10] J. Bardeen, L. N. Cooper, and J. R. Schrieffer, Phys. Rev. **108**, 1175 (1957).
+* [11] G. M. Luke, Y. Fudamoto, K. M. Kojima, M. I. Larkin, J. Merrin, B. Nachumi, Y. J. Uemura, Y. Maeno, Z. Q. Mao, Y. Mori, H. Nakamura, and M. Sigrist, Nature (London) **394**, 558 (1998).
+* [12] Y. Aoki, A. Tsuchiya, T. Kanayama, S. R. Saha, H. Sugawara, H. Sato, W. Higemoto, A. Koda, K. Ohishi, K. Nishiyama, and R. Kadono, Phys. Rev. Lett. **91**, 067003 (2003).
+* [13] A. D. Hillier, J. Quintanilla, and R. Cywinski, Phys. Rev. Lett. **102**, 117007 (2009).
+
+\begin{table}
+\begin{tabular}{l c c}  & LuRuB_{2} & YRuB_{2} \\ \hline \lambda (nm) & 221 \pm 2 & 190 \pm 1 \\ \Delta(0) (meV) & 1.36 \pm 0.03 & 1.10 \pm 0.01 \\ BCS parameter & 3.3 \pm 0.2 & 3.4 \pm 0.1 \\ m^{*}/m_{\rm e} & 9.8 \pm 0.1 & 15.0 \pm 0.1 \\ n_{\rm s} (\times 10^{28} m^{-3}) & 2.73 \pm 0.04 & 2.17 \pm 0.02 \\ T_{\rm c}/T_{\rm F} & 1/(414\pm 6) &  * Hillier _et al._ [2012]A. D. Hillier, J. Quintanilla, B. Mazidian, J. F. Annett, and R. Cywinski, Phys. Rev. Lett. **109**, 097001 (2012).
+* Bhattacharya _et al._ [2015]A. Bhattacharya, D. T. Adroja, J. Quintanilla, A. D. Hillier, N. Kase, A. M. Strydom, and J. Akimitsu, Phys. Rev. B **91**, 060503 (2015).
+* Biswas _et al._ [2011]P. K. Biswas, G. Balakrishnan, D. M. Paul, M. R. Lees, and A. D. Hillier, Phys. Rev. B **83**, 054517 (2011).
+* Sonier _et al._ [1994]J. E. Sonier, R. F. Kiefl, J. H. Brewer, D. A. Bonn, J. F. Carolan, K. H. Chow, P. Dosanjh, W. N. Hardy, R. Liang, W. A. MacFarlane, P. Mendels, G. D. Morris, T. M. Riseman, and J. W. Schneider, Phys. Rev. Lett. **72**, 744 (1994).
+* Khasanov _et al._ [2008]R. Khasanov, K. Conder, E. Pomjakushina, A. Amato, C. Baines, Z. Bukowski, J. Karpinski, S. Katrych, H.-H. Klauss, H. Luetkens, A. Shengelaya, and N. D. Zhigadlo, Phys. Rev. B **78**, 220510 (2008).
+* Rainford [1999]B. D. Rainford, in _Muon Science: Muons in Physics, Chemistry and Materials Science_, edited by S. L. Lee, S. H. Kilcoyne, and R. Cywinski (OP, Bristol, UK, 1999), pp. 463-471.
+* Hayano _et al._ [1979]R. S. Hayano, Y. J. Uemura, J. Imazato, N. Nishida, T. Yamazaki, and R. Kubo, Phys. Rev. B **20**, 850 (1979).
+* Dunsiger _et al._ [1996]S. R. Dunsiger, R. F. Kiefl, K. H. Chow, B. D. Gaulin, M. J. P. Gingras, J. E. Greedan, A. Keren, K. Kojima, G. M. Luke, W. A. MacFarlane, N. P. Raju, J. E. Sonier, Y. J. Uemura, and W. D. Wu, Phys. Rev. B **54**, 9019 (1996).
+* Maisuradze _et al._ [2010]A. Maisuradze, W. Schnelle, R. Khasanov, R. Gumeniuk, M. Nicklas, H. Rosner, A. Leithe-Jasper, Y. Grin, A. Amato, and P. Thalmeier, Phys. Rev. B **82**, 024524 (2010).
+* Brandt [2009]E. H. Brandt, Physica B **404**, 695 (2009).
+* Tinkham [2004]M. Tinkham, _Introduction to Superconductivity_, 2nd ed. (Dover, New York, 2004).
+* Hillier and Cywinski [1997]A. Hillier and R. Cywinski, Appl. Magn. Reson. **13**, 95 (1997).
+* Uemura _et al._ [1988]Y. J. Uemura, V. J. Emery, A. R. Moodenbaugh, M. Suenaga, D. C. Johnston, A. J. Jacobson, J. T. Lewandowski, J. H. Brewer, R. F. Kiefl, S. R. Kreitzman, G. M. Luke, T. Riseman, C. E. Stronach, W. J. Kossler, J. R. Kempton, X. H. Yu, D. Opie, and H. E. Schone, Phys. Rev. B **38**, 909 (1988).
+* Uemura _et al._ [1991]Y. J. Uemura, G. M. Luke, B. J. Sternlieb, J. H. Brewer, J. F. Carolan, W. N. Hardy, R. Kadono, J. R. Kempton, R. F. Kiefl, S. R. Kreitzman, P. Mulhern, T. M. Riseman, D. L. Williams, B. X. Yang, S. Uchida, H. Takagi, J. Gopalakrishnan, A. W. Sleight, M. A. Subramanian, C. L. Chien, M. Z. Cieplak, G. Xiao, V. Y. Lee, B. W. Statt, C. E. Stronach, W. J. Kossler, and X. H. Yu, Phys. Rev. Lett. **62**, 2317 (1989).
+* Uemura _et al._ [1991]Y. J. Uemura, L. P. Le, G. M. Luke, B. J. Sternlieb, W. D. Wu, J. H. Brewer, T. M. Riseman, C. L. Seaman, M. B. Maple, M. Ishikawa, D. G. Hinks, J. D. Jorgensen, G. Saito, and H. Yamochi, Phys. Rev. Lett. **66**, 2665 (1991).
+
+ 

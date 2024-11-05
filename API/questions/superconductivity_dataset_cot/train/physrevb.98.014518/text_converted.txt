@@ -1,0 +1,754 @@
+Superconducting and magnetic phase diagram of RbEuFe₄As₄ and CsEuFe₄As₄
+at high pressure
+
+Daniel E. Jackson
+
+Department of Physics, University of Florida, Gainesville, Florida
+32611, USA
+
+Derrick VanGennep
+
+Department of Physics, University of Florida, Gainesville, Florida
+32611, USA
+
+Wenli Bi
+
+Advanced Photon Source, Argonne National Laboratory, Argonne, Illinois
+60439, USA Department of Geology, University of Illinois at
+Urbana-Champaign, Urbana, Illinois 61801, USA Hawaii Institute of
+Geophysics and Planetology, School of Ocean and Earth Science and
+Technology, University of Hawaii at Manoa, Honolulu, Hawaii 96822, USA
+
+Dongzhou Zhang
+
+Harai Institute of Geophysics and Planetology, School of Ocean and Earth
+Science and Technology, University of Hawaii at Manoa, Honolulu, Hawaii
+96822, USA
+
+Philipp Materne
+
+Yi Liu
+
+Department of Physics, Zhejiang University, Hangzhou 310027, China
+
+Guang-Han Cao
+
+Department of Physics, University of Alabama at Birmingham, Birmingham,
+Alabama 35294, USA
+
+Samuel T. Weir
+
+Department of Physics, University of Alabama at Birmingham, Birmingham,
+Alabama 35294, USA
+
+Yogesh K. Vohra
+
+Department of Physics, University of Alabama at Birmingham, Birmingham,
+Alabama 35294, USA
+
+James J. Hamlin
+
+Corresponding author: jhamlin@ufl.edu Department of Physics, University
+of Florida, Gainesville, Florida 32611, USA
+
+Received 23 May 2018; revised manuscript received 28 June 2018;
+published 25 July 2018
+
+###### Abstract
+
+The recently discovered (Rb,Cs)EuFe₄As₄ compounds exhibit an unusual
+combination of superconductivity (T_(c) ∼ 35 K) and ferromagnetism
+(T_(m) ∼ 15 K). We have performed a series of x-ray diffraction, ac
+magnetic susceptibility, dc magnetization, and electrical resistivity
+measurements on both RbEuFe₄As₄ and CsEuFe₄As₄ to pressures as high as
+ ∼ 30 GPa. We find that the superconductivity onset is suppressed
+monotonically by pressure while the magnetic transition is enhanced at
+initial rates of dT_(m)/dP ∼ 1.7 K/GPa and 1.5 K/GPa for RbEuFe₄As₄ and
+CsEuFe₄As₄, respectively. Near 7 GPa, T_(c) onset and T_(m) become
+comparable. At higher pressures, signatures of bulk superconductivity
+gradually disappear. Room-temperature x-ray diffraction measurements
+suggest the onset of a transition from tetragonal (T) to a
+half-collapsed-tetragonal (hcT) phase at  ∼ 10 GPa (RbEuFe₄As₄) and
+ ∼ 12 GPa (CsEuFe₄As₄). The ability to tune T_(c) and T_(m) into
+coincidence with relatively modest pressures highlights (Rb,Cs)EuFe₄As₄
+compounds as ideal systems to study the interplay of superconductivity
+and ferromagnetism.
+
+DOI: 10.1103/PhysRevB.98.014518
+
+## 1 Introduction
+
+The iron-based superconductors crystallize in several closely related
+crystal structures. The most recently discovered of these is the
+so-called "1144" structure type, which was reported for compounds with
+the formula AeAFe₄As₄, where Ae = Ca or Sr and A = K, Rb, or Cs [1].
+These structures can be viewed as an ordered stacking of Fe₂As₂ layers
+sandwiched between alternating layers of Ae and A. Unlike the closely
+related "122" compounds such as BaFe₂As₂, which require doping or
+pressure to exhibit high T_(c) values, the stoichiometric 1144 compounds
+exhibit T_(c) ∼ 35 K at ambient pressure. Subsequently, it was found
+that the same structure type forms when the alkaline earth element is
+replaced by the rare earth element Eu, resulting in RbEuFe₄As₄ and
+CsEuFe₄As₄[2, 3, 4].
+
+The Eu variants of the 1144 structure exhibit an unusual coexistence of
+superconductivity (T_(c) ∼ 35 K) and what is nominally ferromagnetism
+(T_(m) ∼ 15 K). The large ordered moment of  ∼ 6.5μ_(B) per formula unit
+is consistent with magnetism deriving from Eu²⁺ ions [3]. Mossbauer
+spectroscopy measurements confirm that the magnetism derives from Eu²⁺
+moments (which orient perpendicular to the crystallographic c axis), and
+indicate that there is no magnetic order of Fe moments down to at least
+2 K [5, 6]. A recent preprint concluded that the Eu magnetism is
+quasi-2D in nature with strong magnetic fluctuation effects [7].
+However, there are as yet no reports of, e.g., neutron scattering
+measurements to establish the magnetic structure, so it is possible that
+the order is a more complicated modulated structure, rather than simple
+ferromagnetism [8, 9].
+
+It is thought that superconductivity and magnetism are able to coexist
+in these compounds because of a weak coupling between the Eu planes and
+the FeAs planes. Weak coupling between superconductivity and the Eu
+magnetism is confirmed by the fact that nonmagnetic CaRbFe₄As₄[1]
+exhibits nearly the same T_(c) as RbEuFe₄As₄ and CsEuFe₄As₄.
+Furthermore, a study of the (Eu_(1 − x)Ca_(x))RbFe₄As₄ series found that
+while T_(m) vanishes with increasing Ca concentration, T_(c) remains
+essentially constant [10]. The observations described above place the
+(Rb,Cs)EuFe₄As₄ compounds in the class of local moment ferromagnetic
+superconductors such as ErRh₄B₄[11] and Ho_(x)Mo₆S₈[12]. However, these
+materials exhibit a destruction of the superconducting state at the
+onset of ferromagnetism, unlike in (Rb,Cs)EuFe₄As₄. In contrast, the
+uranium-based superconducting ferromagnets such as URhGe [13], UGe₂
+(under pressure) [14], and UCoGe [15] show the onset of weak itinerant
+ferromagnetism at temperatures above the superconducting T_(c). We use
+the terminology ferromagnetic superconductor (FMS) to indicate
+T_(c) > T_(m) and superconducting ferromagnet (SFM) to indicate
+T_(m) > T_(c).
+
+Experiments aimed at tuning the superconducting and magnetic transitions
+via pressure, chemical substitution, and applied magnetic fields have
+played a central role in our understanding of magnetic superconductors
+[16, 17]. To date, there appear to be only two reports of chemical
+substitution experiments on (Rb,Cs)EuFe₄As₄ compounds. In addition to
+the Eu → Ca substitution study described above [10], Liu _et al._
+explored the effect of Ni substitution on the Fe site [18]. Increasing
+Ni concentration has little impact on the Eu magnetism, but produces the
+emergence of possible spin density wave order at 5
+
+High pressure experiments have the potential to tune T_(c) and T_(m)
+without introducing intrinsic disorder. In this paper we report a series
+of high pressure measurements on polycrystalline samples of both
+RbEuFe₄As₄ and CsEuFe₄As₄. Using a combination of x-ray diffraction, dc
+magnetization, ac magnetic susceptibility, and electrical resistivity
+measurements, we have mapped the phase diagrams of both compounds to
+pressures as high as ∼ 30 GPa.
+
+## II Experimental Methods
+
+Polycrystalline samples of RbEuFe₄As₄ and CsEuFe₄As₄ were synthesized as
+previously reported [3, 4]. These samples were subjected to a variety of
+high pressure measurements, each using different diamond anvil cells
+(DACs). Pressure was determined via the fluorescence spectrum of small
+pieces of ruby located inside the sample chamber, near the sample [19].
+For measurements at low temperature, the pressure was measured _in situ_
+at low temperature, thus avoiding potential errors in pressure
+determination due to the changes in pressure that typically occur on
+cooling from room to low temperature.
+
+Angle-dispersive x-ray diffraction (XRD) experiments on RbEuFe₄As₄ and
+CsEuFe₄As₄ powder samples were carried out at beamline 13BM-C (PX^(′)2),
+Advanced Photon Source (APS), Argonne National Laboratory [20]. The
+x-ray beam was monochromated with silicon (311) to 28.6 keV (0.434 A)
+with 1 eV bandwidth. A Kirkpatrick-Baez mirror system was used to focus
+the beam to 20 μm (vertical) × 15 μm (horizontal) (FWHM) at the sample
+position. The MAR165 charge-coupled device (CCD) detector (Rayonix) was
+used to collect diffraction patterns. Powdered LaB₆ was used to
+calibrate the distance and tilting of the detector.
+
+For the diffraction measurements, high pressure was achieved in Mao-type
+symmetric DACs with c-BN seats to allow access to high diffraction
+angles. Two experimental runs were performed on CsEuFe₄As₄. In the first
+run, a pair of diamond anvils with a 600 μm cutlet were used up to 11.1
+GPa. A Re gasket was pre-indented from 250 μm initial thickness to 85
+μm. During the second run, a pair of 500 μm diamond anvils with Re
+gasket thickness of 80 μm were used to achieve pressures up to 28.1 GPa.
+A single experimental run was performed on the RbEuFe₄As₄ sample, using
+diamond anvils of 500 μm cublets up to 29.7 GPa. The Re gasket was
+pre-indented to 78 μm and a hole of 260 μm was EDM drilled. All XRD
+experiments were carried out at room temperature. The pressure is
+cross-checked with solid Ne diffraction peaks above 5 GPa using the
+equation of state from Ref. [21]. A gas membrane pressure controller was
+used to adjust the pressure. In all the experiments, Ne was used as the
+pressure medium. The typical exposure time was 60 seconds per image. The
+2-D diffraction images were integrated using the DIOPTAS software [22].
+LeBail refinements on the high pressure XRD data were performed in
+GSAS-II [23].
+
+High-pressure dc magnetization measurements were performed in a Quantum
+Design MPMS using a miniaturized Tozer-type turnbuckle DAC [24, 25]. The
+diamonds had culets of 1 mm. A Berylco25 gasket was pre-indented from
+250 to 100 μm. The pressure medium was 1:1 n-pentane:isoamyl alcohol,
+which is known to be nearly hydrostatic to 7.4 GPa at room temperature
+[26]. The ruby manometer signal was collected via fiber optic access
+through a custom sample rod. Pressure was applied at room temperature
+for these measurements.
+
+The ac magnetic susceptibility measurements were performed using a
+balanced primary/secondary coil system that has been described elsewhere
+[27]. The diamond anvil cell is an Almax-Easylab "Chicago DAC" [28],
+which is designed to fit inside the bore of a Quantum Design PPMS.
+Samples with approximate dimensions of 200 μm × 200 μm × 50 μm were
+extracted from a larger chunk of polycrystalline material and loaded
+into the sample chamber. The diamonds had culets of 800 μm and a
+Berylco25 gasket was indented from 250 to 80 μm. Daphne oil was used as
+a pressure medium. Two SR830 lock-in amplifiers are used in order to
+simultaneously measure the first and third harmonic of the ac magnetic
+susceptibility [29]. The primary provides an excitation field of 3 Oe
+rms at 1023 Hz. The detection coil is connected through a Stanford
+Research SR554 transformer/preamplifier. For these measurements, the
+signal is dominated by a large, temperature-dependent background signal
+deriving from the gasket and nearby parts of the DAC. In order to
+eliminate this contribution, we have measured the temperature-dependent
+background susceptibility and subtracted it from the data. The ruby
+manometer signal was collected via optical fiber and a lens system which
+is mounted to the diamond anvil cell. Pressure changes were carried out
+at room temperature.
+
+For the resistivity measurements, small sample pieces with dimensions of
+about 70 μm × 70 μm × 10 μm were cut from a larger piece of polycrystal
+for each of the measurements. The measurements were carried out in a
+OmniDAC gas-membrane-driven diamond anvil cell from Almax-Easylab. The
+cell was placed inside a custom, continuous-flow cryostat built by
+Oxford Instruments. Optical access to the cell for visual observation
+and measurement of the ruby manometer is provided through windows at the
+bottom of the cryostat and an optical fiber entering via a feed-through
+at the top. One of the diamonds used was a designer-diamond anvil
+containing eight symmetrically arranged, deposited-tungsten microprobes
+encapsulated in high-quality-homoepitaxial diamond [30]. This diamond
+had a culet diameter of ∼ 180 μm, and the opposing anvil had a culet
+diameter of ∼ 500 μm. Resistance was measured in the van der Pauw
+geometry with currents of ∼ 1 mA. Gaskets were pre-indented from 150 μm
+to ∼ 30 μm thickness and were made of 316 stainless steel.
+Quasihydrostatic soft, solid steatite was used as the
+pressure-transmitting medium. The temperature at which pressure was
+applied varied in different experimental runs as specified in the text
+and figures.
+
+## III Crystal structure
+
+Representative XRD patterns are shown in Fig. 1. At ∼ 5 GPa additional
+peaks from the solid No pressure medium (marked by asterisks) appear in
+the diffraction pattern. The lattice parameters a and c obtained from
+LeBail refinements with space group P4/mmm are shown in Fig. 2. Both a
+and c decrease smoothly with pressure up to 12 GPa (CsEuFe₄As₄) and 10
+GPa (RbEuFe₄As₄). The volume as a function of pressure in the low
+pressure structure for both compounds is fitted with the third-order
+Birch-Murnaghan equation [31]. For CsEuFe₄As₄, we find B₀ = 46.3(2) GPa
+and B₀^(′) = 5.59(6). For RbEuFe₄As₄, we find B₀ = 50.7(7) GPa and
+B₀^(′) = 4.1(3). Due to the absorption of the c-BN seat and spotty
+nature of the data, Rietveld refinement was not successful.
+
+With further increase of pressure, anomalous compression is evidenced by
+the negative compressibility of a and a gradual collapse of the c
+lattice constant evidenced by a change in the slope of c vs P. These
+features are also visible in the c/a ratio plotted in the lower panels
+of Fig. 2. Such tetragonal to collapsed-tetragonal structural
+transitions are common in 122 compounds [32, 33, 34, 35]. Similar
+anomalous compression has been observed in CaKFe₄As₄ near 4 GPa [36] and
+in the 122 analog EuFe₂As₂ around 8-12 GPa [34, 37]. The relatively
+small changes in the lattice parameters at the structural transition for
+CaKFe₄As₄, combined with density functional theory (DFT) calculations,
+led the authors of Ref. [36] to propose that the transition is to a
+"half-collapsed" tetragonal phase. In this phase, As-As bonds form
+across the Ca layer, but not across the K layer. At still higher
+pressures, one might thus expect another collapse transition as As-As
+bonds form across the K layer. In the present results on RbEuFe₄As₄ and
+CsEuFe₄As₄ we find changes in the a and c lattice constants that are
+consistent with the half-collapse scenario since they are comparable to
+those found for CaKFe₄As₄ and substantially smaller than those found for
+KFe₂As₂[38] and CaFe₂As₂[32].
+
+In the case of the RbEuFe₄As₄ data, we see two anomalies in the lattice
+constant vs pressure data. This is most clearly visible in the a vs P
+data, where a begins to increase at ∼10 GPa, passes through a maximum,
+and then again begins to increase with pressure near 20 GPa. These two
+features may be connected with a sequence of transitions from tetragonal
+(T) to half-collapsed (hcT) starting at 10 GPa, followed by a transition
+from hcT to fully collapsed tetragonal (cT) starting at 20 GPa. In the
+case of CsEuFe₄As₄, the data suggest that the transition to the hcT
+phase begins at 12 GPa, while an eventual cT phase likely appears at a
+pressure somewhere above 30 GPa.
+
+## IV Magnetic measurements
+
+Figure 3 presents the results of dc magnetization measurements on
+RbEuFe₄As₄ at several values of the applied pressure. The data were
+collected with an applied field of 10 Oe. The zero field cooled (ZFC)
+and field cooled (FC) measurements are plotted in separate panels and
+the data have been offset for clarity. The measurement marked 0.0 GPa
+was collected with the sample loaded inside the pressure cell sample
+chamber. At zero pressure, both the superconducting transition
+(T_(c) ∼ 36 K) and the magnetic transition (T_(m) ∼ 15 K) are clearly
+visible. The data have been plotted using the estimated volume of the
+sample such that a full Meissner effect would generate a change in the
+signal of −1. The measurements indicate a shielding fraction of  ∼ 45%,
+which is consistent with the relatively large size of the ferromagnetic
+anomaly compared to the superconducting drop. We note that the exact
+volume of the tiny, irregularly shaped sample is difficult to estimate
+precisely and the error in this calibration could be as large as  ∼ 50%.
+The substantially smaller magnitude of the diamagnetic drop in χ for the
+FC measurements compared to the ZFC measurements is likely due to
+pinning.
+
+As pressure increases, the magnetic transition moves to higher
+temperature and the diamagnetic signal at T_(c) moves to
+
+Figure 1: Selected XRD patterns for CsEuFe₄As₄ (left) and RbEuFe₄As₄
+(right) at various pressures. The data were taken at room temperature.
+Solid Ne peaks are identified by asterisks in the spectra at and above
+4.9 GPa.
+
+Figure 2: Lattice parameters, unit cell volume, and c/a ratio versus
+pressure for CsEuFe₄As₄ (left) and RbEuFe₄As₄ (right).
+
+lower temperature and becomes smaller. Somewhere between 4.0 and 4.7 GPa
+clear signatures of the superconducting transition vanish. Extrapolation
+of the two transition temperatures suggests that they do not meet until
+ ∼ 7 GPa. The disappearance of the superconducting signal at a somewhat
+lower pressure might be due to substantial flux pinning on cooling
+through the superconducting transition when T_(m) is just below T_(c).
+Alternatively, inhomogeneity or strain in the sample could cause the
+magnetism to weaken or destroy superconductivity in certain regions of
+the sample.
+
+Figure 4 shows a comparison of the real parts of the first (χ^(′)) and
+third harmonic (χ₃^(′)) of the ac susceptibility for CsEuFe₄As₄. Results
+are shown for both a large piece of sample at ambient pressure and for a
+small piece of sample loaded in the diamond cell at the lowest applied
+pressure, 0.5 GPa. The data have been plotted in units such that
+4πχ = −1 corresponds to full shielding, by using estimates of the sample
+volume. Both the ambient pressure sample and the sample loaded in the
+diamond cell show diamagnetic signals that are consistent with full
+shielding.
+
+While the interpretation of χ^(′) is simple, the interpretation of
+χ₃^(′) is less straightforward. It is known that the shape of the χ₃^(′)
+transition can have a complicated dependence on measurement conditions.
+Analysis of the frequency dependence of χ₃^(′) can provide insight into
+the flux dynamics of the material [39, 40]. From a practical standpoint,
+χ₃^(′) provides a complementary way to track the transition temperatures
+as a function of pressure. Figure 4 demonstrates that the
+superconducting onset temperature in χ^(′) occurs at approximately the
+same temperature as the onset in χ₃^(′). In addition, the minimum in
+χ₃^(′) just below 30 K is in good agreement with the midpoint of the
+superconducting transition measured via χ^(′). As we will see later, the
+minimum in χ₃^(′) also corresponds very closely with the midpoint of the
+resistive transition. Though the feature at T_(m) is visible in the high
+pressure data, it is substantially smaller in relative magnitude than
+the corresponding feature in the large, ambient pressure sample.
+
+Having established the approximate shielding fraction and relationship
+between first and third harmonic signals, we now turn to the
+high-pressure ac susceptibility results. Figure 5 shows a selection of
+ac magnetic susceptibility measurements for CsEuFe₄As₄. The trends are
+very similar to those observed in the dc measurements on RbEuFe₄As₄,
+though the measurements extend to higher pressures. Increasing pressure
+causes an increase in T_(m) and a decrease in T_(c). When the
+superconducting and magnetic transition are very close in temperature
+(5.9 GPa and 6.9 GPa) it becomes difficult to distinguish the location
+of T_(c). However at higher pressure (8.9 GPa) there appears to be a
+diamagnetic superconducting signal just below 20 K, which is lower than
+T_(m) ∼ 28 K.
+
+Figure 4: Real parts of the first and third harmonic as a function of
+temperature for a large piece of CsEuFe₄As₄ at ambient pressure (left)
+and a small piece inside the diamond anvil cell (right). The vertical
+dashed lines are guides to the eye showing the correspondence between
+features in the first and third harmonic. The minimum in χ₃^(′) occurs
+near the midpoint of the superconducting transition in χ^(′).
+
+Figure 5: The ac magnetic susceptibility as a function of temperature
+for CsEuFe₄As₄. (a) Real part of the first harmonic (χ^(′)). The
+superconducting transition is visible as a drop in the signal and the
+magnetic transition corresponds to the peak. (b) Real part of the third
+harmonic (χ₃^(′)).
+
+Figure 3: Measurements of the dc susceptibility of RbEuFe₄As₄ plotted vs
+temperature for several different pressures. The left and right show the
+zero field cooled (ZFC) and field cooled (FC) data. The data have been
+offset for clarity.
+
+This suggests that a significant fraction of the sample remains
+superconducting when T_(m) > T_(c). However, the proximity of T_(m) and
+T_(c), together with the broadness of the superconducting transitions,
+makes it impossible to obtain an unambiguous estimate of the
+superconducting volume fraction at the higher pressures. Nonetheless, by
+12 GPa, which is above the structural transition, there is clearly no
+trace of a superconducting transition–though the signal at T_(m)
+remains.
+
+Figure 5(b) shows the corresponding measurements of χ₃^(′), which were
+measured simultaneously with the first harmonic at each pressure. An
+onset in the χ₃^(′) signal is still visible up to 8.9 GPa, but is
+suppressed to below 5 K by 12 GPa. The minimum in χ₃^(′), which
+corresponds approximately to the midpoint of the superconducting
+transition, can be tracked to 5.9 GPa. Both onset and midpoint indicate
+a monotonic suppression of T_(c) with pressure.
+
+## V. Electrical resistivity measurements
+
+Figure 6 shows resistivity versus temperature curves for CsEuFe₄As₄ and
+RbEuFe₄As₄ at selected pressures spanning the entire pressure range
+studied. In order to present the data clearly and avoid excessive
+overlapping of the curves, we have plotted the data corresponding to
+superconducting transitions in the upper panel and those corresponding
+to magnetic transitions in the lower panel. At ambient pressure, samples
+of both materials exhibit complete drops to zero resistance [dashed
+curves in panels (a) and (c) of Fig. 6]. However, under pressure, the
+resistivity does not drop completely to zero for either compound. At the
+lowest temperatures, roughly 20
+
+Figure 6: Resistivity as a function of temperature at various pressures
+for CsEuFe₄As₄ [panels (a) and (b)] and RbEuFe₄As₄ [panels (c) and (d)].
+The dashed curves indicate data taken at ambient pressure that have been
+normalized to facilitate comparison with the high pressure data. For
+clarity, the curves corresponding to superconducting transitions are
+plotted in the top panels and those corresponding to magnetic
+transitions are plotted in the bottom panels. The superconducting
+transition is suppressed by pressure, while the magnetic transition is
+enhanced.
+
+Figure 7: Derivative of the resistivity as a function of temperature for
+several different pressures while unloading in the regime where
+T_(m) > T_(c). Data for two different pressure runs are shown for both
+CsEuFe₄As₄ (left) and RbEuFe₄As₄ (right).
+
+Despite the issues described above, the resistivity data show clear
+trends that allow us to track both T_(c) and T_(m) as a function of
+pressure. For both compounds T_(c) decreases smoothly with pressure. The
+drop in the resistance above T_(c) becomes smaller at higher pressures
+and eventually vanishes. Once the signatures of superconductivity
+vanish, another weaker anomaly appears in the resistivity. This feature
+moves to higher temperature and becomes more pronounced with increasing
+pressure. At lower pressures in particular, the weaker anomaly is
+difficult to see in the raw resistivity data [Figs. 6(b), 6(d)], but is
+clearly visible in the derivative of this data. Derivative (dρ/dT) data
+are presented for several different experimental runs in Fig. 7. The
+high pressure anomaly in the resistivity is clearly due to the magnetic
+ordering transition, since it shows the same pressure dependence as
+T_(m) (see Fig. 8).
+
+## VI Phase diagrams
+
+Combining the data from six different pressure runs, consisting of
+magnetic or resistivity measurements at more than 90 different
+pressures, together with the room-temperature x-ray diffraction data, we
+arrive at the phase diagrams presented in Fig. 8. The dashed vertical
+lines indicate the critical pressures for the onset of the structural
+transitions, which have been determined at room temperature from the
+pressure at which the a lattice constant begins to increase. While it is
+possible that these transition pressures have some temperature
+dependence, in the case of CaKFe₄As₄, it was found that the T → hcT
+transition pressure was not strongly dependent on temperature [36]. Both
+CsEuFe₄As₄ and RbEuFe₄As₄ exhibit quite similar phase diagrams. The
+similarity in the phase diagrams for both compounds is not surprising
+given that, at P = 0, the values of T_(m), T_(c), and the
+compressibility of the two compounds are nearly identical.
+
+Under pressure, T_(m) increases to a maximum value near  ∼ 40-50 K at
+ ∼ 25-30 GPa. The initial (P ∼ 0) values of the slope dT_(m)/dP are
+ ∼ 1.7 K/GPa for RbEuFe₄As₄ and  ∼ 1.5 K/GPa for CsEuFe₄As₄. We do not
+detect any significant anomaly or change in slope of the T_(m) vs
+pressure curve at the onset of the T → hcT transition. With increasing
+pressure, T_(c) is suppressed monotonically. Assembling data from
+multiple measurements suggests that the onset of the superconducting
+transition falls below T_(m) at P_(c) ∼ 7 GPa for both compounds. In the
+case of the Cs compound, we have evidence from a single temperature
+sweep that a substantial fraction of the sample remains superconducting
+when T_(c) > T_(m) (see χ^(′) and χ₃^(′) data for 8.9 GPa in Fig. 5).
+
+The criteria for the superconducting onset temperature are given by the
+intersection of linear fits to the data just above and just below the
+onset of the transition. Magnetic ordering temperatures, T_(m), are
+determined using the peak in χ (Figs. 3 and 5), or the the midpoint of
+the feature in dρ/dT (Fig. 7). The open symbols in the phase diagrams
+correspond to the midpoint of the superconducting transition. The
+midpoint values are estimated by taking either the temperature where the
+resistivity has dropped to 50
+
+For some of the measurements, the sample was annealed at room
+temperature at high pressure, while for other measurements pressure
+application occurred at low temperature and the sample was maintained at
+ ∼ 60-70 K throughout the course
+
+Figure 8: Superconducting and magnetic phase diagram of CsEuFe₄As₄
+(left) and RbEuFe₄As₄ (right). The open symbols correspond to the
+midpoints of the superconducting transition, as described in the text.
+Superconducting transition temperatures (solid circles) correspond to
+the onset of the transition measured via resistivity or magnetic
+susceptibility. Magnetic transition temperatures (solid triangles) are
+determined from the peak in magnetic susceptibility or midpoint of the
+feature in dρ/dT. The dashed, vertical lines indicate onset pressures
+for the structural transitions.
+
+of the experiment (see key to Fig. 8). For the superconducting
+transition, the data are in good agreement for both types of pressure
+application. The data may suggest that samples compressed at low
+temperatures tend to present the magnetic transition at a lower
+temperature than samples subjected to high pressure at room temperature.
+This can be seen by comparing the black and red triangles in the high
+pressure part of the phase diagram. The effect is most pronounced for
+the RbEuFe₄As₄ sample, though a small effect with the same trend appears
+to exist in the CsEuFe₄As₄ data as well. One possibility is that T_(m)
+is sensitive to the hydrostaticity of the pressure conditions. Annealing
+the sample at room temperature under pressure may tend to relieve strain
+in the sample. The phase diagrams of several 122-type iron-based
+superconductors are well known to be sensitive to the degree of
+hydrostaticity [44, 45]. Another possibility is that kinetic effects due
+to low temperature compression alter the pressures ranges for which
+different crystal structures are present in the sample [42, 46]. There
+are not yet low-temperature/high-pressure x-ray diffraction studies on
+AEuFe₄As₄ compounds to test whether this might be the case.
+
+## VII Discussion
+
+Among 1144 materials, to date, only CaKFe₄As₄ appears to have been the
+subject of a study under applied pressure [36]. For CaKFe₄As₄, pressure
+causes a similar decrease in critical temperature with pressure, though
+at a slightly higher rate than we find for RbEuFe₄As₄ and CsEuFe₄As₄. At
+4 GPa the structure collapses to an hC phase, and bulk superconductivity
+vanishes (though traces of filamentary superconductivity remain) [36].
+The disappearance of bulk superconductivity upon the development of
+As-As (or P-P) bonding in the collapsed phase appears to be a common
+feature of several 122 materials [47, 48, 49]. For (Rb,Cs)EuFe₄As₄, an
+important question is whether bulk superconductivity begins to vanish at
+the onset of the structural transition or, perhaps, at P_(c), where
+T_(c) dips below T_(m). The former possibility seems probable since we
+see substantial signatures of superconductivity in the susceptibility
+for CsEuFe₄As₄ at pressures above P_(c). In the case of RbEuFe₄As₄,
+partial superconducting transitions extend to pressures above the
+critical pressure for the T → hcT transition (right panel of Fig. 8).
+This may be due to to pressure gradients associated with the steatite
+pressure medium, and the most likely scenario is that the hcT phase is
+not a bulk superconductor.
+
+Another interesting question is whether the initial T → hcT transition
+corresponds to As-As bonds developing across the Eu layer or,
+alternatively, across the Rb/Cs layer. Analysis of our x-ray data has
+not allowed us to unambiguously choose between these possibilities.
+Comparison with the behavior of other 122 compounds at high pressure
+[43, 50, 51, 52, 53, 54, 55] gives some insight. Several Eu-based 122
+compounds are known to exhibit pressure-induced T → cT transitions that
+are connected to a valence change from Eu²⁺ to nonmagnetic Eu³⁺[34, 50,
+56]. For comparison with CsEuFe₄As₄ and RbEuFe₄As₄, we first look to
+EuFe₂As₂.
+
+At ambient pressure, EuFe₂As₂ exhibits antiferromagnetic order
+(T_(N) ∼ 20 K) deriving from Eu²⁺ ions. EuFe₂As₂ exhibits pressure
+induced superconductivity (coexisting with antiferromagnetic order) over
+a narrow range of pressures near 2 GPa [57]. Under pressure T_(N)
+eventually begins to increase and then transforms to ferromagnetism at
+ ∼ 6 GPa [52]. A T → cT transition commences at  ∼ 10 GPa (at low
+temperature) [37]. At roughly the same pressure, the ferromagnetic
+ordering temperature passes through a maximum and begins to decrease.
+The magnetic order and moment of the Eu ion appear to be completely
+suppressed by 20 GPa [52]. These observations are consistent with a
+valence transition from Eu²⁺ to nonmagnetic Eu³⁺ that commences near the
+structural transition, but is not complete until significantly higher
+pressures. Examination of the phase diagrams in Fig. 8 shows that the
+pressure dependence of the magnetic ordering temperature does not
+exhibit any clear anomaly at the onset of the T → hcT transitions. On
+the other hand, it does appear that T_(m) begins to saturate within the
+hcT phases. Therefore, from our T_(m) versus P data alone, it is not
+possible to categorically select which layer (Eu or alkali metal)
+initially collapses. However, as discussed below, consideration of
+structural trends in iron-based 122 compounds strongly suggests that the
+initial collapse occurs in the Eu layer.
+
+Yu _et al._[37] examined the critical pressure for the T → cT transition
+pressure in AFe₂As₂ compounds (A= Ca, Sr, Ba, and Eu). They noted that
+the critical pressure showed a trend of increasing with increasing
+cation radius. This trend is consistent with the findings of DFT
+calculations on CaKFe₄As₄[36], which indicate that the Ca layer
+collapses first (r_(Ca³⁺) = 1.0 A) while the K layer only collapses at
+higher pressures (r_(K⁺) = 1.4 A) [58]. The ionic radius of Eu²⁺ (1.2 A)
+is smaller than that of both Rb⁺ (1.5 A) and Cs⁺ (1.7 A) [58].
+Consequently, in CsEuFe₄As₄ and RbEuFe₄As₄, the collapse of the Eu layer
+should occur first, with the alkali metal layer collapsing at higher
+pressure. This picture is also consistent with our observation that the
+sample containing the smaller Rb⁺ ion exhibits a second collapse
+transition beginning at  ∼ 20 GPa, while for the sample containing the
+larger Cs⁺ ion, the second collapse does not occur below 30 GPa.
+Comparison with the trend of the T → cT pressure versus ionic radius
+presented in Ref. [37] suggests that the Cs layer in CsEuFe₄As₄ should
+collapse at a pressure of  ∼ 30 GPa, which is just at the limit of the
+range of our measurements. The transition sequence described above is
+consistent with the results of recent DFT calculations [59].
+
+## VIII Conclusion
+
+In summary, we find that both RbEuFe₄As₄ and CsEuFe₄As₄ exhibit very
+similar phase diagrams under pressure. X-ray diffraction measurements
+suggest a transition to a half-collapsed tetragonal phase at pressures
+of 10 GPa and 12 GPa for RbEuFe₄As₄ and CsEuFe₄As₄, respectively. For
+RbEuFe₄As₄, an additional structural transition to a fully collapsed
+tetragonal phase may occur at 20 GPa. For both materials, the magnetic
+transition temperature, T_(m), increases with pressure while the
+superconducting transition temperature T_(c) decreases. The two
+transitions coincide near a critical pressure P_(c) ∼ 7 GPa, indicating
+that a crossover from FMS to SFM occurs prior to the onset of the
+tetragonal → half-collapsed-tetragonal transition. The relatively modest
+pressures required to tune this crossover make AEuFe₄As₄ compounds a
+very interesting system for further exploring the interplay of
+superconductivity and (local moment) magnetism in a clean,
+stoichiometric material.
+
+The present measurements have been performed using polycrystalline
+samples which show somewhat broad transitions. Recently,
+single-crystalline specimens [60] have been grown which show
+substantially sharper transitions. It would be particularly interesting
+to further examine the narrow pressure range around P_(c) in such
+crystals in order to explore, e.g., the influence of the FMS to SFM
+crossover on the upper critical field curve.
+
+## Acknowledgments
+
+This work was supported by National Science Foundation (NSF) CAREER
+Award No. DMR-1453752. High pressure technique development was partially
+supported by a National High Magnetic Field Laboratory User
+Collaboration Grant. The National High Magnetic Field Laboratory is
+supported by the NSF via Cooperative Agreement No. DMR-1157490, the
+State of Florida, and the US Department of Energy. Designer diamond
+anvils were supported by DOE-NNSA Grant No. DE-NA0002928 and under the
+auspices of the US Department of Energy by Lawrence Livermore National
+Laboratory under Contract No. DE-AC52-07NA27344. Support from COMPRES
+under NSF Cooperative Agreement No. EAR-1606856 is acknowledged for the
+COMPRES-GSECARS gas loading system, the PX2 program, and partial support
+of W.B. P.M. would like to acknowledge support from Deutsche
+Forschungsgemeinschaft (DFG; German Research Foundation) in the project
+MA 7362/1-1. We thank S. Tkachev for help with the Ne loading of the
+DACs at the APS. Y.L. and G.C. acknowledge support by the National
+Science Foundation of China (under Grant No. 11474252). We thank J. S.
+Schilling, G. R. Stewart, K. Quader, P. J. Hirschfeld, and R. Valenti
+for helpful comments.
+
+## References
+
+* [1] A. Iyo, K. Kawashima, T. Kinjo, T. Nishio, S. Ishida, H. Fujihisa,
+Y. Gotoh, K. Kihou, H. Eisaki, and Y. Yoshida, J. Am. Chem. Soc.
+**138**, 3410 (2016). * [2] K. Kawashima, T. Kinjo, T. Nishio, S.
+Ishida, H. Fujihisa, Y. Gotoh, K. Kihou, H. Eisaki, Y. Yoshida, and A.
+Iyo, J. Phys. Soc. Jpn. **85**, 064710 (2016). * [3] Y. Liu, Y.-B. Liu,
+Z.-T. Tang, H. Jiang, Z.-C. Wang, A. Ablimit, W.-H. Jiao, Q. Tao, C.-M.
+Feng, Z.-A. Xu, and G.-H. Cao, Phys. Rev. B **93**, 214503 (2016). * [4]
+Y. Liu, Y.-B. Liu, Q. Chen, Z.-T. Tang, W.-H. Jiao, Q. Tao, Z.-A. Xu,
+and G.-H. Cao, Sci. Bull. **61**, 1213 (2016). * [5] M. A. Albedah, F.
+Nejadsattari, Z. M. Stadnik, Y. Liu, and G.-H. Cao, J. Phys.: Condens.
+Matter **30**, 155803 (2018). * [6] M. A. Albedah, F. Nejadsattari, Z.
+M. Stadnik, Y. Liu, and G.-H. Cao, Phys. Rev. B **97**, 144426 (2018). *
+[7] M. P. Smylie, K. Willa, J.-K. Bao, K. Ryan, Z. Islam, H. Claus, Y.
+Simsek, Z. Diao, A. Rydh, A. E. Koshelev, W.-K. Kwok, D. Y. Chung, M. G.
+Kanatzidis, and U. Welp, arXiv:1805.04216. * [8] S. K. Sinha, G. W.
+Crabtree, D. G. Hinks, and H. Mook, Phys. Rev. Lett. **48**, 950
+(1982). * [9] P. Burlet, A. Dinia, S. Quezel, J. Rossat-Mignod, J.
+Genicon, A. Benoit, J. Flouquet, R. Tournier, R. Horyn, O. Pena, and M.
+Sergent, J. Magn. Magn. Mater. **54**-57, 1534 (1986). * [10] K.
+Kawashima, S. Ishida, K. Oka, H. Kito, N. Takeshita, H. Fujihisa, Y.
+Gotoh, K. Kihou, H. Eisaki, Y. Yoshida, and A. Iyo, J. Phys.: Conf. Ser.
+**969**, 012027 (2018). * [11] W. A. Fertig, D. C. Johnston, L. E.
+DeLong, R. W. McCallum, M. B. Maple, and B. T. Matthias, Phys. Rev.
+Lett. **38**, 987 (1977). * [12] M. Ishikawa and O. Fischer, Solid State
+Commun. **23**, 37 (1977). * [13] D. Aoki, A. Huxley, E. Ressouche, D.
+Braithwaite, J. Flouquet, J. P. Brison, E. Lhotel, and C. Paulsen,
+Nature (London) **413**, 613 (2001). * [14] S. Saxena, P. Agarwal, K.
+Ahilan, F. Grosche, R. Haselwimmer, M. Steiner, E. Pugh, I. Walker, S.
+Julian, P. Monthoux, G. Lonzarich, A. Huxley, I. Sheikin, D.
+Braithwaite, and J. Flouquet, Nature (London) **406**, 587 (2000). *
+[15] N. T. Huy, A. Gasparini, D. E. de Nijs, Y. Huang, J. C. P. Klaasse,
+T. Gortenmulder, A. de Visser, A. Hamann, T. Gorlach, and H. v.
+Lohneysen, Phys. Rev. Lett. **99**, 067006 (2007). * [16] S. L. Kakani
+and U. N. Upadhyaya, J. Low Temp. Phys. **70**, 5 (1988). * [17] C.
+Wolowiec, B. White, and M. Maple, Physica C **514**, 113 (2015). * [18]
+Y. Liu, Y.-B. Liu, Y.-L. Yu, Q. Tao, C.-M. Feng, and G.-H. Cao, Phys.
+Rev. B **96**, 224510 (2017). * [19] A. D. Chijioke, W. J. Nellis, A.
+Soldatov, and I. F. Silvera, J. Appl. Phys. **98**, 114905 (2005). *
+[20] D. Zhang, P. K. Dera, P. J. Eng, J. E. Stubbs, J. S. Zhang, V. B.
+Prakapenka, and M. L. Rivers, J. Visualized Exp. **119**, e54660
+(2017). * [21] A. Dewaele, F. Datchi, P. Loubeyre, and M. Mezouar, Phys.
+Rev. B **77**, 094106 (2008). * [22] C. Prescher and V. B. Prakapenka,
+High Press. Res. **35**, 223 (2015). * [23] B. H. Toby and R. B. Von
+Dreele, J. Appl. Crystallogr. **46**, 544 (2013). * [24] D. E. Graf, R.
+L. Stillwell, K. M. Purcell, and S. W. Tozer, High Press. Res. **31**,
+533 (2011). * [25] G. Giriat, W. Wang, J. P. Attfield, A. D. Huxley, and
+K. V. Kamenev, Rev. Sci. Instrum. **81**, 073905 (2010). * [26] S.
+Klotz, J.-C. Chervin, P. Munsch, and G. L. Marchand, J. Phys. D **42**,
+075413 (2009). * [27] S. Deemyad, J. S. Schilling, J. D. Jorgensen, and
+D. G. Hinks, Phys. C **361**, 227 (2001). * [28] Y. Feng, D. M.
+Silevitch, and T. F. Rosenbaum, Rev. Sci. Instrum. **85**, 033901
+(2014). * [29] T. Ishida and R. B. Goldfarb, Phys. Rev. B **41**, 8937
+(1990). * [30] S. T. Weir, J. Akella, C. Aracne-Ruddle, Y. K. Vohra, and
+S. A. Caldege, Appl. Phys. Lett. **77**, 3400 (2000). * [31] F. Birch,
+J. Geophys. Res.: Solid Earth **83**, 1257 (1978). * [32] A. Kreyssig,
+M. A. Green, Y. Lee, G. D. Samolyuk, P. Zajdel, J. W. Lynn, S. L.
+Bud’ko, M. S. Torikachvili, N. Ni, S. Nandi, J. B. Leao, S. J. Poulton,
+D. N. Argyriou, B. N. Harmon, R. J.
+
+McQueeney, P. C. Canfield, and A. I. Goldman, Phys. Rev. B **78**,
+184517 (2008). * [33] J.-E. Jorgensen, J. S. Olsen, and L. Gerward,
+Solid State Commun. **149**, 1161 (2009). * [34] W. Uhoya, G. Tsoi, Y.
+K. Vohra, M. A. McGuire, A. S. Sefat, B. C. Sales, D. Mandrus, and S. T.
+Weir, J. Phys.: Condens. Matter **22**, 292202 (2010). * [35] W. T.
+Jayasekara, U. S. Kaluarachchi, B. G. Ueland, A. Pandey, Y. B. Lee, V.
+Taufour, A. Sapkota, K. Kothapalli, N. S. Sangeetha, G. Fabbris, L. S.
+I. Veiga, Y. Feng, A. M. dos Santos, S. L. Bud’ko, B. N. Harmon, P. C.
+Canfield, D. C. Johnston, A. Kreyssig, and A. I. Goldman, Phys. Rev. B
+**92**, 224103 (2015). * [36] U. S. Kaluarachchi, V. Taufour, A.
+Sapkota, V. Borisov, T. Kong, W. R. Meier, K. Kothapalli, B. G. Ueland,
+A. Kreyssig, R. Valenti, R. J. McQueeney, A. I. Goldman, S. L. Bud’ko,
+and P. C. Canfield, Phys. Rev. B **96**, 140501 (2017). * [37] Z. Yu, L.
+Wang, L. Wang, H. Liu, J. Zhao, C. Li, S. Sinogeikin, W. Wu, J. Luo, N.
+Wang, K. Yang, Y. Zhao, and H.-k. Mao, Sci. Rep. **4**, 7172 (2014). *
+[38] Y. Nakajima, R. Wang, T. Metz, X. Wang, L. Wang, H. Cynn, S. T.
+Weir, J. R. Jeffries, and J. Paglione, Phys. Rev. B **91**, 060508
+(2015). * [39] D. D. Gioacchino, A. Marcelli, A. Puri, and A. Bianconi,
+J. Phys. Chem. Solids **71**, 1046 (2010). * [40] D. Di Gioacchino, F.
+Celani, P. Tripodi, A. M. Testa, and S. Pace, Phys. Rev. B **59**, 11539
+(1999). * [41] D. VandGentner, A. Linschield, D. E. Jackson, S. T. Weir,
+Y. K. Vohra, H. Berger, G. R. Stewart, R. G. Hennig, P. J. Hirschfeld,
+and J. J. Hamlin, J. Phys.: Condens. Matter **29**, 09LT02 (2017). *
+[42] D. E. Jackson, D. VanGentner, Y. K. Vohra, S. T. Weir, and J. J.
+Hamlin, Phys. Rev. B **96**, 184514 (2017). * [43] N. Kurita, M. Kimata,
+K. Kodama, A. Harada, M. Tomita, H. S. Suzuki, T. Matsumoto, K. Murata,
+S. Uji, and T. Terashima, Phys. Rev. B **83**, 214513 (2011). * [44] J.
+Paglione and R. L. Greene, Nat. Phys. **6**, 645 (2010). * [45] G. R.
+Stewart, Rev. Mod. Phys. **83**, 1589 (2011). * [46] S. Desgreniers, J.
+S. Tse, T. Matsuoka, Y. Ohishi, Q. Li, and Y. Ma, Appl. Phys. Lett.
+**107**, 221908 (2015). * [47] N. Berry, C. Capan, G. Seyfarth, A. D.
+Bianchi, J. Ziller, and Z. Fisk, Phys. Rev. B **79**, 180502 (2009). *
+[48] N. Foroozani, J. Lim, J. Schilling, R. Fotovat, C. Zheng, and R.
+Hoffmann, J. Phys.: Conf. Ser. **500**, 032007 (2014). * [49] G.
+Drachuck, A. Sapkota, W. T. Jayasekara, K. Kothapalli, S. L. Bud’ko, A.
+I. Goldman, A. Kreyssig, and P. C. Canfield, Phys. Rev. B **96**, 184509
+(2017). * [50] C. Huhnt, W. Schlabitz, A. Wurth, A. Mewis, and M.
+Reehuis, Physica B **252**, 44 (1998). * [51] T. Terashima, M. Kimata,
+H. Satsukawa, A. Harada, K. Hazama, S. Uji, H. S. Suzuki, T. Matsumoto,
+and K. Murata, J. Phys. Soc. Jpn. **78**, 083701 (2009). * [52] K.
+Matsubayashi, K. Munakata, M. Isobe, N. Katayama, K. Ohgushi, Y. Ueda,
+Y. Uwatoko, N. Kawamura, M. Mizumaki, N. Ishimatsu, M. Hedo, and I.
+Umehara, Phys. Rev. B **84**, 024502 (2011). * [53] N. Kurita, M.
+Kimata, K. Kodama, A. Harada, M. Tomita, H. S. Suzuki, T. Matsumoto, K.
+Murata, S. Uji, and T. Terashima, J. Phys.: Conf. Ser. **391**, 012132
+(2012). * [54] H. Kobayashi, S. Ikeda, Y. Sakaguchi, Y. Yoda, H.
+Nakamura, and M. Machida, J. Phys: Condens. Matter **25**, 022201
+(2012). * [55] R. S. Kumar, Y. Zhang, A. Thamizhavel, A. Svane, G.
+Vaitheeswaran, V. Kanchana, Y. Xiao, P. Chow, C. Chen, and Y. Zhao,
+Appl. Phys. Lett. **104**, 042601 (2014). * [56] B. Ni, M. M.
+Abd-Elmeguid, H. Micklitz, J. P. Sanchez, P. Vallet, and D. Johrendt,
+Phys. Rev. B **63**, 100102 (2001). * [57] C. F. Miclea, M. Nicklas, H.
+S. Jeevan, D. Kasinathan, Z. Hossain, H. Rosner, P. Gegenwart, C.
+Geibel, and F. Steglich, Phys. Rev. B **79**, 212509 (2009). * [58] W.
+Martienssen and H. Warlimont, editors, _Springer Handbook of Condensed
+Matter and Materials Data_ (Springer-Verlag, Berlin, 2005). Note: The
+radii mentioned in the text are for six-coordinated ions. * [59] V.
+Borisov, P. C. Canfield, and R. Valenti, arXiv:1805.11409. * [60] J.-K.
+Bao, K. Willa, M. P. Smylie, H. Chen, U. Welp, D. Y. Chung, and M. G.
+Kanatzidis, Cryst. Growth Des. **18**, 3517 (2018).

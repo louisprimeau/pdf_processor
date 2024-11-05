@@ -1,0 +1,319 @@
+Evidence for unconventional superconductivity in the nonoxide perovskite
+MgCNi3 from penetration depth measurements
+
+R. Prozorov and A. Snezhko
+
+Department of Physics & Astronomy and USC NanoCenter, University of
+South Carolina, 712 Main Street, Columbia, South Carolina 29208, USA
+
+T. He and R. J. Cava
+
+Department of Chemistry and Princeton Materials Institute, Princeton
+University, Princeton, New Jersey 08544, USA
+
+15 September 2003; published 13 November 2003
+
+###### Abstract
+
+The London penetration depth l(_T_) was measured in polycrystalline
+powders of the nonoxide perovskite superconductor MgCNi3 by using a
+sensitive tunnel-diode resonator technique. The penetration depth
+exhibits distinctly non _s_-wave BCS low-temperature behavior, instead
+showing quadratic temperature dependence, suggestive of a nodal order
+parameter.
+
+pacs: 74.70.-b, 74.20.Rp, 74.25.Ha + Footnote †: preprint: APS/123-QED
+
+Identification of the symmetry of the order parameter in superconductors
+is one of the most challenging experimental problems in distinguishing
+conventional from unconventional superconductivity. Theoretically, there
+are several possibilities, including the Bardeen-Cooper-Schrieffer (BCS)
+_s_-wave[1] and unconventional _p_- and _d_-wave pairing scenarios.[2,
+3, 4, 5] Each particular symmetry imposes constraints on the possible
+mechanism of electron-electron pairing. Determination of the pairing
+type, however, is often difficult. Electron-doped high-_T_c cuprates,
+for example, were thought to exhibit _s_-wave BCS behavior, and only
+recently were shown to be _d_-wave superconductors.[6, 7] The recently
+discovered[9] nonoxide perovskite superconductor MgCNi3 is especially
+important, because it is viewed as a bridge between high-_T_c cuprates
+and conventional intermetallic superconductors. This material is close
+to a magnetic instability on hole doping, and it is therefore natural to
+ask whether an unconventional pairing mechanism might be operating.[10]
+The absence of good single crystals and oriented films does not allow
+the use of phase-sensitive techniques[11, 12] to probe pairing symmetry,
+and therefore other methods must be employed. Thermal, magnetization,
+resistivity, nuclear spin-lattice relaxation, and tunneling studies of
+MgCNi3 have been reported.[8, 13, 14, 15, 16, 17, 18] The
+low-temperature London penetration depth measurements reported here
+provide new insight into the nature of the superconductivity in MgCNi3.
+
+The current experimental situation is highly controversial. On one hand,
+evidence for conventional _s_-wave behavior is found in specific-heat
+measurements,[13, 14] although the authors disagree on the coupling
+strength. The nuclear spin-lattice relaxation rate 1/13CT_1 seems to
+exhibit behavior characteristic of an _s_-wave superconductor.[19] Some
+tunneling data support conventional _s_-wave pairing.[15] On the other
+hand, a zero-bias conductance peak (ZBCP) attributed to Andreev bound
+states has been observed, and it was argued that the observed ZBCP could
+not be due to intergranular coupling or other spurious effects.[16]
+Nonmagnetic disorder introduced by irradiation was found to
+significantly suppress superconductivity.[17] Such suppression is not
+expected in materials with a fully developed gap, and is a strong
+indication of an order parameter with nodes. Theoretical calculations
+support this conclusion.[18] Furthermore, recent theoretical
+developments predict the possibility of a unique unconventional
+state,[20] which might reconcile apparently contradictory experimental
+observations.
+
+Previous studies conclude that more experimental data are needed in
+order to draw a conclusion regarding the pairing symmetry in MgCNi3. It
+is very difficult to experimentally identify the nonexponential
+contribution of low-energy quasiparticles due to the presence of nodes
+in the superconducting gap on the Fermi surface. In the case of thermal
+measurements, this electronic contribution is masked by a large phonon
+contribution. For electromagnetic measurements, sensitivity is typically
+a problem. Precise measurements of the London penetration depth are
+therefore very important.
+
+In this paper we report measurements of the magnetic penetration depth
+l(_T_) down to 0.4 K in polycrystalline powders of the monoxide
+perovskite superconductor MgCNi3 (_T_c_ 7.2 K). The sample employed for
+this measurement was exactly the one of composition MgC0.98Ni3
+characterized by neutron diffraction.[21] The synthesis is described in
+detail in that publication.
+
+In order to avoid artifacts related to possible intergrain coupling,
+three different samples were prepared: powder mixed in paraffin, powder
+mixed and solidified in low-temperature Stycast 1266 epoxy, and a pellet
+sintered at room temperature and 2.5 GPa for 8 h. All samples showed
+similar low-temperature behavior, indicating no additional contribution
+from intergrain coupling. We note that our previous measurements of MgB2
+powder of similar grain size gave results fully consistent with _s_-wave
+symmetry and are in complete agreement with measurements performed on
+single crystals.[22] In addition, a sample cut from a polycrystalline
+niobium foil was measured for comparison.
+
+The penetration depth l(_T_) was measured by using a 13 MHz tunnel-diode
+driven _LC_ resonator[23, 24] mounted in a 3He refrigerator. An external
+dc magnetic field (0-6 T) could be applied parallel to the ac field ( 5
+mOe). The oscillator frequency shift l_f_ = _f_(_T_) - _f_(_T_min_) is
+proportional to the linear ac susceptibility and, therefore, to the
+change in the penetration depth, Δλ = λ(T) − λ(T_(mih)).[24] At low
+temperatures, Δf =  − Δf₀Δλ/R, where Δf₀ is the total frequency shift
+when the perfectly diamagnetic sample is inserted into an empty
+resonator, and R is the characteristic sample size.[6, 23] In the case
+of powders, the observed frequency shift is the sum of contributions
+from individual grains. The grain-size distribution obtained from
+scanning electron microscopy (SEM) image analysis followed log-normal
+distribution centered around 0.6 μm with σ = 0.2 μm. To verify that
+granular nature does not introduce unwanted effects, we solved
+numerically the London equation for the actual size distribution. The
+calculated response was always additive, with no noticeable interference
+effects. Furthermore, we solved BCS equations for integral superfluid
+density with our grain-size distribution and found no deviations from
+the exponential behavior at low temperatures. The computations were done
+in Matlab using Femlab multiphysics Toolbox.[24, 25] An experimental
+approach using sensitive bulk magnetization measurements on powder
+superconductors was effectively employed to study penetration depth in
+high-T_(c) cuprates.[26] It has also been successfully used in
+tunnel-diode resonator measurements of MgB₂ powders[22] and
+polycrystalline wires.[27] Using the approach described in Ref. [22] we
+estimated λ(0) ≈ 2500 ± 200 A in agreement with literature data.[16]
+
+Although we can only estimate the absolute value of the magnetic
+penetration depth, our technique provides a very sensitive (1 part per
+10¹⁰) detection of the _change_ in the penetration depth. By varying
+temperature, Δλ(T) is obtained. In all plots, Δf(T)/Δf₀ proportional to
+Δλ(T) through a calibration constant is shown. The calibration constant
+depends on grain-size distribution and the number of grains per unit
+volume of a composite material, and is difficult to estimate reliably.
+Importantly, it does not influence the temperature variation, which is
+the focus of this work.
+
+Clear evidence for a d-wave superconducting order parameter is linear
+temperature variation of the London penetration depth,
+Δλ(T)/λ(0) ≈ 12/Δ(0)T.[3, 5] In a conventional s-wave superconductor, on
+the other hand, an exponential decay is expected for the penetration
+depth:
+$\Delta\lambda\!=\!\lambda(0)\!/\sqrt{\pi\lambda(0)/2T}\!\exp(-\Delta(0)/T)$
+for T  ≈ 0.32T_(c) with Δ(0)/T_(c) = 1.76.[2, 3] Measurements on a
+nonoriented powder mean that the result is averaged over all
+contributions λ_(a, b, c). Fortunately, MgCNi₃ is isotropic and
+therefore we obtain values characteristic for this material.
+
+Figure 1 presents λ(T) measured in MgCNi₃ powder mixed in paraffin. The
+data are compared with the measurements performed on a sample cut from a
+polycrystalline niobium foil. The niobium data are fully consistent with
+the weak coupling s-wave BCS picture (in the entire temperature range).
+The data for MgCNi₃ also approach saturation on decreasing temperature.
+The magnetization measured on a commercial magnetometer would show no
+temperature dependence in the low-temperature region. However, our
+resolution is sufficient to study the low-temperature part. Apparently,
+the data obtained for MgCNi₃ are strikingly different from that of Nb.
+The inset in Fig. 1 shows actual penetration depth values.
+
+Although the observed temperature dependence is obviously not
+exponential, it is instructive to attempt to fit the data to the
+standard low-temperature BCS form with Δ(0)/T_(c) being a free
+parameter. Figure 2 shows such a best fit, which clearly does not
+describe the data. In addition, the extracted Δ(0)/T_(c) = 0.83 ± 0.02
+is too low. The inset shows the residual, Data − Fit, which reveals
+large systematic deviation from the BCS behavior down to the lowest
+temperature.
+
+The measured temperature dependence of Δλ(T) is plotted versus T² in
+Fig. 3. The observed behavior is quite linear on this T² scale up to
+T/T_(c) ≈ 0.25. The inset shows the residuals plot, which confirms an
+overall good agreement of the fit with the experimental data. The
+residuals plot scales in the insets of Figs. 2 and 3 have the same
+absolute ordinate scale for easy visual comparison, showing the
+dramatically better power-law fit to the data. A fit to the power-law
+dependence, Δ(T) ∼ T^(n) with the exponent n as a free parameter
+
+Figure 2: Upper curve: Best s-wave BCS fit for MgCNi₃ using a standard
+expression (described in the text) with Δ(0)/T_(c) as a free parameter.
+The lower curve shows Nb sample and a standard BCS fit. Inset:
+residuals, Data − Fit, for the best s-wave BCS fit, which yields
+Δ(0)/T_(c) = 0.83 ± 0.02.
+
+Figure 1: Magnetic penetration depth measured in zero external field in
+MgCNi₃ (upper curves) compared to polycrystalline Nb foil (lower
+curves). The inset shows actual penetration depth at low temperatures.
+
+is also shown in Fig. 3. The best fit gives n ≈ 2.44, however, this is
+fit-range dependent. The obtained values of n decrease upon reduction of
+the fit-range and approach n = 2 below T/T_(c) ≈ 0.25, which is another
+indication of the robustness of the inferred λ(T) ∼ T^(n) behavior. The
+residuals of the n = 2.44 fit are compared to the n = 2 residuals in the
+inset to Fig. 2.
+
+In a clean d-wave superconductor, a linear temperature dependence of
+Δλ(T) / λ(0) = Tln 2/Δ (0) is predicted [3, 4] and observed [28].
+However, this behavior is not expected in our case of microcrystalline
+powder with natural grain surface roughness. In such a case, temperature
+dependence resulting from impurity scattering provides a more plausible
+model, where a quadratic temperature variation of Δλ(T) is expected [3,
+28]. The rate of change is dλ/dT ≈ 3.1 A/K, comparable to 4-5 A/K
+observed in yttrium barium copper oxide (YBCO) [28]. Indeed, if we had
+pure linear variation of λ(T), the rate of change would be somewhat
+larger. There is an alternative explanation for T² behavior in a d-wave
+superconductor. The divergence of the effective coherence length
+ξ = h_(F)/πΔ(k) (where υ_(F) is the Fermi velocity) near the nodes of a
+d-wave order parameter yields Δλ(T)  ∼ T² due to nonlocal
+electrodynamics [29]. Nonlocality is predicted to arise below
+T_(nonlocal) ≈ ξ (0)Δ(0) / λ(0), where ξ (0) is the coherence length at
+zero temperature. In MgCNi₃T_(nonlocal) ≈ 0.05T/T_(c), estimated using
+reported superconducting parameters [6]. Since we observe quadratic
+temperature dependence up to roughly T/T_(c) = 0.25, nonlocality is
+unlikely to explain the observed behavior.
+
+Another possibility that might result in apparently non-s-wave behavior
+of λ(T) would be to have a significant distribution of transition
+temperatures, T_(c) , due to inhomogeneities in chemical composition.
+However, our numerical solution in the framework of the weak-coupling
+s-wave BCS theory indicates that in order to mimic the T² behavior
+observed, the sample would have to contain a linear probability
+distribution of T_(c)’s extending from 7.2 to 0 K. This kind of
+distribution is chemically unfeasible, and, in addition, is impossible
+for MgC_(x)Ni₃ because the perovskite phase becomes chemically unstable
+at a minimum T_(c) of 2.5 K [21]. The absence of phases with T_(c)’s
+below 2.5 K means that what appears to be non-BCS behavior cannot be
+induced in the low-temperature range of interest here by chemical
+inhomogeneity. Finally, there is neither indication of chemical
+inhomogeneity induced broadening in the neutron-diffraction pattern [21]
+nor in the observed superconducting transition (see Fig. 4), indicating
+that the observed T² behavior cannot have a chemical origin.
+
+The interpretation of our data in terms of a particular
+superconductivity mechanism is further complicated by the fact that some
+reports suggest that MgCNi₃ is a multiband superconductor in which
+nontrivial interband coupling may reconcile existing s-wave observations
+with unconventional superconductivity. Calculations by Voelker and
+Sigrist [20] performed along these lines call for new experimental data,
+in particular, penetration depth measurements. We hope results reported
+here will motivate further theoretical study.
+
+Figure 4 shows measurements of the penetration depth at various values
+of the external dc magnetic field. The overall behavior suggests weak
+pinning–the screening strength reduces due to a rapid increase of the
+Campbell penetration depth. By measuring the onset of superconductivity
+at different fields, the H_(c2)(T) dependence can be reconstructed. The
+inset of Fig. 4 shows the onset temperature compared to the onset
+temperature obtained by using _Quantum Design_ MPMS magnetometer. The
+good agreement is an independent evidence that our results, obtained on
+a 13 MHz resonator, are not introducing undesirable frequency effects.
+From the measurements of the upper critical field, we obtain
+H_(c2)/dT ≈ 3 T/K, which is consistent with previous measurements [17,
+30].
+
+In conclusion, we have presented measurements and detailed experimental
+analysis of the London penetration depth in the monoxide perovskite
+superconductor MgCNi₃. Our results show clear evidence for the quadratic
+temperature variation of λ(T) at temperatures below  ≈ 0.25T_(c). This
+be
+
+Figure 3: Penetration depth plotted versus T² compared to a standard
+s-wave curve. The fit to a pure T² behavior is shown by solid line. The
+fit to T^(n) with n as a free parameter is shown by dotted line. Inset:
+residuals for fit with n = 2 (solid symbols) compared to the residuals
+of n = 2.44 fit. The vertical scale of the inset is the same as in the
+inset of Fig. 2 for comparison.
+
+Figure 4: λ(T) measured at different values of the external dc magnetic
+field, from H = 0 to H = 5 T. The inset shows onset of superconductivity
+in tunnel diode measurements (closed symbols) compared to
+superconducting quantum interference device (SQUID) magnetometer
+measurements (open symbols).
+
+havior indicates the presence of low-energy quasiparticles, and
+therefore unconventional non s-wave superconductivity. It is consistent
+with d-wave pairing in the presence of strong impurity scattering, but
+other unconventional mechanisms may be implied.
+
+## References
+
+* [1] J. Bardeen, L.N. Cooper, and J.R. Schrieffer, Phys. Rev. **108**,
+1175 (1957). * [2] J.F. Annett, N.D. Goldenfeld, and S. Renn, in
+_Physical Properties of High Temperature Superconductors II_, edited by
+D. M. Ginsberg (World Scientific, New Jersey, 1990). * [3] D.J.
+Scalapino, Phys. Rep. **250**, 329 (1995). * [4] B. Brandow, Phys. Rep.
+**296**, 1 (1998). * [5] P.J. Hirschfeld and N. Goldenfeld, Phys. Rev. B
+**48**, 4219 (1993). * [6] R. Prozorov, R.W. Giannetta, P. Fournier, and
+R.L. Greene, Phys. Rev. Lett. **85**, 3700 (2000). * [7] C.C. Tsuei and
+J.R. Kirtley, Phys. Rev. Lett. **85**, 182 (2000). * [8] S.Y. Li, W.Q.
+Mo, M. Yu, W.H. Zheng, C.H. Wang, Y.M. Xiong, R. Fan, H.S. Yang, B.M.
+Wu, L.Z. Cao, and X.H. Chen, Phys. Rev. B **65**, 064534 (2002). * [9]
+T. He, Q. Huang, A.P. Ramirez, Y. Wang, K.A. Regan, N. Rogado, M.A.
+Hayward, M.K. Haas, J.S. Slusky, K. Inumarra, H.W. Zandbergen, N.P. Ong,
+and R.J. Cava, Nature (London) **411**, 54 (2001). * [10] H. Rosner, R.
+Weht, M.D. Johannes, W.E. Pickett, and E. Tosatti, Phys. Rev. Lett.
+**88**, 027001 (2002). * [11] D.J. Van Harlingen, Rev. Mod. Phys.
+**67**, 515 (1995). * [12] C.C. Tsuei and J.R. Kirtley, Rev. Mod. Phys.
+**72**, 969 (2000). * [13] J.Y. Lin, P.L. Ho, H.L. Huang, PH. Lin, Y.L.
+Zhang, R.C. Yu, C.Q. Jin, and H.D. Yang, Phys. Rev. B **67**, 052501
+(2003). * [14] A. Walte, H. Rosner, M.D. Johannes, G. Fuchs, K.H.
+Muller, A. Handstein, K. Nenkov, V.N. Narozhnyi, S.L. Drechsler, S.
+Shulga, and L. Schultz, cond-mat/0208364 (unpublished). * [15] G.
+Kinoda, M. Nishiyama, Y. Zhao, M. Murakami, N. Koshizuka, and T.
+Hasegawa, Jpn. J. Appl. Phys., Part 2 **40**, L1365 (2001).
+
+## Appendix A Physical Review B **68**, 180502(R) (2003)
+
+We thank R. W. Giannetta for helpful discussions. Work at the University
+of South Carolina was supported by the NSF/EPSCoR under Grant No.
+EPS-0296165. Work at Princeton was supported by the Department of
+Energy, Grant No. DE-FG02-98-ER45706.
+
+## References
+
+* [1] J. Bardeen, L.N. Cooper, and J.R. Schrieffer, Phys. Rev. **108**,
+1175 (1957). * [2] J.F. Annett, N.D. Goldenfeld, and S. Renn, in
+_Physical Properties of High Temperature Superconductors II_, edited by
+D. M. Ginsberg (World Scientific, New Jersey, 1990). * [3] D.J.
+Scalapino, Phys. Rep. **250**, 329 (1995). * [4] B. Brandow, Phys. Rep.
+**296**, 1 (1998). * [5] P.J. Hirschfeld and N. Goldenfeld, Phys. Rev. B
+**48**, 4219 (1993). * [6] R. Prozorov, R.W. Giannetta, P. Fournier, and
+R.L. Greene, Phys. Rev. Lett. **85**, 3700 (2000). * [7] C.C. Tsuei and
+J.R. Kirtley, Phys. Rev. Lett. **85**, 182 (2000). * [8] S.Y. Li, W.Q.
+Mo, M. Yu, W.H. Zheng, C.H. Wang, Y.M. Xiong, R. Fan, H.S. Yang, B.M.
+Wu, L.Z. Cao, and X.H. Chen, Phys. Rev. B **65**, 064534 (2002).
