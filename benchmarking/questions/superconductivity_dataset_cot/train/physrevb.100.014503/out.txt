@@ -1,0 +1,307 @@
+
+
+# Coexistence of Eu antiferromagnetism and pressure-induced superconductivity
+
+in single-crystal EuFe_{2}As_{2}
+
+W. T. Jin
+
+Julich Centre for Neutron Science JCNS at Heinz-Laheimite Zentrum (MLZ), Forschungszentrum Julich GmbH, Lichtenbergstrasse 1, D-85747 Garching, Germany
+
+Y. Xiao
+
+y.xiao@pku.edu.cn School of Advanced Materials, Peking University, Shenzhen Graduate School, Shenzhen 518055, China
+
+S. Nandi
+
+Julich Centre for Neutron Science JCNS and Peter Grunberg Institut PGI, JARA-FIT, Forschungszentrum Julich GmbH, D-52425 Julich, Germany
+
+S. Price
+
+Julich Centre for Neutron Science JCNS at Heinz-Laheimite Zentrum (MLZ), Forschungszentrum Julich GmbH, Lichtenbergstrasse 1, D-85747 Garching, Germany
+
+Y. Su
+
+Julich Centre for Neutron Science JCNS and Peter Grunberg Institut PGI, JARA-FIT, Forschungszentrum Julich GmbH, D-52425 Julich, Germany
+
+K. Schmalzl
+
+Julich Centre for Neutron Science JCNS at Heinz-Laheimite Zentrum (MLZ), Forschungszentrum Julich GmbH, Lichtenbergstrasse 1, D-85747 Garching, Germany
+
+W. Schmidt
+
+Julich Centre for Neutron Science JCNS and Peter Grunberg Institut PGI, JARA-FIT, Forschungszentrum Julich GmbH, D-52425 Julich, Germany
+
+T. Chatterji
+
+Julich Centre for Neutron Science JCNS at Heinz-Laheimite Zentrum (MLZ), Forschungszentrum Julich GmbH, Lichtenbergstrasse 1, D-85747 Garching, Germany
+
+A. Thamizhavel
+
+Julich Centre for Neutron Science JCNS at Heinz-Laheimite Zentrum (MLZ), Forschungszentrum Julich GmbH, Lichtenbergstrasse 1, D-85747 Garching, Germany
+
+Th. Bruckel
+
+Julich Centre for Neutron Science JCNS at Heinz-Laheimite Zentrum (MLZ), Forschungszentrum Julich GmbH, Lichtenbergstrasse 1, D-85747 Garching, Germany
+
+###### Abstract
+
+By performing high-pressure single-crystal neutron-diffraction measurements, the evolution of structure and magnetic ordering in EuFe_{2}As_{2} under hydrostatic pressure were investigated. Both the tetragonal-to-orthorhombic structural transition and the Fe spin-density-wave transition are gradually suppressed and become decoupled with increasing pressure. The antiferromagnetic order of the Eu sublattice is, however, robust against the applied pressure up to 24.7 kbar, without showing any change of the ordering temperature. Under the pressure of 24.7 kbar, the lattice parameters of EuFe_{2}As_{2} display clear anomalies at 27(3) K, well consistent with the superconducting transition observed in previous high-pressure resistivity measurements. Such an anomalous thermal expansion around T_{c} strongly suggests the appearance of bulk superconductivity and strong electron-lattice coupling in EuFe_{2}As_{2} induced by the hydrostatic pressure. The coexistence of long-range ordered Eu antiferromagnetism and pressure-induced superconductivity is quite rare in the EuFe_{2}As_{2}-based iron pnictides.
+
+DOI: 10.1103/PhysRevB.100.014503
+
+## 1 Introduction
+
+Large efforts have been undertaken to explore the knowledge of superconductivity (SC) in high-T_{c} Fe-based superconductors since they were discovered in 2008 [1, 2]. General phase diagrams of AFe_{2}As_{2}-type ("122" with A= Ba, Ca, and Eu, etc.) iron pnictides clearly show that the parent compounds undergo a tetragonal-to-orthorhombic structural phase transition accompanied by the formation of an antiferromagnetically ordered spin-density-wave (SDW) state. The static magnetic order of parent compounds can be suppressed and SC emerges concomitantly with appropriate charge carrier doping or the application of external pressure. The complexity of phase diagrams in charge carrier doped systems revealed the intimate relationship between structural, magnetic, and superconducting transitions. In contrast to charge carrier doping, the application of external pressure is considered as a more straightforward and cleaner way to induce SC since there are no disorder effects caused by chemical inhomogeneity. Previous studies on 122 iron pnictide superconductors have shown that the application of high pressure can not only induce SC but also tune the structural/magnetic phases [3, 4, 5, 6, 7, 8, 9, 10]. Therefore, it is worthwhile to investigate in detail the entanglement between the structure, magnetism, and SC in pressure-induced 122 iron-pnictide superconductors by neutron diffraction, although it is very challenging from an experimental point of view.
+
+Among various parent compounds of 122 iron-pnictide superconductors, EuFe_{2}As_{2} is considered as an interesting member given the fact that the A site is occupied by Eu^{2+}, an S-state rare-earth ion possessing a 4f^{\gamma} electronic configuration with the electron spin S=7/2[11]. Two successive magnetic phase transitions have been identified at 190 and 19 K, corresponding to SDW ordering of the itinerant Fe moments and A-type antiferromagnetic ordering of the localized Eu^{2+} moments, respectively [12, 13, 14]. The SDW transition in EuFe_{2}As_{2} can be suppressed continuously by applying external pressure due to the weakening of Fe-Fe exchange interactions. Furthermore, SC with T_{c}\sim 30 K can be induced in EuFe_{2}As_{2} by external pressure, which appears in a narrow pressure region in the vicinity of the critical pressure P_{c}\sim 25 kbar [15, 16, 17]. Upon the application of pressure up to 80 kbar, a pressure-induced magnetic transition of the Eu^{2+} moment from antiferromagnetic to ferromagnetic ordering was suggested and a collapsed tetragonal phase was found for EuFe_{2}As_{2}[18, 19].
+
+Although many studies about the pressure effects on EuFe_{2}As_{2} have been performed during the past few years, as of yet no account of the lattice response in the pressure-induced superconducting phase has been reported. Furthermore, the magnetic order of the Eu^{2+} moment in the pressure-induced superconducting phase is still not clarified, although it was argued based on high-pressure transport and x-ray spectroscopy measurements that the antiferromagnetic order of the Eu^{2+} moment is relatively robust against the pressure and persists below 60 kbar [18]. However, it was recently confirmed in Co-doped EuFe_{2}As_{2} that the pressure-induced SC is also compatible with the ferromagnetic order of the Eu sublattice [20]. Therefore, it is interesting to study and clarify the interplays between the structure, magnetism, and SC under external pressure using an _in situ_ high-pressure neutron-diffraction technique. In this report, hydrostatic-pressure neutron-diffraction experiments were performed on a EuFe_{2}As_{2} single crystal to investigate the magnetism of the Eu sublattice in a pressure-induced superconducting state, and the couplings between the lattice, Fe-SDW, and SC.
+
+## II Experimental Methods
+
+High-pressure single-crystal neutron-diffraction experiments were carried out on the thermal neutron two-axis diffractometer D23 at the Institut Laue-Langevin (Grenoble, France). The crystal mounted into the pressure cell was in the shape of a platelet with approximate dimensions of 5\times 3\times 1 mm^{3} with a total mass of 30 mg, which was cut from the same piece of crystal used for ambient-environment neutron diffraction as reported in Ref. [14]. Due to the large neutron-absorption cross section of Eu, the incident neutron wavelength of 1.28 A was selected for the measurement. To investigate the evolution of the structure and magnetic order of EuFe_{2}As_{2} with hydrostatic pressure, a clamped pressure cell equipped with a cylinder-shaped sample holder was used. A mixture of ethanol and methanol was adopted as the pressure-transmitting medium to guarantee the hydrostaticity of the applied pressure. The EuFe_{2}As_{2} crystal was oriented with the _a_*-c* scattering plane horizontally aligned, allowing the magnetic reflections from both the Fe and Eu sublattices as well as the nuclear reflections in the (_HOL_) reciprocal plane to be accessible. For convenience, we will use the orthorhombic notation throughout this paper unless otherwise stated. A small piece of NaCl crystal was also put into the pressure cell at the side of the EuFe_{2}As_{2} crystal, with its _ab_ plane horizontally aligned. By tracking the (200) reflection of NaCl, the lattice constant of cubic NaCl can be accurately determined and used as a standard indicator of the applied pressure value, based on the well-established equation of state of NaCl [21]. After mounting the sample and NaCl into the clamped cell, the whole pressure cell was then mounted into a standard cryostat for single-crystal neutron-diffraction measurements between 2 and 300 K.
+
+## III Results and Discussions
+
+### Pressure-induced decoupling between Fe-SDW and structural transitions
+
+The splitting of the tetragonal (HH0)_{T} nuclear reflections with decreasing temperature can be considered as the indication for a tetragonal-to-orthorhombic structural phase transition in 122 iron-pnictide superconductors. After the application of hydrostatic pressure on the EuFe_{2}As_{2} single crystal, Q-scans were performed across the tetragonal (220)_{T} Bragg reflection as a function of temperature. Under the pressure of P=24.7 kbar, a single peak was observed at 172 K for the tetragonal (220)_{T} reflection and it split into orthorhombic (400)_{O} and (040)_{O} reflections when the temperature reached 95 K, as shown in the insets of Fig. 1(a). By tracking the evolution of (400)_{O} and (040)_{O} peak positions, the structural transition temperatures of EuFe_{2}As_{2} at 11.5 and 24.7 kbar are determined to be 180(2) and 165(2) K, respectively. Given that the same structural transition of EuFe_{2}As_{2} in ambient environment takes place at 190 K [14], it is clear that the structural transition temperature of EuFe_{2}As_{2} decreases gradually with increasing applied pressure.
+
+Apart from the nuclear Bragg reflections, the magnetic reflections originated from long-range SDW ordering of the Fe sublattice were also followed at low temperature under pressure. As shown in Figs. 1(b) and 1(c), weak signals
+
+Figure 1: (a) Variation of peak positions of orthorhombic (400)_{O} and (040)_{O} reflections under different applied pressures. The insets show the scans across orthorhombic (400)/(040)_{O} reflections at 95 K and tetragonal (220)_{T} reflection at 172 K, respectively, along the orthorhombic (100) direction or tetragonal (110) direction, under the pressure of P=24.7 kbar. (b) The (101)_{M} magnetic reflection measured at 9 and 180 K under P=11.5 kbar. (c) The (101)_{M} magnetic reflection measured at 10 and 150 K under P=24.7 kbar. The solid lines in (a)–(c) represent fittings to the peaks using a Gaussian profile. (d) Temperature dependence of the integrated intensity of (101)_{M} magnetic Bragg reflection under P=11.5 kbar.
+
+  were observed for (101)_{M} reflection under P = 11.5 kbar, while they were still present but largely suppressed under P = 24.7 kbar. The Fe-SDW ordering temperature under P = 11.5 kbar is estimated to be 170(5) K according to the temperature dependence of the integrated intensity of the (101)_{M} reflection [see Fig. 1(d)]. The ordering temperature under P = 24.7 kbar cannot be determined due to the weakness of magnetic intensity, but it is definitely below 150 K, as indicated by Fig. 1(c).
+
+Our neutron-diffraction measurements of the order parameters clearly demonstrated the decoupling between the structural and Fe-SDW transitions in EuFe_{2}As_{2} upon the application of hydrostatic pressure. It is worth noting that the separation between these two transitions is a well-confirmed feature in doped BaFe_{2}As_{2} and EuFe_{2}As_{2}[22, 23, 24, 25]. Therefore, hydrostatic pressure seems to play a similar role to the chemical doping in tuning the structural and Fe-SDW transitions in EuFe_{2}As_{2}. In addition, it was observed in a high-pressure electrical-transport measurement that the cusp in the resistivity of EuFe_{2}As_{2} single crystal continuously shifted to lower temperature with increasing pressure, ascribing to the structural or Fe-SDW transitions [17]. Compared with the temperature scales of our neutron data, it is indicated that the cusp observed in the resistivity curve is corresponding to the Fe-SDW transition.
+
+### Robust AFM order of Eu2+ moments
+
+In contrast to the largely suppressed SDW ordering in the Fe sublattice with applied pressure, up to P = 24.7 kbar, which is close to the maximum pressure value a clamped cell can exert in reality, the antiferromagnetic (AFM) order of the Eu2+ moments was found to be quite robust against the applied pressure. _Q_-scans at 2 K under P = 24.7 kbar, as shown in Figs. 2(a) and 2(b), revealed the appearance of magnetic reflections from the Eu sublattice at the forbidden Bragg peak positions with the propagation vector of k = (001). This suggests an antiferromagnetic interlayer coupling between adjacent Eu layers, which is the same as the case under ambient pressure [14]. The magnetic origin of these reflections is evidenced from their disappearance at 20 K [see Fig. 2(c)]. From the temperature dependencies of the integrated intensities of both (003)_{M} and (203)_{M}, the antiferromagnetic ordering temperature of the Eu sublattice can be determined to be 19.0(5) K under P = 24.7 kbar, which is unchanged compared with the value measured in the ambient environment [14].
+
+In other words, applying a hydrostatic pressure up to P = 24.7 kbar does not provide a large enough perturbation to EuFe_{2}As_{2} to change the magnetic order of the Eu sublattice. This is consistent with the pressure-temperature phase diagram of EuFe_{2}As_{2} constructed based on high-pressure transport and x-ray spectroscopy measurements [18], in which the proposed transition of the magnetic state of the Eu sublattice from antiferromagnetic to ferromagnetic (AFM-FM) only takes place under a much higher hydrostatic pressure (_P_ > 60 kbar) and the _T_Ex(_P_) curve is rather flat for P < 25 kbar.
+
+### Response of the lattice to pressure-induced superconductivity
+
+The lattice instability in high-temperature superconductors have been extensively studied as it may provide evidence of electron-lattice interactions. It was observed that the lattice parameters show some anomalies at the superconducting transition temperature _T__{c} for cuprates and magnesium diboride [26, 27]. According to the pressure-temperature phase diagram of EuFe_{2}As_{2}[17], the pressure-induced superconducting phase is confined in a narrow pressure region between 24 and 31 kbar. Under P = 24.7 kbar, we have deduced the lattice parameters of EuFe_{2}As_{2} from the _H_-scans across orthorhombic (400)_{O} and _L_-scans across orthorhombic (008)_{O} reflections at different temperatures in the low-temperature region. As presented in Fig. 3, all lattice parameters (_a_, b, and _c_) exhibit clear anomalies at 27(3) K, which is well consistent with the superconducting transition temperature _T__{c} = 29(2) K observed in high-pressure resistivity measurements [17]. This anomalous thermal expansion around _T__{c} strongly suggests the appearance of bulk superconductivity and strong electron-lattice coupling in EuFe_{2}As_{2} induced by the application of hydrostatic pressure of P = 24.7 kbar.
+
+The responses of the crystal lattice to superconductivity have been observed in many _A_Fe_{2}As_{2}-type superconductors. By using high-resolution dilatometry, Hardy _et al._ clearly observed the anisotropic lattice responses (along the c and a direction, respectively) to the superconducting order in a nearly optimally doped Ba(Fe_{0.92}Co_{0.08})_{2}As_{2} single crystal with a large uniaxial-pressure dependence of the critical temperature _T__{c}[28]. It is worth noting that the anisotropic lattice response was deduced from the linear expansivities with uniaxial stress instead of hydrostatic pressure. The uniaxial pressure dependence along two crystallographic directions can be largely compensated under hydrostatic pressure and results in a smaller negative thermal expansion. In the present work, the hydrostatic pressure is _in situ_ applied during the neutron-diffraction measurements. Hence, the small negative thermal expansions along all crystallographic axes reflect
+
+Figure 2: (a) _L_-scan along the (2, 0, _L_) direction and (b) _H_-scan along the (_H_, 0, 1) direction at 2 K under P = 24.7 kbar. (c) Rocking scan of (203)_{M} and (003)_{M} reflections at 2 and 20 K, in which the solid lines represent fittings to the peaks using a Gaussian profile. (d) The temperature dependencies of the integrated intensity of (003) and (203) reflections under P = 24.7 kbar.
+
+  the intrinsic response of the lattice to superconductivity in EuFe_{2}As_{2} compounds. The response can be attributed to the spontaneous strain generated in the superconducting phase via a strong electron-lattice interaction.
+
+### Pressure-temperature phase diagram of EuFe_{2}As_{2}
+
+Based on the results of our neutron-diffraction study presented above, we have established a pressure-temperature phase diagram of EuFe_{2}As_{2} in the low-pressure region (P< 26 kbar) (Fig. 4). Compared with the data of transition temperatures extracted from the phase diagrams reported in Refs. [15] and [18], the temperatures of anomalies in the resistivity curves (denoted as T_{S} in Ref. [18] and T_{0} in Ref. [15]) agree well with the Fe-SDW ordering temperatures (T_{SDW} = 170(5) K for P = 11.5 kbar and T_{SDW}< 150 K for P = 24.7 kbar) determined from our neutron-diffraction measurements. The decoupling between the structural and Fe-SDW transitions with increasing pressure was not reported in both references, as the electrical resistivity measurements cannot differentiate between them. However, with the access to both nuclear and magnetic scattering, we were able to identify the structural and Fe-SDW transitions distinctively using neutron diffraction. The pressure-induced separation between these two transitions resembles that observed in electron-doped EuFe_{2}As_{2}[24, 25], suggesting a similar role of hydrostatic pressure to chemical doping in tuning the phase transitions. The antiferromagnetic order of the Eu^{2+} moments, however, is quite robust against the applied pressure up to P = 24.7 kbar, without showing any change of the ordering temperature T_{Eu}. To verify the scenario of the AFM-FM transition under higher pressure (P> 60 kbar) as proposed in Ref. [18], a Paris-Edinburgh pressure cell is needed to achieve a much higher hydrostatic pressure in further neutron-diffraction experiments.
+
+Inferred from the unambiguous responses of lattice parameters and the observation of zero resistivity for the comparable value of applied pressure as reported in Refs. [15, 17, 18], EuFe_{2}As_{2} is expected to enter a unique pressure-induced bulk superconducting state below T_{c} = 27(3) K. Therefore, as shown in Fig. 4, there is a specific phase regime in which the long-range antiferromagnetic order of the Eu^{2+} moments coexists with the pressure-induced SC. This is distinct from the well-documented doping-induced coexistence of Eu ferromagnetism and the superconductivity [29, 30, 31, 32, 33], where a spontaneous vortex state is expected to account for the compromise between those two antagonistic phenomena [34]. Such a coexistence of Eu-AFM and SC was reported for Eu_{0.5}K_{0.5}Fe_{2}As_{2} with K doping [35], but the antiferromagnetism of the Eu sublattice was proposed to be of a short-range nature there. In our case, the Eu-AFM in the pressure-induced superconducting phase is clearly long-range ordered, making such a phase quite rare in the EuFe_{2}As_{2}-based iron pnictides.
+
+## IV Conclusion
+
+In summary, by performing high-pressure single-crystal neutron-diffraction measurements, the evolution of structure and magnetic ordering in EuFe_{2}As_{2} with hydrostatic pressure were investigated. Both the structural phase transition and
+
+Figure 4: Pressure-temperature phase diagram of EuFe_{2}As_{2} determined from the neutron-diffraction measurements. The filled triangles, diamonds, and spheres represent the structural transition temperatures, Fe-SDW ordering temperatures, and Eu-AFM ordering temperatures, respectively, determined from neutron-diffraction measurements. The open circles and squares represent the temperatures of anomalies in the resistivity curves in Refs. [18] and [15], respectively. The crossings represent the Eu-AFM ordering temperatures determined from ac magnetic susceptibility and resistivity measurements in Refs. [18] and [15], respectively. The filled star marks the superconducting transition inferred from Fig. 3. The filled pentagons and hexagon represent the onset superconducting transition and zero-resistivity critical temperature evidenced by the resistivity measurements in Refs. [18] and [15], respectively. The inset is an enlarged view for the pressure region between 20 and 26 kbar. The area marked by blue is the Eu-AFM phase, while that marked by green is the superconducting phase. The dotted lines are guides to the eye.
+
+Figure 3: The temperature dependencies of the lattice parameters c (a), a (b), and b (c) under P = 24.7 kbar. The solid lines are guides to the eye.
+
+  the Fe-SDW transition are gradually suppressed and become decoupled with increasing pressure. The antiferromagnetic order of the Eu sublattice is, however, robust against the applied pressure up to 24.7 kbar, without showing any change of the ordering temperature. Under the pressure of 24.7 kbar, the lattice parameters of EuFe_{2}As_{2} display clear anomalies at 27(3) K, well consistent with the superconducting transition observed in previous high-pressure resistivity measurements. Such an anomalous thermal expansion around T_{c} strongly suggests the appearance of bulk superconductivity and strong electron-lattice coupling in EuFe_{2}As_{2} induced by the hydrostatic pressure. The coexistence of long-range ordered Eu antiferromagnetism and pressure-induced superconductivity is quite rare in the EuFe_{2}As_{2}-based iron pnictides.
+
+###### Acknowledgements.
+
+ The authors are grateful to Jean-Luc Laboier and Claude Payre from the Service of Advanced Neutron Environments (SANE) at the Institut Laue-Langevin for providing assistance with the high-pressure equipment during the neutron-diffraction experiments.
+
+## References
+
+* [1] Y. Kamihara, T. Watanabe, M. Hirano, and H. Hosono, J. Am. Chem. Soc. **130**, 3296 (2008).
+* [2] D. C. Johnston, Adv. Phys. **59**, 803 (2010), and references therein.
+* [3] C. W. Chu and B. Lorenz, Physica C **469**, 385 (2009).
+* [4] A. S. Sefat, Rep. Prog. Phys. **74**, 124502 (2011).
+* [5] S. A. J. Kimber, A. Kreyssig, Y.-Z. Zhang, H. O. Jeschke, R. Valenti, F. Yokaichiya, E. Colombier, J. Yan, T. C. Hansen, T. Chatterji, R. J. McQueeney, P. C. Canfield, A. I. Goldman, and D. N. Argyriou, Nat. Mater. **8**, 471 (2009).
+* [6] A. Kreyssig, M. A. Green, Y. Lee, G. D. Samolyuk, P. Zajdel, J. W. Lynn, S. L. Bud'ko, M. S. Torikachvili, N. Ni, S. Nandi, J. B. Leio, S. J. Poulton, D. N. Argyriou, B. N. Harmon, R. J. McQueeney, P. C. Canfield, and A. I. Goldman, Phys. Rev. B **78**, 184517 (2008).
+* [7] A. I. Goldman, A. Kreyssig, K. Prokes, D. K. Pratt, D. N. Argyriou, J. W. Lynn, S. Nandi, S. A. J. Kimber, Y. Chen, Y. B. Lee, G. Samolyuk, J. B. Leao, S. J. Poulton, S. L. Bud'ko, N. Ni, P. C. Canfield, B. N. Harmon, and R. J. McQueeney, Phys. Rev. B **79**, 024513 (2009).
+* [8] K. Prokes, A. Kreyssig, B. Ouladdiaf, D. K. Pratt, N. Ni, S. L. Bud'ko, P. C. Canfield, R. J. McQueeney, D. N. Argyriou, and A. I. Goldman, Phys. Rev. B **81**, 180506(R) (2010).
+* [9] J. J. Wu, J.-F. Lin, X. C. Wang, Q. Q. Liu, J. L. Zhu, Y. M. Xiao, P. Chow, and C. Jin, Proc. Natl. Acad. Sci. USA **110**, 17263 (2013).
+* [10] M. Tomic, Harald O. Jeschke, Rafael M. Fernandes, and R. Valenti, Phys. Rev. B **87**, 174503 (2013).
+* [11] S. Zapf and M. Dressel, Rep. Prog. Phys. **80**, 016501 (2017).
+* [12] H. Raffius, E. Morsen, B. D. Mosel, W. Muller-Warmuth, W. Jeitschko, L. Terbichte, and T. Vomhof, J. Phys. Chem. Solids **54**, 135 (1993).
+* [13] H. S. Jeevan, Z. Hossain, D. Kasinathan, H. Rosner, C. Geibel, and P. Gegenwart, Phys. Rev. B **78**, 052502 (2008).
+* [14] Y. Xiao, Y. Su, M. Meven, R. Mittal, C. M. N. Kumar, T. Chatterji, S. Price, J. Persson, N. Kumar, S. K. Dhar, A. Thamizhavel, and Th. Brueckel, Phys. Rev. B **80**, 174424 (2009).
+* [15] C. F. Miclea, M. Nicklas, H. S. Jeevan, D. Kasinathan, Z. Hossain, H. Rosner, P. Gegenwart, C. Geibel, and F. Steglich, Phys. Rev. B **79**, 212509 (2009).
+* [16] T. Terashima, M. Kimata, H. Satsukawa, A. Harada, K. Hazama, S. Uji, H. S. Suzuki, T. Matsumoto, and K. Murata, J. Phys. Soc. Jpn. **78**, 083701 (2009).
+* [17] N. Kurita, M. Kimata, K. Kodama, A. Harada, M. Tomita, H. S. Suzuki, T. Matsumoto, K. Murata, S. Uji, and T. Terashima, Phys. Rev. B **83**, 214513 (2011).
+* [18] K. Matsubayashi, K. Munakata, M. Isobe, N. Katayama, K. Ohgushi, Y. Ueda, N. Kawamura, M. Mizumaki, N. Ishimatsu, M. Hedo, I. Umehara, and Y. Uwatoko, Phys. Rev. B **84**, 024502 (2011).
+* [19] W. Uhoya, G. Tsoi, Y. K. Vohra, M. A. McGuire, A. S. Sefat, B. C. Sales, D. Mandrus, and S. T. Weir, J. Phys. Condens. Matter **22**, 292202 (2010).
+* [20] W. T. Jin, J. P. Sun, G. Z. Ye, Y. Xiao, Y. Su, K. Schmazl, S. Nandi, Z. Bukowski, Z. Guguchia, E. Feng _et al._, Sci. Rep. **7**, 3532 (2017).
+* [21] D. L. Decker, J. Appl. Phys. **36**, 157 (1965).
+* [22] S. Nandi, M. G. Kim, A. Kreyssig, R. M. Fernandes, D. K. Pratt, A. Thaler, N. Ni, S. L. Bud'ko, P. C. Canfield, J. Schmalian, R. J. McQueeney, and A. I. Goldman, Phys. Rev. Lett. **104**, 057006 (2010).
+* [23] X. Lu, H. Gretarsson, R. Zhang, X. Liu, H. Luo, W. Tian, M. Laver, Z. Yamani, Y.-J. Kim, A. H. Nevidomskyy, Q. Si, and P. Dai, Phys. Rev. Lett. **110**, 257001 (2013).
+* [24] W. T. Jin, Y. Xiao, Y. Su, S. Nandi, W. H. Jiao, G. Nisbet, S. Demiridis, G. H. Cao, and T. Bruckel, Phys. Rev. B **93**, 024517 (2016).
+* [25] W. T. Jin, Y. Xiao, Z. Bukowski, Y. Su, S. Nandi, A. P. Sazonov, M. Meven, O. Zaharko, S. Demirdis, K. Nemkovski _et al._, Phys. Rev. B **94**, 184513 (2016).
+* [26] Y. Fujii, Y. Soojima, A. Okazaki, I. K. Bdikin, G. A. Emel'chenko, and A. A. Zhokhov, Physica C **377**, 49 (2002).
+* [27] J. D. Jorgensen, D. G. Hinks, and S. Short, Phys. Rev. B **63**, 224522 (2001).
+* [28] F. Hardy, P. Adelmann, Th. Wolf, H.v. Loehneysen, and C. Meingast, Phys. Rev. Lett. **102**, 187004 (2009).
+* [29] Z. Ren, Q. Tao, S. Jiang, C. Feng, C. Wang, J. Dai, G. Cao, and Z. Xu, Phys. Rev. Lett. **102**, 137002 (2009).
+* [30] W. T. Jin, S. Nandi, Y. Xiao, Y. Su, O. Zaharko, Z. Guguchia, Z. Bukowski, S. Price, W. H. Jiao, G. H. Cao, and Th. Bruckel, Phys. Rev. B **88**, 214516 (2013).
+
+  * [31] S. Nandi, W. T. Jin, Y. Xiao, Y. Su, S. Price, D. K. Shukla, J. Strempfer, H. S. Jeevan, P. Gegenwart, and Th. Bruckel, Phys. Rev. B **89**, 014512 (2014).
+* [32] S. Nandi, W. T. Jin, Y. Xiao, Y. Su, S. Price, W. Schmidt, K. Schmalzl, T. Chatterji, H. S. Jeevan, P. Gegenwart, and Th. Bruckel, Phys. Rev. B **90**, 094407 (2014).
+* [33] W. T. Jin, W. Li, Y. Su, S. Nandi, Y. Xiao, W. H. Jiao, M. Meven, A. P. Sazonov, E. Feng, Y. Chen, C. S. Ting, G. H. Cao, and Th. Bruckel, Phys. Rev. B **91**, 064506 (2015).
+* [34] W.-H. Jiao, Q. Tao, Z. Ren, Y. Liu, and G.-H. Cao, npj Quantum Mater. **2**, 50 (2017).
+* [35] H. S. Jeevan, Z. Hossain, Deepa Kasinathan, H. Rosner, C. Geibel, and P. Gegenwart, Phys. Rev. B **78**, 092406 (2008).
+
+ 
+
+# Coexistence of Eu antiferromagnetism and pressure-induced superconductivity
+
+in single-crystal EuFe_{2}As_{2}
+
+W. T. Jin
+
+Julich Centre for Neutron Science JCNS at Heinz-Laheimite Zentrum (MLZ), Forschungszentrum Julich GmbH, Lichtenbergstrasse 1, D-85747 Garching, Germany
+
+Y. Xiao
+
+y.xiao@pku.edu.cn School of Advanced Materials, Peking University, Shenzhen Graduate School, Shenzhen 518055, China
+
+S. Nandi
+
+Julich Centre for Neutron Science JCNS and Peter Grunberg Institut PGI, JARA-FIT, Forschungszentrum Julich GmbH, D-52425 Julich, Germany
+
+S. Price
+
+Julich Centre for Neutron Science JCNS at Heinz-Laheimite Zentrum (MLZ), Forschungszentrum Julich GmbH, Lichtenbergstrasse 1, D-85747 Garching, Germany
+
+Y. Su
+
+Julich Centre for Neutron Science JCNS and Peter Grunberg Institut PGI, JARA-FIT, Forschungszentrum Julich GmbH, D-52425 Julich, Germany
+
+K. Schmalzl
+
+Julich Centre for Neutron Science JCNS at Heinz-Laheimite Zentrum (MLZ), Forschungszentrum Julich GmbH, Lichtenbergstrasse 1, D-85747 Garching, Germany
+
+W. Schmidt
+
+Julich Centre for Neutron Science JCNS and Peter Grunberg Institut PGI, JARA-FIT, Forschungszentrum Julich GmbH, D-52425 Julich, Germany
+
+T. Chatterji
+
+Julich Centre for Neutron Science JCNS at Heinz-Laheimite Zentrum (MLZ), Forschungszentrum Julich GmbH, Lichtenbergstrasse 1, D-85747 Garching, Germany
+
+A. Thamizhavel
+
+Julich Centre for Neutron Science JCNS at Heinz-Laheimite Zentrum (MLZ), Forschungszentrum Julich GmbH, Lichtenbergstrasse 1, D-85747 Garching, Germany
+
+Th. Bruckel
+
+Julich Centre for Neutron Science JCNS at Heinz-Laheimite Zentrum (MLZ), Forschungszentrum Julich GmbH, Lichtenbergstrasse 1, D-85747 Garching, Germany
+
+###### Abstract
+
+By performing high-pressure single-crystal neutron-diffraction measurements, the evolution of structure and magnetic ordering in EuFe_{2}As_{2} under hydrostatic pressure were investigated. Both the tetragonal-to-orthorhombic structural transition and the Fe spin-density-wave transition are gradually suppressed and become decoupled with increasing pressure. The antiferromagnetic order of the Eu sublattice is, however, robust against the applied pressure up to 24.7 kbar, without showing any change of the ordering temperature. Under the pressure of 24.7 kbar, the lattice parameters of EuFe_{2}As_{2} display clear anomalies at 27(3) K, well consistent with the superconducting transition observed in previous high-pressure resistivity measurements. Such an anomalous thermal expansion around T_{c} strongly suggests the appearance of bulk superconductivity and strong electron-lattice coupling in EuFe_{2}As_{2} induced by the hydrostatic pressure. The coexistence of long-range ordered Eu antiferromagnetism and pressure-induced superconductivity is quite rare in the EuFe_{2}As_{2}-based iron pnictides.
+
+DOI: 10.1103/PhysRevB.100.014503
+
+## 1 Introduction
+
+Large efforts have been undertaken to explore the knowledge of superconductivity (SC) in high-T_{c} Fe-based superconductors since they were discovered in 2008 [1, 2]. General phase diagrams of AFe_{2}As_{2}-type ("122" with A= Ba, Ca, and Eu, etc.) iron pnictides clearly show that the parent compounds undergo a tetragonal-to-orthorhombic structural phase transition accompanied by the formation of an antiferromagnetically ordered spin-density-wave (SDW) state. The static magnetic order of parent compounds can be suppressed and SC emerges concomitantly with appropriate charge carrier doping or the application of external pressure. The complexity of phase diagrams in charge carrier doped systems revealed the intimate relationship between structural, magnetic, and superconducting transitions. In contrast to charge carrier doping, the application of external pressure is considered as a more straightforward and cleaner way to induce SC since there are no disorder effects caused by chemical inhomogeneity. Previous studies on 122 iron pnictide superconductors have shown that the application of high pressure can not only induce SC but also tune the structural/magnetic phases [3, 4, 5, 6, 7, 8, 9, 10]. Therefore, it is worthwhile to investigate in detail the entanglement between the structure, magnetism, and SC in pressure-induced 122 iron-pnictide superconductors by neutron diffraction, although it is very challenging from an experimental point of view.
+
+Among various parent compounds of 122 iron-pnictide superconductors, EuFe_{2}As_{2} is considered as an interesting member given the fact that the A site is occupied by Eu^{2+}, an S-state rare-earth ion possessing a 4f^{\gamma} electronic configuration with the electron spin S=7/2[11]. Two successive magnetic phase transitions have been identified at 190 and 19 K, corresponding to SDW ordering of the itinerant Fe moments and A-type antiferromagnetic ordering of the localized Eu^{2+} moments, respectively [12, 13, 14]. The SDW transition in EuFe_{2}As_{2} can be suppressed continuously by applying external pressure due to the weakening of Fe-Fe exchange interactions. Furthermore, SC with T_{c}\sim 30 K can be induced in EuFe_{2}As_{2} by external pressure, which appears in a narrow pressure region in the vicinity of the critical pressure P_{c}\sim 25 kbar [15, 16, 17]. Upon the application of pressure up to 80 kbar, a pressure-induced magnetic transition of the Eu^{2+} moment from antiferromagnetic to ferromagnetic ordering was suggested and a collapsed tetragonal phase was found for EuFe_{2}As_{2}[18, 19].
+
+Although many studies about the pressure effects on EuFe_{2}As_{2} have been performed during the past few years, as of yet no account of the lattice response in the pressure-induced superconducting phase has been reported. Furthermore, the magnetic order of the Eu^{2+} moment in the pressure-induced superconducting phase is still not clarified, although it was argued based on high-pressure transport and x-ray spectroscopy measurements that the antiferromagnetic order of the Eu^{2+} moment is relatively robust against the pressure and persists below 60 kbar [18]. However, it was recently confirmed in Co-doped EuFe_{2}As_{2} that the pressure-induced SC is also compatible with the ferromagnetic order of the Eu sublattice [20]. Therefore, it is interesting to study and clarify the interplays between the structure, magnetism, and SC under external pressure using an _in situ_ high-pressure neutron-diffraction technique. In this report, hydrostatic-pressure neutron-diffraction experiments were performed on a EuFe_{2}As_{2} single crystal to investigate the magnetism of the Eu sublattice in a pressure-induced superconducting state, and the couplings between the lattice, Fe-SDW, and SC.
+
+## II Experimental Methods
+
+High-pressure single-crystal neutron-diffraction experiments were carried out on the thermal neutron two-axis diffractometer D23 at the Institut Laue-Langevin (Grenoble, France). The crystal mounted into the pressure cell was in the shape of a platelet with approximate dimensions of 5\times 3\times 1 mm^{3} with a total mass of 30 mg, which was cut from the same piece of crystal used for ambient-environment neutron diffraction as reported in Ref. [14]. Due to the large neutron-absorption cross section of Eu, the incident neutron wavelength of 1.28 A was selected for the measurement. To investigate the evolution of the structure and magnetic order of EuFe_{2}As_{2} with hydrostatic pressure, a clamped pressure cell equipped with a cylinder-shaped sample holder was used. A mixture of ethanol and methanol was adopted as the pressure-transmitting medium to guarantee the hydrostaticity of the applied pressure. The EuFe_{2}As_{2} crystal was oriented with the _a_*-c* scattering plane horizontally aligned, allowing the magnetic reflections from both the Fe and Eu sublattices as well as the nuclear reflections in the (_HOL_) reciprocal plane to be accessible. For convenience, we will use the orthorhombic notation throughout this paper unless otherwise stated. A small piece of NaCl crystal was also put into the pressure cell at the side of the EuFe_{2}As_{2} crystal, with its _ab_ plane horizontally aligned. By tracking the (200) reflection of NaCl, the lattice constant of cubic NaCl can be accurately determined and used as a standard indicator of the applied pressure value, based on the well-established equation of state of NaCl [21]. After mounting the sample and NaCl into the clamped cell, the whole pressure cell was then mounted into a standard cryostat for single-crystal neutron-diffraction measurements between 2 and 300 K.
+
+## III Results and Discussions
+
+### Pressure-induced decoupling between Fe-SDW and structural transitions
+
+The splitting of the tetragonal (HH0)_{T} nuclear reflections with decreasing temperature can be considered as the indication for a tetragonal-to-orthorhombic structural phase transition in 122 iron-pnictide superconductors. After the application of hydrostatic pressure on the EuFe_{2}As_{2} single crystal, Q-scans were performed across the tetragonal (220)_{T} Bragg reflection as a function of temperature. Under the pressure of P=24.7 kbar, a single peak was observed at 172 K for the tetragonal (220)_{T} reflection and it split into orthorhombic (400)_{O} and (040)_{O} reflections when the temperature reached 95 K, as shown in the insets of Fig. 1(a). By tracking the evolution of (400)_{O} and (040)_{O} peak positions, the structural transition temperatures of EuFe_{2}As_{2} at 11.5 and 24.7 kbar are determined to be 180(2) and 165(2) K, respectively. Given that the same structural transition of EuFe_{2}As_{2} in ambient environment takes place at 190 K [14], it is clear that the structural transition temperature of EuFe_{2}As_{2} decreases gradually with increasing applied pressure.
+
+Apart from the nuclear Bragg reflections, the magnetic reflections originated from long-range SDW ordering of the Fe sublattice were also followed at low temperature under pressure. As shown in Figs. 1(b) and 1(c), weak signals
+
+Figure 1: (a) Variation of peak positions of orthorhombic (400)_{O} and (040)_{O} reflections under different applied pressures. The insets show the scans across orthorhombic (400)/(040)_{O} reflections at 95 K and tetragonal (220)_{T} reflection at 172 K, respectively, along the orthorhombic (100) direction or tetragonal (110) direction, under the pressure of P=24.7 kbar. (b) The (101)_{M} magnetic reflection measured at 9 and 180 K under P=11.5 kbar. (c) The (101)_{M} magnetic reflection measured at 10 and 150 K under P=24.7 kbar. The solid lines in (a)–(c) represent fittings to the peaks using a Gaussian profile. (d) Temperature dependence of the integrated intensity of (101)_{M} magnetic Bragg reflection under P=11.5 kbar.
+
+  were observed for (101)_{M} reflection under P = 11.5 kbar, while they were still present but largely suppressed under P = 24.7 kbar. The Fe-SDW ordering temperature under P = 11.5 kbar is estimated to be 170(5) K according to the temperature dependence of the integrated intensity of the (101)_{M} reflection [see Fig. 1(d)]. The ordering temperature under P = 24.7 kbar cannot be determined due to the weakness of magnetic intensity, but it is definitely below 150 K, as indicated by Fig. 1(c).
+
+Our neutron-diffraction measurements of the order parameters clearly demonstrated the decoupling between the structural and Fe-SDW transitions in EuFe_{2}As_{2} upon the application of hydrostatic pressure. It is worth noting that the separation between these two transitions is a well-confirmed feature in doped BaFe_{2}As_{2} and EuFe_{2}As_{2}[22, 23, 24, 25]. Therefore, hydrostatic pressure seems to play a similar role to the chemical doping in tuning the structural and Fe-SDW transitions in EuFe_{2}As_{2}. In addition, it was observed in a high-pressure electrical-transport measurement that the cusp in the resistivity of EuFe_{2}As_{2} single crystal continuously shifted to lower temperature with increasing pressure, ascribing to the structural or Fe-SDW transitions [17]. Compared with the temperature scales of our neutron data, it is indicated that the cusp observed in the resistivity curve is corresponding to the Fe-SDW transition.
+
+### Robust AFM order of Eu2+ moments
+
+In contrast to the largely suppressed SDW ordering in the Fe sublattice with applied pressure, up to P = 24.7 kbar, which is close to the maximum pressure value a clamped cell can exert in reality, the antiferromagnetic (AFM) order of the Eu2+ moments was found to be quite robust against the applied pressure. _Q_-scans at 2 K under P = 24.7 kbar, as shown in Figs. 2(a) and 2(b), revealed the appearance of magnetic reflections from the Eu sublattice at the forbidden Bragg peak positions with the propagation vector of k = (001). This suggests an antiferromagnetic interlayer coupling between adjacent Eu layers, which is the same as the case under ambient pressure [14]. The magnetic origin of these reflections is evidenced from their disappearance at 20 K [see Fig. 2(c)]. From the temperature dependencies of the integrated intensities of both (003)_{M} and (203)_{M}, the antiferromagnetic ordering temperature of the Eu sublattice can be determined to be 19.0(5) K under P = 24.7 kbar, which is unchanged compared with the value measured in the ambient environment [14].
+
+In other words, applying a hydrostatic pressure up to P = 24.7 kbar does not provide a large enough perturbation to EuFe_{2}As_{2} to change the magnetic order of the Eu sublattice. This is consistent with the pressure-temperature phase diagram of EuFe_{2}As_{2} constructed based on high-pressure transport and x-ray spectroscopy measurements [18], in which the proposed transition of the magnetic state of the Eu sublattice from antiferromagnetic to ferromagnetic (AFM-FM) only takes place under a much higher hydrostatic pressure (_P_ > 60 kbar) and the _T_Ex(_P_) curve is rather flat for P < 25 kbar.
+
+### Response of the lattice to pressure-induced superconductivity
+
+The lattice instability in high-temperature superconductors have been extensively studied as it may provide evidence of electron-lattice interactions. It was observed that the lattice parameters show some anomalies at the superconducting transition temperature _T__{c} for cuprates and magnesium diboride [26, 27]. According to the pressure-temperature phase diagram of EuFe_{2}As_{2}[17], the pressure-induced superconducting phase is confined in a narrow pressure region between 24 and 31 kbar. Under P = 24.7 kbar, we have deduced the lattice parameters of EuFe_{2}As_{2} from the _H_-scans across orthorhombic (400)_{O} and _L_-scans across orthorhombic (008)_{O} reflections at different temperatures in the low-temperature region. As presented in Fig. 3, all lattice parameters (_a_, b, and _c_) exhibit clear anomalies at 27(3) K, which is well consistent with the superconducting transition temperature _T__{c} = 29(2) K observed in high-pressure resistivity measurements [17]. This anomalous thermal expansion around _T__{c} strongly suggests the appearance of bulk superconductivity and strong electron-lattice coupling in EuFe_{2}As_{2} induced by the application of hydrostatic pressure of P = 24.7 kbar.
+
+The responses of the crystal lattice to superconductivity have been observed in many _A_Fe_{2}As_{2}-type superconductors. By using high-resolution dilatometry, Hardy _et al._ clearly observed the anisotropic lattice responses (along the c and a direction, respectively) to the superconducting order in a nearly optimally doped Ba(Fe_{0.92}Co_{0.08})_{2}As_{2} single crystal with a large uniaxial-pressure dependence of the critical temperature _T__{c}[28]. It is worth noting that the anisotropic lattice response was deduced from the linear expansivities with uniaxial stress instead of hydrostatic pressure. The uniaxial pressure dependence along two crystallographic directions can be largely compensated under hydrostatic pressure and results in a smaller negative thermal expansion. In the present work, the hydrostatic pressure is _in situ_ applied during the neutron-diffraction measurements. Hence, the small negative thermal expansions along all crystallographic axes reflect
+
+Figure 2: (a) _L_-scan along the (2, 0, _L_) direction and (b) _H_-scan along the (_H_, 0, 1) direction at 2 K under P = 24.7 kbar. (c) Rocking scan of (203)_{M} and (003)_{M} reflections at 2 and 20 K, in which the solid lines represent fittings to the peaks using a Gaussian profile. (d) The temperature dependencies of the integrated intensity of (003) and (203) reflections under P = 24.7 kbar.
+
+  the intrinsic response of the lattice to superconductivity in EuFe_{2}As_{2} compounds. The response can be attributed to the spontaneous strain generated in the superconducting phase via a strong electron-lattice interaction.
+
+### Pressure-temperature phase diagram of EuFe_{2}As_{2}
+
+Based on the results of our neutron-diffraction study presented above, we have established a pressure-temperature phase diagram of EuFe_{2}As_{2} in the low-pressure region (P< 26 kbar) (Fig. 4). Compared with the data of transition temperatures extracted from the phase diagrams reported in Refs. [15] and [18], the temperatures of anomalies in the resistivity curves (denoted as T_{S} in Ref. [18] and T_{0} in Ref. [15]) agree well with the Fe-SDW ordering temperatures (T_{SDW} = 170(5) K for P = 11.5 kbar and T_{SDW}< 150 K for P = 24.7 kbar) determined from our neutron-diffraction measurements. The decoupling between the structural and Fe-SDW transitions with increasing pressure was not reported in both references, as the electrical resistivity measurements cannot differentiate between them. However, with the access to both nuclear and magnetic scattering, we were able to identify the structural and Fe-SDW transitions distinctively using neutron diffraction. The pressure-induced separation between these two transitions resembles that observed in electron-doped EuFe_{2}As_{2}[24, 25], suggesting a similar role of hydrostatic pressure to chemical doping in tuning the phase transitions. The antiferromagnetic order of the Eu^{2+} moments, however, is quite robust against the applied pressure up to P = 24.7 kbar, without showing any change of the ordering temperature T_{Eu}. To verify the scenario of the AFM-FM transition under higher pressure (P> 60 kbar) as proposed in Ref. [18], a Paris-Edinburgh pressure cell is needed to achieve a much higher hydrostatic pressure in further neutron-diffraction experiments.
+
+Inferred from the unambiguous responses of lattice parameters and the observation of zero resistivity for the comparable value of applied pressure as reported in Refs. [15, 17, 18], EuFe_{2}As_{2} is expected to enter a unique pressure-induced bulk superconducting state below T_{c} = 27(3) K. Therefore, as shown in Fig. 4, there is a specific phase regime in which the long-range antiferromagnetic order of the Eu^{2+} moments coexists with the pressure-induced SC. This is distinct from the well-documented doping-induced coexistence of Eu ferromagnetism and the superconductivity [29, 30, 31, 32, 33], where a spontaneous vortex state is expected to account for the compromise between those two antagonistic phenomena [34]. Such a coexistence of Eu-AFM and SC was reported for Eu_{0.5}K_{0.5}Fe_{2}As_{2} with K doping [35], but the antiferromagnetism of the Eu sublattice was proposed to be of a short-range nature there. In our case, the Eu-AFM in the pressure-induced superconducting phase is clearly long-range ordered, making such a phase quite rare in the EuFe_{2}As_{2}-based iron pnictides.
+
+## IV Conclusion
+
+In summary, by performing high-pressure single-crystal neutron-diffraction measurements, the evolution of structure and magnetic ordering in EuFe_{2}As_{2} with hydrostatic pressure were investigated. Both the structural phase transition and
+
+Figure 4: Pressure-temperature phase diagram of EuFe_{2}As_{2} determined from the neutron-diffraction measurements. The filled triangles, diamonds, and spheres represent the structural transition temperatures, Fe-SDW ordering temperatures, and Eu-AFM ordering temperatures, respectively, determined from neutron-diffraction measurements. The open circles and squares represent the temperatures of anomalies in the resistivity curves in Refs. [18] and [15], respectively. The crossings represent the Eu-AFM ordering temperatures determined from ac magnetic susceptibility and resistivity measurements in Refs. [18] and [15], respectively. The filled star marks the superconducting transition inferred from Fig. 3. The filled pentagons and hexagon represent the onset superconducting transition and zero-resistivity critical temperature evidenced by the resistivity measurements in Refs. [18] and [15], respectively. The inset is an enlarged view for the pressure region between 20 and 26 kbar. The area marked by blue is the Eu-AFM phase, while that marked by green is the superconducting phase. The dotted lines are guides to the eye.
+
+Figure 3: The temperature dependencies of the lattice parameters c (a), a (b), and b (c) under P = 24.7 kbar. The solid lines are guides to the eye.
+
+  the Fe-SDW transition are gradually suppressed and become decoupled with increasing pressure. The antiferromagnetic order of the Eu sublattice is, however, robust against the applied pressure up to 24.7 kbar, without showing any change of the ordering temperature. Under the pressure of 24.7 kbar, the lattice parameters of EuFe_{2}As_{2} display clear anomalies at 27(3) K, well consistent with the superconducting transition observed in previous high-pressure resistivity measurements. Such an anomalous thermal expansion around T_{c} strongly suggests the appearance of bulk superconductivity and strong electron-lattice coupling in EuFe_{2}As_{2} induced by the hydrostatic pressure. The coexistence of long-range ordered Eu antiferromagnetism and pressure-induced superconductivity is quite rare in the EuFe_{2}As_{2}-based iron pnictides.
+
+###### Acknowledgements.
+
+ The authors are grateful to Jean-Luc Laboier and Claude Payre from the Service of Advanced Neutron Environments (SANE) at the Institut Laue-Langevin for providing assistance with the high-pressure equipment during the neutron-diffraction experiments.
+
+## References
+
+* [1] Y. Kamihara, T. Watanabe, M. Hirano, and H. Hosono, J. Am. Chem. Soc. **130**, 3296 (2008).
+* [2] D. C. Johnston, Adv. Phys. **59**, 803 (2010), and references therein.
+* [3] C. W. Chu and B. Lorenz, Physica C **469**, 385 (2009).
+* [4] A. S. Sefat, Rep. Prog. Phys. **74**, 124502 (2011).
+* [5] S. A. J. Kimber, A. Kreyssig, Y.-Z. Zhang, H. O. Jeschke, R. Valenti, F. Yokaichiya, E. Colombier, J. Yan, T. C. Hansen, T. Chatterji, R. J. McQueeney, P. C. Canfield, A. I. Goldman, and D. N. Argyriou, Nat. Mater. **8**, 471 (2009).
+* [6] A. Kreyssig, M. A. Green, Y. Lee, G. D. Samolyuk, P. Zajdel, J. W. Lynn, S. L. Bud'ko, M. S. Torikachvili, N. Ni, S. Nandi, J. B. Leio, S. J. Poulton, D. N. Argyriou, B. N. Harmon, R. J. McQueeney, P. C. Canfield, and A. I. Goldman, Phys. Rev. B **78**, 184517 (2008).
+* [7] A. I. Goldman, A. Kreyssig, K. Prokes, D. K. Pratt, D. N. Argyriou, J. W. Lynn, S. Nandi, S. A. J. Kimber, Y. Chen, Y. B. Lee, G. Samolyuk, J. B. Leao, S. J. Poulton, S. L. Bud'ko, N. Ni, P. C. Canfield, B. N. Harmon, and R. J. McQueeney, Phys. Rev. B **79**, 024513 (2009).
+* [8] K. Prokes, A. Kreyssig, B. Ouladdiaf, D. K. Pratt, N. Ni, S. L. Bud'ko, P. C. Canfield, R. J. McQueeney, D. N. Argyriou, and A. I. Goldman, Phys. Rev. B **81**, 180506(R) (2010).
+* [9] J. J. Wu, J.-F. Lin, X. C. Wang, Q. Q. Liu, J. L. Zhu, Y. M. Xiao, P. Chow, and C. Jin, Proc. Natl. Acad. Sci. USA **110**, 17263 (2013).
+* [10] M. Tomic, Harald O. Jeschke, Rafael M. Fernandes, and R. Valenti, Phys. Rev. B **87**, 174503 (2013).
+* [11] S. Zapf and M. Dressel, Rep. Prog. Phys. **80**, 016501 (2017).
+* [12] H. Raffius, E. Morsen, B. D. Mosel, W. Muller-Warmuth, W. Jeitschko, L. Terbichte, and T. Vomhof, J. Phys. Chem. Solids **54**, 135 (1993).
+* [13] H. S. Jeevan, Z. Hossain, D. Kasinathan, H. Rosner, C. Geibel, and P. Gegenwart, Phys. Rev. B **78**, 052502 (2008).
+* [14] Y. Xiao, Y. Su, M. Meven, R. Mittal, C. M. N. Kumar, T. Chatterji, S. Price, J. Persson, N. Kumar, S. K. Dhar, A. Thamizhavel, and Th. Brueckel, Phys. Rev. B **80**, 174424 (2009).
+* [15] C. F. Miclea, M. Nicklas, H. S. Jeevan, D. Kasinathan, Z. Hossain, H. Rosner, P. Gegenwart, C. Geibel, and F. Steglich, Phys. Rev. B **79**, 212509 (2009).
+* [16] T. Terashima, M. Kimata, H. Satsukawa, A. Harada, K. Hazama, S. Uji, H. S. Suzuki, T. Matsumoto, and K. Murata, J. Phys. Soc. Jpn. **78**, 083701 (2009).
+* [17] N. Kurita, M. Kimata, K. Kodama, A. Harada, M. Tomita, H. S. Suzuki, T. Matsumoto, K. Murata, S. Uji, and T. Terashima, Phys. Rev. B **83**, 214513 (2011).
+* [18] K. Matsubayashi, K. Munakata, M. Isobe, N. Katayama, K. Ohgushi, Y. Ueda, N. Kawamura, M. Mizumaki, N. Ishimatsu, M. Hedo, I. Umehara, and Y. Uwatoko, Phys. Rev. B **84**, 024502 (2011).
+* [19] W. Uhoya, G. Tsoi, Y. K. Vohra, M. A. McGuire, A. S. Sefat, B. C. Sales, D. Mandrus, and S. T. Weir, J. Phys. Condens. Matter **22**, 292202 (2010).
+* [20] W. T. Jin, J. P. Sun, G. Z. Ye, Y. Xiao, Y. Su, K. Schmazl, S. Nandi, Z. Bukowski, Z. Guguchia, E. Feng _et al._, Sci. Rep. **7**, 3532 (2017).
+* [21] D. L. Decker, J. Appl. Phys. **36**, 157 (1965).
+* [22] S. Nandi, M. G. Kim, A. Kreyssig, R. M. Fernandes, D. K. Pratt, A. Thaler, N. Ni, S. L. Bud'ko, P. C. Canfield, J. Schmalian, R. J. McQueeney, and A. I. Goldman, Phys. Rev. Lett. **104**, 057006 (2010).
+* [23] X. Lu, H. Gretarsson, R. Zhang, X. Liu, H. Luo, W. Tian, M. Laver, Z. Yamani, Y.-J. Kim, A. H. Nevidomskyy, Q. Si, and P. Dai, Phys. Rev. Lett. **110**, 257001 (2013).
+* [24] W. T. Jin, Y. Xiao, Y. Su, S. Nandi, W. H. Jiao, G. Nisbet, S. Demiridis, G. H. Cao, and T. Bruckel, Phys. Rev. B **93**, 024517 (2016).
+* [25] W. T. Jin, Y. Xiao, Z. Bukowski, Y. Su, S. Nandi, A. P. Sazonov, M. Meven, O. Zaharko, S. Demirdis, K. Nemkovski _et al._, Phys. Rev. B **94**, 184513 (2016).
+* [26] Y. Fujii, Y. Soojima, A. Okazaki, I. K. Bdikin, G. A. Emel'chenko, and A. A. Zhokhov, Physica C **377**, 49 (2002).
+* [27] J. D. Jorgensen, D. G. Hinks, and S. Short, Phys. Rev. B **63**, 224522 (2001).
+* [28] F. Hardy, P. Adelmann, Th. Wolf, H.v. Loehneysen, and C. Meingast, Phys. Rev. Lett. **102**, 187004 (2009).
+* [29] Z. Ren, Q. Tao, S. Jiang, C. Feng, C. Wang, J. Dai, G. Cao, and Z. Xu, Phys. Rev. Lett. **102**, 137002 (2009).
+* [30] W. T. Jin, S. Nandi, Y. Xiao, Y. Su, O. Zaharko, Z. Guguchia, Z. Bukowski, S. Price, W. H. Jiao, G. H. Cao, and Th. Bruckel, Phys. Rev. B **88**, 214516 (2013).
+
+  * [31] S. Nandi, W. T. Jin, Y. Xiao, Y. Su, S. Price, D. K. Shukla, J. Strempfer, H. S. Jeevan, P. Gegenwart, and Th. Bruckel, Phys. Rev. B **89**, 014512 (2014).
+* [32] S. Nandi, W. T. Jin, Y. Xiao, Y. Su, S. Price, W. Schmidt, K. Schmalzl, T. Chatterji, H. S. Jeevan, P. Gegenwart, and Th. Bruckel, Phys. Rev. B **90**, 094407 (2014).
+* [33] W. T. Jin, W. Li, Y. Su, S. Nandi, Y. Xiao, W. H. Jiao, M. Meven, A. P. Sazonov, E. Feng, Y. Chen, C. S. Ting, G. H. Cao, and Th. Bruckel, Phys. Rev. B **91**, 064506 (2015).
+* [34] W.-H. Jiao, Q. Tao, Z. Ren, Y. Liu, and G.-H. Cao, npj Quantum Mater. **2**, 50 (2017).
+* [35] H. S. Jeevan, Z. Hossain, Deepa Kasinathan, H. Rosner, C. Geibel, and P. Gegenwart, Phys. Rev. B **78**, 092406 (2008).
+
+ 

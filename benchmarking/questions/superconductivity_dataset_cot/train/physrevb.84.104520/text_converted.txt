@@ -1,0 +1,552 @@
+Pressure effect on critical temperature for superconductivity and
+lattice parameters of AlB₂-type ternary silicide YbGa_(1.1)Si_(0.9)
+
+Ayako Ohmura,^(1, *) Koji Fujimaki,² Fumihiro Ishikawa,^(1, 2) Yuh
+Yamada,^(1, 3) Naohito Tsujii,⁴ Motoharu Imai⁴
+
+¹Center for Transtatistijnny Research, Niigata University, 8050
+Ikarashi-Ninoche, Nishi-ku, Niigata, Niigata 950-2181, Japan
+
+²Graduate school of Science and Technology, Niigata University, 8050,
+Ikarashi 2-no-cho, Nishi-ku, Niigata, 950-2181, Japan
+
+³Faculty of Science, Niigata University, 8050, Ikarashi 2-no-cho,
+Nishi-ku, Niigata, 950-2181, Japan
+
+⁴National Institute for Materials Science (NIMS), 1-2-1 Sengen, Tsukuba,
+Ibaraki, 305-0047, Japan
+
+###### Abstract
+
+Electrical resistivity and x-ray diffraction measurements have been
+carried out to investigate the pressure effect on the critical
+temperature for superconductivity ($T_{\rm C}$) and lattice parameters
+of AlB₂-type superconducting silicide YbGa_(1.1)Si_(0.9) ($T_{\rm C}$ =
+2.4 K) and its reference material CaGaSi ($T_{\rm C}$ = 4.5 K). The
+electrical resistivity measurements up to 2.5 GPa reveal that
+$T_{\rm C}$ decreases with pressure for both silicides and the pressure
+derivative of $T_{\rm C}$ ($dT_{\rm C}/d$P) is −0.78 K/GPa and −0.026
+K/GPa for YbGa_(1.1)Si_(0.9) and CaGaSi, respectively. X-ray diffraction
+measurements up to 3.5 GPa indicate both silicides do not exhibit
+structural changes in this pressure range and they have similar values
+for the bulk moduli: B₀ = 40 ± 2 GPa for YbGa_(1.1)Si_(0.9) and
+B₀ = 42 ± 1 GPa for CaGaSi. The relative pressure derivative of
+$T_{\rm C}$ (dIn$T_{\rm C}/d$P) and logarithmic volume derivative of
+$T_{\rm C}$ (dIn$T_{\rm C}/d$ln V) are −0.33 GPa⁻¹ and 13 in
+YbGa_(1.1)Si_(0.9). These values are about tenfold larger than those for
+other AlB₂-type superconductors. Additionally, the origin of
+dIn$T_{\rm C}/d$P and dIn$T_{\rm C}/d$InV in YbGa_(1.1)Si_(0.9) relative
+to the pressure effect on the valence of Yb atoms is discussed.
+
+doi:10.1103/PhysRevB.84.104520 104520 104520 104520
+1098-0121/2011/84(10)/104520(7)
+
+## 1 Introduction
+
+The discovery of superconductivity in magnesium diboride (MgB₂) with a
+critical temperature for superconductivity $T_{\rm C}$ of 39 K has
+stimulated the search for new superconducting materials with honeycomb
+layers. MgB₂ crystallizes with an aluminum diboride (AlB₂)-type
+structure (hexagonal; space group P6/mmm) in which the B atoms form
+honeycomb layers and the Mg atoms are intercalated between the B
+layers.1 In these efforts, ternary silicides
+$M_{\rm AE}M_{\rm TRx}$Si_(2 − x) ($M_{\rm AE}$ = Ca, Sr, and Ba,
+$M_{\rm TR}$ = Al and Ga) with an AlB₂-type or their derivatives have
+been found to be superconductors with $T_{\rm C}$ = 3.5−8.0 K.2-10 Si
+and $M_{\rm TR}$ atoms in these silicides form honeycomb layers, and
+$M_{\rm AE}$ atoms are intercalated between the Si-$M_{\rm TR}$ layers.
+Additionally, graphite intercalation compounds (GICs) CaC₆ and YbC₆ were
+later discovered as superconductors with $T_{\rm C}$ = 11.5 and 6.5 K,11
+respectively. In GICs, the metal atoms are intercalated between carbon
+honeycomb layers. The similarities in the crystal structures of
+$M_{\rm AE}M_{\rm TRx}$Si_(2 − x) and GICs, honeycomb layers, and metal
+intercalant, have inspired research on superconducting materials in
+Yb-Al-Si and Yb-Ga-Si systems.
+
+In the Yb-Ga-Si system, a ternary rare-earth silicide
+YbGa_(1.1)Si_(0.9)12 crystallizes with the AlB₂-type structure where the
+Ga and Si atoms form chemically disordered honeycomb layers, and the Yb
+atoms are intercalated between the Ga-Si layers (see Fig. 1).
+YbGa_(1.1)Si_(0.9) is a type-II superconductor with $T_{\rm C}$ of 2.4
+K,12 and is the first superconductor intercalated by a rare-earth
+element in AlB₂-type ternary silicides. Further studies on AlB₂-type
+YbGa_(x)Si_(2 − x) have revealed that the AlB₂ phase exists in
+YbGa_(x)Si_(2 − x) (1.12 ≤x≤ 1.49), $T_{\rm C}$ decreases with x,13 Yb
+is in a mixed valent state of Yb^(2.3 + 13), and the estimated
+electronic specific heat coefficient γ is 12 mJ/mol K2.14 Compared to
+other ternary silicides CaGaSi and 1H-CaAlSi (3.56 mJ/mol K2 for
+CaGaSi15 and 6.10 mJ/mol K2 for 1H-CaAlSi2), γ for YbGa_(1.1)Si_(0.9) is
+slightly enhanced. The mixed valent state of the Yb atom and the value
+of γ in YbGa_(1.1)Si_(0.9) suggest the possibility that the 4f states
+affect the density of states (DOS) at the Fermi level, which is an
+important factor for superconductivity.
+
+To obtain more information on the superconductivity in
+YbGa_(x)Si_(2 − x), investigations on the influence of pressure on the
+superconductivity in YbGa_(x)Si_(2 − x) should be interesting.
+Additionally, comparing the results with that in AlB₂-type
+alkaline-earth ternary silicides should be useful because elemental Yb
+and many other Yb compounds exhibit a pressure-induced valence change.
+Namely, unlike elemental alkaline-earth metals and their
+compounds,16-19-20 the pressure-induced valence change may affect
+superconductivity in YbGa_(x)Si_(2 − x).
+
+Herein we report the pressure dependences of $T_{\rm C}$ and the lattice
+parameters in YbGa_(1.1)Si_(0.9). Additionally, those of CaGaSi (an
+AlB₂-type superconductor, $T_{\rm C}$ = 4.5 K4) were investigated as a
+reference material possessing Ga-Si honeycomb layers. CaGaSi is a
+suitable reference because among alkaline-earth metals divalent Ca has
+the closest ionic radius to that of divalent Yb (0.99 A for Ca²⁺, 0.93 A
+for Yb²⁺, 1.12 A for Sr²⁺, and 1.34 A for Ba²⁺). The preliminary results
+on the electrical resistivity measurements have been reported in Ref.
+21.
+
+## 2 Experimental
+
+Polycrystalline YbGa_(1.1)Si_(0.9) was synthesized by Ar-arc melting and
+subsequent annealing as described elsewhere.12,13 CaGaSi was synthesized
+in two stages. A 1.03 : 1 : 1 molar mixture of Ca, Ga, and Si was
+initially Ar-arc melted. Then the arc-melted sample was loaded in a BN
+capsule and the capsule was sealed in an Ar-filled quartz tube. The
+sample in the tube was remelted at 1470 K for 6 hours, and cooled to
+1270 K at a rate of 4 K/h.
+
+We used a piston-cylinder pressure cell for the electrical resistivity
+measurements under high pressure up to 2.5 GPa. A fragment of
+YbGa_(1, 1)Si_(0.9) (CaGaSi) measuring 2.5 × 0.84 × 0.60 mm³
+(2.3 × 0.80 × 0.60 mm³) in size was placed into a Teflon capsule filled
+with Daphne oil 7373 as the pressure-transmitting medium for hydrostatic
+compression. Then the capsule was loaded into a piston-cylinder-type
+pressure cell. The pressure scale in the sample chamber was calibrated
+in advance by the pressure dependence of a $T_{\rm C}$ for lead. Each
+pressure cell for YbGa_(1.1)Si_(0.9) and CaGaSi was cooled by a ³He
+circulation-type 1 K cryogenic refrigerator and a 4 K Gifford-McMahon
+refrigerator developed by Iwatani industrial gases corporation,
+respectively. The temperature dependence of the electrical resistivity ρ
+was measured at each pressure by the four-probe method in the
+temperature region of 0.9 − 300 K for YbGa_(1.1)Si_(0.9) and 3 − 300 K
+for CaGaSi at each pressure.
+
+X-ray diffraction patterns at high pressures were measured by an
+energy-dispersive method using synchrotron radiation in beamline
+PF-AR-NE5 of High-Energy Accelerator Research Organization (KEK) in
+Japan.[22; 23] High pressure was applied using a multianvil
+high-pressure apparatus MAX80. WC anvils with a 6 mm truncated edge
+length were used. We modified the sample assembly described in Ref. [23]
+for this study. The powdered sample was loaded in the h-BN capsule. Then
+a capsule with YbGa_(1, 1)Si_(0.9) and a mixture of NaCl and BN and a
+capsule with CaGaSi were placed in a hole at the center of a boron-epoxy
+pressure-transmitting medium. Both ends of the hole were sealed by
+pyrophyllite end plugs. Thus, we measured the diffraction patterns of
+YbGa_(1.1)Si_(0.9) and CaGaSi in the same run. The pressure was
+evaluated from the lattice constant of a NaCl internal marker.[24] The
+typical error of pressure was 0.1 GPa.
+
+## III Results
+
+Figure 2 shows the results of the electrical resistivity measurement of
+YbGa_(1.1)Si_(0.9) at pressures from 1 atm to 2.5 GPa. As shown in the
+inset of Fig. 2, the temperature dependencies of the electrical
+resistivity measured at 1 atm and 2.5 GPa exhibit a metallic behavior.
+The temperature dependence is relatively constant regardless of
+pressure, indicating that there is no substantial change in the
+electronic states by compression. The sharp drop in electrical
+resistivity is associated with the superconducting transition. The width
+of the transition is very small, ΔT ∼ 0.1 K, indicating a good sample
+quality. The transition temperature $T_{\rm C}$ at the onset of the
+transition is 2.4 K at ambient pressure, which is consistent with the
+previous report.[12] The transition process shifts to a lower
+temperature as pressure increases.
+
+Figure 3 shows the electrical resistivity of CaGaSi, which is a
+reference material in the ternary Ga-Si system, measured at pressures
+from 1 atm to 2.4 GPa. As shown in the inset of Fig. 3, the temperature
+dependence of the electrical resistivity shows a metallic behavior at 1
+atm and 2.4 GPa. The $T_{\rm C}$ is 4.3 K at ambient pressure, which is
+consistent with the previous paper.[4] Similar to YbGa_(1.1)Si_(0.9),
+the superconducting transition shifts to a lower temperature as pressure
+increases.
+
+Figure 4 plots the $T_{\rm C}$ values of YbGa_(1.1)Si_(0.9) and CaGaSi,
+which are estimated from the onset temperature of the superconducting
+transition as a function of pressure. In both materials, $T_{\rm C}$
+decreases from 2.4 K at 1 atm to 1.1 K at 2.5 GPa for YbGa_(1.1)Si_(0.9)
+and from 4.3 K at 1 atm to 3.9 K at 2.4 GPa
+
+Figure 3: (Color online) Pressure dependence of the CaGaSi
+superconducting transition at pressures up to 2.4 GPa. Inset shows the
+temperature dependence of the electrical resistivity at 1 atm and 2.4
+GPa between 3.0 to 300 K.
+
+Figure 2: (Color online) Pressure dependence of the YbGa_(1.1)Si_(0.9)
+superconducting transition at pressures up to 2.5 GPa. Inset shows the
+temperature dependence of the electrical resistivity at 1 atm and 2.5
+GPa between 1.0 to 300 K.
+
+for CaGaSi. The magnitude of the pressure derivative of $T_{\rm C}$
+($dT_{\rm C}/dP$) of YbGa_(1.1)Si_(0.9) is larger than that of CaGaSi
+(−0.78 K/GPa for YbGa_(1.1)Si_(0.9) and −0.11 K/GPa for CaGaSi).
+
+Figure 5(a) shows the pressure variations with normalized lattice
+parameters a/a₀ and c/c₀, where a₀ and c₀ are the lattice parameters at
+ambient pressure (a₀ = 4.1275(3) A and c₀ = 4.2357(4) A for
+YbGa_(1.1)Si_(0.9), ¹²a₀ = 4.1200(8) A and c₀ = 4.4401(1) A for CaGaSi⁴)
+for two different runs. The value of a₀ is almost the same between
+YbGa_(1.1)Si_(0.9) and CaGaSi, whereas that of c₀ differs; c₀ of
+YbGa_(1.1)Si_(0.9) is 4.6
+
+Figure 6 shows the compression curves of YbGa_(1.1)Si_(0.9) and CaGaSi,
+which are fitted by the Murnaghan equation of state:
+
+P = B₀/B₀^(′)[(V₀/V)^(R₀^(′)) − 1],
+(1)
+
+where V₀ and V are the volumes at ambient pressure and at pressure P
+given in GPa, B₀, and B₀^(′) are the bulk modulus and its pressure
+derivative, respectively. B₀ is defined by the equation B₀⁻¹ =
+(1/V)(dV/dP). The equation of state provides B₀ = 40 ± 2 GPa and
+V₀ = 62.7 ± 0.1 A³ for YbGa_(1.1)Si_(0.9), B₀ = 42 ± 1 GPa and
+V₀ = 65.4 ± 0.1 A³ for CaGaSi, assuming B₀^(′) is 4.8.[25] These results
+suggest that the volume compressibility of YbGa_(1.1)Si_(0.9), which is
+the reciprocal of the bulk modulus, is equal to that of CaGaSi within
+experimental error.
+
+Table I lists $T_{\rm C}$, d$T_{\rm C}$/dP, relative pressure
+derivatives of $T_{\rm C}$ [dln$T_{\rm C}$/dP =
+(1/$T_{\rm C}$)(d$T_{\rm C}$/dP)], bulk modulus (B₀), and logarithmic
+volume derivative of $T_{\rm C}$ (dln$T_{\rm C}$/dlnV) of
+YbGa_(1.1)Si_(0.9) and CaGaSi along with those in other layered
+superconducting materials possessing honeycomb layers. Similar to
+MgB₂[26] and other Al₂-type ternary silicides (11)H-CaAlSi and
+SrAlSi)[27, 28] the pressure derivative of $T_{\rm C}$ in
+YbGa_(1.1)Si_(0.9) is negative. However, the values of d$T_{\rm C}$/dP
+are positive for nH-CaAlSi (n = 5, 6),[27] YbC₆, and CaC₆.[29] The
+magnitude of dln$T_{\rm C}$/dP in YbGa_(1.1)Si_(0.9) is about tenfold
+larger than those of other materials. The bulk modulus values in
+YbGa_(1.1)Si_(0.9) and CaGaSi are almost the same as that of Al₂-type
+ternary
+
+Figure 4: Superconducting transition temperature ($T_{\rm C}$) plotted
+as a function of pressure. Solid and open circles indicate $T_{\rm C}$
+of YbGa_(1.1)Si_(0.9) and CaGaSi, respectively. $T_{\rm C}$ is estimated
+at the onset of the superconducting transition.
+
+Figure 5: (a) Pressure variations in the lattice constants a and c
+normalized to the values of those at 1 atm, a₀ and c₀. (b) c vs a
+plotted as a function of pressure. In both figures, circle and square
+symbols indicate the values for YbGa_(1.1)Si_(0.9) and CaGaSi,
+respectively. Open and solid symbols indicate the data obtained from two
+different runs.
+
+silicides, but are smaller than that of MgB₂ and CaC₆. The value of
+dln$T_{\rm C}/d$lnV is calculated from dln$T_{\rm C}/d$P and B₀ as
+follows: dln$T_{\rm C}/d$lnV =
+(1/$T_{\rm C}$)(d$T_{\rm C}/d$P)/(1/V)(dV/dP) = (dln$T_{\rm C}/d$P)B₀,
+and its magnitude for YbGa_(1.1)Si_(0.9) is larger than the other
+values. This is a remarkable characteristic of the superconductivity in
+YbGa_(1.1)Si_(0.9) under high pressure.
+
+## IV Discussion
+
+First, we address the pressure dependence of $T_{\rm C}$ in CaGaSi. The
+electronic state near the Fermi energy in CaGaSi originates from
+hybridization of the Ca 3d and Ga/Si p states, but the Ca 3d character
+is the main component in the electronic density of states (DOS) at the
+Fermi level N(E_(F)).[32] Another AlB₂-type superconductor 1_H_-CaAlSi
+has a similar electronic structure with CaGaSi, and its superconducting
+mechanism has been thoroughly investigated.[27] In 1_H_-CaAlSi, the
+electronic state near the Fermi energy originates from the hybridization
+of Ca 3d and Al/Si p states, but the Ca 3d character is a main component
+in N(E_(F)).[27] This electronic state couples with the low-frequency
+mode. This low-frequency mode corresponds to the out-of-plane vibration
+of the Al-Si planes, which is the origin of superconductivity, but as
+pressure increases, this mode splits into two peaks in the phonon DOS
+where one peak softens and the other hardens. Furthermore, applying
+pressure decreases the electronic DOS at the Fermi level N(E_(F)).
+Although the reason why N(E_(F)) decreases is not described in Ref.
+[27], it is a plausible explanation that an increase in the interaction
+between Ca and Al/Si states with pressure makes the width of electronic
+DOS broad. Due to the peak splitting in the phonon DOS and the decrease
+in N(E_(F)), the electron-phonon coupling parameter λ and
+logarithmic-averaged phonon frequency decrease with pressure result in
+the negative pressure-dependence of $T_{\rm C}$ in 1_H_-CaAlSi. Because
+the magnitude of B₀ and the electronic structure of CaGaSi are very
+similar to those of 1_H_-CaAlSi, the electronic DOS at the Fermi level
+N(E_(F)) in CaGaSi should decrease with pressure, similar to the case of
+1_H_-CaAlSi. Therefore, the scenario for pressure dependence of
+$T_{\rm C}$ in 1_H_-CaAlSi should apply to that in CaGaSi: the softening
+of the phonon and the decrease in N(E_(F)) induced by pressure result in
+the negative pressure dependence of $T_{\rm C}$. In fact, the sign and
+order of d$T_{\rm C}/d$P and dln$T_{\rm C}/d$P in CaGaSi are the same as
+those in 1_H_-CaAlSi.
+
+Next, we discuss the pressure effect on $T_{\rm C}$ in
+YbGa_(1.1)Si_(0.9). The main difference between YbGa_(1.1)Si_(0.9) and
+CaGaSi is that Yb is a 4f metal and the external conditions can induce a
+change in its valence between 2+ and 3+, whereas the valence of Ca is
+always 2+. At high pressures, the increase in the valence of the Yb
+atoms has been observed in elemental Yb[16] and other Yb compounds,
+including YbAl₂, YbS, YbInAu₂, and YbM₂X₂ (M = transition metal, X = Si,
+Ge).[17, 18, 19, 20] This trend is consistent with the fact that Yb³⁺
+has a smaller ionic radius (0.85 A) than Yb²⁺ (0.93 A). Figure 7 shows
+the valence of Yb in YbGa_(1.15)Si_(0.85) reported in Ref. [33] and a
+normalized $T_{\rm C}$, $T_{\rm C}(P)/T_{\rm C}(0)$, as a function of
+the normalized volume V/V₀. The $T_{\rm C}(P)/T_{\rm C}(0)$ of CaGaSi is
+also plotted for comparison. The valence of Yb gradually increases with
+pressure from 2.2+ at ambient pressure (see Fig. 7) and is reported to
+increase up to 2.4+ at 5 GPa,[33] which corresponds to V/V₀ ∼ 0.91. The
+variation in $T_{\rm C}(P)/T_{\rm C}(0)$ of YbGa_(1.1)Si_(0.9) is much
+larger than that of CaGaSi for the same value of V/V₀. Because the bulk
+modulus of YbGa_(1.1)Si_(0.9) is almost the same as that of CaGaSi, the
+difference in $T_{\rm C}(P)/T_{\rm C}(0)$ is most likely due to the
+increased valence of Yb with pressure and the different contribution of
+the intercalant Yb/Ca atoms to the electronic DOS at the Fermi level.
+The valence change can significantly alter the electronic structure
+around the Fermi energy, which is considered to be responsible for the
+rapid decrease in $T_{\rm C}$ upon pressurization in YbGa_(1.1)Si_(0.9).
+
+We discuss three possible mechanisms of the effect of 4f electrons on
+$T_{\rm C}$ in YbGa_(1.1)Si_(0.9): (i) overdoping of carrier electrons
+due to the increased Yb valence, (ii) cooper-pair breaking by the
+magnetic Yb³⁺ moment, and (iii) valence fluctuations. With the
+overdoping mechanism, $T_{\rm C}$ of AlB₂-type ternary alkaline-earth
+silicides $M_{\rm AE}$$M_{\rm TR_{4}}$Si_(2 − x) ($M_{\rm AE}$ = Ca,
+
+  --------------------------- ---------------------- ----------------- ------------------- --------- -------------------------
+                               $T_{\rm C}$ at 1 atm   d$T_{\rm C}/d$P   dln$T_{\rm C}/d$P     B₀        dln$T_{\rm C}/d$lnV
+                                       (K)                (K/GPa)            (GPa⁻¹)         (GPa)    [=dln$T_{\rm C}/d$P*B₀]
+  YbGa_(1.1)Si_(0.9)                   2.4                 −0.78              −0.33           41                13
+  CaGaSi                               4.2                 −0.11             −0.026           42                1.1
+  MgB₂^(*)                             39.6                −1.03             −0.026           172               4.4
+  1_H_-CaAlSi${}^{\rm h,c}$            6.5                 −0.31             −0.048         ^(*)64              3.0
+  nH-CaAlSi${}^{\rm h,d}$              7.7                 0.21               0.026         ^(*)∼50             1.3
+  SrAlSi${}^{\rm h,d}$                 4.9                 −0.12             −0.024         ^(*)58              1.4
+  YbC₆^(*)                             6.5                 0.37               0.057           ...               ...
+  CaC₆${}^{\ast,\rm f}$                11.5                0.50               0.043         ^(*)103             4.4
+  --------------------------- ---------------------- ----------------- ------------------- --------- -------------------------
+
+^(*)Reference [26].
+
+^(*)Reference [27].
+
+^(*)Reference [30].
+
+^(*)Reference [28].
+
+^(*)Reference [29].
+
+^(*)Reference [31]
+
+Table 1: Comparison of the superconducting properties: superconducting
+transition temperatures ($T_{\rm C}$), pressure dependencies of initial
+slope (d$T_{\rm C}/d$P), relative pressure derivatives of $T_{\rm C}$
+(dln$T_{\rm C}/d$P), bulk moduli (B₀), and logarithmic volume
+derivatives of $T_{\rm C}$ (dln$T_{\rm C}/d$lnV), respectively.
+Asterisks indicate calculated bulk modulus B₀ values.
+
+Sr, and Ba, _M_TRx = Al and Ga) is maximized around x = 1.0.5,8,9 In
+this case, _T_C decreases with x when x is greater than one. From the
+analogy of _M_AE_M_TRx,Si2-_x_, Tsujii _et al_. have suggested that
+YbGa2Si2-_x_ (_x_ = 1.15-1.4) also has an optimum carrier concentration
+around x = 1,13 which is reflected in the x dependence of _T_C in
+YbGa2Si2-_x_; _T_C decreases monotonically as x increases from 1.1.
+Using this scenario, Yamaoka _et al_. have noted that overdoping of
+carrier electrons is a possible mechanism to reduce _T_C in YbGa11Si0.9
+by pressure.33 As shown in Fig. 7, the valence of Yb increases from 2.2+
+to 2.25+, when pressure is increased from ambient pressure to 2.5 GPa,
+adding 0.05 e- to the conduction band. Therefore, if Yb2+Ga11Si0.9 is
+assumed to have an optimum carrier concentration, _T_C decrease as the
+valence increases from 2.2+ to 2.25+ because the carrier concentration
+becomes the overdoping. However, this scenario is difficult to examine
+because YbGa2Si2-_x_ with x < 1.1 has a different crystal structure and
+we cannot measure the x dependence of _T_C in the AlB2-type YbGa2Si2-_x_
+with x < 1.1.
+
+Next, the effect of the magnetic moment induced on the Yb site is
+considered. Superconductors with magnetic impurities have been well
+investigated, and magnetic impurities cause _T_C to decrease.34 When
+YbGa11Si0.9 is compressed, the valence of Yb approaches the trivalent
+state. Here we assume the increase of Yb valence is due to
+randomly-distributed Yb3+ ions of which concentration increases with
+pressure. Since the Yb3+ ion carries a magnetic moment of J = 7/2, a
+pair-breaking effect due to the pressure-induced Yb3+ ions may be a
+plausible explanation for the decrease of _T_C in YbGa11Si0.9 with
+pressure. It is noteworthy that superconductivity is not observed in the
+isostructural compound EuGaSi at least above 2 K where the Eu ion has
+been demonstrated to be divalent with a magnetic moment of J = 7/2.35 To
+examine quantitatively the stability of superconductivity against the
+magnetic moment in AlB2-type superconductors, a systematic study such as
+the Eu impurity effect on _T_C of YbGa11Si0.9 is necessary.
+
+The third mechanism is based on the assumption that the valence of Yb
+shown in Fig. 7 is due to the valence fluctuation (Yb2+ ↔ Yb3+), as
+discussed in Ref. [13] from the results of the magnetic susceptibility
+and the x-ray spectroscopy. The pressure change in valence fluctuation
+of the Yb ions is expected to greatly influence the rapid decrease of
+_T_C by pressure. It has been reported that superconductivity is
+strongly suppressed by doping with rare-earth ions whose valences can
+fluctuate such as Ce and Yb. For example, YbNi2B2C does not show
+superconductivity although LuNi2B2C and TmNi2B2C are superconductors
+with _T_C = 16 K and 11 K, respectively.36-39 Substitution of Yb for Lu
+in LuNi2B2C decreases _T_C 75 times faster than the substitution of Gd
+for Lu,40-42 where Gd is a magnetic impurity. Similarly, layered
+superconductors La3-_x_RxNi2B2N3-_x_ strongly suppress _T_C for R = Ce.
+The magnitude of the rate _d_TC_/_dx_ is one order of magnitude larger
+for Ce than that for R = Pr and Nd.43,44 These experimental data suggest
+that the valence fluctuation of Ce or Yb causes a more detrimental
+effect on superconductivity than the conventional pair-breaking
+mechanism of the magnetic impurities.
+
+To date, the effect of valence fluctuations on a nonmagnetic
+superconductor has been discussed in terms of the theoretical results by
+Muller-Hartmann and Zittartz (MHAF).42,45 They calculated the change of
+the value of _T_C when the concentration of Kondo impurities like Ce3+
+or Yb3+ increases. In our case, the Yb valence increases almost linearly
+with pressure (see Fig. 7). Here we consider that the increase in the Yb
+valence corresponds to an increase of the Yb3+ Kondo impurity
+concentration. Notably, MHZ theory predicts the decrease of _T_C is less
+pronounced as the concentration of Kondo impurities increase when _T_C
+≪_T_K where _T_K is the Kondo temperature.45 Indeed, this behavior has
+been observed for Th-U alloy.45,46 In contrast, the normal pair-breaking
+mechanism leads to a stronger suppression of _T_C at higher impurity
+concentrations.45 In YbGa11Si0.9, the valence of Yb is independent of
+temperature below room temperature,13 indicating that _T_K is much
+larger than room temperature;13,33 hence, the condition _T_C ≪_T_K is
+satisfied. Figure 7 shows that the decrease of _T_C is less pronounced
+in the high-pressure region. This is qualitatively consistent with the
+prediction of MHZ theory. For the reasons above, we believe that the
+pressure-induced increase of Kondo impurities is the most plausible
+reason for the rapid decrease of _T_C in YbGa11Si0.9. However, to
+quantitatively compare the data to theory, a systematic study, including
+specific heat under high pressure, etc., is necessary.
+
+It should also be mentioned that to date, the effect of the Kondo
+interaction in nonmagnetic superconductors has been investigated in
+doped systems, such as Lu1-_x_YbxNi2B2C. In these cases, the effect of
+randomness can also be involved. In the present case, applying pressure
+to YbGa11Si0.9 changes the Kondo interaction, but randomness in the Yb
+sublattice does not occur. Hence, YbGa11Si0.9 is a very rare example to
+precisely investigate the effect of Kondo interaction on
+superconductivity.
+
+Figure 7: Valence of Yb ions in YbGa11,1Si0.85 reported in Ref. [33] and
+superconducting transition temperatures _T_C normalized to the values of
+those at 1 atm T0 as a function of volume compressibility. Solid and
+open circles in the lower figure indicate normalized _T_C of YbGa11Si0.9
+and CaGaSi, respectively.
+
+## V Summary
+
+We have performed the electrical resistivity and x-ray diffraction
+measurements to investigate the pressure effect on superconductivity and
+AlB₂-type crystal structure of YbGa_(1.1)Si_(0.9) with T_(C) = 2.4 K and
+CaGaSi with T_(C) = 4.5 K. The negative pressure derivatives of T_(C)
+are observed at pressures up to about 2.5 GPa in both materials:
+dT_(C)/dP = −0.78 K/GPa for YbGa_(1.1)Si_(0.9) and −0.11 for CaGaSi.
+Both materials have similar bulk modulus values at pressures up to 3.5
+GPa, and neither material displays a structural transition in this
+pressure range. dlnT_(C)/dP and dlnT_(C)/dlnV of YbGa_(1.1)Si_(0.9) are
+approximately ten times greater than those of CaGaSi. It is inferred
+that the large dlnT_(C)/dlnV in YbGa_(1.1)Si_(0.9) is most likely
+attributed to the increased Yb valence with pressure. We postulate three
+possible mechanisms for the suppression of superconductivity induced by
+the increased Yb valence: (i) overdoping of carrier electrons, (ii)
+cooper-pair breaking by the magnetic Yb³⁺ moment, and (iii) effect of
+valence fluctuation. However, we anticipate that the effect of Yb
+valence fluctuations should be most influential on the rapid decrease of
+T_(C) by pressure.
+
+###### Acknowledgements.
+
+The authors thank Dr. Yamaoka of RIKEN for sharing data about the
+pressure dependence of valence in YbGa_(x)Si_(2 − x) prior to its
+publication. The present work was performed under proposal No. 2009G144
+of the Photon Factory, KEK. This research is partly supported by the
+Japan Society for the Promotion of Science (JSPS) through its "Funding
+Program for World-Leading Innovative R&D on Science and Technology
+(FIRST Program)".
+
+## References
+
+* [1] J. Nagamatsu, N. Nakagawa, T. Muranaka, Y. Zenitani, and J.
+Akimitsu, Nature (London) **410**, 63 (2001). * [2] M. Imai, E. Abe, J.
+Ye, K. Nishida, T. Kimura, K. Honma, H. Abe, and H. Kitazawa, Phys. Rev.
+Lett. **87**, 077003 (2001). * [3] M. Imai, K. Nishida, T. Kimura, and
+H. Abe, Appl. Phys. Lett. **80**, 1019 (2002). * [4] M. Imai, K.
+Nishida, T. Kimura, and H. Abe, Physica C **377**, 96 (2002). * [5] M.
+Imai, K. Nishida, T. Kimura, H. Kitazawa, H. Abe, H. Kito, and K.
+Yoshii, Physica C **382**, 361 (2002). * [6] H. Sagayama, Y.
+Wakabayashi, H. Sawa, T. Kamiyama, A. Hoshikawa, S. Harjo, K. Uozato, A.
+K. Ghosh, M. Tokunaga, and T. Tamegai, J. Phys. Soc. Dpn. **75**, 043713
+(2006). * [7] S. Kuroiwa, H. Sagayama, T. Kakiuchi, H. Sawa, Y. Noda,
+and J. Akimitsu, Phys. Rev. B **74**, 014517 (2006). * [8] B. Lorenz, J.
+Lenzi, J. Cmaidalka, R. L. Meng, Y. Y. Sun, Y. Y. Xue, and C. W. Chu,
+Physica C **383**, 191 (2002). * [9] R. L. Meng, B. Lorenz, J.
+Cmaidalka, Y. S. Wang, Y. Y. Sun, J. Lenzi, J. K. Meen, Y. Y. Xue, and
+C. W. Chu, IEEE Trans. Appl. Supercond. **13**, 3042 (2003). * [10] S.
+Yamanaka, T. Otsuki, T. Ide, H. Fukuoka, R. Kumashiro, T. Rachi, K.
+Tanigaki, F. Guo, and K. Kobatashi, Physica C **451**, 19 (2007). * [11]
+T. E. Weller, M. Ellerby, S. S. Saxena, R. P. Smith, and N. T. Skipper,
+Nat. Phys. **1**, 39 (2005). * [12] M. Imai, A. Sato, T. Aoyagi, T.
+Kimura, Y. Matsushita, and N. Tsujii, J. Am. Chem. Soc. **130**, 2886
+(2008). * [13] N. Tsujii, M. Imai, H. Yamaoka, I. Jarrige, H. Oohashi,
+T. Tochio, K. Hanada, J. Ide, H. Atsuta, Y. Ito, H. Yoshikawa, and H.
+Kitazawa, Chem. Mater. **22**, 4690 (2010). * [14] M. Imai, N. Tsujii,
+M. Tachibana, and S. Uji, Supercond. Sci. Technol. **24**, 055015
+(2011). * [15] T. Tamegai, K. Uzato, S. Kasahara, T. Nakagawa, and M.
+Tokunaga, Physica C **426-431**, 208 (2005). * [16] A. Fuse, G.
+Nakamoto, M. Kurisu, N. Ishimatsu, and H. Tanida, J. Alloys Compd.
+**376**, 34 (2004). * [17] C. Dallera, E. Annese, J.-P. Rueff, A.
+Palenzona, G. Vanko, L. Braicovich, A. Shukla, and M. Grioni, Phys. Rev.
+B **68**, 245114 (2003). * [18] E. Annese, J-P. Rueff, G. Vanko, M.
+Grioni, L. Braicovich, L. Degiorgi, R. Gusmeroli, and C. Dallera, Phys.
+Rev. B **70**, 075117 (2004). * [19] A. Fuse, G. Nakamoto, N. Ishimatsu,
+and M. Kurisu, J. Appl. Phys. **100**, 043712 (2006). * [20] H.
+Yamanoka, I. Jarrige, N. Tsujii, J.Fu Lin, N. Hiraoka, H. Ishii, and
+K.-D. Tsuei, Phys. Rev. B **82**, 035111 (2010). * [21] A. Ohmura, K.
+Fujimaki, M. Einaga, F. Ishikawa, A. Nakayama, Yuh Yamada, M. Imai, and
+N. Tsujii, J. Phys.: Conf. Ser. **215**, 012035 (2010). * [22] O.
+Shimomura, Physica B+C **139-140**, 292 (1986). * [23] T. Kikegawa, O.
+Shimomura, H. Iwasaki, S. Sato, A. Mikuni, A. Iida, and N. Kamiya, Rev.
+Sci. Instrum. **60**, 1527 (1989). * [24] D. L. Decker, J. Appl. Phys.
+**42**, 3239 (1971). * [25] F. F. Voronov, Sov. Phys. Dokl. **21**, 92
+(1976). * [26] J. Tang, L. C. Qin, A. Matsushita, Y. Takano, K. Togano,
+H. Kito, and H. Ihara, Phys. Rev. B **64**, 132509 (2001). * [27] L.
+Boeri, J. S. Kim, M. Giantomassi, F. S. Razavi, S. Kuroiwa, J. Akimitsu,
+and R. K. Kremer, Phys. Rev. B **77**, 144502 (2008). * [28] B. Lorenz,
+J. Cmaidalka, R. L. Meng, and C. W. Chu, Phys. Rev. B **68**, 014512
+(2003). * [29] R. P. Smith, A. Kusmartseva, Y. T. C. Ko, S. S. Saxena,
+A. Akrap, L. Forro, M. Laad, T. E. Weller, M. Ellerby, and N. T.
+Skipper, Phys. Rev. B **74**, 024505 (2006). * [30] G. Q. Huang, L. F.
+Chen, M. Liu, and D. Y. Xing, Phys. Rev. B **71**, 172506 (2005). * [31]
+J. S. Kim, L. Boeri, R. K. Kremer, and F. S. Razavi, Phys. Rev. B
+**74**, 214513 (2006). * [32] I. R. Shein, N. I. Medvedeva, and A. L.
+Ivanovskii, J. Phys. Condens. Matter **15**, L541 (2003). * [33] H.
+Yamaoka, I. Jarrige, N. Tsujii, M. Imai, J.-F. Lin, M. Matsunami, R.
+Eguchi, M. Arita, K. Shimada, H. Namatame, M. Taniguchi, M. Taguchi, N.
+Bena, H. Ohashi, N. Hiraoka, H. Ishii, and K.-D. Tsuei, Phys. Rev. B
+**83**, 104525 (2011). * [34] For example, P. G. de Gennes, in
+_Superconductivity of Metals and Alloys_ (Addison-Wesley, Reading,
+1989). * [35] T.-S. You, Y. Grin, and G. J. Miller, Inorg. Chem. **46**,
+8801 (2007). * [36] S. K. Dhar, R. Nagarajan, Z. Hossain, E. Tominez, C.
+Godart, L. C. Gupta, and R. Vijayaraghavan, Solid State Commun. **98**,
+985 (1996).
+
+* (37) A. Yatskar, N. K. Budraa, W. P. Beyermann, P. C. Canfield, and S.
+L. Bud’ko, Phys. Rev. B **54**, R3772 (1996). * (38) R. J. Cava, H.
+Takagi, H. W. Zandbergen, J. J. Krajewski, W. F. Peck Jr, T. Siegrist,
+B. Batlogg, R. B. Van Dover, R. J. Felder, K. Mizuhashi, J. O. Lee, H.
+Eisaki, and S. Uchida, Nature (London) **367**, 252 (1994). * (39) B. K.
+Cho, Ming Xu, P. C. Canfield, L. L. Miller, and D. C. Johnston, Phys.
+Rev. B **52**, 3676 (1995). * (40) S. L. Bud’ko, P. C. Canfield, A.
+Yatskar, and W. P. Beyermann, Physica B **230-232**, 859 (1997). * (41)
+B. K. Cho, P. C. Canfield, and D. C. Johnston, Phys. Rev. Lett. **77**,
+163 (1996). * (42) S. Li, M. C. De Andrade, E. J. Freeman, C. Sirvent,
+R. P. Dickey, A. Amann, N. A. Frederick, K. D. D. Rathnayaka, D. G.
+Naugle, S. L. Bud’ko, P. C. Canfield, W. P. Beyermann, and M. B. Maple,
+Philos. Mag. **86**, 3021 (2006). * (43) T. Ali, E. Bauer, G. Hilscher,
+and H. Michor, Phys. Rev. B **83**, 115131 (2011). * (44) T. Ali, E.
+Bauer, G. Hilscher, and H. Michor, Solid State Phenom. **170**, 165
+(2011). * (45) E. Muller-Hartmann and J. Zittartz, Phys. Rev. Lett.
+**26**, 428 (1971). * (46) M. B. Maple, J. G. Huber, B. R. Coles, and A.
+C. Lawson, J. Low Temp. Phys. **3**, 137 (1970).

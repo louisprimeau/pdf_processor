@@ -1,0 +1,339 @@
+
+
+# Relationship between the lattice parameter and superconductivity
+
+in the 2-1-4 series _n_-type cuprates
+
+Cong Wang
+
+National Laboratory for Superconductivity, Institute of Physics, and the Center of Condensed Matter Physics,
+
+Chinese Academy of Sciences, Beijing, 100080, People's Republic of China
+
+and Department of Physical Chemistry, University of Science and Technology Beijing, Beijing, 100083, People's Republic of China
+
+Cheng Dong
+
+National Laboratory for Superconductivity, Institute of Physics, and the Center of Condensed Matter Physics,
+
+Chinese Academy of Sciences, Beijing 100080, People's Republic of China
+
+Guangcan Che
+
+National Laboratory for Superconductivity, Institute of Physics, and the Center of Condensed Matter Physics,
+
+Chinese Academy of Sciences, Beijing 100080, People's Republic of China
+
+Zhiyu Qiao
+
+Department of Physical Chemistry, University of Science and Technology Beijing, Beijing, 100083, People's Republic of China
+
+Hong Chen
+
+National Laboratory for Superconductivity, Institute of Physics, and the Center of Condensed Matter Physics,
+
+Chinese Academy of Sciences, Beijing 100080, People's Republic of China
+
+Zhongxian Zhao
+
+National Laboratory for Superconductivity, Institute of Physics, and the Center of Condensed Matter Physics,
+
+Chinese Academy of Sciences, Beijing 100080, People's Republic of China
+
+22 July 1996
+
+###### Abstract
+
+The superconductivity of R_{2-x-1}La_{x}Ce_{x}CuO_{4-\delta} (R=Nd, Gd, y= 0, 0.2, 0.5, \ldots, 1.4. x=0.10, \ldots, 0.15, \ldots, 0.25) series are studied. The solubility limit of La^{3+} in Nd_{1.85-y}La_{y}Ce_{0.15}CuO_{4-\delta} is determined to be y_{\rm lim}=1.3, while the Ce-solubility limit increases to X_{\rm lim}=0.25 in Nd_{0.7-x}La_{1.3}Ce_{x}CuO_{4-\delta} with the maximum lattice parameter a = 3.995 A. The T_{\rm c}^{n} and the bulk superconducting fraction are found to decrease with increasing La content. However, the reduction of superconductivity induced by increasing lattice constant a can be compensated by a proper decrease of Ce content irrespective of the lattice parameter a up to 3.982 A. These results indicate that the lattice parameters are not directly related to the superconductivity. Actually, both the change of the a parameter and the Ce content x induce a variation in oxygen vacancies \delta and result in the change of the charge-carrier density. Taking these facts into account, we give a simplified formula to calculate the charge-carrier density n0 as n_{0}=x+ 2 \delta= x+ 2(_Aa_ + _Bx_ + C0). In order to keep an optimum charge-carrier density for superconductivity, the variations in oxygen vacancies induced by the change of lattice parameter a must be compensated by an appropriate decrease of Ce dopant. This implies that the a parameter, doping concentration, oxygen vacancy, and the charge-carrier density can be taken into unified consideration, in which the charge-carrier density is considered to be a determining factor for superconductivity. [S0163-1829(97)06106-7]
+
+## 1 Introduction
+
+In the lanthanide series of L_{2-x}Ce_{x}CuO_{4-\delta} compounds, _n_-type superconductivity is obtained for L = Pr, Nd, Sm, Eu, and diminishes up to L = Gd with L = La the only exception. All L_{2}CuO_{4-\delta} compounds have a distorted K_{2}NiF_{4} tetragonal structure, but the _p_-type superconductors have a T or _T_* structure, whereas the _n_-type superconductors have a _T_^{\prime} structure. The stabilization of such an intergrowth structure requires bond-length match across the intergrowth interface. The degree of bond-length match between the intergrowth layers is expressed generally in terms of the Goldschmidt tolerance factor:1
+
+Footnote 1: The _n_-type superconductivity is a consequence of the _n_-type superconductivity.
+
+\[t = (r_{\rm La^{3+}} + r_{\rm G^{2-}})/\sqrt{2}(r_{\rm Cu^{2+}} + r_{\rm G^{2-}}),\]
+
+where r_{\rm La^{3+}}, r_{\rm Cu^{2+}}, and r_{\rm G^{2-}} refer to room-temperature ionic radii. A deviation from unity of the t value produces a bond-length mismatch between the intergrowth layers and results in a buildup of internal stresses in the layers. For example,1 a room-temperature tolerance factor t = 0.87 in La_{2}CuO_{4} results in a compressive stress in the Cu-O bonds and a tensile stress in the La-O bonds. On the other hand, the direct electrostatic repulsion between the negatively charged O^{2-} ions of the fluorite _L_-O_{2}-_L_ layers in the L_{2}CuO_{4}T^{\prime} structure increases the lattice parameter a, which results in a tensile stress in the Cu-O bonds and a compressive stress in the _L_-O bonds. The presence of compressive vs tensile stress in the Cu-O bonds of the T and _T'_ structure determines the _p_- vs _n_-type doping. So, the lattice parameter a of the _T'_ structure is longer than that of the T structure. Whangbo _et al.2_ have shown that the Cu-O bonds have antibonding character in the CuO_{2} layer _x_^{2-}y^{2} bands. The substitution of La^{3+} by Sr^{2+} corresponds to adding a hole or equivalently removing an electron from the _x_^{2-}y^{2} bands. Thus, the removal of an electron from the antibonding band orbit would shorten the in-plane Cu-O bonds. In contrast, the Ce doping corresponds to adding electrons into the antibonding band orbit and thereby lengthening the in-plane Cu-O bond. Therefore, the variation of the lattice parameters is quite consistent with the fact that the T phase is doped by holes with a shortened a (_p_ type) and the _T'_ phase is doped by electron with a lengthened a (_n_ type).
+
+ On the other hand, in the lanthanide series of L2-xCe_CuO4, from L = La3+ to Gd3+, the lattice constants of the tetragonal cell gradually decrease and Gd2-xCe_CuO4 ceases to be a superconductor. This leads to a hypothesis that sufficiently small in-plane Cu-O bonds inhibit electron-doped superconductivity. The compounds with _r__L_3+  _r_Gd3+ fail to superconduct because the lattice spacing is too small to introduce electrons into the antibonding band orbit in CuO2 plane. Kuklewicz and Markert5 reported the steric effects on superconductivity in (Nd1-yYy2-xCe_xCuO4-_d_ and found that lattice constants were reduced as more yttrium was substituted, and superconductivity was diminished when the lattice spacing decreased to nearly the same size (_a_ = 3.923 A when y = 0.3) as that of Gd2-xCe_xCuO4-_d_ (_a_ = 3.902 A when x = 0.15). This seems to indicate that a small lattice spacing was the primary reason for the failure of Gd2-xCe_xCuO4-_d_ to be a superconductor in literature.3 Wang _et al._4 reported on the R1.8S-x_,_R_'_M_'0.15CuO2 (_R_ = Nd, Eu, _R_'_ = La, Y, M = Ce, Th, z = 4) series and thought that the a parameter for the optimum T_{c} (T_{c} = 25 K) for the lanthanum Ce-doped samples is between 3.945 and 3.955 A. A dramatic decrease in T_{c} was observed when the lattice parameter a became either >= 3.96 A or <= 3.94 A, and in the Nd1.8S-x_'_Y_'_Ce0.15CuO4-_d_ series, superconductivity was observed only for a>= 3.94 A. Therefore, they concluded that there is an optimum bond length (1.888 and 1.95 A) for the maximum T_{c} in the La-Sr-Cu-O system and Nd-Ce-Cu-O system, respectively. Literature5 reports that the substitution of a nonmagnetic Y for R in (_R_1-_R_'_1).18SCe0.15CuO4 (_R_ = Pr, Nd, Sm, Eu, _R_'_ = Gd, Y) has a stronger effect on the suppression of T_{c} than the substitution with magnetic Gd, suggesting that the effect of ionic size plays a much more important role than the magnetic pair breaking. They also considered that the suppression of superconductivity in (_R_1-_T_x_'_1).18SCe0.15CuO4 (_R_ = Pr, Nd, Sm, Eu) was strongly related to the structural distortion/instability and the value of x_{c} for the maximum T_{c} depended on the ionic size of R and was close to their solubility limit in those corresponding compounds. Michihito Muroi6 investigated the whole _p_-type superconducting cuprates and thought that T_{c} increases either with the decrease of V_{M} or with the decrease of d_{p} , in which d_{p} is the Cu-O bond length within the CuO2 plane and V_{M} is the difference between the Madelung site potential for a hole on a Cu site and that on an O site.
+
+In summary, many authors considered that the Cu-O bond length in the CuO2 plane is very important or crucial to induce superconductivity. Nevertheless, in spite of these suggestions mentioned above, there are still some controversies. So (Nd,La,Ce)-Cu-O, (Gd,La,Ce)-Cu-O and related compounds are studied to determine whether the steric effect is the truly main factor for superconductivity. Based on our experimental results, we suggest that the steric effect is not the main reason in nature for the great influence on superconductivity, and that the charge-carrier density might be a more fundamental factor.
+
+## II Experiment
+
+Our samples were prepared by a solid-state reaction using the related oxides as the starting materials. The mixtures were repeatly ground with an Agate mortar, sintered in a box furnace at 1000 degC in air, and finally pelletized into thin sheets. After the procedure was repeated 3-4 times, these samples were sintered at a temperature of 1050 degC for 24 h in a box furnace in air, followed by sintering at 1050 degC for 12 h in a tube furnace containing slowly flowing dry N2 to reduce the samples. The rates of rising and lowering furnace temperature were 2 and 4 degC/min, respectively.
+
+X-ray-diffraction analysis was performed on a M18AHF x-ray diffractometer with Cu K_a_ radiation (50 kV x 200 mA). High-purity Si was added to the samples as an internal standard to correct the 2_th_ position of diffraction peaks.
+
+The magnetic susceptibility and electrical resistance are measured by a superconducting quantum interference device (SQUID) and the standard four-probe technique, respectively. The superconducting critical temperature is measured down to 4.2 K.
+
+## III Results and Discussion
+
+### Effects of lattice parameter variation
+
+The samples of Nd2-_x_-_x_,La,Ce,CuO4-_d_ (_y_ = 0, 0.2, 0.5, 0.7, 0.9, 0.95, 1.0, 1.1, 1.2, 1.3, 1.4, x = 0.12, 0.15, 0.17, 0.20, 0.25) series are first prepared. The pure T_{c} phase can be obtained up to y = 1.3. Therefore, the solubility limit of La3+ in Nd1.8S-_y_,La,Ce0.15CuO4-_d_ is _y_lim = 1.3 with the lattice parameter a = 3.994 A. On the other hand, the Ce solubility limit increases to _X_lim=0.25 in Nd0.7-_La,1.3Ce,CuO4-_d_ with the maximum lattice parameter a = 3.995 A as shown in Table I. Figure 1 gives the variations of the lattice parameters a, c, V with increasing La content. It can be seen that the lattice parameters a, c, V increase linearly with increasing La content up to y = 1.3. The ratio of _D_a_/D_y_ is approximatly 2.6%. The ratio of _c_/_a_ increases with increasing La content and decreases with increasing Ce content between 3.05 and 3.09. Manthiram8 considered that the larger the size of L3+ in the L2CuO 4 series, the easier it is to stretch the Cu-O bonds by the addition of antibonding electrons into the CuO2 sheets. Therefore, as the size of L3+ increases from L = Nd to L = Nd0.7-_x_La1.3, the extent to which the Cu-O bonds can be stretched by the substitution of Ce4+ for L3+ increases, i.e., the solubility of Ce increases with increasing size of L3+ or the a parameter. In the Nd2-_x_LaCuO4-_d_ series, literature78 reported that the T_{c} structure remained only when x  0.8-0.9. However, the doping of Ce4+ improved the stability of the _T__c_+ structure and increased the solubility of La3+ in the Nd2-_x_-_x_,La,YCe,CuO4-_d_ T_{c} structure from y = 0.8 to y = 1.2-1.3,1 vice versa, the doping of La3+ improved the solubility of Ce4+ in the _T__c_+ structure from _X_lim=0.15 when L = Gd to _X_lim=0.25 when L = Nd0.45La1.3. Zhu and Manthiram1 improved the Ce solubility limit to _x_lim=0.25 in Nd0.45La1.3Ce0.25CuO4-_d_ which was considered to be the maximum Ce solubility and the longest a parameter (3.993 A) that one can achieve in the _T__c_+ structure.
+
+The _T__c_+ and the bulk superconducting contents are found to decrease with increasing La content by the measurement of SQUID for Nd1.8S-_y_,La,Ce0.15CuO4-_d_, whereas the _T__c_+ remains constant by the standard four-probe resistant technique, as is shown in Table I. We know that the four-probe  resistance measurement might give a surface or filamentary effect of superconductivity and the measurement of SQUID means a bulk effect of superconductivity. The samples of Nd1.85-,La3Ce0.15CuO4-_d_ maybe contain a little amount of the Nd1.85Ce0.15CuO4-_d_ contents, and so remain superconducting with T_{c}^{\rm on}=26 K but cannot reach zero resistance. As an example, the curve of _r_-_T_ and the signal of ac magnetic susceptibility for Nd1.15La0.7Ce0.15CuO4-_d_ is given in Fig. 2. On the other hand, the measurement of SQUID truly reflects the bulk superconductivity of Nd1.85-,La3Ce0.15CuO4-_d_. Then, could we make a conclusion that the lattice parameters are the crucial factor for superconductivity? This has been broadly emphasized in many papers.[3, 5, 6] However, when the Ce content is decreased from x = 0.15 to x = 0.10 in Nd0.9-,La1.1Ce3CuO4-_d_, the optimum T_{c} is found to be recovered again with T_{c}=23 K and a superconducting fraction of 23.5% by the SQUID measurement in a field of 10 G s as seen in Fig. 3. Similar results have been reported by others.[1] In other words, the superconductivity with a superconducting fraction of 23.5% and T_{c}^{\rm on}=23 K is found in the Nd0.8La1.1Ce0.15CuO4-_d_ sample with the lattice parameters a = 3.982 A, c = 12.317 A. This indicates that the same superconductivity with different lattice parameters can be achieved in Nd1.85Ce0.15CuO4-_d_ and Nd0.8La1.1Ce0.10CuO4-_d_ as is shown in Table II for a comparison.
+
+Why does the same superconductivity exist in Nd0.8La1.1Ce0.10CuO4-_d_ as in Nd1.85La0.15CuO4-_d_, but not in Nd0.75La1.1Ce0.15CuO4-_d_? In other words, with the radii of L^{3+} ion or a parameter increasing, the optimum Ce content for the superconductivity in Nd0.9-,La1.1Ce3CuO4-_d_ decreases irrespective of the increase of the Ce solubility. This means that the superconductivity is not closely related to the relief of the internal stress, moreover, it is opposite to it. Manthiram[8] considered that as the Cu-O bond length in the undoped L_{2}CuO4 decreased from LaNdCuO4 to Gd2CuO4, a large amount of Ce content is necessary to decrease E_{M}-E_{I} to the critical limit E_{M}=E_{I} that can give a critical cowalcee \lambda_{c} in the CuO2 sheets and induce superconductivity, in which the E_{M} is the electrostatic Madelung energy gained by allowing the point charges Cu2+ and O2- to order themselves in a crystalline lattice, and E_{i} is the total energy required to transfer an electron from a Cu+ ion to an O- ion at infinite separation. Finally, they concluded that the change of Ce content for T_{c}^{\rm max} is only for shortening or lengthening the a parameter so as to adjust E_{M} to a proper
+
+Figure 1: Variations of the lattice parameters a, c, V with increasing La content in Nd1.85–,La3Ce0.15CuO4-_δ_.
+
+  value. But, why is the change of the a parameter by only changing La content not enough to adjust E_{M} or l_{c} (_l_ = _b__c  L_{2-x}Ce_{x}CuO_{4+\delta} was an essential factor to achieve superconductivity, as has been broadly suggested in the literature.[10, 11] Likewise, for La-series _p_-type superconductors, La_{2}CuO_{4} is not superconducting, but the system of La_{2}CuO_{4+\delta} is a single phase superconductor for 0.05<\delta = 0.09,[9]^{,}[12] with _T__{c} above 30 K by annealing powders or single crystals at high oxygen pressure.[13] As we know, in _R_Ba_{2}Cu_{3}O_{7-\delta}, the superconductivity is independent of _R_^{3+} except for Pr^{3+}, but closely depends on \delta. The critical temperature _T__{c} in _R_Ba_{2}Cu_{3}O_{7-\delta} is strongly dependent on the sample history as well as oxygen content.[7, 8, 14, 15, 16] In addition, many authors[13, 12] have shown that the physical properties are extremely sensitive to \ll1% change in the oxygen content. For example, resistivity, Neel temperature (_T__{N}), the Cu-Cu exchange coupling, and the transition temperature (_T__{0}) from the tetragonal to orthorhombic structure all increase with decreasing oxygen content. A consistent interpretation of these facts is that the oxygen stoichiometry is always richer than that corresponding to a Mott-Hubbard insulator with an exactly half-filled band.[13] All suggestions apparently emphasized the important role of oxygen content, oxygen valence state or copper valence state on superconductivity. We know that _n_-type superconductivity can be greatly influenced by four important conditions as described below: (i) necessary annealing process in an inert atmosphere; (ii) the change of annealing temperature; (iii) a certain amount of Ce (Th) doping; (iv) variation of lattice parameter a.
+
+All four factors are found to be closely correlated with the oxygen content. Annealing of L_{2-x}Ce_{x}CuO_{4-\delta} in an inert atmosphere at a certain temperature range is essential to induce the superconductivity. Wang _et al.[4]_ concluded that the role of the nitrogen treatment is twofold: (i) to remove extra oxygen (either "apical" or fluorite type) within the structure and (ii) to increase the number of carriers (electrons) through the reduction of Cu^{2+} to Cu^{1+}. In addition, three types of oxygen (oxygen in the CuO_{2} plane, fluorite type, and apical _4d_ sites) were considered to exist in the Nd_{2-x}Ce_{x}CuO_{4-\delta} compounds, but we cannot presently distinguish between these two possibilities (apical versus fluorite-type oxygen) and only further neutron work may resolve this issue. They[4] also considered that a critical parameter which affects _T__{c} in the _T_^{\prime} phase was the oxygen content. In summary, the superconducting properties can be varied by changing the oxygen content (thereby the Cu oxidation state) through processing conditions.[4]
+
+Regarding the Nd-La-Ce-Cu-O series, Zhu and Manthiram[1] reported that the synthesis of Nd_{2-x-y}La_{x}Ce_{x}CuO_{4-\delta} for 0\leq y \leq 1.0 had also enabled them to monitor the variation of oxygen content by changing the size of L^{3+} for a fixed Ce content x = 0.12 and a given N_{2}-annealing temperature (950 ^{\circ}C). They[1] give the variation of oxygen vacancies with the lattice parameter a, so this may be linearly fitted as:
+
+\[\delta_{a} = 0.31a - 1.20.\]
+
+This means that the change of oxygen vacancies D_d_ is proportional to the change of lattice parameter D_a_ by the ratio of 0.3 as a first-order approximation.
+
+On the other hand, a quite interesting result is that the \delta increased with decreasing Ce-doped content. This implies that the insertion of Ce reduces the ability of these materials to change reversibly oxygen stoichiometry. Independent of the Ce content, the oxygen content in the as-grown material was always greater than four. Upon nitrogen reduction, the extra oxygen (occupying the 4d position, i.e., apical position) and fluorite-type oxygen were partially removed and became superconducting. So both annealing in N_{2} and Ce doping are necessary for superconductivity and are correlated with the gain or loss of oxygen content in _n_-type superconductors, i.e., formation of the oxygen vacancies.[4] For a certain L^{3+} ion and a given N_{2}-annealing temperature, the total oxygen content increases with increasing Ce content. Using the data in LaNd_{1-x}Ce_{x}CuO_{4-\delta} from Ref. 1, we can obtain the following formula by linear fitting:
+
+\[\delta_{x} = - 0.33x + 0.05.\]
+
+Equations (1) and (2) give us a clear expression of the correlations between oxygen vacancy \delta, Ce-doped content x, and lattice parameter a, although these expressions are only first-order approximations. The change of a parameter and Ce doping all independently induce the change of oxygen vacancies and change the charge-carrier density. For our samples of Nd_{2-x-y}La_{y}Ce_{x}CuO_{4-\delta}, the charge-carrier density is improved by increasing the lattice parameter and also by decreasing the Ce content through increasing the oxygen vacancies. For this reason, it may be necessary to reduce the Ce content so as to keep the carrier density to an optimum value for superconductivity.
+
+### Charge-carrier density--one of the determining factors for superconductivity
+
+As we know, for the L_{2-x}Ce_{x}CuO_{4-\delta} series, the substitution of one Ce^{4+} ion for one L^{3+} ion can give one extra electron as the conducting charge carrier, and the creation of one oxygen vacancy can give equivalently two electrons. So, the charge-carrier density can be written as: n = x + 2 \delta, where x is the Ce-doped mole concentration and \delta is the oxygen vacancy density. Meantime, the \delta is determined by  two factors: the Ce doping and a parameter in our experimental conditions. So, Eqs. (1) and (2) are introduced into the n formula:
+
+\[n = x + 2\left( {\delta_{a} + \delta_{s}} \right)\] \[= x + 2\left( {0.3a - 1.0} \right) + 2\left( {- 0.33x + 0.05} \right)\] \[= 0.34x + 0.62a - 2.30\]
+
+then,
+
+\[\Delta n = 0.34\Delta x + 0.62\Delta a.\]
+
+We assume that the charge-carrier density has an optimum constant n0 for the optimum superconductivity, i.e., to keep D_n_(_n_=_n_0) = 0. So, we obtain that
+
+\[\Delta x/\Delta a \approx - 0.62/0.34 \approx - 1.82\left( {\text{mol}/\text{\AA}} \right).\]
+
+This means that the increase of the a parameter induces the increase of oxygen vacancies and thus increases the charge-carrier density. In order to keep the charge-carrier density unchanged for the optimum superconductivity, the optimum Ce content must be decreased by the ratio of '- 1.83" to reduce the charge-carrier density. In other words, the charge-carrier density is intrinsically crucial to the superconductivity, which is jointly affected by the variations of the a parameter and Ce doping by changing the oxygen vacancies and adding electrons.
+
+If this conclusion is common, we can derive from Eq. (3) that the Ce content in Nd2-xCe4CuO4-_d_ is x = 0.15 for the optimum superconductivity with a = 3.955 A, and then, the Ce content in Nd0.9-_x_La1.1Ce4CuO4-_d_ should be x = 0.10 with a ~ 3.983 A, which is very consistent with our results as seen in Table II. Therefore, a conclusion is made: the change of the a parameter can result in a change of oxygen vacancies and change the charge-carrier density, the optimum superconductivity can be obtained again as long as the adjustment to Ce content properly compensates the change of charge-carrier density. Goldschmidt _et al._[17] also pointed out that the magnitude of the lattice parameter had no direct effect on _T_c which becomes more evident when comparing samples having the same _T_c but with different lattice parameters. This suggests that the changes in _T_c and the variation in lattice parameters that occur concurrently under pressure are not directly related to one another. Also, Zhu and Manthiram [1] finally concluded that the apparent increase in the value of _x_c (the Ce content in L2-_x_Ce4CuO4-_d_ for the best superconductivity) with decreasing L3+ ion size was due to the decreasing number of oxygen vacancies and that the influence of Madelung energy or charge-transfer gap D was less significant in determining the critical amount of doping necessary to induce a transition from antiferromagnetic semiconductor to superconductor.
+
+To testify further the relationship between the lattice parameter a and the doped Ce content, samples of the Nd2-_x_-La3Ce4CuO4-_d_ series are prepared as ascribed in Table III. The measurements of electrical resistance and magnetic susceptibility indicate a good and similar superconductivity. Figure 4 gives the curve of _r_-_T_ and the ac magnetic susceptibility signal for Nd1.28La0.6Ce0.12CuO4-_d_, for instance. The same _T_c are obtained but the lattice parameters change from 3.95 to 3.98 A, which further testifies that the critical temperature _T_c is not directly related to the a parameter, and the decrease of Ce content can recover the damage of superconductivity induced by the increasing a parameter. Figure 5 gives the relation between a parameter and Ce content by the ratio of -2.03 for keeping the unchanging optimum superconductivity. These results have little difference from '- 1.8 ratio,' which is obtained only from Nd2-_y_-0.12La3Ce0.12CuO4.1 The exact ratio needs more common experimental data.
+
+Furthermore, we extrapolate the conclusion to a smaller L3+ ion than Nd3+ in L2-_x_Ce4CuO4-_d_. For example, the samples of the Nd2-_x_-Y YCe2CuO4-_d_ series are prepared with the fixed sample-prepared procedure. Kuklewicz and
+
+Figure 4: The curves of _r_-_T_ and the ac magnetic susceptibility signal for Nd1.28La0.6Ce0.12CuO4.
+
+  Markert3 reported that Nd1.85-yY,Ce0.15CuO4-_d_d_ based to be superconducting as the lattice parameter a decreased to 3.925 A when y = 0.555. Could we recover its superconductivity by adding the Ce content according to the -1.8 ratio? We prepared the samples of the Nd1.445-_x_Y_0.555Ce_x_CuO4-_d_ based on (_x_ = 0.18, 0.20) series and found that it fails to recover its superconductivity. This may be due to the smaller Ce solubility limit (<0.15) which cannot dope enough Ce content in this system.
+
+### Attempting superconductivity in Gd2-_x_-_y_La_y_Ce_x_CuO4-_d_
+
+On the other hand, Kuklewicz and Markert3 considered that the Gd1.85Ce0.15CuO4-_d_ samples failed to be a superconductor due to steric effects, which resulted in an insufficient electron concentration or apical-oxygen-induced electron localization. In addition, Zhu and Manthiram1 suggested that the smaller Gd3+ ion limited the Ce solubility to _X_lim = 0.15. The electron concentration n = 0.15 at _x_lim = 0.15, was much less than the n_{c} value of 0.175 +- 0.005 required to induce superconductivity. Although n can further be increased in other systems with large L3+ ions via the creation of oxygen vacancies, such a mechanism does not seem to work with the smaller L = Gd. A stronger bonding between smaller Gd3+ and O2- ions and a nearly complete relief of the internal stresses near the Ce solubility limit _x_lim = 0.15 in Gd1.85Ce0.15CuO4-_d_ have it difficult to create oxygen vacancies in the compound.1 Mathiram8 suggested that probably it would become a superconductor if one could increase the solubility limit of Ce in Gd2-_x_Ce_x_CuO4-_d_ beyond 0.15. Also according to our result of the -1.8 ratio, the Ce content for the best superconductivity should be more than x = 0.15 in Gd2-_x_Ce_x_CuO4-_d_ because the size of Gd3+ ion is smaller than that of Nd3+, but the x = 0.15 in Gd2-_x_Ce_x_CuO4-_d_ is the highest Ce solubility limit. Therefore, we try to lengthen the lattice parameter a to induce more Ce content or oxygen vacancies into Gd2-_x_Ce_x_CuO4 by the substitution of La3+ for Gd3+, i.e., Gd2-_x_La_y_Ce_x_CuO4-_d_ samples are prepared. Table 4 and Fig. 6 give the results of the composition and lattice parameters of Gd2-_x_-_x_La_y_Ce_x_CuO4-_d_ samples.
+
+The lattice parameters a, c increase linearly with increasing La content with the ratio (A/mole) of 5.8 and 35.4 %, respectively. Unfortunately, superconductivity is not found in the Gd-containing series. In other words, this also testifies that the lattice parameters a, c are not the crucial factor to induce superconductivity, because the a = 3.957 A, c = 12.130 A in Gd0.85LaCe0.15CuO4-_d_ is the same as that of Nd1.85Ce0.15CuO4-_d_. In addition, we change the Ce content from x = 0.12 to x = 0.17, 0.19, 0.20 and find that the a parameter increases and the c parameter decreases with increasing Ce content, which means that the increasing of Ce
+
+\begin{table}
+\begin{tabular}{c c c c c c} x & y & a (Å) & c (Å) & V (Å3) & _c/a_ \\
+0.15 & 0.3 & 3.9194(3) & 11.917(1) & 183.06 & 3.0408 \\
+0.15 & 0.5 & 3.9295(8) & 11.974(3) & 184.89 & 3.0476 \\
+0.15 & 0.8 & 3.9435(8) & 12.063(3) & 187.59 & 3.0593 \\
+0.15 & 0.9 & 3.9558(7) & 12.117(3) & 1  content does introduce antibonding electrons into the CuO_{2} plane, but still does not find any superconductivity. Maybe the N_{2}-annealing temperature is too high (1050 ^{\circ}C) to induce superconductivity. So, we prepare again the Gd_{0.88}LaCe_{0.12}CuO_{4-\delta} and Gd_{0.83}LaCe_{0.17}CuO_{4-\delta} samples with a N_{2}-annealing temperature of 800 ^{\circ}C, but no superconductivity is observed. Why is there such a big difference in superconductivity between Gd_{0.85}LaCe_{0.15}CuO_{4-\delta} and Nd_{0.85}LaCe_{0.15}CuO_{4-\delta}? Are there other important factors for inducing superconductivity between Gd^{3+} and Nd^{3+} except for the difference of ion radii? As to the influence of the magnet in Gd^{3+} on superconductivity, many authors [3, 10, 13] had negated the opinion. More recently, Braden and co-workers [18, 19] reported that a long-range lattice deformation characterized by the rotation of the CuO_{2} squares around the c axis was observed in Gd_{2}CuO_{4} and (Nd_{1-x}Tb_{x})_{1.85}Ce_{0.15}CuO_{4} by neutron-diffraction structural analysis. They suggested that this structural distortion might help to explain the nonexistence of superconductivity in Gd_{2-x}Ce_{x}CuO_{4}. This needs further experiment to clarify the problem, especially, whether there does exist the same structural distortion in Gd_{1-x}LaCe_{x}CuO_{4-\delta}.
+
+In summary, superconductivity in the cuprate oxides is not directly or intrinsically correlated with the lattice parameters a. The charge-carrier density is one of the crucial factors that influences intrinsically the superconductivity. Of course, Gd_{2-x}Ce_{x}CuO_{4} fails to be a superconductor perhaps because the CuO_{2} planes are not integrated according to Refs. [18] and [19].
+
+## IV Conclusion
+
+The superconductivity of the R_{2-x-y}La_{y}Ce_{x}CuO_{4-\delta} (R = Nd, Gd, y = 0, 0.2, 0.5, \ldots, 1.4. x = 0.10,\ldots, 0.15, \ldots, 0.25) series are studied and the solubility limit of La^{3+} in Nd_{1.85-y}La_{y}Ce_{0.15}CuO_{4-\delta} is y_{\rm lim}=1.3 with the maximum lattice parameter a = 3.994 A. The Ce solubility limit increases to X_{\rm lim}=0.25 in Nd_{0.7-x}La_{y}Ce_{x}CuO_{4-\delta} with the maximum lattice parameter a = 3.995 A. The T_{c}^{\rm on} and the bulk superconducting content are found to decrease with increasing La content. However, the reduction of superconductivity caused by the increase of lattice constant a (up to 3.982 A) can be compensated by the decrease of Ce content by a certain ratio.
+
+The lattice parameters are not directly and intrinsically related to the superconductivity. The charge-carrier density is suggested to be intrinsically the crucial factor for superconductivity. The effects of lattice parameter and oxygen vacancy on superconductivity are made through changing the charge-carrier density. The influence of lattice parameter and Ce doping on superconductivity can be compensated by each other.
+
+Gd_{0.85}LaCe_{0.15}CuO_{4-\delta} is prepared with the lattice parameters of a = 3.957 A, c = 12.130 A, which are the same as that of Nd_{0.85}Ce_{0.15}CuO_{4-\delta}. But it fails to superconduct which further indicates that the a parameter is not intrinsically the crucial factor for its superconductivity. In addition, no superconductivity is found with the change of Ce content and sintering temperature in Gd_{1-x}LaCe_{x}CuO_{4-\delta}.
+
+## References
+
+* [1] Y.T. Zhu and A. Manthiram, Phys. Rev. B **49**, 6293 (1994).
+* [2] M.-H. Whangbo, M. Evain, M. Beno, and J.M. Williams, Inorg. Chem. **26**, 1829 (1987).
+* [3] C.E. Kuklewicz and J.T. Markert, Physica C **253**, 308 (1995).
+* [4] E. Wang, J.-M. Tarascon, L.H. Greene, G.W. Hull, and W.R. McKinnon, Phys. Rev. B **41**, 6582 (1990).
+* [5] T.M. Meen, H.D. Yang, W.J. Huang, Y.C. Chen, W.H. Lee, J.H. Shieh, and H.C. Ku, Physica C **260**, 117 (1996).
+* [6] Michihito Muroi, Physica C **219**, 129 (1994).
+* [7] A. Manthiram and J.B. Goodenough, J. Solid State Chem. **92**, 231 (1991).
+* [8] A. Manthiram, J. Solid State Chem. **100**, 383 (1992).
+* [9] J.-S. Zhou, J. Chan, and J.B. Goodenough, Phys. Rev. B **47**, 5477 (1993).
+* [10] R.L. Fuller, K.V. Ramanujachary, and M. Greenblatt, Mater. Res. Bull. **27**, 205 (1992).
+* [11] E. Takayama-Muromachi, F. Izumi, Y. Uchida, K. Kato, and H. Asano, Physica C **159**, 634 (1989).
+* [12] J.B. Goodenough, J.-S. Zhou, and J. Chan, Phys. Rev. B **47**, 5275 (1993).
+* [13] S-W. Cheong, J.D. Thompson, and Z. Fisk, Physica C **158**, 109 (1989).
+* [14] R.D. Shannon, Acta Crystallogr. A **32**, 751 (1976).
+* [15] A. Manthiram and J.B. Goodenough, J. Solid State Chem. **87**, 402 (1990).
+* [16] Y.K. Tao, M. Bonvalot, Y.Y. Sun, R.L. Meng, P.H. Hor, and C.W. Chu, Physica C **165**, 13 (1990).
+* [17] D. Goldschmidt, A. Knizhnik, Y. Direktovitch, G.M. Reisner, and Y. Eckstein, Phys. Rev. B **52**, 12 982 (1995).
+* [18] M. Braden, W. Paulus, A. Cousson, P. Vigoureux, G. Heger, A. Goukassov, P. Bourges, and D. Petitgrand, Europhys Lett. **25**, 625 (1994).
+* [19] M. Braden, P. Adelmann, P. Schweiss, and T. Woisczyk, Phys. Rev. B **53**, R2975 (1996).
+
+ 
+
+# Relationship between the lattice parameter and superconductivity
+
+in the 2-1-4 series _n_-type cuprates
+
+Cong Wang
+
+National Laboratory for Superconductivity, Institute of Physics, and the Center of Condensed Matter Physics,
+
+Chinese Academy of Sciences, Beijing, 100080, People's Republic of China
+
+and Department of Physical Chemistry, University of Science and Technology Beijing, Beijing, 100083, People's Republic of China
+
+Cheng Dong
+
+National Laboratory for Superconductivity, Institute of Physics, and the Center of Condensed Matter Physics,
+
+Chinese Academy of Sciences, Beijing 100080, People's Republic of China
+
+Guangcan Che
+
+National Laboratory for Superconductivity, Institute of Physics, and the Center of Condensed Matter Physics,
+
+Chinese Academy of Sciences, Beijing 100080, People's Republic of China
+
+Zhiyu Qiao
+
+Department of Physical Chemistry, University of Science and Technology Beijing, Beijing, 100083, People's Republic of China
+
+Hong Chen
+
+National Laboratory for Superconductivity, Institute of Physics, and the Center of Condensed Matter Physics,
+
+Chinese Academy of Sciences, Beijing 100080, People's Republic of China
+
+Zhongxian Zhao
+
+National Laboratory for Superconductivity, Institute of Physics, and the Center of Condensed Matter Physics,
+
+Chinese Academy of Sciences, Beijing 100080, People's Republic of China
+
+22 July 1996
+
+###### Abstract
+
+The superconductivity of R_{2-x-1}La_{x}Ce_{x}CuO_{4-\delta} (R=Nd, Gd, y= 0, 0.2, 0.5, \ldots, 1.4. x=0.10, \ldots, 0.15, \ldots, 0.25) series are studied. The solubility limit of La^{3+} in Nd_{1.85-y}La_{y}Ce_{0.15}CuO_{4-\delta} is determined to be y_{\rm lim}=1.3, while the Ce-solubility limit increases to X_{\rm lim}=0.25 in Nd_{0.7-x}La_{1.3}Ce_{x}CuO_{4-\delta} with the maximum lattice parameter a = 3.995 A. The T_{\rm c}^{n} and the bulk superconducting fraction are found to decrease with increasing La content. However, the reduction of superconductivity induced by increasing lattice constant a can be compensated by a proper decrease of Ce content irrespective of the lattice parameter a up to 3.982 A. These results indicate that the lattice parameters are not directly related to the superconductivity. Actually, both the change of the a parameter and the Ce content x induce a variation in oxygen vacancies \delta and result in the change of the charge-carrier density. Taking these facts into account, we give a simplified formula to calculate the charge-carrier density n0 as n_{0}=x+ 2 \delta= x+ 2(_Aa_ + _Bx_ + C0). In order to keep an optimum charge-carrier density for superconductivity, the variations in oxygen vacancies induced by the change of lattice parameter a must be compensated by an appropriate decrease of Ce dopant. This implies that the a parameter, doping concentration, oxygen vacancy, and the charge-carrier density can be taken into unified consideration, in which the charge-carrier density is considered to be a determining factor for superconductivity. [S0163-1829(97)06106-7]
+
+## 1 Introduction
+
+In the lanthanide series of L_{2-x}Ce_{x}CuO_{4-\delta} compounds, _n_-type superconductivity is obtained for L = Pr, Nd, Sm, Eu, and diminishes up to L = Gd with L = La the only exception. All L_{2}CuO_{4-\delta} compounds have a distorted K_{2}NiF_{4} tetragonal structure, but the _p_-type superconductors have a T or _T_* structure, whereas the _n_-type superconductors have a _T_^{\prime} structure. The stabilization of such an intergrowth structure requires bond-length match across the intergrowth interface. The degree of bond-length match between the intergrowth layers is expressed generally in terms of the Goldschmidt tolerance factor:1
+
+Footnote 1: The _n_-type superconductivity is a consequence of the _n_-type superconductivity.
+
+\[t = (r_{\rm La^{3+}} + r_{\rm G^{2-}})/\sqrt{2}(r_{\rm Cu^{2+}} + r_{\rm G^{2-}}),\]
+
+where r_{\rm La^{3+}}, r_{\rm Cu^{2+}}, and r_{\rm G^{2-}} refer to room-temperature ionic radii. A deviation from unity of the t value produces a bond-length mismatch between the intergrowth layers and results in a buildup of internal stresses in the layers. For example,1 a room-temperature tolerance factor t = 0.87 in La_{2}CuO_{4} results in a compressive stress in the Cu-O bonds and a tensile stress in the La-O bonds. On the other hand, the direct electrostatic repulsion between the negatively charged O^{2-} ions of the fluorite _L_-O_{2}-_L_ layers in the L_{2}CuO_{4}T^{\prime} structure increases the lattice parameter a, which results in a tensile stress in the Cu-O bonds and a compressive stress in the _L_-O bonds. The presence of compressive vs tensile stress in the Cu-O bonds of the T and _T'_ structure determines the _p_- vs _n_-type doping. So, the lattice parameter a of the _T'_ structure is longer than that of the T structure. Whangbo _et al.2_ have shown that the Cu-O bonds have antibonding character in the CuO_{2} layer _x_^{2-}y^{2} bands. The substitution of La^{3+} by Sr^{2+} corresponds to adding a hole or equivalently removing an electron from the _x_^{2-}y^{2} bands. Thus, the removal of an electron from the antibonding band orbit would shorten the in-plane Cu-O bonds. In contrast, the Ce doping corresponds to adding electrons into the antibonding band orbit and thereby lengthening the in-plane Cu-O bond. Therefore, the variation of the lattice parameters is quite consistent with the fact that the T phase is doped by holes with a shortened a (_p_ type) and the _T'_ phase is doped by electron with a lengthened a (_n_ type).
+
+ On the other hand, in the lanthanide series of L2-xCe_CuO4, from L = La3+ to Gd3+, the lattice constants of the tetragonal cell gradually decrease and Gd2-xCe_CuO4 ceases to be a superconductor. This leads to a hypothesis that sufficiently small in-plane Cu-O bonds inhibit electron-doped superconductivity. The compounds with _r__L_3+  _r_Gd3+ fail to superconduct because the lattice spacing is too small to introduce electrons into the antibonding band orbit in CuO2 plane. Kuklewicz and Markert5 reported the steric effects on superconductivity in (Nd1-yYy2-xCe_xCuO4-_d_ and found that lattice constants were reduced as more yttrium was substituted, and superconductivity was diminished when the lattice spacing decreased to nearly the same size (_a_ = 3.923 A when y = 0.3) as that of Gd2-xCe_xCuO4-_d_ (_a_ = 3.902 A when x = 0.15). This seems to indicate that a small lattice spacing was the primary reason for the failure of Gd2-xCe_xCuO4-_d_ to be a superconductor in literature.3 Wang _et al._4 reported on the R1.8S-x_,_R_'_M_'0.15CuO2 (_R_ = Nd, Eu, _R_'_ = La, Y, M = Ce, Th, z = 4) series and thought that the a parameter for the optimum T_{c} (T_{c} = 25 K) for the lanthanum Ce-doped samples is between 3.945 and 3.955 A. A dramatic decrease in T_{c} was observed when the lattice parameter a became either >= 3.96 A or <= 3.94 A, and in the Nd1.8S-x_'_Y_'_Ce0.15CuO4-_d_ series, superconductivity was observed only for a>= 3.94 A. Therefore, they concluded that there is an optimum bond length (1.888 and 1.95 A) for the maximum T_{c} in the La-Sr-Cu-O system and Nd-Ce-Cu-O system, respectively. Literature5 reports that the substitution of a nonmagnetic Y for R in (_R_1-_R_'_1).18SCe0.15CuO4 (_R_ = Pr, Nd, Sm, Eu, _R_'_ = Gd, Y) has a stronger effect on the suppression of T_{c} than the substitution with magnetic Gd, suggesting that the effect of ionic size plays a much more important role than the magnetic pair breaking. They also considered that the suppression of superconductivity in (_R_1-_T_x_'_1).18SCe0.15CuO4 (_R_ = Pr, Nd, Sm, Eu) was strongly related to the structural distortion/instability and the value of x_{c} for the maximum T_{c} depended on the ionic size of R and was close to their solubility limit in those corresponding compounds. Michihito Muroi6 investigated the whole _p_-type superconducting cuprates and thought that T_{c} increases either with the decrease of V_{M} or with the decrease of d_{p} , in which d_{p} is the Cu-O bond length within the CuO2 plane and V_{M} is the difference between the Madelung site potential for a hole on a Cu site and that on an O site.
+
+In summary, many authors considered that the Cu-O bond length in the CuO2 plane is very important or crucial to induce superconductivity. Nevertheless, in spite of these suggestions mentioned above, there are still some controversies. So (Nd,La,Ce)-Cu-O, (Gd,La,Ce)-Cu-O and related compounds are studied to determine whether the steric effect is the truly main factor for superconductivity. Based on our experimental results, we suggest that the steric effect is not the main reason in nature for the great influence on superconductivity, and that the charge-carrier density might be a more fundamental factor.
+
+## II Experiment
+
+Our samples were prepared by a solid-state reaction using the related oxides as the starting materials. The mixtures were repeatly ground with an Agate mortar, sintered in a box furnace at 1000 degC in air, and finally pelletized into thin sheets. After the procedure was repeated 3-4 times, these samples were sintered at a temperature of 1050 degC for 24 h in a box furnace in air, followed by sintering at 1050 degC for 12 h in a tube furnace containing slowly flowing dry N2 to reduce the samples. The rates of rising and lowering furnace temperature were 2 and 4 degC/min, respectively.
+
+X-ray-diffraction analysis was performed on a M18AHF x-ray diffractometer with Cu K_a_ radiation (50 kV x 200 mA). High-purity Si was added to the samples as an internal standard to correct the 2_th_ position of diffraction peaks.
+
+The magnetic susceptibility and electrical resistance are measured by a superconducting quantum interference device (SQUID) and the standard four-probe technique, respectively. The superconducting critical temperature is measured down to 4.2 K.
+
+## III Results and Discussion
+
+### Effects of lattice parameter variation
+
+The samples of Nd2-_x_-_x_,La,Ce,CuO4-_d_ (_y_ = 0, 0.2, 0.5, 0.7, 0.9, 0.95, 1.0, 1.1, 1.2, 1.3, 1.4, x = 0.12, 0.15, 0.17, 0.20, 0.25) series are first prepared. The pure T_{c} phase can be obtained up to y = 1.3. Therefore, the solubility limit of La3+ in Nd1.8S-_y_,La,Ce0.15CuO4-_d_ is _y_lim = 1.3 with the lattice parameter a = 3.994 A. On the other hand, the Ce solubility limit increases to _X_lim=0.25 in Nd0.7-_La,1.3Ce,CuO4-_d_ with the maximum lattice parameter a = 3.995 A as shown in Table I. Figure 1 gives the variations of the lattice parameters a, c, V with increasing La content. It can be seen that the lattice parameters a, c, V increase linearly with increasing La content up to y = 1.3. The ratio of _D_a_/D_y_ is approximatly 2.6%. The ratio of _c_/_a_ increases with increasing La content and decreases with increasing Ce content between 3.05 and 3.09. Manthiram8 considered that the larger the size of L3+ in the L2CuO 4 series, the easier it is to stretch the Cu-O bonds by the addition of antibonding electrons into the CuO2 sheets. Therefore, as the size of L3+ increases from L = Nd to L = Nd0.7-_x_La1.3, the extent to which the Cu-O bonds can be stretched by the substitution of Ce4+ for L3+ increases, i.e., the solubility of Ce increases with increasing size of L3+ or the a parameter. In the Nd2-_x_LaCuO4-_d_ series, literature78 reported that the T_{c} structure remained only when x  0.8-0.9. However, the doping of Ce4+ improved the stability of the _T__c_+ structure and increased the solubility of La3+ in the Nd2-_x_-_x_,La,YCe,CuO4-_d_ T_{c} structure from y = 0.8 to y = 1.2-1.3,1 vice versa, the doping of La3+ improved the solubility of Ce4+ in the _T__c_+ structure from _X_lim=0.15 when L = Gd to _X_lim=0.25 when L = Nd0.45La1.3. Zhu and Manthiram1 improved the Ce solubility limit to _x_lim=0.25 in Nd0.45La1.3Ce0.25CuO4-_d_ which was considered to be the maximum Ce solubility and the longest a parameter (3.993 A) that one can achieve in the _T__c_+ structure.
+
+The _T__c_+ and the bulk superconducting contents are found to decrease with increasing La content by the measurement of SQUID for Nd1.8S-_y_,La,Ce0.15CuO4-_d_, whereas the _T__c_+ remains constant by the standard four-probe resistant technique, as is shown in Table I. We know that the four-probe  resistance measurement might give a surface or filamentary effect of superconductivity and the measurement of SQUID means a bulk effect of superconductivity. The samples of Nd1.85-,La3Ce0.15CuO4-_d_ maybe contain a little amount of the Nd1.85Ce0.15CuO4-_d_ contents, and so remain superconducting with T_{c}^{\rm on}=26 K but cannot reach zero resistance. As an example, the curve of _r_-_T_ and the signal of ac magnetic susceptibility for Nd1.15La0.7Ce0.15CuO4-_d_ is given in Fig. 2. On the other hand, the measurement of SQUID truly reflects the bulk superconductivity of Nd1.85-,La3Ce0.15CuO4-_d_. Then, could we make a conclusion that the lattice parameters are the crucial factor for superconductivity? This has been broadly emphasized in many papers.[3, 5, 6] However, when the Ce content is decreased from x = 0.15 to x = 0.10 in Nd0.9-,La1.1Ce3CuO4-_d_, the optimum T_{c} is found to be recovered again with T_{c}=23 K and a superconducting fraction of 23.5% by the SQUID measurement in a field of 10 G s as seen in Fig. 3. Similar results have been reported by others.[1] In other words, the superconductivity with a superconducting fraction of 23.5% and T_{c}^{\rm on}=23 K is found in the Nd0.8La1.1Ce0.15CuO4-_d_ sample with the lattice parameters a = 3.982 A, c = 12.317 A. This indicates that the same superconductivity with different lattice parameters can be achieved in Nd1.85Ce0.15CuO4-_d_ and Nd0.8La1.1Ce0.10CuO4-_d_ as is shown in Table II for a comparison.
+
+Why does the same superconductivity exist in Nd0.8La1.1Ce0.10CuO4-_d_ as in Nd1.85La0.15CuO4-_d_, but not in Nd0.75La1.1Ce0.15CuO4-_d_? In other words, with the radii of L^{3+} ion or a parameter increasing, the optimum Ce content for the superconductivity in Nd0.9-,La1.1Ce3CuO4-_d_ decreases irrespective of the increase of the Ce solubility. This means that the superconductivity is not closely related to the relief of the internal stress, moreover, it is opposite to it. Manthiram[8] considered that as the Cu-O bond length in the undoped L_{2}CuO4 decreased from LaNdCuO4 to Gd2CuO4, a large amount of Ce content is necessary to decrease E_{M}-E_{I} to the critical limit E_{M}=E_{I} that can give a critical cowalcee \lambda_{c} in the CuO2 sheets and induce superconductivity, in which the E_{M} is the electrostatic Madelung energy gained by allowing the point charges Cu2+ and O2- to order themselves in a crystalline lattice, and E_{i} is the total energy required to transfer an electron from a Cu+ ion to an O- ion at infinite separation. Finally, they concluded that the change of Ce content for T_{c}^{\rm max} is only for shortening or lengthening the a parameter so as to adjust E_{M} to a proper
+
+Figure 1: Variations of the lattice parameters a, c, V with increasing La content in Nd1.85–,La3Ce0.15CuO4-_δ_.
+
+  value. But, why is the change of the a parameter by only changing La content not enough to adjust E_{M} or l_{c} (_l_ = _b__c  L_{2-x}Ce_{x}CuO_{4+\delta} was an essential factor to achieve superconductivity, as has been broadly suggested in the literature.[10, 11] Likewise, for La-series _p_-type superconductors, La_{2}CuO_{4} is not superconducting, but the system of La_{2}CuO_{4+\delta} is a single phase superconductor for 0.05<\delta = 0.09,[9]^{,}[12] with _T__{c} above 30 K by annealing powders or single crystals at high oxygen pressure.[13] As we know, in _R_Ba_{2}Cu_{3}O_{7-\delta}, the superconductivity is independent of _R_^{3+} except for Pr^{3+}, but closely depends on \delta. The critical temperature _T__{c} in _R_Ba_{2}Cu_{3}O_{7-\delta} is strongly dependent on the sample history as well as oxygen content.[7, 8, 14, 15, 16] In addition, many authors[13, 12] have shown that the physical properties are extremely sensitive to \ll1% change in the oxygen content. For example, resistivity, Neel temperature (_T__{N}), the Cu-Cu exchange coupling, and the transition temperature (_T__{0}) from the tetragonal to orthorhombic structure all increase with decreasing oxygen content. A consistent interpretation of these facts is that the oxygen stoichiometry is always richer than that corresponding to a Mott-Hubbard insulator with an exactly half-filled band.[13] All suggestions apparently emphasized the important role of oxygen content, oxygen valence state or copper valence state on superconductivity. We know that _n_-type superconductivity can be greatly influenced by four important conditions as described below: (i) necessary annealing process in an inert atmosphere; (ii) the change of annealing temperature; (iii) a certain amount of Ce (Th) doping; (iv) variation of lattice parameter a.
+
+All four factors are found to be closely correlated with the oxygen content. Annealing of L_{2-x}Ce_{x}CuO_{4-\delta} in an inert atmosphere at a certain temperature range is essential to induce the superconductivity. Wang _et al.[4]_ concluded that the role of the nitrogen treatment is twofold: (i) to remove extra oxygen (either "apical" or fluorite type) within the structure and (ii) to increase the number of carriers (electrons) through the reduction of Cu^{2+} to Cu^{1+}. In addition, three types of oxygen (oxygen in the CuO_{2} plane, fluorite type, and apical _4d_ sites) were considered to exist in the Nd_{2-x}Ce_{x}CuO_{4-\delta} compounds, but we cannot presently distinguish between these two possibilities (apical versus fluorite-type oxygen) and only further neutron work may resolve this issue. They[4] also considered that a critical parameter which affects _T__{c} in the _T_^{\prime} phase was the oxygen content. In summary, the superconducting properties can be varied by changing the oxygen content (thereby the Cu oxidation state) through processing conditions.[4]
+
+Regarding the Nd-La-Ce-Cu-O series, Zhu and Manthiram[1] reported that the synthesis of Nd_{2-x-y}La_{x}Ce_{x}CuO_{4-\delta} for 0\leq y \leq 1.0 had also enabled them to monitor the variation of oxygen content by changing the size of L^{3+} for a fixed Ce content x = 0.12 and a given N_{2}-annealing temperature (950 ^{\circ}C). They[1] give the variation of oxygen vacancies with the lattice parameter a, so this may be linearly fitted as:
+
+\[\delta_{a} = 0.31a - 1.20.\]
+
+This means that the change of oxygen vacancies D_d_ is proportional to the change of lattice parameter D_a_ by the ratio of 0.3 as a first-order approximation.
+
+On the other hand, a quite interesting result is that the \delta increased with decreasing Ce-doped content. This implies that the insertion of Ce reduces the ability of these materials to change reversibly oxygen stoichiometry. Independent of the Ce content, the oxygen content in the as-grown material was always greater than four. Upon nitrogen reduction, the extra oxygen (occupying the 4d position, i.e., apical position) and fluorite-type oxygen were partially removed and became superconducting. So both annealing in N_{2} and Ce doping are necessary for superconductivity and are correlated with the gain or loss of oxygen content in _n_-type superconductors, i.e., formation of the oxygen vacancies.[4] For a certain L^{3+} ion and a given N_{2}-annealing temperature, the total oxygen content increases with increasing Ce content. Using the data in LaNd_{1-x}Ce_{x}CuO_{4-\delta} from Ref. 1, we can obtain the following formula by linear fitting:
+
+\[\delta_{x} = - 0.33x + 0.05.\]
+
+Equations (1) and (2) give us a clear expression of the correlations between oxygen vacancy \delta, Ce-doped content x, and lattice parameter a, although these expressions are only first-order approximations. The change of a parameter and Ce doping all independently induce the change of oxygen vacancies and change the charge-carrier density. For our samples of Nd_{2-x-y}La_{y}Ce_{x}CuO_{4-\delta}, the charge-carrier density is improved by increasing the lattice parameter and also by decreasing the Ce content through increasing the oxygen vacancies. For this reason, it may be necessary to reduce the Ce content so as to keep the carrier density to an optimum value for superconductivity.
+
+### Charge-carrier density--one of the determining factors for superconductivity
+
+As we know, for the L_{2-x}Ce_{x}CuO_{4-\delta} series, the substitution of one Ce^{4+} ion for one L^{3+} ion can give one extra electron as the conducting charge carrier, and the creation of one oxygen vacancy can give equivalently two electrons. So, the charge-carrier density can be written as: n = x + 2 \delta, where x is the Ce-doped mole concentration and \delta is the oxygen vacancy density. Meantime, the \delta is determined by  two factors: the Ce doping and a parameter in our experimental conditions. So, Eqs. (1) and (2) are introduced into the n formula:
+
+\[n = x + 2\left( {\delta_{a} + \delta_{s}} \right)\] \[= x + 2\left( {0.3a - 1.0} \right) + 2\left( {- 0.33x + 0.05} \right)\] \[= 0.34x + 0.62a - 2.30\]
+
+then,
+
+\[\Delta n = 0.34\Delta x + 0.62\Delta a.\]
+
+We assume that the charge-carrier density has an optimum constant n0 for the optimum superconductivity, i.e., to keep D_n_(_n_=_n_0) = 0. So, we obtain that
+
+\[\Delta x/\Delta a \approx - 0.62/0.34 \approx - 1.82\left( {\text{mol}/\text{\AA}} \right).\]
+
+This means that the increase of the a parameter induces the increase of oxygen vacancies and thus increases the charge-carrier density. In order to keep the charge-carrier density unchanged for the optimum superconductivity, the optimum Ce content must be decreased by the ratio of '- 1.83" to reduce the charge-carrier density. In other words, the charge-carrier density is intrinsically crucial to the superconductivity, which is jointly affected by the variations of the a parameter and Ce doping by changing the oxygen vacancies and adding electrons.
+
+If this conclusion is common, we can derive from Eq. (3) that the Ce content in Nd2-xCe4CuO4-_d_ is x = 0.15 for the optimum superconductivity with a = 3.955 A, and then, the Ce content in Nd0.9-_x_La1.1Ce4CuO4-_d_ should be x = 0.10 with a ~ 3.983 A, which is very consistent with our results as seen in Table II. Therefore, a conclusion is made: the change of the a parameter can result in a change of oxygen vacancies and change the charge-carrier density, the optimum superconductivity can be obtained again as long as the adjustment to Ce content properly compensates the change of charge-carrier density. Goldschmidt _et al._[17] also pointed out that the magnitude of the lattice parameter had no direct effect on _T_c which becomes more evident when comparing samples having the same _T_c but with different lattice parameters. This suggests that the changes in _T_c and the variation in lattice parameters that occur concurrently under pressure are not directly related to one another. Also, Zhu and Manthiram [1] finally concluded that the apparent increase in the value of _x_c (the Ce content in L2-_x_Ce4CuO4-_d_ for the best superconductivity) with decreasing L3+ ion size was due to the decreasing number of oxygen vacancies and that the influence of Madelung energy or charge-transfer gap D was less significant in determining the critical amount of doping necessary to induce a transition from antiferromagnetic semiconductor to superconductor.
+
+To testify further the relationship between the lattice parameter a and the doped Ce content, samples of the Nd2-_x_-La3Ce4CuO4-_d_ series are prepared as ascribed in Table III. The measurements of electrical resistance and magnetic susceptibility indicate a good and similar superconductivity. Figure 4 gives the curve of _r_-_T_ and the ac magnetic susceptibility signal for Nd1.28La0.6Ce0.12CuO4-_d_, for instance. The same _T_c are obtained but the lattice parameters change from 3.95 to 3.98 A, which further testifies that the critical temperature _T_c is not directly related to the a parameter, and the decrease of Ce content can recover the damage of superconductivity induced by the increasing a parameter. Figure 5 gives the relation between a parameter and Ce content by the ratio of -2.03 for keeping the unchanging optimum superconductivity. These results have little difference from '- 1.8 ratio,' which is obtained only from Nd2-_y_-0.12La3Ce0.12CuO4.1 The exact ratio needs more common experimental data.
+
+Furthermore, we extrapolate the conclusion to a smaller L3+ ion than Nd3+ in L2-_x_Ce4CuO4-_d_. For example, the samples of the Nd2-_x_-Y YCe2CuO4-_d_ series are prepared with the fixed sample-prepared procedure. Kuklewicz and
+
+Figure 4: The curves of _r_-_T_ and the ac magnetic susceptibility signal for Nd1.28La0.6Ce0.12CuO4.
+
+  Markert3 reported that Nd1.85-yY,Ce0.15CuO4-_d_d_ based to be superconducting as the lattice parameter a decreased to 3.925 A when y = 0.555. Could we recover its superconductivity by adding the Ce content according to the -1.8 ratio? We prepared the samples of the Nd1.445-_x_Y_0.555Ce_x_CuO4-_d_ based on (_x_ = 0.18, 0.20) series and found that it fails to recover its superconductivity. This may be due to the smaller Ce solubility limit (<0.15) which cannot dope enough Ce content in this system.
+
+### Attempting superconductivity in Gd2-_x_-_y_La_y_Ce_x_CuO4-_d_
+
+On the other hand, Kuklewicz and Markert3 considered that the Gd1.85Ce0.15CuO4-_d_ samples failed to be a superconductor due to steric effects, which resulted in an insufficient electron concentration or apical-oxygen-induced electron localization. In addition, Zhu and Manthiram1 suggested that the smaller Gd3+ ion limited the Ce solubility to _X_lim = 0.15. The electron concentration n = 0.15 at _x_lim = 0.15, was much less than the n_{c} value of 0.175 +- 0.005 required to induce superconductivity. Although n can further be increased in other systems with large L3+ ions via the creation of oxygen vacancies, such a mechanism does not seem to work with the smaller L = Gd. A stronger bonding between smaller Gd3+ and O2- ions and a nearly complete relief of the internal stresses near the Ce solubility limit _x_lim = 0.15 in Gd1.85Ce0.15CuO4-_d_ have it difficult to create oxygen vacancies in the compound.1 Mathiram8 suggested that probably it would become a superconductor if one could increase the solubility limit of Ce in Gd2-_x_Ce_x_CuO4-_d_ beyond 0.15. Also according to our result of the -1.8 ratio, the Ce content for the best superconductivity should be more than x = 0.15 in Gd2-_x_Ce_x_CuO4-_d_ because the size of Gd3+ ion is smaller than that of Nd3+, but the x = 0.15 in Gd2-_x_Ce_x_CuO4-_d_ is the highest Ce solubility limit. Therefore, we try to lengthen the lattice parameter a to induce more Ce content or oxygen vacancies into Gd2-_x_Ce_x_CuO4 by the substitution of La3+ for Gd3+, i.e., Gd2-_x_La_y_Ce_x_CuO4-_d_ samples are prepared. Table 4 and Fig. 6 give the results of the composition and lattice parameters of Gd2-_x_-_x_La_y_Ce_x_CuO4-_d_ samples.
+
+The lattice parameters a, c increase linearly with increasing La content with the ratio (A/mole) of 5.8 and 35.4 %, respectively. Unfortunately, superconductivity is not found in the Gd-containing series. In other words, this also testifies that the lattice parameters a, c are not the crucial factor to induce superconductivity, because the a = 3.957 A, c = 12.130 A in Gd0.85LaCe0.15CuO4-_d_ is the same as that of Nd1.85Ce0.15CuO4-_d_. In addition, we change the Ce content from x = 0.12 to x = 0.17, 0.19, 0.20 and find that the a parameter increases and the c parameter decreases with increasing Ce content, which means that the increasing of Ce
+
+\begin{table}
+\begin{tabular}{c c c c c c} x & y & a (Å) & c (Å) & V (Å3) & _c/a_ \\
+0.15 & 0.3 & 3.9194(3) & 11.917(1) & 183.06 & 3.0408 \\
+0.15 & 0.5 & 3.9295(8) & 11.974(3) & 184.89 & 3.0476 \\
+0.15 & 0.8 & 3.9435(8) & 12.063(3) & 187.59 & 3.0593 \\
+0.15 & 0.9 & 3.9558(7) & 12.117(3) & 1  content does introduce antibonding electrons into the CuO_{2} plane, but still does not find any superconductivity. Maybe the N_{2}-annealing temperature is too high (1050 ^{\circ}C) to induce superconductivity. So, we prepare again the Gd_{0.88}LaCe_{0.12}CuO_{4-\delta} and Gd_{0.83}LaCe_{0.17}CuO_{4-\delta} samples with a N_{2}-annealing temperature of 800 ^{\circ}C, but no superconductivity is observed. Why is there such a big difference in superconductivity between Gd_{0.85}LaCe_{0.15}CuO_{4-\delta} and Nd_{0.85}LaCe_{0.15}CuO_{4-\delta}? Are there other important factors for inducing superconductivity between Gd^{3+} and Nd^{3+} except for the difference of ion radii? As to the influence of the magnet in Gd^{3+} on superconductivity, many authors [3, 10, 13] had negated the opinion. More recently, Braden and co-workers [18, 19] reported that a long-range lattice deformation characterized by the rotation of the CuO_{2} squares around the c axis was observed in Gd_{2}CuO_{4} and (Nd_{1-x}Tb_{x})_{1.85}Ce_{0.15}CuO_{4} by neutron-diffraction structural analysis. They suggested that this structural distortion might help to explain the nonexistence of superconductivity in Gd_{2-x}Ce_{x}CuO_{4}. This needs further experiment to clarify the problem, especially, whether there does exist the same structural distortion in Gd_{1-x}LaCe_{x}CuO_{4-\delta}.
+
+In summary, superconductivity in the cuprate oxides is not directly or intrinsically correlated with the lattice parameters a. The charge-carrier density is one of the crucial factors that influences intrinsically the superconductivity. Of course, Gd_{2-x}Ce_{x}CuO_{4} fails to be a superconductor perhaps because the CuO_{2} planes are not integrated according to Refs. [18] and [19].
+
+## IV Conclusion
+
+The superconductivity of the R_{2-x-y}La_{y}Ce_{x}CuO_{4-\delta} (R = Nd, Gd, y = 0, 0.2, 0.5, \ldots, 1.4. x = 0.10,\ldots, 0.15, \ldots, 0.25) series are studied and the solubility limit of La^{3+} in Nd_{1.85-y}La_{y}Ce_{0.15}CuO_{4-\delta} is y_{\rm lim}=1.3 with the maximum lattice parameter a = 3.994 A. The Ce solubility limit increases to X_{\rm lim}=0.25 in Nd_{0.7-x}La_{y}Ce_{x}CuO_{4-\delta} with the maximum lattice parameter a = 3.995 A. The T_{c}^{\rm on} and the bulk superconducting content are found to decrease with increasing La content. However, the reduction of superconductivity caused by the increase of lattice constant a (up to 3.982 A) can be compensated by the decrease of Ce content by a certain ratio.
+
+The lattice parameters are not directly and intrinsically related to the superconductivity. The charge-carrier density is suggested to be intrinsically the crucial factor for superconductivity. The effects of lattice parameter and oxygen vacancy on superconductivity are made through changing the charge-carrier density. The influence of lattice parameter and Ce doping on superconductivity can be compensated by each other.
+
+Gd_{0.85}LaCe_{0.15}CuO_{4-\delta} is prepared with the lattice parameters of a = 3.957 A, c = 12.130 A, which are the same as that of Nd_{0.85}Ce_{0.15}CuO_{4-\delta}. But it fails to superconduct which further indicates that the a parameter is not intrinsically the crucial factor for its superconductivity. In addition, no superconductivity is found with the change of Ce content and sintering temperature in Gd_{1-x}LaCe_{x}CuO_{4-\delta}.
+
+## References
+
+* [1] Y.T. Zhu and A. Manthiram, Phys. Rev. B **49**, 6293 (1994).
+* [2] M.-H. Whangbo, M. Evain, M. Beno, and J.M. Williams, Inorg. Chem. **26**, 1829 (1987).
+* [3] C.E. Kuklewicz and J.T. Markert, Physica C **253**, 308 (1995).
+* [4] E. Wang, J.-M. Tarascon, L.H. Greene, G.W. Hull, and W.R. McKinnon, Phys. Rev. B **41**, 6582 (1990).
+* [5] T.M. Meen, H.D. Yang, W.J. Huang, Y.C. Chen, W.H. Lee, J.H. Shieh, and H.C. Ku, Physica C **260**, 117 (1996).
+* [6] Michihito Muroi, Physica C **219**, 129 (1994).
+* [7] A. Manthiram and J.B. Goodenough, J. Solid State Chem. **92**, 231 (1991).
+* [8] A. Manthiram, J. Solid State Chem. **100**, 383 (1992).
+* [9] J.-S. Zhou, J. Chan, and J.B. Goodenough, Phys. Rev. B **47**, 5477 (1993).
+* [10] R.L. Fuller, K.V. Ramanujachary, and M. Greenblatt, Mater. Res. Bull. **27**, 205 (1992).
+* [11] E. Takayama-Muromachi, F. Izumi, Y. Uchida, K. Kato, and H. Asano, Physica C **159**, 634 (1989).
+* [12] J.B. Goodenough, J.-S. Zhou, and J. Chan, Phys. Rev. B **47**, 5275 (1993).
+* [13] S-W. Cheong, J.D. Thompson, and Z. Fisk, Physica C **158**, 109 (1989).
+* [14] R.D. Shannon, Acta Crystallogr. A **32**, 751 (1976).
+* [15] A. Manthiram and J.B. Goodenough, J. Solid State Chem. **87**, 402 (1990).
+* [16] Y.K. Tao, M. Bonvalot, Y.Y. Sun, R.L. Meng, P.H. Hor, and C.W. Chu, Physica C **165**, 13 (1990).
+* [17] D. Goldschmidt, A. Knizhnik, Y. Direktovitch, G.M. Reisner, and Y. Eckstein, Phys. Rev. B **52**, 12 982 (1995).
+* [18] M. Braden, W. Paulus, A. Cousson, P. Vigoureux, G. Heger, A. Goukassov, P. Bourges, and D. Petitgrand, Europhys Lett. **25**, 625 (1994).
+* [19] M. Braden, P. Adelmann, P. Schweiss, and T. Woisczyk, Phys. Rev. B **53**, R2975 (1996).
+
+ 

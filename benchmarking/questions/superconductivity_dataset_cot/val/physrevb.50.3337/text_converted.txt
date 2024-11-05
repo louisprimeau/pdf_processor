@@ -1,0 +1,342 @@
+# Crossover in temperature dependence of penetration depth λ(T)
+
+in superconducting YBa2Cu3O7-b films
+
+Ju Young Lee
+
+Kathleen M. Paget
+
+Thomas R. Lemberger
+
+Department of Physics, The Ohio State University, Columbus, Ohio 43210
+
+Steve R. Foltyn
+
+Los Alamos National Laboratory, Los Alamos, New Mexico 87545
+
+Xindi Wu
+
+Los Alamos National Laboratory, Los Alamos, New Mexico 87545
+
+25 June 1993
+
+###### Abstract
+
+The _ab_-plane penetration depth λ(T) in twinned YBa2Cu3O7-b films
+exhibits a crossover in its T dependence at 25 K. Below 25 K,
+δλ ≡ λ(T) − λ(0) ∝ T². This differs from recent measurements on a
+crystal which find δλ ∝ T below 40 K. Above 25 K, the normalized data
+λ(T/T_(c))/λ(0) vs T/T_(c) for our films agree extremely well with the
+crystal data, including quasilinear behavior between 25 and 40 K.
+Differences and similarities of films and crystals agree well with a
+theory of slightly disordered _d_-wave superconductors.
+
+The average magnetic penetration depth λ(T) of the _ab_ plane of twinned
+YBa2Cu3O7-b samples has been studied often, but many issues remain
+unresolved. There is general agreement on the value λ(0) = 1450 A±150 A
+for the _ab_ plane of fully oxygenated YBa2Cu3O7-b, from muon spin
+rotation measurements on bulk samples.1-4 Until recently, a consensus
+was developing that λ⁻²(T)/λ⁻²(0) − 1 at T <  T_(c) was close to T² for
+pure YBa2Cu3O7-b, based primarily upon studies of films.5-11 There was
+no agreement about the magnitude of the T² term,7,11 however, or about
+the T dependence of λ over the entire range from 4 K to T_(c). Indeed,
+most clean films5-8,10 show λ⁻²(T)/λ⁻²(0) ≈ 1 − (T/T_(c))² over this
+range, but some9,11,12 (all on substrates other than SrTiO3) show an
+inflection point in λ⁻²(T)/λ⁻²(0). Annett, Goldenfeld, and Renn7
+emphasized that the T² behavior could result from weak disorder in a
+d_(x² − x²) superconductor, which would have T-linear behavior in the
+absence of disorder.
+
+Into this unsettled situation came recently a report that
+λ⁻²(T)/λ⁻²(0) − 1 ∝ T from 4 to 40 K in fully oxygenated d twinned
+YBa2Cu3O7-b crystals,13 thus giving new impetus to the _d_-wave
+conjecture of Annett, Goldenfeld, and Renn7 and motivating the present
+work. The theoretical sensitivity of _d_-wave superconductors to small
+amounts of disorder14-17 immediately suggests this as an explanation of
+at least some of the reported sample-to-sample variations in λ for
+nominally identical pure YBa2Cu3O7-b samples. Of course, some variation
+may occur for other reasons, e.g., because macroscopic defects like
+grain boundaries might affect films more than crystals. In this paper,
+we show that our new data and much of the apparently conflicting data in
+the literature on YBa2Cu3O7-b films and crystals can be unified within
+the context of _d_-wave superconductivity. Moreover, in demonstrating
+this agreement, we show that the inductive response of films is
+primarily that of the grains and not the grain boundaries.
+
+We present here measurements of λ(T) from 4 K to T_(c) for three fully
+oxygenated YBa2Cu3O7-b films. We show that the data are in excellent
+agreement from 4 K to T_(c) with earlier, less precise, measurements
+made with a similar inductive technique on films made by a different
+process. We show that when film and crystal data are normalized as
+indicated by _d_-wave theory, they are in excellent agreement with each
+other above a crossover temperature of T^(*) ≈ 25 K. We show that the
+qualitative and quantitative differences between films and crystals
+below the 25 K crossover are quantitatively explained if
+superconductivity is d wave and there is a slight residual disorder in
+the films that is absent in the crystals.
+
+Our three films, A, B, and C are made by laser ablation of a
+stoichiometric sintered target onto (100) SrTiO3 substrates, and they
+have their c axes perpendicular to the substrate. They are circular with
+diameters of 2.2 cm for films A and C and 2.0 cm for film B. All three
+film thicknesses are d = 330 ± 30 A. Superconducting transitions are 1 K
+wide near 88 K.
+
+We determine λ(T) from the mutual inductance M(T) of concentric
+solenoidal coils on opposite sides of, and concentric with, each
+circular sample film, similar to Fiory _et al._5 and Jeanneret _et
+al._,18 but with solenoidal rather than counterwound coils. The primary
+coil comprises 84 turns of Cu wire; it is 3 mm long with inner and outer
+diameters of 3 and 7 mm. The secondary coil has the same dimensions as
+the primary coil, but comprises 300 turns of finer Cu wire. The film and
+substrate slip into a 2 mm gap between the coils. The inductive and
+dissipative parts of M are the voltages in the secondary circuit,
+divided by _Io_, at ϕ = 0^(∘) and ϕ = 90^(∘) relative to the sinusoidal
+current I at angular frequency o in the primary circuit.
+
+We checked that M was independent of the amplitude I and frequency of
+the current in the primary coil. Most data were taken at 20 kHz; data at
+10 and 30 kHz were identical. M was independent of I when I was varied
+such that the maximum supercurrent density induced in the film ranged
+from 0.004 to 0.04 MA/cm2. Most data were taken at the larger current.
+The magnetic field at the larger current was less than 1 mG
+perpendicular to the film, even at the film edges, and less than 0.2 G
+parallel to the film, so one would not expect the field to induce
+vortices. At 4.2 K, dissipation appears when the induced current density
+exceeds 106 and 107 A/cm2 for films A and B, respectively. Based on a
+subsequent oxygen-depletion study of these films,19 in which a small (<1
+mm diam) spot of film A detached from the substrate after annealing at
+300 degC in Ar, we believe that the lower critical current density of A
+was from this defective spot, and not symptomatic of the entire film.
+The close agreement between films A and B suggests that the defective
+spot is negligible at the low experiment current densities.
+
+The numerical model6,10,18 relates the magnitude and phase of _M_(_T_)
+to the conductivity _s_(_T_) = s1(_T_) + s2(_T_) of the film by solving
+Maxwell’s equations for the vector potential at each loop of the
+secondary coil due to the current in the primary coil and the induced
+currents in the film. The cylindrical symmetry of the apparatus
+simplifies the analysis considerably. The induced current density in the
+film is largest where the film is closest to the primary coil. It
+decreases rapidly toward the film edge, then just at the edge there is a
+much smaller peak. More than 2 K below T_(c), _s_(_T_) = s2(_T_) is
+purely inductive in our films, and we define λ⁻²= m0_0s0_2_(_m_0 = 4p x
+10-7 H/m). Finally, the model allows for stray coupling between the
+primary and secondary circuits. For reference, the inductive and
+dissipative parts of _M_(_T_) for film A are shown in Fig. 1. Note the
+sharp transition and the very rapid and large attenuation of M by the
+superconducting film within a few K below T_(c).
+
+While we use the full numerical model to obtain l from M, for purposes
+of this discussion we introduce an approximate relationship between l
+and M, which is accurate to better than 1
+
+$$M(T) = \alpha\lambda(T){\rm{coth}}[d/\lambda(T)] + \beta\ .$$
+
+The geometric constant a is calculated to +-5
+
+While the measured signal is proportional to l + _2, the important
+microscopic quantity is the superfluid density, r_(t)(_T_) < l -
+_2(_T_), so the analysis will focus on l - _2. It is useful to note that
+if l2(_T_) - l2(0) < T2, then l - _2(_T_) - l - _2(0) T2 and l _l_ =
+_l_(_T_) - _l_(0) T2, i.e., all such quantities have the same dependence
+on T. Plots of l - _2(_T_) or our three films are shown in Fig. 2, along
+with data on a twinned crystal.13 Table I lists the parameters that
+characterize data.
+
+There are three important points to be made here in connection with the
+uncertainty in b. First, determination of _l_(4 K) to, say, +10
+
+Figure 1: The mutual inductance of the primary and secondary coils, M vs
+T, with film A inserted between them. (a) Inductive (upper) and
+dissipative (lower) components of M near T_(c). (b) Magnified view of
+the inductive component of M at lower temperatures. The resistive
+component of M is zero.
+
+Second, despite the uncertainty in b, the value of l -2(_T_) near T_(c)
+is known unambiguously because as T approaches T_(c), M l2 diverges and
+the uncertainty in b is negligible. Hence, our observation that l -2
+near T_(c) is only about 20
+
+There are two sources of uncertainty. First, the +-10
+
+The first goal of the analysis is to show that there exists a choice of
+b within experimental uncertainty that brings our results into excellent
+agreement with those of Hardy _et al._13 for YBa2Cu3O7-_b_ crystals in
+the context of _d_-wave superconductivity. Note that our attempt to
+unify different experimental results differs from previous studies which
+focused on bringing measurements into agreement with theoretical and
+phenomenological expressions. There are many reasons why l deduced from
+microwave measurements13 on crystals at 1 GHz might differ from l
+deduced from inductance measurement on films at 20 kHz, e.g., a greater
+influence of grain boundaries in films. However, it is noteworthy that
+both techniques measure, essentially, the inductance s2 of the
+superconducting electrons because dissipation due to s1 is extremely
+small even at 1 GHz, and that films and the crystal of Ref. 13 are
+twinned so that both experiments measure averages of s2 in the _ab_
+plane. Therefore, the excellent agreement that we find between films and
+the crystal is _a posteriori_ justification of our assumption that both
+experiments probe the same physics, namely, the intrinsic superfluid
+density r_(s)(_T_) of the _ab_ plane of YBa2Cu3O7-_b_.
+
+To be specific about the agreement, when b is chosen for film a such
+that _l_(0) = 1700 **A**, then the normalized data, l -2(_T_/_T__c_)/_l_
+-2(0), is identical to 1.08l -2(_T_/_T__c_)/_l_ -2(0) for the crystal
+above 25 K (Fig. 3). _l_(0) for the crystal is taken to be1-4 1400
+**A**. [The microwave measurements determine _l_(_T_) - _l_(0), and one
+must choose _l_(0) to obtain l -2(_T_).] The extremely small difference,
+upper panel of Fig. 3, equals the uncertainty in digitizing and
+interpolating the crystal data. We believe that it is highly unlikely
+that the film and microwave measurements are probing different physics,
+and that the agreement is accidental. Films B and C exhibit similarly
+good agreement. Deduced film parameters T_(c), _l_(0), and the curvature
+c2 appear in Table **I**. We emphasize the excellent agreement between
+25 and 40 K, where the crystal data are clearly linear in T. A close
+examination of the derivative, _d_l_ -2/_dT_, indicates quasilinear
+behavior in the films as well. **A** discussion of this point, the
+fitting procedure, and other details can be found in Ref. 10. Finally,
+given the fitted values of _l_(0) for each film, Fig. 2 shows the
+unnormalized data and demonstrates that there is good film-to-film
+reproducibility.
+
+The unusual normalization needed to bring the film and crystal data into
+coincidence is predicted in the theory of _d_-wave superconductivity.14
+In theory, l -2(_T_) T at _T_/_T__c_ <<1 reflects the linear dependence
+of the "clean-limit" _d__x_2-_y_2 density of states, N_(s)(_E_), on
+energy E for 0.3l0. If the cross section for scattering from point
+disorder is near the unitarity limit, then disorder creates an "impurity
+band" in N_(s)(_E_) centered at
+
+  -------- ----------- ------------ ------ --------------
+   Sample   T_(c) (K)     _λ_(0)      c0    1/_c_2 (±5%)
+     A        87.5      1700 ±50 Å   0.32       1.07
+     B        88.3      1710 ±50 Å   0.33       0.95
+     C        86.7      1630 ±50 Å   0.26       1.02
+  -------- ----------- ------------ ------ --------------
+
+Table 1: T_(c), _λ_(0), c0, and 1/_c_2 for YBa2Cu3O7-_β_ films A, B, and
+C. _λ_(0) is the penetration depth for the _ab_ plane, _2c2 is the
+curvature of l -2(_T_/_T__c_)/_l_ -2(0) as _T_/_T__c_ -0; c0 is the
+fractional reduction in _λ_ -2(0) in the films relative to _λ_ -2(0) =
+(1400 Å)−2 in the crystal of Ref. 13.
+
+E = 0 by removing states from the logarithmic peak in N_(s) near Δ₀.[15]
+The number of states in the impurity band is proportional to the
+scattering rate Γ; the height N_(s)(0) and width E^(•) of the impurity
+band are proportional to $\sqrt{\Gamma}$. At high temperatures,
+kT > E^(•), the T dependence of λ⁻² is largely determined by the T
+dependence of the order parameter Δ₀(T) and the high-energy structure in
+N_(s)(E), and the impurity band serves only to reduce λ⁻² slightly below
+its clean-limit value. At low temperatures, kT < E^(•), most thermal
+excitations are in the impurity band, so the T dependence of λ⁻² is
+altered dramatically from the clean limit. In other words, the
+qualitative prediction of theory is that clean and gently disordered
+materials should have the same T dependences above a crossover
+temperature when the experimental data for λ⁻² are normalized to have
+the same slope near T_(c), not when normalized to their respective
+values at T = 0. The 8
+
+This agreement is robust. We obtain similarly good agreement for any
+choice of λ(0) for crystals in the accepted range from 1300 to 1700 A.
+The corresponding "best fit" values of λ(0) for films A and B range from
+1630 +- 50 A to 1880 +- 55 A. Thus, our analysis finds that λ(0) values
+for films A and B are not less than 15
+
+We have compared our films with published data[6] on two 500 A and one
+2000 A thick films of YBa₂Cu₃O_(7 − δ) made by codeposition and
+postannealing onto SrTiO₃ and LaAlO₃ substrates. Assuming that these
+authors actually determined λ(T)coth [d/λ(T)] − λ(0)coth [d/λ(0)] and
+then obtained λ(T) effectively by assuming a value for λ(0), we can
+report their data for other choices of λ(0). Their results agree with
+ours, within their noise which is several times larger than ours, when
+their values of λ(0), obtained from a best-fit to BCS, are adjusted
+upward from 1500, 1660, and 2100 A to 1770, 1910, and 2700 A,
+respectively.[10] While the large value λ(0) = 2700 A suggests that
+disorder in this film is much larger than in the other films, the other
+two films clearly behave in all respects very much like our three films.
+
+Having shown that several films from different laboratories agree with
+each other and with a crystal, when compared in the framework of d-wave
+superconductivity, we now turn to a quantitative analysis of the
+differences at low T. Hirschfeld and Goldenfeld[14] have calculated the
+effects of slight disorder on λ⁻²(0) and the curvature in
+λ⁻²(T)/λ⁻²(0) − 1 at T< < T_(c). They neglect complications like
+dispersion along the c axis, localized states, a Van Hove singularity in
+the normal-state density of states, and the possible influence of
+disorder on normal-state parameters like the charge-carrier density and
+the spectrum of antiferromagnetic spin fluctuations. The theory is
+insensitive to its approximations when the penetration depth λ(T) in the
+disordered material is normalized to the clean-limit penetration depth
+at T = 0, λ₀.
+
+Specifically, at T/T_(c)< < 1 and small disorder,
+γ< < Δ₀[γ ≈ 0.63(ΓΔ₀)^(1/2)], theory predicts that disorder decreases
+λ⁻²(0) and decreases the curvature in λ⁻²(T):
+
+$$\frac{\lambda_{0}^{2}}{\lambda^{2}(T)} = 1 - \frac{2\gamma}{\pi\Delta_{0}}\ln\left[\frac{4\Delta_{0}}{\gamma}\right]-\frac{\pi}{3\Delta_{0}\gamma}T^{2}$$
+(2)
+$$= 1 - c_{0} - \frac{\pi}{3\Delta_{0}\gamma}T^{2}$$
+
+and
+
+$$\frac{\lambda^{2}(0)}{\lambda^{2}(T/T_{c})} = 1 - \frac{\pi T_{c}^{2}}{3\Delta_{0}\gamma(1-c_{0})}\frac{T^{2}}{T_{c}^{2}}$$
+(3)
+$$= 1 - c_{2}\frac{T^{2}}{T_{c}^{2}}\ .$$
+
+Equation (2) up to 40 K, which requires that N_(s)(E) is linear in E up
+to about k × 100 K, which requires that the logarithmic singularity in
+N_(s)(E) occurs near k × 270 K ≈3kT_(c).[20] The three data points from
+our films are in excellent agreement with the theory curves with γ/Δ₀≈
+0.15 (see top scale in Fig. 4). (The crystal data would be at c₀ = 1/c₂
+= 0. The infinite curvature, 1/c₂ = 0, for the crystal means that the
+low-T parabolic behavior is as sharp as the vertex of a triangle.) In
+other words, the low-T curvature in λ⁻² corresponds quantitatively to
+the deduced suppression in superfluid density. Moreover, the scattering
+rate Γ found from γ is quite small, Γ ≈ 0.2kT_(c) /ℏ, consistent with a
+small residual resistivity of about 20
+
+In conclusion, λ(T) data in our laser-ablated films of YBa₂Cu₃O_(7 − δ)
+agree with published data on films made differently. They quantitatively
+agree with data on a crystal[13] within the framework of a microscopic
+theory[14] of d-wave superconductivity, with the assumption that there
+is a slight residual disorder in the films which is absent in the
+crystal. The observation that the slope of λ⁻² near T_(c) in the films
+is only about 20
+
+The authors acknowledge valuable discussions with Daniel Cox, Nigel
+Goldenfeld, Peter Hirschfeld, and Yong-Jihn Kim, computer programming by
+Ki Ho Lee, and help from Eric Ulm, Dimitrios Xenikos, and Jin-Tae Kim.
+The work at OSU was supported by DOE Grant No. DE-FG02-90ER45427 through
+the Midwest Superconductivity Consortium.
+
+## References
+
+* [1] D. R. Harshman _et al._, Phys. Rev. B **39**, 851 (1989). * [2] Y.
+J. Uemura _et al._, Phys. Rev. Lett. **66**, 2665 (1991). * [3] B.
+Pumpin _et al._, Phys. Rev. B **42**, 8019 (1990). * [4] D. A. Bonn _et
+al._, Phys. Rev. B **47**, 11 314 (1993). * [5] A. T. Fiory, A. F.
+Hebard, P. M. Mankiewich, and R. E. Howard, Appl. Phys. Lett. **52**,
+2165 (1988). * [6] A. T. Fiory _et al._, Phys. Rev. Lett. **61**, 1419
+(1988); A. T. Fiory and A. F. Hebard, in _Magnetic Susceptibility of
+Superconductors and Other Spin Systems_, edited by R. A. Hein _et al._
+(Plenum, New York, 1991), p. 437. * [7] J. Annett, N. Goldenfeld, and S.
+R. Renn, Phys. Rev. B **43**, 2778 (1991). * [8] J. Y. Lee and T. R.
+Lemberger, Appl. Phys. Lett. **62**, 2419 (1993). * [9] Z. Ma _et al._,
+Phys. Rev. Lett. **71**, 781 (1993). Although this paper reports data
+only below 23 K, the curvature of λ⁻²(T) for the two highest-T_(c)
+Y-Ba-Cu-O films below 23 K is so strong that λ⁻² must have an inflection
+point between 23 K and T_(c). * [10] Y. Y. Lee, Ph.D. thesis, Ohio State
+University, 1994 (unpublished). * [11] N. Klein _et al._, Phys. Rev.
+Lett. **71**, 3355 (1993). * [12] K. M. Paget, J. Y. Lee, T. R.
+Lemberger, S. Y. Hou, and J. M. Phillips (unpublished). These workers
+find an inflection point in λ⁻²(T) at about 40 K in films made by
+codeposition on twinned LaAlO₃ substrates. * [13] W. N. Hardy _et al._,
+Phys. Rev. Lett. **70**, 3999 (1993). * [14] P. J. Hirschfeld and N.
+Goldenfeld, Phys. Rev. B **48**, 4219 (1993). * [15] P. J. Hirschfeld,
+P. Wolfle, and D. Einzel, Phys. Rev. B **37**, 83 (1988). * [16] H. Kim,
+G. Preosti, and P. Muzikar, Phys. Rev. B **49**, 3544 (1994); C. H. Choi
+and P. Muzikar, _ibid._ **39**, 11 296 (1989). * [17] M. Prohammer and
+J. P. Carbotte, Phys. Rev. B **43**, 5370 (1991). * [18] B. Jeanneret
+_et al._, Appl. Phys. Lett. **55**, 2336 (1989). * [19] J.-Y. Lee _et
+al._ (unpublished). * [20] E. R. Ulm, J.-T. Kim, and T. R. Lemberger,
+Physica B **194-196**, 2331 (1994).

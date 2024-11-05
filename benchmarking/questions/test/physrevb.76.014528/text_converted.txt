@@ -1,0 +1,547 @@
+# Superconductivity in the complex metallic alloy β-Al₃Mg₂
+
+E. Bauer, H. Kaldarar, R. Lackner, H. Michor, and W. Steiner
+
+Institut fur Festkorperphysik, Technische Universitat Wien, A-1040 Wien,
+Austria
+
+E.-W. Scheidt
+
+Lehrstuhl fur Chemische Physik und Materialwissenschaften, Universitat
+Augsburg, D-86159 Augsburg, Germany
+
+A. Galatanu
+
+National Institute for Materials Physics, 77125 Magurele, Romania
+
+F. Marabelli
+
+Physics Department "A. Volta," University of Pavia, I-27100 Pavia, Italy
+
+T. Wazumi and K. Kumagai
+
+Division of Physics, Graduate School of Science, Hokkaido University,
+Sapporo 060-0810, Japan
+
+M. Feuerbacher
+
+Forschungszentrum Julich GmbH, D-52425 Julich, Germany
+
+19 March 2007200
+
+## II Experiment
+
+The samples investigated here belong to the same batch of material as
+described in Ref. 6. Pieces of _b_-Al3Mg2 were cut from a single crystal
+grown according to the flux-growth technique.[8] After the growth
+process, the samples were subjected to a heat treatment at 190 deg C for
+48 h, ensuring that they are in the low temperature trigonal phase. All
+investigations described in this study were carried out below room
+temperature.
+
+Bulk properties of _b_-Al3Mg2 were studied in the temperature range from
+100 mK up to room temperature. Field and temperature dependent
+resistivity was measured in a 3He cryostat (400 mK up to 100 K) in
+fields up to 12 T and in a standard He cryostat from 4.2 K to room
+temperature. Heat capacity studies were performed at temperatures
+ranging from 1.5 K up to 120 K by means of a quasidadiabatic step
+heating technique. Specific heat data were also collected at
+temperatures down to about 100 mK in a 3He/4He cryostat using a
+relaxation method.[9] Optical reflectivity at room temperature has been
+measured over the spectral range from 16 meV up to 6 eV. Spectroscopic
+ellipsometry has been used from 1.4 to 5 eV. 27Al-NMR was performed with
+a pulse Fourier transform spectrometer in a superconducting magnet of
+9.4 T between 300 and 4.3 K.
+
+## III Results and Discussion
+
+### Bulk properties
+
+The temperature dependent electrical resistivity _r_(_T_) of _b_-Al3Mg2
+is shown in Fig. 1(a). As an overall feature, _r_(_T_) of _b_-Al3Mg2
+exhibits a residual resistivity ratio of about 1.16 only, with a
+residual resistivity r0 = 33 _m_O cm. The latter can be considered as
+evidence of significant intrinsic disorder, originated by distinct
+features of the crystal structure and/or reduced carrier density. In
+agreement with previous results of Dolinsek _et al._,[7] the resistivity
+at low temperatures follows roughly a power law with r = r0 + _AT_2,
+implying electron-electron interaction in metals. At more elevated
+temperatures, however, the resistivity of _b_-Al3Mg2 is characterized by
+a strong curvature, which cannot be accounted for in terms of standard
+models for metallic compounds. Particularly, the Bloch-Gruneisen law
+fails to describe the interaction of electrons with thermally excited
+phonons in _b_-Al3Mg2. Rather, the overall _r_(_T_) dependence of
+_b_-Al3Mg2 follows the model of Woodward and Cody,[10] which initially
+was applied to A15 superconductors such as Nb3Sn. This model reads
+
+ρ = ρ₀ + ρ₁T + ρ₂exp (−T₀/T),
+
+where r0 is the residual resistivity; r1, r2, and T0 are material
+dependent parameters. The second and third terms of Eq. (1) represent
+the high and low temperature limits of the occupation number of a
+particular phonon, which assists in interband scattering according to
+Wilson’s model.[11] A more detailed discussion on the temperature
+dependent resistivity of various superconductors in the normal state
+region is also given in Ref. 11. A least squares fit of Eq. (1) to the
+experimental data of _b_-Al3Mg2 is shown in Fig. 1 as a solid line,
+revealing excellent agreement between the model and data for r0 = 33.3
+_m_O cm, r1 = 0.0035 _m_O cm/K, r2 = 5.64 _m_O cm, and T0 = 95 K.
+
+Measurements performed below 4 K [inset, Fig. 1(a)] demonstrate that
+_b_-Al3Mg2 undergoes a sharp superconducting transition around 0.9 K.
+The application of a magnetic field lowers the transition temperature
+which finally becomes suppressed at the upper critical field m0_H_c2(0)
+= 0.14 T. These data allow to establish the temperature dependence of
+m0_H_c2, displayed in Fig. 1(b). In comparison, superconductivity of
+pure fcc Al is characterized by _T_c = 1.14 K and a critical field
+m0_H_c(0) = 0.0105 T (type I superconductor). Superconductivity was not
+yet found for Mg.
+
+Werthamer _et al._[12] derived an expression for the upper critical
+field _H_c2(0) in terms of orbital pair breaking, including the effect
+of Pauli spin paramagnetism and spin-orbit scattering. For dirty limit
+superconductors, _H_c2(0) follows from
+
+H_(c2)(0) = 0.69|H_(c2)^(′)|T_(c).
+
+Equation (2) corresponds to a = 0 and l_(o) = 0, where a is the Maki
+parameter and l_(o) the spin-orbit scattering parameter. The latter has
+been shown to increase with increasing atomic numbers of the composing
+elements[13] and is thus expected to be small for _b_-Al3Mg2. The Maki
+parameter a can be estimated via the Sommerfeld value of the specific
+heat g and the residual resistivity r0.[12]
+
+$$\alpha = \frac{3e^{2}\hbar\gamma\rho_{0}}{2m\pi^{2}k_{B}^{2}},$$
+
+with e the electron charge and m the electron mass. Taking the
+experimental residual resistivity and the Sommerfeld value (see below)
+yields a = 0.11. Note that a similar value can be derived from[14]
+
+Figure 1: (Color online) (a) Temperature dependent electrical
+resistivity r of _β_-Al3Mg2. The solid line is a least squares fit
+according to Eq. (1). The inset shows the onset of a superconducting
+transition at _T
+$$\alpha = 5.3 \times 10^{- 5}\left.\left[\frac{-\,dH_{c2}(T)}{dT}\right] \right|_{T=T_{c}} = 0.12,$$
+(4)
+
+for an initial slope of the upper critical field μ_(O)H_(c2)^(′) = -0.23
+T/K [compare Fig. 1(a)]. Regarding the concerned lightweight elements Al
+and Mg, as well as α = 0.1, we used α = 0 and λ_(so)=0 for a description
+of H_(c2)(T) of β-Al₃Mg₂. Results are shown as dashed line in Fig. 1(b),
+revealing μ_(O)H_(c2)(0) = 0.143 T and a reasonable agreement with the
+experimental data.
+
+Orbital pair breaking is the most relevant mechanism in the low field
+limit and therefore determines H_(c2)^(′). The Maki parameter α = 0.1 of
+β-Al₃Mg₂ corresponds with a dominating orbital field, while for α → ∞,
+orbital limiting can be neglected. Then, Pauli limiting would allow for
+an upper critical field of more than 1 T.
+
+Measurements of the temperature dependent specific heat C_(p) of
+β-Al₃Mg₂ evidence superconductivity as bulk effect, not originated from
+spurious phases. Results are shown in Fig. 2.
+
+The heat capacity C_(p) of β-Al₃Mg₂ is plotted in the main panel of Fig.
+2 as C_(p)/T vs T for temperatures T>T_(c). Applying the standard
+analysis to the low temperature data yields a Sommerfeld coefficient
+γ=6.6 mJ/mol K² and a Debye temperature θ_(D)=373 K. The Debye
+temperatures of the light-weight elements Al and Mg are 394 and 318 K,
+respectively. A weighted average of these temperatures roughly coincides
+with θ_(D) of β-Al₃Mg₂. Debye temperatures of similar magnitude were
+previously reported for related icosahedral cluster substructures based
+on Al.[15] The Sommerfeld values of Al and Mg are 1.35 and 1.3 mJ/mol
+K², respectively, yielding an average of 1.33 mJ/g at K². In comparison,
+β-Al₃Mg₂ results in 1.21 mJ/g at K². However, it should be noted that
+the above outlined analysis for T>T_(c) holds only for a very narrow
+temperature range, indicating that the simple Debye model is
+insufficient to adequately describe the phonon dynamics of this system.
+A more elaborate model takes into account a more realistic phonon
+density of states (see below).
+
+Within the McMillan model, both quantities together, i.e., γ and θ_(D),
+determine the superconducting transition temperature T_(c).[16]
+
+$$T_{c} = \frac{\theta_{D}}{1.45}\exp\left[\frac{-\,1.04(1+\lambda)}{\lambda -\mu_{c}^{*}(1+0.62\lambda)}\right],$$
+(5)
+
+with λ as a dimensionless electron-phonon coupling constant, related in
+terms of the Eliashberg theory to the phonon density of states. λ
+determines the attractive part of the Cooper pair bonding, while μ^(*)
+is the repulsive screened Coulomb part, frequently set to =0.13.
+Applying this simple model yields λ = 0.42, indicating a weakly coupled
+superconductor.
+
+The inset of Fig. 2 summarizes the heat capacity measurement below 1.5
+K. Clearly observable is the specific heat anomaly below 1 K, which, in
+agreement to the resistivity data, is considered as a signature of bulk
+superconductivity. Idealization of the heat capacity anomaly under the
+constraint of entropy balance between the superconducting and the normal
+state yields T_(c) = 0.87 K. The jump of the specific heat
+$\Delta C_{p}/T(T = T_{c}) = 8.5 mJ/mol K\({}^{2}$ allows calculation of
+the parameter ΔC_(p)/(γ_(n)T_(c)) = 1.41, which matches closely the
+figure expected from BCS theory [ΔC_(p)/(γT_(c)) = 1.43]. BCS-type
+superconductivity follows also from an application of the data set of
+Muhlschlegel[17] to the heat capacity results of β-Al₃Mg₂. Results of
+this procedure are shown as a solid line in the inset of Fig. 2,
+revealing fine agreement with the fully gapped BCS superconductivity.
+Applying the BCS formula for the electronic contribution to the specific
+heat well below T_(c), i.e.,
+
+$$C_{es} = 8.5\gamma T_{c}\exp\left[-\,0.82\frac{\Delta_{BCS}(0)}{k_{B}T} \right],$$
+(6)
+
+reveals a gap width Δ_(BCS)(0) of the order of 1.5 K, as well as γ = 6.5
+mJ/mol K², in excellent agreement with the Sommerfeld value deduced from
+the normal state region. This gap width is also consistent with
+Δ = 1.76T_(c) = 1.58 K, if Δ is expressed in kelvin. The thermodynamic
+critical field is calculated from the free energy difference between the
+superconducting and normal states:
+$\Delta F(T) = F_{n} - F_{s} = \mu_{0}H_{c}^{2}(T)/2 = \int_{T_{c}}^{T}\frac{f_{c}^{\prime\prime}\left( \frac{C_{p}-C_{s}}{T_{c}}\right)}{T^{\prime\prime}}dT^{\prime}$.
+C_(s)(T) is obtained from the zero field specific heat measurement and
+C_(s)(T) is taken from an extrapolation of the normal state specific
+heat by C_(n)(T) = γT + βT³. The value μ₀H_(c)(0) ≈ 7.6(2) mT obtained
+for β-Al₃Mg₂ is slightly reduced as compared to Al with
+μ₀H_(c)(0) ≈ 10.5 mT, approximately by the same factor as T_(c).
+
+In order to obtain more aspects on the lattice dynamics of β-Al₃Mg₂, we
+employ in Fig. 3 a (C_(p) − γT)/T³ vs ln T representation. This
+particular representation allows us to emphasize deviations from the
+simple Debye model, which, at low temperatures, follows Cp ∝ T³. Note
+that the Sommerfeld value extrapolated from the normal state region, γ
+
+Figure 2: (Color online) Temperature dependent specific heat C_(p) of
+β-Al₃Mg₂ plotted as C_(p)/T vs T. The inset shows low temperature heat
+capacity data, evidencing bulk superconductivity. The solid line adjusts
+the numerical data of Muhlschlegel (Ref. [17]) to the present
+experiment.
+
+=6.6 mJ/mol K2, is subtracted in this plot. Obviously, the heat capacity
+of _b_-Al3Mg2 deviates from a Debye-like behavior almost in the entire
+temperature range studied.
+
+The deviations from the simple Debye model imply a rather complicated
+phonon spectrum present in this compound. In order to qualitatively and
+quantitatively describe the lattice dynamics, we have adapted a model
+which incorporates some fine structure in the phonon density of states
+(see Refs. [18] and [19]). The latter is represented by a spectral
+function _F_(_o_), allowing to express the heat capacity as
+
+$$C_{ph}(T) = 3R{\int_{0}^{\infty}}F(\omega)\frac{\left(\frac{\omega}{2T}\right)^{2}}{{\sinh^{2}}\left(\frac{\omega}{2T}\right)}d\omega,$$
+(7)
+
+with o the phonon frequency and R the gas constant. The most common
+assumptions on _F_(_o_) are _F_(_o_) = _d_(_o_) and _F_(_o_) = o2 up to
+a cut-off frequency o_(D), corresponding to the well known Einstein and
+Debye models, respectively. Junod _et al._[19] demonstrated that certain
+functionals of the phonon specific heat take the form of convolutions of
+the phonon spectrum. Particularly, (5/4)_R_p_4_C_ph_T_3 is an image of
+the spectrum _o_-2_F_(_o_) for _o_=4.93T, where o is expressed in
+kelvin. Based on these considerations, we have constructed an elementary
+phonon spectrum and have carried out least squares fits to the data. In
+the first approximation, we have assumed that besides a Debye density of
+states, the system is composed of two additional, energetically
+separated Einstein-like modes. However, different to standard Einstein
+models of the specific heat, a certain frequency width for each Einstein
+branch is allowed. Results of this procedure are shown in Fig. 3. The
+overall goodness of the fit is extremely high (_r_2=0.999), revealing a
+Debye temperature _th__D_=354 K, in well agreement with the above
+indicated low temperature estimation. Two block-shaped Einstein-like
+contributions are derived, centered at _o__E_21=55 K and _o__E_22=150 K,
+with corresponding spectral widths of 14 and 116 K, respectively. Based
+on this fit, the phonon spectrum is constructed and plotted in Fig. 3,
+referring to the right axis (solid line). The spectral weight follows
+from the advisement that for _T_=0, the height of the phonon density of
+states coincides with the extrapolated value of _C__p_/_T_3 for T - 0.
+Both contributions have different spectral weights; the height of these
+contributions appears to be small sized, implying only to weaker
+corrections of a Debye spectrum. The substantial width of the upper
+Einstein-like contribution may represent the complex phonon DOS composed
+from a superposition of various single Einstein modes, in line with the
+exceptionally complex crystal structure of _b_-Al3Mg2. Such an
+extraordinary width of phonon branches was not found in other
+complicated structured materials such as cage-forming compounds like
+skutterudites and clathrates.[20]
+
+Optical reflectivity was Kramers-Kronig (KK) transformed to obtain both
+the real and the imaginary part of the dielectric function, _ε_1 and
+_ε_2, respectively. Ellipsometric data were used to correct the effects
+of light scattering at the highest energies and to check the results of
+KK. Results are shown in Fig. 4. The spectrum exhibits a typical
+metallic behavior, allowing to use the Drude model; appropriate formulas
+are shown in Fig. 4. One Lorentz oscillator has been added to account
+for some deficiencies of the model at the largest energies and improve
+the fit result in this region. This additional oscillator can be
+ascribed to interband transitions, likely to occur in a complex system
+such as _b_-Al3Mg2. The spectral weight of this contribution is small
+(_b_=4 eV, G =2.3 eV, o0=0.9 eV) and does not affect the values of the
+Drude term. The plasma frequency _b_o_0, turns out to be 9.4 eV and the
+scattering term _b_γ = 0.43 eV corresponds to a relatively low
+scattering time _τ_=1.53 x 10-15 s. Taking into account the Drude model
+for conductivity results in s0 = _o__p_2/(4_π_γ_*) =4.48 x 10-16 s-1,
+corresponding to a room temperature resistivity _r__RT_=37 u Ω cm. The
+latter is in excellent agreement with the static resistivity data
+[compare Fig. 1(a)], consolidating the analysis presented.
+
+In order to evaluate the effective mass m of the charge carriers of
+_b_-Al3Mg2 from the plasma frequency, we have
+
+Figure 4: (Color online) Optical reflectivity and complex dielectric
+function of _β_-Al3Mg2.
+
+Figure 3: (Color online) Temperature dependent specific heat C_(p) of
+_β_-Al3Mg2, plotted as (C_(p) −γ_T_)/_T_3 vs ln T. The dashed line is a
+least squares fit of the experimental data using the model described in
+the text with two Einstein modes _ωE_21=55 K with width of 14 K and
+_ωE_22=150 K with width of 116 K. The Debye temperature _θ_0=354 K. The
+solid line sketches the phonon spectral function _F_(_o_) plotted as
+(5/4)_R_π_α_α_α_2-_F_(_o_) vs _ω_/4.93, where _ω_ is given in kelvin.
+
+carried out Hall effect measurements, yielding an almost constant value
+n = 1.5 x 1023 cm-3 for temperatures below 100 K. Using
+
+$$\omega_{p}^{2} = \frac{4\pi me^{2}}{m},$$
+
+with e the electron charge, allows estimation of the effective mass m.
+With _h_o__p_ = 9.4 eV and _m_’ = _m_/_m__e_ (m_(e) is the electron
+mass), it follows that _n_/_m_’ = 0.64 x 1023 cm-3. In the context of
+the Hall carrier density, the mass enhancement _m_’ is then of the order
+of 2. Inspecting data of the pure elements reveals _n_Al = 1.8 x 1023
+cm-3 and _n_Mg = 0.86 x 1023 cm-3; an average would then be n_(v) = 1.5
+x 1023 cm-3. This coincidence suggests that the electronic structure of
+_b_-Al3Mg2 does not differ substantially from a superposition of the
+electronic structures of the constituent elements. A very recent study
+of the electronic structure of _b_-Al3Mg2 using soft x-ray spectroscopy,
+however, evidenced a _d_-state-like feature near the Fermi energy,
+absent in pure Al, as well as Mg.21 This may then explain the effective
+charge carrier mass _m_’ 2.
+
+Some information on the electronic structure of _b_-Al3Mg2 can be gained
+from NMR studies as well. Data on polycrystalline _b_-Al3Mg2 were
+recently reported by Dolinsek _et al._, 7 while the present study is
+made on single crystalline _b_-Al3Mg2.
+
+A narrow NMR spectrum of the central +-1/2 +- +- 1/2 transition for I =
+5/2 nuclear spin of 27Al was observed. The full width at half intensity
+amounts to 14 kHz at m0_H_ = 9.4 T, being temperature independent.
+Besides, a broadened spectrum of the quadrupole split satellite with
+small intensity around the central line is obvious from the inset of
+Fig. 5. The spectrum extends over a frequency interval of about 300 kHz,
+and the nuclear quadrupole frequency n0[= 3e2_q_Q_/2_I_(2I - 1)] amounts
+to about 250 kHz. Here, q is the electrical field gradient and Q is the
+nuclear quadrupole moment. These observations imply the existence of a
+nonvanishing electric field gradient at the Al site and corroborates the
+low symmetric environment around Al, as expected from the complex
+structure of _b_-Al3Mg2.
+
+Figure 5 shows the temperature dependent Knight shift determined from
+the peak position. As the second order quadrupole shift of the central
+line is negligibly small, the shift derives purely from magnetic
+origins. The nearly symmetric shape of the spectrum shows that the
+anisotropy of the Knight shift is very small. The Knight shift is almost
+temperature independent between 4.3 and 300 K, as shown in Fig. 5, and
+amounts to +0.135
+
+The measurements of the NMR nuclear spin-lattice relaxation rate T1 were
+done by the method of saturation of the central line and a subsequent
+monitoring of the nuclear magnetization recovery _M_(_t_) at variable
+delay times t. The relaxation rate defined as 1/_T_1 = 2W, where W
+represents the spectral density of the fluctuating internal magnetic
+fields, was extracted by fitting the data to the recovery function,
+_M_(_t_)/_M_(_o_) = 1 - exp[-(2_W_t_)1/2], which is obtained for the
+case that T1 is widely distributed.23 Least squares fits yield good
+agreement in the entire temperature range. These results are presented
+in Fig. 6 as 1/_T_1T vs T (main panel) and 1/_T_1 vs T (in the inset).
+Contrary to the relaxation rate expected for a metal, where T1_T_
+remains constant, 1/_T_1T of _b_-Al3Mg2 increases with decreasing
+temperature. Additionally, a cusp-type anomaly is observed around 58 K
+and 1/_T_1T rapidly rises below that temperature. This suggests
+contributions from dynamical features of the electron-electron
+interaction, becoming enhanced at low temperature. A plot of the data
+according to 1/_T_1 vs T (inset of Fig. 6)
+
+Figure 5: (Color online) Temperature dependence of the Knight shift
+(27Al) of _β_-Al3Mg2 at H = 9.4 T. The inset shows the 27Al spectrum at
+10 K.
+
+Figure 6: Temperature dependence of the nuclear spin-lattice relaxation
+rate of _β_-Al3Mg2. The main panel displays 1/_T_1T vs T and the inset
+shows a 1/_T_1 vs T plot. The broken line refers to a T1_T_ =const
+relation.
+
+reveals additional intensity below ≈200 K, with a broad peak around 58
+K.
+
+The principal relaxation mechanism of the ²⁷Al nucleus is the
+Fermi-contact interaction, also dominating the Al Knight shift. For a
+metal with s electrons, 1/_T_1T is directly proportional to the square
+of LDOS, i.e., 1/_T_1_T_c_k_B_N_(_E_F_)2. The value of 1/_T_1_T_=0.1 (s
+K)-1 obtained at the high temperature limit, apart from the additional
+contribution below 250 K (shown by the broken line in the inset of Fig.
+6), is also comparable with pure Al metal. Thus, NMR results suggest
+that the DOS of β-Al3Mg2 compound is close (at most 50
+
+At present, the origin of the anomalous enhancement of 1/_T_1 with
+decreasing temperature, which is only observed in 1/_T_1 but not in
+Knight shift, remains unclear. Its dynamical features, however, remain
+without relevance for static magnetic qualities.
+
+### Superconducting and normal state parameters of β-Al3Mg2
+
+The above indicated values of the thermodynamic and the upper critical
+field, _H_c(0) ≈ 7.6 mT and _H_c2(0) ≈ 0.14 T, are used to calculate the
+ratio of the spatial variation length of the local magnetic field
+$\lambda_{\rm GL}(0)$ to the coherence length $\xi_{\rm GL}(0)$ via
+Abrikosov’s relation $\lambda_{\rm GL}(0)/\xi_{\rm GL}(0)$ = _k_GL(0) =
+_H_c2/[$\sqrt{2}H_{c}(0)$] yielding the Ginzburg-Landau parameter
+_k_GL=13(2) for β-Al3Mg2.
+
+The absolute values of the coherence length ξ₀ and the penetration depth
+λ(0) can be evaluated with the basic equations of the isotropic
+Ginzburg-Landau-Abrikosov-Gor’kov theory:
+
+$$\kappa(T)=\frac{2\pi\sqrt[2]{2}\mu_{0}H_{c}(T)\lambda_{\rm GL}^{2}(T)}{\Phi_{0}}$$
+(9)
+
+and
+
+$$\mu_{0}H_{c2}(T)=\frac{\Phi_{0}}{2\pi\xi_{\rm GL}^{2}(T)},$$
+(10)
+
+with Φ₀=_h_/2e, the fluxoid quantum. The values obtained thereby are
+$\lambda_{\rm GL}(0)$=
+_k_$\sqrt[\frac{\Phi_{0}}{2\pi\mu_{0}H_{c2}}$=5.3×10⁻⁷ m and
+$\xi_{\rm GL}(0)$≈ 4.85×10⁻⁸ m. The very large value of κ≈ 13 as
+compared to κ∼ 0.03 for pure Al (Ref. 26) is, at least partially, a
+consequence of the largely reduced mean free path, as inferred from the
+large residual resistivity ρ₀=33.3 _m_D cm of β-Al3Mg2. Using the
+Gor’kov-Goodman relation,²⁷κ= κ₀ + 0.0237$\sqrt{\gamma}\rho_{0}$, where
+κ₀ is the clean limit value of the Ginzburg-Landau parameter, g is the
+Sommerfeld coefficient in units of J/m³ K², and ρ₀ is the residual
+resistivity in _m_Ω cm, yields κ ≈ 8.3 if κ₀∼ $\kappa_{\rm Al}$. The
+experimental value κ≈ 13 provides a rough estimate of κ₀∼ 5 for β-Al3Mg2
+in the hypothetical clean limit case.
+
+In the following, we estimate a set of typical parameters from an
+analysis of superconducting and normal state properties in terms of the
+BCS theory,²⁴ assuming a spherical Fermi surface. Starting parameters
+are γ_(s)=0.0066 J/mol K², μ₀H_(c2)^(′)=−0.2 T/K, μ₀H_(c2)^(′)(0) ≈ 0.14
+T, and ρ₀=33.3 _m_D cm. The transition temperature into the
+superconducting ground state as observed from heat capacity data is 0.87
+K.
+
+The effective Fermi surface $\rm S_{s}^{\rm f}$ is computed^(24, 25) as
+$S_{s}^{\rm f/f}$≃ 2.1 × 10²⁰ m⁻² for the dirty limit. Within this
+limit, μ₀H_(c2)^(′)(calc) = 4490γρ₀= −0.16 T/K, well in agreement with
+the experimental data [compare Fig. 1(b)]. Combining the Fermi surface
+with γ_(s) gives the Fermi velocity υ_(F)≈ 36 600 m/s and in the context
+of the residual resistivity ρ₀=33.3 _m_Ω cm, a mean free path l_(tr)≈
+5.5 × 10⁻⁸ m can be derived. The coherence length ξ₀ for T→ 0 follows
+from the BCS equation, ξ₀=0.18υ_(F)l_(tr)/(k_(B)T_(c)) ≈ 5.6 × 10⁻⁸ m. κ
+can be derived from κ=529H_(c2)^(′)/γ_(s)^(1/2)≈ 10.2, while the London
+penetration depth follows from λ_(L)(0)= 5.04 × 10¹²γ_(s)^(1/2)/S_(s)=
+6.3 × 10⁻⁷ m. In spite of the very complex crystalline structure of
+β-Al3Mg2, the system does not behave like typical amorphous
+superconductors^(28, 29) since both the coherence length and the mean
+free path are almost one order of magnitude larger than the largest unit
+cell dimension of β-Al3Mg2. Additionally, amorphous superconductors are
+characterized by an extended linearity of _H_c2(_T_), while H_(c2)(_T_)
+of β-Al3Mg2, within the experimental resolution, is rather curvilinear.
+
+The parameters κ, ξ₀, and λ_(L)(0), evaluated from the upper and the
+thermodynamic critical field, excellently agree with model calculations
+based on the free electron model. This allows to conclude that, although
+the crystal structure of β-Al3Mg2 is rather complicated, the relevant
+parts of the electronic structure remain rather isotropic. The fact that
+l_(tr)/ξ≈ 1 classifies β-Al3Mg2 as a dirty limit superconductor, while
+κ≈ 13 indicates type II superconducting behavior.
+
+## IV Summary
+
+Based on low temperature electrical resistivity and specific heat
+measurements, we have shown that β-Al3Mg2 undergoes a phase transition
+into a superconducting ground state at _T_c = 0.87 K. Microscopically,
+superconductivity can be understood in terms of the phonon-mediated BCS
+model. An exponential behavior of the specific heat well below _T_c
+implies a nodeless superconducting gap in the electronic density of
+states, of the order of Δ ≈ 1.6 K. The initial slope of the upper
+critical field is deduced as μ₀H_(c2)^(′)= −0.2 T/K, while an
+extrapolation T→ 0 yields μ₀H_(c2)(0)= 0.14 T. The limiting pair
+breaking mechanism seems to be orbital pair breaking, as concluded from
+the model of Werthamer _et al.¹²_
+
+Superconductivity in β-Al3Mg2 occurs in a crystal environment without
+inversion symmetry. Broken inversion symmetry has a distinct influence
+on the superconducting phase, which usually relies on the formation of
+pairs of electrons in degenerate states with opposite momentum. The
+availability of such states is normally guaranteed by time reversal and
+inversion symmetries.^(30, 31) The absence of inversion symmetry would
+favor a strong antisymmetric spin-orbit coupling and, as a consequence,
+a mixture of spin-singlet and spin-triplet pairs in the superconducting
+condensate can be expected.³² The small values of the upper critical
+field, however, seem to exclude a substantial portion of spin-triplet
+pairs in the condensate. Moreover, the lightweight elements Al and Mg
+may be responsible for only a minimal spin-orbit coupling in β-Al3Mg2;
+hence, the spin-singlet condensate dominates. Additionally, the very
+complex crystal structure is supposed to smooth the effect of the
+missing inversion symmetry. A rather conventional superconductivity
+seems to appear, which also follows from the agreement of the upper
+critical field with Werthamer’s model. Presently, only a small number of
+superconductors without inversion symmetry have been found. For a recent
+review on this subject, see, e.g., Ref. [33].
+
+Although the crystal structure of β-Al₃Mg₂ appears to be rather
+complicated, the various physical quantities derived in both the
+superconducting and the normal state region turn out to be simple. In
+the first approximation, some of these quantities even look like a
+balanced superposition of pure Al and Mg. The latter follows from
+macroscopic measurements such as the specific heat and microscopic data
+like those derived from NMR as well.
+
+###### Acknowledgements.
+
+This work was supported by the European Network of Excellence on Complex
+Metallic Alloys supported by EU under Contract No. NMP3-CT-2005-500140,
+by the Austrian Science Foundation, Project No. FWF-P-18054, and by the
+Romanian Project Ceex M3-204/2006.
+
+## References
+
+* [1] L. Pauling, J. Am. Chem. Soc. **45**, 2777 (1923). * [2] G.
+Bergman, J. L. T. Waugh, and L. Pauling, Acta Crystallogr. **10**, 254
+(1957). * [3] M. Boudard, H. Klein, M. de Boissieu, M. Audier, and H.
+Vincent, Philos. Mag. A **74**, 939 (1996). * [4] K. Urban and M.
+Feuerbacher, J. Non-Cryst. Solids **334-335**, 143 (2004). * [5] S.
+Samson, Acta Crystallogr. **19**, 401 (1965). * [6] M. Feuerbacher _et
+al._, Z. Kristallogr. **222**, 259 (2007). * [7] J. Dolinsek _et al._,
+Intermetallics **15**, 1367 (2007). * [8] M. Lipinska-Chwalek, S.
+Balanetskyy, C. Thomas, S. Roitsch, and M. Feuerbacher, Intermetallics
+(to be published). * [9] R. Bachmann _et al._, Rev. Sci. Instrum.
+**43**, 205 (1972). * [10] D. W. Woodward and G. D. Cody, Phys. Rev.
+**136**, A166 (1964). * [11] R. Caton and R. Viswanathan, Phys. Rev. B
+**25**, 179 (1982). * [12] N. R. Werthamer, E. Helfand, and P. C.
+Hohenberg, Phys. Rev. **147**, 295 (1966). * [13] K. M. Wong, E. J.
+Cotts, and S. J. Poon, Phys. Rev. B **30**, 1253 (1984). * [14] K. Maki,
+Phys. Rev. **148**, 362 (1966). * [15] C. Walti, E. Felder, M. A.
+Chemikov, H. R. Ott, M. de Boissieu, and C. Janot, Phys. Rev. B **57**,
+10504 (1998). * [16] W. L. McMillan, Phys. Rev. **167**, 331 (1968). *
+[17] B. Muhlschlegel, Z. Phys. **155**, 313 (1959). * [18] A. Junod, D.
+Bichsel, and J. Muller, Helv. Phys. Acta **52**, 580 (1979). * [19] A.
+Junod, T. Jarlborg, and J. Muller, Phys. Rev. B **27**, 1568 (1983). *
+[20] St. Berger, Ph.D. thesis, TU Wien, 2003. * [21] E. Belin and J. M.
+Dubois (unpublished). * [22] G. C. Cater, L. H. Bennet, and D. J. Kahan,
+Progress in Material Science (Pergamon, New York, 1977). * [23] K.
+Kumagai and F. Y. Fradin, Phys. Rev. B **27**, 2770 (1983). * [24] See,
+for example, M. Tinkham, _Introduction to Superconductivity_
+(McGraw-Hill, New York, 1975). * [25] See, for example, R. R. Hake,
+Phys. Rev. **158**, 356 (1967). * [26] See, for example, C. P. Poole, H.
+A. Farach, and R. J. Creswick, _Superconductivity_ (Academic, San Diego,
+1995). * [27] L. P. Gorkov, Zh. Eksp. Teor. Fiz. **37**, 1407 (1959)
+[Sov. Phys. JETP **10**, 998 (1960)]; B. B. Goodman, IBM J. Res. Dev.
+**6**, 62 (1962). * [28] W. L. Johnson, S. J. Poon, and P. Duwez, Phys.
+Rev. B **11**, 150 (1975). * [29] W. L. Johnson and S. J. Poon, J. Appl.
+Phys. **46**, 1787 (1975). * [30] P. W. Anderson, J. Phys. Chem. Solids
+**11**, 26 (1958). * [31] P. W. Anderson, Phys. Rev. B **30**, 4000
+(1984). * [32] L. P. Gor’kov and E. I. Rashba, Phys. Rev. Lett. **87**,
+037004 (2001). * [33] E. Bauer, H. Kaldarar, A. Prokofiev, E. Royanian,
+A. Amato, J. Sereni, W. Brammer-Escamilla, and I. Bonalde, J. Phys. Soc.
+Jpn. **76**, 051009 (2007).

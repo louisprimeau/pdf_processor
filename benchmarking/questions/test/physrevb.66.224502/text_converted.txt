@@ -1,0 +1,635 @@
+# Exotic magnetism and superconductivity in Ge-substituted CeCu₂Si₂: A
+Cu NQR study
+
+Y. Kawasaki,* K. Ishida,^(†) K. Obinata, K. Tabuchi, K. Kashima, and Y.
+Kitaoka
+
+Department of Physical Science, Graduate School of Engineering Science,
+Osaka University, Toyonaka, Osaka 560-8531, Japan
+
+O. Trovarelli, C. Geibel, and F. Steglich
+
+Max-Planck Institute for Chemical Physics of Solids, D-01187 Dresden,
+Germany
+
+Received 4 October 2001; revised manuscript received 28 May 2002;
+published 6 December 2002
+
+###### Abstract
+
+We report Cu NQR results on Ge-doped heavy-fermion superconductors
+CeCu₂(Si_(1 − x)Ge_(x))₂ (0 < x <= 0.2) and compare with previous
+results on Ce_(0.99)Cu_(2.02)Si₂ (_x_ = 0). Once only 1
+
+pacs: DOI: 10.1103/PhysRevB.66.224502 PACS number(s): 74.70.Tx,
+71.27.+a, 74.62.Dh, 76.60.-k + Footnote †: preprint: PHYSICAL REVIEW B
+**66**, 224502 (2002)
+
+## I Introduction
+
+Heavy-fermion (HF) superconductivity has received much attention with
+respect to the intimate relation between magnetism and
+superconductivity. Up to now, it has been established that the
+superconductivity in Ce-based HF compound appears close to a magnetic
+phase. Actually, a number of HF compounds are shown to exhibit
+superconductivity around a critical pressure where some kind of magnetic
+order is suppressed by applying pressure (_P_). [1-4] In contrast, the
+superconductivity in underlying compound CeCu₂Si₂ emerges just at the
+border of the antiferromagnetic (AFM) phase at ambient pressure (_P_ =
+0). This was demonstrated by the existence of a magnetic phase adjacent
+to the superconducting (SC) state. When magnetic field (_H_) exceeds its
+upper critical field, the field induced normal state is replaced by
+magnetic phase A. [5] Although the nature of phase A is still unknown,
+it was shown to be magnetic in origin by several experiments. [5-7]
+
+From the Cu-NQR measurements, [8] we suggested that phase A at H = 0
+behaves as a marginal AFM state, where slowly fluctuating AFM waves
+propagate over a long distance and coexist with the SC state. It is
+quite unusual that their characteristic frequency (o_(c)   3 × 106
+sec⁻¹) is extremely low and comparable to a Cu-NQR frequency in this
+compound. [9] Therefore, this marginal AFM state that sets in well above
+T_(c), wipes out the NQR intensity. [6] This wipe-out effect was
+reported in high-_T__c_ cuprates La_(2 − x)Sr_(x)CuO₄ as well. [10,11]
+Thereby, the emergence of slowly fluctuating AFM waves seems to be one
+of characteristics for strongly correlated electron systems nearby the
+AFM phase.
+
+These exotic magnetic and SC properties in Ce_(0.99)Cu_(2.02)Si₂ (T_(c)
+  0.65 K) have been extensively investigated through the transport,
+thermal, and NQR measurements. [9, 12-24] From these studies, it was
+clarified that Ce_(0.99)Cu_(2.02)Si₂ is just at the border to the AFM
+phase and that exotic superconductivity manifests itself under the
+unconventional normal state where the slowly fluctuating AFM waves
+propagate over a long range without any trace of AFM order. The
+measurement of nuclear spin-lattice relaxation rate 1/_T_1, that probes
+the development of low-lying magnetic excitations, revealed a distinct
+peak at T_(c), followed by a 1/_T__1_ T = const behavior well below
+T_(c). [8]
+
+Quite recently, Takimoto and Moriya have studied an interplay between
+antiferromagnetism and superconductivity by using the spin-fluctuation
+theory within the fluctuation-exchange (FLEX) approximation. [15] They
+have found that _d_-wave superconductivity coexists with an
+incommensurate spin-density wave (SDW) and that soft components of
+incommensurate SDW spin fluctuations grow as the coexistence phase is
+approached. Also, they have calculated the temperature (_T_) dependence
+of 1/_T_1T which shows a sharp peak at T_(c), followed by a saturation
+in 1/_T_1T below T_(c). This result is in good agreement with the
+experimental results in 1/_T_1T for Ce_(0.99)Cu_(2.02)Si₂ and hence
+reinforces that Ce_(0.09)Cu_(2.02)Si₂ is located at the border of the
+AFM phase. Remarkably, the recent _m_SR experiment has demonstrated that
+the exotic superconductivity in Ce_(0.99)Cu_(2.02)Si₂ coexists in a
+microscopic level with slowly fluctuating AFM waves. [16] This result
+has suggested that the superconductivity and the marginal AFM state in
+CeCu₂Si₂ have a common background.
+
+Such an exotic coexistent phase is tuned in a delicate way by varying a
+coupling constant g = |J_(cf)|/W, where |J_(cf)| is the exchange
+coupling constant between the 4f moment and conduction-electron spin and
+W the bandwidth of the conduction electron. As a matter of fact, the
+slowly fluctuating AFM waves are depressed completely by applying
+pressures exceeding P = 0.2 GPa, i.e., the increase of g. [17] The
+normal state is well described in terms of the self-consistent
+renormalized (SCR) AFM spin-fluctuation theory. The HF SC state with a
+line-node gap manifests itself under such an AFM Fermi liquid state.
+
+On the other hand, the Ge substitution for Si expands the lattice,
+leading to the reduction of g. Therefore, it would be expected that
+magnetic [Ruderman-Kittel-Kasuya-Yosida (RKKY)] interactions of 4f
+moments become stronger as Ge content (x) increases. In fact, only 2
+
+In the previous paper, [18] superconductivity (_T_(c) = 0.4_ K) and
+antiferromagnetism (_T_(N)_ = 0.75 K) were suggested to coexist in
+CeCu₂(Si_(0.98)Ge_(0.02))₂. It was proposed that the exotic SC phase in
+the nearly homogeneous sample and the coexistence of AFM and SC phases
+in the slightly Ge-substituted sample can be accounted for on the basis
+of SO(5) theory that unifies superconductivity and antiferromagnetism.
+[18, 20] We believe that this model could shed light on current ideas
+regarding the magnetically mediated mechanism of the superconductivity
+in other strongly correlated electron systems in addition to
+high-_T_(c)_ cuprates.
+
+In order to gain further insight into an interplay between
+superconductivity and antiferromagnetism, it is important to investigate
+how magnetic and SC properties change as x is increased or as g is
+decreased. In this study, we have carried out Cu-NQR measurements on
+CeCu₂(Si_(1 − x)Ge_(x))₂ in 0<x≤ 0.2. Note that the isostructural
+CeCu₂Ge₂ exhibits the AFM order below _T_(N)_ = 4.15 K at P = 0, [21,
+22] but it turned out to exhibit the HF superconductivity at pressures
+exceeding 7.6 GPa. [1, 23] Remarkable results are presented as follows.
+(1) The AFM order emerges suddenly at _T_(N)_ = 0.7 K by substituting
+only 1
+
+## II Experiment and Result
+
+Samples of CeCu₂(Si_(1 − x)Ge_(x))₂ at x = 0.01, 0.02, 0.04, 0.06, 0.1,
+and 0.2 were prepared as described elsewhere. [19] These samples were
+moderately crushed into grains with diameters larger than 100 μm in
+order to avoid some crystal distortion, if any. A SC transition
+temperature _T_(c)_ was confirmed by a distinct change in inductance of
+NQR coil. As x increases, _T_(c)_ decreases steeply as _T_(c)_ = 0.5,
+0.4, 0.2, and 0.15 for x = 0.01, 0.02, 0.06, and 0.1, respectively. This
+result is totally consistent with the previous resistivity and
+susceptibility measurements. [24] The NQR spectrum was obtained by
+measuring a spin-echo intensity as a function of frequency, using a
+phase coherent pulsed NMR spectrometer. The nuclear spin-lattice
+relaxation rate 1/_T₁_ was measured by the conventional
+saturation-recovery method.
+
+Figure 1 indicates ⁶³Cu- and ⁶⁵Cu-NQR spectra at x =0.02, 0.04, 0.06,
+0.1, and 0.2 at 4.2 K. Here, the spectrum at x = 0.01 is not shown,
+since it is nearly equivalent to that at x = 0.02. For x = 0.02, the
+respective main peaks at 3.435 and 3.175 MHz arise from ⁶³Cu and ⁶⁵Cu
+nuclei with nuclear spin I = 3/2. Satellite peaks at 3.315 and 3.064 MHz
+are assigned to the Cu sites around Ge atoms, since these peaks appear
+by substituting Ge for Si and grow up with increasing x. This kind of
+satellite peak is often observed, once a small amount of impurities is
+introduced into HF systems, for example, the La doped CeRu₂Si₂. [25] As
+x increases, the NQR linewidth becomes broader, pointing to a large
+inhomogeneous distribution of the electric field gradient (EFG) at the
+Cu site. Nevertheless, their magnetic state is rather homogeneous
+through the whole sample as shown later.
+
+### NQR spectrum–probe of internal field due to AFM order
+
+The previous work revealed that the slowly fluctuating AFM waves in the
+nearly homogeneous Ce_(0.99)Cu_(2.02)Si₂ (x = 0) evolve into the AFM
+order, once only 2
+
+Figure 2(a) indicates the NQR spectra at x = 0.02 at various
+temperatures. It is evident that the spectral width markedly broadens
+below T_(N) 0.75 K. The emergence of AFM order is also corroborated by
+the 1/_T_1 result that exhibits a sharp peak at T_(N) as shown in the
+following subsection. The T and x dependencies of NQR spectrum allow us
+to examine a systematic evolution of the AFM order.
+
+A NQR spectral shape was simulated by incorporating both the
+distributions of EFG and $H_{\rm int}$. The distribution in EFG due to
+the Ge substitution is obtained from the NQR spectrum in the
+paramagnetic state indicated in Fig. 1. The distribution in
+$H_{\rm int}$ is assumed by taking into account a possible magnetic
+structure reported from the neutron-diffraction results on CeCu₂Ge₂.[21,
+22]
+
+The nuclear Hamiltonian at H = 0 below T_(N) is described in terms of
+the nuclear electric quadrupole (_eq Q_) interaction and the Zeeman
+interaction due to $H_{\rm int}$ as
+
+$${\cal H}_{Q} = \frac{e^{2}qQ}{4I(2I-1)}\Bigg{[}3I_{z}^{2} - I(I+1)+\frac{\eta}{2}(I_{z}^{2}+I_{-}^{2})\Bigg{]},$$
+
+$${\cal H}_{Z} = - \gamma_{n}\hbar I\cdot H_{\rm int},$$
+
+where γ_(n) and η are the ^(63, 65)Cu nuclear gyromagnetic ratio and the
+asymmetry parameter for the EFG tensor, defined as eq = V_(ZZ) and η=
+(V_(XX) − V_(YY))/V_(ZZ), respectively. Here, η∼ 0. Note that the
+direction of V_(ZZ) at Cu site is parallel to the tetragonal c axis.[26]
+By resolving the total Hamiltonian ${\cal H}$=
+${\cal H}_{Q}+{\cal H}_{Z}$ exactly, we calculated the eigenenergies of
+four nuclear-spin levels. The transition probability between the
+adjacent eigenstate gives an expected intensity for each resonance line.
+Thus, a full line shape is numerically simulated by taking both the
+contributions of $H_{\rm int}$ and r_(Q) into consideration. The result
+at T = 0.1 K is indicated by the solid lines at x = 0.02 in Fig. 2(a)
+and x = 0.06 and 0.1 in Fig. 2(b). The overall agreement between the
+experiment and the simulation seems to be satisfactory for all the
+results.
+
+Thus obtained shape of distribution in $H_{\rm int}$, $D(H_{\rm int})$
+is represented in Fig. 2(c). The $H_{\rm int}$ at a peak,
+$\langle H_{\rm int}\rangle$ slightly increases as
+$\langle H_{\rm int}\rangle$ = 0.3, 0.4, and 0.45 kOe at x = 0.02, 0.06,
+and 0.1, respectively. Provided that a possible magnetic structure is of
+an AFM type with a wave vector q1 = (1/2, 1/2, _c_) in CePd₂Si₂ and
+CeRh₂Si₂ or with q2 = (0, 0, 1/2) in URu₂Si₂,[27, 28, 29, 30, 31,
+32]$H_{\rm int}$ is canceled out at the Cu sites that occupy a
+magnetically symmetric position. Therefore, a likely spin structure may
+be either helical or spin-density-wave (SDW) type. These spin structures
+were indicated by the elastic neutron-diffraction experiments on the
+CeCu₂(Si_(1 − x)Ge_(x))₂ with x = 0.6, 0.8, and [21, 22]. The SDW type
+of order is, however, unlikely because $D(H_{\rm int})$ should have a
+peak around $H_{\rm int}$ 0 associated with the presence of nodes in SDW
+and a different shape from $D(H_{\rm int})$ in Fig. 2(c) is simulated.
+
+In contrast, in a helical spin structure, it should be noted that
+$H_{\rm int}$ is predominantly produced by four nearest-neighbor Ce
+moments. Therefore, $\langle H_{\rm int}\rangle$ allows us to estimate
+an average ordered moment using the value of hyperfine coupling constant
+A₁ = −4.6 kOe/μ_(B) in the paramagnetic state.[33] Figure 3 shows the T
+dependence of $\langle H_{\rm int}\rangle$ at x = 0.02. It seems to
+follow a T variation on the mean-field approximation below T_(N) even
+though coming across T_(c) 0.4 K. As shown in the inset of Fig. 3, a
+magnetic moment μ₀ 0.06μ_(B) at T = 0.1 K and x = 0.01 increases
+slightly with the Ge concentration, consistent with the result from the
+μSR experiments.[34, 35] This AFM order with a tiny moment is consistent
+with the result by recent neutron-diffraction measurements.[36]
+
+The full width $\Delta H_{\rm int}$ at the half maximum of
+$D(\langle H_{\rm int}\rangle)$
+
+Figure 3: Temperature dependence of $\langle H_{\rm int}\rangle$ at x =
+0.02. The inset indicates the size of magnetic moment at 0.1 K as the
+function of Ge concentration. Both dotted lines are guide for eye.
+
+Figure 2: (a) Temperature dependence of ^(63, 65)Cu-NQR spectrum in
+CeCu₂(Si_(10, 96)Ge_(0.02))₂ (_x_ = 0.02). The broadening of NQR
+line-width below T_(N) = 0.75 K indicate the presence of internal field
+$H_{\rm int}$ at the Cu sites. (b) NQR spectra at x = 0.06 and 0.1 at T
+= 0.1 K. The solid lines are simulations where the Zeeman shift due to
+$H_{\rm int}$ is incorporated (see the text in details). (c)
+Distributions $D(H_{\rm int})$ of $H_{\rm int}$ at the Cu sites in the
+ordered states at x = 0.02, 0.06, and 0.1.
+
+becomes narrower as x increases. A large value of $\Delta H_{\rm int}$
+at x = 0.02 may be explained by the combined contributions of an
+intrinsic distribution in $H_{\rm int}$ due to its helical structure and
+of an inevitable spatial distribution in size of spontaneous moments due
+to the Ge doping. In the helical structure, $H_{\rm int}$ consists of
+$H_{\rm int}^{\parallel}$ and $H_{\rm int}^{\perp}$ parallel and
+perpendicular to the tetragonal c axis, respectively. Note that the
+Zeeman shift in NQR spectrum due to $H_{\rm int}^{\perp}$ is four times
+larger than that due to $H_{\rm int}^{\parallel}$ because the principal
+axis of EFG is parallel to the c axis. Therefore, even when a size in
+$H_{\rm int}$ is fixed, its direction is actually distributed due to the
+helical structure, resulting in the large value in $\Delta H_{\rm int}$.
+
+It should be mentioned that no peak in $D(H_{\rm int})$ appears at
+$H_{\rm int}\!=\!0$. The absence of peak in $D(H_{\rm int})$ at
+$H_{\rm int}\!=\!0$ excludes a possibility that the SC phase is
+spatially separated from the AFM phase. Because, in case of the spatial
+segregation between two phases, two peaks in $D(H_{\rm int})$ at
+$H_{\rm int}\!=\!0$ and $\langle H_{\rm int}\rangle\!\neq\!0$ might
+arise from SC and AFM phase, respectively. When x increases, this phase
+segregation due to the Ge substitution, _if any_, would induce
+considerable changes in the distribution in $H_{\rm int}$. However, the
+same type of distribution in $H_{\rm int}$ is deduced irrespective of x.
+Thus, the possibility of any phase segregation is ruled out by this
+systematic evolution in the Cu-NQR spectra with the Ge content.
+
+### Nuclear spin-lattice relaxation rate 1/T₁
+
+The T dependence of the nuclear spin-lattice relaxation rate 1/T₁ of
+⁶³Cu at x = 0.2, 0.1, and 0.02 is shown in Figs. 4(a), 4(b), and 4(c),
+respectively. 1/T₁ is uniquely determined above T_(N), but it is
+distributed below T_(N) for all the samples. The distribution in 1/T₁
+below T_(N) is presumably associated with the distribution of
+$H_{\rm int}$, related to the helical magnetic structure in the AFM
+state. The value of faster component in 1/T₁ is about three times larger
+than that of slower one below T_(N), as shown later. Only slow component
+in 1/T₁ is shown below T_(N) for a simplicity of discussion.
+
+In a high T region, 1/T₁ becomes almost T independent above a
+temperature marked as T* in Fig. 4, exhibiting that local-moment
+fluctuations dominate the relaxation process. It is known in HF systems
+that T* is scaled to the quasielastic linewidth in neutron-scattering
+spectrum, leading to a tentative estimation of the bandwidth of HF state
+[T^(* α)exp (−1/g)]. Therefore, the decrease in T* due to the Ge
+substitution indicates the reduction of HF bandwidth. In such a
+localized regime above T*, the constant value of 1/T₁ is proportional to
+$p_{\rm eff}^{2}W/J_{cf}^{2}$, where $p_{\rm eff}$ is an effective
+paramagnetic local moment. Therefore, the progressive increase in 1/T₁
+with increasing x is ascribed to the increase in $p_{\rm eff}$ and/or
+the reduction of |J_(cf)|. This result is consistent with the decrease
+in T* due to the reduction of g = |J_(cf)|/W caused by the Ge
+substitution.
+
+Next, we focus on the magnetic properties at x = 0.02 and subsequently
+its evolution with increasing x. For x = 0.02, 1/T₁ gradually decreases
+down to T* below T*, revealing a crossover from a localized to an
+itinerant regime. A clear peak at T_(N) = 0.75 K, below which the NQR
+linewidth broadens rapidly, reflects a critical slowing down associated
+with the AFM transition. A rapid drop of 1/T₁ below T_(N) is presumably
+due to a partial loss of low-lying excitations.
+
+The 1/T₁ result nearby the AFM phase is well explained by the SCR theory
+for nearly or weakly AFM itinerant magnets.[37, 38] In this scheme, 1/T₁
+is predicted as follows:
+
+$$1/T_{1}\!\propto\!T\sqrt{\chi_{Q}(T)}\!\propto\!T/\sqrt{T\!-\!T_{N}}$$
+
+above T_(N),
+
+$$1/T_{1}\!\propto\!T/M_{Q}(T)\!\propto\!T/\sqrt{T_{N}\!-\!T}$$
+
+below T_(N). Here, χ_(Q)(T) and M_(Q)(T) are a dynamical susceptibility
+and the magnetization of AFM sublattice, respectively. The 1/T₁T data at
+x = 0.02 are fitted by including the term 6.6/$\sqrt{T\!-\!T_{N}}$ in
+1.5 K > T  > T_(N) = 0.75 K and $12/\sqrt{T_{N}\!-\!T}$ in
+T_(c)  < T  < T_(N) as presented in the inset of Fig. 5. The good
+agreement between the experiment and the calculation indicates a
+long-range nature of the AFM ordering in the itinerant regime.
+
+By substituting Ge for Si, as indicated by arrows in Fig. 4, while T* is
+decreased, T_(N) is gradually increased in collaboration with the
+development of saturation moment μ₀. As a result, T* approaches to
+T_(N), indicating that the magnetic properties just above T_(N) change
+from the itinerant to localized regime. Correspondingly, the peak in
+1/T₁ at T_(N) disappears at x = 0.2, resembling the behavior observed
+for f-electron antiferromagnets that are in the localized regime.[39]
+The SCR theory is not applicable to the data for x = 0.06 and 0.1 any
+more, since the itinerant regime is limited in a narrow T range for 1/T₁
+to be fitted.
+
+We now turn to the SC state in which low-energy properties are
+intimately changed by substituting Ge for Si or ap
+
+Figure 4: Temperature dependence of the nuclear spin-lattice relaxation
+rate 1/T₁ of ⁶³Cu at x = (a) 0.2, (b) 0.1, and (c) 0.02.
+
+plying P. In order to demonstrate this, the T dependence of 1/_T_1 at x
+= 0.02 is indicated in Fig. 5 with those for Ce0.99Cu2.02Si2 (_x_ = 0)
+at P = 0 and 0.85 GPa.[17] As seen in Fig. 5, the line-node SC gap at P
+= 0.85 GPa is evidenced from a 1/_T_1 T3 dependence. However, the 1/_T_1
+at x = 0 is deviated well below _T_c from the T3 one and exhibits a weak
+T dependence. Likewise, the 1/_T_1 at x = 0.02 is nearly proportional to
+the temperature far below T_(N). This suggests that the low-energy
+spectral weight in spin-fluctuation spectrum survives even below T_(c)
+at x = 0 and 0.02.
+
+Here, we should remark whether or not the disorder effect associated
+with the Ge substitution influences the magnetic property because the
+satellite peak is actually observed in NQR spectrum (see Fig. 1). In
+order to investigate some local inhomogeneous effect, the 1/_T_1’s at x
+= 0.02 were measured at the main (3.435 MHz) and the satellite (3.315
+MHz) peaks. Note that the latter arises from the ⁶³Cu sites around the
+Ge atoms. As shown in Fig. 6, in the paramagnetic state, the value of
+1/_T_1 at the satellite peak is slightly larger than that at the main
+peak over a whole T range. The small difference in the values of 1/_T_1
+may be due to a possible difference in g. Nevertheless, both the
+1/_T_1’s exhibit a distinct peak at T_(N), evidencing a long-range
+character of AFM order. Below T_(N), although both T1’s are not uniquely
+determined owing to the distribution in _H_int, the short and long
+components undergo a similar T dependence. Thereby the AFM order takes
+place throughout the whole sample, although it is not completely
+excluded that the size in spontaneous moments is spatially distributed.
+
+One may suspect that the potential scattering due to nonmagnetic Ge
+impurities brings about a finite density of states at the Fermi surface,
+leading to the observed enhancement of 1/_T_1 below T_(c).[41, 42]
+However, a recent NQR result under P at x = 0.02 reveals that the AFM
+order is suppressed and the HF superconductivity with the line-node gap
+is recovered by applying pressures.[40] This result apparently excludes
+such the impurity effect as a cause for the enhancement of 1/_T_1 below
+T_(c).
+
+### Temperature dependence of NQR intensity probing the marginal AFM
+state
+
+Figures 7(a) and (b) indicate the T dependence of NQR intensity
+multiplied by temperature [_I_(_T_) x _T_] at x = 0.06 and 0.02 along
+with that [Fig. 7(c)] at x = 0 reported previously.[8] Here, _I_(_T_) is
+an integrated intensity over the NQR spectrum and normalized by the
+value at 4.2 K. Since an NQR intensity depends on a pulse interval t
+between two
+
+Figure 5: Temperature dependence of 1/_T_1 for x = 0.02 and
+Ce0.99Cu2.02Si2 (_x_ = 0) at ambient pressure and at 0.85 GPa. The
+insert shows the 1/_T_1T vs T plot for x = 0.02. The solid line is a fit
+on the basis of the SCR theory that is consistent with the data for
+T_(N) < T < 1.5 K and T_(c) < T_(N) (see text).
+
+Figure 6: Temperature dependence of 1/_T_1 at x = 0.02, measured at a
+main peak of 3.435 MHz (closed symbols) and at a satellite peak of 3.315
+MHz (open symbols). The fast and slow relaxation components owing to the
+distribution in internal field are estimated for each below T_(N).
+
+Figure 7: Temperature dependence of _I_(_T_) × T where _I_(_T_) is an
+NQR intensity normalized by the value at 4.2 K at (a) x = 0.06, (b) 0.02
+in CeCu(Si1−2,Ge)2, and (c) the undoped Ce0.99Cu2.02Si2 (_x_ = 0).
+
+pulses by means of the spin-echo method, I(τ = 0) is evaluated through
+the relation of I(τ) = I(τ = 0)exp (−2πf₂) where, 1/T₂ is the spin-echo
+decay rate. I(T) is generally proportional to 1/T following to the Curie
+susceptibility for a nuclear-spin system Therefore, I(T) × T should stay
+constantly if the nuclear relaxation time ranges in an observable time
+window that is typically more than several microseconds. Therefore, the
+large reduction of I(T) × T on cooling at x = 0 is ascribed to the
+development of the slowly fluctuating AFM waves. Note that a
+T₁ ∼ 0.14μsec, that is estimated from the relation
+$1/T_{1}\!\propto\!\omega_{c}(T)/\{\omega_{c}(T)^{2}\!+\!\omega_{\rm NQR}^{2}\}$,
+is too short for the NQR signal to be observed experimentally. Here,
+ω_(c) (∼ 3 MHz) and ω_(NQR) (∼ 3.4 MHz) is a characteristic frequency of
+the slowly fluctuating AFM waves and the central NQR frequency,
+respectively.[9]
+
+We now turn to the result on the Ge substituted compounds. The I(T) × T
+at x = 0.02 decreases down to ∼ 0.4 upon cooling from 1.2 K down to
+T_(N) = 0.75 K, resembling the behavior at x = 0. The reduction of
+I(T) × T stops around T_(N), but does not recover with further
+decreasing T. Note that the reduction below T_(c) = 0.4 K is due to the
+SC diamagnetic shielding of rf field for the NQR measurement.
+Apparently, the AFM order, that suddenly appears at x = 0.02, coexists
+with the marginal AFM state. It seems, therefore, that the onset of AFM
+order due to the lattice expansion is indicative of a first-order type.
+
+By contrast, the I(T) × T at x = 0.06 does not decrease significantly
+upon cooling down to T_(c) = 0.2 K across T_(N) = 0.9 K. It indicates
+that the slowly fluctuating AFM waves are not appreciable above x = 0.06
+and that the magnetic property changes to a rather conventional type of
+behavior with increasing x. The μSR measurements also suggest a change
+toward more static character of the magnetic phase with increasing
+x.[35]
+
+## III Discussion
+
+Figure 8 shows the phase diagram determined against the Ge content (x)
+on CeCu₂(Si_(1 − x)Ge_(x))₂ and the pressure on Ce_(0.99)Cu_(2.02)Si₂
+(x = 0). Here we expect that a primary effect of the Ge doping is to
+expand the lattice and that its chemical pressure is − 7.6 GPa per 100
+
+The AFM order suddenly sets in once slight Ge is substituted for Si. By
+contrast, any trace of AFM order is not observed down to 0.012 K at
+x = 0. With increasing x, T_(N) is progressively increased, while T_(c)
+is steeply decreased. Correspondingly, the slowly fluctuating AFM waves
+are suppressed for the samples with more than x = 0.06. It is noteworthy
+that the AFM order seems to suddenly disappear at x = 0 as if T_(N) was
+replaced by T_(c). Eventually, the superconductivity coexists with the
+marginal AFM state at x = 0. This fact suggests that antiferromagnetism
+and superconductivity have a common background.
+
+In 0< P < 0.2 GPa, the marginal AFM state is expelled by the onset of
+superconductivity below T_(c) at H = 0. However, when H turns on to
+suppress the superconductivity, the first-order like transition from SC
+state to the magnetic phase A takes place.[5] In P > 0.2 GPa, the
+marginal AFM state is completely suppressed and, at the same time, the
+typical HF superconductivity is recovered with the line-node SC gap.
+
+Next, we shed further light on the coexisting state by comparing with
+the typical HF superconductor UPd₂Al₃ where the AFM order sets in below
+T_(N) ∼ 14.5 K, followed by the onset of typical SC transition below
+T_(c) ∼ 1.98 K.[44, 45, 46] In UPd₂Al₃, the coexistence of the AFM order
+with the superconductivity has been established by various
+measurements.[47, 48, 45, 49] The Al- and Pd-NQR results showed that
+1/T₁ decreases rapidly because a gap opens at a part of the Fermi
+surface below T_(N) and follows the 1/T₁ ∝ T³ below T_(c), consistent
+with the line-node SC gap.[47, 48] In UPd₂Al₃, note that an average
+occupation of 5f electrons per U atom is slightly less than three and
+larger than one in Ce-based HF systems.[50] With some relevance with
+this, nearly two localized 5f electrons are responsible for the AFM
+order, carrying the relatively large spontaneous moment of 0.85μ_(B) per
+U atom. Since the spin-wave excitations in the AFM state are gapped, the
+particle-hole excitations in HF state are dominant well below T_(N), as
+actually evidenced from the T₁T = const behavior typical for the Fermi
+liquid state. Therefore, the 1/T₁ in the SC state is not affected by the
+magnetic excitations even in the coexistent state, but reflects its line
+
+Figure 8: The AFM and SC combined phase diagram for
+CeCu₂(Si_(1 − x)Ge_(x))₂ and for Ce_(0.99)Cu_(2.02)Si₂ (x = 0) under
+pressure. T_(N) (closed squares) and T_(c) (open circles) are the AFM
+and SC transition temperature, respectively. Also shown are the
+characteristic temperature to be scaled to the band width of HF state T*
+(open squares) and T_(m) below which the marginal AFM state develops
+(open triangles). The data for x = 0 under pressure are cited from a
+previous paper (Ref. [17]).
+
+node SC gap structure. However, the situation in underlying CeCu₂Si₂ is
+completely different, because one 4f electron per Ce ion plays vital
+roles for both the magnetism and the superconductivity, leading to the
+novel interplay between the magnetism and the superconductivity revealed
+in CeCu₂Si₂.
+
+Apparently, the exotic AFM and SC phases in 0≤x< 0.06 may be new states
+of matter. In a previous paper, [18] we proposed that the coexistence of
+AFM and SC phases in the slightly Ge substituted compounds and the
+magnetic-field induced phase A in 0<P<0.2 GPa are accounted for on the
+basis of the SO(5) theory. [18, 20] It is considered that the marginal
+AFM state in 0≤x<0.06 below T_(c) may be identified as a collective
+magnetic mode in the coexisting phase and that it turns out to be
+competitive with the onset of SC phase in 0<P<0.2 GPa at H= 0. The
+latter is relevant to the emergence of the field-induced
+first-order-like SC to magnetic phase A transition. Concerning the
+interplay between magnetism and superconductivity, we would propose that
+the marginal AFM state in the SC state at x= 0 may correspond to a
+pseudo-Goldstone mode due to the broken U(1) symmetry. Due to the
+closeness to a magnetic critical point, however, such a gapped mode in
+the SC state should be characterized by an extremely tiny excitation
+(resonance) energy. We thus believe that this SO(5) model could shed
+light on the intimate interplay between magnetism and superconductivity
+in CeCu₂Si₂ that has been an issue for over a decade.
+
+Finally, we compare the present experimental results with those on
+Ce_(0.973)Cu₂Si₂ (Ce0.975) where an AFM order was reported below T_(N)∼
+0.6 K. [8, 13] Unlike the Ge substituted samples, any signature of
+superconductivity was not observed and the AFM order persists up to P= 2
+GPa in Ce0.975. [51] The recent NQR result under P at x= 0.02 has
+revealed that the AFM order is suppressed and the HF superconductivity
+with the line-node gap is recovered at small pressure. [40] These
+results indicate that the AFM order in CeO.975 is driven by some
+disorder effect that destroys the superconductivity. By contrast, the
+AFM order at x= 0.02 is due to the lattice expansion by the Ge
+substitution for Si. Therefore, the induced AFM order may be able to
+coexist with the superconductivity without destroying it.
+
+## IV Conclusion
+
+We have investigated magnetic and superconducting properties in
+CeCu₂(Si_(1 − x)Ge_(x))₂ with 0<x≈ 0.2 by means of the Cu-NQR
+measurement. The Ge substitution for Si acts as a chemical negative
+pressure. Once 1
+
+###### Acknowledgements.
+
+We thank A. Koda, W. Higemoto, and R. Kadono for valuable discussions.
+This work was supported by the COE Research in Grant-in-Aid for
+Scientific Research from the Ministry of Education, Culture, Sports,
+Science and Technology of Japan (Grant No. 10CE2004). One of the authors
+(Y.K.) was supported by the JSPS.
+
+## References
+
+* [1] D. Jaccard, K. Behnia, and J. Sierro, Phys. Lett. A **163**, 475
+(1992). * [2] R. Movshovich, T. Graf, D. Mandrus, J. D. Thompson, J. L.
+Smith, and Z. Fisk, Phys. Rev. B **53**, 8241 (1996). * [3] N. D.
+Mathur, F. M. Grosche, S. R. Julian, I. R. Walker, D. M. Freye, R. K. W.
+Haselwimmer, and G. G. Lonzarich, Nature (London) **394**, 39 (1998). *
+[4] H. Hegger, C. Petrovic, E. G. Moshopoulou, M. F. Hundley, J. L.
+Sarrao, Z. Fisk, and J. D. Thompson, Phys. Rev. Lett. **84**, 4986
+(2000). * [5] G. Bruls, B. Wolf, D. Finsterbusch, P. Thalmeier, I.
+Kouroudis, W. Sun, W. Assmus, B. Luthi, M. Lang, K. Gloos, F. Steglich,
+and R. Modler, Phys. Rev. Lett. **72**, 1754 (1994). * [6] H. Nakamura,
+Y. Kitaoka, H. Yamada, and K. Asayama, J. Magn. Magn. Mater. **76&77**,
+517 (1988). * [7] Y. J. Uemura, W. J. Kossler, X. H. Yu, H. E. Schone,
+J. R. Kempton, C. E. Stronach, S. Barth, F. N. Gygax, B. Hitti, A.
+Schenck, C. Baines, W. F. Lankford, Y. Onuki, and T. Komatsubara, Phys.
+Rev. B **39**, 4726 (1989). * [8] K. Ishida, Y. Kawasaki, K. Tabuchi, K.
+Kashima, Y. Kitaoka, K. Asayama, C. Geibel, and F. Steglich, Phys. Rev.
+Lett. **82**, 5353 (1999). * [9] R. Feyerherm, A. Amato, C. Geibel, F.
+N. Gygax, P. Hellmann, R. H. Heffner, D. E. MacLaughlin, R.
+Muller-Reisener, G. J. Nieuwenhuys, A. Schenk, and F. Steglich, Physica
+B **206-207**, 596 (1995); Phys. Rev. B **56**, 699 (1997). * [10] A. W.
+Hunt, P. M. Singer, K. R. Thurber, and T. Imai, Phys. Rev. Lett. **82**,
+4300 (1999). * [11] N. J. Curro, P. C. Hammel, B. J. Suh, M. Hucker, B.
+Buchner U. Ammerahl, and A. Revcolevschi, Phys. Rev. Lett. **85**, 642
+(2000). * [12] F. Steglich, B. Buschinger, P. Gegenwart, M. Lohmann, R.
+Helfrich, C. Langhammer, P. Hellmann, L. Donnevert, S. Thomas, A. Link,
+C. Geibel, M. Lang, G. Sparn, and W. Assmus, J. Phys.: Condens. Matter
+**8**, 9909 (1996). * [13] R. Modler, M. Lang, C. Geibel, C. Schank, R.
+Muller-Reisener, P.
+
+Hellmann, A. Link, G. Sparn, W. Assmus, and F. Steglich, Physica B
+**206-207**, 586 (1995). * [14] P. Gegenwart, C. Langhammer, C. Geibel,
+R. Helfrich, M. Lang, G. Sparn, F. Steglich, R. Horn, L. Donnevert, A.
+Link, and W. Assmus, Phys. Rev. Lett. **81**, 1501 (1998). * [15] T.
+Takimoto and T. Moriya, Phys. Rev. B **66**, 134516 (2002). * [16] A.
+Koda, W. Higemoto, R. Kadono, Y. Kawasaki, K. Ishida, Y. Kitaoka, C.
+Geibel, and F. Steglich, J. Phys. Soc. Jpn. **71**, 1327 (2002). * [17]
+Y. Kawasaki, K. Ishida, T. Mito, C. Thessieu, G.-q. Zheng, Y. Kitaoka,
+C. Geibel, and F. Steglich, Phys. Rev. B **63**, 140501(R) (2001). *
+[18] Y. Kitaoka, K. Ishida, Y. Kawasaki, O. Trovarelli, C. Geibel, and
+F. Steglich, J. Phys.: Condens. Matter **13**, L79 (2001). * [19] O.
+Trovarelli, M. Weiden, R. Muller-Reisener, M. Gomez-Berisso, P.
+Gegenwart, M. Deppe, C. Geibel, J. G. Sereni, and F. Steglich, Phys.
+Rev. B **56**, 678 (1997). * [20] S. C. Zhang, Science **275**, 1089
+(1997). * [21] G. Knebel, C. Eggert, D. Engelmann, R. Viana, A. Krimmel,
+M. Dressel, and A. Loidl, Phys. Rev. B **53**, 11 586 (1996). * [22] G.
+Knopp, A. Loidl, K. Knorr, L. Pawlak, M. Duczmal, R. Caspary, U.
+Gottwick, H. Spille, F. Steglich, and A. P. Murani, Z. Phys. B: Condens.
+Matter **77**, 95 (1989). * [23] T. C. Kobayashi, T. Miyazu, N.
+Takeshita, K. Shimizu, K. Amaya, Y. Kitaoka, and Y. Onuki, J. Phys. Soc.
+Jpn. **67**, 996 (1998). * [24] P. Gegenwart (unpublished). * [25] H.
+Okura, K. Ishida, Y. Kawasaki, Y. Kitaoka, Y. Yamamoto, Y. Miyako, T.
+Fukuhara, and K. Maezawa, Physica B **281-282**, 61 (2000). * [26] T.
+Ohama, H. Yasuoka, D. Mandrus, Z. Fisk, and J. L. Smith, J. Phys. Soc.
+Jpn. **64**, 2628 (1995). * [27] B. H. Grier, J. M. Lawrence, V. Murgai,
+and R. D. Parks, Phys. Rev. B **29**, 2664 (1984). * [28] R. A. Steeman,
+E. Frikkee, R. B. Helmholdt, A. A. Menovsky, J. van den Berg, G. J.
+Nieuwenhuys, and J. A. Mydosh, Solid State Commun. **66**, 103 (1988). *
+[29] T. Graf, M. F. Hundley, R. Modler, R. Movshovich, J. D. Thompson,
+D. Mandrus, R. A. Fisher, and N. E. Phillips, Phys. Rev. B **57**, 7442
+(1998). * [30] S. Kawarazaki, M. Sato, Y. Miyako, N. Chigusa, K.
+Watanabe, N. Metoki, Y. Koike, and M. Nishi, Phys. Rev. B **61**, 4167
+(2000). * [31] Y. Kawasaki, K. Ishida, Y. Kitaoka, and K. Asayama, Phys.
+Rev. B **58**, 8634 (1998). * [32] C. Broholm, J. K. Kjems, W. J. L.
+Buyers, P. Matthews, T. T. M. Palstra, A. A. Menovsky, and J. A. Mydosh,
+Phys. Rev. Lett. **58**, 1467 (1987); C. Broholm, H. Lin, P. Matthews,
+T. E. Mason, W. J. L. Buyers, M. F. Collins, A. A. Menovsky, J. A.
+Mydosh, and J. K. Kjems, Phys. Rev. B **43**, 12 809 (1991). * [33] K.
+Ueda, Y. Kitaoka, H. Yamada, Y. Kohori, T. Kohara, and K. Asayama, J.
+Phys. Soc. Jpn. **56**, 867 (1987). * [34] W. Higemoto (unpublished). *
+[35] A. Amato (unpublished). * [36] O. Stockert (private
+communication). * [37] T. Moriya and T. Takimoto, J. Phys. Soc. Jpn.
+**60**, 2122 (1992). * [38] S. Nakamura, T. Moriya, and K. Ueda, J.
+Phys. Soc. Jpn. **65**, 4026 (1996). * [39] C. Thessieu, K. Ishida, S.
+Kawasaki, T. Mito, Y. Kawasaki, G.-q. Zheng, Y. Kitaoka, and Y. Onuki,
+Physica B **281-282**, 9 (2000). * [40] Y. Kawasaki, K. Ishida, K.
+Obinata, T. Mito, G.-q. Zheng, Y. Kitaoka, C. Geibel, and F. Steglich,
+Physica B **312-313**, 428 (2002). * [41] S. Schmitt-Rink, K. Miyake,
+and C. M. Varma, Phys. Rev. Lett. **57**, 2575 (1986). * [42] K. Ishida,
+Y. Kitaoka, N. Ogata, T. Kamino, K. Asayama, J. R. Cooper, and N.
+Athanassopoulos, J. Phys. Soc. Jpn. **62**, 2803 (1993). * [43] Y.
+Kitaoka, H. Tou, G.-q. Zheng, K. Ishida, K. Asayama, T. C. Kobayashi, A.
+Kohda, N. Takashita, K. Amaya, C. Geibel, C. Schank, and F. Steglich,
+Physica B **206-207**, 55 (1995). * [44] C. Geibel, C. Shank, S. Thies,
+H. Kitazawa, C. D. Bredl, A. Bohm, M. Rau, A. Grauel, R. Caspary, R.
+Helfrich, U. Ahlheim, G. Weber, and F. Steglich, Z. Phys. B: Condens.
+Matter **84**, 1 (1991). * [45] N. Sato, N. Aso, G. H. Lander, B.
+Roessli, T. Komatsubaru, and Y. Endoh, J. Phys. Soc. Jpn. **66**, 2981
+(1997). * [46] N. Metoki, Y. Haga, Y. Koike, N. Aso, and Y. Onuki, J.
+Phys. Soc. Jpn. **66**, 2560 (1997). * [47] H. Tou, Y. Kitaoka, K.
+Asayama, C. Geibel, C. Schank, and F. Steglich, J. Phys. Soc. Jpn.
+**64**, 725 (1995). * [48] K. Matsuda, Y. Kohori, and T. Kohara, Phys.
+Rev. B **55**, 15 223 (1997). * [49] R. Caspary, P. Hellmann, M. Keller,
+G. Sparn, C. Wassilew, R. Kohler, C. Geibel, C. Schank, F. Steglich, and
+N. E. Phillips, Phys. Rev. Lett. **71**, 2146 (1993). * [50] S.
+Yotsuhashi, H. Kusunose, and K. Miyake, J. Phys. Soc. Jpn. **70**, 186
+(2001). * [51] Y. Kawasaki, K. Ishida, Y. Kitaoka, K. Asayama, Y.
+Geibel, and F. Steglich, Physica B **282**, 14 (2000).

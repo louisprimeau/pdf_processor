@@ -1,0 +1,311 @@
+Hole concentration dependence of penetration depth and upper critical
+field in Bi2Sr2(Ca,Y)Cu2O8+_d_ extracted from reversible magnetization
+
+G. C. Kim,¹ M. Cheon,² H. Kim,¹ Y. C. Kim,^(1, *) and D. Y. Jeong³
+
+¹Department of Physics, Pusan National University, Busan 609-735, Korea
+
+²Department of Physics, University at Buffalo, SUNY, Buffalo, New York
+14260-1500, USA
+
+³Korea Electrotechnology Research Institute, Changwon, Korea
+
+5 May 20055
+
+###### Abstract
+
+We have measured the reversible magnetization of Bi2Sr2CaCu2O8+_d_
+(Bi-2212) with different hole concentrations as a function of
+temperature and magnetic field. By employing the vortex fluctuation
+model, the values of the penetration depth and the upper critical field
+are obtained. As the hole concentration decreases, fluctuation effects
+become more remarkable due to the decrease in superfluid density. The
+upper critical field has a maximum value when the hole concentration is
+around 0.19.
+
+pacs: 02.70.-a, 064525 + Footnote †: preprint: PHYSICAL REVIEW B **72**,
+064525 (2005)
+
+## I Introduction
+
+Even though nearly twenty years have passed since the discovery of
+high-temperature superconductors (HTSCs), the dependence of
+superconducting and normal states on the hole concentration per Cu - O
+plane p is still controversial. The superconducting transition
+temperature T_(c) of HTSCs shows a domelike behavior concerning hole
+concentration. Namely, an optimally doped (OP) sample (_p_ = 0.16) has a
+maximum transition temperature $T_{c,{\rm max}}$ in a family among
+HTSCs, and T_(c) decreases as the doping level changes from the OP state
+to the underdoped (UD) or overdoped (OD) regime.^(1, 2) In UD HTSC’s,
+various crossover phenomena associated with the opening of a pseudogap
+(PG) and stripes resulting from the spin-charge separation^(3, 4) were
+observed at temperatures even far above T_(c). It is widely believed
+that the PG is closely related to the superconductivity of HTSCs. In
+spite of the large amount of research into this phenomenon, no consensus
+on the nature of PG or superconductivity exists.
+
+For highly anisotropic layered materials such as Bi- and Tl-based HTSCs,
+the component of magnetization along the Cu - O layer can be ignored,
+because (m_(c)/m_(ab))^(1/2)≫ 1, where m_(c) is the effective mass in
+the direction perpendicular to the Cu - O plane and m_(ab) is the
+effective mass within the plane. The reversible magnetization, M, for a
+sample of randomly oriented grains is given by
+
+$$M = - \frac{M_{0}}{2}\ln\frac{\eta\sqrt{c}H_{c2}}{B} + \frac{k_{B}T}{2\phi_{0}s}\ln\frac{C^{\ast}\kappa^{2}k_{B}T}{\phi_{0}sB},$$
+
+where M₀= ϕ₀/(32π²λ²) (λ is the in-plane penetration depth), η(=1.2-1.5)
+is determined by the cutoff of the vortex core size, H_(c2) is the upper
+critical field, s is the interlayer spacing, ϕ₀ is the flux quantum, and
+the constant C^(*)≈ 16.8⁵ ⁻ ⁷ The first term results from the local
+London theory, while the second term results from the consideration of
+the thermal fluctuations of pancake vortices, which are strong for
+highly anisotropic layered materials. Since κ is included in Eq. (1) as
+ln κ, various fitting parameters such as M₀ and ηH_(c2) are insensitive
+to a precise value of κ. Thus, in the following, we fix κ= 100 and s=
+c/2, where c is the crystallographic length of the unit cell along the c
+axis. Taking the ln B derivative of Eq. (1), we have
+
+$$\frac{dM}{d\ln B} = \frac{M_{0}}{2} - \frac{k_{B}T}{2\phi_{0}s}.$$
+
+This result does not depend on η.
+
+We have measured the reversible magnetization of polycrystalline Bi-2212
+rectangular shaped samples with different hole concentrations (0.1<_p_ <
+0.22). In this paper, we calculate the superfluid density and the upper
+critical field from the reversible magnetization to investigate the
+effect of the hole concentration upon the reversible magnetization.
+
+## II Experimental work
+
+Polycrystalline Bi-2212 samples with different hole concentrations were
+synthesized by solid-state reaction in a stoichiometric mixture of
+Bi2O3, SrCO3, CaCO3, CuO, and Y2O3 as described elsewhere.⁸ The hole
+concentration was controlled by partially substituting Ca by Y. The
+powders were prepared in the appropriate ratio and calcinated several
+times in air with intermediate grindings for more than 100 h of firing
+time. The product was pressed into pellets and sintered at an
+appropriate temperature for each sample. The sintering temperature was
+increased linearly from 850 ^(∘)C for x = 0 to 900 ^(∘)C for x = 0.5
+with varying doping concentrations x. In order to enhance the
+homogeneity of samples, the sintering process was carried out three
+times with intermediate grinding.
+
+The superconducting transition temperature T_(c) for each sample was
+measured by ac susceptibility in $H_{\rm{r.m.s.}}$=0.1 Oe. Unlike
+La2_(x_(c))Sr_(x)CuO₄ with an 1/8 anomaly⁹ and YBa2Cu3O3 with a 60 K
+plateau,¹⁰ it is well known that T_(c)’s of Bi-2212 follow the empirical
+parabolic T_(c)(_p_) formula without any anomalies. T_(c)(_p_) is given
+by
+
+$$T_{c}(p) = T_{c,{\rm max}}[1 - 82.6(p - 0.16)^{2}\rbrack,$$
+
+where $T_{c,{\rm max}}$ corresponds to T_(c) for p = 0.16, the optimal
+concentration.¹¹ Thus, the hole concentrations for each sample were
+estimated from Eq. (3) with the corresponding T_(c) (see Table 1).
+
+Magnetization data were obtained in fields up to 60 kOe using a SQUID
+magnetometer. Before measuring the reversible magnetization, we measured
+the values of the irreversible fields at 30 K (t=T/T_(c) = 0.35) and 50
+K (t = 0.6) on Bi-2212 with p = 0.196 in order to check roughly the
+reversible range of magnetization. The irreversible fields at 30 and 50
+K are ∼20 and ∼3 kOe, respectively. Based on this result, we measured
+the magnetization for all our samples at the temperature t ≈ 0.5 under
+fields of 5 kOe ≤ H ≤ 60 kOe with an interval of 5 kOe. The values of
+magnetization have been corrected carefully for the normal-state
+background moment including the paramagnetic contribution.
+
+The intrinsic inhomogeneity patterns of the moderately UD Bi-2212 from
+STM measurement are similar to that of the OD one,[12] and the global
+superconductivity is given by the proximity effect. Martin _et al.[13]_
+predicted that anomalous behavior appeared once the modulation length
+scale for the inhomogeneity is of the order of the superconducting
+coherence length. We expect that this condition may be satisfied at a
+sample with p < 0.1, and the same physics can be applied to our samples.
+Actually, we observed that the extremely UD Bi-2212 with p ≈ 0.07
+exhibited anomalous behavior, and are preparing a paper related to this
+topic.
+
+## III III. Results and Discussion
+
+Figure 1 shows the equilibrium magnetization curves as a function of
+temperature for Bi-2212 with p = 0.177 measured at different fixed
+fields from 10 to 60 kOe at intervals of 10 kOe. It can clearly be seen
+that all M(T) curves cross at T^(*) = 90.5 K. The presence of T^(*)
+where M is independent of field is a common characteristic in highly
+anisotropic layered materials and reflects the strong thermal
+fluctuations of pancake vortices near T_(c).[14, 15, 16] As M is
+independent of field at T^(*), Eq. (2) becomes zero, and then λ^(* − 2)
+at T^(*) can be easily derived. We confirmed that all our samples
+exhibit this cross-over in M(T) although they have different hole
+concentrations and T_(c)’s. The inset of Fig. 1 shows the p dependence
+of λ^(* − 2) calculated for the samples with different hole
+concentrations. As shown, λ^(* − 2) shows a similar behavior to the p
+dependence of T_(c) and the ratio of λ^(* − 2)/T_(c) is approximately
+0.06 (μm² K)⁻¹.
+
+Figure 2 shows the isothermal equilibrium magnetization curves as a
+function of magnetic field B for Bi-2212 with p = 0.177. We find that
+the M(B) data for all our samples are well described by Eq. (1) (the
+solid lines of Fig. 2) and are linear on B down to T_(c)/2, as shown in
+the inset of Fig. 2, which means our samples are in the dirty limit at
+least for the range T_(c)/2 < T < T_(c). Using the linearity of M on ln
+B, λ⁻² at different temperatures can be obtained from the slope of Eq.
+(2). Here, in order to derive λ⁻² and ηH_(c2), we use the values of the
+c-axis length given in Ref. [17].
+
+Figure 3 shows the temperature dependence of λ⁻² for Bi-2212 with
+different p from 0.103 to 0.213. The λ values at t = 0.6 and 0.9 for
+Bi-2212 with p = 0.177 are 2820 and 3840 A, respectively, which are
+comparable with the experimental values of ∼2500 and ∼3750 A obtained at
+the same temperature for Bi-2212 with the nearly same hole concentration
+by Kogan _et al.[18]_ This implies that our procedure for
+
+Figure 2: Magnetic field dependence of isothermal reversible
+magnetization for Bi-2212 with p = 0.196. The solid lines are from Eq.
+(1). The inset shows the semilogarithmic plot on the data measured at
+different temperatures. It is clear that the magnetizations are linear
+on lnB.
+
+analyzing data is reasonable. We find a change in the shape of λ⁻² with
+doping and a severe suppression in λ⁻² at around T_(c)/2 with
+underdoping. In addition, λ⁻² shows a more pronounced downward curvature
+in the UD regime (the open symbols). These trends of λ⁻² with p are
+consistent with the experimental results for La_(2 − x)Sr_(x)CuO₄
+derived from the ac susceptibility measurements [19] and theoretical
+work [20]. Since magnetization becomes irreversible at low temperature,
+λ⁻² cannot be determined by measuring high-field magnetization. However,
+it is likely from Fig. 3 that λ⁻² at T= 0 K decreases rapidly as p
+decreases. λ⁻²(T) is proportional to the superfluid density ρ_(s)(T)
+which is a measure of the phase stiffness of the condensate and is
+expressed by ρ_(s)(0) = 4 π²⟨v_(x)²N(E)⟩/e², where v_(x) is the Fermi
+velocity and ⟨⋯⟩ represents the average taken over an energy shell
+E_(F) ± Δ_(SC)[19]. It is well known that the PG starts to open at
+around p = 0.19, the critical hole concentration, and increases as
+underdoping progresses. The decrease of λ⁻², that is, the decrease of
+ρ_(s) is caused by the suppression of the density of states within the
+energy range E_(F) ± Δ_(SC) due to the presence of the PG.
+
+Figure 4 shows the temperature dependence of ηH_(c2) for Bi-2212 as p
+ranges from 0.103 to 0.213, which is given through fitting Eq. (1) to
+data. According to the Werthamer-Helfand-Hohenberg (WHH) theory [21,
+22], H_(c2)(T) is linear in (T_(c)−T) near T_(c). So, if η is constant
+up to T_(c), ηH_(c2) also should be linear as (T_(c)−T). As shown in
+Fig. 4, ηH_(c2) of Bi-2212 is linear nearly to T_(c) when p= 0.213.
+However, the linearity of ηH_(c2) is not sustained near T_(c) and the
+deviation point decreases with underdoping. Because the superfluid
+density ρ_(s)(T) decreases with underdoping, this effect enhances
+fluctuations as the temperature approaches T_(c). Then, as expected, the
+uncertainties in the vortex core cutoff associated with η and H_(c2) may
+increase due to the enhanced fluctuation.
+
+Figure 5 shows the p dependence of H_(c2)(0), the upper critical field
+at T= 0 K. Once the slope of H_(c2) near T_(c) is known, H_(c2)(0) for a
+two-dimensional system is given by
+
+$$H_{c2}(0)=0.59T_{c}\left|\frac{dH_{c2}}{dT}\right|_{T_{c}}$$
+(4)
+
+which is derived by Bulaevskii from WHH theory [23]. In order to obtain
+H_(c2)(0) from Eq. (4), we used the slope of lines in Fig. 4 and η=1.4
+given by the Hao-Clem method which is appropriate for an intermediate
+temperature range [6, 24]. We note that H_(c2)(0) is not symmetrical to
+p=0.16, i.e., as shown in Fig. 5, H_(c2)(0) increases with decreasing p
+in the OD regime, but decreases around p= 0.183 which is closer to 0.19
+at which PG starts to open, rather than p=0.16 at which T_(c) is
+maximum. In the OD regime (p> 0.19), the superconducting properties are
+determined by Δ_(SC), but in the UD and slightly OD regime (p< 0.19),
+the situation is rather complex due to the appearance of PG. This
+behavior can be understood in the following terms. The upper critical
+field H_(c2)(0) is given by H_(c2)(0)= ϕ₀/[2 πξ(0)²], where ξ is the
+coherence length [ξ(0)= ℏν/πΔ_(SC)(0)] [25]. In the presence of the PG,
+the magnitude of the total excitation gap is given by Δ(0)=[Δ_(SC)(0)² +
+Δ_(PG)²] [12, 26, 27]. The superconducting energy gap can be writ
+
+Figure 4: Reduced temperature dependence of the upper critical field
+H_(c2) for Bi-2212 with different hole concentrations. The continuous
+solid lines are from the linear fit.
+
+Figure 5: Hole concentration dependence of H_(c2)(0) obtained from WHH
+theory. The hole concentration dependence of H_(c2)(0) for UD and
+slightly OD region is different from that for OD region due to the
+presence of the PG. The solid lines are from the linear fits.
+
+Figure 3: Reduced temperature dependence of the penetration depth λ for
+Bi-2212 with different hole concentrations. It is likely that in the OP
+and UD regimes, λ⁻² at T= 0 K is rapidly suppressed with underdoping.
+
+ten as
+$\Delta_{\rm SC}(0)\!=\![\Delta(0)^{2}\!-\!\Delta_{PG}^{2}]^{1/2}$. The
+relative size of Δ_(PG) to Δ(0) increases as p decreases, which results
+in a decrease of Δ_(SC)(0) for p < 0.19. Consequently, H_(c2)(0) on p
+has a maximum value around p = 0.19 as p decreases from the OD regime.
+
+The coherence length ξ(0) for each sample can be extracted from the
+H_(c2)(0) value of Fig. 5. For example, ξ(0) values for Bi-2212 samples
+with p = 0.177 and 0.103 are 2.5 and 4.2 nm, respectively. These are
+somewhat longer than the values of 1.3 and 2.5 nm reported by Li _et
+al._[28] on Bi-2212 samples with the similar hole concentration. This
+discrepancy is mainly caused by the use of the different η values; Li
+_et al._ used η = 0.35, instead of η = 1.4. Although the choice of η
+affects the absolute values for H_(c2), our primary conclusion about the
+p dependence of H_(c2) remains unchanged.
+
+## IV Conclusions
+
+We have measured the reversible magnetization of Bi-2212 with different
+hole concentrations as a function of temperature and magnetic field. In
+the OP and UD regimes, λ⁻² is rapidly suppressed with underdoping. Due
+to the presence of the PG, the upper critical field H_(c2)(0) has a
+maximum value when the hole concentration is around 0.19 rather than
+0.16, the optimal hole concentration.
+
+## Acknowledgment
+
+This work was supported by the Korea Research Foundation Grant
+(R14-2002-029-01001-0).
+
+## References
+
+* [1] J. W. Loram, K. A. Mirza, J. R. Cooper, and J. L. Tallon, Physica
+C **282-284**, 1405 (1997). * [2] T. Timusk and B. Statt, Rep. Prog.
+Phys. **62**, 66 (1999). * [3] V. J. Emery, S. K. Kivelson, and O.
+Zachar, Phys. Rev. B **56**, 6120 (1997). * [4] M. Kugler, O. Fisher,
+Ch. Renner, S. Ono, and Y. Ando, Phys. Rev. Lett. **86**, 4911 (2001). *
+[5] L. N. Bulaevskii, M. Ledvij, and V. G. Kogan, Phys. Rev. Lett.
+**68**, 3773 (1992). * [6] V. G. Kogan, A. Gurevich, J. H. Cho, D. C.
+Johnston, Ming Xu, J. R. Thompson, and A. Martynivich, Phys. Rev. B
+**54**, 12 386 (1996). * [7] J. H. Cho, D. C. Johnston, M. Ledvij, and
+V. G. Kogan, Physica C **212**, 419 (1993). * [8] G. C. Kim, M. Cheon,
+Y. C. Kim, and D. Y. Jeong (unpublished). * [9] J. D. Axe, A. H.
+Moudden, D. E. Cox, K. M. Mohanty, A. R. Moodenbaugh, and Y. Xu, Phys.
+Rev. Lett. **62**, 2751 (1989). * [10] F. Yakhou, J.-Y. Henry, P.
+Burlet, V. P. Plakhty, M. Vlasov, and S. Moshkin, Physica C **333**, 146
+(2000). * [11] J. L. Tallon, C. Bernhard, H. Shaked, R. L. Hitterman,
+and J. D. Jorgensen, Phys. Rev. B **51**, 12 911 (1995). * [12] K.
+McElroy, D.-H. Lee, J. E. Hoffman, K. M. Lang, J. Lee, E. W. Hudson, H.
+Eisaki, S. Uchida, and J. C. Davis, Phys. Rev. Lett. **94**, 197005
+(2005). * [13] I. Martin, D. Podolsky, and S. A. Kivelson,
+cond-mat/0501659 (unpublished). * [14] G. C. Kim and Y. C. Kim, Phys.
+Rev. B **55**, 11 126 (1997). * [15] D. N. Zheng, A. M. Campbell, and R.
+S. Liu, Phys. Rev. B **48**, 6519 (1993). * [16] Kyung-Hee Kim,
+Heon-Jung Kim, Sung-Ik Lee, A. Iyo, Y. Tanaka, K. Tokiwa, and T.
+Watanabe, Phys. Rev. B **70**, 092501 (2004). * [17] P. Mandal, A.
+Poddar, B. Ghosh, and P. Choudhury, Phys. Rev. B **43**, 13 102
+(1991). * [18] V. G. Kogan, M. Ledvij, A. Yu. Simonov, H. H. Cho, and D.
+C. Johnston, Phys. Rev. Lett. **70**, 1870 (1993). * [19] C.
+Panagopoulos, B. D. Rainford, J. R. Cooper, W. Lo, J. L. Tallon, J. W.
+Loram, J. Betouras, T. S. Wang, and C. W. Chu, Phys. Rev. B **60**, 14
+617 (1999). * [20] Qijin Chen, Ioan Kosztin, Boldizsar Janko, and K.
+Levin, Phys. Rev. Lett. **81**, 4708 (1998). * [21] E. Helland and N. R.
+Werthamer, Phys. Rev. Lett. **13**, 686 (1964). * [22] E. Helfand and N.
+R. Werthamer, Phys. Rev. **147**, 288 (1966); N. R. Werthamer, E.
+Helfand, and P. C. Hohenberg, _ibid._**147**, 295 (1966). * [23] L. N.
+Bulaevskii, Sov. Phys. JETP **38**, 634 (1974). * [24] Zhidong Hao, John
+R. Clem, M. W. McElfresh, L. Civale, A. P. Malozemoff, and F. Holtzberg,
+Phys. Rev. B **43**, 2844 (1991). * [25] M. Tinkham, _Introduction to
+Superconductivity_ (McGraw-Hill, New York, 1996), p. 363. * [26] J. L.
+Tallon, J. W. Loram, J. R. Cooper, C. Panagopoulos, and C. Bernhard,
+Phys. Rev. B **68**, 180501 (2003). * [27] A. A. Ovchinnikov and M. Ya.
+Ovchinnikova, JETP **98**, 546 (2004). * [28] M. Li, C. J. van der Beek,
+M. Konczykowski, A. A. Menovsky, and P. H. Kes, Phys. Rev. B **66**,
+024502 (2002).

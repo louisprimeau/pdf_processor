@@ -1,0 +1,690 @@
+# Crystalline electric field effects in PrNi₂B₂C: Inelastic neutron
+scattering
+
+Chandan Mazumdar
+
+M. Rotter
+
+M. Frontzek
+
+H. Michor
+
+M. Doerr
+
+A. Kreyssig
+
+M. Koza
+
+A. Hiess
+
+J. Voigt
+
+J. Oi
+
+Jiali Centre for Neutron Science, Forschungszentrum Julich, 52425
+Julich, Germany
+
+G. Behr
+
+Institut fur Festkorperphysik, Technische Universitat Dresden, 01062
+Dresden, Germany
+
+L. C. Gupta
+
+Institut fur Festkorperphysik, Technische Universitat Wien,
+Walringerrstr. 42, 1090 Wien, Austria
+
+M. Prager
+
+Jiali Centre for Neutron Science, Forschungszentrum Julich, 52425
+Julich, Germany
+
+M. Loewerhaupt
+
+Institut fur Festkorperphysik, Technische Universitat Dresden, 01062
+Dresden, Germany
+
+###### Abstract
+
+PrNi₂B₂C as a member of the borocarbide series is characterized by
+antiferromagnetic order below T_(N) =4 K and the absence of
+superconductivity (at least down to 100 mK). There are two effects
+responsible for the absence of superconductivity in PrNi₂B₂C. These are
+the strong conduction electron-Pr moment interaction and a comparatively
+lower density of states. We studied the crystalline electric field (CEF)
+excitations and excitons in this compound by inelastic neutron
+scattering. The CEF level scheme obtained from these data comprises a
+singlet ground state, a doublet at 1 meV, and further higher levels at
+5.2, 24.3 (doublet), 25.1, 29.4, and 31.5 meV. Large dispersion was
+found for the 1 meV excitation and explained theoretically taking into
+account magnetic exchange interactions. The calculated crystal-field
+parameters explain satisfactorily the neutron spectra as well as the
+heat-capacity and magnetic-susceptibility data. This leads to the
+conclusion that PrNi₂B₂C can be described by the standard model of
+rare-earth magnetism. Thus the heavy-fermion concept, suggested by some
+groups earlier in literature, is not the cause of the suppression of
+superconductivity. Excitation spectra of the diluted series
+Pr_(1 − x)Y_(x)Ni₂B₂C were also investigated. No drastic changes in the
+CEF level scheme have been observed in these compounds. Hence the CEF
+level scheme of the full compound, i.e., PrNi₂B₂C, is reasonably valid
+for these samples too. The superconducting-transition temperature
+T_(C)∼15.5 K for YNi₂B₂C decreases linearly with decreasing Y
+concentration x. Samples with x≤0.65 do not exhibit superconductivity
+down to 2 K.
+
+pacs: 10.1103/PhysRevB.78.144422 PACS number(s): 71.70.Ch, 74.70.Dd,
+75.10.Dg, 78.70.Nx + Footnote †: preprint: PHYSICAL REVIEW B **78**,
+144422 (2008)
+
+## I Introduction
+
+_R_Ni₂B₂C (_R_ = Y, rare earth) compounds have been attracting attention
+right from the early days of their discovery.[1, 2] They exhibit several
+unusual phenomena associated with the interplay of superconductivity and
+magnetism.[2, 3] The magnetic-ordering and superconducting-transition
+temperatures observed for several compounds in this series are of the
+same order of magnitude.[3, 4, 5] The interplay of magnetic order and
+superconductivity has been studied extensively in DyNi₂B₂C (T_(C)=6.0 K,
+T_(N)=10.6 K), HoNi₂B₂C (T_(C)=8.0 K, T_(N)=8.5 K), ErNi₂B₂C (T_(C)=11
+K, T_(N)=6.8 K), and TmNi₂B₂C (T_(C)=11 K, T_(N)=1.5 K) and their solid
+solutions.[5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20,
+21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38,
+39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56,
+57, 5 Narozhnyi _et al._5 because valence fluctuations are known to
+suppress superconductivity as, e.g., observed in La_(1 − x)Ce_(x).[17]
+Alternatively, the absence of superconductivity in PrNi₂B₂C may be due
+to unfavorable electronic band structure because in LaNi₂B₂C
+superconductivity is also absent due to a markedly reduced electronic
+density of states at the Fermi level, N(E_(F)), as compared to
+superconducting YNi₂B₂C and LuNi₂B₂C.[18, 19] The fact that N(E_(F)) of
+PrNi₂B₂C is indeed rather close to the value for LaNi₂B₂C has been
+demonstrated via a systematic band-structure study on RNi₂B₂C
+compounds.[20]
+
+The aim of the present work is to investigate if magnetic properties of
+PrNi₂B₂C can be accounted for by the standard model of rare-earth
+magnetism[21] with an appropriate CEF level scheme and if any evidence
+for anomalous heavy-fermion behavior and valence fluctuations can be
+found. Therefore, we have analyzed dc magnetic susceptibility,[22]
+specific heat, and the inelastic magnetic neutron response of Pr, both
+in PrNi₂B₂C and in magnetically diluted Pr_(1 − x)Y_(x)Ni₂B₂C compounds,
+where Pr³⁺ ions are more isolated from each other and pair correlations
+are weakened.
+
+## II Experimental Details
+
+Polycrystalline samples of Pr_(1 − x)Y_(x)Ni₂B₂C (x = 0, 0.1, 0.2, 0.5,
+0.65, 0.8, 0.9, 0.95, 1) were synthesized using the following procedure:
+appropriate amounts of Pr pieces, Ni powder, ¹¹B powder [which is
+necessary for inelastic neutron scattering (INS) because natural boron
+contains 19.4
+
+The superconducting properties were studied by ac-susceptibility
+measurements in the temperature range of 2-25 K using an Oxford Maglab
+susceptometer (f = 1000 Hz). Heat-capacity measurements were carried out
+on samples of about 1.5 g in the temperature range of 1.5-150 K
+employing a quasiadiabatic step-heating technique.
+
+Inelastic neutron spectra with incident energies of 25 and 56 meV were
+taken using the time-of-flight (TOF) spectrometer SV29 at the FZ Julich
+to detect the crystal-field levels at higher energies. The powdered
+polycrystalline samples were placed inside flat aluminum boxes. The raw
+data were corrected for background and normalized to monitor. To study
+excitations at lower energies, TOF spectra were taken using the TOF
+spectrometer IN6 at ILL, Grenoble at temperatures between 2 and 200 K
+with an incident energy of 3.15 meV. With this setup the low-lying
+excited states (ℏω≤2 meV) can be measured with better energy resolution
+at low temperatures in neutron energy loss, whereas the higher excited
+states are accessible by measuring the energy-gain spectra at higher
+temperatures. As was done in the experiment at the SV29 spectrometer,
+the sample was mounted using a flat aluminum box. The raw data were
+corrected for background and normalized with respect to a vanadium
+standard.
+
+## III Results and Discussion
+
+### A. ac susceptibility
+
+ac-susceptibility data at low temperatures are shown in Fig. 2. No
+superconductivity was observed for samples with x≤ 0.65, in agreement
+with results reported earlier.[23] Notice that the transition is sharp
+for the x=1 sample (containing no Pr ions), suggesting high quality of
+the pure sample YNi₂B₂C. In the samples that contain Pr ions, such as,
+for example, samples with x=0.95, 0.90, and 0.8, the superconducting
+diamagnetic response is somewhat broad due to compositional statistical
+fluctuations. dT_(C)/dx, the rate of change in T_(C) with respect to x,
+in the Pr_(1 − x)Y_(x)Ni₂B₂C series is −35 K/mol Pr. This value is
+nearly the same as observed in doped Gd_(1 − x)Y_(x)Ni₂B₂C.[23, 24]
+which suggests a similar influence on superconductivity of Pr and Gd
+ions introduced in dilute concentrations in YNi₂B₂C, though the origins
+of depression in T_(C) are completely different in the two cases. In the
+case of PrNi₂B₂C, it is due to band effects (see Sec. I) and in the case
+of GdNi₂B₂C it is due to pair breaking. The magnetic ordering in
+PrNi₂B₂C shows no signature in our ac-susceptibility measurements, in
+agreement with earlier reports that dc susceptibility in low external
+magnetic field (100 Oe) indicates only a deviation from Curie-Weiss
+behav
+
+Figure 1: (Color online) Variation in the lattice parameters of
+Pr_(1 − x)Y_(x)Ni₂B₂C. The lines are guides for the eyes.
+
+ior below T_(N) = 4 K.25 As a signature of magnetic order, a broad
+maximum around T_(N) becomes better defined at a higher magnetic field
+(500 Oe). Our heat-capacity measurements, however, do show the magnetic
+transition clearly (see Fig. 9).
+
+### Inelastic neutron scattering
+
+First we will present the inelastic-neutron-scattering spectra for the
+full compound PrNi₂B₂C taken with different incident-neutron energies at
+temperatures between 2 and 150 K.26 In Fig. 3, we show the spectra from
+counters with momentum transfers of less than 2 A-1 where inelastic
+magnetic scattering is the dominant contribution to the scattering
+intensity. At the lowest temperature (2 K) the compound is in the
+magnetically ordered state. Therefore, the single-ion CEF transitions
+from the ground state to the excited states are modified due to the
+presence of two-ion exchange interaction. However, this modification is
+hardly visible for the high-energy transitions with energy transfers
+larger than 10 meV. It is masked by the considerably lower resolution of
+the SV29 data with incident energies of 56 meV. In this energy range
+(>10 meV) there is only one strong CEF transition at  24.5 meV energy
+transfer that is visible. Because this transition is already observed at
+2 K, it must connect the ground state with excited states lying around
+ 24.5 meV. For increasing temperatures its intensity is only slightly
+reduced, much less than expected from the inverse of the partition
+function. (See also Fig. 10: we expect a reduction to 70
+
+Magnetic excitations in the energy range of 3-15 meV are observed in the
+SV29 spectra taken with incident-neutron energy of 25 meV (Fig. 4). The
+dominant magnetic excitation at 4.5 meV is only seen at elevated
+temperatures; i.e., it must originate from an excited CEF level. Its
+temperature dependence suggests that this transition connects the CEF
+state at 1 meV with another excited state at (4.5+1) meV =5.5 meV. We
+also mention a rather weak excitation in the energy range around 8 meV
+which is already present at 2 K (hence it must originate from the ground
+state), but its temperature and Q dependence is unusual for CEF
+transitions. We, therefore, hesitate to assign a CEF level at 8 meV.
+
+Up to now we have discussed the SV29 spectra considering only the
+neutron-energy-loss side (positive energy trans
+
+Figure 3: (Color online) Inelastic-neutron-scattering spectra of
+PrNi₂B₂C measured at SV29 with _E_i = 56 eV for different temperatures.
+Each spectrum has been shifted vertically for clarity. ⟨Q⟩ represents
+averaging for Q = (2.70 ± 0.49) Å−1. The thick lines indicate the
+results of CEF calculations for 2, 10, and 50 K with an added elastic
+line (linewidth from vanadium measurement) and a straight-line
+background on the positive-energy-transfer side.
+
+Figure 2: (Color online) ac-susceptibility measurements on
+Pr_(1 − x)Y_(Ni)B₂C. Samples with _x ≤_ 0.65 do not show
+superconductivity down to 2 K. The inset shows T_(C) as a function of
+the concentration x.
+
+fers). However, as can be seen in Fig. 4 in the spectrum at 50 K, there
+is also intensity at negative values of the energy transfer. In this
+part of the spectrum the neutron gains energy from the sample through
+the transition from a state at higher energy to a state at a lower
+energy. (Compare the 4.5 meV lines at both sides of the elastic line.)
+Intensities on both sides of the spectrum are related through the
+so-called detailed-balance condition, i.e., _I_(gain side) =_I_(loss
+side)exp[-_h_|_o_|/_k_g_T_]. This fact has been used to present our IN6
+data (Fig. 5) for both sides (neutron energy loss and gain). Multiplying
+the intensity on the gain side by exp[+_h_|_o_|/_k_g_T_], one obtains
+symmetric spectra and can compare the IN6 data on the energy-gain side
+directly with those of SV29 on the energy-loss side. Because of the much
+better energy resolution of IN6 [full width at half maximum (FWHM) at
+the elastic position is 0.1 meV for an incident energy of 3.15 meV], we
+can now also resolve the low-energy part (<2 meV) of the excitation
+spectrum in addition to the medium-energy range of up to 10 meV (the
+visibility of the latter, however, depending on temperature). A very
+strong CEF transition with energy of 1 meV is well resolved from the
+elastic line (which was not the case for the SV29 spectra). Plotting the
+intensity in the elastic window (±0.1 meV) as a function of the modulus
+of the momentum transfer Q (see inset of Fig. 5), one can also observe
+the (001) magnetic Bragg peak at 2 K indicating that the sample is in
+the magnetically ordered state and disordered for temperatures ≅10 K.
+The solid lines in the spectra in Figs. 3-5 correspond to a single-ion
+CEF model with parameters as given and discussed in Sec. III.4.
+
+In addition to the deduction of spectroscopic information from the
+low-temperature low-energy IN6 data, it is also possible to gain
+information on the dependence of the excitations on the modulus of the
+momentum transfer. (However, using a polycrystalline sample only the
+average over all three spatial directions is accessible.) This
+_Q_-dependent information is especially important for the magnetically
+ordered state at 2 K. In addition to the single-ion CEF level scheme
+(which is by definition Q independent), we have to consider the two-ion
+exchange interactions, as stated in the beginning of this section. As we
+will see, the CEF ground state of the Pr3+ ion is a singlet and has no
+magnetic moment. Hence PrNi2B2C should not order magnetically unless
+there is a strong CEF transition to a low-lying excited state that is
+able to induce a magnetic moment into the singlet ground state. In such
+a case a considerable dispersion will be observed–in other words, the
+CEF transition becomes an exciton.
+
+Figure 6 (top left) shows the _Q_-resolved magnetic excitations at 2 K
+in the energy range from 0 to 2 meV. At the elastic positions three
+magnetic Bragg peaks [(001) at 0.65 A⁻¹, (100) at 1.70 A⁻¹, and (003) at
+1.88 A⁻¹] and two nuclear Bragg peaks [(002) at 1.3 A⁻¹ and (101) at
+1.81 A⁻¹] fall into the accessible Q range. The observed band of
+excitations covers a range in energies between 0.4 meV (indicating a
+possible gap of this size) and 1.6 meV (upper boundary). Even in the
+paramagnetic state (Fig. 6, top right) we observe a band of excitations,
+though narrower and with less dispersion. A model calculation (see Sec.
+III.4) assuming only nearest-neighbor exchange (that describes the
+magnetic structure correctly) is able to reproduce the main features of
+the observed excitations at 2 and 10 K as shown in Fig. 6 (bottom left
+and bottom right, respectively).
+
+We now briefly discuss the influence of diluting the Pr3+ ions with
+nonmagnetic Y³⁺ ions. The inelastic-neutron-scattering energy spectra of
+Pr0.9Y0.1Ni2B2C, Pr0.2Y0.8Ni2B2C, and Pr0.05Y0.95Ni2B2C were measured
+together with that of YNi2B2C as a reference which shows no appreciable
+intensities in the whole inelastic spectra. Figure 7 shows the spectra
+for Pr0.9Y0.1Ni2B2C measured at different temperatures. As in the case
+of PrNi2B2C (Fig. 5), the
+
+Figure 5: (Color online) Inelastic-neutron-scattering spectra of
+PrNi2B2C measured at IN6 with _E_i=3.15 meV for different temperatures.
+The neutron-energy-gain spectra have been modified according to the
+detailed-balance condition. Each spectrum has been shifted vertically
+for clarity. ⟨Q⟩ represents averaging for Q =(1.5 ± 0.1) Å⁻¹. The thick
+lines indicate the results of CEF calculations for 10, 50, and 150 K.
+The inset shows the presence of the magnetic (001) Bragg peak indicating
+the antiferromagnetic ordering at 2 K (_T_(N)_∼4 K).
+
+Figure 6: (Color online) Inelastic-neutron-scattering spectra of
+PrNi2B2C measured at IN6 at 2 K (top left) and 10 K (top right): a
+color-coded map of the neutron intensity vs energy and momentum
+transfer. For comparison, the figures at bottom left and bottom right
+show the results of the model calculation (for details see text).
+
+spectra for Pr0.9Y0.Ni2B2C have also been scaled using the detailed
+balance factor (ε^(2ω)/k_(B)T) in the neutron-energy-gain part. The
+features around 1 and 4.5 meV are still there but are much weaker and
+broader. The (001) magnetic Bragg reflection can also be observed (see
+inset of Fig. 7), but it is much weaker. The smaller intensity can be
+explained by a possible reduction in the magnetic-transition temperature
+in the diluted samples;[25] the moments are yet to attain saturation at
+2 K. With Pr concentration decreasing further, the details of most of
+the features become less resolved and extremely weak; see Fig. 8.
+
+### Heat capacity
+
+In order to obtain complementary thermodynamic information on the CEF
+scheme, we have analyzed the heat-capacity data shown in Fig. 9, which
+displays the magnetic contribution to heat capacity (DC_(P) vs T
+representation) in PrNi2B2C in zero field. The phonon background has
+been estimated and subtracted using the heat-capacity data of
+LaNi2B2C.[25] The feature at _T_ 4 K ( _T_N_) in PrNi2B2C corroborates
+the magnetic phase transition to a long-range magnetic order.[6] The
+magnetic entropy was calculated from the magnetic specific-heat
+contribution, _S_=_f_/(DC_(P)/_T_)_dT_, and is plotted in Fig. 9. As the
+lowest temperature for measurement of the heat-capacity data shown in
+Fig. 9 is 1.85 K, we added an estimate, _S_(1.85 K) = 0.35 J/mol K. The
+entropy attains the value of R ln 3 at  25 K, which indicates that the
+overall ground state is a quasitriplet, e.g., a singlet and a closely
+lying doublet.
+
+As further analysis of heat-capacity data, we have calculated the single
+ion partition function z [=_z_exp(-_E_/_kBT_)] as a function of
+temperature applying the following formula:
+
+F = ∫SdT = −RTln z,
+
+where F is Helmholtz free energy, and R is the molar gas constant. The
+results of this calculation are shown in Fig. 10. Within the CEF model,
+the single ion partition function is expressed as a sum over the
+different crystal field states j,
+
+Figure 8: (Color online) Inelastic-neutron-scattering spectra of
+Pr1−_Y_iNi2B2C for _x_=0, 0.1, 0.8, 0.95, and 1 measured at IN6 with
+_E_i=3.15 meV at 150 K. The neutron-energy-gain spectra have been
+modified according to the detailed-balance condition. Each spectrum has
+been shifted vertically for clarity. ⟨Q⟩ represents averaging for Q =
+(1.5 +- 0.1) Å−1. All spectra were scaled to Pr concentration, except
+that of YNi2B2C, where the scaling factor is the same (100/5 = 20) as
+that of Pr0.05Y0.95Ni2B2C.
+
+Figure 7: (Color online) Inelastic-neutron-scattering spectra of
+Pr0.9Y0.1Ni2B2C measured at IN6 with _E_i=3.15 meV for different
+temperatures. The neutron-energy-gain spectra have been modified
+according to the detailed-balance condition. Each spectrum has been
+shifted vertically for clarity. ⟨Q⟩ represents averaging for Q = (1.5 +-
+0.1) Å−1. The inset shows the presence of the magnetic (001) Bragg peak
+indicating antiferromagnetic ordering at 2 K.
+
+Figure 9: (Color online) The magnetic contribution (4_f_) to heat
+capacity (DC_(P) vs _T_) in PrNi2B2C deduced by subtracting the
+heat-capacity data of LaNi2B2C (Ref. [25]). Corresponding
+magnetic-entropy gain for PrNi2B2C has been plotted in the same figure
+(right-hand-side axis). The dotted line represents the calculated
+magnetic heat capacity as derived from the CEF level scheme in the
+paramagnetic range. The thin solid line indicates the results of a model
+with a modified crystal-field level scheme in order to take into account
+qualitatively the effect of exchange interaction (see text).
+
+i.e., z = _z_/_z_/_k_B_T_) (here _k_B_ denotes Boltzmann’s constant). It
+is known that the temperature dependence of the intensity of CEF
+transitions that start from the ground state varies as 1/_z_. We have
+calculated, at several temperatures, the integrated intensity of the
+inelastic neutron peak at  1 meV for both PrNi₂B₂C and
+Pr_(0.9)Y_(0.1)Ni₂B₂C. The results of these calculations are shown in
+Fig. 10. It is clearly seen that the intensities so calculated follow
+the variation in the inverse of the partition function with temperature.
+We have also calculated the partition function using CEF levels
+determined from the neutron data presented here, which also suggests the
+ground state as a singlet followed at 1 meV by a doublet or two very
+closely ( 0.1 meV) lying singlets.
+
+### CEF calculations
+
+The ground state of Pr³⁺ ions (_J_ = 4) has ninefold degeneracy. In the
+tetragonal point group _D__(4h), the multiplets split into five singlets
+(Γ₁⁽¹⁾, Γ₁⁽²⁾, Γ₂, Γ₃, and Γ_(4h)) and two doublets (Γ₅⁽¹⁾ and Γ₅⁽²⁾),
+where the Γ_(j) are irreducible representations of the point group. It
+may be pertinent to note here that based on the extrapolation techniques
+(using a scaling factor) [28] from measurements on the rare-earth analog
+TmNi₂B₂C (Tm³⁺:4_f_¹²), there are a couple of reports in literature on
+Pr CEF level schemes in PrNi₂B₂C. [29, 30] However, the CEF line
+observed in our experimental data of PrNi₂B₂C at  1 meV does not appear
+in these extrapolated or calculated energy-level schemes of PrNi₂B₂C.
+[29, 30] We may note here that often such calculations are in
+disagreement with the experimental results. For example, recently,
+Gasser _et al._[30] demonstrated through polarized Raman-scattering
+studies in ErNi₂B₂C that CEF levels extrapolated from low-energy
+inelastic-neutron-scattering data can be quite in disagreement with
+reality since analysis of the inelastic-neutron-scattering data for this
+system is quite difficult due to its crystal structure (a square-planar
+environment around the rare-earth ions). Although Divis _et al._[31]
+also demonstrated that the calculated or extrapolated CEF level scheme
+for _R_Ni₂B₂C can be in serious disagreement with the measured CEF
+values, their calculations also did not generate the CEF line at  1 meV.
+
+We have modeled the single-ion properties of PrNi₂B₂C using CEF
+parameters that were derived using the mcbrasse package [32] by
+simultaneous fitting of dc-susceptibility data on single-crystalline
+compound, [33] as well as our inelastic-neutron-scattering and
+heat-capacity data on polycrystalline samples. The model Hamiltonian
+used is
+
+$${\cal H} = \sum\limits_{iin}B_{i}^{m}O_{i}^{m}(\vec{J}_{i})-g_{i}\mu_{B}\vec{ J}\cdot\vec{H},$$
+(2)
+
+where the 4f moment of the _i_th Pr³⁺ ion is represented by the negative
+of the angular momentum operator [21]J⃗_(i) and J⃗ =Σ_(i)J⃗_(i) is the
+negative of the total angular momentum operator, g, is the Lande g
+factor and μ_(B) is the Bohr magneton. The first term in this expression
+is the CEF contribution and the second term is the Zeeman energy. The
+fit was restricted to the paramagnetic region only. In our initial
+attempt, we varied the parameter B₂⁰ only in a narrow interval to have a
+correct description of magnetic susceptibility at high temperature. The
+magnetic-susceptibility behavior of single-crystalline tetragonal
+PrNi₂B₂C is found to be very anisotropic in nature. [33] Therefore in
+the fitting procedure the statistical weights for different directions
+were chosen differently.
+
+In a polycrystalline sample, neutron-diffraction cross section for a CEF
+transition i →_i_’ (in units of b/sr meV) at a temperature T is
+expressed in dipole approximation as [34]
+
+$$\frac{d^{2}\sigma(i \to i^{\prime})}{d\Omega dE^{\prime}}$$
+$$= \frac{k^{\prime}}{k}S(Q,\omega)$$
+$$= N\frac{k^{\prime}}{k}\left(\frac{\hbar\gamma\nu^{2}}{mc^{2}} \right)^{2}e^{-2\nu}\left|\frac{1}{2}g_{j}F(Q)\right|^{2}\frac{\exp(-E_{i}/k_ {B}T)}{\sum\limits_{j}\exp(-E_{j}/k_{B}T)}$$
+$$\times \sum\limits_{\omega\pi\lambda,y,z}\frac{2}{3}[\langle i|J^{\prime }|i^{\prime}\rangle^{2}]^{2}\delta(E_{i}-E_{i^{\prime}}-\hbar\omega).$$
+(3)
+
+Here k^(′)/k is the ratio of the momenta of the scattered and the
+incident neutrons, 4_p_(ℏν²/mc²)² is the total magnetic cross section
+(=3.65 b), g = g,_2_/_2_ (_g_ = 1.913 042) is the gyromagnetic ratio of
+the neutron, and e²/mc²=2.82 fm is the classical electron radius.
+Furthermore, z [= _z_/_z_/_k_B_T_)] is the single ion partition
+function, ∑_(ωπ = x, y, z)[⟨i|J^(′)|i^(′)⟩² is the sum of squares of the
+transition matrix elements of the angular momentum operator, and
+**F(Q)** is the magnetic form factor of the Pr³⁺ ion. In order to
+compare the cross section given in Eq. (3) to the experimental data, it
+was convoluted for each transition i →_k_ by a Gaussian with an
+energy-dependent linewidth. As the spectra show a larger linewidth
+
+Figure 10: (Color online) Temperature dependence of the (scaled)
+intensity of the inelastic peak at 1 meV in PrNi₂B₂C and
+Pr_(0.9)Y_(0.1)Ni₂B₂C measured at IN6 (see Figs. 5 and 7) and compared
+to the inverse of the partition function as deduced from heat-capacity
+data of PrNi₂B₂C (solid line) and as calculated from the proposed CEF
+scheme (dotted line).
+
+than the experimental resolution of IN6, the linewidth was a parameter,
+which was fitted to the spectra.
+
+Consideration of a singlet ground state and only a singlet at  1 meV
+fails to explain all the experimental results simultaneously. In
+particular the calculated entropy would be much lower than the
+experimental one. The calculation yields the best fit for all three
+different experiments when the ground state is considered as singlet
+followed by a doublet at 1.0 meV, a singlet at 5.2 meV, another doublet
+at 24.3 meV, and singlets at 25.1, 29.4, and 31.5 meV, as shown in Fig.
+11(a). The resultant crystal-field parameters obtained are B₂⁰ =0.30
+meV, B₄⁰=3.0 x 10⁻⁴ meV, B₄⁰=−7.4 x 10⁻² meV, B₆⁰=1.5 x 10⁻⁴ meV, and
+B₆⁰=−4.9 x 10⁻⁴ meV.
+
+Our calculation suggests that the transition probability from the ground
+state to the level at 5.2 meV is zero. Neutrons can induce a transition
+to this excited state only from the doublet at 1.0 meV. The level scheme
+also explains the behavior of the magnetic entropy up to 50 K. At higher
+temperatures the experimental determination of the entropy is difficult
+and subtraction of the LaNi₂B₂C probably overestimates the phonon
+contribution to the entropy. Considering the experimental errors the
+agreement of the fit to the heat-capacity (Fig. 9), neutron-intensity
+(Figs. 3-6), and magnetic-susceptibility (Fig. 12) data underlines that
+the crystal-field model shown in Fig. 11 is able to explain these
+physical properties.
+
+In our analysis of the crystal-field results, we calculated the
+corresponding 4f charge density [see Fig. 11(c)]. There is a large
+variation in the tetragonal plane indicating an important influence of
+positive charges at the carbon neighbors in the tetragonal plane. On the
+other hand, the charge density is only slightly prolate in the c
+direction of the crystal. Such a distribution of charge density is
+associated with a planar anisotropy ([110] is the easy magnetic axis;
+see, e.g., Fig. 12). From the crystal-field anisotropy we expect that
+below T_(N) in the antiferromagnetic state the moments lie on the ab
+plane along the [110] direction, in agreement with the magnetic
+structure reported in literature.[6]
+
+In order to interpret the Q dependence of the spectra, in particular in
+the magnetically ordered state at 2 K, the effect of exchange
+interactions has to be considered. This requires an extension of the
+simple crystal-field Hamiltonian [Eq. (2)] as
+
+$$\mathcal{H}=\sum_{ilm}B_{l}^{m}O_{l}^{m}(\vec{j}_{l})-g_{J}\mu_{B}\vec{J}\cdot \vec{H}-\frac{1}{2}\sum_{ij}J_{ij}\vec{j}_{l}\cdot\vec{j}_{j},$$
+(4)
+
+where J_(ij) is the exchange coupling between the angular momentum of
+the ith and jth Pr³⁺ ions. In a first simple model approach we
+introduced only one nearest-neighbor exchange interaction by setting
+$J(\frac{1}{2}\frac{1}{2})$=−15 μeV. Using our crystal-field parameters
+in combination with a mean-field theory, this gives a magnetic-ordering
+temperature of T_(N)=7 K. This is a good estimate considering that in a
+mean-field model
+
+Figure 11: (Color online) CEF splitting and charge density at T =10 K
+for Pr³⁺ in PrNi₂B₂C as calculated from our CEF model (see text). For
+comparison the magnetic and crystal structure are shown.
+
+Figure 12: (Color online) Inverse magnetic susceptibility of PrNi₂B₂C
+along and perpendicular to the (110) plane (from Ref. [30]). The solid
+lines represent susceptibility calculated from our proposed CEF model
+(see text).
+
+critical fluctuations which suppress the order are neglected. In order
+to calculate the magnetic susceptibility below this temperature,
+assumptions about the distribution of the antiferromagnetic domains in
+the crystal have to be made. We assumed an ideal soft antiferromagnetic
+material. That is, by the application of a magnetic field along [110],
+only one domain showing the larger susceptibility was considered. This
+is the reason why the calculated susceptibility in the [110] direction
+does not show a maximum at T_(N) but continues to rise until saturation
+at temperatures well below T_(N) (see Fig. 12). On the other hand, for
+the susceptibility along [001] the calculation predicts a maximum, which
+is not found in the experimental data. However, considering the tiny
+signal in the hard direction, any misoriented small crystallite in the
+sample might contribute a large signal at low temperatures, which
+explains this discrepancy.
+
+To calculate the effect of exchange interactions on the dispersion of
+the magnetic excitations, the random-phase approximation was adopted in
+a similar way as for NdCu₂.[35] In order to facilitate the computation
+of a polycrystalline average of the inelastic neutron cross section
+involving the calculation of spectra at many **q** vectors, a fast
+algorithm was used.[36] The result of such a powder average is shown in
+Fig. 6 (bottom left and bottom right) and can be compared with the
+experimental data taken at IN6 (Fig. 6, top left and top right). It can
+be seen that not only below T_(N) but also at higher temperatures the
+magnetic exchange interactions lead to some dispersion in the magnetic
+excitations.
+
+In principle the interpretation of the specific-heat experiments should
+take into account this dispersive excitation spectrum. However, as there
+is no common consensus on how to implement this idea, we took into
+account the effect of dispersion by introducing an artificial splitting
+of the CEF doublet at 1.0 meV. The solid line in Fig. 9 shows the result
+of such a calculation [the CEF level scheme was set to 0, 0.8, 1.6, 5.2,
+24.3 (doublet), 25.1, 29.4, and 31.5 meV], which clearly improves the
+theoretical description of the experimental specific-heat data.
+
+## IV Conclusions
+
+In conclusion, we report here detailed measurements on crystalline
+electric field levels in PrNi₂B₂C and Pr_(1 − x)Y₁Ni₂B₂C. The CEF level
+scheme in PrNi₂B₂C below 150 K consists of a singlet ground state, a
+closely spaced doublet at 1.0 meV, and a singlet at 5.2 meV. Also, our
+CEF calculations suggest a doublet at 24.3 meV and a singlet at 25.1
+meV, the existence of which is indeed observed experimentally in
+time-of-flight neutron spectra. The correct CEF level scheme cannot be
+achieved by the extrapolation method using the spectra obtained in
+heavier rare-earth analogs. Our study demonstrates that in order to
+achieve reliable results, it is necessary to determine CEF model
+parameters by simultaneous fitting of many physical properties, i.e.,
+heat capacity, magnetic susceptibility, and inelastic-neutron-scattering
+spectra. We find good agreement of the theoretical predictions of the
+CEF model with the experimental data in PrNi₂B₂C.
+
+The excitations at 1.0 and 5.2 meV have also been observed in
+Pr_(1 − x)Y_(x)Ni₂B₂C samples, but are much weaker and broadened. In
+view of the observed phase transition at high temperatures in DyB₂C₂
+where quadrupolar ordering has been observed, the possibility of
+quadrupolar-induced magnetic transition in PrNi₂B₂C must be considered
+and experimentally looked into. Recently, a similar phenomenon has been
+reported in TmNi₂B₂C.[57] The essential point of the present work is the
+determination of the CEF, which is of fundamental importance for the
+further investigation of the two-ion interactions (in particular their
+anisotropy), the coupling of magnetism to the lattice and to the
+conduction electrons in the system, which is important for the interplay
+of magnetism and superconductivity. For this purpose, neutron
+spectroscopic measurements on single crystals are required.
+
+## Acknowledgments
+
+This work was performed within the program of the
+Sonderforschungsbereich (SFB) 463 and supported financially by the
+Deutsche Forschungsgemeinschaft (DFG). The authors thank O. Stockert for
+providing software for the analysis of the IN6 data. M.R. and H.M.
+acknowledge support by the Austrian Science Foundation (FWF) under
+Projects No. P17226, No. P16957, No. P16250, and No. P16778. L.C.G.
+thanks MPIPKS for providing support and hospitality during his several
+visits. He also thanks Humboldt Foundation for the support during some
+of his visits to MPIPKS. The work by A.K. at Ames Laboratory was
+supported by the U.S. DOE under Contract No. DE-AC02-07CH11358. The
+authors are thankful to P. Fulde for his comments and suggestions that
+helped improving the paper.
+
+## References
+
+* [1] R. Nagarajan, C. Mazumdar, Z. Hossain, S. K. Dhar, K. V.
+Gopalakrishnan, L. C. Gupta, C. Godart, B. D. Padalia, and R.
+Vijayaraghavan, Phys. Rev. Lett. **72**, 274 (1994). * [2] R. J. Cava,
+H. Takagi, H. W. Zandbergen, J. J. Krajewski, W. F. Peck, Jr., T.
+Siegrist, B. Battlog, R. B. van Dover, R. J. Felder, K. Mizuhashi, J. O.
+Lee, H. Eisaki, and S. Uchida, Nature (London) **367**, 252 (1994). *
+[3] (a) See, for example, L. C. Gupta, Adv. Phys. **55**, 691 (2006);
+(b) R. Nagarajan, C. Mazumdar, Z. Hossain, and L. C. Gupta, in
+_Frontiers in Superconducting Materials_, edited by A. V. Narlikar
+(Springer-Verlag, Berlin, 2005), p. 393. * [4] K.-H. Muller and V. N.
+Narozhnyi, Rep. Prog. Phys. **64**, 943 (2001); K.-H. Muller, M.
+Schneider, G. Fuchs, and S.-L. Drechsler, in _Handbook on the Physics
+and Chemistry of Rare Earths_, edited by K. A. Gschneidner, Jr., J.-C.
+Bunzli, and V. K. Pecharsky (Elsevier, Amsterdam, 2007), Vol. 38, Chap.
+239, pp. 175-336. * [5] V. N. Narozhnyi, J. Freudenberger, G. Fuchs, K.
+A. Nenkov, D.
+
+Eckert, A. Czopnik, and K.-H. Muller, J. Low Temp. Phys. **117**, 1599
+(1999). * [6] J. W. Lynn, S. Skanthakumar, Q. Huang, S. K. Sinha, Z.
+Hossain, L. C. Gupta, R. Nagarajan, and C. Godart, Phys. Rev. B **55**,
+6584 (1997). * [7] J. Freudenberger, A. Kreyssig, C. Ritter, K. Nenkov,
+S.-L. Drechsler, G. Fuchs, K.-H. Muller, M. Loewenhaupt, and L. Schultz,
+Physica C **315**, 91 (1999). * [8] A. Kreyssig, J. Freudenberger, C.
+Sierks, M. Loewenhaupt, K.-H. Muller, and N. Stuesser, Physica B
+(Amsterdam) **259-261**, 590 (1999). * [9] C. Mazumdar, E. Alleno, O.
+Sologub, P. Salamakha, H. Noel, M. Potel, A. D. Chinchure, R. Nagarajan,
+L. C. Gupta, and C. Godart, J. Alloys Compd. **339**, 18 (2002). * [10]
+M. El Massalami, R. E. Rapp, and G. J. Nieuwenhuys, Physica C **304**,
+184 (1998). * [11] S. K. Dhar, R. Nagarajan, Z. Hossain, E. Tominez, C.
+Godart, L. C. Gupta, and R. Vijayaraghavan, Solid State Commun. **98**,
+985 (1996). * [12] A. Yatskar, N. K. Budraa, W. P. Beyermann, P. C.
+Canfield, and S. L. Bud’ko, Phys. Rev. B **54**, R3772 (1996). * [13] M.
+El Massalami, H. A. Borges, H. Takeya, R. E. Rapp, and F. A. B. Chaves,
+J. Magn. Magn. Mater. **279**, 5 (2004). * [14] G. Hilscher and H.
+Michor, in _Studies of High Temperature Superconductors_, edited by A.
+V. Narlikar (Nova Science, New York, 1999), Vol. 28, p. 241. * [15] G.
+Hilscher, E. Holland-Moritz, T. Holubar, H.-D. Jostarndt, V. Nekvasi, G.
+Schaudy, U. Walter, and G. Fillion, Phys. Rev. B **49**, 535 (1994). *
+[16] P. Fulde, in _Handbook on the Physics and Chemistry of Rare
+Earths_, edited by Karl A. Gschneidner, Jr. and LeRoy Eyring (Elsevier,
+Amsterdam, 1979), Vol. 2, Chap. 17, pp. 295-386. * [17] B. Matthias, H.
+Suhl, and E. Corenzwit, Phys. Rev. Lett. **1**, 92 (1958). * [18] L. F.
+Mattheiss, T. Siegrist, and R. J. Cava, Solid State Commun. **91**, 587
+(1994). * [19] H. Michor, T. Holubar, C. Dusek, and G. Hilscher, Phys.
+Rev. B **52**, 16165 (1995). * [20] M. Divis, K. Schwarz, P. Blaha, G.
+Hilscher, H. Michor, and S. Khmelevskyyi, Phys. Rev. B **62**, 6774
+(2000). * [21] J. Jensen and A. R. Mackintosh, _Rare Earth Magnetism:
+Structures and Excitations_ (Clarendon, Oxford, 1991). * [22] H. Rho, M.
+V. Klein, and P. C. Canfield, Phys. Rev. B **69**, 144420 (2004). * [23]
+V. N. Narozhnyi, G. Fuchs, J. Freudenberger, K. Nenkov, and K.-H.
+Muller, Physica C **364-365**, 571 (2001). * [24] J. Freudenberger, G.
+Fuchs, K. Nenkov, S.-L. Drechsler, K.-H. Muller, and L. Schultz, Physica
+C **339**, 195 (2000). * [25] M. El-Hagary, Ph.D. thesis, Technische
+Universitat Wien, 1999. * [26] A preliminary report on the initial
+measurements on PrNi₂B₂C was presented by M. Rotter, C. Sierks, M.
+Loewenhaupt, J. Freudenberger, and H. Schober, in _Rare Earth Transition
+Metal Borocarbides (Nitrides): Superconducting, Magnetic and Normal
+State Properties_, NATO Advanced Study Institute, Series II:
+Mathematics, Physics, and Chemistry Vol. 14, edited by K.-H. Muller and
+V. N. Narozhnyi (Kluwer, Dordrecht, 2001), pp. 137-154. * [27] A. M.
+Mulders, A. Yaouanc, P. Dalmas de Reotier, P. C. M. Gubbens, A. A.
+Moolenaar, B. Fak, E. Ressouche, K. Prokes, A. A. Menovsky, and K. H. J.
+Buschow, Phys. Rev. B **56**, 8752 (1997). * [28] C. A. Morrison,
+_Angular Momentum Theory Applied to Interactions in Solids_, Lecture
+Notes in Chemistry Vol. 47, edited by G. Berthier _et al._
+(Springer-Verlag, New York, 1988), p. 119. * [29] U. Gasser, P.
+Allenspach, F. Fauth, W. Henggeler, J. Mesot, A. Furrer, S. Rosenkranz,
+P. Vorderwisch, and M. Buchgeister, Z. Phys. B: Condens. Matter **101**,
+345 (1996). * [30] U. Gasser, P. Allenspach, J. Mesot, and A. Furrer,
+Physica C **282-287**, 1327 (1997). * [31] M. Divis, J. Rusz, G.
+Hilscher, H. Michor, P. Blaha, and K. Schwarz, Czech. J. Phys. **52**,
+283 (2002). * [32]http://www.McPhase-de/, M. Rotter, J. Magn. Magn.
+Mater. **272-276**, E481 (2004). * [33] V. N. Narozhnyi, G. Fuchs, J.
+Freudenberger, K. A. Nenkov, D. Eckert, A. Teresiak, A. Czopnik, and
+K.-H. Muller, in _Rare Earth Transition Metal Borocarbides (Nitrides):
+Superconducting, Magnetic and Normal State Properties_, NATO Advanced
+Study Institute, Series II: Mathematics, Physics, and Chemistry Vol. 14,
+edited by K.-H. Muller and V. Narozhnyi (Kluwer, Dordrecht, 2001), p.
+181. * [34] P. Fulde and M. Loewenhaupt, in _Spin Waves and Magnetic
+Excitations_, edited by A. S. Borovik-Romanov and S. K. Sinha (Elsevier,
+Amsterdam, 1988), Chap. 6. * [35] M. Rotter, S. Kramp, M. Loewenhaupt,
+E. Gratz, W. Schmidt, N. M. Pyka, and B. Hennion, R. v. d. Kamp, Appl.
+Phys. A: Mater. Sci. Process. **74**, S751 (2002). * [36] M. Rotter,
+Comput. Mater. Sci. **38**, 400 (2006). * [37] N. H. Andersen, J.
+Jensen, T. B. S. Jensen, M. v. Zimmermann, R. Pinholt, A. B. Abrahamsen,
+K. Norgaard Toft, P. Hedegard, and P. C. Canfield, Phys. Rev. B **73**,
+020504(R) (2006).

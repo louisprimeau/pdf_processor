@@ -1,0 +1,621 @@
+Superconductivity and crystalline electric field effects in the filled
+skutterudite PrRu₄As₁₂
+
+T. A. Sayles, R. E. Baumbach, W. M. Yuhasz, and M. B. Maple
+
+Department of Physics, University of California-San Diego, La Jolla,
+California 92093, USA
+
+L. Bochenek, R. Wawryk, T. Cichorek, A. Pietraszko, and Z. Henkie
+
+Institute of Low Temperature and Structure Research, Polish Academy of
+Sciences, 50-950 Wroclaw, Poland
+
+P.-C. Ho
+
+Department of Physics, California State University, Fresno, Fresno,
+California 93740, USA
+
+###### Abstract
+
+Magnetization, electrical-resistivity, specific-heat, and thermopower
+measurements were performed on single crystals of the filled
+skutterudite compound PrRu₄As₁₂. These measurements reveal a
+superconducting transition near 2.5 K that is quantified by: (1)
+magnetic susceptibility data which display an onset to a Meissner state
+at T_(c) = 2.5 K and complete diamagnetic shielding as T → 2.0 K, (2)
+electrical-resistivity data which show a transition to a zero-resistance
+state at T_(c) ≈ 2.5 K, and (3) specific-heat and thermopower data which
+display "jumps" at T_(c) ≈ 2.5 K. Furthermore, the electronic
+contribution to the specific heat follows the BCS prediction for a
+superconductor. For temperatures above T_(c), magnetization measurements
+indicate local moment behavior where μ_(eff)=3.52 $\mu_{\rm B}$/Pr³⁺
+ion. Analysis of the data for T > T_(c), using a crystalline electric
+field model, suggests that PrRu₄As₁₂ has a Γ₁ ground state with a Γ₄
+first excited state at T_(Γ₄) = 95 K.
+
+2010 10.1103/PhysRevB.82.104513 PACS number(s): 74.70.−b, 74.25.Bt,
+74.25.F−, 74.25.Ha
+
+## I Introduction
+
+The family of filled skutterudite compounds with the chemical formula
+MT₄X₁₂–where M is an alkali metal, alkaline earth, lanthanide, or
+actinide; T is Fe, Ru, or Os; and X is P, As, or Sb–display a wide
+variety of strongly correlated electron phenomena: e.g.,
+superconductivity (both conventional and unconventional), magnetic and
+quadrupolar order, metal-insulator transitions, Kondo phenomena,
+heavy-fermion, and non-Fermi-liquid behavior.[1, 2, 3, 4, 5] The
+Pr-based filled skutterudites provide a particularly large reservoir of
+interesting phenomena as a result of the interplay between several
+factors including: (1) hybridization between conduction electron and Pr
+localized f-electron states, (2) splitting of the Pr³⁺ ion Hund’s rule
+ground-state multiplet by crystal-line electric fields (CEFs), and (3)
+complicated electronic band structures.
+
+To date, much of the research on the Pr-based filled skutterudite
+compounds has focused on those that include Sb and P, in part because of
+technical difficulties in synthesizing single crystals of As-based
+filled skutterudites. These problems were recently overcome[6] and
+several members of the arsenide series have now been studied in
+single-crystal form. Presented here are the first measurements on single
+crystals of the compound PrRu₄As₁₂. We report results for magnetization
+M(T), specific heat C(T, H), electrical resistivity ρ(T), and
+thermopower S(T), all of which show that PrRu₄As₁₂ displays conventional
+superconductivity below a critical temperature of T_(c) = 2.5 K.
+Analysis of CEF effects on M(T), C(T), and ρ(T) are used to determine
+the CEF splittings of the Pr³⁺ Hund’s rule multiplet.
+
+## II Experimental details
+
+Single crystals of PrRu₄As₁₂ were grown from elements with purities
+>99.9
+
+Magnetization measurements were performed on single crystals of
+PrRu₄As₁₂ using a Quantum Design (QD) magnetic properties measurement
+system for 1.7 ≈ T ≤ 300 K and H =1 and 50 mT. The specific heat for a
+collection of single crystals was measured for 600 mK ≤ T < 40 K in a
+³He semadiabatic calorimeter using a standard heat pulse technique.
+Specific-heat measurements for 0 <H< 0.7 T and 0.37 < T < 7 K were
+performed for a different group of crystals with a total mass m = 13.4
+mg in a QD physical properties measurement system using a standard heat
+pulse technique. The electrical resistivity was measured for 2 ≤ T ≤ 300
+K for a single-crystal specimen in a ⁴He cryostat using an ac resistance
+bridge and a standard four-wire technique. Measurements of the
+thermoelectric power for 0.5 < T < 350 K were performed on single
+crystals with lengths less than 1 mm using a method described by Wawryk
+and Henkie.[9]
+
+## III Results
+
+### Magnetization
+
+Magnetic susceptibility _kh_ = _M_/_H_ vs T measurements were performed
+for two single crystals of PrRu₄As₁₂ in fields of 1 and 50 mT (oriented
+along the [100] crystallographic axis). As shown in Fig. 1, _kh_(_T_)
+for H = 50 mT can be fitted using a Curie-Weiss (CW) function _kh_(_T_)
+= _C_/_(_T_ - _th_CW) for temperatures between 115 and 300 K, yielding a
+Curie-Weiss temperature _th_CW = -6.21 K and an effective magnetic
+moment m_(f) = 3.52 _m_B (in close agreement with the Pr3+ free ion
+value of 3.58 _m_B). Below 100 K, the data deviate from CW behavior,
+indicating that CEF splitting becomes important at lower T. The left
+inset of Fig. 1 displays the low-temperature zero-field-cooled (ZFC) and
+FC volume magnetic susceptibilities for H = 1 mT, revealing the onset of
+superconductivity at T_(c) = 2.5 K. The ZFC measurement shows that
+_kh_(_T_) - 4p for T <= 2 K, indicating complete diamagnetic shielding.
+The FC data show 40
+
+### Specific heat
+
+Displayed in Fig. 2 are specific heat _Cp_ divided by T vs T2 data for
+PrRu₄As₁₂ between 0.6 and 7 K. A linear fit to the data in the region
+above the superconducting transition using the function _C__p_/_T_ =
+_g_/_bT_2 (for 3 <= 7 <= 5 K) yields the Sommerfeld coefficient g 70
+mJ/mol K2 and b = 0.813 mJ/mol K4, from which the Debye temperature
+_th__D_ = 344 K is calculated. The superconducting transition is sharp,
+indicating good sample homogeneity. The jump in _C__p_/_T_ begins near
+2.5 K and an equal area construction gives T_(c) = 2.44 K, in good
+agreement with the values found from _r_(_T_) and _kh_(_T_) data.
+
+To investigate the nature of the superconducting state, fits of the
+electronic specific heat C_(c) = C_(p) - C_(i), where C_(i) is the
+lattice portion of the specific heat determined from the linear fit
+described above, were made below T_(c). For conventional
+superconductors, _C__c_s_(_T_) can be fit by an exponential BCS
+function, as is appropriate for an isotropic energy gap, while for
+unconventional superconductors, _C__c_s_(_T_) can often be described by
+a power law that is attributed to nodes in the energy gap. _C__c_s_(_T_)
+for PrRu₄As₁₂ is described by an exponential function for T <=
+0.6_T__c_, indicative of conventional superconductivity with an
+isotropic energy gap. A semilogarithmic plot of _C__c_s_/_gTc_ vs
+_T__c_/_T_ is shown in the right inset of Fig. 2 along with a fit to the
+equation,
+
+$$\frac{C_{\mathit{cs}}}{\gamma T_{\mathit{c}}} = A\,\exp\frac{-BT_{\mathit{c}}}{T},$$
+
+where A and B are fitting parameters. In the region 2.5 < _T__c_/_T_ <
+4, the fit yields A = 8.4 and B = 1.44, in very close agreement with the
+predictions given by the BCS theory.
+
+The jump in the specific heat near the superconducting transition,
+D_C_(_Tc_), provides information about the strength of the coupling. For
+PrRu₄As₁₂, D_C_(_Tc_)/_gTc_ = 1.53, which is close to the weak-coupling
+prediction [D_C_(_Tc_)/_gTc_ = 1.43] for a BCS superconductor. This
+value is quite different than the value of D_C_(_Tc_)/_gTc_ = 0.83 found
+by Namiki [10] for a polycrystalline specimen of PrRu₄As₁₂, suggesting
+that the single crystals are of higher quality.
+
+Also shown in the left inset of Fig. 2 are the electronic portion of the
+entropy S_(e) and C_(e) vs T for PrRu₄As₁₂. As expected, the
+superconducting state entropy S_(e) is less than that of the
+normal-state entropy S_(e) since the superconducting state is more
+ordered. We also observe that C_(e) < S_(e) for T_(c) < T, in contrast
+to what is expected for a Fermi liquid. Although we cannot make any
+definitive statement, since measurement error could yield this
+difference, we note that
+
+Figure 1: Inverse magnetic susceptibility _kh_−1 vs temperature T in a
+50 mT field. The solid line is a Curie-Weiss fit to the data for 115 <=
+T <= 300 K. Left inset: zero-field-cooled (ZFC) and FC volume magnetic
+susceptibility 4 _π__X_ vs T data for PrRu₄As₁₂ in a 1 mT field. The ZFC
+data display perfect diamagnetism at T = 2 K where 4 _π__X_—−1 due to
+the diamagnetic shielding signal, while the FC data show the development
+of a Meissner state at T_(c) 2.5 K. Right inset: magnetic susceptibility
+_kh_ = _M_/_H_ vs T in a 50 mT field.
+
+Figure 2: Specific heat divided by temperature _C__p_/_T_ vs T2 for
+PrRu₄As₁₂ showing the transition from the normal state to the
+superconducting state at T_(c) 2.5 K. The solid line shows _γT_ + _βT_3
+for 3 <= 7 <= 5 K where the Sommerfeld coefficient _γ_ × 70 mJ/mol K2
+and _β_ = 0.813 mJ/mol K4, from which the Debye temperature _θ__D_ = 344
+K is calculated. Left inset: low-temperature electronic contribution to
+the specific heat _C_s (closed circles) and entropy (open circles) S_(e)
+for PrRu₄As₁₂. The solid line is the normal-state entropy S_(e)
+extrapolated from T_(c) 2.5 K < T assuming Fermi-liquid behavior. Right
+inset: electronic contribution to the specific heat in the
+superconducting state plotted as _C__cs_/_γT_c_ vs _T__c_/_T_ on a
+semilogarithmic plot. The solid line represents a fit to the data using
+Eq. (1) where A = 8.4 and B = 1.44.
+
+this situation could arise if C_(e) were to deviate from T-linear
+behavior for T<T_(c).
+
+Specific-heat measurements were performed for 0<H< 0.7 T and 0.37<T< 3 K
+[Fig. 3(a)]. From these data, the temperature dependence of the upper
+critical field H_(c2)(T) [Fig. 3(b)] was determined using an equal
+entropy construction. Disregarding the small positive curvature near
+T_(c), the initial slope (−dH_(c2)/dT)_(T_(c)) is 0.43 T/K and is 20
+
+The superconducting coherence length can be determined from the
+expression (−dH_(c2)/dT)_(T) = Φ/2T_(c)πδ₀², yielding ξ₀ = 178 A.[14]
+The Fermi velocity v_(F)≡ 3.1×10⁶ cm/s can then be calculated from the
+expression ξ₀=0.18hv_(F)/k_(B)T_(c).[15] From v_(F), the charge carrier
+effective mass m^(*) and the coefficient of the electronic specific heat
+γ can be estimated using a spherical Fermi-surface approximation where
+k_(F)= (3π²/Ω). Here, Z is the number of electrons per unit cell, and O
+is the unit-cell volume. From this expression, k_(F) is found to be
+6.6×10⁷ cm⁻¹ and m^(*)=ℏk_(F)/v_(F) then gives m^(*)=24m_(e). Finally,
+the electronic coefficient of the specific heat is given by
+γ=π²(Z/Ω)k_(B)²m^(*)/ℏk_(F)² and is found to be near 156 mJ/mol K². This
+value is somewhat enhanced in comparison to the value estimated from the
+normal-state specific heat and Δ_C_(T_(c)) at T_(c). It is interesting
+to note that similar results were obtained for the compound PrRu₄Sb₁₂
+where m^(*)∼ 24m_(e) and γ∼ 182 mJ/mol K², as calculated using the
+formalism described above.[16] In that case, the extrapolated normal
+state values for γ and Δ_C_(T_(c)) are 75 mJ/mol K² and 96 mJ/mol K²,
+respectively.[17]
+
+### C. Electrical resistivity
+
+Figure 4 shows the temperature dependence of the electrical resistivity
+ρ(T) for a single crystal of PrRu₄As₁₂ (closed circles). With decreasing
+T, ρ(T) decreases from the room-temperature value [ρ(300 K)=135 μΩ cm]
+with negative curvature down to T∼ 50 K, after which ρ(T) exhibits
+positive curvature down to ρ₀=1.04 μΩ cm just before it drops to zero
+below T_(c)≈ 2.5 K due to the superconducting transition (right inset of
+Fig. 4). From this value of ρ₀, we estimate the residual resistivity
+ratio RRR =ρ(300 K)/ρ₀≈ 94, which is comparable to the values found for
+PrOs₄As₁₂ and PrFe₄As₁₂ (RRR ≈ 75)
+
+To analyze the electrical transport behavior for PrRu₄As₁₂ above T_(c),
+we measured ρ(T) for a single-crystal specimen of LaRu₄As₁₂ [ρ(300
+K)=197 μΩ cm], which is the homologous compound without f electrons
+(open circles in Fig. 4) to PrRu₄As₁₂. In order to describe ρ(T) for
+LaRu₄As₁₂, we considered the following scattering processes: (1) a
+T-independent term ρ₀ which arises from impurities and/or defects that
+perturb the periodicity of the lattice potential and (2) electron-phonon
+scattering due to lattice vibrations, which can be described by the
+Bloch-Gruneisen (BG) formula,
+
+$$\rho_{\rm BG}(T)=A\left(\frac{T}{\theta_{R}}\right)^{n}\int_{0}^{\theta_{R}T} \frac{x^{n}dx}{(e^{x}-1)(1-e^{-x})},$$
+(2)
+
+where n= 5 (in the original treatment) and θ_(R) is the Debye
+temperature. At low temperatures (T<$\frac{1}{\theta}$_(R)), this
+expression reduces to AT⁵ while at high temperatures
+($\frac{1}{\theta}$_(R)<T) it becomes linear in T.[18] However, the BG
+expression where n = 5 is not generally valid and values of 2<n< 5 are
+commonly observed in intermetallic compounds with rare-earth
+elements.[19] For LaRu₄As₁₂, we find that for 10<T< 39 K, n= 3, as shown
+in the left inset of Fig. 4. The ρ(T) data in Fig. 4 are described well
+for 10<T< 150 K by the expression,
+
+$$\rho(T)=\rho_{0}+A\left(\frac{T}{\theta_{R}}\right)^{n}\int_{0}^{\theta_{R}T} \frac{x^{n}dx}{(e^{x}-1)(1-e^{-x})},$$
+(3)
+
+where n= 3, ρ₀=1.04 μΩ cm, θ_(R)= 272 K, and A = 207.3 μΩ cm. From this
+value of ρ₀, we estimate RRR
+
+Figure 4: Open circles: electrical resistivity ρ vs temperature T for
+LaRu₄As₁₂. Closed circles: ρ(T) for PrRu₄As₁₂. Dashed line: fit to ρ(T)
+for LaRu₄As₁₂ using Eq. (3). Solid line: fit to ρ(T) for LaRu₄As₁₂ using
+Eq. (3) with an additional term BT³. Left inset: ρ vs T³ for LaRu₄As₁₂
+showing that n=3 for the Bloch-Grüneisen formula. Right inset: ρ vs T
+for PrRu₄As₁₂ showing that T_(c)≈ 2.5 K.
+
+Figure 3: (a) Specific-heat data for 0<H<0.7 T and 0.37<T< 3 K. The
+superconducting critical temperature T_(c) is determined using an equal
+entropy construction which is represented by the straight lines. (b) The
+temperature dependence of the upper critical field H_(c2)(T).
+
+= 198, which is a factor of two larger than found for PrRu₄As₁₂.
+Finally, we find that the data can be fitted over the entire temperature
+range 10 < T < 300 K (solid line Fig. 4) by including a term _BT_[3],
+where B = −1.66 × 10⁻⁶μΩ cm/K³. This term is ascribed to _s_-_d_-type
+scattering, originally proposed by Mott, where s electrons are scattered
+by phonons into overlapping and incompletely filled bands. In this
+scenario, there is high probability that the s electrons will scatter
+into the dense empty states near the Fermi level associated with the d
+bands rather than back into the s band.[20]
+
+Based on this treatment of _r_(_T_) for LaRu₄As₁₂, we are able to deduce
+the contribution to _r_(_T_) for PrRu₄As₁₂ without f electrons in the
+following way. We first normalize _r_(_T_) for LaRu₄As₁₂ such that it
+has the same slope at high T as _r_(_T_) for LaRu₄As₁₂. This is done by
+multiplying _r_(_T_) for LaRu₄As₁₂ by 0.3/0.54 (open circles Fig. 5).
+Subsequently, we account for the difference between the Debye
+temperatures for LaRu₄As₁₂ and PrRu₄As₁₂ by multiplying the temperature
+scale by the ratio r0/_th_ = 344/272, where _th__D_ is taken from the
+fit to the specific heat for PrRu₄As₁₂ (closed squares Fig. 5). If this
+modified curve is then subtracted from _r_(_T_) for PrRu₄As₁₂ and r0=
+1.04 μΩ cm (for LaRu₄As₁₂) is replaced by r0= 1.44 μΩ cm (for
+PrRu₄As₁₂), we then obtain the approximate CEF contribution to _r_(_T_)
+for PrRu₄As₁₂ (open squares in Fig. 5).
+
+### Thermoelectric power
+
+Thermoelectric power _S_(_T_) data for PrRu₄As₁₂ along the [100]
+crystallographic axis are shown as open circles in Fig. 6. The _S_(_T_)
+data for PrRu₄As₁₂ deviate from a straight line _S_(_T_)=_a_T_ (_a_=0.12
+μV/K²) above ∼80 K, as expected for diffusive thermoelectric power in a
+single band metal. However, the negative curvature at higher
+temperatures may indicate that PrRu₄As₁₂ is a two-band metallic
+conductor,[21] as _S_(300 K) only reaches 18.0 μV/K, while the
+resistivity is moderately low _r_(300 K) = 135 μΩ cm. Additionally, a
+weak maximum is seen at T ∼ 26 K followed by a minimum at T ∼ 11 K. We
+note that a simple change in transition metal ion–Os for Ru–drastically
+changes _S_(_T_) above ≈100 K.
+
+Figure 7 shows the temperature derivative of the thermoelectric power
+_dS_/_dT_ vs log T for PrRu₄As₁₂ and PrOs₄As₁₂. This result emphasizes
+the sharpness of the change in curvature and accentuates the local
+maxima and minima of the curves. The abrupt slope changes are defined as
+T₁^(′) and T₂^(′) and mark characteristic temperatures for electron
+scattering. From the plot, a great deal of similarity between the
+_dS_/_dT_ vs log T behavior for PrRu₄As₁₂ and PrOs₄As₁₂ is evident,
+although the features of PrOs₄As₁₂ are shifted to higher T. This
+similarity suggests comparable mechanisms for the thermoelectric power
+in the two compounds.
+
+Behnia _et al._ argue that, in the zero-_T_ limit, the thermoelectric
+power should obey the relation
+
+Figure 5: Closed circles: electrical resistivity _ρ_ vs temperature T
+for PrRu₄As₁₂. Open circles: _ρ_(_T_) for LaRu₄As₁₂ multiplied by the
+constant 0.3/0.54. Closed squares: _ρ_(_T_) for LaRu₄As₁₂ multiplied by
+the constant 0.3/0.54 with T scaled by the ratio _θ__D_/_θ__R_ =
+344/272. Open squares: the CEF contribution to PrRu₄As₁₂ as obtained by
+the procedure described in the text.
+
+Figure 6: Thermoelectric power S vs temperature T for PrRu₄As₁₂ (open
+circles) and PrOs₄As₁₂ (dashed line) with a linear fit over the region
+30-75 K for the PrRu₄As₁₂ data. A clear difference is seen in the
+curvature of the data for the two compounds with convex and concave T
+dependence for PrOs₄As₁₂ and PrRu₄As₁₂, respectively. For PrRu₄As₁₂,
+_S_(_T_) indicates possible two-band character. Left inset: the
+transition to the superconducting state at _T_c ≈ 2.5 K and the
+superconducting region where _S_=0 μV/K. Right inset: _S_/_T_ vs T
+showing a linear extrapolation to _T_=0.
+
+$$q=(S/T)(N_{\rm{A}}e^{i}/\gamma),$$
+(4)
+
+where γ is the electronic specific-heat coefficient, $N_{\rm{A}}$ is
+Avogadro’s number, e is the electron charge, and the product
+$N_{\rm{A}}$e=9.65×10⁴ C/mol is the Faraday number.[22] The
+dimensionless quantity q corresponds to the density of carriers per
+formula unit for the case of a free-electron gas with an
+energy-independent relaxation time. [Equation (4) was more rigorously
+derived by Zlatic _et al.[23]_ Shown in inset (b) of Fig. 6 is S(T)/T
+for PrRu₄As₁₂ along with a linear fit of the data over the temperature
+range 3.6 ≤ T ≤ 10${}^{\rm{}}$ K. As can be seen, the data are nearly
+linear in this region, with a minimum in (S/T)_(min)=0.32  μV/K² before
+the onset of superconductivity. If the fit in the linear region is
+extrapolated to T=0 K, then (S/T)_(ext)=0.39  μV/K². Using these values
+[(S/T)_(min) and (S/T)_(ext)] as well as γ=70  mJ/mol K², the
+dimensionless quantity q is calculated to be q = 0.43 and q ≈ 0.53,
+respectively; both of which are consistent with the metallic
+conductivity of PrRu₄As₁₂.
+
+### Crystalline electric field
+
+In order to analyze the influence of the CEF on the Pr³⁺ ion energy
+levels in PrRu₄As₁₂, the χ(T), ρ(T), and C(T) data were compared to
+various CEF level models. In the Steven’s operator formalism, the CEF
+Hamiltonians for cubic O_(h) (Ref. [24]) and tetrahedral T_(h)
+symmetry[25] are
+
+H_(O_(h)) = B₄(O₄⁰ + 5O₄⁴) + B₆(O₆⁰ − 21O₆⁴)
+(5)
+
+and
+
+H_(T_(h)) = H_(O_(h)) + B₆^(′)(O₆² − O₆⁶),
+(6)
+
+respectively. Both groups have the same level degeneracies, although
+different labels and selection rules apply. While the extra term used
+for T_(h) symmetry has little effect on the actual CEF energies, it does
+mix the Γ₄ and Γ₅ wave functions from the O_(h) symmetry.[26] The
+difference this causes for the type of analysis to follow is small.
+Thus, although the true symmetry of the Pr³⁺ ion in PrRu₄As₁₂ is T_(h),
+the CEF analysis employed here will use the O_(h) symmetry and notation.
+
+For cubic O_(h) symmetry, the inediol J=4 Hund’s rule multiplet of Pr³⁺
+is split into a Γ₁ singlet, a Γ₃ nonmagnetic doublet, and Γ₄ and Γ₅
+triplets. Using the Lea, Leask, and Wolf (LLW) formalism,[24]x and W,
+where x is the ratio of the fourth- and sixth-order terms of the CEF
+Hamiltonian, and W sets the appropriate energy scale, serve as
+parameters to describe the energy levels.
+
+Figure 8 shows the CEF fits to χ(T) and χ⁻¹(T) for T =2−300 K in the LLW
+formalism where x=0.95, W= =10.4 K, and the Lande g-factor g=0.8 with
+energy levels Γ₁ (0 K), Γ₄ (95 K), Γ₃ (162 K), and Γ₅ (502 K). Although
+the low-temperature behavior is not perfectly reproduced by the CEF fit
+(possibly because of a small concentration of paramagnetic impurities),
+these parameters were found to give the best representation of the data.
+For this reason, we conclude that this is the most likely energy-level
+arrangement.
+
+A fit to the CEF contribution to the electrical resistivity
+$\rho_{\rm{CEF}}(T)$, where $\rho_{\rm{CEF}}(T)$ was acquired using the
+method described in Sec. III.3, is shown in Fig. 9. The fit was
+performed using only a magnetic exchange term for Pr³⁺ ions in a cubic
+environment[27] and by assuming that the CEF splitting scheme found from
+the fit to χ(T) accurately described the data, i.e., x=0.95, W=−10.4 K,
+and the Lande g-factor g=0.8 with energy levels Γ₁ (0 K), Γ₄ (95 K), Γ₃
+(162 K), and Γ₅ (502 K). Since the addition of an aspherical Coulomb
+scattering term did not improve the quality of the fits to the
+$\rho_{\rm{CEF}}(T)$ data for PrRu₄As₁₂, this contribution was not
+included in the analysis.
+
+In order to describe the total specific heat C_(p)(T), we found that, in
+addition to the electronic C_(e)= γT, Debye C_(D), and CEF
+$C_{\rm{CEF}}$ components, it is necessary to include an Einstein mode
+lattice contribution which may arise as the result of the "rattling"
+motion of the Pr filler ions, as was found to be the case for several
+other filled skutterudites [e.g., Tl_(0.22)Co₄Sb₁₂ (Ref. [28]) and
+NdOs₄Sb₁₂ (Ref. [29])]. To obtain an estimate of the Einstein
+temperature, we first considered the expression
+
+$$U=\frac{\hbar^{2}}{2m_{\rm{Pr}}k_{B}\theta_{E}}{\rm{coth}}\frac{\theta_{E}}{2T},$$
+(7)
+
+where U=0.013 $\AA^{2}$ is the room-temperature thermal displacement
+parameter determined from single-crystal x-ray diffraction
+measurements,[6]$m_{\rm{Pr}}$ is the atomic mass of Pr, and
+
+Figure 8: Open circles: magnetic susceptibility χ and inverse magnetic
+susceptibility χ⁻¹ vs temperature T for PrRu₄As₁₂ measured in a 50 mT
+field. Solid lines: CEF fits to the data. The LLW parameters (x and W)
+and the energy-level splittings are displayed in the plot.
+
+Figure 9: Open circles: CEF contribution to the electrical resistivity
+$\rho_{\rm{CEF}}$ vs temperature T for PrRu₄As₁₂, obtained as described
+in the text. Solid line: CEF fit to $\rho_{\rm{CEF}}(T)$. The LLW
+parameters (x and W) and the energy-level splittings are displayed in
+the plot.
+
+θ_(E) is the Einstein temperature. From this analysis, we find that
+θ_(E)= 89 K. Therefore, we assume that the Pr atoms partially act like
+Einstein oscillators with a mixing ratio r, and the lattice contribution
+to the specific heat can be expressed as C_(Linf)= C_(E)+C_(D) given by
+
+$$C_{D}\) = (17 - _r_)9R\left(\frac{T}{\theta_{D}}\right)^{3}\int_{0}^{\theta_{D}/T}\frac{x^ {4}e^{x}}{(e^{x} - 1)^{2}}dx$$
+
+and
+
+$$C_{E}\)= _r_\left[\frac{3R(\theta_{E}/T)^{2}e^{\theta_{E}/T}}{(e^{\theta_{E}/T}-1)^{ 2}}\right],$$
+
+where R is the universal gas constant, θ_(D) is the Debye temperature,
+and θ_(E) is the Einstein temperature. If we assume that θ_(D)=344 K,
+g=70 mJ/mol K2, and the CEF contribution to _C_(_T_) can be calculated
+from the parameters described above for _kh_(_T_) and _r_(_T_), then it
+is possible to adjust r and θ_(E) in order to optimize the fit to the
+data C_(fri)= C_(e)+ C_(D)+ C_(EE) + C_(EE) (Fig. 10). From this
+analysis, we find that r 0.45 and _thE_ 55 K, in reasonably good
+agreement with the room-temperature value from single-crystal x-ray
+diffraction.
+
+## IV Discussion
+
+From these measurements, we conclude that PrRu₄As₁₂ is a typical
+paramagnetic metal for which CEF effects play an important role. We find
+a high-_T_ Pr moment μ_(eff)=3.52 μ_(B) from _kh_(_T_) measurements,
+which is close to the Pr3+ free ion value of 3.58 μ_(B). The electrical
+resistivity _r_(_T_) decreases monotonically with decreasing T,
+consistent with a simple model that includes impurity/defect, lattice,
+and _s-d_ scattering processes. Below T, we find an excellent example of
+a BCS superconductor. For comparison purposes, we point out that recent
+measurements on polycrystalline PrRu₄As₁₂ yielded similar
+superconducting transition temperature values, T_(c)=2.33 K and
+T_(c)=2.4 K. [10, 30] Perhaps not surprisingly, we do not see several
+features that Namiki _et al._ find including, (1) the strong upturn in
+_C_(_T_)/_T_ at low temperatures T 2 K and (2) the feature at 6 K. As
+Namiki _et al._ explain, they find an impurity phase in x-ray
+diffraction data and speculate that the 6 K feature is due to this
+phase: low-temperature upturn and the large differences found for
+ΔC(T_(c))/γT_(c) may also be due to an impurity phase.
+
+In order to put PrRu₄As₁₂ in context, it is informative to reflect on
+the richness of the behavior found in the Pr-based filled skutterudite
+compounds, as is most apparent in the first Pr-based heavy-fermion
+superconductor, PrOs₄Sb₁₂[31, 32, 33, 34, 35]. This compound enters an
+unconventional superconducting state at T_(c)=1.85 K where heavy
+quasiparticles participate in the formation of Cooper pairs. [36, 37,
+38, 39, 40, 41] Upon suppression of the superconductivity with applied
+magnetic field, an antiferroquadrupolar (AFQ) state is observed for
+4.5≤_H_ 16 T and for T 1 K, suggesting that the superconductivity may be
+mediated by AFQ fluctuations. [42, 43] In contrast to PrOs₄Sb₁₂, the
+remaining Pr-based filled skutterudites exhibit a variety of ground
+states including magnetic ordering (PrFe₄As₁₂ and PrOs₄As₁₂), AFQ
+ordering (PrFe₄P₁₂), conventional superconductivity (PrRu₄As₁₂ and
+PrRu₄Sb₁₂), heavy-fermion behavior (PrFe₄P₁₂, PrOs₄As₁₂, and PrOs₄Sb₁₂),
+metal-insulator transition (PrRu₄P₁₂), etc. [50]
+
+Commensurate with the variety of phenomena in these compounds are a
+large number of CEF level arrangements, which vary unexpectedly from one
+compound to the next. While PrRu₄As₁₂ has a Γ₁ singlet ground state with
+a Γ₄ first excited state, the other two members of the arsenide series
+appear to be the reverse of this and have a Γ₅ triplet ground state with
+a Γ₁ singlet first excited state. This Γ₅→Γ₁ to Γ₁→Γ₄ to Γ₅→Γ₁ evolution
+of the CEF ground states as Fe→Ru→Os, is not universal in the Pr-based
+filled skutterudites. For the case of the antimonides, the Γ₅→Γ₁ of
+Pr_(1 − x)Fe₄Sb₁₂ becomes Γ₁→Γ₅ for both PrRu₄Sb₁₂ and PrOs₄Sb₁₂. On the
+other hand, the lattice parameter behaves as expected; PrOs₄Sb₁₂ has the
+largest value of a of 9.3050 A and a decreases as the pnictogen or
+transition-metal ion decreases in size. It is also interesting to note
+that while PrOs₄Sb₁₂ has a small CEF splitting ∼7 K between the ground
+state and first excited state, both PrRu₄As₁₂ and PrRu₄Sb₁₂ have much
+larger splittings, ∼95 K and ∼53 K, respectively. This result may
+support the notion that the unconventional superconductivity observed in
+PrOs₄Sb₁₂ is related to the small splitting between the ground state and
+the first excited state. More generally, it seems likely that the ground
+state for each Pr-based filled skutterudites arises as the result of a
+delicate balance between several competing factors, among which CEF
+splitting plays a pivotal role.
+
+## V Conclusion
+
+From measurements of magnetization, specific heat, electrical
+resistivity, and thermopower, PrRu₄As₁₂ is found to be a conventional
+superconductor with a superconducting transition temperature T_(c)≈ 2.5
+K. Magnetization measurements indicate that the 4f electrons of the Pr
+ion are localized with μ_(eff)=3.52 μ_(B) at high temperatures. From
+electrical-resistivity measurements, we find conventional metallic
+behavior above T_(c). Specific-heat measurements reveal a mod
+
+Figure 10: Open circles: specific-heat C vs temperature T for PrRu₄As₁₂
+on a semilogarithmic plot. Solid line: fit to _C_(_T_) including the
+electronic C and CEF _C_CEF terms in addition to the lattice terms
+arising from a typical phonon spectrum _C__(D) and an Einstein rattler
+_C__(E). Inset: solid circles: δC= _C_(_T_)−_C_(_T_)−_C_(_T_). Dotted
+line: fit to δC using the CEF contribution _C__(CEF) and the Einstein
+contribution _C__(E).
+
+erately large electronic specific-heat coefficient γ∼ 70 mJ/mol K² and
+that the Pr³⁺ interfold Hund’s rule multiplet is split by the CEF (with
+a Γ₁ ground state and a Γ₄ first excited state at ∼95 K), and that an
+Einstein mode with a characteristic temperature θ_(E)≈ 55 K apparently
+arises from the rattling of the Pr ions in the As atomic cages.
+
+###### Acknowledgements.
+
+Research at UCSD was supported by the U.S. Department of Energy (Grant
+No. DE-FG02-04ER46105). Research at ILTSR, Wroclaw was supported by the
+Polish Ministry of Science and Higher Education (Grant No. N N202 4129
+33).
+
+## References
+
+* [1] M. B. Maple, E. D. Bauer, N. A. Frederick, P.-C. Ho, W. M. Yuhasz,
+and V. S. Zapf, Physica B **328**, 29 (2003). * [2] Y. Aoki, H.
+Sugawara, H. Harima, and H. Sato, J. Phys. Soc. Jpn. **74**, 209
+(2005). * [3] M. B. Maple, Z. Henkie, W. M. Yuhasz, P.-C. Ho, T.
+Yanagisawa, T. A. Sayles, N. P. Butch, J. R. Jeffries, and A.
+Pietraszko, J. Magn. Magn. Mater. **310**, 182 (2007). * [4] H. Sato, D.
+Kikuchi, K. Tanaka, M. Ueda, H. Aoki, T. Ikeno, S. Tatsuoka, K.
+Kuwahara, Y. Aoki, M. Koghi, H. Sugawara, K. Iwasa, and H. Harima, J.
+Phys. Soc. Jpn. **77** Suppl. A, 1 (2008). * [5] M. B. Maple, Z. Henkie,
+R. E. Baumbach, T. A. Sayles, N. P. Butch, P.-C. Ho, T. Yanagisawa, W.
+M. Yuhasz, R. Wawryk, T. Cichorek, and A. Pietraszko, J. Phys. Soc. Jpn.
+**77** Suppl. A, 7 (2008). * [6] Z. Henkie, M. B. Maple, A. Pietraszko,
+R. Wawryk, T. Cichorek, R. E. Baumbach, W. M. Yuhasz, and P.-C. Ho, J.
+Phys. Soc. Jpn. **77** Suppl. A, 128 (2008). * [7] G. M. Sheldrick,
+_Program for the Solution of Crystal Structures_ (University of
+Gottingen, Germany, 1985). * [8] G. M. Sheldrick, _Program for Crystal
+Structure Refinement_ (University of Gottingen, Germany, 1987). * [9] R.
+Wawryk and Z. Henkie, Philos. Mag. B **81**, 223 (2001). * [10] T.
+Namiki, Y. Aoki, H. Sato, C. Sekine, I. Shirotani, T. D. Matsuda, Y.
+Haga, and T. Yagi, J. Phys. Soc. Jpn. **76**, 093704 (2007). * [11] A.
+M. Clogston, Phys. Rev. Lett. **9**, 266 (1962). * [12] B. S.
+Chandrasekhar, Appl. Phys. Lett. **1**, 7 (1962). * [13] N. R.
+Werthamer, E. Helfand, and P. C. Hohenberg, Phys. Rev. **147**, 295
+(1966). * [14]_Physical Properties of Superconductors_, edited by D. M.
+Ginsberg (World Scientific, Singapore, 1989), Chap. 2. * [15] M.
+Tinkham, _Introduction to Superconductivity_ (McGraw-Hill, New York,
+1975). * [16] P.-C. Ho, N. P. Butch, V. S. Zapf, T. Yanagisawa, N. A.
+Frederick, S. K. Kim, W. M. Yuhasz, M. B. Maple, J. B. Betts, and A. H.
+Lacerda, J. Phys.: Condens. Matter **20**, 215226 (2008). * [17] N. A.
+Frederick, T. A. Sayles, and M. B. Maple, Phys. Rev. B **71**, 064508
+(2005). * [18] G. W. Webb, Phys. Rev. **181**, 1127 (1969). * [19] Z.
+Kletowski, R. Fabrowski, P. Slawinski, and Z. Henkie, J. Magn. Magn.
+Mater. **166**, 361 (1997). * [20] N. F. Mott and H. Jones, _The Theory
+of the Properties of Metals and Alloys_ (Oxford University Press,
+Oxford, 1936). * [21] F. J. Blatt, P. A. Schroeder, C. L. Foiles, and D.
+Greig, _Thermoelectric Power of Metals_ (Plenum Press, New York, London,
+1976), p. 147. * [22] K. Behnia, D. Jaccard, and J. Flouquet, J. Phys.:
+Condens. Matter **16**, 5187 (2004). * [23] V. Zlatic, R. Monnier, J. K.
+Freericks, and K. W. Becker, Phys. Rev. B **76**, 085122 (2007). * [24]
+K. R. Lea, M. J. M. Leask, and W. P. Wolf, J. Phys. Chem. Solids **23**,
+1381 (1962). * [25] K. Takegahara, H. Harima, and A. Yanase, J. Phys.
+Soc. Jpn. **70**, 1190 (2001). * [26] E. A. Goremychkin, R. Osborn, E.
+D. Bauer, M. B. Maple, N. A. Frederick, W. M. Yuhasz, F. M. Woodward,
+and J. W. Lynn, Phys. Rev. Lett. **93**, 157003 (2004). * [27] N. H.
+Andersen, P. E. Gregersen-Hansen, E. Holm, H. Smith, and O. Vogt, Phys.
+Rev. Lett. **32**, 1321 (1974). * [28] D. C. Sales, B. C. Chakoumakos,
+D. Mandrus, J. W. Sharp, N. R. Dilley, and M. B. Maple, _Materials
+Research Society 1998 Fail Proceedings, Symposium Z, Thermoelectric
+Materials: The Generation of Materials for Small Scale Refrigeration and
+Power Generation Applications_, MRS Symposia Proceedings No. 545
+(Materials Research Society, Pittsburgh, 1999), p. 13. * [29] P.-C. Ho,
+W. M. Yuhasz, N. P. Butch, N. A. Frederick, T. A. Sayles, J. R.
+Jeffries, M. B. Maple, J. B. Betts, A. H. Lacerda, P. Rogl, and G.
+Giester, Phys. Rev. B **72**, 094410 (2005). * [30] I. Shirotani, T.
+Uchiumi, K. Ohno, C. Sekine, Y. Nakazawa, K. Kanoda, S. Todo, and T.
+Yagi, Phys. Rev. B **56**, 7866 (1997). * [31] M. B. Maple, E. D. Bauer,
+V. S. Zapf, E. J. Freeman, N. A. Frederick, and R. P. Dickey, Acta Phys.
+Pol. B **32**, 3291 (2001). * [32] E. D. Bauer, N. A. Frederick, P.-C.
+Ho, V. S. Zapf, and M. B. Maple, Phys. Rev. B **65**, 100506 (2002). *
+[33] N. Nakai, M. Ichioka, and K. Machida, J. Phys. Soc. Jpn. **71**, 23
+(2002). * [34] M. B. Maple, N. A. Frederick, P. C. Ho, W. M. Yuhasz, and
+T. Yanagisawa, J. Supercond. Novel Magn. **19**, 299 (2006). * [35] B.
+Andraka, C. R. Rotundu, and K. Ingersent, Phys. Rev. B **81**, 054509
+(2010). * [36] K. Izawa, Y. Nakajima, J. Goryo, Y. Matsuda, S. Osaki, H.
+Sugawara, H. Sato, P. Thalmeier, and K. Maki, Phys. Rev. Lett. **90**,
+117001 (2003). * [37] R. W. Hill, S. Li, M. B. Maple, and L. Taillefer,
+Phys. Rev. Lett. **101**, 237005 (2008). * [38] G. Seyfarth, J. P.
+Brison, M. A. Measson, D. Braithwaite, G. Lapertot, and J. Flouquet,
+Phys. Rev. Lett. **97**, 236403 (2006). * [39] L. Shu, D. E.
+MacLaughlin, W. P. Beyermann, R. H. Heffner, G. D. Morris, O. O. Bernal,
+F. D. Callaghan, J. E. Sonier, W. M. Yuhasz, N. A. Frederick, and M. B.
+Maple, Phys. Rev. B **79**, 174511 (2009). * [40] T. Cichorek, A. C.
+Mota, F. Steglich, N. A. Frederick, W. M. Yuhasz, and M. B. Maple, Phys.
+Rev. Lett. **94**, 107002 (2005). * [41] Y. Aoki, A. Tsuchiya, T.
+Kanayama, S. R. Saha, H. Sugawara, H. Sato, W. Higemoto, A. Koda, K.
+Ohishi, K. Nishiyama, and R. Kadono, Phys. Rev. Lett. **91**, 067003
+(2003). * [42] P.-C. Ho, N. A. Frederick, V. S. Zapf, E. D. Bauer, T. D.
+Do, M. B. Maple, A. D. Christianson, and A. H. Lacerda, Phys. Rev. B
+**67**, 180508(R) (2003). * [43] M. Kohgi, K. Iwasa, M. Nakajima, N.
+Metoki, S. Araki, N. Bernhoeft, J. M. Mignot, A. Gukasov, H. Sato, Y.
+Aoki, and H. Sugawara, J. Phys. Soc. Jpn. **72**, 1002 (2003).

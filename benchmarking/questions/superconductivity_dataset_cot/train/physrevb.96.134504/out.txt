@@ -1,0 +1,341 @@
+
+
+# Two-gap superconductivity in Mo_{8}Ga_{41} and its evolution upon vanadium substitution
+
+V. Yu. Verchenko,^{1,2,}1, R. Khasanov,^{3,}2, Z. Guguchia,^{3}3, A. A. Tsirlin,^{4}, and A. V. Shevelkov^{1}
+
+^{1}Department of Chemistry, Lomonosov Moscow State University, 119991 Moscow, Russia
+
+^{2}National Institute of Chemical Physics and Biophysics, 12618 Tallinn, Estonia
+
+^{3}Laboratory for Muon Spin Spectroscopy, Paul Scherrer Institute, CH-5232 Villigen PSI, Switzerland
+
+^{4}Experimental Physics VI, Center for Electronic Correlations and Magnetism, Institute of Physics, University of Augsburg, 86135 Augsburg, Germany
+
+Footnote 1: verchenko@inorg.chem.msu.ru
+
+Footnote 2: rustem.khasanov@psi.ch
+
+Received 21 June 2017; revised manuscript received 3 August 2017; published 5 October 2017
+
+###### Abstract
+
+Zero-field and transverse-field muon spin rotation/relaxation (\muSR) experiments were undertaken in order to elucidate the microscopic properties of a strongly coupled superconductor Mo_{9}Ga_{41} with T_{\rm c}=9.8 K. The upper critical field extracted from the transverse-field \muSR data exhibits significant reduction with respect to the data from thermodynamic measurements indicating the coexistence of two independent length scales in the superconducting state. Accordingly, the temperature-dependent magnetic penetration depth of Mo_{8}Ga_{41} is described using a model in which two s wave superconducting gaps are assumed. A V for Mo substitution in the parent compound leads to the complete suppression of one superconducting gap, and Mo_{7}VGa_{41} is well described within the single s wave gap scenario. The reduction in the superfluid density and the evolution of the low-temperature resistivity upon V substitution indicate the emergence of a competing state in Mo_{7}VGa_{41} that may be responsible for the closure of one of the superconducting gaps.
+
+DOI: 10.1103/PhysRevB.96.134504
+
+## I Introduction
+
+The design of new superconducting materials following empirical rules based on chemical and structural considerations or rigorous analysis of an electronic structure is a challenging task. Recently, systematic work was performed on superconducting internucleus with endochondral gallium clusters TGa_{\rm a} (T is a transition metal) [1]. In this context, Mo_{8}Ga_{41}[2] (the superconducting transition temperature T_{\rm c}\simeq 9.7 K), Mo_{6}Ga_{31}[3] (T_{\rm c}\simeq 8 K), ReGa_{3}[1] (T_{\rm c}\simeq 2.3 K), Rh_{2}Ga_{9}[4] (T_{\rm c}\simeq 1.9 K), and Ir_{2}Ga_{9}[4] (T_{\rm c}\simeq 2.2 K) superconductors as well as nonsuperconducting V_{8}Ga_{41}[5] and PdGa_{5}[6] are considered. By analyzing their electronic structures, Xie _et al._[1] established the interrelations between the critical temperature T_{\rm c} and valence electron count, thus placing these structurally different intermetallic compounds into an individual class of superconductors.
+
+Mo_{8}Ga_{41} was first synthesized by Yvon _et al._[7] during their systematic investigation of Ga-rich intermetallic compounds with unusual crystal structures. A view of the Mo_{8}Ga_{41} crystal structure is shown in Fig. 1. The crystal structure is built by MoGa_{10} polyhedra, which are condensed on the triangular faces of a GaGa_{12} cuboctahedron. A detailed description of the crystal structure can be found elsewhere [8]. At first sight, Mo_{8}Ga_{41} follows all of Matthias' empirical rules for superconductors: It contains a 4d transition metal (Mo), the compound may possess high density of electronic states, and its complex crystal structure is closely related to the cubic symmetry. Despite the fact that these rules seem obsolete, Yvon and co-authors [2] found that Mo_{8}Ga_{41} superconducts below T_{\rm c}=9.7 K with the upper critical field of \mu_{0}H_{\rm c2}=8.6 T. Results obtained by Yvon _et al._ were further pointed out by the unusual behavior of Mo_{8}Ga_{41} in its superconducting state. Indeed, the values of T_{\rm c} and dH_{\rm c2}/dT lead to the Werthamer-Helfand-Honenberg (WHH) prediction of the upper critical field \mu_{0}H_{\rm c2}\simeq 6.7 T, which is significantly smaller than the experimental value [2]. Together with a relatively high critical temperature, this may indicate strong electron-phonon coupling in the superconducting regime.
+
+In our recent study [8], we carried out a comprehensive investigation of thermodynamic and transport properties of Mo_{8}Ga_{41} in both the normal and superconducting states. Magnetization, heat capacity, and resistivity measurements confirmed bulk superconductivity at T_{\rm c}=9.8 K in zero magnetic field. A superconducting transition was found to be characterized by a large value of the normalized specific heat jump \Delta c_{\rm p}/\gamma_{\rm N}T_{\rm c}=2.84, which was twice as high as the weak-coupling Bardeen-Cooper-Schrieffer (BCS) prediction. At the same time, the electronic contribution to a specific heat below T_{\rm c} obeyed power law rather than exponential decay behavior as is expected within the framework of BCS theory. Such disagreements have motivated us toward further investigation of the microscopic properties of Mo_{8}Ga_{41}.
+
+Here, we present the results of muon spin rotation/relaxation (\muSR) experiments on bulk Mo_{8}Ga_{41} and its V-substituted derivative, Mo_{7}VGa_{41}. Transverse-field \muSR (TF-\muSR) experiments were undertaken in order to elucidate superconducting-state properties of both materials. The temperature-dependent magnetic penetration depth \lambda and the upper critical field \mu_{0}H_{\rm c2} were extracted from the TF-\muSR data and were used to investigate the order parameter in Mo_{8}Ga_{41} and its evolution upon the V for Mo substitution.
+
+## II Experimental details
+
+Mo_{8}Ga_{41} and Mo_{7}VGa_{41} specimens were synthesized as described earlier [8] in the form of submillimeter-sized crystals. Elemental composition of the obtained crystals was investigated using a JSM JEOL 6490-LV scanning electron microscope operated at 30 kV and equipped with the energy-dispersive x ray detection system INCA x-Sight. For quantitative analysis, molybdenum elements, vanadium elements, and gallium phosphide provided by MAC Analytical Standards were used as external standards. According to the EDX spectroscopy results, crystals of Mo_{8}Ga_{41} and Mo_{7}VGa_{41} contain 16.3(5) at. % Mo and 83.7(8) at. % Ga, and 14.4(5) at. % Mo, 2.0(2) at. % V, and 83.6(9) at. % Ga, respectively, leading to the Mo_{8.0(2)}Ga_{41.0(4)} and Mo_{7.1(2)}V_{1.0(1)}Ga_{41.0(4)} formula units. In the case of Mo_{7}VGa_{41}[9], elemental mapping was used to check the distribution of Mo and V species across the surface, which was found to be uniform confirming local homogeneity of crystals. See Supplemental Material [9] for specimen characterization, ZF-\muSR, and TF-\muSR data on the Mo_{7}VGa_{41} sample. For measurements of thermodynamic properties, several crystals of Mo_{7}VGa_{41} were glued together and measured as a polycrystalline sample. Magnetization curves were registered in magnetic fields between 0 and 14 T at temperatures between 1.8 and 10 K using the VSM setup of the Physical Property Measurement System (PPMS, Quantum Design). Heat capacity was measured in magnetic fields up to 12 T by a relaxation method using the Heat Capacity option of the PPMS. Further, crystals of Mo_{8}Ga_{41} and Mo_{7}VGa_{41} were crushed by grinding in an agate mortar and analyzed by powder x ray diffraction (PXRD) technique. The experiments were performed on a Huber Guinier Camera G670 [Image plate detector, Cu x ray source, Ge (111) monochromator, \lambda=1.540598 A]. PXRD patterns of Mo_{8}Ga_{41} and Mo_{7}VGa_{41} agree with the V_{8}Ga_{41} structure type and show no impurity phases in the specimens. Finally, the obtained powders of Mo_{8}Ga_{41} and Mo_{7}VGa_{41} were pressed into cylindrical pellets with a diameter of 6 mm and a height of 1 mm at room temperature at an external pressure of 100 bar. These pellets were used for the \muSR experiments.
+
+\muSR measurements were performed at the Paul Scherrer Institute (PSI), Villigen, Switzerland. Zero-field (ZF) and transverse-field (TF) \muSR experiments were carried out on the GPS and DOLLY spectrometers located at the \piM3 and \piE1 beamlines, respectively. Experiments were performed in the temperature range from 1.6 to 15 K in the GPS and from 0.29 to 15 K in the DOLLY instruments. ZF-\muSR experiments were performed in a zero applied field. In TF-\muSR experiments, the sample was field cooled from above T_{c} in a series of fields ranging from 30 mT to 0.59 T.
+
+## III III. Results and discussion
+
+### \mathbf{Mo_{5}Ga_{41}}
+
+#### 1. Zero-field \mathbf{\mu}SR experiments
+
+Figure 2 shows ZF-\muSR time spectra of Mo_{8}Ga_{41} measured at T=0.29 and 12.5 K. The obtained spectra below and above T_{c} reveal no significant difference indicating the absence of internal coherent magnetic fields in Mo_{8}Ga_{41} that may appear, for instance, as a result of long-range magnetic ordering. On the contrary, our ZF-\muSR data show that only the nuclear component is present, which can be analyzed by using the static Kubo-Toyabe depolarization function [10]:
+
+\[A(t)=A_{s}(0)\left[\frac{1}{3}+\frac{2}{3}\big{(}1-\sigma_{\mathrm{KT}}^{2}t^{ 2}\big{)}\exp\left(-\frac{\sigma_{\mathrm{KT}}^{2}t^{2}}{2}\right)\right]+A_{ \mathrm{bgd}},\] (1)
+
+where A_{s}(0) is the initial asymmetry for muons stopped in the sample, \sigma_{\mathrm{KT}} is the muon depolarization rate, and A_{\mathrm{bgd}} is the background contribution from muons that missed the sample. The muon depolarization rate \sigma_{\mathrm{KT}} does not change with temperature within its standard deviation (see inset in Fig. 2). This clearly indicates the absence of any spontaneous coherent magnetic fields in the superconducting state of Mo_{8}Ga_{41}.
+
+#### 2. Transverse-field \mathbf{\mu}SR experiments
+
+In order to elucidate microscopic properties of the superconducting state in Mo_{8}Ga_{41}, including the structure of superconducting gap, transverse-field \muSR experiments were carried out in magnetic fields of 30, 70, 200, and 490 mT.
+
+Figure 1: View of a Mo_{8}Ga_{41} crystal structure: (left) eight MoGa_{10} polyhedra surrounding a GaGa_{12} cuboctahedron (one polyhedron is not shown for clarity), (right) polyhedral representation of the unit cell. Mo atoms are shown in black, Ga atoms in yellow, and the unique Ga atom in the center of cuboctahedron in red.
+
+Figure 2: ZF-\muSR time spectra of Mo_{8}Ga_{41} measured at T=0.29 and 12.5 K. The solid line is a fit of T=12.5 K data according to the Kubo-Toyabe relation (see text). The inset shows zero-field muon depolarization rate \sigma_{\mathrm{KT}} as a function of temperature.
+
+  Figure 3 shows TF-\muSR time spectra of MoS_{0}Ga_{41} measured at T=0.29 and 10 K in \mu_{0}H=30 mT. The spectrum below T_{\rm c} clearly exhibits faster relaxation with respect to the spectrum at 10 K due to the formation of the flux line lattice in the superconducting state. The following oscillatory decaying Gaussian function was used to fit the experimental data (the fitting results are shown as solid lines in Fig. 3):
+
+\[A^{\rm TF}(t) = A_{\rm s}^{\rm TF}(0)\times\exp\left(-\frac{\sigma^{2}t^{2}}{2} \right)\times\cos(\gamma_{\mu}\mu_{0}H_{\rm ml}t+\phi)\] (2) \[+ A_{\rm bgd}^{\rm TF}(0)\times\cos(\gamma_{\mu}\mu_{0}H_{\rm bgd}t +\phi).\]
+
+Here, A_{\rm s}^{\rm TF}(0) and A_{\rm bgd}^{\rm TF}(0) are initial asymmetries belonging to the sample and the background contributions, respectively. \gamma_{\mu}/2\pi=135.5 MHz/T is the muon gyromagnetic ratio, \mu_{0}H_{\rm int} and \mu_{0}H_{\rm bgd} are the internal and background magnetic fields, respectively, \phi is the initial phase, and \sigma is the Gaussian muon spin relaxation rate. Above T_{\rm c}, the muon spin relaxation rate is referred to the temperature independent nuclear magnetic dipolar contribution \sigma_{\rm mm}, while below T_{\rm c}, the total relaxation rate consists of the nuclear and superconducting contributions, \sigma=\sqrt{\sigma_{\rm sc}^{2}+\sigma_{\rm mm}^{2}}. By fitting the data at T=10 K, we obtained \sigma_{\rm mm}=0.16\mus^{-1}. This value was further used to extract \sigma_{\rm sc}(T) and \mu_{0}H_{\rm int}(T) at temperatures below T_{\rm c} according to Eq. (2). In the superconducting state, Fourier transforms of the asymmetry spectra are well described by a simple Gaussian approximation which is normally the case for powder samples of anisotropic superconductors. Fourier analysis of the asymmetry spectra shows no indications of a disorder in the vortex lattice.
+
+From the data taken at each temperature below the transition temperature T_{\rm c}, we reconstructed \sigma_{\rm sc} as a function of transverse field for \mu_{0}H=30, 70, 200, and 490 mT. The resulting \sigma_{\rm sc}(T) dependencies for various transverse fields are shown in Fig. 4. The temperature-dependent variation of \sigma_{\rm sc} exhibits a clear enhancement below T_{\rm c}. Figure 4 also implies that \sigma_{\rm sc} measured at similar temperatures decreases with increasing measuring field [see Fig. 5(a) where \sigma_{\rm sc}(\mu_{0}H) at T=3 K is depicted]. A more precise scan performed at T=1.7 K shows that before coming down, \sigma_{\rm sc} first increases by going through a maximum at approximately 20 mT [Fig. 5(b)]. Note that this is the typical behavior observed in various type-II superconductors experimentally [11], as well as predicted theoretically [12].
+
+In terms of the Ginzburg-Landau treatment of the vortex state, Brandt [12] has shown that \sigma_{\rm sc} can be calculated as a function of the reduced field b and the Ginzburg-Landau coefficient \kappa for the case of single-gap s wave superconductivity:
+
+\[\sigma_{\rm sc}\approx 0.172\frac{1-b}{\kappa^{2}}[1+1.21(1-\sqrt{b})^{3}],\] (3)
+
+where b=\frac{\mu_{0}H}{\mu_{0}H_{\rm c2}}, \mu_{0}H_{\rm c2} is the upper critical field, \kappa=\lambda/\xi, \lambda is the magnetic penetration depth, and \xi is the Ginsburg-Landau coherence length. Equation (3) is valid for b exceeding 0.25/\kappa^{1.3} (where the maximum of \sigma_{\rm sc} occurs) and \kappa\gtrsim 5. For MoS_{0}Ga_{41}, the value of \xi=15.8 nm was estimated from the upper critical field at zero temperature [8], thus, Eq. (3) can be used for \lambda>79 nm.
+
+The \sigma_{\rm sc}(\mu_{0}H) data obtained from T scans [Fig. 5(a)] as well as from the \mu_{0}H scan [Fig. 5(b)] were fitted using Eq. (3). First, the fitting with \mu_{0}H_{\rm c2} and \lambda treated as variable parameters (solid red lines in Fig. 5) was employed yielding the values of upper critical field \mu_{0}H_{\rm c2} that are significantly smaller than those obtained from thermodynamic measurements previously [8]. Indeed, as shown in Fig. 5(a), by fitting the \sigma_{\rm sc}(\mu_{0}H) data we obtained \mu_{0}H_{\rm c2}=3.77(4) T and \lambda=216.1(2) nm at T=3 K, compared to 6.7 T from magnetization and heat capacity measurements [8]. On the other hand, if such a high value of \mu_{0}H_{\rm c2} is adopted, \sigma_{\rm sc} has to be significantly enhanced, in poor agreement with the \muSR data. The same situation is observed in the case of \mu_{0}H scan [Fig. 5(b)], where the values of \mu_{0}H_{\rm c2}=4.9(3) T and \lambda=215(1) nm were obtained at T=1.7 K.
+
+Figure 3: TF-\muSR time spectra of MoS_{0}Ga_{41} measured in \mu_{0}H=30 mT at temperatures below (black dots) and above (red dots) the superconducting transition temperature. Solid lines are least-squares fits according to Eq. (2).
+
+Figure 4: Superconducting contribution \sigma_{\rm sc} to the muon spin relaxation rate of MoS_{0}Ga_{41}.
+
+  Values of the upper critical field of Mo_{8}Ga_{41} are summarized in Fig. 6. The entire plot of \mu_{0}H_{\rm c2}(T) calculated from the TF-\muSR data exhibits a large reduction in the upper critical field compared to thermodynamic measurements. This situation is a characteristic feature of multigap superconductivity that leads to two or more distinct length scales in the superconducting state [13]. Therefore, we further studied magnetic penetration depth in order to clarify this multigap behavior.
+
+#### iii.2.3 Magnetic penetration depth
+
+The temperature-dependent inverse squared magnetic penetration depth \lambda^{-2} of Mo_{8}Ga_{41} obtained from the TF-\muSR data using Eq. (3) is shown in Fig. 7. Upon increasing temperature, \lambda increases monotonically and tends toward infinity at T=T_{\rm c}. Concurrently, \lambda^{-2} decreases with increasing temperature and vanishes at the transition temperature. The temperature dependence of \lambda^{-2} is indicative of the order parameter, i.e., absolute value of the gap energy, as well as the symmetry of the superconducting gap. Assuming a weak coupling BCS-type s wave superconductivity with a single gap \Delta reveals [14]
+
+\[\frac{\lambda^{-2}(T)}{\lambda^{-2}(0)}=\frac{\Delta(T)}{\Delta(0)}{\rm tanh} \bigg{[}\frac{\Delta(T)}{2k_{\rm B}T}\bigg{]},\] (4)
+
+in the dirty limit. At nonzero temperatures, the gap \Delta(T) is assumed to follow the function \Delta(T)\!=\!\Delta(0)\tanh\{1.82[1.018(T_{\rm c}/T-1)]^{0.51}\}. This function has been
+
+Figure 5: (a) Field-dependent superconducting contribution \sigma_{\rm sc} to the total muon spin relaxation rate of Mo_{8}Ga_{41} taken from the TF-\muSR T scans at T=3 K. The solid red line is a fit of the data according to Eq. (3) with \mu_{0}H_{\rm c2} and \lambda treated as variable parameters, the dashed and dotted lines are the results for \mu_{0}H_{\rm c2}=7 T and \mu_{0}H_{\rm c2}=9.5 T, respectively, and \lambda=220 nm. (b) \sigma_{\rm sc} obtained from the TF-\muSR \mu_{0}H scan at T=1.7 K. The solid red line is a fit of the data according to Eq. (3).
+
+Figure 6: Upper critical field \mu_{0}H_{\rm c2} of Mo_{8}Ga_{41} obtained from the T scans and \mu_{0}H scan. Values from the thermodynamic measurements [8] are also shown.
+
+Figure 7: Temperature-dependent magnetic penetration depth \lambda of Mo_{8}Ga_{41} plotted as \lambda^{-2} vs T. Solid line is a least-squares fit according to the two-gap model, the dashed line is a fit according to the single-gap BCS-type model.
+
+  found to well represent the temperature dependence at any coupling strength [15].
+
+The fit using Eq. (4) is shown in Fig. 7 as a dashed line. The single-gap BCS-type model satisfactorily describes the experimental data with \Delta(0)=1.80(7) meV, \Delta(0)/k_{B}T_{c}=2.1, and \lambda(0)=192(2) nm. The reduced value of \chi^{2}=0.66 has been obtained with n=13 degrees of freedom. The results of fitting, from first sight, hint at the single-gap BCS-type superconductivity in Mo_{8}Ga_{41}. However, previously we established two non-BCS-type features [8]: (i) the superconducting state is characterized by a strong electron-phonon coupling with \lambda_{\rm ep}=0.9, (ii) the normalized specific heat jump \Delta c_{\rm p}/\gamma_{\rm N}T_{c}=2.84 is much larger than in the weak coupling BCS limit. Also, in the current study we found that (iii) the upper critical field from the TF-\muSR data shows a significant reduction with respect to the thermodynamic data. These features suggest that a single-gap BCS-type model should be avoided, and a multigap model should be used instead.
+
+A two-gap model can be introduced using a linear combination of two s wave superconducting gaps:
+
+\[\frac{\lambda^{-2}(T)}{\lambda^{-2}(0)} = \omega\frac{\Delta_{\rm s1}(T)}{\Delta_{\rm s1}(0)}{\rm tanh} \Bigg{[}\frac{\Delta_{\rm s1}(T)}{2k_{\rm B}T}\Bigg{]}\] (5) \[+(1-\omega)\frac{\Delta_{\rm s2}(T)}{\Delta_{\rm s2}(0)}{\rm tanh }\Bigg{[}\frac{\Delta_{\rm s2}(T)}{2k_{\rm B}T}\Bigg{]},\]
+
+where \omega is the linear combination coefficient describing the contribution of each gap, and \Delta_{\rm s}(T)=\Delta_{\rm s}(0)\tanh[1.82(1.018(T_{\rm c}/T-1))^{0.51}] is the temperature dependence of each gap. Fit of the \lambda^{-2}(T) data using Eq. (5) is shown as a solid red line in Fig. 7, yielding \Delta_{\rm s1}(0)=4.3(6) meV, \Delta_{\rm s2}(0)=1.76(6) meV, and \lambda(0)=216.2(4) nm. This fitting is characterized by the reduced value of \chi^{2}=0.50 with n=12 degrees of freedom for \omega=0.7. The value of \omega was found during a least-squares fit and then was fixed in order to reduce possible correlations between parameters. The use of a two-gap model in comparison with a single-gap model slightly reduces the value of \chi^{2} with almost the same number of degrees of freedom. In the case of Mo_{8}Ga_{41}, the two-gap model implies the existence of two s wave superconducting gaps with similar energies and almost equal contributions (\omega=0.7). Certainly, this model replicates a single-gap BCS-type model when describing the \lambda^{-2}(T) data, and the fitting results are very similar (compare the solid and dashed lines in Fig. 7). However, keeping in mind the non-BCS-type features listed above, we exclude the single-gap scenario from consideration. At the same time, the \lambda^{-2}(T) data corroborate the multigap behavior of Mo_{8}Ga_{41} and reveal that the introduction of two superconducting gaps is sufficient to explain the superconducting behavior of this compound. Note that similar behavior was reported for SrPt_{3}P, which was suggested to be a two-band superconductor with equal gaps [16]. Future studies to help resolve the gap structure in Mo_{8}Ga_{41} are needed.
+
+### V for Mo substitution in Mo_{9}VGa_{41}
+
+In our previous study [8], Mo_{8.\rm x}V_{x}Ga_{41} was also found to be superconducting with the transition temperature T_{\rm c} being just slightly lower than that for the parent compound. Zero-field and transverse-field \muSR experiments were conducted, therefore, on Mo_{9}VGa_{41} having T_{\rm c}\simeq 9.2 K at zero magnetic field [8]. An analysis of the experimental data was performed similarly to that described previously for Mo_{8}Ga_{41} sample.
+
+Figure 8(a) shows a summary of the temperature-dependent upper critical field of Mo_{7}VGa_{41}. The \mu_{0}H_{c2} data from the magnetization and heat capacity experiments as well as that obtained in TF-\muSR studies are presented. In contrast to the unsubstituted Mo_{8}Ga_{41}, the TF-\muSR \mu_{0}H_{c2} values agree well with the data from thermodynamic measurements for Mo_{7}VGa_{41}. This implies that only one characteristic length scale is needed to describe the upper critical field. In accordance with this observation, the temperature dependence of the magnetic penetration depth of Mo_{7}VGa_{41} presented as the \lambda^{-2}(T) plot in Fig. 8(b) was satisfactorily fitted within the single-gap BCS-type model using Eq. (4). The fit yields \Delta(0)=1.87(9) meV and \lambda(0)=292(4) nm with the value of \Delta(0)/k_{B}T_{\rm c}=2.36 exceeding the weak-coupling BCS limit of
+
+Figure 8: (a) Upper critical field and (b) magnetic penetration depth of Mo_{9}VGa_{41} plotted as \lambda^{-2} vs T. Solid red line is a fit of the data according to the single-gap BCS-type model.
+
+  1.76. Thus, from the TF-\muSR data we suggest a simple s wave superconducting state in Mo_{7}VGa_{41}, accompanied by strong electron-phonon coupling.
+
+### Comparison of Mo_{8}Ga_{41} with its V-substituted analog Mo_{7}VGa_{41}
+
+The experimental data presented above reveal that Mo_{8}Ga_{41} and Mo_{7}VGa_{41} are different in two important aspects. First, application of the Brandt equation leads to different results. The Brandt equation [Eq. (3)] is formulated for the case of single-gap s wave superconductivity. By this reason, the values of \mu_{0}H_{c2} extracted for Mo_{7}VGa_{41} using Eq. (3) are in good agreement with thermodynamic measurements, since Mo_{7}VGa_{41} exhibits a single-gap s wave superconductivity. A different situation is observed for Mo_{8}Ga_{41}. In this case, Eq. (3) yields the values of \mu_{0}H_{c2}, which are significantly lower than those from thermodynamic measurements, indicating that Mo_{8}Ga_{41} is not a single-gap superconductor. Fourier analysis of the asymmetry spectra reveals no signs of disorder of the vortex lattice that may cause the Brandt equation to not be applicable. The \lambda(\mu_{0}H) dependence calculated using Eq. (3) also reveals a different behavior for Mo_{8}Ga_{41} and Mo_{7}VGa_{41} [Fig. 9]. The field dependence of \lambda observed for Mo_{8}Ga_{41} is reminiscent of that of NbSe_{2}[17], which is also a two-gap superconductor [18]. At the same time, there is no field dependence in the case of Mo_{7}VGa_{41} in accordance with its conventional behavior. The substitution of just one out of eight Mo atoms by one V atom leads to a _complete_ suppression of one of the superconducting energy gaps.
+
+The second aspect is that V substitution is accompanied by more than a factor of 2 reduction of the superfluid density \rho_{\rm s}\propto\lambda^{-2}. Indeed, from the fits of the experimental data we get \lambda^{-2}(0)\simeq 21 and 12 \mum^{-2} for Mo_{8}Ga_{41} and Mo_{7}VGa_{41}, respectively.
+
+In order to explain such discrepancies, three different scenarios are compared. According to the first, a structural disorder caused by mixing Mo and V atoms in one crystallographic position may lead to a reduction in the superfluid density. From the single-crystal x ray diffraction data [8], it is known that the substitution occurs in two crystallographic positions, and the average V content is less than 15 at. %. Such a small amount of disorder in the crystal structure should not cause a drastic change of \rho_{\rm s}. Moreover, as in the case of the K_{1-x}Na_{x}Fe_{2}As_{2} solid solution [19], the reduction in \rho_{\rm s} caused by structural disorder should be accompanied by a significant reduction in T_{\rm c}, whereas the Mo_{8-x}V_{x}Ga_{41} solid solution demonstrates no significant change of T_{\rm c}. By substituting V for Mo, the transition temperature slightly reduces from T_{\rm c}=9.8 K in Mo_{8}Ga_{41} to 9.2 K in Mo_{7}VGa_{41}[8].
+
+In contrast to K_{1-x}Na_{x}Fe_{2}As_{2}, the V for Mo substitution is not isovalent. Rather, the change in the electron count is observed, which enables us to formulate the second scenario, with the heterovalent substitution being responsible for the reduction in \rho_{\rm s}. The effect of the heterovalent substitution on the electronic structure of Mo_{8-x}V_{x}Ga_{41} was analyzed in our previous study [8]. By using a rigid-band shift approximation, it was shown that no significant change in the density of states at the Fermi level occurs with increasing V content in a solid solution. Thus, the heterovalent nature of the substitution does not explain the observed reduction in \rho_{\rm s}.
+
+Finally, the third scenario considers competing states that cause a reduction in the superfluid density \rho_{\rm s}. The Ba(Fe_{1-x}Co_{x})_{2}As_{2} solid solution [20] is an example in which the competition between superconductivity and magnetism is observed. On the phase diagram of Ba(Fe_{1-x}Co_{x})_{2}As_{2}, the superconducting dome is intersected with the spin-density-wave field yielding an intermediate region of competing states. Measurements of the magnetic penetration depth \lambda clearly show that entering the intersected region results in a drastic increase in \lambda, which is equivalent to the reduction in \rho_{\rm s}[20].
+
+At this point, we make an assumption that the emergence of some competing state in Mo_{7}VGa_{41} may lead to the suppression of one of the superconducting gaps accompanied by a significant reduction in the superfluid density. The collected
+
+Figure 10: Resistivity of Mo_{8}Ga_{41} (open circles) and Mo_{7}VGa_{41} (open triangles) at low temperatures. The data are taken from Ref. [8]. Solid red lines are the result of fitting (see in the text).
+
+Figure 9: Magnetic penetration depth \lambda as a function of the magnetic field for Mo_{8}Ga_{41} (open circles) and Mo_{7}VGa_{41} (open triangles). The solid red lines are linear fits of the data.
+
+  ZF-\muSR data show that both Mo_{8}Ga_{41} and Mo_{7}VGa_{41}[9] lack spontaneous coherent magnetic fields in the superconducting state, thus excluding magnetic order as a possible competing state from consideration. To obtain further information, we analyze the low-temperature resistivity data [8] for Mo_{8}Ga_{41} and Mo_{7}VGa_{41}. The \rho(T) data at low temperatures can be fitted using the equation \rho(T)=\rho_{0}+AT^{n} (Fig. 10). The fitting yields the exponents n=1.49(8) for Mo_{8}Ga_{41} and n=1.21(3) for Mo_{7}VGa_{41}. This reduction in the exponent upon increasing V content may indicate the onset of an incipient charge-density-wave (CDW) state in Mo_{7}VGa_{41}. A similar situation has been observed in Ta_{4}Pd_{3}Te_{16}[21], where the suppression of n under pressure signifies enhancement of CDW fluctuations. The presence of a CDW state in V-substituted Mo_{8}Ga_{41} would make one band unavailable for superconductivity and reduce the density of the supercarriers due to the opening of the energy gap associated with the CDW regime.
+
+## IV Conclusions
+
+A comprehensive study by means of muon spin rotation/relaxation technique was carried out on a strongly coupled superconductor Mo_{8}Ga_{41} and its V-substituted analog Mo_{7}VGa_{41}. ZF-\muSR experiments show that both compounds lack any spontaneous coherent magnetic fields in the superconducting state. TF-\muSR experiments elucidate microscopic properties of the superconducting state, which turns out to be substantially different in Mo_{8}Ga_{41} and Mo_{7}VGa_{41}. The upper critical field of Mo_{8}Ga_{41} extracted from the TF-\muSR data is lower than in thermodynamic measurements indicating a multigap superconductivity that leads to two or more independent length scales in the superconducting state. Accordingly, the temperature-dependent magnetic penetration depth was approximated by the model, in which two s wave superconducting gaps with similar energies and almost equal contributions are assumed. The V for Mo substitution does not affect T_{\rm c} significantly, but leads to the complete suppression of one superconducting gap. This follows from the substantial reduction in the superfluid density \rho_{\rm s} and from the single-gap behavior of both the upper critical field and magnetic penetration depth of Mo_{7}VGa_{41}. We speculate that the emergence of a competing state in Mo_{7}VGa_{41} is responsible for the closure of one of the superconducting gaps.
+
+###### Acknowledgements.
+
+ This work was performed at the Swiss Muon Source, Paul Scherrer Institute, Villigen, Switzerland. Part of the experimental work was done by Gustavo Prack, Judith Suter, and Clemens Spinnler (Swiss Nanoscience Institute, University of Basel, Basel, Switzerland) within their laboratory course at PSI. R.K. acknowledges Stefan Holenstein and Jean-Christophe Orain for their help during the \muSR experiments. The work has been supported by the Russian Science Foundation, Grant No. 17-13-01033. V.Yu.V. appreciates the support from the European Regional Development Fund, Project TK134. A.A.T. is grateful for the financial support by the Federal Ministry for Education and Research under the Sofja Kovalevskaya Award of the Alexander von Humboldt Foundation.
+
+## References
+
+* [1] W. Xie, H. Luo, B. F. Phelan, T. Klimczuk, F. A. Cevallos, and R. J. Cava, Proc. Natl. Acad. Sci. USA **112**, E7048 (2015).
+* [2] A. Bezinge, K. Yvon, M. Decroux, and J. Muller, J. Less-Common Met. **99**, L27 (1984).
+* [3] C. P. Poole, _Handbook of Superconductivity_ (Academic Press, London, 2000).
+* [4] T. Shibayama, M. Nohara, H. A. Katori, Y. Okamoto, Z. Hiroi, and H. Takagi, J. Phys. Soc. Jpn. **76**, 073708 (2007).
+* [5] K. Girgis, W. Petter, and G. Pupp, Acta Crystallogr. Sect. B: Struct. Sci., Cryst. Eng. Mater. **B31**, 113 (1975).
+* [6] Yu. Grin, K. Peters, and H. G. von Schnering, Z. Crystallogr. **212**, 6 (1997).
+* [7] K. Yvon, Acta Crystallogr. Sect. B: Struct. Sci., Cryst. Eng. Mater. **B31**, 117 (1975).
+* [8] V. Y. Yerchenko, A. A. Tsirlin, A. O. Zubtsovskiy, and A. V. Shevellov, Phys. Rev. B **93**, 064501 (2016).
+* [9] See Supplemental Material at http://link.aps.org/supplemental/10.1103/PhysRevB.96.134504 for the specimen characterization, ZF-\muSR, and TF-\muSR data on the Mo_{7}VGa_{41} sample.
+* [10] R. Kubo, Hyperfine Interact. **8**, 731 (1981).
+* [11] D. A. Cardwell and D. S. Ginley, _Handbook of Superconducting Materials_ (CRC Press, London, 2002).
+* [12] E. H. Brandt, Phys. Rev. B **68**, 054506 (2003).
+* [13] S. Lee, R. Cywinski, and S. Kilcoyne, _Muon Science: Muons in Physics, Chemistry and Materials_ (CRC Press, London, 1999).
+* [14] M. Tinkham, _Introduction to Superconductivity: Second Edition_ (Dover Publications, Mineola, 2004).
+* [15] H. Padamsee, J. E. Neighbor, and C. A. Shiffman, J. Low Temp. Phys. **12**, 387 (1973).
+* [16] R. Khasanov, A. Amato, P. K. Biswas, H. Luetkens, N. D. Zhigadlo, and B. Batlogg, Phys. Rev. B **90**, 140507(R) (2014).
+* [17] J. E. Sonier, R. F. Kiefl, J. H. Brewer, J. Chakhalian, S. R. Dunsiger, W. A. MacFarlane, R. I. Miller, A. Wong, G. M. Luke, and J. W. Brill, Phys. Rev. Lett. **79**, 1742 (1997).
+* [18] C. L. Huang, J.-Y. Lin, Y. T. Chang, C. P. Sun, H. Y. Shen, C. C. Chou, H. Berger, T. K. Lee, and H. D. Yang, Phys. Rev. B **76**, 212504 (2007).
+* [19] H. Kim, M. A. Tanatar, Y. Liu, Z. C. Sims, C. Zhang, P. Dai, T. A. Lograsso, and R. Prozorov, Phys. Rev. B **89**, 174519 (2014).
+* [20] R. T. Gordon, H. Kim, N. Salovich, R. W. Giannetta, R. M. Fernandes, V. G. Kogan, T. Prozorov, S. L. Bud'ko, P. C. Canfield, M. A. Tanatar, and R. Prozorov, Phys. Rev. B **82**, 054507 (2010).
+* [21] J. Pan, W. H. Jiao, X. C. Hong, Z. Zhang, L. P. He, P. L. Cai, J. Zhang, G. H. Cao, and S. Y. Li, Phys. Rev. B **92**, 180505(R) (2015).
+
+ 
+
+# Two-gap superconductivity in Mo_{8}Ga_{41} and its evolution upon vanadium substitution
+
+V. Yu. Verchenko,^{1,2,}1, R. Khasanov,^{3,}2, Z. Guguchia,^{3}3, A. A. Tsirlin,^{4}, and A. V. Shevelkov^{1}
+
+^{1}Department of Chemistry, Lomonosov Moscow State University, 119991 Moscow, Russia
+
+^{2}National Institute of Chemical Physics and Biophysics, 12618 Tallinn, Estonia
+
+^{3}Laboratory for Muon Spin Spectroscopy, Paul Scherrer Institute, CH-5232 Villigen PSI, Switzerland
+
+^{4}Experimental Physics VI, Center for Electronic Correlations and Magnetism, Institute of Physics, University of Augsburg, 86135 Augsburg, Germany
+
+Footnote 1: verchenko@inorg.chem.msu.ru
+
+Footnote 2: rustem.khasanov@psi.ch
+
+Received 21 June 2017; revised manuscript received 3 August 2017; published 5 October 2017
+
+###### Abstract
+
+Zero-field and transverse-field muon spin rotation/relaxation (\muSR) experiments were undertaken in order to elucidate the microscopic properties of a strongly coupled superconductor Mo_{9}Ga_{41} with T_{\rm c}=9.8 K. The upper critical field extracted from the transverse-field \muSR data exhibits significant reduction with respect to the data from thermodynamic measurements indicating the coexistence of two independent length scales in the superconducting state. Accordingly, the temperature-dependent magnetic penetration depth of Mo_{8}Ga_{41} is described using a model in which two s wave superconducting gaps are assumed. A V for Mo substitution in the parent compound leads to the complete suppression of one superconducting gap, and Mo_{7}VGa_{41} is well described within the single s wave gap scenario. The reduction in the superfluid density and the evolution of the low-temperature resistivity upon V substitution indicate the emergence of a competing state in Mo_{7}VGa_{41} that may be responsible for the closure of one of the superconducting gaps.
+
+DOI: 10.1103/PhysRevB.96.134504
+
+## I Introduction
+
+The design of new superconducting materials following empirical rules based on chemical and structural considerations or rigorous analysis of an electronic structure is a challenging task. Recently, systematic work was performed on superconducting internucleus with endochondral gallium clusters TGa_{\rm a} (T is a transition metal) [1]. In this context, Mo_{8}Ga_{41}[2] (the superconducting transition temperature T_{\rm c}\simeq 9.7 K), Mo_{6}Ga_{31}[3] (T_{\rm c}\simeq 8 K), ReGa_{3}[1] (T_{\rm c}\simeq 2.3 K), Rh_{2}Ga_{9}[4] (T_{\rm c}\simeq 1.9 K), and Ir_{2}Ga_{9}[4] (T_{\rm c}\simeq 2.2 K) superconductors as well as nonsuperconducting V_{8}Ga_{41}[5] and PdGa_{5}[6] are considered. By analyzing their electronic structures, Xie _et al._[1] established the interrelations between the critical temperature T_{\rm c} and valence electron count, thus placing these structurally different intermetallic compounds into an individual class of superconductors.
+
+Mo_{8}Ga_{41} was first synthesized by Yvon _et al._[7] during their systematic investigation of Ga-rich intermetallic compounds with unusual crystal structures. A view of the Mo_{8}Ga_{41} crystal structure is shown in Fig. 1. The crystal structure is built by MoGa_{10} polyhedra, which are condensed on the triangular faces of a GaGa_{12} cuboctahedron. A detailed description of the crystal structure can be found elsewhere [8]. At first sight, Mo_{8}Ga_{41} follows all of Matthias' empirical rules for superconductors: It contains a 4d transition metal (Mo), the compound may possess high density of electronic states, and its complex crystal structure is closely related to the cubic symmetry. Despite the fact that these rules seem obsolete, Yvon and co-authors [2] found that Mo_{8}Ga_{41} superconducts below T_{\rm c}=9.7 K with the upper critical field of \mu_{0}H_{\rm c2}=8.6 T. Results obtained by Yvon _et al._ were further pointed out by the unusual behavior of Mo_{8}Ga_{41} in its superconducting state. Indeed, the values of T_{\rm c} and dH_{\rm c2}/dT lead to the Werthamer-Helfand-Honenberg (WHH) prediction of the upper critical field \mu_{0}H_{\rm c2}\simeq 6.7 T, which is significantly smaller than the experimental value [2]. Together with a relatively high critical temperature, this may indicate strong electron-phonon coupling in the superconducting regime.
+
+In our recent study [8], we carried out a comprehensive investigation of thermodynamic and transport properties of Mo_{8}Ga_{41} in both the normal and superconducting states. Magnetization, heat capacity, and resistivity measurements confirmed bulk superconductivity at T_{\rm c}=9.8 K in zero magnetic field. A superconducting transition was found to be characterized by a large value of the normalized specific heat jump \Delta c_{\rm p}/\gamma_{\rm N}T_{\rm c}=2.84, which was twice as high as the weak-coupling Bardeen-Cooper-Schrieffer (BCS) prediction. At the same time, the electronic contribution to a specific heat below T_{\rm c} obeyed power law rather than exponential decay behavior as is expected within the framework of BCS theory. Such disagreements have motivated us toward further investigation of the microscopic properties of Mo_{8}Ga_{41}.
+
+Here, we present the results of muon spin rotation/relaxation (\muSR) experiments on bulk Mo_{8}Ga_{41} and its V-substituted derivative, Mo_{7}VGa_{41}. Transverse-field \muSR (TF-\muSR) experiments were undertaken in order to elucidate superconducting-state properties of both materials. The temperature-dependent magnetic penetration depth \lambda and the upper critical field \mu_{0}H_{\rm c2} were extracted from the TF-\muSR data and were used to investigate the order parameter in Mo_{8}Ga_{41} and its evolution upon the V for Mo substitution.
+
+## II Experimental details
+
+Mo_{8}Ga_{41} and Mo_{7}VGa_{41} specimens were synthesized as described earlier [8] in the form of submillimeter-sized crystals. Elemental composition of the obtained crystals was investigated using a JSM JEOL 6490-LV scanning electron microscope operated at 30 kV and equipped with the energy-dispersive x ray detection system INCA x-Sight. For quantitative analysis, molybdenum elements, vanadium elements, and gallium phosphide provided by MAC Analytical Standards were used as external standards. According to the EDX spectroscopy results, crystals of Mo_{8}Ga_{41} and Mo_{7}VGa_{41} contain 16.3(5) at. % Mo and 83.7(8) at. % Ga, and 14.4(5) at. % Mo, 2.0(2) at. % V, and 83.6(9) at. % Ga, respectively, leading to the Mo_{8.0(2)}Ga_{41.0(4)} and Mo_{7.1(2)}V_{1.0(1)}Ga_{41.0(4)} formula units. In the case of Mo_{7}VGa_{41}[9], elemental mapping was used to check the distribution of Mo and V species across the surface, which was found to be uniform confirming local homogeneity of crystals. See Supplemental Material [9] for specimen characterization, ZF-\muSR, and TF-\muSR data on the Mo_{7}VGa_{41} sample. For measurements of thermodynamic properties, several crystals of Mo_{7}VGa_{41} were glued together and measured as a polycrystalline sample. Magnetization curves were registered in magnetic fields between 0 and 14 T at temperatures between 1.8 and 10 K using the VSM setup of the Physical Property Measurement System (PPMS, Quantum Design). Heat capacity was measured in magnetic fields up to 12 T by a relaxation method using the Heat Capacity option of the PPMS. Further, crystals of Mo_{8}Ga_{41} and Mo_{7}VGa_{41} were crushed by grinding in an agate mortar and analyzed by powder x ray diffraction (PXRD) technique. The experiments were performed on a Huber Guinier Camera G670 [Image plate detector, Cu x ray source, Ge (111) monochromator, \lambda=1.540598 A]. PXRD patterns of Mo_{8}Ga_{41} and Mo_{7}VGa_{41} agree with the V_{8}Ga_{41} structure type and show no impurity phases in the specimens. Finally, the obtained powders of Mo_{8}Ga_{41} and Mo_{7}VGa_{41} were pressed into cylindrical pellets with a diameter of 6 mm and a height of 1 mm at room temperature at an external pressure of 100 bar. These pellets were used for the \muSR experiments.
+
+\muSR measurements were performed at the Paul Scherrer Institute (PSI), Villigen, Switzerland. Zero-field (ZF) and transverse-field (TF) \muSR experiments were carried out on the GPS and DOLLY spectrometers located at the \piM3 and \piE1 beamlines, respectively. Experiments were performed in the temperature range from 1.6 to 15 K in the GPS and from 0.29 to 15 K in the DOLLY instruments. ZF-\muSR experiments were performed in a zero applied field. In TF-\muSR experiments, the sample was field cooled from above T_{c} in a series of fields ranging from 30 mT to 0.59 T.
+
+## III III. Results and discussion
+
+### \mathbf{Mo_{5}Ga_{41}}
+
+#### 1. Zero-field \mathbf{\mu}SR experiments
+
+Figure 2 shows ZF-\muSR time spectra of Mo_{8}Ga_{41} measured at T=0.29 and 12.5 K. The obtained spectra below and above T_{c} reveal no significant difference indicating the absence of internal coherent magnetic fields in Mo_{8}Ga_{41} that may appear, for instance, as a result of long-range magnetic ordering. On the contrary, our ZF-\muSR data show that only the nuclear component is present, which can be analyzed by using the static Kubo-Toyabe depolarization function [10]:
+
+\[A(t)=A_{s}(0)\left[\frac{1}{3}+\frac{2}{3}\big{(}1-\sigma_{\mathrm{KT}}^{2}t^{ 2}\big{)}\exp\left(-\frac{\sigma_{\mathrm{KT}}^{2}t^{2}}{2}\right)\right]+A_{ \mathrm{bgd}},\] (1)
+
+where A_{s}(0) is the initial asymmetry for muons stopped in the sample, \sigma_{\mathrm{KT}} is the muon depolarization rate, and A_{\mathrm{bgd}} is the background contribution from muons that missed the sample. The muon depolarization rate \sigma_{\mathrm{KT}} does not change with temperature within its standard deviation (see inset in Fig. 2). This clearly indicates the absence of any spontaneous coherent magnetic fields in the superconducting state of Mo_{8}Ga_{41}.
+
+#### 2. Transverse-field \mathbf{\mu}SR experiments
+
+In order to elucidate microscopic properties of the superconducting state in Mo_{8}Ga_{41}, including the structure of superconducting gap, transverse-field \muSR experiments were carried out in magnetic fields of 30, 70, 200, and 490 mT.
+
+Figure 1: View of a Mo_{8}Ga_{41} crystal structure: (left) eight MoGa_{10} polyhedra surrounding a GaGa_{12} cuboctahedron (one polyhedron is not shown for clarity), (right) polyhedral representation of the unit cell. Mo atoms are shown in black, Ga atoms in yellow, and the unique Ga atom in the center of cuboctahedron in red.
+
+Figure 2: ZF-\muSR time spectra of Mo_{8}Ga_{41} measured at T=0.29 and 12.5 K. The solid line is a fit of T=12.5 K data according to the Kubo-Toyabe relation (see text). The inset shows zero-field muon depolarization rate \sigma_{\mathrm{KT}} as a function of temperature.
+
+  Figure 3 shows TF-\muSR time spectra of MoS_{0}Ga_{41} measured at T=0.29 and 10 K in \mu_{0}H=30 mT. The spectrum below T_{\rm c} clearly exhibits faster relaxation with respect to the spectrum at 10 K due to the formation of the flux line lattice in the superconducting state. The following oscillatory decaying Gaussian function was used to fit the experimental data (the fitting results are shown as solid lines in Fig. 3):
+
+\[A^{\rm TF}(t) = A_{\rm s}^{\rm TF}(0)\times\exp\left(-\frac{\sigma^{2}t^{2}}{2} \right)\times\cos(\gamma_{\mu}\mu_{0}H_{\rm ml}t+\phi)\] (2) \[+ A_{\rm bgd}^{\rm TF}(0)\times\cos(\gamma_{\mu}\mu_{0}H_{\rm bgd}t +\phi).\]
+
+Here, A_{\rm s}^{\rm TF}(0) and A_{\rm bgd}^{\rm TF}(0) are initial asymmetries belonging to the sample and the background contributions, respectively. \gamma_{\mu}/2\pi=135.5 MHz/T is the muon gyromagnetic ratio, \mu_{0}H_{\rm int} and \mu_{0}H_{\rm bgd} are the internal and background magnetic fields, respectively, \phi is the initial phase, and \sigma is the Gaussian muon spin relaxation rate. Above T_{\rm c}, the muon spin relaxation rate is referred to the temperature independent nuclear magnetic dipolar contribution \sigma_{\rm mm}, while below T_{\rm c}, the total relaxation rate consists of the nuclear and superconducting contributions, \sigma=\sqrt{\sigma_{\rm sc}^{2}+\sigma_{\rm mm}^{2}}. By fitting the data at T=10 K, we obtained \sigma_{\rm mm}=0.16\mus^{-1}. This value was further used to extract \sigma_{\rm sc}(T) and \mu_{0}H_{\rm int}(T) at temperatures below T_{\rm c} according to Eq. (2). In the superconducting state, Fourier transforms of the asymmetry spectra are well described by a simple Gaussian approximation which is normally the case for powder samples of anisotropic superconductors. Fourier analysis of the asymmetry spectra shows no indications of a disorder in the vortex lattice.
+
+From the data taken at each temperature below the transition temperature T_{\rm c}, we reconstructed \sigma_{\rm sc} as a function of transverse field for \mu_{0}H=30, 70, 200, and 490 mT. The resulting \sigma_{\rm sc}(T) dependencies for various transverse fields are shown in Fig. 4. The temperature-dependent variation of \sigma_{\rm sc} exhibits a clear enhancement below T_{\rm c}. Figure 4 also implies that \sigma_{\rm sc} measured at similar temperatures decreases with increasing measuring field [see Fig. 5(a) where \sigma_{\rm sc}(\mu_{0}H) at T=3 K is depicted]. A more precise scan performed at T=1.7 K shows that before coming down, \sigma_{\rm sc} first increases by going through a maximum at approximately 20 mT [Fig. 5(b)]. Note that this is the typical behavior observed in various type-II superconductors experimentally [11], as well as predicted theoretically [12].
+
+In terms of the Ginzburg-Landau treatment of the vortex state, Brandt [12] has shown that \sigma_{\rm sc} can be calculated as a function of the reduced field b and the Ginzburg-Landau coefficient \kappa for the case of single-gap s wave superconductivity:
+
+\[\sigma_{\rm sc}\approx 0.172\frac{1-b}{\kappa^{2}}[1+1.21(1-\sqrt{b})^{3}],\] (3)
+
+where b=\frac{\mu_{0}H}{\mu_{0}H_{\rm c2}}, \mu_{0}H_{\rm c2} is the upper critical field, \kappa=\lambda/\xi, \lambda is the magnetic penetration depth, and \xi is the Ginsburg-Landau coherence length. Equation (3) is valid for b exceeding 0.25/\kappa^{1.3} (where the maximum of \sigma_{\rm sc} occurs) and \kappa\gtrsim 5. For MoS_{0}Ga_{41}, the value of \xi=15.8 nm was estimated from the upper critical field at zero temperature [8], thus, Eq. (3) can be used for \lambda>79 nm.
+
+The \sigma_{\rm sc}(\mu_{0}H) data obtained from T scans [Fig. 5(a)] as well as from the \mu_{0}H scan [Fig. 5(b)] were fitted using Eq. (3). First, the fitting with \mu_{0}H_{\rm c2} and \lambda treated as variable parameters (solid red lines in Fig. 5) was employed yielding the values of upper critical field \mu_{0}H_{\rm c2} that are significantly smaller than those obtained from thermodynamic measurements previously [8]. Indeed, as shown in Fig. 5(a), by fitting the \sigma_{\rm sc}(\mu_{0}H) data we obtained \mu_{0}H_{\rm c2}=3.77(4) T and \lambda=216.1(2) nm at T=3 K, compared to 6.7 T from magnetization and heat capacity measurements [8]. On the other hand, if such a high value of \mu_{0}H_{\rm c2} is adopted, \sigma_{\rm sc} has to be significantly enhanced, in poor agreement with the \muSR data. The same situation is observed in the case of \mu_{0}H scan [Fig. 5(b)], where the values of \mu_{0}H_{\rm c2}=4.9(3) T and \lambda=215(1) nm were obtained at T=1.7 K.
+
+Figure 3: TF-\muSR time spectra of MoS_{0}Ga_{41} measured in \mu_{0}H=30 mT at temperatures below (black dots) and above (red dots) the superconducting transition temperature. Solid lines are least-squares fits according to Eq. (2).
+
+Figure 4: Superconducting contribution \sigma_{\rm sc} to the muon spin relaxation rate of MoS_{0}Ga_{41}.
+
+  Values of the upper critical field of Mo_{8}Ga_{41} are summarized in Fig. 6. The entire plot of \mu_{0}H_{\rm c2}(T) calculated from the TF-\muSR data exhibits a large reduction in the upper critical field compared to thermodynamic measurements. This situation is a characteristic feature of multigap superconductivity that leads to two or more distinct length scales in the superconducting state [13]. Therefore, we further studied magnetic penetration depth in order to clarify this multigap behavior.
+
+#### iii.2.3 Magnetic penetration depth
+
+The temperature-dependent inverse squared magnetic penetration depth \lambda^{-2} of Mo_{8}Ga_{41} obtained from the TF-\muSR data using Eq. (3) is shown in Fig. 7. Upon increasing temperature, \lambda increases monotonically and tends toward infinity at T=T_{\rm c}. Concurrently, \lambda^{-2} decreases with increasing temperature and vanishes at the transition temperature. The temperature dependence of \lambda^{-2} is indicative of the order parameter, i.e., absolute value of the gap energy, as well as the symmetry of the superconducting gap. Assuming a weak coupling BCS-type s wave superconductivity with a single gap \Delta reveals [14]
+
+\[\frac{\lambda^{-2}(T)}{\lambda^{-2}(0)}=\frac{\Delta(T)}{\Delta(0)}{\rm tanh} \bigg{[}\frac{\Delta(T)}{2k_{\rm B}T}\bigg{]},\] (4)
+
+in the dirty limit. At nonzero temperatures, the gap \Delta(T) is assumed to follow the function \Delta(T)\!=\!\Delta(0)\tanh\{1.82[1.018(T_{\rm c}/T-1)]^{0.51}\}. This function has been
+
+Figure 5: (a) Field-dependent superconducting contribution \sigma_{\rm sc} to the total muon spin relaxation rate of Mo_{8}Ga_{41} taken from the TF-\muSR T scans at T=3 K. The solid red line is a fit of the data according to Eq. (3) with \mu_{0}H_{\rm c2} and \lambda treated as variable parameters, the dashed and dotted lines are the results for \mu_{0}H_{\rm c2}=7 T and \mu_{0}H_{\rm c2}=9.5 T, respectively, and \lambda=220 nm. (b) \sigma_{\rm sc} obtained from the TF-\muSR \mu_{0}H scan at T=1.7 K. The solid red line is a fit of the data according to Eq. (3).
+
+Figure 6: Upper critical field \mu_{0}H_{\rm c2} of Mo_{8}Ga_{41} obtained from the T scans and \mu_{0}H scan. Values from the thermodynamic measurements [8] are also shown.
+
+Figure 7: Temperature-dependent magnetic penetration depth \lambda of Mo_{8}Ga_{41} plotted as \lambda^{-2} vs T. Solid line is a least-squares fit according to the two-gap model, the dashed line is a fit according to the single-gap BCS-type model.
+
+  found to well represent the temperature dependence at any coupling strength [15].
+
+The fit using Eq. (4) is shown in Fig. 7 as a dashed line. The single-gap BCS-type model satisfactorily describes the experimental data with \Delta(0)=1.80(7) meV, \Delta(0)/k_{B}T_{c}=2.1, and \lambda(0)=192(2) nm. The reduced value of \chi^{2}=0.66 has been obtained with n=13 degrees of freedom. The results of fitting, from first sight, hint at the single-gap BCS-type superconductivity in Mo_{8}Ga_{41}. However, previously we established two non-BCS-type features [8]: (i) the superconducting state is characterized by a strong electron-phonon coupling with \lambda_{\rm ep}=0.9, (ii) the normalized specific heat jump \Delta c_{\rm p}/\gamma_{\rm N}T_{c}=2.84 is much larger than in the weak coupling BCS limit. Also, in the current study we found that (iii) the upper critical field from the TF-\muSR data shows a significant reduction with respect to the thermodynamic data. These features suggest that a single-gap BCS-type model should be avoided, and a multigap model should be used instead.
+
+A two-gap model can be introduced using a linear combination of two s wave superconducting gaps:
+
+\[\frac{\lambda^{-2}(T)}{\lambda^{-2}(0)} = \omega\frac{\Delta_{\rm s1}(T)}{\Delta_{\rm s1}(0)}{\rm tanh} \Bigg{[}\frac{\Delta_{\rm s1}(T)}{2k_{\rm B}T}\Bigg{]}\] (5) \[+(1-\omega)\frac{\Delta_{\rm s2}(T)}{\Delta_{\rm s2}(0)}{\rm tanh }\Bigg{[}\frac{\Delta_{\rm s2}(T)}{2k_{\rm B}T}\Bigg{]},\]
+
+where \omega is the linear combination coefficient describing the contribution of each gap, and \Delta_{\rm s}(T)=\Delta_{\rm s}(0)\tanh[1.82(1.018(T_{\rm c}/T-1))^{0.51}] is the temperature dependence of each gap. Fit of the \lambda^{-2}(T) data using Eq. (5) is shown as a solid red line in Fig. 7, yielding \Delta_{\rm s1}(0)=4.3(6) meV, \Delta_{\rm s2}(0)=1.76(6) meV, and \lambda(0)=216.2(4) nm. This fitting is characterized by the reduced value of \chi^{2}=0.50 with n=12 degrees of freedom for \omega=0.7. The value of \omega was found during a least-squares fit and then was fixed in order to reduce possible correlations between parameters. The use of a two-gap model in comparison with a single-gap model slightly reduces the value of \chi^{2} with almost the same number of degrees of freedom. In the case of Mo_{8}Ga_{41}, the two-gap model implies the existence of two s wave superconducting gaps with similar energies and almost equal contributions (\omega=0.7). Certainly, this model replicates a single-gap BCS-type model when describing the \lambda^{-2}(T) data, and the fitting results are very similar (compare the solid and dashed lines in Fig. 7). However, keeping in mind the non-BCS-type features listed above, we exclude the single-gap scenario from consideration. At the same time, the \lambda^{-2}(T) data corroborate the multigap behavior of Mo_{8}Ga_{41} and reveal that the introduction of two superconducting gaps is sufficient to explain the superconducting behavior of this compound. Note that similar behavior was reported for SrPt_{3}P, which was suggested to be a two-band superconductor with equal gaps [16]. Future studies to help resolve the gap structure in Mo_{8}Ga_{41} are needed.
+
+### V for Mo substitution in Mo_{9}VGa_{41}
+
+In our previous study [8], Mo_{8.\rm x}V_{x}Ga_{41} was also found to be superconducting with the transition temperature T_{\rm c} being just slightly lower than that for the parent compound. Zero-field and transverse-field \muSR experiments were conducted, therefore, on Mo_{9}VGa_{41} having T_{\rm c}\simeq 9.2 K at zero magnetic field [8]. An analysis of the experimental data was performed similarly to that described previously for Mo_{8}Ga_{41} sample.
+
+Figure 8(a) shows a summary of the temperature-dependent upper critical field of Mo_{7}VGa_{41}. The \mu_{0}H_{c2} data from the magnetization and heat capacity experiments as well as that obtained in TF-\muSR studies are presented. In contrast to the unsubstituted Mo_{8}Ga_{41}, the TF-\muSR \mu_{0}H_{c2} values agree well with the data from thermodynamic measurements for Mo_{7}VGa_{41}. This implies that only one characteristic length scale is needed to describe the upper critical field. In accordance with this observation, the temperature dependence of the magnetic penetration depth of Mo_{7}VGa_{41} presented as the \lambda^{-2}(T) plot in Fig. 8(b) was satisfactorily fitted within the single-gap BCS-type model using Eq. (4). The fit yields \Delta(0)=1.87(9) meV and \lambda(0)=292(4) nm with the value of \Delta(0)/k_{B}T_{\rm c}=2.36 exceeding the weak-coupling BCS limit of
+
+Figure 8: (a) Upper critical field and (b) magnetic penetration depth of Mo_{9}VGa_{41} plotted as \lambda^{-2} vs T. Solid red line is a fit of the data according to the single-gap BCS-type model.
+
+  1.76. Thus, from the TF-\muSR data we suggest a simple s wave superconducting state in Mo_{7}VGa_{41}, accompanied by strong electron-phonon coupling.
+
+### Comparison of Mo_{8}Ga_{41} with its V-substituted analog Mo_{7}VGa_{41}
+
+The experimental data presented above reveal that Mo_{8}Ga_{41} and Mo_{7}VGa_{41} are different in two important aspects. First, application of the Brandt equation leads to different results. The Brandt equation [Eq. (3)] is formulated for the case of single-gap s wave superconductivity. By this reason, the values of \mu_{0}H_{c2} extracted for Mo_{7}VGa_{41} using Eq. (3) are in good agreement with thermodynamic measurements, since Mo_{7}VGa_{41} exhibits a single-gap s wave superconductivity. A different situation is observed for Mo_{8}Ga_{41}. In this case, Eq. (3) yields the values of \mu_{0}H_{c2}, which are significantly lower than those from thermodynamic measurements, indicating that Mo_{8}Ga_{41} is not a single-gap superconductor. Fourier analysis of the asymmetry spectra reveals no signs of disorder of the vortex lattice that may cause the Brandt equation to not be applicable. The \lambda(\mu_{0}H) dependence calculated using Eq. (3) also reveals a different behavior for Mo_{8}Ga_{41} and Mo_{7}VGa_{41} [Fig. 9]. The field dependence of \lambda observed for Mo_{8}Ga_{41} is reminiscent of that of NbSe_{2}[17], which is also a two-gap superconductor [18]. At the same time, there is no field dependence in the case of Mo_{7}VGa_{41} in accordance with its conventional behavior. The substitution of just one out of eight Mo atoms by one V atom leads to a _complete_ suppression of one of the superconducting energy gaps.
+
+The second aspect is that V substitution is accompanied by more than a factor of 2 reduction of the superfluid density \rho_{\rm s}\propto\lambda^{-2}. Indeed, from the fits of the experimental data we get \lambda^{-2}(0)\simeq 21 and 12 \mum^{-2} for Mo_{8}Ga_{41} and Mo_{7}VGa_{41}, respectively.
+
+In order to explain such discrepancies, three different scenarios are compared. According to the first, a structural disorder caused by mixing Mo and V atoms in one crystallographic position may lead to a reduction in the superfluid density. From the single-crystal x ray diffraction data [8], it is known that the substitution occurs in two crystallographic positions, and the average V content is less than 15 at. %. Such a small amount of disorder in the crystal structure should not cause a drastic change of \rho_{\rm s}. Moreover, as in the case of the K_{1-x}Na_{x}Fe_{2}As_{2} solid solution [19], the reduction in \rho_{\rm s} caused by structural disorder should be accompanied by a significant reduction in T_{\rm c}, whereas the Mo_{8-x}V_{x}Ga_{41} solid solution demonstrates no significant change of T_{\rm c}. By substituting V for Mo, the transition temperature slightly reduces from T_{\rm c}=9.8 K in Mo_{8}Ga_{41} to 9.2 K in Mo_{7}VGa_{41}[8].
+
+In contrast to K_{1-x}Na_{x}Fe_{2}As_{2}, the V for Mo substitution is not isovalent. Rather, the change in the electron count is observed, which enables us to formulate the second scenario, with the heterovalent substitution being responsible for the reduction in \rho_{\rm s}. The effect of the heterovalent substitution on the electronic structure of Mo_{8-x}V_{x}Ga_{41} was analyzed in our previous study [8]. By using a rigid-band shift approximation, it was shown that no significant change in the density of states at the Fermi level occurs with increasing V content in a solid solution. Thus, the heterovalent nature of the substitution does not explain the observed reduction in \rho_{\rm s}.
+
+Finally, the third scenario considers competing states that cause a reduction in the superfluid density \rho_{\rm s}. The Ba(Fe_{1-x}Co_{x})_{2}As_{2} solid solution [20] is an example in which the competition between superconductivity and magnetism is observed. On the phase diagram of Ba(Fe_{1-x}Co_{x})_{2}As_{2}, the superconducting dome is intersected with the spin-density-wave field yielding an intermediate region of competing states. Measurements of the magnetic penetration depth \lambda clearly show that entering the intersected region results in a drastic increase in \lambda, which is equivalent to the reduction in \rho_{\rm s}[20].
+
+At this point, we make an assumption that the emergence of some competing state in Mo_{7}VGa_{41} may lead to the suppression of one of the superconducting gaps accompanied by a significant reduction in the superfluid density. The collected
+
+Figure 10: Resistivity of Mo_{8}Ga_{41} (open circles) and Mo_{7}VGa_{41} (open triangles) at low temperatures. The data are taken from Ref. [8]. Solid red lines are the result of fitting (see in the text).
+
+Figure 9: Magnetic penetration depth \lambda as a function of the magnetic field for Mo_{8}Ga_{41} (open circles) and Mo_{7}VGa_{41} (open triangles). The solid red lines are linear fits of the data.
+
+  ZF-\muSR data show that both Mo_{8}Ga_{41} and Mo_{7}VGa_{41}[9] lack spontaneous coherent magnetic fields in the superconducting state, thus excluding magnetic order as a possible competing state from consideration. To obtain further information, we analyze the low-temperature resistivity data [8] for Mo_{8}Ga_{41} and Mo_{7}VGa_{41}. The \rho(T) data at low temperatures can be fitted using the equation \rho(T)=\rho_{0}+AT^{n} (Fig. 10). The fitting yields the exponents n=1.49(8) for Mo_{8}Ga_{41} and n=1.21(3) for Mo_{7}VGa_{41}. This reduction in the exponent upon increasing V content may indicate the onset of an incipient charge-density-wave (CDW) state in Mo_{7}VGa_{41}. A similar situation has been observed in Ta_{4}Pd_{3}Te_{16}[21], where the suppression of n under pressure signifies enhancement of CDW fluctuations. The presence of a CDW state in V-substituted Mo_{8}Ga_{41} would make one band unavailable for superconductivity and reduce the density of the supercarriers due to the opening of the energy gap associated with the CDW regime.
+
+## IV Conclusions
+
+A comprehensive study by means of muon spin rotation/relaxation technique was carried out on a strongly coupled superconductor Mo_{8}Ga_{41} and its V-substituted analog Mo_{7}VGa_{41}. ZF-\muSR experiments show that both compounds lack any spontaneous coherent magnetic fields in the superconducting state. TF-\muSR experiments elucidate microscopic properties of the superconducting state, which turns out to be substantially different in Mo_{8}Ga_{41} and Mo_{7}VGa_{41}. The upper critical field of Mo_{8}Ga_{41} extracted from the TF-\muSR data is lower than in thermodynamic measurements indicating a multigap superconductivity that leads to two or more independent length scales in the superconducting state. Accordingly, the temperature-dependent magnetic penetration depth was approximated by the model, in which two s wave superconducting gaps with similar energies and almost equal contributions are assumed. The V for Mo substitution does not affect T_{\rm c} significantly, but leads to the complete suppression of one superconducting gap. This follows from the substantial reduction in the superfluid density \rho_{\rm s} and from the single-gap behavior of both the upper critical field and magnetic penetration depth of Mo_{7}VGa_{41}. We speculate that the emergence of a competing state in Mo_{7}VGa_{41} is responsible for the closure of one of the superconducting gaps.
+
+###### Acknowledgements.
+
+ This work was performed at the Swiss Muon Source, Paul Scherrer Institute, Villigen, Switzerland. Part of the experimental work was done by Gustavo Prack, Judith Suter, and Clemens Spinnler (Swiss Nanoscience Institute, University of Basel, Basel, Switzerland) within their laboratory course at PSI. R.K. acknowledges Stefan Holenstein and Jean-Christophe Orain for their help during the \muSR experiments. The work has been supported by the Russian Science Foundation, Grant No. 17-13-01033. V.Yu.V. appreciates the support from the European Regional Development Fund, Project TK134. A.A.T. is grateful for the financial support by the Federal Ministry for Education and Research under the Sofja Kovalevskaya Award of the Alexander von Humboldt Foundation.
+
+## References
+
+* [1] W. Xie, H. Luo, B. F. Phelan, T. Klimczuk, F. A. Cevallos, and R. J. Cava, Proc. Natl. Acad. Sci. USA **112**, E7048 (2015).
+* [2] A. Bezinge, K. Yvon, M. Decroux, and J. Muller, J. Less-Common Met. **99**, L27 (1984).
+* [3] C. P. Poole, _Handbook of Superconductivity_ (Academic Press, London, 2000).
+* [4] T. Shibayama, M. Nohara, H. A. Katori, Y. Okamoto, Z. Hiroi, and H. Takagi, J. Phys. Soc. Jpn. **76**, 073708 (2007).
+* [5] K. Girgis, W. Petter, and G. Pupp, Acta Crystallogr. Sect. B: Struct. Sci., Cryst. Eng. Mater. **B31**, 113 (1975).
+* [6] Yu. Grin, K. Peters, and H. G. von Schnering, Z. Crystallogr. **212**, 6 (1997).
+* [7] K. Yvon, Acta Crystallogr. Sect. B: Struct. Sci., Cryst. Eng. Mater. **B31**, 117 (1975).
+* [8] V. Y. Yerchenko, A. A. Tsirlin, A. O. Zubtsovskiy, and A. V. Shevellov, Phys. Rev. B **93**, 064501 (2016).
+* [9] See Supplemental Material at http://link.aps.org/supplemental/10.1103/PhysRevB.96.134504 for the specimen characterization, ZF-\muSR, and TF-\muSR data on the Mo_{7}VGa_{41} sample.
+* [10] R. Kubo, Hyperfine Interact. **8**, 731 (1981).
+* [11] D. A. Cardwell and D. S. Ginley, _Handbook of Superconducting Materials_ (CRC Press, London, 2002).
+* [12] E. H. Brandt, Phys. Rev. B **68**, 054506 (2003).
+* [13] S. Lee, R. Cywinski, and S. Kilcoyne, _Muon Science: Muons in Physics, Chemistry and Materials_ (CRC Press, London, 1999).
+* [14] M. Tinkham, _Introduction to Superconductivity: Second Edition_ (Dover Publications, Mineola, 2004).
+* [15] H. Padamsee, J. E. Neighbor, and C. A. Shiffman, J. Low Temp. Phys. **12**, 387 (1973).
+* [16] R. Khasanov, A. Amato, P. K. Biswas, H. Luetkens, N. D. Zhigadlo, and B. Batlogg, Phys. Rev. B **90**, 140507(R) (2014).
+* [17] J. E. Sonier, R. F. Kiefl, J. H. Brewer, J. Chakhalian, S. R. Dunsiger, W. A. MacFarlane, R. I. Miller, A. Wong, G. M. Luke, and J. W. Brill, Phys. Rev. Lett. **79**, 1742 (1997).
+* [18] C. L. Huang, J.-Y. Lin, Y. T. Chang, C. P. Sun, H. Y. Shen, C. C. Chou, H. Berger, T. K. Lee, and H. D. Yang, Phys. Rev. B **76**, 212504 (2007).
+* [19] H. Kim, M. A. Tanatar, Y. Liu, Z. C. Sims, C. Zhang, P. Dai, T. A. Lograsso, and R. Prozorov, Phys. Rev. B **89**, 174519 (2014).
+* [20] R. T. Gordon, H. Kim, N. Salovich, R. W. Giannetta, R. M. Fernandes, V. G. Kogan, T. Prozorov, S. L. Bud'ko, P. C. Canfield, M. A. Tanatar, and R. Prozorov, Phys. Rev. B **82**, 054507 (2010).
+* [21] J. Pan, W. H. Jiao, X. C. Hong, Z. Zhang, L. P. He, P. L. Cai, J. Zhang, G. H. Cao, and S. Y. Li, Phys. Rev. B **92**, 180505(R) (2015).
+
+ 

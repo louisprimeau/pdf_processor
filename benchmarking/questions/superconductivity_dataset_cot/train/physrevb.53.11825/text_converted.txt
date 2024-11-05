@@ -1,0 +1,416 @@
+# Temperature and doping dependence of the penetration depth in
+Bi2Sr2CaCu2O8+_d_
+
+O. Waldmann,* F. Steinmeyer,+ and P. Muller*
+
+Walther-Meissner-Institut, Walther-Meissner-Strasse 8, D-85748 Garching,
+Germany
+
+J. J. Neumeier
+
+Los Alamos National Laboratory, Los Alamos, New Mexico 87545
+
+F. X. Regi, H. Savary, and J. Schneck
+
+France Telecom, Centre National d’Etudes des Telecommunications de
+Bagneux, F-92220 Bagneux, France
+
+Received 8 December 1995
+
+###### Abstract
+
+Using torque magnetometry in the Shubnikov state, we have studied the
+London penetration depth λ_(ab)(T) of Bi2Sr2CaCu2O8+_d_ and
+(Pb2Bi1–)Sr2CaCu2O8+_d_ single crystals with different oxygen excess d.
+With increasing charge carrier density n_(s)/m^(n) ∝ 1/λ_(ab)²(0) the
+transition temperature at first increases, then approaches a maximum,
+and finally decreases. The sample independent, universal behavior found
+in the 1:2:3 family is not confirmed. Dependent on preparation
+prehistory of the samples, either linear or quadratic low temperature
+behavior of λ_(ab)(T) was observed. A linear term is seen for samples
+with high maximum T_(c) ≈ 94 K, while samples with quadratic behavior
+show a significantly reduced T_(c). The results are discussed in terms
+of _d_-wave superconductivity with resonant impurity scattering.
+
+In the current debate on possible pairing mechanisms in high temperature
+superconductors, penetration depth measurements can provide two
+important contributions.
+
+(1) The transition temperature T_(c) is highly sensitive to the ratio of
+the Cooper pair density n_(s) to the electron effective mass
+m^(n)[ n_(s)/m^(n) ∝ 1/λ_(ab)²(0) ]. m^(n) is the electron effective
+mass for transport parallel to the CuO2 layers. Previous investigations
+yielded conflicting results. In muon spin-relaxation (μSR) measurements
+in a wide class of high temperature superconductors (HTSC’s), Uemura _et
+al._[1] reported a universal linear relation between T_(c) and
+n_(s)/m^(n) at low carrier doping levels, whereas in heavily doped
+samples saturation or a slight decrease was observed. In contrast, in
+μSR measurements in Bi2–Pb2Sr2Ca1–Y.Cu2O8+_d_ with different x, z, and
+d, Weber _et al._[2] found no systematic T_(c) vs n_(s)/m^(n)
+correlation, although n_(s)/m^(n) varied by a factor of almost 2. In a
+magnetization study of samples with different oxygen content, Daumling
+_et al._[3] found a variation of the transition temperatures while the
+absolute values of the penetration depth remained unchanged.
+
+(2) The penetration depth at low temperatures allows different classes
+of pairing mechanisms to be separated. A superconductor with _s_-wave
+pairing exhibits a finite excitation energy with a minimum energy gap
+Δ_(min). Therefore for clean superconductors λ(T) at low temperatures
+varies as λ(T) − λ(0) ≈ exp (− Δ_(min)/k_(B)T). In contrast, all of the
+possible non-_s_-wave spin singlet pairing states of a superconductor
+with tetragonal or orthorhombic symmetry and a spherical or cylindrical
+Fermi surface have line nodes in the gap leading to a linear temperature
+dependence, [5, 6]λ(T) − λ(0)  ≈ T, in the clean limit. Impurity
+scattering changes the temperature dependence of the penetration depth
+for both _s_- and _d_-wave models.[7] For sufficiently strong scattering
+a quadratic temperature dependence, λ(T) − λ(0)  ≈ T², is obtained.[7]
+In the standard Born approximation, a high impurity concentration would
+be required to obtain a quadratic law, resulting in a strong decrease of
+T_(c) which has not been observed.[7] However, for a _d_-wave
+superconductor with resonant scattering even a small impurity
+concentration n_(i) gives rise to a quadratic temperature dependence
+below a crossover temperature[8]$T^{n} \propto \sqrt{n_{i}}$. Above _T_*
+the linear term is conserved. The small impurity concentration n_(i)
+decreases T_(c) only slightly. Recently, in a series of experiments on
+YBa2Cu3O7 (YBCO) single crystals and epitaxial YBCO films, a linear
+temperature dependence has been measured at low temperatures,[9] in
+contrast to the quadratic behavior observed earlier.[10] After adding a
+small concentration of zinc impurities, the linear temperature
+dependence was shown to change to quadratic behavior below a crossover
+temperature.[11] On the other hand, in YBCO films an exponential
+temperature dependence has also been reported.[12] In the case of
+Bi2Sr2CaCu2O8 (BSCCO) quadratic temperature dependencies have been
+observed so far.[10, 13]
+
+Compared to YBCO, BSCCO is a simpler HTSC system; there are no CuO
+chains which can mask any clear doping dependence. Furthermore, it is
+extremely anisotropic,[14] nearly two dimensional,[15] and has only a
+small orthorhombic distortion from the tetragonal unit cell.[16] The aim
+of this work is to investigate the temperature and oxygen doping
+dependence of the penetration depth in BSCCO in more detail. In the
+following we first develop the method used to measure λ_(ab)(T). Then
+setup and sample preparation are described. After the method’s
+experimental check the results are discussed. We close with a
+conclusion.
+
+Our experimental approach allows the measurement of the temperature
+dependence of the penetration depth for magnetic fields perpendicular to
+the CuO2 planes, λ_(ab)(T), with high resolution as well as the precise
+determination of its absolute value. As has been shown earlier, for
+intermediate external fields, H_(c1) ≪ H ≪ H_(c2), the penetration depth
+can be determined from the reversible magnetization contributed by the
+closely packed arrangement of vortices.[17] In the anisotropic
+Ginzburg-Landau model of Hao and Clem,[18] the magnetization
+perpendicular to the CuO2 planes is given by
+
+$$M_{\perp} = - \frac{\alpha\Phi_{0}}{8\,\pi\,\mu_{0}\lambda_{ab}^{2}}\ln\frac{\beta H _{c2\perp}}{H\,\cos\Theta}$$
+
+where Th is the angle between the magnetic field and c axis of the
+sample, and a = 0.77, b = 1.44 are constants in the field range 0.02 <
+_H_/_H__c2_ < 0.3. Th is the magnetic flux quantum and m0 = 4 a ×10⁻⁷ vs
+a m. Because of the large magnetic anisotropy g = _l_c_/_l_ab of BSCCO [
+g = 240-900 (Ref. [14])] the magnetic properties can be regarded as two
+dimensional in a wide angle range [19] tanTh(e.g., tan 89.8deg = 240).
+The component of magnetization parallel to the CuO2 planes, _M_|, is
+smaller than _M__(⊥) by an order of g. Therefore, the magnetization
+being normal to the planes with high accuracy, the resulting torque is
+
+τ = −μ₀VM_(⊥)H sin Θ
+
+where V is the volume of the sample. Instead of evaluating _dM__(⊥)/d
+ln_H_ k0/Λ_(ab)² [Eq. (1)] at fixed temperature points, we can enhance
+the resolution of the measurement of the temperature dependence of the
+penetration depth by applying a temperature sweep method in a fixed
+field. If _bH__(c2⊥)(_T_) is known with logarithmic accuracy, both the
+temperature dependence and the absolute value of l_(b)(_T_) can be
+determined from torque _t_(_T_,H = const). As the superconducting volume
+may be smaller than the sample volume, the determined values of the
+penetration depth are upper bounds. The following points confirm that
+the method is highly reliable in BSCCO.
+
+(1) Due to the short coherence lengths __ <= l in HTSC’s, local theories
+are an excellent approximation.[17,3] Furthermore, in BSCCO with
+Ginzburg-Landau parameter k 130, _H__(c1) ≪ H ≪ H_(c2) is a wide field
+range experimentally.
+
+(2) The reversible magnetization is insensitive to geometric properties
+of the vortex lattice. In the simple London theory the parameter b in
+Eq. (1) describes the specific vortex lattice configuration[20]
+(hexagonal, square, amorphous, liquid, etc.), but depends only weakly on
+it. This is analogous to the small dependence of the Abrikosov parameter
+_b_A on vortex structure (hexagonal: _b_A = 1.16, square: _b_A =
+1.18).[20] In the treatment of Hao and Clem based on the more precise
+Ginzburg-Landau model, the small energy differences between specific
+vortex structures are even neglected.[18] The parameter b (and _a_) now
+describes the corrections to the London model due to contributions from
+the core condensation energy and kinetic energy associated with
+gradients in the magnitude of the order parameter.
+
+(3) Many alternative methods widely used to measure the penetration
+depth are based upon the spatial dependence of the magnetic field. For
+example, microwave techniques determine the penetration depth from the
+spatial field dependence B = B ($\overset{\rightarrow}{r}/\lambda$) at a
+surface in the Meissner state;[20]μSR techniques measure the weak
+magnetic field distribution ⟨ΔB²⟩ ∝ λ⁻⁴ between vortices in the mixed
+state.[21] However, in the method presented here the penetration depth
+is determined essentially by the value of the magnetization _M__(⊥)
+ ∝ Φ₀/Λ_(ab)² induced by superconducting currents, averaged over the
+bulk of the sample. This eliminates possible sources of errors such as
+shape effects, thermal expansion of the sample, surface effects,
+fissures, surface degradation (O2 deficiency), multiply connected
+material, etc. Furthermore, in fields of about 10 T the magnetization is
+about a thousand times smaller than the field [_M__(⊥)(_H_ = 10 T)  10
+mT]. Therefore demagnetization effects can clearly be neglected.
+
+(4) In conventional type II superconductors it is hard to achieve a
+reversible magnetization. However, in HTSC’s and especially in BSCCO,
+the small pinning gives access to the reversible magnetization over a
+wide temperature and field range. Compared to conventional methods for
+determining the irreversibility line, e.g., ac susceptibility or
+evaluation of magnetization curves _M_(_H_,T = const), the presented
+method working in a strict dc-field mode yields a low lying
+irreversibility line.
+
+(5) The method’s range of validity can be determined experimentally. As
+long as reversibility, scaling, and _M__(⊥)  ∝ ln (H) are fulfilled
+simultaneously, any other known contribution to the magnetization is
+negligible (e.g., fluctuations). Scaling will be explained below.
+
+(6) In the quasi-two-dimensional (2D) regime, tanTh(e.g. < g, the
+layered structure of the superconductor and any details of the weak
+interlayer coupling are unimportant. For instance, the 2D limit of the
+anisotropic London or Ginzburg-Landau theory is equivalent to that of
+the Lawrence-Doniach model.[19]
+
+The torque was measured with a torsion wire magnetometer[14] (diameter
+26 mm, length 30 mm) which provides a high resolution of l _g_ = 10 - 12
+Nm. This allows the temperature dependence of the penetration depth to
+be determined with a resolution of 1 A for typical sample weights of 100
+m g and fields up to 16 T. A small and reproducible thermal drift
+amounts to about 10
+
+BSCCO single crystals were grown by a self-flux method in alumina
+(batches I and II) or gold crucibles (batches III and IV). Details of
+preparation have been described elsewhere.[14,22] The single-crystal
+structure was confirmed using x-ray diffraction. The stoichiometries of
+all the samples were determined by x-ray microprobe fluorescence (values
+given in Table I). Variations in samples from the same batch were small
+(3 at
+
+Figure 1 shows that the data are in excellent agreement with the
+relation M_(⊥)(H) ≈ ln(H) in the field range between 5 T and 16 T. The
+extrapolation to μ₀M_(⊥) = 0 T yields ln[βμ₀H_(c2⊥)]=ln[150 ÷ 20 T]
+independent of temperature up to T ∼ 0.857_(c). As was observed by Cho
+_et al._,24 the magnetization obeys a scaling law M_(⊥)(T, H) = f(T)g(H)
+over a wide temperature range. Equation (1) then implies that βH_(c2⊥)
+is temperature independent. The factorization of the magnetization into
+a temperature independent term and a field independent term can be seen
+in Figs. 1 and 2, respectively. The deviations from this scaling
+behavior above ∼ 0.857_(c) (see Fig. 2) can be explained by the
+temperature dependence of βH_(c2⊥) and by thermal vortex fluctuations.25
+From measurements of the quasiparticle scattering intensity in the Raman
+effect26 and the temperature dependence of the Josephson critical
+current27 a very weak temperature dependence for the energy gap is seen
+for Ar-annealed samples from batch III (see Table 2), while O₂-annealed
+samples appear to be similar to the BCS behavior. A very weak
+temperature dependence was also seen for as grown samples.28 The gap is
+related to the upper critical field via the coherence length by
+μ₀H_(c2⊥) = Φ₀/2 πξ_(ab)² and ξ_(ab) = ℏυ_(F)/πΔ (υ_(F) is the Fermi
+velocity).20; 24 A weak temperature dependence even for O₂-annealed
+samples can be seen in Fig. 1. As the penetration depth is determined
+from the reversible magnetization, this method is limited to
+temperatures above the irreversibility line $T_{\rm irr}(H)$. This is
+indicated by an arrow in Fig. 2. Once the temperature decreases below
+the irreversibility temperature $T_{\rm irr}$, the vortices get pinned
+and the magnetization deviates from its equilibrium value.
+
+Table 2 lists the most important properties of the investigated samples
+in different annealing states. λ_(ab)(0) was determined by extrapolating
+the low temperature power law to T = 0 K (see below). The small values
+of λ_(ab)(0) and the high maximum T_(c) indicate excellent sample
+quality. For every sample, the ratio of the charge carrier density to
+the effective mass, given in the London theory by n_(s)/m* =
+[μ₀e²λ_(ab)²(0)]⁻¹, increases with growing oxygen doping. The arrows in
+Fig. 3 indicate the direction of increasing oxygen content. T_(c) as a
+function of oxygen content thus possesses the well-known maximum.29 As
+T_(c) versus n_(s)/m* behaves in the same manner (Fig. 3), n_(s)/m*
+varies roughly proportionally to the oxygen content. It is remarkable
+that n_(s)/m* for the Pb-doped sample B depends only weakly on oxygen
+doping, although there is a striking influence on T_(c). Compared to the
+Pb-free samples, an increase of n_(s)/m* by Pb doping is absent,
+although Pb should introduce additional holes. It was argued earlier
+that the Pb-doped holes are immobile and therefore do not contribute to
+the charge carrier density.2 For sample C the T_(c) maximum is shifted
+to lower n_(s)/m* although its Ca deficiency implies the addition of
+holes. The universal behavior for T_(c) versus n_(s)/m* found by Uemura
+_et al._1 cannot be confirmed for BSCCO. A proportionality of T_(c) and
+n_(s)/m* for low doping
+
+Figure 2: Magnetization normalized to the extrapolated value at T = 0 K
+vs temperature T. Fields were 7.5 T, 10 T, and 14 T from bottom to top.
+Towards low temperatures the magnetization freezes as the field
+dependent irreversibility line is crossed. At temperatures above
+∼0.857_(c) the curves spread under the combined influence of thermal
+vortex fluctuations and a noticeable temperature dependence of βH_(c2⊥)
+. In the intermediate temperature range scaling is perfect.
+
+Figure 1: Magnetization normalized to the value at μ₀H = 6 T vs ln(H) at
+different temperatures. The 22 K curve is strongly hysteretic. The 30 K,
+40 K, and 50 K curves lie on the same line. The curves for 60 K and 70 K
+show only very small deviations from the scaling law. Extrapolating to
+μ₀M_(⊥) = 0 T yields ln[βμ₀H_(c2⊥)] = ln[150 T] for all curves.
+
+levels and perhaps even for high doping cannot be excluded, but the
+slopes and offsets are certainly not universal. Even if one stays within
+the BSCCO family, they vary from batch to batch, i.e., with precise
+batch stoichiometry. The data of Weber _et al._[2] did not exhibit a
+significant T_(c) variation to within 10 K. They studied samples
+differing in the oxygen concentration as well as a second component
+(e.g., Ca) which both enter n_(s)/m*. Thus a T_(c) maximum as a function
+of δ might be masked in the T_(c) vs n_(s)/m* diagram. It must be
+concluded that in view of the complex phase equilibria of BSCCO a
+comparison of the charge carrier density between different
+stoichiometries is questionable. Furthermore, a wide range of n_(s)/m*
+is realized in the BSCCO system, which is not due to simple doping
+arithmetics. We remark that in general m* defined by
+λ_(ab)² = m*^( s)/μ₀e²n_(s) is not related to the band effective mass
+for transport in the CuO₂ layers except in the special cases of a
+spherical or elliptical Fermi surface and an isotropic gap.[30] For
+HTSC’s showing a more complex Fermi surface and potentially anisotropic
+gap the deduction of m* is more complex.[30]
+
+The temperature dependence of the penetration depth for different
+samples is shown in Fig. 4. It is striking that all the measured curves
+lie below those of the BCS theory with isotropic energy gap. λ_(ab)(T)
+depends on the sample batch as well as on the oxygen content. The effect
+of these two factors is best seen by approximating the penetration depth
+at low temperatures by a power law λ_(ab)(T)/λ_(ab)(0) = 1 + αT^(β) with
+β = 1 or β = 2 (Fig. 5). The dependence of λ_(ab)(0) on batch and oxygen
+content has been discussed above. The exponent β is independent of the
+annealing conditions and splits the samples into two groups. First,
+sample D shows a linear temperature dependence of λ_(ab)(T) (β = 1) at
+all three oxygen doping levels. The slope α decreases with increasing
+oxygen content and increasing n_(s)/m*, respectively. Second, the other
+samples with parabolic behavior (β = 2) have a T_(c) maximum lowered by
+about 5 K. In the Pb-free sample (C) α increases with decreasing
+n_(s)/m* while in the Pb-doped sample (B) α decreases. An interpretation
+of the be
+
+  -------- ------- -------- ------------ -------- ----------- ------------------------ ---
+  Sample    Batch    Mass      Anneal     T_(c)    λ_(ab)(0)   α = Δ [λ /λ(0)]/ΔT^(β)   β
+  A           I     108 μg   O₂ 300 bar    68 K     1900 Å         15.4×10⁻⁵ K⁻²        2
+  B          II     300 μg    as grown     89 K     2200 Å         9.15×10⁻⁵ K⁻²        2
+                                 Ar        87 K     2300 Å         7.24×10⁻⁵ K⁻²        2
+                                 O₂       71.5 K    2000 Å         12.3×10⁻⁵ K⁻²        2
+  C          III    87 μg     as grown     88 K     2700 Å         9.03×10⁻⁵ K⁻²        2
+                                 O₂        80 K     2250 Å         8.42×10⁻⁵ K⁻²        2
+  D          IV     190 μg    as grown     94 K     2050 Å         3.92×10⁻³ K⁻¹        1
+                                 Ar        80 K     2700 Å         3.93×10⁻³ K⁻¹        1
+                                 O₂       85.5 K    1950 Å         2.86×10⁻³ K⁻¹        1
+  -------- ------- -------- ------------ -------- ----------- ------------------------ ---
+
+Table 2: Sample characterization. The samples were annealed in the
+sequence given in the column “Anneal.” The annealing temperature was 550
+°C–650 °C. The penetration depth is characterized by the low temperature
+behavior λ(T)/λ(0) = 1 + αT^(β) with β = 1 or β = 2. The accuracy of
+T_(c) and λ_(ab)(0) are given in the text, that of α is 3
+
+Figure 4: Temperature dependence of the normalized penetration depth.
+Sample codes are given from top to bottom in the order of the low
+temperature values (see Table 2). Due to fluctuations the curves do not
+vanish at T_(c) (see Fig. 2 and text). For comparison, the two-fluid
+model and the BCS result for clean superconductors in the weak coupling
+limit are included.
+
+Figure 3: Transition temperature T_(c) vs n_(s)/m*. The dashed lines
+interconnect the data of one sample. Arrows indicate the direction of
+increasing oxygen content.
+
+havior of the slope α is not yet known. The exponent β could be
+explained in terms of a suppression of T_(c) due to impurities as given
+by the Abrikosov-Gorkov[31] relation, which holds for both s- and d-wave
+superconductors.[8] Therefore the large maximum T_(c) of sample D can be
+linked to a small impurity concentration and, according to d-wave theory
+with resonant scattering described above, to a small crossover
+temperature T*. As the linear term has been observed in the
+experimentally accessible range above 17 K, T* at best is below 17 K. On
+the other hand, the reduced T_(c) maxima of the other batches indicate
+an increased crossover temperature T* which can explain the observed
+quadratic temperature dependence of λ_(ab)(T). Within this picture it is
+striking that D, like the others, shows the T_(c) maximum. This
+indicates that this maximum indeed is an intrinsic property of the
+superconducting state and not an artifact of, e.g., impurities
+introduced by doping. The microscopic origin of the resonant scattering
+in HTSC’s is not yet known, as was pointed out by the authors of Ref.
+[8].
+
+In conclusion, we have shown that for the highly anisotropic
+superconductor Bi₂Sr₂CaCu₂O_(8 + δ) the penetration depth λ_(ab)(T) can
+be determined from the reversible magnetization. High sensitivity torque
+magnetometry allows the measurement of both the temperature dependence
+of λ_(ab)(T) with high resolution and its absolute value with high
+accuracy. Because T_(c) and the penetration depth depend sensitively on
+the cation and oxygen stoichiometry, the comparison of experimental data
+requires care. A linear temperature dependence of λ_(ab)(T) at low
+temperatures is observed in conjunction with a high maximum T_(c). It is
+noticeable that the linear temperature dependence remains unchanged upon
+oxygen doping. Samples with significantly reduced T_(c) show a quadratic
+temperature dependence. These results are consistent with a
+d_(x² − y²)-wave model with resonant impurity scattering.
+
+The authors wish to thank D. Einzel, G. Hechtfischer, C. Reimann, B.
+Schey, K. Schlenga, and W. Walkenhorst for valuable discussions. Partial
+financial support by the Bayerische Forschungsstiftung via the FORSUPRA
+consortium is gratefully acknowledged.
+
+## References
+
+* [1] Y. J. Uemura _et al._, Phys. Rev. Lett. **62**, 2317 (1989);
+**66**, 2665 (1991). * [2] M. Weber _et al._, Phys. Rev. B **48**, 13
+022 (1993). * [3] M. Daumling and G. V. Chandrasekhar, Phys. Rev. B
+**46**, 6422 (1992). * [4] B. Muhlschlegel, Z. Phys. **155**, 313
+(1959). * [5] J. Annett, N. Goldenfeld, and S. R. Renn, Phys. Rev. B
+**43**, 2778 (1991). * [6] F. Gross, B. S. Chandrasekhar, D. Einzel, K.
+Andres, P. J. Hirschfeld, H. R. Ott, J. Beuers, Z. Fisk, and J. L.
+Smith, Z. Phys. B **64**, 175 (1986). * [7] P. Arberg, M. Mansor, and J.
+P. Carbotte, Solid State Commun. **86**, 671 (1993). * [8] P. J.
+Hirschfeld and N. Goldenfeld, Phys. Rev. B **48**, 4219 (1993). * [9] O.
+M. Froehlich, H. Schulze, R. Gross, A. Beck, and L. Alff, Phys. Rev. B
+**50**, 13 894 (1994); J. E. Sonier _et al._, Phys. Rev. Lett. **72**,
+744 (1994); W. N. Hardy, D. A. Bonn, D. C. Morgan, R. Liang, and K.
+Zhang, _ibid._**70**, 3999 (1993). * [10] M. R. Beasley, Physica C
+**209**, 43 (1993); Z. Ma _et al._, Phys. Rev. Lett. **93**, 781
+(1993). * [11] D. Achkar, M. Poirier, D. A. Bonn, R. Liang, and W. N.
+Hardy, Phys. Rev. B **48**, 13 184 (1993). * [12] S. M. Anlage _et al._,
+Phys. Rev. B **44**, 9764 (1991); N. Klein _et al._, Phys. Rev. Lett.
+**71**, 3355 (1993). * [13] A. Maeda, T. Shibauchi, N. Kondo, K.
+Uchinokura, and M. Kobayashi, Phys. Rev. B **46**, 14 234 (1992). * [14]
+F. Steinmeyer, R. Kleiner, P. Muller, H. Muller, and K. Winzer,
+Europhys. Lett. **25**, 459 (1994). * [15] P. H. Kes _et al._, Phys.
+Rev. Lett. **67**, 2383 (1991). * [16] W. E. Pickett, Rev. Mod. Phys.
+**61**, 433 (1989); A. I. Beskrovnyi _et al._, Physica C **166**, 79
+(1990). * [17] V. G. Kogan, M. M. Fang, and S. Mitra, Phys. Rev. B
+**38**, 11 958 (1988). * [18] Z. Hao and J. R. Clem, Phys. Rev. Lett.
+**67**, 2371 (1991). * [19] D. Feinberg, Physica C **194**, 126
+(1992). * [20] M. Tinkham, _Introduction to Superconductivity_
+(McGraw-Hill, New York, 1975). * [21] B. Pumpin _et al._, Phys. Rev. B
+**42**, 8019 (1990). * [22] F. X. Regi, J. Schneck, H. Savary, C.
+Daguet, and F. Huet, IEEE Trans. Appl. Supercond. **1**, 1190 (1993).
+
+Figure 5: Penetration depth vs temperature at low temperatures. Samples
+A, B, and C show a parabolic dependence (a) whereas sample D shows a
+linear behavior (b).
+
+* (23) M. Runde _et al._, Phys. Rev. B **45**, 7375 (1992). * (24) J. H.
+Cho, Z. Hao, and D. C. Johnston, Phys. Rev. B **46**, 8679 (1992). *
+(25) V. G. Kogan, M. Ledvij, A. Y. Simonov, J. H. Cho, and D. C.
+Johnston, Phys. Rev. Lett. **70**, 1870 (1993). * (26) T. Staufer, R.
+Nemetschek, R. Hackl, P. Muller, and H. Veith, Phys. Rev. Lett. **68**,
+1069 (1992). * (27) R. Kleiner, F. Steinmeyer, G. Kunkel, and P. Muller,
+Phys. Rev. Lett. **68**, 2394 (1992). * (28) M. Boekholt, M. Hoffmann,
+and G. Guntherodt, Physica C **175**, 127 (1991). * (29) C. Allgeier and
+J. S. Schilling, Physica C **168**, 499 (1990); W. A. Groen, D. M. de
+Leeuw, and L. F. Feiner, _ibid._**165**, 55 (1990). * (30) B. S.
+Chandrasekhar and D. Einzel, Ann. Phys. (Leipzig) **2**, 535 (1993). *
+(31) A. A. Abrikosov and L. P. Gor’kov, Zh. Eksp. Teor. Fiz. **39**,
+1781 (1960) [Sov. Phys. JETP **12**, 1243 (1960)].

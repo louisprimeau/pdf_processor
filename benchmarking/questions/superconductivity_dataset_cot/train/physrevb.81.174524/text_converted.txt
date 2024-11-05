@@ -1,0 +1,681 @@
+Electron-doping evolution of the low-energy spin excitations in the iron
+arsenide superconductor BaFe_(2 − x)Ni_(x)As₂
+
+Miaoyin Wang,¹ Huiqian Luo,² Jun Zhao,¹ Chenglin Zhang,¹ Meng
+Wang,^(2, 1) Karol Marty,³ Songxue Chi,⁴ Jeffrey W Lynn,⁴ Astrid
+Schneidewind,^(5, 6) Shiliang Li,^(2, 8) and Pengcheng Dai^(1, 2, 3, †)
+
+¹Department of Physics and Astronomy, The University of Tennessee,
+Knoxville, Tennessee 37996-1200, USA
+
+²Beijing National Laboratory for Condensed Matter Physics and Institute
+of Physics, Chinese Academy of Sciences, P.O. Box 603, Beijing 100190,
+China
+
+³Neutron Scattering Science Division, Oak Ridge National Laboratory, Oak
+Ridge, Tennessee 37831-6393, USA
+
+⁴NIST Center for Neutron Research, National Institute of Standards and
+Technology, Gaithersburg, Maryland 20899, USA
+
+⁵Gemeinsame Forschergruppe HZB, Helmholtz-Zentrum Berlin fur Materialien
+and Energie, D-14109 Berlin, Germany
+
+⁶Forschungszentrumenquelle Heinz Maier-Leibnitz (FRM-II), TU Munchen,
+D-85747 Garching, Germany
+
+###### Abstract
+
+We use elastic and inelastic neutron scattering to systematically
+investigate the evolution of the low-energy spin excitations of the iron
+arsenide superconductor BaFe_(2 − x)Ni_(x)As₂ as a function of nickel
+doping x. In the undoped state, BaFe₂As₂ exhibits a
+tetragonal-to-orthorhombic structural phase transition and
+simultaneously develops a collinear antiferromagnetic (AF) order below
+T_(N)=143 K. Upon electron doping of x=0.075 to induce bulk
+superconductivity with T_(c)=12.2 K, the AF ordering temperature reduces
+to T_(N)≈58 K. We show that the appearance of bulk superconductivity in
+BaFe_(2.925)Ni_(0.073)As₂ coincides with a dispersive neutron spin
+resonance in the spin excitation spectra and a reduction in the static
+ordered moment. For optimally doped BaFe_(1.9)Ni_(0.13)As₂ (T_(c)=20 K)
+and overdoped BaFe_(1.85)Ni_(0.15)As₂ (T_(c)=14 K) superconductors, the
+static AF long-range order is completely suppressed and the spin
+excitation spectra are dominated by a resonance and spin gap at lower
+energies. We determine the electron-doping dependence of the neutron
+spin resonance and spin gap energies and demonstrate that the
+three-dimensional nature of the resonance survives into the overdoped
+regime. If spin excitations are important for superconductivity, these
+results would suggest that the three-dimensional characters of the
+electronic superconducting gaps are prevalent throughout the phase
+diagram and may be critical for superconductivity in these materials.
+
+pacs: 14 February 2010; revised manuscript received 26 April 2010;
+published 24 May 2010
+
+## I Introduction
+
+An experimental determination of the doping evolution of the spin
+excitations in iron arsenide superconductors [1, 2, 3, 4] is important
+for a comprehensive understanding of the role of magnetism in the
+superconductivity of these materials. Like high-transition temperature
+(high-T_(c)) copper oxides, the parent compounds of iron arsenide
+superconductors exhibit static antiferromagnetic (AF) long-range order
+with a collinear spin structure. [5, 6, 7, 8] Although there is
+currently no consensus on a microscopic mechanism for superconductivity,
+spin excitations have been postulated by several theories to play a
+crucial role in the electron pairing and superconductivity of these
+materials. [9, 10, 11, 12, 13] In one class of unconventional
+microscopic theories for superconductivity, electron pairing in iron
+arsenide superconductors is mediated by quasiparticle excitations
+between sign-reversed holelike pockets around the Γ point and the
+electronlike Fermi pockets around the M point as shown in the inset of
+Fig. 1(a). [14] If this is indeed the case, spin excitations in the
+superconducting state should have a collective mode called the neutron
+spin resonance, whose energy is at (or slightly less than) the addition
+of the hole and electron superconducting gap energies
+[E=|Δ(k + Q) + Δ(k)|], where Q is the AF ordering wave vector connecting
+the hole and electron Fermi pockets at the Γ and M points,
+respectively]. [15, 16, 17, 18] Although recent inelastic neutron
+scattering experiments have found the neutron spin resonance for
+different iron-based superconductors consistent with this picture, [19,
+20, 21, 22, 23, 24, 25, 26, 27] a surprising result has been found that
+the mode in the optimally doped BaFe_(1.9)Ni_(0.1)As₂ (T_(c)=20 K) has
+three-dimensional character as demonstrated by clear dispersion of the
+mode energy along the c axis. [21, 22] These results are quite different
+from the two-dimensional nature of the resonance in copper oxide
+superconductors. [28, 29, 30, 31, 32, 33] If spin excitations are
+important for superconductivity in iron arsenides, it would be
+interesting to systematically investigate the doping evolution of the
+resonance in BaFe_(2 − x)Ni_(x)As₂ and determine if the
+three-dimensional nature of the mode is a general phenomenon or specific
+only to the optimally doped materials. Furthermore, since spin waves in
+the AF-ordered parent compounds of (Ba, Sr, Ca)Fe₂As₂ have rather large
+anisotropy spin gaps at the AF zone center [34, 35, 36, 37, 38, 39] and
+spin excitations in the optimally electron-doped superconducting samples
+are generally gapless in the nonsuperconducting normal state, [20, 21,
+22, 26] it would be important to see how spin waves in the parent
+compounds evolve as electrons are doped into the FeAs planes.
+
+In this paper, we report our inelastic neutron scattering studies of the
+low-energy spin excitations in electron-doped BaFe_(2 − x)Ni_(x)As₂,
+with x=0.075, 0.15 [Fig. 1(a)], and compare and contrast them to the
+spin excitations observed at optimal doping and in the lightly doped
+regime. Before Ni doping, BaFe₂As₂ exhibits simultaneous structural and
+magnetic phase transitions below T_(s)=T_(N)=143 K, changing the crystal
+lattice symmetry from the high-temperature tetragonal to the
+low-temperature orthorhombic phase. [7] Upon doping elec trons via
+either Co or Ni substitution for Fe, the structural and magnetic phase
+transitions are separated.[40, 41, 42] For x =0.04 Ni doping, the
+structural and magnetic phase transition temperatures of
+BaFe_(1.96)Ni_(0.04)As₂ become near 97 and 91 K, respectively.[43] In
+addition, three-dimensional spin waves in BaFe₂As₂ change into
+quasi-two-dimensional spin excitations for BaFe_(1.96)Ni_(0.04)As₂ with
+no evidence for the neutron spin resonance[43] or bulk
+superconductivity.[4] By increasing the Ni doping x to 0.075 to form
+BaFe_(1.925)Ni_(0.075)As₂ [Fig. 1(a)], bulk superconductivity appears at
+_T_(c)_=12.2 K [Fig. 1(b)] and the Neel temperature of the material is
+now reduced to _T_(N)_=58 K [Figs. 1(d) and 1(e)]. Our inelastic neutron
+scattering experiments show the presence of a three-dimensional neutron
+spin resonance with distinct energies at the AF wave vectors Q =(0.5,
+0.5, 0) and (0.5,0.5,1), quite similar to that of the optimally doped
+BaFe_(1.9)Ni_(0.13)As₂.[21, 22] The intensity gain of the mode below
+_T_(c)_ is compensated by opening a pseudo- (not complete) spin gap at
+lower energies and reduction in the static AF order [see inset in Fig.
+1(d)].
+
+To study the doping evolution of the resonance, we also carried out
+inelastic neutron scattering experiments on overdoped
+BaFe_(1.85)Ni_(0.15)As₂ [_T_(c)_=14 K, Fig. 1(c)] and found that the
+energy of the mode is approximately proportional to _T_(c)_. Our elastic
+neutron scattering measurements indicate that the static
+antiferromagnetism has been completely suppressed, while the neutron
+spin resonance in the superconducting state exhibits similar dispersion
+along the c axis as the underdoped and optimally doped materials. This
+suggests that the three-dimensional nature of the resonance energy and
+its associated superconducting gap energy Δ are prevalent throughout the
+superconducting electronic phase diagram. These results can also provide
+information needed for calculating the electron-doping dependence of the
+AF coupling between the layers and estimating the doping dependence of
+the superconducting gap energy.
+
+## II Experimental Details
+
+In two recent inelastic neutron scattering experiments on underdoped
+BaFe_(1.90)Co_(0.094)As₂ (_T_(c)_=15 K) (Ref. [24]) and
+BaFe_(1.92)Co_(0.08)As₂ (_T_(c)_=11 K),[23] static AF order was found to
+coexist with superconductivity and cooling below _T_(c)_’s in these
+samples induced a weak neutron spin resonance in the magnetic excitation
+spectra at the expense of elastic magnetic scattering.[24, 25] For
+BaFe_(2 − x)Ni_(x)As₂, bulk superconductivity appears only when x ≥
+0.05.[4] To compare the electronic phase diagram of
+BaFe_(2 − x)Ni_(x)As₂ to Co-doped materials and see the effect of
+superconductivity on the spin excitations, we chose to study underdoped
+BaFe_(1.925)Ni_(0.075)As₂ (where Ni concentration is nominal, which is
+close to the actual Ni-value based on previous work[3, 4]) and overdoped
+BaFe_(1.85)Ni_(0.15)As₂ superconductors. The temperature dependence of
+the susceptibility in Figs. 1(b) and 1(c) show _T_(c)_’s of 12.2 and 14
+K for BaFe_(1.925)Ni_(0.075)As₂ and BaFe_(1.85)Ni_(0.15)As₂,
+respectively. Based on these data, we estimate that the superconducting
+volume fractions for both samples are approximately 100
+
+We grew single crystals of BaFe_(2 − x)Ni_(x)As₂, with x =0.075, 0.15,
+using the self-flux method.[3] Our neutron scat
+
+Figure 1: (Color online) (a) Electronic phase diagram of
+BaFe_(2 − x)Ni_(x)As₂ as determined from our previous (Refs. [21, 22,
+43]) and current neutron scattering works. Inset shows schematic
+illustration of quasiparticle excitations from the hole pocket at the Γ
+point to the electron pocket at the M point as predicted by various
+theories (Refs. [15, 16, 17, 18]). [(b) and (c)] Temperature dependence
+of the Meissner and shielding signals on thin slabs of
+BaFe_(1.925)Ni_(0.075)As₂ (_V_ =2.17×0.76×0.058 mm³ and mass 0.62 mg)
+and BaFe_(1.85)Ni_(0.15)As₂ (_V_ =4.16×1.16×0.092 mm³ and mass 2.88 mg).
+These measurements were taken in zero-field cooling (ZFC) with 5 Oe
+applied field along the thin slab’s direction. The superconducting
+volume fractions were estimated to be about 100
+
+tering experiments were carried out on the HB-3, HB-1 thermal
+triple-axis spectrometers at the high-flux-isotope reactor (HFIR), Oak
+Ridge National Laboratory,[34] the BT-7 thermal triple-axis spectrometer
+at the NIST Center for Neutron Research,[22] and the PANDA cold
+triple-axis spectrometer at the Forschungsneutronenquelle Heinz
+Maier-Leibnitz (FRM-II), TU Munchen.[21] We defined the wave vector Q at
+(q_(x), q_(y), q_(z)) as (H, K, L)=(q_(x)/2 π,q_(y)/2 π,q_(z)/2 π)
+reciprocal lattice units (ru) using the tetragonal nuclear unit cell,
+where a=3.89 A, b=3.89 A, and c=12.77 A. We coaligned about 6 g for each
+of the x=0.075, 0.15 samples of BaFe_(2 − x)Ni_(x)As₂ in the [H, H, L]
+horizontal scattering plane (with mosaicity ∼3^(∘) for each of the
+crystal assembly) and put our samples inside either a closed cycle
+refrigerator or a liquid He cryostat.
+
+For thermal triple-axis measurements on HB-1, HB-3, and BT-7, we used
+pyrolytic graphite (PG) as monochromator and analyzer with typical
+collimations of open-40^(′)−S−40^(′)−120^(′). The final neutron energy
+was chosen to be either E_(f) =13.5 meV or E_(f)=14.7 meV with a PG
+filter before the analyzer. For cold triple-axis measurements on PANDA,
+we chose a final neutron energy of E_(f)=5.0 meV with a cooled Be filter
+in front of the analyzer. We used both horizontal and vertical focusing
+PG monochromator and analyzer with no collimators. We also used a
+E_(f)=13.5 meV setup with a PG filter in one of the PANDA measurements.
+For E_(f) =5.0 meV and E_(f)=13.5 meV setups, the instrumental energy
+resolutions are about 0.15 and 1.2 meV, respectively.
+
+## III III. Results and discussions
+
+We first describe our elastic and quasielastic neutron scattering
+results on the underdoped BaFe_(1.928)Ni_(0.075)As₂. Consistent with
+earlier results on underdoped BaFe_(1.906)Co_(0.094)As₂ (Ref. [24]) and
+BaFe_(1.92)Co_(0.08)As₂ (Ref. [25]), the AF structure of the
+BaFe_(1.925)Ni_(0.075)As₂ sample reported here is identical to the
+undoped parent compound but with a Neel T_(N)_’=_ 58 K [Fig. 1(c)]. The
+temperature dependence of the quasielastic scattering at Q = (0.525,
+0.525, 1) and E =1.5 meV shows a clear kink below ∼58 K, thus confirming
+the Neel temperature of the system. The inset in Fig. 1(d) shows the
+expanded temperature dependence of the AF Bragg peak intensity at Q =
+(0.5, 0.5, 3). The scattering decreases with decreasing temperature at
+the onset of T_(c), suggesting that the static moment competes with
+superconductivity similar to the Co-doped materials.[24; 25]
+
+To see if there is a neutron spin resonance mode in underdoped
+BaFe_(1.925)Ni_(0.075)As₂ and to compare its c-axis dispersion with
+optimally doped BaFe_(1.93)Ni_(0.1)As₂,[21] we carried out constant-Q
+scans at Q= (0.5, 0.5, 0) and (0.5, 0.5, 1) above and below the
+superconducting transition temperature T_(c). Figure 2(a) shows the raw
+data collected on the HB-3 triple-axis spectrometer at the signal
+Q=(0.5, 0.5, 0) and background Q = (0.7, 0.7, 0) positions. There is
+clear intensity gain at Q=(0.5, 0.5, 0) near E=7 meV below T_(c) at the
+expense of spectral weight loss below ∼4 meV. The temperature difference
+spectrum between 2 and 20 K in Fig. 2(b) confirms the presence of the
+mode at E=7 meV below T_(c) and a reduction in spectral weight below 4
+meV. The open squares in Fig. 2(a) show the energy dependence of the
+background scattering at Q = (0.7, 0.7, 0).
+
+Figure 3 summarizes constant-energy scans at E=7 and 3 meV along the
+[H, H, 0] direction. At the resonance energy, the scattering shows a
+well-defined peak centered at Q =(0.5, 0.5, 0) that increases in
+intensity below T_(c) [Fig. 3(a)]. Figure 3(b) shows the temperature
+difference plot which confirms that the intensity gain below T_(c) in
+Fig. 2(a) occurs at Q = (0.5, 0.5, 0). Similarly, constant-energy scans
+at E =3 meV above and below T_(c) in Fig. 3(c) reveal clear normal state
+magnetic scattering that is not completely suppressed (gapped) below
+T_(c) at E=3 meV. Since the energy resolution of these thermal
+triple-axis measurements is about 1.5 meV full width at half maximum, we
+simply do not know if the system is gapped at energies below 2.5 meV in
+the superconducting state. Future cold neutron triple-axis measurements
+are necessary to resolve this issue.
+
+Figure 2(c) shows our estimation of the energy dependence of the dynamic
+susceptibility χ^(′′)(Q, ω) above and below T_(c), obtained by
+subtracting the background and correct
+
+Figure 2: (Color online) (a) Energy scans at Q=(0.5, 0.5, 0) (signal)
+and Q=(0.7, 0.7, 0) (background) positions above and below T_(c) for
+BaFe_(1.925)Ni_(0.075)As₂. (b) Temperature difference plot (low
+temperature minus high temperature) in S(Q, ω) shows a clear neutron
+spin resonance at E=7 meV below T_(c). Solid line is a guide to the eye.
+(c) Estimation of the temperature dependence of χ^(′′)(Q, ω) above and
+below T_(c) using the background determined both from constant-energy
+scans and from constant-Q scans at background position.
+
+ing for the Bose population factor using χ^(′′)(Q, ω) = [1 - exp( -
+ℏω/k_(B)T)]S(Q, ω), where E = ℏω. While the normal state susceptibility
+appears to increase linearly with energy, superconductivity rearranges
+the spectrum, creating a (pseudo) spin gap below 4 meV (defined as a
+suppression of spin fluctuations) and a neutron spin resonance at E = 7
+meV for in-phase spin fluctuations along the c axis (L = 0).
+
+To investigate the behavior for the out-of-phase spin fluctuations along
+the c axis, we plot in Fig. 4(a) constant-Q scans at Q = (0.5, 0.5, 1)
+above and below T_(c). Figure 4(b) shows the temperature difference
+plot, and a comparison of Figs. 4(b) and 2(b) immediately reveals that
+the neutron spin resonance has moved from E = 7 meV at Q = (0.5, 0.5, 0)
+to E = 5 meV at Q = (0.5, 0.5, 1). Note in particular that for Q = (0.5,
+0.5, 0), there is essentially no change with temperature for the
+scattering at 5 meV (Fig. 2), which is where the maximum in intensity
+occurs at the Q = (0.5, 0.5, 1) position. This is compelling evidence
+that the neutron spin resonance is dispersive for both underdoped and
+optimally doped BaFe_(2 − x)Ni_(x)As₂. Figure 4(c) plots our estimated
+energy dependence of χ^(′′)(Q, ω) above and below T_(c).
+
+Figure 5 shows constant-energy scans along the [H, H, 1] direction and
+the temperature difference data between 2 and 20 K for E = 2.5, 5.5 meV.
+Similar to the [H, H, 0] scans in Fig. 3, we find that superconductivity
+only reduces but does not completely suppress the magnetic scattering at
+E = 2.5 meV [Figs. 5(a) and 5(b)]. Similarly, the scattering near the
+resonance energy at E = 5.5 meV shows a clear increase below T_(c). To
+test if the intensity gain at E = 7 and Q = (0.5, 0.5, 0) is responding
+to superconductivity, we show in Fig. 6 the temperature dependence of
+the scattering, which clearly increases below T_(c) consistent with the
+temperature dependence of the neutron spin resonance.[19; 22; 24; 25;
+26]
+
+To determine the c-axis modulation of the spin excitations at different
+temperatures and energies, we show in Figs. 7-9 constant-energy scans
+along the Q = (0.5, 0.5, L) (signal) and Q = (0.7, 0.7, L) (background)
+directions at E = 3, 5.5, and 7 meV, respectively. Inspection of the
+data immediately suggests that the scattering is antiferromagnetically
+correlated between the layers along the c axis. To model the AF spin
+correlations along the c axis, we assume their structure factor is
+similar to that of [44]f(Q_(z)) = F²(Q)[S₀ + Σ{S_(L₀)exp (−L₀)²/2σ²}]},
+where F(Q) is the magnetic form factor,[45]L = Q_(z)c/2π, L₀ = ± 1, ±
+3,..., σ is the width of the Gaussian
+
+Figure 4: (Color online) (a) Constant-Q scans at Q = (0.5, 0.5, 1) above
+and below T_(c) for BaFe_(1.928)Ni_(0.075)As₂. The scattering shows
+clear asymmetric enhancement around E = 5 meV below T_(c). (b)
+Temperature difference plot reveals a neutron spin resonance at E = 5
+meV, clearly below the energy of the mode at Q = (0.5, 0.5, 0) as shown
+in Fig. 2.
+
+Figure 3: (Color online) (a) Constant-energy scans near the resonance
+energy (E = 7 meV) along the (H, H, 0) direction across T_(c) for
+BaFe_(1.925)Ni_(0.075)As₂. The scattering clearly increases at the Q =
+(0.5, 0.5, 0) below T_(c). The small peak at Q = (0.6, 0.6, 0) is
+spurious. (b) Temperature difference plot confirms the intensity gain at
+Q = (0.5, 0.5, 0) below T_(c). (c) Wave-vector scans at E = 3 meV. Here,
+the scattering at Q = (0.5, 0.5, 0) decreases below T_(c) but there is
+no spin gap at E = 3 meV. The scattering near Q = (0.57, 0.57, 0) in the
+normal state is spurious.
+
+which gives the correlation length of the spin excitations along the c
+axis, and S₀ and S_(L₀) are fitting parameters for constant magnetic rod
+scattering along any L and maximum magnetic intensity at odd values of
+L, respectively.
+
+Figure 7 shows the temperature dependence of the magnetic scattering at
+E=3 meV along the c axis. Starting from 2 and 20 K in Fig. 7(a), we see
+two clear peaks centered around Q=(0.5,0.5,1) and (0.5,0.5,−1) above the
+background. Fourier transforms of the fitted Gaussian peaks give a
+c-axis spin correlation length of ∼14 A [Fig. 7(b)]. Upon increasing
+temperature to 50 and 70 K, the magnetic peaks at Q=(0.5,0.5,1) and
+(0.5,0.5,−1) reduce in intensity but the c-axis spin-spin correlations
+appear not to be affected [Fig. 7(c)]. To test if the magnetic
+scattering below T_(N) simply follows the Bose population factor as
+expected for classical spin waves excitations, we show in Fig. 7(d) the
+temperature dependence of the magnetic scattering normalized to the
+scattering at 2 K. The observed magnetic scattering clearly does not
+obey the Bose population factor, suggesting that the spin excitations in
+the doped materials are not simple spin waves, in contrast to the
+(undoped) parent compounds.[34]
+
+To probe the L dependence of the magnetic scattering at the neutron spin
+resonance energies, we show in Figs. 8 and 9 constant-energy scans at
+E=5.5 and 7 meV, respectively. Consistent with constant-energy scan data
+at E=3 meV (Fig. 7), the magnetic scattering is still centered at L= ±
+1, ± 3 positions and superconductivity has a relatively small effect on
+the overall magnetic scattering. Comparison of Figs. 2, 4, 8, and 9
+reveals that the neutron spin resonance so clearly illustrated in the
+temperature difference scattering is a rather subtle effect that occurs
+at both L=0 and L=1 [Figs. 8(c) and 9(a)]. On warming to 50 and 70 K,
+the magnetic scattering decreases but the c-axis spin correlation length
+of ∼14 A appears to be fairly temperature independent. The solid line in
+Fig. 8(a) shows Gaussian fits to the data at 70 K, which appear to
+describe the data reasonably well. However, the decrease in the magnetic
+scattering along the c-axis direction clearly falls off faster than just
+the Fe²⁺ form factor at temperatures near T_(c) as shown in Fig.
+8(c).[45] Similar results are also seen for spin excitations at E=7 meV
+as shown in Fig. 9(a) near T_(c). If we assume that the spins prefer to
+lie in the a-b plane as is the case for the AF undoped system, an
+additional reduction in intensity is expected due to the neutron
+spin-Fe-spin orientation factor. This suggests that the spins prefer to
+lie within the tetragonal a-b plane even in superconducting samples at
+low temperatures.
+
+Having described our comprehensive measurements on the underdoped
+BaFe_(1.92)Ni_(0.075)As₂, we now discuss inelastic neutron scattering
+experiments on the overdoped BaFe_(1.85)Ni_(0.15)As₂ [Figs. 1(a) and
+1(c)], where the static AF order is completely suppressed. These
+measurements were carried out on the PANDA cold triple-axis
+spectrometer. Fig
+
+Figure 6: (Color online) (a) Temperature dependence of the E =7 meV
+scattering at Q=(0.5,0.5,0) for BaFe_(1.925)Ni_(0.075)As₂. The
+scattering increases in intensity below T_(c) of 12.2 K.
+
+Figure 5: (Color online) (a) Q-scans along the (H, H, 1) direction at
+E=2.5 meV above and below T_(c) for BaFe_(1.925)Ni_(0.075)As₂. (b)
+Temperature difference plot shows that the scattering at Q =(0.5,0.5,1)
+and E=2.5 meV decreases below T_(c). (c) Identical Q-scans across T_(c)
+at the resonance energy of E=5.5 meV. The scattering enhances below
+T_(c). (d) Temperature difference plot between 2 and 20 K, showing clear
+field-induced scattering below T_(c) at Q=(0.5,0.5,1).
+
+Figure 10 summarizes the constant-Q scans at Q=(0.5,0.5,0) and
+(0.5,0.5,1) below and above T_(c). Using E_(f)=5 meV, we find in Figs.
+10(b) and 10(d) that the neutron spin resonance occurs at E=6 meV for
+Q=(0.5,0.5,1). Since the effect of the Bose factor for temperatures
+between 4 and 20 K is not so important for spin excitations with
+energies near 6 meV, the intensity gain at Q=(0.5,0.5,1) below T_(c) in
+Fig. 10(d) must arise from the increased χ^(′)(Q, ω). Similar scans at Q
+=(0.5,0.5,0) reveal clear scattering intensity enhancement above E=5 meV
+[Figs. 10(a) and 10(c)]. However, kinematic constraints with the E_(f)=5
+meV spectrometer configuration did not allow a conclusive determination
+of the resonance energy. Figure 10(g) shows identical scans carried out
+with E_(f)=13.5 meV. Inspection of Figs. 10(g) and 10(h) indicates that
+the resonance energy at Q=(0.5,0.5,0) is now shifted to E=8 meV. To
+estimate the spin gap values in the
+
+Figure 8: (Color online) Constant-energy scans along the (0.5,0.5,L)
+(signal) and (0.7,0.7,L) (background) directions at the resonance energy
+of E=5.5 meV and various temperatures. (a) c-axis scattering at 70 K.
+Solid line shows the Gaussian fits to the data using Fe²⁺ form factor,
+which describes the data reasonably well. (b) Signal and background
+scattering at 50 K. The data again show clear peaks at L= ± 1 but much
+weaker peaks at L= ± 3. (c) Signal and background scattering at 2 and 20
+K. Superconductivity clearly enhances magnetic scattering at L=0 and L=
+± 1. The spin-spin correlation length is again about 14 Å and is weakly
+temperature dependent in the probed temperature range (2–70 K).
+
+Figure 7: (Color online) Constant-energy scans along the (0.5,0.5,L)
+(signal) and (0.7,0.7,L) (background) directions at E =3 meV and various
+temperatures. (a) The scattering at 2 and 20 K shows well-defined peaks
+centered at L= ± 1. Fourier transform of these peaks gives a c-axis
+spin-spin correlation length of ∼14 Å. (b) Signal and background
+scattering at 2 K. Solid lines are Gaussian fits to the data. Dashed
+line shows the expected magnetic scattering at Q=(0.5,0.5,3) assuming
+Fe²⁺ form factor. The absence of clear peaks at L= ± 3 suggests that
+magnetic scattering in BaFe_(1.925)Ni_(0.075)As₂ damps out much faster
+than expected. (c) Similar scans at 50 and 70 K. (d) Solid lines show
+the effect of Bose population factor as a function of increasing
+temperature if one normalizes the magnetic scattering above background
+at 2 K. The magnetic intensity changes in the system clearly do not obey
+the Bose statistics, indicating that the scattering is not spin waves.
+
+superconducting state of BaFe_(1.85)Ni_(0.15)As₂ at Q =(0.5, 0.5, 0) and
+(0.5,0.5,1), we plot in Figs. 10(e) and 10(f) χ^(′′)(Q, ω) at
+temperatures above and below T_(c), obtained by subtracting the
+backgrounds and correcting for the Bose population factor in Figs. 10(a)
+and 10(b). It is clear that spin excitation spectra have spin gaps in
+the superconducting state similar to previous work on optimally doped
+BaFe_(1.85)Ni_(0.15)As₂.[22]
+
+To confirm the presence of a spin gap in the superconducting state of
+BaFe_(1.85)Ni_(0.15)As₂, we took constant-energy scans along the
+[H, H, 0] and [H, H, 1] directions above and below T_(c) for E=1 meV.
+Figures 11(a) and 11(b) show that spin excitations of
+BaFe_(1.85)Ni_(0.15)As₂ are gapless in the normal state for both L=0 and
+1 rh. On cooling to the superconducting state at 4 K, the broad peaks
+centered at Q = (0.5, 0.5, 0) and (0.5,0.5,1) are suppressed and the
+scattering become featureless. This is consistent with constant-Q scans
+in Fig. 10, where χ^(′′)(Q, ω) opens a spin gap below ∼2.5 meV. Assuming
+that the background does not change substantially between 20 and 4 K
+[Figs. 11(a) and 11(b)] and the low-temperature scattering at E=1 meV is
+entirely nonmagnetic, the difference plots between 20 and 4 K shown in
+Figs. 11(c) and 11(d) demonstrate that the normal state magnetic
+scattering is broad and centered at Q=(0.5, 0.5, 0) and (0.5,0.5,1),
+respectively. Figures 11(e) and 11(f) show wave-vector scans at the
+expected resonance energies for Q = (0.5, 0.5, 0) and (0.5,0.5,1). In
+both cases, we find clear intensity enhancement below T_(c). The
+negative slope in the data may arise from low 2θ angle in the scattering
+process. The temperature-dependent scattering at Q=(0.5, 0.5, 0) and
+
+Figure 10: (Color online) Summary of constant-Q scans at various
+temperatures for BaFe_(1.85)Ni_(0.15)As₂ with E_(f)=5 and 13.5 meV. (a)
+Energy dependence of scattering at Q=(0.5, 0.5, 0) above and below
+T_(c). The scattering shows a clear drop in intensity below E =4 meV and
+enhancement around 8 meV. One can only probe magnetic scattering below
+E=9 meV due to kinematic constraints with E_(f)=5 meV. Circles are
+background scattering estimated from constant-energy scans at E=1, 4,
+and 6 meV. (b) Energy dependence of the scattering above and below
+T_(c), now at Q =(0.5, 0.5, 1). (c) Temperature difference plot between
+4 and 20 K showing the intensity gain below T_(c) near E=8 meV. (d)
+Temperature difference data confirm the formation of the neutron spin
+resonance at E=6 meV. (e) Our estimated χ^(′′)(Q, ω) for
+BaFe_(1.85)Ni_(0.15)As₂ above and below T_(c) at Q=(0.5, 0.5, 0), after
+subtracting the background and correcting for the Bose factor. The
+magnitude of the superconducting spin gap is about E=2.5 meV. (f)
+χ^(′′)(Q, ω) for BaFe_(1.85)Ni_(0.15)As₂ above and below T_(c) at Q
+=(0.5, 0.5, 1). The system again has a spin gap of ∼2 meV in the
+superconducting state. (g) Identical scan as that of (a) except we used
+E_(f)=13.5 meV. Superconductivity-induced neutron spin resonance can now
+be seen around E=8 meV. (h) Temperature difference plot confirms the
+presence of the resonance at E=8 meV.
+
+Figure 9: (Color online) L dependence of the magnetic scattering for
+BaFe_(1.925)Ni_(0.075)As₂. (a) Identical scans as Fig. 8 except we now
+change the excitation energy to E=7 meV. Comparison of the 2 and 20 K
+data here indicates that the magnetic scattering enhancement below T_(c)
+at L=0 is larger than that at L=1. (b) Signal and background scattering
+at 50 K. Solid line shows the expected L dependence of the magnetic
+scattering assuming simple Fe²⁺ form factor, which clearly fails to
+describe the data.
+
+copper oxide high-T_(c) superconductors, one of the hallmarks of the
+resonance is that its energy is proportional to T_(c) over a very wide
+temperature range.[32, 33] Since BaFe_(2 − x)Ni_(x)As₂ has two
+resonances at distinctively different energies, its dispersion along the
+c axis is related to the superconducting gap Δ₀ and its deviation δ via
+E(Q_(z)) ∼ 2Δ₀ − 2δ[sin (Q_(z)/2)].[21] The observation of a linear
+relationship for both mode energies and T_(c) suggests that
+δΔ₀=[ω(0.5, 0.5, 0)−ω(0.5, 0.5, 1)]/ω(0.5, 0.5, 0) is approximately 0.28
+and weakly Ni-doping dependent. Therefore, the ratio of interplane
+(J_(⊥)) and intraplane (J_(∥)) AF couplings, J_(⊥)/J_(∥), is weakly
+electron-doping dependent assuming that the values of Δ₀ and δ are
+proportional to J_(∥) and J_(⊥), respectively.
+
+We now discuss the physical interpretation of the above results. In the
+theory of spin-fluctuation-mediated superconductivity,[9, 10, 11, 12,
+13] the electron pairing arises from sign-reversed S-wave interband
+scattering between hole pockets centered at the Γ point and electron
+pockets at the M points [inset in Fig. 1(a)].[15, 16, 17, 18] One of the
+consequences of such electron-hole pocket excitations is to induce a
+resonance peak at the AF ordering wave vector Q=(0.5, 0.5, 0) in the
+spin excitations spectrum. In the strictly two-dimensional model, the
+energy of the resonance is at (or slightly less than) the addition of
+hole (Δ₀^(h)) and electron (Δ₀^(e)) superconducting gap energies
+(Δ₀=Δ₀^(h)+Δ₀^(e)). Our previous finding of three dimensionality of the
+resonance in optimally doped BaFe_(1.9)Ni_(0.1)As₂ (Refs. [21] and [22])
+suggests that the superconducting gap energy Δ₀ should be three
+dimensional as well and sensitive to the Q values along the c axis. The
+results reported in the present paper on underdoped
+BaFe_(1.925)Ni_(0.075)As₂ and overdoped BaFe_(1.85)Ni_(0.15)As₂ confirm
+the earlier conclusion and reveal that the three-dimensional nature of
+the superconducting gap is prevalent throughout the superconducting
+dome. If spin excitations are mediating the electron pairing for
+superconductivity, these results would suggest that the AF exchange
+coupling along the c axis (J_(⊥)) contributes significantly to the
+electron pairing. Although the overall spin excitations as a function of
+increasing electron doping transform into quasi-two-dimensional spin
+excitations rather rapidly as demonstrated by the disappearing
+anisotropic spin gaps at Q=(0.5, 0.5, 0) and (0.5,0.5,1) with increasing
+Ni doping,[43] the superconductivity-induced resonance retains its
+three-dimensional character even in the overdoped regime. This means
+that the superconducting electronic gaps in the iron-arsenic-based
+materials are three dimensional and quite different from that of the
+copper oxide superconductors.
+
+## IV Conclusions
+
+In summary, we have determined the doping evolution of the low-energy
+spin excitations in BaFe_(2 − x)Ni_(x)As₂ for both underdoped and
+overdoped superconductors. In underdoped BaFe_(1.925)Ni_(0.075)As₂, we
+find that the appearance of bulk su
+
+Figure 11: (Color online) Summary of constant-energy scans at an energy
+below the spin gap energy and at the resonance energy below and above
+T_(c). (a) Q scan along the [H, H, 0] direction below and above T_(c) at
+E=1 meV. There is a clear peak centered at (0.5,0.5,0) that disappears
+below T_(c), thus suggesting the opening of a spin gap at E=1 meV and
+(0.5,0.5,0.). (b) Similar scan along the [H, H, 1] direction, again
+indicating the opening a spin gap at E =1 meV and (0.5,0.5,1). [(c) and
+(d)] Temperature-difference plots confirm that superconductivity-induced
+spin gaps occur at (0.5,0.5,0) and (0.5,0.5,1) positions. (e)
+Constant-energy scans along the [H, H, 0] direction below and above
+T_(c) at the resonance energy of E=8 meV. (f) Similar scans at E=6 meV
+along the [H, H, 1] direction. In both cases, we find that
+superconductivity-induced changes happen at the expected wave vectors.
+(g) Temperature dependence of the scattering at E=8 meV and Q
+=(0.5, 0.5, 0). Data show clear order-parameter-like increase below
+T_(c), a hallmark of the neutron spin resonance.
+
+Figure 12: (Color online) Summary of electron-doping dependence of the
+neutron spin resonance energies at Q=(0.5, 0.5, 0) and (0.5,0.5,1) as a
+function of T_(c). Data for BaFe_(2 − x)Ni_(x)As₂ are from Refs. [21],
+[22], [43], and [46] and present work. Data for BaFe_(2 − x)Co_(x)As₂
+are from Refs. [20] and [24]–[26]. Solid lines are linear fits to the
+data.
+
+perconductivity is associated with the appearance of a weak
+three-dimensional neutron spin resonance. The spectral weight gain of
+the resonance below T_(c) is a rather small portion of the overall
+normal state magnetic scattering and is compensated by a reduction in
+the static magnetic moment. Our Ni-doping-dependent investigation of the
+spin gap and neutron spin resonance reveals that the three-dimensional
+nature of the mode found earlier for the optimally doped sample is a
+universal property of Ni-doped superconductors. These results in turn
+suggest that AF spin excitations between the layers are also important
+for the superconductivity of these materials.
+
+###### Acknowledgements.
+
+We thank Jiangping Hu and Tao Xiang for helpful discussions. The neutron
+scattering part of this work at UT/ORNL is supported by the U.S. NSF
+under Grant No. DMR-0756568 and by the U.S. DOE, Division of Scientific
+User Facilities. The single-crystal growth effort at UT is supported by
+U.S. DOE BES under Grant No. DE-FG02-05ER46202. The single-crystal
+growth and neutron-scattering work at IOP is supported by Chinese
+Academy of Sciences and 973 Program (Grant No. 2010CB833102).
+
+## References
+
+* Kamihara et al. (2008) Y. Kamihara, T. Watanabe, M. Hirano, and H.
+Hosono, J. Am. Chem. Soc. **130**, 3296 (2008). * Rotter et al. (2008)
+M. Rotter, M. Tegel, and D. Johrendt, Phys. Rev. Lett. **101**, 107006
+(2008). * Li et al. (2009) L. J. Li, Y. K. Luo, Q. B. Wang, H. Chen, Z.
+Ren, Q. Tao, Y. K. Li, X. Lin, M. He, Z. W. Zhu, G. H. Cao, and Z. A.
+Xu, New J. Phys. **11**, 025008 (2009). * Bud’ko et al. (2009) S. L.
+Bud’ko, N. Ni, and P. C. Canfield, Phys. Rev. B **79**, 220516(R)
+(2009). * de la Cruz et al. (2008) C. de la Cruz, Q. Huang, J. W. Lynn,
+J. Li, W. Ratcliff II, J. L. Zarestky, H. A. Mook, G. F. Chen, J. L.
+Luo, N. L. Wang, and P. Dai, Nature (London) **453**, 899 (2008). * Zhao
+et al. (2008) J. Zhao, Q. Huang, C. de la Cruz, S. Li, J. W. Lynn, Y.
+Chen, M. A. Green, G. F. Chen, G. Li, Z. Li, J. L. Luo, N. L. Wang, and
+P. Dai, Nat. Mater. **7**, 953 (2008). * Huang et al. (2008) Q. Huang,
+Y. Qiu, W. Bao, M. A. Green, J. W. Lynn, Y. C. Gasparovic, T. Wu, G. Wu,
+and X. H. Chen, Phys. Rev. Lett. **101**, 257003 (2008). * Zhao et al.
+(2008) J. Zhao, W. Ratcliff II, J. W. Lynn, G. F. Chen, J. L. Luo, N. L.
+Wang, J. Hu, and P. Dai, Phys. Rev. B **78**, 140504(R) (2008). * Mazin
+et al. (2008) I. I. Mazin, D. J. Singh, M. D. Johannes, and M. H. Du,
+Phys. Rev. Lett. **101**, 057003 (2008). * Chubukov (2009) A. V.
+Chubukov, Physica C **469**, 640 (2009). * Wang et al. (2009) F. Wang,
+H. Zhai, Y. Ran, A. Vishwanath, and D.-H. Lee, Phys. Rev. Lett. **102**,
+047005 (2009). * Cvetkovic and Tesanovic (2009) V. Cvetkovic and Z.
+Tesanovic, EPL **85**, 37002 (2009). * Moreo et al. (2009) A. Moreo, M.
+Daghofer, J. A. Riera, and E. Dagotto, Phys. Rev. B **79**, 134502
+(2009). * Mazin and Schmalian (2009) I. I. Mazin and J. Schmalian,
+Physica C **469**, 614 (2009). * Maier and Scalapino (2008) T. A. Maier
+and D. J. Scalapino, Phys. Rev. B **78**, 020514(R) (2008). * Maier et
+al. (2009) T. A. Maier, S. Graser, D. J. Scalapino, and P. Hirschfeld,
+Phys. Rev. B **79**, 134520 (2009). * Korshunov and Eremin (2008) M. M.
+Korshunov and I. Eremin, Phys. Rev. B **78**, 140509(R) (2008). * Seo et
+al. (2009) K. Seo, C. Fang, B. A. Bernevig, and J. Hu, Phys. Rev. B
+**79**, 235207 (2009). * Christianson et al. (2008) A. D. Christianson,
+E. A. Goremychkin, R. Osborn, S. Rosenkranz, M. D. Lumsden, C. D.
+Malliakas, I. S. Todorov, H. Claus, D. Y. Chung, M. G. Kanatzidis, R. I.
+Bewley, and T. Guidi, Nature (London) **456**, 930 (2008). * Lumsden et
+al. (2009) M. D. Lumsden, A. D. Christianson, D. Parshall, M. B. Stone,
+S. E. Nagler, G. J. MacDougall, H. A. Mook, K. Lokshin, T. Egami, D. L.
+Abernathy, E. A. Goremychkin, R. Osborn, M. A. McGuire, A. S. Sefat, R.
+Jin, B. C. Sales, and D. Mandrus, Phys. Rev. Lett. **102**, 107005
+(2009). * Chi et al. (2009) S. Chi, A. Schneidewind, J. Zhao, L. W.
+Harriger, L. Li, Y. Luo, G. Cao, Zhuan Xu, M. Loewenhaupt, J. Hu, and P.
+Dai, Phys. Rev. Lett. **102**, 107006 (2009). * Li et al. (2009) S. Li,
+Y. Chen, S. Chang, J. W. Lynn, L. Li, Y. Luo, G. Cao, Z. Xu, and P. Dai,
+Phys. Rev. B **79**, 174527 (2009). * Parshall et al. (2009) D.
+Parshall, K. A. Lokshin, J. Niedziela, A. D. Christianson, M. D.
+Lumsden, H. A. Mook, S. E. Nagler, M. A. McGuire, M. B. Stone, D. L.
+Abernathy, A. S. Sefat, B. C. Sales, D. G. Mandrus, and T. Egami, Phys.
+Rev. B **80**, 012502 (2009). * Pratt et al. (2009) D. K. Pratt, W.
+Tian, A. Kreyssig, J. L. Zarestky, S. Nandi, N. Ni, S. L. Bud’ko, P. C.
+Canfield, A. I. Goldman, and R. J. McQueeney, Phys. Rev. Lett. **103**,
+087001 (2009). * Christianson et al. (2009) A. D. Christianson, M. D.
+Lumsden, S. E. Nagler, G. J. MacDougall, M. A. McGuire, A. S. Sefat, R.
+Jin, B. C. Sales, and D. Mandrus, Phys. Rev. Lett. **103**, 087002
+(2009). * Inosov et al. (2010) D. S. Inosov, J. T. Park, P. Bourges, D.
+L. Sun, Y. Sidis, A. Schneidewind, K. Hradil, D. Haug, C. T. Lin, B.
+Keimer, and V. Hinkov, Nat. Phys. **6**, 178 (2010). * Lipscombe L.
+Harriger et al. (2009) O. Lipscombe L. Harriger, P. Freeman, M. Enderle,
+C. Zhang, M. Wang, T. Egami, J. Hu, T. Xiang, M. Norman, and P. Dai,
+arXiv:1003.1926 (unpublished). * Rossat-Mignod et al. (1991) J.
+Rossat-Mignod, L. P. Regnault, C. Vettier, P. Bourges, P. Burlet, J.
+Bossy, J. Y. Henry, and G. Lapertot, Physica C **185-189**, 86 (1991). *
+Dai et al. (2001) P. Dai, H. A. Mook, R. D. Hunt, and F. Dogan, Phys.
+Rev. B **63**, 054525 (2001). * Fong et al. (1996) H. F. Fong, B.
+Keimer, D. Reznik, D. L. Milius, and I. A. Aksay, Phys. Rev. B **54**,
+6708 (1996). * Stock et al. (2004) C. Stock, W. J. L. Buyers, R. Liang,
+D. Peets, Z. Tun, D. Bonn, W. N. Hardy, and R. J. Birgeneau, Phys. Rev.
+B **69**, 014502 (2004). * Wilson et al. (2006) S. D. Wilson, P. Dai, S.
+Li, S. Chi, H. J. Kang, and J. W. Lynn, Nature (London) **442**, 59
+(2006). * Zhao et al. (2007) J. Zhao, P. Dai, S. Li, P. G. Freeman, Y.
+Onose, and Y. Tokura, Phys. Rev. Lett. **99**, 017001 (2007). * Zhao et
+al. (2010) J. Zhao, D.-X. Yao, S. Li, T. Hong, Y. Chen, S. Chang, W.
+Ratcliff II, J. W. Lynn, H. A. Mook, G. F. Chen, J. L. Luo, N. L. Wang,
+E. W. Carlson, J. Hu, and P. Dai, Phys. Rev. Lett. **101**, 167203
+(2008). * [35] P. A. Ewings, T. G. Perring, R. I. Bewley, T. Guidi, M.
+J. Pitcher, D. R. Parker, S. J. Clarke, and A. T. Boothroyd, Phys. Rev.
+B **78**, 220501(R) (2008). * [36] R. J. McQueeney, S. O. Diallo, V. P.
+Antropov, G. D. Samolyuk, C. Broholm, N. Ni, S. Nandi, M. Yethiraj, J.
+L. Zarestky, J. J. Pulikkotil, A. Kreyssig, M. D. Lumsden, B. N. Harmon,
+P. C. Canfield, and A. I. Goldman, Phys. Rev. Lett. **101**, 227205
+(2008). * [37] K. Matan, R. Morinaga, K. Iida, and T. J. Sato, Phys.
+Rev. B **79**, 054526 (2009). * [38] S. O. Diallo, V. P. Antropov, T. G.
+Perring, C. Broholm, J. J. Pulikkotil, N. Ni, S. L. Bud’ko, P. C.
+Canfield, A. Kreyssig, A. I. Goldman, and R. J. McQueeney, Phys. Rev.
+Lett. **102**, 187206 (2009). * [39] J. Zhao, D. T. Adroja, D.-X. Yao,
+R. Bewley, S. Li, X. F. Wang, G. Wu, X. H. Chen, J. Hu, and P. Dai, Nat.
+Phys. **5**, 555 (2009). * [40] J.-H. Chu, J. G. Analytis, C.
+Kucharczyk, and I. R. Fisher, Phys. Rev. B **79**, 014506 (2009). * [41]
+C. Lester, J.-H. Chu, J. G. Analytis, S. C. Capelli, A. S. Erickson, C.
+L. Condron, M. F. Toney, I. R. Fisher, and S. M. Hayden, Phys. Rev. B
+**79**, 144523 (2009). * [42] P. C. Canfield, S. L. Bud’ko, Ni Ni, J. Q.
+Yan, and A. Kracher, Phys. Rev. B **80**, 060501(R) (2009). * [43] L. W.
+Harriger, A. Schneidewind, S. Li, J. Zhao, Z. Li, W. Lu, X. Dong, F.
+Zhou, Z. Zhao, J. Hu, and P. Dai, Phys. Rev. Lett. **103**, 087005
+(2009). * [44] S. Diallo, D. Pratt, R. Fernandes, W. Tian, J. Zarestky,
+M. Lumsden, T. Perring, C. Broholm, N. Ni, S. Bud’ko, P. Canfield, H.
+Li, D. Vaknin, A. Kreyssig, A. Goldman, and R. McQueeney,
+arXiv:1001.2804 (unpublished). * [45] W. Ratcliff II, P. A. Kienzle, J.
+W. Lynn, S. Li, P. Dai, G. F. Chen, and N. L. Wang, Phys. Rev. B **81**,
+140502(R) (2010). * [46] J. Zhao, L. P. Regnault, C. Zhang, M. Wang, Z.
+Li, F. Zhou, Z. Zhao, Chen Fang, Jiangping Hu, and P. Dai, Phys. Rev. B
+**81**, 180505(R) (2010).

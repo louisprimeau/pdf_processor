@@ -1,0 +1,331 @@
+Oxygen deficiencies in the F-doped Bi_{2-x}Pb_{x}Sr_{2}Ca_{2}Cu_{3}O_{10} superconductors studied
+
+by positron annihilation
+
+Z. Tang and S. J. Wang
+
+Department of Physics, Wuhan University, Wuhan 430072, People's Republic of China
+
+X. H. Gao
+
+Department of Chemistry, Central-South University of Technology, Changsha 410083, People's Republic of China
+
+###### Abstract
+
+Positron annihilation lifetime spectra were measured on F-doped Bi(Pb) 2:2:2:3 superconductors as a function of F content and analyzed by using a numerical Laplace inversion method. While the nominal fluorine content increases, it was clearly observed that (1) the average positron annihilation rate is decreased continuously, (2) the width of the positron-annihilation-rate distribution (ARD) is increased, (3) the region of the ARD becomes wider and extends down towards a lower annihilation rate. The increase in T_{c} with the increase in F content has a correlation with the changes of the ARD. Our positron results indicate that the F doping can produce a number of anion vacancies (or oxygen deficiency) and raise the concentration of Bi-O vacancy complexes in the Bi-O planes, which are substantiated by an anneal experiment in vacuum and responsible for the increases in T_{c} and J_{c}.
+
++
+Footnote †: preprint: 1 AUGUST 1994-I
+
+## I Introduction
+
+The discovery of high-T_{c} cuprate oxide superconductors has promoted an extensive research effort to characterize such materials and to prepare superconductors with a much higher temperature. The Bi(Pb)-2:2:2:3 superconductor has attracted much attention due to its superconducting transition at temperature as high as 110 K. Elemental substitution in cuprate oxide superconductors is always a very important subject. Recently, experimental results have shown that fluorine doping in Bi-based superconductors can obviously increase the zero resistance temperature [1, 2] and improve the superconductivity properties of Bi(Pb)-2:2:2:3 superconductors. [1, 2, 3] However, the mechanism that fluorine doping can improve the properties of the Bi(Pb)-2:2:2:3 superconductor is still not well understood and needs to be studied further.
+
+Positron annihilation spectroscopy (PAS), which is a powerful experimental technique to study the electronic and defect properties of solids, has been extensively applied to study high-T_{c} superconductors (HTSCs). [4, 5, 6, 7, 8, 9] A number of positron experiments have indicated that positron annihilation parameters are sensitive to element substitution in the HTSC's. [3, 6, 7, 8, 9] In recent years, a significant improvement in the data analysis of positron annihilation lifetime spectra, i.e., the numerical Laplace inversion algorithm, which is free of user bias and is not limited to well-separated, discrete lifetimes, has been developed. [10, 11, 12, 13] By using this method, a continuous distribution of positron annihilation rates can be obtained and it is possible to study the inhomogeneity of electron-density distribution in a HTSC sample.
+
+In this paper, we present results of positron-annihilation-rate distributions (ARD's) in the Bi(Pb)-2:2:2:3 superconductors doped with different nominal contents of CuF_{2} obtained by using the numerical Laplace inversion method and discuss the effect of fluorine doping on the defect structure and superconductivity properties in this system.
+
+## II Experiments
+
+### Sample preparation
+
+Samples used in our experiments were prepared by a solid-state reaction starting with mixing appropriate amounts of high-purity Bi_{2}O_{3}, PbO, SrCaO_{3}, CaCO_{3}, CuO, and CuF_{2} powders according to nominal compositions Bi_{1.7}Pb_{0.3}Sr_{2}Ca_{2}Cu_{3}O_{10-x}F_{x}, where x was equated to 0.0, 0.2, 0.5, and 0.8 mol, respectively. [1, 14] The results of the x-ray powder-diffraction analysis showed that the volume fractions of the Bi-2:2:2:3 phase in all samples were greater than 90%. The samples were found to contain large grains ranging from 50 to 100 \mum. The superconducting transition temperature T_{c} was determined by resistivity measurements using a standard four-probe technique. The results listed in Table 1, which are nearly the same as that presented in Ref. [2], show that T_{c} is continuously raised with the increase in the fluorine content. For positron annihilation experiments, each sample was pressed into two identical disks with 15 mm diameter and 1.5 mm thickness.
+
+\begin{table}
+\begin{tabular}{c c c c c} Nominal F content, mol & 0.0 & 0.2 & 0.5 & 0.8 \\ T_{c}, K & 106.5 & 111.0 & 113.2 & 117.6 \\ \end{tabular}
+\end{table}
+Table 1: T_{c} values of Bi(Pb)SrCaCuO-2:2:2:3 samples doped with different nominal contents of CuF_{2} (based on _R-T_ curves).
+
+  
+
+### Measurements of positron annihilation lifetime spectra
+
+A 22Na source with an activity of about 25 _m_Ci was deposited on an Al foil (1.0 mg/cm2) and sandwiched between two pellets of identical sample material. Positron lifetime measurements were carried out using a fast-fast coincidence spectrometer. The time resolution was determined to be 230 ps using a 60Co source. The positron annihilation lifetime spectra (PALS) were collected as a function of the nominal F content at room temperature and were measured in random order to avoid any effects due to the electronic drift of the instrument and each spectrum contained 3.0x107 counts. Heat treatments for one of the samples (_x_ = 0.8 mol) were also carried out. The pair of specimens was annealed from 100 to 500 degC in the Al2O3 tube of a resistance furnace with temperature control better than 1 K (the sintering temperature of all samples is about 780-790 degC). At each temperature point, the samples were heated in a vacuum of 10-3 torr for 1 h and then cooled down to the room temperature in vacuum with furnace. After each thermal treatment, positron lifetime spectrum was measured.
+
+### Extracting of positron-annihilation-rate distribution (ARD)
+
+In the conventional data analysis, a PAL experimental datum is expressed as15
+
+\[y(t) = N_{0}R(t) \ast \sum\limits_{i = 1}^{n}\lambda_{i}\alpha_{i}e^{-\lambda_{i}t} + B\;\;,\]
+
+where _y_(_t_) is the experimental data, _R_(_t_) is the instrumental resolution function, N0 is the total counts, and B is the background. l_{i} is the _i_th positron annihilation rate and _l__i__a__i_ is its intensity. To analyze the data correctly, the number of decay terms (_n_) and the exact resolution function _R_(_t_) need to be known, but we usually have no prior knowledge of n, _R_(_t_) in Eq. (1). In fact, with a large value of n, the solution becomes unstable to noise. One way to stabilize the solution is to constrain n to a small value (typically two or three components are assumed). In HTSC materials with a complex structure whose electron-density distributions are very inhomogeneous, positrons may annihilate from many states grouped closely together. In order to obtain some details of positron annihilation characteristics, it is necessary to replace the sum in Eq. (1) by an integral of a continuous decay form:16
+
+\[y(t) = N_{0}R(t) \ast \int_{0}^{\infty}\lambda\alpha(\lambda)e^{-\lambda_{i}t}\lambda + B\] \[= N_{0}R(t) \ast \angle (\lambda\alpha(\lambda)) + B\;\;,\]
+
+where _a_(_l_) is the positron-annihilation-rate distribution (ARD). A model-independent estimate of _R_(_t_) can be obtained by measuring the decay curve of a reference material with a well-known single lifetime. l_{a}(_l_) can be extracted by the numerical Laplace inversion method using a program named CONTIN which was originally developed by Provencher and was later modified by Gregory for the analysis of a PAL spectrum.10-13 CONTIN has been successfully and conventionally run on personal computers (PC's).17 Our test results for simulated PAL spectra show that a shorter positron lifetime can be correctly extracted from a spectrum with a single ARD peak, even t equal to 0.4 times resolution function full width at half maximum (FWHM).18 So, there are several advantages in using this method: (1) there is no need for prior knowledge of the number of annihilation rates; (2) it can be avoided to approximate the exact resolution function by a linear combination of Gaussian functions; (3) correct average annihilation rates (_l_) in HTSC materials, which are free of user bias and may be compared with the theoretical calculation, can be obtained; (4) some details of positron annihilation characteristics in HTSC materials, such as regions and widths of ARD's, which are related to the inhomogeneity of the electron-density distribution at positron annihilation sites, can be obtained.
+
+## III Results and discussions
+
+Using the lifetime spectrum of a well-annealed single crystal Cu (_t_ = 122 ps, I = 99%, total counts = 3.0x107) as a standard sample spectrum, the obtained PAL spectra were analyzed by using the PC-contin program. The extracted solutions of _a_(_l_), i.e., positron-annihilation-rate distributions (ARD's) in all samples are shown in Fig. 1. The _i_th moment of a solution is given by11
+
+\[M_{i} = \int_{\lambda_{\min}}^{\lambda_{\max}}\lambda^{i + 1}\alpha(\lambda)d\lambda\;\;.\]
+
+Therefore, the average positron annihilation rate (_l_) is equal to M0/_M_-1, and the average positron lifetime _t_m = (_l_-1) = _M_-2/_M_-1. The width of an ARD peak can be characterized by its standard deviation _s_:18
+
+\[\sigma^{2} = (\lambda^{2}) - (\lambda)^{2} = \frac{M_{1}}{M_{-1}} - \left[ \frac{M_{0}}{M_{-1}} \right]^{2}\;,\]
+
+Figure 1: Positron-annihilation-rate distributions (ARD’s) for Bi1,7Pb0,3Sr2Ca2Cu3O7F_x samples with x = 0.0, 0.2, 0.5, 0.8. The ARD’s were obtained by using the contin program from a reference PAL spectrum in the single crystal Cu (_t_ = 122 ps, I = 99%). The continuous decrease in average annihilation rate, the small increase in the width and the shift of region of ARD can be systematically and clearly observed.
+
+ if the ARD peak can be approximately expressed by a Gaussian function, its full width at half maximum (FWHM) is about 2\sqrt{\ln 2}\sigma.
+
+The average positron annihilation rates (l), the mean lifetimes \tau_{m}, the distribution regions, and the standard deviations \sigma of the obtained ARD's for all samples at room temperature are listed in Table 2. All PAL spectra were also analyzed by employing the computer code PATFIT according to Eq. (1),15 and the results of \tau_{m} are also shown in the last column of Table 2 for comparison.
+
+### Structural changes detected by positron annihilation rate distributions (ARD's)
+
+As shown in Fig. 1 and Table 2, the ARD in the F-doped Bi(Pb)-2:2:2:3 only has a single peak and the changes in the ARD's can be systematically and clearly detected by using the PC-contin program. While the nominal fluorine content increases, we observed (1) the average positron annihilation rate (l) decreased continuously; (2) the distribution width \sigma is increased; (3) the region of ARD becomes wider and extends down towards a lower annihilation rate continuously, i.e., the upper limit of the region of the ARD is in the vicinity of 5.05 ns^{- 1} and the lower limit shifts from 4.36 to 4.13 ns^{- 1}.
+
+Theoretical calculations19,20 have shown that, in the Bi-2:2:1:2 system, the positron density distribution (PDD) is greatest between the Bi-O layers and extends up towards the Cu-O planes; the overlap of the positron and electron densities at the Cu-O plane is very small; oxygen defects cannot bind positrons, the metal ion vacancies can or can only weakly bind positrons and the binding energy of Bi monovacancies is about 0.97 eV. The Bi-based superconductors have a layer structure and the crystalline structures of Bi_{2}Sr_{2}Ca_{n-1}Cu_{n}O_{2n+4+8} (n=1,2,3) only differ in the number of Cu-O layers, which are interleaved by the Ca-O planes.21 In the F-doped Bi(Pb)-2:2:2:3 superconductors, the partial substitutions of Pb for Bi and F for O do not apparently change the crystalline structure.1,14 We can approximately conjecture that in the F-doped Bi(Pb)-2:2:2:3 system the positron potential is nearly the same as that in Bi-2:2:1:2 system and positrons also mainly probe the electron structure in the Bi-O planes.3,9,22 Bismuth and oxygen are substoichiometric due to the existence of impurity phases in the sintered polycrystalline samples; a few Bi and O vacancies are created after the high-temperature solid-state reaction. Since the oxygen (or fluorine) vacancies in the Bi-O planes are in neighboring sites to bismuth vacancies in the lattice, there may be several kinds of defects in the Bi-O planes: (1) O or F (anion) monovacancies, which cannot bind positrons; (2) Bi or Pb (cation) monovacancies, which can bind positrons; (3) Bi (or Pb) and O (or F) vacancy-complexes, such as Bi-O divacancies and Bi-O multivacancies, which are deeper and wider trap wells for positrons. Therefore, positrons may annihilate in three states: (1) the free-positron state, i.e., positron annihilation in the Bloch state; (2) the trap state of Bi monovacancy; (3) the trap states of Bi-O vacancy complexes. The calculated values19 of the positron lifetimes in a Pb-free Bi-2:2:1:2 phase are 183 and 261 ps for a free-positron state and a Bi ion monovacancy trap state, respectively. The lifetimes for Bi-O vacancy-complexes should be more longer than that for a Bloch state or a Bi monovacancy trap state. The more monovacancies a vacancy complexes include, the wider and deeper the trap well, the lower the positron annihilation rate. The single ARD peaks with different distribution widths shown in Fig. 1 represent these many positron states grouped closely together in the F-doped Bi(Pb)-2:2:2:3. The decrease in (l) indicates a continuous decrease of the mean electron density in the Bi-O planes. The increase in \sigma and the shift of lower limit of the ARD imply directly an increase in the fraction of positron annihilation in multivacancies with the increase of F content.
+
+### Anion vacancies produced by the F doping
+
+The samples were prepared by a solid-state reaction, the CuF_{2} has a high reactive activity and is not stable. After the reaction, the greater part of fluorine atoms will evaporate.14 The reported quantity analysis obtained by using the ion-chosen electrode method has shown that few fluorine atoms remain and the remaining F content in the samples is only 0.0, 0.032, 0.051, and 0.135 mol, respectively.14 Hence, a number of anion vacancies are generated in the samples, which results in a decrease in
+
+\begin{table}
+\begin{tabular}{c c c c c c c c} Nominal F & (λ) & \tau_{m} & \sigma & Region of ARD & Goodness-of-fit criteria & \tau_{m}^{\bullet} \\ content, mol & ns^{- 1} & ns & ns^{- 1} & ns^{- 1} & SD & _P_(_F_;_n_1,n2) & _P_rms & ns \\
+0.0 & 4.73 & 0.2117 & 0.139 & 4.36-5.09 & 1.41 & 0.000 & 0.733 & 0.2114 \\
+0.2 & 4.67 & 0.2142 & 0.143 & 4.32-5.05 & 1.43 & 0.000 & 0.744 & 0.2136 \\
+0.5 & 4.63 & 0.2162 & 0.163 & 4.19-5.09 & 1.4  the mean electron density of the Bi-O plane. Although the anion vacancies cannot bind positrons, they can combine with existing Bi monovacancies to form Bi-O divacancies or multivacancies, in which positron trapped have longer lifetimes than that in Bi monovacancies. Therefore, when the nominal fluorine content is increased, the concentration of anion vacancies is also increased due to fluorine evaporating, the mean electron density in the Bi-O planes is decreased and the concentration of Bi-O vacancy complexes is also increased (i.e., parts of Bi monovacancies are changed to Bi-O divacancies or Bi-O multivacancies), which can account for the observed changes of the ARD's in the F-doped Bi(Pb)-2.2:2.3 superconductors. Because F has a strong positron and positronium affinity,23 the positronic-atomic systems, which can be stable for a long time, may form in the F-doped samples. It may be one of the reasons that the ARD's become broader when the nominal fluorine content is increased.
+
+In order to substantiate the above analysis, we have carried out an anneal experiment for the sample doped with 0.8-mol fluorine atoms. The anneal temperature was varied from 100 to 500 degC. At each temperature point, the sample was heated for 1 h in a vacuum of 10-3 torr and then was cooled down to the room temperature in vacuum with furnace. After each thermal treatment, positron lifetime spectrum was measured. The results of t_{m} as a function of the anneal temperature are represented in Fig. 2. From Fig. 2, it is seen that, the mean lifetimes rises slightly below 300 degC and increases rapidly with the anneal temperature above 300 degC. The thermal treatments at high temperature in a vacuum lead to an oxygen deficiency in the Bi-O layers. After the thermal treatments, the mean electron density in the Bi-O planes is decreased and the concentrations of anion vacancies and vacancy complexes are also increased, which are responsible for the increase in t_{m}.
+
+Assuming each removed F atom will introduce an anion vacancy in the Bi-O planes, oxygen deficiencies d can be evaluated from the remaining F content and the values of d are about 0.0, 0.17, 0.45, and 0.67 mol for the nominal F content x = 0.0, 0.2, 0.5, and 0.8 mol, respectively. In order to testify the above assumption, the normalized positron annihilation rate \lambda^{\bullet} = (\{\lambda\} - \lambda_{\infty})/\lambda_{\infty} should be considered, where \lambda_{\infty} = 2.0048 ns-1 denotes the "low-density limit" of the positron annihilation rate in an electron gas.24,25 As shown in Fig. 3, a linear relationship between \lambda^{\bullet} and d can be observed:
+
+\[\lambda^{\bullet}(\delta) = \lambda^{\bullet}(0) - \delta[\lambda^{\bullet}(0) - \lambda^{\bullet}(2)]\ ,\]
+
+where \lambda^{\bullet}(2) denotes the normalized annihilation rate for all oxygen atoms in the Bi-O planes are lost. By fitting the data of \lambda^{\bullet} and d, the extrapolated value \lambda^{\bullet}(2) = 1.16 (corresponding to t_{m} = 231 ps) can be obtained. The empirical relationship between the differences, \Delta\lambda^{\bullet}, of the normalized "free" positron annihilation rates \lambda^{\bullet} and the differences, \Delta\eta_{t}, of the total electron densities \eta_{t} = N_{e} \, V_{B} \, V_{\text{uc}} in metals and the corresponding metal oxides has been reported by Schaefer and Forster:26
+
+\[\Delta\lambda^{\bullet} = 0.096 + 2.2\Delta\eta_{t}\]
+
+where, N_{e}, V_{B} = 6.208 \times 10^{- 31} m3 and V_{\text{uc}} denote the total number of electrons per unit cell, Bohr's hydrogen volume, and the volume of the unit cell, respectively. Since the PDD's in Bi-based superconductors are very inhomogeneous, V_{\text{uc}} should be the volume of the PDD extending region in the Bi(Pb)-2:2:2:3 unit cell. So, V_{\text{uc}} = a\times b\times h, here a and b are the lattice parameters of the unit cell and h is the extending length of the PDD along the c axis and the change \Delta\lambda^{\bullet} = \lambda^{\bullet}(0) - \lambda^{\bullet}(2) = 0.198 of the annihilation rate is engendered by the change of the electron density \Delta\eta_{t} in this region due to oxygen extraction. Since \Delta\eta_{t} = \Delta N_{e} \, V_{B} \, V/V_{\text{uc}}, the Eq. (6) can be rewritten as
+
+\[V_{\text{uc}} = a\times b\times h = \Delta N_{e} \, V_{B} \times \left\lfloor \frac{2.2}{\Delta\lambda^{\bullet} - 0.096} \right\rfloor\ .\]
+
+Making use of \Delta\lambda^{\bullet} = 0.198, \Delta N_{2} = 16 and the lattice parameters of Bi-2:2:2:3 (Ref. [21]) (_a_ = b = 3.9 A), we can derive h is about 14.1 A in this crude model. According to the calculated results shown in Fig. 2 of Ref. [19], the positron density is greatest between the Bi-O layers and the extending length h of the PDD alone the c axis is about 13.0 A, which is very close to the derived value of
+
+Figure 3: Variation of the normalized positron annihilation rate \lambda^{\bullet} as a function of the oxygen deficiency d. The solid line represents a linear fit to the data.
+
+Figure 2: Mean lifetime t_{m} as a function of anneal temperature for one of the samples with a nominal F content x = 0.8 mol.
+
+  
+
+### 14.1 A.
+
+The results suggest that the estimated d values of oxygen deficiencies are reasonable.
+
+### Oxygen deficiency and superconductivity
+
+The Bi-based superconductors have a layer structure, which consists of conduction layers (Cu-O layers) and charge reservoir layers (Bi-O layers).27 The T_{c} of a cuprate superconductor is very sensitive to the carrier concentration in its conduction layer.28 In the charge-transfer model when the superconducting transition takes place, the electron from the Cu in the Cu-O planes may be transferred to the vacancies in the charge reservoir layers and hole carriers are created in the conduction layers.27 The oxygen defects in the Bi-O planes control the amount of charge transfer and play an important role in this process.3 Therefore, it has been the subject of intense study introducing oxygen vacancies into the Bi-O planes effectively without changing the crystalline structures of the Bi-based superconductors. Fukushima _et al._29 reported that removing oxygen atoms from the Bi-2:2:1:2 phase by annealing in N2 can cause the T_{c} to rise. It has been also reported that T_{c} values of the Bi-2:2:0:1 and 2:2:1:2 are observed to increase by 5-20 K after annealing in the absence of oxygen.30,31 Recently, in a copper-free oxide superconductor, Ba_{1-x}K_{x}BiO_{3-y}, whose carriers are electrons (on the contrary, the carriers of cuprate oxide superconductors are holes), positron annihilation lifetime measurements32 have revealed a correlation between the increase in T_{c} after a high-temperature oxygen anneal and the filling of oxygen vacancies (i.e., oxygen stoichiometry).
+
+As mentioned above, the T_{c} of the Bi_{1},?Pb_{0.3}Sr_{2}Ca_{2}Cu_{3}O_{y}F_{x} sample is continuously raised while the value of x is increased from 0.0 to 0.8 mol. A very interesting correlation between T_{c} and the positron annihilation parameter can be found from Tables 1 and 2 (or Fig. 1). The above analyses (in Secs. III.1 and III.2) have shown that F doping in the Bi(Pb)-2:2:2:3 can indeed prevent oxygen intaking during the process of high-temperature solid-state reaction and introduce anion vacancies in the Bi-O plane effectively, which are responsible for the increase of T_{c} in the F-doped Bi(Pb)-2:2:2:3 superconductors.
+
+It has been reported2 that the fluorine doping can obviously raise the J_{c} of the Bi(Pb)-2:2:2:3 superconductors. As we know, controlled introduction of flux-pinning centers in HTSC's, such as the irradiation and the controlled introduction of concentrations of oxygen vacancies, is a practical method to raise J_{c}. The optimum size of the pinning defects is set by the coherence length and is on the order of a nanometer for HTSC materials.33 A Bi-O vacancy complex has a larger defect size and is a better flux-pinning center than a Bi or O monovacancy. Hence, the increase of the concentration of the Bi-O vacancy complexes can account for the increase in the J_{c} with F content.
+
+In summary, positron annihilation lifetime spectra were measured on F-doped Bi(Pb)-2:2:2:3 superconductors as a function of F content and analyzed by using a numerical Laplace inversion method. The changes in the positron-annihilation-rate distributions (ARD's) indicate that the F doping can produce a number of anion vacancies (oxygen deficiency) and raise the concentration of Bi-O vacancy complexes in the Bi-O planes, which are substantiated by an anneal experiment in vacuum. Oxygen deficiencies d of all samples are estimated. The correlation between oxygen deficiency and T_{c} is discussed and our positron results suggest that oxygen deficiency and the increase in the concentration of the Bi-O vacancy complexes are responsible for the increases in T_{c} and J_{c}.
+
+## Acknowledgments
+
+This work was supported by the National Science Foundation and the National Center for R&D on Superconductivity of China.
+
+## References
+
+* [1] X. H. Gao, J. Li, D. Gao, G. D. Zheng, and S. Gao, Mod. Phys. Lett. B **6**, 943 (1992).
+* [2] Q. Wei, X. H. Zhou, J. G. Cai, X. H. Gao, X. L. Wu, U. S. Fu, J. H. Zhu, and X. W. Cao, Physica C **208**, 347 (1993).
+* [3] Z. Tang, S. J. Wang, X. H. Gao, G. C. Ce, and Z. X. Zhao, Phys. Lett. A **178**, 320 (1993).
+* [4] D. R. Harshman, L. F. Schneemeyer, J. V. Wasczczak, Y. C. Jean, M. J. Fluss, R. H. Howell, and A. L. Wachs, Phys. Rev. B **38**, 848 (1988).
+* [5] S. G. Usmar, K. G. Lynn, A. R. Moodenbaugh, M. Suenaga, and R. L. Sabatini, Phys. Rev. B **38**, 5126 (1988).
+* [6] Y. C. Jean, C. S. Sundar, A. Bharathi, J. Kyle, H. Nakanishi, P. K. Tseng, P. H. Hor, R. L. Meng, Z. J. Huang, C. W. Zhu, Z. Z. Wang, P. E. A. Turchi, R. H. Howell, A. L. Wachs, and M. J. Fluss, Phys. Rev. Lett. **64**, 1593 (1990).
+* [7] A. Chen, Y. Zhi, B. R. Li, and S. J. Wang, Phys. Lett. A **165**, 171 (1992).
+* [8] P. Gopalan, E. R. Priya, M. Premila, C. S. Sundar, and K. P. Gopinathan, Mater. Sci. Forum **105-110**, 1033 (1992).
+* [9] S. J. Wang, Z. Tang, Z. Q. Chen, X. H. Gao, S. F. Jian, and J. Li, Phys. Rev. B **49**, 4319 (1994).
+* [10] S. W. Provencher, Comput. Phys. Commun. **27**, 229 (1982).
+* [11] R. B. Gregory and Y. Zhu, Nucl. Instrum. Methods Phys. Res. Sect. A **290**, 172 (1990).
+* [12] R. B. Gregory, Nucl. Instrum. Methods Phys. Res. Sect. A **302**, 496 (1991).
+* [13] Y. C. Jean and G. F. Dai, Nucl. Instrum. Methods Phys. Res. Sect. B **79**, 356 (1993).
+* [14] X. H. Gao, X. L. Wu, H. Yan, Z. L. Yin, C. D. Lin, Y. S. Fu, and W. X. Xie, Chin. J. Low Temp. Phys. **12**, 213 (1990) (in Chinese).
+* [15] P. Kirkegaard, M. Eldrup, O. E. Mogensen, and N. J. Pedersen, Comput. Phys. Commun. **23**, 307 (1981).
+* [16] D. M. Schrader and S. G. Usmar, in _Positron Annihilation Studies on Fluids_, edited by S. C. Sharma (World Scientific, Singapore, 1988), p. 215.
+* [17] G. H. Dai, Q. Deng, J. Liu, H. Shi, C. M. Huang, and Y. C. Jean, J. Phys. IV (France) **C4**, 233 (1993).
+
+ * [18] Z. Tang and S. J. Wang (unpublished).
+* [19] T. McMullen, P. Jena, S. N. Khanna, Y. Li, and O. K. Jensen, Phys. Rev. B **43**, 10 422 (1990).
+* [20] A. Bharathi, C. S. Sundar, W. Y. Ching, Y. C. Jean, P. H. Hor, Y. Y. Xue, and C. W. Chu, Phys. Rev. B **42**, 10 199 (1990).
+* [21] R. M. Hazen, in _Physical Properties of High-Temperature Superconductors II_, edited by D. M. Ginsberg (World Scientific, Singapore, 1990), p. 121.
+* [22] Z. Tang, Z. Q. Chen, S. J. Wang, G. C. Ce, and Z. X. Zhao, J. Phys. Condens. Matter **5**, 345 (1993).
+* [23] D. M. Schrader, in _Positron and Positronium Chemistry_, edited by D. M. Schrader and Y. C. Jean (Elsevier, Amsterdam, 1988), p. 81.
+* [24] H. Hermes, M. Forster, and H.-E. Schaefer, Phys. Rev. B **43**, 10 399 (1991).
+* [25] A. Seeger and F. Banhart, Phys. Status Solidi A **102**, 171 (1989).
+* [26] H.-E. Schaefer and M. Forster, Mater. Sci. Eng. A **109**, 161 (1989).
+* [27] P. Jorgensen, Phys. Today **44** (No. 6), 34 (1991).
+* [28] J. B. Torrance, Y. Tokura, A. I. Nazzal, and S. S. P. Parkin, Phys. Rev. Lett. **60**, 542 (1988).
+* [29] N. Fukushima, H. Niu, S. Nakamura, S. Takano, M. Hayashi, and K. Ando, Physica C **159**, 777 (1989).
+* [30] S. Kambe, T. Matsuoka, M. Takahashi, M. Kawai, and T. Kawai, Phys. Rev. B **42**, 2669 (1990).
+* [31] Y. Murakoshi, S. Kambe, and M. Kawai, Physica C **190**, 139 (1991).
+* [32] W. D. Mosely, J. W. Dykes, P. Klavins, R. N. Shelton, P. A. Sterne, and R. H. Howell, Phys. Rev. B **48**, 611 (1993).
+* [33] D. Larbalestier, Phys. Today **44** (No. 6), **74**, (1991).
+
+ Oxygen deficiencies in the F-doped Bi_{2-x}Pb_{x}Sr_{2}Ca_{2}Cu_{3}O_{10} superconductors studied
+
+by positron annihilation
+
+Z. Tang and S. J. Wang
+
+Department of Physics, Wuhan University, Wuhan 430072, People's Republic of China
+
+X. H. Gao
+
+Department of Chemistry, Central-South University of Technology, Changsha 410083, People's Republic of China
+
+###### Abstract
+
+Positron annihilation lifetime spectra were measured on F-doped Bi(Pb) 2:2:2:3 superconductors as a function of F content and analyzed by using a numerical Laplace inversion method. While the nominal fluorine content increases, it was clearly observed that (1) the average positron annihilation rate is decreased continuously, (2) the width of the positron-annihilation-rate distribution (ARD) is increased, (3) the region of the ARD becomes wider and extends down towards a lower annihilation rate. The increase in T_{c} with the increase in F content has a correlation with the changes of the ARD. Our positron results indicate that the F doping can produce a number of anion vacancies (or oxygen deficiency) and raise the concentration of Bi-O vacancy complexes in the Bi-O planes, which are substantiated by an anneal experiment in vacuum and responsible for the increases in T_{c} and J_{c}.
+
++
+Footnote †: preprint: 1 AUGUST 1994-I
+
+## I Introduction
+
+The discovery of high-T_{c} cuprate oxide superconductors has promoted an extensive research effort to characterize such materials and to prepare superconductors with a much higher temperature. The Bi(Pb)-2:2:2:3 superconductor has attracted much attention due to its superconducting transition at temperature as high as 110 K. Elemental substitution in cuprate oxide superconductors is always a very important subject. Recently, experimental results have shown that fluorine doping in Bi-based superconductors can obviously increase the zero resistance temperature [1, 2] and improve the superconductivity properties of Bi(Pb)-2:2:2:3 superconductors. [1, 2, 3] However, the mechanism that fluorine doping can improve the properties of the Bi(Pb)-2:2:2:3 superconductor is still not well understood and needs to be studied further.
+
+Positron annihilation spectroscopy (PAS), which is a powerful experimental technique to study the electronic and defect properties of solids, has been extensively applied to study high-T_{c} superconductors (HTSCs). [4, 5, 6, 7, 8, 9] A number of positron experiments have indicated that positron annihilation parameters are sensitive to element substitution in the HTSC's. [3, 6, 7, 8, 9] In recent years, a significant improvement in the data analysis of positron annihilation lifetime spectra, i.e., the numerical Laplace inversion algorithm, which is free of user bias and is not limited to well-separated, discrete lifetimes, has been developed. [10, 11, 12, 13] By using this method, a continuous distribution of positron annihilation rates can be obtained and it is possible to study the inhomogeneity of electron-density distribution in a HTSC sample.
+
+In this paper, we present results of positron-annihilation-rate distributions (ARD's) in the Bi(Pb)-2:2:2:3 superconductors doped with different nominal contents of CuF_{2} obtained by using the numerical Laplace inversion method and discuss the effect of fluorine doping on the defect structure and superconductivity properties in this system.
+
+## II Experiments
+
+### Sample preparation
+
+Samples used in our experiments were prepared by a solid-state reaction starting with mixing appropriate amounts of high-purity Bi_{2}O_{3}, PbO, SrCaO_{3}, CaCO_{3}, CuO, and CuF_{2} powders according to nominal compositions Bi_{1.7}Pb_{0.3}Sr_{2}Ca_{2}Cu_{3}O_{10-x}F_{x}, where x was equated to 0.0, 0.2, 0.5, and 0.8 mol, respectively. [1, 14] The results of the x-ray powder-diffraction analysis showed that the volume fractions of the Bi-2:2:2:3 phase in all samples were greater than 90%. The samples were found to contain large grains ranging from 50 to 100 \mum. The superconducting transition temperature T_{c} was determined by resistivity measurements using a standard four-probe technique. The results listed in Table 1, which are nearly the same as that presented in Ref. [2], show that T_{c} is continuously raised with the increase in the fluorine content. For positron annihilation experiments, each sample was pressed into two identical disks with 15 mm diameter and 1.5 mm thickness.
+
+\begin{table}
+\begin{tabular}{c c c c c} Nominal F content, mol & 0.0 & 0.2 & 0.5 & 0.8 \\ T_{c}, K & 106.5 & 111.0 & 113.2 & 117.6 \\ \end{tabular}
+\end{table}
+Table 1: T_{c} values of Bi(Pb)SrCaCuO-2:2:2:3 samples doped with different nominal contents of CuF_{2} (based on _R-T_ curves).
+
+  
+
+### Measurements of positron annihilation lifetime spectra
+
+A 22Na source with an activity of about 25 _m_Ci was deposited on an Al foil (1.0 mg/cm2) and sandwiched between two pellets of identical sample material. Positron lifetime measurements were carried out using a fast-fast coincidence spectrometer. The time resolution was determined to be 230 ps using a 60Co source. The positron annihilation lifetime spectra (PALS) were collected as a function of the nominal F content at room temperature and were measured in random order to avoid any effects due to the electronic drift of the instrument and each spectrum contained 3.0x107 counts. Heat treatments for one of the samples (_x_ = 0.8 mol) were also carried out. The pair of specimens was annealed from 100 to 500 degC in the Al2O3 tube of a resistance furnace with temperature control better than 1 K (the sintering temperature of all samples is about 780-790 degC). At each temperature point, the samples were heated in a vacuum of 10-3 torr for 1 h and then cooled down to the room temperature in vacuum with furnace. After each thermal treatment, positron lifetime spectrum was measured.
+
+### Extracting of positron-annihilation-rate distribution (ARD)
+
+In the conventional data analysis, a PAL experimental datum is expressed as15
+
+\[y(t) = N_{0}R(t) \ast \sum\limits_{i = 1}^{n}\lambda_{i}\alpha_{i}e^{-\lambda_{i}t} + B\;\;,\]
+
+where _y_(_t_) is the experimental data, _R_(_t_) is the instrumental resolution function, N0 is the total counts, and B is the background. l_{i} is the _i_th positron annihilation rate and _l__i__a__i_ is its intensity. To analyze the data correctly, the number of decay terms (_n_) and the exact resolution function _R_(_t_) need to be known, but we usually have no prior knowledge of n, _R_(_t_) in Eq. (1). In fact, with a large value of n, the solution becomes unstable to noise. One way to stabilize the solution is to constrain n to a small value (typically two or three components are assumed). In HTSC materials with a complex structure whose electron-density distributions are very inhomogeneous, positrons may annihilate from many states grouped closely together. In order to obtain some details of positron annihilation characteristics, it is necessary to replace the sum in Eq. (1) by an integral of a continuous decay form:16
+
+\[y(t) = N_{0}R(t) \ast \int_{0}^{\infty}\lambda\alpha(\lambda)e^{-\lambda_{i}t}\lambda + B\] \[= N_{0}R(t) \ast \angle (\lambda\alpha(\lambda)) + B\;\;,\]
+
+where _a_(_l_) is the positron-annihilation-rate distribution (ARD). A model-independent estimate of _R_(_t_) can be obtained by measuring the decay curve of a reference material with a well-known single lifetime. l_{a}(_l_) can be extracted by the numerical Laplace inversion method using a program named CONTIN which was originally developed by Provencher and was later modified by Gregory for the analysis of a PAL spectrum.10-13 CONTIN has been successfully and conventionally run on personal computers (PC's).17 Our test results for simulated PAL spectra show that a shorter positron lifetime can be correctly extracted from a spectrum with a single ARD peak, even t equal to 0.4 times resolution function full width at half maximum (FWHM).18 So, there are several advantages in using this method: (1) there is no need for prior knowledge of the number of annihilation rates; (2) it can be avoided to approximate the exact resolution function by a linear combination of Gaussian functions; (3) correct average annihilation rates (_l_) in HTSC materials, which are free of user bias and may be compared with the theoretical calculation, can be obtained; (4) some details of positron annihilation characteristics in HTSC materials, such as regions and widths of ARD's, which are related to the inhomogeneity of the electron-density distribution at positron annihilation sites, can be obtained.
+
+## III Results and discussions
+
+Using the lifetime spectrum of a well-annealed single crystal Cu (_t_ = 122 ps, I = 99%, total counts = 3.0x107) as a standard sample spectrum, the obtained PAL spectra were analyzed by using the PC-contin program. The extracted solutions of _a_(_l_), i.e., positron-annihilation-rate distributions (ARD's) in all samples are shown in Fig. 1. The _i_th moment of a solution is given by11
+
+\[M_{i} = \int_{\lambda_{\min}}^{\lambda_{\max}}\lambda^{i + 1}\alpha(\lambda)d\lambda\;\;.\]
+
+Therefore, the average positron annihilation rate (_l_) is equal to M0/_M_-1, and the average positron lifetime _t_m = (_l_-1) = _M_-2/_M_-1. The width of an ARD peak can be characterized by its standard deviation _s_:18
+
+\[\sigma^{2} = (\lambda^{2}) - (\lambda)^{2} = \frac{M_{1}}{M_{-1}} - \left[ \frac{M_{0}}{M_{-1}} \right]^{2}\;,\]
+
+Figure 1: Positron-annihilation-rate distributions (ARD’s) for Bi1,7Pb0,3Sr2Ca2Cu3O7F_x samples with x = 0.0, 0.2, 0.5, 0.8. The ARD’s were obtained by using the contin program from a reference PAL spectrum in the single crystal Cu (_t_ = 122 ps, I = 99%). The continuous decrease in average annihilation rate, the small increase in the width and the shift of region of ARD can be systematically and clearly observed.
+
+ if the ARD peak can be approximately expressed by a Gaussian function, its full width at half maximum (FWHM) is about 2\sqrt{\ln 2}\sigma.
+
+The average positron annihilation rates (l), the mean lifetimes \tau_{m}, the distribution regions, and the standard deviations \sigma of the obtained ARD's for all samples at room temperature are listed in Table 2. All PAL spectra were also analyzed by employing the computer code PATFIT according to Eq. (1),15 and the results of \tau_{m} are also shown in the last column of Table 2 for comparison.
+
+### Structural changes detected by positron annihilation rate distributions (ARD's)
+
+As shown in Fig. 1 and Table 2, the ARD in the F-doped Bi(Pb)-2:2:2:3 only has a single peak and the changes in the ARD's can be systematically and clearly detected by using the PC-contin program. While the nominal fluorine content increases, we observed (1) the average positron annihilation rate (l) decreased continuously; (2) the distribution width \sigma is increased; (3) the region of ARD becomes wider and extends down towards a lower annihilation rate continuously, i.e., the upper limit of the region of the ARD is in the vicinity of 5.05 ns^{- 1} and the lower limit shifts from 4.36 to 4.13 ns^{- 1}.
+
+Theoretical calculations19,20 have shown that, in the Bi-2:2:1:2 system, the positron density distribution (PDD) is greatest between the Bi-O layers and extends up towards the Cu-O planes; the overlap of the positron and electron densities at the Cu-O plane is very small; oxygen defects cannot bind positrons, the metal ion vacancies can or can only weakly bind positrons and the binding energy of Bi monovacancies is about 0.97 eV. The Bi-based superconductors have a layer structure and the crystalline structures of Bi_{2}Sr_{2}Ca_{n-1}Cu_{n}O_{2n+4+8} (n=1,2,3) only differ in the number of Cu-O layers, which are interleaved by the Ca-O planes.21 In the F-doped Bi(Pb)-2:2:2:3 superconductors, the partial substitutions of Pb for Bi and F for O do not apparently change the crystalline structure.1,14 We can approximately conjecture that in the F-doped Bi(Pb)-2:2:2:3 system the positron potential is nearly the same as that in Bi-2:2:1:2 system and positrons also mainly probe the electron structure in the Bi-O planes.3,9,22 Bismuth and oxygen are substoichiometric due to the existence of impurity phases in the sintered polycrystalline samples; a few Bi and O vacancies are created after the high-temperature solid-state reaction. Since the oxygen (or fluorine) vacancies in the Bi-O planes are in neighboring sites to bismuth vacancies in the lattice, there may be several kinds of defects in the Bi-O planes: (1) O or F (anion) monovacancies, which cannot bind positrons; (2) Bi or Pb (cation) monovacancies, which can bind positrons; (3) Bi (or Pb) and O (or F) vacancy-complexes, such as Bi-O divacancies and Bi-O multivacancies, which are deeper and wider trap wells for positrons. Therefore, positrons may annihilate in three states: (1) the free-positron state, i.e., positron annihilation in the Bloch state; (2) the trap state of Bi monovacancy; (3) the trap states of Bi-O vacancy complexes. The calculated values19 of the positron lifetimes in a Pb-free Bi-2:2:1:2 phase are 183 and 261 ps for a free-positron state and a Bi ion monovacancy trap state, respectively. The lifetimes for Bi-O vacancy-complexes should be more longer than that for a Bloch state or a Bi monovacancy trap state. The more monovacancies a vacancy complexes include, the wider and deeper the trap well, the lower the positron annihilation rate. The single ARD peaks with different distribution widths shown in Fig. 1 represent these many positron states grouped closely together in the F-doped Bi(Pb)-2:2:2:3. The decrease in (l) indicates a continuous decrease of the mean electron density in the Bi-O planes. The increase in \sigma and the shift of lower limit of the ARD imply directly an increase in the fraction of positron annihilation in multivacancies with the increase of F content.
+
+### Anion vacancies produced by the F doping
+
+The samples were prepared by a solid-state reaction, the CuF_{2} has a high reactive activity and is not stable. After the reaction, the greater part of fluorine atoms will evaporate.14 The reported quantity analysis obtained by using the ion-chosen electrode method has shown that few fluorine atoms remain and the remaining F content in the samples is only 0.0, 0.032, 0.051, and 0.135 mol, respectively.14 Hence, a number of anion vacancies are generated in the samples, which results in a decrease in
+
+\begin{table}
+\begin{tabular}{c c c c c c c c} Nominal F & (λ) & \tau_{m} & \sigma & Region of ARD & Goodness-of-fit criteria & \tau_{m}^{\bullet} \\ content, mol & ns^{- 1} & ns & ns^{- 1} & ns^{- 1} & SD & _P_(_F_;_n_1,n2) & _P_rms & ns \\
+0.0 & 4.73 & 0.2117 & 0.139 & 4.36-5.09 & 1.41 & 0.000 & 0.733 & 0.2114 \\
+0.2 & 4.67 & 0.2142 & 0.143 & 4.32-5.05 & 1.43 & 0.000 & 0.744 & 0.2136 \\
+0.5 & 4.63 & 0.2162 & 0.163 & 4.19-5.09 & 1.4  the mean electron density of the Bi-O plane. Although the anion vacancies cannot bind positrons, they can combine with existing Bi monovacancies to form Bi-O divacancies or multivacancies, in which positron trapped have longer lifetimes than that in Bi monovacancies. Therefore, when the nominal fluorine content is increased, the concentration of anion vacancies is also increased due to fluorine evaporating, the mean electron density in the Bi-O planes is decreased and the concentration of Bi-O vacancy complexes is also increased (i.e., parts of Bi monovacancies are changed to Bi-O divacancies or Bi-O multivacancies), which can account for the observed changes of the ARD's in the F-doped Bi(Pb)-2.2:2.3 superconductors. Because F has a strong positron and positronium affinity,23 the positronic-atomic systems, which can be stable for a long time, may form in the F-doped samples. It may be one of the reasons that the ARD's become broader when the nominal fluorine content is increased.
+
+In order to substantiate the above analysis, we have carried out an anneal experiment for the sample doped with 0.8-mol fluorine atoms. The anneal temperature was varied from 100 to 500 degC. At each temperature point, the sample was heated for 1 h in a vacuum of 10-3 torr and then was cooled down to the room temperature in vacuum with furnace. After each thermal treatment, positron lifetime spectrum was measured. The results of t_{m} as a function of the anneal temperature are represented in Fig. 2. From Fig. 2, it is seen that, the mean lifetimes rises slightly below 300 degC and increases rapidly with the anneal temperature above 300 degC. The thermal treatments at high temperature in a vacuum lead to an oxygen deficiency in the Bi-O layers. After the thermal treatments, the mean electron density in the Bi-O planes is decreased and the concentrations of anion vacancies and vacancy complexes are also increased, which are responsible for the increase in t_{m}.
+
+Assuming each removed F atom will introduce an anion vacancy in the Bi-O planes, oxygen deficiencies d can be evaluated from the remaining F content and the values of d are about 0.0, 0.17, 0.45, and 0.67 mol for the nominal F content x = 0.0, 0.2, 0.5, and 0.8 mol, respectively. In order to testify the above assumption, the normalized positron annihilation rate \lambda^{\bullet} = (\{\lambda\} - \lambda_{\infty})/\lambda_{\infty} should be considered, where \lambda_{\infty} = 2.0048 ns-1 denotes the "low-density limit" of the positron annihilation rate in an electron gas.24,25 As shown in Fig. 3, a linear relationship between \lambda^{\bullet} and d can be observed:
+
+\[\lambda^{\bullet}(\delta) = \lambda^{\bullet}(0) - \delta[\lambda^{\bullet}(0) - \lambda^{\bullet}(2)]\ ,\]
+
+where \lambda^{\bullet}(2) denotes the normalized annihilation rate for all oxygen atoms in the Bi-O planes are lost. By fitting the data of \lambda^{\bullet} and d, the extrapolated value \lambda^{\bullet}(2) = 1.16 (corresponding to t_{m} = 231 ps) can be obtained. The empirical relationship between the differences, \Delta\lambda^{\bullet}, of the normalized "free" positron annihilation rates \lambda^{\bullet} and the differences, \Delta\eta_{t}, of the total electron densities \eta_{t} = N_{e} \, V_{B} \, V_{\text{uc}} in metals and the corresponding metal oxides has been reported by Schaefer and Forster:26
+
+\[\Delta\lambda^{\bullet} = 0.096 + 2.2\Delta\eta_{t}\]
+
+where, N_{e}, V_{B} = 6.208 \times 10^{- 31} m3 and V_{\text{uc}} denote the total number of electrons per unit cell, Bohr's hydrogen volume, and the volume of the unit cell, respectively. Since the PDD's in Bi-based superconductors are very inhomogeneous, V_{\text{uc}} should be the volume of the PDD extending region in the Bi(Pb)-2:2:2:3 unit cell. So, V_{\text{uc}} = a\times b\times h, here a and b are the lattice parameters of the unit cell and h is the extending length of the PDD along the c axis and the change \Delta\lambda^{\bullet} = \lambda^{\bullet}(0) - \lambda^{\bullet}(2) = 0.198 of the annihilation rate is engendered by the change of the electron density \Delta\eta_{t} in this region due to oxygen extraction. Since \Delta\eta_{t} = \Delta N_{e} \, V_{B} \, V/V_{\text{uc}}, the Eq. (6) can be rewritten as
+
+\[V_{\text{uc}} = a\times b\times h = \Delta N_{e} \, V_{B} \times \left\lfloor \frac{2.2}{\Delta\lambda^{\bullet} - 0.096} \right\rfloor\ .\]
+
+Making use of \Delta\lambda^{\bullet} = 0.198, \Delta N_{2} = 16 and the lattice parameters of Bi-2:2:2:3 (Ref. [21]) (_a_ = b = 3.9 A), we can derive h is about 14.1 A in this crude model. According to the calculated results shown in Fig. 2 of Ref. [19], the positron density is greatest between the Bi-O layers and the extending length h of the PDD alone the c axis is about 13.0 A, which is very close to the derived value of
+
+Figure 3: Variation of the normalized positron annihilation rate \lambda^{\bullet} as a function of the oxygen deficiency d. The solid line represents a linear fit to the data.
+
+Figure 2: Mean lifetime t_{m} as a function of anneal temperature for one of the samples with a nominal F content x = 0.8 mol.
+
+  
+
+### 14.1 A.
+
+The results suggest that the estimated d values of oxygen deficiencies are reasonable.
+
+### Oxygen deficiency and superconductivity
+
+The Bi-based superconductors have a layer structure, which consists of conduction layers (Cu-O layers) and charge reservoir layers (Bi-O layers).27 The T_{c} of a cuprate superconductor is very sensitive to the carrier concentration in its conduction layer.28 In the charge-transfer model when the superconducting transition takes place, the electron from the Cu in the Cu-O planes may be transferred to the vacancies in the charge reservoir layers and hole carriers are created in the conduction layers.27 The oxygen defects in the Bi-O planes control the amount of charge transfer and play an important role in this process.3 Therefore, it has been the subject of intense study introducing oxygen vacancies into the Bi-O planes effectively without changing the crystalline structures of the Bi-based superconductors. Fukushima _et al._29 reported that removing oxygen atoms from the Bi-2:2:1:2 phase by annealing in N2 can cause the T_{c} to rise. It has been also reported that T_{c} values of the Bi-2:2:0:1 and 2:2:1:2 are observed to increase by 5-20 K after annealing in the absence of oxygen.30,31 Recently, in a copper-free oxide superconductor, Ba_{1-x}K_{x}BiO_{3-y}, whose carriers are electrons (on the contrary, the carriers of cuprate oxide superconductors are holes), positron annihilation lifetime measurements32 have revealed a correlation between the increase in T_{c} after a high-temperature oxygen anneal and the filling of oxygen vacancies (i.e., oxygen stoichiometry).
+
+As mentioned above, the T_{c} of the Bi_{1},?Pb_{0.3}Sr_{2}Ca_{2}Cu_{3}O_{y}F_{x} sample is continuously raised while the value of x is increased from 0.0 to 0.8 mol. A very interesting correlation between T_{c} and the positron annihilation parameter can be found from Tables 1 and 2 (or Fig. 1). The above analyses (in Secs. III.1 and III.2) have shown that F doping in the Bi(Pb)-2:2:2:3 can indeed prevent oxygen intaking during the process of high-temperature solid-state reaction and introduce anion vacancies in the Bi-O plane effectively, which are responsible for the increase of T_{c} in the F-doped Bi(Pb)-2:2:2:3 superconductors.
+
+It has been reported2 that the fluorine doping can obviously raise the J_{c} of the Bi(Pb)-2:2:2:3 superconductors. As we know, controlled introduction of flux-pinning centers in HTSC's, such as the irradiation and the controlled introduction of concentrations of oxygen vacancies, is a practical method to raise J_{c}. The optimum size of the pinning defects is set by the coherence length and is on the order of a nanometer for HTSC materials.33 A Bi-O vacancy complex has a larger defect size and is a better flux-pinning center than a Bi or O monovacancy. Hence, the increase of the concentration of the Bi-O vacancy complexes can account for the increase in the J_{c} with F content.
+
+In summary, positron annihilation lifetime spectra were measured on F-doped Bi(Pb)-2:2:2:3 superconductors as a function of F content and analyzed by using a numerical Laplace inversion method. The changes in the positron-annihilation-rate distributions (ARD's) indicate that the F doping can produce a number of anion vacancies (oxygen deficiency) and raise the concentration of Bi-O vacancy complexes in the Bi-O planes, which are substantiated by an anneal experiment in vacuum. Oxygen deficiencies d of all samples are estimated. The correlation between oxygen deficiency and T_{c} is discussed and our positron results suggest that oxygen deficiency and the increase in the concentration of the Bi-O vacancy complexes are responsible for the increases in T_{c} and J_{c}.
+
+## Acknowledgments
+
+This work was supported by the National Science Foundation and the National Center for R&D on Superconductivity of China.
+
+## References
+
+* [1] X. H. Gao, J. Li, D. Gao, G. D. Zheng, and S. Gao, Mod. Phys. Lett. B **6**, 943 (1992).
+* [2] Q. Wei, X. H. Zhou, J. G. Cai, X. H. Gao, X. L. Wu, U. S. Fu, J. H. Zhu, and X. W. Cao, Physica C **208**, 347 (1993).
+* [3] Z. Tang, S. J. Wang, X. H. Gao, G. C. Ce, and Z. X. Zhao, Phys. Lett. A **178**, 320 (1993).
+* [4] D. R. Harshman, L. F. Schneemeyer, J. V. Wasczczak, Y. C. Jean, M. J. Fluss, R. H. Howell, and A. L. Wachs, Phys. Rev. B **38**, 848 (1988).
+* [5] S. G. Usmar, K. G. Lynn, A. R. Moodenbaugh, M. Suenaga, and R. L. Sabatini, Phys. Rev. B **38**, 5126 (1988).
+* [6] Y. C. Jean, C. S. Sundar, A. Bharathi, J. Kyle, H. Nakanishi, P. K. Tseng, P. H. Hor, R. L. Meng, Z. J. Huang, C. W. Zhu, Z. Z. Wang, P. E. A. Turchi, R. H. Howell, A. L. Wachs, and M. J. Fluss, Phys. Rev. Lett. **64**, 1593 (1990).
+* [7] A. Chen, Y. Zhi, B. R. Li, and S. J. Wang, Phys. Lett. A **165**, 171 (1992).
+* [8] P. Gopalan, E. R. Priya, M. Premila, C. S. Sundar, and K. P. Gopinathan, Mater. Sci. Forum **105-110**, 1033 (1992).
+* [9] S. J. Wang, Z. Tang, Z. Q. Chen, X. H. Gao, S. F. Jian, and J. Li, Phys. Rev. B **49**, 4319 (1994).
+* [10] S. W. Provencher, Comput. Phys. Commun. **27**, 229 (1982).
+* [11] R. B. Gregory and Y. Zhu, Nucl. Instrum. Methods Phys. Res. Sect. A **290**, 172 (1990).
+* [12] R. B. Gregory, Nucl. Instrum. Methods Phys. Res. Sect. A **302**, 496 (1991).
+* [13] Y. C. Jean and G. F. Dai, Nucl. Instrum. Methods Phys. Res. Sect. B **79**, 356 (1993).
+* [14] X. H. Gao, X. L. Wu, H. Yan, Z. L. Yin, C. D. Lin, Y. S. Fu, and W. X. Xie, Chin. J. Low Temp. Phys. **12**, 213 (1990) (in Chinese).
+* [15] P. Kirkegaard, M. Eldrup, O. E. Mogensen, and N. J. Pedersen, Comput. Phys. Commun. **23**, 307 (1981).
+* [16] D. M. Schrader and S. G. Usmar, in _Positron Annihilation Studies on Fluids_, edited by S. C. Sharma (World Scientific, Singapore, 1988), p. 215.
+* [17] G. H. Dai, Q. Deng, J. Liu, H. Shi, C. M. Huang, and Y. C. Jean, J. Phys. IV (France) **C4**, 233 (1993).
+
+ * [18] Z. Tang and S. J. Wang (unpublished).
+* [19] T. McMullen, P. Jena, S. N. Khanna, Y. Li, and O. K. Jensen, Phys. Rev. B **43**, 10 422 (1990).
+* [20] A. Bharathi, C. S. Sundar, W. Y. Ching, Y. C. Jean, P. H. Hor, Y. Y. Xue, and C. W. Chu, Phys. Rev. B **42**, 10 199 (1990).
+* [21] R. M. Hazen, in _Physical Properties of High-Temperature Superconductors II_, edited by D. M. Ginsberg (World Scientific, Singapore, 1990), p. 121.
+* [22] Z. Tang, Z. Q. Chen, S. J. Wang, G. C. Ce, and Z. X. Zhao, J. Phys. Condens. Matter **5**, 345 (1993).
+* [23] D. M. Schrader, in _Positron and Positronium Chemistry_, edited by D. M. Schrader and Y. C. Jean (Elsevier, Amsterdam, 1988), p. 81.
+* [24] H. Hermes, M. Forster, and H.-E. Schaefer, Phys. Rev. B **43**, 10 399 (1991).
+* [25] A. Seeger and F. Banhart, Phys. Status Solidi A **102**, 171 (1989).
+* [26] H.-E. Schaefer and M. Forster, Mater. Sci. Eng. A **109**, 161 (1989).
+* [27] P. Jorgensen, Phys. Today **44** (No. 6), 34 (1991).
+* [28] J. B. Torrance, Y. Tokura, A. I. Nazzal, and S. S. P. Parkin, Phys. Rev. Lett. **60**, 542 (1988).
+* [29] N. Fukushima, H. Niu, S. Nakamura, S. Takano, M. Hayashi, and K. Ando, Physica C **159**, 777 (1989).
+* [30] S. Kambe, T. Matsuoka, M. Takahashi, M. Kawai, and T. Kawai, Phys. Rev. B **42**, 2669 (1990).
+* [31] Y. Murakoshi, S. Kambe, and M. Kawai, Physica C **190**, 139 (1991).
+* [32] W. D. Mosely, J. W. Dykes, P. Klavins, R. N. Shelton, P. A. Sterne, and R. H. Howell, Phys. Rev. B **48**, 611 (1993).
+* [33] D. Larbalestier, Phys. Today **44** (No. 6), **74**, (1991).
+
+ 

@@ -1,0 +1,195 @@
+
+
+# High anisotropy and a dimensionality crossover in the irreversibility behavior
+
+of oxygen-deficient YBa_{2}Cu_{3}O_{7-y}
+
+K. E. Gray, D. H. Kim, and B. W. Veal
+
+Materials Science Division, Argonne National Laboratory, Argonne, Illinois 60439
+
+G. T. Seidler and T. F. Rosenbaum
+
+James Franck Institute and the Department of Physics, University of Chicago, Chicago, Illinois 60637
+
+D. E. Farrell
+
+Department of Physics, Case Western Reserve University, Cleveland, Ohio 44106
+
+25 November 1991
+
+###### Abstract
+
+The width in temperature of the reversible, lossy state of high-temperature superconductors (HTS's) in a magnetic field H depends on the degree of anisotropy. Compared to the parent compound YBa_{2}Cu_{3}O_{7}, we show here that oxygen-deficient, YBa_{2}Cu_{3}O_{7-y} single crystals, in which T_{c} was varied from 10 to 55 K, are much more anisotropic and that the occurrence of the reversible, lossy state for the \mathbf{H}\|c axis is consistent with a crossover from three-dimensional (3D) vortex lines to 2D vortices, as recently proposed for the other highly anisotropic HTS's. These results, together with those from Tl_{2}Ba_{2}CaCu_{2}O_{x} and Bi_{2}Sr_{2}CaCu_{2}O_{x}, indicate universal behavior of almost isolated Cu-O bilayer units, albeit with different doping levels, and which display magnetic reversibility controlled by the residual weak interplanar coupling.
+
+The wide temperature range of the reversible, lossy state of the high-temperature superconductors (HTS's) in a magnetic field was recognized[1] soon after their discovery. This behavior, which had gone virtually undetected in conventional superconductors, is of interest, both for a fundamental understanding of the HTS's and because it degrades their performance in finite-field applications. Resistance measurements in magnetic fields parallel to the c axis for a series of the highly anisotropic high-temperature superconductors have been interpreted[2] in terms of a change in dimensionality, in which motion of the external flux results from a thermally activated crossover from three-dimensional (3D) vortex _lines_ to 2D vortices[3] that can move independently in the Cu-O bi- or trilayers (multilayers). The authors of Ref. [2] further concluded that because of strong interlayer coupling by the Cu-O chains in YBa_{2}Cu_{3}O_{7}, crossover never occurs below the upper critical field H_{c2}(T). However, it is well known[4] that when oxygen is removed from YBa_{2}Cu_{3}O_{7}, the chains are depopulated first, presumably leading to fewer holes in the Cu-O layers and a lower transition temperature T_{c}. In this paper we show evidence that with decreasing oxygen the chains in severely oxygen-deficient YBa_{2}Cu_{3}O_{7-y} also become less effective at coupling the neighboring Cu-O bilayers. The anisotropy between the c-axis direction and ab plane increases significantly. Torque magnetization measurement[5] on less oxygen-deficient YBa_{2}Cu_{3}O_{7-y} also show increases in the anisotropy and magnetic-field penetration depth which are consistent with our determinations. In addition, the irreversibility fields, determined here by magnetic susceptibility or magnetization, are in excellent agreement with the 3D-to-2D crossover model of Ref. [2]. These results, together with those from Tl_{2}Ba_{2}CaCu_{2}O_{x} and Bi_{2}Sr_{2}CaCu_{2}O_{x}, indicate universal behavior of almost isolated Cu-O bilayer units, albeit with different doping levels and displaying magnetic reversibility controlled by the residual weak interplanar coupling.
+
+The crossover to 2D severely weakens the effective pinning, since the 2D vortices must then rely on pinning only in their own _individual_ Cu-O multilayer. In the model the 3D-to-2D crossover occurs[2] when thermal fluctuations have significantly weakened the Josephson coupling of the phases of the superconducting order parameter between neighboring Cu-O multilayers. Simultaneously, the Josephson tunneling changes from coherent to incoherent. Using Josephson tunneling[6; 7] for the _interlayer_ vortex coupling and conventional 2D depinning[8; 9] for the isolated Cu-O multilayers, the characteristic crossover fields H^{\bullet}(T) for the more highly anisotropic HTS's, i.e., Tl_{2}Ba_{2}CaCu_{2}O_{x}, TlBa_{2}CaCu_{2}O_{x}, TlBa_{2}CaCu_{2}O_{x} and Bi_{2}Sr_{2}CaCu_{2}O_{x}, were fit[2] convincingly with parameters which are in substantial agreement with available measurements or reasonable expectations. The systematics of these parameters further supported a Josephson-tunneling model, since fitted values of the c-axis resistivities \rho_{c} depended approximately exponentially on the insulator width between Cu-O multilayers, with a reasonable tunneling barrier height of \sim0.8 eV. Recent experiments on a Bi_{2}Sr_{2}CaCu_{2}O_{x} single crystal using the high-Q mechanical-oscillator technique[10] exhibited two loss peaks, anticipated by the model[2] and thus giving it further support.[11] The single loss peak in mechanical-oscillator experiments[12] on YBa_{2}Cu_{3}O_{7} is consistent with the absence of the 3D-to-2D crossover.
+
+In this model there are two relevant energies for the 2D vortices. The first is for coupling between adjacent Cu-O bilayers, and it is given by the Josephson-coupling energy for the phase of the superconducting order parameter,[8]E_{cj}(H,T). The second is for vortex motion within each isolated Cu-O bilayer, which is modeled by conventional depinning.[8] The model of Ref. [2] defined a characteristic crossover temperature from 3D to 2D vortices, as H and/or T increase, by
+
+\[k_{B}T = 2E_{cj}(H,T) = \frac{\pi\hbar\Delta(T)}{e^{2}R_{N}}\,\tanh\left[\frac{\Delta(T)} {2k_{B}T}\right](1 - b)\ ,\] (1)
+
+where the factor of 2 accounts for both Cu-O bilayers (above and below), R_{N} is the normal-state resistance of the junction, \Delta(T) is the energy gap, and b \equiv H/H_{c2}. Note that such a crossover is meaningful only if the well-coupled 3D vortex lines are sufficiently pinned somewhere along their length. In the 2D isolated Cu-O bilayer regime, as H and/or T increase, a characteristic temperature for vortex motion _within their individual Cu-O bilayer_ was defined by
+
+\[k_{B}T = E_{cp}(H,T) = \alpha_{p}\pi\xi_{ab}^{2}d_{s}\frac{B_{c}^{2}}{2\mu_{0}}(1 - b)^{2}\ ,\] (2)
+
+where E_{cp}(H,T) is the energy associated with 2D depinning,[8]\alpha_{p} represents the effective strength of the pinning, \xi_{ab} is the in-plane coherence length, d_{s} is the bilayer thickness, and B_{c} is the thermodynamic critical field. For magnetization relaxation or the dissipation found in transport,[2] the 2D vortices must be completely excited out of their potential wells, and so the condition is
+
+\[k_{B}T = 2E_{cj}(H^{\bullet},T) + E_{cp}(H^{\bullet},T)\ ,\] (3)
+
+which can be solved for H^{\bullet}(T), the crossover field.
+
+In order to confirm the applicability of the 3D-to-2D crossover model, the anisotropy was measured in fully annealed samples with y \sim 0.6 by torque magnetization[13] and with y \sim 0.62 by resistivity ratio: They indicated \sim 2500 and 3000, respectively, which is a significant increase over the value of 30 for YBa_{2}Cu_{3}O_{7}. Most of the reversibility data on oxygen-deficient YBa_{2}Cu_{3}O_{7-y} came from conventional magnetization irreversibility (samples _A, C, D, E_, and F). Data for sample B has been presented in Ref. [14]: There the midpoint of the real part of the susceptibility transition was equated to H^{\bullet}. They pointed out that use of the peak in the imaginary part, or the onset of the real part, of the susceptibility works equally well. Details of the sample preparation and susceptibility techniques are given in Ref. [14]. For the present analysis, only the smallest excitation field of 3.5 G was used, and these results agreed with standard magnetization measurements. The data for a particular sample, shown in Fig. 1, are best compared to the model in a double-logarithmic plot of H/H_{c2}(0) versus 1-t, where H_{c2}(0) = 19 T is the upper critical field at zero temperature, t \equiv T/T_{c0}, and T_{c0} = 17 K is the transition temperature in zero field. At high temperature the fit determines the Josephson-coupling parameter, essentially \rho_{c}, while the rise in H^{\bullet} at low temperatures determines the pinning parameter, essentially \alpha_{p}B_{c}^{2}.
+
+Equally good fits to the model are shown in Fig. 2 for the data taken on a number of samples for different annealing times (B1 - B4 and D1 - D4) and oxygen contents. The parameters for these samples, together with those from the literature[15] for YBa_{2}Cu_{3}O_{7}, are listed in Table 1. The fitted values of \rho_{c} are much larger than the well-established value measured in YBa_{2}Cu_{3}O_{7}, for which the 3D-to-2D model must be presumed inapplicable.[2] Although the in-plane resistivity \rho_{ab} is about 10 times higher for very oxygen-deficient samples than for YBa_{2}Cu_{3}O_{7}, \rho_{c}/\rho_{ab} is still significantly larger than the measured anisotropy. It should be remembered, however, that resistivity and torque measurements of the anisotropy may be no more than lower limits: Estimates for Bi_{2}Sr_{2}CaCu_{2}O_{x} have steadily progressed from \sim15 to 50 000 as samples and techniques have improved.
+
+The fitted values of B_{c}(0) for oxygen-deficient YBa_{2}Cu_{3}O_{7-y} are shown in Fig. 3, together with the results of Ref. [2] for Tl_{2}Ba_{2}CaCu_{2}O_{x} and Bi_{2}Sr_{2}CaCu_{2}O_{x}. These represent a series of samples, consisting simply of well-isolated Cu-O bilayers, in which T_{c} varies from 10 to 100 K. Figure 3 shows that B_{c}(0) is closely proportional
+
+Figure 2: Magnetization and susceptibility determinations of the irreversibility lines for different annealing times and different oxygen deficiencies. Curves are offset (by the factor indicated) for clarity. The letters refer to the samples shown in Table 1.
+
+Figure 1: Magnetic-susceptibility data of the irreversibility line for YBa_{2}Cu_{3}O_{7-y} single crystal. The line represents a calculation of H^{\bullet} using the 3D-to-2D crossover model of Ref. [2], which is described in the text.
+
+  to T_{c} for all these. We have used the measured value[15] of B_{c}(0) for YBa_{2}Cu_{3}O_{7} to fix the undetermined parameter \alpha_{p} at 0.25 for all data shown in Figs. 3 and 4, but not too much should be read into this as there is uncertainly in the appropriate coefficient and details of the low-temperature depinning and/or melting model for the 2D vortices. The fact that a single \alpha_{p} is appropriate for all these samples is a bit surprising:
+
+It may imply that there is a universal pinning defect in Cu-O bilayers. The inset shows a logarithmic plot of this data for comparison with conventional weak- and strong-coupling elemental and compound superconductors. BCS theory predicts that
+
+\[B_{c}(0)/k_{B}T_{c} = (\Delta/k_{B}T_{c})\sqrt{4\pi N(0)}\ ,\]
+
+where \Delta is the energy gap and N(0) is the density of states of one spin at the Fermi energy. The variations in N(0) are seen in the data for conventional superconductors (note that for strong coupling, \Delta/k_{B}T_{c} and often N(0) are larger). Tunneling[16] in both Tl_{2}Ba_{2}CaCu_{3}O_{x} and Bi_{2}Sr_{2}CaCu_{2}O_{x} shows that S\!\equiv\!(\Delta/k_{B}T_{c})/(\Delta_{\rm BCS}/k_{B}T_{c}) is about 2: Therefore the data of Fig. 3 imply that N(0)\!\sim\!5\!\times\!10^{21} eV^{-1} cm^{-3} for the highly anisotropic HTS's. This is close to the value of 3.2\!\times\!10^{21} eV^{-1} cm^{-3}, which is the 2D free-electron density of states (for one spin) m/2\pi\hbar^{2} divided by the average Cu-O _single-layer_ spacing (0.65 nm).
+
+There are good indications that HTS's are in the clean limit,[17] in which case H_{c2}\!=\!H_{c2}(0)\!\left(1\!-\!t^{2}\right), where H_{c2}(0)\!=\!\Phi_{0}/2\pi\xi_{\rm BCS}^{2}, \xi_{\rm BCS}\!=\!\hbar v_{F}/\pi\Delta, and v_{F} is the Fermi velocity. Neglecting the small unknown corrections for strong-coupling effects,[18] but using S\!=\!2, we show the resulting v_{F} in Fig. 4. Therefore we expect a considerable variation in the London penetration length,
+
+\[\lambda_{ab}^{-2} = \frac{4\pi r_{0}N(0)mv_{F}^{2}}{3}\ ,\] (4)
+
+for the constant N(0) found above (here r_{0} is the classical electron radius e^{2}/mc^{2}). This variation has been found in both torque[5] and muon-spin measurements.[19] Note that this determination of \lambda_{ab} is identical to the use of B_{c}(0) and H_{c2}(0) to find \xi_{\rm GL} and \kappa\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!  areal carrier density (both spins) per Cu-O layer, n_{a}, since in a 2D free-electron system one expects n_{a}\!=\!(m\!\ /\pi\overline{n}^{2})mv_{F}^{2}/2. This interpretation with the fit of Fig. 4 would imply that T_{c} is proportional to n_{a}. An alternative explanation is that spin fluctuations become important as the antiferromagentic insulator is approached with decreasing oxygen content. This pair-breaking interaction would not only reduce T_{c}, but it would provide a mass enhancement to reduce v_{F}. However, the fact of 3 in v_{F} is hard to account for in, e.g., an Allen-Dynes formulation.[20]
+
+The inset of Fig. 4 shows a strong dependence of T_{c} on \rho_{c} for YBa_{2}Cu_{3}O_{7-y}, but not for Tl_{2}Ba_{2}CaCu_{2}O_{x} and Bi_{2}Sr_{2}CaCu_{2}O_{x}. Thus, in addition to decreasing T_{c}, the depopulating and/or disordering of the chains is seen to systematically decrease the c-axis coupling (conductivity). This may reflect chain segments acting to short out the Josephson tunneling between Cu-O bilayer units.
+
+In summary, we have shown that oxygen-deficient YBa_{2}Cu_{3}O_{7-y} single crystals become significantly more anisotropic than the parent compound YBa_{2}Cu_{3}O_{7}. In addition, the proposed model of resistive broadening in the highly anisotropic HTS's, as a crossover from 3D vortex lines to 2D vortices, is consistent with the recent, magnetically determined irreversibility fields for oxygen-deficient YBa_{2}Cu_{3}O_{7-y} single crystals, in which T_{c} varied from 10 to 55 K. Studies are also planned to determine how, and at what oxygen concentration, the 3D-to-2D crossover becomes relevant. The parameters determined and derived from such fits are consistent with the isolated Cu-O bilayers being 2D, nearly free-electron systems in which T_{c} is primarily determined by the areal carrier density. Finally, the system properties seem to depend on the value of T_{c} and not whether it was achieved through decreased oxygen content or thermally quenched disorder of the Cu-O chains.
+
+This work is partially supported by the U.S. Department of Energy, Division of Basis Energy Sciences-Materials Sciences (K.E.G. and D.H.K.) under Contract No. W-31-109-ENG-38 and the National Science Foundation (DMR 88-09854) through the Science and Technology Center for Superconductivity (G.T.S. and T.F.R.). The work at Case Western Reserve University (D.E.F.) was supported by NASA Grants No. NAG-3-814 and No. NCC 123 and by the National Science Foundation Grant No. NSF-DMR 89-13651.
+
+## References
+
+* [1] K. A. Muller, M. Takashige, and J. G. Bednorz, Phys. Rev. Lett. **58**, 1143 (1987).
+* [2] D. H. Kim, K. E. Gray, R. T. Kampwirth, J. C. Smith, D. S. Richeson, T. J. Marks, J. H. Kang, J. Talvacchio, and M. Eddy, Physica C **177**, 431 (1991).
+* [3] J. R. Clem, Phys. Rev. B **43**, 7837 (1991).
+* [4] J. D. Jorgensen, B. W. Veal, A. P. Paulikas, L. J. Nowicki, G. W. Crabtree, H. Claus, and W. K. Kwok, Phys. Rev. B **41**, 1863 (1990).
+* [5] B. Janossy, D. Prost, S. Pekker, and L. Fruchter, Physica C **181**, 51 (1991).
+* [6] V. Ambegaokar and A. Baratoff, Phys. Rev. Lett. **10**, 486 (1963).
+* [7] D. H. Kim, K. E. Gray, and J. H. Kang, Phys. Rev. B **45**, 7563 (1992).
+* [8] K. E. Gray, R. T. Kampwirth, J. M. Murduck, and D. W. Capone II, Physica C **152**, 445 (1988).
+* [9] P. H. Kes, J. Aarts, J. van den Berg, C. J. van der Beek, and J. A. Mydosh, Supercond. Sci. Technol. **1**, 242 (1989).
+* [10] C. Duran, J. Yazyi, F. de la Cruz, D. J. Bishop, D. B. Mitzi, and A. Kapitulnik, Phys. Rev. B **44**, 7737 (1991).
+* [11] K. E. Gray and D. H. Kim (unpublished).
+* [12] P. L. Gammel, L. F. Schneemeyer, J. V. Waszczak, and D. J. Bishop, Phys. Rev. Lett. **61**, 1666 (1988).
+* [13] D. E. Farrell, C. M. Williams, S. A. Wolf, N. P. Bansal, and V. G. Kogan, Phys. Rev. Lett. **61**, 2805 (1988).
+* [14] G. T. Seidler, T. F. Rosenbaum, D. L. Heinz, J. W. Downey, A. P. Paulikas, and B. W. Veal, Physica C **183**, 333 (1991).
+* [15] U. Welp, W. K. Kwok, G. W. Crabtree, K. G. Vandervoort, and J. Z. Liu, Phys. Rev. Lett. **62**, 1908 (1989); A. Umezawa, G. W. Crabtree, U. Welp, W. K. Kwok, K. G. Vandervoort, and J. Z. Liu, Phys. Rev. B **42**, 8744 (1990); L. Krusin-Elbaum, R. L. Greene, F. Holtzberg, A. P. Malozemoff, and Y. Yeshurun, Phys. Rev. Lett. **62**, 217 (1989).
+* [16] Qiang Huang, J. F. Zasadzinski, K. E. Gray, J. Z. Liu, and H. Claus, Phys. Rev. B **40**, 9366 (1989); Qiang Huang, J. F. Zasadzinski, K. E. Gray, E. D. Bukowski, and D. M. Ginsberg, Physica C **161**, 141 (1989).
+* [17] K. Kamaras _et al._, Phys. Rev. Lett. **64**, 84 (1990).
+* [18] T. P. Orlando, E. J. McNiff, Jr., S. Foner, and M. R. Beasley, Phys. Rev. B **19**, 4545 (1979).
+* [19] Y. J. Uemura _et al._ Phys. Rev. Lett. **62**, 2317 (1989).
+* [20] P. B. Allen and R. C. Dynes, Phys. Rev. B **12**, 905 (1975); K. E. Gray, R. T. Kampwirth, D. W. Capone, R. Vaglio, and J. F. Zasadzinski, _ibid._**38**, 2333 (1988).
+
+Figure 4: Dependence of Fermi velocity, as derived in the text, on T_{c}. The straight line is a least-squares fit. The inset shows the dependence of T_{c} on the fitted value of \rho_{c}(0) for the oxygen-deficient YBa_{2}Cu_{3}O_{7-y} data (solid diamonds) and for Tl_{2}Ba_{2}CaCu_{2}O_{x} and Bi_{2}Sr_{2}CaCu_{2}O_{x} from Ref. [2] (open circles). The line if a least-squares power-law fit to the oxygen-deficient YBa_{2}Cu_{3}O_{y}-\gamma.
+
+ 
+
+# High anisotropy and a dimensionality crossover in the irreversibility behavior
+
+of oxygen-deficient YBa_{2}Cu_{3}O_{7-y}
+
+K. E. Gray, D. H. Kim, and B. W. Veal
+
+Materials Science Division, Argonne National Laboratory, Argonne, Illinois 60439
+
+G. T. Seidler and T. F. Rosenbaum
+
+James Franck Institute and the Department of Physics, University of Chicago, Chicago, Illinois 60637
+
+D. E. Farrell
+
+Department of Physics, Case Western Reserve University, Cleveland, Ohio 44106
+
+25 November 1991
+
+###### Abstract
+
+The width in temperature of the reversible, lossy state of high-temperature superconductors (HTS's) in a magnetic field H depends on the degree of anisotropy. Compared to the parent compound YBa_{2}Cu_{3}O_{7}, we show here that oxygen-deficient, YBa_{2}Cu_{3}O_{7-y} single crystals, in which T_{c} was varied from 10 to 55 K, are much more anisotropic and that the occurrence of the reversible, lossy state for the \mathbf{H}\|c axis is consistent with a crossover from three-dimensional (3D) vortex lines to 2D vortices, as recently proposed for the other highly anisotropic HTS's. These results, together with those from Tl_{2}Ba_{2}CaCu_{2}O_{x} and Bi_{2}Sr_{2}CaCu_{2}O_{x}, indicate universal behavior of almost isolated Cu-O bilayer units, albeit with different doping levels, and which display magnetic reversibility controlled by the residual weak interplanar coupling.
+
+The wide temperature range of the reversible, lossy state of the high-temperature superconductors (HTS's) in a magnetic field was recognized[1] soon after their discovery. This behavior, which had gone virtually undetected in conventional superconductors, is of interest, both for a fundamental understanding of the HTS's and because it degrades their performance in finite-field applications. Resistance measurements in magnetic fields parallel to the c axis for a series of the highly anisotropic high-temperature superconductors have been interpreted[2] in terms of a change in dimensionality, in which motion of the external flux results from a thermally activated crossover from three-dimensional (3D) vortex _lines_ to 2D vortices[3] that can move independently in the Cu-O bi- or trilayers (multilayers). The authors of Ref. [2] further concluded that because of strong interlayer coupling by the Cu-O chains in YBa_{2}Cu_{3}O_{7}, crossover never occurs below the upper critical field H_{c2}(T). However, it is well known[4] that when oxygen is removed from YBa_{2}Cu_{3}O_{7}, the chains are depopulated first, presumably leading to fewer holes in the Cu-O layers and a lower transition temperature T_{c}. In this paper we show evidence that with decreasing oxygen the chains in severely oxygen-deficient YBa_{2}Cu_{3}O_{7-y} also become less effective at coupling the neighboring Cu-O bilayers. The anisotropy between the c-axis direction and ab plane increases significantly. Torque magnetization measurement[5] on less oxygen-deficient YBa_{2}Cu_{3}O_{7-y} also show increases in the anisotropy and magnetic-field penetration depth which are consistent with our determinations. In addition, the irreversibility fields, determined here by magnetic susceptibility or magnetization, are in excellent agreement with the 3D-to-2D crossover model of Ref. [2]. These results, together with those from Tl_{2}Ba_{2}CaCu_{2}O_{x} and Bi_{2}Sr_{2}CaCu_{2}O_{x}, indicate universal behavior of almost isolated Cu-O bilayer units, albeit with different doping levels and displaying magnetic reversibility controlled by the residual weak interplanar coupling.
+
+The crossover to 2D severely weakens the effective pinning, since the 2D vortices must then rely on pinning only in their own _individual_ Cu-O multilayer. In the model the 3D-to-2D crossover occurs[2] when thermal fluctuations have significantly weakened the Josephson coupling of the phases of the superconducting order parameter between neighboring Cu-O multilayers. Simultaneously, the Josephson tunneling changes from coherent to incoherent. Using Josephson tunneling[6; 7] for the _interlayer_ vortex coupling and conventional 2D depinning[8; 9] for the isolated Cu-O multilayers, the characteristic crossover fields H^{\bullet}(T) for the more highly anisotropic HTS's, i.e., Tl_{2}Ba_{2}CaCu_{2}O_{x}, TlBa_{2}CaCu_{2}O_{x}, TlBa_{2}CaCu_{2}O_{x} and Bi_{2}Sr_{2}CaCu_{2}O_{x}, were fit[2] convincingly with parameters which are in substantial agreement with available measurements or reasonable expectations. The systematics of these parameters further supported a Josephson-tunneling model, since fitted values of the c-axis resistivities \rho_{c} depended approximately exponentially on the insulator width between Cu-O multilayers, with a reasonable tunneling barrier height of \sim0.8 eV. Recent experiments on a Bi_{2}Sr_{2}CaCu_{2}O_{x} single crystal using the high-Q mechanical-oscillator technique[10] exhibited two loss peaks, anticipated by the model[2] and thus giving it further support.[11] The single loss peak in mechanical-oscillator experiments[12] on YBa_{2}Cu_{3}O_{7} is consistent with the absence of the 3D-to-2D crossover.
+
+In this model there are two relevant energies for the 2D vortices. The first is for coupling between adjacent Cu-O bilayers, and it is given by the Josephson-coupling energy for the phase of the superconducting order parameter,[8]E_{cj}(H,T). The second is for vortex motion within each isolated Cu-O bilayer, which is modeled by conventional depinning.[8] The model of Ref. [2] defined a characteristic crossover temperature from 3D to 2D vortices, as H and/or T increase, by
+
+\[k_{B}T = 2E_{cj}(H,T) = \frac{\pi\hbar\Delta(T)}{e^{2}R_{N}}\,\tanh\left[\frac{\Delta(T)} {2k_{B}T}\right](1 - b)\ ,\] (1)
+
+where the factor of 2 accounts for both Cu-O bilayers (above and below), R_{N} is the normal-state resistance of the junction, \Delta(T) is the energy gap, and b \equiv H/H_{c2}. Note that such a crossover is meaningful only if the well-coupled 3D vortex lines are sufficiently pinned somewhere along their length. In the 2D isolated Cu-O bilayer regime, as H and/or T increase, a characteristic temperature for vortex motion _within their individual Cu-O bilayer_ was defined by
+
+\[k_{B}T = E_{cp}(H,T) = \alpha_{p}\pi\xi_{ab}^{2}d_{s}\frac{B_{c}^{2}}{2\mu_{0}}(1 - b)^{2}\ ,\] (2)
+
+where E_{cp}(H,T) is the energy associated with 2D depinning,[8]\alpha_{p} represents the effective strength of the pinning, \xi_{ab} is the in-plane coherence length, d_{s} is the bilayer thickness, and B_{c} is the thermodynamic critical field. For magnetization relaxation or the dissipation found in transport,[2] the 2D vortices must be completely excited out of their potential wells, and so the condition is
+
+\[k_{B}T = 2E_{cj}(H^{\bullet},T) + E_{cp}(H^{\bullet},T)\ ,\] (3)
+
+which can be solved for H^{\bullet}(T), the crossover field.
+
+In order to confirm the applicability of the 3D-to-2D crossover model, the anisotropy was measured in fully annealed samples with y \sim 0.6 by torque magnetization[13] and with y \sim 0.62 by resistivity ratio: They indicated \sim 2500 and 3000, respectively, which is a significant increase over the value of 30 for YBa_{2}Cu_{3}O_{7}. Most of the reversibility data on oxygen-deficient YBa_{2}Cu_{3}O_{7-y} came from conventional magnetization irreversibility (samples _A, C, D, E_, and F). Data for sample B has been presented in Ref. [14]: There the midpoint of the real part of the susceptibility transition was equated to H^{\bullet}. They pointed out that use of the peak in the imaginary part, or the onset of the real part, of the susceptibility works equally well. Details of the sample preparation and susceptibility techniques are given in Ref. [14]. For the present analysis, only the smallest excitation field of 3.5 G was used, and these results agreed with standard magnetization measurements. The data for a particular sample, shown in Fig. 1, are best compared to the model in a double-logarithmic plot of H/H_{c2}(0) versus 1-t, where H_{c2}(0) = 19 T is the upper critical field at zero temperature, t \equiv T/T_{c0}, and T_{c0} = 17 K is the transition temperature in zero field. At high temperature the fit determines the Josephson-coupling parameter, essentially \rho_{c}, while the rise in H^{\bullet} at low temperatures determines the pinning parameter, essentially \alpha_{p}B_{c}^{2}.
+
+Equally good fits to the model are shown in Fig. 2 for the data taken on a number of samples for different annealing times (B1 - B4 and D1 - D4) and oxygen contents. The parameters for these samples, together with those from the literature[15] for YBa_{2}Cu_{3}O_{7}, are listed in Table 1. The fitted values of \rho_{c} are much larger than the well-established value measured in YBa_{2}Cu_{3}O_{7}, for which the 3D-to-2D model must be presumed inapplicable.[2] Although the in-plane resistivity \rho_{ab} is about 10 times higher for very oxygen-deficient samples than for YBa_{2}Cu_{3}O_{7}, \rho_{c}/\rho_{ab} is still significantly larger than the measured anisotropy. It should be remembered, however, that resistivity and torque measurements of the anisotropy may be no more than lower limits: Estimates for Bi_{2}Sr_{2}CaCu_{2}O_{x} have steadily progressed from \sim15 to 50 000 as samples and techniques have improved.
+
+The fitted values of B_{c}(0) for oxygen-deficient YBa_{2}Cu_{3}O_{7-y} are shown in Fig. 3, together with the results of Ref. [2] for Tl_{2}Ba_{2}CaCu_{2}O_{x} and Bi_{2}Sr_{2}CaCu_{2}O_{x}. These represent a series of samples, consisting simply of well-isolated Cu-O bilayers, in which T_{c} varies from 10 to 100 K. Figure 3 shows that B_{c}(0) is closely proportional
+
+Figure 2: Magnetization and susceptibility determinations of the irreversibility lines for different annealing times and different oxygen deficiencies. Curves are offset (by the factor indicated) for clarity. The letters refer to the samples shown in Table 1.
+
+Figure 1: Magnetic-susceptibility data of the irreversibility line for YBa_{2}Cu_{3}O_{7-y} single crystal. The line represents a calculation of H^{\bullet} using the 3D-to-2D crossover model of Ref. [2], which is described in the text.
+
+  to T_{c} for all these. We have used the measured value[15] of B_{c}(0) for YBa_{2}Cu_{3}O_{7} to fix the undetermined parameter \alpha_{p} at 0.25 for all data shown in Figs. 3 and 4, but not too much should be read into this as there is uncertainly in the appropriate coefficient and details of the low-temperature depinning and/or melting model for the 2D vortices. The fact that a single \alpha_{p} is appropriate for all these samples is a bit surprising:
+
+It may imply that there is a universal pinning defect in Cu-O bilayers. The inset shows a logarithmic plot of this data for comparison with conventional weak- and strong-coupling elemental and compound superconductors. BCS theory predicts that
+
+\[B_{c}(0)/k_{B}T_{c} = (\Delta/k_{B}T_{c})\sqrt{4\pi N(0)}\ ,\]
+
+where \Delta is the energy gap and N(0) is the density of states of one spin at the Fermi energy. The variations in N(0) are seen in the data for conventional superconductors (note that for strong coupling, \Delta/k_{B}T_{c} and often N(0) are larger). Tunneling[16] in both Tl_{2}Ba_{2}CaCu_{3}O_{x} and Bi_{2}Sr_{2}CaCu_{2}O_{x} shows that S\!\equiv\!(\Delta/k_{B}T_{c})/(\Delta_{\rm BCS}/k_{B}T_{c}) is about 2: Therefore the data of Fig. 3 imply that N(0)\!\sim\!5\!\times\!10^{21} eV^{-1} cm^{-3} for the highly anisotropic HTS's. This is close to the value of 3.2\!\times\!10^{21} eV^{-1} cm^{-3}, which is the 2D free-electron density of states (for one spin) m/2\pi\hbar^{2} divided by the average Cu-O _single-layer_ spacing (0.65 nm).
+
+There are good indications that HTS's are in the clean limit,[17] in which case H_{c2}\!=\!H_{c2}(0)\!\left(1\!-\!t^{2}\right), where H_{c2}(0)\!=\!\Phi_{0}/2\pi\xi_{\rm BCS}^{2}, \xi_{\rm BCS}\!=\!\hbar v_{F}/\pi\Delta, and v_{F} is the Fermi velocity. Neglecting the small unknown corrections for strong-coupling effects,[18] but using S\!=\!2, we show the resulting v_{F} in Fig. 4. Therefore we expect a considerable variation in the London penetration length,
+
+\[\lambda_{ab}^{-2} = \frac{4\pi r_{0}N(0)mv_{F}^{2}}{3}\ ,\] (4)
+
+for the constant N(0) found above (here r_{0} is the classical electron radius e^{2}/mc^{2}). This variation has been found in both torque[5] and muon-spin measurements.[19] Note that this determination of \lambda_{ab} is identical to the use of B_{c}(0) and H_{c2}(0) to find \xi_{\rm GL} and \kappa\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!  areal carrier density (both spins) per Cu-O layer, n_{a}, since in a 2D free-electron system one expects n_{a}\!=\!(m\!\ /\pi\overline{n}^{2})mv_{F}^{2}/2. This interpretation with the fit of Fig. 4 would imply that T_{c} is proportional to n_{a}. An alternative explanation is that spin fluctuations become important as the antiferromagentic insulator is approached with decreasing oxygen content. This pair-breaking interaction would not only reduce T_{c}, but it would provide a mass enhancement to reduce v_{F}. However, the fact of 3 in v_{F} is hard to account for in, e.g., an Allen-Dynes formulation.[20]
+
+The inset of Fig. 4 shows a strong dependence of T_{c} on \rho_{c} for YBa_{2}Cu_{3}O_{7-y}, but not for Tl_{2}Ba_{2}CaCu_{2}O_{x} and Bi_{2}Sr_{2}CaCu_{2}O_{x}. Thus, in addition to decreasing T_{c}, the depopulating and/or disordering of the chains is seen to systematically decrease the c-axis coupling (conductivity). This may reflect chain segments acting to short out the Josephson tunneling between Cu-O bilayer units.
+
+In summary, we have shown that oxygen-deficient YBa_{2}Cu_{3}O_{7-y} single crystals become significantly more anisotropic than the parent compound YBa_{2}Cu_{3}O_{7}. In addition, the proposed model of resistive broadening in the highly anisotropic HTS's, as a crossover from 3D vortex lines to 2D vortices, is consistent with the recent, magnetically determined irreversibility fields for oxygen-deficient YBa_{2}Cu_{3}O_{7-y} single crystals, in which T_{c} varied from 10 to 55 K. Studies are also planned to determine how, and at what oxygen concentration, the 3D-to-2D crossover becomes relevant. The parameters determined and derived from such fits are consistent with the isolated Cu-O bilayers being 2D, nearly free-electron systems in which T_{c} is primarily determined by the areal carrier density. Finally, the system properties seem to depend on the value of T_{c} and not whether it was achieved through decreased oxygen content or thermally quenched disorder of the Cu-O chains.
+
+This work is partially supported by the U.S. Department of Energy, Division of Basis Energy Sciences-Materials Sciences (K.E.G. and D.H.K.) under Contract No. W-31-109-ENG-38 and the National Science Foundation (DMR 88-09854) through the Science and Technology Center for Superconductivity (G.T.S. and T.F.R.). The work at Case Western Reserve University (D.E.F.) was supported by NASA Grants No. NAG-3-814 and No. NCC 123 and by the National Science Foundation Grant No. NSF-DMR 89-13651.
+
+## References
+
+* [1] K. A. Muller, M. Takashige, and J. G. Bednorz, Phys. Rev. Lett. **58**, 1143 (1987).
+* [2] D. H. Kim, K. E. Gray, R. T. Kampwirth, J. C. Smith, D. S. Richeson, T. J. Marks, J. H. Kang, J. Talvacchio, and M. Eddy, Physica C **177**, 431 (1991).
+* [3] J. R. Clem, Phys. Rev. B **43**, 7837 (1991).
+* [4] J. D. Jorgensen, B. W. Veal, A. P. Paulikas, L. J. Nowicki, G. W. Crabtree, H. Claus, and W. K. Kwok, Phys. Rev. B **41**, 1863 (1990).
+* [5] B. Janossy, D. Prost, S. Pekker, and L. Fruchter, Physica C **181**, 51 (1991).
+* [6] V. Ambegaokar and A. Baratoff, Phys. Rev. Lett. **10**, 486 (1963).
+* [7] D. H. Kim, K. E. Gray, and J. H. Kang, Phys. Rev. B **45**, 7563 (1992).
+* [8] K. E. Gray, R. T. Kampwirth, J. M. Murduck, and D. W. Capone II, Physica C **152**, 445 (1988).
+* [9] P. H. Kes, J. Aarts, J. van den Berg, C. J. van der Beek, and J. A. Mydosh, Supercond. Sci. Technol. **1**, 242 (1989).
+* [10] C. Duran, J. Yazyi, F. de la Cruz, D. J. Bishop, D. B. Mitzi, and A. Kapitulnik, Phys. Rev. B **44**, 7737 (1991).
+* [11] K. E. Gray and D. H. Kim (unpublished).
+* [12] P. L. Gammel, L. F. Schneemeyer, J. V. Waszczak, and D. J. Bishop, Phys. Rev. Lett. **61**, 1666 (1988).
+* [13] D. E. Farrell, C. M. Williams, S. A. Wolf, N. P. Bansal, and V. G. Kogan, Phys. Rev. Lett. **61**, 2805 (1988).
+* [14] G. T. Seidler, T. F. Rosenbaum, D. L. Heinz, J. W. Downey, A. P. Paulikas, and B. W. Veal, Physica C **183**, 333 (1991).
+* [15] U. Welp, W. K. Kwok, G. W. Crabtree, K. G. Vandervoort, and J. Z. Liu, Phys. Rev. Lett. **62**, 1908 (1989); A. Umezawa, G. W. Crabtree, U. Welp, W. K. Kwok, K. G. Vandervoort, and J. Z. Liu, Phys. Rev. B **42**, 8744 (1990); L. Krusin-Elbaum, R. L. Greene, F. Holtzberg, A. P. Malozemoff, and Y. Yeshurun, Phys. Rev. Lett. **62**, 217 (1989).
+* [16] Qiang Huang, J. F. Zasadzinski, K. E. Gray, J. Z. Liu, and H. Claus, Phys. Rev. B **40**, 9366 (1989); Qiang Huang, J. F. Zasadzinski, K. E. Gray, E. D. Bukowski, and D. M. Ginsberg, Physica C **161**, 141 (1989).
+* [17] K. Kamaras _et al._, Phys. Rev. Lett. **64**, 84 (1990).
+* [18] T. P. Orlando, E. J. McNiff, Jr., S. Foner, and M. R. Beasley, Phys. Rev. B **19**, 4545 (1979).
+* [19] Y. J. Uemura _et al._ Phys. Rev. Lett. **62**, 2317 (1989).
+* [20] P. B. Allen and R. C. Dynes, Phys. Rev. B **12**, 905 (1975); K. E. Gray, R. T. Kampwirth, D. W. Capone, R. Vaglio, and J. F. Zasadzinski, _ibid._**38**, 2333 (1988).
+
+Figure 4: Dependence of Fermi velocity, as derived in the text, on T_{c}. The straight line is a least-squares fit. The inset shows the dependence of T_{c} on the fitted value of \rho_{c}(0) for the oxygen-deficient YBa_{2}Cu_{3}O_{7-y} data (solid diamonds) and for Tl_{2}Ba_{2}CaCu_{2}O_{x} and Bi_{2}Sr_{2}CaCu_{2}O_{x} from Ref. [2] (open circles). The line if a least-squares power-law fit to the oxygen-deficient YBa_{2}Cu_{3}O_{y}-\gamma.
+
+ 

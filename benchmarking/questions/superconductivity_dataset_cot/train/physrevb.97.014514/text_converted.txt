@@ -1,0 +1,842 @@
+Scanning tunneling microscopy and spectroscopy studies of the
+heavy-electron superconductor TlNi₂Se₂
+
+Stefan Wilfert,^(1,)1 Martin Schmitt,^(1,)2 Henrik Schmidt,¹3 Tobias
+Mauerer,¹ Paolo Sessi,¹ Hangdong Wang,^(2, 3) Qianhui Mao,² Minghu
+Fang,^(2, 4) Matthias Bode^(1, 5)
+
+¹Physikalisches Institut, Experimentelle Physik II, Universitat
+Wurzburg, Am Hubland, D-97074 Wurzburg, Germany
+
+²Department of Physics, Zhejiang University, Hangzhou 310027, China
+
+³Department of Physics, Hangzhou Normal University, Hangzhou 310036,
+China
+
+⁴Collaborative Innovation Center of Advanced Microstructures, Nanjing
+210093, China
+
+⁵Wilhelm Conrad Rontgen-Center for Complex Material Systems (RCCM),
+Universitat Wurzburg, Am Hubland, D-97074 Wurzburg, Germany
+
+Footnote 1: Corresponding author: sniffer@physik.uni-wuerzburg.de
+
+Footnote 2: Corresponding author: maschmitt@physik.uni-wuerzburg.de
+
+Footnote 3: Corresponding author: maschmitt@physik.uni-wuerzburg.de
+
+###### Abstract
+
+We report on the structural and superconducting electronic properties of
+the heavy-electron superconductor TlNi₂Se₂. By using a
+variable-temperature scanning tunneling microscopy (VT-STM) the
+coexistence of ($\sqrt{2}$×$\sqrt{2}$)R45^(∘) and (2×1) surface
+reconstructions is observed. Similar to earlier observations on the
+"122" family of Fe-based superconductors, we find that their respective
+surface fraction strongly depends on the temperature during cleavage,
+the measurement temperature, and the sample’s history. Cleaving at low
+temperature predominantly results in the
+($\sqrt{2}$×$\sqrt{2}$)R45^(∘)-reconstructed surface. A detailed
+analysis of the ($\sqrt{2}$×$\sqrt{2}$)R45^(∘)-reconstructed domains
+identifies (2×1)-ordered dimers, tetramers, and higher order even
+multimers as domain walls. Higher cleaving temperatures and the warming
+of low-temperature-cleaved samples increases the relative weight of the
+(2×1) surface reconstruction. By slowly increasing the sample
+temperature $T_{\rm s}$ inside the VT-STM we find that the
+($\sqrt{2}$×$\sqrt{2}$)R45^(∘) surface reconstructions transforms into
+the (2×1) structure at $T_{\rm s}$ = 123 K. We identify the polar nature
+of the TlNi₂Se₂(001) surface as the most probable driving mechanism of
+the two reconstructions, as both lead to a charge density ρ = 0.5 ϵ⁻,
+thereby avoiding divergent electrostatic potentials and the resulting
+"polar catastrophe." Low-temperature scanning tunneling spectroscopy
+(STS) performed with normal metal and superconducting probe tips shows a
+superconducting gap which is best fit with an isotropic s wave. We could
+not detect any correlation between the local surface reconstruction,
+suggesting that the superconductivity is predominantly governed by
+TlNi₂Se₂ bulk properties. Correspondingly, temperature- and
+field-dependent data reveal that both the critical temperature and
+critical magnetic field are in good agreement with bulk values obtained
+earlier from transport measurements. In the superconducting state the
+formation of an Abrikosov lattice is observed without any zero bias
+anomaly at the vortex core.
+
+DOI: 10.1103/PhysRevB.97.014514
+
+## I Introduction
+
+It is probably fair to say that high-temperature superconductivity
+belongs to the remaining mysteries of solid-state physics. Since its
+discovery in cuprates in 1986 [1], physicists have (yet unsuccessfully)
+attempted to develop a unifying theory that explains the origin of
+superconductivity in this material class. In this context, the discovery
+of Fe-based pnictides [2,3] with bulk critical temperatures up to 55 K
+[4], or of the related, weaker correlated "122" systems represented a
+very significant finding as it demonstrated that high-temperature
+superconductivity was not limited to cuprates but could also be found in
+other materials [5].
+
+In recent years, Fe- or Ni-based "122" systems were intensively
+investigated. The presence of Fe or Ni in these superconducting
+compounds led to speculations about the fundamental pairing mechanism of
+unconventional superconductivity because magnetism and superconductivity
+are generally considered to be mutually exclusive [6]. Whereas the Fe
+chalcogenides A_(x)Fe_(2 − y)Se₂ (A represents the elements Tl, K, Cs,
+or Pb) are inhomogeneous superconductors, Ni-based chalcogenides are
+stoichiometric, as verified by x-ray spectroscopy [7]. Furthermore, the
+Fermi surface of "122" superconductors exhibits no hole pockets, such
+that an electron-hole quasinesing coupling mechanism, which is
+characteristic for Cooper pair formation in Fe-based pnictides, can
+safely be excluded.
+
+In 2013 superconductivity was discovered in TlNi₂Se₂[7]. The bulk
+critical temperature of this compound amounts to $T_{\rm C}^{\rm bulk}$
+= 3.7 K only, i.e., much lower than the corresponding values of cuprates
+or even Fe-based superconductors. Furthermore, a moderate critical field
+$H_{\rm C}^{\rm bulk}$≈ 0.6 T (at T = 1.2 K) and–given the relatively
+weak correlation effects–a surprisingly large Sommerfeld coefficient
+were found. Detailed temperature- and field-dependent measurements of
+the electronic specific heat showed some interesting features, as they
+indicated a d-electron system with a very high effective mass m^(*) =
+(17 ± 3) $m_{\rm e}$, placing TlNi₂Se₂ somewhere "between cuprate- or
+iron-based and conventional heavy-fermion superconductors" [7].
+
+In the meantime several experimental and theoretical techniques have
+been employed to better understand the particular electronic properties
+that lead to superconductivity in TlNi₂Se₂[8, 9, 10]. Measurements of
+the thermal conductivity κ₀ and specific heat γ₀ of TlNi₂Se₂ and the
+related compounds TlNi₂Se_((2 − x))S_(x) and CsNi₂Se₂ showed a very low
+residual electronic contribution, which is rather unlikely for nodal
+quasiparticles but instead indicates node-less superconductivity [8, 9,
+11]. Furthermore, field-dependent data of κ₀ resembled similar data on
+NbSe₂ and were interpreted as evidence for the existence of at least two
+gaps with a ratio Δ_(s)/Δ₁ ≈ 0.6. A detailed analysis allowed for the
+determination of the Ginzburg-Landau coherence length ξ = 20 nm [8]. Not
+surprisingly for a stoichiometric crystalline compound it was found that
+TlNi₂Se₂ is in the clean limit as its electron mean free path is one to
+two orders of magnitude larger than ξ[8]. Optical spectroscopy
+measurements showed that TlNi₂Se₂ is a good metal with a distinct plasma
+net effectance [9]. The progressive formation of a pseudogap at T ≤ 300
+K was interpreted as evidence for fluctuating charge density waves (CDW)
+which possibly eventually order at low temperatures [9].
+
+These bulk-sensitive studies were complemented by a more surface
+sensitive angle-resolved photoemission (ARPES) study [10]. Photon
+energy-dependent data showed a three-dimensional band structure of
+TlNi₂Se₂ with four bands crossing the Fermi level. These γ bands exhibit
+asymmetric back-bending which results in a "camelback"-shaped feature
+near the Z point of the surface Brillouin zone (SBZ). As a result four
+small, partially overlapping lobes are formed, the flat parts of which
+give rise to a van Hove singularity. It was speculated that this shape
+of the Fermi surface is responsible for the unusually high Sommerfeld
+coefficient of TlNi₂Se₂[10].
+
+Further surface studies of Ni-based "122" systems would be highly
+interesting, in particular given recent results obtained on the
+mixed-valence-driven heavy-fermion superconductors KNi₂Se₂ and
+KNi₂S₂[12, 13]. These bulk-sensitive experiments were interpreted in
+terms of electronically driven phase transitions where the hybridization
+of delocalized electrons with charge-ordered states severely impacts the
+formation of heavy-electron states and superconductivity. Since (001)
+surfaces of "122" superconductors often display charge-driven
+reconstructions [14, 15, 16, 17, 18, 19, 20], it is not at all clear how
+superconductivity of TlNi₂Se₂ would react to their presence.
+Contradictory results have been published for other "122" materials,
+covering the entire range from very significant reconstruction-induced
+variations of the local superconducting properties [14, 18] to their
+complete absence [16].
+
+Here we present a scanning tunneling microscopy (STM) and spectroscopy
+(STS) study of the structural and electronic properties of TlNi₂Se₂. We
+performed temperature- and magnetic field-dependent measurements on
+(001) surfaces that were prepared by cleaving the bulk material _in
+situ_ under ultrahigh vacuum conditions. Topographic data reveal that
+surfaces created by cleaving at low temperature are dominated by a
+($\sqrt{2}\,\times\,\sqrt{2}$)R45^(∘) structure with occasional
+⟨100⟩-oriented straight stripes. These reconstructions lead to a surface
+charge density of ρ < 0.5 e⁻ per unit cell which is required to avoid a
+polar catastrophe due to the polar character of the TlNi₂Se₂(001)
+planes. With increasing cleaving temperature the stripes cover a larger
+and larger surface fraction. Heating to temperature T ≥ 126 K or room
+temperature cleaving results in a "wormlike" structure with more
+irregular and shorter stripe segments. We show that the stripes are
+caused by Tl multimers which form (1 × 2)-reconstructed domain walls
+between adjacent ($\sqrt{2}\,\times\,\sqrt{2}$)R45^(∘) domains if they
+consist of an even number of Tl atoms, i.e., for dimers, tetramers, etc.
+STS measurements performed at T = 1.2 K show a V-shaped gap which
+appears to be uncorrelated with the local surface reconstruction,
+suggesting that the superconductivity is predominantly governed by
+TlNi₂Se₂ bulk properties rather than surface’s structural and
+charge-ordered state. Temperature- and field-dependent STS data result
+in a surface Curie temperature T_(c)^(surf) = 3.05 K and a critical
+field μ₀H_(c)^(surf) = 0.35 T, in reasonable agreement with the bulk
+data determined previously [7]. Finally, we show that the application of
+an external magnetic field produces an Abrikosov lattice of magnetic
+flux quanta typical for type II superconductors.
+
+## II Experimental Procedures
+
+The TlNi₂Se₂ single crystals were grown by a self-flux method.
+Stoichiometric amounts of Tl, Ni, and Se were placed in a sealed alumina
+crucible, heated at 950^(∘)C for 12 h, and cooled to 700^(∘)C at a rate
+of 6^(∘)C/h, before further cooling (see Ref. [7] for details). The
+resulting single crystals were cut with a scalpel to pieces suitably
+sized for STM measurements.
+
+Scanning tunneling microscopy (STM) and spectroscopy (STS) experiments
+were carried out with three scanning tunneling microscopes, each
+covering a dedicated temperature range. A commercial
+variable-temperature scanning tunneling microscope (VT-STM) operates at
+sample temperatures 40 K ≤ T_(s) ≤ 400 K, in a commercial
+low-temperature STM (LT-STM) with a base temperature of 4.8 K the sample
+temperature can be raised up to T_(s) ≈ 20 K, and a home-built cryogenic
+STM (1K-STM) with minimal temperature T_(s) = 1.2 K, which can be
+operated up to T_(s) ≈ 10 K, is dedicated for measurements of the
+superconducting properties. The latter is also equipped with a
+superconducting solenoid coil that produces a magnetic field |B| ≤ 12.5
+T along the sample surface normal. All topographic images were obtained
+in the constant-current mode with electrochemically etched W tips. The
+bias voltage U is denoted such that positive (negative) values represent
+an electron tunnel current I which flows from occupied tip (sample)
+states into empty sample (tip) states. Spectroscopic data were recorded
+under open feedback loop conditions by adding a small modulation voltage
+U_(mod) to the bias voltage U (frequency f = 876.5 Hz) and measuring the
+resulting differential conductance dI/dU by means of a lock-in
+amplifier. The differential conductance dI/dU maps showing the Abrikosov
+lattice were also obtained by means of a lock-in but with the feedback
+loop closed.
+
+For optimal surface quality we cleave the single crystals _in situ_
+under UHV conditions (pressure p ≤ 1 × 10⁻⁹ mbar). As will be described
+in detail below we found that the cleaving temperatures T_(cleave) have
+important consequences for the surface morphology of TlNi₂Se₂. Since the
+experimental setups of the three STMs used for this study slightly vary,
+also the respective values for T_(cleave) and the procedures differ
+substantially. In the VT- and the LT-STM we use special sample holders
+which allows one to first insert the sample into the STM sample slot
+where it cools down to the targeted temperature before being cleaved
+_within_ the STM, i.e., without taking the sample out of the STM sample
+slot. Thereby, we achieve values between 50 K  ≤ T_(cleave) ≤ 300 K for
+the VT-STM and T_(cleave) ≤ 5 K for the LT-STM. Unfortunately, due to
+its relatively large size it was not possible to use the same sample
+holder in the 1K-STM. In the 1K-STM UHV system, the sample was cleaved
+in a storage slot mounted inside the LHe shield. Whereas the temperature
+within this storage slot is probably very close to 5 K, it had to be
+transferred into the STM with an uncooled manipulator. Although we
+cannot determine the maximum sample temperature during this transfer,
+the subsequently imaged surface always displayed what will be termed the
+"wormlike" structure below, indicative for reaching a sample temperature
+T ≥ 126 K.
+
+## III Results
+
+### Structural properties
+
+Figure 1(a) shows the tetragonal crystal structure of TlNi₂Se₂, which
+belongs to the ThCr₂Si₂ class with space group _14_/_mmm_. The
+dimensions of the unit cell are a = 3.870 A in the (001) plane and
+c = 13.435 A along the [001] direction [7]. The layered structure
+consists of monovalent Tl¹⁺, bivalent Se²⁻, and Ni atoms with a mixed
+valence of Ni^(1.5+). Based on these valences, the Ni-Se bond strength
+is expected to be stronger than for Tl-Se. Therefore, a cleavage process
+should result in (001) planes created by breaking the Tl-Se bonds either
+above or below the gray plane indicated in Fig. 1(a). Figure 1(b) shows
+the (001) surface of the TlNi₂Se₂ crystal structure in top view. The
+in-plane nearest neighbor distance in the Tl and Se layers equals the
+lattice constant a, whereas the lattice of the Ni layer is rotated by
+45^(∘) and exhibits a Ni-Ni distance of $a/\sqrt{2}=2.74$ A.
+
+Because the atomic environment is mirror symmetric with respect to this
+Tl plane, one would naively expect that upon cleavage half of the Tl
+atoms reside at the upper and the other half at the lower fragment,
+thereby preserving an uncharged configuration. The same result is
+obtained when considering the polar character of the TlNi₂Se₂(001)
+surface. In fact, the above-mentioned valences lead to a Ni₂Se₂ block
+which is not neutral but carries a net charge of −1. The corresponding
+positive charge +1 is located in the Tl layer. Let’s assume for a moment
+a cleavage process resulted in two fragments with different Tl surface
+densities. This would lead to two charged surfaces which carry a charge
+density ρ < 0.5 e⁻ (ρ > 0.5 e⁻) per unit cell on the side with the lower
+(higher) Tl surface concentration. Similar to the situation at a
+LaAlO₃/SrTiO₃ interface this would lead to the build-up of a divergent
+electrostatic potential and result in what was termed the "polar
+catastrophe" [21]. Therefore, any structure with a Tl surface density
+other than 0.5 atoms per unit cell is expected to be energetically
+unfavorable.
+
+A material class that belongs to the same space group as our TlNi₂Se₂
+crystals are the (001) surfaces of the so-called "122" Fe-based pnictide
+superconductors which have been intensively studied both theoretically
+and experimentally by STM [14, 15, 16, 17, 18, 19, 20]. Calculations of
+ternary iron arsenides with the composition BFe₂As₂ (B= Ba, Sr, or Ca)
+predict a B-terminated surface [17]. ($\sqrt{2}\,\times\,\sqrt{2}$)- or
+(2 × 1)-reconstructed surfaces were found to be energetically favorable
+as compared to the unreconstructed (1 × 1) surface, but the energy
+difference between these reconstructed surfaces is often small [17].
+Indeed, the coexistence of both structures was observed by STM for pure
+and lightly doped SrFe₂As₂[14, 19] and for lightly doped BaFe₂As₂[15,
+18, 20]. Although a dependence of the surface structure on the cleavage
+temperature has been discussed in several contributions, no consensus
+could be reached, as some studies find that the reconstructions are
+largely temperature independent [22, 23] whereas others report on a
+substantial temperature dependence [16, 19].
+
+Figure 1(c) shows a typical topographic STM image of the (001) surface
+of the Ni-based superconductor TlNi₂Se₂ created by cleaving a sample
+inside the LT-STM at T ≤ 10 K. As can be seen in the line section
+plotted in Fig. 1(d) [drawn along the blue line in Fig. 1(c)] the
+surface exhibits atomically flat terraces which are separated by steps
+with a height of (6.7 ± 0.3) A, in agreement with the c/2 separation
+expected for adjacent Tl layers. The sketch in the lower left of Fig.
+1(d) schematically visualizes the situation with the rectangular unit
+cell identical to the (010) plane of Fig. 1(a). Occasionally, we observe
+dark lines in our STM images, one of which is marked by a black arrow in
+Fig. 1(c). Their apparent depth typically amounts to about 1 A. We
+speculate that they represent dislocations that were either not fully
+annealed during crystal growth or
+
+Figure 1: (a) Crystal structure of TlNi₂Se₂ and probable cleavage plane
+(gray). (b) Top view illustrates a 45^(∘) rotation between nearest
+neighbor directions of Tl and Ni layers. (c) Topographic image with
+occasionally occurring dislocation lines (black arrow). The blue box of
+the $\sqrt{2}\,\times\,\sqrt{2}$ unit cell in the higher resolution
+image (e) is one of two typical structures for LT-cleaved samples. (d)
+Line section along the blue line in (c). The terraces are separated by
+step heights of the half-unit-cell as visualized in the lower left
+sketch. Scan parameters are as follows: U = 500/10 mV, I = 10/250 pA,
+and T_(s) = 5 K for (c) and (e), respectively.
+
+created during the cleaving process. A high resolution scan measured
+within the region marked by a black square in Fig. 1(c) on an atomically
+flat terrace of the low-temperature-cleaved sample is shown in Fig.
+1(e). We recognize a square-shaped unit cell which is consistent with a
+($\sqrt{2}\,\times\,\sqrt{2}$)R45^(∘) superstructure (blue square) and
+will be discussed in detail below.
+
+To study the temperature dependence of the TINi₂Se₂(001) surface
+structure we cleaved single crystals taken from the same batch within
+the STM at different temperatures T_(cleave). Subsequently, the samples
+were measured at low temperatures (T_(meas) ≤ 50 K). The results are
+summarized in Fig. 2 for three different temperatures. As can be seen in
+Fig. 2(a) a surface cleaved at 5 K is dominated by the
+($\sqrt{2}\,\times\,\sqrt{2}$)R45^(∘) superstructure. In addition to the
+square-shaped unit cell already presented in Fig. 1(e), short
+one-dimensional (1D) stripes can be recognized which are separated by a
+distance 2a and orientated along the two high symmetry directions [100]
+or [010]. These characteristics are fully consistent with the (2 × 1)
+reconstructions previously observed for "122" Fe-based pnictide
+superconductors [14; 15; 16; 17; 18; 19; 20]. As already mentioned above
+these reconstructions are an unavoidable consequence of the polar
+character of the Tl-terminated TINi₂Se₂(001) surface which consists of
+Ni₂Se₂ blocks (net charge −1) and Tl layers (+1). Upon cleavage the
+polar catastrophe can only be avoided if each surface unit cell carries
+a net charge of +0.5 e⁻, i.e., half of the Tl atoms must remain on the
+surface of either of the two fragments. However, the Tl atoms on the
+cleaved surfaces are not randomly distributed but exhibit well-ordered
+reconstructions even at cleavage temperatures as low as T_(meas) ≤ 5 K
+[cf. Figs. 1(e) and 2(a)]. This observation could be explained, for
+example, if the Tl atoms were able to rearrange even without thermal
+excitations, e.g., due to the mechanical energy dissipated during the
+cleaving process. Alternatively, it would require a cleaving process
+which intrinsically takes place such that–as far as the
+($\sqrt{2}\,\times\,\sqrt{2}$)R45^(∘) superstructure is concerned–an
+atomic checkerboard pattern is generated. In any case, we would like to
+stress that both
+
+Figure 2: Cleaving temperature dependence of the TINi₂Se₂ surface
+structure. In either case an overview image (left panel), a zoom-in to
+the region within the black square (middle), and a model of the surface
+(right) are shown. Atoms of the topmost Se layer and the Tl cleavage
+plane are shown in red and blue, respectively. To highlight Tl atom
+rows, nearest-neighbor Tl atom with a Tl–Tl distance a = 3.870 Å are not
+resolved individually but as a continuous blue line. (a) If cleaved at 5
+K the surface topography is dominated by large domains of a
+($\sqrt{2}\,\times\,\sqrt{2}$)R45^(∘) superstructure [imaging parameters
+(inset) are as follows: U = 1(0.5) V, I = 20(500) pA, T_(s) = 5 K]. (b)
+Cleavage at a temperature of 50 K lead to substantial stripes formation
+and smaller ($\sqrt{2}\,\times\,\sqrt{2}$)R45^(∘) domains (U = 50 mV,
+I = 20 pA, T_(s) = 50 K). (c) A twofold symmetric “wormlike” structure
+is observed for room-temperature–cleaved TINi₂Se₂ (U = 1 V, I = 300 pA,
+T_(s) = 5 K).
+
+surface reconstructions, the ($\sqrt{2}\,\times\,\sqrt{2}$)R45^(∘) as
+well as the (2 × 1) structure, result in the same surface charge of
++ 0.5 e⁻ per surface unit cell, thereby avoiding the polar catastrophe.
+
+As shown in Fig. 2(a), an increased cleaving temperature
+$T_{\rm cleave}$ = 50 K yields essentially the same surface features,
+i.e., a ($\sqrt{2}\,\times\,\sqrt{2}$)R45^(∘) square lattice and (2 × 1)
+reconstructed one-dimensional (1D) stripes, but at a different
+distribution between the two structures. In comparison to the sample
+surface presented in Fig. 2(a) which was cleaved at 5 K, the 1D stripes
+now cover a much larger fraction of the sample surface and at some
+places even form homogeneous domains which are as large as 20 nm in
+diameter. Consequently, the ratio of the
+($\sqrt{2}\,\times\,\sqrt{2}$)R45^(∘) square lattice, which still
+coexists with 1D stripes in the remaining regions of the surface, is
+reduced appropriately. It shall be mentioned that locally often one of
+the two possible high symmetry directions dominates, although both
+directions were found to be equally distributed in average, in agreement
+with the symmetry of the surface. The high-resolution STM image in the
+middle panel of Fig. 2(b) and the corresponding schematic model of the
+right panel visualize the arrangement of stripes and relate it to the
+(1 × 1) unit cell of TINi₂Se₂.
+
+Finally, we cleaved a single crystal at $T_{\rm cleave}$ = 300 K. The
+surface structure of this sample always consists of short stripes which
+form a twofold symmetric "wormlike" structure [see left panel of Fig.
+2(c)]. The high-resolution scan in the middle panel of Fig. 2(c) reveals
+a small modulation with a periodicity of (3.8 ± 0.3) A along the
+stripes, which agrees well with the lattice constant of TINi₂Se₂. In
+spite of the fact that this surface in general still consists of the
+(2 × 1) stripe motif, this "wormlike" pattern is characterized by a
+strongly reduced stripe length [as compared to the situation presented
+in Fig. 2(b)] and by the coexistence of both stripe orientations even
+within a small surface area.
+
+For the occurrence of the stripes mentioned above two possible scenarios
+are conceivable: (i) The stripes may be caused by domain boundaries that
+separate the two possible configurations of the
+($\sqrt{2}\,\times\,\sqrt{2}$)R45^(∘) reconstruction which differ by a
+lateral displacement a in either the [100] or the [010] direction.
+Alternatively, (ii) the stripes may also represent a (2 × 1) surface
+reconstruction which coexists and competes with the
+($\sqrt{2}\,\times\,\sqrt{2}$)R45^(∘) structure. If the latter
+explanation were correct, the fact that the (2 × 1) reconstruction
+covers a smaller fraction of the surface than the
+($\sqrt{2}\,\times\,\sqrt{2}$)R45^(∘) structure would indicate its
+somewhat higher total energy.
+
+We can distinguish these two scenarios by a detailed analysis of the STM
+images shown in Figs. 3(a) and 3(b) which were both measured on TINi₂Se₂
+surfaces prepared by cleaving a single crystal at $T_{\rm cleave}$ = 5
+K. In agreement with the data already presented in Fig. 2(a) the
+topography is dominated by several regions exhibiting a periodic
+($\sqrt{2}\,\times\,\sqrt{2}$)R45^(∘) square lattice. These
+($\sqrt{2}\,\times\,\sqrt{2}$)R45^(∘)-ordered regions are separated by
+boundaries consisting of stripes which are generally rather short but
+slightly differ in length. In the experimentally observed STM images of
+Figs. 3(a) and 3(b) we have marked four areas by black squares which are
+labeled with white numbers 1 through 4. The patterns observed within
+these regions are schematically presented in Fig. 3(c). The area labeled
+1 displays two regions with a ($\sqrt{2}\,\times\,\sqrt{2}$)R45^(∘)
+periodicity and relatively short stripes (length about 6 A) in between.
+As indicated by a black hatched line, the Tl square lattice (blue dots)
+in the lower left region (labeled A) is shifted by one lattice constant
+a with respect to the one in the region in the upper right (B). This
+observation can only be explained if there is a structural domain
+boundary formed by a dimer that
+
+Figure 3: (a) and (b) STM topographic images of TINi₂Se₂ single crystal
+surfaces cleaved at $T_{\rm s}$ = 5 K. Scan parameters are as follows: U
+= 1 V, I = 20 pA. The surface is governed by
+($\sqrt{2}\,\times\,\sqrt{2}$)R45^(∘)-ordered patches labeled A or B,
+which are separated by boundaries that consist of short stripes. Four
+such regions marked by black squares and labeled 1–4 in panels (a) and
+(b) are schematically represented in (c). Analysis reveals that the
+stripes exhibit different length and represent dimers (1), trimers (2),
+tetramers (3), and pentamers (4). Whereas dimers and tetramers separate
+the inequivalent domains A and B, trimer and pentamer walls are always
+surrounded by the same domain.
+
+consists of two Tl atoms in nearest neighbor adsorption sites. In
+general agreement with this structural picture we also find longer
+stripes in Figs. 3(a) and 3(b) with a length of about 9 A, 12 A, and 16
+A (line sections not shown here) which we interpret as trimers (area 2),
+tetramers (3), and pentamers (4), respectively. Since the
+($\sqrt{2}\,\times\,\sqrt{2}$)R45^(∘) periodicity is translationally
+invariant when shifted by an equal multiple of the lattice constant a,
+only the dimer and the tetramer represent true domain walls as the
+trimer and pentamer walls are always surrounded by the same domain.
+
+So far we found that depending on the actual cleaving temperature
+different surface structures can be observed on TlNi₂Se₂. Furthermore,
+the detailed analysis of STM topography images taken at low temperatures
+revealed that the stripes which cover a small but significant portion of
+the sample surface are formed at domain walls where equivalent domains
+of the ($\sqrt{2}\,\times\,\sqrt{2}$)R45^(∘) Tl surface lattice are
+offset by multiples of the lattice constant a. In the following, we want
+to discuss to what extent an already existing surface, which was
+originally cleaved at T = 50 K, changes as the temperature is raised.
+While the cooling process of room-temperature-cleaved samples was found
+to always result in a "wormlike" structure (not shown here), the warming
+process as investigated by VT-STM measurements is visualized in Fig. 4
+for a sample which was initially cleaved within the STM at
+T_(cleave) = 50 K. Directly after the cleaving process the surface was
+imaged at T_(meas) = 50 K. As shown in Fig. 4(a) the surface structure
+is again characterized by (2 × 1) stripes that coexist with the
+($\sqrt{2}\,\times\,\sqrt{2}$)R45^(∘) square lattice, in agreement with
+the data presented in Fig. 2(b).
+
+In the following the same sample was slowly heated at a rate of 1 K/min
+and imaged with the STM approximately every 5 K. No significant changes
+were observed for temperatures below 120 K. A drastically changed
+surface structure was, however, registered for Fig. 4(b) taken at
+T_(meas) = 120 K. Comparison with the low-temperature data of Fig. 4(a)
+reveals that the ($\sqrt{2}\,\times\,\sqrt{2}$)R45^(∘) domain has
+vanished. As indicated by a black arrow in Fig. 4(b) it is replaced by
+short stripes orientated along the [100] direction. The length and
+orientation of the stripes is consistent with a periodic lattice of the
+Tl dimers discussed in Fig. 3. Within a few Kelvin this region rapidly
+transforms into a more complicated stripe pattern, as can be recognized
+by comparing Figs. 4(b) and 4(c) which only differ by 3 K. When warming
+the sample a bit further to 126 K, the transition to this "wormlike"
+structure is completed [Fig. 4(d)]. Experiments not shown here indicate
+that the structure is irreversible as–by cooling–it can neither be
+transformed back to the ($\sqrt{2}\,\times\,\sqrt{2}$)R45^(∘) nor to the
+regular (2 × 1) stripe phase.
+
+Interestingly, all surface features reported here, i.e., the
+(2 × 1)-ordered stripes as well as the
+($\sqrt{2}\,\times\,\sqrt{2}$)R45^(∘) square cell, closely resemble what
+has been reported for pure and lightly alkaline-earth-doped Fe-based
+superconductors [14; 15; 16; 18; 19]. These materials possess the same
+crystal structure as TlNi₂Se₂ and cleave between As and alkaline planes
+such that the alkaline atoms are evenly divided between the two FeAs
+surfaces created by the cleaving process. While the Tl atoms form a
+regular ($\sqrt{2}\,\times\,\sqrt{2}$)R45^(∘) surface structure with a
+few (2 × 1)-ordered domain walls when cleaved at low temperatures, our
+results show that heating to T ≥ 126 K leads to an irreversible
+transition to a more irregular striped structure. This finding suggests
+that the ($\sqrt{2}\,\times\,\sqrt{2}$)R45^(∘) superstructure is a
+metastable state. A similar cleavage temperature dependence of the
+surface structures has also been observed for Fe-based superconductors
+[16]. The irreversibility of the transition may be caused by Tl atoms
+which are not mobile enough to rearrange to full order at low
+temperatures, but possess sufficient energy for site changes in the
+temperature region around 126 K.
+
+### Electronic properties
+
+#### iii.2.1 Structure of the superconducting gap
+
+Transport measurements have shown that TlNi₂Se₂ undergoes a
+superconducting phase transition at a critical temperature T_(C) = 3.7 K
+[7; 8]. The observation of a very low residual electronic contribution
+to the thermal conductivity led to the conclusion of a node-less
+superconducting gap which is a common feature of Ni-based
+superconductors [8]. The STS spectrum of the superconducting gap
+structure of the very same TlNi₂Se₂ crystal used for the transport
+measurements in Ref. [7] is shown in Fig. 5. During the measurement the
+nominal tip and sample temperature was T = 1.2 K. The raw data were
+normalized to a constant background where the STS signal outside the
+superconducting gap serves as a reference.
+
+Figure 4: (a) Both LT structures of TlNi₂Se₂ coexist on a sample cleaved
+at T_(cleave) = 50 K. This already changes at a temperature of
+T_(s) = 120 K in (b) where no square lattice is observed. By warming up
+to T_(s) = 123 K further changes are observed in (c). The transition
+into the “wormlike” structure in (d) is completed at T = 126 K. Circles
+serve as markers for same sample positions and black arrows for an
+example of restructuring. Scan parameters are as follows: U = 50 mV,
+I = 20 pA for (a) and U = 1 V, I = 200...300 pA for (b)-(d).
+
+A well-pronounced superconducting gap can be recognized. The gap seems
+to be V shaped and the STS dI/dU signal, which is essentially
+proportional to the local density of states at small bias voltages [24],
+does not vanish within the gap but only drops to about 30
+
+$$\rho=\text{Re}\Bigg{[}\frac{|E-i\Gamma|}{\sqrt{(E-i\Gamma)^{2}+\Delta^{2}}} \Bigg{]}.$$
+(1)
+
+Here E denotes the energy with respect to the Fermi level, with the
+Dynes parameter Γ[25]. The fit was broadened by the Fermi distribution,
+and a Gaussian broadening σ = 0.24 meV. Throughout this work, very
+similar values with Γ = (0.04 ± 0.01) meV and σ = (0.28 ± 0.04) meV were
+used for all spectra. Obviously, the isotropic BCS model fits our
+experimental data very well. As detailed in the Supplemental Material
+[26], however, similarly good fitting results are also obtained when
+assuming a gap with an anisotropic character. Therefore, we have to
+conclude that based on the available STS data it cannot be decided
+whether TlNi₂Se₂ exhibits an isotropic s wave or an anisotropic
+p-/d-wave pairing mechanism.
+
+### Spatially resolved measurements
+
+STM/STS measurements in principle allow one to spatially resolve on the
+atomic scale if and to what extent the superconducting gap depends on
+the surface location. It would be particularly interesting to
+investigate if the reconstructions observed by STM in Sec. III.1 of this
+paper have any influence on the superconducting gap. For example, in the
+related sample systems KNi₂Se₂[12] and KNi₂S₂[13] a close correlation
+between the low-temperature superconducting state and cooperative
+phenomena arising from Coulomb interactions and proximity to charge
+order have been observed.
+
+We would like to state clearly already here, however, that in the case
+of cleaved TlNi₂Se₂(001) surfaces we found the superconducting gap to be
+virtually independent of the particular local surface reconstruction.
+This is exemplarily shown in Fig. 6, which displays an image of the
+"wormlike" structure in (a) together with color-coded tunneling spectra
+in (b). No significant variation of the width or shape of the
+superconducting gap can be observed, even though the trajectory along
+which the STS data were measured crosses several corrugation minima and
+maxima of the surface reconstruction.
+
+We believe that this finding is consistent with the structural data
+presented in Sec. III.1. Our topographic STM data showed that the
+surface is dominated by ($\sqrt{2}~{}\times~{}\sqrt{2}$)R45^(∘) and
+(2 × 1) reconstructions which are most likely the result of the polar
+character of TlNi₂Se₂(001) planes. It appears that these reconstructions
+lead to the smallest possible distortion of the TlNi₂Se₂ bulk structure.
+Therefore, the superconducting properties measured on the TlNi₂Se₂(001)
+surfaces closely resemble those of bulk-sensitive transport
+measurements.
+
+### Temperature dependence
+
+Figure 7(a) shows temperature-dependent STS data. Starting from the
+lowest achievable temperature of T = 1.2 K (purple line), the gap width
+and depth decreases with increasing temperature until it completely
+vanishes at T  ≳ 3.2 K (orange line). To analyze the temperature
+dependence of the superconducting gap in more detail the gap width was
+fitted by a simple BCS-like gap function [Eq. (1)]. Fits to the
+individual spectra for all temperatures shown in Fig. 7(a) can be
+inspected in the Supplemental Material, Fig. S2 [26]. The resulting gap
+size is plotted against the temperature in Fig. 7(b). It closely follows
+what is expected for a BCS-type gap (red line) [27],
+
+$$\frac{1}{\eta(T_{\text{C}})}=\int_{0}^{k_{\text{B}}T_{\text{D}}}\frac{\tanh \left[\frac{1}{2k_{\text{B}}T_{\text{C}}}\sqrt{\xi^{2}+\Delta(T)^{2}}\right]} {\sqrt{\xi^{2}+\Delta(T)^{2}}}d\xi,$$
+(2)
+
+Figure 6: (a) Topographic image of a TlNi₂Se₂ showing the “wormlike”
+structure. (b) Normalized dI/dU spectra measured along the 10-nm-long
+blue line marked in (a). No significant influence of the surface
+reconstruction on the width or shape of the superconducting gap is
+detected. Stabilization parameters are as follows: U = −5 mV,
+I_(set) = 200 pA, U_(med) = 0.1 mV, T = 1.2 K.
+
+Figure 5: STS signal of TlNi₂Se₂ recorded with a normal conducting W
+tip. The data are fitted by an isotropic [red, Eq. (1)]. Stabilization
+parameters are as follows: U = −5 mV, I_(set) = 200 pA, U_(med) = 0.1
+mV, T = 1.2 K.
+
+with the Debye-temperature $T_{\rm D}=175$ and the interaction strength
+η which itself depends on $T_{\rm C}$[7]. This temperature dependence of
+the gap was calculated numerically by using the BCS ratio
+$\Delta(0)/k_{\rm B}T_{\rm c}=1.764$[27], resulting in a critical
+temperature $T_{\rm c}=3.05$ K. Even though this $T_{\rm c}$ obtained
+from the fitting procedure is slightly lower than the one observed in
+transport measurements [7], the close correlation again suggests that
+superconductivity of TNi₂Se₂ is driven by an s-wave pairing mechanism,
+similar to standard BCS-type superconductors.
+
+#### 4. Field dependence
+
+To check the magnetic field dependence of superconducting TNi₂Se₂ we
+experimentally investigated the impact of various magnetic fields up to
+500 mT. Any spectrum was measured on the superconducting surface at
+maximal distance from neighboring vortex cores (see Fig. 9 below).
+Figure 8(a) shows the weakening of the superconducting gap with
+increasing strength of the field. Above 400 mT the gap vanishes
+completely. Similar to the above-mentioned temperature-dependent
+results, this value is again slightly lower than the results obtained in
+transport measurements [7]. Also these spectra were fitted by a BCS-like
+gap function. The individual fits for all magnetic fields up to 400 mT
+are shown in the Supplemental Material, Fig. S3 [26]. The resulting gap
+sizes are plotted in Fig. 8(b). The gap size decreases monotonously with
+magnetic field until the zero-bias conductance becomes undistinguishable
+from 1 at 450 mT. We conclude that the critical field is somewhere
+between 400 mT $<\mu_{0}H_{\rm c2}\leqslant 450$ mT.
+
+Obviously, both critical values ($T_{\rm c}$ and $H_{\rm c2}$) are very
+close but slightly lower than the values acquired by transport
+measurements [7]. One possible explanation is that Cooper pairs in close
+proximity to the surface are slightly weaker bound than in the bulk,
+thereby weakening surface superconductivity. On the other hand our
+results indicate that the surface reconstruction discussed in Sec. III.1
+of this article leads to no significant variations of the gap width, the
+conductance at the gap minimum, or the general spectral shape (see Fig.
+6). This finding illustrates that superconductivity in TNi₂Se₂ is
+dominated by bulk properties such that structural details and the
+resulting variation of the electronic structure can largely be ignored.
+
+Figure 8: (a) Magnetic field-dependent spectroscopy of TNi₂Se₂ at
+T = 1.2 K. The gap becomes smaller with increasing magnetic field and
+vanishes for B ≥ 400 mT. Stabilization parameters are as follows: U = −5
+mV, $I_{\rm set}=200$ pA, $U_{\rm med}=0.1$ mV. (b) Plot of the
+field-dependent gap size determined by fitting the data in (a).
+
+Figure 7: (a) Temperature-dependent STS data of TNi₂Se₂. A pronounced
+superconducting gap is clearly visible at the lowest accessible
+temperature, T = 1.2 K (purple line). With increasing temperature the
+gap size is reduced and vanishes at about T ≳ 3.2 K (orange line). (b)
+Plot of the temperature-dependent gap size determined by fitting the STS
+data presented in (a) with Eq. (2) expected for a BCS-type
+superconductor (see main text for details). Stabilization parameters are
+as follows: U = −5 mV, $I_{\rm set}=200$ pA, $U_{\rm mod}=0.1$ mV.
+
+Figure 9: (a) Topographic image of cleaved TNi₂Se₂. (b) Differential
+conductance maps of the same area as in (a) at a perpendicular magnetic
+field of 100 mT, showing the Abrikosov lattice. The unit cell of the
+vortex lattice as theoretically expected from Eq. (3) is indicated in
+green. The experimentally observed density of the vortices is in
+excellent agreement. (c) Some examples of scanning tunneling spectra
+measured directly at and at some selected distances from the vortex
+core. The superconducting gap is decreasing with decreasing distance to
+the vortex core where the gap vanishes completely. (d) Normalized dI/dU
+spectra as a function of their distance from the vortex core as measured
+along the 200-nm-long blue trajectory marked in (b). Scan parameters are
+as follows: U = −1 mV, $I_{\rm set}=50$ pA, $U_{\rm mod}=0.1$ mV,
+T = 1.2 K.
+
+### Abrikosov lattice
+
+Type II superconductors undergo two transitions in a magnetic field.
+Whereas the whole magnetic field is expelled from the superconductor
+below the first critical value $H_{\rm c1}$, magnetic flux quanta
+(vortices) run through the superconductor above $H_{\rm c1}$ until the
+superconducting state vanishes completely above the second critical
+field $H_{\rm c2}$. In many cases these vortices form a dense-packed
+hexagonal lattice–the so-called Abrikosov lattice–which can be observed
+by STM, as shown for NbSe₂ by Hess and co-workers [28].
+
+Figure 9(a) shows the topography of a 400 nm × 400 nm wide surface area
+of a cleaved TlNi₂Se₂ single crystal at a magnetic field of 100 mT. The
+surface area consists of three atomically flat terraces which are
+separated by two step edges with a height of ≈6.8 A, in agreement with
+the above-mentioned c/2 distance [cf. Figs. 1(a) and 1(d)]. At the same
+location of the TlNi₂Se₂ surface we imaged the Abrikosov lattice by
+taking differential conductance dI/dU maps at a bias voltage of U = −1
+mV, i.e., the onset of superconducting gap (cf. Fig. 5). It is shown in
+Fig. 9(b). One recognizes several roughly circularly shaped regions
+arranged in a hexagonal lattice where the dI/dU signal is reduced
+(dark). Their diameter amounts to about 60-70 nm. At these locations
+magnetic flux quanta run through the sample and destroy
+superconductivity. As indicated by a green rhombus in Fig. 9(b), the
+lattice parameter A of the Abrikosov lattice, which is given by
+
+$$A=\frac{\Phi_{0}}{B},$$
+(3)
+
+where $\Phi_{0}=\frac{h}{2\varepsilon}$ is a single flux quantum,
+matches the theoretically expected value very well.
+
+Local spectroscopy data recorded directly at the vortex core and some
+selected distances show how the SC gap successively vanishes when
+approaching the vortex core [Fig. 9(c)]. Whereas the gap is clearly
+visible far away from the vortex (see black spectrum measured at a
+distance of about 90 nm), the gap intensity progressively decreases at
+shorter distances (red and blue spectra) until it completely vanishes
+directly at the vortex core (green spectrum). In contrast to similar
+measurements performed on NbSe₂[28], where a pronounced zero-bias peak
+was observed in spectra taken in the center of the vortex, we observed
+no sign of a zero-bias anomaly on the TlNi₂Se₂ surface.
+
+At the moment we can only speculate why the zero-bias conductance peak
+(ZBP) is absent. It is known that a ZBP in the vortex core is only
+observed in very pure samples. For example, for Ta-doped NbSe₂,
+Nb_((1 − x))Ta_(x)Se₂ a vanishing of the ZBP was observed due to
+enhanced impurity scattering for Ta concentrations as low as a few
+percent only [29]. Even though our samples exhibit a Fermi liquid
+behavior with $\rho_{\rm ab}(T)=\rho_{0}+AT^{2}$, where ρ₀ = 0.615 μΩ cm
+and A = 4.94 × 10⁻³ μΩ cm/K²[7], and a residual resistivity ration RRR =
+$\rho_{\rm ab}(300\,$K$)/\rho_{\rm ab}(2\,$K) ≈ 103, indicating a high
+quality of the single crystals, we cannot exclude that bulk crystalline
+defects are responsible for the absence of the ZBP. In fact, we find a
+mean free path l = 17.3 nm which is slightly shorter than the coherence
+length ξ_(∥) = 20.3 nm [7], resulting in a ratio (l/ξ_(∥)) ≈ 0.85. In a
+systematic STS study of the vortex core spectra measured on
+Nb_((1 − x))Ta_(x)Se₂ the transition from the clean (with ZBP) to the
+dirty limit (no ZBP) was found to occur at comparable (l/ξ_(∥)) value
+[29]. This comparison suggests that for the TlNi₂Se₂(001) surface the
+absence of a ZBP is not related to the reconstructions present on the
+surface. It remains to be studied whether the relatively high degree of
+disorder of the reconstruction present on the surface leads to a further
+reduction of the quasiparticle lifetime.
+
+## IV Conclusion
+
+In conclusion, we analyzed the structural and electronic properties of
+the Ni-based heavy-electron superconductor TlNi₂Se₂. Depending on the
+cleavage temperature and the measurement conditions the surface shows
+different reconstructions in STM experiments which all satisfy the
+condition of surface charge density of ρ < 0.5 e⁻ per unit cell required
+to avoid a polar catastrophe due to the polar character of the
+TlNi₂Se₂(001) planes. While for low-temperature cleavage a
+$\sqrt{2}\times\sqrt{2}$ reconstruction shows up, warming induces a
+transformation into a (2 × 1) structure and eventually at T ≥ 126 K
+results in the more irregular "wormlike" structure. Analyzing the
+electronic properties, we found a superconducting transition with
+critical values of $T_{\rm c}=3.05$ K and $\mu_{0}H_{\rm c2}=0.45$ T,
+i.e., very close to the corresponding bulk values. At small magnetic
+fields we observed the formation of vortices which are arranged in a
+hexagonal Abrikosov lattice. Local tunneling spectra taken within the
+vortex core show a vanishing superconducting gap but also reveal the
+absence of any zero-bias anomaly. Together with the shape of the
+tunneling spectra this observation points to an s-wave pairing mechanism
+with an isotropic gap, in agreement with the transport measurements [7,
+8].
+
+###### Acknowledgements.
+
+The experimental work was supported by DFG (through SFB 1170
+"ToCoTronics"; Project No. A02). Work at ZJU was supported by the
+National Basic Research Program of China (Grants No. 2016FYA0300402 and
+No. 2015CB921004), the National Science Foundation of China (Grant No.
+11374261), and the Fundamental Research Funds for the Central University
+of China.
+
+## References
+
+* [1] J. G. Bednorz and K. A. Muller, Z. Phys. B **64**, 189 (1986). *
+[2] Y. Kamihara, H. Hiramatsu, M. Hirano, R. Kawamura, H. Yanagi, T.
+Kamiya, and H. Hosono, J. Amer. Chem. Soc. **128**, 10012 (2006). * [3]
+Y. Kamihara, T. Watanabe, M. Hirano, and H. Hosono, J. Amer. Chem. Soc.
+**130**, 3296 (2008). * [4] R. Zhi-An, L. Wei, Y. Jie, Y. Wei, S.
+Xiao-Li, Zheng-Cai, C. Guang-Can, D. Xiao-Li, S. Li-Ling, Z. Fang, and
+Z. Zhong-Xian, Chin. Phys. Lett. **25**, 2215 (2008). * [5] P. J.
+Hirschfeld, M. M. Korshunov, and I. I. Mazin, Rep. Prog. Phys. **74**,
+124508 (2011). * [6] M. Kenzelmann, T. Strussle, C. Niedermayer, M.
+Sigrist, B. Padmanabhan, M. Zolliker, A. D. Bianchi, R. Movshovich, E.
+D. Bauer, J. L. Sarrao, and J. D. Thompson, Science **321**, 1652
+(2008). * [7] H. Wang, C. Dong, Q. Mao, R. Khan, X. Zhou, C. Li, B.
+Chen, J. Yang, Q. Su, and M. Fang, Phys. Rev. Lett. **111**, 207001
+(2013). * [8] X. C. Hong, Z. Zhang, S. Y. Zhou, J. Pan, Y. Xu, H. Wang,
+Q. Mao, M. Fang, J. K. Dong, and S. Y. Li, Phys. Rev. B **90**, 060504
+(2014). * [9] H. Wang, Q. Mao, H. Chen, Q. Su, C. Dong, R. Khan, J.
+Yang, B. Chen, and M. Fang, J. Phys.: Condens. Matter **27**, 395701
+(2015). * [10] N. Xu, C. E. Matt, P. Richard, A. van Roekeghem, S.
+Biermann, X. Shi, S.-F. Wu, H. W. Liu, D. Chen, T. Qian, N. C. Plumb, M.
+Radovic, H. Wang, Q. Mao, J. Du, M. Fang, J. Mesot, H. Ding, and M. Shi,
+Phys. Rev. B **92**, 081116 (2015). * [11] H. Chen, J. Yang, C. Cao, L.
+Li, Q. Su, B. Chen, H. Wang, Q. Mao, B. Xu, J. Du, and M. Fang,
+Supercond. Sci. Technol. **29**, 045008 (2016). * [12] J. R. Neilson, A.
+Llobet, A. V. Stier, L. Wu, J. Wen, J. Tao, Y. Zhu, Z. B. Tesanovic, N.
+P. Armitage, and T. M. McQueen, Phys. Rev. B **86**, 054512 (2012). *
+[13] J. R. Neilson, T. M. McQueen, A. Llobet, J. Wen, and M. R.
+Suchomel, Phys. Rev. B **87**, 045124 (2013). * [14] M. C. Boyer, K.
+Chatterjee, W. D. Wise, G. F. Chen, J. L. Luo, N. L. Wang, and E. W.
+Hudson, arXiv:0806.4400. * [15] Y. Yin, M. Zech, T. L. Williams, X. F.
+Wang, G. Wu, X. H. Chen, and J. E. Hoffman, Phys. Rev. Lett. **102**,
+097002 (2009). * [16] F. Massee, S. de Jong, Y. Huang, J. Kaas, E. van
+Heumen, J. B. Goedkoop, and M. S. Golden, Phys. Rev. B **80**, 140507
+(2009). * [17] M. Gao, F. Ma, Z.-Y. Lu, and T. Xiang, Phys. Rev. B
+**81**, 193409 (2010). * [18] H. Zhang, J. Dai, Y. Zhang, D. Qu, H. Ji,
+G. Wu, X. F. Wang, X. H. Chen, B. Wang, C. Zeng, J. Yang, and J. G. Hou,
+Phys. Rev. B **81**, 104520 (2010). * [19] M. Dreyer, M. Gubrud, S.
+Saha, N. P. Butch, K. Kirshenbaum, and J. Paglione, J. Phys.: Condens.
+Matter **23**, 265702 (2011). * [20] J. E. Hoffman, Rep. Prog. Phys.
+**74**, 124513 (2011). * [21] N. Nakagawa, H. Y. Hwang, and D. A.
+Muller, Nat. Mater. **5**, 204 (2006). * [22] V. B. Nascimento, A. Li,
+D. R. Jayasundara, Y. Xuan, J. O’Neal, S. Pan, T. Y. Chien, B. Hu, X. B.
+He, G. Li, A. S. Sefat, M. A. McGuire, B. C. Sales, D. Mandrus, M. H.
+Pan, J. Zhang, R. Jin, and E. W. Plummer, Phys. Rev. Lett. **103**,
+076104 (2009). * [23] F. C. Niestenkivski, V. B. Nascimento, B. Hu, E.
+W. Plummer, J. Gillett, S. Sebastian, Z. Wang, and V. Madhavan,
+arXiv:0906.2761. * [24] J. Tersoff and D. R. Hamann, Phys. Rev. B
+**31**, 805 (1985). * [25] R. C. Dynes, V. Narayanamurti, and J. P.
+Garno, Phys. Rev. Lett. **41**, 1509 (1978). * [26] See Supplemental
+Material at http://link.aps.org/supplemental/10.1103/PhysRevB.97.014514
+for details regarding fits to superconducting tunneling spectra and
+temperature- and field-dependent spectra, which includes Refs. [30, 31,
+32]. * [27] M. Tinkham, _Introduction to Superconductivity_, 2nd ed.
+(Dover Publications, Mineola, 1996). * [28] H. F. Hess, R. B. Robinson,
+R. C. Dynes, J. M. Valles, and J. V. Waszczak, Phys. Rev. Lett. **62**,
+214 (1989). * [29] C. Renner, A. D. Kent, P. Niedermann, O. Fischer, and
+F. Levy, Phys. Rev. Lett. **67**, 1650 (1991). * [30] S.-H. Ji, T.
+Zhang, Y.-S. Fu, X. Chen, X.-C. Ma, J. Li, W.-H. Duan, J.-F. Jia, and
+Q.-K. Xue, Phys. Rev. Lett. **100**, 226801 (2008). * [31] M. Ruby, B.
+W. Heinrich, J. I. Pascual, and K. J. Franke, Phys. Rev. Lett. **114**,
+157001 (2015). * [32] M. Ternes, W.-D. Schneider, J.-C. Cuevas, C. P.
+Lutz, C. F. Hirjibehedin, and A. J. Heinrich, Phys. Rev. B **74**,
+132501 (2006).

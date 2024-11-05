@@ -1,0 +1,363 @@
+
+
+# Ca-substitution and O-doping effects in superconducting Cu(Ba0.8Sr0.2)2(Yb1-_x_Ca_x_) Cu2O6+z
+
+obtained from neutron diffraction refinements
+
+M. Karppinen
+
+Materials and Structures Laboratory, Tokyo Institute of Technology, Yokohama 226-8503, Japan and Laboratory of Inorganic and Analytical Chemistry, Helsinki University of Technology, FIN-02015 Espoo, Finland
+
+H. Yamauchi
+
+Materials and Structures Laboratory, Tokyo Institute of Technology, Yokohama 226-8503, Japan
+
+K. Fujinami
+
+Materials and Structures Laboratory, Tokyo Institute of Technology, Yokohama 226-8503, Japan
+
+T. Nakane
+
+Materials and Structures Laboratory, Tokyo Institute of Technology, Yokohama 226-8503, Japan
+
+K. Peitola
+
+Laboratory of Inorganic and Analytical Chemistry, Helsinki University of Technology, FIN-02015 Espoo, Finland
+
+H. Rundlor
+
+R. Tellgren
+
+Inorganic Chemistry, Angstrom Laboratory, Uppsala University, S-75121 Uppsala, Sweden
+
+17 March 1998; revised manuscript received 13 October 1998
+
+###### Abstract
+
+Distinct calcium and oxygen doping effects were studied in the Cu(Ba0.8Sr0.2)2(Yb1-_x_Ca_x_)Cu2O6+z (Cu-1212:_P_) system by means of neutron diffraction and superconducting quantum interference device experiments in the wide substitution ranges of 0 <= x <= 0.35 and 0 < z < 1. The effectiveness of the two different ways to introduce holes into the CuO2 planes was compared both in respect to the capability to increase _T_c and in terms of the hole production as estimated from neutron-diffraction data via bond-valence-sum calculation. Oxygen doping was found to increase the hole concentration less efficiently, and further, at a certain hole concentration value higher _T_c values were obtained with calcium substitution than with oxygen doping. The two different hole-doping methods exhibited also different _T_c vs Cu-O bond length relations. As a conclusion, the possible roles of the hole distribution in the in-plane Cu-O bond and the flatness of the CuO2 planes in determining the superconducting properties were recognized. [S0163-1829(99)06929-5]
+
+## 1 Introduction
+
+The structures of superconducting cuprates are best described as members of different homologous series expressed by _MnA2O__n_-1Cu_n_O__m_+2_+2_+2_+_d_ or _M_-_m_2_(_n_-1)_n_. In these structures the superconductive _Q__n_-1Cu_n_O_2n (_Q_ = Ca, rare-earth element R; n = 1 - 7) "infinite-layer" blocks are sandwiched by _AO_ (_A_ = Sr, Ba, La) layers and _Mn_O__m_+_d_ (_M_ = e.g., Cu, Bi, Pb, Tl, Hg, C; m = 0 - 3) "charge reservoir" blocks.1 For understanding the phenomenon of high-_T_c superconductivity, evaluation of the factors determining the superconducting properties is essential. The observed values of critical temperature _T_c are believed to be related to the hole concentration in the CuO2 planes, which is further commonly associated with, e.g., the valence of copper in the CuO2 planes. An open challenge is, however, how to explicitly establish the values of such parameters.
+
+In a common chemical approach the hole concentration in the CuO2 planes is imagined as a mixed valence value of copper and estimated for the layered _M__m_A2O__n_-1Cu_n_O__m_+2_+_d_+ the CuBa_{2}YCu_{2}O_{7-\delta} compound.[6, 7] Especially, when considering "net holes" which may reside either on copper or on oxygen in the CuO_{2} planes rather than the valence of copper only, a parameter [i.e., p(CuO_{2}), see Eq. (7)], which best explains the T_{c} vs \delta relation in CuBa_{2}YCu_{2}O_{7-\delta} is obtained.[8, 9]
+
+Another interesting question is, which are the optimum ways to fine tune the p(CuO_{2}) parameter, i.e., to dope the existing as well as the "not-yet-discovered" cuprate superconductors to reach the "universal maximum T_{c}." Based on the observation[10] that in the p(CuO_{2}) value the contributions from the in-plane Cu-O bonds are counteracted and only the out-of-plane bonds from copper to the apical oxygen (O_{\rm api}) and from the in-plane oxygen to the Q and A cations have net effects on the hole concentration, three different ways of doping the CuO_{2} planes were defined in Refs. 2 and 3, i.e., (1) shortening the Cu-O_{\rm api} bond and (2) lengthening the effective O-A or (3) O-Q bond in the M_{m}A_{2}O_{n-1}Cu_{n}O_{n+2+2\pi\pm\delta} structure (Fig. 1). It was also shown that these different doping routes may function either separately or in a collaborative manner. In the CuBa_{2}(Y, Ca)Cu_{2}O_{7-\delta} system, for example, incorporation of oxygen into the CuO_{1-\delta} chain is seen as gradual movements of O_{\rm api} towards the CuO_{2} plane [route (1)] and Ba away from the in-plane O atoms [route (2)] as the oxidation proceeds, while substitution of trivalent Y by divalent Ca introduces holes into the CuO_{2} planes by lengthening the effective O-(Y, Ca) bond according to route (3).[23]
+
+In order to clarify the distinctive features of the different doping routes and to study the efficiency of each route, e.g., in terms of hole production and the capability to increase T_{c} , the different doping routes should be facilitated separately in a fixed parent structure in wide doping ranges. The CuA_{2}RCu_{2}O_{7-\delta} system is, in principle, a good model structure in which the joint effect of doping routes (1) and (2) achieved by oxygen doping can be compared to the structural changes associated with the Ca substitution, i.e., doping via route (3). However, when A = Ba and R = Y, single phase samples are obtained only up to x < 0.20.[11, 12, 13] Therefore, the Cu(Ba_{0.8}Sr_{0.2})_{2}(Yb_{1-x}Ca_{x})Cu_{2}O_{6+z} system, in which the solubility limit of Ca has been extended up to x \approx 0.40,[14] was selected for the present systematic investigation of the Ca-substitution and O-doping effects. (Note that for the amount of excess oxygen, z is used instead of "1 - \delta.") In the following, essentially single-phase samples with 0 < z < 1 and 0 \approxx \approx 0.35 are dealt with. All the samples have been characterized by chemical analysis for the oxygen stoichiometry and by means of x-ray diffraction (XRD), neutron powder diffraction (NPD), and superconducting quantum interference device (SQUID) measurements for the structural and superconducting properties. For discussing the effects of the different hole-doping routes, the BVS calculation approach presented in detail in Refs. 2 and 3 and described shortly in Sec. II of the present contribution is utilized.
+
+## II Experimental
+
+### Synthesis and characterization of the samples
+
+Single-phase Cu(Ba_{0.8}Sr_{0.2})_{2}(Yb_{1-x}Ca_{x})Cu_{2}O_{6+z} powders with x = 0, 0.10, 0.20, 0.25, and 0.35 were prepared from Yb_{2}O_{3}, BaCO_{3}, SrCO_{3}, CaCO_{3}, and CuO utilizing the technique developed and described in more detail in Ref. 14. In brief, stoichiometric mixtures of the starting materials were several times calcined and sintered (as pelletized) in air at 900-940 degC, and then oxidized in powder form by annealing in O_{2} at 350-400 degC for 48 h. Oxygen-deficient Ca-free Cu(Ba_{0.8}Sr_{0.2})_{2}YbCu_{2}O_{6+z} samples with varying oxygen content were obtained from the oxygenated Cu(Ba_{0.8}Sr_{0.2})_{2}YbCu_{2}O_{6+z} (z \approx 0.96) material by post-annealing in an Ar atmosphere at the following temperatures: 380 degC (z \approx 0.76), 480 degC (z \approx 0.55), 550 degC (z \approx 0.38), 750 degC (z \approx 0.06), 800 degC (z \approx 0). The Ca-substituted oxygen-deficient (z \approx 0) Cu(Ba_{0.8}Sr_{0.2})_{2}(Yb_{1-x}Ca_{x})Cu_{2}O_{6+z} samples were obtained from the corresponding oxygenated powders by annealing in Ar at 800 degC. In order to ensure the homogeneity of the oxygen content in the whole sample all these post-annealings were carried out in powder form in very small batches of \sim150 mg in a thermobalance (MAC Science TG/DTA 2000 S) to be able to carefully control the temperature and atmosphere during the oxygen depletion and to _in situ_ detect the changes in the weight/oxygen stoichiometry. In the thermogravimetric (TG) annealings the heating and cooling rates were 2 degC min^{-1}, and the isothermal heating period at the final temperatures was 6 h.
+
+The level of excess oxygen in the samples was further confirmed by the coulometric Cu(+I)/Cu(+II) titration method[15] using the experimental setup described in Ref. 16. In this method, the possible trivalent copper and/or peroxide-type oxygen, i.e., \alpha (CuO)^{+}, is reduced by Cu(+I) when dissolving the sample [expressed by (Ba, Sr)_{2}(Yb_{1-x}Ca_{x})(Cu(+III)_{x}Cu(+I)_{\theta})_{3}O_{6+z}] in HCl solution containing a known excess (\gamma) of monovalent copper ions [Eq. (2)]. On the other hand, if the sample itself contains monovalent copper, i.e., \beta (CuO)^{-}, the Cu(+I) amount in the solution increases upon dissolving the sample [Eq. (3)]. Depending on the balance of \alpha (CuO)^{+} and \beta (CuO)^{-} in the sample and the initial amount of monovalent copper (\gamma) in the solution, different quantities of electricity [Q = (\gamma-\alpha + \beta)F; F = Faraday constant] are detected when the coulometric back titration of the excess Cu(+I) is performed [Eq. (4)]. The average valence of copper (V_{\rm Cu} = 2 + \alpha - \beta) and thus the oxygen excess (z = 0.5 + 0.5 \alpha - 0.5 \beta - 0.5 x) in
+
+Figure 1: The three hole-doping routes \Pi(1), \Pi(2), and \Pi(3) for the pyramidal CuO_{2} planes in layered M_{m}A_{2}O_{n-1}Cu_{n}O_{n+2+2\pi\pm\delta} cuprates and in the Cu(1)(Ba, Sr)_{2}(Yb, Ca)Cu(2)_{2}O_{6+z} system.
+
+  the sample exhibiting Cu valence values in the range of +1 < _V_Ca + 3 can thus be calculated from the coulometric titration result:
+
+\[\alpha ({\rm CuO})^{+} + \alpha \,{\rm Cu}^{+} + 2\alpha \,{\rm H}^{+} \to 2\alpha \,{\rm Cu}^{2 +} + \alpha \,{\rm H}_{2}{\rm O},\]
+
+\[\beta ({\rm CuO})^{-} + 2\beta \,{\rm H}^{+} \to \beta \,{\rm Cu}^{+} + \beta \,{\rm H}_{2}{\rm O},\]
+
+\[(\gamma - \alpha + \beta ){\rm Cu}^{+} \to (\gamma - \alpha + \beta ){\rm Cu}^{2 +}\]
+
+\[+ (\gamma - \alpha + \beta )e^{-}\quad({\rm coulometry}).\]
+
+The synthesized samples were characterized for the phase purity and lattice parameters by an x-ray diffractometer (MAC Science MXP18VAHF;22 Cu _K_a_ radiation), and for the superconducting properties by SQUID measurements (Quantum Design MPMS-5S) carried out down to 5 K in a field-cooling mode with a magnetic field of 10 Oe. The reported T_{c} values are onset temperatures of the diamagnetic signal.
+
+### Neutron-diffraction experiments
+
+Neutron-diffraction experiments were carried out at the R2 reactor in Studsvik, Sweden. The neutron powder diffractometer consisting of a double Cu (220) monochromator system (\lambda = 1.470 A) and 35 ^{3}He detectors spaced 4.00^{\circ} apart from each others, was used for the precise structure determination by scanning in steps of 0.08^{\circ} over the 2 _th_ range of 4.00-139.92^{\circ}. The powder samples (each 2.5-4.0 g) were placed in vanadium sample holders with a diameter of 6 mm, and the data were collected at 298 K. The neutron flux at the sample was approximately 10^{6} cm^{-2} s^{-1}.
+
+For the structure refinements a Rietveld program FULLPROF [17] was used. In Fig. 2, the unit cell of Cu(1)(Ba, Sr)2(Yb, Ca)Cu(2)2O6+- is shown to illustrate the nomenclature of the atomic positions used in the present study. Since precise detection of very small gradual changes in the structure is crucial for the study, special care was taken to refine all data sets in a consistent way. The refinements were carried out supposing either the tetragonal P4/_mmm_ (No. 123) or the orthorhombic _Pmmm_ (No. 47) space group, and assuming a full occupancy for all the other atomic positions with the exception of the O(1) site. The cell parameters obtained from the XRD measurements were used as starting values for a, b, and c. Isotropic temperature factors were refined for all the atoms, except for O(1).
+
+### Bond-valence-sum (BVS) calculations
+
+The bond-valence sums for the in-plane Cu(2), O(2), and O(3) atoms were calculated according to the scheme suggested by Brown and Altermatt,4,5 i.e., first the bond valence s_{j} of each _i_-_j_ bond from an empirically determined parameter R0 and from the experimental bond length _R_ij (in A) by
+
+\[s_{ij} = \exp\{(R_{0} - R_{ij})/0.37\},\]
+
+and then the bond-valence sum around a species i by summing over the bond valences from all the nearest-neighboring counter ions, as
+
+\[V_{i} = \pm \sum\limits_{j}\ s_{ij}.\]
+
+The calculated V_{i} sum was given as a positive value for the metal atoms and as a negative value for the oxygen atoms. The R0 values4,5 used in the present study are summarized in Table 1. For the Cu-O bonds with copper in an intermediate valence state, the R0 values were iterated in a self-consistent
+
+\begin{table}
+\begin{tabular}{c c c} Ca content x & Oxygen excess z, & \\ nominal & coulometry/NPD & T_{c} (K) \\
+0.00 & −0.03/0.225 & <5 \\
+0.10 & 0.00/0.104 & <5 \\
+0.20 & 0.00/0.166 & <5 \\
+0.25 & −0.02/0.072 & 27 \\
+0.35 & −0.08/0.075 & 43 \\ \end{tabular}
+\end{table}
+Table 2: Summary of the coulometric titration, NPD and SQUID results for the oxygen excess and T_{c} values in the Cu(1)(Ba0,Sr0.2)2(Yb1−,Ca)Cu(2)2O6+- (z×0) samples. The coulometric titration results are average values of at least five parallel analyses.
+
+\begin{table}
+\begin{tabular}{c c} Bond & R0 (Å) \\ Cu(+ II)-O & 1.679 \\ Cu(+ III)-O & 1.730 \\ Yb-O & 1.965 \\ Ca-O & 1.967 \\ Ba-O & 2.285 \\ Sr-O & 2.118 \\ \end{tabular}
+\end{table}
+Table 1: Values for the parameter R0 (Refs. 4 and 5) used in the present bond-valence calculations.
+
+Figure 2: Schematic presentation of the Cu(1)(Ba0,Sr0.2)2(Yb1−,Ca)Cu(2)2O6+- z crystal structure and the present notation system for the atoms.
+
+  way supposing that the value of R0 depends linearly on the valence of Cu in between the limit values of 1.679 for Cu(+II) and 1.730 for Cu(+III).
+
+The net hole concentration _p_(CuO2) in the CuO2 planes was calculated as suggested by Tallon.8
+
+\[p({\rm CuO}_{2}) = V_{{\rm Cu}(2)} + V_{{\rm O}(2)} + V_{{\rm O}(3)} + 2.\]
+
+In order to distinguish the three different doping routes defined in Refs. 2 and 3, and discussed in the previous section, contributions from the Cu(2)-O(4), O(2,3)-(Ba, Sr), and O(2,3)-(Yb, Ca) bonds to the _p_(CuO2) value were separated according to Eqs. (8)-(11) into the partial hole concentrations P(1), P(2), and P(3):
+
+\[p({\rm CuO}_{2}) = \Pi(1) + \Pi(2) + \Pi(3)\,,\]
+
+\[\Pi(1) = s_{{\rm Cu}(2) - \Omega(4)}\,,\]
+
+\[\Pi(2) = - 2 s_{{\rm O}(2) - A} - 2 s_{{\rm O}(3) - A} + 1,\]
+
+\[\Pi(3) = - 2 s_{{\rm O}(2) - (R,{\rm Ca})} - 2 s_{{\rm O}(3) - (R,{\rm Ca})} + 1.\]
+
+Since the constant "+ 2" in Eq. (7) is shared just empirically between P(1), P(2), and P(3) [Eqs. (9)-(11)], it is obvious that not the absolute values but only the changes in these parameters are meaningful. Therefore, the P(1), P(2), P(3), and _p_(CuO2) values were standardized against an extrapolated "zero sample" with x = 0 and z = 0 to get the corresponding D_P_II(1), D_II(2), D_II(3), and D_p_(CuO2) values.
+
+## III Results
+
+Judging from the x-ray-diffraction data, the synthesized Cu(Ba0.8Sr0.2)2(Yb1-_x_Ca)Cu2O6+_z_ samples were essentially of single-phase in the whole substitutional range of 0 <=_x_  0.35 and 0<_z_ < 1. Only in the XRD pattern of the Ca-free Cu(Ba0.8Sr0.2)2YbCu2O6+_z_ samples were traces of
+
+\begin{table}
+\begin{tabular}{c c c c}  & Oxygen excess z, \\  & coulometry/NPD & _T_C (K) \\ \hline -0.03/0.225 & <5 \\
+0.06/0.201 & <5 \\
+0.38/0.248 & <5 \\
+0.55/0.350 & 37 \\
+0.76/0.817 & 55 \\
+0.96/0.999 & 82 \\ \end{tabular}
+\end{table}
+Table 3: Summary of the coulometric titration, NPD and SQUID results for the oxygen excess and _T_C values in the Cu(1)(Ba0.8Sr0.2)YbCu(2)2O6+_z_ samples. The coulometric titration results are average values of at least five parallel analyses.
+
+  the Yb_{2}BaCuO_{5} impurity phase detected. Since the used fullprof Rietveld program allows simultaneous refinement of several phases, the neutron-diffraction data of the Cu(Ba_{0.8}Sr_{0.2})_{2}YbCu_{2}O_{6+z} samples were in preliminary refinements checked for the possible existence of the Yb_{2}BaCuO_{5} phase. However, the contribution from the Yb_{2}BaCuO_{5} structure[18] was found to be less than 1%, and consequently, in further refinements also the Cu(Ba_{0.8}Sr_{0.2})_{2}YbCu_{2}O_{6+z} samples were treated as single-phase materials. On the other hand, the solubility limit of calcium in Cu(Ba_{0.8}Sr_{0.2})_{2}(Yb_{1-z},Ca_{x})Cu_{2}O_{6+z} is at x = 0.35-0.40, and in samples with x> 0.35 an increasing amount of BaCuO_{2} impurity appears with increasing Ca concentration.[14] However, the present x = 0.35 sample was totally free from BaCuO_{2} within the detection limits of XRD and NPD.
+
+According to the results of several parallel coulometric titrations, post-annealing of the Cu(Ba_{0.8}Sr_{0.2})_{2}(Yb_{1-x}Ca_{x})Cu_{2}O_{6+z} samples in Ar at 800 ^{\circ}C resulted in a slightly negative oxygen stoichiometry value z for some of the samples with 0 \leqx\leq 0.35 (Table 2). The negative values can be explained by a presence of trace amounts of an impurity phase of monovalent copper (Cu_{2}O). In order to obtain a reliable estimation for the oxygen excess z from the neutron-diffraction data as well, the isotropic temperature factor of the O(1) atom was fixed (at 0.3 A^{2}) due to the very low occupancy of the site in the oxygen-deficient samples. The refinement of the O(1) occupancy in the samples annealed in Ar at 800 ^{\circ}C ended up to z values slightly decreasing with increasing Ca content x. In Table 2, the values obtained by the two methods for the oxygen excess z in Ca-substituted samples are summarized, together with the observed T_{c}'s. Corresponding data for the Ca-free samples, i.e., for the O-doped samples are presented in Table 3. Even though the differences are quite small, the oxygen content values obtained from NPD refinements seem to be slightly higher than the coulometric titration results. In the following discussion of the efficiencies of the doping routes the z values refined from NPD data are assumed.
+
+As the last steps of the NPD refinements, the partial occupancies of Yb and Ca at the R (i.e., Q) site and Ba and Sr at the A site were allowed to vary from the nominal values.
+
+  However, since no improvements in the reliability factors were seen, the partial occupancies were fixed to the nominal values in the final refinements. The final results obtained from the refinements are shown in Tables 4 and 5. In general, the obtained R_{p}, R_{wp}, and \chi^{2} values are small, indicating a good reliability of the results.
+
+In Ref. [14], the full series of Ca-substituted and O-doped Cu(Ba_{0.8}Sr_{0.2})_{2}(Yb_{1-x}Ca_{x})Cu_{2}O_{6+z} samples were characterized for the superconducting properties. In brief, without Ca substitution (i.e., x = 0) the Cu(Ba_{0.8}Sr_{0.2})_{2}YbCu_{2}O_{6+z}, phase becomes superconducting when z exceeds 0.45. With increasing oxygen excess z, T_{c} increases in the same two-step manner as that commonly known for the CuBa_{2}YCu_{2}O_{6+z} system. On the other hand, in the samples with z\approx 0, superconductivity appears at x\approx 0.20.
+
+## IV Discussion
+
+Concerning the three possible hole-doping routes shown in Fig. 1, the hole produced in Cu(Ba_{0.8}Sr_{0.2})_{2}(Yb_{1-x}Ca_{x}) Cu_{2}O_{6+z} by the excess oxygen are transferred into the CuO_{2} plane for the most part via the gradual movements of the apical oxygen atoms towards the plane [route \Pi(1)] and barium atoms away from the in-plane oxygen atoms [route \Pi(2)], while doping with calcium substitution increases the hole concentration by lengthening the effective bond length, i.e., R_{ij}-R_{0} in Eq. (5), from the in-plane oxygen to the (Yb,Ca) site [route \Pi(3)]. The contributions of the different routes with increasing doping levels, i.e., the \Delta\Pi vs \Delta p(CuO_{2}) curves, are illustrated in Figs. 3(a) and 3(b) for Ca substitution and O doping, respectively.
+
+When considering the capability of the two different doping ways to generate holes into the CuO_{2} plane, the hole concentration p(CuO_{2}) as established by the bond-valence-sum calculation was found to increase less efficiently with O doping than with Ca substitution, as is seen in the \Delta p(CuO_{2}) vs \Delta V_{\rm Cu,\rm nom} correlations shown in Fig. 4. This is understand
+
+Figure 3: Conductances of the different hole-doping routes in the Cu(Ba_{0.8}Sr_{0.2})_{2}(Yb_{1-x}Ca_{x})Cu_{2}O_{6+z} system: \Delta\Pi (1,2,3) vs \Delta p(CuO_{2}) for the (a) Ca-substituted (z\approx 0) and (b) O-doped (x = 0) samples.
+
+  able, since the excess oxygen atoms are located in the empty site around the chain-site Cu atoms, and are thus supposed to oxidize the CuO2 charge reservoir more efficiently. However, two less obvious observations were made from the data. Both of these observations are supported by our recent results obtained from O _K_-edge x-ray-absorption near-edge-structure measurements for the site-specific hole concentrations in the same sample powders.[19] First, not only O doping but also Ca substitution leads to smaller than nominal \Delta p(CuO2) values, i.e., \Delta p(CuO2)<\Delta_V_Cu,non. This means that the Cu atoms in the charge-reservoir block are also partly oxidized with the Ca-to-Yb substitution. Since in the Ca-substituted samples practically no O atoms are present in the charge reservoir and the Cu atoms therefore are twofold coordinated, a mixed +I/+II valence state is supposed for the partly oxidized chain-site Cu atoms. The second observation is that, the \Delta p(CuO2) values obtained for O-doped Cu(Ba0.8Sr0.2)2YbCu2O6+- samples are quite large as compared to values calculated in the present way from NPD data reported for CuBa2YCu2O6+- (Refs. 6 and 7) [\Delta p(CuO2) = 0.15-0.20 when z increases from \sim0 to \sim1]. It is noted that our preliminary measurements of the Seebeck coefficient for the Cu(Ba0.2Sr0.2)2YbCu2O6+- samples indicated that with O doping overdoped state is reached at quite a low excess-oxygen value (z\approx0.8),[20] in accordance with the observed high \Delta p(CuO2) vs \Delta_V_Cu,non rate.
+
+When plotting the critical temperature as a function of the change in p(CuO2), i.e., against \Delta p(CuO2), it is seen (Fig. 5) that at a certain hole-concentration value higher T_{c} values are obtained with calcium substitution. The two different hole-doping ways also seem to result in different T_{c} vs (Cu-O bond length) relations [Fig. 6(a)]. In other words, increasing the hole concentration in the CuO2 plane, i.e. the increase in p(CuO2), shortens the in-plane Cu-O bond length as a general trend since antibonding electrons are removed,[21] but the rate of shortening is different for the two hole-doping ways [Fig. 6(b)]. This suggests that other parameters besides the hole concentration have to be considered in terms of determining the superconducting properties. One possible additional parameter is the hole distribution in the in-plane Cu-O bond. That is, whether the holes have more Cu(3_d_) or O(2_p_) character. In that respect, note that the Cu(+III)-O(-II)) and Cu(+II)-O(-I) bonds have different characteristic lengths, i.e., R_{\parallel}[Cu(+III)-O(-II)]\approx 1.73 and R_{\parallel}[Cu(+II)-O(-I)]\approx 1.59.[9] Therefore, according to a bond-valence interpretation, within a certain amount of net holes being accomodated in the Cu-O bond, i.e., s_{ij} is fixed, the shorter the R_{ij} value is, the smaller the R_{0} should be [cf. Eq. (5)], and consequently the more the holes would be on oxygen.[3, 22]
+
+Another factor which also may affect the T_{c} value is the buckling of the CuO2 planes. From the (flatness of the CuO2 plane) vs \DeltaII(1) data summarized for the both hole-doping ways in Fig. 7 it can be concluded that the more the holes are doped via II(1) the stronger is the buckling of the CuO2 planes. The fact that, at a certain p(CuO2) value a lower T_{c} value is obtained when the increase in p(CuO2) is achieved via II(1), is consistent with the observation of Jorgensen _et al.[23]_ that among the different cuprate phases the highest T_{c} values can be assigned to the structures with the longest Cu-O_{\rm{2pi}} distances. An interesting question is, whether this interpretation can be extended to square-planar CuO2 planes, e.g., the inner CuO2 planes in the M_{m}A2O_{n-1}Cu_{n}O_{m+2+2n\,\delta} phases with n\geq 3, in which the Cu-O_{\rm{2pi}} distance can be thought to be infinite.[3, 22]
+
+## V Conclusions
+
+In the present study, the distinct calcium-substitution and oxygen-doping effects were established in the Cu(Ba0.8Sr0.2)2(Yb1-xCa)xCu2O6+- system. The two different hole-doping ways were found to exhibit different T_{c} vs p(CuO2) and (Cu-O bond length) vs p(CuO2) characteristics. Also, calcium substitution diminished the buckling of the CuO2 plane while oxygen doping increased the buckling. In an M_{m}A2O_{n-1}Cu_{n}O_{m+2+2n\,\delta} system in general, the hole concentration p(CuO2) in the (CuO2) planes is determined as a delicate balance within the exact oxygen content \delta and the nature (valence and size) of the cations M, A, and Q, and the results obtained for the Cu(Ba0.8Sr0.2)2(Yb1-xCa)x Cu2O6+- system cannot be directly adapted to each different combination of \delta, M, A, and Q even at a fixed n. However,  as a general conclusion the present study demonstrated that, not only the hole concentration but also other parameters such as the hole distribution among the Cu and O atoms and the degree of buckling are important in determining the superconducting properties of the CuO_{2} planes. We believe that considering the distinct contributions of the different hole-doping routes is essential for understanding the superconducting cuprate materials and to be able to explain why, e.g., T_{c,\,{\rm optimized}} varies from one cuprate phase to another. Also, in terms of improving the irreversibility field (H_{\rm irr}) properties, possibility to control the hole distribution between the infinite-layer and charge-reservoir blocks by guiding the holes in the desired part of the layered cuprate structure would be most attractive.[24, 25]
+
+###### Acknowledgements.
+
+ Helpful discussions with Professor I. D. Brown and Professor T. Timusk of McMaster University, Professor L. Niinisto of Helsinki University of Technology, and Dr. H. Suematsu of Tokyo Institute of Technology are gratefully acknowledged. This work was supported by the EC Large Scale Facility Project, by a Grant-in-Aid for Scientific Research under a Contract No. 08044135 from The Ministry of Education, Science and Culture of Japan, and also by International Collaborative Research Grants 1996 and 1997 of the Materials and Structures Laboratory, Tokyo Institute of Technology.
+
+## References
+
+* [1] H. Yamauchi, M. Karppinen, and S. Tanaka, Physica C **263**, 146 (1996).
+* [2] M. Karppinen and H. Yamauchi, J. Supercond. **11**, 39 (1998).
+* [3] M. Karppinen and H. Yamauchi, Philos. Mag. B **79**, 343 (1999).
+* [4] I. D. Brown and D. Altermatt, Acta Crystallogr., Sect. B: Struct. Sci. **41**, 244 (1985).
+* [5] I. D. Brown, J. Solid State Chem. **82**, 122 (1989).
+* [6] R. J. Cava, A. W. Hewat, E. A. Hewat, B. Batlogg, M. Marezio, K. M. Rabe, J. J. Krajewski, W. F. Peck, Jr., and L. W. Rupp, Jr., Physica C **165**, 419 (1990).
+* [7] J. D. Jorgensen, B. W. Veal, A. P. Paulikas, L. J. Nowicki, G. W. Grabtree, H. Claus, and W. K. Kwok, Phys. Rev. B **41**, 1863 (1990).
+* [8] J. L. Tallon, Physica C **168**, 85 (1990).
+* [9] I. D. Brown, Physica C **169**, 105 (1990).
+
+ 
+
+# Ca-substitution and O-doping effects in superconducting Cu(Ba0.8Sr0.2)2(Yb1-_x_Ca_x_) Cu2O6+z
+
+obtained from neutron diffraction refinements
+
+M. Karppinen
+
+Materials and Structures Laboratory, Tokyo Institute of Technology, Yokohama 226-8503, Japan and Laboratory of Inorganic and Analytical Chemistry, Helsinki University of Technology, FIN-02015 Espoo, Finland
+
+H. Yamauchi
+
+Materials and Structures Laboratory, Tokyo Institute of Technology, Yokohama 226-8503, Japan
+
+K. Fujinami
+
+Materials and Structures Laboratory, Tokyo Institute of Technology, Yokohama 226-8503, Japan
+
+T. Nakane
+
+Materials and Structures Laboratory, Tokyo Institute of Technology, Yokohama 226-8503, Japan
+
+K. Peitola
+
+Laboratory of Inorganic and Analytical Chemistry, Helsinki University of Technology, FIN-02015 Espoo, Finland
+
+H. Rundlor
+
+R. Tellgren
+
+Inorganic Chemistry, Angstrom Laboratory, Uppsala University, S-75121 Uppsala, Sweden
+
+17 March 1998; revised manuscript received 13 October 1998
+
+###### Abstract
+
+Distinct calcium and oxygen doping effects were studied in the Cu(Ba0.8Sr0.2)2(Yb1-_x_Ca_x_)Cu2O6+z (Cu-1212:_P_) system by means of neutron diffraction and superconducting quantum interference device experiments in the wide substitution ranges of 0 <= x <= 0.35 and 0 < z < 1. The effectiveness of the two different ways to introduce holes into the CuO2 planes was compared both in respect to the capability to increase _T_c and in terms of the hole production as estimated from neutron-diffraction data via bond-valence-sum calculation. Oxygen doping was found to increase the hole concentration less efficiently, and further, at a certain hole concentration value higher _T_c values were obtained with calcium substitution than with oxygen doping. The two different hole-doping methods exhibited also different _T_c vs Cu-O bond length relations. As a conclusion, the possible roles of the hole distribution in the in-plane Cu-O bond and the flatness of the CuO2 planes in determining the superconducting properties were recognized. [S0163-1829(99)06929-5]
+
+## 1 Introduction
+
+The structures of superconducting cuprates are best described as members of different homologous series expressed by _MnA2O__n_-1Cu_n_O__m_+2_+2_+2_+_d_ or _M_-_m_2_(_n_-1)_n_. In these structures the superconductive _Q__n_-1Cu_n_O_2n (_Q_ = Ca, rare-earth element R; n = 1 - 7) "infinite-layer" blocks are sandwiched by _AO_ (_A_ = Sr, Ba, La) layers and _Mn_O__m_+_d_ (_M_ = e.g., Cu, Bi, Pb, Tl, Hg, C; m = 0 - 3) "charge reservoir" blocks.1 For understanding the phenomenon of high-_T_c superconductivity, evaluation of the factors determining the superconducting properties is essential. The observed values of critical temperature _T_c are believed to be related to the hole concentration in the CuO2 planes, which is further commonly associated with, e.g., the valence of copper in the CuO2 planes. An open challenge is, however, how to explicitly establish the values of such parameters.
+
+In a common chemical approach the hole concentration in the CuO2 planes is imagined as a mixed valence value of copper and estimated for the layered _M__m_A2O__n_-1Cu_n_O__m_+2_+_d_+ the CuBa_{2}YCu_{2}O_{7-\delta} compound.[6, 7] Especially, when considering "net holes" which may reside either on copper or on oxygen in the CuO_{2} planes rather than the valence of copper only, a parameter [i.e., p(CuO_{2}), see Eq. (7)], which best explains the T_{c} vs \delta relation in CuBa_{2}YCu_{2}O_{7-\delta} is obtained.[8, 9]
+
+Another interesting question is, which are the optimum ways to fine tune the p(CuO_{2}) parameter, i.e., to dope the existing as well as the "not-yet-discovered" cuprate superconductors to reach the "universal maximum T_{c}." Based on the observation[10] that in the p(CuO_{2}) value the contributions from the in-plane Cu-O bonds are counteracted and only the out-of-plane bonds from copper to the apical oxygen (O_{\rm api}) and from the in-plane oxygen to the Q and A cations have net effects on the hole concentration, three different ways of doping the CuO_{2} planes were defined in Refs. 2 and 3, i.e., (1) shortening the Cu-O_{\rm api} bond and (2) lengthening the effective O-A or (3) O-Q bond in the M_{m}A_{2}O_{n-1}Cu_{n}O_{n+2+2\pi\pm\delta} structure (Fig. 1). It was also shown that these different doping routes may function either separately or in a collaborative manner. In the CuBa_{2}(Y, Ca)Cu_{2}O_{7-\delta} system, for example, incorporation of oxygen into the CuO_{1-\delta} chain is seen as gradual movements of O_{\rm api} towards the CuO_{2} plane [route (1)] and Ba away from the in-plane O atoms [route (2)] as the oxidation proceeds, while substitution of trivalent Y by divalent Ca introduces holes into the CuO_{2} planes by lengthening the effective O-(Y, Ca) bond according to route (3).[23]
+
+In order to clarify the distinctive features of the different doping routes and to study the efficiency of each route, e.g., in terms of hole production and the capability to increase T_{c} , the different doping routes should be facilitated separately in a fixed parent structure in wide doping ranges. The CuA_{2}RCu_{2}O_{7-\delta} system is, in principle, a good model structure in which the joint effect of doping routes (1) and (2) achieved by oxygen doping can be compared to the structural changes associated with the Ca substitution, i.e., doping via route (3). However, when A = Ba and R = Y, single phase samples are obtained only up to x < 0.20.[11, 12, 13] Therefore, the Cu(Ba_{0.8}Sr_{0.2})_{2}(Yb_{1-x}Ca_{x})Cu_{2}O_{6+z} system, in which the solubility limit of Ca has been extended up to x \approx 0.40,[14] was selected for the present systematic investigation of the Ca-substitution and O-doping effects. (Note that for the amount of excess oxygen, z is used instead of "1 - \delta.") In the following, essentially single-phase samples with 0 < z < 1 and 0 \approxx \approx 0.35 are dealt with. All the samples have been characterized by chemical analysis for the oxygen stoichiometry and by means of x-ray diffraction (XRD), neutron powder diffraction (NPD), and superconducting quantum interference device (SQUID) measurements for the structural and superconducting properties. For discussing the effects of the different hole-doping routes, the BVS calculation approach presented in detail in Refs. 2 and 3 and described shortly in Sec. II of the present contribution is utilized.
+
+## II Experimental
+
+### Synthesis and characterization of the samples
+
+Single-phase Cu(Ba_{0.8}Sr_{0.2})_{2}(Yb_{1-x}Ca_{x})Cu_{2}O_{6+z} powders with x = 0, 0.10, 0.20, 0.25, and 0.35 were prepared from Yb_{2}O_{3}, BaCO_{3}, SrCO_{3}, CaCO_{3}, and CuO utilizing the technique developed and described in more detail in Ref. 14. In brief, stoichiometric mixtures of the starting materials were several times calcined and sintered (as pelletized) in air at 900-940 degC, and then oxidized in powder form by annealing in O_{2} at 350-400 degC for 48 h. Oxygen-deficient Ca-free Cu(Ba_{0.8}Sr_{0.2})_{2}YbCu_{2}O_{6+z} samples with varying oxygen content were obtained from the oxygenated Cu(Ba_{0.8}Sr_{0.2})_{2}YbCu_{2}O_{6+z} (z \approx 0.96) material by post-annealing in an Ar atmosphere at the following temperatures: 380 degC (z \approx 0.76), 480 degC (z \approx 0.55), 550 degC (z \approx 0.38), 750 degC (z \approx 0.06), 800 degC (z \approx 0). The Ca-substituted oxygen-deficient (z \approx 0) Cu(Ba_{0.8}Sr_{0.2})_{2}(Yb_{1-x}Ca_{x})Cu_{2}O_{6+z} samples were obtained from the corresponding oxygenated powders by annealing in Ar at 800 degC. In order to ensure the homogeneity of the oxygen content in the whole sample all these post-annealings were carried out in powder form in very small batches of \sim150 mg in a thermobalance (MAC Science TG/DTA 2000 S) to be able to carefully control the temperature and atmosphere during the oxygen depletion and to _in situ_ detect the changes in the weight/oxygen stoichiometry. In the thermogravimetric (TG) annealings the heating and cooling rates were 2 degC min^{-1}, and the isothermal heating period at the final temperatures was 6 h.
+
+The level of excess oxygen in the samples was further confirmed by the coulometric Cu(+I)/Cu(+II) titration method[15] using the experimental setup described in Ref. 16. In this method, the possible trivalent copper and/or peroxide-type oxygen, i.e., \alpha (CuO)^{+}, is reduced by Cu(+I) when dissolving the sample [expressed by (Ba, Sr)_{2}(Yb_{1-x}Ca_{x})(Cu(+III)_{x}Cu(+I)_{\theta})_{3}O_{6+z}] in HCl solution containing a known excess (\gamma) of monovalent copper ions [Eq. (2)]. On the other hand, if the sample itself contains monovalent copper, i.e., \beta (CuO)^{-}, the Cu(+I) amount in the solution increases upon dissolving the sample [Eq. (3)]. Depending on the balance of \alpha (CuO)^{+} and \beta (CuO)^{-} in the sample and the initial amount of monovalent copper (\gamma) in the solution, different quantities of electricity [Q = (\gamma-\alpha + \beta)F; F = Faraday constant] are detected when the coulometric back titration of the excess Cu(+I) is performed [Eq. (4)]. The average valence of copper (V_{\rm Cu} = 2 + \alpha - \beta) and thus the oxygen excess (z = 0.5 + 0.5 \alpha - 0.5 \beta - 0.5 x) in
+
+Figure 1: The three hole-doping routes \Pi(1), \Pi(2), and \Pi(3) for the pyramidal CuO_{2} planes in layered M_{m}A_{2}O_{n-1}Cu_{n}O_{n+2+2\pi\pm\delta} cuprates and in the Cu(1)(Ba, Sr)_{2}(Yb, Ca)Cu(2)_{2}O_{6+z} system.
+
+  the sample exhibiting Cu valence values in the range of +1 < _V_Ca + 3 can thus be calculated from the coulometric titration result:
+
+\[\alpha ({\rm CuO})^{+} + \alpha \,{\rm Cu}^{+} + 2\alpha \,{\rm H}^{+} \to 2\alpha \,{\rm Cu}^{2 +} + \alpha \,{\rm H}_{2}{\rm O},\]
+
+\[\beta ({\rm CuO})^{-} + 2\beta \,{\rm H}^{+} \to \beta \,{\rm Cu}^{+} + \beta \,{\rm H}_{2}{\rm O},\]
+
+\[(\gamma - \alpha + \beta ){\rm Cu}^{+} \to (\gamma - \alpha + \beta ){\rm Cu}^{2 +}\]
+
+\[+ (\gamma - \alpha + \beta )e^{-}\quad({\rm coulometry}).\]
+
+The synthesized samples were characterized for the phase purity and lattice parameters by an x-ray diffractometer (MAC Science MXP18VAHF;22 Cu _K_a_ radiation), and for the superconducting properties by SQUID measurements (Quantum Design MPMS-5S) carried out down to 5 K in a field-cooling mode with a magnetic field of 10 Oe. The reported T_{c} values are onset temperatures of the diamagnetic signal.
+
+### Neutron-diffraction experiments
+
+Neutron-diffraction experiments were carried out at the R2 reactor in Studsvik, Sweden. The neutron powder diffractometer consisting of a double Cu (220) monochromator system (\lambda = 1.470 A) and 35 ^{3}He detectors spaced 4.00^{\circ} apart from each others, was used for the precise structure determination by scanning in steps of 0.08^{\circ} over the 2 _th_ range of 4.00-139.92^{\circ}. The powder samples (each 2.5-4.0 g) were placed in vanadium sample holders with a diameter of 6 mm, and the data were collected at 298 K. The neutron flux at the sample was approximately 10^{6} cm^{-2} s^{-1}.
+
+For the structure refinements a Rietveld program FULLPROF [17] was used. In Fig. 2, the unit cell of Cu(1)(Ba, Sr)2(Yb, Ca)Cu(2)2O6+- is shown to illustrate the nomenclature of the atomic positions used in the present study. Since precise detection of very small gradual changes in the structure is crucial for the study, special care was taken to refine all data sets in a consistent way. The refinements were carried out supposing either the tetragonal P4/_mmm_ (No. 123) or the orthorhombic _Pmmm_ (No. 47) space group, and assuming a full occupancy for all the other atomic positions with the exception of the O(1) site. The cell parameters obtained from the XRD measurements were used as starting values for a, b, and c. Isotropic temperature factors were refined for all the atoms, except for O(1).
+
+### Bond-valence-sum (BVS) calculations
+
+The bond-valence sums for the in-plane Cu(2), O(2), and O(3) atoms were calculated according to the scheme suggested by Brown and Altermatt,4,5 i.e., first the bond valence s_{j} of each _i_-_j_ bond from an empirically determined parameter R0 and from the experimental bond length _R_ij (in A) by
+
+\[s_{ij} = \exp\{(R_{0} - R_{ij})/0.37\},\]
+
+and then the bond-valence sum around a species i by summing over the bond valences from all the nearest-neighboring counter ions, as
+
+\[V_{i} = \pm \sum\limits_{j}\ s_{ij}.\]
+
+The calculated V_{i} sum was given as a positive value for the metal atoms and as a negative value for the oxygen atoms. The R0 values4,5 used in the present study are summarized in Table 1. For the Cu-O bonds with copper in an intermediate valence state, the R0 values were iterated in a self-consistent
+
+\begin{table}
+\begin{tabular}{c c c} Ca content x & Oxygen excess z, & \\ nominal & coulometry/NPD & T_{c} (K) \\
+0.00 & −0.03/0.225 & <5 \\
+0.10 & 0.00/0.104 & <5 \\
+0.20 & 0.00/0.166 & <5 \\
+0.25 & −0.02/0.072 & 27 \\
+0.35 & −0.08/0.075 & 43 \\ \end{tabular}
+\end{table}
+Table 2: Summary of the coulometric titration, NPD and SQUID results for the oxygen excess and T_{c} values in the Cu(1)(Ba0,Sr0.2)2(Yb1−,Ca)Cu(2)2O6+- (z×0) samples. The coulometric titration results are average values of at least five parallel analyses.
+
+\begin{table}
+\begin{tabular}{c c} Bond & R0 (Å) \\ Cu(+ II)-O & 1.679 \\ Cu(+ III)-O & 1.730 \\ Yb-O & 1.965 \\ Ca-O & 1.967 \\ Ba-O & 2.285 \\ Sr-O & 2.118 \\ \end{tabular}
+\end{table}
+Table 1: Values for the parameter R0 (Refs. 4 and 5) used in the present bond-valence calculations.
+
+Figure 2: Schematic presentation of the Cu(1)(Ba0,Sr0.2)2(Yb1−,Ca)Cu(2)2O6+- z crystal structure and the present notation system for the atoms.
+
+  way supposing that the value of R0 depends linearly on the valence of Cu in between the limit values of 1.679 for Cu(+II) and 1.730 for Cu(+III).
+
+The net hole concentration _p_(CuO2) in the CuO2 planes was calculated as suggested by Tallon.8
+
+\[p({\rm CuO}_{2}) = V_{{\rm Cu}(2)} + V_{{\rm O}(2)} + V_{{\rm O}(3)} + 2.\]
+
+In order to distinguish the three different doping routes defined in Refs. 2 and 3, and discussed in the previous section, contributions from the Cu(2)-O(4), O(2,3)-(Ba, Sr), and O(2,3)-(Yb, Ca) bonds to the _p_(CuO2) value were separated according to Eqs. (8)-(11) into the partial hole concentrations P(1), P(2), and P(3):
+
+\[p({\rm CuO}_{2}) = \Pi(1) + \Pi(2) + \Pi(3)\,,\]
+
+\[\Pi(1) = s_{{\rm Cu}(2) - \Omega(4)}\,,\]
+
+\[\Pi(2) = - 2 s_{{\rm O}(2) - A} - 2 s_{{\rm O}(3) - A} + 1,\]
+
+\[\Pi(3) = - 2 s_{{\rm O}(2) - (R,{\rm Ca})} - 2 s_{{\rm O}(3) - (R,{\rm Ca})} + 1.\]
+
+Since the constant "+ 2" in Eq. (7) is shared just empirically between P(1), P(2), and P(3) [Eqs. (9)-(11)], it is obvious that not the absolute values but only the changes in these parameters are meaningful. Therefore, the P(1), P(2), P(3), and _p_(CuO2) values were standardized against an extrapolated "zero sample" with x = 0 and z = 0 to get the corresponding D_P_II(1), D_II(2), D_II(3), and D_p_(CuO2) values.
+
+## III Results
+
+Judging from the x-ray-diffraction data, the synthesized Cu(Ba0.8Sr0.2)2(Yb1-_x_Ca)Cu2O6+_z_ samples were essentially of single-phase in the whole substitutional range of 0 <=_x_  0.35 and 0<_z_ < 1. Only in the XRD pattern of the Ca-free Cu(Ba0.8Sr0.2)2YbCu2O6+_z_ samples were traces of
+
+\begin{table}
+\begin{tabular}{c c c c}  & Oxygen excess z, \\  & coulometry/NPD & _T_C (K) \\ \hline -0.03/0.225 & <5 \\
+0.06/0.201 & <5 \\
+0.38/0.248 & <5 \\
+0.55/0.350 & 37 \\
+0.76/0.817 & 55 \\
+0.96/0.999 & 82 \\ \end{tabular}
+\end{table}
+Table 3: Summary of the coulometric titration, NPD and SQUID results for the oxygen excess and _T_C values in the Cu(1)(Ba0.8Sr0.2)YbCu(2)2O6+_z_ samples. The coulometric titration results are average values of at least five parallel analyses.
+
+  the Yb_{2}BaCuO_{5} impurity phase detected. Since the used fullprof Rietveld program allows simultaneous refinement of several phases, the neutron-diffraction data of the Cu(Ba_{0.8}Sr_{0.2})_{2}YbCu_{2}O_{6+z} samples were in preliminary refinements checked for the possible existence of the Yb_{2}BaCuO_{5} phase. However, the contribution from the Yb_{2}BaCuO_{5} structure[18] was found to be less than 1%, and consequently, in further refinements also the Cu(Ba_{0.8}Sr_{0.2})_{2}YbCu_{2}O_{6+z} samples were treated as single-phase materials. On the other hand, the solubility limit of calcium in Cu(Ba_{0.8}Sr_{0.2})_{2}(Yb_{1-z},Ca_{x})Cu_{2}O_{6+z} is at x = 0.35-0.40, and in samples with x> 0.35 an increasing amount of BaCuO_{2} impurity appears with increasing Ca concentration.[14] However, the present x = 0.35 sample was totally free from BaCuO_{2} within the detection limits of XRD and NPD.
+
+According to the results of several parallel coulometric titrations, post-annealing of the Cu(Ba_{0.8}Sr_{0.2})_{2}(Yb_{1-x}Ca_{x})Cu_{2}O_{6+z} samples in Ar at 800 ^{\circ}C resulted in a slightly negative oxygen stoichiometry value z for some of the samples with 0 \leqx\leq 0.35 (Table 2). The negative values can be explained by a presence of trace amounts of an impurity phase of monovalent copper (Cu_{2}O). In order to obtain a reliable estimation for the oxygen excess z from the neutron-diffraction data as well, the isotropic temperature factor of the O(1) atom was fixed (at 0.3 A^{2}) due to the very low occupancy of the site in the oxygen-deficient samples. The refinement of the O(1) occupancy in the samples annealed in Ar at 800 ^{\circ}C ended up to z values slightly decreasing with increasing Ca content x. In Table 2, the values obtained by the two methods for the oxygen excess z in Ca-substituted samples are summarized, together with the observed T_{c}'s. Corresponding data for the Ca-free samples, i.e., for the O-doped samples are presented in Table 3. Even though the differences are quite small, the oxygen content values obtained from NPD refinements seem to be slightly higher than the coulometric titration results. In the following discussion of the efficiencies of the doping routes the z values refined from NPD data are assumed.
+
+As the last steps of the NPD refinements, the partial occupancies of Yb and Ca at the R (i.e., Q) site and Ba and Sr at the A site were allowed to vary from the nominal values.
+
+  However, since no improvements in the reliability factors were seen, the partial occupancies were fixed to the nominal values in the final refinements. The final results obtained from the refinements are shown in Tables 4 and 5. In general, the obtained R_{p}, R_{wp}, and \chi^{2} values are small, indicating a good reliability of the results.
+
+In Ref. [14], the full series of Ca-substituted and O-doped Cu(Ba_{0.8}Sr_{0.2})_{2}(Yb_{1-x}Ca_{x})Cu_{2}O_{6+z} samples were characterized for the superconducting properties. In brief, without Ca substitution (i.e., x = 0) the Cu(Ba_{0.8}Sr_{0.2})_{2}YbCu_{2}O_{6+z}, phase becomes superconducting when z exceeds 0.45. With increasing oxygen excess z, T_{c} increases in the same two-step manner as that commonly known for the CuBa_{2}YCu_{2}O_{6+z} system. On the other hand, in the samples with z\approx 0, superconductivity appears at x\approx 0.20.
+
+## IV Discussion
+
+Concerning the three possible hole-doping routes shown in Fig. 1, the hole produced in Cu(Ba_{0.8}Sr_{0.2})_{2}(Yb_{1-x}Ca_{x}) Cu_{2}O_{6+z} by the excess oxygen are transferred into the CuO_{2} plane for the most part via the gradual movements of the apical oxygen atoms towards the plane [route \Pi(1)] and barium atoms away from the in-plane oxygen atoms [route \Pi(2)], while doping with calcium substitution increases the hole concentration by lengthening the effective bond length, i.e., R_{ij}-R_{0} in Eq. (5), from the in-plane oxygen to the (Yb,Ca) site [route \Pi(3)]. The contributions of the different routes with increasing doping levels, i.e., the \Delta\Pi vs \Delta p(CuO_{2}) curves, are illustrated in Figs. 3(a) and 3(b) for Ca substitution and O doping, respectively.
+
+When considering the capability of the two different doping ways to generate holes into the CuO_{2} plane, the hole concentration p(CuO_{2}) as established by the bond-valence-sum calculation was found to increase less efficiently with O doping than with Ca substitution, as is seen in the \Delta p(CuO_{2}) vs \Delta V_{\rm Cu,\rm nom} correlations shown in Fig. 4. This is understand
+
+Figure 3: Conductances of the different hole-doping routes in the Cu(Ba_{0.8}Sr_{0.2})_{2}(Yb_{1-x}Ca_{x})Cu_{2}O_{6+z} system: \Delta\Pi (1,2,3) vs \Delta p(CuO_{2}) for the (a) Ca-substituted (z\approx 0) and (b) O-doped (x = 0) samples.
+
+  able, since the excess oxygen atoms are located in the empty site around the chain-site Cu atoms, and are thus supposed to oxidize the CuO2 charge reservoir more efficiently. However, two less obvious observations were made from the data. Both of these observations are supported by our recent results obtained from O _K_-edge x-ray-absorption near-edge-structure measurements for the site-specific hole concentrations in the same sample powders.[19] First, not only O doping but also Ca substitution leads to smaller than nominal \Delta p(CuO2) values, i.e., \Delta p(CuO2)<\Delta_V_Cu,non. This means that the Cu atoms in the charge-reservoir block are also partly oxidized with the Ca-to-Yb substitution. Since in the Ca-substituted samples practically no O atoms are present in the charge reservoir and the Cu atoms therefore are twofold coordinated, a mixed +I/+II valence state is supposed for the partly oxidized chain-site Cu atoms. The second observation is that, the \Delta p(CuO2) values obtained for O-doped Cu(Ba0.8Sr0.2)2YbCu2O6+- samples are quite large as compared to values calculated in the present way from NPD data reported for CuBa2YCu2O6+- (Refs. 6 and 7) [\Delta p(CuO2) = 0.15-0.20 when z increases from \sim0 to \sim1]. It is noted that our preliminary measurements of the Seebeck coefficient for the Cu(Ba0.2Sr0.2)2YbCu2O6+- samples indicated that with O doping overdoped state is reached at quite a low excess-oxygen value (z\approx0.8),[20] in accordance with the observed high \Delta p(CuO2) vs \Delta_V_Cu,non rate.
+
+When plotting the critical temperature as a function of the change in p(CuO2), i.e., against \Delta p(CuO2), it is seen (Fig. 5) that at a certain hole-concentration value higher T_{c} values are obtained with calcium substitution. The two different hole-doping ways also seem to result in different T_{c} vs (Cu-O bond length) relations [Fig. 6(a)]. In other words, increasing the hole concentration in the CuO2 plane, i.e. the increase in p(CuO2), shortens the in-plane Cu-O bond length as a general trend since antibonding electrons are removed,[21] but the rate of shortening is different for the two hole-doping ways [Fig. 6(b)]. This suggests that other parameters besides the hole concentration have to be considered in terms of determining the superconducting properties. One possible additional parameter is the hole distribution in the in-plane Cu-O bond. That is, whether the holes have more Cu(3_d_) or O(2_p_) character. In that respect, note that the Cu(+III)-O(-II)) and Cu(+II)-O(-I) bonds have different characteristic lengths, i.e., R_{\parallel}[Cu(+III)-O(-II)]\approx 1.73 and R_{\parallel}[Cu(+II)-O(-I)]\approx 1.59.[9] Therefore, according to a bond-valence interpretation, within a certain amount of net holes being accomodated in the Cu-O bond, i.e., s_{ij} is fixed, the shorter the R_{ij} value is, the smaller the R_{0} should be [cf. Eq. (5)], and consequently the more the holes would be on oxygen.[3, 22]
+
+Another factor which also may affect the T_{c} value is the buckling of the CuO2 planes. From the (flatness of the CuO2 plane) vs \DeltaII(1) data summarized for the both hole-doping ways in Fig. 7 it can be concluded that the more the holes are doped via II(1) the stronger is the buckling of the CuO2 planes. The fact that, at a certain p(CuO2) value a lower T_{c} value is obtained when the increase in p(CuO2) is achieved via II(1), is consistent with the observation of Jorgensen _et al.[23]_ that among the different cuprate phases the highest T_{c} values can be assigned to the structures with the longest Cu-O_{\rm{2pi}} distances. An interesting question is, whether this interpretation can be extended to square-planar CuO2 planes, e.g., the inner CuO2 planes in the M_{m}A2O_{n-1}Cu_{n}O_{m+2+2n\,\delta} phases with n\geq 3, in which the Cu-O_{\rm{2pi}} distance can be thought to be infinite.[3, 22]
+
+## V Conclusions
+
+In the present study, the distinct calcium-substitution and oxygen-doping effects were established in the Cu(Ba0.8Sr0.2)2(Yb1-xCa)xCu2O6+- system. The two different hole-doping ways were found to exhibit different T_{c} vs p(CuO2) and (Cu-O bond length) vs p(CuO2) characteristics. Also, calcium substitution diminished the buckling of the CuO2 plane while oxygen doping increased the buckling. In an M_{m}A2O_{n-1}Cu_{n}O_{m+2+2n\,\delta} system in general, the hole concentration p(CuO2) in the (CuO2) planes is determined as a delicate balance within the exact oxygen content \delta and the nature (valence and size) of the cations M, A, and Q, and the results obtained for the Cu(Ba0.8Sr0.2)2(Yb1-xCa)x Cu2O6+- system cannot be directly adapted to each different combination of \delta, M, A, and Q even at a fixed n. However,  as a general conclusion the present study demonstrated that, not only the hole concentration but also other parameters such as the hole distribution among the Cu and O atoms and the degree of buckling are important in determining the superconducting properties of the CuO_{2} planes. We believe that considering the distinct contributions of the different hole-doping routes is essential for understanding the superconducting cuprate materials and to be able to explain why, e.g., T_{c,\,{\rm optimized}} varies from one cuprate phase to another. Also, in terms of improving the irreversibility field (H_{\rm irr}) properties, possibility to control the hole distribution between the infinite-layer and charge-reservoir blocks by guiding the holes in the desired part of the layered cuprate structure would be most attractive.[24, 25]
+
+###### Acknowledgements.
+
+ Helpful discussions with Professor I. D. Brown and Professor T. Timusk of McMaster University, Professor L. Niinisto of Helsinki University of Technology, and Dr. H. Suematsu of Tokyo Institute of Technology are gratefully acknowledged. This work was supported by the EC Large Scale Facility Project, by a Grant-in-Aid for Scientific Research under a Contract No. 08044135 from The Ministry of Education, Science and Culture of Japan, and also by International Collaborative Research Grants 1996 and 1997 of the Materials and Structures Laboratory, Tokyo Institute of Technology.
+
+## References
+
+* [1] H. Yamauchi, M. Karppinen, and S. Tanaka, Physica C **263**, 146 (1996).
+* [2] M. Karppinen and H. Yamauchi, J. Supercond. **11**, 39 (1998).
+* [3] M. Karppinen and H. Yamauchi, Philos. Mag. B **79**, 343 (1999).
+* [4] I. D. Brown and D. Altermatt, Acta Crystallogr., Sect. B: Struct. Sci. **41**, 244 (1985).
+* [5] I. D. Brown, J. Solid State Chem. **82**, 122 (1989).
+* [6] R. J. Cava, A. W. Hewat, E. A. Hewat, B. Batlogg, M. Marezio, K. M. Rabe, J. J. Krajewski, W. F. Peck, Jr., and L. W. Rupp, Jr., Physica C **165**, 419 (1990).
+* [7] J. D. Jorgensen, B. W. Veal, A. P. Paulikas, L. J. Nowicki, G. W. Grabtree, H. Claus, and W. K. Kwok, Phys. Rev. B **41**, 1863 (1990).
+* [8] J. L. Tallon, Physica C **168**, 85 (1990).
+* [9] I. D. Brown, Physica C **169**, 105 (1990).
+
+ 

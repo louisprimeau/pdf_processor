@@ -1,0 +1,358 @@
+Weak coupling BCS-like superconductivity in the pnictide oxide
+Ba_(1 − x)Na_(x)Ti₂Sb₂O (x = 0 and 0.15)
+
+Melissa Gooch
+
+TUSUH and Department of Physics, University of Houston, Houston, Texas
+77204, USA
+
+Phuong Doan
+
+TCSUH and Department of Chemistry, University of Houston, Houston, Texas
+77204, USA
+
+Zhongjia Tang
+
+TCSUH and Department of Chemistry, University of Houston, Houston, Texas
+77204, USA
+
+Bernd Lorenz
+
+TUSUH and Department of Physics, University of Houston, Houston, Texas
+77204, USA
+
+Arnold M. Guloy
+
+TCSUH and Department of Chemistry, University of Houston, Houston, Texas
+77204, USA
+
+Paul C. W. Chu
+
+TUSUH and Department of Chemistry, University of Houston, Houston, Texas
+77204, USA Lawrence Berkeley National Laboratory, 1 Cyclotron Road,
+Berkeley, California 94720, USA
+
+###### Abstract
+
+We report the results of low-temperature heat capacity measurements of
+the pnictide oxide superconductor BaTi₂Sb₂O doped with sodium. The
+temperature- and field-dependent heat capacity data are well described
+by a single-gap BCS theory. The estimated values for the normal-state
+Sommerfeld constant, the heat capacity jump at T_(c), and the
+electron-phonon coupling constant are in favor of a conventional weak
+coupling superconductivity mediated by electron-phonon interaction. The
+results are discussed with regard to and compared with recent
+first-principles calculations.
+
+pacs: 74.70.-b, 74.25.Bt, 65.40.Ba + Footnote †: preprint: PHYSICAL
+REVIEW B **88**, 064510 (2013)
+
+## I Introduction
+
+Superconductivity in layered transition-metal compounds has been in the
+focus of interest for several decades. The discovery of high-temperature
+superconductivity in copper oxide perovskites as well as, more recently,
+in iron pnictides and chalcogenides has initiated an immense activity in
+superconductivity research. Questions about the role of the layered
+structure, magnetic fluctuations, the proximity to magnetic order or a
+possible quantum critical point, the symmetry of the superconducting
+order parameter, etc. have been discussed extensively. There are
+numerous examples showing that the superconducting state, usually
+induced by carrier doping into a parent compound, is in close proximity
+to spin or charge orders, for example antiferromagnetic order in copper
+oxide and heavy-fermion superconductors, spin-density-wave (SDW) order
+in iron pnictides, or charge-density-wave (CDW) order in layered
+chalcogenides.[1, 2, 3, 4, 5] The mutual interactions of different
+fundamental orders open new perspectives to study novel physical
+phenomena observable only in those strongly correlated superconducting
+systems.
+
+The search for similar layered transition-metal compounds has recently
+led to the study of titanium-based pnictide oxide compounds of the
+general chemical formulas A₂Ti₂Pn₂O and AeTi₂Pn₂O (Pn = As,Sb;A = Na; Ae
+= Ba). This system was first synthesized and characterized more than two
+decades ago[6] and it belongs to a larger family of pnictide oxides
+including other transition metals.[7, 8, 9] The layered structure of
+Na₂Ti₂Pn₂O is characterized by Ti₂Pn₂O blocks separated by a double
+layer of A (Na) ions or single slabs of Ae (Ba). The titanium and oxygen
+ions form square planar Ti₂O sheets, which is inverse (anti) to the CuO₂
+planes which form the active layer in superconducting copper oxides, in
+that the positions of Ti and O in this square lattice are switched with
+respect to the O and Cu sites in the cuprates. This raised the question
+of whether or not a superconducting state can be induced through doping
+of carriers into the Ti₂O layer.[8]
+
+The structure and chemical synthesis of Na₂Ti₂Pn₂O have been studied in
+detail for Pn = As and Sb.[6, 10, 11] The physical properties studied
+via electrical transport and magnetic measurements reveal the existence
+of an instability near T_(DW) = 115 K in Na₂Ti₂Sb₂O where the magnetic
+susceptibility shows a sharp drop to lower values and the resistivity
+experiences a sudden increase.[12, 13, 11] However, it is not clear if
+this instability originates from the formation of a charge-density wave
+or a spin-density wave. First-principles calculations have found a
+nesting feature of the Fermi surface which could explain the occurrence
+of a SDW or CDW instability.[14] Powder neutron scattering experiments
+have shown that this transition is also associated with a small
+structural anomaly.[10] Recent optical studies have found the opening of
+a gap and a change of the free-carrier spectral weight as well as a
+reduction of the carrier scattering rate across the SDW-CDW
+transition.[15] It is worth noting that the arsenic-based compound,
+Na₂Ti₂As₂O exhibits a similar density-wave transition at significantly
+higher temperature, T_(DW) = 320 K.[13]
+
+Replacing the Na₂ double layer with a single layer of Ba ions forms
+another stable pnictide oxide, BaTi₂As₂O, with the c axis of the
+tetragonal structure shortened by 50
+
+Replacing As by Sb and forming BaTi₂Sb₂O was achieved only very
+recently.[17, 18] Superconductivity was observed below 1.2 K,[18] and
+the critical temperature could be raised to above 5 K through Na doping
+at the Ba site in Ba_(1 − x)Na_(x)Ti₂Sb₂O.[17] The undoped parent
+compound shows a density-wave transition at much lower temperature,
+T_(DW) = 54 K, and it was shown that Na doping decreased the critical
+temperature even further (while raising the superconducting T_(c)).[17]
+The questions about the nature of the superconducting state and whether
+or not the density-wave state competes or supports superconductivity are
+yet to be explored.
+
+Electronic structure calculations by Singh[19] have shown the existence
+of several sheets at the Fermi surface and a nesting property which
+induces a magnetic instability (SDW). Related to this instability, a
+sign-changing s-wave state was predicted to originate from an
+unconventional spin-fluctuation-mediated superconductivity. The coupling
+of charges to the magnetic order is observed in a strong
+magnetoresistance effect below T_(DW) in BaTi₂Sb₂O,[17] as well as in
+BaTi₂As₂O.[16] On the other hand, Subedi [20] suggested the
+electron-phonon mechanism for superconductivity and a CDW instability in
+BaTi₂Sb₂O based on first-principles calculations of the phonon
+dispersions and electron-phonon interactions, predicting a multiband
+superconducting state, similar to some iron pnictide superconductors.
+
+To distinguish between different proposals about the microscopic origin
+of superconductivity in Ba_(1 − x)Na_(x)Ti₂Sb₂O experimental probes on
+the superconducting gap structure need to be employed. The temperature
+dependence of the electronic heat capacity 𝒞_(el)(T) measured to low
+temperatures is a sensitive probe which can reveal unconventional
+superconductivity, the existence of nodes in the superconducting gap
+function, and the possible presence of multiple gaps (multiband
+superconductivity). We have therefore studied the heat capacity of
+Ba_(1 − x)Na_(x)Ti₂Sb₂O in applied magnetic fields and at temperatures
+as low as 0.4 K. Our results are consistent with a single-gap weak
+coupling BCS-like superconducting state.
+
+## II II. Experiment
+
+High-purity polycrystalline samples of BaTi₂Sb₂O were synthesized by
+reacting stoichiometric amounts of BaO (99.99
+
+## III. Results and Discussion
+
+The superconducting transition for BaTi₂Sb₂O and
+Ba_(0.85)Na_(0.15)Ti₂Sb₂O is clearly indicated in Figs. 1(a) and 1(b).
+The Ba_(0.85)Na_(0.15)Ti₂Sb₂O superconducting transition is seen in Fig.
+1(a), by the diamagnetic signal with onset below 5 K. This transition is
+also confirmed through resistivity data, as seen in Fig. 1(b), with the
+midpoint of the transition occurring at 5 K. Figure 1(b) also shows
+resistivity data for BaTi₂Sb₂O. The superconducting transition is very
+sharp and the midpoint of the transition is at 1.2 K. The sharpness of
+the transition is an indication of the high purity of the sample, which
+is further revealed by a high residual resistance ratio of about 40,
+significantly higher than in previous reports.[18, 21]
+
+The heat capacity data of Ba_(0.85)Na_(0.15)Ti₂Sb₂O are shown in Fig. 2.
+The superconducting state is completely suppressed in a magnetic field
+of 30 kOe.
+
+From the high-field data the
+
+Figure 1: (Color online) (a) Magnetic susceptibility χ(T) of
+Ba_(0.85)Na_(0.15)Ti₂Sb₂O measured in field-cooling (FC) and
+zero-field-cooling (ZFC) conditions. (b) Resistivity of BaTi₂Sb₂O and
+Ba_(0.85)Na_(0.15)Ti₂Sb₂O.
+
+normal-state Sommerfeld constant is obtained as γ_(n) = 13 mJ/(mol K²).
+However, it should be noted that this value for γ_(n) is enhanced by the
+electron-phonon coupling constant, as discussed below, and the bare
+electronic value relating to the density of states is lower.
+
+The electronic heat capacity C_(el)(T) was derived from the data shown
+in Fig. 2 by subtracting the lattice contribution determined from the
+high-field data. The resulting data for the normalized C_(el)/(γ_(n)T)
+are very well described by a weak coupling BCS function, shown as the
+dashed line in Fig. 3. The excellent agreement of the data with the BCS
+theory is evidence for conventional superconductivity in the pnictide
+oxide family of compounds. In addition, we do not find any signature of
+a possible multiband superconducting state which would leave the typical
+imprint on the low-temperature part of the heat capacity as, for
+example, observed in MgB₂[22, 23]. The superconducting gap value is
+estimated as 2Δ = 1.3 meV.
+
+The magnetic field dependence of C_(el)(T) is shown in Fig. 4. The upper
+critical field H_(c2)(T) is extracted from the shift of T_(c) in
+magnetic fields, with T_(c) defined as the midpoint of the sharp
+increase of C_(el)(T). H_(c2)(T) is shown in the inset of Fig. 4 and
+compared with the Werthamer-Helfand-Hohenberg (WHH) theory[24] (line).
+The zero-temperature limit of the critical field is extrapolated as
+H_(c2)(0) = 17 kOe, which results in a Ginzburg-Landau coherence length
+of ξ(0) = 14 nm.
+
+The superconducting transition in the undoped BaTi₂Sb₂O happens at
+significantly lower temperature. However, the very broad transition
+reported originally[18] provides a challenge for a detailed analysis of
+the low-temperature heat capacity. Our samples of BaTi₂Sb₂O were
+prepared with special care to reduce any impurity or defect content to a
+minimum.[17] As a result, a very sharp resistive transition at
+T_(c) = 1.2 K (transition width <0.2 K) and also at T_(DW) was observed
+as well as a much sharper heat capacity change at T_(c). The zero-field
+normalized electronic heat capacity C_(el)/(γ_(n)T) of BaTi₂Sb₂O is
+shown in Fig. 5 as a function of the normalized temperature T/T_(c). In
+contrast to the Na-doped compound discussed above, the BCS theory
+(dashed line in Fig. 5) does not fit the data well. By varying the
+superconducting gap size while maintaining the BCS-like temperature
+dependence of the gap (the so-called α model[25]) a much better fit is
+obtained with α ≈ 1.4 (solid line in Fig. 5). These data still support a
+single-gap s-wave superconductivity with a gap value of 2Δ = 0.3 meV,
+consistent with conclusions from recent NMR measurements.[26]
+Interestingly, the heat capacity jump at T_(c) is only 0.9 of the
+normal-state value, much smaller than 1.43 (BCS theory) or 1.36 (Yajima
+_et al.[18]_). This low value may suggest strong correlations, possibly
+related to the ordered density-wave phase below T_(DW). The Sommerfeld
+coefficient γ_(n) = 10.9 mJ/(mol K²) is about 20
+
+Figure 4: (Color online) Magnetic field dependence of the electronic
+heat capacity C_(el)/T of Ba_(0.85)Na_(0.15)Ti₂Sb₂O. The inset shows the
+upper critical field H_(c2)(T) and the curve expected from the WHH
+theory.
+
+Figure 3: (Color online) Normalized electronic heat capacity
+C_(el)/(γ_(n)T) of Ba_(0.85)Na_(0.15)Ti₂Sb₂O measured in zero field. The
+dashed line represents the heat capacity from weak coupling BCS theory.
+
+Figure 2: (Color online) Heat capacity of Ba_(0.85)Na_(0.15)Ti₂Sb₂O
+measured in zero field and at 30 kOe (above H_(c2)). The inset shows the
+normal state heat capacity C_(el)/T vs. T² (30 kOe) data). The
+Sommerfeld constant is determined as γ_(n) = 13 mJ/(mol K²).
+
+The heat capacity peak in magnetic fields shows the expected shift to
+lower temperatures; however, the upper critical field is very low.
+Figure 6 shows heat capacity data for BaTi₂Sb₂O in external fields up to
+500 Oe. The upper critical field H_(c2)(T) is shown in the inset of Fig.
+6. The extrapolation to zero temperature, using the WHH theory, results
+in a very low value of H_(c2)(0) ≈ 800 Oe and a coherence length of
+ξ(0) = 64 nm.
+
+Assuming that the origin of the single-gap superconducting state lies in
+the electron-phonon coupling mechanism, as suggested by Subedi,[20] the
+coupling constant λ_(ep) and the bare electronic Sommerfeld constant γ₀
+can be estimated from the McMillan formula for λ_(ep) (Ref. [27]) and
+the relation γ_(n) = γ₀(1 + λ_(ep)). With an assumed value of
+μ^(*) = 0.13, the results for x = 0 and x = 0.15 are summarized in Table
+1.
+
+The Na doping results in a moderate increase of the density of states
+(as derived from the increase of γ₀ by about 5
+
+## IV Conclusion
+
+The heat capacity data for BaTi₂Sb₂O and Ba_(1 − x)Na_(x)Ti₂Sb₂O are
+best described by a single-gap BCS function in the weak coupling limit.
+This provides evidence that the superconductivity in this compound is
+most likely of s-wave character, as was also implied from nuclear
+magnetic and quadrupole resonance measurements of the undoped
+compound.[26] The question of whether the pairing is mediated by phonons
+or spin fluctuations is yet unresolved. The key seems to be the
+understanding of the nature of the density-wave order below T_(DW).
+
+All theoretical studies so far agree about the nesting feature of the
+Fermi surface of Na₂Ti₂Sb₂O (Refs. [14] and [28] and
+Ba_(1 − x)Na_(x)Ti₂Sb₂O (Ref. [19]) which is most likely the origin of
+the density-wave order. This order coexists with superconductivity in
+Ba_(1 − x)Na_(x)Ti₂Sb₂O (0 ≤ x ≤ 0.33).[17, 18, 26] While this
+density-wave order has been observed earlier in different pnictide
+oxides like Na₂Ti₂As₂O (T_(DW) = 320 K),[13] Na₂Ti₂Sb₂O (T_(DW) = 114
+K),[12] and BaTi₂As₂O (T_(DW) = 200 K),[16] no superconductivity was
+found in these systems and attempts at doping or intercalation have not
+been successful.[16] The superconductivity in Ba_(1 − x)Na_(x)Ti₂Sb₂O
+appears in the compound with the lowest T_(DW) ≤ 54 K, suggesting that
+density-wave and superconducting states are competing with one another.
+The decrease of T_(DW) and simultaneous increase of the superconducting
+T_(c) upon Na doping[17] support the latter conclusion. Furthermore, the
+recently reported superconductivity in the system
+BaTi₂(Sb_(1 − x)Bi_(x))₂O also shows that the substitution of Bi for Sb
+results in a suppression of the density-wave phase and an increase of
+T_(c).[21, 29] Therefore, it is most likely that the superconducting
+state and the density-wave order compete, and superconductivity is
+possible only in pnictide oxide compounds with a lower energy scale of
+the DW phase. While our results suggest that the superconducting state
+is a conventional s-wave state, the nature of the pairing mechanism is
+unclear at this time and may be either induced by the electron-phonon
+coupling[20] or spin-fluctuation derived.[19] While no conclusion can be
+drawn on the pairing mechanism, we also have not found any evidence for
+a multiband character of the superconducting state in our heat capacity
+data.
+
+Figure 5: (Color online) Normalized electronic heat capacity of
+BaTi₂Sb₂O at zero magnetic field. The BCS data are shown by the dashed
+line. The experimental data fit well to the α model (with α≈ 1.4).
+
+Figure 6: (Color online) Magnetic field dependence of the electronic
+heat capacity C_(el)/T of BaTi₂Sb₂O. The inset shows the upper critical
+field H_(c2)(T) and the curve expected from the WHH theory.
+
+## Acknowledgments
+
+This work is supported in part by the U.S. Air Force Office of
+Scientific Research, the Robert A. Welch Foundation (Grant No. E-1297),
+the T. L. L. Temple Foundation, the J. J. and R. Moores Endowment, the
+State of Texas through the TCSUH, and at LBNL by the DOE.
+
+## References
+
+* Chu (2010) C. W. Chu, Int. J. Mod. Phys. B **24**, 4102 (2010). *
+Paglione and Greene (2010) J. Paglione and R. L. Greene, Nat. Phys.
+**6**, 645 (2010). * Norman (2011) M. R. Norman, Science **332**, 196
+(2011). * Sipos et al. (2008) B. Sipos, A. F. Kusmartseva, A. Akrap, H.
+Berger, L. Forro, and E. Tutis, Nat. Mater. **7**, 960 (2008). * Morosan
+et al. (2006) E. Morosan, H. W. Zandbergen, B. S. Dennis, J. W. G. Bos,
+Y. Onose, T. Klimczuk, A. P. Ramirez, N. P. Ong, and R. J. Cava, Nat.
+Phys. **2**, 544 (2006). * Adam and Schuster (1990) A. Adam and H.-U.
+Schuster, Z. Anorg. Allg. Chem. **584**, 150 (1990). * Brock and
+Kauzlarich (1995) S. L. Brock and S. M. Kauzlarich, Comments Inorg.
+Chem. **17**, 213 (1995). * Ozawa and Kauzlarich (2008) T. C. Ozawa and
+S. M. Kauzlarich, Sci. Technol. Adv. Mater. **9**, 033003 (2008). *
+Johrendt et al. (2011) D. Johrendt, H. Hosono, R.-D. Hoffmann, and R.
+Potten, Z, Kristallogr. **226**, 435 (2011). * Ozawa et al. (2000) T. C.
+Ozawa, R. Pantoja, E. A. Axtell, and S. M. Kauzlarich, J. Solid State
+Chem. **153**, 275 (2000). * Ozawa and Kauzlarich (2004) T. C. Ozawa and
+S. M. Kauzlarich, J. Cryst. Growth **265**, 571 (2004). * Axtell et al.
+(1997) E. A. Axtell, T. Ozawa, and S. M. Kauzlarich, J. Solid State
+Chem. **134**, 423 (1997). * Liu et al. (2009) R. H. Liu, D. Tan, Y. A.
+Song, Q. J. Li, Y. J. Yan, J. J. Ying, Y. L. Xie, X. F. Wang, and X. H.
+Chen, Phys. Rev. B **80**, 144516 (2009). * Pickett (1998) W. E.
+Pickett, Phys. Rev. B **58**, 4335 (1998). * Huang et al. (2013) Y.
+Huang, H. P. Wang, W. D. Wang, Y. G. Shi, and N. L. Wang, Phys. Rev. B
+**87**, 100507(R) (2013). * Wang et al. (2010) X. F. Wang, Y. J. Yan, J.
+J. Ying, Q. J. Li, M. Zhang, N. Xu, and X. H. Chen, J. Phys.: Condens.
+Matter **22**, 075702 (2010). * Doan et al. (2012) P. Doan, M. Gooch, Z.
+Tang, B. Lorenz, A. Moller, J. Tapp, P. C. W. Chu, and A. M. Guloy, J.
+Am. Chem. Soc. **134**, 16520 (2012). * Yajima et al. (2012) T. Yajima,
+K. Nakano, F. Takeiri, T. Ono, Y. Hosokoshi, Y. Matsushita, J. Hester,
+Y. Kobayashi, and H. Kageyama, J. Phys. Soc. Jpn. **81**, 103706
+(2012). * Singh (2012) D. J. Singh, New J. Phys. **14**, 123003
+(2012). * Subedi (2013) A. Subedi, Phys. Rev. B **87**, 054506 (2013). *
+Zhai et al. (2013) H.-F. Zhai, W.-H. Jiao, Y.-L. Sun, J.-K. Bao, H.
+Jiang, X.-J. Yang, Z.-T. Tang, Q. Tao, X.-F. Xu, Y.-K. Li, C. Cao, J.-H.
+Dai, Z.-A. Xu, and G.-H. Cao, Phys. Rev. B **87**, 100502(R) (2013). *
+Bouquet et al. (2001) F. Bouquet, R. A. Fisher, N. E. Phillips, D. G.
+Hinks, and J. D. Jorgensen, Phys. Rev. Lett. **87**, 047001 (2001). *
+Lorenz et al. (2006) B. Lorenz, O. Perner, J. Eckert, and C. W. Chu,
+Supercond. Sci. Technol. **19**, 912 (2006). * Werthamer et al. (1966)
+N. R. Werthamer, E. Helfand, and P. C. Hohenberg, Phys. Rev. **147**,
+295 (1966). * Padamsee et al. (1973) H. Padamsee, J. E. Neighbor, and C.
+A. Shiffman, J. Low Temp. Phys. **12**, 387 (1973). * Kitagawa et al.
+(2013) S. Kitagawa, K. Ishida, K. Nakano, T. Yajima, and H. Kageyama,
+Phys. Rev. B **87**, 060510(R) (2013). * McMillan (1968) W. L. McMillan,
+Phys. Rev. **167**, 331 (1968). * de Biani et al. (1998) F. F. de Biani,
+P. Alemany, and E. Canadell, Inorg. Chem. **37**, 5807 (1998). * Yajima
+et al. (2013) T. Yajima, K. Nakano, F. Takeiri, Y. Nozaki, Y. Kobayashi,
+and H. Kageyama, J. Phys. Soc. Jpn. **82**, 033705 (2013).

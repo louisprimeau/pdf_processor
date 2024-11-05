@@ -1,0 +1,138 @@
+
+
+# Superconductivity and the electronic phase diagram of LaPt\({}_{2-x}\)Ge\({}_{2+x}\)
+
+S. Maeda,\({}^{1}\) K. Matano,\({}^{1}\) R. Yatagai,\({}^{1}\) T. Oguchi,\({}^{2}\) and Guo-qing Zheng\({}^{1,3}\)
+
+\({}^{1}\)Department of Physics, Okayama University, Okayama 700-8530, Japan
+
+\({}^{2}\)Institute of Scientific and Industrial Research, Osaka University, Ibaraki, Osaka 567-0047, Japan
+
+\({}^{3}\)Institute of Physics and Beijing National Laboratory for Condensed Matter Physics, Chinese Academy of Sciences, Beijing 100190, China
+
+###### Abstract
+
+In many cases, unconventional superconductivity are realized by suppressing another order parameter, such as charge density wave (CDW) or spin density wave (SDW). This suggests that the fluctuations of these order parameters play an important role in producing superconductivity. LaPt\({}_{2}\)Ge\({}_{2}\) undergoes a tetragonal-to-monoclinic structural phase transition (SPT) at \(T_{\rm s}=394\) K, accompanying a double period modulation in the \(a\)-axis direction, and superconductors at \(T_{\rm c}=0.41\) K. We performed band calculations and found 2D (two dimensional)-like Fermi surfaces with partial nesting. A reduction in the density of states in the monoclinic phase was found in the calculation and confirmed by \({}^{195}\)Pt-NMR. We suggest a CDW as a possible cause for the SPT. By changing the stoichiometry between Pt and Ge, we succeeded in suppressing \(T_{\rm s}\) and increasing \(T_{\rm c}\) in LaPt\({}_{2-x}\)Ge\({}_{2+x}\). Comparison of \({}^{139}\)La- and \({}^{195}\)Pt-NMR data reveals moderate fluctuations associated with SPT. From \({}^{137}\)La-NQR measurements at zero field, we found that in isotropic superconducting gap is realized in LaPt\({}_{2-x}\)Ge\({}_{2+x}\) (\(x=0.20\)). We discuss the relationship between superconductivity and the SPT order/fluctuations.
+
+pacs: 10.1103/PhysRevB.91.174516 +
+Footnote †: preprint: PHYSICAL REVIEW B **91**, 174516 (2015)
+
+## I Introduction
+
+Most ternary compounds in the formula of MT\({}_{2}\)X\({}_{2}\) (M = rare earth or alkaline earth metals, T = transition metals, X = Si or Ge), including some Fe-based superconductors, crystallize in the body centered tetragonal ThCr\({}_{2}\)Si\({}_{2}\) type structure [1] [Fig. 1(a)]. On the other hand, some MT\({}_{2}\)X\({}_{2}\) with T = Ir or Pt crystallize in the primitive tetragonal CaBe\({}_{2}\)Ge\({}_{2}\) type structure [2,3] [Fig. 1(b)]. The CaBe\({}_{2}\)Ge\({}_{2}\) type structure is closely related to the ThCr\({}_{2}\)Si\({}_{2}\) type structure. The ThCr\({}_{2}\)Si\({}_{2}\) type structure has two [X-T-X] layers along the \(c\) axis while in the CaBe\({}_{2}\)Ge\({}_{2}\) type structure, one of them is replaced by [T-X-T] layer. Some of nonmagnetic CaBe\({}_{2}\)Ge\({}_{2}\) type compounds (SrPt\({}_{2}\)As\({}_{2}\)[4, 5, 6, 7] and LaPt\({}_{2}\)Si\({}_{2}\)[6,8, 9]) show a coexistence of superconductivity and charge density wave (CDW). In these compounds, the CDW occurs in the [X-T-X] layers.
+
+Fluctuations associated with CDW or spin density wave (SDW) have attracted much attention in recent years, since they may be responsible for superconductivity that is realized near a CDW or SDW phase. In the high-\(T_{\rm c}\) cuprates, spin fluctuations arising from the nearby antiferromagnetism have been studied extensively. Recently, CDW has also attracted attention in relation to the unusual normal state in the cuprates [10]. In the Fe pnictides, both spin fluctuations and orbital or structural fluctuations are believed to be important. For example, underdoped BaFe\({}_{2-x}\)M\({}_{x}\)As\({}_{2}\) (M = Co, Ni) are metallic and show a tetragonal-to-orthorhombic structural phase transition (SPT) followed by an SDW order [11, 12]. Superconductivity appears after suppressing these orders, and fluctuations associated with SPT and SDW have been observed [12]. Compounds such as SrPt\({}_{2}\)As\({}_{2}\) and LaPt\({}_{2}\)Si\({}_{2}\) showing a coexistence of superconductivity and CDW can be recognized as nonmagnetic versions of Fe-based superconductors, because both CDW and SDW originate from a Fermi surface nesting and the crystal structure is very similar.
+
+LaPt\({}_{2}\)Ge\({}_{2}\) is a superconductor with \(T_{\rm c}=0.41\) K [13, 14] and shows a SPT at \(T_{\rm s}=385.8\) K [15]. As shown in Figs. 2(a) and 2(b), the crystal structure of the high temperature phase is a tetragonal CaBe\({}_{2}\)Ge\({}_{2}\) type (space group: \(P4/nmm\)), while that of the low temperature phase is a monoclinically distorted CaBe\({}_{2}\)Ge\({}_{2}\) type (\(P2_{1}/c\)) [14, 15]. The monoclinic phase has a doubled unit cell in the \(a\)-axis direction. As shown in Figs. 2(c) and 2(d), the monoclinic distortion is mainly in the [Ge(1)-Pt(2)-Ge(1)] layer, while there is almost no distortion in the [Pt(1)-Ge(2)-Pt(1)] layer. The origin of the SPT, and its relationship to superconductivity, is unknown.
+
+In this work we address this issue by band calculations, material synthesis, and nuclear magnetic resonance (NMR) measurements. Our results suggest that CDW is a possible origin for the SPT. By suppressing the SPT, the density of states at the Fermi level is increased and \(T_{\rm c}\) is enhanced. We have also performed nuclear quadrupole resonance (NQR) measurements to study the superconducting gap.
+
+## II Methods
+
+The full relativistic band calculations including spin-orbit coupling (SOC) were performed with the all-electron full-potential linear augmented plane wave (FLAPW) method implemented in HiLAPW [16]. Details of numerical procedures were described in the previous work [16]. Polycrystalline samples of LaPt\({}_{2-x}\)Ge\({}_{2+x}\) were synthesized by melting the elements of La (99.9%), Pt (99.999%), and Ge (99.999%) in an arc furnace under high purity (99.9999%) Ar atmosphere. The resultant ingot was turned over and remelted several times to ensure good homogeneity. The weight loss during the arc melting was less than 1%. Subsequently, the samples were wrapped in Ta foil, sealed in a quartz tube filled with He gas, annealed at 1000 degC for 3 days, and then slowly cooled to room temperature over a period of 3 days. The samples were characterized by powder x-ray diffraction using Rigaku RINT-TTR III at room temperature. The XRD patterns were analyzed by the RIETAN-FP program [17]. The crystal structure is drawn by using the VESTA program [18]. The resistivity was measured by using a dc four-terminal method in the temperature range of 1.4-480 K. For ac susceptibility and NMR/NQR measurements, a part of the ingot was powdered. The \(T_{\rm c}\) was determined as the onset of the diamagnetism obtained by measuring the inductance of a coil filled with a sample which is a typical setup for NMR/NQR measurements. The \(T_{\rm s}\) was determined by two ways: by the minimum of the electrical resistivity (\(x\leqslant 0.1\)) or by the maximum of the \({}^{139}\)La-NMR \(1/T_{1}T\) (\(x=0.20\)). The measurements below 1.4 K were carried out with a \({}^{3}\)He-\({}^{4}\)He dilution refrigerator. NMR/NQR were carried out by using a phase-coherent spectrometer. The NMR spectrum was obtained by integrating the spin echo intensity by changing the resonance frequency (\(f\)) at the fixed magnetic field of \(H_{0}=12.951\) T. The Knight shift (\(K\)) was determined by \(K=(f_{\rm peak}-\gamma_{\rm N}H_{0})/\gamma_{\rm N}H_{0}\), where \(f_{\rm peak}\) is the peak frequency and \(\gamma_{\rm N}=9.094\) MHz/T for \({}^{195}\)Pt is the nuclear magnetic ratio. The spin-lattice relaxation rate (\(1/T_{1}\)) was measured by using a single saturating pulse, and determined by fitting the recovery curve of the nuclear magnetization to the theoretical function [19, 20]: \([M_{0}-M(t)]/M_{0}=\exp(-t/T_{1})\) for \({}^{195}\)Pt-NMR, \([M_{0}-M(t)]/M_{0}=(1/84)\exp(-t/T_{1})+(3/44)\exp(-6t/T_{1})+(75/5)\) 364 \(\exp(-15t/T_{1})+(1225/1716)\exp(-28t/T_{1})\) for \({}^{139}\)La-NMR (center peak), and \([M_{0}-M(t)]/M_{0}=0.076994\) exp(\(-3t/T_{1})+0.016497\exp(-8.561749t/T_{1})+0.096509\) exp(\(-17.206772t/T_{1}\)) for \({}^{139}\)La-NQR (\(\eta=0.46\), \(m=\pm 3/2\leftrightarrow\pm 5/2\) transition), where \(M_{0}\) and \(M(t)\) are the nuclear magnetization in the thermal equilibrium and at a time \(t\) after the saturating pulse.
+
+## III Results
+
+### Electronic structure calculations
+
+In the band calculation we used the crystal structure determined for single crystal LaPt\({}_{2}\)Ge\({}_{2}\) by Imre _et al._[15]. Figures 3(a) and 3(b) show the band structure and the Fermi surface of the tetragonal phase, respectively. These results are very similar to those of LaPt\({}_{2}\)Si\({}_{2}\)[6]. The Fermi surface consists of five sheets, and there are two 2D-like sheets around \(M\) point. The outer Fermi surface shows a partial nesting, similar to the case of LaPt\({}_{2}\)Si\({}_{2}\)[6]. Figures 3(c) and 3(d) display the total and partial density of states [\(N(E)\)], respectively. Comparison between the tetragonal and monoclinic phases shows that the total \(N(E)\) at the Fermi level (\(E_{\rm F}\)) of the monoclinic phase is 18% smaller than that of the tetragonal phase. The characteristics of the calculated Fermi surface usually favor the formation of a CDW state and the reduction of the \(N(E_{\rm F})\) can be considered as a consequence of a CDW formation. Therefore, the SPT of LaPt\({}_{2}\)Ge\({}_{2}\) is possibly due to a commensurate CDW, although future measurements such as superlattice reflection are required to directly confirm this. Looking in detail, the partial \(N(E_{\rm F})\) at Pt(1) for the tetragonal and monoclinic phases are very similar. The partial \(N(E_{\rm F})\) at Pt(2) is larger than that at Pt(1) in the tetragonal phase, while it is reduced to a value almost the same as that at Pt(1) in the monoclinic phase. These results are consistent with the change in the crystal structure.
+
+### Basic physical properties of LaPt\({}_{2-x}\)Ge\({}_{2+x}\)
+
+No impurity peaks were observed in the XRD pattern in the range of \(0\leqslant~{}x~{}\leqslant 0.30\). The extra Ge in nonstoichiometric LaPt\({}_{2-x}\)Ge\({}_{2+x}\) (\(x>0\)) is assumed to occupy deficient Pt sites because Pt and Ge sites are equivalent in the CaBe\({}_{2}\)Ge\({}_{2}\) type structure. Figure 4 shows the \(x\) dependence of the lattice parameters for LaPt\({}_{2-x}\)Ge\({}_{2+x}\) at room temperature. With increasing \(x\), the \(c\)-axis length increases linearly up to \(x=0.20\). Beyond \(x=0.20\), the \(c\)-axis length is saturated, which suggests that the solubility limit is \(x=0.20\). On the other hand, the lengths \(a\) and \(b\) decrease. For \(x\geqslant 0.06\), \(a\) and \(b\) become constant since the compounds are in the tetragonal structure.
+
+Figure 5(a) shows the temperature dependence of the electrical resistivity for LaPt\({}_{2-x}\)Ge\({}_{2+x}\). The electrical resistivity for \(x=0\) showed a kink at \(T_{\rm s}=394\) K due to the SPT. This is in good agreement with the value of \(T_{\rm s}=385.8\) K reported by Imre _et al._[15]. With increasing \(x\), \(T_{\rm s}\) decreased. The strong anomaly for \(x=0.06\) is because the sample cracked due to the SPT. For \(x=0.15\), the anomaly due to the SPT disappeared. Figure 5(b) shows the magnified view of the low temperature range. The \(T_{\rm c}\) increased with increasing \(x\), with the highest \(T_{\rm s}\) for \(x=0.20\).
+
+Figure 1: (Color online) Crystal structure of the ThCr\({}_{2}\)Si\({}_{2}\) type (a) and CaBe\({}_{2}\)Ge\({}_{2}\) type (b). The blue rectangle and the pink oval represent the [X-T-X] and the [T-X-T] layers, respectively.
+
+Figure 2: (Color online) Crystal structure of the tetragonal (a) and monoclinic (b) phases, [Pt(1)-Ge(2)-Pt(1)] (c) and [Ge(1)-Pt(2)-Ge(1)] (d) layers of the monoclinic phase. The solid rectangle represents the unit cell.
+
+  Figure 6 shows the temperature dependence of the ac susceptibility measured by the NMR/NQR coil for LaPt\({}_{2-x}\)Ge\({}_{2+x}\). All samples showed a decrease in the ac susceptibility below \(T_{\rm c}\), which is consistent with the electrical resistivity.
+
+### Fluctuations and electronic state change due to structural phase transition
+
+We performed both \({}^{195}\)Pt- and \({}^{139}\)La-NMR measurements for the \(x=0.06\) and \(x=0.20\) samples at a fixed magnetic field of 12.951 T. Because \({}^{139}\)La has nuclear spin \(7/2\), fluctuations due to both the hyperfine field and the electric field gradient can be probed by the spin-lattice relaxation. By contrast, \({}^{195}\)Pt-NMR can only see the former, since \({}^{195}\)Pt has nuclear spin \(1/2\).
+
+Figure 7(a) shows the \({}^{195}\)Pt-NMR spectra at \(T=200\) K. The spectrum of \(x=0.06\) is sharper than that of \(x=0.20\), probably because the grains in \(x=0.06\) are well orientated to the magnetic field towards the high susceptibility direction. The grains in \(x=0.20\) are orientated only partially, resulting in spectrum close to a powder pattern. The degree of orientation depends on the anisotropy of the susceptibility, the size of the domains, and the size of the grains. We speculate that the domains of \(x=0.06\) have grown much larger than that of \(x=0.20\) because \(x=0.06\) is closer to the stoichiometry.
+
+The spectrum of \(x=0.06\) shows two peaks at high temperatures [Fig. 7(b)]. This is because there are two Pt sites in LaPt\({}_{2}\)Ge\({}_{2}\). Since Pt(2) is mainly affected by the SPT, we identified the high frequency peak having large \(T\) dependence as Pt(2), and the low frequency peak as Pt(1). For \(x=0.20\), two Pt sites cannot be distinguished because of the powder pattern.
+
+The temperature dependence of the Knight shift (\(K\)) obtained from these spectra is shown in Fig. 8(a). The \(K\) reflects \(N(E_{\rm F})\), through \(K=K_{\rm o}+K_{\rm s}\) and \(K_{\rm s}=A\mu_{\rm B}N(E_{\rm F})\). Here \(K_{\rm o}\) and \(K_{\rm s}\) are \(T\)-independent orbital part and \(T\)-dependent spin part, respectively, and \(A\) and \(\mu_{\rm B}\) are the hyperfine coupling constant and the Bohr magneton, respectively. For Pt(2), a large decrease in the \(K\) due to the change in the \(N(E_{\rm F})\) was observed around \(T_{\rm s}\), while for Pt(1) no change due to the SPT was observed.
+
+The quantity \(1/T_{1}T\) also reflects the \(N(E_{\rm F})\) through the relation \(1/T_{1}T=A^{2}\pi k_{\rm B}\gamma_{n}^{2}N^{2}(E_{\rm F})+(1/T_{1}T)_{\rm F}\). Here the \(T\)-dependent \((1/T_{1}T)_{\rm F}\) is due to magnetic or electric fluctuations whose frequency is equal to the NMR frequency \(f\). For \(x=0.06\), the temperature dependence of \(1/T_{1}T\) [Fig. 8(b)] and \(K\) is consistent. For Pt(2), the \(1/T_{1}T\) decreased around \(T_{\rm s}\) because of the decrease in the \(N(E_{\rm F})\) and became almost the same as that of Pt(1). While for the Pt(1) site, no change
+
+Figure 4: (Color online) \(x\) dependence of the lattice parameters \(a\), \(b\), and \(c\) for LaPt\({}_{2-x}\)Ge\({}_{2+x}\).The monoclinic structures are interpreted in the notation of tetragonal structure.
+
+Figure 3: (Color online) Band structure (a) and Fermi surface (b) of the tetragonal phase. The red arrows represent a nesting vector. Total and partial \(N(E)\) of the tetragonal (c) and monoclinic (d) phases. The Fermi level is taken at the origin in (a), (c), and (d).
+
+  due to the SPT was observed. These results are consistent with the band calculations. For \(x=0.20\), where it is difficult to distinguish Pt(1) and Pt(2) in the spectrum (Fig. 7), the \(T_{1}\) was measured at the left peak where the Pt(1) signal is dominant. No clear change was observed in the temperature dependence of the \(1/T_{1}T\).
+
+Figure 9(a) shows \({}^{139}\)La-NMR spectra at \(T=300\) K. For \(x=0.06\), distinct satellite peaks were observed due to orientation. While for \(x=0.20\), a broad powder pattern was observed, which is consistent with \({}^{195}\)Pt-NMR spectra. The \(1/T_{1}T\) measured at the center peak is shown in Fig. 9(b). For \(x=0.06\), the \(1/T_{1}T\) increased upon cooling to \(T_{\rm s}\), and then decreased rapidly because of the SPT. For \(x=0.20\), similar behavior was observed although the resistivity showed no anomaly. We determined the \(T_{\rm s}\) at 50 K for \(x=0.20\) by the maximum of the \({}^{139}\)La-NMR \(1/T_{1}T\). These results are in sharp contrast with those for \({}^{195}\)Pt-NMR. Such upturn in \({}^{139}\)La-NMR \(1/T_{1}T\) can be understood as due to fluctuations associated with SPT that couple to the electric quadrupole moment of \({}^{139}\)La nuclei.
+
+Figure 5: (Color online) (a) Temperature dependence of the electrical resistivity for LaPt\({}_{2-x}\)Ge\({}_{2+x}\). The solid arrows indicate \(T_{\rm s}\). (b) Magnified view of the low temperature range.
+
+Figure 6: (Color online) Temperature dependence of the ac susceptibility for LaPt\({}_{2-x}\)Ge\({}_{2+x}\). The solid arrows indicate \(T_{\rm c}\).
+
+Figure 7: (Color online) (a) \({}^{195}\)Pt-NMR spectra for LaPt\({}_{2-x}\)Ge\({}_{2+x}\) (\(x=0.06\) and \(0.20\)) at 200 K. (b) \({}^{195}\)Pt-NMR spectra for LaPt\({}_{2-x}\)Ge\({}_{2+x}\) (\(x=0.06\)) at various temperatures.
+
+  Phase diagram for LaPt\({}_{2-x}\)Ge\({}_{2+x}\) and the superconducting gap probed by \({}^{199}\)La-NQR
+
+Figure 10 shows the phase diagram for LaPt\({}_{2-x}\)Ge\({}_{2+x}\) obtained in the present work. The \(T_{\rm s}\) decreased linearly and the \(T_{\rm c}\) increased with increasing \(x\). The maximum \(T_{\rm c}\) was 1.95 K in \(x=0.20\). The SPT critical point (\(T_{\rm s}=0\)) is estimated to be \(x_{\rm c}=0.22\) by extrapolating the data for \(x\leqslant 0.2\). It is notable that the lattice parameter \(c\) simultaneously increases with increasing \(x\) (Fig. 4), which suggests that weakening of the interaction between [Pt(1)-Ge(2)-Pt(1)] and [Ge(1)-Pt(2)-Ge(1)] layers may lead to the suppression of the \(T_{x}\).
+
+Since LaPt\({}_{2-x}\)Ge\({}_{2+x}\) has a low \(H_{\rm c2}\) (\(<\)0.5 T), measurements with a magnetic field applied, such as the Knight shift in the superconducting state, are difficult. In this work we performed \({}^{139}\)La-NQR at zero field to study the energy gap in the superconducting state. Figure 11(a) shows the \({}^{139}\)La-NQR spectra for LaPt\({}_{2-x}\)Ge\({}_{2+x}\) (\(x=0\) and 0.20). For \(x=0\), three clear peaks at \(f=2.16\), 2.47, and 3.38 MHz are observed, which can be excellently understood with the parameters \(v_{\rm Q}=1.19\pm 0.01\) MHz and \(\eta=0.73\pm 0.01\). The assignment of each peak to the detailed transition is shown in the figure. For \(x=0.20\), two peaks at \(f=3.7\) and 5.8 MHz, and a hump at \(f=2.9\) MHz, are observed. The parameters \(v_{\rm Q}=1.97\pm 0.08\) MHz and \(\eta=0.46\pm 0.08\) can explain the data well, in which the two peaks are the transitions of \(\pm 3/2\leftrightarrow+5/2\) and \(\pm 5/2\leftrightarrow\pm 7/2\), and the hump at 2.9 MHz is the \(\pm 1/2\leftrightarrow\pm 3/2\) transition. Such assignment is consistent with the relative intensity of the three transitions as seen in \(x=0\), and the \(v_{\rm Q}\) value is consistent with that obtained from the \({}^{139}\)La-NMR spectrum. Figure 11(b) shows the recovery curves of the nuclear magnetization for \(x=0.20\) measured at the \(m=\pm 3/2\leftrightarrow\pm 5/2\) transition. As shown in Fig. 11(c), the \(1/T_{\rm 1}\) is proportional to \(T\) above \(T_{\rm c}\), which is consistent with
+
+Figure 8: (Color online) (a) Temperature dependence of the \({}^{195}\)Pt-NMR Knight shift for LaPt\({}_{2-x}\)Ge\({}_{2+x}\) (\(x=0.06\)). (b) Temperature dependence of the \({}^{195}\)Pt-NMR \(1/T_{\rm 1}T\) for LaPt\({}_{2-x}\)Ge\({}_{2+x}\) (\(x=0.06\) and 0.20).
+
+  the \({}^{139}\)La-NMR measurement. Just below \(T_{\rm c}\), the \(1/T_{1}\) showed a small Hebel-Slichter peak and then decreased rapidly. Thus we concluded that the superconducting gap of the \(x=0.20\) sample is isotropically opened.
+
+## IV Discussion
+
+The relationship between CDW and superconductivity has been investigated in systems by intercalation (Cu\({}_{x}\)TiSe\({}_{2}\)[21], Cu\({}_{x}\)TaS\({}_{2}\)[22]), substitution (Lu\({}_{3}\)Ir\({}_{4}\)(Si\({}_{1-x}\)Ge\({}_{x}\))\({}_{10}\)[23]), or applying pressure (2H-NbSe\({}_{2}\)[24], NbSe\({}_{3}\)[25]). The general feature of these systems is that suppressing CDW results in increasing \(T_{\rm c}\). The phase diagram of LaPt\({}_{2-x}\)Ge\({}_{2+x}\) also has this feature. It is natural to think that the \(T_{\rm c}\) increases largely because of the increase in \(N(E_{\rm F})\) by suppressing SPT. To verify this idea, we used a rough approximation by fixing the Debye temperature \(\theta_{D}\) and the attractive interaction \(V\) to estimate the increase in \(T_{\rm c}\) from \(x=0\) (\(T_{\rm c}=0.41\) K). We used the McMillan formula [26] for this estimation,
+
+\[T_{\rm c}=\frac{\Theta_{\rm D}}{1.45}\exp\left(-\frac{1.04\left(1-\lambda \right)}{\lambda-\mu^{*}\left(1-0.62\lambda\right)}\right),\] (1)
+
+with \(\theta_{D}=310\) K [27], \(\mu^{*}=0.13\)[26], and \(\lambda=VN(E_{\rm F})\), where \(N(E_{\rm F})\) was obtained by band calculations. As a result, we obtained \(T_{\rm c}=1.47\) K for the tetragonal phase. This value is smaller than \(T_{\rm c}=1.95\) K obtained for \(x=0.20\), but accounts for the majority of the increase in \(T_{\rm c}\). In cuprates and Fe-based superconductors, the magnetic fluctuations or structural/orbital fluctuations are believed to play an important role in producing superconductivity. From comparison between \({}^{195}\)Pt- and \({}^{139}\)La-NMR, moderate fluctuations due to SPT were found in the present system. In addition, we found that the stronger the fluctuations are, the higher the \(T_{\rm c}\). Whether
+
+Figure 10: (Color online) Phase diagram for LaPt\({}_{2-x}\)Ge\({}_{2+x}\) obtained by the present work. The red circles represent the \(T_{\rm c}\) determined by a minimum of the electrical resistivity (\(x<0.20\)) or a maximum of the \({}^{139}\)La\({}_{x}\)NMR \(1/T_{1}T\) (\(x=0.20\)). The blue squares represent the \(T_{\rm c}\) determined as the onset temperature of the ac susceptibility. The \(T_{\rm c}\) is multiplied by 20 for clarity.
+
+  such fluctuations contribute to the rest of the increase of \(T_{\rm c}\) merits investigation in the future.
+
+## V Summary
+
+We performed band calculations for LaPt\({}_{2}\)Ge\({}_{2}\) and found 2D-like Fermi surfaces with partial nesting. A reduction in the density of states in the monoclinic phase was found in the calculation and confirmed by \({}^{195}\)Pt-NMR measurements. We suggest a CDW as a possible cause for the SPT. We synthesized nonstoichiometric LaPt\({}_{2-x}\)Ge\({}_{2+x}\) samples and performed electrical resistivity, ac susceptibility, and \({}^{195}\)Pt and \({}^{139}\)La NMR/NQR measurements. We found that the SPT transition temperature (\(T_{\rm s}\)) decreases with increasing \(x\), and, as a result, the superconducting transition temperature (\(T_{\rm c}\)) increases from 0.41 to 1.95 K, the majority of which can be accounted for by the change in \(N(E_{\rm F})\) associated with the reduction of \(T_{\rm s}\). Finally, we found moderate fluctuations associated with the SPT whose role in promoting superconductivity is a topic of future study.
+
+###### Acknowledgements.
+
+ We thank S. Kawasaki for technical help. This work was partially supported by the "Topological Quantum Phenomena" Grant-in Aid for Scientific Research on innovative Areas from MEXT of Japan (Grant No. 22103004).
+
+## References
+
+* [1] E. Parthe and B. Chabot, in _Handbook on the Physics and Chemistry of Rare Earths_, edited by K. A. Gschneidner Jr. and L. Eyring (North-Holland, New York, 1984), Vol. 6, p. 113.
+* [2] R. N. Shelton, H. F. Braun, and E. Musick, Solid State Commun. **52**, 797 (1984).
+* [3] A. Dommann, F. Hulliger, H. R. Ott, and V. Gramlich, J. Less-Common Met. **110**, 331 (1985).
+* [4] A. Imre, A. Hellmann, G. Wenski, J. Graf, D. Johrendt, and A. Mewis, Z. Anorg. Allg. Chem. **633**, 2037 (2007).
+* [5] K. Kudo, Y. Nishikubo, and M. Nohara, J. Phys. Soc. Jpn. **79**, 123710 (2010).
+* [6] S. Kim, K. Kim, and B. I. Min, arXiv:1412.1237.
+* [7] S. Kawasaki, Y. Tani, T. Mabuchi, K. Kudo, Y. Nishikubo, D. Mitsuoka, M. Nohara, and G.-Q. Zheng, Phys. Rev. B **91**, 060510(R) (2015).
+* [8] Y. Nagano, N. Araoka, A. Mitsuda, H. Yayama, H. Wada, M. Ichihara, M. Isobe, and Y. Ueda, J. Phys. Soc. Jpn. **82**, 064715 (2013).
+* [9] T. Kubo, Y. Kizaki, H. Kotegawa, H. Tou, Y. Nagano, N. Araoka, A. Mitsuda, and H. Wada, JPS Conf. Proc. **3**, 017031 (2014).
+* [10] J. Chang, E. Blackburn, A. T. Holmes, N. B. Christensen, J. Larsen, J. Mesot, Ruixing Liang, D. A. Bonn, W. N. Hardy, A. Watenphul, M. V. Zimmermann, E. M. Forgan, and S. M. Hayden, Nat. Phys. **8**, 871 (2012).
+* [11] A. S. Sefat, R. Jin, M. A. McGuire, B. C. Sales, D. J. Singh, and D. Mandrus, Phys. Rev. Lett. **101**, 117004 (2008).
+* [12] R. Zhou, Z. Li, J. Yang, D. L. Sun, C. T. Lin, and G.-Q. Zheng, Nature Commun. **4**, 2265 (2013).
+* [13] G. W. Hull, J. H. Wernick, T. H. Geballe, J. V. Waszczak, and J. E. Bernardini, Phys. Rev. B **24**, 6715 (1981).
+* [14] S. Maeda, K. Matano, H. Sawaoka, Y. Inada, and G.-q. Zheng, J. Phys. Soc. Jpn. **82**, 065002 (2013).
+* [15] A. Imre, A. Hellmann, and A. Mewis, Z. Anorg. Allg. Chem. **632**, 2217 (2006).
+* [16] T. Oguchi, Phys. Rev. B **63**, 125115 (2001).
+* [17] F. Izumi and K. Momma, Solid State Phenom. **130**, 15 (2007).
+* [18] K. Momma and F. Izumi, J. Appl. Crystallogr. **44**, 1272 (2011).
+* [19] M. I. Gordon and M. J. R. Hoch, J. Phys. C **11**, 783 (1978).
+* [20] J. Chepin and J. H. Ross Jr., J. Phys. Condens. Matter **3**, 8103 (1991).
+* [21] E. Morosan, H. W. Zandbergen, B. S. Dennis, J. W. G. Bos, Y. Onose, T. Klimczuk, A. P. Ramirez, N. P. Ong, and R. J. Cava, Nat. Phys. **2**, 544 (2006).
+* [22] K. E. Wagner, E. Morosan, Y. S. Hor, J. Tao, Y. Zhu, T. Sanders, T. M. McQueen, H. W. Zandbergen, A. J. Williams, D. V. West, and R. J. Cava, Phys. Rev. B **78**, 104520 (2008).
+* [23] Y. Singh, R. Nirmala, S. Ramakrishnan, and S. K. Malik, Phys. Rev. B **72**, 045106 (2005).
+* [24] C. Berthier, P. Molinie, and D. Jerome, Solid State Commun. **18**, 1393 (1976).
+* [25] A. Briggs, P. Monceau, M. Nunez-Regueiro, J. Peyrard, M. Ribault, and J. Richard, J. Phys. C **13**, 2117 (1980).
+* [26] W. L. McMillan, Phys. Rev. **167**, 331 (1967).
+* [27] C. Tonohiro, Y. Nakano, F. Honda, T. Yamada, T. Takeuchi, K. Sugiyama, M. Hagiwara, K. Kindo, T. D. Matsuda, Y. Haga, M. Hedo, Y. Uwatoko, R. Settai, and Y. Onuki, J. Phys. Soc. Jpn. **78**, 114706 (2009).
+
+ 

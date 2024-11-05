@@ -1,0 +1,1834 @@
+# Infrared studies of the superconducting energy gap and normal-state
+dynamics
+
+of the high-T_(c) superconductor YBa₂Cu₃O₇
+
+Z. Schlesinger, R. T. Collins, F. Holtzberg, C. Feild, G. Koren, and A.
+Gupta
+
+IBM Thomas J. Watson Research Center, Yorktown Heights, New York 10598
+
+###### Abstract
+
+A detailed study of infrared properties (reflectivity, conductivity, and
+dielectric response), emphasizing reproducible results from fully
+oxygenated YBa₂Cu₃O₇ crystals (T_(c) = 93 K) and films, is presented.
+The extrapolated values of σ₁(ω) at low frequency are roughly consistent
+with the measured temperature-dependent dc resistivity. Although not
+well understood, this infrared conductivity can be interpreted in terms
+of a frequency-dependent scattering rate of ∼_kT_ + _tio_, with a
+low-frequency mass enhancement of roughly 2 to 4 associated with a
+carrier-spin related interaction. Infrared measurements polarized along
+the c axis suggest a conductivity anisotropy of roughly 40:1 near T_(c)
+in the normal state. In the superconducting state an energy scale of
+2D_(c) ≃ 3_kT__(c) is suggested by c-axis polarized measurements, while
+a much larger characteristic energy of 2D_(a+ ∞) ≃ 8_kT__(c) is evident
+in the (a-b)-plane conductivity. From the area missing from the
+conductivity up to this very large gap, a reasonable estimate (≃ 1700 A)
+for the (a-b)-plane penetration depth is obtained. Evidence for non-BCS
+temperature dependence, strong pair breaking scattering, and possible
+fluctuation effects is discussed. A comparison to infrared data from
+Bi₂Sr₂CaCu₃O_(8 − y) shows a similarly large energy scale, 2D_(a, ∞) ≃
+8_kT__(c); for the cubic Ba_(0.6)K_(0.4)BiO₃ superconductor a more
+conventional energy scale, 2D≃ 4_kT__(c) is observed. The unusually
+large energy scale obtained from the (a-b)-plane measurements of the
+layered cuprates lies far beyond the range of previously studied
+superconducting energy gaps (2D≃ 3 to 5_kT__(c)).
+
+## I Introduction
+
+In the phenomenology of superconductivity, the energy gap, or, more
+generally, the spectrum of excitations in the superconducting state,
+plays a central role. Because of the fundamental relationship between
+the gap and the density of thermally excited quasiparticles in the
+superconducting state, knowledge of the symmetry, temperature
+dependence, and magnitude of the gap is generally sufficient to explain
+the behavior of the specific heat, nuclear relaxation, penetration
+depth, microwave absorption, and other low-energy properties in the
+superconducting state. Beginning with the pioneering work of Glover and
+Tinkham [1] and of Giaver, [2] both infrared [3]⁻[7] and tunnelling
+spectroscopies [8] have provided the most fundamental and versatile
+probes of the superconducting energy gap. Tunneling probes the
+single-particle density of states, which is gapped at Δ in a
+conventional superconductor; while infrared measures the conductivity,
+which has a gap at the threshold for pair excitations, 2D. In the oxides
+tunneling is more difficult than in conventional superconductors due
+both to the short coherence length, and the difficulty of preparing
+well-characterized junctions at oxide surfaces. Infrared measurements,
+on the other hand, probe more deeply than tunnelling (≃ 1500 A), and
+actually become significantly less difficult as the frequency range of
+interest, which tends to scale with T_(c), becomes higher. In this
+article we present infrared measurements of the recently discovered
+high-T_(c) cuprate superconductors [9]^(,)[10] and discuss their
+implications regarding the nature of the excitation spectrum in both the
+superconducting and normal states. Work on the fully oxygenated
+YBa₂Cu₃O₇ is emphasized since it is with this stoichiometric compound
+that we obtain our most reproducible results.
+
+Infrared measurements on the layered cuprates began with studies of
+ceramic samples [11]⁻[24] in which the presence of a large, uncontrolled
+anisotropy was extremely problematic. These measurements were later
+essentially superseded by studies of crystalline materials [15]⁻[39] in
+which the response associated with the in-plane and out-of-plane
+directions could be clearly identified. In the following discussion a
+brief review of the use of infrared measurements to address the nature
+of the superconducting energy gap and the normal-state dynamics in the
+layered cuprates is presented.
+
+From the infrared data on ceramics, estimates of a reduced energy gap in
+the range 2DΔ/kT_(c) ≃ 2 to 3.5 were widely reported (see Refs.
+[11]⁻[17]). At that time one of the puzzles associated with the
+high-T_(c) field was why the infrared gap appeared to be small compared
+both to the BCS value (3.5_kT__(c)), and estimates of the gap based on
+tunnelling (see Refs. [14] and [22]). Based on very elementary
+considerations associated with the normal-state conductivity anisotropy,
+we proposed that the infrared gap measurement on unoriented
+polycrystalline samples should be dominated by contributions with the
+electric field perpendicular to the Cu-O plane, and quite insensi tive
+to the (_a-b_)-plane gap.[22] Recent _c_-axis polarized measurements on
+both YBa₂Cu₃O₇ (Ref. [36]) and La_(2 − x)Sr_(x)CuO₄ (Ref. [39]) are
+quite consistent with this proposal, as discussed in Sec. III.5 of this
+article.
+
+In the first infrared measurement of crystalline YBa₂Cu₃O₇,[25] both the
+absolute (_a-b_)-plane reflectivity at room temperature, and the ratio
+of the reflectivity in the superconducting state to that in the normal
+state (_R__x_/_R__n_) were reported. Based on the reflectivity ratio,
+which exhibits a peak at about 500 cm⁻¹ (≃720 K), an energy gap of
+∼8_kT__c_ was inferred for the _a-b_ plane.[25, 28] These reflectivity
+ratios, and hence the assignment of the gap energy, appear to have been
+quite accurate and are in good agreement with subsequent work. The high
+degree of reproducibility of the ratio measurement is due to the fact
+that only relative accuracy is required. The absolute reflectivities
+reported in the early studies,[25, 28] were too low due to our inability
+to calibrate the absolute reflectivity accurately (i.e., establish what
+is 100
+
+As noted above, the original inference of the 2D_(α − b) ≃ 8kT_(c) gap
+was based on the measurement of the ratio, _R__s_/_R__n_, of the
+reflectivity in the superconducting state to that in the normal
+state.[25] The emphasis on ratios over absolute quantities in infrared
+gap measurements dates to the work of Glover and Tinkham.[1] Virtually
+all subsequent infrared gap measurements (see Refs. [3-7]) have also
+used ratios of superconducting and normal-state properties to determine
+the energy of the gap, and have not attempted to show directly that the
+absorption below the gap vanishes in the superconducting state as the
+temperature (_T_) goes to 0. Recently it has been proposed that the
+correct way to extract a superconducting gap from infrared data is to
+establish the frequency at which the reflectivity first deviates from
+100
+
+Regarding the possibility of a BCS size gap in the layered
+copper-oxides, our results from YBa₂Cu₃O₇ show little evidence for this
+in either the reflectivity ratios or the absolute reflectivity of the
+_a-b_ plane. We find it very difficult to determine a specific frequency
+at which the absolute (_a-b_)-plane reflectivity reaches 100
+
+We note that some of the recent discussions regarding the inference of a
+gap energy from infrared measurements, parallel an earlier controversy
+that followed the original report of a superconducting energy gap in
+Pb.[1, 40, 41] Recent statement to the effect that infrared measurements
+cannot be interpreted as evidence for a superconducting gap in the
+cuprates, are closely related to arguments advanced earlier by
+Forrester[40] and responded to by Tinkham and Glover.[41]
+
+Turning now to the normal state, infrared reflectivity data from ceramic
+samples were originally analyzed in a way that gave a strong excitonic
+feature in the infrared conductivity at about 0.4 eV.[18, 19, 20] It has
+been subsequently argued that this excitonic peak was an artifact
+associated with an incomplete treatment of anisotropy in the
+polycrystalline data analysis.[22, 23] We find these arguments to be
+compelling. Infrared measurements on La_(2 − x)Sr_(x)CuO₄ (Ref. [27])
+and YBa₂Cu₃O₇ (Refs. [25] and [26]) crystals show substantial
+conductivity extending into the mid-infrared range (∼0.5 eV), but no
+sharp excitonic peak in σ₁(ω) as reported for the ceramics (Refs. [18,
+20]).
+
+Early efforts to fit the room temperature (_a-b_)-plane reflectivity to
+a Drude model required a very large scattering rate,[25, 26, 27] which,
+as pointed out by Kamaras _et al._,[24] would imply an unrealistically
+short mean-free path, and does not allow a reasonable explanation of the
+temperature dependence of the dc conductivity. The behavior of the dc
+conductivity and the far-infrared conductivity are, of course,
+fundamentally connected. In fact, the problem of understanding the
+temperature dependence of the dc conductivity is subsumed by the larger
+problem of understanding the temperature and frequency dependence of the
+infrared conductivity, which are themselves interrelated. Infrared
+measurements have explored these relationships, revealing a highly
+temperature- and frequency-dependent, low-frequency infrared
+conductivity.[29, 30, 31] Extrapolations of the infrared conductivity to
+o =0 give values in reasonable correspondence with dc results. At finite
+ω the infrared conductivity falls much less rapidly with frequency than
+would be expected for an ordinary metal.[29, 30, 31] Attempts to
+understand the conductivity have been based on both spin interaction[30,
+31] and charge excitation pictures,[29] as discussed in Sec. IV.1. In
+the former case the carriers are dressed by spin-related excitations,
+resulting in a reduced scattering rate and an enhanced mass at low
+frequency. In the latter case the free-carrier contribution to σ(ω) is
+supplemented by a strong mid-infrared charge excitation.
+
+Most of the infrared data addressing these questions is from YBa₂Cu₃O₇
+crystals, which, in addition to the CuO₂ planes, contain CuO chains
+oriented along the b direction. Presumably the chains are inessential to
+the superconductivity and it is the CuO₂-plane response that is of major
+interest; however, the high-T_(c) crystals tend to be heavily twinned in
+the a-b plane, hence it is not easy to separate the chain and plane
+contributions to σ(ω). This uncertainty in the origin of σ(ω)
+contributes to the ambiguity in the analysis of the normal-state
+dynamics, as discussed in Sec. IV.1. The extent to which the chains
+actually contribute to the conductivity in the infrared is not well
+known, however, recent polarized measurements on small untwinned
+crystals suggest a large chain-related contribution [37] to σ(ω), which
+could account for some of the broad background conductivity observed in
+infrared measurements. Definitively separating the conductivity of
+YBa₂Cu₃O₇ into chain and plane contributions is an important goal of
+future work.
+
+In spite of these uncertainties associated with its complex structure,
+YBa₂Cu₃O₇ has been the system of choice for infrared studies. YBa₂Cu₃O₇
+is the only known stoichiometric high-T_(c) superconductor, and is the
+material for which the best crystals and films have been available.
+Flux-grown crystals and laser ablation films of the fully oxygenated
+YBa₂Cu₃O₇ have optically smooth surfaces and appear to have a high
+degree of electronic homogeneity (as evidenced, for example, by the very
+large and sharp specific-heat jump at T_(c) seen in the YBa₂Cu₃O₇
+crystals [42, 43, 44]. Both of these properties are crucially important
+for reliable infrared measurements.
+
+In this article we examine the infrared reflectivity and conductivity of
+YBa₂Cu₃O₇ in both the normal and superconducting states. We primarily
+emphasize data from the fully-oxygenated YBa₂Cu₃O₇ (T_(c) ≃ 92 K),
+although some comparison is made to data from reduced-T_(c)
+YBa₂Cu₃O_(7 − x) crystals, as well as Bi₂Sr₂CaCu₂O_(8 − y) and
+Ba_(0.6)K_(0.4)BiO₃. We find that there is very good reproducibility in
+the absolute reflectivities and conductivities for the fully oxygenated
+YBa₂Cu₃O₇ (T_(c) ≳ 92 K), as well as in the reflectivity ratios
+(R_(s)/R_(n)), and show that the important energy scale for the a-b
+plane is 500 cm⁻¹ (≃ 700 K ≃ 8kT_(c)). The correspondence between our
+infrared data and the measured low-temperature penetration depth [45,
+46] is demonstrated by calculating the penetration depth from the area
+missing from the superconducting state conductivity up to above ≃
+8kT_(c). The unconventional temperature dependence of this 8kT_(c)
+gamlike feature, as well as possible evidence for unusual fluctuation
+effects in the infrared conductivity above T_(c) are discussed in Sec.
+IV.2. We also consider the possibility of a smaller gap (as suggested
+based on results from O deficient material) but conclude that there is
+very little evidence for this in the (a-b)-plane reflectivity of
+YBa₂Cu₃O₇ at the present time. Results from other gap sensitive probes,
+including specific heat, [42, 43, 44] tunneling, [47, 48, 49, 50, 51,
+52, 53, 54, 55, 56, 57] photoelectron spectroscopy, [58, 59, 60, 61, 62]
+Raman scattering, [63, 64, 65, 66, 67, 68, 69] and nuclear resonance,
+[63, 64, 65, 66, 67, 68, 69] are discussed in Sec. IV.2.6. For the most
+part, results from these techniques are consistent with the very large
+gap we have reported from infrared measurements. [25, 36] In Sec. V, we
+compare the infrared results for YBa₂Cu₃O₇ to the analogous results from
+the cubic Bi-O superconductor, Ba_(0.6)K_(0.4)BiO₃. [70] The ratio of
+the reflectivity in the superconducting state to that in the normal
+state for each of these oxide superconductors is presented in Fig. 1.
+This measured ratio, R_(s)/R_(n), is qualitatively very similar for
+these two systems, however, the same analysis applied to both sets of
+data leads to the inference of a conventional energy scale (2Δ ≃
+4kT_(c)) for Ba_(0.6)K_(0.4)BiO₃, and a very unconventional energy
+scale, (2Δ_(a-b) ≃ 8kT_(c)), for the a-b plane of YBa₂Cu₃O₇.
+
+## II Experimental Procedures
+
+### Sample preparation
+
+The highly anisotropic structural and transport properties of the Cu-O
+superconductors make oriented samples a necessity in infrared studies of
+these materials. In this paper we discuss results from both crystalline
+samples and oriented thin films of YBa₂Cu₃O_(7 − x), emphasizing results
+from fully oxygenated YBa₂Cu₃O₇ samples. The crystals were grown from a
+flux as previously described. [71] Following growth, they were annealed
+for 10 days at 420 degC in flowing oxygen after which they consistently
+exhibited extremely sharp superconducting transitions with widths less
+than 0.3 K and T_(c) ≃ 93 K as measured by ac susceptibility and shown
+in Fig. 2(a). In general, the crystals were highly twinned
+[predominantly
+
+Figure 1: Ratio of the reflectivity in the superconducting state to that
+in the normal state is shown for Ba_(0.6)K_(0.4)BiO₃ and for (the a-b
+plane of) YBa₂Cu₃O₇. R_(s)/R_(s) is plotted as a function of energy in
+units of kT_(c), where T_(c) = 29 K for the Ba_(0.6)K_(0.4)BiO₃, and
+T_(c) = 92 K for the YBa₂Cu₃O₇. From the frequency of the peak in each
+plot, reduced energy scales of 2Δ ≃ 4kT_(c) and 2Δ_(a-b) ≃ 8kT_(c) are,
+respectively, inferred. (The structure at about 18kT_(c) in the dashed
+curve has an instrumental origin.)
+
+along (110) boundaries] within the _a-b_ plane. Their geometry was
+platelike with typical dimensions of 1-2 mm along the a and b axis and
+50 μm along the c axis. The (_a-b_)-plane measurements were made on
+individual crystals. Both "_as_-annealed" sample surfaces and surfaces
+which were mechanically polished with diamond paste to an 0.5 μm grid
+size were studied. As discussed below, polishing did not have a
+measurable effect on the infrared properties of the surface. This is
+presumably related to the deep penetration depth for infrared radiation
+( 1500 A) in YBa2Cu3O7.
+
+To obtain sufficient area for measurements with the electric field along
+the c axis, a stack of ≃ 12 crystals was used. The stack was potted in
+epoxy and polished to obtain a flat surface; the fill fraction of
+crystal within epoxy was about 50
+
+Crystals with reduced transition temperatures were also prepared for
+study. This was accomplished either by the removal of oxygen in a
+subsequent anneal or by doping with impurity atoms such as Mg. The
+crystals with reduced oxygen concentration generally showed broader
+transitions (5-15 K wide), suggesting considerable inhomogeneity in
+oxygen content or location. The impurities in the Mg-doped samples were
+introduced indirectly through growth in an MgO crucible, thus, the Mg
+concentration is at the saturation value for the growth temperature and
+is not readily variable. The Mg-doped samples typically have a
+transition temperature of ≃ 80 K with a width of about 1 K. The reduced
+oxygen content crystals with T_(c) ∼ 60 K have a typical transition
+width of 10 K.
+
+The films were deposited by the laser ablation technique onto (100)
+SrTiO3 substrates at 730 degC in 0.2 Torr oxygen ambient.[72, 73] Fully
+oxygenated films were obtained by adding 1 atm of oxygen at the end of
+the deposition experiment and cooling down slowly. They typically had a
+zero-resistance transition temperature of 92 K and a 1-K transition
+width [Fig. 2(b)]. Films with lower transition temperatures (40-60 K)
+were prepared by the use of lower oxygen pressures of about 0.5-1 Torr
+during the cooling procedure. All films are microtwinned on a very fine
+scale in the _a-b_ plane. Fiml thicknesses range from about 200 A to 0.5
+μm. In reflectivity measurements on films, features associated with the
+substrate tend to appear if the film is not substantially thicker than
+the infrared penetration depth (∼ 1500 A). In this study we discuss
+reflectivity results on the thicker films (0.4 μm), for which these
+substrate related effects are not observable.
+
+### Infrared measurements techniques
+
+The infrared reflectivity spectra presented in the article were acquired
+at near normal incidence (≃ 12deg) using a scanning interferometer. A
+number of different sources, beamsplitters, detectors, and windows were
+used to obtain data from 50-12 000 cm⁻¹. At low frequencies a Si
+bolometer mounted on a diamond substrate was used in conjunction with
+Mylar beam splitters, a Hg arc source, and high-density white
+polyethylene windows on the sample and detector dewars. To obtain high
+bolometer sensitivity, cold filters and apertures mounted on a filter
+wheel inside the bolometer dewar were used to restrict the amount of
+background blackbody radiation reaching the bolometer. A high-frequency
+cutoff of about 700 cm⁻¹ is set by the white polyethylene windows.
+
+To reach higher frequencies the white polyethylene windows are replaced
+by KRS5 windows, which transmit from about 200 cm⁻¹ up to beyond 20 000
+cm⁻¹. Data was obtained below 5000 cm⁻¹ using both bolometric detection
+(200-5000 cm⁻¹) and a HgCdTe photoconductive detector (800-5000 cm⁻¹)
+with a CsI beamsplitter, and glowbar source. To obtain data at higher
+frequencies, photovoltaic detectors [InSb (2500-8000 cm⁻¹), Ge ($\ga$
+5500 cm⁻¹), and Si ($\ga$ 8700)], a quartz beamsplitter, and tungsten
+lamp source were used. There was substantial overlap in the range of
+frequencies covered with each of these combinations and the coincidence
+of the spectra was usually better than 1
+
+Samples were mounted in a circulating Helium cold finger cryostat on a
+sliding sample holder. An evaporated Au mirror, which was used as a
+reference, was mounted in close proximity to the sample. A manipulator
+al
+
+Figure 2: (a) ac susceptibility (χ) as a function of temperature for a
+YBa2Cu3O7 crystal. The inset shows χ in the region of the transition.
+The high-transition temperature and narrow-transition width are
+characteristic of the fully oxygenated YBa2Cu3O7 crystals used in this
+work. (b) Resistivity as a function of temperature for the YBa2Cu3O7
+film used in this study. The film is ≃ 0.4-μ thick, and is oriented with
+the c axis perpendicular to the surface.
+
+lowed the sample holder to be moved so that either the sample or the
+reference could be positioned in the infrared beam as the measurements
+were made. A comparison of Au-to-Au and Brass-to-Au reflectivity ratios
+indicated an accuracy of about 1
+
+### Kramers-Kronig transform
+
+While much can be learned from direct inspection of reflectivity curves,
+the infrared conductivity _s_(_o_) is a more fundamental quantity from
+which to analyze the infrared response of the oxide superconductors. To
+obtain _s_(_o_) one applies a Kramers-Kronig transform to the
+reflectivity _R_(_o_), which yields the phase shift _th_(_o_). From
+_th_(_o_) and _R_(_o_) the real and imaginary parts of _s_(_o_) are
+calculated at each frequency. (For a discussion of Kramers-Kronig
+transforms see, for example, Ref. 74.) Formally, the phase-shift
+integral requires a knowledge of the reflectivity at all frequencies. In
+practice, one obtains the reflectivity over as wide a frequency range as
+possible and then terminates the transform by extrapolating the
+reflectivity to frequencies above and below the range of the available
+measurements. This extrapolation must be done with considerable care
+since significant contributions to _th_(_o_) can come from the
+reflectance at frequencies well removed from the region of interest.
+
+In the present work we have experimental with a variety of terminations
+both at the high- and low-frequency ends of our measurement range.
+Regarding the low-frequency termination, we find that the conductivities
+obtained using various extrapolations for the reflectivity at low o
+differ primarily only in the region of the extrapolation. The
+conductivity at frequencies for which there is actual data is not
+effected significantly by the choice of low-frequency termination. In
+this paper we have extended the transform to lower frequencies by
+attaching a reflectivity of the Hagens-Rubens form [(1-_R_)
+$\propto \sqrt {\omega }$] to our spectra.
+
+The high-frequency termination appears to be more crucial. Although most
+choices for the termination give the same qualitative spectral shape in
+the region of the data, the choice of the high-frequency termination can
+have a large effect on the overall magnitude of the conductivity in the
+infrared region. This primarily effects estimates of the integrated
+strength of the conductivity, which are used in sum-rule arguments. In
+the present work potential problems related to the high-frequency
+termination are avoided by appending to our data the reflectivity
+spectra of Tajima _et al._,34 which extend up to 280 000 cm⁻¹ (34 eV).
+In that data very large, broad peaks in s1(_o_) are present near 8 eV
+( 60 000 cm⁻¹) and 15 eV ( 125 000 cm⁻¹). These peaks have an enormous
+oscillator strength relative to the infrared conductivity (about 50
+times larger), and appear to tail gradually into the infrared region
+with no clear low-frequency cutoff. These tails may account for part of
+the mid-infrared conductivity (at  5000 cm⁻¹) discussed below. Above
+about 200 000 cm⁻¹, the reflectivity given by Tajima _et al._34 varies
+as 1/_o_4, which is the free-electron asymptotic limit. We terminate the
+transform above 280 000 cm⁻¹ by assuming the 1/_o_4 form of the
+reflectivity continues above this frequency. We also find that changing
+the reflectivity above 280 000 cm⁻¹ does not have a significant effect
+on the conductivity at infrared frequencies, and therefore believe this
+approach gives an accurate determination of the conductivity below 12
+000 cm⁻¹ for YBa₂Cu₃O₇.
+
+## III Results
+
+### (_a-b_)-plane normal state
+
+In Fig. 3(a) the measured (_a-b_)-plane reflectivity of fully oxygenated
+YBa₂Cu₃O₇ is shown up to 10 000 cm⁻¹ for T = 100 K (solid line) and T =
+250 K (dashed line). As the temperature is lowered from 250 to 100 K,
+the infrared reflectivity increases almost uniformly over a broad
+frequency range up to  8000 cm⁻¹, as previously reported.31 This has
+important implications for infrared sum rules, as discussed in Sec.
+IV.1. From the Kramers-Kronig transform of this reflectivity data, along
+with other data34 extending up to 280 000 cm⁻¹ (35 eV), the real and
+imaginary parts of _e_(_o_) are obtained. The terminations used in the
+transform, as well as the importance of terminating the data
+appropriately, are discussed in Sec. II. From the imaginary part of
+_e_(_o_), one can obtain the real part of the conductivity, s1(_o_),
+using s1(_o_) = _o_e_2(_o_)/4p1(_o_) and e1(_o_) are plotted as a
+function of frequency in Figs. 3(b) and 3(c), respectively. The infrared
+conductivity, s1(_o_), in Fig. 3(b) has a peak at the origin, which
+grows and sharpens as the temperature is lowered from 250 to 100 K.
+Above about 500 cm⁻¹ s1(_o_) decreases gradually and monotonically with
+increasing frequency. A background conductivity at a level of about
+500-1500 (Ω⁻¹ cm⁻¹ extends throughout of the infrared. This mid-infrared
+conductivity is quite reproducible in YBa₂Cu₃O₇, however, determining if
+this conductivity is present in all Cu-O superconductors, remains a key
+issue. In Sec. IV several possible explanations for this conductivity
+and their significance are discussed.
+
+The dielectric function, e1(_o_), is negative at low frequencies and
+crosses zero at about 8000 cm⁻¹, as shown in Fig. 3(c). The frequency of
+this plasma edge is about a factor of 3-5 lower than in a typical metal
+such as Ag.74 Recent polarized data from untwinned domains of a
+YBa₂Cu₃O₇ crystal report the resolution of this plasma edge into two
+distinct edges at  7000 cm⁻¹ and  9000 cm⁻¹ associated with the a and b
+crystal axes, respectively.37 It has been suggested that an
+(_a-b_)-plane plasma edge is present in YBa₂Cu₃O₇ in a frequency range
+close to the energy gap, making it virtually impossible to deter mine an
+energy gap from infrared data.[29] As shown here and in other work,[31,
+34, 35, 36, 37] this is not the case; the (_a-b_)-plane plasma edge lies
+well above the frequency range relevant for energy gap measurement.
+
+In Fig. 4(a) the temperature dependence of the reflectivity in the
+normal state is shown in more detail for ω ≲ 2000 cm⁻¹ and T = 250, 200,
+150, and 105 K. The reflectivity [Fig. 4(a)] increases rather uniformly
+as the temperature is lowered from 250 to 105 K. To avoid confusion,
+σ₁(ω) and ϵ₁(ω) are shown only at the endpoints of this temperature
+sequence in Figs. 4(b) and 4(c). The observation that a displacement of
+ϵ₁(ω) accompanies the growth of the peak in σ₁(ω) at low frequency is a
+reflection of the Kramers-Kronig relationship between these two
+quantities. At T = 105 K the extrapolated peak value of σ₁(ω) at ω = 0
+is between 15 000 and 20 000 Ω⁻¹ cm⁻¹, and the half-width of this peak
+is roughly 150 cm⁻¹ (i.e.,  ∼ 2kT_(c)). Extrapolated values of the dc
+resistivity, discussed in Sec. IV.1, are plotted as a function of
+temperature, in the inset to Fig. 4(b).
+
+### (_a-b_)-plane superconducting state
+
+The uniform pattern of temperature dependence established in the normal
+state (Fig. 4) gives way to qualitatively different behavior in the
+superconducting state (Fig. 5). R, σ₁(ω), and ϵ₁(ω) are shown at three
+temperatures in Fig. 5: one well into the normal state (150 K),
+
+Figure 4: (a) The normal state (_a-b_)-plane reflectivity of a YBa₂Cu₃O₇
+crystal at 105 K (solid curve), 150 K (dotted curve), 200 K
+(dotted-dashed curve), and 250 K (dashed curve) is shown. (b) The real
+part of the conductivity, σ₁(ω), at 105 K (solid curve) and 250 K
+(dashed curve) obtained from the Kramers-Kronig transform of the
+reflectivity data in (a) are shown. The temperature dependence of the dc
+resistivity, obtained from an extrapolation to ω = 0, is shown in the
+inset. (c) ϵ₁(ω) is shown at T = 105 K (solid curve) and 250 K (dashed
+curve). The structures at about 350 and 500 cm⁻¹ are phonon related.
+
+Figure 3: Reflectivity at 250 K (dashed curve) and 105 K (solid curve)
+for the _a-b_ plane of a YBa₂Cu₃O₇ crystal (T_(c) = 93 K). The real part
+of the conductivity, σ₁(ω), and the real part of the dielectric
+function, ϵ₁(ω), obtained from a Kramers-Kronig transform of the
+reflectivity, are shown in (b) and (c), respective-ly.
+
+one just above the transition (105 K), and one in the superconducting
+state (45 K). These quantities are essentially independent of
+temperature below about 55 K, thus the 45-K spectra are representative
+of the superconducting state at low temperature. The superconducting
+reflectivity is quite high for ω ≲ 500 cm⁻¹, drops rapidly between 500
+and 800 cm⁻¹, and lies below the normal-state reflectivity in the
+vicinity of 800 cm⁻¹. Correspondingly, the superconducting-state
+conductivity is depressed for ω ≲ 500 cm⁻¹, and increases rapidly above
+this frequency, coalescing with σ_(1n)(ω) near about 900 cm⁻¹. In the
+frequency range between about 500 and 800 cm⁻¹, we also observe that
+ϵ_(1s)(ω) crosses above ϵ_(1n)(ω). This crossover of ϵ_(1s)(ω) is
+directly related to both the rapid rise of σ_(1s)(ω) between 500 and 800
+cm⁻¹, and the lower value of the reflectivity in the superconducting
+state relative to that in the normal state near 800 cm⁻¹.
+
+The depression of σ_(1s)(ω) below 500 cm⁻¹ and the rapid return to
+normalcy between 500 and 800 cm⁻¹, suggest a depression of the
+single-particle density of states near E_(f), with a pair excitation
+threshold near 500 cm⁻¹. Between about 150 and 500 cm⁻¹, σ_(1s)(ω) is
+slowly varying with a value between 1000 and 2000 Ω⁻¹ cm⁻¹. Various
+possible sources of this conductivity at low T below 500 cm⁻¹ are
+discussed in Sec. IV.2, where it is noted that this level is comparable
+to a recently reported experimental estimate of the chain-related
+contribution to σ₁(ω) in this frequency range.[37]
+
+Below 150 cm⁻¹ the uncertainty in σ_(1s)(ω) becomes quite large. The
+tendency of the absolute uncertainty in σ_(1s)(ω) to increase at low
+frequency is an intrinsic problem in infrared measurements of bulk
+(i.e., thick) samples. Although not rigorous, one can view the
+uncertainty in σ_(1s)(ω) as resulting from the low-ω divergence in the
+noise-to-signal ratio for the absorptivity, A = 1 − R, as R approaches
+unity. Looking in more detail, the absolute error in σ_(1s)(ω) is
+related to the magnitude of ϵ_(1s)(ω), which diverges like 1/ω². This
+leads to a rapidly increasing uncertainty in σ_(1s)(ω) at low frequency.
+The problem is further exacerbated by the experimental tendency of the
+noise in R to increase at low ω (due both to decreasing source intensity
+and the increase in cavity resonance problems at long wavelength). One
+can "solve" these
+
+Figure 5: (a) a-b reflectivity in the superconducting state at 45 K
+(solid line) and in the normal state at 105 K (dashed line) and 150 K
+(dotted line) for a YBa₂Cu₃O₇ crystal with T_(c) ≈ 93 K is shown. The
+corresponding conductivity, σ₁(ω), and ϵ₁(ω) are shown in (b) and (c).
+There is an enhancement of the reflectivity and a gaplike depression of
+the conductivity in the superconducting state for ω ≲ 500 cm⁻¹.
+
+Figure 6: (a) The real part of the (a-b)-plane conductivity of a
+YBa₂Cu₃O₇ crystal is shown for T=45 K (solid curve), 80 K (dotted-dashed
+curve), 105 K (dotted curve), 125 K (dashed curve), and 150 K (solid
+curve), respectively. In (b) the temperature dependence of the
+conductivity at 530 cm⁻¹, which is quite rapid just below T_(c), is
+shown.
+
+problems by setting the reflectivity exactly equal to unity below a
+particular frequency, thus cutting off the growing noise envelope in
+σ_(1s)(ω) at a chosen frequency below which σ_(1s)(ω) is set to 0. This
+approach leads to a prominent feature in the conductivity at the cutoff
+frequency for which there is no evidence in the data. In the present
+work, we have instead terminated each plot of σ_(1s)(ω) at about the
+frequency where its uncertainty exceeds ∼ 1000 Ω⁻¹ cm⁻¹.
+
+The temperature dependence of the conductivity is examined more closely
+in Fig. 6(a), where spectra at T = 45, 80, 105, 125, and 150 K are
+shown. In the vicinity of 500 cm⁻¹ the conductivity begins to drop quite
+rapidly below T_(c), and by 80 K (dotted-dashed curve) lies well below
+the normal state curves. Below 50 K the reflectivity and conductivity
+are essentially independent of temperature. In Fig. 6(b) the
+conductivity at 500 cm⁻¹ is shown as a function of temperature. The
+rapid drop of σ₁ (500) just below T_(c) reinforces the fundamental
+relationship between the suppression of σ₁(ω) and the transition to the
+superconducting state. It also provides a means to observe the
+transition into the superconducting state which is analogous to
+microwave or dc conductivity measurements as a function of temperature.
+
+The corresponding temperature dependence of the reflectivity ratios,
+R(T)/R (150 K) is shown in Fig. 7. Above T_(c) these reflectivity ratios
+are primarily flat lines, reflecting the uncomplicated temperature
+dependence of the normal state, however, below T_(c) a characteristic "S
+shape" emerges with a peak in R_(s)/R_(n) at ω ≃ 500 cm⁻¹. The inset of
+Fig. 7 shows the difference between the reflectivity at 400 and 800 cm⁻¹
+as a function of temperature, which grows rapidly just below T_(c). In
+Fig. 8(a) the ratio of the conductivity at a temperature T to that at
+150 K is shown for T = 45 K (solid curve), 80 K (dashed curve), and 105
+K (dotted curve).
+
+In these Figs. 7 and 8 one observes that the amplitude of the gaplike
+feature associated with the transition to superconductivity is very
+strongly temperature dependent near T_(c). In contrast, the
+characteristic frequency of this feature does not appear to change
+substantially even in the vicinity of T_(c), as illustrated in Fig.
+8(b). [For Fig. 8(b) the characteristic frequency is obtained by
+extrapolating the conductivity ratio above the gap down to the level of
+the minimum in σ_(s)/σ_(n).] The lower dotted curve shows a BCS
+temperature dependence for T_(c) = 93 K. [It is inappropriate to scale
+the BCS curve in a manner which fails to preserve the relationship 2Δ(0)
+= 3.52kT_(c), since the physics of gap collapse and the magnitude of the
+gap are intimately related.] It is clear that the temperature dependence
+does not follow a BCS curve, but rather that the gap remains quite large
+up to as close to T_(c) as we can measure. This unusual temperature
+dependence, the large magnitude of the gap, and the short coherence
+lengths in the cuprate superconductors may be related, as discussed in
+Sec. IV.2.4.
+
+An additional unconventional aspect of the infrared data can be seen in
+the conductivity ratios shown in Fig. 8(a). Even in the 105-K spectrum,
+there is a minimum in the vicinity of 300 - 500 cm⁻¹ which is
+reminiscent of the prominent gaplike feature that is present at lower
+temperatures. These data suggest the possibility of fluctuation effects
+which are not describable in the conventional Aslamasov-Larkin
+formulation, as also discussed in Sec. IV.2.4.
+
+Figure 8: (a) The ratio of the real part of the (a-b)-plane conductivity
+at a temperature T to that at 150 K is shown for T = 45 K (solid curve),
+80 K (dashed curve), and 105 K (dotted curve) for a YBa₂Cu₃O₇ crystal
+with T_(c) ≃ 93 K. In (b) a characteristic gap frequency is plotted as a
+function of temperature. The lower dotted curve shows the BCS
+(mean-field) temperature dependence for T_(c) = 93 K.
+
+Figure 7: The ratio of the (a-b)-plane reflectivity at a temperature T
+to that at 150 K is shown for T = 45 K (solid curve), 65 K
+(dotted-dashed curve), 80 K (dotted-dashed curve), 105 K (dotted curve),
+125 K (dashed curve), and 150 K (solid curve). In the inset the
+difference between the value of this ratio at 400 and at 800 cm⁻¹ is
+plotted as a function of temperature, illustrating the fundamental
+relationship between the ≃8kT_(c) reflectivity enhancement and the
+transition to the superconducting state (at T_(c) = 93 K).
+
+### Reduced T_(c) samples
+
+For reduced T_(c) YBa₂Cu₃O_(7 − x) samples a distinction between the
+temperature dependence in the normal and superconducting states has not
+been established.[30] The gaps which have been reported for these
+materials are based on attempts to establish a frequency at which the
+reflectivity first departs from unity,[30] rather than from detailed
+studies of the temperature dependencies similar to those present here.
+Our own measurements of reduced-T_(c) samples show either a small change
+or no noticeable change in the infrared temperature dependence near
+T_(c). For a Mg-doped sample, with T_(c) ≃ 80 K, we observe a
+reflectivity enhancement below ≃ 600 cm⁻¹ which correlates with T_(c)
+and is very similar to that seen in the 93-K material, however, the
+amplitude of the enhancement (R_(s)/R_(n)) is about a factor of 3 less
+than for the fully oxygenated YBa₂Cu₃O₇ (even though the absolute
+reflectivity is lower in the Mg-doped sample). This observation raises
+the possibility that this feature of the data may be absent entirely in
+YBa₂Cu₃O_(7 − x) samples with lower T_(c). We note that it is difficult
+to observe a definite change at T_(c) in the temperature dependencies of
+other physical properties (such as specific heat[44] and nuclear
+quadrupole relaxation rate[45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55,
+56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73,
+74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91,
+92, 93, 94, 95, 96, 97, work the earlier problems with absolute
+measurements were associated with the infrared measurement itself,
+rather than with substantive intrinsic differences in the crystals.
+
+### Anisotropy
+
+Using a stack of several YBa₂Cu₃O₇ crystals, as described above, we have
+performed measurements with the infrared electric field polarized
+perpendicular to the conducting planes.[36] The _c_-axis reflectivities
+in the normal (100 K) and superconducting (50 K) states are presented in
+Fig. 10(a). To obtain absolute reflectivities the data was rescaled to
+account for the open space between individual crystals. (The
+reflectivity of the epoxy was found to be quite small and was therefore
+ignored.) Because of these corrections, there is considerably more
+uncertainty in the absolute reflectivity along the c axis than in the
+(_a-b_)-plane data. This uncertainty effects the estimate of how close
+the low-frequency reflectivity comes to unity in the superconducting
+state. However, in the normal state the absorption along the c axis is
+large, hence the conductivity is only moderately sensitive to this
+correction.
+
+The real part of the conductivity, shown in Fig. 10(b), is obtained from
+a Kramers-Kronig transform of the reflectivity using additional
+higher-frequency data[77] scaled to match our spectra. The peaks in the
+normal and superconducting conductivities correspond to _c_-axis
+polarized phonons at frequencies of approximately 150, 195, 220, 270,
+310, and 570 cm⁻¹, while the relatively constant background in
+σ_(1_(a))(ω) is presumably electronic. For the _c_-axis direction the
+electronic contribution to σ₁(ω) is much smaller than for E∥_a,b_ as
+expected. Extrapolating the normal-state conductivity to o = 0 as a
+constant yields an estimate for the _c_-axis dc conductivity of 400 Ω⁻¹
+cm⁻¹, which is about 40 times less than the extrapolated (_a-b_)-plane
+conductivity. This anisotropy (40:1) estimate appears to be at the very
+low end of the range of values reported from dc transport measurements.
+
+For the _c_-axis direction the electronic and phonon contributions to
+σ₁(ω) are roughly comparable in magnitude in Fig. 10(b). The phonons are
+thus not well screened and phonon related features appear prominently in
+both the reflectivity and in ϵ₁(ω) [Fig. 10(c)], which exhibits phonon
+related zero crossings in this low-frequency region. When the
+temperature is reduced below T_(c) we observe an enhancement of the
+low-frequency reflectivity [Fig. 10(a)], and a corresponding depression
+of the low-frequency conductivity [Fig. 10(b)] suggesting the opening of
+a gap in the electronic conductivity. The frequency of the lowest-energy
+phonon (155 cm⁻¹) increases slightly (≃ 2 cm⁻¹) below T_(c), while the
+higher-energy modes exhibit the opposite temperature dependence,
+decreasing in frequency by from 2 to 5 cm⁻¹ near T_(c). Some of these
+phonon-frequency shifts at the transition to superconductivity have been
+observed in ceramics[17] as well as corresponding changes in the
+dampings of the phonons,[16] although the present work provides the
+first identification of the (_c_-axis) polarization of these phonons.
+One can also observe, in Fig. 10(a), that the reflectivity feature
+associated with the lowest _c_-axis phonon (155 cm⁻¹) changes from
+absorptive in the superconducting state to dispersive in the normal
+state, whereas the higher-frequency phonons always appear dispersively.
+These observations are consistent with the point of view that the
+155-cm⁻¹ phonon lies below a gap in the spectrum of electronic
+excitations, but that the other phonons (at ω ≥ 195 cm⁻¹) do not. From
+this point of view an energy scale of 2Δ_(c) ≃ (2-3)kT_(c) could be
+inferred. This value is consistent with the upper bound that Noh _et
+al._[78] have reported for the _c_-axis gap of La_(2 − x)Sr_(x)CuO₄,
+based on studies of the sphere resonance of isolated small particles.
+
+In Fig. 11 the ratio of the reflectivity in the superconducting state
+(50 K) to that in the normal state (100 K) is shown for both the c axis
+and the _a-b_ plane, along with the corresponding conductivity ratios.
+As a consequence of the very low electronic conductivity in the c
+direction, the normal-state reflectivity is quite low and the ratio
+R_(s)/R_(n) tends to be much larger for E∥_c_ than for
+$\overline{E}\parallel$_a,b_. The amplitude of this reflectivity ratio
+has been reduced
+
+Figure 10: (a) reflectivity, (b) conductivity, and (c) dielectric
+response of YBa₂Cu₃O₇ with the electric field polarized perpendicular to
+the CuO₂ planes (i.e., along the c axis), are shown for T = 100 K
+(dashed curve) and 50 K (solid curve). The relatively constant
+background conductivity in the normal state [dashed curve of (b)] is
+electronic, while the peaks in σ₁(ω), and corresponding structures in R
+and ϵ₁(ω), are due to _c_-axis polarized phonons. Note that the
+electronic conductivity is quite low, hence the relative prominence of
+the phonons.
+
+by $\frac{1}{8}$ to allow it to fit on the same scale as the R_(s)/R_(n)
+ratio from the (a-b)-plane measurements. It is quite clear from Fig. 11
+that the energy scale associated with the c-axis electrodynamics in the
+superconducting state is much smaller than for the (a-b)-plane
+directions; however, the presence of phonons and the corrections
+discussed above make it difficult to assign a precise value for the
+c-axis gap (assuming that a true gap exists). Fits of conventional
+Mattis-Bardeen and Eliashberg forms[36] to the data yield a
+characteristic energy scale of about 170 cm⁻¹, i.e., 2Δ_(c) ≃ 3kT_(c),
+consistent with the value inferred from the changes in the c-axis
+phonons, as discussed earlier. More conservatively, one can simply
+observe, from Fig. 11, that the characteristic energy scale inferred
+from the infrared data, depends critically on the polarization of the
+electric field with respect to the principal crystal axes in YBa₂Cu₃O₇.
+
+It is interesting to compare the polarized reflectivity ratios in Fig.
+11 to the changes in reflectivity which are observed at T_(c) in ceramic
+samples of YBa₂Cu₃O₇ (see, for instance, Refs. [14] and [15]). The
+strong similarity of the ceramic data to our c-axis ratios appears to
+confirm the earlier interpretation[22] that ceramic measurements are
+predominantly sensitive to the c-axis response in the superconducting
+state. Presumably this results from the large size of the c-axis
+reflectivity enhancement relative to that associated with the a-b plane.
+Recent results from La_(2 − x)Sr_(x)CuO₄ crystals[39] also provide
+strong support for this point of view.
+
+Both the nature and significance of the electronic transport and
+infrared response associated with the direction perpendicular to the
+planes is very uncertain. In one view the planes are essentially
+isolated (transport perpendicular to the planes occurs through Josephson
+tunneling), and there is only one energy scale in the problem, the
+(a-b)-plane gap. Reports of extremely short coherence lengths
+perpendicular to the planes tend to support this approach. If, on the
+other hand, pairing interactions occur between quasiparticles on
+different planes, then the concept of distinct energy scales becomes
+meaningful, and an anisotropic gap with a symmetry no higher than that
+of the normal state is expected. It has also been suggested that
+coupling between the planes drives the transition to the superconducting
+state (in a manner roughly analogous to that in which the coupling
+between planes in a nearly two-dimensional Heisenberg antiferromagnet is
+responsible for the transition to long-range order). The number of
+planes per unit cell is an additional consideration since coupling
+between planes in the same unit cell may differ fundamentally from
+coupling between planes in different unit cells. At the present time,
+the potential theoretical implications of anisotropy in the
+pair-breaking energy of superconducting YBa₂Cu₃O₇ is unclear. In the
+complex YBa₂Cu₃O₇ structure, the smaller c-axis gap could be associated
+with chains, the presence of which tends to complicate the simple
+picture of weakly coupled planes given above. Additional
+polarization-dependent infrared studies of systems with no chains (such
+as Bi₂Sr₂CaCu₂O_(8 − y)), or with only one plane per unit cell (for
+example, La_(2 − x)Sr_(x)CuO₄) may be helpful in addressing these
+issues.
+
+## IV Discussion
+
+### Normal state
+
+Studies of the normal state of the Cu-O superconductors are based on two
+complementary motives. First, the question of what Hamiltonian is most
+appropriate to describe the essential physics of the layered cuprates is
+best addressed in the normal state (of course, a key test of that
+Hamiltonian is the nature of its low-temperature ground state). Second,
+the normal state appears to be interesting in its own right. While it is
+widely accepted that strong correlation effects are responsible for the
+insulating behavior of the half-filled band, a key issue which
+distinguishes the different views of the normal state concerns the
+manner in which these strong correlations are manifest away from
+half-filling. Both Hall and infrared measurements are potentially
+relevant to this question (see, e.g., Refs. [79]−[81], [33] and [38]).
+In the infrared this issue is closely tied to questions about the total
+oscillator strength in the free-carrier contribution to the
+conductivity, and how one models the normal-state conductivity, which is
+shown in Fig. 3. One fundamental question is
+
+Figure 11: Superconducting-state anisotropy of YBa₂Cu₃O₇. (a) The ratio
+of the reflectivity in the superconducting state (45 **K**) to that in
+the normal state (105 K) is shown for ${\bf E}\|a,b$ (solid line) and
+for ${\bf E}\|c$ (dashed line). (b) The corresponding ratios of the real
+part of the conductivity in the superconducting state to that in the
+normal are also shown for both polarizations. Considerable anisotropy in
+the characteristic energy scale associated with the enhancement of the
+reflectivity and corresponding depression of the conductivity, is
+clearly evident in the infrared data.
+
+whether the low-frequency conductivity should be associated with (1-8)
+electrons per Cu site, which is the prediction of Fermi-liquid
+theory[82], or 8 holes per Cu site, as predicted in RVB and other highly
+correlated approaches to the normal state.[83] (Here 8 is the deviation
+from half-filling per Cu site.) This issue can become quite subtle when
+mass enhancement, which can depend strongly on filling (8), is included.
+Another fundamental question is the degree to which the infrared
+conductivity reflects the presence of low-energy charge or spin
+excitations, which may be directly or indirectly relevant to the
+superconducting mechanism. These issues are considered in the following
+discussion.
+
+#### iii.2.1 Infrared sum rules
+
+In Fig. 12 the integrated normal state (_a-b_)-plane conductivity at 100
+K is shown for fully-oxygenated (T_(c) 93 K) YBa2Cu3O7 and for an
+oxygen-deficient film sample with T_(c) 60 K. The units used are
+carriers per unit cell, _n_(_a_), where
+
+$$n(\omega) = \frac{2m_{b}}{\pi}\int_{0}^{\omega}\sigma(\omega^{\prime})d\omega^{\prime}\;.$$
+
+Note that the relevant mass m_(b) is the high-frequency optical mass,
+rather than the (enhanceable) low-frequency mass. In Fig. 12 we have
+arbitrarily chosen m_(b) to be the free-electron mass. [In our notation
+_n_(_o_) may be either an electron or hole density depending upon which
+of the above views of the normal state is most meaningful.] For fully
+oxygenated YBa2Cu3O7 (_T_ 93 K), the area contained in _s_(_o_) up to 10
+000 cm-1 corresponds to roughly one hole per unit cell (o_(p) 23 000
+cm-1), which is the value predicted by naive formal valence arguments.
+For the YBa2Cu3O7 T_(c) 60 K film (nominally x = 0.4), we get an area
+corresponding to about 0.5 holes per unit cell with the same (10 000
+cm-1) high-frequency cutoff.
+
+Attempting to analyze the variation of _n_(_o_) with x in YBa2Cu3O7-_x_
+is a formidable task with both theoretical and experimental
+uncertainties. The choice of optical mass is rather arbitrary, as is the
+high-frequency limit of integration, since there is no clear separation
+of the low-frequency conductivity from the large interband contributions
+at higher frequency. Variation of the oxygen content changes the
+coordination of the chain Cu, and presumably its valency as well,
+introducing further complexity (and disorder). As a consequence there is
+no Hubbard insulator at x = 0.5 to which deviations from a half-filled
+band could be reliably referred. (Pr or Nd doping at the Y site might
+provide a more controlled way in which to vary d.) Even at x = 0 (i.e.,
+O7), there is ambiguity associated with the distribution of holes
+between the chains and planes. Theoretical considerations originating
+from the point of view of a lightly-doped Hubbard insulator place all
+the holes on the planes, however, Tokura _et al._[81] have argued that
+the holes are divided between the chains and planes with 0.5 holes per
+chain Cu and 0.25 holes per plane Cu (for a total of one hole per unit
+cell) in YBa2Cu3O7. Very recent polarized infrared data[37] seem to be
+consistent with a very large fraction of holes on the chains ( 0.6 per
+Cu), and  0.2 holes per plane Cu (close to the value of d where
+La2-SrxCuO4 exhibits maximum T_(c)), although data extending to higher
+frequencies may be required to make this interpretation completely
+unambiguous.
+
+#### iii.2.2 Temperature dependence of the infrared and dc
+conductivities
+
+In Fig. 4(b), the conductivity exhibits a peak at low frequency. The
+growth of this peak as temperature is reduced is suggestive of the
+normal-state temperature dependence of _s__d higher than that at 250 K,
+for ω ≲ 300 cm⁻¹, and slightly lower in the range 300 ≲ ω ≲ 600 cm⁻¹.
+Because the excess area in the conductivity at 105 K exceeds the deficit
+in this restricted frequency range, this data suggests that conductivity
+changes extending to higher frequency are also occurring. The relevant
+question is, up to what frequency must we integrate σ₁(ω) so that the
+integral will be independent of temperature? This question is difficult
+to address directly because cumulative errors develop in integrating
+σ₁(ω), which are comparable to the small changes we are attempting to
+study. [The cumulative error has both numerical origins (noise related),
+and systematic origins associated with the fact that σ₁(ω) is obtained
+via a Kramers-Kronig transform.] A more robust way to consider the sum
+rule question is through a direct examination of the reflectivity. If
+the sum rule were satisfied within a fairly modest frequency range
+(e.g., of order several _kT_), then the reflectivity would not be
+significantly temperature dependent above that frequency range. The
+observation that the reflectivity is almost uniformly temperature
+dependent up to  ∼ 8000 cm⁻¹, indicates that one must integrate up to a
+frequency of that magnitude to satisfy the sum rule. In other words, the
+conductivity that is going into the temperature-dependent peak near
+ω = 0, appears to be coming from a very broad range of frequencies in
+the infrared, as previously reported.[31] Qualitatively, this behavior
+is typical of a frequency-dependent scattering model,[31] although the
+proper way to model the normal-state dynamics remains open, as discussed
+Sec. IV.1.3.
+
+#### Modeling the normal-state data
+
+The normal state (_a-b_)-plane conductivity of YBa2Cu3O7 has been
+previously interpreted in terms of two conceptually different models.
+Both models are attempts to deal with the observation that the infrared
+conductivity does not diminish with frequency as rapidly as one expects
+for a simple weak-coupling Drude picture [i.e., σ₁(ω) ∝ 1/ω²]. Instead
+there is a very broad background conductivity, which persists throughout
+the infrared as seen in Fig. 3(a). Both models also implicitly assume
+that this background conductivity is associated with the CuO2 planes. It
+is also possible that some of this background conductivity may not be
+intrinsic to the planes, but may instead be associated with the presence
+of chains or extrinsic loss mechanisms. To study the normal-state
+dynamics in the infrared, one measures reflectivity (over a wide
+frequency range), and Kramers-Kronig transforms that data to obtain
+conductivity as a function of ω. One approach to the cuprate data has
+been to divide the conductivity into two parts, one associated with a
+mid-infrared mode and the other with the free carriers.[29] Another has
+been to describe the low-frequency dynamics in terms of a strongly
+frequency-dependent scattering rate.[30, 31] These two formulations are
+not mutually exclusive. The division of σ(ω) into two parts is certainly
+necessary above 1.5 eV, and may be relevant near  ∼ 1 or  ∼ 0.5 eV (4000
+cm⁻¹). At the same time the scattering rate for the Drude term must have
+a frequency dependence at lower ω corresponding to the T dependence of
+ρ_(dis).
+
+(a) _Spin-interaction picture._ In one version of the
+frequency-dependent scattering approach, essentially all of the
+conductivity below about 8000 cm⁻¹ ( ∼ 1.5 eV) is accounted for within a
+single strongly coupled band. An interaction between the charge carriers
+and a spin-related excitation spectrum causes both the carrier mass and
+scattering rate to be strongly frequency (and temperature) dependent. In
+this picture, mass enhancement at low frequency is associated with a
+"spin-excitation cloud" which is dragged along by the carrier, while at
+high frequency (i.e., ω≳ the characteristic spin-excitation frequency)
+the carrier motion becomes too rapid for the spin excitations to follow,
+and thus the carriers shed their mass enhancement. The scattering rate
+increases correspondingly from a relatively low value at low ω, to a
+much higher one at high ω as the inelastic scattering process become
+energetically allowed. The conductivity that results from such strong
+inelastic scattering exhibits a coherent peak at low frequencies, and a
+broad incoherent background extending to much higher frequency. Roughly
+speaking, the total area in the conductivity (coherent plus incoherent),
+divided by the area of the coherent peak alone, provides an approximate
+measure of the mass enhancement (m^(*)/m_(b) = 1 + λ) and, hence the
+coupling strength (λ). Based on this approach, coupling strengths of
+λ = 10 and λ ≃ 3 were originally reported for YBa2Cu3O7-_x_ (_x_  ≃ 0.3,
+T_(c) ≃ 50 − 70 K) and YBa2Cu3O7 (T_(c) ≃ 92 K), respectively.[30, 31]
+As discussed later the former value appears to have been overestimated;
+roughly similar values (near λ = 3) are now obtained for both the fully
+oxygenated (T_(c) = 92 K) and
+$T_{c} \simeq (50 - 60) - K samples with this approach.
+
+In a phenomenological approach similar to that pioneered by Sievers and co-workers[34, 35, 36] (to treat mass enhancement in heavy-Fermion and mixed-valence compounds), one can express the conductivity in terms of a frequency-dependent mass and scattering rate as[31]
+
+\[\sigma(\omega) = \frac{ne^{2}\tau^{\ast}(\omega)}{m^{\ast}(\omega)[1 - i\omega\tau^{\ast}(\omega)]}\ .\] (2)
+
+Here \(m^{\ast}(\omega) = m_{b}[1 + \lambda(\omega)\rbrack$ is the
+renormalized mass and 1/τ^(*)(ω) = 1/τ(ω)[1 + λ(ω)] is the renormalized
+scattering rate. In this generalized Drude form (also referred to as
+memory function formalism), the unrenormalized scattering rate, τ⁻¹(ω)
+and the coupling λ(ω) are related by causality through a Kramers-Kronig
+relation.
+
+Using the measured conductivity (real and imaginary parts) one can
+calculate the scattering rate and mass at each frequency with Eq. (2).
+In this calculation we use n/m_(b) = 6 × 10²¹ cm⁻³/m_(c) (which
+corresponds to about 1 hole per unit cell), based on the conductivity
+sums discussed earlier. The value of n/m_(b) sets the plasma frequency
+(ω_(p)² ∝ n/m_(b)) and is proportional to the total area in the
+free-carrier contribution to the conductivity. In Fig. 13 we show τ⁻¹(ω)
+and m^(*)/m_(b) = 1 + λ(ω) as a function of frequency for YBa2Cu3O7 at
+100 K as calculated from Eq. (2). The frequency dependence of τ⁻¹ is
+most rapid below about 1000 cm⁻¹ which roughly sets the frequency scale
+for the inelastic scattering spectrum. The low-frequency value of
+_l_(_o_) indicates an overall coupling strength of l   3, in agreement
+with the above estimate based on conductivity sum rules. A more detailed
+attempt to model the data from a spectral density a2_F_(_o_) is
+discussed in Ref. [31].
+
+Note that the coupling obtained from Eq. (2) is quite sensitive to the
+value of n /_m_b used, and thus will be inaccurate if there are
+contributions to _s_(_o_) in the frequency range of interest, that are
+not intrinsic to the CuO2 planes. If part of the conductivity below 10
+000 cm-1 is associated with interband or chain contributions, then the
+actual value of the coupling would be less than the value shown in Fig.
+13. For example, subtracting a chain contribution consistent with Ref.
+[37] from the total conductivity, one obtains n /_m_b   3 x 1021 cm-3.
+Using this value is Eq. (2), one then obtains a revised estimate for the
+low-frequency mass enhancement of about 2. The frequency content of the
+excitation spectrum to which the carriers couple is not dramatically
+changed. The scattering rate and mass enhancement as a function of
+frequency for this case are shown in Fig. 13 (dotted curves). This
+smaller coupling may in fact be more nearly representative of the
+intrinsic nature of the CuO2 planes. Initial work on Bi2Sr2CaCu2O8-,[87]
+which has no chains, is also interpretable in terms of a similarly
+modest value of l.
+
+In the earlier work of Sulewski _et al_.[21] and Thomas _et al_.,[30]
+similar approaches were applied to polycrystalline and reduced-_T_c
+YBa2Cu2O7-_x_ samples, respectively. In the latter case the coupling
+spectrum was very similar to that which we find for fully oxygenated
+YBa2Cu3O7, but a substantially larger mass enhancement, l   10, was
+originally reported in Ref. [30]. In that work a plasma frequency of  
+24 000 cm-1, i.e., n /_m_b = 6.0 x 1021 cm-3/_m_e, was used, which is
+about the same value we have used for our 93-K material. Since the area
+in the low-frequency (coherent) peak is much smaller in the
+oxygen-deficient samples, this leads to the much larger estimate for the
+coupling in their work. In our own work on oxygen-deficient samples with
+_T_c near 60 K, using the same limit of integration as for the 93-K
+material, we obtain lower values of n /_m_b, and estimates for l between
+about 3 and 5. In Fig. 13 we include t -1(_o_) and _l_(_o_) for the _T_c
+= 60-K film sample for which conductivity sums were given in Fig. 12.
+The inclusion of conductivity from higher frequencies in estimating n
+/_m_b could account for the higher estimate for l in the original work
+on oxygen-reduced YBa2Cu3O7-_x_.[30]
+
+In the strong-coupling approach to the conductivity discussed earlier,
+the characteristic frequency scale (_o_ <= 1000 cm-1) associated with
+the mass enhancement is considerably higher than that for the
+heavy-Fermion compounds (_o_ < 50 cm-1), while the magnitude of the
+coupling is much lower. This approach is presumed to describe an
+interaction between holes (or holons) and spin-related excitations (or
+spinons) associated with the Cu. Within this context one may consider
+various non-Fermi-liquid approaches,[83, 84, 85, 86] as well as more
+conventional heavy-Fermion approaches.[84, 85, 86] A detailed
+calculation of the quasiparticle residue in a _t_-_J_ model with Neel or
+an RVB order[90] shows a low-frequency mass enhancement of t /_J_, which
+occurs below a characteristic energy J, where J is the antiferromagnetic
+exchange energy. Values of t /_J_ of order 1-3 are not at all
+unreasonable,[91] however, they place the models in an intermediate
+range where calculations tend to be quite difficult. Although the
+formalism we have used here [Eq. (2)] is similar to that used for the
+heavy fermions, the result for the scattering rate appears to be
+fundamentally different. In particular, as we have reported previously,
+"the inelastic contribution to #/_t_ * is of order _kT_ + _t_o,
+suggesting a nearly localized Fermi liquid or that Y,Ba2Cu3O7 is at the
+edge of the regime in which a Fermi-liquid theory is well defined.[31]
+This linearity of 1/_t_ * in the frequency domain has a direct
+correspondence with the linearity of r versus T, and provides an early
+example of _apparently non-Fermi-liquid behavior_ in the normal state of
+a cuprate superconductor.
+
+(b) _Charge excitation picture._ As an alternative to the above
+approach, one can divide the normal-state conductivity into two distinct
+components: a narrow Drude (or free-carrier) peak at low frequency,
+which may be modified to allow for weak coupling to phonons (_l_ <=
+0.5), and a broad mid-infrared contribution or "mode". In
+
+Figure 13: (a) Frequency-dependent scattering rate and (b) mass
+enhancement derived from the (_a_-_b_)-plane conductivity data as
+described in the text, are shown for a _T_c   93-K (solid curve), and a
+_T_c   60-K (dashed curve) YBa2Cu3O7-_x_ film. The dotted curve shows
+the effect of subtracting off a chain contribution to the conductivity
+(based on Ref. [37]) before performing the frequency-dependent
+scattering analysis. An overall coupling strength of l   1 to 3 to a
+broad spectrum extending up to about 1000 cm−1 (n−l) is inferred from
+this approach to the infrared data.
+
+this weak-coupling approach the "mid-infrared conductivity" is defined
+to be the difference between a calculated "ordinary" free-carrier
+conductivity and the measured spectrum. In YBa₂Cu₃O₇ the conductivity
+decreases monotonically from ω = 0 up to above 10 000 cm⁻¹, thus the
+term mid-infrared "mode" may be misleading. Phenomenologically, the
+strong- and weak-coupling pictures are opposite endpoints on a
+continuous spectrum of models in which the coupling becomes
+progressively weaker as more and more of the infrared conductivity is
+ascribed to sources other than a single free-carrier band.
+
+A specific example of a decomposition of the YBa₂Cu₃O₇ (_a-b_)-plane
+conductivity into a free-carrier component and a background conductivity
+is shown in Fig. 14. The free-carrier conductivity is calculated from
+the Eliashberg equations as discussed by Bickers _et al._, [92] with a
+carrier density of n = 2.0 x 10² cm⁻², a renormalized elastic scattering
+rate of 150 cm⁻¹ and a coupling of λ = 0.5 to a (phonon) spectrum
+extending up to 500 cm⁻¹. The background conductivity is obtained by
+subtracting this free-carrier term from the measured conductivity. In
+the frequency range below 10 000 cm⁻¹ about $\frac{2}{3}$ of the
+conductivity is in this slowly varying background contribution, and
+about $\frac{1}{3}$ of the conductivity is in the free-carrier
+contribution. While this approach classifies the conductivity, it does
+not explain its origin. To do so one must attribute the background
+conductivity to a specific physical process, one proposal for which is a
+severly broadened charge-transfer excitation (of holes) from oxygen to
+copper. In this picture the conductivity reflects the presence of a
+low-lying charge excitation in the planes.
+
+As mentioned earlier, the presence of conductivity in the mid-infrared
+is closely related to the absence of a pronounced reflectivity minimum
+and the broadened nature of the plasma edge in the reflectivity.
+Electronic inhomogeneity, especially in the carrier density, can also
+contribute to the width of the plasma edge [i.e., the abruptness with
+which the reflectivity drops in the vicinity of the zero crossing of
+ϵ₁(ω)]. It has not been shown experimentally that this is a negligible
+effect, although for the fully oxygenated YBa₂Cu₃O₇ one expects a high
+degree of homogeneity. It is possible that a significant fraction of the
+mid-infrared conductivity in YBa₂Cu₃O₇ is chain related, as mentioned
+earlier.
+
+### Superconducting state
+
+In this section we examine the very unusual properties of YBa₂Cu₃O₇ in
+the superconducting state. We discuss the gaplike feature in σ₁(ω) at
+500 cm⁻¹ (≃ 8kT_(c)) which appears near T_(c), and show that the area
+missing from the conductivity due to this gap gives an accurate estimate
+of the low-temperature penetration depth. Unconventional aspects,
+including the temperature dependence, the large energy gap (2Δ_(a − b) =
+8kT_(c)), and possible evidence for fluctuation effects above T_(c) are
+discussed. The possibility of a second gap in the infrared spectra with
+a smaller, more conventional magnitude is also considered. We find no
+clear evidence for such a feature in either the (_a-b_)-plane
+reflectivity or conductivity. Experiments with the electric field
+polarized perpendicular to the planes do show evidence for a lower
+energy scale (∼ 3kT_(c)) in the superconducting state. Finally, we
+compare the YBa₂Cu₃O₇ reflectivity with similar data from the cubic
+oxide superconductor Ba_(1 − x)K_(x)BiO₃ (T_(c) ≃ 30 K). [70]
+Qualitatively, the infrared behavior of these two superconductors is
+strikingly similar. Applying the same analysis to both sets of data
+yields a conventional energy scale, 2Δ_(c) ≃ 4kT_(c), for
+Ba_(1 − x)K_(x)BiO₃, and the highly unconventional result 2Δ_(a − b) ≃
+8kT_(c) for the (_a-b_)-plane response of YBa₂Cu₃O₇.
+
+#### The characteristic energy 2Δ_(a − b) ≃ 8kT_(c)
+
+In the (_a-b_)-plane data from YBa₂Cu₃O₇, the enhancement of the
+low-frequency reflectivity for T < T_(c) [Fig. 5(a)] leads to a
+reflectivity ratio, R_(s) /R_(n), which is peaked at ≃ 500 cm⁻¹ (Fig.
+1). In both the absolute conductivity shown in Figs. 5 and 6, and the
+conductivity ratios σ_(s) /σ_(n) in Fig. 8, there is a corresponding
+threshold at approximately 500 cm⁻¹ above which the superconducting
+conductivity rises rapidly back to the normal-state value. From these
+observations we identify a characteristic energy scale of about 500 cm⁻¹
+(≃ 60 meV, ≃ 700 K, ≃ 8kT_(c))
+
+Figure 14: (a) Deconstruction of the measured normal-state conductivity
+at 105 K (solid line) into a weakly coupled (λ = 0.5) free-carrier part,
+peaked at ω = 0, and a background conductivity (dotted lines), which is
+the difference between the measured conductivity and the calculated
+free-carrier term, is shown. In (b) the measured normal- (solid line)
+and superconducting-state (dashed line) conductivities are shown along
+with the background conductivity from (a) (dotted line). Note that this
+background conductivity looks different from σ_(1s)(ω) in that it
+approaches σ_(1s)(ω) very gradually at high frequency.
+
+for this gaplike feature. The detailed temperature dependence shown in
+Figs. 6 and 7 clearly associates this feature with the superconducting
+state.
+
+A simple way in which to view σ_(1s)(ω) is as the superposition of a
+free-carrier conductivity spectrum with a gap at 500 cm⁻¹, and a roughly
+constant background conductivity at a level of about 1200 Ω⁻¹ cm⁻¹. The
+reproducibility of the data suggests that much of this background
+conductivity is intrinsic to the bulk material, however, the possibility
+of some extrinsic absorption due to impurity phases or imperfections
+near the surface can never be completely ruled out. Assuming that this
+background conductivity is intrinsic, _one possible source is the b-axis
+chains in YBa₂Cu₃O₇_, which may contribute to the infrared conductivity
+if there are mobile, or not too strongly localized holes, on the chains.
+A recent polarized measurement of an untwinned crystal has reported a
+chain conductivity which is roughly constant at about 1300 Ω⁻¹ cm⁻¹ for
+ω ∼ 2000 cm⁻¹.[37] This is potentially sufficient to account for the
+finite value of σ_(1s)(ω) below the 500 cm⁻¹ gap. The question of how
+such a chain contribution would appear in a twinned crystal has not been
+worked out in detail, although presumably some sort of averaging
+(possibly utilizing an effective medium theory) should provide a
+reasonable approximation. As discussed in detail later, it is very
+difficult to tell from the infrared measurement if there is, in fact, an
+additional gap at a lower frequency in this background conductivity.
+Within the present context this would correspond to a smaller gap on the
+chains [which may be suggested by some nuclear quadrupole resonance
+(NQR) experiments[46, 69]].
+
+Another possible source of finite absorptivity below 500 cm⁻¹ is an
+anisotropy of the energy gap in k space, as suggested by the _c_-axis
+measurements (Sec. III.5). While it is conceptually convenient to assume
+that measurements made with the electric field parallel to the planes
+are only sensitive to those points in k space which lie within the
+plane, this is only true when the penetration depth is much shorter than
+the mean-free path.[93] In the _a_-_b_ plane of YBa₂Cu₃O₇ the
+penetration depth is large, hence the dynamics are closer to the local
+limit in which scattering will mix, to some extent, contributions from
+all directions in k space into the (_a_-_b_)-plane response. In this
+case, the conductivity should be strictly zero only below the smallest
+gap in the system (possibly the _c_-axis gap, as discussed in Sec.
+III.5). It is difficult to estimate the extent of this mixing in such a
+complex and poorly understood system as YBa₂Cu₃O₇. Schneider[94] has
+discussed this point on the basis of a specific model for a highly
+anisotropic superconductor.
+
+As discussed in Sec. III.2 and in Sec. IV.2.2 there is too much
+uncertainty in σ_(1s)(ω) at low frequency to determine whether the
+conductivity actually becomes identically zero below some finite
+frequency. In principle, this seems to leave open the possibility of an
+unconventional pairing symmetry with modes in the (a-b)-plane gap,
+(e.g., _d_-wave pairing), however, the abruptness of the threshold in
+σ_(1s)(ω) at ≃ 500 cm⁻¹ (Figs. 6 and 8), and of the drop in R_(s) /R_(s)
+(Fig. 1), are both highly suggestive of an _s_-wave gap. Additionally,
+the lack of temperature dependence in the infrared data for T < 50 K
+seems inconsistent with the existence of excitations to arbitrarily low
+energy. This lack of temperature dependence in the infrared data is
+consistent with the reported temperature independence of the penetration
+depth[45, 46] in the same range, which has also been interpreted as
+evidence for _s_-wave pairing symmetry. In view of these results, it
+seems highly unlikely that the finite conductivity below 500 cm⁻¹ is
+associated with a pairing function with nodes in the _a_-_b_ plane.
+
+#### iv.2.2 Possible evidence for a BCS gap (2Δ ≃ 3.5kT_c)
+
+An interpretation of infrared data from oxygen-deficient crystals in
+terms of an energy gap of conventional magnitude (2Δ ≃ 3.5_k_T_c), based
+on the criterion of 100
+
+In Fig. 9(b) we have shown the reflectivities in the superconducting
+state for crystal No. 1,[36] our epitaxial film, and the film data of
+Schutzman _et al.[35]_ These measurements all probe the (_a_-_b_)-plane
+response of fully oxygenated (T_(c) ∼ 90 K) YBa₂Cu₃O₇, and show that
+very similar results are obtained with crystals and films, even in
+different laboratories. Below ω ∼ 150 cm⁻¹ these data show a
+reflectivity between about 99.5
+
+This discussion illustrates how difficult it is to resolve issues
+centered on the existence of perfect reflectivity at low frequency.
+[Problems associated with establishing a region in which σ_(1s)(ω) = 0
+at low ω are even more severe, as discussed in Sec. III.2.] In any
+event, we are unable to find evidence for a 3.5_k_T_c energy scale in
+either the absolute reflectivities or the reflectivity ratios for the
+_a_-_b_ plane of YBa₂Cu₃O₇.
+
+#### iii.2.3 The penetration depth and the infrared conductivity
+
+On quite general grounds, one expects that the area that is missing from
+the conductivity due to the formation of the superconducting gap (Fig.
+15) will appear in a δ function at ω = 0. The δ function, rather than
+the gap itself, is the truly unique and essential feature of the
+superconducting state. The area in this δ function (_A_) controls the
+low-frequency electromagnetic penetration depth, thus the validity of
+our infrared data can be tested by using it to calculate the penetration
+depth at low temperature. In terms of the infrared conductivity the
+penetration depth is given by,
+
+$$\lambda = c/\sqrt{8\,A}\ \ ,$$
+
+where
+
+A = ∫(σ_(1n) − σ_(1s))dω .
+
+In the clean limit (_1/= _ all of the free-carrier conductivity
+collapses into the δ function, in which case A = πe²n/2m_(b) = ω₂²/8,
+and Eq. (3) reduces to the familiar London result, λ = c/ω_(p). For
+finite _1/ξ_ the penetration depth tends to be larger than this limiting
+value and one can write A = πe²n_(s)/2m_(b), where n_(s) < n is the
+superfluid density. In general, one can calculate A, and hence λ, from
+the data without making any assumptions about cleanliness or even the
+specific model of the superconducting state. To calculate A in this
+general way we use σ_(1s)(ω) at 45 K, and the conductivity at T = 105 K
+for σ_(1n)(ω). Below 150 cm¹ we extrapolate σ_(1s)(ω) to ω = 0 as a
+constant, however, this extrapolation [compared to setting σ_(1s)(ω) = 0
+below 150 cm⁻¹] makes less than 10
+
+In the same manner, the _c_-axis conductivities in Fig. 10(b) can be
+used to estimate the strength of the δ function for the out-of-plane
+direction. For the c axis, a result corresponding to the formal value
+λ ≃ 1μm is thus obtained.
+
+#### iii.2.4 Temperature dependence and fluctuation effects
+
+Although Figs. 5−7 clearly demonstrate that the 8_kT__c_ feature in the
+_a-b_ plane is associated with the superconducting state, several
+aspects of this temperature dependence are unusual and warrant further
+consideration. In Fig. 6, the amplitude of the conductivity at low
+frequency drops rapidly below T_(c), but it seems that the
+characteristic energy scale over which the conductivity is depressed is
+rather insensitive to temperature, as illustrated in Fig. 8(b). For
+example, the depression of the conductivity at 80 K has virtually the
+same energy range (ω ≲ 500 cm⁻¹) as seen deep in the superconducting
+state. This is also apparent in the reflectivity ratios (R_(s)/R_(n)) in
+Fig. 7, in which the frequency of the minimum in R_(s)/R_(n) remains
+nearly constant as T approaches T_(c). This data strongly suggests an
+order parameter which opens much more rapidly below T_(c) than in
+mean-field theory. Other evidence for this point of view can be found in
+the specific-heat jump which is narrower and drops much more rapidly
+below T_(c) than mean-field theory would predict.[42]−[44] Rapid
+development of the real part of the energy gap may also be tied to the
+absence of an Hebel-Slichter peak below T_(c) in NQR (Refs. 63−69) and
+microwave absorption measurements (Refs. 96 and 97).
+
+The size of our (_a-b_)-plane pair breaking energy (8_kT__c_) is roughly
+twice the BCS prediction (3.5_kT__c_). Given this observation, rapid
+development of order below T_(c) does not seem unreasonable. In
+principle, extremely strong coupling could account for an unusually
+large reduced gap, but, as discussed in Sec. IV.2.5 strong modification
+of the density of states above 2Δ (which should be easily observed if
+such strong coupling occurs) is not apparent in our data.
+Short-range-order and fluctuation effects can also suppress T_(c)
+relative to mean field, particularly in systems with an extremely short
+coherence length or lower dimensionality. If short-range order begins to
+grow well above T_(c), the local order parameter (which is at least in
+part responsible for setting the energy scale we see in the infrared)
+could already be well developed at T_(c) even in the absence of
+long-range order. Evidence for superconducting fluctuations extending to
+temperatures as high as 2_T__c_ has been reported in
+resistivity,[98]−[100] specific-heat,[101]
+
+Figure 15: (a) The (_a-b_)-plane conductivity of YBa₂Cu₃O₇ in the normal
+state (105 K) and superconducting state (45 K) are shown. The missing
+area in the superconducting state, shown by the shaded region, provides
+an estimate for the (_a-b_)-plane penetration depth of
+$c/\sqrt{8\,A} = 1700$ Å.
+
+and susceptibility [102] studies of YBa₂Cu₃O₇. However, in most cases
+these fluctuations have been discussed within the Aslamazov-Larkin
+formulation and its variations, which are based on fluctuations about
+mean-field behavior and are not expected to provide an appropriate
+description of the large-scale-fluctuation effects which would be
+necessary to strongly suppress T_(c). As noted in Sec. II, the
+conductivity ratios in Fig. 8 may also provide some evidence for
+fluctuation effects above T_(c). In the 105-K ratio there is a small
+minimum near 500 cm⁻¹ that is reminiscent of the large gap which
+develops in the superconducting state. This could be taken as evidence
+for local order at temperatures above T_(c), however, it is somewhat
+difficult to distinguish this feature from the temperature dependence
+that occurs in the normal state, associated with the linear resistivity
+and consequent narrowing of the conductivity peak. This difficulty is
+due to the fact that characteristic frequencies of the normal and
+superconducting state changes are very similar ( ≃ 500 cm⁻¹). One can
+speculate that this similarity of energy scales is not merely a
+coincidence, but rather a fundamental feature of the layered
+copper-oxide superconductors.
+
+#### iii.2.5 Possible Holstein interpretation
+
+As shown by the temperature dependence in Figs. 6 and 7, the
+phenomenology of the 500-cm⁻¹ feature is intimately connected with the
+transition to superconductivity is fully oxygenated YBa₂Cu₃O₇. Because
+of this correlation with superconductivity, it is natural to associate
+this absorption threshold with some sort of pair-breaking excitation
+with a characteristic energy of 500 cm⁻¹. In principle, another
+possibility is that the 500-cm⁻¹ feature is associated with a
+higher-order process, involving the simultaneous breaking of a
+superconducting pair and emission of an intermediate excitation. In a
+conventional superconductor this is referred to as a Holstein process
+and the emitted boson is a phonon. [6-8] In this section we consider the
+possibility that the 500-cm⁻¹ feature which is prominent in the infrared
+data could be associated with such a Holstein process. To investigate
+this possibility we have used a generalized Eliashberg theory, allowing
+for finite mean-free path and coherence length. [92] The Eliashberg
+equations are solved at the Matsubara points along an imaginary
+frequency axis, and continued to the real axis by Pade approximates to
+obtain σ(ω). Inputs to the calculation include carrier density, elastic
+scattering rate, temperature, and the fluctuation spectrum, α²F(ω).
+Describing the 500-cm⁻¹ feature as a Holstein effect requires a
+fluctuation spectrum peaked at about 300 cm⁻¹ with a total coupling
+strength of λ ≃ 1.5. This coupling spectrum implies a T_(c) of about 80
+K, thus this interpretation of the infrared data would lead to a fairly
+complete phenomenology of the superconducting mechanism. One of the
+problems with this approach is that it predicts a superconducting gap at
+about 200 cm⁻¹ which is not seen in the data. In addition, the fit to
+the infrared data between 400 and 1400 cm⁻¹ is not very good despite the
+wide range of parameters available, and the temperature dependencies
+implied by this model in both the normal and superconducting state for
+σ(ω) and $\sigma_{\rm dc}$ are also not easily reconciled with measured
+values. These problems suggest that describing the 500-cm⁻¹ feature as a
+Holstein step is not a meaningful way in which to view the infrared
+data.
+
+The association of the 500-cm⁻¹ feature with an elementary pair
+excitation seems to be more consistent with the data. Within this
+context one can consider the question of whether there are Holstein-like
+structures above this 500-cm⁻¹ gap. Using the Eliashberg equations,
+again as formulated by Bickers _et al._, [92] this approach does not
+lead to a self-consistent solution with T_(c)≤ 100 K. If we do not
+constrain T_(c), then a class of solutions consistent with the infrared
+data can be found. In these solutions, weak coupling to a high-frequency
+excitation is used as a formal device to generate the large gap. This,
+in turn, leads to T_(c)≃ 200 K. Below ω≲ 500 cm⁻¹ a coupling of about λ≃
+0.5 is required to obtain a reasonable fit to the infrared data (e.g.,
+σ_(s)/σ_(n)); however, any attempt to increase the coupling in the
+low-frequency range (e.g., ω≲ 1500 cm⁻¹) beyond this amount, leads to
+prominent features in the calculated spectra above 500 cm⁻¹ that are not
+observed experimentally. The absence of these features in the infrared
+data may be interpreted as evidence against a conventional
+Eliashberg-like strong-coupling picture for the mechanism of
+superconductivity in YBa₂Cu₃O₇.
+
+#### iii.2.6 Comparison with other techniques
+
+In studies of conventional superconductors, tunneling has generally been
+the technique which provided the most reliable information about the gap
+and coupling spectrum. [8] The high-temperature Cu-O superconductors
+have not yielded as easily to this technique [48-54] as many of the
+lower-T_(c) materials did. It has been suggested that the short
+coherence length intrinsically limits the ability of tunneling to probe
+the bulk properties of the high-T_(c) oxide superconductors. [47]
+Difficulties in producing an intrinsic surface at the junction interface
+may also add to these problems. In most of these studies, the surface of
+the superconductor acts as the insulating barrier in the measurements.
+Although tunnel junctions exhibiting ideal behavior have yet to be
+prepared from the Cu-O superconductors, gaplike features appearing at
+the superconducting transition are seen in many of the tunneling
+studies. The energy scales extracted from these measurements cover a
+fairly wide range but seem to be centered near 5−6kT_(c) for YBa₂Cu₃O₇.
+[48-54] This is smaller than the 7−8kT_(c) value obtained from the
+infrared measurements. In some tunneling studies corrections are made to
+account for a lower T_(c) at the junction surface than in the bulk of
+the material. These corrections tend to increase the estimates for
+2Δ/kT_(c), bringing them more in line with the infrared value.
+Anisotropy in the gap parallel and perpendicular to the planes has been
+reported by Tsai _et al._[49] who finds an in-plane of 6kT_(c) and an
+out-of-plane gap of 3.5 kT_(c). This anisotropy ratio (2:1) is roughly
+consistent with our infrared observations. [36] Given the presence of
+this large anisotropy, some of the quantitative differences between
+tunneling and infrared could reflect the different way in which these
+probes average over the Fermi surface of an anisotropic superconductor.
+Kirtley[54] has recently proposed an interpretation of tunneling data in
+terms of gap anisotropy which is consistent with the (_a_-_b_)-plane and
+_c_-axis energy scales we find in the infrared. Also of interest is the
+recent report by Geerk _et al.[53]_ in which the energy scale in the
+superconducting state shows very little temperature dependence as T
+approaches T (similar to our infrared results), although it should be
+pointed out that another group has reported a BCS temperature dependence
+in tunneling.[48]
+
+Because of the large energy scales involved and improvements in
+resolution, the high-_T_c cuprates are the first superconductors in
+which the energy gap is accessible to photoelectron spectroscopy. This
+technique is complementary to infrared in that it probes the
+single-particle density of states (which is gapped at D), rather than
+the conductivity (which is gapped at the pair-excitation threshold, 2D).
+Recent measurements of Bi₂Sr₂CaCu₂O_(8 − y) show a peak in the
+photoemission intensity and a corresponding shift of the photoemission
+threshold below _T_c, from which a superconducting energy gap of 2D =
+8_kT_c is inferred.[55, 56, 57] These photoemission results confirm the
+importance of the 2D_(Δ − b) ≈ 8_kT_c energy scale originally inferred
+from infrared measurements of the _a_-_b_ plane of high-quality
+YBa₂Cu₃O₇ crystals.[25, 28, 35, 36, 32] The agreement between careful
+photo-emission and infrared measurements also appears to disprove the
+assertion that the gap cannot be seen in the infrared because of extreme
+cleanliness (see Appendix B).
+
+Additional evidence for a redistribution of the electronic density of
+states at the superconducting transition is found in Raman-scattering
+experiments on both YBa₂Cu₃O₇ and Bi₂Sr₂CaCu₂O_(8 − y).[38, 39, 40, 41,
+42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59,
+60, 61, 62] At _T_c the electronic continuum scattering observed in
+these materials is depressed at low frequencies and develops a peak at
+higher frequency (near 400-500 cm⁻¹). If the high-frequency peak is
+interpreted as arising from excitations across the gap, a
+superconducting energy scale of about 7-8_kT_c is inferred. These
+studies also report a continuum scattering below the peak in the
+superconducting state, which would not be expected in a conventional BCS
+superconductor.
+
+A number of authors have reported estimates for the energy gap based on
+measurements of low-energy electromagnetic or thermodynamic properties.
+These properties, which include specific heat, nuclear relaxation,
+microwave absorption, and penetration depth, depend on the gap primarily
+through their dependence on the quasiparticle density at finite
+temperature in the superconducting state. Gap estimates from these
+quantities differ fundamentally from those of spectroscopic probes, in
+that they rely on theoretical fit to the temperature dependence of the
+data, rather than direct observation of quasiparticle excitations. Both
+Loram and Mirza[42] and Junod _et al.[43, 44]_ have noted that the
+specific-heat peak associated with the transition to superconductivity
+in YBa₂Cu₃O₇ is substantially narrower than the BCS result, and that the
+peak height is very large. These observations suggest a rate of decrease
+of entropy below _T_c that far exceeds that in a mean-field (BCS)
+theory. Loram and Mirza[42] have shown that the width of this peak, and
+the drop in the electronic specific heat below the peak, can be fit
+using a gap of roughly twice the BCS value (i.e., ∼7_kT_c). In
+oxygen-reduced YBa₂Cu₃O_(7 − x) samples the specific-heat jump at _T_c
+becomes difficult to observe or disappears completely.[44]
+
+The study of nuclear resonance and the nuclear quadrupole relaxation
+rates has been one of the most intriguing and enigmatic subfields in
+high-_T_c superconductivity.[63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73,
+74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91,
+92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107,
+108, 109, 111, reproducibility of the absolute reflectivity has not yet
+been obtained to our satisfaction, however, the reflectivity ratio,
+R_(c)/R_(n) shows a maximum at about 450 cm⁻¹. This result is analogous
+to our original result from YBa₂Cu₃O₇, and can be used to infer a
+characteristic energy scale of 2Δ_(a − b) ≃ 8kT_(c) for
+Bi₃Sr₂CaCu₂O_(8 − γ). The steplike drops in reflectivity at about 300
+and 500 cm⁻¹ reported by Reedyk _et al._[87] are present in some of our
+spectra. An analysis of the temperature dependence of these features
+suggests that they may not be associated with the part of the sample
+which is metallic in the normal state and superconducting below T_(c).
+
+## V Conclusion
+
+In this article our efforts to probe fundamental properties of the
+high-T_(c) cuprate superconductors by studying the temperature and
+frequency dependence of the infrared conductivity of YBa₂Cu₃O_(7 − x)
+are described. Although it is tempting to vary x and thus study this
+system over a wide range of parameter space, potential problems with
+electronic inhomogeneity, structural disorder, and reproducibility have
+discouraged us from emphasizing such an approach. Instead we have
+concentrated primarily on the reproducible properties of the
+stoichiometric high-T_(c) superconductor, YBa₂Cu₃O₇. While this limits
+the potential scope of our conclusions, it increases our confidence in
+the intrinsic value of the results.
+
+We have reviewed what is known of the infrared properties of YBa₂Cu₃O₇,
+presented measurements of anisotropy both above and below T_(c), and
+discussed possible implications of the normal-state data. Our analysis
+of the normal-state conductivity at low frequency leads to a
+frequency-dependent scattering rate of order kT + ℏω, which may arise
+from an interaction of the carriers with a spin-related spectrum. As we
+have previously pointed out,[31] "the inelastic contribution to
+ℏ/τ^(*) − 1(ω) is of order kT + ℏω, suggesting a nearly localized Fermi
+liquid, or that YBa₂Cu₃O₇ is at the edge of the regime in which a
+Fermi-liquid theory is well defined."[31] In the superconducting state,
+the salient feature of the infrared data appears to be the large energy
+gap observed in the (a-b)-plane response. Detailed temperature-dependent
+measurements establish a clear connection between this 500 cm⁻¹ feature
+and the superconducting state (Figs. 6-8). At low temperature the data
+strongly suggests that this is the _intrinsic superconducting energy gap
+associated with the CuO₂ planes_. At finite temperatures unconventional
+or even exotic aspects of this gap feature emerge: (i) the transition to
+a nonsuperconducting state occurs at a temperature less than half that
+expected in mean-field theory, hence 2Δ_(a − b) ≃ 8kT_(c), (ii) the
+energy of the gap seems to remain large up to as close to T_(c) as we
+can measure reliably, and (iii) evidence for possible fluctuations
+toward this gap may be present slightly (∼ 10 K) above T_(c). An
+understanding of these unusual phenomena may play a significant role in
+elucidating the underlying physics of the novel layered Cu-O
+superconductors.
+
+###### Acknowledgements.
+
+The authors acknowledge stimulating conversations with P. W. Anderson,
+N. E. Bickers, P. Coleman, H. Fukuyama, R. L. Greene, G. Gruner, P. M.
+Horn, J. R. Kirtley, K. Kitazawa, H. R. Krishnamurthy, A. P. Malozemoff,
+P. A. Lee, A. J. Millis, D. M. Newns, J. Orenstein, P. Pattnaik, K. F.
+Renk, T. M. Rice, D. J. Scalapino, A. J. Sievers, J. C. Soo, S. Tajima,
+and G. A. Thomas. Valuable technical assistance was received from J.
+Calise, G. Komsa, J. Sosik, R. Ruggiero, D. de Laura, and A. Davidson
+(Infrared Laboratories). We also thank K. F. Renk and J. Shutzmann for
+sharing their data and discussing their unpublished work on YBa₂Cu₃O₇
+films.
+
+## Appendix A
+
+It has been proposed that the 500-cm⁻¹ gap which is prominent in the
+superconducting state is actually normal-state feature, which simply
+becomes exposed at low temperature in the superconducting state.[75]
+Intrinsic to this suggestion is the belief that the conductivity is
+composed of a low-frequency Drude part, which collapses into a δ
+function at the superconducting transition, and a sequence of
+mid-infrared modes that account for the remaining conductivity. For the
+purpose of examining this proposal we adopt this point of view, which
+was previously considered in Sec. IV.1, where such a deconstruction of
+σ_(1n)(ω) into such Drude and non-Drude parts was shown in Fig. 14.
+
+Collapsing the entire Drude part of the conductivity into a δ function
+at the origin leaves the conductivity shown by the dotted curve in Figs.
+14(a) and 14(b). It is this non-Drude part of the conductivity that is
+supposed to exhibit the 500-cm⁻¹ gap in this approach. A fundamental
+problem with trying to construct the superconducting-state conductivity
+in this way is that the model conductivity (dotted curve) invariably
+returns to σ_(1n)(ω) much more slowly than the data, shown by the dashed
+curve in Fig. 14(b). [The rapid return of σ_(1s)(ω) to σ_(1n)(ω) at
+∼ 900 cm⁻¹ is completely reproducible both in our data and that of
+Shutzman _et al._[33].] This is the case with every (∼ 50) parameter
+choice that we have tried. In order to generate a background
+conductivity that returned to σ_(1n)(ω) appropriately, one would require
+a Drude conductivity that vanishes abruptly between 500 and 800 cm⁻¹.
+This is not possible for any choice of parameters and presumably
+violates causality. As a related technical point, we further note that
+the observation that ϵ_(1s)(ω) crosses above ϵ_(1n)(ω) at about 550 cm⁻¹
+[Fig. 5(c)] cannot be reproduced in a model that collapses the entire
+Drude part of σ_(1n)(ω) into a δ function.
+
+In summary, collapsing all of the free-carrier conductivity into the δ
+function would cause changes in σ₁(ω) to occur at much higher frequency
+seen in the data. One is therefore forced by the data to leave the
+conductivity above 500 cm⁻¹ substantially unchanged, while collapsing
+most of the lower-frequency conductivity into a δ function at ω = 0
+below T_(c). This is the signature of a superconducting energy gap.
+
+## Appendix B
+
+As shown, for example, in Figs. 6 and 8, the superconducting-state
+conductivity exhibits a threshold (rapid onset of absorption) at about
+500 cm⁻¹. It is quite natural to associate this 500-cm⁻¹ threshold with
+a superconducting energy gap in the free-carrier conductivity. It has
+been suggested that YBa₂Cu₃O₇ is so clean, however, that one should not
+be able to see this energy gap in an infrared measurement. This is
+ultimately a quantitative rather than a qualitative question [the gap
+does not disappear abruptly as one passes from dirty (l/ξ₀ < 1) to clean
+(l/ξ₀ > 1).] In this Appendix we discuss both the assessment of the
+degree of cleanliness of YBa₂Cu₃O₇, and the question of whether or not
+one should see a gap. This discussion, if necessity, predicated on the
+assumption that the low-frequency normal-state conductivity of YBa₂Cu₃O₇
+can be described in a more or less conventional way, which may not be
+justified. While we have taken the space to respond to this issue here,
+it is fair to say that we feel more comfortable describing what the data
+does show (see, e.g., Figs. 5−8), rather than arguing about what one
+should be able to see.
+
+The clean limit is usually defined by the inequality l > ξ, where l is
+the mean-free path and ξ is the coherence length. An equivalent
+definition in terms of characteristic frequencies instead of lengths is
+πΔτ^(•) ≫  1, where 2Δ is the superconducting energy gap and τ^(•) ⁻¹ is
+the (renormalized) low-frequency scattering rate [i.e., the width of the
+(Drude) conductivity peak at low ω]. In the following calculations we
+have used the Eliashberg equations[92] with a fixed normal-state carrier
+density and superconducting energy gap. We have varied the scattering
+rate, τ^(•) ⁻¹, and calculated the conductivity in the normal and
+superconducting state.
+
+In examining this issue we have found that the degree of cleanliness, as
+quantified by l/ξ₀ or πΔτ^(•), is not really the correct measure of how
+difficult it is to see the gap in this model. Although it is true that
+for fixed 2Δ the gap becomes increasingly more difficult to see as τ^(•)
+decreases, it is not true that for fixed τ^(•) ⁻¹ that the gap becomes
+more difficult to observe as 2Δ increases. This is a consequence of the
+fact that the noise in σ₁(ω) grows like 1/ω² in a clean system, thus
+offsetting the corresponding 1/ω² increase in σ₁(ω). One thus finds that
+in a system with a uniform level of noise in the reflectivity, that the
+level to which that noise must be reduced in order see the gap is
+independent of the magnitude of 2Δ. In fact the parameter that
+determines how difficult it is to see the gap is τ^(•) ⁻¹/ω_(p). This
+result becomes intuitively obvious when one realizes that in a clean
+system the difference between the reflectivity and unity is proportional
+to τ^(•) ⁻¹/ω_(p) and independent of frequency. In the following we
+continue to examine the question of how clean YBa₂Cu₃O₇ is and whether
+or not one should be able to see the gap; however, it is noted that the
+mathematics surrounding this issue are a bit more complicated than the
+statement that "in a clean superconductor you can’t see the gap" would
+lead one to believe.
+
+For a superconductor in the extreme clean limit 2Δ is much much greater
+than τ^(•) ⁻¹. In this case, which is shown in Fig. 16(a), virtually all
+of the area in σ₁(ω) goes into the δ function at ω = 0 in the
+superconducting state. The magnitude of σ₁(ω) at 2Δ is so small that the
+gap may not be readily observable. In the moderately clean case most of
+the area in σ₁(ω) still goes into the δ function, however, there is now
+sufficient conductivity at ω = 2Δ to make the gap observable as shown in
+Fig. 16(b). In the dirty limit, shown in Fig. 16(c), the conductivity is
+essentially constant from dc up to 2Δ, and only a small fraction of the
+total area in σ₁(ω) goes into the δ function at ω = 0. In this case
+[Fig. 16(c)] the superfluid density is much smaller, and the penetration
+depth much larger than in either of the clean cases [Figs. 16(a) and
+16(b)] (even though the normal-state carrier density is the same for all
+three cases). As an aside, we note that while conductivity sum-rule
+related arguments can be used to separate the dirty and clean limits,
+they will not generally allow a distinction to be made between the
+extremely and moderately clean cases [Figs. 16(a) and 16(b)].
+
+In YBa₂Cu₃O₇ characteristic features of the supercon
+
+Figure 16: Calculated conductivities of a model superconductor for
+several values of the scattering rate τ^(•) ⁻¹ are shown. Note that
+τ^(•) ⁻¹ is the width of peak in σ_(1n)(ω) (solid lines), and that
+πΔτ^(•) = l/ξ₀ in a conventional superconductor. The total area in
+σ_(1n)(ω) and the gap (2Δ = 500 cm⁻¹) are the same in each case, while
+τ^(•) ⁻¹ is varied as shown. Near T_(c), YBa₂Cu₃O₇ falls into the
+intermediate (moderately clean) case, shown in (b), although it should
+be noted that the normal-state conductivity does not actually follow a
+Drude form.
+
+ducting state are fully developed by 50 K and are well developed even at
+temperatures as high as 80 K (Fig. 6). In this temperature range near
+T_(c), we use the normal-state conductivity just above T_(c) to estimate
+approximately how "clean" YBa₂Cu₃O₇ is. The width of the conductivity
+peak is about 150 cm⁻¹ at T = 100 K, thus for a 500-cm⁻¹ gap one obtains
+πΔτ^(*) ≃ 5, which corresponds to Fig. 16(b). Looking in more detail,
+with a dc conductivity of 20 000 (Ω⁻¹ cm⁻¹) (i.e., ρ = 50μΩ cm), this
+implies a conductivity of about 2000 (Ω⁻¹ cm⁻¹ at 500 cm⁻¹ ( ∼ 8kT_(c)),
+which is clearly adequate to see the gap (see, e.g., Fig. 6). These
+values indicate that at T ≃ 100 K the conductivity of YBa₂Cu₃O₇ is
+consistent with the intermediate case [Fig 16(b)], in which there is
+sufficient conductivity at 2Δ to observe a gap in σ₁(ω).
+
+Some of the claims that YBa₂Cu₃O₇ is too clean to see the gap are based
+on hypothetical extrapolations of the normal-state data to T = 0. These
+extrapolations are quite speculative and should be examined closely,
+especially since they lead to results that seem to contradict the
+infrared data at intermediate temperatures (e.g., 50 K), where, as noted
+above, the 500-cm⁻¹ gap is quite well developed.
+
+## References
+
+* [1] R. E. Glover and M. Tinkham, Phys. Rev. **104**, 844 (1956);
+**108**, 243 (1957). * [2] I. Glaver, Phys. Rev. Lett. **5**, 464
+(1960). * [3] D. M. Ginsberg and M. Tinkham, Phys. Rev. **118**, 990
+(1960). * [4] P. L. Richards and M. Tinkham, Phys. Rev. **119**, 575
+(1960). * [5] M. Tinkham, in _Far Infrared Properties of Solids_, edited
+by S. Mitra and S. Nudelman (Plenum, New York, 1970). * [6] R. R. Joyce
+and P. L. Richards, Phys. Rev. Lett. **24**, 1007 (1970). * [7] G.
+Brandli and A. J. Sievers, Phys. Rev. B **5**, 3550 (1972). * [8] W. L.
+McMillan and J. M. Rowell, in _Superconductivity_, edited by R. D. Parks
+(Marcel-Dekker, New York, 1969). * [9] J. G. Bednorz, and K. A. Muller,
+Z. Phys. B **64**, 189 (1986). * [10] M. K. Wu, J. Ashburn, C. J. Torng,
+P. H. Hor, R. L. Meng, L. Gao, Z. J. Huang, Y. Q. Wang, and C. W. Chu,
+Phys. Rev. Lett. **58**, 908 (1987). * [11] P. E. Sulewski, A. J.
+Sievers, R. A. Buhrman, J. M. Tarascon, and L. H. Greene, Phys. Rev. B
+**35**, 5330 (1987). * [12] Z. Schlesinger, R. L. Greene, J. G. Bednorz,
+and K. A. Muller, Phys. Rev. B **35**, 5334 (1987). * [13] U. Walter, M.
+S. Sherwin, A. Stacy, P. L. Richards, and A. Zettle, Phys. Rev. B
+**35**, 5327 (1987). * [14] J. R. Kirtley, R. T. Collins, Z.
+Schlesinger, W. J. Gallagher, R. L. Sandstrom, T. R. Dinger, and D. A.
+Chance, Phys. Rev. B **35**, 8846 (1987). * [15] R. T. Collins, Z.
+Schlesinger, R. H. Koch, R. B. Laibowitz, T. S. Plaskett, P. Freitas, W.
+J. Gallagher, R. L. Sandstrom, and T. R. Dinger, Phys. Rev. Lett.
+**59**, 704 (1987). * [16] D. A. Bonn, A. H. O’Reilly, J. E. Greedan, C.
+V. Stager, T. Timusk, K. Karamus, and D. B. Tanner, Phys. Rev. B **37**,
+1574 (1988). * [17] L. Genzel, A. Wittlin, M. Bauer, M. Cardona, E.
+Schonherr, and A. Simon, Phys. Rev. B **40**, 2170 (1989). * [18]
+Orenstein, G. A. Thomas, D. H. Rapkine, C. G. Bethea, B. F. Levine, R.
+J. Cava, E. A. Rietman, and D. W. Johnson, Jr., Phys. Rev. B **36**, 729
+(1987). * [19] K. Kamaras, C. D. Porter, M. G. Doss, S. L. Herr, D. B.
+Tanner, D. A. Bonn, J. E. Greedan, A. H. O’Reilly, C. V. Stager, and T.
+Timusk, Phys. Rev. B **36**, 733 (1987). * [20] K. Kamaras, C. D.
+Porter, M. G. Doss, S. L. Herr, D. B. Tanner, D. A. Bonn, J. E. Greedan,
+A. H. O’Reilly, C. V. Stager, and T. Timusk, Phys. Rev. Lett. **59**,
+919 (1987). * [21] P. E. Sulewski, T. W. Noh, J. T. McWhirter, and A. J.
+Sievers, S. E. Russek, R. A. Buhrman, C. S. Jee, J. E. Crow, R. E.
+Salomon, and G. Meyer, Phys. Rev. B **36**, 2357 (1987). * [22] Z.
+Schlesinger, R. T. Collins, M. W. Shafer, and E. M. Engler, Phys. Rev. B
+**36**, 5275 (1987). * [23] J. Orenstein and D. H. Rapkine, Phys. Rev.
+Lett. **60**, 968 (1988). * [24] K. Kamaras, C. D. Porter, M. G. Doss,
+S. L. Herr, D. B. Tanner, D. A. Bonn, J. E. Greedan, A. H. O’Reilly, C.
+V. Stager, and T. Timusk, Phys. Rev. Lett. **60**, 969 (1988). * [25] Z.
+Schlesinger, R. T. Collins, D. L. Kaiser, and F. Holtzberg, Phys. Rev.
+Lett. **59**, 1958 (1987). * [26] I. Bozovic, D. Kirillov, A.
+Kapitulnik, K. Char, M. R. Hahn, M. R. Beasley, T. H. Geballe, Y. H.
+Kim, and A. J. Heeger, Phys. Rev. Lett. **59**, 2219 (1987). * [27] S.
+Tajima, S. Uchida, H. Ishii, H. Takagi, S. Tanaka, U. Kawabe, H.
+Hasegawa, T. Aita, and T. Ishiba, Mod. Phys. Lett. B **1**, 353
+(1988). * [28] Z. Schlesinger, R. T. Collins, D. L. Kaiser, F.
+Holtzberg, G. V. Chandrasekar, M. W. Shafer, and T. M. Plaskett, Physica
+C **153**, 1734 (1988). * [29] T. Timusk, S. L. Herr, K. Kamaras, C. D.
+Porter, D. B. Tanner, D. A. Bonn, J. D. Garrett, C. V. Stager, J. E.
+Greedan, and M. Reedyk, Phys. Rev. B **38**, 6683 (1988). * [30] G. A.
+Thomas, J. Orenstein, D. H. Rapkine, M. Capizzi, A. J. Millis, N. N.
+Bhatt, L. F. Schneemeyer, and J. V. Waszczak, Phys. Rev. Lett. **61**,
+1313 (1988). * [31] R. T. Collins, Z. Schlesinger, F. Holtzberg, P.
+Chaudari, and C. Field, Phys. Rev. B **39**, 6571 (1989). * [32] T. W.
+Noh, P. E. Seluski, S. Kaplan and A. J. Sievers, D. K. Lanthrop and R.
+A. Burham, Mater. Res. Soc. Symp. Proc. **99**, 435 (1988). * [33] M.
+Suzuki, Phys. Rev. B **39**, 2312 (1989). * [34] S. Tajima, H. Ishii, T.
+Nakahashi, T. Takagi, S. Uchida, M. Seki, S. Suga, Y. Hidaka, M. Suzuki,
+T. Murakami, K. Oka, and H. Unoki, J. Opt. Soc. Am. B **6**, 475
+(1989). * [35] J. Schutzmann, W. Ose, J. Keller, K. F. Renk, B. Roas, L.
+Schulz and G. Saemann-Ischenko, Europhys. Lett. **8**, 679 (1989). *
+[36] R. T. Collins, Z. Schlesinger, F. Holtzberg, and C. Field, Phys.
+Rev. Lett. **63**, 422 (1989). * [37] B. Koch, H. P. Geserich and Th.
+Wolf, Solid State Commun. (to be published). * [38] Uchida, H. Takagi,
+and Y. Tokura, Physica C **162-164**, 1677 (1989). * [39] R. T. Collins,
+_et al._ (unpublished). * [40] A. T. Forrester, Phys. Rev. B **110**,
+776 (1958). * [41] M. Tinkham and R. E. Glover, Phys. Rev. B **110**,
+778 (1958). * [42] J. W. Loram and K. A. Mirza, Physica C **153-155**,
+1020 (1988). * [43] A. Junod, A. Bezinge, and J. Muller, Physica C
+**152**, 50 (1988). * [44] A. Junod, A. Bezinge, D. Eckert, T. Graf, and
+J. Muller, Physica C **152**, 495 (1988); A. Junod, D. Eckert, T. Graf,
+G. Triscone, and J. Muller, Physica C **162-164**, 482 (1989).
+
+* [45] L. Krusin-Elbaum, R. L. Greene, F. Holzberg, A. P. Malozemoff,
+and Y. Yeshurun, Phys. Rev. Lett. **62**, 217 (1989). * [46] D. R.
+Harshman _et al._, Phys. Rev. B **39**, 851 (1989). * [47] G. Deutscher
+and K. A. Muller, Phys. Rev. Lett. **59**, 1745 (1987). * [48] M. Lee,
+A. Kapitulnik, and M. R. Beasley, _Proceedings of the NEC Symposium on
+Mechanisms of High-Temperature Superconductivity, Tokyo, Japan, 1988_,
+edited by H. Kamimura and A. Oshiyama (Springer-Verlag, Berlin, 1989). *
+[49] J. S. Tsai, I. Takeuchi, J. Fujita, T. Yoshitake, S. Miura, S.
+Tanaka, T. Terashima, Y. Bando, K. Iijima, and K. Yamamoto, Physica C
+**153**, 1385 (1988). * [50] K. E. Gray, M. E. Hawley, and E. R. Moog,
+in _Novel Mechanisms of Superconductivity_, edited by S. A. Wolf and V.
+Z. Kreslin (Plenum, New York, 1987), p. 611. * [51] A. Barone, Physica C
+**153-155**, 1712 (1988). * [52] M. Gurvitch, J. M. Valles, Jr., A. M.
+Cucolo, R. C. Dynes, J. P. Garno, L. F. Schneemeyer, and J. V. Waszczak,
+Phys. Rev. Lett. **63**, 1008 (1989). * [53] J. Geerk, X. X. Xi, and G.
+Linker, Z. Phys. B **73**, 329 (1988). * [54] R. Kirtley, Int. J. Mod.
+Phys. B (to be published). * [55] R. Manzke, T. Buslaps, R. Classen, and
+J. Fink, Europhys. Lett. **9**, 477 (1989). * [56] J.-M. Imer, F.
+Patthey, B. Dardel, W.-D. Schneider, Y. Baer, Y. Petroff, and A. Zettl,
+Phys. Rev. Lett. **62**, 336 (1989). * [57] C. G. Olson, R. Liu, A.-B.
+Yang, D. W. Lynch, A. J. Arko, R. S. List, B. W. Veal, Y. C. Chang, P.
+Z. Jiang, and A. P. Paulikas, Science **245**, 731 (1989). * [58] K. B.
+Lyons, S. H. Liou, M. Hong, H. S. Chen, J. Kwo, and T. J. Negran, Phys.
+Rev. B **36**, 5592 (1987). * [59] S. L. Cooper, M. V. Klein, B. G.
+Pazol, J. P. Rice, and D. M. Ginzberg, Phys. Rev. B **37**, 5920 (1988);
+S. L. Cooper, F. Slackey, M. V. Klein, J. P. Rice, E. D. Bukowski, and
+D. M. Ginsberg, _ibid._**38**, 11 934 (1988). * [60] A. Yamanaka, T.
+Kimura, F. Minami, K. Inque, and S. Takekawa, J. Appl. Phys. **27**,
+L1902 (1988). * [61] D. Kirillov, I. Bozovic, T. H. Geballe, A.
+Kapitulnik, and D. B. Mitzi, Phys. Rev. B **38**, 11 955 (1988). * [62]
+C. Thomsen and M. Cardona, in _Physical Properties of High-Temperature
+Superconductors_, edited by D. M. Ginsberg (World Scientific, Singapore,
+1989). * [63] H. Seidel, F. Hentsch, M. Mehring, J. G. Bednorz, and K.
+A. Muller, Europhys. Lett. **5**, 647 (1988). * [64] W. W. Warren, Jr.,
+R. E. Walstedt, G. F. Brennert, G. P. Espinosa, and J. P. Remeika, Phys.
+Rev. Lett. **59**, 1860 (1987). The Cu site assignments in this paper
+are incorrect and should be reversed. * [65] W. W. Warren, Jr., R. E.
+Walstedt, G. F. Bennett, R. J. Cava, R. Tycko, R. F. Bell, and G.
+Dabbagh, Phys. Rev. Lett. **62**, 1193 (1989). * [66] M. Takigawa, P. C.
+Hammel, R. H. Heffner, and Z. Fisk, Phys. Rev. B **39**, 7371 (1989). *
+[67] T. Imai, T. Shimizu, H. Ysuoka, Y. Ueda, K. Yosimura, and K.
+Kosuge, Phys. Rev. B (to be published). * [68] P. C. Hammel, M.
+Takigawa, R. H. Heffner, Z. Fisk, and K. C. Ott, Phys. Rev. Lett.
+**63**, 1992 (1989). * [69] S. E. Barrett, D. J. Durand, C. H.
+Pennington, C. P. Slichter, T. A. Freidmann, J. P. Rice, and D. M.
+Ginsberg, Phys. Rev. B **41**, 6283 (1990). * [70] Z. Schlesinger, R. T.
+Collins, J. A. Calise, D. J. Hinks, A. W. Mitchell, Y. Zheng, B.
+Dabrowski, N. E. Bickers, and D. J. Scalapino, Phys. Rev. B **40**, 6862
+(1989). * [71] D. L. Kaiser, F. Holtzberg, B. A. Scott, and T. A.
+McGuire, Appl. Phys. Lett. **51**, 1040 (1987). * [72] G. Koren, A.
+Gupta, E. A. Giess, A. Segmuller, and R. B. Laibowitz, Appl. Phys. Lett.
+**54**, 1054 (1989). * [73] G. Koren, A. Gupta, and R. J. Baseman, Appl.
+Phys. Lett. **54**, 1920 (1989). * [74] F. Wooten, _Optical Properties
+of Solids_ (Academic, San Francisco, 1972). * [75] G. A. Thomas and J.
+Orenstein (private communication). * [76] K. Kamaras, S. L. Herr, C. D.
+Porter, N. Tache, D. B. Tanner, S. Etamad, T. Venkatesan, E. Chase, A.
+Inam, X. D. Wu, M. S. Hegde, and B. Dutta (unpublished). * [77] I.
+Bozovic, K. Char, S. J. B. Yoo, A. Kapitulnik, M. R. Beasley, T. H.
+Geballe, Z. Z. Wang, S. Hagen, N. P. Ong, D. E. Aspnes, and M. K. Kelly,
+Phys. Rev. B **38**, 5077 (1988). * [78] T. W. Noh, S. G. Kaplan, and A.
+J. Sievers, Phys. Rev. Lett. **62**, 599 (1989). * [79] M. W. Shafer, T.
+Penney, and B. L. Olson, Phys. Rev. B **36**, 4047 (1987); M. W. Shafer,
+T. Penney and B. L. Olson, R. L. Greene, and R. H. Koch, _ibid._**39**,
+2914 (1989). * [80] J. Clayhold, N. P. Ong, Z. Z. Wang, J. M. Tarascon,
+and T. Barboux, Phys. Rev. B **39**, 7324 (1989). * [81] Y. Tokura, J.
+B. Torrance, T. C. Huang, and A. I. Nazzal, Phys. Rev. B **38**, 7156
+(1988). * [82] W. F. Brinkman and T. M. Rice, Phys. Rev. B **2**, 1234
+(1970). * [83] P. W. Anderson, Science **235**, 1196 (1987); P. W.
+Anderson and Z. Zou, Phys. Rev. Lett. **60**, 132 (1988). * [84] F. E.
+Pinkerton, B. C. Webb, A. J. Sievers, J. W. Wilkins, and L. J. Sham,
+Phys. Rev. Lett. **57**, 1951 (1986). * [85] B. C. Webb, A. J. Sievers,
+and T. Mahahlisin, Phys. Rev. Lett. **57**, 1951 (1986). * [86] P. E.
+Sulewski, A. J. Sievers, M. B. Maple, M. S. Torikachvili, J. L. Smith,
+and Z. Fisk, Phys. Rev. B **38**, 5338 (1988). * [87] M. Reedyk, D. A.
+Bonn, J. D. Garrett, J. E. Greedan, C. V. Stager, T. Timusk, K. Kamaras,
+and D. B. Tanner, Phys. Rev. B **38**, 11 981 (1988); D. A. Bonn
+(private communication). * [88] S. Schmitt-Rink, C. M. Varma, and A. E.
+Ruckenstein, Phys. Rev. Lett. **60**, 2793 (1988). * [89] T. M. Rice and
+F. C. Zhang, Phys. Rev. B **39**, 815 (1989). * [90] C. L. Kane, P. A.
+Lee, and N. Read, Phys. Rev. B **39**, 6880 (1989). * [91] M. Schluter
+(private communication). * [92] N. E. Bickers, D. J. Scalapino, R. T.
+Collins, and Z. Schlesinger, Phys. Rev. B (to be published). * [93] P.
+W. Anderson, J. Chem. Solids **11**, 26 (1959); P. L. Richards, Phys.
+Rev. Lett. **7**, 412 (1961). * [94] T. Schneider, H. De Raedt, and M.
+Frick (unpublished). * [95] K. F. Renk (private communication). * [96]
+L. Drabeck, G. Gruner, J-J. Chang, A. Inam, X. D. Wu, L. Nazar, T.
+Venkatesan, and D. J. Scalapino, Phys. Rev. B **40**, 7350 (1989). *
+[97] D. W. Cooke _et al._ (unpublished). * [98] P. P. Freitas, C. C.
+Tsuei, and T. S Plaskett, Phys. Rev. B **36**, 833 (1987). * [99] B. Oh,
+K. Char, A. D. Kent, M. Naito, M. R. Beasley, T. H. Geballe, R. H.
+Hammond, A. Kapitulnik, and J. M. Graybeal, Phys. Rev. B **37**, 7861
+(1988). * [100] S. J. Hagen, Z. Z. Wang, and N. P. Ong, Phys. Rev. B
+**38**, 7137 (1988). * [101] S. E. Inderhees, M. B. Salamon, N.
+Goldenfield, J. P. Rice, B. G. Pazol, D. M. Ginsberg, J. Z. Liu, and G.
+W. Crabtree, Phys. Rev. Lett. **60**, 1178 (1988). * [102

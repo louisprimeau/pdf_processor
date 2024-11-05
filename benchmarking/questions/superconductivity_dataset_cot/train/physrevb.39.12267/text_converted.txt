@@ -1,0 +1,209 @@
+Specific heat of Bi₂Sr₂CuO₆ and Bi₂Sr₂CaCu₂O₈ in the superconducting
+state
+
+A. Chakraborty
+
+Department of Physics, The Ohio State University, Columbus, Ohio
+43210-1106
+
+E. M. McCarron
+
+Central Research and Development Department, E. I. du Pont de Nemours
+and Company, Wilmington, Delaware 19880-0356
+
+E. J. Epstein
+
+Department of Physics, The Ohio State University, Columbus, Ohio
+43210-1106
+
+D. L. Cox
+
+Department of Physics, The Ohio State University, Columbus, Ohio
+43210-1106
+
+E. M. McCarron
+
+Central Research and Development Department, E. I. du Pont de Nemours
+and Company, Wilmington, Delaware 19880-0356 adiabatic calorimeter using
+a drift technique.[15] The sample is weakly coupled to the temperature
+reservoir via a copper link (typically 2-mil Cu wire, approximately 20
+cm long, wound in the form of a spiral). One can measure specific heat
+reliably up to about 10 K, making use of the fact that the thermal
+conductivity of copper is essentially linear in temperature to 10 K. The
+samples were pellet form with mass of order 1-2 g. For use as
+thermometers 220-Ω Allen-Bradley resistors were ground to a mass of 15
+mg and then mounted on the samples. They were calibrated _in situ_
+against a carbon-glass thermometer mounted on the temperature reservoir.
+The heater wire wound around the sample pellet weighed only a few
+milligrams. The contribution of sample peripherals was therefore kept to
+within a few percent of the sample by weight, and their contribution
+could be reliably subtracted.
+
+## Results for the specific heat
+
+Figure 1 displays C(T) vs T for our samples. In the temperature range
+shown, both samples are in the superconducting state. The data are
+replotted in Fig. 2 as C(T)/T vs T². The absence of a finite intercept
+in Fig. 2 confirms the absence of a linear term in the specific heat. A
+least-squares fit of C(T)/T vs T² below 7.5 K gives an upper limit on
+the linear term in the specific heat to be of the order of 0.3 and 0.35
+mJ/Cu K² for the 2:2:1:2 and 2:2:0:1 samples, respectively. The
+linearity in T² is consistent with a simple Debye form, and with this
+assumption we obtain Debye temperatures of 212 K (2:2:0:1) and 171 K
+(2:2:1:2). These values are comparable to those obtained elsewhere for
+other cuprate superconductors[16] and change as expected as more atoms
+are added to the unit cell.
+
+## Implications
+
+It is immediately clear that our data do not rule out an activated
+contribution to C(T) which arises from a uniform gap as found in
+conventional superconductors or the Balian-Werthamer[17] triplet state.
+The data strongly constrain the form of possible power-law contributions
+from other superconducting states, which we shall discuss in turn below.
+
+_States with lines of nodes._ Our data rule out pairing corresponding to
+a gap function with lines of nodes on the Fermi surface, since this
+would generate a linear in T contribution to C(T)/T, which would produce
+a negative curvature not evident in our data.
+
+_Gapless pairing._ Though not as exclusively, our results appear to rule
+out gapless pairing[18] for these materials arising from
+disorder-induced filling in of a uniform gap in the quasiparticle
+density of states. The reason is that this would lead to an anomalously
+small specific-heat jump at T_(c), which is not observed, at least in
+the 2:2:1:2 material.[19] The logic is as follows: gapless pairing would
+lead to a low-temperature linear contribution. We have an upper bound of
+0.35 mJ/Cu K² for the linear coefficient in the superconducting state
+from our least-squares fit. Photoemission experiments suggest that the
+normal-state Fermi-level density of states is about 0.25-0.33 that of
+elemental copper,[20] so that we can assume a reference value of about 1
+mJ/mol K². By utilizing the standard pair-breaking theory,[18] this
+translates to an 82
+
+_Pairing with point nodes._ A more interesting possibility is a gap
+function which has point nodes and which will therefore produce a T²
+contribution to C(T)/T. While we cannot prove that this possibility
+applies here, we can place a bound on the observability of such a
+specific-heat contribution by doing a rough order-of-magnitude estimate
+on a spherical Fermi surface.[21] For definiteness, assume we have an
+axial Anderson-Brinkman-Morel (ABM) type state such that the
+quasiparticle energy in the superconducting state has the form
+$E_{\bf k}\!=\!\{e_{F}^{2}\}+[\Delta\mbox{sin}(\theta)]^{2}$[1/2] which
+clearly has point nodes. In weak-coupling theory, Δ = 2.0k_(B)T_(c) with
+this normalization, and in the superconducting state the electrons
+contribute a T³ specific heat per electron of
+
+$$C_{s}(T)=\frac{7\pi^{4}}{15}\,k_{B}(k_{B}T)^{3}\frac{N(E_{F})}{\Delta^{2}}\ ,$$
+(1) where N(E_(F)) is the Fermi-level density of states. Taking a
+free-electron form for the normal-state density of states, the ratio of
+C_(s)(T) to the lattice contribution C_(l)(T) per unit cell gives
+
+$$R=\frac{C_{s}(T)}{C_{l}(T)}=\frac{7}{24}\left[\frac{k_{B}\Theta_{D}}{\Delta} \right]^{2}\frac{\Theta_{D}}{T_{F}}\ ,$$
+(2)
+
+where T_(F) = E_(F)/k_(B). Assuming T_(F)=5000 K (consistent with a
+low-carrier density of about 10²¹ carriers/cm³), and using T_(c) and
+Θ_(D) from our measurements, we see that this ratio is about 1.8 for the
+2:2:0:1 material and about 0.02 for the 2:2:1:2 material.
+
+In surveying the group theoretically allowed superconducting states in
+tetragonal symmetry, it is clear that the only states possessing point
+nodes are spin-triplet axial-like pairing states with the symmetry axis
+oriented along the crystalline c axis.²² These point nodes will only
+occur for a Fermi surface which is closed along the symmetry axis. Since
+in this layered material the effective mass along the c direction is
+presumed large, it is not clear whether the Fermi surface will close:
+for infinite effective mass along the c direction, we obtain an open,
+cylindrical Fermi surface.
+
+We note that most^(23, 24) (but not all²⁵) of the proposed pairing
+mechanisms for high-T_(c) materials favor singlet pairing. In
+conjunction with the above comments about the Fermi surface, we
+therefore consider it unlikely that the superconductivity in these
+materials is characterized by a gap function with nodes.
+
+However, we can only rigorously say from our data that a T³ electronic
+contribution to C(T) arising from a gap function with point nodes,
+cannot be ruled out. For the 2:2:1:2 material, it is likely to be a
+small and difficult to observe contribution. For the 2:2:0:1 material,
+if it exists, it should be comparable to the lattice specific heat,
+since the lattice specific heat used above was obtained under the
+assumption that all the T³ contribution to C(T) arose from phonons.
+
+The presence of such an electronic contribution to C(T) in the 2:2:0:1
+material may be tested by measuring the T³ contribution to C(T) for T
+greater than T_(c). This is beyond the capability of our current
+experimental setup. If the T² coefficient of C(T)/T above T_(c) is
+substantially reduced (by approximately 50
+
+## Summary
+
+We have performed measurements of the specific heat of the layered
+cuprate superconductors Bi₂Sr₂CuO_(6 − δ) and Bi₂Sr₂CaCu₂O_(8 − δ). In
+agreement with other groups, we find no linear term in the
+superconducting phase; instead, C(T) is apparently proportional to T³.
+Such a result is consistent with a normal Debye specific heat plus an
+electronic contribution arising from a superconducting gap function
+possessing point nodes, though we consider the latter contribution an
+unlikely one. The reason is that only triplet states can give point
+nodes in tetragonal symmetry, and they can only do so along the
+tetragonal c axis. The large effective mass along that direction makes
+the prospect of a closed oxygen hole Fermi surface unlikely. A
+hypothetical electronic contribution to the T³ term in C(T) would likely
+be small and undetectable for the 2:2:1:2 material; if present, it
+should contribute at an observable level for the 2:2:0:1 material.
+Assessment of this possibility in the 2:2:0:1 material can be made
+through measurement of C(T) above T_(c); or subtraction of the lattice
+contribution by complete nickel substitution for copper (if possible),
+or by measurement of the phonon density of states via neutron
+scattering.
+
+## Acknowledgments
+
+We thank W. Lawless for useful discussions. A.C. and A.J.E. were
+supported in part by the U.S. Department of Energy, Division of
+Materials Science, Grant No. DE-FG02-86ER45271.A000. D.L.C. acknowledges
+support from National Science Foundation Grant No. DMR-8857341, the Ohio
+Edison Foundation, Cray Research, and the Alfred P. Sloan Foundation.
+
+## References
+
+* (1) M. E. Reeves, T. A. Friedman, and D. M. Ginsberg, Phys. Rev. B
+**35**, 7207 (1987). * (2) A. P. Ramirez, B. Batlogg, G. Aeppli, R. J.
+Cava, and E. Rietman, Phys. Rev. B **35**, 8833 (1987). * (3) P. W.
+Anderson, Physica C **153-155**, 531 (1988). * (4) H. Fukuyama, Y.
+Hasegawa, and Y. Suzumura, Physica C **153-155**, 1630 (1988). * (5) D.
+Eckert _et al._, Physica C **153-155**, 1038 (1988). * (6) C. Michel _et
+al._, Z. Phys. B **68**, 412 (1987). * (7) C. C. Toradi, M. A.
+Subramanian, J. C. Calabrese, J. Gopalkrishnan, E. M. McCarron, K. J.
+Morrisey, T. R. Askew, R. B. Flippen, U. Chowdhry, and A. W. Sleight,
+Phys. Rev. B **38**, 225 (1988). * (8) M. Maeda, Y. Tanaka, M. Fukutomi,
+and T. Asano, Jpn. J. Appl. Phys. **27**, L209 (1988). * (9) M. A.
+Subramanian, C. C. Toradi, J. C. Calabrese, J. Gopalakrishnan, K. J.
+Morrisey, T. R. Askew, R. B. Flippen, U. Chowdhry, and A. W. Sleight,
+Science **239**, 1015 (1988). * (10) J. M. Tarascon, Y. LePage, P.
+Barboux, B. G. Bagley, L. H. Greene, W. R. McKinnon, G. W. Hall, M.
+Giroud, and D. M. Hwang, Phys. Rev. B **37**, 9382 (1988). * (11) P.
+Bordet, J. J. Capponi, C. Chaillout, J. Chenavas, A. W. Hewat, E. A.
+Hewat, J. L. Hoden, M. Marezio, J. L. Tholence, and D. Tranqui, Physica
+C **153-155**, 623 (1988). * (12) S. A. Sunshine, T. Siegrist, L. F.
+Schneemeyer, D. W. Murphy, R. J. Cava, B. Battlog, R. B. van Dover, R.
+M. Fleming, S. H. Glarum, S. Nakahara, R. Farrow, J. J. Krajewski, S. M.
+Zhaurak, J. V. Waszczak, J. H. Marshall, P. Marsh, L. W. Rupp, and W. F.
+Peck, Phys. Rev. B **38**, 893 (1988). * [13] R. A. Fisher _et al._,
+Phys. Rev. B **38**, 11 942 (1988). * [14] X. D. Chen, S. Y. Lee, J. P.
+Golben, S. I. Lee, R. D. McMichael, Y. Song, T. W. Noh, and J. R.
+Gaines, Rev. Sci. Instrum. **58**, 1565 (1987). * [15] W. N. Lawless, C.
+F. Clark, and R. W. Arenz, Rev. Sci. Instrum. **53**, 1647 (1982). *
+[16] M. E. Reeves, T. A. Friedman, and D. M. Ginsburg, Phys. Rev. B
+**35**, 7207 (1987). * [17] R. Balian and N. R. Werthamer, Phys. Rev.
+**131**, 1553 (1963). * [18] K. Maki, in _Superconductivity_, edited by
+R. D. Parks (Marcel-Dekker, New York, 1969), p. 1036. * [19] Chen
+Zhaojia, Liu Hongbao, Mao Zhiqiang, Wang Keqin, Zhan Xiaonong, and Zhang
+Yuheng (unpublished). * [20] This is the result for the related material
+YBa₂Cu₃O_(6.9) [A. J. Arko (private communication)]. * [21] Similar
+results obtained for a closed elliptical Fermi surface with a large
+c-axis effective mass. * [22] M. Sigrist and T. M. Rice, Z. Phys. B (to
+be published). * [23] C. Gross _et al._, Physica C **153-155**, 543
+(1988). * [24] D. L. Cox _et al._, Phys. Rev. Lett. **62**, 2188 (1989).

@@ -1,0 +1,617 @@
+Superconductivity and Shubnikov-de Haas oscillations in the
+noncentrosymmetric half-Heusler compound YPtBi
+
+Orest Pavlosiuk
+
+Dariusz Kaczorowski
+
+Piotr Wisniewski
+
+Institute of Low Temperature and Structure Research, Polish Academy of
+Sciences, P. O. Box 1410, 50-950 Wroclaw, Poland
+
+###### Abstract
+
+Recent findings of possible topological superconductivity in YPtBi
+motivated us to grow and investigate single crystals of this material.
+The compound was studied by means of ac magnetic susceptibility,
+electrical resistivity, Hall resistivity, and heat capacity
+measurements, performed in wide ranges of temperature and magnetic
+field. The superconductivity below the critical temperature T_(c) = 0.97
+K was clearly reflected in the magnetic and electronic transport data.
+The upper critical field B_(c2) was estimated at 1.84 T. However, no
+obvious anomaly near T_(c) was found in the temperature dependence of
+the heat capacity. In the normal state YPtBi appears semimetallic but
+its electrical conductance can be described by two components
+corresponding to parallel channels: metallic and semiconducting, with
+the latter becoming negligible at temperatures below 40 K. Shubnikov-de
+Haas oscillations were observed at temperatures below 10 K. Nontrivial
+Berry phase together with weak antilocalization effect strongly support
+the presence of Dirac fermions in YPtBi.
+
+2016 94 035130 (2016) 2469-9950/2016/94(3)035130(7)
+
+## I Introduction
+
+The ternary bismuthide YPtBi belongs to the outstanding class of
+intermetallic materials, crystallizing in MgAgAs-type structure, known
+as half-Heusler phases [1]. Since the late 1990s half-Heusler compounds
+gained profound interest as new multifunctional materials for spintronic
+and thermoelectric applications [2]. In the course of time, new
+properties and putative fields of applications appeared continuously.
+Recent discoveries of topological properties revive the interest in the
+half-Heusler phases containing heavy elements. Several research groups
+have independently predicted theoretically a 3D topological insulator
+state (TI) in some of these compounds [3, 4, 5, 6]. Furthermore, some
+representatives of half-Heusler family are low-temperature
+superconductors, YPtBi among them [7, 8, 9, 10, 11, 12, 13, 14, 15]. Due
+to its noncentrosymmetric crystal structure YPtBi might be an
+unconventional superconductor with mixed spin-singlet/spin-triplet
+pairing. Based on the results of first principles calculations of the
+electron-phonon coupling in YPtBi, it has recently been concluded that
+the mechanism of pairing in YPtBi is indeed unconventional [16].
+Besides, combination of nontrivial 3D topology and superconductivity
+makes YPtBi one of the leading candidates for realizing topological
+superconducting state.
+
+TIs have gapless conducting surface states protected from backscattering
+by time-reversal symmetry. Nevertheless, surface states of a
+superconducting TI may host Majorana fermions [17], which spark
+considerable interest because of their potential application in building
+a fault-tolerant quantum computer [18]. Immediately after discovery of
+superconductivity in copper doped Bi₂Se₃[19], Fu and Berg theoretically
+predicted that Cu_(x)Bi₂Se₃ could be a topological superconductor (TSC)
+[20]. The observation of topological order together with
+superconductivity in that compound [21] has given a powerful impetus to
+the intensive development in the field of TSCs. In addition to
+Cu_(x)Bi₂Se₃ and a group of a half-Heusler phases, several other
+compounds were proposed as putative TSCs, usually doped topological
+crystalline insulators [22, 23] or doped-TI heterostructures [24, 25].
+
+YPtBi has hitherto been investigated thoroughly in view of the
+superconductivity, occurring below critical temperature, T_(c) = 0.77 K
+[7, 8, 9], whereas a possible topological nontriviality of its
+electronic state was studied to a much lesser degree [7, 26]. Therefore,
+the main goal of the present work was to gather evidence in support of
+nontrivial topology of the electronic structure in YPtBi. There are
+several experimental methods for verification of topological
+nontriviality, with the most straightforward being surface-sensitive
+probes, such as angle-resolved photoemission spectroscopy and scanning
+tunneling spectroscopy, which in the case of half-Heusler phases are
+hampered by strong difficulties with preparation of clean surface [27].
+Recently, nuclear magnetic resonance has been suggested to be a simple
+technique probing band inversion in half-Heusler bismuthides, among them
+YPtBi, a necessary condition for realizing nontrivial topology [26, 28].
+In this paper, we focused our attention on the magnetotransport
+properties of single-crystalline YPtBi, expected to provide further
+fingerprints of its nontrivial topological nature [29].
+
+## II Experimental Details
+
+Single crystals of YPtBi were grown from Bi flux with the starting
+atomic composition Y:Pt:Bi of 1:1:9. First, binary equiatomic compound
+YBi was prepared by arc melting. Then, it was crushed, mixed with small
+pieces of Pt wires and Bi grains, put in an alumina crucible, and sealed
+in an evacuated quartz ampule. The ampule was heated slowly to 1130 degC
+and kept for 12 h, then slowly cooled down to 925 degC at 3 degC/h and
+kept for 12 h. Afterwards, the cooling continued at 1 degC/h rate down
+to 550 degC, and at that temperature the ampule was taken out from the
+furnace. The excess of Bi flux was removed by etching with diluted
+nitric acid. The obtained single crystals had shapes of truncated
+pyramids with the dimensions up to 1.5 x 1.5 x 1.8 mm³.
+
+Several single crystals were powdered and x-ray diffraction at room
+temperature was used to verify the $F\bar{4}3m$ space group and to
+determine the lattice parameter of 6.65 A, using an X’-pert Pro
+PANanalytical diffractometer with Cu-_K_a radiation.
+
+Chemical composition of the obtained YPtBi single crystals was studied
+on a FEI scanning electron microscope equipped with an EDAX Genesis XM4
+spectrometer. The crystals were found homogeneous with Y:Pt:Bi ratio of
+28.3:38:33.7, within experimental error of ±3
+
+ac magnetic susceptibility measurements were performed on a collection
+of small YPtBi single crystals with the total mass of 167 mg. These
+experiments were carried out in the temperature interval 0.45-2.0 K
+using a Quantum Design MPMS-XL SQUID magnetometer with an iHelium3
+refrigerator.
+
+For electrical transport studies, specimens of bar and platelet shapes
+were cut from two single crystals and then polished. Dimensions of
+samples were 0.20×0.29×1.2 mm³ for resistivity measurements and
+0.15×0.44×1.6 mm³ for Hall resistivity measurements. Standard ac
+four-probe method was used for these two experiments with electrical
+leads made of 50-_m_m-diameter silver wire spot-welded to the samples
+and additionally fixed with silver paste. The experiments were conducted
+in the temperature range 0.4-300 K and in applied magnetic fields up to
+9 T using a Quantum Design PPMS platform with a ³He refrigerator. In
+magnetoresistance measurements electric current was flowing along [1 0
+0] and the field applied in [0 0 1] crystallographic direction, whereas
+in the Hall resistivity measurements the current direction was [1 1 0]
+and the field direction was [1 1 1].
+
+Heat capacity measurements were carried out within the temperature range
+0.4-20 K on a 46.5 mg collection of YPtBi single crystals using a
+relaxation method implemented into the PPMS platform.
+
+## III Results and Discussion
+
+### Magnetic susceptibility
+
+Low-temperature dependencies of the real, χ_(ac)^(′), and imaginary,
+χ_(ac)^(′′), components of the ac magnetic susceptibility of YPtBi are
+depicted in Fig. 1(a). Abrupt drop of χ_(ac)^(′′) clearly indicates a
+superconducting phase transition at T_(c) = 0.86 K, which agrees with
+the values reported in the literature [7, 8, 9]. The χ_(ac)^(′′)
+component does not saturate down to the lowest available temperature of
+0.45 K, at which only the 54
+
+### Electrical transport
+
+Figure 1(b) represents the temperature variation of the electrical
+resistivity of single-crystalline YPtBi. The shape of ρ(T) reflects a
+semiconducting character of our sample. On cooling below 300 K, the
+resistivity gradually increases, indicating the presence of a band gap,
+and levels off below 70 K. The value of ρ at 300 K is 0.52 mΩ cm, and at
+2 K it is 0.88 mΩ cm. In general, as regards both the magnitude of the
+resistivity and its temperature variation, our single crystals resemble
+those studied by Butch _et al._[7]. In contrast, Bay _et al._ observed a
+metallic behavior of their single crystals in the
+
+Figure 1: (a) Temperature variations of the real (empty circles) and
+imaginary (filled circles) components of the ac magnetic susceptibility
+of YPtBi. The arrow marks the critical temperature. (b) Temperature
+dependence of the electrical resistivity of YPtBi in zero magnetic
+field. Inset: blowup of low-temperature resistivity revealing the
+superconducting transition, measured in different applied magnetic
+fields from 0.05 to 2 T range. (c) Temperature variation of the
+electrical conductivity of YPtBi in the normal state. The red solid line
+represents the fitting with two-channel charge transport model; dashed
+(green) and dash-dotted (blue) lines correspond to the semiconducting
+and metallic channels, respectively.
+
+entire temperature range covered [8], while the polycrystalline samples
+investigated by Shekhar _et al._ showed ρ(T) with well pronounced broad
+maximum near 120 K [30].
+
+A sharp drop in the resistivity at low temperatures signals the onset of
+the superconducting state. The critical temperature, defined as a point
+in which resistivity drops to 50
+
+The low-temperature resistivity of YPtBi, measured in various external
+magnetic fields up to 2 T, is shown in the inset to Fig. 1(b). With
+increasing the field strength, the superconducting transition shifts to
+lower temperatures. The value of upper critical field, B_(c2) = 0.9 T,
+at our lowest temperature of 0.4 K is slightly larger than 0.75 T
+presented in Ref. [7]. Rough extrapolation of our data to T = 0 yielded
+B_(c2)(0) ≈ 1.6 T.
+
+The superconducting coherence length, ξ₀, in YPtBi can be calculated
+from the formula $\xi_{0}=\sqrt{\Phi_{0}/2\pi}\,B_{\text{c2}}(0)$, where
+Φ₀ is the flux quantum. The so-obtained value ξ₀ = 14 nm is very similar
+to those reported in Refs. [7, 8]. Under assumption that Fermi surface
+(FS) is spherical, the Fermi wave number, k_(F), can be determined as
+k_(F) = (3π²n)^(1/3), where n is the carrier concentration. Setting
+n = n_(H) = 5.6 × 10¹⁸ cm⁻³ from the Hall effect data (see below) one
+obtains k_(F) = 5.5 × 10⁶ cm⁻¹. Then, with the residual resistivity
+ρ₀ = 0.88 mΩ cm, one finds the mean free path l = ℏk_(F)/ρ₀ne² = 67 nm.
+The latter value is significantly larger than ξ₀, which provides further
+proof that the superconductivity in YPtBi occurs in the clean limit.
+Pauli limiting field, B_(P), can be calculated from the expression
+$B_{\text{P}}=\Delta/\sqrt{2}\mu_{B}$, where Δ = 1.76 k_(B)T_(c) is the
+BCS energy gap. The so-derived B_(P) = 1.8 T is close to B_(c2), which
+implies that the superconductivity in YPtBi is Pauli limited.
+
+As shown in Fig. 1(c), the overall behavior of the electrical
+conductivity, σ(T), of YPtBi can be well approximated by the two-channel
+charge transport model, recently applied to describe the σ(T) dependence
+in LuPdBi [14]. The conductivity is assumed to be a sum of contributions
+from two independent channels: metallic- and semiconductinglike. For the
+metallic channel it is described by σ_(m)(T) = 1/(ρ₀ + bT²), where ρ₀ is
+the residual resistivity due to scattering on structural defects, while
+the second term represents electron-electron scattering processes. In
+turn, the semiconducting channel contributes with
+σ_(s)(T) = 1/(a exp (−E_(g)/k_(B)T)), where E_(g) is an energy gap
+between valence and conduction bands. Fitting σ(T) = σ_(m)(T) + σ_(s)(T)
+to the experimental data of YPtBi, in the temperature range 2-300 K,
+yielded the following parameters: a = 217 mΩ cm, E_(g) = 38.8 meV, and
+b = 2.3 mΩ cm/K². The E_(g) value is about four times larger than 11.5
+meV found for LuPdBi in Ref. [14], thus indicating that YPtBi is more
+"bulk-insulating" material than LuPdBi. Furthermore, it is worth noting
+that below 40 K, conductivity of the semiconductinglike channel becomes
+negligible and the electric current essentially flows through the
+metalliclike channel. For LuPdBi the analogous cutoff temperature was
+twice lower [14].
+
+### Hall effect and magnetoresistance
+
+The results of Hall effect measurements are shown in Fig. 2(a). Positive
+Hall resistivity in positive magnetic field confirms hole-type
+conductivity, reported in Ref. [7]. However, ρ_(xy)(B) is not linear in
+the whole range of magnetic field. At T = 2 K, a very weak change of its
+slope occurs around magnetic field of 1 T, with temperature increasing
+this characteristic magnetic field also grows to 4.5 and 6 T, at 100 and
+300 K, respectively. Such behavior indicates multiband electronic
+structure in YPtBi. We tried to fit the two-band
+
+Figure 2: (a) Hall resistivity of single-crystalline YPtBi as a function
+of magnetic field measured at several temperatures in the range 2–300 K.
+In fields stronger than 5 T and temperatures below 10 K clear
+oscillations of ρ_(xy) appear. b),c) Temperature dependence of the
+carrier concentration and the Hall mobility, respectively. Solid lines
+are guides for the eye. (d) Magnetoresistance of YPtBi as a function of
+magnetic field, measured at T = 4 K. Lower inset: sheet conductance of
+YPtBi at T = 4 K versus magnetic field. The red solid line represents
+the fit to the Hikami-Larkin-Nagaoka model (see the text). Upper inset:
+magnetic field dependence of the resistance of YPtBi taken at T = 0.4 K.
+
+model to our data, but attempts were futile, since the fits yielded
+parameters, which were very strongly dependent on each other. Most
+likely it was due to relatively small difference in mobilities of holes
+and electrons, which also brought almost linear behavior of ρ_(xy)(B).
+Thus we used the single-carrier Drude model and from values of ρ_(xy)
+taken at magnetic field 9 T calculated carrier concentrations, n_(H),
+and mobilities, μ, for YPtBi. We keep in mind that obtained in such way
+values of n_(H) should be interpreted with caution and provide only
+lower limit of actual concentration, due to the multiband character of
+the compound.
+
+The temperature dependence of n_(H) in YPtBi is shown in Fig. 2(b). In
+the temperature range from 2 to 50 K, n_(H) hardly changes and equals
+≈5.6×10¹⁸ cm⁻³. Above 50 K, the carrier concentration begins to
+increase, and attains 3.4×10²⁰ cm⁻³ at room temperature. This behavior
+of n_(H)(T) resembles that described by Butch _et al._ with a difference
+in the magnitudes, as they estimated n_(H) = 2 × 10¹⁸ cm⁻³ at 2 K and a
+tenfold increased value at 300 K [7]. On the other hand, Ref. [30]
+reported n_(H) = 6.8×10¹⁸ cm⁻³ at low temperatures, which only tripled
+at 300 K. Such big differences in values of n_(H) seem to be caused by
+sample- and temperature-dependent contributions of different bands in
+total conductivity.
+
+Remarkably, the carrier concentration in YPtBi at low temperatures is at
+least three orders of magnitude smaller than its theoretically estimated
+lower limit necessary for conventional pairing superconductivity in this
+compound [16]. This finding is in line with the odd-parity character of
+the superconducting state in YPtBi, suggested by Bay _et al._[8]. Figure
+2(c) displays the temperature variation of the Hall mobility, μ, in
+YPtBi. The value observed at 300 K is μ = 40 cm²V⁻¹s⁻¹, whilst those
+below 50 K are ≈1100 cm²V⁻¹s⁻¹.
+
+It is interesting to compare our results to Hall concentration and
+mobility very recently reported for the heavy-lanthanides-bearing
+_R_PtBi series (R= Gd, Dy, Tm, and Lu) and plotted against the lattice
+parameter [31]. At 300 K our values n_(H) = 3.4 × 10²⁰ cm⁻³ and μ = 40
+cm²V⁻¹s⁻¹, place YPtBi property between GdPtBi (n_(H) = 5.5×10¹⁹ cm⁻³,
+μ ∼ 260 cm²V⁻¹s⁻¹) and TmPtBi (n_(H) ∼ 10²¹ cm⁻³, μ ∼ 3 cm²V⁻¹s⁻¹),
+which corroborates the conclusion of Ref. [3] that "the trend along the
+series is steric rather than magnetic in origin". Values of Hall
+coefficient we measured at 300 K, ρ_(xy)/B ∼ 0.1 nΩ cm/Oe, resemble most
+closely those of TmPtBi (cf. Fig. 9c of Ref. [31]).
+
+Figure 2(d) depicts the results of magnetoresistance (_MR_) measurements
+of YPtBi at temperatures 0.4 K and 4 K, in magnetic fields up to 9 T and
+14 T, respectively. At T = 0.4 K a behavior typical for a
+superconducting material is observed [see the upper inset to Fig. 2(d)].
+At 4 K _MR_ first rapidly increases with increasing field, showing a
+concave curvature, but then it becomes nearly linear up to the strongest
+fields achievable [cf. the main panel of Fig. 2(d)]. _MR_ reaches 205
+
+The shape of _MR_(_B_) in weak magnetic fields has already been
+considered for YPtBi in terms of the weak antilocalization (WAL) effect
+[7,30], evidenced also in several TIs [32,33,34]. Following that
+approach we fitted magneto-conductance with the Hikami-Larkin-Nagaoka
+[34] function,
+$\frac{\eta^{2}}{2\pi^{2}}[\Psi\{\frac{1}{2}+\frac{\hbar}{4\ell_{c}^{2}B}\}- \ln(\frac{\hbar}{4\ell_{c}^{2}B})]$,
+where η is a prefactor depending on the strength of spin-orbit coupling
+and on the type of localization, L_(φ) is a phase coherence length, and
+ψ(x) is a digamma function. The fit, depicted in the lower inset to Fig.
+2(d), was of good quality and yielded L_(φ) = 97 nm and η = −1.9×10⁵.
+Comparable values of L_(φ) and η were found previously for YPtBi,
+LuPdBi, and HoPdBi [7,14,15,30]. Similar magnitudes of the prefactor η,
+several orders larger than expected for purely 2D TI states, were
+already reported for YPtBi, LuPtBi, LuPdBi, and LuPtSb [7,12,30,35] and
+rationalized by assuming bulk or sidewall channels of electron transport
+[36].
+
+### Shubnikov-de Haas oscillations
+
+In addition to WAL and nonsaturating linear _MR_, we observed for our
+single crystals of YPtBi another fingerprint of possible TI states,
+namely Shubnikov-de Haas (SdH) oscillations. At temperatures up to 10 K,
+both the electrical resistivity and the Hall resistivity were found to
+oscillate in high magnetic fields. Quantum oscillations of the
+resistivity of single-crystalline YPtBi have already been observed by
+Butch _et al._, who determined the effective cyclotron mass,
+m^(*) = 0.15m_(e) (m_(e) is the free electron mass), the oscillation
+frequency 46 T and estimated, within spherical FS approximation, the
+carrier concentration of 1.7×10¹⁸ cm⁻³ (cf. Ref. [7]). Interestingly,
+they have noticed also a node at 0.12 T⁻¹, due to beating, and
+attributed this effect to spin-orbit splitting of the Fermi surface and
+shifts in phase of the oscillations.
+
+Figure 3(a) represents the SdH oscillations of the Hall resistivity of
+YPtBi, visualized upon subtracting from the measured data a linear
+component [cf. Fig. 2(a)]. No sign of FS splitting is seen. The
+temperature dependence of the Hall resistivity oscillations amplitude
+can be expressed as Δρ_(xy) ∝ λ(T)/sinh (λ(T)), where
+λ(T) = 2π²k_(B)Tm^(*)/(ℏeB)[37]. Fitting this equation to the
+experimental data of YPtBi [see Fig. 3(b)] yielded m^(*) = 0.22m_(e),
+which is only slightly larger than the value reported before [7].
+
+The oscillating component Δρ_(xy) was analyzed [see the upper inset to
+Fig. 3(a)] in terms of the standard Lifshitz-Kosevich (LK) expression:
+
+$$\Delta\rho_{xy}\propto\exp^{-\lambda_{D}}\lambda_{T}\sqrt{1/B}\cos(2\pi(F/B+ \beta+1/2)),$$
+(1)
+
+where λ_(D) = 2π²k_(B)T_(D)m^(*)/(ℏeB), F stands for the oscillation
+frequency, T_(D) is the Dingle temperature, β is the phase shift that
+directly corresponds to the Berry phase, and
+λ_(T) = λ(T)/sinh (λ(T))[37]. With m^(*) fixed at 0.22m_(e) the LK
+formula was fit to the experimental data of YPtBi, which yielded
+T_(D) = 5.1(2) K, F = 24.7(1) T, β = 0.35(1), and the Berry phase 0.7π
+at 1.85 K. The oscillation frequency was found temperature independent.
+Another way in which the Dingle temperature could be obtained is the
+so-called Dingle analysis, depicted in the inset to Fig. 3(b). The value
+of T_(D) derived from the slope of the linear fit amounts to 6.45 K,
+being thus fairly similar to that obtained from the LK function fitting.
+Knowing T_(D) allows estimating the surface scattering time
+τ_(s) = ℏ/(2πk_(B)T_(D)) = 1.88 × 10⁻¹³ s. It is worth noting that the
+transport scattering time evaluated from the Hall carrier concentration
+τ_(r) = m^(*)/(e²n_(H)ρ) = 1.58 × 10⁻¹³ s is nearly identical to τ_(r).
+The value of the scattering time derived for our single crystals is
+almost twice larger than that reported by Butch _et al._[7]. Assuming
+circular cross section of the Fermi surface one obtains from the
+Onsager’s relation [37], the Fermi wave vector
+$k_{\mathrm{F}}^{\mathrm{SdH}}=\sqrt{2\pi eF/\hbar}=2.74\times 10^{6}$
+cm⁻¹, which corresponds to the 2D carrier density n_(2D) = 6 × 10¹¹
+cm⁻². Other parameters which can be derived are the Fermi velocity
+v_(F) = ℏk_(F)^(SdH)/m^(*) ≈ 1.4 × 10⁵ ms⁻¹, the Fermi energy
+E_(F) = m^(*)v_(F)²/2 ≈ 12.8 meV, the mean-free path
+I_(5dH) = v_(F)τ_(s) = 26.8 nm, and the carrier mobility
+μ_(s) = eτ_(s)/m^(*) = eℓ/ℏk_(F)^(SdH) = 1486 cm²V⁻¹s⁻¹. Comparison of
+the parameters obtained from the SdH oscillations analysis, especially
+τ_(s) and μ_(s), and those derived from the Hall data at the lowest
+temperatures, especially τ_(r) and μ, shows their very good agreement.
+
+We examined also angular dependence of ρ_(xy)(B⁻¹) oscillations. When
+the field was tilted from [111] towards [001] direction by an angle θ
+the SdH frequency increased as ≈1/cosθ. At θ ≈ 55^(∘) (i.e., the field
+along [001]) F reached maximum value of 42 T and started to decrease
+upon further rotation. This maximum value is very close to 46 T reported
+by Butch _et al._[7]. In turn, our analysis of the SdH oscillations in
+the transverse _MR_ in field applied along [001] [see Fig. 2(d)] yielded
+F = 49 T. The observed angle dependence of the SdH frequency may be
+explained assuming the presence of strongly elongated electron FS
+pockets of cigarlike shape located between Γ and L points of Brillouin
+zone, with their axes along ⟨11 1⟩ directions. The cross section of such
+FS pocket changes as ≈1/cosθ when the field is tilted from its axis by
+θ[38], but when the field passes the [001] direction the SdH signal from
+another pocket of the same type takes over and F starts decreasing.
+
+Our experimental findings are consistent with the electronic structure
+calculations performed by Meinert [16], while contradicting those
+reported in Refs. [5, 6]. Nevertheless, Meinert’s results also show band
+inversion and do not exclude topologically nontrivial states. Thus we
+may hypothesize that at low temperatures the electrical current flows in
+single-crystalline YPtBi almost only due to metallic surface states and
+the bulk of material is nearly completely insulating. The observation of
+two-channel conductivity in YPtBi [see Fig. 1(c)] strengthens this
+conjecture, and expands its validity to higher temperatures, at least up
+to 40 K.
+
+Strong support for the nontrivial topology of YPtBi band structure,
+arising directly from the analysis of the SdH oscillations, is nonzero
+Berry phase. The Berry phase can be also determined employing a Landau
+level (LL) index analysis. First, following the discussion on proper
+construction of the LL index plot [29], the Hall conductance
+G_(xy) = R_(xy)/(R_(xy)² + R_(xx)²) at T = 1.85 K was derived. Next,
+positions of the extrema in G_(xy)(1/B) were identified by
+differentiating this function. The maxima in dG_(xy)/d(1/B) were labeled
+by integer numbers, while the minima by half-integer numbers,
+appropriately for a system with dominant hole-charge carriers [39]. As
+can be inferred from the lower inset to Fig. 3(a), a linear fit to the
+LL index data yielded an intercept of 0.43, which corresponds to the
+0.86π Berry phase. Though there is a little difference between the
+latter value and 0.7π obtained from the LK analysis, both are nontrivial
+being much closer to the theoretical value of π characteristic of Dirac
+fermions than to zero expected for Schrodinger fermions. Slightly
+reduced Berry phase with respect to the theoretical one may arise due to
+Zeeman coupling and/or small deviation from the ideal linear dispersion
+of Dirac fermions [40]. Analysis of weaker SdH oscillations of ρ_(xz) at
+0.4 K [upper inset of Fig. 2(d)] also resulted in nontrivial Berry phase
+of 0.96π [cf. lower inset to Fig. 3(a)].
+
+### Heat capacity
+
+Figure 4 shows the low-temperature dependence of specific heat capacity,
+C, measured in zero magnetic field. Our results at higher temperatures
+are fairly close to those published in literature: at 20 K we measured 6
+J/mol K, while Ref. [41] reported 6.6 J/mol K (at 10 K: 1 J/mol K and
+0.9 J/mol K, respectively). At lower temperatures we observed
+discrepancies with Ref. [41], indicating again that the electronic
+structure of YPtBi is strongly sample dependent.
+
+Figure 3: (a) Shubnikov–de Haas (SdH) oscillations of ρ_(xy) measured at
+1.85, 4, 6, and 10 K. Upper inset: SdH oscillations at T = 1.85 K. The
+solid line represents the LK fit discussed in the text [Eq. (1)]. Lower
+inset: Landau-level index plot. The solid straight lines fitted to the
+LL data (circles for ρ_(xy), squares for ρ_(xz)) have the intercepts
+indicated by arrows. (b) Temperature dependence of the SdH amplitude
+observed in a magnetic field of 8 T. The solid line is the LK fit (see
+the text). Inset: Dingle plot for the oscillations measured at 1.85 K.
+Solid line represents linear fit determining the Dingle temperature (see
+the text).
+
+Observed behavior of C(T) cannot be described by standard model for
+nonmagnetic metal. As emphasized in the inset of Fig. 4, C/T shows a
+distinct increase of C/T below 0.8 K. This effect can be attributed to
+nuclear contribution. Here both bismuth and yttrium can be responsible
+for this effect in YPtBi, due to rather big values of nuclear quadrupole
+moment. Contribution of the nuclear Schottky effect may be approximated
+as [42]C_(Sch) ∝ T⁻². We thus fitted our experimental data with equation
+
+C(T) = γ T + β T³ + δT⁻²,
+(2)
+
+where γ is the Sommerfeld electronic heat capacity coefficient and β is
+Debye lattice heat capacity coefficient. The fit is represented by the
+solid blue lines in Fig. 4. Analyzing the experimental data in terms of
+this formula we evaluated the following parameters: γ = 0.69 mJ/mol K²,
+β = 0.53 mJ/mol K⁴, and δ = 0.052 mJ K/mol.
+
+From the value of β one finds the Debye temperature,
+Θ_(D) = (36R_(g)π⁴/5β)^(1/3) = 222 K, where R_(g) is the gas constant.
+We note that the our γ is much bigger than 0.1 mJ/mol K² reported by
+Pagliuso _et al._[41] but they analyzed data collected at a
+significantly higher temperature range: 1.5-3.5 K. When we analyzed our
+data in the same temperature interval we got γ = 0.4 mJ/mol K², which is
+still bigger than that obtained in Ref. [41].
+
+Similar to LuPtBi, LuPdBi, and several antiferromagnetically ordered,
+superconducting half-Heusler phases, including HoPdBi (Refs. [14, 15,
+43, 44]), no anomaly in specific heat capacity is visible at the
+superconducting phase transition. Moreover, knowing the values of
+effective mass and Fermi wave vector derived from SdH oscillations and
+assuming that YPtBi has 3D spherical Fermi surface we calculated the
+Sommerfeld coefficient: γ = k_(B)²Vm^(*)k_(F)/3ℏ² = 0.014 mJ/mol K², a
+value nearly 50 times smaller than that derived from C(T) analysis.
+
+## IV Conclusions
+
+We confirmed the superconductivity of YPtBi single crystals with
+characteristic values of T_(c) = 0.97 K and B_(c2) ≈ 1.6 T, being fairly
+similar to previously reported [7, 8, 9]. Lack of anomaly near the onset
+of superconductivity on the temperature dependence of specific heat
+capacity is remarkable, because it might reflect the superconductivity
+of surface states which occupy only the small fraction of the whole
+sample volume.
+
+Magnetoresistance of YPtBi has several features typical for
+topologically nontrivial materials: (i) at low magnetic fields a sharp
+increase consistent with WAL effect, (ii) linear and nonsaturating
+behavior in high magnetic fields and wide range of temperatures, and
+(iii) quantum oscillations in magnetic field.
+
+The analysis of SdH oscillations brought us some insight into the Dirac
+fermion nature of carriers in YPtBi. Small value of effective mass and
+nonzero Berry phase are common features of Dirac systems with linear
+energy dispersion. We determined the Berry phase in two different ways,
+from the fitting Lifshitz-Kosevich formula to experimental data and with
+the help of Landau index plot–in both cases Berry phase is nonzero and
+very close to theoretical π value for Dirac fermion.
+
+Comparison of Sommerfeld coefficients derived from specific heat and
+quantum oscillation results suggests that SdH oscillations come from the
+electrons that occupy the Fermi surface much smaller than the one which
+brings out the observed specific heat capacity. Thus SdH oscillations
+seem to originate from a 2D Fermi surface (formed by Dirac fermions) or
+from small pockets of 3D Fermi surface (like those elongated electron
+pockets predicted by Meinert’s calculations [16]). These two possible
+sources of SdH oscillations do not exclude each other. Dirac cone always
+forms around inverted 3D bands, and when topological gap is below or
+above the Fermi level, a cross section of that Dirac cone consisting of
+2D surface states envelops closely a pocket of 3D Fermi surface.
+Frequencies and angular dependence of SdH oscillations corresponding to
+these 2D and 3D states may be very similar, making it difficult to
+distinguish 2D surface states from anisotropic 3D pockets. This obstacle
+seems to be present also in the case of YPtBi; however, the Berry phase
+points strongly in favor of Dirac states.
+
+Our results on electronic properties revealed several characteristics of
+nontrivial topology nature in YPtBi single crystals. But the final
+confirmation of such unusual properties must be sought via additional
+spectroscopic investigation. A report on photoemission study of YPtBi
+has been posted [45].
+
+## Acknowledgment
+
+This work was supported by the National Science Centre of Poland, Grant
+No. 2015/18/A/ST3/00057.
+
+## References
+
+* [1] T. Graf, C. Felser, and S. S. P. Parkin, Prog. Solid State Chem.
+**39**, 1 (2011). * [2] F. Casper, T. Graf, S. Chadov, B. Balke, and C.
+Felser, Semicond. Sci. Technol. **27**, 063001 (2012).
+
+Figure 4: Low temperature dependent specific heat capacity of YPtBi.
+Blue solid line represents the results of fitting with Eq. (2). Inset:
+specific heat capacity over temperature versus squared temperature. Blue
+solid line corresponds to the fit described by equation
+C/T = γ + β T² + δT⁻³. Red solid line represents the same function
+redrawn without nuclear Schottky term δT⁻³, showing the intercept
+γ = 0.69 mJ/mol K².
+
+* [3] S. Chadov, X. Qi, J. Kubler, G. H. Fecher, C. Felser, and S. C.
+Zhang, Nat. Mater. **9**, 541 (2010). * [4] H. Lin, L. A. Wray, Y. Xia,
+S. Xu, S. Jia, R. J. Cava, A. Bansil, and M. Z. Hasan, Nat. Mater.
+**9**, 546 (2010). * [5] W. Al-Sawai, H. Lin, R. S. Markiewicz, L. A.
+Wray, Y. Xia, S.-Y. Xu, M. Z. Hasan, and A. Bansil, Phys. Rev. B **82**,
+125208 (2010). * [6] W. Feng, D. Xiao, Y. Zhang, and Y. Yao, Phys. Rev.
+B **82**, 235121 (2010). * [7] N. P. Butch, P. Syers, K. Kirshenbaum, A.
+P. Hope, and J. Paglione, Phys. Rev. B **84**, 220504 (2011). * [8] T.
+V. Bay, T. Naka, Y. K. Huang, and A. de Visser, Phys. Rev. B **86**,
+064515 (2012). * [9] T. V. Bay, M. Jackson, C. Paulsen, C. Baines, A.
+Amato, T. Orvis, M. Aronson, Y. Huang, and A. de Visser, Solid State
+Commun. **183**, 13 (2014). * [10] F. F. Tafti, T. Fujii, A.
+Juneau-Fecteau, S. Rene de Cotret, N. Doiron-Leyraud, A. Asamitsu, and
+L. Taillefer, Phys. Rev. B **87**, 184504 (2013). * [11] Y. Pan, A. M.
+Nikitin, T. V. Bay, Y. K. Huang, C. Paulsen, B. H. Yan, and A. de
+Visser, Europhys. Lett. **104**, 27001 (2013). * [12] G. Xu, W. Wang, X.
+Zhang, Y. Du, E. Liu, S. Wang, G. Wu, Z. Liu, and X. X. Zhang, Sci. Rep.
+**4**, 5709 (2014). * [13] G. Goll, M. Marz, A. Hamann, T. Tomanic, K.
+Grube, T. Yoshino, and T. Takabatake, Physica B **403**, 1065 (2008). *
+[14] O. Pavlosiuk, D. Kaczorowski, and P. Wisniewski, Sci. Rep. **5**,
+9158 (2015). * [15] O. Pavlosiuk, D. Kaczorowski, X. Fabreges, A.
+Gukasov, and P. Wisniewski, Sci. Rep. **6**, 18797 (2016). * [16] M.
+Meinert, Phys. Rev. Lett. **116**, 137001 (2016). * [17] L. Fu and C. L.
+Kane, Phys. Rev. Lett. **100**, 096407 (2008). * [18] C. Nayak, S. H.
+Simon, A. Stern, M. Freedman, and S. Das Sarma, Rev. Mod. Phys. **80**,
+1083 (2008). * [19] Y. S. Hor, A. J. Williams, J. G. Checkelsky, P.
+Roushan, J. Seo, Q. Xu, H. W. Zandbergen, A. Yazdani, N. P. Ong, and R.
+J. Cava, Phys. Rev. Lett. **104**, 057001 (2010). * [20] L. Fu and E.
+Berg, Phys. Rev. Lett. **105**, 097001 (2010). * [21] S. Sasaki, M.
+Kriener, K. Segawa, K. Yada, Y. Tanaka, M. Sato, and Y. Ando, Phys. Rev.
+Lett. **107**, 217001 (2011). * [22] R. D. Zhong, J. A. Schneeloch, T.
+S. Liu, F. E. Camino, J. M. Tranquada, and G. D. Gu, Phys. Rev. B
+**90**, 020505 (2014). * [23] L. P. He, Z. Zhang, J. Pan, X. C. Hong, S.
+Y. Zhou, and S. Y. Li, Phys. Rev. B **88**, 014523 (2013). * [24] L.
+Fang, C. C. Stoumpos, Y. Jia, A. Glatz, D. Y. Chung, H. Claus, U. Welp,
+W.-K. Kwok, and M. G. Kanatzidis, Phys. Rev. B **90**, 020504 (2014). *
+[25] S. Sasaki, K. Segawa, and Y. Ando, Phys. Rev. B **90**, 220504
+(2014). * [26] B. Nowak and D. Kaczorowski, J. Phys. Chem. C **118**,
+18021 (2014). * [27] C. Liu, Y. Lee, T. Kondo, E. D. Mun, M. Caudle, B.
+N. Harmon, S. L. Bud’ko, P. C. Canfield, and A. Kaminski, Phys. Rev. B
+**83**, 205133 (2011). * [28] B. Nowak, O. Pavlosiuk, and D.
+Kaczorowski, J. Phys. Chem. C **119**, 2770 (2015). * [29] Y. Ando, J.
+Phys. Soc. Jpn. **82**, 102001 (2013). * [30] C. Shekhar, E. Kampert, T.
+Forster, A. K. Nayak, M. Nicklas, and C. Felser, arXiv:1502.00604. *
+[31] E. Mun, S. L. Bud’ko, and P. C. Canfield, Phys. Rev. B **93**,
+115134 (2016). * [32] M. Liu, J. Zhang, C.-Z. Chang, Z. Zhang, X. Feng,
+K. Li, K. He, L.-l. Wang, X. Chen, X. Dai, Z. Fang, Q.-K. Xue, X. Ma,
+and Y. Wang, Phys. Rev. Lett. **108**, 036805 (2012). * [33] S. X.
+Zhang, R. D. McDonald, A. Shekhter, Z. X. Bi, Y. Li, Q. X. Jia, and S.
+T. Picraux, Appl. Phys. Lett. **101**, 202403 (2012). * [34] S. Hikami,
+A. I. Larkin, and Y. Nagaoka, Prog. Theor. Phys. **63**, 707 (1980). *
+[35] D. Hou, G. Su, Y. Tian, X. Jin, S. A. Yang, and Q. Niu, Phys. Rev.
+Lett. **114**, 217203 (2015). * [36] V. E. Sacksteder, K. B.
+Armardottir, S. Kettemann, and I. A. Shelykh, Phys. Rev. B **90**,
+235148 (2014). * [37] D. Shoenberg, _Magnetic Oscillations in Metals_
+(Cambridge University Press, Cambridge, UK, 1984). * [38] When FS pocket
+is well approximated by an ellipsoid, its cross section changes as
+S ∝ (r⁻²sin²θ + cos²θ)^(−1/2) [this holds exactly for a two-axial
+ellipsoid described by (x/A)² + (y/A)² + (z/B)² = 1 and r = B/A]. For
+small θ and r ≫ 1 this function is very close to 1/cos θ. * [39] A. A.
+Taskin, F. Yang, S. Sasaki, K. Segawa, and Y. Ando, Phys. Rev. B **89**,
+121302 (2014). * [40] A. A. Taskin and Y. Ando, Phys. Rev. B **84**,
+035301 (2011). * [41] P. G. Pagliuso, C. Rettori, M. E. Torelli, G. B.
+Martins, Z. Fisk, J. L. Sarrao, M. F. Hundley, and S. B. Oseroff, Phys.
+Rev. B **60**, 4176 (1999). * [42] E. S. R. Gopal, _Specific Heats at
+Low Temperatures_ (Springer US, Boston, MA, 1966). * [43] E. D. Mun, S.
+L. Bud’ko, C. Martin, H. Kim, M. A. Tanatar, J.-H. Park, T. Murphy, G.
+M. Schmiedeshoff, N. Dilley, R. Prozorov, and P. C. Canfield, Phys. Rev.
+B **87**, 075120 (2013). * [44] Y. Nakajima, R. Hu, K. Kirshenbaum, A.
+Hughes, P. Syers, X. Wang, K. Wang, R. Wang, S. R. Saha, D. Pratt, J. W.
+Lynn, and J. Paglione, Sci. Adv. **1**, e1500242 (2015). * [45] Z. Liu
+_et al._, arXiv:1602.05633.

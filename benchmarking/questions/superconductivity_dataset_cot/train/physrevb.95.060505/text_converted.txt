@@ -1,0 +1,411 @@
+# Uniaxial pressure effect on the magnetic ordered moment and transition
+temperatures
+
+in BaFe_(2 − x)T_(x)As₂ (T = Co,Ni)
+
+David W. Tam,¹ Yu Song,¹ Haoran Man,¹ Sky C. Cheung,² Zhiping Yin,³
+Xingye Lu,¹ Weiyi Wang,¹ Benjamin A. Frandsen,² Lian Liu,² Zizhou Gong,²
+Takashi U. Ito,⁴ Yipeng Cai,⁵ Murray N. Wilson,⁵ Shengli Guo,⁶ Keisuke
+Koshiishi,⁷ Wei Tian,⁸ Bassam Hitti,⁹ Alexandre Ivanov,¹⁰ Yang
+Zhao,^(11, 12) Jeffrey W. Lynn,¹¹ Graeme M. Luke,⁵ Tom Berlijn,¹⁵ Thomas
+A. Maier,¹³ Yasutomo J. Uemura,² and Pengcheng Dai^(1, 3,)
+
+pdai@rice.edu ¹Department of Physics and Astronomy, Rice University,
+Houston, Texas 77005, USA
+
+²Department of Physics, Columbia University, New York, New York 10027,
+USA
+
+³Center for Advanced Quantum Studies and Department of Physics, Beijing
+Normal University, Beijing 100875, China
+
+⁴Advanced Science Research Center, Japan Atomic Energy Agency, Tokai,
+Ibaraki 319-1195, Japan
+
+⁵Department of Physics and Astronomy, McMaster University, Hamilton,
+Ontario, Canada L8S 4M1
+
+⁶Department of Physics, Zhejiang University, Hangzhou 310027, China
+
+⁷Department of Physics, University of Tokyo, 7-3-1 Hongo, Bunkyo-Ku,
+Tokyo 113, Japan
+
+⁸Quantum Condensed Matter Division, Oak Ridge National Laboratory, Oak
+Ridge, Tennessee 37831, USA
+
+⁹TRIUMF, Vancouver, British Columbia, Canada V6TZA3
+
+¹⁰Institut Laue-Langevin, 71 avenue des Martyrs, 38000 Grenoble, France
+
+¹¹NIST Center for Neutron Research, National Institute of Standards and
+Technology, Gaithersburg, Maryland 20899, USA
+
+¹²Department of Materials Science and Engineering, University of
+Maryland, College Park, Maryland 20742, USA
+
+¹³Center for Nanophase Materials Sciences and Computer Science and
+Mathematics Division, Oak Ridge National Laboratory, Oak Ridge,
+Tennessee 37831-6494, USA
+
+###### Abstract
+
+We use neutron diffraction and muon spin relaxation to study the effect
+of in-plane uniaxial pressure on the antiferromagnetic (AF) orthorhombic
+phase in BaFe₂As₂ and its Co- and Ni-substituted members near optimal
+superconductivity. In the low-temperature AF ordered state, uniaxial
+pressure necessary to defwin the orthorhombic crystals also increases
+the magnetic ordered moment, reaching an 11
+
+pacs: 2469-9950/2017/95(6)060505 + Footnote †: preprint: PHYSICAL REVIEW
+B **95**, 060505(R) (2017)
+
+Understanding the behavior of magnetism in iron superconductors
+continues to be an important topic in modern condensed matter physics
+because spin excitations may mediate electron pairing for
+high-temperature superconductivity [1, 2, 3, 4, 5, 6, 7]. Some of the
+earliest work in this field determined that iron pnictides such as
+LaFeAsO [1, 2] and BaFe₂As₂ [Figs. (a) and (b)] [3, 4, 5] form static
+stripe antiferromagnetic (AF) order at T_(N), preceded by a
+tetragonal-to-orthorhombic structural transition of the lattice at T_(s)
+(T_(N)≤T_(s)≤ 300 K). While AF order may be a spin-density wave (SDW)
+from nesting of hole and electron Fermi surfaces at the Γ and X points
+in the one-iron Brillouin zone [Figs. (c) and (d)], respectively [8, 9,
+10, 11], it may also originate from localized moments on individual Fe
+sites [12, 13, 14, 15].
+
+Upon hole doping to form Ba_(1 − x)Na_(x)Fe₂As₂, a magnetically ordered
+state with restored tetragonal symmetry is found near optimal
+superconductivity, replacing the stripe AF ordered state [16, 17].
+Mossbauer spectroscopy experiments find real-space modulation of
+magnetic moments on Fe sites, thus conclusively establishing that the
+magnetic order with tetragonal symmetry is a SDW from itinerant
+electrons [18]. For electron-doped BaFe_(2 − x)T_(x)As₂ (T = Co, Ni),
+long-range commensurate stripe magnetic order in BaFe₂As₂ evolves into
+short-range incommensurate magnetic order near optimal superconductivity
+[19, 20], due possibly to a SDW order [19] or a cluster spin glass [21,
+22, 23]. While these results suggest a rich variety of magnetic ground
+states for superconducting iron pnictides, nematic order has recently
+been identified as a unifying feature near optimal superconductivity,
+seen via the resistivity anisotropy induced by in-plane mechanical
+strain [24]. Since nematic order couples linearly to anisotropic strain
+of the same symmetry [25, 26], a determination of the effect of uniaxial
+pressure on magnetism of iron pnictides should reveal the observed
+nematic susceptibility [24] as associated with magnetic order and spin
+excitations.
+
+Without uniaxial strain, BaFe_(2 − x)T_(x)As₂ forms twinned domains in
+the orthorhombic state, with AF Bragg reflections occurring at (±1.0,L)
+and (0. ± 1,L) (L = 1,3,5, ...) [7]. Uniaxial pressure has been used to
+mechanically defwin single crystals by compressing along one axis of the
+orthorhombic lattice, creating a preferred orientation for microscopic
+domains [27, 28, 29]. However, even the modest amount of pressure
+necessary for detwinning (∼10 MPa) also induces a significant (∼1-2 K)
+upward shift of T_(N) in electron-doped BaFe₂As₂[30, 31, 32, 33, 34],
+and changes T_(s) into a crossover with orthorhombic lattice distortion
+at all temperatures [35]. One study combining a phenomenological
+Ginsburg-Landau model with density functional theory (DFT) calculations
+under uniaxial strain suggests that the magnetic ordered moment of
+BaFe₂As₂ decreases under pressure [36]. While previous neutron
+scattering experiments suggested this to be the case [30, 31], only
+(±1, 0, L) was measured and it is unclear how the combined magnetic
+signal at (±1, 0, L) and (0, ±1, L) evolve with applied pressure.
+Moreover, the bulk-averaged nature of neutron measurements cannot
+distinguish a change in magnetic volume fraction from a changing ordered
+moment. To conclusively determine the effect of uniaxial strain on
+magnetic order, one must combine neutron scattering with a probe such as
+muon spin relaxation (μSR) [37, 38].
+
+In this Rapid Communication, we use neutron diffraction, μSR, and
+combined DFT and dynamical mean field theory (DMFT) calculations [Figs.
+1(f)-1(h)] [39, 40] to study the effect of uniaxial pressure on the AF
+phase transition in BaFe_(2 − x)T_(x)As₂. In BaFe₂As₂, the sample
+achieves nearly 100
+
+For our combined DFT and DMFT calculations in the collinear AF state, we
+use the experimental crystal structure and the same Coulomb interactions
+used previously for BaFe₂As₂[39, 40]. We find that uniaxial strain does
+indeed enhance the ordered moment for BaFe_(1.915)Ni_(0.085)As₂ (Fig.
+3), and that the effect becomes larger for samples close to optimal
+superconductivity. The inset in Fig. 1(f) shows the dependence of the
+ordered magnetic moment on doping (x) and distortion
+[δ = (a − b)/(a + b)], which supports a much larger increase
+
+Figure 1: (a), (b) Real-space and Q-space configurations in the AF
+state, showing the majority-domain Bragg reflections
+$\mathbf{Q}_{\rm strong}=(\pm 1,0)$ in red dots for pressure applied
+along the b axis, and the minority-domain Bragg reflections
+$\mathbf{Q}_{\rm weak}=(0,\pm 1)$ as blue dots. (c), (d) Schematic
+illustration of the uniaxial-pressure-induced Fermi surface distortion
+parallel to the ab plane (at k_(z) = 0.375π/c) for (c) BaFe₂As₂ and (d)
+BaFe_(1.915)Ni_(0.085)As₂. Arrows indicate the direction of distortion
+in this k_(z) plane for the uniaxially strained case, which is much
+smaller than the thickness of the markers. Coloring shows the dominant
+orbital character as indicated in the inset. (e) Experimental phase
+diagram of BaFe_(2 − x)Ni_(x)As₂[47]. (f) Electron-doping dependence of
+the ordered magnetic moment with (M, red) and without (M₀, purple)
+uniaxial pressure obtained from a combined DFT/DMFT calculation. The
+inset shows δ = (a − b)/(a + b) dependence of M/M₀ at x = 0, 0.05, and
+0.1. (g) Theoretical/experimental results demonstrating the enhancement
+of ΔM/M as M decreases on approaching optimal doping [11]. (h)
+Enhancement of ΔT_(N)/T_(N), as T_(N) decreases on approaching optimal
+doping.
+
+of the magnetic moment in the doped compounds for fixed δ = 0.38%,
+corresponding to about 30 MPa in the parent compound. In Fig. 1(f), we
+fix the distortion δ = 0.0013 corresponding to about 10 MPa in the
+parent compound [35], and plot the ordered moment with (M at a > b) and
+without uniaxial pressure (M₀ at a = b). Using these results, in Fig.
+1(g) we define a susceptibility
+χ = [(M − M₀)/(M + M₀)]/[(a − b)/(a + b)], which is small in the parent
+compound but shows diverging behavior near x = 0.1 (dashed line).
+Because fixing the distortion δ = 0.0013 corresponds to a greater
+applied uniaxial pressure for the doped samples due to the larger bulk
+modulus in those compounds [26], the overplotted experimental points
+from neutron and μSR measurements may underestimate the moment increase
+relative to the calculated points. Nevertheless, we find a clear
+similarity between the theoretical and experimental results, implying
+that the divergence of the nematic susceptibility [24] has a magnetic
+origin.
+
+Figure 1(e) shows the schematic phase diagram of BaFe_(2 − x)Ni_(x)As₂,
+where Figs. 1(a) and 1(b) show the AF unit cell and Bragg peak positions
+in reciprocal space, respectively [7]. By gradually applying uniaxial
+pressure along the b-axis direction of the orthorhombic structure, the
+
+Figure 3: (a) Intensity change of Q_(strong) = (1, 0, 3) with uniaxial
+pressure on BaFe_(1.918)Ni_(0.088)As₂ at HB-1A (b) Shift in AF ordering
+temperature ΔT_(N) = T_(N)^((p)) − T_(N)^((p − 0)) (T_(N)^((p − 0)) ≈ 35
+K). (c) Rocking curves at Q_(strong) = (1, 0, 3), T = 20 K, measured at
+HB-1A in the [H, 0, L] scattering plane. (d) Temperature scans at HB-1A.
+The dashed line indicates the superconducting region
+(T_(A)^((0)Mn) − T_(N)⁽⁰⁾ ≈ −3 K) [11]. (e) Temperature dependence of
+the magnetic scattering intensity at Q_(strong) = (1, 0, 3) and
+Q_(weak) = (0, 1, 3) with and without pressure, measured _in situ_ at
+BT-7. (f) Combined rocking scans at (1, 0, 3) and (0, 1, 3). Data at 60
+K have been subtracted from each Q position before combining the data.
+(g) Fast muon relaxation rate λ. (h) Fast-relaxing fraction V_(M),
+demonstrating constant magnetic sample volume for all pressures below 35
+K.
+
+Figure 2: (a) Intensity change of the Q_(strong) = (1, 0, 5) peak with
+uniaxial pressure on BaFe₂As₄ at INS. (b) Detwinning ratio
+η = (I_(strong) − I_(weak))/(I_(strong) + I_(weak)) for both HB-1A and
+INS experiments, and the total intensity (circles) I_(strong) − I_(weak)
+at INS which remains conserved, up to small corrections that are
+attribute to the extinction effect. (c), (d) Rocking curves at (1, 0, 5)
+and (0, 1, 5) measured at INS at T = 90 K, demonstrating nearly 100
+
+sample becomes increasingly detwinned, which enhances the
+Q_(strong) = (±1, 0) Bragg peak while the Q_(weak) = (0, ±1) peaks
+become extinguished [red and blue dots in Fig. 1(b)] [30; 31; 32; 33].
+The striped brown boxes in Figs. 1(a) and 1(b) represent the
+low-temperature magnetic unit cell and its equivalent area in Q space,
+while in green we show the configurations for a single Fe ion [11].
+
+Figure 2 summarizes our experimental results on the uniaxial pressure
+effect in BaFe₂As₂. In Figs. 2(c) and 2(d), we show how the Bragg peak
+intensity becomes redistributed from the weak side
+[Q_(weak) = (0, ±1, L)] to the strong side [Q_(strong) = (±1, 0, L)],
+resulting in a near doubling of the strong reflection intensity [Fig.
+2(a)] while the total intensity remains conserved [Fig. 2(b)].
+Consistent with earlier work [30; 31], we find that pressure both
+enhances and broadens the magnetic phase transition. The rocking curves
+[Figs. 2(c) and 2(d)] at (1,0,5) and (0,1,5) were collected at INS at 90
+K [34]. The pressure dependence of the detwinning ratio, defined as
+η = (I₁₀ − I₀₁)/(I₁₀ + I₀₁), and total scattering intensity
+I_(total) = (I₁₀ + I₀₁)/(I₁₀ + I₀₁)_(P = 0) from both experiments are
+also included in Fig. 2(b), which shows a very small reduction in
+I_(total) between 0 and 5 MPa. Figures 2(e) and 2(f) show the effect of
+pressure on the magnetic ordering temperature [11].
+
+Figure 3 summarizes the uniaxial pressure dependence in
+BaFe_(1.915)Ni_(0.085)As₂. In a twinned sample, the elastic magnetic
+scattering intensity at (1,0,3) should be equal to that at (0,1,3),
+ignoring absorption and other instrumentation effects [11]. If magnetic
+moments do not react to the applied uniaxial pressure, one would expect
+the scattering intensity for a fully detwinned sample to at most double
+at the (1,0,3) position, such as in Fig. 2(a) for BaFe₂As₂. Figure 3(a)
+shows this is not the case: The scattering intensity at 20 K rises by a
+factor of ∼2.5 from 0 to 40 MPa. Considering the detwinning effect, this
+corresponds to a 25
+
+To disentangle the magnetic volume fraction from the ordered moment in
+BaFe_(1.915)Ni_(0.085)As₂, we carried out μSR measurements using the
+same crystal and under the same conditions [11]. We implanted muons with
+the spin polarization along the sample a axis and observed fast
+relaxation due to a buildup of the static internal magnetic field. From
+the zero field (ZF)-μSR time spectra in Ref. [11], we obtained the fast
+relaxation rate λ in Fig. 3(g), which is linearly proportional to the
+size of the local static magnetic moment (M), together with the volume
+fraction V_(M) of magnetically ordered regions in Fig. 3(h). In addition
+to confirming the pressure-induced T_(N) increase [Fig. 1(h)], we find
+that the relaxation rates at T = 20 K and T = 3 K exhibit a ∼10
+
+We carried out similar μSR measurements on BaFe_(1.9)Co_(0.1)As₂
+(T_(N) = 70 K). In a ZF environment, we observe oscillations in the time
+spectra that indicate the slope of long-range order, different from the
+spectra in BaFe_(1.915)Ni_(0.085)As₂[11] where the larger doping leads
+to significantly disordered magnetism [35; 37; 38; 44; 45; 46]. Assuming
+two muon stopping sites in BaFe_(2 − x)Co_(x)As₂[45], we fit the
+short-time coherent relaxation with a two-cosine function, separately
+fitting both frequencies for each temperature and uniaxial pressure,
+while globally constraining the other free parameters such as relaxation
+rates [11]. Figure 4(a) shows the uniaxial pressure evolution of the
+fast cosine frequency in the muon decay time spectra [Fig. 4(b)] for
+several temperatures. Although 2 K is below T_(c), the magnetic field
+increases at least as much as at 25 K, indicating that the magnetic
+phase may not be fully saturated at 25 K. To measure the magnetic volume
+fraction [Fig. 4(c)], we apply a weak (30 G) external magnetic field in
+order to clearly distinguish the fast-relaxing component from the long
+paramagnetic oscillations. The ordered phase volume saturates below ∼65
+K for all pressures,
+
+Figure 4: (a) Increase of the oscillation frequency in the fast-relaxing
+portion of the muon decay asymmetry, for T = 2 K (superconducting), 25
+K, and 45 K for BaFe_(1.9)Co_(0.1)As₂[11]. (b) Muon decay asymmetry at
+25 K as a function of uniaxial pressure. The fraction of muons remaining
+polarized in this short-time window are those landing in the nonmagnetic
+sample holder. (c) Fast-relaxing fraction of muons in a 30 G transverse
+magnetic field, demonstrating a constant magnetic sample volume below
+T_(N) = 65 K, as well as a broadening of the magnetic transition under
+pressure and an increase in T_(N). (d) Data in (a) plotted as an order
+parameter.
+
+while for higher temperatures the magnetic transition is broadened
+significantly for BaFe_(1.95)Co_(0.1)As₂ as it was with
+BaFe_(1.915)Ni_(0.085)As₂ [Fig. 3(h)].
+
+As the doping increases and the ordered magnetic moment correspondingly
+decreases, it is natural to expect that quantum fluctuations, including
+those related to a nematic quantum critical point [24], become
+important. Here we have demonstrated that an in-plane symmetry-breaking
+field is more effective in enhancing the ordered magnetic moment for
+nearly optimally doped iron pnictides. The corresponding decrease in
+T_(c) is consistent with the view that by slightly increasing the
+orthorhombicity, the doped system effectively shifts leftward on the
+phase diagram (toward the parent compound), and demonstrates that
+in-plane lattice distortion is a mechanism by which magnetism directly
+competes with superconductivity. Since the doped compounds react much
+more sensitively to uniaxial pressure, the enhanced magnetic properties
+demonstrate the sensitivity of magnetism to quantum fluctuations near
+optimal superconductivity, suggesting that nematic order is associated
+with both magnetism and optimal superconductivity in iron pnictides [24,
+25].
+
+The neutron scattering work at Rice is supported by the U.S.
+NSF-DMR-1362219 and DMR-1436006 (P.D.). The RPA calculations at
+Rice/ORNL are supported by NSF-DMR-1308603 (T.A.M. and P.D.). The
+materials synthesis efforts at Rice are supported by the Robert A. Welch
+Foundation Grant No. C-1839 (P.D.). The research at ORNL was sponsored
+by the Scientific User Facilities Division, Office of BES, U.S. DOE. The
+DFT and Wannier function calculations were conducted at the Center for
+Nanophase Materials Sciences, which is a DOE’s Scientific User Facility
+(T.B.). Work at Columbia and TRIUMF is supported by NSF DMR-1436095
+(DMREF program) and DMR-1610633 (Y.J.U.), Japan Atomic Energy Agency
+Reimeipci, and Friends of U. Tokyo Inc. The DFT+DMFT calculations at
+Beijing Normal University are supported by the National Natural Science
+Foundation of China (Grant No. 11674030) and the National Key Research
+and Development Program of China (Contract No. 2016YFA0302300) (Z.P.Y.).
+Research at McMaster is supported by the NSERC and the Canadian
+Institute for Advanced Research.
+
+D.W.T. and Y.S. contributed equally to this work.
+
+## References
+
+* [1] Y. Kamihara, T. Watanabe, M. Hirano, and H. Hosono, J. Am. Chem.
+Soc. **130**, 3296 (2008). * [2] C. de la Cruz _et al._, Nature (London)
+**453**, 899 (2008). * [3] Q. Huang, Y. Qiu, W. Bao, M. A. Green, J. W.
+Lynn, Y. C. Gasparovic, T. Wu, G. Wu, and X. H. Chen, Phys. Rev. Lett.
+**101**, 257003 (2008). * [4] S. D. Wilson, Z. Yamani, C. R. Rotundu, B.
+Freelon, E. Bourret-Courchesne, and R. J. Birgeneau, Phys. Rev. B
+**79**, 184519 (2009). * [5] M. G. Kim, R. M. Fernandes, A. Kreyssig, J.
+W. Kim, A. Thaler, S. L. Bud’ko, P. C. Canfield, R. J. McQueeney, J.
+Schmalian, and A. I. Goldman, Phys. Rev. B **83**, 134522 (2011). * [6]
+D. J. Scalapino, Rev. Mod. Phys. **84**, 1383 (2012). * [7] P. C. Dai,
+Rev. Mod. Phys. **87**, 855 (2015). * [8] I. I. Mazin, M. D. Johannes,
+L. Boeri, K. Koepernik, and D. J. Singh, Phys. Rev. B **78**, 085104
+(2008). * [9] P. J. Hirschfeld, M. M. Korshunov, and I. I. Mazin, Rep.
+Prog. Phys. **74**, 124508 (2011). * [10] A. Chubukov, Annu. Rev.
+Condens. Matter Phys. **3**, 57 (2012). * [11] See Supplemental Material
+at http://link.aps.org/supplemental/10.1103/PhysRevB.95.060505 for
+additional data and analysis. * [12] Q. Si and E. Abrahams, Phys. Rev.
+Lett. **101**, 076401 (2008). * [13] C. Fang, H. Yao, W. F. Tsai, J. P.
+Hu, and S. A. Kivelson, Phys. Rev. B **77**, 224509 (2008). * [14] C.
+Xu, M. Muller, and S. Sachdev, Phys. Rev. B **78**, 020501(R) (2008). *
+[15] D. N. Basov and A. V. Chubukov, Nat. Phys. **7**, 272 (2011). *
+[16] S. Avci, O. Chmaissem, J. M. Allred, S. Rosenkranz, I. Eremin, A.
+V. Chubukov, D. E. Bugaris, D. Y. Chung, M. G. Kanatzidis, J.-P.
+Castellan, J. A. Schlueter, H. Claus, D. D. Khalyavin, P. Manuel, A.
+Daoud-Aladine, and R. Osborn, Nat. Commun. **5**, 3845 (2014). * [17] F.
+Wasser, A. Schneidewind, Y. Sidis, S. Wurmehl, S. Aswartham, B. Buchner,
+and M. Braden, Phys. Rev. B **91**, 060505(R) (2015). * [18] J. M.
+Allred, K. M. Taddei, D. E. Bugaris, M. J. Krogstad, S. H. Lapidus, D.
+Y. Chung, H. Claus, M. G. Kanatzidis, D. E. Brown, J. Kang, R. M.
+Fernandes, I. Eremin, S. Rosenkranz, O. Chmaissem, and R. Osborn, Nat.
+Phys. **12**, 493 (2016). * [19] D. K. Pratt, M. G. Kim, A. Kreyssig, Y.
+B. Lee, G. S. Tucker, A. Thaler, W. Tian, J. L. Zarestky, S. L. Bud’ko,
+P. C. Canfield, B. N. Harmon, A. I. Goldman, and R. J. McQueeney, Phys.
+Rev. Lett. **106**, 257001 (2011). * [20] H. Q. Luo, R. Zhang, M. Laver,
+Z. Yamani, M. Wang, X. Y. Lu, M. Wang, Y. Chen, S. L. Li, S. Chang, J.
+W. Lynn, and P. C. Dai, Phys. Rev. Lett. **108**, 247002 (2012). * [21]
+A. P. Dioguardi, J. Crocker, A. C. Shockley, C. H. Lin, K. R. Shirer, D.
+M. Nisson, M. M. Lawson, N. apRoberts-Warren, P. C. Canfield, S. L.
+Bud’ko, S. Ran, and N. J. Curro, Phys. Rev. Lett. **111**, 207201
+(2013). * [22] A. P. Dioguardi, M. Lawson, B. T. Bush, J. Crocker, K. R.
+Shirer, D. M. Nisson, T. Kissikov, S. Ran, S. L. Bud’ko, P. C. Canfield,
+S. Yuan, P. L. Kuhns, A. P. Reyes, H.-J. Grafe, and N. J. Curro, Phys.
+Rev. B **92**, 165116 (2015). * [23] X. Y. Lu, D. W. T. C. Zhang, H.
+Luo, M. Wang, R. Zhang, L. W. Harriger, T. Keller, B. Keimer, L.-P.
+Regnault, T. A. Maier, and P. C. Dai, Phys. Rev. B **90**, 024509
+(2014). * [24] H.-H. Kuo, J.-H. Chu, J. C. Palmstrom, S. A. Kivelson,
+and I. R. Fisher, Science **352**, 958 (2016). * [25] R. M. Fernandes,
+A. V. Chubukov, and J. Schmalian, Nat. Phys. **10**, 97 (2014). * [26]
+A. E. Bohmer and C. Meingast, C. R. Phys. **17**, 90 (2016). * [27] J.
+H. Chu _et al._, Science **329**, 824 (2010). * [28] M. A. Tanatar, E.
+C. Blomberg, A. Kreyssig, M. G. Kim, N. Ni, A. Thaler, S. L. Bud’ko, P.
+C. Canfield, A. I. Goldman, I. I. Mazin, and R. Prozorov, Phys. Rev. B
+**81**, 184508 (2010). * [29] I. R. Fisher, I. Degiorgi, and Z. X. Shen,
+Rep. Prog. Phys. **74**, 124506 (2011). * [30] C. Dhital, Z. Yamani, W.
+Tian, J. Zeretsky, A. S. Sefat, Z. Wang, R. J. Birgeneau, and S. D.
+Wilson, Phys. Rev. Lett. **108**, 087001 (2012). * [31] C. Dhital, T.
+Hogan, Z. Yamani, R. J. Birgeneau, W. Tian, M. Matsuda, A. S. Sefat, Z.
+Wang, and S. D. Wilson, Phys. Rev. B **89**, 214404 (2014).
+
+* [32] Y. Song, S. V. Carr, X. Y. Lu, C. L. Zhang, Z. C. Sims, N. F.
+Luttrell, S. X. Chi, Y. Zhao, J. W. Lynn, and P. C. Dai, Phys. Rev. B
+**87**, 184511 (2013). * [33] X. Y. Lu, J. T. Park, R. Zhang, H. Q. Luo,
+A. H. Nevidomskyy, Q. Si, and P. C. Dai, Science **345**, 657 (2014). *
+[34] H. R. Man, X. Y. Lu, J. S. Chen, R. Zhang, W. L. Zhang, H. Q. Luo,
+J. Kulda, A. Ivanov, T. Keller, E. Morosan, Q. Si, and P. C. Dai, Phys.
+Rev. B **92**, 134521 (2015). * [35] X. Y. Lu, K. F. Tseng, T. Keller,
+W. L. Zhang, D. Hu, Y. Song, H. R. Man, J. T. Park, H. Q. Luo, S. L. Li,
+A. N. Nevidomskyy, and P. C. Dai, Phys. Rev. B **93**, 134519 (2016). *
+[36] M. Tomic, H. O. Jeschke, R. M. Fernandes, and R. Valenti, Phys.
+Rev. B **87**, 174503 (2013). * [37] T. Goko, A. A. Aczel, E.
+Baggio-Saitovitch, S. L. Bud’ko, P. C. Canfield, J. P. Carlo, G. F.
+Chen, P. Dai, A. C. Hamann, W. Z. Hu, H. Kageyama, G. M. Luke, J. L.
+Luo, B. Nachumi, N. Ni, D. Reznik, D. R. Sanchez-Candela, A. T. Savici,
+K. J. Sikes, N. L. Wang, C. R. Wiebe, T. J. Williams, T. Yamamoto, W.
+Yu, and Y. J. Uemura, Phys. Rev. B **80**, 024508 (2009). * [38] A. A.
+Aczel, E. Baggio-Saitovitch, S. L. Bud’ko, P. C. Canfield, J. P. Carlo,
+G. F. Chen, P. Dai, T. Goko, W. Z. Hu, G. M. Luke, J. L. Luo, N. Ni, D.
+R. Sanchez-Candela, F. F. Tatti, N. L. Wang, T. J. Williams, W. Yu, and
+Y. J. Uemura, Phys. Rev. B **78**, 214503 (2008). * [39] Z. P. Yin, K.
+Haule, and G. Kotliar, Nat. Mater. **10**, 932 (2011). * [40] Z. P. Yin,
+K. Haule, and G. Kotliar, Nat. Phys. **10**, 845 (2014). * [41] D. K.
+Pratt, W. Tian, A. Kreyssig, J. L. Zarestky, S. Nandi, N. Ni, S. L.
+Bud’ko, P. C. Canfield, A. I. Goldman, and R. J. McQueeney, Phys. Rev.
+Lett. **103**, 087001 (2009). * [42] A. D. Christianson, M. D. Lumsden,
+S. E. Nagler, G. J. MacDougall, M. A. McGuire, A. S. Sefat, R. Jin, B.
+C. Sales, and D. Mandrus, Phys. Rev. Lett. **103**, 087002 (2009). *
+[43] F. Hardy, P. Adelmann, Th. Wolf, H. v. Lohneysen, and C. Meingast,
+Phys. Rev. Lett. **102**, 187004 (2009). * [44] H.-H. Kuo and H. F.
+Fisher, Phys. Rev. Lett. **112**, 227001 (2014). * [45] T. J. Williams,
+A. A. Aczel, S. L. Bud’ko, P. C. Canfield, J. P. Carlo, T. Goko, Y. J.
+Uemura, and G. M. Luke, arXiv:1408.3643. * [46] T. J. Williams, A. A.
+Aczel, E. Baggio-Saitovitch, S. L. Bud’ko, P. C. Canfield, J. P. Carlo,
+T. Goko, J. Munevar, N. Ni, Y. J. Uemura, W. Yu, and G. M. Luke, Phys.
+Rev. B **80**, 094501 (2009). * [47] X. Lu, H. Gretarsson, R. Zhang, X.
+Liu, H. Luo, W. Tian, M. Laver, Z. Yamani, Y.-J. Kim, A. H. Nevidomskyy,
+Q. Si, and P. Dai, Phys. Rev. Lett. **110**, 257001 (2013).

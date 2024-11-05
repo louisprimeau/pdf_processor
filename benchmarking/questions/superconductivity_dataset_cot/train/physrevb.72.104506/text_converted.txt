@@ -1,0 +1,308 @@
+Low-temperature specific-heat and neutron-diffraction studies on Li₂Pd₃B
+and Li₂Pt₃B superconductors
+
+H. Takeya
+
+K. Hirata
+
+K. Yamaura
+
+and K. Togano
+
+National Institute for Materials Science, 1-2-1 Sengen, Tsukuba, Ibaraki
+305-0047, Japan
+
+M. El Massalami
+
+R. Rapp
+
+and F. A. Chaves
+
+Instituto de Fisica, Universidade Federal do Rio de Janeiro, Caixa
+Postal 68528, 21945-970 Rio de Janeiro, Brazil
+
+B. Ouladdiaf
+
+Institut Laue-Langevin, B.P. 156, 38042 Grenoble Cedex 9, France
+
+Received 9 May 2005; revised manuscript received 28 June 2005; published
+9 September 2005
+
+###### Abstract
+
+Powder neutron diffraction analysis on ¹¹B-enriched samples of Li₂Pd₃B
+and Li₂Pt₃B confirms the stability, down to liquid helium temperatures,
+of their antiperovskite structure (space group P432). The
+low-temperature normal-state specific heats (measured within the range
+400 mK <_T_<20 K and _H_≤70 koE) follow a superposition of a linear and
+a cubic term: for Li₂Pd₃B the Sommerfeld coefficient γ =9.0(1) mJ/mol K²
+and the Debye temperature θ_(D)=221(1) K while for Li₂Pt₃B, γ=7.0(1)
+mJ/mol K² and θ_(D)=228(1) K. Their thermodynamic superconducting
+temperatures _T_c are, respectively, 7.5(3) K and 2.17(5) K while
+ΔC/_gT_c are 2.0(3) and 1.39(3). The thermal evolution of the
+superconducting specific heat of Li₂Pd₃B is
+$C_{\rm ex}$(_T_<_T_c)=22γ_T_c exp(-2.1_T_c/_T_) J/mol K while for
+Li₂Pt₃B is $C_{\rm ex}$(_T_<_T_c)=8.5γ_T_c ×exp(-1.42γ_T_c/_T_) J/mol K.
+The analysis of these features, within the framework of the
+strong-coupled theory, suggests that Li₂Pt₃B is weakly coupled BCS-type
+superconductor [_T_c/_o_log→0, λ=0.48(2), _N_(_E_F_) =1.00(2)
+states/eV/formula unit, and 2Δ₀/_T_c=3.53] while Li₂Pd₃B is an
+intermediate-coupled BCS-type superconductor [_T_c/_o_log=0.068(5),
+λ=1.09(7), _N_(_E_F_)=0.91(4) states/eV/formula unit, and
+2Δ₀/_T_c=3.94(4)]. We discuss the reported reduction of _T_c with x in
+the solid solution Li₂(Pt₃Pd_(1 − λ))₃B.
+
+pacs: 10.1103/PhysRevB.72.104506 + Footnote †: preprint: PHYSICAL REVIEW
+B **72**, 104506 (2005)
+
+## I Introduction
+
+Recently superconductivity has been discovered in the antiperovskites
+Li₂Pd₃B (Ref. 1) and Li₂Pt₃B (Refs. 2 and 3). These compounds
+crystallize [4] in the cubic space group P432, wherein the Pd/Pt atoms
+are arranged at the vertices of distorted octahedra that are centered by
+a B ion. The octahedra share all vertices and as such form an extended
+three-dimensional framework. Each of the Li atoms–situated in the space
+between the distorted octahedra–is surrounded by three Li nearest
+neighbors at a distance of 2.55 A; such a Li-Li distance is less than
+that found in the Li metal (3.04 A), a feature considered by Eibenstein
+and Jung [4] as indicative of electronic charge transfer from lithium to
+the Pd/B (Pt/B) network. It is not yet clear whether this charge
+transfer is the driving mechanism behind the surge of the
+superconductivity in these metal-rich borides; nonetheless, the presence
+of both a shorter Li-Li distance and a distorted octahedral remains a
+remarkable structural property, which deserves further studies. This
+work, utilizing the neutron powder diffraction analysis with it superior
+sensitivity for the lighter Li and B atoms, reports on the structural
+properties of these compounds with particular attention to their
+structural stability when the temperature is decreased down to the
+superconducting region.
+
+The structural and normal-state properties of Li₂Pd₃B and Li₂Pt₃B are
+very similar. Both show similar metallic-type resistivity, [2, 3] with
+the same magnitude, the same thermal evolution, and the same ratio ρ₃₀₀
+K/ρ₁₀ K =1.4. In addition, electronic structure calculations [5] show
+that there is a similarity in the electron density distribution of both
+compounds, that the density of state at the Fermi level _N_(_E_F_) is
+due predominantly to the d orbitals of the Pd/Pt atoms hybridized with B
+_2p_ and Li _2p_ states, [6, 7, 8] and that the total _N_(_E_F_) is
+larger in Li₂Pt₃B than that in Li₂Pd₃B.
+
+The superconducting parameters of Li₂Pd₃B are substantially enhanced as
+compared to that of Li₂Pt₃B (e.g., the superconducting transition point
+_T_c of the former is three times higher than that of the latter). [2,
+3, 9] Such a tendency is clearly manifested in the systematic studies on
+the solid solution Li₂(Pt_(x)Pd_(1 − x))₃B. [2, 3] as a matter of fact,
+_T_c varies almost linearly with x. Considering the remarkable
+similarity between their structural and normal-state electronic
+properties and, furthermore, that there are no obvious pair-breaking
+mechanism(s), it is then surprising that their superconducting
+properties, in particular _T_c, are much different. It is then of
+interest to investigate the cause of such a variation and as well the
+pairing mechanism in these metal-rich ternary borides and therefrom
+deduce the origin of the almost linear behavior of _T_c with x. As a
+contribution in that direction, it is most appropriate to undertake
+specific heat measurements so as to probe the low-temperature thermal
+and electronic properties of the two end members of this series. Then it
+is possible to judge whether there is any correlation between the
+superconductivity, the thermal/electronic properties, and the content of
+the Pt/Pd atoms. With that objective in mind, in this work we report on
+the specific-heat measurements on Li₂Pd₃B and Li₂Pt₃B within the range
+0.4 K < T< 20 K and in a magnetic field up to 70 kOe (a limit that is
+higher than H_(c2)).
+
+## II Experimental
+
+Samples were prepared by a two-stage arc-melting process (for details,
+see Ref. 1). Basic characterizations such as room-temperature x-ray
+diffraction, magnetization, and resistivity were carried out, and the
+obtained results are in good agreement with the published data.[2, 3, 4]
+This is particularly valid for the XRD results, however, since the x-ray
+diffractometry is less sensitive to the lighter elements, we also
+carried out powder neutron diffraction analysis on ¹¹B-enriched samples.
+These measurements were carried out between 2 and 300 K at the Institut
+Laue-Langevin in Grenoble, France; patterns of Li₂Pt₃B were collected
+using the D1A diffractometer with a selected λ = 1.91 A while for those
+of Li₂Pd₃B, the D2B diffractometer was used with λ = 1.595 A. Rietveld
+refinements were carried out using the fullprof package of
+Rodriguez-Carvajal (L. L. B.).
+
+The specific heat measurements were carried out on two different types
+of calorimeters. A zero-field semadiabatic calorimeter operated within
+the range 400 mK < T< 20 K and having a precision of better than 4
+
+## III Results and Analysis
+
+### Neutron powder diffraction
+
+The low-temperature diffractograms of both compounds are shown in
+Fig. 1. The results of the refinements (see Table 1) confirm the
+room-temperature structural model of Eibenstein and Jung:[4] within our
+statistics and considering the temperature difference, all the
+parameters (specifically position, occupation, and anisotropic thermal
+parameters) are almost equal to the reported ones.[4] For the particular
+case of Li₂Pt₃B, the a parameter is 6.7465(1) A at 300 K while 6.7345(1)
+A at 2 K: only a 0.18
+
+The position parameters of Li and Pt/Pd atoms that are not fixed by
+symmetry are very similar to those of Eibenstein and Jung[4] (see
+Table 1) and, in addition, they do not show any noticeable variation on
+going from 300 down to 2 K. Based on these and the above-mentioned
+findings, it is inferred that the basic room-temperature structural
+features remains unaltered. Specifically, the Li-Li distance is hardly
+modified on lowering the temperature; as a consequence the charge
+transfer to the T/B network, if solely governed by Li-Li distance, is
+unaffected by such temperature variations.
+
+### Specific heat
+
+The specific heat of Li₂Pd₃B is shown in Fig. 2. Its normal state
+properties were achieved after quenching the superconductivity in a
+magnetic field of 70 kOe (>H_(c2)).[1] Under such a condition, the
+normal-state specific heat is adequately described by a superposition of
+a Sommerfeld (γ_T_) and Debye (β_T_³) term: in a region of 2 K < T< 5 K,
+the normal-state coefficients are γ=9.0(1) mJ/mol K² and β=1.08(1)
+mJ/mol K⁴.
+
+The zero-field specific heat of Li₂Pt₃B is shown in Fig. 3. Its
+normal-state specific heat was analyzed as a sum of a linear and a cubic
+term; here also the analysis had been limited to the range T_(c) < T< 5
+K. The fit is excellent, giving γ=7.0(1) mJ/mol K² and β=0.98(1) mJ/mol
+K⁴. Assuming no (drastic) modification in the normal-state properties
+due to the 70 kOe field, a comparison of γ and β of the two compounds
+(see Table 2) suggests that for the case of Li₂Pd₃B, γ is almost 30
+
+$$\gamma=\frac{2}{3}\pi^{2}k_{B}^{2}(1+\lambda)N(E_{F}).$$
+(1)
+
+As λ appears also in expressions governing the superconducting
+properties of these compounds (see below), then it is possible to
+evaluate separately each of N(E_(F)) and λ; in an
+
+Figure 1: Neutron powder diffractograms of (a) Li₂Pd₃B at 3 K and (b)
+Li₂Pt₃B at 2 K. For each panel, symbols represent the total measured
+diffraction intensity while the solid line gives the calculated pattern.
+The difference curve is shown at the bottom while the Bragg positions
+are indicated as short bars. Some refined parameters are given in
+Table 1. The reliability factors for Li₂Pt₃B (having, relatively, better
+statistics) are R_(B)=5.5 and R_(F)=3.9.
+
+ticipation, the enhancement of γ is due mainly to an increase in λ (see
+below).
+
+From the analysis of the specific heats at the onset of the
+superconducting state (Figs. 2 and 3) and utilizing the balance of
+entropy (see the inset of Fig. 3), we extracted the values of T_(c) and
+ΔC/γT_(c) (the specific-heat jump at T_(c)): T_(c) of Li₂Pd₃B is 7.5(2)
+K while that of Li₂Pt₃B is 2.17(5) K (both agree very well with the
+reported values [1, 3]). ΔC/γT_(c) is 2.0(3) for Li₂Pd₃B while 1.39(3)
+for Li₂Pt₃B: since for a standard BCS superconductor ΔC/γT_(c)=1.43, it
+is evident that Li₂Pt₃B agrees quite reasonably with the weakly-coupled
+BCS prediction, but Li₂Pd₃B deviates appreciably due to strong-coupling
+effects (see below). It is worth mentioning that for the particular case
+of Li₂Pd₃B, the large errors in ΔC/γT_(c) and T_(c) are due to an
+almost-1 K-broadened-transition region, which, according to Togano _et
+al._, [1] is due to the nonstoichiometry of lithium. For this reason, we
+did not evaluate the thermal evolution of ΔC(T)/γT in the neighborhood
+of T_(c) nor its thermal derivative at T_(c).
+
+The analysis of the electronic specific heat within the superconducting
+phase $C_{\rm es}(T)$ of Li₂Pd₃B is shown in Fig. 4 while that of
+Li₂Pt₃B in Fig. 5. Evidently in both figures, $C_{\rm es}(T)$ reflects
+clearly an exponential behavior, indicative of a gap character. For
+Li₂Pd₃B, the solid line represents $C_{\rm es}(T)$=22γT_(c)
+exp(-2.17_(c)/_T_) J/mol K while for Li₂Pt₃B, $C_{\rm es}(T)$=8.5γT_(c)
+exp(-1.42T_(c)/_T_) J/mol K. It is recalled that for a weak-coupled BCS
+superconductor, [10]$C_{\rm es}(T)$ =8.5γT_(c) exp(-1.44T_(c)/_T_) for
+2.5<T_(c)/_T_<6, $C_{\rm es}(T)$ =26γT_(c) exp(-1.62T_(c)/_T_) for
+7<T_(c)/_T_<12, and $C_{\rm es}(T)$
+=3.15γT_(c)(T_(c)/_T_)${  is considered to be due to strong-coupling corrections.
+
+Finally, the ratio \(\theta_{D,{\rm P}_{\rm i}}\sqrt{M_{\rm Pl}}/(\theta_{D,{\rm pd}}\sqrt{M_{\rm pd}}) \approx 1.4$
+is 40
+
+## IV Discussion and Conclusion
+
+According to the above-shown specific heats, the low-temperature
+normal-state electronic and thermal properties of the studied compounds
+can be described, respectively, within the Sommerfeld and Debye
+approximations. The range of γ indicates a conventional Fermi liquid
+behavior. Further, the bulk character of their superconductivities is
+clearly revealed and that the evolution of their specific heat within
+the superconducting phase is indicative of a thermal activation across a
+superconducting gap: for Li₂Pd₃B the conventional gapped
+superconductivity is in line with the findings of Nishiyama _et al.[7]_
+On checking this exponential character and the ranges of ΔC/γT_(c)
+against the predictions of the renormalized BCS model, it is concluded
+that Li₂Pt₃B is a weak-coupled BCS superconductor with, presumably, an
+electron-phonon pairing mechanism. The characteristic (superconducting)
+parameters of Li₂Pt₃B (see Table II) were evaluated based on the
+BCS-type relations, namely [12, 13, 14]
+
+[ΔC/γT_(c)]_(T_(c)) = 1.43,  2Δ₀/k_(B)T_(c) = 3.53,  and
+
+T_(c) = (θ_(D)/1.45)exp [−(1 + λ)/(λ − μ^(*))],
+(2)
+
+where 2Δ₀ is the superconductivity gap at zero temperature and μ^(*) is
+the Coulomb pseudopotential, which, according to
+
+c c c c c c c c c c c & &
+Li₂$T_{\rm J}$B & T_(c) & γ & θ_(D) & $\omega_{\rm ln}$ &
+$\omega_{\rm ln}$ & 2Δ₀/T_(c) & K & $T_{c}/\omega_{\rm ln}$ & 2Δ₀/T_(c)
+& K & λ & 1/eV/fru
+Li₂Pd₃B & 7.5(3) & 9.0(1) & 221(1) & 2.0(3) & 110(10) & 0.068(5) &
+3.94(4) & 29.6(1.0) & 1.09(7) & 0.91(4)
+Li₂Pt₃B & 2.17(5) & 7.0(1) & 228(1) & 1.39(3) & - & ≈0 & 3.53 & 7.7(2) &
+0.48(2) & 1.00(2)
+
+Table 2: Normal and superconducting parameters of Li₂Pd₃B and Li₂Pt₃B.
+All terms have their usual definitions. (Renormalized) BCS relations
+[Eq. (2)] are used for the calculation on Li₂Pt₃B, while their
+corresponding strong-coupling corrections [Eqs. (3)–(5)] are used for
+the calculation on Li₂Pd₃B. Standard deviations are included for the
+calculated quantities. Note that the pre-exponential factor in Eq. (2)
+is θ_(D)/1.45 while that in Eq. (5) is $\omega_{\rm ln}/1.2$ (Ref.
+[13]). For Li₂Pt₃B, if instead of θ_(D) we use
+$\omega_{\rm ln}$≈$\omega_{\rm ln}$(Li₂Pd₃B) = 110 K, then λ is
+increased by 13
+
+Figure 4: Reduced electronic specific heat $C_{\rm es}/\gamma T_{c}$ vs
+reduced temperature T_(c)/T of Li₂Pd₃B. The solid lines indicates the
+calculated, normalized specific heat: $C_{\rm es}(T)/\gamma T_{c}$ = 22
+exp(−2.1T_(c)/T).
+
+Figure 5: Reduced electronic specific heat $C_{\rm es}/\gamma T_{c}$ vs
+reduced temperature T_(c)/T of Li₂Pt₃B. The solid lines indicates the
+calculated, normalized specific heat: $C_{\rm es}(T)/\gamma T_{c}$ = 8.5
+exp(−1.42T_(c)/T). The low-temperature deviation is discussed in the
+text.
+
+Chandara _et al._,[5] can be significant in these compounds (taken here
+to be 0.13).
+
+The above quoted weak-coupling relations are found to be inadequate for
+the case of Li₂Pd₃B. Considering the structural and electronic
+isomorphism between these two compounds, the superconductivity of
+Li₂Pd₃B is considered to be of the same character as that of Li₂Pt₃B–the
+assumption of phonon mediation is in line with the arguments Refs. [6]
+and [7]–but with a relatively stronger coupling constant. Indeed, its
+measured superconducting properties compare favorably with the following
+strong-coupling corrections (valid for
+$T_{c}/\omega_{\rm log}\!\ll\!1$):[12, 13, 14]
+
+$$\left[\Delta C/\gamma T_{c}\right]_{T_{c}}=1.43[1+53(T_{c}/\omega_{\rm log})^{2 }\ln(\omega_{\rm log}/3T_{c})],$$
+(3)
+
+$$2\Delta_{0}/k_{B}T_{c}=3.53[1+12.5(T_{c}/\omega_{\rm log})^{2}\ln(\omega_{\rm log }/2T_{c})],$$
+(4) 7] M. Nishiyama, Y. Inada, and G. Q. Zheng, Phys. Rev. B **71**,
+220505(R) (2005). * [8] M. Sardar and D. Sa, Physica C **411**, 120
+(2004). * [9] H. Q. Yuan, D. Vandervelde, M. B. Salamon, P. Badica, and
+K. Togano, cond-mat/0506771, 2005. * [10] E. S. R. Gopal, _Specific Heat
+at Low Temperatures_ (Plenum, New York, 1966). * [11] T. He, Q. Huang,
+A. P. Ramirez, Y. Wang, K. A. Regan, N. Rogado, M. A. Hayward, M. K.
+Haas, J. S. Slusky, K. Inumara H. W. Zandbergen, N. P. Ong, R. J. Cava,
+Nature (London) **411**, 54 (2001). * [12] W. L. McMillan, Phys. Rev.
+**167**, 331 (1968). * [13] P. B. Allen and R. C. Dynes, Phys. Rev. B
+**12**, 905 (1975). * [14] J. P. Carbotte, Rev. Mod. Phys. **62**, 1027
+(1990). * [15] M. Ishikawa and E. Toth, Phys. Rev. B **3**, 1856 (1971).

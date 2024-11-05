@@ -1,0 +1,110 @@
+
+
+# Energy gap and proximity effect in MgB\({}_{2}\) superconducting wires
+
+R. Prozorov\({}^{\ast}\) and R. W. Giannetta
+
+Loomis Laboratory of Physics, University of Illinois at Urbana-Champaign, 1110 West Green Street, Urbana, Illinois 61801
+
+S. L. Bud'ko and P. C. Canfield
+
+Ames Laboratory and Department of Physics and Astronomy, Iowa State University, Ames, Iowa 50011
+
+###### Abstract
+
+Measurements of the penetration depth \(\lambda(T,\mathit{H})\) in the presence of a dc magnetic field were performed in MgB\({}_{2}\) wires. In as-prepared wires \(\lambda(T,\mathit{H}\)<130 Oe) shows a strong diamagnetic downturn below \(\approx\)10 K. A dc magnetic field of 130 Oe completely suppressed the downturn. The data are consistent with proximity coupling to a surface Mg layer left during synthesis. A theory for the proximity effect in the clean limit, together with an assumed distribution of the Mg layer thickness, qualitatively explains the field and temperature dependence of the data. Removal of the Mg by chemical etching results in an exponential temperature dependence for \(\lambda(T)\) with an energy gap of \(2\Delta(0)/T_{c}\)\(\approx\)1.54 [\(\Delta(0)\)\(\approx\)2.61 meV], in close agreement with recent measurements on commercial powders and single crystals. This minimum gap is only 44% of the BCS weak coupling value, implying substantial anisotropy.
+
+pacs: 01.1103/PhysRevB.64.180501 +
+Footnote †: preprint: APS/123-QED
+
+Superconducting MgB\({}_{2}\) (Ref. [1]) presents, for possibly the first time, a combination of phonon-mediated pairing together with a relatively high transition temperature (\(T_{c}\)\(\approx\)39.4 K) comparable to hole-doped cuprates. Evidence for a phonon mechanism has come from several measurements which indicate a substantial isotope effect.[2, 3] Tunneling measurements have given values of the energy gap ratio \(\delta\) =2\(\Delta(0)/T_{c}\) ranging from 1.25 to 4.[4, 5, 6, 7] NMR measurements of the \({}^{11}\)B nuclear spin-lattice relaxation rate give \(\delta\)\(\approx\)5,[8] while photoemission spectroscopy gives \(\delta\)\(\approx\)3.[9] A recent tunneling measurement has shown evidence for two energy gaps.[10]
+
+The temperature dependence of the London penetration depth \(\lambda\) is a sensitive probe of the quasiparticle density of states and thus the minimum energy gap. Some early data for \(\lambda\) in commercial MgB\({}_{2}\) powders showed apparent power law behavior suggesting nodes.[11, 12] It is important to make sure that no extrinsic factors exist that may bias the interpretation of \(\lambda(T)\). A persistent complication has been the presence of surface contaminants remaining from the growth process, most notably elemental Mg. In this paper we report magnetic screening measurements of dense MgB\({}_{2}\) wires grown around a tungsten core. The presence of a Mg layer on as-grown wires gives rise to a large increase in the diamagnetic response below 10 K. The temperature and field dependencies of the magnetic screening are consistent with proximity induced correlations. After etching, the same wires show exponential behavior with a gap ratio of \(\delta\)\(\approx\)1.54, less than 1/2 the BCS value of 3.53 and very close to the value obtained from recent penetration depth measurements on both commercial powders[13, 14] and single crystals.[15]
+
+Growth of the MgB\({}_{2}\) wires has been described in detail elsewhere.[16] In brief, boron fibers and Mg with a nominal ratio of MgB\({}_{2}\) were sealed in a Ta tube. The tube was sealed in quartz and placed in a box furnace at 950 degC for approximately 2 h. The reaction ampoule was then removed from the furnace and quenched to room temperature. The wire samples used here had a tungsten core of 15 \(\mu\)m diameter, outer diameters of 180 \(\mu\)m and 200 \(\mu\)m and were 2 mm long. Superconducting quantum interference device magnetometer measurments showed essentially ideal Meissner screening (\(-\)4\(\pi\chi\)=1) in applied fields up to 1000 Oe. However, tunnel diode measurements with much higher sensitivity revealed a clear diamagnetic downturn below 10 K which we show was due to surface Mg. The Mg layer was identified by local x-ray diffraction analysis and could be etched away with an 0.5% solution of HCl in ethanol. Scanning electron microscopy pictures after etching revealed a sinter of hexagonal MgB\({}_{2}\) crystallites with some traces of MgO.
+
+The penetration depth was measured with an 11 MHz tunnel-diode driven LC resonator used in several previous studies.[17] An external dc magnetic field (0-7 kOe) could be applied parallel to the ac field (\(\sim\)5 mOe) using a compensated superconducting solenoid. The oscillator frequency shift \(\Delta f\)=\(f(T)-f(T_{min})\) is proportional to the rf susceptibility and thus to changes in the penetration depth, \(\Delta\lambda\) =\(\lambda(T)-\lambda(T_{min})\) via \(\Delta f\)= \(-\)\(G\Delta\lambda\), where \(G\) is a calibration constant.[17] The random orientation of MgB\({}_{2}\) crystallites implied that these measurements represent an average over in-plane and out-of-plane \(\lambda\). The polycrystalline nature also made it difficult to reliably estimate \(G\) for the wires. Therefore, all penetration depth data are plotted as raw frequency shift, after subtraction of the sample holder background. Decreasing frequency corresponds to increased diamagnetic screening.
+
+Figure 1 shows the temperature dependence of the oscillator frequency in as-prepared wires for zero dc field. The inset is a magnification of the low-temperature behavior, showing a pronounced diamagnetic downturn below 10 K for two separate wires of somewhat different diameter. This downturn disappeared completely upon etching the wires. We attribute this downturn to a proximity effect induced in the Mg surface layer. Enhanced diamagnetism is a generic feature of proximity systems as carriers in the normal metal layer gradually acquire pairing correlations and develop a Meissner screening response.[18, 19, 20, 21]
+
+Several quasiclassical analyses of proximity systems ranging from clean to intermediate have shown that the characteristic temperature for the appearance of screening is \(5T_{A}\) where \(T_{A}\!=\!h\,V_{F}\!/2\pi\,\pi_{k}g_{d}\) is the Andreev temperature.[22, 23, 24] For clean systems, \(T_{A}\) is the temperature at which the normal metal coherence length \(\xi_{N}(T)\!=\!h\,V_{F}\!/2\pi\,k_{B}T\) equals the normal metal layer thickness \(d\). Here \(V_{F}\) is the Fermi velocity. For Mg the coherence length varies from 0.2 \(\mu\)m at \(T\) = 1 K to 2 \(\mu\)m at 10 K, suggesting an average \(Mg\) thickness of 2 \(\mu\)m and an Andreev temperature \(T_{A}\!\sim\!0.6\) K.
+
+Whether the proximity sandwich is in the clean or dirty limit depends upon the electronic mean free path, \(l_{e}\), in the Mg layer, which is not known accurately. For example, a residual resistance ratio of 20 would give \(l_{e}\!=\!0.2\)\(\mu\)m, which must be compared to both \(\xi_{N}\) and \(d\). The clean limit requires \(l_{e}\!\gg\!\min\{\xi_{N},d\}\) while the dirty limit requires \(l_{e}\!\gg\!\xi_{N},d\}\). Strictly speaking, the latter regime requires that both the normal metal _and_ superconductor be in the dirty limit, which is most likely not true for MgB\({}_{2}\).[24] Over the temperature range \(1\!-\!10\) K, all three numbers are comparable and we are likely in an intermediate range for which there is no analytic solution for the susceptibility.[24] Uncertainties in the parameters did not justify fitting to the full numerical solutions. We therefore fit the data to both clean and dirty limits where analytic solutions are available in order to gain some qualitative understanding.
+
+In the clean limit the diamagnetic susceptibility of the normal metal layer is given by[23]
+
+\[4\,\pi\chi_{clean}\!=\!-\frac{3}{4}\,\frac{1}{1+3\,\lambda_{N}^{2}(T)/d^{2}}.\] (1)
+
+The factor 3/4 comes from the nonlocal response in the normal metal layer that overscreens the external field and \(\lambda_{N}(T)\) is a length scale given by[22, 23, 24]
+
+\[\frac{\lambda_{N}(0)}{\lambda_{N}(T)}\!=\!\gamma(\Delta,T)\sqrt{\frac{6\,\xi_{ N}(T)}{d}}e^{-d/\xi_{N}(T)}.\] (2)
+
+Here \(\lambda_{N}(0)\!=\!\sqrt{4\,\pi ne^{2}\!/m}\!\approx\!180\) A is formally the London penetration depth in a superconductor with the carrier mass and density of Mg. The energy gap of the superconductor enters through the factor,
+
+\[\gamma(\Delta,T)\!=\!\Delta/[\,\pi k_{B}T\!+\!\sqrt{\Delta^{2}\!+\!(\,\pi k_{ B}T)^{2}}\,].\] (3)
+
+We take \(\Delta\!=\!2.6\) meV from our own data shown later. For the dirty limit, a solution of the Usadel equations[25, 26] leads to a power law susceptibility without any characteristic temperature:
+
+\[-4\,\pi\chi_{dirty}\!\propto\!\frac{\xi_{D}}{d}\!=\!\frac{1}{6}\sqrt{\frac{ \hbar\,V_{F}l_{e}}{6\,\pi k_{B}T}}\] (4)
+
+A key feature of the proximity effect is the disappearance of screening in applied fields greater than a breakdown field \(H_{b}(T,d)\). In the clean limit this field is given by[23, 27]
+
+\[H_{b}(\mbox{clean})\!\approx\!\frac{\sqrt{2}}{\pi}\,\gamma(\Delta,T)\frac{\phi _{0}}{\lambda_{N}(0)d}e^{-d/\xi_{N}(T)},\] (5)
+
+where \(\phi_{0}\) is the superconducting flux quantum and the result holds for \(T\!\gg\!T_{A}\). The temperature and film thickness dependence of \(H_{b}(T,d)\) has been verified in proximity systems that vary from somewhat dirty to clean[20] and should therefore be applicable here. The breakdown field in the dirty limit is given by[23, 27]
+
+\[H_{b}(\mbox{dirty})\!\approx\!1.9\frac{\phi_{0}l_{e}}{\lambda_{N}(0)\,\xi_{D} ^{2}}\,e^{-d/\xi_{D}}.\] (6)
+
+Our device measures the screening of a very small ac field in the presence of a much larger dc field \(H\). We assume that once \(H\!\!>\!H_{b}\) the ac screening vanishes. For \(H\!\!<\!H_{b}\) we assume that the zero-field susceptibility expression holds. This approach clearly ignores nonlinear effects which a more
+
+Figure 1: Temperature dependence of the penetration depth at zero dc field. Inset: low-temperature region for two different diameter wires.
+
+Figure 2: Fits to clean limit proximity effect. Data in zero field were fit to obtain \(d\!\approx\!1.95\)\(\mu\)m and \(\sigma\!\approx\!1.2\)\(\mu\)m. Finite field (solid) curves were then generated from Eq. (7). Data for \(H\!=\!0,20\), and 130 Oe are shown. Inset: Comparison of dirty and clean limits at zero field. The dirty limit did not fit the data at any choice of parameters.
+
+  carefully controlled experiment could address. The Mg layer was not uniform and we used a probability distribution for the normal metal layer thickness. The frequency shift measured upon extraction of the sample from the coil _in situ_, combined with the additional diamagnetic screening, Fig. 2, gives an estimate of the Mg layer thickness of \(d\)=1.62, close to the clean limit fit value, \(d\)\(\approx\) 1.95. Based upon many studies of film growth and random processes in condensed matter systems we adopt a log-normal distribution of film thicknesses \(p(x,d,\sigma)\)=(\(\sqrt{2}\,\pi x\sigma)^{-1}\)exp\([(\log x-d)/\sqrt{2}\,\sigma]^{-2}\) where \(d\) is the mean thickness and \(\sigma\) the variance. A Gaussian distribution gave a less satisfactory fit. The proximity-enhanced diamagnetic contribution to the signal was then taken to be
+
+\[\Delta f^{\infty}\int_{0}^{\pi}\chi_{N}(T)p(x;d,\sigma)\,\theta(H-H_{b}(T,x))dx.\] (7)
+
+In order to fit the data, we subtracted the signal from the superconductor alone, obtained after etching. (The superconducting signal has negligible temperature dependence below 5 K.) Data for \(H\)= 0 were then fit to Eq. (7) with an overall scale factor, average thickness \(d\) and \(\sigma\) as fitting parameters. (For the dirty limit we must also assume a mean free path.) We obtained \(d\)=2 \(\mu\)m and \(\sigma\)=1.2 \(\mu\)m. These parameters were then held fixed and the response in a finite magnetic field was calculated. Figure 2 shows the data and generated curves for \(H\)= 0,20, and 130 Oe. The finite field curves generated from the clean limit model all showed somewhat more screening than the data. This is partly due to our assumption of a distribution of the Mg layer thickness. Regions with thickness smaller than the average will have higher breakdown fields and will continue to screen even large dc fields. We were not able to find a satisfactory fit to the dirty limit. The inset shows the best fit to the dirty limit that could be achieved. Given the uncertainty in parameters and the crudeness of the model, we feel that the agreement with the clean limit model is reasonably good. Both clean and dirty limits predict that the proximity effect will exhibit substantial hysteretic effects. We observed no hysteresis for the range of fields shown here. This may be due to broadening of the first-order transition by the spread of film thicknesses. Hysteresis was observed at much higher fields, of order 1500 Oe. In this field we expect any proximity effect to be quenched but vortices will be present in MgB\({}_{2}\). The hysteresis is then most likely due to trapped flux. We defer a discussion of the higher field data to another paper.
+
+In an effort to determine the pairing symmetry of pure MgB\({}_{2}\) the \(Mg\) layer was etched away. The result is shown in Fig. 3. The downturn disappeared completely and the temperature dependence became exponential. The inset shows full scale transition curves for both and etched and unetched wires. The transition temperature remained unchanged and the only apparent change due to etching is the disappearance of the low-temperature diamagnetic downturn in \(\lambda\).
+
+Figure 4 shows fits to both a full calculation (not low-temperature expansion) of weak-coupling \(s\)-wave BCS form for \(\lambda(T)\) and to a quadratic power law. The BCS fit gives a value of 2\(\Delta_{0}/T_{c}\)\(\approx\) 1.54 (2.6 meV) which is 0.43 times the weak-coupling BCS ratio of 3.52, implying a substantial anisotropy if the material is in the weak-coupling limit. The inset shows the data on a \((T/T_{c})^{2}\) scale along with data for polycrystalline Nb foil, which gives an extremely good fit to isotropic BSC theory. The quadratic power law gives a poorer fit and argues against a nodal order parameter. Our value of 2.6 meV for the energy gap is in close agreement with recent penetration depth measurements on commercial powders [13] and single crystals [15] which gave a value of 2.8 meV, and with tunneling measurements which claimed a two-band picture. [10]
+
+In conclusion, we have reported measurements of the magnetic penetration depth in dense MgB\({}_{2}\) wires. We interpret the diamagnetic downturn in the effective \(\lambda(T)\) for unetched wires as evidence for a clean limit proximity effect between MgB\({}_{2}\) and an Mg surface layer. After removing this Mg layer, the results are consistent with a minimum gap value of 2.6 meV.
+
+Figure 3: Main figure: \(\Delta f(T)\) before and after etching. The thin solid line shows a BCS fit as described in the text. Inset: full temperature scale \(\Delta f(T)\) for etched and unetched wire.
+
+Figure 4: Weak-coupling \(s\)-wave BCS fit (full temperature range calculation) and quadratic power law fit. Inset: MgB\({}_{2}\) data vs \((T/T_{c})^{2}\) along with polycrystalline Nb for comparison.
+
+  We thank A. Carrington, J. R. Clem, D. K. Finnemore, R. A. Klemm, and D. Lawrie for useful discussions. Work at UIUC was supported by the National Science Foundation, Grant No. DMR-0101872. Work at Ames was supported by the Director for Energy Research, Office of Basic Energy Sciences. Ames Laboratory is operated for the U.S. Department of Energy by Iowa State University under Contract No. W-7405-Eng.-82.
+
+## References
+
+* [1] J. Nagamatsu, N. Nakagawa, T. Muranaka, Y. Zenitani, and J. Akimitsu, Nature (London) **410**, 63 (2001).
+* [2] S.L. Bud'ko, G. Laportot, C. Petrovic, C.E. Cunningham, N. Anderson, and P.C. Canfield, Phys. Rev. Lett. **86**, 1877 (2001).
+* [3] D. D. Lawrie (private communication).
+* [4] A. Sharoni, I. Felner, and O. Millo, Phys. Rev. B **63**, 220508 (2001).
+* [5] G. Karapetrov, M. Iavarone, W.K. Kwok, G.W. Crabtree, and D.G. Hinks, Phys. Rev. Lett. **86**, 4374 (2001).
+* [6] H. Schmidt, J.F. Zasadzinski, K.E. Gray, and D.G. Hinks, Phys. Rev. B **63**, 220504 (2001).
+* [7] G. Rubio-Bollinger, H. Suderow, and S. Vieira, Phys. Rev. Lett. **86**, 5582 (2001).
+* [8] H. Kotegawa, K. Ishida, Y. Kitaoka, T. Muranaka, and J. Akimitsu, cond-mat/0102334, Phys. Rev. Lett. (to be published 17 September 2001).
+* [9] T. Takahashi, T. Sato, S. Souma, T. Muranaka, and J. Akimitsu, Phys. Rev. Lett. **86**, 4915 (2001).
+* [10] P. Szabo, P. Samuely, J. Kacmarcik, Th. Klein, J. Marcus, D. Fruchart, S. Miraglia, C. Marcenat, and A. G. M. Jansen, cond-mat/0105598, Phys. Rev. Lett. (to be published).
+* [11] C. Panagopoulos, B.D. Rainford, T. Xiang, C.A. Scott, M. Kambara, and I.H. Inoue, Phys. Rev. B **64**, 094514 (2001).
+* [12] A.V. Pronin, A. Pimenov, A. Loidl, and S.I. Krasnosvobodtsev, Phys. Rev. Lett. **87**, 097003 (2001).
+* [13] F. Manzano and A. Carrington, cond-mat/0106166 (unpublished).
+* [14] X. H. Chen, Y. Y. Xue, R. L. Meng, and C. W. Chu, cond-mat/0103029, Phys. Rev. B. (to be published 1 October 2001).
+* [15] A. Carrington (unpublished).
+* [16] P.C. Canfield, D.K. Finnemore, S.L. Bud'ko, J.E. Ostenson, G. Lapertot, C.E. Cunningham, and C. Petrovic, Phys. Rev. Lett. **86**, 2423 (2001).
+* [17] R. Prozorov, R.W. Giannetta, A. Carrington, and F.M. Araujo-Moreira, Phys. Rev. B **62**, 115 (2000).
+* [18] J.H. Claassen, J.E. Evetts, R.E. Somekh, and Z.H. Barber, Phys. Rev. B **44**, 9605 (1991).
+* [19] M.S. Pambianchi, J. Mao, and S.M. Anlage, Phys. Rev. B **50**, 13 659 (1994).
+* [20] A.C. Mota, P. Visani, and A. Pollini, J. Low Temp. Phys. **76**, 465 (1989).
+* [21] Y. Oda and H. Nagano, J. Phys. Soc. Jpn. **44**, 2007 (1978).
+* [22] A.D. Zaikin, Solid State Commun. **41**, 533 (1982).
+* [23] A. Fauchere and G. Blatter, Phys. Rev. B **56**, 14 102 (1997).
+* [24] W. Belzig, C. Bruder, and A.L. Fauchere, Phys. Rev. B **58**, 14 531 (1998).
+* [25] K.D. Usadel, Phys. Rev. Lett. **25**, 507 (1970).
+* [26] O. Narikiyo and H. Fukuyama, J. Phys. Soc. Jpn. **58**, 4557 (1989).
+* [27] Orsay Group on Superconductivity, _Quantum Fluids_ (North-Holland, Amsterdam, 1966), p. 26 

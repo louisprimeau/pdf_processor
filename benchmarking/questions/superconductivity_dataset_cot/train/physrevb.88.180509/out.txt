@@ -1,0 +1,297 @@
+
+
+# _s_-wave pairing in the optimally doped LaO_{0.5}F_{0.5}BiS_{2} superconductor
+
+G. Lamura
+
+CNR-SPIN and Universita di Genova, via Dodecaneso 33, I-16146 Genova, Italy
+
+T. Shiroka
+
+Laboratorium fur Festkorperphysik, ETH-Honggerberg, CH-8093 Zurich, Switzerland Paul Scherrer Institut, CH-5232 Villigen PSI, Switzerland Dipartimento di Fisica e Scienze della Terra and Unita CNISM di Parma, I-43124 Parma, Italy
+
+P. Bonfa
+
+Dipartimento di Fisica and Unita CNISM di Pavia, I-43124 Parma, Italy
+
+S. Sanna
+
+Department of Electrical and Electronic Engineering, Tokyo Metropolitan University, Hachioji, Tokyo 192-0397, Japan
+
+R. De Renzi
+
+Dipartimento di Fisica and Unita CNISM di Pavia, I-43124 Parma, Italy
+
+C. Baines
+
+Department of Electrical and Electronic Engineering, Tokyo Metropolitan University, Hachioji, Tokyo 192-0397, Japan
+
+H. Luetkens
+
+Paul Scherrer Institut, CH-5232 Villigen PSI, Switzerland
+
+J. Kajitani
+
+Department of Electrical and Electronic Engineering, Tokyo Metropolitan University, Hachioji, Tokyo 192-0397, Japan
+
+Y. Mizuguchi
+
+Department of Electrical and Electronic Engineering, Tokyo Metropolitan University, Hachioji, Tokyo 192-0397, Japan National Institute for Materials Science, Tsukuba, Ibaraki 305-0047, Japan
+
+O. Miura
+
+CNR-SPIN and Universita di Genova, via Dodecaneso 33, I-16146 Genova, Italy
+
+K. Deguchi
+
+Department of Electrical and Electronic Engineering, Tokyo Metropolitan University, Hachioji, Tokyo 192-0397, Japan
+
+S. Demura
+
+Paul Scherrer Institut, CH-5232 Villigen PSI, Switzerland
+
+Y. Takano
+
+Paul Scherrer Institut, CH-5232 Villigen PSI, Switzerland
+
+M. Putti
+
+CNR-SPIN and Universita di Genova, via Dodecaneso 33, I-16146 Genova, Italy Laboratorium fur Festkorperphysik, ETH-Honggerberg, CH-8093 Zurich, Switzerland
+
+###### Abstract
+
+We report on the magnetic and superconducting properties of LaO_{0.5}F_{0.5}BiS_{2} by means of zero- and transverse-field (ZF/IF) muon-spin spectroscopy measurements (\muSR). Contrary to previous results on iron-based superconductors, measurements in zero field demonstrate the absence of magnetically ordered phases. TF-\muSR data give access to the superfluid density, which shows a marked two-dimensional character with a dominant _s_-wave temperature behavior. The field dependence of the magnetic penetration depth confirms this finding and further suggests the presence of an anisotropic superconducting gap.
+
+pacs: DOI: 10.1103/PhysRevB.88.180509 [ ] 76.75.+i, 74.25.Ha, 74.20.Rp, 74.25.Op [ ]
+
+Following the discovery of bulk superconductivity in Bi_{4}O_{4}S_{3},[12] LaO_{0.5}F_{0.5}BiS_{2},[3] and NdO_{1-x}F_{x}BiS_{2},[4] with superconducting critical temperatures ranging from 4 up to 10 K, BiS_{2} layered compounds are increasingly attracting the interest of the scientific community. Their structure consists of a charge reservoir layer (_Ln_O, where _Ln_ is a lanthanoid) alternated with BiS_{2} planes that play the same role as CuO_{2} planes in cuprates or the FeAs and Fe(Se,Te) planes in iron-based superconductors (IBSs). Differently from both cuprates and IBSs, where the conduction bands at the Fermi energy are dominated by 3d states, in BiS_{2} systems the main contribution comes from the bismuth 6p orbitals, which are spatially extended and hybridized with the 3p orbitals of sulfur.[5, 6, 7] This hybridization increases the delocalization of the charge carriers, but it is rather anisotropic. Hence, Bi- and S-derived conduction bands show almost no dispersion along the _k_{z}_ direction,[6] finding at a marked two-dimensional (2D) character also for the superconducting properties. Superconductivity in BiS_{2} layered compounds occurs by electron doping the Bi 6p bands. In particular, both tight-binding models[5] and density functional calculations[6] indicate that in LaO_{0.5}F_{0.5}BiS_{2} four bands cross the Fermi level, giving rise to a two-dimensional Fermi surface strongly nested at a (\pi,\pi,0) wave vector. However, there is a general lack of consensus regarding the consequences of nesting. On the one hand, nesting is supposed to enhance the electron-phonon coupling, thus favoring conventional BCS superconductivity.[5, 6, 7, 8] Indeed, a very recent penetration-depth measurement by a tunnel-diode technique on Bi_{4}O_{4}S_{3} polycrystals indicates a conventional _s_-wave type superconductivity in the strong electron-phonon coupling limit.[2] On the other hand, as for IBSs, a strongly nested Fermi surface could also imply that electronic correlations, rather than electron-phonon coupling, play a major role in determining the pairing mechanism.[9, 10] In such a case, spin-fluctuation mediated pairing interactions could result either in an extended _s_-wave or in a _d_-wave symmetry for the gap function.[5, 9] Finally, because of the remarkable similarity with the Sr_{2}RuO_{4} band structure, a spin-triplet _p_-wave pairing has also been considered.[5, 6]
+
+Here we report on a study of the magnetic and superconducting properties of LaO_{0.5}F_{0.5}BiS_{2}, mostly via muon-spin spectroscopy (\muSR). Zero-field \muSR (ZF-\muSR) shows that, contrary to iron-based superconductors,[11] there are no ordered magnetic phases in this material. On the other hand, transverse-field (TF-\muSR) in the superconducting (SC) phase can track the evolution of the superfluid density with temperature, as well as that of the muon-spin depolarization rate with the applied field. Both these dependencies hint at a fully gapped _conventional_ BCS picture of superconductivity in LaO_{0.5}F_{0.5}BiS_{2}.
+
+Eight polycrystalline samples were prepared as pellets[12] by using standard solid-state reaction techniques. Subsequent annealing took place at 600^{\circ}C under a pressure of 2 GPa, realized by means of a cubic-anvil high-pressure experimental setup (see Ref. [3]). All samples were first characterized by x-ray scattering and dc magnetometry, whose results (not shown here) confirm both the absence of impurity phases and the bulk nature of superconductivity. The critical temperature T_{c}=10 K is in agreement with data previously reported for samples having the same origin.[3, 13, 14]\muSR measurements were performed by using both the General-Purpose Spectrometer (GPS) and the Low-Temperature Facility (LTF) on the \piM3 beamline of the Swiss Muon Source at the Paul Scherrer Institute, Villigen, Switzerland. Given the different beam cross sections, a single sample was sufficient at GPS, whereas a mosaic of the remaining seven samples was required for the very low-temperature measurements (T<1.7 K) at LTF.
+
+By means of ZF-\muSR we checked first for the presence of a possible hidden magnetic order in the BiS_{2} planes. Magnetism coexisting with superconductivity is observed in underdoped pnictides.[11, 15, 16] but magnetic fields may also appear in superconductors with spin-triplet pairing, as observed in Sr_{2}RuO_{4}.[17, 18] In Fig. 1 the ZF time-dependent asymmetry below and above the superconducting transition is shown: Both data sets were well fitted by a _pure_ Gaussian Kubo-Toyabe model, indicating the presence of small, broad static magnetic fields on the muon site due only to randomly oriented nuclear magnetic dipole moments.[19] The Gaussian broadening \Delta_{\rm{KT}} was found to be equal to 0.1145(1) and 0.1163(2) \mus^{-1} at 1.6 and 12 K, respectively. Thus, contrary to underdoped iron-based superconductors, no static magnetism of an electronic origin could be detected in the Bi-based superconductor. At the same time, the small and T-independent broadening makes the presence of time-reversal symmetry broken superconductivity highly unlikely.
+
+TF-\muSR measurements were performed by field cooling the samples in the mixed state. Taking into account the critical field values B_{c1}(2 K) = 1.3 \pm 0.2 mT(Ref. 20) and B_{c2}(0) \simeq 10 T,[3] the magnetic field was set to 0.07 and 0.3 T on GPS (in the 1.7-12 K range) and to 0.07 T on the LTF spectrometer (in the 0.02-1.7 K range). In Fig. 2(a) we show the TF muon-spin precession recorded at 1.7 and 12 K in a 0.3-T magnetic field. The time-dependent asymmetry was fitted by using the equation
+
+\[A(t)=A_{0}\exp\left(-\frac{\sigma_{n}^{2}+\sigma_{\rm{sc}}^{2}}{2}\,t^{2} \right)\cos(\gamma_{\mu}B_{\mu}t+\phi),\] (1)
+
+where A_{0} is the initial asymmetry, \gamma_{\mu}=2\pi\,\times\,135.53 MHz/T is the muon gyromagnetic ratio, B_{\mu} is the local field probed by the implanted muons, and \phi is the initial phase. Here \sigma_{n} represents the muon-spin relaxation rate induced by the nuclear dipolar moments, whereas \sigma_{\rm{sc}} is proportional to the second moment of the magnetic field distribution due to the superconducting vortex lattice. Above T_{c}, where \sigma_{\rm{sc}}=0, we find that \sigma_{n}=0.119(2)\mus^{-1}, a value which was kept fixed in all the subsequent fit iterations.[21] The chosen fitting function [Eq. (1)] derives from the assumption that the local field distribution P(B) due to the vortex lattice is a single Gaussian line (typically observed in powders of anisotropic type-II superconductors), contrary to the asymmetric field distribution theoretically expected and observed in good single crystals.[22]
+
+The choice of a single Gaussian is justified by the small additional relaxation value in the SC phase (indicative of a large penetration depth \lambda), comparable to that arising from the nuclear moments.[23] As a result, the real part of the fast Fourier transform (FFT) signal [\propto\!P(B)], below and above T_{c} [Fig. 2(c)], is always nearly symmetric. A large \lambda implies also the occurrence of a tiny diamagnetic shift which can be appreciated only in Fig. 3, where the temperature dependence of the local field shift \delta B_{\mu}=B_{\mu}(T)-B_{\mu}(9.2 K), together with the rescaled susceptibility (solid curve), are shown. The behavior of the square of the superconducting depolarization rate \sigma_{\rm{sc}}^{2}, proportional to the second moment of the internal field distribution, is shown in Fig. 4 as a function of the applied field. Interestingly, \sigma_{\rm{sc}}^{2} seems to increase linearly at low applied fields, but saturates above 0.2 T. This behavior is expected for hexagonal vortex lattices with a large Ginzburg-Landau parameter (\kappa\,\geqslant\,70) at low fields h=H/H_{c2}\ll 1.[15, 24] In this case the magnetic penetration depth \lambda is related to \sigma_{\rm{sc}} by the equation[24]
+
+\[\sigma_{\rm{sc}}=\gamma_{\mu}(0.003\,71)^{1/2}\frac{\phi_{0}}{\lambda_{\rm{eff }}^{2}},\] (2)
+
+where \phi_{0} is the quantum of magnetic flux and \lambda_{\rm{eff}} is the effective magnetic penetration depth. By using Eq. (2), the estimated value for the latter at 0.3 T results \lambda_{\rm{eff}}(1.7 K)
+
+Figure 2: (Color online) TF-\muSR asymmetry data collected above (a) and below (b) T_{c} at an applied field of 0.3 T. For the sake of clarity the time-dependent asymmetry is represented in a 40-MHz rotating frame. (c) FFT real amplitude of the data shown in (a) and (b). Data processed using a Gaussian 7-\mus time filter.
+
+Figure 1: (Color online) ZF-\muSR asymmetry data collected above and below T_{c}, shown using a binning factor of 45. Continuous lines are best fits. See text for details.
+
+  =637\pm 4 nm. Since LaO_{0.5}F_{0.5}BiS_{2} is expected to be a highly anisotropic system, we can derive the in-plane (BiS_{2}) magnetic penetration depth by considering that in anisotropic polycrystalline samples \lambda_{\rm eff}=3^{1/4}\lambda_{ab},[25] which implies \lambda_{ab}(1.7 K)=484\pm 3 nm.
+
+By taking the zero-temperature limit of the coherence length extracted from the upper critical field measured in samples from the same origin, \xi(0)=[\lambda_{0}/2\pi\,B_{z2}(0)]^{1/2}\approx 5.7 nm,[3] the resulting Ginzburg-Landau parameter is \kappa=\lambda_{ab}/\xi\approx 85. This value validates _a posteriori_ the choice of the above-mentioned theory [Eq. (2)][24] for extracting the magnetic penetration depth. In the inset of Fig. 4 the normalized effective penetration depth \lambda(h)/\lambda(0) measured at 1.7 K is plotted as a function of the reduced magnetic field h=B/B_{z2}, limited to the experimental points corresponding to the gray region. It has been shown that in type-II superconductors \lambda is sensitive to the presence of quasiparticle excitations due to gap nodes, double gaps, or anisotropic gaps. In particular, the slope \eta=|d[\lambda(h)/\lambda(0)]/dh| is mostly greater than 1 for a d-wave gap, it is around unity for double and anisotropic gaps, but it is almost zero for isotropic s-wave superconductors.[26] In our case, \eta\simeq 0.5 suggests the presence of an anisotropic s-wave gap or of a double s-wave gap. Figure 5 shows the temperature dependence of the normalized supercarrier density n_{s}(T)=\lambda_{ab}(T,H)^{-2}/\lambda_{ab}(1.7 K,H)^{-2}=\sigma_{\rm sc}(T)/\sigma_{\rm sc}(0) calculated at 0.07 and 0.3 T: Both data sets merge together, thus confirming the fully gapped character of this superconductor. It is relevant to note that (i) n_{s}(T) is _temperature independent below 2.3 K_, thus ruling out gap nodes and (ii) the presence of a double gap is highly improbable, too. At high fields the smaller gap would be suppressed before the larger one, giving rise to an (obviously missing) peak in Fig. 4, between the linear slope and the plateau. In addition, the low-T contribution of the smaller gap to the superfluid density (Fig. 5) would have shown up as a kink, suppressed at higher applied fields,[27] whereas both data sets follow closely a single-gap behavior. Consequently, we limit our discussion to the single s-wave gap picture. In this case the superfluid density in the clean local limit has the form[28; 29]
+
+\[n_{s}(T)=1+\frac{1}{\pi}\int_{0}^{2\pi}\int_{\Delta(T,\phi)}^{\infty}\left( \frac{\partial f}{\partial E}\right)\frac{E\,dE\,d\phi}{\sqrt{E^{2}-\Delta(T, \phi)^{2}}},\] (3)
+
+where f(E) is the Fermi function, \phi is an angle spanning the supposed cylindrical Fermi surface, and \Delta(T,\phi)=\Delta_{0}\delta(T)g(\phi) is the gap function. In particular, \Delta_{0} is the maximum gap amplitude, and \delta(T)=\tanh\{1.82[1.018(T_{c}/T-1)^{0.51}]\} is a widely accepted approximation for the temperature dependence of the gap;[29]g(\phi)=1 for an isotropic s-wave gap, or g(\phi)=[1+a cos(4\phi)]/(1+a) for an anisotropic gap,[27] with \Delta_{\rm min}/\Delta_{\rm max}=(1-a)/(1+a) the ratio between the minimum and maximum gap amplitudes. In Fig. 5 we report a fit to a single-gap model in the clean limit and a calculation for an anisotropic s-wave gap. For the sake of clarity, we do not show the fit to the single-gap model in the full dirty limit,[28] the latter being indistinguishable from the clean limit. All the relevant fit and calculation parameters are summarized in Table 1. We remark the following: (i) The full dirty limit is very unlikely because it gives a too small 2\Delta/k_{\rm B}T_{c} ratio. Assuming the predicted[6] values for the electron-phonon coupling \lambda=0.85 and the logarithmic averaged phonon frequency \omega_{\rm th}=22.4 meV, the expected ratio is 2\Delta/k_{\rm B}T_{c}=3.7.[30] (ii) The fit to the s-wave model in the clean limit is closer to the predicted value since it
+
+Figure 4: (Color online) Field dependence of the square of superconducting depolarization rate. The red line represents a linear fit in the low-field region. The gray area delimits the region of validity of Eq. (2). Inset: Field dependence of \lambda(h)/\lambda(0) as extracted from the data in the gray region by means of Eq. (2).
+
+Figure 5: (Color online) Temperature dependence of the normalized superfluid density measured at \mu_{0}H=0.3 T (solid circles) and at 0.07 T (open triangles). Low-temperature (T<1.7 K) LTF data at 0.07 T are shown by solid triangles. The solid and the dotted black lines represent best fits to an s-wave gap in the clean limit and a numerical calculation with an s-wave anisotropic gap using the parameters reported in Table 1.
+
+\begin{table}
+\begin{tabular}{l c c c} Gap model & \Delta_{0} (meV) & a & 2\Delta_{0}/k_{\rm B}T_{c} & T_{c} (K) \\ s clean & 1.47\pm 0.03 & & 3.4\pm 0.2 & 10.4\pm 0.1 \\ s dirty & 1.13\pm 0.02 & & 2.6\pm 0.1 & 10.5\pm 0.1 \\ Anisotropic s & 2.295 & 0.425 & 3.74 & 10 \\ \end{tabular}
+\end{table}
+Table 1: Superconducting parameters as derived from the fits reported in Fig. 5.
+
+  gives 2\Delta\,/\,k_{\rm B}T_{c}=3.4, which is compatible with a BCS model in the weak-coupling limit, contrary to the above mentioned theoretical predictions of a moderately strong coupling.[6] For this reason and considering that the parameter \eta is not strictly zero, we cannot rule out also the possibility of an anisotropic s-wave gap. Indeed, in Fig. 5 we show that the superfluid density calculated within an anisotropic s-wave gap model with an angular-averaged value 2\Delta\,/\,k_{\rm B}T_{c}=3.74 is in very good agreement with the experimental data. We should recall that in extreme type-II superconductors with highly diluted superfluid density the presence of some anisotropy in the gap function is quite common.[31]
+
+Finally, it is worth noticing that our \lambda_{ab}(0) value is comparable with those found in alkali metal-organic solvent intercalated iron selenide superconductor Li(C_{5}H_{3}N_{0.2}Fe_{2}Se_{2}.[32] By considering an interlayer distance equal to the c-axis parameter,[5] we can estimate a 2D superfluid density d/\lambda_{ab}^{2}(0)\sim 0.0056\mum^{-1}. This value places LaO_{0.5}F_{0.8}BiS_{2} close to the iron-chalcogenide superconductors in the Uemura's plot of 2D superfluid density, as reported in Ref. [32]. This proximity is an important indication in favor of the 2D character of this compound and of its strong similarities with the cuprates and iron-chalcogenide superconductors.
+
+## References
+
+* [1] 'tshiroka@phys.ethz.ch
+* [2] Y. Mizuguchi, H. Fujihisa, Y. Gotoh, K. Suzuki, H. Usui, K. Kuroki, S. Demura, Y. Takano, H. Izawa, and O. Miura, Phys. Rev. B **86**, 220510(R) (2012); S. K. Singh, A. Kumar, B. Gahtori, Shruti Kirtan, G. Sharma, S. Patnaik, and V. P. S. Awana, J. Am. Chem. Soc. **134**, 16504 (2012).
+* [3] 'Shruti, P. Srivastava, and S. Patnaik, J. Phys.: Condens. Matter **25**, 312202 (2013).
+* [4] Y. Mizuguchi, S. Demura, K. Deguchi, Y. Takano, H. Fujihisa, Y. Gotoh, H. Izawa, and O. Miura, J. Phys. Soc. Jpn. **81**, 114725 (2012).
+* [5] S. Demura, Y. Mizuguchi, K. Deguchi, H. Okazaki, H. Hara, T. Watanabe, S. J. Denholme, M. Fujikoka, T. Ozaki, H. Fujihisa, Y. Gotoh, O. Miura, T. Yamaguchi, H. Takeya, and Y. Takano, J. Phys. Soc. Jpn. **82**, 033708 (2013).
+* [6] H. Usui, K. Suzuki, and K. Kuroki, Phys. Rev. B **86**, 220501(R) (2012).
+* [7] K. Wan, H.-C. Ding, S. Y. Savrasov, and C.-G. Duan, Phys. Rev. B **87**, 115124 (2013).
+* [8] B. Li, Z. W. Xing, and G. Q. Huang, Europhys. Lett. **101**, 47002 (2013).
+* [9] T. Yildirim, Phys. Rev. B **87**, 020506(R) (2013).
+* [10] T. Zhou and Z. D. Wang, J. Supercond. Novel Magn. **26**, 2735 (2013).
+* [11] G. B. Martins, A. Moreo, and E. Dagotto, Phys. Rev. B **87**, 081101(R) (2013).
+* [12] D. C. Johnston, Adv. Phys. **59**, 803 (2010).
+* [13] Each sample has a disk shape of 5 mm in diameter and 1.5 mm in thickness.
+* [14] K. Deguchi, Y. Mizuguchi, S. D. H. Hara, T. Watanabe, S. J. Denholme, M. Fujioka, H. Okazaki, T. Ozaki, H. Takeya, T. Yamaguchi, O. Miura, and Y. Takano, Europhys. Lett. **101**, 17004 (2013).
+* [15] H. Kotegawa, Y. Tomita, H. Tou, H. Izawa, Y. Mizuguchi, O. Miura, S. Demura, K. Deguchi, and Y. Takano, J. Phys. Soc. Jpn. **81**, 103702 (2012).
+* [16] S. Sanna, R. De Renzi, G. Lamura, C. Ferdeghini, A. Palenzona, M. Putti, M. Tropeano, and T. Shiroka, Phys. Rev. B **80**, 052503 (2009).
+* [17] S. Sanna, R. De Renzi, T. Shiroka, G. Lamura, G. Prando, P. Carretta, M. Putti, A. Martinelli, M. R. Cimberle, M. Tropeano, and A. Palenzona, Phys. Rev. B **82**, 060508(R) (2010).
+* [18] G. M. Luke, Y. Fudamoto, K. M. Kojima, M. I. Larkin, J. Merrin, B. Nachumi, Y. J. Uemura, Y. Maeno, Z. Q. Mao, Y. Mori, H. Nakamura, and M. Sigrist, Nature (London) **394**, 558 (1998).
+* [19] T. Shiroka, R. Fittipaldi, M. Cuoco, R. De Renzi, Y. Maeno, R. J. Lycett, S. Ramos, E. M. Forgan, C. Baines, A. Rost, V. Granata, and A. Vecchione, Phys. Rev. B **85**, 134527 (2012).
+* [20] A. Yaouanc and P. Dalmas de Reotier, _Muon-Spin Rotation, Relaxation, and Resonance: Applications to Condensed Matter_ (Oxford University Press, Oxford, U.K., 2011).
+* [21] See Supplemental Material at http://link.aps.org/supplemental/10.1103/PhysRevB.88.180509 for the measurements of the first critical field at 2 K and the T-dependent ZFC dc susceptibility, both carried out on the same sample under test at the GPS facility.
+* [22] In the specific case, for the LTF measurements a further term A_{\rm sg}=A_{\rm sg}\cos(\gamma_{\mu}B_{\rm out}t+\phi)\exp(-\lambda_{\rm sg}t) has to be added to take into account the background contribution from the Ag sample holder (Ag plate No. 249 with \lambda_{\rm sg}=0.025\mu s^{-1}).
+* [23] J. E. Sonier, J. H. Brewer, and R. F. Kiefl, Rev. Mod. Phys. **72**, 769 (2000).
+
+  * (21) R. Khasanov, P. W. Klamut, A. Shengelaya, Z. Bukowski, I. M. Savic, C. Baines, and H. Keller, Phys. Rev. B **78**, 014502 (2008).
+* (22) E. H. Brandt, Phys. Rev. B **68**, 054506 (2003).
+* (23) V. I. Fesenko, V. N. Gorbunov, and V. P. Smilga, Physica C **176**, 551 (1991).
+* (24) R. Kadono, J. Phys.: Condens. Matter **16**, S4421 (2004).
+* (25) R. Khasanov, A. Shengelaya, A. Maisuradze, F. La Mattina, A. Bussmann-Holder, H. Keller, and K. A. Muller, Phys. Rev. Lett. **98**, 057007 (2007).
+* (26) M. Tinkham, _Introduction to Superconductivity_ (McGraw-Hill, New York, 1996).
+* (27) R. Khasanov, A. Shengelaya, A. Maisuradze, D. Di Castro, I. M. Savic, S. Weyeneth, M. S. Park, D. J. Jang, S.-I. Lee, and H. Keller, Phys. Rev. B **77**, 184512 (2008).
+* (28) F. Marsiglio, J. P. Carbotte, and J. Blezius, Phys. Rev. B **41**, 6457 (1990).
+* (29) B. H. Brandow, Philos. Mag. **83**, 2487 (2003).
+* (30) P. K. Biswas, A. Krzton-Maziopa, R. Khasanov, H. Luetkens, E. Pomjakushina, K. Conder, and A. Amato, Phys. Rev. Lett. **110**, 137003 (2013).
+
+ 
+
+# _s_-wave pairing in the optimally doped LaO_{0.5}F_{0.5}BiS_{2} superconductor
+
+G. Lamura
+
+CNR-SPIN and Universita di Genova, via Dodecaneso 33, I-16146 Genova, Italy
+
+T. Shiroka
+
+Laboratorium fur Festkorperphysik, ETH-Honggerberg, CH-8093 Zurich, Switzerland Paul Scherrer Institut, CH-5232 Villigen PSI, Switzerland Dipartimento di Fisica e Scienze della Terra and Unita CNISM di Parma, I-43124 Parma, Italy
+
+P. Bonfa
+
+Dipartimento di Fisica and Unita CNISM di Pavia, I-43124 Parma, Italy
+
+S. Sanna
+
+Department of Electrical and Electronic Engineering, Tokyo Metropolitan University, Hachioji, Tokyo 192-0397, Japan
+
+R. De Renzi
+
+Dipartimento di Fisica and Unita CNISM di Pavia, I-43124 Parma, Italy
+
+C. Baines
+
+Department of Electrical and Electronic Engineering, Tokyo Metropolitan University, Hachioji, Tokyo 192-0397, Japan
+
+H. Luetkens
+
+Paul Scherrer Institut, CH-5232 Villigen PSI, Switzerland
+
+J. Kajitani
+
+Department of Electrical and Electronic Engineering, Tokyo Metropolitan University, Hachioji, Tokyo 192-0397, Japan
+
+Y. Mizuguchi
+
+Department of Electrical and Electronic Engineering, Tokyo Metropolitan University, Hachioji, Tokyo 192-0397, Japan National Institute for Materials Science, Tsukuba, Ibaraki 305-0047, Japan
+
+O. Miura
+
+CNR-SPIN and Universita di Genova, via Dodecaneso 33, I-16146 Genova, Italy
+
+K. Deguchi
+
+Department of Electrical and Electronic Engineering, Tokyo Metropolitan University, Hachioji, Tokyo 192-0397, Japan
+
+S. Demura
+
+Paul Scherrer Institut, CH-5232 Villigen PSI, Switzerland
+
+Y. Takano
+
+Paul Scherrer Institut, CH-5232 Villigen PSI, Switzerland
+
+M. Putti
+
+CNR-SPIN and Universita di Genova, via Dodecaneso 33, I-16146 Genova, Italy Laboratorium fur Festkorperphysik, ETH-Honggerberg, CH-8093 Zurich, Switzerland
+
+###### Abstract
+
+We report on the magnetic and superconducting properties of LaO_{0.5}F_{0.5}BiS_{2} by means of zero- and transverse-field (ZF/IF) muon-spin spectroscopy measurements (\muSR). Contrary to previous results on iron-based superconductors, measurements in zero field demonstrate the absence of magnetically ordered phases. TF-\muSR data give access to the superfluid density, which shows a marked two-dimensional character with a dominant _s_-wave temperature behavior. The field dependence of the magnetic penetration depth confirms this finding and further suggests the presence of an anisotropic superconducting gap.
+
+pacs: DOI: 10.1103/PhysRevB.88.180509 [ ] 76.75.+i, 74.25.Ha, 74.20.Rp, 74.25.Op [ ]
+
+Following the discovery of bulk superconductivity in Bi_{4}O_{4}S_{3},[12] LaO_{0.5}F_{0.5}BiS_{2},[3] and NdO_{1-x}F_{x}BiS_{2},[4] with superconducting critical temperatures ranging from 4 up to 10 K, BiS_{2} layered compounds are increasingly attracting the interest of the scientific community. Their structure consists of a charge reservoir layer (_Ln_O, where _Ln_ is a lanthanoid) alternated with BiS_{2} planes that play the same role as CuO_{2} planes in cuprates or the FeAs and Fe(Se,Te) planes in iron-based superconductors (IBSs). Differently from both cuprates and IBSs, where the conduction bands at the Fermi energy are dominated by 3d states, in BiS_{2} systems the main contribution comes from the bismuth 6p orbitals, which are spatially extended and hybridized with the 3p orbitals of sulfur.[5, 6, 7] This hybridization increases the delocalization of the charge carriers, but it is rather anisotropic. Hence, Bi- and S-derived conduction bands show almost no dispersion along the _k_{z}_ direction,[6] finding at a marked two-dimensional (2D) character also for the superconducting properties. Superconductivity in BiS_{2} layered compounds occurs by electron doping the Bi 6p bands. In particular, both tight-binding models[5] and density functional calculations[6] indicate that in LaO_{0.5}F_{0.5}BiS_{2} four bands cross the Fermi level, giving rise to a two-dimensional Fermi surface strongly nested at a (\pi,\pi,0) wave vector. However, there is a general lack of consensus regarding the consequences of nesting. On the one hand, nesting is supposed to enhance the electron-phonon coupling, thus favoring conventional BCS superconductivity.[5, 6, 7, 8] Indeed, a very recent penetration-depth measurement by a tunnel-diode technique on Bi_{4}O_{4}S_{3} polycrystals indicates a conventional _s_-wave type superconductivity in the strong electron-phonon coupling limit.[2] On the other hand, as for IBSs, a strongly nested Fermi surface could also imply that electronic correlations, rather than electron-phonon coupling, play a major role in determining the pairing mechanism.[9, 10] In such a case, spin-fluctuation mediated pairing interactions could result either in an extended _s_-wave or in a _d_-wave symmetry for the gap function.[5, 9] Finally, because of the remarkable similarity with the Sr_{2}RuO_{4} band structure, a spin-triplet _p_-wave pairing has also been considered.[5, 6]
+
+Here we report on a study of the magnetic and superconducting properties of LaO_{0.5}F_{0.5}BiS_{2}, mostly via muon-spin spectroscopy (\muSR). Zero-field \muSR (ZF-\muSR) shows that, contrary to iron-based superconductors,[11] there are no ordered magnetic phases in this material. On the other hand, transverse-field (TF-\muSR) in the superconducting (SC) phase can track the evolution of the superfluid density with temperature, as well as that of the muon-spin depolarization rate with the applied field. Both these dependencies hint at a fully gapped _conventional_ BCS picture of superconductivity in LaO_{0.5}F_{0.5}BiS_{2}.
+
+Eight polycrystalline samples were prepared as pellets[12] by using standard solid-state reaction techniques. Subsequent annealing took place at 600^{\circ}C under a pressure of 2 GPa, realized by means of a cubic-anvil high-pressure experimental setup (see Ref. [3]). All samples were first characterized by x-ray scattering and dc magnetometry, whose results (not shown here) confirm both the absence of impurity phases and the bulk nature of superconductivity. The critical temperature T_{c}=10 K is in agreement with data previously reported for samples having the same origin.[3, 13, 14]\muSR measurements were performed by using both the General-Purpose Spectrometer (GPS) and the Low-Temperature Facility (LTF) on the \piM3 beamline of the Swiss Muon Source at the Paul Scherrer Institute, Villigen, Switzerland. Given the different beam cross sections, a single sample was sufficient at GPS, whereas a mosaic of the remaining seven samples was required for the very low-temperature measurements (T<1.7 K) at LTF.
+
+By means of ZF-\muSR we checked first for the presence of a possible hidden magnetic order in the BiS_{2} planes. Magnetism coexisting with superconductivity is observed in underdoped pnictides.[11, 15, 16] but magnetic fields may also appear in superconductors with spin-triplet pairing, as observed in Sr_{2}RuO_{4}.[17, 18] In Fig. 1 the ZF time-dependent asymmetry below and above the superconducting transition is shown: Both data sets were well fitted by a _pure_ Gaussian Kubo-Toyabe model, indicating the presence of small, broad static magnetic fields on the muon site due only to randomly oriented nuclear magnetic dipole moments.[19] The Gaussian broadening \Delta_{\rm{KT}} was found to be equal to 0.1145(1) and 0.1163(2) \mus^{-1} at 1.6 and 12 K, respectively. Thus, contrary to underdoped iron-based superconductors, no static magnetism of an electronic origin could be detected in the Bi-based superconductor. At the same time, the small and T-independent broadening makes the presence of time-reversal symmetry broken superconductivity highly unlikely.
+
+TF-\muSR measurements were performed by field cooling the samples in the mixed state. Taking into account the critical field values B_{c1}(2 K) = 1.3 \pm 0.2 mT(Ref. 20) and B_{c2}(0) \simeq 10 T,[3] the magnetic field was set to 0.07 and 0.3 T on GPS (in the 1.7-12 K range) and to 0.07 T on the LTF spectrometer (in the 0.02-1.7 K range). In Fig. 2(a) we show the TF muon-spin precession recorded at 1.7 and 12 K in a 0.3-T magnetic field. The time-dependent asymmetry was fitted by using the equation
+
+\[A(t)=A_{0}\exp\left(-\frac{\sigma_{n}^{2}+\sigma_{\rm{sc}}^{2}}{2}\,t^{2} \right)\cos(\gamma_{\mu}B_{\mu}t+\phi),\] (1)
+
+where A_{0} is the initial asymmetry, \gamma_{\mu}=2\pi\,\times\,135.53 MHz/T is the muon gyromagnetic ratio, B_{\mu} is the local field probed by the implanted muons, and \phi is the initial phase. Here \sigma_{n} represents the muon-spin relaxation rate induced by the nuclear dipolar moments, whereas \sigma_{\rm{sc}} is proportional to the second moment of the magnetic field distribution due to the superconducting vortex lattice. Above T_{c}, where \sigma_{\rm{sc}}=0, we find that \sigma_{n}=0.119(2)\mus^{-1}, a value which was kept fixed in all the subsequent fit iterations.[21] The chosen fitting function [Eq. (1)] derives from the assumption that the local field distribution P(B) due to the vortex lattice is a single Gaussian line (typically observed in powders of anisotropic type-II superconductors), contrary to the asymmetric field distribution theoretically expected and observed in good single crystals.[22]
+
+The choice of a single Gaussian is justified by the small additional relaxation value in the SC phase (indicative of a large penetration depth \lambda), comparable to that arising from the nuclear moments.[23] As a result, the real part of the fast Fourier transform (FFT) signal [\propto\!P(B)], below and above T_{c} [Fig. 2(c)], is always nearly symmetric. A large \lambda implies also the occurrence of a tiny diamagnetic shift which can be appreciated only in Fig. 3, where the temperature dependence of the local field shift \delta B_{\mu}=B_{\mu}(T)-B_{\mu}(9.2 K), together with the rescaled susceptibility (solid curve), are shown. The behavior of the square of the superconducting depolarization rate \sigma_{\rm{sc}}^{2}, proportional to the second moment of the internal field distribution, is shown in Fig. 4 as a function of the applied field. Interestingly, \sigma_{\rm{sc}}^{2} seems to increase linearly at low applied fields, but saturates above 0.2 T. This behavior is expected for hexagonal vortex lattices with a large Ginzburg-Landau parameter (\kappa\,\geqslant\,70) at low fields h=H/H_{c2}\ll 1.[15, 24] In this case the magnetic penetration depth \lambda is related to \sigma_{\rm{sc}} by the equation[24]
+
+\[\sigma_{\rm{sc}}=\gamma_{\mu}(0.003\,71)^{1/2}\frac{\phi_{0}}{\lambda_{\rm{eff }}^{2}},\] (2)
+
+where \phi_{0} is the quantum of magnetic flux and \lambda_{\rm{eff}} is the effective magnetic penetration depth. By using Eq. (2), the estimated value for the latter at 0.3 T results \lambda_{\rm{eff}}(1.7 K)
+
+Figure 2: (Color online) TF-\muSR asymmetry data collected above (a) and below (b) T_{c} at an applied field of 0.3 T. For the sake of clarity the time-dependent asymmetry is represented in a 40-MHz rotating frame. (c) FFT real amplitude of the data shown in (a) and (b). Data processed using a Gaussian 7-\mus time filter.
+
+Figure 1: (Color online) ZF-\muSR asymmetry data collected above and below T_{c}, shown using a binning factor of 45. Continuous lines are best fits. See text for details.
+
+  =637\pm 4 nm. Since LaO_{0.5}F_{0.5}BiS_{2} is expected to be a highly anisotropic system, we can derive the in-plane (BiS_{2}) magnetic penetration depth by considering that in anisotropic polycrystalline samples \lambda_{\rm eff}=3^{1/4}\lambda_{ab},[25] which implies \lambda_{ab}(1.7 K)=484\pm 3 nm.
+
+By taking the zero-temperature limit of the coherence length extracted from the upper critical field measured in samples from the same origin, \xi(0)=[\lambda_{0}/2\pi\,B_{z2}(0)]^{1/2}\approx 5.7 nm,[3] the resulting Ginzburg-Landau parameter is \kappa=\lambda_{ab}/\xi\approx 85. This value validates _a posteriori_ the choice of the above-mentioned theory [Eq. (2)][24] for extracting the magnetic penetration depth. In the inset of Fig. 4 the normalized effective penetration depth \lambda(h)/\lambda(0) measured at 1.7 K is plotted as a function of the reduced magnetic field h=B/B_{z2}, limited to the experimental points corresponding to the gray region. It has been shown that in type-II superconductors \lambda is sensitive to the presence of quasiparticle excitations due to gap nodes, double gaps, or anisotropic gaps. In particular, the slope \eta=|d[\lambda(h)/\lambda(0)]/dh| is mostly greater than 1 for a d-wave gap, it is around unity for double and anisotropic gaps, but it is almost zero for isotropic s-wave superconductors.[26] In our case, \eta\simeq 0.5 suggests the presence of an anisotropic s-wave gap or of a double s-wave gap. Figure 5 shows the temperature dependence of the normalized supercarrier density n_{s}(T)=\lambda_{ab}(T,H)^{-2}/\lambda_{ab}(1.7 K,H)^{-2}=\sigma_{\rm sc}(T)/\sigma_{\rm sc}(0) calculated at 0.07 and 0.3 T: Both data sets merge together, thus confirming the fully gapped character of this superconductor. It is relevant to note that (i) n_{s}(T) is _temperature independent below 2.3 K_, thus ruling out gap nodes and (ii) the presence of a double gap is highly improbable, too. At high fields the smaller gap would be suppressed before the larger one, giving rise to an (obviously missing) peak in Fig. 4, between the linear slope and the plateau. In addition, the low-T contribution of the smaller gap to the superfluid density (Fig. 5) would have shown up as a kink, suppressed at higher applied fields,[27] whereas both data sets follow closely a single-gap behavior. Consequently, we limit our discussion to the single s-wave gap picture. In this case the superfluid density in the clean local limit has the form[28; 29]
+
+\[n_{s}(T)=1+\frac{1}{\pi}\int_{0}^{2\pi}\int_{\Delta(T,\phi)}^{\infty}\left( \frac{\partial f}{\partial E}\right)\frac{E\,dE\,d\phi}{\sqrt{E^{2}-\Delta(T, \phi)^{2}}},\] (3)
+
+where f(E) is the Fermi function, \phi is an angle spanning the supposed cylindrical Fermi surface, and \Delta(T,\phi)=\Delta_{0}\delta(T)g(\phi) is the gap function. In particular, \Delta_{0} is the maximum gap amplitude, and \delta(T)=\tanh\{1.82[1.018(T_{c}/T-1)^{0.51}]\} is a widely accepted approximation for the temperature dependence of the gap;[29]g(\phi)=1 for an isotropic s-wave gap, or g(\phi)=[1+a cos(4\phi)]/(1+a) for an anisotropic gap,[27] with \Delta_{\rm min}/\Delta_{\rm max}=(1-a)/(1+a) the ratio between the minimum and maximum gap amplitudes. In Fig. 5 we report a fit to a single-gap model in the clean limit and a calculation for an anisotropic s-wave gap. For the sake of clarity, we do not show the fit to the single-gap model in the full dirty limit,[28] the latter being indistinguishable from the clean limit. All the relevant fit and calculation parameters are summarized in Table 1. We remark the following: (i) The full dirty limit is very unlikely because it gives a too small 2\Delta/k_{\rm B}T_{c} ratio. Assuming the predicted[6] values for the electron-phonon coupling \lambda=0.85 and the logarithmic averaged phonon frequency \omega_{\rm th}=22.4 meV, the expected ratio is 2\Delta/k_{\rm B}T_{c}=3.7.[30] (ii) The fit to the s-wave model in the clean limit is closer to the predicted value since it
+
+Figure 4: (Color online) Field dependence of the square of superconducting depolarization rate. The red line represents a linear fit in the low-field region. The gray area delimits the region of validity of Eq. (2). Inset: Field dependence of \lambda(h)/\lambda(0) as extracted from the data in the gray region by means of Eq. (2).
+
+Figure 5: (Color online) Temperature dependence of the normalized superfluid density measured at \mu_{0}H=0.3 T (solid circles) and at 0.07 T (open triangles). Low-temperature (T<1.7 K) LTF data at 0.07 T are shown by solid triangles. The solid and the dotted black lines represent best fits to an s-wave gap in the clean limit and a numerical calculation with an s-wave anisotropic gap using the parameters reported in Table 1.
+
+\begin{table}
+\begin{tabular}{l c c c} Gap model & \Delta_{0} (meV) & a & 2\Delta_{0}/k_{\rm B}T_{c} & T_{c} (K) \\ s clean & 1.47\pm 0.03 & & 3.4\pm 0.2 & 10.4\pm 0.1 \\ s dirty & 1.13\pm 0.02 & & 2.6\pm 0.1 & 10.5\pm 0.1 \\ Anisotropic s & 2.295 & 0.425 & 3.74 & 10 \\ \end{tabular}
+\end{table}
+Table 1: Superconducting parameters as derived from the fits reported in Fig. 5.
+
+  gives 2\Delta\,/\,k_{\rm B}T_{c}=3.4, which is compatible with a BCS model in the weak-coupling limit, contrary to the above mentioned theoretical predictions of a moderately strong coupling.[6] For this reason and considering that the parameter \eta is not strictly zero, we cannot rule out also the possibility of an anisotropic s-wave gap. Indeed, in Fig. 5 we show that the superfluid density calculated within an anisotropic s-wave gap model with an angular-averaged value 2\Delta\,/\,k_{\rm B}T_{c}=3.74 is in very good agreement with the experimental data. We should recall that in extreme type-II superconductors with highly diluted superfluid density the presence of some anisotropy in the gap function is quite common.[31]
+
+Finally, it is worth noticing that our \lambda_{ab}(0) value is comparable with those found in alkali metal-organic solvent intercalated iron selenide superconductor Li(C_{5}H_{3}N_{0.2}Fe_{2}Se_{2}.[32] By considering an interlayer distance equal to the c-axis parameter,[5] we can estimate a 2D superfluid density d/\lambda_{ab}^{2}(0)\sim 0.0056\mum^{-1}. This value places LaO_{0.5}F_{0.8}BiS_{2} close to the iron-chalcogenide superconductors in the Uemura's plot of 2D superfluid density, as reported in Ref. [32]. This proximity is an important indication in favor of the 2D character of this compound and of its strong similarities with the cuprates and iron-chalcogenide superconductors.
+
+## References
+
+* [1] 'tshiroka@phys.ethz.ch
+* [2] Y. Mizuguchi, H. Fujihisa, Y. Gotoh, K. Suzuki, H. Usui, K. Kuroki, S. Demura, Y. Takano, H. Izawa, and O. Miura, Phys. Rev. B **86**, 220510(R) (2012); S. K. Singh, A. Kumar, B. Gahtori, Shruti Kirtan, G. Sharma, S. Patnaik, and V. P. S. Awana, J. Am. Chem. Soc. **134**, 16504 (2012).
+* [3] 'Shruti, P. Srivastava, and S. Patnaik, J. Phys.: Condens. Matter **25**, 312202 (2013).
+* [4] Y. Mizuguchi, S. Demura, K. Deguchi, Y. Takano, H. Fujihisa, Y. Gotoh, H. Izawa, and O. Miura, J. Phys. Soc. Jpn. **81**, 114725 (2012).
+* [5] S. Demura, Y. Mizuguchi, K. Deguchi, H. Okazaki, H. Hara, T. Watanabe, S. J. Denholme, M. Fujikoka, T. Ozaki, H. Fujihisa, Y. Gotoh, O. Miura, T. Yamaguchi, H. Takeya, and Y. Takano, J. Phys. Soc. Jpn. **82**, 033708 (2013).
+* [6] H. Usui, K. Suzuki, and K. Kuroki, Phys. Rev. B **86**, 220501(R) (2012).
+* [7] K. Wan, H.-C. Ding, S. Y. Savrasov, and C.-G. Duan, Phys. Rev. B **87**, 115124 (2013).
+* [8] B. Li, Z. W. Xing, and G. Q. Huang, Europhys. Lett. **101**, 47002 (2013).
+* [9] T. Yildirim, Phys. Rev. B **87**, 020506(R) (2013).
+* [10] T. Zhou and Z. D. Wang, J. Supercond. Novel Magn. **26**, 2735 (2013).
+* [11] G. B. Martins, A. Moreo, and E. Dagotto, Phys. Rev. B **87**, 081101(R) (2013).
+* [12] D. C. Johnston, Adv. Phys. **59**, 803 (2010).
+* [13] Each sample has a disk shape of 5 mm in diameter and 1.5 mm in thickness.
+* [14] K. Deguchi, Y. Mizuguchi, S. D. H. Hara, T. Watanabe, S. J. Denholme, M. Fujioka, H. Okazaki, T. Ozaki, H. Takeya, T. Yamaguchi, O. Miura, and Y. Takano, Europhys. Lett. **101**, 17004 (2013).
+* [15] H. Kotegawa, Y. Tomita, H. Tou, H. Izawa, Y. Mizuguchi, O. Miura, S. Demura, K. Deguchi, and Y. Takano, J. Phys. Soc. Jpn. **81**, 103702 (2012).
+* [16] S. Sanna, R. De Renzi, G. Lamura, C. Ferdeghini, A. Palenzona, M. Putti, M. Tropeano, and T. Shiroka, Phys. Rev. B **80**, 052503 (2009).
+* [17] S. Sanna, R. De Renzi, T. Shiroka, G. Lamura, G. Prando, P. Carretta, M. Putti, A. Martinelli, M. R. Cimberle, M. Tropeano, and A. Palenzona, Phys. Rev. B **82**, 060508(R) (2010).
+* [18] G. M. Luke, Y. Fudamoto, K. M. Kojima, M. I. Larkin, J. Merrin, B. Nachumi, Y. J. Uemura, Y. Maeno, Z. Q. Mao, Y. Mori, H. Nakamura, and M. Sigrist, Nature (London) **394**, 558 (1998).
+* [19] T. Shiroka, R. Fittipaldi, M. Cuoco, R. De Renzi, Y. Maeno, R. J. Lycett, S. Ramos, E. M. Forgan, C. Baines, A. Rost, V. Granata, and A. Vecchione, Phys. Rev. B **85**, 134527 (2012).
+* [20] A. Yaouanc and P. Dalmas de Reotier, _Muon-Spin Rotation, Relaxation, and Resonance: Applications to Condensed Matter_ (Oxford University Press, Oxford, U.K., 2011).
+* [21] See Supplemental Material at http://link.aps.org/supplemental/10.1103/PhysRevB.88.180509 for the measurements of the first critical field at 2 K and the T-dependent ZFC dc susceptibility, both carried out on the same sample under test at the GPS facility.
+* [22] In the specific case, for the LTF measurements a further term A_{\rm sg}=A_{\rm sg}\cos(\gamma_{\mu}B_{\rm out}t+\phi)\exp(-\lambda_{\rm sg}t) has to be added to take into account the background contribution from the Ag sample holder (Ag plate No. 249 with \lambda_{\rm sg}=0.025\mu s^{-1}).
+* [23] J. E. Sonier, J. H. Brewer, and R. F. Kiefl, Rev. Mod. Phys. **72**, 769 (2000).
+
+  * (21) R. Khasanov, P. W. Klamut, A. Shengelaya, Z. Bukowski, I. M. Savic, C. Baines, and H. Keller, Phys. Rev. B **78**, 014502 (2008).
+* (22) E. H. Brandt, Phys. Rev. B **68**, 054506 (2003).
+* (23) V. I. Fesenko, V. N. Gorbunov, and V. P. Smilga, Physica C **176**, 551 (1991).
+* (24) R. Kadono, J. Phys.: Condens. Matter **16**, S4421 (2004).
+* (25) R. Khasanov, A. Shengelaya, A. Maisuradze, F. La Mattina, A. Bussmann-Holder, H. Keller, and K. A. Muller, Phys. Rev. Lett. **98**, 057007 (2007).
+* (26) M. Tinkham, _Introduction to Superconductivity_ (McGraw-Hill, New York, 1996).
+* (27) R. Khasanov, A. Shengelaya, A. Maisuradze, D. Di Castro, I. M. Savic, S. Weyeneth, M. S. Park, D. J. Jang, S.-I. Lee, and H. Keller, Phys. Rev. B **77**, 184512 (2008).
+* (28) F. Marsiglio, J. P. Carbotte, and J. Blezius, Phys. Rev. B **41**, 6457 (1990).
+* (29) B. H. Brandow, Philos. Mag. **83**, 2487 (2003).
+* (30) P. K. Biswas, A. Krzton-Maziopa, R. Khasanov, H. Luetkens, E. Pomjakushina, K. Conder, and A. Amato, Phys. Rev. Lett. **110**, 137003 (2013).
+
+ 

@@ -1,0 +1,112 @@
+Evidence for superconductivity with broken time-reversal symmetry in locally noncentrosymmetric SrPtAs
+
+P. K. Biswas,\({}^{1}\) H. Luetkens,\({}^{1,*}\) T. Neupert,\({}^{2,3}\) T. Sturzer,\({}^{4}\) C. Baines,\({}^{1}\) G. Pascua,\({}^{1}\) A. P. Schnyder,\({}^{5}\) M. H. Fischer,\({}^{6}\) J. Goryo,\({}^{3,7}\) M. R. Lees,\({}^{8}\) H. Maeter,\({}^{9}\) F. Bruckner,\({}^{9}\) H.-H. Klauss,\({}^{9}\) M. Nicklas,\({}^{10}\) P. J. Baker,\({}^{11}\) A. D. Hillier,\({}^{11}\) M. Sigrist,\({}^{3}\) A. Amato,\({}^{1}\) and D. Johrendt\({}^{4}\)
+
+\({}^{1}\)Laboratory for Muon Spin Spectroscopy, Paul Scherrer Institute, CH-5232 Villigen PSI, Switzerland
+
+\({}^{2}\)Condensed Matter Theory Group, Paul Scherrer Institute, CH-5232 Villigen PSI, Switzerland
+
+\({}^{3}\)Institute for Theoretical Physics, ETH Zurich, 8093 Zurich, Switzerland
+
+\({}^{4}\)Department Chemie, Ludwig-Maximilians-Universitat Munchen, D-81377 Munchen, Germany
+
+\({}^{5}\)Max-Planck-Institut fur Festkorperforschung, Heisenbergstrasse 1, D-70569 Stuttgart, Germany
+
+\({}^{6}\)Department of Physics, Cornell University, Ithaca, New York 14853, USA
+
+\({}^{7}\)Department of Advanced Physics, Hirosaki University, Hirosaki 036-8561, Japan
+
+\({}^{8}\)Physics Department, University of Warwick, Coventry, CV4 7AL, United Kingdom
+
+\({}^{9}\)Institute for Solid State Physics, TU Dresden, D-01069 Dresden, Germany
+
+\({}^{10}\)Max Planck Institute for Chemical Physics of Solids, Nothnitzer Strasse 40, 01187 Dresden, Germany
+
+\({}^{11}\)ISIS Facility, STFC Rutherford Appleton Laboratory, Didcot OX11 0QX, United Kingdom
+
+###### Abstract
+
+We report the magnetic and superconducting properties of locally noncentrosymmetric SrPtAs obtained by muon-spin-rotation/relaxation (\(\mu\)SR) measurements. Zero-field \(\mu\)SR reveals the occurrence of small spontaneous static magnetic fields with the onset of superconductivity. This finding suggests that the superconducting state of SrPtAs breaks time-reversal symmetry. The superfluid density as determined by transverse field \(\mu\)SR is nearly flat approaching \(T=0\) K proving the absence of extended nodes in the gap function. By symmetry, several superconducting states supporting time-reversal-symmetry breaking in SrPtAs are allowed. Out of these, a dominantly \(d+id\) (chiral \(d\)-wave) order parameter is most consistent with our experimental data.
+
+pacs: 74.70.Xa, 74.25.Ha, 76.75.+i +
+Footnote †: preprint: PHYSICAL REVIEW B **87**, 180503(R) (2013)
+
+Present address: ]Department of Physics, University of California, Irvine, Irvine, CA 92697, USA
+
+Present address: ]Department of Physics, University of California, Irvine, Irvine, CA 92697, USA
+  Figure 1 shows ZF-\(\mu\)SR time spectra for SrPtAs. Open circles indicate data collected at 3.5 K (above \(T_{c}\)) and closed circles data collected at 0.019 K (below \(T_{c}\)). Data taken below \(T_{c}\) show a greater relaxation than above \(T_{c}\). The small relaxation above \(T_{c}\) arises from randomly orientated nuclear magnetic dipole moments that are static on the time scale of \(\mu\)SR. The additional relaxation of the muon spin polarization \(P(t)\) below \(T_{c}\) is caused by spontaneous magnetic moments which may be either quasistatic or dynamic. To distinguish between these two possibilities, we have performed LF-\(\mu\)SR in a weak magnetic field of 9 mT. We find that this field is sufficient to decouple the muon spin polarization (see the lower panel of Fig. 2) which proves that the additional spontaneous magnetic relaxation appearing below \(T_{c}\) in the ZF-\(\mu\)SR data is due to quasistatic moments.[8] To quantitatively evaluate the ZF-\(\mu\)SR spectra, we fitted a combination of a static Lorentzian and Gaussian Kubo-Toyabe relaxation function [9, 10, 11] to the data:
+
+\[P(t)=\frac{1}{3}+\frac{2}{3}(1-\Delta_{nn}^{2}t^{2}-\Lambda t)\exp\bigg{(}- \frac{\Delta_{nn}^{2}t^{2}}{2}-\Lambda t\bigg{)}.\] (1)
+
+Here \(\Delta_{nn}\) and \(\Lambda\) are the temperature-independent Gaussian and the temperature-dependent exponential muon relaxation rates due to the presence of nuclear and electronic moments, respectively. The solid lines in Fig. 1 are fits to the data using this equation.
+
+Both samples of SrPtAs measured at two different \(\mu\)SR facilities show very similar spectra. In both cases a small increase of the relaxation rate is observed below the superconducting \(T_{c}\). Figure 2 shows the temperature-dependent part of the relaxation rate \(\Delta\Lambda=\Lambda(T)-\Lambda(T\approx 5\) K) for both samples. The increase of the relaxation indicates the appearance of a spontaneous magnetic field in the superconducting state of SrPtAs. The existence of such a spontaneous field in SrPtAs and its correlation with the superconducting \(T_{c}\) provides evidence for a superconducting state that breaks TRS. A similar behavior has been observed by \(\mu\)SR in the spin-triplet TRS-breaking superconductor Sr\({}_{2}\)RuO\({}_{4}\).[13] Possible origins for the occurrence of TRS breaking in SrPtAs will be discussed below, but we first turn to the experimental characterization of the superconducting properties of SrPtAs.
+
+To reveal information on the pairing symmetry in the presence of TRS breaking, we have also performed TF-\(\mu\)SR measurements in a field of 9 mT, which is larger than the first critical field of \(\approx\)4 mT that we determined by low-temperature magnetization measurements. Figure 3 shows TF-\(\mu\)SR precession signals of sample A of SrPtAs above and below \(T_{c}\). In the normal state, the oscillation only shows very small relaxation. Below \(T_{c}\), the relaxation rate increases due to the broad field distribution produced by the presence of the vortex lattice. Solid lines are fits to the data using a sinusoidally oscillating function with a Gaussian decay component:
+
+\[P(t) = P_{s}\exp(-\sigma^{2}t^{2}/2)\cos(\gamma_{\mu}B_{int}t+\phi)\] (2) \[+P_{bgd}\cos\left(\gamma_{\mu}B_{bgd}t+\phi\right),\]
+
+where \(P_{s}\) and \(P_{bgd}\) are the relative fractions of muons hitting the sample and the Ag sample holder, respectively, the latter
+
+Figure 1: (Color online) ZF-\(\mu\)SR time spectra for SrPtAs at 3.5 K (above \(T_{c}\); open circles) and 0.019 K (below \(T_{c}\); closed circles). The solid lines are the fits to the data using Eq. (1).
+
+Figure 3: (Color online) TF-\(\mu\)SR time spectra of SrPtAs collected at 0.019 and 6.3 K. Solid lines are fits to the data using Eq. (2).
+
+Figure 2: (Color online) Upper panel: Temperature-dependent part of the electronic relaxation rate \(\Delta\Lambda\) for two different samples of SrPtAs measured at two different \(\mu\)SR facilities. Lower panel: Temperature dependence of \(\Lambda\) (open circles) in a weak LF of 9 mT. Solid curves are guides to the eye.
+
+  giving a practically undamped background signal. \(\gamma_{\mu}/2\pi=135.5\) MHz/T is the muon gyromagnetic ratio,[14]\(B_{int}\) and \(B_{hyd}\) are the internal and background magnetic field at the muon sites, \(\phi=-\pi/2\) is the phase of the initial muon spin polarization with respect to the positron detector, and \(\sigma\) is the Gaussian muon spin relaxation rate. \(\sigma\) can be written as \(\sigma=(\sigma_{sc}^{2}+\sigma_{nn}^{2})^{1/2}\), where \(\sigma_{sc}\) is the superconducting contribution to the relaxation rate due to the field variation across the flux line lattice, and \(\sigma_{nn}\) is the nuclear magnetic dipolar contribution which is assumed to be constant over the temperature range of the study.
+
+Figure 4(a) shows the temperature dependence of \(\sigma\) for SrPtAs for sample A. Qualitatively similar data are obtained for sample B. In a superconductor with an ideal Ginzburg-Landau vortex lattice, \(\sigma_{sc}\) is related to the penetration depth \(\lambda\) via Brandt's equation[15]
+
+\[\sigma_{sc}=4.83\times 10^{4}(1-b)[1+1.21(1-\sqrt{b})^{3}]\lambda^{-2},\] (3)
+
+where \(b=H/H_{c2}\) is the ratio of the applied field to the upper critical field. The temperature dependence of \(\lambda^{-2}\) is shown in Fig. 4(b) for which we used the data of Ref. [2] to estimate the temperature dependence of \(H_{c2}\). The slope of the temperature dependence of the superconducting order parameter tends to zero as the temperature approaches zero, indicating the absence of low-lying excitations. This is corroborated by a reasonable fit of the data with a one-band BCS \(s\)-wave model. In contrast, a one-band model with line nodes is unable to reproduce the data.[25] However, we emphasize that in SrPtAs multiple electronic bands cross the Fermi level and that SrPtAs lacks locally an inversion symmetry center. Hence, unconventional order parameter symmetries and multiband superconductivity can be expected. Therefore, such a simple model description of the superfluid density is not likely to reveal the true underlying pairing symmetry. However, with the present statistical accuracy we are at least confident that SrPtAs has no extended nodes in the gap function. This conclusion holds for both samples even though the measured low-temperature magnetic penetration depth is about 30% smaller for sample B [\(\lambda=239(4)\) nm] than for sample A [\(\lambda=339(6)\) nm]. The reason for this discrepancy is not known at the moment.
+
+Interestingly, the internal magnetic field \(B_{int}\) clearly increases by about 0.15 mT below \(T_{c}\) as shown for sample A in the inset of Fig. 4. This behavior is unexpected since typically one observes a diamagnetic shift in spin-singlet superconductors or a constant field in spin-triplet superconductors. More detailed studies, especially on single crystals, for which demagnetization effects can be properly taken into account are required to understand this phenomenon in detail, but we suggest that this positive internal field shift might be related to the occurrence of TRS breaking in SrPtAs.
+
+In summary, we found experimental evidence for (i) weak breaking of TRS that sets in at the same temperature as the superconducting order and (ii) no extended nodes in the order parameter. In the following, we will discuss possible origins of TRS breaking for different order parameter symmetries in the light of these experimental observations.[26]
+
+(i) _Chiral bulk and surface states._ The most straightforward explanation for bulk TRS breaking is a superconducting order parameter of dominantly \(d+id\) symmetry, the so-called chiral \(E_{g}\) state.[6] This state can be stabilized in a scenario where superconductivity is driven by the Van Hove singularities located around the \(M\) points; see Fig. 5. Intuitively, this can be explained using the following parallel to the cuprates: On the square lattice, repulsive scattering between the _two_ Van Hove singularities favors the \(d_{x^{2}-y^{2}}\) order parameter symmetry with \(sign\)\(change\). On a lattice with twofold rotational symmetry, repulsive scattering between the _three_ Van Hove singularities is frustrated. The phases of the superconducting order parameter near the Van Hove points, \(\phi_{i},~{}i=1,2,3\), then spontaneously choose one of the TRS breaking _chiral_ configurations \(\phi_{1}-\phi_{2}=\phi_{2}-\phi_{3}=\pm 2\pi/3\) [see Fig. 5(a)].[16; 17] The \(E_{g}\) state supports topologically protected chiral modes at the surface and at defects, such as the implanted muon itself.
+
+(ii) _Frustrated interband Cooper pair scattering._ An alternative scenario for bulk TRS breaking is based on frustrated Cooper pair scattering between multiple disconnected Fermi pockets[18] located at the \(K\) and \(K^{\prime}\) points. Starting from a nodeless \(s\)-wave superconducting order parameter (\(A_{1g}\) symmetry), this interpocket scattering leads to a similar chiral phase structure as in scenario (i), however, with constant phases \(\phi_{i},~{}i=1,2,3\), on each pair of pockets [see Fig. 5(b)]. Here, the TRS breaking is a secondary transition out of a conventional \(s\)-wave superconductor.
+
+(iii) _TRS breaking at the surface._ In view of the granularity of our samples, we comment on the possibility of spontaneous TRS breaking at the boundary, while the bulk remains in a TRS
+
+Figure 4: (Color online) (a) Temperature dependence of \(\sigma_{sc}\) of SrPtAs. The inset is the temperature dependence of the internal field. (b) Temperature dependence of \(\lambda^{-2}\) of SrPtAs which is proportional to the superfluid density \(n_{s}/m^{*}\). Solid and dashed lines are the fits to the data using a fully gapped model and a one-band model with line nodes, respectively.
+
+  superconducting state. Such surface effects can be expected for a dominantly \(f\)-wave superconductor (\(A_{2n}\) state), with a gap function that changes sign under a \(\pi/3\) rotation around the \(z\) axis [see Fig. 5(c)]. On the one hand, this sign change influences the Andreev scattering on the sample surface, if the surface normal has a nonvanishing component in the plane defined by the layers [see Fig. 5(c)]. Energetically, the destructively interfering scattering process leads to a suppression of the \(A_{2n}\) state close to the surface. Topologically, it equips the surface with a dispersionless 2D band structure with a degeneracy protected by TRS. Residual interactions in this surface flat band generically lift its degeneracy, thereby breaking spontaneously the TRS by nucleation of a \(\Delta_{A_{\rm x}}+{\rm i}\Delta_{A_{\rm z}}\) order parameter locally at the surface. On the other hand, due to the granularity of the sample, three or more crystallites can form a loop around a void within the sample, while remaining in a phase coherent superconducting state. Due to the sign change of the gap function in the \(A_{2n}\) state, the order parameter might acquire a phase shift of \(\pi\) around the loop.[19] To account for this phase shift, half of a superconducting flux quantum \(\phi_{0}/2=h/(4e)\) is trapped in the loop [see Fig. 5(d)]. The associated TRS breaking supercurrent would then cause an increase in muon depolarization rate of the muons that stop close to the loop. At low fields these frustrated current loops are expected to give rise to an unusual positive field shift, an effect that has also been observed in granular samples of high-\(T_{c}\) cuprates.[19, 20] This granularity scenario would be consistent with the positive field shift below \(T_{c}\) of the sample (see inset of Fig. 4).
+
+Notably, none of the above scenarios is compatible with an \(s\)-wave order parameter symmetry. Furthermore, in the absence of fine tuning, TRS breaking in scenarios (ii) and (iii) is expected to occur as a secondary transition, i.e., at a temperature lower than \(T_{c}=2.4\) K, which is in contradiction with our measurements. Hence, the chiral \(E_{g}\) state is the most likely explanation for TRS breaking in SrPtAs. This state is also favored by the second experimental finding that the gap function of SrPtAs possesses no extended nodes since it has only a point node on one out of six bands contributing to superconductivity, while the other pairing symmetry allowing for TRS breaking, namely \(A_{2n}\), possesses line nodes on four of these bands.
+
+In conclusion, we have found small static magnetic fields in two different samples of SrPtAs measured at two different \(\mu\)SR facilities. These internal magnetic fields set in at the superconducting \(T_{c}\) and grow with decreasing temperature. This provides strong evidence that the superconducting state of locally noncentrosymmetric SrPtAs breaks TRS. In addition, we observed a nearly flat temperature dependence of the superfluid density approaching \(T=0\) K proving the absence of extended nodes in the superconducting gap function. Furthermore we proposed several scenarios which can lead to TRS breaking in SrPtAs on the basis of the superconducting states allowed by symmetry. While the other states cannot be completely excluded, our experimental observations are most consistent with an \(E_{g}\) symmetry of the superconducting order parameter which is dominated by a spin-singlet \(d+id\) (chiral \(d\)-wave) state.
+
+The \(\mu\)SR experiments were performed at the Swiss Muon Source, Paul Scherrer Institut, Villigen, Switzerland, and the ISIS pulsed muon facility, Oxford, United Kingdom. M.H.F. acknowledges support from NSF Grant No. DMR-0955822 and from NSF Grant No. DMR-1120296 to the Cornell Center for Materials Research.
+
+## References
+
+* [1] J. Bourges, M. H. Fischer, and M. Sigrist, Phys. Rev. B **86**, 100507 (2012).
+* [2] A. Suter and B. M. Wojek, Phys. Procedia **30**, 69 (2012).
+* [3] A. Yaouanc and P. D. d. Reotier, _Muon Spin Rotation, Relaxation, and Resonance: Applications to Condensed Matter_ (Oxford University Press, Oxford, 2011).
+* [4] R. Kubo and T. Toyabe, _Magnetic Resonance and Relaxation_ (North Holland, Amsterdam, 1967).
+* [5] R. S. Hayano, Y. J. Uemura, J. Imazato, N. Nishida, T. Yamazaki, and R. Kubo, Phys. Rev. B **20**, 850 (1979).
+
+Figure 5: (Color online) Illustration of possible mechanisms for TRS breaking in SrPtAs. (a) Frustrated inter-Fermi-surface Cooper pair scattering. (b) Stabilizing the chiral \(E_{g}\) state with Cooper pair scattering. (c) Andreev scattering with \(\pi\) phase shift in the \(A_{2n}\) state. (d) Frustrated current loops.
+
+  * (11) Y. J. Uemura, T. Yamazaki, D. R. Harshman, M. Senba, and E. J. Ansaldo, Phys. Rev. B **31**, 546 (1985).
+* (12) A. Maisuradze, W. Schnelle, R. Khasanov, R. Gumeniuk, M. Nicklas, H. Rosner, A. Leithe-Jasper, Y. Grin, A. Amato, and P. Thalmeier, Phys. Rev. B **82**, 024524 (2010).
+* (13) G. M. Luke, Y. Fudamoto, K. M. Kojima, M. I. Larkin, J. Merrin, B. Nachumi, Y. J. Uemura, Y. Maeno, Z. Q. Mao, Y. Mori _et al._, Nature (London) **394**, 558 (1998).
+* (14) J. E. Sonier, J. H. Brewer, and R. F. Kiefl, Rev. Mod. Phys. **72**, 769 (2000).
+* (15) E. H. Brandt, Phys. Rev. B **68**, 054506 (2003).
+* (16) R. Nandkishore, L. S. Levitov, and A. V. Chubukov, Nat. Phys. **8**, 158 (2012).
+* (17) M. L. Kiesel, C. Platt, W. Hanke, D. A. Abanin, and R. Thomale, Phys. Rev. B **86**, 020507 (2012).
+* (18) K. Voelker and M. Sigrist, arXiv:cond-mat/0208367.
+* (19) M. Sigrist and T. M. Rice, J. Phys. Soc. Jpn. **61**, 4283 (1992).
+* (20) W. Braunisch, N. Knauf, V. Kataev, S. Neuhausen, A. Grutz, A. Kock, B. Roden, D. Khomskii, and D. Wohlleben, Phys. Rev. Lett. **68**, 1908 (1992).
+* (21) A. Carrington and F. Manzano, Physica C (Amsterdam) **385**, 205 (2003).
+* (22) H. Padamsee, J. E. Neighbor, and C. A. Shiffman, J. Low Temp. Phys. **12**, 387 (1973).
+* (23) P. K. Biswas, G. Balakrishnan, D. M. Paul, C. V. Tomy, M. R. Lees, and A. D. Hillier, Phys. Rev. B **81**, 092510 (2010).
+* (24) R. Khasanov, K. Conder, E. Pomjakushina, A. Amato, C. Baines, Z. Bukowski, J. Karpinski, S. Katrych, H.-H. Klauss, H. Luetkens _et al._, Phys. Rev. B **78**, 220510 (2008).
+* (25) For the displayed fit with line nodes, we use a one-band \(d\)-wave model. Details of models are discussed in Refs. [21, 22] and also in our previous work (Refs. [23, 24]).
+* (26) A microscopic analysis of time-reversal-symmetry breaking is presented elsewhere: M. H. Fischer _et al._ (unpublished).
+
+ 

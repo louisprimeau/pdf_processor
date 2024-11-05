@@ -1,0 +1,577 @@
+
+
+# Second-order structural transition in the superconductor La_{3}Co_{4}Sn_{13}
+
+Y. W. Cheung,^{1} J. Z. Zhang,^{1} J. Y. Zhu,^{1} W. C. Yu,^{1} Y. J. Hu,^{1} D. G. Wang,^{1} Yuka Otomo,^{2} Kazuaki Iwasa,^{2,} Koji Kaneko,^{3} Masaki Imai,^{4} Hibiki Kanagawa,^{4} Kazuyoshi Yoshimura,^{4,5} and Swee K. Goh^{1,}
+
+^{1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
+^{2}Department of Physics, Tohoku University, Sendai 980-8578, Japan
+
+^{3}Materials Sciences Research Center, Japan Atomic Energy Agency, Tokai, Naka, Ibaraki 319-1195, Japan
+
+^{4}Department of Chemistry, Graduate School of Science, Kyoto University, Kyoto 606-8502, Japan
+
+^{5}Research Center for Low Temperature and Materials Sciences, Kyoto University, Kyoto 606-8501, Japan
+
+Received 3 May 2016; revised manuscript received 31 May 2016; published 21 June 2016
+
+###### Abstract
+
+The quasikutterudite superconductor La_{3}Co_{4}Sn_{13} undergoes a phase transition at T^{*}=152 K. By measuring the temperature dependence of heat capacity, electrical resistivity, and the superlattice reflection intensity using x rays, we explore the character of the phase transition at T^{*}. Our lattice dynamic calculations found imaginary phonon frequencies around the M point when the high-temperature structure is used in the calculations, indicating that the structure is unstable at the zero-temperature limit. The combined experimental and computational results establish that T^{*} is associated with a second-order structural transition with \bm{q}=(0.5,0.5,0) (or the \bm{M} point). Further electronic band structure calculations reveal Fermi surface sheets with low-curvature segments, which allow us to draw qualitative comparison with both Sr_{3}Ir_{4}Sn_{13} and Sr_{3}Rh_{4}Sn_{13} in which similar physics has been discussed recently.
+
+pacs: DOI: 10.1103/PhysRevB.93.241112 +
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote ††: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote ††: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote ††: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †††††††††††††††††††††††††††††††††††††††††††††††††††††††††† † up to 1050 degC and slowly cooled to 600 degC at the rate of 3^{\circ}C/hr. Excess tin was removed by centrifugation after reheating to 500 degC, and then removed by dilute hydrochloric acid. Excellent homogeneity was confirmed using an Oxford Instruments X-MAX 50 energy dispersive x-ray detector in a JEOL ISM-7800F scanning electron microscope. The heat capacity was measured using a standard pulse relaxation method. The mass of the sample is 24 mg. The electrical resistivity was measured using the four-contact method. A Physical Property Measurement System (Quantum Design) was used to provide the low-temperature and high magnetic field environment. X-ray diffraction measurements were performed with a cryostat installed on a conventional four-circle diffractometer equipped with a rotating-anode x-ray generator consisting of a molybdenum target. The K_{\alpha} x-ray was chosen by using a pyrolytic graphite monochromator. All samples used are from the same batch.
+
+The calculations were based on density functional theory [38,39]. The Vasp code [40] with a plane-wave basis set [41,42] in conjunction with the package of phonopy[43,44] was used to calculate the phonon spectra. Computational details are discussed in Ref. [45]. The electronic structures were calculated using the all-electron full-potential linearized augmented plane-wave code wen2k[46]. The muffin-tin radii were set to 2.5 a.u. for the La atoms and 2.37 a.u. for the Co and Sn atoms. R_{\rm MT}^{\rm min}K_{\rm max}=7 and a k-point mesh of 15000 in the first Brillouin zone were used to achieve convergence in the density of states and electron band structure.
+
+## III Results and Discussion
+
+Figure 1 displays the overall behavior of the specific heat C_{p}(T) and the electrical resistivity \rho(T) in La_{3}Co_{4}Sn_{13}. A weak feature can be seen at around 152 K, which corresponds to the structural phase transition to be discussed later. We first discuss the low-temperature properties of La_{3}Co_{4}Sn_{13}. At low temperature, a clear jump in C_{p} is detected at 2.7 K, which corresponds to the superconducting transition, as evidenced in the rapid disappearance of the electrical resistivity at the same temperature (insets to Fig. 1). The superconducting phase transition temperature is consistent with previous reports [24,25]. When a magnetic field is applied, the superconductivity can be suppressed. At 3 T, C_{p}(T) does not exhibit any anomaly associated with superconductivity down to the lowest attainable temperature. By replotting the high-field data on the axes of C_{p}/T against T^{2} (see Ref. [45]), a linear region up to T=2.7 K can be found, with slope \beta=3.53 mJ K^{-4} mol^{-1} and intercept \gamma=27.87 mJ K^{-2} mol^{-1}. This allows us to extract the electronic contribution \gamma T and the phonon contribution \beta T^{3}, with the sum \gamma T+\beta T^{3} shown as the dashed line in the inset to Fig. 1(a). The normalized specific heat jump \Delta C/\gamma T_{c}=1.93, which is larger than the BCS weak coupling value of 1.43.
+
+At low temperature, \rho(T) follows a T^{2} behavior, i.e., \rho(T)=\rho_{0}+AT^{2}. By plotting \rho(T) versus T^{2} (see Ref. [45]), a linear region is found to extend from T_{c} to 7.2 K, whose slope and intercept give the A-coefficient of 0.026 \mu2 cm K^{-2} and \rho_{0}=24.9\mu2 cm, respectively. The dashed line in Fig. 1(b) is generated with A and \rho_{0} obtained. From the analysis of the low-temperature normal state data, the Kadowaki-Woods ratio A/\gamma^{2} can be calculated to be 3.3 \times 10^{-5}\mu2 cm mol^{2} K^{2} mJ^{-2}, which is close to the value commonly observed in heavy fermion compounds [47,48]. Interestingly, the Kadowaki-Woods ratio of several related 3-4-13 compounds, namely Sr_{3}Ir_{4}Sn_{13}[6], Sr_{3}Rh_{4}Sn_{13}[7], and Ca_{3}Ir_{4}Sn_{13}[8], are found to cluster around the same region in the A-\gamma^{2} plot, as shown in the right inset to Fig. 1(b).
+
+We now turn our attention to the high-temperature phase transition at T^{*}. Figure 2(a) shows the temperature dependence of the specific heat around T^{*}. A clear lambdalike jump in the specific heat is detected. Particular care was taken to measure the specific heat on cooling and on warming. The data sets are displayed in Fig. 2(a) with the arrows denoting the direction of the temperature sweep. It is clear that no discernible hysteresis
+
+Figure 1: (a) The temperature dependence of the specific heat in La_{3}Co_{4}Sn_{13}. The solid arrow indicates T^{*}. (Inset) An expanded view of the specific heat around T_{c} at zero field and 3 T. (b) The temperature dependence of the electrical resistivity. The solid arrow indicates T^{*} and the dotted line shows that the low-temperature resistivity follows a Fermi liquid behavior (see text). (Left inset) An expanded view of the low-temperature resistivity showing the suppression of T_{c} with the application of 0, 0.2, 0.4, 0.6, and 1 T. The arrow indicates the direction of an increasing magnetic field. (Right inset) A-\gamma^{2} plot for selected heavy fermion compounds (open circles), transition metals (open squares), and several 3-4-13 systems. The dashed and dash-dot lines indicate the Kadowaki-Woods ratio commonly observed in heavy fermion compounds and transition metals, respectively.
+
+  exists. This is in stark contrast to the data sets presented by Liu _et al._, where they detected a hysteresis as large as \sim3 - 5 K near T^{*} in their specific heat data [10]. Based on the shape of the specific heat jump and the absence of thermal hysteresis, we conclude that the phase transition at T^{*} is _second order_.
+
+It is harder to see the effect of phase transition on \rho(T). Following Slebarski _et al._, we replot the resistivity data on the axes \ln(1/\rho) versus \ln T. T^{*} is the temperature below which the graph of \ln(1/\rho) versus \ln T deviates from linearity. Indeed, the value of T^{*} extracted from our specific heat data agrees well with the assignment based on the deviation from the linearity, as shown in Fig. 2(b). For the resistivity, the measurement was again performed on cooling and on warming--absence of thermal hysteresis is apparent in the data, consistent with the conclusion that the phase transition is second order we reached from the analysis of the specific heat data.
+
+Having established the second-order nature of the T^{*} transition, we now proceed to measure the superlattice reflection intensity by using x-ray diffraction. Calculations, to be discussed later, suggest that the structural instability is associated with a modulation vector \bm{q}=(0.5,0.5,0.0). Therefore additional reflections with \bm{Q}=\bm{k}+\bm{q} should appear below T^{*}, where \bm{k} corresponds to the Bragg spots in the high-temperature Pm\bar{3}m phase. Figure 2(c) displays the temperature evolution of selected x-ray diffraction intensities for \bm{Q}=(6.5,6.5,2.0) across T^{*}. While the intensity of \bm{k}=(6.0,6.0,2.0) shows a weak temperature dependence (not shown), the intensity of (6.5, 6.5, 2.0) is negligible above T^{*} but it grows continuously below T^{*}, as shown in Fig. 2(d). Furthermore, the superlattice reflection intensity does not exhibit a discernible thermal hysteresis. All these features thus strengthen the claim that the phase transition at T^{*} is continuous.
+
+In order to assess the stability of the high-temperature structure with space group Pm\bar{3}n at 0 K, we have performed the lattice dynamic calculations. The optimized lattice constant is 9.4498 A using LDA as the exchange-correlation functional. A detailed discussion and comparison of Ca_{3}Ir_{4}Sn_{13}, Sr_{3}Ir_{4}Sn_{13}, and La_{3}Co_{4}Sn_{13} are described in Ref. [45]. Figure 3(a) shows the phonon spectrum along the high-symmetry directions calculated using the theoretically optimized lattice constant by LDA. A softened branch of phonon modes with a minimum frequency at the \bm{M} point can be seen, which corresponds to \bm{q}=(0.5,0.5,0.0). This is in contrast to the finding by Neha _et al._ where no softened phonon modes were observed [26]. Additionally, we also calculated the spectrum using the experimental lattice constant for further comparison [23]. This
+
+Figure 3: Calculated phonon spectra of La_{3}Co_{4}Sn_{13} by LDA with (a) the theoretically optimized lattice constant, and (b) the experimental lattice constant. Only the low-lying frequencies are shown.
+
+Figure 2: The temperature dependence of (a) specific heat and (b) inverse resistivity around T^{*}. (c) Selected x-ray intensities at \bm{Q}=(6.5,6.5,2.0) across T^{*} and (d) the temperature dependence of the integrated x-ray intensity at \bm{Q}=(6.5,6.5,2.0). Note that in (b), both axes are plotted using a logarithmic scale. For all quantities shown in (a), (b), and (d), the data were collected on cooling and on warming, with warm-up (cool-down) data denoted by open (filled) symbols and the open (filled) arrow.
+
+  approach has been adapted in previous works to investigate the lattice instability and were shown to give consistent results [27; 49; 50; 51; 52]. From Fig. 3(b), one can see that the phonon spectrum possesses a branch of imaginary frequencies. The presence of these imaginary frequencies suggests a structural instability which drives the system towards a displacive structural transition and it is consistent with our experimental findings.
+
+Figure 4 shows the electronic structure of La_{3}Co_{4}Sn_{13} in the high-temperature phase from LDA calculation. There are two dispersive bands crossing the Fermi level indicating the metallic nature of the compound. The La 4f states are empty and is localized around 2.5 eV above the Fermi energy (=0 eV), while the Co 3d states are bounded between -0.5 and -2 eV. The results are similar to that obtained from the GGA+SOC calculation [53]. At the Fermi level, the states are mainly contributed by the Co 3d and Sn 5p electrons in the CoSn(2)_{6} trigonal prisms around an Sn(1)Sn(2)_{12} icosahedral cages. The total density of states is \sim7.2 states/eV per formula unit. This translates into a Sommerfeld coefficient \gamma_{\rm cal} of about 17.0 mJ K^{-2} mol^{-1} under the free electron approximation. In Fig. 4(c), we show the Fermi surface which consists of two large sheets. Below the structural transition temperature, the system has a lower symmetry [23]. This corresponds to a reduction in the size of the first Brillouin zone and the large Fermi surfaces will be gapped out, resulting in a smaller density of states at the Fermi energy. The calculation using the high-temperature structure thus gives an upper bound to \gamma_{\rm cal}. Comparing with the value obtained from the specific heat analysis above, \gamma=27.87 mJ K^{-2} mol^{-1} obtained from experiment is larger than \gamma_{\rm cal} and one could attribute the excess in \gamma to the contribution from the electron-phonon coupling and/or electron-electron interaction. In addition, the Fermi surface consists of areas of low curvatures. This is a scenario which may favor nesting and enhance the electron pairing in the superconducting state.
+
+In summary, we have measured the electrical resistivity, the specific heat, and the x-ray diffraction of La_{3}Co_{4}Sn_{13}. The low-temperature normal state data follow the Fermi liquid behavior. A second-order phase transition is unambiguously established at T^{*}=152 K through a careful examination of the temperature evolution of our data. The existence of lattice instability is supported by our lattice dynamic calculations where imaginary phonon frequencies are found near **M**, which corresponds to \bm{q}=(0.5,0.5,0.0), when the high-temperature structure with the space group Pm\bar{3}n is assumed. The electronic band structure calculations result in two Fermi surface sheets, which consist of low curvature segments. These results point to strong similarities between La_{3}Co_{4}Sn_{13} and Sr_{3}Rh_{4}Sn_{13}/Sr_{3}Ir_{4}Sn_{13}, and establish La_{3}Co_{4}Sn_{13} as another possible system to investigate the interplay between structural instability and superconductivity.
+
+## References
+
+* [1] J. P. Remeika, G. P. Espinosa, A. S. Cooper, H. Barz, J. M. Rowell, D. B. McWhan, J. M. Vandenberg, D. E. Moncton, Z. Fisk, L. D. Woolf, H. C. Hamaker, M. B. Maple, G. Shirane, and W. Thomlinson, Solid State Commun. **34**, 923 (1980).
+* [2] G. P. Espinosa, Mater. Res. Bull. **15**, 791 (1980).
+* [3] L. E. Klintberg, S. K. Goh, P. L. Alireza, P. J. Saines, D. A. Tompsett, P. W. Logg, J. Yang, B. Chen, K. Yoshimura, and F. M. Grosche, Phys. Rev. Lett. **109**, 237008 (2012).
+* [4] S. K. Goh, D. A. Tompsett, P. J. Saines, H. C. Chang, T. Matsumoto, M. Imai, K. Yoshimura, and F. M. Grosche, Phys. Rev. Lett. **114**, 097002 (2015).
+* [5] W. C. Yu, Y. W. Cheung, P. J. Saines, M. Imai, T. Matsumoto, C. Michioka, K. Yoshimura, and S. K. Goh, Phys. Rev. Lett. **115**, 207003 (2015).
+* [6] C. N. Kuo, H. F. Liu, C. S. Lue, L. M. Wang, C. C. Chen, and Y. K. Kuo, Phys. Rev. B **89**, 094520 (2014).
+
+Figure 4: (a) The electronic band structure of La_{3}Co_{4}Sn_{13} along the high-symmetry directions. (b) The total and partial density of states. The energy scale is shown with respect to the Fermi energy (dashed line). (c) The Fermi surface sheets in the first Brillouin zone. \Gamma is at the center of the cube.
+
+  * [7] C. N. Kuo, C. W. Tseng, C. M. Wang, C. Y. Wang, Y. R. Chen, L. M. Wang, C. F. Lin, K. K. Wu, Y. K. Kuo, and C. S. Lue, Phys. Rev. B **91**, 165141 (2015).
+* [8] J. Yang, B. Chen, C. Michioka, and K. Yoshimura, J. Phys. Soc. Jpn. **79**, 113705 (2010).
+* [9] S. Gerber, J. L. Gavilano, M. Medarde, V. Pomjakushin, C. Baines, E. Pomjakushina, K. Conder, and M. Kenzelmann, Phys. Rev. B **88**, 104505 (2013).
+* [10] H. F. Liu, C. N. Kuo, C. S. Lue, K.-Z. Syu, and Y. K. Kuo, Phys. Rev. B **88**, 115113 (2013).
+* [11] A. Slebarski, M. Fijalkowski, M. M. Maska, M. Mierzejewski, B. D. White, and M. B. Maple, Phys. Rev. B **89**, 125111 (2014).
+* [12] A. F. Fang, X. B. Wang, P. Zheng, and N. L. Wang, Phys. Rev. B **90**, 035115 (2014).
+* [13] B. Chen, J. Yang, Y. Guo, and K. Yoshimura, Europhys. Lett. **111**, 17005 (2015).
+* [14] D. G. Mazzone, S. Gerber, J. L. Gavilano, R. Sibille, M. Medarde, B. Delley, M. Ramakrishnan, M. Neugebauer, L. P. Regnault, D. Chernyshov, A. Piovano, T. M. Fernandez-Diaz, L. Keller, A. Cervellino, E. Pomjakushina, K. Conder, and M. Kenzelmann, Phys. Rev. B **92**, 024101 (2015).
+* [15] K. Wang and C. Petrovic, Phys. Rev. B **86**, 024522 (2012).
+* [16] P. K. Biswas, A. Amato, R. Khasanov, H. Luetkens, K. Wang, C. Petrovic, R. M. Cook, M. R. Lees, and E. Morenzoni, Phys. Rev. B **90**, 144505 (2014).
+* [17] L. M. Wang, C.-Y. Wang, G.-M. Chen, C. N. Kuo, and C. S. Lue, New J. Phys. **17**, 033005 (2015).
+* [18] N. Kase, H. Hayamizu, and J. Akimitsu, Phys. Rev. B **83**, 184509 (2011).
+* [19] H. Hayamizu, N. Kase, and J. Akimitsu, J. Phys. Soc. Jpn. **80**, S4114 (2011).
+* [20] S. Y. Zhou, H. Zhang, X. C. Hong, B. Y. Pan, X. Qiu, W. N. Dong, X. L. Li, and S. Y. Li, Phys. Rev. B **86**, 064504 (2012).
+* [21] R. Sarkar, F. Bruckner, M. Gunther, K. Wang, C. Petrovic, P. K. Biswas, H. Luetkens, E. Morenzoni, A. Amato, and H.-H. Klauss, Physica B **479**, 51 (2015).
+* [22] P. K. Biswas, Z. Guguchia, R. Khasanov, M. Chinotti, L. Li, K. Wang, C. Petrovic, and E. Morenzoni, Phys. Rev. B **92**, 195122 (2015).
+* [23] A. Slebarski and J. Goraus, Phys. Rev. B **88**, 155122 (2013).
+* [24] E. L. Thomas, H.-O. Lee, A. N. Bankston, S. MaQuilon, P. Klavins, M. Moldovan, D. P. Young, Z. Fisk, and J. Y. Chan, J. Solid State Chem. **179**, 1642 (2006).
+* [25] A. Slebarski, M. M. Maska, M. Fijalkowski, C. A. McElroy, and M. B. Maple, J. Alloys Compd. **646**, 866 (2015).
+* [26] P. Neha, P. Srivastava, R. Jha, Shruti, V. P. S. Awana, and S. Patnaik, J. Alloys Compd. **665**, 333 (2016).
+* [27] D. A. Tompset, Phys. Rev. B **89**, 075117 (2014).
+* [28] X. Chen, S. K. Golu, D. A. Tompset, W. C. Yu, L. Klinberg, S. Friedemann, H. Tan, J. Yang, B. Chen, M. Imai, K. Yoshimura, M. B. Gamza, F. M. Grosche, and M. L. Sutherland, Phys. Rev. B **93**, 235121 (2016).
+* [29] N. D. Mathur, F. M. Grosche, S. R. Julian, I. R. Walker, D. M. Freye, R. K. W. Haselwimmer, and G. G. Lonzarich, Nature (London) **394**, 39 (1998).
+* [30] P. Gegenwart, Q. Si, and F. Steglich, Nat. Phys. **4**, 186 (2008).
+* [31] J. Paglione and R. L. Greene, Nat. Phys. **6**, 645 (2010).
+* [32] K. Ishida, Y. Nakai, and H. Hosono, J. Phys. Soc. Jpn. **78**, 062001 (2009).
+* [33] K. Hashimoto, K. Cho, T. Shibauchi, S. Kasahara, Y. Mizukami, R. Katsumata, Y. Tsuruhara, T. Terashima, H. Ikeda, M. A. Tanatar, H. Kitano, N. Salovich, R. W. Giannetta, P. Walmsley, A. Carrington, R. Prozorov, and Y. Matsuda, Science **336**, 1554 (2012).
+* [34] T. Shibauchi, A. Carrington, and Y. Matsuda, Annu. Rev. Condens. Matter Phys. **5**, 113 (2014).
+* [35] J. Bardeen, L. N. Cooper, and J. R. Schrieffer, Phys. Rev. **106**, 162 (1957).
+* [36] J. Bardeen, L. N. Cooper, and J. R. Schrieffer, Phys. Rev. **108**, 1175 (1957).
+* [37] C. Poole, H. Farach, R. Creswick, and R. Prozorov, _Superconductivity_ (Academic Press, Cambridge, Massachusetts, 2007).
+* [38] P. Hohenberg and W. Kohn, Phys. Rev. **136**, B864 (1964).
+* [39] W. Kohn and L. J. Sham, Phys. Rev. **140**, A1133 (1965).
+* [40] G. Kresse and J. Furthmuller, Comput. Mater. Sci. **6**, 15 (1996).
+* [41] P. E. Blochl, Phys. Rev. B **50**, 17953 (1994).
+* [42] G. Kresse and D. Joubert, Phys. Rev. B **59**, 1758 (1999).
+* [43] A. Togo, F. Oba, and I. Tanaka, Phys. Rev. B **78**, 134106 (2008).
+* [44] A. Togo and I. Tanaka, Scr. Mater. **108**, 1015).
+* [45] See Supplemental Material at http://link.aps.org/supplemental/ 10.1103/PhysRevB.93.24112 for details of specific heat and electrical resistivity analysis, as well as lattice dynamic calculations.
+* [46] K. Schwarz and P. Blaha, Comput. Mater. Sci. **28**, 259 (2003).
+* [47] K. Kadowaki and S. Woods, Solid State Commun. **58**, 507 (1986).
+* [48] A. C. Jacko, J. O. Fjaerestad, and B. J. Powell, Nat. Phys. **5**, 422 (2009).
+* [49] R. Yu and H. Krakauer, Phys. Rev. Lett. **74**, 4067 (1995).
+* [50] A. Y. Ignatov, S. Y. Savrasov, and T. A. Tyson, Phys. Rev. B **68**, 220504 (2003).
+* [51] P. Ghosez, E. Cockayne, U. V. Waghmare, and K. M. Rabe, Phys. Rev. B **60**, 836 (1999).
+* [52] A. Subedi, Phys. Rev. B **87**, 054506 (2013).
+* [53] G. Zhong, X. Lei, and J. Mao, Phys. Rev. B **79**, 094424 (2009).
+
+ 
+
+# Second-order structural transition in the superconductor La_{3}Co_{4}Sn_{13}
+
+Y. W. Cheung,^{1} J. Z. Zhang,^{1} J. Y. Zhu,^{1} W. C. Yu,^{1} Y. J. Hu,^{1} D. G. Wang,^{1} Yuka Otomo,^{2} Kazuaki Iwasa,^{2,} Koji Kaneko,^{3} Masaki Imai,^{4} Hibiki Kanagawa,^{4} Kazuyoshi Yoshimura,^{4,5} and Swee K. Goh^{1,}
+
+^{1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
+^{2}Department of Physics, Tohoku University, Sendai 980-8578, Japan
+
+^{3}Materials Sciences Research Center, Japan Atomic Energy Agency, Tokai, Naka, Ibaraki 319-1195, Japan
+
+^{4}Department of Chemistry, Graduate School of Science, Kyoto University, Kyoto 606-8502, Japan
+
+^{5}Research Center for Low Temperature and Materials Sciences, Kyoto University, Kyoto 606-8501, Japan
+
+Received 3 May 2016; revised manuscript received 31 May 2016; published 21 June 2016
+
+###### Abstract
+
+The quasikutterudite superconductor La_{3}Co_{4}Sn_{13} undergoes a phase transition at T^{*}=152 K. By measuring the temperature dependence of heat capacity, electrical resistivity, and the superlattice reflection intensity using x rays, we explore the character of the phase transition at T^{*}. Our lattice dynamic calculations found imaginary phonon frequencies around the M point when the high-temperature structure is used in the calculations, indicating that the structure is unstable at the zero-temperature limit. The combined experimental and computational results establish that T^{*} is associated with a second-order structural transition with \bm{q}=(0.5,0.5,0) (or the \bm{M} point). Further electronic band structure calculations reveal Fermi surface sheets with low-curvature segments, which allow us to draw qualitative comparison with both Sr_{3}Ir_{4}Sn_{13} and Sr_{3}Rh_{4}Sn_{13} in which similar physics has been discussed recently.
+
+pacs: DOI: 10.1103/PhysRevB.93.241112 +
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote ††: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote ††: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote ††: 1}Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
++
+Footnote †††††††††††††††††††††††††††††††††††††††††††††††††††††††††† † up to 1050 degC and slowly cooled to 600 degC at the rate of 3^{\circ}C/hr. Excess tin was removed by centrifugation after reheating to 500 degC, and then removed by dilute hydrochloric acid. Excellent homogeneity was confirmed using an Oxford Instruments X-MAX 50 energy dispersive x-ray detector in a JEOL ISM-7800F scanning electron microscope. The heat capacity was measured using a standard pulse relaxation method. The mass of the sample is 24 mg. The electrical resistivity was measured using the four-contact method. A Physical Property Measurement System (Quantum Design) was used to provide the low-temperature and high magnetic field environment. X-ray diffraction measurements were performed with a cryostat installed on a conventional four-circle diffractometer equipped with a rotating-anode x-ray generator consisting of a molybdenum target. The K_{\alpha} x-ray was chosen by using a pyrolytic graphite monochromator. All samples used are from the same batch.
+
+The calculations were based on density functional theory [38,39]. The Vasp code [40] with a plane-wave basis set [41,42] in conjunction with the package of phonopy[43,44] was used to calculate the phonon spectra. Computational details are discussed in Ref. [45]. The electronic structures were calculated using the all-electron full-potential linearized augmented plane-wave code wen2k[46]. The muffin-tin radii were set to 2.5 a.u. for the La atoms and 2.37 a.u. for the Co and Sn atoms. R_{\rm MT}^{\rm min}K_{\rm max}=7 and a k-point mesh of 15000 in the first Brillouin zone were used to achieve convergence in the density of states and electron band structure.
+
+## III Results and Discussion
+
+Figure 1 displays the overall behavior of the specific heat C_{p}(T) and the electrical resistivity \rho(T) in La_{3}Co_{4}Sn_{13}. A weak feature can be seen at around 152 K, which corresponds to the structural phase transition to be discussed later. We first discuss the low-temperature properties of La_{3}Co_{4}Sn_{13}. At low temperature, a clear jump in C_{p} is detected at 2.7 K, which corresponds to the superconducting transition, as evidenced in the rapid disappearance of the electrical resistivity at the same temperature (insets to Fig. 1). The superconducting phase transition temperature is consistent with previous reports [24,25]. When a magnetic field is applied, the superconductivity can be suppressed. At 3 T, C_{p}(T) does not exhibit any anomaly associated with superconductivity down to the lowest attainable temperature. By replotting the high-field data on the axes of C_{p}/T against T^{2} (see Ref. [45]), a linear region up to T=2.7 K can be found, with slope \beta=3.53 mJ K^{-4} mol^{-1} and intercept \gamma=27.87 mJ K^{-2} mol^{-1}. This allows us to extract the electronic contribution \gamma T and the phonon contribution \beta T^{3}, with the sum \gamma T+\beta T^{3} shown as the dashed line in the inset to Fig. 1(a). The normalized specific heat jump \Delta C/\gamma T_{c}=1.93, which is larger than the BCS weak coupling value of 1.43.
+
+At low temperature, \rho(T) follows a T^{2} behavior, i.e., \rho(T)=\rho_{0}+AT^{2}. By plotting \rho(T) versus T^{2} (see Ref. [45]), a linear region is found to extend from T_{c} to 7.2 K, whose slope and intercept give the A-coefficient of 0.026 \mu2 cm K^{-2} and \rho_{0}=24.9\mu2 cm, respectively. The dashed line in Fig. 1(b) is generated with A and \rho_{0} obtained. From the analysis of the low-temperature normal state data, the Kadowaki-Woods ratio A/\gamma^{2} can be calculated to be 3.3 \times 10^{-5}\mu2 cm mol^{2} K^{2} mJ^{-2}, which is close to the value commonly observed in heavy fermion compounds [47,48]. Interestingly, the Kadowaki-Woods ratio of several related 3-4-13 compounds, namely Sr_{3}Ir_{4}Sn_{13}[6], Sr_{3}Rh_{4}Sn_{13}[7], and Ca_{3}Ir_{4}Sn_{13}[8], are found to cluster around the same region in the A-\gamma^{2} plot, as shown in the right inset to Fig. 1(b).
+
+We now turn our attention to the high-temperature phase transition at T^{*}. Figure 2(a) shows the temperature dependence of the specific heat around T^{*}. A clear lambdalike jump in the specific heat is detected. Particular care was taken to measure the specific heat on cooling and on warming. The data sets are displayed in Fig. 2(a) with the arrows denoting the direction of the temperature sweep. It is clear that no discernible hysteresis
+
+Figure 1: (a) The temperature dependence of the specific heat in La_{3}Co_{4}Sn_{13}. The solid arrow indicates T^{*}. (Inset) An expanded view of the specific heat around T_{c} at zero field and 3 T. (b) The temperature dependence of the electrical resistivity. The solid arrow indicates T^{*} and the dotted line shows that the low-temperature resistivity follows a Fermi liquid behavior (see text). (Left inset) An expanded view of the low-temperature resistivity showing the suppression of T_{c} with the application of 0, 0.2, 0.4, 0.6, and 1 T. The arrow indicates the direction of an increasing magnetic field. (Right inset) A-\gamma^{2} plot for selected heavy fermion compounds (open circles), transition metals (open squares), and several 3-4-13 systems. The dashed and dash-dot lines indicate the Kadowaki-Woods ratio commonly observed in heavy fermion compounds and transition metals, respectively.
+
+  exists. This is in stark contrast to the data sets presented by Liu _et al._, where they detected a hysteresis as large as \sim3 - 5 K near T^{*} in their specific heat data [10]. Based on the shape of the specific heat jump and the absence of thermal hysteresis, we conclude that the phase transition at T^{*} is _second order_.
+
+It is harder to see the effect of phase transition on \rho(T). Following Slebarski _et al._, we replot the resistivity data on the axes \ln(1/\rho) versus \ln T. T^{*} is the temperature below which the graph of \ln(1/\rho) versus \ln T deviates from linearity. Indeed, the value of T^{*} extracted from our specific heat data agrees well with the assignment based on the deviation from the linearity, as shown in Fig. 2(b). For the resistivity, the measurement was again performed on cooling and on warming--absence of thermal hysteresis is apparent in the data, consistent with the conclusion that the phase transition is second order we reached from the analysis of the specific heat data.
+
+Having established the second-order nature of the T^{*} transition, we now proceed to measure the superlattice reflection intensity by using x-ray diffraction. Calculations, to be discussed later, suggest that the structural instability is associated with a modulation vector \bm{q}=(0.5,0.5,0.0). Therefore additional reflections with \bm{Q}=\bm{k}+\bm{q} should appear below T^{*}, where \bm{k} corresponds to the Bragg spots in the high-temperature Pm\bar{3}m phase. Figure 2(c) displays the temperature evolution of selected x-ray diffraction intensities for \bm{Q}=(6.5,6.5,2.0) across T^{*}. While the intensity of \bm{k}=(6.0,6.0,2.0) shows a weak temperature dependence (not shown), the intensity of (6.5, 6.5, 2.0) is negligible above T^{*} but it grows continuously below T^{*}, as shown in Fig. 2(d). Furthermore, the superlattice reflection intensity does not exhibit a discernible thermal hysteresis. All these features thus strengthen the claim that the phase transition at T^{*} is continuous.
+
+In order to assess the stability of the high-temperature structure with space group Pm\bar{3}n at 0 K, we have performed the lattice dynamic calculations. The optimized lattice constant is 9.4498 A using LDA as the exchange-correlation functional. A detailed discussion and comparison of Ca_{3}Ir_{4}Sn_{13}, Sr_{3}Ir_{4}Sn_{13}, and La_{3}Co_{4}Sn_{13} are described in Ref. [45]. Figure 3(a) shows the phonon spectrum along the high-symmetry directions calculated using the theoretically optimized lattice constant by LDA. A softened branch of phonon modes with a minimum frequency at the \bm{M} point can be seen, which corresponds to \bm{q}=(0.5,0.5,0.0). This is in contrast to the finding by Neha _et al._ where no softened phonon modes were observed [26]. Additionally, we also calculated the spectrum using the experimental lattice constant for further comparison [23]. This
+
+Figure 3: Calculated phonon spectra of La_{3}Co_{4}Sn_{13} by LDA with (a) the theoretically optimized lattice constant, and (b) the experimental lattice constant. Only the low-lying frequencies are shown.
+
+Figure 2: The temperature dependence of (a) specific heat and (b) inverse resistivity around T^{*}. (c) Selected x-ray intensities at \bm{Q}=(6.5,6.5,2.0) across T^{*} and (d) the temperature dependence of the integrated x-ray intensity at \bm{Q}=(6.5,6.5,2.0). Note that in (b), both axes are plotted using a logarithmic scale. For all quantities shown in (a), (b), and (d), the data were collected on cooling and on warming, with warm-up (cool-down) data denoted by open (filled) symbols and the open (filled) arrow.
+
+  approach has been adapted in previous works to investigate the lattice instability and were shown to give consistent results [27; 49; 50; 51; 52]. From Fig. 3(b), one can see that the phonon spectrum possesses a branch of imaginary frequencies. The presence of these imaginary frequencies suggests a structural instability which drives the system towards a displacive structural transition and it is consistent with our experimental findings.
+
+Figure 4 shows the electronic structure of La_{3}Co_{4}Sn_{13} in the high-temperature phase from LDA calculation. There are two dispersive bands crossing the Fermi level indicating the metallic nature of the compound. The La 4f states are empty and is localized around 2.5 eV above the Fermi energy (=0 eV), while the Co 3d states are bounded between -0.5 and -2 eV. The results are similar to that obtained from the GGA+SOC calculation [53]. At the Fermi level, the states are mainly contributed by the Co 3d and Sn 5p electrons in the CoSn(2)_{6} trigonal prisms around an Sn(1)Sn(2)_{12} icosahedral cages. The total density of states is \sim7.2 states/eV per formula unit. This translates into a Sommerfeld coefficient \gamma_{\rm cal} of about 17.0 mJ K^{-2} mol^{-1} under the free electron approximation. In Fig. 4(c), we show the Fermi surface which consists of two large sheets. Below the structural transition temperature, the system has a lower symmetry [23]. This corresponds to a reduction in the size of the first Brillouin zone and the large Fermi surfaces will be gapped out, resulting in a smaller density of states at the Fermi energy. The calculation using the high-temperature structure thus gives an upper bound to \gamma_{\rm cal}. Comparing with the value obtained from the specific heat analysis above, \gamma=27.87 mJ K^{-2} mol^{-1} obtained from experiment is larger than \gamma_{\rm cal} and one could attribute the excess in \gamma to the contribution from the electron-phonon coupling and/or electron-electron interaction. In addition, the Fermi surface consists of areas of low curvatures. This is a scenario which may favor nesting and enhance the electron pairing in the superconducting state.
+
+In summary, we have measured the electrical resistivity, the specific heat, and the x-ray diffraction of La_{3}Co_{4}Sn_{13}. The low-temperature normal state data follow the Fermi liquid behavior. A second-order phase transition is unambiguously established at T^{*}=152 K through a careful examination of the temperature evolution of our data. The existence of lattice instability is supported by our lattice dynamic calculations where imaginary phonon frequencies are found near **M**, which corresponds to \bm{q}=(0.5,0.5,0.0), when the high-temperature structure with the space group Pm\bar{3}n is assumed. The electronic band structure calculations result in two Fermi surface sheets, which consist of low curvature segments. These results point to strong similarities between La_{3}Co_{4}Sn_{13} and Sr_{3}Rh_{4}Sn_{13}/Sr_{3}Ir_{4}Sn_{13}, and establish La_{3}Co_{4}Sn_{13} as another possible system to investigate the interplay between structural instability and superconductivity.
+
+## References
+
+* [1] J. P. Remeika, G. P. Espinosa, A. S. Cooper, H. Barz, J. M. Rowell, D. B. McWhan, J. M. Vandenberg, D. E. Moncton, Z. Fisk, L. D. Woolf, H. C. Hamaker, M. B. Maple, G. Shirane, and W. Thomlinson, Solid State Commun. **34**, 923 (1980).
+* [2] G. P. Espinosa, Mater. Res. Bull. **15**, 791 (1980).
+* [3] L. E. Klintberg, S. K. Goh, P. L. Alireza, P. J. Saines, D. A. Tompsett, P. W. Logg, J. Yang, B. Chen, K. Yoshimura, and F. M. Grosche, Phys. Rev. Lett. **109**, 237008 (2012).
+* [4] S. K. Goh, D. A. Tompsett, P. J. Saines, H. C. Chang, T. Matsumoto, M. Imai, K. Yoshimura, and F. M. Grosche, Phys. Rev. Lett. **114**, 097002 (2015).
+* [5] W. C. Yu, Y. W. Cheung, P. J. Saines, M. Imai, T. Matsumoto, C. Michioka, K. Yoshimura, and S. K. Goh, Phys. Rev. Lett. **115**, 207003 (2015).
+* [6] C. N. Kuo, H. F. Liu, C. S. Lue, L. M. Wang, C. C. Chen, and Y. K. Kuo, Phys. Rev. B **89**, 094520 (2014).
+
+Figure 4: (a) The electronic band structure of La_{3}Co_{4}Sn_{13} along the high-symmetry directions. (b) The total and partial density of states. The energy scale is shown with respect to the Fermi energy (dashed line). (c) The Fermi surface sheets in the first Brillouin zone. \Gamma is at the center of the cube.
+
+  * [7] C. N. Kuo, C. W. Tseng, C. M. Wang, C. Y. Wang, Y. R. Chen, L. M. Wang, C. F. Lin, K. K. Wu, Y. K. Kuo, and C. S. Lue, Phys. Rev. B **91**, 165141 (2015).
+* [8] J. Yang, B. Chen, C. Michioka, and K. Yoshimura, J. Phys. Soc. Jpn. **79**, 113705 (2010).
+* [9] S. Gerber, J. L. Gavilano, M. Medarde, V. Pomjakushin, C. Baines, E. Pomjakushina, K. Conder, and M. Kenzelmann, Phys. Rev. B **88**, 104505 (2013).
+* [10] H. F. Liu, C. N. Kuo, C. S. Lue, K.-Z. Syu, and Y. K. Kuo, Phys. Rev. B **88**, 115113 (2013).
+* [11] A. Slebarski, M. Fijalkowski, M. M. Maska, M. Mierzejewski, B. D. White, and M. B. Maple, Phys. Rev. B **89**, 125111 (2014).
+* [12] A. F. Fang, X. B. Wang, P. Zheng, and N. L. Wang, Phys. Rev. B **90**, 035115 (2014).
+* [13] B. Chen, J. Yang, Y. Guo, and K. Yoshimura, Europhys. Lett. **111**, 17005 (2015).
+* [14] D. G. Mazzone, S. Gerber, J. L. Gavilano, R. Sibille, M. Medarde, B. Delley, M. Ramakrishnan, M. Neugebauer, L. P. Regnault, D. Chernyshov, A. Piovano, T. M. Fernandez-Diaz, L. Keller, A. Cervellino, E. Pomjakushina, K. Conder, and M. Kenzelmann, Phys. Rev. B **92**, 024101 (2015).
+* [15] K. Wang and C. Petrovic, Phys. Rev. B **86**, 024522 (2012).
+* [16] P. K. Biswas, A. Amato, R. Khasanov, H. Luetkens, K. Wang, C. Petrovic, R. M. Cook, M. R. Lees, and E. Morenzoni, Phys. Rev. B **90**, 144505 (2014).
+* [17] L. M. Wang, C.-Y. Wang, G.-M. Chen, C. N. Kuo, and C. S. Lue, New J. Phys. **17**, 033005 (2015).
+* [18] N. Kase, H. Hayamizu, and J. Akimitsu, Phys. Rev. B **83**, 184509 (2011).
+* [19] H. Hayamizu, N. Kase, and J. Akimitsu, J. Phys. Soc. Jpn. **80**, S4114 (2011).
+* [20] S. Y. Zhou, H. Zhang, X. C. Hong, B. Y. Pan, X. Qiu, W. N. Dong, X. L. Li, and S. Y. Li, Phys. Rev. B **86**, 064504 (2012).
+* [21] R. Sarkar, F. Bruckner, M. Gunther, K. Wang, C. Petrovic, P. K. Biswas, H. Luetkens, E. Morenzoni, A. Amato, and H.-H. Klauss, Physica B **479**, 51 (2015).
+* [22] P. K. Biswas, Z. Guguchia, R. Khasanov, M. Chinotti, L. Li, K. Wang, C. Petrovic, and E. Morenzoni, Phys. Rev. B **92**, 195122 (2015).
+* [23] A. Slebarski and J. Goraus, Phys. Rev. B **88**, 155122 (2013).
+* [24] E. L. Thomas, H.-O. Lee, A. N. Bankston, S. MaQuilon, P. Klavins, M. Moldovan, D. P. Young, Z. Fisk, and J. Y. Chan, J. Solid State Chem. **179**, 1642 (2006).
+* [25] A. Slebarski, M. M. Maska, M. Fijalkowski, C. A. McElroy, and M. B. Maple, J. Alloys Compd. **646**, 866 (2015).
+* [26] P. Neha, P. Srivastava, R. Jha, Shruti, V. P. S. Awana, and S. Patnaik, J. Alloys Compd. **665**, 333 (2016).
+* [27] D. A. Tompset, Phys. Rev. B **89**, 075117 (2014).
+* [28] X. Chen, S. K. Golu, D. A. Tompset, W. C. Yu, L. Klinberg, S. Friedemann, H. Tan, J. Yang, B. Chen, M. Imai, K. Yoshimura, M. B. Gamza, F. M. Grosche, and M. L. Sutherland, Phys. Rev. B **93**, 235121 (2016).
+* [29] N. D. Mathur, F. M. Grosche, S. R. Julian, I. R. Walker, D. M. Freye, R. K. W. Haselwimmer, and G. G. Lonzarich, Nature (London) **394**, 39 (1998).
+* [30] P. Gegenwart, Q. Si, and F. Steglich, Nat. Phys. **4**, 186 (2008).
+* [31] J. Paglione and R. L. Greene, Nat. Phys. **6**, 645 (2010).
+* [32] K. Ishida, Y. Nakai, and H. Hosono, J. Phys. Soc. Jpn. **78**, 062001 (2009).
+* [33] K. Hashimoto, K. Cho, T. Shibauchi, S. Kasahara, Y. Mizukami, R. Katsumata, Y. Tsuruhara, T. Terashima, H. Ikeda, M. A. Tanatar, H. Kitano, N. Salovich, R. W. Giannetta, P. Walmsley, A. Carrington, R. Prozorov, and Y. Matsuda, Science **336**, 1554 (2012).
+* [34] T. Shibauchi, A. Carrington, and Y. Matsuda, Annu. Rev. Condens. Matter Phys. **5**, 113 (2014).
+* [35] J. Bardeen, L. N. Cooper, and J. R. Schrieffer, Phys. Rev. **106**, 162 (1957).
+* [36] J. Bardeen, L. N. Cooper, and J. R. Schrieffer, Phys. Rev. **108**, 1175 (1957).
+* [37] C. Poole, H. Farach, R. Creswick, and R. Prozorov, _Superconductivity_ (Academic Press, Cambridge, Massachusetts, 2007).
+* [38] P. Hohenberg and W. Kohn, Phys. Rev. **136**, B864 (1964).
+* [39] W. Kohn and L. J. Sham, Phys. Rev. **140**, A1133 (1965).
+* [40] G. Kresse and J. Furthmuller, Comput. Mater. Sci. **6**, 15 (1996).
+* [41] P. E. Blochl, Phys. Rev. B **50**, 17953 (1994).
+* [42] G. Kresse and D. Joubert, Phys. Rev. B **59**, 1758 (1999).
+* [43] A. Togo, F. Oba, and I. Tanaka, Phys. Rev. B **78**, 134106 (2008).
+* [44] A. Togo and I. Tanaka, Scr. Mater. **108**, 1015).
+* [45] See Supplemental Material at http://link.aps.org/supplemental/ 10.1103/PhysRevB.93.24112 for details of specific heat and electrical resistivity analysis, as well as lattice dynamic calculations.
+* [46] K. Schwarz and P. Blaha, Comput. Mater. Sci. **28**, 259 (2003).
+* [47] K. Kadowaki and S. Woods, Solid State Commun. **58**, 507 (1986).
+* [48] A. C. Jacko, J. O. Fjaerestad, and B. J. Powell, Nat. Phys. **5**, 422 (2009).
+* [49] R. Yu and H. Krakauer, Phys. Rev. Lett. **74**, 4067 (1995).
+* [50] A. Y. Ignatov, S. Y. Savrasov, and T. A. Tyson, Phys. Rev. B **68**, 220504 (2003).
+* [51] P. Ghosez, E. Cockayne, U. V. Waghmare, and K. M. Rabe, Phys. Rev. B **60**, 836 (1999).
+* [52] A. Subedi, Phys. Rev. B **87**, 054506 (2013).
+* [53] G. Zhong, X. Lei, and J. Mao, Phys. Rev. B **79**, 094424 (2009).
+
+ 

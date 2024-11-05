@@ -1,0 +1,304 @@
+Superconducting and normal state properties of the noncentrosymmetric superconductor NbOs\({}_{2}\) investigated by muon spin relaxation and rotation
+
+D. Singh
+
+\({}^{1}\) Sajilesh K. P.
+
+\({}^{1}\) Sourav Marik
+
+\({}^{1}\) A. D. Hillier
+
+\({}^{2}\) and R. P. Singh\({}^{1,}\)
+
+rpsingh@iiserb.ac.in \({}^{1}\)Indian Institute of Science Education and Research Bhopal, Bhopal 462066, India
+
+\({}^{2}\)ISIS facility, STFC Rutherford Appleton Laboratory, Harwell Science and Innovation Campus, Oxfordshire OX11 0QX, United Kingdom
+
+###### Abstract
+
+Noncentrosymmetric superconductors with \(\alpha\)-manganese structure has attracted much attention recently, after the discovery of time-reversal symmetry breaking in all the members of the Re\({}_{\rm c}\)_X_ (_X_ = Ti, Hf, Zr) family. Similar to Re\({}_{\rm c}\)_X_, NbOs\({}_{2}\) also adopts \(\alpha\)-Mn structure and is found to be superconducting with critical temperature \(T_{c}\simeq 2.7\) K. The results of the resistivity, magnetization, specific heat, and muon spin relaxation/rotation measurements show that NbOs\({}_{2}\) is a weakly coupled type-II superconductor. Interestingly, the zero-field muon experiments indicate that the time-reversal symmetry is preserved in the superconducting state. The low-temperature transverse-field muon measurements and the specific-heat data evidence a conventional isotropic fully gapped superconductivity. However, the calculated electronic properties in this material show that the NbOs\({}_{2}\) is positioned close to the band of unconventionality of the Uemura plot, indicating that NbOs\({}_{2}\) potentially borders an unconventional superconducting ground state.
+
+DOI: 10.1103/PhysRevB.99.014516
+
+## I Introduction
+
+The discovery of exotic superconducting properties in the heavy fermion noncentrosymmetric superconductor (NCS) CePt\({}_{3}\)Si [1] sparked renewed research interest, from both experimental and theoretical perspectives, to understand the role of structural asymmetry in superconductivity. Theoretically, in the Bardeen-Cooper-Schrieffer (BCS) superconductors, the pairing state is protected by the crystal inversion symmetry. When a superconductor has an inversion center, the pairing states can be unambiguously classified into degenerated states of spin singlet (even parity) and spin triplet (odd parity). However, this scenario changes in noncentrosymmetric superconductors, where the lack of inversion symmetry induces odd parity antisymmetric spin-orbital coupling (ASOC). A strong ASOC results in mixed parity states and develops complicated spin structures [2, 3, 4]. Such an admixture of spin states reflects in a variety of unique properties, such as anomalous upper critical field values [1, 5, 6], line nodes [7, 8], and magnetoelectric effects [9, 10], etc. Besides, recently it was proposed that some NCS can also be a potential candidate for topological superconductivity, of which known examples are PbTaSe\({}_{2}\)[11, 12] and BiPd [13, 14], which shows topological surface states and potentially leads to signatures of Majorana fermions.
+
+Since CePt\({}_{3}\)Si, several more heavy fermion superconductors have been found to exhibit a wide variety of unusual superconducting properties [2]. But it was soon realized that heavy fermion noncentrosymmetric superconductors are not the simplest of systems to study. In these superconductors, additional complications come due to the presence of strong electronic correlation effects and quantum criticality, which often hinders the research aimed to understand the interplay between crystal symmetry and superconductivity. As a result, many new noncentrosymmetric superconductors with weak correlation have been targeted to look for singlet-triplet mixing. Some of these compounds are LaNiC\({}_{2}\)[15, 16], Li\({}_{2}\)Pd\({}_{3}\)B [17, 18, 19, 20, 21, 22], Li\({}_{2}\)Pt\({}_{3}\)B [23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37], Ru\({}_{2}\)W\({}_{3}\)[25], Nb\({}_{0.18}\)Re\({}_{0.28}\)[26], Re\({}_{3}\)W [27], Y\({}_{2}\)C\({}_{3}\)[28], Mo\({}_{3}\)Al\({}_{2}\)C [8, 29]. A particularly interesting example is Li\({}_{2}\)_M\({}_{3}\)_B_ (_M_ = Pd, Pt) [21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37]. Li\({}_{2}\)Pd\({}_{3}\)B exhibits an isotropic fully gapped superconductivity [20, 21, 22], whereas the gap of Li\({}_{2}\)Pt\({}_{3}\)B has line nodes [22, 23, 24]. Here the substitution of Pd with a Pt element strengthens the ASOC and enhances the relative pairing mixing ratio with a dominant spin-triplet component [22]. Hence, the change from fully gapped to nodal superconductivity is directly dependent on the magnitude of ASOC. Indeed, \({}^{11}\)B NMR experiments also conclude that the Cooper pair included about 60% of the spin-triplet pairing in Li\({}_{2}\)Pt\({}_{3}\)B. Accordingly, many noncentrosymmetric superconductors with a wide variety of SOC have been studied, yet most of them such as La\(M\)Si\({}_{3}\) (_M_ = Pd, Pt) [38], La\(M\)Si\({}_{3}\) (_M_ = Rh, Ir) [39, 40], BiPd [41, 42], Nb\({}_{0.18}\)Re\({}_{0.82}\)[26], and Re\({}_{3}\)W [27] are found to be compatible with fully gapped superconductivity. Thus, the importance of ASOC strength in the degree of mixing ratio is not fully understood, and therefore requires us to find more examples where the effects of modified spin-orbit coupling on the singlet-triplet mixing can be studied directly.
+
+Another noteworthy feature of unconventional superconductivity is time-reversal symmetry (TRS) breaking, which is an extremely rare phenomenon and has been found only in a few noncentrosymmetric superconductors, such as LaNiC\({}_{2}\)[15], La\({}_{2}\)Ir\({}_{3}\)[43], SrPtAs [44], and Re\({}_{6}\)_X_ (_X_ = Ti, Hf, Zr) [45, 46, 47]. It is the latter family of compounds that are particularly interesting owing to the frequent occurrence of TRS  breaking among all the members. In Re\({}_{6}X\), the TRS breaking effects seem very similar irrespective of the substitution at \(X\) sites, suggesting a negligible effect on the ASOC and hints towards its common origin. Interestingly, the band-structure calculations of the Re-based binary alloys [48, 49] indicate the density of states (DOS) at the Fermi level to be dominated by the \(d\) bands of Re and could be the critical factor leading to TRS breaking. Indeed, recent observation of TRS breaking in pure Re metal (centrosymmetric) strongly suggest that it is the Re local electronic structure that is crucial for understanding the TRS breaking in the superconducting states of Re\({}_{6}X\) family [50]. However, to strengthen the above conclusion one needs to study other Re-free materials, while still having the same \(\alpha\)-Mn type structure. In this context, we report a detailed investigation of the superconductivity of NCS NbOs\({}_{2}\), isostructural to the Re\({}_{6}X\) family. NbOs\({}_{2}\) exhibits bulk superconductivity around 2.7 K [51, 52], characterized via electrical resistivity, specific heat, magnetic susceptibility, and muon spectroscopy. The principal goal of the present work is to study the superconducting properties of NbOs\({}_{2}\) and search for TRS breaking in a Re-free material with \(\alpha\)-Mn structure.
+
+## II Experimental details
+
+The polycrystalline samples of NbOs\({}_{2}\) were prepared by arc melting a stoichiometric mixture of Nb (99.95%) and Os (99.95%) under high purity argon gas atmosphere on a water-cooled copper hearth. The as-cast ingot was flipped and remelted several times to ensure the phase homogeneity. The observed mass loss was negligible. The sample was then sealed inside an evacuated quartz tube and annealed at \({}^{\circ}\)C for one week. To verify the phase purity we performed room-temperature (RT) powder x-ray diffraction (XRD) using a X'pert PANalytical diffractometer (Cu-\(K_{\alpha 1}\) radiation, \(\lambda=1.540\,598\) A). The superconducting properties of NbOs\({}_{2}\) were measured using magnetization \(M\), ac susceptibility \(\chi_{\mathrm{ac}}\), electrical resistivity \(\rho\), specific heat \(C\), and muon relaxation/rotation (\(\mu\)SR) measurements. The dc magnetization and ac susceptibility data were collected using a Quantum Design superconducting quantum interference device (SQUID). The electrical resistivity and specific-heat measurements were performed on a Quantum Design physical property measurement system (PPMS). The \(\mu\)SR measurements were conducted at the ISIS Neutron and Muon facility, in STFC Rutherford Appleton Laboratory, United Kingdom, using the MUSR spectrometer. The powdered NbOs\({}_{2}\) sample was mounted on a silver holder and placed in a sorption cryostat, which we operated in the temperature range 0.3-3.0 K. Zero-field muon spin relaxation (ZF-\(\mu\)SR) and the transverse-field muon spin rotation (TF-\(\mu\)SR) measurements were performed on the MusR beam line at the ISIS pulsed muon source. A full description of the \(\mu\)SR technique may be found in Ref. [53]. In ZF-\(\mu\)SR, the contribution from the stray fields at the sample position due to neighboring instruments and the Earth's magnetic field is canceled to within \(\sim\)1.0 \(\mu\)T using three sets of orthogonal coils. TF-\(\mu\)SR measurements are performed to measure the temperature dependence of the magnetic-penetration depth \(\lambda(T)\). \(\lambda^{-2}(T)\) is proportional to the superfluid density, and can provide information on the symmetry of the gap structure.
+
+## III Results and discussion
+
+### Normal and superconducting state properties
+
+Figure 1 shows the room-temperature powder x-ray-diffraction pattern. Rietveld refinement of the RT XRD pattern shows that our sample is in the single phase, crystallizing with a cubic \(\alpha\)-Mn structure (space group \(I\bar{4}3m\)) with lattice cell parameter \(a=9.654(3)\) A. A schematic view of the crystal structure of NbOs\({}_{2}\) is shown in the inset of Fig. 1. Refined lattice parameters are shown in Table 1 and are in good agreement with the published literature [51]. In the crystal structure except for the Nb(1) site (\(2a\)), no other sites have an inversion center. The sample used here is found to have a refined stoichiometry of NbOs\({}_{1.98}(3)\), close to the target composition NbOs\({}_{2}\), with the possibility of some site mixing between Nb and Os sites [54].
+
+\begin{table}
+\begin{tabular}{l c c c c}  & Structure & Cubic & & \\  & Space group & \(I\bar{4}3m\) & & \\  & Lattice parameters & & & \\  & \(a\) (Å) & & 9.654(3) & & \\ Atomic Coordinates & & & & \\ \hline Atom & Wyckoff position & \(x\) & \(y\) & \(z\) \\ \hline Nb1 & 2a & 0 & 0 & 0 \\ Os1 & 8c & 0.322(1) & 0.322(1) & 0.322(1) \\ Nb2 & 8c & 0.322(1) & 0.322(1) & 0.322(1) \\ Os2 & 24g & 0.3536(6) & 0.3536(6) & 0.0371(8) \\ Nb3 & 24g & 0.3536(6) & 0.3536(6) & 0.0371(8) \\ Os3 & 24g & 0.0912(3) & 0.0912(3) & 0.2828(4) \\ \end{tabular}
+\end{table}
+Table 1: Crystal structure parameters obtained from the Rietveld refinement of the room-temperature powder x-ray diffraction of NbOs\({}_{2}\).
+
+Figure 1: The powder x-ray diffraction pattern of NbOs\({}_{2}\) at room temperature. The line is a Rietveld refinement to the data. The inset shows the crystal structure of NbOs\({}_{2}\).
+
+  Temperature dependence of the electrical resistivity \(\rho(T)\) in the temperature range 1.8-300 K in zero applied magnetic field is shown in Fig. 2(a). The residual resistivity ratio (RRR) is 1.02(1). This low value for the RRR is comparable to other \(\alpha\)-Mn structure compounds such as Nb\({}_{0.18}\)Re\({}_{0.82}\) (\(\simeq\)1.3) [26], Re\({}_{3}\)W (\(\simeq\)1.15) [27], Re\({}_{6}\)Hf (\(\simeq\)1.08) [55], Re\({}_{6}\)Zr (\(\simeq\)1.09) [56], and Re\({}_{3}\)Ta (\(\simeq\)1.04) [57]. These compounds are widely known to have strong electronic scattering, with a large residual resistivity due to occupational site disorder. This means that the resistivity of the materials with \(\alpha\)-Mn structure is sensitive to disorder which is responsible for the poor conductivity. A superconducting transition can be seen clearly in the inset of Fig. 2(a) with an onset temperature \(T_{c}^{\rm onset}\) = 2.7 \(\pm\) 0.2 K.
+
+The normal-state resistivity for a nonmagnetic metallic crystalline solid is analyzed using the Bloch-Gruneisen (BG) model, which describes the resistivity arising due to electrons scattering from acoustic phonons. The temperature dependence of the resistivity, \(\rho(T)\), is modeled as
+
+\[\rho(T)=\rho_{0}+\rho_{\rm BG}(T),\] (1)
+
+where \(\rho_{0}\) is the residual resistivity due to the defect scattering and is essentially temperature independent whereas \(\rho_{\rm BG}\) is the BG resistivity given by [58]
+
+\[\rho_{\rm BG}(T)=C\left(\frac{T}{\Theta_{R}}\right)^{n}\int_{0}^{\Theta_{R}/T }\frac{x^{n}}{(e^{x}-1)(1-e^{-x})}dx.\] (2)
+
+Here \(\Theta_{R}\) is the Debye temperature obtained from resistivity measurements, while \(C\) is a material dependent prefactor and \(n\) takes values between 2 and 5 depending on the nature of the electron scattering [59]. A fit to the data employing this model is shown in Fig. 2(a) and gave \(n=(4.2\pm 0.2)\), Debye temperature \(\Theta_{R}=(376\pm 2)\) K, \(C=(6.2\pm 3.2)\)\(\mu\Omega\) cm and residual resistivity \(\rho_{0}=(130\pm 2)\)\(\mu\Omega\) cm. The value of the Debye temperature \(\Theta_{R}\) is close to that extracted from the specific-heat data.
+
+Figure 2(b) displays the temperature dependence of magnetic susceptibility \(\chi(T)\) measured in an applied field of 1 mT. Both zero-field-cooled warming (ZFCW) and field-cooled cooling (FCC) regimes show a sharp diamagnetic transition around \(T_{c}^{\rm onset}=2.7\pm 0.1\) K, indicating the onset of bulk superconductivity. In the FCC data, the superconductor does not return to a full Meissner state, indicating strong flux pinning. The calculated Meissner volume fraction (\(4\pi\,\chi\)) is close to 100%, suggesting complete superconductivity within the sample.
+
+To estimate the lower critical field \(H_{c1}\), low-field magnetization data \(M(H)\) curves were measured at different fixed temperatures from 1.8 to 2.5 K as shown in Fig. 3(a). The \(M(H)\) data follow a linear relation with the applied magnetic field below \(H_{c1}\), whereas, above this point, magnetization starts to deviate from the straight-line behavior due to flux penetration. The point of deviation was computed for different isotherm curves to obtain the temperature dependence of \(H_{c1}(T)\), as presented in Fig. 3(a). The resulting graph is modeled using the Ginzburg-Landau relation
+
+\[H_{c1}(T)=H_{c1}(0\left[1-\left(\frac{T}{T_{c}}\right)^{2}\right].\] (3)
+
+When fitted to the experimental data, it yields \(H_{c1}(0)=2.98\pm 0.11\) mT.
+
+Figure 3(b) presents the high-field magnetization hysteresis loop collected in the superconducting state at \(T=1.8\) K, in the magnetic field range below \(\pm 2\) T. The magnetic behavior clearly corresponds to a type-II superconductor. The irreversibility field \(H_{\rm irr}\) is defined as the field where the magnetic hysteresis collapses. At a given temperature for field \(H<H_{\rm irr}\), the magnetization is irreversible owing to pinned vortices, whereas for \(H>H_{\rm irr}\), it becomes reversible as the applied field is strong enough to depin the vortices. As shown in Fig. 3(b) at \(T=1.8\) K, \(H_{\rm irr}=0.38\)\(\pm 0.02\) T. The magnetization data were also collected in the normal state at \(T=4\) K and we conclude that there is no evidence for a magnetic impurity phase in our sample.
+
+The magnetic hysteresis loop at different temperatures is displayed in Fig. 3(c). The hysteresis in magnetization \(\Delta M\) decreases with increasing temperature and magnetic field, characteristic of a conventional type-II superconductor. The gradient has a clear discontinuity at a field that is identified as the upper critical field \(H_{c2}\) [see inset of Fig. 3(c)]. The
+
+Figure 2: (a) Temperature dependence of resistivity over the range 1.8 K \(\leqslant\)\(T\leqslant\) 300 K, with the inset showing a drop in resistivity at the superconducting transition, \(T_{c}^{\rm onset}\) = 2.7 \(\pm\) 0.2 K. The normal state resistivity fitted with the Bloch-Grüneisen model is shown by solid red line. (b) Temperature dependence of the \(\chi(T)\) is shown over the range of 1.8 K \(\leqslant\)\(T\leqslant\) 5 K, displaying strong diamagnetic signal around \(T_{c}^{\rm onset}\) = 2.7 \(\pm\) 0.1 K in \(H=1\) mT.
+
+  resulting values of \(H_{c2}\) are determined using this discontinuity at different magnetic isotherms plotted in Fig. 3(d) (solid triangle markers). The temperature dependence of \(H_{c2}(T)\) is also determined from the ac susceptibility measurements [solid square markers Fig. 3(d)], where the shift in \(T_{c}\) is evaluated under different applied magnetic fields up to 1.5 T [see inset of Fig. 3(d)]. The \(H_{c2}\) vs \(T\) curve can be described by the Werthamer-Helfand-Hohenberg (WHH) model [60, 61] by including the orbital breaking, the effect of Pauli spin paramagnetism (\(\alpha\)), and spin-orbit scattering parameter (\(\lambda_{\text{SO}}\)). The value of \(\alpha\) measures the relative strengths of the orbital and Pauli-limiting field, while \(\lambda_{\text{SO}}\) is dominated by the atomic numbers of the elements. In the WHH model
+
+\[\begin{split}\ln\left(\frac{1}{t}\right)&=\left( \frac{1}{2}+\frac{i\lambda_{\text{SO}}}{4\gamma}\right)\psi\left(\frac{1}{2}+ \frac{\bar{h}+\frac{i\lambda_{\text{SO}}}{2}+i\gamma}{2t}\right)\\ &\qquad+\left(\frac{1}{2}-\frac{i\lambda_{\text{SO}}}{4\gamma} \right)\  where \(t\) is the reduced temperature \(T/T_{c}\), \(\psi\) is the digamma function, \(\gamma^{2}=(\alpha\bar{h})^{2}-(\frac{z_{\rm 20}}{2})^{2}\), and \(\bar{h}\) is the dimensionless form of the upper critical field given by \(\bar{h}=(4\pi^{2})(H_{c2}|dH_{c2}(T)/dT|_{T=T_{c}})\).
+
+The Maki parameter which measures the relative strengths of the orbital and Pauli-limiting field is calculated using the relation
+
+\[\alpha_{M}=\sqrt{2}\frac{H_{c2}^{\rm orbit}(0)}{H_{C2}^{\rm r}(0)}.\] (5)
+
+For a type-II superconductor in the dirty limit, the orbital limit of the upper critical field \(H_{c2}^{\rm orbital}(0)\) is given by the WHH expression by
+
+\[H_{c2}^{\rm orbital}(0)=-0.693T_{c}\left.\frac{-dH_{c2}(T)}{dT}\right|_{T=T_{c }}.\] (6)
+
+For initial slope of \(-1.80\pm 0.04\) T K\({}^{-1}\) near \(T_{c}\) calculated from the \(H_{c2}\)-T plot, it gives \(H_{c2}^{\rm orbital}(0)=(3.36\pm 0.07)\) T. The Pauli limiting field is given by \(H_{c2}^{\rm r}(0)=1.86T_{c}=(5.02\pm 0.18)\) T. The Maki parameter is then calculated to be \(\alpha_{M}=0.95\).
+
+Figure 3(d) shows the temperature dependence of \(H_{c2}\) for two cases: \(\alpha_{M}=0.95\), \(\lambda=0\) and \(\alpha_{M}=0\), \(\lambda=0\), displayed by dotted black and blue lines. It is clear from the graph that the measured data are best described with \(\alpha_{M}=0\), whereas the calculation with \(\alpha_{M}=0.95\) fails to account for the experimental data. This certainly implies that \(H_{c2}\) is limited by the orbital critical field and the Pauli limiting appears to have a limited effect if any at all.
+
+The value for \(H_{c2}\) can therefore be calculated using the relation [62]
+
+\[H_{c2}=\frac{H_{c2}^{\rm orbital}}{\sqrt{1+\alpha_{M}^{2}}},\] (7)
+
+where it is considered that \(\lambda=0\). For \(\alpha_{M}=0\), \(H_{c2}=H_{c2}^{\rm orbital}(0)=(3.36\pm 0.07)\) T.
+
+The value for \(H_{c2}\) used to determine the Ginzburg-Landau coherence length \(\xi_{\rm GL}\) uses the relation [63]
+
+\[H_{c2}(0)=\frac{\Phi_{0}}{2\pi\,\xi_{\rm GL}^{2}},\] (8)
+
+where \(\Phi_{0}(=\)\(2.07\times 10^{-15}\) T m\({}^{2}\)) is the magnetic-flux quantum. For \(H_{c2}(0)=(3.36\pm 0.07)\) T, we find \(\xi_{\rm GL}(0)=(99\pm 1)\) A.
+
+Consequently, the values of \(H_{c1}\) and \(\xi_{\rm GL}\) can be employed to calculate the Ginzburg-Landau penetration depth \(\lambda_{\rm GL}(0)\) from the expression [63]
+
+\[H_{c1}(0)=\frac{\Phi_{0}}{4\pi\,\lambda_{\rm GL}^{2}(0)}\left(\ln\frac{ \lambda_{\rm GL}(0)}{\xi_{\rm GL}(0)}\right).\] (9)
+
+Integrating the values of \(H_{c1}(0)=(2.98\pm 0.11)\) mT and \(\xi_{\rm GL}(0)=(99\pm 1)\) A in Eq. (9), yields \(\lambda_{\rm GL}(0)=(4608\pm 88)\) A. The Ginzburg-Landau parameter \(\kappa=\lambda_{\rm GL}/\xi_{\rm GL}=46.5\pm 0.4>1/\sqrt{2}\), therefore NbOs\({}_{2}\) is classified as a strong type-II superconductor.
+
+The thermodynamic critical field \(H_{c}(0)\) is given by
+
+\[H_{c}(0)=\frac{\Phi_{0}}{2\sqrt{2}\pi\,\lambda_{\rm GL}\,\xi_{\rm GL}(0)},\] (10)
+
+and found to be \(H_{c}(0)=(51\pm 1)\) mT.
+
+Recently unconventional vortex dynamics has been observed in some noncentrosymmetric superconductors where an unusual vortex pinning mechanism and flux creep rates were proposed [64, 65]. Therefore, it is necessary to measure the stability of the vortex system against the various factors unsettling the vortex equilibrium. The measure of stability against the thermal fluctuations can be given by Ginzburg number \(G_{i}\). This is basically the ratio of thermal energy \(k_{B}T_{c}\) to the condensation energy associated with the coherence volume. The Ginzburg number \(G_{i}\) is given by [66]
+
+\[G_{i}=\frac{1}{2}\left(\frac{k_{B}\mu_{0}\tau\,T_{c}}{4\pi\,\xi^{3}(0)H_{c}^{ 2}(0)}\right)^{2},\] (11)
+
+where \(\tau\) is the anisotropy parameter which is 1 for the cubic NbOs\({}_{2}\). For \(\xi(0)=(99\pm 1)\) A, \(H_{c}(0)=(51\pm 1)\) mT, and \(T_{c}=(2.7\pm 0.1)\) K, we obtained \(G_{i}=(1.1\pm 0.1)\times 10^{-6}\). In conventional low-\(T_{c}\) superconductors, pinning is strong, whereas thermal fluctuations are weak, with \(G_{i}\sim 10^{-8}\). In high-temperature superconductors, \(T_{c}\) is high and hence the coherence volume is small, making it sensitive to thermal fluctuations, \(G_{i}\sim 10^{-2}\). In our compound the \(G_{i}\) value is more towards the low-\(T_{c}\) superconductors, suggesting that thermal fluctuations may not be playing any important role in vortex unpinning in this material.
+
+Figure 4 shows the low temperature specific heat data measured in zero applied field. The plot \(C/T\) vs \(T^{2}\) is shown in the inset of Fig. 4, in the temperature range \(3\) K \(\leqslant T^{2}\leqslant 100\) K. A jump at around \(T_{c}=2.7\) K, apparently confirms bulk superconductivity in NbOs\({}_{2}\). The normal state specific-heat data above \(T_{c}\) is contributed by both electronic and phononic parts given by \(C/T=\gamma_{n}+\beta_{3}T^{2}+\beta_{5}T^{4}\), where \(\gamma_{n}\) is the Sommerfeld coefficient and \(\beta_{3}\), \(\beta_{5}\) are phononic contributions. The solid red line represents the best fit to the data with \(\gamma_{n}=8.58\pm 0.01\) mJ mol\({}^{-1}\) K\({}^{-2}\), \(\beta_{3}=0.123\pm 0.002\) mJ mol\({}^{-1}\) K\({}^{-4}\), and \(\beta_{5}=0.43\pm 0.04\)\(\mu\)J mol\({}^{-1}\) K\({}^{-6}\) (see inset Fig. 4). The value
+
+Figure 4: The specific-heat data in superconducting regime fitted for single-gap \(s\)-wave model [Eq. (15)] for a fitting parameter \(\alpha=\Delta(0)/k_{B}T_{c}=1.77\pm 0.01\). Inset: \(C/T\) vs \(T^{2}\) data was fitted between \(3\) K \(\leqslant T^{2}\leqslant 100\) K by \(C/T=\gamma_{n}+\beta_{3}T^{2}+\beta_{5}T^{4}\) to measure electronic and phononic contribution to specific heat.
+
+  for \(\gamma_{n}\) was used to determine the density of states at the Fermi level \(D_{c}(E_{F})\) using the relation \(\gamma_{n}=[\pi^{2}k_{B}^{2}D_{c}(E_{F})]/3\), where \(E_{\rm F}\) is the Fermi energy. For \(\gamma_{n}=8.58\pm 0.01\) mJ mol\({}^{-1}\) K\({}^{-2}\), it yields \(D_{c}(E_{\rm F})=3.64\pm 0.02\) states eV\({}^{-1}\) f.u.\({}^{-1}\). The Debye temperature \(\theta_{D}=(12\pi^{4}RN/5\beta_{s})^{1/3}\), where using \(R=8.314\) J mol\({}^{-1}\) K\({}^{-1}\) and \(N=3\), yields \(\theta_{D}=362\pm 1\) K. The value of \(\theta_{D}=362\) K can be used to calculate the electron-phonon coupling constant \(\lambda_{c\text{-ph}}\) using the McMillan formula [67],
+
+\[\lambda_{c\text{-ph}}=\frac{1.04+\mu^{*}\text{ln}(\theta_{D}/1.45T_{c})}{(1-0. 62\mu^{*})\text{ln}(\theta_{D}/1.45T_{c})-1.04},\] (12)
+
+where \(\mu^{*}\) represents the repulsive screened Coulomb potential, usually given by \(\mu^{*}=0.13\). With \(T_{c}=2.7\) K and \(\theta_{D}=361.67\) K, we obtained \(\lambda_{c\text{-ph}}\simeq 0.52\), which is similar to other weakly coupled NCS superconductors [26, 68].
+
+The electronic contribution (\(C_{\rm el}\)) to the specific heat can be calculated by subtracting the phononic contribution (\(C_{\rm ph}\)) from total specific-heat data.
+
+\[C_{\rm el}=C-C_{\rm ph}=C-(\beta_{3}T^{3}+\beta_{5}T^{5}).\] (13)
+
+Once the phononic contribution is subtracted, an equal entropy conservation line is drawn to estimate the normalized specific-heat jump. The value for the specific-heat jump \(\frac{\Delta C}{\gamma_{n}T_{c}}\simeq 1.45\), which is remarkably similar to the value for a BCS isotropic gap superconductor (=1.43) in the weak-coupling limit, indicating that NbOs\({}_{2}\) is a weakly coupled superconductor, consistent with the \(\lambda_{c\text{-ph}}\) value obtained above.
+
+The temperature dependence of the specific-heat data in the superconducting state can best be described by the BCS expression for the normalized entropy \(S\) written as
+
+\[\frac{S}{\gamma_{n}T_{c}} = -\frac{6}{\pi^{2}}\bigg{(}\frac{\Delta(0)}{k_{B}T_{c}}\bigg{)}\] (14) \[\times\int_{0}^{\infty}[f\,\text{ln}(f)+(1-f)\,\text{ln}(1-f)]dy,\]
+
+where \(f(\xi)=\{\text{exp}[E(\xi)/k_{B}T]+1\}^{-1}\) is the Fermi function, \(E(\xi)=\sqrt{\xi^{2}+\Delta^{2}(t)}\), where \(\xi\) is the energy of normal electrons measured relative to the Fermi energy, \(y=\xi/\Delta(0)\), \(t=T/T_{c}\), and \(\Delta(t)=\text{tanh}(1.82[1.018[(1/t)-1]]^{0.51})\) is the BCS approximation for the temperature dependence of the energy gap. The normalized electronic specific heat is calculated by
+
+\[\frac{C_{\rm el}}{\gamma_{n}T_{c}}=t\,\frac{d(S/\gamma_{n}T_{c})}{dt}.\] (15)
+
+Fitting the low-temperature specific-heat data using this model as shown by the solid red line in Fig. 4 yields \(\alpha=\Delta(0)/k_{B}T_{c}=1.77\pm 0.01\). This is consistent with the value for a BCS superconductor \(\alpha_{\rm BCS}=1.764\) in the weak-coupling limit. Therefore, good agreement between the measured data (black symbols) and the BCS fit (solid red line), and confirms an isotropic fully gapped BCS superconductivity in NbOs\({}_{2}\). It should be noted that in order to extract the true nature of the superconducting gap, the specific-heat data up to the low-temperature region need to be analyzed. It can give a complete understanding of whether the superconducting gap is isotropic (exponential) or has nodes (power law). A summary of all the experimentally measured and estimated parameters is given in Table 2.
+
+To further inspect the superconducting ground state of NbOs\({}_{2}\), we performed the muon spin relaxation and rotation measurements. First, ZF-\(\mu\)SR measurements were carried out to investigate the occurrence of TRS breaking in NbOs\({}_{2}\), ZF-\(\mu\)SR, being extremely sensitive to tiny changes in the internal magnetic fields, can unambiguously detect the presence of a TRS breaking signal. This technique was proved to be very crucial in establishing the TRS breaking in several superconductors such as La\({}_{2}\)Ir\({}_{3}\)[43], Re\({}_{6}\)(Ti,Hf,Zr) [45, 46, 47], Sr\({}_{2}\)RuO\({}_{4}\)[69, 70], etc. Figure 5 shows the muon spin relaxation time spectra, collected below (\(T=0.5\) K \(<T_{c}\)) and above (\(T=3.0\) K \(>T_{c}\)) the superconducting transition temperature \(T_{c}=2.7\) K. The absence of precessional signals suggests the absence of coherent internal fields which is generally associated with long-range magnetic ordering. In the absence of atomic
+
+\begin{table}
+\begin{tabular}{l c c} Properties & Unit & Value \\ \hline \(T_{c}\) & K & 2.7 \(\pm\) 0.2 \\ \(H_{c1}(0)\) & mT & 2.98 \(\pm\) 0.11 \\ \(H_{c2}(0)\) & T & 3.36 \(\pm\) 0.07 \\ \(H_{c}(0)\) & mT & 51 \(\pm\) 1 \\ \(H_{c2}^{*}(0)\) & T & 5.02 \(\pm\) 0.18 \\ \(\xi_{\rm GL}\) & Å & 99 \(\pm\) 1 \\ \(\lambda_{\rm GL}\) & Å & 4608 \(\pm\) 88 \\ \(\kappa\) & & 46.5 \(\pm\) 0.4 \\ \(\gamma\) & mJ mol\({}^{-1}\) K\({}^{-2}\) & 8.58 \(\pm\) 0.01 \\ \(\beta  moments muon spin relaxation in zero field can best be described by the Gaussian Kubo-Toyabe (KT) function [71] together with a nondecaying constant background \(A_{\text{BG}}\),
+
+\[G_{\text{KT}}(t) = A_{1}\bigg{[}\frac{1}{3}+\frac{2}{3}\big{(}1-\sigma_{\text{ZF}}^{2}t^{2} \big{)}\text{exp}\bigg{(}\frac{-\sigma_{\text{ZF}}^{2}t^{2}}{2}\bigg{)}\bigg{]}\text{exp}(-\Delta\text{t})\] (16) \[+A_{\text{BG}},\]
+
+where \(A_{1}\) is the initial asymmetry and \(\sigma_{\text{ZF}}\) accounts for the relaxation due to static, randomly oriented local fields associated with the nuclear moments at the muon site and \(\Delta\) is the electronic relaxation rate. Near identical relaxation signals, as seen in Fig. 5, on either side of the superconducting transition, suggest the absence of any additional magnetic moments in the superconducting ground state, usually associated with exotic phenomena such as TRS breaking. This clearly suggests that the time-reversal symmetry is preserved in NbOs\({}_{2}\) within the detection limit of \(\mu\)SR.
+
+Figure 6(a) shows the TF-\(\mu\)SR precessional signals for NbOs\({}_{2}\) collected above (3.5 K) and below (0.4 K) \(T_{c}\) in an applied magnetic field of 20 mT. The measurements were done in the field-cooled mode where the field 20 mT was applied above the transition temperature. The sample was then subsequently cooled to the base temperature of 0.4 K. In the normal state there is an almost homogeneous field distribution throughout the sample, where the weak depolarization is due to the nuclear dipolar field. The depolarization rate in the superconducting state becomes more prominent, due to the formation of an inhomogeneous field distribution in the flux line lattice (FLL) state. The TF-\(\mu\)SR spectra in Fig. 6(a) show a very small difference between above and below \(T_{c}\), indicating large magnetic penetration depth.
+
+The TF-\(\mu\)SR time spectra, for all temperatures, is best described by the sinusoidal oscillatory function damped with a Gaussian relaxation and an oscillatory background term arising from the muons implanted directly into the silver sample holder that do not depolarize,
+
+\[G_{\text{TF}}(t) = A_{0}\text{exp}\bigg{(}\frac{-\sigma^{2}t^{2}}{2}\bigg{)}\text{ cos}(y_{\mu}B_{\text{int}}t+\phi)\] (17) \[+A_{1}\text{cos}(y_{\mu}B_{\text{bg}}t+\phi).\]
+
+Here \(A_{0}\) and \(A_{1}\) are the initial asymmetries of the sample and background signals, \(B_{\text{int}}\) and \(B_{\text{bg}}\) are the internal and background magnetic fields, \(\phi\) is the initial phase offset, \(y_{\mu}/2\pi=135.53\) MHz/T is the muon gyromagnetic ratio, and \(\sigma\) is the depolarization rate. The depolarization rate \(\sigma\) is comprised of the following terms: \(\sigma^{2}=\sigma_{\text{sc}}^{2}+\sigma_{\text{N}}^{2}\), where \(\sigma_{\text{sc}}\) is the depolarization arising due to the field variation across the flux line lattice and \(\sigma_{\text{N}}\) is the contribution due to nuclear dipolar moments. The superconducting contribution to the depolarization rate \(\sigma_{\text{sc}}\) is calculated by using the above relation. Figure 6(b) shows the temperature dependence of \(\sigma_{\text{sc}}\) where below \(T_{c}\); \(\sigma_{\text{sc}}\) increases systematically as the temperature is lowered. The inset of Fig. 6(b) shows the temperature dependence of internal magnetic field, where the flux expulsion at \(T_{c}\) is evident from the reduction of the average field \(\langle B\rangle\) inside the superconductor, and the corresponding background field \(B_{\text{bg}}\) is approximately constant over the temperature range. In an isotropic type-II superconductor with a hexagonal Abrikosov vortex lattice the magnetic penetration depth \(\lambda\) is related to \(\sigma_{\text{sc}}\) by the equation [72]
+
+\[\sigma_{\text{sc}}(\mu s^{-1})=4.854\times 10^{4}(1-h)[1+1.21(1-\sqrt{h})^{3}]\lambda^{-2},\] (18)
+
+Figure 6: (a) Representative TF-\(\mu\)SR signals collected at 3.0 and 0.4 K in an applied magnetic field of 20 mT. (b) Temperature dependence of the superconducting contribution to depolarization \(\sigma_{\text{sc}}\) in an applied magnetic field of 20 mT. The inset shows the internal field variation with temperature where a clear diamagnetic signal appears around \(T_{c}\). (c) Temperature dependence of \(\lambda^{-2}\) follows a single gap \(s\)-wave model in dirty limit for \(\Delta(0)=0.43\pm 0.02\).
+
+  where \(h=H/H_{c2}(T)\) is the reduced field. The above equation is valid for systems \(\kappa>5\). For NbOs\({}_{2}\), \(\kappa=(46.5\pm 0.4)\) and the temperature dependence of \(H_{c2}(T)\) is shown in Fig. 3(d). Using the data of \(H_{c2}(T)\) for NbOs\({}_{2}\), the temperature dependence of \(\lambda^{-2}\) was extracted from Eq. (18), as displayed in Fig. 6(c). The temperature dependence of \(\lambda^{-2}\) is nearly constant below \(T_{c}/3\simeq 0.9\) K. This possibly suggests the absence of nodes in the superconducting energy gap at the Fermi surface. The solid line in Fig. 6(c) represents the temperature dependence of the London magnetic penetration depth \(\lambda(T)\) within the local London approximation for an \(s\)-wave BCS superconductor in the dirty limit:
+
+\[\frac{\lambda^{-2}(T)}{\lambda^{-2}(0)}=\frac{\Delta(T)}{\Delta(0)}\mathrm{ tanh}\bigg{[}\frac{\Delta(T)}{2k_{B}T}\bigg{]},\] (19)
+
+where \(\Delta(T)/\Delta(0)=\mathrm{tanh}\{1.82[1.018(T_{c}/T-1)]^{0.51}\}\) is the BCS approximation for the temperature dependence of the energy gap, where \(\Delta(0)\) is the gap magnitude at zero temperature. The dirty-limit expression was used in accordance with the calculation done in the section below where we found \(\xi_{0}>l\). The fit yields the energy gap \(\Delta(0)=(0.43\pm 0.02)\) meV and \(\lambda(0)=(6190\pm 45)\) A. The gap to \(T_{c}\) ratio \(\Delta(0)/k_{B}T_{c}=1.82\) is close to the value of 1.764 expected from the BCS theory, suggesting that NbOs\({}_{2}\) is a weakly coupled superconductor.
+
+## IV Electronic properties
+
+The Sommerfeld coefficient is related to the quasiparticle number density (\(n\)) per unit volume given by the relation [73]
+
+\[\gamma_{n}=\Big{(}\frac{\pi}{3}\Big{)}^{2/3}\frac{k_{B}^{2}m^{*}V_{\mathrm{f.a .}}n^{1/3}}{\hbar^{2}N_{\mathrm{A}}},\] (20)
+
+where \(k_{B}\) is the Boltzmann constant, \(N_{\mathrm{A}}\) is the Avogadro number, \(V_{\mathrm{f.a.}}\) is the volume of a formula unit, and \(m^{*}\) is the effective mass of quasiparticles. The residual resistivity \(\rho_{0}\) can be calculated using the equation
+
+\[l=\frac{3\pi^{2}\hbar^{3}}{e^{2}\rho_{0}m^{*2}v_{\mathrm{F}}^{2}},\] (21)
+
+while the Fermi velocity \(v_{\mathrm{F}}\) can be written in terms of the effective mass and the carrier density by
+
+\[n=\frac{1}{3\pi^{2}}\bigg{(}\frac{m^{*}v_{\mathrm{F}}}{\hbar}\bigg{)}^{3}.\] (22)
+
+For superconductors in the dirty limit, where \(\xi_{0}/l\gg 1\), the properties are affected due to the scattering of electrons. The dirty limit expression for the penetration depth \(\lambda(0)\) is then given by [63]
+
+\[\lambda(0)=\lambda_{L}\bigg{(}1+\frac{\xi_{0}}{l}\bigg{)}^{1/2}\] (23)
+
+where \(\xi_{0}\) is the BCS coherence length. The London penetration depth, \(\lambda_{L}\), is given by
+
+\[\lambda_{L}=\bigg{(}\frac{m^{*}}{\mu_{0}ne^{2}}\bigg{)}^{1/2}.\] (24)
+
+The BCS coherence length \(\xi_{0}\) and the Ginzburg-Landau coherence \(\xi_{\mathrm{GL}}(0)\) at \(T=0\) K in the dirty limit is related by the expression
+
+\[\frac{\xi_{\mathrm{GL}}(0)}{\xi_{0}}=\frac{\pi}{2\sqrt{3}}\bigg{(}1+\frac{ \xi_{0}}{l}\bigg{)}^{-1/2}.\] (25)
+
+Equations (20)-(25) form a system of equations which can be used to estimate the parameters \(m^{*}\), \(n\), \(l\), and \(\xi_{0}\) as done in Refs. [56, 57]. The system of equations was solved simultaneously using the values \(\gamma_{n}=(8.58\pm 0.01)\) mJ mol\({}^{-1}\) K\({}^{-2}\), \(\xi(0)=(99\pm 1)\) A, and \(\rho_{0}=(130\pm 5)\)\(\mu\Omega\) cm. The values were estimated for \(\lambda^{H_{c1}}\simeq 4608\) A and \(\lambda^{H}\simeq 6190\) A, tabulated in Table 3. It is clear that \(\xi_{0}>l\), indicating that NbOs\({}_{2}\) is in the dirty limit as previously asserted. This also accounts for the low RRR and residual resistivity that have been measured. The bare-band effective mass \(m^{*}_{\mathrm{band}}\) can be related to \(m^{*}\), which contains enhancements from the many-body electron phonon interactions [58]\(m^{*}=m^{*}_{\mathrm{band}}(1+\lambda_{c\mathrm{-ph}})\), where \(\lambda_{c\mathrm{-ph}}\) is the electron-phonon coupling constant. Using this value of \(\lambda_{c\mathrm{-ph}}=0.52\), a value for \(m^{*}_{\mathrm{band}}\) can be found, given in Table 3.
+
+## V Uemura plot
+
+For a 3D system the Fermi temperature \(T_{\mathrm{F}}\) is given by the relation
+
+\[k_{B}T_{\mathrm{F}}=\frac{\hbar^{2}}{2}(3\pi^{2})^{2/3}\frac{n^{2/3}}{m^{*}},\] (26)
+
+where \(n\) is the quasiparticle number density per unit volume. According to Uemura _et al._[74, 75, 76] superconductors can be conveniently classified according to their \(\frac{T_{\mathrm{F}}}{T_{\mathrm{F}}}\) ratio. It was shown that for the unconventional superconductors such as heavy-fermion, high-\(T_{c}\), organic superconductors, and iron-based superconductors this ratio falls in the range \(0.01\leqslant\frac{T_{c}}{T_{\mathrm{F}}}\leqslant 0.1\). In Fig. 7, the orange region represents the band of unconventional superconductors. The Uemura plot is presented in accordance with Refs. [57, 74, 75, 76], where it shows the superconductors with unconventional properties such as Mo\({}_{3}\)Al\({}_{2}\)C, Mg\({}_{10}\)Ir\({}_{10}\)B\({}_{16}\), Li\({}_{1}\)Pt\({}_{3}\)B, LaNiC\({}_{2}\), La\({}_{7}\)Ir\({}_{3}\), and the family of Re-based \(\alpha\)-Mn structure superconductors with broken TRS. Using the estimated value of \(n\) and \(m^{*}\) for NbOs\({}_{2}\) in Eq. (26), it yields \(T_{F}=620\) K, giving \(\frac{T_{\mathrm{F}}}{T_{\mathrm{F}}}=0.004\). NbOs\({}_{2}\) is located just outside the range of unconventional superconductors, as shown by a solid red marker in Fig. 7, and potentially borders an unconventional superconducting ground
+
+\begin{table}
+\begin{tabular}{l c c c} Properties & Unit & \(H_{c1}\) & \(\mu\)SR \\ \hline \(\lambda_{\mathrm{GL}}\) & Å & 4608 & 6190 \\ \(m^{*}/m_{e}\) & & 11.6 \(\pm\) 0.3 & 13.4 \(\pm\) 0.3 \\ \(m^{*}_{\mathrm{band}}/m_{e}\) & & 7.63 \(\pm\) 0.13 & 8.8 \(\pm\) 0.2 \\ \(n\) & 10\({}^{27}\) m\({}^{-3}\) & 4.16 \(\pm\) 0.23 & 2.74 \(  state. Interestingly, all the Re\({}_{\rm{e}}\)\(X\)[45, 46, 47] noncentrosymmetric superconductors with TRS breaking are located in the same phase space in the Uemura plot. The close proximity of the entire family might also be pointing towards the common origin of TRS breaking, which seems to be Re local electronic structure. However, other Re-based compounds, for example Re\({}_{3}\)\(X\) (\(X\) = W, Ta) [27.57], show preserved TRS. This may be due to the reduced Re composition in these compounds which may have a major effect on the underlying electronic characteristics of the spin-triplet channel. In addition, our ZF-\(\mu\)SR measurements on the Re-free NbOs\({}_{2}\) also advocate the above conclusion, since TRS is found to be preserved in the superconducting state of this material. Therefore, this makes the role of the Re element even more interesting. However, to make a generic comment about the contribution of Re in the observed TRS breaking in this family, it is important to study more Re-rich \(\alpha\)-Mn materials and more importantly Re itself.
+
+## VI Summary and conclusions
+
+Detailed investigation of the normal and superconducting phase properties of NbOs\({}_{2}\) was carried out using XRD, magnetization, resistivity, specific-heat, and \(\mu\)SR measurements. The sample was prepared by standard arc-melting technique, where the phase purity and noncentrosymmetric \(\alpha\)-Mn structure for NbOs\({}_{2}\) was confirmed by XRD analysis. Our results suggest type-II dirty limit superconductivity in NbOs\({}_{2}\) with superconducting transition temperature \(T_{c}^{\rm{onset}}=2.7\pm 0.1\) K. The specific-heat measurements confirm the superconducting gap is isotropic and are, within error, the same as the BCS predicted values. ZF-\(\mu\)SR measurement confirmed that time-reversal symmetry is preserved, within the detection limit of \(\mu\)SR. The TF-\(\mu\)SR measurements also confirm fully gapped BCS superconductivity with no point or line nodes. In addition, in the Uemura plot NbOs\({}_{2}\) is placed just outside the borderline of the band of unconventionality. Re-based \(\alpha\)-Mn structure superconductors with broken TRS are situated very close to each other in the Uemura plot. The negligible effect of ASOC and persistence occurrence of TRS breaking in this family of compounds hints at its common origin or mechanism. It could be due to the Re local electronic structure which facilitates the origin of TRS breaking in this family. The above conclusion is supported by the absence of TRS breaking phenomena in Re-free NbOs\({}_{2}\) having the same structure. Further confirmation is provided by the recent observation of TRS breaking in pure Re metal (centrosymmetric). Therefore, it is imperative and timely to search for TRS breaking in other Re-rich superconductors and employ both experimental and theoretical approaches to identify the origin of TRS breaking.
+
+## Acknowledgments
+
+R.P.S. acknowledges the Science and Engineering Research Board, Government of India, for Young Scientist Grant No. YSS/2015/001799 and the Department of Science and Technology, India (Grant No. SR/NM/Z-07/2015) for the financial support and Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR) for managing the project. We thank ISIS, STFC, UK for the beamtime to conduct the \(\mu\)SR experiments.
+
+## References
+
+* [1] E. Bauer, G. Hilscher, H. Michor, C. Paul, E. W. Scheidt, A. Gribanov, Y. Seropegin, H. Noel, M. Sigrist, and P. Rogl, Phys. Rev. Lett. **92**, 027003 (2004).
+* [2] E. Bauer and M. Sigrist, _Non-centrosymmetric Superconductors: Introduction and Overview_ (Springer Science & Business Media, Berlin, 2012), Vol. 847.
+* [3] L. P. Gor'kov and E. I. Rashba, Phys. Rev. Lett. **87**, 037004 (2001).
+* [4] P. A. Frigeri, D. F. Agterberg, A. Koga, and M. Sigrist, Phys. Rev. Lett. **92**, 097001 (2004).
+* [5] N. Kimura, K. Ito, H. Aoki, S. Uji, and T. Terashima, Phys. Rev. Lett. **98**, 197001 (2007).
+* [6] I. Sugitani, Y. Okuda, H. Shishido, T. Yamada, A. Thamizhavel, E. Yamamoto, T. D. Matsuda, Y. Haga, T. Takeuchi, R. Settai, and Y. Onuki, J. Phys. Soc. Jpn. **75**, 043703 (2006)
+* [7] I. Bonalde, W. Bramer-Escamilla, and E. Bauer, Phys. Rev. Lett. **94**, 207002 (2005).
+* [8] E. Bauer, G. Rogl, X.-Q. Chen, R. T. Khan, H. Michor, G. Hilscher, E. Royanian, K. Kumagai, D. Z. Li, Y. Y. Li, R. Podloucky, and P. Rogl, Phys. Rev. B **82**, 064511 (2010).
+* [9] V. M. Edelstein, Phys. Rev. Lett. **75**, 2004 (1995).
+* [10] S. Fujimoto, Phys. Rev. B **72**, 024515 (2005).
+* [11] G. Bian, T. R. Chang, R. Sankar, S. Y. Xu, H. Zheng, T. Neupert, C. K. Chiu, S. M. Huang, G. Q. Chang, I. Belopolski,
+
+Figure 7: The Uemura plot showing the superconducting transition temperature \(T_{c}\) vs the Fermi temperature \(T_{\rm{F}}\), where NbOs\({}_{2}\) is shown as a solid red circle just outside the range of band of unconventional superconductors. \(T_{\rm{B}}\) is the Bose-Einstein condensation temperature. The orange region represents the band of unconventionality, other points with broken TRS such as LaNiC\({}_{2}\), La\({}_{3}\)Ir\({}_{3}\), etc., and Re-based \(\alpha\)-Mn structure compounds were obtained from Refs. [57, 74, 75, 76].
+
+  D. S. Sanchez, M. Neupane, N. Alidoust, C. Liu, B. K. Wang, C. C. Lee, H. T. Jeng, C. L. Zhang, Z. J. Yuan, S. Jia _et al._, Nat. Commun. **7**, 10556 (2016).
+* [12] S. Y. Guan, P. J. Chen, M. W. Chu, R. Sankar, F. Chou, H. T. Jeng, C. S. Chang, and T. M. Chuang, Sci. Adv. **2**, e1600894 (2016).
+* [13] Z. Sun, M. Enayat, A. Maldonado, C. Lithgow, E. Yelland, D. C. Peets, A. Yaresko, A. P. Schnyder, and P. Wahl, Nat. Commun. **6**, 6633 (2015).
+* [14] M. Neupane, N. Alidoust, M. M. Hosen, J.-X. Zhu, K. Dimitri, S.-Y. Xu, N. Dhakal, R. Sankar, I. Belopolski, D. S. Sanchez, T.-R. Chang, H.-T. Jeng, K. Miyamoto, T. Okuda, H. Lin, A. Bansil, D. Kaczorowski, F. C. Chou, M. Z. Hasan, and T. Durakiewicz, Nat. Commun. **7**, 13315 (2016).
+* [15] A. D. Hillier, J. Quintanilla, and R. Cywinski, Phys. Rev. Lett. **102**, 117007 (2009).
+* [16] J. Quintanilla, A. D. Hillier, J. F. Annett, and R. Cywinski, Phys. Rev. B **82**, 174511 (2010).
+* [17] K. Togano, P. Badica, Y. Nakamori, S. Orimo, H. Takeya, and K. Hirata, Phys. Rev. Lett. **93**, 247004 (2004).
+* [18] P. Badica, T. Kondo, T. Kudo, Y. Nakamori, S. Orimo, and K. Togano, Appl. Phys. Lett. **85**, 4433 (2004).
+* [19] P. Badica, T. Kondo, and K. Togano, J. Phys. Soc. Jpn. **74**, 1014 (2005).
+* [20] M. Nishiyama, Y. Inada, and G.-Q. Zheng, Phys. Rev. B **71**, 220505(R) (2005).
+* [21] H. Takeya, K. Hirata, K. Yamaura, K. Togano, M. El Massalami, R. Rapp, F. A. Chaves, and B. Ouladdiaf, Phys. Rev. B **72**, 104506 (2005).
+* [22] H. Q. Yuan, D. F. Agterberg, N. Hayashi, P. Badica, D. Vandervelde, K. Togano, M. Sigrist, and M. B. Salamon, Phys. Rev. Lett. **97**, 017006 (2006).
+* [23] M. Nishiyama, Y. Inada, and G.-q. Zheng, Phys. Rev. Lett. **98**, 047002 (2007).
+* [24] H. Takeya, M. ElMassalami, S. Kasahara, and K. Hirata, Phys. Rev. B **76**, 104506 (2007).
+* [25] L. Fang, H. Yang, X. Zhu, G. Mu, Z. S. Wang, L. Shan, C. Ren, and H. H. Wen, Phys. Rev. B **79**, 144509 (2009).
+* [26] A. B. Karki, Y. M. Xiong, N. Haldolaarachchige, S. Stadler, I. Vekhter, P. W. Adams, D. P. Young, W. A. Phelan, and J. Y. Chan, Phys. Rev. B **83**, 144525 (2011).
+* [27] P. K. Biswas, M. R. Lees, A. D. Hillier, R. I. Smith, W. G. Marshall, and D. M. Paul, Phys. Rev. B **84**, 184529 (2011).
+* [28] J. Chen, M. B. Salamon, S. Akutagawa, J. Akimitsu, J. Singleton, J. L. Zhang, L. Jiao, and H. Q. Yuan, Phys. Rev. B **83**, 144529 (2011).
+* [29] A. B. Karki, Y. M. Xiong, I. Vekhter, D. Browne, P. W. Adams, D. P. Young, K. R. Thomas, J. Y. Chan, H. Kim, and R. Prozorov, Phys. Rev. B **82**, 064512 (2010).
+* [30] T. Mochiku, H. Takeya, T. Wuernisha, K. Mori, T. Ishigaki, T. Kamiyama, H. Fujii, and K. Hirata, Physica C **445-448**, 57 (2006).
+* [31] R. Khasanov, I. L. Landau, C. Baines, F. La Mattina, A. Maisuradze, K. Togano, and H. Keller, Phys. Rev. B **73**, 214528 (2006).
+* [32] M. M. Doria, S. Salem-Sugui, Jr., P. Badica, and K. Togano, Phys. Rev. B **73**, 184524 (2006).
+* LT24_, AIP Conf. Proc. No. 850, edited by Y. Takano, S. P. Hershfield, S. O. Hill, P. J. Hirschfeld, and A. M. Goldman (AIP, Melville, NY, 2006), p. 633.
+* [34] S. Tsuda, T. Yokoya, T. Kiss, T. Shimojima, K. Ishizaka, S. Shin, T. Togashi, S. Watanabe, C. Zhang, C. Chen, I. Hase, H. Takeya, K. Hirata, and K. Togano, J. Phys. Soc. Jpn. **78**, 034711 (2009).
+* [35] A. Shimamura, Y. Furukawa, K. Kumagai, H. Takeya, and K. Hirata, Physica C **460-462**, 663 (2007).
+* [36] D. C. Peets, G. Eguchi, M. Kriener, S. Harada, S. Md. Shamsuz'azmen, Y. Inada, G.-Q. Zheng, and Y. Maeno, Phys. Rev. B **84**, 054521 (2011).
+* [37] G. Eguchi, D. C. Peets, M. Kriener, S. Yonezawa, G. Bao, S. Harada, Y. Inada, G.-q. Zheng, and Y. Maeno, Phys. Rev. B **87**, 161203(R) (2013).
+* [38] M. Smidman, A. D. Hillier, D. T. Adroja, M. R. Lees, V. K. Anand, R. P. Singh, R. I. Smith, D. M. Paul, and G. Balakrishnan, Phys. Rev. B **89**, 094509 (2014).
+* [39] V. K. Anand, A. D. Hillier, D. T. Adroja, A. M. Strydom, H. Michor, K. A. McEwen, and B. D. Rainford, Phys. Rev. B **83**, 064522 (2011).
+* [40] V. K. Anand, D. Britz, A. Bhattacharyya, D. T. Adroja, A. D. Hillier, A. M. Strydom, W. Kockelmann, B. D. Rainford, and K. A. McEwen, Phys. Rev. B **90**, 014513 (2014).
+* [41] K. Matano, S. Maeda, H. Sawaoka, Y. Muro, T. Takabatake, B. Joshi, S. Ramakrishnan, K. Kawashima, J. Akimitsu, and G.-Q. Zheng, J. Phys. Soc. Jpn. **82**, 084711 (2013).
+* [42] X. B. Yan, Y. Xu, L. P. He, J. K. Dong, H. Cho, D. C. Peets, J.-G. Park, and S. Y. Li, Supercond. Sci. Technol. **29**, 065001 (2016).
+* [43] J. A. T. Barker, D. Singh, A. Thamizhavel, A. D. Hillier, M. R. Lees, G. Balakrishnan, D. M. Paul, and R. P. Singh, Phys. Rev. Lett. **115**, 267001 (2015)
+* [44] P. K. Biswas, H. Luetkens, T. Neupert, T. Sufuzer, C. Baines, G. Pascua, A. P. Schnyder, M. H. Fischer, J. Goryo, M. R. Lees, H. Maeter, F. Bruckner, H.-H. Klauss, M. Nicklas, P. J. Baker, A. D. Hillier, M. Sigrist, A. Amato, and D. Johrendt, Phys. Rev. B **87**, 180503(R) (2013).
+* [45] R. P. Singh, A. D. Hillier, B. Mazidian, J. Quintanilla, J. F. Annett, D. M. Paul, G. Balakrishnan, and M. R. Lees, Phys. Rev. Lett. **112**, 107002 (2014).
+* [46] D. Singh, J. A. T. Barker, A. Thamizhavel, D. M. Paul, A. D. Hillier, and R. P. Singh, Phys. Rev. B **96**, 180501(R) (2017).
+* [47] D. Singh, Sajilesh K. P., J. A. T. Barker, D. M. Paul, A. D. Hillier, and R. P. Singh, Phys. Rev. B **97**, 100505(R) (2018).
+* [48] M. J. Winiarski, J. Alloys Compd. **616**, 1 (2014).
+* [49] M. A. Khan, A. B. Karki, T. Samanta, D. Browne, S. Stadler, I. Vekhter, A. Pandey, P. W. Adams, D. P. Young, S. Teknowijoyo, K. Cho, R. Prozorov, and D. E. Graf, Phys. Rev. B **94**, 144515 (2016).
+* [50] T. Shang, M. Smidman, S. K. Ghosh, C. Baines, L. J. Chang, D. J. Gawryluk, J. A. T. Barker, R. P. Singh, D. M. Paul, G. Balakrishnan, E. Pomjakushina, M. Shi, M. Medarde, A. D. Hillier, H. Q. Yuan, J. Quintanilla, J. Mesot, and T. Shiroka, Phys. Rev. Lett. **121**, 257002 (2018).
+* [51] B. T. Matthias, V. B. Compton, and E. Corenzwit, J. Phys. Chem. Solids **19**, 130 (1961).
+* [52] B. T. Matthias, T. H. Geballe, and V. B. Compton, Rev. Mod. Phys. **35**, 414 (1963).
+
+  * [53] S. L. Lee, S. H. Kilcoyne, and R. Cywinski, _Muon Science: Munos in Physics, Chemistry and Materials_ (SUSSP and IOP, Bristol, 1999).
+* [54] R. M. Waterstrat and R. C. Manuszewski, J. Less-Common Met. **51**, 55 (1977).
+* [55] D. Singh, A. D. Hillier, A. Thamizhavel, and R. P. Singh, Phys. Rev. B **94**, 054515 (2016).
+* [56] D. A. Mayoh, J. A. T. Barker, R. P. Singh, G. Balakrishnan, D. M. Paul, and M. R. Lees, Phys. Rev. B **96**, 064521 (2017).
+* [57] J. A. T. Barker, B. D. Breen, R. Hanson, A. D. Hillier, M. R. Lees, G. Balakrishnan, D. M. Paul, and R. P. Singh, Phys. Rev. B **98**, 104506 (2018).
+* [58] G. Grimvall, _The Electron-Phonon Interaction in Metals_ (North-Holland, Amsterdam, 1981).
+* [59] A. Bid, A. Bora, and A. K. Raychaudhuri, Phys. Rev. B **74**, 035426 (2006).
+* [60] E. Helfand and N. R. Werthamer, Phys. Rev. **147**, 288 (1966).
+* [61] N. R. Werthamer, E. Helfand, and P. C. Hohenberg, Phys. Rev. **147**, 295 (1966).
+* [62] K. Maki, Phys. Rev. **148**, 362 (1966).
+* [63] M. Tinkham, _Introduction to Superconductivity_, 2nd ed. (McGraw-Hill, New York, 1996).
+* [64] C. F. Miclea, A. C. Mota, M. Nicklas, R. Cardoso, F. Steglich, M. Sigrist, A. Prokofiev, and E. Bauer, Phys. Rev. B **81**, 014527 (2010).
+* [65] C. F. Miclea, A. C. Mota, M. Sigrist, F. Steglich, T. A. Sayles, B. J. Taylor, C. A. McElroy, and M. B. Maple, Phys. Rev. B **80**, 132502 (2009).
+* [66] G. Blatter, M. V. Feigel'man, V. B. Geshkenbein, A. I. Larkin, and V. M. Vinokur, Rev. Mod. Phys. **66**, 1125 (1994).
+* [67] W. L. McMillan, Phys. Rev. **167**, 331 (1968).
+* [68] M. Isobe, M. Arai, and N. Shirakawa, Phys. Rev. B **93**, 054519 (2016).
+* [69] G. M. Luke, Y. Fudamoto, K. M. Kojima, M. I. Larkin, J. Merrin, B. Nachumi, Y. J. Uemura, Y. Maeno, Z. Q. Mao, Y. Mori, H. Nakamura, and M. Sigrist, Nature (London) **394**, 558 (1998).
+* [70] J. Xia, Y. Maeno, P. T. Beyersdorf, M. M. Fejer, and A. Kapitulnik, Phys. Rev. Lett. **97**, 167002 (2006).
+* [71] R. S. Hayano, Y. J. Uemura, J. Imazato, N. Nishida, T. Yamazaki, and R. Kubo, Phys. Rev. B **20**, 850 (1979).
+* [72] E. H. Brandt, Phys. Rev. B **68**, 054506 (2003).
+* [73] C. Kittel, _Introduction to Solid State Physics_, 8th ed. (Wiley, New York, 2005).
+* [74] Y. J. Uemura, V. J. Emery, A. R. Moodenbaugh, M. Suenaga, D. C. Johnston, A. J. Jacobson, J. T. Lewandowski, J. H. Brewer, R. F. Kiefl, S. R. Kreitzman, G. M. Luke, T. Riseman, C. E. Stronach, W. J. Kossler, J. R. Kempton, X. H. Yu, D. Opie, and H. E. Schone, Phys. Rev. B **38**, 909(R) (1988).
+* [75] Y. J. Uemura, G. M. Luke, B. J. Sternlieb, J. H. Brewer, J. F. Carolan, W. N. Hardy, R. Kadono, J. R. Kempton, R. F. Kiefl, S. R. Kreitzman, P. Mulhern, T. M. Riseman, D. L. Williams, B. X. Yang, S. Uchida, H. Takagi, J. Gopalakrishnan, A. W. Sleight, M. A. Subramanian, C. L. Chien _et al._, Phys. Rev. Lett. **62**, 2317 (1989).
+* [76] Y. J. Uemura, L. P. Le, G. M. Luke, B. J. Sternlieb, W. D. Wu, J. H. Brewer, T. M. Riseman, C. L. Seaman, M. B. Maple, M. Ishikawa, D. G. Hinks, J. D. Jorgensen, G. Saito, and H. Yamochi, Phys. Rev. Lett. **66**, 2665 (1991).
+
+ 

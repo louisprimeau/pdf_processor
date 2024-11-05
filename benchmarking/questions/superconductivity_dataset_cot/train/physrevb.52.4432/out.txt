@@ -1,0 +1,325 @@
+
+
+# Critical fields of the superconducting fullerene RbCs2C60
+
+V. Buntar
+
+Department of Physics, Parma University, I-43100 Parma, Italy and Atomic Institute of the Austrian Universities, Schutelstrasse 115, A-1020 Vienna, Austria
+
+M. Ricco
+
+Department of Physics, Parma University, I-43100 Parma, Italy
+
+H. W. Weber
+
+Atomic Institute of the Austrian Universities, Schutelstrasse 115, A-1020 Vienna, Austria
+
+F. Bolzoni
+
+Istituto MASPEC-CNR, I-43100 Parma, Italy
+
+###### Abstract
+
+The temperature dependence of the upper critical magnetic field H_{c2} of the superconducting RbCs2C60 fullerene has been obtained. The value of H_{c2}(0) at zero temperature is estimated to be 17 T and the coherence length \xi(0) = 4.4 nm. The lower critical field H_{c1} has been studied using three different methods. The H_{c1}(T) dependence obtained from the procedures based on the deviation from perfect diamagnetism and on Bean's critical-state model has a positive curvature with decreasing temperature. It is shown from a high-field analysis that this saturationless dependence does not reflect the intrinsic H_{c1} of the superconductor. The value of H_{c1}(0) is estimated to be 5.5-8.1 mT and the penetration depth \lambda(0) = 300-370 nm.
+
+## I Introduction
+
+Fullerene superconductors exhibit strong type-II superconductivity with a very large region of Shubnikov's mixed state, and their macroscopic magnetic properties are very similar to those of the high-T_{c} oxides.1-3 They are characterized by a large (\sim 100 nm) penetration depth and by a relatively small (\sim 1 nm) coherence length. There are three most important values of the magnetic field which can characterize the mixed state properties of a type-II superconductor: the lower critical field H_{c1}, at which the magnetic flux starts to penetrate a sample, the upper critical magnetic field H_{c2}, where the transition from the superconducting to the normal state occurs, and the thermodynamic critical field H_{c}. All of them can be evaluated from magnetization measurements. The knowledge of these critical fields leads then to the main characteristic superconducting length scales: the coherence length \xi and the magnetic field penetration depth \lambda.
+
+The thermodynamic critical field can be obtained from measurements of the reversible magnetization curve. However, in most cases the reversible magnetization is masked by flux pinning effects and, therefore, is not accessible. While there exist a few measurements of the reversible magnetization in the cuprate superconductors, the thermodynamic critical field of fullerenes has not yet been measured.
+
+Regarding the upper and lower critical fields, there is a wide spectrum of different experimental techniques that can be used to evaluate H_{c1}. However, despite more than seven years of intensive investigations of H_{c1}, first for high-T_{c} superconductors and then for the fullerenes, the values of the lower critical field and their temperature dependence are still controversial. This is especially true for fullerenes, since experimental data available on this new type of superconductors are scarce and the main superconducting characteristics of almost all of the fullerene superconductors are unknown.
+
+In this paper we report on a determination of the temperature dependence of the upper and lower critical fields for superconducting RbCs2C60. The upper critical field was determined from the intersection between a linear extrapolation of the magnetization in the superconducting state and the normal-state base line. The lower critical field was determined from magnetization measurements using different procedures based on the first deviation from perfect diamagnetism, Bean's critical-state model, and on a high-field analysis of the reversible magnetization.
+
+## II Experiment
+
+Two samples were prepared and examined in our experiments. Sample 1 was prepared by thermal decomposition of azides:4 stoichiometric amounts of RbN3, CsN3, and pure C60 were mixed and finely powdered in a mortar. The pressed powder was slowly heated above the decomposition temperature of the azides (510-520 degC) under dynamic vacuum. The decomposition was monitored by measuring the pressure (N2 gas is developed in this process) and the heating was stopped as soon as it was restored to its initial value. 13C NMR at room temperature showed the presence of a peak centered at 177.5 ppm (with reference to tetramathylsilane) with a width of 7 ppm half width at half maximum. No unreacted C60 (peak at 143 ppm) was observed. The second sample of the same composition prepared by a similar procedure was also briefly characterized. Both samples have the same transition temperature _Tc_ = 33 K, similar (about 40%) values of the shielding fraction at T = 5 K, and similar temperature dependence of the upper critical field.
+
+The magnetic measurements of the first sample were performed with a high-sensitivity commercial superconducting quantum interference device (SQUID) magnetometer (Quantum Design) in fields up to 5.5 T and in the temperature range from 50 to 300 K. The second sample was measured with two SQUID magnetometers: a low-field magnetometer (Quantum Design) with a field range up to 1 T and a high-field magnetometer with a field range up to 8 T. The RbCs2C60 powder of both samples were sealed in a glass capsule under 1 bar of helium exchange gas. The powder can be approximated by a set of independent spheres. In this case the demagnetizing factor n is equal to \frac{1}{3} and the magnetic field inside the sample is related to the external magnetic field _H_ext by _H_in = _H_ext/(1 - _n_).
+
+## III Upper critical field
+
+The upper critical magnetic field was determined from the temperature dependence of the field-cooled (FC) magnetization. The experiment proceeded as follows. An external magnetic field (0.5 T <= _H_ext <= 5 T) was applied at temperatures above _Tc_. The sample was then cooled down in _H_ext and the magnetic moment of the sample monitored at fixed _H_ext with increasing temperature from the superconducting to the normal state. The magnetization was reversible in the experimental temperature range 5 K < T < _T_c. The transition temperature was estimated from the intersection between a linear extrapolation of the magnetization in the superconducting state and the normal-state base line. The upper critical field _H_c2, for the temperature T = _Tc_(_H_), is equal to the applied external magnetic field, _H_c2 = _H_ext. An example of such a measurement and the evaluation procedure of _H_c2 from the experimental data for _H_ext = 1 T are shown in Fig. 1. It is clear that the strong diamagnetic signal, which appears at T = 30 K, is due to the superconducting transition. A small paramagnetic signal in the normal state, which increases slightly with decreasing temperature down to T = _Tc_, indicates the existence of a nonsuperconducting paramagnetism in our sample. This is also confirmed by measurements of the hysteresis loops (see Fig. 6). This paramagnetism can be due to some non-stoichiometric impurities; its evaluation will be discussed in more detail in Sec. IV.2.
+
+The temperature dependence of the upper critical magnetic field near _Tc_ is shown in Fig. 2. The uncertainty in determining the transition temperature was not more than 1 K at any field. From the slope of _H_c2/_8T_ = -0.8 +-0.2 T/K and using the Werthamer-Helfand-Hohenberg (WHH) formula [5]H_{c2}(0) = 0.69(\delta H_{c2}/~8T)T_{c}, one can find for the upper critical magnetic field at zero temperature _H_c2 = 17 +-1.4 T. The value of the coherence length at zero temperature [_x_(0)] can be obtained from \xi(0) = (\Phi_{0}/2\pi\mu_{0}H_{c2}(0))^{1/2} (where Ph0 = h /_2e_ is the flux quantum). This leads to _x_(0) = 4.4 +- 2 nm. (The linear Ginzburg-Landau extrapolation gives H_{c2}^{\rm GL} = 25 + 7.2 _T_{c} and _x_(0)^{\rm GL} = 3.6 _{- 4}^{+ 2} nm.)
+
+It is interesting to note that the upper critical magnetic field for the RbCs2C60 superconductor obtained in this work is much smaller than that for K3C60 (Ref. [1]) or Rb3C60 (Refs. [2] and [3]), while the coherence length is almost twice that obtained for those fullerenes. However, the value \delta H_{c2}/\delta T = - 1 \,T/K, obtained for the Na,N,C60 fullerene superconductor,6 is very close to that obtained in the present work. An enhancement of the upper critical field for powdered fullerene superconductors was discussed by Boebinger _et al._7 and several explanations were suggested. It was shown8 that the upper field critical fields might result in part from an orientational disorder between adjacent C60 molecules, which limits the mean free path (_I_mfp). In the dirty limit, where the Ginzburg-Landau coherence length _x_GL varies as _x_GL ~(_x_6_I_mfp)1/2, where x0 is the BCS coherence length, the limitation of the mean free path leads to a decrease of _x_GL and, therefore, to an increase of the upper critical field.
+
+Figure 1: **Magnetization vs temperature in an applied field** _H_ext = 1 T.
+
+Figure 2: **Upper critical field** _H_c2 vs temperature. The solid line corresponds to a slope \delta H/\delta T = -0.8T/K.
+
+  
+
+## IV Lower critical field
+
+### Deviation from the linear M(H) behavior
+
+The lower critical magnetic field H_{c1} and hence the penetration depth \lambda [provided the coherence length \xi(0) is known from the measurements described above] can be determined from an experimental magnetization curve. In this work, the lower critical magnetic field was obtained from several methods. First, it was determined as the field at which a significant deviation of the M(H) curve from linearity in the Meissner state was observed. As an example, Fig. 3 shows the magnetic field dependence of the magnetization at T = 10 K, obtained by cooling the specimen from the normal state down to the indicated temperature under zero external magnetic field and by measuring the magnetization in increasing fields. We determine H_{c1} as the field where the deviation from linearity sets in.
+
+### Bean critical-state model
+
+In order to make this procedure more quantitative, it is tempting to apply Bean's critical-state model [9] for the entry of vortices into hysteretic superconductors. According to this theory, the magnetization is related to the critical current density J_{c} (which is assumed to be field independent for simplicity), at fields above H_{c1}: (M + H)\sim (H_{2}^{\,2} - H_{c1}^{\,2} )/J_{c}D), where D is a characteristic length for the superconducting sample studied. (In our case, for a powder sample with a grain-size distribution from 0.2 to 3 \mum, we expect D to be of the order of the average grain size, \sim 1\mum.) This relation holds in the range H_{c1} < H < H^{\,*}, where H^{\,*} \sim J_{c}D is the field at which the flux penetrates the sample completely. Thus a plot of \delta M vs H^{\,2} [H = H_{\rm ext}/(1 - n)], where \delta M = M + H_{a} is the deviation of the observed magnetization from perfect diamagnetic behavior, and in particular the threshold field of this plot, should give the lower critical field. Figure 4 shows a typical example of such a plot for our sample.
+
+### Results and discussion
+
+The temperature dependence of H_{c1} obtained from these two methods is shown in Fig. 5 by the open symbols. In both cases, an anomalous saturationless temperature dependence with positive curvature at low temperatures is obtained. At 5 K the values of H_{c1} are close to 20 mT and H_{c1} decreases rapidly with increasing temperature to values of about 6 mT at about 12 K. For T > 12 K, H_{c1} decreases almost linearly and the slope of H_{c1}(T) is much smaller than at low temperatures. An extrapolation of this "high"-temperature linear dependence to zero temperature gives a value of H_{c1}(0) of around 7.5 mT. At the same time, the "high"-temperature data can be described well by a parabolic dependence H_{c1}(T)/H_{c1}(0) = 1 - (T/T_{c})^{2} (solid line in Fig. 5), which leads to H_{c1}(0) = 5.5 mT. The penetration depth \lambda(0) calculated from H_{c1} = 5.5 mT with the relation [10]
+
+Figure 5: Lower critical field H_{c1} vs temperature. The open circles correspond to data obtained from the deviation from perfect diamagnetism; triangles, data from the analysis based on Bean’s critical-state mode; closed circles, data from the high-field analysis. The dashed lines show linear extrapolation of the data obtained from the first two methods at low (< 12 K) and high (12 < T<T_{c}) temperatures. The solid line corresponds to H_{c1}(T) = H_{c1}(0)\{ 1 - (T/T_{c})^{2}\}, with \mu_{0}H_{c1}(0) = 5.5 mT.
+
+Figure 3: Magnetization vs magnetic field at T = 10 K.
+
+ \mu_{0}H_{c1}(0) = (\phi_{0}/4\pi\lambda^{2})\ln(\lambda/\xi) is \lambda(0) = 370 nm.
+
+A similarly anomalous dependence of the lower critical magnetic field was observed for high-T_{c} superconductors. For instance, it has been reported for single crystals of YBa2Cu3O7-8 (Refs. 11-13), Bi-2212 (Ref. 14), Tl-2212 (Ref. 15), Pb2Sr2R1-xCa2Cu3O8+y (Ref. 16), ceramics of (Bi,Pb)-2223 (Ref. 17), and _S/N_ layered superconductors. [18]
+
+There are at least five possible ways to explain this anomalous behavior. First, the effect could be due to the existence of a second superconducting phase with lower T_{c} and higher H_{c1}. In our specimen there could be two coexisting superconducting compounds in the case of sample inhomogeneities. They could be the Rb3C60 and the Rb2CsC60 compounds with critical temperatures of about 28 and 31 K, respectively. However, the slope of _M_(_T_) in the Meissner state does not show any significant changes at these temperatures indicating a constant shielded volume. Moreover, the upper critical fields for these compounds are much larger (see, for instance, Ref. 19) and their influence would be seen in the H_{c2}(T) dependence. The slope \delta H_{c2}/\delta T obtained in this work remains very small, in comparison with \delta H_{c2}/\delta T for the Rb3C60 compounds [19] down to 23 K (see Fig. 2) and does not exhibit any significant changes. Therefore, we can confidently conclude that we do not detect any other superconducting phases in our sample except for RbCs2C60.
+
+The second possibility which could be considered is the existence of intergranular regions and different types of defects inside the grains. The similar temperature behavior obtained for single crystals (see references above) confirms, however, that this is not a property of granular and ceramic superconductors, making this explanation less plausible.
+
+In a number of papers, theoretical and experimental results were presented explaining such a H_{c1}(T) behavior as an intrinsic property of layered superconductors. [18, 20, 21] For our sample, where the superconducting fraction is about 40%, such a superconducting-nonsuperconducting structure could be an explanation of the anomalous temperature dependence of the lower critical field. However, it was shown [18] that it is very important for this situation to have the external magnetic field perpendicular to the layers. This cannot be expected for our sample, which certainly has a random distribution of superconducting and nonsuperconducting regions.
+
+One further explanation was suggested in Ref. 13, where the authors explained the positive curvature of H_{c1}(T) by the existence of a Bean-Livingston surface barrier. [22] The appearance of these barriers at low temperatures is more likely than at high ones, because the higher the temperature, the more easily the surface barrier can be overcome by thermal fluctuations.
+
+Finally, it should be kept in mind that the deviation of the _M_(_H_) curve from linearity is significantly smaller at low temperatures and that the determination of such small deviations is already a matter or resolution of the experimental method. This can lead to much higher values of "H_{c1}" obtained at low temperatures from magnetization measurements with highly sensitive SQUID magnetometers. [23]
+
+The last two explanations of the experimental data are most likely. But whatever the nature of the positive curvature of H_{c1}(T) is, the anomalous increase of H_{c1} at low temperature does not reflect the behavior of the intrinsic H_{c1}. The "real" H_{c1} at zero temperature should be much lower than the 20 mT obtained above according to the high-temperature data.
+
+### High-field analysis
+
+In order to find the real lower critical magnetic field one can use a high- and intermediate-field analysis, where H_{c1} can be estimated from the values of the penetration depth \lambda, the coherence length \xi, and the Ginzburg-Landau parameter \kappa. This avoids the influence of the Bean-Livingston barrier and is more accurate than that based on low-field measurements, especially in the case of inhomogeneous samples with a low superconducting fraction. [24]
+
+The key point is the determination of \kappa and H_{c1} on the basis of data obtained at high (H\leq H_{c2}) and intermediate (H_{c1}\ll H<\ll H_{c2}) external magnetic fields. According to the Ginzburg-Landau theory, the reversible magnetization for H\leq H_{c2} is given by [25]
+
+\[-M = \frac{H_{c2}(T) - H}{(2\kappa^{2} - 1)\beta_{a}}\;\;,\]
+
+where \beta_{a} = 1.16. Since \kappa = \lambda/\xi, we can estimate \lambda and H_{c1} from the reversible _M_(_H_) dependence, provided the coherence length is known from independent experiments on H_{c2}. For H_{c1} < H\ll H_{c2}, [25]
+
+\[-M = \frac{\alpha\Phi_{0}}{8\pi\lambda^{2}(T)}\ln\frac{\beta H_{c2}(T)}{H}\;\;.\]
+
+In our experiments we have measured the magnetization in fields up to 5.5 T at different temperatures up to 30 K, close enough to T_{c}. For our experimental magnetic field window, a reversible region of _M_(_H_) was found at temperature T > 20 K. Typical _M_(_H_) dependences at T > 20 K are shown in Fig. 6. The reversible region was found at fields higher than 4 T (for T = 24 K), 3.2 T (_T_ = 25 K), 2.2 T (_T_ = 27 K), 1 T (_T_ = 29 K), and 0.5 T (_T_ = 30 K). For all these temperatures, H_{\rm rev}/H_{c2} > 0.4 (where H_{\rm rev} is the reversibility field). This means that the reversible region in our experiments occurs in the high-field regime and Eq. (1) (Ref. 26) should be used. [27]
+
+Figure 6 demonstrates that nonsuperconducting paramagnetism is significant in our sample and its contribution, M_{p}, to the total measured magnetization, M_{t}, should be taken into account when evaluating the magnetization M_{\rm sc} produced by the persistent currents. On the other hand, the sample magnetization is related to the magnetization of a perfect superconductor via the superconducting fraction _x_: M_{\rm sc} = xM. Since M_{p} = \chi_{p}H,
+
+\[M_{t} = xM + \chi_{p}H\;\;.\]
+
+The shielding fraction x_{\rm sh}, which is not equal, in general, to the superconducting one [24, 28] was evaluated for  different temperatures from the slope of the M(H) dependences. Since in a perfect superconductor M\!=\!-H, the following definition for x_{\rm sh} was adopted: x_{\rm sh}\!=\!-dM/8H. The shielding fraction x_{\rm sh}(T) thus evaluated is around 40%.
+
+The magnetic field dependence of the superconducting magnetization,
+
+\[M_{\rm sc}=\frac{M_{\rm t}-\chi_{p}H}{x}\] (4)
+
+[see Eq. (3)] is shown in Fig. 7 for different temperatures. As it should be, these dependences are linear in the high field (H\!\leq\!H_{c2}) region. The slope is \delta M_{\rm sc}/\delta H\!=\!x/[(2\kappa^{2}\!-1)\beta_{a}], from which \kappa can be evaluated. This results in \kappa\!=\!65.6, 58, 67.7, 76.6, and 66.3 from the M_{\rm sc}(H) dependences at 24, 25, 27, 29, and 30 K, respectively. That leads to an average value \kappa\!=\!67\!\pm\!10, \lambda(0)\!=\!300\!\pm\!50 nm, and the lower critical field at zero temperature \mu_{0}H_{c1}(0)\!=\!8.1\!\pm\!2 mT. This value is close to that (m_{0}H_{c1}\!\simeq\!7.5 mT) obtained from the linear approximation of the "high" temperature dependence in Fig. 5. It confirms our proposal that the positive curvature of H_{c1}(T) does not reflect the intrinsic value of the lower critical field at low temperatures.
+
+From the values of \kappa and \lambda(0) obtained from the linear dependences in Fig. 7, one can find the values of \lambda(T) and then H_{c1}(T) using the two-fluid relation,
+
+\[\lambda(T)\!=\!\lambda(0)[1\!-\!(T/T_{c}(0))^{4}]^{-1/2}\ ,\] (5)
+
+which gives good agreement with experimental results for other fullerenes superconductors.[24, 29] The values of H_{c1} obtained in this way for T\!=\!24, 25, 27, 29, and 30 K are plotted in Fig. 5 (full circles) and show good agreement with the data obtained from the low-field analysis at high temperatures.
+
+## V Summary
+
+The temperature dependence of the upper critical magnetic field H_{c2} and the value of the coherence length \xi at room temperature were obtained for the superconducting RbCs_{2}C_{60} fullerene. The upper critical field at room temperature is estimated to be H_{c2}\!=\!17 T with a slope \delta H/\delta T\!=\!-0.8/\!{\rm K}. The lower critical magnetic field was obtained by three different methods. It is shown that two of them [evaluation of H_{c1} from the point of the first significant deviation from the linear M(H) dependence and from the Bean critical-state model] give a saturation-less temperature dependence with positive curvature at low temperatures and do not reflect the real intrinsic lower critical field of the superconductor. On the other hand, the high-field analysis for the determination of H_{c1} gives significantly smaller values of the lower critical field at ze o temperature [\mu_{0}H_{c1}(0)\!=\!8.1 mT] and, at the same
+
+Figure 6: Typical M(H) dependences for T\!>\!20 K, which demonstrate the magnetization reversibility within the field range employed.
+
+Figure 7: Field dependence of the reversible magnetization with the nonsuperconducting paramagnetism subtracted.
+
+  time, shows very good agreement with the other methods at T\!>\!0.5T_{c}. For these temperatures, experimental data obtained by all methods can be described by a parabolic dependence, H_{c1}(T)/H_{c1}(0)\!=\!1\!-\!(T/T_{c})^{2}, which leads to H_{c1}(0)\!=\!5.5 mT. The corresponding values of the penetration depth \lambda(0) are \lambda(0)\!=\!300 nm and \lambda(0)\!=\!370 nm.
+
+## References
+
+* [1] K. Holczer, O. Klein, G. Gruner, J. D. Thompson, F. Diederich, and R. L. Whetten, Phys. Rev. Lett. **67**, 271 (1991).
+* [2] C. Politis, V. Buntar, W. Krauss, and A. Gurevich, Europhys. Lett. **17**, 175 (1992).
+* [3] G. Sparn, J. D. Thompson, R. L. Whetten, S.-M. Huang, R. B. Kaner, F. Diederich, G. Gruner, and K. Holczer, Phys. Rev. Lett. **68**, 1228 (1992).
+* [4] F. Bensebaa, B. Xiang, and L. Kevan, J. Phys. Chem. **96**, 6118 (1992).
+* [5] N. R. Werthamer, E. Helfand, and P. C. Hohenberg, Phys. Rev. **147**, 295 (1966).
+* [6] I. I. Khairullin, K. Imada, K. Yakushi, and H. Inokuchi, Physica C **231**, 26 (1994).
+* [7] G. S. Boebinger, T. T. M. Palstra, A. Rassner, M. J. Rosseinsky, and D. M. Murphy, Phys. Rev. B **46**, 5876 (1992).
+* [8] M. P. Gelfand and J. P. Lu, Phys. Rev. Lett. **68**, 1050 (1992).
+* [9] C. P. Bean, Phys. Rev. Lett. **8**, 250 (1962).
+* [10] M. Tinkham, _Introduction to Superconductivity_ (McGraw-Hill, New York, 1975).
+* [11] T. Ishii and T. Yamada, Physica C **159**, 483 (1989).
+* [12] H. Adrian, W. Assumus, A. Hohr, J. Kowalewski, H. Spille, and F. Steglich, Physica C **162-164**, 329 (1989).
+* [13] M. W. McElfresh, Y. Yeshurun, A. P. Malozemoff, and F. Hotzberg, Physica A **168**, 308 (1990).
+* [14] B. Batlogg, T. T. M. Palstra, L. F. Schneemeyer, R. B. van Dover, and A. R. Cava, Physica C **153-155**, 1062 (1988).
+* [15] V. N. Kopylov, A. E. Koshelev, I. F. Schegolev, and T. G. Togonidze, Physica C **170**, 291 (1990).
+* [16] V. V. Metlushko, G. Guntherodt, V. V. Moschalkov, Y. Bruynseraede, and M. M. Lukina, Phys. Rev. B **47**, 8212 (1993).
+* [17] R. Job and M. Rosenberg, Physica C **172**, 391 (1991).
+* [18] V. M. Krasnov, V. A. Oboznov, and V. V. Ryazanov, Physica C **196**, 335 (1992).
+* [19] C. Politis, V. Buntar, and V. P. Seminozhenko, Int. J. Mod. Phys. B **7**, 2163 (1993).
+* [20] T. Koyama, N. Takezawa, and M. Tachiki, Physica C **168**, 69 (1990).
+* [21] V. M. Krasnov, Physica C **190**, 357 (1992).
+* [22] C. P. Bean and J. D. Livingston, Phys. Rev. Lett. **12**, 14 (1964).
+* [23] C. Bohmer (private communication).
+* [24] C. Politis, A. I. Sokolov, and V. Buntar, Phys. Rev. B **6**, 351 (1992).
+* [25] A. A. Abrikosov, Zh. Eksp Teor. Fiz. **32**, 1442 (1957) [Sov. Phys. JETP **5**, 1174 (1957)].
+* [26] Z. Hao and J. R. Chem. Phys. Rev. Lett. **67**, 2371 (1991).
+* [27] In order to check this supposition, we also analyzed our data using the logarithmic equation [Eq. (2)]. The data obtained at 24 and 25 K also give good agreement with Eq. (2) and lead to similar values for the penetration depth at zero temperature (\lambda\!\simeq\!300 nm), while the data obtained at 29 and 30 K do not fit the logarithmic behavior.
+* [28] A. I. Sokolov, Yu. A. Kuraev, and E. B. Sonin, Physica C **212**, 19 (1993).
+* [29] Y. J. Uemura, A. Keren, L. P. Le, G. M. Luke, B. J. Sterlieb, W. D. Wu, J. H. Brewer, and K. Holczer, Nature **325**, 605 (1991).
+
+ 
+
+# Critical fields of the superconducting fullerene RbCs2C60
+
+V. Buntar
+
+Department of Physics, Parma University, I-43100 Parma, Italy and Atomic Institute of the Austrian Universities, Schutelstrasse 115, A-1020 Vienna, Austria
+
+M. Ricco
+
+Department of Physics, Parma University, I-43100 Parma, Italy
+
+H. W. Weber
+
+Atomic Institute of the Austrian Universities, Schutelstrasse 115, A-1020 Vienna, Austria
+
+F. Bolzoni
+
+Istituto MASPEC-CNR, I-43100 Parma, Italy
+
+###### Abstract
+
+The temperature dependence of the upper critical magnetic field H_{c2} of the superconducting RbCs2C60 fullerene has been obtained. The value of H_{c2}(0) at zero temperature is estimated to be 17 T and the coherence length \xi(0) = 4.4 nm. The lower critical field H_{c1} has been studied using three different methods. The H_{c1}(T) dependence obtained from the procedures based on the deviation from perfect diamagnetism and on Bean's critical-state model has a positive curvature with decreasing temperature. It is shown from a high-field analysis that this saturationless dependence does not reflect the intrinsic H_{c1} of the superconductor. The value of H_{c1}(0) is estimated to be 5.5-8.1 mT and the penetration depth \lambda(0) = 300-370 nm.
+
+## I Introduction
+
+Fullerene superconductors exhibit strong type-II superconductivity with a very large region of Shubnikov's mixed state, and their macroscopic magnetic properties are very similar to those of the high-T_{c} oxides.1-3 They are characterized by a large (\sim 100 nm) penetration depth and by a relatively small (\sim 1 nm) coherence length. There are three most important values of the magnetic field which can characterize the mixed state properties of a type-II superconductor: the lower critical field H_{c1}, at which the magnetic flux starts to penetrate a sample, the upper critical magnetic field H_{c2}, where the transition from the superconducting to the normal state occurs, and the thermodynamic critical field H_{c}. All of them can be evaluated from magnetization measurements. The knowledge of these critical fields leads then to the main characteristic superconducting length scales: the coherence length \xi and the magnetic field penetration depth \lambda.
+
+The thermodynamic critical field can be obtained from measurements of the reversible magnetization curve. However, in most cases the reversible magnetization is masked by flux pinning effects and, therefore, is not accessible. While there exist a few measurements of the reversible magnetization in the cuprate superconductors, the thermodynamic critical field of fullerenes has not yet been measured.
+
+Regarding the upper and lower critical fields, there is a wide spectrum of different experimental techniques that can be used to evaluate H_{c1}. However, despite more than seven years of intensive investigations of H_{c1}, first for high-T_{c} superconductors and then for the fullerenes, the values of the lower critical field and their temperature dependence are still controversial. This is especially true for fullerenes, since experimental data available on this new type of superconductors are scarce and the main superconducting characteristics of almost all of the fullerene superconductors are unknown.
+
+In this paper we report on a determination of the temperature dependence of the upper and lower critical fields for superconducting RbCs2C60. The upper critical field was determined from the intersection between a linear extrapolation of the magnetization in the superconducting state and the normal-state base line. The lower critical field was determined from magnetization measurements using different procedures based on the first deviation from perfect diamagnetism, Bean's critical-state model, and on a high-field analysis of the reversible magnetization.
+
+## II Experiment
+
+Two samples were prepared and examined in our experiments. Sample 1 was prepared by thermal decomposition of azides:4 stoichiometric amounts of RbN3, CsN3, and pure C60 were mixed and finely powdered in a mortar. The pressed powder was slowly heated above the decomposition temperature of the azides (510-520 degC) under dynamic vacuum. The decomposition was monitored by measuring the pressure (N2 gas is developed in this process) and the heating was stopped as soon as it was restored to its initial value. 13C NMR at room temperature showed the presence of a peak centered at 177.5 ppm (with reference to tetramathylsilane) with a width of 7 ppm half width at half maximum. No unreacted C60 (peak at 143 ppm) was observed. The second sample of the same composition prepared by a similar procedure was also briefly characterized. Both samples have the same transition temperature _Tc_ = 33 K, similar (about 40%) values of the shielding fraction at T = 5 K, and similar temperature dependence of the upper critical field.
+
+The magnetic measurements of the first sample were performed with a high-sensitivity commercial superconducting quantum interference device (SQUID) magnetometer (Quantum Design) in fields up to 5.5 T and in the temperature range from 50 to 300 K. The second sample was measured with two SQUID magnetometers: a low-field magnetometer (Quantum Design) with a field range up to 1 T and a high-field magnetometer with a field range up to 8 T. The RbCs2C60 powder of both samples were sealed in a glass capsule under 1 bar of helium exchange gas. The powder can be approximated by a set of independent spheres. In this case the demagnetizing factor n is equal to \frac{1}{3} and the magnetic field inside the sample is related to the external magnetic field _H_ext by _H_in = _H_ext/(1 - _n_).
+
+## III Upper critical field
+
+The upper critical magnetic field was determined from the temperature dependence of the field-cooled (FC) magnetization. The experiment proceeded as follows. An external magnetic field (0.5 T <= _H_ext <= 5 T) was applied at temperatures above _Tc_. The sample was then cooled down in _H_ext and the magnetic moment of the sample monitored at fixed _H_ext with increasing temperature from the superconducting to the normal state. The magnetization was reversible in the experimental temperature range 5 K < T < _T_c. The transition temperature was estimated from the intersection between a linear extrapolation of the magnetization in the superconducting state and the normal-state base line. The upper critical field _H_c2, for the temperature T = _Tc_(_H_), is equal to the applied external magnetic field, _H_c2 = _H_ext. An example of such a measurement and the evaluation procedure of _H_c2 from the experimental data for _H_ext = 1 T are shown in Fig. 1. It is clear that the strong diamagnetic signal, which appears at T = 30 K, is due to the superconducting transition. A small paramagnetic signal in the normal state, which increases slightly with decreasing temperature down to T = _Tc_, indicates the existence of a nonsuperconducting paramagnetism in our sample. This is also confirmed by measurements of the hysteresis loops (see Fig. 6). This paramagnetism can be due to some non-stoichiometric impurities; its evaluation will be discussed in more detail in Sec. IV.2.
+
+The temperature dependence of the upper critical magnetic field near _Tc_ is shown in Fig. 2. The uncertainty in determining the transition temperature was not more than 1 K at any field. From the slope of _H_c2/_8T_ = -0.8 +-0.2 T/K and using the Werthamer-Helfand-Hohenberg (WHH) formula [5]H_{c2}(0) = 0.69(\delta H_{c2}/~8T)T_{c}, one can find for the upper critical magnetic field at zero temperature _H_c2 = 17 +-1.4 T. The value of the coherence length at zero temperature [_x_(0)] can be obtained from \xi(0) = (\Phi_{0}/2\pi\mu_{0}H_{c2}(0))^{1/2} (where Ph0 = h /_2e_ is the flux quantum). This leads to _x_(0) = 4.4 +- 2 nm. (The linear Ginzburg-Landau extrapolation gives H_{c2}^{\rm GL} = 25 + 7.2 _T_{c} and _x_(0)^{\rm GL} = 3.6 _{- 4}^{+ 2} nm.)
+
+It is interesting to note that the upper critical magnetic field for the RbCs2C60 superconductor obtained in this work is much smaller than that for K3C60 (Ref. [1]) or Rb3C60 (Refs. [2] and [3]), while the coherence length is almost twice that obtained for those fullerenes. However, the value \delta H_{c2}/\delta T = - 1 \,T/K, obtained for the Na,N,C60 fullerene superconductor,6 is very close to that obtained in the present work. An enhancement of the upper critical field for powdered fullerene superconductors was discussed by Boebinger _et al._7 and several explanations were suggested. It was shown8 that the upper field critical fields might result in part from an orientational disorder between adjacent C60 molecules, which limits the mean free path (_I_mfp). In the dirty limit, where the Ginzburg-Landau coherence length _x_GL varies as _x_GL ~(_x_6_I_mfp)1/2, where x0 is the BCS coherence length, the limitation of the mean free path leads to a decrease of _x_GL and, therefore, to an increase of the upper critical field.
+
+Figure 1: **Magnetization vs temperature in an applied field** _H_ext = 1 T.
+
+Figure 2: **Upper critical field** _H_c2 vs temperature. The solid line corresponds to a slope \delta H/\delta T = -0.8T/K.
+
+  
+
+## IV Lower critical field
+
+### Deviation from the linear M(H) behavior
+
+The lower critical magnetic field H_{c1} and hence the penetration depth \lambda [provided the coherence length \xi(0) is known from the measurements described above] can be determined from an experimental magnetization curve. In this work, the lower critical magnetic field was obtained from several methods. First, it was determined as the field at which a significant deviation of the M(H) curve from linearity in the Meissner state was observed. As an example, Fig. 3 shows the magnetic field dependence of the magnetization at T = 10 K, obtained by cooling the specimen from the normal state down to the indicated temperature under zero external magnetic field and by measuring the magnetization in increasing fields. We determine H_{c1} as the field where the deviation from linearity sets in.
+
+### Bean critical-state model
+
+In order to make this procedure more quantitative, it is tempting to apply Bean's critical-state model [9] for the entry of vortices into hysteretic superconductors. According to this theory, the magnetization is related to the critical current density J_{c} (which is assumed to be field independent for simplicity), at fields above H_{c1}: (M + H)\sim (H_{2}^{\,2} - H_{c1}^{\,2} )/J_{c}D), where D is a characteristic length for the superconducting sample studied. (In our case, for a powder sample with a grain-size distribution from 0.2 to 3 \mum, we expect D to be of the order of the average grain size, \sim 1\mum.) This relation holds in the range H_{c1} < H < H^{\,*}, where H^{\,*} \sim J_{c}D is the field at which the flux penetrates the sample completely. Thus a plot of \delta M vs H^{\,2} [H = H_{\rm ext}/(1 - n)], where \delta M = M + H_{a} is the deviation of the observed magnetization from perfect diamagnetic behavior, and in particular the threshold field of this plot, should give the lower critical field. Figure 4 shows a typical example of such a plot for our sample.
+
+### Results and discussion
+
+The temperature dependence of H_{c1} obtained from these two methods is shown in Fig. 5 by the open symbols. In both cases, an anomalous saturationless temperature dependence with positive curvature at low temperatures is obtained. At 5 K the values of H_{c1} are close to 20 mT and H_{c1} decreases rapidly with increasing temperature to values of about 6 mT at about 12 K. For T > 12 K, H_{c1} decreases almost linearly and the slope of H_{c1}(T) is much smaller than at low temperatures. An extrapolation of this "high"-temperature linear dependence to zero temperature gives a value of H_{c1}(0) of around 7.5 mT. At the same time, the "high"-temperature data can be described well by a parabolic dependence H_{c1}(T)/H_{c1}(0) = 1 - (T/T_{c})^{2} (solid line in Fig. 5), which leads to H_{c1}(0) = 5.5 mT. The penetration depth \lambda(0) calculated from H_{c1} = 5.5 mT with the relation [10]
+
+Figure 5: Lower critical field H_{c1} vs temperature. The open circles correspond to data obtained from the deviation from perfect diamagnetism; triangles, data from the analysis based on Bean’s critical-state mode; closed circles, data from the high-field analysis. The dashed lines show linear extrapolation of the data obtained from the first two methods at low (< 12 K) and high (12 < T<T_{c}) temperatures. The solid line corresponds to H_{c1}(T) = H_{c1}(0)\{ 1 - (T/T_{c})^{2}\}, with \mu_{0}H_{c1}(0) = 5.5 mT.
+
+Figure 3: Magnetization vs magnetic field at T = 10 K.
+
+ \mu_{0}H_{c1}(0) = (\phi_{0}/4\pi\lambda^{2})\ln(\lambda/\xi) is \lambda(0) = 370 nm.
+
+A similarly anomalous dependence of the lower critical magnetic field was observed for high-T_{c} superconductors. For instance, it has been reported for single crystals of YBa2Cu3O7-8 (Refs. 11-13), Bi-2212 (Ref. 14), Tl-2212 (Ref. 15), Pb2Sr2R1-xCa2Cu3O8+y (Ref. 16), ceramics of (Bi,Pb)-2223 (Ref. 17), and _S/N_ layered superconductors. [18]
+
+There are at least five possible ways to explain this anomalous behavior. First, the effect could be due to the existence of a second superconducting phase with lower T_{c} and higher H_{c1}. In our specimen there could be two coexisting superconducting compounds in the case of sample inhomogeneities. They could be the Rb3C60 and the Rb2CsC60 compounds with critical temperatures of about 28 and 31 K, respectively. However, the slope of _M_(_T_) in the Meissner state does not show any significant changes at these temperatures indicating a constant shielded volume. Moreover, the upper critical fields for these compounds are much larger (see, for instance, Ref. 19) and their influence would be seen in the H_{c2}(T) dependence. The slope \delta H_{c2}/\delta T obtained in this work remains very small, in comparison with \delta H_{c2}/\delta T for the Rb3C60 compounds [19] down to 23 K (see Fig. 2) and does not exhibit any significant changes. Therefore, we can confidently conclude that we do not detect any other superconducting phases in our sample except for RbCs2C60.
+
+The second possibility which could be considered is the existence of intergranular regions and different types of defects inside the grains. The similar temperature behavior obtained for single crystals (see references above) confirms, however, that this is not a property of granular and ceramic superconductors, making this explanation less plausible.
+
+In a number of papers, theoretical and experimental results were presented explaining such a H_{c1}(T) behavior as an intrinsic property of layered superconductors. [18, 20, 21] For our sample, where the superconducting fraction is about 40%, such a superconducting-nonsuperconducting structure could be an explanation of the anomalous temperature dependence of the lower critical field. However, it was shown [18] that it is very important for this situation to have the external magnetic field perpendicular to the layers. This cannot be expected for our sample, which certainly has a random distribution of superconducting and nonsuperconducting regions.
+
+One further explanation was suggested in Ref. 13, where the authors explained the positive curvature of H_{c1}(T) by the existence of a Bean-Livingston surface barrier. [22] The appearance of these barriers at low temperatures is more likely than at high ones, because the higher the temperature, the more easily the surface barrier can be overcome by thermal fluctuations.
+
+Finally, it should be kept in mind that the deviation of the _M_(_H_) curve from linearity is significantly smaller at low temperatures and that the determination of such small deviations is already a matter or resolution of the experimental method. This can lead to much higher values of "H_{c1}" obtained at low temperatures from magnetization measurements with highly sensitive SQUID magnetometers. [23]
+
+The last two explanations of the experimental data are most likely. But whatever the nature of the positive curvature of H_{c1}(T) is, the anomalous increase of H_{c1} at low temperature does not reflect the behavior of the intrinsic H_{c1}. The "real" H_{c1} at zero temperature should be much lower than the 20 mT obtained above according to the high-temperature data.
+
+### High-field analysis
+
+In order to find the real lower critical magnetic field one can use a high- and intermediate-field analysis, where H_{c1} can be estimated from the values of the penetration depth \lambda, the coherence length \xi, and the Ginzburg-Landau parameter \kappa. This avoids the influence of the Bean-Livingston barrier and is more accurate than that based on low-field measurements, especially in the case of inhomogeneous samples with a low superconducting fraction. [24]
+
+The key point is the determination of \kappa and H_{c1} on the basis of data obtained at high (H\leq H_{c2}) and intermediate (H_{c1}\ll H<\ll H_{c2}) external magnetic fields. According to the Ginzburg-Landau theory, the reversible magnetization for H\leq H_{c2} is given by [25]
+
+\[-M = \frac{H_{c2}(T) - H}{(2\kappa^{2} - 1)\beta_{a}}\;\;,\]
+
+where \beta_{a} = 1.16. Since \kappa = \lambda/\xi, we can estimate \lambda and H_{c1} from the reversible _M_(_H_) dependence, provided the coherence length is known from independent experiments on H_{c2}. For H_{c1} < H\ll H_{c2}, [25]
+
+\[-M = \frac{\alpha\Phi_{0}}{8\pi\lambda^{2}(T)}\ln\frac{\beta H_{c2}(T)}{H}\;\;.\]
+
+In our experiments we have measured the magnetization in fields up to 5.5 T at different temperatures up to 30 K, close enough to T_{c}. For our experimental magnetic field window, a reversible region of _M_(_H_) was found at temperature T > 20 K. Typical _M_(_H_) dependences at T > 20 K are shown in Fig. 6. The reversible region was found at fields higher than 4 T (for T = 24 K), 3.2 T (_T_ = 25 K), 2.2 T (_T_ = 27 K), 1 T (_T_ = 29 K), and 0.5 T (_T_ = 30 K). For all these temperatures, H_{\rm rev}/H_{c2} > 0.4 (where H_{\rm rev} is the reversibility field). This means that the reversible region in our experiments occurs in the high-field regime and Eq. (1) (Ref. 26) should be used. [27]
+
+Figure 6 demonstrates that nonsuperconducting paramagnetism is significant in our sample and its contribution, M_{p}, to the total measured magnetization, M_{t}, should be taken into account when evaluating the magnetization M_{\rm sc} produced by the persistent currents. On the other hand, the sample magnetization is related to the magnetization of a perfect superconductor via the superconducting fraction _x_: M_{\rm sc} = xM. Since M_{p} = \chi_{p}H,
+
+\[M_{t} = xM + \chi_{p}H\;\;.\]
+
+The shielding fraction x_{\rm sh}, which is not equal, in general, to the superconducting one [24, 28] was evaluated for  different temperatures from the slope of the M(H) dependences. Since in a perfect superconductor M\!=\!-H, the following definition for x_{\rm sh} was adopted: x_{\rm sh}\!=\!-dM/8H. The shielding fraction x_{\rm sh}(T) thus evaluated is around 40%.
+
+The magnetic field dependence of the superconducting magnetization,
+
+\[M_{\rm sc}=\frac{M_{\rm t}-\chi_{p}H}{x}\] (4)
+
+[see Eq. (3)] is shown in Fig. 7 for different temperatures. As it should be, these dependences are linear in the high field (H\!\leq\!H_{c2}) region. The slope is \delta M_{\rm sc}/\delta H\!=\!x/[(2\kappa^{2}\!-1)\beta_{a}], from which \kappa can be evaluated. This results in \kappa\!=\!65.6, 58, 67.7, 76.6, and 66.3 from the M_{\rm sc}(H) dependences at 24, 25, 27, 29, and 30 K, respectively. That leads to an average value \kappa\!=\!67\!\pm\!10, \lambda(0)\!=\!300\!\pm\!50 nm, and the lower critical field at zero temperature \mu_{0}H_{c1}(0)\!=\!8.1\!\pm\!2 mT. This value is close to that (m_{0}H_{c1}\!\simeq\!7.5 mT) obtained from the linear approximation of the "high" temperature dependence in Fig. 5. It confirms our proposal that the positive curvature of H_{c1}(T) does not reflect the intrinsic value of the lower critical field at low temperatures.
+
+From the values of \kappa and \lambda(0) obtained from the linear dependences in Fig. 7, one can find the values of \lambda(T) and then H_{c1}(T) using the two-fluid relation,
+
+\[\lambda(T)\!=\!\lambda(0)[1\!-\!(T/T_{c}(0))^{4}]^{-1/2}\ ,\] (5)
+
+which gives good agreement with experimental results for other fullerenes superconductors.[24, 29] The values of H_{c1} obtained in this way for T\!=\!24, 25, 27, 29, and 30 K are plotted in Fig. 5 (full circles) and show good agreement with the data obtained from the low-field analysis at high temperatures.
+
+## V Summary
+
+The temperature dependence of the upper critical magnetic field H_{c2} and the value of the coherence length \xi at room temperature were obtained for the superconducting RbCs_{2}C_{60} fullerene. The upper critical field at room temperature is estimated to be H_{c2}\!=\!17 T with a slope \delta H/\delta T\!=\!-0.8/\!{\rm K}. The lower critical magnetic field was obtained by three different methods. It is shown that two of them [evaluation of H_{c1} from the point of the first significant deviation from the linear M(H) dependence and from the Bean critical-state model] give a saturation-less temperature dependence with positive curvature at low temperatures and do not reflect the real intrinsic lower critical field of the superconductor. On the other hand, the high-field analysis for the determination of H_{c1} gives significantly smaller values of the lower critical field at ze o temperature [\mu_{0}H_{c1}(0)\!=\!8.1 mT] and, at the same
+
+Figure 6: Typical M(H) dependences for T\!>\!20 K, which demonstrate the magnetization reversibility within the field range employed.
+
+Figure 7: Field dependence of the reversible magnetization with the nonsuperconducting paramagnetism subtracted.
+
+  time, shows very good agreement with the other methods at T\!>\!0.5T_{c}. For these temperatures, experimental data obtained by all methods can be described by a parabolic dependence, H_{c1}(T)/H_{c1}(0)\!=\!1\!-\!(T/T_{c})^{2}, which leads to H_{c1}(0)\!=\!5.5 mT. The corresponding values of the penetration depth \lambda(0) are \lambda(0)\!=\!300 nm and \lambda(0)\!=\!370 nm.
+
+## References
+
+* [1] K. Holczer, O. Klein, G. Gruner, J. D. Thompson, F. Diederich, and R. L. Whetten, Phys. Rev. Lett. **67**, 271 (1991).
+* [2] C. Politis, V. Buntar, W. Krauss, and A. Gurevich, Europhys. Lett. **17**, 175 (1992).
+* [3] G. Sparn, J. D. Thompson, R. L. Whetten, S.-M. Huang, R. B. Kaner, F. Diederich, G. Gruner, and K. Holczer, Phys. Rev. Lett. **68**, 1228 (1992).
+* [4] F. Bensebaa, B. Xiang, and L. Kevan, J. Phys. Chem. **96**, 6118 (1992).
+* [5] N. R. Werthamer, E. Helfand, and P. C. Hohenberg, Phys. Rev. **147**, 295 (1966).
+* [6] I. I. Khairullin, K. Imada, K. Yakushi, and H. Inokuchi, Physica C **231**, 26 (1994).
+* [7] G. S. Boebinger, T. T. M. Palstra, A. Rassner, M. J. Rosseinsky, and D. M. Murphy, Phys. Rev. B **46**, 5876 (1992).
+* [8] M. P. Gelfand and J. P. Lu, Phys. Rev. Lett. **68**, 1050 (1992).
+* [9] C. P. Bean, Phys. Rev. Lett. **8**, 250 (1962).
+* [10] M. Tinkham, _Introduction to Superconductivity_ (McGraw-Hill, New York, 1975).
+* [11] T. Ishii and T. Yamada, Physica C **159**, 483 (1989).
+* [12] H. Adrian, W. Assumus, A. Hohr, J. Kowalewski, H. Spille, and F. Steglich, Physica C **162-164**, 329 (1989).
+* [13] M. W. McElfresh, Y. Yeshurun, A. P. Malozemoff, and F. Hotzberg, Physica A **168**, 308 (1990).
+* [14] B. Batlogg, T. T. M. Palstra, L. F. Schneemeyer, R. B. van Dover, and A. R. Cava, Physica C **153-155**, 1062 (1988).
+* [15] V. N. Kopylov, A. E. Koshelev, I. F. Schegolev, and T. G. Togonidze, Physica C **170**, 291 (1990).
+* [16] V. V. Metlushko, G. Guntherodt, V. V. Moschalkov, Y. Bruynseraede, and M. M. Lukina, Phys. Rev. B **47**, 8212 (1993).
+* [17] R. Job and M. Rosenberg, Physica C **172**, 391 (1991).
+* [18] V. M. Krasnov, V. A. Oboznov, and V. V. Ryazanov, Physica C **196**, 335 (1992).
+* [19] C. Politis, V. Buntar, and V. P. Seminozhenko, Int. J. Mod. Phys. B **7**, 2163 (1993).
+* [20] T. Koyama, N. Takezawa, and M. Tachiki, Physica C **168**, 69 (1990).
+* [21] V. M. Krasnov, Physica C **190**, 357 (1992).
+* [22] C. P. Bean and J. D. Livingston, Phys. Rev. Lett. **12**, 14 (1964).
+* [23] C. Bohmer (private communication).
+* [24] C. Politis, A. I. Sokolov, and V. Buntar, Phys. Rev. B **6**, 351 (1992).
+* [25] A. A. Abrikosov, Zh. Eksp Teor. Fiz. **32**, 1442 (1957) [Sov. Phys. JETP **5**, 1174 (1957)].
+* [26] Z. Hao and J. R. Chem. Phys. Rev. Lett. **67**, 2371 (1991).
+* [27] In order to check this supposition, we also analyzed our data using the logarithmic equation [Eq. (2)]. The data obtained at 24 and 25 K also give good agreement with Eq. (2) and lead to similar values for the penetration depth at zero temperature (\lambda\!\simeq\!300 nm), while the data obtained at 29 and 30 K do not fit the logarithmic behavior.
+* [28] A. I. Sokolov, Yu. A. Kuraev, and E. B. Sonin, Physica C **212**, 19 (1993).
+* [29] Y. J. Uemura, A. Keren, L. P. Le, G. M. Luke, B. J. Sterlieb, W. D. Wu, J. H. Brewer, and K. Holczer, Nature **325**, 605 (1991).
+
+ 

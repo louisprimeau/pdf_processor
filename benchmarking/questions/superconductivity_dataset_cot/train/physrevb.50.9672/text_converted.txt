@@ -1,0 +1,314 @@
+# Anomalous behavior of the complex conductivity of Y1-_x_Pr_Ba2Cu3O7
+observed with THz spectroscopy
+
+R. Buhleier, S. D. Brorson, I. E. Trofimov, J. O. White, H.-U.
+Habermeier,
+
+and J. Kuhl
+
+Max-Planck-Institut fur Festkorperforschung, D-70569 Stuttgart, Germany
+
+###### Abstract
+
+We have measured the complex conductivity of Y1-_x_Pr_Ba2Cu3O7
+single-crystal thin films using coherent THz spectroscopy. We obtain
+directly the London penetration depth, the plasma frequency o_(p) , and
+the quasiparticle scattering rate 1/_t_. We find that 1/_t_ drops
+rapidly with temperature below T_(c) in _all_ the superconducting
+samples, implying that this is a _signature_ of high-_T__c_
+superconductivity. o_(p) decreases with increasing x, indicating that Pr
+takes mobile carriers from the CuO planes. Both the THz and dc
+conductivity yield evidence for the opening of a spin gap _above_ T_(c)
+.
+
+The large body of vital spectroscopic data on the high-_T__c_
+superconducting compound YBa2Cu3O7-_d_ (YBCO) measured in the far
+infrared (FIR) as well as the GHz region has revealed many interesting
+features. Among them are: the presence of one1 or more2 energy gaps in
+the superconducting state, a temperature-dependent penetration depth
+that is indicative of _d_-wave pairing,3 and a quasiparticle scattering
+rate which is proportional to frequency in the normal state1 and which
+drops by four orders of magnitude at T_(c) .4
+
+The technique of THz-time-domain spectroscopy _bridges_ the gap between
+the FIR and the GHz regime. THz measurements of YBCO display a peak in
+the temperature dependence of s1 below T_(c) , which appears to be
+related to a temperature-dependent scattering rate 1/_t_ rather than to
+BCS coherence effects.5 Other experiments using the same technique have
+revealed that the penetration depth l_(L) , has a temperature dependence
+inconsistent with BCS theory.6
+
+Here we report results of a THz investigation into the
+Y1-_x_Pr_x_Ba2Cu3O7 (YPrBCO) system. These measurements are of great
+interest because samples covering a wide range of critical temperatures
+can be obtained simply by varying the Y/Pr ratio.7 Also, because YPrBCO
+is fully stoichiometric in the oxygen content, it is more homogeneous
+than oxygen-depleted YBCO and does not change from an orthorhombic to a
+tetragonal lattice upon decreasing T_(c) . Several mechanisms have been
+proposed for the T_(c) suppression, including magnetic pair breaking8
+and depletion of holes in the CuO2 planes.9
+
+Recently, the opening of a spin gap at temperatures above T_(c) in
+oxygen-deficient YBCO has been deduced from various experiments, e.g.,
+dc resistivity and Hall coefficient,10,11 neutron scattering,12 and NMR
+measurements.13 However, until now only few electromagnetic measurements
+on underdoped YBCO have been linked to the presence of a spin gap.1,14
+In this paper, we report evidence for a spin gap obtained from
+measurements _both_ at dc _and_ at THz frequencies in YPrBCO, which is
+consistent with Pr depleting holes from the CuO planes.9
+
+Our spectroscopic technique involves a coherent time-domain measurement
+of a ps microwave impulse _E_(_t_) transmitted through the sample.15 A
+Fourier transform yields the complex transmission spectrum _t_(_o_) and
+the complex conductivity _s_(_o_), without the use of Kramers-Kronig
+analysis. The London penetration depth l_(L)(_T_), the plasma frequency
+o_(p) in the clean limit, and the scattering time _t_(_T_) are obtained
+with the aid of a two-fluid model.
+
+The microwave source is a biased 30 _m_m transmitting antenna fabricated
+on low-temperature-grown GaAs, triggered with  100 fs optical pulses
+from a colliding-pulse mode-locked dye laser. The emitted microwave
+pulses have spectral components spanning the 0.1-1.0 THz spectral region
+which is difficult to access with conventional electronics.16 The
+receiver is a 30 _m_m antenna, fabricated on ion-implanted
+silicon-on-sapphire and gated with a second pulse from the laser. The
+receiver photocurrent is proportional to the incident microwave field.
+
+We investigated five YPrBCO samples having Pr composition x = 0.0, 0.2,
+0.3, 0.4, and 1.0. The films are grown by pulsed laser deposition17 onto
+NdGaO3 substrates. The film thicknesses are approximately 150 nm (Table
+1). NdGaO3 is the ideal substrate because it remains transparent and
+nondispersive over the entire spectral bandwidth of our pulses, as well
+as over the entire range of temperatures investigated here. The
+excellent lattice match of NdGaO3 to YPrBCO is a prerequisite for a low
+density of misfit dislocations on the film-substrate interfaces. The
+substrates have a (001) orientation, yielding $\hat{\bf c}$-oriented,
+twinned films. The critical temperatures T_(c) (Table 1) are determined
+from the temperature-dependent resistivity, as measured with a
+four-point probe.
+
+c c c c c c x & d (nm) & l_(L)(0) (nm) & _ω__p_ (cm−1) & _T__c_c (K) &
+_T__c_c (K)
+& & & & & (4-point probe) & (microwave)
+0.0 & 155 & 170 ± 10 & 9500 & 93 & 92
+0.2 & 134 & 350 ± 10 & 4560 & 68 & 72
+0.3 & 170 & 375 ± 7 & 4244 & 53 & 59
+0.4 & 170 & 590 ± 15 & 2693 & 40 & 41
+
+Table 1: Film thickness d, London penetration depth l_(L)(0), plasma
+frequency _ω__p_, dc-transition temperature _T__c_c_, and activation
+temperature _T__c_c_ for Y1-_x_Pr_x_Ba2Cu3O7 with x = 0, 0.2, 0.3, and
+0.4.
+
+The transition width (90-10
+
+To calculate the conductivity, we make use of the multiple reflection
+formula for the field transmitted through a layer of (complex) index n₂,
+thickness d, bounded by media of index n₁ and n₃:
+
+$$t(\omega)\!=\!\frac{t_{12}t_{23}\!\exp[\!\{n_{2}(\omega/c)\,d\}]}{1+r_{12}t_{2 }\!\exp[2\!\{2n_{2}(\omega/c)\,d\}]}\,,$$
+(1)
+
+where t_(ij) = 2n_(i)/(n_(i) + n_(j)) is the field transmission
+coefficient at the ijth interface, and
+r_(ij) = (n_(i) − n_(j))/(n_(i) + n_(j)) is the field reflection
+coefficient. In our geometry, n₁ represents vacuum,
+$n_{2}\!=\!\sqrt{1+i\sigma(\omega)}/(\epsilon_{0}\omega)$ is the index
+of the superconducting layer, and n₃ is the measured index of the
+substrate. As n₂(ω/c) d ≪ 1, and n₂ ≫ n₃ ≫ 1 in our samples, Eq. (1)
+reduces to
+
+$$t(\omega)=\frac{1+n_{3}}{1+n_{3}+Z_{0}\sigma(\omega)\,d}\,,$$
+(2)
+
+where Z₀ is the impedance of free space.
+
+The effect of varying Pr content x (hereafter [Pr]) on the conductivity
+spectra σ(ω) at T = 50 K is similar to the effect of varying the
+temperature for a given alloy (Fig. 1). The addition of Pr has at least
+two interrelated effects: (a) The suppression of T_(c) changes the
+partitioning between normal and superconducting carriers. (b) The total
+number of carriers N (or their mobility) may be reduced. To the extent
+that the superconducting carriers make the largest contribution to σ₂,
+both factors (a) and (b) lead one to expect that at a given temperature,
+pure YBCO would have the largest σ₂, and it does. Samples with 20
+
+Only normal carriers contribute to σ₁ for ω ≠ 0, but now factors (a) and
+(b) compete. At 50 K, σ₁ decreases with [Pr], therefore the effect of a
+reduction in N dominates the effect of the shift in T_(c) which
+increases the fraction of normal carriers. The data for pure YBCO and 20
+
+Examining σ₂ at a fixed frequency, e.g., 480 GHz (Fig. 2), we see that
+it is close to zero at high temperature, but rises sharply at the onset
+of superconductivity, thus providing
+
+Figure 2: (a) σ₂(T) and (b) σ₁(T) for Y_(1 − x)Pr_(x)Ba₂Cu₃O₇ at 480
+GHz. The dashed curves in (b) show 1/ρ^(*) (see text). The vertical
+lines indicate $T_{c}^{\rm sc}$. For clarity, the data for x = 0.3 in
+(b) have been multiplied by 1.5. The error bars for the alloys with
+x > 0 are comparable to the symbol size.
+
+an independent ac measurement of T_(c) (Table 1). In all of the
+superconducting alloys, below T_(c) , σ₁ displays a peak, which has been
+previously observed only in fully oxygenated YBCO using microwave
+techniques [58, 53] as well as by measuring the thermal conductivity
+[19]. It has been attributed to a sharp rise in the scattering time τ of
+normal carriers below T_(c) offsetting the decrease in the fraction of
+normal carriers, although coherence effects remain a possibility. For
+pure YBCO, the peak value is about 20 times higher than σ₁(100 K). With
+increasing [Pr] the peak height in σ₁ decreases but the temperature
+corresponding to the peak position does not shift significantly.
+
+The normal-state behavior of our samples is particularly interesting
+because _underdoped_ materials such as (124)YBCO and oxygen-deprived
+(123)YBCO undergo a phase transition associated with the opening of a
+spin gap at a temperature T_(D)>T_(c). Evidence for the presence of a
+spin gap has been seen in neutron scattering [12, 20], dc resistivity
+measurements [10, 11], and FIR reflectivity [14]. Recent experimental
+[21] and theoretical [9] work confirm that YPrBCO alloys are also
+underdoped, i.e., superconductivity is suppressed, because holes are
+removed from the CuO₂ planes.
+
+If the normal carriers couple strongly to spin fluctuations, the opening
+of a spin gap should be accompanied by an _increase_ in the scattering
+time τ, giving rise to an _enhancement_ in σ₁ below T_(D) for ω<1/τ. For
+pure (optimally doped) YBCO, at 480 GHz, σ₁ shows only a single
+transition at T_(c) [Fig. 2(b)]. For the (underdoped) alloys, σ₁ has two
+transitions, one at T_(c) , the other at a higher temperature which
+increases with [Pr]. To accentuate the two transitions, Fig. 2(b) is
+shaded in the region bounded by T_(c) , the experimental curve, and a
+dashed line representing 1/(α + βT) behavior.
+
+A second, higher transition temperature in the underdoped samples is
+also observed in the dc resistivity [Fig. 3(a)]. The transition is
+manifested as a deviation from a linear T dependence. To show the
+deviation more clearly, the resistivity is first fit to a line ρ =
+α + βT between 250 and 300 K, and then the experimental values are
+normalized to the value determined by the line as ρ^(*) = ρ/(α + βT).
+The normalized resistivity [Fig. 3(b)] of the YPrBCO alloys shows a
+transition occurring at a temperature above T_(c) similar to that which
+has been observed in underdoped YBCO, and connected to the opening of a
+spin gap [10, 11].
+
+For the evaluation of λ_(L) we are using a two-fluid model of the form
+
+$$\sigma(\omega)=\frac{e_{0}\omega_{p}^{2}\tau}{1-i\omega\tau}\,x_{n}+\frac{1}{ \mu_{0}\lambda_{L}^{2}}\biggl{(}-\pi\delta(\omega)+\frac{i}{\omega}\biggr{)}x _{s}\,,$$
+(3)
+
+where ω_(p) is the plasma frequency, and x_(n) and x_(s) are the
+fractions of normal and superconducting carriers, given by x_(n) + x_(s)
+= 1. We derive the penetration depth from a fit to Eq. (3). In our
+frequency range, we can ignore the Drude contribution to σ₂ for
+temperatures which are more than a degree below T_(c). As x_(n)=0 at T=
+0 in the two-fluid scenario, we have x_(s)=[λ_(L)(0)/λ_(L)(T)]². Shown
+in Fig. 4 is the measured [λ_(L)(0)/λ_(L)(T)]² vs T/T_(c)^(∞) for all
+samples. Also plotted are theoretical curves from weak-coupling BCS
+theory [22] and the functional form
+
+[λ_(L)(0)/λ_(L)(T)]² = 1  − (T/T_(c))^(α).
+(4)
+
+Power-law behavior in the dependence of λ_(L) on T for T→0 is one
+signature of "unconventional superconductivity," i.e., nodes in the
+energy gap in k space [23]. Our data are intermediate between BCS theory
+and α = 2, which is the exponent predicted for d-wave pairing with
+impurity scattering [24]. Microwave measurements at lower frequencies
+have indicated both α = 2 (Ref. [4]) and α = 1 (in the T→ 0 limit)
+corresponding to d-wave pairing in very high-quality samples [3, 25].
+The Gorter-Casimir two-fluid model (α = 4) [26], as well as d-wave
+pairing (α = 1) are clearly inconsistent with our data.
+
+λ_(L)(0) is obtained by extrapolating λ_(L)(T) to T = 0 using a
+quadratic regression (Table 1). Our value for pure YBCO, 170± 10 nm, is
+close to the 145 nm value typical for good samples [4]. λ_(L)(0)
+increases with increasing [Pr] as the samples become less
+superconducting.
+
+Figure 4: Normalized London penetration depth λ_(L)(T/T_(c)^(∞)) for
+Y${}_{1-$Pr_(x)Ba₂Cu₃O₇. Also shown are curves corresponding to the
+predictions of BCS theory (solid line), as well as to the functional
+form (4) for α = 1 (dash-dotted line), 2 (dashed line), and 4 (dotted
+line).
+
+The plasma frequency ω_(p) (Table 1) is determined with the relation
+ω_(p) = c/λ_(L)(0), which is valid in the clean limit, provided all
+carriers are superconducting at T = 0. The clean limit assumption
+becomes less valid upon substitution of Pr, therefore the values for the
+alloys are only estimates. Our value of 9500 cm⁻¹ in pure YBCO is close
+to the 12 000 cm⁻¹ value indicative of good sample quality.[2]
+
+The quasiparticle scattering rate 1/τ is calculated by fitting Eq. (3)
+to the data for σ₁ and using, for x_(n), the relation
+x_(n) = 1 − x_(s) = 1 − [λ_(L)(0)/λ_(L)(T)]². We find that 1/τ decreases
+slowly with decreasing temperature until T ∼ T_(c), after which it
+decreases exponentially rapidly (Fig. 5), possibly reflecting the
+opening up of a gap in the fluctuation spectrum. Similar behavior has
+been reported in YBCO samples.[4] The scattering rate 1/τ reveals an
+exponential decay below T_(c) by more than two orders of magnitude for
+all samples with different [Pr].[27] Thus we are led to conclude that
+this behavior is a universal feature of high-T_(c) superconductivity.
+
+For T  > T_(c), we find the surprising result that 1/τ decreases with
+[Pr] implying that alloy scattering plays a negligible role, and that
+depletion of carriers in the CuO₂ planes dominates the scattering. It
+should be noted, however, that the drop in 1/τ with [Pr] may be due to
+an underestimate of ω_(p), if the clean limit assumption breaks down for
+the alloys. A more precise determination of the scattering rate
+dependence on [Pr] above T_(c) is beyond the scope of this paper.
+
+In conclusion, we have presented complex conductivity experiments in the
+THz range on thin films of Y_(1 − x)Pr_(x)Ba₂Cu₃O₇. σ₁(T) reveals the
+anomalous coherence peak for all superconducting alloys. Both the
+conductivity in the THz region and dc resistivity measurements provide
+evidence for the opening of a spin gap in the excitation spectrum of the
+underdoped samples. σ₂(ω, T) yields directly the penetration depth. For
+the superconducting YPrBCO alloys the plasma frequency ω_(p) in the
+clean limit decreases with [Pr] above T_(c) due to a reduced number of
+carriers. The temperature-dependent quasiparticle scattering rate 1/τ(T)
+shows an exponential drop below T_(c) in all the alloys. These
+observations fit into the picture of Pr suppressing superconductivity by
+reduction of the mobile carrier concentration in the superconducting
+CuO₂ planes.
+
+We acknowledge discussions with L. Genzel, A. Bussmann-Holder, P.
+Horsch, I. Mazin, T. Timusk, J.P. Carbotte, P. Littlewood, and S.
+Anlage. S.D.B. and J.O.W. acknowledge support by the Alexander von
+Humboldt Foundation.
+
+## References
+
+* [1] L. D. Rotter _et al._, Phys. Rev. Lett. **67**, 2741 (1991). * [2]
+L. Genzel, M. Bauer, H. U. Habermeier, and E. H. Brandt, Z. Phys. B
+**90**, 3 (1993). * [3] W. N. Hardy _et al._, Phys. Rev. Lett. **70**,
+3999 (1993). * [4] D. A. Bonn _et al._, Phys. Rev. B **47**, 11 314
+(1993). * [5] M. C. Nuss _et al._, Phys. Rev. Lett. **66**, 3305
+(1991). * [6] S. D. Brorson _et al._, Phys. Rev. B **49**, 6185
+(1994). * [7] H. B. Radousky, J. Mater. Res. **7**, 1917 (1992). * [8]
+G. Y. Guo and W. M. Temmermann, Phys. Rev. B **41**, 6372 (1990). * [9]
+R. Fehrenbacher and T. M. Rice, Phys. Rev. Lett. **70**, 3471 (1993). *
+[10] B. Bucher _et al._, Phys. Rev. Lett. **70**, 2012 (1993). * [11] T.
+Ito, K. Takenaka, and S. Uchida, Phys. Rev. Lett. **70**, 3995 (1993). *
+[12] J. Rossat-Mignod _et al._, Physica B **169**, 58 (1991). * [13] H.
+Alloul, T. Ohno, and P. Mendels, Phys. Rev. Lett. **63**, 1700 (1989). *
+[14] C. C. Homes _et al._, Phys. Rev. Lett. **71**, 1645 (1993). * [15]
+D. Grischkowsky, S. Keiding, M. van Exter, and C. Fattinger, J. Opt.
+Soc. Am. **7**, 2006 (1990). * [16] A. A. Volkov _et al._, Sov. Phys.
+JETP **68**, 148 (1989). * [17] H. U. Habermeier _et al._, Physica C
+**180**, 17 (1991). * [18] D. A. Bonn, P. Dosanith, R. Liang, and W. N.
+Hardy, Phys. Rev. Lett. **68**, 2390 (1992). * [19] R. C. Yu _et al._,
+Phys. Rev. Lett. **69**, 1431 (1992). * [20] P. M. Gehring _et al._,
+Phys. Rev. B **44**, 2811 (1991). * [21] K. Takenaka _et al._, Phys.
+Rev. B **46**, 5833 (1992). * [22] B. Muhlschlegel, Z. Phys. **155**,
+313 (1959). * [23] M. Sigrist and K. Ueda, Rev. Mod. Phys. **63**, 239
+(1991). * [24] P. Monthoux and D. Pines, Phys. Rev. B **47**, 6069
+(1993). * [25] Z. Ma _et al._, Phys. Rev. Lett. **71**, 781 (1993). *
+[26] C. J. Gorter and H. G. B. Casimir, Phys. Z. **35**, 963 (1934). *
+[27] Following O. Klein [Phys. Rev. Lett. **72**, 1390 (1994)], we
+cannot be certain about the exact form of 1/τ near T_(c), as our model,
+which includes no direct absorption, breaks down near T_(c) when the gap
+goes to zero. Nevertheless, our model is good outside the region right
+below T_(c), and the magnitude of the drastic change in 1/τ is still
+valid.
+
+Figure 5: Quasiparticle scattering rate 1/τ(T) for
+Y_(1 − x)Pr_(x)Ba₂Cu₃O₇ at 480 GHz.

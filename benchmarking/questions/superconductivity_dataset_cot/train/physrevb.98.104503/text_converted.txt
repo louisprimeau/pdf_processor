@@ -1,0 +1,751 @@
+# Anisotropic superconductivity and magnetism in single-crystal
+RbEuFe₄As₄
+
+M. P. Smylie
+
+1 Materials Science Division, Argonne National Laboratory, 9700 S. Cass
+Avenue, Argonne, Illinois 60439, USA Department of Physics, University
+of Notre Dame, Notre Dame, Indiana 46556, USA
+
+K. Willa
+
+Materials Science Division, Argonne National Laboratory, 9700 S. Cass
+Avenue, Argonne, Illinois 60439, USA
+
+J.-K. Bao
+
+Materials Science Division, Argonne National Laboratory, 9700 S. Cass
+Avenue, Argonne, Illinois 60439, USA
+
+K. Ryan
+
+Department of Physics, University of Illinois at Urbana-Champaign,
+Urbana, Illinois 61801, USA
+
+Z. Islam
+
+Advanced Photon Source, Argonne National Laboratory, 9700 S. Cass
+Avenue, Lemont, Illinois 60439, USA
+
+H. Claus
+
+Materials Science Division, Argonne National Laboratory, 9700 S. Cass
+Avenue, Argonne, Illinois 60439, USA
+
+Y. Simsek
+
+Materials Science Division, Argonne National Laboratory, 9700 S. Cass
+Avenue, Argonne, Illinois 60439, USA
+
+Z. Diao
+
+Laboratory of Mathematics, Physics and Electrical Engineering, Halmstad
+University, SE-301 18 Halmstad, Sweden Department of Physics, Stockholm
+University, SE-106 91 Stockholm, Sweden
+
+A. Rydh
+
+Department of Chemistry, Northwestern University, Evanston, Illinois
+60208, USA
+
+A. E. Koshelev
+
+Materials Science Division, Argonne National Laboratory, 9700 S. Cass
+Avenue, Argonne, Illinois 60439, USA
+
+W.-K. Kwok
+
+Materials Science Division, Argonne National Laboratory, 9700 S. Cass
+Avenue, Argonne, Illinois 60439, USA
+
+D. Y. Chung
+
+Materials Science Division, Argonne National Laboratory, 9700 S. Cass
+Avenue, Argonne, Illinois 60439, USA
+
+M. G. Kanatzidis
+
+Materials Science Division, Argonne National Laboratory, 9700 S. Cass
+Avenue, Argonne, Illinois 60439, USA Department of Physics, University
+of Illinois at Urbana-Champaign, Urbana, Illinois 61801, USA
+
+U. Welp
+
+Department of Physics, Stockholm University, SE-106 91 Stockholm, Sweden
+Department of Chemistry, Northwestern University, Evanston, Illinois
+60208, USA
+
+Footnote 1: Electronic address: Department of Physics, University of
+Illinois at Urbana-Champaign, Urbana, Illinois 61801, USA
+
+Received 11 May 2018; published 5 September 2018
+
+###### Abstract
+
+We investigate the anisotropic superconducting and magnetic properties
+of single-crystal RbEuFe₄As₄ using magnetotransport and magnetization
+measurements. We determine a magnetic ordering temperature of the Eu
+moments of T_(m) = 15 K and a superconducting transition temperature of
+T_(c) = 36.8 K. The superconducting phase diagram is characterized by
+high upper critical field slopes of −70 and −42 kG/K for in-plane and
+out-of-plane fields, respectively, and a surprisingly low
+superconducting anisotropy of Γ = 1.7. Ginzburg-Landau parameters of
+κ_(c) ∼ 67 and κ_(ab) ∼ 108 indicate extreme type-II behavior. These
+superconducting properties are in line with those commonly seen in
+optimally doped Fe-based superconductors. In contrast, Eu magnetism is
+quasi-two dimensional (2D), as evidenced by highly anisotropic in-plane
+and out-of-plane exchange constants of 0.6 K and <0.04 K. A consequence
+of the quasi-2D nature of the Eu magnetism are strong magnetic
+fluctuation effects, a large suppression of the magnetic ordering
+temperature as compared to the Curie-Weiss temperature, and a kinklike
+anomaly in the specific heat devoid of any singularity. Magnetization
+curves reveal a clear magnetic easy-plane anisotropy with in-plane and
+out-of-plane saturation fields of 2 and 4 kG.
+
+pacs: DOI: 10.1103/PhysRevB.98.104503
+
+## I Introduction
+
+Europium-containing Fe-based superconducting materials have emerged as
+model systems for the study of the interplay of magnetism and
+superconductivity [1,2]. They are the latest members of a family of
+superconductors in which superconductivity coexists with complete,
+magnetically ordered sublattices of local rare-earth (R) moments such as
+RRh₄B₄[3], RMo₈S₈[4,5], and the nickel borocarbides [6]. It is believed
+that in these compounds the magnetic moments and the superconducting
+electrons reside in different, essentially isolated sublattices,
+enabling the existence of superconductivity despite the high
+concentration of localized magnetic moments [6,7]. Among these, the
+europium-containing Fe-based superconducting materials stand out since
+they display simultaneously high magnetic ordering temperatures (15-20
+K) and superconducting transition temperatures in excess of 30 K,
+implying sizable magnetic exchange interactions in the presence of
+strong superconducting pairing. Extensive work on EuFe₂As₂
+(Eu-122)-derived compounds has shown that the nonsuperconducting parent
+compound undergoes a spin-density-wave (SDW) transition of the Fe
+magnetic moments near 195 K [8], and near T_(m) ∼ 19 K a transition of
+the Eu moments into a type-A antiferromagnetic state in which
+ferromagnetically ordered Eu sheets are coupled antiferromagnetically
+along the c axis [9]. A similar magnetic structure has been found in the
+low-temperature phases of the Ho, Dy, and Pr borocarbides [10]. Upon the
+application of pressure [11,12] or doping with, among others, P [13,14],
+K [15,16,17], and Na [18,19], the SDW transition of Eu-122 is suppressed
+and superconductivity emerges at temperatures reaching up to T_(c) ∼ 30
+K. At the same time, the Eu moments in the case of
+EuFe₂(As_(1 − x)P_(x))₂ rotate from the ab plane close to the c axis
+[20]; however, T_(c) stays largely unaltered inside the superconducting
+dome. This apparent decoupling of the magnetic Eu sublattice from the
+superconducting electrons has been attributed to the multiorbital nature
+of the Fe-based superconductors in which magnetic exchange interactions
+and superconductivity are mediated by different groups of electrons and
+to the high upper critical fields that can withstand internal exchange
+and dipolar fields [2,21]. In addition, due to the crystal structure of
+EuFe₂As₂-based materials (see Fig. 1), partial cancellation of exchange
+and dipolar fields may arise at the location of the Fe atoms.
+
+In this regard, the recent discovery of superconductivity in RbEuFe₄As₄
+and CsEuFe₄As₄[22,23,24,25] is significant, since in these materials the
+asymmetric environment of the Fe₂As₂ layers (see Fig. 1) precludes any
+cancellation effects. Nevertheless, T_(c) reaches 37 K, among the
+highest values of all 122-type materials, and exceeds the values of the
+nonmagnetic sister compounds CaKFe₄As₄ (T_(c) = 35 K) [26] and
+(La,Na)(Cs,Rb)Fe₄As₄ (T_(c) ∼ 25 K) [27]. This is in contrast to the
+behavior of nickel borocarbides for which the incorporation of magnetic
+rare-earth ions leads to a clear suppression of T_(c) as compared to a
+nonmagnetic rare-earth ion [6]. RbEuFe₄As₄ and CsEuFe₄As₄ are
+intrinsically doped to 0.25 holes/Fe atom such that in the
+stoichiometric material an electronic structure arises that closely
+corresponds to optimal doping in 122 materials. Furthermore, a recent
+study [28] revealed that upon Ni substitution on the Fe site, T_(c) is
+suppressed to zero and the SDW reemerges, while at the same time T_(m)
+is unchanged; similarly, Ca substitution on the Eu site [29] suppresses
+T_(m) without changing T_(c), demonstrating the almost complete
+decoupling of the Eu sublattice from superconductivity.
+
+Here we present a study of the anisotropic superconducting and magnetic
+properties of single-crystal RbEuFe₄As₄. Using magnetotransport and
+magnetization measurements, we determine a magnetic ordering temperature
+of the Eu moments of T_(m) = 15 K and a superconducting transition
+temperature of T_(c) = 36.8 K. The superconducting phase diagram is
+characterized by high upper critical field slopes of
+d H_(c2)^(ab)/d T = −70 kGe/K, dH_(c2)^(c)/dT = −42kGe/K, and a
+surprisingly low superconducting anisotropy of Γ = 1.7. Ginzburg-Landau
+(GL) parameters of κ_(c) ∼ 67 and κ_(ab) ∼ 108 indicate extreme type-II
+behavior. These superconducting properties are in line with those
+commonly seen in optimally doped Fe-based superconductors. In contrast,
+Eu magnetism is highly anisotropic quasi-two dimensional (2D), as
+evidenced by anisotropic in-plane and out-of-plane exchange constants of
+0.6 and <0.04 K, respectively. Consequences of the quasi-2D nature of
+the Eu magnetism are strong magnetic fluctuation effects, a negative
+magnetoresistance in high fields and at temperatures well above T_(c), a
+large suppression of the magnetic ordering temperature as compared to
+the Curie-Weiss temperature, and a kinklike anomaly in the specific
+heat. Magnetization curves reveal a clear magnetic easy-plane anisotropy
+with in-plane and out-of-plane saturation fields of 2 and 4 kOe,
+respectively.
+
+## II Experimental Methods
+
+High-quality single crystals of RbEuFe₄As₄ were grown using RbAs flux
+[30], yielding thin flat plates with sizes of up to 0.8 × 0.8 mm × 60 μm
+with the tetragonal c axis (001) perpendicular to the plate and the
+tetragonal (110) and (1$\bar{1}$0) orientations parallel to the edges.
+For magnetotransport measurements, thin bars were cut from plates and
+gold wires were then attached with silver epoxy onto bar-shaped samples
+in a standard four-point configuration. For c-axis current measurements,
+sets of two contacts were placed on the top and bottom faces of the
+single crystal, roughly equally spaced. Magnetotransport measurements
+were performed in a 90-10-10 kG three-axis superconducting vector
+magnet, avoiding the need for mechanically rotating or reomounting the
+samples, and magnetization measurements were performed on both zero
+field-cooling (ZFC) and field-cooling (FC) in a Quantum Design MPMS-7
+system with samples attached to a quartz rod or quartz fiber. The
+specific heat of RbEuFe₄As₄ single crystals was measured using a
+membrane-based ac nanocalorimeter [31, 32].
+
+X-ray diffraction (XRD) and specific heat measurements revealed
+single-phase material without EuFe₂As₂ inclusions [30]. At room
+temperature, RbEuFe₄As₄ has a simple-tetragonal crystal structure
+(P4/mmm space group) with one formula unit per unit cell and lattice
+constants of a = 3.882 A and c = 13.273 A (see Fig. 1). The large
+difference in ionic sizes of the Eu and Rb ions induces their
+segregation into sheets. The formal valence count reveals that
+RbEuFe₄As₄ is intrinsically doped to 0.25 holes/Fe atom. In contrast,
+the EuFe₂As₂ parent compound is at room temperature
+body-centered-tetragonal (I4/mmm space group) containing two formula
+units per tetragonal unit cell.
+
+## III Results and Discussion
+
+### Specific heat
+
+We evaluate the phase transitions occurring in single-crystal RbEuFe₄As₄
+using zero-field specific heat measurements such as shown in Fig. 2[30].
+A clear kink in C/T at T_(m) ∼ 15 K signals the magnetic transition,
+whereas a step in C/T at
+
+Figure 2: Temperature dependence of C/T in zero-field specific heat of
+RbEuFe₄As₄. A clearly resolved kink at T_(m) = 15 K and a step at
+T_(c) = 36.8 K mark the magnetic and superconducting transitions,
+respectively. The inset shows the superconducting specific heat near the
+transition on enlarged scales. The lines illustrate the
+entropy-conserving construction.
+
+Figure 1: (L) Crystal structure (P4/mmm) of RbEuFe₄As₄, with 2D sheets
+of Rb (green) and Eu (red) separated by Fe₂As₂ blocks. (R) Crystal
+structure (I4/mmm) of the parent compound EuFe₂As₂.
+
+T_(c) ∼ 36.8 K is the signature of the superconducting transition. Our
+samples do not display an additional feature in the specific heat near 5
+K that has been reported on polycrystalline samples [24,25] and was
+interpreted as signature of a transformation of a
+Fulde-Ferrell-Larkin-Ovchinnikov state into a spontaneous vortex state.
+We observe a fairly large step size of ΔC/T_(c) = 0.21 J/mol K² at the
+superconducting transition as determined from the entropy-conserving
+construction (inset of Fig. 2). In single-band weak-coupling BCS theory,
+this step size corresponds to a large coefficient of the normal-state
+electronic specific heat of γ_(n) = ΔC/1.43T_(c) = 147 mJ/mol K².
+Similar values have recently been reported for polycrystalline
+RbEuFe₄As₄ samples [24], as well as for crystals of the nonmagnetic
+sister compound CaKFe₄As₄[26]. In single-band weak-coupling BCS theory,
+the normalized discontinuity of the slopes of the specific heat at
+T_(c), (T_(c)/ΔC) * [Δ(dC/dT)]|_(T_(c)), has a universal value of 2.64.
+Strong-coupling and multiband effects modify this value, as seen, for
+example, in Pb, for which a slope discontinuity of 4.6 has been reported
+[33] and the two-band superconductor MgB₂ for which a value of 3.35 can
+be deduced [34], respectively. From the data in Fig. 2 we obtain a very
+large value of (T_(c)/ΔC) * [Δ(dC/dT)]|_(T_(c)) ∼ 6.9, which is similar
+to Ba_(1 − x)K_(x)Fe₂As₂[35] and indicative of strong-coupling effects.
+
+The kinklike feature at the magnetic transition does not display
+signatures commonly associated with a second-order transition, i.e., a
+step such as seen at the superconducting transition, or a singularity.
+This observation is in agreement with previous reports on
+polycrystalline RbEuFe₄As₄[24] and CsEuFe₄As₄[25] samples, where,
+following the Ehrenfest classification of phase transitions, it has been
+attributed to a third-order phase transition. As discussed in more
+detail below, such a shape of the specific heat anomaly can also arise
+from strong magnetic fluctuations and reduced dimensionality. The
+kink-shaped specific heat anomaly reported here is in contrast to the
+behavior seen in EuFe₂As₂, which shows a typical singular variation in
+the specific heat at the magnetic transition [8,13,36,37,38].
+
+As shown in Fig. 1, an important difference between RbEuFe₄As₄ and
+EuFe₂As₂ is that in RbEuFe₄As₄ the distance between Eu layers is twice
+as large as in EuFe₂As₂, suggesting that reduced dimensionality and
+strong fluctuation effects lead to the marked difference in the specific
+heat signatures. In fact, due to the highly anisotropic exchange
+constants and the easy-plane magnetic anisotropy described in more
+detail below, the magnetism of Eu may be quasi-2D in RbEuFe₄As₄,
+exhibiting 2D-XY criticality and Berezinskii-Kosterlitz-Thouless
+behavior [39,40], while in EuFe₂As₂ it is more 3D-like, and more
+accurately described by a 3D-XY model accompanied by a singular specific
+heat as seen in experiment. Nevertheless, the measured kink in the
+specific heat (Fig. 2) is too sharp as compared to the predictions of
+the 2D-XY model [40]. However, Monte Carlo simulations of the 2D-to-3D
+crossover in the XY model clearly reveal the reemergence of the
+singularity in the specific heat with increasing 3D coupling [41],
+indicating quasi-2D behavior in the data of Fig. 2. Similarly, kinklike
+specific heat transitions arise in quasi-2D anisotropic Heisenberg
+models that depend on the coupling strength in the third direction [42].
+A detailed examination of these phenomena is currently underway.
+
+On decreasing temperature, the C/T data display a pronounced downward
+curvature. This feature, not seen on samples whose specific heat is
+dominated by the electronic and phonon contributions, has been reported
+for various high-spin systems [43,44]. It does not represent a phase
+transition, but qualitatively, it arises from the crossover from the
+quantum regime at low temperatures for which C approaches zero at zero
+temperature to the classical regime in which C(T = 0) would be finite.
+This crossover is particularly sharp in high-S systems, since these
+follow classical behavior over most of the temperature range, and it is
+absent in S = 1/2 systems, as these are purely quantum mechanical.
+
+### Magnetic properties
+
+We determine the magnetic state of RbEuFe₄As₄ using measurements of the
+field-cooled and zero-field-cooled temperature dependence, as well as
+the field dependence of the magnetization in fields applied along the ab
+planes and the c axis. In contrast to EuFe₂As₂, the magnetic transition
+of the Eu ions occurs deep in the superconducting state. Therefore,
+magnetization data at low temperatures, especially ZFC data and data for
+which H/c, contain contributions from superconducting vortices as well
+as from Eu moments.
+
+The inset of Fig. 3(a) shows the temperature dependence of the magnetic
+susceptibility, χ = M/H, measured in FC and ZFC conditions in several
+fields applied parallel to the in-plane (100) direction. The large
+diamagnetic signal observed near 37 K in the ZFC data marks the
+superconducting transition. The magnetic transition is seen as a clear
+cusp near T_(m) = 15 K, most notably in the ZFC data, whereas on field
+cooling, the susceptibility attains an almost temperature-independent
+value at the magnetic transition. In the case of EuFe₂As₂, similar
+magnetization behavior has been shown to arise from a transition into a
+type-A antiferromagnetic state. We note, however, that the actual
+magnetic ground state of RbEuFe₄As₄ is not known at present and that
+data such as shown in Fig. 3 are not able to establish it. For instance,
+EuCo₂P₂, which has the same crystal structure as Eu-122, displays
+magnetic behavior similar to that in Fig. 3, although a helical
+antiferromagnetic structure has been proposed for this material [45].
+Furthermore, the data in Fig. 3 would also be consistent with a magnetic
+structure comprising a large net in-plane ferromagnetic component, as
+suggested by recent Mossbauer experiments on polycrystalline
+RbEuFe₄As₄[46] and which could be expected on the basis of the doubling
+of the Eu-layer spacing [25] (see further discussion below).
+
+Also included in the inset of Fig. 3(a) are data (green open circles)
+obtained following FC in 10 G after the sample was warmed on a ZFC run
+in 10 G up to 20 K, showing that it is not required to pass through the
+superconducting transition in order to induce the ferromagneticlike
+state. We note that, in general, this FM-like state is induced on field
+cooling in relatively low fields. The main panel in Fig. 3(a) displays
+the temperature dependence of the susceptibility measured after field
+cooling in a field of 1 kG applied along the three crystal axes. Under
+FC conditions for which the effects due to vortex pinning are small, we
+observe a large anisotropy in the low-temperature susceptibility with
+χ_(ab) ≫ χ_(c), revealing a pronounced easy-plane anisotropy of the Eu
+moments, similar to EuFe₂As₂, and in agreement with the results of
+Mossbauer experiments [46]. The data also show that a possible in-plane
+magnetic anisotropy is comparatively very weak.
+
+In higher fields [Fig. 3(b)], the difference between χ_(ab) and χ_(c)
+diminishes, indicating that magnetic saturation is approached. Below the
+ordering temperature, χ_(c) slightly decreases with decreasing
+temperature because the growing magnetic anisotropy pulls the Eu moments
+towards the planes. The data above 50 K are well described by a
+Curie-Weiss law χ(T) = χ₀ + C/(T − Θ_(C)), yielding for the (100), (110)
+and (001) directions values of Θ_(C) of 24.18 K, 23.81 K, and 22.32 K,
+respectively, and values for C of 7.476, 7.524, and 7.404 emu K/mol G,
+respectively. With μ_(eff) = 2.827 * C^(1/2), we find an effective
+moment of ∼7.75 μ_(B) per Eu ion. This value is close to the expected
+Eu²⁺ effective moment of $\mu_{eff}=g\mu_{B}\sqrt{S(S+1)}=7.94$μ_(B)/Eu
+(with g = 2 and S = 7/2), indicating that essentially all Eu ions are in
+the 2⁺ state. The positive value of the Curie-Weiss temperature signals
+predominantly ferromagnetic interactions between the Eu moments
+consistent with a type-A antiferromagnetic structure. We observe a
+sizable reduction of the magnetic ordering temperature of RbEuFe₄As₄
+(T_(m) = 15 K, Θ_(C) = 23 K) as compared to Eu-122, for which a
+Curie-Weiss temperature of Θ_(C) ∼ 21 K and a magnetic ordering
+temperature T_(m) ∼ 19 K have been determined [47]. We attribute this
+difference to the reduced dimensionality and strong magnetic
+fluctuations in RbEuFe₄As₄, while in Eu-122, which has the same layered
+spin arrangement albeit with half the distance of that in RbEuFe₄As₄,
+magnetic fluctuations have a relatively reduced effect consistent with
+the more conventional form of the specific heat anomaly as discussed
+above.
+
+The values for χ₀ are 3.4 × 10⁻³ emu/mol G for the in-plane orientations
+and 3.1 × 10⁻³ emu/mol G for the c axis, representing anisotropic
+contributions from temperature-independent Pauli paramagnetism or van
+Vleck magnetism.
+
+The insets of Figs. 4(a) and 4(b) show magnetization hysteresis loops
+measured at 5 K in H // (001) and H // (110). The superposition of a
+ferromagnetic-like signal and a hysteretic superconducting signal is
+clearly seen, especially for H // (001). This is expected due to the
+large sample cross section and high critical current density for this
+field orientation. Assuming that the superconducting hysteresis is
+symmetric around the equilibrium magnetization curve and that effects
+due to the hysteresis of the Eu magnetism are small (as is indicated by
+results on EuFe₂As₂[47]), we extract the magnetization curve of the Eu
+sublattice as (M₊ + M⁻)/2, where M₊ (M⁻) is the magnetization measured
+in increasing (decreasing) applied field. The results, shown in the main
+panels of Figs. 4(a) and 4(b) for in-plane and out-of-plane field
+orientations, reveal ferromagnetic magnetization curves with a
+saturation magnetization of ∼320 emu/cm³ at 5 K, corresponding to 6.7
+μ_(B)/Eu, slightly less than the expected full moment of 7 μ_(B)/Eu. The
+comparison of magnetization curves measured along the three crystal axes
+[Fig. 4(c)] reveals a clear anisotropy in the approach to saturation,
+with the saturation fields of H // (110) and (100) being substantially
+smaller than for H // (001), while there is no discernible in-plane
+anisotropy. However, since the sample is platelike, such in-plane versus
+out-of-plane anisotropy may arise simply from demagnetization effects.
+The dashed lines in Fig. 4 indicate the corresponding demagnetization
+fields obtained by approximating the sample as an ellipsoid,
+demonstrating that the intrinsic saturation fields are indeed
+anisotropic with $H_{\rm sat}^{ab}\sim 2.1$ kG and
+$H_{\rm sat}^{c}\sim 4.2$ kG, consistent with easy-plane magnetic
+anisotropy. Eu²⁺ has a spin-only magnetic moment, and therefore, crystal
+electric field effects are not important in determining the single-ion
+magnetic anisotropy. In the case of Eu-122 it has been suggested [48]
+that dipolar interactions give rise to the easy-plane magnetic
+anisotropy.
+
+In a model of a type-A antiferromagnet, the in-plane magnetization
+curves for which demagnetization effects are negligible allow for an
+estimate of the antiferromagnetic interlayer exchange constant J^(′).
+Neglecting a weak in-plane anisotropy, the magnetization curve for this
+orientation is given by M/M_(s) = H/H_(af)[49], where
+gμ_(B)H_(af) = 2z^(′)|J^(′)|S defines the antiferromagnetic exchange
+field H_(af), and z^(′) = 2 is the number of nearest neighbors along the
+c axis yielding J^(′) ∼ −0.04 K. This value may be largely overestimated
+as c ≫ a (see Fig. 1), and the distance to the next-nearest neighbors
+
+Figure 3: Inset of panel (a): Temperature dependence of the
+susceptibility measured on FC (solid squares) and ZFC (solid diamonds)
+in 10 G (green symbols) and 100 G (yellow symbols) applied along the
+(100) direction. The open green circles are FC data in 10 G after
+warming to 20 K. Panels (a) and (b): Temperature dependence of the
+susceptibility after field cooling in a field of 1 and 10 kG along the
+(100), (110), and (001) directions. At temperatures above 50 K, the data
+are well described by the Curie-Weiss expression
+χ(T) = χ₀ + C/(T − Θ_(C)).
+
+along the c axis is only 4
+
+### **C. Resistivity**
+
+Figure 5 shows the temperature dependence of the in-plane (ρ_(ab)) and
+c-axis (ρ_(c)) electrical resistivities of RbEuFe₄As₄
+
+Figure 4: Magnetization of the Eu sublattice vs applied field for (a) H
+// (110) and (b) H // (001) at various temperatures. The insets in (a)
+and (b) show the as-measured magnetization hysteresis loops. (c) A
+comparison of the magnetization at 5 K measured along the three crystal
+axes. The dashed lines represent the demagnetization fields due to the
+platelike sample geometry.
+
+Figure 5: Temperature dependence of the in-plane and out-of-plane
+resistivities of RbEuFe₄As₄. The anisotropy changes from ∼4 at 200 K to
+∼8 near T_(c).
+
+measured with i = 1 mA. The residual resistivity ρ_(ab)(0) is estimated
+at approximately 15 μΩ cm, indicating high-quality material. ρ_(ab) and
+ρ_(c) are metallic, a feature seen in other 1144-type and 122-type
+superconductors [26,53]. The resistivity anisotropy increases from ∼4
+near 200 K to about 8 at T_(c), similar to the behavior of nonmagnetic
+CaKFe₄As₄[26]. Such temperature-dependent anisotropy could arise in a
+multiband system in which carriers in the different bands have different
+mobilities with different temperature dependences. In all samples
+studied, there is a sharp drop in the resistivity at the superconducting
+transition temperature of T_(c)∼ 36.5-36.8 K, with a transition width of
+0.5 K or less. The sharp feature at the top of the c-axis resistive
+transition arises from nonideal contact geometry and the redistribution
+of the current flow at the superconducting transition [54]. Below T_(c)
+down to 1.6 K, we do not observe a reentrant resistive state associated
+with the onset of magnetic order of the Eu sublattice, unlike observed
+in other Eu-containing iron arsenides such as Eu(Fe_(1 − x)Ir_(x))₂As₂
+and EuFe₂As₂ (under pressure) [55, 56, 57] or in several borocarbide
+superconductors [6,7]. Our finding is consistent with very weak coupling
+of Eu magnetism and superconductivity in RbEuFe₄As₄.
+
+To study the superconducting anisotropy, resistivity measurements with
+applied magnetic field parallel to the (1$\bar{1}$0) (ab plane) or the
+(001) (c-axis) directions were performed (Fig. 6). Figures 6(a) and 6(b)
+show resistivity measurements up to 9 T with an ab-planar current of 1
+mA, with the field parallel to c and parallel to ab, respectively, on
+the same single crystal of RbEuFe₄As₄. In both cases, the field was
+perpendicular to the current. A modest anisotropy, the rather large
+slopes of H_(c2)(T), and negative normal-state magnetoresistance are all
+immediately noticeable. Figures 6(c) and 6(d) show resistivity
+measurements with 1 mA parallel to the c axis on a separate crystal,
+with the field parallel to c and ab, respectively. The results are
+qualitatively the same as for ab planar current.
+
+The resistivity data corresponding to the normal state in Fig. 6 reveal
+a negative magnetoresistance (MR). Figure 7 shows measurements of the
+isothermal transverse MR, Δρ/ρ(H = 0) = (ρ(H) − ρ(H = 0))/ρ(H = 0), for
+H // (001) and H // (1$\bar{1}$0) at various temperatures with current
+along (110). For H // (1$\bar{1}$0), the field and current were
+perpendicular. The MR was obtained by slowly sweeping the applied
+magnetic field from →9 to 9 T and by evaluating the symmetric part of
+the signal in order to eliminate
+
+Figure 6: Temperature and field dependence of the resistivity for
+various field and current configurations. (a, b) Current in-plane and
+field applied along the c axis and parallel to the ab planes,
+respectively. (c, d) c-axis current and field applied along the c axis
+and the ab planes.
+
+spurious contributions from the Hall effect in nonideal contact
+geometries. Measurements at currents of 1 mA and 0.1 mA yielded the same
+results. We observe a clearly discernible negative transverse MR at
+temperatures above T_(c), that is, in the paramagnetic state of the Eu
+ions. With increasing temperature the MR decreases rapidly. A negative
+MR has been observed previously in EuFe₂As₂[47, 58] in the magnetically
+ordered and paramagnetic states of the Eu sublattice, and has been
+attributed to the suppression of electron scattering by Eu spin
+fluctuations. An analysis based on the Yamada-Takada model [59] yielded
+a quantitative description of the effect [58]. The observation of a
+large magnetic contribution to the specific heat in high fields and at
+high temperatures [23, 24] reveals sizable spin fluctuations at
+temperatures well above T_(m) and that a similar mechanism of negative
+MR may be active in RbEuFe₄As₄. The data at 37.5 K suggest a change in
+curvature of the MR at high fields, indicating the superposition of two
+effects, the negative MR at low fields due to suppression of spin
+scattering and the conventional positive MR due to the cyclotron motion
+of the carriers that grows as (μ H)² where μ is the carrier mobility. As
+in the case of EuFe₂As₂, the negative MR is a small effect, of the order
+of a few percent.
+
+### Superconducting phase diagram
+
+We determine the superconducting phase diagram of RbEuFe₄As₄ from the
+resistive transitions shown in Fig. 6 and from magnetization
+measurements in fields up to 60 kG (see Fig. 8). Here, a quadratic
+polynomial in 1/T has been fitted between 37 and 40 K and subtracted
+from the magnetization data such as those shown in Fig. 3(b) to reveal
+the superconducting signature. The anisotropic shift of the
+superconducting transition in applied fields is clearly seen. We observe
+that the 90
+
+Figure 8: Temperature dependence of the magnetization in various fields
+applied along the ab planes (a) and the c axis (b). The lines indicate
+the construction of T_(c)(H).
+
+Figure 7: Transverse magnetoresistance Δρ/ρ(H = 0) at multiple fixed
+temperatures with i// (110) for (a) H// (001) and (b) H// (110) in a
+single crystal of RbEuFe₄As₄.
+
+resistivity anisotropy and a single-band Drude model for which
+$\Gamma\sim\sqrt{\rho_{c}/\rho_{ab}}$ suggestive of multiband effects
+and potential gap anisotropy.
+
+Results obtained on the nonmagnetic sister compound CaKFe₄As₄[26, 60]
+suggest that RbEuFe₄As₄ is a multiband superconductor; however, as
+neither the inter- and intra-band pairing constants nor the details of
+the Fermi surface are known, we present an approximate discussion of the
+upper critical field using a single-band formalism. Using the GL
+relationship H_(c2)(0) = −(dH_(c2)/dT)|_(T_(c)) * T_(c), we estimate
+zero-temperature values of H_(c2)^(c)(0) ∼ 2500 kG and
+H_(c2)^(c)(0) ∼ 1600 kG, very large but comparable to other Fe-based
+superconductors [61, 62]. These estimates exceed the BCS paramagnetic
+limit H_(p)(kG) = (1 + λ) * 18.4T_(c)(K), where λ is the electron-boson
+coupling constant [63], even when including strong-coupling effects,
+indicating that at low temperatures deviations from the GL extrapolation
+will occur. Nevertheless, the in-plane and out-of-plane GL coherence
+lengths ξ_(ab) and ξ_(c) may be estimated using the single-band
+Ginzburg-Landau relations H_(c2)^(c)(0) = Φ₀/2πξ_(ab)²(0) and
+H_(c2)^(ab)(0) = Φ₀/[2πξ_(ab)(0)ξ_(c)(0)], yielding ξ_(c)(0) = 0.92 nm
+and ξ_(ab) = 1.4 nm. The estimate for ξ_(c)(0) is slightly smaller than
+the c-axis lattice constant, making the low value of the anisotropy all
+the more surprising.
+
+With the help of the Rutgers relation a connection between the jump in
+the specific heat and the superconducting phase boundaries can be
+established: ΔC/T_(c) = (dH_(c2)^(c)/dT|_(T_(c)))²/8πκ_(c)². With
+ΔC/T_(c) = 0.21 J/mol K² and the upper critical field slopes from Fig. 9
+we obtain the GL parameters κ_(c) = λ_(ab)/ξ_(ab) ∼ 67 and
+$\kappa_{ab}=\sqrt{\lambda_{ab}\lambda_{c}}/\sqrt{\xi_{ab}\xi_{c}}\sim 108$,
+consistent with determinations based on the slopes of the M(T) curves
+shown in Fig. 8. Thus, RbEuFe₄As₄ is in the extreme type-II limit, as is
+commonly observed for the Fe-based superconductors.
+
+These materials parameters allow one to estimate the Ginzburg number
+G_(i), which describes the importance of superconducting thermal
+fluctuations, as G_(i) = [8π²k_(B)ΓT_(c)κ_(c)²ξ_(ab)/ϕ₀²]²/2 ≈ 7 × 10⁻⁵.
+This relatively low value is of the same order of magnitude as seen in
+other 122 and 1144 Fe-based superconductors [26, 64] and is consistent
+with the almost complete absence of fluctuation effects at the
+superconducting transition (see inset of Fig. 2). In contrast, G_(i) is
+significantly larger in the 1111 compounds, G_(i) ∼ 10⁻³ − 10⁻²[65, 66,
+67], the principal difference being the much larger anisotropy of the
+1111 materials.
+
+## IV IV. Conclusion
+
+In summary, among the superconductors containing ordered sublattices of
+rare-earth magnetic moments RbEuFe₄As₄ attains a special place due to
+its high magnetic and superconducting transition temperatures.
+Orbital-selective superconducting pairing and magnetic exchange may
+offer a framework for the coexistence of strong superconducting pairing
+and sizable magnetic interactions in this layered material, even though
+the underlying microscopic mechanisms have not been clarified yet. The
+high value of T_(c), exceeding that of the nonmagnetic sister compound
+CaKFe₄As₄[26], doping studies [28, 29], and the surprisingly low value
+of the superconducting anisotropy, Γ ∼ 1.7, indicate that both
+interaction channels are largely decoupled. In contrast to
+superconductivity, Eu magnetism is highly anisotropic quasi-2D,
+reflecting the large separation between the Eu layers. In a model of a
+type-A antiferromagnetic structure, we estimate in-plane and
+out-of-plane exchange constants of 0.6 K and less than 0.04 K,
+respectively. This reduced dimensionality induces strong magnetic
+fluctuations, a sizable suppression of the magnetic ordering temperature
+below the paramagnetic Curie-Weiss temperature, and a kinklike specific
+heat anomaly devoid of any singular behavior. These features distinguish
+RbEuFe₄As₄ from the parent compound EuFe₂As₂ in which the distance
+between Eu layers is half and magnetism is more 3D-like. Magnetization
+curves reveal a clear magnetic easy-plane anisotropy of RbEuFe₄As₄ with
+in-plane and out-of-plane saturation fields of 2 and 4 kG, respectively.
+Further measurements will be necessary to determine the true magnetic
+ground state of RbEuFe₄As₄.
+
+###### Acknowledgements.
+
+This work was supported by the U.S. Department of Energy, Office of
+Science, Basic Energy Sciences, Materials Sciences and Engineering
+Division. This research used resources of the Advanced Photon Source, a
+U.S. Department of Energy (DOE) Office of Science User Facility operated
+for the DOE Office of Science by Argonne National Laboratory under
+Contract No. DE-AC02-06CH11357. M.P.S. thanks ND Energy for supporting
+his research and professional development through the NDEnery
+Postdoctoral Fellowship Program. K.W. acknowledges support through an
+Early Postdoc Mobility Fellowship of the Swiss National Science
+Foundation. Z.D. acknowledges support from the Swedish Research Council
+(VR) under Grant No. 2015-00585, cofunded by Marie Sklodowska-Curie
+Actions (Project No. INCA 600398). A.R. acknowledges support from the
+Swedish Research Council (VR) under Grant No. 2016-04516. The authors
+thank Roland Willa for helpful discussions.
+
+Figure 9: The upper critical field of RbEuFe₄As₄ as determined from
+magnetization (closed circles) and magnetotransport (open diamonds)
+measurements.
+
+* [1] S. Zapf and M. Dressel, Rep. Prog. Phys. **80**, 016501 (2017). *
+[2] G.-H. Cao, W.-H. Jiao, Y.-K. Luo, Z. Ren, S. Jiang, and Z.-A. Xu, J.
+Phys.: Conf. Ser. **391**, 012123 (2012). * [3]_Superconductivity in
+Ternary Compounds II, Superconductivity and Magnetism_, edited by M. B.
+Maple and O. Fischer (Springer, New York, 1982). * [4] O. Fischer and M.
+B. Maple, _Ferromagnetic Materials_ (Elsevier, New York, 1990), Vol.
+5. * [5] P. C. Canfield, P. L. Gammel, and D. J. Bishop, Phys. Today
+**51**(10), 40 (1998). * [6] K.-H. Muller and V. N. Narozhnyi, Rep.
+Prog. Phys. **64**, 943 (2001). * [7] H. Eisaki, H. Takagi, R. J. Cava,
+B. Batlogg, J. J. Krajewski, W. F. Peck, K. Mizuhashi, J. O. Lee, and S.
+Uchida, Phys. Rev. B **50**, 647 (1994). * [8] H. S. Jeevan, Z. Hossain,
+D. Kasinathan, H. Rosner, C. Geibel, and P. Gegenwart, Phys. Rev. B
+**78**, 052502 (2008). * [9] Y. Xiao, Y. Su, M. Meven, R. Mittal, C. M.
+N. Kumar, T. Chatterji, S. Price, J. Persson, N. Kumar, S. K. Dhar _et
+al._, Phys. Rev. B **80**, 174424 (2009). * [10] J. W. Lynn, S.
+Skanthakumar, Q. Huang, S. K. Sinha, Z. Hossain, L. C. Gupta, R.
+Nagarajan, and C. Godart, Phys. Rev. B **55**, 6584 (1997). * [11] C. F.
+Miclea, M. Nicklas, H. S. Jeevan, D. Kasinathan, Z. Hossain, H. Rosner,
+P. Gegenwart, C. Geibel, and F. Steglich, Phys. Rev. B **79**, 212509
+(2009). * [12] K. Matsubayashi, K. Munakata, M. Isobe, N. Katayama, K.
+Ohgushi, Y. Ueda, N. Kawamura, M. Mizumaki, N. Ishimatsu, M. Hedo _et
+al._, Phys. Rev. B **84**, 024502 (2011). * [13] Z. Ren, Q. Tao, S.
+Jiang, C. Feng, C. Wang, J. Dai, G. Cao, and Z. Xu, Phys. Rev. Lett.
+**102**, 137002 (2009). * [14] H. S. Jeevan, D. Kasinathan, H. Rosner,
+and P. Gegenwart, Phys. Rev. B **83**, 054511 (2011). * [15] H. S.
+Jeevan, Z. Hossain, D. Kasinathan, H. Rosner, C. Geibel, and P.
+Gegenwart, Phys. Rev. B **78**, 092406 (2008). * [16] J. Maiwald, H. S.
+Jeevan, and P. Gegenwart, Phys. Rev. B **85**, 024511 (2012). * [17]
+Anupam, P. L. Paulose, S. Ramakrishnan, and Z. Hossain, J. Phys.:
+Condens. Matter **23**, 455702 (2011). * [18] Y. Qi, Z. Gao, L. Wang, D.
+Wang, X. Zhang, and Y. Ma, New J. Phys. **10**, 123003 (2008). * [19] Y.
+Qi, L. Wang, Z. Gao, X. Zhang, D. Wang, C. Yao, C. Wang, C. Wang, C.
+Wang, and Y. Ma, New J. Phys. **14**, 033011 (2012). * [20] S. Nandi, W.
+T. Jin, Y. Xiao, Y. Su, S. Price, W. Schmidt, K. Schmalzl, T. Chatterji,
+H. S. Jeevan, P. Gegenwart _et al._, Phys. Rev. B **90**, 094407
+(2014). * [21] G. Cao, S. Xu, Z. Ren, S. Jiang, C. Feng, and Z. Xu, J.
+Phys.: Condens. Matter **23**, 464204 (2011). * [22] K. Kawashima, T.
+Kinjo, T. Nishio, S. Ishida, H. Fujihisa, Y. Gotoh, K. Kihou, H. Eisaki,
+Y. Yoshida, and A. Iyo, J. Phys. Soc. Jpn. **85**, 064710 (2016). * [23]
+A. Iyo, K. Kawashima, T. Kinjo, T. Nishio, S. Ishida, H. Fujihisa, Y. Y.
+Gotoh, K. Kihou, H. Eisaki, and Y. Yoshida, J. Am. Chem. Soc. **138**,
+3410 (2016). * [24] Y. Liu, Y.-B. Liu, Z.-T. Tang, H. Jiang, Z.-C. Wang,
+A. Ablimit, W.-H. Jiao, Q. Tao, C.-M. Feng, Z.-A. Xu _et al._, Phys.
+Rev. B **93**, 214503 (2016). * [25] Y. Liu, Y.-B. Liu, Q. Chen, Z.-T.
+Tang, W.-H. Jiao, Q. Tao, Z.-A. Xu, and G.-H. Cao, Sci. Bull. **61**,
+1213 (2016). * [26] W. R. Meier, T. Kong, U. S. Kaluarachchi, V.
+Taufour, N. H. Jo, G. Drachuck, A. E. Bohmer, S. M. Saunders, A.
+Sapkota, A. Kreyssig _et al._, Phys. Rev. B **94**, 064501 (2016). *
+[27] K. Kawashima, S. Ishida, H. Fujihisa, Y. Gotoh, K. Kihou, Y.
+Yoshida, H. Eisaki, H. Ogino, and A. Iyo, J. Phys. Chem. Lett. **9**,
+868 (2018). * [28] Y. Liu, Y.-B. Liu, Y.-L. Yu, Q. Tao, C.-M. Feng, and
+G.-H. Cao, Phys. Rev. B **96**, 224510 (2017). * [29] K. Kawashima, S.
+Ishida, K. Oka, H. Kito, N. Takeshita, H. Fujihisa, Y. Gotoh, K. Kihou,
+H. Eisaki, Y. Yoshida _et al._, J. Phys.: Conf. Ser. **909**, 012027
+(2018). * [30] J.-K. Bao, K. Willa, M. P. Smylie, H. Chen, U. Welp, D.
+Y. Chung, and M. G. Kanatzidis, Cryst. Growth Des. **18**, 3517
+(2018). * [31] S. Tagliati, V. M. Krasnov, and A. Rydh, Rev. Sci.
+Instrum. **83**, 055107 (2012). * [32] K. Willa, Z. Diao, D. Campanini,
+U. Welp, R. Divan, M. Hudl, Z. Islam, W.-K. Kwok, and A. Rydh, Rev. Sci.
+Instrum. **88**, 125108 (2017). * [33] J. P. Carbotte, Rev. Mod. Phys.
+**62**, 1027 (1990). * [34] F. Bouquet, R. A. Fisher, N. E. Phillips, D.
+G. Hinks, and J. D. Jorgensen, Phys. Rev. Lett. **87**, 047001 (2001). *
+[35] U. Welp, R. Xie, A. E. Koshelev, W. K. Kwok, H. Q. Luo, Z. S. Wang,
+G. Mu, and H. H. Wen, Phys. Rev. B **79**, 094505 (2009). * [36] Z. Ren,
+Z. Zhu, S. Jiang, X. Xu, Q. Tao, C. Wang, C. Feng, G. Cao, and Z. Xu,
+Phys. Rev. B **78**, 052501 (2008). * [37] U. B. Paramanik, P. L.
+Paulose, S. Ramakrishnan, A. K. Nigam, C. Geibel, and Z. Hossain,
+Supercond. Sci. Technol. **27**, 075012 (2014). * [38] A. Oleaga, A.
+Salazar, A. Thamizhavel, and S. Dhar, J. Alloys Compd. **617**, 534
+(2014). * [39] J. Tobochnik and G. V. Chester, Phys. Rev. B **20**, 3761
+(1979). * [40] R. Gupta and C. F. Baillie, Phys. Rev. B **45**, 2883
+(1992). * [41] W. Janke and T. Matsui, Phys. Rev. B **42**, 10673
+(1990). * [42] P. Sengupta, A. W. Sandvik, and R. R. P. Singh, Phys.
+Rev. B **68**, 094423 (2003). * [43] D. C. Johnston, R. J. McQueeney, B.
+Lake, A. Honecker, M. E. Zhitomirsky, R. Nath, Y. Furukawa, V. P.
+Antropov, and Y. Singh, Phys. Rev. B **84**, 094445 (2011). * [44] M.
+Bouvier, P. Lethuillier, and D. Schmitt, Phys. Rev. B **43**, 13137
+(1991). * [45] N. S. Sangeetha, E. Cuervo-Reyes, A. Pandey, and D. C.
+Johnston, Phys. Rev. B **94**, 014422 (2016). * [46] M. A. Albedah, F.
+Nejadsattari, Z. M. Stadnik, Y. Liu, and G.-H. Cao, Phys. Rev. B **97**,
+144426 (2018). * [47] S. Jiang, Y. Luo, Z. Ren, Z. Zhu, C. Wang, X. Xu,
+Q. Tao, G. Cao, and Z. Xu, New J. Phys. **11**, 025007 (2009). * [48] Y.
+Xiao, Y. Su, W. Schmidt, K. Schmalzl, C. M. N. Kumar, S. Price, T.
+Chatterji, R. Mittal, L. J. Chang, S. Nandi _et al._, Phys. Rev. B
+**81**, 220406 (2010). * [49] K. H. J. Buschow and F. R. de Boer,
+_Physics of Magnetism and Magnetic Materials_, 1st ed. (Springer New
+York, 2003). * [50] P. O. Sprau, A. Kostin, A. Kreisel, A. E. Bohmer, V.
+Taufour, P. C. Canfield, S. Mukherjee, P. J. Hirschfeld, B. M. Andersen,
+and J. C. S. Davis, Science **357**, 75 (2017). * [51] S. Raghu, X.-L.
+Qi, C.-X. Liu, D. J. Scalapino, and S.-C. Zhang, Phys. Rev. B **77**,
+220503 (2008). * [52] Z. Ren, X. Lin, Q. Tao, S. Jiang, Z. Zhu, C. Wang,
+G * [53] M. A. Tanatar, N. Ni, G. D. Samolyuk, S. L. Bud’ko, P. C.
+Canfield, and R. Prozorov, Phys. Rev. B **79**, 134528 (2009). * [54] R.
+Vaglio, C. Attanasio, L. Maritato, and A. Ruosi, Phys. Rev. B **47**,
+15302 (1993). * [55] N. Kurita, M. Kimata, K. Kodama, A. Harada, M.
+Tomita, H. S. Suzuki, T. Matsumoto, K. Murata, S. Uji, and T. Terashima,
+Phys. Rev. B **83**, 214513 (2011). * [56] U. B. Paramanik, D. Das, R.
+Prasad, and Z. Hossain, J. Phys.: Condens. Matter **25**, 265701
+(2013). * [57] W.-H. Jiao, Q. Tao, J.-K. Bao, Y.-L. Sun, C.-M. Feng,
+Z.-A. Xu, I. Nowik, I. Felner, and G.-H. Cao, Europhys. Lett. **95**,
+67007 (2011). * [58] T. Terashima, N. Kurita, A. Kikkawa, H. S. Suzuki,
+T. Matsumoto, K. Murata, and S. Uji, J. Phys. Soc. Jpn. **79**, 103706
+(2010). * [59] H. Yamada and S. Takada, J. Phys. Soc. Jpn. **34**, 51
+(1973). * [60] S. Teknowijoyo, K. Cho, M. Konczykowski, E. I. Timmons,
+M. A. Tanatar, W. R. Meier, M. Xu, S. L. Bud’ko, P. C. Canfield, and R.
+Prozorov, Phys. Rev. B **97**, 140508 (2018). * [61] H. Q. Yuan, J.
+Singleton, F. F. Balakirev, S. A. Baily, G. F. Chen, J. L. Luo, and N.
+L. Wang, Nature (London) **457**, 565 (2009). * [62] A. Gurevich, Nat.
+Mater. **10**, 255 (2011). * [63] M. Schossmann and J. P. Carbotte,
+Phys. Rev. B **39**, 4210 (1989). * [64] C. Chaparro, L. Fang, H. Claus,
+A. Rydh, G. W. Crabtree, V. Stanev, W. K. Kwok, and U. Welp, Phys. Rev.
+B **85**, 184525 (2012). * [65] U. Welp, R. Xie, A. E. Koshelev, W. K.
+Kwok, P. Cheng, L. Fang, and H.-H. Wen, Phys. Rev. B **78**, 140510
+(2008). * [66] Z. Pribulova, T. Klein, J. Kacmarcik, C. Marcenat, M.
+Konczykowski, S. L. Bud’ko, M. Tillman, and P. C. Canfield, Phys. Rev. B
+**79**, 020508 (2009). * [67] U. Welp, C. Chaparro, A. E. Koshelev, W.
+K. Kwok, A. Rydh, N. D. Zhigadlo, J. Karpinski, and S. Weyeneth, Phys.
+Rev. B **83**, 100513 (2011).

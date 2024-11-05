@@ -1,0 +1,397 @@
+Superconductivity and spin fluctuations in {Th, U}Pt₄Ge₁₂ skutterudites
+
+E. Bauer,¹ Xing-Qiu Chen,^(2, 5) P. Rogl,² G. Hilscher,¹ H. Michor,¹ E.
+Royanian,¹ R. Podloucky,² G. Giester,³ O. Sologub,⁴ and A. P. Goncalves⁴
+
+###### Abstract
+
+Merging experimental data and _ab initio_ calculations, we report on
+ThPt₄Ge₁₂ and UPt₄Ge₁₂ as further members of germanium-based
+skutterudites. For ThPt₄Ge₁₂ electron-phonon coupled superconductivity
+develops below T_(c)=4.75 K, ascribed to intrinsic features of the Pt-Ge
+framework where Ge-_p_ states dominate the electronic structure at the
+Fermi energy. Ruderman-Kittel-Kasuya-Yosida coupling via the Ge
+framework is too weak to enable magnetic ordering in nonsuperconducting
+UPt₄Ge₁₂.
+
+pacs: 10.1103/PhysRevB.78.064516 + Footnote †: preprint: PHYSICAL REVIEW
+B **78**, 064516 (2008)
+
+## I Introduction
+
+Recently we have described the formation, crystal structure, and
+superconducting properties of a class of skutterudite compounds
+{Sr, Ba, Eu}Pt₄Ge₁₂ with a unique [Pt₄Ge₁₂] framework.[1, 2, 3] It was
+shown that below about T_(c)=5 K, electron-phonon coupled
+superconductivity (SC) emerges for the alkaline-earth compounds,
+ascribed to intrinsic features of the Pt-Ge framework where Ge-_p_
+states dominate the electronic structure at the Fermi energy. From
+density-functional theory (DFT) calculations it was inferred that
+although strongly localized Eu-4f states with their peak at 2 eV below
+the Fermi energy give rise to a local magnetic moment of 7μ_(B) in
+EuPt₄Ge₁₂, the Eu-_f_ states do not hybridize and do not induce any spin
+polarization onto their neighbors and thus long-range magnetic order can
+only arise at very low temperatures below 1.7 K. As a unique class of
+Ge-based skutterudites was found to extend to 4f-electron systems
+{La, Ce, Pr, Nd}Pt₄Ge₁₂,[4] the aim of the present work is a study of
+the phase formation and crystal structure as well as the
+characterization of bulk properties by means of resistivity,
+magnetization, specific-heat, and band-structure calculations for
+actinoid compounds {Th, U}Pt₄Ge₁₂.
+
+While, in general, Th-based systems are in a nonmagnetic 4⁺ state,
+(electronic configuration 5f⁰6s²7p²), thus behaving like simple systems,
+the ground state of U is dominated by the partial occupation of the 5f
+shell giving rise to a rich variety of magnetic features such as
+long-range magnetic order or scenarios where the Stoner criterion is
+just not fulfilled.[5] The latter may provoke magnetic spin
+fluctuations, which may be revealed from the characteristic T³ln T
+contribution to the heat capacity at low temperatures.
+
+One of the key questions in the formation of Ge-based skutterudites
+concerns the fact whether the addition of electrons, e.g., from Th⁴⁺ to
+the [Pt₄Ge₁₂] sublattice will create stable compounds and modify the
+electronic density of states (DOS) to enhance SC or drive the system
+toward semiconducting behavior.
+
+## II Experimental details
+
+Alloys of {Th, U}Pt₄Ge₁₂ were prepared by argon arc melting. While
+ThPt₄Ge₁₂ specimen was subsequently heat treated in evacuated quartz
+capsules at 800 ^(∘)C for two weeks, UPt₄Ge₁₂ has to be directly
+quenched from the melt with nominal composition U_(0.8)Pt₄Ge₁₂. Phase
+purity and lattice parameters were derived from x-ray diffraction
+indicating single-phase conditions for ThPt₄Ge₁₂ but a small amount of
+nonmagnetic secondary phases (Ge+PtGe₂) for UPt₄Ge₁₂.
+
+Bulk properties of these skutterudites were obtained by a number of
+standard techniques, details are summarized below. A superconducting
+quantum interference device magnetometer served for the determination of
+the magnetization from 2 up to 300 K in fields up to 6 T, comparing
+field-cooled and zero-field-cooled results. Specific-heat measurements
+on samples of about 1 g were performed at temperatures ranging from 1.5
+up to 170 K by means of a quasiadiabatic step heating technique in
+external fields up to 0.2 T. The electrical resistivity was measured on
+bar-shaped samples using a four-probe dc method in the temperature range
+from 1.9 K to room temperature.
+
+DFT was applied using the Vienna _ab initio_ simulation package (vasp)
+(Refs. [6] and [7]) with a relativistic spin-orbit coupling approach.[8,
+9] The Brillouin zone was sampled with 5×5×5 Monkhorst-Pack k⃗-point
+grids. The exchange-correlation functional was treated within the
+generalized gradient approximation utilizing the approach of Ref. [10].
+
+## III Results and discussion
+
+The crystal structure of ThPt₄Ge₁₂ (from Rietveld refinements) and
+UPt₄Ge₁₂ (from Kappa-CCD single-crystal x-ray data at 300, 200, and 100
+K) was found to be cubic and isotypic with the filled skutterudite-type
+LaFe₄Sb₁₂.[11] Structure and lattice parameters are collected in Table
+I. Occupation factors were refined, corresponding to a full occupancy of
+the actinoid Pt and Ge sublattices. Although the Ge icosahedra are
+significantly smaller than the corresponding Sb framework and therefore
+effective bonding between the framework cages and the Th-center atoms is
+ensured, temperature-dependent single-crystal x-ray data for UPt₄Ge₁₂
+unambiguously defined a strong temperature dependency of atomic
+displacement parameters (ADP) in the temperature region from 100 to 300
+K for the smaller uranium atoms (see Fig. 1). Thus typical rattling
+modes caused by uranium as filler atoms are derived from the atom
+displacement parameters
+
+$$U_{ii} = \frac{\hbar^{2}}{2m_{U}k_{B}\theta_{E,ii}}{\rm{coth}}\left( \frac{\theta_{E,ii}}{2T} \right)$$
+
+obtained from structure refinement at three different temperatures
+yielding an Einstein temperature of θ_(E) = 59 K (m_(U) is the mass of
+uranium). The optimized structural parameters obtained from DFT
+calculations are in reasonable agreement with x-ray structure data
+(differences of <1
+
+Temperature-dependent resistivity measurements carried out on ThPt₄Ge₁₂
+indicate SC at T_(c) = 4.8 K [compare Figs. 2(a) and 2(b)] while results
+for UPt₄Ge₁₂ do not exhibit SC down to 1.9 K [Fig. 2(a)]. This
+significant difference in the ground states of both neighboring
+compounds is already reflected in the temperature dependencies of the
+resistivity in the normal-state region. Neither of the compounds,
+however, show a simple metal-like resistivity behavior, i.e., the
+Bloch-Gruneisen formula is not applicable in any case. Such a behavior
+is known for many superconductors and may be attributed to a substantial
+electron-phonon interaction strength responsible for the formation of
+Cooper pairs in conventional superconductors. Rather, the overall ρ(T)
+dependence of ThPt₄Ge₁₂ follows the phenomenological model of Woodard
+and Cody, [12] which initially applied to A15 superconductors such as
+Nb₃Sn. Least-squares fits to this model are shown as solid line in Fig.
+2(a), revealing reasonable agreement with a characteristic temperature
+T₀ = 131 K. Similar characteristic temperatures as well as similar but
+slightly lower transition temperatures into the superconducting state
+were observed recently for isomorphous {Sr, Ba}Pt₄Ge₁₂. [1] The residual
+resistivity ρ₀ = 3 μΩ cm indicates good sample quality as well as the
+complete filling of the voids by Th in the skutterudite structure.
+
+The overall ρ(T) features of UPt₄Ge₁₂ turn out to be different. At low
+temperatures, ρ(T) behaves according to ρ(T) = ρ₀ + AT^(n) with ρ₀ =
+14.5 μΩ cm, A = 0.42 μΩ cm/K^(1.5), and n = 1.5. The latter refers to
+distinct deviations from a Fermi-liquid ground state due to strong spin
+fluctuations, which are evident also from a large value of the
+Sommerfeld constant γ = 156 mJ/mol K² (see below). Moreover, classical
+spin fluctuation systems such as YCo₂ exhibit–at elevated temperatures–a
+tendency toward saturation, which can also be conceived from Fig. 2(a)
+for UPt₄Ge₁₂.
+
+The magnetic susceptibility χ of ThPt₄Ge₁₂ (see Fig. 3) is diamagnetic
+in the normal-state region, revealing a temperature-independent
+susceptibility χ = −1.5 × 10⁻⁷ cm³/g. At T = 4.8 K the sharp transition
+provides evidence for SC, in perfect agreement with the resistivity
+data. The diamagnetic value of [−1/4 π] for zero-field cooling
+corresponds to a complete flux exclusion of the total sample volume due
+to the screening currents. The flux expulsion (Meissner-Ochsenfeld
+effect) for field cooling in 50 and 200 G is only 21
+
+Figure 1: (Color online) Temperature-dependent atom displacement
+parameters U_(eq) of the independent atom sites and lattice parameter σ
+of UPt₄Ge₁₂. The solid line is a guide to the eye.
+
+Figure 2: (Color online) (a) Temperature-dependent electrical
+resistivity ρ of ThPt₄Ge₁₂ and UPt₄Ge₁₂. The solid line is a
+least-squares fit as explained in the text. (b) Low-temperature
+resistivity details evidencing superconductivity of ThPt₄Ge₁₂.
+
+cates a rather strong flux pinning in a type II superconductor. With
+growing external fields the transition is washed out and shifted to
+lower temperatures and is suppressed in fields larger than 0.13 T above
+2.2 K.
+
+The heat capacity C_(p) of ThPt₄Ge₁₂ is plotted in Fig. 4 as C_(p)/T vs
+T for various fields up to 0.2 T. The jump of C_(p)(T) below 5 K
+evidences bulk SC. Idealizing the specific-heat anomaly under the
+constraint of entropy balance between the superconducting and the normal
+state, we arrive at T_(c) = 4.75 K. The entropy balance between the
+superconducting and the normal state defines C_(p)/T(T=0) = 35(1) mJ/mol
+K² and, furthermore, the heat capacity in the superconducting
+[dashed-dotted line in Fig. 4(a)] and in the normal state [dashed line
+in Fig. 4(a)] (i.e., measurements at 0 and 0.2 T, respectively), indeed
+yields ΔS(T=T_(c)) = 0. To derive these extrapolations, the phonon
+contribution is taken from the model sketched in Fig. 5 (see discussion
+below). The BCS equation
+C_(cS)(T)=8.5$\gamma T_{c}\exp(-0.82\Delta(0)/k_{\rm B}T)$ is applied in
+order to describe the electronic contribution to C_(p)(T) in the
+superconducting state [dashed-dotted line, Fig. 4(a)]. Here, Δ(0)
+represents the superconducting gap at T= 0.
+
+The inapplicability of a Debye-type extrapolation of C_(p)(T) toward low
+temperatures (as usually applied in simple metallic systems)
+demonstrates the existence of a complicated phonon spectrum in this
+compound.
+
+For a qualitative and quantitative description of the lattice dynamics,
+we adapted a model comprising some fine structure in the phonon DOS
+F(ω).[13, 14] Accordingly, the heat capacity is
+
+$$C_{\mu\mu}(T)=3R\int_{0}^{\infty}F(\omega)\frac{\left(\frac{\omega}{2T}\right) ^{2}}{\sinh^{2}\left(\frac{\omega}{2T}\right)}d\omega,$$
+(2)
+
+with ω the phonon frequency and R the gas constant. The most common
+assumptions on F(ω) are F(ω) = δ(ω) and F(ω) ∼ ω² up to a cut-off
+frequency ω_(D), corresponding to the well-known Einstein and Debye
+model, respectively. Junod _et al.[13]_ demonstrated that certain
+functionals of the phonon specific heat take the form of convolutions of
+the phonon spectrum. In particular, (5/4)Rπ⁴C_(ph)T⁻³ is an image of the
+spectrum ω⁻²F(ω) for ω= 4.93T, where ω is expressed in degrees kelvin.
+Based on these considerations we have constructed an elementary phonon
+spectrum and have carried out least-squares fits to the data. Besides a
+Debye DOS, we assumed that the system contains two additional
+energetically separated Einstein-type modes ω₁ and ω₂. In contrast to
+the standard Einstein model of the specific heat, a certain
+
+Figure 4: (Color online) (a) Temperature-dependent specific heat C_(p)
+of ThPt₄Ge₁₂ plotted as C_(p)/T vs T for various externally applied
+magnetic fields. The dashed and the dashed-dotted lines are
+extrapolations from the normal and superconducting states, respectively.
+(b) Upper critical field μ₀H_(L2) of ThPt₄Ge₁₂. Data are taken from the
+heat-capacity data. The solid line corresponds to the WHH model as
+explained in the text.
+
+Figure 5: (Color online) Temperature-dependent specific heat C_(p) of
+ThPt₄Ge₁₂ plotted as (C_(p) − γT)/T³ vs ln T. The dashed line is a
+least-squares fit of the experimental data using the model described in
+the text with a Debye spectrum (θ_(D)=260 K) and two Einstein-type modes
+($\omega_{\rm{EL},2}$ = 34.7 K with a width of 2.2 K and
+$\omega_{\rm{EL},2}$ = 63.8 K with a width of 6.4 K). The solid line
+(referring to the right axis) describes the phonon spectral function
+F(ω) plotted as (4/5)Rπ⁴ω⁻²F(ω) vs ω/4.93. ω is given in degrees kelvin.
+
+Figure 3: (Color online) Temperature-dependent susceptibility M/H of
+ThPt₄Ge₁₂. The jump at T=T_(c) for 5G reveals a full Meissner effect.
+Filled and open symbols refer to zero field and field cooling,
+respectively.
+
+frequency width D_o_ for each of these branches is allowed. Results of
+this ansatz are shown in Fig. 5 as dashed line.
+
+Based on this fit, the phonon spectra are constructed and plotted in
+Fig. 5 referring to the right axis (solid line). The spectral weight
+follows from the constraint that for T - 0 the height of the phonon DOS
+coincides with the value of _C_p/_T_3 for T - 0. The low-lying phonon
+branch may render those lattice vibrations which couple to the electron
+system, thereby enabling BCS-type SC.
+
+Within the McMillan model,15 the superconducting transition temperature
+_T_c is given by
+
+$$T_{c} = \frac{\theta_{D}}{1.45}\exp\left[ \frac{- 1.04(1 + \lambda)}{\lambda - \mu_{c}^{*}(1 + 0.62\lambda)} \right\rbrack,$$
+
+where l is the dimensionless electron-phonon coupling constant related
+in terms of the Eliashberg theory to the phonon DOS. l determines the
+attractive part of the Cooper pair bonding while _m_* is the repulsive
+screened Coulomb part, usually set to =0.13. Applying this simple model
+yields l =0.66, referring to superconductors beyond the weak-coupling
+limit.
+
+Taking the jump of the specific heat D_C_p/_T_(_T_=_T_c) = 61(2) mJ/mol
+K2, D_C_p/_(_g__T_c) is calculated to be 1.75, which is above the value
+expected from the BCS theory [D_C_p/_(_g__T_c) = 1.43]. As the
+magnetic-field strength increases, both the transition temperature and
+the anomaly right at _T_c are suppressed, defining the phase diagram
+shown in Fig. 4(b).
+
+The superconducting gap D(0) of ThPt₄Ge₁₂ can be estimated from the
+modified BCS expression _C__eq(T)_ = 8.5_g__T_c exp[-0.82D(0)/_k_B_T_].
+Adjusting this model expression to our specific-heat data at lowest
+temperatures, _C__eq(T)_ = _C__p(T)_ - _C__ph(T)_ reveals D = 0.72(1)
+meV. The ratio D(0)/_k__B_T_c = 1.8 is in fine agreement with the BCS
+value D_(BCS)(0) = 1.76_k__B_T_c.
+
+The thermodynamic critical field is calculated from the free-energy
+difference between the superconducting and normal state: D_F_(_T_) =
+F_(n) - F_(s) = _m__0H_c(_T_)/2 = _T__T subtraction of C_(p)(T) of
+isomorphous nonmagnetic ThPt₄Ge₁₂ fails since the C_(p)^(p) functions
+intersect each other, i.e., C_(p)(T) of nonmagnetic ThPt₄Ge₁₂
+summutations that of UPt₄Ge₁₂ for T> 12 K [see Fig. 6(b)], referring to
+differences in the phonon spectrum. The observation of such a crossover
+is not a unique feature of the U,ThPt₄Ge₁₂ systems but frequently occurs
+in isostructural pairs of La, Ce or complementary Yb, LU compounds. In
+all these cases, common explanations such as mass or volume differences
+do not apply, indicating rather a magnetic origin.
+
+Although the phonon spectra of both compounds are more complex than that
+of a simple Debye solid, we attempted to fit the low-temperature data of
+UPt₄Ge₁₂ with the ansatz C_(p)(T) = γT+ βT³+ δT³ ln(T/T^(*)), where the
+latter term accounts for spin fluctuations. Satisfactory agreement is
+found for γ=156 mJ/mol K² and T^(*)= 2.7 K [solid line, inset Fig.
+6(a)], suggesting spin fluctuations in the nearly localized regime. The
+sizable value of γ in combination with the δT³ ln(T/T^(*)) term,
+however, prevents to reliably derive β and thus the Debye temperature
+θ_(D).
+
+Albeit the combination of lattice and magnetic contributions does not
+allow a detailed analysis of lattice dynamics in UPt₄Ge₁₂. It should be
+noted that from temperature-dependent ADP parameters an Einstein mode
+for the U atoms was found at θ_(E)=59 K, in close analogy to the phonon
+spectrum derived from the specific-heat analysis of ThPt₄Ge₁₂.
+
+The calculated DOS, shown in Figs. 7(a) and 7(b), reveals the individual
+contributions of the Th, Pt, and Ge atoms, of which germanium p- and
+s-like states dominate the features of the DOS at E_(F). The
+relativistic effect of spin-orbit coupling does not significantly
+influence the DOS at E_(F). The directed covalent bonds of Ge intermixed
+with the more metal-like charge distribution of Pt states contribute to
+the peak of the DOS at E_(F). From Bader’s charge analysis,[21] about
+0.13 electrons are transferred from each Ge to Pt, indicating only
+weakly ionic Pt-Ge bonds.
+
+The total DOS at E_(F) can be compared with the Sommerfeld value of the
+specific heat γ=$\frac{1}{3}$π²N(E_(F))k_(B)². The experimental values
+of about 35 mJ/mol K² for ThPt₄Ge₁₂ along with an electron-phonon
+enhancement factor $\lambda_{\rm qp}$=0.66 (estimated via the McMillan
+formula[15]) would require a bare DOS equivalent of ≈21 mJ/mol K², which
+compares favorably with the DOS calculation involving spin-orbit
+coupling; 22.7 mJ/mol K² and N(E_(F))= 9.63 states eV⁻¹ f. u⁻¹. Without
+spin-orbit coupling, γ=20.1 mJ/mol K², documenting the insignificance of
+relativistic effects.
+
+For UPt₄Ge₁₂, however, the DFT calculations (not shown here) do not
+disclose any magnetic ordering, thereby confirming experimental
+observations. The total DOS at E_(F) of 16.21 states eV⁻¹ f. u⁻¹ is
+significantly larger than that of ThPt₄Ge₁₂. The corresponding
+Sommerfeld value γ =38.2 mJ/mol K² turns out to be smaller than the
+experimental value of 156 mJ/mol K² pointing toward the pronounced
+effect of spin fluctuations.
+
+## IV Summary
+
+The Th,UPt₄Ge₁₂ compounds are further representatives of family of
+skutterudites with a [Pt₄Ge₁₂] sublattice. Resistivity,
+magnetic-susceptibility and specific-heat measurements indicate a
+phonon-mediated superconducting state in ThPt₄Ge₁₂ below T_(c)=4.75 K.
+
+Superconducting properties of ThPt₄Ge₁₂ have been analyzed in detail
+[μ₀H_(c2)(0)=0.21 T, ξ₀=4×10⁻⁸ m, λ(0) =1.2×10⁻⁷], characterizing
+ThPt₄Ge₁₂ as a type II superconductor in the proximity of the clean
+limit. UPt₄Ge₁₂ is dominated by spin fluctuations at low temperatures,
+preventing magnetic order and SC. DFT calculations proved the
+hybridization between Ge 4p-like and Pt 5d-like states in an energy
+
+Figure 6: (Color online) (a) Temperature-dependent specific heat C_(p)
+of UPt₄Ge₁₂ plotted as C_(p)/T vs T. The inset shows low-temperature
+details and the solid line is a least-squares fit based on a spin
+fluctuation model. (b) Low-temperature heat capacity of ThPt₄Ge₁₂ and
+UPt₄Ge₁₂ plotted as C_(p)/T vs T.
+
+Figure 7: (Color online) DOS for ThPt₄Ge₁₂ as derived from DFT
+calculations. Fermi energy is situated at zero energy. The upper half
+(a) shows the density of states for a fully relativistic calculation,
+which includes spin-orbit coupling. The lower half (b) of the figure
+presents the DOS of a standard nonrelativistic calculation. The total
+DOS is decomposed into the local DOS representative for one Th, four Pt,
+and twelve Ge atoms. The graphs clearly demonstrate the very dominant
+character of Ge states particularly at Fermi energy. These states are of
+expressed p-like character. The relativistic effect is small.
+
+region around the Fermi level, dominating the DOS at E_(F).
+Consequently, SC arises primarily from the electronic [Pt₄Ge₁₂]
+sublattice states while Th (and U) plays a key role to electronically
+stabilize these skutterudites.
+
+During revision of the paper we learned that SC in ThPt₄Ge₁₂ was
+recently also discovered by Kaczorowski and Tran.[22]
+
+###### Acknowledgements.
+
+Work supported by the Austrian science foundation FWF Projects No.
+P18054 and No. P16778/2. X.Q.C. is grateful to the partial support of
+the National Nature Science Fund of China (Project No. 50604004). P.R.
+is grateful to COST P16 "ECOM" for a short term mission in ITN.
+
+## References
+
+* [1] E. Bauer, A. Grytsiv, Xing-Qiu Chen, N. Melnychenko-Koblyuk, G.
+Hilscher, H. Kaldarar, H. Michor, E. Royanian, G. Giester, M. Rotter, R.
+Podloucky, and P. Rogl, Phys. Rev. Lett. **99**, 217001 (2007). * [2] A.
+Grytsiv, Xing-Qiu Chen, N. Melnychenko-Koblyuk, P. Rogl, E. Bauer, G.
+Hilscher, H. Kaldarar, H. Michor, E. Royanian, R. Podloucky, M. Rotter,
+and G. Giester, J. Phys. Soc. Jpn. **77**, 121 (2008). * [3] E. Bauer,
+A. Grytsiv, X.-Q. Chen, N. Melnychenko-Koblyuk, G. Hilscher, H.
+Kaldarar, H. Michor, E. Royanian, M. Rotter, R. Podloucky, and P. Rogl,
+Adv. Mater. (Weinheim, Ger.) **20**, 1325 (2008). * [4] R. Gumeniuk, W.
+Schnelle, H. Rosner, M. Nicklas, A. Leithe-Jasper, and Yu. Grin, Phys.
+Rev. Lett. **100**, 017002 (2008). * [5] V. Sechovsky and L. Havela, in
+_Handbook of Magnetic Materials, Volume 11_, edited by K. H. J. Buschow,
+Elsevier, Amsterdam, 1998, p. 1. * [6] G. Kresse and J. Furthmuller,
+Comput. Mater. Sci. **6**, 15 (1996). * [7] G. Kresse and J.
+Furthmuller, Phys. Rev. B **54**, 11169 (1996). * [8] P. E. Blochl,
+Phys. Rev. B **50**, 17953 (1994). * [9] G. Kresse and D. Joubert, Phys.
+Rev. B **59**, 1758 (1999). * [10] J. P. Perdew, K. Burke, and M.
+Ernzerhof, Phys. Rev. Lett. **77**, 3865 (1996). * [11] W. Jeitschko and
+D. J. Braun, Acta Crystallogr., Sect. B: Struct. Crystallogr. Cryst.
+Chem. **33**, 3401 (1977). * [12] D. W. Woodard and G. D. Cody, Phys.
+Rev. **136**, A166 (1964). * [13] A. Junod, D. Bichsel, and J. Mueller,
+Helv. Phys. Acta **52**, 580 (1979). * [14] A. Junod, T. Jarlborg, and
+J. Muller, Phys. Rev. B **27**, 1568 (1983). * [15] W. L. McMillan,
+Phys. Rev. **167**, 331 (1968). * [16] N. R. Werthamer, E. Helfand, and
+P. C. Hohenberg Bell, Phys. Rev. **147**, 295 (1966). * [17] K. Maki,
+Phys. Rev. **148**, 362 (1966). * [18] K. M. Wong, E. J. Cotts, and S.
+J. Poon, Phys. Rev. B **30**, 1253 (1984). * [19] R. R. Hake, Phys. Rev.
+**158**, 356 (1967). * [20] T. P. Orlando, E. J. McNiff, Jr., S. Foner,
+and M. R. Beasley, Phys. Rev. B **19**, 4545 (1979). * [21] G.
+Henkelman, A. Arnaldsson, and H. Jonsson, Comput. Mater. Sci. **36**,
+254 (2006). * [22] D. Kaczorowski and V. H. Tran, Phys. Rev. B **77**,
+180504(R) (2008).

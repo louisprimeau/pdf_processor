@@ -1,0 +1,297 @@
+
+
+# Anisotropic two-gap superconductivity and the absence of a Pauli paramagnetic limit
+
+in single-crystalline LaO_{0.5}F_{0.5}BiS_{2}
+
+Y. C. Chan
+
+K. Y. Yip
+
+Y. W. Cheung
+
+Y. T. Chan
+
+J. Kajitani
+
+R. Higashinaka
+
+T. D. Matsuda
+
+Y. Yanase
+
+Y. Aoki
+
+K. T. Lai
+
+Swee K. Goh
+
+Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China Department of Physics, Tokyo Metropolitan University, Hachioji, Tokyo 192-0397, Japan Department of Physics, Kyoto University, Kyoto 606-8502, Japan Shenzhen Research Institute, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
+###### Abstract
+
+Ambient-pressure-grown LaO_{0.5}F_{0.5}BiS_{2}, with a superconducting transition temperature T_{c}\sim 3 K possesses a highly anisotropic normal state. By a series of electrical resistivity measurements with a magnetic-field direction varying between the crystalline c axis and the ab plane, we present datasets displaying the temperature dependence of the out-of-plane upper critical field H_{c2}^{\perp}(T), the in-plane upper critical field H_{c2}^{\perp}(T), as well as the angular dependence of H_{c2} at fixed temperatures for ambient-pressure-grown LaO_{0.5}F_{0.5}BiS_{2} single crystals. The anisotropy of the superconductivity, H_{c2}^{\perp}/H_{c2}^{\perp}, reaches \sim16 on approaching 0 K, but it decreases significantly near T_{c}. A pronounced upward curvature of H_{c2}^{\perp}(T) is observed near T_{c}, which we analyze using a two-gap model. Moreover, H_{c2}^{\parallel}(0) is found to exceed the Pauli paramagnetic limit, which can be understood by considering the strong spin-orbit coupling associated with Bi as well as the breaking of the local inversion symmetry at the electronically active BiS_{2} bilayers. Hence, LaO_{0.5}F_{0.5}BiS_{2} with a centrosymmetric lattice structure is a unique platform to explore the physics associated with local parity violation in the bulk crystal.
+
+2017 2018 2018 2017 2018 2018 2017 2018 2017 2018 
+
+## II Experiment
+
+Single crystals of LaO_{0.5}F_{0.5}BiS_{2} were grown by the CsCl flux method using stoichiometrically mixed starting materials consisting of La_{2}S_{3} (99.9%), Bi_{2}O_{3} (99.999%), and BiF_{3} (99.99%) powders, as well as Bi (99.99%) and Bi_{2}S_{3} (99.999%) grains. They were homogenized with the flux medium CsCl (99.9%) and were then sealed in a quartz tube under a vacuum of 1 x 10^{-3} Pa. The ampoule was annealed at 900^{\circ}C for 12 h, followed by a slow cooling to 500^{\circ}C at a rate of 2.4^{\circ}C/h. After the heat treatment, the flux was removed by H_{2}O to extract single crystals. Single-crystal and powder x-ray analyses have shown that the crystal structure belongs to the space group P4/nmm (cf. Fig. 1) and the lattice parameters are a=4.0585 A and c=13.324 A, which is consistent with previous reports [12]. Assuming Vegard's law [17], the value of c indicates x=0.502\pm 0.029. The temperature dependence of electrical resistivity \rho(T) was measured using a standard four-probe technique with current flowing in the ab plane. The electrical contacts were made with gold wires glued on a freshly cleaved surface of the sample by silver paste (Dupont 6838). Crystal 1 (C1) was measured down to 30 mK using a dilution fridge (BlueFors Cryogenics) equipped with a 14 T magnet, whereas crystal 2 (C2) was studied using a rotator in a Physical Property Measurement System (Quantum Design) down to 2.0 K.
+
+## III Results and Discussion
+
+Figure 1 shows \rho(T) for C1 from 300 to 2 K at ambient pressure without a magnetic field. The \rho(T) curve exhibits a semiconducting-like behavior, which broadly resembles that of polycrystalline samples [13, 18, 19, 24], except for a convex curvature from \sim15 to 200 K. The convex curvature could be related to the discovery of weak superlattice reflections at low temperatures by single-crystal x-ray diffraction [25]. The top inset shows the enlarged \rho(T) curve from 2 to 10 K, featuring a sharp superconducting transition with the onset temperature \sim5 K. For the quantitative analysis of the superconductivity, we adopt the "50% criterion," as indicated by the arrow in the top inset of Fig. 1, by defining T_{c} (H_{c2}) as the temperature (field) at which the resistivity is 50% of the normal state value \rho_{a}. With this criterion, T_{c} of C1 is 3.7 K.
+
+Figures 2(a) and 2(b) show \rho(T) for C1 under various magnetic fields with H\perp ab and H\parallel ab, respectively. For H\perp ab, T_{c} is greatly suppressed with an increasing magnetic field. On the contrary, for H\parallel ab, T_{c} is significantly more robust against the applied field, indicating a large anisotropy factor \gamma for LaO_{0.5}F_{0.5}BiS_{2}. At low temperatures, the superconducting transition becomes significantly broader for H\perp ab. The broadening can be quantified by \Delta T_{c}/T_{c}=[T_{c}(90\%\rho_{n})-T_{c}(10\%\rho_{n})]/T_{c}(50\%\rho_{n}). For H\parallel ab, \Delta T_{c}/T_{c} merely increases from \sim0.26 at T_{c} to 0.46 at 0.44T_{c}. However, for H\perp ab, \Delta T_{c}/T_{c} already reaches 0.82 at 0.56T_{c}. These in-field behaviors could be due to the poor pinning of pancake vortices in this anisotropic, two-dimensional superconductor. This scenario is plausible, since \xi_{\perp} (see below) is less than the lattice constant c.
+
+Figures 2(c) and 2(d) display the field dependence of electrical resistivity \rho(H) at different temperatures from 4.0 K
+
+Figure 2: Temperature dependence of resistivity \rho(T) for crystal 1 under various magnetic fields with (a) H\perp ab and (b) H\parallel ab. Field dependence of resistivity \rho(H) at different temperatures with (c) H\perp ab and (d) H\parallel ab. The black arrow indicates increasing temperatures. Representative curves covering a longer field range are labeled in the legend.
+
+Figure 1: Temperature dependence of resistivity \rho(T) at ambient pressure without a magnetic field for crystal 1. Top inset: the enlarged resistivity curve near the superconducting transition, with the arrow indicating the T_{c}, defined as 50% of the normal state resistivity \rho_{n}. Bottom inset: the crystal structure of LaO_{0.5}F_{0.5}BiS_{2} with a space group of P4/nmm.
+
+ down to \sim30 mK with H\perp ab and H\parallel ab, respectively. With increasing H for H\perp ab, \rho(H) increases and, at 4.0 and 1.0 K, saturates at the same field-independent normal state value of 16.0 m\Omega cm. This shows that the magnetoresistance does not vary strongly within the field and temperature windows of interest. With H\parallel ab, the magnetoresistance is expected to be even weaker. In fact, the weak magnetoresistance is not surprising, given the large residual resistivity of the sample. Hence, we take 16.0 m\Omega cm as the universal normal state resistivity for the determination of H_{c2}. Again, H_{c2} determined from \rho(H) is sensitive to the field direction [note the range of field axes in Figs. 2(c) and 2(d)].
+
+From \rho(T) and \rho(H), we construct the H-T phase diagram for H\parallel ab and H\perp ab, as displayed in Fig. 3. The critical values obtained from both temperature sweeps (open symbols) and field sweeps (closed symbols) overlap smoothly, exhibiting excellent agreement with each other. From these data, \xi_{\parallel} and \xi_{\perp} can be calculated by using H_{c2}^{\perp}=\frac{\Phi_{1}}{2\pi\xi_{\parallel}^{2}} and H_{c2}^{\parallel}=\frac{\phi_{0}}{2\pi\xi_{\parallel}\xi_{\perp}}, resulting in \xi_{\parallel}\sim 21.7 nm and \xi_{\perp}\sim 1.13 nm at 1 K. Our single-crystal data further reveal two interesting behaviors that have not been reported in polycrystalline LaO_{0.5}F_{0.5}BiS_{2} studies [16, 18, 26]. First, H_{c2}^{\parallel}(T) becomes unexpectedly high when approaching 0 K. Below 2 K, it exceeds the Pauli limited field H_{p}(0)\left[\text{T}\right]=1.84T_{c} [K] \approx 7.36 T for weakly coupled BCS superconductors [27, 28]. Second, a pronounced upward curvature of H_{c2}^{\parallel}(T) near T_{c} is observed. These features are unambiguously not compatible with the one-gap Werthamer-Helfand-Hohenberg (WHH) theory [29]. On the other hand, H_{c2}^{\perp}(T) is much smaller and shows an upward curvature near 2 K (see the inset of Fig. 3). We have simulated the temperature dependence of H_{c2} using the WHH theory (dash-dotted line), and the mismatch between the data and the simulation clearly implies that the WHH theory is also not applicable to H_{c2}^{\perp}(T).
+
+Muon spin relaxation measurements on AP - LaO_{0.5}F_{0.5}BiS_{2} suggest the possibility of the two-gap superconductivity [30]. In addition, scanning tunneling spectroscopy data on NdO_{0.5}F_{0.5}BiS_{2} reveal the existence of two superconducting gaps [31]. It has been pointed out that H_{c2}(T) can be rather unconventional in the presence of multiple superconducting gaps, as discussed in MgB_{2} and several iron-based superconductors [32, 33, 34]. Inspired by these works, we apply the two-gap model [35] to analyze the temperature dependence of H_{c2} for LaO_{0.5}F_{0.5}BiS_{2}. Within the two-gap model in the dirty limit, H_{c2}(T) is implicitly described by
+
+\[a_{0}[\text{ln}t+U(h)][\text{ln}t+U(\eta h)]\] \[+a_{2}[\text{ln}t+U(\eta h)]+a_{1}[\text{ln}t+U(h)]=0\] (1)
+
+with a_{1}=1+(\lambda_{11}-\lambda_{22})/[(\lambda_{11}-\lambda_{22})^{2}+4 \lambda_{12}\lambda_{21}]^{1/2}, a_{2}=1-(\lambda_{11}-\lambda_{22})/[(\lambda_{11}-\lambda_{22})^{2}+4\lambda _{12}\lambda_{21}]^{1/2}, a_{0}=2(\lambda_{11}\lambda_{22}-\lambda_{12}\lambda_{21})/[(\lambda_{11}- \lambda_{22})^{2}+4\lambda_{12}\lambda_{21}]^{1/2}, t=T/T_{c}, h=D_{1}H_{c2}/2\phi_{0}T, \eta=D_{2}/D_{1}, and U(x)=\psi(x+0.5)-\psi(0.5).   Although the two-gap model in the dirty limit successfully captures the temperature dependence of both H_{c2}^{\parallel} and H_{c2}^{\perp}, the absence of the Pauli limit should be noted: H_{c2}^{\parallel}(0) exceeds the Pauli field by a factor of 2. Because of the large atomic number of Bi, the system has a strong spin-orbit coupling (SOC). A possible mechanism is spin-orbit scattering, in which the electron scattering depends on both its spin and orbital angular momentum in the presence of strong SOC. Theoretical calculations showed that such a spin-orbit scattering can enhance H_{c2}^{\parallel}(0) by up to five times of H_{p}[43]. Another mechanism is related to the spatial symmetry of the crystal structure. LaO_{0.5}F_{0.5}BiS_{2} crystallizes in a centrosymmetric space group P4/mmm, which possesses a global inversion symmetry. However, upon examining the crystal structure of LaO_{0.5}F_{0.5}BiS_{2} (Fig. 1), the electronically active BiS_{2} bilayers do not possess an inversion symmetry. Such a breaking of the local inversion symmetry can result in a large Rashba-Dresselhaus SOC [44, 45, 46, 47, 48, 49, 44], which locks the spin directions onto the ab plane. Hence the coupling between the external in-plane field and these spins is reduced, effectively protecting the Cooper pairs from depairing, and consequently the Zeeman effect is suppressed. Therefore, the combined effects from the dirty two-gap case and the strong spin-orbit coupling can explain the huge enhancement of H_{c2}^{\parallel}(0) in LaO_{0.5}F_{0.5}BiS_{2}. In the isostructural compounds LaO_{0.5}F_{0.5}BiSe_{2} and LaO_{0.5}F_{0.5}BiS_{5}, a similar enhancement of H_{c2}^{\parallel} at low temperatures has also been reported [50, 51, 52], which can be understood using the same framework developed for our case. The anisotropy factor \gamma at the 0 K limit is 13.6 and 32.3 for LaO_{0.5}F_{0.5}BiSe_{2} and LaO_{0.5}F_{0.5}BiSSe, respectively. Note that other contributions to H_{c2} enhancement may be possible, such as strong electron-phonon coupling and localized charge-density waves predicted by band-structure calculations [20, 21, 53, 54, 55]. Further investigations will shed light on this issue.
+
+To further investigate the anisotropic superconductivity in single-crystalline LaO_{0.5}F_{0.5}BiS_{2}, we measured the angular dependence of H_{c2} in crystal 2 (C2) at 2, 2.3, and 2.55 K. Although C2 has a lower T_{c} of 2.84 K, the H-T phase diagram is similar to C1 discussed earlier, as shown in the top inset of Fig. 4. In the main panel of Fig. 4, the collected H_{c2}(\theta) data of C2 are displayed. H_{c2} is highly sensitive to the field angle, and H_{c2}(\theta) can be reasonably well-described by the two-gap model [35]:
+
+\[H_{c2}(\theta)=\frac{8\phi_{o}(T_{c}-T)}{\pi^{2}[a_{1}D_{1}(\theta)+a_{2}D_{2} (\theta)]}\] (2)
+
+with the angular-dependent diffusivities D_{1}(\theta) and D_{2}(\theta):
+
+\[D_{m}(\theta)=\left[D_{m}^{(a)2}\cos^{2}\theta+D_{m}^{(a)}D_{m}^{(c)}\sin^{2} \theta\right]^{1/2},\ m=1,2,\] (3)
+
+where D_{m}^{(a)} and D_{m}^{(c)} are the principal values of the diffusivity tensor in the ab plane and along the c axis, respectively. For this analysis, we also obtain D_{2}>D_{1} for all angles \theta, consistent with the analysis of H_{c2}(T) exhibited in the top inset of Fig. 4 and in Fig. 3. For comparison, we also perform an analysis with a one-gap model by setting a_{2}=0, D_{2}=0, and a_{1}=2. The one-gap model, which is equivalent to the anisotropic mass model, gives a slightly poorer description of the data, as evidenced in the dataset at 2.55 K (see the bottom inset of Fig. 4). Therefore, both the angular dependence and the temperature dependence of H_{c2} in LaO_{0.5}F_{0.5}BiS_{2} are in good agreement with the two-gap model.
+
+Recently, laser-based angle-resolved photoemission spectroscopy (ARPES) on NdO_{0.71}F_{0.29}BiS_{2} revealed the existence of gap nodes on the same Fermi sheet, giving rise to superconducting gaps of distinct sizes [56]. These gaps could be responsible for the two-gap physics we discussed above. A recent calculation discusses the possibility of having two different gaps on a single Fermi surface sheet, and it shows that the gaps are connected to the variation of orbital mixing along the Fermi surface sheet [57]. However, thermal conductivity [58] and penetration depth [59] measurements on the same Nd-based systems did not detect the existence of the gap nodes. It has been argued that the laser ARPES study probes a much smaller, and hence more homogeneous, region than the other probes. Similar studies on LaO_{0.5}F_{0.5}BiS_{2}, in which we observe strong evidence of two-gap superconductivity, are highly desirable.
+
+## IV Conclusions
+
+In summary, we have measured both the angular- and temperature-dependent H_{c2} of LaO_{0.5}F_{0.5}BiS_{2} single crystals. The temperature dependence of H_{c2} at H\parallel ab shows a pronounced upward curvature, and at low temperatures H_{c2}^{\parallel} greatly exceeds the Pauli paramagnetic limit. We employ a dirty-limit two-gap model to describe our data, and we discuss the role of spin-orbit coupling resulting from the breaking of the local inversion symmetry. The angular dependence of H_{c2} can also be described satisfactorily with the two-gap model.
+
+Figure 4: Angular dependence of H_{c2} for crystal 2 at 2, 2.3, and 2.55 K (solid symbols). The solid lines are the fits using the two-gap model. The angle \theta=90^{\circ} (0^{\circ}) corresponds to H\parallel ab (H\perp ab). Top inset: H-T phase diagram constructed for crystal 2, showing a temperature dependence similar to the sample discussed earlier. Arrows indicate the temperatures where angular-dependent studies were conducted. Bottom inset: expanded low-field region for a clearer view of H_{c2}(\theta) at 2.55 K.
+
+  Our data show that LaO_{0.5}F_{0.5}BiS_{2} is a highly anisotropic two-gap spin-orbit coupled superconductor.
+
+###### Acknowledgements.
+
+ We acknowledge Corentin Morice for discussion. This work was supported by Research Grants Council of Hong Kong (GRF/14301316, GRF/14300117)), CUHK Direct Grants (No. 3132719 and No. 3132720), CUHK Startup (No. 4930048), National Natural Science Foundation of China (No. 11504310), JSPS KAKENHI (JP15H03693, JP15K05178, JP16J05692, JP16K05454, JP15K05164, and JP15H05745), Grant-in-Aid for Scientific Research on Innovative Areas "J-Physics" (JP15H05884), and "Topological Materials Science" (JP16H00991). Y.C.C. and K.Y.Y. contributed equally to this work.
+
+## References
+
+* [1] Y. Mizuguchi, H. Fujihisa, Y. Gotoh, K. Suzuki, H. Usui, K. Kuroki, S. Demura, Y. Takano, H. Izawa, and O. Miura, Phys. Rev. B **86**, 220510 (2012).
+* [2] S. K. Singh, A. Kumar, B. Gahtori, G. Sharma, S. Patnaik, and V. P. Awana, J. Am. Chem. Soc. **134**, 16504 (2012).
+* [3] D. Yazici, I. Jeon, B. D. White, and M. B. Maple, Physica C **514**, 218 (2015).
+* [4] J. G. Bednorz and K. A. Muller, Z. Phys. B **64**, 189 (1986).
+* [5] M. K. Wu, J. R. Ashburn, C. J. Torng, P. H. Hor, R. L. Meng, L. Gao, Z. J. Huang, Y. Q. Wang, and C. W. Chu, Phys. Rev. Lett. **58**, 908 (1987).
+* [6] Y. Kamihara, T. Watanabe, M. Hirano, and H. Hosono, J. Am. Chem. Soc. **130**, 3296 (2008).
+* [7] M. Rotter, M. Tegel, and D. Johrendt, Phys. Rev. Lett. **101**, 107006 (2008).
+* [8] D. Yazici, K. Huang, B. D. White, A. H. Chang, A. J. Friedman, and M. B. Maple, Philos. Mag. **93**, 673 (2013).
+* [9] Y. Mizuguchi, T. Hiroi, J. Kajitani, H. Takatsu, H. Kadowaki, and O. Miura, J. Phys. Soc. Jpn. **83**, 053704 (2014).
+* [10] C. Morice, E. Artacho, S. E. Dutton, H.-J. Kim, and S. S. Saxena, J. Phys.: Condens. Matter **28**, 345504 (2016).
+* [11] D. Yazici, K. Huang, B. D. White, I. Jeon, V. W. Burnett, A. J. Friedman, I. K. Lum, M. Nallaiyan, S. Spagna, and M. B. Maple, Phys. Rev. B **87**, 174512 (2013).
+* [12] Y. Mizuguchi, S. Demura, K. Deguchi, Y. Takano, H. Fujihisa, Y. Gotoh, H. Izawa, and O. Miura, J. Phys. Soc. Jpn. **81**, 114725 (2012).
+* [13] H. Kotegawa, Y. Tomita, H. Tou, H. Izawa, Y. Mizuguchi, O. Miura, S. Demura, K. Deguchi, and Y. Takano, J. Phys. Soc. Jpn. **81**, 103702 (2012).
+* [14] K. Deguchi, Y. Mizuguchi, S. Demura, H. Hara, T. Watanabe, S. J. Denholme, M. Fujioka, H. Okazaki, T. Ozaki, H. Takeya _et al._, Europhys. Lett. **101**, 17004 (2013).
+* [15] J. Lee, M. B. Stone, A. Huq, T. Yildirim, G. Ehlers, Y. Mizuguchi, O. Miura, Y. Takano, K. Deguchi, S. Demura _et al._, Phys. Rev. B **87**, 205134 (2013).
+* [16] R. Higashinaka, R. Miyazaki, Y. Mizuguchi, O. Miura, and Y. Aoki, J. Phys. Soc. Jpn. **83**, 075004 (2014).
+* [17] M. Nagao, Novel Supercond. Mater. **1**, 64 (2015).
+* [18] R. Jha, H. Kishan, and V. P. S. Awana, J. Phys. Chem. Solids **84**, 17 (2015).
+* [19] T. Tomita, M. Ebata, H. Soeda, H. Takahashi, H. Fujihisa, Y. Gotoh, Y. Mizuguchi, H. Izawa, O. Miura, S. Demura _et al._, J. Phys. Soc. Jpn. **83**, 063704 (2014).
+* [20] X. Wan, H.-C. Ding, S. Y. Savrasov, and C.-G. Duan, Phys. Rev. B **87**, 115124 (2013).
+* [21] T. Yildirim, Phys. Rev. B **87**, 020506(R) (2013).
+* [22] H. Usui, K. Suzuki, and K. Kuroki, Phys. Rev. B **86**, 220501 (2012).
+* [23] Y. Mizuguchi, A. Miyake, K. Akiba, M. Tokunaga, J. Kajitani, and O. Miura, Phys. Rev. B **89**, 174515 (2014).
+* [24] C. T. Wolowiec, D. Yazici, B. D. White, K. Huang, and M. B. Maple, Phys. Rev. B **88**, 064503 (2013).
+* [25] J. Kajitani _et al._ (unpublished).
+* [26] Y. Fang, C. Wolowiec, A. Breindel, D. Yazici, P.-C. Ho, and M. Maple, Supercond. Sci. Technol. **30** 115004 (2017).
+* [27] A. M. Clogston, Phys. Rev. Lett. **9**, 266 (1962).
+* [28] B. S. Chandrasekhar, Appl. Phys. Lett. **1**, 7 (1962).
+* [29] N. R. Werthamer, E. Helfand, and P. C. Hohenberg, Phys. Rev. **147**, 295 (1966).
+* [30] J. Zhang, K. Huang, Z. F. Ding, D. E. MacLaughlin, O. O. Bernal, P.-C. Ho, C. Tan, X. Liu, D. Yazici, M. B. Maple _et al._, Phys. Rev. B **94**, 224502 (2016).
+* [31] J. Liu, D. Fang, Z. Wang, J. Xing, Z. Du, S. Li, X. Zhu, H. Yang, and H.-H. Wen, Europhys. Lett. **106**, 67002 (2014).
+* [32] X. Xing, W. Zhou, J. Wang, Z. Zhu, Y. Zhang, N. Zhou, B. Qian, X. Xu, and Z. Shi, Sci. Rep. **7**, 45943 (2017).
+* [33] J. Hanisch, K. Iida, F. Kurth, E. Reich, C. Tarantini, J. Jaroszynski, T. Forster, G. Fuchs, R. Huhne, V. Grinenko _et al._, Sci. Rep. **5**, 17363 (2015).
+* [34] F. Hunte, J. Jaroszynski, A. Gurevich, D. C. Larbalestier, R. Jin, A. S. Sefat, M. A. McGuire, B. C. Sales, D. K. Christen, and D. Mandrus, Nature (London) **453**, 903 (2008).
+* [35] A. Gurevich, Phys. Rev. B **67**, 184515 (2003).
+* [36] A. Gurevich, Physica C **456**, 160 (2007).
+* [37] T. P. Orlando, E. J. McNiff, S. Foner, and M. R. Beasley, Phys. Rev. B **19**, 4545 (1979).
+* [38] C. Tarantini, A. Gurevich, J. Jaroszynski, F. Balakirev, E. Bellingeri, I. Pallecchi, C. Ferdeghini, B. Shen, H. H. Wen, and D. C. Larbalestier, Phys. Rev. B **84**, 184522 (2011).
+* [39] V. P. S. Awana, A. Kumar, R. Jha, S. K. Singh, A. Pal, Shruti, J. Saha, and S. Patnaik, Solid State Commun. **157**, 21 (2013).
+* [40] S.-L. Wu, K. Sumida, K. Miyamoto, K. Taguchi, T. Yoshikawa, A. Kimura, Y. Ueda, M. Arita, M. Nagao, S. Watauchi, I. Tanaka, and T. Okuda, Nat. Commun. **8**, 1919 (2017).
+* [41] T. Sugimoto, D. Ootsuki, C. Morice, E. Artacho, S. S. Saxena, E. F. Schwier, M. Zheng, Y. Kojima, H. Iwasawa, K. Shimada _et al._, Phys. Rev. B **92**, 041113 (2015).
+* [42] Direct estimation of the mean free path using a single-band Drude model and the measured resistivity value lead to \ell_{\rho}\simeq 0.34 nm. This value is much smaller than \ell estimated from \xi_{0} and \xi_{1}. Such a small \ell_{\rho}, even slightly smaller than the lattice constant a, is puzzling. The small \ell_{\rho} could come from an overestimation of the effective sample thickness, due to the fact that LaO_{0.5}F_{0.5}BiS_{2} is a highly two-dimensional material, and hence the transport current only flows in the top few layers. Furthermore, the estimation assumes a single, strictly two-dimensional Fermi surface and the absence of any Fermi  surface gapping (e.g., due to charge order). A more realistic estimation could change the values of \ell_{\rho}, but is unlikely to affect the conclusion that both \ell and \ell_{\rho} are much smaller than \xi_{0}.
+* [43] R. A. Klemm, A. Luther, and M. R. Beasley, Phys. Rev. B **12**, 877 (1975).
+* [44] M. H. Fischer, F. Loder, and M. Sigrist, Phys. Rev. B **84**, 184533 (2011).
+* [45] D. Maruyama, M. Sigrist, and Y. Yanase, J. Phys. Soc. Jpn. **81**, 034702 (2012).
+* [46] A. D. Caviglia, M. Gabay, S. Gariglio, N. Reyren, C. Cancellieri, and J.-M. Triscone, Phys. Rev. Lett. **104**, 126803 (2010).
+* [47] S. K. Goh, Y. Mizukami, H. Shishido, D. Watanabe, S. Yasumoto, M. Shimozawa, M. Yamashita, T. Terashima, Y. Yanase, T. Shibauchi _et al._, Phys. Rev. Lett. **109**, 157006 (2012).
+* [48] M. Shimozawa, S. K. Goh, R. Endo, R. Kobayashi, T. Watashige, Y. Mizukami, H. Ikeda, H. Shishido, Y. Yanase, T. Terashima _et al._, Phys. Rev. Lett. **112**, 156404 (2014).
+* [49] X. Zhang, Q. Liu, J.-W. Luo, A. J. Freeman, and A. Zunger, Nat. Phys. **10**, 387 (2014).
+* [50] J. Shao, Z. Liu, X. Yao, L. Zhang, L. Pi, S. Tan, C. Zhang, and Y. Zhang, Europhys. Lett. **107**, 37006 (2014).
+* [51] N. Kase, Y. Terui, T. Nakano, and N. Takeda, Phys. Rev. B **96**, 214506 (2017).
+* [52] Y. Terui, N. Kase, T. Nakano, and N. Takeda, J. Phys. Conf. Ser. **871**, 012005 (2017).
+* [53] B. Li, Z. W. Xing, and G. Q. Huang, Europhys. Lett. **101**, 47002 (2013).
+* [54] M. Schossmann and J. P. Carbotte, Phys. Rev. B **39**, 4210 (1989).
+* [55] C. Morice, R. Akashi, T. Koretsune, S. S. Saxena, and R. Arita, Phys. Rev. B **95**, 180505 (2017).
+* [56] Y. Ota, K. Okazaki, H. Q. Yamamoto, T. Yamamoto, S. Watanabe, C. Chen, M. Nagao, S. Watauchi, I. Tanaka, Y. Takano _et al._, Phys. Rev. Lett. **118**, 167002 (2017).
+* [57] M. A. Griffith, T. O. Puel, M. A. Continentino, and G. B. Martins, J. Phys.: Condens. Matter **29**, 305601 (2017).
+* [58] T. Yamashita, Y. Tokiwa, D. Terazawa, M. Nagao, S. Watauchi, I. Tanaka, T. Terashima, and Y. Matsuda, J. Phys. Soc. Jpn. **85**, 073707 (2016).
+* [59] L. Jiao, Z. Weng, J. Liu, J. Zhang, G. Pang, C. Guo, F. Gao, X. Zhu, H.-H. Wen, and H. Q. Yuan, J. Phys.: Condens. Matter **27**, 225701 (2015).
+
+ 
+
+# Anisotropic two-gap superconductivity and the absence of a Pauli paramagnetic limit
+
+in single-crystalline LaO_{0.5}F_{0.5}BiS_{2}
+
+Y. C. Chan
+
+K. Y. Yip
+
+Y. W. Cheung
+
+Y. T. Chan
+
+J. Kajitani
+
+R. Higashinaka
+
+T. D. Matsuda
+
+Y. Yanase
+
+Y. Aoki
+
+K. T. Lai
+
+Swee K. Goh
+
+Department of Physics, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China Department of Physics, Tokyo Metropolitan University, Hachioji, Tokyo 192-0397, Japan Department of Physics, Kyoto University, Kyoto 606-8502, Japan Shenzhen Research Institute, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong, China
+
+###### Abstract
+
+Ambient-pressure-grown LaO_{0.5}F_{0.5}BiS_{2}, with a superconducting transition temperature T_{c}\sim 3 K possesses a highly anisotropic normal state. By a series of electrical resistivity measurements with a magnetic-field direction varying between the crystalline c axis and the ab plane, we present datasets displaying the temperature dependence of the out-of-plane upper critical field H_{c2}^{\perp}(T), the in-plane upper critical field H_{c2}^{\perp}(T), as well as the angular dependence of H_{c2} at fixed temperatures for ambient-pressure-grown LaO_{0.5}F_{0.5}BiS_{2} single crystals. The anisotropy of the superconductivity, H_{c2}^{\perp}/H_{c2}^{\perp}, reaches \sim16 on approaching 0 K, but it decreases significantly near T_{c}. A pronounced upward curvature of H_{c2}^{\perp}(T) is observed near T_{c}, which we analyze using a two-gap model. Moreover, H_{c2}^{\parallel}(0) is found to exceed the Pauli paramagnetic limit, which can be understood by considering the strong spin-orbit coupling associated with Bi as well as the breaking of the local inversion symmetry at the electronically active BiS_{2} bilayers. Hence, LaO_{0.5}F_{0.5}BiS_{2} with a centrosymmetric lattice structure is a unique platform to explore the physics associated with local parity violation in the bulk crystal.
+
+2017 2018 2018 2017 2018 2018 2017 2018 2017 2018 
+
+## II Experiment
+
+Single crystals of LaO_{0.5}F_{0.5}BiS_{2} were grown by the CsCl flux method using stoichiometrically mixed starting materials consisting of La_{2}S_{3} (99.9%), Bi_{2}O_{3} (99.999%), and BiF_{3} (99.99%) powders, as well as Bi (99.99%) and Bi_{2}S_{3} (99.999%) grains. They were homogenized with the flux medium CsCl (99.9%) and were then sealed in a quartz tube under a vacuum of 1 x 10^{-3} Pa. The ampoule was annealed at 900^{\circ}C for 12 h, followed by a slow cooling to 500^{\circ}C at a rate of 2.4^{\circ}C/h. After the heat treatment, the flux was removed by H_{2}O to extract single crystals. Single-crystal and powder x-ray analyses have shown that the crystal structure belongs to the space group P4/nmm (cf. Fig. 1) and the lattice parameters are a=4.0585 A and c=13.324 A, which is consistent with previous reports [12]. Assuming Vegard's law [17], the value of c indicates x=0.502\pm 0.029. The temperature dependence of electrical resistivity \rho(T) was measured using a standard four-probe technique with current flowing in the ab plane. The electrical contacts were made with gold wires glued on a freshly cleaved surface of the sample by silver paste (Dupont 6838). Crystal 1 (C1) was measured down to 30 mK using a dilution fridge (BlueFors Cryogenics) equipped with a 14 T magnet, whereas crystal 2 (C2) was studied using a rotator in a Physical Property Measurement System (Quantum Design) down to 2.0 K.
+
+## III Results and Discussion
+
+Figure 1 shows \rho(T) for C1 from 300 to 2 K at ambient pressure without a magnetic field. The \rho(T) curve exhibits a semiconducting-like behavior, which broadly resembles that of polycrystalline samples [13, 18, 19, 24], except for a convex curvature from \sim15 to 200 K. The convex curvature could be related to the discovery of weak superlattice reflections at low temperatures by single-crystal x-ray diffraction [25]. The top inset shows the enlarged \rho(T) curve from 2 to 10 K, featuring a sharp superconducting transition with the onset temperature \sim5 K. For the quantitative analysis of the superconductivity, we adopt the "50% criterion," as indicated by the arrow in the top inset of Fig. 1, by defining T_{c} (H_{c2}) as the temperature (field) at which the resistivity is 50% of the normal state value \rho_{a}. With this criterion, T_{c} of C1 is 3.7 K.
+
+Figures 2(a) and 2(b) show \rho(T) for C1 under various magnetic fields with H\perp ab and H\parallel ab, respectively. For H\perp ab, T_{c} is greatly suppressed with an increasing magnetic field. On the contrary, for H\parallel ab, T_{c} is significantly more robust against the applied field, indicating a large anisotropy factor \gamma for LaO_{0.5}F_{0.5}BiS_{2}. At low temperatures, the superconducting transition becomes significantly broader for H\perp ab. The broadening can be quantified by \Delta T_{c}/T_{c}=[T_{c}(90\%\rho_{n})-T_{c}(10\%\rho_{n})]/T_{c}(50\%\rho_{n}). For H\parallel ab, \Delta T_{c}/T_{c} merely increases from \sim0.26 at T_{c} to 0.46 at 0.44T_{c}. However, for H\perp ab, \Delta T_{c}/T_{c} already reaches 0.82 at 0.56T_{c}. These in-field behaviors could be due to the poor pinning of pancake vortices in this anisotropic, two-dimensional superconductor. This scenario is plausible, since \xi_{\perp} (see below) is less than the lattice constant c.
+
+Figures 2(c) and 2(d) display the field dependence of electrical resistivity \rho(H) at different temperatures from 4.0 K
+
+Figure 2: Temperature dependence of resistivity \rho(T) for crystal 1 under various magnetic fields with (a) H\perp ab and (b) H\parallel ab. Field dependence of resistivity \rho(H) at different temperatures with (c) H\perp ab and (d) H\parallel ab. The black arrow indicates increasing temperatures. Representative curves covering a longer field range are labeled in the legend.
+
+Figure 1: Temperature dependence of resistivity \rho(T) at ambient pressure without a magnetic field for crystal 1. Top inset: the enlarged resistivity curve near the superconducting transition, with the arrow indicating the T_{c}, defined as 50% of the normal state resistivity \rho_{n}. Bottom inset: the crystal structure of LaO_{0.5}F_{0.5}BiS_{2} with a space group of P4/nmm.
+
+ down to \sim30 mK with H\perp ab and H\parallel ab, respectively. With increasing H for H\perp ab, \rho(H) increases and, at 4.0 and 1.0 K, saturates at the same field-independent normal state value of 16.0 m\Omega cm. This shows that the magnetoresistance does not vary strongly within the field and temperature windows of interest. With H\parallel ab, the magnetoresistance is expected to be even weaker. In fact, the weak magnetoresistance is not surprising, given the large residual resistivity of the sample. Hence, we take 16.0 m\Omega cm as the universal normal state resistivity for the determination of H_{c2}. Again, H_{c2} determined from \rho(H) is sensitive to the field direction [note the range of field axes in Figs. 2(c) and 2(d)].
+
+From \rho(T) and \rho(H), we construct the H-T phase diagram for H\parallel ab and H\perp ab, as displayed in Fig. 3. The critical values obtained from both temperature sweeps (open symbols) and field sweeps (closed symbols) overlap smoothly, exhibiting excellent agreement with each other. From these data, \xi_{\parallel} and \xi_{\perp} can be calculated by using H_{c2}^{\perp}=\frac{\Phi_{1}}{2\pi\xi_{\parallel}^{2}} and H_{c2}^{\parallel}=\frac{\phi_{0}}{2\pi\xi_{\parallel}\xi_{\perp}}, resulting in \xi_{\parallel}\sim 21.7 nm and \xi_{\perp}\sim 1.13 nm at 1 K. Our single-crystal data further reveal two interesting behaviors that have not been reported in polycrystalline LaO_{0.5}F_{0.5}BiS_{2} studies [16, 18, 26]. First, H_{c2}^{\parallel}(T) becomes unexpectedly high when approaching 0 K. Below 2 K, it exceeds the Pauli limited field H_{p}(0)\left[\text{T}\right]=1.84T_{c} [K] \approx 7.36 T for weakly coupled BCS superconductors [27, 28]. Second, a pronounced upward curvature of H_{c2}^{\parallel}(T) near T_{c} is observed. These features are unambiguously not compatible with the one-gap Werthamer-Helfand-Hohenberg (WHH) theory [29]. On the other hand, H_{c2}^{\perp}(T) is much smaller and shows an upward curvature near 2 K (see the inset of Fig. 3). We have simulated the temperature dependence of H_{c2} using the WHH theory (dash-dotted line), and the mismatch between the data and the simulation clearly implies that the WHH theory is also not applicable to H_{c2}^{\perp}(T).
+
+Muon spin relaxation measurements on AP - LaO_{0.5}F_{0.5}BiS_{2} suggest the possibility of the two-gap superconductivity [30]. In addition, scanning tunneling spectroscopy data on NdO_{0.5}F_{0.5}BiS_{2} reveal the existence of two superconducting gaps [31]. It has been pointed out that H_{c2}(T) can be rather unconventional in the presence of multiple superconducting gaps, as discussed in MgB_{2} and several iron-based superconductors [32, 33, 34]. Inspired by these works, we apply the two-gap model [35] to analyze the temperature dependence of H_{c2} for LaO_{0.5}F_{0.5}BiS_{2}. Within the two-gap model in the dirty limit, H_{c2}(T) is implicitly described by
+
+\[a_{0}[\text{ln}t+U(h)][\text{ln}t+U(\eta h)]\] \[+a_{2}[\text{ln}t+U(\eta h)]+a_{1}[\text{ln}t+U(h)]=0\] (1)
+
+with a_{1}=1+(\lambda_{11}-\lambda_{22})/[(\lambda_{11}-\lambda_{22})^{2}+4 \lambda_{12}\lambda_{21}]^{1/2}, a_{2}=1-(\lambda_{11}-\lambda_{22})/[(\lambda_{11}-\lambda_{22})^{2}+4\lambda _{12}\lambda_{21}]^{1/2}, a_{0}=2(\lambda_{11}\lambda_{22}-\lambda_{12}\lambda_{21})/[(\lambda_{11}- \lambda_{22})^{2}+4\lambda_{12}\lambda_{21}]^{1/2}, t=T/T_{c}, h=D_{1}H_{c2}/2\phi_{0}T, \eta=D_{2}/D_{1}, and U(x)=\psi(x+0.5)-\psi(0.5).   Although the two-gap model in the dirty limit successfully captures the temperature dependence of both H_{c2}^{\parallel} and H_{c2}^{\perp}, the absence of the Pauli limit should be noted: H_{c2}^{\parallel}(0) exceeds the Pauli field by a factor of 2. Because of the large atomic number of Bi, the system has a strong spin-orbit coupling (SOC). A possible mechanism is spin-orbit scattering, in which the electron scattering depends on both its spin and orbital angular momentum in the presence of strong SOC. Theoretical calculations showed that such a spin-orbit scattering can enhance H_{c2}^{\parallel}(0) by up to five times of H_{p}[43]. Another mechanism is related to the spatial symmetry of the crystal structure. LaO_{0.5}F_{0.5}BiS_{2} crystallizes in a centrosymmetric space group P4/mmm, which possesses a global inversion symmetry. However, upon examining the crystal structure of LaO_{0.5}F_{0.5}BiS_{2} (Fig. 1), the electronically active BiS_{2} bilayers do not possess an inversion symmetry. Such a breaking of the local inversion symmetry can result in a large Rashba-Dresselhaus SOC [44, 45, 46, 47, 48, 49, 44], which locks the spin directions onto the ab plane. Hence the coupling between the external in-plane field and these spins is reduced, effectively protecting the Cooper pairs from depairing, and consequently the Zeeman effect is suppressed. Therefore, the combined effects from the dirty two-gap case and the strong spin-orbit coupling can explain the huge enhancement of H_{c2}^{\parallel}(0) in LaO_{0.5}F_{0.5}BiS_{2}. In the isostructural compounds LaO_{0.5}F_{0.5}BiSe_{2} and LaO_{0.5}F_{0.5}BiS_{5}, a similar enhancement of H_{c2}^{\parallel} at low temperatures has also been reported [50, 51, 52], which can be understood using the same framework developed for our case. The anisotropy factor \gamma at the 0 K limit is 13.6 and 32.3 for LaO_{0.5}F_{0.5}BiSe_{2} and LaO_{0.5}F_{0.5}BiSSe, respectively. Note that other contributions to H_{c2} enhancement may be possible, such as strong electron-phonon coupling and localized charge-density waves predicted by band-structure calculations [20, 21, 53, 54, 55]. Further investigations will shed light on this issue.
+
+To further investigate the anisotropic superconductivity in single-crystalline LaO_{0.5}F_{0.5}BiS_{2}, we measured the angular dependence of H_{c2} in crystal 2 (C2) at 2, 2.3, and 2.55 K. Although C2 has a lower T_{c} of 2.84 K, the H-T phase diagram is similar to C1 discussed earlier, as shown in the top inset of Fig. 4. In the main panel of Fig. 4, the collected H_{c2}(\theta) data of C2 are displayed. H_{c2} is highly sensitive to the field angle, and H_{c2}(\theta) can be reasonably well-described by the two-gap model [35]:
+
+\[H_{c2}(\theta)=\frac{8\phi_{o}(T_{c}-T)}{\pi^{2}[a_{1}D_{1}(\theta)+a_{2}D_{2} (\theta)]}\] (2)
+
+with the angular-dependent diffusivities D_{1}(\theta) and D_{2}(\theta):
+
+\[D_{m}(\theta)=\left[D_{m}^{(a)2}\cos^{2}\theta+D_{m}^{(a)}D_{m}^{(c)}\sin^{2} \theta\right]^{1/2},\ m=1,2,\] (3)
+
+where D_{m}^{(a)} and D_{m}^{(c)} are the principal values of the diffusivity tensor in the ab plane and along the c axis, respectively. For this analysis, we also obtain D_{2}>D_{1} for all angles \theta, consistent with the analysis of H_{c2}(T) exhibited in the top inset of Fig. 4 and in Fig. 3. For comparison, we also perform an analysis with a one-gap model by setting a_{2}=0, D_{2}=0, and a_{1}=2. The one-gap model, which is equivalent to the anisotropic mass model, gives a slightly poorer description of the data, as evidenced in the dataset at 2.55 K (see the bottom inset of Fig. 4). Therefore, both the angular dependence and the temperature dependence of H_{c2} in LaO_{0.5}F_{0.5}BiS_{2} are in good agreement with the two-gap model.
+
+Recently, laser-based angle-resolved photoemission spectroscopy (ARPES) on NdO_{0.71}F_{0.29}BiS_{2} revealed the existence of gap nodes on the same Fermi sheet, giving rise to superconducting gaps of distinct sizes [56]. These gaps could be responsible for the two-gap physics we discussed above. A recent calculation discusses the possibility of having two different gaps on a single Fermi surface sheet, and it shows that the gaps are connected to the variation of orbital mixing along the Fermi surface sheet [57]. However, thermal conductivity [58] and penetration depth [59] measurements on the same Nd-based systems did not detect the existence of the gap nodes. It has been argued that the laser ARPES study probes a much smaller, and hence more homogeneous, region than the other probes. Similar studies on LaO_{0.5}F_{0.5}BiS_{2}, in which we observe strong evidence of two-gap superconductivity, are highly desirable.
+
+## IV Conclusions
+
+In summary, we have measured both the angular- and temperature-dependent H_{c2} of LaO_{0.5}F_{0.5}BiS_{2} single crystals. The temperature dependence of H_{c2} at H\parallel ab shows a pronounced upward curvature, and at low temperatures H_{c2}^{\parallel} greatly exceeds the Pauli paramagnetic limit. We employ a dirty-limit two-gap model to describe our data, and we discuss the role of spin-orbit coupling resulting from the breaking of the local inversion symmetry. The angular dependence of H_{c2} can also be described satisfactorily with the two-gap model.
+
+Figure 4: Angular dependence of H_{c2} for crystal 2 at 2, 2.3, and 2.55 K (solid symbols). The solid lines are the fits using the two-gap model. The angle \theta=90^{\circ} (0^{\circ}) corresponds to H\parallel ab (H\perp ab). Top inset: H-T phase diagram constructed for crystal 2, showing a temperature dependence similar to the sample discussed earlier. Arrows indicate the temperatures where angular-dependent studies were conducted. Bottom inset: expanded low-field region for a clearer view of H_{c2}(\theta) at 2.55 K.
+
+  Our data show that LaO_{0.5}F_{0.5}BiS_{2} is a highly anisotropic two-gap spin-orbit coupled superconductor.
+
+###### Acknowledgements.
+
+ We acknowledge Corentin Morice for discussion. This work was supported by Research Grants Council of Hong Kong (GRF/14301316, GRF/14300117)), CUHK Direct Grants (No. 3132719 and No. 3132720), CUHK Startup (No. 4930048), National Natural Science Foundation of China (No. 11504310), JSPS KAKENHI (JP15H03693, JP15K05178, JP16J05692, JP16K05454, JP15K05164, and JP15H05745), Grant-in-Aid for Scientific Research on Innovative Areas "J-Physics" (JP15H05884), and "Topological Materials Science" (JP16H00991). Y.C.C. and K.Y.Y. contributed equally to this work.
+
+## References
+
+* [1] Y. Mizuguchi, H. Fujihisa, Y. Gotoh, K. Suzuki, H. Usui, K. Kuroki, S. Demura, Y. Takano, H. Izawa, and O. Miura, Phys. Rev. B **86**, 220510 (2012).
+* [2] S. K. Singh, A. Kumar, B. Gahtori, G. Sharma, S. Patnaik, and V. P. Awana, J. Am. Chem. Soc. **134**, 16504 (2012).
+* [3] D. Yazici, I. Jeon, B. D. White, and M. B. Maple, Physica C **514**, 218 (2015).
+* [4] J. G. Bednorz and K. A. Muller, Z. Phys. B **64**, 189 (1986).
+* [5] M. K. Wu, J. R. Ashburn, C. J. Torng, P. H. Hor, R. L. Meng, L. Gao, Z. J. Huang, Y. Q. Wang, and C. W. Chu, Phys. Rev. Lett. **58**, 908 (1987).
+* [6] Y. Kamihara, T. Watanabe, M. Hirano, and H. Hosono, J. Am. Chem. Soc. **130**, 3296 (2008).
+* [7] M. Rotter, M. Tegel, and D. Johrendt, Phys. Rev. Lett. **101**, 107006 (2008).
+* [8] D. Yazici, K. Huang, B. D. White, A. H. Chang, A. J. Friedman, and M. B. Maple, Philos. Mag. **93**, 673 (2013).
+* [9] Y. Mizuguchi, T. Hiroi, J. Kajitani, H. Takatsu, H. Kadowaki, and O. Miura, J. Phys. Soc. Jpn. **83**, 053704 (2014).
+* [10] C. Morice, E. Artacho, S. E. Dutton, H.-J. Kim, and S. S. Saxena, J. Phys.: Condens. Matter **28**, 345504 (2016).
+* [11] D. Yazici, K. Huang, B. D. White, I. Jeon, V. W. Burnett, A. J. Friedman, I. K. Lum, M. Nallaiyan, S. Spagna, and M. B. Maple, Phys. Rev. B **87**, 174512 (2013).
+* [12] Y. Mizuguchi, S. Demura, K. Deguchi, Y. Takano, H. Fujihisa, Y. Gotoh, H. Izawa, and O. Miura, J. Phys. Soc. Jpn. **81**, 114725 (2012).
+* [13] H. Kotegawa, Y. Tomita, H. Tou, H. Izawa, Y. Mizuguchi, O. Miura, S. Demura, K. Deguchi, and Y. Takano, J. Phys. Soc. Jpn. **81**, 103702 (2012).
+* [14] K. Deguchi, Y. Mizuguchi, S. Demura, H. Hara, T. Watanabe, S. J. Denholme, M. Fujioka, H. Okazaki, T. Ozaki, H. Takeya _et al._, Europhys. Lett. **101**, 17004 (2013).
+* [15] J. Lee, M. B. Stone, A. Huq, T. Yildirim, G. Ehlers, Y. Mizuguchi, O. Miura, Y. Takano, K. Deguchi, S. Demura _et al._, Phys. Rev. B **87**, 205134 (2013).
+* [16] R. Higashinaka, R. Miyazaki, Y. Mizuguchi, O. Miura, and Y. Aoki, J. Phys. Soc. Jpn. **83**, 075004 (2014).
+* [17] M. Nagao, Novel Supercond. Mater. **1**, 64 (2015).
+* [18] R. Jha, H. Kishan, and V. P. S. Awana, J. Phys. Chem. Solids **84**, 17 (2015).
+* [19] T. Tomita, M. Ebata, H. Soeda, H. Takahashi, H. Fujihisa, Y. Gotoh, Y. Mizuguchi, H. Izawa, O. Miura, S. Demura _et al._, J. Phys. Soc. Jpn. **83**, 063704 (2014).
+* [20] X. Wan, H.-C. Ding, S. Y. Savrasov, and C.-G. Duan, Phys. Rev. B **87**, 115124 (2013).
+* [21] T. Yildirim, Phys. Rev. B **87**, 020506(R) (2013).
+* [22] H. Usui, K. Suzuki, and K. Kuroki, Phys. Rev. B **86**, 220501 (2012).
+* [23] Y. Mizuguchi, A. Miyake, K. Akiba, M. Tokunaga, J. Kajitani, and O. Miura, Phys. Rev. B **89**, 174515 (2014).
+* [24] C. T. Wolowiec, D. Yazici, B. D. White, K. Huang, and M. B. Maple, Phys. Rev. B **88**, 064503 (2013).
+* [25] J. Kajitani _et al._ (unpublished).
+* [26] Y. Fang, C. Wolowiec, A. Breindel, D. Yazici, P.-C. Ho, and M. Maple, Supercond. Sci. Technol. **30** 115004 (2017).
+* [27] A. M. Clogston, Phys. Rev. Lett. **9**, 266 (1962).
+* [28] B. S. Chandrasekhar, Appl. Phys. Lett. **1**, 7 (1962).
+* [29] N. R. Werthamer, E. Helfand, and P. C. Hohenberg, Phys. Rev. **147**, 295 (1966).
+* [30] J. Zhang, K. Huang, Z. F. Ding, D. E. MacLaughlin, O. O. Bernal, P.-C. Ho, C. Tan, X. Liu, D. Yazici, M. B. Maple _et al._, Phys. Rev. B **94**, 224502 (2016).
+* [31] J. Liu, D. Fang, Z. Wang, J. Xing, Z. Du, S. Li, X. Zhu, H. Yang, and H.-H. Wen, Europhys. Lett. **106**, 67002 (2014).
+* [32] X. Xing, W. Zhou, J. Wang, Z. Zhu, Y. Zhang, N. Zhou, B. Qian, X. Xu, and Z. Shi, Sci. Rep. **7**, 45943 (2017).
+* [33] J. Hanisch, K. Iida, F. Kurth, E. Reich, C. Tarantini, J. Jaroszynski, T. Forster, G. Fuchs, R. Huhne, V. Grinenko _et al._, Sci. Rep. **5**, 17363 (2015).
+* [34] F. Hunte, J. Jaroszynski, A. Gurevich, D. C. Larbalestier, R. Jin, A. S. Sefat, M. A. McGuire, B. C. Sales, D. K. Christen, and D. Mandrus, Nature (London) **453**, 903 (2008).
+* [35] A. Gurevich, Phys. Rev. B **67**, 184515 (2003).
+* [36] A. Gurevich, Physica C **456**, 160 (2007).
+* [37] T. P. Orlando, E. J. McNiff, S. Foner, and M. R. Beasley, Phys. Rev. B **19**, 4545 (1979).
+* [38] C. Tarantini, A. Gurevich, J. Jaroszynski, F. Balakirev, E. Bellingeri, I. Pallecchi, C. Ferdeghini, B. Shen, H. H. Wen, and D. C. Larbalestier, Phys. Rev. B **84**, 184522 (2011).
+* [39] V. P. S. Awana, A. Kumar, R. Jha, S. K. Singh, A. Pal, Shruti, J. Saha, and S. Patnaik, Solid State Commun. **157**, 21 (2013).
+* [40] S.-L. Wu, K. Sumida, K. Miyamoto, K. Taguchi, T. Yoshikawa, A. Kimura, Y. Ueda, M. Arita, M. Nagao, S. Watauchi, I. Tanaka, and T. Okuda, Nat. Commun. **8**, 1919 (2017).
+* [41] T. Sugimoto, D. Ootsuki, C. Morice, E. Artacho, S. S. Saxena, E. F. Schwier, M. Zheng, Y. Kojima, H. Iwasawa, K. Shimada _et al._, Phys. Rev. B **92**, 041113 (2015).
+* [42] Direct estimation of the mean free path using a single-band Drude model and the measured resistivity value lead to \ell_{\rho}\simeq 0.34 nm. This value is much smaller than \ell estimated from \xi_{0} and \xi_{1}. Such a small \ell_{\rho}, even slightly smaller than the lattice constant a, is puzzling. The small \ell_{\rho} could come from an overestimation of the effective sample thickness, due to the fact that LaO_{0.5}F_{0.5}BiS_{2} is a highly two-dimensional material, and hence the transport current only flows in the top few layers. Furthermore, the estimation assumes a single, strictly two-dimensional Fermi surface and the absence of any Fermi  surface gapping (e.g., due to charge order). A more realistic estimation could change the values of \ell_{\rho}, but is unlikely to affect the conclusion that both \ell and \ell_{\rho} are much smaller than \xi_{0}.
+* [43] R. A. Klemm, A. Luther, and M. R. Beasley, Phys. Rev. B **12**, 877 (1975).
+* [44] M. H. Fischer, F. Loder, and M. Sigrist, Phys. Rev. B **84**, 184533 (2011).
+* [45] D. Maruyama, M. Sigrist, and Y. Yanase, J. Phys. Soc. Jpn. **81**, 034702 (2012).
+* [46] A. D. Caviglia, M. Gabay, S. Gariglio, N. Reyren, C. Cancellieri, and J.-M. Triscone, Phys. Rev. Lett. **104**, 126803 (2010).
+* [47] S. K. Goh, Y. Mizukami, H. Shishido, D. Watanabe, S. Yasumoto, M. Shimozawa, M. Yamashita, T. Terashima, Y. Yanase, T. Shibauchi _et al._, Phys. Rev. Lett. **109**, 157006 (2012).
+* [48] M. Shimozawa, S. K. Goh, R. Endo, R. Kobayashi, T. Watashige, Y. Mizukami, H. Ikeda, H. Shishido, Y. Yanase, T. Terashima _et al._, Phys. Rev. Lett. **112**, 156404 (2014).
+* [49] X. Zhang, Q. Liu, J.-W. Luo, A. J. Freeman, and A. Zunger, Nat. Phys. **10**, 387 (2014).
+* [50] J. Shao, Z. Liu, X. Yao, L. Zhang, L. Pi, S. Tan, C. Zhang, and Y. Zhang, Europhys. Lett. **107**, 37006 (2014).
+* [51] N. Kase, Y. Terui, T. Nakano, and N. Takeda, Phys. Rev. B **96**, 214506 (2017).
+* [52] Y. Terui, N. Kase, T. Nakano, and N. Takeda, J. Phys. Conf. Ser. **871**, 012005 (2017).
+* [53] B. Li, Z. W. Xing, and G. Q. Huang, Europhys. Lett. **101**, 47002 (2013).
+* [54] M. Schossmann and J. P. Carbotte, Phys. Rev. B **39**, 4210 (1989).
+* [55] C. Morice, R. Akashi, T. Koretsune, S. S. Saxena, and R. Arita, Phys. Rev. B **95**, 180505 (2017).
+* [56] Y. Ota, K. Okazaki, H. Q. Yamamoto, T. Yamamoto, S. Watanabe, C. Chen, M. Nagao, S. Watauchi, I. Tanaka, Y. Takano _et al._, Phys. Rev. Lett. **118**, 167002 (2017).
+* [57] M. A. Griffith, T. O. Puel, M. A. Continentino, and G. B. Martins, J. Phys.: Condens. Matter **29**, 305601 (2017).
+* [58] T. Yamashita, Y. Tokiwa, D. Terazawa, M. Nagao, S. Watauchi, I. Tanaka, T. Terashima, and Y. Matsuda, J. Phys. Soc. Jpn. **85**, 073707 (2016).
+* [59] L. Jiao, Z. Weng, J. Liu, J. Zhang, G. Pang, C. Guo, F. Gao, X. Zhu, H.-H. Wen, and H. Q. Yuan, J. Phys.: Condens. Matter **27**, 225701 (2015).
+
+ 

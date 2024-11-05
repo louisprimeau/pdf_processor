@@ -1,0 +1,385 @@
+Two-gap superconductivity seen in penetration-depth measurements of
+Lu₂Fe₃Si₅ single crystals
+
+R. T. Gordon
+
+Annes Laboratory and Department of Physics & Astronomy, Iowa State
+University, Ames, Iowa 50011, USA
+
+M. D. Vannette
+
+Annes Laboratory and Department of Physics & Astronomy, Iowa State
+University, Ames, Iowa 50011, USA
+
+C. Martin
+
+Annes Laboratory and Department of Physics & Astronomy, Iowa State
+University, Ames, Iowa 50011, USA
+
+Y. Nakajima
+
+Department of Applied Physics, The University of Tokyo, Hongo,
+Bunkyo-ku, Tokyo 113-8656, Japan
+
+T. Tamegai
+
+Department of Applied Physics, The University of Tokyo, Hongo,
+Bunkyo-ku, Tokyo 113-8656, Japan
+
+J. R. Prozorov
+
+Annes Laboratory and Department of Physics & Astronomy, Iowa State
+University, Ames, Iowa 50011, USA
+
+3 June 2008; revised manuscript received 20 June 2008; published 21 July
+2008
+
+###### Abstract
+
+A single crystal of superconducting Lu₂Fe₃Si₅ was studied using the
+tunnel-diode resonator technique in the Meissner and mixed states. The
+temperature dependence of the superfluid density provides strong
+evidence for two-gap superconductivity and indicates that there are
+nearly equal contributions from each gap having magnitudes of
+Δ₁/k_(B)T_(c)=1.86 and Δ₂/k_(B)T_(c)=0.54. In the vortex state, the
+pinning strength shows unusually strong temperature dependence and is
+nonmonotonic with the magnetic field (peak effect). The irreversibility
+line is sharply defined and quite distant from the H_(c2)(T) line, which
+hints at enhanced vortex fluctuations in this two-gap system.
+Altogether, our findings from electromagnetic measurements provide
+strong support for the existence of two-gap superconductivity in
+Lu₂Fe₃Si₅, as previously suggested from specific-heat measurements.
+
+pacs: 10.1103/PhysRevB.78.024514 + Footnote †: preprint: PHYSICAL REVIEW
+B **78**, 024514 (2008)
+
+## I Introduction
+
+Initially, interest in the rare-earth iron containing silicides M₂Fe₃Si₅
+(M= Y,Sc, and Lu) was due to unusually high superconducting critical
+temperatures (2.4, 4.5, and 6.0 K, respectively) for compounds
+containing crystallographically ordered iron sublattices.[1]⁵⁷Fe
+Mossbauer effect measurements indicate that the iron in these materials
+possess no magnetic moments.[2, 3] Further detailed studies have
+revealed that other superconducting properties are quite unconventional.
+The upper critical field H_(c2)(0) for Lu₂Fe₃Si₅ has been found to be
+unusually large when compared to the other iron-containing silicide
+superconductors.[4, 5] and its temperature dependence differs from
+convention. Anisotropy and a pronounced peak effect have also been
+reported in magnetic measurements.[6] The presence of a large residual
+electronic term in the specific heat below T_(c), as well as a reduced
+specific heat jump at T_(c), has been observed and confirmed indicating
+departure from standard Bardeen-Cooper-Schrieffer (BCS)-like
+behavior.[7, 6] Nonmagnetic impurities have been shown to suppress T_(c)
+at a significant rate, which is incompatible with the isotropic s-wave
+BCS picture.[8, 9] On the other hand, ac Josephson effect measurements
+have indicated an s-wave pairing mechanism.[10] Vining, Shelton, Braun,
+and Pelizzone have proposed a two-band model in order to explain their
+specific-heat data.[7] Their model assumes a two-band Fermi surface with
+one band being superconducting and gapped, and another being normal.
+This represents an extreme case of multiband superconductivity as we
+know it today, for example in MgB₂, where different bands have gaps of
+different magnitudes.[11, 12] Later detailed measurements of Lu₂Fe₃Si₅
+crystals and analysis have shown that specific-heat data is explained
+quantitatively well within a two-band model of superconductivity where
+both bands are gapped but with different gap amplitudes.[13] Recently, a
+class of superconductors, the iron-containing oxypnictides, was
+discovered.[14] It has been suggested that these materials could also be
+multigap superconductors.[15]
+
+In this contribution, precision measurements of the London and Campbell
+penetration depths are presented, the superfluid density is analyzed,
+and unusual vortex properties are reported. We conclude that Lu₂Fe₃Si₅
+is, indeed, a two-gap superconductor. It seems that multiband
+superconductivity is more widespread and develops when there are
+different dimensionalities of the Fermi surface on different bands,
+which leads to reduced interband scattering. In MgB₂ there are two- and
+three-dimensional bands,[11, 12] whereas Lu₂Fe₃Si₅ has one- and
+three-dimensional Fermi surfaces.[13]
+
+## II Experiment
+
+### Tunnel-diode resonator technique
+
+Measurements of the Lu₂Fe₃Si₅ single crystal were performed using a
+tunnel diode resonator (TDR).[16, 17, 18] An extended review of the use
+of a TDR to study superconductors is given in Ref. [16]. The main
+components of the TDR are an LC tank circuit and a tunnel diode. The
+tunnel diode has a region of negative differential resistance in its I-V
+curve. If a dc bias voltage is applied across the diode in this region,
+then it acts as an ac power source for the LC tank circuit. This results
+in a self-oscillating circuit, which resonates continuously at a
+constant frequency for given values of L and C. The resonance frequency
+of the circuit used in our measurements was near 14 MHz. All throughout
+the measurements the circuit is kept at a constant temperature, 4.8 K ±
+1 mK, allowing for a stability of 0.05 Hz in the resonance frequency
+over several hours. The sample to be studied is mounted on a sapphire
+rod with a small amount of Apiezon N grease. The sapphire is inserted
+inside of the inductor coil of the tank circuit. It is important that
+the sample and its mount do not make physical contact with the coil so
+that the temperature of the sample may be changed while keeping the
+circuit at a constant temperature to maintain the stability. As the
+magnetic susceptibility of the sample changes with temperature, so does
+the inductance of the tank coil. This results in a change in the TDR
+resonance frequency. By measuring the shift in the resonance frequency,
+we are able to sense changes in the penetration depth on the order of
+0.5 Angstroms. Specifically, the frequency shift, Δf=f(T) − f₀, with
+respect to the resonant frequency of an empty coil, f₀, is given by
+
+$$\Delta f(T)=-\,G4\,\pi\chi(T)=G\left[1-\frac{\lambda}{R}\mathrm{tanh}\left(\frac{ R}{\lambda}\right)\right],$$
+(1)
+
+where G ≈ f₀V_(s)/2V_(c)(1 − N) is the geometry-dependent calibration
+constant, V_(s) is sample volume, V_(c) is the effective coil volume,
+and N is the demagnetization factor. The effective sample dimension R is
+calculated by using the technique shown in Ref. [17]. As described in
+detail in Ref. [18], it is difficult to obtain the absolute value of the
+penetration depth due to uncertainties in the sample dimension. However,
+it is possible to calibrate the system with great accuracy by using the
+temperature-dependent skin depth, δ(T), measured just above T_(c). In
+that regime, both the real and imaginary parts of the susceptibility are
+taken into account and the frequency shift due to the skin effect is
+Δf(T)_(T > T_(c)) = G[1 − (δ/2R)tanh(2R/δ)]. The skin depth,
+$\delta(T)\!=\!c\sqrt{\rho(T)/2\pi\omega}$, is evaluated independently
+from the temperature-dependent resistivity, ρ(T), measured by the
+four-probe technique. This is shown in Fig. 1, where resonator data are
+shown in empty circles and data obtained from measured resistivity are
+shown as a solid line. Apparently, the agreement is very good. In
+addition to excellent stability and sensitivity, an advantage of this
+technique is the use of very low excitation fields, ∼20 mOe, which
+ensures that the sample is in the Meissner state. Furthermore, by
+superimposing an external dc field, we can probe the vortex state in the
+so-called Campbell regime, where small excitations ensure that the
+vortices remain in their potential wells.
+
+### Samples
+
+The single crystal of Lu₂Fe₃Si₅ was grown by the floating-zone technique
+using an image furnace followed by an annealing as described in detail
+elsewhere.[13] The sample was a rectangular slab having dimensions
+0.99 × 0.84 × 0.15 mm³ with the c axis perpendicular to the largest
+face. To study possible anisotropy of the response, the measurements
+were performed with the excitation field both parallel and perpendicular
+to the c axis of the sample. A ³He cryostat with the sample in vacuum
+and applied external fields of up to 9 T was used for the reported
+studies.
+
+## III Results and discussion
+
+### London penetration depth (H_(dc)=0)
+
+Figure 2 shows the temperature dependence of the London penetration
+depth, λ_(ab)(T), obtained from measurements along and perpendicular to
+the c axis. Both orientations give λ_(ab)(T). This is because the
+penetration depth is proportional to the volume of magnetic field
+penetrating the sample from different sides. When the excitation field
+is applied parallel to the c axis, only the in-plane currents circulate
+and λ_(ab)(T) is measured directly. However, this configuration is more
+difficult to deal with due to a large demagnetization factor. When the
+excitation field is applied perpendicular to the c axis, currents
+circulate in both the ab plane and along the c-axis direction. However,
+since our sample is thin along the c-axis direction, the relative
+contribution of the currents along this direction,
+∼  t/ ψλ_(c)/λ_(ab) = 0.16λ_(c)/λ_(ab), can be neglected and hence
+λ_(ab)(T) is measured for this orientation as well. Here w and t are the
+planar dimension and thickness, respectively. In addition, the
+anisotropy of this system is small so the error introduced by the above
+approximation is minimal. As can be seen in Fig. 2, the penetration
+depth is very nearly the same for the sample measured in both
+orientations. The value of λ_(ab)(0) = 0.2μm was obtained, as described
+in Ref. [16], from the reversible magnetization dM/ d ln H. This was
+measured independently on the same sample using a _Quantum Design_
+magnetometer. In further analysis, possible uncertainty in this number
+up to 25
+
+The symbols in Fig. 3 show the temperature-dependent superfluid density,
+ρ_(c)(T) = [λ(0)/λ(T)]², calculated from the penetration depth shown in
+Fig. 2. The solid red curve is the total superfluid density calculated
+from the α model, which
+
+Figure 2: (Color online) λ_(ab)(T) obtained from the measurements in two
+orientations, see text for details.
+
+Figure 1: (Color online) Evaluation of the calibration constant by
+matching 4 πχ(T) from the TDR data (circles) to that calculated from the
+skin depth [solid red curve (dark gray in print)] obtained from the
+four-point resistivity measurements.
+
+assumes two independent contributions to the total superfluid density
+and has been successfully applied to the well-known two-gap
+superconductor MgB₂.[11, 12] In this model each superconducting gap,
+denoted by Δ₁(T) and Δ₂(T), has a similar temperature dependence as that
+given by the weak-coupling BCS self-consistency equation.[16] However,
+there are different ratios of Δ₁(0)/k_(B)T_(c) that become two fitting
+parameters. A third fitting parameter gives the relative contribution of
+each band to the total superfluid density,
+$\rho_{\rm total}(T)$=xρ₁(T) + (1 − x)ρ₂(T). Each superfluid density is
+calculated by using the full temperature range semiclassical BCS
+treatment as described in detail elsewhere.[16] These partial ρ₁(T) and
+ρ₂(T) are shown by marked solid lines in Fig. 3. The best fit was
+achieved with x=0.51, Δ₁/k_(B)T_(c)=1.86, and Δ₂/k_(B)T_(c)=0.54. The
+first gap is quite close to the weak-coupling value of 1.76, whereas the
+second gap is much smaller and it is surprising that the earlier
+two-band model assumed it to be fully normal.[7] Similar to MgB₂, the
+two gaps contribute equally to the superfluid density. A dashed line,
+which almost follows the data, is calculated from the parameters
+obtained from analyzing the specific-heat data. The parameters obtained
+from this line are x=0.47, Δ₁/k_(B)T_(c)=2.2, and
+Δ₂/k_(B)T_(c)=0.55.[13] This is in quite good agreement with the values
+obtained for the superfluid density, given the very different nature of
+the measurements. To further highlight the qualitative differences
+between single- and two-gap behavior, we have plotted dρ_(s)/dt in Fig.
+4. Note the characteristic nonmonotonic behavior in the case of two
+gaps. It is neither present in the pure d-wave nor the pure s-wave case.
+
+### Campbell penetration depth ($H_{\rm dc}$≠ 0)
+
+While the situation is quite clear for the London penetration depth,
+measurements in an applied magnetic field reveal more puzzling behavior
+of the studied compound. When an external dc field is applied and a
+small amplitude ac response is probed, the vortices respond elastically
+and the overall susceptibility is governed by the Campbell penetration
+depth, λ²=λ_(L)²+λ_(C)², where λ_(L) is the usual London penetration
+depth described above, and λ_(C)(B, T, j) is the Campbell penetration
+depth, ⁹λ_(C)²=ϕ₀B/4πα(j). Here ϕ₀ is the flux quantum and α(j) is the
+Labusch parameter that generally depends on the biasing Bean current
+generated in the sample, for example after applying a field after
+cooling in zero field. The magnetic susceptibility of the sample (and
+the frequency shift) in the vortex state is still given by Eq. (1), but
+with a generalized penetration depth.
+
+In conventional type-II superconductors there is no hysteresis for
+zero-field-cooled (zfc) and field-cooled (fc) curves of the small
+amplitude ac response. However, in materials where j_(c) is strongly
+temperature dependent (e.g., high-T_(c) cuprates), a large hysteresis is
+observed.[19] As shown in Ref. [19], a cubic correction to a parabolic
+potential well for vortex pinning leads to
+α(j)=$\alpha_{0}\sqrt{1}-j/j_{c}$, where j_(c)=cα₀r_(p)/ϕ₀ is the
+critical current and r_(p) is the radius of the pinning potential. This
+model explains why the zero-field-cooled curve differs from subsequent
+cooling and warming, and it was successfully used to explain the data
+for the Bi₂Sr₂CaCu₂O_(8 + y) superconductor.
+
+4πχ(T) in the vortex state of Lu₂Fe₃Si₃ is shown in Fig. 5 for three
+representative fields. In each case the sample was cooled in zero
+applied field to the base temperature and the indicated magnetic field
+was applied. Then the measurements were taken while warming up the
+sample above T_(c) (zfc-w). Then, the sample was cooled and warmed twice
+without changing the field and while taking the data (fc − c and fc−w).
+For low field values there is no hysteresis observed, while at
+intermediate fields the hysteresis becomes very pronounced. Clearly, the
+hysteresis is associated with the static Bean current, j, induced by
+applying field. We also note that this effect is not associated with the
+vortex density (e.g., less vortices after zfc) because then the initial
+Campbell length would be smaller than it is at equilibrium, not larger
+as observed.
+
+By measuring many 4πχ(T) curves at different magnetic fields, we
+extracted field dependence of the initial suscepti
+
+Figure 3: (Color online) TDR data (symbols) fitted to a two-gap model
+with indicated parameters. The red curve (dark gray in print) shows the
+total superfluid density. Also shown and labeled are the two partial
+superfluid densities as described in the text. The dashed line is
+calculated from the parameters derived from the specific heat data. The
+best fit to the d-wave order parameter is shown for comparison
+(dot-dashed line).
+
+Figure 4: (Color online) dρ_(s)/dt for pure d-wave, s-wave, and the
+present case of two-band superconductivity.
+
+bility obtained after zfc and fc. Figure 6 shows the resulting
+$4\,\pi\chi_{\rm irr}(H)$ (open circles) and $4\,\pi\chi_{\rm rev}(H)$
+(closed squares) curves at T=0.7 K. Figure 7 shows the difference
+between the two curves. This difference is directly related to the
+strength of pinning and magnitude of the apparent Bean current density,
+j, ΔX∼j/j_(c), where we have assumed j≪j_(c). There is a clear peak
+effect and its location is quite compatible with direct measurements
+reported in Ref. [6].
+
+Finally, we construct the H−T phase diagram obtained from our
+measurements for both directions. While the Meissner response is
+governed by currents flowing in the ab plane, in an applied magnetic
+field the response is anisotropic and is determined by the orientation
+of the vortices with respect to the crystal axes. We observe large
+anisotropy of the upper critical field, H_(c2)(T), down to 1 K as shown
+in Fig. 8, which has not been reported in earlier papers. Furthermore,
+H_(c2)(T), determined from the TDR measurements, is in excellent
+agreement with the specific-heat data. Note that H_(c2)(T) is linear in
+temperature down to 0.15T_(c).
+
+Figure 8 also shows position of the irreversibility line (see Fig. 5 for
+definition) for both orientations. Unlike conventional superconductors,
+where $H_{\rm irr}(T)$ is very difficult to determine due to its gradual
+merging into H_(c2)(T), in Lu₂Fe₃Si₅ it is sharply defined and is quite
+distant from the H_(c2)(T). This is another indication of significant
+reduction of the critical current possibly due to enhanced fluctuations
+in the two-gap system.
+
+## IV Conclusions
+
+In conclusion, we have found that Lu₂Fe₃Si₅ shows a Meissner response
+compatible with two-gap s-wave superconductivity. In the vortex state,
+it shows unusually strong temperature dependence of the critical
+current, which is also nonmonotonic with magnetic field (peak effect).
+The upper critical field is anisotropic and linear in temperature. All
+these observations are reminiscent of unconventional superconductivity
+and further theoretical insight to connect these properties is needed.
+
+Figure 5: (Color online) 4 πχ(T) from the TDR data at three different
+values of an applied magnetic field along the c axis. Each curve was
+obtained after cooling in zero field and then warming and cooling twice.
+The labels and arrows indicate various characteristic points used in
+later analysis.
+
+Figure 8: (Color online) H-T phase diagram for Lu₂Fe₃Si₅ crystal in two
+orientations.
+
+Figure 6: (Color online) Open circles: $4\,\pi\chi_{\rm irr}(H)$ at
+T=0.7 K measured by applying field after zfc, as indicated in Fig. 5.
+Closed squares indicate $4\,\pi\chi_{\rm rev}(H)$ obtained on fc.
+
+## Acknowledgments
+
+Discussions with P. C. Canfield and V. G. Kogan are greatly appreciated.
+Work at the Ames Laboratory was supported by the U.S. Department of
+Energy-Basic Energy Sciences under Contract No. DE-AC02-07CH11358. Work
+at the University of Tokyo was supported by a Grant-in-Aid for
+Scientific Research from the Ministry of Education, Culture, Sports,
+Science and Technology. R.P. acknowledges partial support from NSF Grant
+No. DMR-05-53285 and the Alfred P. Sloan Foundation.
+
+## References
+
+* Braun (1980) H. F. Braun, Phys. Lett. **75A**, 386 (1980). * Cashion
+et al. (1980) J. D. Cashion, G. K. Shenoy, D. Niarchos, P. J. Viccaro,
+and C. M. Falco, Phys. Lett. **79A**, 454 (1980). * Braun et al. (1981)
+H. F. Braun, C. U. Segre, F. Acker, M. Rosenberg, S. Dey, and P. Deppe,
+J. Magn. Magn. Mater. **25**, 117 (1981). * Stewart et al. (1985) G. R.
+Stewart, G. P. Meisner, and C. U. Segre, J. Low Temp. Phys. **59**, 237
+(1985). * Umarij et al. (1985) A. M. Umarij, S. K. Malik, and G. K.
+Shenoy, J. Appl. Phys. **57**, 3118 (1985). * Tamegai et al. (2007) T.
+Tamegai, T. Nakagawa, and M. Tokunaga, Physica C **460-462**, 708
+(2007). * Vining et al. (1983) C. B. Vining, R. N. Shelton, H. F. Braun,
+and M. Pelizzone, Phys. Rev. B **27**, 2800 (1983). * Braun and Segre
+(1981) H. F. Braun and C. U. Segre, Bull. Am. Phys. Soc. **26**, 343
+(1981). * Xu and Shelton (1988) T. Xu and R. N. Shelton, Solid State
+Commun. **68**, 395 (1988). * Noer et al. (1985) R. J. Noer, T. P. Chen,
+and E. L. Wolf, Phys. Rev. B **31**, 647 (1985). * Bouquet et al. (2001)
+F. Bouquet, Y. Wang, R. A. Fisher, D. G. Hinks, J. D. Jorgensen, A.
+Junod, and N. E. Phillips, Europhys. Lett. **56**, 856 (2001). * Manzano
+et al. (2002) F. Manzano, A. Carrington, N. E. Hussey, S. Lee, A.
+Yamamoto, and S. Tajima, Phys. Rev. Lett. **88**, 047002 (2002). *
+Nakajima et al. (2008) Y. Nakajima, T. Nakagawa, T. Tamegai, and H.
+Harima, Phys. Rev. Lett. **100**, 157001 (2008). * Kamihara et al.
+(2008) Y. Kamihara, T. Watanabe, M. Hirano, and H. Hosono, J. Am. Chem.
+Soc. **130**, 3296 (2008). * Barzykin and Gorkov (1991) V. Barzykin and
+L. P. Gorkov, arXiv:0806.1933 (unpublished). * Prozorov and Giannetta
+(2006) R. Prozorov and R. W. Giannetta, Supercond. Sci. Technol. **19**,
+R41 (2006). * Prozorov et al. (2000) R. Prozorov, R. W. Giannetta, A.
+Carrington, and F. M. Araujo-Moreira, Phys. Rev. B **62**, 115 (2000). *
+Prozorov et al. (2000) R. Prozorov, R. W. Giannetta, A. Carrington, P.
+Fournier, R. L. Greene, P. Guptasarma, D. G. Hinks, and A. R. Banks,
+Appl. Phys. Lett. **77**, 4202 (2000). * Prozorov et al. (2003) R.
+Prozorov, R. W. Giannetta, N. Kameda, T. Tamegai, J. A. Schlueter, and
+P. Fournier, Phys. Rev. B **67**, 184501 (2003).

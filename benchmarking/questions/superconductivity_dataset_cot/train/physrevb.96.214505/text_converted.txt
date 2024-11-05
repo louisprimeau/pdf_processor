@@ -1,0 +1,373 @@
+High-pressure effects on nonfluorinated BiS₂-based superconductors
+La_(1 − x)M_(x)OBiS₂ (_M_ = Ti and Th)
+
+Y. Fang,^(1, 2) D. Yazici,^(2, 3) I. Jeon,^(1, 2) and M. B.
+Maple^(1, 2, 3,)
+
+¹Materials Science and Engineering Program, University of California,
+San Diego, La Jolla, California 92093, USA
+
+²Center for Advanced Nanoscience, University of California, San Diego,
+La Jolla, California 92093, USA
+
+³Department of Physics, University of California, San Diego, La Jolla,
+California 92093, USA
+
+Received 28 September 2017; revised manuscript received 7 November 2017;
+published 15 December 2017
+
+###### Abstract
+
+Layered LnOBiS₂ (where Ln represents a lanthanide element) compounds
+with Ln = La, Ce, Pr, Nd, and Yb can be rendered conducting and
+superconducting via two routes, substitution of F for O or the
+tetravalent ions Ti, Zr, Hf, and Th for trivalent Ln ions. Electrical
+resistivity measurements on nonfluorinated La_(0.80)Ti_(0.20)OBiS₂ and
+La_(0.85)Th_(0.15)OBiS₂ superconductors were performed between ∼1.5 and
+300 K and under pressure up to 2.4 GPa. For both compounds, the
+superconducting transition temperature T_(c), which is ∼2.9 K at ambient
+pressure, gradually increases with pressure to 3.2-3.7 K at ∼1 GPa,
+above which it is suppressed and the superconducting transitions become
+very broad. Measurements of the normal-state electrical resistivity of
+the two compounds reveal discontinuous changes in the resistivity as a
+function of pressure at ∼0.6 GPa. Surprisingly, above 1.3 GPa,
+semiconductibile behavior reappears in La_(0.80)Ti_(0.20)OBiS₂. This
+paper reveals a new high-pressure phase of La_(1 − x)M_(x)OBiS₂
+containing the tetravalent ions M = Ti, Th which does not favor
+superconductivity. In contrast, application of pressure to fluorinated
+LaO_(0.5)F_(0.5)BiS₂ produces an abrupt tetragonal-monoclinic transition
+to a metallic phase with an enhanced T_(c). These results demonstrate
+that the response of the normal and superconducting properties of
+LaOBiS₂-based compounds depends strongly on the atomic site where the
+electron donor ions are substituted.
+
+DOI: 10.1103/PhysRevB.96.214505
+
+## I Introduction
+
+Following the discovery of superconductivity in the layered bismuth
+oxysulfide compound Bi₄O₄S₃, an intense effort to find new BiS₂-based
+superconductors quickly ensued as a result of the remarkable flexibility
+of the BiS₂ layers in forming compounds with new chemical compositions
+[1, 2, 3, 4]. By doping the BiS₂ layers with electrons via appropriate
+chemical substitutions, superconductivity was found in Ln(O, F)BiS₂ (Ln
+= La-Nd, Yb), (Sr, La)FeBiS₂, (La, _M_)OBiS₂ (_M_ = Ti, Zr, Hf, Th),
+Bi₃O₂S₃, La(O, F)BiSe₂, EuBiS₂F, and EuBi₂Si₂S₄F with values of the
+superconducting transition temperature T_(c) ranging from 2.7 to 10.6 K
+[2, 5, 6, 7, 8, 9, 10, 11, 12]. One of the fascinating features in the
+behavior of several of the BiS₂-based superconductors, including
+LnO_(0.5)F_(0.5)BiS₂ (Ln = La-Nd, Yb), (La, Sm)O_(0.5)F_(0.5)BiS₂,
+Sr_(0.5)Re_(0.5)FBiS₂ (Re = La-Pr, Sm) (where Re represents a rare earth
+element), LaO_(0.5)F_(0.5)BiSe₂, and EuBiS₂F, is the pressure-induced
+enhancement of T_(c) that occurs at about 0.5-2.2 GPa, revealing the
+existence of two distinct superconducting phases [13, 14, 15, 16, 17,
+18, 19]. This phenomenon is believed to be associated with a structural
+phase transition, which has been demonstrated in the case of
+LaO_(0.5)F_(0.5)BiS₂, from a tetragonal structure to a monoclinic
+structure with a sudden change in unit-cell volume at an external
+pressure (P) of ∼0.5 GPa [20].
+
+In addition to the requisite superconducting BiS₂ layers, there are
+other similarities in the compounds reported to have a second
+superconducting phase under high pressure: (1) All of these compounds
+contain F, which resides in blocking layers and donates conduction
+electrons to the BiS₂ layers, and (2) the high-pressure phase has a
+significantly larger value of T_(c) than the low-pressure phase. These
+similarities raise the issue of whether F is essential for the formation
+of the pressure-induced high-T_(c) phase. Recently, superconductivity
+was also found in single-crystalline CeOBiS₂ at 1.3 K, and the value of
+T_(c) could gradually be enhanced under an external pressure [21]. This
+phenomenon was suggested to be related to Ce valence fluctuations, which
+can be tuned via the application of pressure; however, it is still not
+clear if there are concomitant phase transitions. On the other hand, the
+compounds La_(1 − x)M_(x)OBiS₂ (_M_ = Ti, Zr, Hf, Th) were reported to
+have the same crystal structure, very similar lattice parameters, and
+values of T_(c) (∼3 K) similar to that of LaO_(0.5)F_(0.5)BiS₂[8]. The M
+ions in La_(1 − x)M_(x)OBiS₂ are tetravalent and contribute conduction
+electrons to the BiS₂ layers in the absence of F; hence, this system is
+ideal for investigating whether non-F-substituted BiS₂ compounds have a
+second pressure-induced high-T_(c) phase. High-pressure studies of
+La_(1 − x)M_(x)OBiS₂ also have the potential for uncovering new
+superconducting phases in BiS₂-based superconductors and will be very
+helpful in developing an understanding of the nature of the
+pressure-induced low-T_(c) to high-T_(c) phase transition in these
+materials.
+
+## II Experimental details
+
+Polycrystalline samples of La_(0.80)Ti_(0.20)OBiS₂ and
+La_(0.85)Th_(0.15)OBiS₂ were synthesized by solid-state reaction as
+described elsewhere [8]. Geometric factors used in determining the
+electrical resistivity for each sample were measured before applying
+pressure. Hydrostatic pressure was generated by using a clamped
+piston-cylinder cell in which a 1:1 mixture of _n_-pentane and isoamyl
+alcohol by volume was used as the pressure-transmitting medium. The
+pressures applied to the samples were estimated by measuring the of a
+high-purity (> 99.99
+
+## III Results and discussion
+
+The resistive superconducting transition curves ρ(T), normalized to the
+value of ρ in the normal state at 4.2 K for polycrystalline
+La0.80Ti0.20OBiS2 and La0.85Th0.15OBiS2 samples are shown in the upper
+and lower panels of Fig. 1, respectively. The superconducting
+transitions are very sharp for pressures below 0.95 GPa for both
+samples; however, the transitions become quite broad at higher
+pressures, and the values of ρ remain finite down to 1.5 K. The
+relationship between T_(c) and pressure for the two compounds can be
+seen in Fig. 2. T_(c)^(99%), T_(c)^(90%), T_(c)^(50%), and T_(c)^(10%)
+represent the temperatures where ρ falls to 99
+
+Figure 1: Temperature T dependence of electrical resistivity ρ,
+normalized to its normal-state value at 4.2 K, below 4 K for
+La0.80Ti0.20OBiS2 (upper panel) and La0.85Th0.15OBiS2 (lower panel). The
+numbers and symbols with different colors in both panels are used to
+indicate the pressures listed in the lower panel. Most of the ρ(T) data
+(represented by circles) were obtained upon increasing pressure. Crosses
+and the ↓ on the right side of the number 8 in this figure as well as in
+the following figures throughout this paper are used to represent data
+taken upon decreasing pressure.
+
+Figure 2: Superconducting transition temperature T_(c) vs pressure for
+La0.80Ti0.20OBiS2 (upper panel) and La0.85Th0.15OBiS2 (lower panel). The
+temperature at which ρ drops to 99
+
+the width of the superconducting transition, becomes much larger at
+pressures at which T_(c) starts decreasing (0.95 GPa), reflecting
+dramatic changes in the superconductivity. During the pressure releasing
+cycle, the values of T_(c) are reversible, and the superconducting
+transitions become sharp again when the samples have returned to low
+pressures as can be seen in Figs. 1 and 2 (data represented by the
+crosses). These features in the T_(c) vs P data indicate that there are
+significant differences in the superconducting behavior below and above
+0.95 GPa.
+
+To obtain further information about the origin of the suppression of
+superconductivity at high pressure, we investigated the normal-state
+resistivity of the two compounds under pressure. Upon warming, ρ(T) of
+La_(0.85)Th_(0.15)OBiS₂ first decreases significantly, passes through a
+minimum, and then increases nearly linearly at higher temperatures as
+shown in Fig. 3. Such minima in the normal-state resistivity are also
+observed for La_(0.80)Ti_(0.20)OBiS₂ under pressure and other BiS₂-based
+superconductors [8, 11, 13, 23, 24]. In addition, subtle anomalies in
+resistivity, indicated by the black arrows in Fig. 3, were observed in
+both compounds when pressure was applied to the samples. Upon a further
+increase in pressure, the temperature at which the anomaly displays a
+kink (T_(a)) increases with increasing pressure (see the lower inset of
+Fig. 3); however, at pressures above 0.42 GPa, such anomalies in ρ(T)
+can no longer be observed. Very recently, a similar kink in ρ(T) was
+reported in nonsuperconducting LaOBiSe₂ at ambient pressure, which may
+related to a charge-density wave transition and can be suppressed by F
+substitution [25]. In this paper, the appearance of these anomalies is
+possibly due to a temperature-driven phase transition; however, the
+nature of the transition will require further investigation.
+
+In this paper, we use the parameter a(T), which represents the slope of
+ρ(T), (dρ/dT), at a certain temperature to characterize the tendency of
+the compound to exhibit metallic- or semiconductinglike behavior. For
+simple metals at high temperatures, a is related closely to the
+scattering of conduction electrons by phonons. Although the value of a
+does not have a clear physical significance for semiconductors, a
+positive value of a suggests that the sample is metalliclike and a
+negative value of a means it is semiconductinglike. In this paper, the
+quantity a(T) represents the tendency of the compounds to exhibit
+metallic- or semiconductinglike behavior at different pressures. As
+shown in Fig. 4(a), the values of a at ∼10 K (a_(10 K)) for the two
+compounds are negative at ambient pressure, suggesting
+semiconductinglike behavior at low temperatures. Upon application of an
+external pressures, a_(10 K) first increases rapidly at low pressures
+but relatively moderately at high pressures, resulting in a kink in the
+pressure dependence of a_(10 K) at ∼0.7 GPa. Although the values of
+a_(10 K) are all negative at pressures up to 2.4 GPa, the increase in
+a_(10 K) with pressure clearly indicates suppression of the
+semiconductinglike behavior. The kinks in a_(10 K)(P) found at ∼0.7 GPa
+suggests there are some fundamental differences between behaviors of the
+two compounds at low and high pressures, which are consistent with the
+decrease in T_(c) and broadening of the superconducting transitions at
+high pressure discussed previously.
+
+Although the pressure dependences of a at low temperatures are quite
+similar for the two compounds, the values of a at 250 K (a_(250 K)) for
+La_(0.85)Th_(0.15)OBiS₂ are positive and almost the same at low
+pressures, in contrast to the remarkable enhancement of a_(250 K) from
+negative to positive values in the case of La_(0.80)Ti_(0.20)OBiS₂ as
+shown in Fig. 4(b). As indicated by the dashed lines in Fig. 4(b), the
+pressure dependence of a_(250 K) dramatically decreases at higher
+pressures for both compounds, which suggests not only pressure-induced
+suppression of metalliclike behavior at high temperatures for the two
+compounds, but also indicates the appearance of high-pressure phases
+that exhibit different types of electronic conduction compared to the
+corresponding low-pressure phases. This behavior can be observed (Fig.
+3) at high temperatures above ∼60 K for the Ti-substituted sample and
+above ∼140 K for the Th-substituted sample. It should be noted that the
+values of a_(250 K) for La_(0.80)Ti_(0.20)OBiS₂ are even negative above
+1.3 GPa, indicating the reappearance of semiconductinglike behavior at
+high temperatures.
+
+Figure 3: Temperature T dependence of the electrical resistivity ρ,
+normalized to the value of ρ at 280 K, (ρ/p_(280 K)) of
+La_(0.80)Ti_(0.20)OBiS₂ (upper panel) and La_(0.85)Th_(0.15)OBiS₂ (lower
+panel) at various pressures. The pressure corresponding to each
+(ρ/p_(280 K)) curve is indicated in Fig. 1 with the same color. The
+upper inset: enlargement of the T dependence of ρ/p_(280 K) where the
+anomalies in ρ(T) can be observed. The orange curve represents the data
+obtained at 0.24 GPa during the pressure releasing cycle. The lower
+inset: temperature at which the anomaly in ρ(T) occurs, (T_(a)) vs
+pressure (P). The black arrows in the figure indicate the location of
+the anomalies in the resistivity.
+
+Either the suppression of metallic conductivity or the reappearance of
+semiconductinglike behavior is unusual for solids under pressure since
+applying external pressures generally decreases the distance between
+neighboring atoms and results in an increase in the carrier density as
+well as a suppression of the semiconducting energy gap. For a better
+understanding of the normal-state resistivity, we plotted representative
+ρ at 4.2 K (ρ_(4.2 K)) vs pressure data for the two compounds in Fig. 5.
+It can be observed that ρ_(4.2 K) for both compounds is significantly
+suppressed when pressure is applied first, which can easily be
+understood due to the increase in the electron density under pressures.
+With a further increase in pressure, however, ρ_(4.2 K) of
+La_(0.80)Ti_(0.20)OBiS₂ increases slowly, whereas ρ_(4.2 K) of
+La_(0.85)Ti_(0.15)OBiS₂ decreases very slightly, resulting in kinks in
+ρ_(4.2 K)(P) at ∼0.6 GPa for both compounds, as indicated by the arrows
+in Fig. 5. Consistent with previous discussions about the behavior of
+superconductivity and a under pressure, a different phase whose
+normal-state resistivity exhibits an unusual response to pressure
+appears at pressures above ∼0.6 GPa.
+
+As mentioned in the Introduction, all of the BiS₂-based superconductors
+which were reported to show pressure-induced low-T_(c) to high-T_(c)
+phase transitions contain F. The previous study of Sm-substituted
+LaO_(0.5)F_(0.5)BiS₂ suggested that the pressure dependences of T_(c) in
+BiS₂-based superconductors are closely related to the lattice parameter
+a rather than the chemical composition of the blocking layers [13]. In
+this paper, although phase transitions were clearly observed in
+La_(0.80)Ti_(0.20)OBiS₂ and La_(0.85)Th_(0.15)OBiS₂ via investigations
+of the behavior of both the superconducting transitions and the
+normal-state electrical resistivity under pressure, the high-pressure
+phases of the two compounds are apparently unfavorable for
+superconductivity. The results indicate that F in the blocking layer of
+BiS₂-based compounds plays a critical role of not only providing
+conduction electrons, but also providing the sudden pressure-induced
+enhancement of superconductivity. This is presumably associated with a
+structural phase transition from tetragonal to orthorhombic symmetry as
+has been shown for LaO_(0.5)F_(0.5)BiS₂.
+
+Although superconductivity is suppressed and ρ remains finite to 1.5 K,
+the decrease in ρ signaling the appearance of superconducting currents
+can still be observed up to the highest pressure obtained in this paper.
+For homogeneous samples, in general, pressure-induced phase transitions
+(either structural or electronic, first or second order) usually occur
+in a rather narrow hydrostatic pressure range. The abrupt changes in
+normal-state resistivity presented in this paper also suggest the phase
+transition should be complete before 1 GPa; this raises the question of
+why the superconducting transitions of the two compounds remain broad at
+pressures above 1 GPa. Considering the fact that bulk superconductivity
+of the samples at ambient pressure has been verified by means of
+specific heat and magnetization measurements [8], it is possible that
+the high-pressure phase is not superconducting and the superconducting
+currents observed above ∼1 GPa are associated with small regions of the
+low-pressure phase that remains at high pressure due to slight
+inhomogeneities in the samples. However, the possibility that the
+high-pressure state of the compounds is still superconducting at lower
+tempera
+
+Figure 4: Evolution of the slopes of ρ(T) at (a) ∼10 K and at (b) ∼250 K
+with increasing pressure for La_(0.80)Ti_(0.20)OBiS₂ (red circles) and
+La_(0.85)Th_(0.15)OBiS₂ (blue squares), respectively. The open circles
+indicate that the values are negative, suggesting semiconductinglike
+behavior. The dashed lines are guides to the eye.
+
+Figure 5: Normal-state electrical resistivity ρ at 4.2 K for
+La_(0.80)Ti_(0.20)OBiS₂ (red circles) and La_(0.85)Th_(0.15)OBiS₂ (blue
+squares) under pressure. The dashed lines are linear fits of ρ_(4.2 K)
+vs P data, whose slopes change at ∼0.6 GPa (indicated by the arrows) for
+both compounds.
+
+tures cannot be ruled out. Further studies need to be performed to
+determine whether the compounds are superconducting at lower
+temperatures.
+
+## IV Concluding remarks
+
+To summarize, the observed phenomena including suppression and
+broadening of the superconducting transition, changes in the
+normal-state electrical resistivity with pressure, and the dramatic
+changes in the behavior of the normal-state electronic conduction
+between 0.42 and 0.95 GPa strongly suggest a pressure-induced phase
+transition occurs in the Li_(1 − x)M_(x)OBiS₂ compounds. In contrast to
+the pressure-induced low-T_(c) to high-T_(c) phase transitions reported
+in F-containing BiS₂ superconductors, the high-pressure phase observed
+in this paper does not favor superconductivity. The results suggest that
+fluorine plays a critical role for the pressure-induced enhancement of
+T_(c) for BiS₂-based compounds. For the low-pressure phase, anomalies in
+the normal-state resistivity, which seem to be pressure dependent, were
+observed in the pressure range from 0.24 to 0.45 GPa. Another unusual
+phenomenon observed in this paper is the tendency toward more
+semiconducting behavior with increasing pressure in the high-pressure
+phase at temperatures above ∼140 K. Further studies of these unusual
+phenomena are expected to enrich our understanding of the physics of
+solids at high pressure.
+
+###### Acknowledgements.
+
+High-pressure research at UCSD was supported by the National Nuclear
+Security Administration under the Stewardship Science Academic Alliance
+Program through the U.S. Department of Energy under Grant No.
+DE-NA0002909. Materials’ synthesis and characterization at UCSD was
+supported by the US Department of Energy, Office of Basic Energy
+Sciences, Division of Materials Sciences and Engineering under Grant No.
+DE-FG02-04-ER46105. Low-temperature measurements at UCSD were sponsored
+by the National Science Foundation under Grant No. DMR 1206553.
+
+## References
+
+* [1] Y. Mizuguchi, H. Fujihisa, Y. Gotoh, K. Suzuki, H. Usui, K.
+Kuroki, S. Demura, Y. Takano, H. Izawa, and O. Miura, Phys. Rev. B
+**86**, 220510 (2012). * [2] D. Yazici, K. Huang, B. D. White, A. H.
+Chang, A. J. Friedman, and M. B. Maple, Philos. Mag. **93**, 673
+(2013). * [3] Y. Fang, C. T. Wolowiec, D. Yazici, and M. B. Maple, Nov.
+Supercond. Mater. **1**, 79 (2015). * [4] D. Yazici, I. Jeon, B. D.
+White, and M. B. Maple, Physica C **514**, 218 (2015). * [5] Y. Fang, D.
+Yazici, B. D. White, and M. B. Maple, Phys. Rev. B **91**, 064510
+(2015). * [6] I. Jeon, D. Yazici, B. D. White, A. J. Friedman, and M. B.
+Maple, Phys. Rev. B **90**, 054510 (2014). * [7] X. Lin, X. X. Ni, B.
+Chen, X. F. Xu, X. X. Yang, J. H. Dai, Y. K. Li, X. J. Yang, Y. K. Luo,
+Q. Tao, G. H. Cao, and Z. Xu, Phy. Rev. B **87**, 020504 (2013). * [8]
+D. Yazici, K. Huang, B. D. White, I. Jeon, V. W. Burnett, A. J.
+Friedman, I. K. Lum, M. Nallaiyan, S. Spagna, and M. B. Maple, Phys.
+Rev. B **87**, 174512 (2013). * [9] Y. Yu, J. F. Shao, S. Tan, C. J.
+Zhang, and Y. H. Zhang, J. Phys. Soc. Jpn. **82**, 034718 (2013). * [10]
+M. Tanaka, M. Nagao, Y. Matsushita, M. Fujioka, S. J. Denholme, T.
+Yamaguchi, H. Takeya, and Y. Takano, J. Solid State Chem. **219**, 168
+(2014). * [11] H. F. Zhai, Z. T. Tang, H. Jiang, K. Xu, K. Zhang, P.
+Zhang, J. K. Bao, Y. L. Sun, W. H. Jiao, I. Nowik, I. Felner, Y. K. Li,
+X. F. Xu, Q. Tao, C. M. Feng, Z. A. Xu, and G. H. Cao, Phys. Rev. B
+**90**, 064518 (2014). * [12] H. F. Zhai, P. Zhang, S. Q. Wu, C. Y. He,
+Z. T. Tang, H. Jiang, Y. L. Sun, J. K. Bao, I. Nowik, I. Felner, Y. W.
+Zeng, Y. K. Li, X. F. Xu, Q. Tao, Z. A. Xu, and G. H. Cao, J. Am. Chem.
+Soc. **136**, 15386 (2014). * [13] Y. Fang, D. Yazici, B. D. White, and
+M. B. Maple, Phys. Rev. B **92**, 094507 (2015). * [14] C. T. Wolowiec,
+B. D. White, I. Jeon, D. Yazici, K. Huang, and M. B. Maple, J. Phys.:
+Condens. Matter **25**, 422201 (2013). * [15] Y. Fang, C. T. Wolowiec,
+A. J. Breindel, D. Yazici, P.-C. Ho, and M. B. Maple, Supercond. Sci.
+Technol. **30**, 115004 (2017). * [16] R. Jha, B. Tiwari, and V. P. S.
+Awana, J. Phys. Soc. Jpn. **83**, 063707 (2014). * [17] R. Jha, B.
+Tiwari, and V. P. S. Awana, J. Appl. Phys. **117**, 013901 (2015). *
+[18] M. Fujioka, M. Tanaka, S. J. Denholme, T. Yamaki, H. Takeya, T.
+Yamaguchi, and Y. Takano, Europhys. Lett. **108**, 47007 (2014). * [19]
+C. Y. Guo, Y. Chen, M. Smidman, S. A. Chen, W. B. Jiang, H. F. Zhai, Y.
+F. Wang, G. H. Cao, J. M. Chen, X. Lu, and H. Q. Yuan, Phys. Rev. B
+**91**, 214512 (2015). * [20] T. Tomita, M. Ebata, H. Soeda, H.
+Takahashi, H. Fujihisa, Y. Gotoh, Y. Mizuguchi, H. Izawa, O. Miura, S.
+Demura, K. Deguchi, and Y. Takano, J. Phys. Soc. Jpn. **83**, 063704
+(2014). * [21] M. Tanaka, M. Nagao, R. Matsumoto, N. Kataoka, I. Ueta,
+H. Tanaka, S. Watauchi, I. Tanaka, and Y. Takano, J. Alloys Compd.
+**722**, 467 (2017). * [22] T. F. Smith, C. W. Chu, and M. B. Maple,
+Cryogenics **9**, 53 (1969). * [23] S. Demura, Y. Mizuguchi, K. Deguchi,
+H. Okazaki, H. Hara, T. Watanabe, S. J. Denholme, M. Fujioka, T. Ozaki,
+H. Fujihisa, G. Yoshito, M. Osuke, Y. Takahide, T. Hiroyuki, and T.
+Yoshihiko, J. Phys. Soc. Jpn. **82**, 033708 (2013). * [24] G. C. Kim,
+M. Cheon, Y. C. Kim, and R.-K. Ko, arXiv:1512.05070. * [25] S. Wu, Z.
+Sun, F. Chiang, C. Ma, H. Tian, R. Zhang, B. Zhang, J. Li, and H. Yang,
+Solid State Commun. **205**, 14 (2015).

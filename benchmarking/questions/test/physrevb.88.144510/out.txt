@@ -1,0 +1,303 @@
+BCS-like superconductivity in the noncentrosymmetric compounds Nb_{x}Re_{1-x} (0.13\leqslant x\leqslant 0.38)
+
+J. Chen,1 L. Jiao,1 J. L. Zhang,1 Y. Chen,1 L. Yang,1 M. Nicklas,2 F. Steglich,2 and H. Q. Yuan1,*
+
+1Center for Correlated Matter and Department of Physics, Zhejiang University, Hangzhou, Zhejiang 310027, China
+
+2Max Planck Institute for Chemical Physics of Solids, D-01187 Dresden, Germany
+
+###### Abstract
+
+We present research on the superconducting properties of Nb_{x}Re_{1-x} (x=0.13-0.38) obtained by measuring the electrical resistivity \rho(T), magnetic susceptibility \chi(T), specific heat C_{P}(T), and London penetration depth \Delta\lambda(T). It is found that the superconducting transition temperature T_{c} decreases monotonically with an increase of x. The upper critical field B_{c2}(T) for various x can be nicely scaled by its corresponding T_{c}. The electronic specific heat C_{c}(T)/T, penetration depth \Delta\lambda(T), and superfluid density \rho_{c}(T) demonstrate exponential behavior at low temperatures and can be well fitted by a one-gap BCS model. The residual Sommerfeld coefficient \gamma_{0}(B) in the superconducting state follows a linear field dependence. All these properties suggest an s-wave BCS-type of superconductivity with a very large B_{c2}(0) for Nb_{x}Re_{1-x} (0.13\leqslant x\leqslant 0.38).
+
+DOI: 10.1103/PhysRevB.88.144510
+
+## I Introduction
+
+The discovery of superconductivity (SC) in the heavy fermion compound CePt_{3}Si has attracted considerable interest in studying the effects of broken inversion symmetry on superconducting pairing states.[1] While the inversion symmetry is absent in a crystal, the resulting antisymmetric potential gradient causes a parity-breaking antisymmetric spin-orbit coupling (ASOC), which may lift up the spin degeneracy. An admixture of spin-singlet and spin-triplet components is then allowed in the pairing states, whose ratio might be tuned by the ASOC strength.[2, 3, 4, 5, 6] Such a scenario seems to be supported by the experimental observations of Li_{2}(Pd_{1-x}Pt_{x})_{3}B, in which evidence of BCS-like SC is shown in Li_{2}Pd_{3}B, but a spin triplet was recognized in Li_{2}Pt_{3}B with increasing ASOC strength.[7, 8, 9] Furthermore, noncentrosymmetric (NCS) superconductors were recently proposed as important candidates for studying topological SC.[10, 11]
+
+In the past few years, a growing number of NCS superconductors have been studied, varying from heavy fermion compounds to a number of weakly correlated intermetallic compounds.[12] Exotic properties, including nodal SC,[7, 13, 14, 15] multigap SC,[16, 17, 18, 19] and a huge upper critical field,[15, 20, 21] have been experimentally observed in these systems. However, the role of lacking inversion symmetry on the superconducting pairing states remains a fundamentally open question.[19] Therefore, it is highly desirable to elucidate the determining parameters of the pairing state in NCS superconductors. Systematic studies on the superconducting properties of NCS superconductors with a tunable ASOC strength may help address these issues.
+
+The intermetallic binary compound Nb_{x}Re_{1-x} (0.13\leqslant x\leqslant 0.38) crystallizes in the cubic Ti_{5}Re_{24}-type structure with a space group I\overline{4}3m (No. 217), which loses inversion symmetry on the sites of Nb(24g) and Re(24g). SC was initially reported in these compounds by Knapton _et al._ in the 1950's.[22] Very recently, the superconducting properties of Nb_{0.18}Re_{0.82} were revisited as an example of NCS superconductors; both specific-heat and NMR experiments indicated an s-wave type SC.[23, 24] In order to provide further characterizations of the superconducting pairing state and its evolution as a function of x in Nb_{x}Re_{1-x}, we synthesized a series of polycrystals with varying Nb content, which are expected to modify the ASOC strength due to the very different atomic numbers of Nb and Re. The superconducting properties are systematically studied by measuring the electrical resistivity \rho(T), magnetic susceptibility \chi(T), specific heat C_{P}(T,B), as well as the London penetration depth \Delta\lambda(T). Our results provide strong evidence of BCS-like SC for Nb_{x}Re_{1-x}.
+
+## II Experimental Methods
+
+Polycrystalline Nb_{x}Re_{1-x} (x=0.13-0.93) samples were prepared by a two-step arc melting method in ultrapure argon gas. A Ti button was used as an oxygen getter. In the first step, buttons of high-purity niobium (99.99%, Alfa Aesar) and rhenium (99.99%, Alfa Aesar) powders were prepared by arc melting, respectively. In the second step, stoichiometric amounts of the two compositions were melted together to form the alloy Nb_{x}Re_{1-x}. The ingot was inverted and remelted several times to improve sample homogeneity. Such a two-step approach is efficient to decrease the melting points of materials through alloying. The so-derived ingot forms a hard button with a negligible weight loss of less than 0.5%, attributed to the low vapor pressure of Nb and Re. A subsequent heat treatment was performed at 800 ^{\circ}C in a vacuum-sealed quartz tube for 7 days, followed by a slow cooling of the furnace.
+
+The crystal structure of the ingots was characterized by powder x-ray diffractometry (XRD) using a X'Pert PRO diffractometer (CuK\alpha radiation) in the Bragg-Brentano geometry for the 2th range of 10^{\circ}-90^{\circ}. Sample compositions were identified by using energy dispersive x-ray (EDX) spectroscopy, showing nearly the same compositions as the nominal values. The electrical resistivity was measured using a standard four-probe method in a dc magnetic field up to 14 T and at temperatures down to 0.3 K in a ^{3}He cryostat. Measurements of the magnetic susceptibility and specific heat were performed in a commercial magnetic property measurement system (5T-MPMS) and a physical property measurement system (9T-PPMS) (Quantum Design), respectively. Measurements of the London penetration depth \Delta\lambda(T) were performed by using a technique based on a tunnel  diode oscillator (TDO) [25] at a frequency of 7 MHz down to 0.4 K in a ^{3}He cryostat.
+
+## III Results and discussion
+
+### Crystal structures
+
+Powder XRD spectra were taken on the Nb_{x}Re_{1-x} samples with various x (x = 0.13-0.93) at room temperature. It was found that Nb_{x}Re_{1-x} crystallizes in three different crystal structures while varying the Nb composition from x = 0.13 to x = 0.93, which is consistent with previous reports. [22] For 0.13\leqslant x\leqslant 0.38 (region I), XRD patterns identify our samples as being of single phase with a cubic Ti_{3}Re_{24} structure [see Fig. 1(a)]. In each unit cell, there are 58 atoms on four crystallographically distinct sites: Nb(1), Nb(2), Re(1), and Re(2) [see the inset of Fig. 1(b)]. The inversion symmetry is preserved for the Nb(1) sites (2a), occupied by two Nb atoms, while it is broken on the Nb(2), Re(1), and Re(2) sites along all crystallographic directions, which are occupied by 8 Nb, 24 Re, and 24 Re atoms, respectively. For 0.38<x\leqslant 0.52 (region II), the Nb_{7}Re_{8}-type phase dominates (tetragonal, P4_{2}/mmm). However, XRD patterns reveal a Nb structure with cubic Im\overline{3}m space group (No. 229) in the range of 0.55\leqslant x\leqslant 0.93, demonstrating a maximum solubility of 46% helium in niobium. [22] In regions I and II, there is a systematic shift of the diffraction peaks to lower angles with increasing x, suggesting a binary solid solution for Nb_{x}Re_{1-x} (x = 0.13-0.54). It is noted that the Nb_{x}Re_{1-x} alloys are mixed with Nb_{x}Re_{24} and Re-element phases for 0<x<0.13. [22] In this paper, we will mainly focus on the properties of the NCS superconductors in region I.
+
+In Fig. 1(b), we plot the unit cell volume V as a function of x for Nb_{x}Re_{1-x} (0.13\leqslant x\leqslant 0.38), as determined from the XRD patterns using Rietveld refinement. One can see that the unit cell volume increases monotonically with increasing x, attributed to the larger atomic radius of Nb. We find a lattice parameter of a = 9.6507 A for Nb_{0.18}Re_{0.82}, which is consistent with that reported in Ref. [23].
+
+### The dependence of T_{c} on Nb concentration x
+
+Figure 2 presents the temperature dependence of the electrical resistivity \rho(T) [Fig. 2(a)], magnetic susceptibility \chi(T) [Fig. 2(b)], and specific heat C_{p}(T) [Fig. 2(c)] for Nb_{x}Re_{1-x} (x = 0.18, 0.25, 0.29, and 0.31). A pronounced superconducting transition is observed in all these quantities for each compound. Note that the superconducting transition is broadened upon increasing x, which is likely attributed to the enhanced sample inhomogeneity. Bulk SC with nearly 100% shielding volume can be inferred from the magnetic
+
+Figure 1: (Color online) (a) XRD patterns for Nb_{x}Re_{1-x}, x = 0.18, 0.25, 0.29, and 0.38. Short vertical bars are the standard reflection positions. (b) The unit cell volume plotted as a function of x for samples with x = 0.13–0.38. The inset shows the Ti_{3}Re_{24}-type crystal structure.
+
+Figure 2: (Color online) Temperature dependence of (a) the electrical resistivity \rho(T), (b) the magnetic susceptibility \chi(T), and (c) the specific heat C_{p}(T) for Nb_{x}Re_{1-x} (x = 0.18, 0.25, 0.29, and 0.31). Dashed lines illustrate the methods of determining T_{c}.
+
+  susceptibility as well as the specific-heat jumps at T_{c}. The Sommerfeld coefficient \gamma_{n} can be derived from the polynomial fits of the normal-state specific heat by C_{p}=\gamma_{n}T+(B_{3}T^{3}+B_{5}T^{5}+B_{7}T^{7}), in which the first term represents the electronic contribution C_{r}=\gamma_{n}T, while the second term denotes the phonon contribution. With this method, we obtain \gamma_{n}=4.8 mJ/mol K^{2} for x=0.18, the \gamma_{n} value decreasing with increasing x. It is pointed out that a much larger value of \gamma_{n}=53.5 mJ/mol K^{2} was previously reported in Ref. [23] for Nb_{0.18}Re_{0.82}, presumably due to a miscalculation. Furthermore, no evidence of magnetic order and magnetic impurities is observed in the above measurements.
+
+In Fig. 3, we plot the superconducting transition temperatures T_{c} and the Sommerfeld coefficient \gamma_{n} as a function of the Nb content x for Nb_{x}Re_{1-x}. Here we determine T_{c} from the intersections of the magnetic susceptibility, and the midpoints of the resistive transition and the specific-heat jumps as illustrated in Fig. 2. One can see that the bulk T_{c}'s, derived from the magnetic susceptibility and specific heat, are slightly reduced but still compatible with the resistive T_{c}, showing a monotonic decrease with increasing x. Such dependence of T_{c}(x) may originate from the decrease of the density of states at the Fermi level, as reflected by the x dependence of \gamma_{n}(x) in Fig. 3(b).
+
+### Upper critical field
+
+To determine the upper critical field B_{c2}(T), we have measured the electrical resistivity \rho(T) (x=0.18, 0.25, 0.29, and 0.31) and specific heat C_{p}(T) (x=0.18) at various magnetic fields. As an example, we show \rho(T) of Nb_{0.18}Re_{0.82} at magnetic fields up to 14 T in the inset of Fig. 4. Obviously, the superconducting transition is shifted to lower temperatures upon increasing magnetic field, but not yet suppressed by the maximum field of 14 T we applied. The superconducting transition of x=0.18 remains fairly sharp in a magnetic field, but it is broadened in other samples with larger x, indicating that the samples become more inhomogeneous with increasing Nb content. Similar behavior is also seen in the specific-heat data (see below).
+
+In the main panel of Fig. 4, we show the normalized upper critical field B_{c2}/[T_{c}(dB_{c2}/dT)_{T_{c}}] versus T/T_{c} for various Nb contents. Here the resistive T_{c} and the horizontal bars are determined from the midpoints, as well as the 10% and 90% drops of the normal-state resistivity just above T_{c}. The values of T_{c} from the specific heat are determined by using the entropy balance method in a plot of C/T vs T. Remarkably, the upper critical fields B_{c2}(T), derived either from the same measurement of different sample concentrations x or from different measurements of the same sample (x=0.18), can be nicely scaled by T_{c}; the normalized curves collapse onto a single line as shown in Fig. 4.
+
+Another important feature of the upper critical field curve B_{c2}(T) is the remarkably linear temperature dependence down to the base temperature T\simeq 0.3 K. For comparison, in Fig. 4 we include the fits of the upper critical fields by the Werthamer-Helfand-Hohenberg (WHH) method in the dirty limit (solid line) [26] as well as the Ginzburg-Landau (GL) formula, B_{c2}(T)=B_{c2}(0)[1-(T/T_{c})^{2}]/[1+(T/T_{c})^{2}] (dashed line). One can see that the WHH method fails to describe the experimental data over a wide temperature region. The GL formula can give a much better illustration of the experimental data, but also shows deviations at low temperatures. We estimate the upper critical field B_{c2}(0) by linearly extrapolating B_{c2}(T) to zero temperature, which gives B_{c2}(0)=23, 14.5, 11.8, and 9 T for x=0.18, 0.25, 0.29, and 0.31, respectively. Such values of B_{c2}(0) largely exceed the corresponding orbital limiting field, and are close to or even larger than the Pauli limiting field.
+
+According to the WHH theory, [26] the upper critical field limited by the orbital mechanism can be estimated from
+
+Figure 3: (Color online) (a) T_{c} vs x for Nb_{x}Re_{1-x}, determined from the electrical resistivity \rho(T), the magnetic susceptibility \chi(T), and the specific heat C_{p}(T), respectively. (b) The Sommerfeld coefficient \gamma_{n}(x) plotted as a function of x.
+
+  and the initial slope of the upper critical field B_{c2}(T), i.e.,
+
+\[B_{c2}^{\rm orb}(0)=-0.69T_{c}(dB_{c2}/dT)_{T=T_{c}}.\] (1)
+
+The above formula gives B_{c2}^{\rm orb}(0)=16.1, 10.5, 8.6, and 6.3 T for x=0.18, 0.25, 0.29, and 0.31, respectively.
+
+On the other hand, SC can be destroyed by the Pauli paramagnetic effect in a magnetic field as a result of the Zeeman effect. The Pauli limiting field is usually defined by [28, 29]
+
+\[B_{c2}^{P}(0)=\Delta_{0}/\sqrt{2}\mu_{B},\] (2)
+
+where \Delta_{0} is the energy gap amplitude at zero temperature. For a conventional BCS superconductor, \Delta_{0}=1.76T_{c}, Eq. (2) can be simplified as B_{c2}^{P}(0)=1.86T_{c}. In the following section, we will show that Nb_{3}Re_{1-x} is a type of weak-coupling BCS superconductor. The Pauli limiting fields are, therefore, estimated to be 16.6, 12.6, 10.4, and 9.1 T for x=0.18, 0.25, 0.29, and 0.31, respectively.
+
+The linear temperature dependence of B_{c2}(T) and the absence of Pauli limiting behavior are unusual for a BCS-type superconductor. However, similar behavior was also observed in other weakly correlated NCS superconductors. For example, a very large upper critical field B_{c2}(0) was also reported in the multigap superconductors La_{2}C_{3} (Ref. [30]) and Y_{2}C_{3}.[15] In the latter case, evidence of line nodes was observed in the low-temperature limit.[15] In the following, we will provide further experimental facts to reveal the gap symmetry in Nb_{3}Re_{1-x} by measuring the low-temperature specific heat at various magnetic fields C_{p}(T,B) as well as the London penetration depth \Delta\lambda(T). Since the sample Nb_{0.18}Re_{0.82} shows the highest sample quality among this series of compounds, we will focus on this concentration here, although other samples demonstrate similar behavior.
+
+### Gap symmetry
+
+#### iii.4.1 Specific heat
+
+The temperature dependence of the specific heat C_{p}(T) was previously reported for Nb_{0.18}Re_{0.82} at zero field by Karki _et al.[23]_ It shows exponential behavior in the low-temperature limit, suggesting BCS-type SC with a moderate electron-phonon coupling. In our measurements, similar behavior is observed for Nb_{3}Re_{1-x} [see Figs. 2(c) and 5(a)]. Upon increasing the Nb content from x=0.18 to 0.31, the specific-heat jump \Delta C/\gamma_{a}T_{c} at T_{c} varies from 1.86 to about 0.5. Note that the broadened superconducting transitions for samples with large x do not allow us to reliably determine the specific-heat jumps accurately enough. Far below the superconducting transition (T<0.3T_{c}), the electronic specific heat C_{e}(T)/T for various Nb contents shows a very weak temperature dependence which can be reasonably fitted by the BCS-type exponential behavior. Following the procedures described in Ref. [19], in Fig. 5(a) we fit the specific heat C_{e}(T)/T of Nb_{0.18}Re_{0.82} from the base temperature up to T_{c}, in which C_{e}(T)/T data can be nicely described by the one-gap BCS model with an energy gap of \Delta_{0}=1.93T_{c}.
+
+We further characterize the superconducting pairing state of Nb_{0.18}Re_{0.82} by measuring the specific heat in a magnetic field. A pronounced upturn in C_{p}(T)/T appears at low temperatures, which shifts to higher temperatures upon increasing magnetic field. This is ascribed to the high-T tail of a nuclear Schottky anomaly. In this case, the total specific heat can be expressed as C_{p}(T,B)=C_{e}(T,B)+C_{\rm ph}(T)+C_{\rm Sch}(T,B), where C_{e}(T,B), C_{\rm ph}(T), and C_{\rm Sch}(T,B) represent the electron, phonon, and nuclear Schottky contributions, respectively. The phonon contributions can be subtracted from the polynomial fits above T_{c} as illustrated in Sec. III.2. The nuclear Schottky contribution follows the expression of C_{\rm Sch}(T,B)=a\,B^{2}/T^{2}, which can be subtracted by fitting the low-temperature specific-heat data [see Fig. 5(a), data for B=7 T]. In Fig. 5(b), we plot the temperature dependence of the electronic specific heat C_{e}(T) at various magnetic fields for Nb_{0.18}Re_{0.82}, as obtained after subtraction of the phonon and nuclear contributions. One can see that application of a magnetic field eventually shifts the sharp superconducting transition to lower temperatures and enhances the residual Sommerfeld coefficient \gamma_{0}(B). Note that the specific-heat data at zero field show an extremely small residual Sommerfeld coefficient of \gamma_{0}=0.018 mJ/mol K^{2}, confirming the good quality of the sample. The inset of Fig. 5(b) presents the field dependence of the residual Sommerfeld coefficient \gamma_{0}(B), which shows a remarkably linear field dependence, providing strong evidence of BCS-type SC for Nb_{0.18}Re_{0.82}. In fully gapped superconductors, the low-lying excitations are usually confined to the vortex cores, and the specific heat is proportional to the vortex density which increases linearly with increasing magnetic field, i.e., \gamma_{0}(B)\sim B.[31]
+
+#### iii.4.2 London penetration depth
+
+While the specific heat C_{p}(T)/T explores the quasiparticle density of states, the London penetration depth probes the superfluid density \rho_{s}(T). In this section, we present a precise measurement of the penetration depth changes \Delta\lambda(T) as well as \rho_{s}(T) for Nb_{0.18}Re_{0.82} by using a TDO-based technique.
+
+Figure 5: (Color online) Temperature dependence of the specific heat at various magnetic fields for Nb_{0.18}Re_{0.82}. (a) The specific heat C_{p} obtained after subtracting the phonon contribution from the raw data at B=0 and 7 T. The dashed line shows a fit to the BCS model with \Delta_{0}=1.93T_{c}. The dotted line denotes a power-law fit of the nuclear Schottky contributions C_{\rm Sch}(T,B) at low temperatures. (b) The electronic specific heat C_{e}(T) at B=0,0.5,1,3,5, and 7 T. The inset plots the magnetic field dependence of the residual Sommerfeld coefficient \gamma_{0}(B).
+
+  With this method, the change of the London penetration depth \Delta\lambda(T) is proportional to the resonant frequency shift \Delta f(T), i.e., \Delta\lambda(T)=G\,\Delta f(T), where the G factor is a constant, solely determined by the sample and coil geometries.[25] The inset of Fig. 6 shows the penetration depth \Delta\lambda(T) at low temperatures for Nb_{0.18}Re_{0.82}, where G=1.4\,nm/Hz. A sharp superconducting transition with T_{c}^{\text{TDO}}=8.7 K is observed in this sample (not shown), which is highly consistent with all the other measurements. The penetration depth exhibits very weak temperature dependence at low temperatures. According to the isotropic BCS model, the penetration depth \Delta\lambda(T) can be approximated by the following exponential temperature dependence at T\ll T_{c}: \Delta\lambda(T)=\lambda(T)-\lambda_{0}=\lambda_{0}\sqrt{\frac{\pi\Delta_{0}} {2T}}e^{-\frac{\Delta_{0}}{T}}, where \lambda_{0} and \Delta_{0} are the penetration depth and gap amplitude at zero temperature, respectively. In the inset of Fig. 6, the dashed line shows a fit of the BCS model to our experimental data \Delta\lambda(T). Here we fix \lambda_{0}=414 nm as estimated below, and the derived energy gap of \Delta_{0}=1.91T_{c} is remarkably consistent with that from the specific-heat data.
+
+To further analyze the superconducting gap symmetry, in the following we turn to the superfluid density \rho_{s}(T) of Nb_{0.18}Re_{0.82}. The normalized superfluid density can be converted from the penetration depth by \rho_{s}(T)=[\lambda_{0}/\lambda(T)]^{2}. Here we estimate the value of \lambda_{0} according to the BCS and Ginzburg-Landau theories for a type-II superconductor,[32] i.e., \lambda_{0}=\frac{1}{1.76Z}\sqrt{\frac{\Phi_{0}B_{c}(0)}{24\gamma_{n}}}, where \Phi_{0} is the magnetic flux quantum. By taking the parameters derived from our specific-heat data, i.e., T_{c}^{C_{\tau}}=8.5 K, B_{c2}^{C_{\tau}}(0)=22.85 T, and \gamma_{n}=4.8 mJ/mol K^{2}=0.51\times 10^{4} erg/cm^{3} K^{2}, we derived \lambda_{0}=414 nm for Nb_{0.18}Re_{0.82}, which is compatible with that obtained from the measurements of the lower critical field.[23] In the main panel of Fig. 6, we plot the temperature dependence of the superfluid density \rho_{s}(T) for Nb_{0.18}Re_{0.82}.
+
+In order to adopt a proper model to fit the superfluid density \rho_{s}(T), we estimated the mean free path (l\approx 5 nm) and the coherence length (\xi_{0}\approx 4 nm) of the Nb_{0.18}Re_{0.82} sample from the resistivity \rho(T_{c})=120\mu\Omega cm, and the above mentioned quantities of T_{c}^{C_{\tau}}, B_{c2}^{C_{\tau}}(0), and \gamma_{n}.[33] The close values of the mean free path and the coherence length suggest that it is appropriate to treat the sample in the dirty limit. Accordingly, we analyze our superfluid density \rho_{s}(T) in terms of the s-wave weak-coupling BCS model in the dirty limit,[27] i.e.,
+
+\[\rho_{s}(T)=\frac{\Delta(T)}{\Delta_{0}}\tanh\left(\frac{\Delta(T)}{2T}\right).\] (3)
+
+Here the temperature dependence of the gap function is given by[34]
+
+\[\Delta(T)=\Delta_{0}\tanh\left[\frac{\pi\,T_{c}}{\Delta_{0}}\sqrt{a\frac{ \Delta\,C}{C_{\epsilon}}\left(\frac{T_{c}}{T}-1\right)}\right],\] (4)
+
+where \Delta\,C/C_{\epsilon} is the relative jump in the electronic specific heat at T_{c} and a=2/3 for an isotropic BCS superconductor. As shown in Fig. 6, the experimental data \rho_{s}(T) of Nb_{0.18}Re_{0.82} can be well described by the BCS model with a gap magnitude of \Delta_{0}=1.95T_{c}, which agrees well with the values derived from our fits of the specific-heat and penetration depth data, as well as the previous NMR data.[24] These measurements clearly identify Nb_{0.18}Re_{0.82} as an s-wave BCS superconductor. We note that similar results were also obtained for Nb_{0.29}Re_{0.71}, suggesting BCS-like SC for Nb_{x}Re_{1-x} (0.13\leqslant x\leqslant 0.38).
+
+## IV IV. Conclusion
+
+In summary, we have studied the superconducting properties of the NCS compounds Nb_{x}Re_{1-x} (0.13\leqslant x\leqslant 0.38) by measuring the electrical resistivity, magnetic susceptibility, specific heat, as well as the London penetration depth. We found that the superconducting transition temperature T_{c} decreases monotonically with increasing x, which is partially attributed to the decrease of the density of states at the Fermi energy. The upper critical field B_{c2}(T) of Nb_{x}Re_{1-x} can be perfectly scaled by the corresponding T_{c}, showing a rather linear temperature dependence down to the base temperature. The upper critical field at zero temperature B_{c2}(0) exceeds the orbital limit, and also approaches the Pauli paramagnetic limit. On the other hand, the temperature dependence of the electronic specific-heat coefficient C_{\epsilon}(T)/T, penetration depth \Delta\lambda(T), and superfluid density \rho_{s}(T) of Nb_{0.18}Re_{0.82} can be consistently described by the BCS model with an energy gap of \Delta_{0}\approx 1.9T_{c}. Evidence of BCS SC for x=0.18 is further provided by the observation of a linear field dependence of the residual Sommerfeld coefficient \gamma_{0}(B). Our results demonstrate that Nb_{x}Re_{1-x} (0.13\leqslant x\leqslant 0.38) is an s-wave BCS-type superconductor with negligible contributions from the spin-triplet component, in spite of the heavy atomic mass of Re residing on the NCS sites. The observation of s-wave superconductivity with an extremely large B_{c2}(0) in Nb_{x}Re_{1-x}, which is rare among the NCS superconductors, demands further theoretical and experimental investigations.
+
+###### Acknowledgements.
+
+ We appreciate valuable discussions with L. Z. Sun and M. B. Salamon. This work was supported by the National Basic Research Program of China (Grants No. 2011CBA00103 and
+
+Figure 6: (Color online) Temperature dependence of the superfluid density \rho_{s}(T) for Nb_{0.18}Re_{0.82}. The inset shows the penetration depth \Delta\lambda(T) at low temperatures. The lines represent fits to the BCS model.
+
+  No. 2009CB929104), the Natural Science Foundation of China (Grant No. 10934005), Zhejiang Provincial Natural Science Foundation of China, the Fundamental Research Funds for the Central Universities, and the Max Planck Society under the auspices of the Max Planck Partner Group of the MPI for Chemical Physics of Solids, Dresden.
+
+## References
+
+* [1] E. Bauer, G. Hilscher, H. Michor, Ch. Paul, E. W. Scheidt, A. Gribanov, Yu. Seropegin, H. Noel, M. Sigrist, and P. Rogl, Phys. Rev. Lett. **92**, 027003 (2004).
+* [2] L. P. Gor'kov and E. I. Rashba, Phys. Rev. Lett. **87**, 037004 (2001).
+* [3] S. K. Yip, Phys. Rev. B **65**, 144508 (2002).
+* [4] P. A. Frigeri, D. F. Agterberg, A. Koga, and M. Sigrist, Phys. Rev. Lett. **92**, 097001 (2004).
+* [5] Y. Yanase and M. Sigrist, J. Phys. Soc. Jpn. **76**, 124709 (2007).
+* [6] S. Fujimoto, J. Phys. Soc. Jpn. **76**, 051008 (2007).
+* [7] H. Q. Yuan, D. F. Agterberg, N. Hayashi, P. Badica, D. Vandervelde, K. Togano, M. Sigrist, and M. B. Salamon, Phys. Rev. Lett. **97**, 017006 (2006); H. Q. Yuan, M. B. Salamon, P. Badica, and K. Togano, Physica B **403**, 1138 (2008).
+* [8] M. Nishiyama, Y. Inada, and G. Q. Zheng, Phys. Rev. Lett. **98**, 047002 (2007).
+* [9] H. Takeya, M. El Massalami, S. Kasahara, and K. Hirata, Phys. Rev. B **76**, 104506 (2007).
+* [10] X. L. Qi, T. L. Hughes, S. Raghu, and S. C. Zhang, Phys. Rev. Lett. **102**, 187001 (2009).
+* [11] C. K. Lu and S. Yip, Phys. Rev. B **82**, 104501 (2010).
+* [12] E. Bauer and M. Sigrist, _Non-centrosymmetric Superconductors: Introduction and Overview_ (Springer, Berlin, 2012).
+* [13] M. Sigrist, D. F. Agterberg, P. A. Frigeri, A. Hayashi, R. P. Kaur, A. Koga, I. Milat, K. Wakabayashi, and Y. Yanase, J. Magn. Magn. Mater. **310**, 536 (2007).
+* [14] H. Mukuda, T. Obara, M. Yashima, Y. Kitaoka, R. Settai, Y. Onuki, K. M. Itoh, and E. E. Haller, Phys. Rev. Lett. **104**, 017002 (2010).
+* [15] J. Chen, M. B. Salamon, S. Akutagawa, J. Akimitsu, J. Singleton, J. L. Zhang, L. Jiao, and H. Q. Yuan, Phys. Rev. B **83**, 144529 (2011).
+* [16] A. Harada, S. Akutagawa, Y. Miyamichi, H. Mukuda, Y. Kitaoka, and J. Akimitsu, J. Phys. Soc. Jpn. **76**, 023704 (2007).
+* [17] S. Kuroiwa, Y. Saura, J. Akimitsu, M. Hiraishi, M. Miyazaki, K. H. Satoh, S. Takeshita, and R. Kadono, Phys. Rev. Lett. **100**, 097002 (2008).
+* [18] T. Klimczuk, F. Ronning, V. Sidorov, R. J. Cava, and J. D. Thompson, Phys. Rev. Lett. **99**, 257004 (2007).
+* [19] J. Chen, L. Jiao, J. L. Zhang, Y. Chen, L. Yang, M. Nicklas, F. Steglich, and H. Q. Yuan, New J. Phys. **15**, 053005 (2013).
+* [20] N. Kimura, K. Ito, H. Aoki, S. Uji, and T. Terashima, Phys. Rev. Lett. **98**, 197001 (2007).
+* [21] R. Settai, Y. Miyauchi, T. Takeuchi, F. Lvy, T. Sheikin, and Y. Onuki, J. Phys. Soc. Jpn. **77**, 073705 (2008).
+* [22] A. G. Knapton, J. Less-Common Met. **1**, 480 (1959).
+* [23] A. B. Karki, Y. M. Xiong, N. Haldolaarachchige, S. Stadler, I. Vekhter, P. W. Adams, D. P. Young, W. A. Phelan, and J. Y. Chan, Phys. Rev. B **83**, 144525 (2011).
+* [24] C. S. Lue, T. H. Su, H. F. Liu, and B. L. Young, Phys. Rev. B **84**, 052509 (2011).
+* [25] R. Prozorov, R. W. Giannetta, P. Fournier, and R. L. Greene, Phys. Rev. Lett. **85**, 3700 (2000), and references therein.
+* [26] N. R. Werthamer, E. Helfand, and P. C. Hohenberg, Phys. Rev. **147**, 295 (1966).
+* [27] M. Tinkham, _Introduction to Superconductivity_, 2nd ed. (McGraw-Hill, New York, 1996).
+* [28] A. M. Clogston, Phys. Lett. **9**, 266 (1962).
+* [29] B. S. Chandrasekhar, J. Appl. Phys. Lett. **1**, 7 (1962).
+* [30] J. S. Kim, R. K. Kremer, O. Jepsen, and A. Simon, Curr. Appl. Phys. **6**, 897 (2006).
+* [31] C. Caroli, P. G. de Gennes, and J. Matricon, Phys. Lett. **9**, 307 (1964).
+* [32] F. Gross, B. S. Chandrasekhar, D. Einzel, K. Andres, P. J. Hirschfeld, H. R. Ott, J. Beuers, Z. Fisk, and J. L. Smith, Z. Phys. B: Condens. Matter **64**, 175 (1986).
+* [33] T. P. Orlando, E. J. McNiff, Jr., S. Foner, and M. R. Beasley, Phys. Rev. B **19**, 4545 (1979).
+* [34] R. Prozorov and R. W. Giannetta, Supercond. Sci. Technol. **19**, R41 (2006).
+
+ BCS-like superconductivity in the noncentrosymmetric compounds Nb_{x}Re_{1-x} (0.13\leqslant x\leqslant 0.38)
+
+J. Chen,1 L. Jiao,1 J. L. Zhang,1 Y. Chen,1 L. Yang,1 M. Nicklas,2 F. Steglich,2 and H. Q. Yuan1,*
+
+1Center for Correlated Matter and Department of Physics, Zhejiang University, Hangzhou, Zhejiang 310027, China
+
+2Max Planck Institute for Chemical Physics of Solids, D-01187 Dresden, Germany
+
+###### Abstract
+
+We present research on the superconducting properties of Nb_{x}Re_{1-x} (x=0.13-0.38) obtained by measuring the electrical resistivity \rho(T), magnetic susceptibility \chi(T), specific heat C_{P}(T), and London penetration depth \Delta\lambda(T). It is found that the superconducting transition temperature T_{c} decreases monotonically with an increase of x. The upper critical field B_{c2}(T) for various x can be nicely scaled by its corresponding T_{c}. The electronic specific heat C_{c}(T)/T, penetration depth \Delta\lambda(T), and superfluid density \rho_{c}(T) demonstrate exponential behavior at low temperatures and can be well fitted by a one-gap BCS model. The residual Sommerfeld coefficient \gamma_{0}(B) in the superconducting state follows a linear field dependence. All these properties suggest an s-wave BCS-type of superconductivity with a very large B_{c2}(0) for Nb_{x}Re_{1-x} (0.13\leqslant x\leqslant 0.38).
+
+DOI: 10.1103/PhysRevB.88.144510
+
+## I Introduction
+
+The discovery of superconductivity (SC) in the heavy fermion compound CePt_{3}Si has attracted considerable interest in studying the effects of broken inversion symmetry on superconducting pairing states.[1] While the inversion symmetry is absent in a crystal, the resulting antisymmetric potential gradient causes a parity-breaking antisymmetric spin-orbit coupling (ASOC), which may lift up the spin degeneracy. An admixture of spin-singlet and spin-triplet components is then allowed in the pairing states, whose ratio might be tuned by the ASOC strength.[2, 3, 4, 5, 6] Such a scenario seems to be supported by the experimental observations of Li_{2}(Pd_{1-x}Pt_{x})_{3}B, in which evidence of BCS-like SC is shown in Li_{2}Pd_{3}B, but a spin triplet was recognized in Li_{2}Pt_{3}B with increasing ASOC strength.[7, 8, 9] Furthermore, noncentrosymmetric (NCS) superconductors were recently proposed as important candidates for studying topological SC.[10, 11]
+
+In the past few years, a growing number of NCS superconductors have been studied, varying from heavy fermion compounds to a number of weakly correlated intermetallic compounds.[12] Exotic properties, including nodal SC,[7, 13, 14, 15] multigap SC,[16, 17, 18, 19] and a huge upper critical field,[15, 20, 21] have been experimentally observed in these systems. However, the role of lacking inversion symmetry on the superconducting pairing states remains a fundamentally open question.[19] Therefore, it is highly desirable to elucidate the determining parameters of the pairing state in NCS superconductors. Systematic studies on the superconducting properties of NCS superconductors with a tunable ASOC strength may help address these issues.
+
+The intermetallic binary compound Nb_{x}Re_{1-x} (0.13\leqslant x\leqslant 0.38) crystallizes in the cubic Ti_{5}Re_{24}-type structure with a space group I\overline{4}3m (No. 217), which loses inversion symmetry on the sites of Nb(24g) and Re(24g). SC was initially reported in these compounds by Knapton _et al._ in the 1950's.[22] Very recently, the superconducting properties of Nb_{0.18}Re_{0.82} were revisited as an example of NCS superconductors; both specific-heat and NMR experiments indicated an s-wave type SC.[23, 24] In order to provide further characterizations of the superconducting pairing state and its evolution as a function of x in Nb_{x}Re_{1-x}, we synthesized a series of polycrystals with varying Nb content, which are expected to modify the ASOC strength due to the very different atomic numbers of Nb and Re. The superconducting properties are systematically studied by measuring the electrical resistivity \rho(T), magnetic susceptibility \chi(T), specific heat C_{P}(T,B), as well as the London penetration depth \Delta\lambda(T). Our results provide strong evidence of BCS-like SC for Nb_{x}Re_{1-x}.
+
+## II Experimental Methods
+
+Polycrystalline Nb_{x}Re_{1-x} (x=0.13-0.93) samples were prepared by a two-step arc melting method in ultrapure argon gas. A Ti button was used as an oxygen getter. In the first step, buttons of high-purity niobium (99.99%, Alfa Aesar) and rhenium (99.99%, Alfa Aesar) powders were prepared by arc melting, respectively. In the second step, stoichiometric amounts of the two compositions were melted together to form the alloy Nb_{x}Re_{1-x}. The ingot was inverted and remelted several times to improve sample homogeneity. Such a two-step approach is efficient to decrease the melting points of materials through alloying. The so-derived ingot forms a hard button with a negligible weight loss of less than 0.5%, attributed to the low vapor pressure of Nb and Re. A subsequent heat treatment was performed at 800 ^{\circ}C in a vacuum-sealed quartz tube for 7 days, followed by a slow cooling of the furnace.
+
+The crystal structure of the ingots was characterized by powder x-ray diffractometry (XRD) using a X'Pert PRO diffractometer (CuK\alpha radiation) in the Bragg-Brentano geometry for the 2th range of 10^{\circ}-90^{\circ}. Sample compositions were identified by using energy dispersive x-ray (EDX) spectroscopy, showing nearly the same compositions as the nominal values. The electrical resistivity was measured using a standard four-probe method in a dc magnetic field up to 14 T and at temperatures down to 0.3 K in a ^{3}He cryostat. Measurements of the magnetic susceptibility and specific heat were performed in a commercial magnetic property measurement system (5T-MPMS) and a physical property measurement system (9T-PPMS) (Quantum Design), respectively. Measurements of the London penetration depth \Delta\lambda(T) were performed by using a technique based on a tunnel  diode oscillator (TDO) [25] at a frequency of 7 MHz down to 0.4 K in a ^{3}He cryostat.
+
+## III Results and discussion
+
+### Crystal structures
+
+Powder XRD spectra were taken on the Nb_{x}Re_{1-x} samples with various x (x = 0.13-0.93) at room temperature. It was found that Nb_{x}Re_{1-x} crystallizes in three different crystal structures while varying the Nb composition from x = 0.13 to x = 0.93, which is consistent with previous reports. [22] For 0.13\leqslant x\leqslant 0.38 (region I), XRD patterns identify our samples as being of single phase with a cubic Ti_{3}Re_{24} structure [see Fig. 1(a)]. In each unit cell, there are 58 atoms on four crystallographically distinct sites: Nb(1), Nb(2), Re(1), and Re(2) [see the inset of Fig. 1(b)]. The inversion symmetry is preserved for the Nb(1) sites (2a), occupied by two Nb atoms, while it is broken on the Nb(2), Re(1), and Re(2) sites along all crystallographic directions, which are occupied by 8 Nb, 24 Re, and 24 Re atoms, respectively. For 0.38<x\leqslant 0.52 (region II), the Nb_{7}Re_{8}-type phase dominates (tetragonal, P4_{2}/mmm). However, XRD patterns reveal a Nb structure with cubic Im\overline{3}m space group (No. 229) in the range of 0.55\leqslant x\leqslant 0.93, demonstrating a maximum solubility of 46% helium in niobium. [22] In regions I and II, there is a systematic shift of the diffraction peaks to lower angles with increasing x, suggesting a binary solid solution for Nb_{x}Re_{1-x} (x = 0.13-0.54). It is noted that the Nb_{x}Re_{1-x} alloys are mixed with Nb_{x}Re_{24} and Re-element phases for 0<x<0.13. [22] In this paper, we will mainly focus on the properties of the NCS superconductors in region I.
+
+In Fig. 1(b), we plot the unit cell volume V as a function of x for Nb_{x}Re_{1-x} (0.13\leqslant x\leqslant 0.38), as determined from the XRD patterns using Rietveld refinement. One can see that the unit cell volume increases monotonically with increasing x, attributed to the larger atomic radius of Nb. We find a lattice parameter of a = 9.6507 A for Nb_{0.18}Re_{0.82}, which is consistent with that reported in Ref. [23].
+
+### The dependence of T_{c} on Nb concentration x
+
+Figure 2 presents the temperature dependence of the electrical resistivity \rho(T) [Fig. 2(a)], magnetic susceptibility \chi(T) [Fig. 2(b)], and specific heat C_{p}(T) [Fig. 2(c)] for Nb_{x}Re_{1-x} (x = 0.18, 0.25, 0.29, and 0.31). A pronounced superconducting transition is observed in all these quantities for each compound. Note that the superconducting transition is broadened upon increasing x, which is likely attributed to the enhanced sample inhomogeneity. Bulk SC with nearly 100% shielding volume can be inferred from the magnetic
+
+Figure 1: (Color online) (a) XRD patterns for Nb_{x}Re_{1-x}, x = 0.18, 0.25, 0.29, and 0.38. Short vertical bars are the standard reflection positions. (b) The unit cell volume plotted as a function of x for samples with x = 0.13–0.38. The inset shows the Ti_{3}Re_{24}-type crystal structure.
+
+Figure 2: (Color online) Temperature dependence of (a) the electrical resistivity \rho(T), (b) the magnetic susceptibility \chi(T), and (c) the specific heat C_{p}(T) for Nb_{x}Re_{1-x} (x = 0.18, 0.25, 0.29, and 0.31). Dashed lines illustrate the methods of determining T_{c}.
+
+  susceptibility as well as the specific-heat jumps at T_{c}. The Sommerfeld coefficient \gamma_{n} can be derived from the polynomial fits of the normal-state specific heat by C_{p}=\gamma_{n}T+(B_{3}T^{3}+B_{5}T^{5}+B_{7}T^{7}), in which the first term represents the electronic contribution C_{r}=\gamma_{n}T, while the second term denotes the phonon contribution. With this method, we obtain \gamma_{n}=4.8 mJ/mol K^{2} for x=0.18, the \gamma_{n} value decreasing with increasing x. It is pointed out that a much larger value of \gamma_{n}=53.5 mJ/mol K^{2} was previously reported in Ref. [23] for Nb_{0.18}Re_{0.82}, presumably due to a miscalculation. Furthermore, no evidence of magnetic order and magnetic impurities is observed in the above measurements.
+
+In Fig. 3, we plot the superconducting transition temperatures T_{c} and the Sommerfeld coefficient \gamma_{n} as a function of the Nb content x for Nb_{x}Re_{1-x}. Here we determine T_{c} from the intersections of the magnetic susceptibility, and the midpoints of the resistive transition and the specific-heat jumps as illustrated in Fig. 2. One can see that the bulk T_{c}'s, derived from the magnetic susceptibility and specific heat, are slightly reduced but still compatible with the resistive T_{c}, showing a monotonic decrease with increasing x. Such dependence of T_{c}(x) may originate from the decrease of the density of states at the Fermi level, as reflected by the x dependence of \gamma_{n}(x) in Fig. 3(b).
+
+### Upper critical field
+
+To determine the upper critical field B_{c2}(T), we have measured the electrical resistivity \rho(T) (x=0.18, 0.25, 0.29, and 0.31) and specific heat C_{p}(T) (x=0.18) at various magnetic fields. As an example, we show \rho(T) of Nb_{0.18}Re_{0.82} at magnetic fields up to 14 T in the inset of Fig. 4. Obviously, the superconducting transition is shifted to lower temperatures upon increasing magnetic field, but not yet suppressed by the maximum field of 14 T we applied. The superconducting transition of x=0.18 remains fairly sharp in a magnetic field, but it is broadened in other samples with larger x, indicating that the samples become more inhomogeneous with increasing Nb content. Similar behavior is also seen in the specific-heat data (see below).
+
+In the main panel of Fig. 4, we show the normalized upper critical field B_{c2}/[T_{c}(dB_{c2}/dT)_{T_{c}}] versus T/T_{c} for various Nb contents. Here the resistive T_{c} and the horizontal bars are determined from the midpoints, as well as the 10% and 90% drops of the normal-state resistivity just above T_{c}. The values of T_{c} from the specific heat are determined by using the entropy balance method in a plot of C/T vs T. Remarkably, the upper critical fields B_{c2}(T), derived either from the same measurement of different sample concentrations x or from different measurements of the same sample (x=0.18), can be nicely scaled by T_{c}; the normalized curves collapse onto a single line as shown in Fig. 4.
+
+Another important feature of the upper critical field curve B_{c2}(T) is the remarkably linear temperature dependence down to the base temperature T\simeq 0.3 K. For comparison, in Fig. 4 we include the fits of the upper critical fields by the Werthamer-Helfand-Hohenberg (WHH) method in the dirty limit (solid line) [26] as well as the Ginzburg-Landau (GL) formula, B_{c2}(T)=B_{c2}(0)[1-(T/T_{c})^{2}]/[1+(T/T_{c})^{2}] (dashed line). One can see that the WHH method fails to describe the experimental data over a wide temperature region. The GL formula can give a much better illustration of the experimental data, but also shows deviations at low temperatures. We estimate the upper critical field B_{c2}(0) by linearly extrapolating B_{c2}(T) to zero temperature, which gives B_{c2}(0)=23, 14.5, 11.8, and 9 T for x=0.18, 0.25, 0.29, and 0.31, respectively. Such values of B_{c2}(0) largely exceed the corresponding orbital limiting field, and are close to or even larger than the Pauli limiting field.
+
+According to the WHH theory, [26] the upper critical field limited by the orbital mechanism can be estimated from
+
+Figure 3: (Color online) (a) T_{c} vs x for Nb_{x}Re_{1-x}, determined from the electrical resistivity \rho(T), the magnetic susceptibility \chi(T), and the specific heat C_{p}(T), respectively. (b) The Sommerfeld coefficient \gamma_{n}(x) plotted as a function of x.
+
+  and the initial slope of the upper critical field B_{c2}(T), i.e.,
+
+\[B_{c2}^{\rm orb}(0)=-0.69T_{c}(dB_{c2}/dT)_{T=T_{c}}.\] (1)
+
+The above formula gives B_{c2}^{\rm orb}(0)=16.1, 10.5, 8.6, and 6.3 T for x=0.18, 0.25, 0.29, and 0.31, respectively.
+
+On the other hand, SC can be destroyed by the Pauli paramagnetic effect in a magnetic field as a result of the Zeeman effect. The Pauli limiting field is usually defined by [28, 29]
+
+\[B_{c2}^{P}(0)=\Delta_{0}/\sqrt{2}\mu_{B},\] (2)
+
+where \Delta_{0} is the energy gap amplitude at zero temperature. For a conventional BCS superconductor, \Delta_{0}=1.76T_{c}, Eq. (2) can be simplified as B_{c2}^{P}(0)=1.86T_{c}. In the following section, we will show that Nb_{3}Re_{1-x} is a type of weak-coupling BCS superconductor. The Pauli limiting fields are, therefore, estimated to be 16.6, 12.6, 10.4, and 9.1 T for x=0.18, 0.25, 0.29, and 0.31, respectively.
+
+The linear temperature dependence of B_{c2}(T) and the absence of Pauli limiting behavior are unusual for a BCS-type superconductor. However, similar behavior was also observed in other weakly correlated NCS superconductors. For example, a very large upper critical field B_{c2}(0) was also reported in the multigap superconductors La_{2}C_{3} (Ref. [30]) and Y_{2}C_{3}.[15] In the latter case, evidence of line nodes was observed in the low-temperature limit.[15] In the following, we will provide further experimental facts to reveal the gap symmetry in Nb_{3}Re_{1-x} by measuring the low-temperature specific heat at various magnetic fields C_{p}(T,B) as well as the London penetration depth \Delta\lambda(T). Since the sample Nb_{0.18}Re_{0.82} shows the highest sample quality among this series of compounds, we will focus on this concentration here, although other samples demonstrate similar behavior.
+
+### Gap symmetry
+
+#### iii.4.1 Specific heat
+
+The temperature dependence of the specific heat C_{p}(T) was previously reported for Nb_{0.18}Re_{0.82} at zero field by Karki _et al.[23]_ It shows exponential behavior in the low-temperature limit, suggesting BCS-type SC with a moderate electron-phonon coupling. In our measurements, similar behavior is observed for Nb_{3}Re_{1-x} [see Figs. 2(c) and 5(a)]. Upon increasing the Nb content from x=0.18 to 0.31, the specific-heat jump \Delta C/\gamma_{a}T_{c} at T_{c} varies from 1.86 to about 0.5. Note that the broadened superconducting transitions for samples with large x do not allow us to reliably determine the specific-heat jumps accurately enough. Far below the superconducting transition (T<0.3T_{c}), the electronic specific heat C_{e}(T)/T for various Nb contents shows a very weak temperature dependence which can be reasonably fitted by the BCS-type exponential behavior. Following the procedures described in Ref. [19], in Fig. 5(a) we fit the specific heat C_{e}(T)/T of Nb_{0.18}Re_{0.82} from the base temperature up to T_{c}, in which C_{e}(T)/T data can be nicely described by the one-gap BCS model with an energy gap of \Delta_{0}=1.93T_{c}.
+
+We further characterize the superconducting pairing state of Nb_{0.18}Re_{0.82} by measuring the specific heat in a magnetic field. A pronounced upturn in C_{p}(T)/T appears at low temperatures, which shifts to higher temperatures upon increasing magnetic field. This is ascribed to the high-T tail of a nuclear Schottky anomaly. In this case, the total specific heat can be expressed as C_{p}(T,B)=C_{e}(T,B)+C_{\rm ph}(T)+C_{\rm Sch}(T,B), where C_{e}(T,B), C_{\rm ph}(T), and C_{\rm Sch}(T,B) represent the electron, phonon, and nuclear Schottky contributions, respectively. The phonon contributions can be subtracted from the polynomial fits above T_{c} as illustrated in Sec. III.2. The nuclear Schottky contribution follows the expression of C_{\rm Sch}(T,B)=a\,B^{2}/T^{2}, which can be subtracted by fitting the low-temperature specific-heat data [see Fig. 5(a), data for B=7 T]. In Fig. 5(b), we plot the temperature dependence of the electronic specific heat C_{e}(T) at various magnetic fields for Nb_{0.18}Re_{0.82}, as obtained after subtraction of the phonon and nuclear contributions. One can see that application of a magnetic field eventually shifts the sharp superconducting transition to lower temperatures and enhances the residual Sommerfeld coefficient \gamma_{0}(B). Note that the specific-heat data at zero field show an extremely small residual Sommerfeld coefficient of \gamma_{0}=0.018 mJ/mol K^{2}, confirming the good quality of the sample. The inset of Fig. 5(b) presents the field dependence of the residual Sommerfeld coefficient \gamma_{0}(B), which shows a remarkably linear field dependence, providing strong evidence of BCS-type SC for Nb_{0.18}Re_{0.82}. In fully gapped superconductors, the low-lying excitations are usually confined to the vortex cores, and the specific heat is proportional to the vortex density which increases linearly with increasing magnetic field, i.e., \gamma_{0}(B)\sim B.[31]
+
+#### iii.4.2 London penetration depth
+
+While the specific heat C_{p}(T)/T explores the quasiparticle density of states, the London penetration depth probes the superfluid density \rho_{s}(T). In this section, we present a precise measurement of the penetration depth changes \Delta\lambda(T) as well as \rho_{s}(T) for Nb_{0.18}Re_{0.82} by using a TDO-based technique.
+
+Figure 5: (Color online) Temperature dependence of the specific heat at various magnetic fields for Nb_{0.18}Re_{0.82}. (a) The specific heat C_{p} obtained after subtracting the phonon contribution from the raw data at B=0 and 7 T. The dashed line shows a fit to the BCS model with \Delta_{0}=1.93T_{c}. The dotted line denotes a power-law fit of the nuclear Schottky contributions C_{\rm Sch}(T,B) at low temperatures. (b) The electronic specific heat C_{e}(T) at B=0,0.5,1,3,5, and 7 T. The inset plots the magnetic field dependence of the residual Sommerfeld coefficient \gamma_{0}(B).
+
+  With this method, the change of the London penetration depth \Delta\lambda(T) is proportional to the resonant frequency shift \Delta f(T), i.e., \Delta\lambda(T)=G\,\Delta f(T), where the G factor is a constant, solely determined by the sample and coil geometries.[25] The inset of Fig. 6 shows the penetration depth \Delta\lambda(T) at low temperatures for Nb_{0.18}Re_{0.82}, where G=1.4\,nm/Hz. A sharp superconducting transition with T_{c}^{\text{TDO}}=8.7 K is observed in this sample (not shown), which is highly consistent with all the other measurements. The penetration depth exhibits very weak temperature dependence at low temperatures. According to the isotropic BCS model, the penetration depth \Delta\lambda(T) can be approximated by the following exponential temperature dependence at T\ll T_{c}: \Delta\lambda(T)=\lambda(T)-\lambda_{0}=\lambda_{0}\sqrt{\frac{\pi\Delta_{0}} {2T}}e^{-\frac{\Delta_{0}}{T}}, where \lambda_{0} and \Delta_{0} are the penetration depth and gap amplitude at zero temperature, respectively. In the inset of Fig. 6, the dashed line shows a fit of the BCS model to our experimental data \Delta\lambda(T). Here we fix \lambda_{0}=414 nm as estimated below, and the derived energy gap of \Delta_{0}=1.91T_{c} is remarkably consistent with that from the specific-heat data.
+
+To further analyze the superconducting gap symmetry, in the following we turn to the superfluid density \rho_{s}(T) of Nb_{0.18}Re_{0.82}. The normalized superfluid density can be converted from the penetration depth by \rho_{s}(T)=[\lambda_{0}/\lambda(T)]^{2}. Here we estimate the value of \lambda_{0} according to the BCS and Ginzburg-Landau theories for a type-II superconductor,[32] i.e., \lambda_{0}=\frac{1}{1.76Z}\sqrt{\frac{\Phi_{0}B_{c}(0)}{24\gamma_{n}}}, where \Phi_{0} is the magnetic flux quantum. By taking the parameters derived from our specific-heat data, i.e., T_{c}^{C_{\tau}}=8.5 K, B_{c2}^{C_{\tau}}(0)=22.85 T, and \gamma_{n}=4.8 mJ/mol K^{2}=0.51\times 10^{4} erg/cm^{3} K^{2}, we derived \lambda_{0}=414 nm for Nb_{0.18}Re_{0.82}, which is compatible with that obtained from the measurements of the lower critical field.[23] In the main panel of Fig. 6, we plot the temperature dependence of the superfluid density \rho_{s}(T) for Nb_{0.18}Re_{0.82}.
+
+In order to adopt a proper model to fit the superfluid density \rho_{s}(T), we estimated the mean free path (l\approx 5 nm) and the coherence length (\xi_{0}\approx 4 nm) of the Nb_{0.18}Re_{0.82} sample from the resistivity \rho(T_{c})=120\mu\Omega cm, and the above mentioned quantities of T_{c}^{C_{\tau}}, B_{c2}^{C_{\tau}}(0), and \gamma_{n}.[33] The close values of the mean free path and the coherence length suggest that it is appropriate to treat the sample in the dirty limit. Accordingly, we analyze our superfluid density \rho_{s}(T) in terms of the s-wave weak-coupling BCS model in the dirty limit,[27] i.e.,
+
+\[\rho_{s}(T)=\frac{\Delta(T)}{\Delta_{0}}\tanh\left(\frac{\Delta(T)}{2T}\right).\] (3)
+
+Here the temperature dependence of the gap function is given by[34]
+
+\[\Delta(T)=\Delta_{0}\tanh\left[\frac{\pi\,T_{c}}{\Delta_{0}}\sqrt{a\frac{ \Delta\,C}{C_{\epsilon}}\left(\frac{T_{c}}{T}-1\right)}\right],\] (4)
+
+where \Delta\,C/C_{\epsilon} is the relative jump in the electronic specific heat at T_{c} and a=2/3 for an isotropic BCS superconductor. As shown in Fig. 6, the experimental data \rho_{s}(T) of Nb_{0.18}Re_{0.82} can be well described by the BCS model with a gap magnitude of \Delta_{0}=1.95T_{c}, which agrees well with the values derived from our fits of the specific-heat and penetration depth data, as well as the previous NMR data.[24] These measurements clearly identify Nb_{0.18}Re_{0.82} as an s-wave BCS superconductor. We note that similar results were also obtained for Nb_{0.29}Re_{0.71}, suggesting BCS-like SC for Nb_{x}Re_{1-x} (0.13\leqslant x\leqslant 0.38).
+
+## IV IV. Conclusion
+
+In summary, we have studied the superconducting properties of the NCS compounds Nb_{x}Re_{1-x} (0.13\leqslant x\leqslant 0.38) by measuring the electrical resistivity, magnetic susceptibility, specific heat, as well as the London penetration depth. We found that the superconducting transition temperature T_{c} decreases monotonically with increasing x, which is partially attributed to the decrease of the density of states at the Fermi energy. The upper critical field B_{c2}(T) of Nb_{x}Re_{1-x} can be perfectly scaled by the corresponding T_{c}, showing a rather linear temperature dependence down to the base temperature. The upper critical field at zero temperature B_{c2}(0) exceeds the orbital limit, and also approaches the Pauli paramagnetic limit. On the other hand, the temperature dependence of the electronic specific-heat coefficient C_{\epsilon}(T)/T, penetration depth \Delta\lambda(T), and superfluid density \rho_{s}(T) of Nb_{0.18}Re_{0.82} can be consistently described by the BCS model with an energy gap of \Delta_{0}\approx 1.9T_{c}. Evidence of BCS SC for x=0.18 is further provided by the observation of a linear field dependence of the residual Sommerfeld coefficient \gamma_{0}(B). Our results demonstrate that Nb_{x}Re_{1-x} (0.13\leqslant x\leqslant 0.38) is an s-wave BCS-type superconductor with negligible contributions from the spin-triplet component, in spite of the heavy atomic mass of Re residing on the NCS sites. The observation of s-wave superconductivity with an extremely large B_{c2}(0) in Nb_{x}Re_{1-x}, which is rare among the NCS superconductors, demands further theoretical and experimental investigations.
+
+###### Acknowledgements.
+
+ We appreciate valuable discussions with L. Z. Sun and M. B. Salamon. This work was supported by the National Basic Research Program of China (Grants No. 2011CBA00103 and
+
+Figure 6: (Color online) Temperature dependence of the superfluid density \rho_{s}(T) for Nb_{0.18}Re_{0.82}. The inset shows the penetration depth \Delta\lambda(T) at low temperatures. The lines represent fits to the BCS model.
+
+  No. 2009CB929104), the Natural Science Foundation of China (Grant No. 10934005), Zhejiang Provincial Natural Science Foundation of China, the Fundamental Research Funds for the Central Universities, and the Max Planck Society under the auspices of the Max Planck Partner Group of the MPI for Chemical Physics of Solids, Dresden.
+
+## References
+
+* [1] E. Bauer, G. Hilscher, H. Michor, Ch. Paul, E. W. Scheidt, A. Gribanov, Yu. Seropegin, H. Noel, M. Sigrist, and P. Rogl, Phys. Rev. Lett. **92**, 027003 (2004).
+* [2] L. P. Gor'kov and E. I. Rashba, Phys. Rev. Lett. **87**, 037004 (2001).
+* [3] S. K. Yip, Phys. Rev. B **65**, 144508 (2002).
+* [4] P. A. Frigeri, D. F. Agterberg, A. Koga, and M. Sigrist, Phys. Rev. Lett. **92**, 097001 (2004).
+* [5] Y. Yanase and M. Sigrist, J. Phys. Soc. Jpn. **76**, 124709 (2007).
+* [6] S. Fujimoto, J. Phys. Soc. Jpn. **76**, 051008 (2007).
+* [7] H. Q. Yuan, D. F. Agterberg, N. Hayashi, P. Badica, D. Vandervelde, K. Togano, M. Sigrist, and M. B. Salamon, Phys. Rev. Lett. **97**, 017006 (2006); H. Q. Yuan, M. B. Salamon, P. Badica, and K. Togano, Physica B **403**, 1138 (2008).
+* [8] M. Nishiyama, Y. Inada, and G. Q. Zheng, Phys. Rev. Lett. **98**, 047002 (2007).
+* [9] H. Takeya, M. El Massalami, S. Kasahara, and K. Hirata, Phys. Rev. B **76**, 104506 (2007).
+* [10] X. L. Qi, T. L. Hughes, S. Raghu, and S. C. Zhang, Phys. Rev. Lett. **102**, 187001 (2009).
+* [11] C. K. Lu and S. Yip, Phys. Rev. B **82**, 104501 (2010).
+* [12] E. Bauer and M. Sigrist, _Non-centrosymmetric Superconductors: Introduction and Overview_ (Springer, Berlin, 2012).
+* [13] M. Sigrist, D. F. Agterberg, P. A. Frigeri, A. Hayashi, R. P. Kaur, A. Koga, I. Milat, K. Wakabayashi, and Y. Yanase, J. Magn. Magn. Mater. **310**, 536 (2007).
+* [14] H. Mukuda, T. Obara, M. Yashima, Y. Kitaoka, R. Settai, Y. Onuki, K. M. Itoh, and E. E. Haller, Phys. Rev. Lett. **104**, 017002 (2010).
+* [15] J. Chen, M. B. Salamon, S. Akutagawa, J. Akimitsu, J. Singleton, J. L. Zhang, L. Jiao, and H. Q. Yuan, Phys. Rev. B **83**, 144529 (2011).
+* [16] A. Harada, S. Akutagawa, Y. Miyamichi, H. Mukuda, Y. Kitaoka, and J. Akimitsu, J. Phys. Soc. Jpn. **76**, 023704 (2007).
+* [17] S. Kuroiwa, Y. Saura, J. Akimitsu, M. Hiraishi, M. Miyazaki, K. H. Satoh, S. Takeshita, and R. Kadono, Phys. Rev. Lett. **100**, 097002 (2008).
+* [18] T. Klimczuk, F. Ronning, V. Sidorov, R. J. Cava, and J. D. Thompson, Phys. Rev. Lett. **99**, 257004 (2007).
+* [19] J. Chen, L. Jiao, J. L. Zhang, Y. Chen, L. Yang, M. Nicklas, F. Steglich, and H. Q. Yuan, New J. Phys. **15**, 053005 (2013).
+* [20] N. Kimura, K. Ito, H. Aoki, S. Uji, and T. Terashima, Phys. Rev. Lett. **98**, 197001 (2007).
+* [21] R. Settai, Y. Miyauchi, T. Takeuchi, F. Lvy, T. Sheikin, and Y. Onuki, J. Phys. Soc. Jpn. **77**, 073705 (2008).
+* [22] A. G. Knapton, J. Less-Common Met. **1**, 480 (1959).
+* [23] A. B. Karki, Y. M. Xiong, N. Haldolaarachchige, S. Stadler, I. Vekhter, P. W. Adams, D. P. Young, W. A. Phelan, and J. Y. Chan, Phys. Rev. B **83**, 144525 (2011).
+* [24] C. S. Lue, T. H. Su, H. F. Liu, and B. L. Young, Phys. Rev. B **84**, 052509 (2011).
+* [25] R. Prozorov, R. W. Giannetta, P. Fournier, and R. L. Greene, Phys. Rev. Lett. **85**, 3700 (2000), and references therein.
+* [26] N. R. Werthamer, E. Helfand, and P. C. Hohenberg, Phys. Rev. **147**, 295 (1966).
+* [27] M. Tinkham, _Introduction to Superconductivity_, 2nd ed. (McGraw-Hill, New York, 1996).
+* [28] A. M. Clogston, Phys. Lett. **9**, 266 (1962).
+* [29] B. S. Chandrasekhar, J. Appl. Phys. Lett. **1**, 7 (1962).
+* [30] J. S. Kim, R. K. Kremer, O. Jepsen, and A. Simon, Curr. Appl. Phys. **6**, 897 (2006).
+* [31] C. Caroli, P. G. de Gennes, and J. Matricon, Phys. Lett. **9**, 307 (1964).
+* [32] F. Gross, B. S. Chandrasekhar, D. Einzel, K. Andres, P. J. Hirschfeld, H. R. Ott, J. Beuers, Z. Fisk, and J. L. Smith, Z. Phys. B: Condens. Matter **64**, 175 (1986).
+* [33] T. P. Orlando, E. J. McNiff, Jr., S. Foner, and M. R. Beasley, Phys. Rev. B **19**, 4545 (1979).
+* [34] R. Prozorov and R. W. Giannetta, Supercond. Sci. Technol. **19**, R41 (2006).
+
+ 

@@ -1,0 +1,385 @@
+# Evidence for two distinct superconducting phases in EuBiS₂F under
+pressure
+
+C. Y. Guo,¹ Y. Chen,¹ M. Smidman,¹ S. A. Chen,² W. B. Jiang,¹ H. F.
+Zhai,¹ Y. F. Wang,¹ G. H. Cao,^(1, 3) J. M. Chen,² X. Lu,^(1, 3,)1 and
+H. Q. Yuan
+
+xinulphy@zju.edu.cn ¹Center for Correlated Matter and Department of
+Physics, Zhejiang University, Hangzhou, Zhejiang 310058, China
+
+²National Synchrotron Radiation Research Center, Hsinchu 30076, Taiwan
+
+³Collaborative Innovation Center of Advanced Microstructures, Nanjing
+210093, China
+
+Footnote 1: hqyuan@zju.edu.cn
+
+###### Abstract
+
+We present a pressure study of the electrical resistivity, ac magnetic
+susceptibility, and powder x-ray diffraction (XRD) of the recently
+discovered BiS₂-based superconductor EuBiS₂F. At ambient pressure,
+EuBiS₂F shows an anomaly in the resistivity at around T_(c) ≈ 280 K and
+a superconducting transition at T_(c) ≈ 0.3 K. Upon applying hydrostatic
+pressure, there is little change in T₀ but the amplitude of the
+resistive anomaly is suppressed, whereas there is a dramatic enhancement
+of T_(c) from 0.3 K to about 8.6 K at a critical pressure of p_(c) ≈ 1.4
+GPa. XRD measurements confirm that this enhancement of T_(c) coincides
+with a structural phase transition from a tetragonal phase (P4/mmm) to a
+monoclinic phase (P2₁/m), which is similar to that observed in
+isostructural LaO_(0.3)F_(0.5)BiS₂. Our results suggest the presence of
+two different superconducting phases with distinct crystal structures in
+EuBiS₂F, which may be a general property of this family of BiS₂-based
+superconductors.
+
+pacs: 74.70.Xa, 74.62.Fj, 74.25.F- + Footnote †: preprint: PHYSICAL
+REVIEW B **91**, 214512 (2015)
+
+## I Introduction
+
+The recently discovered BiS₂-based superconductors [1,2] have attracted
+considerable attention. Similar to cuprate and iron pnictide
+superconductors [3,4], these compounds possess layered crystal
+structures but with a rather low superconducting transition temperature
+(T_(c)). The first BiS₂-based superconductor Bi₄O₄S₃, which crystallizes
+in a body-centered tetragonal structure (space group I4/mmm) consisting
+of double layers of BiS₂, separated by units of Bi₂O₂ and SO₄, shows a
+metallic normal state before becoming superconducting at T_(c) ≈ 5 K
+[1]. Subsequently, another family of BiS₂-based superconductors
+L_(0.1 − x)F_(x)BiS₂ (L= La, Ce, Pr, or Nd) [2,5, 6, 7, 8] with a
+primitive tetragonal structure (space group P4/nmm) has also been
+studied intensively. This structure contains the same double BiS₂ layers
+but in this instance they are separated by units of LO_(1 − x)F_(x). At
+ambient pressure, these compounds become superconducting upon adding
+charge carriers via substituting F for O and there is a change from
+insulating to semiconducting behavior.
+
+A dramatic enhancement of T_(c) was observed on applying pressure to
+LO_(1 − x)F_(x)BiS₂ (L= La, Ce, Pr, or Nd) [9, 10, 11], which seems to
+be a general feature of this family of BiS₂-based superconductors. For
+example, LaO_(0.5)F_(0.5)BiS₂ becomes superconducting at T_(c) ≃ 2.5 K
+at ambient pressure, but its T_(c) undergoes a sharp increase at p ≃ 0.7
+GPa, reaching T_(c) ≃ 10.7 K [10]. Furthermore, a similarly large T_(c)
+was also measured at ambient pressure for LaO_(0.5)F_(0.5)BiS₂ samples
+synthesized in high-pressure conditions [12]. However, the underlying
+mechanism behind the pressure-induced enhancement of T_(c) remains
+unresolved. The increase of T_(c) under pressure could be due to
+modifications of the electronic structure and, in particular, it has
+been suggested that it may be related to an increase in the density of
+charge carriers upon the suppression of semiconducting behavior [11].
+Differences in Hall effect measurements of Eu₃Bi₂S₄F₄ at low and high
+pressures also suggest a pressure-induced change in the electronic
+structure [13]. It was also found that in LaO_(0.5)F_(0.5)BiS₂ the jump
+in T_(c) is accompanied by a structural phase transition from a
+tetragonal to a monoclinic structure [10]. On the other hand, different
+behavior is shown in Bi₄O₄S₃, where T_(c) decreases upon applying
+pressure, reaching about 3 K at 2 GPa [14], and the material is metallic
+in the normal state. The parent compound Bi₆O₈S₅ is a band insulator,
+but a 50
+
+The recently discovered BiS₂-based superconductor EuBiS₂F, which is
+isostructural to LO_(1 − x)F_(x)BiS₂, displays unique properties [16].
+Not only does it become superconducting at T_(c) ≈ 0.3 K, there is also
+an anomaly in the resistivity at around 280 K, which has been proposed
+to be a charge density wave (CDW) transition [16]. There is no change in
+the crystal structure down to 13 K but a small anomaly in the ratio of
+the lattice parameters c/a is observed around 280 K. The strong
+hybridization between Eu 4f and Bi 6p electrons results in a large
+electronic specific heat coefficient of about 73 mJ/mol K². Importantly,
+this compound does not exhibit significant semiconducting behavior at
+low temperatures, which is different from most other LO_(1 − x)F_(x)BiS₂
+superconductors. Therefore, EuBiS₂F may provide us a valuable
+opportunity to study the origin of the dramatic enhancement of T_(c) in
+LO_(1 − x)F_(x)BiS₂ under pressure and also the possible interplay of
+superconductivity and CDW order. In this paper, we report electrical
+resistivity, ac magnetic susceptibility, and powder x-ray diffraction
+measurements of EuBiS₂F under high pressure. It is found that the
+resistive anomaly around 280 K is weakened under pressure and vanishes
+around p_(c) ≈ 1.4 GPa. On the other hand, the superconducting
+transition temperature undergoes an enormous increase from T_(c) ≃ 0.3 K
+to 8.6 K at p_(c), where a structural phase transition from the
+tetragonal phase (P4/nmm) to a monoclinic phase (P2₁/m) takes place.
+These results suggest that two distinct superconducting phases,
+corresponding to two distinct crystal structures, exist in EuBiS₂F.
+
+## II Experimental Methods
+
+Polycrystalline samples of EuBiS₂F were synthesized by a solid-state
+reaction method, as described in Ref. [16]. Resistivity measurements
+under hydrostatic pressure were performed up to about 2.4 GPa using a
+piston-cylinder-type pressure cell, with Daphne 7373 used as a
+pressure-transmitting medium. The applied pressure was determined by
+measuring the shift in T_(c) of a high-quality Pb sample.
+High-temperature measurements were performed using a physical property
+measurement system (Quantum Design PPMS-14T) in a temperature range of 2
+to 300 K. The low-temperature measurements were performed using a ³He
+refrigerator down to 0.3 K. All resistivity measurements were carried
+out using a standard four-probe method with four Pt wires spot welded to
+the sample surface. ac magnetic susceptibility measurements were carried
+out with a set of coils designed in house, consisting of a drive coil, a
+pick-up coil, and a coil for compensation. The system was driven with an
+applied current of 0.1 mA at a frequency of 1523 Hz and the voltage
+signal was measured using an SR-830 lock-in amplifier. The dc magnetic
+susceptibility was measured using a superconducting quantum interference
+device (SQUID) magnetometer and a magnetic property measurement system
+(Quantum Design MPMS-5T). High-pressure powder x-ray diffraction (XRD)
+measurements were carried out at the BL12B2 Taiwan beamline of Spring-8.
+Finely grained EuBiS₂F powder and spread-out tiny ruby balls for
+pressure determination were filled into the pinhole (diameter 235 μm) of
+a stainless steel gasket mounted on a diamond anvil cell with a culet
+size of 450 μm. A mixture of methanol, ethanol, and water in a ratio of
+16:3:1 was used as the pressure-transmitting medium in the XRD
+measurements [17]. Measurements of the fluorescence line shift were
+performed at multiple positions in the sample chamber using a laser with
+a diameter of 5-10 μm. This was measured before and after each exposure
+to confirm the hydrostatic nature of the applied pressure. With a
+monochromatic beam (λ = 0.689 69 A), the two-dimensional (2D)
+diffraction images were collected using an ADSC Quantum 4R CCD x-ray
+detector and then transformed into 1D patterns by using the program
+fit2d. A high-quality CeO₂ standard (99.99
+
+## III Results
+
+### Resistivity and ac susceptibility
+
+The temperature dependence of the electrical resistivity [ρ(T)] of
+EuBiS₂F at various pressures is displayed in Fig. 1(a). At ambient
+pressure, ρ(T) shows a broad hump below ≃280 K, which has been proposed
+to be a CDW-type transition [16]. At low temperatures, a superconducting
+transition is observed with T_(c) ≃ 0.3 K, which is consistent with
+previous measurements. Figure 1(b) displays the derivative of ρ(T) in
+the high-temperature region where the minimum at T₀ corresponds to the
+broad hump. The temperature where this feature occurs changes little
+with increasing pressure up to 1.3 GPa, but the amplitude weakens. For
+pressures greater than 1.3 GPa, the anomaly cannot be detected and the
+resistivity monotonically decreases below 300 K. The high-temperature
+resistivity is shown in Fig. 1(c), measured upon heating and cooling.
+The difference between the curves clearly shows the presence of
+hysteresis associated with the anomaly at T₀.
+
+Unlike the possible CDW transition at T₀, the superconducting transition
+of EuBiS₂F varies considerably upon applying pressure. As shown in Fig.
+2(a), for p < p_(c) ≃ 1.4 GPa there is a slight increase of T_(c) with
+increasing pressure and the superconducting transition is broader. Upon
+increasing the pressure to 1.7 GPa, T_(c) significantly increases from
+below 1 K to around 8.6 K. Further increasing the pressure above 1.7 GPa
+results in no significant change of T_(c) and the superconducting
+transition remains sharp. At the critical pressure of p_(c) ≃ 1.4 GPa,
+the superconducting transition becomes significantly broader, which is
+likely attributable to small pressure inhomogeneities. In addition, the
+pressure dependence of the residual resistivity in the normal state also
+exhibits a distinct change between 1.4 and 1.7 GPa. Below 1.4 GPa, the
+residual resistivity decreases upon applying pressure, but at higher
+pressures, there is no significant change. Measurements of the real part
+of the ac magnetic susceptibility (χ^(′)) under pressure are shown in
+Fig. 2(b). The data are given in absolute units which were obtained by
+scaling χ^(′)(T) above 2 K to the dc magnetic susceptibility measured in
+the MPMS. At a low pressure of p = 0.4 GPa, the onset of diamagnetic
+shielding occurs at 0.4 K, which is consistent with the
+
+Figure 1: (Color online) (a) Temperature dependence of the electrical
+resistivity ρ(T) of EuBiS₂F at various pressures in the temperature
+range 0.3 to 300 K. (b) The derivative of ρ(T) across the
+high-temperature region, where the presence of the anomaly at T₀ is
+shown by the minimum of the data. (c) The resistivity anomaly at T₀
+(p = 0), measured upon both heating and cooling, which shows clear
+hysteresis.
+
+observed in resistivity measurements. There is a slight increase in
+T_(c) with pressure, reaching 0.7 K at 1.1 GPa. Due to the low T_(c) and
+broadening of the transition, χ^(′) continues to decrease even at the
+lowest measured temperature of 0.3 K. At a pressure of 1.5 GPa, there is
+a large enhancement of T_(c) to 8.6 K, which is in good agreement with
+the resistivity measurements. At low temperatures χ^(′) reaches a near
+constant value of about −1.4, which is lower than the value of −1
+corresponding to full diamagnetic shielding and this is likely to be due
+to demagnetization effects. The imaginary part of the ac magnetic
+susceptibility χ^(′′) is shown in the inset, and the peak is due to
+energy loss at the onset of superconductivity.
+
+Resistivity measurements were also performed at the highest pressure
+(p ≈ 2.4 GPa) with an applied magnetic field. It can be seen in Fig.
+3(a) that, with increasing magnetic field, the superconducting
+transition is shifted to lower temperatures and becomes significantly
+broader. The results at high fields show a kink at T^(*), which is
+similar to that observed in the high-pressure phase of polycrystalline
+Eu₃Bi₂S₄[13]. As EuBiS₂F has a layered structure, its upper critical
+field is expected to be anisotropic, as observed in the isostructural
+LaO_(0.5)F_(0.5)BiS₂[18]. Since a polycrystalline sample contains grains
+of different orientations, the upper critical field may vary from grain
+to grain, leading to a kink in the resistivity at high magnetic fields.
+However, we also cannot exclude other possibilities at the present time,
+such as a field-induced transition inside the superconducting state.
+Figure 3(b) shows the upper critical field (B_(c2)) determined from
+where the resistivity reaches 90
+
+### X-ray diffraction
+
+To examine whether there is a change in crystal structure correlated
+with the enhancement of T_(c) in EuBiS₂F, we performed high-pressure
+powder XRD measurements at room temperature, as shown in Fig. 4(a). At
+ambient pressure, EuBiS₂F crystallizes in a tetragonal structure with
+the space group P4/nmm, which is consistent with the previous report
+[16]. It can be seen that all the patterns measured at applied
+
+Figure 4: (Color online) (a) Room-temperature powder x-ray diffraction
+patterns of polycrystalline EuBiS₂F at various pressures. Additional
+Bragg peaks are observed for p > p_(c) ≃ 1.4 GPa, evidencing a
+structural phase transition. (b) XRD pattern at p = 3.0 GPa and its
+refinement for a monoclinic crystal structure with space group P2₁/m.
+
+Figure 3: (Color online) Temperature dependence of the resistivity of
+EuBiS₂F under applied magnetic fields at about 2.4 GPa. (a) displays the
+temperature dependence of the resistivity at various magnetic fields,
+while (b) shows the upper critical field determined from the temperature
+where the resistivity drops to 90
+
+Figure 2: (Color online) (a) Temperature dependence of the electrical
+resistivity ρ(T) of EuBiS₂F below 10 K, in the vicinity of the
+superconducting transition. (b) Temperature dependence of the real part
+of the ac magnetic susceptibility χ^(′) measured at several pressures,
+with the imaginary component χ^(′′) shown in the inset.
+
+pressures display an additional peak at around 28.1^(∘) due to
+diffraction from the ruby balls, which are used to determine the
+pressure in the diamond anvil cell. At applied pressures greater than
+1.4 GPa, different Bragg peaks are observed, which is clear evidence for
+a change in crystal structure, and an increase in the number of peaks
+indicates a reduction in the crystal symmetry. Similar behavior is
+observed in LaO_(0.5)F_(0.5)BiS₂[10], where a structural phase
+transition occurs from a tetragonal (P4/nmm) to a monoclinic(P2₁/m)
+structure. Upon further increasing pressure, no additional changes in
+the crystal structure are observed up to 12.6 GPa. To determine the
+crystal structure at high pressures, we analyzed the diffraction pattern
+at 3.0 GPa, which is displayed in Fig. 4(b). The pattern was fitted by
+performing a structural refinement using the gsas + expgui software
+[20], with the monoclinic structure from Ref. [10]. The solid line shows
+the fitted curve, and this indicates that the Bragg peaks at high
+pressure can be reasonably accounted for by this structure. It should be
+noted that, although there is a good agreement between the theoretical
+and experimental peak positions, the peak intensities are not perfectly
+matched. Inaccuracies of the relative peak intensities are a frequent
+problem when measuring powder XRD in a diamond anvil cell due to the
+small sample mass and the presence of preferred orientations [21].
+Therefore, the atomic positions in the pressure-induced phase may be
+best determined from density functional theory calculations as reported
+previously [10], rather than from refinements of XRD data.
+
+## IV Summary and discussion
+
+The results measured under applied pressure are summarized by the phase
+diagram in Fig. 5. Below p_(c) ≃ 1.4 GPa, T_(c) increases slightly with
+increasing pressure. On the other hand, the position of the broad hump
+in the resistivity at T₀ is nearly unchanged, but its amplitude is
+reduced with increasing pressure. Around p_(c) ≃ 1.4 GPa, there is a
+dramatic enhancement of T_(c), whereas the high-temperature resistive
+anomaly at T₀ vanishes. The large uncertainty of T_(c) at 1.4 GPa
+reflects the broad nature of the transition, arising from the
+coexistence of the low- and high-pressure phases as a result of the
+small pressure inhomogeneities in the measurements. In addition, the
+crystal structure undergoes a transition from a tetragonal (P4/nmm) to a
+monoclinic(P2₁/m) structure between 1.4 and 1.8 GPa and the residual
+resistivity also shows a steplike decrease across the critical pressure
+region of p_(c) ≃ 1.4 GPa. Upon further increasing pressure, there is no
+significant change of T_(c).
+
+The above phase diagram of EuBiS₂F is similar to that observed in other
+LO_(1 − x)F_(x)BiS₂ superconductors, with all the compounds showing a
+comparable value of T_(c) at high pressures. In contrast to the other
+materials, EuBiS₂F does not show significant semiconducting behavior and
+therefore the enhancement of T_(c) is not simply associated with the
+suppression of this behavior. However, the high-pressure XRD results
+reveal a similar structural phase transition in both
+LaO_(0.5)F_(0.5)BiS₂[10] and EuBiS₂F (this study). This suggests that
+two different superconducting phases, associated with two distinct
+crystal structures, may exist in LO_(1 − x)F_(x)BiS₂; the low-T_(c)
+superconducting phase (SC1) in the tetragonal structure and the
+high-T_(c) phase (SC2) in the monoclinic structure as shown in Fig. 5.
+The dramatic enhancement of T_(c) under pressure is likely due to
+differences in the electronic structure between these two structural
+phases which could be examined by band-structure calculations.
+Furthermore, it is also important to extend the high-pressure XRD
+measurements to other compounds in order to confirm the generality of
+this observation. In comparison with other LO_(1 − x)F_(x)BiS₂
+superconductors, EuBiS₂F shows a greatly reduced T_(c) at low pressures,
+which could be attributable to the Eu 4f magnetic moments or its valence
+state [16]. However, the values of T_(c) for all these compounds are
+similar in the high-pressure region [9, 11] and therefore the structural
+phase transition at p_(c) ≃ 1.4 GPa is likely accompanied by a change of
+the Eu valence, which may also lead to the disappearance of the
+resistive anomaly at T₀ above p_(c). To confirm the possible changes of
+the Eu valence in EuBiS₂F under pressure, it would be desirable to
+perform experiments such as x-ray absorption spectroscopy.
+
+In summary, we have performed electrical resistivity, ac magnetic
+susceptibility, and XRD measurements on EuBiS₂F under pressure. It is
+found that T_(c) of EuBiS₂F is dramatically enhanced at p_(c) ≃ 1.4 GPa,
+around which pressure the resistive anomaly at T₀ ≃ 280 K vanishes and a
+structural phase transition is observed at room temperature. Our results
+suggest that EuBiS₂F has two different superconducting phases
+corresponding to two different crystal structures; a low-T_(c)
+superconducting phase in the tetragonal structure and a high-T_(c) phase
+in the monoclinic structure. These observations may be a general feature
+of this family of BiS₂-based superconductors, which needs to be
+confirmed by further experiments. Furthermore, this also implies that
+the monoclinic structure may favor a superconducting phase with a higher
+T_(c), providing additional insights towards how T_(c) may be enhanced.
+
+Figure 5: (Color online) Temperature-pressure phase diagram for EuBiS₂F
+in which both T_(c) and T₀ are displayed. Values of T_(c)^(R) were taken
+from the midpoint of the resistivity transitions, while T_(c)^(L) are
+from the onset of the transition in the ac magnetic susceptibility; the
+two experimental methods give consistent results. The uncertainties in
+T_(c)^(R) were estimated from where the resistivity drops to 10
+
+## Acknowledgments
+
+We thank C. Cao for useful discussions. This work was supported by the
+National Basic Research Program of China (Grant No. 2011CBA00103), the
+National Natural Science Foundation of China (Grants No. 11174245 and
+No. 11374257), and the Fundamental Research Funds for the Central
+Universities.
+
+## References
+
+* [1] Y. Mizuguchi, H. Fujihisa, Y. Gotoh, K. Suzuki, H. Usui, K.
+Kuroki, S. Demura, Y. Takano, H. Izawa, and O. Miura, Phys. Rev. B
+**86**, 220510(R) (2012). * [2] Y. Mizuguchi, S. Demura, K. Deguchi, Y.
+Takano, H. Fujihisa, Y. Gotoh, H. Izawa, and O. Miura, J. Phys. Soc.
+Jpn. **81**, 114725 (2012). * [3] J. G. Bednorz and K. A. Muller, Z.
+Phys. B **64**, 189 (1986). * [4] Y. Kamihara, T. Watanabe, M. Hirano,
+and H. Hosono, J. Am. Chem. Soc. **130**, 3296 (2008). * [5] J. Xing, S.
+Li, X. Ding, H. Yang, and H. H. Wen, Phys. Rev. B **86**, 214518
+(2012). * [6] R. Jha, A. Kumar, S. K. Singh, and V. P. S. Awana, J.
+Supercond. Novel Magn. **26**, 499 (2013). * [7] S. Demura, Y.
+Mizuguchi, K. Deguchi, H. Okazaki, H. Hara, T. Watanabe, S. J. Denholme,
+M. Fujioka, T. Ozaki, H. Fujihisa, Y. Gotoh, O. Miura, T. Yamaguchi, H.
+Takeya, and Y. Takano, J. Phys. Soc. Jpn. **82**, 033708 (2013). * [8]
+R. Jha, A. Kumar, S. K. Singh, and V. P. S. Awana, J. Appl. Phys.
+**113**, 056102 (2013). * [9] C. T. Wolowiec, D. Yazici, B. D. White, K.
+Huang, and M. B. Maple, Phys. Rev. B **88**, 064503 (2013). * [10] T.
+Tomita, M. Ebata, H. Soeda, H. Takahashi, H. Fujihisa, Y. Gotoh, Y.
+Mizuguchi, H. Izawa, O. Miura, S. Demura, K. Deguchi, and Y. Takano, J.
+Phys. Soc. Jpn. **83**, 063704 (2014). * [11] C. T. Wolowiec, B. D.
+White, I. Jeon, D. Yazici, K. Huang, and M. B. Maple, J. Phys.: Condens.
+Matter **25**, 422201 (2013). * [12] K. Deguchi, Y. Mizuguchi, S.
+Demura, H. Hara, T. Watanabe, S. J. Denholme, M. Fujioka, H. Okazaki, T.
+Ozaki, H. Takeya, T. Yamaguchi, O. Miura, and Y. Takano, Europhys. Lett.
+**101**, 17004 (2013). * [13] Y. K. Luo, H. F. Zhai, P. Zhang, Z. A. Xu,
+G. H. Cao, and J. D. Thompson, Phys. Rev. B **90**, 220510(R) (2014). *
+[14] H. Kotegawa, Y. Tomita, H. Tou, H. Izawa, Y. Mizuguchi, O. Miura,
+S. Demura, K. Deguchi, and Y. Takano, J. Phys. Soc. Jpn. **81**, 103702
+(2012). * [15] Y. Mizuguchi, J. Phys. Chem. Solids **84**, 34 (2015). *
+[16] H. F. Zhai, Z. T. Tang, H. Jiang, K. Xu, K. Zhang, P. Zhang, J. K.
+Bao, Y. L. Sun, W. H. Jiao, I. Nowik, I. Felner, Y. K. Li, X. F. Xu, Q.
+Tao, C. M. Feng, Z. A. Xu, and G. H. Cao, Phys. Rev. B **90**, 064518
+(2014). * [17] R. J. Angel, M. Bujak, J. Zhao, G. D. Gatta, and S. D.
+Jacobsen, J. Appl. Crystallogr. **40**, 26 (2007). * [18] M. Nagao, A.
+Miura, S. Demura, K. Deguchi, S. Watauchi, T. Takei, Y. Takano, N.
+Kumada, and I. Tanaka, Solid State Commun. **178**, 33 (2014). * [19] X.
+Lin, X. X. Ni, B. Chen, X. F. Xu, X. X. Yang, J. H. Dai, Y. K. Li, X. J.
+Yang, Y. K. Luo, Q. Tao, G. H. Cao, and Z. Xu, Phys. Rev. B **87**,
+020504(R) (2013). * [20] B. H. Toby, J. Appl. Crystallogr. **34**, 210
+(2001). * [21] O. Tschauner, J. McClure, and M. Nicol, J. Synchrotron
+Radiat. **12**, 626 (2005).

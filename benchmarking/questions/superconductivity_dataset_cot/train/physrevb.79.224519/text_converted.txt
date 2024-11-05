@@ -1,0 +1,719 @@
+# Evolution of bulk superconductivity in SrFe₂As₂ with Ni substitution
+
+S. R. Saha, N. P. Butch, K. Kirshenbaum, and Johnpierre Paglione
+
+# Abstract
+
+Single crystals of the Ni-doped FeAs-based superconductor
+SrFe_(2 − x)Ni_(x)As₂ were grown using a self-flux solution method and
+characterized via x-ray measurements and low-temperature transport,
+magnetization, and specific heat studies. A doping phase diagram has
+been established where the antiferromagnetic order associated with the
+magnetostructural transition of the parent compound SrFe₂As₂ is
+gradually suppressed with increasing Ni concentration, giving way to
+bulk-phase superconductivity with a maximum transition temperature of
+9.8 K. The superconducting phase exists through a finite range of Ni
+concentrations centered at x = 0.15 with full diamagnetic screening
+observed over a narrow range of x coinciding with a sharpening of the
+superconducting transition and an absence of magnetic order. An
+enhancement of bulk superconducting transition temperatures of up to 20
+
+DOI: 10.1103/PhysRevB.79.224519 PACS number(s): 74.25.Dw, 74.25.Fy,
+74.25.Ha, 74.62.Dh
+
+## I Introduction
+
+The appearance of superconductivity in iron-based pnictide compounds has
+attracted much attention, providing both a new potential angle in
+understanding the physics of high-temperature superconductivity in other
+materials such as the copper oxides and an entire new family of
+superconducting materials of fundamental and technological interest.
+Superconductivity with _T_(c)_ = 26 K was first reported in
+LaO_(1 − x)F_(x)FeAs at ambient pressure [1] and later raised to 43 K
+under applied pressures. [2] The highest _T_(c)_ achieved so far in
+these materials is about 55 K in SmO_(1 − x)F_(x)FeAs (Ref. [3]) and
+(Ba,Sr,Ca)FeAsF (Refs. [4] and [5]). Oxygen-free FeAs-based compounds
+with the ThCr₂Si₂-type (122) structure also exhibit superconductivity
+but so far at slightly lower temperatures with a maximum value of
+_T_(c)_ = 37 K induced by chemical substitution of alkali or
+transition-metal ions, [6, 7, 8, 9] or by the application of large
+pressures. [10, 11, 12, 13] A few stoichiometric FeAs-based 122
+compounds including KFe₂As₂ and CsFe₂As₂ (Refs. [7] and [14]) show
+superconductivity below 4 K at ambient pressures. Despite the lower
+values of _T_(c)_, the 122 compounds are an important experimental
+platform for understanding Fe-based superconductivity, as it is possible
+to synthesize large, high-quality single crystals whereas it is rather
+difficult for the 1111 compounds.
+
+It is widely believed that suppression of the magnetic/structural phase
+transition in these materials, either by chemical doping or high
+pressure, is playing a key role in stabilizing superconductivity in the
+ferropnicitides. [15, 16, 17] For instance, superconductivity has been
+induced by partial substitution of Fe by other transition-metal elements
+like Co and Ni in both the 1111 (Refs. [18, 19, 20]) and 122 compounds.
+[6, 9] For the 122 phase, superconductivity with _T_(c)_ as high as 25 K
+in BaFe_(2 − x)Co_(x)As₂ (Refs. [21] and [22]) and SrFe_(2 − x)Co_(x)As₂
+(Ref. [6]) systems, and 21 K in BaFe_(2 − x)Ni_(x)As₂ (Refs. [17] and
+[23]) has also been observed. Very recently, Ru, Ir, and Pd substitution
+for Fe was also shown to induce superconductivity in polycrystalline
+SrFe₂As₂ samples. [24, 25, 26] As implied by the enhanced negative
+thermoelectric power value in the normal state, [23, 27] Co and Ni
+substitution appears to donate negative charge carriers that are thought
+to lead to superconductivity. Interestingly, in BaFe_(2 − x)Co_(x)As₂,
+[28] the maximum _T_(c)_ is found at x ≃ 0.17 whereas in
+BaFe_(2 − x)Ni_(x)As₂, the maximum _T_(c)_ occurs at approximately x =
+0.10 (Refs. [17] and [23]), suggesting that Ni substitution may indeed
+contribute twice as many d electrons to the system as Co. Regarding
+this, an important question to ask is whether an analogous situation
+exists in a system with different structural parameters such as
+SrFe₂As₂. While there have been several studies [6, 21, 28] of
+SrFe_(2 − x)Co_(x)As₂, no bulk superconductivity has been reported in
+SrFe_(2 − x)Ni_(x)As₂.
+
+To investigate the effects of Ni substitution in an as-yet unexplored
+series of the FeAs-based 122 compounds, a study of the evolution of
+superconductivity in single-crystalline SrFe_(2 − x)Ni_(x)As₂ was
+performed. Here we report superconductivity induced by Ni substitution
+in the series SrFe_(2 − x)Ni_(x)As₂ with maximum _T_(c)_ (onset) of 9.8
+K. By studying a wide range (_x_ = 0-0.30) of single-crystal samples, we
+establish a new member of the 122 series with superconductivity induced
+by transition-metal substitution for Fe. Contrary to expectations framed
+by prior studies of similar compounds, we observe a relatively low
+maximal _T_(c)_ value of  10 K in this series, centered at a Ni
+concentration approximately half that of the optimal Co concentration in
+SrFe_(2 − x)Co_(x)As₂. [21, 28] Below, we discuss the evolution of
+electrical transport, magnetic and thermodynamic quantities as a
+function of Ni concentration, studying the characteristics of the
+doping-induced superconductivity in this system. We also discuss
+similarities and differences between this new superconducting system and
+other members of the 122 family of iron-pnictide superconductors.
+
+## II Experimental
+
+Single-crystalline samples of SrFe_(2 − x)Ni_(x)As₂ were grown using the
+FeAs self-flux method. [28] The FeAs and NiAs binary precursors were
+first synthesized by solid-state reaction of Fe (5N)/Ni (5N) powder with
+As (4N) powders in a quartz tube of partial atmospheric pressure of Ar.
+The precursor materials were mixed with elemental Sr (3N5) in the ratio
+4-2x⋅2x⋅1, placed in an alumina crucible and sealed in a quartz tube
+under partial Ar pressure. The mixture was heated to 1200 ^(∘)C, slow
+cooled to a lower temperature and then quenched to room temperature.
+Figure 1(a) presents a typical as-grown single-crystal specimen of
+SrFe_(2 − x)Ni_(x)As₂ with ∼100 μm thickness and up to 1 cm width (the
+size of the crystals was typically found to be limited by the diameter
+of the crucibles).
+
+Structural properties were characterized by both powder and
+single-crystal x-ray diffraction (XRD) and Rietfeld refinement
+(shelXs-97) to 1_4_/_mmm_ structure. XRD was performed at room
+temperature using a Siemens D5000 diffractometer with Cu-Kα radiation,
+with lattice parameters refined by a least-squares fit. Chemical
+analysis was obtained via wavelength-dispersive x-ray spectroscopy (WDS)
+and energy-dispersive x-ray spectroscopy (EDS), showing proper
+stoichiometry in all specimens reported herein and no indication of
+impurity phases.
+
+Resistivity (ρ) samples were prepared using gold wire/silver paint
+contacts made at room temperature, yielding typical contact resistances
+of ∼1 Ω. Resistance measurements were performed using the standard
+four-probe ac method, with excitation currents of 1 mA at higher
+temperatures that were reduced to 0.3 mA at low temperatures to avoid
+self-heating, all driven at 17 Hz frequency. Magnetic susceptibility (χ)
+was measured using a Quantum Design superconducting quantum interference
+device (SQUID) magnetometer and specific heat was measured with a
+Quantum Design cryostat using the thermal relaxation method.
+
+## III Results and Discussion
+
+### Structural and chemical characterization
+
+Figure 2(a) presents crystallographic _a_- and _c_-axis lattice
+constants determined from refinement fits of x-ray diffraction patterns
+of powdered samples of SrFe_(2 − x)Ni_(x)As₂ as a function of Ni
+concentration x, along with the resultant tetragonal ratio _c_/_a_ shown
+in Fig. 2(b). With increasing x, the _c_-axis lattice constant decreases
+and the _a_-axis lattice constant increases while the _c_/_a_ ratio
+decreases linearly without any significant change in unit-cell volume to
+within experimental accuracy. Figure 2(c) shows the actual
+Ni-concentration determination in SrFe_(2 − x)Ni_(x)As₂ crystals
+measured by WDS analysis, using an average value determined from ten
+different spots on each specimen, plotted as a function of nominal
+concentration x. Because a linear fit (dotted line) results in a slope
+of unity to within scatter, the nominal value of x will be used
+hereafter as an adequate representation of the actual concentration.
+
+### Electrical resistivity
+
+Figure 3(a) presents the comparison of the in-plane resistivity ρ(T) of
+single crystals of SrFe_(2 − x)Ni_(x)As₂ (data are presented after
+normalizing to room temperature and offsetting for clarity). As shown,
+ρ(T) data for SrFe₂As₂ exhibit metallic behavior, decreasing with
+temperature from 300 K before exhibiting a sharp kink at T₀=198 K, where
+a structural phase transition (from tetragonal to orthorhombic upon
+cooling) is known to coincide with the onset of antiferromagnetic (AFM)
+order.[29] With increasing Ni substitution the anomaly associated with
+T₀ becomes less distinct and is defined by a smooth minimum in ρ(T),
+which shifts to lower temperature as indicated by the position of short
+arrows in Fig. 3(a),
+
+Figure 2: (Color online) (a) Variation in the _a_- and _c_-axis lattice
+constants of SrFe_(2 − x)Ni_(x)As₂ with Ni content x, as determined from
+Rietfeld refinement of x-ray powder-diffraction spectra; (b)
+corresponding change in tetragonal _c_/_a_ ratio and unit-cell volume V;
+(c) actual Ni concentration of SrFe_(2 − x)Ni_(x)As₂ single-crystal
+samples as a function of nominal concentration x, as determined by
+wavelength-dispersive x-ray spectroscopy (data points represent average
+value of ten scanned points for each concentration, the dotted line is a
+linear fit with a slope of 1).
+
+Figure 1: (Color online) Digital image of a typical as-grown single
+crystal of SrFe_(2 − x)Ni_(x)As₂ harvested from flux growth. The arrow
+shows the large platelet dimension, indicative of crystals limited by
+crucible size.
+
+finally disappearing for x > 0.15, where no minimum is evident. We
+define the value of T0 as the position of the kink in x = 0 data and the
+position of the minima in _r_(_T_) data for 0.08 <= x <= 0.15 and
+present its evolution with Ni concentration in Fig. 4.
+
+The sharp decrease in _r_(_T_) associated with T0 in the undoped
+material is observed to change character with increased Ni substitution,
+as it is shifted to lower temperatures. This switch, from a drop in
+_r_(_T_) to a rise in _r_(_T_) with decreasing T as T0 is suppressed,
+has also been observed in other doped 122 materials, [6, 17, 22, 23] and
+likely arises due to a shift in the balance between the loss of
+inelastic scattering due to the onset of magnetic order and the change
+in carrier concentration associated with the transition at T0.
+Interestingly, the substitution of Ni for Fe appears to have minimal
+effect on inelastic scattering in the paramagnetic state, as indicated
+by the identical slope and curvature of all _r_(_T_) curves above T0 in
+Fig. 3(a). This can be considered as a confirmation of the dominant role
+of phonon scattering in determining the temperature dependence of
+resistivity.
+
+For x = 0, r continues to decrease below T0 without any trace of
+superconductivity down to 1.8 K. (The appearance of strain-induced
+superconductivity with _T_c = 21 K has been previously shown to appear
+in undoped (_x_ = 0) samples of SrFe₂As₂.[30] However here we present x
+= 0 data for a sample with all traces of superconductivity removed by
+heat treatment.) This is also the case for x = 0.08, with no evidence of
+superconductivity down to 1.8 K. However, x = 0.1 begins to show traces
+of superconductivity as evidenced by a partial drop in _r_(_T_) below
+ 10 K as shown in Fig. 3(b). For x = 0.12, there is a sharp drop below
+8.4 K that does reach zero resistance at lower temperatures. This
+partial transition turns into a full transition, for x ≥ 0.14 with
+higher _T_c. In the range of samples studied, the highest _T_c is
+obtained for x = 0.18 with a  9.8 K onset and  9.6 K midpoint. For x ≥
+0.2, superconductivity becomes partial again with incomplete
+superconducting transitions shown in the x = 0.20 and x = 0.22 samples
+and the complete absence of any superconducting transition down to 1.8 K
+for x = 0.3.
+
+Figure 4 presents the phase diagram representing the variation in T0 and
+_T_c (determined as noted above and at the 50
+
+### Magnetic susceptibility
+
+Figure 5(a) presents the temperature dependence of magnetic
+susceptibility x of SrFe_(2 − x)Ni_(x)As₂ crystals, measured under
+zero-field-cooled (ZFC) conditions by applying 10 mT along the _ab_
+plane. The data are presented with a _y_-axis offset for clarity
+purposes (_x_ = 0 data have been shifted by +0.0015 cm³/mol and
+successive data sets for x > 0 have been staggered downward), however
+note that absolute values at room temperature for all Ni concentrations
+are all approximately _x_(300 K) ≃ 0.001 cm³/mol to within experimental
+error. As shown, the overall behavior of low-field susceptibility for x
+= 0 is similar to that reported previously [29] for high-field
+conditions, showing a modest temperature dependence interrupted by a
+sharp drop at T0 due to the magnetic/structural transition. The overall
+temperature dependence and magnitude of x remains more or less constant
+
+Figure 4: (Color online) Ni-substitution phase diagram of
+SrFe_(2 − x)Ni_(x)As₂ obtained from electrical resistivity data, showing
+the suppression of the magnetic/structural phase transition T0 (blue
+squares) with increasing Ni concentration, and the appearance of a
+superconducting transition (red circles) with maximum _T_c of  10 K
+centered around x = 0.15.
+
+Figure 3: (Color online) (a) Temperature dependence of in-plane
+electrical resistivity of specimens of SrFe_(2 − x)Ni_(x)As₂, normalized
+to 300 K and offset for clarity (data sets placed above x = 0.30 are
+successively offset vertically by 0.1, except for x = 0 data, which are
+offset by 1.7). The direction of the broken arrow indicates the order of
+the resistivity curves with ascending x as noted to the right. Short
+arrows indicate the position of the magnetic transition T0, defined by
+the kink in x = 0 data and the minima in _r_(_T_) data for 0.08 <= x <=
+0.15. (b) Expanded low-temperature view of resistivity normalized to 20
+K for clarity showing the evolution of superconducting transitions with
+Ni concentration.
+
+with Ni doping, indicating minimal impact of Ni substitution on the
+paramagnetic susceptibility of SrFe_(2 − x)Ni_(x)As₂. With increasing Ni
+concentration, the large steplike feature at T₀ is suppressed to lower
+temperatures and dramatically reduced in magnitude, as indicated by a
+small kink at T₀ for x =0.08 and no discernible feature for higher x.
+This behavior is comparable to the effect of Co doping in the
+BaFe_(2 − x)Co_(x)As₂ series,[22] which shows a similar trend in
+magnetization data taken at 1 T.
+
+Note that the low-field χ(T) data presented here do not show any
+significant increase at low temperatures, indicating both good sample
+quality (i.e., minimal magnetic impurity content) and no indication of
+strain-induced superconductivity.[30] A very small upturn in χ(T) does
+appear to onset at low temperatures in all Ni-doped samples. Although
+its magnitude is quite small, the systematic presence of this upturn
+along with its slight enhancement in higher Ni-doped samples (i.e.,
+x=0.22 and 0.30 data sets) suggests the presence of either a small
+magnetic impurity content or a small local-moment contribution, possibly
+due to the presence of Ni. Because a Curie-type tail was reported in
+SrFe₂As₂ samples even at high (5 T) fields, albeit with a much more
+pronounced increase at low temperatures,[29] impurity contributions are
+less likely. In any case, more work is required to discern the origin of
+this feature.
+
+Shown in Fig. 5(b) are the low-temperature susceptibility data for
+SrFe_(2 − x)Ni_(x)As₂ samples measured with a smaller applied field of 1
+mT along the ab plane under both ZFC and field-cooled (FC) conditions,
+plotted as the volume susceptibility 4 πχ to compare the level of
+diamagnetic screening due to superconductivity. As shown, the
+superconducting volume fraction, as estimated by the fraction of full
+diamagnetic screening (4 πχ=−1), varies with Ni concentration, being
+absent for x< 0.12, partial for x= 0.12, 0.14, and 0.20, and complete
+for x=0.15, 16, and 0.18. This suggests that there is indeed a full
+superconducting volume fraction observed for a range of Ni
+concentrations with maximized T_(c) values but also that partial-volume
+fractions are evident at the fringes of the superconducting dome. For
+instance, note that a drop in χ(T) is visible below 7 K in the x=0.08
+data shown in Fig. 5(a) but also that the volume fraction associated
+with this diamagnetic screening is very small, being less than ∼1
+
+### Specific heat
+
+To verify the bulk thermodynamic nature of the superconducting
+transition in SrFe_(2 − x)Ni_(x)As₂, we performed specific heat
+measurements on an annealed sample with optimal Ni concentration of
+x=0.15. The electronic specific heat C_(e) was determined by subtracting
+the phonon contribution from the total specific heat at zero magnetic
+field. Fitting of the x =0.15 data to the standard form C_(e)= γT+ βT³
+for the total specific heat through the range 75 ≤ T²≤ 290 K² yields an
+electronic contribution γ=32 mJ/mol K² and a phononic contribution
+β=0.76 mJ/mol K⁴, the latter value corresponding to a Debye temperature
+of Θ_(D)=234 K. For x= 0 (not shown), C_(e)/T is almost independent of T
+at low temperatures down to 2 K to within the experimental accuracy,
+exhibiting comparable fit parameters to those above and thus verifying
+that no significant change in the phonon spectrum is imparted by Ni
+substitution.
+
+Figure 6 presents the low-temperature portion of C_(e)/T for x=0.15,
+highlighting the onset of a weak anomaly below 8.5 K that is consistent
+with the value of T_(c) deduced from χ(T) measurements. Although the
+peak in C_(e)/T is too poorly defined to fit with an equal entropy
+construction, a rough quantitative characterization provides an
+estimated value of ΔC/γT_(c) = 0.12. This is much smaller than the BCS
+expectation of 1.52 for a superconducting transition but is not
+surprising considering the similar trend found in the literature.
+Although a sizeable specific heat anomaly has been observed at the
+superconducting transition of some Fe-based superconductors, including
+values near the BCS expectation in both Ba_(0.6)K_(0.4)Fe₂As₂ (Ref.
+[31]) and LaFePO (Ref. [32]), it is intriguing that many members of the
+FeAs-based family–including both Co-doped BaFe₂As₂ (Ref. [21]) and
+CaFe₂As₂ (Ref. [33]), and F-doped LaFeAsO (Ref. [34]) and SmFeAsO (Ref.
+[35])–exhibit rather weak signatures of superconductivity in specific
+heat measurements, despite indications of bulk diamagnetic screening
+from magnetization measurements.
+
+Figure 5: (Color online) Temperature dependence of magnetic
+susceptibility χ of SrFe_(2 − x)Ni_(x)As₂, measured with 10 mT field
+applied parallel to the crystallographic basal plane from ZFC
+conditions, offset for clarity (x=0 data are vertically offset by
++0.0015 cm³/mol with other sets offset successively downward by
+∼0.0002). (b) Low-temperature zoom of the volume magnetic susceptibility
+in SrFe_(2 − x)Ni_(x)As₂ crystals under 1 mT ZFC and FC conditions after
+a 24 h/700 ^(∘)C annealing treatment (see text for details).
+
+Likewise, the anomaly in the specific heat of the x = 0.15 sample of
+SrFe_(2 − x)Ni_(x)As₂ shown in Fig. 6 is surprisingly small. The small
+peak observed in several of these materials would normally seem to
+reflect a need to improve sample quality via improved growth techniques
+or annealing treatment, as was indeed shown for the case of LaFePO.[32]
+However, measurements of C_(c)/T in an as-grown unannealed x = 0.15
+sample of SrFe_(2 − x)Ni_(x)As₂ (not shown) also present a weak feature
+at T_(c) quantitatively comparable in magnitude to that discussed above
+for the annealed sample. In light of the enhancement of T_(c) invoked by
+annealing discussed below, this suggests that, at least for the case of
+SrFe_(2 − x)Ni_(x)As₂, improvements in the superconducting properties do
+not lead to enhanced values of ΔC/γT_(c) as would be expected for
+improved sample quality. More important, the small values of ΔC/γT_(c)
+observed in many FeAs-based materials are difficult to reconcile with
+consistent observations of bulk diamagnetic screening, including those
+for many SrFe_(2 − x)Ni_(x)As₂ samples in this study of widely varying
+size and shape. Overall, this suggests that a lack of sample quality may
+not always be responsible for poor thermodynamic signatures of
+superconductivity in these materials and that alternative explanations
+should not yet be ruled out. For instance, the small size of ΔC/γT_(c)
+in SrFe_(2 − x)Ni_(x)As₂ and the large residual density of states may
+imply that superconductivity gaps only a small part of the Fermi
+surface.
+
+### Doping evolution
+
+It is instructive to compare the evolution of the superconducting state
+parameters in more detail as a function of Ni concentration. In Fig. 7,
+we compare measures of the width of the superconducting transition
+ΔT_(c) as defined by the difference of T_(c) at 90
+
+The evolution of ρ₀ with Ni doping is plotted in Fig. 7(a), including
+both the absolute value of ρ₀ (left y axis) and that normalized by
+ρ(300  K) (right y axis) to remove uncertainty in geometric factors. As
+a function of x, both absolute and normalized values of ρ₀(x) follow a
+similar pattern, suggesting that geometric factor errors are not large.
+As shown in Fig. 7(a), an increase in resistivity occurs with increasing
+Ni concentration between x = 0 and 0.08 before showing an approximate
+plateau up to x = 0.12, reflecting the change in transport scattering
+associated with magnetic order at low concentrations. Above x = 0.12, ρ₀
+shows a rapid decrease with increasing x before again leveling off at
+higher Ni concentration, coincident with the complete suppression of
+magnetic order near x = 0.15 and the onset of superconductivity. This
+trend follows what can be inferred from the ρ(T) data found in Fig.
+3(a), with an enhancement of ρ₀ found only in the regime (0 < x < 0.12),
+where inelastic scattering is greatly enhanced by the presence of
+magnetic order, resulting in an increase in ρ(T) below T₀.
+
+Figure 6: (Color online) Temperature dependence of the electronic
+specific heat C_(c) in SrFe_(1.85)Ni_(0.15)As₂ obtained by standard
+fitting and subtraction of a phonon contribution to the total specific
+heat (see text). Data show a small but distinct transition consistent
+with superconductivity below T_(c)=8.5 K determined from
+magnetic-susceptibility measurements.
+
+Figure 7: (Color online) Evolution of normal and superconducting state
+parameters in SrFe_(2 − x)Ni_(x)As₂ with Ni concentration _x_: (a)
+absolute (circles—left scale) and normalized (triangles—right scale)
+residual resistivity; (b) variation in the width in temperature of the
+resistive superconducting transition ΔT_(c); (c) superconducting volume
+fraction determined from the magnetic susceptibility data; (d) expanded
+view of the superconducting phase determined by transition temperatures
+defined by 50
+
+Interestingly, aside from this enhancement, the impurity scattering
+level [as measured by the value of ρ₀(x)] does not show any significant
+change with Ni concentration, with values of ρ₀ in high Ni-content
+samples approaching that of ρ(x=0. In a minimal model where residual
+resistivity is dominated by impurity/disorder scattering, this trend
+would suggest that Ni substitution for Fe introduces minimal disorder
+into the system, even up to x=0.30 levels. However, it is likely that a
+more unconventional mechanism (such as magnetic fluctuation scattering)
+may dominate the value of ρ₀ in this system, thereby masking the
+underlying (small) increase in residual scattering due to Fe site
+disorder.
+
+A detailed plot of T_(c) vs x is presented in Fig. 7(d), showing good
+agreement between T_(c) values determined by transitions in ρ(T) and
+χ(T). As is evident from the comparison of ρ₀(x) to T_(c)(x) in Fig. 7,
+the rather abrupt decrease in residual scattering occurs very close to
+the appearance of bulk superconductivity in SrFe_(2 − x)Ni_(x)As₂. The
+Ni concentration of x=0.14 is where ρ₀ drops to its low value and a
+sizeable volume fraction of superconductivity first appears, as shown in
+Fig. 7(b). Both the width ΔT_(c) of the transition and the
+superconducting volume fraction change dramatically in this
+concentration range. As shown, there is an interesting inverse
+correlation between ΔT_(c) and this volume fraction within the range of
+superconducting samples, illustrating that the sharpest superconducting
+transitions are associated with bulk superconductivity while the broader
+transitions are associated with only partial-volume superconductivity.
+
+With the current set of measurements, it is hard to distinguish whether
+there is an inhomogeneous distribution of Ni content in the samples
+close to this boundary causing the partial superconducting transitions
+or whether the narrow range of bulk superconductivity is truly an
+intrinsic property. However, several factors suggest that inhomogeneity
+in Ni concentration should not be significant. First, x-ray diffraction
+and chemical analysis data presented in Fig. 2 suggest that Ni
+substitution is occurring smoothly and continuously in this series with
+no observable deviations at the edges of the superconducting dome.
+Second, both resistivity and susceptibility data presented above also
+progress smoothly as a function of x, again indicating no major levels
+of phase separation. Finally, note that all SrFe_(2 − x)Ni_(x)As₂
+crystalline samples used in this study have been annealed at high
+temperatures to further reduce smaller inhomogeneity levels, as
+discussed below.
+
+### Annealing effect on superconductivity
+
+One method of investigating the effect of crystalline quality is by
+high-temperature heat treatment. Interestingly, we found that annealing
+single crystals of SrFe_(2 − x)Ni_(x)As₂ in such a way produces a rather
+dramatic enhancement in the value of T_(c). Specifically, holding
+samples at 700 ^(∘)C for 24 h in an Ar atmosphere was found to increase
+T_(c) by up to ∼1 K. As shown in Fig. 8, the effect of annealing on the
+superconducting transition in SrFe_(1.85)Ni_(0.15)As₂ crystals is
+evident in both ρ(T) and χ(T), indicating that this enhancement is
+reflected in the full diamagnetic screening and is therefore a bulk
+phenomenon. Such an enhancement of T_(c) could be an indication of
+improved crystallinity due to release of residual strain and/or improved
+microscopic chemical homogeneity of Ni content inside the specimens,
+thereby optimizing the stability of superconductivity. A similar
+annealing effect was reported in LnFeOP (Ln=La, Pr, and Nd) single
+crystals, where a heat treatment in flowing oxygen was also found to
+improve superconducting properties.[32]
+
+It is further noteworthy to report that as-grown crystals of
+SrFe_(2 − x)Ni_(x)As₂ for x< 0.16 show what looks to be a partial
+superconducting transition near 20 K that is completely removed by heat
+treatment, as demonstrated in Fig. 8(a) for x=0.15. Although it is
+tempting to posit that 20 K is a possible value for optimal T_(c) in
+this series of Ni-substituted compounds, note that aside from the
+enhancement of T_(c) as mentioned above, the removal of this feature is
+the only change observed in measured quantities imposed by annealing:
+neither the resistivity nor the magnetic susceptibility in the normal
+state show any change after annealing. Furthermore, susceptibility does
+not show any indication of diamagnetic screening above bulk T_(c) values
+in the as-grown samples. Because the 20 K kink is removed with heat
+treatment, and moreover, is always found to be positioned near the same
+temperature, we believe this feature may be connected to the
+strain-induced superconductivity found in undoped SrFe₂As₂.[30] However,
+note that whereas only a mild 5 min heat treatment of 300 ^(∘)C removes
+the partial-volume superconductivity in SrFe₂As₂, a substantially
+higher-temperature 700 ^(∘)C treatment is required to remove this
+feature in SrFe_(2 − x)Ni_(x)As₂. If the two phenomena are related, it
+is possible that internal strain is stabilized by the chemical
+inhomogeneity associated with transition-metal substitution in
+
+Figure 8: (Color online) Effect of high-temperature annealing on an
+optimally doped x=0.15 sample of SrFe_(2 − x)Ni_(x)As₂, demonstrating
+typical results from before and after a 24 h, 700 ^(∘)C heat treatment
+performed on a sample sealed in a quartz tube with a pure argon
+environment. (a) Resistivity data of a x=0.15 sample measured before
+(blue circles) and after (red triangles) heat treatment. (b) Volume
+magnetic susceptibility of x=0.15 sample at low fields measured before
+(blue circles) and after (red triangles) annealing. Arrows emphasize
+enhancement of T_(c) by annealing, with good agreement in T_(c) values
+for both cases.
+
+SrFe_(2 − x)Ni_(x)As₂ thus requiring higher temperatures to be removed.
+More systematic studies of the effect of annealing on
+SrFe_(2 − x)Ni_(x)As₂ are under way to investigate this relationship.
+
+### Comparison to other FeAs-based systems
+
+Superconductivity appears in SrFe_(2 − x)Ni_(x)As₂ through the range x =
+0.1−0.22, tracing out a domelike T_(c) curve qualitatively similar to
+other transition-metal-substituted FeAs-based superconducting systems.
+Naively, in a rigid-band model it would be expected that each Ni²⁺
+dopant introduces two extra itinerant 3d electrons while each Co²⁺
+dopant adds only one. In SrFe_(2 − x)Ni_(x)As₂, the superconducting
+phase is centered about an "optimal" Ni concentration of x ≈ 0.15 that
+corresponds to 7.5
+
+Interestingly, the _onset_ of superconductivity in Co- and Ni-doped
+SrFe₂As₂ appears to occur near the same substitution concentration of x
+= 0.1 but with T_(c) much suppressed in the SrFe_(2 − x)Ni_(x)As₂ system
+relative to that of SrFe_(2 − x)Co_(x)As₂. This trend also appears to
+hold to some degree in the doped BaFe₂As₂ system, where the onset
+concentration for BaFe_(2 − x)Ni_(x)As₂ is approximately the same as
+that of BaFe_(2 − x)Co_(x)As₂ while its maximum T_(c) value is somewhat
+reduced.[17] However the comparison between Ba- and Sr-based 122
+materials may not be so straightforward owing to the different alkali
+earth ions involved. Instead, it is simpler to directly compare the
+effect of substituting different 3d and 4d metal substitutions in the
+same Sr-based parent material SrFe₂As₂. Shown in Fig. 9 is a comparison
+of the evolution of the superconducting phase in SrFe_(2 − x)Ni_(x)As₂
+as compared to that of three other characteristic substitution series:
+Co doping,[6] Rh doping,[36] and Pd doping,[26] providing a complete
+comparison of the effects of d-electron doping with 3d vs 4d electrons.
+Notably, the trend noted above is strikingly similar in the Rh/Pd
+comparison, which also point to the same onset concentration of x = 0.1
+and a maximum T_(c) in the Pd-doped system that is also greatly reduced
+as compared to the Rh-doped system, reaching only ∼9 K (Ref. [26]) as
+compared to ∼22 K (Ref. [36]).
+
+The comparable trends in these two sets of systems raise questions as to
+the nature of (1) the similar onset concentration in all compounds and
+(2) the inhibited T_(c) values in the two-electron-doped systems (i.e.,
+Ni and Pd) as compared to the one-electron-doped systems (i.e., Co and
+Rh). One possible explanation lies in the differences in structural
+parameters as a function of doping. In SrFe_(2 − x)Ni_(x)As₂, the
+lattice constants increase along a axis and decrease along the c axis as
+a function of x, similar to the behavior for substituting Co, Pd, and Ru
+in SrFe₂As₂.[6, 36, 26] Also, the variation in c/a ratio with x in
+SrFe_(2 − x)Ni_(x)As₂ is close to that in SrFe_(2 − x)Co_(x)As₂,[6]
+although the maximum value of T_(c) is higher in the latter. On the
+other hand, the variation in c/a ratio with x in SrFe_(2 − x)Ni_(x)As₂
+is different from that found in SrFe_(2 − x)Pd_(x)As₂,[26] while the
+maximum value of T_(c) is similar in these nominally isoelectronic
+systems. In other words, there is no obvious correlation between T_(c)
+and c/a ratio, at least in the SrFe₂As₂ derived superconductors, that
+could explain these phenomena. However, note that the shape of the
+distorted tetrahedral environment of Fe, likely an important structural
+parameter, may not have such a simple correlation with lattice
+parameters and may depend on how the As z coordinate changes with
+doping.
+
+It is also important to consider the role of magnetism in stabilizing
+superconductivity in the FeAs-based materials. The related and widely
+perceived picture is that doping electrons or holes into the parent
+phase gradually suppresses magnetic order with pairing arising through
+the interpocket scattering of electrons via exchange of AF spin
+fluctuations.[37, 38, 39, 40] Alternatively, magnetic order and
+superconductivity may compete to gap similar parts of the Fermi surface
+with superconductivity only appearing when magnetic order is suppressed.
+Either way, there is no doubt that superconductivity is strongly
+coupled, directly or indirectly, to the suppression of magnetic order in
+the FeAs-based 122 systems. As presented previously in Fig. 4,
+superconductivity in SrFe_(2 − x)Ni_(x)As₂ indeed appears through a
+range of Ni concentrations close to where magnetism is suppressed,
+similar to several other systems.[6, 9, 17, 21, 22, 24, 25, 26] In
+SrFe_(2 − x)Ni_(x)As₂, the critical concentration appears to sit close
+to the optimal-doping concentration of x ≈ 0.15; it is of obvious
+interest to
+
+Figure 9: (Color online) Comparison of the evolution of
+superconductivity as a function of Ni substitution in
+SrFe_(2 − x)Ni_(x)As₂ as compared to that previously observed in other
+transition-metal substitution series, with M=Co, Rh, and Pd (Refs. [36],
+and [26], respectively). Solid symbols denote T_(c) values for
+3d-electron substituents Co (blue square) and Ni (red circle), and open
+symbols denote those of 4d substituents Rh (blue square) and Pd (red
+circle).
+
+determine this value to a more precise degree, along with that for the
+other transition-metal-substituted series as discussed above. This will
+require better methods of determining the magnetic transition
+temperature $T_{\rm o}$, as is possible via neutron scattering
+experiments.
+
+Interestingly, recent evidence of coexistent magnetic and
+superconducting phases on the "underdoped" side of the T_(c) dome in
+BaFe_(2 − x)Co_(x)As₂ point to a competitive coexistence of these
+phases. [41] The onset of T_(c) in SrFe_(2 − x)Ni_(x)As₂ appears to be
+rather abrupt, at least more so than the smooth onset observed in
+BaFe_(2 − x)Co_(x)As₂. [21, 22] This may be due to a number of factors
+or differences between these systems, however it is tempting to posit
+that superconductivity and magnetism are more antagonistic in this
+system than in its Co-doped counterpart. In any case, it will be
+important to compare and contrast the detailed nature of these phase
+diagrams in order to gain a better understanding of nature of the
+interplay of magnetism and superconductivity.
+
+Finally, it is interesting to note that superconductivity appears to
+occur over much narrower doping ranges in both Ni- and Pd-substituted
+122 systems with lower maximum T_(c) values in Ni (Pd)-substituted
+materials as compared to Co (Rh) substitution. Together, these contrasts
+may indicate that the doping ranges that induce superconductivity may
+not only be simply shifted by effective d-electron doping level but may
+also involve an inherent suppression of T_(c) that increases with
+deviations from the presumably ideal Fe d-shell configuration, possibly
+due to details of a chemical nature. Such a picture is indeed consistent
+with the recent study of Cu doping in BaFe₂As₂, [17] where Cu is assumed
+to supply three additional d electrons and thereby deviate strongly from
+the Fe d-shell configuration. Conversely, studies of Ru-doped SrFe₂As₂,
+[24] involving nominally isovalent Fe substitution, support the scenario
+where superconductivity is most favored by transition-metal
+substitutions that minimally disrupt the Fe electronic environment. Of
+course, one must note that superconductivity is also known to be present
+in the fully Ni-substituted end-member SrNi_(x)As₂ (a low-temperature
+superconductor with T_(c)=0.7 K), [42] although its relationship to the
+superconductivity in SrFe_(2 − x)Ni_(x)As₂ is unclear. In any case, this
+puzzling point certainly warrants further investigation, for instance
+via careful inspections of the phase diagrams arising in single crystals
+using other transition-metal substituents, and the role of crystalline
+quality and disorder in suppressing superconductivity.
+
+## IV IV. Summary
+
+In summary, single crystals of the Ni-substituted series
+SrFe_(2 − x)Ni_(x)As₂ were successfully synthesized, allowing a
+determination of the phase diagram across which magneto-structural order
+is suppressed and superconductivity arises over a finite window. Upon
+suppression of magnetism, a phase of bulk superconductivity centered
+near an optimal concentration of x≈ 0.15 is established with T_(c)
+values reaching as high as ∼9.8 K. Interestingly, annealing treatments
+of as-grown crystals result in a significant enhancement of up to 20
+
+###### Acknowledgements.
+
+The authors acknowledge P. Y. Zavalij and B. W. Eichhorn for
+experimental assistance and P. Bach, K. Jin, X. Zhang, and R. L. Greene
+for useful discussions. N.P.B. acknowledges support from CNAM.
+
+## References
+
+* (1) Y. Kamihara, T. Watanabe, M. Hirano, and H. Hosono, J. Am. Chem.
+Soc. **130**, 3296 (2008). * (2) H. Takahashi, K. Igawa, K. Arii, Y.
+Kamihara, M. Hirano, and H. Hosono, Nature (London) **453**, 376
+(2008). * (3) Z.-A. Ren, W. Lu, J. Yang, W. Yi, X.-L. Shen, Zheng-Cai,
+G.-C. Che, X.-L. Dong, L.-L. Sun, F. Zhou, and Z.-X. Zhao, Chin. Phys.
+Lett. **25**, 2215 (2008). * (4) X. Zhu, F. Han, P. Cheng, G. Mu, B.
+Shen, and H. H. Wen, Europhys. Lett. **85**, 17011 (2009). * (5) P.
+Cheng, B. Shen, G. Mu, X. Zhu, F. Han, B. Zeng, and H. H. Wen, Europhys.
+Lett. **85**, 67003 (2009). * (6) A. Leithe-Jasper, W. Schnelle, C.
+Geibel, and H. Rosner, Phys. Rev. Lett. **101**, 207004 (2008). * (7) K.
+Sasmal, B. Lv, B. Lorenz, A. M. Guloy, F. Chen, Y.-Y. Xue, and C.-W.
+Chu, Phys. Rev. Lett. **101**, 107007 (2008). * (8) M. Rotter, M. Tegel,
+and D. Johrendt, Phys. Rev. Lett. **101**, 107006 (2008). * (9) A. S.
+Sefat, R. Jin, M. A. McGuire, B. C. Sales, D. J. Singh, and D. Mandrus,
+Phys. Rev. Lett. **101**, 117004 (2008). * (10) M. S. Torikachvili S. L.
+Bud’ko N. Ni, and P. C. Canfield, Phys. Rev. Lett. **101**, 057006
+(2008). * (11) T. Park, E. Park, H. Lee, T. Klimczuk, E. D. Bauer, F.
+Ronning, and J. D. Thompson, J. Phys.: Condens. Matt. **20**, 322204
+(2008). * (12) P. L. Alireza, Y. T. Chris-Ko, J. Gillett, C. M. Petrone,
+J. M. Cole, G. G. Lonzarich, and S. E. Sebastian, J. Phys.: Condens.
+Matt. **21**, 012208 (2009). * (13) M. Kumar, M. Nicklas, A. Jesche, N.
+Caroca-Canales, M. Schmitt, M. Hanfland, D. Kasinathan, U. Schwarz, H.
+Rosner, and C. Geibel, Phys. Rev. B **78**, 184516 (2008). * (14) M.
+Rotter, M. Pangerl, M. Tegel, and D. Johrendt, Angew. Chem. **47**, 7949
+(2008). * (15) C.-H. Lee, A. Iyo, H. Eisaki, H. Kito, M. T.
+Fernandez-Diaz, T. Ito, K. Kihou, H. Matsuhata, M. Braden, and K.
+Yamada, J. Phys. Soc. Jpn. **77**, 083704 (2008). * (16) A. Kreyssig, M.
+A. Green, Y. Lee, G. D. Samolyuk, P. Zajdel, J. W. Lynn, S. L. Bud’ko,
+M. S. Torikachvili, N. Ni, S. Nandi, J.
+
+B. Leao, S. J. Poulton, D. N. Argyriou, B. N. Harmon, R. J. McQueeney,
+P. C. Canfield, and A. I. Goldman, Phys. Rev. B **78**, 184517 (2008). *
+[17] P. C. Canfield, S. L. Bud’ko, N. Ni, J. Q. Yan, A. Kracher,
+arXiv:0904.3134 (unpublished). * [18] A. S. Sefat, A. Huq, M. A.
+McGuire, R. Jin, B. C. Sales, D. Mandrus, L. M. D. Cranswick, P. W.
+Stephens, and K. H. Stone, Phys. Rev. B **78**, 104505 (2008). * [19] C.
+Wang, Y. K. Li, Z. W. Zhu, S. Jiang, X. Lin, Y. K. Luo, S. Chi, L. J.
+Li, Z. Ren, M. He, H. Chen, Y. T. Wang, Q. Tao, G. H. Cao, and Z. A. Xu,
+Phys. Rev. B **79**, 054521 (2009). * [20] G. Cao, S. Jiang, X. Lin, C.
+Wang, Y. Li, Q. Tao, Z. A. Xu, and F.-C. Zhang, Phys. Rev. B **79**,
+174505 (2009). * [21] J.-H. Chu, J. G. Analytis, C. Kucharczyk, and I.
+R. Fisher, Phys. Rev. B **79**, 014506 (2009). * [22] N. Ni, M. E.
+Tillman, J.-Q. Yan, A. Kracher, S. T. Hannahs, S. L. Bud’ko, and P. C.
+Canfield, Phys. Rev. B **78**, 214515 (2008). * [23] L. J. Li, Q. B.
+Wang, Y. K. Luo, H. Chen, Q. Tao, Y. K. Li, X. Lin, M. He, Z. W. Zhu, G.
+H. Cao, and Z. A. Xu, New J. Phys. **11**, 025008 (2009). * [24] W.
+Schnelle, A. Leithe-Jasper, R. Gumeniuk, U. Burkhardt, D. Kasinathan,
+and H. Rosner, arXiv:0903.4668, Phys. Rev. B (to be published). * [25]
+F. Han, X. Zhu, Y. Jia, L. Fang, P. Cheng, H. Luo, B. Shen, and H. H.
+Wen, arXiv:0902.3957 (unpublished). * [26] X. Zhu, F. Han, P. Cheng, B.
+Shen, and H.-H. Wen, arXiv:0903.0323 (unpublished). * [27] G. Wu, R. H.
+Liu, H. Chen, Y. J. Yan, T. Wu, Y. L. Xie, J. J. Ying, X. F. Wang, D. F.
+Fang, and X. H. Chen, Europhys. Lett. **84**, 27010 (2008). * [28] X. F.
+Wang, T. Wu, G. Wu, H. Chen, Y. L. Xie, J. J. Ying, Y. J. Yan, R. H.
+Liu, and X. H. Chen, Phys. Rev. Lett. **102**, 117005 (2009). * [29]
+J.-Q. Yan, A. Kreyssig, S. Nandi, N. Ni, S. L. Bud’ko, A. Kracher, R. J.
+McQueeney, R. W. McCallum, T. A. Lograsso, A. I. Goldman, and P. C.
+Canfield, Phys. Rev. B **78**, 024516 (2008). * [30] S. R. Saha, N. P.
+Butch, K. Kirshenbaum, and J. Paglione, arXiv:0811.3940 (unpublished). *
+[31] G. Mu, H. Luo, Z. Wang, L. Shan, C. Ren, and H.-H. Wen, Phys. Rev.
+B **79**, 174501 (2009). * [32] R. E. Baumbach, J. J. Hamlin, L. Shu, D.
+A. Zocco, N. M. Crisosto, and M. B. Maple, New J. Phys. **11**, 025018
+(2009). * [33] N. Kumar, R. Nagalakshmi, R. Kulkarni, P. L. Paulose, A.
+K. Nigam, S. K. Dhar, and A. Thamizhavel, Phys. Rev. B **79**, 012504
+(2009). * [34] G. Mu, X. Zhu, L. Fang, L. Shan, C. Ren, and H. Wen,
+Chin. Phys. Lett. **25**, 2221 (2008). * [35] L. Ding, C. He, J. K.
+Dong, T. Wu, R. H. Liu, X. H. Chen, and S. Y. Li, Phys. Rev. B **77**,
+180510(R) (2008). * [36] F. Han, X. Zhu, P. Cheng, B. Shen, and H. H.
+Wen, arXiv:0903.1028 (unpublished). * [37] I. I. Mazin, D. J. Singh, M.
+D. Johannes, and M. H. Du, Phys. Rev. Lett. **101**, 057003 (2008). *
+[38] K. Kuroki, S. Onari, R. Arita, H. Usui, Y. Tanaka, H. Kontani, and
+H. Aoki, Phys. Rev. Lett. **101**, 087004 (2008). * [39] F. Wang, H.
+Zhai, Y. Ran, A. Vishwanath, and D. H. Lee, Phys. Rev. Lett. **102**,
+047005 (2009). * [40] Q. Han, Y. Chen, and Z. D. Wang, EPL **82**, 37007
+(2008). * [41] D. K. Pratt, W. Tian, A. Kreyssig, J. L. Zarestky, S.
+Nandi, N. Ni, S. L. Bud’ko, P. C. Canfield, A. I. Goldman, and R. J.
+McQueeney, arXiv:0903.2833 (unpublished). * [42] E. D. Bauer, F.
+Ronning, B. L. Scott, and J. D. Thompson, Phys. Rev. B **78**, 172504
+(2008).

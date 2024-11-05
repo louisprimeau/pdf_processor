@@ -1,0 +1,625 @@
+Frequency dependence of the surface impedance of YBa_{2}Cu_{3}O_{7-\delta} thin films in a dc magnetic field: Investigation of vortex dynamics
+
+Sylvie Revenaz
+
+# Abstract
+
+Lincoln Laboratory, Massachusetts Institute of Technology, Lexington, Massachusetts 02173-9108; Department of Physics, Massachusetts Institute of Technology, Cambridge Massachusetts 02139-4307; and Rome Laboratory, Hanscom Air Force Base, Massachusetts 01731-3010
+
+D. E. Oates
+
+Lincoln Laboratory, Massachusetts Institute of Technology, Lexington, Massachusetts 02173-9108
+
+D. Labbe-Lavigne
+
+199 Hamilton Street, Cambridge, Massachusetts 02139
+
+G. Dresselhaus
+
+Francis Bitter National Magnet Laboratory, Massachusetts Institute of Technology, Cambridge, Massachusetts 02139-4307
+
+and Rome Laboratory, Hanscom Air Force Base, Massachusetts 01731-3010
+
+M. S. Dresselhaus
+
+Department of Electrical Engineering and Computer Science and Department of Physics, Massachusetts Institute of Technology, Cambridge, Massachusetts 02139-4307
+
+17 January 1994
+
+###### Abstract
+
+We report measurements of the surface impedance Z_{s}=R_{s}+i\omega\lambda^{\prime} of YBa_{2}Cu_{3}O_{7-\delta} thin films in an externally applied dc magnetic field B (parallel to the c axis) using a stripline resonator. At T=4.3 K we obtain the surface resistance R_{s} and the microwave penetration depth \lambda^{\prime} as a function of applied dc field up to 5 T and as a function of microwave frequency f from 1.2 to 20 GHz. While \lambda^{\prime} increases linearly with B for B>1 T at all frequencies, R_{s} is found to be roughly \propto B^{\alpha(f)}, where \alpha(f)<1 for f\leq 10 GHz and \alpha(f)\approx 1 for f\geq 10 GHz. In zero dc field, R_{s}\propto f^{2}. For B>1 T, R_{s} shows a much weaker dependence on f. The results for Z_{s}(f,T,B) have been quantitatively explained using a model developed by Coffey and Clem, based on a self-consistent treatment of vortex dynamics that includes the influence of vortex pinning, viscous drag, and flux creep. The pinning force constant \alpha_{p}, the pinning frequency \omega_{p}, and the pinning activation energy U_{0}(T,B) are obtained through the fitting procedure. We find that the effects of thermally activated flux creep at 4.3 K upon the surface resistance are significant. The low U_{0}\approx 35 K that we determine is interpreted as arising from the interaction of the vortex lattice with a dense random pinning potential as described in the collective-pinning theory.
+
+## I Introduction
+
+Measurements of the vortex lattice response to ac fields are widely used to investigate the vortex dynamics in type II superconductors. Experiments such as ac magnetic permeability,[1] surface impedance,[2, 3] vibrating-reed mechanical resonator,[4, 5] and torsional oscillator[6] have the common feature that a small ac field interacts with the vortices that have penetrated the sample. The ac field generates surface shielding currents. The resulting Lorentz force on vortices near the surface generates an oscillation of these vortices that propagates toward the interior of the superconductor. This propagation is made possible through vortex interactions and is slowed down by pinning or by friction. Hence vortex motion strongly affects the shielding properties of a type II superconductor in the mixed state and influences both the real and imaginary parts of either the magnetic permeability or the surface impedance.
+
+In this paper we present measurements of the surface impedance Z_{s}=R_{s}+iX_{s} of YBa_{2}Cu_{3}O_{7-\delta} (YBCO) thin films in applied dc magnetic fields (0<B<5 T). The Z_{s} contains information about power absorption (R_{s}) and shielding processes (X_{s}). We used a stripline-resonator technique, which makes it possible to make measurements as a function of frequency with a single device. Temperature, applied dc field, and rf current can also be varied. In earlier experiments based on R_{s} measurements in PbIn thin films, Gittleman and Rosenblum[7] showed a crossover in the vortex dynamics from a pinning-dominated regime at low frequency to a flux-flow regime at high frequency. This crossover frequency has been called the pinning frequency \omega_{p}.
+
+A unified theory of the effects of vortex pinning and flux creep upon Z_{s} of type II superconductors has recently been published by Coffey and Clem[8, 9, 10] which addresses the microscopic mechanisms responsible for the frequency dependence of Z_{s} of type II superconductors.
+
+  We use the Coffey-Clem model to explain quantitatively our experimental results. Important parameters of the model such as the pinning force constant (Labusch parameter) \alpha_{p}, the pinning frequency \omega_{p}, and the pinning activation energy U_{0} have been determined for the YBCO thin films we measured. In the Coffey-Clem model, U_{0} is assumed to be independent of the current density. We find that flux creep strongly influences the microwave surface resistance at 4.3 K. In our analysis we incorporated microscopic aspects of collective-pinning theory into the Coffey-Clem model. This extension allows us to explain the origin of the observed low-temperature flux creep in our microwave experiment.
+
+The microwave properties of YBCO thin films in externally applied magnetic fields are also of practical interest. Any practical device is likely to encounter either dc or very low frequency magnetic fields. It is important to know exactly what magnitude of field will cause degradation of the surface resistance or shifts in the resonance frequency for the case of resonator-based devices. There are also reports of devices such as microwave frequency circulators [11] that operate by design in an applied magnetic field. Flux-flow transistors [12] have shown great promise as three-terminal devices with power gain, operating at microwave frequencies. Such devices utilize flux flow for their operation. Clearly the understanding of flux dynamics is necessary for several practical applications.
+
+## II Stripline resonator and Z measurement
+
+The measurements of Z_{s} were made using the two-port stripline resonator structure described previously [13, 14] and shown in Fig. 1. The resonator consists of a strip line transmission line, patterned by photolithography, one-half wavelength long at the fundamental frequency f_{0}, with f_{0}=1.24 GHz and 1.46 GHz for the two resonators used. Overtone resonances occur at all multiples of the fundamental frequency. Thus, measurements at the overtone resonances give the frequency dependence of Z_{s}.
+
+The quality factor Q and the resonance frequency of all the overtone modes of the resonator were measured in transmission. The resonator is capacitively and weakly coupled to both input and output circuits. The weak coupling assures that the unloaded quality factor Q_{u} is approximately equal to the loaded quality factor Q_{L}. In the stripline geometry, because the rf field penetrates the substrates, one must have low dielectric losses in the substrates to achieve high Q. The unloaded Q is given by
+
+\[1/Q_{u}=1/Q_{c}+\tan\delta=af^{\beta}+\tan\delta,\] (1)
+
+where Q_{c} is the Q of the superconductor and tan \delta is the loss tangent of the dielectric substrate. We and others [13, 14] have found that Q_{c} is proportional to f^{-1} at zero applied field, which implies that the surface resistance is proportional to f^{2}. However, \beta\neq 1 in an applied field B>\mu_{0}H_{c1}, where H_{c1} is the field at which flux penetrates the sample. We assume that tan \delta is independent of frequency and magnetic field in the frequency range 1-20 GHz. By plotting Q_{u} versus f we determine tan \delta\approx 5\times 10^{-6} at 4.3 K in the LaAlO_{3} substrates that we used and verify that substrate losses are not limiting the measured Q that is used to calculate R_{s}. Radiation losses can be neglected because the ground planes serve to confine the fields inside the resonator and the radiation Q is greater than 3\times 10^{6}.
+
+The experiments were carried out using a superconducting magnet, and B was applied parallel to the c axis of the YBCO, and thus perpendicular to the stripline structure and to the surface of the films. In this geometry, a large demagnetizing effect results in vortices penetrating the films in an applied dc field that is much smaller than the bulk H_{c1}. The exact experimental determination of the demagnetizing coefficient is not easy. To check the flux penetration in our resonator, we removed the center conductor of the stripline resonator (see Fig. 1) and put at its location a Hall sensor. In applied fields greater than \approx 0.1 T the field between the ground planes is measured to be equal to the applied field.
+
+For the stripline shown in Fig. 1 the rf current distribution in zero dc field has been calculated by Sheen _et al._[15] The rf current density, which flows in the z direction along the line perpendicular to the applied external dc magnetic field, is nonuniform along the length and across the width of the strip line. As a function of position z along the length l of the line, the total current
+
+Figure 1: Schematic three-dimensional view of the stripline resonator. (a) Patterned center line. The rf current J_{\rm rf} flows along the z direction. (b) Stripline resonator showing the ground planes. The applied dc magnetic field is along the y direction.
+
+  is given by
+
+\[I_{\rm rf}=I_{0}\sin(n\pi z/l),\] (2)
+
+where n is the resonance mode number. In zero field, across the width of the line, the current density J_{\rm rf} is highest at the edges and decreases toward the center with the characteristic length \lambda^{\prime}, the microwave penetration depth. In the mixed state, the Lorentz force arising from the rf current causes the vortices to oscillate. The vortex response gives rise to a redistribution of the rf currents and thus \lambda^{\prime} is affected. There are at least three contributions to \lambda^{\prime}: one from Cooper pairs, one from the vortices, and one from the quasiparticles. Thus \lambda^{\prime} depends not only on temperature, but also on the microwave frequency and applied dc magnetic field, as will be described in Sec. IV. In these measurements the rf current is used to probe the vortex structure and the rf power is kept low enough that the Q values are only weakly dependent on the rf power. The value of \lambda^{\prime}(f,B) is determined by measuring the frequency of the fundamental and overtone resonances of the strip-line resonator as a function of B at a given temperature. The resonant frequency is proportional to 1/\sqrt{L}, where L is the inductance per unit length of the stripline which depends upon \lambda^{\prime}, and L(\lambda^{\prime}) has been calculated numerically from the current distribution.[15] The relationship
+
+\[\frac{\Delta f}{f}=\sqrt{L(\lambda^{\prime})}\frac{d}{d\lambda^{\prime}}\biggl{(} \frac{1}{\sqrt{L(\lambda^{\prime})}}\biggr{)}\Delta\lambda^{\prime}\] (3)
+
+enables us to calculate \lambda^{\prime}(B) at each resonant frequency if we know \lambda^{\prime}(B=0). In zero field, \lambda^{\prime} is the usual penetration depth which in the two-fluid model is given by
+
+\[\lambda(T)=\frac{\lambda(0)}{[1-(T/T_{\rm c})^{4}]^{1/2}}.\] (4)
+
+Since only frequency shifts are measured, we do not have any direct determination of \lambda(0)=\lambda^{\prime} (T=0, B=0). The determination of \lambda(0) is model dependent and we have used a two-fluid-model fit of the data at f(T)(Refs. 13 and 14) to obtain an accurate estimate of \lambda^{\prime}(T=0,B=0). Study of the behavior of \lambda(T,B=0) is a problem of some importance,[16, 17, 18, 19] but is not the subject of this paper. We found that a two-fluid-model fit to our experimental data[20] gives us a \lambda(0) value with an accuracy of 20%. The value thus obtained for the two films considered in this study is \lambda(0)=170 nm. As will be seen below, our findings are not strongly influenced by the functional form of the temperature dependence of \lambda^{\prime}.
+
+The R_{s} is calculated from the measured Q and from f_{0} according to the relationship[14, 15]
+
+\[R_{s}=\frac{\Gamma f_{0}}{\Delta(\lambda^{\prime}/d)Q},\] (5)
+
+where \Gamma is a geometrical factor (\Gamma=0.41\Omega/GHz in our case) and \Delta(\lambda^{\prime}/d) is a correction factor calculated from the current distribution, which is important when \lambda^{\prime}/d (d is the thickness of the film) becomes comparable to unity.[14, 15]
+
+## III YbCO films
+
+The films used to fabricate the stripline resonators reported here were made by an off-axis magneton-sputtering process that was reported previously.[21, 22] They are single-phase films with the c axis perpendicular to the plane of the film. We concentrate here on results from two resonators. A resonator (see Fig. 1) consists of three YBCO thin films clamped together. All the films were deposited on LaAlO_{3} substrates. To obtain the meander line that constitutes the center conductor of the resonator, YBCO was deposited directly on a 10 \times 10-mm^{2} substrate for resonator No. 1, and on a 2-in.-diameter wafer that was subsequently cut into 10 \times 10-mm^{2} pieces for resonator No. 2. The lines were patterned by standard photolithography and were etched using 0.25% phosphoric acid in water. The R_{s} and \lambda^{\prime} of the patterned center conductor dominate the overall properties of the resonator, and so the influence of the ground planes can be neglected when they are of comparable quality (i.e., grown under exactly the same conditions) to the center conductor. The parameters of the films are summarized in Table 1. The dc resistivity
+
+\begin{table}
+\begin{tabular}{c||c c c c c|c c c c}  & \multicolumn{4}{c|}{dc properties} & \multicolumn{4}{c}{rf properties} \\ Sample & d & T_{\rm c} & \rho_{0} & \rho_{1} & J_{\rm e0} & f & T & R_{s} & \lambda (0) \\ number & (\mum) & (R=0) & (\mu\Omega cm) & (\mu\Omega cm K^{-1}) & (A/cm^{2}) & (GHz) & (K) & (\Omega) & (Å) \\ No. 1 & 0.3 & 90.4^{\rm a} & – & – & 1.2\times 10^{\rm fb} & 1.46 & 6.7 & 6.75\times 10^{-8} & \\  & & & & & & 14.6 & 4.3 & 2.00\times 10^{-4} & 1700 \\  & & & & & & 1.24 & 6.7 & 1.95\times 10^{-6  \[\rho(T)=\rho_{0}+\rho_{1}T\] (6)
+
+was determined in a dc measurement using a four-point technique on a separate film of similar quality.
+
+## IV Model of vortex dynamics
+
+As discussed in Sec. II we have experimentally verified that at fields of 0.1 T and greater, uniform penetration of flux through the ground planes has occurred and the field seen by the center conductor is uniform and equal to the applied field.
+
+The penetration depth of an oscillating field in the presence of a dc field in type II superconductors has been the subject of several papers.[8, 9, 10, 23, 24, 25, 26] This experimental situation was initially modelled by Campbell [25, 26] who considered the case of a small variable field b_{\rm rf}\sin\omega t superimposed on a large static field B\gg b_{\rm rf}, both of which were parallel to the surface of the superconductor with B\parallel b_{\rm rf} (note that the geometry used in the experiments reported here is B\perp b_{\rm rf}). Based on the experimental observation that for small b_{\rm rf} the displacement of vortices is reversible, Campbell came to the conclusion that the vortices remain pinned and that they oscillate with the same frequency as the rf frequency within their potential wells rather than jumping over potential barriers. Campbell introduced a new screening length, the pinning penetration depth \lambda_{C}, to describe the ac-field penetration within the superconductor. This penetration depth \lambda_{C}(T,B) is a real quantity, independent of b_{\rm rf} and frequency \omega, and describes how far the compressional waves in the flux-line lattice, generated in this geometry, penetrate into the material.
+
+Recent studies[8, 9, 10, 23] generalize Campbell's penetration depth, in various geometries (including the B\perp b_{\rm rf} configuration used in our measurements), to include the influence of flux pinning, flux viscous drag, flux creep, and the response of normal quasiparticle excitations. Because of flux-line viscous drag and flux creep, the frequency enters the final expression for the microwave penetration depth in the presence of vortices, \lambda_{\rm ac}, which is a complex quantity. The relationship
+
+\[Z_{a}=i\mu_{0}\omega\lambda_{\rm ac}(\omega,B,T)=R_{s}+i\mu_{0}\omega{\rm Re}( \lambda_{\rm ac})\] (7)
+
+makes it clear that the vortex dynamics have a direct influence on the measured surface resistance and microwave penetration depth \lambda^{\prime} which in an applied dc magnetic field is equal to {\rm Re}(\lambda_{\rm ac}).
+
+The derivation of \lambda_{\rm ac} has been extensively described by Coffey and Clem.[8, 9, 10] To define all the quantities that are discussed below, we examine the vortex equation of motion (per unit length), which was the basis of the derivation of \lambda_{\rm ac}:
+
+\[\eta\ddot{\bf u}(x,t)+{\bf F}_{p}(x,t)={\bf J}(x,t)\times\dot{\bf B}\phi_{0}+{ \bf F}_{T}(x,t).\] (8)
+
+In Eq. (8), \eta is the viscous drag coefficient in the absence of pinning and flux creep, {\bf u} is the vortex displacement from its equilibrium pinning site, {\bf F}_{p} is the restoring force due to the pinning potential, {\bf J} is the current density, \phi_{0} is the flux quantum, and {\bf F}_{T} represents a random thermal (Langevin) force. By definition {\bf F}_{p}=[\partial U(x)/\partial x]\dot{\bf x} where U(x) is the pinning potential. If vortex oscillation amplitudes are small compared with the radius of the pinning well, it can be assumed that the pinning force is proportional to {\bf u}: {\bf F}_{p}\approx-\alpha_{p}{\bf u}, where \alpha_{p} is the proportionality factor and is known as the Labusch parameter.[27] There is little experimental evidence about the exact nature of the pinning sites in YBCO thin films and it would be reasonable to assume some randomness in the heights of the energy barriers between the potential minima where vortices are pinned. Because this distribution is unknown, it is usual to suppose the existence of a single activation energy U_{0}(T,B), typical of the material of the sample under study. In the Coffey-Clem model,[8, 9, 10] the pinning potential U(T,B) is assumed to be periodic and to have the form
+
+\[U(x,T,B)=\frac{U_{0}(T,B)}{2}\biggl{[}1-\cos(2\pi x/a_{p})\biggr{]},\] (9)
+
+where a_{p} is the spacing between pinning sites. We deduce that
+
+\[\alpha_{p}=\frac{\theta^{2}U(x,T,B)}{\ell\partial x^{2}}=(2\pi/a_{p})^{2} \frac{U_{0}}{2\ell},\] (10)
+
+where \ell is the characteristic length of a moving vortex.[8, 9, 10]
+
+Because of the relatively low U_{0} in high-temperature superconductors,[8, 9, 10] at sufficiently low frequency a vortex may have time during each half cycle to wander away from its potential well and to get trapped by another pinning site before the driving force reverses direction. Thermal agitation increases the probability for a vortex to break away from its potential well; this effect is included in the vortex equation of motion [Eq. (8)] through the term {\bf F}_{T}(x,t).[8, 9, 10, 28] In this framework Coffey and Clem calculated that
+
+\[\lambda_{\rm ac}=\left\{\frac{\lambda^{2}+\lambda_{C}^{2}\left(\frac{f(\nu)- i\epsilon(\nu)(\omega_{p}/\omega)}{1+i(\omega/\omega_{p})f(\nu)}\right)}{1+2i( \lambda^{2}/\delta_{\rm rf}^{2})}\right\}^{\frac{1}{2}}.\] (11)
+
+Here, \lambda_{C} is the Campbell penetration depth given by
+
+\[\lambda_{C}=\left(\frac{B\phi_{0}}{\mu_{0}\alpha_{p}}\right)^{1/2},\] (12)
+
+and the penetration depth in the absence of vortices, the London penetration depth \lambda, is given by
+
+\[\lambda=\frac{\lambda_{0}}{[1-(T/T_{c})^{4}]^{1/2}[1-(B/B_{\rm c2})]^{1/2}},\] (13)
+
+where B_{\rm c2} is the upper critical field and the pinning frequency is \omega_{p}=\alpha_{p}/\eta, while \delta_{\rm rf} is the normal-fluid skin depth given by
+
+\[\delta_{\rm rf}=\left(\frac{2\rho(T)B}{\mu_{0}\omega B_{\rm c2}}\right)^{1/2},\] (14)  where \rho(T) is the dc resistivity defined in Eq. (6). The factors in Eq. (11) involving Bessel functions are
+
+\[f(\nu)=\frac{I_{0}^{2}(\nu)-1}{I_{0}(\nu)I_{1}(\nu)}\] (15)
+
+and
+
+\[\epsilon(\nu)=\frac{1}{I_{0}^{2}(\nu)}.\] (16)
+
+Here, \nu=U_{0}(T,B)/2k_{B}T, while I_{0}(\nu) and I_{1}(\nu) are modified Bessel functions of the first kind. A characteristic relaxation time \tau for the vortices is given by
+
+\[\tau=\frac{1}{\omega_{p}}f(\nu)=\frac{1}{\omega_{p}}\frac{I_{0}^{2}(\nu)-1}{I_ {0}(\nu)I_{1}(\nu)}.\] (17)
+
+Two characteristic frequencies may be defined: \omega_{0}=(\alpha_{p}/\eta)I_{1}(\nu)/I_{0}(\nu) and \omega_{c}=\omega_{0}/[I_{0}^{2}(\nu)-1]^{1/2}. Therefore, at a given temperature and magnetic field, there are three frequency regimes.[29] For \omega<\omega_{c}, the vortex dynamics is dominated by thermally activated flux creep, and the real part of \lambda_{\rm ac} from Eq. (11) depends strongly on frequency. For \omega_{c}<\omega<\omega_{0}, pinning effects are dominant, \lambda_{\rm ac} is determined by the reversible oscillations of vortices within their potential wells, and \lambda_{\rm ac} is frequency independent. Finally, for \omega>\omega_{0}, vortices behave as if they are not pinned and they dissipate energy through a free viscous motion. As the high-frequency limit is approached, {\rm Re}(\lambda_{\rm ac})/{\rm Im}(\lambda_{\rm ac}) decreases and approaches 1 as in a normal metal. These results of the Coffey-Clem model are strictly valid in the case of a semi-infinite medium, where the superconductor fills the half space y>0. We used the Coffey-Clem model to quantitatively explain our results. No correction terms need to be added to the calculated R_{s} and \lambda^{\prime}, since the finite thickness effects have already been taken into account in the measured R_{s} and \lambda^{\prime} through the term \Delta(\lambda/d) in R_{s} [see Eq. (5)] and through the penetration-depth dependence of the inductance L(\lambda^{\prime}) in the calculation of \lambda^{\prime} [see Eq. (3)].
+
+## V Experimental results
+
+All the results shown below have been obtained with samples cooled in zero applied field. The measured R_{s} as a function of temperature at 1.5 GHz, for a dc B from 0 to 3 T, is shown in Fig. 2. As discussed in Sec. II, the field is uniform over the position of the stripline resonator. For large B, close to T_{c}, the signal-to-noise ratio is degraded because the coupling capacitance of the resonator, C_{p}, has been chosen so that the resonator is slightly undercoupled at T=4.3 K and at B=0 T. As T or B is increased, Q decreases while C_{p} remains fixed. Thus, the coupling of the resonator to the external circuit decreases and the insertion loss increases. The weak coupling of the resonator results in a low signal-to-noise ratio at high temperature and field. Nevertheless, as shown in Fig. 2, the data at T<0.9T_{c} are consistent with earlier reports[2, 3] that already showed the large effect of the application of an external dc magnetic field on the surface resistance of YBCO thin films. We will focus next on experimental results obtained at T=4.3 K. This low temperature was originally chosen to avoid the complication of thermally activated motion of vortices in the study of the vortex dynamics in our YBCO thin films. As will be seen below, however, the signature of thermally activated motion of vortices is present in our data at 4.3 K.
+
+### Surface impedance as a function of dc magnetic field
+
+#### v.1.1 Microwave penetration depth
+
+Figure 3 shows \lambda^{\prime}(B) obtained from measurements of \Delta f through Eqs. (3) and (4) at T=4.3 K for three different frequencies 1.24, 6.25, and 13.8 GHz. To obtain these values, \lambda^{\prime}(B=0) was assumed to be 0.17 \mum, and was obtained as discussed in Sec. II by fitting the zero-field \Delta f(T) data. In high field (B>1 T), a quasilinear
+
+Figure 3: Microwave penetration depth \lambda^{\prime} at T=4.3 K as a function of external magnetic field at three different frequencies for sample No. 2: (\circ) f=1.24 GHz, (\square) f=6.25 GHz, (\triangle) f=13.8 GHz.
+
+Figure 2: Surface resistance for sample No. 1 at the fundamental frequency (f=1.46 GHz) at various magnetic fields as a function of temperature.
+
+  increase of \lambda^{\prime} with applied field is observed. This behavior is encountered for all the measured modes (1.22 GHz <f< 20 GHz). As can be seen in Fig. 3, \lambda^{\prime} increases more slowly at higher frequencies. From \lambda^{\prime}(B) at a given temperature, it is possible to estimate \alpha_{p}. In Eq. (11) for \lambda_{\rm ac}, at 4.3 K and in a small reduced field b=B/B_{c2}, the term (\lambda/\delta_{\rm rf})^{2} can be neglected, as well as the effects of thermal agitation in first approximation. Thus, we obtain
+
+\[\lambda_{\rm ac}^{2}\approx\lambda^{2}+\frac{\lambda_{C}^{2}}{(1+i\omega/ \omega_{p})},\] (18)
+
+with the pinning frequency \omega_{p}=2\pi f_{p}=\alpha_{p}/\eta. From previous experiments,[2] we expect f_{p} to be in the range 20-50 GHz. At our fundamental frequency (1.24 GHz for resonator No. 2 and 1.46 GHz for resonator No. 1) \omega/\omega_{p}\approx 0.05 and \lambda_{\rm ac}^{2}\approx\lambda^{\prime 2}\approx\lambda^{2}+\lambda_{C}^{2}. Figure 4 shows \lambda^{\prime 2}-\lambda^{2} as a function of B in sample No. 2 at 1.24 GHz. We see that \lambda^{\prime 2}-\lambda^{2} is linear in field and that consequently \alpha_{p} [see Eqs. (12) and (18)] is independent of B. From the slope in Fig. 4 we determine \alpha_{p}=3.4\times 10^{5} N/m^{2} in sample No. 2, and similarly \alpha_{p}=2.2\times 10^{5} N/m^{2} in sample No. 1 at T=4.3 K. The determination of \alpha_{p} enables us to calculate the ratio r_{f}/J_{c}=\phi_{0}/\alpha_{p} where r_{f} is the range of the pinning potential. We obtain r_{f}/J_{c}(T=4.3,B=1)=6.6\times 10^{-21} m^{3}/A. The lack of any significant dependence of \alpha_{p} upon B for 0.5<B<5 T is consistent with the very weak field dependence of J_{c} that has been measured by other authors[30] in the same field range. We conclude that for 0.5<B<5 T and at T=4.3 K, interactions between vortices are negligible and that vortices are individually pinned. The experimentally determined linear increase of \lambda^{\prime}(B) (Fig. 3) results from the relatively small Campbell penetration depth. Namely, the relationship \lambda^{\prime 2}\approx\lambda^{2}+\lambda_{C}^{2}, in the case \lambda_{C}\ll\lambda, yields \lambda^{\prime}\approx\lambda+\lambda_{C}^{2}/2\lambda and for B\ll B_{c2}, and we see from Eqs. (12) and (13) that \lambda^{\prime} increases linearly with B.
+
+#### iii.2.2 Surface resistance
+
+The measured variation of R_{s} with applied magnetic field at two frequencies 1.24 and 13.8 GHz and at T=4.3 K is shown in Fig. 5. As is clearly seen in the figure, R_{s}(B) depends on the microwave frequency. At low frequency (f< 10 GHz), R_{s}\propto B^{\alpha} with \alpha<1. At high frequency (f>10 GHz), \alpha\simeq 1.
+
+### Surface impedance as a function of frequency
+
+Figure 6 shows R_{s} versus frequency for B=0, 1, and 3.5 T for sample No. 2 at 4.3 K. In zero field, R_{s} is
+
+ is weaker than f^{2}. The experimental curve for B=1 T in Fig. 6 is presented in Fig. 7(a) along with the result of the Coffey-Clem model which is discussed below. Figure 7(b) presents the penetration depth change \Delta\lambda^{\prime}(f) associated with the R_{\bullet}(f) increase shown in Fig. 7(a). In Fig. 8, we see R_{\bullet}(f) at T=4.3 K and B=1 T for resonator No. 1, and a calculation of the Coffey-Clem model. Both Fig. 7(a) and Fig. 8 show more clearly than Fig. 6 that R_{\bullet}(f) at B=1 T does not have a power law dependence on f. At B=1 T, the variation of \lambda^{\prime} with f is found to be very slow between 1.24 and \sim20 GHz as shown in Fig. 7(b). For B>1 T, the behavior of R_{\bullet}(f) and \lambda^{\prime}(f) is qualitatively the same as in a field of 1 T.
+
+The relation Z_{\bullet}=i\omega\mu_{0}\lambda_{\infty} and the general expression [Eq. (11)] for \lambda_{\infty} have been used to fit our experimental data for R_{\bullet}(f) and \lambda^{\prime}(f). There are six parameters: \lambda(T=4.3 K, B=0 T), \alpha_{p}, \rho_{0}, \rho_{1}, f_{p}, and \nu=U_{0}(T,B)/2k_{B}T. Some parameters can be determined independently, for example \lambda(T=4.3 K, B=0 T), which has been determined separately from the fit of the curve \lambda^{\prime}(T) in zero field to the two-fluid model, yielding \lambda^{\prime}(T=4.3,B=0)\approx\lambda(0)=0.170\mum. As discussed above, an initial estimate for \alpha_{p} has been obtained from the slope of [\lambda^{\prime 2}(B)-\lambda^{2}(B)] and then adjusted to optimize the fit of the curve \lambda^{\prime}(f). It was found that \alpha_{p} was the parameter with the strongest effect on the fit of the calculated \lambda^{\prime}(f) curve to the experimental points. Specifically, \alpha_{p} controls the value of \lambda^{\prime} at low frequency. We thus obtain a value of 3.5 \times 10^{5} N/m^{2} for \alpha_{p} in sample No. 2 and 2.2 \times 10^{5} N/m^{2} in sample No. 1. With the values of \rho_{0} and \rho_{1} [see Eq. (6)] given in Table 1, the ratio (\lambda/\delta_{at})^{2} in Eq. (11) is found to be much smaller than 1. So R_{\bullet} and \lambda^{\prime} are relatively insensitive to \rho_{0} and \rho_{1}. Finally, only two parameters, f_{p}, the pinning frequency, and \nu, the ratio U_{0}(T,B)/2k_{B}T, are left to adjust in fitting of the R_{\bullet}(f) data to the Coffey-Clem model. These two parameters influence R_{\bullet}(f) in different ways: f_{p} has the strongest effect at high frequency, while \nu affects mostly the low-frequency part. Thus f_{p} and \nu can be determined quite independently by this procedure, yielding f_{p}=23.75 GHz and \nu=3.8 for sample No. 1 (Fig. 8), and f_{p}=41.54 GHz and \nu=4.5 for sample No. 2 (Fig. 7), at B=1 T and T=4.3 K. This gives U_{0}(T=4.3,B=1)=32.5 K for resonator No. 1 and U_{0}(T=4.3,B=1)=39 K for resonator No. 2. From the two relationships \alpha_{p}=(2\pi/a_{p})^{2}U_{0}/2\ell and \nu=U_{0}/2k_{B}T, we calculate a volume V_{v} characterizing the vortex pinning in the Coffey-Clem model where V_{v}=a_{p}^{2}\ell=3.5\times 10^{-26} m^{3} for sample No. 1 and a_{p}^{2}\ell=3\times 10^{-26} m^{3} for sample No. 2. These results are summarized in Table 2.
+
+The small \nu values indicate that for f\leq 10 GHz, flux creep is important and is responsible for the high R_{\bullet}(f) value at low frequency, as shown in Fig. 8. In this figure, we compare two different fitting curves, corresponding, respectively, to the cases \nu=U_{0}(T,B)/2k_{B}T\gg 1 (where flux creep is negligible) and \nu=U_{0}(T,B)/2k_{B}T<1 (where flux creep is significant), with the same f_{p}. We see that in the case of \nu\gg 1, the calculated R_{\bullet} is much smaller than the measured one at low frequency, and is proportional to f^{2} until close to f_{p}. At high frequency  but still below f_{p}, the probability for a vortex to hop from its initial pinning site to a neighboring site within the half period of the microwave oscillation decreases, and the two curves corresponding to \nu\gg 1 and \nu=3.8 nearly coincide. Although the effects of flux creep are evident in R_{s} as expected, the influence of flux creep on the microwave penetration depth is weak in the frequency range of these measurements in agreement with the Coffey-Clem model and as discussed by van der Beek _et al._[29]
+
+### Surface impedance as a function of rf current
+
+The finding of a large influence of flux creep at low frequency suggests that R_{s}, at a given frequency and dc field, would depend on the rf current density since displacement of the vortices due to the Lorentz force of the rf current leads to an increase in the probability of thermal activation. In Fig. 9, R_{s} at f=1.24 GHz, T=4.7 K, B=0, and 1 T is plotted as a function of I_{\rm rf}, the total rf current for resonator No. 2. This plot shows that, for B=1 T, R_{s} depends weakly on the current for I_{\rm rf}\leq 0.06 A, and that for I_{\rm rf}\geq 0.06 A the dissipation increases sharply. At I_{\rm rf}=0.06 A, the peak current density at the edges of the central line is J_{\rm rf}^{\rm peak}\equiv J_{T}=1.8\times 10^{6} A/cm^{2}. In the inner part of the central line, the current density is lower. All the data presented in Secs. V.1 and V.2 were taken at the same rf power level. Thus we conclude that the measurements were performed at power levels at which Z_{s} is independent of the rf power.
+
+The determination of J_{T} from the R_{s}(I_{\rm rf}) data enables us to calculate the displacement of a vortex from its equilibrium position u(x,\omega,\nu,T,B,t) as [10]
+
+\[u(x,\omega,\nu,T,B,t)=\frac{i\phi_{0}}{\eta}\mu_{v}(\omega,\nu,T)J_{T}(x,T,B),\] (19)
+
+where
+
+\[\mu_{v}(\omega,\nu,T)=\frac{1}{\eta}\left[1+\left(\frac{i\omega\eta I_{0}(\nu) }{\alpha_{p}I_{1}(\nu)}+\frac{1}{I_{0}^{2}(\nu)-1}\right)^{-1}\right]^{-1}\] (20)
+
+is the complex-valued dynamic mobility of vortices in a periodic potential. Taking f=1.2 GHz, \alpha_{p}=3.5\times 10^{5} N/m^{2}, \eta=1.34\times 10^{-6} N s/m^{2}, \nu=4.5, and J=J_{T}=1.8\times 10^{6} A/cm^{2}, we determine that the vortex oscillation amplitude |u|=u_{T}=1.16 A at the fundamental frequency.
+
+The ratio r_{f}/J_{c}=\phi_{0}/\alpha_{p}\simeq u_{T}/J_{T} was calculated in Sec. V.1.1. The values that we find for u_{T} and J_{T} are smaller than those quoted in the literature for r_{f} and J_{c}. For reduced field b<0.2, one usually considers r_{f}\simeq\xi as calculated by Brandt. [32] This value would give r_{f}\approx 20 A for YBCO, while we determine u_{T}=1.16 A. Previous experimental data show that J_{c}(T=4.3,B=1) is usually 2-3 times smaller than J_{c0}=J_{c}(T=4.3,B=0) and in sample No. 2, J_{c0} exceeds our measurement capability of 1.5\times 10^{7} A/cm^{2}, and so we expect J_{c}(T=4.3,B=1)>10^{7} A/cm^{2} although not directly measured. We suggest that the origin of the nonlinearity of R_{s} at J>J_{T} is a depinning of vortices near the edges of the line. The large reduction in J_{c} and in r_{f} that we measure may be due to flux creep. In a recent paper, van der Beek _et al._[29] present a study of the onset of nonlinearity in the ac response of a superconductor in the mixed state and consider the influence of flux creep.
+
+### Comparison with previous results
+
+We have been able to determine the parameters of the Coffey-Clem model \alpha_{p}, f_{p}, and \nu that characterize the vortex dynamics in YBCO thin films. Values for these parameters are summarized in Table 2. Next we show how these values compare with previously reported data in different YBCO samples using the same field orientation (B\parallel c axis).
+
+The \alpha_{p} and f_{p} values are in good agreement with \alpha_{p}=2.7\times 10^{5} N/m^{2} and f_{p}\approx 40 GHz deduced by Pambianchi _et al._[2] from measurements of R_{s} in YBCO thin films at B<0.2 T and f=11 GHz. These authors observed that R_{s}(B) and X_{s}(B) are linear in B. As they show, a linearization of the Coffey-Clem expression for Z_{s} when B/B_{c2}\ll 1 results in R_{s}\propto B and X_{s}\propto B.
+
+Wu and Sridhar [24] measured \lambda^{\prime} in a YBCO single crystal at 6 MHz. They reported that (\lambda^{\prime}-\lambda)^{2} is a linear function of applied field for B lower than 0.1 T at T=9 K. Using the relation \lambda^{\prime}\approx\lambda+\lambda_{C}^{2}/2\lambda which is valid if \lambda_{C}^{2}/\lambda^{2}\ll 1, one concludes that \alpha_{p}\propto B^{1/2}. They
+
+\begin{table}
+\begin{tabular}{c||c c c c} Sample & \alpha_{p} & f_{p} & \nu & U_{0} \\ number & (N/m^{2}) & (GHz) & & (K) \\ \hline No. 1 & 2.2\pm 0.2\times 10^{5} & 23.75\pm 5.0 & 3.8\pm 0.02 & 32.5\pm 0.5 \\ No. 2 & 3.5\pm 0.2\times 10^{6} & 41.5\pm 5.0 & 4.5\pm 0.02 & 39.0\pm 0.5 \\ \end{tabular}
+\end{table}
+Table 2: Values of the four parameters \alpha_{p}, f_{p}, \nu, and U_{0} of the Coffey-Clem model determined from our data.
+
+  obtained \alpha_{p}=2.1\times 10^{4} N/m^{2} at low temperature. Our results depart from those of Wu and Sridhar in two ways: First, we obtain a much larger \alpha_{p} value in thin films than they do in a single crystal, and second, we find that \alpha_{p} is field independent, while they find \alpha_{p}\propto B^{1/2}.
+
+In other work, the dependence \alpha_{p}\propto B^{3/2} has been measured in a Bi_{2}Sr_{2}CaCu_{2}O_{8} polycrystalline sample [33] and in a NbTi powder sample [54] in vibrating-reed mechanical resonator experiments, [4, 5] performed at frequencies in the kHz range.
+
+## VI Discussion
+
+The work presented in this paper is one of the very few swept-frequency experiments that have been performed on the temperature and magnetic field dependence of the surface impedance. To the best of our knowledge, only two other papers report the frequency dependence of the ac impedance in a dc magnetic field. [38, 36] In these experiments f<600 MHz and the authors focus on the results obtained at high temperature to investigate the existence of a vortex-glass phase in a large magnetic field using scaling arguments. To interpret our results, obtained at 1.24 <f<20 GHz and T=4.3 K, we used the phenomenological model of Coffey and Clem, which does not involve any phase transition, but which derives important parameters such as the pinning force constant \alpha_{p}, the pinning frequency f_{p}, and the pinning activation energy U_{0}. Though the Coffey-Clem model was not developed explicitly for a vortex-glass state, the model does assume that the vortices are uncorrelated. In the low-frequency region of our experimental measurements these conditions are met and the Coffey-Clem model gives a good fit to the data.
+
+From the fit of our experimental results to the Coffey-Clem model, we have demonstrated the importance of thermally activated flux creep at low temperature in YBCO films. The small magnitude of the ratio U_{0}/2k_{B}T is responsible for a relatively large R_{s} in an applied dc magnetic field at low temperature and at 1.2 GHz.
+
+In all high-T_{c} superconductors, flux creep is also responsible for the observed rapid decay of the dc magnetization, and thermally activated flux flow [37] is the key to understanding the resistive transitions in a dc field at high temperature. Next we review some recently reported experiments performed both at low temperature and in the vicinity of T_{c}. We will see how the small U_{0} that we obtained at low temperature from our high-frequency experiment compares with values determined in other experiments.
+
+Magnetization-decay experiments yield a value of U_{0} which is extracted from the rate of decay based on a phenomenological model. Three models are usually employed, leading to model-dependent U_{0} values that can vary significantly. The time scale of magnetization-decay experiments is very long compared to that of the microwave frequency measurements, in which flux creep is on a time scale \tau approximately equal to 1/(2\pi f). Thus in our experiments \tau\approx 7.7\times 10^{-12} s, whereas the observation time involved in a magnetization-decay experiment is greater than 1 s. Hence dc magnetization experiments, probing vortex motion over a long time scale, observe the response of vortices more strongly pinned than those that give rise to the microwave response.
+
+Recently, however, a dynamical relaxation technique has been developed [38] which enables the determination of a U_{0} sensitive to fast relaxation and which therefore provides U_{0} values to be compared with our microwave measurements. Furthermore, by definition, these experiments are performed at a J comparable to J_{T} in our experiments, thus making a comparison of U_{0} obtained in these two cases reasonable.
+
+By using the dynamical relaxation technique, \nu values have been derived by Douwes and Kes [38] in YBCO thin films containing screw dislocations. They compare two \nu values derived from two distinct models. At B=1 T and at T=21.8 K, they obtained \nu\approx 20 using the Kim-Anderson model and \nu\approx 10 using the logarithmic model. Applying the same technique to the investigation of YBCO thin films, Wen _et al._[39] analyzed their data using the collective-pinning theory. Agreement between their results and the collective-pinning model is found in the intermediate-temperature range (20 K <T<65 K), but at low temperature (T<10 K), strong disagreement is found that is attributed to an abnormally fast relaxation. The failure of the relaxation rate to extrapolate to zero when T\to 0 K has been observed in other experiments carried out below 1 K in various superconducting materials [40] and this effect is attributed to quantum tunneling of vortices.
+
+The experiment of Wen _et al._[39] provides two useful pieces of information. First, from this experiment we learn that we cannot get \nu(T=4.3) by extrapolation results obtained at T>20 K. Thus, an extrapolation of the Douwes and Kes [38] results from T=21.8 K to T=4.3 K may be inappropriate for a comparison with our results. Second, in this experiment, the possibility of a fast relaxation rate at T=4.3 K is shown. This latter point is where the work of Wen _et al._[39] and our microwave studies agree.
+
+At high temperature, close to T_{c}, thermal effects on flux motion have been found to be important in the vicinity of the irreversibility temperature T_{\rm irr}(B). [41] The irreversibility temperature is the temperature where thermal depinning of vortices occurs. [42] A list of various experiments showing evidence for the thermal depinning of vortices has been given by Brandt. [42] Recently Owliaei _et al._, [3] using the Coffey-Clem model to interpret a field crossover in the vortex response at microwave frequency (f=10 GHz) in YBCO thin films, obtained a line in the B-T plane that coincides with the irreversibility line. Owliaei _et al._ obtain U_{0}=1.8\times 10^{4} K at B=1 T. A value of about the same magnitude was obtained much earlier by Palstra _et al._[43]
+
+The U_{0} values determined from experiments at high temperature are several orders of magnitude higher than the low-temperature U_{0} determined in the experiment presented in this paper. These disparate U_{0} values must arise from different origins. The vortex responses at microwave frequency at T\approx T_{\rm irr} and when T=4.3 K  probably correspond to different vortex dynamics and different vortex phases. At high temperature the pinning activation energy is associated with plastic deformation of the vortex lattice,[44, 45] and U_{0}\approx U_{\rm pl} has been estimated to be U_{\rm pl}\approx\phi_{0}^{2}a_{0}/8\pi^{2}\Gamma\lambda_{\rm pl}^{2}, where \Gamma=\lambda_{\perp}/\lambda_{\parallel} is the anisotropy factor, \lambda_{\perp} and \lambda_{\parallel} are, respectively, the London penetration depths for B\perp c axis and B\parallel c axis, and a_{0}=\phi_{0}/B is the distance between neighboring vortices. Taking \Gamma=5, B=1 T, and \lambda_{\parallel}=170 nm, we obtain U_{\rm pl}\approx 4500 K, a value that is of the same order of magnitude as that of Owliaei _et al._[3]
+
+We think that the low U_{0} that we determined in these experiments results from the interaction of the vortex lattice with a high density of randomly distributed defects in the films as described by Larkin and Ovchinnikov in their collective-pinning theory.[46] A large number of metastable configurations may exist for the pinned vortex lattice. In the case of three-dimensional collective-pinning theory, in the single-vortex limit[46] the correlated volume is given by V_{\rm c}=R_{\rm c}^{2}\ell=a_{0}^{2}\ell, where \ell and R_{\rm c} are, respectively, the lengths parallel and transverse to the magnetic field direction. Hence, V_{\rm c} contains only a segment of one vortex. At finite temperature, this vortex segment may hop between two states that are separated by a distance 2r_{f}. To draw a relationship between r_{f}, which is a parameter of the collective-pinning theory, and a_{p}, which is a parameter of the Coffey-Clem model, we must understand the physical meaning of r_{f}. Kes and van den Berg[47] defined r_{f} as the distance in which the elementary pinning force varies from +{\cal F}_{p} to -{\cal F}_{p}. Adopting this definition, we deduce r_{f}=a_{p}/2. The energy cost for the displacement of a vortex segment \ell over a distance r_{f} is the energy of the elastic deformation of the vortex line:
+
+\[U_{\rm el}=C_{44}(r_{f}/\ell)^{2}V_{\rm c},\] (21)
+
+where C_{44} is the tilt modulus of the vortex lattice. Sudbo and Brandt[48, 49, 50] showed that in high-\kappa superconductors (\kappa=\lambda/\xi), C_{44} is dispersive as a result of the nonlocal nature of the elastic energy when the vortex interaction range (\lambda) exceeds a_{0}. They calculated that C_{44}=C_{44}^{0}(k)+C_{44}^{corr}(k). In the limiting case of isolated vortices, the second term C_{44}^{corr}(k) is predominant and it is reduced by the anisotropy factor of \Gamma^{2}. We will use the approximate expression given by Vinokur _et al.[51]_ for C_{44} in the single-vortex limit in an anisotropic type II superconductor:
+
+\[\begin{array}{rcl}C_{44}&\approx&4\sqrt{3}C_{66}/\Gamma^{2},\\ &&\\ C_{66}&=&\phi_{0}B/(16\pi\mu_{0}\lambda_{\parallel}^{2}),\end{array}\] (22)
+
+where C_{66} is the small-field shear modulus of the vortex lattice. Replacing r_{f} by a_{p}/2 in Eq. (21), we obtain
+
+\[U_{\rm el}=\frac{\phi_{0}^{2}\sqrt{3}}{16\pi\mu_{0}\lambda_{\parallel}^{2} \Gamma^{2}}\frac{V_{\rm v}}{\ell}.\] (23)
+
+We note that for b=B/B_{c2}\ll 1, U_{\rm el} is very weakly dependent upon the magnetic field. From the collective-pinning theory,[52]\xi<\ell<a_{0} when (J_{e}-J)/J_{e}\lesssim 1. Taking \lambda_{\parallel}=170 nm, \Gamma=5, V_{\rm v}=3\times 10^{-26}, we calculate 4<U_{\rm el}<94 K. One of the basic assumptions of the collective-pinning theory is that U_{0} is of the order of the elastic energy of the moving vortex segment. In order to further explore the implications of U_{0} determined by the fit of our measurements to the Coffey-Clem model, we equate U_{0} with U_{\rm el}. We then find that \ell=23 A and a_{p}=39 A for resonator No. 1 and \ell=30 A and a_{p}=32 A for resonator No. 2. We note that \ell extends beyond several CuO_{2} twin planes and we confirm thereby the validity of the three-dimensional limit for YBCO. We thus determine r_{f}=20 A for resonator No. 1 and r_{f}=16 A for resonator No. 2. As predicted by Brandt,[32] we obtain r_{f}\approx\xi\approx 20 A. From the relationship r_{f}/J_{e}=6.6\times 10^{-21} m^{2}/A, we calculate J_{e}(T=4.3,B=1)=2.4\times 10^{7} A/cm^{2} in resonator No. 2. Although we do not have any direct measurement of J_{e}(T=4.3,B=1) to compare with the value obtained from our analysis, this value compares well with published data.[30] By incorporating microscopic aspects of the collective-pinning theory, we have been able to determine the correlated length of a vortex in the single-vortex regime \ell, some characteristic length of the pinning structure a_{p}, and the pinning range r_{p}, and we have been able to predict a value for J_{e}. The values of \ell, a_{p}, r_{f}, and J_{e} thus determined support our assumptions made for the analysis of the data.
+
+## VII Conclusion
+
+We have presented measurements of the microwave surface impedance Z_{s}(f,T,B)=R_{s}(f,T,B)+i\mu_{0}\omega\lambda^{\prime}(f,T,B) for YBCO thin films at T=4.3 K as a function of dc field B up to 5 T, microwave frequency 1.2 GHz <f<20 GHz, and rf current in the range 10^{-4} A <I_{\rm rf}<1 A. The static magnetic field is sufficiently large that there is uniform penetration of the field and the vortices are uniformly distributed. We found that, in this frequency and field range, the relative change of R_{s} is much larger than the relative change of \lambda^{\prime}. These changes are related and depend on the dynamics of the vortex lattice. The study of R_{s}(f) and \lambda^{\prime}(f) allows us to investigate the different time scales involved in the vortex lattice dynamics. At a frequency f, the processes that can be probed are those with a relaxation time \tau<1/(2f). The analysis of R_{s}(f) and \lambda^{\prime}(f), within the framework of the Coffey-Clem model, showed that for 1.2<f<20 GHz, vortices are in the Campbell regime; namely, the vortices oscillate within the potential well that defines the pinning site. But this frequency range is large enough to allow the observation of two other regimes at both extremes of our frequency measurement interval. At high frequency, dR_{s}(f)/df is decreasing, indicating that as the frequency is increased the vortex dynamics is evolving toward a free-flux-flow regime. At low frequency, a vortex may have time to break away from its potential well and to become pinned in another neighboring potential well. This is a thermally activated flux-creep process, and at low frequency it results in an increase in R_{s} relative to the value without flux creep. At low temperature and in a small reduced  field b=B/B_{c2}, we identified the energy barriers for flux motion to be generated by flux-line-lattice disorder, as explained by the collective-pinning theory. These barriers are much smaller than the energy barriers identified for thermally assisted flux flow, and are related to a plastic deformation of the flux-line lattice at much higher temperature.
+
+We have investigated the dynamics of vortices perpendicular to the CuO_{2} planes at low temperature. An extension of this work in three different directions is under way. First, because of the large structural anisotropy of YBCO, a large anisotropy of R_{\bullet}(f,T,B) is expected. The anisotropy of R_{\bullet} is being studied by rotating the externally applied field B in a plane perpendicular to the a-b plane of YBCO. Of particular interest is the situation where the vortices lie in the a-b planes of YBCO. Second, it would be interesting to explore the high-temperature region. In order to be able to measure R_{\bullet}(f) at T>70 K, the coupling of the resonator to the external circuit will be increased to improve the signal-to-noise ratio. Third, Coffey and Clem predicted the existence of nonlinear effects in the vortex dynamics. We are now investigating this phenomenon, measuring R_{\bullet}(I_{\rm rf}) and measuring the generation of a second harmonic of the fundamental microwave frequency.
+
+###### Acknowledgements.
+
+ One of the authors (S.R.) thanks the French Ministere de la Recherche et de l'Espace for financial support which made this research possible. At the MIT Lincoln Laboratory, the work was supported by the Advanced Research Projects Agency (ARPA) under the auspices of the Consortium for Superconducting Electronics (CSE). The work at the Rome Laboratory was sponsored by the Department of the Air Force, and the work at MIT by AFOSR Grant No. F4962-93-1-0160. We wish to thank R. P. Konieczka and D. Baker for device fabrication and Y. Habib for help with the measurements, G. Fitch for programming, and A. C. Anderson of MIT Lincoln Laboratory for supplying the high-T_{\rm c} films. We also gratefully acknowledge numerous technical discussions and suggestions from Dr. Mark Coffey and technical support from Peter Rainville. We thank Dr. C. C. Chin for help with the initial setup of the experiment.
+
+## References
+
+* [1] Ph. Seng, R. Gross, U. Baier, M. Rupp, D. Koelle, R. P. Huebener, P. Schmitt, G. Saemann-Ischenko, and L. Schultz, Physica C **192**, 403 (1992).
+* [2] M. S. Pambianchi, D. H. Wu, L. Ganapathi, and S. Anlage, IEEE Trans. Appl. Supercond. **AS-3**, 2774 (1993).
+* [3] J. Owliaei, S. Sridhar, and J. Talvacchio, Phys. Rev. Lett. **69**, 3366 (1992).
+* [4] P. L. Gammel, L. F. Schneemeyer, J. V. Waszczak, and D. J. Bishop, Phys. Rev. Lett. **61**, 1666 (1988).
+* [5] S. de Brion, R. Calemczuk, and J. Y. Henry, Physica C **178**, 225 (1991).
+* [6] G. D'Anna, W. Benoit, W. Sadowski, and E. Walker, Europhys. Lett. **20**, 167 (1992).
+* [7] J. I. Gittleman and R. Rosenblum, Phys. Rev. Lett. **16**, 734 (1966).
+* [8] M. W. Coffey and J. R. Clem, Phys. Rev. Lett. **67**, 386 (1991).
+* [9] M. W. Coffey and J. R. Clem, Phys. Rev. B **46**, 11757 (1992).
+* [10] M. W. Coffey and J. R. Clem, Phys. Rev. B **45**, 10527 (1992).
+* [11] J. S. Martens, V. M. Hietala, T. A. Plut, D. S. Ginley, G. A. Vawter, C. P. Tigges, and M. P. Siegal, IEEE Trans. Appl. Supercond. **AS-3**, 2295 (1993).
+* [12] E. Denlinger, R. Paglione, D. Kalokitis, E. Belohoubek, A. Pique, X. D. Wu, T. Venkatesan, A. Fathy, V. Pendrick, S. Green, and S. Matthews, IEEE Microwave Guided Wave Lett. **MGW-2**, 449 (1992).
+* [13] D. E. Oates and A. C. Anderson, IEEE Trans. Magn. **MAG-27**, 867 (1991).
+* [14] D. E. Oates, A. C. Anderson, D. M. Sheen, and S. M. Ali, IEEE Trans. Microwave Theory Tech. **MTT-39**, 1522 (1991).
+* [15] D. M. Sheen, S. M. Ali, D. E. Oates, R. S. Withers, and J. A. Kong, IEEE Trans. Appl. Supercond. **AS-1**, 108 (1991).
+* [16] S. M. Anlage and D. H. Wu, J. Supercond. **5**, 395 (1992).
+* [17] D. A. Bonn, P. Dosanjh, R. Liang, and W. N. Hardy, Phys. Rev. Lett. **68**, 2390 (1992).
+* [18] D. Achkir, M. Poirier, D. A. Bonn, R. Liang, and W. N. Hardy, Phys. Rev. B **48**, 13184 (1993).
+* [19] M. R. Beasley, Physica C **209**, 43 (1993).
+* [20] D. E. Oates, A. C. Anderson, C. C. Chin, J. S. Dervo, G. Dresselhaus, and M. S. Dresselhaus, Phys. Rev. B **43**, 7655 (1991).
+* [21] A. S. Westerheim, L. S. Yu-Jahnes, and A. C. Anderson, IEEE Trans. Magn. **MAG-27**, 1001 (1991).
+* [22] A. S. Westerheim, A. C. Anderson, D. E. Oates, S. N. Basu, D. Bhatt, and M. J. Cima, J. Appl. Phys. **75**, 393 (1994).
+* [23] E. H. Brandt, Phys. Rev. Lett. **67**, 2219 (1991).
+* [24] D. H. Wu and S. Sridhar, Phys. Rev. Lett. **65**, 2074 (1990).
+* [25] A. M. Campbell, J. Phys. C **2**, 142 (1969).
+* [26] A. M. Campbell, J. Phys. C **4**, 3186 (1971).
+* [27] R. Labusch, Cryst. Lattice Defects **1**, 1 (1969).
+* [28] P. Martinoli, P. Fluckiger, V. Marisco, P. K. Srivastava, C. Leeman, and J. L. Gavolino, Physica B **166**, 1163 (1990).
+* [29] C. J. van der Beek, V. B. Geshkenbein, and V. M. Vinokur, Phys. Rev. B **48**, 3393 (1993).
+* [30] L. Schultz, B. Roas, P. Schmitt, P. Kummeth, and G. Saemann-Ischenko, IEEE Trans. Magn. **MAG-27**, 990 (1991).
+* [31] G. Muller, N. Klein, A. Brust, H. Chaloupka, M. Hein, S. Orbach, H. Piel, and D. Reschke, J. Supercond. **3**, 235 (1990).
+* [32] E. H. Brandt, Phys. Rev. Lett. **57**, 1347 (1986).
+
+  * [33] A. Gupta, P. Esquinazi, H. F. Braun, H. W. Neumuller, G. Ries, W. Schmidt, and W. Gerhauser, Physica C **170**, 95 (1990).
+* [34] J. Kober, A. Gupta, P. Esquinazi, H. F. Braun, and E. H. Brandt, Phys. Rev. Lett. **66**, 2507 (1991).
+* [35] H. K. Olsson, R. H. Kosc, W. Eidelloth, and R. P. Robetzazi, Phys. Rev. Lett. **66**, 2661 (1991).
+* [36] H. Wu, N. P. Ong, and Y. Q. Li, Phys. Rev. Lett. **71**, 2642 (1993).
+* [37] P. H. Kes, J. Aarts, J. van den Berg, C. J. van de Beek, and J. A. Mydosh, Supercond. Sci. Technol. **1**, 242 (1989).
+* [38] H. Douwes and P. H. Kes, J. Alloys Compos. **195**, 451 (1993).
+* [39] Wen Hai-Hu, R. Griessen, D. G. de Groot, B. Dam, and J. Rector, J. Alloys Compos. **195**, 427 (1993).
+* [40] A. C. Mota, G. Juri, P. Visani, A. Pollini, T. Teruzzi, and K. Aupke, Physica C **185-189**, 343 (1991).
+* [41] A. P. Malozemoff, Mater. Res. Soc. Bull. **15**, 50 (1990).
+* [42] E. H. Brandt, Int. J. Mod. Phys. B **5**, 751 (1991).
+* [43] T. T. M. Palstra, B. Batlogg, R. B. van Dover, L. F. Schneemeyer, and J. V. Waszczak, Appl. Phys. Lett. **54**, 763 (1989).
+* [44] V. M. Vinokur, M. V. Feigel'man, V.B. Gesckenbein, and A. I. Larkin, Phys. Rev. Lett. **65**, 259 (1990).
+* [45] V. B. Gesckenbein, A. I. Larkin, M. V. Feigel'man, and V. M. Vinokur, Physica C **162-164**, 239 (1989).
+* [46] A. I. Larkin and Y. N. Ovchinnikov, J. Low Temp. Phys. **34**, 409 (1979).
+* [47] P. H. Kes and J. van den Berg, in _Studies of High Temperature Superconductors_, edited by A. Narlikar (Nova Science Publishers, New York, 1990), Vol. 5.
+* [48] A. Sudbo and E. H. Brandt, Phys. Rev. Lett. **66**, 1781 (1991).
+* [49] A. Sudbo and E. H. Brandt, Phys. Rev. B **43**, 10482 (1991).
+* [50] E. H. Brandt and A. Sudbo, Physica C **168**, 426 (1991).
+* [51] V. M. Vinokur, P. H. Kes, and A. E. Koshelev, Physica C **168**, 29 (1990).
+* [52] M. V. Feigel'man, V. B. Gesckenbein, A. I. Larkin, and V. M. Vinokur, Phys. Rev. Lett. **63**, 2303 (1989).
+
+  Figure 1: Schematic three-dimensional view of the stripline resonator. (a) Patterned center line. The rf current J_{\text{rf}} flows along the z direction. (b) Stripline resonator showing the ground planes. The applied dc magnetic field is along the y direction.
+
+ Frequency dependence of the surface impedance of YBa_{2}Cu_{3}O_{7-\delta} thin films in a dc magnetic field: Investigation of vortex dynamics
+
+Sylvie Revenaz
+
+# Abstract
+
+Lincoln Laboratory, Massachusetts Institute of Technology, Lexington, Massachusetts 02173-9108; Department of Physics, Massachusetts Institute of Technology, Cambridge Massachusetts 02139-4307; and Rome Laboratory, Hanscom Air Force Base, Massachusetts 01731-3010
+
+D. E. Oates
+
+Lincoln Laboratory, Massachusetts Institute of Technology, Lexington, Massachusetts 02173-9108
+
+D. Labbe-Lavigne
+
+199 Hamilton Street, Cambridge, Massachusetts 02139
+
+G. Dresselhaus
+
+Francis Bitter National Magnet Laboratory, Massachusetts Institute of Technology, Cambridge, Massachusetts 02139-4307
+
+and Rome Laboratory, Hanscom Air Force Base, Massachusetts 01731-3010
+
+M. S. Dresselhaus
+
+Department of Electrical Engineering and Computer Science and Department of Physics, Massachusetts Institute of Technology, Cambridge, Massachusetts 02139-4307
+
+17 January 1994
+
+###### Abstract
+
+We report measurements of the surface impedance Z_{s}=R_{s}+i\omega\lambda^{\prime} of YBa_{2}Cu_{3}O_{7-\delta} thin films in an externally applied dc magnetic field B (parallel to the c axis) using a stripline resonator. At T=4.3 K we obtain the surface resistance R_{s} and the microwave penetration depth \lambda^{\prime} as a function of applied dc field up to 5 T and as a function of microwave frequency f from 1.2 to 20 GHz. While \lambda^{\prime} increases linearly with B for B>1 T at all frequencies, R_{s} is found to be roughly \propto B^{\alpha(f)}, where \alpha(f)<1 for f\leq 10 GHz and \alpha(f)\approx 1 for f\geq 10 GHz. In zero dc field, R_{s}\propto f^{2}. For B>1 T, R_{s} shows a much weaker dependence on f. The results for Z_{s}(f,T,B) have been quantitatively explained using a model developed by Coffey and Clem, based on a self-consistent treatment of vortex dynamics that includes the influence of vortex pinning, viscous drag, and flux creep. The pinning force constant \alpha_{p}, the pinning frequency \omega_{p}, and the pinning activation energy U_{0}(T,B) are obtained through the fitting procedure. We find that the effects of thermally activated flux creep at 4.3 K upon the surface resistance are significant. The low U_{0}\approx 35 K that we determine is interpreted as arising from the interaction of the vortex lattice with a dense random pinning potential as described in the collective-pinning theory.
+
+## I Introduction
+
+Measurements of the vortex lattice response to ac fields are widely used to investigate the vortex dynamics in type II superconductors. Experiments such as ac magnetic permeability,[1] surface impedance,[2, 3] vibrating-reed mechanical resonator,[4, 5] and torsional oscillator[6] have the common feature that a small ac field interacts with the vortices that have penetrated the sample. The ac field generates surface shielding currents. The resulting Lorentz force on vortices near the surface generates an oscillation of these vortices that propagates toward the interior of the superconductor. This propagation is made possible through vortex interactions and is slowed down by pinning or by friction. Hence vortex motion strongly affects the shielding properties of a type II superconductor in the mixed state and influences both the real and imaginary parts of either the magnetic permeability or the surface impedance.
+
+In this paper we present measurements of the surface impedance Z_{s}=R_{s}+iX_{s} of YBa_{2}Cu_{3}O_{7-\delta} (YBCO) thin films in applied dc magnetic fields (0<B<5 T). The Z_{s} contains information about power absorption (R_{s}) and shielding processes (X_{s}). We used a stripline-resonator technique, which makes it possible to make measurements as a function of frequency with a single device. Temperature, applied dc field, and rf current can also be varied. In earlier experiments based on R_{s} measurements in PbIn thin films, Gittleman and Rosenblum[7] showed a crossover in the vortex dynamics from a pinning-dominated regime at low frequency to a flux-flow regime at high frequency. This crossover frequency has been called the pinning frequency \omega_{p}.
+
+A unified theory of the effects of vortex pinning and flux creep upon Z_{s} of type II superconductors has recently been published by Coffey and Clem[8, 9, 10] which addresses the microscopic mechanisms responsible for the frequency dependence of Z_{s} of type II superconductors.
+
+  We use the Coffey-Clem model to explain quantitatively our experimental results. Important parameters of the model such as the pinning force constant (Labusch parameter) \alpha_{p}, the pinning frequency \omega_{p}, and the pinning activation energy U_{0} have been determined for the YBCO thin films we measured. In the Coffey-Clem model, U_{0} is assumed to be independent of the current density. We find that flux creep strongly influences the microwave surface resistance at 4.3 K. In our analysis we incorporated microscopic aspects of collective-pinning theory into the Coffey-Clem model. This extension allows us to explain the origin of the observed low-temperature flux creep in our microwave experiment.
+
+The microwave properties of YBCO thin films in externally applied magnetic fields are also of practical interest. Any practical device is likely to encounter either dc or very low frequency magnetic fields. It is important to know exactly what magnitude of field will cause degradation of the surface resistance or shifts in the resonance frequency for the case of resonator-based devices. There are also reports of devices such as microwave frequency circulators [11] that operate by design in an applied magnetic field. Flux-flow transistors [12] have shown great promise as three-terminal devices with power gain, operating at microwave frequencies. Such devices utilize flux flow for their operation. Clearly the understanding of flux dynamics is necessary for several practical applications.
+
+## II Stripline resonator and Z measurement
+
+The measurements of Z_{s} were made using the two-port stripline resonator structure described previously [13, 14] and shown in Fig. 1. The resonator consists of a strip line transmission line, patterned by photolithography, one-half wavelength long at the fundamental frequency f_{0}, with f_{0}=1.24 GHz and 1.46 GHz for the two resonators used. Overtone resonances occur at all multiples of the fundamental frequency. Thus, measurements at the overtone resonances give the frequency dependence of Z_{s}.
+
+The quality factor Q and the resonance frequency of all the overtone modes of the resonator were measured in transmission. The resonator is capacitively and weakly coupled to both input and output circuits. The weak coupling assures that the unloaded quality factor Q_{u} is approximately equal to the loaded quality factor Q_{L}. In the stripline geometry, because the rf field penetrates the substrates, one must have low dielectric losses in the substrates to achieve high Q. The unloaded Q is given by
+
+\[1/Q_{u}=1/Q_{c}+\tan\delta=af^{\beta}+\tan\delta,\] (1)
+
+where Q_{c} is the Q of the superconductor and tan \delta is the loss tangent of the dielectric substrate. We and others [13, 14] have found that Q_{c} is proportional to f^{-1} at zero applied field, which implies that the surface resistance is proportional to f^{2}. However, \beta\neq 1 in an applied field B>\mu_{0}H_{c1}, where H_{c1} is the field at which flux penetrates the sample. We assume that tan \delta is independent of frequency and magnetic field in the frequency range 1-20 GHz. By plotting Q_{u} versus f we determine tan \delta\approx 5\times 10^{-6} at 4.3 K in the LaAlO_{3} substrates that we used and verify that substrate losses are not limiting the measured Q that is used to calculate R_{s}. Radiation losses can be neglected because the ground planes serve to confine the fields inside the resonator and the radiation Q is greater than 3\times 10^{6}.
+
+The experiments were carried out using a superconducting magnet, and B was applied parallel to the c axis of the YBCO, and thus perpendicular to the stripline structure and to the surface of the films. In this geometry, a large demagnetizing effect results in vortices penetrating the films in an applied dc field that is much smaller than the bulk H_{c1}. The exact experimental determination of the demagnetizing coefficient is not easy. To check the flux penetration in our resonator, we removed the center conductor of the stripline resonator (see Fig. 1) and put at its location a Hall sensor. In applied fields greater than \approx 0.1 T the field between the ground planes is measured to be equal to the applied field.
+
+For the stripline shown in Fig. 1 the rf current distribution in zero dc field has been calculated by Sheen _et al._[15] The rf current density, which flows in the z direction along the line perpendicular to the applied external dc magnetic field, is nonuniform along the length and across the width of the strip line. As a function of position z along the length l of the line, the total current
+
+Figure 1: Schematic three-dimensional view of the stripline resonator. (a) Patterned center line. The rf current J_{\rm rf} flows along the z direction. (b) Stripline resonator showing the ground planes. The applied dc magnetic field is along the y direction.
+
+  is given by
+
+\[I_{\rm rf}=I_{0}\sin(n\pi z/l),\] (2)
+
+where n is the resonance mode number. In zero field, across the width of the line, the current density J_{\rm rf} is highest at the edges and decreases toward the center with the characteristic length \lambda^{\prime}, the microwave penetration depth. In the mixed state, the Lorentz force arising from the rf current causes the vortices to oscillate. The vortex response gives rise to a redistribution of the rf currents and thus \lambda^{\prime} is affected. There are at least three contributions to \lambda^{\prime}: one from Cooper pairs, one from the vortices, and one from the quasiparticles. Thus \lambda^{\prime} depends not only on temperature, but also on the microwave frequency and applied dc magnetic field, as will be described in Sec. IV. In these measurements the rf current is used to probe the vortex structure and the rf power is kept low enough that the Q values are only weakly dependent on the rf power. The value of \lambda^{\prime}(f,B) is determined by measuring the frequency of the fundamental and overtone resonances of the strip-line resonator as a function of B at a given temperature. The resonant frequency is proportional to 1/\sqrt{L}, where L is the inductance per unit length of the stripline which depends upon \lambda^{\prime}, and L(\lambda^{\prime}) has been calculated numerically from the current distribution.[15] The relationship
+
+\[\frac{\Delta f}{f}=\sqrt{L(\lambda^{\prime})}\frac{d}{d\lambda^{\prime}}\biggl{(} \frac{1}{\sqrt{L(\lambda^{\prime})}}\biggr{)}\Delta\lambda^{\prime}\] (3)
+
+enables us to calculate \lambda^{\prime}(B) at each resonant frequency if we know \lambda^{\prime}(B=0). In zero field, \lambda^{\prime} is the usual penetration depth which in the two-fluid model is given by
+
+\[\lambda(T)=\frac{\lambda(0)}{[1-(T/T_{\rm c})^{4}]^{1/2}}.\] (4)
+
+Since only frequency shifts are measured, we do not have any direct determination of \lambda(0)=\lambda^{\prime} (T=0, B=0). The determination of \lambda(0) is model dependent and we have used a two-fluid-model fit of the data at f(T)(Refs. 13 and 14) to obtain an accurate estimate of \lambda^{\prime}(T=0,B=0). Study of the behavior of \lambda(T,B=0) is a problem of some importance,[16, 17, 18, 19] but is not the subject of this paper. We found that a two-fluid-model fit to our experimental data[20] gives us a \lambda(0) value with an accuracy of 20%. The value thus obtained for the two films considered in this study is \lambda(0)=170 nm. As will be seen below, our findings are not strongly influenced by the functional form of the temperature dependence of \lambda^{\prime}.
+
+The R_{s} is calculated from the measured Q and from f_{0} according to the relationship[14, 15]
+
+\[R_{s}=\frac{\Gamma f_{0}}{\Delta(\lambda^{\prime}/d)Q},\] (5)
+
+where \Gamma is a geometrical factor (\Gamma=0.41\Omega/GHz in our case) and \Delta(\lambda^{\prime}/d) is a correction factor calculated from the current distribution, which is important when \lambda^{\prime}/d (d is the thickness of the film) becomes comparable to unity.[14, 15]
+
+## III YbCO films
+
+The films used to fabricate the stripline resonators reported here were made by an off-axis magneton-sputtering process that was reported previously.[21, 22] They are single-phase films with the c axis perpendicular to the plane of the film. We concentrate here on results from two resonators. A resonator (see Fig. 1) consists of three YBCO thin films clamped together. All the films were deposited on LaAlO_{3} substrates. To obtain the meander line that constitutes the center conductor of the resonator, YBCO was deposited directly on a 10 \times 10-mm^{2} substrate for resonator No. 1, and on a 2-in.-diameter wafer that was subsequently cut into 10 \times 10-mm^{2} pieces for resonator No. 2. The lines were patterned by standard photolithography and were etched using 0.25% phosphoric acid in water. The R_{s} and \lambda^{\prime} of the patterned center conductor dominate the overall properties of the resonator, and so the influence of the ground planes can be neglected when they are of comparable quality (i.e., grown under exactly the same conditions) to the center conductor. The parameters of the films are summarized in Table 1. The dc resistivity
+
+\begin{table}
+\begin{tabular}{c||c c c c c|c c c c}  & \multicolumn{4}{c|}{dc properties} & \multicolumn{4}{c}{rf properties} \\ Sample & d & T_{\rm c} & \rho_{0} & \rho_{1} & J_{\rm e0} & f & T & R_{s} & \lambda (0) \\ number & (\mum) & (R=0) & (\mu\Omega cm) & (\mu\Omega cm K^{-1}) & (A/cm^{2}) & (GHz) & (K) & (\Omega) & (Å) \\ No. 1 & 0.3 & 90.4^{\rm a} & – & – & 1.2\times 10^{\rm fb} & 1.46 & 6.7 & 6.75\times 10^{-8} & \\  & & & & & & 14.6 & 4.3 & 2.00\times 10^{-4} & 1700 \\  & & & & & & 1.24 & 6.7 & 1.95\times 10^{-6  \[\rho(T)=\rho_{0}+\rho_{1}T\] (6)
+
+was determined in a dc measurement using a four-point technique on a separate film of similar quality.
+
+## IV Model of vortex dynamics
+
+As discussed in Sec. II we have experimentally verified that at fields of 0.1 T and greater, uniform penetration of flux through the ground planes has occurred and the field seen by the center conductor is uniform and equal to the applied field.
+
+The penetration depth of an oscillating field in the presence of a dc field in type II superconductors has been the subject of several papers.[8, 9, 10, 23, 24, 25, 26] This experimental situation was initially modelled by Campbell [25, 26] who considered the case of a small variable field b_{\rm rf}\sin\omega t superimposed on a large static field B\gg b_{\rm rf}, both of which were parallel to the surface of the superconductor with B\parallel b_{\rm rf} (note that the geometry used in the experiments reported here is B\perp b_{\rm rf}). Based on the experimental observation that for small b_{\rm rf} the displacement of vortices is reversible, Campbell came to the conclusion that the vortices remain pinned and that they oscillate with the same frequency as the rf frequency within their potential wells rather than jumping over potential barriers. Campbell introduced a new screening length, the pinning penetration depth \lambda_{C}, to describe the ac-field penetration within the superconductor. This penetration depth \lambda_{C}(T,B) is a real quantity, independent of b_{\rm rf} and frequency \omega, and describes how far the compressional waves in the flux-line lattice, generated in this geometry, penetrate into the material.
+
+Recent studies[8, 9, 10, 23] generalize Campbell's penetration depth, in various geometries (including the B\perp b_{\rm rf} configuration used in our measurements), to include the influence of flux pinning, flux viscous drag, flux creep, and the response of normal quasiparticle excitations. Because of flux-line viscous drag and flux creep, the frequency enters the final expression for the microwave penetration depth in the presence of vortices, \lambda_{\rm ac}, which is a complex quantity. The relationship
+
+\[Z_{a}=i\mu_{0}\omega\lambda_{\rm ac}(\omega,B,T)=R_{s}+i\mu_{0}\omega{\rm Re}( \lambda_{\rm ac})\] (7)
+
+makes it clear that the vortex dynamics have a direct influence on the measured surface resistance and microwave penetration depth \lambda^{\prime} which in an applied dc magnetic field is equal to {\rm Re}(\lambda_{\rm ac}).
+
+The derivation of \lambda_{\rm ac} has been extensively described by Coffey and Clem.[8, 9, 10] To define all the quantities that are discussed below, we examine the vortex equation of motion (per unit length), which was the basis of the derivation of \lambda_{\rm ac}:
+
+\[\eta\ddot{\bf u}(x,t)+{\bf F}_{p}(x,t)={\bf J}(x,t)\times\dot{\bf B}\phi_{0}+{ \bf F}_{T}(x,t).\] (8)
+
+In Eq. (8), \eta is the viscous drag coefficient in the absence of pinning and flux creep, {\bf u} is the vortex displacement from its equilibrium pinning site, {\bf F}_{p} is the restoring force due to the pinning potential, {\bf J} is the current density, \phi_{0} is the flux quantum, and {\bf F}_{T} represents a random thermal (Langevin) force. By definition {\bf F}_{p}=[\partial U(x)/\partial x]\dot{\bf x} where U(x) is the pinning potential. If vortex oscillation amplitudes are small compared with the radius of the pinning well, it can be assumed that the pinning force is proportional to {\bf u}: {\bf F}_{p}\approx-\alpha_{p}{\bf u}, where \alpha_{p} is the proportionality factor and is known as the Labusch parameter.[27] There is little experimental evidence about the exact nature of the pinning sites in YBCO thin films and it would be reasonable to assume some randomness in the heights of the energy barriers between the potential minima where vortices are pinned. Because this distribution is unknown, it is usual to suppose the existence of a single activation energy U_{0}(T,B), typical of the material of the sample under study. In the Coffey-Clem model,[8, 9, 10] the pinning potential U(T,B) is assumed to be periodic and to have the form
+
+\[U(x,T,B)=\frac{U_{0}(T,B)}{2}\biggl{[}1-\cos(2\pi x/a_{p})\biggr{]},\] (9)
+
+where a_{p} is the spacing between pinning sites. We deduce that
+
+\[\alpha_{p}=\frac{\theta^{2}U(x,T,B)}{\ell\partial x^{2}}=(2\pi/a_{p})^{2} \frac{U_{0}}{2\ell},\] (10)
+
+where \ell is the characteristic length of a moving vortex.[8, 9, 10]
+
+Because of the relatively low U_{0} in high-temperature superconductors,[8, 9, 10] at sufficiently low frequency a vortex may have time during each half cycle to wander away from its potential well and to get trapped by another pinning site before the driving force reverses direction. Thermal agitation increases the probability for a vortex to break away from its potential well; this effect is included in the vortex equation of motion [Eq. (8)] through the term {\bf F}_{T}(x,t).[8, 9, 10, 28] In this framework Coffey and Clem calculated that
+
+\[\lambda_{\rm ac}=\left\{\frac{\lambda^{2}+\lambda_{C}^{2}\left(\frac{f(\nu)- i\epsilon(\nu)(\omega_{p}/\omega)}{1+i(\omega/\omega_{p})f(\nu)}\right)}{1+2i( \lambda^{2}/\delta_{\rm rf}^{2})}\right\}^{\frac{1}{2}}.\] (11)
+
+Here, \lambda_{C} is the Campbell penetration depth given by
+
+\[\lambda_{C}=\left(\frac{B\phi_{0}}{\mu_{0}\alpha_{p}}\right)^{1/2},\] (12)
+
+and the penetration depth in the absence of vortices, the London penetration depth \lambda, is given by
+
+\[\lambda=\frac{\lambda_{0}}{[1-(T/T_{c})^{4}]^{1/2}[1-(B/B_{\rm c2})]^{1/2}},\] (13)
+
+where B_{\rm c2} is the upper critical field and the pinning frequency is \omega_{p}=\alpha_{p}/\eta, while \delta_{\rm rf} is the normal-fluid skin depth given by
+
+\[\delta_{\rm rf}=\left(\frac{2\rho(T)B}{\mu_{0}\omega B_{\rm c2}}\right)^{1/2},\] (14)  where \rho(T) is the dc resistivity defined in Eq. (6). The factors in Eq. (11) involving Bessel functions are
+
+\[f(\nu)=\frac{I_{0}^{2}(\nu)-1}{I_{0}(\nu)I_{1}(\nu)}\] (15)
+
+and
+
+\[\epsilon(\nu)=\frac{1}{I_{0}^{2}(\nu)}.\] (16)
+
+Here, \nu=U_{0}(T,B)/2k_{B}T, while I_{0}(\nu) and I_{1}(\nu) are modified Bessel functions of the first kind. A characteristic relaxation time \tau for the vortices is given by
+
+\[\tau=\frac{1}{\omega_{p}}f(\nu)=\frac{1}{\omega_{p}}\frac{I_{0}^{2}(\nu)-1}{I_ {0}(\nu)I_{1}(\nu)}.\] (17)
+
+Two characteristic frequencies may be defined: \omega_{0}=(\alpha_{p}/\eta)I_{1}(\nu)/I_{0}(\nu) and \omega_{c}=\omega_{0}/[I_{0}^{2}(\nu)-1]^{1/2}. Therefore, at a given temperature and magnetic field, there are three frequency regimes.[29] For \omega<\omega_{c}, the vortex dynamics is dominated by thermally activated flux creep, and the real part of \lambda_{\rm ac} from Eq. (11) depends strongly on frequency. For \omega_{c}<\omega<\omega_{0}, pinning effects are dominant, \lambda_{\rm ac} is determined by the reversible oscillations of vortices within their potential wells, and \lambda_{\rm ac} is frequency independent. Finally, for \omega>\omega_{0}, vortices behave as if they are not pinned and they dissipate energy through a free viscous motion. As the high-frequency limit is approached, {\rm Re}(\lambda_{\rm ac})/{\rm Im}(\lambda_{\rm ac}) decreases and approaches 1 as in a normal metal. These results of the Coffey-Clem model are strictly valid in the case of a semi-infinite medium, where the superconductor fills the half space y>0. We used the Coffey-Clem model to quantitatively explain our results. No correction terms need to be added to the calculated R_{s} and \lambda^{\prime}, since the finite thickness effects have already been taken into account in the measured R_{s} and \lambda^{\prime} through the term \Delta(\lambda/d) in R_{s} [see Eq. (5)] and through the penetration-depth dependence of the inductance L(\lambda^{\prime}) in the calculation of \lambda^{\prime} [see Eq. (3)].
+
+## V Experimental results
+
+All the results shown below have been obtained with samples cooled in zero applied field. The measured R_{s} as a function of temperature at 1.5 GHz, for a dc B from 0 to 3 T, is shown in Fig. 2. As discussed in Sec. II, the field is uniform over the position of the stripline resonator. For large B, close to T_{c}, the signal-to-noise ratio is degraded because the coupling capacitance of the resonator, C_{p}, has been chosen so that the resonator is slightly undercoupled at T=4.3 K and at B=0 T. As T or B is increased, Q decreases while C_{p} remains fixed. Thus, the coupling of the resonator to the external circuit decreases and the insertion loss increases. The weak coupling of the resonator results in a low signal-to-noise ratio at high temperature and field. Nevertheless, as shown in Fig. 2, the data at T<0.9T_{c} are consistent with earlier reports[2, 3] that already showed the large effect of the application of an external dc magnetic field on the surface resistance of YBCO thin films. We will focus next on experimental results obtained at T=4.3 K. This low temperature was originally chosen to avoid the complication of thermally activated motion of vortices in the study of the vortex dynamics in our YBCO thin films. As will be seen below, however, the signature of thermally activated motion of vortices is present in our data at 4.3 K.
+
+### Surface impedance as a function of dc magnetic field
+
+#### v.1.1 Microwave penetration depth
+
+Figure 3 shows \lambda^{\prime}(B) obtained from measurements of \Delta f through Eqs. (3) and (4) at T=4.3 K for three different frequencies 1.24, 6.25, and 13.8 GHz. To obtain these values, \lambda^{\prime}(B=0) was assumed to be 0.17 \mum, and was obtained as discussed in Sec. II by fitting the zero-field \Delta f(T) data. In high field (B>1 T), a quasilinear
+
+Figure 3: Microwave penetration depth \lambda^{\prime} at T=4.3 K as a function of external magnetic field at three different frequencies for sample No. 2: (\circ) f=1.24 GHz, (\square) f=6.25 GHz, (\triangle) f=13.8 GHz.
+
+Figure 2: Surface resistance for sample No. 1 at the fundamental frequency (f=1.46 GHz) at various magnetic fields as a function of temperature.
+
+  increase of \lambda^{\prime} with applied field is observed. This behavior is encountered for all the measured modes (1.22 GHz <f< 20 GHz). As can be seen in Fig. 3, \lambda^{\prime} increases more slowly at higher frequencies. From \lambda^{\prime}(B) at a given temperature, it is possible to estimate \alpha_{p}. In Eq. (11) for \lambda_{\rm ac}, at 4.3 K and in a small reduced field b=B/B_{c2}, the term (\lambda/\delta_{\rm rf})^{2} can be neglected, as well as the effects of thermal agitation in first approximation. Thus, we obtain
+
+\[\lambda_{\rm ac}^{2}\approx\lambda^{2}+\frac{\lambda_{C}^{2}}{(1+i\omega/ \omega_{p})},\] (18)
+
+with the pinning frequency \omega_{p}=2\pi f_{p}=\alpha_{p}/\eta. From previous experiments,[2] we expect f_{p} to be in the range 20-50 GHz. At our fundamental frequency (1.24 GHz for resonator No. 2 and 1.46 GHz for resonator No. 1) \omega/\omega_{p}\approx 0.05 and \lambda_{\rm ac}^{2}\approx\lambda^{\prime 2}\approx\lambda^{2}+\lambda_{C}^{2}. Figure 4 shows \lambda^{\prime 2}-\lambda^{2} as a function of B in sample No. 2 at 1.24 GHz. We see that \lambda^{\prime 2}-\lambda^{2} is linear in field and that consequently \alpha_{p} [see Eqs. (12) and (18)] is independent of B. From the slope in Fig. 4 we determine \alpha_{p}=3.4\times 10^{5} N/m^{2} in sample No. 2, and similarly \alpha_{p}=2.2\times 10^{5} N/m^{2} in sample No. 1 at T=4.3 K. The determination of \alpha_{p} enables us to calculate the ratio r_{f}/J_{c}=\phi_{0}/\alpha_{p} where r_{f} is the range of the pinning potential. We obtain r_{f}/J_{c}(T=4.3,B=1)=6.6\times 10^{-21} m^{3}/A. The lack of any significant dependence of \alpha_{p} upon B for 0.5<B<5 T is consistent with the very weak field dependence of J_{c} that has been measured by other authors[30] in the same field range. We conclude that for 0.5<B<5 T and at T=4.3 K, interactions between vortices are negligible and that vortices are individually pinned. The experimentally determined linear increase of \lambda^{\prime}(B) (Fig. 3) results from the relatively small Campbell penetration depth. Namely, the relationship \lambda^{\prime 2}\approx\lambda^{2}+\lambda_{C}^{2}, in the case \lambda_{C}\ll\lambda, yields \lambda^{\prime}\approx\lambda+\lambda_{C}^{2}/2\lambda and for B\ll B_{c2}, and we see from Eqs. (12) and (13) that \lambda^{\prime} increases linearly with B.
+
+#### iii.2.2 Surface resistance
+
+The measured variation of R_{s} with applied magnetic field at two frequencies 1.24 and 13.8 GHz and at T=4.3 K is shown in Fig. 5. As is clearly seen in the figure, R_{s}(B) depends on the microwave frequency. At low frequency (f< 10 GHz), R_{s}\propto B^{\alpha} with \alpha<1. At high frequency (f>10 GHz), \alpha\simeq 1.
+
+### Surface impedance as a function of frequency
+
+Figure 6 shows R_{s} versus frequency for B=0, 1, and 3.5 T for sample No. 2 at 4.3 K. In zero field, R_{s} is
+
+ is weaker than f^{2}. The experimental curve for B=1 T in Fig. 6 is presented in Fig. 7(a) along with the result of the Coffey-Clem model which is discussed below. Figure 7(b) presents the penetration depth change \Delta\lambda^{\prime}(f) associated with the R_{\bullet}(f) increase shown in Fig. 7(a). In Fig. 8, we see R_{\bullet}(f) at T=4.3 K and B=1 T for resonator No. 1, and a calculation of the Coffey-Clem model. Both Fig. 7(a) and Fig. 8 show more clearly than Fig. 6 that R_{\bullet}(f) at B=1 T does not have a power law dependence on f. At B=1 T, the variation of \lambda^{\prime} with f is found to be very slow between 1.24 and \sim20 GHz as shown in Fig. 7(b). For B>1 T, the behavior of R_{\bullet}(f) and \lambda^{\prime}(f) is qualitatively the same as in a field of 1 T.
+
+The relation Z_{\bullet}=i\omega\mu_{0}\lambda_{\infty} and the general expression [Eq. (11)] for \lambda_{\infty} have been used to fit our experimental data for R_{\bullet}(f) and \lambda^{\prime}(f). There are six parameters: \lambda(T=4.3 K, B=0 T), \alpha_{p}, \rho_{0}, \rho_{1}, f_{p}, and \nu=U_{0}(T,B)/2k_{B}T. Some parameters can be determined independently, for example \lambda(T=4.3 K, B=0 T), which has been determined separately from the fit of the curve \lambda^{\prime}(T) in zero field to the two-fluid model, yielding \lambda^{\prime}(T=4.3,B=0)\approx\lambda(0)=0.170\mum. As discussed above, an initial estimate for \alpha_{p} has been obtained from the slope of [\lambda^{\prime 2}(B)-\lambda^{2}(B)] and then adjusted to optimize the fit of the curve \lambda^{\prime}(f). It was found that \alpha_{p} was the parameter with the strongest effect on the fit of the calculated \lambda^{\prime}(f) curve to the experimental points. Specifically, \alpha_{p} controls the value of \lambda^{\prime} at low frequency. We thus obtain a value of 3.5 \times 10^{5} N/m^{2} for \alpha_{p} in sample No. 2 and 2.2 \times 10^{5} N/m^{2} in sample No. 1. With the values of \rho_{0} and \rho_{1} [see Eq. (6)] given in Table 1, the ratio (\lambda/\delta_{at})^{2} in Eq. (11) is found to be much smaller than 1. So R_{\bullet} and \lambda^{\prime} are relatively insensitive to \rho_{0} and \rho_{1}. Finally, only two parameters, f_{p}, the pinning frequency, and \nu, the ratio U_{0}(T,B)/2k_{B}T, are left to adjust in fitting of the R_{\bullet}(f) data to the Coffey-Clem model. These two parameters influence R_{\bullet}(f) in different ways: f_{p} has the strongest effect at high frequency, while \nu affects mostly the low-frequency part. Thus f_{p} and \nu can be determined quite independently by this procedure, yielding f_{p}=23.75 GHz and \nu=3.8 for sample No. 1 (Fig. 8), and f_{p}=41.54 GHz and \nu=4.5 for sample No. 2 (Fig. 7), at B=1 T and T=4.3 K. This gives U_{0}(T=4.3,B=1)=32.5 K for resonator No. 1 and U_{0}(T=4.3,B=1)=39 K for resonator No. 2. From the two relationships \alpha_{p}=(2\pi/a_{p})^{2}U_{0}/2\ell and \nu=U_{0}/2k_{B}T, we calculate a volume V_{v} characterizing the vortex pinning in the Coffey-Clem model where V_{v}=a_{p}^{2}\ell=3.5\times 10^{-26} m^{3} for sample No. 1 and a_{p}^{2}\ell=3\times 10^{-26} m^{3} for sample No. 2. These results are summarized in Table 2.
+
+The small \nu values indicate that for f\leq 10 GHz, flux creep is important and is responsible for the high R_{\bullet}(f) value at low frequency, as shown in Fig. 8. In this figure, we compare two different fitting curves, corresponding, respectively, to the cases \nu=U_{0}(T,B)/2k_{B}T\gg 1 (where flux creep is negligible) and \nu=U_{0}(T,B)/2k_{B}T<1 (where flux creep is significant), with the same f_{p}. We see that in the case of \nu\gg 1, the calculated R_{\bullet} is much smaller than the measured one at low frequency, and is proportional to f^{2} until close to f_{p}. At high frequency  but still below f_{p}, the probability for a vortex to hop from its initial pinning site to a neighboring site within the half period of the microwave oscillation decreases, and the two curves corresponding to \nu\gg 1 and \nu=3.8 nearly coincide. Although the effects of flux creep are evident in R_{s} as expected, the influence of flux creep on the microwave penetration depth is weak in the frequency range of these measurements in agreement with the Coffey-Clem model and as discussed by van der Beek _et al._[29]
+
+### Surface impedance as a function of rf current
+
+The finding of a large influence of flux creep at low frequency suggests that R_{s}, at a given frequency and dc field, would depend on the rf current density since displacement of the vortices due to the Lorentz force of the rf current leads to an increase in the probability of thermal activation. In Fig. 9, R_{s} at f=1.24 GHz, T=4.7 K, B=0, and 1 T is plotted as a function of I_{\rm rf}, the total rf current for resonator No. 2. This plot shows that, for B=1 T, R_{s} depends weakly on the current for I_{\rm rf}\leq 0.06 A, and that for I_{\rm rf}\geq 0.06 A the dissipation increases sharply. At I_{\rm rf}=0.06 A, the peak current density at the edges of the central line is J_{\rm rf}^{\rm peak}\equiv J_{T}=1.8\times 10^{6} A/cm^{2}. In the inner part of the central line, the current density is lower. All the data presented in Secs. V.1 and V.2 were taken at the same rf power level. Thus we conclude that the measurements were performed at power levels at which Z_{s} is independent of the rf power.
+
+The determination of J_{T} from the R_{s}(I_{\rm rf}) data enables us to calculate the displacement of a vortex from its equilibrium position u(x,\omega,\nu,T,B,t) as [10]
+
+\[u(x,\omega,\nu,T,B,t)=\frac{i\phi_{0}}{\eta}\mu_{v}(\omega,\nu,T)J_{T}(x,T,B),\] (19)
+
+where
+
+\[\mu_{v}(\omega,\nu,T)=\frac{1}{\eta}\left[1+\left(\frac{i\omega\eta I_{0}(\nu) }{\alpha_{p}I_{1}(\nu)}+\frac{1}{I_{0}^{2}(\nu)-1}\right)^{-1}\right]^{-1}\] (20)
+
+is the complex-valued dynamic mobility of vortices in a periodic potential. Taking f=1.2 GHz, \alpha_{p}=3.5\times 10^{5} N/m^{2}, \eta=1.34\times 10^{-6} N s/m^{2}, \nu=4.5, and J=J_{T}=1.8\times 10^{6} A/cm^{2}, we determine that the vortex oscillation amplitude |u|=u_{T}=1.16 A at the fundamental frequency.
+
+The ratio r_{f}/J_{c}=\phi_{0}/\alpha_{p}\simeq u_{T}/J_{T} was calculated in Sec. V.1.1. The values that we find for u_{T} and J_{T} are smaller than those quoted in the literature for r_{f} and J_{c}. For reduced field b<0.2, one usually considers r_{f}\simeq\xi as calculated by Brandt. [32] This value would give r_{f}\approx 20 A for YBCO, while we determine u_{T}=1.16 A. Previous experimental data show that J_{c}(T=4.3,B=1) is usually 2-3 times smaller than J_{c0}=J_{c}(T=4.3,B=0) and in sample No. 2, J_{c0} exceeds our measurement capability of 1.5\times 10^{7} A/cm^{2}, and so we expect J_{c}(T=4.3,B=1)>10^{7} A/cm^{2} although not directly measured. We suggest that the origin of the nonlinearity of R_{s} at J>J_{T} is a depinning of vortices near the edges of the line. The large reduction in J_{c} and in r_{f} that we measure may be due to flux creep. In a recent paper, van der Beek _et al._[29] present a study of the onset of nonlinearity in the ac response of a superconductor in the mixed state and consider the influence of flux creep.
+
+### Comparison with previous results
+
+We have been able to determine the parameters of the Coffey-Clem model \alpha_{p}, f_{p}, and \nu that characterize the vortex dynamics in YBCO thin films. Values for these parameters are summarized in Table 2. Next we show how these values compare with previously reported data in different YBCO samples using the same field orientation (B\parallel c axis).
+
+The \alpha_{p} and f_{p} values are in good agreement with \alpha_{p}=2.7\times 10^{5} N/m^{2} and f_{p}\approx 40 GHz deduced by Pambianchi _et al._[2] from measurements of R_{s} in YBCO thin films at B<0.2 T and f=11 GHz. These authors observed that R_{s}(B) and X_{s}(B) are linear in B. As they show, a linearization of the Coffey-Clem expression for Z_{s} when B/B_{c2}\ll 1 results in R_{s}\propto B and X_{s}\propto B.
+
+Wu and Sridhar [24] measured \lambda^{\prime} in a YBCO single crystal at 6 MHz. They reported that (\lambda^{\prime}-\lambda)^{2} is a linear function of applied field for B lower than 0.1 T at T=9 K. Using the relation \lambda^{\prime}\approx\lambda+\lambda_{C}^{2}/2\lambda which is valid if \lambda_{C}^{2}/\lambda^{2}\ll 1, one concludes that \alpha_{p}\propto B^{1/2}. They
+
+\begin{table}
+\begin{tabular}{c||c c c c} Sample & \alpha_{p} & f_{p} & \nu & U_{0} \\ number & (N/m^{2}) & (GHz) & & (K) \\ \hline No. 1 & 2.2\pm 0.2\times 10^{5} & 23.75\pm 5.0 & 3.8\pm 0.02 & 32.5\pm 0.5 \\ No. 2 & 3.5\pm 0.2\times 10^{6} & 41.5\pm 5.0 & 4.5\pm 0.02 & 39.0\pm 0.5 \\ \end{tabular}
+\end{table}
+Table 2: Values of the four parameters \alpha_{p}, f_{p}, \nu, and U_{0} of the Coffey-Clem model determined from our data.
+
+  obtained \alpha_{p}=2.1\times 10^{4} N/m^{2} at low temperature. Our results depart from those of Wu and Sridhar in two ways: First, we obtain a much larger \alpha_{p} value in thin films than they do in a single crystal, and second, we find that \alpha_{p} is field independent, while they find \alpha_{p}\propto B^{1/2}.
+
+In other work, the dependence \alpha_{p}\propto B^{3/2} has been measured in a Bi_{2}Sr_{2}CaCu_{2}O_{8} polycrystalline sample [33] and in a NbTi powder sample [54] in vibrating-reed mechanical resonator experiments, [4, 5] performed at frequencies in the kHz range.
+
+## VI Discussion
+
+The work presented in this paper is one of the very few swept-frequency experiments that have been performed on the temperature and magnetic field dependence of the surface impedance. To the best of our knowledge, only two other papers report the frequency dependence of the ac impedance in a dc magnetic field. [38, 36] In these experiments f<600 MHz and the authors focus on the results obtained at high temperature to investigate the existence of a vortex-glass phase in a large magnetic field using scaling arguments. To interpret our results, obtained at 1.24 <f<20 GHz and T=4.3 K, we used the phenomenological model of Coffey and Clem, which does not involve any phase transition, but which derives important parameters such as the pinning force constant \alpha_{p}, the pinning frequency f_{p}, and the pinning activation energy U_{0}. Though the Coffey-Clem model was not developed explicitly for a vortex-glass state, the model does assume that the vortices are uncorrelated. In the low-frequency region of our experimental measurements these conditions are met and the Coffey-Clem model gives a good fit to the data.
+
+From the fit of our experimental results to the Coffey-Clem model, we have demonstrated the importance of thermally activated flux creep at low temperature in YBCO films. The small magnitude of the ratio U_{0}/2k_{B}T is responsible for a relatively large R_{s} in an applied dc magnetic field at low temperature and at 1.2 GHz.
+
+In all high-T_{c} superconductors, flux creep is also responsible for the observed rapid decay of the dc magnetization, and thermally activated flux flow [37] is the key to understanding the resistive transitions in a dc field at high temperature. Next we review some recently reported experiments performed both at low temperature and in the vicinity of T_{c}. We will see how the small U_{0} that we obtained at low temperature from our high-frequency experiment compares with values determined in other experiments.
+
+Magnetization-decay experiments yield a value of U_{0} which is extracted from the rate of decay based on a phenomenological model. Three models are usually employed, leading to model-dependent U_{0} values that can vary significantly. The time scale of magnetization-decay experiments is very long compared to that of the microwave frequency measurements, in which flux creep is on a time scale \tau approximately equal to 1/(2\pi f). Thus in our experiments \tau\approx 7.7\times 10^{-12} s, whereas the observation time involved in a magnetization-decay experiment is greater than 1 s. Hence dc magnetization experiments, probing vortex motion over a long time scale, observe the response of vortices more strongly pinned than those that give rise to the microwave response.
+
+Recently, however, a dynamical relaxation technique has been developed [38] which enables the determination of a U_{0} sensitive to fast relaxation and which therefore provides U_{0} values to be compared with our microwave measurements. Furthermore, by definition, these experiments are performed at a J comparable to J_{T} in our experiments, thus making a comparison of U_{0} obtained in these two cases reasonable.
+
+By using the dynamical relaxation technique, \nu values have been derived by Douwes and Kes [38] in YBCO thin films containing screw dislocations. They compare two \nu values derived from two distinct models. At B=1 T and at T=21.8 K, they obtained \nu\approx 20 using the Kim-Anderson model and \nu\approx 10 using the logarithmic model. Applying the same technique to the investigation of YBCO thin films, Wen _et al._[39] analyzed their data using the collective-pinning theory. Agreement between their results and the collective-pinning model is found in the intermediate-temperature range (20 K <T<65 K), but at low temperature (T<10 K), strong disagreement is found that is attributed to an abnormally fast relaxation. The failure of the relaxation rate to extrapolate to zero when T\to 0 K has been observed in other experiments carried out below 1 K in various superconducting materials [40] and this effect is attributed to quantum tunneling of vortices.
+
+The experiment of Wen _et al._[39] provides two useful pieces of information. First, from this experiment we learn that we cannot get \nu(T=4.3) by extrapolation results obtained at T>20 K. Thus, an extrapolation of the Douwes and Kes [38] results from T=21.8 K to T=4.3 K may be inappropriate for a comparison with our results. Second, in this experiment, the possibility of a fast relaxation rate at T=4.3 K is shown. This latter point is where the work of Wen _et al._[39] and our microwave studies agree.
+
+At high temperature, close to T_{c}, thermal effects on flux motion have been found to be important in the vicinity of the irreversibility temperature T_{\rm irr}(B). [41] The irreversibility temperature is the temperature where thermal depinning of vortices occurs. [42] A list of various experiments showing evidence for the thermal depinning of vortices has been given by Brandt. [42] Recently Owliaei _et al._, [3] using the Coffey-Clem model to interpret a field crossover in the vortex response at microwave frequency (f=10 GHz) in YBCO thin films, obtained a line in the B-T plane that coincides with the irreversibility line. Owliaei _et al._ obtain U_{0}=1.8\times 10^{4} K at B=1 T. A value of about the same magnitude was obtained much earlier by Palstra _et al._[43]
+
+The U_{0} values determined from experiments at high temperature are several orders of magnitude higher than the low-temperature U_{0} determined in the experiment presented in this paper. These disparate U_{0} values must arise from different origins. The vortex responses at microwave frequency at T\approx T_{\rm irr} and when T=4.3 K  probably correspond to different vortex dynamics and different vortex phases. At high temperature the pinning activation energy is associated with plastic deformation of the vortex lattice,[44, 45] and U_{0}\approx U_{\rm pl} has been estimated to be U_{\rm pl}\approx\phi_{0}^{2}a_{0}/8\pi^{2}\Gamma\lambda_{\rm pl}^{2}, where \Gamma=\lambda_{\perp}/\lambda_{\parallel} is the anisotropy factor, \lambda_{\perp} and \lambda_{\parallel} are, respectively, the London penetration depths for B\perp c axis and B\parallel c axis, and a_{0}=\phi_{0}/B is the distance between neighboring vortices. Taking \Gamma=5, B=1 T, and \lambda_{\parallel}=170 nm, we obtain U_{\rm pl}\approx 4500 K, a value that is of the same order of magnitude as that of Owliaei _et al._[3]
+
+We think that the low U_{0} that we determined in these experiments results from the interaction of the vortex lattice with a high density of randomly distributed defects in the films as described by Larkin and Ovchinnikov in their collective-pinning theory.[46] A large number of metastable configurations may exist for the pinned vortex lattice. In the case of three-dimensional collective-pinning theory, in the single-vortex limit[46] the correlated volume is given by V_{\rm c}=R_{\rm c}^{2}\ell=a_{0}^{2}\ell, where \ell and R_{\rm c} are, respectively, the lengths parallel and transverse to the magnetic field direction. Hence, V_{\rm c} contains only a segment of one vortex. At finite temperature, this vortex segment may hop between two states that are separated by a distance 2r_{f}. To draw a relationship between r_{f}, which is a parameter of the collective-pinning theory, and a_{p}, which is a parameter of the Coffey-Clem model, we must understand the physical meaning of r_{f}. Kes and van den Berg[47] defined r_{f} as the distance in which the elementary pinning force varies from +{\cal F}_{p} to -{\cal F}_{p}. Adopting this definition, we deduce r_{f}=a_{p}/2. The energy cost for the displacement of a vortex segment \ell over a distance r_{f} is the energy of the elastic deformation of the vortex line:
+
+\[U_{\rm el}=C_{44}(r_{f}/\ell)^{2}V_{\rm c},\] (21)
+
+where C_{44} is the tilt modulus of the vortex lattice. Sudbo and Brandt[48, 49, 50] showed that in high-\kappa superconductors (\kappa=\lambda/\xi), C_{44} is dispersive as a result of the nonlocal nature of the elastic energy when the vortex interaction range (\lambda) exceeds a_{0}. They calculated that C_{44}=C_{44}^{0}(k)+C_{44}^{corr}(k). In the limiting case of isolated vortices, the second term C_{44}^{corr}(k) is predominant and it is reduced by the anisotropy factor of \Gamma^{2}. We will use the approximate expression given by Vinokur _et al.[51]_ for C_{44} in the single-vortex limit in an anisotropic type II superconductor:
+
+\[\begin{array}{rcl}C_{44}&\approx&4\sqrt{3}C_{66}/\Gamma^{2},\\ &&\\ C_{66}&=&\phi_{0}B/(16\pi\mu_{0}\lambda_{\parallel}^{2}),\end{array}\] (22)
+
+where C_{66} is the small-field shear modulus of the vortex lattice. Replacing r_{f} by a_{p}/2 in Eq. (21), we obtain
+
+\[U_{\rm el}=\frac{\phi_{0}^{2}\sqrt{3}}{16\pi\mu_{0}\lambda_{\parallel}^{2} \Gamma^{2}}\frac{V_{\rm v}}{\ell}.\] (23)
+
+We note that for b=B/B_{c2}\ll 1, U_{\rm el} is very weakly dependent upon the magnetic field. From the collective-pinning theory,[52]\xi<\ell<a_{0} when (J_{e}-J)/J_{e}\lesssim 1. Taking \lambda_{\parallel}=170 nm, \Gamma=5, V_{\rm v}=3\times 10^{-26}, we calculate 4<U_{\rm el}<94 K. One of the basic assumptions of the collective-pinning theory is that U_{0} is of the order of the elastic energy of the moving vortex segment. In order to further explore the implications of U_{0} determined by the fit of our measurements to the Coffey-Clem model, we equate U_{0} with U_{\rm el}. We then find that \ell=23 A and a_{p}=39 A for resonator No. 1 and \ell=30 A and a_{p}=32 A for resonator No. 2. We note that \ell extends beyond several CuO_{2} twin planes and we confirm thereby the validity of the three-dimensional limit for YBCO. We thus determine r_{f}=20 A for resonator No. 1 and r_{f}=16 A for resonator No. 2. As predicted by Brandt,[32] we obtain r_{f}\approx\xi\approx 20 A. From the relationship r_{f}/J_{e}=6.6\times 10^{-21} m^{2}/A, we calculate J_{e}(T=4.3,B=1)=2.4\times 10^{7} A/cm^{2} in resonator No. 2. Although we do not have any direct measurement of J_{e}(T=4.3,B=1) to compare with the value obtained from our analysis, this value compares well with published data.[30] By incorporating microscopic aspects of the collective-pinning theory, we have been able to determine the correlated length of a vortex in the single-vortex regime \ell, some characteristic length of the pinning structure a_{p}, and the pinning range r_{p}, and we have been able to predict a value for J_{e}. The values of \ell, a_{p}, r_{f}, and J_{e} thus determined support our assumptions made for the analysis of the data.
+
+## VII Conclusion
+
+We have presented measurements of the microwave surface impedance Z_{s}(f,T,B)=R_{s}(f,T,B)+i\mu_{0}\omega\lambda^{\prime}(f,T,B) for YBCO thin films at T=4.3 K as a function of dc field B up to 5 T, microwave frequency 1.2 GHz <f<20 GHz, and rf current in the range 10^{-4} A <I_{\rm rf}<1 A. The static magnetic field is sufficiently large that there is uniform penetration of the field and the vortices are uniformly distributed. We found that, in this frequency and field range, the relative change of R_{s} is much larger than the relative change of \lambda^{\prime}. These changes are related and depend on the dynamics of the vortex lattice. The study of R_{s}(f) and \lambda^{\prime}(f) allows us to investigate the different time scales involved in the vortex lattice dynamics. At a frequency f, the processes that can be probed are those with a relaxation time \tau<1/(2f). The analysis of R_{s}(f) and \lambda^{\prime}(f), within the framework of the Coffey-Clem model, showed that for 1.2<f<20 GHz, vortices are in the Campbell regime; namely, the vortices oscillate within the potential well that defines the pinning site. But this frequency range is large enough to allow the observation of two other regimes at both extremes of our frequency measurement interval. At high frequency, dR_{s}(f)/df is decreasing, indicating that as the frequency is increased the vortex dynamics is evolving toward a free-flux-flow regime. At low frequency, a vortex may have time to break away from its potential well and to become pinned in another neighboring potential well. This is a thermally activated flux-creep process, and at low frequency it results in an increase in R_{s} relative to the value without flux creep. At low temperature and in a small reduced  field b=B/B_{c2}, we identified the energy barriers for flux motion to be generated by flux-line-lattice disorder, as explained by the collective-pinning theory. These barriers are much smaller than the energy barriers identified for thermally assisted flux flow, and are related to a plastic deformation of the flux-line lattice at much higher temperature.
+
+We have investigated the dynamics of vortices perpendicular to the CuO_{2} planes at low temperature. An extension of this work in three different directions is under way. First, because of the large structural anisotropy of YBCO, a large anisotropy of R_{\bullet}(f,T,B) is expected. The anisotropy of R_{\bullet} is being studied by rotating the externally applied field B in a plane perpendicular to the a-b plane of YBCO. Of particular interest is the situation where the vortices lie in the a-b planes of YBCO. Second, it would be interesting to explore the high-temperature region. In order to be able to measure R_{\bullet}(f) at T>70 K, the coupling of the resonator to the external circuit will be increased to improve the signal-to-noise ratio. Third, Coffey and Clem predicted the existence of nonlinear effects in the vortex dynamics. We are now investigating this phenomenon, measuring R_{\bullet}(I_{\rm rf}) and measuring the generation of a second harmonic of the fundamental microwave frequency.
+
+###### Acknowledgements.
+
+ One of the authors (S.R.) thanks the French Ministere de la Recherche et de l'Espace for financial support which made this research possible. At the MIT Lincoln Laboratory, the work was supported by the Advanced Research Projects Agency (ARPA) under the auspices of the Consortium for Superconducting Electronics (CSE). The work at the Rome Laboratory was sponsored by the Department of the Air Force, and the work at MIT by AFOSR Grant No. F4962-93-1-0160. We wish to thank R. P. Konieczka and D. Baker for device fabrication and Y. Habib for help with the measurements, G. Fitch for programming, and A. C. Anderson of MIT Lincoln Laboratory for supplying the high-T_{\rm c} films. We also gratefully acknowledge numerous technical discussions and suggestions from Dr. Mark Coffey and technical support from Peter Rainville. We thank Dr. C. C. Chin for help with the initial setup of the experiment.
+
+## References
+
+* [1] Ph. Seng, R. Gross, U. Baier, M. Rupp, D. Koelle, R. P. Huebener, P. Schmitt, G. Saemann-Ischenko, and L. Schultz, Physica C **192**, 403 (1992).
+* [2] M. S. Pambianchi, D. H. Wu, L. Ganapathi, and S. Anlage, IEEE Trans. Appl. Supercond. **AS-3**, 2774 (1993).
+* [3] J. Owliaei, S. Sridhar, and J. Talvacchio, Phys. Rev. Lett. **69**, 3366 (1992).
+* [4] P. L. Gammel, L. F. Schneemeyer, J. V. Waszczak, and D. J. Bishop, Phys. Rev. Lett. **61**, 1666 (1988).
+* [5] S. de Brion, R. Calemczuk, and J. Y. Henry, Physica C **178**, 225 (1991).
+* [6] G. D'Anna, W. Benoit, W. Sadowski, and E. Walker, Europhys. Lett. **20**, 167 (1992).
+* [7] J. I. Gittleman and R. Rosenblum, Phys. Rev. Lett. **16**, 734 (1966).
+* [8] M. W. Coffey and J. R. Clem, Phys. Rev. Lett. **67**, 386 (1991).
+* [9] M. W. Coffey and J. R. Clem, Phys. Rev. B **46**, 11757 (1992).
+* [10] M. W. Coffey and J. R. Clem, Phys. Rev. B **45**, 10527 (1992).
+* [11] J. S. Martens, V. M. Hietala, T. A. Plut, D. S. Ginley, G. A. Vawter, C. P. Tigges, and M. P. Siegal, IEEE Trans. Appl. Supercond. **AS-3**, 2295 (1993).
+* [12] E. Denlinger, R. Paglione, D. Kalokitis, E. Belohoubek, A. Pique, X. D. Wu, T. Venkatesan, A. Fathy, V. Pendrick, S. Green, and S. Matthews, IEEE Microwave Guided Wave Lett. **MGW-2**, 449 (1992).
+* [13] D. E. Oates and A. C. Anderson, IEEE Trans. Magn. **MAG-27**, 867 (1991).
+* [14] D. E. Oates, A. C. Anderson, D. M. Sheen, and S. M. Ali, IEEE Trans. Microwave Theory Tech. **MTT-39**, 1522 (1991).
+* [15] D. M. Sheen, S. M. Ali, D. E. Oates, R. S. Withers, and J. A. Kong, IEEE Trans. Appl. Supercond. **AS-1**, 108 (1991).
+* [16] S. M. Anlage and D. H. Wu, J. Supercond. **5**, 395 (1992).
+* [17] D. A. Bonn, P. Dosanjh, R. Liang, and W. N. Hardy, Phys. Rev. Lett. **68**, 2390 (1992).
+* [18] D. Achkir, M. Poirier, D. A. Bonn, R. Liang, and W. N. Hardy, Phys. Rev. B **48**, 13184 (1993).
+* [19] M. R. Beasley, Physica C **209**, 43 (1993).
+* [20] D. E. Oates, A. C. Anderson, C. C. Chin, J. S. Dervo, G. Dresselhaus, and M. S. Dresselhaus, Phys. Rev. B **43**, 7655 (1991).
+* [21] A. S. Westerheim, L. S. Yu-Jahnes, and A. C. Anderson, IEEE Trans. Magn. **MAG-27**, 1001 (1991).
+* [22] A. S. Westerheim, A. C. Anderson, D. E. Oates, S. N. Basu, D. Bhatt, and M. J. Cima, J. Appl. Phys. **75**, 393 (1994).
+* [23] E. H. Brandt, Phys. Rev. Lett. **67**, 2219 (1991).
+* [24] D. H. Wu and S. Sridhar, Phys. Rev. Lett. **65**, 2074 (1990).
+* [25] A. M. Campbell, J. Phys. C **2**, 142 (1969).
+* [26] A. M. Campbell, J. Phys. C **4**, 3186 (1971).
+* [27] R. Labusch, Cryst. Lattice Defects **1**, 1 (1969).
+* [28] P. Martinoli, P. Fluckiger, V. Marisco, P. K. Srivastava, C. Leeman, and J. L. Gavolino, Physica B **166**, 1163 (1990).
+* [29] C. J. van der Beek, V. B. Geshkenbein, and V. M. Vinokur, Phys. Rev. B **48**, 3393 (1993).
+* [30] L. Schultz, B. Roas, P. Schmitt, P. Kummeth, and G. Saemann-Ischenko, IEEE Trans. Magn. **MAG-27**, 990 (1991).
+* [31] G. Muller, N. Klein, A. Brust, H. Chaloupka, M. Hein, S. Orbach, H. Piel, and D. Reschke, J. Supercond. **3**, 235 (1990).
+* [32] E. H. Brandt, Phys. Rev. Lett. **57**, 1347 (1986).
+
+  * [33] A. Gupta, P. Esquinazi, H. F. Braun, H. W. Neumuller, G. Ries, W. Schmidt, and W. Gerhauser, Physica C **170**, 95 (1990).
+* [34] J. Kober, A. Gupta, P. Esquinazi, H. F. Braun, and E. H. Brandt, Phys. Rev. Lett. **66**, 2507 (1991).
+* [35] H. K. Olsson, R. H. Kosc, W. Eidelloth, and R. P. Robetzazi, Phys. Rev. Lett. **66**, 2661 (1991).
+* [36] H. Wu, N. P. Ong, and Y. Q. Li, Phys. Rev. Lett. **71**, 2642 (1993).
+* [37] P. H. Kes, J. Aarts, J. van den Berg, C. J. van de Beek, and J. A. Mydosh, Supercond. Sci. Technol. **1**, 242 (1989).
+* [38] H. Douwes and P. H. Kes, J. Alloys Compos. **195**, 451 (1993).
+* [39] Wen Hai-Hu, R. Griessen, D. G. de Groot, B. Dam, and J. Rector, J. Alloys Compos. **195**, 427 (1993).
+* [40] A. C. Mota, G. Juri, P. Visani, A. Pollini, T. Teruzzi, and K. Aupke, Physica C **185-189**, 343 (1991).
+* [41] A. P. Malozemoff, Mater. Res. Soc. Bull. **15**, 50 (1990).
+* [42] E. H. Brandt, Int. J. Mod. Phys. B **5**, 751 (1991).
+* [43] T. T. M. Palstra, B. Batlogg, R. B. van Dover, L. F. Schneemeyer, and J. V. Waszczak, Appl. Phys. Lett. **54**, 763 (1989).
+* [44] V. M. Vinokur, M. V. Feigel'man, V.B. Gesckenbein, and A. I. Larkin, Phys. Rev. Lett. **65**, 259 (1990).
+* [45] V. B. Gesckenbein, A. I. Larkin, M. V. Feigel'man, and V. M. Vinokur, Physica C **162-164**, 239 (1989).
+* [46] A. I. Larkin and Y. N. Ovchinnikov, J. Low Temp. Phys. **34**, 409 (1979).
+* [47] P. H. Kes and J. van den Berg, in _Studies of High Temperature Superconductors_, edited by A. Narlikar (Nova Science Publishers, New York, 1990), Vol. 5.
+* [48] A. Sudbo and E. H. Brandt, Phys. Rev. Lett. **66**, 1781 (1991).
+* [49] A. Sudbo and E. H. Brandt, Phys. Rev. B **43**, 10482 (1991).
+* [50] E. H. Brandt and A. Sudbo, Physica C **168**, 426 (1991).
+* [51] V. M. Vinokur, P. H. Kes, and A. E. Koshelev, Physica C **168**, 29 (1990).
+* [52] M. V. Feigel'man, V. B. Gesckenbein, A. I. Larkin, and V. M. Vinokur, Phys. Rev. Lett. **63**, 2303 (1989).
+
+  Figure 1: Schematic three-dimensional view of the stripline resonator. (a) Patterned center line. The rf current J_{\text{rf}} flows along the z direction. (b) Stripline resonator showing the ground planes. The applied dc magnetic field is along the y direction.
+
+ 

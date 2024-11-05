@@ -1,0 +1,326 @@
+Enhanced superfluid stiffness, lowered superconducting transition
+temperature, and field-induced magnetic state of the pnictide
+superconductor LiFeAs
+
+F. L. Pratt,¹ P. J. Baker,² S. J. Blundell,² T. Lancaster,² H. J.
+Lewtas,² P. Adamson,³ M. J. Pitcher,³ D. R. Parker,³ and S. J. Clarke
+
+¹ISIS Muon Facility, ISIS, Chilton, Oxon., OX11 0QX, United Kingdom
+
+²Department of Physics, Clarendon Laboratory, Oxford University, Parks
+Road, Oxford OX1 3PU, United Kingdom
+
+³Inorganic Chemistry Laboratory, University of Oxford, South Parks Road,
+Oxford OX1 3QR, United Kingdom
+
+###### Abstract
+
+Transverse-field muon-spin rotation measurements performed on two
+samples of LiFeAs demonstrate that the superfluid stiffness of the
+superconducting condensate in relation to its superconducting transition
+temperature is enhanced compared to other pnictide superconductors.
+Evidence is seen for a field-induced magnetic state in a sample with a
+significantly suppressed superconducting transition temperature. The
+results in this system highlight the role of direct Fe-Fe interactions
+in frustrating pairing mediated by antiferromagnetic fluctuations and
+indicate that, in common with other pnictide superconductors, the system
+is close to a magnetic instability.
+
+pacs: 74.25.Ha, 74.62.-c, 74.90.+n, 76.75.+i + Footnote †: preprint:
+PHYSICAL REVIEW B **79**, 052508 (2009)
+
+The relationship between critical temperature T_(c) and superfluid
+stiffness p_(s) in a superconductor (SC) provides important information
+concerning the balance between the strength of the pairing and the
+efficiency of electromagnetic screening. In many SCs these two
+parameters are related by Uemura scaling,^(1, 2) though deviations from
+this are found for overdoped cuprates³ and organic SCs.⁴ The recently
+discovered oxypnictide SCs (Ref. [5]) containing FeAs layers show a wide
+range of T_(c),⁶ ⁻ ¹⁰ and those studied so far have shown behavior
+broadly consistent with Uemura scaling,¹¹ ⁻ ¹⁹ as observed for
+hole-doped cuprates. In this Brief Report we test this relationship for
+LiFeAs,²⁰ ⁻ ²² a recently discovered variant of pnictide SC where Li
+replaces the lanthanide-oxide layer. In LiFeAs the closest Fe-Fe
+separation in the FeAs layers is significantly shorter than in
+previously studied pnictide SC compounds. This produces additional
+frustrating magnetic interactions which are expected to weaken the
+strength of the antiferromagnetic coupling through Fe-As bonds, which
+has been suggested to mediate the superconducting pairing.²³ We find
+that this produces a departure from the previously observed scaling
+behavior which can provide some insight into the nature of the pairing
+in this family of compounds.
+
+LiFeAs crystallizes in a tetragonal space group (_P_4/_nmm_) with a =
+0.378 nm and c = 0.635 nm and contains FeAs layers, based on
+edge-sharing tetrahedral FeAs₄ units, interspersed with layers
+containing Li ions. The tetrahedra are compressed in the basal plane
+relative to those in LaFeAsO and SrFeAs₂. This implies that although the
+Fe-As bond distance 0.2414 nm in LiFeAs is similar to the other
+compounds, the Fe-Fe distance of 0.268 nm is considerably shorter.
+Superconductivity can be obtained at up to 18 K in this compound, though
+differences have been observed even between samples with similar cell
+volumes, probably connected with slight compositional variation, as
+described previously for compositions close to LiFeAs.²⁴ In contrast
+with the oxypnictides, no further doping is necessary to induce
+superconductivity, and from studies to date the spin-density wave (SDW)
+state has appeared to be notably absent.
+
+Transverse-field (TF) muon-spin rotation (SR) (TF-μSR) is a method for
+accurately measuring the internal magnetic field distribution within the
+vortex lattice (VL) of a type-II SC.²⁵ Spin-polarized positive muons
+(gyromagnetic ratio γ_(μ)/2 π=135.5 MHz T⁻¹; lifetime τ_(μ)=2.2 μs) are
+implanted into the bulk of the sample at random positions on the length
+scale of the VL. A magnetic field B_(c1) < B₀ < B_(c2) is applied
+perpendicular to the initial muon-spin direction and the muons precess
+around the total local magnetic field at their stopping site. This gives
+a method of randomly sampling the magnetic field distribution using the
+time evolution of the muon-spin polarization P_(x)(t), which is related
+to the distribution of local magnetic fields in the sample p(B) via
+
+P_(x)(t) = ∫₀^(∞)p(B)cos(γ_(μ)Bt + ϕ)dB,
+(1)
+
+where ϕ is a phase offset associated with the emitted positron detector
+geometry. The function p(B) allows the extraction of the in-plane
+penetration depth λ_(ab) and hence the superfluid stiffness
+ρ_(x) ∝ λ_(ab)⁻².
+
+Powder samples of LiFeAs were prepared from high-purity elemental
+reagents (>99.9
+
+In TF-μSR measurements performed above T_(c), one might expect
+p(B) = δ(B − B₀). However, broadening of p(B) is caused by the
+contribution from randomly oriented nuclear moments near the muon
+stopping sites. This leads to a roughly Gaussian relaxation
+P_(z)(t) ∝ exp [−(σ_(π)t)²/2] cos (γ_(μ)B₀t + ϕ). Below T_(c) the
+spectrum p(B) broadens considerably due to the dephasing contribution
+from the VL. The additional broadening is fitted well by a further
+Gaussian damping term so that the overall damping is
+
+$$\sigma^{2}=\sigma_{\rm VL}^{2}+\sigma_{n}^{2}$$
+(2)
+
+and the corresponding field width due to the VL is
+$B_{\rm rms}\!=\!\sigma_{\rm VL}/\gamma_{\mu}$. The data fitting
+procedure also takes into account the small fraction (<20
+
+The ab plane penetration depth λ_(ab) and corresponding superfluid
+stiffness can be derived from $B_{\rm rms}$ for a powder sample using
+the relation[27]
+
+$$B_{\rm rms}=\frac{\sigma_{\rm VL}}{\gamma_{\mu}}=(0.00371)^{1/2}\frac{\phi_{0} }{(3^{14}\lambda_{ab})^{2}}.$$
+(3)
+
+Equation (3) is valid in the London limit at fields well above B_(c1)
+and well below B_(c2) where $B_{\rm rms}$ is independent of applied
+field. A more sophisticated approach allows for the field dependence
+that occurs for realistic sample parameters, and we use a recent
+calculation of the field-dependent $B_{\rm rms}$ in the Ginzburg-Landau
+(GL) model for an anisotropic SC (Ref. [28]) to fit our field-dependent
+data (Fig. 2). The original calculation is for normal field
+configuration, and an extension to the polycrystalline case was made
+under the assumption that the length scales λ and ξ diverge following
+1/cos θ as the field orientation approaches the plane at θ=0 (high
+anisotropity limit), with the corresponding contribution to the overall
+width scaling as cos  θ. The data obtained for sample 1 are seen to be
+only very weakly field dependent [Fig. 2(a)], indicating that the
+measured field range is well separated from B_(c1) and B_(c2) and a best
+fit[29] yields λ_(ab) = 195(2) nm. In contrast, sample 2 behaves rather
+differently [Fig. 2(b)]. At lower fields it follows the GL dependence
+for the expected longer penetration depth, however above ∼0.1 T a
+significant increase in the width with applied field is apparent,
+indicating a field-induced magnetic contribution which can be fitted by
+adding an additional term σ_(M)² to Eq. (2), where σ_(M) follows a
+B₀^(n) power law. After allowing for this field-induced magnetism, the
+λ_(ab) value in this second sample is obtained to be 244(2) nm.
+
+Figure 3(a) shows the SC field distribution in sample 1 at 40 mT
+obtained from a Fourier transform. A broadened VL powder distribution
+[Fig. 3(b)] along with a narrow background peak can account for most of
+the profile, although there is some additional spectral weight on the
+low field side.
+
+Figure 1: The temperature dependence of the superconducting contribution
+to the field width of the μSR line shape measured in a transverse field
+of 40 mT for the two samples of LiFeAs. The curves are a guide to the
+eyes.
+
+Figure 2: (a) The magnetic field dependence of the superconducting
+contribution to the μSR line width for sample 1 measured at 1.6 K. The
+field dependence is very weak and the ab penetration depth can easily be
+extracted from the data by fitting to the field dependence of the GL
+model (solid curve). (b) The field dependence for sample 2 (with lower
+T_(c)). The low field behavior can again be fitted to the GL model, but
+a marked deviation sets in at fields above 0.1 T, and the overall fit
+(solid line) needs to include a field-induced magnetic contribution
+σ_(M) ∝ B^(n) in addition to the VL contribution (dotted line).
+
+The profile remains similar when the field is raised to 600 mT [Fig.
+3(c)]. The same spectral analysis for sample 2 is shown in Fig. 4. The
+profile at 40 mT is qualitatively similar to that seen in sample 1 but
+with the additional weight on the low field side being relatively
+larger. At 600 mT, however, significant additional broadening becomes
+apparent on both sides of the peak.
+
+The observation of the departure from GL behavior [Fig. 2(b)] and shift
+in spectral weight [Fig. 4(c)] for sample 2 at high field provides
+evidence for field-induced magnetism. The superconducting state in
+pnictides is known to be proximate to SDW order, but no SDW state has
+been observed directly in the LiFeAs system. Field-induced magnetism has
+been investigated in cuprate SCs, particularly following neutron studies
+of La_(2 − x)Sr_(x)CuO₄ (LSCO),[30] the results of which have been
+interpreted as microscopic phase coexistence of SDW and SC states,
+driven by coupling of the two order parameters.[31] Such an approach
+predicts an induced SDW moment which scales roughly as B₀^(1/2) for
+B₀≪B_(c2),[31] in agreement with our fitted n=0.49(6). That the
+field-induced broadening shows up in sample 2 and not in sample 1 is
+most likely due to the greater proximity to the SDW state driven by a
+small change in Li-site occupancy.
+
+The extracted values of λ_(ab) allow us to place these materials on an
+Uemura plot, as shown in Fig. 5, alongside values obtained from reported
+data on other FeAs-based SCs using Eq. (3). In a region where standard
+Uemura scaling applies there will be a linear relation between ρ_(s) and
+T_(c). However, from Fig. 5 it can be seen that no single scaling line
+can be used for all of the data. The data appear to split into two
+groups with the trend for the LiFeAs samples being lower than any trend
+line that would describe the LnFeAsO_(x)F_(y) and Ba_(x)K_(1 − x)Fe₂As₂
+data. This indicates that the LiFeAs samples have a superfluid stiffness
+that is enhanced over the values that might be expected on the basis of
+their observed transition temperatures and the behavior of the other
+FeAs SCs. Alternatively one may regard T_(c) for a given strength of
+superfluid condensate as being suppressed in the LiFeAs case,
+particularly when compared to the magnetic lanthanides
+NdFeAsO_(1 − x)F_(x) and SmFeAsO_(1 − x)F_(x). This implies that
+although the superconducting state in the FeAs layers is reasonably
+robust (the superfluid is stiff) the strength of the pairing is
+significantly suppressed for LiFeAs. If the pairing is mediated by
+antiferromagnetic fluctuations originating from the indirect Fe-As-Fe
+exchange interactions, one would expect that this mechanism would be
+frustrated by the increasing role played by direct Fe-Fe interactions in
+LiFeAs. Deviation from perfect tetrahedral structure for the FeAs₄ units
+is known to suppress T_(c) in pnictide superconductors,[32] and the
+significant compression of the FeAs₄ tetrahedra in
+
+Figure 4: As Fig. 3 but for sample 2 which shows evidence of
+field-induced magnetism. The VL linewidth is narrower here than for
+sample 1, and the additional field-induced broadening is clearly seen on
+both sides of the main peak when comparing the 600 mT data in (c) with
+the 40 mT data in (a).
+
+Figure 5: An Uemura plot of the superconducting transition temperature
+T_(c) versus the low temperature superfluid stiffness. Data obtained
+here for the two LiFeAs samples are compared with previously reported
+data for doped members of the LnFeAsO_(1 − x)F_(x) family: Ln=La (Ref.
+[11]), Nd (Ref. [13]) and Sm Refs. [12] and [15], and the
+Ba_(x)K_(1 − x)Fe₂As₂ family (Refs. [18] and [19]). The data taken from
+the previous reports have been restricted to the highest T_(c) sample in
+each study. The lower dashed line indicates the trend line for
+electron-doped cuprates, which closely corresponds to the behavior of
+the LiFeAs system obtained here, in contrast to the other pnictide
+superconductors, which sit closer to the trend for hole-doped cuprates.
+The symbol size represents the typical estimated uncertainty of the data
+points.
+
+Figure 3: (a) Spectral distribution of the internal field in sample 1 at
+40 mT obtained by Fourier transformation. The dotted line is the normal
+state and the solid line is the SC state. The dashed line represents a
+Gaussian broadened powder profile detailed in (b), where the unbroadened
+powder profile is shown as the solid curve. Panel (c) is as for (a) but
+for a field of 600 mT.
+
+the LiFeAs structure is also expected to strongly modify the Fe-As-Fe
+exchange coupling. Associated changes in the electronic structure will
+also increase the electronic bandwidth[33] and hence contribute to a
+reduction in the effective pairing strength. The increased bandwidth
+also leads to a reduced effective mass m^(*) so that the superfluid
+stiffness n_(s)/m^(*) is then expected to become enhanced relative to
+T_(c), as we have observed experimentally in this study.
+
+Part of this work was performed at the Swiss Muon Source (SμS), Paul
+Scherrer Institute, Villigen, CH. We are grateful to Hubertus Luetkens
+for experimental assistance and to the EPSRC-GB (U.K.) for financial
+support.
+
+## References
+
+* [1] Y. J. Uemura, G. M. Luke, B. J. Sternlieb, J. H. Brewer, J. F.
+Carolan, W. N. Hardy, R. Kadono, J. R. Kempton, R. F. Kiefl, S. R.
+Kreitzman, P. Mulhern, T. M. Riseman, D. Ll. Williams, B. X. Yang, S.
+Uchida, H. Takagi, J. Gopalakrishnan, A. W. Sleight, M. A. Subramanian,
+C. L. Chien, M. Z. Cieplak, Gang Xiao, V. Y. Lee, B. W. Statt, C. E.
+Stronach, W. J. Kossler, and X. H. Yu, Phys. Rev. Lett. **62**, 2317
+(1989). * [2] Y. J. Uemura, L. P. Le, G. M. Luke, B. J. Sternlieb, W. D.
+Wu, J. H. Brewer, T. M. Riseman, C. L. Seaman, M. B. Maple, M. Ishikawa,
+D. G. Hinks, J. D. Jorgensen, G. Saito, and H. Yamochi, Phys. Rev. Lett.
+**66**, 2665 (1991). * [3] C. Niedermayer, C. Bernhard, U. Binninger, H.
+Gluckler, J. L. Tallon, E. J. Ansaldo, and J. I. Budnick, Phys. Rev.
+Lett. **71**, 1764 (1993). * [4] F. L. Pratt and S. J. Blundell, Phys.
+Rev. Lett. **94**, 097006 (2005). * [5] Y. Kamihara, T. Watanabe, M.
+Hirano, and H. Hosono, J. Am. Chem. Soc. **130**, 3296 (2008). * [6] X.
+H. Chen, T. Wu, G. Wu, R. H. Liu, H. Chen, and D. F. Fang, Nature
+(London) **453**, 761 (2008). * [7] G. F. Chen, Z. Li, D. Wu, G. Li, W.
+Z. Hu, J. Dong, P. Zheng, J. L. Luo, and N. L. Wang, Phys. Rev. Lett.
+**100**, 247002 (2008). * [8] Z. A. Ren, J. Yang, W. Lu, W. Yi, X. L.
+Shen, Z. C. Li, G. C. Che, X. L. Dong, L. L. Sun, F. Zhou, and Z. Zhao,
+Europhys. Lett. **82**, 57002 (2008). * [9] M. Rotter, M. Tegel, and D.
+Johrendt, Phys. Rev. Lett. **101**, 107006 (2008). * [10] K. Sasmal, B.
+Lv, B. Lorenz, A. M. Guloy, F. Chen, Y. Y. Xue, and C. W. Chu, Phys.
+Rev. Lett. **101**, 107007 (2008). * [11] H. Luetkens, H. H. Klauss, R.
+Khasanov, A. Amato, R. Klingeler, I. Hellmann, N. Leps, A. Kondrat, C.
+Hess, A. Kohler, G. Behr, J. Werner, and B. Buchner, Phys. Rev. Lett.
+**101**, 097009 (2008). * [12] A. J. Drew, F. L. Pratt, T. Lancaster, S.
+J. Blundell, P. J. Baker, R. H. Liu, G. Wu, X. H. Chen, I. Watanabe, V.
+K. Malik, A. Dubroka, K. W. Kim, M. Rossle, and C. Bernhard, Phys. Rev.
+Lett. **101**, 097010 (2008). * [13] J. P. Carlo, Y. J. Uemura, T. Goko,
+G. J. MacDougall, J. A. Rodriguez, W. Yu, G. M. Luke, P. Dai, N.
+Shannon, S. Miyasaka, S. Suzuki, S. Tajima, G. F. Chen, W. Z. Hu, J. L.
+Luo, and N. L. Wang, arXiv:0805.2186 (unpublished). * [14] H. Luetkens,
+H.-H. Klauss, M. Kraken, F. J. Litterst, T. Dellmann, R. Klingeler, C.
+Hess, R. Khasanov, A. Amato, C. Baines, J. Hamann-Borrero, N. Leps, A.
+Kondrat, G. Behr, J. Werner, and B. Buechner, arXiv:0806.3533
+(unpublished). * [15] R. Khasanov, H. Luetkens, A. Amato, H.-H. Klauss,
+Z.-A. Ren, J. Yang, W. Lu, and Z.-X. Zhao, Phys. Rev. B **78**, 092506
+(2008). * [16] S. Takeshita, R. Kadono, M. Hiraishi, M. Miyazaki, A.
+Koda, Y. Kamihara, and H. Hosono, J. Phys. Soc. Jpn. **77**, 103703
+(2008). * [17] A. J. Drew, C. Niedermayer, P. J. Baker, F. L. Pratt, S.
+J. Blundell, T. Lancaster, R. H. Liu, G. Wu, X. H. Chen, I. Watanabe, V.
+K. Malik, A. Dubroka, M. Rossle, K. W. Kim, C. Baines, and C. Bernhard,
+Nature Mater. (to be published). * [18] A. A. Aczel, E.
+Baggio-Saitovitch, S. L. Budko, P. C. Canfield, J. P. Carlo, G. F. Chen,
+P. Dai, T. Goko, W. Z. Hu, G. M. Luke, J. L. Luo, N. Ni, D. R.
+Sanchez-Candela, F. F. Tafti, N. L. Wang, T. J. Williams, W. Yu, and Y.
+J. Uemura, Phys. Rev. B **78**, 214503 (2008). * [19] T. Goko, A. A.
+Aczel, E. Baggio-Saitovitch, S. L. Bud’ko, P. C. Canfield, J. P. Carlo,
+G. F. Chen, P. Dai, A. C. Hamann, W. Z. Hu, H. Kageyama, G. M. Luke, J.
+L. Luo, B. Nachumi, N. Ni, D. R. Sanchez-Candela, A. T. Savici, K. J.
+Sikes, N. L. Wang, C. R. Wiebe, T. J. Williams, T. Yamamoto, W. Yu, and
+Y. J. Uemura, arXiv:0808.1425 (unpublished). * [20] X. C. Wang, Q. Q.
+Liu, Y. X. Lv, W. B. Gao, L. X. Yang, R. C. Yu, F. Y. Li, and C. Q. Jin,
+Solid State Commun. **148**, 538 (2008). * [21] M. J. Pitcher, D. R.
+Parker, P. Adamson, S. J. C. Herkelrath, A. T. Boothroyd, and S. J.
+Clarke, Chem. Commun. (Cambridge) **2008**, 5918. * [22] J. H. Tapp, Z.
+Tang, B. Lv, K. Sasmal, B. Lorenz, P. C. W. Chu, and A. M. Guloy, Phys.
+Rev. B **78**, 060505(R) (2008). * [23] K. Kuroki, S. Onari, R. Arita,
+H. Usui, Y. Tanaka, H. Kontani, and H. Aoki, Phys. Rev. Lett. **101**,
+087004 (2008). * [24] R. Juza and K. Langer, Z. Anorg. Allg. Chem.
+**361**, 58 (1968). * [25] J. E. Sonier, J. H. Brewer, and R. F. Kiefl,
+Rev. Mod. Phys. **72**, 769 (2000). * [26] P. J. Baker, H. J. Lewtas, S.
+J. Blundell, T. Lancaster, F. L. Pratt, D. R. Parker, M. J. Pitcher, and
+S. J. Clarke, Phys. Rev. B **78**, 121501 (2008). * [27] V. I. Fesenko,
+V. N. Gorbunov, and V. P. Smilga, Physica C **176**, 551 (1991). * [28]
+E. H. Brandt, Phys. Rev. B **68**, 054506 (2003). * [29] Note that the
+quoted errors in λ_(ab) are statistical and do not include the
+additional systematic error due to approximating the powder line shape
+by a Gaussian. However these errors are common to all powder
+measurements, and we keep to the simpler powder approximation to allow
+relative comparisons to be made for powder data across the pesticide
+family. * [30] B. Lake, H. M. Ronnow, N. B. Christensen, G. Aeppli, K.
+Lefmann, D. F. McMorrow, P. Vorderwisch, P. Smiebidl, N. Mangkorntong,
+T. Sasagawa, M. Nohara, H. Takagi, and T. E. Mason, Nature (London)
+**415**, 299 (2002). * [31] E. Demler, S. Sachdev, and Y. Zhang, Phys.
+Rev. Lett. **87**, 067202 (2001); Y. Zhang, E. Demler, and S. Sachdev,
+Phys. Rev. B **66**, 094501 (2002). * [32] C.-H. Lee, A. Iyo, H. Eisaki,
+H. Kito, M. T. Fernandez-Diaz, T. Ito, K. Kihou, H. Matsuhata, M.
+Braden, and K. Yamada, J. Phys. Soc. Jpn. **77**, 083704 (2008). * [33]
+D. J. Singh, Phys. Rev. B **78**, 094511 (2008).

@@ -1,0 +1,577 @@
+
+
+# Optical properties of the iron arsenic superconductor BaFe_{1.85}Co_{0.15}As_{2}
+
+J. J. Tu, J. Li, W. Liu, and A. Punnoose
+
+Department of Physics, The City College of New York, New York, New York 10031, USA
+
+Y. Gong and Y. H. Ren
+
+Department of Physics and Astronomy, Hunter College, City University of New York, New York, New York 10065, USA
+
+L. J. Li, G. H. Cao, and Z. A. Xu
+
+Department of Physics, Zhejiang University, Hangzhou 310027, China
+
+C. C. Homes
+
+Department of Condensed Matter Physics and Materials Science, Brookhaven National Laboratory, Upton, New York 11973, USA
+
+Received 27 August 2010; revised manuscript received 22 October 2010; published 12 November 2010
+
+###### Abstract
+
+The transport and complex optical properties of the electron-doped iron-arsenic superconductor BaFe_{1.85}Co_{0.15}As_{2} with T_{c} = 25 K have been examined in the Fe-As planes above and below T_{c}. A Bloch-Gruneisen analysis of the resistivity yields a weak electron-phonon coupling constant \lambda_{ph} = 0.2. The low-frequency optical response in the normal state appears to be dominated by the electron pocket and may be described by a weakly interacting Fermi liquid with a Drude plasma frequency of \omega_{p,D} = 7840 cm^{-1} (= 0.972eV) and scattering rate 1/\tau_{D} = 126 cm^{-1} (= 15 meV) just above T_{c}. The frequency-dependent scattering rate 1/\tau(\omega) has kinks at =12 and 55 meV that appear to be related to bosonic excitations. Below T_{c} the majority of the superconducting plasma frequency originates from the electron pocket and is estimated to be \omega_{p,S} = 5200 cm^{-1} (\lambda_{0} = 3000 A) for T \ll T_{c}, indicating that less than half the free carriers in the normal state have collapsed into the condensate, suggesting that this material is not in the clean limit. Supporting this finding is the observation that this material falls close to the universal scaling line for a Bardeen, Cooper, and Schrieffer dirty-limit superconductor in the weak-coupling limit. There are two energy scales for the superconductivity in the optical conductivity and photoinduced reflectivity at \Delta_{1}(0) = 3.1 \pm 0.2 meV and \Delta_{2}(0) = 7.4 \pm 0.3 meV. This corresponds to either the gapping of the electron and hole pockets, respectively, or an anisotropic s-wave gap on the electron pocket; both views are consistent with the s^{\pm} model.
+
+pacs: 74.25.Gz, 74.70.Xa, 78.30.-j +
+Footnote †: preprint: PHYSICAL REVIEW B **82**, 174509 (2010)
+
+## I I. Introduction
+
+Since its discovery nearly a century ago, the field of superconductivity has periodically reinvented itself. A significant advance in the understanding of this phenomenon was achieved through the model by Bardeen, Cooper and Schrieffer (BCS), which proposed that below a critical temperature T_{c} electrons condense into pairs which are coupled through lattice vibrations; [1] these so-called Cooper pairs are bosons which constitute a supercurrent that may flow without loss. Below T_{c} an isotropic s-wave gap also opens in the spectrum of excitations across the Fermi surface. Within this model, it was thought that the T_{c}'s of conventional metals and alloys could not exceed \simeq30 K (Ref. [2]). The discovery of superconductivity at elevated temperatures in the copper-oxide materials [3] with T_{c}'s in excess of 130 K at ambient pressure and an unusual d-wave superconducting energy gap [4] indicates that these materials are not phonon mediated; indeed, the coupling mechanism in these materials remains unresolved and a subject of considerable debate. The discovery of superconductivity in MgB_{2} with a surprisingly high transition temperature T_{c} = 39 K initially suggested an unusual pairing mechanism. [5] However, the isotope effect firmly established that this material is phonon mediated; [6] in this case the high phonon frequencies in MgB_{2} are likely responsible for the enhanced critical temperature. [7]
+
+The recent discovery superconductivity in the iron-arsenic LaFeAsO_{1-x}F_{x} (1111) compound [8] at ambient pressure (T_{c} = 26 K) was surprising because iron and magnetic impurities, in general, were considered detrimental to the formation of superconductivity; T_{c}'s \approx 50 K in this material were quickly achieved through rare-earth substitutions. [9, 10, 11, 12] While such high values for T_{c} do not necessarily rule out a phonon-mediated pairing mechanism, the close proximity of magnetic order and superconductivity in these compounds [13] has lead to the suggestion that the pairing in this class of materials may have another origin. [14, 15, 16, 17] While the highest T_{c}'s are observed in the 1111 compounds, large single crystals of these materials have proven difficult to grow. For this reason attention has shifted to the structurally simpler BaFe_{2}As_{2} (122) materials, where large single crystals are readily available. Unlike the cuprates, the parent compound is metallic with a structural and magnetic transition at T_{N} \approx 140 K, below which it remains metallic. [18] The emergence of superconductivity and the suppression of the magnetic and structural transitions may be achieved through the application of pressure [19] or through chemical substitution; [20, 21, 22, 23] K doping results in a hole-doped material with a maximum T_{c} \simeq 38 K while Ni and Co doping result in electron-doped materials with a somewhat lower maximum T_{c} \approx 29 K. The electron- and hole-doped materials have been the subject of numerous investigations, including thermodynamic and transport studies, [21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35] angle-resolved photoemission [36, 37, 38, 39, 40, 41, 42, 43, 44, 45] (ARPES), and Raman [46, 47, 48, 49] and optical studies. [50, 51, 52, 53, 54, 55, 56] Several of these studies address the nature of the superconducting gaps, such as whether there are multiple gaps and whether the gaps contain nodes. The experimental picture is not clear. The isotope effect in these materials is also uncertain; while a large Fe isotope effect has been reported in BaFe_{2}As_{2} and Ba_{0.6}K_{0.4}Fe_{2}As_{2} polycrystals, [66] an inverse iron isotope effect has also been observed. [67]
+
+Despite the structural differences of the iron-arsenic compounds, the band structure of these materials is remarkably similar, with a minimal description consisting of a hole band (\alpha) centered at the \Gamma point and an electron band (\beta) at the M point of the Brillouin zone. [68, 69, 70] The mobilities are thought to be significantly higher in the electron bands. [30] Several theoretical models [71, 72, 73, 74] propose that below T_{c} superconducting s-wave energy gaps form on the electron and hole pockets, possibly with a sign change between them, the so-called s^{\pm} model. In the s^{\pm} model the gap on the electron pocket may be an extended s wave with nodes on its Fermi surface; [75] it is possible that disorder may lift the nodes. [76]
+
+In this work the electron-doped BaFe_{1.85}Co_{0.15}As_{2} superconductor (T_{c}=25 K) has been examined using several different techniques. The temperature dependence of the ab-plane resistivity is analyzed using a simple Bloch-Gruneisen framework, yielding an upper bound for the electron-phonon coupling constant of \lambda_{ph}\,\simeq\,0.2. The complex optical properties in the iron-arsenic planes have been examined in the normal and superconducting states. In the normal state, the free carrier response is dominated by the electron pocket and may be described by a simple Drude-Lorentz model. In the generalized-Drude response for T^{\infty}T_{c} the frequency-dependent scattering rate shows clear kinks at about \,\simeq\,12 and 55 meV, suggesting scattering from bosonic excitations. Below T_{c} the formation of a condensate is observed; however, less than 50% of the free carriers condense, suggesting this material is not in the clean limit. Supporting this view is the observation that this material lies close to the universal scaling line for a BCS dirty-limit superconductor in the weak-coupling limit. In order to properly model the optical conductivity below T_{c} it is necessary to introduce two superconducting energy gaps at \Delta_{1}(0)=\,3.1\,\pm\,0.2 meV and \Delta_{2}(0)=\,7.4\,\pm\,0.4 meV. This corresponds to either the gap-ping of the electron and hole pockets, respectively, or the gapping of the electron pocket by an anisotropic s-wave gap; both results are consistent with the s^{\pm} model. The time evolution of the photoinduced reflectivity change in the superconducting state yields almost identical values for the gaps. These results indicate that there are two energy scales for the superconductivity in BaFe_{1.85}Co_{0.15}As_{2} and that the pairing is likely not phonon mediated.
+
+## II Experiment
+
+Large single crystals of the iron-arsenic superconductor BaFe_{2-x}Co_{x}As_{2} were grown by a self-flux method. [23] Energy dispersive x-ray microanalysis was used to determine that the Co concentration x=0.15 was at the optimal level. The resistivity in the ab planes was measured using a standard four-probe method. The temperature dependence of the resistivity of a single crystal of BaFe_{1.85}Co_{0.15}As_{2} is shown in Fig. 1; the resistivity displays a slight curvature before abruptly going to zero at T_{c}\,\simeq\,25 K with a transition width of less than 0.7 K (inset of Fig. 1). The temperature-dependent reflectance was measured at a near-normal angle of incidence from \,\simeq\,20 to over 25 000 cm^{-1} (=2 meV\,-\,3 eV) on a cleaved surface for light polarized in the ab planes using _in situ_ evaporation technique. [77] This large frequency interval is needed to carry out a reliable Kramers-Kronig analysis where extrapolations are supplied in the limits for \omega\,\to\,0\,, \infty. For the transient reflectivity measurements, a Ti:sapphire laser system which can deliver 100-fs-short pulses at an 80 MHz repetition rate, tunable at 800 nm (1.55 eV), was used as the source of both pump and probe pulses. A standard pump-probe setup is employed with the pump beam having a spot diameter of 60 \,\mum and the time-delayed probe beam with spot diameter of 30 \,\mum. The pump beam was modulated at 2 kHz with an optical chopper and a lock-in amplifier was used to measure the transient reflectivity change, \Delta R/R, of the probe beam.
+
+## III Results and Discussion
+
+### Optical properties
+
+#### iii.1 Normal state
+
+The temperature dependence of the reflectance of BaFe_{1.85}Co_{0.15}As_{2} for light polarized in the ab planes is shown in the infrared region in Fig. 2 for several temperatures above and below T_{c}; the reflectance at 295 K is shown over a much larger region in the inset. In the normal state, the reflectance at low frequency has a R\,\propto\,1\,-\,\sqrt{\omega} response characteristic of a metal in the Hagen-Rubens regime. In addition to this generic response, just above T_{c} at 27 K there are two inflection points in the reflectance (indicated by arrows) at \,\approx\,12 and 55 meV, which may result from scattering of the carriers with underlying bosonic excitations. Below T_{c} the superconducting state displays a clear signature in the
+
+Figure 1: (Color online) Temperature-dependent ab-plane resistivity of a BaFe_{1.85}Co_{0.15}As_{2} single crystal with a superconducting transition at T_{c}=25 K; the dashed curve is a Bloch-Grüneisen fit to the resistivity data (Sec. III C). Insets: the unit cell of BaFe_{2}As_{2} in the tetragonal I4/mmm setting; detail of the resistivity in the region of T_{c} illustrating the sharp transition width \delta T_{c}\,=\,0.7 K.
+
+  reflectance. However, the reflectance is a complex quantity consisting of an amplitude and a phase, \overline{r}\!=\!\sqrt{R}\,\exp(i\,\theta). Normally, only the amplitude R\!=\!\overline{r}\overline{r}^{\ast} is measured so it is not always intuitively obvious what changes in the reflectance indicate. For this reason, the complex optical properties have been calculated from a Kramers-Kronig analysis of the reflectance.[78]
+
+The temperature dependence of the real part of the optical conductivity \sigma_{1}(\omega) of BaFe_{1.85}Co_{0.15}As_{2} in the far-infrared region is shown in Fig. 3. At room temperature the conductivity decreases slowly with increasing frequency giving way, not unlike the high-T_{c} cuprates,[79] to a rather flat response in the mid-infrared region followed by a pronounced peak at about 5200  cm^{-1} (shown in the inset). At room temperature a weak infrared-active E_{u} mode at about 94  cm^{-1} is observed that involves in-plane displacements of the Ba atoms,[46] a second E_{u} mode expected at 253  cm^{-1} is a weak feature observed only a low temperatures, suggesting that this mode may be broadened due to disorder effects.[80] As the temperature is reduced the low-frequency conductivity increases as a result of the transfer of spectral weight from high to low frequencies, and the low-frequency E_{u} mode becomes more difficult to observe. The spectral weight is defined simply as the area under the conductivity curve over a given interval, N(\omega,T)\!=\!\int_{0}^{\omega}\!\sigma_{1}(\omega^{\prime},T)d\omega^{\prime}. It is important to note that the values for the dc conductivity in Fig. 1 at 295, 200, and 27 K are in good agreement with the extrapolated values \sigma_{\rm dc}\!=\!\sigma_{1}(\omega\!\to\!0) in Fig. 3; the fact that \sigma_{\rm dc}\!=\!\sigma_{1}(\omega\!\to\!0) establishes a connection with transport and illustrates the self-consistent nature of this optical technique.
+
+One technique to reproduce the optical conductivity assumes that because these materials are multiband systems that the free-carrier response can be described by separate contributions from the electron and hole pockets while the optical properties at high frequency are described by bound excitations. In a Drude-Lorentz model, this description results in the linear combination of two Drude components.[59] The Drude-Lorentz model for the dielectric function \overline{\epsilon}(\omega) = \epsilon_{1}(\omega)\!+\!i\epsilon_{2}(\omega) can be written as
+
+\[\overline{\epsilon}(\omega)=\epsilon_{\infty}-\sum_{j}\frac{\omega_{n,Di,j}^{2 }}{\omega^{2}+i\omega/\tau_{D,j}}+\sum_{k}\frac{\Omega_{k}^{2}}{\omega_{k}^{2 }-\omega^{2}-i\omega\gamma_{k}},\]
+
+where \epsilon_{\infty} is the real part of the dielectric function at high frequency, \omega_{p,Di}^{2}\!=\!4\pi\eta\epsilon^{2}/m_{\gamma}^{*} and 1/\tau_{D,j} are the square of the plasma frequency and scattering rate for the delocalized (Drude) carriers in the jth pocket, respectively; \omega_{k}, \gamma_{k}, and \Omega_{k} are the position, width, and strength of the kth vibration or excitation. The complex conductivity is \overline{\sigma}(\omega)\!=\!\sigma_{1}(\omega)\!+\!i\sigma_{2}(\omega)\!=\!- \!i\omega[\overline{\epsilon}(\omega)\!-\!\epsilon_{\infty}]/4\,\pi.
+
+The results of the two-Drude fit to the real part of the optical conductivity just above T_{c} at 27 K are shown in Fig. 4(a) and summarized in Table 1. The two Drude responses may be characterized as "narrow" (1/\tau_{D}\!\simeq\!113 cm^{-1}) and "broad" (1/\tau_{D}\!\simeq\!5700  cm^{-1}); an additional Lorentz oscillator at \simeq\!5200  cm^{-1} has also been included as well as several others above 1 eV that are not allowed to vary (not listed in Table 1). While the fit to the data is quite good, the scattering rate for the broad Drude component is more than 50 times that of the narrow component, which raises the issue as to whether this represents a mean free path l_{j}\!=\!\nu_{F,i}\tau_{j} that is physically meaningful (\nu_{F,j} is the Fermi velocity and \tau_{j} is the scattering time of the jth pocket). There are a range of values in the literature for the Fermi velocities for the electron and hole pockets in the iron-arsenic materials. Based on photo-emission study of BaFe_{1.85}Co_{0.15}As_{2} (Ref. [43]), we estimate that the Fermi velocity of the hole pocket to be
+
+Figure 3: (Color online) The real part of the optical conductivity of BaFe_{1.85}Co_{0.15}As_{2} in the infrared region for light polarized in the a-b planes at several temperatures above and below T_{c}. The extrapolated values for \sigma_{\rm dc}\!=\!\sigma_{1}(\omega\!\to\!0) are quite well with the dc transport data from Fig. 1 at 295 (\bullet), 200 (\blacksquare), and 27 K (\blacktriangle). Below T_{c} there is a dramatic loss of low-frequency spectral weight due to the formation of a condensate. Inset: the conductivity at 295 and 27 K over a much wider frequency range.
+
+Figure 2: (Color online) The temperature dependence of the reflectance of single-crystal BaFe_{1.85}Co_{0.15}As_{2} for light polarized in the a-b planes at several temperatures above and below T_{c}. There is a dramatic change in the reflectance below T_{c}. The “kinks” in low-temperature normal-state reflectivity (27 K) at =12 and 55 meV (marked by the two arrows at the inflection points in reflectivity) result from strong scattering of the carriers with some underlying bosonic excitations at these energy scales. Inset: the reflectance over a wide frequency range at 295 K.
+
+  \simeq 270 meV A or v_{F}= 6.5\times10^{5} cm/s. This result is less than the value determined from a band-structure estimate of v_{F} for the hole pocket in a related material (\simeq8 \times 10^{6} cm/s).[69] However, it has been noted that band-structure results often have to be renormalized to agree with photoemission results.[81] The velocity of electron pocket is more difficult to calculate. As an estimate we will apply the renormalization of the hole pocket Fermi velocity to the band-structure estimate of v_{F} on the electron pocket[69] to obtain v_{F}\simeq 2\times10^{6} cm/s. We associate the narrower Drude component with the electron pocket with \tau= 2.9\times10^{-13} s which leads to a mean free path of l_{e}= 58 A or about 15 unit cells (a= 4 A in the I4/mmm setting). Associating the broad Drude component with the hole pocket with \tau\simeq 5.8 \times 10^{-15} s leads to a mean free path of l_{h}\simeq 0.4 A, which is less than the shortest interatomic spacing; even a substantial increase in v_{F} will not alter this condition. This places the mean free path below the Mott-Ioffe-Regel limit[82, 83, 84] and indicates that the conductivity in this band is no longer metallic but is instead incoherent and is best described by a bound excitation or a series of bound excitations.
+
+This suggests that it is appropriate to include a low-frequency bound excitation which my arise from localization effects or from interband transitions.[55, 85] We have therefore considered the case of two Drude contributions as well as two low-frequency Lorentz oscillators; as in the previous case oscillators above 1 eV are not fitted quantities nor are their values altered from the previous instance. The results of the fit to the data at 27 K are shown in Fig. 4(b) and are summarized in the middle frame of Table 1. The narrow Drude component at 27 K is only slightly broader than the same component in the previous approach, resulting in a slightly shorter mean free path for the electron pocket l_{e}\simeq 53 A. Much of the spectral weight formerly associated with the broad Drude component has shifted to a Lorentzian centered at \simeq 1100 cm^{-1}, resulting in a dramatic reduction in the scattering rate, 1/\tau\simeq 600 cm^{-1} and a commensurate increase in the mean free path l_{h}\simeq 3.5 A or l_{h}\simeq a; this value is still close to the Mott-Ioffe-Regel limit and it is debatable as to whether or not this constitutes metallic transport. While the uncertainties associated with most of the fitted parameters (determined from the covariance) are \leq5%, the broad and weak Drude component is difficult to fit and the errors associated with it are considerably larger, \simeq20%. If there are indeed two Drude components then the electron pocket dominates and the hole pocket represents at best a weak, possibly incoherent, background contribution as shown in Fig. 4(b).
+
+For completeness we have also considered the case of a single Drude component and two low-frequency Lorentz oscillators; the results of this fit are summarized at the bottom of Table 1. With the exception of the absence of the second Drude component, the results are essentially the same as Fig. 4(b). The width of the narrow Drude component is unchanged and the slight increase in strength reflects the fact that it has absorbed the spectral weight formerly associated with the broad Drude component. We conclude that despite the presence of multiple bands in this material, for optimal doping the normal-state transport is dominated by the single electron pocket. The fitted values for the Drude parameters at 295 K, 200 K, and 27 K are \omega_{\rho,\rm D}=7840 cm^{-1} (or 0.972 eV) and 1/\tau_{\rm D}=304 cm^{-1}, 233 cm^{-1}, and 126 cm^{-1}, respectivel
+
+\begin{table}
+\begin{tabular}{c c c c c c} Fit & Type & \omega_{k} & 1/\tau_{D,j}, \gamma_{k} & \omega_{p,D,j}, \Omega_{k} & (Å) \\ \hline
+1 & D_{1} & & 113 & 6943 & 58 \\
+1 & D_{2} & & 5720 & 19980 & 0.4 \\
+1 & L_{1} & 5170 & 5730 & 22070 & \\
+2 & D_{1} & & 126 & 7790 & 53 \\
+2 & D_{2} & & 608 & 1956 & 3.5 \\
+2 & L\  
+
+#### iii.1.2 Superconducting state
+
+Below T_{c} there is a dramatic decrease in the low-frequency optical conductivity due to the formation of a superconducting energy gap. This "missing area" is referred to as the spectral weight of the condensate N_{c} and may be calculated from the Ferrell-Glover-Tinkham sum rule [86, 87]
+
+\[N_{c}\equiv N(\omega_{c},T\!=\!T_{c})-N(\omega_{c},T\!\ll\!T_{c})=\omega_{p,S}^{ 2}/8.\]
+
+Here \omega_{p,S}^{2}\!\equiv\!4\,\pi_{m}\varepsilon^{2}/m^{*} is the square of the superconducting plasma frequency and superfluid density is \rho_{s0}\!\equiv\!\omega_{p,S}^{2}; the cut-off frequency \omega_{c}\!\simeq\!400 cm^{-1} is chosen so that the integral converges smoothly. The superconducting plasma frequency has also been determined from \epsilon_{1}(\omega) in the low-frequency limit where \epsilon_{1}(\omega)\!=\!\epsilon_{u}\!-\!\omega_{p,S}^{2}/\omega^{2}. Yet another method of extracting \omega_{p,S} from \epsilon_{1}(\omega) is to determine [-\omega^{2}\epsilon_{1}(\omega)]^{1/2} in the \omega\!\to\!0 limit [88]. All three techniques yield \omega_{p,S}\!=\!5200\pm 400 cm^{-1}, indicating that less than one half of the free carriers in the normal state have condensed (\omega_{p,S}^{2}/\omega_{p,D}^{2}\!\leq\!0.5). In a clean-limit system the scattering rate associated with the Drude free-carrier response is much smaller than the size of the fully formed isotropic optical superconducting energy gap 1/\tau\!\ll\!2\Delta_{0}. As a result the full spectral weight of the Drude component lies below the optical gap 2\Delta_{0}; for T\!\ll\!T_{c} all of the free carriers collapse into the condensate and \omega_{p,S}\!\approx\!\omega_{p,D}. In materials where the size of the free-carrier scattering rate and the optical gap are comparable, 1/\tau\!\approx\!2\Delta_{0} (the so-called dirty limit) a significant amount of the Drude spectral weight lies above 2\Delta_{0}. As a result for T\!\ll\!T_{c} the free carriers are gapped and there is no residual Drude component at low temperature; however, only a fraction of the Drude spectral weight below the optical gap 2\Delta_{0} collapses into the condensate, leading to the condition that \omega_{p,S}\!<\!\omega_{p,D}. This is precisely what we observe, implying that this material is not in the clean limit. The superfluid density can also be expressed as an effective penetration depth \lambda_{0}\!\simeq\!3000\pm 300 A, which is in good agreement with other optical measurements [55, 56, 57, 58, 59, 60] as well as estimates based on other techniques for materials with similar cobalt concentrations [89, 90, 91].
+
+The low-frequency optical conductivity is shown in more detail in Fig. 5. As previously noted, below T_{c} there is a dramatic reduction in the conductivity below about 80 cm^{-1} (\approx\!10 meV), which sets the energy scale for the superconducting energy gap \Delta_{0} and the optical gap 2\Delta_{0} [here we adopt the convention that \Delta_{j}\!\equiv\!\Delta_{j}(0)]. We note that based on this initial estimate it appears that 1/\tau_{D}\!\approx\!2\Delta_{0}, suggesting that the conductivity in this material can be modeled using a Mattis-Bardeen approach [92] for the contribution from the gapped excitations [93]. This dirty-limit approach is consistent with the observation that less than 50% of the free carriers in the normal state collapse into the condensate for T\!\ll\!T_{c}. Note that in this instance, "dirty" refers to scattering from disorder and/or electronic correlations in addition to any possible impurity effects. In Fig. 5(a) the optical conductivity in the superconducting state is described by a single isotropic gap \Delta_{0}\!\approx\!3.1 meV (T\!\ll\!T_{c}) with a moderate amount of elastic scattering (1/\tau\!=\!4\Delta_{0}, which is approximately the previously determined value of 1/\tau_{D} just above T_{c}) in linear combination with the low-frequency tails of the mid-infrared Lorentzian oscillators. While the leading-edge of the conductivity is described fairly well, there is a noticeable disagreement above about 140 cm^{-1}.
+
+To properly model the conductivity over the entire far-infrared region, two isotropic gap features are considered at \Delta_{1}\!=\!3.1 meV and \Delta_{2}\!=\!7.4 meV with 1/\tau_{j}\!=\!4\Delta_{j} for T\!\ll\!T_{c}. In combination with the Lorentzian tails, the two-gap scenario shown in Fig. 5(b) fits the data quite well. The gap amplitudes determined here are in excellent agreement with recent optical results on BaFe_{2-x}Co_{x}As_{2} for a similar cobalt concentration [54, 55], as well as photoemission [42] and tunneling results [94]. While the lower gap ratio 2\Delta_{1}/k_{\rm B}T_{c}\!\simeq\!2.9 is close to the BCS weak-coupling limit of 3.5, the upper gap ratio 2\Delta_{2}/k_{\rm B}T_{c}\!\simeq\!7.3 is considerably larger. While the data below about 40 cm^{-1} is not reproduced exactly, there is a considerable uncertainty associated with the conductivity in this spectral region. This suggestion that the Fermi surface is completely gapped in the optimally doped material is in agreement with thermodynamic studies [34, 35].
+
+The examination of the normal-state concluded that while the low-frequency optical properties were dominated by the electron pocket, a weak contribution from the hole pocket might also be present. In the formalism employed here, the inclusion of a second gap necessarily implies a second band.
+
+Figure 5: (Color online) The in-plane optical conductivity of the iron-arsenic superconductor BaFe_{1.85}Co_{0.15}As_{2} (T_{c}\!=\!25 K) shown at 27 and 6 K (dashed and solid lines, respectively). (a) The optical conductivity with a single isotropic s-wave gap of \Delta_{0}\!=\!3.1 meV with a scattering rate 1/\tau\!=\!4\Delta_{0} is calculated for T\!\ll\!T_{c} (long-dashed line) and superimposed on the contribution from the bound excitations in the mid-infrared (dotted line); the linear combination of the two curves (dotted-dashed line) does not reproduce the data well above \approx\!140 cm^{-1}. (b) The optical conductivity with isotropic s-wave gaps of \Delta_{1}\!=\!3.1 meV and \Delta_{2}\!=\!7.4 meV with the scattering rates 1/\tau_{j}\!=\!4\Delta_{j} is calculated for T\!\ll\!T_{c} and superimposed on the Lorentzian contribution; the linear combination of the three curves is in much better agreement with the measured data.
+
+ The calculated Drude response just above T_{c} in Fig. 5(b) for the two bands (not shown) is \sigma_{1,i}(\omega)\!=\!\sigma_{0,j}/(1\!+\!\omega^{2}\tau_{i}^{2}), where \sigma_{0,1}\!=\!7700\Omega^{-1}\,cm^{-1}\, and \sigma_{0,2}\!\approx\!850\Omega^{-1}\,cm^{-1}\, for the bands associated with the small and large gaps, respectively. Given that \sigma_{0,j}\!=\!\sigma_{0,j}^{2}/\tau_{j}^{2}/60, where \sigma_{p,D,j} is the plasma frequency associated with the jth band and \omega_{p,D}\!\simeq\!(\omega_{p,D,1}^{2}\!+\!\omega_{p,D,2}^{2})^{1/2} and recalling that \tau_{i}\!=\!4\Delta_{j}, we estimate that \omega_{p,D,1}\!=\!6800 cm^{-1} and \omega_{p,D,2}\!\simeq\!3500 cm^{-1}. One again it is the case that a single band dominates and that over 75% of the superconducting condensate originates from the gapping of this band.
+
+In the simple approach employed here, the two energy scales for the gaps result from the gapping of two separate bands. This view is consistent with ARPES measurements [36, 38, 39, 40, 41, 42] that indicate that both the electron and hole pockets are likely completely gapped below T_{c}. However, it is clear that the coherent transport in the normal state arises mainly from the electron pocket. It is therefore also possible that the two energy scales for the superconducting energy gaps observed here are due to single anisotropic s-wave gap on the electron pocket, which is favored within the s^{\pm} model. Because there is some uncertainty in the optical measurements with respect to the amplitude of the larger gap, time-domain measurements were performed.
+
+### Time-domain spectroscopy
+
+The details of the superconducting-gap properties have been investigated in the time domain. Figure 6(a) shows the time evolution of the photoinduced reflectivity change, \Delta R/R as a function of temperature at 800 nm. The data are fitted by \Delta R/R\!=\!\Lambda_{0}\!+\!A_{fast}\exp(-t/\,\tau_{fast})\!+\!A_{slow}\exp(- t/\,\tau_{slow}); \Delta R/R shows a biexponential decay with relaxation times \tau_{fast}\!\approx\!0.2 ps and \tau_{slow}\!\approx\!15 ps. These two decay signals are the result of Cooper-pair recombination following the photoexcitation. Figures 6(b) and 6(c) show the temperature dependence of the relaxation times (\tau_{fast} and \tau_{slow}) and the peak amplitudes are shown in the insets (A_{fast} and A_{slow}). The fact that \Delta R/R does not return to its value at t\!<\!0 above about 45 ps is due to a negative component with a long relaxation time (\simns), not a rise time. This negative component is a common feature in photoinduced reflectivity measurements of complex metallic systems involving magnetism such as colossal magnetoresistance materials [95] and the high-T_{c} cuprates; [96] this component is not related to the superconductivity. The phenomenological Rothwarf-Taylor (RT) model [97] is used to describe the quasiparticle dynamics
+
+\[\frac{dn}{dt}=I_{0}+\beta N-Rn^{2}\]
+
+and
+
+\[\frac{dN}{dt}=-\,\frac{\beta N}{2}+\,\frac{Rn^{2}}{2}-(N-N_{T})\,\gamma.\]
+
+Here n and N are the total density of quasiparticles and high-frequency bosons, respectively, \beta is the probability for pair breaking by high-frequency boson absorption, R is the bare quasiparticle recombination rate, N_{T} is the density of high-frequency bosons in equilibrium, and \gamma is their decay rate. We obtain the normalized amplitude of the signal (to its low-temperature value), A(T) via the relation: A(T)\!\propto\!(n_{T}\!-\!1)^{-1}, where the density of the thermally excited quasiparticles, n_{T}\!\propto\!\sqrt{\Delta(T)T}\exp[-\Delta(T)/T] with \Delta(0) as a fitting parameter and \Delta(T) obeying a BCS temperature dependence. Moreover, for a constant pump intensity and assuming \gamma is temperature independent, we obtain the temperature dependence of the relaxation time \tau by the temperature dependence of n_{T}
+
+\[\tau(T)^{-1}=\Gamma\{A(T)+b\sqrt{\Delta(T)T}\exp[-\,\Delta(T)/T]\},\]
+
+where \Gamma and B are fitting parameters. Since the temperature dependence of A(T) and \tau(T) are measured directly, we can accurately determine the values of the superconducting gaps, \Delta_{1}\!=\!3.5\pm 0.4 meV and \Delta_{2}\!=\!7.4\pm 1.2 meV. These gap values are in excellent agreement with the optical estimates determined in the previous section.
+
+### Electron-phonon coupling
+
+The temperature dependence of the ab-plane resistivity (Fig. 1) has been fit using the generalized Bloch-Gruneisen formula [98, 99, 100]
+
+\[\rho(T)=\rho_{0}+\lambda_{ph}(m-1)\Bigg{(}\frac{k_{\rm B}\Theta_{D}}{\omega_{ p,D}^{2}}\Bigg{)}\Bigg{(}\frac{T}{\Theta_{D}}\Bigg{)}^{m}J_{m}\Bigg{(}\frac{T}{ \Theta_{D}}\Bigg{)},\]
+
+where
+
+\[J_{m}\Bigg{(}\frac{T}{\Theta_{D}}\Bigg{)}=\int_{0}^{\Theta_{D}T}\frac{x^{m}e^{ -x}}{(1-e^{-x})^{2}}dx.\]
+
+In this instance the integer value m\!=\!5 implies that the resistance is due to the scattering of electrons by phonons. The
+
+Figure 6: (Color online) (a) The time evolution of the photoinduced reflectivity change, \Delta R/R, in BaFe_{1.85}Co_{0.15}As_{2} as a function of temperature (below T_{c}) at 800 nm (the spectra are offset for clarity). (b) Temperature dependence of the relaxation time, \tau_{fast}. The inset shows the normalized amplitude A_{fast}. Solid lines are fits to the RT model, yielding \Delta_{2}\!\approx\!7.4\pm 1.2 meV. (c) Temperature dependence of the relaxation time, \tau_{slow}. The inset shows the normalized amplitude A_{slow}. Solid lines are fits to the RT model, yielding \Delta_{1}\!\approx\!3.5\pm 0.4 meV.
+
+  Debye temperature \Theta_{D} is set to 250 K (Ref. [102]), and the plasma frequency has been previously determined to be \omega_{p,D}\!=\!0.972\pm 0.05 eV. The fit, shown by the dashed curve in Fig. 1, yields \rho_{0}\!\approx\!125 m\Omega cm and an upper bound for the transport electron-phonon coupling constant \lambda_{ph}\!\approx\!0.2\pm 0.02. This experimental estimate of \lambda_{ph} value is in excellent agreement with the theoretical value of \lambda\!=\!0.21 (Ref. [14]) which yields a maximum T_{c}\!\approx\!0.8 K. However, to get a more accurate estimate of the electron-boson coupling constant from the resistivity, the temperature dependence of the underlying bosonic spectra needs to be considered.
+
+### Electron-boson coupling
+
+The kinks observed in the normal-state reflectance in Fig. 2 at \approx12 and 55 meV suggest scattering from underlying bosonic excitations. In order to investigate this further the generalized Drude model has been considered in which the scattering rate and the effective mass are allowed to adopt a frequency dependence [103, 104]
+
+\[\frac{1}{\tau(\omega)}=\frac{\omega_{p}^{2}}{4\,\pi}\text{Re}\left[\frac{1}{ \vec{\sigma}(\omega)}\right]\]
+
+and
+
+\[\frac{m^{\ast}(\omega)}{m_{b}}=\frac{\omega_{p}^{2}}{4\,\pi\omega}\text{Im} \left[\frac{1}{\vec{\sigma}(\omega)}\right],\]
+
+where the m_{b} is the bandmass; m^{\ast}(\omega)/m_{b}\!=\!1\!+\!\lambda(\omega) and \lambda(\omega) is a frequency-dependent electron-boson coupling constant. In this instance we set \omega_{p}\!\equiv\!\omega_{p,D} and \varepsilon_{\infty}\!=\!4 (although the choice of \varepsilon_{\infty} has little effect on the scattering rate or the effective mass in the far-infrared region). The temperature dependence of 1/\tau(\omega) is shown in Fig. 7, and the inset shows the temperature dependence of m^{\ast}(\omega)/m_{b}. In the normal state, in accord with the Drude model, the scattering rate is constant below \approx100 cm^{-1} and 1/\tau(\omega\!\to\!0)\!\approx\!1/\tau_{D}. However, above \approx12 meV there is an abrupt increase in the scattering rate for [the large change in 1/\tau(\omega) for T\!\ll\!T_{c} is due to the formation of one or more superconducting energy gaps]; another kink is observed at \approx55 meV. Interestingly, the effective-mass enhancement is rather small m^{\ast}(\omega\!\to\!0)/m_{b}\approx\!2, indicating that the electron-boson coupling \lambda\!=\!\lambda(\omega\!\to\!0)\!\approx\!1; this is significantly smaller than the values of \lambda\!=\!3\!-\!4 that have recently been reported. [52, 105]
+
+The electron-boson spectral function can in be calculated from 1/\tau(\omega) using a maximum-entropy technique based on Eliashberg theory. [106] Such an analysis has recently been performed on a material with an almost identical cobalt concentration and will not be repeated here; the peaks in the electron-boson spectral function in that work [105] are observed at \approx10 and 45 meV, which is in good agreement with the kinks observed in the present study in 1/\tau(\omega) at \approx12 and 55 meV. The low-energy peak is associated with the resonance peak in the spin-excitation spectrum obtained from inelastic neutron-scattering data, [107] which when considered with the relatively weak electron-phonon interaction in this material, suggests that the superconductivity in this material may be mediated by magnetic interactions. [105] The high-energy kink lies above the highest measured phonon energy; [108] however, muon-spin relaxation measurements [109] on a number of iron pnictides suggest an antiferromagnetic energy scale of \approx50 meV indicating a possible magnetic origin for this feature. It is not clear if this boson plays a role in the superconductivity or not; however, we speculate that any mechanism that did couple to the high-energy boson might display a significantly enhanced T_{c}, suggesting that higher values for T_{c} in this class of materials may yet be possible.
+
+### Scaling of the superfluid density
+
+It has been demonstrated that a Uemura type of scaling between the superfluid density \rho_{s0} and T_{c} breaks down in the hole-doped Ba_{0.6}K_{0.4}Fe_{2}As_{2} material. [24] However, it has also been demonstrated that a number of the iron pnictide and chalcogenide materials [110, 111] the superfluid density falls on a recently proposed empirical scaling relation for the cuprate superconductors, [112, 115] shown by the dashed line in Fig. 8,
+
+\[\rho_{s0}/8\approx 4.4\,\sigma_{\text{dc}}T_{c}.\]
+
+From the estimate of \sigma_{\text{dc}}\!\equiv\!\sigma_{1}(\omega\!\to\!0)\!\approx\!8000\!\pm\!400\Omega^{-1} cm^{-1} for T\!\!\approx\!T_{c} (determined from Fig. 3, as well as Drude-Lorentz fits), and the previously determined value of \rho_{s0}\!=\!27\!\pm\!3\!\times\!10^{6} cm^{-2}, we can see that BaFe_{1.85}Co_{0.15}As_{2} also falls on this scaling line in the region of the moderately underdoped cuprates. The dotted line in Fig. 8 is the calculated result for a BCS dirty-limit superconductor in the weak-coupling limit in which the numerical constant in the scaling relation is calculated to be slightly larger, [113]\rho_{s0}/8\!\approx\!8.1\sigma_{\text{dc}}T_{c}. This scaling behavior is consistent with the observation that this material is not in the clean limit.
+
+## IV Conclusions
+
+The optical and transport properties of the iron-arsenic superconductor BaFe_{1.85}Co_{0.15}As_{2} (T_{c}\!=\!25 K) have been
+
+Figure 7: (Color online) The in-plane frequency-dependent scattering rate of BaFe_{1.85}Co_{0.15}As_{2} for several temperatures above and below T_{c} in the far-infrared region. The values for 1/\tau_{D} are shown at 295 K (\blacklozenge), 200 K (\blacksquare), and 27 K (\blacktriangle), respectively, where the scattering rate displays little temperature dependence. The dashed lines at \approx12 and 55 meV indicate changes in the slope of 1/\tau(\omega). Inset: the frequency dependence of the effective mass.
+
+  measured over a wide temperature and frequency range. A Bloch-Gruneisen analysis of the resistivity indicates that the electron-phonon coupling \lambda_{ph}  0.2 is fairly weak, suggesting that the superconductivity in this material is not mediated by lattice vibrations. The optical properties in the normal state are dominated by the electron pocket and may be described as a weakly interacting Fermi liquid, or Drude model, with \omega_{p,D}  7840 cm^{-1} and 1/\tau_{D}  126 cm^{-1} just above T_{c} at 27 K. The frequency-dependent scattering rate displays kinks at  12 and 55 meV that correspond to peaks in the electron-boson spectral function, both of which are believed to be magnetic in origin and suggest that the pairing in this material may be mediated by magnetic interactions. In the superconducting state for T  T_{c} the superconducting plasma frequency \omega_{p,S}  5200 cm^{-1}, which corresponds to an effective penetration depth of \lambda  \approx  3000  A. This indicates that only about 50% of the free carriers in the normal-state collapse into the condensate, suggesting this material is not in the clean limit. In agreement with the results of other workers, this material is observed to fall on the universal scaling line for a BCS dirty-limit superconductor and is also close to many underdoped cuprates. The energy scales observed for the superconducting energy gaps \Delta_{1}  \approx 3.1  meV and \Delta_{2}  7.4  meV correspond to either the gaps on the electron and hole pockets, respectively, or the minimum and maximum values for an anisotropic s-wave gap on the electron pocket, in accord with the s^{\pm} model. The spectrum of excitations appears to be fully gapped, suggesting an absence of nodes at optimal doping in this material.
+
+###### Acknowledgements.
+
+ We would like to thank A. Akrap, J. L. Birman, G. L. Carr, A. V. Chubukov, K. Felix, D. H. Lee, I. Mazin, P. Richard, E. Schachinger, D. J. Singh, and H. Yang for helpful discussions and J. P. Carbotte for performing an inversion of the optical data. Work was supported by the National Science Foundation and the National Science Foundation of China. Work at Brookhaven National Laboratory was supported in part by the Office of Science, U.S. Department of Energy under Contract No. DE-AC02-98CH10886.
+
+## References
+
+* [1] J. Bardeen, L. N. Cooper, and J. R. Schrieffer, Phys. Rev. **108**, 1175 (1957).
+* [2] W. L. McMillan, Phys. Rev. **167**, 331 (1968).
+* [3] J. G. Bednorz and K. A. Mueller, Z. Phys. B: Condens. Matter **64**, 189 (1986).
+* [4] D. J. Van Harlingen, Rev. Mod. Phys. **67**, 515 (1995).
+* [5] J. Nagamatsu, N. Nakagawa, T. Muranaka, Y. Zenitani, and J. Akimitsu, Nature (London) **410**, 63 (2001).
+* [6] S. L. Bud'ko, G. Lapertot, C. Petrovic, C. E. Cunningham, N. Anderson, and P. C. Canfield, Phys. Rev. Lett. **86**, 1877 (2001).
+* [7] J. Kortus, I. I. Mazin, K. D. Belashchenko, V. P. Antropov, and L. L. Boyer, Phys. Rev. Lett. **86**, 4656 (2001).
+* [8] Y. Kamihara, T. Watanabe, M. Hirano, and H. Hosono, J. Am. Chem. Soc. **130**, 3296 (2008).
+* [9] Z.-A. Ren, J. Yang, W. Lu, W. Yi, X.-L. Shen, Z.-C. Li, G.-C. Che, X.-L. Dong, L.-L. Sun, F. Zhou, and Z.-X. Zhao, EPL. **82**, 57002 (2008).
+* [10] Z.-A. Ren, G.-C. Che, X.-L. Dong, J. Yang, W. Lu, W. Yi, X.-L. Shen, Z.-C. Li, L.-L. Sun, F. Zhou, and Z.-X. Zhao, EPL. **83**, 17002 (2008).
+* [11] C. Wang, L. Li, S. Chi, Z. Zhu, Z. Ren, Y. Li, Y. Wang, X. Lin, Y. Luo, S. Jiang, X. Xu, G. Cao, and Z. Xu, EPL. **83**, 67006 (2008).
+* [12] K. Ishida, Y. Nakai, and H. Hosono, J. Phys. Soc. Jpn. **78**, 062001 (2009).
+* [13] C. de la Cruz, Q. Huang, J. W. Lynn, J. Li, W. Ratcliff II, J. L. Zarestky, H. A. Mook, G. F. Chen, J. L. Luo, N. L. Wang, and P. Dai, Nature (London) **453**, 899 (2008).
+* [14] L. Boeri, O. V. Dolgov, and A. A. Golubov, Phys. Rev. Lett. **101**, 026403 (2008).
+* [15] L. Boeri, O. Dolgov, and A. Golubov, Physica C **469**, 628 (2009).
+* [16] I. I. Mazin, Nature (London) **464**, 183 (2010).
+* [17] D. C. Johnston, Adv. Phys. **59**, 803 (2010).
+* [18] M. Rotter, M. Tegel, D. Johrendt, I. Schellenberg, W. Hermes, and R. Pottegne, Phys. Rev. B **78**, 020503(R) (2008).
+* [19] P. L. Alireza, Y. T. C. Ko, J. Gillett, C. M. Petrone, J. M. Cole, G. G. Lonzarich, and S. E. Sebastian, J. Phys.: Condens. Matter **21**, 012208 (2009).
+* [20] Z. Ren, Q. Tao, S. Jiang, C. Feng, C. Wang, J. Dai, G. Cao, and Z. Xu, Phys. Rev. Lett. **102**, 137002 (2009).
+* [21] M. Rotter, M. Tegel, and D. Johrendt, Phys. Rev. Lett. **101**, 107006 (2008).
+* [22] A. S. Sefat, R. Jin, M. A. McGuire, B. C. Sales, D. J. Singh, and D. Mandrus, Phys. Rev. Lett. **101**, 117004 (2008).
+
+Figure 8: (Color online) The log-log plot of the in-plane spectral weight of the superfluid density N_{c} = \rho_{\rm 0/}8 vs \sigma_{\rm d,}T_{c}, for a variety of electron- and hole-doped cuprates compared with the result for BaFe_{1.85}Co_{0.15}As_{2}. The dashed line corresponds to the general result for the cuprates \rho_{\rm 0/}8 = 4.4\sigma_{\rm d,}T_{c} while the dotted line is the result expected for a BCS dirty-limit superconductor in the weak-coupling limit, \rho_{\rm 0/}8 = 8.1\sigma_{\rm d,}T_{c}.
+
+  * [23] L. J. Li, Y. K. Luo, Q. B. Wang, H. Chen, Z. Ren, Q. Tao, Y. K. Li, X. Lin, M. He, Z. W. Zhu, G. H. Cao, and Z. A. Xu, New J. Phys. **11**, 025008 (2009).
+* [24] C. Ren, Z.-S. Wang, H.-Q. Luo, H. Yang, L. Shan, and H.-H. Wen, Phys. Rev. Lett. **101**, 257006 (2008).
+* [25] L. Fang, H. Luo, P. Cheng, Z. Wang, Y. Jia, G. Mu, B. Shen, I. I. Mazin, L. Shan, C. Ren, and H.-H. Wen, Phys. Rev. B **80**, 140508(R) (2009).
+* [26] T. P. Park, D. S. Inosov, Ch. Niedermayer, G. L. Sun, D. Haug, N. B. Christensen, R. Dinnebier, A. V. Boris, A. J. Drew, L. Schulz, T. Shapoval, U. Wolff, V. Neu, X. Yang, C. T. Lin, B. Keimer, and V. Hinkov, Phys. Rev. Lett. **102**, 117006 (2009).
+* [27] H. Q. Yuan, J. Singleton, F. F. Balakirev, S. A. Baily, G. F. Chen, J. L. Luo, and N. L. Wang, Nature (London) **457**, 565 (2009).
+* [28] C. Martin, R. T. Gordon, M. A. Tanatar, H. Kim, N. Ni, S. L. Bud'ko, P. C. Canfield, H. Luo, H. H. Wen, Z. Wang, A. B. Vorontsov, V. G. Kogan, and R. Prozorov, Phys. Rev. B **80**, 020501(R) (2009).
+* [29] S. L. Bud'ko, N. Ni, and P. C. Canfield, Phys. Rev. B **79**, 220516(R) (2009).
+* [30] F. Rullier-Albenque, D. Colson, A. Forget, and H. Alloul, Phys. Rev. Lett. **103**, 057001 (2009).
+* [31] M. Yashima, H. Nishimura, H. Mukuda, Y. Kitaoka, K. Miyazawa, P. M. Shirage, K. Kihou, H. Kito, H. Eisaki, and A. Iyo, J. Phys. Soc. Jpn. **78**, 103702 (2009).
+* [32] K. Gofryk, A. S. Sefat, M. A. McGuire, B. C. Sales, D. Mandrus, J. D. Thompson, E. D. Bauer, and F. Ronning, Phys. Rev. B **81**, 184518 (2010).
+* [33] F. L. Ning, K. Ahilan, T. Imai, A. S. Sefat, M. A. McGuire, B. C. Sales, D. Mandrus, P. Cheng, B. Shen, and H.-H. Wen, Phys. Rev. Lett. **104**, 037001 (2010).
+* [34] M. A. Tanatar, J.-P. Reid, H. Shakeripour, X. G. Luo, N. Doiron-Leyraud, N. Ni, S. L. Bud'ko, P. C. Canfield, R. Prozorov, and L. Taillefer, Phys. Rev. Lett. **104**, 067002 (2010).
+* [35] J.-P. Reid, M. A. Tanatar, X. G. Luo, H. Shakeripour, N. Doiron-Leyraud, N. Ni, S. L. Bud'ko, P. C. Canfield, R. Prozorov, and L. Taillefer, Phys. Rev. B **82**, 064501 (2010).
+* [36] H. Ding, P. Richard, N. Nakayama, K. Sugawara, T. Arakane, Y. Sekiba, A. Takayama, S. Souma, T. Sato, T. Takahashi, Z. Wang, X. Dai, Z. Fang, G. F. Chen, J. L. Lou, and N. L. Wang, EPL. **83**, 47001 (2008).
+* [37] C. Liu, G. D. Samolyuk, Y. Lee, N. Ni, T. Kondo, A. F. Santander-Syro, S. L. Bud'ko, J. L. McChesney, E. Rotenberg, T. Valla, A. V. Fedorov, P. C. Canfield, B. N. Harmon, and A. Kaminski, Phys. Rev. Lett. **101**, 177005 (2008).
+* [38] R. Khasanov, D. V. Evtushinsky, A. Amato, H.-H. Klauss, H. Luetkens, C. Niedermayer, B. Buchner, G. L. Sun, C. T. Lin, J. T. Park, D. S. Inosov, and V. Hinkov, Phys. Rev. Lett. **102**, 187005 (2009).
+* [39] D. V. Evtushinsky, D. S. Inosov, V. B. Zabolotnyy, A. Koitzsch, M. Knupfer, B. Buchner, M. S. Viazovska, G. L. Sun, V. Hinkov, A. V. Boris, C. T. Lin, B. Keimer, A. Varykhalov, A. A. Kordyuk, and S. V. Borisenko, Phys. Rev. B **79**, 054517 (2009).
+* [40] A. Koitzsch, D. S. Inosov, D. V. Evtushinsky, V. B. Zabolotnyy, A. Koitzsch, A. A. Kordyuk, A. Kondrat, C. Hess, M. Knupfer, B. Buchner, G. L. Sun, V. Hinkov, C. T. Lin, A. Varykhalov, and S. V. Borisenko, Phys. Rev. Lett. **102**, 167001 (2009).
+* [41] V. B. Zabolotnyy, D. S. Inosov, D. V. Evtushinsky, A. Koitzsch, A. A. Kordyuk, G. L. Sun, J. T. Park, D. Haug, V. Hinkov, A. V. Boris, C. T. Lin, M. Knupfer, A. N. Yaresko, B. Buchner, A. Varykhalov, R. Follath, and S. V. Borisenko, Nature (London) **457**, 569 (2009).
+* [42] K. Terashima, Y. Sekiba, J. H. Bowen, K. Nakayama, T. Kawahara, T. Sato, P. Richard, Y.-M. Xu, L. J. Li, G. H. Cao, Z.-A. Xu, H. Ding, and T. Takahashi, Proc. Natl. Acad. Sci. U.S.A. **106**, 7330 (2009).
+* [43] Y. Sekiba, T. Sato, K. Nakayama, K. Terashima, P. Richard, J. H. Bowen, H. Ding, Y.-M. Xu, L. J. Li, G. H. Cao, Z.-A. Xu, and T. Takahashi, New J. Phys. **11**, 025020 (2009).
+* [44] C. Liu, T. Kondo, R. M. Fernandes, A. D. Palczewski, E. D. Mun, N. Ni, A. N. Thaler, A. Bostwick, E. Rotenberg, J. Schmalian, S. L. Bud'ko, P. C. Canfield, and A. Kaminski, Nat. Phys. **6**, 419 (2010).
+* [45] K. Nakayama, T. Sato, P. Richard, Y. Xu, T. Kawahara, K. Umezawa, T. Qian, M. Neupane, G. Chen, H. Ding, and T. Takahashi, arXiv:1009.4236 (unpublished).
+* [46] A. P. Litvinchuk, V. G. Hadjiev, M. N. Iliev, B. Lv, A. M. Guloy, and C. W. Chu, Phys. Rev. B **78**, 060503(R) (2008).
+* [47] L. Chauviere, Y. Gallais, M. Cazayous, A. Sacuto, M. A. Measson, D. Colson, and A. Forget, Phys. Rev. B **80**, 094504 (2009).
+* [48] M. Rahlenbeck, G. L. Sun, D. L. Sun, C. T. Lin, B. Keimer, and C. Ulrich, Phys. Rev. B **80**, 064509 (2009).
+* [49] B. Muschler, W. Prestel, R. Hackl, T. P. Devereaux, J. G. Analytis, J.-H. Chu, and I. R. Fisher, Phys. Rev. B **80**, 180510(R) (2009).
+* [50] G. Li, W. Z. Hu, J. Dong, Z. Li, P. Zheng, G. F. Chen, J. L. Luo, and N. L. Wang, Phys. Rev. Lett. **101**, 107004 (2008).
+* [51] W. Hu, Q. Zhang, and N. Wang, Physica C **469**, 545 (2009).
+* [52] J. Yang, D. Huvonen, U. Nagel, T. Room, N. Ni, P. C. Canfield, S. L. Bud'ko, J. P. Carbotte, and T. Timusk, Phys. Rev. Lett. **102**, 187003 (2009).
+* [53] D. Wu, N. Barisic, N. Drichko, S. Kaiser, A. Faridian, M. Dressel, S. Jiang, Z. Ren, L. J. Li, G. H. Cao, Z. A. Xu, H. S. Jeevan, and P. Gegenwart, Phys. Rev. B **79**, 155103 (2009).
+* [54] T. Fischer, A. Pronin, J. Wosnitza, K. Iida, F. Kurth, S. Haindl, L. Schultz, B. Holzapfel, and E. Schachinger, arXiv:1005.0692 (unpublished).
+* [55] E. van Heumen, Y. Huang, S. de Jong, A. B. Kuzmenko, M. S. Golden, and D. van der Marel, EPL **90**, 37005 (2010).
+* [56] K. W. Kim, M. Rossle, A. Dubroka, V. K. Malik, T. Wolf, and C. Bernhard, Phys. Rev. B **81**, 214508 (2010).
+* [57] B. Gorshunov, D. Wu, A. A. Vorontsov, P. Kallina, K. Iida, S. Haindl, F. Kurth, L. Schultz, B. Holzapfel, and D. Dressel, Phys. Rev. B **81**, 060509(R) (2010).
+* [58] M. Nakajima, S. Ishida, K. Kihou, Y. Tomioka, T. Ito, Y. Yoshida, C. H. Lee, H. Kito, A. Iyo, H. Eisaki, K. M. Kojima, and S. Uchida, Phys. Rev. B **81**, 104528 (2010).
+* [59] D. Wu, N. Barisic, P. Kallina, A. Faridian, B. Gorshunov, N. Drichko, L. J. Li, X. Lin, G. H. Cao, Z. A. Xu, N. L. Wang, and M. Dressel, Phys. Rev. B **81**, 100512(R) (2010).
+* [60] P. Marsik, K. W. Kim, A. Dubroka, M. Rossle, V. K. Malik, L. Schulz, C. N. Wang, C. Niedermayer, A. J. Drew, M. Willis, T. Wolf, and C. Bernhard, Phys. Rev. Lett. **105**, 057001 (2010).
+* [61] A. Perucchi, L. Baldassarre, S. Lupi, J. Y. Jiang, J. D. Weiss, E.
+
+  * [64] A. Lucarelli, A. Dusza, F. Pfuner, P. Lerch, J. G. Analytis, J.-H. Chu, I. R. Fisher, and L. Degiorgi, New J. Phys. **12**, 073036 (2010).
+* [65] R. Lobo, Y. Dai, U. Nagel, T. Room, J. Carbotte, T. Timusk, A. Forget, and D. Colson, Phys. Rev. B **82**, 100506(R) (2010).
+* [66] R. H. Liu, T. Wu, G. Wu, H. Chen, X. F. Wang, Y. L. Xie, J. J. Ying, Y. J. Yan, Q. J. Li, B. C. Shi, W. S. Chu, Z. Y. Wu, and X. H. Chen, Nature (London) **459**, 64 (2009).
+* [67] P. M. Shirage, K. Kihou, K. Miyazawa, C.-H. Lee, H. Kito, H. Eisaki, T. Yanagisawa, Y. Tanaka, and A. Iyo, Phys. Rev. Lett. **103**, 257003 (2009).
+* [68] S. Raghu, X.-L. Qi, C.-X. Liu, D. J. Scalapino, and S.-C. Zhang, Phys. Rev. B **77**, 220503(R) (2008).
+* [69] D. J. Singh and M.-H. Du, Phys. Rev. Lett. **100**, 237003 (2008).
+* [70] D. J. Singh, Phys. Rev. B **78**, 094511 (2008).
+* [71] I. I. Mazin, D. J. Singh, M. D. Johannes, and M. H. Du, Phys. Rev. Lett. **101**, 057003 (2008).
+* [72] K. Kuroki, S. Onari, R. Arita, H. Usui, Y. Tanaka, H. Kontani, and H. Aoki, Phys. Rev. Lett. **101**, 087004 (2008).
+* [73] T. A. Maier and D. J. Scalapino, Phys. Rev. B **78**, 020514 (2008).
+* [74] A. V. Chubukov, D. V. Efremov, and I. Eremin, Phys. Rev. B **78**, 134512 (2008).
+* [75] A. V. Chubukov, M. G. Vavilov, and A. B. Vorontsov, Phys. Rev. B **80**, 140515(R) (2009).
+* [76] V. Mishra, G. Boyd, S. Graser, T. Maier, P. J. Hirschfeld, and D. J. Scalapino, Phys. Rev. B **79**, 094512 (2009).
+* [77] C. C. Homes, M. Reedyk, D. A. Cradles, and T. Timusk, Appl. Opt. **32**, 2976 (1993).
+* [78] M. Dressel and G. Gruner, _Electrodynamics of Solids_ (Cambridge University Press, Cambridge, 2001).
+* [79] J. J. Tu, C. C. Homes, G. D. Gu, D. N. Basov, and M. Strongin, Phys. Rev. B **66**, 144514 (2002).
+* [80] A. Akrap, J. J. Tu, L. J. Li, G. H. Cao, Z. A. Xu, and C. C. Homes, Phys. Rev. B **80**, 180502(R) (2009).
+* [81] M. Neupane, P. Richard, Y. Xu, K. Nakayama, T. Sato, T. Takahashi, A. Fedorov, G. Xu, X. Dai, Z. Fang, Z. Wang, G. Chen, N. Wang, H. Wen, and H. Ding, arXiv:1005.2966 (unpublished).
+* [82] N. F. Mott, Philos. Mag. **26**, 1015 (1972).
+* [83] M. Gurvitch, Phys. Rev. B **24**, 7404 (1981).
+* [84] N. E. Hussey, K. Takenaka, and H. Takagi, Philos. Mag. **84**, 2847 (2004).
+* [85] J. Hancock, S. Mirzaei, J. Gillett, S. Sebastian, J. Teyssier, R. Vienonis, E. Giannini, and D. van der Marel, Phys. Rev. B **82**, 014523 (2010).
+* [86] R. A. Ferrell and R. E. Glover III, Phys. Rev. **109**, 1398 (1958).
+* [87] M. Tinkham and R. A. Ferrell, Phys. Rev. Lett. **2**, 331 (1959).
+* [88] C. Jiang, E. Schachinger, J. P. Carbotte, D. Basov, and T. Timusk, Phys. Rev. B **54**, 1264 (1996).
+* [89] T. J. Williams, A. A. Aczel, E. Baggio-Saitovitch, S. L. Bud'ko, P. C. Canfield, J. P. Carlo, T. Goko, J. Munevar, N. Ni, Y. J. Uemura, W. Yu, and G. M. Luke, Phys. Rev. B **80**, 094501 (2009).
+* [90] R. T. Gordon, N. Ni, C. Martin, M. A. Tanatar, M. D. Vannette, H. Kim, G. D. Samolyuk, J. Schmalian, S. Nandi, A. Kreyssig, A. I. Goldman, J. Q. Yan, S. L. Bud'ko, P. C. Canfield, and R. Prozorov, Phys. Rev. Lett. **102**, 127004 (2009).
+* [91] L. Luan, O. M. Auslaender, T. M. Lippman, C. W. Hicks, B. Kalisky, J.-H. Chu, J. G. Analytis, I. R. Fisher, J. R. Kirtley, and K. A. Moler, Phys. Rev. B **81**, 100501(R) (2010).
+* [92] D. C. Mattis and J. Bardeen, Phys. Rev. **111**, 412 (1958).
+* [93] W. Zimmerman, E. Brandt, M. Bauer, E. Seider, and L. Genzel, Physica C **183**, 99 (1991).
+* [94] F. Massee, Y. Huang, R. Huisman, S. de Jong, J. B. Goedkoop, and M. S. Golden, Phys. Rev. B **79**, 220517(R) (2009).
+* [95] Y. H. Ren, M. Ebrahim, H. B. Zhao, G. Lupke, Z. A. Xu, V. Adyam, and Q. Li, Phys. Rev. B **78**, 014408 (2008).
+* [96] E. E. M. Chia, J.-X. Zhu, D. Talbayev, R. D. Averitt, A. J. Taylor, K.-H. Oh, I.-S. Jo, and S.-I. Lee, Phys. Rev. Lett. **99**, 147008 (2007).
+* [97] A. Rothwarf and B. N. Taylor, Phys. Rev. Lett. **19**, 27 (1967).
+* [98] E. Gruneisen, Ann. Phys. **16**, 530 (1933).
+* [99] M. Deutsch, J. Phys. A **20**, L811 (1987).
+* [100] Y. Kong, O. V. Dolgov, O. Jepsen, and O. K. Andersen, Phys. Rev. B **64**, 020501 (2001).
+* [101] B. A. Mamedov and I. M. Askerov, Phys. Lett. A **362**, 324 (2007).
+* [102] N. Ni, S. L. Bud'ko, A. Kreyssig, S. Nandi, G. E. Rustan, A. I. Goldman, S. Gupta, J. D. Corbett, A. Kracher, and P. C. Canfield, Phys. Rev. B **78**, 014507 (2008).
+* [103] J. W. Allen and J. C. Mikkelsen, Phys. Rev. B **15**, 2952 (1977).
+* [104] A. Puchkov, D. N. Basov, and T. Timusk, J. Phys.: Condens. Matter **8**, 10049 (1996).
+* [105] D. Wu, N. Barisic, M. Dressel, G. H. Cao, Z. A. Xu, E. Schachinger, and J. P. Carbotte, Phys. Rev. B **82**, 144519 (2010).
+* [106] E. Schachinger, J. J. Tu, and J. P. Carbotte, Phys. Rev. B **67**, 214508 (2003).
+* [107] D. S. Inosov, J. T. Park, P. Bourges, D. L. Sun, Y. Sidis, A. Schneidewind, K. Hradil, D. Haug, C. T. Lin, B. Keimer, and V. Hinkov, Nat. Phys. **6**, 178 (2010).
+* [108] T. Yildirim, Physica C **469**, 425 (2009).
+* [109] J. P. Carlo, Y. J. Uemura, T. Goko, G. J. MacDougall, J. A. Rodriguez, W. Yu, G. M. Luke, P. Dai, N. Shannon, S. Miyasaka, S. Suzuki, S. Tajima, G. F. Chen, W. Z. Hu, J. L. Luo, and N. L. Wang, Phys. Rev. Lett. **102**, 087001 (2009).
+* [110] D. Wu, N. Barisic, N. Drichko, P. Kallina, A. Faridian, B. Gorshunov, M. Dressel, L. J. Li, X. Lin, G. H. Cao, and Z. A. Xu, Physica C, doi:10.1016/j.physc.2009.10.142 (2009).
+* [111] C. C. Homes, A. Akrap, J. S. Wen, Z. J. Xu, Z. W. Lin, Q. Li, and G. D. Gu, Phys. Rev. B **81**, 180508(R) (2010).
+* [112] C. C. Homes, S. V. Dordevic, M. Strongin, D. A. Bonn, R. Liang, W. N. Hardy, S. Komiya, Y. Ando, G. Yu, N. Kaneko, X. Zhao, M. Greven, D. N. Basov, and T. Timusk, Nature (London) **430**, 539 (2004).
+* [113] C. C. Homes, S. V. Dordevic, T. Valla, and M. Strongin, Phys. Rev. B **72**, 134517 (2005).
+
+ 
+
+# Optical properties of the iron arsenic superconductor BaFe_{1.85}Co_{0.15}As_{2}
+
+J. J. Tu, J. Li, W. Liu, and A. Punnoose
+
+Department of Physics, The City College of New York, New York, New York 10031, USA
+
+Y. Gong and Y. H. Ren
+
+Department of Physics and Astronomy, Hunter College, City University of New York, New York, New York 10065, USA
+
+L. J. Li, G. H. Cao, and Z. A. Xu
+
+Department of Physics, Zhejiang University, Hangzhou 310027, China
+
+C. C. Homes
+
+Department of Condensed Matter Physics and Materials Science, Brookhaven National Laboratory, Upton, New York 11973, USA
+
+Received 27 August 2010; revised manuscript received 22 October 2010; published 12 November 2010
+
+###### Abstract
+
+The transport and complex optical properties of the electron-doped iron-arsenic superconductor BaFe_{1.85}Co_{0.15}As_{2} with T_{c} = 25 K have been examined in the Fe-As planes above and below T_{c}. A Bloch-Gruneisen analysis of the resistivity yields a weak electron-phonon coupling constant \lambda_{ph} = 0.2. The low-frequency optical response in the normal state appears to be dominated by the electron pocket and may be described by a weakly interacting Fermi liquid with a Drude plasma frequency of \omega_{p,D} = 7840 cm^{-1} (= 0.972eV) and scattering rate 1/\tau_{D} = 126 cm^{-1} (= 15 meV) just above T_{c}. The frequency-dependent scattering rate 1/\tau(\omega) has kinks at =12 and 55 meV that appear to be related to bosonic excitations. Below T_{c} the majority of the superconducting plasma frequency originates from the electron pocket and is estimated to be \omega_{p,S} = 5200 cm^{-1} (\lambda_{0} = 3000 A) for T \ll T_{c}, indicating that less than half the free carriers in the normal state have collapsed into the condensate, suggesting that this material is not in the clean limit. Supporting this finding is the observation that this material falls close to the universal scaling line for a Bardeen, Cooper, and Schrieffer dirty-limit superconductor in the weak-coupling limit. There are two energy scales for the superconductivity in the optical conductivity and photoinduced reflectivity at \Delta_{1}(0) = 3.1 \pm 0.2 meV and \Delta_{2}(0) = 7.4 \pm 0.3 meV. This corresponds to either the gapping of the electron and hole pockets, respectively, or an anisotropic s-wave gap on the electron pocket; both views are consistent with the s^{\pm} model.
+
+pacs: 74.25.Gz, 74.70.Xa, 78.30.-j +
+Footnote †: preprint: PHYSICAL REVIEW B **82**, 174509 (2010)
+
+## I I. Introduction
+
+Since its discovery nearly a century ago, the field of superconductivity has periodically reinvented itself. A significant advance in the understanding of this phenomenon was achieved through the model by Bardeen, Cooper and Schrieffer (BCS), which proposed that below a critical temperature T_{c} electrons condense into pairs which are coupled through lattice vibrations; [1] these so-called Cooper pairs are bosons which constitute a supercurrent that may flow without loss. Below T_{c} an isotropic s-wave gap also opens in the spectrum of excitations across the Fermi surface. Within this model, it was thought that the T_{c}'s of conventional metals and alloys could not exceed \simeq30 K (Ref. [2]). The discovery of superconductivity at elevated temperatures in the copper-oxide materials [3] with T_{c}'s in excess of 130 K at ambient pressure and an unusual d-wave superconducting energy gap [4] indicates that these materials are not phonon mediated; indeed, the coupling mechanism in these materials remains unresolved and a subject of considerable debate. The discovery of superconductivity in MgB_{2} with a surprisingly high transition temperature T_{c} = 39 K initially suggested an unusual pairing mechanism. [5] However, the isotope effect firmly established that this material is phonon mediated; [6] in this case the high phonon frequencies in MgB_{2} are likely responsible for the enhanced critical temperature. [7]
+
+The recent discovery superconductivity in the iron-arsenic LaFeAsO_{1-x}F_{x} (1111) compound [8] at ambient pressure (T_{c} = 26 K) was surprising because iron and magnetic impurities, in general, were considered detrimental to the formation of superconductivity; T_{c}'s \approx 50 K in this material were quickly achieved through rare-earth substitutions. [9, 10, 11, 12] While such high values for T_{c} do not necessarily rule out a phonon-mediated pairing mechanism, the close proximity of magnetic order and superconductivity in these compounds [13] has lead to the suggestion that the pairing in this class of materials may have another origin. [14, 15, 16, 17] While the highest T_{c}'s are observed in the 1111 compounds, large single crystals of these materials have proven difficult to grow. For this reason attention has shifted to the structurally simpler BaFe_{2}As_{2} (122) materials, where large single crystals are readily available. Unlike the cuprates, the parent compound is metallic with a structural and magnetic transition at T_{N} \approx 140 K, below which it remains metallic. [18] The emergence of superconductivity and the suppression of the magnetic and structural transitions may be achieved through the application of pressure [19] or through chemical substitution; [20, 21, 22, 23] K doping results in a hole-doped material with a maximum T_{c} \simeq 38 K while Ni and Co doping result in electron-doped materials with a somewhat lower maximum T_{c} \approx 29 K. The electron- and hole-doped materials have been the subject of numerous investigations, including thermodynamic and transport studies, [21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35] angle-resolved photoemission [36, 37, 38, 39, 40, 41, 42, 43, 44, 45] (ARPES), and Raman [46, 47, 48, 49] and optical studies. [50, 51, 52, 53, 54, 55, 56] Several of these studies address the nature of the superconducting gaps, such as whether there are multiple gaps and whether the gaps contain nodes. The experimental picture is not clear. The isotope effect in these materials is also uncertain; while a large Fe isotope effect has been reported in BaFe_{2}As_{2} and Ba_{0.6}K_{0.4}Fe_{2}As_{2} polycrystals, [66] an inverse iron isotope effect has also been observed. [67]
+
+Despite the structural differences of the iron-arsenic compounds, the band structure of these materials is remarkably similar, with a minimal description consisting of a hole band (\alpha) centered at the \Gamma point and an electron band (\beta) at the M point of the Brillouin zone. [68, 69, 70] The mobilities are thought to be significantly higher in the electron bands. [30] Several theoretical models [71, 72, 73, 74] propose that below T_{c} superconducting s-wave energy gaps form on the electron and hole pockets, possibly with a sign change between them, the so-called s^{\pm} model. In the s^{\pm} model the gap on the electron pocket may be an extended s wave with nodes on its Fermi surface; [75] it is possible that disorder may lift the nodes. [76]
+
+In this work the electron-doped BaFe_{1.85}Co_{0.15}As_{2} superconductor (T_{c}=25 K) has been examined using several different techniques. The temperature dependence of the ab-plane resistivity is analyzed using a simple Bloch-Gruneisen framework, yielding an upper bound for the electron-phonon coupling constant of \lambda_{ph}\,\simeq\,0.2. The complex optical properties in the iron-arsenic planes have been examined in the normal and superconducting states. In the normal state, the free carrier response is dominated by the electron pocket and may be described by a simple Drude-Lorentz model. In the generalized-Drude response for T^{\infty}T_{c} the frequency-dependent scattering rate shows clear kinks at about \,\simeq\,12 and 55 meV, suggesting scattering from bosonic excitations. Below T_{c} the formation of a condensate is observed; however, less than 50% of the free carriers condense, suggesting this material is not in the clean limit. Supporting this view is the observation that this material lies close to the universal scaling line for a BCS dirty-limit superconductor in the weak-coupling limit. In order to properly model the optical conductivity below T_{c} it is necessary to introduce two superconducting energy gaps at \Delta_{1}(0)=\,3.1\,\pm\,0.2 meV and \Delta_{2}(0)=\,7.4\,\pm\,0.4 meV. This corresponds to either the gap-ping of the electron and hole pockets, respectively, or the gapping of the electron pocket by an anisotropic s-wave gap; both results are consistent with the s^{\pm} model. The time evolution of the photoinduced reflectivity change in the superconducting state yields almost identical values for the gaps. These results indicate that there are two energy scales for the superconductivity in BaFe_{1.85}Co_{0.15}As_{2} and that the pairing is likely not phonon mediated.
+
+## II Experiment
+
+Large single crystals of the iron-arsenic superconductor BaFe_{2-x}Co_{x}As_{2} were grown by a self-flux method. [23] Energy dispersive x-ray microanalysis was used to determine that the Co concentration x=0.15 was at the optimal level. The resistivity in the ab planes was measured using a standard four-probe method. The temperature dependence of the resistivity of a single crystal of BaFe_{1.85}Co_{0.15}As_{2} is shown in Fig. 1; the resistivity displays a slight curvature before abruptly going to zero at T_{c}\,\simeq\,25 K with a transition width of less than 0.7 K (inset of Fig. 1). The temperature-dependent reflectance was measured at a near-normal angle of incidence from \,\simeq\,20 to over 25 000 cm^{-1} (=2 meV\,-\,3 eV) on a cleaved surface for light polarized in the ab planes using _in situ_ evaporation technique. [77] This large frequency interval is needed to carry out a reliable Kramers-Kronig analysis where extrapolations are supplied in the limits for \omega\,\to\,0\,, \infty. For the transient reflectivity measurements, a Ti:sapphire laser system which can deliver 100-fs-short pulses at an 80 MHz repetition rate, tunable at 800 nm (1.55 eV), was used as the source of both pump and probe pulses. A standard pump-probe setup is employed with the pump beam having a spot diameter of 60 \,\mum and the time-delayed probe beam with spot diameter of 30 \,\mum. The pump beam was modulated at 2 kHz with an optical chopper and a lock-in amplifier was used to measure the transient reflectivity change, \Delta R/R, of the probe beam.
+
+## III Results and Discussion
+
+### Optical properties
+
+#### iii.1 Normal state
+
+The temperature dependence of the reflectance of BaFe_{1.85}Co_{0.15}As_{2} for light polarized in the ab planes is shown in the infrared region in Fig. 2 for several temperatures above and below T_{c}; the reflectance at 295 K is shown over a much larger region in the inset. In the normal state, the reflectance at low frequency has a R\,\propto\,1\,-\,\sqrt{\omega} response characteristic of a metal in the Hagen-Rubens regime. In addition to this generic response, just above T_{c} at 27 K there are two inflection points in the reflectance (indicated by arrows) at \,\approx\,12 and 55 meV, which may result from scattering of the carriers with underlying bosonic excitations. Below T_{c} the superconducting state displays a clear signature in the
+
+Figure 1: (Color online) Temperature-dependent ab-plane resistivity of a BaFe_{1.85}Co_{0.15}As_{2} single crystal with a superconducting transition at T_{c}=25 K; the dashed curve is a Bloch-Grüneisen fit to the resistivity data (Sec. III C). Insets: the unit cell of BaFe_{2}As_{2} in the tetragonal I4/mmm setting; detail of the resistivity in the region of T_{c} illustrating the sharp transition width \delta T_{c}\,=\,0.7 K.
+
+  reflectance. However, the reflectance is a complex quantity consisting of an amplitude and a phase, \overline{r}\!=\!\sqrt{R}\,\exp(i\,\theta). Normally, only the amplitude R\!=\!\overline{r}\overline{r}^{\ast} is measured so it is not always intuitively obvious what changes in the reflectance indicate. For this reason, the complex optical properties have been calculated from a Kramers-Kronig analysis of the reflectance.[78]
+
+The temperature dependence of the real part of the optical conductivity \sigma_{1}(\omega) of BaFe_{1.85}Co_{0.15}As_{2} in the far-infrared region is shown in Fig. 3. At room temperature the conductivity decreases slowly with increasing frequency giving way, not unlike the high-T_{c} cuprates,[79] to a rather flat response in the mid-infrared region followed by a pronounced peak at about 5200  cm^{-1} (shown in the inset). At room temperature a weak infrared-active E_{u} mode at about 94  cm^{-1} is observed that involves in-plane displacements of the Ba atoms,[46] a second E_{u} mode expected at 253  cm^{-1} is a weak feature observed only a low temperatures, suggesting that this mode may be broadened due to disorder effects.[80] As the temperature is reduced the low-frequency conductivity increases as a result of the transfer of spectral weight from high to low frequencies, and the low-frequency E_{u} mode becomes more difficult to observe. The spectral weight is defined simply as the area under the conductivity curve over a given interval, N(\omega,T)\!=\!\int_{0}^{\omega}\!\sigma_{1}(\omega^{\prime},T)d\omega^{\prime}. It is important to note that the values for the dc conductivity in Fig. 1 at 295, 200, and 27 K are in good agreement with the extrapolated values \sigma_{\rm dc}\!=\!\sigma_{1}(\omega\!\to\!0) in Fig. 3; the fact that \sigma_{\rm dc}\!=\!\sigma_{1}(\omega\!\to\!0) establishes a connection with transport and illustrates the self-consistent nature of this optical technique.
+
+One technique to reproduce the optical conductivity assumes that because these materials are multiband systems that the free-carrier response can be described by separate contributions from the electron and hole pockets while the optical properties at high frequency are described by bound excitations. In a Drude-Lorentz model, this description results in the linear combination of two Drude components.[59] The Drude-Lorentz model for the dielectric function \overline{\epsilon}(\omega) = \epsilon_{1}(\omega)\!+\!i\epsilon_{2}(\omega) can be written as
+
+\[\overline{\epsilon}(\omega)=\epsilon_{\infty}-\sum_{j}\frac{\omega_{n,Di,j}^{2 }}{\omega^{2}+i\omega/\tau_{D,j}}+\sum_{k}\frac{\Omega_{k}^{2}}{\omega_{k}^{2 }-\omega^{2}-i\omega\gamma_{k}},\]
+
+where \epsilon_{\infty} is the real part of the dielectric function at high frequency, \omega_{p,Di}^{2}\!=\!4\pi\eta\epsilon^{2}/m_{\gamma}^{*} and 1/\tau_{D,j} are the square of the plasma frequency and scattering rate for the delocalized (Drude) carriers in the jth pocket, respectively; \omega_{k}, \gamma_{k}, and \Omega_{k} are the position, width, and strength of the kth vibration or excitation. The complex conductivity is \overline{\sigma}(\omega)\!=\!\sigma_{1}(\omega)\!+\!i\sigma_{2}(\omega)\!=\!- \!i\omega[\overline{\epsilon}(\omega)\!-\!\epsilon_{\infty}]/4\,\pi.
+
+The results of the two-Drude fit to the real part of the optical conductivity just above T_{c} at 27 K are shown in Fig. 4(a) and summarized in Table 1. The two Drude responses may be characterized as "narrow" (1/\tau_{D}\!\simeq\!113 cm^{-1}) and "broad" (1/\tau_{D}\!\simeq\!5700  cm^{-1}); an additional Lorentz oscillator at \simeq\!5200  cm^{-1} has also been included as well as several others above 1 eV that are not allowed to vary (not listed in Table 1). While the fit to the data is quite good, the scattering rate for the broad Drude component is more than 50 times that of the narrow component, which raises the issue as to whether this represents a mean free path l_{j}\!=\!\nu_{F,i}\tau_{j} that is physically meaningful (\nu_{F,j} is the Fermi velocity and \tau_{j} is the scattering time of the jth pocket). There are a range of values in the literature for the Fermi velocities for the electron and hole pockets in the iron-arsenic materials. Based on photo-emission study of BaFe_{1.85}Co_{0.15}As_{2} (Ref. [43]), we estimate that the Fermi velocity of the hole pocket to be
+
+Figure 3: (Color online) The real part of the optical conductivity of BaFe_{1.85}Co_{0.15}As_{2} in the infrared region for light polarized in the a-b planes at several temperatures above and below T_{c}. The extrapolated values for \sigma_{\rm dc}\!=\!\sigma_{1}(\omega\!\to\!0) are quite well with the dc transport data from Fig. 1 at 295 (\bullet), 200 (\blacksquare), and 27 K (\blacktriangle). Below T_{c} there is a dramatic loss of low-frequency spectral weight due to the formation of a condensate. Inset: the conductivity at 295 and 27 K over a much wider frequency range.
+
+Figure 2: (Color online) The temperature dependence of the reflectance of single-crystal BaFe_{1.85}Co_{0.15}As_{2} for light polarized in the a-b planes at several temperatures above and below T_{c}. There is a dramatic change in the reflectance below T_{c}. The “kinks” in low-temperature normal-state reflectivity (27 K) at =12 and 55 meV (marked by the two arrows at the inflection points in reflectivity) result from strong scattering of the carriers with some underlying bosonic excitations at these energy scales. Inset: the reflectance over a wide frequency range at 295 K.
+
+  \simeq 270 meV A or v_{F}= 6.5\times10^{5} cm/s. This result is less than the value determined from a band-structure estimate of v_{F} for the hole pocket in a related material (\simeq8 \times 10^{6} cm/s).[69] However, it has been noted that band-structure results often have to be renormalized to agree with photoemission results.[81] The velocity of electron pocket is more difficult to calculate. As an estimate we will apply the renormalization of the hole pocket Fermi velocity to the band-structure estimate of v_{F} on the electron pocket[69] to obtain v_{F}\simeq 2\times10^{6} cm/s. We associate the narrower Drude component with the electron pocket with \tau= 2.9\times10^{-13} s which leads to a mean free path of l_{e}= 58 A or about 15 unit cells (a= 4 A in the I4/mmm setting). Associating the broad Drude component with the hole pocket with \tau\simeq 5.8 \times 10^{-15} s leads to a mean free path of l_{h}\simeq 0.4 A, which is less than the shortest interatomic spacing; even a substantial increase in v_{F} will not alter this condition. This places the mean free path below the Mott-Ioffe-Regel limit[82, 83, 84] and indicates that the conductivity in this band is no longer metallic but is instead incoherent and is best described by a bound excitation or a series of bound excitations.
+
+This suggests that it is appropriate to include a low-frequency bound excitation which my arise from localization effects or from interband transitions.[55, 85] We have therefore considered the case of two Drude contributions as well as two low-frequency Lorentz oscillators; as in the previous case oscillators above 1 eV are not fitted quantities nor are their values altered from the previous instance. The results of the fit to the data at 27 K are shown in Fig. 4(b) and are summarized in the middle frame of Table 1. The narrow Drude component at 27 K is only slightly broader than the same component in the previous approach, resulting in a slightly shorter mean free path for the electron pocket l_{e}\simeq 53 A. Much of the spectral weight formerly associated with the broad Drude component has shifted to a Lorentzian centered at \simeq 1100 cm^{-1}, resulting in a dramatic reduction in the scattering rate, 1/\tau\simeq 600 cm^{-1} and a commensurate increase in the mean free path l_{h}\simeq 3.5 A or l_{h}\simeq a; this value is still close to the Mott-Ioffe-Regel limit and it is debatable as to whether or not this constitutes metallic transport. While the uncertainties associated with most of the fitted parameters (determined from the covariance) are \leq5%, the broad and weak Drude component is difficult to fit and the errors associated with it are considerably larger, \simeq20%. If there are indeed two Drude components then the electron pocket dominates and the hole pocket represents at best a weak, possibly incoherent, background contribution as shown in Fig. 4(b).
+
+For completeness we have also considered the case of a single Drude component and two low-frequency Lorentz oscillators; the results of this fit are summarized at the bottom of Table 1. With the exception of the absence of the second Drude component, the results are essentially the same as Fig. 4(b). The width of the narrow Drude component is unchanged and the slight increase in strength reflects the fact that it has absorbed the spectral weight formerly associated with the broad Drude component. We conclude that despite the presence of multiple bands in this material, for optimal doping the normal-state transport is dominated by the single electron pocket. The fitted values for the Drude parameters at 295 K, 200 K, and 27 K are \omega_{\rho,\rm D}=7840 cm^{-1} (or 0.972 eV) and 1/\tau_{\rm D}=304 cm^{-1}, 233 cm^{-1}, and 126 cm^{-1}, respectivel
+
+\begin{table}
+\begin{tabular}{c c c c c c} Fit & Type & \omega_{k} & 1/\tau_{D,j}, \gamma_{k} & \omega_{p,D,j}, \Omega_{k} & (Å) \\ \hline
+1 & D_{1} & & 113 & 6943 & 58 \\
+1 & D_{2} & & 5720 & 19980 & 0.4 \\
+1 & L_{1} & 5170 & 5730 & 22070 & \\
+2 & D_{1} & & 126 & 7790 & 53 \\
+2 & D_{2} & & 608 & 1956 & 3.5 \\
+2 & L\  
+
+#### iii.1.2 Superconducting state
+
+Below T_{c} there is a dramatic decrease in the low-frequency optical conductivity due to the formation of a superconducting energy gap. This "missing area" is referred to as the spectral weight of the condensate N_{c} and may be calculated from the Ferrell-Glover-Tinkham sum rule [86, 87]
+
+\[N_{c}\equiv N(\omega_{c},T\!=\!T_{c})-N(\omega_{c},T\!\ll\!T_{c})=\omega_{p,S}^{ 2}/8.\]
+
+Here \omega_{p,S}^{2}\!\equiv\!4\,\pi_{m}\varepsilon^{2}/m^{*} is the square of the superconducting plasma frequency and superfluid density is \rho_{s0}\!\equiv\!\omega_{p,S}^{2}; the cut-off frequency \omega_{c}\!\simeq\!400 cm^{-1} is chosen so that the integral converges smoothly. The superconducting plasma frequency has also been determined from \epsilon_{1}(\omega) in the low-frequency limit where \epsilon_{1}(\omega)\!=\!\epsilon_{u}\!-\!\omega_{p,S}^{2}/\omega^{2}. Yet another method of extracting \omega_{p,S} from \epsilon_{1}(\omega) is to determine [-\omega^{2}\epsilon_{1}(\omega)]^{1/2} in the \omega\!\to\!0 limit [88]. All three techniques yield \omega_{p,S}\!=\!5200\pm 400 cm^{-1}, indicating that less than one half of the free carriers in the normal state have condensed (\omega_{p,S}^{2}/\omega_{p,D}^{2}\!\leq\!0.5). In a clean-limit system the scattering rate associated with the Drude free-carrier response is much smaller than the size of the fully formed isotropic optical superconducting energy gap 1/\tau\!\ll\!2\Delta_{0}. As a result the full spectral weight of the Drude component lies below the optical gap 2\Delta_{0}; for T\!\ll\!T_{c} all of the free carriers collapse into the condensate and \omega_{p,S}\!\approx\!\omega_{p,D}. In materials where the size of the free-carrier scattering rate and the optical gap are comparable, 1/\tau\!\approx\!2\Delta_{0} (the so-called dirty limit) a significant amount of the Drude spectral weight lies above 2\Delta_{0}. As a result for T\!\ll\!T_{c} the free carriers are gapped and there is no residual Drude component at low temperature; however, only a fraction of the Drude spectral weight below the optical gap 2\Delta_{0} collapses into the condensate, leading to the condition that \omega_{p,S}\!<\!\omega_{p,D}. This is precisely what we observe, implying that this material is not in the clean limit. The superfluid density can also be expressed as an effective penetration depth \lambda_{0}\!\simeq\!3000\pm 300 A, which is in good agreement with other optical measurements [55, 56, 57, 58, 59, 60] as well as estimates based on other techniques for materials with similar cobalt concentrations [89, 90, 91].
+
+The low-frequency optical conductivity is shown in more detail in Fig. 5. As previously noted, below T_{c} there is a dramatic reduction in the conductivity below about 80 cm^{-1} (\approx\!10 meV), which sets the energy scale for the superconducting energy gap \Delta_{0} and the optical gap 2\Delta_{0} [here we adopt the convention that \Delta_{j}\!\equiv\!\Delta_{j}(0)]. We note that based on this initial estimate it appears that 1/\tau_{D}\!\approx\!2\Delta_{0}, suggesting that the conductivity in this material can be modeled using a Mattis-Bardeen approach [92] for the contribution from the gapped excitations [93]. This dirty-limit approach is consistent with the observation that less than 50% of the free carriers in the normal state collapse into the condensate for T\!\ll\!T_{c}. Note that in this instance, "dirty" refers to scattering from disorder and/or electronic correlations in addition to any possible impurity effects. In Fig. 5(a) the optical conductivity in the superconducting state is described by a single isotropic gap \Delta_{0}\!\approx\!3.1 meV (T\!\ll\!T_{c}) with a moderate amount of elastic scattering (1/\tau\!=\!4\Delta_{0}, which is approximately the previously determined value of 1/\tau_{D} just above T_{c}) in linear combination with the low-frequency tails of the mid-infrared Lorentzian oscillators. While the leading-edge of the conductivity is described fairly well, there is a noticeable disagreement above about 140 cm^{-1}.
+
+To properly model the conductivity over the entire far-infrared region, two isotropic gap features are considered at \Delta_{1}\!=\!3.1 meV and \Delta_{2}\!=\!7.4 meV with 1/\tau_{j}\!=\!4\Delta_{j} for T\!\ll\!T_{c}. In combination with the Lorentzian tails, the two-gap scenario shown in Fig. 5(b) fits the data quite well. The gap amplitudes determined here are in excellent agreement with recent optical results on BaFe_{2-x}Co_{x}As_{2} for a similar cobalt concentration [54, 55], as well as photoemission [42] and tunneling results [94]. While the lower gap ratio 2\Delta_{1}/k_{\rm B}T_{c}\!\simeq\!2.9 is close to the BCS weak-coupling limit of 3.5, the upper gap ratio 2\Delta_{2}/k_{\rm B}T_{c}\!\simeq\!7.3 is considerably larger. While the data below about 40 cm^{-1} is not reproduced exactly, there is a considerable uncertainty associated with the conductivity in this spectral region. This suggestion that the Fermi surface is completely gapped in the optimally doped material is in agreement with thermodynamic studies [34, 35].
+
+The examination of the normal-state concluded that while the low-frequency optical properties were dominated by the electron pocket, a weak contribution from the hole pocket might also be present. In the formalism employed here, the inclusion of a second gap necessarily implies a second band.
+
+Figure 5: (Color online) The in-plane optical conductivity of the iron-arsenic superconductor BaFe_{1.85}Co_{0.15}As_{2} (T_{c}\!=\!25 K) shown at 27 and 6 K (dashed and solid lines, respectively). (a) The optical conductivity with a single isotropic s-wave gap of \Delta_{0}\!=\!3.1 meV with a scattering rate 1/\tau\!=\!4\Delta_{0} is calculated for T\!\ll\!T_{c} (long-dashed line) and superimposed on the contribution from the bound excitations in the mid-infrared (dotted line); the linear combination of the two curves (dotted-dashed line) does not reproduce the data well above \approx\!140 cm^{-1}. (b) The optical conductivity with isotropic s-wave gaps of \Delta_{1}\!=\!3.1 meV and \Delta_{2}\!=\!7.4 meV with the scattering rates 1/\tau_{j}\!=\!4\Delta_{j} is calculated for T\!\ll\!T_{c} and superimposed on the Lorentzian contribution; the linear combination of the three curves is in much better agreement with the measured data.
+
+ The calculated Drude response just above T_{c} in Fig. 5(b) for the two bands (not shown) is \sigma_{1,i}(\omega)\!=\!\sigma_{0,j}/(1\!+\!\omega^{2}\tau_{i}^{2}), where \sigma_{0,1}\!=\!7700\Omega^{-1}\,cm^{-1}\, and \sigma_{0,2}\!\approx\!850\Omega^{-1}\,cm^{-1}\, for the bands associated with the small and large gaps, respectively. Given that \sigma_{0,j}\!=\!\sigma_{0,j}^{2}/\tau_{j}^{2}/60, where \sigma_{p,D,j} is the plasma frequency associated with the jth band and \omega_{p,D}\!\simeq\!(\omega_{p,D,1}^{2}\!+\!\omega_{p,D,2}^{2})^{1/2} and recalling that \tau_{i}\!=\!4\Delta_{j}, we estimate that \omega_{p,D,1}\!=\!6800 cm^{-1} and \omega_{p,D,2}\!\simeq\!3500 cm^{-1}. One again it is the case that a single band dominates and that over 75% of the superconducting condensate originates from the gapping of this band.
+
+In the simple approach employed here, the two energy scales for the gaps result from the gapping of two separate bands. This view is consistent with ARPES measurements [36, 38, 39, 40, 41, 42] that indicate that both the electron and hole pockets are likely completely gapped below T_{c}. However, it is clear that the coherent transport in the normal state arises mainly from the electron pocket. It is therefore also possible that the two energy scales for the superconducting energy gaps observed here are due to single anisotropic s-wave gap on the electron pocket, which is favored within the s^{\pm} model. Because there is some uncertainty in the optical measurements with respect to the amplitude of the larger gap, time-domain measurements were performed.
+
+### Time-domain spectroscopy
+
+The details of the superconducting-gap properties have been investigated in the time domain. Figure 6(a) shows the time evolution of the photoinduced reflectivity change, \Delta R/R as a function of temperature at 800 nm. The data are fitted by \Delta R/R\!=\!\Lambda_{0}\!+\!A_{fast}\exp(-t/\,\tau_{fast})\!+\!A_{slow}\exp(- t/\,\tau_{slow}); \Delta R/R shows a biexponential decay with relaxation times \tau_{fast}\!\approx\!0.2 ps and \tau_{slow}\!\approx\!15 ps. These two decay signals are the result of Cooper-pair recombination following the photoexcitation. Figures 6(b) and 6(c) show the temperature dependence of the relaxation times (\tau_{fast} and \tau_{slow}) and the peak amplitudes are shown in the insets (A_{fast} and A_{slow}). The fact that \Delta R/R does not return to its value at t\!<\!0 above about 45 ps is due to a negative component with a long relaxation time (\simns), not a rise time. This negative component is a common feature in photoinduced reflectivity measurements of complex metallic systems involving magnetism such as colossal magnetoresistance materials [95] and the high-T_{c} cuprates; [96] this component is not related to the superconductivity. The phenomenological Rothwarf-Taylor (RT) model [97] is used to describe the quasiparticle dynamics
+
+\[\frac{dn}{dt}=I_{0}+\beta N-Rn^{2}\]
+
+and
+
+\[\frac{dN}{dt}=-\,\frac{\beta N}{2}+\,\frac{Rn^{2}}{2}-(N-N_{T})\,\gamma.\]
+
+Here n and N are the total density of quasiparticles and high-frequency bosons, respectively, \beta is the probability for pair breaking by high-frequency boson absorption, R is the bare quasiparticle recombination rate, N_{T} is the density of high-frequency bosons in equilibrium, and \gamma is their decay rate. We obtain the normalized amplitude of the signal (to its low-temperature value), A(T) via the relation: A(T)\!\propto\!(n_{T}\!-\!1)^{-1}, where the density of the thermally excited quasiparticles, n_{T}\!\propto\!\sqrt{\Delta(T)T}\exp[-\Delta(T)/T] with \Delta(0) as a fitting parameter and \Delta(T) obeying a BCS temperature dependence. Moreover, for a constant pump intensity and assuming \gamma is temperature independent, we obtain the temperature dependence of the relaxation time \tau by the temperature dependence of n_{T}
+
+\[\tau(T)^{-1}=\Gamma\{A(T)+b\sqrt{\Delta(T)T}\exp[-\,\Delta(T)/T]\},\]
+
+where \Gamma and B are fitting parameters. Since the temperature dependence of A(T) and \tau(T) are measured directly, we can accurately determine the values of the superconducting gaps, \Delta_{1}\!=\!3.5\pm 0.4 meV and \Delta_{2}\!=\!7.4\pm 1.2 meV. These gap values are in excellent agreement with the optical estimates determined in the previous section.
+
+### Electron-phonon coupling
+
+The temperature dependence of the ab-plane resistivity (Fig. 1) has been fit using the generalized Bloch-Gruneisen formula [98, 99, 100]
+
+\[\rho(T)=\rho_{0}+\lambda_{ph}(m-1)\Bigg{(}\frac{k_{\rm B}\Theta_{D}}{\omega_{ p,D}^{2}}\Bigg{)}\Bigg{(}\frac{T}{\Theta_{D}}\Bigg{)}^{m}J_{m}\Bigg{(}\frac{T}{ \Theta_{D}}\Bigg{)},\]
+
+where
+
+\[J_{m}\Bigg{(}\frac{T}{\Theta_{D}}\Bigg{)}=\int_{0}^{\Theta_{D}T}\frac{x^{m}e^{ -x}}{(1-e^{-x})^{2}}dx.\]
+
+In this instance the integer value m\!=\!5 implies that the resistance is due to the scattering of electrons by phonons. The
+
+Figure 6: (Color online) (a) The time evolution of the photoinduced reflectivity change, \Delta R/R, in BaFe_{1.85}Co_{0.15}As_{2} as a function of temperature (below T_{c}) at 800 nm (the spectra are offset for clarity). (b) Temperature dependence of the relaxation time, \tau_{fast}. The inset shows the normalized amplitude A_{fast}. Solid lines are fits to the RT model, yielding \Delta_{2}\!\approx\!7.4\pm 1.2 meV. (c) Temperature dependence of the relaxation time, \tau_{slow}. The inset shows the normalized amplitude A_{slow}. Solid lines are fits to the RT model, yielding \Delta_{1}\!\approx\!3.5\pm 0.4 meV.
+
+  Debye temperature \Theta_{D} is set to 250 K (Ref. [102]), and the plasma frequency has been previously determined to be \omega_{p,D}\!=\!0.972\pm 0.05 eV. The fit, shown by the dashed curve in Fig. 1, yields \rho_{0}\!\approx\!125 m\Omega cm and an upper bound for the transport electron-phonon coupling constant \lambda_{ph}\!\approx\!0.2\pm 0.02. This experimental estimate of \lambda_{ph} value is in excellent agreement with the theoretical value of \lambda\!=\!0.21 (Ref. [14]) which yields a maximum T_{c}\!\approx\!0.8 K. However, to get a more accurate estimate of the electron-boson coupling constant from the resistivity, the temperature dependence of the underlying bosonic spectra needs to be considered.
+
+### Electron-boson coupling
+
+The kinks observed in the normal-state reflectance in Fig. 2 at \approx12 and 55 meV suggest scattering from underlying bosonic excitations. In order to investigate this further the generalized Drude model has been considered in which the scattering rate and the effective mass are allowed to adopt a frequency dependence [103, 104]
+
+\[\frac{1}{\tau(\omega)}=\frac{\omega_{p}^{2}}{4\,\pi}\text{Re}\left[\frac{1}{ \vec{\sigma}(\omega)}\right]\]
+
+and
+
+\[\frac{m^{\ast}(\omega)}{m_{b}}=\frac{\omega_{p}^{2}}{4\,\pi\omega}\text{Im} \left[\frac{1}{\vec{\sigma}(\omega)}\right],\]
+
+where the m_{b} is the bandmass; m^{\ast}(\omega)/m_{b}\!=\!1\!+\!\lambda(\omega) and \lambda(\omega) is a frequency-dependent electron-boson coupling constant. In this instance we set \omega_{p}\!\equiv\!\omega_{p,D} and \varepsilon_{\infty}\!=\!4 (although the choice of \varepsilon_{\infty} has little effect on the scattering rate or the effective mass in the far-infrared region). The temperature dependence of 1/\tau(\omega) is shown in Fig. 7, and the inset shows the temperature dependence of m^{\ast}(\omega)/m_{b}. In the normal state, in accord with the Drude model, the scattering rate is constant below \approx100 cm^{-1} and 1/\tau(\omega\!\to\!0)\!\approx\!1/\tau_{D}. However, above \approx12 meV there is an abrupt increase in the scattering rate for [the large change in 1/\tau(\omega) for T\!\ll\!T_{c} is due to the formation of one or more superconducting energy gaps]; another kink is observed at \approx55 meV. Interestingly, the effective-mass enhancement is rather small m^{\ast}(\omega\!\to\!0)/m_{b}\approx\!2, indicating that the electron-boson coupling \lambda\!=\!\lambda(\omega\!\to\!0)\!\approx\!1; this is significantly smaller than the values of \lambda\!=\!3\!-\!4 that have recently been reported. [52, 105]
+
+The electron-boson spectral function can in be calculated from 1/\tau(\omega) using a maximum-entropy technique based on Eliashberg theory. [106] Such an analysis has recently been performed on a material with an almost identical cobalt concentration and will not be repeated here; the peaks in the electron-boson spectral function in that work [105] are observed at \approx10 and 45 meV, which is in good agreement with the kinks observed in the present study in 1/\tau(\omega) at \approx12 and 55 meV. The low-energy peak is associated with the resonance peak in the spin-excitation spectrum obtained from inelastic neutron-scattering data, [107] which when considered with the relatively weak electron-phonon interaction in this material, suggests that the superconductivity in this material may be mediated by magnetic interactions. [105] The high-energy kink lies above the highest measured phonon energy; [108] however, muon-spin relaxation measurements [109] on a number of iron pnictides suggest an antiferromagnetic energy scale of \approx50 meV indicating a possible magnetic origin for this feature. It is not clear if this boson plays a role in the superconductivity or not; however, we speculate that any mechanism that did couple to the high-energy boson might display a significantly enhanced T_{c}, suggesting that higher values for T_{c} in this class of materials may yet be possible.
+
+### Scaling of the superfluid density
+
+It has been demonstrated that a Uemura type of scaling between the superfluid density \rho_{s0} and T_{c} breaks down in the hole-doped Ba_{0.6}K_{0.4}Fe_{2}As_{2} material. [24] However, it has also been demonstrated that a number of the iron pnictide and chalcogenide materials [110, 111] the superfluid density falls on a recently proposed empirical scaling relation for the cuprate superconductors, [112, 115] shown by the dashed line in Fig. 8,
+
+\[\rho_{s0}/8\approx 4.4\,\sigma_{\text{dc}}T_{c}.\]
+
+From the estimate of \sigma_{\text{dc}}\!\equiv\!\sigma_{1}(\omega\!\to\!0)\!\approx\!8000\!\pm\!400\Omega^{-1} cm^{-1} for T\!\!\approx\!T_{c} (determined from Fig. 3, as well as Drude-Lorentz fits), and the previously determined value of \rho_{s0}\!=\!27\!\pm\!3\!\times\!10^{6} cm^{-2}, we can see that BaFe_{1.85}Co_{0.15}As_{2} also falls on this scaling line in the region of the moderately underdoped cuprates. The dotted line in Fig. 8 is the calculated result for a BCS dirty-limit superconductor in the weak-coupling limit in which the numerical constant in the scaling relation is calculated to be slightly larger, [113]\rho_{s0}/8\!\approx\!8.1\sigma_{\text{dc}}T_{c}. This scaling behavior is consistent with the observation that this material is not in the clean limit.
+
+## IV Conclusions
+
+The optical and transport properties of the iron-arsenic superconductor BaFe_{1.85}Co_{0.15}As_{2} (T_{c}\!=\!25 K) have been
+
+Figure 7: (Color online) The in-plane frequency-dependent scattering rate of BaFe_{1.85}Co_{0.15}As_{2} for several temperatures above and below T_{c} in the far-infrared region. The values for 1/\tau_{D} are shown at 295 K (\blacklozenge), 200 K (\blacksquare), and 27 K (\blacktriangle), respectively, where the scattering rate displays little temperature dependence. The dashed lines at \approx12 and 55 meV indicate changes in the slope of 1/\tau(\omega). Inset: the frequency dependence of the effective mass.
+
+  measured over a wide temperature and frequency range. A Bloch-Gruneisen analysis of the resistivity indicates that the electron-phonon coupling \lambda_{ph}  0.2 is fairly weak, suggesting that the superconductivity in this material is not mediated by lattice vibrations. The optical properties in the normal state are dominated by the electron pocket and may be described as a weakly interacting Fermi liquid, or Drude model, with \omega_{p,D}  7840 cm^{-1} and 1/\tau_{D}  126 cm^{-1} just above T_{c} at 27 K. The frequency-dependent scattering rate displays kinks at  12 and 55 meV that correspond to peaks in the electron-boson spectral function, both of which are believed to be magnetic in origin and suggest that the pairing in this material may be mediated by magnetic interactions. In the superconducting state for T  T_{c} the superconducting plasma frequency \omega_{p,S}  5200 cm^{-1}, which corresponds to an effective penetration depth of \lambda  \approx  3000  A. This indicates that only about 50% of the free carriers in the normal-state collapse into the condensate, suggesting this material is not in the clean limit. In agreement with the results of other workers, this material is observed to fall on the universal scaling line for a BCS dirty-limit superconductor and is also close to many underdoped cuprates. The energy scales observed for the superconducting energy gaps \Delta_{1}  \approx 3.1  meV and \Delta_{2}  7.4  meV correspond to either the gaps on the electron and hole pockets, respectively, or the minimum and maximum values for an anisotropic s-wave gap on the electron pocket, in accord with the s^{\pm} model. The spectrum of excitations appears to be fully gapped, suggesting an absence of nodes at optimal doping in this material.
+
+###### Acknowledgements.
+
+ We would like to thank A. Akrap, J. L. Birman, G. L. Carr, A. V. Chubukov, K. Felix, D. H. Lee, I. Mazin, P. Richard, E. Schachinger, D. J. Singh, and H. Yang for helpful discussions and J. P. Carbotte for performing an inversion of the optical data. Work was supported by the National Science Foundation and the National Science Foundation of China. Work at Brookhaven National Laboratory was supported in part by the Office of Science, U.S. Department of Energy under Contract No. DE-AC02-98CH10886.
+
+## References
+
+* [1] J. Bardeen, L. N. Cooper, and J. R. Schrieffer, Phys. Rev. **108**, 1175 (1957).
+* [2] W. L. McMillan, Phys. Rev. **167**, 331 (1968).
+* [3] J. G. Bednorz and K. A. Mueller, Z. Phys. B: Condens. Matter **64**, 189 (1986).
+* [4] D. J. Van Harlingen, Rev. Mod. Phys. **67**, 515 (1995).
+* [5] J. Nagamatsu, N. Nakagawa, T. Muranaka, Y. Zenitani, and J. Akimitsu, Nature (London) **410**, 63 (2001).
+* [6] S. L. Bud'ko, G. Lapertot, C. Petrovic, C. E. Cunningham, N. Anderson, and P. C. Canfield, Phys. Rev. Lett. **86**, 1877 (2001).
+* [7] J. Kortus, I. I. Mazin, K. D. Belashchenko, V. P. Antropov, and L. L. Boyer, Phys. Rev. Lett. **86**, 4656 (2001).
+* [8] Y. Kamihara, T. Watanabe, M. Hirano, and H. Hosono, J. Am. Chem. Soc. **130**, 3296 (2008).
+* [9] Z.-A. Ren, J. Yang, W. Lu, W. Yi, X.-L. Shen, Z.-C. Li, G.-C. Che, X.-L. Dong, L.-L. Sun, F. Zhou, and Z.-X. Zhao, EPL. **82**, 57002 (2008).
+* [10] Z.-A. Ren, G.-C. Che, X.-L. Dong, J. Yang, W. Lu, W. Yi, X.-L. Shen, Z.-C. Li, L.-L. Sun, F. Zhou, and Z.-X. Zhao, EPL. **83**, 17002 (2008).
+* [11] C. Wang, L. Li, S. Chi, Z. Zhu, Z. Ren, Y. Li, Y. Wang, X. Lin, Y. Luo, S. Jiang, X. Xu, G. Cao, and Z. Xu, EPL. **83**, 67006 (2008).
+* [12] K. Ishida, Y. Nakai, and H. Hosono, J. Phys. Soc. Jpn. **78**, 062001 (2009).
+* [13] C. de la Cruz, Q. Huang, J. W. Lynn, J. Li, W. Ratcliff II, J. L. Zarestky, H. A. Mook, G. F. Chen, J. L. Luo, N. L. Wang, and P. Dai, Nature (London) **453**, 899 (2008).
+* [14] L. Boeri, O. V. Dolgov, and A. A. Golubov, Phys. Rev. Lett. **101**, 026403 (2008).
+* [15] L. Boeri, O. Dolgov, and A. Golubov, Physica C **469**, 628 (2009).
+* [16] I. I. Mazin, Nature (London) **464**, 183 (2010).
+* [17] D. C. Johnston, Adv. Phys. **59**, 803 (2010).
+* [18] M. Rotter, M. Tegel, D. Johrendt, I. Schellenberg, W. Hermes, and R. Pottegne, Phys. Rev. B **78**, 020503(R) (2008).
+* [19] P. L. Alireza, Y. T. C. Ko, J. Gillett, C. M. Petrone, J. M. Cole, G. G. Lonzarich, and S. E. Sebastian, J. Phys.: Condens. Matter **21**, 012208 (2009).
+* [20] Z. Ren, Q. Tao, S. Jiang, C. Feng, C. Wang, J. Dai, G. Cao, and Z. Xu, Phys. Rev. Lett. **102**, 137002 (2009).
+* [21] M. Rotter, M. Tegel, and D. Johrendt, Phys. Rev. Lett. **101**, 107006 (2008).
+* [22] A. S. Sefat, R. Jin, M. A. McGuire, B. C. Sales, D. J. Singh, and D. Mandrus, Phys. Rev. Lett. **101**, 117004 (2008).
+
+Figure 8: (Color online) The log-log plot of the in-plane spectral weight of the superfluid density N_{c} = \rho_{\rm 0/}8 vs \sigma_{\rm d,}T_{c}, for a variety of electron- and hole-doped cuprates compared with the result for BaFe_{1.85}Co_{0.15}As_{2}. The dashed line corresponds to the general result for the cuprates \rho_{\rm 0/}8 = 4.4\sigma_{\rm d,}T_{c} while the dotted line is the result expected for a BCS dirty-limit superconductor in the weak-coupling limit, \rho_{\rm 0/}8 = 8.1\sigma_{\rm d,}T_{c}.
+
+  * [23] L. J. Li, Y. K. Luo, Q. B. Wang, H. Chen, Z. Ren, Q. Tao, Y. K. Li, X. Lin, M. He, Z. W. Zhu, G. H. Cao, and Z. A. Xu, New J. Phys. **11**, 025008 (2009).
+* [24] C. Ren, Z.-S. Wang, H.-Q. Luo, H. Yang, L. Shan, and H.-H. Wen, Phys. Rev. Lett. **101**, 257006 (2008).
+* [25] L. Fang, H. Luo, P. Cheng, Z. Wang, Y. Jia, G. Mu, B. Shen, I. I. Mazin, L. Shan, C. Ren, and H.-H. Wen, Phys. Rev. B **80**, 140508(R) (2009).
+* [26] T. P. Park, D. S. Inosov, Ch. Niedermayer, G. L. Sun, D. Haug, N. B. Christensen, R. Dinnebier, A. V. Boris, A. J. Drew, L. Schulz, T. Shapoval, U. Wolff, V. Neu, X. Yang, C. T. Lin, B. Keimer, and V. Hinkov, Phys. Rev. Lett. **102**, 117006 (2009).
+* [27] H. Q. Yuan, J. Singleton, F. F. Balakirev, S. A. Baily, G. F. Chen, J. L. Luo, and N. L. Wang, Nature (London) **457**, 565 (2009).
+* [28] C. Martin, R. T. Gordon, M. A. Tanatar, H. Kim, N. Ni, S. L. Bud'ko, P. C. Canfield, H. Luo, H. H. Wen, Z. Wang, A. B. Vorontsov, V. G. Kogan, and R. Prozorov, Phys. Rev. B **80**, 020501(R) (2009).
+* [29] S. L. Bud'ko, N. Ni, and P. C. Canfield, Phys. Rev. B **79**, 220516(R) (2009).
+* [30] F. Rullier-Albenque, D. Colson, A. Forget, and H. Alloul, Phys. Rev. Lett. **103**, 057001 (2009).
+* [31] M. Yashima, H. Nishimura, H. Mukuda, Y. Kitaoka, K. Miyazawa, P. M. Shirage, K. Kihou, H. Kito, H. Eisaki, and A. Iyo, J. Phys. Soc. Jpn. **78**, 103702 (2009).
+* [32] K. Gofryk, A. S. Sefat, M. A. McGuire, B. C. Sales, D. Mandrus, J. D. Thompson, E. D. Bauer, and F. Ronning, Phys. Rev. B **81**, 184518 (2010).
+* [33] F. L. Ning, K. Ahilan, T. Imai, A. S. Sefat, M. A. McGuire, B. C. Sales, D. Mandrus, P. Cheng, B. Shen, and H.-H. Wen, Phys. Rev. Lett. **104**, 037001 (2010).
+* [34] M. A. Tanatar, J.-P. Reid, H. Shakeripour, X. G. Luo, N. Doiron-Leyraud, N. Ni, S. L. Bud'ko, P. C. Canfield, R. Prozorov, and L. Taillefer, Phys. Rev. Lett. **104**, 067002 (2010).
+* [35] J.-P. Reid, M. A. Tanatar, X. G. Luo, H. Shakeripour, N. Doiron-Leyraud, N. Ni, S. L. Bud'ko, P. C. Canfield, R. Prozorov, and L. Taillefer, Phys. Rev. B **82**, 064501 (2010).
+* [36] H. Ding, P. Richard, N. Nakayama, K. Sugawara, T. Arakane, Y. Sekiba, A. Takayama, S. Souma, T. Sato, T. Takahashi, Z. Wang, X. Dai, Z. Fang, G. F. Chen, J. L. Lou, and N. L. Wang, EPL. **83**, 47001 (2008).
+* [37] C. Liu, G. D. Samolyuk, Y. Lee, N. Ni, T. Kondo, A. F. Santander-Syro, S. L. Bud'ko, J. L. McChesney, E. Rotenberg, T. Valla, A. V. Fedorov, P. C. Canfield, B. N. Harmon, and A. Kaminski, Phys. Rev. Lett. **101**, 177005 (2008).
+* [38] R. Khasanov, D. V. Evtushinsky, A. Amato, H.-H. Klauss, H. Luetkens, C. Niedermayer, B. Buchner, G. L. Sun, C. T. Lin, J. T. Park, D. S. Inosov, and V. Hinkov, Phys. Rev. Lett. **102**, 187005 (2009).
+* [39] D. V. Evtushinsky, D. S. Inosov, V. B. Zabolotnyy, A. Koitzsch, M. Knupfer, B. Buchner, M. S. Viazovska, G. L. Sun, V. Hinkov, A. V. Boris, C. T. Lin, B. Keimer, A. Varykhalov, A. A. Kordyuk, and S. V. Borisenko, Phys. Rev. B **79**, 054517 (2009).
+* [40] A. Koitzsch, D. S. Inosov, D. V. Evtushinsky, V. B. Zabolotnyy, A. Koitzsch, A. A. Kordyuk, A. Kondrat, C. Hess, M. Knupfer, B. Buchner, G. L. Sun, V. Hinkov, C. T. Lin, A. Varykhalov, and S. V. Borisenko, Phys. Rev. Lett. **102**, 167001 (2009).
+* [41] V. B. Zabolotnyy, D. S. Inosov, D. V. Evtushinsky, A. Koitzsch, A. A. Kordyuk, G. L. Sun, J. T. Park, D. Haug, V. Hinkov, A. V. Boris, C. T. Lin, M. Knupfer, A. N. Yaresko, B. Buchner, A. Varykhalov, R. Follath, and S. V. Borisenko, Nature (London) **457**, 569 (2009).
+* [42] K. Terashima, Y. Sekiba, J. H. Bowen, K. Nakayama, T. Kawahara, T. Sato, P. Richard, Y.-M. Xu, L. J. Li, G. H. Cao, Z.-A. Xu, H. Ding, and T. Takahashi, Proc. Natl. Acad. Sci. U.S.A. **106**, 7330 (2009).
+* [43] Y. Sekiba, T. Sato, K. Nakayama, K. Terashima, P. Richard, J. H. Bowen, H. Ding, Y.-M. Xu, L. J. Li, G. H. Cao, Z.-A. Xu, and T. Takahashi, New J. Phys. **11**, 025020 (2009).
+* [44] C. Liu, T. Kondo, R. M. Fernandes, A. D. Palczewski, E. D. Mun, N. Ni, A. N. Thaler, A. Bostwick, E. Rotenberg, J. Schmalian, S. L. Bud'ko, P. C. Canfield, and A. Kaminski, Nat. Phys. **6**, 419 (2010).
+* [45] K. Nakayama, T. Sato, P. Richard, Y. Xu, T. Kawahara, K. Umezawa, T. Qian, M. Neupane, G. Chen, H. Ding, and T. Takahashi, arXiv:1009.4236 (unpublished).
+* [46] A. P. Litvinchuk, V. G. Hadjiev, M. N. Iliev, B. Lv, A. M. Guloy, and C. W. Chu, Phys. Rev. B **78**, 060503(R) (2008).
+* [47] L. Chauviere, Y. Gallais, M. Cazayous, A. Sacuto, M. A. Measson, D. Colson, and A. Forget, Phys. Rev. B **80**, 094504 (2009).
+* [48] M. Rahlenbeck, G. L. Sun, D. L. Sun, C. T. Lin, B. Keimer, and C. Ulrich, Phys. Rev. B **80**, 064509 (2009).
+* [49] B. Muschler, W. Prestel, R. Hackl, T. P. Devereaux, J. G. Analytis, J.-H. Chu, and I. R. Fisher, Phys. Rev. B **80**, 180510(R) (2009).
+* [50] G. Li, W. Z. Hu, J. Dong, Z. Li, P. Zheng, G. F. Chen, J. L. Luo, and N. L. Wang, Phys. Rev. Lett. **101**, 107004 (2008).
+* [51] W. Hu, Q. Zhang, and N. Wang, Physica C **469**, 545 (2009).
+* [52] J. Yang, D. Huvonen, U. Nagel, T. Room, N. Ni, P. C. Canfield, S. L. Bud'ko, J. P. Carbotte, and T. Timusk, Phys. Rev. Lett. **102**, 187003 (2009).
+* [53] D. Wu, N. Barisic, N. Drichko, S. Kaiser, A. Faridian, M. Dressel, S. Jiang, Z. Ren, L. J. Li, G. H. Cao, Z. A. Xu, H. S. Jeevan, and P. Gegenwart, Phys. Rev. B **79**, 155103 (2009).
+* [54] T. Fischer, A. Pronin, J. Wosnitza, K. Iida, F. Kurth, S. Haindl, L. Schultz, B. Holzapfel, and E. Schachinger, arXiv:1005.0692 (unpublished).
+* [55] E. van Heumen, Y. Huang, S. de Jong, A. B. Kuzmenko, M. S. Golden, and D. van der Marel, EPL **90**, 37005 (2010).
+* [56] K. W. Kim, M. Rossle, A. Dubroka, V. K. Malik, T. Wolf, and C. Bernhard, Phys. Rev. B **81**, 214508 (2010).
+* [57] B. Gorshunov, D. Wu, A. A. Vorontsov, P. Kallina, K. Iida, S. Haindl, F. Kurth, L. Schultz, B. Holzapfel, and D. Dressel, Phys. Rev. B **81**, 060509(R) (2010).
+* [58] M. Nakajima, S. Ishida, K. Kihou, Y. Tomioka, T. Ito, Y. Yoshida, C. H. Lee, H. Kito, A. Iyo, H. Eisaki, K. M. Kojima, and S. Uchida, Phys. Rev. B **81**, 104528 (2010).
+* [59] D. Wu, N. Barisic, P. Kallina, A. Faridian, B. Gorshunov, N. Drichko, L. J. Li, X. Lin, G. H. Cao, Z. A. Xu, N. L. Wang, and M. Dressel, Phys. Rev. B **81**, 100512(R) (2010).
+* [60] P. Marsik, K. W. Kim, A. Dubroka, M. Rossle, V. K. Malik, L. Schulz, C. N. Wang, C. Niedermayer, A. J. Drew, M. Willis, T. Wolf, and C. Bernhard, Phys. Rev. Lett. **105**, 057001 (2010).
+* [61] A. Perucchi, L. Baldassarre, S. Lupi, J. Y. Jiang, J. D. Weiss, E.
+
+  * [64] A. Lucarelli, A. Dusza, F. Pfuner, P. Lerch, J. G. Analytis, J.-H. Chu, I. R. Fisher, and L. Degiorgi, New J. Phys. **12**, 073036 (2010).
+* [65] R. Lobo, Y. Dai, U. Nagel, T. Room, J. Carbotte, T. Timusk, A. Forget, and D. Colson, Phys. Rev. B **82**, 100506(R) (2010).
+* [66] R. H. Liu, T. Wu, G. Wu, H. Chen, X. F. Wang, Y. L. Xie, J. J. Ying, Y. J. Yan, Q. J. Li, B. C. Shi, W. S. Chu, Z. Y. Wu, and X. H. Chen, Nature (London) **459**, 64 (2009).
+* [67] P. M. Shirage, K. Kihou, K. Miyazawa, C.-H. Lee, H. Kito, H. Eisaki, T. Yanagisawa, Y. Tanaka, and A. Iyo, Phys. Rev. Lett. **103**, 257003 (2009).
+* [68] S. Raghu, X.-L. Qi, C.-X. Liu, D. J. Scalapino, and S.-C. Zhang, Phys. Rev. B **77**, 220503(R) (2008).
+* [69] D. J. Singh and M.-H. Du, Phys. Rev. Lett. **100**, 237003 (2008).
+* [70] D. J. Singh, Phys. Rev. B **78**, 094511 (2008).
+* [71] I. I. Mazin, D. J. Singh, M. D. Johannes, and M. H. Du, Phys. Rev. Lett. **101**, 057003 (2008).
+* [72] K. Kuroki, S. Onari, R. Arita, H. Usui, Y. Tanaka, H. Kontani, and H. Aoki, Phys. Rev. Lett. **101**, 087004 (2008).
+* [73] T. A. Maier and D. J. Scalapino, Phys. Rev. B **78**, 020514 (2008).
+* [74] A. V. Chubukov, D. V. Efremov, and I. Eremin, Phys. Rev. B **78**, 134512 (2008).
+* [75] A. V. Chubukov, M. G. Vavilov, and A. B. Vorontsov, Phys. Rev. B **80**, 140515(R) (2009).
+* [76] V. Mishra, G. Boyd, S. Graser, T. Maier, P. J. Hirschfeld, and D. J. Scalapino, Phys. Rev. B **79**, 094512 (2009).
+* [77] C. C. Homes, M. Reedyk, D. A. Cradles, and T. Timusk, Appl. Opt. **32**, 2976 (1993).
+* [78] M. Dressel and G. Gruner, _Electrodynamics of Solids_ (Cambridge University Press, Cambridge, 2001).
+* [79] J. J. Tu, C. C. Homes, G. D. Gu, D. N. Basov, and M. Strongin, Phys. Rev. B **66**, 144514 (2002).
+* [80] A. Akrap, J. J. Tu, L. J. Li, G. H. Cao, Z. A. Xu, and C. C. Homes, Phys. Rev. B **80**, 180502(R) (2009).
+* [81] M. Neupane, P. Richard, Y. Xu, K. Nakayama, T. Sato, T. Takahashi, A. Fedorov, G. Xu, X. Dai, Z. Fang, Z. Wang, G. Chen, N. Wang, H. Wen, and H. Ding, arXiv:1005.2966 (unpublished).
+* [82] N. F. Mott, Philos. Mag. **26**, 1015 (1972).
+* [83] M. Gurvitch, Phys. Rev. B **24**, 7404 (1981).
+* [84] N. E. Hussey, K. Takenaka, and H. Takagi, Philos. Mag. **84**, 2847 (2004).
+* [85] J. Hancock, S. Mirzaei, J. Gillett, S. Sebastian, J. Teyssier, R. Vienonis, E. Giannini, and D. van der Marel, Phys. Rev. B **82**, 014523 (2010).
+* [86] R. A. Ferrell and R. E. Glover III, Phys. Rev. **109**, 1398 (1958).
+* [87] M. Tinkham and R. A. Ferrell, Phys. Rev. Lett. **2**, 331 (1959).
+* [88] C. Jiang, E. Schachinger, J. P. Carbotte, D. Basov, and T. Timusk, Phys. Rev. B **54**, 1264 (1996).
+* [89] T. J. Williams, A. A. Aczel, E. Baggio-Saitovitch, S. L. Bud'ko, P. C. Canfield, J. P. Carlo, T. Goko, J. Munevar, N. Ni, Y. J. Uemura, W. Yu, and G. M. Luke, Phys. Rev. B **80**, 094501 (2009).
+* [90] R. T. Gordon, N. Ni, C. Martin, M. A. Tanatar, M. D. Vannette, H. Kim, G. D. Samolyuk, J. Schmalian, S. Nandi, A. Kreyssig, A. I. Goldman, J. Q. Yan, S. L. Bud'ko, P. C. Canfield, and R. Prozorov, Phys. Rev. Lett. **102**, 127004 (2009).
+* [91] L. Luan, O. M. Auslaender, T. M. Lippman, C. W. Hicks, B. Kalisky, J.-H. Chu, J. G. Analytis, I. R. Fisher, J. R. Kirtley, and K. A. Moler, Phys. Rev. B **81**, 100501(R) (2010).
+* [92] D. C. Mattis and J. Bardeen, Phys. Rev. **111**, 412 (1958).
+* [93] W. Zimmerman, E. Brandt, M. Bauer, E. Seider, and L. Genzel, Physica C **183**, 99 (1991).
+* [94] F. Massee, Y. Huang, R. Huisman, S. de Jong, J. B. Goedkoop, and M. S. Golden, Phys. Rev. B **79**, 220517(R) (2009).
+* [95] Y. H. Ren, M. Ebrahim, H. B. Zhao, G. Lupke, Z. A. Xu, V. Adyam, and Q. Li, Phys. Rev. B **78**, 014408 (2008).
+* [96] E. E. M. Chia, J.-X. Zhu, D. Talbayev, R. D. Averitt, A. J. Taylor, K.-H. Oh, I.-S. Jo, and S.-I. Lee, Phys. Rev. Lett. **99**, 147008 (2007).
+* [97] A. Rothwarf and B. N. Taylor, Phys. Rev. Lett. **19**, 27 (1967).
+* [98] E. Gruneisen, Ann. Phys. **16**, 530 (1933).
+* [99] M. Deutsch, J. Phys. A **20**, L811 (1987).
+* [100] Y. Kong, O. V. Dolgov, O. Jepsen, and O. K. Andersen, Phys. Rev. B **64**, 020501 (2001).
+* [101] B. A. Mamedov and I. M. Askerov, Phys. Lett. A **362**, 324 (2007).
+* [102] N. Ni, S. L. Bud'ko, A. Kreyssig, S. Nandi, G. E. Rustan, A. I. Goldman, S. Gupta, J. D. Corbett, A. Kracher, and P. C. Canfield, Phys. Rev. B **78**, 014507 (2008).
+* [103] J. W. Allen and J. C. Mikkelsen, Phys. Rev. B **15**, 2952 (1977).
+* [104] A. Puchkov, D. N. Basov, and T. Timusk, J. Phys.: Condens. Matter **8**, 10049 (1996).
+* [105] D. Wu, N. Barisic, M. Dressel, G. H. Cao, Z. A. Xu, E. Schachinger, and J. P. Carbotte, Phys. Rev. B **82**, 144519 (2010).
+* [106] E. Schachinger, J. J. Tu, and J. P. Carbotte, Phys. Rev. B **67**, 214508 (2003).
+* [107] D. S. Inosov, J. T. Park, P. Bourges, D. L. Sun, Y. Sidis, A. Schneidewind, K. Hradil, D. Haug, C. T. Lin, B. Keimer, and V. Hinkov, Nat. Phys. **6**, 178 (2010).
+* [108] T. Yildirim, Physica C **469**, 425 (2009).
+* [109] J. P. Carlo, Y. J. Uemura, T. Goko, G. J. MacDougall, J. A. Rodriguez, W. Yu, G. M. Luke, P. Dai, N. Shannon, S. Miyasaka, S. Suzuki, S. Tajima, G. F. Chen, W. Z. Hu, J. L. Luo, and N. L. Wang, Phys. Rev. Lett. **102**, 087001 (2009).
+* [110] D. Wu, N. Barisic, N. Drichko, P. Kallina, A. Faridian, B. Gorshunov, M. Dressel, L. J. Li, X. Lin, G. H. Cao, and Z. A. Xu, Physica C, doi:10.1016/j.physc.2009.10.142 (2009).
+* [111] C. C. Homes, A. Akrap, J. S. Wen, Z. J. Xu, Z. W. Lin, Q. Li, and G. D. Gu, Phys. Rev. B **81**, 180508(R) (2010).
+* [112] C. C. Homes, S. V. Dordevic, M. Strongin, D. A. Bonn, R. Liang, W. N. Hardy, S. Komiya, Y. Ando, G. Yu, N. Kaneko, X. Zhao, M. Greven, D. N. Basov, and T. Timusk, Nature (London) **430**, 539 (2004).
+* [113] C. C. Homes, S. V. Dordevic, T. Valla, and M. Strongin, Phys. Rev. B **72**, 134517 (2005).
+
+ 

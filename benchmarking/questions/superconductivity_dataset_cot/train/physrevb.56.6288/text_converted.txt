@@ -1,0 +1,488 @@
+# Electron-lattice coupling and stripe formation in La_(2 − x)Ba_(x)CuO₄
+
+J.-S. Zhou and J. B. Goodenough
+
+Center for Materials Science & Engineering, ETC 9.102, University of
+Texas at Austin, Austin, Texas 78712-1063
+
+13 January 1997; revised manuscript received 12 May 1997
+
+###### Abstract
+
+The temperature dependence of the resistance R(T) and the thermoelectric
+power α(T) under different hydrostatic pressures P are reported for
+polycrystalline La_(2 − x)Ba_(x)CuO₄, 0.11 ≤ x ≤ 14; they reveal a
+minimum in R(T) and an abrupt change in the sign of α(T) at a transition
+from the low-temperature tetragonal (LTT) to the low-temperature
+orthorhombic phase. Superconductivity is suppressed at ambient pressure
+in the range 0.12 ≤ x ≤ 0.13, where neutron-diffraction data have shown
+a static charge ordering into hole-rich and magnetic stripes, but
+pressure introduces n-type superconductivity into these compositions
+within the LTT phase with a dT₀/dP ≈ 1.0 K/kbar. The x = 0.14 sample is
+superconductive at ambient pressure in the LTT phase, and dT₀/dP > 0
+changes to dT₀/dP = 0 at a P_(c) ≈ 10 kbar. No anomaly in the transport
+properties is found at the magnetic ordering temperature T_(N) ≈ 30 K in
+the LTT phase. These data, which show no support for stripe formation
+and superconductivity resulting from magnetic interactions, are found to
+be compatible with a model of strong coupling of charge carriers in
+coherent electronic states to fluctuations in the Cu-O bond lengths.
+Periodically alternating stripes of hole-rich and magnetic domains in
+the CuO₂ sheets are pinned, for x ≈ 1/8, by the crystallographic
+distortion of the LTT phase; but the application of hydrostatic
+pressure, which decreases the magnitude of the LTT deformation, restores
+superconductivity apparently by depinning the stripes.
+[S0163-1829(97)09234-5]
+
+## Introduction
+
+At high temperatures, the superconductive systems L_(2 − x)A_(x)CuO₄, L
+= rare earth and A = alkaline earth, are tetragonal with CuO₂ planes
+alternating with L_(2 − x)A_(x)O₂ rocksalt layers on traversing the c
+axis. This high-temperature tetragonal (HTT) phase remains stable to
+lowest temperatures at higher values of x (x > 0.2). For smaller values
+of x, the mismatch between the mean equilibrium L,A - O bond length and
+the equilibrium Cu-O bond length in the CuO₂ planes places the in-plane
+Cu-O bonds under a compressive stress. The bond length mismatch
+increases with decreasing temperature because of a smaller thermal
+expansion of the equilibrium Cu-O bond length; and below a transition
+temperature T_(t), the compressive stress on the CuO₂ planes is relieved
+by a cooperative rotation of the CuO₆ octahedra around the [110] axes,
+which lowers the symmetry from tetragonal to orthorhombic. In the
+low-temperature orthorhombic (LTO) phase, the 180^(∘) Cu-O-Cu bonds of
+the CuO₂ planes are buckled to (180^(∘) - ϕ), transforming the planes to
+sheets.[1] The LTO-HTT transition temperature T_(t) decreases
+monotonically with increasing x.
+
+In the system La_(2 − x)Ba_(x)CuO₄, there is a second crystallographic
+transition below a T_(t2) ≤ T_(t) in a narrow compositional range 0.11 <
+x ≤ 0.15; in the low-temperature tetragonal (LTT) phase stabilized below
+T_(t2), the CuO₆ octahedra rotate alternately about [100] and [010] axes
+of a CuO₂ sheet on traversing the c axis.[2] At compositions close to x
+= 1/8 within the LTT phase field, superconductivity is suppressed; in x
+= 1/8 compositions exhibiting similar behavior, static ’stripes’
+parallel to [100] or [010] axes of the CuO₂ sheets have been observed to
+appear abruptly below T_(t2) by neutron diffraction.[2, 3] The existence
+of these stripes has also been demonstrated by EXAFS.[4, 5]
+Significantly, a high resolution synchrotron x-ray diffraction study of
+a composition with x = 0.15 has shown that superconductivity exists in
+the LTT phase,[6] although with a reduced T_(c), and static stripes were
+found only in samples where superconductivity is suppressed. However,
+inelastic neutron-scattering data are compatible with the presence of
+mobile stripes in a superconducting La_(2 − x)Sr_(x)CuO₄ composition
+with the LTO structure.[7] These observations add strong support to
+heterogeneous electronic models of the copper-oxide superconductors that
+would segregate holes and spins into hole-rich and hole-poor domains.
+Moreover, in-plane thermal conductivity data provide striking evidence
+for a scattering of acoustic phonons by mobile "stripes," but not by the
+pinned stripes.[8]
+
+Although the existence of mobile stripe domains in a magnetic matrix now
+appears firmly established for the normal state of the copper-oxide
+superconductors, the driving force for their formation remains
+controversial. In order to simplify the description of a complex system
+of interacting charges, spins and lattice vibrations, emphasis has been
+given to one feature or another. One approach would emphasize the
+electron-electron and magnetic interactions, as in a t_-J_ model;[9]
+another invokes the inherent lattice instability associated with the
+location of the Fermi energy ϵ_(F) in a van Hove singularity where the
+density N(ϵ_(F)) of one-particle states is exceptionally high.[10]
+We,[11, 12, 13, 14] on the other hand, have pointed out that a
+transition from localized (or strongly correlated) to itinerant
+electronic behavior may introduce a double-well potential for the
+equilibrium Cu-O bond length that would favor a segregation into
+hole-rich and magnetic domains. Moreover, where that segregation gives
+rise to an ordered alteration of the two types of domains, the
+heterogeneous state would represent a distinguishable thermodynamic
+phase.
+
+Our thermoelectric power data indicated that formation of the
+distinguishable thermodynamic phase occurs by the con densation of a gas
+of nonadiabatic polarons containing several copper centers rather than
+by a van Hove instability. However, the data forced us to introduce
+local, dynamic pseudo-Jahn-Teller deformations of the oxidized copper
+centers; cooperativity among the local deformations was shown to
+stabilize polarons containing several copper centers and to introduce an
+elastic coupling between polarons that can compete with the Coulomb
+repulsion between them.[15] Condensation of the polarons into extended
+domains introduces coherent electronic states having a dispersion
+$\epsilon({\bf k})$ and a defined Fermi surface; these coherent states
+coexist with incoherent (localized) states in the lower Hubbard band
+(LHB) of the magnetic domains that lie well below ϵ_(F). A gap at
+half-band in the coherent states makes the coherent charge carriers p
+type.
+
+In this paper, we report the temperature dependence of the resistance
+R(T) and of the thermoelectric power α(T) under different hydrostatic
+pressures for polycrystalline samples of La_(2 − x)Ba_(x)CuO₄ in the
+narrow compositional range 0.11≤_x_ <= 0.14, and we argue that these
+data and similar measurements on the system La_(2 − x)Sr_(x)CuO₄ provide
+evidence for a βN(ϵ_(F))/∂ϕ<0, or a $\beta n_{\rm eff}/\partial\phi$<0,
+where ϕ is a measure of the bending of the (180^(∘) - ϕ) Cu-O-Cu bond
+angle and $n_{\rm eff}$ is the effective density of mobile charge
+carriers. On the other hand, the spin system appears to have little
+influence on the transport properties. These findings provide a strong
+indication that the electron-lattice, not the magnetic, interactions
+control the formation of the electronically heterogeneous thermodynamic
+phase found for the normal state of the copper-oxide superconductors.
+
+## Experiment
+
+Samples of La_(2 − x)Ba_(x)CuO₄ were made from La₂O₃, BaCO₃, and CuO
+powders by conventional solid-state reaction. The samples were sintered
+at 1050 ^(∘)C followed by an anneal in oxygen atmosphere at 900 ^(∘)C.
+All samples were single phase to x-ray diffraction. Comparison of our
+data with the literature indicates that there is little, if any,
+deviation from oxygen stoichiometry.
+
+Four-probe resistance R(T) and thermoelectric-power α(T) measurements
+under high pressure were carried out in a self-clamped apparatus
+described elsewhere.[16] The contribution to α(T) from the copper leads
+was subtracted out. The accuracy of the α(T) measurements is ±0.3 μV/K.
+
+We use T₀ in place of the superconductive critical temperature T_(c) ;
+it is defined as the temperature below which the resistance becomes
+unobservable with a nanovolt meter. The pressures used to calculate
+dT₀/dP were measured at T₀.
+
+## RESULTS
+
+The evolution of the transport properties with hole doping x in
+La_(2 − x)Ba_(x)CuO₄, 0.11≤_x_ <= 0.14, can be separated into three
+compositional ranges: x <= 0.11, 0.12≤_x_ <= 0.13, and x = 0.14.
+
+x <= _0.11_. Figure 1(a) shows the R(T) and α(T) data for x = 0.11 under
+several applied pressures; the data are typical for compositions x <=
+0.11. The resistivity changes monotonically with temperature above T_(c)
+; T_(c) increases with pressure with dT₀/dP = 1.0 K/kbar. The origin of
+the change of slope near 50 K in the ambient-pressure R(T) curve is not
+identified. The α(T) curves are typical of an underdoped sample;[12]α(T)
+increases with temperature to a value that is temperature-independent,
+and the low-temperature enhancement peaking in the interval
+100<$T_{\rm max}$≤150 K in optimally doped samples is not apparent.
+Pressure increases not only T_(c) , but also α(T) of the normal state;
+see inset of Fig. 1(a).
+
+_0.12≤x_ <= _0.13_. Figures 1(b)−1(d) shows the R(T) and α(T) data under
+several applied pressures for x = 0.12, 0.125, and 0.13. In this
+compositional range, superconductivity is suppressed at ambient pressure
+and a resistance minimum occurs at a $T_{\rm min}$≈70 K. Pressure
+reduces $T_{\rm min}$ , but it remains above 50 K under the highest
+pressures applied. As noted by others,[17]${}^{\rm 20}$ pressure induces
+the appearance of superconductivity with a quite large dT₀/dP.
+
+A remarkable drop in α(T) sets in on lowering the temperature through
+$T_{\rm min}$ , α(T) becoming negative at lower temperatures. A negative
+α(T) in the LTT phase has also been reported by
+others.[21]${}^{\rm 21}$${}^{\rm 24}$${}^{\rm 24}$ Moreover, a
+low-temperature enhancement δα(T) with a $T_{\rm max}$≈150 K emerges; it
+becomes more pronounced with increasing pressure as is evident, for
+example, in Fig. 1(d) for x = 0.13. Pressure also reduces the magnitude
+of the negative values of α(T); nevertheless, the superconductive state
+having α(T) = 0, which is obtained at higher pressures, is approached on
+lowering the temperature from negative values of α(T). The
+superconductive state of the p-type superconductors is normally
+approached from positive values of α(T) as occurs for x = 0.11.
+
+x = _0.14_. Figure 1(e) shows the R(T) and α(T) curves for x = 0.14
+under several applied pressures. The data are similar to those obtained
+for x = 0.13, Fig. 1(d), except for the appearance of superconductivity
+at ambient pressure and a vanishing at higher pressure of dT₀/dP and
+dα(285 K)/dP. The critical pressure (5 kbars) for a dα/dP = 0 at 285 K
+is somewhat lower than the 10 kbars for dT₀/dP = 0.
+
+## DISCUSSION
+
+Large single crystals of La_(1.48)Nd_(0.40)Sr_(0.12)CuO₄ appear to be
+more easily prepared than single crystals of La_(1.88)Ba_(0.12)CuO₄.
+Both compounds manifest the x = 1/8 suppression of superconductivity
+within a LTT phase field, and the phase diagrams of the two compounds
+are nearly identical; it is therefore appropriate to begin the
+discussion of our data with a review of the major results obtained by
+neutron-diffraction and resistivity measurements on single-crystal
+La_(1.48)Nd_(0.40)Sr_(0.12)CuO₄. Tranquada _et al.[3]_ found (a) a phase
+transition from LTT to LTO at a $T_{\rm 2}$≈70 K; (b) the abrupt
+appearance in the CuO₂ sheets of static stripes oriented parallel to
+[100] or [010] axes on lowering the temperature through $T_{\rm r2}$;
+(c) a long-range magnetic ordering within the hole-poor stripes below a
+$T_{\rm N}$≈ 50 K; (d) a discontinuity at a minimum in the resistivity
+ρ_(ab)(T) of the a - b planes, i.e., CuO₂ sheets, at a
+$T_{\rm min}$=$T_{\rm 2}$≈70 K; and (e) a smooth variation of ρ(T)
+through $T_{\rm N}$.
+
+We find a $T_{\rm min}$≈70 K in our R(T) data also, which we take to
+mark the LTT-LTO transition at $T_{\rm r2}$<$T_{\rm r}$ in the range
+0.12≤x≤0.14 in La_(2 − x)Ba_(x)CuO₄. There is no evidence for a LTT
+phase in the x = 0.11 sample; a $T_{\rm min}$ associated with the
+LTT-LTO transition disappears in the range 0.15<_x_ < 0.16, Figure 1:
+Temperature dependence of the thermoelectric power α(T), and the
+resistance R(T), under different hydrostatic pressures for
+polycrystalline samples of the system La_(2 − x)Ba_(x)CuO₄: (a)
+x = 0.11, (b) x = 0.12, (c) x = 0.125, (d) x = 0.13, and (e) x = 0.14.
+
+which gives us the tentative phase diagram shown in Fig. 2. NMR (Ref.
+[25]) and _m_SR (Ref. [26]) measurements have located a T_(N) >= 30 K
+within the LTT phase field. The LTO-HTT transition temperature T_(t) is
+taken from neutron-diffraction data.27
+
+By analogy with La1.48Nd0.40Sr0.12CuO4, suppression of superconductivity
+in the range 0.12 <= x <= 0.13 within the LTT phase is assumed to be
+associated with the formation of static stripes. We note that the
+stripes are oriented parallel to the [100] or [010] axes of the CuO2
+sheets whereas the rotations of the CuO6 octahedra in the LTO phase are
+about [110] axes. In the HTT phase, there is no deformation to pin the
+stripes, so they remain mobile. In the LTO phase, the deformation axes
+cross the stripe axes at a 45deg angle, so the deformation has a wrong
+symmetry for pinning the stripes. However, in the LTT phase the symmetry
+of the deformation is compatible with the pinning of stripes having
+widths commensurate with the lattice distortion. Commensuration can
+occur only at a specific hole concentration, and the observation of
+static stripes at x = 1/8 within the LTT phase is the result of pinning
+by such a commensuration. The stripes are not pinned in the
+superconductive x = 0.14 sample.
+
+In the CuO2 sheets, phase segregation into large, nonadiabatic polarons
+in underdoped samples or stripe domains at higher hole concentrations
+would be accomplished by cooperative displacements of the oxygen atoms
+away from the magnetic Cu atom near neighbor toward the other
+nonmagnetic Cu atom at the boundary between phases, and these
+cooperative displacements may be either dynamic or static. At a critical
+composition, a competition between dynamic and pinned oxygen
+displacements could manifest itself in a large 16O/18O isotope effect,
+as has been observed28 in the system La2 - -Ba2CuO4 near x = 1/8.
+Moreover, mobile stripes would introduce dynamic oxygen displacements
+that could scatter strongly acoustic phonons transporting heat.
+
+The parent compound La2CuO4 is a Mott-Hubbard antiferromagnetic
+semiconductor. Doping with an alkaline-earth atom A in the systems La2 -
+the thermoelectric power on cooling through the LTO-LTT transition
+temperature T_(t2) is accompanied by a change in the resistivity ρ(T)
+from a metallic to a semiconductive temperature dependence. A change in
+the sign of α signals a change in the sign of the curvature, averaged
+over all the Fermi surface, of the $\epsilon({\bf k})$ dispersion curve
+at ϵ_(F) if a band model for the states near ϵ_(F) remains valid. Such a
+change would seem to require the opening of an energy gap below ϵ_(F) as
+illustrated in Fig. 3(b). Whether the gap at half-band remains in the
+LTT phase remains to be tested, but it should not be expected to vanish
+in the LTT phase as it is not related to the translational symmetry of
+the unit cell. From our model of the origin of the gap,[13] we would
+expect the gap at half-band to increase with a pinning of the stripes
+that increases the bending ϕ of the Cu-O-Cu bonds from 180deg.[32]
+According to the model of Fig. 3(b), |α| should increase as ϵ_(F)
+approaches the lower band gap with increasing x, but we observe that |α|
+reaches a maximum at x = 1/8. This latter observation suggests an
+alternative solution; the transition from the LTO to the LTT phase
+induces a separated band of polaronic states at ϵ_(F) that is located in
+a gap in the $\epsilon({\bf k})$ curve as pictured in Fig. 3(c).
+Moreover, neutron diffraction data[32] show that pinning of the stripes,
+which increases the bending ϕ of the Cu-O-Cu bond angle, narrows the
+bandwidth of the states near ϵ_(F), and also traps out mobile charge
+carriers. At x = 1/8, the Cu(III)/Cu ratio matches commensuration of the
+stripes, thereby minimizing the number of mobile charge carriers. This
+model is consistent not only with the observation of a nonmetallic
+temperature dependence of ρ(T) below T_(t2), but also with a maximum |α|
+at x = 1/8 since polaronic mobile charge carriers at ϵ_(F) would make
+the statistical contribution dominate the transport term in the
+thermoelectric power. Since the bending angle ϕ is a maximum for a
+commensurate pinning of the stripe domains at x = 1/8, we conclude that
+the $n_{\rm eff}$ decreases as ϕ increases, i.e.,
+$\partial n_{\rm eff}/\partial\phi$<0 or, for a band model with
+$n_{\rm eff}\!\sim\!N(\epsilon_{F})$, ∂N(ϵ_(F))/∂ϕ  <0. Moreover, a
+larger thermal expansion of the La-O and Ba-O equilibrium bond lengths
+relative to the Cu-O bond length makes the bond-length mismatch increase
+with decreasing temperature to give a ∂ϕ/∂T  <0.[33] Therefore the
+nonmetallic temperature dependence of the resistivity below T_(t2) may
+reflect a
+$dn_{\rm eff}/dT\!\!=\!(\partial n_{\rm eff}/\partial\phi)(\partial\phi/\partial T )\!\!>$0
+rather than an activated mobility in the LTT phase.
+
+We now consider the changes induced by pressure. In the LTT phase, a
+dT_(c)/dP  >0 is similar to that found in the LTO phase of the
+La_(2 − x)Sr_(x)CuO₄ system where pressure was found to stabilize the
+LTT phase relative to the LTO phase because ∂ϕ/∂P <0.[34] The unusually
+high compressibility of the Cu-O bond in the superconductive
+compositions also applies to the La_(2 − x)Ba_(x)CuO₄ system to give a
+∂ϕ/∂P  <0 (Ref. 20) in the compositions investigated in this study. It
+then follows that the observed
+$d|\alpha|/dP\!\!=\!(\partial|\alpha|/\partial n_{\rm eff})(\partial n_{\rm eff} /\partial\phi)$
+(∂ϕ/∂P  ) <0 requires a $\partial n_{\rm eff}/\partial\phi\!\!<$0 since
+$\partial|\alpha|/\partial n_{\rm eff}\!\!<$0. We can also demonstrate
+the relation $\partial n_{\rm eff}/\partial\phi\!\!<$0 from the
+observation that dT_(c)/dP  >0. From μSR data,[35] we have the relation
+$T_{c}\!\sim\!n_{\rm eff}/m^{*}$, which gives
+$dT_{c}/dP\!\sim\!dn_{\rm eff}/dP$$=\!(\partial n_{\rm eff}/\partial\phi)(\partial\phi/\partial P)\!\!>$0,
+and ∂ϕ/∂P  <0 then requires a $\partial n_{\rm eff}/\partial\phi\!\!<$0.
+
+The pressure dependence of |α| shows a
+$\partial n_{\rm eff}/\partial P\!\!>$0. In an itinerant-electron model,
+the magnitude of $n_{\rm eff}\!\sim\!N(\epsilon_{F})$ depends on two
+factors, the flatness of $\epsilon({\bf k})$ at ϵ_(F) and the total
+density of itinerant-electron states. Since the width W_(σ) of the x²-y²
+band of itinerant-electron states varies as cos ϕ and we have a
+∂ϕ/∂P  <0, W_(σ) must increase with pressure as the overlap integrals
+entering W_(σ) also increase with pressure. Therefore we conclude that
+the density $n_{\rm eff}$ of mobile charge carriers, whether polaronic
+or itinerant, increases with pressure in the LTT phase due to a transfer
+of spectral weight from trapped states to mobile-carrier states as ϕ
+decreases. In real space, the spectral-weight transfer would be
+associated with an increase with decreasing ϕ in the width of the
+hole-rich stripes once the stripes become depinued at a ϕ  < ϕ_(c). The
+data are thus consistent with the conclusion that superconductivity is
+found where the stripes are mobile.
+
+We have shown elsewhere[36] that a d[ δα(T) ]/dP  >0 in the LTO phase
+vanishes in the HTT phase as does dT_(c)/dP, which shows a
+∂[ δα(T) ]/∂ϕ  <0; therefore an increase in N(ϵ_(F)) also increases the
+enhancement term δα(T). The temperature at which δα(T) is a maximum
+falls in the range 100  < T <150 K, which is too high for acoustic
+phonons.[37] We conclude that δα(T) implies a strong coupling of the
+mobile charge carriers to the oxygen-atom displacements in the Cu-O-Cu
+bonds and a transfer of optical-mode lattice entropy by the charge
+carriers in the mobile hole-rich stripes.
+
+Incommensuration of the stripe periodicity in the x = 0.14 sample leads
+to a depinning of the stripes at ambient pressure; depinning reduces the
+bond bending to ϕ  < ϕ_(c) in the LTT phase and N(ϵ_(F)) becomes high
+enough to support superconductivity. We interpret a nearly
+pressure-independent α(285 K) above 5 kbars to reflect a disappearance
+of the LTO fluctuations in the HTT phase[36] above 5 kbars at room
+temperature. On the other hand, a dT₀/dP>0 vanishing above a P_(c) ∼ 10
+kbars within the LTT phase is interesting since an α  <0 shows retention
+of the LTT phase to P  > P_(c), which indicates a ∂ϕ/∂P  <0 continues to
+be present for P  > P_(c). It would appear that a depinning of the
+stripes that releases all the trapped carriers is not complete for
+P  < P_(c) and that once the release of trapped carriers is complete at
+P  > P_(c) there is little dependence of T₀ on ϕ in the LTT phase.
+
+For x = 0.16, the LTO phase is retained to lowest temperatures and, on
+cooling through T_(c), α(T) drops to zero from the positive side.
+Moreover, a dT_(c)/dP  >0 to 17 kbars shows, unlike the LTT phase, a
+marked dT_(c)/dϕ  <0 as in the LTO phase of La_(2 − x)Sr_(x)CuO₄.[38]
+This observation suggests there is an important transfer of spectral
+weight from the Hubbard bands to the coherent band with decreasing ϕ in
+the LTO phase that does not occur in the LTT phase.
+
+Finally, the band model successfully predicts the locus of the Fermi
+surface obtained by ARPES whereas real-space experiments have now shown
+the presence of dynamic hole-rich and hole-poor stripes in most of the
+high-T_(c) cuprate systems.[2, 3, 4, 5] With a photoemission resolution
+of ΔE∼ 20 meV, ARPES may not be able to resolve the band structure
+changes induced by stripe formation if the stripes are mobile with a
+short residence time Δt on a given atom.
+
+## Summary and Conclusions
+
+In summary, we have found the following.
+
+1. Both R(T) and α(T) show no anomaly at a magnetic ordering temperature
+or, as we have shown elsewhere,[39] at the opening of a spin gap;
+however, they both change dramatically at the structural LTT-LTO
+transition temperature _T__t_2 and they both vary sensitively with the
+bending _ph_ of the (180deg-_ph_) Cu-O-Cu bonds. 2. The normal state of
+the superconductive compositions is a distinguishable thermodynamic
+state consisting of a periodic array of alternating hole-rich and
+magnetic domains (stripes) that are mobile, and at a ratio
+Cu(III)/Cu=1/8, the period of this charge-density wave (CDW) is
+commensurate with the lattice periodicity of a CuO2 sheet. However,
+pinning of the CDW to give static stripes observable by diffraction
+experiments only occurs in the LTT phases. 3. Formation of the stripes
+does not introduce an energy gap at e_(F), which would suppress
+superconductivity, either where the stripes are mobile or become pinned
+in the LTT phase; but a gap at midband in the (_x_2-_y_2) band of
+coherent states makes the charge carriers _p_-type in the HTT and LTO
+phases, the opening of an additional gap below e_(F) by the structural
+change makes the charge carriers _n_-type in the LTT phase. 4. In both
+the LTO and LTT phases, hydrostatic pressure reduces the bending _ph_ of
+the (180deg-_ph_) Cu-O-Cu bond angle: _ph_ph_/_ph_P_<0, which is
+indicative of an exceptionally compressible mean equilibrium Cu-O bond
+length, i.e., of a double-well bond potential. 5. A _ph_Tc_/_ph_d_ph_<0
+implies a _ph_eff/_ph_d_ph_<0, where _n_eff  _N_(e_(F)) is the effective
+density of coherent electronic states at e_(F), i.e., _ph_/_ph_d_ph_<0.
+6. In the LTO phase, a _ph_/_ph_d_ph_<0 for the width W_(s) of the
+x2-_y_2 band of coherent states promotes a transfer of spectral weight
+from incoherent to coherent states with decreasing bending _ph_ of the
+(180deg-_ph_) Cu-O-Cu bond angle; this spectral-weight transfer appears
+to accompany a mean flattening of the _e_(**k**) dispersion curves at
+e_(F). In the LTT phase, the flat portion of the dispersion curve
+appears to transform to a set of polaronic states within a gap in the
+dispersion curve for the coherent states, and the number of mobile
+polaronic states increases with decreasing _ph_ and depinning of the
+stripes. 7. The bending _ph_ of the (180deg-_ph_) Cu-O-Cu bond angles is
+a maximum and _N_(e_(F)) is therefore a minimum where the stripes are
+pinned and superconductivity is suppressed; reduction of _ph_ to a
+_ph_<_ph_c by hydrostatic pressure depins the stripes and introduces
+superconductivity. 8. A _ph_[_d_(_T_)]/_ph_P_>0 shows that the
+enhancement _ph_(_T_) of the thermoelectric power also increases with
+_N_(e_(F)); a maximum in _th_a_(_T_) in the temperature range 100
+<_T_<150 K suggests that the mobile charge carriers transport
+optical-mode, not acoustic-mode, lattice entropy, which would be
+consistent with a strong coupling of the charge carriers to Cu-O
+bond-length fluctuations.
+
+In conclusion, there is little evidence that magnetic or
+electron-electron interactions alone or the location of a Fermi energy
+in a van Hove singularity is responsible for the peculiar transport
+properties of the normal state of the copper-oxide superconductors. On
+the other hand, there is overwhelming evidence that strong electron
+coupling to fluctuations of the Cu-O bond lengths is occurring; these
+fluctuations would be the result of both a double-well potential for the
+Cu-O bond at a crossover from localized to itinerant electronic behavior
+and local, pseudo Jahn-Teller deformations. A recent study[40] of the
+insulator-metal transition in the system La2-_x_Sr_xCuO4 occurring in a
+pulsed field of 61 T is completely consistent with this conclusion.
+
+###### Acknowledgements.
+
+The authors thank the NSF and the Robert A. Welch Foundation, Houston,
+Texas, for financial support.
+
+## References
+
+* [1] B. Grande, H. Muller-Buschbaum, and M. Schweizer, Z. Anorg. Allg.
+Chem. **428**, 120 (1977). * [2] J.-M. Tranquada _et al._, Nature
+(London) **375**, 561 (1995). * [3] J. M. Tranquada _et al._, Phys. Rev.
+B **54**, 7489 (1996). * [4] A. Bianconi _et al._, Phys. Rev. Lett.
+**76**, 3412 (1996). * [5] A. Bianconi _et al._, Phys. Rev. B **54**,
+4310 (1996); **54**, 12 018 (1996). * [6] S. J. L. Billinge _et al._,
+Phys. Rev. Lett. **71**, 1903 (1993). * [7] S. W. Cheong _et al._, Phys.
+Rev. Lett. **67**, 1791 (1991); T. E. Mason, G. Aeppli, and H. A. Mook,
+_ibid._**68**, 1414 (1992); T. R. Thurston _et al._, Phys. Rev. B
+**46**, 9128 (1992). * [8] O. Baberski _et al._ (unpublished). * [9] V.
+J. Emery, S. A. Kivelson, and H. Q. Lin, Phys. Rev. Lett. **64**, 475
+(1990). * [10] R. S. Markiewicz, Int. J. Mod. Phys. B **5**, 2037
+(1991). * [11] J. B. Goodenough and J.-S. Zhou, Phys. Rev. B **42**,
+4276 (1990). * [12] J. B. Goodenough, J.-S. Zhou, and J. Chan, Phys.
+Rev. B **47**, 5275 (1993). * [13] J. B. Goodenough and J.-S. Zhou,
+Phys. Rev. B **49**, 4251 (1994). * [14] J. B. Goodenough, J.-S. Zhou,
+and K. Allan, J. Mater. Chem. **1**, 715 (1991). * [15] J.-S. Zhou, G.
+I. Bersuker, and J. B. Goodenough, J. Supercond. **8**, 541 (1995); G.
+I. Bersuker and J. B. Goodenough, Physica C **274**, 267 (1997). * [16]
+J.-S. Zhou and J. B. Goodenough, Phys. Rev. B **54**, 13 393 (1996). *
+[17] C. Murayama _et al._, Physica B **169**, 639 (1991). * [18] W. J.
+Liverman, J. G. Huber, A. R. Moodenbaugh, and Y. Xu, Phys. Rev. B
+**45**, 4897 (1992). * [19] Q. Xiang _et al._, Phys. Rev. B **46**, 581
+(1992). * [20] S. Katano, S. Fumahashi, N. Mori, Y. Ueda, and J. A.
+Fernandez-Baca, Phys. Rev. B **48**, 6569 (1993). * [21] M. Sera _et
+al._, Solid State Commun. **69**, 851 (1989). * [22] Y. Nakamura and S.
+Uchida, Phys. Rev. B **46**, 5841 (1992). * [23] J. Yamada _et al._, J.
+Phys. Soc. Jpn. **63**, 2314 (1994). * [24] T. Suzuki, M. Sera, T.
+Hanaguri, and T. Fukase, Phys. Rev. B **49**, 12 392 (1994).
+
+* [25] K. Kumagai _et al._, Physica C **185-189**, 913 (1991). * [26] I.
+Watanabe _et al._, J. Phys. Soc. Jpn. **61**, 3058 (1992). * [27] J. D.
+Axe _et al._, Phys. Rev. Lett. **62**, 2751 (1989). * [28] M. K.
+Crawford _et al._, Science **250**, 1390 (1990). * [29] H. Ding _et
+al._, Phys. Rev. Lett. **78**, 2628 (1997). * [30] S. Uchida, T. Ido, H.
+Takagi, T. Arima, Y. Tokura, and S. Tajima, Phys. Rev. B **43**, 7842
+(1991). * [31] Z.-X. Shen, Physica B **197**, 632 (1994), for example. *
+[32] B. Buchner, M. Breuer, A. Freimuth, and A. P. Kampf, Phys. Rev.
+Lett. **73**, 1841 (1994). * [33] R. M. Fleming, B. Batlogg, R. J. Cava,
+and E. A. Rietman, Phys. Rev. B **35**, 7191 (1987). * [34] H. J. Kim
+and R. Moret, Physica C **156**, 363 (1988); H. Takahashi _et al._,
+Phys. Rev. B **50**, 3221 (1994). * [35] Y. J. Uemura _et al._, Phys.
+Rev. Lett. **62**, 2317 (1989). * [36] J.-S. Zhou and J. B. Goodenough,
+Phys. Rev. Lett. **77**, 151 (1996). * [37] J.-S. Zhou and J. B.
+Goodenough, Phys. Rev. B **51**, 3104 (1995); **54**, 12 488 (1996). *
+[38] J.-S. Zhou, H. Chen, and J. B. Goodenough, Phys. Rev. B **49**,
+9084 (1994). * [39] J.-S. Zhou, J. B. Goodenough, B. Dabrowski, and K.
+Rogacki, Phys. Rev. Lett. **77**, 4253 (1996). * [40] G. S. Boebinger
+_et al._, Phys. Rev. Lett. **77**, 5417 (1996).

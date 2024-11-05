@@ -1,0 +1,407 @@
+
+
+# Spin pseudogap and interplane coupling in Y_{2}Ba_{4}Cu_{7}O_{15}:
+
+A ^{63}Cu nuclear spin-spin relaxation study
+
+R. Stern, M. Mali, J. Roos, and D. Brinkmann
+
+Physik-Institut, Universitat Zurich, CH-8057 Zurich, Switzerland
+
+###### Abstract
+
+We report measurements of the Gaussian contribution T_{2G} to the plane ^{63}Cu nuclear spin-spin relaxation time in the YBa_{2}Cu_{3}O_{7} and YBa_{2}Cu_{4}O_{8} blocks of normal and superconducting Y_{2}Ba_{4}Cu_{7}O_{15}. The data confirm our previous results that adjacent CuO_{2} planes have different doping levels and that these planes are strongly coupled. The static spin susceptibility at the antiferromagnetic wave vector exhibits a Curie-Weiss-like temperature dependence in the normal state. The Y_{2}Ba_{4}Cu_{7}O_{15} data are incompatible with a phase diagram based on a single CuO_{2} plane theory but point to the importance of the interplane coupling in the spin-gap formation. Additional data for YBa_{2}Cu_{4}O_{8} and YBa_{2}Cu_{3}O_{6.982} are in accordance with the single-plane theory. The temperature dependence of T_{2G,{\rm ind}} below T_{c} excludes isotropic s-wave superconductivity in all three compounds.
+
+pacs: 0163-1829/95/51(21)/15478(6)/S06.00 +
+Footnote †: preprint: JUNE 1995-1
+
+## I Introduction
+
+Recently, we reported in detail nuclear magnetic resonance (NMR) and nuclear quadrupole resonance (NQR) measurements in the Y_{2}Ba_{4}Cu_{7}O_{15} compound, which can be considered as a natural multilattice consisting of alternating YBa_{2}Cu_{4}O_{8} (1-2-4 for short) and YBa_{2}Cu_{3}O_{7} (1-2-3) blocks.[1] The CuO_{2} planes of adjacent 1-2-3 and 1-2-4 blocks form double planes whose individual planes are inequivalent and distinguishable by NMR and/or NQR. By comparing the NQR frequency, spin-lattice relaxation time T_{1}, and magnetic shift K of the distinct plane Cu sites we found three major results: (i) The individual planes of a double plane have different doping levels, (ii) the individual planes of a double plane are strongly coupled with an estimated coupling strength of at least 30 meV, and (iii) the electron spin fluctuation spectrum in both individual planes exhibits a spin pseudogap with a common value.
+
+To further study the interplane coupling and its consequences on in-plane spin dynamics we have performed measurements of an additional NMR-NQR quantity, the Gaussian contribution T_{2G} to the plane Cu nuclear spin-spin relaxation time T_{2}. Complementary to K and T_{1}, T_{2G} delivers information on the real part of the static electronic spin susceptibility \chi^{\prime}(q) at nonzero wave vector q.[2] We will present T_{2G} data for Y_{2}Ba_{4}Cu_{7}O_{15} over the temperature range from 15 to 400 K and, as well, results of comparative measurements for YBa_{2}Cu_{4}O_{8} and YBa_{2}Cu_{3}O_{6.982}.
+
+The paper is organized as follows. The next section contains some necessary theoretical background. Experimental procedures, including the characterization of the sample, are given in Sec. III. In Sec. IV we present our data, followed by a discussion of results in Sec. V and a summary in Sec. VI.
+
+## II Theory
+
+Pennington _et al.[3]_ were the first to realize that the spin-spin relaxation rate of plane Cu in YBa_{2}Cu_{3}O_{7} is much larger than expected from conventional nuclear dipolar coupling. They showed that the predominant part of the rate is due to an enhanced Cu nuclear-nuclear spin coupling induced through an indirect coupling via electron spins.
+
+If the quantization axis of the Cu nuclear spin is parallel to the crystallographic c axis, as in the case of plane copper in pure NQR, then T_{2G,{\rm ind}}^{-1} can be expressed[2, 4] in terms of \chi^{\prime}(q) as
+
+\[\left[\frac{1}{T_{2G,{\rm ind}}}\right]^{2} = \frac{P(\gamma_{n}\hbar)^{4}}{m\hbar^{2}}\left[\frac{1}{N}\sum_{q }|A(q)_{\rm ce}|^{4}\chi^{\prime}(q)^{2}\right.\] (1) \[\left.-\left(\frac{1}{N}\sum_{q}|A(q)_{\rm ce}|^{2}\chi^{\prime}( q)\right)^{2}\right]\,.\]
+
+Here, P and \gamma_{n} are the abundance and the gyromagnetic ratio of the Cu isotope being studied, m is a constant that depends on the resonance method used (m=8 for NMR and 4 for NQR), N is the number of Cu atoms per unit area, and c denotes the direction of quantization, i.e., the direction of the main component of the electric field gradient tensor in case of NQR. {\bf A}(q) is the Fourier transform of the hyperfine coupling tensor {\bf A}({\bf r}_{i}) consisting of the on-site A_{\rm ce} ({\bf r}_{j}=0) and isotropic transferred B ({\bf r}_{j}\neq 0) terms. For the Cu nuclei under consideration and adopting the Mila-Rice Hamiltonian,[5]A(q)_{\rm ce} is given by
+
+\[A(q)_{\rm ce}=A_{\rm ce}+2B\left[\cos(q_{\pi}a)+\cos(q_{y}a)\right]\,\,.\] (2)
+
+Since in all Y-Ba-Cu-O compounds the spin part of the plane Cu magnetic shift in the c direction is zero, A_{cc}\ =\ -\ 4B. Consequently, {\bf A}(q) peaks at the corners of the first Brillouin zone at Q_{\rm AF}\ =\ (\pm\frac{\pi}{a},\pm\frac{\pi}{a}), and T_{2G,{\rm ind}}^{-1} therefore involves predominantly q summation of \chi^{\prime}(q) close to Q_{\rm AF}.
+
+Using a phenomenological expression [6] for \chi^{\prime}(q), Thelen and Pines showed [4] that, in the long correlation length limit \xi\gg a,
+
+\[\frac{1}{T_{2G,{\rm ind}}}\propto\frac{\chi^{\prime}(Q_{\rm AF})}{\xi}\propto \xi\sqrt{\beta}\ ,\] (3)
+
+where a is the lattice constant and \beta a parameter measuring the relative strength of the antiferromagnetic (AF) fluctuations with respect to the zone-center fluctuations.
+
+Finally, we recall the spin-lattice relaxation rate per temperature unit, (T_{1}T)^{-1}, which is given by the weighted q average of the \lim_{\omega\to 0}\frac{\chi^{\prime\prime}(q,\omega)}{\omega}. For \xi\gg a, one obtains [4, 6]
+
+\[\frac{1}{T_{1}T}\propto\frac{\chi^{\prime}(Q_{\rm AF})}{\Gamma_{\rm AF}}\sqrt {\beta}\ ,\] (4)
+
+where \Gamma_{\rm AF} is a characteristic AF spin fluctuation energy scale.
+
+## III Experiment
+
+The Y_{2}Ba_{4}Cu_{7}O_{15} sample used in this work was synthesized with Ba metal (not carbonate) by method II of Ref. 7. The exact oxygen content determined by volumetric methods [8] is 14.970(2), the lattice parameters are a=3.8314 A, b=3.881 A, and c=50.679 A, and the onset of the superconducting transition occurs at T_{c}=93.1 K.
+
+Since the plane Cu NQR lines of the 1-2-3 and 1-2-4 blocks are quite narrow and well separated, [7] we measured T_{2G} by the NQR spin-echo method in zero magnetic field using standard pulsed spectrometers. The signals were obtained by a phase-alternating add-subtract spin-echo technique similar to that one used in Ref. 9. To have an optimal filling factor and thus optimal signal-to-noise ratio, we used unoriented powder, for which T_{2G} is about 7% larger than for uniaxially aligned powder. [10] To be able to make an unbiased comparison of Y_{2}Ba_{4}Cu_{7}O_{15}T_{2G} results with those from its parent compounds, we in addition measured T_{2G} on unoriented YBa_{2}Cu_{4}O_{8} and YBa_{2}Cu_{3}O_{6.982} powders under the same experimental conditions.
+
+In order to measure T_{2G} properly it is necessary to uniformly flip all nuclear spins involved in the experiment. This demands a flipping pulse (\pi pulse) that is short compared to the inverse of the linewidth. In going from the normal to the superconducting state the pulse length has to be readjusted due to a changed penetration depth and an inevitable increase of the inhomogeneity of the flipping high-frequency field in the superconducting powder grains. Failing to do so results in an abrupt prolongation of T_{2G} just below T_{c}. In general, an incomplete flipping of the spins, due to whatsoever experimental shortcomings, results in a prolonged T_{2G}; therefore all the presented T_{2G}^{-1} data are somewhat smaller than the proper value obtained under ideal experimental conditions. We estimate that for the superconducting state our T_{2G}^{-1} values could be up to 20% too low because of the use of unoriented powder and the inhomogeneous high-frequency field.
+
+The full linewidth at half height (FWHH) of the plane ^{63}Cu NQR at 100 K is 350 kHz in the 1-2-3 and 220 kHz in the 1-2-4 block of Y_{2}Ba_{4}Cu_{7}O_{15} (Ref. 7), 180 kHz in YBa_{2}Cu_{4}O_{8} (Ref. 11), and 200 kHz in YBa_{2}Cu_{3}O_{6.982} (Ref. 12). At temperatures above T_{c}, the length of the applied \pi pulse was 1.4 \mus; below T_{c} this length increased to 2.4 \mus.
+
+## IV Results and Analysis
+
+The spin-echo amplitude E, recorded as a function of time \tau between the first and the second (flipping) pulses, could be fitted to the expression
+
+\[E(2\tau)=E_{0}\ \exp\left[-\frac{2\tau}{T_{2R}}-\frac{1}{2}\left(\frac{2\tau}{T_ {2G}}\right)^{2}\right]\ ,\] (5)
+
+where the Lorentzian-Redfield term T_{2R}^{-1} stands for the decay rate due to the spin-lattice relaxation process.
+
+T_{2R}^{-1} was determined from the expression T_{2R}^{-1} (2+r)/3T_{1}^{-1} (Ref. 2), using NQR T_{1} from Refs. 1, 11, and 13. For the anisotropy of the relaxation rate r, we took the values 3.7 (Ref. 14) for YBa_{2}Cu_{3}O_{6.982} and the 1-2-3 block and 3.3 (Ref. 15) for the 1-2-4 block and YBa_{2}Cu_{4}O_{8}, assuming that r is the same in the parent compound and in the corresponding block of Y_{2}Ba_{4}Cu_{7}O_{15}. With T_{2G} and T_{2R} as free fitting parameters we found that T_{2R} thus obtained agrees with that calculated from T_{1}. The disadvantage of the latter fitting procedure is a larger scatter of the results.
+
+Figure 1 presents our results for T_{2G}^{-1} of Y_{2}Ba_{4}Cu_{7}O_{15}
+
+ YBa_{2}Cu_{3}O_{6.982}, and YBa_{2}Cu_{4}O_{8} corrected now for "oriented powder" by multiplying the raw values by 1.07. For comparison, recent data for YBa_{2}Cu_{3}O_{6.9} (Ref. [16]) (multiplied by \sqrt{2} for comparison with NQR values), YBa_{2}Cu_{3}O_{6.8} (Ref. [17]), and YBa_{2}Cu_{4}O_{8} (Ref. [18]) are given. While there is rather good agreement for the YBa_{2}Cu_{4}O_{8} structures, there is a discrepancy for the YBa_{2}Cu_{3}O_{6.982} samples either for experimental reasons or because of a dependence of T_{2G} on doping (see below).
+
+The obtained T_{2G}^{-1} encompass the temperature-independent contribution T_{2G,{\rm dip}}^{-1}, arising from the direct nuclear dipole-dipole interaction and the temperature-dependent contribution, T_{2G,{\rm ind}}^{-1}, caused by the indirect nuclear spin-spin coupling mediated through the AF correlated electron spins. In a Gaussian approximation, neglecting the interference terms, both contributions add as [18]
+
+\[T_{2G}^{-2}\approx T_{2G,{\rm dip}}^{-2}+T_{2G,{\rm ind}}^{-2}\ .\] (6)
+
+Anticipating a common temperature dependence of T_{2G,{\rm ind}}^{-1} in both planes, we plotted (T_{2G}^{-2})_{124} vs (T_{2G}^{-2})_{123} using the temperature as an implicit parameter (Fig. 1, inset). Within the experimental scatter a linear relationship
+
+\[\left(T_{2G}^{-2}\right)_{124}=A\left(T_{2G}^{-2}\right)_{123}+B,\] (7)
+
+with A~=~2.01(6) and B~=~-17(8) ms^{-2}, is indeed observed. If T_{2G,{\rm dip}}^{-1} is equal in both planes, as one may expect on grounds of structural similarity, the relationship (7) delivers T_{2G,{\rm dip}}^{-1}~=~4.1(1.0) ms^{-1}, which is close to the 4.5 ms^{-1} we estimate for the Y_{2}Ba_{4}Cu_{7}O_{15} crystal structure by using a modified Abragam-Kambe [18, 19] expression for the NQR dipolar second moment. The Y_{2}Ba_{4}Cu_{7}O_{15}T_{2G,{\rm dip}}^{-1} value is somewhat smaller than the estimated 5.8 and 5.9 ms^{-1} obtained for YBa_{2}Cu_{3}O_{6.98} and YBa_{2}Cu_{4}O_{8}, respectively. [18] This difference arises from the fact that in Y_{2}Ba_{4}Cu_{7}O_{15} the Cu NQR frequencies in the individual planes of the double plane differ; therefore the "neighbor" plane, having only nonresonant Cu nuclear spins, contributes much less to T_{2G,{\rm dip}}^{-1} as in case of YBa_{2}Cu_{3}O_{7} and YBa_{2}Cu_{4}O_{8}, where all planes are equivalent.
+
+Finally, Eq. (6) yields T_{2G,{\rm ind}}; the results are plotted in Fig. 2. Notice that (1/T_{2G,{\rm ind}})_{124}~>~(1/T_{2G,{\rm ind}})_{123}, meaning that the planes of the 1-2-4 block are less doped than those of the 1-2-3 block, in agreement with our earlier conclusions. Further, T_{2G,{\rm ind}} in both blocks of Y_{2}Ba_{4}Cu_{7}O_{15} follows the same temperature dependence above and below T_{c}, as seen from the constant ratio r_{T_{2}}~=~T_{2G,{\rm ind}}^{123}/T_{2G,{\rm ind}}^{124} (Fig. 2, inset).
+
+Around 50 K, we observe in Y_{2}Ba_{4}Cu_{7}O_{15} at both plane Cu sites an unexpected growth of T_{2R}^{-1}, peaking at 52 K. Similar peaks were detected at 87 K in YBa_{2}Cu_{3}O_{6.982} and YBa_{2}Cu_{3}O_{7}. [20] Since no such peaks appear in YBa_{2}Cu_{4}O_{8} which stands out in the Y-Ba-Cu-O family as a stoichiometric, thermally very stable compound, we suspect that the diffusion of loosely bound oxygen in the single chains, known as the weak structural elements present in YBa_{2}Cu_{3}O_{7} and Y_{2}Ba_{4}Cu_{7}O_{15}, but not in YBa_{2}Cu_{4}O_{8}, could be the source of this T_{2R} anomaly. A more detailed study to clarify this aspect is necessary. However, we believe that this anomaly is extrinsic rather than a genuine effect of the in-plane electron spin dynamics.
+
+## V Discussion
+
+The experimental results on T_{2G} allow us to discuss five features which characterize Y_{2}Ba_{4}Cu_{7}O_{15} at the microscopic level: the interplane coupling, the temperature dependence of the electronic susceptibility at the AF wave vector, the spin gap and its relation to the interplane coupling, and, finally, the symmetry of the pair wave function of the superconducting state.
+
+### Further evidence for interplane coupling
+
+The presence of interplane coupling, at least for the normal conducting phase of Y_{2}Ba_{4}Cu_{7}O_{15}, was deduced [1] from the fact that the spin-lattice relaxation rate for the two inequivalent plane Cu sites exhibited the _same_ temperature dependence; the same was found for the Knight shift at these sites. The temperature dependence itself shows a behavior typical for an underdoped high-T_{c} compound that forms a spin gap (see below). Since both the relaxation rate and the Knight shift are related to the dynamic susceptibility, the common temperature dependence reveals the same dynamics in these planes which must arise from a coupling between the planes.
+
+As shown by the inset of Fig. 2, also the T_{2G}^{-1} data of the two inequivalent Cu sites reveal a common temperature dependence and thus provide a third piece of evidence for the interplane coupling.
+
+### Temperature dependence of \chi(Q_{\rm AF}) above Tc
+
+In principle, using experimental T_{2G} and T_{1} data, the electronic susceptibility at the AF wave vector, in the long correlation length limit, can be derived from
+
+Figure 2: Temperature dependences of NQR T_{2G,{\rm ind}}^{-1} at the plane copper sites. The symbols are the same as in Fig. 1. Insert: ratio of T_{2G,{\rm ind}} of individual planes in Y_{2}Ba_{4}Cu_{7}O_{15}.
+
+  Eqs. (3) and (4), respectively. This requires, however, some knowledge about the temperature dependence of the parameters \xi and \beta which is not known _a priori_. Nevertheless, similar to the treatment of YBa_{2}Cu_{3}O_{6.9} in Ref. 16, we can discuss two limiting cases. (i) If the correlation length \xi is independent of temperature, \chi^{\prime}(T) is determined by the temperature, dependence of T_{2G,{\rm ind}} according to Eq. (3); hence \chi^{\prime}(Q_{\rm AF})\propto 1/T_{2G,{\rm ind}}. (ii) If, on the other hand, \xi depends strongly on temperature and \beta does not, we have 1/T_{2G,{\rm ind}}\propto\xi and \chi^{\prime}(Q_{\rm AF})\propto\xi^{2}; hence \chi^{\prime}(Q_{\rm AF})\propto T_{2G,{\rm ind}}^{-2}.
+
+In Fig. 3 we have plotted the temperature dependence of both T_{2G,{\rm ind}} and T_{2G,{\rm ind}}^{2} corresponding to cases (i) and (ii), respectively, together with our data for YBa_{2}Cu_{3}O_{6.982} and YBa_{2}Cu_{4}O_{8}. For case (i), all four data sets can be fitted by a Curie-Weiss law (dotted curves) which implies that 1/\chi^{\prime}(Q_{\rm AF})\propto 1/(T+\Theta) where \Theta is the Weiss temperature. For case (ii), the inverse susceptibility of the 1-2-3 and the 1-2-4 blocks of Y_{2}Ba_{4}Cu_{7}O_{15} follows a Curie law, i.e., 1/\chi^{\prime}(Q_{\rm AF})\propto 1/T, while the YBa_{2}Cu_{3}O_{7} and YBa_{2}Cu_{4}O_{8} data show a different behavior.
+
+We believe that case (i), i.e., a temperature-independent or at least only weakly dependent correlation length, is the correct interpretation of the data since it applies to all four data sets with a fit quality that is better than in case (ii). Furthermore, this result is in accordance with theoretical models[21] and supports results of inelastic neutron scattering in YBa_{2}Cu_{3}O_{x}.[22]
+
+Accepting this conclusion, we note that the negative value of the Weiss temperatures implies that the compounds do not order antiferromagnetically at low temperatures which is a well-known fact. For the two blocks of Y_{2}Ba_{4}Cu_{7}O_{15}, the Weiss temperatures are the same (about -200 K) while \Theta is -100 K and -300 K in the YBa_{2}Cu_{4}O_{8} and YBa_{2}Cu_{3}O_{7} structures, respectively. Thus, the absolute value of the Weiss temperature in the Y-Ba-Cu-O compounds increases with rising doping level and distinguishes Y_{2}Ba_{4}Cu_{7}O_{15} as a (nearly) optimized compound. A similar behavior, according to T_{1} measurements,[23] had been found for La-Sr-Cu-O compounds where the Sr content determines the doping level.
+
+### Spin-gap behavior and interplane coupling
+
+Next, we will discuss the energy scale parameter of the AF fluctuations, \Gamma_{\rm AF}, and the evidence for the presence of a spin gap. NMR investigations of underdoped YBa_{2}Cu_{3}O_{x} compounds,[24] YBa_{2}Cu_{4}O_{8} (Ref. 25), and Y_{2}Ba_{4}Cu_{7}O_{15} (Ref. 1) have shown that the planar Cu spin-lattice relaxation and Knight shift data can be interpreted in terms of a spin gap, in accordance with neutron scattering data.[22] The occurrence of a spin gap means that spectral weight in the electron spin fluctuations is transferred from lower to higher energy. The presence of the spin gap manifests itself in a maximum of 1/T_{1}T at a temperature T^{*} well above T_{c}, with T^{*}=130 and 150 K for Y_{2}Ba_{4}Cu_{7}O_{15} (Ref. 1) and YBa_{2}Cu_{4}O_{8} (Ref. 25), respectively. It should be stressed again that the T_{2G}^{-1} data do not show such a peak.
+
+Combining Eqs. (3) and (4) yields the quantity T_{1}T/T_{2G,{\rm ind}}^{2} which is proportional to \Gamma_{\rm AF}. The plot of Fig. 4 reveals that for both blocks of Y_{2}Ba_{4}Cu_{7}O_{15} and for YBa_{2}Cu_{4}O_{8}, \Gamma_{\rm AF} increases with falling temperature whereas for YBa_{2}Cu_{3}O_{6.982} it remains constant. The latter result is in agreement with earlier measurements by the Slichter group,[16] our YBa_{2}Cu_{4}O_{8} data are similar to those of Itoh _et al.[18]_
+
+In the framework of the random phase approximation (RPA) formalism[6, 17] one does not expect such an increase of \Gamma_{\rm AF}; instead the spin fluctuations are supposed to be slowed down by a growing AF correlation on the decreasing temperature. However, if the spin excitation spectrum is changed by the opening of a spin gap, an increase of \Gamma_{\rm AF} is conceivable.
+
+The origin of the spin gap is still under debate. For in
+
+Figure 4: Temperature dependences of T_{1}T/T_{2G,{\rm ind}}^{2} (\propto\Gamma_{\rm AF}) and T_{1}T/T_{2G,{\rm ind}} (inset). The symbols are the same as in Fig. 1, the lines are guides to the eye, and the arrows mark T_{c} and T^{*} of Y_{2}Ba_{4}Cu_{7}O_{15}.
+
+Figure 3: Temperature dependences of (a) T_{2G,{\rm ind}} and (b) T_{2G,{\rm ind}}^{2}. The symbols are the same as in Fig. 1. Dotted lines are fits to the (a) Curie-Weiss or (b) Curie law.
+
+  stance, one may ask whether the gap is an intrinsic property of the single CuO_{2} plane or a consequence of inter-plane effects. One approach to answer this question [26, 27] considers the spin gap an intrinsic property of a single underdoped CuO_{2} plane that shows a quasi-two-dimensional quantum Heisenberg antiferromagnet behavior. The spin gap itself is related to the suppression of spectral weight for frequencies smaller than v_{s}/\xi (v_{s} is the spin wave velocity) in the quantum-disordered regime. Another approach [28, 29, 30] assumes that the gap originates from an effective interplane coupling between adjacent CuO_{2} planes.
+
+Pursuing the first path, Sokol and Pines [26] (SP) propose an unified magnetic phase diagram of the cuprate superconductors, which, dependent on doping level and temperature, displays various regimes that, among others, are characterized by certain temperature-independent ratios of plane Cu T_{1}T and T_{2G,{\rm ind}} values. In the _quantum critical_ (QC) regime (applicable to spin-gap compounds), the ratio T_{1}T/T_{2G,{\rm ind}} is constant while in the _overdamped_ (OD) regime T_{1}T/T_{2G,{\rm ind}}^{2} is constant.
+
+We check these predictions with the help of Fig. 4 and its inset. Obviously, the overdoped compound YBa_{2}Cu_{3}O_{7} is in the OD regime from T_{c} up to 300 K (as noted already by SP, although only for the 150-300 K range). On the other hand, the underdoped YBa_{2}Cu_{4}O_{8} structure is in the QC regime for temperatures above T_{124}^{*}.
+
+While these results are in accordance with the SP model, the Y_{2}Ba_{4}Cu_{7}O_{15} structure does not fit into this scheme. The mere fact that the differently doped planes of the 1-2-3 and 1-2-4 blocks have the same crossover temperature T_{247}^{*} already contradicts the proposed phase diagram. In particular, above T_{247}^{*}, the two blocks do not show the T_{1}T/T_{2G,{\rm ind}}=const behavior expected for the QC regime the material should belong to because of the spin gap. Instead, we note that T_{1}T/T_{2G,{\rm ind}}^{2}=const, which is the signature of the OD regime.
+
+On the other hand, the second approach, by taking the interplane coupling as the origin of the spin gap, quite naturally accounts for the observed Y_{2}Ba_{4}Cu_{7}O_{15} behavior. The interplane coupling gives rise to a common temperature dependence of the dynamic susceptibility in adjacent planes, and it also leads to a _common_ value of the spin gap in the fluctuation spectrum. Although we cannot demonstrate that the interplane coupling is indeed responsible for the occurrence of the spin gap, our results point to the importance of the interplane coupling in the spin-gap formation.
+
+If we make the reasonable assumption that the effective interplane coupling depends on the sum of charge carrier effects in both planes, one understands why the crossover temperature of Y_{2}Ba_{4}Cu_{7}O_{15} (T^{*}=130 K) lies somewhere between the corresponding values for YBa_{2}Cu_{3}O_{7} (T^{*}\leq T_{c}) and YBa_{2}Cu_{4}O_{8} (T^{*}=150 K).
+
+### Symmetry of superconducting state
+
+We now discuss the relevance of our results with respect to the symmetry of the pair wave function of the superconducting state. We therefore have plotted in Fig. 5T_{2G,{\rm ind}}^{-1}(T)/T_{2G,{\rm ind}}^{-1}(T_{c}) vs T/T_{c} for all plane Cu sites in Y_{2}Ba_{4}Cu_{7}O_{15}, YBa_{2}Cu_{4}O_{8}, and YBa_{2}Cu_{3}O_{6.982}. Within error limits the various data points gather on a universal curve which decreases monotonously towards 0.80 in the T\to 0 limit. According to the discussion of Sec. III, the "true" limiting value of T_{2G,{\rm ind}}^{-1}(T)/T_{2G,{\rm ind}}^{-1}(T_{c}) could be about 20% _higher_.
+
+The dashed and dotted lines in Fig. 5 are theoretical curves calculated by Bulut and Scalapino [31] for YBa_{2}Cu_{3}O_{7} in the case of s and d wave symmetry. Although the corresponding calculations for Y_{2}Ba_{4}Cu_{7}O_{15} and YBa_{2}Cu_{4}O_{8} have not yet been performed, it is reasonable to assume that these "normalized" curves will be not much different from the YBa_{2}Cu_{3}O_{7} curves since the experimental data for all compounds follow a universal curve.
+
+The experimental points are much closer to the d than the s wave curve, in particular if a possible 20% correction is taken into account. Hence, the T_{2G,{\rm ind}} data seem to favor d wave symmetry. For YBa_{2}Cu_{4}O_{8}, this result is in accordance with our previous conclusion drawn from Cu spin-lattice relaxation and Knight shift measurements. [25] However, as shown by Sudbo _et al._, [32] models of d wave and strongly _anisotropic_s wave superconductivity deliver very similar results. Thus, we conclude that the T_{2G} data exclude _isotropic_s wave symmetry.
+
+## VI Summary
+
+We have presented plane Cu nuclear spin-spin relaxation rates T_{2}^{-1} of Y_{2}Ba_{4}Cu_{7}O_{15}, YBa_{2}Cu_{4}O_{8}, and YBa_{2}Cu_{3}O_{6.982}, which deliver information on the static electron spin susceptibility \chi^{\prime}(q) at nonzero wave vector q. Our main conclusions were drawn from a discussion of the indirect component T_{2G,{\rm ind}} of the Gaussian contribution to T_{2}.
+
+For Y_{2}Ba_{4}Cu_{7}O_{15}, the magnitude of the individual T_{2G,{\rm ind}} values confirms our previous conclusion [1] that the
+
+Figure 5: Temperature dependences of T_{2G,{\rm ind}}^{-1} at the plane copper sites in the superconducting state. The symbols are the same as in Fig. 1; the solid line is a guide to the eye. The dashed and dotted lines are calculated values (Ref. [31]) for a s and a d wave superconductor, respectively.
+
+  planes of the 1-2-4 block are less doped than the 1-2-3 block planes. The temperature dependence of T_{2G,{\rm ind}} provides further evidence for a strong interplane coupling between adjacent CuO_{2} planes belonging to different blocks.
+
+For all three compounds studied, the data suggest a nearly temperature-independent correlation length of the antiferromagnetic (AF) fluctuations and a Curie-Weiss law for the susceptibility at the AF wave vector with negative Weiss temperatures whose absolute values increase with doping level.
+
+The data support our previous conclusion about the existence of the spin pseudogap in Y_{2}Ba_{4}Cu_{7}O_{15} and YBa_{2}Cu_{4}O_{8}. The observation of the same gap value for both blocks in Y_{2}Ba_{4}Cu_{7}O_{15} points to the importance of the interplane coupling in the gap formation. We show that the Y_{2}Ba_{4}Cu_{7}O_{15} results are incompatible with the Sokol-Pines phase diagram [26] based on single CuO_{2} plane theory while the YBa_{2}Cu_{4}O_{8} and YBa_{2}Cu_{3}O_{6.982} data are in accord with that theory.
+
+The temperature dependence of T_{2G,{\rm ind}} below T_{c} excludes _isotropic s_ wave superconductivity in Y_{2}Ba_{4}Cu_{7}O_{15}, YBa_{2}Cu_{4}O_{8}, and YBa_{2}Cu_{3}O_{6.982}. Together with our spin-lattice relaxation and Knight shift measurements in YBa_{2}Cu_{4}O_{8} (Ref. [25]) and corresponding investigations of YBa_{2}Cu_{3}O_{7} (Ref. [33]), one may conclude that all Y-Ba-Cu-O compounds are not _isotropic s_ wave superconductors. At present it seems impossible to distinguish between possible d and more exotic s wave superconductivity in these materials.
+
+###### Acknowledgements.
+
+ We thank the group of Professor E. Kaldis (ETH-Zurich) for preparing the Y_{2}Ba_{4}Cu_{7}O_{15} material. Financial support by the Swiss National Science Foundation is gratefully acknowledged.
+
+## References
+
+* [1] R. Stern, M. Mali, I. Mangelschots, J. Roos, D. Brinkmann, J.-Y. Genoud, T. Graf, and J. Muller, Phys. Rev. B **50**, 426 (1994).
+* [2] C. H. Pennington and C. P. Slichter, Phys. Rev. Lett. **66**, 381 (1991).
+* [3] C. H. Pennington, D. J. Durand, C. P. Slichter, J. P. Rice, E. D. Bukowski, and D. M. Ginsberg, Phys. Rev. B **39**, 274 (1989).
+* [4] (a) D. Thelen and D. Pines, Phys. Rev. B **49**, 3528 (1994); (b) M. Takigawa, _ibid._**49**, 4158 (1994).
+* [5] F. Mila and T. M. Rice, Physica C **157**, 561 (1989).
+* [6] A. J. Millis, H. Monien, and D. Pines, Phys. Rev. B **42**, 167 (1990).
+* [7] J. Karpinski, K. Conder, H. Schwer, Ch. Kruger, E. Kaldis, M. Maciejewski, C. Rossel, M. Mali, and D. Brinkmann, Physica C **227**, 68 (1994).
+* [8] K. Conder, S. Rusiecki, and E. Kaldis, Mater. Res. Bull. **24**, 581 (1989).
+* [9] C. H. Pennington, Ph.D. theses, University of Illinois, 1989.
+* [10] T. Imai, C. P Slichter, K. Yoshimura, M. Katoh, and K. Kosuge, Phys. Rev. Lett. **71**, 1254 (1993).
+* [11] H. Zimmermann, M. Mali, D. Brinkmann, J. Karpinski, E. Kaldis, and S. Rusiecki, Physica C **159**, 681 (1989).
+* [12] H. Schaefer, M. Mali, J. Roos, H. Zimmermann, D. Brinkmann, S. Rusiecki, and E. Kaldis, Physica C **162-164**, 171 (1989).
+* [13] C. H. Pennington, D. J. Durand, C. P. Slichter, J. P. Rice, E. D. Bukowski, and D. M. Ginsberg, Phys. Rev. B. **39**, 2902 (1989).
+* [14] S. E. Barrett, J. A. Martindale, D. J. Durand, C. H. Pennington, C. P. Slichter, T. A. Friedmann, J. P. Rice, and D. M. Ginsberg, Phys. Rev. Lett. **66**, 108 (1991).
+* [15] M. Bankay, M. Mali, J. Roos, I. Mangelschots, and D. Brinkmann, Phys. Rev. B **46**, 11 228 (1992); H. Zimmermann, M. Mali, M. Bankay, and D. Brinkmann, Physica C **185-189**, 1145 (1991).
+* [16] T. Imai, C. P. Slichter, A. P. Paulikas, and B. Veal, Phys. Rev. B **47**, 9158 (1993); Appl. Magn. Reson. **3**, 729 (1992).
+* [17] Y. Itoh, K. Yoshimura, T. Ohomura, H. Yasuoka, Y. Ueda, and K. Kosuge, J. Phys. Soc. Jpn. **63**, 1455 (1994).
+* [18] Y. Itoh, H. Yasuoka, Y. Fujiwara, Y. Ueda, T. Machi, I. Tomeno, K. Tai, N. Koshizuka, and S. Tanaka, J. Phys. Soc. Jpn. **61**, 1287 (1992).
+* [19] A. Abragam and K. Kambe, Phys. Rev. **91**, 894 (1953).
+* [20] Y. Itoh, H. Yasuoka, and Y. Ueda, J. Phys. Soc. Jpn. **59**, 3463 (1990).
+* [21] T. Moriya, Y. Takahashi, and K. Ueda, J. Phys. Soc. Jpn. **59**, 2905 (1990); T. Tanamoto, K. Kuboki, and H. Fukuyama, _ibid._**60**, 3072 (1991).
+* [22] J. Rossat-Mignod, L. P. Regnault, P. Bourges, P. Burlet, C. Vettier, and J. Y. Henry, in _Selected Topics in Superconductivity_, edited by L. C. Gupta and M. S. Multani (World Scientific, Singapore, 1993), p. 265; Physica B **199&200**, 281 (1994).
+* [23] Y. Kitaoka, K. Ishida, S. Oshugi, K. Fujiwara, G.-q. Zheng, and K. Asayama, Appl. Magn. Reson. **3**, 549 (1992).
+* [24] D. Brinkmann and M. Mali, in _NMR -- Basic Principles and Progress_, edited by P. Diehl, E. Fluck, H. Gunther, R. Kosfeld, and J. Seelig (Springer, Berlin, 1994), Vol. 31, p. 171.
+* [25] M. Bankay, M. Mali, J. Roos, and D. Brinkmann, Phys. Rev. B **50**, 6416 (1994).
+* [26] A. Sokol and D. Pines, Phys. Rev. Lett. **71**, 2813 (1993).
+* [27] V. Barzykin, D. Pines, A. Sokol, and D. Thelen, Phys. Rev. B **49**, 1544 (1994).
+* [28] A. J. Millis and H. Monien, Phys. Rev. Lett. **70**, 2810 (1993); **71**, 210(E) (1993); Phys. Rev. B **50**, 16 606 (1994).
+* [29] L. B. Ioffe, A. I. Larkin, A. J. Millis, and B. L. Altshuler, JETP Lett. **59**, 65 (1994).
+* [30] M. U. Ubbens and P. A. Lee, Phys. Rev. B **50**, 438 (1994).
+* [31] N. Bulut and D. J. Scalapino, Phys. Rev. Lett. **67**, 2898 (1991).
+* [32] A. Sudbo, S. Chakravarty, S. Strong, and P. W. Anderson, Phys. Rev. B **49**, 12 245 (1994).
+* [33] C. P. Slichter, J. A. Martindale, S. E. Barrett, K. E. O'Hara, S. M. De Soto, T. Imai, D. J. Durand, C. H. Pennington, T. A. Friedmann, W. C. Lee, and D. M. Ginsberg, J. Phys. Chem. Solids **54**, 1439 (1993).
+
+ 
+
+# Spin pseudogap and interplane coupling in Y_{2}Ba_{4}Cu_{7}O_{15}:
+
+A ^{63}Cu nuclear spin-spin relaxation study
+
+R. Stern, M. Mali, J. Roos, and D. Brinkmann
+
+Physik-Institut, Universitat Zurich, CH-8057 Zurich, Switzerland
+
+###### Abstract
+
+We report measurements of the Gaussian contribution T_{2G} to the plane ^{63}Cu nuclear spin-spin relaxation time in the YBa_{2}Cu_{3}O_{7} and YBa_{2}Cu_{4}O_{8} blocks of normal and superconducting Y_{2}Ba_{4}Cu_{7}O_{15}. The data confirm our previous results that adjacent CuO_{2} planes have different doping levels and that these planes are strongly coupled. The static spin susceptibility at the antiferromagnetic wave vector exhibits a Curie-Weiss-like temperature dependence in the normal state. The Y_{2}Ba_{4}Cu_{7}O_{15} data are incompatible with a phase diagram based on a single CuO_{2} plane theory but point to the importance of the interplane coupling in the spin-gap formation. Additional data for YBa_{2}Cu_{4}O_{8} and YBa_{2}Cu_{3}O_{6.982} are in accordance with the single-plane theory. The temperature dependence of T_{2G,{\rm ind}} below T_{c} excludes isotropic s-wave superconductivity in all three compounds.
+
+pacs: 0163-1829/95/51(21)/15478(6)/S06.00 +
+Footnote †: preprint: JUNE 1995-1
+
+## I Introduction
+
+Recently, we reported in detail nuclear magnetic resonance (NMR) and nuclear quadrupole resonance (NQR) measurements in the Y_{2}Ba_{4}Cu_{7}O_{15} compound, which can be considered as a natural multilattice consisting of alternating YBa_{2}Cu_{4}O_{8} (1-2-4 for short) and YBa_{2}Cu_{3}O_{7} (1-2-3) blocks.[1] The CuO_{2} planes of adjacent 1-2-3 and 1-2-4 blocks form double planes whose individual planes are inequivalent and distinguishable by NMR and/or NQR. By comparing the NQR frequency, spin-lattice relaxation time T_{1}, and magnetic shift K of the distinct plane Cu sites we found three major results: (i) The individual planes of a double plane have different doping levels, (ii) the individual planes of a double plane are strongly coupled with an estimated coupling strength of at least 30 meV, and (iii) the electron spin fluctuation spectrum in both individual planes exhibits a spin pseudogap with a common value.
+
+To further study the interplane coupling and its consequences on in-plane spin dynamics we have performed measurements of an additional NMR-NQR quantity, the Gaussian contribution T_{2G} to the plane Cu nuclear spin-spin relaxation time T_{2}. Complementary to K and T_{1}, T_{2G} delivers information on the real part of the static electronic spin susceptibility \chi^{\prime}(q) at nonzero wave vector q.[2] We will present T_{2G} data for Y_{2}Ba_{4}Cu_{7}O_{15} over the temperature range from 15 to 400 K and, as well, results of comparative measurements for YBa_{2}Cu_{4}O_{8} and YBa_{2}Cu_{3}O_{6.982}.
+
+The paper is organized as follows. The next section contains some necessary theoretical background. Experimental procedures, including the characterization of the sample, are given in Sec. III. In Sec. IV we present our data, followed by a discussion of results in Sec. V and a summary in Sec. VI.
+
+## II Theory
+
+Pennington _et al.[3]_ were the first to realize that the spin-spin relaxation rate of plane Cu in YBa_{2}Cu_{3}O_{7} is much larger than expected from conventional nuclear dipolar coupling. They showed that the predominant part of the rate is due to an enhanced Cu nuclear-nuclear spin coupling induced through an indirect coupling via electron spins.
+
+If the quantization axis of the Cu nuclear spin is parallel to the crystallographic c axis, as in the case of plane copper in pure NQR, then T_{2G,{\rm ind}}^{-1} can be expressed[2, 4] in terms of \chi^{\prime}(q) as
+
+\[\left[\frac{1}{T_{2G,{\rm ind}}}\right]^{2} = \frac{P(\gamma_{n}\hbar)^{4}}{m\hbar^{2}}\left[\frac{1}{N}\sum_{q }|A(q)_{\rm ce}|^{4}\chi^{\prime}(q)^{2}\right.\] (1) \[\left.-\left(\frac{1}{N}\sum_{q}|A(q)_{\rm ce}|^{2}\chi^{\prime}( q)\right)^{2}\right]\,.\]
+
+Here, P and \gamma_{n} are the abundance and the gyromagnetic ratio of the Cu isotope being studied, m is a constant that depends on the resonance method used (m=8 for NMR and 4 for NQR), N is the number of Cu atoms per unit area, and c denotes the direction of quantization, i.e., the direction of the main component of the electric field gradient tensor in case of NQR. {\bf A}(q) is the Fourier transform of the hyperfine coupling tensor {\bf A}({\bf r}_{i}) consisting of the on-site A_{\rm ce} ({\bf r}_{j}=0) and isotropic transferred B ({\bf r}_{j}\neq 0) terms. For the Cu nuclei under consideration and adopting the Mila-Rice Hamiltonian,[5]A(q)_{\rm ce} is given by
+
+\[A(q)_{\rm ce}=A_{\rm ce}+2B\left[\cos(q_{\pi}a)+\cos(q_{y}a)\right]\,\,.\] (2)
+
+Since in all Y-Ba-Cu-O compounds the spin part of the plane Cu magnetic shift in the c direction is zero, A_{cc}\ =\ -\ 4B. Consequently, {\bf A}(q) peaks at the corners of the first Brillouin zone at Q_{\rm AF}\ =\ (\pm\frac{\pi}{a},\pm\frac{\pi}{a}), and T_{2G,{\rm ind}}^{-1} therefore involves predominantly q summation of \chi^{\prime}(q) close to Q_{\rm AF}.
+
+Using a phenomenological expression [6] for \chi^{\prime}(q), Thelen and Pines showed [4] that, in the long correlation length limit \xi\gg a,
+
+\[\frac{1}{T_{2G,{\rm ind}}}\propto\frac{\chi^{\prime}(Q_{\rm AF})}{\xi}\propto \xi\sqrt{\beta}\ ,\] (3)
+
+where a is the lattice constant and \beta a parameter measuring the relative strength of the antiferromagnetic (AF) fluctuations with respect to the zone-center fluctuations.
+
+Finally, we recall the spin-lattice relaxation rate per temperature unit, (T_{1}T)^{-1}, which is given by the weighted q average of the \lim_{\omega\to 0}\frac{\chi^{\prime\prime}(q,\omega)}{\omega}. For \xi\gg a, one obtains [4, 6]
+
+\[\frac{1}{T_{1}T}\propto\frac{\chi^{\prime}(Q_{\rm AF})}{\Gamma_{\rm AF}}\sqrt {\beta}\ ,\] (4)
+
+where \Gamma_{\rm AF} is a characteristic AF spin fluctuation energy scale.
+
+## III Experiment
+
+The Y_{2}Ba_{4}Cu_{7}O_{15} sample used in this work was synthesized with Ba metal (not carbonate) by method II of Ref. 7. The exact oxygen content determined by volumetric methods [8] is 14.970(2), the lattice parameters are a=3.8314 A, b=3.881 A, and c=50.679 A, and the onset of the superconducting transition occurs at T_{c}=93.1 K.
+
+Since the plane Cu NQR lines of the 1-2-3 and 1-2-4 blocks are quite narrow and well separated, [7] we measured T_{2G} by the NQR spin-echo method in zero magnetic field using standard pulsed spectrometers. The signals were obtained by a phase-alternating add-subtract spin-echo technique similar to that one used in Ref. 9. To have an optimal filling factor and thus optimal signal-to-noise ratio, we used unoriented powder, for which T_{2G} is about 7% larger than for uniaxially aligned powder. [10] To be able to make an unbiased comparison of Y_{2}Ba_{4}Cu_{7}O_{15}T_{2G} results with those from its parent compounds, we in addition measured T_{2G} on unoriented YBa_{2}Cu_{4}O_{8} and YBa_{2}Cu_{3}O_{6.982} powders under the same experimental conditions.
+
+In order to measure T_{2G} properly it is necessary to uniformly flip all nuclear spins involved in the experiment. This demands a flipping pulse (\pi pulse) that is short compared to the inverse of the linewidth. In going from the normal to the superconducting state the pulse length has to be readjusted due to a changed penetration depth and an inevitable increase of the inhomogeneity of the flipping high-frequency field in the superconducting powder grains. Failing to do so results in an abrupt prolongation of T_{2G} just below T_{c}. In general, an incomplete flipping of the spins, due to whatsoever experimental shortcomings, results in a prolonged T_{2G}; therefore all the presented T_{2G}^{-1} data are somewhat smaller than the proper value obtained under ideal experimental conditions. We estimate that for the superconducting state our T_{2G}^{-1} values could be up to 20% too low because of the use of unoriented powder and the inhomogeneous high-frequency field.
+
+The full linewidth at half height (FWHH) of the plane ^{63}Cu NQR at 100 K is 350 kHz in the 1-2-3 and 220 kHz in the 1-2-4 block of Y_{2}Ba_{4}Cu_{7}O_{15} (Ref. 7), 180 kHz in YBa_{2}Cu_{4}O_{8} (Ref. 11), and 200 kHz in YBa_{2}Cu_{3}O_{6.982} (Ref. 12). At temperatures above T_{c}, the length of the applied \pi pulse was 1.4 \mus; below T_{c} this length increased to 2.4 \mus.
+
+## IV Results and Analysis
+
+The spin-echo amplitude E, recorded as a function of time \tau between the first and the second (flipping) pulses, could be fitted to the expression
+
+\[E(2\tau)=E_{0}\ \exp\left[-\frac{2\tau}{T_{2R}}-\frac{1}{2}\left(\frac{2\tau}{T_ {2G}}\right)^{2}\right]\ ,\] (5)
+
+where the Lorentzian-Redfield term T_{2R}^{-1} stands for the decay rate due to the spin-lattice relaxation process.
+
+T_{2R}^{-1} was determined from the expression T_{2R}^{-1} (2+r)/3T_{1}^{-1} (Ref. 2), using NQR T_{1} from Refs. 1, 11, and 13. For the anisotropy of the relaxation rate r, we took the values 3.7 (Ref. 14) for YBa_{2}Cu_{3}O_{6.982} and the 1-2-3 block and 3.3 (Ref. 15) for the 1-2-4 block and YBa_{2}Cu_{4}O_{8}, assuming that r is the same in the parent compound and in the corresponding block of Y_{2}Ba_{4}Cu_{7}O_{15}. With T_{2G} and T_{2R} as free fitting parameters we found that T_{2R} thus obtained agrees with that calculated from T_{1}. The disadvantage of the latter fitting procedure is a larger scatter of the results.
+
+Figure 1 presents our results for T_{2G}^{-1} of Y_{2}Ba_{4}Cu_{7}O_{15}
+
+ YBa_{2}Cu_{3}O_{6.982}, and YBa_{2}Cu_{4}O_{8} corrected now for "oriented powder" by multiplying the raw values by 1.07. For comparison, recent data for YBa_{2}Cu_{3}O_{6.9} (Ref. [16]) (multiplied by \sqrt{2} for comparison with NQR values), YBa_{2}Cu_{3}O_{6.8} (Ref. [17]), and YBa_{2}Cu_{4}O_{8} (Ref. [18]) are given. While there is rather good agreement for the YBa_{2}Cu_{4}O_{8} structures, there is a discrepancy for the YBa_{2}Cu_{3}O_{6.982} samples either for experimental reasons or because of a dependence of T_{2G} on doping (see below).
+
+The obtained T_{2G}^{-1} encompass the temperature-independent contribution T_{2G,{\rm dip}}^{-1}, arising from the direct nuclear dipole-dipole interaction and the temperature-dependent contribution, T_{2G,{\rm ind}}^{-1}, caused by the indirect nuclear spin-spin coupling mediated through the AF correlated electron spins. In a Gaussian approximation, neglecting the interference terms, both contributions add as [18]
+
+\[T_{2G}^{-2}\approx T_{2G,{\rm dip}}^{-2}+T_{2G,{\rm ind}}^{-2}\ .\] (6)
+
+Anticipating a common temperature dependence of T_{2G,{\rm ind}}^{-1} in both planes, we plotted (T_{2G}^{-2})_{124} vs (T_{2G}^{-2})_{123} using the temperature as an implicit parameter (Fig. 1, inset). Within the experimental scatter a linear relationship
+
+\[\left(T_{2G}^{-2}\right)_{124}=A\left(T_{2G}^{-2}\right)_{123}+B,\] (7)
+
+with A~=~2.01(6) and B~=~-17(8) ms^{-2}, is indeed observed. If T_{2G,{\rm dip}}^{-1} is equal in both planes, as one may expect on grounds of structural similarity, the relationship (7) delivers T_{2G,{\rm dip}}^{-1}~=~4.1(1.0) ms^{-1}, which is close to the 4.5 ms^{-1} we estimate for the Y_{2}Ba_{4}Cu_{7}O_{15} crystal structure by using a modified Abragam-Kambe [18, 19] expression for the NQR dipolar second moment. The Y_{2}Ba_{4}Cu_{7}O_{15}T_{2G,{\rm dip}}^{-1} value is somewhat smaller than the estimated 5.8 and 5.9 ms^{-1} obtained for YBa_{2}Cu_{3}O_{6.98} and YBa_{2}Cu_{4}O_{8}, respectively. [18] This difference arises from the fact that in Y_{2}Ba_{4}Cu_{7}O_{15} the Cu NQR frequencies in the individual planes of the double plane differ; therefore the "neighbor" plane, having only nonresonant Cu nuclear spins, contributes much less to T_{2G,{\rm dip}}^{-1} as in case of YBa_{2}Cu_{3}O_{7} and YBa_{2}Cu_{4}O_{8}, where all planes are equivalent.
+
+Finally, Eq. (6) yields T_{2G,{\rm ind}}; the results are plotted in Fig. 2. Notice that (1/T_{2G,{\rm ind}})_{124}~>~(1/T_{2G,{\rm ind}})_{123}, meaning that the planes of the 1-2-4 block are less doped than those of the 1-2-3 block, in agreement with our earlier conclusions. Further, T_{2G,{\rm ind}} in both blocks of Y_{2}Ba_{4}Cu_{7}O_{15} follows the same temperature dependence above and below T_{c}, as seen from the constant ratio r_{T_{2}}~=~T_{2G,{\rm ind}}^{123}/T_{2G,{\rm ind}}^{124} (Fig. 2, inset).
+
+Around 50 K, we observe in Y_{2}Ba_{4}Cu_{7}O_{15} at both plane Cu sites an unexpected growth of T_{2R}^{-1}, peaking at 52 K. Similar peaks were detected at 87 K in YBa_{2}Cu_{3}O_{6.982} and YBa_{2}Cu_{3}O_{7}. [20] Since no such peaks appear in YBa_{2}Cu_{4}O_{8} which stands out in the Y-Ba-Cu-O family as a stoichiometric, thermally very stable compound, we suspect that the diffusion of loosely bound oxygen in the single chains, known as the weak structural elements present in YBa_{2}Cu_{3}O_{7} and Y_{2}Ba_{4}Cu_{7}O_{15}, but not in YBa_{2}Cu_{4}O_{8}, could be the source of this T_{2R} anomaly. A more detailed study to clarify this aspect is necessary. However, we believe that this anomaly is extrinsic rather than a genuine effect of the in-plane electron spin dynamics.
+
+## V Discussion
+
+The experimental results on T_{2G} allow us to discuss five features which characterize Y_{2}Ba_{4}Cu_{7}O_{15} at the microscopic level: the interplane coupling, the temperature dependence of the electronic susceptibility at the AF wave vector, the spin gap and its relation to the interplane coupling, and, finally, the symmetry of the pair wave function of the superconducting state.
+
+### Further evidence for interplane coupling
+
+The presence of interplane coupling, at least for the normal conducting phase of Y_{2}Ba_{4}Cu_{7}O_{15}, was deduced [1] from the fact that the spin-lattice relaxation rate for the two inequivalent plane Cu sites exhibited the _same_ temperature dependence; the same was found for the Knight shift at these sites. The temperature dependence itself shows a behavior typical for an underdoped high-T_{c} compound that forms a spin gap (see below). Since both the relaxation rate and the Knight shift are related to the dynamic susceptibility, the common temperature dependence reveals the same dynamics in these planes which must arise from a coupling between the planes.
+
+As shown by the inset of Fig. 2, also the T_{2G}^{-1} data of the two inequivalent Cu sites reveal a common temperature dependence and thus provide a third piece of evidence for the interplane coupling.
+
+### Temperature dependence of \chi(Q_{\rm AF}) above Tc
+
+In principle, using experimental T_{2G} and T_{1} data, the electronic susceptibility at the AF wave vector, in the long correlation length limit, can be derived from
+
+Figure 2: Temperature dependences of NQR T_{2G,{\rm ind}}^{-1} at the plane copper sites. The symbols are the same as in Fig. 1. Insert: ratio of T_{2G,{\rm ind}} of individual planes in Y_{2}Ba_{4}Cu_{7}O_{15}.
+
+  Eqs. (3) and (4), respectively. This requires, however, some knowledge about the temperature dependence of the parameters \xi and \beta which is not known _a priori_. Nevertheless, similar to the treatment of YBa_{2}Cu_{3}O_{6.9} in Ref. 16, we can discuss two limiting cases. (i) If the correlation length \xi is independent of temperature, \chi^{\prime}(T) is determined by the temperature, dependence of T_{2G,{\rm ind}} according to Eq. (3); hence \chi^{\prime}(Q_{\rm AF})\propto 1/T_{2G,{\rm ind}}. (ii) If, on the other hand, \xi depends strongly on temperature and \beta does not, we have 1/T_{2G,{\rm ind}}\propto\xi and \chi^{\prime}(Q_{\rm AF})\propto\xi^{2}; hence \chi^{\prime}(Q_{\rm AF})\propto T_{2G,{\rm ind}}^{-2}.
+
+In Fig. 3 we have plotted the temperature dependence of both T_{2G,{\rm ind}} and T_{2G,{\rm ind}}^{2} corresponding to cases (i) and (ii), respectively, together with our data for YBa_{2}Cu_{3}O_{6.982} and YBa_{2}Cu_{4}O_{8}. For case (i), all four data sets can be fitted by a Curie-Weiss law (dotted curves) which implies that 1/\chi^{\prime}(Q_{\rm AF})\propto 1/(T+\Theta) where \Theta is the Weiss temperature. For case (ii), the inverse susceptibility of the 1-2-3 and the 1-2-4 blocks of Y_{2}Ba_{4}Cu_{7}O_{15} follows a Curie law, i.e., 1/\chi^{\prime}(Q_{\rm AF})\propto 1/T, while the YBa_{2}Cu_{3}O_{7} and YBa_{2}Cu_{4}O_{8} data show a different behavior.
+
+We believe that case (i), i.e., a temperature-independent or at least only weakly dependent correlation length, is the correct interpretation of the data since it applies to all four data sets with a fit quality that is better than in case (ii). Furthermore, this result is in accordance with theoretical models[21] and supports results of inelastic neutron scattering in YBa_{2}Cu_{3}O_{x}.[22]
+
+Accepting this conclusion, we note that the negative value of the Weiss temperatures implies that the compounds do not order antiferromagnetically at low temperatures which is a well-known fact. For the two blocks of Y_{2}Ba_{4}Cu_{7}O_{15}, the Weiss temperatures are the same (about -200 K) while \Theta is -100 K and -300 K in the YBa_{2}Cu_{4}O_{8} and YBa_{2}Cu_{3}O_{7} structures, respectively. Thus, the absolute value of the Weiss temperature in the Y-Ba-Cu-O compounds increases with rising doping level and distinguishes Y_{2}Ba_{4}Cu_{7}O_{15} as a (nearly) optimized compound. A similar behavior, according to T_{1} measurements,[23] had been found for La-Sr-Cu-O compounds where the Sr content determines the doping level.
+
+### Spin-gap behavior and interplane coupling
+
+Next, we will discuss the energy scale parameter of the AF fluctuations, \Gamma_{\rm AF}, and the evidence for the presence of a spin gap. NMR investigations of underdoped YBa_{2}Cu_{3}O_{x} compounds,[24] YBa_{2}Cu_{4}O_{8} (Ref. 25), and Y_{2}Ba_{4}Cu_{7}O_{15} (Ref. 1) have shown that the planar Cu spin-lattice relaxation and Knight shift data can be interpreted in terms of a spin gap, in accordance with neutron scattering data.[22] The occurrence of a spin gap means that spectral weight in the electron spin fluctuations is transferred from lower to higher energy. The presence of the spin gap manifests itself in a maximum of 1/T_{1}T at a temperature T^{*} well above T_{c}, with T^{*}=130 and 150 K for Y_{2}Ba_{4}Cu_{7}O_{15} (Ref. 1) and YBa_{2}Cu_{4}O_{8} (Ref. 25), respectively. It should be stressed again that the T_{2G}^{-1} data do not show such a peak.
+
+Combining Eqs. (3) and (4) yields the quantity T_{1}T/T_{2G,{\rm ind}}^{2} which is proportional to \Gamma_{\rm AF}. The plot of Fig. 4 reveals that for both blocks of Y_{2}Ba_{4}Cu_{7}O_{15} and for YBa_{2}Cu_{4}O_{8}, \Gamma_{\rm AF} increases with falling temperature whereas for YBa_{2}Cu_{3}O_{6.982} it remains constant. The latter result is in agreement with earlier measurements by the Slichter group,[16] our YBa_{2}Cu_{4}O_{8} data are similar to those of Itoh _et al.[18]_
+
+In the framework of the random phase approximation (RPA) formalism[6, 17] one does not expect such an increase of \Gamma_{\rm AF}; instead the spin fluctuations are supposed to be slowed down by a growing AF correlation on the decreasing temperature. However, if the spin excitation spectrum is changed by the opening of a spin gap, an increase of \Gamma_{\rm AF} is conceivable.
+
+The origin of the spin gap is still under debate. For in
+
+Figure 4: Temperature dependences of T_{1}T/T_{2G,{\rm ind}}^{2} (\propto\Gamma_{\rm AF}) and T_{1}T/T_{2G,{\rm ind}} (inset). The symbols are the same as in Fig. 1, the lines are guides to the eye, and the arrows mark T_{c} and T^{*} of Y_{2}Ba_{4}Cu_{7}O_{15}.
+
+Figure 3: Temperature dependences of (a) T_{2G,{\rm ind}} and (b) T_{2G,{\rm ind}}^{2}. The symbols are the same as in Fig. 1. Dotted lines are fits to the (a) Curie-Weiss or (b) Curie law.
+
+  stance, one may ask whether the gap is an intrinsic property of the single CuO_{2} plane or a consequence of inter-plane effects. One approach to answer this question [26, 27] considers the spin gap an intrinsic property of a single underdoped CuO_{2} plane that shows a quasi-two-dimensional quantum Heisenberg antiferromagnet behavior. The spin gap itself is related to the suppression of spectral weight for frequencies smaller than v_{s}/\xi (v_{s} is the spin wave velocity) in the quantum-disordered regime. Another approach [28, 29, 30] assumes that the gap originates from an effective interplane coupling between adjacent CuO_{2} planes.
+
+Pursuing the first path, Sokol and Pines [26] (SP) propose an unified magnetic phase diagram of the cuprate superconductors, which, dependent on doping level and temperature, displays various regimes that, among others, are characterized by certain temperature-independent ratios of plane Cu T_{1}T and T_{2G,{\rm ind}} values. In the _quantum critical_ (QC) regime (applicable to spin-gap compounds), the ratio T_{1}T/T_{2G,{\rm ind}} is constant while in the _overdamped_ (OD) regime T_{1}T/T_{2G,{\rm ind}}^{2} is constant.
+
+We check these predictions with the help of Fig. 4 and its inset. Obviously, the overdoped compound YBa_{2}Cu_{3}O_{7} is in the OD regime from T_{c} up to 300 K (as noted already by SP, although only for the 150-300 K range). On the other hand, the underdoped YBa_{2}Cu_{4}O_{8} structure is in the QC regime for temperatures above T_{124}^{*}.
+
+While these results are in accordance with the SP model, the Y_{2}Ba_{4}Cu_{7}O_{15} structure does not fit into this scheme. The mere fact that the differently doped planes of the 1-2-3 and 1-2-4 blocks have the same crossover temperature T_{247}^{*} already contradicts the proposed phase diagram. In particular, above T_{247}^{*}, the two blocks do not show the T_{1}T/T_{2G,{\rm ind}}=const behavior expected for the QC regime the material should belong to because of the spin gap. Instead, we note that T_{1}T/T_{2G,{\rm ind}}^{2}=const, which is the signature of the OD regime.
+
+On the other hand, the second approach, by taking the interplane coupling as the origin of the spin gap, quite naturally accounts for the observed Y_{2}Ba_{4}Cu_{7}O_{15} behavior. The interplane coupling gives rise to a common temperature dependence of the dynamic susceptibility in adjacent planes, and it also leads to a _common_ value of the spin gap in the fluctuation spectrum. Although we cannot demonstrate that the interplane coupling is indeed responsible for the occurrence of the spin gap, our results point to the importance of the interplane coupling in the spin-gap formation.
+
+If we make the reasonable assumption that the effective interplane coupling depends on the sum of charge carrier effects in both planes, one understands why the crossover temperature of Y_{2}Ba_{4}Cu_{7}O_{15} (T^{*}=130 K) lies somewhere between the corresponding values for YBa_{2}Cu_{3}O_{7} (T^{*}\leq T_{c}) and YBa_{2}Cu_{4}O_{8} (T^{*}=150 K).
+
+### Symmetry of superconducting state
+
+We now discuss the relevance of our results with respect to the symmetry of the pair wave function of the superconducting state. We therefore have plotted in Fig. 5T_{2G,{\rm ind}}^{-1}(T)/T_{2G,{\rm ind}}^{-1}(T_{c}) vs T/T_{c} for all plane Cu sites in Y_{2}Ba_{4}Cu_{7}O_{15}, YBa_{2}Cu_{4}O_{8}, and YBa_{2}Cu_{3}O_{6.982}. Within error limits the various data points gather on a universal curve which decreases monotonously towards 0.80 in the T\to 0 limit. According to the discussion of Sec. III, the "true" limiting value of T_{2G,{\rm ind}}^{-1}(T)/T_{2G,{\rm ind}}^{-1}(T_{c}) could be about 20% _higher_.
+
+The dashed and dotted lines in Fig. 5 are theoretical curves calculated by Bulut and Scalapino [31] for YBa_{2}Cu_{3}O_{7} in the case of s and d wave symmetry. Although the corresponding calculations for Y_{2}Ba_{4}Cu_{7}O_{15} and YBa_{2}Cu_{4}O_{8} have not yet been performed, it is reasonable to assume that these "normalized" curves will be not much different from the YBa_{2}Cu_{3}O_{7} curves since the experimental data for all compounds follow a universal curve.
+
+The experimental points are much closer to the d than the s wave curve, in particular if a possible 20% correction is taken into account. Hence, the T_{2G,{\rm ind}} data seem to favor d wave symmetry. For YBa_{2}Cu_{4}O_{8}, this result is in accordance with our previous conclusion drawn from Cu spin-lattice relaxation and Knight shift measurements. [25] However, as shown by Sudbo _et al._, [32] models of d wave and strongly _anisotropic_s wave superconductivity deliver very similar results. Thus, we conclude that the T_{2G} data exclude _isotropic_s wave symmetry.
+
+## VI Summary
+
+We have presented plane Cu nuclear spin-spin relaxation rates T_{2}^{-1} of Y_{2}Ba_{4}Cu_{7}O_{15}, YBa_{2}Cu_{4}O_{8}, and YBa_{2}Cu_{3}O_{6.982}, which deliver information on the static electron spin susceptibility \chi^{\prime}(q) at nonzero wave vector q. Our main conclusions were drawn from a discussion of the indirect component T_{2G,{\rm ind}} of the Gaussian contribution to T_{2}.
+
+For Y_{2}Ba_{4}Cu_{7}O_{15}, the magnitude of the individual T_{2G,{\rm ind}} values confirms our previous conclusion [1] that the
+
+Figure 5: Temperature dependences of T_{2G,{\rm ind}}^{-1} at the plane copper sites in the superconducting state. The symbols are the same as in Fig. 1; the solid line is a guide to the eye. The dashed and dotted lines are calculated values (Ref. [31]) for a s and a d wave superconductor, respectively.
+
+  planes of the 1-2-4 block are less doped than the 1-2-3 block planes. The temperature dependence of T_{2G,{\rm ind}} provides further evidence for a strong interplane coupling between adjacent CuO_{2} planes belonging to different blocks.
+
+For all three compounds studied, the data suggest a nearly temperature-independent correlation length of the antiferromagnetic (AF) fluctuations and a Curie-Weiss law for the susceptibility at the AF wave vector with negative Weiss temperatures whose absolute values increase with doping level.
+
+The data support our previous conclusion about the existence of the spin pseudogap in Y_{2}Ba_{4}Cu_{7}O_{15} and YBa_{2}Cu_{4}O_{8}. The observation of the same gap value for both blocks in Y_{2}Ba_{4}Cu_{7}O_{15} points to the importance of the interplane coupling in the gap formation. We show that the Y_{2}Ba_{4}Cu_{7}O_{15} results are incompatible with the Sokol-Pines phase diagram [26] based on single CuO_{2} plane theory while the YBa_{2}Cu_{4}O_{8} and YBa_{2}Cu_{3}O_{6.982} data are in accord with that theory.
+
+The temperature dependence of T_{2G,{\rm ind}} below T_{c} excludes _isotropic s_ wave superconductivity in Y_{2}Ba_{4}Cu_{7}O_{15}, YBa_{2}Cu_{4}O_{8}, and YBa_{2}Cu_{3}O_{6.982}. Together with our spin-lattice relaxation and Knight shift measurements in YBa_{2}Cu_{4}O_{8} (Ref. [25]) and corresponding investigations of YBa_{2}Cu_{3}O_{7} (Ref. [33]), one may conclude that all Y-Ba-Cu-O compounds are not _isotropic s_ wave superconductors. At present it seems impossible to distinguish between possible d and more exotic s wave superconductivity in these materials.
+
+###### Acknowledgements.
+
+ We thank the group of Professor E. Kaldis (ETH-Zurich) for preparing the Y_{2}Ba_{4}Cu_{7}O_{15} material. Financial support by the Swiss National Science Foundation is gratefully acknowledged.
+
+## References
+
+* [1] R. Stern, M. Mali, I. Mangelschots, J. Roos, D. Brinkmann, J.-Y. Genoud, T. Graf, and J. Muller, Phys. Rev. B **50**, 426 (1994).
+* [2] C. H. Pennington and C. P. Slichter, Phys. Rev. Lett. **66**, 381 (1991).
+* [3] C. H. Pennington, D. J. Durand, C. P. Slichter, J. P. Rice, E. D. Bukowski, and D. M. Ginsberg, Phys. Rev. B **39**, 274 (1989).
+* [4] (a) D. Thelen and D. Pines, Phys. Rev. B **49**, 3528 (1994); (b) M. Takigawa, _ibid._**49**, 4158 (1994).
+* [5] F. Mila and T. M. Rice, Physica C **157**, 561 (1989).
+* [6] A. J. Millis, H. Monien, and D. Pines, Phys. Rev. B **42**, 167 (1990).
+* [7] J. Karpinski, K. Conder, H. Schwer, Ch. Kruger, E. Kaldis, M. Maciejewski, C. Rossel, M. Mali, and D. Brinkmann, Physica C **227**, 68 (1994).
+* [8] K. Conder, S. Rusiecki, and E. Kaldis, Mater. Res. Bull. **24**, 581 (1989).
+* [9] C. H. Pennington, Ph.D. theses, University of Illinois, 1989.
+* [10] T. Imai, C. P Slichter, K. Yoshimura, M. Katoh, and K. Kosuge, Phys. Rev. Lett. **71**, 1254 (1993).
+* [11] H. Zimmermann, M. Mali, D. Brinkmann, J. Karpinski, E. Kaldis, and S. Rusiecki, Physica C **159**, 681 (1989).
+* [12] H. Schaefer, M. Mali, J. Roos, H. Zimmermann, D. Brinkmann, S. Rusiecki, and E. Kaldis, Physica C **162-164**, 171 (1989).
+* [13] C. H. Pennington, D. J. Durand, C. P. Slichter, J. P. Rice, E. D. Bukowski, and D. M. Ginsberg, Phys. Rev. B. **39**, 2902 (1989).
+* [14] S. E. Barrett, J. A. Martindale, D. J. Durand, C. H. Pennington, C. P. Slichter, T. A. Friedmann, J. P. Rice, and D. M. Ginsberg, Phys. Rev. Lett. **66**, 108 (1991).
+* [15] M. Bankay, M. Mali, J. Roos, I. Mangelschots, and D. Brinkmann, Phys. Rev. B **46**, 11 228 (1992); H. Zimmermann, M. Mali, M. Bankay, and D. Brinkmann, Physica C **185-189**, 1145 (1991).
+* [16] T. Imai, C. P. Slichter, A. P. Paulikas, and B. Veal, Phys. Rev. B **47**, 9158 (1993); Appl. Magn. Reson. **3**, 729 (1992).
+* [17] Y. Itoh, K. Yoshimura, T. Ohomura, H. Yasuoka, Y. Ueda, and K. Kosuge, J. Phys. Soc. Jpn. **63**, 1455 (1994).
+* [18] Y. Itoh, H. Yasuoka, Y. Fujiwara, Y. Ueda, T. Machi, I. Tomeno, K. Tai, N. Koshizuka, and S. Tanaka, J. Phys. Soc. Jpn. **61**, 1287 (1992).
+* [19] A. Abragam and K. Kambe, Phys. Rev. **91**, 894 (1953).
+* [20] Y. Itoh, H. Yasuoka, and Y. Ueda, J. Phys. Soc. Jpn. **59**, 3463 (1990).
+* [21] T. Moriya, Y. Takahashi, and K. Ueda, J. Phys. Soc. Jpn. **59**, 2905 (1990); T. Tanamoto, K. Kuboki, and H. Fukuyama, _ibid._**60**, 3072 (1991).
+* [22] J. Rossat-Mignod, L. P. Regnault, P. Bourges, P. Burlet, C. Vettier, and J. Y. Henry, in _Selected Topics in Superconductivity_, edited by L. C. Gupta and M. S. Multani (World Scientific, Singapore, 1993), p. 265; Physica B **199&200**, 281 (1994).
+* [23] Y. Kitaoka, K. Ishida, S. Oshugi, K. Fujiwara, G.-q. Zheng, and K. Asayama, Appl. Magn. Reson. **3**, 549 (1992).
+* [24] D. Brinkmann and M. Mali, in _NMR -- Basic Principles and Progress_, edited by P. Diehl, E. Fluck, H. Gunther, R. Kosfeld, and J. Seelig (Springer, Berlin, 1994), Vol. 31, p. 171.
+* [25] M. Bankay, M. Mali, J. Roos, and D. Brinkmann, Phys. Rev. B **50**, 6416 (1994).
+* [26] A. Sokol and D. Pines, Phys. Rev. Lett. **71**, 2813 (1993).
+* [27] V. Barzykin, D. Pines, A. Sokol, and D. Thelen, Phys. Rev. B **49**, 1544 (1994).
+* [28] A. J. Millis and H. Monien, Phys. Rev. Lett. **70**, 2810 (1993); **71**, 210(E) (1993); Phys. Rev. B **50**, 16 606 (1994).
+* [29] L. B. Ioffe, A. I. Larkin, A. J. Millis, and B. L. Altshuler, JETP Lett. **59**, 65 (1994).
+* [30] M. U. Ubbens and P. A. Lee, Phys. Rev. B **50**, 438 (1994).
+* [31] N. Bulut and D. J. Scalapino, Phys. Rev. Lett. **67**, 2898 (1991).
+* [32] A. Sudbo, S. Chakravarty, S. Strong, and P. W. Anderson, Phys. Rev. B **49**, 12 245 (1994).
+* [33] C. P. Slichter, J. A. Martindale, S. E. Barrett, K. E. O'Hara, S. M. De Soto, T. Imai, D. J. Durand, C. H. Pennington, T. A. Friedmann, W. C. Lee, and D. M. Ginsberg, J. Phys. Chem. Solids **54**, 1439 (1993).
+
+ 

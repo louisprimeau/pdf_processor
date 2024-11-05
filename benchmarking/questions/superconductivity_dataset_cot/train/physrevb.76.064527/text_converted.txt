@@ -1,0 +1,222 @@
+# Possible nodeless superconductivity in the noncentrosymmetric
+superconductor Mg12-_d_Ir19B16
+
+Gang Mu, Yue Wang, Lei Shan, and Hai-Hu Wen*
+
+National Laboratory for Superconductivity, Institute of Physics and
+Beijing National Laboratory for Condensed Matter Physics, Chinese
+Academy of Sciences, P.O. Box 603, Beijing 100080, People’s Republic of
+China
+
+25 May 200720 ing, the superconducting transition inspected by the ac
+susceptibility occurs at about 5 K with a relatively wide transition.
+However, after the second step, the transition moves to about 5.7 K with
+a sharper transition width if we did not add extra Mg in the second
+step. The Ta foil seems unreacted with the materials in both steps of
+the fabrication if the Mg content is below 12 in the stoichiometric
+formula.
+
+In the top frame of Fig. 2 we show the temperature dependence of
+resistivity under different magnetic fields. One can see that the
+transition width determined from resistive measurements (1
+
+## III Specific heat and fit to the BCS model
+
+Shown in Fig. 3 are the raw data of the specific heat up to a magnetic
+field of 1 T. The open symbols represent the data taken with the DR,
+while all filled symbols show the data taken with the PPMS. Both sets of
+data coincide very well for different fields. With increasing the
+magnetic field the specific heat jump due to the superconducting
+transition moves quickly to lower temperatures leaving a background
+which is consistent with that above T_(c) at zero field. This provides a
+reliable way to extract the normal state specific heat as shown by the
+thick solid line since the normal state can be described by
+C/T = γ_(n) + βT², where the first and the second term correspond to the
+normal state electronic and phonon contribution, respectively. From the
+data it is found that β = 5.4 mJ/mol K⁴ and γ_(n) = 57.7 mJ/mol K². By
+extrapolating the data in the superconducting state at zero field down
+to 0 K one finds, however, a residual value γ₀ = 13.8 mJ/mol K²,
+indicating a contribution either by a nonsuperconducting fraction in
+volume of about 24
+
+Figure 1: (Color online) The x-ray diffraction pattern measured for the
+sample T_(c) = 5.7 K. The peaks from the secondary impurity phase are
+marked by the arrows. It is clear that the main diffraction peaks are
+from the phase MgIrB.
+
+Figure 3: (Color online) Raw data of specific heat plotted as C/T vs T².
+All filled symbols represent the data taken with PPMS at various
+magnetic fields. The open symbols show the data taken with the DR. The
+thick solid line represents the normal state specific heat which
+contains both the phonon and the electronic contributions.
+
+Figure 2: (Color online) Temperature dependence of resistivity (top) and
+magnetic susceptibility (χ^(′′) and χ^(′)) (bottom) under different dc
+magnetic fields. It is clear that the dc magnetic field makes the
+transition shift parallel to low temperatures, manifesting a
+field-induced pair-breaking effect. The inset in the top panel shows the
+resistive transition in a wide temperature regime at μ₀H = 0 T.
+
+superconductivity have the chemical composition and even the structure
+close to the superconducting phase. In any case, it is safe to conclude
+that the normal state Sommerfeld constant for the present sample is
+close to or slightly above 43.9 mJ/mol K2.
+
+Next we can have an estimation on the electron-phonon coupling strength
+based on g_n_. In MgIrB, the electronic conduction is dominated by the
+5d band electrons of Ir atoms. The DOS at E_(F) given by the
+local-density approximation band-structure calculation [11] is about
+_N_(E_(F)) = 5.51/eV spin. By assuming that there is an electron-phonon
+coupling constant l_e_-ph in the system, one has
+
+$$\gamma_{n} = \frac{2\pi^{2}}{3}N(E_{F})k_{B}^{2}(1 + \lambda_{e\text{-ph}}).$$
+
+Using the band-structure value of _N_(F_(F)), we have g_n_ = 25.98(1 +
+l_e_-ph)(mJ/mol K2). Taking the experimental value g_n_ = 43.9 mJ/mol
+K2, we obtain l_e_-ph = 0.68, indicating a slightly moderate
+electron-phonon coupling.
+
+In the raw data shown in Fig. 3, one can see an upturn of g=_C/T_ in the
+very low-temperature region. This upturn is known as the Schottky
+anomaly, induced by lifting the degeneracy of the states of the
+paramagnetic spins. We tried a two level (_S_ = 1/2) model to fit the
+low-temperature data but found a poor fitting together with an extremely
+large Lande factor g in the Zeeman energy _g__m__p_Heff, where m_(B) is
+the Bohr magneton, _H_eff = $\sqrt{H^{2} + H_{0}^{2}}$ is the effective
+magnetic field which evolves into _H_eff = H0, the crystal field at zero
+external field. In MgIrB the most possible paramagnetic centers may be
+from Ir4+(_S_ = 5/2) or Ir3+(_S_ = 2). The system energy due to Zeeman
+splitting in a magnetic field is [12]
+
+E_(Sch) = ∑E_(i)exp (−E_(i)/k_(B)T)/∑exp (−E_(i)/k_(B)T),
+
+where E_(i) = _M__J__S_ _m__B_Heff and M_(J) = -_S_, -_S_ + 1, ..., S -
+1, S. The specific heat due to the Schottky effect is thus _C_Sch =
+(_n_/_k_B)_dE_Sch/_dT_, where n represents the concentration of the
+paramagnetic centers. For S = 5/2 and S = 2 the calculated results are
+very close to each other, therefore we show only the fit with S = 5/2
+corresponding to Ir4+ (six levels). This method allows us to deal with
+the data at zero and finite fields simultaneously. It is known that the
+Schottky term should be zero at T = 0 K. In the superconducting state,
+the total specific heat can be written as _C_tot = _C_nonis + _C_e +
+_C_ph + _C_Sch with _C_nonis = g_0T as the contribution of the
+nonsuperconducting regions, C_(e) is the electronic part. In the zero
+temperature limit only the contribution of the nonsuperconducting part
+is left. Applying a magnetic field gives rise to a finite value D_g_e to
+C_(e) = _g__T_e due to the presence of vortices. Practically, in order
+to fit the Schottky term, we first remove the phonon contribution _C_ph
+= _gT_3, then vertically move the experimental data downward with a
+magnitude g0=13.8 mJ/mol K2 and a field-induced vortex term D_g_(_H_).
+In Fig. 4(a) we present the specific heat coefficient g_(e) - g_(n)
+measured at the magnetic fields up to 1 T. An upturn due to the Schottky
+effect is visible in the low-temperature region for all fields. In Fig.
+4(b) we show the data at _m__0H = 0 T before [(red) filled circles] and
+after (dark open squares) removing the Schottky anomaly calculated based
+on the model of six levels with m0_H_0 = 0.25 T, n = 3.74 mJ/mol K, and
+g = 2. Note that we used the value 43.9 mJ/mol K2 as the normal state
+Sommerfeld constant g_n_. One can see that the low-temperature part
+after removing the Schottky anomaly is flattened out below about 0.8 K
+when the field is zero. Furthermore, it can also be justified by the
+requirement of entropy conservation. Since the Schottky term gives only
+a very small contribution in the high-temperature region (above 1.5 K
+here), if g_(e) had a power law as required by a nodal gap, instead of a
+flat temperature dependence for an _s_-wave gap, the entropy would be
+clearly not conserved yielding a large negative entropy. This is of
+course unreasonable. In Fig. 4(b) we present together the theoretical
+curves for g_(e) - g_(n) calculated using the weak coupling BCS formula
+
+$$\gamma_{e} = \frac{4N(0)}{k_{B}T^{3}}\int_{0}^{k_{B}}\int_{0}^{2\pi}\frac{e^{ \beta k_{B}T}}{(1 + e^{\beta k_{B}T})^{2}}$$
+(3)
+$$\times \left( \varepsilon^{2} + \Delta^{2}(\theta,T) - \frac{T\,d\Delta^{2}(\theta,T)}{dT} \right)d\theta d\varepsilon,$$
+
+where $\zeta = \sqrt{e^{2} + \Delta^{2}(T,\theta)}$. In obtaining the
+theoretical fit we take the implicit relation D0(_T_) derived from the
+weak coupling BCS theory for superconductors with different pairing
+symmetries: D(_T_, _th_)=D0(_T_) for s wave, D(_T_, _th_) = D0(_T_)cos
+2_th_ for d wave, and D(_T_, _th_)=D0(_T_)cos _th_ for p wave,
+respectively. The theoretical curve of the s wave fits the experimental
+data very well leading to an isotropic gap value D0=0.94 meV and T_(c) =
+5.7 K. The ratio D0/_k_B_T_c
+
+Figure 4: (Color online) Temperature dependence of _γ_e_ −γ_η for (a)
+magnetic fields up to 1 T and (b) at zero field before (filled circles)
+and after removing (open and filled squares) the Schottky anomaly. The
+dark solid, red dashed, and dotted green lines in (b) are the
+theoretical curves calculated based on the BCS model (see text) with a
+gap of s wave, d wave, and p wave, respectively.
+
+=1.91 obtained here is quite close to the prediction for the weak
+coupling limit (Δ₀/k_(B)T_(c)=1.76), indicating a slightly moderate
+coupling strength. This is self-consistent with the conclusion derived
+from the estimation on γ_(n). In addition, the specific heat anomaly at
+T_(c) is ΔC_(e)/γ_(n)T|_(T_(c)) = 1.64 being close to the theoretical
+value 1.43 predicted for the case of weak coupling, again showing a
+slightly moderate coupling. The inset in Fig. 4(b) shows a field induced
+part Δγ_(e). In an s-wave superconductor Δγ_(e) is mainly contributed by
+the vortex cores and a linear relation Δγ_(e)
+$\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!  changeable in a wide regime (from 2 K to 5.7 K) in MgIrB with a rather sharp transition width. This is actually a rare case in the alloy superconductors in which the off-stoichiometric elements normally play as the scatterers and break the Cooper pairs and finally make the transition broad. In MgIrB a slight off-stoichiometry may not change the structure, but promote the mutual-substitution leading to a different electron-phonon coupling strength. In Fig. 6 we show the temperature dependence of the resistivity and the ac susceptibility of another sample (\(T_{c}$
+= 3.7 K) which was made also in two steps but with 20
+
+## V V. Concluding remarks
+
+In summary, analysis on the low-temperature data in MgIrB finds an
+s-wave pairing symmetry with a gap in the weak coupling to slightly
+moderate coupling regime and the superconductivity is induced by the
+electron-phonon coupling. The spin-triplet component, if it exists,
+should remain as a small part of the total condensate. Tuning the
+superconducting transition temperature seems possible through changing
+the electron-phonon coupling strength and the density of states at the
+Fermi level by varying the relative compositions among the three
+elements and probably also by mutual substitution.
+
+## Acknowledgments
+
+The authors acknowledge the fruitful discussions with Tao Xiang and
+Junren Shi at IOP, CAS, and Guoqing Zheng at Okayama University, Japan.
+This work is supported by the National Science Foundation of China , the
+Ministry of Science and Technology of China (973 project, Contracts Nos.
+2006CB601000 and 2006CB921802), and Chinese Academy of Sciences (project
+ITSNEM).
+
+## References
+
+* [1] L. P. Gor’kov and E. I. Rashba, Phys. Rev. Lett. **87**, 037004
+(2001). * [2] P. A. Frigeri, D. F. Agterberg, A. Koga, and M. Sigrist,
+Phys. Rev. Lett. **92**, 097001 (2004). * [3] V. M. Edel’stein, Sov.
+Phys. JETP **68**, 1244 (1989). * [4] L. S. Levitov, Yu. V. Nazarov, and
+G. M. Eliashberg, JETP Lett. **41**, 445 (1985). * [5] K. V. Samokhin,
+E. S. Zijlstra, and S. K. Bose, Phys. Rev. B **69**, 094514 (2004); K.
+V. Samokhin, E. S. Zijlstra, and S. K. Bose,
+
+Figure 6: (Color online) Temperature dependence of resistivity (top) and
+magnetic susceptibility (χ^(′′) and χ^(′)) (bottom) under different dc
+magnetic fields for the sample with T_(c) = 3.7 K. It is clear that the
+dc magnetic field makes the transition shift parallel to low
+temperatures with a much faster speed compared with the sample with
+T_(c) = 5.7 K.
+
+Figure 7: (Color online) The upper critical field for both samples with
+different transition temperatures.
+
+Phys. Rev. B **70**, 069902(E) (2004). * [6] N. Hayashi, Y. Kato, P. A.
+Frigeri, K. Wakabayashi, and M. Sigrist, Physica C **437-438**, 96
+(2006). * [7] H. Q. Yuan, D. F. Agterberg, N. Hayashi, P. Badica, D.
+Vandervelde, K. Togano, M. Sigrist, and M. B. Salamon, Phys. Rev. Lett.
+**97**, 017006 (2006). * [8] M. Nishiyama, Y. Inada, and Guo-qing Zheng,
+Phys. Rev. Lett. **98**, 047002 (2007). * [9] T. Klimczuk, Q. Xu, E.
+Morosan, J. D. Thompson, H. W. Zandberg, and R. J. Cava, Phys. Rev. B
+**74**, 220502(R) (2006). * [10] N. R. Werthamer, E. Helfand, and P. C.
+Hohenberg, Phys. Rev. **147**, 295 (1966). * [11] B. Wiendlocha, J.
+Tobola, and S. Kaprzyk, arXiv:0704.1295 (unpublished). * [12] H. M.
+Rosenberg, _Low Temperature Solid State Physics_ (Oxford University
+Press, Oxford, 1963). * [13] N. E. Hussey, Adv. Phys. **51**, 1685
+(2002). * [14] K. A. Moler, D. J. Baar, J. S. Urbach, Ruixing Liang, W.
+N. Hardy, and A. Kapitulnik, Phys. Rev. Lett. **73**, 2744 (1994); K. A.
+Moler, John R. Kirtley, Ruixing Liang, Douglas Bonn, and Walter N.
+Hardy, Phys. Rev. B **55**, 12753 (1997). * [15] H. H. Wen, Z. Y. Liu,
+F. Zhou, J. W. Xiong, W. X. Ti, T. Xiang, S. Komiya, X. F. Sun, and Y.
+Ando, Phys. Rev. B **70**, 214505 (2004); H. H. Wen, L. Shan, X. G. Wen,
+Y. Wang, H. Gao, Z. Y. Liu, F. Zhou, J. W. Xiong, and W. X. Ti,
+_ibid._**72**, 134507 (2005). * [16] G. E. Volovik, JETP Lett. **58**,
+469 (1993). * [17] W. L. McMillan, Phys. Rev. **167**, 331 (1968). *
+[18] J. E. Jaffe, Phys. Rev. B **40**, 2558 (1989).

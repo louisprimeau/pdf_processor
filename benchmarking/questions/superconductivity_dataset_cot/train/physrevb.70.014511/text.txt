@@ -1,0 +1,149 @@
+Coexistence of antiferromagnetic order and unconventional superconductivity in heavy-fermion CeRh\({}_{1-x}\)Ir\({}_{x}\)In\({}_{5}\) compounds: Nuclear quadrupole resonance studies
+
+Guo-qing Zheng,\({}^{1,\ast}\) N. Yamaguchi,\({}^{1}\) H. Kan,\({}^{1}\) Y. Kitaoka,\({}^{1}\) J. L. Sarrao,\({}^{2}\) P. G. Pagliuso,\({}^{2}\) N. O. Moreno,\({}^{2}\) and J. D. Thompson\({}^{2}\)
+
+\({}^{1}\)Department of Physical Science, Graduate School of Engineering Science, Osaka University, Osaka 560-8531, Japan
+
+\({}^{2}\)Condensed Matter and Thermal Physics, MS K764, Los Alamos National Laboratory, Los Alamos, New Mexico 87545, USA
+
+###### Abstract
+
+We present a systematic \({}^{115}\)In NQR study on the heavy-fermion compounds CeRh\({}_{1-x}\)Ir\({}_{x}\)In\({}_{5}\) (\(x\)=0.25, 0.35, 0.45, 0.5, 0.55, and 0.75). The results provide strong evidence for the microscopic coexistence of antiferromagnetic (AF) order and superconductivity (SC) in the range of 0.35\(\leq\)\(x\)\(\approx\) 0.55. Specifically, for \(x\)=0.5, \(T_{N}\) is observed at 3 K with a subsequent onset of superconductivity at \(T_{c}\)=0.9 K. \(T_{c}\) reaches a maximum (0.94 K) at \(x\)=0.45 where \(T_{N}\) is found to be the highest (4.0 K). Detailed analysis of the measured spectra indicate that the same electrons participate in both SC and AF order. The nuclear spin-lattice relaxation rate 1/\(T_{1}\) shows a broad peak at \(T_{N}\) and follows a \(T^{3}\) variation below \(T_{c}\), the latter property indicating unconventional SC as in CeIrIn\({}_{5}\) (\(T_{c}\)=0.4 K). We further find that, in the coexistence region, the \(T^{3}\) dependence of 1/\(T_{1}\) is replaced by a \(T\)-linear variation below \(T\)\(\sim\) 0.4 K, with the value \((T_{1})_{T_{c}}\)/\((T_{1})_{low}\)\(T\) increasing with decreasing \(x\), likely due to low-lying magnetic excitations associated with the coexisting magnetism.
+
+2004 10.1103/PhysRevB.70.014511 70  relaxation that evidence the coexistence of antiferromagnetism and superconductivity are also presented in Sec. III, along with evidence for the unconventional nature of the superconductivity. We conclude in Sec. IV, following a brief discussion of the phase diagram deduced from our NQR measurements.
+
+## II II. Experimental
+
+Single crystals of Ce(Rh\({}_{1-\rm{Ir}}\)\({}_{x}\))In\({}_{5}\) used in this study were grown by the In-flux method.[15] For NQR measurements, the single crystals were crushed into a powder of moderate particle size to allow maximal penetration of the oscillating magnetic field \(H_{1}\), used in the NQR measurements. The measurements below 1.4 K were performed by using a \({}^{3}\)He/\({}^{4}\)He dilution refrigerator. NQR experiments were performed using a home-built phase-coherent spectrometer. A standard \(\pi\)/2-\(\pi\)-echo pulse sequence was used. A small \(H_{1}\) was used to avoid possible heating by the rf pulse below 1K; the \(\pi\)/2 pulse length is about 20 microseconds. A CuBe piston-cylinder device,[20] filled with Si-based organic liquid as a pressure-transmitting medium, was used to generate high pressure. The NQR coil was put inside a Teflon cell. To calibrate the pressure at low temperatures, the reduction in \(T_{\rm c}\) of Sn metal under pressure was monitored by resistivity measurements.[21]\(T_{\rm c}\) of the samples was determined from the ac susceptibility measured by using the NQR coil at a frequency of \(\sim\)32 MHz, and from the \(T_{1}\) data (see below). 1/\(T_{1}\) was measured by the saturation-recovery method. The value of 1/\(T_{1}\) was unambiguously extracted from a good fitting of the nuclear magnetization to the expected theoretical curve[22, 23] (discussed in detail below).
+
+## III III. Results and Discussion
+
+### A. Evidence for homogeneous alloying from NQR spectra
+
+There are two inequivalent crystallographic sites of In in Ce(Rh\({}_{1-\rm{Ir}}\)\({}_{x}\))In\({}_{5}\): the In(1) site in the CeIn\({}_{3}\) plane and the In(2) site in the Rh(Ir)In\({}_{2}\) block. The NQR spectra for the In(1) site consist of four equally spaced transition lines separated by \(\nu_{Q}\), while the In(2) spectra are composed of four unequally separated lines between 30 and 72 MHz. The spectra of CeIrIn\({}_{5}\) (Ref. [17]) is reproduced in Fig. 1(a). Here \(\nu_{Q}\) is defined as the parameter in the following Hamiltonian:
+
+\[H_{Q}=\frac{h\nu_{Q}}{6}\bigg{(}3I_{z}^{2}-I(I+1)+\frac{1}{2}\eta(I_{x}^{2}+I_ {-}^{2})\bigg{)},\] (1)
+
+where
+
+\[\nu_{Q}=\frac{eQV_{zz}}{6I(2I+1)}\] (2)
+
+and
+
+\[\eta=\frac{V_{xx}-V_{yy}}{V_{zz}}.\] (3)
+
+A representative spectra for CeRh\({}_{0.5}\)Ir\({}_{0.5}\)In\({}_{5}\) is shown in Fig. 1(b). Two effects due to alloying are readily seen in this spectra. First, the transition lines for In(1) are broadened. Second, each transition for In(2) is split into three lines. Although naively this behavior might suggest phase segregation, we argue below by inspecting the Ir-concentration dependence of the spectra, that there is no phase separation in the alloyed sample; rather the sample is globally homogeneous.
+
+Figure 2 shows the NQR line shape at \(T\)=4.2 K of the \(2\nu_{Q}\) transition at the In(1) site for various Ir contents. The \(\nu_{Q}\) decreases monotonically from 6.78 MHz (\(x\)=0)[24] to 6.065 MHz (\(x\)=1),[17] suggesting a smooth evolution of the lattice upon alloying, in agreement with x-ray diffraction measurements.[11] It should be emphasized that no trace of pure CeRhIn\({}_{5}\) or CeIrIn\({}_{5}\) is found in the alloyed samples because no peaks corresponding to \(x\)=0 or \(x\)=1 were observed.
+
+Figure 3 shows the spectra corresponding to the lowest transition (\(m\)=\(\pm\)3/2\(\leftrightarrow\)\(\pm\)5/2) line of the In(2) site for various Ir concentration ranging from \(x\)=0.25 to 0.75. It is interesting that the positions of the three peaks do not change with Ir concentration [Fig. 4(a)], but the relative intensity distribution among these lines does [Fig. 4(b)]. Also, the left peak is at the same position of the \(m\)=\(\pm\)3/2\(\leftrightarrow\)\(\pm\)5/2 transition for CeRhIn\({}_{5}\), while the right peak is at the same position as the corresponding transition for pure CeIrIn\({}_{5}\). The central peak is characterized by \(\nu_{Q}\)=17.37 MHz and \(\eta\)=0.473.
+
+Figure 4(c) depicts a quantity that is the relative intensity shown in Fig. 4(b) multiplied by the corresponding peak position shown in Fig. 4(a). Most simply, this corresponds to the "weighted peak position" or "averaged resonance frequency" for the \(m\)=\(\pm\)3/2\(\leftrightarrow\)\(\pm\)5/2 transition. Note that this quantity increases smoothly with increasing Ir concentration.
+
+Figure 1: \({}^{115}\)In NQR spectra at \(T\)=4.2 K for CeIrIn\({}_{5}\) [upper panel (Ref. [17])], and for CeRh\({}_{0.5}\)Ir\({}_{0.5}\)In\({}_{5}\) (lower panel).
+
+  The results shown in Fig. 4 can be interpreted as follows. In(2) has two nearest-neighbor \(M\) (Rh, Ir) sites. There are \(x\) Ir atoms and \((1-x)\) Rh atoms for a given alloy concentration \(x\). If the NQR frequency is sensitive to the local environment, there will be three resonance lines depending on the nearest-neighbor configuration of a given In(2), namely, (Rh,
+
+Figure 4: (Color online) (a) Peak frequency of the three \(\pm 3/2\leftrightarrow\pm 5/2\) transition lines of the In(2) site of CeRh\({}_{1-x}\)Ir\({}_{x}\)In\({}_{5}\) at \(T\)=4.2 K. (b) Ir-content dependence of the relative intensity of the three \(\pm 3/2\leftrightarrow\pm 5/2\) transition lines of the In(2) site of CeRh\({}_{1-x}\)Ir\({}_{x}\)In\({}_{5}\). (c) Ir-content dependence of the peak frequency multiplied by the relative intensity for the three In(2) \(\pm 3/2\leftrightarrow\pm 5/2\) transition lines.
+
+Figure 3: (Color online) \({}^{115}\)In NQR line shape (\(\pm 3/2\leftrightarrow\pm 5/2\) transition) of the In(2) site of CeRh\({}_{1-x}\)Ir\({}_{x}\)In\({}_{5}\) at \(T\)=4.2 K for various Ir content. In this plot, the vertical axis was adjusted so that all samples have the same height for the central peak (around 32.2 MHz). The signal around 35 MHz for low \(x\) is from the second lowest transition(\(\pm 1/2\leftrightarrow\pm 3/2\) transition); also see Fig. 1(b).
+
+Figure 2: (Color online) \({}^{115}\)In NQR line shape (\(\pm 3/2\leftrightarrow\pm 5/2\) transition) of the In(1) site in CeRh\({}_{1-x}\)Ir\({}_{x}\)In\({}_{5}\) at \(T\)=4.2 K for various Ir content. The horizontal line under each spectrum is the position of zero intensity for that spectrum.
+
+  Rh), (Rh, Ir), or (Ir,Ir). The intensity of each peak will be proportional to the probability that In(2) has a corresponding nearest neighbor pair, namely, (Rh, Rh), (Rh, Ir), or (Ir,Ir). Figure 4 strongly suggests that this is the case, with the central transition corresponding to the case with (Rh,Ir) nearest neighbors.
+
+In such a scenario, one might then wonder why In(1) only sees an averaged environment. This is probably because the wave function mixing between In(1) and the \(M\) atom is weaker than in the case of In(2), because In(1) is farther away from \(M\). In addition, In(1) has eight nearest-neighbor \(M\) atoms. The effect of having different nearest-neighbor pair is thus further averaged out. As a result, each In(1) transition is observed as a broadened line. This is in contrast to the case of In(2) whose \(p\)-orbital directly mixes with those of \(M\). Since \(\nu_{Q}\) is dominated by the on-site electronic configuration,[25] the stronger coupling between In(2) and \(M\) atoms gives rise to three distinct resonance lines in the alloyed samples rather than a broad "single" transition as in the case of In(1). Although the In(2) transition is sensitive to the local atomic configuration, it should be emphasized that globally the electronic states are quite homogeneous, as evidenced by the results of spin-lattice relaxation measurements described in the next subsection.
+
+### Nuclear spin lattice relaxation and the magnetic ordering
+
+The \(1/T_{1}\) measurements were performed at the peak of the \(2\,\nu_{Q}\) transition (\(m\!=\!\pm\!3/2\!\leftrightarrow\!\pm\!5/2\)) for the In(1) site and at the central peak of the three lowest frequency transition (\(m\!=\!\pm\!3/2\!\leftrightarrow\!\pm\!5/2\)) lines for the In(2) site. Figure 5 shows the decay curve of the nuclear magnetization for \(x\!=\!0.45\) at three typical temperatures above and below \(T_{N}\) and \(T_{c}\). At \(T\) =0.2 K we used a small tipping-angle pulse so that the magnetization is less saturated at small delay time. The decay curve can be fitted by a single component of \(T_{1}\) to the theoretical curve[22]
+
+\[1-\frac{M(t)}{M_{0}} = \frac{1}{33}\text{exp}\bigg{(}-3\frac{t}{T_{1}}\bigg{)}+\frac{20} {143}\text{exp}\bigg{(}-10\frac{t}{T_{1}}\bigg{)}\] (4) \[+\frac{4}{165}\text{exp}\bigg{(}-21\frac{t}{T_{1}}\bigg{)}+\frac{ 576}{715}\text{exp}\bigg{(}-36\frac{t}{T_{1}}\bigg{)}.\]
+
+The same quality of data were obtained for all alloys and also for the In(  \[1-\frac{M(t)}{M_{0}} = 0.02421\exp\biggl{(}-2.93355\frac{t}{T_{1}}\biggr{)}\] (5) \[+ 0.03961\exp\biggl{(}-8.30137\frac{t}{T_{1}}\biggr{)}\] \[+ 0.09771\exp\biggl{(}-16.30355\frac{t}{T_{1}}\biggr{)}\] \[+ 0.83847\exp\biggl{(}-29.75056\frac{t}{T_{1}}\biggr  case for CeRhIn\({}_{5}\), the evolution of the resonance frequency for each transition is calculated for the In(1) site [Fig. 9(a)] and for the In(2) site [Fig. 9(b)]. Here, the field is assumed to be along the \(x\) direction. Note that even the \(m\) =\(\pm 3/2\)\(\leftrightarrow\)\(\pm 5/2\) transition for the In(2) site, which has a FWHM of 0.26 MHz and is the sharpest among all transitions in the alloyed samples, does not show an appreciable change between \(T\)=4.2 K (above \(T_{N}\)) and \(T\)=1.4 K (below \(T_{N}\)), see Fig. 10. This suggests that the internal magnetic field at the In(2) site is less than 200 Oe for \(x\)=0.5, as inferred from the expected splitting deduced from Fig. 9. Such a small internal field, which is samller by a factor of 10 than that in CeRhIn\({}_{5}\),[24] could be due to a moderate reduction of the ordered moment[31] with a concomitant reduction of the hyperfine coupling.[32]
+
+### Superconducting state
+
+Next, we discuss the low temperature behavior of Ce(Rh\({}_{1-x}\)Ir\({}_{x}\))In\({}_{5}\) well below \(T_{N}\). Figure 11 shows \(1/T_{1}\) for both the In(1) and In(2) sites at low temperatures for the \(x\) =0.5 sample. Below \(T_{c}\)=0.9 K, \(1/T_{1}\) decreases sharply with no coherence peak, following a \(T^{3}\) variation down to \(T\) =0.45 K. The observation of the \(T^{3}\) behavior is strong evidence for the existence of line nodes in the superconducting gap function.[17] For an \(s\)-wave gap, \(1/T_{1}\) would show a coherence peak just below \(T_{c}\) followed by an exponential decrease upon further decreasing \(T\). Because \(1/T_{1}\) is measured at the same transition for the entire measured temperature range, our results suggest that antiferromagnetic order and superconductivity are due to the same electronic state derived from the Ce-\(4f^{1}\) electron. If the two ordered states occurred in spatially separated regions, the nuclear-magnetization decay curve would have been composed of two components (two \(T_{1}\)'s) below \(T_{N}\), contradicting the single-component decay curve we observe. It is noteworthy
+
+Figure 11: (Color online) The \(1/T_{1}\) results at low temperatures for CeRh\({}_{0.5}\)Ir\({}_{0.5}\)In\({}_{5}\) measured at the In(1) at In(2) sites, respectively. The two solid lines indicate the \(T^{3}\) and \(T\)-linear variations, respectively.
+
+Figure 9: (Color online) Calculated evolution of the NQR lines in the presence of internal field along the \(a\) axis for In(1) site (a) and In(2) site (b).
+
+  that just above \(T_{c}\), 1/\(T_{1}\) tends to be proportional to \(T\), which suggests that there remains a finite density of states (DOS) at the Fermi level (\(E_{F}\)) in the magnetically ordered state, since 1/\(T_{1}T\) is dominantly proportional to the square of the low-energy DOS at such low-\(T\) [see below, Eq. (9)]. This suggests that the gap opening due to the antiferromagnetic order is incomplete, in contrast to the behavior observed in pure CeRhIn\({}_{5}\) where the gap is more fully developed, leading to a stronger decrease of 1/\(T_{1}\) (see Fig. 8). This remnant of some part of the Fermi surface may be important for superconductivity to set in even in the magnetically ordered state.
+
+Finally, let us compare the superconducting behavior for \(x\)=0.45, 0.5, and 0.55. Figure 12 shows the ac susceptibility (ac-\(\chi\)) measured using our NQR coil. Although it is hard to determine the onset temperature of the superconductivity from ac-\(\chi\), it can be seen that the midpoint of the transition increases in the order of \(x\)=0.55, 0.5, and 0.45. \(T_{c}\) determined from the point at which 1/\(T_{1}\) displays a distinct drop is 0.8, 0.9, and 0.94 K for \(x\)=0.55, 0.5, and 0.45, respectively. Figure 13 shows 1/\(T_{1}\) normalized by its value at \(T_{c}\) plotted against the reduced temperature \(T/T_{c}\) for \(x\)=0.55, 0.5, and 0.45. Just below \(T_{c}\), 1/\(T_{1}\) shows identical behavior for all samples, but at lower temperatures strong variation is observed. In particular, below \(T\)\(\sim\) 0.4 K, 1/\(T_{1}\) becomes again proportional to \(T\), and the normalized value of 1/\(T_{1}\) increases in the order \(x\)=0.55, 0.5, and 0.45.
+
+The most straightforward explanation for \(T\)-linear 1/\(T_{1}\) at low \(T\) would be the presence of disorder that produces a finite DOS remaining at \(E_{F}\). By assuming a gap function with line nodes
+
+\[\Delta(\theta)=\Delta_{0}\cos(\theta)\] (8)
+
+and with a finite residual DOS, \(N_{\rm res}\) (Ref. [33]), we tried to fit the data in the superconducting state to
+
+\[\frac{T_{1}(T=T_{c})}{T_{1}}=\frac{2}{k_{B}T_{c}}\int\left(\frac{N_{s}(E)}{N_{ 0}}\right)^{2}\!f(E)[1-f(E)]dE,\] (9)
+
+where \(N_{s}(E)/N_{0}\)=\(E/\sqrt{E^{2}-\Delta^{2}}\) with \(N_{0}\) being the DOS in the normal state and \(f(E)\) being the Fermi function. The resulting fitting parameters are \(N_{\rm res}/N_{0}\)=0.32, 0.45, and 0.63 for \(x\) =0.55, 0.5, and 0.45, respectively, with \(\Delta_{0}\)=2.5\(k_{B}T_{c}\) for all samples. In such a case, however, one would expect \(N_{\rm res}\) to be the same for \(x\)=0.55 and 0.45, because the amount of disorder is expected to be similar. The much larger \(N_{\rm res}\) inferred for \(x\)=0.45 than \(x\)=0.55 suggests an additional mechanism. We propose that this additional \(N_{\rm res}\) comes from low-lying magnetic excitations associated with the coexisting magnetic ordering that is more well developed at lower values of \(x\). Similar \(N_{\rm res}\) was seen in CeRhIn\({}_{5}\) under a pressure of 1.6 GPa where magnetism also coexists with superconductivity. In this case the observed behavior was interpreted as due to a gapless \(p\)-wave superconducting state,[34] or due to additional nodes in the \(d\)-wave order parameter.[35]
+
+On the other hand, the larger \(N_{\rm res}\) for the In(2) site than for In(1) site may be due to a larger disorder contribution for this site. This is because the source of disorder in the present case is in the Rh(Ir)In\({}_{2}\) block. The In(2) site is naturally more sensitive to such disorder than the In(1) site which is farther removed from this block. A similar case was seen in high-\(T_{c}\) copper oxide superconductors. In Tl\({}_{2}\)Ba\({}_{2}\)Ca\({}_{2}\)Cu\({}_{3}\)O\({}_{10}\) (\(T_{c}\) =117 K),[36] disorder due to intersubstitution of Ca/Tl occurs in the Ca layer. As a consequence, the Cu(1) site sandwiched by two Ca layers sees a larger \(N_{\rm res}\) than the Cu(2) site which is adjacent to only one of the Ca layers.
+
+### Phase diagram
+
+The phase diagram shown in Fig. 14 summarizes our results. Upon doping with Ir, the system undergoes a quantum phase transition from an antiferromagnet (\(x\)=0) to a superconductor (\(x\)=1), with an intervening region where antiferromagnetic and superconducting orders coexist. Our results show that this behavior, reported previously based on thermodynamic data,[11] is confirmed microscopically. \(T_{c}\) reaches
+
+Figure 13: (Color online) The normalized \(T_{1}\) plotted against the reduced temperature for CeRh\({}_{1-x}\)Ir\({}_{x}\)In\({}_{5}\) at the In(1) site. The solid curves are fits to the data as described in the text. \(N_{s}\) is for short of \(N_{\rm res}/N_{0}\).
+
+  a maximum at \(x\)= 0.45 (\(T_{c}\)= 0.94 K), while \(T_{N}\) is found to be the highest (\(T_{N}\)= 4.0 K). The enhancement of \(T_{c}\) in the antiferromagnetically ordered state is most interesting, suggesting the importance of magnetism in producing the superconductivity. Recently, antiferromagnetism and superconductivity was found to coexist also in CeRhIn\({}_{5}\) under external pressures,[13; 14] but the coexistent region is rather narrow there. More importantly, in the present case superconductivity develops well inside the ordered state and \(T_{c}\) increases when approaching the maximum of \(T_{N}\), whereas \(T_{c}\) reaches a maximum after \(T_{N}\) disappears in hydrostatically pressurized CeRhIn\({}_{5}\). The observed phase diagram may be understood in the framework of SO(5) theory in which the five-component superspin can be rotated by a chemical potential from the subspace of antiferromagnetic order to the subspace of \(d\)-wave superconductivity and vice versa.[10] However, a microscopic description of how the same \(4f^{\rm d}\) electron can display both magnetic order and superconductivity is still lacking.
+
+## IV Conclusion
+
+In conclusion, we have carried out an extensive \({}^{115}\)In NQR study on CeRh\({}_{1-x}\)Ir\({}_{x}\)In\({}_{5}\). We find that the substitution of Ir for Rh in the antiferromagnet CeRhIn\({}_{5}\) acts as chemical pressure. With increasing Ir content (\(x\)), \(T_{N}\) increases slightly up to \(x\)=0.45, then decreases rapidly. The coexistence of superconductivity with antiferromagnetism for 0.35\(\leq\)\(x\)\(\leq\)0.5 is observed in the temperature dependence of 1/\(T_{c}\) which displays a broad peak at \(T_{N}\) and drops as \(T^{3}\) below \(T_{c}\). At \(x\)=0.5, \(T_{N}\) is reduced to 3 K while \(T_{c}\) reaches 0.9 K. Our results suggest that the coexisting antiferromagnetic order and superconductivity are due to the same electronic state derived from the Ce-\(4f^{\rm d}\) electron. It is most interesting that the superconducting transition temperature \(T_{c}\) is increased as the system penetrates deeper inside the antiferromagnetically ordered state. \(T_{c}\) for \(x\)=0.45 and 0.5 is more than double that of CeIrIn\({}_{5}\). In the coexistence region, 1/\(T_{1}\) shows a \(T\)-linear dependence at low-\(T\) below \(T\)\(\sim\) 0.4 K. We have argued that this may arise from some magnetic excitations associated with the coexisting magnetism, in addition to the presence of crystal disorder that produces a residual density of states at the Fermi level.
+
+## Acknowledgments
+
+We thank H. Harima for a helpful discussion on the \(\nu_{Q}\) issue, and G. G. Lonzarich, N. Nagaosa, and S.-C. Zhang for helpful comments. We would also like to thank W. Bao and N. J. Curro for useful discussion, and S. Kawasaki, K. Tanabe, and S. Yamaoka for assistance in some of the measurements. Partial support by Japan MEXT Grant Nos. 14540338, 16340104 (G.-q.Z), and 10CE2004 (Y.K.) is thanked. Work at Los Alamos was performed under the auspices of the U.S. DOE.
+
+## References
+
+* [*] Present address: Department of Physics, Okayama University, Okayama 700-8530, Japan. Email address: zheng@psun.phys.okayama-u.ac.jp
+* [2]_Superconductivity and Magnetism_, edited by M. B. Maple and O. Fisher (Springer-Verlag, Berlin, 1982).
+* [3] C. Bernhard, J. L. Tallon, E. Bruhner, and R. K. Kremer, Phys. Rev. B **61**, R14 960 (2000).
+* [4] C. Geibel, C. Shank, S. Thies, H. Kitazawa, C. D. Bredl, A. Bohm, M. Rau, A. Grauel, R. Caspary, R. Hefrich, R. Ahlheim, G. Weber, and F. Steglich, Z. Phys. B: Condens. Matter **84**, 1 (1991).
+* [5] H. Tou, Y. Kitaoka, K. Asayama, C. Geibel, C. Shank, and F. Steglich, J. Phys. Soc. Jpn. **64**, 725 (1995).
+* [6] N. K. Sato, N. Aso, K. Miyake, R. Shiina, P. Thalmeier, G. Varelogiannis, C. Geibel, F. Steglich, P. Fulde, and T. Komatsubara, Nature (London) **410**, 340 (2001).
+* [7] S. Yotsuhashi, H. Kusunose, and K. Miyake, J. Phys. Soc. Jpn. **70**, 186 (2001).
+* [8] C. Geibel, S. Thies, D. Kaczorowski, A. Mehner, A. Grauel, B. Seidel, U. Ahlheim, R. Helfrich, K. Petersen, C. D. Bredl, and F. Steglich, Z. Phys. B: Condens. Matter **83**, 305 (1991).
+* [9] S. S. Saxena, P. Agarwal, K. Ahilan, F. M. Grosche, R. K. W. Haselwimmer, M. J. Steiner, E. Pugh, I. R. Walker, S. R. Julian, P. Monthoux, G. G. Lonzarich, A. Huxley, I. Sheikin, D. Braithwaite, and J. Flouquet, Nature (London) **406**, 587 (2000).
+* [10] D. Aoki, A. Huxley, E. Ressouche, D. Braithwaite, J. Flouquet, J. P. Brison, E. Lhotel, and C. Paulsen, Nature (London) **413**, 613 (2001).
+* [11] S.-C. Zhang, Science **275**, 1089 (1997).
+* [12] P. G. Pagliuso, C. Petrovic, R. Movshovich, M. F. Hundley, J. L. Sarrao, J. D. Thompson, and Z. Zisk, Phys. Rev. B **64**, 100503(R) 2001).
+* [13] V. S. Zapf, E. J. Freeman, E. D. Bauer, J. Petricka, C. Sirvent, N. A. Frederick, R. P. Dickey, and M. B. Maple, Phys. Rev. B **65**,
+
+Figure 14: (Color online) The phase diagram of CeRh\({}_{1-x}\)Ir\({}_{x}\)In\({}_{5}\) obtained from NQR measurements. AF and SC mean antiferromagnetic and superconducting states, respectively.
+
+  014506 (2002).
+* [13] T. Mito, S. Kawasaki, Y. Kawasaki, G.-q. Zheng, Y. Kitaoka, D. Aoki, Y. Haga, and Y. Onuki, Phys. Rev. Lett. **90**, 077004 (2003).
+* [14] S. Kawasaki, T. Mito, Y. Kawasaki, G.-q. Zheng, Y. Kitaoka, D. Aoki, Y. Haga, and Y. Onuki, Phys. Rev. Lett. **91**, 137001 (2003).
+* [15] H. Hegger, C. Petrovic, E. G. Moshopoulou, M. F. Hundley, J. L. Sarrao, Z. Fisk, and J. D. Thompson, Phys. Rev. Lett. **84**, 4986 (2000).
+* [16] C. Petrovic, R. Movshovich, M. Jaime, P. G. Pagliuso, M. F. Hundley, J. L. Sarrao, Z. Fisk, and J. D. Thompson, Europhys. Lett. **53**, 354 (2001).
+* [17] G.-q. Zheng, K. Tanabe, T. Mito, S. Kawasaki, Y. Kitaoka, D. Aoki, Y. Haga, and Y. Onuki, Phys. Rev. Lett. **86**, 4664 (2001).
+* [18] W. Bao, G. Aeppli, J. W. Lynn, P. G. Pagliuso, J. L. Sarrao, M. F. Hundley, J. D. Thompson, and Z. Fisk, Phys. Rev. B **65**, 100505 (2002).
+* [19] G. D. Morris, R. H. Heffner, J. E. Sonier, D. E. MacLaughlin, O. O. Bernal, G. J. Nieuwenhuys, A. T. Savici, P. G. Pagliuso, and J. L. Sarrao, Physica B **326**, 390 (2003).
+* [20] G.-q. Zheng, E. Yanase, Y. Kitaoka, K. Asayama, Y. Kodama, R. Tanaka, and S. Endo, Solid State Commun. **79**, 51 (1991).
+* [21] T. F. Smith, C. W. Chu, and M. B. Maple, Cryogenics **9**, 53 (1969).
+* [22] D. E. MacLaughlin, J. D. Williamson, and J. Butterworth, Phys. Rev. B **4**, 60 (1971).
+* [23] J. Chepin and J. H. Ross, J. Phys.: Condens. Matter **3**, 8103 (1991).
+* [24] N. J. Curro, P. C. Hammel, P. G. Pagliuso, J. L. Sarrao, J. D. Thompson, and Z. Fisk, Phys. Rev. B **62**, R6100 (2000).
+* [25] K. Betsayaku and H. Harima, J. Magn. Magn. Mater. **272-276**, 187 (2004).
+* [26] T. Mito, S. Kawasaki, G.-q. Zheng, Y. Kawasaki, K. Ishida, Y. Kitaoka, D. Aoki, Y. Haga, and Y. Onuki, Phys. Rev. B **63**, 220507 (2001).
+* [27] S. Kawasaki, T. Mito, G.-q. Zheng, C. Thessieu, Y. Kawasaki, K. Ishida, Y. Kitaoka, D. Aoki, S. Araki, Y. Haga, R. Settai, and Y. Onuki, Phys. Rev. B **65**, 020504 (2002).
+* [28] T. Mito _et al._ (unpublished).
+* [29] Y. Kohoria, Y. Yamato, Y. Iwamoto, and T. Kohara, Eur. Phys. J. B **18**, 601 (2000).
+* [30] S. Doniach, in _Vialence Instabilities and Related Narrow Band Phenomena_, edited by R. D. Parks (Plenum, New York, 1977), p. 169.
+* [31] Preliminary neutron results suggest that the ordered moment for \(x\)=0.5 is reduced by a factor of 4 from that for the \(x\)=0 sample [A. D. Christianson (private communication)].
+* [32] In fact, on going from CeRhIn\({}_{5}\) to CeCoIn\({}_{5}\), the hyperfine coupling decreases by a factor of 3. See Curro _et al._, cond-ma/ 0205354 (unpublished).
+* [33] S. Schmitt-Rink, K. Miyake, and C. M. Varma, Phys. Rev. Lett. **57**, 2575 (1986); K. Miyake (unpublished).
+* [34] Y. Fuseya, H. Kohno, and K. Miyake, J. Phys. Soc. Jpn. **72**, 2914 (2003).
+* [35] Y. Bang, M. J. Graf, A. V. Balatsky, and J. D. Thompson, Phys. Rev. B **69**, 014505 (2004).
+* [36] G.-q. Zheng, Y. Kitaoka, K. Asayama, K. Hamada, H. Yamauchi, and S. Tanaka, Physica C **260**, 197 (1996).
+
+ 

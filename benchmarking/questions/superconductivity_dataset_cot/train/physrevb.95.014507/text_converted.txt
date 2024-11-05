@@ -1,0 +1,660 @@
+Tuning the electronic and the crystalline structure of LaBi by pressure:
+From extreme magnetoresistance to superconductivity
+
+F. F. Tafti,^(1, 2,)1 M. S. Torikachvili,³ R. L. Stillwell,⁴ B. Baer,⁴
+E. Stavrou,⁴ S. T. Weir,⁴ Y. K. Vohra,⁵ H.-Y. Yang,¹ E. F. McDonnell,¹
+S. K. Kushwaha,² Q. D. Gibson,² R. J. Cava,² and J. R. Jeffries⁴
+
+¹Department of Physics, Boston College, Boston, Massachusetts, 02467 USA
+
+²Department of Chemistry, Princeton University, New Jersey, 08540 USA
+
+³Department of Physics, San Diego State University, San Diego,
+California, 92182 USA
+
+⁴Lawrence Livermore National Laboratory, Livermore, California, 94550
+USA
+
+⁵Department of Physics, University of Alabama at Birmingham, Birmingham,
+Alabama, 35294 USA
+
+Footnote 1: fazel.tafti@bc.edu
+
+Footnote 2: footnotemark:
+
+Received 8 July 2016; revised manuscript received 5 December 2016;
+published 10 January 2017
+
+###### Abstract
+
+Extreme magnetoresistance (XMR) in topological semimetals is a recent
+discovery which attracts attention due to its robust appearance in a
+growing number of materials. To search for a relation between XMR and
+superconductivity, we study the effect of pressure on LaBi. By
+increasing pressure, we observe the disappearance of XMR followed by the
+appearance of superconductivity at P ≈ 3.5 GPa. We find a region of
+coexistence between superconductivity and XMR in LaBi in contrast to
+other superconducting XMR materials. The suppression of XMR is
+correlated with increasing zero-field resistance instead of decreasing
+in-field resistance. At higher pressures, P ≈ 11 GPa, we find a
+structural transition from the face-centered cubic lattice to a
+primitive tetragonal lattice, in agreement with theoretical predictions.
+The relationship between extreme magnetoresistance, superconductivity,
+and structural transition in LaBi is discussed.
+
+DOI: 10.1103/PhysRevB.95.014507
+
+## I Introduction
+
+Extreme magnetoresistance (XMR) is an enormous increase of electrical
+resistance in response to a modest magnetic field observed in several
+topological semimetals including Cd₃As₂, Na₃Bi, NbAs, NbP, TaAs, NbSb₂,
+TaSb₂, WTe₂, (Zr/Hf)Te₈[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]. Recent studies
+on (W/Mo)Te₂ and (Zr/Hf)Te₅ suggest that pressure suppresses the extreme
+magnetoresistance (XMR) and gives rise to superconductivity [11, 12, 13,
+14]. Several of these materials show a rapid onset of superconductivity
+at the pressure where XMR is suppressed, followed by a slow suppression
+of T_(c) with further increasing pressure. For example, MoTe₂ is
+superconducting at zero pressure with T_(c) = 0.1 K which rapidly
+increases to 8 K by applying only 1 GPa of pressure [15]. WTe₂ is not
+superconducting at P = 0, it shows an incomplete superconducting
+transition at P = 2.5 GPa and a full transition at P = 8 GPa [11, 12].
+Similarly, ZrTe₅ is not superconducting at P = 0, it shows a sudden
+onset of superconductivity at P = 6.7 GPa with a subsequent T_(c)
+discontinuity at P = 20 GPa attributed to a second superconducting state
+[13]. By pressurizing LaBi we searched for the above-mentioned
+characteristics including XMR suppression, superconducting transition,
+and discontinuous T_(c) evolution.
+
+The recent interest in LaBi is due to the observation of XMR in this
+material despite its simple electronic and crystalline structure [16,
+17, 18, 19, 20, 21, 22]. The three panels of Fig. 1 summarize our main
+findings:
+
+(a) The suppression of XMR by pressure is a purely electronic effect
+with no drastic changes in the structural parameters below 5 GPa.
+
+(b) Pressure induces a structural transition at 11 GPa in LaBi.
+
+(c) Superconductivity appears under pressure in LaBi, similar to WTe₂
+and ZrTe₅.
+
+## II Methods
+
+Single crystals of LaBi were grown using indium flux and characterized
+by using powder x-ray diffraction and energy dispersive x-ray
+spectroscopy as explained in previous works [17, 23]. Low-pressure
+measurements (P < 2.5 GPa) were performed in a piston-cylinder clamp
+cell using 40 : 60 mixture of light mineral oil : n-pentane as a
+hydrostatic medium. Pressure was measured from the superconducting
+transition of a Pb gauge placed beside the sample in the clamp cell
+[24]. The pressure cell was fit to a Quantum Design physical property
+measurement system (PPMS) which monitored simultaneously the resistance
+of the sample, the Pb gauge, and a calibrated Cernox sensor attached to
+the body of the cell for accurate thermometry. High-pressure
+measurements were performed in a designer diamond anvil cell using
+steatite as the pressure-transmitting medium and MP35N as the gasket
+material [25]. The designer diamond had eight tungsten microcontacts
+centered on a 300 μm cutlet for electrical transport measurements.
+Pressure was measured by fluorescent spectroscopy on two pieces of ruby
+placed beside the sample in the diamond anvil cell [26]. Changes of
+pressure between room temperature and 10 K are less than 5
+
+Magnetic measurements of the superconducting transition in LaBi were
+performed by using a nonmagnetic diamond anvil cell (DAC) inside a
+commercial superconducting quantum interference device (SQUID)
+magnetometer. The magnetic background from the cell was accounted for
+and subtracted carefully, as described in Appendix C. High-pressure
+x-ray diffraction was performed in a membrane-driven DAC with 300 μm
+culet diamond anvils and a rhenium gasket with a 120 μm hole filled with
+LaBi powder, copper powder as the pressure marker, and neon as the
+hydrostatic medium. Diffraction experiments took place at the Advanced
+Photon Source at Argonne National Laboratory (beam lines 16 ID-B and 13
+ID-D) with 29.2 and 37.1 keV monochromatic x-ray beams. Angle dispersive
+diffraction patterns were collected with an area detector (Pilatus1M or
+Mar345) with exposure times ranging from 20 to 120 seconds.
+Two-dimensional x-ray diffraction images were integrated using fit2d[27]
+software and refined using the expgui/gas[28] software to extract
+structural parameters. Band-structure calculations are performed with
+the wien2k program using the general gradient approximation on augmented
+plane waves and local orbitals[29].
+
+## III Results
+
+Figure 1 summarizes our main findings and provides a guide for the rest
+of the article. Figure 1(a) shows the suppression of magnetoresistance
+MR = 100$\frac{R(T)-R(0)}{R(0)}$ by pressure. At high pressures, MR
+reduces to less than a few percent. Figure 1(b) shows smooth compression
+of the cubic unit cell with no structural anomaly as the extreme
+magnetoresistance (XMR) is suppressed by pressure. Therefore, the
+suppression of XMR is due to smooth changes in the electronic structure
+of LaBi. At P≈ 11 GPa a discontinuity occurs in the unit-cell volume due
+to a structural transition. Figure 1(c) shows that superconductivity
+(R = 0) starts at P≈ 3.5 GPa where XMR is substantially but not
+completely suppressed.
+
+The magenta open circles in Fig. 1(c) are T_(c) values from magnetic
+susceptibility measurements, proving bulk superconductivity in LaBi. The
+susceptibility data are shown in Appendix C. In the rest of the paper,
+we discuss the effect of pressure on magnetoresistance, crystal
+structure, and superconductivity in LaBi.
+
+### The effect of pressure on extreme magnetoresistance
+
+This section presents our data at lower pressures (P< 2.5 GPa), from
+clamp cell experiments, to focus on the suppression of XMR with
+pressure. Figures 2(a)-2(d) compare the normalized resistance R(T)/R(300
+K), at H = 0 (blue) and H = 9 T (red), at P = 0, 0.3, 1.6, and 2.4 GPa.
+The red curve in Fig. 2(a) shows the typical profile of XMR with
+δR/δT > 0 at T > 70 K, δR/δT < 0 at 20 K < T < 70 K, and δR/δT → 0 at T < 20 K. All topological semimetals
+with XMR show the same profile where R(T) decreases initially with
+decreasing temperature, then increases, and finally saturates to a
+plateau[17]. The blue curve at H = 0 shows metallic conduction where
+R(T) decreases with decreasing temperature to a very small residual
+value R(0). Such small R(0) is essential to having an extremely large
+ratio R(H)/R(0), i.e., XMR.
+
+Figures 2(a)-2(d) show a moderate increase of R(H = 9 T) in the
+_plateau_ region (T < 20 K) from 0 to 0.3 GPa followed by a decrease at
+1.6 GPa and a pronounced decrease at 2.4 GPa. These changes do not
+account for the systematic suppression of XMR as a function of pressure
+shown in Fig. 1(a). To understand the systematic decrease of XMR we turn
+attention to the zero-field resistance R(H = 0). Figures 2(e)-2(h) zoom
+into the normalized resistance at H = 0 and T < 30 K at P = 0, 0.3, 1.6,
+and 2.4 GPa to reveal a systematic increase of the zero-field resistance
+by increasing pressure. The black
+
+Figure 1: (a) Magnetoresistance as a function of pressure in LaBi. The
+extreme magnetoresistance (XMR) is suppressed by P≈ 5 GPa. (b) Unit-cell
+volume per atom as a function of pressure. Pressure reduces the cubic
+unit-cell volume smoothly across the region of XMR suppression. The
+discontinuous jump at P≈ 11 GPa is a structural transition from cubic to
+tetragonal marked by the vertical blue dotted line. (c)
+Temperature-pressure phase diagram of superconductivity in LaBi. The
+onset of superconductivity is marked by the vertical black dashed line.
+T_(c) increases with increasing pressure until P= 6 GPa, then decreases
+until P= 11 GPa where it shows a sudden increase concurrent with the
+structural transition. The red circles show T_(c) values from
+resistivity and the open magenta circles show the values from
+magnetization.
+
+lines are fits to the expression R = R₀ + AT⁴ at each pressure. There is
+no physical meaning to the T⁴ function. It simply fits the best to the
+plateau region of R(T) and estimates R₀ more accurately. The systematic
+increase of the zero-field resistance in Figs. 2(e)-2(h) explains the
+systematic decrease of XMR as a function of pressure in Fig. 1(a).
+
+Figure 3(a) visualizes the suppression of XMR with pressure by plotting
+$\text{MR} = 100\frac{\text{R}(H) - R(0)}{R(0)}$ at T = 2 K as a
+function of field at P = 0, 0.3, 1.6, and 2.4 GPa. Figure 3(b) shows a
+clear anticorrelation between increasing R(0) and decreasing
+magnetoresistance. Both the left and the right y axes are in a
+logarithmic scale to compare the two quantities on equal footing. In
+contrast, Fig. 3(c) shows the absence of a clear correlation between
+R(9 T) and XMR. Comparing Figs. 3(b) and 3(c) makes a compelling case
+that the zero-field resistance controls the magnitude of XMR in
+agreement with previous works that correlate the residual resistivity of
+various LaBi, LaSb, or WTe₂ samples with the magnitude of XMR [9,17,18].
+Pressure inhomogeneity, evidenced by broad incomplete superconducting
+transitions below 2.5 GPa, could lead to additional scattering which
+increases the residual resistivity and decreases XMR.
+
+### The effect of pressure on the structure
+
+Figure 4(a) shows that the unit-cell volume of LaBi smoothly decreases
+with increasing pressure until P ≈ 11 GPa. There is no structural
+anomaly at lower pressures where extreme magnetoresistance is
+suppressed. At 11 GPa there is a discontinuous 10
+
+$$P(V) = \frac{3B}{2}\left[\left(\frac{V_{0}}{V}\right)^{\frac{1}{3}}- \left(\frac{V_{0}}{V}\right)^{\frac{5}{3}}\right]$$
+(1)
+$$\times\left\{1+\frac{3}{4}(B^{\prime} - 4)\left[\left(\frac{V_{0}}{V}\right)^{\frac{1}{3}}-1\right]\right\},$$
+
+where P₀ and V₀ are the coordinates of the first data points in the fcc
+and the PT phases. The bulk modulus B and its pressure derivative
+B^(′) = ∂B/∂P in the low-pressure and the high-pressure structures are
+extracted by fitting Eq. (1) to our data (see Table 1). In the
+low-pressure fcc structure, our experimental value for the bulk modulus
+agrees with the theoretical calculations by Cui _et al._[32] and
+Vaitheeswaran _et al._[30]. In the high-pressure PT structure, the two
+theory groups disagree. Cui _et al._ predict comparable bulk moduli
+between the low- and the high-pressure structures. Vaitheeswaran _et
+al._ predict a twofold increase of the bulk modulus in the high-pressure
+PT structure. Our data clearly agree with the latter (see Table 1).
+Representative powder x-ray diffraction data under pressure with
+Rietveld refinements are shown in Appendix A for both fcc and PT phases.
+
+The structural transition at 11 GPa changes the band structure of LaBi
+as shown in Figs. 4(b) and 4(c). Figure 4(b)
+
+Figure 2: Normalized resistance R/R(300 K) at H = 0 (blue) and H = 9 T
+(red) as a function of temperature at (a) P = 0, (b) P = 0.3 GPa, (c)
+P = 1.6 GPa, and (d) P = 2.4 GPa. The normalized resistance at H = 9 T
+in the plateau region is not systematically suppressed by increasing
+pressure and therefore does not explain the systematic suppression of
+XMR with pressure. A zoom into the normalized resistance R/R(300 K) at
+H = 0 is shown for T < 30 K at (e) P = 0, (f) P = 0.3 GPa, (g)
+P = 1.6 GPa, and (h) P = 2.4 GPa. Solid black lines are power law fits
+to extract residual resistances. Broad and incomplete superconducting
+transitions appear at P = 1.6 and 2.4 GPa, most likely due to pressure
+inhomogeneity.
+
+shows the band structure of LaBi in the low-pressure fcc structure with
+two hole pockets at the Brillouin-zone center Γ and one electron pocket
+at X. The small circles represent lanthanum d states and the large
+circles represent bismuth p states. The extremely small R(0) and the
+large R(H) in LaBi have been attributed to the mixing between d and p
+states on the electron pocket at X[16, 17]. The combination of orbital
+mixing, small ellipsoidal pockets, and electron-hole compensation as
+shown in Fig. 4(b) is common to all topological semimetals and is
+possibly the source of XMR [17].
+
+Figure 4(c) shows the electronic structure of LaBi in the high-pressure
+PT phase with two notable changes compared with the low-pressure fcc
+phase: (1) The hole pocket near M is clearly larger than the electron
+pocket near X and therefore electron-hole compensation is weaker in the
+PT phase. The lack of electron-hole compensation in the PT phase
+explains the lack of magnetoresistance at high pressures. (2) There is a
+band inversion at the R point with a gap due to the spin-orbit coupling.
+Based on the Fu-Kane-Mele formula [36], this gap corresponds to a strong
+topological insulator. However, the hole pocket that crosses E_(F) near
+M prevents LaBi from being an insulator. The detailed evolution of the
+band structure in LaBi under pressure is given in Appendix B.
+
+### The effect of pressure on superconductivity
+
+Figure 5(a) shows that the first complete superconducting transition
+(R = 0) appears at P ≈ 3.5 GPa in LaBi. At this pressure, XMR is reduced
+by three orders of magnitude but has not completely vanished, as shown
+in Fig. 1(a). Such
+
+  ----------------- --------- ----------- ---------- --------
+  Bravais Lattice    B (GPa)     B^(′)     P₀ (GPa)   V₀ (Å)
+  fcc                52 ± 1    5.0 ± 0.4      0       35.61
+  PT                 97 ± 5    5.8 ± 0.9     16.6     25.90
+  ----------------- --------- ----------- ---------- --------
+
+Table 1: The bulk modulus B and its pressure derivative B^(′) = ∂B/∂P
+for LaBi extracted from the Birch-Murnaghan equation of state [Eq. (1)]
+as shown in Fig. 4(a). The initial parameters P₀ and V₀ were fixed based
+on the experimental data in the low-pressure face-centered cubic (fcc)
+and the high-pressure primitive tetragonal (PT) structures.
+
+Figure 4: (a) Unit-cell volume per atom in LaBi as a function of
+pressure. The discontinuous drop at P ≈ 11 GPa corresponds to a
+structural phase transition from face-centered cubic (fcc) to a symmetry
+tetragonal (PT) lattice as illustrated on the figure. Thick green lines
+are the results of theoretical calculations by Vaitheeswaran _et
+al._[30]. Solid black lines show the Birch-Murnaghan equation of state
+[Eq. (1)] from which we extract the bulk moduli for both structures as
+reported in Table 1. Representative refinements are given in Appendix A.
+(b) Band structure of LaBi in the low-pressure fcc structure with two
+central hole pockets at Γ and one electron pocket at X. (c) Band
+structure of LaBi in the high-pressure PT structure with a small
+electron pocket at X, a larger hole pocket at M, and a gap with band
+inversion at R.
+
+Figure 3: (a) Magnetoresistance
+$\text{MR}=100\frac{\text{R}(H)-R(0)}{R(0)}$ at T = 2 K plotted as a
+function of field from H = 0 to 9 T at four representative pressure
+values. A systematic decrease of MR is observed with increasing
+pressure. (b) Normalized resistance at H = 0 and T = 2 K are extracted
+from the fits in Fig. 2 and plotted as a function of pressure (empty
+blue squares corresponding to the left y axis). MR values at H = 9 T and
+T = 2 K are extracted from panel (a) and plotted as a function of
+pressure (red circles corresponding to the right y axis). Both y axes
+are logarithmic to show that the two quantities anticorrelate while they
+vary by orders of magnitude. (c) Normalized resistance at H = 9 T and
+T = 2 K are plotted as a function of pressure (empty black diamonds
+corresponding to the left y axis). MR values at H = 9 T and T = 2 K are
+extracted from panel (a) and plotted as a function of pressure (red
+circles corresponding to the right y axis). There is no clear
+correlation between the two quantities.
+
+coexistence of superconductivity and XMR is absent in WTe₂ and ZrTe₅
+where superconductivity appears only when XMR completely disappears [11,
+12, 13].
+
+The onset of superconductivity is accompanied by two other observations,
+marked by the vertical black dashed line on Fig. 5. First, the
+normalized low-temperature resistance (R_(10K)/R_(300K)) shows
+considerable increase at the onset of superconductivity [also see Fig.
+5(b)]. Second, the Hall coefficient R_(H) changes sign [Fig. 5(c)]. The
+complete temperature profiles of resistivity and Hall data are presented
+in Figs. 2 and 6. A change of sign in R_(H) concurrent with
+superconductivity was recently reported in another XMR material
+WTe₂[11]. In Appendix B we use the experimental lattice parameters of
+LaBi to calculate the evolution of its band structure by increasing
+pressure. Figure 10 in Appendix B shows that the electron pocket size
+reduces with pressure in agreement with the change of sign in R_(H) from
+negative to positive with increasing pressure, as shown in Figs. 5(c)
+and 6(c). Reference [17] argues that the electron pocket plays a central
+role in XMR which is consistent with our observation of simultaneous
+suppression of XMR, sign change in R_(H), and the appearance of
+superconductivity.
+
+The vertical blue dotted line on Fig. 5 marks the onset of structural
+transition at P = 11 GPa as discussed in Sec. III B. After the
+structural transition, T_(c) shows a sudden increase [Fig. 5(a)],
+R_(10K)/R_(300K) reverses direction from decreasing to increasing [Fig.
+5(b)], and R_(H) drops to almost zero [Fig. 5(c)]. The complete R(T)
+profiles are presented in Figs. 6(a) and 6(b). Such drastic changes in
+transport properties follow the drastic change of band structure as a
+result of the structural transition shown in Fig. 4.
+
+Figure 5(a) shows both T_(c) (left y axis) and H_(c2) (right y axis) at
+each pressure. Figure 7 shows how we extract H_(c2) of LaBi by using the
+extended Ginzburg-Landau formalism [37, 38]
+
+$$H_{c2}(T)=H_{c2}(0)\frac{1-(T/T_{c})^{2}}{1+(T/T_{c})^{2}},$$
+(2)
+
+Figure 5: (a) T_(c) and H_(c2) of LaBi as a function of pressure.
+Superconductivity onsets at P ≈ 3.5 GPa, then T_(c) shows enhancement at
+the structural transition at P ≈ 11 GPa. The onset of superconductivity
+is shown by a black dashed line and the onset of structural transition
+is shown by a dotted blue line. (b) R_(10K)/R_(300K) plotted as a
+function of pressure in LaBi. At the structural transition (P = 11 GPa),
+R_(10K)/R_(300K) reverses direction from decreasing to increasing. (c)
+The zero-temperature limit of the Hall coefficient R_(H) as a function
+of pressure showing a sign change as XMR disappears and
+superconductivity appears. R_(H) → 0 after the structural transition.
+(d) The ratio H_(c2)/T_(c) plotted as a function of pressure shows a
+sudden twofold drop across the structural transition.
+
+Figure 6: (a) Normalized electrical resistance at H = 0 T, from T = 2 to
+300 K, at several pressures below 11 GPa before the structural
+transition. (b) Normalized electrical resistance at H = 0 T, from T = 2
+to 300 K, at several pressures above 11 GPa after the structural
+transition. (c) Hall coefficient as a function of temperature for
+several representative pressures. Note the sign change in R_(H)(T = 0)
+with increasing pressure. (d) Normalized resistivity curves in the
+region of superconducting transition from which the phase diagrams in
+Figs. 1 and 5 are constructed. The arrow on the 10.6 GPa curve shows
+that we define T_(c) using R = 0 criterion.
+
+where H_(c2)(0) is the upper critical field at T = 0. From Fig. 7, the
+values of H_(c2) = 11.5 T at P = 5.6 GPa and H_(c2) = 6.1 T at P = 17.9
+GPa.
+
+Since LaBi is made of two superconducting elements, it is possible that
+the observed superconducting transitions arise from either La or Bi
+impurity phases. We compare the T_(c)-P phase diagrams of La and Bi,
+with LaBi in Fig. 8. La impurities are unlikely to be the cause of
+superconductivity, because La has T_(c) values 4 to 6 K above LaBi at
+all pressures [39, 40]. La metal also superconducts at zero pressure,
+which is not observed here. Bismuth has T_(c) values much closer to LaBi
+especially above 11 GPa, and therefore, filamentary superconductivity
+from Bi impurities could be responsible for the signature of
+superconductivity seen at higher pressures (P > 11 GPa) [41]. At low
+pressures (P < 11 GPa), however, the two jumps in the T_(c) of bismuth
+at 3 and 8 GPa due to structural transitions are absent in our data
+[42]. The T_(c) values of LaBi increase continuously from 3.5 to 8 GPa
+while they decrease in the same pressure range in Bi (Fig. 8). We also
+observe the superconducting transition in the magnetic susceptibility
+channel (Appendix C) which is inconsistent with bismuth filamentary
+superconductivity. The superconducting (SC) volume fraction is estimated
+to be more than 50
+
+Figure 8: T_(c) plotted as a function of pressure in LaBi (red), La
+(green) and Bi (blue). Data points for La come from Ref. [39], and [40].
+Data points for Bi come from Ref. [41]. and [42]. Superconductivity in
+La starts from P = 0 and shows a dome-like structure with T_(c) that is
+4 to 6 K higher than LaBi at all pressures. Therefore, superconductivity
+from La impurity is not likely. Superconductivity in Bi starts from
+P = 2.5 GPa with T_(c) = 4 K and shows a profile close to that of LaBi.
+
+Figure 7: (a) Normalized electrical resistance at P = 5.6 GPa plotted as
+a function of temperature in several magnetic fields as indicated on the
+figure. (b) Normalized electrical resistance at P = 17.9 GPa plotted as
+a function of temperature in several magnetic fields. (c) H_(c2) = 11.5
+T is extracted by fitting Eq. (2) to the H-T data at P = 5.6. (d)
+H_(c2) = 6.1 T is extracted by fitting Eq. (2) to the H-T data at
+P = 17.9.
+
+Figure 9: Representative refinement of the x-ray diffraction patterns
+collected at (a) P = 7 GPa and (b) P = 21 GPa. Empty circles show the
+XRD data plotted as intensity versus 2Θ. Black lines are the best fit to
+the data. Blue lines show the difference between the data and the fits.
+Cu (pressure gauge) and Ne (pressure transmitting medium) peaks are
+indexed individually.
+
+semiconmetals with XMR have similar issues and more detailed experiments
+are required to clarify the link between XMR and SC [11, 12, 13, 15].
+
+Figure 5(a) shows that, before the structural transition at P = 11 GPa,
+H_(c2) values are almost double the value of T_(c) at each pressure,
+i.e., H_(c2)/T_(c) ≈ 2, but after the transition the H_(c2)/T_(c)
+suddenly drops to near unity. Recent studies show a change of T_(c) with
+structural transition in ZrTe₅[13]. It would be interesting to look for
+a similar H_(c2)/T_(c) drop in ZrTe₅ and other XMR materials that
+superconduct under pressure.
+
+## IV Summary
+
+In summary, we study the effect of pressure on extreme
+magnetoresistance, crystal structure, and superconducting properties of
+LaBi. Pressure suppresses XMR and gives rise to superconductivity in
+LaBi (Fig. 1). The suppression of XMR anticorrelates with the increase
+of the residual resistance R(0) as shown in Fig. 3(b). It does not
+correlate with the in-field resistance R(QT) as shown in Fig. 3(c). The
+suppression of XMR is accompanied by a sign change in the Hall
+coefficient R_(H) from negative to positive as shown in Figs. 5(c) and
+6(c). Our density functional theory (DFT) calculations in Fig. 10 in
+Appendix B confirm that the R_(H) sign change is due to the shrinking of
+the electron pocket with increasing pressure. The change in the crystal
+structure changes the band structure and creates a region of band
+inversion in LaBi (Fig. 4). The changes in the band structure of LaBi
+due to this structural transition give rise to a reversal in
+R₁₀₈/R_(300K) from decreasing to increasing and a drop in R_(H) as shown
+in Figs. 5(b) and 5(c). At the structural transition, there is a
+discontinuity in T_(c) and in the ratio H_(c2)/T_(c) (Fig. 5).
+
+###### Acknowledgements.
+
+We thank Barry Schaudt for installing and running the wien2k code on the
+BC cluster. This work was performed under LDRD (Tracking Code No.
+14-ERD-041) and under the auspices of the U.S. Department of Energy
+(DOE) by Lawrence Livermore National Laboratory (LLNL) under Contract
+No. DE-AC52- 07NA27344. Portions of this work were performed at HPCAT
+(Sector 16), Advanced Photon Source (APS), Argonne National Laboratory.
+HPCAT operations are supported by the DOE-NNSA under Award No.
+DE-NA0001974 and the DOE-BES under Award No. DE-FG02-99ER45775 with
+partial instrumentation funding by the NSF. The Advanced Photon Source
+is a U.S. DOE Office of Science User Facility operated for the DOE
+Office of Science
+
+Figure 10: (a) Band structure of LaBi at P = 0 in the fcc structure. The
+large circles represent the p orbitals of Bi and the small circles
+represent the d orbitals of La. The y axis is energy relative to E_(F)
+with the E_(F) given on top of each panel. The corresponding Fermi
+surface is rendered next to the plot. (b) Band structure of LaBi at
+P = 3.0 GPa. Notice that the electron pocket shrinks in size and its
+shape changes from cylindrical to round. The corresponding Fermi surface
+is rendered next to the plot. (c) Band structure of LaBi at P = 8.8 GPa.
+The electron pocket continues to shrink and become more spherical.
+Notice that the Fermi energy E_(F) increases with increasing pressure
+and makes the material less compensated. The corresponding Fermi surface
+is rendered next to the plot. (d) Band structure of LaBi at P = 16.6 GPa
+in the PT structure after the structural transition. This calculation is
+without spin-orbit coupling to show the mixing between the bands at R.
+(e) After including SOC, the bands hybridize and a gap opens at R with a
+clear band inversion. (f) Band structure of LaBi at P = 32.9 GPa in the
+PT structure. Pressure does not change the band structure that much in
+this phase.
+
+by Argonne National Laboratory under Contract No. DE-AC02-06CH11357.
+Beam time was provided by the Carnegie DOE-Alliance Center (CDAC).
+Y.K.V. acknowledges support from DOE-NNSA Grant No. DE-NA0002014. We are
+grateful to Marcio Siqueira at Almax/EasyLab for use of the magnetic
+susceptibility diamond anvil cell. The research at Princeton was
+supported by the Gordon and Betty Moore Foundation under the EPiQS
+program, grant GBMF 4412 and the ARO MURI on topological insulators,
+grant W911NF-12-1-0461.
+
+## Appendix A Rietveld refinement of high-pressure X-ray diffraction
+data
+
+Figure 9 includes two representative structural refinements of the x-ray
+diffraction data at P = 7 GPa and P = 21 GPa. The low-pressure structure
+is rock salt (_B_1) and the high-pressure structure has a primitive
+tetragonal unit cell as illustrated in Fig. 4. In Fig. 9(a), the peaks
+between 8 and 9 degrees have been excluded from the refinement, and they
+are likely to come from small inclusions of elemental Bi. At 7 GPa, Bi
+is in a complex host-guest structure, which is difficult to refine with
+so few evident peaks. For P > 8 GPa, elemental Bi is bcc, and we do
+include this phase in the refinement; the most prominent Bi peak occurs
+near 9 degrees in Fig. 9(b).
+
+## Appendix B Evolution of the band structure with pressure
+
+A recent challenge in condensed-matter physics is to understand the
+small residual resistance of topological semimetals [43]. In this work,
+we use pressure to tune the residual resistance of LaBi and study
+changes to the band structure of the material through DFT calculations.
+Figures 10(a)-10(c) present the band structure of LaBi in the fcc
+structure at P = 0, 3.0, and 8.8 GPa before the structural transition.
+Larger circles represent Bi p states and smaller circles represent La d
+states. The calculation is based on our experimental values for the
+lattice parameters of LaBi (see Fig. 4). With increasing pressure, the
+Fermi energy E_(F) increases which changes both the size and the shape
+of the electron pocket at X. At high pressures, a large portion of these
+pockets is teared away, and their shape changes from a cigar shape to a
+rounded shape. As a result, the quasi-two-dimensional (quasi-2D)
+structure of these pockets is replaced by a three-dimensional (3D)
+rounded structure. Figures 10(d)-10(f) present the band structure in the
+PT structure after the structural transition at P = 16.6 and 32.9 GPa.
+Figure 10(d) shows the results of DFT calculations in the PT structure
+before including spin-orbit coupling (SOC). As a result of SOC, the two
+bands that cross at R will hybridize to form a band-inverted gap as
+shown in Fig. 10(e). Increasing pressure in the PT phase does not change
+the band structure visibly as shown in Fig. 10(f) which is due to the
+stiffer structure in the PT phase (Table 1). The band structure plotted
+in Fig. 10(a) gives rise to the extreme magnetoresistance and a negative
+R_(H) in LaBi; in Fig. 10(b) XMR is reduced, R_(H) has changed sign to
+positive, and the material is on the verge of becoming a superconductor;
+in Fig. 10(c) XMR is completely gone and the material is superconducting
+in the fcc structure with _H__c_2/_T__c_ 2; in Fig. 10(e) the material
+has gone through the structural phase transition, it continues to
+superconduct in the PT structure but with _H__c_2/_T__c_ 1; in Fig.
+10(f) LaBi is still superconducting in the PT phase with R_(H) becoming
+nearly zero.
+
+## Appendix C Magnetic susceptibility data
+
+Measurements of the superconducting transition in LaBi were performed in
+a nonmagnetic Almax easyLab Mcell Ultra that fits into the Quantum
+Design Magnetic Property Measurement System (MPMS). Figure 11 shows
+superconducting transitions at four different pressures in LaBi from
+magnetization measurements at H = 25 Oe. T_(c) values are extracted from
+the peak in _d_kh/_dT_ and plotted in Fig. 1(c) as empty magenta
+circles. The choice of this criterion is based on several test runs with
+the standard Pb sample. Error bars come from the full width at half
+maximum (FWHM). The LaBi sample was prepared by grinding a single
+crystal with a mortar and pestle into a fine powder. The powdered sample
+was then loaded into the sample chamber along with small ( 15 μm
+diameter) ruby spheres as a room-temperature pressure marker. No
+pressure-transmitting medium was used. Pressure was calibrated at room
+temperature by using the shift in the R1 ruby fluorescence peak with a 5
+
+Figure 11: Superconducting transition from magnetic susceptibility at P
+= 4.5, 5, 6, and 7.8 GPa evidence for the bulk transition in LaBi under
+pressure. Full circles show data points and solid lines show _d_kh/_dT_.
+T_(c) is defined as the peak in the derivative curves. The error in
+T_(c) is estimated from the FWHM in the peak. Magnetization was measured
+at H = 25 Oe.
+
+procedure of first sweeping the field to 100 Oe, then returning back to
+0 Oe at 20 K before beginning zero-field cooling to 2K for our M(T)
+measurements. This procedure gave the lowest residual and the most
+reproducible backgrounds. Once a good empty-cell background was acquired
+at each applied field, the sample was loaded into the pressure cell and
+the background subtraction algorithm in the MPMS was used in each of the
+M(T) sweeps to search for T_(c) in LaBi. The superconducting transition
+of LaBi was taken as the peak in dχ/dT vs T.
+
+## References
+
+* [1] T. Liang, Q. Gibson, M. N. Ali, M. Liu, R. J. Cava, and N. P. Ong,
+Nat. Mater. **14**, 280 (2015). * [2] J. Xiong, S. K. Kushwaha, T.
+Liang, J. W. Krizan, M. Hirschberger, W. Wang, R. J. Cava, and N. P.
+Ong, Science **350**, 413 (2015). * [3] C. Shekhar, A. K. Nayak, Y. Sun,
+M. Schmidt, M. Nicklas, I. Leermakers, U. Zeitler, Y. Skourski, J.
+Wosnitza, Z. Liu, Y. Chen, W. Schnelle, H. Borrmann, Y. Grin, C. Felser,
+and B. Yan, Nat. Phys. **11**, 645 (2015). * [4] N. J. Ghimire, Y. Luo,
+M. Neupane, D. J. Williams, E. D. Bauer, and F. Ronning, J. Phys.:
+Condens. Matter **27**, 152201 (2015). * [5] X. Huang, L. Zhao, Y. Long,
+P. Wang, D. Chen, Z. Yang, H. Liang, M. Xue, H. Weng, Z. Fang, X. Dai,
+and G. Chen, Phys. Rev. X **5**, 031023 (2015). * [6] K. Wang, D. Graf,
+L. Li, L. Wang, and C. Petrovic, Sci. Rep. **4**, 7328 (2014). * [7] Z.
+Wang, Y. Li, Y. Lu, Z. Shen, F. Sheng, C. Feng, Y. Zheng, and Z. Xu,
+arXiv:1603.01717. * [8] M. N. Ali, J. Xiong, S. Flynn, J. Tao, Q. D.
+Gibson, L. M. Schoop, T. Liang, N. Haldoalarachchige, M. Hirschberger,
+N. P. Ong, and R. J. Cava, Nature (London) **514**, 205 (2014). * [9] M.
+N. Ali, L. Schoop, J. Xiong, S. Flynn, Q. Gibson, M. Hirschberger, N. P.
+Ong, and R. J. Cava, Europhys. Lett. **110**, 67002 (2015). * [10] T. M.
+Tritt, N. D. Lowhorn, R. T. Littleton, A. Pope, C. R. Feger, and J. W.
+Kolis, Phys. Rev. B **60**, 7816 (1999). * [11] D. Kang, Y. Zhou, W. Yi,
+C. Yang, J. Guo, Y. Shi, S. Zhang, Z. Wang, C. Zhang, S. Jiang, A. Li,
+K. Yang, Q. Wu, G. Zhang, L. Sun, and Z. Zhao, Nat. Commun. **6**, 7804
+(2015). * [12] X.-C. Pan, X. Chen, H. Liu, Y. Feng, Z. Wei, Y. Zhou, Z.
+Chi, L. Pi, F. Yen, F. Song, X. Wan, Z. Yang, B. Wang, G. Wang, and Y.
+Zhang, Nat. Commun. **6**, 7805 (2015). * [13] Y. Zhou, J. Wu, W. Ning,
+N. Li, Y. Du, X. Chen, R. Zhang, Z. Chi, X. Wang, X. Zhu, P. Lu, C. Ji,
+X. Wan, Z. Yang, J. Sun, W. Yang, M. Tian, Y. Zhang, and H.-k. Mao,
+Proc. Natl. Acad. Sci. USA **113**, 2904 (2016). * [14] Y. Qi, W. Shi,
+P. G. Naumov, N. Kumar, W. Schnelle, O. Barkalov, C. Shekhar, H.
+Borrmann, C. Felser, B. Yan, and S. A. Medvedev, Phys. Rev. B **94**,
+054517 (2016). * [15] Y. Qi, P. G. Naumov, M. N. Ali, C. R. Rajamathi,
+W. Schnelle, O. Barkalov, M. Hanfland, S.-C. Wu, C. Shekhar, Y. Sun, V.
+Suss, M. Schmidt, U. Schwarz, E. Pippel, P. Werner, R. Hillebrand, T.
+Forster, E. Kampert, S. Parkin, R. J. Cava, C. Felser, B. Yan, and S. A.
+Medvedev, Nat. Commun. **7**, 11038 (2016). * [16] M. Zeng, C. Fang, G.
+Chang, Y.-A. Chen, T. Hsieh, A. Bansil, H. Lin, and L. Fu,
+arXiv:1504.03492. * [17] F. F. Tafti, Q. Gibson, S. Kushwaha, J. W.
+Krizan, N. Haldoalarachchige, and R. J. Cava, Proc. Natl. Acad. Sci. USA
+**113**, E3475 (2016). * [18] F. F. Tafti, Q. D. Gibson, S. K. Kushwaha,
+N. Haldoalarachchige, and R. J. Cava, Nat. Phys. **12**, 272 (2016). *
+[19] L.-K. Zeng, R. Lou, D.-S. Wu, P.-J. Guo, L.-Y. Kong, Y.-G. Zhong,
+J.-Z. Ma, B.-B. Fu, P. Richard, P. Wang, G. T. Liu, L. Lu, S.-S. Sun, Q.
+Wang, L. Wang, Y.-G. Shi, H.-C. Lei, K. Liu, S.-C. Wang, T. Qian, J.-L.
+Luo, and H. Ding, Phys. Rev. Lett. **117**, 127204 (2016). * [20] Y. Wu,
+T. Kong, L.-L. Wang, D. D. Johnson, D. Mou, L. Huang, B. Schrunk, S. L.
+Bud’ko, P. C. Canfield, and A. Kaminski, Phys. Rev. B **94**, 081108
+(2016). * [21] J. Nayak, S.-C. Wu, N. Kumar, C. Shekhar, S. Singh, J.
+Fink, E. E. D. Rienks, G. H. Fecher, S. S. P. Parkin, B. Yan, and C.
+Felser, arXiv:1605.06997. * [22] N. N. Stepanov, N. V. Morozova, A. E.
+Karakin, I. V. Korobeinikov, A. V. Golubkov, and V. V. Kaminskii, Phys.
+Solid State **57**, 1639 (2015). * [23] S. Sun, Q. Wang, P.-J. Guo, K.
+Liu, and H. Lei, New J. Phys. **18**, 082002 (2016). * [24] A. Eiling
+and J. S. Schilling, J. Phys. F: Met. Phys. **11**, 623 (1981). * [25]
+S. T. Weir, J. Akella, C. Aracne-Ruddle, Y. K. Vohra, and S. A.
+Catledge, Appl. Phys. Lett. **77**, 3400 (2000). * [26] G. J.
+Piermarini, S. Block, J. D. Barnett, and R. A. Forman, J. Appl. Phys.
+**46**, 2774 (1975). * [27] A. P. Hammersley, S. O. Svensson, M.
+Hanfland, A. N. Fitch, and D. Hausermann, High Pressure Res. **14**, 235
+(1996). * [28] B. H. Toby, J. Appl. Crystallogr. **34**, 210 (2001). *
+[29] P. Blaha, K. Schwarz, G. Madsen, D. Kvasnicka, and J. Luitz,
+_WIEN2K, An Augmented Plane Wave + Local Orbitals Program for
+Calculating Crystal Properties_ (Karlhelina Schwarz, Techn. Universitat
+Wien, Austria, Wien, 2001). * [30] G. Vaitheeswaran, V. Kanchana, and M.
+Rajagopalan, Phys. B (Amsterdam, Neth.) **315**, 64 (2002). * [31] Z.
+Charifi, A. H. Reshak, and H. Baaziz, Solid State Commun. **148**, 139
+(2008). * [32] S. Cui, W. Feng, H. Hu, Z. Feng, and H. Liu, Solid State
+Commun. **149**, 996 (2009). * [33] J. Hayashi, T. Toyama, K. Takeda, I.
+Shirotani, and Y. Ohishi, J. Phys.: Conf. Ser. **215**, 012004 (2010);
+Photon Factory Activity Report 23 (2006). * [34] F. D. Murnaghan, Am. J.
+Math. **59**, 235 (1937). * [35] F. Birch, Phys. Rev. **71**, 809
+(1947). * [36] L. Fu, C. L. Kane, and E. J. Mele, Phys. Rev. Lett.
+**98**, 106803 (2007). * [37] X. Zhu, H. Yang, L. Fang, G. Mu, and H.-H.
+Wen, Supercond. Sci. Technol. **21**, 105001 (2008). * [38] L. Fang, Y.
+Wang, P. Y. Zou, L. Tang, Z. Xu, H. Chen, C. Dong, L. Shan, and H. H.
+Wen, Phys. Rev. B **72**, 014534 (2005).
+
+* [39] M. B. Maple, J. Wittig, and K. S. Kim, Phys. Rev. Lett. **23**,
+1375 (1969). * [40] V. G. Tissen, E. G. Ponyatovskii, M. V. Nefedova, F.
+Porsch, and W. B. Holzapfel, Phys. Rev. B **53**, 8238 (1996). * [41] M.
+Il’ina, E. Itskevich, and E. Dizhur, Zh. Eksp. Teor. Fiz. **61**, 2357
+(1972) [Sov. Phys. JETP **34**, 1263 (1972)]. * [42] N. Lotter and J.
+Wittig, Europhys. Lett. **6**, 659 (1988). * [43] Q.-D. Jiang, H. Jiang,
+H. Liu, Q.-F. Sun, and X. C. Xie, Phys. Rev. B **93**, 195165 (2016).

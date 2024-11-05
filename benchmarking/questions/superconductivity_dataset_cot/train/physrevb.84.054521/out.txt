@@ -1,0 +1,215 @@
+
+
+# Magnetic phase diagram of Li2(Pd1-_x_Pt_x_)3B by ac susceptometry
+
+D. C. Peets,^{1,\ast} G. Eguchi,^{1} M. Kriener,^{1,\dagger} S. Harada,^{2} Sk. Md. Shamsuzzamen,^{2} Y. Inada,^{2,3} G.-Q. Zheng,^{2} and Y. Maeno^{1}
+
+^{1}Department of Physics, Graduate School of Science, Kyoto University, Kyoto 606-8502, Japan
+
+^{2}Department of Physics, Okayama University, Okayama 700-8530, Japan
+
+^{3}Graduate School of Education, Okayama University, Okayama 700-8530, Japan
+
+^{3}Graduate School of Education, Okayama University, Okayama 700-8530, Japan
+
+Received 30 May 2011; published 10 August 2011; publisher error corrected 15 August 2011
+
+###### Abstract
+
+The _H-T_ phase diagram and several superconducting parameters for the noncentrosymmetric system Li2(Pd1-_x_Pt_x_)3B have been determined as a function of cation substitution x. Notably, the coherence length may be linear in platinum concentration. Despite the superconducting pairing state and band structure apparently changing fundamentally, the _H-T_ phase diagram is essentially unchanged. Unusual aspects of the shape of the _H-T_ phase diagram are discussed. The upper critical field _Hc2_(0) is not anomalously high for any Pt content, likely due to an absence of high carrier masses--in such a case, the value of _Hc2_(0) would not serve as a probe for novel physics.
+
+pacs: 74.25.Ha, 74.62.Dh, 74.70.Dd +
+Footnote †: preprint: APS/123-QED
+
+## I Introduction
+
+Most superconductors have crystal structures containing an inversion center, such that transposing every atomic position through that point returns the original crystal structure. In such a superconductor, parity constrains the superconducting pairing state to be either singlet or triplet, and the basic physical properties of this state, if not always the underlying mechanisms, are well known. However, noncentrosymmetric superconductors, those which lack spatial inversion, also exist, and such materials can exhibit extremely unconventional behavior. The first indication of novel physics in such a system was in CePt3Si,^{1} which was found to have an extremely high, non-Pauli-limited upper critical field _Hc2_. This touched off strong interest in noncentrosymmetric materials, with systems as diverse as UIr,^{2} B-doped SiC,^{3} Mo3Al2C,^{4} Mg103_{x}Ir19_{x}B17_{1,7},^{5} and 1-1-3 silicides such as CeRhSi3,^{6} BaPtSi3,^{7} or CalF3Si3,^{8} being studied. A non-Pauli-limited _Hc2_ remains a key signature of novel behavior in noncentrosymmetric superconductors.
+
+In the absence of inversion symmetry, parity is no longer a meaningful concept, and the pairing state can thus no longer be strictly classified as singlet or triplet. Spin-orbit terms that otherwise cannot contribute due to symmetry can split the band structure and Fermi surface by spin orientation. This can lead to a spin imbalance at the Fermi surface and, if the splitting is large compared to the superconducting gap, to pairing that is largely constrained to be within each Fermi-surface sheet, implying an admixture of singlet and triplet components.^{10-12} While much theoretical work remains to be done on these materials, a remarkable array of exotic phases and responses has been predicted, from unusual magnetoelectric effects^{13} to FFLO-like pair density wave states with spatially varying pairing functions, states with helical nodes around vortices, or states with fractional-quantum vortices, in the presence of a small magnetic field.^{14-17}
+
+Perhaps since most of the exotic effects arising from the lack of spatial inversion require that the bands exhibit significant spin-orbit splitting at the Fermi surface, the majority of the noncentrosymmetric systems studied to date have been found to behave in a fairly conventional manner. Indeed, unusual behavior has been reported almost exclusively in heavy-electron lanthanide and actinide systems, and a great deal of the predicted physics remains unobserved. By far the clearest evidence for unconventional behavior without heavy electrons is in Li2(Pd1-_x_Pt_x_)3B, which appears to be fully gapped and singlet dominated for x = 0 but exhibits line nodes and strong triplet character for x = 1,^{18,19} with indications of unconventional behavior as early as x = 0.^{20} Given this rather fundamental change in behavior with cation substitution, and noting that the most unusual consequences stemming from the lack of inversion are manifested in the magnetic properties, a detailed magnetic phase diagram for the substitution series would be of interest. Indeed, the shape of the upper critical field as a function of temperature may indicate the dominant pairing symmetry and the strengths of various interactions in these materials, and several predictions have been made for the _H-T_ phase diagram.^{12,14,21} While portions of an _H-T_ phase diagram have been reported for several substitution levels based on _M-H_ loops,^{22} it was not possible to resolve the shape or especially the low-temperature behavior, and a lack of low-temperature points made extrapolation to a reliable _Hc2_(0) difficult. The primary purpose of this paper is to provide the full substitution dependence of the magnetic phase diagram.
+
+## II Experimental
+
+Polycrystalline ingots of Li2(Pd1-_x_Pt_x_)3B were prepared from Li (99.9% purity), Pt (99.999%), Pd (99.95%), and B (99.8%) by a two-step arc melting process, with a slight excess of lithium used to compensate for losses due to evaporation.^{23} Pieces mechanically separated from the ingot were measured by ac magnetic susceptometry by a mutual-inductance technique in a home-built first-derivative coil, mounted in a ^{3}He refrigerator (Oxford Instruments) inserted into a 9 T magnet. Measurements were performed at frequencies of around 800 Hz, using an ac magnetic field of 100 \muT rms parallel to the dc field, and measured using a lock-in detector. The temperature or field was swept over the course of several hours. No hysteresis in temperature was observed that could not be attributed to rapid cooling, so all data presented were measured on warming, for which the temperature could be changed more controllably. It was necessary to subtract a field-dependent background signal, precluding analysis of the normal-state susceptibility. The upper critical field was defined as the point at which the diamagnetic signal \chi_{\rm ac}^{\prime} reached 5% of its full, zero-field, low-temperature value.
+
+For the purposes of comparison, the specific heat c_{P} was also measured on several samples, by a thermal relaxation method using a commercial calorimeter on a ^{3}He refrigerator (Quantum Design, PPMS), between 0.36 and 30 K. Measurements were taken with and without each sample present, to isolate the effect due to the sample. Data collected on warming and cooling were consistent. The electronic specific heat c_{\rm el} was separated from the phononic contribution by fitting data taken above H_{\rm c2}(0) and subtracting T^{3} and higher order contributions. The full specific-heat study will be described elsewhere. In the specific-heat data, H_{\rm c2} was defined as the midpoint of the superconducting transition.
+
+## III Results and Analysis
+
+Figure 1 shows the temperature dependence of the ac susceptibility of a Li_{2}(Pd_{1-x}Pt_{x})_{3}B sample with x=0.20. The narrow transitions indicate good homogeneity and sample quality. After some initial broadening in very low fields, the width changes little until very close to H_{\rm c2}(0), at which point the transitions broaden rapidly. The decrease in transition temperature with field appears to be fairly constant over much of the phase diagram. No unusual glitches or secondary transitions are observed that would suggest the presence of additional phase transitions, although small peaks just below the superconducting transition, attributed to depinning of the vortex lattice, were observed in some samples when they were warmed after rapid cooling (not shown).
+
+Figure 2 shows example H-T phase diagrams derived from such data, for x=1 (the Pt end member) and x=0.20. The upper critical field is indeed remarkably linear over much of the phase diagram, then turns over rapidly at high fields. Transitions extracted from specific-heat data are included for comparison--the shape is similar, but the slope is higher. The near-agreement confirms that the measured \chi_{\rm ac} is bulk sensitive. Areas where the \chi_{\rm ac} data fall below the c_{\rm el} points could indicate a vortex liquid state, in which field penetrates the sample almost completely and the vortices are mobile, mimicking normal-state response to ac stimulus. However, since the polycrystalline samples had irregular shapes, their microstructure is unknown, and their orientation was most likely not the same in both experiments where the same sample was used, it is also quite possible that this difference is attributable to grain structure or demagnetizing effects. It should also be noted that, in the Pt end member at least, pinning has been found to be extraordinarily strong.[24]
+
+Despite the unconventional behavior observed in the Pt end member by other techniques, the high, non-Pauli-limited H_{\rm c2} generally associated with noncentrosymmetric physics is not observed. Preliminary specific-heat data on the samples studied here and previous reports in this system[23, 25, 26] all indicate a normal-state electronic specific heat coefficient \chi_{\rm s} of about 7-10 mJ mol^{-1} K^{-2}, consistent with ordinary d-electron metals. In order to see Pauli depairing, it is necessary that orbital effects not break the pairs first. In systems such as CePt_{3}Si, heavy fermion masses lead to a suppression of orbital pair-breaking effects, and the absence of Pauli pair breaking is clear. In Li_{2}(Pd_{1-x}Pt_{x})_{3}B, however, orbital limiting is not suppressed, and H_{\rm c2} may not probe Pauli limiting effects. Thus, while no anomalously high H_{\rm c2} is observed, this should not be taken as evidence for an absence of novel physics.
+
+The shape predicted for H_{\rm c2}(T) in the WHH dirty limit calculations,[27, 28] based on BCS theory, is also shown in Fig. 2
+
+Figure 2: (Color online) Example of a resulting H_{\rm c2} curve for the Pt end member (x=1) and for x=0.20, including c_{\rm el} points taken on the same x=1 sample and a larger x=0.20 from the same ingot—the difference in slope may be due to having the sample in a different orientation relative to the field, and should not be taken as strong evidence for a vortex melting transition. The curve predicted by dirty-limit WHH (with the T_{\rm c} and initial slope taken from the linear fit) is included for comparison, and the inset shows the strong upward curvature detected in \chi_{\rm ac} near T_{\rm c}, for x=0.20.
+
+Figure 1: (Color online) Temperature and field dependence of the diamagnetic shielding \chi_{\rm ac}^{\prime} (negative) and loss \chi_{\rm ac}^{\prime\prime} (positive) for Li_{2}(Pd_{1-x}Pt_{x})_{3}B with x=0.20.
+
+  for each sample. This curve is most commonly used to predict an approximate value of H_{\rm c2}(0) from T_{\rm c} and dH_{\rm c2}/dT|_{T=T_{\rm c}} when the data do not allow extrapolation to zero field. For the purposes of the comparison in Fig. 2, the main slope rather than the initial slope was used, due to curvature near T_{\rm c} which is in clear violation of WHH expectations (see inset for x=0.20) and may not represent intrinsic behavior. Even neglecting the lowest fields, the WHH curve fails to fully capture the shape of H_{\rm c2}(T). Within a conventional picture, this could possibly be understood in terms of a breakdown of one or more assumptions underpinning the WHH calculations, for instance by multiband or strong-coupled superconductivity.
+
+A variety of predictions have been made for H-T phase diagrams in noncentrosymmetric systems,[12; 14; 21] but these curves generally exhibit strong downward curvature near T_{\rm c} and do not capture the other essential features of the H-T phase diagrams reported here. The general case in the presence of impurities, however, cannot be solved analytically, and the results are strongly dependent on fine details of the band structure, pairing symmetry, and intra- and interband coupling.[29]
+
+The H-T phase diagram is shown as a function of cation substitution in Fig. 3. Since the Pt and Pd end members have very different band structure,[30] and since replacing Pd by Pt introduces nodes in the gap[18] and changes the NMR Knight shift and 1/T_{1} from singlet- to triplet-like behavior,[19; 31] one might expect significant changes in the H-T phase diagram. This is not observed. The shape of the H-T phase diagram changes little with Pt content. All curves exhibit upward curvature near T_{\rm c}, are remarkably linear over much of the field range, then curve over rapidly at high fields.
+
+To check for the presence of any evolution with cation substitution, Fig. 4 plots all the H-T phase diagrams together, scaled by T_{\rm c} and H_{\rm c2}(0). While the data for different Pt contents do not collapse perfectly onto a single curve, no systematic evolution can be discerned. Given the fundamental changes in the nature of the superconducting state and the differences in the band structure, this degree of uniformity from one end of the substitution phase diagram to the other is particularly striking.
+
+It has been previously pointed out[23] that upward curvature in H_{\rm c2} near T_{\rm c} as observed in this compound has also been seen in polycrystalline MgB_{2} and borocarbides.[32; 33] As very low fields are applied, the transitions broaden, an effect that is most pronounced in the \chi_{\rm sc}^{^{\prime\prime}} fluctuation peak, the intensity of which also grows markedly (see Fig. 5). This suggests that grain-boundary transport is strongly suppressed
+
+Figure 4: (Color online) H-T phase diagrams for all Pt concentrations studied, scaled by T_{\rm c} and H_{\rm c2}(0). There is no strong evidence for a systematic evolution with cation substitution.
+
+Figure 5: (Color online) Transition in \chi_{\rm sc}^{^{\prime\prime}} for very low dc fields, x=0.20 [\mu_{0}H_{\rm c2}(0)\approx 3.24 T; H_{\rm sc}=0.1 mT rms]. The peak grows and broadens, developing a tail to low temperature.
+
+Figure 3: (Color online) Combined phase diagram for Li_{2}(Pd_{1-x}Pt_{x})_{3}B across the substitution range studied. There is little variation in shape with cation substitution.
+
+  by field, and that the apparent upward curvature arises from critical current effects at junctions, rather than from entropy. This may also offer an additional explanation for the small suppression of the magnetization-derived H-T phase diagram relative to that extracted from specific-heat measurements--c_{\rm cl} measurements are not sensitive to grain-boundary transport.
+
+The substitution dependence of the transition temperature and the zero-temperature extrapolated upper critical field are presented in Fig. 6(a); the superconducting coherence length calculated from H_{\rm c2}(0) using the relation \mu_{0}H_{\rm c2}(0)=\Phi_{0}/2\pi\xi_{0}^{2} for orbital-limited fields is shown in Fig. 6(b). The trend observed in T_{\rm c} tracks that previously reported,[22] but with significant deviations on the order of 0.5 K, perhaps due to the system being highly defect sensitive or to a variable lithium concentration. As might be expected given how little the H-T phase diagram changes with cation substitution, the substitution dependence of H_{\rm c2}(0) takes a similar shape. Perhaps more surprisingly, the extracted zero-temperature coherence length appears to vary linearly with platinum content. A coherence length linear in cation substitution would suggest H_{\rm c2}(0,x)\propto(x+a)^{-2} and, assuming the BCS \xi_{0}(x)\propto\hbar v_{F}/k_{B}T_{\rm c}(x) to hold and v_{F}(x) to be approximately constant, T_{\rm c}\sim(x+a)^{-1}. The dashed lines in Fig. 6 represent these power laws, with a taken from \xi_{0}. The significance of the coherence length varying linearly with cation substitution, if any, is not clear, and the possible sensitivity to defects in these materials requires that this result be treated with caution.
+
+## IV Conclusion
+
+In summary, the H-T phase diagram of Li_{2}(Pd_{1-x}Pt_{x})_{3}B has been determined as a function of x, and the substitution dependence of several superconducting parameters has been elucidated--most notably, the coherence length appears to vary linearly with platinum concentration. Although the superconducting pairing state is thought to change fundamentally, from a fully gapped, singlet-like to a triplet-dominated form with nodes, and the band structure changes substantially with cation substitution, the H-T phase diagram is essentially unchanged. This striking result puts constraints on the changes seen in the pairing state, indicating a continuous evolution where an abrupt change would be expected. Upward curvature near T_{\rm c} suggests poor transport at grain boundaries, while an abnormally linear, non-WHH shape indicates the superconducting state to be more complicated than simple single-band weak-coupling BCS. The curve does not resemble predictions for noncentrosymmetric superconductors, but the shape expected in such a system can be extremely sensitive to a host of factors, including impurities, pairing symmetry, and fine details of the band structure. The H_{\rm c2}(0) values found in this study are not anomalously high as in CePt_{3}Si and some other materials, but this may be attributable to an absence of the high carrier masses required to suppress orbital depairing and expose the presence or absence of Pauli limiting behavior. In such a scenario, the value of H_{\rm c2}(0) would not serve as an effective probe for the presence of novel physics.
+
+###### Acknowledgements.
+
+ The authors thank S. Yonezawa for helpful discussions; the Japan Society for the Promotion of Science; the Global COE program "The Next Generation of Physics, Spun from Universality and Emergence" from the Japanese Ministry of Education, Culture, Sports, Science, and Technology (MEXT); and the MEXT "Topological Quantum Phenomena" Grant-in Aid for Scientific Research on Innovative Areas.
+
+[MISSING_PAGE_POST]
+
+  * (9) G. Eguchi, D. C. Peets, M. Kriener, Y. Maeno, E. Nishibori, Y. Kumazawa, K. Banno, S. Maki, and H. Sawa, Phys. Rev. B **83**, 024512 (2011).
+* (10) P. A. Frigeri, D. F. Agterberg, A. Koga, and M. Sigrist, Phys. Rev. Lett. **92**, 097001 (2004).
+* (11) S. Fujimoto, J. Phys. Soc. Jpn. **76**, 051008 (2007).
+* (12) Y. Yanase and M. Sigrist, J. Phys. Soc. Jpn. **76**, 124709 (2007).
+* (13) V. M. Edelstein, Phys. Rev. Lett. **75**, 2004 (1995).
+* (14) D. F. Agterberg and R. P. Kaur, Phys. Rev. B **75**, 064511 (2007).
+* (15) D. F. Agterberg, Z. Zheng, and S. Mukherjee, Phys. Rev. Lett. **100**, 017001 (2008).
+* (16) D. F. Agterberg and H. Tsunetsugu, Nature Phys. **4**, 639 (2008).
+* (17) Y. Matsunaga, N. Hasa, and R. Ikeda, Phys. Rev. B **78**, 220508(R) (2008).
+* (18) H. Q. Yuan, D. F. Agterberg, N. Hayashi, P. Badica, D. Vandervelde, K. Togano, M. Sigrist, and M. B. Salamon, Phys. Rev. Lett. **97**, 017006 (2006).
+* (19) M. Nishiyama, Y. Inada, and G.-Q. Zheng, Phys. Rev. Lett. **98**, 047002 (2007).
+* (20) P. Badica, S. Salem-Sugui Jr., A. D. Alvarenga, and G. Jakob, Supercond. Sci. Technol. **23**, 105018 (2010).
+* (21) K. V. Samokhin, Phys. Rev. B **78**, 224520 (2008).
+* (22) P. Badica, T. Kondo, and K. Togano, J. Phys. Soc. Jpn. **74**, 1014 (2005).
+* (23) K. Togano, P. Badica, Y. Nakamori, S. Orimo, H. Takeya, and K. Hirata, Phys. Rev. Lett. **93**, 247004 (2004).
+* (24) C. F. Miclea, A. C. Mota, M. Sigrist, F. Steglich, T. A. Sayles, B. J. Taylor, C. A. McElroy, and M. B. Maple, Phys. Rev. B **80**, 132502 (2009).
+* (25) H. Takeya, M. ElMassalami, S. Kasahara, and K. Hirata, Phys. Rev. B **76**, 104506 (2007).
+* (26) P. S. Hafliger, R. Khasanov, R. Lortz, A. Petrovic, K. Togano, C. Baines, B. Graneli, and H. Keller, J. Supercond. Novel Magn. **22**, 337 (2009).
+* (27) E. Helfand and W. R. Werthamer, Phys. Rev. **147**, 288 (1966).
+* (28) W. R. Werthamer, E. Helfand, and P. C. Hohenberg, Phys. Rev. **147**, 295 (1966).
+* (29) K. V. Samokhin, e-print arXiv:1002.4639v1.
+* (30) K.-W. Lee and W. E. Pickett, Phys. Rev. B **72**, 174505 (2005).
+* (31) M. Nishiyama, Y. Inada, and G.-Q. Zheng, Phys. Rev. B **71**, 220505(R) (2005).
+* (32) H. Takagi, R. J. Cava, H. Eisaki, J. O. Lee, K. Mizuhashi, B. Batlogg, S. Uchida, J. J. Krajewski, and W. F. Peck Jr., Phys. C **228**, 389 (1994).
+* (33) Y. Takano, H. Takeya, H. Fujii, H. Kumakura, T. Hatano, K. Togano, H. Kito, and H. Ihara, Appl. Phys. Lett. **78**, 2914 (2001).
+
+ 
+
+# Magnetic phase diagram of Li2(Pd1-_x_Pt_x_)3B by ac susceptometry
+
+D. C. Peets,^{1,\ast} G. Eguchi,^{1} M. Kriener,^{1,\dagger} S. Harada,^{2} Sk. Md. Shamsuzzamen,^{2} Y. Inada,^{2,3} G.-Q. Zheng,^{2} and Y. Maeno^{1}
+
+^{1}Department of Physics, Graduate School of Science, Kyoto University, Kyoto 606-8502, Japan
+
+^{2}Department of Physics, Okayama University, Okayama 700-8530, Japan
+
+^{3}Graduate School of Education, Okayama University, Okayama 700-8530, Japan
+
+^{3}Graduate School of Education, Okayama University, Okayama 700-8530, Japan
+
+Received 30 May 2011; published 10 August 2011; publisher error corrected 15 August 2011
+
+###### Abstract
+
+The _H-T_ phase diagram and several superconducting parameters for the noncentrosymmetric system Li2(Pd1-_x_Pt_x_)3B have been determined as a function of cation substitution x. Notably, the coherence length may be linear in platinum concentration. Despite the superconducting pairing state and band structure apparently changing fundamentally, the _H-T_ phase diagram is essentially unchanged. Unusual aspects of the shape of the _H-T_ phase diagram are discussed. The upper critical field _Hc2_(0) is not anomalously high for any Pt content, likely due to an absence of high carrier masses--in such a case, the value of _Hc2_(0) would not serve as a probe for novel physics.
+
+pacs: 74.25.Ha, 74.62.Dh, 74.70.Dd +
+Footnote †: preprint: APS/123-QED
+
+## I Introduction
+
+Most superconductors have crystal structures containing an inversion center, such that transposing every atomic position through that point returns the original crystal structure. In such a superconductor, parity constrains the superconducting pairing state to be either singlet or triplet, and the basic physical properties of this state, if not always the underlying mechanisms, are well known. However, noncentrosymmetric superconductors, those which lack spatial inversion, also exist, and such materials can exhibit extremely unconventional behavior. The first indication of novel physics in such a system was in CePt3Si,^{1} which was found to have an extremely high, non-Pauli-limited upper critical field _Hc2_. This touched off strong interest in noncentrosymmetric materials, with systems as diverse as UIr,^{2} B-doped SiC,^{3} Mo3Al2C,^{4} Mg103_{x}Ir19_{x}B17_{1,7},^{5} and 1-1-3 silicides such as CeRhSi3,^{6} BaPtSi3,^{7} or CalF3Si3,^{8} being studied. A non-Pauli-limited _Hc2_ remains a key signature of novel behavior in noncentrosymmetric superconductors.
+
+In the absence of inversion symmetry, parity is no longer a meaningful concept, and the pairing state can thus no longer be strictly classified as singlet or triplet. Spin-orbit terms that otherwise cannot contribute due to symmetry can split the band structure and Fermi surface by spin orientation. This can lead to a spin imbalance at the Fermi surface and, if the splitting is large compared to the superconducting gap, to pairing that is largely constrained to be within each Fermi-surface sheet, implying an admixture of singlet and triplet components.^{10-12} While much theoretical work remains to be done on these materials, a remarkable array of exotic phases and responses has been predicted, from unusual magnetoelectric effects^{13} to FFLO-like pair density wave states with spatially varying pairing functions, states with helical nodes around vortices, or states with fractional-quantum vortices, in the presence of a small magnetic field.^{14-17}
+
+Perhaps since most of the exotic effects arising from the lack of spatial inversion require that the bands exhibit significant spin-orbit splitting at the Fermi surface, the majority of the noncentrosymmetric systems studied to date have been found to behave in a fairly conventional manner. Indeed, unusual behavior has been reported almost exclusively in heavy-electron lanthanide and actinide systems, and a great deal of the predicted physics remains unobserved. By far the clearest evidence for unconventional behavior without heavy electrons is in Li2(Pd1-_x_Pt_x_)3B, which appears to be fully gapped and singlet dominated for x = 0 but exhibits line nodes and strong triplet character for x = 1,^{18,19} with indications of unconventional behavior as early as x = 0.^{20} Given this rather fundamental change in behavior with cation substitution, and noting that the most unusual consequences stemming from the lack of inversion are manifested in the magnetic properties, a detailed magnetic phase diagram for the substitution series would be of interest. Indeed, the shape of the upper critical field as a function of temperature may indicate the dominant pairing symmetry and the strengths of various interactions in these materials, and several predictions have been made for the _H-T_ phase diagram.^{12,14,21} While portions of an _H-T_ phase diagram have been reported for several substitution levels based on _M-H_ loops,^{22} it was not possible to resolve the shape or especially the low-temperature behavior, and a lack of low-temperature points made extrapolation to a reliable _Hc2_(0) difficult. The primary purpose of this paper is to provide the full substitution dependence of the magnetic phase diagram.
+
+## II Experimental
+
+Polycrystalline ingots of Li2(Pd1-_x_Pt_x_)3B were prepared from Li (99.9% purity), Pt (99.999%), Pd (99.95%), and B (99.8%) by a two-step arc melting process, with a slight excess of lithium used to compensate for losses due to evaporation.^{23} Pieces mechanically separated from the ingot were measured by ac magnetic susceptometry by a mutual-inductance technique in a home-built first-derivative coil, mounted in a ^{3}He refrigerator (Oxford Instruments) inserted into a 9 T magnet. Measurements were performed at frequencies of around 800 Hz, using an ac magnetic field of 100 \muT rms parallel to the dc field, and measured using a lock-in detector. The temperature or field was swept over the course of several hours. No hysteresis in temperature was observed that could not be attributed to rapid cooling, so all data presented were measured on warming, for which the temperature could be changed more controllably. It was necessary to subtract a field-dependent background signal, precluding analysis of the normal-state susceptibility. The upper critical field was defined as the point at which the diamagnetic signal \chi_{\rm ac}^{\prime} reached 5% of its full, zero-field, low-temperature value.
+
+For the purposes of comparison, the specific heat c_{P} was also measured on several samples, by a thermal relaxation method using a commercial calorimeter on a ^{3}He refrigerator (Quantum Design, PPMS), between 0.36 and 30 K. Measurements were taken with and without each sample present, to isolate the effect due to the sample. Data collected on warming and cooling were consistent. The electronic specific heat c_{\rm el} was separated from the phononic contribution by fitting data taken above H_{\rm c2}(0) and subtracting T^{3} and higher order contributions. The full specific-heat study will be described elsewhere. In the specific-heat data, H_{\rm c2} was defined as the midpoint of the superconducting transition.
+
+## III Results and Analysis
+
+Figure 1 shows the temperature dependence of the ac susceptibility of a Li_{2}(Pd_{1-x}Pt_{x})_{3}B sample with x=0.20. The narrow transitions indicate good homogeneity and sample quality. After some initial broadening in very low fields, the width changes little until very close to H_{\rm c2}(0), at which point the transitions broaden rapidly. The decrease in transition temperature with field appears to be fairly constant over much of the phase diagram. No unusual glitches or secondary transitions are observed that would suggest the presence of additional phase transitions, although small peaks just below the superconducting transition, attributed to depinning of the vortex lattice, were observed in some samples when they were warmed after rapid cooling (not shown).
+
+Figure 2 shows example H-T phase diagrams derived from such data, for x=1 (the Pt end member) and x=0.20. The upper critical field is indeed remarkably linear over much of the phase diagram, then turns over rapidly at high fields. Transitions extracted from specific-heat data are included for comparison--the shape is similar, but the slope is higher. The near-agreement confirms that the measured \chi_{\rm ac} is bulk sensitive. Areas where the \chi_{\rm ac} data fall below the c_{\rm el} points could indicate a vortex liquid state, in which field penetrates the sample almost completely and the vortices are mobile, mimicking normal-state response to ac stimulus. However, since the polycrystalline samples had irregular shapes, their microstructure is unknown, and their orientation was most likely not the same in both experiments where the same sample was used, it is also quite possible that this difference is attributable to grain structure or demagnetizing effects. It should also be noted that, in the Pt end member at least, pinning has been found to be extraordinarily strong.[24]
+
+Despite the unconventional behavior observed in the Pt end member by other techniques, the high, non-Pauli-limited H_{\rm c2} generally associated with noncentrosymmetric physics is not observed. Preliminary specific-heat data on the samples studied here and previous reports in this system[23, 25, 26] all indicate a normal-state electronic specific heat coefficient \chi_{\rm s} of about 7-10 mJ mol^{-1} K^{-2}, consistent with ordinary d-electron metals. In order to see Pauli depairing, it is necessary that orbital effects not break the pairs first. In systems such as CePt_{3}Si, heavy fermion masses lead to a suppression of orbital pair-breaking effects, and the absence of Pauli pair breaking is clear. In Li_{2}(Pd_{1-x}Pt_{x})_{3}B, however, orbital limiting is not suppressed, and H_{\rm c2} may not probe Pauli limiting effects. Thus, while no anomalously high H_{\rm c2} is observed, this should not be taken as evidence for an absence of novel physics.
+
+The shape predicted for H_{\rm c2}(T) in the WHH dirty limit calculations,[27, 28] based on BCS theory, is also shown in Fig. 2
+
+Figure 2: (Color online) Example of a resulting H_{\rm c2} curve for the Pt end member (x=1) and for x=0.20, including c_{\rm el} points taken on the same x=1 sample and a larger x=0.20 from the same ingot—the difference in slope may be due to having the sample in a different orientation relative to the field, and should not be taken as strong evidence for a vortex melting transition. The curve predicted by dirty-limit WHH (with the T_{\rm c} and initial slope taken from the linear fit) is included for comparison, and the inset shows the strong upward curvature detected in \chi_{\rm ac} near T_{\rm c}, for x=0.20.
+
+Figure 1: (Color online) Temperature and field dependence of the diamagnetic shielding \chi_{\rm ac}^{\prime} (negative) and loss \chi_{\rm ac}^{\prime\prime} (positive) for Li_{2}(Pd_{1-x}Pt_{x})_{3}B with x=0.20.
+
+  for each sample. This curve is most commonly used to predict an approximate value of H_{\rm c2}(0) from T_{\rm c} and dH_{\rm c2}/dT|_{T=T_{\rm c}} when the data do not allow extrapolation to zero field. For the purposes of the comparison in Fig. 2, the main slope rather than the initial slope was used, due to curvature near T_{\rm c} which is in clear violation of WHH expectations (see inset for x=0.20) and may not represent intrinsic behavior. Even neglecting the lowest fields, the WHH curve fails to fully capture the shape of H_{\rm c2}(T). Within a conventional picture, this could possibly be understood in terms of a breakdown of one or more assumptions underpinning the WHH calculations, for instance by multiband or strong-coupled superconductivity.
+
+A variety of predictions have been made for H-T phase diagrams in noncentrosymmetric systems,[12; 14; 21] but these curves generally exhibit strong downward curvature near T_{\rm c} and do not capture the other essential features of the H-T phase diagrams reported here. The general case in the presence of impurities, however, cannot be solved analytically, and the results are strongly dependent on fine details of the band structure, pairing symmetry, and intra- and interband coupling.[29]
+
+The H-T phase diagram is shown as a function of cation substitution in Fig. 3. Since the Pt and Pd end members have very different band structure,[30] and since replacing Pd by Pt introduces nodes in the gap[18] and changes the NMR Knight shift and 1/T_{1} from singlet- to triplet-like behavior,[19; 31] one might expect significant changes in the H-T phase diagram. This is not observed. The shape of the H-T phase diagram changes little with Pt content. All curves exhibit upward curvature near T_{\rm c}, are remarkably linear over much of the field range, then curve over rapidly at high fields.
+
+To check for the presence of any evolution with cation substitution, Fig. 4 plots all the H-T phase diagrams together, scaled by T_{\rm c} and H_{\rm c2}(0). While the data for different Pt contents do not collapse perfectly onto a single curve, no systematic evolution can be discerned. Given the fundamental changes in the nature of the superconducting state and the differences in the band structure, this degree of uniformity from one end of the substitution phase diagram to the other is particularly striking.
+
+It has been previously pointed out[23] that upward curvature in H_{\rm c2} near T_{\rm c} as observed in this compound has also been seen in polycrystalline MgB_{2} and borocarbides.[32; 33] As very low fields are applied, the transitions broaden, an effect that is most pronounced in the \chi_{\rm sc}^{^{\prime\prime}} fluctuation peak, the intensity of which also grows markedly (see Fig. 5). This suggests that grain-boundary transport is strongly suppressed
+
+Figure 4: (Color online) H-T phase diagrams for all Pt concentrations studied, scaled by T_{\rm c} and H_{\rm c2}(0). There is no strong evidence for a systematic evolution with cation substitution.
+
+Figure 5: (Color online) Transition in \chi_{\rm sc}^{^{\prime\prime}} for very low dc fields, x=0.20 [\mu_{0}H_{\rm c2}(0)\approx 3.24 T; H_{\rm sc}=0.1 mT rms]. The peak grows and broadens, developing a tail to low temperature.
+
+Figure 3: (Color online) Combined phase diagram for Li_{2}(Pd_{1-x}Pt_{x})_{3}B across the substitution range studied. There is little variation in shape with cation substitution.
+
+  by field, and that the apparent upward curvature arises from critical current effects at junctions, rather than from entropy. This may also offer an additional explanation for the small suppression of the magnetization-derived H-T phase diagram relative to that extracted from specific-heat measurements--c_{\rm cl} measurements are not sensitive to grain-boundary transport.
+
+The substitution dependence of the transition temperature and the zero-temperature extrapolated upper critical field are presented in Fig. 6(a); the superconducting coherence length calculated from H_{\rm c2}(0) using the relation \mu_{0}H_{\rm c2}(0)=\Phi_{0}/2\pi\xi_{0}^{2} for orbital-limited fields is shown in Fig. 6(b). The trend observed in T_{\rm c} tracks that previously reported,[22] but with significant deviations on the order of 0.5 K, perhaps due to the system being highly defect sensitive or to a variable lithium concentration. As might be expected given how little the H-T phase diagram changes with cation substitution, the substitution dependence of H_{\rm c2}(0) takes a similar shape. Perhaps more surprisingly, the extracted zero-temperature coherence length appears to vary linearly with platinum content. A coherence length linear in cation substitution would suggest H_{\rm c2}(0,x)\propto(x+a)^{-2} and, assuming the BCS \xi_{0}(x)\propto\hbar v_{F}/k_{B}T_{\rm c}(x) to hold and v_{F}(x) to be approximately constant, T_{\rm c}\sim(x+a)^{-1}. The dashed lines in Fig. 6 represent these power laws, with a taken from \xi_{0}. The significance of the coherence length varying linearly with cation substitution, if any, is not clear, and the possible sensitivity to defects in these materials requires that this result be treated with caution.
+
+## IV Conclusion
+
+In summary, the H-T phase diagram of Li_{2}(Pd_{1-x}Pt_{x})_{3}B has been determined as a function of x, and the substitution dependence of several superconducting parameters has been elucidated--most notably, the coherence length appears to vary linearly with platinum concentration. Although the superconducting pairing state is thought to change fundamentally, from a fully gapped, singlet-like to a triplet-dominated form with nodes, and the band structure changes substantially with cation substitution, the H-T phase diagram is essentially unchanged. This striking result puts constraints on the changes seen in the pairing state, indicating a continuous evolution where an abrupt change would be expected. Upward curvature near T_{\rm c} suggests poor transport at grain boundaries, while an abnormally linear, non-WHH shape indicates the superconducting state to be more complicated than simple single-band weak-coupling BCS. The curve does not resemble predictions for noncentrosymmetric superconductors, but the shape expected in such a system can be extremely sensitive to a host of factors, including impurities, pairing symmetry, and fine details of the band structure. The H_{\rm c2}(0) values found in this study are not anomalously high as in CePt_{3}Si and some other materials, but this may be attributable to an absence of the high carrier masses required to suppress orbital depairing and expose the presence or absence of Pauli limiting behavior. In such a scenario, the value of H_{\rm c2}(0) would not serve as an effective probe for the presence of novel physics.
+
+###### Acknowledgements.
+
+ The authors thank S. Yonezawa for helpful discussions; the Japan Society for the Promotion of Science; the Global COE program "The Next Generation of Physics, Spun from Universality and Emergence" from the Japanese Ministry of Education, Culture, Sports, Science, and Technology (MEXT); and the MEXT "Topological Quantum Phenomena" Grant-in Aid for Scientific Research on Innovative Areas.
+
+[MISSING_PAGE_POST]
+
+  * (9) G. Eguchi, D. C. Peets, M. Kriener, Y. Maeno, E. Nishibori, Y. Kumazawa, K. Banno, S. Maki, and H. Sawa, Phys. Rev. B **83**, 024512 (2011).
+* (10) P. A. Frigeri, D. F. Agterberg, A. Koga, and M. Sigrist, Phys. Rev. Lett. **92**, 097001 (2004).
+* (11) S. Fujimoto, J. Phys. Soc. Jpn. **76**, 051008 (2007).
+* (12) Y. Yanase and M. Sigrist, J. Phys. Soc. Jpn. **76**, 124709 (2007).
+* (13) V. M. Edelstein, Phys. Rev. Lett. **75**, 2004 (1995).
+* (14) D. F. Agterberg and R. P. Kaur, Phys. Rev. B **75**, 064511 (2007).
+* (15) D. F. Agterberg, Z. Zheng, and S. Mukherjee, Phys. Rev. Lett. **100**, 017001 (2008).
+* (16) D. F. Agterberg and H. Tsunetsugu, Nature Phys. **4**, 639 (2008).
+* (17) Y. Matsunaga, N. Hasa, and R. Ikeda, Phys. Rev. B **78**, 220508(R) (2008).
+* (18) H. Q. Yuan, D. F. Agterberg, N. Hayashi, P. Badica, D. Vandervelde, K. Togano, M. Sigrist, and M. B. Salamon, Phys. Rev. Lett. **97**, 017006 (2006).
+* (19) M. Nishiyama, Y. Inada, and G.-Q. Zheng, Phys. Rev. Lett. **98**, 047002 (2007).
+* (20) P. Badica, S. Salem-Sugui Jr., A. D. Alvarenga, and G. Jakob, Supercond. Sci. Technol. **23**, 105018 (2010).
+* (21) K. V. Samokhin, Phys. Rev. B **78**, 224520 (2008).
+* (22) P. Badica, T. Kondo, and K. Togano, J. Phys. Soc. Jpn. **74**, 1014 (2005).
+* (23) K. Togano, P. Badica, Y. Nakamori, S. Orimo, H. Takeya, and K. Hirata, Phys. Rev. Lett. **93**, 247004 (2004).
+* (24) C. F. Miclea, A. C. Mota, M. Sigrist, F. Steglich, T. A. Sayles, B. J. Taylor, C. A. McElroy, and M. B. Maple, Phys. Rev. B **80**, 132502 (2009).
+* (25) H. Takeya, M. ElMassalami, S. Kasahara, and K. Hirata, Phys. Rev. B **76**, 104506 (2007).
+* (26) P. S. Hafliger, R. Khasanov, R. Lortz, A. Petrovic, K. Togano, C. Baines, B. Graneli, and H. Keller, J. Supercond. Novel Magn. **22**, 337 (2009).
+* (27) E. Helfand and W. R. Werthamer, Phys. Rev. **147**, 288 (1966).
+* (28) W. R. Werthamer, E. Helfand, and P. C. Hohenberg, Phys. Rev. **147**, 295 (1966).
+* (29) K. V. Samokhin, e-print arXiv:1002.4639v1.
+* (30) K.-W. Lee and W. E. Pickett, Phys. Rev. B **72**, 174505 (2005).
+* (31) M. Nishiyama, Y. Inada, and G.-Q. Zheng, Phys. Rev. B **71**, 220505(R) (2005).
+* (32) H. Takagi, R. J. Cava, H. Eisaki, J. O. Lee, K. Mizuhashi, B. Batlogg, S. Uchida, J. J. Krajewski, and W. F. Peck Jr., Phys. C **228**, 389 (1994).
+* (33) Y. Takano, H. Takeya, H. Fujii, H. Kumakura, T. Hatano, K. Togano, H. Kito, and H. Ihara, Appl. Phys. Lett. **78**, 2914 (2001).
+
+ 

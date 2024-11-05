@@ -1,0 +1,370 @@
+# Anisotropic properties of the layered superconductor Cu0.07TiSe2
+
+E. Morosan,¹ Lu Li,² N. P. Ong,² and R. J. Cava¹
+
+¹Department of Chemistry, Princeton University, Princeton, New Jersey
+08540, USA
+
+²Department of Physics, Princeton University, Princeton, New Jersey
+08540, USA
+
+Received 12 November 2006; published 12 March 2007
+
+###### Abstract
+
+The anisotropic superconducting properties of single crystals of
+Cu0.07TiSe2 were studied by measurements of magnetization and electrical
+resistivity. _Tc_ is around 3.9 K, and the measured upper critical field
+(_H_c2) values are ∼1.25 and 0.8 T, for applied field parallel and
+perpendicular to the TiSe2 planes, respectively. The anisotropy ratio
+$\gamma_{\rm{min}}$=$H_{c2}^{\rm{d}}/H_{c2}^{\rm{c}}$ is close to 1.6
+and nearly temperature independent. The lower critical field (_H_c1)
+values are much smaller (∼32 Oe for _H_||_ab_ and 17 Oe for _H_||_c);
+demagnetizing corrections for field perpendicular to the thin plate
+crystals are required for the determination of $H_{c1}^{\rm{c}}$. The
+anisotropy of the critical fields is described well by the anisotropic
+Ginzburg-Landau (GL) theory, and the characteristic GL parameters are
+determined and discussed.
+
+2006 10.1103/PhysRevB.75.104505
+
+## Introduction
+
+TiSe2 is one of the known charge-density wave (CDW) compounds, [1, 2, 3,
+4, 5] with the CDW transition having been studied extensively due to its
+controversial nature. The crystal structure is that of the classical
+layered dichalcogenide type with hexagonal TiSe2 layers stacked
+perpendicular to the crystallographic c axis. Cu intercalation between
+the TiSe2 layers [6] has been recently shown to drive the CDW transition
+down in temperature and, at intermediate compositions (_x_ 0.04 in
+Cu,TiSe2), to give rise to a new superconducting (SC) state. After the
+CDW transition is fully suppressed for x 0.06, the superconducting
+transition reaches a maximum value around x = 0.08. This implies a
+competition between the two collective electron states (CDW and SC) that
+remains to be further elucidated.
+
+Before the connection between the CDW and the SC states in Cu,TiSe2 can
+be understood, characterization of the SC state is of interest. Here, we
+report studies of platelike single crystals of Cu0.07TiSe2, allowing us
+to investigate the anisotropic physical properties of this system via
+magnetization and transport measurements. For _H_||_ab_, the temperature
+dependence of the critical fields _H_c1(_T_) and _H_c2(_T_) are
+determined in a straightforward way. When field is applied perpendicular
+to the thin crystal plates (along the c axis), demagnetizing effects are
+considerable and must be taken into account. The upper critical field
+$H_{c2}^{\rm{c}}$ is almost unaffected by demagnetization, but the much
+smaller measured value of the lower critical field $H_{c1}^{\rm{c}}$ is
+significantly reduced from the effective field $H_{c1}^{\rm{c}}$ in this
+orientation. After demagnetizing field corrections are applied, the
+anisotropic parameter characteristics of the superconducting state are
+determined and analyzed within the context of the anisotropic
+Ginzburg-Landau theory.
+
+## Experiment
+
+Single crystals of Cu0.07TiSe2 were grown via chlorine vapor transport.
+Polycrystalline TiSe2 powders were first synthesized by mixing
+stoichiometric amounts of Ti and Se powders and then heating them up to
+650 degC at a rate of ∼50 deg/h in an evacuated silica tube. Next, CuCl2
+and TiSe2 powders in a 0.10:1 ratio were sealed in 150-mm-long evacuated
+silica tubes with a 12 mm diameter. The tubes were placed in a gradient
+furnace with the hot temperature set at 650 degC and the cold end
+temperature kept at 550 degC. After 14 days, the furnace was cooled to
+room temperature over a few hours. Large hexagonal plates were formed
+toward the hot end.
+
+X-ray diffraction measurements were employed to characterize the
+samples. Room-temperature data were recorded on a Bruker D8
+diffractometer using a Cu _K_a_ radiation and a graphite diffracted beam
+monochromator. Magnetization measurements as a function of temperature
+and applied field M(H, T) were performed in a Quantum Design Magnetic
+Properties Measurement System (MPMS) superconducting quantum
+interference device (SQUID) magnetometer (_T_ = 1.8−350 K, _H_max=5.5
+T). Anisotropic resistivity ρ(T, H) measurements with current parallel
+to the _ab_ plane were taken in a ³He refrigerator inserted in a 7 T
+superconducting magnet using a standard four-probe technique.
+
+## RESULTS
+
+X-ray diffraction measurements on single crystals of Cu0.07TiSe2 showed
+them to have the structure previously reported on the polycrystalline
+materials. The copper content of 0.07 +- 0.01/f.u. was determined by the
+c lattice parameter calibration [6] and was consistent with the observed
+_Tc_ of 3.9 K.
+
+Figure 1 shows the H = 0 resistivity data for Cu0.07TiSe2 as a function
+of temperature for the current flowing in the _ab_ plane. At high
+temperatures, the resistivity is metallic in nature with ρ(T) increasing
+almost linearly with T. Upon lowering the temperature, a superconducting
+transition occurs at _Tc_ = 3.9 K, as determined from the maximum slope
+of the resistivity around the transition (Fig. 1, upper inset). The
+10-90
+
+Anisotropic measurements of the field-dependent resistivity around the
+superconducting transition were performed down to ³He temperatures.
+These results are shown in Fig. 2 for field applied parallel or
+perpendicular to the hexagonal plates. (The TiSe₂ planes are in the
+planes of the crystal plates.) In both cases, the current was parallel
+to the ab plane. For H∥ab [Fig. 2(a)], the T=0.35 K ρ(H) curve yields an
+upper critical field value H_(c2)^(ab)= 1.22 T, as determined from the
+transition onset. An inflexion in the ρ(H) data is observed around H=
+1.3 T, which moves lower in field as temperature increases. The origin
+of this feature is not known, but it may be associated with small
+inhomogeneities in the Cu doping concentration. The temperature
+dependence of H_(c2)^(ab) is characteristic of a type-II superconductor,
+as the transition moves to lower and lower field values upon increasing
+the temperature. Very similar behavior is observed for the other field
+orientation [H∥c, Fig. 2(b)] with smaller H_(c2)^(c) values. At T =0.35
+K, H_(c2)^(c)=0.71 T, thus yielding an anisotropy ratio
+$\gamma_{\rm anis}$=H_(c2)^(ab)/H_(c2)^(c) in Cu_(0.07)TiSe₂ of about
+1.7.
+
+Figure 3 shows the zero-field cooled M(H) isotherms for field H∥ab [Fig.
+3(a)] and H∥c [Fig. 3(b)]. These curves confirm the anisotropic
+suppression of the superconducting state observed in the
+magnetoresistance data. The minimum temperature available for these
+measurements is 1.8 K, where the H∥ab magnetization becomes zero around
+H_(c2)^(ab)(1.8 K) = 0.96 T. At the same temperature, the upper critical
+field H_(c2)^(c) in the c direction is determined to be 0.54 T. The
+insets in Fig. 3 show the magnetization in low magnetic fields from
+which the H_(c1) values can be estimated. For H∥ab [inset, Fig. 3(a)],
+the M(H) data are linear for very low fields (dotted line). H_(c1)^(ab)
+is determined as the point of departure from linearity, and these values
+are marked by vertical arrows for various temperatures. The analogous
+values are even smaller for H∥c [inset, Fig. 3(b)], resulting in less
+accurate measurements of the magnetization values at such low fields.
+This allows us only to estimate the H_(c1)^(c) value at T =1.8 K
+(vertical arrow) as ∼13 Oe.
+
+Based on our resistivity and magnetization measurements, the anisotropic
+properties of the superconducting state in Cu_(0.07)TiSe₂ can be
+summarized in a H_(c2)-T phase diagram [Fig. 4(a)]: the full symbols
+have been determined either from the ρ(H) data (triangles) or M(H)
+curves (circles) for H∥ab, and the open symbols correspond to the H∥c
+direction. The inset shows the lower critical field values H_(c1) as
+determined from the M(H) measurements. The dotted and
+
+Figure 1: i∥ab temperature-dependent resistivity of Cu_(0.07)TiSe₂, with
+the low-temperature part shown in detail in the upper inset; lower
+inset: low temperatures ρ(T²) (symbols) with the linear fit (black
+line).
+
+dashed lines represent fits in the T - 0 and T - T - T - c regions,
+respectively. An almost temperature-independent anisotropy ratio
+$\gamma_{\rm anis}$=H_(c2)^(ub)/H_(c2)^(c) is observed [Fig. 4(b)].
+
+## Discussion
+
+As seen in Fig. 1, the H = 0 resistivity data of Cu0.07TiSe2 show a
+superconducting transition around _T_c = 3.9 K. Above the transition,
+Fermi-liquid behavior is observed, characterized by quadratic dependence
+of the resistivity on temperature: ρ(T)=ρ₀+_A_T_2. The resistivity
+coefficient A is determined to be  1.1 x 10-2 μd cm/K2. Using the H = 0
+electronic specific heat coefficient g = 4.3 mJ/mol K2,6 the
+Kadowaki-Woods (KW) ratio _A_/_g_2 is estimated to be  60 x 10-5 μd
+cm/(mJ/mol K)2. For many correlated electron systems, the Kadowaki-Woods
+ratio has been shown empirically to have a nearly universal value a0 =
+10-5 μd cm/(mJ/mol K)2 (solid line, Fig. 5).9 A number of compounds have
+since been shown to follow on almost universal curves with either
+reduced (dotted line, Fig. 5) or enhanced (dashed lines, Fig. 5) KW
+ratios.10,11 It can be seen that Cu0.07TiSe2 falls close to the 60a₀
+line, with many intermedi
+
+Figure 4: (a) _H_c2_-_T_ phase diagram of Cu0.07TiSe2, with _H_c1(_T_)
+shown in the inset. (b) The temperature dependence of the _H_c2
+anisotropy ratio $\gamma_{\rm anis}$.
+
+Figure 5: A plot of the T2 coefficient of the electrical resistivity A
+vs the electronic specific heat coefficient g (reproduced from Ref.
+[10]). The solid, dotted, and dashed lines represent _A_/_g_2 = a0 = 1.0
+× 10−5 _μ_d_ m mol2 K2/mJ2, _A_/_g_2 < a0, and _A_/_g_2 > a0,
+respectively. The large triangle (▲) corresponds to Cu0.07TiSe2 [present
+work] and the large square (■) corresponds to Sr2RuO4 (_A_c) (Ref.
+[12]).
+
+tallic compounds falling in between the a₀ and the 60a₀ lines. Various
+mechanisms have been proposed to explain the former universality class,
+such as intersite magnetic correlations or ground-state degeneracy. In
+Na_(x)CoO₂,[11] the KW ratio was found to be almost 50a₀, which has been
+attributed to magnetic frustration, proximity to a magnetic quantum
+critical point, or a Mott transition. In the case of Sr₂RuO₄,[12] the KW
+ratio was found to be highly anisotropic, reaching values around 300a₀
+for current normal to the RuO₂ planes; this was attributed to the
+two-dimensional character of the Fermi liquid in this compound. Since
+the thin-plate geometry of the Cu_(0.07)TiSe₂ precluded us from
+performing transport measurements with current perpendicular to the
+TiSe₂ planes, we can only speculate that the Fermi liquid might have a
+two-dimensional character, possibly inducing the high KW ratio. Another
+possibility is the proximity of this compound to the transition from a
+CDW to a SC state, which may have significant influence on the
+scattering mechanism and, consequently, on the KW ratio.
+
+Next, we analyze the superconducting state in Cu_(0.07)TiSe₂. The
+Bardeen-Cooper-Schrieffer (BCS) theory of superconductivity[13] predicts
+that for T→T_(c), the critical field behavior is almost linear in
+temperature. This is found for both field orientations for H_(c2) [Fig.
+4(a)] in Cu_(0.07)TiSe₂ as well as for the H∥abH_(c1) values [inset,
+Fig. 4(a)] and emphasized by the dotted lines. As described previously,
+the small H_(c1)^(c) values correspond to very small measured
+magnetization values, making the accurate determination of the lower
+critical field difficult for this field orientation. In consequence, we
+are using the H_(c1)^(c), determined at T=1.8 K, and T_(c, H₀0)=3.9 K,
+as determined from the in-plane data to construct a dotted line
+analogous to that for H∥ab [inset, Fig. 4(a)]. From the linear fits in
+the H=0 limit, the critical temperature is determined to be T_(c)=3.9 K;
+toward T=0, the extrapolations of these linear fits can be used to
+estimate the H_(c2)(0) critical field values by using the
+Werthamer-Helfand-Hohenberg (WWH) equation,[14]
+
+H_(c2)(0) = 0.693[−(dH_(c2)/dT)]_(T_(c))T_(c).
+
+Since the lower critical field values are only determined from
+magnetization measurements limited to temperatures above 1.8 K, we also
+use the WWH formula to estimate H_(c1) closer to T=0. The H_(c1) and
+H_(c2) values thus determined are listed in Table 1: H_(c1)^(ab)(0)≈ 32
+Oe, H_(c1)^(ab)(0)≈ 17 Oe, H_(c2)^(ab)(0)≈ 1.23 T, and H_(c2)^(c)(0)≈
+0.73 T. The anisotropy ratio of H_(c2), calculated as
+$\chi_{\rm min}(0)$ = H_(c2)^(ab)(0)/H_(c2)^(c)(0),[15] is also listed
+in Table 1. In addition, the temperature dependence of $\chi_{\rm min}$
+is shown in Fig. 4(b). For most of the superconducting state,
+$\chi_{\rm min}$ is almost constant and close to 1.63, except when very
+close to T_(c) where this value appears to be slightly higher; in this
+temperature range, H_(c1) and H_(c2) for both field orientations
+approach zero, and thus $\chi_{\rm min}$ is calculated as the ratio of
+two small quantities, and its determination is less certain. It can be
+concluded that the anisotropy $\chi_{\rm min}$ is intrinsically
+temperature independent.
+
+Close to T=0, the upper critical field decreases with temperature as[13]
+
+H_(c2)(T) ≈ H_(c2)(0)[1 − 1.07(TIT_(c))²].
+
+Fits to this expression are shown in Fig. 4(a) as dashed lines for both
+field orientations; for H∥ab, the resulting critical parameters are
+H_(c2)^(ab)=1.24 T and T_(c)=3.6 K, while for H∥c, H_(c2)^(c)=0.8 T and
+T_(c)=3.4 K. The estimated upper critical field values are close to
+those obtained before using the WWH formula, with the critical
+temperatures slightly smaller than the T_(c)=3.9 K, determined
+experimentally and from the linear fits.
+
+The Ginzburg-Landau (GL) coherence length along the i direction ξ_(i) is
+estimated from the anisotropic GL formulas[16] for H_(c2):
+H_(c2)^(ab)=Φ₀/(2πξ_(ab)ξ_(c)) and H_(c2)^(c)=Φ₀/(2πξ_(ab)^(c)), where
+Φ₀ is the flux quantum Φ₀=2.07× 10⁻⁷ G cm⁻². The anisotropic values of
+the coherence length ξ_(ab)(0) and ξ_(c)(0) are listed in Table 1. The
+T=0 critical field values can also be used to determine the GL parameter
+κ₀(0) along the i direction, using the equation
+H_(c2)⁽0)/H_(c1)⁽0)=2 κ₀²(0)/ln κ₀(0). In turn, the GL parameter κ₀(0)
+is related to the coherence length ξ₀(0) and the GL penetration depth
+λ_(c)(0) as κ_(c)(0)=λ_(ab)(0)/ξ_(ab)(0) and
+κ_(ab)(0)=λ_(ab)(0)/ξ_(c)(0)=[λ_(ab)(0)λ_(c)(0)/ξ_(ab)(0)ξ_(c)(0)][12].
+These equations are used to determine the anisotropic λ_(c)(0) values.
+Table 1 gives the GL estimates of κ₀(0), ξ_(b)(0), and λ_(c)(0) for both
+field orientations (H∥ab and H∥c). The anisotropic GL relations require
+that ξ_(ab)/ξ_(c)= ∝λ_(c)/λ_(ab). The coherence length values ξ_(ab) and
+ξ_(c) are 21.3 and 12.5 nm, respectively, resulting in a ratio of
+ξ_(ab)/ξ_(c)≈ 1.7, which is in excellent agreement to the H_(c2)
+anisotropy ratio $\gamma_{\rm mini}(0)$=H_(c2)^(ab)(0)/H_(c2)^(c)(0)≈
+1.7. When comparing these ratios to that of the penetration depth values
+λ_(c)/λ_(ab)=25.2/66 nm ≈ 0.4, it appears that the GL description of
+this system is invalid. However, the crystals of
+
+c c c c c c c c & T_(c) & ρ₀ & RRR & H_(c2)(0) & ξ(0) & H_(c1)⁺(0)^(α) &
+$\gamma_{\rm mini}(0)$ & κ(0) & λ(0)
+& (K) & (μΩ cm) & & (T) & (nm) & (Oe) & & & (nm)
+H∥ab & & & & 1.238 & 21.3 & 32 & & 25 & 285
+H∥c & & & & 0.729 & 12.5 & 53 & & 13.4 & 584
+& 3.9 & 80 & 6.5 & & & 1.7 & &
+
+$\overline{A}$H_(c1)^(*)=H_(c1)=N_(d)M, where N_(d) represents the
+demagnetizing factor (see text).
+
+Table 1: Characteristic parameters of Cu_(0.07)TiSe₂: critical
+temperature for superconductivity T_(c), residual resistivity ρ₀ near
+T_(c), residual resistivity ratio (RRR), upper critical field H_(c2)(0),
+GL coherence length ξ(0), lower critical field H_(c1)^(*)(0) (after the
+demagnetizing correction), anisotropy ratio of
+H_(c2)$\gamma_{\rm mini}(0)$, GL parameter κ(0), and GL penetration
+depth λ(0). The H∥cH_(c1) value (before applying the demagnetizing
+correction) was 13 Oe (see text).
+
+Cu_(0.07)TiSe₂ are thin plates (thickness d = 0.1 mm, area s = 10 mm²),
+and demagnetizing fields have a significant effect for field
+perpendicular to the plates. In what follows, we will take into account
+the demagnetizing effects in estimating the critical field values and
+determine the corresponding values for the affected GL characteristic
+parameters.
+
+In general, the effective field $H^{\rm eff}$ is reduced from the
+applied magnetic field $H^{\rm app}$ by the demagnetizing field H_(d) =
+N_(d)M, where N_(d) represents the demagnetizing factor and M is the
+magnetization of the sample. For a thin plate, N_(d) is close to 0 when
+the applied field is parallel to the plate and almost 1 when the field
+is perpendicular to the plate. In the case of Cu_(0.07)TiSe₂, the
+demagnetizing correction to the applied magnetic field is negligible
+when H∥ab. Moreover, as H_(c2) is determined as the magnetic field where
+the sample enters the normal state, for which M = 0, the measured H_(c2)
+values are very close to the effective upper critical field values.
+Thus, it appears that, of the critical fields for Cu_(0.07)TiSe₂, only
+the H∥cH_(c1) value is significantly affected by demagnetizing effects.
+Figure 6 shows the T=1.8 K H∥c magnetization data as a function of
+applied field (full symbols, top axis) and as a function of effective
+field $H^{\rm eff}$ = $H^{\rm app}$-M (open symbols, bottom axis). The
+effective value of the lower critical field H_(c1) is determined to be
+∼50 Oe. This yields a GL coefficient κ_(c)(0) = 13.4, with corrected
+penetration depth values λ_(c) = 584 nm and λ_(ab) = 285 nm, and their
+ratio λ_(c)/λ_(ab) = 584/285 = 2. This is much closer to the ratio of
+the coherence lengths ξ_(ab)/ξ_(c) and the anisotropy ratio
+$\gamma_{\rm anis}(0)$ = 1.7, as required by the GL theory.
+
+In conclusion, we have shown that Cu_(0.07)TiSe₂ is a normal type-II
+superconductor, with a transition temperature T_(c) = 3.9 K. The
+superconducting state properties are anisotropic, characterized by an
+anisotropy ratio $\gamma_{\rm anis}(0)$ = 1.7. In the normal state, the
+zero-field resistivity measurement yields a RRR around 7, but the
+overall resistivity values are high, indicative of high scattering
+mechanisms, possibly reflecting the intrinsically disordered nature of
+the intercalated copper atoms. Comparison to the layered NbSe₂
+dichalcogenide superconductor, [17, 18] which also shows moderate
+anisotropy [H_(c2)^(ab)(0)/H_(c2)^(c)(0) = 3], is supportive of this
+idea, as the undoped layered NbSe₂ has lower in-plane resistivity
+values. A large A/γ² ratio is also observed for Cu_(0.07)TiSe₂, which
+may be due to the reduced dimensionality of the Fermi liquid or the
+proximity to the CDW-SC transition. Detailed studies of the Fermi
+surface in Cu_(0.07)TiSe₂ may provide further insight into the
+anisotropic properties observed in this intercalated layered
+superconductor.
+
+## References
+
+* [1] K. C. Woo, F. C. Brown, W. L. McMillan, R. J. Miller, M. J.
+Schaffman, and M. P. Sears, Phys. Rev. B **14**, 3242 (1976). * [2] J.
+A. Wilson, Solid State Commun. **22**, 551 (1977). * [3] N. G. Stoffel,
+S. D. Kevan, and N. V. Smith, Phys. Rev. B **31**, 8049 (1985). * [4] A.
+Zunger and A. J. Freeman, Phys. Rev. B **17**, 1839 (1978). * [5] T. E.
+Kidd, T. Miller, M. Y. Chou, and T.-C. Chiang, Phys. Rev. Lett. **88**,
+226402 (2002). * [6] E. Morosan, H. W. Zandbergen, B. S. Dennis, J. W.
+G. Bos, Y. Onose, T. Klimczuk, A. P. Ramirez, N. P. Ong, and R. J. Cava,
+Nat. Phys. **2**, 544 (2006). * [7] J. E. Edwards and R. F. Frindt, J.
+Phys. Chem. Solids **32**, 2217 (1971). * [8] H. N. S. Lee, H. McKinzie,
+D. S. Tannhauser, and A. Wold, J. Appl. Phys. **40**, 602 (1969). * [9]
+K. Kadowaki and S. B. Woods, Solid State Commun. **58**, 507 (1986). *
+[10] N. Tsujii, K. Yoshimura, and K. Kosuge, J. Phys.: Condens. Matter
+**15**, 1993 (2003). * [11] S. Y. Li, L. Taillefer, D. G. Hawthorn, M.
+A. Tanatar, J. Paglione, M. Sutherland, R. H. Hill, C. H. Wang, and X.
+H. Chen, Phys. Rev. Lett. **93**, 056401 (2004). * [12] Y. Maeno, K.
+Yoshida, H. Hashimoto, S. Nishizaki, S. Ikeda, M. Nohara, T. Fujita, A.
+P. Mackenzie, N. E. Hussey, J. G. Bednorz, and F. Lichtenberg, J. Phys.
+Soc. Jpn. **66**, 1405 (1997). * [13] J. Bardeen, L. N. Cooper, and J.
+R. Schrieffer, Phys. Rev. **108**, 1175 (1957). * [14] E. Helfand and N.
+R. Werthamer, Phys. Rev. **147**, 288 (1966); N. R. Werthamer, E.
+Helfand, and P. C. Hohenbegr, _ibid._**147**, 295 (1966). * [15] M.
+Tinkham, _Introduction to Superconductivity_ (McGraw-Hill, New York,
+1996). * [16] J. R. Clem, Physica C **162-164**, 1137 (1989). * [17] P.
+de Trey, S. Gygax, and J.-P. Jan, J. Low Temp. Phys. **11**, 421
+(1973). * [18] D. Sanchez, A. Junod, J. Muller, H. Berger, and F. Levy,
+Physica B **204**, 167 (1995).
+
+Figure 6: Low field M_(c) data plotted as a function of applied field
+$H_{c1}^{\rm app}$ (full symbols) and effective field
+$H_{c1}^{\rm eff}$=$H_{c1}^{\rm app}$–M (open symbols).

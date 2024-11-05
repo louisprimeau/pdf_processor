@@ -1,0 +1,221 @@
+
+
+# Multigap nodeless superconductivity in nickel chalcogenide TlNi_{2}Se_{2}
+
+X. C. Hong,^{1} Z. Zhang,^{1} S. Y. Zhou,^{1} J. Pan,^{1} Y. Xu,^{1} Hangdong Wang,^{2,3} Qianhui Mao,^{2} Minghu Fang,^{2} J. K. Dong,^{1,} and S. Y. Li.^{1,}
+
+jkdong@fudan.edu.cn ^{1}State Key Laboratory of Surface Physics, Department of Physics, and Laboratory of Advanced Materials, Fudan University, Shanghai 200433, People's Republic of China
+
+^{2}Department of Physics, Zhejiang University, Hangzhou 310027, People's Republic of China
+
+^{3}Department of Physics, Hangzhou Normal University, Hangzhou 310036, People's Republic of China
+
+^{4}Department of Physics, Hangzhou Normal University, Hangzhou 310036, People's Republic of China
+
+25 July 2014; revised manuscript received 7 August 2014; published 18 August 2014
+
+###### Abstract
+
+Low-temperature thermal conductivity measurements were performed on single crystals of TlNi_{2}Se_{2}, a nickel chalcogenide heavy-electron superconductor with T_{c}\simeq 3.7 K. In zero field, the residual electronic contribution at T\to 0 K (\kappa_{0}/T) was well separated from the total thermal conductivity, which is less than 0.45% of its normal-state value. Such a tiny residual \kappa_{0}/T is unlikely contributed by the nodal quasiparticles. The nodeless gap structure is supported by the very weak field dependence of \kappa_{0}(H)/T in low magnetic fields. In the whole field range, \kappa_{0}(H)/T exhibits an S-shaped curve, as in the case of nickel pnictides BaNi_{2}As_{2} and SrNi_{2}P_{3}. This common feature of nickel-based superconductors can be explained by multiple nodeless superconducting gaps.
+
+pacs: 74.70.Xa, 74.25.fc, 74.20.Fg +
+Footnote †: preprint: PHYSICAL REVIEW B **90**, 060504(R) (2014)
+
++
+Footnote †: preprint: PHYSICAL REVIEW B **90**, 060504(R) (2014)
+ TINi_{2}Se_{2} samples. To reduce the uncertainty associated with the geometric factor, we normalize the resistivity of sample B to sample A at T=290 K. The two resistivity curves are nearly identical after normalization, as seen in the inset. Later we will use the normalized geometric factor for sample B. The resistivity decreases monotonically with lowering the temperature, followed by a sharp superconducting transition. The T_{c} defined by \rho=0 is 3.7 K, which is consistent with the onset of a diamagnetic transition. Fermi-liquid behavior \rho\sim T^{2} is observed at low temperature. The fit of \rho(T) data between 4 and 8.5 K to \rho=\rho_{0}+AT^{2} gives the residual resistivity \rho_{0}=0.60\mu\Omega cm for sample A and \rho_{0}=0.61\mu\Omega cm for sample B. The residual resistivity ratio (RRR) is about 120, which is much higher than the nickel pnictides BaNi_{2}As_{2} and SrNi_{2}P_{2}[13; 16].
+
+Figure 2(a) shows the low-temperature thermal conductivity of TNi_{2}Se_{2} samples A and B at zero field, plotted as \kappa/T vs T^{2}. The measured thermal conductivity \kappa can be expressed as \kappa=\kappa_{e}+\kappa_{ph}, the sum of electron contribution \kappa_{e} and phonon contribution \kappa_{ph}. Due to their distinct temperature dependence at low temperatures, the two contributions can be well separated by fitting the data to
+
+\[\kappa=aT+bT^{a},\] (1)
+
+where aT is the residual linear term of electrons and bT^{a} is the phonon contribution in the boundary scattering limit. Usually 2<\alpha\leqslant 3, which depends on the effect of the specular reflection of phonons at the sample surfaces [21; 22]. For both samples A and B, the fitting parameter \alpha in zero field is very close to 3, therefore we fix it to 3. Note that for BaNi_{2}As_{2} and SrNi_{2}P_{2} single crystals, the parameter \alpha is also 3 [13; 16]. It seems that the effect of specular reflection of phonons at the surfaces is very weak for NBS single crystals.
+
+In Fig. 2(a), the fittings give \kappa_{0}/T\equiv a=0.18\pm 0.02 mW K^{-2} cm^{-1} and 0.05\pm 0.01 mW K^{-2} cm^{-1} for
+
+Figure 1: (Color online) (a) Low-temperature dc magnetization of a TINi_{2}Se_{2} single crystal measured with zero-field-cooled (ZFC) and field-cooled (FC) processes. (b) Low-temperature in-plane resistivity of a TINi_{2}Se_{2} single crystal (sample A). The solid line is a fit of the data between 4 and 8.5 K to \rho=\rho_{0}+AT^{2}. The inset shows the \rho(T) curves of samples A and B up to room temperature. After normalizing the value of sample B at 290 K to that of sample A, the two curves are nearly identical.
+
+Figure 2: (Color online) Low-temperature thermal conductivity of TINi_{2}Se_{2} single crystals. (a) Sample A and sample B in zero field. (b) Thermal conductivity of sample A under magnetic fields up to H=1 T. Data below H_{c2}=0.8 T are fitted to \kappa/T=\kappa_{0}/T+bT^{2}, as represented by the solid lines. The dashed line is the normal-state Wiedemann-Franz law expectation L_{0}/\rho_{0}, with L_{0}=2.45\times 10^{-8} W \Omega K^{-2} and \rho_{0}=0.60\mu\Omega cm.
+
+  samples A and B, respectively. Comparing with our experimental error 0.005 mW K^{-2} cm^{-1}[22], these \kappa_{0}/T values are not negligible. However, they are actually very tiny, if we compare them with the normal-state Wiedemann-Franz law expectation \kappa_{N0}/T=L_{0}/\rho_{0}\approx 40 mW K^{-2} cm^{-1}. The ratio (\kappa_{0}/T)/(\kappa_{N0}/T) of TlNi_{2}Se_{2} is only 0.44% (sample A) and 0.12% (sample B). For nodal superconductors, a substantial \kappa_{0}/T in zero field contributed by the nodal quasiparticles has been found [23, 24, 25]. For example, \kappa_{0}/T of the overdoped (T_{c}=15 K) d-wave cuprate superconductor Tl_{2}Ba_{2}CuO_{6+\delta} (Tl-2201) is 1.41 mW K^{-2} cm^{-1}, \sim36% \kappa_{N0}/T[23]. For the possible p-wave superconductor Sr_{2}RuO_{4} (T_{c}=1.5 K), \kappa_{0}/T=17 mW K^{-2} cm^{-1} was reported, more than 9% \kappa_{N0}/T[24]. The multigap nodal heavy-fermion superconductor PrOs_{4}Sb_{12} has \kappa_{0}/T=0.46 mW K^{-2} cm^{-1}, \sim7% \kappa_{N0}/T[25]. In this context, the tiny percentage of (\kappa_{0}/T)/(\kappa_{N0}/T) observed in TlNi_{2}Se_{2} suggests that the very small \kappa_{0}/T may not come from nodal quasiparticles.
+
+In fact, the finite value of \kappa_{0}/T in zero field can be theoretically estimated for a quasi-two-dimensional d-wave superconductor [26, 27],
+
+\[\frac{\kappa_{0}}{T}\simeq\frac{\hbar}{2\pi}\frac{\gamma_{N}v_{F}^{2}}{\triangle _{0}},\] (2)
+
+where \gamma_{N} is the electronic specific-heat coefficient in the normal state, v_{F} is the Fermi velocity, and \triangle_{0} stands for the maximum of the superconducting gap. \nu_{F}=5.48\times 10^{4} m s^{-1}, \gamma_{N}=40 mJ mol^{-1} K^{-2}, and \triangle_{0}=2.01k_{B}T_{c} can be obtained from a former work [19]. In case that TlNi_{2}Se_{2} is a quasi-two-dimensional d-wave superconductor, we estimate \kappa_{0}/T\simeq 3.22 mW K^{-2} cm^{-1}, which should be \sim8% \kappa_{N0}/T of our samples. This value is much higher than what we observed in both samples A and B, therefore, the superconducting gap of TlNi_{2}Se_{2} is not consistent with the d-wave scenario. The very small \kappa_{0}/T in zero field may result from a tiny nonsuperconducting impure phase in the samples.
+
+The field dependence of \kappa_{0}/T can provide further information on the superconducting gap structure [20]. The thermal conductivity under magnetic fields for sample A is shown in Fig. 2(b). Similar results are obtained for sample B but not shown here, since the data are noisier at H>0.2 T. Upon applying magnetic fields, vortices are gradually introduced into the sample. The unpaired electrons inside the vortices contribute to \kappa_{0}(H)/T. Although the curves of 0.8 and 1 T are not smooth, one can still see that \kappa_{0}/T roughly meets the Wiedemann-Franz law expectation L_{0}/\rho_{0}=40.8 mW K^{-2} cm^{-1}. We determine the bulk upper critical field H_{c2}=0.8 T, which agrees with the value estimated from resistivity measurements [19]. The data in different fields below H_{c2} are also fitted to \kappa/T=\kappa_{0}/T+bT^{2}, as represented by the solid lines in Fig. 2(b).
+
+Normalized \kappa_{0}(H)/T of TlNi_{2}Se_{2} as a function of H/H_{c2} is presented in Fig. 3(a), together with the single band s-wave superconductor NbSe_{2}[29], the d-wave cuprate superconductor Tl-2201 [23], and two nickel pnictide superconductors BaNi_{2}As_{2} and SnNi_{2}P_{2}[13, 16]. For the single band s-wave superconductor Nb, the \kappa_{0}(H)/T changes little even up to 40% H_{c2}[28], while in the nodal superconductor Tl-2201, a small field can yield a quick growth in the quasiparticle density of states (DOS) due to the Volovik effect [30], and the low field \kappa_{0}(H)/T is roughly \sqrt{H} dependent [23]. In the case of NbSe_{2}, the distinct \kappa_{0}(H)/T behavior was well explained by multiple superconducting gaps with different magnitudes [29].
+
+Of the above three archetypal examples, the field dependence of \kappa_{0}(H)/T for TlNi_{2}Se_{2} most resembles NbSe_{2}. Since NBSs also have several bands across the Fermi level [8, 9, 10, 11], it is natural to explain the \kappa_{0}(H)/T behavior of TlNi_{2}Se_{2} with multiple gaps. As was done in the case of NbSe_{2}[29], one can estimate the ratio of the smaller gap to the larger gap \Delta_{s}/\Delta_{l} by plotting the ratio of thermal conductivity to heat capacity (\kappa_{0}/T)/(C_{\rm res}/T) as a function of H/H_{c2}. In the vortex state, residual specific heat is associated with the unpaired electron DOS, while \kappa_{0}/T manifests the tunneling ability of those unpaired electrons. Thus (\kappa_{0}/T)/(C_{\rm res}/T) represents the degree of delocalization of quasiparticles in the
+
+Figure 3: (Color online) (a) Normalized \kappa_{0}/T of TlNi_{2}Se_{2} as a function of H/H_{c2}. For comparison, similar data are shown for the single band s-wave superconductor Nb [28], the multiband s-wave superconductor NbSe_{2}[29], the d-wave superconductor Tl-2201 [23], and two nickel pnictide superconductors BaNi_{2}As_{2} and SnNi_{2}P_{2}[13, 16]. (b) Ratio of thermal conductivity to heat capacity (\kappa_{0}/T)/(C_{\rm res}/T) in TlNi_{2}Se_{2}. The end of the rapid increase regime at H^{*} indicates the complete suppression of the smaller gap(s).
+
+  vortex state [29]. In a simple two-gap model, both Fermi sheets contribute to the rise of (\kappa_{0}/T)/(C_{\rm res}/T) below a characteristic field H^{*}. In the regime of H^{*}<H<H_{c2}, the smaller gap is completely suppressed and only the Fermi sheet with a larger gap contributes to the rise of (\kappa_{0}/T)/(C_{\rm res}/T).
+
+In Fig. 3(b), we plot the ratio (\kappa_{0}/T)/(C_{\rm res}/T) as a function of H/H_{c2}. The residual specific heat C_{\rm res}(H)/T is adopted from Ref. [19]. Two distinct regimes can be resolved: After a rapid initial increase, (\kappa_{0}/T)/(C_{\rm res}/T) reaches a weak H-dependent regime. The end of the rapid increase atH^{*}\simeq 0.36H_{c2} indicates the complete suppression of the smaller gap. Considering that the upper critical field is related to the superconducting gap by H_{c2}\propto\triangle^{2}/v_{F}^{2}, the characteristic field H^{*} allows us to estimate the gap ratio \Delta_{s}/\triangle_{l}\simeq 0.6. In Ref. [19], the specific-heat data can be best fitted by a two-gap BCS model with \triangle_{s}/\triangle_{l}\simeq 0.42[19], which is qualitatively consistent with our thermal conductivity analysis.
+
+We then compare the \kappa_{0}(H)/T behavior of TlNi_{2}Se_{2} to those of BaNi_{2}As_{2} and SrNi_{2}P_{2}[13, 16]. From Fig. 3(a), the three \kappa_{0}(H)/T curves show a common \bf S shape (concave in low fields and convex in high fields). Previously, this \bf S-shaped curve of \kappa_{0}(H)/T was interpreted as the consequence of H_{c2} distribution in the BaNi_{2}As_{2} and SrNi_{2}P_{2} crystals due to the sample quality [13, 16], while for our TlNi_{2}Se_{2} single crystals, the sharp diamagnetic transition shown in Fig. 1(a) suggests that the spread of H_{c2} should be very narrow, despite the possible existence of a tiny impure phase. The RRR of TlNi_{2}Se_{2} is also much higher than those of BaNi_{2}As_{2} and SrNi_{2}P_{2}, pointing to a cleaner sample. For TlNi_{2}Se_{2}, the Ginzberg-Landau coherence length \xi=20.3 nm is calculated from the equation
+
+\[\xi=\left[\frac{\Phi_{0}}{2\pi\,H_{c2}(0)}\right]^{\frac{1}{2}},\] (3)
+
+where \Phi_{0}=2.07\times 10^{-7} Oe cm^{2} is the flux quantum. According to the relationship
+
+\[\frac{\kappa}{T}=\frac{1}{3}\gamma\nu_{F}l_{e},\] (4)
+
+the electron mean free path l_{e}=677 nm is estimated. The ratio l_{e}/\xi=33.3 (\gg1) places our TlNi_{2}Se_{2} single crystal in the clean limit. Therefore the \bf S-shaped \kappa_{0}(H)/T curve of TlNi_{2}Se_{2} should not be explained by bad sample quality. Since all three compounds have the same crystal structure and similar electronic structure [8], their common \bf S-shaped field dependence of \kappa_{0}(H)/T may have the same origin--the multiple nodeless gaps.
+
+We note that the normalized \kappa_{0}(H)/T has been numerically simulated for a two-band s-wave state with unequal gap sizes, which successfully explained the experimental data of Ba(Fe_{1-x}Co_{x})_{2}As_{2} with different Co doping by systematically varying the ratio \triangle_{s}/\triangle_{l}[31]. However, this kind of calculation cannot reproduce the pronounced \bf S-shaped \kappa_{0}(H)/T curve in Fig. 3(a), since the simulation is based on an assumption that each band possesses equal weighting of quasiparticle DOS [31]. To get the \bf S-shaped \kappa_{0}(H)/T curve, one may need to assume that those bands with a smaller gap possess more quasiparticle DOS than those bands with a larger gap. Further numerical simulations are needed to reproduce this common feature observed in NBSs.
+
+In summary, we have measured the thermal conductivity of TlNi_{2}Se_{2} single crystals down to 50 mK. The relatively tiny \kappa_{0}/T and weak field dependence of \kappa_{0}(H)/T in low fields suggest a nodeless superconducting gap. The \kappa_{0}(H)/T curve shows an \bf S shape, which was previously also observed in BaNi_{2}As_{2} and SrNi_{2}P_{2}. This common feature of nickel-based superconductors is explained by multiple nodeless superconducting gaps. A characteristic field H^{*}\simeq 0.36H_{c2} was identified from an apparent slope change in (\kappa_{0}/T)/(C_{\rm res}/T), which gives the ratio \triangle_{s}/\triangle_{l}\simeq 0.6 in TlNi_{2}Se_{2}.
+
+This work is supported by the Natural Science Foundation of China (Grants No. 91021016, No. 91221303, No. 11374261, and No. 11204059), the Ministry of Science and Technology of China (National Basic Research Program No. 2012CB821402, No. 2012CB821404, and No. 2011CBA00103), and the Program for Professor of Special Appointment (Eastern Scholar) at Shanghai Institutions of Higher Learning.
+
+## References
+
+* (1) D. C. Johnston, Adv. Phys. **59**, 803 (2010).
+* (2) J. Paglione and R. L. Greene, Nat. Phys. **6**, 645 (2010).
+* (3) G. R. Stewart, Rev. Mod. Phys. **83**, 1589 (2011).
+* (4) T. Watanabe, H. Yanagi, T. Kamiya, Y. Kamihara, H. Hiramatsu, M. Hirano, and H. Hosono, Inorg. Chem. **46**, 7719 (2007).
+* (5) F. Ronning, N. Kurita, E. D. Bauer, B. L. Scott, T. Park, T. Klimczuk, R. Movshovich, and J. D. Thompson, J. Phys.: Condens. Matter **20**, 342203 (2008).
+* (6) Z. Li, G. F. Chen, J. Dong, G. Li, W. Z. Hu, D. Wu, S. K. Su, P. Zheng, T. Xiang, N. L. Wang, and J. L. Luo, Phys. Rev. B **78**, 060504(R) (2008).
+* (7) E. D. Bauer, F. Ronning, B. L. Scott, and J. D. Thompson, Phys. Rev. B **78**, 172504 (2008).
+* (8) F. Ronning, E. D. Bauer, T. Park, N. Kurita, T. Klimczuk, R. Movshovich, A. S. Sefat, D. Mandrus, and J. D. Thompson, Physica C **469**, 396 (2009).
+* (9) A. Subedi and D. J. Singh, Phys. Rev. B **78**, 132511 (2008).
+* (10) B. Zhou, M. Xu, Y. Zhang, G. Xu, C. He, L. X. Yang, F. Chen, B. P. Xie, X. Y. Cui, M. Arita, K. Shimada, H. Namatame, M. Taniguchi, X. Dai, and D. L. Feng, Phys. Rev. B **83**, 035110 (2011).
+* (11) T. Terashima, M. Kimata, H. Satsukawa, A. Harada, K. Hazama, M. Imai, S. Uji, H. Kito, A. Iyo, H. Eisaki, and H. Harima, J. Phys. Soc. Jpn. **78**, 033706 (2009).
+* (12) P. J. Hirschfeld, M. M. Korshunov, and I. I. Mazin, Rep. Prog. Phys. **74**, 124508 (2011).
+* (13) N. Kurita, F. Ronning, Y. Tokiwa, E. D. Bauer, A. Subedi, D. J. Singh, J. D. Thompson, and R. Movshovich, Phys. Rev. Lett. **102**, 147004 (2009).
+* (14) K. Kudo, M. Takasuga, Y. Okamoto, Z. Hiroi, and M. Nohara, Phys. Rev. Lett. **109**, 097002 (2012).
+* (15) K. Hashimoto, M. Yamashita, S. Kasahara, Y. Senshu, N. Nakata, S. Tonegawa, K. Ikada, A. Serafin, A. Carrington, T. Terashima, H. Ikeda, T. Shibauchi, and Y. Matsuda, Phys. Rev. B **81**, 220501(R) (2010).
+
+  * [16] N. Kurita, F. Ronning, C. F. Miclea, E. D. Bauer, K. Gofryk, J. D. Thompson, and R. Movshovich, Phys. Rev. B **83**, 094527 (2011).
+* [17] J. R. Neilson, A. Llobet, A. V. Stier, L. Wu, J. J. Wen, J. Tao, Y. Zhu, Z. B. Tesanovic, N. P. Armitage, and T. M. McQueen, Phys. Rev. B **86**, 054512 (2012).
+* [18] J. R. Neilson, T. M. McQueen, A. Llobet, J. J. Wen, and M. R. Suchomel, Phys. Rev. B **87**, 045124 (2013).
+* [19] H. D. Wang, C. H. Dong, Q. H. Mao, R. Khan, X. Zhou, C. X. Li, B. Chen, J. H. Yang, Q. P. Su, and M. H. Fang, Phys. Rev. Lett. **111**, 207001 (2013).
+* [20] H. Shakeripour, C. Petrovic, and L. Taillefer, New J. Phys. **11**, 055065 (2009).
+* [21] M. Sutherland, D. G. Hawthorn, R. W. Hill, F. Ronning, S. Wakimoto, H. Zhang, C. Proust, E. Boaknin, C. Lupien, L. Taillefer, R. X. Liang, D. A. Bonn, W. N. Hardy, R. Gagnon, N. E. Hussey, T. Kimura, M. Nohara, and H. Takagi, Phys. Rev. B **67**, 174520 (2003).
+* [22] S. Y. Li, J.-B. Bonnemaison, A. Payeur, P. Fournier, C. H. Wang, X. H. Chen, and L. Taillefer, Phys. Rev. B **77**, 134501 (2008).
+* [23] C. Proust, E. Boaknin, R. W. Hill, L. Taillefer, and A. P. Mackenzie, Phys. Rev. Lett. **89**, 147003 (2002).
+* [24] M. Suzuki, M. A. Tanatar, N. Kikugawa, Z. Q. Mao, Y. Maeno, and T. Ishiguro, Phys. Rev. Lett. **88**, 227004 (2002).
+* [25] R. W. Hill, S. Y. Li, M. B. Maple, and L. Taillefer, Phys. Rev. Lett. **101**, 237005 (2008).
+* [26] M. J. Graf, S. K. Yip, J. A. Sauls, and D. Rainer, Phys. Rev. B **53**, 15147 (1996).
+* [27] A. C. Durst and P. A. Lee, Phys. Rev. B **62**, 1270 (2000).
+* [28] J. Lowell and J. B. Sousa, J. Low Temp. Phys. **3**, 65 (1970).
+* [29] E. Boaknin, M. A. Tanatar, J. Paglione, D. Hawthorn, F. Ronning, R. W. Hill, M. Sutherland, L. Taillefer, J. Sonier, S. M. Hayden, and J. W. Brill, Phys. Rev. Lett. **90**, 117003 (2003).
+* [30] G. E. Volovik, JETP Lett. **58**, 469 (1993).
+* [31] Y. Bang, Phys. Rev. Lett. **104**, 217001 (2010).
+
+ 
+
+# Multigap nodeless superconductivity in nickel chalcogenide TlNi_{2}Se_{2}
+
+X. C. Hong,^{1} Z. Zhang,^{1} S. Y. Zhou,^{1} J. Pan,^{1} Y. Xu,^{1} Hangdong Wang,^{2,3} Qianhui Mao,^{2} Minghu Fang,^{2} J. K. Dong,^{1,} and S. Y. Li.^{1,}
+
+jkdong@fudan.edu.cn ^{1}State Key Laboratory of Surface Physics, Department of Physics, and Laboratory of Advanced Materials, Fudan University, Shanghai 200433, People's Republic of China
+
+^{2}Department of Physics, Zhejiang University, Hangzhou 310027, People's Republic of China
+
+^{3}Department of Physics, Hangzhou Normal University, Hangzhou 310036, People's Republic of China
+
+^{4}Department of Physics, Hangzhou Normal University, Hangzhou 310036, People's Republic of China
+
+25 July 2014; revised manuscript received 7 August 2014; published 18 August 2014
+
+###### Abstract
+
+Low-temperature thermal conductivity measurements were performed on single crystals of TlNi_{2}Se_{2}, a nickel chalcogenide heavy-electron superconductor with T_{c}\simeq 3.7 K. In zero field, the residual electronic contribution at T\to 0 K (\kappa_{0}/T) was well separated from the total thermal conductivity, which is less than 0.45% of its normal-state value. Such a tiny residual \kappa_{0}/T is unlikely contributed by the nodal quasiparticles. The nodeless gap structure is supported by the very weak field dependence of \kappa_{0}(H)/T in low magnetic fields. In the whole field range, \kappa_{0}(H)/T exhibits an S-shaped curve, as in the case of nickel pnictides BaNi_{2}As_{2} and SrNi_{2}P_{3}. This common feature of nickel-based superconductors can be explained by multiple nodeless superconducting gaps.
+
+pacs: 74.70.Xa, 74.25.fc, 74.20.Fg +
+Footnote †: preprint: PHYSICAL REVIEW B **90**, 060504(R) (2014)
+
++
+Footnote †: preprint: PHYSICAL REVIEW B **90**, 060504(R) (2014)
+ TINi_{2}Se_{2} samples. To reduce the uncertainty associated with the geometric factor, we normalize the resistivity of sample B to sample A at T=290 K. The two resistivity curves are nearly identical after normalization, as seen in the inset. Later we will use the normalized geometric factor for sample B. The resistivity decreases monotonically with lowering the temperature, followed by a sharp superconducting transition. The T_{c} defined by \rho=0 is 3.7 K, which is consistent with the onset of a diamagnetic transition. Fermi-liquid behavior \rho\sim T^{2} is observed at low temperature. The fit of \rho(T) data between 4 and 8.5 K to \rho=\rho_{0}+AT^{2} gives the residual resistivity \rho_{0}=0.60\mu\Omega cm for sample A and \rho_{0}=0.61\mu\Omega cm for sample B. The residual resistivity ratio (RRR) is about 120, which is much higher than the nickel pnictides BaNi_{2}As_{2} and SrNi_{2}P_{2}[13; 16].
+
+Figure 2(a) shows the low-temperature thermal conductivity of TNi_{2}Se_{2} samples A and B at zero field, plotted as \kappa/T vs T^{2}. The measured thermal conductivity \kappa can be expressed as \kappa=\kappa_{e}+\kappa_{ph}, the sum of electron contribution \kappa_{e} and phonon contribution \kappa_{ph}. Due to their distinct temperature dependence at low temperatures, the two contributions can be well separated by fitting the data to
+
+\[\kappa=aT+bT^{a},\] (1)
+
+where aT is the residual linear term of electrons and bT^{a} is the phonon contribution in the boundary scattering limit. Usually 2<\alpha\leqslant 3, which depends on the effect of the specular reflection of phonons at the sample surfaces [21; 22]. For both samples A and B, the fitting parameter \alpha in zero field is very close to 3, therefore we fix it to 3. Note that for BaNi_{2}As_{2} and SrNi_{2}P_{2} single crystals, the parameter \alpha is also 3 [13; 16]. It seems that the effect of specular reflection of phonons at the surfaces is very weak for NBS single crystals.
+
+In Fig. 2(a), the fittings give \kappa_{0}/T\equiv a=0.18\pm 0.02 mW K^{-2} cm^{-1} and 0.05\pm 0.01 mW K^{-2} cm^{-1} for
+
+Figure 1: (Color online) (a) Low-temperature dc magnetization of a TINi_{2}Se_{2} single crystal measured with zero-field-cooled (ZFC) and field-cooled (FC) processes. (b) Low-temperature in-plane resistivity of a TINi_{2}Se_{2} single crystal (sample A). The solid line is a fit of the data between 4 and 8.5 K to \rho=\rho_{0}+AT^{2}. The inset shows the \rho(T) curves of samples A and B up to room temperature. After normalizing the value of sample B at 290 K to that of sample A, the two curves are nearly identical.
+
+Figure 2: (Color online) Low-temperature thermal conductivity of TINi_{2}Se_{2} single crystals. (a) Sample A and sample B in zero field. (b) Thermal conductivity of sample A under magnetic fields up to H=1 T. Data below H_{c2}=0.8 T are fitted to \kappa/T=\kappa_{0}/T+bT^{2}, as represented by the solid lines. The dashed line is the normal-state Wiedemann-Franz law expectation L_{0}/\rho_{0}, with L_{0}=2.45\times 10^{-8} W \Omega K^{-2} and \rho_{0}=0.60\mu\Omega cm.
+
+  samples A and B, respectively. Comparing with our experimental error 0.005 mW K^{-2} cm^{-1}[22], these \kappa_{0}/T values are not negligible. However, they are actually very tiny, if we compare them with the normal-state Wiedemann-Franz law expectation \kappa_{N0}/T=L_{0}/\rho_{0}\approx 40 mW K^{-2} cm^{-1}. The ratio (\kappa_{0}/T)/(\kappa_{N0}/T) of TlNi_{2}Se_{2} is only 0.44% (sample A) and 0.12% (sample B). For nodal superconductors, a substantial \kappa_{0}/T in zero field contributed by the nodal quasiparticles has been found [23, 24, 25]. For example, \kappa_{0}/T of the overdoped (T_{c}=15 K) d-wave cuprate superconductor Tl_{2}Ba_{2}CuO_{6+\delta} (Tl-2201) is 1.41 mW K^{-2} cm^{-1}, \sim36% \kappa_{N0}/T[23]. For the possible p-wave superconductor Sr_{2}RuO_{4} (T_{c}=1.5 K), \kappa_{0}/T=17 mW K^{-2} cm^{-1} was reported, more than 9% \kappa_{N0}/T[24]. The multigap nodal heavy-fermion superconductor PrOs_{4}Sb_{12} has \kappa_{0}/T=0.46 mW K^{-2} cm^{-1}, \sim7% \kappa_{N0}/T[25]. In this context, the tiny percentage of (\kappa_{0}/T)/(\kappa_{N0}/T) observed in TlNi_{2}Se_{2} suggests that the very small \kappa_{0}/T may not come from nodal quasiparticles.
+
+In fact, the finite value of \kappa_{0}/T in zero field can be theoretically estimated for a quasi-two-dimensional d-wave superconductor [26, 27],
+
+\[\frac{\kappa_{0}}{T}\simeq\frac{\hbar}{2\pi}\frac{\gamma_{N}v_{F}^{2}}{\triangle _{0}},\] (2)
+
+where \gamma_{N} is the electronic specific-heat coefficient in the normal state, v_{F} is the Fermi velocity, and \triangle_{0} stands for the maximum of the superconducting gap. \nu_{F}=5.48\times 10^{4} m s^{-1}, \gamma_{N}=40 mJ mol^{-1} K^{-2}, and \triangle_{0}=2.01k_{B}T_{c} can be obtained from a former work [19]. In case that TlNi_{2}Se_{2} is a quasi-two-dimensional d-wave superconductor, we estimate \kappa_{0}/T\simeq 3.22 mW K^{-2} cm^{-1}, which should be \sim8% \kappa_{N0}/T of our samples. This value is much higher than what we observed in both samples A and B, therefore, the superconducting gap of TlNi_{2}Se_{2} is not consistent with the d-wave scenario. The very small \kappa_{0}/T in zero field may result from a tiny nonsuperconducting impure phase in the samples.
+
+The field dependence of \kappa_{0}/T can provide further information on the superconducting gap structure [20]. The thermal conductivity under magnetic fields for sample A is shown in Fig. 2(b). Similar results are obtained for sample B but not shown here, since the data are noisier at H>0.2 T. Upon applying magnetic fields, vortices are gradually introduced into the sample. The unpaired electrons inside the vortices contribute to \kappa_{0}(H)/T. Although the curves of 0.8 and 1 T are not smooth, one can still see that \kappa_{0}/T roughly meets the Wiedemann-Franz law expectation L_{0}/\rho_{0}=40.8 mW K^{-2} cm^{-1}. We determine the bulk upper critical field H_{c2}=0.8 T, which agrees with the value estimated from resistivity measurements [19]. The data in different fields below H_{c2} are also fitted to \kappa/T=\kappa_{0}/T+bT^{2}, as represented by the solid lines in Fig. 2(b).
+
+Normalized \kappa_{0}(H)/T of TlNi_{2}Se_{2} as a function of H/H_{c2} is presented in Fig. 3(a), together with the single band s-wave superconductor NbSe_{2}[29], the d-wave cuprate superconductor Tl-2201 [23], and two nickel pnictide superconductors BaNi_{2}As_{2} and SnNi_{2}P_{2}[13, 16]. For the single band s-wave superconductor Nb, the \kappa_{0}(H)/T changes little even up to 40% H_{c2}[28], while in the nodal superconductor Tl-2201, a small field can yield a quick growth in the quasiparticle density of states (DOS) due to the Volovik effect [30], and the low field \kappa_{0}(H)/T is roughly \sqrt{H} dependent [23]. In the case of NbSe_{2}, the distinct \kappa_{0}(H)/T behavior was well explained by multiple superconducting gaps with different magnitudes [29].
+
+Of the above three archetypal examples, the field dependence of \kappa_{0}(H)/T for TlNi_{2}Se_{2} most resembles NbSe_{2}. Since NBSs also have several bands across the Fermi level [8, 9, 10, 11], it is natural to explain the \kappa_{0}(H)/T behavior of TlNi_{2}Se_{2} with multiple gaps. As was done in the case of NbSe_{2}[29], one can estimate the ratio of the smaller gap to the larger gap \Delta_{s}/\Delta_{l} by plotting the ratio of thermal conductivity to heat capacity (\kappa_{0}/T)/(C_{\rm res}/T) as a function of H/H_{c2}. In the vortex state, residual specific heat is associated with the unpaired electron DOS, while \kappa_{0}/T manifests the tunneling ability of those unpaired electrons. Thus (\kappa_{0}/T)/(C_{\rm res}/T) represents the degree of delocalization of quasiparticles in the
+
+Figure 3: (Color online) (a) Normalized \kappa_{0}/T of TlNi_{2}Se_{2} as a function of H/H_{c2}. For comparison, similar data are shown for the single band s-wave superconductor Nb [28], the multiband s-wave superconductor NbSe_{2}[29], the d-wave superconductor Tl-2201 [23], and two nickel pnictide superconductors BaNi_{2}As_{2} and SnNi_{2}P_{2}[13, 16]. (b) Ratio of thermal conductivity to heat capacity (\kappa_{0}/T)/(C_{\rm res}/T) in TlNi_{2}Se_{2}. The end of the rapid increase regime at H^{*} indicates the complete suppression of the smaller gap(s).
+
+  vortex state [29]. In a simple two-gap model, both Fermi sheets contribute to the rise of (\kappa_{0}/T)/(C_{\rm res}/T) below a characteristic field H^{*}. In the regime of H^{*}<H<H_{c2}, the smaller gap is completely suppressed and only the Fermi sheet with a larger gap contributes to the rise of (\kappa_{0}/T)/(C_{\rm res}/T).
+
+In Fig. 3(b), we plot the ratio (\kappa_{0}/T)/(C_{\rm res}/T) as a function of H/H_{c2}. The residual specific heat C_{\rm res}(H)/T is adopted from Ref. [19]. Two distinct regimes can be resolved: After a rapid initial increase, (\kappa_{0}/T)/(C_{\rm res}/T) reaches a weak H-dependent regime. The end of the rapid increase atH^{*}\simeq 0.36H_{c2} indicates the complete suppression of the smaller gap. Considering that the upper critical field is related to the superconducting gap by H_{c2}\propto\triangle^{2}/v_{F}^{2}, the characteristic field H^{*} allows us to estimate the gap ratio \Delta_{s}/\triangle_{l}\simeq 0.6. In Ref. [19], the specific-heat data can be best fitted by a two-gap BCS model with \triangle_{s}/\triangle_{l}\simeq 0.42[19], which is qualitatively consistent with our thermal conductivity analysis.
+
+We then compare the \kappa_{0}(H)/T behavior of TlNi_{2}Se_{2} to those of BaNi_{2}As_{2} and SrNi_{2}P_{2}[13, 16]. From Fig. 3(a), the three \kappa_{0}(H)/T curves show a common \bf S shape (concave in low fields and convex in high fields). Previously, this \bf S-shaped curve of \kappa_{0}(H)/T was interpreted as the consequence of H_{c2} distribution in the BaNi_{2}As_{2} and SrNi_{2}P_{2} crystals due to the sample quality [13, 16], while for our TlNi_{2}Se_{2} single crystals, the sharp diamagnetic transition shown in Fig. 1(a) suggests that the spread of H_{c2} should be very narrow, despite the possible existence of a tiny impure phase. The RRR of TlNi_{2}Se_{2} is also much higher than those of BaNi_{2}As_{2} and SrNi_{2}P_{2}, pointing to a cleaner sample. For TlNi_{2}Se_{2}, the Ginzberg-Landau coherence length \xi=20.3 nm is calculated from the equation
+
+\[\xi=\left[\frac{\Phi_{0}}{2\pi\,H_{c2}(0)}\right]^{\frac{1}{2}},\] (3)
+
+where \Phi_{0}=2.07\times 10^{-7} Oe cm^{2} is the flux quantum. According to the relationship
+
+\[\frac{\kappa}{T}=\frac{1}{3}\gamma\nu_{F}l_{e},\] (4)
+
+the electron mean free path l_{e}=677 nm is estimated. The ratio l_{e}/\xi=33.3 (\gg1) places our TlNi_{2}Se_{2} single crystal in the clean limit. Therefore the \bf S-shaped \kappa_{0}(H)/T curve of TlNi_{2}Se_{2} should not be explained by bad sample quality. Since all three compounds have the same crystal structure and similar electronic structure [8], their common \bf S-shaped field dependence of \kappa_{0}(H)/T may have the same origin--the multiple nodeless gaps.
+
+We note that the normalized \kappa_{0}(H)/T has been numerically simulated for a two-band s-wave state with unequal gap sizes, which successfully explained the experimental data of Ba(Fe_{1-x}Co_{x})_{2}As_{2} with different Co doping by systematically varying the ratio \triangle_{s}/\triangle_{l}[31]. However, this kind of calculation cannot reproduce the pronounced \bf S-shaped \kappa_{0}(H)/T curve in Fig. 3(a), since the simulation is based on an assumption that each band possesses equal weighting of quasiparticle DOS [31]. To get the \bf S-shaped \kappa_{0}(H)/T curve, one may need to assume that those bands with a smaller gap possess more quasiparticle DOS than those bands with a larger gap. Further numerical simulations are needed to reproduce this common feature observed in NBSs.
+
+In summary, we have measured the thermal conductivity of TlNi_{2}Se_{2} single crystals down to 50 mK. The relatively tiny \kappa_{0}/T and weak field dependence of \kappa_{0}(H)/T in low fields suggest a nodeless superconducting gap. The \kappa_{0}(H)/T curve shows an \bf S shape, which was previously also observed in BaNi_{2}As_{2} and SrNi_{2}P_{2}. This common feature of nickel-based superconductors is explained by multiple nodeless superconducting gaps. A characteristic field H^{*}\simeq 0.36H_{c2} was identified from an apparent slope change in (\kappa_{0}/T)/(C_{\rm res}/T), which gives the ratio \triangle_{s}/\triangle_{l}\simeq 0.6 in TlNi_{2}Se_{2}.
+
+This work is supported by the Natural Science Foundation of China (Grants No. 91021016, No. 91221303, No. 11374261, and No. 11204059), the Ministry of Science and Technology of China (National Basic Research Program No. 2012CB821402, No. 2012CB821404, and No. 2011CBA00103), and the Program for Professor of Special Appointment (Eastern Scholar) at Shanghai Institutions of Higher Learning.
+
+## References
+
+* (1) D. C. Johnston, Adv. Phys. **59**, 803 (2010).
+* (2) J. Paglione and R. L. Greene, Nat. Phys. **6**, 645 (2010).
+* (3) G. R. Stewart, Rev. Mod. Phys. **83**, 1589 (2011).
+* (4) T. Watanabe, H. Yanagi, T. Kamiya, Y. Kamihara, H. Hiramatsu, M. Hirano, and H. Hosono, Inorg. Chem. **46**, 7719 (2007).
+* (5) F. Ronning, N. Kurita, E. D. Bauer, B. L. Scott, T. Park, T. Klimczuk, R. Movshovich, and J. D. Thompson, J. Phys.: Condens. Matter **20**, 342203 (2008).
+* (6) Z. Li, G. F. Chen, J. Dong, G. Li, W. Z. Hu, D. Wu, S. K. Su, P. Zheng, T. Xiang, N. L. Wang, and J. L. Luo, Phys. Rev. B **78**, 060504(R) (2008).
+* (7) E. D. Bauer, F. Ronning, B. L. Scott, and J. D. Thompson, Phys. Rev. B **78**, 172504 (2008).
+* (8) F. Ronning, E. D. Bauer, T. Park, N. Kurita, T. Klimczuk, R. Movshovich, A. S. Sefat, D. Mandrus, and J. D. Thompson, Physica C **469**, 396 (2009).
+* (9) A. Subedi and D. J. Singh, Phys. Rev. B **78**, 132511 (2008).
+* (10) B. Zhou, M. Xu, Y. Zhang, G. Xu, C. He, L. X. Yang, F. Chen, B. P. Xie, X. Y. Cui, M. Arita, K. Shimada, H. Namatame, M. Taniguchi, X. Dai, and D. L. Feng, Phys. Rev. B **83**, 035110 (2011).
+* (11) T. Terashima, M. Kimata, H. Satsukawa, A. Harada, K. Hazama, M. Imai, S. Uji, H. Kito, A. Iyo, H. Eisaki, and H. Harima, J. Phys. Soc. Jpn. **78**, 033706 (2009).
+* (12) P. J. Hirschfeld, M. M. Korshunov, and I. I. Mazin, Rep. Prog. Phys. **74**, 124508 (2011).
+* (13) N. Kurita, F. Ronning, Y. Tokiwa, E. D. Bauer, A. Subedi, D. J. Singh, J. D. Thompson, and R. Movshovich, Phys. Rev. Lett. **102**, 147004 (2009).
+* (14) K. Kudo, M. Takasuga, Y. Okamoto, Z. Hiroi, and M. Nohara, Phys. Rev. Lett. **109**, 097002 (2012).
+* (15) K. Hashimoto, M. Yamashita, S. Kasahara, Y. Senshu, N. Nakata, S. Tonegawa, K. Ikada, A. Serafin, A. Carrington, T. Terashima, H. Ikeda, T. Shibauchi, and Y. Matsuda, Phys. Rev. B **81**, 220501(R) (2010).
+
+  * [16] N. Kurita, F. Ronning, C. F. Miclea, E. D. Bauer, K. Gofryk, J. D. Thompson, and R. Movshovich, Phys. Rev. B **83**, 094527 (2011).
+* [17] J. R. Neilson, A. Llobet, A. V. Stier, L. Wu, J. J. Wen, J. Tao, Y. Zhu, Z. B. Tesanovic, N. P. Armitage, and T. M. McQueen, Phys. Rev. B **86**, 054512 (2012).
+* [18] J. R. Neilson, T. M. McQueen, A. Llobet, J. J. Wen, and M. R. Suchomel, Phys. Rev. B **87**, 045124 (2013).
+* [19] H. D. Wang, C. H. Dong, Q. H. Mao, R. Khan, X. Zhou, C. X. Li, B. Chen, J. H. Yang, Q. P. Su, and M. H. Fang, Phys. Rev. Lett. **111**, 207001 (2013).
+* [20] H. Shakeripour, C. Petrovic, and L. Taillefer, New J. Phys. **11**, 055065 (2009).
+* [21] M. Sutherland, D. G. Hawthorn, R. W. Hill, F. Ronning, S. Wakimoto, H. Zhang, C. Proust, E. Boaknin, C. Lupien, L. Taillefer, R. X. Liang, D. A. Bonn, W. N. Hardy, R. Gagnon, N. E. Hussey, T. Kimura, M. Nohara, and H. Takagi, Phys. Rev. B **67**, 174520 (2003).
+* [22] S. Y. Li, J.-B. Bonnemaison, A. Payeur, P. Fournier, C. H. Wang, X. H. Chen, and L. Taillefer, Phys. Rev. B **77**, 134501 (2008).
+* [23] C. Proust, E. Boaknin, R. W. Hill, L. Taillefer, and A. P. Mackenzie, Phys. Rev. Lett. **89**, 147003 (2002).
+* [24] M. Suzuki, M. A. Tanatar, N. Kikugawa, Z. Q. Mao, Y. Maeno, and T. Ishiguro, Phys. Rev. Lett. **88**, 227004 (2002).
+* [25] R. W. Hill, S. Y. Li, M. B. Maple, and L. Taillefer, Phys. Rev. Lett. **101**, 237005 (2008).
+* [26] M. J. Graf, S. K. Yip, J. A. Sauls, and D. Rainer, Phys. Rev. B **53**, 15147 (1996).
+* [27] A. C. Durst and P. A. Lee, Phys. Rev. B **62**, 1270 (2000).
+* [28] J. Lowell and J. B. Sousa, J. Low Temp. Phys. **3**, 65 (1970).
+* [29] E. Boaknin, M. A. Tanatar, J. Paglione, D. Hawthorn, F. Ronning, R. W. Hill, M. Sutherland, L. Taillefer, J. Sonier, S. M. Hayden, and J. W. Brill, Phys. Rev. Lett. **90**, 117003 (2003).
+* [30] G. E. Volovik, JETP Lett. **58**, 469 (1993).
+* [31] Y. Bang, Phys. Rev. Lett. **104**, 217001 (2010).
+
+ 

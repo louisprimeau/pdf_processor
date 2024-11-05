@@ -1,0 +1,404 @@
+# Superconductivity in the half-Heusler compound TbPdBi
+
+H. Xiao
+
+hong.xiao@hpstar.ac.cn Center for High Pressure Science and Technology
+Advanced Research, Beijing 100094, China State Key Laboratory of
+Functional Materials for Informatics, Shanghai Institute of Microsystem
+and Information Technology, Chinese Academy of Sciences, 865 Changning
+Road, Shanghai 200050, China
+
+T. Hu
+
+thu@mail.sim.ac.cn Center for High Pressure Science and Technology
+Advanced Research, Beijing 100094, China State Key Laboratory of
+Functional Materials for Informatics, Shanghai Institute of Microsystem
+and Information Technology, Chinese Academy of Sciences, 865 Changning
+Road, Shanghai 200050, China
+
+W. Liu
+
+Center for High Pressure Science and Technology Advanced Research,
+Beijing 100094, China Center for High Pressure Science and Technology
+Advanced Research, Beijing 100094, China
+
+Y. L. Zhu
+
+Department of Physics, Zhejiang SCI-TECH University, Hangzhou 310018,
+China
+
+P. G. Li
+
+Department of Physics and Engineering Physics, Tulane University, New
+Orleans, Louisiana 70018, USA
+
+G. Mu
+
+zmao@tulane.edu Center for High Pressure Science and Technology Advanced
+Research, Beijing 100094, China State Key Laboratory of Functional
+Materials for Informatics, Shanghai Institute of Microsystem and
+Information Technology, Chinese Academy of Sciences, 865 Changning Road,
+Shanghai 200050, China
+
+J. Su
+
+College of Chemistry and Molecular Engineering, Peking University,
+Beijing 100871, China
+
+K. Li
+
+Center for High Pressure Science and Technology Advanced Research,
+Beijing 100094, China
+
+Z. Q. Mao
+
+College of Chemistry and Molecular Engineering, Peking University,
+Beijing 100871, China
+
+###### Abstract
+
+We have studied the half-Heusler compound TbPdBi through resistivity,
+magnetization, Hall effect, and heat capacity measurements. A semimetal
+behavior is observed in its normal-state transport properties, which is
+characterized by a large negative magnetoresistance below 100 K.
+Notably, we find the coexistence of superconductivity and
+antiferromagnetism in this compound. The superconducting transition
+appears at 1.7 K, while the antiferromagnetic phase transition takes
+place at 5.5 K. The upper critical field H_(c2) shows an unusual linear
+temperature dependence, implying unconventional superconductivity.
+Moreover, when the superconductivity is suppressed by magnetic field,
+its resistivity shows plateau behavior, a signature often seen in
+topological insulators/semimetals. These findings establish TbPdBi as a
+platform for the study of the interplay between superconductivity,
+magnetism, and nontrivial band topology.
+
+DOI: 10.1103/PhysRevB.97.224511
+
+## I Introduction
+
+The large family of ternary half-Heusler compounds with
+noncentrosymmetric structure, formulated as XYZ (X = rare-earth
+elements, Y = transition-metal elements, Z = main-group elements), has
+recently attracted a great deal of interests [1, 2, 3, 4]. In
+particular, the _R_PdBi and _R_PtBi (R = rare earth) half-Heusler series
+have shown to be an interesting platform for the study of unconventional
+superconductivity. For instance, YPtBi and LuPtBi have been reported to
+be superconducting [5, 6, 7, 8, 9, 10, 11, 12, 13] (their T_(c) values
+are 0.77 and 1 K, respectively) even though they have a surprisingly low
+carrier concentration, i.e., n = 10¹⁸-10¹⁹ cm⁻³[5, 6, 10]. There has
+been compelling evidence which shows the superconductivity in these
+compounds is unconventional. The low-temperature penetration depth
+measurements on YPtBi has revealed that its superconducting gap has
+nodes [14]. In addition, the unusual linear temperature dependence of
+the upper critical field points to an odd-parity component in the
+superconducting order parameter, in accordance with the predictions for
+noncentrosymmetric superconductors [6]. Due to strong spin-orbital
+coupling, the superconducting state of YPtBi is believed to have a
+mixture of a conventional pairing state and high angular momentum paring
+states [15, 16, 17, 18, 19, 20]. For LuPtBi, a surface nodal
+superconducting state has been observed with its T_(c) being much higher
+than that in the bulk [21].
+
+In this paper, we report resistivity, magnetization, Hall effect, and
+heat capacity measurements on the half-Heusler compound TbPdBi. We
+observed superconductivity in this compound with an onset temperature of
+T_(c) = 1.7 K, besides the antiferromagnetic transition at T_(N) = 5.5
+K. Unlike other half-Heusler superconductors which feature semimetallic
+normal states with large positive magnetoresistance, the
+superconductivity of TbPdBi is connected with an unusual normal state
+characterized by a large isotropic negative magnetoresistance.
+Regardless of this difference, TbPdBi exhibits a linear temperature
+dependence in upper critical field H_(c2), similar to other half-Heusler
+superconductors, suggesting TbPdBi also possesses unconventional
+superconductivity. When its superconductivity is suppressed by magnetic
+field, its resistivity as a function of temperature shows a plateau
+behavior, suggesting the possible presence of nontrivial band topology.
+These results establish TbPdBi as an intriguing platform for the study
+of the interplay between unconventional superconductivity, magnetism,
+and nontrivial band topology.
+
+## II Experimental details
+
+Single crystals of TbPdBi were grown using Bi flux. We have performed
+single-crystal x-ray diffraction (SXRD) measurements on TbPdBi. The data
+were collected at 293(2) K on a Rigaku XtalAB PRO 007HF(Mo)
+diffractometer, with Mo Kα radiation (λ = 0.71073 A). Data reduction and
+empirical absorption correction were performed using the crysalsipro
+program. The structure was solved by a dual-space algorithm using the
+shellxt program. Final structure refinement was done using the shellxl
+program by minimizing the sum of squared deviations of F² using a
+full-matrix technique. Table 1 summarizes the detailed structural
+parameters extracted from the structural refinement, which shows the
+sample used in our study indeed has a cubic $F\overline{4}3m$ crystal
+structure. The occupancy of each element obtained from the refinement is
+close to 1, suggesting the composition of our synthesized compound is
+close to the stoichiometric ratio, i.e., TbPdBi. For transport
+measurements, the sample was first sanded and then cut into small
+pieces. The thickness of the sample used is about 35 μm. The resistivity
+is measured down to 50 mK by using a dilution refrigerator in a physical
+properties measurement system. The dc susceptibility was measured down
+to 2 K. Heat capacity was measured by a relaxation-time method.
+
+## III Results and discussion
+
+Figure 1(a) shows the temperature T-dependent resistivity ρ measured
+under different applied magnetic fields (H = 0, 1, 3, 5, 9 T). Cooling
+down from room temperature, the resistivity demonstrates a
+semiconductorlike behavior above a certain temperature T_(peak). Below
+that, it shows a metallic behavior. This behavior is characteristic of
+semimetals or narrow-gap semiconductors as observed previously in the
+half-Heusler compound [22,23]. The position of T_(peak), marked by a
+downward arrow, shifts to higher temperature with increasing magnetic
+field, which is summarized in the inset to Fig. 1(a). At higher
+temperatures (T > 100 K), the resistivity curves measured in different H
+merge into one single curve, while large negative magnetoresistivity
+(MR) is observed at low temperatures (T < 100 K). This can be seen more
+clearly from Fig. 1(b) and its inset, which plots the T dependence of
+ρ(9T)/ρ(0T) − 1 and the H dependence of ρ(H)/ρ(0T) − 1, respectively.
+
+The large negative MR (with a magnitude up to 80
+
+Below T_(peak), the resistivity curve shows a kink at 5.5 K, which can
+be seen more clearly from the enlarged part of the low-temperature
+resistivity curve [Fig. 2(a), left axis]. Such a resistivity kink is due
+to an antiferromagnetic (AFM) phase transition previously determined by
+neutron diffraction measurements [23]. The magnetization M vs T curves
+measured at H = 1 kOe in both zero-field-cooled (ZFC) and field-cooled
+(FC) conditions are also shown in Fig. 2(a) (right axis), which suggest
+an AFM transition at T_(N) = 5.5 K. Below T_(N), the magnetization shows
+irreversibility, which may be
+
+Figure 1: (a) The resistivity ρ vs temperature T data for TbPdBi from 50
+mK to 300 K under applied magnetic field H = 0, 1, 3, 5, 9 T. Inset: the
+T dependence of the resistivity peak in different magnetic field,
+H_(peak). (b) The magnetoresistivity ρ(9T)/ρ(0T) − 1 vs temperature T.
+Inset shows ρ(H)/ρ(0T) − 1 vs H at different temperatures,
+T = 2, 10, 20, 30, 40, 50, 60, 100, 150, 300 K.
+
+l c c c c c Atom & Wyckoff & Occupancy & x & y & z & U_(eq)
+Bi & 4b & 1 & 1/2 & 1/2 & 1/2 & 0.0089(11)
+Tb & 4a & 1 & 0 & 0 & 0 & 0.0112(16)
+Pd & 4d & 1 & 3/4 & 3/4 & 0.013(2)
+
+Table 1: Structural parameters of TbPdBi determined by single-crystal
+XRD measurements at 293(2) K. Space group: $F\overline{4}3m$ (No. 216).
+Lattice parameters: a = 6.653 10(10) Å, b = 6.653 10(10) Å, c = 6.653
+10(10) Å, α = β = γ = 90°. R₁ = 0.0351; wR₂ = 0.0836; U_(eq) is defined
+as one-third of the trace of the orthogonalized U_(ij) tensor (Å²).
+
+caused by moment canting. Note that below T_(N), the magnitude of the
+magnetoresistivity ρ(9T)/ρ(0T) − 1 decreases with decreasing
+temperature, although it remains negative [see Fig. 1(b)].
+
+With further decreasing temperature, the resistivity drops sharply at
+1.7 K, down to zero at 1.58 K, signaling an onset superconducting
+transition at 1.7 K. The T_(c) of 1.7 K is almost the same as that of
+LuPdBi which was reported to have the highest superconducting transition
+temperature among the superconductors found in the half-Heusler family
+or other noncentrosymmetric systems [25]. Although TbPdBi was previously
+studied, its superconductivity was not reported [23]. Previous transport
+measurements showed its resistivity exhibits a tendency of drop at about
+0.5 K, but does not decrease to zero [23]. This implies the sample used
+in our study somewhat differs from the sample used in previous work. In
+order to clarify such a possible sample dependence of superconductivity,
+we have examined several samples from different batches and found all of
+them show superconductivity. We also compared the transport measurements
+on the samples whose leads are prepared using silver paste and silver
+epoxy, respectively. The silver paste did not require baking, while the
+silver epoxy did. Both samples also showed the same superconductivity,
+which excludes the possibility that the superconducting phase we
+observed in TbPdBi is induced by heating. One possible reason for the
+difference between our sample and the reported one [23] is that the
+reported sample likely involves nonstoichiometry, causing inhomogeneous
+superconductivity. The tendency of resistivity drop below 0.5 K observed
+in the reported sample is indeed a signature of inhomogeneous
+superconductivity. Note that recent penetration depth measurements also
+verified the superconductivity of TbPdBi [26].
+
+We also performed specific heat measurements on the TbPdBi sample.
+Figure 2(b) shows the temperature dependence of the specific heat ratio,
+C_(P)/T, measured at H = 0 and H = 3 T. From the zero-field specific
+heat data, it is found that there is a sharp jump at T_(N) = 4.86 K,
+which is coincident with the antiferromagnetic phase transition probed
+by resistivity and magnetization measurements. The magnitude of the jump
+is in the order of J/mol K², consistent with the previous report [23],
+suggesting a huge release of magnetic entropy. With H = 3 T, the peak
+position of C_(P)/T remains unchanged but the magnitude of the peak gets
+suppressed. In addition, the 0 T data shows a humplike anomaly at lower
+temperatures, which is likely to originate from the change of spin
+structure. However, we did not observe a clear superconducting anomaly
+in C/T at T_(c), similar to the scenario seen in other half-Heusler
+superconductors such as YPtBi [9] and HoPtBi [27]. This can possibly be
+attributed to a small effective mass of quasiparticles, thus resulting
+in electronic specific heat anomaly being too small to be observed.
+
+Figure 3(a) shows the ρ vs T curves measured under different applied
+magnetic field H = 0, 0.2, 0.4, 0.6, 0.8, 1, 1.2, 1.4, 1.6, 1.8, 2, 3,
+5, 7, and 9 T below 2 K. With increasing magnetic fields, the
+superconducting transition temperature is gradually suppressed to zero
+and the transition width becomes broader. The onset of the
+superconducting transition temperature $T_{c}^{\rm onset}$ is defined as
+the cross point of the two extrapolated straight lines, as shown in Fig.
+3(a). In zero magnetic field, $T_{c}^{\rm onset}$ is determined to be
+1.7 K. Based on these data, we obtain the temperature dependence of the
+upper critical field H_(c2), as shown in Fig. 4(a) (circles). Note that
+H_(c2) shows almost linear behavior in the whole measured temperature
+range and there is no sign of saturation at low temperatures, similar to
+what is observed in YPtBi [5].
+
+The value of H_(c2) at 0 K estimated from linear extrapolation is 2.4 T.
+Here we can estimate the superconducting coherence length at zero
+temperature, $\xi=(\frac{\sigma_{0}}{2H_{c2}})^{1/2}=12$ nm. Note that
+the value of H_(c2) for TbPdBi is comparable with that of other
+RPdBi/RPtBi superconductors. For example, H_(c2)(0) is 2.2 T for LuPdBi
+[25] and 1.5 T for YPtBi [5]. We also evaluate the orbital limiting
+field using the weak-coupling Werthamer-Helfand-Hohenberg (WHH) formula
+in the clean limit, H_(orb) = 0.69T_(c)[−4H_(c2)/dT]_(T_(c)) = 18 T. The
+Pauli limiting field $H_{p}=\Delta/(\sqrt{2}\mu_{B})$ where
+Δ = 1.76k_(B)T_(c) can be estimated to be 3.2 T. Since
+H_(orb) < H_(c2) < H_(P), superconductivity in TbPdBi is orbital
+limited. But the fact that H_(c2) is larger than the weak-coupling WHH
+estimation of H_(orb) indicates that spin-orbital coupling is important
+in this material. In addition, the linear temperature dependence of
+H_(c2) suggests an unusual superconducting state. In the absence of
+inversion
+
+Figure 2: (a) Left axis: The low-temperature part of the ρ vs T curve at
+zero magnetic field. Right axis: Magnetization measurements on TbPdBi
+with applied magnetic field H = 1 kO in zero-field-cooled (ZFC) and
+field-cooled (FC) conditions. (b) The temperature T dependence of the
+specific heat ratio C_(P)/T at H = 0 and H = 3 T.
+
+center, this may point to a possible mixed singlet-triplet pairing state
+[10].
+
+It is interesting to note that a resistivity plateau emerges at low
+temperatures when the superconductivity is completely suppressed above H
+= 3 T [see Fig. 3(a)]. For a topological insulator, the surface which is
+in contact with air is metallic whereas the bulk is insulating, as a
+result of time-reversal symmetry protecting the metallic surface modes
+of topological insulators. The transport signature of such a surface
+state is a plateau that arrests the exponential divergence of the
+insulating bulk with decreasing temperature. A resistivity plateau is
+reported in Bi₂Te₂Se [28], SmB₆[29], LaSb [30], TaSb₂[31], and also in
+similar half-Heusler compound LuPbBi [11]. Hence, the resistivity
+plateau observed in TbPdBi implies that its electronic band structure
+involves nontrivial band topology. Further band-structure calculations
+and angle-resolved photoemission spectroscopy measurements are needed to
+reveal its nature.
+
+Figure 3(b) shows the H dependence of the ρ at several selected
+temperatures, T = 0.29, 0.56, 1, 1.5, 2.2, and 2.5 K. Note that there is
+a crossover from positive MR to negative MR behavior at H^(*)(T^(*)),
+which disappears at higher temperatures. Figure 4(a) (squares) shows the
+magnetic field dependence of T^(*), which increases with decreasing
+magnetic field. The origin of H^(*)(T^(*)) (position of MR peak) and its
+relationship to the superconductivity is not clear yet, which requires
+further study.
+
+The Hall resistivity ρ_(xy) vs magnetic field H at T = 2.2 and 300 K is
+plotted in Fig. 4(b). At T = 300 K, the linear dependence of ρ_(xy) on
+the magnetic field indicates that one type of charge carrier dominates
+the transport properties at this particular temperature. Based on the
+one-carrier model, the carrier density n is then estimated to be
+9.43×10¹⁸ cm⁻³, comparable with other half-Heusler compounds [5,23,25].
+Such a low carrier density might explain why the specific-heat data do
+not exhibit a discernible signature of T_(c). At low temperatures, T =
+2.2 K, ρ_(xy) is no longer linearly dependent on H, suggesting more
+complicated band structure. This is different from LuPdBi, where ρ_(xy)
+is linear in H at both T = 2 K and T = 300 K [25].
+
+## IV Summary
+
+In summary, we report superconductivity with T_(c) of 1.7 K in the
+antiferromagnetic half-Heusler compound TbPdBi, which has an unusual
+normal state with large negative magnetoresistivity. The resistivity
+plateau at low temperature under magnetic field suggests possible
+nontrivial band topology. The upper critical field H_(c2) shows unusual
+linear dependence
+
+Figure 4: (a) The magnetic field H vs temperature T phase diagram. The
+circles represent the onset superconducting transition temperature
+$T_{c}^{\rm onset}$. The squares denote T^(*), the crossover temperature
+of the positive MR to negative MR behavior at low temperatures. (b) The
+Hall resistivity ρ_(xy) vs magnetic field H at T = 2.2 and 300 K.
+
+Figure 3: (a) The resistivity ρ vs temperature T for TbPdBi measured in
+a dilution refrigerator with applied magnetic field H = 0, 0.2, 0.4,
+0.6, 0.8, 1, 1.2, 1.4, 1.6, 1.8, 2, 3, 5, 7, and 9 T. (b) The
+resistivity ρ vs magnetic field H for TbPdBi at different temperatures,
+T = 0.29, 0.56, 1, 1.5, 2.2, and 2.5 K.
+
+on temperature, implying unconventional superconductivity. Thus, TbPdBi
+provides a new platform to study the interplay of topological states,
+superconductivity, and magnetism.
+
+###### Acknowledgements.
+
+We thank Peijie Sun from IOP, CAS; Haiyan Zheng and Xiaohuan Lin from
+HPSTAR, and Hui Zhang from SIMIT for helpful discussions. Work at HPSTAR
+was supported by NSAF, Grant No. U1530402. Work at SIMIT was supported
+by NSFC, Grant No. 11574338. The efforts of sample growth and a part of
+data analysis at Tulane were supported by the U.S. Department of Energy
+under EPSCOR Grant No. DE-SC0012432 with additional support from
+Louisiana Board of Regents. G.M. acknowledge the support from the Youth
+Innovation Promotion Association of the Chinese Academy of Sciences
+(Grant No. 2015187). K.L. acknowledge the support from NSFC (Grant No.
+21771011).
+
+## References
+
+* [1] W. Al-Sawai, H. Lin, R. S. Markiewicz, L. A. Wray, Y. Xia, S.-Y.
+Xu, M. Z. Hasan, and A. Bansil, Phys. Rev. B **82**, 125208 (2010). *
+[2] D. Xiao, Y. Yao, W. Feng, J. Wen, W. Zhu, X.-Q. Chen, G. M. Stocks,
+and Z. Zhang, Phys. Rev. Lett. **105**, 096404 (2010). * [3] S. Chadov,
+X. Qi, J. Kubler, G. H. Fecher, C. Felser, and S. C. Zhang, Nat. Mater.
+**9**, 541 (2010). * [4] H. Lin, L. A. Wray, Y. Xia, S. Xu, S. Jia, R.
+J. Cava, A. Bansil, and M. Z. Hasan, Nat. Mater. **9**, 546 (2010). *
+[5] N. P. Butch, P. Syers, K. Kirshenbaum, A. P. Hope, and J. Paglione,
+Phys. Rev. B **84**, 220504 (2011). * [6] T. V. Bay, T. Naka, Y. K.
+Huang, and A. de Visser, Phys. Rev. B **86**, 064515 (2012). * [7] M.
+Meinert, Phys. Rev. Lett. **116**, 137001 (2016). * [8] A. Kronenberg,
+J. Braun, J. Minar, H.-J. Elmers, D. Kutnyakhov, A. V. Zaporozhchenko,
+R. Wallauer, S. Chernov, K. Medjanik, G. Schonhense, M. Klaui, S.
+Chadov, H. Ebert, and M. Jourdan, Phys. Rev. B **94**, 161108 (2016). *
+[9] O. Pavlosiuk, D. Kaczorowski, and P. Wisniewski, Phys. Rev. B
+**94**, 035130 (2016). * [10] F. F. Tafti, T. Fujii, A. Juneau-Fecteau,
+S. Rene de Cotret, N. Doiron-Leyraud, A. Asamitsu, and L. Taillefer,
+Phys. Rev. B **87**, 184504 (2013). * [11] Z. Hou, W. Wang, G. Xu, X.
+Zhang, Z. Wei, S. Shen, E. Liu, Y. Yao, Y. Chai, Y. Sun, X. Xi, W. Wang,
+Z. Liu, G. Wu, and X.-X. Zhang, Phys. Rev. B **92**, 235134 (2015). *
+[12] C. Liu, Y. Lee, T. Kondo, E. D. Mun, M. Caudle, B. N. Harmon, S. L.
+Bud’ko, P. C. Canfield, and A. Kaminski, Phys. Rev. B **83**, 205133
+(2011). * [13] E. Mun, S. L. Bud’ko, and P. C. Canfield, Phys. Rev. B
+**93**, 115134 (2016). * [14] H. Kim, K. Wang, Y. Nakajima, R. Hu, S.
+Ziemak, P. Syers, L. Wang, H. Hodovanets, J. D. Denlinger, P. M. R.
+Brydon, D. F. Agterberg, M. A. Tanatar, R. Prozorov, and J. Paglione,
+Sci. Adv. **4**, eaao4513 (2018). * [15] P. M. R. Brydon, L. Wang, M.
+Weinert, and D. F. Agterberg, Phys. Rev. Lett. **116**, 177001 (2016). *
+[16] W. Yang, T. Xiang, and C. Wu, Phys. Rev. B **96**, 144514 (2017). *
+[17] L. Savary, J. Ruhman, J. W. F. Venderbos, L. Fu, and P. A. Lee,
+Phys. Rev. B **96**, 214514 (2017). * [18] J. W. F. Venderbos, L.
+Savary, J. Ruhman, P. A. Lee, and L. Fu, Phys. Rev. X **8**, 011029
+(2018). * [19] I. Boettcher and I. F. Herbut, Phys. Rev. Lett. **120**,
+057002 (2018). * [20] B. Roy, M. P. Kennett, K. Yang, and V. Juricic,
+arXiv:1802.02134. * [21] A. Banerjee, A. Fang, C. Adamo, P. Wu, E.
+Levenson-Falk, A. Kapitulnik, S. Chandra, B. Yan, and C. Felser, March
+Meeting 2015 abstract T25.00005. * [22] K. Gofryk, D. Kaczorowski, T.
+Plackowski, A. Leithe-Jasper, and Y. Grin, Phys. Rev. B **84**, 035208
+(2011). * [23] Y. Nakajima, R. Hu, K. Kirshenbaum, A. Hughes, P. Syers,
+X. Wang, K. Wang, R. Wang, S. R. Saha, D. Pratt, J. W. Lynn, and J.
+Paglione, Sci. Adv. **1**, e1500242 (2015). * [24] X. Huang, L. Zhao, Y.
+Long, P. Wang, D. Chen, Z. Yang, H. Liang, M. Xue, H. Weng, Z. Fang, X.
+Dai, and G. Chen, Phys. Rev. X **5**, 031023 (2015). * [25] G. Xu, W.
+Wang, X. Zhang, Y. Du, E. Liu, S. Wang, G. Wu, Z. Liu, and X. X. Zhang,
+Sci. Rep. **4**, 5709 (2014). * [26] S. M. A. Radmanesh, Y. L. Zhu, Z.
+Q. Mao, and L. Spinu (unpublished). * [27] O. Pavlosiuk, D. Kaczorowski,
+X. Fabreges, A. Gukasov, and P. Wisniewski, Sci. Rep. **6**, 18797
+(2016). * [28] Z. Ren, A. A. Taskin, S. Sasaki, K. Segawa, and Y. Ando,
+Phys. Rev. B **82**, 241306 (2010). * [29] D. J. Kim, S. Thomas, T.
+Grant, J. Botimer, Z. Fisk, and J. Xia, Sci. Rep. **3**, 3150 (2013). *
+[30] F. F. Tafti, Q. D. Gibson, S. K. Kushwaha, N. Haldolaarachchige,
+and R. J. Cava, Nat. Phys. **12**, 272 (2016). * [31] Y. Li, L. Li, J.
+Wang, T. Wang, X. Xu, C. Xi, C. Cao, and J. Dai, Phys. Rev. B **94**,
+121115 (2016).

@@ -1,0 +1,838 @@
+# Thermoelectric power in single-layer copper oxides
+
+J.-S. Zhou and J. B. Goodenough
+
+Center for Materials Science and Engineering, ETC 9.102, University of
+Texas at Austin, Austin, Texas 78712-1063
+
+###### Abstract
+
+The temperature variation of the thermoelectric power has been measured
+and used as a diagnostic tool to determine the character of the charge
+carriers in the normal state of the superconductive copper oxides and in
+the overdoped compositions. We used copper oxides with single CuO2
+sheets separated by nonsuperconductive layers that are not charge
+reservoirs in order to simplify interpretation of the data. Both the
+superconductive and the overdoped samples are characterized by a "hump"
+in the variation of the Seebeck coefficient a with temperature T that is
+superposed on a weakly temperature-dependent background term a0 that
+decreases systematically with increased doping in the superconductive
+phase to a small, doping-independent value in the overdoped samples.
+Perturbation of the periodic potential in the CuO2 sheets and increasing
+the separation between the sheets suppresses both the hump in a versus T
+and superconductivity. The maximum in the hump occurs at _T_max 140 K,
+which requires a characteristic energy for any enhancement mechanism
+that is higher than can be provided by acoustic phonons. It is difficult
+for theoretical models of the normal state that are based only on
+electron-electron and/or conventional electron-phonon interactions to
+explain these data. However, we can interpret the hump with a
+mass-enhancement phenomenon that utilizes vibronic coupling of electrons
+to optical-mode lattice vibrations. From a first-principles analysis of
+the thermopower data, we distinguish two closely related types of the
+itinerant-particle state: one is applicable to the normal state of the
+copper-oxide superconductor compositions in the temperature range _T_c <
+T < 300 K and the other to the overdoped phase.
+
+## Introduction
+
+At the present time there is no consensus on the character of the normal
+state of the high-_T_c copper oxides. To address this problem, we have
+undertaken measurements of the thermoelectric power versus temperature
+for several single-layer copper oxides at the optimum doping
+concentration and we have extended our earlier measurements1 of the
+temperature dependence of the Seebeck coefficient versus temperature in
+the system La2-_x_Sr_CuO4 to include the transition from optimally doped
+to overdoped samples, 0.15 <= x <= 0.30; the earlier study addressed the
+underdoped to optimally doped range 0 <= x <= 0.15. We have chosen
+copper oxides with single CuO2 sheets between nonsuperconductive layers
+that are not charge reservoirs for two reasons: (1) they allow a study
+of the evolution of properties as the interlayer spacing is changed or
+the coordination of the copper in the CuO2 sheets is perturbed so as to
+suppress superconductivity at optimum doping and (2) they avoid any
+contribution to the Seebeck coefficient from "charge reservoirs" in the
+nonsuperconductive intergrowth layers.
+
+Our lack of understanding of the normal state of the superconductive
+CuO2 sheets has been highlighted by attempts to interpret the transport
+properties. For example, a resistivity r   T extends to highest
+temperatures T without saturation on approaching the mobility limit
+imposed by the Boltzmann transport theorem;2 the Hall coefficient R_(H)
+is temperature dependent to high T and its scaling temperature is
+outside the Debye temperature range;3 the temperature dependence of the
+Seebeck coefficient, a versus T, shows a broad maximum below room
+temperature that can be characterized by a hump superposed on a weakly
+temperature-dependent background to give a maximum  15 _m_/_K_ added
+contribution to the background a at _T_max 140 K.1 The hump in the a
+versus T curve cannot be accounted for easily by either phonon drag or
+the mass-enhancement mechanism found in metals and alloys. These
+discrepancies combined with the fact that the isotope effect is near
+zero for optimally doped samples have reinforced our awareness of the
+breakdown of a Fermi-liquid model that is supplemented by
+electron-phonon interactions describable within the Migdal perturbative
+approximation.
+
+In this paper, we point out that models based only on electron-electron,
+including magnetic, interactions and/or on conventional electron-phonon
+interactions have difficulty accounting for the transport data. With an
+alternate starting point,4 we have proposed a model based on the
+observation of a crossover from "ionic" Cu-O bonding in the parent
+antiferromagnetic phase to covalent bonding in the overdoped metallic
+phase and on evidence of a double-well potential at such a crossover,
+which can lead to a vibronic valence-fluctuation resonance. The model
+begins with the definition of a new type of large polaron, a correlation
+polaron, that moves with zero motional enthalpy and has a size of the
+order of 4-6 Cu atoms and their coordinating oxygen atoms. Inside such a
+polaron, vibronic valence fluctuations suppress the on-site
+electrostatic (correlation) energy U responsible for stabilizing
+localized spins at the Cu atoms in the ionically bonded region outside
+the polaron. At higher temperatures T > T_(l), the polarons of a
+superconductive composition form a polaron gas; at _T_c < T < T_(l) the
+polarons condense into a polaron liquid, which represents a
+distinguishable thermodynamic state. The high-_T__c_ superconductive
+state is condensed from such a polaron-liquid normal state; at higher
+doping, the polaron concentration is too high to sustain the polaron
+liquid, but the valence fluctuations persist to give an anomalous
+overdoped metallic phase.
+
+Several significant theoretical advances have recently been made that
+support such a starting point. Yonemitsu, Bishop, and Lorenzana[5] have
+shown that modulation of the overlap integral in a Cu-O bond by
+bond-length vibration can suppress the magnetic moment on the Cu atoms
+as postulated for the interior of a correlation polaron; Kresin and
+Wolf[6] have argued that the isotope effect in the optimally doped
+composition may be near zero provided the Cu-O bond potential is either
+anharmonic or has a double well; Ishihara, Egami, and Tachiki[7] have
+demonstrated that at the crossover from ionic to covalent bonding the
+electron-phonon interactions are too strong to be treatable in a
+perturbation approximation, which is also the case where a vibronic
+state is stable; and Emin[8] has developed his large bipolaron theory to
+argue that a bipolaron liquid can be stabilized at a doping density
+intermediate between that for a large bipolaron gas and that for a
+metallic state, an argument that should also apply to large correlation
+polarons.
+
+## Experiment
+
+Samples of La2-xSr2CuO4, (La1-xNd_x_)1.85Sr0.15CuO4, and
+La0.85Sr1.15GaCuO5 were prepared from the corresponding oxides and SrCO3
+by standard ceramic techniques. The La2-xSr2CuO4 system was annealed at
+900 degC in oxygen for one month, the other samples for 2-3 days. The
+oxygen stoichiometry of the products was determined by iodometric
+titration. The oxygen content of samples La2-xSr2CuO4, 0.15 <= x <=
+0.30, were all 3.99 +- 0.01 per formula unit. The lattice parameters
+evolved monotonically with x and there were no impurity phases present
+in any of our samples to room-temperature x-ray diffraction. The
+existence of a solid solution at room temperature over the entire range
+0 <= x <= 0.30 has been carefully monitored by precise scanning of
+several x-ray diffraction peaks and curve fitting to Lorentzian peaks.
+The temperature dependences of the resistances for ceramic samples of
+this system have been published;[9] the data were comparable to
+published single-crystal data. Quenching in air from 1210 degC reduced
+the oxygen content for a sample La1.65Sr0.35CuO4-8 to 4-8 = 3.9. On
+increasing x in (La1-xNd_x_)1.85Sr0.15CuO4-8, the small oxygen
+deficiency d increased; a slight oxygen deficiency (4.98 +- 0.01) was
+also found in La0.85Sr1.15CuO5. All samples were single phase to x-ray
+powder diffraction. The Seebeck coefficient and high-temperature
+conductivity were measured with homemade apparatus that has been
+described elsewhere.[1] A correction for the contribution from the Cu
+leads was made to measurements of the Seebeck coefficient.
+
+## Results
+
+Figure 1 shows the temperature dependences of the Seebeck coefficients
+in the range 20 < T < 300 K for the optimally doped superconductor
+La1.85Sr0.15CuO4 and an oxygen-deficient nonsuperconductive composition
+La1.65Sr0.35CuO3.90. The two curves of Fig. 1 are plotted together for
+comparison because they have the same number of holes per Cu atom in
+their CuO2 sheets. Comparison with single-crystal data[10] has shown
+that a measured on polycrystalline samples corresponds to the
+contribution from the CuO2 sheets. We assume that the oxygen vacancies
+in La1.65Sr0.35CuO3.90 are located at the apical-oxygen sites, see
+insert Fig. 1. The vacancies suppress the superconductivity to be
+expected for 0.15 holes per Cu atom in the lower x 2- y 2 Hubbard band
+of the CuO2 sheets. Suppression of the superconductivity
+
+Figure 1: Seebeck coefficient _α_ versus temperature T for two samples
+with the same oxidation state of the CuO2 sheets in the La2−xSr2CuO4−8
+system. Inserts show oxygen vacancies introduced at apical sites for
+La1.65Sr0.35CuO3.9
+
+occurs universally where Cu atoms of the same CuO₂ sheet have different
+oxygen coordination, which perturbs the periodic potential in a sheet.
+Resistance measurements down to 10 K showed the sample to be
+semiconductive.
+
+Above room temperature, each sample of Fig. 1 has an α ≈ 20μV/K that is
+weakly temperature dependent.1 This behavior could be characteristic of
+a polaron gas, which has its Seebeck coefficient dominated by a
+statistical contribution that depends only on the hole concentration;
+the hole concentrations in the CuO₂ sheets are the same in the two
+samples. The two curves of Fig. 1 diverge below room temperature; the
+superconductive phase has an added contribution δα to α, i.e.,
+α = α₀ + δα, that gives a broad maximum in α versus T at
+$T_{\rm max} \approx 140$ K. The added contribution, which corresponds
+to the difference between the two curves, has the form of a "hump;" it
+is characteristic of the normal-state Seebeck data of all copper-oxide
+superconductors in a temperature interval T_(c) < T < T_(l), where
+T_(l) ≈ 300 K, provided there is no contribution to α from
+nonsuperconductive layers. This observation demonstrates that the added
+hump arises from a change in the character of the mobile holes below
+T_(l) in the normal state of the superconductive CuO₂ sheets and that
+this change requires a periodic potential and itinerant states in these
+sheets. We have suggested that the change is due to condensation of the
+polaron gas present at T > T_(l) into a polaron liquid at T < T_(l);4
+this condensation introduces a dispersion of the momenta of
+one-quasiparticle states.
+
+Figure 2 shows the influence of substituting Nd for La on the α versus T
+curve of superconductive (La_(1 − x)Nd_(x))_(1.85)Sr_(0.15)CuO_(4 − δ),
+0 ≤ x ≤ 0.08. The single-phase T/O structure is maintained over this
+compositional range, but some small (δ ≈ 0.02) oxygen deficiency was
+observed for x > 0. The concentration of oxygen vacancies was not large
+enough to suppress T_(c), but it did systematically reduce the
+concentration of holes in the CuO₂ sheets with increasing x. This
+decrease manifests itself in the weakly temperature-dependent
+background; it increases with x. The shape and magnitude of the added
+hump remains essentially unchanged even though perturbation of the
+periodic Cu-atom potential from the oxygen vacancies lowers T_(c).
+
+Figure 3 shows the variation of α with T for the composition
+La_(0.85)Sr_(1.15)CuO₅, which again contains single CuO₂ sheets that are
+doped to 0.15 hole per Cu atom in the lower x² − y² Hubbard band.
+Resistance measurements showed the sample to be semiconductive over the
+measuring range 10 ≤ T ≤ 300 K. The width of the nonsuperconductive
+layer is increased by the insertion, between rocksalt (001) planes, of a
+CaO layer in which the oxygen vacancies are ordered so as to give
+corner-shared GaO₄ tetrahedra,11 see insert of Fig. 3. This phase is
+activated in its conductivity and is not superconductive; the hump in
+the α versus T curve is missing.
+
+Figure 4 shows the influence on α versus T of overdoping the system
+La_(2 − x)Sr_(x)CuO₄ over the range 0.15 ≤ x ≤ 0.30. Significantly, the
+weakly temperature-dependent background to α decreases systematically
+with increased hole doping through the superconductive compositions
+0.15 ≤ x ≤ 0.26, but it becomes small and doping independent in the
+overdoped phase. Nevertheless the added δα hump contribution with a
+$T_{\rm max} \approx 140$ K is retained although the magnitude of the
+contribution at $T_{\rm max}$ is reduced. The anomalous metallic
+properties in the overdoped samples clearly retain the peculiar
+characteristic of the normal state of the superconductive samples that
+is responsible for the added hump in the α versus T curves. This
+observation prompts a reexamination of the evolution with x of the
+temperature dependence of the resistance R over the compositional range
+0.15 ≤ x ≤ 0.3.
+
+The temperature dependence of our high-temperature measurements of
+resistance R for La_(2 − x)Sr_(x)CuO₄, 0.15 ≤ x ≤ 0.3, exhibited two
+distinguishable temperature domains; R increased linearly with T in the
+interval T_(c) < T < T_(u); for T > T_(u), it could be fit to the
+formula R = a₀ + a₁T^(′) with 1.0 < y ≤ 1.2 increasing with x. Figure 5
+shows four typical R versus T curves, normalized to room temperature
+between room temperature and 550^(∘)C. In sample x = 0.15, a perfect
+linear temperature dependence is found to an upper-limit temperature
+T_(u) = 350^(∘)C. The temperature T_(c) decreases with increasing x to
+250^(∘)C at x = 0.19; it falls to about 150^(∘)C for x = 0.2, see Fig.
+6, but the interval T_(c) < T < T_(u) remains finite for all
+superconductive samples. Figure 6 also shows that y increases
+monotonically with x to a maximum near x = 0.27, the doping limit beyond
+which the sharp transition in resistance at T_(c) and any significant
+Meissner fraction disappear; a T_(u) > T_(c) cannot be identified at
+x = 0.27, and α does not evolve further with increasing x.
+
+Low-temperature resistance and Seebeck data for La_(2 − x)Sr_(x)CuO₄
+have already been published.[9] Comparison of our value of y with that
+given by Takagi _et al.[2]_ for the overdoped samples shows a
+discrepancy arising from the analysis of the data. Whereas Takagi _et
+al._ used the entire temperature range T > T_(c) to fit their data to a
+ρ = a₀ + a₁T^(n) dependence, we restrict ourselves to T > 300 K because
+at lower temperatures an n ≈ 2 is found. If the entire temperature range
+is included, our y ≈ 1.2 would be increased to y ≈ 1.5 as reported by
+Takagi _et al._
+
+Figure 4: Seebeck coefficient α versus temperature T for the system
+La_(2 − x)Sr_(x)CuO₄, 0.15 ≤ x ≤ 0.28.
+
+Figure 3: Seebeck coefficient α versus temperature T for
+La_(0.85)Sr_(1.15)GaCuO_(5 − ϕ).
+
+## Discussion
+
+In an optimally doped CuO2 sheet, the normal state below room
+temperature can be classified as consisting of itinerant charge
+carriers: it exhibits a well-defined Fermi surface, a low and only
+weakly temperature-dependent magnetic susceptibility, and metallic
+conduction. Itinerancy is conventionally described within the framework
+of Fermi-liquid theory and the Boltzmann adiabatic approximation for the
+electron-phonon interactions. We first show that this framework is
+unable to account for our data or those of other experiments selected
+from the literature. We consider electronic interactions with acoustic
+phonons as well as the various electron-electron interactions that have
+been proposed. Next we turn to valence fluctuations, which depend on
+fluctuations in the Cu:3_d_-O:2p hybridization in the Cu-O bonds; we
+show that within the framework of a mass-enhancement phenomenon,
+vibronic coupling to optical-mode lattice vibrations can give a
+characteristic energy that is high enough to account for the 8a hump
+with a $T_{\rm max}\approx$ 140 K. The mass-enhancement mechanism
+depends on the details of the dispersion curves near the Fermi energy
+ϵ_(F) as also does the magnitude of the background contribution α₀ to α.
+We show that valence fluctuations can account for the hump in α and that
+the data distinguish different dispersion curves for the superconductive
+and the overdoped compositions. The dispersion curve for the
+superconductive samples contains an unusual gap at the mid-band position
+that can be accounted for if the normal state is a polaron liquid; the
+gap disappears in the overdoped compositions.
+
+### Fermi liquid
+
+In Fermi-liquid theory, the electrons and phonons of a solid are treated
+adiabatically. Bands of itinerant one-electron or quasiparticle states
+are constructed for a static array of atoms and electron-phonon
+interactions are introduced via perturbation theory or the Boltzmann
+model in order to account for the observed transport proper
+
+Figure 5: Temperature dependence of resistance normalized to the
+resistance at room temperature R (300 **K**) for La_(2 − x)Sr_(x)CuO₄,
+x = 0.15, 0.18, 0.19, 0.20.
+
+ties. Under these conditions and at not too low a temperature, the
+Seebeck coefficient for a metal is given by Mott’s formula
+
+$$\alpha = - \frac{\pi^{2}k}{3e}kT\frac{\partial\ln\sigma(\epsilon)}{\partial \epsilon}|_{\epsilon=\epsilon_{F}}\;,$$
+
+where σ(ϵ) = f(ϵ)[1 − f(ϵ)]g(ϵ)μ(ϵ) is the product of the density of
+one-particle states g(ϵ), μ(ϵ) is the particle mobility at an energy ϵ
+relative to a band edge, and f(ϵ) is the Fermi distribution function.
+The formula is applicable where there is no singularity or abrupt change
+in the density of states near ϵ_(F). At low temperatures it is necessary
+to add to this transport term another due to either "phonon drag" or a
+"mass enhancement" arising from impurity scattering.
+
+### Phonon drag
+
+Phonon drag appears at temperatures low enough that phonon-phonon
+interactions are negligible, but high enough for the density of phonon
+states to be important. Collisions between phonons reduce the "drag" of
+electrons by the phonons in a temperature gradient. At higher phonon
+concentrations, phonon-phonon collisions cause the phonon-drag component
+of α to fall off as T⁻¹; and according to the Debye law for the specific
+heat, the number of phonons available at low temperatures to drag the
+electrons varies as T³. These temperature dependences result in an
+additional contribution δα to the Seebeck coefficient having a
+temperature dependence in the form of a hump with $T_{\rm max}$ at about
+20
+
+Cohn _et al.[16]_ have argued for a phonon-drag model in
+YBa₂Cu₃O_(7 − δ), but this material contains contributions from the Cu-O
+chains as well as the CuO₂ sheets. In their latest report on a twin-free
+crystal,[17] the chain contribution was derived to be positive. However,
+with δ = 0.04 and approximately 0.20 holes/Cu(2) in the CuO₂ sheets, the
+valence of the chain copper Cu(1) is formally 2.52 +, which corresponds
+to a y² − z² conduction band that is less than half-filled. We should
+therefore expect to find a negative contribution to the Seebeck
+coefficient. The Seebeck coefficients of doubly doped YBa₂Cu₃O_(7 − δ)
+indeed show that the contribution to α from the Cu-O chains is
+negative.[18] The origin of the positive contribution found by Cohn _et
+al.[17]_ remains unidentified; failure to subtract properly the negative
+contribution from the Cu-O chains puts into question the curve fitting
+used to argue for a phonon-drag model.
+
+### Mass enhancement
+
+A mass-enhancement contribution has been identified in metal alloys
+where a short phonon mean free path makes inapplicable a phonon-drag
+model.[19] In this model, a nonperiodic potential provides a strong
+scattering of the electrons near the Fermi surface; this scattering
+modifies the one-electron dispersion curve near the Fermi energy ϵ_(F)
+so as to enhance the mass of the charge carriers with energy near ϵ_(F).
+In this case, the Seebeck coefficient can be written as[20]
+
+α = α₀[1 + aλλ_(s)(T)] ,
+
+where α₀ is Mott’s transport term, a is a constant, λ = g(ϵ_(F))V is the
+electron-phonon coupling constant, and
+
+$$\lambda_{s} = \frac{\int d\epsilon\beta^{2}F(\epsilon)G_{s}(\epsilon/kT)/ \epsilon}{\int d\epsilon\beta^{2}F(\epsilon)/\epsilon}$$
+
+Figure 6: The compositional dependence of the parameters $T_{\rm s}$ and
+y of the expression R (T) = a₀ + a₁T^(′) applicable for T > $T_{\rm s}$.
+The lines are guides to the eye.
+
+is the normalized mass-enhancement factor. In Eq. (3), G_(s)(ϵ/kT) is a
+universal function [20] and β²F(ϵ) is the Eliashberg function.
+
+This model and a similar one based on an electron-phonon-impurity
+interference, [21] like the phonon-drag model, gives a supplemental hump
+term having a $T_{\rm max}$ about 20
+
+Figure 1 provides a test of the effect of a vacancy or defect on the
+thermopower of optimally doped CuO₂ sheets. In
+La_(1.65)Sr_(0.35)CuO_(3.90), the oxygen vacancies reduce the oxidation
+state of the CuO₂ sheets to that of La_(1.85)Sr_(0.15)CuO₄, but they
+also perturb the periodic potential at the Cu atoms. According to the
+model of mass enhancement by impurity scattering, scattering from the
+vacancies should enhance the hump in the α versus T curve; but just the
+opposite effect is observed, see Fig. 1. Similarly,
+La_(0.85)Sr_(1.15)GaCuO₅ has optimum doping of the CuO₂ sheets and is
+not superconductive; it too exhibits an α versus T curve that has no
+hump. In these samples, a large α₀ is indicative of polaronic
+conductivity, but the lack of a 8α hump in α versus T is similar to what
+is found in underdoped samples. The polaron gas of the underdoped
+samples has no dispersion of one-particle energies; we conclude that
+development of a dispersion curve and of a well-defined Fermi surface
+are necessary conditions for both superconductivity and the anomalous
+hump in the α versus T curve. In La_(1.65)Sr_(0.35)CuO_(3.90),
+perturbation of the periodic potential suppresses the development of a
+dispersion curve. In La_(0.85)Sr_(1.15)GaCuO₅, it is not clear whether
+it is the larger separation, from 13 to 16 A, of the CuO₂ sheets or a
+perturbation of the periodic potential that suppresses formation of the
+dispersion curve.
+
+Although the existence of a dispersion curve, a Fermi surface, and a
+vibronic mass enhancement appear to be necessary conditions for
+high-T_(c) superconductivity, the persistence of the 8α hump into the
+overdoped compositions shows they are not sufficient conditions. We
+postulated the formation of a polaron liquid in the superconductive
+compositions in order to introduce a dispersion of the one-particle
+energies; [4] in the overdoped region, polaron formation is inhibited by
+too large a concentration of charge carriers. A polaron liquid
+introduces two features missing from the overdoped compositions: first a
+mid-band energy gap that reflects the gap between bonding and
+antibonding states within the individual polarons and, second, retention
+of an interface between domains of vibronic and ionic Cu-O bonding.
+Across the interface, there is a discontinuity ΔU in the on-site
+electrostatic Coulomb energy. A discontinuity in the correlation energy
+ΔU and the existence of a dispersion curve are the two essential
+conditions for a "correlation-bag" model of superconductive-pair
+formation.
+
+### Electron-electron interactions
+
+Alternatively, attempts have been made to account for the hump with
+purely electron-electron interactions. For example, the
+marginal-Fermi-liquid theory gives an α that increases with decreasing
+temperature, [25] but the authors were forced to attribute the downturn
+of α below $T_{\rm max}$ to superconductive-pair fluctuations. Such an
+assumption may be reasonable enough where the superconductive layers
+contain multiple CuO₂ sheets with a T_(c) ≈ 100 K, but it is clearly
+incorrect in La_(2 − x)Sr_(x)CuO₄ where T_(c) ≈ 40 K and a
+$T_{\rm max}\!\approx\!140$ K are observed. Moreover, the resistance
+anomaly attributable to the onset of superconductive-pair fluctuations,
+about 46 K, falls well below $T_{\rm max}$; there is no resistive
+anomaly near $T_{\rm max}$. In addition, Fig. 4 demonstrates that the
+hump contribution in the La_(2 − x)Sr_(x)CuO₄ system extends into the
+compositional range where there is no superconductivity, which would
+seem to rule out the pair-fluctuation hypothesis and to cast doubt on
+the marginal-Fermi liquid as a viable candidate to describe the
+copper-oxide problem.
+
+In other purely electronic models, including the spin-fluctuation,
+spin-bag, and resonant-valence-bond (RVB) models, the characteristic
+energy that replaces the Debye energy is a low-lying magnetic
+excitation. It is important to test this hypothesis experimentally. An
+early experiment [26] indicated that α is independent of magnetic fields
+up to 30 T, but the data were taken at only three fixed temperatures. We
+[27] have measured α as a function of magnetic field from 0 to 8 T over
+a temperature range 70 < T < 300 K in La_(2 − x)Sr_(x)CuO₄. Over this
+range of magnetic field, there is no change in the α versus T curves. We
+also substituted some Nd for La to introduce an additional internal
+molecular field; but no change in the hump was observed, see Fig. 3.
+These experiments cast doubt on magnetic models that utilize magnetic
+excitations as a characteristic energy.
+
+To provide further evidence that magnetic excitations are not relevant
+to the mechanism responsible for the anomalous hump in α versus T in the
+superconductive copper oxides, we return to Fig. 4. In the overdoped
+samples, the spin fluctuations are suppressed; yet the hump persists
+with the same $T_{\rm max}\!\approx\!140$ K. Therefore we conclude that
+the characteristic energy of the mechanism responsible for the hump in
+α, and probably also for T_(c), is not magnetic in origin.
+
+## V Valence fluctuations
+
+In a transition-metal oxide, a valence fluctuation can be said to occur
+where there is a fluctuation between two states each with a different
+covalent component in the M-O bonds. Such a fluctuation requires the
+existence of a double well in the electronic potential versus M-O bond
+length. A double-well potential separating "ionic" from covalent M-O
+bonding has been found in the LNiO₃ compounds (L= rare earth).[28] In
+this context, ionic bonding occurs where the empty 3d energies are far
+enough above the valence-band edge that covalent mixing of O-2p and M-3d
+orbitals can be treated in second-order perturbation theory; the
+resulting crystal-field orbitals may then be localized or itinerant
+depending on the strength of any metal-metal or metal-oxygen-metal
+interactions. In a covalent model, the covalent mixing is treated in
+first-order theory. The more ionic M-O bond length is longer than the
+covalent bond length; kinetic energy is sacrificed in order to gain a
+greater potential energy in the more ionic bond.
+
+It has been recognized for some time[29] that a special feature of the
+superconductive copper-oxide systems is a crossover from more ionic to
+covalent bonding on oxidation of the parent antiferromagnetic sheets. In
+the parent compounds, the x²−y² band of the CuO₂ sheets is split by
+on-site Coulomb energies into an empty upper Hubbard band separated by 2
+eV from the top of the O-2p bands and a lower Hubbard band that is
+filled and, in an ionic model, lies below the top of the O-2p bands.
+Therefore oxidation of the CuO₂ sheets introduces holes that cannot
+occupy an ionic bond (they are not located in ionic O-2p bands); they
+occupy orbitals in which the Cu-3d and O-2p hybridization must be
+treated in first-order theory. Even in metallic LaCuO₃, which contains
+Cu(III) with a half-filled σ^(*) band, an important 3d component in the
+band generates a mass enhancement of the magnetic susceptibility.[30] In
+La_(2 − x)Sr_(x)CuO₄, the magnetic susceptibility also shows a
+temperature dependence extending into the overdoped compositions that
+signals the presence of an important Cu-3d component in the partially
+filled x²−y² band.[31]
+
+Oxidation of the CuO₂ sheets with increasing x in La_(2 − x)Sr_(x)CuO₄
+introduces a mixed-valent situation in which ionic and covalent bonding
+must coexist if there is no phase segregation. Coupling of the holes to
+an optical-mode lattice vibration may introduce a resonance between the
+two types of bonding rather than a static or quasistatic spatial
+resolution of the two bond types as occurs in a charge-density wave or a
+small polaron. Such a resonance would correspond to a valence
+fluctuation.
+
+Electronic specific heat provides important evidence for the presence of
+valence fluctuations in the superconductor and overdoped
+compositions.[32] The γ coefficient is near zero in the parent compound
+and remains small in the underdoped compositions. It increases with x>
+0.1 to a maximum of about 9 mJ/mol K² at x= 0.15 and essentially
+saturates on further increase of x into the overdoped compositions. This
+behavior is to be contrasted with that of La_(1 − x)Sr_(x)TiO₃ where γ
+becomes huge at the boundary of the metal-insulator transition, but
+drops dramatically with further doping into the metallic phase.[33]
+
+In our high-temperature resistance measurements, data above T_(u) fit to
+a power law. This power-law behavior is expected in a heavy Fermion or
+strongly correlated electron system. However, the linear relation
+between R and T below T_(u) indicates that, in addition to valence
+fluctuations, some other phenomenon is also present in the normal state
+of the superconductive phase.
+
+Newns and co-workers[34] and more recently Brandow[35] have developed a
+valence-fluctuation model to describe the high-T_(c) superconductors.
+Brandow, in particular, has pointed out that a valence-fluctuation state
+is thermodynamically distinguishable from the antiferromagnetic parent
+state; the material should undergo a first-order transition on passing
+from one to the other. This prediction is in accord with the observation
+of a phase segregation in the La₂CuO₄ ₊ ₅ system[36] and of evidence for
+a dynamic phase segregation below 150 K in La_(2 − x)Sr_(x)CuO₄.
+However, we will argue that the overdoped region is described by the
+valence-fluctuation model; the superconductive phase contains valence
+fluctuations within polarons formed at T<T_(u), but the normal state has
+in addition, the form of a polaron liquid at temperatures T_(c)<T<T_(l).
+
+### Valence fluctuations and thermoelectric power
+
+In the discussion of the Seebeck coefficient, we were able to rule out
+mechanisms capable of producing a 8α hump with a $T_{\rm max}$≈ 140 K if
+the characteristic energy depended on coupling to acoustic phonons.
+Where there are valence fluctuations, there is an important coupling to
+optical-mode vibrations; the characteristic energies for optical-mode
+vibrations are high enough to yield a $T_{\rm max}$≈ 140 K. Since we
+were able to rule out purely electronic mechanisms, an interaction with
+optical-mode vibrations becomes a compelling possibility.
+
+We begin with the observation that the magnitude of α decreases with
+increasing x in the superconductive phase, but not in the overdoped
+phase, whereas the added hump in α versus T persists into the
+superconductive phase. In order to clarify the situation, we start with
+a more general formula for the Seebeck coefficient[37]
+
+$$\alpha\!=\!-\frac{k}{e}\int d\epsilon\frac{(\epsilon\!-\!\epsilon_{F})}{kT} \frac{\sigma(\epsilon)}{\sigma}\ ,$$
+(4)
+
+where σ(ϵ) is the same as in Eq. (1) and σ = ∫dϵ σ(ϵ) is the total
+conductivity. From this expression, it is apparent that at a fixed
+temperature T the magnitude of α is a measure of the imbalance in the
+contributions from electrons above and below the Fermi energy ϵ_(F). For
+metals, α is clearly a minimum where the Fermi energy is at an
+inflection point in the ϵ versus k dispersion curve as pictured in Fig.
+7(a); it is at a maximum where the curvature at ϵ_(F) is largest as in
+Fig. 7(b). Expression (4) does not include the correction term δα due to
+the interaction of the charge carrier with another medium such as the
+phonons. Without losing generally, another term must be added to Eq.
+(4), which gives
+
+$$\alpha = - \frac{k}{e}\int d\epsilon\frac{[\epsilon - \epsilon_{F} + D(\epsilon,T)]}{kT}\cdot\frac{\sigma(\epsilon)}{\sigma}\ .$$
+
+From this expression, we draw two conclusions: first, the magnitude of α
+for a given temperature is determined primarily by the details of the
+dispersion curve in the vicinity of ϵ_(F) and, second, an interaction
+between the charge carrier and some other medium will change the shape
+of the ϵ vs k curves near ϵ_(F) as a function of temperature so as to
+give a hump in the α versus T curve with a T_(max) defined by a
+characteristic energy of the interaction as in the case of phonon drag
+of mass enhancement.
+
+We may deduce from these two general conclusions and the data of Fig. 4
+that the optimally doped superconductive phase has a dispersion curve
+with an important imbalance across ϵ_(F) as shown in Fig. 7(b). Normally
+this situation can only occur near the top of a band, which would mean a
+small Fermi surface. However, photoemission,[38] conductivity,[2] and
+positron-annihilation[39] experiments, among others, indicate that the
+Fermi surface is large and located a little below the half-band filling
+position predicted by band calculations[40] with no correlation energy
+(U = 0). Moreover, a mid-IR excitation[41] locates a gap somewhere near
+ϵ_(F). This situation leads to a dispersion curve for the superconductor
+phase like that of Fig. 7(c), but with a midband gap that is not opened
+up by the translational symmetry of the crystal. This is precisely the
+model we have discussed elsewhere[4] for the dispersion curve of a
+correlation-polaron liquid. For x > 0.26, the magnitude of α is small
+and does not change with doping, which indicates that in these samples
+ϵ_(F) is located in a position of the dispersion curve like that of Fig.
+7(a). This deduction means that the midband energy gap has disappeared
+as would be predicted for a transition from the polaron-liquid phase to
+a phase of homogeneous charge density of the copper atoms. Since the
+molecular orbitals inside a correlation polaron were defined as vibronic
+in character, the transition to a phase with homogeneous charge density
+may retain the vibronic character of the electron-phonon coupling. In
+fact, we have cited the variation with doping in the
+electronic-specific-heat parameter γ and power law in the
+high-temperature resistance in support of valence fluctuations in the
+overdoped samples. Interactions with the optical phonons modify the
+dispersion curve so as to increase the effective mass; these
+modifications are reflected in the mass-enhancement factor of Eq. (3),
+but with a characteristic energy that raises T_(max) from that of the
+conventional mass-enhancement factor. Significantly, these modifications
+do not create the imbalance in curvature on either side of ϵ_(F) that is
+needed to raise α₀, so α₀ falls to a small value with the closing of the
+midband energy gap whereas δα remains unaffected so long as vibronic
+coupling is retained.
+
+### Spectral weight and thermoelectric power
+
+Three important features of the Seebeck coefficients of the copper-oxide
+superconductors have been noted: (1) the large magnitude of α₀, (2) a
+dependence of α₀ on doping that is not present in the overdoped samples,
+and (3) a δα hump in the α versus T curve that persists into the
+overdoped compositions. We now make a more fundamental analysis of these
+three features.
+
+For a system in which all the charge carriers are involved in transport,
+as in a polaronic system, the Fermi energy ϵ_(F) of Eq. (4) represents a
+chemical potential μ₀. In this case, solution of Eq. (4) with a purely
+statistical term at high enough temperature leads to the Heikes formula;
+the contribution from a residual transport term is much smaller. The
+statistical term gives an important dependence on the effective
+occupancy number of the partially filled state. In contrast, this doping
+dependence is not applicable to conventional itinerant-electron systems
+with a well-developed dispersion of the one-particle energies; in this
+case, only the charge carriers near ϵ_(F) participate in charge
+transport, Fig. 8(a). As a result, conventional itinerant-electron
+systems are described by Mott’s formula, Eq. (1), and α depends on
+doping only through the density of one-particle states g(ϵ) at ϵ_(F). We
+observe, Fig. 4, such an insensitivity to doping in the overdoped
+compositions, but not in the superconductive samples even though the
+superconductors exhibit an itinerant-particle character in the
+temperature range T_(c) < T < T_(I). This observation signals an
+important distinction between the normal state of the superconductive
+phase at temperatures T < T_(u) and the overdoped compositions. On the
+other hand, a δα hump with a T_(max) ≈ 140 K in both the superconductive
+and the overdoped compositions signals that, though distinguishable,
+these two compositional ranges have a common feature that distinguishes
+them both from conventional metals. We have
+
+Figure 7: Schematic dispersion curves for (a) a conventional metal, (b)
+a conventional metal with a small Fermi surface, and (c) a p-type
+polaron liquid all with mass enhancement (see inserts).
+
+argued above that the common feature can be accommodated in a
+charge-fluctuation model in which the mobile holes occupy itinerant
+vibronic states formed by a strong coupling of the mobile holes to
+optical phonons. We consider now what feature can distinguish the normal
+state of the superconductors from the overdoped samples.
+
+In a previous paper,4 we pointed out that if the holes introduced into
+the CuO2 sheets by doping form large correlation polarons, then spectral
+weight is transferred from the upper and lower Hubbard bands to the
+energy gap between them; this spectral weight is associated with the
+vibronic molecular orbitals formed within each polaron. Moreover, for
+x > 0.1 and T < T_(i), we postulated a condensation of the gas of
+correlation polarons into a polaron liquid. Strong coupling between
+polarons in the polaron-liquid state organizes the states transferred
+from the Hubbard bands into the gap so that they exhibit a narrow band
+of itinerant-particle states having k as a good quantum number, while
+retaining an energy gap at the midband position; the gap reflects the
+bonding and antibonding character of the vibronic molecular orbitals
+inside each polaron. Because ionic and vibronic Cu-O bonding continue to
+coexist in the polaron liquid, residual states corresponding to the
+ionic Cu-O bonds remain in the positions of the upper and lower Hubbard
+bands, see Fig. 8(b). So long as the original Hubbard x² − y² bands
+retain ionic-bond states, additional doping can bring new states into
+the energy domain near ϵ_(F); α₀ remains doping dependent because the
+number of states near ϵ_(F) changes with doping via spectral-weight
+transfer. With this model, which represents a unique way to interpret
+the doping dependence of α₀ only in the underdoped and superconductive
+compositions, the superconductive phase is distinguished from the
+underdoped polaron gas compositions by the formation of itinerant states
+in a polaron liquid and it is distinguished from the overdoped
+compositions by retention of states in the upper and lower Hubbard bands
+that are associated with the residual ionic Cu-O bonding in the
+polaron-liquid state. In addition, the superconductive compositions are
+distinguished from the overdoped compositions by retention of a midband
+energy gap that also disappears with the states in the two Hubbard bands
+in the transition to the overdoped phase. It is only at temperatures
+T > T_(u) that the superconductive and overdoped phases become
+indistinguishable.
+
+### Nomenclature
+
+Coupling of electronic and vibrational modes of the same symmetry
+introduces _vibronic_ states having both electronic and vibrational
+character. In a crystal, the electronic and vibrational states that mix
+may have an itinerant character that senses the translational symmetry
+of the crystal; the particles that occupy these states may be labeled
+_vibrons_ to distinguish them from Fermions on the one hand and polarons
+on the other. Alternatively, the vibronic states may be restricted to a
+more local range as in the correlation polaron that we have described
+elsewhere.4 Condensation of a gas of correlation polarons into a
+polaronic liquid retains the polaron character and is therefore to be
+distinguished from a state composed of a homogeneous distribution of
+vibrons even though both states exhibit a dispersion of one-particle
+energies in momentum space. The polaron liquid represents an
+inhomogeneous distribution of charge density; it is characteristic of
+the normal state of the superconductive phase. The overdoped phase has a
+homogeneous distribution of charge as the vibrons belong equally to all
+like atoms of the phase. Where valence fluctuations are stablized,
+whether within correlation polarons or itinerant vibronic states, it is
+not possible to treat the electron-phonon interactions within the
+Boltzmann adiabatic approximation or the Migdal perturbation scheme.
+
+## Conclusions
+
+From our analysis of the transport data reported in this paper, we have
+been able to establish the following points:
+
+(1) The temperature and composition dependencies of the Seebeck
+coefficient of copper-oxide superconductor systems cannot be interpreted
+within the framework of conventional electron-phonon interactions, the
+marginal-Fermi-liquid theory, or any of the several magnetic models that
+have been proposed to describe the electronic properties of the
+copper-oxide superconductors.
+
+(2) The superconductive phase can be distinguished from the underdoped
+and overdoped compositions by having both a large, dopant-dependent α₀
+and a δα hump; the underdoped samples share only the former property and
+the overdoped samples only the latter.
+
+(3) The presence of a hump in the α versus T curve indicates
+modification of a dispersion curve near ϵ_(F) as a result of interaction
+of itinerant electrons with another medium; however, we believe a
+$T_{\rm max}\approx 140$ K is too high to be accounted for by either
+"phonon drag" or a mass enhancement due to impurity scattering. On the
+other hand, $T_{\rm max}\approx 140$ K is compatible with an electron
+interaction with optical-mode phonons such as would be
+
+Figure 8: Schematic energy diagram for (a) a conventional metal showing
+the small fraction of states lying in the energy range ℏω_(D) and (b) a
+polaron liquid showing the fraction of states lying in the energy range
+ℏω, where ω is an optical-mode frequency.
+
+encountered in a vibronic resonance between ionic and covalent Cu-O
+bonding.
+
+(4) A high, dopant-dependent value of α₀ indicates a diffusive transport
+with an important statistical contribution as in a polaron gas. However,
+in the transition from a polaron gas to an itinerant-particle state, the
+statistical term would lose its meaning. On the other hand, a high α₀ is
+retained because the midband energy gap creates a strong imbalance of
+the curvature on either side of ϵ_(F) and a dopant-dependent α₀ is
+retained via the Hubbard-band states associated with ionic Cu-O bonding;
+the Hubbard-band states coexist with a narrow-band dispersion curve
+associated with the polaron liquid. A high α₀ would be retained on
+formation of the polaron liquid because bonding and antibonding states
+within a polaron introduce an energy gap at the midband position, which
+places ϵ_(F) only a little below the top of the lower half-band.
+
+(5) The overdoped phase has no midband energy gap, which results in a
+smaller α₀; but it is an unconventional metal in which valence
+fluctuations are associated with vibronic states. A hump in the α versus
+T curve and a power law in the R versus T curve are signatures for the
+existence of vibronic states and a dispersion of one-quasiparticle
+energies. Although vibronic states are also present in the underdoped
+samples, they can only give a δα hump where the one-particle states form
+a dispersion curve. In the underdoped samples and where
+superconductivity is suppressed at optimal doping, no dispersion curve
+is formed and there is no δα hump.
+
+Finally, we call attention to the fact that, within the interpretation
+presented, the transition from superconductive to overdoped compositions
+is associated with a loss of boundary between domains of vibronic and
+ionic bonding, a boundary across which the on-site electrostatic Coulomb
+energy U changes discontinuously. A discontinuity ΔU across an interface
+and the existence of a dispersion curve are the two essential conditions
+for a "correlation-bag" model of high-T_(c) superconductivity;[42] they
+are both provided by a polaron liquid and vibronic coupling within the
+polarons, ionic bonding without.
+
+###### Acknowledgements.
+
+The authors thank H. Chen and X. Dai for help with the preparation of
+samples and, for financial support, the NSF, the Texas Advanced Research
+Program, and the Robert A. Welch Foundation of Houston, Texas.
+
+## References
+
+* [1] J. B. Goodenough, J.-S. Zhou, and J. Chan, Phys. Rev. B **47**,
+5275 (1993). * [2] H. Takagi, B. Batlogg, H. L. Kao, J. Kwo, R. J. Cava,
+J. J. Krajewski, and W. F. Peck, Jr., Phys. Rev. Lett. **69**, 2975
+(1990). * [3] H. Y. Hwang, B. Batlogg, H. Takagi, H. L. Kao, R. J. Cava,
+J. J. Krajewski, and W. F. Peck, Jr., Phys. Rev. Lett. **72**, 2636
+(1994). * [4] J. B. Goodenough and J.-S. Zhou, Phys. Rev. B **49**, 4251
+(1994). * [5] K. Yonemitsu, A. R. Bishop, and J. Lorenzana, Phys. Rev.
+Lett. **69**, 965 (1992); Phys. Rev. B **47**, 8065 (1993); **47**, 12
+059 (1993). * [6] Y. Z. Kresin and S. A. Wolf, Phys. Rev. B **49**, 3652
+(1994). * [7] S. Ishihara, T. Egami, and M. Tachiki, Phys. Rev. B
+**49**, 8944 (1994). * [8] D. Emin, Phys. Rev. B **49**, 9157 (1994). *
+[9] J.-S. Zhou, H. Chen, and J. B. Goodenough, Phys. Rev. B **49**, 9084
+(1994). * [10] Y. Nakamura and S. Uchida, Phys. Rev. B **47**, 8369
+(1993). * [11] T. Vaughey, R. Shumaker, S. N. Song, J. B. Kettersen, and
+K. R. Poeppelmeier, Mol. Cryst. Liq. Cryst. **184**, 335 (1990). * [12]
+D. K. C. MacDonald, _Thermoelectricity: An Introduction to the
+Principles_ (Wiley, New York, 1962); S. J. Blatt, P. A. Schroeder, C. L.
+Foiles, D. Grieg, _Thermoelectric Power of Metals_ (Plenum, New York,
+1976). * [13] M. Johnson and G. D. Mahan, Phys. Rev. B **42**, 9350
+(1990). * [14] P. B. Allen, X. Du, L. Mihaly, and L. Forro, Phys. Rev. B
+**49**, 9073 (1994). * [15] J. Chan, Ph.D. thesis, U. T. Austin, 1993. *
+[16] J. L. Cohn, S. A. Wolf, V. Selvamanickam, and K. Salama, Phys. Rev.
+Lett. **66**, 1098 (1991). * [17] J. L. Cohn, E. F. Skelton, S. A. Wolf,
+and J. Z. Liu, Phys. Rev. B **45**, 13 140 (1992). * [18] J.-S. Zhou, J.
+P. Zhou, J. B. Goodenough, and J. T. McDevitt, this issue, Phys. Rev. B
+**51**, 3250 (1995). * [19] J. L. Opsal, B. J. Thaler, and J. Bass,
+Phys. Rev. Lett. **36**, 1211 (1976). * [20] A. B. Kaiser, Phys. Rev. B
+**29**, 7088 (1994). * [21] P. E. Nielsen and P. L. Taylor, Phys. Rev. B
+**10**, 4061 (1974). * [22] M. A. Howson and B. L. Gallagher, Phys. Rep.
+**170**, 265 (1988). * [23] W. Reichardt, N. Pyka, L. Pintschovius, B.
+Hennion, and G. Collin, Physica C **162-164**, 46 (1989). * [24] A.
+Junod, in _Physical Properties of High Temperature Superconductors_,
+edited by D. M. Ginsberg (World Scientific, Singapore, 1990), Vol. 2, p.
+13. * [25] D. Kumar, J. Phys. Condens. Matter **5**, 8277 (1993). * [26]
+R. C. Yu, M. J. Naughton, X. Yan, P. M. Chaikin, F. Holiberg, R. L.
+Greene, J. Stuart, and P. Davies, Phys. Rev. B **37**, 7963 (1988). *
+[27] H. H. Chen, J.-S. Zhou, and J. B. Goodenough (unpublished). * [28]
+J. B. Torrance, P. Lacorre, A. I. Nazzal, E. J. Ansaldo, and Ch.
+Niedermayer, Phys. Rev. B **45**, 8209 (1992). * [29] J. B. Goodenough,
+Supercond. Sci. Technol. **3**, 26 (1990). * [30] J. B. Goodenough, N.
+F. Mott, M. Pouchard, G. Demazeau, and P. Hagenmuller, Mater. Res. Bull.
+**8**, 647 (1973). * [31] J. B. Torrance, A. Bezinge, A. I. Nazzal, T.
+C. Huang, S. S. P. Parkin, D. T. Keane, S. J. LaPlaca, P. M. Horn, and
+G. A. Held, Phys. Rev. B **40**, 8872 (1989). * [32] N. Wada, H.
+Muro-oka, Y. Nakamura, and K. Kumagai, Physica C **157**, 453 (1989); N.
+Wada, T. Obana, Y. Nakamura, and K. Kumagai, Physica B **165-166**, 1341
+(1990). * [33] K. Kumagai, T. Suzuki, Y. Taguchi, Y. Okada, Y.
+Fujishima, and Y. Tokura, Phys. Rev. B **48**, 7636 (1993). * [34] D. M.
+Newns, M. Rasolt, and P. C. Pattnaik, Phys. Rev. B **38**, 6513 (1988);
+D. M. Newns, P. C. Pattnaik, M. Rasolt, and D. A. Papaconstantopoulos,
+_ibid._**38**, 7033 (1988); P. C. Pattnaik and D. M. Newns,
+_ibid._**41**, 880 (1990). * [35] H. Brandow (unpublished). * [36] J.-S.
+Zhou, H. Chen, and J. B. Goodenough, Phys. Rev. B **50**, 4168 (1994). *
+[37] H. Fritzsche, Solid State Commun. **9**, 1813 (1971). * [38] For
+example, P. Aebi, J. Osterwalder, P. Schwaller, L. Schlapbach, M.
+Shimoda, T. Mochiku, and K. Kadowaki, Phys. Rev. Lett. **72**, 2757
+(1994). * [39] R. H. Howell, P. A. Sterne, M. J. Fluss, J. H. Kaiser, K.
+Kitazawa, and H. Kojima, Phys. Rev. B **49**, 13 127 (1994). * [40] W.
+E. Pickett, Rev. Mod. Phys. **61**, 434 (1989). * [41] S. Uchida, T.
+Ido, H. Takagi, T. Arima, Y. Tokura, and S. Tajima, Phys. Rev. B **43**,
+7942 (1991). * [42] J. B. Goodenough and J.-S. Zhou, Phys. Rev. B
+**42**, 4276 (1990).

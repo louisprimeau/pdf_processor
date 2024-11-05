@@ -1,0 +1,106 @@
+
+
+# Electronic-structure effects in the suppression of superconductivity in hydrogenated Zr2Rh
+
+H. G. Salunke and G. P. Das*
+
+Solid State Physics Division, Bhabha Atomic Research Centre, Bombay 400085, India
+
+P. Raj, K. Shashikala, and A. Sathyamoorthy
+
+Chemistry Division, Bhabha Atomic Research Centre, Bombay 400085, India
+
+S. K. Dhar
+
+Solid State Physics Group, Tata Institute of Fundamental Research, Bombay 400005, India
+
+18 August 1995
+
+###### Abstract
+
+The observed suppression of superconductivity on hydrogenation of the \(C\)16-structured intermetallic compound Zr2Rh is explained qualitatively on the basis of the relationship between the electronic density of states at the Fermi level, the electron-phonon coupling constant, and _T_c . The density of states at the Fermi level obtained from our local density electronic structure calculations has been compared with that estimated from low-temperature specific heat data. In pure Zr2Rh, a relatively large superconducting transition temperature (_T_c ~11 K) arises due to the Fermi level lying at the peak of the density of states, while in case of hydrogenated Zr2Rh the lowering of _T_c can be ascribed to the filling of bands and the shifting of the Fermi level either to a valley of the density of states (as in case of Zr2RhH2) or to a broad hump in the density of states (as in case of Zr2RhH4).
+
+## I Introduction
+
+The intermetallic compound Zr2Rh has body-centered-tetragonal structure (_C_16 type, space group \(D_{4h}^{18}\)) and shows superconductivity below a transition temperature _T_c ~11 K. [1, 2] This value of _T_c for Zr2Rh is one of the highest reported for noncubic binary systems, among conventional superconductors (i.e., excluding high-temperature oxide superconductors). Zr2Rh, like the other compounds in the family, viz., Zr2Fe (Ref. 3), Zr2Co (Ref. 4), and Zr2Ni (Refs. 5-7) is known to absorb a large quantity of hydrogen, about four to five hydrogen atoms per formula unit. The resulting ternary hydrides show a rich variety of changes in their electrical and magnetic properties. [2, 3]
+
+In our recent experimental study, [2] the effect of hydrogen absorption on the structure, superconductivity, magnetic susceptibility, and low-temperature heat capacity of Zr2Rh was investigated. It was shown that (i) \(C\)16-type structure is retained on hydrogen absorption; (ii) although the hydride, like the parent intermetallic compound, exhibits metallic behavior, its superconducting transition temperature is greatly suppressed (_T_c < 2 K); (iii) the hydride is also paramagnetic, but its susceptibility is reduced to almost half the value of Zr2Rh; and (iv) the electronic specific heat coefficient (_g_) is reduced by almost an order of magnitude on hydriding. This study of Zr2RhH_x_ was confined to a single composition, viz., \(x\) = 4.25. Our subsequent experiments on the same system have now revealed that the actual composition of our sample in Ref. 2 was \(x\) = 2.0. This has been found to be due to the inadequacy of the normal surface poisoning procedure adopted earlier [3] (resulting in partial hydrogen desorption) for the preparation of Zr2Rh hydrides. It may be stressed that the composition Zr2RhH_x_ (_x_ = 2) is found to be relatively more stable (irrespective of any stabilization procedure) and no appreciable loss of hydrogen takes place, as confirmed by x-ray studies at least over 2-3 months. It should also be emphasized that there is no qualitative change in the conclusions drawn from Ref. 2 as regards the effect of hydrogen absorption on all the properties studied except that the Debye temperature (_PhD_) was somewhat overestimated. The present work encompasses the compositions \(x\) = 0, 2, and 4. In addition to the experimental studies on the hydrogen absorption characteristics of \(C\)16-type intermetallics, we have also recently reported [8] electronic structure calculations on pure Zr2M compounds (_M_ = Fe, Co, Ni, and Rh). This study has revealed a systematic trend with regard to the role of _r_(\(E_{F}\)), the density of states (DOS) at the Fermi level (\(E_{F}\)), on the observed _T_c variation in these compounds. As the electron-to-atom ratio increases from 5.33 (for Zr2Fe) to 5.67 (for Zr2Co and Zr2Rh) and further to 6.00 (for Zr2Ni), \(E_{F}\) shifts from a valley to a peak and again into a next valley of the DOS. This band filling process, which gives rise to a change in _r_(\(E_{F}\)), also results in a change in the electron-phonon coupling constant \(l\) and a concomitant variation in _T_c .
+
+It would be interesting to know whether similar band filling effects can be expected when the change in the electron-to-atom ratio is brought about by hydrogen absorption. This has motivated us to carry out the present experimental investigations on these hydrogenated compounds, as well as first principles electronic structure calculations on modeled Zr2RhH_x_ for \(x\) = 0, 2, and 4. Section II deals with experimental details and in Sec. III we give a modeled structure of these compounds. In Sec. IV we discuss the results of our local density calculations and finally we give concluding remarks in Sec. V.
+
+## II Experimental details
+
+The procedure adopted for the preparation of Zr2Rh and its hydrides as well as the estimation of structural and low temperature heat capacity parameters has been described earlier.[2] Special care was taken to stabilize the highest hydrogen concentration, viz., Zr2RhH_x_ (_x_ ~ 4) sample. Carbon monoxide at about 10 atm pressure was used for poisoning the hydride surface instead of oxygen; more importantly, hydrogen content was also estimated after completing the experiments, both by complete decomposition as well as by an x-ray cell parameter estimation. Heat capacity measurements on the _x_~ 4 composition could not be carried out below 7 K due to some problems with our experimental setup. However, magnetization measurements performed down to 2 K using a superconducting quantum interference device (SQUID) magnetometer revealed that Zr2RhH_x_ (_x_~ 4) does not superconduct for temperatures above 2 K. The magnitude of molar susceptibility for the _x_~ 4 sample was found to be approximately 2.1 x 10 - 4 as compared to 3.7 x 10 - 4 for \(x\) = 0 and 1.8 x 10 - 4 for \(x\) = 2. The cell parameters for Zr2RhH_x_ (_x_=0, 2, and 4) are given in Table 1. The corresponding values of \(T_{c}\), \(g\), and Ph_D_ derived from our heat capacity measurements are given in Table 2.
+
+## III Modeled structure of Zr2RhH2 and Zr2RhH4
+
+The arrangement of the atoms for \(C\) 16-structured Zr2Rh (Refs. 2,8-10) is schematically shown in Fig 1. It consists of planes of Zr atoms connected by Rh chains. The consecutive Zr planes are rotated by 45deg with respect to each other. The \(C\) 16 structure of these Zr2M intermetallics permits the occupancy of four types of tetrahedral interstitial holes. The sites designated as \(A\) and \(B\) types have 4Zr, \(C\) type have (3Zr + 1_M_) and \(D\) type have (2Zr + 2_M_) atoms at the vertices of the tetrahedral interstices. (See Ref. 6 for the nomenclature of different interstitial sites.) Although H-site occupancies have not been reported for the Zr2RhH_x_ system, some neutron diffraction data on the site occupancies are available for isostructural deuterides, viz., Zr2CoD4.8 (Ref. 4) and Zr2NiO_x_ (_x_~ 2, 3, and 4.8) (Ref. 5). Furthermore, as in most hydride systems, the most probable H-site occupancy can be conjectured from the widely accepted guidelines;[11, 12] viz., (i) for an interstitial site to be occupied, its hole radius should be 0.4 A and the site with a bigger void size should get filled first, and (ii) the minimum distances between two hydrogen atoms should be >=2.1 A. Based on these guidelines, appropriate for the Zr2RhH_x_ system and the experimental reports on related systems, we have assumed the occupancy of _B_-type tetrahedral sites for Zr2RhH2 and _C_-type sites for Zr2RhH4\(x\), for our electronic structure calculations. This is justified because in Zr2NiO2 it is known [5] that deuterium atoms are almost exclusively on _B_-type sites, and in Zr2CoD4.8, four D atoms are reported [4] to occupy _C_-type sites (data for lower D content in Zr2CoD_x_ do not exist). There is some difference in the reported site occupancies for D atoms in Zr2CoD4.8 (Ref. 4) as compared to Zr2NiO4.8 (Ref. 5), although in both cases _C_-type sites are predominantly occupied. Our choice of site occupancy finds further support in the similarity of trends between the calculated and the experimental values of _r_(\(E_{F}\)) obtained from the heat capacity measurements for the Zr2RhH_x_ system, as discussed in the next section. The unit cells of Zr2Rh, Zr2RhH2, and Zr2RhH4 contain 12, 20, and 28 atoms, respectively. The lattice parameters used in our calculations are the room temperature values as given in Table 1. The use of room temperature lattice parameters for our O K band calculation causes a less than 1% error, which is within the error bar of the method discussed below.[8]
+
+## IV Results and discussions
+
+### Electronic structure
+
+As in our earlier local density calculations on pure \(C\)16-structured intermetallics,[8] we have deployed the tight-binding linear muffin tin orbital within atomic sphere approximation[13, 14] (TB-LMTO-ASA) method and using von Barth-Hedin parametrization[15] for the exchange-correlation potential. In this method, one uses space filling (and hence slightly overlapping) atomic (Wigner-Seitz) spheres centered around each site in the unit cell. While in the case of Zr2Rh we had chosen[8] equal sphere radii for constituent metals, for the hydrogenated compounds we use smaller
+
+\begin{table}
+\begin{tabular}{c c c c c c c c}  & \multicolumn{5}{c}{Experimental heat capacity data} & LDA calculation \\ \(C\)16 compounds & \(T_{c}\) (K) & _γ_ (mJ/mol K2) & _σ_D_ (K) & _λ_(est) & _N_(\(E_{f}\))(est) & _N_(\(E_{f}\)) \\ Zr2Rh & 11.2 & 68.0 & 214 & 1.13 & 6.77 & 5.40 \\ Zr2RhH2 & \textless{}2.0 & 6.5 & 350 & \textless{}0.49 & \textless{}1.0 & 1.2 \\ Zr2RhH4 & \textless{}2.0 & 21.0 & 371 & \textless{}0.49 & \textless{}3.0 & 2.7 \\ \end{tabular}
+\end{table}
+Table 2: Specific heat and local density approximation (LDA) data for Zr2Rh and its hydride.
+
+  spheres around the hydrogen atoms in the above-mentioned model. This ensures reasonable sphere overlaps, which are essential for the LMTO-ASA method to work satisfactorily. The compound Zr2RhH4 required "empty spheres"[14] to be placed in interstitial sites designated as \(A\) (Ref. [6]) for reasonable sphere overlaps. The ratio of the individual atomic sphere radii to the average sphere radius, \(R/W\), for the three structures studied is given in Table 1. We have used \(s\), \(p\), and \(d\) partial waves for the Zr and Rh atoms, while for hydrogen we have _downfolded_[16] the \(p\) partial waves (hydrogen \(d\) orbitals have not been included in the basis). We have also included the so-called "combined correction" term in our calculations. The resulting DOS's are shown in Figs. 2 and 3, respectively.
+
+The DOS's for all the three compounds (Fig. 2) have a "teethed structure" which is typical of transition metals. The value of DOS at \(E_{F}\) for Zr2RhH2 is smaller as compared to that for Zr2RhH4. A comparison of DOS's for the three structures shows that the Fermi level shifts from the peak to the valley while going from Zr2Rh to Zr2RhH2 and again to the neighboring broad hump for Zr2RhH4. This shifting of \(E_{F}\) across the peaks and valleys of DOS has also been observed in pure Zr2\(M\) (\(M\) = Fe, Co, Ni, and Rh) intermetallics.[8] There appears to be a compression in the DOS for hydrogenated Zr2Rh as compared to the pure intermetallic, suggesting that the states which were above \(E_{F}\) for pure Zr2Rh are "'pulled" down below \(E_{F}\) for the hydrogenated compound, thereby implying a filling up of bands upon hydrogenation. One may conjecture such a band filling as resulting from a possible transfer of electrons from the hydrogen \(s\) state to the unoccupied valence state of Zr2Rh. The partial electronic charges within the Zr, Rh, H, and empty spheres, as coming out from our self-consistent calculations, are enlisted in Table 3. The total number of valence electrons per "'formula unit" (containing one Rh and two Zr spheres) are found to be 17, 18.32, and 20.07 in Zr2Rh, Zr2RhH2, and Zr2RhH4, respectively. This qualitatively supports our charge transfer conjecture, although it is hard to quantify this within the atomic sphere approximation. In this context, one may study the partial DOS's on transition metal sites (Fig. 3), which also contain "tails" of the hydrogen \(s\) orbital protruding into the Zr and Rh spheres. The new DOS peaks appearing between \(-\) 6 and \(-\) 10 eV in the hydrogenated compounds carry this signature. Also it is clear that the magnitudes of \(\rho(E_{F})\) for Zr and Rh spheres are comparable, implying that these compounds are not "chain superconductors"[17] -- a result similar to that observed for the pure intermetallics.[8] Here it may be mentioned that the calculated variation of \(\rho(E_{F})\) as the H content increases in going from Zr2RhH2 to Zr2RhH4 is different from the trend inferred by Aubertin _et al.[18]_ for the Zr2NHx system. From pulsed proton nuclear magnetic resonance measurements, these authors derived the Korringa constant values as a function of hydrogen concentration \(x\), and concluded that \(\rho(E_{F})\) increases monotonically with an increase in \(x\). The value of the DOS at \(E_{F}\) has an important consequence on the superconducting properties of these compounds, as we shall see in the next section.
+
+Figure 1: Atomic arrangement of Zr and Rh atoms in Zr2Rh: Solid circles denote Zr atoms at \(z\) = 0, and open circles denote Zr atoms at \(z\) = \(\pm\) 1/2, while hatched circles denote Rh atoms at \(z\) = \(\pm\) 1/4.
+
+Figure 2: Total electronic density of states for (a) Zr2Rh, (b) Zr2RhH2, and (c) Zr2RhH4.
+
+  
+
+### Superconductivity
+
+For a complete _ab initio_ study of the superconducting properties, one requires, along with the electronic structure, information on the phonon dispersion in these compounds.[19] However, due to lack of information on phonon dispersions, we have made a comparative study of the superconducting properties employing a procedure similar to that used for pure Zr2M (_M_ = Fe, Co, Ni, and Rh) compounds.[8, 19] We compare in this procedure the \(\rho(E_{F})\) calculated from first principles with that estimated from specific heat measurements. Figure 4 gives specific heat curves for the three compounds. Unlike Zr2Rh which distinctly shows a discontinuity at \(T_{c}=11.2\) K, the specific heat measurement for Zr2RhH2 and Zr2RhH4 show a monotonic decrease with decreasing temperature. The electronic specific heat coefficient (_g_) and Debye temperature (\(\Theta_{D}\)) derived from these curves are listed in Table 2. A point to note is a relatively larger \(g\) in the case of Zr2RhH4 than Zr2RhH2, although both these compounds have close \(\Theta_{D}\) values. This information from specific heat measurements is used in Macmillan's formula[19, 20] for superconducting \(T_{c}\), in order to estimate \(\lambda\). This value of \(\lambda\) in turn is used in a modified Sommerfeld's expression for the electronic specific heat, viz., \(\gamma\) = \(\frac{3}{3}\pi^{2}k_{B}^{2}\rho(E_{F})(1+\lambda)\), to arrive at an estimate of \(\rho(E_{F})\). In Table 2 we show a comparison of this estimated \(\rho(E_{F})\) from specific heat data with the first principles LDA calculations.
+
+Figure 4: Temperature dependence of heat capacity for (a) Zr2Rh, (b) Zr2RhH2, and (c) Zr2RhH4 in the form \(C/T\) vs \(T^{2}\). The data for Zr2RhH4 are shown only up to \(\sim\) 7 K (although the experiment was performed up to 2 K) because of sample calibration errors. (Also see Ref. 2.)
+
+Figure 3: Site-projected density of states on the Zr site and Rh site for Zr2Rh [(a) and (b)], Zr2RhH2 [(c) and (d)], and Zr2RhH4 [(e) and (f)].
+
+\begin{table}
+\begin{tabular}{c c c c c c c c c c c} \hline \hline  & & \multicolumn{3}{c}{Zr sphere} & \multicolumn{3}{c}{Rh sphere} & \multicolumn{3}{c}{H sphere} & \multicolumn{3}{c}{Empty sphere} \\  & \(Q_{s}\) & \(Q_{p}\) & \(Q_{D}\) & \(Q_{s}\) & \(Q_{p}\) & \(Q_{D}\) & \(Q_{s}\) & \(Q_{p}\) & \(Q_{s}\) & \(Q_{p}\) \\ \hline Zr2Rh & 0.581 & 0.608 & 2.428 & 0.942 & 0.786 & 8.038 & - & - & - & - \\ Zr2RhH2 & 0.688 & 1.019 & 2.951 & 0.717 & 0.626 & 7.657 & 0.338 & 0.004 & - & - \\ Zr2RhH4 & 0.657 & 1.063 & 3.200 & 0.853 & 1.179 & 8.201 & 0.191 & 0.002 & 0.140 & 0.015 \\ \hline \hline \end{tabular}
+\end{table}
+Table 3: Partial charges within the atomic spheres in pure and hydrogenated Zr2Rh.
+
+ It is observed that the calculated values follow a similar trend as the estimated ones. This implies that Zr2RhH_x_(_x_ = 0, 2, 4) follows a similar band filling prescription as was observed in the case of Zr2_M_(_M_ = Fe, Co, Ni, and Rh) intermetallics.[8]
+
+## V Conclusions
+
+First principles local density band calculations using the TB-LMTO-ASA method have been performed on modeled \(C\)16-structured Zr2RhH_x_ compounds, in order to understand the decrease in superconducting \(T_{c}\) on hydrogenation. The calculated DOS at the \(E_{F}\) can be related to the electronic specific heat via the electron-phonon coupling constant. The measured quantities (_g_, _th_, and \(T_{c}\)) from our low-temperature specific heat experiment have been used to determine \(l\), which in turn yields an estimate of _r_(\(E_{F}\)). We have compared this with the LDA value of _r_(\(E_{F}\)), and found that on hydrogenation the Fermi level shifts from the peak of the DOS (for Zr2Rh) to either one of the valleys of the DOS (for Zr2RhH2) or to a broad hump (for Zr2RhH4). In order to get a completely first principles estimate of \(l\) and hence \(T_{c}\), one must evaluate the average squared phonon frequencies from the detailed phonon dispersion spectrum which is _not_ available for these compounds. In this paper we have been able to arrive at a qualitative understanding of the trend in the \(T_{c}\) values in terms of band filling and consequent variation of _r_(\(E_{F}\)) in Zr2Rh and its hydrides.
+
+###### Acknowledgements.
+
+ We would like to thank Dr. V.C. Sahni and Dr. B.A. Dasannacharya for helpful discussions and for their encouragement in this work.
+
+## References
+
+* [1] R. Kuentzler and R.M. Waterstrat, Solid State Commun. **54**, 517 (1985).
+* [2] P. Raj, P. Suryanarayana, A. Satyamoorthy, K. Shashikala, R.M. Iyer, S.K. Dhar, L.C. Gupta, V.C. Sahni, and R.J. Begum, J. Alloys Compounds **206**, 47 (1994).
+* [3] P. Raj, P. Suryanarayana, A. Satyamoorthy, K. Shashikala, and R.M. Iyer, J. Alloys Compounds **178**, 393 (1992).
+* [4] F. Bonhomme, K. Yvon, and M. Zolliker, J. Alloys Compounds **199**, 129 (1993).
+* [5] A. Chikdene, A. Baudry, P. Boyer, S. Miraglia, D. Fruchart, and J.L. Soubeysoux, Z. Phys. Chem. (Munchen) **163**, 219 (1989).
+* [6] P. Boyer and A. Baudry, J. Alloys Compounds **129**, 213 (1987).
+* [7] K. Shashikala, N.M. Gupta, P. Suryanarayana, A. Satyamoorthy, V.S. Kamble, and P. Raj, J. Mol. Catalysis **91**, 223 (1994).
+* [8] H.G. Salunke, G.P. Das, P. Raj, V.C. Sahni, and S.K. Dhar, Physica C **226**, 385 (1994).
+* [9] F.R. Eshman and J.F. Smith, J. Appl. Phys. **46**, 5080 (1975).
+* [10] R. Visnov, F. Ducastelle, and G. Treglia, J. Phys. F **12**, 441 (1982).
+* [11] D.G. Westlake, J. Less Common Met. **90**, 251 (1983).
+* [12] A.C. Switendick (unpublished).
+* [13] O.K. Andersen and O. Jepsen, Phys. Rev. Lett. **53**, 2571 (1984).
+* [14] O.K. Andersen, O. Jepsen, and M. Sob, in _Electronic Band Structure and Its Applications_, edited by M. Yussouff (Springer-Verlag, Berlin, 1987), p. 1.
+* [15] U. von Barth and L. Hedin, J. Phys. C **5**, 1629 (1972).
+* [16] M. van Schilfgaarde, A.T. Paxton, O. Jepsen, and O.K. Andersen (unpublished).
+* [17] S.K. Sinha and B.N. Harmon, Phys. Rev. Lett. **35**, 1515 (1976).
+* [18] F. Aubertin, S.J. Campbell, J.M. Pope, and U. Gonser, J. Less Common Met. **129**, 297 (1987).
+* [19] H.L. Skriver and L. Mertig, Phys. Rev. B **32**, 4431 (1985).
+* [20] I.I. Mazin, S.N. Rashkeev, and S.Y. Savrasov, Phys. Rev. B **42**, 366 (1990).
+
+ 

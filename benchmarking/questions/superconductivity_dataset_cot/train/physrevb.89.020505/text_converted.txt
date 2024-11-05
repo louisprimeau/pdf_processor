@@ -1,0 +1,398 @@
+Noncentrosymmetric superconductor with a bulk three-dimensional Dirac
+cone gapped by strong spin-orbit coupling
+
+Mazhar N. Ali,^(1,) Quinn D. Gibson,¹ T. Klimczuk,^(2, 3) and R. J.
+Cava^(1,)
+
+¹Department of Chemistry, Princeton University, Princeton New Jersey,
+08544, USA
+
+²Faculty of Applied Physics and Mathematics, Gdansk University of
+Technology, Naratuoka 11112, 80-233 Gdansk, Poland
+
+³Institute of Physics, Pomeranian University, Arciszewskiego, 76-200
+Slapsk, Poland
+
+###### Abstract
+
+The layered, noncentrosymmetric heavy element PbTaSe₂ is found to be
+superconducting. We report its electronic properties accompanied by
+electronic-structure calculations. Specific heat, electrical
+resistivity, and magnetic-susceptibility measurements indicate that
+PbTaSe₂ is a moderately coupled, type-II BCS superconductor
+(T_(c) = 3.72 K, Ginzburg-Landau parameter κ = 17) with an
+electron-phonon coupling constant of λ_(ep) = 0.74. Electronic-structure
+calculations reveal a single bulk three-dimensional Dirac cone at the K
+point of the Brillouin zone derived exclusively from its hexagonal Pb
+layer; it is similar to the feature found in graphene except there is a
+0.8 eV gap opened by spin-orbit coupling. The combination of large
+spin-orbit coupling and lack of inversion symmetry also results in large
+Rashba splitting on the order of tenths of an eV.
+
+DOI: 10.1103/PhysRevB.89.020505
+
+Noncentrosymmetric superconductors have been known for decades but have
+become a prominent research topic recently with the discovery of the
+heavy-fermion superconductor CePt₃Si [1]. Noncentrosymmetric systems can
+exhibit asymmetric spin-orbit coupling (SOC) in superconducting
+materials, which leads to the breaking of spin degeneracy and a
+parity-mixed superconducting state [2]. The symmetry of the Cooper pairs
+is therefore nontrivially affected by the strength of the SOC, which is
+governed by the crystal structure as well as the elemental composition
+[3,4]. Superconductors that lack inversion symmetry can be divided into
+two types: strongly correlated systems such as CePt₃Si [1] and UIr [5],
+and weakly correlated systems such as Li₂M₃B (M= Pd, Pt) [6,7] and
+Mg₁₀Ir₁₉B₁₆[8]. In the strongly correlated materials, the
+superconducting properties are heavily influenced by the electron
+correlations making the weakly correlated materials more fertile ground
+for studying the effects derived from the breaking of inversion symmetry
+and the asymmetric spin-orbit-coupling interaction. Materials with
+strong SOC are also of interest as exotic spin systems [9] and
+topological insulators [10,11] (TIs), and relativistic Dirac electrons
+in condensed-matter systems are of interest on the surface of TIs, in
+graphene and other monatomic hexagonal lattices [12, 13, 14, 15], and
+also in the bulk of three-dimensional (3D) Dirac semimetals (e.g.,
+Cd₃As₂, Na₃Bi, and Pb_(1 − x)Sn_(x)Se [16, 17, 18, 19]). Recent
+theoretical work has predicted SOC gapping in Dirac cones at the K point
+in crystallographic phases similar to, but heavier than, graphene [20].
+Here we show that the hexagonal, noncentrosymmetric compound PbTaSe₂
+exhibits strong SOC, superconducts below 3.72 K and has a gapped
+graphene-like Dirac cone at K in its electronic structure that is
+derived exclusively from its hexagonal Pb layer.
+
+PbTaSe₂ displays alternating stacking of hexagonal TaSe₂ and Pb layers
+[21]. The crystal structure is highly noncentrosymmetric as can be seen
+by inspecting the Ta positions in the inset of Fig. 1(a). High-quality
+polycrystalline samples were synthesized by solid-state reaction at 800
+^(∘)C for one week using prereacted PbSe, TaSe₂, and elemental Ta powder
+in sealed quartz tubes in a PbSe atmosphere. The samples were determined
+to be pure by powder x-ray diffraction. Due to the polycrystalline
+nature of the samples, the measured superconductivity parameters are
+averaged over all crystallographic directions.
+
+The superconducting transition was examined through
+temperature-dependence measurements of the electrical resistivity ρ(T)
+and dc magnetic susceptibility using a Quantum Design physical property
+measurement system (PPMS). The whole temperature range of ρ(T) is shown
+in Fig. 1(a). The normal-state resistivity for PbTaSe₂ reveals a
+metallic-like character (dρ/dT > 0), with the residual resistivity ratio
+RRR ≈d. The superconducting transition is seen just below 3.8 K. Figure
+1(b) shows the superconducting transition characterized by dc magnetic
+susceptibility. The much smaller field-cooling (FC) signal compared with
+the zero-field-cooling (ZFC) signal is caused by pinning of the
+vortices. The estimated superconducting critical temperature, as
+determined by the midpoints of the transitions, is 3.7 K, in agreement
+with resistivity measurements. The diamagnetic response, normalized by a
+demagnetization factor, is very close to the expected value. Figure 1(c)
+shows the low-temperature resistivity ρ(T) under zero field and applied
+magnetic fields up to 0.5 T. A very sharp superconducting transition is
+observed for 0 T, with the superconducting critical temperature
+T_(c) = 3.79 K and transition width ΔT_(c) = 0.15 K. Knowing the values
+of T_(c) for different magnetic fields, we plot the upper critical field
+values, μ₀H_(c2) vs temperature in Fig. 1(d). The upward curvature of
+the upper critical field line may be due to an intrinsically anomalous
+pairing mechanism. The previously proposed formula
+[22]H_(c2)(T) = H_(c2)(0)(1 − t^(3/2))^(3/2), where $t=\frac{T}{T_{c}}$
+was used to fit the whole H_(c2)(T) data set and gives an excellent fit
+(R² = 0.999 96) with μ₀H_(c2)(0) = 1.47 T [Fig. 1(d), solid blue line].
+This model has been used to fit H_(c2)(T) for noncentrosymmetric
+Nb_(0.18)Re_(0.82)[23] and the borocarbide superconductors [24].
+Alternatively, the orbital critical field, for a single-band, BCS-type
+superconductor, is given by
+$H_{c2}(T)=-AT_{c}\frac{dH_{c2}}{dT}|_{(T=T_{c})}$ where A is either
+0.69 or 0.73, for the dirty or clean limits, respectively [25]. From
+Fig. 1(d), the slope d H_(c2)/dT = −0.46 T/K was determined for the
+temperature range 2.3 K  < T< 3 K (dashed red line) and, taking
+T_(c) = 3.72 K, the orbital upper critical field was estimated as
+μ₀H_(c2) = 1.18 T or 1.25 T for the dirty or clean limit, respectively,
+both of which are close to that obtained by the more detailed fitting
+procedure. For further calculations we employ μ₀H_(c2)(0) = 1.47 T. With
+this information, the coherence length can be calculated by using the
+Ginzburg-Landau formula ξ_(GL)(0) = {ϕ₀/[2π H_(c2)(0)]}^(1/2), where
+ϕ₀ = h/2e and is found to be ξ_(GL)(0) = 15 nm.
+
+Assuming that the initial linear response to field is perfectly
+diamagnetic [Fig. 2(a)], i.e., dM/dH is $-\frac{1}{4\pi}$, we obtain a
+demagnetization factor that is consistent with the sample shape and its
+orientation in the magnetic field. Figure 2(a) shows the magnetization
+(M) as a function of applied field (H) and Fig. 2(b) presents the
+difference between magnetization measured at 2 K and the $M_{\rm fit}$
+[shown as a red solid line in Fig. 2(a)] fit in the low-H range where
+the linear M(H) is observed. As shown in Fig. 2(b), M(H) starts to
+deviate from $M_{\rm fit}$ at a field H_(c)^(*) of about 53 Oe, giving a
+lower critical field, taking into account the demagnetization factor, of
+H_(c1)(2K) = H_(c)^(*)/(1 − d) = 60 Oe. The estimation of μ₀H_(c1)(0)
+has been done by fitting experimental data to the formula
+H_(c1)(T) = H_(c1)(0)[1 − (T/T_(c))²], which is represented by the red
+solid line in Fig. 2(c). The estimated zero-temperature lower critical
+field μ₀H_(c1)(0) = 7.5 mT implies a Ginzburg-Landau superconducting
+perturbation method calculated using
+
+$$\mu_{0}H_{c1}=\frac{\Phi_{0}}{4\pi\lambda_{GL}^{2}}\ln\frac{\lambda_{GL}}{\xi _{GL}}$$
+
+of approximately λ_(GL) = 248 nm. The Ginzburg-Landau parameter
+[κ = λ_(GL)(0)/ξ_(GL)(0)] is κ = 17, indicating that PbTaSe₂ is a
+type-II superconductor. Using these parameters and the relation
+H_(c1)H_(c2) = H_(c1)²ln (κ), we estimated the thermodynamic critical
+field μ₀H_(c) = 57.4 mT.
+
+The heat capacity was measured using a relaxation calorimeter (Quantum
+Design PPMS). Figure 3(a) illustrates
+
+Figure 2: (Color online) (a) M vs H for PbTaSe₂ at various temperatures.
+The solid red line is fit to the 2 K data in the low-H range where the
+linear M(H) is observed. (b) The difference between magnetization
+measured at 2 K and the $M_{\rm fit}$: the difference $M(H)-M_{\rm fit}$
+deviates more than 2.5
+
+Figure 1: (Color online) (a) Resistivity as a function of temperature
+showing the superconducting transition for PbTaSe₂ at 3.79 K. Inset: The
+crystal structure of PbTaSe₂, where Pb are the large black spheres, Se
+are the small green spheres, and Ta are the medium orange spheres. (b)
+The observed zero-field-cooling (ZFC) and field-cooling (FC)
+magnetic-susceptibility measurements under magnetic field H_(DC) = 10
+Oe. The superconducting critical temperature T_(c) estimated from these
+measurements is 3.72 K. The maximum ZFC susceptibility is estimated to
+be −1.01(1/4π). (c) The superconducting transition under various
+magnetic fields and (d) plots of the upper critical field values vs
+temperature. The red dashed line through the data shows the best linear
+fit with the slope dH_(c2)/dT = −0.46 T/K. The solid blue line shows the
+fit to equation shown with R² = 0.999 96.
+
+the overall temperature dependence of the specific heat C_(p). At room
+temperature, C_(p) is close to the expected Dulong-Petit value
+(3nR ≈ 100 J mol⁻¹ K⁻¹), where n is the number of atoms per formula unit
+(n = 4), and R is the gas constant (R = 8.314 J mol⁻¹ K⁻¹). Figure 3(b)
+shows C_(p)/T versus T² in the low-temperature range measured under a
+magnetic field of μ₀H = 5 T, which exceeds the upper critical field for
+PbTaSe₂. The experimental data points were fit in the temperature range
+of 1.9 K to 3.7 K by using the formula C_(p) = γT + Bγ². The fit yields
+the electronic specific-heat coefficient (Sommerfeld coefficient)
+γ = 6.9 (2) mJ mol⁻¹ K⁻², and phonon specific-heat coefficient
+β = 2.67 (0.03) mJ mol⁻¹ K⁻⁴. Bulk superconductivity is confirmed by a
+large anomaly [Fig. 3(c)] at a T_(c) = 3.72 K as determined by the
+entropy-balance method. This is consistent with T_(c) determined by the
+dc magnetic-susceptibility and resistivity measurements. Using γ and the
+specific-heat-jump value ΔC/T_(c) at the superconducting transition
+temperature, ΔC/γT_(c) can be calculated and is found to be 1.41, which
+is very close to the BCS value of 1.426.
+
+In a simple Debye model, the β coefficient is related to the Debye
+temperature (Θ_(D)) through
+$\Theta_{D}=(\frac{12\pi^{+}}{5\beta}nR)^{1}$, and the estimated Debye
+temperature for PbTaSe₂ is only 143 K, which reflects the fact that it
+contains heavy elements. As can be seen from Fig. 3(a), $C_{\rm Debye}$
+with Θ_(D) = 143 K (dotted blue line) is not large enough to reach the
+experimental heat-capacity values above 40 K. Therefore we fit the data
+in the temperature range 10 to 300 K by using the formula
+$C_{p}=\gamma\,T+kC_{\rm Debye}(T)+(1-k)C_{\rm Einstein}(T)$, in which
+higher-energy optical modes are considered. The first term (γ T) is the
+electronic contribution and the k parameter corresponds to the weight of
+the phonon contributions to the specific heat given by the Debye
+($C_{\rm Debye}$) and Einstein ($C_{\rm Einstein}$) models,
+respectively:
+
+$$C_{\rm Debye}(T) = 9n\,R\left(\frac{T}{\Theta_{D}}\right)^{3}\int\frac{x^{4}\exp(x) }{[\exp(x-1)]^{2}},$$
+$$C_{\rm Einstein}(T) = 3n\,R\left(\frac{\Theta_{E}}{T}\right)^{2}\exp\left(\frac{\Theta _{E}}{T}\right)\left[\exp\left(\frac{\Theta_{E}}{T}-1\right)\right]^{-2}.$$
+
+Θ_(D) and Θ_(E) are the Debye and Einstein temperatures, respectively.
+The fit represented by the solid, red line in Fig. 3(a) gives 41
+
+With these results and assuming μ^(*) = 0.13, the electron-phonon
+coupling constant λ_(ep) can be calculated from the inverted McMillans
+formula [26]
+
+$$\lambda_{ep}=\frac{1.04+\mu^{*}\ln\left(\frac{\Theta_{D}}{1.45\lambda_{T}} \right)}{(1-0.62)\mu^{*}\ln\left(\frac{\Theta_{D}}{1.45\lambda_{T}}\right)-1.04}$$
+
+and is found to be 0.74. This value is similar to that found in other
+moderately coupled superconductors such as YPd₂Sn and HfPd₂Al [27].
+Having the Sommerfeld parameter and the electron-phonon coupling, the
+noninteracting density of states at the Fermi energy can be calculated
+from
+
+$$N(E_{F})=\frac{3\gamma}{\pi^{2}k_{B}^{2}(1+\lambda_{ep})}.$$
+
+The value obtained for PbTaSe₂, N(E_(F)) = 1.7 states eV⁻¹ per formula
+unit, agrees well with the 1.5 states eV⁻¹ per formula unit calculated
+from theoretical predictions (see below). Table 1 compares the measured
+and derived superconductivity parameters of PbTaSe₂ with other
+noncentrosymmetric superconductors: Mg₁₀Ir₁₉B₁₆ and Nb_(0.18)Ra_(0.82).
+
+Electronic-structure calculations were performed in the framework of
+density functional theory using the wien2k code [28] with a
+full-potential linearized augmented plane-wave and local orbitals basis
+together with the Perdew-Ernzerhof parametrization of the generalized
+gradient
+
+  Parameter                   Unit       Nb_(0.18)Ra_(0.82)[23]   Mg₁₀Ir₃₉B₁₆[8]   PbTaSe₂
+  ---------------------- -------------- ------------------------ ---------------- ---------
+  T_(c)                        K                  8.8                  4.45         3.72
+  μ₀H_(c1)(0)                  mT                 5.57                 3.0           7.5
+  μ₀H_(c2)(0)                  T                  17.3                 0.77         1.47
+  μ₀H_(c0)(0)                  nm                 4.4                   21           15
+  λ_(c2)(0)                    nm                 363                  404           248
+  κ(0)                         83                  20                   17        
+  ν(0)                    mJ mol⁻¹ K⁻²            53.4                 52.6          6.9
+  ΔC/γT_(c)                   1.86                1.60                 1.41       
+  $\mu_{0}H^{\rm PAH}$         T                  16.8                 8.2           6.8
+  Θ_(D)                        K                  383                  280           112
+  λ_(ep)                      0.73                0.66                 0.74       
+
+Table 1: Superconducting parameters of PbTaSe₂.
+
+Figure 3: (Color online) (a) The specific heat versus temperature
+measurements represented by the open circles. The solid red line is a
+fit to a combined model where 41
+
+approximation [29, 30]. In order to check the robustness of the
+electronic-structure calculations, they were also performed using the
+Trans-Blaha modified Becke-Johnson (mBJ) functional [31], which resulted
+in no significant differences.
+
+Band structure calculations for PbTaSe₂ immediately unveil a single bulk
+3D Dirac cone at the K point in the Brillouin zone that is gapped by
+large SOC [Fig. 4(a)]. The Dirac cone at K in graphene is also gapped by
+SOC, albeit by only a few mK; in PbTaSe₂, the strong SOC gaps the cone
+by about 0.8 eV. This single Dirac cone that is gapped by SOC is highly
+suggestive of PbTaSe₂ being topologically nontrivial, as this motif is
+observed in both graphene [32] (which is a quantum spin Hall insulator)
+and Bi₁₄Rh₁[33] (which is predicted to be a weak topological insulator).
+Also, 3D Dirac cones have recently been observed in the two semimetals
+Cd₃As₂ and Na₃Bi which, if gapped, would drive the systems into the
+topological insulator regime. Furthermore, the four states that were
+degenerate at the Dirac point without SOC, when SOC is included, now
+have different eigenvalues under S6 (C6-bar), C3, and mirror operations.
+The existence of these symmetries at points where there are possible
+band inversions suggests the possibility of topological surface states
+protected by crystalline symmetry, as is seen in topological crystalline
+insulators [34, 35, 36]. Furthermore, although PbTaSe₂ is a metal, there
+is a continuous gap formed around E_(F) when SOC is considered. A closer
+look at the electronic structure in Fig. 4(a) reveals two band crossings
+along A-L and A-H (that are not present along Γ-M or Γ-K, demonstrating
+that the coupling in the z direction is important) that become gapped
+with the inclusion of SOC.
+
+The combination of large SOC and broken inversion symmetry is also
+apparent in the large spin splitting observed in the electronic
+structure. This is most readily observed around the H point in Fig.
+4(a). This spin splitting is on a similar magnitude (in the tenths of
+eVs) as in the giant Rashba semiconductor BiTeI [37]. In fact,
+Rashba-type spin splitting is observed around the M and L points around
+the continuous gap shown in Fig. 4(a). Finally, Fig. 4(b) shows the
+electronic structure of the Pb sublattice alone. This demonstrates that
+the Dirac cone observed at K is uniquely due to the Pb sublattice and,
+with SOC considered, becomes gapped as well. In fact, the Pb sublattice
+goes from being metallic to being almost completely gapped with the
+inclusion of SOC. The electronic structure therefore shows that some of
+the charge carriers in PbTaSe₂ are massive 3D Dirac electrons. If the
+apparent band inversion of the 3D massive Dirac electrons [38] gives
+rise to a topological crystalline insulator-like state as in
+Pb_(0.77)Sn_(0.23)Se [34], then a cleaved 001 surface of PbTaSe₂ may
+host Majorana zero modes at the surface even if the bulk superconducting
+gap is nontrivial, due to the fact that the 001 surface maintains the
+mirror and C3 symmetries [39]. Furthermore, the large spin splitting
+observed in the electronic structure indicates the likelihood of an
+unconventional pairing mechanism that could lead to a nontrivial
+superconducting gap–another possible way of supporting Majorana fermions
+at a cleaved surface of PbTaSe₂.
+
+In conclusion, we report the discovery of superconductivity in PbTaSe₂
+and its unusual electronic structure. The single-layer Pb sublattice in
+PbTaSe₂ behaves similarly to graphene monolayers in that it also
+generates a Dirac point at K, generating 3D massive Dirac fermions by
+large SOC. Unlike graphene superlattices, however, the inclusion of Pb
+layers in a natural superlattice with TaSe₂ does not affect the in-plane
+orbitals of Pb that make the Dirac cone at K. This represents a unique
+case where a two-dimensional (2D) elemental sublattice capable of
+generating 2D massive Dirac fermions can be interfaced with a transition
+metal dichalcogenide to create a superconducting superlattice,
+generating 3D massive Dirac fermions and broken inversion symmetry, all
+in a thermodynamically stable material. In addition to PbTaSe₂ (T_(c) =
+3.72 K) and InTaS₂ (T_(c)≈ 1.0 K [40]), layered materials of this type
+[21, 41] may represent a new family of materials where the interplay of
+noncentrosymmetric superconductivity and large SOC can lead to
+nontrivial electronic topologies.
+
+This research was supported by the US Department of Energy, Grant No. DE
+FG02-98-ER45706.
+
+## References
+
+* [1] E. Bauer, G. Hilscher, H. Michor, C. Paul, E. W. Scheidt, A.
+Gribanov, Y. Seropegin, H. Noel, M. Sigrist, and P. Rogl, Phys. Rev.
+Lett. **92**, 027003 (2004). * [2] E. Bauer and M. Sigrist,
+_Non-Centrosymmetric Superconductors: Introduction and Overview_
+(Springer, Berlin, 2012), Vol. 847.
+
+Figure 4: (Color online) (a) Calculated electronic structures of PbTaSe₂
+with and without spin-orbit coupling (SOC). Bands are shaded to
+highlight the continuous gap opened when SOC is included. The Dirac cone
+that is gapped with SOC as well as band crossings along A-H and A-L,
+which are similarly gapped implying a possible band inversion, are
+circled in green. (b) Electronic structure of the two-dimensional Pb
+sublattice alone in PbTaSe₂, with green circles highlighting the Dirac
+cone that is gapped by SOC at K, just as in bulk PbTaSe₂.
+
+* [3] K. Matano, S. Maeda, H. Sawaoka, Y. Muro, T. Takabatake, B. Joshi,
+S. Ramakrishnan, K. Kawashima, J. Akimitsu, and G. Zheng, J. Phys. Soc.
+Jpn. **82**, 084711 (2013). * [4] M. S. Bahramy, R. Arita, and N.
+Nagaosa, Phys. Rev. B **84**, 041202 (2011). * [5] T. Akazawa, H.
+Hidaka, T. Fujiwara, T. Kobayashi, E. Yamamoto, Y. Haga, R. Settai, and
+Y. Onuki, J. Phys.: Condens. Matter **16**, 1202 (2004). * [6] K.
+Togano, P. Badica, Y. Nakamori, S. Orimo, H. Takeya, and K. Hirata,
+Phys. Rev. Lett. **93**, 247004 (2004). * [7] P. Badica, T. Kondo, and
+K. Togano, J. Phys. Soc. Jpn. **74**, 1014 (2005). * [8] T. Klimczuk, F.
+Ronning, V. Sidorov, R. J. Cava, and J. D. Thompson, Phys. Rev. Lett.
+**99**, 257004 (2007). * [9] Y. Okamoto, M. Nohara, H. Aruga-Katori, and
+H. Takagi, Phys. Rev. Lett. **99**, 137207 (2007). * [10] M. Z. Hasan
+and C. L. Kane, Rev. Mod. Phys. **82**, 3045 (2010). * [11] H. Zhang,
+C.-X. Liu, X.-L. Qi, X. Dai, Z. Fang, and S.-C. Zhang, Nat. Phys. **5**,
+438 (2009). * [12] K. S. Novoselov, A. K. Geim, S. Morozov, D. Jiang, Y.
+Zhang, S. Dubonos, I. Grigorieva, and A. Firsov, Science **306**, 666
+(2004). * [13] K. Novoselov, A. K. Geim, S. Morozov, D. Jiang, M. K. I.
+Grigorieva, S. Dubonos, and A. Firsov, Nature (London) **438**, 197
+(2005). * [14] A. K. Geim and K. S. Novoselov, Nat. Mater. **6**, 183
+(2007). * [15] B. Yan, L. Muchler, and C. Felser, Phys. Rev. Lett.
+**109**, 116406 (2012). * [16] S. Borisenko, Q. Gibson, D. Evtushinsky,
+V. Zabolotnyy, B. Buechner, and R. J. Cava, arXiv:1309.7978. * [17] M.
+Neupane, S. Xu, R. Sankar, N. Alidoust, G. Bian, C. Liu, I. Belopolski,
+T.-R. Chang, H.-T. Jeng, H. Lin _et al._, arXiv:1309.7892. * [18] Z.
+Liu, B. Zhou, Z. Wang, H. Weng, D. Prabhakaran, S.-K. Mo, Y. Zhang, Z.
+Shen, Z. Fang, X. Dai _et al._, arXiv:1310.0391. * [19] T. Liang, Q.
+Gibson, J. Xiong, M. Hirschberger, S. P. Koduvayur, R. Cava, and N. Ong,
+Nat. Commun. **4**, 2696 (2013). * [20] C.-C. Liu, W. Feng, and Y. Yao,
+Phys. Rev. Lett. **107**, 076802 (2011). * [21] R. Eppinga and G.
+Wiegers, Physica B + C (Amsterdam) **99**, 121 (1980). * [22] R. Micnas,
+J. Ranninger, and S. Robaszkiewicz, Rev. Mod. Phys. **62**, 113
+(1990). * [23] A. B. Karki, Y. M. Xiong, N. Haldolaarachchige, S.
+Stadler, I. Vekhter, P. W. Adams, D. P. Young, W. A. Phelan, and J. Y.
+Chan, Phys. Rev. B **83**, 144525 (2011). * [24] M. D. Lan, J. C. Chang,
+K. T. Lu, C. Y. Lee, H. Y. Shih, and G. Y. Jeng, IEEE Trans. Appl.
+Supercond. **11**, 3607 (2001). * [25] N. Werthamer, E. Helfand, and P.
+Hohenberg, Phys. Rev. **147**, 295 (1966). * [26] W. McMillan, Phys.
+Rev. **167**, 331 (1968). * [27] T. Klimczuk, C. Wang, K. Gofryk, F.
+Ronning, J. Winterlik, G. Fecher, J.-C. Griveau, E. Colineau, C. Felser,
+J. Thompson _et al._, Phys. Rev. B **85**, 174505 (2012). * [28] P.
+Blaha, K. Schwarz, P. Sorantin, and S. Trickey, Comput. Phys. Commun.
+**59**, 399 (1990). * [29] J. P. Perdew, K. Burke, and M. Ernzerhof,
+Phys. Rev. Lett. **77**, 3865 (1996). * [30] The plane-wave cutoff
+parameter RMTKmax was set to 8 and the Brillouin zone (BZ) was sampled
+by 10000 k points or, in the case of the Pb sublattice calculation, a
+3 × 3 × 1k mesh * [31] F. Tran and P. Blaha, Phys. Rev. Lett. **102**,
+226401 (2009). * [32] C. L. Kane and E. J. Mele, Phys. Rev. Lett.
+**95**, 226801 (2005). * [33] B. Rasche, A. Isaeva, M. Ruck, S.
+Borisenko, V. Zabolotnyy, B. Buchner, K. Koepernik, C. Ortix, M.
+Richter, and J. van den Brink, Nat. Mater. **24**, 422 (2013). * [34] P.
+Dziawa, B. J. Kowalski, K. Dybko, R. Buczko, A. Szczerbakow, M. Szot, E.
+Lusakowska, T. Balasubramanian, B. M. Wojek, M. H. Berntsen, O.
+Tjernberg, and T. Story, Nat. Mater. **11**, 1023 (2012). * [35] L. Fu,
+Phys. Rev. Lett. **106**, 106802 (2011). * [36] T. H. Hsieh, H. Lin, J.
+Liu, W. Duan, A. Bansil, and L. Fu, Nat. Commun. **3**, 982 (2012). *
+[37] K. Ishizaka, M. Bahramy, H. Murakawa, M. Sakano, T. Shimojima, T.
+Sonobe, K. Koizumi, S. Shin, H. Miyahara, A. Kimura _et al._, Nat.
+Mater. **10**, 521 (2011). * [38] Z. Zhu, A. Collaudin, B. Fauque, W.
+Kang, and K. Behnia, Nat. Phys. **8**, 89 (2011). * [39] C. Fang, M. J.
+Gilbert, and B. A. Bernevig, arXiv:1308.2424. * [40] F. Di Salvo, G.
+Hull, Jr., L. Schwartz, J. Voorhoeve, and J. Waszczak, J. Chem. Phys.
+**59**, 1922 (1973). * [41] M. N. Ali, H. Ji, D. Hirai, M. K. Fuccillo,
+and R. J. Cava, J. Solid State Chem. **202**, 77 (2013).

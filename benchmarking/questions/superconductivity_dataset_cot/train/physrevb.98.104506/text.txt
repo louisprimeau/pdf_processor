@@ -1,0 +1,460 @@
+
+
+# Superconducting and normal-state properties of the noncentrosymmetric superconductor Re\({}_{3}\)Ta
+
+J. A. T. Barker
+
+joel.barker@psi.ch Physics Department, University of Warwick, Coventry CV4 7AL, United Kingdom Laboratory for Muon-Spin Spectroscopy, Paul Scherrer Institut, CH-5232 Villigen PSI, Switzerland ISIS facility, STFC Rutherford Appleton Laboratory, Harwell Science and Innovation Campus, Oxfordshire OX11 0QX, United Kingdom
+
+B. D. Breen
+
+Physics Department, University of Warwick, Coventry CV4 7AL, United Kingdom
+
+R. Hanson
+
+Physics Department, University of Warwick, Coventry CV4 7AL, United Kingdom
+
+A. D. Hillier
+
+ISIS facility, STFC Rutherford Appleton Laboratory, Harwell Science and Innovation Campus, Oxfordshire OX11 0QX, United Kingdom
+
+M. R. Lees
+
+Physics Department, University of Warwick, Coventry CV4 7AL, United Kingdom
+
+G. Balakrishnan
+
+Physics Department, University of Warwick, Coventry CV4 7AL, United Kingdom
+
+D. McK. Paul
+
+Physics Department, University of Warwick, Coventry CV4 7AL, United Kingdom
+
+R. P. Singh
+
+Department of Physics, Indian Institute of Science Education and Research Bhopal, Bhopal 462066, India
+
+###### Abstract
+
+The noncentrosymmetric superconductor, Re\({}_{3}\)Ta, has been characterized in detail with a combination of magnetization, heat capacity, and electrical resistivity measurements, as well as a microscopic investigation of the internal magnetic fields using muon spin spectroscopy (\(\mu\)SR). In low applied fields, we observe 100% flux expulsion at a temperature of \(T_{c}\) = 4.68 K, which is concomitant with a sudden decrease of the electrical resistivity to zero and a sharp discontinuity in the heat capacity, confirming bulk superconductivity in this material. We find that Re\({}_{3}\)Ta is a poor metal, with superconductivity occurring in the dirty limit, and in which the disorder in the structure dominates the physical properties. Zero-field \(\mu\)SR shows that the superconducting state preserves time-reversal symmetry, and transverse-field measurements of the superfluid density are well described by an isotropic \(s\)-wave model. A careful analysis of the internal field distribution reveals a high level of disorder in the vortex lattice. Furthermore, we have combined the experimental data and calculated the effective mass, carrier density, and electronic mean-free path in this material, and ultimately show that Re\({}_{3}\)Ta lies close to the unconventional region of the Uemura plot.
+
+DOI: 10.1103/PhysRevB.98.104506
+
+## I Introduction
+
+Noncentrosymmetric superconductors (NCS) have been recognized as good candidates to search for superconductivity with broken time-reversal symmetry (TRS) [1]. This unconventional phenomenon is expected to occur in NCS due to the loss of inversion symmetry, which leads to an antisymmetric spin-orbit coupling (ASOC) that can allow a mixed-parity superconducting ground state. To date, only a few NCS have been found to show TRS breaking, including LaNiC\({}_{2}\)[2], La\({}_{7}\)Ir\({}_{3}\)[3], and the \(\alpha\)-Mn superconductors Re\({}_{6}\)(Ti,Zr,Hf) [4, 5, 6]. It is this latter family of materials that has garnered much recent attention, as analysis of the point-group symmetry of the crystal structure has shown that a mixed-parity ground state is supported. Even though superconductivity with broken TRS has been reported, muon measurements of the orbital pairing symmetry suggest a dominant \(s\)-wave conventional coupling in all members of this class of materials. By studying these materials, it is hoped that the effect of varying the ASOC on the mixed-parity ground state can be investigated, in the absence of the strong electronic correlations present in other NCS.
+
+In this paper, we report a detailed investigation of the superconductivity in Re\({}_{3}\)Ta, using bulk measurements of the magnetization, heat capacity, and resistivity, coupled with a microscopic probe of the vortex lattice using muon-spin spectroscopy. To supplement the experimental measurements, we have performed calculations of the electronic properties of the \(\alpha\)-Mn family of materials, and have constructed the Uemura plot of the currently studied superconductors. Curiously, the \(\alpha\)-Mn system appears to lie in the vicinity of other unconventional superconductors [7].
+
+## II Sample growth and structural determination
+
+Polycrystalline samples of Re\({}_{3}\)Ta were prepared by arc-melting stoichiometric quantities of Re (99.99%) and Ta (99.999%) in a tri-arc furnace under a high-purity Ar atmosphere. A Ti getter was utilized to remove any residual oxygen in the furnace. The as-cast ingot was flipped and remelted several times to ensure thorough mixing of the constituent elements. The sample was then sealed inside an evacuated quartz tube and annealed at 800 \({}^{\circ}\)C for 1 week in order to stabilize the \(\alpha\)-Mn structure and improve sample homogeneity, before being furnace cooled and removed. The final material was friable, and crushed easily for x-ray diffraction (XRD) and muon-spin spectroscopy (\(\mu\)SR) experiments.
+
+Powder XRD measurements were performed using Cu-\(K\alpha_{1}\) radiation with a wavelength of \(\lambda\) = 1.540562 A on a Panalytical X-Pert Pro diffractometer. The resulting pattern and refinement are presented in Fig. 1. The crystal structure was Rietveld refined using the topas software [8], and is described well by a model with only a single phase of the expected \(\alpha\)-Mn noncentrosymmetric structure. The refined lattice parameter is \(a\) = 9.69067(3) A, with the full results given in Table 1. This is in good agreement with published literature [9, 10]. No impurity phases were detected in the sample to within the sensitivity of the measurement. The Re-Ta series of alloys where the Re:Ta ratio is close to 3:1 form as single-phase materials, with the possibility of some site mixing between Re and Ta sites [11]. The sample used here is found to have a refined stoichiometry of Re0.76Ta0.24, close to the target composition Re3Ta.
+
+## III Magnetization and lower critical field
+
+A Quantum Design Magnetic Property Measurement System (MPMS) was used to perform temperature-dependent ac and dc susceptibility measurements. Figure 2(a) shows the temperature dependence of the dc magnetic susceptibility, _kh_d, measured under an applied field of 1 mT. Both zero-field cooled warming (ZFCW) and field-cooled cooling (FCC) regimes were investigated, with a clear diamagnetic signal apparent, corresponding to the onset of superconductivity. The superconducting transition temperature, _Tc_, was determined as the point at which a linear extrapolation of the steepest slope of _kh_(_T_) intersected with the extrapolation of the normal-state susceptibility, yielding \(T_{\text{c}}^{\text{dc}} = 4.68(2)\) K. The demagnetization factor, \(D\), of the sample was determined from the magnetization, \(M\), in the superconducting state in applied fields well below _H_c1, i.e., in the Meissner state. Given that the measured susceptibility, _kh_m = _M_/_H_, is related to the true susceptibility _kh_ and \(D\) by \(\chi = \chi_{\text{m}}/(1 - D\chi_{\text{m}})\) and \(\left| \chi \right| \leqslant 1\), \(D\) can be determined experimentally. For the dc and ac susceptibility measurements performed in this section, the same sample and orientation to the field was used, and the demagnetization factor was determined to be 0.25. Correcting the dc susceptibility data using this value of \(D\) shows that the ZFCW measurements are consistent with a 100% Meissner volume fraction. Upon field cooling below _Tc_, the superconductor does not return to a full Meissner state, indicating that a portion of magnetic flux is pinned within the body of the superconductor.
+
+Further information about the superconducting state is obtained from the ac magnetic susceptibility data, presented in Fig. 2(b). When performing an ac measurement, a time-dependent magnetic field of the form
+
+\[H(t) = H_{\text{dc}} + H_{\text{ac}}\cos(2\pi\,vt)\]
+
+is applied, where _H_dc is a time-independent dc field, and the second term describes the time-dependent part, which oscillates with amplitude _H_ac at frequency \(v\). For our measurements, \(m\)0_H_ac = 0.3 mT, \(v\) = 3 Hz, and \(m\)0_H_dc was varied from 0-100 mT. The data have been corrected for demagnetization effects, as described in the previous paragraph. In zero field, a sharp peak is seen in the out-of-phase susceptibility (_kh_'), which indicates a bulk superconducting transition at \(T_{\text{c}}^{\text{ac}} = 4.6(1)\) K. The in-phase susceptibility (_kh_') rapidly decreases to a value of -1, indicating a full superconducting volume fraction. Below 4.0 K, _kh_' is zero to within the uncertainty of the measurement, which is good evidence that the sample is fully in the Meissner phase [12]. Upon applying a static field of 10 mT, the sharp peak at _Tc_ is significantly broadened. Furthermore, _kh_' is nonzero down to at least 2 K. This indicates the formation of the mixed phase, in which lines of magnetic flux penetrate the superconductor, and form the vortex lattice. The nonzero value of _kh_' indicates losses due to vortex lines being dragged through the sample as the applied field changes. The breadth of the peak indicates a large lossy component close to _Tc_ in this applied field, and tells us that the vortex lattice is dynamic. This is further evidenced when applying a field ten times stronger--the peak in _kh_' becomes very broad, with the peak shifting to 3.5 K. The sample exhibits strong flux motion in this field and temperature range studied.
+
+\begin{table}
+\begin{tabular}{c c c c c c} Structure type & \multicolumn{4}{c}{_α_-Mn} \\ Space-group & \(I\bar{4}3m\) (No. 217) & & & & \\ Lattice parameters & \(a\) (Å) & 9.69067(3) & & & \\  & _V_cell (Å’) & 910.042(8) & & & \\ Atom & Position & Occupancy & \(x\) & \(y\) & \(z\) \\ Re1 & 2a & 1 & 0 & 0 & 0 \\ Re2 & 24g & 0.75 & 0.3583(2) & 0.3583(2) & 0.0440(2) \\ Re3 & 24g & 1 & 0.0901(2) & 0.0901(2) & 0.2823(2) \\ Ta1 & 8c & 1 & 0.3185(3) & 0.3185(3) & 0.3185(3) \\ Ta2 & 24g & 0.25 & 0.3583(  Field-dependent magnetic properties were measured using an Oxford Instruments vibrating sample magnetometer (VSM) capable of achieving magnetic fields of up to 12 T. Figure 3(a) displays virgin magnetization against field sweeps for a range of temperatures. For applied fields smaller than the lower critical field, \(H_{\text{c1}}\), the sample is in the Meissner phase, and the magnetic response is expected to be linear with gradient \(M/H=-1\). Above \(H_{\text{c1}}\), flux begins to penetrate the sample, and the magnetization response begins to deviate from linearity. In order to precisely determine this point, the deviation from linearity \(\Delta M\) was calculated, following a methodology described elsewhere [13]. The data have been corrected for a constant demagnetization factor \(D=0.126\). The resulting values of \(\mu_{0}H_{\text{c1}}\) determined in this manner are presented in Fig. 3(b). To estimate the 0 K value of \(H_{\text{c1}}\), the data have been modeled using the Ginzburg-Landau equation
+
+\[H_{\text{c1}}(T)=H_{\text{c1}}(0)\Bigg{[}1-\left(\frac{T}{T_{\text{c}}}\right) ^{2}\Bigg{]}.\] (2)
+
+Fitting this to the data yields \(\mu_{0}H_{\text{c1}}(0)=2.13(5)\) mT, with \(T_{\text{c}}^{H_{\text{c1}}}=4.7(1)\) K.
+
+Figure 3(c) presents a high-field magnetization hysteresis loop collected in the superconducting state at 1.5 K. The magnetic behavior becomes irreversible below \(\mu_{0}H_{\text{tr}}\approx 4\) T, above which point the applied field becomes strong enough to depin vortices. This type of reversible behavior has also been observed in Re\({}_{3}\)W [14] and Re\({}_{6}\)Hf [15]. The transition to the normal state is apparent as a subtle change of gradient at a much higher field of \(\mu_{0}H_{\text{c2}}=6.1\) T. Magnetization data were also collected in the normal state just above \(T_{\text{c}}\) at 5.0 K, and are also presented in Fig. 3(c). A linear model of the form
+
+\[M(H)=M_{\text{r}}+\chi H\] (3)
+
+has been fit to the high-field data, where \(M_{\text{r}}\) is the remanent magnetization (assumed to arise from impurities), and \(\chi\) is the
+
+\begin{table}
+\begin{tabular}{l c c} Property & Unit & Value \\ \hline \(T_{\text{c}}^{\text{c}}\) & K & 4.68(2) \\ \(T_{\text{c}}^{\text{ac}}\) & K & 4.6(1) \\ \(T_{\text{c}}^{\text{ac}}\) & K & 4.7(1) \\ \(\mu_{0}H_{\text{c1}}(0)\) & mT & 2.13(5) \\ \(\chi(T=5\) K) & & 4.34(1)\(\times 10^{-5}\) \\ \end{tabular}
+\end{table}
+Table 2: Superconducting and normal-state properties of Re\({}_{3}\)Ta determined from ac/dc susceptibility and magnetization measurements.
+
+Figure 3: (a) Field dependence of the magnetization, collected between 1.8 and 4.65 K, in increments of 0.15 K. (b) Temperature dependence of the lower critical field, determined from the magnetization measurements in (a). The solid line is a result of fitting Eq. (2) to the data. (c) Field dependence of magnetization collected in the superconducting state at 1.5 K, and in the normal state just above \(T_{\text{c}}\) at 5 K.
+
+Figure 2: (a) Temperature dependence of the dc magnetic susceptibility, collected under an applied field of 1 mT. (b) Temperature dependence of the ac susceptibility collected in different static fields, \(\mu_{0}H_{\text{ac}}\), in an ac field of \(\mu_{0}H_{\text{ac}}=0.3\) mT at a frequency of 3 Hz.
+
+  dimensionless intrinsic magnetic susceptibility. This yields the fit parameters \(M_{\rm r}=59.5(4)\) Am\({}^{-1}\) and \(\chi=4.34(1)\times 10^{-5}\). Based on the small value of \(M_{\rm s}\), we conclude that there is no evidence for a ferromagnetic or ferrimagnetic impurity phase in our sample. A summary of the physical properties determined via magnetization is presented in Table 2.
+
+## 4 IV. Electrical resistivity
+
+Electrical resistivity measurements were performed in a Quantum Design Physical Property Measurement System (PPMS) using a standard four-probe ac technique, with a measurement frequency of 113 Hz and an excitation current of 10.3 mA. The electrical resistivity of Re\({}_{3}\)Ta as a function of temperature for 1.8 \(\leqslant T\leqslant\) 300 K in zero applied field is shown in Fig. 4. Re\({}_{3}\)Ta behaves like a poor metal, with a shallow negative gradient for \(\rho\) observed upon cooling from room temperature. At 300 K, the resistivity is 257(1)\(\mu\Omega\)cm, which levels off to a residual value of \(\rho_{0}=248.5(3)\)\(\mu\Omega\)cm by 10 K. These values yield a residual resistivity ratio (RRR) of 1.04(1). This low value for the RRR is comparable to other Re based compounds in this family, such as Re\({}_{3}\)W (\(\approx\)1.15) [14], Re\({}_{6}\)Hf (\(\approx\)1.08) [16], Re\({}_{6}\)Zr (\(\approx\)1.09) [17], and Nb\({}_{0.18}\)Re\({}_{0.82}\) (\(\approx\)1.3) [18]. It is likely that a combination of strong electronic scattering, with a large temperature-independent resistivity due to the structural disorder in the Re and Ta occupancies and grain boundaries are responsible for the poor conductivity.
+
+The inset of Fig. 4 presents the resistivity data close to \(T_{\rm c}\). The superconducting transition is observed with an onset temperature of \(T_{\rm c}^{\rm onset}=4.70(5)\) K. The superconducting transition is very sharp, with a width \(\Delta T_{\rm c}\leqslant 0.1\) K, achieving true zero resistivity at \(T_{\rm c}^{\rm zero}=4.6(5)\) K. Taking the middle of the transition as the critical temperature, we find \(T_{\rm c}^{\rm mid}=4.65(5)\) K, which is consistent with the previous estimates of \(T_{\rm c}\). There is a small dip in the resistivity at \(T_{\rm c}^{\rm i}=6.9\) K, which is most likely due to the presence of a small amount of superconducting impurity with a higher transition temperature than the bulk material. No sign of this fraction has been observed in magnetization, heat capacity, or our \(\mu\)SR results, and there was no sign of a secondary phase in the powder XRD diffractogram. We are therefore confident that the results presented here are indicative of the majority \(\alpha\)-Mn phase of Re\({}_{3}\)Ta, and that the impurity content is negligible.
+
+It is noteworthy that the value of \(T_{\rm c}^{\rm i}=6.9\) K is very close to the value of \(T_{\rm c}=6.78\) K reported for this material in the original work by Blaugher and Hulm [19]. As there is no temperature-dependent data presented in the original work, it may be that a similar impurity content produced a misleading value for the bulk transition temperature. A similar issue occurred in the study of Re\({}_{3}\)W [14], in which the original paper reported a value of 9 K for the superconducting transition temperature of the noncentrosymmetric phase. In fact, this is closer to the value of 9.4 K reported in the phase-pure centrosymmetric Re\({}_{3}\)W compound, with the noncentrosymmetric structure becoming superconducting at the lower temperature of 7.8 K. These considerations suggest that \(T^{\rm i}\) may correspond to the superconducting transition temperature of a centrosymmetric form of Re\({}_{3}\)Ta, which exists as a very small impurity phase in our sample, and is not discernible via XRD.
+
+The normal-state resistivity has been analyzed in the framework of the Bloch-Gruneisen (BG) model, which describes the resistivity arising due to electrons scattering from longitudinal acoustic phonons. The temperature dependence of the resistivity, \(\rho(T)\), is modeled as
+
+\[\rho(T)=\rho_{0}+\rho_{\rm BG}(T),\] (4)
+
+where
+
+\[\rho_{\rm BG}(T)=4r\left(\frac{T}{\Theta_{\rm R}}\right)^{5}\int_{0}^{\Theta _{\rm R}/T}\frac{x^{5}}{(e^{x}-1)(1-e^{-x})}dx\] (5)
+
+is the BG resistivity [20]. The parameter, \(\Theta_{\rm R}\), is an estimate of the Debye temperature in the material, and \(r\) is a material-dependent constant. The \(\rho(T)\) data above \(T_{\rm c}\) are well described by this model, yielding the fit parameters \(\rho_{0}=248.52(2)\)\(\mu\Omega\)cm, \(\Theta_{\rm R}=300(4)\) K, and \(r=8.9(1)\)\(\mu\Omega\)cm. A summary of the properties determined from the resistivity measurements is listed in Table 3.
+
+The effect of applying a magnetic field on \(T_{\rm c}\) is shown in Fig. 5. \(T_{\rm c}\) is suppressed and the width of the superconducting transition increases as the magnitude of the applied field is increased. These values of \(T_{\rm c}\) as a function of field are combined with other measurements in Sec. 6 to estimate the upper critical field, \(H_{\rm c2}\).
+
+\begin{table}
+\begin{tabular}{l c c} Property & Unit & Value \\ \hline \(T_{\rm c}^{\rm onset}\) & K & 4.7(5) \\ \(T_{\rm c}^{\rm onset}\) & K & 4.6(5) \\ \(T_{\rm c}^{\rm mid}\) & K & 4.65(5) \\ \(\rho_{0}\) & \(\mu\Omega\)cm & 248.52(2) \\ RRR & & 1.04(1) \\ \(\Theta_{\rm R}\) & K & 300(4) \\ \(r\) & \(\mu\Omega\)cm & 8.9(1) \\ \end{tabular}
+\end{table}
+Table 3: Superconducting and normal-state properties of Re\({}_{3}\)Ta determined from electrical resistivity measurements.
+
+Figure 4: Temperature dependence of the electrical resistivity in zero field, with the inset showing the superconducting transition at \(T_{\rm c}^{\rm mid}=4.65\) K. Note the break on the \(y\) axis of the main figure. The solid line is the result of fitting the Bloch-Grüneisen model to the data.
+
+  
+
+## V. Heat Capacity
+
+Heat capacity was measured using a two-tau relaxation method in a Quantum Design PPMS at temperatures ranging from 1.9-300 K in zero field or in magnetic fields up to 9 T. Lower temperature measurements down to 0.4 K were carried out using a \({}^{3}\)He insert. The sample was attached to the measuring stage using Apiezon N grease to ensure good thermal contact. Measurements of the heat capacity at constant pressure, \(C_{\text{p}}\), collected in the temperature range \(0.3\leqslant T\leqslant 300\) K in zero applied magnetic field are presented in Fig. 6. There is a discontinuity at the superconducting transition temperature, \(T_{\text{c}}\) = 4.68(2) K, in good agreement with the resistivity and magnetization measurements. There is no evidence of a discontinuity at \(T^{\text{i}}\) = 6.9 K, which supports the view that the superconducting impurity observed in the electrical resistivity is negligibly small, and as such the results presented here are representative of the majority \(\alpha\)-Mn Re\({}_{3}\)Ta phase. The peak of the transition is slightly rounded below \(T_{\text{c}}\).
+
+The normal-state heat capacity contains contributions from the electronic density of states and the phonon modes in the crystal. The low-temperature heat capacity collected in zero field, presented in Fig. 6(a), have been analyzed using
+
+\[C_{\text{p}}/T=\gamma_{\text{n}}+\beta T^{2}+\alpha T^{4},\] (6)
+
+where the Sommerfeld constant, \(\gamma_{\text{n}}\), is related to the density of states at the Fermi level, \(\beta\) is the Debye law lattice heat-capacity contribution, and \(\alpha\) is from higher-order lattice contributions. Fitting the data in the range \(4.8\leqslant T\leqslant 10\) K to Eq. (6) yields \(\gamma_{\text{n}}\) = 13.1(2) mJ mol\({}^{-1}\)K\({}^{-2}\), with \(\beta\) = 0.232(3) mJ mol\({}^{-1}\)K\({}^{-4}\) and \(\alpha\) = 0.44(4) \(\mu\)J mol\({}^{-1}\)K\({}^{-6}\). The Debye temperature is then calculated using
+
+\[\Theta_{\text{D}}=\left(\frac{12\pi^{4}Rp}{5\beta}\right)^{1/3},\] (7)
+
+where \(R\) is the molar gas constant, and \(p\) is the number of atoms per formula unit. From Eqs. (6) and (7), we calculate \(\Theta_{\text{D}}\) = 321(1) K, which is in agreement with the estimate from the resistivity, \(\Theta_{\text{R}}\) = 300(4) K.
+
+The heat capacity in the normal state may also be calculated over the full temperature range using
+
+\[C_{\text{p}}(T)=\gamma_{\text{n}}T+p\delta C_{D}(T)+p(1-\delta)C_{E}(T).\] (8)
+
+The second term in Eq. (8) is the contribution from acoustic phonons, given by the Debye model
+
+\[C_{D}(T)=9R\left(\frac{T}{\Theta_{\text{D}}}\right)^{3}\int_{0}^{\Theta_{ \text{D}}/T}\frac{x^{4}e^{x}}{(e^{x}-1)^{2}}dx,\] (9)
+
+where \(\Theta_{\text{D}}\) is the Debye temperature and \(R\) is the gas constant. The final term of Eq. (8) accounts for optical phonon modes, which are described by the Einstein model:
+
+\[C_{E}(T)=3R\left(\frac{\Theta_{\text{E}}}{T}\right)^{2}\frac{\exp(\Theta_{ \text{E}}/T)}{(\exp(\Theta_{\text{E}}/T)-1)^{2}},\] (10)
+
+where \(\Theta_{\text{E}}\) is the Einstein temperature. The parameter \(\delta\) determines the fractional contribution of each of the phonon terms to
+
+Figure 5: Temperature dependence of the electrical resistivity in a series of applied fields, from 1.0–5.5 T in steps of 0.5 T.
+
+Figure 6: (a) Temperature dependence of the heat capacity divided by temperature, \(C_{p}/T\), measured in zero-field between 0.4 and 10 K. The solid line is the result of fitting the BCS model for the heat capacity to the data. The dashed line is the polynomial fit of the data collected above \(T_{\text{c}}\), with an extrapolation below \(T_{\text{c}}\). (b) Temperature dependence of the heat capacity measured in zero field between 5 and 300 K. Three models are compared, as discussed in the main text.
+
+ the total heat capacity. At high temperatures, the heat capacity due to structural phonon modes is expected to approach the Dulong-Petit limit, \(C_{\rm DP}=3pR=12R\)[21].
+
+The heat capacity data in the range \(5\leqslant T\leqslant 300\) K presented in Fig. 6(b) were initially modeled by fitting Eq. (8) to the data with \(\delta\) fixed to one, i.e., using a purely Debye model. This yielded \(\Theta_{\rm D}=268(1)\) K, with the calculated model presented as the red, dashed line in the figure. This is much lower than the value of 321(1) K determined by fitting the low-temperature data to a polynomial law. However, this value of \(\Theta_{\rm D}\) clearly does not describe the data well over the full temperature range, as shown by the short, blue dashes in Fig. 6(b). This is actually the expected behavior for the Debye model, which typically fails to fit the heat capacity in the intermediate temperature range \(\Theta_{\rm D}/50<T<\Theta_{\rm D}/2\)[22]. This implies that the phonon density of states is not described well by the parabolic approximation employed by the Debye model, which is perhaps to be expected given that the structure features two atomic species, and the potential for site mixing and vacancies.
+
+A better description of the data in Fig. 6(b) was achieved by fitting Eq. (8) to the data with \(\Theta_{\rm D}\), \(\Theta_{\rm E}\), and \(\delta\) as free parameters--\(\gamma_{\rm n}\) was fixed to 13.1 mJ mol-1K-2 as determined from the low-temperature fit using Eq. (6). This yielded the solid, green line in the figure, with the parameters \(\Theta_{\rm D}=242(3)\) K, \(\Theta_{\rm E}=385(5)\) K, and \(\delta=0.76(5)\) K. Evidently, this Debye temperature is not in agreement with the low-temperature calculation of \(\Theta_{\rm D}=321(1)\) K. Given the much higher value of the Einstein temperature, we interpret this Einstein contribution to the total heat capacity as arising from higher-frequency optical modes, whereas the Debye temperature in this model describes the lower-frequency acoustic modes. The fact that a significant \(\alpha\) term is required in the polynomial model, which accounts for higher-order phonon terms, shows that a purely Debye model is not sufficient to fully describe the heat capacity in this system, even at low temperature.
+
+Regardless of the model chosen, at high temperatures the heat capacity (after subtracting off the \(\gamma_{\rm n}T\) contribution) approaches the Dulong-Petit limit of 99.8 J mol-1K-1, which indicates that there are no magnetic degrees of freedom in this sample. There is also no evidence of any anomalies that may correspond to structural phase transitions between room temperature and base temperature.
+
+The Sommerfeld coefficient, \(\gamma_{\rm n}\), is related to the density of states at the Fermi level, \(\mathcal{D}_{\rm C}(E_{\rm F})\) by the equation
+
+\[\gamma_{\rm n}=\frac{\pi^{2}\lambda_{\rm B}^{2}}{3}\mathcal{D}_{\rm C}(E_{\rm F }),\] (11)
+
+where \(E_{\rm F}\) is the Fermi energy. Using the value of \(\gamma_{\rm n}\) determined by the heat capacity measurements yields \(\mathcal{D}_{\rm C}(E_{\rm F})=5.56(8)\) states eV-1f.u.-1. The density of states determined in this manner includes enhancements due to electron-phonon coupling [23]. To determine the bare-band structure density of states, \(\mathcal{D}_{\rm band}(E_{\rm F})\), is related to \(\mathcal{D}_{\rm C}(E_{\rm F})\) by the equation
+
+\[\mathcal{D}_{\rm C}(E_{\rm F})=\mathcal{D}_{\rm band}(E_{\rm F})(1+\lambda_{ \rm ep}),\] (12)
+
+where \(\lambda_{\rm ep}\) is the dimensionless electron-phonon coupling parameter. This can be estimated using the theory of McMillan, which relates \(\Theta_{\rm D}\) and \(T_{\rm c}\) by the equation [24]
+
+\[\lambda_{\rm ep}=\frac{1.04+\mu^{*}\ln(\Theta_{\rm D}/1.45T_{\rm c})}{(1-0.62 \mu^{*})\ln(\Theta_{\rm D}/1.45T_{\rm c})-1.04},\] (13)
+
+where \(\mu^{*}\) is the repulsive screened Coulomb parameter. Setting \(\mu^{*}=0.13\) (a typical value for metal systems) with an estimated 10% uncertainty, using \(T_{\rm c}=4.68(2)\) K and the low-temperature estimate for the Debye temperature \(\Theta_{\rm D}=321(1)\) K yields \(\lambda_{\rm ep}=0.62(3)\). Using this value in Eq. (12) yields \(\mathcal{D}_{\rm band}(E_{\rm F})=3.44(8)\) states eV-1f.u.-1.
+
+Figure 6(a) displays a closeup of the superconducting heat capacity discontinuity in zero field. The heat capacity below \(T_{\rm c}\) is calculated via the BCS expression for the normalized entropy [25]:
+
+\[\frac{S}{\gamma_{\rm n}T_{\rm c}} = -\frac{6}{\pi^{2}}\bigg{(}\frac{\Delta_{0}}{k_{\rm B}T_{\rm c}} \bigg{)}\int_{0}^{\infty}d\epsilon[f(E)\ln f(E)\] (14) \[+(1-f)\ln(1-f)],\]
+
+where the integral is over the energies of the normal electrons relative to the Fermi level, \(\epsilon\). In this equation, \(\Delta_{0}\) is the magnitude of the superconducting energy gap, \(k_{\rm B}\) is the Boltzmann constant, \(E=\sqrt{\epsilon^{2}+\Delta^{2}(T)}\) is the quasiparticle excitation spectrum, and the Fermi-Dirac distribution, \(f(E)\), is given by
+
+\[f(E)=\left[\exp\left(\frac{E}{k_{\rm B}T}\right)+1\right]^{-1}.\] (15)
+
+The heat capacity is then related to the first derivative of the normalized entropy by the relation
+
+\[\frac{C_{\rm sc}}{\gamma_{\rm n}T_{\rm c}}=T\frac{d(S/\gamma_{\rm n}T_{\rm c}) }{dT}.\] (16)
+
+In order to fit this expression to experimental data, the approximation for \(\Delta(T)\) given by
+
+\[\Delta(T)=\Delta_{0}\tanh\left\{1.82\bigg{[}1.018\bigg{(}\frac{T_{\rm c}}{T}-1 \bigg{)}\bigg{]}^{0.51}\right\}\] (17)
+
+is used. We have adopted the principles of the \(\alpha\) model, where the quantity \(\alpha\equiv\Delta_{0}/k_{\rm B}T_{\rm c}\) is treated as an adjustable parameter, and has the BCS value \(\alpha^{\rm BCS}=1.764\)[26]. Fitting the low-temperature heat capacity data using this model yields \(\alpha^{C_{\rm F}}=1.84(1)\), which is larger than the BCS expectation. The value of \(\alpha^{C_{\rm F}}\) corresponds to a superconducting energy gap magnitude of \(\Delta_{0}^{C_{\rm F}}=0.742(4)\) meV.
+
+The effect of applying a magnetic field on the heat capacity is presented in Fig. 7(a). The magnitude of the discontinuity and the transition temperature are observed to decrease as the strength of the applied field is increased. The width of the superconducting transition also becomes broader in higher fields. \(T_{\rm c}\) is suppressed to a value less than 0.3 K when \(\mu_{0}H\geqslant 7\) T. At high fields there is evidence of a Schottky anomaly, which is thought to arise due to a hyperfine interaction associated with the nuclear Re moments. Such an anomaly has been seen in the related, high Re content systems Nb0.18Re0.82 [27], Re6Hf [15], Re6Zr [17], and Re24TiS [5]. Muon measurements in these systems (discussed in Sec. VII) suggest that the nuclear dipolar contributions in all of these materials is very similar.
+
+  Further evidence for fully gapped superconductivity comes from the field dependence of the Sommerfeld parameter, \(\gamma(H)\), extracted from the data in Fig. 7(a). It is apparent that the intercept of the heat capacity at \(T=0\) K increases as the applied field strength is increased. A plot of the field variation of the intercept, \(\gamma(H)\), is presented in Fig. 7(b), where the data have been estimated after extracting the contribution from the Schottky anomaly. It can be seen that \(\gamma(H)\) varies approximately linearly with increasing field, which is expected for nodeless superconductors [28], and approaches the normal state value of \(\gamma_{\text{n}}\) for \(T>T_{\text{c}}\). In the presence of nodes the density of states, and therefore \(\gamma(H)\), is expected to vary as the square root of the applied field [29]. The superconducting and normal-state properties of Re\({}_{3}\)Ta determined from heat capacity measurements are summarized in Table 4.
+
+## VI Upper critical field
+
+The temperature dependence of the upper critical field, \(H_{\text{c2}}(T)\), as determined from measurements of the magnetization (\(M\)), heat capacity (\(C_{\text{p}}\)), and the resistivity (\(\rho\)), is shown in Fig. 8. As evidenced by the high value for the residual resistivity in this material, as well as the very small RRR, superconductivity in Re\({}_{3}\)Ta is in the dirty limit. The dirty limit occurs when the BCS coherence length, \(\xi_{0}\), which describes the typical correlation length of the superconducting wave function, has a similar order of magnitude as the electronic mean-free path, \(l\). In a later section we calculate the value for the ratio of \(\xi_{0}\) to \(l\) to be 1.87, which places Re\({}_{3}\)Ta in the dirty limit. The upper critical field data have thus been modeled using the theory of Werthamer, Helfand, and Hohenberg (WHH) [30], which takes into account the effect of Pauli limiting and spin-orbit scattering of quasiparticles on \(H_{\text{c2}}\). Due to the presence of Re, spin-orbit coupling is expected to be strong in this material. \(H_{\text{c2}}\) is contained implicitly in the expression
+
+\[\ln\left(\frac{1}{t}\right) = \left(\frac{1}{2}+\frac{i\lambda_{\text{so}}}{4\gamma}\right) \psi\left(\frac{1}{2}+\frac{\bar{\hbar}+\frac{1}{2}\lambda_{\text{so}}+i\gamma} {2t}\right)\] (18) \[+\left(\frac{1}{2}-\frac{i\lambda_{\text{so}}}{4\gamma}\right) \psi\left(\frac{1}{2}+\frac{\bar{\hbar}+\frac{1}{2}\lambda_{\text{so}}+i\gamma} {2t}\right)\] \[-\psi\left(\frac{1}{2}\right),\]
+
+where \(t=T/T_{\text{c}}\) is the reduced temperature; \(\lambda_{\text{so}}\) is the spin-orbit scattering parameter; \(\psi\) is the \(F\) function; \(\gamma^{2}=(\alpha_{\text{M}}\bar{h})^{2}-(\frac{1}{2}\lambda_{\text{so}})^{2}\); \(\alpha_{\text{M}}\) is the Maki parameter; and \(\bar{\hbar}\) is the dimensionless form of the upper critical field given by \(\bar{\hbar}=(4/\pi^{2})(H_{\text{c2}}/|d\,H_{\text{c2}}/d\,T|_{T_{\text{c}}})\). The Maki parameter measures the relative contributions of the orbital and Pauli-limiting depairing mechanisms on the measured upper critical field, via the expression
+
+\[\alpha_{\text{M}}=\sqrt{2}\frac{H_{\text{c2}}^{\text{orb}}(0)}{H_{\text{p}}(0 )}.\] (19)
+
+\begin{table}
+\begin{tabular}{l c c} Property & Unit & Value \\ \hline \(\gamma_{\text{n}}\) & mJ mol\({}^{-1}\)K\({}^{-2}\) & 13.1(2) \\ \(\Theta_{\text{D}}\) & K & 321(1) \\ \(\lambda_{\text{sp}}\) & & 0.62(3) \\ \(\mathcal{D}_{\text{C}}(E_{\text{F}})\) & states eV\({}^{-1}\)f.u.\({}^{-1}\) & 5.56(8) \\ \(\mathcal{D}_{\text{band}}(E_{\text{F}})\) & states eV\({}^{-1}\)f.u.\({}^{-1}\) & 3.44(8) \\ \(T_{\text{c}}^{C_{\text{p}}}\) & K & 4.68(2) \\ \(\Delta_{0}^{C_{\text{p}}}\) & meV & 0.742(4) \\ \(\alpha^{C_{\text{p}}}=\Delta_{0}^{C_{\text{p}}}/k_{\text{B}}T_{\text{c}}\) & & 1.84(2) \\ \end{tabular}
+\end{table}
+Table 4: Superconducting and normal-state properties of Re\({}_{3}\)Ta determined from heat capacity measurements.
+
+Figure 8: Temperature dependence of the upper critical field, determined via resistivity, magnetization and heat capacity measurements. The solid lines are WHH calculations as described in the text.
+
+Figure 7: (a) Temperature dependence of the heat capacity in a number of different applied fields, up to a maximum of 9 T. (b) Field dependence of \(\gamma(H)\), extracted from linear extrapolation of low-temperature heat capacity.
+
+  The numerator of this expression contains the orbital limiting field, \(H_{\rm c2}^{\rm orb}\), which in the dirty limit is given by
+
+\[H_{\rm c2}^{\rm orb}(0)=-0.693T_{\rm c}\frac{dH_{\rm c2}}{dT}\Bigg{|}_{T_{\rm c}}.\] (20)
+
+A linear fit of the measured \(\mu_{0}H_{\rm c2}\) data in the vicinity of \(T_{\rm c}\) yields a slope of \(-2.25(4)\) TK\({}^{-1}\), which coupled with the value of \(T_{\rm c}=4.68\) K produces \(\mu_{0}H_{\rm c2}^{\rm orb}(0)=7.3(1)\) T. In the \(\alpha\) model, the Pauli limiting field is given by
+
+\[\mu_{0}H_{\rm P}=1.86T_{\rm c}\bigg{(}\frac{\alpha}{\alpha^{\rm BCS}}\bigg{)},\] (21)
+
+Using \(\alpha^{C_{\rm P}}=~{}1.84(1)\) produces \(\mu_{0}H_{\rm P}=9.08(6)\) T. The Maki parameter is thus calculated to be \(\alpha_{\rm M}=1.13(2)\) using Eq. (19).
+
+In Fig. 8 we show the calculated temperature dependence of \(H_{\rm c2}\) for the cases where \(\alpha_{\rm M}=~{}1.13\) and \(0\), with the spin-scattering parameter \(\lambda_{\rm so}=~{}0\) in both cases. We see that the data are poorly described by the calculation with \(\alpha_{\rm M}=~{}1.13\), whereas \(\alpha_{\rm M}=~{}0\) is a very good description of the measured data. This implies that Pauli limiting does not have any effect on the upper critical field in this system, and that orbital limiting is the only component that needs to be considered. In the case where \(\lambda_{\rm so}=0\) then the following relation derived by Maki holds [31]:
+
+\[H_{\rm c2}(0)=\frac{H_{\rm c2}^{\rm orb}(0)}{\sqrt{1+\alpha^{2}}}.\] (22)
+
+For \(\alpha_{\rm M}=0,~{}\mu_{0}H_{\rm c2}(0)=\mu_{0}H_{\rm c2}^{\rm orb}(0)=7.3(1)\) T.
+
+The characteristic Ginzburg-Landau coherence length at \(T=0\) K, \(\xi(0)\), can be obtained from
+
+\[\mu_{0}H_{\rm c2}=\frac{\Phi_{0}}{2\pi\,\xi^{2}},\] (23)
+
+where \(\Phi_{0}=2.068\times 10^{-15}\)Wm\({}^{-2}\) is the magnetic flux quantum. For \(\mu_{0}H_{\rm c2}(0)=7.3(1)\) T, \(\xi(0)=6.71(5)\) nm. This calculation can be combined with our measured value of the lower critical field, \(\mu_{0}H_{\rm c1}(0)=2.13(5)\) mT in order to estimate the effective magnetic penetration depth at \(T=0\) K, \(\lambda(0)\), using the equation
+
+\[\mu_{0}H_{\rm c1}=\bigg{(}\frac{\Phi_{0}}{4\pi\,\lambda^{2}}\bigg{)}\ln\bigg{(} \frac{\lambda}{\xi}\bigg{)}.\] (24)
+
+This yields an estimate of \(\lambda^{H_{\rm c2}}(0)=588(8)\) nm. This effective penetration depth is related to the London penetration depth, \(\lambda_{\rm L}\), which is dependent on the normal-state properties of the material [32]. The value of \(\lambda\) is increased from the ideal value \(\lambda_{\rm L}\) by dirty limit corrections, which are discussed in a later section. The Ginzburg-Landau parameter, \(\kappa_{\rm GL}\), may now be estimated using the equation
+
+\[\kappa_{\rm GL}=\frac{\lambda}{\xi},\] (25)
+
+which upon inserting \(\xi(0)\) and \(\lambda^{H_{\rm c2}}(0)\) yields \(\kappa_{\rm GL}^{H_{\rm c1}}=~{}88(1)\). This is much larger than the threshold value \(\kappa_{\rm GL}=1/\sqrt{2}\) that separates type-I and type-II superconductors. Therefore Re\({}_{3}\)Ta may be classified as a strong type-II superconductor. Finally, the thermodynamic critical field may be calculated from \(\lambda^{H_{\rm c2}}(0)\) and \(\xi(0)\) using
+
+\[\mu_{0}H_{\rm c}=\frac{\Phi_{0}}{2\sqrt{2}\pi\,\xi\lambda},\] (26)
+
+from which we calculate \(\mu_{0}H_{\rm c}(0)=58.9(9)\) mT. The thermodynamic critical field is related to the difference between the normal and superconducting free-energy densities, \(\Delta F(T)\), via the relation (in S.I. units)
+
+\[\Delta F\equiv\frac{\mu_{0}H_{\rm c}^{2}(T)}{2}.\] (27)
+
+where \(\Delta F(T)=\Delta U(T)-T\,\Delta S(T)\), and \(U(T)\) and \(S(T)\) are the internal energy and entropy thermodynamic potentials, respectively. These may be calculated by integrating the heat capacity according to the relations
+
+\[\Delta U(T)=\int_{T}^{T_{\rm c}}[C_{\rm s}(T^{\prime})-C_{\rm n}(T ^{\prime})]dT^{\prime},\] (28) \[T\Delta S(T)=\int_{T}^{T_{\rm c}}\frac{C_{\rm s}(T^{\prime})-C_{ \rm n}(T^{\prime})}{T^{\prime}}dT^{\prime},\] (29)
+
+where \(C_{\rm n}\) and \(C_{\rm s}\) are the normal-state and superconducting heat capacities, respectively. Performing this procedure with the data presented in Sec. V yields \(\mu_{0}H_{\rm c}=69(4)\) mT. This is within three standard errors of the previous estimate, and therefore appear to be in agreement. The superconducting properties of Re\({}_{3}\)Ta determined from analysis of the critical fields are presented in Table 5.
+
+## VII Muon-Spin Rotation and Relaxation
+
+Zero-field (ZF), longitudinal-field (LF), and transverse-field (TF) muon-spin rotation and relaxation (collectively \(\mu\)SR) measurements were performed on the MuSR beam line at the ISIS pulsed muon source. A full description of the \(\mu\)SR technique and the detector geometries is provided in Ref. [33]. Muon-spin relaxation measurements in zero field can be used to detect the tiny spontaneous magnetization associated with broken time-reversal symmetry in the superconducting state. Three sets of orthogonal coils and an active compensation system mean that ZF to a tolerance of 1 \(\mu\)T may be attained at the sample position.
+
+### Zero-field \(\mu\)SR
+
+The ZF-\(\mu\)SR spectra collected above and below \(T_{\rm c}\) presented in Fig. 9 do not exhibit any noticeable differences, indicating that time-reversal symmetry is preserved in Re\({}_{3}\)Ta. Depolarization of the initially 100% spin-polarized muon
+
+\begin{table}
+\begin{tabular}{l l r} Property & Unit & Value \\ \hline \(\mu_{0}H_{\rm c2}(0)\) & T & 7.3(1) \\ \(\xi(0)\) & nm & 6.71(5) \\ \(\lambda^{H_{\rm c2}}(0)\) & nm & 588(8) \\ \(\kappa_{\rm GL}^{H_{\rm c2}}\) & & 88(1) \\ \(\mu_{0}H_{\rm c}(0)\) & mT & 58.9(9) \\ \end{tabular}
+\end{table}
+Table 5: Superconducting properties of Re\({}_{3}\)Ta determined from analysis of the critical fields.
+
+  ensemble occurs because of the randomly oriented array of nuclear dipole moments, as well as electronic spin fluctuations. The nuclear relaxation component is modeled by the Gaussian Kubo-Toyabe equation [34]
+
+\[G_{z}(t)=\frac{1}{3}+\frac{2}{3}\big{(}1-\Delta_{\mu}^{2}t^{2}\big{)}\exp\left(- \frac{\Delta_{\mu}^{2}t^{2}}{2}\right),\] (30)
+
+where \(\Delta_{\mu}\) measures the width of the nuclear dipolar field experienced by the muons. The corresponding asymmetry spectra are well described by the function
+
+\[A(t)=A_{0}G_{z}(t)+A_{\rm BG},\] (31)
+
+where \(A_{0}\) is the sample asymmetry and \(A_{\rm BG}\) is the time-independent background contribution from muons stopped in the silver sample holder. Both high- and low-temperature data sets are found to be well described by Eq. (31), with the fitted parameters \(A_{0}=~{}0.1706(4)\), \(A_{\rm BG}=~{}0.0600(8)\), and \(\Delta_{\mu}=0.278(2)~{}\mu\)s\({}^{-1}\). The Gaussian width, \(\Delta_{\mu}\), is very similar to the value of 0.267(2) \(\mu\)s\({}^{-1}\) measured in Re\({}_{3}\)W, which is further evidence that the Re nuclear moments are the dominant contribution to the nuclear dipolar field [35]. There appears to be no motional narrowing of the muon response, which indicates that this system is free of fast-fluctuation effects typically associated with electronic spin fluctuations.
+
+### Transverse-field \(\mu\)Sr
+
+TF-\(\mu\)SR was performed in an applied field of 30 mT, \(\approx\)14\(\mu_{0}H_{c1}(0)\). Typical asymmetry spectra collected above and below \(T_{\rm c}\) in a field of 30 mT are displayed in Fig. 10. The enhanced depolarization rate below \(T_{\rm c}\) is due to the field distribution, \(P(B)\), formed by the flux line lattice in the mixed state of the superconductor. To model the TF-\(\mu\)SR spectra, we have simulated the expected internal field distribution, \(P(B)\), from the ideal vortex lattice. We assumed a hexagonal lattice, which is justified as we have not seen the presence of beating in the \(\mu\)SR time spectra, which is typically indicative of a square or distorted lattice. The spatial variation of the magnetic field in the vortex lattice of a type-II superconductor, \(B(\vec{r})\), may be described by a Fourier expansion:
+
+\[B(\vec{r})=\langle B\rangle\sum_{\vec{k}}\exp(-i\vec{K}\cdot\vec{r})b_{\vec{k} }(\lambda,\xi).\] (32)
+
+Here \(\vec{r}\) is a position vector in a plane perpendicular to the applied field, and the origin of the coordinate system is at the center of a vortex core. The \(\vec{K}_{mn}=4\pi/\sqrt{3}a\,(m\sqrt{3}/2,n+m/2)\) are the reciprocal lattice vectors of the hexagonal vortex lattice, \(a\) is the intervortex distance, and \(m\) and \(n\) are integer numbers. \(\langle B\rangle\) is the average field over the vortex lattice unit cell--for applied fields \(H_{\rm app}\) much larger than the lower critical field, then \(\mu_{0}H_{\rm app}\approx\langle B\rangle\). In this measurement \(H_{\rm app}/H_{\rm c1}\approx 15\). The \(b_{\vec{k}}(\lambda,\xi)\) are the Fourier components, the form of which depends upon the model used for analysis. As we are in the low reduced field regime (\(h<1\times 10^{-2}\)), then a simple London model with Gaussian cutoff (LG) has been used, where
+
+\[b_{\vec{k}}(\lambda,\xi)=\frac{e^{-\frac{1}{2}\xi^{2}K^{2}}}{1+K^{2}\lambda^{ 2}}.\] (33)
+
+The numerator accounts for the finite size of the vortex cores, however, it has been shown that for very low reduced fields and high \(\kappa_{\rm Ch}\). the simulated field distribution has almost no dependence on \(\xi\)[36]. The value of the reduced field, \(h=H/H_{\rm c2}\), in this study is \(h=4\times 10^{-3}\).
+
+The ideal field distribution \(P_{\rm td}(B)\) is found by forming the normalized histogram of \(B(\vec{r})\) over one unit cell of the vortex lattice. To account for broadening effects, this ideal distribution is convolved with a Gaussian function,
+
+\[P(B)=\frac{1}{\sqrt{2\pi}\sigma_{\rm g}}\int P_{\rm td}(B^{\prime})e^{-\frac{ 1}{2}(\frac{B-\vec{r}}{\sigma_{\rm g}})^{2}}dB^{\prime},\] (34)
+
+where \(\sigma_{\rm g}\) is the second moment (width) of the Gaussian distribution. Contained within \(\sigma_{\rm g}\) are contributions from the nuclear broadening and vortex disorder, as discussed in the previous
+
+Figure 10: Representative TF-\(\mu\)SR signals collected above and below \(T_{\rm c}\) in Re\({}_{3}\)Ta under an applied magnetic field of 30 mT. The solid lines are fits using the LG model, described in the text.
+
+Figure 9: Muon-spin relaxation spectra collected in zero field above and below \(T_{\rm c}\). The solid line is the result of a fit to Eq. (31).
+
+  paragraphs. The muon time spectra are then calculated by taking the Fourier transform of \(P(B)\):
+
+\[\bar{P}(t)=Ae^{i\phi}\int P(B)e^{i\gamma_{\mathrm{g}}Bt}dB,\] (35)
+
+where \(A\) is the initial asymmetry and \(\phi\) is the phase. The real and imaginary parts of this Fourier transform correspond to the real and imaginary parts of the experimental asymmetry. A nondepolarizing oscillation is added to the simulated time spectra to account for the background signal.
+
+The experimental time spectra collected at each temperature were fit using this model to extract the values of \(\lambda,\ \sigma_{\mathrm{g}},\ \langle B\rangle\), and \(B_{\mathrm{bg}}\). The coherence length, \(\xi\), was calculated at each temperature using Eq. (23), and fixed to that value during each fitting procedure. It has been shown that this allows both \(\lambda\) and \(\sigma_{\mathrm{g}}\) to be extracted from the data [36]. The temperature dependence of the internal fields, \(\langle B\rangle\) and \(B_{\mathrm{bg}}\), extracted from these fits is presented in Fig. 11. The flux expulsion at \(T_{\mathrm{c}}\) is evident as a reduction of the average field inside the superconductor, and the corresponding field measured inside the silver sample holder is slightly increased. Above \(T_{\mathrm{c}}\). the measured field corresponds to the applied field, which has an average value of 28.92(4) mT. The low-temperature limit of the magnetic penetration depth determined by these fits is \(\lambda^{\mu}(0)=599(4)\) nm, which is in good agreement with the value of \(\lambda^{H_{\mathrm{d}}}(0)=588(8)\) nm calculated in Sec. VI. The results of fitting the TF-\(\mu\)SR data are collected in Table 6, with further analysis of the temperature dependence of \(\lambda\) and \(\sigma_{\mathrm{g}}\) presented in the following sections.
+
+## VIII Superfluid density
+
+The superfluid density at a given temperature, \(\rho_{\mathrm{s}}(T)\), is related to the magnetic penetration depth by the relation
+
+\[\rho_{\mathrm{s}}(T)=\frac{\lambda^{-2}(T)}{\lambda^{-2}(0)},\] (36)
+
+where \(\lambda^{-2}(0)\) is the 0 K value of the magnetic penetration depth. The values of \(\lambda\) extracted from the TF-\(\mu\)SR data have been used to calculate one estimate of \(\rho_{\mathrm{s}}\), and are displayed as square data points in Fig. 12. The temperature dependence of the superfluid density is calculated differently in the clean and dirty limits of superconductivity. For an isotropic superconductor in the clean limit, where the BCS coherence length \(\xi_{0}\) is much shorter than the electronic mean-free path \(l_{\mathrm{e}}\), the superfluid density at a given temperature is found by evaluating the integral [37]
+
+\[\rho_{\mathrm{s}}(T)=1+2\int_{\Delta}^{\infty}dE\left(\frac{\partial f}{ \partial E}\right)\frac{E}{\sqrt{E^{2}-\Delta^{2}(T)}}.\] (37)
+
+Here, the BCS approximation for the temperature dependence of the superconducting gap energy given in Eq. (17) is used. In the dirty limit, where \(\xi_{0}\gg l_{\mathrm{e}}\), a simpler approximation exists:
+
+\[\rho_{\mathrm{s}}(T)=\frac{\Delta(T)}{\Delta_{0}}\tanh\left(\frac{\Delta(T)}{ 2k_{\mathrm{B}}T}\right),\] (38)
+
+where \(\Delta_{0}\) is the zero-temperature magnitude of the superconducting energy gap. Fitting these two models to the superfluid density data yields the values \(\Delta_{0}^{\mathrm{clean}}=0.80(1)\) meV and \(\Delta_{0}^{\mathrm{dirty}}=0.72(5)\) meV. These values correspond to
+
+Figure 11: Temperature dependence of the internal magnetic fields experienced by the muon ensemble. \(\langle B\rangle\) is the average magnetic field within the sample, whereas \(B_{\mathrm{bg}}\) is the field in the silver sample holder (approximately equal to the applied field).
+
+\begin{table}
+\begin{tabular}{l c c} Property & Unit & Value \\ \hline \(T_{\mathrm{c}}^{\mu}\) & K & 4.7(1) \\ \(\lambda^{\mu}(0)\) & nm & 599(4) \\ \(\Delta_{0}^{\mu}\) & meV & 0.72(5) \\ \(\alpha^{\mu}\) m \(\Delta_{0}^{\mu}/k_{\mathrm{B}}T_{\mathrm{c}}\) & & 1.8(1) \\ \(\langle(s^{2})/a\rangle^{\frac{1}{2}}\) & & 16.9(5) \% \\ \end{tabular}
+\end{table}
+Table 6: Results of fitting the TF-\(\mu\)SR data collected in 30 mT to the LG model.
+
+Figure 12: Temperature dependence of inverse squared penetration depth, \(\lambda^{-2}\), extracted from measurements of \(H_{\mathrm{c1}}\) and TF-\(\mu\)SR. The solid lines are the results of calculations made in the clean and dirty limits.
+
+  \(\alpha_{\mu}^{\rm clean}=1.98(2)\) and \(\alpha_{\mu}^{\rm dirty}=1.8(1)\). The superconducting gap energy extracted from the heat capacity measurements led to a value of \(\alpha^{C_{\rm r}}=1.84(2)\), which is in excellent agreement with the estimate from the dirty-limit model, whereas the clean-limit model does not agree. The value of \(\xi_{0}/l_{\rm e}\), which gives a measure of the purity of the superconductor, is determined in Sec. X.
+
+Furthermore, \(\lambda\) can be estimated using Eq. (24) by combining the measurements of the upper and lower critical fields, as presented in Secs. III and VI. This calculation of \(\rho_{\rm s}\) is presented as the open circles in Fig. 12. The superfluid density calculated in this way is in good agreement with the TF-\(\mu\)SR measurements.
+
+## IX Vortex disorder
+
+The Gaussian broadening, \(\sigma_{\rm g}\), of the \(\mu\)SR line shape has also been extracted from the fits of the TF-\(\mu\)SR data, and is presented in Fig. 13. This broadening term contains the temperature-independent nuclear broadening, \(\sigma_{\rm n}\), and the vortex disorder, \(\sigma_{\rm vd}\), which add in quadrature:
+
+\[\sigma_{\rm g}^{2}=\sigma_{\rm vd}^{2}+\sigma_{\rm n}^{2}.\] (39)
+
+A power-law model has been fit to the data to estimate the zero-temperature value of \(\sigma_{\rm vd}(0)=0.168(6)\) mT, and the nuclear broadening term, \(\sigma_{\rm n}=0.3056(7)\) mT. The root mean square (rms) displacement of the vortices from their ideal positions, \(\langle s^{2}\rangle^{1/2}\), can be estimated from the value of \(\sigma_{\rm vd}\) by evaluating [38]
+
+\[\langle s^{2}\rangle^{\frac{1}{2}}\approx\frac{\sigma_{\rm vd}\sqrt{2}}{\mu_{ 0}H_{\rm app}}\left(\sum_{\vec{k}_{\rm BZ}}\frac{K_{x}^{2}+K_{y}^{2}}{[1+ \lambda^{2}K^{2}/(1-b)]^{2}}\right)^{-\frac{1}{2}},\] (40)
+
+where the summation is over the three reciprocal lattice vectors in the first Brillouin zone of the vortex lattice. The temperature dependence of \(\langle s^{2}\rangle^{0.5}/a\) calculated in this way is presented in the inset of Fig. 13. The displacement looks to be approximately temperature independent, however, close to \(T_{\rm c}\) the uncertainty becomes large due to the divergence of \(\lambda\). The average value of the rms displacement is \(\langle s^{2}\rangle^{0.5}/a=16.9(5)\%\). This value is rather large, and in a single crystal would imply that the vortex state is either highly disordered, or experiences fluctuations which are quasistatic with respect to the lifetime of the muon. As this is a polycrystalline sample, an extra broadening effect that has not been taken into account is that of polycrystalline averaging. This is complicated to model, and as such, the value for the rms displacement quoted here should only be taken as an upper bound for the real value. Nonetheless, it seems that this material has similarities to the high-\(T_{\rm c}\) superconductors, in which large values of the rms displacement have also been observed [38].
+
+## X Electronic properties and the Uemura plot
+
+In order to find a self-consistent description of the microscopic properties of Re\({}_{3}\)Ta, the results of resistivity, heat capacity, magnetization, and \(\mu\)SR measurements can be combined. The Sommerfeld constant, \(\gamma_{\rm n}\), determined from low-temperature heat capacity, is related to the electronic properties of the system by the equation [39]
+
+\[\gamma_{\rm n}=\left(\frac{\pi}{3}\right)^{2/3}\frac{k_{\rm B}^{2}m^{*}n^{1/3} }{\hbar^{2}},\] (41)
+
+where \(m^{*}\) is the effective mass of quasiparticles, and \(n\) is the quasiparticle number density per unit volume. A closely related property is the London penetration depth, which is defined by the normal-state properties [40]
+
+\[\lambda_{\rm L}=\left(\frac{m^{*}}{\mu_{0}n\epsilon^{2}}\right)^{1/2}.\] (42)
+
+In the clean limit, it is possible to use measured values of \(\lambda\) and \(\gamma_{\rm n}\) from \(\mu\)SR and heat capacity measurements to simultaneously solve these equations to find \(m^{*}\) and \(n\). However, in dirty-limit superconductors where \(\xi_{0}/l_{\rm e}\gg 1\), scattering of electrons in Cooper pairs is expected to interfere with the superconducting ground state. In this case the penetration depth is expected to be longer than the (ideal) London penetration depth, where the effective penetration depth at \(T=0\) K is given by [40]
+
+\[\lambda(0)=\lambda_{\rm L}\left(1+\frac{\xi_{0}}{l_{\rm e}}\right)^{1/2}.\] (43)
+
+In the dirty limit, the effective coherence length at \(T=0\) K is related to the BCS coherence length and the electronic mean-free path by the equation [40]
+
+\[\xi(0)=0.855\sqrt{\xi_{0}l_{\rm e}}.\] (44)
+
+Finally, the superconducting gap energy is related to the Fermi velocity and the BCS coherence length by the relation
+
+\[\Delta_{0}=\frac{\hbar v_{F}}{\pi\xi_{0}},\] (45)
+
+Figure 13: Temperature dependence of the Gaussian broadening parameter, \(\sigma_{\rm g}\), extracted from the fits of the \(\mu\)SR line shape. The solid line is a fit to a power law, and the dashed line is the value of the nuclear broadening, \(\sigma_{\rm n}\). Inset: Calculated rms displacement of vortices from their ideal positions, \(\langle s^{2}\rangle^{0.5}\), presented as a percentage of the vortex lattice spacing, \(a\). The dotted line is the average value, \(16.9(5)\) %.
+
+  where the Fermi velocity is related to the effective mass and the carrier density by [39]
+
+\[v_{\rm F}=\frac{\hbar}{m^{*}}(3\pi^{2}n)^{\frac{1}{5}}.\] (46)
+
+In principle, Eqs. (41)-(45) form a system of four equations, which can be solved simultaneously for the parameters \(m^{*}\), \(n\), \(l_{\rm e}\), and \(\xi_{0}\) using experimental values of \(\lambda(0)\), \(\gamma_{\rm a}\), \(\xi(0)\), and \(\Delta_{0}\). Using the values \(\gamma_{\rm a}=13.1\) mJ mol\({}^{-1}\)K\({}^{-2}\), \(\lambda(0)^{\mu}=599\) nm, \(\xi(0)=6.7\) nm, and \(\Delta_{0}=0.72\) meV determined in this study yields the results \(m^{*}=14.5(8)m_{\rm e}\), \(n=3.3(5)\times 10^{27}\) m\({}^{-3}\), \(\xi_{0}=11(2)\) nm, and \(l_{\rm e}=6(1)\) nm, presented in Table 7.
+
+The BCS coherence length calculated in this manner is larger than the electronic mean-free path, with \(\xi_{0}/l_{\rm e}=1.8\). This justifies our previous assertion that superconductivity in Re\({}_{3}\)Ta occurs in the dirty limit, and thus should be modeled with the appropriate equations. The electronic mean-free path is equal to only 6.2 unit cells, and reflects the disorder in the structure of this material. This also accounts for the low RRR and residual resistivity that have been measured. In fact, we can calculate the theoretical value of the residual resistivity, \(\rho_{0}^{\rm th}\), using the equation
+
+\[\rho_{0}^{\rm th}=\frac{3\pi^{2}\hbar^{3}}{e^{2}l_{\rm e}m^{*2}v_{\rm F}^{2}}.\] (47)
+
+Using Eq. (46) we calculate \(v_{\rm F}=37000(3000)\) ms\({}^{-1}\), and plugging this into Eq. (47) together with \(l_{\rm e}=6(1)\) nm and \(m^{*}=14.5(8)m_{\rm e}\) produces a value of \(\rho_{0}^{\rm th}=1(2)\)\(\mu\Omega\)m. Comparing this with the experimental value of \(\rho_{0}=2.4852(2)\)\(\mu\Omega\)m, we see that the two values are in disagreement, but of the same order of magnitude.
+
+The effective mass calculated here includes enhancements due to electron-phonon coupling. The bare band-structure effective mass, \(m_{\rm band}^{*}\), is related to \(m^{*}\) by the equation
+
+\[m^{*}=m_{\rm band}^{*}(1+\lambda_{\rm ep}).\] (48)
+
+Using the value of \(\lambda_{\rm ep}=0.62\) calculated in Sec. V, we find that \(m_{\rm band}^{*}=9.0(5)\)\(m_{\rm e}\). This value is rather large, and is likely to be enhanced by the presence of several bands in the electronic structure of Re\({}_{3}\)Ta. We can also now recalculate the Ginzburg-Landau parameter, \(\kappa\), using the correct dirty-limit equation [40]:
+
+\[\kappa=0.715\frac{\lambda_{\rm L}(0)}{l_{\rm e}}.\] (49)
+
+Using \(\lambda_{\rm L}=360(30)\) nm and \(l_{\rm e}=6(1)\) nm produces \(\kappa=43(8)\). This is much smaller than the previous estimate of \(\kappa_{\rm GL}=88(1)\), and shows that the penetration depth in this material is greatly enhanced due to the small electronic mean-free path.
+
+The values of \(m^{*}\) and \(n_{\rm s}\) can be used to calculate an effective Fermi temperature for the superconductivity using the equation
+
+\[k_{\rm B}T_{\rm F}=\left(\frac{\hbar^{2}}{2}\right)\frac{(3\pi^{2}n_{\rm s})^ {2/3}}{m^{*}}.\] (50)
+
+This yields \(T_{\rm F}=640(70)\) K, with the ratio \(T_{\rm c}/T_{\rm F}=~{}0.0073(8)\). Uemura _et al._ have described a method of classifying superconductors based on the ratio of the critical temperature \(T_{\rm c}\) to the effective Fermi temperature \(T_{\rm F}\). It has been observed that the heavy-fermion, high-\(T_{\rm c}\), organic fullerene, as well as many other unconventional superconductors all lie in the range where \(0.01\leqslant T_{\rm c}/T_{\rm F}\leqslant 0.1\)[7, 41, 42]. Re\({}_{3}\)Ta is located just outside of this band of unconventionality, with its position relative to a number of other noncentrosymmetric superconductors presented in Fig. 14. The same calculations as described previously in this section have also been performed using published data for the other \(\alpha\)-Mn compounds Re\({}_{5}\)W, Re\({}_{6}\)Hf, Re\({}_{6}\)Zr, and Re\({}_{24}\)Ti\({}_{5}\), the latter three of which have been shown to break time-reversal symmetry [4, 5, 6, 14, 15, 17, 35]. These materials are all found in a similar region of the Uemura plot, and lie just outside of the band of unconventionality. This close proximity of the entire family is intriguing, and implies that adjusting the microscopic electronic properties of these
+
+Figure 14: Uemura plot of a selection of noncentrosymmetric superconductors, including the \(\alpha\)-Mn family of materials presented in red. The position of each material was calculated using published data, and by following the procedure presented in Sec, X. Superconductors marked with open circles have been shown to break time-reversal symmetry. The green region is the band of unconventionality, in which many unconventional superconducting systems, such as heavy-fermion and high-temperature superconductors, lie. The dashed line depicts the Bose-Einstein condensation temperature.
+
+\begin{table}
+\begin{tabular}{l c c} Property & Unit & Value \\ \hline \(m^{*}\) & \(m_{\rm e}\) & 14.5(8) \\ \(m_{\rm band}^{*}\) & \(m_{\rm e}\) & 8.7(5) \\ \(n\) & \(10^{27}\)m\({}^{-3}\) & 3.3(5) \\ \(\xi_{0}\) & nm & 11(2) \\ \(l_{\rm e}\) & nm & 6(1) \\ \(\xi_{0}/l_{\rm e}\) & & 1.8  materials could yield unconventional behavior. Such tuning of the band structure could be investigated by performing doping studies, or by applying pressure, in order to explore more fully the surrounding phase space. Furthermore, it is known that the dirty-limit correction has the effect of pushing a given material to the right of the Uemura plot, i.e., away from the band of unconventionality. Given that the \(\alpha\)-Mn materials are all in the dirty limit, forming cleaner versions of these materials, such as by growing single crystals, could be one such path to realizing unconventional behavior.
+
+## XI. Summary and conclusions
+
+A thorough investigation of the superconducting and normal-state properties of the noncentrosymmetric superconductor Re\({}_{3}\)Ta has been conducted, using detailed magnetization, electrical resistivity, heat capacity, and \(\mu\)SR measurements. The material is well described by the BCS theory in the dirty limit, and has been characterized as a type-II superconductor with a nodeless, isotropic superconducting gap. No evidence for time-reversal symmetry breaking has been detected in the \(\mu\)SR experiments. The vortex lattice appears to exhibit a considerable amount of disorder, which is likely related to the presence of numerous pinning centres. The results of all of the experimental techniques have been combined to calculate the electronic properties of the system, from which it has been shown that superconductivity in Re\({}_{3}\)Ta is in the dirty limit. The \(\alpha\)-Mn superconductors have been placed on the Uemura plot, and are shown to lie in a region that is bordering the band of unconventionality, implying that further adjustments of the underlying electronic properties could yield unconventional superconducting behavior.
+
+###### Acknowledgements.
+
+ The authors would like to thank Mr. T. E. Orton for valuable technical support. J.A.T.B. acknowledges ISIS and the STFC for studentship funding through Grant No. ST/K502418/1. R.P.S. acknowledges Science and Engineering Research Board, Government of India for the Ramanujan Fellowship. This work was funded by the EPSRC, UK, through Grant No. EP/I007210/1. Some of the equipment used in this research was obtained through the Science City Advanced Materials project: Creating and Characterizing Next Generation Advanced Materials project, with support from Advantage West Midlands and part funded by the European Regional Development Fund.
+
+## References
+
+* [1] M. Smidman, M. B. Salamon, H. Q. Yuan, and D. F. Agterberg, Rep. Prog. Phys. **80** 036501 (2017).
+* [2] A. D. Hillier, J. Quintanilla, and R. Cywinski, Phys. Rev. Lett. **102**, 117007 (2009).
+* [3] J. A. T. Barker, D. Singh, A. Thamizhavel, A. D. Hillier, M. R. Lees, G. Balakrishnan, D. M. Paul, and R. P. Singh, Phys. Rev. Lett. **115**, 267001 (2015).
+* [4] R. P. Singh, A. D. Hillier, B. Mazidian, J. Quintanilla, J. F. Ament, D. M. Paul, G. Balakrishnan, and M. R. Lees, Phys. Rev. Lett. **112**, 107002 (2014).
+* [5] T. Shang, G. M. Pang, C. Baines, W. B. Jiang, W. Xie, A. Wang, M. Medarde, E. Pomjakushina, M. Shi, J. Mesot, H. Q. Yuan, and T. Shiroka, Phys. Rev. B **97**, 020502 (2018).
+* [6] D. Singh, J. A. T. Barker, A. Thamizhavel, D. M. K. Paul, A. D. Hillier, and R. P. Singh, Phys. Rev. B **96**, 180501(R) (2017).
+* [7] Y. J. Uemura, L. P. Le, G. M. Luke, B. J. Sternlieb, W. D. Wu, J. H. Brewer, T. M. Riseman, C. L. Seaman, M. B. Maple, M. Ishikawa, D. G. Hinks, J. D. Jorgensen, G. Saito, and H. Yamochi, Phys. Rev. Lett. **66**, 2665 (1991).
+* [8] A. A. Coelho, TOPAS-Academic, Ver. 6, Bruker-AXS, 2016.
+* [9] E. Bucher, F. Heiniger, and J. Muller, Helv. Phys. Acta **34**, 843 (1961).
+* [10] J. Brophy, P. Schwarzkopf, and J. Wulff, Trans. Met. Soc. AIME **218**, 910 (1960).
+* [11] Z.-k. Liu and Y. A. Chang, J. Alloys Compd. **299**, 153 (2000).
+* [12] M. Nikolo, Am. J. Phys. **63**, 57 (1995).
+* [13] A. Umezawa, G. W. Crabtree, J. Z. Liu, T. J. Moran, S. K. Malik, L. H. Nunez, W. L. Kwok, and C. H. Sowers, Phys. Rev. B **38**, 2843 (1988).
+* [14] P. K. Biswas, M. R. Lees, A. D. Hillier, R. I. Smith, W. G. Marshall, and D. M. Paul, Phys. Rev. B **84**, 184529 (2011).
+* [15] D. Singh, A. D. Hillier, A. Thamizhavel, and R. P. Singh, Phys. Rev. B **94**, 054515 (2016).
+* [16] B. Chen, Y. Guo, H. Wang, Q. Su, Q. Mao, J. Du, Y. Zhou, J. Yang, and M. Fang, Phys. Rev. B **94**, 024518 (2016).
+* [17] D. A. Mayoh, J. A. T. Barker, R. P. Singh, G. Balakrishnan, D. M. K. Paul, and M. R. Lees, Phys. Rev. B **96**, 064521 (2017).
+* [18] A. B. Karki, Y. M. Xiong, N. Haldolaarachchige, S. Stadler, I. Vekhter, P. W. Adams, D. P. Young, W. A. Phelan, and J. Y. Chan, Phys. Rev. B **83**, 144525 (2011).
+* [19] R. D. Blaugher and J. K. Hulm, J. Phys. Chem. Solids **19**, 134 (1961).
+* [20] F. J. Blatt, _Physics of Electronic Conduction in Solids_ (McGraw-Hill, New York, 1968).
+* [21] C. Kittel, _Introduction to Solid State Physics_, 6th ed. (John Wiley & Sons, New York, 1986).
+* [22] E. S. R. Gopal, _Specific heats at low temperatures_ (Plenum Press, New York, 1966).
+* [23] G. Grimvall, Phys. Scr. **14**, 63 (1976).
+* [24] W. L. McMillan, Phys. Rev. **167**, 331 (1968).
+* [25] F. Bouquet, Y. Wang, R. A. Fisher, D. G. Hinks, J. D. Jorgensen, A. Junod, and N. E. Phillips, Europhys. Lett. **56**, 856 (2001).
+* [26] D. C. Johnston, Supercond. Sci. Technol. **26**, 115011 (2013).
+* [27] J. Chen, L. Jiao, J. L. Zhang, Y. Chen, L. Yang, M. Nicklas, F. Steglich, and H. Q. Yuan, Phys. Rev. B **88**, 144510 (2013).
+* [28] C. Caroli, P. D. Gennes, and J. Matricon, Phys. Lett. **9**, 307 (1964).
+* [29] G. E. Volovik, JETP Lett. **58**, 469 (1993).
+* [30] N. R. Werthamer, E. Helfand, and P. C. Hohenberg, Phys. Rev. **147**, 295 (1966).
+* [31] K. Maki, Phys. Rev. **148**, 362 (1966).
+* [32] F. London and H. London, Proc. R. Soc. London A **149**, 71 (1935).
+
+  * [33] S. L. Lee, S. H. Kilcoyne, and R. Cywinski, _Muon Science: Muons in Physics, Chemistry and Materials_ (Taylor and Francis, Abingdon, 1999).
+* [34] R. S. Hayano, Y. J. Uemura, J. Imazato, N. Nishida, T. Yamazaki, and R. Kubo, Phys. Rev. B **20**, 850 (1979).
+* [35] P. K. Biswas, A. D. Hillier, M. R. Lees, and D. M. Paul, Phys. Rev. B **85**, 134505 (2012).
+* [36] A. Maisuradze, R. Khasanov, A. Shengelaya, and H. Keller, J. Phys.: Condens. Matter **21**, 075701 (2009).
+* [37] R. Khasanov, A. Shengelaya, A. Maisuradze, F. La Mattina, A. Bussmann-Holder, H. Keller, and K. A. Muller, Phys. Rev. Lett. **98**, 057007 (2007).
+* [38] T. M. Riseman, J. H. Brewer, K. H. Chow, W. N. Hardy, R. F. Kieff, S. R. Kreitzman, R. Liang, W. A. MacFarlane, P. Mendels, G. D. Morris, J. Rammer, J. W. Schneider, C. Niedermayer, and S. L. Lee, Phys. Rev. B **52**, 10569 (1995).
+* [39] N. Ashcroft and N. Mermin, _Solid State Physics_ (Saunders College, Philadelphia, 1976).
+* [40] M. Tinkham, _Introduction to Superconductivity_, 2nd ed. (Dover Publications, Mineola, 2004).
+* [41] Y. J. Uemura, V. J. Emery, A. R. Moodenbaugh, M. Suenaga, D. C. Johnston, A. J. Jacobson, J. T. Lewandowski, J. H. Brewer, R. F. Kiefl, S. R. Kreitzman, G. M. Luke, T. Riseman, C. E. Stronach, W. J. Kossler, J. R. Kempton, X. H. Yu, D. Opie, and H. E. Schone, Phys. Rev. B **38**, 909 (1988).
+* [42] Y. J. Uemura, G. M. Luke, B. J. Sternlieb, J. H. Brewer, J. F. Carolan, W. N. Hardy, R. Kadono, J. R. Kempton, R. F. Kiefl, S. R. Kreitzman, P. Mulhem, T. M. Riseman, D. L. Williams, B. X. Yang, S. Uchida, H. Takagi, J. Gopalakrishnan, A. W. Sleight, M. A. Subramanian, C. L. Chien, M. Z. Cieplak, G. Xiao, V. Y. Lee, B. W. Statt, C. E. Stronach, W. J. Kossler, and X. H. Yu, Phys. Rev. Lett. **62**, 2317 (1989).
+
+ 

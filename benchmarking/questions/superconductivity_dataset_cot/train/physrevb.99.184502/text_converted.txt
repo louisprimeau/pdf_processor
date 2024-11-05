@@ -1,0 +1,452 @@
+# Pressure-induced superconductivity in tin sulfide
+
+Ryo Matsumoto
+
+Peng Song
+
+Shintaro Adachi
+
+Yoshito Saito
+
+Hiroshi Hara
+
+Aichi Yamashita
+
+Kazuki Nakamura
+
+National Institute of Technology, Yongo College, 4448 Hikona, Yonago,
+Totori 683-8502, Japan
+
+Sayaka Yamamoto
+
+Hiromi Tanaka
+
+National Institute of Technology, Yongo College, 4448 Hikona, Yonago,
+Totori 683-8502, Japan Geodynamics Research Center, Ehime University,
+Matsuyama, Ehime 790-8577, Japan
+
+###### Abstract
+
+Tin sulfide (SnS) single crystals were synthesized using a melt and
+slow-cooling method. The obtained crystals were characterized by x-ray
+diffraction, energy-dispersive spectrometry, and by x-ray photoelectron
+spectroscopy. Electrical transport properties of SnS were investigated
+under high pressure using a diamond anvil cell with boron-doped metallic
+diamond electrodes and an undoped diamond insulating layer. We
+successfully observed an insulator to metal transition between 8.1 and
+12.5 GPa and pressure-induced superconductivity with a transition
+temperature (_T_c) of 5.8 K under 47.8 GPa as predicted by theoretical
+calculations. Comparing with the pressure-induced superconductivity in
+related SnSe compound, a possible _T_c enhancement in SnS by an increase
+of density of states at the Fermi level is expected.
+
+DOI: 10.1103/PhysRevB.99.184502
+
+## I Introduction
+
+Tin chalcogenide binary compounds have been studied as superior
+functional materials with high thermoelectric performance in the past
+several years [1, 2, 3, 4, 5, 6, 7]. Especially, tin selenide (SnSe)
+shows remarkable thermoelectric property of an ultrahigh figure-of-merit
+_ZT_ value of 2.6 at 923 K, due to its low thermal conductivity,
+controllable resistivity, and high Seebeck coefficient [1,8]. Also,
+superconductivity in tin selenide was recently reported under high
+pressure [9]. Tin telluride similarly shows superior thermoelectric
+property as lead-free materials [10]. The carrier-doped SnTe shows
+superconductivity around 2 K under ambient pressure [11]. These indicate
+that tin chalcogenides binary compounds are a new vein of
+superconducting materials.
+
+According to recent first-principles calculations, superconductivity in
+tin sulfide binary compounds SnS and Sn₃S₄ are predicted under high
+pressure [12]. In the beginning, the stable phase α-SnS-_Pnma_, at
+ambient pressure, undergoes a phase transition to a β-SnS-_Cmcm_ phase
+at 15 GPa [13]. Recently, it was reported that this transition from
+α-SnS to β-SnS could occur at 9 GPa [12]. Under further compression, an
+appearance of the γ-SnS-_Pm-3m_ phase was experimentally reported under
+18 GPa [14]. Recent theoretical calculations suggested that the γ-SnS
+phase should be stable at 39 GPa exhibiting superconductivity with a
+transition temperature (_T_c) of 9.74 K [12]. The higher _T_c compound
+Sn₃S₄ (space group _1-_43_d_) shows an instability at ambient pressure.
+However, the metallic phase is stable at 15 GPa and a maximum _T_c of
+21.9 K appears at 30 GPa. Although similar structural transition and
+superconductivity were experimentally observed in similar compounds,
+such as SnSe [9] and Sn₃Se₄[15], there is no report regarding tin
+sulfide. Experimental investigation of the high-pressure properties of
+tin sulfides is an important step for advancing the physics of
+chalcogenide binary compounds, including the pressure-induced
+topological and superconducting phase of SnSe [9]. In this paper, we
+experimentally confirm the predicted superconductivity in tin sulfide
+via resistance measurements under high pressure. The observed transport
+properties were then compared with SnSe.
+
+## II Experimental
+
+SnS and Sn₃S₄ single-crystals synthesis was attempted via conventional
+melt and slow-cooling method. Starting materials of Sn grains (99.99
+
+## III Results and discussion
+
+Figure 1(a) shows the powder XRD pattern of ground SnS. All observed
+peaks were well indexed to an orthorhombic _Pnma_ structure. Figure 1(b)
+exhibits the XRD pattern of a piece of the obtained SnS crystal. An
+optical microscope image of this piece is shown in the inset. The
+pattern only exhibits h00 diffraction peaks indicating that the sample
+is a high-quality single crystal. The EDX analysis showed a composition
+of Sn 52.04
+
+High-resolution XPS measurements of Sn 3d orbital were carried out to
+investigate the surface state of the obtained SnS single crystal. Figure
+2(a) shows the Sn 3d spectrum of SnS single crystal without cleaving
+treatment. The spectrum was deconvoluted into four peaks as labeled in
+Fig. 2(a). The main components of peak 1 at 485.7 eV and peak 2
+(centered at 494.1 eV) are corresponding to a Sn²⁺ valence state with a
+spin-orbit splitting of 8.4 eV [23]. The shoulder components of peak 3
+(centered at 486.9 eV) and peak 4 (centered at 495.3 eV) are originated
+from a Sn⁴⁺ oxidization state because of a chemical shift of 0.7-1.5 eV
+between Sn⁴⁺ and Sn²⁺ as accordingly reported by previous studies [24,
+25].
+
+Figure 2(b) shows the spectrum from a cleaved SnS single crystal using
+Scotch tape in a highly vacuumed prechamber on the order of 10⁻⁷ Torr to
+obtain its intrinsic valence state. In both Sn 3d5/2 and Sn 3d3/2
+orbitals, only sharp peaks were observed at 485.7 and 494.1 eV according
+to the Sn²⁺ state. These results indicate that the outermost surface of
+SnS is oxidized by air similar to SnSe [26]. Here, the thickness of the
+Sn⁴⁺ layer was estimated using the equation,
+d = Lcos θln (I_(A)/I_(B) + 1)[16], where d is the thickness, L is the
+inelastic mean-free path of a photoelectron from the sample, θ is the
+emission angle, I_(A) and I_(B) are the peak area intensities from Sn⁴⁺
+and Sn²⁺ peaks, respectively. The values of θ are 0^(∘) relative to the
+sample surface normal, L is 2.4 nm [27], and I_(A)/I_(B) is 0.63. This
+estimation indicates that the valence state of Sn⁴⁺ exists within 1.2 nm
+depth from the surface, while the valence state of the bulk sample is
+Sn²⁺. Therefore, we can easily evaluate the intrinsic property of SnS by
+cleaving the sample surface before transport measurements.
+
+Electrical resistivity measurements for the obtained SnS single crystals
+were carried out at ambient pressure via a standard four-probe method.
+To prevent surface degradation, we cleaved the sample crystal just
+before applying the silver paste paint. Figure 3(a) shows a temperature
+dependence of the resistivity for SnS. The order of resistivity of 50 Ω
+cm at 300 K is consistent with the typical value of SnS [28]. To
+evaluate the activation energy of the obtained SnS, the measured
+resistivity was fitted by the Arrhenius relationship of
+ρ = ρ₀ × exp (E_(a)/k_(B)T), where ρ₀ is the residual resistivity, E_(a)
+is the activation energy, k_(B) is the Boltzmann constant, and T is the
+temperature, as shown in the inset of Fig. 3(a). The straight-line fit
+yields the E_(a) value near room temperature of 114 meV. This shallow
+acceptor level is in agreement with a well-observed tendency in the
+Sn-rich SnS [29, 30].
+
+Figure 3(b) shows a Hall voltage of SnS as a function of the applied
+magnetic field to confirm the carrier type and concentration at room
+temperature and ambient pressure. From the slope of Hall voltage versus
+magnetic field, the carrier concentrations of samples have been
+calculated using the formula (V_(H)/I) = (1/ned)H, where V_(H) is the
+Hall voltage,
+
+Figure 1: XRD patterns with Cu Kα radiation (λ = 1.5418 Å) of (a) ground
+SnS and (b) a piece of SnS single crystal. The diffraction peak from Cu
+Kα₂ and the background were subtracted from the XRD patterns. The inset
+shows the optical microscope image for a piece of SnS single crystal.
+
+Figure 2: High-resolution XPS measurements of Sn 3d orbital of (a) SnS
+single crystal without cleaving treatment, and (b) cleaved SnS single
+crystal in a highly vacuumed prechamber on the order of 10⁻⁷ Torr using
+Scotch tape.
+
+I is the current, n is the number of carriers, e is the elementary
+charge, H is the magnetic field, and d is the sample thickness. The
+V_(H) curve shows a positive slope, indicating a p-type characteristic
+with a carrier concentration of 6.5 x 10¹⁷ cm⁻³. Although a typical
+carrier concentration of SnS is on the order of 10¹⁵ cm⁻³[31], it can be
+increased up to the order of 10¹⁷ cm⁻³ in the quasistoichiometric
+composition [21], which is consistent with our EDX result. The
+relatively high carrier concentration would contribute to the observed
+smaller energy gap in the synthesized SnS.
+
+To examine the predicted superconductivity in SnS, the temperature
+dependence of resistance was measured under high pressures. Here, we
+used the originally designed diamond-anvil cell [17, 18] for the
+high-pressure measurements as shown in a schematic image of Fig. 4(a).
+Sample voltage is detected by heavily boron-doped metallic diamond (BDD)
+electrodes on the bottom anvil. The electrodes and the metal gasket are
+electrically separated by an insulating undoped diamond (UDD) layer. The
+fabrication process details of these special diamonds are described in
+Refs. [17, 18]. In the measurement of SnS, a six-probe design of
+electrodes was used as shown in Fig. 4(b). Figure 4(c) is an optical
+image of a piece of single crystal that was placed on the center of the
+bottom diamond anvil with the BDD electrodes. The crystal was cleaved by
+the Scotch tape just before the pressure application to remove any
+oxidized surface. Since the sample space of DAC was filled by the cBN,
+the surface degradation of the sample during the high-pressure
+experiment could be prevented.
+
+Figure 5(a) shows the temperature dependence of the resistance for SnS
+under pressures up to 47.8 GPa in a log scale. The energy gaps of
+E_(g) = 2E_(a) as a function of the applied pressure were plotted in
+Fig. 4(c) via the Arrhenius fitting for the resistance curves as shown
+in the inset. The sample first shows an insulating behavior under 4 GPa
+with the energy gap of 0.17 eV which is smaller than that of ambient
+pressure. The resistance was strongly decreased with applied pressure up
+to 8.1 GPa. As pressure was increased beyond the theoretically predicted
+phase boundary of α-SnS to β-SnS at 9 GPa [12], the sample resistance
+drastically dropped more than three orders of magnitude in the
+low-temperature region. This jump in the resistance of SnS could be
+experimental evidence for the pressure-induced structural transition as
+predicted by Gonzalez _et al._[12]. On the other hand, it was found that
+the energy gap was smoothly decreased with the increase of pressure,
+with a slope of 16 meV/GPa and extended line approached to zero around
+14 GPa. We believe that the metallization in SnS is independent of the
+structural phase transition.
+
+Figure 5(b) shows the enlarged plot of the temperature dependence of the
+resistance for SnS around the low-resistance region in linear scale
+under applied pressured between 18 and 47.8 GPa. The resistance behavior
+clearly changes under a pressure variation from 18 to 23.6 GPa, which
+coincides with the experimentally reported phase boundary of α-SnS to
+γ-SnS [14]. The compressed SnS exhibited complete metallic tendency
+under 23.6 GPa with a residual resistance ratio (RRR = R_(300K)/R_(10K))
+of 1.46. After 23.6 GPa there is no change of the resistance behavior up
+to 43 GPa except for the decrease of RRR. Under the highest applied
+pressure of 47.8 GPa, the compressed SnS exhibited a sudden drop of
+resistance from 5.8 K corresponding to superconducting transition. Under
+this critical pressure of 47.8 GPa for superconductivity, the shape of
+the resistance curve in the normal state and the RRR were almost the
+same as those of 43 GPa. These
+
+Figure 4: (a) Originally designed diamond-anvil cell with BDD electrodes
+and UDD insulating layer. (b) Enlargement of six probe electrodes. (c)
+Sample space of bottom diamond anvil with one piece of SnS single
+crystal.
+
+Figure 3: Transport properties for SnS at ambient pressure. (a)
+Temperature dependence of resistivity. The inset shows an Arrhenius plot
+of the resistivity near room temperature. (b) Hall voltage of SnS as a
+function of applied magnetic field at 300 K.
+
+results suggest that there is no structural transition between 23.6 and
+47.8 GPa. Here we assume that the transition from _a_-SnS to _b_-SnS and
+_b_-SnS to _g_-SnS occurred around 8.1 and 18 GPa, respectively.
+Although it is required to conduct _in situ_ XRD analysis for more
+precise determination of the critical pressures of these phase
+transitions, we first observed the pressure-induced insulator to metal
+transition and the superconductivity in SnS based on theoretical
+predictions. The pressure-phase diagram from our experimental
+measurement of resistance in SnS was concluded in Fig. 6. Due to
+inhomogeneous pressure distribution in the sample space, sometimes zero
+resistance could not be observed even when the critical pressure was
+applied [32]. Although we expected the observation of zero resistance
+under higher-pressure region, the diamond anvil was broken after the
+measurement under 47.8 GPa, unfortunately. As a future investigation,
+further resistance and magnetization measurements will be carried out in
+order to confirm the zero resistance and Meissner effect, respectively.
+
+To confirm that the drop of resistance in SnS under 47.8 GPa is
+originated from a superconducting transition, we measured the
+temperature dependence of resistance under magnetic field up to 1.5 T,
+as shown in Fig. 7(a). The drop of resistance was gradually suppressed
+by an increase of the applied magnetic field and completely disappeared
+above 2 K under 1.5 T. This suppression indicates that the drop of
+resistance in SnS under 47.8 GPa comes from the superconductivity.
+Figure 7(b) shows a temperature dependence of upper critical field
+H_(c2) estimated from the Werthamer-Helfand-Hohenberg (WHH)
+approximation [33] for type II superconductors in a dirty limit. The
+extrapolated H_(c2)(0) was 1.6 T under 47.8 GPa. From the
+Ginzburg-Landau formula H_(c2)(0) = Φ₀/2πξ(0)², where Φ₀ is a fluxoid,
+ξ(0) is the coherence length at zero temperature, and the obtained value
+for ξ(0) was 1.4 nm.
+
+According to the above investigation, SnS exhibits higher T_(c) of 5.8 K
+than that of superconducting SnSe with _Pm-3m_ structure [9]. To discuss
+the difference in their superconducting properties quantitatively, we
+additionally synthesized SnSe single crystal and evaluated the
+high-pressure effect as a comparison. The synthesis conditions were
+referred to in the literature [8] and details are described in
+Supplemental Material [34]. In the high-pressure measurements, we used
+
+Figure 5: (a) Temperature dependence of resistance in SnS single crystal
+under various pressures from 4 to 47.8 GPa in log scale and (b) enlarged
+plot around low-resistance region in linear scale. (c) Estimated energy
+gap of SnS as a function of applied pressure. The inset shows Arrhenius
+plots for resistance under ambient pressure, 4, 8.1, and 12.5 GPa.
+
+Figure 6: Pressure-phase diagram from resistance measurement in SnS.
+
+Figure 7: (a) Temperature dependence of resistance at 47.8 GPa under
+magnetic field up to 1.5 T. (b) Temperature dependence of upper critical
+field H_(c2) estimated from the WHH approximation.
+
+the same configuration of DAC with a pressure-transmitting medium of
+cBN. Figure 8 shows the temperature dependence of the resistance in the
+SnSe single crystal under pressures ranging from 1.9 GPa to 30.4 GPa in
+log scale. The insulating behavior of SnSe changed to a metallic
+character at 14 GPa. Here the critical pressure of metallization for
+SnSe is in accordance with those of previous reports [9,35]. Upon
+further compression, the resistance dropped to zero at 30.4 GPa,
+corresponding to a superconducting transition, with a T_(c) of 4.2 K
+which is 28
+
+Theoretical studies suggested that there is a possibility of a
+phonon-mediated Bardeen-Cooper-Schrieffer superconductivity in
+γ-SnS-_Pm-3m_ structure [12]. In this case, the T_(c) of such a
+conventional superconductor can be described by the McMillan formula
+[36]:
+
+$$T_{\text{c}}=\frac{\theta_{\text{D}}}{1.45}\bigg{[}\frac{1.04(1+\lambda)}{ \lambda-\mu^{*}(1+0.62\lambda)}\bigg{]},$$
+
+where λ is the electron-phonon coupling constant and θ_(D) is the Debye
+temperature. In this formalism, μ^(*) is the Coulomb repulsion
+parameter, which has typical values between 0.1 and 0.14 [12]. Here, the
+θ_(D) in metallic materials can be estimated by fitting the temperature
+dependence of the resistance using the Bloch-Gruneisen equation [37]:
+
+$$R(T)=R_{0}+A\bigg{(}\frac{T}{\theta_{\text{D}}}\bigg{)}^{5}\int_{0}^{\theta_{ \text{D}}/T}\frac{x^{5}}{(e^{x}-1)(1-e^{-x})}dx,$$
+
+where R₀ is the residual resistance, A is a characteristic constant, and
+T is the temperature. Figure 9 shows the temperature dependence of the
+resistance in (a) SnSe at 30.4 GPa and (b) SnS at 48 GPa. The fitting
+results for the Bloch-Gruneisen equation are shown by the red solid
+line. According to the fitting results, the θ_(D) in SnS is 202 K, which
+is a reasonable value compared to the theoretically calculated phonon
+frequency value under high pressure [12]. On the other hand, the θ_(D)
+in SnSe is 92 K which is almost half of that in SnS, reflecting its
+heavier atomic mass. Consequently, the T_(c) of SnS was higher than that
+of SnSe. Although the θ_(D) for SnSe is half of SnS, the T_(c) is only
+28
+
+## IV Conclusion
+
+During this study, we succeeded in the synthesis of SnS single crystal.
+The resistance measurement under high pressure using our originally
+designed diamond-anvil cell revealed an insulator to metal transition
+between 8.1 and 12.5 GPa and superconductivity at 5.8 K under 48 GPa
+with correspondence to the theoretical prediction. Our experimental
+observations suggest that the structural transition from α-SnS to β-SnS
+and β-SnS to γ-SnS occurred around 8.1 and 18 GPa, respectively. From
+the comparison with the pressure-induced superconductivity in the
+related compound SnSe, possible T_(c) enhancement in SnS can be achieved
+by increasing the DOS at the Fermi level using band-structure
+engineering techniques. Such a theory preceding exploration for
+superconductors, as for example data-driven approaches [32,39] and the
+discovery of hydrogen-rich high-T_(c) superconductors [40, 41, 42, 43],
+is then a promising tool to further accelerate materials science
+research.
+
+###### Acknowledgements.
+
+The authors thank P. B. Castro for helpful discussions and proofreading
+of the manuscript. This work was partly supported by JST CREST Grant No.
+JPMJCR16Q6, JST-Mirai Program Grant No. JPMJMI17A2, and JSPS KAKENHI
+Grant No. JP17J05926. A part of the fabrication process was supported by
+NIMS Nanofabrication Platform in Nanotechnology Platform Project
+sponsored by the Ministry of
+
+Figure 8: Temperature dependence of resistance in SnSe single crystal
+under various pressures from 1.9 to 30.4 GPa in log scale.
+
+Figure 9: Temperature dependence of resistance in (a) SnSe at 30.4 GPa
+and (b) SnS at 48 GPa. The fitting results for the Bloch-Gruneisen
+equation are shown by the red solid line. The experimental T_(c) values,
+fitting parameters of R₀, A, and θ_(D) are displayed in the figures.
+
+Education, Culture, Sports, Science and Technology (MEXT), Japan. Part
+of the high-pressure experiments were supported by the Visiting
+Researcher’s Program of Geodynamics Research Center, Ehime University.
+
+## References
+
+* Zhao _et al._ [2014]L.-D. Zhao, S.-H. Lo, Y. Zhang, H. Sun, G. Tan, C.
+Uher, C. Wolverton, V. P. Dravid, and M. G. Kanatzidis, Nature (London)
+**508**, 373 (2014). * Zhao _et al._ [2016]L.-D. Zhao, G. Tan, S. Hao,
+J. He, Y. Pei, H. Chi, H. Wang, S. Gong, H. Xu, V. P. Dravid, C. Uher,
+G. J. Snyder, C. Wolverton, and M. G. Kanatzidis, Science **351**, 141
+(2016). * Chen _et al._ [2012]Y. Chen, M. D. Nielsen, Y. B. Gao, T. J.
+Zhu, X. Zhao, and J. P. Heremans, Adv. Energy Mater. **2**, 58 (2012). *
+Cheree _et al._ [2016]E. K. Cheree, Q. Zhang, K. Dahal, F. Cao, J. Mao,
+and Z. Ren, J. Mater. Chem. A **4**, 1848 (2016). * Han _et al._
+[2015]Y.-M. Han, J. Zhao, M. Zhou, X.-X. Jiang, H.-Q. Leng, and L.-F.
+Li, J. Mater. Chem. A **3**, 4555 (2015). * Tan _et al._ [2014]Q. Tan,
+L.-D. Zhao, J.-F. Li, C.-F. Wu, T.-R. Wei, Z.-B. Xing, and M. G.
+Kanatzidis, J. Mater. Chem. A **2**, 17302 (2014). * Wu _et al._
+[2015]H. Wu, C. Chang, D. Feng, Y. Xiao, X. Zhang, Y. Pei, L. Zheng, D.
+Wu, S. Gong, Y. Chen, J. He, M. G. Kanatzidis, and L.-D. Zhao, Energy
+Environ. Sci. **8**, 3298 (2015). * Yamashita _et al._ [2018]A.
+Yamashita, O. Ogiso, R. Matsumoto, M. Tanaka, H. Hara, H. Tanaka, H.
+Takeya, C. H. Lee, and Y. Takano, J. Phys. Soc. Jpn. **87**, 065001
+(2018). * Chen _et al._ [2017]X. Chen, P. Lu, X. Wang, Y. Zhou, C. An,
+Y. Zhou, C. Xian, H. Gao, Z. Guo, C. Park, B. Hou, K. Peng, X. Zhou, J.
+Sun, Y. Xiong, Z. Yang, D. Xing, and Y. Zhang, Phys. Rev. B **96**,
+165123 (2017). * Zhang _et al._ [2016]L. Zhang, J. Wang, Z. Cheng, Q.
+Sun, Z. Li, and S. Doua, J. Mater. Chem. A **4**, 7936 (2016). * Novak
+_et al._ [2013]M. Novak, S. Sasaki, M. Kriener, K. Segawa, and Y. Ando,
+Phys. Rev. B **88**, 140502(R) (2013). * Gonzalez _et al._ [2018]J. M.
+Gonzalez, K. N. Cong, B. A. Steele, and I. I. Oleynik, J. Chem. Phys.
+**148**, 194701 (2018). * Alptekin and Durandurdu [2010]S. Alptekin and
+M. Durandurdu, Solid State Commun. **150**, 870 (2010). * Ehm _et al._
+[2004]L. Ehm, K. Knorr, P. Dera, A. Krimmel, P. Bouvier, and M. Mezouar,
+J. Phys.: Condens. Matter **16**, 3545 (2004). * Yu _et al._ [2017]H.
+Yu, W. Lao, L. Wang, K. Li, and Y. Chen, Phys. Rev. Lett. **118**,
+137002 (2017). * Matsumoto _et al._ [2016]R. Matsumoto, Y. Nishizawa, N.
+Kataoka, H. Tanaka, H. Yoshikawa, S. Tanuma, and K. Yoshihara, J.
+Electron Spectrosc. Relat. Phenom. **207**, 55 (2016). * Matsumoto _et
+al._ [2016]R. Matsumoto, Y. Sasama, M. Fujioka, T. Irifune, M. Tanaka,
+T. Yamaguchi, H. Takeya, and Y. Takano, Rev. Sci. Instrum. **87**,
+076103 (2016). * Matsumoto _et al._ [2018]R. Matsumoto, A. Yamashita, H.
+Hara, T. Irifune, S. Adachi, H. Takeya, and Y. Takano, Appl. Phys.
+Express **11**, 053101 (2018). * Piermarini _et al._ [1975]G. J.
+Piermarini, S. Block, J. D. Barnett, and R. A. Forman, J. Appl. Phys.
+**46**, 2774 (1975). * Akahama and Kawamura [2004]Y. Akahama and H.
+Kawamura, J. Appl. Phys. **96**, 3748 (2004). * Yanuar _et al._
+[2000]Yanuar, F. Guastavino, C. Llinares, K. Djessas, and G. Masse, J.
+Mater. Sci. Let. **19**, 2135 (2000). * Burton _et al._ [2013]L. A.
+Burton, D. Colombara, R. D. Abellon, F. C. Grozema, L. M. Peter, T. J.
+Savenije, G. Dennler, and A. Walsh, Chem. Mater. **25**, 4908 (2013). *
+Themlin _et al._ [1992]J. M. Themlin, M. Chtaib, L. Henrard, P. Lambin,
+J. Darville, and J. M. Gilles, Phys. Rev. B **46**, 2460 (1992). * Wang
+_et al._ [2013]J. J. Wang, A. F. Lv, Y. Q. Wang, B. Cui, H. J. Yan, J.
+S. Hu, W. P. Hu, Y. G. Guo, and L. J. Wan, Sci. Rep. **3**, 2613
+(2013). * Ahn _et al._ [2004]H. J. Ahn, H. C. Choi, K. W. Park, S. B.
+Kim, and Y. E. Sung, J Phys. Chem. B **108**, 9815 (2004). * Matsumoto
+_et al._ [2018]R. Matsumoto, H. Hara, H. Tanaka, K. Nakamura, N.
+Kataoka, S. Yamamoto, T. Irifune, A. Yamashita, S. Adachi, H. Takeya,
+and Y. Takano, J. Phys. Soc. Jpn. **87**, 124706 (2018). * Tanuma _et
+al._ [2011]S. Tanuma, S. J. Powell, and D. R. Penn, Surf. Interface
+Anal. **43**, 689 (2011). * Reddy and Reddy [1998]N. K. Reddy and K. T.
+R. Reddy, Thin Solid Films **325**, 4 (1998). * Tanuevski and Poelman
+[2003]A. Tanuevski and D. Poelman, Sol. Energy Mater Sol. Cells. **80**,
+297 (2003). * Ristov _et al._ [1989]M. Ristov, Gj. Sinadinovski, I.
+Grozdanov, and M. Mitreski, Thin Solid Films **173**, 53 (1989). * Reddy
+_et al._ [2006]K. T. R. Reddy, N. K. Reddy, and R. W. Miles, Sol. Energ.
+Mater. Sol. Cells **90**, 3041 (2006). * Matsumoto _et al._ [2018]R.
+Matsumoto, Z. Hou, M. Nagao, S. Adachi, H. Hara, H. Tanaka, K. Nakamura,
+R. Murakami, S. Yamamoto, H. Takeya, T. Irifune, K. Terakura, and Y.
+Takano, Sci. Technol. Adv. Mater. **19**, 909 (2018). * Werthamer _et
+al._ [1966]N. R. Werthamer, E. Helfand, and P. C. Hohenberg, Phys. Rev.
+**147**, 295 (1966). * [34]See Supplemental Material at
+http://link.aps.org/supplemental/10.1103/PhysRevB.99.184502 for
+synthesis procedures of SnSe single crystal. * Yan _et al._ [2016]J. J.
+Yan, F. Ke, C. L. Liu, L. Wang, Q. L. Wang, J. K. Zhang, G. H. Li, Y. H.
+Han, Y. Z. Ma, and C. X. Gao, Phys. Chem. Chem. Phys. **18**, 5012
+(2016). * Mcmillan [1968]W. L. Mcmillan, Phys. Rev. **167**, 331
+(1968). * Ziman [2001]J. M. Ziman, _Electrons and Phonons: The Theory of
+Transport Phenomena in Solids_, Oxford Classic Texts in the Physical
+Sciences (Clarendon, Oxford, 2001). * Nagayama _et al._ [2018]T.
+Nagayama, K. Terashima, T. Wakita, H. Fujiwara, T. Fukura, Y. Yano, K.
+Ono, H. Kumigashira, O. Ogiso, A. Yamashita, Y. Takano, H. Mori, H.
+Usui, M. Ochi, K. Kuroki, Y. Muraoka, and T Yokoya, Jpn. J. Appl. Phys.
+**57**, 010301 (2018). * Matsumoto _et al._ [2018]R. Matsumoto, Z. Hou,
+H. Hara, S. Adachi, H. Takeya, T. Irifune, K. Terakura, and Y. Takano,
+Appl. Phys. Express **11**, 093101 (2018). * Drozdov _et al._ [2015]A.
+P. Drozdov, M. I. Eremets, I. A. Troyan, V. Ksenofontov, and S. I.
+Shylin, Nature (London) **525**, 73 (2015). * Einaga _et al._ [2016]M.
+Einaga, M. Sakata, T. Ishikawa, K. Shimizu, M. I. Eremets, A. P.
+Drozdov, I. A. Troyan, N. Hirao, and Y. Ohishi, Nat. Phys. **12**, 835
+(2016). * Somayazulu _et al._ [2019]M. Somayazulu, M. Ahart, A. K.
+Mishra, Z. M. Geballe, M. Baldini, Y. Meng, V. V. Struzhkin, and R. J.
+Hemley, Phys. Rev. Lett. **122**, 027001 (2019). * Drozdov _et al._
+[2019]A. P. Drozdov, P. P. Kong, V. S. Minkov, S. P. Besedin, M. A.
+Kuzovnikov, S. Mozaffari, L. Balicas, F. Balakirev, D. Graf, V. B.
+Prakapenka, E. Greenberg, D. A. Knyazev, M. Tkacz, and M. I. Eremets,
+arXiv:1812.01561.

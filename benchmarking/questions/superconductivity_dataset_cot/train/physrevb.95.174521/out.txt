@@ -1,0 +1,375 @@
+
+
+# Superconductivity in a new intermetallic structure type based on endohedral Ta@Ir7Ge4 clusters
+
+Laura C. Srivichitranond
+
+Department of Chemistry, Princeton University, Princeton New Jersey 08544, USA
+
+Elizabeth M. Seibel
+
+Department of Chemistry, Princeton University, Princeton New Jersey 08544, USA
+
+Weiwei Xie
+
+Department of Chemistry, University of Princeton, Princeton New Jersey 08544, USA
+
+Zuzanna Sobczak
+
+Faculty of Applied Physics and Mathematics, Gdansk University of Technology, Nantouwicza 11/12, 80-233 Gdansk, Poland
+
+Tomasz Klimczuk
+
+Faculty of Applied Physics and Mathematics, Gdansk University of Technology, Nantouwicza 11/12, 80-233 Gdansk, Poland
+
+R. J. Cava
+
+Department of Chemistry, Princeton University, Princeton New Jersey 08544, USA
+
+November 6, 2021
+
+###### Abstract
+
+We report the observation of superconductivity at a temperature near 3.5 K for the previously unreported compound TaIr2Ge2. In addition to being a superconductor, this material displays a new crystal structure type that contains endohedral clusters, as determined by single-crystal x-ray diffraction structure refinement; the structure is more complex than those of the commonly observed tetragonal 122 intermetallic phases. Despite the strong metal-metal interactions, electronic structure calculations show the presence of a relatively simple set of states at the Fermi level, consisting mostly of Ta atom orbital contributions. The superconducting transition is characterized by temperature-dependent resistivity, magnetic susceptibility and specific heat measurements, and is of the weak coupling BCS type with \Delta C/\gamma T_{c} = 1.55. The upper critical field at 0 K is estimated to be 2 T. Basic characterization of the superconductivity suggests that this material is similar to PbTaSe2, for which the effects of spin-orbit coupling may be important.
+
+DOI: 10.1103/PhysRevB.95.174521
+
+## I Introduction
+
+Heavy elements such as iridium often form materials with interesting physical properties due to strong spin-orbit coupling. Ir-based materials have been of particular recent interest for oxides [1], and a variety of intermetallic materials based on Ir have been the subjects of recent study [2]. Our interest is in the superconductivity in Ir-containing materials where the presence of strong spin-orbit coupling may affect the superconducting properties. Some of the most favored structures for Ir-containing superconductors are the LaIrSi-type and the tetragonal symmetry "1:2:2" CaBe2Ge2-type. Tetragonal "1:2:2" type materials are particularly ubiquitous among intermetallic phases [3]. In these layered 1:2:2 AB_{2}X_{2} structures, B and X closely bond and form the electron-acceptor layers while the electropositive A element (usually rare-earth, alkaline, or alkali-earth metals) acts as the electron-donor layer [4]. Remarkably, despite the extreme structural similarities and known structural phase transitions between the CaBe2Ge2 structure type and the ThCr2Si2-type structures, which are related through the inversion of the order of one of the constituent layers, almost all of the superconducting 1:2:2 phases based on Ir exist in the CaBe2Ge2 structure type only--for materials that occur in both of these common 1:2:2 structures, it has been observed that superconductivity is only present in the CaBe2Ge2 structure, disappearing when the same elements form a ThCr2Si2-type structure [5,6].
+
+Here we report a new, superconducting 1:2:2 Ir-based material with a previously unreported crystal structure type, TaIr2Ge2. Instead of hosting layered features like the CaBe2Ge2 and ThCr2Si2-type structures, the use of the less electropositive element Ta results in cluster-type structural fragments like the ones found in many metallic alloys [7]. The previously unreported structure type displayed by this new ternary compound is understood as consisting of corner- and face-sharing Ta@Ir7Ge4 clusters. We show the crystal structure, calculated electronic structure, and superconducting property measurements of TaIr2Ge2. This material has strong spin-orbit coupling and displays superconducting behavior below a critical temperature of 3.5 K. Our specific heat data confirm bulk superconductivity and indicate that TaIr2Ge2 is a weak-coupling BCS superconductor. The superconducting transition is further characterized by upper and lower critical field measurements.
+
+## II Experimental
+
+Polycrystalline samples of TaIr2Ge2 were synthesized by arc melting on a water-cooled copper hearth under an argon atmosphere. Tantalum (foil, 99.95%, Alfa Aesar), iridium metal (powder, 99.95%, Alfa Aesar), and germanium (crystalline pieces, 99.9999%, Alfa Aesar) were measured out in the TaIr2Ge2 stoichiometric ratio, and the iridium powder was pressed into a pellet. The Ir powder pellet and Ge pieces were first arc melted together and then combined with the Ta foil. Samples were turned over and arc melted repeatedly to increase homogeneity. The total mass of each sample was approximately 100 mg, and weight losses from arc melting did not exceed 2.5%. Annealing experiments were performed in sealed evacuated quartz glass tubes for temperatures below 1150 degC, and in an argon-backfilled induction furnace for temperatures between 1150 degC and 1450 degC.
+
+In order to determine the identity of the new phase in the Ta-He system, single-crystal x-ray diffraction was performed at room temperature. Small crystals (\sim0.01 x 0.01 x 0.01 mm) were selected from partially crushed polycrystalline samples and mounted on the tip of a Kapton loop. Ten different pieces were tested, and the same lattice parameters were obtained for each. A Bruker APE II diffractometer was used to gather intensity data, with Mo radiation (\lambda_{K\alpha} = 0.71073 A) and an exposure time of 10 seconds per frame. Data were collected over a full sphere of reciprocal space, with 0.5deg scans in \omega and a 2\theta range from 5deg to 70deg. The data acquisition, extraction of intensity, and face-indexed numerical correction for Lorentz and polarization effects were performed using the Bruker smart software [8]. With the SHELYL package [9], the crystal structures were solved using direct methods and refined by full-matrix least-squares on F2. All crystal structure drawings were produced using the program vesta[10].
+
+Powder x-ray diffraction patterns were obtained on a Bruker D8 Advance Eco diffractometer using Cu-K\alpha radiation and a LynxEye-XE detector. A LeBail fit was performed using the fullprof suite[11] with Thompson-Cox-Hastings pseudo-Voigt peak shapes starting with the cell parameters determined from single crystal diffraction. Lattice parameters from powder diffraction were found to be within <0.3% of the single crystal diffraction results. We therefore report the crystallographic parameters obtained from single crystal structure refinements.
+
+Electronic structure calculations of the density of states (DOS) and band structure were completed using the Vienna _ab initio_ simulation package (vasp)[12, 13, 14, 15]. The computation employed projector augmented-wave (PAW) pseudopotentials [16, 17] and the Perdew-Burke-Ernzerhof parameterization of the generalized gradient approximation (PBE-GGA) [18], which includes scalar relativistic effects (spin-orbit coupling) on all atoms. All the calculations were performed on the experimental crystal structure data. The energy cutoff was 400 eV. Reciprocal space integrations were completed over a 6 x 4 x 16 Monkhorst-Pack _k_-point mesh, using the linear tetrahedron method. With these settings, the calculated total energy converged to less than 0.1 meV per atom.
+
+Temperature-dependent resistivity and heat capacity measurements were performed on a Quantum Design Physical Property Measurement System (PPMS). Resistivity data were collected under a maximum applied current of 5 mA over a temperature range of 1.9-300 K. A standard four-probe approach was used, and the 20-\mum-diameter platinum wire leads were attached to the sample by spot welding. Magnetization measurements were also taken on the PPMS equipped with a vibrating sample magnetometer (VSM). Zero-field cooled data were collected under an applied field of 20 Oe. The magnetization was also measured as a function of applied field (0 to 2 T) at temperatures from 1.7 to 3.2 K.
+  carefully and especially focused on the examinations of site preferences and atomic mixtures. The crystal structure of Talr_{2}Ge_{2} can be represented by Ta-centered clusters, in which the Ir and Ge atoms surround Ta atoms to form 11-coordinate polyhedra. These endohedral Ta@Ir_{7}Ge_{4} clusters extend into three dimensions through Ir vertex sharing or Ir_{4} face sharing. Potential Ir/Ge mixtures were tested during the structural refinements to guarantee the veracity of the ordered atomic occupancies. Furthermore, multiple experimental attempts were made to synthesize compounds of similar compositions (for example, "Talr_{2-x}Ge_{2+x}" and "Talr_{2+x}Ge_{2-x}"); only Talr_{2}Ge_{2} proved to be stable, supporting our determination of the clear site preference for Ir and Ge in the compound. The Ta-Ir bonds present have lengths of 2.76, 2.78, and 2.86 A, while the Ta-Ge bonds have lengths of 2.88 and 2.90 A. These bond lengths are similar to those in binary compounds containing the same elements. For example, the Ta-Ir bonds in Talr_{3} have a length of 2.75 A [19], and the Ta-Ge bonds in TaGe_{2} are either 2.66 or 2.84 A in length [20]. These values are consistent with our observations for Talr_{2}Ge_{2}. A brief analysis of the relative electronegativities of the three elements supports this understanding of the endohedral clusters in the new structure as follows: the electronegativity of Ir is greater than that of Ge, according to both the Pauling scale (\chi_{\rm Ir}=2.20 and \chi_{\rm Ge}=2.01) and the Mulliken scale (\chi_{\rm Ir}=2.14 and \chi_{\rm Ge}=1.88); on the other hand, Ta is significantly more electropositive than either Ir or Ge. Therefore the two more electronegative atoms surround the electropositive Ta atoms. It is worth noting that Ge-Ge dimers are present in Talr_{2}Ge_{2}, and since they have been observed in at least one other superconductor, they may be influential for the presence of superconductivity in the present material [21].
+
+In order to gain a better understanding of the cluster formation in Talr_{2}Ge_{2}, the calculated band structure and the density of states based on the vasp results can be considered. The resulting diagrams can be found in Fig. 3, with the band structure located in the right-most panel. Below values of 1.5 eV below the Fermi energy, primarily Ir and Ge bulk metallic states are observed. However, around the Fermi level, a few bands split off from the main set of states. These consist mostly of contributions from partially hybridized Ta 5d and 6s states, indicating a weak interaction between valence electrons from Ta in these states and those from Ir/Ge. Considering the total density of states near the Fermi level shown in the left panel of the figure, another significant feature is revealed--the deep pseudogap below the Fermi level. The pseudogap corresponds to 28 valence electrons per Talr_{2}Ge_{2} (14e- per Ta_{0.5}IrGe), which is associated with the stability of the compound.
+
+The electronic structure calculation results shown in Fig. 3 are consistent with our view of low T_{\rm c} polar intermetallic compounds, as we observe that it is common for such superconductors to have a Fermi level just above or below the pseudogap in the density of states. In addition, Van Hove singularities can be observed in the band structure of Talr_{2}Ge_{2} [Fig. 3(b)]. These bands contribute to electronic instability often seen in superconducting systems. Moreover, the 14 valence electron count per Ta_{0.5}IrGe formula unit at the deep pseudogap inspired us to reinvestigate the electronic structure of superconductor IrGe, which has 13 valence electrons per formula unit [22]. Not surprisingly, a broad pseudogap in the DOS of IrGe is located above the Fermi level, also corresponding to 14 valence electrons. A new material with two fewer electrons per formula unit than Talr_{2}Ge_{2} and the same crystal structure, if it could be synthesized, is expected to have its Fermi level quite close to a pseudogap in the density of states.
+
+The main panel of Fig. 4 shows the temperature dependence of electrical resistivity of Talr_{2}Ge_{2} between 1.9 and 300 K. Metallic behavior (d\rho/dT>0) is manifested in the whole temperature range. The temperature dependence of the resistivity is typical of what is seen in intermetallic compounds--a residual resistivity (\rho_{0}) is seen at low temperatures due to
+
+Figure 3: Calculated electronic structure for Talr_{2}Ge_{2}. (Left) Density of states (DOS) in the vicinity of the Fermi level and (right) band structure calculations. Total band structure and density of states curves were calculated using PAW pseudopotentials on vasp, with spin-orbit coupling included.
+
+Figure 2: Powder x-ray diffraction pattern of a polycrystalline sample of Talr_{2}Ge_{2} employed in the property determinations. The positions of the Bragg reflections, as determined from the single crystal structure refinement, are marked in red.
+
+  impurity scattering, and there is a saturation of the resistivity at high temperatures (\rho_{\rm max}) where the mean-free path approaches the interatomic spacing, the so called Ioffe-Regel limit [23; 24]. This behavior is often fit by what is called a parallel resistor model (PRM) [25; 26; 27] that includes Bloch-Gruneisen resistivity \rho_{\rm BG} behavior combined with a parallel, temperature independent resistor \rho_{\rm max}:
+
+\[\rho^{-1}(T)=\rho_{\rm max}^{-1}+(\rho_{0}+\rho_{\rm BG})^{-1},\]
+
+where
+
+\[\rho_{\rm BG}=4R\Theta\left(\frac{T}{\Theta}\right)^{5}\int\frac{x^{5}}{[\exp(x )-1][1-\exp(-x)]}dx.\]
+
+The characteristic temperature estimated from the fit is \Theta=183 K; the temperature independent term \rho_{0} is 0.204(3) m\Omega cm and \rho_{\rm max}=2.28(7) m\Omega cm. The inset shows \rho(T) for TaIr_{2}Ge_{2} in the vicinity of superconducting transition measured under zero field and applied magnetic field up to 1.0 T. With no applied magnetic field, we observe the resistivity drop to zero with a superconducting critical temperature of T_{c}=3.9 K. The superconducting temperature was estimated as the midpoint of the resistivity transition (shown in the inset of Fig. 4). T_{c} decreases with applied magnetic field as is expected for superconducting materials, and for \mu_{0}H=1 T the critical temperature is T_{c}=2.02 K.
+
+The volume susceptibility \chi_{\rm V}(T) versus temperature of TaIr_{2}Ge_{2} under an H=200 Oe applied field is presented in Fig. 5. The zero-field cooled (ZFC) susceptibility drops to a large negative value upon cooling. When corrected for the demagnetization factor N=0.17 [obtained from the M(H) fit as discussed below], the diamagnetic signal at the lowest temperature T=1.8 K is slightly below the expected value \chi_{\rm V}=-1/4\pi, indicating that the sample volume is fully superconducting. A much smaller diamagnetic signal is observed in the field-cooled \chi_{\rm V}(T) transition (see the inset of Fig. 5) due to strong magnetic flux pinning in the polycrystalline TaIr_{2}Ge_{2} sample.
+
+The superconducting state is further characterized by magnetization versus magnetic field measurements M(H) as shown in Fig. 6(a). Assuming that a linear response to a magnetic field indicates a perfect diamagnetic response, we obtain a demagnetization factor of N=0.17. This value is consistent with the sample shape and was used for the \chi(T) plot discussed above. Figure 6(b) presents the difference between the magnetization M(H) at temperatures from 1.7 to 3.2 K and the fit to the data M_{\rm fit}, which was determined in the low-field range where the magnetization response is linear. The field at which M(H) starts to differ from a fitted M(H) is the lower critical field H_{c1}. Those values are plotted in Fig. 6(c) as a function of temperature. These results were then fitted to the formula
+
+\[H_{c1}(T)=H_{c1}(0)\left[1-\left(\frac{T}{T_{c}}\right)^{2}\right].\]
+
+Figure 4: Dependence of superconducting transition on magnetic field measured through the resistivity. Resistivity over a temperature range from 1.8 to 300 K, measured under zero external magnetic field (\mu_{0}H=0 T). (Inset) Resistivity at the superconducting transition measured in magnetic fields ranging from \mu_{0}H=0 to 1 T in steps of 0.1 T.
+
+Figure 5: The zero-field cooled (ZFC) and field cooled (FC) volume susceptibility through the superconducting transition, measured in a field of 20 Oe.
+
+Figure 6: (a) Magnetization vs magnetic field for TaIr_{2}Ge_{2} at various temperatures. (b) Difference between magnetization and the M_{\rm fit} for various temperatures. (c) The estimation of H_{\rm c1}.
+
+  From this fit, the lower critical field at 0 K for TaIr_{2}Ge_{2} is estimated to be H_{\rm c1}(0)=72(1) Oe.
+
+Specific heat measurements were conducted in addition to magnetization and resistivity measurements to show that superconductivity is an intrinsic property of TaIr_{2}Ge_{2}. These data are presented in Figs. 7 and 8. Figure 7(a) presents the overall temperature dependence of the specific heat. At room temperature, C_{p} is close to the value calculated from the Dulong-Petit law 3n\,R\approx 125 J mol^{-1} K^{-1}, where n is the number of atoms per formula unit (n=5) and R is the gas constant (R=8.314 J mol^{-1} K^{-1}). The solid red line denotes a fit to a combined model: C_{\rm p}=C_{\rm cl}+kC_{\rm Debye}+(1-k)C_{\rm Einstein}. For this fit, k=0.74 of the weight belongs to the Debye heat capacity C_{\rm Debye} (solid green line), and 0.26 of the weight belongs to the Einstein heat capacity C_{\rm Einstein} (dashed blue line). The electronic heat capacity C_{\rm cl} is equal to \gamma\,T, where \gamma is the Sommerfeld coefficient:
+
+\[C_{\rm Debye}(T)=9n\,R\left(\frac{T}{\Theta_{D}}\right)^{3}\int\frac{x^{4}\exp (x)}{\left[\exp(x)-1\right]^{2}}\,dx\]
+
+and
+
+\[C_{\rm Einstein}(T)=3n\,R\left(\frac{\Theta_{E}}{T}\right)^{2}\exp\left(\frac {\Theta_{E}}{T}\right)\left[\exp\left(\frac{\Theta_{E}}{T}\right)-1\right]^{- 2}.\]
+
+The Debye temperature estimated from the fit is equal to \Theta_{\rm D}=359(4) K, the Einstein temperature \Theta_{\rm E}=150(2) K, and the weight k=0.74(2). The Sommerfeld parameter value was held constant at \gamma=11 mJ mol^{-1} K^{-2} as obtained from the low-temperature fit that is discussed below. Figure 7(b) shows temperature dependence of the specific heat C_{\rm p} divided by T^{3}. It can be shown that the temperature (T_{\rm max}) at which the maximum of C_{\rm Einstein}/T^{3} occurs is equal to T_{\rm max}=\Theta_{\rm E}/5. Since T_{\rm max} is about 29 K, \Theta_{\rm E} can be estimated to be approximately 145 K. This value of \Theta_{\rm E} is in very good agreement with the Einstein temperature obtained from the fit over the full temperature range. Figure 7(c) presents C_{\rm p}/T versus T in the vicinity of the transition temperature. The large anomaly displayed in the specific heat data supports the bulk superconductivity of TaIr_{2}Ge_{2}. A standard equal-area construction (yellow shading) was performed in order to determine the superconducting transition temperature and the magnitude of the specific heat jump. The critical temperature for TaIr_{2}Ge_{2} was calculated to be T_{\rm c}=3.5 K, and the C_{p}/T jump was calculated to be about \Delta\,C/T_{\rm c}=17.0 mJ mol^{-1} K^{-2}. We note that the critical temperature determined from the specific heat calculations is somewhat lower than the transition temperature observed from the resistivity measurements. This again is the usual case for complex superconductors, where the zero resistivity path is frequently complete at temperatures higher than that determined from the equal area construction method applied to entropy loss data.
+
+Figure 8(a) shows temperature dependence of the measured C_{\rm p}/T in magnetic fields from 0 to 0.6 T. The solid vertical lines represent the midpoints of the superconducting transitions for each applied field. In part (b) of the same figure, the measurement of C_{\rm p}/T versus T^{2} is shown under a field of \mu_{0}H=1.5 T. This field exceeds the upper critical field for TaIr_{2}Ge_{2} over the temperature range measured. At sufficiently low temperatures (T<\Theta_{\rm D}/50), the normal state specific heat can be described by the equation: C_{\rm p}=\gamma\,T+\beta\,T^{3}, where \gamma and \beta are the electronic and phonon contributions to the specific heat, respectively. By fitting our data to this equation, we obtain the Sommerfeld coefficient \gamma=11.0(1) mJ mol^{-1} K^{-2} and \beta=0.173(4) mJ mol^{-1} K^{-4}. In the simple Debye model, \beta is related to the Debye temperature \Theta_{\rm D} through
+
+\[\Theta_{D}=\left(\frac{12\pi^{4}}{5\beta}n\,R\right)^{1/3},\]
+
+where R=8.314 mJ mol^{-1} K^{-1} and n=5 for TaIr_{2}Ge_{2}. The Debye temperature calculated using this formula \Theta_{\rm D}=355 K
+
+Figure 8: (a) C_{\rm p}/T vs T with various applied magnetic fields. Solid lines represent equal-area constructions. (b) C_{\rm p}/T vs T^{2} in low-temperature region measured under 1.5 T. A solid line represents linear fit. (c) Plots of upper critical field obtained from specific heat (red squares) and resistivity (blue circles) measurements. Values were fitted with linear function and equation H=H_{\rm c}(0)[1-(T\tilde{H}_{\rm c})^{1.5}]^{1.5}, respectively.
+
+Figure 7: (a) The specific heat vs temperature (open circles) with fit with combined model (red solid line) with 26% of the weight is Einstein model (dashed blue line) and 74% is Debye model (solid green line). (b) Specific heat divided by T^{3} vs T. (c) Temperature dependence of the specific heat of TaIr_{2}Ge_{2} from 1.8 to 5.5 K. The sample was measured under zero applied field (\mu_{0}H=0 T). The solid lines were drawn from an equal-area entropy construction.
+
+  is very close to the value obtained from the fit to the combined model.
+
+Knowing the value of \Theta_{\text{D}} allows for the calculation of the electron-phonon coupling constant \lambda_{\text{ep}}, an important superconducting parameter. The inverted McMillan formula [28] relates these values:
+
+\[\lambda_{\text{ep}}=\frac{1.04+\mu^{\ast}\ln\left(\frac{\Theta_{\text{D}}}{1.45 T_{c}}\right)}{\left(1-0.62\mu^{\ast}\right)\ln\left(\frac{\Theta_{\text{D}}}{1.45 T_{c}}\right)-1.04}.\]
+
+Taking \mu^{\ast}=0.13, the value of \lambda_{\text{ep}}=0.56 obtained suggests that Talr_{2}Ge_{2} is a weak coupling superconductor. Using the Sommerfeld parameter of \gamma=11.0(1)\,\text{m}\,\text{mol}^{-1}\,\text{K}^{-2} acquired above, the noninteracting density of states at the Fermi energy N(E_{\text{F}}) can be calculated from the equation
+
+\[N(E_{F})=\frac{3\gamma}{\pi^{2}k_{B}^{2}(1+\lambda_{\text{ep}})}.\]
+
+For Talr_{2}Ge_{2}, N(E_{\text{F}})=3\,\text{states}\,\text{eV}^{-1} per formula unit. For \gamma=11.0(1)\,\text{m}\,\text{mol}^{-1}\,\text{K}^{-2}, the normalized specific heat jump value \Delta C/\gamma T_{\text{c}} is found to be 1.55, which is slightly above the expected value of 1.43 for a weak-coupling BCS superconductor. This number is consistent with the values typically obtained for conventional BCS superconductors; therefore, bulk superconductivity in Talr_{2}Ge_{2} is confirmed.
+
+Figure 8(c) shows the values of the upper critical field \mu_{0}H_{\text{c}2} versus temperature obtained from specific heat (red squares) and resistivity (blue circles) measurements. The points plotted are the estimated midpoints of the C_{\text{p}}/T jumps [Fig. 8(a)] and the resistivity drops (inset of Fig. 4). The data from resistivity measurements show an upward curvature of H_{\text{c}2}(T) near T_{\text{c}}, which may be due to an intrinsically anomalous pairing mechanism. The formula proposed by Micnas _et al._[29]\mu_{0}H_{\text{c}2}(T)=\mu_{0}H_{\text{c}2}(0)[1-(T/T_{\text{c}})^{3/2}]^{3/2}, has been successfully used to fit the whole \mu_{0}H_{\text{c}2}(T) data set for noncentrosymmetric Nb_{0.18}Re_{0.82}[30] and for the PbTaSe_{2} superconductor [31]. For Talr_{2}Ge_{2}, the fit gives \mu_{0}H_{\text{c}2}(0)=1.95(1)\,\text{T}, which will be used for further calculations. Alternatively, for a single-band, BCS-type superconductor, the upper critical field can be calculated from the formula
+
+\[H_{\text{c}}(0)=-AT_{\text{c}}\left.\frac{dH_{\text{c}}}{dT}\right|_{T=T_{ \text{c}}},\]
+
+where A is 0.69 or 0.73 for the dirty or clean limit, respectively [32]. The d\,\mu_{0}H_{\text{c}}/dT slope for both series is almost identical and is about -0.6\,\text{T}/\text{K}. Taking T_{\text{c}}=3.5 the formula gives \mu_{0}H_{\text{c}2}(0)=1.45 and 1.53 T for the dirty and clean limit, respectively.
+
+Using the upper critical field value of \mu_{0}H_{\text{c}2}(0)=1.95(1)\,\text{T} and assuming that H_{\text{c}2} is purely orbital, the superconducting coherence length was estimated to be \xi_{\text{GL}}=13\,\text{nm}, from H_{\text{c}2}(0)=\Phi_{0}/2\pi\,\xi_{\text{GL}}.2 where \Phi_{0}=h/2\text{e}. Combining this result with the value of H_{\text{c}1}(0) determined above (72 Oe), the Ginzburg-Landau superconducting penetration depth \lambda_{\text{GL}}=262\,\text{nm} was numerically estimated from a formula for the lower critical field:
+
+\[H_{\text{c1}}=\frac{\phi_{0}}{4\pi\lambda_{\text{GL}}^{2}}\ln\frac{\lambda_{ \text{GL}}}{\xi_{\text{GL}}}.\]
+
+The calculated Ginzburg-Landau parameter [\kappa=\lambda_{\text{GL}}(0)/\xi_{\text{GL}}(0)] is \kappa=20, and this result confirms Talr_{2}Ge_{2} is a type-II superconductor.
+
+Finally, now that H_{\text{c1}}, H_{\text{c2}}, and \kappa have been obtained, the thermodynamic critical field can be calculated from the relation:
+
+\[H_{\text{c1}}H_{\text{c2}}=H_{\text{c}}^{2}\ln\kappa.\]
+
+This yields an estimate for the thermodynamic critical field of \mu_{0}H_{\text{c}}=70\,\text{mT}. All the estimated superconducting parameters for Talr_{2}Ge_{2} are gathered in Table 3, where they are compared to those of PbTaSe_{2}[31]. The superconducting properties of these two materials are highly analogous. Spin-orbit coupling was originally considered as inconsequential to the superconducting behavior of PbTaSe_{2}, but on further consideration, it has been proposed as a potential topological superconducting material [33].
+
+## IV Conclusions
+
+We have described the crystal structure and properties of the previously unreported superconductor Talr_{2}Ge_{2}. The compound crystallizes in a new orthorhombic structure type, which can be described by the vertex and face sharing of 11-coordinate Ta@Ir_{7}Ge_{4} endohedral clusters. Resistivity, magnetic susceptibility and specific heat measurements show that the material becomes superconducting below a temperature of 3.5 K, and specific heat and critical field measurements indicate that it is a weak coupling type II BCS superconductor. There is no obvious indication, in our simple characterization, of anomalous properties that might arise due to the strong spin orbit coupling of Ir, but analogies of the superconducting parameters of Talr_{2}Ge_{2} to those of PbTaSe_{2} suggest that more detailed electronic characterization may be of future interest. The crystallographic information for Talr_{2}Ge_{2} can be downloaded as a .cif file in the Supplemental Material [34].
+
+## Acknowledgments
+
+The crystal structure determination and solid state chemistry of the new compound were supported by the Department
+
+\begin{table}
+\begin{tabular}{l c c c} Parameter & Unit & Talr_{2}Ge_{2} & PbTaSe_{2} \\ \hline T_{c} & K & 3.5 & 3.72 \\ \mu_{0}H_{\text{c1}}(0) & mT & 7.2(1) & 7.5 \\ \mu_{0}H_{\text{c2}}(0) & T & 1.95(1) & 1.47 \\ \mu_{0}H_{\text{c}}(0) & mt & 70 & 57 \\ \xi_{\text{GL}}(0) & nm & 13 & 15 \\ \lambda_{\text{GL}}(0) & nm & 262 & 248 \\ \kappa_{\text{GL}} & — & 20 & 17 \\ \gamma & mJ mol^{-1}\,\text{K}^{-2} & 11.0(1) & 6.9 \\ \Delta C/\gamma T_{\text{c}} & — & 1.55 & 1.41 \\ \Theta_{\text{D}} & K & 355(3) & 112 \\ \lambda_{\text{ep}} & — & 0.56 & 0.74 \\ N(E_{\text{F}}) & st. eV  of Energy Division of Basic Energy Sciences, Grant No. DE-FG02-98ER45706. The powder diffraction data acquisition and interpretation and electronic structure calculations were supported by the Gordon and Betty Moore Foundation EPiQS program, Grant No. GBMF-4412. The characterization of the physical properties at the Gdansk University of Technology was supported by National Science Centre (Poland), Grant No. UMO-2016/22/M/ST5/00435.
+
+## References
+
+* Okamoto et al. (2007) Y. Okamoto, M. Nohara, H. Aruga-Katori, and H. Takagi, Phys. Rev. Lett. **99**, 137207 (2007).
+* Yan et al. (2015) F. Yan, X. Zhang, Y. G. Yu, L. Yu, A. Nagaraja, T. O. Mason, and A. Zunger, Nat. Commun. **6**, 7308 (2015).
+* Pearson et al. (1985) W. B. Pearson, P. Villars, and L. D. Calvert, _Pearson's Handbook of Crystallographic Data for Intermetallic Phases_ (American Society for Metals, Metals Park, OH, 1985).
+* Zheng and Hoffmann (1986) C. Zheng and R. Hoffmann, J. Am. Chem. Soc. **108**, 3078 (1986).
+* Shelton et al. (1984) R. N. Shelton, H. F. Braun, and E. Musick, Solid State Commun. **52**, 797 (1984).
+* Valiska et al. (2012) M. Valiska, J. Pospisil, J. Prokleska, M. Divis, A. Rudajevova, and V. Sechovsky, J. Phys. Soc. Jpn. **81**, 104715 (2012).
+* Dubois (2010) J.-M. Dubois, Nat. Mater. **9**, 287 (2010).
+* Sheldrick et al. (2001) G. M. Sheldrick, SADABS, University of Gottingen, Gottingen, Germany, 2001.
+* Sheldrick (2015) G. M. Sheldrick, Acta Crystallogr., Sect. C: Struct. Chem. **71**, 3 (2015).
+* Momma and Izumi (2008) K. Momma and F. Izumi, J. Appl. Crystallogr. **41**, 653 (2008).
+* Rodriguez-Carvajal (1993) J. Rodriguez-Carvajal, Phys. B Condens. Matter **192**, 55 (1993).
+* Kresse (1995) G. Kresse, J. Non-Cryst. Solids **192-193**, 222 (1995).
+* Kresse and Hafner (1994) G. Kresse and J. Hafner, Phys. Rev. B **49**, 14251 (1994).
+* Kresse and Furthmuller (1996) G. Kresse and J. Furthmuller, Comput. Mater. Sci. **6**, 15 (1996).
+* Kresse and Furthmuller (1996) G. Kresse and J. Furthmuller, Phys. Rev. B **54**, 11169 (1996).
+* Blochl (1994) P. E. Blochl, Phys. Rev. B **50**, 17953 (1994).
+* Kresse and Joubert (1999) G. Kresse and D. Joubert, Phys. Rev. B **59**, 1758 (1999).
+* Perdew et al. (1996) J. P. Perdew, K. Burke, and M. Ernzerhof, Phys. Rev. Lett. **77**, 3865 (1996).
+* Dwight and Beck (1959) A. E. Dwight and P. A. Beck, Trans. Am. Inst. Min. Metall. Eng. **215**, 976 (1959).
+* Kubiak et al. (1972) R. Kubiak, R. Horyn, H. Broda, and K. Lukaszewicz, Bull. I'Academie Pol. Des Sci. Ser. Des Sci. Chim. **20**, 429 (1972).
+* Venturini et al. (1986) G. Venturini, M. Kamta, E. McRae, J. F. Mareche, B. Malaman, and B. Roques, Mater. Res. Bull. **21**, 1203 (1986).
+* Hirai et al. (2013) D. Hirai, M. N. Ali, and R. J. Cava, J. Phys. Soc. Jpn. **82**, 124701 (2013).
+* Hussey et al. (2004) N. E. Hussey, K. Takenaka, and H. Takagi, Philos. Mag. **84**, 2847 (2004).
+* Ioffe and Regel (1960) A. F. Ioffe and A. R. Regel, Prog. Semicond. **4**, 237 (1960).
+* Wiesmann et al. (1977) H. Wiesmann, M. Gurvitch, H. Lutz, A. Ghosh, B. Schwarz, M. Strongin, P. B. Allen, and J. W. Halley, Phys. Rev. Lett. **38**, 782 (1977).
+* Wang et al. (2010) C. H. Wang, J. M. Lawrence, E. D. Bauer, K. Kothapalli, J. S. Gardner, F. Ronning, K. Goffryk, J. D. Thompson, H. Nakotte, and F. Trouw, Phys. Rev. B **82**, 094406 (2010).
+* Klimczuk et al. (2011) T. Klimczuk, C. H. Wang, J. M. Lawrence, Q. Xu, T. Durakiewicz, F. Ronning, A. Llobet, F. Trouw, N. Kurita, Y. Tokiwa, H. O. Lee, C. H. Booth, J. S. Gardner, E. D. Bauer, J. J. Joyce, H. W. Zandbergen, R. Movshovich, R. J. Cava, and J. D. Thompson, Phys. Rev. B **84**, 075152 (2011).
+* McMillan (1968) W. L. McMillan, Phys. Rev. **167**, 331 (1968).
+* Micnas et al. (1990) R. Micnas, J. Ranninger, and S. Robaszkiewicz, Rev. Mod. Phys. **62**, 113 (1990).
+* Karki et al. (2011) A. B. Karki, Y. M. Xiong, N. Haldolaarachchige, S. Stadler, I. Vekhter, P. W. Adams, D. P. Young, W. A. Phelan, and J. Y. Chan, Phys. Rev. B **83**, 144525 (2011).
+* Ali et al. (2014) M. N. Ali, Q. D. Gibson, T. Klimczuk, and R. J. Cava, Phys. Rev. B **89**, 020505 (2014).
+* Werthamer et al. (1966) N. R. Werthamer, E. Helfand, and P. C. Hohenberg, Phys. Rev. **147**, 295 (1966).
+* Bian et al. (2016) G. Bian, T.-R. Chang, R. Sankar, S.-Y. Xu, H. Zheng, T. Neupert, C.-K. Chiu, S.-M. Huang, G. Chang, I. Belopolski, D. S. Sanchez, M. Neupane, N. Alidoust, C. Liu, B. Wang, C.-C. Lee, H.-T. Jeng, C. Zhang, Z. Yuan, S. Jia, A. Bansil, F. Chou, H. Lin, and M. Z. Hasan, Nat. Commun. **7**, 10556 (2016).
+* (34) See Supplemental Material at http://link.aps.org/supplemental/10.1103/PhysRevB.95.174521 for the crystallographic information for \text{Talr}_{2}\text{Ge}_{2}, which can be downloaded as a .cif file.
+
+ 
+
+# Superconductivity in a new intermetallic structure type based on endohedral Ta@Ir7Ge4 clusters
+
+Laura C. Srivichitranond
+
+Department of Chemistry, Princeton University, Princeton New Jersey 08544, USA
+
+Elizabeth M. Seibel
+
+Department of Chemistry, Princeton University, Princeton New Jersey 08544, USA
+
+Weiwei Xie
+
+Department of Chemistry, University of Princeton, Princeton New Jersey 08544, USA
+
+Zuzanna Sobczak
+
+Faculty of Applied Physics and Mathematics, Gdansk University of Technology, Nantouwicza 11/12, 80-233 Gdansk, Poland
+
+Tomasz Klimczuk
+
+Faculty of Applied Physics and Mathematics, Gdansk University of Technology, Nantouwicza 11/12, 80-233 Gdansk, Poland
+
+R. J. Cava
+
+Department of Chemistry, Princeton University, Princeton New Jersey 08544, USA
+
+November 6, 2021
+
+###### Abstract
+
+We report the observation of superconductivity at a temperature near 3.5 K for the previously unreported compound TaIr2Ge2. In addition to being a superconductor, this material displays a new crystal structure type that contains endohedral clusters, as determined by single-crystal x-ray diffraction structure refinement; the structure is more complex than those of the commonly observed tetragonal 122 intermetallic phases. Despite the strong metal-metal interactions, electronic structure calculations show the presence of a relatively simple set of states at the Fermi level, consisting mostly of Ta atom orbital contributions. The superconducting transition is characterized by temperature-dependent resistivity, magnetic susceptibility and specific heat measurements, and is of the weak coupling BCS type with \Delta C/\gamma T_{c} = 1.55. The upper critical field at 0 K is estimated to be 2 T. Basic characterization of the superconductivity suggests that this material is similar to PbTaSe2, for which the effects of spin-orbit coupling may be important.
+
+DOI: 10.1103/PhysRevB.95.174521
+
+## I Introduction
+
+Heavy elements such as iridium often form materials with interesting physical properties due to strong spin-orbit coupling. Ir-based materials have been of particular recent interest for oxides [1], and a variety of intermetallic materials based on Ir have been the subjects of recent study [2]. Our interest is in the superconductivity in Ir-containing materials where the presence of strong spin-orbit coupling may affect the superconducting properties. Some of the most favored structures for Ir-containing superconductors are the LaIrSi-type and the tetragonal symmetry "1:2:2" CaBe2Ge2-type. Tetragonal "1:2:2" type materials are particularly ubiquitous among intermetallic phases [3]. In these layered 1:2:2 AB_{2}X_{2} structures, B and X closely bond and form the electron-acceptor layers while the electropositive A element (usually rare-earth, alkaline, or alkali-earth metals) acts as the electron-donor layer [4]. Remarkably, despite the extreme structural similarities and known structural phase transitions between the CaBe2Ge2 structure type and the ThCr2Si2-type structures, which are related through the inversion of the order of one of the constituent layers, almost all of the superconducting 1:2:2 phases based on Ir exist in the CaBe2Ge2 structure type only--for materials that occur in both of these common 1:2:2 structures, it has been observed that superconductivity is only present in the CaBe2Ge2 structure, disappearing when the same elements form a ThCr2Si2-type structure [5,6].
+
+Here we report a new, superconducting 1:2:2 Ir-based material with a previously unreported crystal structure type, TaIr2Ge2. Instead of hosting layered features like the CaBe2Ge2 and ThCr2Si2-type structures, the use of the less electropositive element Ta results in cluster-type structural fragments like the ones found in many metallic alloys [7]. The previously unreported structure type displayed by this new ternary compound is understood as consisting of corner- and face-sharing Ta@Ir7Ge4 clusters. We show the crystal structure, calculated electronic structure, and superconducting property measurements of TaIr2Ge2. This material has strong spin-orbit coupling and displays superconducting behavior below a critical temperature of 3.5 K. Our specific heat data confirm bulk superconductivity and indicate that TaIr2Ge2 is a weak-coupling BCS superconductor. The superconducting transition is further characterized by upper and lower critical field measurements.
+
+## II Experimental
+
+Polycrystalline samples of TaIr2Ge2 were synthesized by arc melting on a water-cooled copper hearth under an argon atmosphere. Tantalum (foil, 99.95%, Alfa Aesar), iridium metal (powder, 99.95%, Alfa Aesar), and germanium (crystalline pieces, 99.9999%, Alfa Aesar) were measured out in the TaIr2Ge2 stoichiometric ratio, and the iridium powder was pressed into a pellet. The Ir powder pellet and Ge pieces were first arc melted together and then combined with the Ta foil. Samples were turned over and arc melted repeatedly to increase homogeneity. The total mass of each sample was approximately 100 mg, and weight losses from arc melting did not exceed 2.5%. Annealing experiments were performed in sealed evacuated quartz glass tubes for temperatures below 1150 degC, and in an argon-backfilled induction furnace for temperatures between 1150 degC and 1450 degC.
+
+In order to determine the identity of the new phase in the Ta-He system, single-crystal x-ray diffraction was performed at room temperature. Small crystals (\sim0.01 x 0.01 x 0.01 mm) were selected from partially crushed polycrystalline samples and mounted on the tip of a Kapton loop. Ten different pieces were tested, and the same lattice parameters were obtained for each. A Bruker APE II diffractometer was used to gather intensity data, with Mo radiation (\lambda_{K\alpha} = 0.71073 A) and an exposure time of 10 seconds per frame. Data were collected over a full sphere of reciprocal space, with 0.5deg scans in \omega and a 2\theta range from 5deg to 70deg. The data acquisition, extraction of intensity, and face-indexed numerical correction for Lorentz and polarization effects were performed using the Bruker smart software [8]. With the SHELYL package [9], the crystal structures were solved using direct methods and refined by full-matrix least-squares on F2. All crystal structure drawings were produced using the program vesta[10].
+
+Powder x-ray diffraction patterns were obtained on a Bruker D8 Advance Eco diffractometer using Cu-K\alpha radiation and a LynxEye-XE detector. A LeBail fit was performed using the fullprof suite[11] with Thompson-Cox-Hastings pseudo-Voigt peak shapes starting with the cell parameters determined from single crystal diffraction. Lattice parameters from powder diffraction were found to be within <0.3% of the single crystal diffraction results. We therefore report the crystallographic parameters obtained from single crystal structure refinements.
+
+Electronic structure calculations of the density of states (DOS) and band structure were completed using the Vienna _ab initio_ simulation package (vasp)[12, 13, 14, 15]. The computation employed projector augmented-wave (PAW) pseudopotentials [16, 17] and the Perdew-Burke-Ernzerhof parameterization of the generalized gradient approximation (PBE-GGA) [18], which includes scalar relativistic effects (spin-orbit coupling) on all atoms. All the calculations were performed on the experimental crystal structure data. The energy cutoff was 400 eV. Reciprocal space integrations were completed over a 6 x 4 x 16 Monkhorst-Pack _k_-point mesh, using the linear tetrahedron method. With these settings, the calculated total energy converged to less than 0.1 meV per atom.
+
+Temperature-dependent resistivity and heat capacity measurements were performed on a Quantum Design Physical Property Measurement System (PPMS). Resistivity data were collected under a maximum applied current of 5 mA over a temperature range of 1.9-300 K. A standard four-probe approach was used, and the 20-\mum-diameter platinum wire leads were attached to the sample by spot welding. Magnetization measurements were also taken on the PPMS equipped with a vibrating sample magnetometer (VSM). Zero-field cooled data were collected under an applied field of 20 Oe. The magnetization was also measured as a function of applied field (0 to 2 T) at temperatures from 1.7 to 3.2 K.
+  carefully and especially focused on the examinations of site preferences and atomic mixtures. The crystal structure of Talr_{2}Ge_{2} can be represented by Ta-centered clusters, in which the Ir and Ge atoms surround Ta atoms to form 11-coordinate polyhedra. These endohedral Ta@Ir_{7}Ge_{4} clusters extend into three dimensions through Ir vertex sharing or Ir_{4} face sharing. Potential Ir/Ge mixtures were tested during the structural refinements to guarantee the veracity of the ordered atomic occupancies. Furthermore, multiple experimental attempts were made to synthesize compounds of similar compositions (for example, "Talr_{2-x}Ge_{2+x}" and "Talr_{2+x}Ge_{2-x}"); only Talr_{2}Ge_{2} proved to be stable, supporting our determination of the clear site preference for Ir and Ge in the compound. The Ta-Ir bonds present have lengths of 2.76, 2.78, and 2.86 A, while the Ta-Ge bonds have lengths of 2.88 and 2.90 A. These bond lengths are similar to those in binary compounds containing the same elements. For example, the Ta-Ir bonds in Talr_{3} have a length of 2.75 A [19], and the Ta-Ge bonds in TaGe_{2} are either 2.66 or 2.84 A in length [20]. These values are consistent with our observations for Talr_{2}Ge_{2}. A brief analysis of the relative electronegativities of the three elements supports this understanding of the endohedral clusters in the new structure as follows: the electronegativity of Ir is greater than that of Ge, according to both the Pauling scale (\chi_{\rm Ir}=2.20 and \chi_{\rm Ge}=2.01) and the Mulliken scale (\chi_{\rm Ir}=2.14 and \chi_{\rm Ge}=1.88); on the other hand, Ta is significantly more electropositive than either Ir or Ge. Therefore the two more electronegative atoms surround the electropositive Ta atoms. It is worth noting that Ge-Ge dimers are present in Talr_{2}Ge_{2}, and since they have been observed in at least one other superconductor, they may be influential for the presence of superconductivity in the present material [21].
+
+In order to gain a better understanding of the cluster formation in Talr_{2}Ge_{2}, the calculated band structure and the density of states based on the vasp results can be considered. The resulting diagrams can be found in Fig. 3, with the band structure located in the right-most panel. Below values of 1.5 eV below the Fermi energy, primarily Ir and Ge bulk metallic states are observed. However, around the Fermi level, a few bands split off from the main set of states. These consist mostly of contributions from partially hybridized Ta 5d and 6s states, indicating a weak interaction between valence electrons from Ta in these states and those from Ir/Ge. Considering the total density of states near the Fermi level shown in the left panel of the figure, another significant feature is revealed--the deep pseudogap below the Fermi level. The pseudogap corresponds to 28 valence electrons per Talr_{2}Ge_{2} (14e- per Ta_{0.5}IrGe), which is associated with the stability of the compound.
+
+The electronic structure calculation results shown in Fig. 3 are consistent with our view of low T_{\rm c} polar intermetallic compounds, as we observe that it is common for such superconductors to have a Fermi level just above or below the pseudogap in the density of states. In addition, Van Hove singularities can be observed in the band structure of Talr_{2}Ge_{2} [Fig. 3(b)]. These bands contribute to electronic instability often seen in superconducting systems. Moreover, the 14 valence electron count per Ta_{0.5}IrGe formula unit at the deep pseudogap inspired us to reinvestigate the electronic structure of superconductor IrGe, which has 13 valence electrons per formula unit [22]. Not surprisingly, a broad pseudogap in the DOS of IrGe is located above the Fermi level, also corresponding to 14 valence electrons. A new material with two fewer electrons per formula unit than Talr_{2}Ge_{2} and the same crystal structure, if it could be synthesized, is expected to have its Fermi level quite close to a pseudogap in the density of states.
+
+The main panel of Fig. 4 shows the temperature dependence of electrical resistivity of Talr_{2}Ge_{2} between 1.9 and 300 K. Metallic behavior (d\rho/dT>0) is manifested in the whole temperature range. The temperature dependence of the resistivity is typical of what is seen in intermetallic compounds--a residual resistivity (\rho_{0}) is seen at low temperatures due to
+
+Figure 3: Calculated electronic structure for Talr_{2}Ge_{2}. (Left) Density of states (DOS) in the vicinity of the Fermi level and (right) band structure calculations. Total band structure and density of states curves were calculated using PAW pseudopotentials on vasp, with spin-orbit coupling included.
+
+Figure 2: Powder x-ray diffraction pattern of a polycrystalline sample of Talr_{2}Ge_{2} employed in the property determinations. The positions of the Bragg reflections, as determined from the single crystal structure refinement, are marked in red.
+
+  impurity scattering, and there is a saturation of the resistivity at high temperatures (\rho_{\rm max}) where the mean-free path approaches the interatomic spacing, the so called Ioffe-Regel limit [23; 24]. This behavior is often fit by what is called a parallel resistor model (PRM) [25; 26; 27] that includes Bloch-Gruneisen resistivity \rho_{\rm BG} behavior combined with a parallel, temperature independent resistor \rho_{\rm max}:
+
+\[\rho^{-1}(T)=\rho_{\rm max}^{-1}+(\rho_{0}+\rho_{\rm BG})^{-1},\]
+
+where
+
+\[\rho_{\rm BG}=4R\Theta\left(\frac{T}{\Theta}\right)^{5}\int\frac{x^{5}}{[\exp(x )-1][1-\exp(-x)]}dx.\]
+
+The characteristic temperature estimated from the fit is \Theta=183 K; the temperature independent term \rho_{0} is 0.204(3) m\Omega cm and \rho_{\rm max}=2.28(7) m\Omega cm. The inset shows \rho(T) for TaIr_{2}Ge_{2} in the vicinity of superconducting transition measured under zero field and applied magnetic field up to 1.0 T. With no applied magnetic field, we observe the resistivity drop to zero with a superconducting critical temperature of T_{c}=3.9 K. The superconducting temperature was estimated as the midpoint of the resistivity transition (shown in the inset of Fig. 4). T_{c} decreases with applied magnetic field as is expected for superconducting materials, and for \mu_{0}H=1 T the critical temperature is T_{c}=2.02 K.
+
+The volume susceptibility \chi_{\rm V}(T) versus temperature of TaIr_{2}Ge_{2} under an H=200 Oe applied field is presented in Fig. 5. The zero-field cooled (ZFC) susceptibility drops to a large negative value upon cooling. When corrected for the demagnetization factor N=0.17 [obtained from the M(H) fit as discussed below], the diamagnetic signal at the lowest temperature T=1.8 K is slightly below the expected value \chi_{\rm V}=-1/4\pi, indicating that the sample volume is fully superconducting. A much smaller diamagnetic signal is observed in the field-cooled \chi_{\rm V}(T) transition (see the inset of Fig. 5) due to strong magnetic flux pinning in the polycrystalline TaIr_{2}Ge_{2} sample.
+
+The superconducting state is further characterized by magnetization versus magnetic field measurements M(H) as shown in Fig. 6(a). Assuming that a linear response to a magnetic field indicates a perfect diamagnetic response, we obtain a demagnetization factor of N=0.17. This value is consistent with the sample shape and was used for the \chi(T) plot discussed above. Figure 6(b) presents the difference between the magnetization M(H) at temperatures from 1.7 to 3.2 K and the fit to the data M_{\rm fit}, which was determined in the low-field range where the magnetization response is linear. The field at which M(H) starts to differ from a fitted M(H) is the lower critical field H_{c1}. Those values are plotted in Fig. 6(c) as a function of temperature. These results were then fitted to the formula
+
+\[H_{c1}(T)=H_{c1}(0)\left[1-\left(\frac{T}{T_{c}}\right)^{2}\right].\]
+
+Figure 4: Dependence of superconducting transition on magnetic field measured through the resistivity. Resistivity over a temperature range from 1.8 to 300 K, measured under zero external magnetic field (\mu_{0}H=0 T). (Inset) Resistivity at the superconducting transition measured in magnetic fields ranging from \mu_{0}H=0 to 1 T in steps of 0.1 T.
+
+Figure 5: The zero-field cooled (ZFC) and field cooled (FC) volume susceptibility through the superconducting transition, measured in a field of 20 Oe.
+
+Figure 6: (a) Magnetization vs magnetic field for TaIr_{2}Ge_{2} at various temperatures. (b) Difference between magnetization and the M_{\rm fit} for various temperatures. (c) The estimation of H_{\rm c1}.
+
+  From this fit, the lower critical field at 0 K for TaIr_{2}Ge_{2} is estimated to be H_{\rm c1}(0)=72(1) Oe.
+
+Specific heat measurements were conducted in addition to magnetization and resistivity measurements to show that superconductivity is an intrinsic property of TaIr_{2}Ge_{2}. These data are presented in Figs. 7 and 8. Figure 7(a) presents the overall temperature dependence of the specific heat. At room temperature, C_{p} is close to the value calculated from the Dulong-Petit law 3n\,R\approx 125 J mol^{-1} K^{-1}, where n is the number of atoms per formula unit (n=5) and R is the gas constant (R=8.314 J mol^{-1} K^{-1}). The solid red line denotes a fit to a combined model: C_{\rm p}=C_{\rm cl}+kC_{\rm Debye}+(1-k)C_{\rm Einstein}. For this fit, k=0.74 of the weight belongs to the Debye heat capacity C_{\rm Debye} (solid green line), and 0.26 of the weight belongs to the Einstein heat capacity C_{\rm Einstein} (dashed blue line). The electronic heat capacity C_{\rm cl} is equal to \gamma\,T, where \gamma is the Sommerfeld coefficient:
+
+\[C_{\rm Debye}(T)=9n\,R\left(\frac{T}{\Theta_{D}}\right)^{3}\int\frac{x^{4}\exp (x)}{\left[\exp(x)-1\right]^{2}}\,dx\]
+
+and
+
+\[C_{\rm Einstein}(T)=3n\,R\left(\frac{\Theta_{E}}{T}\right)^{2}\exp\left(\frac {\Theta_{E}}{T}\right)\left[\exp\left(\frac{\Theta_{E}}{T}\right)-1\right]^{- 2}.\]
+
+The Debye temperature estimated from the fit is equal to \Theta_{\rm D}=359(4) K, the Einstein temperature \Theta_{\rm E}=150(2) K, and the weight k=0.74(2). The Sommerfeld parameter value was held constant at \gamma=11 mJ mol^{-1} K^{-2} as obtained from the low-temperature fit that is discussed below. Figure 7(b) shows temperature dependence of the specific heat C_{\rm p} divided by T^{3}. It can be shown that the temperature (T_{\rm max}) at which the maximum of C_{\rm Einstein}/T^{3} occurs is equal to T_{\rm max}=\Theta_{\rm E}/5. Since T_{\rm max} is about 29 K, \Theta_{\rm E} can be estimated to be approximately 145 K. This value of \Theta_{\rm E} is in very good agreement with the Einstein temperature obtained from the fit over the full temperature range. Figure 7(c) presents C_{\rm p}/T versus T in the vicinity of the transition temperature. The large anomaly displayed in the specific heat data supports the bulk superconductivity of TaIr_{2}Ge_{2}. A standard equal-area construction (yellow shading) was performed in order to determine the superconducting transition temperature and the magnitude of the specific heat jump. The critical temperature for TaIr_{2}Ge_{2} was calculated to be T_{\rm c}=3.5 K, and the C_{p}/T jump was calculated to be about \Delta\,C/T_{\rm c}=17.0 mJ mol^{-1} K^{-2}. We note that the critical temperature determined from the specific heat calculations is somewhat lower than the transition temperature observed from the resistivity measurements. This again is the usual case for complex superconductors, where the zero resistivity path is frequently complete at temperatures higher than that determined from the equal area construction method applied to entropy loss data.
+
+Figure 8(a) shows temperature dependence of the measured C_{\rm p}/T in magnetic fields from 0 to 0.6 T. The solid vertical lines represent the midpoints of the superconducting transitions for each applied field. In part (b) of the same figure, the measurement of C_{\rm p}/T versus T^{2} is shown under a field of \mu_{0}H=1.5 T. This field exceeds the upper critical field for TaIr_{2}Ge_{2} over the temperature range measured. At sufficiently low temperatures (T<\Theta_{\rm D}/50), the normal state specific heat can be described by the equation: C_{\rm p}=\gamma\,T+\beta\,T^{3}, where \gamma and \beta are the electronic and phonon contributions to the specific heat, respectively. By fitting our data to this equation, we obtain the Sommerfeld coefficient \gamma=11.0(1) mJ mol^{-1} K^{-2} and \beta=0.173(4) mJ mol^{-1} K^{-4}. In the simple Debye model, \beta is related to the Debye temperature \Theta_{\rm D} through
+
+\[\Theta_{D}=\left(\frac{12\pi^{4}}{5\beta}n\,R\right)^{1/3},\]
+
+where R=8.314 mJ mol^{-1} K^{-1} and n=5 for TaIr_{2}Ge_{2}. The Debye temperature calculated using this formula \Theta_{\rm D}=355 K
+
+Figure 8: (a) C_{\rm p}/T vs T with various applied magnetic fields. Solid lines represent equal-area constructions. (b) C_{\rm p}/T vs T^{2} in low-temperature region measured under 1.5 T. A solid line represents linear fit. (c) Plots of upper critical field obtained from specific heat (red squares) and resistivity (blue circles) measurements. Values were fitted with linear function and equation H=H_{\rm c}(0)[1-(T\tilde{H}_{\rm c})^{1.5}]^{1.5}, respectively.
+
+Figure 7: (a) The specific heat vs temperature (open circles) with fit with combined model (red solid line) with 26% of the weight is Einstein model (dashed blue line) and 74% is Debye model (solid green line). (b) Specific heat divided by T^{3} vs T. (c) Temperature dependence of the specific heat of TaIr_{2}Ge_{2} from 1.8 to 5.5 K. The sample was measured under zero applied field (\mu_{0}H=0 T). The solid lines were drawn from an equal-area entropy construction.
+
+  is very close to the value obtained from the fit to the combined model.
+
+Knowing the value of \Theta_{\text{D}} allows for the calculation of the electron-phonon coupling constant \lambda_{\text{ep}}, an important superconducting parameter. The inverted McMillan formula [28] relates these values:
+
+\[\lambda_{\text{ep}}=\frac{1.04+\mu^{\ast}\ln\left(\frac{\Theta_{\text{D}}}{1.45 T_{c}}\right)}{\left(1-0.62\mu^{\ast}\right)\ln\left(\frac{\Theta_{\text{D}}}{1.45 T_{c}}\right)-1.04}.\]
+
+Taking \mu^{\ast}=0.13, the value of \lambda_{\text{ep}}=0.56 obtained suggests that Talr_{2}Ge_{2} is a weak coupling superconductor. Using the Sommerfeld parameter of \gamma=11.0(1)\,\text{m}\,\text{mol}^{-1}\,\text{K}^{-2} acquired above, the noninteracting density of states at the Fermi energy N(E_{\text{F}}) can be calculated from the equation
+
+\[N(E_{F})=\frac{3\gamma}{\pi^{2}k_{B}^{2}(1+\lambda_{\text{ep}})}.\]
+
+For Talr_{2}Ge_{2}, N(E_{\text{F}})=3\,\text{states}\,\text{eV}^{-1} per formula unit. For \gamma=11.0(1)\,\text{m}\,\text{mol}^{-1}\,\text{K}^{-2}, the normalized specific heat jump value \Delta C/\gamma T_{\text{c}} is found to be 1.55, which is slightly above the expected value of 1.43 for a weak-coupling BCS superconductor. This number is consistent with the values typically obtained for conventional BCS superconductors; therefore, bulk superconductivity in Talr_{2}Ge_{2} is confirmed.
+
+Figure 8(c) shows the values of the upper critical field \mu_{0}H_{\text{c}2} versus temperature obtained from specific heat (red squares) and resistivity (blue circles) measurements. The points plotted are the estimated midpoints of the C_{\text{p}}/T jumps [Fig. 8(a)] and the resistivity drops (inset of Fig. 4). The data from resistivity measurements show an upward curvature of H_{\text{c}2}(T) near T_{\text{c}}, which may be due to an intrinsically anomalous pairing mechanism. The formula proposed by Micnas _et al._[29]\mu_{0}H_{\text{c}2}(T)=\mu_{0}H_{\text{c}2}(0)[1-(T/T_{\text{c}})^{3/2}]^{3/2}, has been successfully used to fit the whole \mu_{0}H_{\text{c}2}(T) data set for noncentrosymmetric Nb_{0.18}Re_{0.82}[30] and for the PbTaSe_{2} superconductor [31]. For Talr_{2}Ge_{2}, the fit gives \mu_{0}H_{\text{c}2}(0)=1.95(1)\,\text{T}, which will be used for further calculations. Alternatively, for a single-band, BCS-type superconductor, the upper critical field can be calculated from the formula
+
+\[H_{\text{c}}(0)=-AT_{\text{c}}\left.\frac{dH_{\text{c}}}{dT}\right|_{T=T_{ \text{c}}},\]
+
+where A is 0.69 or 0.73 for the dirty or clean limit, respectively [32]. The d\,\mu_{0}H_{\text{c}}/dT slope for both series is almost identical and is about -0.6\,\text{T}/\text{K}. Taking T_{\text{c}}=3.5 the formula gives \mu_{0}H_{\text{c}2}(0)=1.45 and 1.53 T for the dirty and clean limit, respectively.
+
+Using the upper critical field value of \mu_{0}H_{\text{c}2}(0)=1.95(1)\,\text{T} and assuming that H_{\text{c}2} is purely orbital, the superconducting coherence length was estimated to be \xi_{\text{GL}}=13\,\text{nm}, from H_{\text{c}2}(0)=\Phi_{0}/2\pi\,\xi_{\text{GL}}.2 where \Phi_{0}=h/2\text{e}. Combining this result with the value of H_{\text{c}1}(0) determined above (72 Oe), the Ginzburg-Landau superconducting penetration depth \lambda_{\text{GL}}=262\,\text{nm} was numerically estimated from a formula for the lower critical field:
+
+\[H_{\text{c1}}=\frac{\phi_{0}}{4\pi\lambda_{\text{GL}}^{2}}\ln\frac{\lambda_{ \text{GL}}}{\xi_{\text{GL}}}.\]
+
+The calculated Ginzburg-Landau parameter [\kappa=\lambda_{\text{GL}}(0)/\xi_{\text{GL}}(0)] is \kappa=20, and this result confirms Talr_{2}Ge_{2} is a type-II superconductor.
+
+Finally, now that H_{\text{c1}}, H_{\text{c2}}, and \kappa have been obtained, the thermodynamic critical field can be calculated from the relation:
+
+\[H_{\text{c1}}H_{\text{c2}}=H_{\text{c}}^{2}\ln\kappa.\]
+
+This yields an estimate for the thermodynamic critical field of \mu_{0}H_{\text{c}}=70\,\text{mT}. All the estimated superconducting parameters for Talr_{2}Ge_{2} are gathered in Table 3, where they are compared to those of PbTaSe_{2}[31]. The superconducting properties of these two materials are highly analogous. Spin-orbit coupling was originally considered as inconsequential to the superconducting behavior of PbTaSe_{2}, but on further consideration, it has been proposed as a potential topological superconducting material [33].
+
+## IV Conclusions
+
+We have described the crystal structure and properties of the previously unreported superconductor Talr_{2}Ge_{2}. The compound crystallizes in a new orthorhombic structure type, which can be described by the vertex and face sharing of 11-coordinate Ta@Ir_{7}Ge_{4} endohedral clusters. Resistivity, magnetic susceptibility and specific heat measurements show that the material becomes superconducting below a temperature of 3.5 K, and specific heat and critical field measurements indicate that it is a weak coupling type II BCS superconductor. There is no obvious indication, in our simple characterization, of anomalous properties that might arise due to the strong spin orbit coupling of Ir, but analogies of the superconducting parameters of Talr_{2}Ge_{2} to those of PbTaSe_{2} suggest that more detailed electronic characterization may be of future interest. The crystallographic information for Talr_{2}Ge_{2} can be downloaded as a .cif file in the Supplemental Material [34].
+
+## Acknowledgments
+
+The crystal structure determination and solid state chemistry of the new compound were supported by the Department
+
+\begin{table}
+\begin{tabular}{l c c c} Parameter & Unit & Talr_{2}Ge_{2} & PbTaSe_{2} \\ \hline T_{c} & K & 3.5 & 3.72 \\ \mu_{0}H_{\text{c1}}(0) & mT & 7.2(1) & 7.5 \\ \mu_{0}H_{\text{c2}}(0) & T & 1.95(1) & 1.47 \\ \mu_{0}H_{\text{c}}(0) & mt & 70 & 57 \\ \xi_{\text{GL}}(0) & nm & 13 & 15 \\ \lambda_{\text{GL}}(0) & nm & 262 & 248 \\ \kappa_{\text{GL}} & — & 20 & 17 \\ \gamma & mJ mol^{-1}\,\text{K}^{-2} & 11.0(1) & 6.9 \\ \Delta C/\gamma T_{\text{c}} & — & 1.55 & 1.41 \\ \Theta_{\text{D}} & K & 355(3) & 112 \\ \lambda_{\text{ep}} & — & 0.56 & 0.74 \\ N(E_{\text{F}}) & st. eV  of Energy Division of Basic Energy Sciences, Grant No. DE-FG02-98ER45706. The powder diffraction data acquisition and interpretation and electronic structure calculations were supported by the Gordon and Betty Moore Foundation EPiQS program, Grant No. GBMF-4412. The characterization of the physical properties at the Gdansk University of Technology was supported by National Science Centre (Poland), Grant No. UMO-2016/22/M/ST5/00435.
+
+## References
+
+* Okamoto et al. (2007) Y. Okamoto, M. Nohara, H. Aruga-Katori, and H. Takagi, Phys. Rev. Lett. **99**, 137207 (2007).
+* Yan et al. (2015) F. Yan, X. Zhang, Y. G. Yu, L. Yu, A. Nagaraja, T. O. Mason, and A. Zunger, Nat. Commun. **6**, 7308 (2015).
+* Pearson et al. (1985) W. B. Pearson, P. Villars, and L. D. Calvert, _Pearson's Handbook of Crystallographic Data for Intermetallic Phases_ (American Society for Metals, Metals Park, OH, 1985).
+* Zheng and Hoffmann (1986) C. Zheng and R. Hoffmann, J. Am. Chem. Soc. **108**, 3078 (1986).
+* Shelton et al. (1984) R. N. Shelton, H. F. Braun, and E. Musick, Solid State Commun. **52**, 797 (1984).
+* Valiska et al. (2012) M. Valiska, J. Pospisil, J. Prokleska, M. Divis, A. Rudajevova, and V. Sechovsky, J. Phys. Soc. Jpn. **81**, 104715 (2012).
+* Dubois (2010) J.-M. Dubois, Nat. Mater. **9**, 287 (2010).
+* Sheldrick et al. (2001) G. M. Sheldrick, SADABS, University of Gottingen, Gottingen, Germany, 2001.
+* Sheldrick (2015) G. M. Sheldrick, Acta Crystallogr., Sect. C: Struct. Chem. **71**, 3 (2015).
+* Momma and Izumi (2008) K. Momma and F. Izumi, J. Appl. Crystallogr. **41**, 653 (2008).
+* Rodriguez-Carvajal (1993) J. Rodriguez-Carvajal, Phys. B Condens. Matter **192**, 55 (1993).
+* Kresse (1995) G. Kresse, J. Non-Cryst. Solids **192-193**, 222 (1995).
+* Kresse and Hafner (1994) G. Kresse and J. Hafner, Phys. Rev. B **49**, 14251 (1994).
+* Kresse and Furthmuller (1996) G. Kresse and J. Furthmuller, Comput. Mater. Sci. **6**, 15 (1996).
+* Kresse and Furthmuller (1996) G. Kresse and J. Furthmuller, Phys. Rev. B **54**, 11169 (1996).
+* Blochl (1994) P. E. Blochl, Phys. Rev. B **50**, 17953 (1994).
+* Kresse and Joubert (1999) G. Kresse and D. Joubert, Phys. Rev. B **59**, 1758 (1999).
+* Perdew et al. (1996) J. P. Perdew, K. Burke, and M. Ernzerhof, Phys. Rev. Lett. **77**, 3865 (1996).
+* Dwight and Beck (1959) A. E. Dwight and P. A. Beck, Trans. Am. Inst. Min. Metall. Eng. **215**, 976 (1959).
+* Kubiak et al. (1972) R. Kubiak, R. Horyn, H. Broda, and K. Lukaszewicz, Bull. I'Academie Pol. Des Sci. Ser. Des Sci. Chim. **20**, 429 (1972).
+* Venturini et al. (1986) G. Venturini, M. Kamta, E. McRae, J. F. Mareche, B. Malaman, and B. Roques, Mater. Res. Bull. **21**, 1203 (1986).
+* Hirai et al. (2013) D. Hirai, M. N. Ali, and R. J. Cava, J. Phys. Soc. Jpn. **82**, 124701 (2013).
+* Hussey et al. (2004) N. E. Hussey, K. Takenaka, and H. Takagi, Philos. Mag. **84**, 2847 (2004).
+* Ioffe and Regel (1960) A. F. Ioffe and A. R. Regel, Prog. Semicond. **4**, 237 (1960).
+* Wiesmann et al. (1977) H. Wiesmann, M. Gurvitch, H. Lutz, A. Ghosh, B. Schwarz, M. Strongin, P. B. Allen, and J. W. Halley, Phys. Rev. Lett. **38**, 782 (1977).
+* Wang et al. (2010) C. H. Wang, J. M. Lawrence, E. D. Bauer, K. Kothapalli, J. S. Gardner, F. Ronning, K. Goffryk, J. D. Thompson, H. Nakotte, and F. Trouw, Phys. Rev. B **82**, 094406 (2010).
+* Klimczuk et al. (2011) T. Klimczuk, C. H. Wang, J. M. Lawrence, Q. Xu, T. Durakiewicz, F. Ronning, A. Llobet, F. Trouw, N. Kurita, Y. Tokiwa, H. O. Lee, C. H. Booth, J. S. Gardner, E. D. Bauer, J. J. Joyce, H. W. Zandbergen, R. Movshovich, R. J. Cava, and J. D. Thompson, Phys. Rev. B **84**, 075152 (2011).
+* McMillan (1968) W. L. McMillan, Phys. Rev. **167**, 331 (1968).
+* Micnas et al. (1990) R. Micnas, J. Ranninger, and S. Robaszkiewicz, Rev. Mod. Phys. **62**, 113 (1990).
+* Karki et al. (2011) A. B. Karki, Y. M. Xiong, N. Haldolaarachchige, S. Stadler, I. Vekhter, P. W. Adams, D. P. Young, W. A. Phelan, and J. Y. Chan, Phys. Rev. B **83**, 144525 (2011).
+* Ali et al. (2014) M. N. Ali, Q. D. Gibson, T. Klimczuk, and R. J. Cava, Phys. Rev. B **89**, 020505 (2014).
+* Werthamer et al. (1966) N. R. Werthamer, E. Helfand, and P. C. Hohenberg, Phys. Rev. **147**, 295 (1966).
+* Bian et al. (2016) G. Bian, T.-R. Chang, R. Sankar, S.-Y. Xu, H. Zheng, T. Neupert, C.-K. Chiu, S.-M. Huang, G. Chang, I. Belopolski, D. S. Sanchez, M. Neupane, N. Alidoust, C. Liu, B. Wang, C.-C. Lee, H.-T. Jeng, C. Zhang, Z. Yuan, S. Jia, A. Bansil, F. Chou, H. Lin, and M. Z. Hasan, Nat. Commun. **7**, 10556 (2016).
+* (34) See Supplemental Material at http://link.aps.org/supplemental/10.1103/PhysRevB.95.174521 for the crystallographic information for \text{Talr}_{2}\text{Ge}_{2}, which can be downloaded as a .cif file.
+
+ 

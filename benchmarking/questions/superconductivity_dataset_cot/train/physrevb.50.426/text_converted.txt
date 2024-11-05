@@ -1,0 +1,975 @@
+# Charge-carrier density and interplane coupling in Y₂Ba₄Cu₇O₁₅:
+
+A Cu NMR-NQR study
+
+R. Stern,^(•) M. Mali, I. Mangelschots,^(†) J. Roos, and D. Brinkmann
+
+Physik-Institut, Universitat Zurich, CH-8057 Zurich, Switzerland
+
+J.-Y. Genoud, T. Graf, and J. Muller
+
+Departement de Physique de la Matiere Condensee, Universite de Geneve,
+
+CH-1211 Geneve, Switzerland
+
+30 November 1993
+
+###### Abstract
+
+We report an observation of the ^(63, 65)Cu nuclear quadrupole resonance
+(NQR) and nuclear magnetic resonance (NMR) in Y₂Ba₄Cu₇O₁₅. We have
+measured the temperature dependence of the Cu NQR frequency and
+spin-lattice relaxation at all four chemically inequivalent Cu sites,
+and of the Cu magnetic shift at two inequivalent plane Cu sites (for the
+magnetic field parallel and perpendicular to the e axis). The
+Y₂Ba₄Cu₇O₁₅ compound turns out to be a structure containing two
+inequivalent CuO₂ planes of differing doping levels, a multilattice in
+which YBa₂Cu₄O₈ blocks and YBa₂Cu₅O₇ blocks alternate. In the normal
+conducting state both the static and the dynamic electron spin
+susceptibilities of the individual planes of a double plane are governed
+by the _same_ temperature dependence, which shows a behavior typical for
+an underdoped high-T_(c) compound. The same temperature dependence means
+strong coupling between these planes, with the lower limit of the
+coupling constant not much less than 30 meV. Although the planes are
+strongly coupled, their spin susceptibilities retain a distinct q
+dependence. The temperature variation of relaxation rate and Knight
+shift is described in terms of spin-gap formation or, alternatively, of
+frustrated phase separation. Below T_(c), the common temperature
+dependence is lost, which could arise from the opening of two
+superconducting gaps that differ in the individual planes.
+
+pacs: 0163-1829/94/50(1)/426(12)/506.00
+
+## I Introduction
+
+The understanding of the electron spin correlations and their possible
+interplay with superconductivity in the complex high-T_(c) copper oxides
+have attracted considerable interest, since both aspects are of great
+importance for an adequate description of these materials. Over the last
+several years the nuclear magnetic resonance (NMR) and nuclear
+quadrupole resonance (NQR) have played a vital and significant role in
+the study of the low-frequency spectrum of the spin fluctuations by
+probing the wave-vector (q) and frequency (ω) dependent spin
+susceptibility, χ(q, ω). Relevant information can be gained from the
+temperature dependence of both the magnetic shift tensor, and the
+nuclear spin-lattice relaxation rate at different atomic sites.[1, 2, 3]
+
+Of special interest and importance are, among others, the CuO₂ double
+planes, that characterize a whole class of high-T_(c) compounds. Each of
+these double planes consists of a pair of closely spaced adjacent CuO₂
+planes which are present in almost all high-T_(c) superconductors and
+where the superconductivity takes place.[4]
+
+From the high-T_(c) compounds having CuO₂ double planes, the most
+intensively studied so far is YBa₂Cu₃O₇ for which now NMR-NQR data are
+available for all sites in the crystal structure.[1] Many of our NMR and
+NQR investigations[5, 6, 7, 8, 9, 10] have focused on another
+double-plane structure, namely the YBa₂Cu₄O₈ compound[11] that is
+distinguished by its high thermal stability and precise stoichiometry
+which leads to well-defined samples with respect to their oxygen
+content. Their structural homogeneity is reflected by very narrow [63,
+65]Cu NQR lines.[5] The lower T_(c) of the YBa₂Cu₄O₈ compound, 82 K,
+compared to that of YBa₂Cu₃O₇, 92 K, can be qualitatively accounted for
+by its lower doping level. The main difference in the crystallographic
+structure of YBa₂Cu₃O₇ and YBa₂Cu₄O₈ is the double CuO chain in the
+latter.
+
+Here we report in detail NQR and NMR measurements in the compound
+Y₂Ba₄Cu₇O₁₅,[10, 3, 12] which can be considered as a natural
+multilattice (Fig. 1), consisting of alternating YBa₂Cu₄O₈ (1-2-4 for
+short) and YBa₂Cu₃O₇ (1-2-3) blocks containing double and single CuO
+chains, respectively.[13] The Y₂Ba₄Cu₇O₁₅ compound has been synthesized
+under high-O₂ pressure by Karpinski and Kaldis.[14] However,
+single-phase samples can also be obtained under normal O₂ pressure.[15]
+By changing the oxygen content, T_(c) can be varied between 14 K and 95
+K,[16, 17] which is the highest T_(c) reached so far in the
+Y₂Ba₄Cu_(6 + n)O_(14 + n) family. Thus, one of the fundamental questions
+concerning this compound is why its T_(c) is larger than the T_(c) of
+the parent compounds.
+
+Our results reveal, among others, the existence of a strong coupling
+between the adjacent CuO₂ planes of _one double plane_. Such a coupling
+was found previously in YBa₂Cu₃O₆,[18] YBa₂Cu₃O_(6.6),[19] and YBa₂Cu₃O₇
+(Ref. 20) by neutron scattering experiments. In addition, we conclude
+that the alternating blocks are doped at different levels.
+
+The unit cell of Y2Ba4Cu7O15 contains _four_ chemically inequivalent Cu
+sites: the Cu(1) chain and the Cu(2) plane sites of the 1-2-3 block and
+the Cu(3) plane and the Cu(4) chain sites of the 1-2-4 block. As in the
+YBa2Cu3O7 and YBa2Cu4O8 compounds, the CuO2 planes in Y2Ba4Cu7O15 form
+double planes separated by Y ions. However, due to the alternation of
+1-2-4 and 1-2-3 blocks, the double planes in Y2Ba4Cu7O15 consist of two
+_inequivalent_ CuO2 planes thus allowing one to study the coupling
+between such planes.
+
+The lattice constants a and b nearly do not change upon going from
+YBa2Cu4O8 to Y2Ba4Cu7O18, thus suggesting that the rigid 1-2-4 block
+determines the basal lattice constants of Y2Ba4Cu7O15. This suggestion
+is supported by the fact that the a, b, and c constants of Y2Ba4Cu7O15,
+in contrast to those of YBa2Cu3O7, only slightly depend on the oxygen
+content. This might also be responsible for the oxygen disorder in the
+single chains of the 1-2-3 block. Neutron experiments for oxygen
+deficient samples [21] revealed that a certain number of single chains
+are lying in the a direction which is perpendicular to the double
+chains. However, for the high-oxygen content sample, as reported here,
+there is no misorientation in the single chain [17].
+
+The rest of the paper is organized as follows. The next section contains
+the necessary theoretical NMR-NQR background. Experimental procedures,
+including the characterization of the sample, are given in Sec. III. In
+Sec. IV we present our data, in Sec. V we discuss our results and
+compare them with neutron diffraction data and theoretical models. The
+paper concludes with a summary in Sec. VI.
+
+## II NMR-NQR Theory
+
+A nuclear spin interacts with its electronic environment through
+electric and magnetic hyperfine couplings [22]. In the presence of an
+applied magnetic field, ${\bf B}_{0}$, the Hamiltonian of a nuclear
+spin, ${\bf I}$, having a quadrupole moment, eQ, can be written as
+
+$${\cal H}={\cal H}_{\rm Zeeman}+{\cal H}_{\rm quadrupole}+{\cal H}_{\rm hyperfine}$$
+(1)
+
+with
+
+$${\cal H}_{\rm Zeeman}= -\gamma_{n}\hbar B_{0}[I_{x}\cos\theta$$
++I_(y)sin θsin ϕ + I_(x)sin θcos θ] ,
+(2)
+$${\cal H}_{\rm quadrupole}=\frac{eQV_{xs}}{4I(2I-1)}\left(3I_{x}^{2} -I(I+1)+\frac{\eta}{2}(I_{+}^{2}+I_{-}^{2})\right)\ ,$$
+(3)
+
+and
+
+$${\cal H}_{\rm hyperfine}=\,\gamma_{n}\hbar\Bigg{(}\sum_{j}{\bf I}\cdot{\bf A}_{ j}\cdot{\bf S}_{j}+{\bf I}\cdot{\bf O}\cdot{\bf L}\Bigg{)}\ .$$
+(4)
+
+Here, V_(αα) (α =x, y, z) denote the principal components of the
+electric field gradient (EFG) tensor ${\bf V}$, with the axes labeled
+according to the convention |V_(xs)| ≤ |V_(yy)| ≤ |V_(xs)|. The
+asymmetry parameter of ${\bf V}$, η, is defined as
+η = (V_(xs) − V_(yy))/V_(xs), η ∈ [0, 1]. For a particular site, x, y, z
+are chosen as the frame of reference in Eqs. (1)-(4). In all Y-Ba-Cu-O
+compounds due to symmetry, one permutation of the x, y, z set coincides
+with the orthorhombic ${\bf a}$, ${\bf b}$, and ${\bf c}$ crystal axes.
+θ and ϕ are the polar and azimuthal angles, respectively, of
+${\bf B}_{0}$ in this crystal frame. ${\bf S}_{j}$ is the electron spin
+operator at the copper site j and ${\bf A}_{j}$ is its spin hyperfine
+tensor, the sum over j includes only on-site copper and its first
+neighbors. ${\bf L}$ is the electron orbital angular momentum and
+${\bf O}$ is its on-site orbital hyperfine tensor. γ_(n) is the nuclear
+gyromagnetic ratio.
+
+In the absence of an applied or an internal static magnetic field, the
+remaining ${\cal H}_{\rm quadrupole}$ gives rise to doubly degenerate
+energy levels between which NQR transitions can be induced. For copper,
+there exist two naturally occurring isotopes ⁶³Cu and ⁶⁵Cu both having
+spin $\frac{3}{2}$ and thus two doubly degenerate $\pm\frac{1}{2}$ and
+$\pm\frac{3}{2}$ energy levels. For each isotope, a transition between
+these levels yields a single NQR signal at frequency
+
+$${}^{63,65}\nu_{Q}=\frac{e^{63,65}Q\ V_{xs}}{2\hbar}\sqrt{1+\frac{1}{3}\eta^{2} }\ .$$
+(5)
+
+In the presence of a large external magnetic field, ${\bf B}_{0}$,
+${\cal H}_{\rm quadrupole}$ causes, for each isotope and each site, a
+splitting of the Cu NMR signal into a central line arising from the
+central transition, $(+\frac{1}{2},-\frac{1}{2})$, and two satellite
+
+Figure 1: Crystal structure of Y2Ba4Cu7O15 (Ref. 13). The upper two
+blocks represent one-half of the unit cell along the ${\bf c}$ axis. The
+crystal structure contains alternating 1-2-3 and 1-2-4 blocks.
+
+lines due to the $(\pm\frac{1}{2},\mp\frac{3}{2})$ transitions. In
+addition, the ${\cal H}_{\bf hyperfine}$ term causes a magnetic shift of
+each line.
+
+We now briefly summarize some properties of the EFG and the magnetic
+shift tensor. The EFG tensor is a ground-state property of a crystal
+depending sensitively on the charge distribution in the material. In a
+semiempirical approach, one assumes that the tensor can be written as
+the sum of two terms, a _lattice_ and a _valence_ contribution:
+
+$$V_{\alpha\alpha}=V_{\alpha\alpha}^{\rm lat}+V_{\alpha\alpha}^{\rm val}\ .$$
+(6)
+
+The first contribution arises from all charges outside the ion under
+consideration. Using the point-charge model, this term is given by
+
+$$V_{ij}^{\rm lat}=[1-\gamma_{\infty}]\ \sum_{k}q_{k}\Bigg{(}\frac{3x_{i}^{k}x_{j}^ {k}-\delta_{ij}|\vec{x}^{k}|^{2}}{|\vec{x}^{k}|^{5}}\Bigg{)},$$
+(7)
+
+where γ_(∞) is the Sternheimer antishielding factor (approximately 10
+for copper nuclei), q_(k) and x_(k) are the charge and the position of
+the kth ion, respectively.
+
+The second term in Eq. (6) arises from nonfilled shells of the subject
+ion. In case of Cu²⁺ ions and taking into account only holes in the Cu
+3d orbitals, we can write[23]
+
+$$V_{zz}^{\rm val}= -\frac{4}{7}e\langle r^{-3}\rangle_{3d}[n_{3d(x^{2}-y^{2})}-n_{3d (3z^{2}-r^{2})}$$
+$$+n_{3d(xy)}-\frac{1}{2}n_{3d(xz)}+\frac{1}{2}n_{3d(yz)}]\ ,$$
+(8)
+
+where n_(3d(x, y, z)) are the number of holes in different 3d orbitals.
+
+Because, in Y-Ba-Cu-O compounds, the positively charged on-site holes
+predominantly reside on the d orbitals extending towards the negatively
+charged neighbor oxygen ions, the lattice and valence contributions in
+Eq. (6) have opposite sign.
+
+The _magnetic_ coupling between the nuclear spin and its electronic
+environment as expressed by the ${\cal H}_{\bf hyperfine}$ Hamiltonian
+[Eq. (4)] can be viewed as a coupling of the nuclear spin with a time
+dependent local magnetic hyperfine field ${\bf H}_{L}$ generated by the
+electron spin and the electron orbital motion. The static part of
+${\bf H}_{L}$ gives rise to a NMR line shift expressed by the _magnetic
+shift tensor_${\bf K}$, whose components, in the x, y, z reference
+frame, can be decomposed in a spin and an orbital part:
+
+$$K_{\alpha\alpha}(T)=K_{\alpha\alpha}^{\rm spin}(T)+K_{\alpha\alpha}^{\rm orb}\ .$$
+(9)
+
+The spin part of the magnetic shift is usually called the Knight shift.
+In the high-T_(c) compounds, ${\bf K}^{\rm orb}$ is predominantly
+temperature independent, whereas the temperature dependent
+${\bf K}^{\rm spin}$ is expected to vanish in the superconducting state
+due to singlet spin pairing.
+
+Each part of the ${\bf K}$ tensor can be expressed by the respective
+hyperfine interaction tensor and the static electronic susceptibility as
+
+$$K_{\alpha\alpha}^{\rm spin} = \frac{1}{g\mu_{B}}\sum_{j}(A_{j})_{\alpha\alpha}(\chi_{j})_{ \alpha\alpha},$$
+(10)
+$$K_{\alpha\alpha}^{\rm orb} = \frac{1}{\mu_{B}}O_{\alpha\alpha}\chi_{\alpha\alpha}^{\rm orb}\ .$$
+(11)
+
+The fluctuating part of ${\bf H}_{L}$ is the source of the nuclear
+spin-lattice relaxation. In the case of high-T_(c) compounds, the main
+contribution to the copper spin-lattice relaxation stems from the
+electron spin fluctuations. After Moriya,[24] this contribution is
+related to the imaginary part of the dynamical spin susceptibility,
+χ(q, ω₀), and the "relaxation rate per temperature unit," (T₁T)⁻¹, is
+given by
+
+$$\left(\frac{1}{T_{1}T}\right)_{\alpha}=\frac{\gamma_{n}^{2}k_{B}}{2\mu_{B}^{2} }\sum_{q,\alpha^{\prime}\neq\alpha}|A(q)_{\alpha^{\prime}\alpha^{\prime}}|^{2} \frac{\chi_{\alpha^{\prime}\alpha^{\prime}}^{\prime}(q,\omega_{0})}{\omega_{0}},$$
+(12)
+
+$$A(q)_{\alpha\alpha}=\sum_{j}A_{j,\alpha\alpha}\ {\rm exp}(i{\bf q}\cdot{\bf r}_{j}).$$
+
+Here, ω₀ is the nuclear resonance frequency. α denotes the direction of
+quantization, i.e., the direction of V_(zz) in NQR and of ${\bf B}_{0}$
+in NMR experiments, and α^(′) is the direction perpendicular to α.
+${\bf A}_{j}$ is the on-site (${\bf r}_{j}=0$) and the transferred
+(${\bf r}_{j}\neq 0$) hyperfine coupling tensor for the nuclei under
+consideration. Thus, the "relaxation rate per temperature unit" provides
+information about the q averaged imaginary part of χ(q, ω₀).
+
+## III Experiment
+
+The Y₂Ba₄Cu₇O₁₅ sample, investigated in this work, was prepared by the
+solid state reaction technique, which is described in detail
+elsewhere.[25] The sample was calcined twice in oxygen gas (O₂) at 20
+bar pressure and at 1020 ^(∘)C during 12 h (reground in between) and
+postannealed in 100 bar O₂ at 300 ^(∘)C during 3 days. Different
+characterization techniques (x-ray diffraction and TEM) show a pure
+Y₂Ba₄Cu₇O₁₅ phase without impurity phases within a detection limit of
+less than 0.5
+
+In order to study the anisotropic properties of the Y₂Ba₄Cu₇O₁₅
+compound, the Cu NMR experiments were carried out on a c-axis oriented
+powder. The magnetic orienting of the powder, described in Ref. [27],
+produced a sample with a high degree of c-axis alignment of
+
+  ----------------------- ---------
+   Crystallographic data  
+           a (Å)            3.834
+           b (Å)            3.879
+           c (Å)            50.61
+          V (Å³)            752.7
+   2(b − a)/(b + a) (%)     1.17
+     Transition onset     
+         T_(c) (K)          92.8
+      Oxygen content      
+             z             15.1(1)
+  ----------------------- ---------
+
+Table 1: Parameters of Y₂Ba₄Cu₇O_(s) sample used in this study.
+
+the grains whereas the a and b axes remained randomly distributed.
+
+The ^(63, 65)Cu NQR and NMR experiments were carried out using standard
+pulsed spectrometers. The resonance signals were obtained by a phase
+alternating add-subtract spin-echo technique similar to that one used in
+Ref. [28].
+
+The NQR measurements were done in a zero magnetic field. The spectra
+were obtained by scanning the frequency in discrete steps and
+integrating the echo signal. The spin-lattice relaxation time T₁ was
+measured by NQR using the inversion-recovery pulse sequence.
+
+The NMR experiments were performed in an external magnetic field,
+${\bf B}_{0}$, of 9.03 T using Fourier transformation of the spin echo.
+In all our experiments we used very intensive radio frequency pulses
+with optimal pulse lengths of 1.5 μs or less.
+
+## IV Results and Analysis
+
+### Nqr
+
+The Y₂Ba₄Cu₇O₁₅^(63, 65)Cu NQR spectrum at 100 K (Fig. 2) looks almost
+like the combined NQR spectra of the parent compounds YBa₂Cu₃O₇ (Ref.
+[29]) and YBa₂Cu₄O₈.[5] Therefore, naturally, we assigned the four ⁶³Cu
+and ⁶⁵Cu isotope pairs in the Y₂Ba₄Cu₇O₁₅ NQR spectrum on grounds of
+their resemblance in frequency and shape with the ones in the parent
+compounds. The correctness of such a choice is supported by the very
+similar temperature behavior of corresponding lines in Y₂Ba₄Cu₇O₁₅ and
+the parent compounds (Fig. 3). However, at closer inspection one notices
+that in Y₂Ba₄Cu₇O₁₅ the frequency difference between the single- and
+double-chain Cu lines is somewhat smaller than observed for the parent
+compounds. The same effect but less pronounced is observed for the plane
+lines.
+
+One notices further that the lines in the 1-2-4 block are almost as
+narrow as in YBa₂Cu₄O₈ which demon
+
+Figure 4: Temperature dependence of ⁶³Cu (T₁T)⁻¹ measured by NQR at
+Cu(2) (open circles) and Cu(3) sites (filled circles) in Y₂Ba₄Cu₇O₁₅
+compared to (T₁T)⁻¹ at Cu(2) sites in YBa₂Cu₃O₇ (dash-dotted line, Ref.
+[29]) and in YBa₂Cu₄O₈ (dashed line, Ref. [5]).
+
+Figure 3: Temperature dependence of the ⁶³Cu NQR frequency ν_(Q). (a) At
+Cu(1) (open circles) and Cu(4) sites (filled circles) in Y₂Ba₄Cu₇O₁₈,
+compared to ν_(Q) at Cu(1) sites in YBa₂Cu₃O₇ (dash-dotted line, Ref.
+[29]) and in YBa₂Cu₄O₈ (dashed line, Ref. [5]).
+
+Figure 2: The ^(63, 65)Cu NQR spectrum in Y₂Ba₄Cu₇O₁₈ at 100 K. The
+points denote the integration of the spin echo over time. The
+intensities of the chain and plane lines are not to scale. The arrows
+denote the line positions in YBa₂Cu₃O₇ and YBa₂Cu₄O₈.
+
+strates the structural quality of the 1-2-4 block being comparable to
+that of good YBa₂Cu₄O₈. In contrast, the chain and plane lines in the
+1-2-3 block are much broader than corresponding lines in a good quality
+YBa₂Cu₃O₇ sample,[30] thus indicating that also in Y₂Ba₄Cu₇O₁₅ the
+single chain is an imperfect structural element which only under very
+subtle thermodynamic conditions can be ordered and filled completely
+with oxygen.
+
+The spin-lattice relaxation rate has been measured by NQR for all four
+copper sites of Y₂Ba₄Cu₇O₁₅. Figure 4 depicts the temperature dependence
+of (T₁T)⁻¹ of Cu(2) and Cu(3) together with related data from YBa₂Cu₃O₇
+(Ref. [31]) and YBa₂Cu₄O₈.[6] Characteristic for Y₂Ba₄Cu₇O₁₅ is that
+(T₁T)⁻¹ for both planar sites depends strongly on temperature in the
+normal conducting state showing a maximum at T^(*) = 130 K combined with
+a Curie-Weiss-type behavior above and a strong drop below T^(*).
+
+The temperature dependence of (T₁T)⁻¹ for the chain Cu sites is given in
+Fig. 5. The Cu(4) data are practically identical with the corresponding
+values in YBa₂Cu₄O₈, thus demonstrating that the electronic spin
+dynamics of the double chains is unaffected by the Y₂Ba₄Cu₇O₁₅
+multilattice and therefore remains equal in both compounds. For the
+Cu(1) data, the agreement with the YBa₂Cu₃O₇ data is less pronounced,
+partly due to the large scatter of the Y₂Ba₄Cu₇O₁₅ data. However, above
+250 K, the two data sets clearly depart from each other.
+
+### Nmr
+
+Figure 6 shows the central lines of the Cu NMR spectrum obtained for two
+orientations of the magnetic field, ${\bf B}_{0}\parallel{\bf c}$ and
+${\bf B}_{0}\perp{\bf c}$. The lines are shifted with respect to the
+Larmor frequency, ν_(L), due to quadrupolar and magnetic hyperfine
+couplings. The quadrupolar as well as the magnetic shift depend on
+${\bf B}_{0}$ but in a rather opposite manner: the magnetic shift is
+proportional to ${\bf B}_{0}$, the quadrupolar is proportional to
+${\bf B}_{0}^{-1}$. Since we are mainly interested in the magnetic
+shifts, the spectrum was measured in a high magnetic field [ν_(L)(⁶³Cu)=
+101.916 MHz in CuCl].
+
+In order to determine the ${\bf K}$ values from the asymmetrically
+broadened experimental multicentral-line spectra we used a line shape
+model that involves a convolution of a temperature independent Gaussian
+angular distribution of ${\bf c}$-axis misalignment, responsible for an
+asymmetric second-order quadrupolar shift broadening of the resonance
+lines towards lower frequencies,[32] with a temperature dependent
+Lorentzian-like broadening present at each existing orientation. By
+varying the spread of the angular misalignment we achieved the best fit
+with a quite narrow Gaussian distribution width of only  ∼ 2.5^(∘).
+
+Because of Eq. (5) with ν_(Q) known from our NQR measurements, the
+analysis of the shift does not allow an unambiguous determination of
+eQV_(ZZ), η, and ${\bf K}$. However, it is known from previous
+studies[31, 48] that the EFG at the plane Cu sites in YBa₂Cu₃O₇ as well
+as in YBa₂Cu₄O₈ is nearly axially symmetric with η values which are
+equal within the error limits (Table 2). We assume that the
+
+Figure 5: **Temperature dependence of ⁶³Cu (T₁T)⁻¹ measured by NQR at
+Cu(1) (open circles) and Cu(4) sites (filled circles) in Y₂Ba₄Cu₇O₁₅
+compared to (T₁T)⁻¹ at Cu(1) in YBa₂Cu₃O₇ (dash-dotted line, Ref. [33])
+and in YBa₂Cu₄O₈ (dashed line, Ref. [5]).**
+
+Figure 6: **The experimental (bullets) and calculated central lines of
+the Cu NMR spectrum for two orientations of the applied magnetic
+field**. (a) ${\bf B}_{0}\parallel{\bf c}$ **. ⁶⁵Cu(1): long-dashed,
+⁶⁵Cu(2): dotted, ⁶⁵Cu(3): dashed, and ⁶⁵Cu(4): dash-dotted. (b)
+${\bf B}_{0}\perp{\bf c}$. ⁶³Cu(2): dotted and ⁶³Cu(3): dashed. The
+solid line is the sum of calculated individual lines.**
+
+η values at the Cu(2) and Cu(3) sites in Y₂Ba₄Cu₇O₁₅ are the same as the
+respective values in YBa₂Cu₃O₇ and YBa₂Cu₄O₈. This assumption, however,
+as long not verified, bears an uncertainty in the quadrupolar and
+consequently in the magnetic shift. To estimate the magnitude of a
+possible error, we evaluated **K** from the experimental spectrum for a
+variety of η’s. The influence of η on **K** is quite modest insofar as η
+remains below 0.05, i.e., in the range of values typically observed at
+plane copper sites. The influence of η depends on the orientation of
+**B₀**.
+
+Measurements of plane Cu K_(cc) (**B₀∥ c**) at room temperature were
+performed on the central transition of the less abundant ⁶⁸Cu isotope to
+avoid overlap of the plane Cu(2) and Cu(3) lines with the double-chain
+Cu(4) line.
+
+The assignment of the various Cu lines in the experimental spectrum
+[Fig. 6(a)] was facilitated by the appreciable difference in spin-spin
+relaxation times between chain and plane Cu sites, as known from NQR.
+The most narrow (20 kHz) and the broadest (∼ 500 kHz) lines in the **B₀∥
+c** spectrum belong to the double-chain site ⁶⁸Cu(4) and the
+single-chain site ⁶⁸Cu(1), respectively. The remaining 105 kHz broad
+line we assigned to a composition of two plane ⁶⁵Cu(2) and ⁶⁸Cu(3) lines
+with slightly different K_(cc) shifts 1.26
+
+In the case of **B₀⊥ c**, the plane Cu central lines of the more
+abundant ⁶³Cu isotope spectrum are far apart from the chain Cu lines,
+therefore preferentially this spectrum was used in the K_(aa) shift
+determination. As one can see in Fig. 6(b), the two ⁶³Cu(2) and ⁶³Cu(3)
+central lines are quite well resolved at room temperature.
+Unfortunately, with decreasing temperature due to the broadening and
+smaller frequency separation this resolution deteriorates. Taking into
+account the experimentally determined temperature variation of ν_(Q)’s
+shown in Fig. 3 and by using the line shape model for **B₀⊥ c**
+orientation, we were able to extract the temperature dependence of the
+total K_(aa) ( = K_(bb)) shifts for Cu(2) and Cu(3). However, to obtain
+the more relevant temperature dependent spin part **K${}^{\rm spin}$**
+one has to know the constant orbital part **K${}^{\rm orb}$**, usually
+obtained as the rest **K** shift at temperatures far below T_(c). In the
+case of Y₂Ba₄Cu₇O₁₅, as already mentioned, the broadening and the
+overlap of the two lines prevent an accurate enough determination of
+**K${}^{\rm orb}$**. Therefore we had to resort on the values obtained
+by Barrett _et al._ for YBa₂Cu₃O₇ (Ref. [33]) and by Zimmermann _et al._
+for YBa₂Cu₄O₈.[6] As one may expect both values agree in er
+
+  ------------- ---------- ------------- ------------ ----------- ------
+                            ν_(Q) (MHz)   FWHH (kHz)       η       Ref.
+    YBa₂Cu₃O₆     Cu(1)      30.07(2)        140           0        26
+      Cu(2)      23.8(2)a      70a,b          0           27      
+    YBa₂Cu₄O₈     Cu(1)      20.00(3)      100(10)     0.951(5)c    6
+      Cu(2)      29.74(6)     180(10)     0.015(5)c        6      
+    YBa₂Cu₃O₇     Cu(1)      22.06(1)         90       0.984(5)d    29
+      Cu(2)      31.53(1)       200       0.012(5)d       29      
+   Y₂Ba₄Cu₇O₁₅    Cu(1)      21.80(5)      450(50)     This work  
+      Cu(2)      31.40(8)     750(50)     This work               
+      Cu(3)      29.80(5)     430(30)     This work               
+      Cu(4)      20.35(4)     180(30)     This work               
+  ------------- ---------- ------------- ------------ ----------- ------
+
+Table 2: The measured ⁶³Cu NQR frequences (ν_(Q)), linewidths (full
+width at half height), and asymmetry parameters (η) for various
+Y-Ba-Cu-O compounds at 100 K.
+
+ror limits. Thus we took the average value of 0.285
+
+## 5 Discussion
+
+In this section we first discuss the two major topics of our study, the
+doping of the CuO₂ planes and the interplane coupling in Y₂Ba₄Cu₇O₁₅,
+and, then, analyze our data in terms of two phenomenological models
+providing analytical expressions for relaxation and Knight shift which
+can be readily evaluated.
+
+### Charge-carrier density in the CuO₂ planes
+
+The EFG tensor [Eq. (8)] and hence ν_(Q) [Eq. (5)] of the plane copper
+sites is very sensitive to changes in the density of mobile holes, n, in
+the CuO₂ planes. Indeed, the NQR experiments in YBa₂Cu₃O_(7 − δ) (Refs.
+35 and 36) and La_(2 − x)Sr_(x)CuO₄ (Ref. 37) show that ν_(Q) of the
+plane copper nuclei shifts towards higher values with increasing n. In
+the YBa₂Cu₃O_(7 − δ) family, ν_(Q) changes from 23.18 MHz in undoped
+YBa₂Cu₃O₆ (Ref. 38) to 31.53 MHz at 100 K in YBa₂Cu₃O₇.[29] Optimal
+doping maximizing T_(c) occurs for δ = 0.06.[39] In this sense,
+YBa₂Cu₃O₇ is overdoped and YBa₂Cu₄O₈ is underdoped. In the
+La_(2 − x)Sr_(x)CuO₄ system, ν_(Q) increases linearly with Sr doping
+from 33 MHz for x = 0 to 36.2 MHz for x = 0.15.
+
+The structural differences between various Y-Ba-Cu-O family members
+occur only in the CuO chains, leaving the nearest neighborhood of the
+plane Cu practically unchanged. The effects of these structural changes
+can be seen best of all via the NQR frequency of the Ba nuclei,
+ν_(Q)(Ba). Due to the closed electron shell of the Ba ion, ν_(Q)(Ba) is
+exclusively determined by the _lattice_ contribution to the EFG and is
+as such very sensitive to structural changes. While ν_(Q)(Ba) in
+YBa₂Cu₃O₇ is still 6
+
+Based on these facts we can estimate n, the hole concentration per plane
+Cu atom, for the CuO₂ planes in the 1-2-3 and 1-2-4 blocks,
+respectively. In analogy to the La_(2 − x)Sr_(x)CuO₄ system, we assume
+that ν_(Q) of the planar Cu in the Y-Ba-Cu-O compounds increases
+linearly with n, and use the ν_(Q) values of Table 2 (for 100 K). This
+way we find that n of the Cu(2)O₂ and Cu(3)O₂ planes in Y₂Ba₄Cu₇O₁₅ is
+79 and 98
+
+To be quantitative, we calibrate the ν_(Q)-vs-n relation by assigning
+ν_(Q) of Cu(2) in undoped YBa₂Cu₃O₆ to n = 0 and by taking the formal
+0.33 holes/Cu atom for YBa₂Cu₃O₇ as the n value corresponding to
+ν_(Q) = 31.53 MHz. We thus obtain dν_(Q)/dn = 23.4 MHz/hole which
+compares well with the value 21 MHz/hole derived from
+La_(2 − x)Sr_(x)CuO₄ data.[37] The 23.4 MHz/hole value then yields hole
+concentrations of 0.325 and 0.262 for the planes in the 1-2-3 and 1-2-4
+blocks of Y₂Ba₄Cu₇O₁₅, respectively, and a concentration of 0.259 for
+YBa₂Cu₄O₈ planes. As suspected, the last two values are very close to
+the formal 0.25 holes/Cu atom in YBa₂Cu₄O₈.
+
+The finding of different hole concentrations in the 1-2-3 and 1-2-4
+blocks is qualitatively supported by plane Cu spin-lattice relaxation
+rate, W, and Knight shift data. It is now widely agreed that the
+relaxation at plane Cu sites is primarily caused by antiferromagnetic
+(AF) electron spin fluctuations which, according to neutron scattering
+experiments, get progressively suppressed by growing charge carrier
+density.[41] Hence, the room temperature relaxation rate in Y-Ba-Cu-O
+monotonically decreases with increasing CuO₂ plane doping.[42, 43, 44]
+Assuming that the same tendency holds for Y₂Ba₄Cu₇O₁₅, it follows from
+the Cu(2) and Cu(3) relaxation data that the 1-2-3 block has a higher
+doping level than the 1-2-4 block. Furthermore, at high temperature
+where the temperature dependence of W[Cu(2)] and W[Cu(3)] levels off,
+W[Cu(3)] agrees quite well with that of Cu(2) in YBa₂Cu₄O₈, indicating
+an equal charge carrier density in corresponding planes. The agreement
+of the Cu(2) relaxation rates in YBa₂Cu₃O₇ and in the 1-2-3 block is
+somewhat poorer. The slightly higher rate in the 1-2-3 block may be an
+indication of a somewhat lower doping level in this block.
+
+In contrast to the relaxation rate, the Knight shift $K^{\rm spin}_{aa}$
+in (Y,Pr)Ba₂Cu₃O₇,[44] YBa₂Cu₃O_(7 − δ),[45] and in TlBa₂CuO_(6 + δ)
+(Ref. 46) grows with increasing n. In Y₂Ba₄Cu₇O₁₅ the 1-2-3 block
+exhibits a larger shift than the 1-2-4 block (Fig. 7), which again
+supports the con
+
+Figure 7: Temperature dependence of the plane ⁶³Cu Knight shift at Cu(2)
+(open circles) and Cu(3) sites (filled circles) in Y₂Ba₄Cu₇O₁₅ compared
+to the Knight shift at Cu(2) sites in YBa₂Cu₃O₇ (dash-dotted line, Ref.
+34) and in YBa₂Cu₄O₈ (dashed line, Ref. 6). The external field
+${\bf B}_{0}$ lies perpendicular to the crystal ${\bf c}$ axis.
+
+clusion of a higher plane doping level in the 1-2-3 block as compared to
+the 1-2-4 block.
+
+Summarizing the preceding findings, the multilattice compound
+Y₂Ba₄Cu₇O₁₅ turns out to be a structure containing _planes of differing
+doping level_. The planes in the 1-2-4 block (1-2-3 block) are slightly
+higher (lower) doped than those in the corresponding parent compounds.
+
+### Coupling of CuO₂ planes above T_(c)
+
+In Figs. 4 and 7 we compare the temperature dependences of the
+relaxation rate, W, and of the spin part of the magnetic shift,
+$K_{aa}^{\rm spin}$, measured in Y₂Ba₄Cu₇O₁₅ with corresponding values
+of YBa₂Cu₃O₇ and YBa₂Cu₄O₈. For both, W and $K_{aa}^{\rm spin}$, the
+respective values coincide above 300 K, whereas in the range between
+T_(c) and 300 K the Y₂Ba₄Cu₇O₁₅ data show a temperature variation which
+appreciably differs from that observed for YBa₂Cu₃O₇ as well as
+YBa₂Cu₄O₈ data. The relaxation rates together with the Knight shifts of
+each plane of the double plane exhibit a temperature dependence typical
+for an underdoped high-T_(c) superconductor. Furthermore, as evident
+from Fig. 8, in the normal conducting state at temperatures above 100 K,
+a constant relaxation rate ratio
+$r_{W}=W[{\rm Cu}(3)]/W[{\rm Cu}(2)]=1.28(7)$ together with a constant
+shift ratio
+$r_{K}=K_{aa}^{\rm spin}[{\rm Cu}(3)]/K_{aa}^{\rm spin}[{\rm Cu}(2)]=0.90(6)$
+are observed.
+
+According to Eq. (10) and Eq. (12), the temperature independent r_(K)
+and r_(W) imply a temperature independent relationship between the
+respective static and dynamic electronic spin susceptibilities. The
+relaxation rate, strictly speaking, involves the q averaged imaginary
+part of χ(q, ω₀). However, if we assume that the spin fluctuations at
+the corner of the Brillouin zone, q = Q_(AF), dominate the relaxation,
+the sum over q can be replaced by χ^(′′)(Q_(AF)). The plane copper
+hyperfine constants appearing in the ratios are alike in Y-Ba-Cu-O
+compounds [47, 48] and seem to be temperature independent. In other
+words, both the static and the dynamic electron susceptibilities of the
+two single planes of each double plane are governed by the _same_
+temperature dependence which means common spin dynamics in both planes,
+and hence these planes must be strongly coupled. However, since r_(K)
+and r_(W) are not equal, the q dependence of the susceptibility is not
+the same in the two planes.
+
+A strong interplane coupling was recently observed by neutron scattering
+in the insulating antiferromagnetic YBa₂Cu₃O₆ (Ref. [18]) and in
+superconducting YBa₂Cu₃O_(6.6) (Ref. [19]) and YBa₂Cu₃O₇[20]. In
+YBa₂Cu₃O₆, the large interplane exchange coupling (with coupling
+constant of about 15 meV) orders the next-nearest CuO₂ planes
+antiferromagnetically below the Neel temperature, T_(N). In
+YBa₂Cu₃O_(6.6) and in YBa₂Cu₃O₇ a similar interplane coupling produces
+strong AF electron spin-spin correlations which persist from the normal
+into the superconducting state. Note, however, that the coupled planes
+in these compounds are _equivalent_ in contrast to those in Y₂Ba₄Cu₇O₁₅.
+
+At the moment the mechanism of interplane coupling in Y₂Ba₄Cu₇O₁₅ is not
+known. Direct and indirect exchange interactions are possible
+candidates. Because of the relatively large interplane distance of 3.2 A
+a direct exchange between the small Cu 3d_(3z^(′) → z^(′)) orbitals
+seems to be less likely and probably an indirect superexchange via
+oxygen and yttrium must be invoked. The coupling _strength_ may be
+estimated from the $K_{aa}^{\rm spin}$-vs-temperature plot (Fig. 7).
+Below 300 K, the $K_{aa}^{\rm spin}$ shifts in the 1-2-3 and 1-2-4
+blocks begin to depart from those in YBa₂Cu₃O₇ and YBa₂Cu₄O₈ due to the
+interplane coupling, thus the coupling strength is not much less than
+k_(B) × 300 K or 30 meV.
+
+The strong AF interplane correlations observed in YBa₂Cu₃O_(6.6) and in
+YBa₂Cu₃O₇ by neutron experiments are presumably present also in
+Y₂Ba₄Cu₇O₁₅. Then, as pointed out by Tranquada _et al._, [19] the
+correlations impose restrictions on the charge-carrier movement which
+has to be of a special kind, most probably coherent in both planes to
+retain the interplane spin-spin correlations.
+
+Irrespective of its nature, the question remains whether the interplane
+coupling favors or impedes superconductivity. Several theories of
+high-T_(c) superconductivity incorporate the interplane coupling as an
+essential ingredient. In the theory of Anderson, [49] only the
+interplane pair tunneling between coupled planes makes superconductivity
+possible. Altshuler and Ioffe [50] stress the importance of interplane
+correlations, arguing that they are essential for the system to become
+superconducting. The possibility of (nodeless) d-wave superconductivity
+in a double-plane model is predicted by Bulut _et al._[51] and by
+Dagotto _et al._[52] Morgenstern _et al._[53] find evidence of d-wave
+superconductivity in their Monte Carlo simulations of the double-plane
+Hubbard model.
+
+To our knowledge, none of the theories taking into account interplane
+coupling find it unfavorable for superconductivity. On the other hand,
+Eenige _et al._[54] claim that the occurrence of superconductivity in
+Y₂Ba₄Cu₇O₁₅ is due to the proximity effect rather than to an interplane
+coupling. Their argument is based on a
+
+Figure 8: Temperature dependence of the ratio of plane copper (a)
+relaxation rates and (b) Knight shifts in Y₂Ba₄Cu₇O₁₅.
+
+kink seen in the pressure dependence of T_(c). In order to explain a
+T_(c) being higher than in YBa₂Cu₄O₈ and even YBa₂Cu₃O₇, the authors,
+however, are forced to postulate an extra doping via interstitial
+oxygen.
+
+Our experiments, however, clearly demonstrate the presence of an
+interplane coupling in Y₂Ba₄Cu₇O₁₅. Obviously, we cannot tell whether
+this coupling favors or impedes superconductivity. Nevertheless, our
+result fits into the framework of several theories favoring interplane
+coupling (see, for instance, Ref. [55]).
+
+A final comment concerns the high value of T_(c). As pointed out in the
+preceding section, the 1-2-3 block in Y₂Ba₄Cu₇O₁₅ is close to or even at
+optimal doping for the YBa₂Cu₃O_(7 − δ) structure. Thus it is tempting
+to assume that the "best plane," namely that of the 1-2-3 block,
+determines T_(c). However, this argument fails for a composition of
+Y₂Ba₄Cu₇O₁₅ which yields a T_(c) of 95 K since, to our knowledge, the
+T_(c) values of YBa₂Cu₃O_(7 − δ) do not exceed 93 K. Thus, it is
+conceivable that the interplane coupling plays a role in obtaining
+high-T_(c) values. NMR-NQR experiments on Y₂Ba₄Cu₇O₁₅ samples with
+T_(c) = 95 K may perhaps provide answers to this issue.
+
+### Interplane coupling below T_(c)
+
+Next we will discuss briefly the relevance of the temperature dependence
+of W and $K_{aa}^{\rm spin}$ close and below T_(c). Just above T_(c),
+r_(W) begins to diminish with decreasing temperature. After smoothly
+passing into the superconducting state it decreases to a minimum of 1.0
+at 80 K, where it starts to increase again. In contrast, r_(K) remains
+constant down to T_(c), where it starts to increase. Unfortunately, the
+overlap of Cu(2) and Cu(3) lines prevents measurements of r_(K) below 76
+K. Both ratios have the same value, namely 1.0, around 80 K which is
+close to T_(c) of YBa₂Cu₄O₈. Whether this is purely accidental remains
+an open question.
+
+The variation of r_(W) and r_(K) with temperature in the superconducting
+state means that the susceptibilities of the individual planes of the
+double plane have lost their common temperature dependence. It is
+tempting to assume a weakening or even loss of the interplane coupling
+as the underlying cause. This, however, would contradict the results of
+neutron scattering experiments in YBa₂Cu₃O_(6.6) (Ref. [19]) and
+YBa₂Cu₃O₇,[20] where no significant change of the interplane correlation
+at and below T_(c) is observed. There is also evidence for strong
+coupling between the superconducting CuO₂ planes in YBa₂Cu₃O₇ from
+single-crystal transport measurements.[56]
+
+Another reason why the common temperature dependence disappears could be
+a formation of two superconducting gaps that differ in the individual
+planes because of their different charge-carrier densities, n. However,
+up to now even the spatial symmetry of the superconducting state in
+Y-Ba-Cu-O and so the form of the superconducting gap is not well
+established, let alone its dependence on n. Thus, the explanation of the
+temperature variation of r_(W) and r_(K) below T_(c) is still missing.
+
+### Relaxation and Knight shift mechanisms
+
+The crucial point in deriving the spin-lattice relaxation rate [Eq.
+(12)] and the Knight shift [Eq. (10)] is the calculation of the
+susceptibility, χ(q, ω₀). In the absence of a complete understanding of
+the electronic state of Y-Ba-Cu-O superconductors, approximations must
+be introduced.
+
+In the phenomenological model of Millis, Monien, and Pines (MMP),[57,
+3]χ(q, ω₀) is treated in a mean-field approximation and it is decomposed
+into a quasiparticle (normal Fermi-liquid-like) contribution and a
+contribution arising from AF correlations. The MMP model gives a
+quantitative account of relaxation data at Cu, O, and Y sites in
+YBa₂Cu₃O₇ (Ref. [57]) and at Cu(2) sites in YBa₂Cu₄O₈ (Ref. [10])
+provided the square of the correlation length of the AF fluctuations,
+ξ², has approximately a Curie-Weiss-like temperature dependence. Since
+neutron scattering investigations[18] concluded that ξ is temperature
+independent the applicability of the MMP model has been questioned.
+
+A different approach to explain the anomalous temperature dependence of
+the relaxation rate has been suggested by Millis and Monien.[58] From
+their analysis of relaxation data, they concluded that the spectral
+weight in the spin fluctuations decreases as the temperature is lowered.
+This missing spectral weight must reappear at a higher energy in the
+form of a transition over a "spin pseudogap," Δ. Thus, there are two
+competing effects which determine the variation of T₁ with temperature:
+the increase of AF fluctuations with falling temperature and the
+spin-gap effect. At a certain temperature the spin-gap effect wins and
+(T₁T)⁻¹ starts to decrease. The widespread nature of the spin-gap effect
+has been noted by Rice.[59]
+
+After the discovery of the spin-gap effect in YBa₂Cu₃O_(7 − δ) by
+neutron scattering[60] several NMR groups have regarded the spin-gap
+effect to be responsible for the peculiar temperature variation of the
+relaxation rate, at least in the normal conducting state.[3] The
+relaxation rate is described by an _ad hoc_ formula:
+
+$$\frac{1}{T_{1}T}=\left(\frac{A_{0}}{T}\right)^{\alpha}\left[1-\tanh^{2}\left( \frac{\Delta_{\rm AF}}{2T}\right)\right].$$
+(13)
+
+Here, $\Delta_{\rm AF}$ denotes the spin-gap energy at the
+$Q_{\rm AF}=(\frac{\pi}{a},\frac{\pi}{a})$ since the Cu relaxation is
+dominated by the strong AF fluctuations around $Q_{\rm AF}$.[57]A₀ is a
+constant and the factor T^(−α) guarantees a reasonable description for
+the high-temperature behavior and may be attributed to the gradual decay
+of AF correlations at higher temperatures.[57] Some applications of Eq.
+(13) to both Knight shift and relaxation rates are discussed in Refs.
+[61] and [62].
+
+Figure 9 shows the fit of Eq. (13) to the Cu(2) and Cu(3) relaxation
+rates in Y₂Ba₄Cu₇O₁₅. The parameters for both fits are
+$\Delta_{\rm AF}=240(20)$ K and α = 1.25 which within the error limits
+agree with $\Delta_{\rm AF}=260(10)$ K and α = 1.25 we obtained for
+YBa₂Cu₄O₈ using our previous Cu(2) data.[6] This result again
+demonstrates the dominating role played by the double-chain block
+
+in Y2Ba4Cu7O15. A similar relaxation rate behavior of plane copper is
+observed for the bulk oxygen deficient YBa2Cu3O7-_d_ (_d_ >0.06)
+material.[42]
+
+The spin shift data are fitted by a similar _ad hoc_ expression:
+
+$$K_{aa}^{\rm spin}(T)=K_{0}^{\rm spin}\left[1-\tanh^{2}\left(\frac{\Delta_{0}}{ 2T}\right)\right],$$
+(14)
+
+where D0 is the spin-gap energy at q = (0,0). Equation (14) describes
+quite well $K_{aa}^{\rm spin}(T)$ in the normal conducting state. For
+Y2Ba4Cu7O15, the fit yields for both blocks a common D0 = 150(20) K and
+two separate prefactors: $K_{0}^{\rm spin}=0.290\%$ for the 1-2-3 and
+$K_{0}^{\rm spin}=0.260\%$ for the 1-2-4 block. The same fit procedure
+applied to YBa2Cu4O8 data yields D0 = 210(20) K and
+$K_{0}^{\rm spin}=0.267\%$. Provided the temperature variation of the
+Knight shift arises from a spin-gap opening and Eq. (14) represents an
+appropriate description of this effect, then the results imply, first,
+that a spin gap, D0, opens at q = (0,0) and, second, that D0 is smaller
+than D_AF.
+
+We conclude this section by mentioning a completely different
+approach[63] to interpret the plane Cu relaxation rate. The high-_T_c
+superconducting compound is viewed as a dilute system of neutral holes
+in an antiferromagnet that tends to separate into hole-rich and
+hole-poor phases, but is frustrated by long-range Coulomb interactions.
+As a consequence, large-amplitude local hole density fluctuations occur
+and their interaction with the mobile holes determines the normal
+conducting state properties. By approximating the fluctuations with a
+single-mode spin-1 excitation of wave vector _Q_AF and energy _ph__g_,
+Emery and Kivelson[63] deduced for the relaxation rate the following
+expression:
+
+$$\frac{1}{T_{1}T}=\frac{C_{0}}{T}\left[4+\exp\left(\frac{\omega_{g}}{kT}\right) +3\exp\left(-\frac{\omega_{g}}{kT}\right)\right]^{-1}\ ,$$
+(15)
+
+where C0 is a constant. As seen in Fig. 9, this formula allows quite a
+good fit to the plane Cu relaxation data, delivering _ph__g_ = 250(10) K
+for Y2Ba4Cu7O15 and 270(10) K for YBa2Cu4O8.
+
+We like to stress that we have restricted our discussion of relaxation
+and Knight shift data to the previous two models only simply for the
+fact that Eqs. (13)-(15) contain parameters easely obtained by fitting
+the data. However, it is obvious that one cannot discriminate between
+these two models on the basis of our NMR experiments only.
+
+## VI Summary
+
+We have reported the first observation of Cu NQR-NMR in Y2Ba4Cu7O15. In
+zero magnetic field we have measured the temperature dependence of the
+copper NQR frequency and spin-lattice relaxation at all four chemically
+inequivalent copper sites. In a 9.03 T magnetic field applied parallel
+and perpendicular to the **c** axis of an oriented powder sample, we
+have determined the temperature dependence of the copper magnetic shift
+at the two inequivalent plane copper sites.
+
+The Y2Ba4Cu7O15 compound turns out to be a structure containing two
+inequivalent CuO2 planes of differing doping levels. Thus, Y2Ba4Cu7O15
+is the first double-plane cuprate where the interplane coupling could be
+accessed by Cu NMR-NQR studies.
+
+In the normal conducting state, both the static and the dynamic electron
+spin susceptibilities of the individual planes of a double plane are
+governed by the _same_ temperature dependence. This means a common spin
+dynamics in both planes, and hence these planes must be strongly
+coupled. The estimated lower limit of the corresponding interplane
+coupling is not much less than 30 meV. Although the planes are strongly
+coupled, their spin susceptibilities retain a distinct q dependence. The
+temperature dependence itself is typical for an underdoped high-_T_c
+compound.
+
+Below _T_c, the common temperature dependence is lost, which could arise
+from the opening of two superconducting gaps that differ in the
+individual planes, thus manifesting the different plane charge carrier
+densities of the 1-2-4 and 1-2-3 blocks.
+
+Two models were used to fit the experimental data in the normal
+conducting phase. The temperature variation of both the relaxation rate
+and the Knight shift at planar sites can be described as the effect of
+the opening of a spin gap yielding spin-gap values of 240 K and 150 K at
+wave vectors _Q_AF = ($\frac{\pi}{a}$, $\frac{\pi}{a}$) and q = (0,0),
+respectively. The corresponding values for YBa2Cu4O8 are
+$\Delta_{\rm AF}$ = 260 K and Δ₀ = 210 K.
+
+Applying the "frustrated phase separation" model due to Emery and
+Kivelson to the planar Cu relaxation in
+
+Figure 9: The fits of Eq. (13) (dashed lines) and of Eq. (15) (dotted
+lines) to the measured Cu(2) (open circles) and Cu(3) (filled circles)
+relaxation rates in Y2Ba4Cu7O15. The parameters (for both sites) are
+Δ_AF = 240 K and α = 1.25 for Eq. (13) and _ω__g_ = 250 K for Eq. (15).
+
+Y₂Ba₄Cu₇O₁₅ yields 250 K for the large-amplitude low-energy ω_(g)
+fluctuations of the local hole density. Since both models allow fits
+that remain well in the limits of the experimental error bars, a
+discrimination of these models on the basis of presently available
+experimental data is not possible.
+
+###### Acknowledgements.
+
+We thank Ivo Heinmaa for many useful discussions and for the NMR
+measurements at 11.7 T. Financial support by the Swiss National Science
+Foundation is gratefully acknowledged.
+
+## References
+
+* [1] C. H. Pennington and C. H. Slichter, in _Physical Properties of
+High Temperature Superconductors II_ , edited by D. M. Ginsberg (World
+Scientific, New York, 1990). * [2] Appl. Magn. Reson. **3**, 383 (1992).
+A special issue containing contributions of NMR-NQR work in cuprate
+superconductors. * Basic Principles and Progress_, edited by P. Diehl,
+E. Fluck, H. Gunther, R. Kosfeld, and J. Seelig (Springer, Berlin,
+1994), Vol. 31, p. 171. * [4] P. W. Anderson, Science **256**, 1526
+(1992). * [5] H. Zimmermann, M. Mali, D. Brinkmann, J. Karpinski, E.
+Kaldis, and S. Rusiecki, Physica C **159**, 681 (1989). * [6] H.
+Zimmermann, M. Mali, I. Mangelschots, J. Roos, L. Pauli, D. Brinkmann,
+J. Karpinski, S. Rusiecki, and E. Kaldis, J. Less-Common Note.
+**164-165**, 138 (1990). * [7] I. Mangelschots, M. Mali, J. Roos, D.
+Brinkmann, S. Rusiecki, J. Karpinski, and E. Kaldis, Physica C **194**,
+277 (1992). * [8] M. Bankay, M. Mali, J. Roos, I. Mangelschots, and D.
+Brinkmann, Phys. Rev. B **46**, 11 228 (1992). * [9] D. Brinkmann, Z.
+Naturforsch. Teil A **47**, 1 (1992). * [10] I. Mangelschots, M. Mali,
+J. Roos, R. Stern, M. Bankay, A. Lombardi, and D. Brinkmann, in _Phase
+Separation in Cuprate Superconductors_, edited by K. A. Muller and G.
+Benedek (World Scientific, Singapore, 1993), p. 262. * [11] J.
+Karpinski, E. Kaldis, E. Jilek, S. Rusiecki, and B. Bucher, Nature
+**336**, 660 (1988). * [12] D. Brinkmann, Proceedings of the 2nd
+International Discussion Meeting on Relaxation in Complex Systems,
+Alicante, 1993 [J. Non-Cryst. Solids (to be published)]. * [13] P.
+Bordet, C. Chaillout, J. Chenavas, J. Hodeau, M. Marezio, J. Karpinski,
+and E. Kaldis, Nature **334**, 596 (1988). * [14] J. Karpinski and E.
+Kaldis, Nature **331**, 242 (1988). * [15] K. Koyama, A. Junod, T. Graf,
+G. Triscone, and J. Muller, Physica C **185-189**, 461 (1991). * [16]
+J.-Y. Genoud, T. Graf, A. Junod, D. Sanchez, G. Triscone, and J. Muller,
+Physica C **177**, 315 (1991). * [17] H. Schwer, E. Kaldis, J.
+Karpinski, and C. Rossel, Physica C **211**, 165 (1993). * [18] J.
+Rossat-Mignod, L. P. Regnault, C. Vettier, P. Bourges, P. Burlet, J.
+Bossy, J. Y. Henry, and G. Lapertot, Physica B **180-181**, 383
+(1992). * [19] J. M. Tranquada, P. M. Gehring, G. Shirane, S. Shamoto,
+and M. Sato, Phys. Rev. B **46**, 5561 (1992). * [20] H. A. Mook, M.
+Yethiraj, G. Aeppli, T. E. Mason, and T. Armstrong, Phys. Rev. Lett.
+**70**, 3490 (1993). * [21] A. W. Hewat, P. Fischer, E. Kaldis, E. A.
+Hewat, E. Jilek, J. Karpinski, and S. Rusiecki, J. Less-Common Met.
+**164-165**, 39 (1990). * [22] A. Abragam, _The Principles of Nuclear
+Magnetism_ (Clarendon, Oxford, 1961). * [23] M. E. Garcia and K. H.
+Bennemann, Phys. Rev. B **40**, 8809 (1989). * [24] T. Moriya, J. Phys.
+Soc. Jpn. **18**, 516 (1963). * [25] J.-Y. Genoud, T. Graf, G. Triscone,
+A. Junod, and J. Muller, Physica C **192**, 137 (1992). * [26] K.
+Muller, M. Mali, J. Roos, and D. Brinkmann, Physica C **162-164**, 173
+(1989). * [27] M. Mali, I. Mangelschots, H. Zimmermann, and D.
+Brinkmann, Physica C **175**, 581 (1991). * [28] C. H. Pennington, Ph.D.
+thesis, University of Illinois, 1989. * [29] M. Mali, D. Brinkmann, L.
+Pauli, J. Roos, H. Zimmermann, and J. Hulliger, Phys. Lett. A **124**,
+112 (1987). * [30] H. Schiefer, M. Mali, J. Roos, H. Zimmermann, and D.
+Brinkmann, Physica C **162-164**, 173 (1989). * [31] C. H. Pennington,
+D. J. Durand, C. P. Slichter, J. P. Rice, E. D. Bukowski, and D. M.
+Ginsberg, Phys. Rev. B **39**, 2902 (1989). * [32] M. H. Cohen and F.
+Reif, Solid State Phys. **5**, 321 (1957). * [33] S. E. Barrett, D. J.
+Durand, C. H. Pennington, C. P. Slichter, T. A. Friedmann, J. P. Rice,
+and D. M. Ginsberg, Phys. Rev. B **41**, 6283 (1990). * [34] R. E.
+Walstedt, R. F. Bell, L. F. Schneemeyer, J. V. Waszczak, and G. P.
+Espinosa, Phys. Rev. B **45**, 8074 (1992). * [35] W. W. Warren, Jr., R.
+E. Walstedt, G. F. Brennert, P. J. Cava, B. Batlogg, and L. W. Rupp,
+Phys. Rev. B **39**, 831 (1989). * [36] I. Heinmaa, H. Lutgemeier, S.
+Pekker, G. Krabbes, and M. Buchgeister, Appl. Magn. Res. **3**, 689
+(1992). * [37] T. Imai, C. P. Slichter, K. Yoshimura, and K. Kosuge,
+Phys. Rev. Lett. **70**, 1002 (1993). * [38] P. Mendels and H. Alloul,
+Physica C **156**, 355 (1988). This value is calculated via exact
+diagonalization of the Hamiltonian using zero field NMR data at 4.2 K.
+We assume that the frequency changes negligibly with temperature. * [39]
+T. Graf, G. Triscone, and J. Muller, J. Less-Common Met. **159**, 349
+(1990). * [40] R. Stern (unpublished). * [41] G. Shirane, Physica C
+**185-189**, 80 (1991). * [42] C. Berthier, Y. Berthier, P. Butaud, W.
+G. Clark, J. A. Gillet, M. Horvatic, P. Segransan, and J. Y. Henry,
+Appl. Magn. Res. **3**, 449 (1992). * [43] M. Takigawa, A. P. Reyes, P.
+C. Hammel, J. D. Thompson, R. F. Heffner, Z. Fisk, and K. C. Ott, Phys.
+Rev. B **43**, 247 (1991). * [44] A. P. Reyes, D. E. MacLaughlin, M.
+Takigawa, P. C. Hammel, R. H. Heffner, J. D. Thompson, and J. E. Crow,
+Phys. Rev. B **43**, 2989 (1991). * [45] T. Shimizu, H. Yasuoka, T.
+Tsuda, K. Koga, and Y. Ueda, Bull. Magn. Res. **12**, 39 (1990). * [46]
+Y. Kitaoka, K. Ishida, S. Ohsugi, K. Fujiwara, G.-q. Zheng, and K.
+Asayama, Appl. Magn. Res. **3**, 549 (1992). * [47] T. Imai, J. Phys.
+Soc. Jpn. **59**, 2508 (1990). * [48] H. Zimmermann, Ph.D. thesis,
+University of Zurich, 1991. * [49] P. W. Anderson, in _Strong
+Correlation and Superconductivity_, edited by H. Fukuyama, S. Maekawa,
+and A. P. Malozemoff (Springer-Verlag, Berlin, 1989). * [50] P. L.
+Altshuler and L. B. Ioffe, Solid State Commun. **82**, 253 (1992). *
+[51] N. Bulut, D. J. Scalapino, and R. T. Scalettar, Phys. Rev. B
+**45**, 5577 (1992). * [52] E. Dagotto, J. Riera, and D. J. Scalapino,
+Phys. Rev. B **45**, 5744 (1992). * [53] I. Morgenstern, Th. Husslein,
+J. M. Singer, and H.-G. Matuttis, J. Phys. II (France) **2**, 1489
+(1992). * [54] E. N. van Ennige, R. Griessen, K. Heeck, H. G. Schnack,
+R. J. Wijngaarden, J.-Y. Genoud, T. Graf, A. Junod, and J. Muller,
+Europhys. Lett. **20**, 41 (1992). * [55] A. J. Millis and H. Monien
+(unpublished); L. B. Ioffe, A. I. Larkin, A. J. Millis, and P. L.
+Altshuler (unpublished); M. U. Ubbens and P. A. Lee (unpublished). *
+[56] J. R. Rice, J. Giapintzakis, D. M. Ginsberg, and J. M. Mochel,
+Phys. Rev. B **44**, 10 158 (1991). * [57] A. J. Millis, H. Monien, and
+D. Pines, Phys. Rev. B **42**, 167 (1990); H. Monien, D. Pines, and M.
+Takigawa, _ibid._**43**, 258 (1991). * [58] A. J. Millis and H. Monien,
+Phys. Rev. B **45**, 3059 (1992). * [59] T. M. Rice, in _The Physics and
+Chemistry of Oxide Superconductors_, edited by Y. Iye (Springer-Verlag,
+Tokyo, 1992). * [60] J. Rossat-Mignod, L. P. Regnault, C. Vettier, P.
+Burlet, J. Y. Henry, and G. Lapertot, Physica B **169**, 58 (1991). *
+[61] M. Mehring, Appl. Magn. Res. **3**, 383 (1992). * [62] N. Winzek,
+Hj. Mattausch, S.-G. Eriksson, C. Strom, R. K. Kremer, A. Simon, and M.
+Mehring, Physica C **205**, 45 (1993). * [63] V. J. Emery and S. A.
+Kivelson, in _Phase Separation in Cuprate Superconductors_, edited by K.
+A. Muller and G. Benedek (World Scientific, Singapore, 1993).

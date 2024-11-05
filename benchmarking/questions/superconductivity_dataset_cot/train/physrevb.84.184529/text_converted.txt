@@ -1,0 +1,1459 @@
+# Structure and superconductivity of two different phases of Re₃W
+
+P. K. Biswas,^(1, *) M. R. Lees,¹ A. D. Hillier,² R. I. Smith,² W. G.
+Marshall,² and D. McK. Paul¹
+
+¹Physics Department, University of Warwick, Coventry, CV4 7AL, United
+Kingdom ²ISIS Facility, Science and Technology Facilities Council,
+Rutherford Appleton Laboratory, Chilton, Oxfordshire, OX11 0QX, United
+Kingdom
+
+###### Abstract
+
+Two superconducting phases of Re₃W have been found with different
+physical properties. One phase crystallizes in a noncentrosymmetric
+cubic (α-Mn) structure and has a superconducting transition temperature
+T_(c) of 7.8 K. The other phase has a hexagonal centrosymmetric
+structure and is superconducting with a T_(c) of 9.4 K. Switching
+between the two phases is possible by annealing the sample or remelting
+it. The properties of both phases of Re₃W have been characterized by
+powder neutron diffraction, magnetization, and resistivity measurements.
+The temperature dependences of the lower and upper critical fields have
+been measured for both phases. These are used to determine the
+penetration depths and the coherence lengths for these systems.
+
+DOI: 10.1103/PhysRevB.84.184529
+
+PACS number(s): 74.70.Ad, 74.25.fc, 74.25.Op, 74.25.Ha
+
+## I Introduction
+
+The discovery of superconductivity in the noncentrosymmetric (NCS) heavy
+fermion CePt₃Si (Ref. [1]) has resulted in a period of intense
+theoretical and experimental investigation into the physics of
+noncentrosymmetric superconducting materials. The lack of inversion
+symmetry in the crystal structure of this type of material along with
+strong spin-orbit (SO) coupling can lead to a mixing of spin-singlet and
+spin-triplet pair states.[2] These NCS materials exhibit unusual
+magnetic properties including suppressed paramagnetic limiting or high
+upper critical fields [3, 4] as seen in CePt₃Si,[1] CeRhSi₃,[5] and
+CeIrSi₃,[6] the appearance of superconductivity with antiferromagnet
+order in CePt₃Si,[7] and superconductivity at the border of
+ferromagnetism in UIr.[8]
+
+One recent focus of the work on noncentrosymmetric superconductors has
+been to investigate the properties of transition-metal compounds that
+have a significant spin-orbit coupling. Here, the complications of the
+f-electron heavy fermions, such as the strong electron correlations and
+the possibility of magnetically mediated superconductivity, are expected
+to be absent. The intermetallic Re₃W belongs in this category since it
+contains heavy atoms with atomic numbers 75 and 74 for Re and W,
+respectively. Superconductivity in Re₃W was first reported in the
+1960’s. The material was shown to have a cubic α-Mn structure,[9, 10]
+although it is worth noting that the authors of this early work did not
+comment on the fact that the α-Mn structure is noncentrosymmetric. Since
+then, very little experimental work has been done on Re₃W. Recent
+penetration depth measurements carried out on the NCS phase of Re₃W by
+rf tunnel diode resonator and point-contact spectroscopy suggested that
+Re₃W is a weakly coupled isotropic s-wave superconductor.[11, 12, 13]
+
+In this paper, we report on the synthesis of two different
+superconducting phases of Re₃W. One phase has a centrosymmetric (CS)
+crystal structure, whereas the other has a noncentrosymmetric structure.
+Switching from the CS to the NCS phase is achieved by annealing the
+sample, while remelting the NCS sample in an arc furnace returns the
+sample to the CS structure. The ease with which one can switch between
+the two phases of Re₃W has allowed us to investigate and compare the
+properties of a CS and a NCS superconducting system using a single
+material without changes in stoichiometry. We characterize the
+properties of both phases of Re₃W using neutron diffraction,
+magnetization M, and resistivity ρ measurements. We present the
+temperature dependence of the lower critical field, H_(c1), and the
+upper critical field, H_(c2), of both materials and also calculate the
+penetration depths and coherence lengths for these systems.
+
+## II Sample preparation
+
+Samples of the centrosymmetric phase of Re₃W were prepared by melting
+together a stoichiometric mixture of Re lumps (99.99
+
+## III Results and discussion
+
+### Powder neutron diffraction studies
+
+Time-of-flight powder neutron diffraction data were collected on the
+General Materials Diffractometer (GEM) at the ISIS facility in the
+Rutherford Appleton Laboratory, UK.[14] The data were normalized to the
+incident neutron flux distribution and corrected for detector
+efficiencies and detector solid angle coverage, with the diffraction
+patterns collected in the highest resolution backscattering detector
+bank (average 2θ = 154^(∘)) used for structure refinement. Crystal
+structures were refined by the Rietveld method using the expgui
+graphical interface for the gsas package.[15, 16] Figure 1 shows the
+diffraction patterns collected at 295 K from the annealed and unannealed
+samples of Re₃W. The Rietveld refinement shows that the annealed sample
+has a cubic NCS (α-Mn) structure (space group $I\bar{4}3m$) with a
+lattice parameter a = 9.5987(7) A [see Fig. 1(a)]. The diffraction
+pattern of the unannealed sample shows that this sample has a hexagonal
+structure with the CS space group P6₃/mmc and lattice parameters a =
+2.770(3) A and c = 4.5207(6) A [see Fig. 1(b)]. The diffraction patterns
+of both phases of Re₃W contain some peaks (denoted by asterisks) that
+cannot be indexed, and these regions were excluded during the final
+stages of structure refinement. Insets of Figs. 1(a) and 1(b) show the
+crystal structures of the NCS and the CS phases of Re₃W. For the CS
+phase of Re₃W, both the Re and the W atoms share the same site, leading
+to a random distribution of Re and W within the material. For the NCS
+phase, the refinement indicates that Re and the W atoms occupy preferred
+crystallographic sites and are therefore distributed in a more orderly
+fashion within the material. The refined composition of the NCS phase is
+not stoichiometric indicating there is still some uncertainty in the
+site occupation. Crystallographic parameters of the two phases of Re₃W
+are shown in Tables 1 and 2.
+
+### Magnetization and resistivity measurements
+
+Magnetization measurements were made as a function temperature in an
+applied magnetic field of 20 Oe using a Quantum Design Magnetic Property
+Measurement System (MPMS) magnetometer. The temperature dependence of
+the dc magnetic susceptibility, $\chi_{\rm dc}(T)$, shows that the NCS
+Re₃W sample has a superconducting transition temperature,
+$T_{c}^{\rm onset}$, of 7.8 K (see Fig. 2) with a transition width
+ΔT_(c) = 0.21 K. For CS Re₃W, the onset of the transition is around 9.4
+K with a much broader transition of ΔT_(c) = 0.50 K. Comparable
+transition widths are observed in the resistivity measurements (see
+below). This suggests, as expected, that the annealed NCS phase of Re₃W
+is more ordered than the unannealed CS phase. At 2 K, the
+zero-field-cooled (ZFC) dc susceptibility approaches a value of −1 (∼100
+
+The ac electrical resistivity was measured as a function of temperature,
+ρ(T), for both phases of Re₃W via a standard four-probe method using a
+Quantum Design Physical Property Measurement System (PPMS) (see Fig. 3).
+The NCS Re₃W shows a superconducting transition (onset) at 7.85 K
+(ΔT_(c) = 0.05 K) while the CS Re₃W has a transition at 9.45 K
+(ΔT_(c) = 0.32 K). The zero-field onset transition temperatures
+determined from the resistivity measurements are slightly higher than
+those obtained from the magnetization measurements performed in 20 Oe.
+
+  ---------------------------------- ----------- -----------
+                                      NCS Re₃W     CS Re₃W
+  Structure                             Cubic     Hexagonal
+  Space group                          _143m_     P6₃/_mmc_
+  a (Å)                               9.5987(7)   2.770(3)
+  c (Å)                                           4.5207(6)
+  Cell volume, $V_{\rm cell}$ (Å³)    884.37(2)   30.04(5)
+  Profile factor, R_(p)                 0.049       0.077
+  Weighted profile factor, wR_(p)      0.0697        0.1
+  ---------------------------------- ----------- -----------
+
+Table 1: Lattice parameters of the noncentrosymmetric and
+centrosymmetric phases of Re₃W determined from a structural refinement
+using the gsas package of powder neutron diffraction data collected at
+295 K.
+
+Figure 1: (Color online) Neutron diffraction patterns as a function of
+_d_-spacing collected at 295 K for the annealed and unannealed samples
+of Re₃W. The experimental data (crosses) are shown along with the
+calculated pattern obtained from a Rietveld refinement of the structure
+and a difference curve. The ticks indicate positions of the nuclear
+Bragg peaks. The green asterisks mark the positions of impurity peaks.
+The Rietveld refinement shows that the annealed sample has a
+noncentrosymmetric cubic structure while the unannealed sample has a
+centrosymmetric hexagonal structure. Insets show the crystal structures
+of the two phases, with the Re atoms shown in red (light gray) and the W
+atoms shown in blue (dark gray).
+
+Figure 2: (Color online) Temperature dependence of the magnetic
+susceptibility for the noncentrosymmetric and the centrosymmetric Re₃W
+measured in zero-field-cooled and field-cooled mode in an applied
+magnetic field of 20 Oe.
+
+between 2 and 295 K show metallic behavior for the CS phase of Re₃W,
+whereas it is almost temperature independent above T_(c) in the NCS
+phase of Re₃W (see the inset of Fig. 3). The relative resistance ratio
+ρ(295K)/ρ(10K) and the room temperature resistivity are 1.15(1) and
+1.7μΩ m for the NCS phase and 1.52(1) and 2.1μΩ m for the CS phase,
+indicating that both samples are poor metals. The NCS phase is the more
+brittle of the two materials and any extrinsic factors such as
+microscopic cracks in the sample are more likely to play a role in this
+material. Given that the room temperature resistivity of the NCS sample
+is lower than the CS phase we suggest that cracks are not the reason for
+the high normal-state resistivity. The poor conductivity is more likely
+to result from a combination of strong electronic scattering and a large
+temperature-independent residual resistivity due to structural disorder
+(while the NCS annealed phase is structurally more ordered than the CS
+phase, the NCS phase still retains a degree of Re/W disorder). We have
+calculated the mean free path, l_(tr), based on the BCS approach [17]
+using the room temperature resistivity data. The calculations yield
+l_(tr)^(NCS) = 0.277 nm and l_(tr)^(CS) = 0.224 nm. These values are
+comparable with the size of the crystallographic unit cells and given
+the coherence lengths ξ, derived below, indicate that both phases of
+Re₃W are in the dirty limit.
+
+Figures 4(a) and 4(b) show the low-field virgin magnetization data for
+the NCS and CS phases of Re₃W at 1.8 K and Figs. 5(a) and 5(b) show the
+full magnetization versus applied magnetic field loops collected in the
+superconducting state at 1.8 K. For the NCS sample the raw M(H) data
+contain a significant paramagnetic contribution. This contribution
+
++:--------+:-------:+:-------:+:-------:+:-------:+:-------:+:-------:+
+| NCS     | Re₃W    |         |         |         |         |         |
++---------+---------+---------+---------+---------+---------+---------+
+| Atom    | Site    | x       | y       | z       | Occ.    | U_(iso) |
+|         |         |         |         |         |         | (Å²)    |
++---------+---------+---------+---------+---------+---------+---------+
+| Re      | 2a      | 0       | 0       | 0       | 0.99(4) | 0       |
+|         |         |         |         |         |         | .070(5) |
++---------+---------+---------+---------+---------+---------+---------+
+| W       | 8c      | 0.      | 0.      | 0.      | 1.00    | 0.      |
+|         |         | 3192(3) | 3192(3) | 3192(3) |         | 0068(7) |
++---------+---------+---------+---------+---------+---------+---------+
+| W       | 24g     | 0.      | 0.      | 0.      | 0.21(2) | 0.      |
+|         |         | 3605(1) | 3605(1) | 0455(1) |         | 0090(3) |
++---------+---------+---------+---------+---------+---------+---------+
+| Re      | 24g     | 0.      | 0.3 has | NCS     | CS Re₃W |         |
+|         |         | 3605(1) | been    | Re₃W    |         |         |
+|         |         |         | removed |         |         |         |
+|         |         |         | from    |         |         |         |
+|         |         |         | the     |         |         |         |
+|         |         |         | data    |         |         |         |
+|         |         |         | shown   |         |         |         |
+|         |         |         | in Fig. |         |         |         |
+|         |         |         | 5(a) by |         |         |         |
+|         |         |         | me      |         |         |         |
+|         |         |         | asuring |         |         |         |
+|         |         |         | an M(H) |         |         |         |
+|         |         |         | curve   |         |         |         |
+|         |         |         | above   |         |         |         |
+|         |         |         | T_(c)   |         |         |         |
+|         |         |         | at 10 K |         |         |         |
+|         |         |         | [see    |         |         |         |
+|         |         |         | inset   |         |         |         |
+|         |         |         | of Fig. |         |         |         |
+|         |         |         | 5(a)].  |         |         |         |
+|         |         |         | The     |         |         |         |
+|         |         |         | signal  |         |         |         |
+|         |         |         | for the |         |         |         |
+|         |         |         | CS      |         |         |         |
+|         |         |         | sample  |         |         |         |
+|         |         |         | c       |         |         |         |
+|         |         |         | ontains |         |         |         |
+|         |         |         | a small |         |         |         |
+|         |         |         | linear  |         |         |         |
+|         |         |         | suscept |         |         |         |
+|         |         |         | ibility |         |         |         |
+|         |         |         | $\chi_  |         |         |         |
+|         |         |         | {\rm dc |         |         |         |
+|         |         |         | }=3.53\ |         |         |         |
+|         |         |         | times 1 |         |         |         |
+|         |         |         | 0^{-3}$ |         |         |         |
+|         |         |         | emu/mol |         |         |         |
+|         |         |         | [see    |         |         |         |
+|         |         |         | inset   |         |         |         |
+|         |         |         | of Fig. |         |         |         |
+|         |         |         | 5(b)]   |         |         |         |
+|         |         |         | that    |         |         |         |
+|         |         |         | has     |         |         |         |
+|         |         |         | been    |         |         |         |
+|         |         |         | sub     |         |         |         |
+|         |         |         | tracted |         |         |         |
+|         |         |         | from    |         |         |         |
+|         |         |         | the     |         |         |         |
+|         |         |         | data    |         |         |         |
+|         |         |         | shown   |         |         |         |
+|         |         |         | in      |         |         |         |
+|         |         |         | figure  |         |         |         |
+|         |         |         | 5(b).   |         |         |         |
+|         |         |         | For the |         |         |         |
+|         |         |         | NCS     |         |         |         |
+|         |         |         | sample, |         |         |         |
+|         |         |         | the     |         |         |         |
+|         |         |         | value   |         |         |         |
+|         |         |         | of      |         |         |         |
+|         |         |         | $H_{    |         |         |         |
+|         |         |         | \rm P}$ |         |         |         |
+|         |         |         | (c      |         |         |         |
+|         |         |         | omplete |         |         |         |
+|         |         |         | pene    |         |         |         |
+|         |         |         | tration |         |         |         |
+|         |         |         | of the  |         |         |         |
+|         |         |         | m       |         |         |         |
+|         |         |         | agnetic |         |         |         |
+|         |         |         | field)  |         |         |         |
+|         |         |         | is 152  |         |         |         |
+|         |         |         | Oe,     |         |         |         |
+|         |         |         | while   |         |         |         |
+|         |         |         | in the  |         |         |         |
+|         |         |         | CS      |         |         |         |
+|         |         |         | sample, |         |         |         |
+|         |         |         | $H      |         |         |         |
+|         |         |         | _{\rm P |         |         |         |
+|         |         |         | }>2500$ |         |         |         |
+|         |         |         | Oe. For |         |         |         |
+|         |         |         | the NCS |         |         |         |
+|         |         |         | phase   |         |         |         |
+|         |         |         | of Re₃W |         |         |         |
+|         |         |         | the     |         |         |         |
+|         |         |         | magnet  |         |         |         |
+|         |         |         | ization |         |         |         |
+|         |         |         | is      |         |         |         |
+|         |         |         | rev     |         |         |         |
+|         |         |         | ersible |         |         |         |
+|         |         |         | all the |         |         |         |
+|         |         |         | way     |         |         |         |
+|         |         |         | from 70 |         |         |         |
+|         |         |         | kOe,    |         |         |         |
+|         |         |         | the     |         |         |         |
+|         |         |         | highest |         |         |         |
+|         |         |         | field   |         |         |         |
+|         |         |         | that we |         |         |         |
+|         |         |         | can     |         |         |         |
+|         |         |         | apply   |         |         |         |
+|         |         |         | in our  |         |         |         |
+|         |         |         | magnet  |         |         |         |
+|         |         |         | ometer, |         |         |         |
+|         |         |         | down to |         |         |         |
+|         |         |         | 10 kOe. |         |         |         |
+|         |         |         | We      |         |         |         |
+|         |         |         | presume |         |         |         |
+|         |         |         | that    |         |         |         |
+|         |         |         | the     |         |         |         |
+|         |         |         | magnet  |         |         |         |
+|         |         |         | ization |         |         |         |
+|         |         |         | will    |         |         |         |
+|         |         |         | remain  |         |         |         |
+|         |         |         | rev     |         |         |         |
+|         |         |         | ersible |         |         |         |
+|         |         |         | up to   |         |         |         |
+|         |         |         | the     |         |         |         |
+|         |         |         | upper   |         |         |         |
+|         |         |         | c       |         |         |         |
+|         |         |         | ritical |         |         |         |
+|         |         |         | field,  |         |         |         |
+|         |         |         | es      |         |         |         |
+|         |         |         | timated |         |         |         |
+|         |         |         | from    |         |         |         |
+|         |         |         | the     |         |         |         |
+|         |         |         | res     |         |         |         |
+|         |         |         | istance |         |         |         |
+|         |         |         | measu   |         |         |         |
+|         |         |         | rements |         |         |         |
+|         |         |         | pr      |         |         |         |
+|         |         |         | esented |         |         |         |
+|         |         |         | below   |         |         |         |
+|         |         |         | to be   |         |         |         |
+|         |         |         | 113 kOe |         |         |         |
+|         |         |         | at      |         |         |         |
+|         |         |         | T = 1.8 |         |         |         |
+|         |         |         | K. In   |         |         |         |
+|         |         |         | co      |         |         |         |
+|         |         |         | ntrast, |         |         |         |
+|         |         |         | the     |         |         |         |
+|         |         |         | magnet  |         |         |         |
+|         |         |         | ization |         |         |         |
+|         |         |         | of the  |         |         |         |
+|         |         |         | CS      |         |         |         |
+|         |         |         | sample  |         |         |         |
+|         |         |         | only    |         |         |         |
+|         |         |         | becomes |         |         |         |
+|         |         |         | rev     |         |         |         |
+|         |         |         | ersible |         |         |         |
+|         |         |         | in      |         |         |         |
+|         |         |         | m       |         |         |         |
+|         |         |         | agnetic |         |         |         |
+|         |         |         | fields  |         |         |         |
+|         |         |         | above   |         |         |         |
+|         |         |         | 40 kOe  |         |         |         |
+|         |         |         | [with   |         |         |         |
+|         |         |         | H       |         |         |         |
+|         |         |         | _(c2)(T |         |         |         |
+|         |         |         |  = 1.8K |         |         |         |
+|         |         |         | ) ≈ 130 |         |         |         |
+|         |         |         | kOe].   |         |         |         |
+|         |         |         | For     |         |         |         |
+|         |         |         | lower   |         |         |         |
+|         |         |         | fields  |         |         |         |
+|         |         |         | the     |         |         |         |
+|         |         |         | hys     |         |         |         |
+|         |         |         | teresis |         |         |         |
+|         |         |         | loops   |         |         |         |
+|         |         |         | of the  |         |         |         |
+|         |         |         | CS      |         |         |         |
+|         |         |         | sample  |         |         |         |
+|         |         |         | contain |         |         |         |
+|         |         |         | a       |         |         |         |
+|         |         |         | number  |         |         |         |
+|         |         |         | of      |         |         |         |
+|         |         |         | large   |         |         |         |
+|         |         |         | magnet  |         |         |         |
+|         |         |         | ic-flux |         |         |         |
+|         |         |         | jumps,  |         |         |         |
+|         |         |         | while   |         |         |         |
+|         |         |         | no      |         |         |         |
+|         |         |         | jumps   |         |         |         |
+|         |         |         | are     |         |         |         |
+|         |         |         | o       |         |         |         |
+|         |         |         | bserved |         |         |         |
+|         |         |         | for the |         |         |         |
+|         |         |         | a       |         |         |         |
+|         |         |         | nnealed |         |         |         |
+|         |         |         | s       |         |         |         |
+|         |         |         | amples. |         |         |         |
+|         |         |         | These   |         |         |         |
+|         |         |         | flux    |         |         |         |
+|         |         |         | jumps   |         |         |         |
+|         |         |         | occur   |         |         |         |
+|         |         |         | at      |         |         |         |
+|         |         |         | lower   |         |         |         |
+|         |         |         | tempe   |         |         |         |
+|         |         |         | ratures |         |         |         |
+|         |         |         | (T ≲ 4  |         |         |         |
+|         |         |         | K) and  |         |         |         |
+|         |         |         | at      |         |         |         |
+|         |         |         | applied |         |         |         |
+|         |         |         | fields  |         |         |         |
+|         |         |         | below   |         |         |         |
+|         |         |         | ∼20     |         |         |         |
+|         |         |         | kOe.    |         |         |         |
+|         |         |         | The     |         |         |         |
+|         |         |         | number  |         |         |         |
+|         |         |         | and     |         |         |         |
+|         |         |         | ma      |         |         |         |
+|         |         |         | gnitude |         |         |         |
+|         |         |         | of the  |         |         |         |
+|         |         |         | flux    |         |         |         |
+|         |         |         | jumps   |         |         |         |
+|         |         |         | vary    |         |         |         |
+|         |         |         | from    |         |         |         |
+|         |         |         | loop to |         |         |         |
+|         |         |         | loop    |         |         |         |
+|         |         |         | and     |         |         |         |
+|         |         |         | become  |         |         |         |
+|         |         |         | less    |         |         |         |
+|         |         |         | f       |         |         |         |
+|         |         |         | requent |         |         |         |
+|         |         |         | as the  |         |         |         |
+|         |         |         | field   |         |         |         |
+|         |         |         | s       |         |         |         |
+|         |         |         | weeping |         |         |         |
+|         |         |         | rate,   |         |         |         |
+|         |         |         | dH/dt,  |         |         |         |
+|         |         |         | is      |         |         |         |
+|         |         |         | de      |         |         |         |
+|         |         |         | creased |         |         |         |
+|         |         |         | (data   |         |         |         |
+|         |         |         | not     |         |         |         |
+|         |         |         | shown). |         |         |         |
+|         |         |         | At 5 K  |         |         |         |
+|         |         |         | with    |         |         |         |
+|         |         |         | (dH/    |         |         |         |
+|         |         |         | dt ≤ 10 |         |         |         |
+|         |         |         | Oe/s)   |         |         |         |
+|         |         |         | no flux |         |         |         |
+|         |         |         | jumps   |         |         |         |
+|         |         |         | are     |         |         |         |
+|         |         |         | o       |         |         |         |
+|         |         |         | bserved |         |         |         |
+|         |         |         | and at  |         |         |         |
+|         |         |         | higher  |         |         |         |
+|         |         |         | tempe   |         |         |         |
+|         |         |         | ratures |         |         |         |
+|         |         |         | (5 K    |         |         |         |
+|         |         |         |  < T <  |         |         |         |
+|         |         |         |  T_(c)) |         |         |         |
+|         |         |         | the     |         |         |         |
+|         |         |         | flux    |         |         |         |
+|         |         |         | jumps   |         |         |         |
+|         |         |         | dis     |         |         |         |
+|         |         |         | appear. |         |         |         |
+|         |         |         |         |         |         |         |
+|         |         |         | The     |         |         |         |
+|         |         |         | M(H)    |         |         |         |
+|         |         |         | curves  |         |         |         |
+|         |         |         | show    |         |         |         |
+|         |         |         | that    |         |         |         |
+|         |         |         | both    |         |         |         |
+|         |         |         | Re₃W    |         |         |         |
+|         |         |         | phases  |         |         |         |
+|         |         |         | exhibit |         |         |         |
+|         |         |         | rev     |         |         |         |
+|         |         |         | ersible |         |         |         |
+|         |         |         | b       |         |         |         |
+|         |         |         | ehavior |         |         |         |
+|         |         |         | below   |         |         |         |
+|         |         |         | T_(c)   |         |         |         |
+|         |         |         | over a  |         |         |         |
+|         |         |         | large   |         |         |         |
+|         |         |         | region  |         |         |         |
+|         |         |         | of the  |         |         |         |
+|         |         |         | H-T     |         |         |         |
+|         |         |         | phase   |         |         |         |
+|         |         |         | d       |         |         |         |
+|         |         |         | iagram. |         |         |         |
+|         |         |         | These   |         |         |         |
+|         |         |         | data    |         |         |         |
+|         |         |         | i       |         |         |         |
+|         |         |         | ndicate |         |         |         |
+|         |         |         | that    |         |         |         |
+|         |         |         | the     |         |         |         |
+|         |         |         | bulk    |         |         |         |
+|         |         |         | pinning |         |         |         |
+|         |         |         | is      |         |         |         |
+|         |         |         | s       |         |         |         |
+|         |         |         | tronger |         |         |         |
+|         |         |         | in the  |         |         |         |
+|         |         |         | CS      |         |         |         |
+|         |         |         | phase   |         |         |         |
+|         |         |         | of Re₃W |         |         |         |
+|         |         |         | than in |         |         |         |
+|         |         |         | the NCS |         |         |         |
+|         |         |         | phase,  |         |         |         |
+|         |         |         | and     |         |         |         |
+|         |         |         | that    |         |         |         |
+|         |         |         | the     |         |         |         |
+|         |         |         | flux    |         |         |         |
+|         |         |         | jumps   |         |         |         |
+|         |         |         | are due |         |         |         |
+|         |         |         | to      |         |         |         |
+|         |         |         | thermom |         |         |         |
+|         |         |         | agnetic |         |         |         |
+|         |         |         | instab  |         |         |         |
+|         |         |         | ilities |         |         |         |
+|         |         |         | induced |         |         |         |
+|         |         |         | by the  |         |         |         |
+|         |         |         | motion  |         |         |         |
+|         |         |         | of      |         |         |         |
+|         |         |         | v       |         |         |         |
+|         |         |         | ortices |         |         |         |
+|         |         |         | into    |         |         |         |
+|         |         |         | the     |         |         |         |
+|         |         |         | superco |         |         |         |
+|         |         |         | nductor |         |         |         |
+|         |         |         | c       |         |         |         |
+|         |         |         | ombined |         |         |         |
+|         |         |         | with    |         |         |         |
+|         |         |         | the     |         |         |         |
+|         |         |         | sudden  |         |         |         |
+|         |         |         | redistr |         |         |         |
+|         |         |         | ibution |         |         |         |
+|         |         |         | of the  |         |         |         |
+|         |         |         | v       |         |         |         |
+|         |         |         | ortices |         |         |         |
+|         |         |         | within  |         |         |         |
+|         |         |         | the     |         |         |         |
+|         |         |         | samp    |         |         |         |
+|         |         |         | le.[18] |         |         |         |
+|         |         |         | The     |         |         |         |
+|         |         |         | s       |         |         |         |
+|         |         |         | ymmetry |         |         |         |
+|         |         |         | of the  |         |         |         |
+|         |         |         | loops   |         |         |         |
+|         |         |         | s       |         |         |         |
+|         |         |         | uggests |         |         |         |
+|         |         |         | that    |         |         |         |
+|         |         |         | surface |         |         |         |
+|         |         |         | b       |         |         |         |
+|         |         |         | arriers |         |         |         |
+|         |         |         | do not  |         |         |         |
+|         |         |         | play an |         |         |         |
+|         |         |         | im      |         |         |         |
+|         |         |         | portant |         |         |         |
+|         |         |         | role in |         |         |         |
+|         |         |         | dete    |         |         |         |
+|         |         |         | rmining |         |         |         |
+|         |         |         | the     |         |         |         |
+|         |         |         | form of |         |         |         |
+|         |         |         | the     |         |         |         |
+|         |         |         | magnet  |         |         |         |
+|         |         |         | ization |         |         |         |
+|         |         |         | loops   |         |         |         |
+|         |         |         | in this |         |         |         |
+|         |         |         | ma      |         |         |         |
+|         |         |         | terial. |         |         |         |
+|         |         |         | Further |         |         |         |
+|         |         |         | studies |         |         |         |
+|         |         |         | are     |         |         |         |
+|         |         |         | u       |         |         |         |
+|         |         |         | nderway |         |         |         |
+|         |         |         | to      |         |         |         |
+|         |         |         | inve    |         |         |         |
+|         |         |         | stigate |         |         |         |
+|         |         |         | the     |         |         |         |
+|         |         |         | di      |         |         |         |
+|         |         |         | fferent |         |         |         |
+|         |         |         | pinning |         |         |         |
+|         |         |         | mec     |         |         |         |
+|         |         |         | hanisms |         |         |         |
+|         |         |         | in the  |         |         |         |
+|         |         |         | two     |         |         |         |
+|         |         |         | di      |         |         |         |
+|         |         |         | fferent |         |         |         |
+|         |         |         | phases  |         |         |         |
+|         |         |         | of      |         |         |         |
+|         |         |         | Re₃W.   |         |         |         |
+|         |         |         |         |         |         |         |
+|         |         |         | The     |         |         |         |
+|         |         |         | value   |         |         |         |
+|         |         |         | of the  |         |         |         |
+|         |         |         | lower   |         |         |         |
+|         |         |         | c       |         |         |         |
+|         |         |         | ritical |         |         |         |
+|         |         |         | field,  |         |         |         |
+|         |         |         | H_(c1), |         |         |         |
+|         |         |         | was     |         |         |         |
+|         |         |         | det     |         |         |         |
+|         |         |         | ermined |         |         |         |
+|         |         |         | by      |         |         |         |
+|         |         |         | me      |         |         |         |
+|         |         |         | asuring |         |         |         |
+|         |         |         | the     |         |         |         |
+|         |         |         | field   |         |         |         |
+|         |         |         | of      |         |         |         |
+|         |         |         | first   |         |         |         |
+|         |         |         | de      |         |         |         |
+|         |         |         | viation |         |         |         |
+|         |         |         | from    |         |         |         |
+|         |         |         | the     |         |         |         |
+|         |         |         | initial |         |         |         |
+|         |         |         | slope   |         |         |         |
+|         |         |         | of the  |         |         |         |
+|         |         |         | magnet  |         |         |         |
+|         |         |         | ization |         |         |         |
+|         |         |         | curve.  |         |         |         |
+|         |         |         | To this |         |         |         |
+|         |         |         | end, a  |         |         |         |
+|         |         |         | linear  |         |         |         |
+|         |         |         | fit to  |         |         |         |
+|         |         |         | the     |         |         |         |
+|         |         |         | data    |         |         |         |
+|         |         |         | between |         |         |         |
+|         |         |         | 0 and   |         |         |         |
+|         |         |         | 10 Oe   |         |         |         |
+|         |         |         | was     |         |         |         |
+|         |         |         | made.   |         |         |         |
+|         |         |         | The     |         |         |         |
+|         |         |         | de      |         |         |         |
+|         |         |         | viation |         |         |         |
+|         |         |         | from    |         |         |         |
+|         |         |         | lin     |         |         |         |
+|         |         |         | earity, |         |         |         |
+|         |         |         | ΔM, was |         |         |         |
+|         |         |         | then    |         |         |         |
+|         |         |         | cal     |         |         |         |
+|         |         |         | culated |         |         |         |
+|         |         |         | by      |         |         |         |
+|         |         |         | subt    |         |         |         |
+|         |         |         | racting |         |         |         |
+|         |         |         | this    |         |         |         |
+|         |         |         | fit     |         |         |         |
+|         |         |         | from    |         |         |         |
+|         |         |         | the     |         |         |         |
+|         |         |         | magnet  |         |         |         |
+|         |         |         | ization |         |         |         |
+|         |         |         | curves  |         |         |         |
+|         |         |         | and     |         |         |         |
+|         |         |         | plotted |         |         |         |
+|         |         |         | as a    |         |         |         |
+|         |         |         | f       |         |         |         |
+|         |         |         | unction |         |         |         |
+|         |         |         | of      |         |         |         |
+|         |         |         | applied |         |         |         |
+|         |         |         | field   |         |         |         |
+|         |         |         | [see    |         |         |         |
+|         |         |         | Figs.   |         |         |         |
+|         |         |         | 6(a)    |         |         |         |
+|         |         |         | and     |         |         |         |
+|         |         |         | 6(b)].  |         |         |         |
+|         |         |         | The     |         |         |         |
+|         |         |         | temp    |         |         |         |
+|         |         |         | erature |         |         |         |
+|         |         |         | dep     |         |         |         |
+|         |         |         | endence |         |         |         |
+|         |         |         | of      |         |         |         |
+|         |         |         | H_(c1)  |         |         |         |
+|         |         |         | for the |         |         |         |
+|         |         |         | two     |         |         |         |
+|         |         |         | phases  |         |         |         |
+|         |         |         | of Re₃W |         |         |         |
+|         |         |         | are     |         |         |         |
+|         |         |         | o       |         |         |         |
+|         |         |         | btained |         |         |         |
+|         |         |         | by      |         |         |         |
+|         |         |         | using   |         |         |         |
+|         |         |         | the     |         |         |         |
+|         |         |         | cr      |         |         |         |
+|         |         |         | iterion |         |         |         |
+|         |         |         | ΔM      |         |         |         |
+|         |         |         |  = 10⁻⁴ |         |         |         |
+|         |         |         | emu/mol |         |         |         |
+|         |         |         | and     |         |         |         |
+|         |         |         | plotted |         |         |         |
+|         |         |         | in      |         |         |         |
+|         |         |         | Figs.   |         |         |         |
+|         |         |         | 6(c)    |         |         |         |
+|         |         |         | and     |         |         |         |
+|         |         |         | 6(d).   |         |         |         |
+|         |         |         | Demagn  |         |         |         |
+|         |         |         | etizing |         |         |         |
+|         |         |         | effects |         |         |         |
+|         |         |         | are     |         |         |         |
+|         |         |         | taken   |         |         |         |
+|         |         |         | into    |         |         |         |
+|         |         |         | account |         |         |         |
+|         |         |         | in      |         |         |         |
+|         |         |         | est     |         |         |         |
+|         |         |         | imating |         |         |         |
+|         |         |         | the     |         |         |         |
+|         |         |         | H_(c1)  |         |         |         |
+|         |         |         | values. |         |         |         |
+|         |         |         | The     |         |         |         |
+|         |         |         | values  |         |         |         |
+|         |         |         | det     |         |         |         |
+|         |         |         | ermined |         |         |         |
+|         |         |         | for     |         |         |         |
+|         |         |         | both    |         |         |         |
+|         |         |         | samples |         |         |         |
+|         |         |         | are     |         |         |         |
+|         |         |         | fitted  |         |         |         |
+|         |         |         | using   |         |         |         |
+|         |         |         | the     |         |         |         |
+|         |         |         | exp     |         |         |         |
+|         |         |         | ression |         |         |         |
+|         |         |         | H_(     |         |         |         |
+|         |         |         | c1)(T)  |         |         |         |
+|         |         |         | = H_(c1 |         |         |         |
+|         |         |         | )(0){1  |         |         |         |
+|         |         |         | − (T/T_ |         |         |         |
+|         |         |         | (c))²}, |         |         |         |
+|         |         |         | where   |         |         |         |
+|         |         |         | H_      |         |         |         |
+|         |         |         | (c1)(0) |         |         |         |
+|         |         |         | is the  |         |         |         |
+|         |         |         | lower   |         |         |         |
+|         |         |         | c       |         |         |         |
+|         |         |         | ritical |         |         |         |
+|         |         |         | field   |         |         |         |
+|         |         |         | at zero |         |         |         |
+|         |         |         | tempe   |         |         |         |
+|         |         |         | rature. |         |         |         |
+|         |         |         | The     |         |         |         |
+|         |         |         | qu      |         |         |         |
+|         |         |         | adratic |         |         |         |
+|         |         |         | e       |         |         |         |
+|         |         |         | quation |         |         |         |
+|         |         |         | fits    |         |         |         |
+|         |         |         | the     |         |         |         |
+|         |         |         | data    |         |         |         |
+|         |         |         | well    |         |         |         |
+|         |         |         | for the |         |         |         |
+|         |         |         | NCS     |         |         |         |
+|         |         |         | phase,  |         |         |         |
+|         |         |         | whereas |         |         |         |
+|         |         |         | the     |         |         |         |
+|         |         |         | model   |         |         |         |
+|         |         |         | p       |         |         |         |
+|         |         |         | rovides |         |         |         |
+|         |         |         | a poor  |         |         |         |
+|         |         |         | fit to  |         |         |         |
+|         |         |         | the     |         |         |         |
+|         |         |         | data of |         |         |         |
+|         |         |         | the CS  |         |         |         |
+|         |         |         | phase.  |         |         |         |
+|         |         |         | The     |         |         |         |
+|         |         |         | fits    |         |         |         |
+|         |         |         | yield   |         |         |         |
+|         |         |         | H_      |         |         |         |
+|         |         |         | (c1)(0) |         |         |         |
+|         |         |         | of      |         |         |         |
+|         |         |         | 97(1)   |         |         |         |
+|         |         |         | and     |         |         |         |
+|         |         |         | 279(11) |         |         |         |
+|         |         |         | Oe for  |         |         |         |
+|         |         |         | the NCS |         |         |         |
+|         |         |         | and the |         |         |         |
+|         |         |         | CS      |         |         |         |
+|         |         |         | s       |         |         |         |
+|         |         |         | amples, |         |         |         |
+|         |         |         | respec  |         |         |         |
+|         |         |         | tively. |         |         |         |
+|         |         |         |         |         |         |         |
+|         |         |         | Figure  |         |         |         |
+|         |         |         | 5:      |         |         |         |
+|         |         |         | (Color  |         |         |         |
+|         |         |         | online) |         |         |         |
+|         |         |         | Magnet  |         |         |         |
+|         |         |         | ization |         |         |         |
+|         |         |         | hys     |         |         |         |
+|         |         |         | teresis |         |         |         |
+|         |         |         | loops   |         |         |         |
+|         |         |         | at 1.8  |         |         |         |
+|         |         |         | K for   |         |         |         |
+|         |         |         | the (a) |         |         |         |
+|         |         |         | NCS and |         |         |         |
+|         |         |         | (b) CS  |         |         |         |
+|         |         |         | phases  |         |         |         |
+|         |         |         | of      |         |         |         |
+|         |         |         | Re₃W.   |         |         |         |
+|         |         |         | The     |         |         |         |
+|         |         |         | insets  |         |         |         |
+|         |         |         | show    |         |         |         |
+|         |         |         | the     |         |         |         |
+|         |         |         | M(H)    |         |         |         |
+|         |         |         | curves  |         |         |         |
+|         |         |         | for the |         |         |         |
+|         |         |         | samples |         |         |         |
+|         |         |         | above   |         |         |         |
+|         |         |         | T_(c).  |         |         |         |
+|         |         |         |         |         |         |         |
+|         |         |         | Figure  |         |         |         |
+|         |         |         | 6:      |         |         |         |
+|         |         |         | (Color  |         |         |         |
+|         |         |         | online) |         |         |         |
+|         |         |         | De      |         |         |         |
+|         |         |         | viation |         |         |         |
+|         |         |         | ΔM from |         |         |         |
+|         |         |         | the     |         |         |         |
+|         |         |         | linear  |         |         |         |
+|         |         |         | virgin  |         |         |         |
+|         |         |         | magnet  |         |         |         |
+|         |         |         | ization |         |         |         |
+|         |         |         | as a    |         |         |         |
+|         |         |         | f       |         |         |         |
+|         |         |         | unction |         |         |         |
+|         |         |         | of      |         |         |         |
+|         |         |         | applied |         |         |         |
+|         |         |         | field   |         |         |         |
+|         |         |         | det     |         |         |         |
+|         |         |         | ermined |         |         |         |
+|         |         |         | at      |         |         |         |
+|         |         |         | di      |         |         |         |
+|         |         |         | fferent |         |         |         |
+|         |         |         | tempe   |         |         |         |
+|         |         |         | ratures |         |         |         |
+|         |         |         | for the |         |         |         |
+|         |         |         | (a) NCS |         |         |         |
+|         |         |         | and (b) |         |         |         |
+|         |         |         | CS      |         |         |         |
+|         |         |         | phases  |         |         |         |
+|         |         |         | of      |         |         |         |
+|         |         |         | Re₃W.   |         |         |         |
+|         |         |         | H_(c1)  |         |         |         |
+|         |         |         | as a    |         |         |         |
+|         |         |         | f       |         |         |         |
+|         |         |         | unction |         |         |         |
+|         |         |         | of      |         |         |         |
+|         |         |         | temp    |         |         |         |
+|         |         |         | erature |         |         |         |
+|         |         |         | for the |         |         |         |
+|         |         |         | (c) NCS |         |         |         |
+|         |         |         | and (d) |         |         |         |
+|         |         |         | CS      |         |         |         |
+|         |         |         | phases  |         |         |         |
+|         |         |         | of      |         |         |         |
+|         |         |         | Re₃W.   |         |         |         |
+|         |         |         | The     |         |         |         |
+|         |         |         | solid   |         |         |         |
+|         |         |         | lines   |         |         |         |
+|         |         |         | are     |         |         |         |
+|         |         |         | fits to |         |         |         |
+|         |         |         | the     |         |         |         |
+|         |         |         | data    |         |         |         |
+|         |         |         | using   |         |         |         |
+|         |         |         | the     |         |         |         |
+|         |         |         | exp     |         |         |         |
+|         |         |         | ression |         |         |         |
+|         |         |         | H_(     |         |         |         |
+|         |         |         | c1)(T)  |         |         |         |
+|         |         |         | = H_(c1 |         |         |         |
+|         |         |         | )(0){1  |         |         |         |
+|         |         |         | − (T/T_ |         |         |         |
+|         |         |         | (c))²}. |         |         |         |
+|         |         |         |         |         |         |         |
+|         |         |         | Resi    |         |         |         |
+|         |         |         | stivity |         |         |         |
+|         |         |         | measu   |         |         |         |
+|         |         |         | rements |         |         |         |
+|         |         |         | as a    |         |         |         |
+|         |         |         | f       |         |         |         |
+|         |         |         | unction |         |         |         |
+|         |         |         | of      |         |         |         |
+|         |         |         | temp    |         |         |         |
+|         |         |         | erature |         |         |         |
+|         |         |         | were    |         |         |         |
+|         |         |         | made in |         |         |         |
+|         |         |         | m       |         |         |         |
+|         |         |         | agnetic |         |         |         |
+|         |         |         | fields  |         |         |         |
+|         |         |         | up to   |         |         |         |
+|         |         |         | 90 kOe  |         |         |         |
+|         |         |         | on both |         |         |         |
+|         |         |         | the NCS |         |         |         |
+|         |         |         | and the |         |         |         |
+|         |         |         | CS      |         |         |         |
+|         |         |         | samples |         |         |         |
+|         |         |         | of Re₃W |         |         |         |
+|         |         |         | [see    |         |         |         |
+|         |         |         | Figs.   |         |         |         |
+|         |         |         | 7(a)    |         |         |         |
+|         |         |         | and     |         |         |         |
+|         |         |         | 7(b)].  |         |         |         |
+|         |         |         | In the  |         |         |         |
+|         |         |         | normal  |         |         |         |
+|         |         |         | state   |         |         |         |
+|         |         |         | just    |         |         |         |
+|         |         |         | above   |         |         |         |
+|         |         |         | T_(c),  |         |         |         |
+|         |         |         | both    |         |         |         |
+|         |         |         | phases  |         |         |         |
+|         |         |         | exhibit |         |         |         |
+|         |         |         | a small |         |         |         |
+|         |         |         | (∼0.6   |         |         |         |
+|         |         |         |         |         |         |         |
+|         |         |         | The     |         |         |         |
+|         |         |         | co      |         |         |         |
+|         |         |         | herence |         |         |         |
+|         |         |         | length  |         |         |         |
+|         |         |         | ξ can   |         |         |         |
+|         |         |         | be      |         |         |         |
+|         |         |         | cal     |         |         |         |
+|         |         |         | culated |         |         |         |
+|         |         |         | using   |         |         |         |
+|         |         |         | the     |         |         |         |
+|         |         |         | G       |         |         |         |
+|         |         |         | inzburg |         |         |         |
+|         |         |         | -Landau |         |         |         |
+|         |         |         | (GL)    |         |         |         |
+|         |         |         | r       |         |         |         |
+|         |         |         | elation |         |         |         |
+|         |         |         | ξ = (Φ_ |         |         |         |
+|         |         |         | (∘)/2π  |         |         |         |
+|         |         |         | H_(c2)) |         |         |         |
+|         |         |         | ^(1/2), |         |         |         |
+|         |         |         | where   |         |         |         |
+|         |         |         | Φ_(∘) = |         |         |         |
+|         |         |         |  2.068  |         |         |         |
+|         |         |         | × 10⁻¹⁵ |         |         |         |
+|         |         |         | Wb is   |         |         |         |
+|         |         |         | the     |         |         |         |
+|         |         |         | flux    |         |         |         |
+|         |         |         | quant   |         |         |         |
+|         |         |         | um.[26] |         |         |         |
+|         |         |         | With    |         |         |         |
+|         |         |         | H_(     |         |         |         |
+|         |         |         | c2)^(NC |         |         |         |
+|         |         |         | S)(0) = |         |         |         |
+|         |         |         |  125(1) |         |         |         |
+|         |         |         | kOe for |         |         |         |
+|         |         |         | NCS     |         |         |         |
+|         |         |         | Re₃W,   |         |         |         |
+|         |         |         | the     |         |         |         |
+|         |         |         | es      |         |         |         |
+|         |         |         | timated |         |         |         |
+|         |         |         | ξ^(     |         |         |         |
+|         |         |         | NCS)(0) |         |         |         |
+|         |         |         | is      |         |         |         |
+|         |         |         | 5.13(2) |         |         |         |
+|         |         |         | nm. For |         |         |         |
+|         |         |         | CS      |         |         |         |
+|         |         |         | Re₃W,   |         |         |         |
+|         |         |         | the     |         |         |         |
+|         |         |         | value   |         |         |         |
+|         |         |         | of      |         |         |         |
+|         |         |         | ξ^      |         |         |         |
+|         |         |         | (CS)(0) |         |         |         |
+|         |         |         | is      |         |         |         |
+|         |         |         | deduced |         |         |         |
+|         |         |         | to be   |         |         |         |
+|         |         |         | 4.73(5) |         |         |         |
+|         |         |         | nm from |         |         |         |
+|         |         |         | H_      |         |         |         |
+|         |         |         | (c2)^(C |         |         |         |
+|         |         |         | S)(0) = |         |         |         |
+|         |         |         |  147(3) |         |         |         |
+|         |         |         | kOe.    |         |         |         |
+|         |         |         | Co      |         |         |         |
+|         |         |         | mbining |         |         |         |
+|         |         |         | ξ and   |         |         |         |
+|         |         |         | the     |         |         |         |
+|         |         |         | s       |         |         |         |
+|         |         |         | tandard |         |         |         |
+|         |         |         | exp     |         |         |         |
+|         |         |         | ression |         |         |         |
+|         |         |         | $H      |         |         |         |
+|         |         |         | _{c1}=\ |         |         |         |
+|         |         |         | frac{\P |         |         |         |
+|         |         |         | hi_{\ci |         |         |         |
+|         |         |         | rc}}{4\ |         |         |         |
+|         |         |         | pi\lamb |         |         |         |
+|         |         |         | da^{2}} |         |         |         |
+|         |         |         | (\ln\fr |         |         |         |
+|         |         |         | ac{\lam |         |         |         |
+|         |         |         | bda}{\x |         |         |         |
+|         |         |         | i}+0.12 |         |         |         |
+|         |         |         | )$,[27] |         |         |         |
+|         |         |         | we      |         |         |         |
+|         |         |         | e       |         |         |         |
+|         |         |         | stimate |         |         |         |
+|         |         |         | the     |         |         |         |
+|         |         |         | m       |         |         |         |
+|         |         |         | agnetic |         |         |         |
+|         |         |         | pene    |         |         |         |
+|         |         |         | tration |         |         |         |
+|         |         |         | depth,  |         |         |         |
+|         |         |         | λ^(NC   |         |         |         |
+|         |         |         | S)(0) = |         |         |         |
+|         |         |         |  257(1) |         |         |         |
+|         |         |         | nm and  |         |         |         |
+|         |         |         | λ^(CS   |         |         |         |
+|         |         |         | )(0) =  |         |         |         |
+|         |         |         | 141(11) |         |         |         |
+|         |         |         | nm for  |         |         |         |
+|         |         |         | the NCS |         |         |         |
+|         |         |         | and CS  |         |         |         |
+|         |         |         | phases  |         |         |         |
+|         |         |         | of      |         |         |         |
+|         |         |         | Re₃W,   |         |         |         |
+|         |         |         | respec  |         |         |         |
+|         |         |         | tively. |         |         |         |
+|         |         |         | The     |         |         |         |
+|         |         |         | value   |         |         |         |
+|         |         |         | of      |         |         |         |
+|         |         |         | λ^(     |         |         |         |
+|         |         |         | NCS)(0) |         |         |         |
+|         |         |         | is in   |         |         |         |
+|         |         |         | good    |         |         |         |
+|         |         |         | ag      |         |         |         |
+|         |         |         | reement |         |         |         |
+|         |         |         | with    |         |         |         |
+|         |         |         | the     |         |         |         |
+|         |         |         | value   |         |         |         |
+|         |         |         | of      |         |         |         |
+|         |         |         | 300(10) |         |         |         |
+|         |         |         | nm      |         |         |         |
+|         |         |         | r       |         |         |         |
+|         |         |         | eported |         |         |         |
+|         |         |         | by Zuev |         |         |         |
+|         |         |         | _et     |         |         |         |
+|         |         |         | al      |         |         |         |
+|         |         |         | ._.[11] |         |         |         |
+|         |         |         | We used |         |         |         |
+|         |         |         | the     |         |         |         |
+|         |         |         | values  |         |         |         |
+|         |         |         | of λ(0) |         |         |         |
+|         |         |         | and     |         |         |         |
+|         |         |         | ξ(0) to |         |         |         |
+|         |         |         | ca      |         |         |         |
+|         |         |         | lculate |         |         |         |
+|         |         |         | the GL  |         |         |         |
+|         |         |         | pa      |         |         |         |
+|         |         |         | rameter |         |         |         |
+|         |         |         | κ       |         |         |         |
+|         |         |         |  = λ/ξ. |         |         |         |
+|         |         |         | They    |         |         |         |
+|         |         |         | yield   |         |         |         |
+|         |         |         | κ^(N    |         |         |         |
+|         |         |         | CS)(0)  |         |         |         |
+|         |         |         | = 50(1) |         |         |         |
+|         |         |         | for the |         |         |         |
+|         |         |         | NCS     |         |         |         |
+|         |         |         | phase   |         |         |         |
+|         |         |         | and     |         |         |         |
+|         |         |         | κ^(CS)  |         |         |         |
+|         |         |         | = 30(3) |         |         |         |
+|         |         |         | for the |         |         |         |
+|         |         |         | CS      |         |         |         |
+|         |         |         | phase   |         |         |         |
+|         |         |         | of      |         |         |         |
+|         |         |         | Re₃W.   |         |         |         |
+|         |         |         | The     |         |         |         |
+|         |         |         | m       |         |         |         |
+|         |         |         | easured |         |         |         |
+|         |         |         | and     |         |         |         |
+|         |         |         | derived |         |         |         |
+|         |         |         | s       |         |         |         |
+|         |         |         | upercon |         |         |         |
+|         |         |         | ducting |         |         |         |
+|         |         |         | and     |         |         |         |
+|         |         |         | tr      |         |         |         |
+|         |         |         | ansport |         |         |         |
+|         |         |         | par     |         |         |         |
+|         |         |         | ameters |         |         |         |
+|         |         |         | of the  |         |         |         |
+|         |         |         | NCS and |         |         |         |
+|         |         |         | the CS  |         |         |         |
+|         |         |         | phases  |         |         |         |
+|         |         |         | of Re₃W |         |         |         |
+|         |         |         | are     |         |         |         |
+|         |         |         | listed  |         |         |         |
+|         |         |         | in      |         |         |         |
+|         |         |         | Table   |         |         |         |
+|         |         |         | 3.      |         |         |         |
+|         |         |         |         |         |         |         |
+|         |         |         | ## IV   |         |         |         |
+|         |         |         | Summary |         |         |         |
+|         |         |         |         |         |         |         |
+|         |         |         | In      |         |         |         |
+|         |         |         | s       |         |         |         |
+|         |         |         | ummary, |         |         |         |
+|         |         |         | we have |         |         |         |
+|         |         |         | shown   |         |         |         |
+|         |         |         | that    |         |         |         |
+|         |         |         | there   |         |         |         |
+|         |         |         | are two |         |         |         |
+|         |         |         | di      |         |         |         |
+|         |         |         | fferent |         |         |         |
+|         |         |         | phases  |         |         |         |
+|         |         |         | of      |         |         |         |
+|         |         |         | Re₃W.   |         |         |         |
+|         |         |         | One     |         |         |         |
+|         |         |         | phase   |         |         |         |
+|         |         |         | is      |         |         |         |
+|         |         |         | nonc    |         |         |         |
+|         |         |         | entrosy |         |         |         |
+|         |         |         | mmetric |         |         |         |
+|         |         |         | with an |         |         |         |
+|         |         |         | α-Mn    |         |         |         |
+|         |         |         | st      |         |         |         |
+|         |         |         | ructure |         |         |         |
+|         |         |         | and is  |         |         |         |
+|         |         |         | s       |         |         |         |
+|         |         |         | upercon |         |         |         |
+|         |         |         | ducting |         |         |         |
+|         |         |         | with a  |         |         |         |
+|         |         |         | T_(c)   |         |         |         |
+|         |         |         | of 7.8  |         |         |         |
+|         |         |         | K. The  |         |         |         |
+|         |         |         | other   |         |         |         |
+|         |         |         | phase   |         |         |         |
+|         |         |         | is      |         |         |         |
+|         |         |         | c       |         |         |         |
+|         |         |         | entrosy |         |         |         |
+|         |         |         | mmetric |         |         |         |
+|         |         |         | with a  |         |         |         |
+|         |         |         | he      |         |         |         |
+|         |         |         | xagonal |         |         |         |
+|         |         |         | st      |         |         |         |
+|         |         |         | ructure |         |         |         |
+|         |         |         | and is  |         |         |         |
+|         |         |         | also    |         |         |         |
+|         |         |         | s       |         |         |         |
+|         |         |         | upercon |         |         |         |
+|         |         |         | ducting |         |         |         |
+|         |         |         | with a  |         |         |         |
+|         |         |         | T_(c)   |         |         |         |
+|         |         |         | of 9.4  |         |         |         |
+|         |         |         | K.      |         |         |         |
+|         |         |         | Sw      |         |         |         |
+|         |         |         | itching |         |         |         |
+|         |         |         | between |         |         |         |
+|         |         |         | the two |         |         |         |
+|         |         |         | phases  |         |         |         |
+|         |         |         | is made |         |         |         |
+|         |         |         | p       |         |         |         |
+|         |         |         | ossible |         |         |         |
+|         |         |         | by      |         |         |         |
+|         |         |         | an      |         |         |         |
+|         |         |         | nealing |         |         |         |
+|         |         |         | (CS to  |         |         |         |
+|         |         |         | NCS) or |         |         |         |
+|         |         |         | re      |         |         |         |
+|         |         |         | melting |         |         |         |
+|         |         |         | (NCS to |         |         |         |
+|         |         |         | CS) the |         |         |         |
+|         |         |         | s       |         |         |         |
+|         |         |         | amples. |         |         |         |
+|         |         |         | The     |         |         |         |
+|         |         |         | full    |         |         |         |
+|         |         |         | hys     |         |         |         |
+|         |         |         | teresis |         |         |         |
+|         |         |         | loops   |         |         |         |
+|         |         |         | of the  |         |         |         |
+|         |         |         | CS      |         |         |         |
+|         |         |         | sample  |         |         |         |
+|         |         |         | of Re₃W |         |         |         |
+|         |         |         | show    |         |         |         |
+|         |         |         | giant   |         |         |         |
+|         |         |         | flux    |         |         |         |
+|         |         |         | jumps,  |         |         |         |
+|         |         |         | while   |         |         |         |
+|         |         |         | no      |         |         |         |
+|         |         |         | jumps   |         |         |         |
+|         |         |         | are     |         |         |         |
+|         |         |         | o       |         |         |         |
+|         |         |         | bserved |         |         |         |
+|         |         |         | for the |         |         |         |
+|         |         |         | NCS     |         |         |         |
+|         |         |         | sample. |         |         |         |
+|         |         |         | The     |         |         |         |
+|         |         |         | temp    |         |         |         |
+|         |         |         | erature |         |         |         |
+|         |         |         | dep     |         |         |         |
+|         |         |         | endence |         |         |         |
+|         |         |         | of      |         |         |         |
+|         |         |         | H_(c2)  |         |         |         |
+|         |         |         | of the  |         |         |         |
+|         |         |         | NCS     |         |         |         |
+|         |         |         | phase   |         |         |         |
+|         |         |         | for     |         |         |         |
+|         |         |         | Re₃W    |         |         |         |
+|         |         |         | can be  |         |         |         |
+|         |         |         | fitted  |         |         |         |
+|         |         |         | using   |         |         |         |
+|         |         |         | the WHH |         |         |         |
+|         |         |         | model   |         |         |         |
+|         |         |         | which   |         |         |         |
+|         |         |         | yields  |         |         |         |
+|         |         |         | H_(     |         |         |         |
+|         |         |         | c2)^(NC |         |         |         |
+|         |         |         | S)(0) = |         |         |         |
+|         |         |         |  125(1) |         |         |         |
+|         |         |         | kOe. In |         |         |         |
+|         |         |         | co      |         |         |         |
+|         |         |         | ntrast, |         |         |         |
+|         |         |         | H_      |         |         |         |
+|         |         |         | (c2)(T) |         |         |         |
+|         |         |         | of the  |         |         |         |
+|         |         |         | CS      |         |         |         |
+|         |         |         | phase   |         |         |         |
+|         |         |         | of Re₃W |         |         |         |
+|         |         |         | is      |         |         |         |
+|         |         |         | linear  |         |         |         |
+|         |         |         | at      |         |         |         |
+|         |         |         | lower   |         |         |         |
+|         |         |         | temp    |         |         |         |
+|         |         |         | erature |         |         |         |
+|         |         |         | and has |         |         |         |
+|         |         |         | a       |         |         |         |
+|         |         |         | p       |         |         |         |
+|         |         |         | ositive |         |         |         |
+|         |         |         | cu      |         |         |         |
+|         |         |         | rvature |         |         |         |
+|         |         |         | nearer  |         |         |         |
+|         |         |         | to      |         |         |         |
+|         |         |         | T_(c).  |         |         |         |
+|         |         |         | A fit   |         |         |         |
+|         |         |         | to the  |         |         |         |
+|         |         |         | data    |         |         |         |
+|         |         |         | gives   |         |         |         |
+|         |         |         | H_      |         |         |         |
+|         |         |         | (c2)^(C |         |         |         |
+|         |         |         | S)(0) = |         |         |         |
+|         |         |         |  147(3) |         |         |         |
+|         |         |         | kOe.    |         |         |         |
+|         |         |         | Using   |         |         |         |
+|         |         |         | GL      |         |         |         |
+|         |         |         | rel     |         |         |         |
+|         |         |         | ations, |         |         |         |
+|         |         |         | the     |         |         |         |
+|         |         |         | pene    |         |         |         |
+|         |         |         | tration |         |         |         |
+|         |         |         | depths  |         |         |         |
+|         |         |         | are     |         |         |         |
+|         |         |         | es      |         |         |         |
+|         |         |         | timated |         |         |         |
+|         |         |         | to be   |         |         |         |
+|         |         |         | λ^      |         |         |         |
+|         |         |         | (NCS) = |         |         |         |
+|         |         |         |  257(1) |         |         |         |
+|         |         |         | nm and  |         |         |         |
+|         |         |         | λ^      |         |         |         |
+|         |         |         | (CS) =  |         |         |         |
+|         |         |         | 141(11) |         |         |         |
+|         |         |         | nm and  |         |         |         |
+|         |         |         | the     |         |         |         |
+|         |         |         | co      |         |         |         |
+|         |         |         | herence |         |         |         |
+|         |         |         | lengths |         |         |         |
+|         |         |         | are     |         |         |         |
+|         |         |         | cal     |         |         |         |
+|         |         |         | culated |         |         |         |
+|         |         |         | to be   |         |         |         |
+|         |         |         | ξ^(     |         |         |         |
+|         |         |         | NCS) =  |         |         |         |
+|         |         |         | 5.13(1) |         |         |         |
+|         |         |         | nm and  |         |         |         |
+|         |         |         | ξ^      |         |         |         |
+|         |         |         | (CS) =  |         |         |         |
+|         |         |         | 4.73(1) |         |         |         |
+|         |         |         | nm at   |         |         |         |
+|         |         |         | T = 0   |         |         |         |
+|         |         |         | K. Our  |         |         |         |
+|         |         |         | results |         |         |         |
+|         |         |         | compare |         |         |         |
+|         |         |         | well    |         |         |         |
+|         |         |         | with    |         |         |         |
+|         |         |         | unpu    |         |         |         |
+|         |         |         | blished |         |         |         |
+|         |         |         | w       |         |         |         |
+|         |         |         | ork[12] |         |         |         |
+|         |         |         | on the  |         |         |         |
+|         |         |         | NCS     |         |         |         |
+|         |         |         | phase   |         |         |         |
+|         |         |         | of      |         |         |         |
+|         |         |         | Re₃W.   |         |         |         |
+|         |         |         | To the  |         |         |         |
+|         |         |         | best of |         |         |         |
+|         |         |         | our     |         |         |         |
+|         |         |         | kno     |         |         |         |
+|         |         |         | wledge, |         |         |         |
+|         |         |         | Re₃W is |         |         |         |
+|         |         |         | the     |         |         |         |
+|         |         |         | first   |         |         |         |
+|         |         |         | system  |         |         |         |
+|         |         |         | of its  |         |         |         |
+|         |         |         | kind to |         |         |         |
+|         |         |         | be      |         |         |         |
+|         |         |         | found   |         |         |         |
+|         |         |         | to      |         |         |         |
+|         |         |         | exist   |         |         |         |
+|         |         |         | as      |         |         |         |
+|         |         |         | either  |         |         |         |
+|         |         |         | a       |         |         |         |
+|         |         |         | c       |         |         |         |
+|         |         |         | entrosy |         |         |         |
+|         |         |         | mmetric |         |         |         |
+|         |         |         | or a    |         |         |         |
+|         |         |         | nonc    |         |         |         |
+|         |         |         | entrosy |         |         |         |
+|         |         |         | mmetric |         |         |         |
+|         |         |         | s       |         |         |         |
+|         |         |         | upercon |         |         |         |
+|         |         |         | ducting |         |         |         |
+|         |         |         | ma      |         |         |         |
+|         |         |         | terial. |         |         |         |
+|         |         |         | This,   |         |         |         |
+|         |         |         | and     |         |         |         |
+|         |         |         | similar |         |         |         |
+|         |         |         | systems |         |         |         |
+|         |         |         | if they |         |         |         |
+|         |         |         | exist,  |         |         |         |
+|         |         |         | offer a |         |         |         |
+|         |         |         | good    |         |         |         |
+|         |         |         | oppo    |         |         |         |
+|         |         |         | rtunity |         |         |         |
+|         |         |         | to      |         |         |         |
+|         |         |         | study   |         |         |         |
+|         |         |         | the     |         |         |         |
+|         |         |         | in      |         |         |         |
+|         |         |         | terplay |         |         |         |
+|         |         |         | between |         |         |         |
+|         |         |         | the     |         |         |         |
+|         |         |         | str     |         |         |         |
+|         |         |         | ucture, |         |         |         |
+|         |         |         | spi     |         |         |         |
+|         |         |         | n-orbit |         |         |         |
+|         |         |         | co      |         |         |         |
+|         |         |         | upling, |         |         |         |
+|         |         |         | and     |         |         |         |
+|         |         |         | s       |         |         |         |
+|         |         |         | upercon |         |         |         |
+|         |         |         | ducting |         |         |         |
+|         |         |         | pro     |         |         |         |
+|         |         |         | perties |         |         |         |
+|         |         |         | of      |         |         |         |
+|         |         |         | interm  |         |         |         |
+|         |         |         | etallic |         |         |         |
+|         |         |         | s       |         |         |         |
+|         |         |         | ystems. |         |         |         |
++---------+---------+---------+---------+---------+---------+---------+
+| T_(c)^  | 7.80    | 9.40    |         |         |         |         |
+| (onset) |  ± 0.05 |  ± 0.05 |         |         |         |         |
+| (K)     |         |         |         |         |         |         |
++---------+---------+---------+---------+---------+---------+---------+
+| H_      | 97 ± 1  | 2       |         |         |         |         |
+| (c1)(0) |         | 79 ± 11 |         |         |         |         |
+| (Oe)    |         |         |         |         |         |         |
++---------+---------+---------+---------+---------+---------+---------+
+| H_      | 125 ± 1 | 147 ± 3 |         |         |         |         |
+| (c2)(0) |         |         |         |         |         |         |
+| (kOe)   |         |         |         |         |         |         |
++---------+---------+---------+---------+---------+---------+---------+
+| λ(0)    | 257 ± 1 | 1       |         |         |         |         |
+| (nm)    |         | 41 ± 11 |         |         |         |         |
++---------+---------+---------+---------+---------+---------+---------+
+| ξ(0)    | 5.13    | 4.73    |         |         |         |         |
+| (nm)    |  ± 0.02 |  ± 0.05 |         |         |         |         |
++---------+---------+---------+---------+---------+---------+---------+
+| κ(0)    | 50 ± 1  | 30 ± 3  |         |         |         |         |
++---------+---------+---------+---------+---------+---------+---------+
+| ρ(295   | 1.7     | 2.1     |         |         |         |         |
+| K)(μΩm) |         |         |         |         |         |         |
++---------+---------+---------+---------+---------+---------+---------+
+| l_(w)   | 0.277   | 0.224   |         |         |         |         |
+| (nm)    |         |         |         |         |         |         |
++---------+---------+---------+---------+---------+---------+---------+
+
+Table 3: Measured and derived superconducting and transport parameters
+of the noncentrosymmetric and centrosymmetric phases of Re₃W.
+
+Figure 7: (Color online) Temperature variation of the resistivity in a
+set of magnetic fields from 0 to 90 kOe for the (a) NCS and (b) CS
+phases of Re₃W. Temperature dependence of the upper critical fields of
+the (c) NCS and (d) CS phases of Re₃W. The solid line in (c) is a fit to
+the data using the WHH model. The solid line in (d) is a fit to the data
+using H_(c2)(T) = H_(c2)(0)[1 − (T/T_(c))^(3/2)]^(3/2).
+
+###### Acknowledgements.
+
+This work was supported by the Engineering and Physical Sciences
+Research Council (EPSRC) and the Science and Technology Facilities
+Council (STFC). Xpress Access neutron beam time on GEM was provided by
+the UK Science and Technology Facilities Council (STFC). P.K.B. thanks
+the Midlands Physics Alliance Graduate School (MPAGS) for its support.
+The Quantum Design MPMS magnetometer and PPMS used in this research were
+obtained through the Science City Advanced Materials project: Creating
+and Characterizing Next Generation Advanced Materials project, with
+support from Advantage West Midlands (AWM) and partly funded by the
+European Regional Development Fund (ERDF).
+
+## References
+
+* Bauer et al. (2004) E. Bauer, G. Hilscher, H. Michor, C. Paul, E. W.
+Scheidt, A. Gribanov, Y. Seropegin, H. Noel, M. Sigrist, and P. Rogl,
+Phys. Rev. Lett. **92**, 027003 (2004). * Gor’kov and Rashba (2001) L.
+P. Gor’kov and E. I. Rashba, Phys. Rev. Lett. **87**, 037004 (2001). *
+Frigeri et al. (2004) P. A. Frigeri, D. F. Agterberg, A. Koga, and M.
+Sigrist, Phys. Rev. Lett. **92**, 097001 (2004). * Mineev (2005) V. P.
+Mineev, Phys. Rev. B **71**, 012509 (2005). * Kimura et al. (2005) N.
+Kimura, K. Ito, K. Saitoh, Y. Umeda, H. Aoki, and T. Terashima, Phys.
+Rev. Lett. **95**, 247004 (2005). * Sugitani et al. (2006) I. Sugitani,
+Y. Okuda, H. Shishido, T. Yamada, A. Thamizhavel, E. Yamamoto, T. D.
+Matsuda, Y. Haga, T. Takeuchi, R. Settai _et al._, J. Phys. Soc. Jpn.
+**75**, 043703 (2006). * Metoki et al. (2004) N. Metoki, K. Kaneko, T.
+D. Matsuda, A. Galatanu, T. Takeuchi, S. Hashimoto, T. Ueda, R. Settai,
+Y. O-nuki, and N. Bernhoeft, J. Phys. Condens. Matter **16**, L207
+(2004). * Akazawa et al. (2004) T. Akazawa, H. Hidaka, H. Kotegawa, T.
+C. Kobayashi, T. Fujiwara, E. Yamamoto, Y. Haga, R. Settai, and Y.
+Onuki, J. Phys. Soc. Jpn. **73**, 3129 (2004). * Hulm and Blaugher
+(1961) J. K. Hulm and R. D. Blaugher, J. Phys. Chem. Solids **19**, 134
+(1961). * Blaugher et al. (1962) R. D. Blaugher, A. Taylor, and J. K.
+Hulm, IBM J. Res. Dev. **6**, 116 (1962). * Zuev et al. (2007) Y. L.
+Zuev, V. A. Kuznetsova, R. Prozorov, M. D. Vannette, M. V. Lobanov, D.
+K. Christen, and J. R. Thompson, Phys. Rev. B **76**, 132508 (2007). *
+Kuznetsova (2007) V. A. Kuznetsova, Ph.D. thesis, University of
+Tennessee, 2007. * Huang et al. (2008) Y. Huang, J. Yan, Y. Wang, L.
+Shan, Q. Luo, W. Wang, and H.-H. Wen, Supercond. Sci. Technol. **21**,
+075011 (2008). * Day et al. (2004) P. Day, J. E. Enderby, W. G.
+Williams, L. C. Chapon, A. Hannon, P. G. Radaelli, and A. K. Soper,
+Neutron News **15**, 19 (2004). * Toby (2001) B. H. Toby, J. Appl.
+Crystallogr. **34**, 210 (2001). * Larson and Von Dreele (2000) A. C.
+Larson and R. B. Von Dreele, Los Alamos National Laboratory Report LAUR
+86-748, 2000 (unpublished). * Orlando et al. (1979) T. P. Orlando, E. J.
+McNiff, S. Foner, and M. R. Beasley, Phys. Rev. B **19**, 4545 (1979). *
+Mints and Rakhmanov (1981) R. G. Mints and A. L. Rakhmanov, Rev. Mod.
+Phys. **53**, 551 (1981). * Werthamer et al. (1966) N. R. Werthamer, E.
+Helfand, and P. C. Hohenberg, Phys. Rev. **147**, 295 (1966). * Helfand
+and Werthamer (1966) E. Helfand and N. R. Werthamer, Phys. Rev. **147**,
+288 (1966). * N. V. Shulga, S.-L. Drechsler, G. Fuchs, K.-H. Muller, K.
+Winzer, M. Heinecke, and K. Krug (1998) S. V. Shulga, S.-L. Drechsler,
+G. Fuchs, K.-H. Muller, K. Winzer, M. Heinecke, and K. Krug, Phys. Rev.
+Lett. **80**, 1730 (1998). * Shigeta et al. (2003) T. Shigeta, T. Abru,
+K. Abe, A. Nishida, and Y. Matsumoto, Physica C **392-396**, 359
+(2003). * Takano et al. (2001) Y. Takano, H. Takeya, H. Fujii, H.
+Kumakura, T. Hatano, K. Togano, H. Kito, and H. Ihara, Appl. Phys. Lett.
+**78**, 2914 (2001). * Karki et al. (2011) A. B. Karki, Y. M. Xiong, N.
+Haldolaarachchige, S. Stadler, I. Vekhter, P. W. Adams, D. P. Young, W.
+A. Phelan, and J. Y. Chan, Phys. Rev. B **83**, 144525 (2011). * Micnas
+et al. (1990) R. Micnas, J. Ranninger, and S. Robaszkiewicz, Rev. Mod.
+Phys. **62**, 113 (1990). * Brandt (1988) E. H. Brandt, Phys. Rev. B
+**37**, 2349 (1988). * Tinkham (1975) M. Tinkham, _Introduction to
+Superconductivity_ (McGraw-Hill, New York, 1975).

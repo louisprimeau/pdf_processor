@@ -1,0 +1,140 @@
+Structure and physical properties of the noncentrosymmetric superconductor Mo\({}_{3}\)Al\({}_{2}\)C
+
+A. B. Karki, Y. M. Xiong, I. Vekhter, D. Browne, P. W. Adams, and D. P. Young
+
+K. R. Thomas and Julia Y. Chan
+
+Department of Chemistry, Louisiana State University, Baton Rouge, Louisiana 70803, USA
+
+H. Kim and R. Prozorov
+
+Ames Laboratory and Department of Physics & Astronomy, Iowa State University, Ames, Iowa 50011, USA
+
+7 May 20102017 May 20102017 May 20102017 May 20102017 May 20102017 May 20102017 May 20102017 May 2010
+
+###### Abstract
+
+We have synthesized polycrystalline samples of the noncentrosymmetric superconductor Mo\({}_{3}\)Al\({}_{2}\)C by arc and RF melting, measured its transport, magnetic and thermodynamic properties, and computed its band structure. Experimental results indicate a bulk superconducting transition at \(T_{c}\) \(\sim\) 9.2 K while the density of states at the Fermi surface is found to be dominated by Mo \(d\) orbitals. Using the measured values for the lower critical field \(H_{c1}\), upper critical field \(H_{c2}\), and the specific heat \(C\), we estimated the thermodynamic critical field \(H_{c}(0)\), coherence length \(\xi(0)\), penetration depth \(\lambda(0)\), and the Ginzburg-Landau parameter \(\kappa(0)\). The specific-heat jump at \(T_{c}\), \(\Delta C/\gamma_{c}\)=2.14, suggests that Mo\({}_{3}\)Al\({}_{2}\)C is moderately to strongly coupled, consistent with the fast opening of the gap, as evidenced by the rapid release of entropy below \(T_{c}\) from our electronic specific-heat measurements. Above 2 K the electronic specific heat exhibits the power-law behavior, suggesting that synthesis of single crystals and measurements at lower temperature are needed to establish whether the gap is anisotropic. The estimated value of the upper critical field \(H_{c2}(0)\) is close to the calculated Pauli limit, therefore further studies are needed to determine whether the absence of an inversion center results in a significant admixture of the triplet component of the order parameter.
+
+10.1103/PhysRevB.82.064512 10.1103/PhysRevB.82.064512 82.064512 10.1103/PhysRevB.82.064512 82.064512 10.1103/PhysRevB.82.064512 82.064512 10.1103/PhysRevB.82.064512 10.
+
+  Here we report on the synthesis and characterization of polycrystalline Mo\({}_{3}\)Al\({}_{2}\)C which shows a bulk superconducting transition at \(T_{c}\)\(\sim\) 9.2 K. Measurements of the transport, magnetic, and thermal properties, as well as a calculation of its electronic structure, have been performed. From these measurements, we estimate various superconducting parameters of Mo\({}_{3}\)Al\({}_{2}\)C, including the thermodynamic critical field \(H_{c}(0)\), coherence length \(\xi(0)\), penetration depth \(\lambda(0)\), electronic specific-heat coefficient (\(\gamma\)), and the specific-heat jump \(\Delta C/T_{c}\).
+
+## II Experiment
+
+A polycrystalline sample (0.3 g) of Mo\({}_{3}\)Al\({}_{2}\)C was prepared by melting stoichiometric amounts of high-purity molybdenum powder (99.95% Alfa Aesar), aluminum shot (99.999% Alfa Aesar), and carbon-graphite rod (99.999% Alfa Aesar) under flowing ultrahigh-purity argon gas in an arc melter using a tungsten electrode and a water-cooled copper hearth. A Zr button was used as an oxygen getter. First, a button of Mo was made by arc melting the Mo powder alone. The Mo button was then melted with Al pieces with 20% excess to compensate for the loss of some Al due to its higher vapor pressure. Finally, the arc-melted button of Mo-Al was remelted with pieces of carbon-graphite rod. The sample was remelted several times to ensure homogeneous mixing of the constituent elements. Another sample was made by melting a cold-pressed pellet of a well-ground mixture of Mo, Al, and C powders in a stoichiometric ratio in an RF-induction furnace. The sample formed a hard pellet with a negligible mass loss. We made more than ten samples by various methods and with different concentrations of C and Al in order to synthesize the stoichiometric compound and to check the effects of off-stoichiometry on \(T_{c}\).
+
+X-ray diffraction analysis on well-ground powder of a portion of the sample was carried out on a Bruker Advance D8 powder diffractometer equipped with Cu \(K\alpha\) radiation (\(\lambda\) = 1.54056 A). Data were collected from 2 \(\theta\)=10\({}^{\circ}\) to 70\({}^{\circ}\) with a constant scan speed of 2 \({}^{\circ}\) min\({}^{-1}\) at room temperature.
+
+The electrical resistivity was measured using a standard four-probe ac technique at 27 Hz with an excitation current of 3 mA, in which small diameter Pt wires were attached to the sample using a conductive epoxy (Epotek H20E). Data were collected from 1.8 to 290 K and in magnetic fields up to 9 T using a Quantum Design, physical property measurement system (PPMS). The specific heat was measured in the PPMS using a time-relaxation method between 2 and 20 K at 0 and 9 T. Magnetic susceptibility was measured in a constant magnetic field of 30 Oe; the sample was cooled down to 3 K in zero field, and then magnetic field was applied, followed by heating to 10 K [(zero-field cooled (ZFC)] and then cooled down again to 3 K [(field cooled (FC)] in the PPMS.
+
+## III Results and discussions
+
+The x-ray diffraction (XRD) pattern of the RF-melted sample of Mo\({}_{3}\)Al\({}_{2}\)C is shown in Fig. 1. The pattern indicates the sample is nearly single phase with a small amount of Mo\({}_{3}\)Al\({}_{8}\) and elemental Mo present as impurities. By least-square fitting to the positions of seven Bragg reflection peaks between 2\(\theta\) values of 10\({}^{\circ}\) and 70\({}^{\circ}\), the cubic cell parameter \(a\)= 6.866 A was obtained, consistent with the previous report.[10] A schematic view of the crystal structure of Mo\({}_{3}\)Al\({}_{2}\)C is presented in the inset of Fig. 1. It assumes a filled \(\beta\)-Mn structure, ideally consisting of a lattice of corner-sharing Mo\({}_{6}\)C octahedra in a five-member ring arrangement and an interpenetrating netlike lattice of Al atoms which occupy the pentagonal holes formed by the molybdenum-carbide polyhedral rings. The primitive cubic Bravais lattice adopts the space group \(P\)4\({}_{1}\)32 and lacks a center of inversion symmetry.
+
+The band structure of Mo\({}_{3}\)Al\({}_{2}\)C was calculated using the wienzk full-potential linearized augmented plane wave (LAPW) band package,[27] using the GGA exchange-correlation potential.[28] The muffin-tin radii were taken as 2.13 a.u. for Mo, 2.42 a.u. for Al, and 1.89 a.u. for C. The cutoff in the LAPW basis was varied from \(R^{\star}K_{max}\)=6 (1196 plane waves) to \(R^{\star}K_{max}\)=8 (2795 plane waves). The mesh of \(k\) points in the irreducible wedge of the Brillouin zone included 286 points, giving a total of 10 000 points in the full Brillouin zone. Calculations were performed using the room-temperature lattice constant of 6.860 A. The results of these calculations are presented in Fig. 2 for the bands and Fig. 3 for the density of states (DOS). The states at the Fermi level are derived almost entirely from the \(d\) bands of molybdenum. The initial iterative solution of the DFT equations omitted the spin-orbit interaction. The spin-orbit interaction was then added in the scalar relativistic approximation and the solution iterated again to convergence. Because of the relative small mass of the constituents, the spin orbit leads only to a splitting of the \(d\)-level degeneracies at high-symmetry points. The splitting amounts to 0.02 eV at most. However, since none of those degeneracies occur close to the Fermi level, there are only small changes in the Fermi surface and the density of states near the Fermi level.
+
+The temperature dependence of the normal-state resistivity of Mo\({}_{3}\)Al\({}_{2}\)C between 10 and 290 K is shown in Fig. 4. The resistivity is metallic, and one observes an inflection point in \(\rho(T)\) at \(\sim\)150 K. The normal-state resistivity is
+
+Figure 1: (Color online) Powder x-ray diffraction pattern and schematic view of the crystal structure of polycrystalline Mo\({}_{3}\)Al\({}_{2}\)C. The \({}^{\star}\)’s in the figure indicate impurity peaks associated with elemental Mo and Mo\({}_{3}\)Al\({}_{8}\).
+
+  fairly low (~190 \(\mu\Omega\) at room temperature), although it is of polycrystalline form. However, the residual resistivity ratio (\(\rho_{290\text{\ k}}/\rho_{10\text{\ K}}\)=1.09) is small, suggesting either the resistivity has little temperature dependence, or the transport in the polycrystalline sample is sensitive to impurities and disorder. Subsequent annealing of earlier samples actually worsened their crystalline quality, suggesting that the Mo\({}_{3}\)Al\({}_{2}\)C phase is quenched in at high temperature. We have fit the low-temperature resistivity data to a power law
+
+\[\rho=\rho_{0}+aT^{2}\] (1)
+
+with the residual resistivity \(\rho_{0}\)=177.35 \(\mu\Omega\) cm and coefficient \(a\)=0.38 \(\mu\Omega\) cm/K\({}^{2}\). The fit is shown as a solid line in Fig. 4 and describes the data well between 10 and 114 K. The inset of the figure shows the linear relationship between resistivity and temperature squared over the above range of temperature. A semilog plot of the resistivity of polycrystalline Mo\({}_{3}\)Al\({}_{2}\)C over the entire range of temperature from 3 to 290 K is presented in Fig. 5. The inset of Fig. 5 shows the resistivity at lower temperature. The resistive superconducting transition is very sharp. The midpoint of the transition is 9.1 K, and the 90\(-\)10 % transition width is less than 0.2 K with an onset temperature of 9.2 K.
+
+The magnetic characterization of the superconducting transition at 30 Oe is shown in upper panel of Fig. 6(a). A
+
+Figure 4: The temperature dependence of the normal-state resistivity for a sample of Mo\({}_{3}\)Al\({}_{2}\)C. The solid lines are fits to \(\rho(T)\) as indicated in the text.
+
+Figure 5: Semilog plot of the resistivity of polycrystalline Mo\({}_{3}\)Al\({}_{2}\)C over the range of temperature from 3 to 290 K. The inset shows the superconducting transition at low temperature. The solid lines in both figures are a guide to the eyes.
+
+Figure 3: Section of total and atom-projected density of states (DOS; in states per electron volt) for Mo\({}_{3}\)Al\({}_{2}\)C in the energy range \(-7\)\(-\)\(+\)5 around the Fermi energy \(E_{\text{F}}\). Energy scale is defined relative to \(E_{\text{F}}\). The DOS is shown for scalar relativistic calculation only.
+
+Figure 2: (Color online) Section of the calculated electronic band structure along high-symmetry directions for Mo\({}_{3}\)Al\({}_{2}\)C in the range of \(\pm\)2 around the Fermi energy \(E_{\text{F}}\). The band structure is without spin-orbit coupling.
+
+  large diamagnetic superconducting signal is observed near 9.1 K, slightly lower than that in the resistivity. The superconducting volume fraction of the arc-melted spherical button was \(\sim\)100%, after applying the demagnetization factor to the ZFC data at 3 K. As shown in the figure, the sample has reached a full Meissner state at a temperature as high as 6 K. The magnetization vs temperature data over the range 10-300 K at 1000 Oe (not shown here) show temperature-independent Pauli-paramagnetic behavior with a very small moment.
+
+The magnetization vs magnetic field over a range of temperatures below \(T_{c}\) is presented in the Fig. 6(b). For the analysis, the point of deviation from the full Meissner effect of the data curve was chosen as the lower critical field at each temperature and the resulting \(\mu_{0}H_{c1}(T)\) is plotted in Fig. 7. A least-squares fit to the data using
+
+\[H_{c1}(T)=H_{c1}(0)[1-(T/T_{c})^{2}]\] (2)
+
+yielded \(\mu_{0}H_{c1}(0)=0.0047\) T.
+
+The magnetic field-dependent resistivity of Mo\({}_{3}\)Al\({}_{2}\)C was measured for the same sample between 2 and 10 K. The data are shown in the inset of Fig. 8. As the field is increased, the superconducting transition becomes broader and \(T_{c}\) shifts to lower temperature. The midpoint of the resistivity transition was chosen as the transition temperature at each applied magnetic field. It should be noted that a sharp transition to a zero-resistance state was obtained even at 9 T and above 4.5 K, indicating a high upper critical field. In the main panel of Fig. 8, the upper critical field is plotted as a function of temperature. The variation in \(H_{c2}\) with temperature is nearly linear with a negative slope, and it does not show any kind of saturation for fields as high as 9 T. We estimate \(\mu_{0}H_{c2}(0)\) from the Werthamer-Helfand-Hohenberg (WHH) (Ref. [29]) expression
+
+\[\mu_{0}H_{c2}(T)=-\,0.693\,\mu_{0}(dH_{c2}/dT)_{T=T_{c}}T_{c}.\] (3)
+
+From the estimate of the slope, \(\mu_{0}dH_{c2}/dT^{\ast}=-2.39\) T/K and using \(T_{c}=9.2\) K, we found \(\mu_{0}H_{c2}(0)=15.08\) T. This is in qualitative agreement with the upper critical field of the Mo\({}_{3}\)Al\({}_{2}\)C reported by Fink _et al._[25] to be 15.6 T at 1.2 K. A complementary estimate of the upper critical field from the empirical formula
+
+Figure 8: Upper critical field of Mo\({}_{3}\)Al\({}_{2}\)C as a function of temperature. The solid line is fit to Ginzburg-Landau theory (see text for details). Inset: characterization of the superconducting transition under magnetic fields 0 to 9 T from right to left.
+
+Figure 6: (a) ZFC magnetic susceptibility measured at constant magnetic field of 30 Oe. (b) Magnetization data with applied magnetic field at various temperatures.
+
+Figure 7: Lower critical field determined by the magnetization measurements at different temperatures. The solid line is the best fit to Eq. (2).
+
+  Figure 9: Characterization of Mo\({}_{3}\)Al\({}_{2}\)C by the measurement of specific heat at 0 and 9 T. Inset: \(C/T\) vs \(T\) plot to determine the specific-heat jump at the superconducting transition.
+
+\[H_{c2}(T)=H_{c2}(0)(1-t^{2})/(1+t^{2}),\] (4)
+
+where \(t\)=\(T/T_{c}\), gives \(\mu_{0}H_{c2}(0)\)= 18.2 T, as shown in Fig. 8 by the solid line representing the best fit to the experimental data. This extrapolated value is slightly larger than that obtained from the WHH theory.
+
+The characterization of the superconducting transition by specific-heat measurements is shown in Fig. 9. The main panel shows the variation in \(C/T\) with \(T^{2}\) at lower temperature at a magnetic field of 0 and 9 T. The superconducting transition is suppressed to 5.2 K with the application of a 9 T magnetic field. This is consistent with the result from the resistivity data. The data above 5.5 K provide an extrapolation of the normal-state behavior to the \(T\)=0 limit and allow the determination of the Sommerfeld constant (\(\gamma\)) from the fit \(C(T)/T\)=\(\gamma\)+\(\beta T^{2}\), where \(\beta T^{2}\) is the lattice contribution to the specific heat. The extrapolation produced \(\gamma\) = 18.65 mJ mol\({}^{-1}\) K\({}^{-2}\) and \(\beta\)=0.305 mJ mol\({}^{-1}\) K\({}^{-4}\). Taking \(\beta\)=\(N(12/5)\rho^{4}R\Theta_{\rm d}^{-3}\), where \(R\)=8.314 J mol\({}^{-1}\) K\({}^{-1}\) and \(N\)=6 for Mo\({}_{3}\)Al\({}_{2}\)C gives a Debye temperature of \(\Theta_{\rm d}\)=338.52 K.
+
+In the inset of Fig. 9, \(C/T\) is plotted as a function of \(T\) showing the thermodynamic transition as well as the jump \(\Delta C/T_{c}\). The midpoint of the superconducting transition temperature is \(\sim\)9.1 K, which is close to the value from the resistivity and magnetic measurements. It is known that the ratio \(\Delta C/\gamma T_{c}\) can be used to measure the strength of the electron coupling. The specific-heat jump (\(\Delta C/T_{c}\)) for Mo\({}_{3}\)Al\({}_{2}\)C is 40 mJ mol\({}^{-1}\) K\({}^{-2}\), which sets the value of \(\Delta C/\gamma T_{c}\) to 2.14. This is higher than the BCS value of 1.43 for a weakly coupled superconductor, suggesting that Mo\({}_{3}\)Al\({}_{2}\)C may be strongly coupled. This is supported by the rapid decrease in the electronic contribution to the specific heat below the transition, signifying a substantial release of entropy in the immediate vicinity of the transition [Fig. 10(a)].
+
+Based on the specific-heat data and the extrapolated value of the upper critical field \(\mu_{0}H_{c2}(0)\) obtained above, we can estimate the superconducting parameters of Mo\({}_{3}\)Al\({}_{2}\)C. The condensation energy, \(U(0)\), was estimated from [30]
+
+\[\Delta U(0)=-\frac{\gamma T_{c}^{2}}{2}+\int_{0}^{T_{c}}C_{ex}(T)dT,\] (5)
+
+subject to the entropy-conserving fit for the specific heat.
+
+Using the fit equation \(C_{ex}\)=\(a\)+\(bT^{3}\), we obtained \(U(0)\) to be 465.92 mJ/mole. Then from \(\gamma\)=2\(\pi^{2}/3k_{B}^{2}\)\(N(0)\) and \(U(0)\) =\(\frac{1}{2}N(0)\Delta^{2}(0)\), where \(N(0)\) is density of states at the Fermi surface and \(2\Delta(0)\) is the superconducting gap energy, we estimated \(\Delta(0)\) to be 25\(\times\)10\({}^{-23}\) J or \(2\Delta_{0}\)=4.028\(k_{B}T_{c}\). The enhanced value of this ratio agrees with strongly coupled nature of the superconductivity as suggested by the specific-heat jump.
+
+Assuming the \(g\) factor for the conduction electrons is close to 2, we estimate the Pauli limiting field for Mo\({}_{3}\)Al\({}_{2}\)C from \(\mu_{0}H^{\it{m}}\)=\(\Delta_{0}\)/\(\mu_{B}\)\(\backslash\)2, to be 19 T. This value of \(\mu_{0}H^{\it{m}}\)=\(\Delta_{0}\)/\(\mu_{B}\)\(\backslash\)2, is close to the estimated orbital field \(\mu_{0}H_{c2}(0)\) = 15\(-\)18 T. It is therefore highly desirable to extend the investigations of the upper critical field to lower temperatures to determine its detailed behavior. If the upper critical field exceeds the Pauli limit, it would signify a substantial contribution from the triplet component to the pairing amplitude, which would most likely be due to the broken inversion symmetry. Further studies of the anisotropy of the critical field in single crystals would be even more enlightening, since they would shed light on the structure of the spin-orbit coupling in the momentum space.[13]
+
+If we assume the upper critical field to be purely orbital, the superconducting coherence length can be estimated using \(H_{c2}(0)\)=\(\Phi_{0}/2\pi\xi(0)^{2}\), where \(\Phi_{0}\)=2.0678\(\times\)10\({}^{9}\) Oe A\({}^{2}\) is a flux quantum,[31] to give \(\xi(0)\)=42.53 Å and 46.84 Å for \(H_{c2}(0)\)= 18.2 T and 15.08 T, respectively. The value for the coherence length in Mo\({}_{3}\)Al\({}_{2}\)C is very close to that for MgCNi\({}_{3}\) (46 Å) and is shorter than the coherence length in Mo\({}_{3}\)C\({}_{2}\) (76 Å).[32] Similarly, from the relation \(H_{c1}(0)\) =(\(\Phi_{0}/4\pi\lambda\))\(\ln(\lambda/\xi)\), we find the magnetic penetration depth \(\lambda(0)\)= 3755 Å. The Ginzburg-Landau parameter is then \(\kappa\)
+
+Figure 10: (a) Superconducting electronic specific-heat capacity (\(C_{ex}\)) vs reduced temperature (\(T/T_{c}\)) of Mo\({}_{3}\)Al\({}_{2}\)C. (b) \(C_{ex}\) vs \(T^{3}\) plot and (c) \(C_{ex}\) vs \(T\) at low temperature.
+
+  =\(\lambda\)/_f_=88.56. The thermodynamical critical field \(H_{c}(0)\) was also estimated through the relation \(U(0)\)=(\(\frac{1}{2}\))\(\mu_{0}H_{c}(0)^{2}\). The estimation resulted in \(\mu_{0}H_{c}(0)\)=0.14 T. Our experimental values of \(H_{c2}(0)\), \(H_{c1}(0)\), and \(H_{c}(0)\) satisfy the relation \(H_{c2}(0)H_{c1}(0)\)=\(H_{c}(0)^{2}\)[\(\ln\)\(\kappa(0)\  support of the DOE under Grant No. DE-FG02-08ER46492. Work at the Ames Laboratory was supported by the division of Materials Science and Engineering, Basic Energy Sciences, Department of Energy (USDOE), under Contract No. DEAC02-07CH11358. R.P. acknowledges support from the Alfred P. Sloan Foundation.
+
+## References
+
+* [1] T. He, Q. Huang, A. P. Ramirez, Y. Wang, K. A. Regan, N. Rogado, M. A. Hayward, M. K. Haas, J. S. Slusky, K. Inumara, H. W. Zandbergen, N. P. Ong, and R. J. Cava, Nature (London) **411**, 54 (2001).
+* [2] S. Y. Li, R. Fan, X. H. Chen, C. H. Wang, W. Q. Mo, K. Q. Ruan, Y. M. Xiong, X. G. Luo, H. T. Zhang, L. Li, Z. Sun, and L. Z. Cao, Phys. Rev. B **64**, 132505 (2001).
+* [3] K. Sugawara, T. Sato, S. Souma, T. Takahashi, and A. Ochiai, Phys. Rev. **76**, 132512 (2007).
+* [4] G. Amano, S. Akutagawa, T. Muranaka, Y. Zenitani, and J. Akimitsu, J. Phys. Soc. Jpn. **73**, 530 (2004).
+* [5] A. Simon and T. Gulden, Z. Anorg. Allg. Chem. **630**, 2191 (2004).
+* [6] A. Harada, S. Akutagawa, Y. Miyamichi, H. Mukuda, Y. Kitaoka, and J. Akimitsu, J. Phys. Soc. Jpn. **76**, 023704 (2007).
+* [7] I. R. Shein and A. L. Ivanovskii, Solid State Commun. **131**, 223 (2004).
+* [8] K. Yamaura, Q. Huang, M. Akaishi, and E. Takayama-Muromachi, Phys. Rev. B **74**, 184510 (2006).
+* [9] W. H. Lee, H. K. Zeng, Y. D. Yao, and Y. Y. Chen, Physica C **266**, 138 (1996).
+* [10] J. Johnston, L. E. Toth, K. Kennedy, and E. R. Parker, Solid State Commun. **2**, 123 (1964).
+* [11] L. P. Gor'kov and E. I. Rashba, Phys. Rev. Lett. **87**, 037004 (2001).
+* [12] P. A. Frigeri, D. F. Agterberg, A. Koga, and M. Sigrist, Phys. Rev. Lett. **92**, 097001 (2004).
+* [13] M. Sigrist, D. F. Agterberg, P. A. Frigeri, N. Hayashi, R. P. Kaur, A. Koga, I. Milat, K. Wakabayashi, and Y. Yanase, J. Magn. Magn. Mater. **310**, 536 (2007).
+* [14] P. A. Frigeri, D. F. Agterberg, I. Milat, and M. Sigrist, Eur. Phys. J. B **54**, 435 (2006).
+* [15] P. A. Frigeri, D. F. Agterberg, and M. Sigrist, New J. Phys. **6**, 115 (2004).
+* [16] H. Q. Yuan, D. F. Agterberg, N. Hayashi, P. Badica, D. Vandervelde, K. Togano, M. Sigrist, and M. B. Salamon, Phys. Rev. Lett. **97**, 017006 (2006).
+* [17] E. Bauer, G. Hilscher, H. Michor, Ch. Paul, E. W. Scheidt, A. Gribanov, Yu. Seropegin, H. Noel, M. Sigrist, and P. Rogl, Phys. Rev. Lett. **92**, 027003 (2004).
+* [18] Y. Yanase and M. Sigrist, J. Phys. Soc. Jpn. **76**, 043712 (2007).
+* [19] N. Hayashi, K. Wakabayashi, P. A. Frigeri, and M. Sigrist, Phys. Rev. B **73**, 092508 (2006).
+* [20] N. Kimura, K. Ito, K. Saitoh, Y. Umeda, H. Aoki, and T. Terashima, Phys. Rev. Lett. **95**, 247004 (2005).
+* [21] I. Sugitani, Y. Okuda, H. Shishido, T. Yamada, A. Thamizhavel, E. Yamamoto, T. D. Matsuda, Y. Haga, T. Takeuchi, R. Settai, and Y. Onuki, J. Phys. Soc. Jpn. **75**, 034703 (2006).
+* [22] K. Togano, P. Badica, Y. Nakamori, S. Orimo, H. Takeya, and K. Hirata, Phys. Rev. Lett. **93**, 247004 (2004).
+* [23] T. Akazawa, H. Hidaka, T. Fujiwara, T. C. Kobayashi, E. Yamamoto, Y. Haga, R. Settai, and Y. Onuki, J. Phys.: Condens. Matter **16**, L29 (2004).
+* [24] R. D. Blaugher and J. K. Hulm, J. Phys. Chem. Solids **19**, 134 (1961).
+* [25] H. J. Fink, A. C. Thorsen, E. Parker, V. F. Zackay, and L. Toth, Phys. Rev. **138**, A1170 (1965).
+* [26] L. E. Toth, W. Jeitschko, and C. M. Yen, J. Less-Common Met. **10**, 29 (1966).
+* [27] P. Blaha, K. Schwarz, G. K. H. Madsen, D. Kvasnicka, and J. Luitz, _in WIEN2K: An Augmented Plane Wave Local Orbitals Program for Calculating Crystal Properties_, edited by Karlheinz Schwarz (Technical University of Wien, Vienna, 2001).
+* [28] J. P. Perdew, K. Burke, and M. Ernzerhof, Phys. Rev. Lett. **77**, 3865 (1996).
+* [29] N. R. Werthamer, E. Helfand, and P. C. Hohenberg, Phys. Rev. **147**, 295 (1966).
+* [30] M. Tinkham, _Introduction to Superconductivity_, 2nd ed. (McGraw-Hill, New York, 1975), p. 64.
+* [31] J. P. Carbotte, Rev. Mod. Phys. **62**, 1027 (1990).
+* [32] Z. Q. Mao, M. M. Rosario, K. D. Nelson, K. Wu, I. G. Deac, P. Schiffer, Y. Liu, T. He, K. A. Regan, and R. J. Cava, Phys. Rev. B **67**, 094502 (2003).
+* [33] A. Junod, in _Studies of High Temperature Superconductors_, edited by A. Nordiker (Nova Science, New York, 1996), Vol. 19.
+* [34] E. Bauer, G. Rogl, Xing-Qiu Chen, R. T. Khan, H. Michor, G. Hilscher, E. Royanian, K. Kumagai, D. Z. Li, Y. Y. Li, R. Podloucky, and P. Rogl, Phys. Rev. B **82**, 064511 (2010).
+
+ 

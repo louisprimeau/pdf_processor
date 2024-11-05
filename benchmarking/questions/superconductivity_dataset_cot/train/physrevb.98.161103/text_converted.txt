@@ -1,0 +1,457 @@
+Evidence of a structural quantum critical point in
+(Ca_(x)Sr_(1 − x))₃Rh₄Sn₁₃ from a lattice dynamics study
+
+Y. W. Cheung, Y. J. Hu, M. Imai, Y. Tanioku, H. Kanagawa, J. Murakawa,
+K. Moriyama, W. Zhang, K. T. Lai, K. Yoshimura, F. M. Grosche, K.
+Kaneko, S. Tsutsui, and Swee K. Goh
+
+kkgoh@phy.cuhk.edu.hk Department of Physics, The Chinese University of
+Hong Kong, Shatin, New Territories, Hong Kong, China
+
+2Department of Chemistry, Graduate School of Science, Kyoto University,
+Kyoto 606-8502, Japan
+
+3Cavendish Laboratory, University of Cambridge, J. J. Thomson Avenue,
+Cambridge CB3 0HE, United Kingdom
+
+4Materials Sciences Research Center, Japan Atomic Energy Agency, Tokai,
+Naka, Ibaraki 319-1195, Japan
+
+5Japan Synchrotron Radiation Research Institute (JASRI), SPring-8, Sayo,
+Hyogo 679-5198, Japan
+
+6Shenzhen Research Institute, The Chinese University of Hong Kong,
+Shatin, New Territories, Hong Kong, China
+
+###### Abstract
+
+Approaching a quantum critical point (QCP) has been an effective route
+to stabilize superconductivity. While the role of magnetic QCPs has been
+extensively discussed, similar exploration of a structural QCP is scarce
+due to the lack of suitable systems with a continuous structural
+transition that can be conveniently tuned to 0 K. Using inelastic x-ray
+scattering, we examine the phonon spectrum of the nonmagnetic
+quasiskutterudite (Ca_(x)Sr_(1 − x))₃Rh₄Sn₁₃, which represents a
+precious system to explore the interplay between structural
+instabilities and superconductivity by tuning the Ca concentration x. We
+unambiguously detect the softening of phonon modes around the **M**
+point on cooling towards the structural transition. Intriguingly, at
+x = 0.85, the soft mode energy squared at the **M** point extrapolates
+to zero at (−5.7 ± 7.7) K, providing the first compelling microscopic
+evidence of a structural QCP in (Ca_(x)Sr_(1 − x))₃Rh₄Sn₁₃. The enhanced
+phonon density of states at low energy provides the essential ingredient
+for realizing strong-coupling superconductivity near the structural QCP.
+
+DOI: 10.1103/PhysRevB.98.161103
+
+The emergence of superconductivity near a quantum critical point has
+inspired intensive research on the role of quantum fluctuations on
+stabilizing new phases. While the temperature-tuning parameter phase
+diagrams constructed for a wide range of superconductors share
+qualitative similarity [1, 2, 3, 4, 5, 6], the pairing mechanism highly
+depends on the type of the quantum critical point (QCP). The magnetic
+QCP, for example, is generally believed to be related to the surrounding
+unconventional superconducting state, where the pairing may not be
+mediated by phonons [7, 8]. To find out if quantum fluctuations from
+other types of QCP can enhance superconductivity, the identification of
+QCPs associated with a nonmagnetic transition–and the search of
+superconductivity in the vicinity–is an important topic in correlated
+electron research.
+
+Approaching structural instabilities has been another promising route to
+enhance superconductivity. This concept has been applied to materials
+such as A15 compounds [9, 10, 11], cuprates [12, 13, 14], perovskites
+[15], transition metal dichalcogenides [16, 17, 18, 19, 20, 21], and Ni-
+and Fe-based superconductors [22, 23, 24, 25, 26]. However, contrary to
+the magnetic counterpart, clear examples of a QCP resulting solely from
+a tunable structural phase transition are rare, thereby hampering a
+systematic study of structural quantum criticality and its influence on
+superconductivity. Recently, the existence of the structural QCP (SQCP)
+has been suggested in LaCu_(6 − x)Au_(x)[27] and ScF₃[28], although
+superconductivity has not been observed near the SQCP in the former
+compound, and the latter compound is an insulator.
+
+The nonmagnetic quasiskutterudite superconductors
+(Ca_(x)Sr_(1 − x))₃Rh₄Sn₁₃ and (Ca_(x)Sr_(1 − x))₃Ir₄Sn₁₃ have recently
+been identified as promising systems for realizing a SQCP. The end
+compound Sr₃Rh₄Sn₁₃, with a space group of $Pm\bar{3}n$ at room
+temperature [29], undergoes a second-order structural transition to
+$I\bar{4}3d$ at T^(*) = 138 K and a superconducting transition at
+T_(c) = 4.2 K [30, 31, 32, 33, 34]. With an increasing Ca fraction x,
+which introduces chemical pressure, T^(*) decreases linearly and
+extrapolates to 0 K at x ≈ 0.9[30, 31, 35], while T_(c) takes a
+dome-shaped dependence with a maximum value of 8.9 K. At x = 0.9, the
+coupling strength is found to be dramatically enhanced
+(2Δ_(sc)/k_(B)T_(c) = 6.36), and a distinct linear-in-T resistivity was
+detected from T_(c) to ∼40 K, accompanied by a 33
+
+Nevertheless, microscopic evidence for the existence of a SQCP has thus
+far been missing. The feature associated with the structural transition
+in a range of experimental probes is weakened when approaching the
+putative SQCP. In (Ca_(x)Sr_(1 − x))₃Rh₄Sn₁₃ with x = 0.75, which is
+still quite far away from the SQCP, the structural transition can no
+longer be identified in specific heat [31], and only a weak feature can
+be discerned in electrical resistivity [30]. Indeed, for structural
+transition in a metallic system, it seems to be a common issue that it
+is difficult to identify the transition when tuning towards the SQCP.
+Examples include Lu(Pt1-xPd_t_)2In [6] and 2_H_-NbSe2 [38] which have
+structural transitions driven by charge-density-wave instability. This
+would raise questions on the nature of the lattice dynamics close to the
+SQCP.
+
+In this Rapid Communication, we investigate the lattice dynamics in
+(Ca_x_Sr1-x_)3Rh4Sn13 with four calcium concentrations using inelastic
+x-ray scattering (IXS). We discover that, at x = 0.85, the soft mode
+energy squared at the **M** point extrapolates to zero at (−5.7 ± 7.7)
+K. Thus, the collapse of an energy scale is detected, providing
+microscopic evidence for the existence of a SQCP in this series. Our
+data offer a natural explanation for the observation of low
+$\Theta_{\rm D}$ and the strong-coupling superconductivity in the
+vicinity of x = 0.9.
+
+Single crystals of (Ca_x_Sr1-x_)3Rh4Sn13 were obtained by the Sn flux
+method as described in Ref. [40]. IXS was performed at BL35XU of
+SPring-8 in Japan. Further details of the experimental setup and the
+analysis of the IXS spectra are provided in the Supplemental Material
+[39].
+
+To understand the evolution of the phonon modes, we first examine
+Ca3Rh4Sn13 (_x_ = 1) at 300 K. In Ca3Rh4Sn13, the room temperature
+_Pm3n_ cubic structure remains stable down to the lowest temperature
+[30, 31]. Hence, Ca3Rh4Sn13 at 300 K is far away from structural
+instability and the phonon structure serves as an important benchmark.
+Figures 1(a) and 1(b) show representative constant-**Q** scans at **Q**
+= (6.50 6.50 1.00) and (6.35 6.36 1.04) for Ca3Rh4Sn13 at 300 K. As
+shown in both figures, we successfully resolve the elastic peak and four
+independent inelastic peaks below 15 meV. The inclusion of the peaks
+coming from the anti-Stokes process improves the reliability of the fit.
+The inelastic peaks thus resolved are plotted as individual Lorentzian
+peaks, with the center corresponding to phonon mode energies [39].
+
+The complex unit cell, with 40 atoms in each structural unit, gives a
+large number of phonon branches. We find that the peaks contributed by
+phonons with energy higher than ∼8 meV highly overlap in energy space
+within our resolution. However, the main purpose here is to track the
+evolution of low-energy excitations, and hence a complete resolution of
+high energy modes is beyond the scope of the present study. By plotting
+the energies of the two peaks with lowest energies along the **G**-**M**
+direction, as shown in Fig. 1(c), we identify them as two optical
+branches. After overlaying the dispersions at 300 K for x = 0.75 and x =
+0.5 (C1) on the same graph, it is immediately clear that they all share
+the same optical branches below 8 meV, indicating that these branches
+are not sensitive to chemical pressure. In the constant-**Q** scans near
+**G**, x = 0.75 and x = 0.5 (C1) show extra but weak intensities at low
+energy transfer, which can be attributed to acoustic branches.
+
+Next, we investigate the lattice dynamics on approaching structural
+instabilities. Previous density functional theory calculations for
+Sr3Rh4Sn13 and Sr3Ir4Sn13 [30, 41] suggest that the phonon instability
+is located at the **M** point. Subsequently, softening of the phonon
+mode at **M** was observed by inelastic neutron scattering in Ca3Ir4Sn13
+[42]. In light of these results, we conduct a series of IXS measurements
+on (Ca_x_Sr1-x_)3Rh4Sn13 with four calcium contents to probe the phonon
+structure at **M**. Figure 2 shows the resultant spectra in x = 0 and
+0.75. Similar data for x = 0.5 (C2) and x = 0.85 can be found in the
+Supplemental Material [39]. Due to the
+
+Figure 2: Constant-**Q** scans at the **M** point with temperatures
+above the structural transition temperature in (a) x = 0 and (b) x =
+0.75. The blue dashed lines represent the soft phonon mode responsible
+for the structural transition. For clarity, only the two peaks with the
+lowest energies are shown.
+
+Figure 1: Room temperature IXS data showing intensity against energy
+transfer for x = 1 at (a) **Q** = (6.50 6.50 1.00) and (b) (6.35 6.36
+1.04). Data are shown by crosses with vertical error bars. The black
+solid lines are the fits described in the Supplemental Material [39].
+(c) Dispersion relations showing the phonon modes with energies lower
+than 8 meV for various calcium contents. For x = 1, these are the modes
+displayed as dotted lines in (a) and (b). The dotted lines in (c) are
+guides for eyes.
+
+presence of the elastic peak, the peak contributed by the soft mode may
+be masked near zero energy. With this in mind, we performed measurements
+covering a wide temperature range. From the decomposition of the total
+intensity, we can recognize a peak, plotted using green dotted lines, at
+∼5 meV in all spectra. Therefore, this peak is not sensitive to
+temperature, despite the fact that the temperature has been varied by a
+large amount. In fact, this is the same peak that already exists far
+away from structural instabilities, as discussed above.
+
+Close inspection of the spectra in Fig. 2 reveals the existence of
+another low-energy excitation, represented by the peak in the blue
+dashed line. In x = 0.75, for instance, this mode has an energy of 3.0
+meV at 130 K, as indicated by the vertical arrow. With cooling, the mode
+energy decreases rapidly and reaches 1.2 meV at 35 K. This is in stark
+contrast to the peak in the green dotted line, which exhibits no
+temperature dependence. For x = 0.75, it has been established via
+electrical resistivity that T^(*) ≈ 28 K [30]. Therefore, the softening
+of this mode on cooling confirms its relevance to structural transition.
+
+The energy squared of this soft mode (E_(soft)²) in x = 0.75 is plotted
+against temperature in Fig. 3(f), along with similar data obtained in
+x = 0, 0.5 and 0.85 [see Figs. 3(b), 3(d) and 3(h)]. The lowest energy
+mode for each composition, denoted by open symbols, is determined by the
+analysis of the corresponding dispersion relation along Γ − M − Γ as
+discussed below, so that complications due to the presence of the
+elastic peak can be eliminated. From Figs. 3(b), 3(d) 3(f), and 3(h), we
+conclude that E_(soft)² ∝ T for all compositions. The proportionality
+factor, which determines how rapidly the relevant phonon mode softens,
+is not a strong function of x. The temperature at which E_(soft)²
+extrapolates to zero is defined as T^(*). The values of T^(*) obtained
+are plotted against the nominal calcium concentration in Fig. 3(i),
+showing an excellent agreement with the phase diagram constructed
+earlier using resistivity [30] and specific heat [31] data. In x = 0, we
+additionally confirmed the recovery of the soft mode below T^(*): The
+soft mode hardens again and reaches 2.4 meV at 70 K, which is ∼60 K
+below T^(*), as shown in the Supplemental Material [39]. These results
+are fully consistent with the expectation from the Landau theory for a
+second-order structural transition where E_(soft)² plays the role of the
+inverse susceptibility [43] and confirm that the transition is driven by
+this particular phonon mode. Intriguingly, for x = 0.85, E_(soft)²
+extrapolates to zero at (−5.7 ± 7.7) K, thereby establishing this
+composition to be at, or very close to, the SQCP. Thus, our IXS data
+provide compelling microscopic evidence for the existence of a SQCP in
+the phase diagram of (Ca_(x)Sr_(1 − x))₃Rh₄Sn₁₃.
+
+For all samples studied, we additionally performed x-ray diffraction
+measurements at M to probe the superlattice intensity using the same
+spectrometer. The temperature dependence of the superlattice intensity
+at M is shown in Figs. 3(a), 3(c) 3(e), and 3(g). A rapid growth of the
+superlattice intensity occurs near T^(*), where E_(soft)² → 0. This
+reinforces the view that the phonon mode softening is intimately linked
+to the structural transition. In x = 0.75, the superlattice intensity
+begins to grow at ∼30 K, which is slightly higher than T^(*) determined
+from the analysis of E_(soft)²(T) of the soft mode. However, the
+superlattice intensity is weak in x = 0.75 and the growth is rather
+slow. Further studies with a diffractometer (instead of a spectrometer)
+is highly desirable. In x = 0.85, we did not detect the growth of the
+superlattice intensity down to 7 K, the base temperature of our setup,
+again consistent with the measured E_(soft)²(T).
+
+In order to understand how structural instabilities affect the low
+energy excitations, we examine the phonon modes around the M point. As
+the intensity of the modes around M is weak compared with the higher
+energy modes, we have performed IXS measurements at Q = (6 + h 6 + h 1)
+and (6 + h 7 − h 1), where h = 0.5 corresponds to the M point.
+Representative IXS spectra can be found in the Supplemental Material
+[39]. IXS scans in (6 + h 6 + h 1) and (6 + h 7 − h 1) will
+predominantly measure modes with a longitudinal and transverse
+component, respectively. Figures 4(a) and 4(b) show the dispersion of
+x = 0 and x = 0.85 around M, respectively, each at two chosen
+temperatures above T^(*). Similar data for x = 0.5 (C2) and x = 0.75 are
+shown in Supplemental Material [39]. Observation of soft modes confirms
+the existence of lattice instability at M. The softening of the phonon
+modes is broadly distributed in momentum space, in contrast to a sharp
+Kohn anomaly caused by Fermi surface nesting in low-dimensional
+charge-density-wave systems [44]. The dispersion relations above T^(*)
+can be fitted by
+
+$$E(q^{\prime})=\sqrt{c^{2}q^{\prime 2}+\Delta^{2}},$$
+(1)
+
+where q^(′) is the wave vector measured from M and Δ is the energy of
+the soft mode at M. As there is no significant
+
+Figure 3: Intensity of the superlattice reflection and energy squared of
+the soft mode against temperature in (a),(b) x = 0; (c),(d) x = 0.5;
+(e),(f) x = 0.75; (g),(h) x = 0.85. Two x = 0.5 crystals (C1 and C2)
+were measured, showing a small difference, which can be attributed to a
+slight variation in the actual calcium content. For (b),(d),(f), and
+(h), closed symbols are extracted by fitting the IXS spectra with Eq.
+(S1); open symbols are determined by fitting the dispersion relations
+with Eq. (1). The dotted lines are the linear fit of the data, and the
+vertical dashed lines mark the T^(*). (i) Phase diagram of
+(Ca_(x)Sr_(1 − x))₃Rh₄Sn₁₃. The polygons represent T^(*) obtained from
+IXS data, defined as the temperature where the energy squared of the
+soft mode extrapolated to 0 K. Small circles and crosses are data from
+specific heat and electrical resistivity in Ref. [31,30], respectively.
+
+difference between the two dispersions in both directions, data in both
+directions are fitted by a single curve. The fitted values of Δ² for the
+lower temperature branches are shown as open symbols in Figs. 3(b), 3(d)
+3(f), and 3(h).
+
+In x = 0, which is far from the SQCP, the soft phonon mode has
+significantly hardened by the time superconductivity sets in [39].
+Therefore, $2\Delta_{\rm ac}/k_{\rm B}T_{\rm c}$ and ΔC/γT_(c) both take
+the BCS weak coupling values, and T_(c) is lower. At the SQCP, the soft
+mode at M only softens near the zero temperature, thereby contributing
+to the large ∼T³ specific heat at low temperatures, strong-coupling
+superconductivity, and a higher T_(c)[31]. Furthermore, the observed
+linear-in-T resistivity [30] can be naturally interpreted as the result
+of scattering off the low-lying phonon modes. To investigate the role of
+the ∼5 meV branch mentioned earlier, we also track this particular
+branch below T^(*) for x = 0[39]. This branch exists below T^(*) as
+well, and it is still temperature insensitive. Hence, this branch
+appears to be very robust across a wide temperature and composition
+range, and it is not relevant to the structural transition or the
+enhancement of superconductivity upon Ca tuning. Thus, strong-coupling
+superconductivity and structural transition are driven by the same soft
+phonon mode in (Ca_(x)Sr_(1 − x))₃Rh₄Sn₁₃.
+
+Recently, strong-coupling superconductivity and linear-in-T resistivity
+were also reported in Bi-III, which has an incommensurate host-guest
+structure, accompanied by "built-in" phason modes [45]. Thus, Bi-III and
+(Ca_(x)Sr_(1 − x))₃Rh₄Sn₁₃ share an important similarity in that both
+systems feature a large phonon density of states at low energy that
+facilitates the formation of strong-coupling superconductivity, despite
+the different mechanisms of generating these low-lying modes.
+
+The IXS data reported here provide key spectroscopic evidence for the
+collapse of an energy scale when the second-order phase transition
+temperature is tuned to 0 K. Therefore, (Ca_(x)Sr_(1 − x))₃Rh₄Sn₁₃
+provides another example in which the principle of quantum criticality
+can guide the search of superconductivity or the optimization of
+superconducting properties. Note that quantum critical behavior
+associated with structural transition has also been studied in
+ferroelectric materials [46, 47] which are insulators and have net
+dipole moment given by the softening of a zone-center mode. In
+SrTiO³ ⁻ ⁴, oxygen vacancies introduce charge carriers and induce
+superconductivity for small δ. Through the substitution of Sr by Ca, a
+ferroelectriclike quantum phase transition would take place at finite δ,
+where superconductivity is enhanced [48]. Therefore,
+Sr_(1 − x)Ca_(x)TiO_(3 − δ) emerges as an important paradigm to explore
+the interplay between the ferroelectric-like structural distortion and
+superconductivity. It would be interesting to follow the lattice
+dynamics of Sr_(1 − x)Ca_(x)TiO_(3 − δ) across the quantum phase
+transition and compare the resultant phonon structure with the present
+study. In addition to superconductivity, it is important to point out
+that other interesting phenomena have been observed when one looks
+closer to the zero temperature instability. For instance, near a
+ferromagnetic quantum phase transition, the character of the phase
+transition is often discontinuous, raising the hotly debated question if
+a ferromagnetic QCP can ever be realized [49]. With the notion of
+structural quantum criticality established in
+(Ca_(x)Sr_(1 − x))₃Rh₄Sn₁₃, further explorations in the vicinity of the
+SQCP are highly desirable.
+
+In summary, we have probed the lattice dynamics in
+(Ca_(x)Sr_(1 − x))₃Rh₄Sn₁₃ with IXS measurements. Far away from
+structural instabilities, there are low-lying phonon branches with weak
+dispersion at ∼5-8 meV with no obvious dependence on temperature and
+chemical pressure. However, our data reveal another phonon branch which
+is more dispersive and exhibits strong dependence on temperature and
+chemical pressure. In particular, in x = 0, 0.5, and 0.75, we found that
+the soft phonon mode at M can be completely softened close to the
+temperature where the superlattice intensity begins to grow, signifying
+its relevance to structural instabilities. For x = 0.85, the energy
+squared of this phonon mode extrapolates to zero at (−5.7 ± 7.7) K,
+indicating that the composition is located very close to or at the SQCP.
+The analysis of the dispersion relation around M reveals the existence
+of low-lying phonon modes, which offers a natural explanation for the
+low Debye temperature, the maximized $T_{\rm c}$, as well as the
+enhanced electron-phonon coupling strength near the SQCP. Therefore,
+(Ca_(x)Sr_(1 − x))₃Rh₄Sn₁₃ is a rare quantum critical system in which
+manifestations of phonon softening on electronic, thermal, and
+superconducting properties can be investigated systematically.
+
+The authors acknowledge Xiaoye Chen and Youichi Yanase for helpful
+discussions, and Hiroshi Uchiyama for experimental assistance for one of
+the beamtimes. This experiment was carried out under the approval of
+JASRI (Proposal No. 2013B1095, No. 2015B1294, No. 2016A1160, No.
+2017A1130, No. 2017B1228 and No. 2018A1399). This work was financially
+supported by Research Grants Council of Hong Kong (ECS/24300214,
+GRF/14300117), CUHK Direct Grant (No. 4053223), CUHK Startup (No.
+4930048), National Natural Science Foundation of China (No. 11504310),
+and Grants-in-Aid for Scientific Research from MEXT of Japan (No.
+16H04131, No. 15H03697, No. 16K05031).
+
+Figure 4: The dispersion relations in (a) x = 0, and (b) x = 0.85
+measured around Q = (6.5 6.5 1). Closed and open symbols represent data
+at Q = (6 + h 6 + h 1) and (6 + h 7 − h 1), respectively. The dispersion
+relations are analyzed using Eq. (1).
+
+* [1] N. D. Mathur, F. M. Grosche, S. R. Julian, I. R. Walker, D. M.
+Freye, R. K. W. Haselwimmer, and G. G. Lonzarich, Nature (London)
+**394**, 39 (1998). * [2] E. Slooten, T. Naka, A. Gasparini, Y. K.
+Huang, and A. de Visser, Phys. Rev. Lett. **103**, 097003 (2009). * [3]
+P. Gegenwart, Q. Si, and F. Steglich, Nat. Phys. **4**, 186 (2008). *
+[4] J. Paglione and R. L. Greene, Nat. Phys. **6**, 645 (2010). * [5] T.
+Shibauchi, A. Carrington, and Y. Matsuda, Annu. Rev. Condens. Matter
+Phys. **5**, 113 (2014). * [6] T. Gruner, D. Jang, Z. Huegges, R.
+Cardoso-Gil, G. H. Fecher, M. M. Koza, O. Stockert, A. P. Mackenzie, M.
+Brando, and C. Geibel, Nat. Phys. **13**, 967 (2017). * [7] D. J.
+Scalapino, Rev. Mod. Phys. **84**, 1383 (2012). * [8] P. Monthoux, D.
+Pines, and G. G. Lonzarich, Nature (London) **450**, 1177 (2007). * [9]
+C. W. Chu and L. R. Testardi, Phys. Rev. Lett. **32**, 766 (1974). *
+[10] C. W. Chu, Phys. Rev. Lett. **33**, 1283 (1974). * [11] L. R.
+Testardi, Rev. Mod. Phys. **47**, 637 (1975). * [12] A. Bussmann-Holder
+and A. R. Bishop, Z. Phys. B **86**, 183 (1992). * [13] R. J. Birgeneau,
+C. Y. Chen, D. R. Gabbe, H. P. Jenssen, M. A. Kastner, C. J. Peters, P.
+J. Picone, T. Thio, T. R. Thurston, H. L. Tuller, J. D. Axe, P. Boni,
+and G. Shirane, Phys. Rev. Lett. **59**, 1329 (1987). * [14] S.
+Wakimoto, S. Lee, P. M. Gehring, R. J. Birgeneau, and G. Shirane, J.
+Phys. Soc. Jpn. **73**, 3413 (2004). * [15] H. Kang, Y. Lee, J. Lynn, S.
+Shiryaev, and S. Barilo, Physica C **471**, 303 (2011). * [16] J. J.
+Yang, Y. J. Choi, Y. S. Oh, A. Hogan, Y. Horibe, K. Kim, B. I. Min, and
+S.-W. Cheong, Phys. Rev. Lett. **108**, 116402 (2012). * [17] S. Pyon,
+K. Kudo, and M. Nohara, J. Phys. Soc. Jpn. **81**, 053701 (2012). * [18]
+A. F. Fang, G. Xu, T. Dong, P. Zheng, and N. L. Wang, Sci. Rep. **3**,
+1153 (2013). * [19] M. Kamitani, H. Sakai, Y. Tokura, and S. Ishiwata,
+Phys. Rev. B **94**, 134507 (2016). * [20] K. Kudo, H. Ishii, and M.
+Nohara, Phys. Rev. B **93**, 140505 (2016). * [21] C. Heil, S. Ponce, H.
+Lambert, M. Schlipf, E. R. Margine, and F. Giustino, Phys. Rev. Lett.
+**119**, 087003 (2017). * [22] C. de la Cruz, Q. Huang, J. W. Lynn, J.
+Li, W. Ratcliff, II, J. L. Zarestky, H. A. Mook, G. F. Chen, J. L. Luo,
+N. L. Wang, and P. Dai, Nature (London) **453**, 899 (2008). * [23] M.
+Yoshizawa, D. Kimura, T. Chiba, S. Simayi, Y. Nakanishi, K. Kihou, C.-H.
+Lee, A. Iyo, H. Eisaki, M. Nakajima, and S. ichi Uchida, J. Phys. Soc.
+Jpn. **81**, 024604 (2012). * [24] J. L. Niedziela, D. Parshall, K. A.
+Lokshin, A. S. Sefat, A. Alatas, and T. Egami, Phys. Rev. B **84**,
+224305 (2011). * [25] K. Kudo, M. Takasuga, Y. Okamoto, Z. Hiroi, and M.
+Nohara, Phys. Rev. Lett. **109**, 097002 (2012). * [26] D. Hirai, F. von
+Rohr, and R. J. Cava, Phys. Rev. B **86**, 100505 (2012). * [27] L.
+Poudel, A. F. May, M. R. Koehler, M. A. McGuire, S. Mukhopadhyay, S.
+Calder, R. E. Baumbach, R. Mukherjee, D. Sapkota, C. de la Cruz, D. J.
+Singh, D. Mandrus, and A. D. Christianson, Phys. Rev. Lett. **117**,
+235701 (2016). * [28] S. U. Handunkanda, E. B. Curry, V. Voronov, A. H.
+Said, G. G. Guzman-Verri, R. T. Brierley, P. B. Littlewood, and J. N.
+Hancock, Phys. Rev. B **92**, 134101 (2015). * [29] N. Kase, H.
+Hayamizu, and J. Akimitsu, Phys. Rev. B **83**, 184509 (2011). * [30] S.
+K. Goh, D. A. Tompsett, P. J. Saines, H. C. Chang, T. Matsumoto, M.
+Imai, K. Yoshimura, and F. M. Grosche, Phys. Rev. Lett. **114**, 097002
+(2015). * [31] W. C. Yu, Y. W. Cheung, P. J. Saines, M. Imai, T.
+Matsumoto, C. Michioka, K. Yoshimura, and S. K. Goh, Phys. Rev. Lett.
+**115**, 207003 (2015). * [32] C. S. Lue, C. N. Kuo, C. W. Tseng, K. K.
+Wu, Y.-H. Liang, C.-H. Du, and Y. K. Kuo, Phys. Rev. B **93**, 245119
+(2016). * [33] Y. W. Cheung, J. Z. Zhang, J. Y. Zhu, W. C. Yu, Y. J. Hu,
+D. G. Wang, Y. O’tono, K. Iwasa, K. Kaneko, M. Imai, H. Kanagawa, K.
+Yoshimura, and S. K. Goh, Phys. Rev. B **93**, 241112 (2016). * [34] Y.
+W. Cheung, Y. J. Hu, S. K. Goh, K. Kaneko, S. Tsutsui, P. W. Logg, F. M.
+Grosche, H. Kanagawa, Y. Tanioku, M. Imai, T. Matsumoto, and K.
+Yoshimura, J. Phys.: Conf. Ser. **807**, 032002 (2017). * [35] Y. J. Hu,
+Y. W. Cheung, W. C. Yu, M. Imai, H. Kanagawa, J. Murakawa, K. Yoshimura,
+and S. K. Goh, Phys. Rev. B **95**, 155142 (2017). * [36] L. E.
+Klintberg, S. K. Goh, P. L. Alireza, P. J. Saines, D. A. Tompsett, P. W.
+Logg, J. Yang, B. Chen, K. Yoshimura, and F. M. Grosche, Phys. Rev.
+Lett. **109**, 237008 (2012). * [37] P. K. Biswas, Z. Guguchia, R.
+Khasanov, M. Chinotti, L. Li, K. Wang, C. Petrovic, and E. Morenzoni,
+Phys. Rev. B **92**, 195122 (2015). * [38] Y. Feng, J. Wang, R.
+Jaramillo, J. van Wezel, S. Haravifard, G. Srajer, Y. Liu, Z.-A. Xu, P.
+B. Littlewood, and T. F. Rosenbaum, Proc. Natl. Acad. Sci. USA **109**,
+7224 (2012). * [39] See Supplemental Material at
+http://link.aps.org/supplemental/10.1103/PhysRevB.98.161103 for (1)
+experimental methods, (2) procedures of analyzing the IXS spectra, (3)
+IXS spectra showing phonon softening for x = 0.5 and x = 0.85, (4)
+dispersion relations of x = 0.5 and x = 0.75, and (5) phonon mode
+recovery below T^(*) for x = 0. * [40] J. Yang, B. Chen, C. Michioka,
+and K. Yoshimura, J. Phys. Soc. Jpn. **79**, 113705 (2010). * [41] D. A.
+Tompsett, Phys. Rev. B **89**, 075117 (2014). * [42] D. G. Mazzone, S.
+Gerber, J. L. Gavilano, R. Sibille, M. Medarde, B. Delley, M.
+Ramakrishnan, M. Neugebauer, L. P. Regnault, D. Chernyshov, A. Piovano,
+T. M. Fernandez-Diaz, L. Keller, A. Cervellino, E. Pomjakushina, K.
+Conder, and M. Kenzelmann, Phys. Rev. B **92**, 024101 (2015). * [43] M.
+T. Dove, _Structure and Dynamics: An Atomic View of Materials_ (Oxford
+University Press, New York, 2003), Vol. 1. * [44] G. Gruner, _Density
+Waves In Solids_, Frontiers in Physics (Westview Press, Florida,
+2009). * [45] P. Brown, K. Semeniuk, D. Wang, B. Monserrat, C. J.
+Pickard, and F. M. Grosche, Sci. Adv. **4**, eaao4793 (2018). * [46] S.
+E. Rowley, L. J. Spalek, R. P. Smith, M. P. M. Dean, M. Itoh, J. F.
+Scott, G. G. Lonzarich, and S. S. Saxena, Nat. Phys. **10**, 367
+(2014). * [47] P. Chandra, G. G. Lonzarich, S. E. Rowley, and J. F.
+Scott, Rep. Prog. Phys. **80**, 112502 (2017). * [48] C. W. Rischau, X.
+Lin, C. P. Grams, D. Finck, S. Harms, J. Engelmayer, T. Lorenz, Y.
+Gallais, B. Fauque, J. Hemberger, and K. Behnia, Nat. Phys. **13**, 643
+(2017). * [49] M. Brando, D. Belitz, F. M. Grosche, and T. R.
+Kirkpatrick, Rev. Mod. Phys. **88**, 025006 (2016).

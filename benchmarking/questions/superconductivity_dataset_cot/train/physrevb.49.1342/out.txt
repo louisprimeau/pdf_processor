@@ -1,0 +1,221 @@
+Anisotropy of YBa_{2}Cu_{3-x}Fe_{x}O_{7-\delta} single crystals studied by torque magnetometry
+
+T. R. Chien and W. R. Datars
+
+Department of Physics and Astronomy, McMaster University, Hamilton, Ontario, Canada L8S 4M1
+
+M. D. Lan, J. Z. Liu, and R. N. Shelton
+
+Department of Physics, University of California at Davis, Davis, California 95616
+
+30 August 1993
+
+###### Abstract
+
+The coherence-length anisotropy ratio \gamma of YBa_{2}Cu_{3-x}Fe_{x}O_{7-\delta} superconducting single crystals (x\leq 0.22) has been measured by the equilibrium-torque magnetometry method. The experiments were performed at temperatures several K below the onset T_{c} of superconductivity in magnetic fields of 1-2 T. \gamma=9.3\pm 0.3 for two pure YBa_{2}Cu_{3}O_{7-\delta} single crystals, which is 20% larger than that of previously published results. The \gamma value of YBa_{2}Cu_{3-x}Fe_{x}O_{7-\delta} increases with increasing Fe concentration to \gamma=29\pm 1.5 for x=0.22. The direct torque from the localized magnetic moments of Fe was not observed within the experimental sensitivity. The fundamental reason for the anisotropy increase is not clear.
+
+pacs: 0163-1829/44/92(1)/1342(4)/506.00
+
+## I Introduction
+
+One of the key features of the high-T_{c} cuprate superconductors is their high anisotropy compared with conventional three-dimensional (3D) BCS superconductors. This, along with other factors, leads to the conclusion that the CuO_{2} planes play an essential role in the superconductivity and there are weak interlayer couplings between them. The degree of anisotropy is usually expressed by the dimensionless parameter \gamma, which is defined as the ratio of the superconducting coherence lengths parallel and perpendicular to the basal plane (_ab_ plane). In the 3D Ginzburg-Landau model, \gamma=(m_{c}/m_{a})^{1/2}, where m_{c} and m_{a} are the effective masses along the c axis and the _ab_ plane, respectively.
+
+Ways of measuring \gamma include resistive, magnetic, and torque methods. Among all these possibilities, the equilibrium torque method offers the most unambiguous way to measure \gamma directly. An anisotropic superconductor experiences a torque \tau=M\times H in a magnetic field H. The angular dependence of \tau(\theta) gives a direct measure of \gamma of the superconductor where \theta is the angle between the c axis and the applied H. This line of thinking has been developed theoretically by Kogan and Clem [1, 2] and more recently by Hao and Clem [3] and Blatter, Geshkenbein, and Larkin [4].
+
+For pure YBa_{2}Cu_{3}O_{7-\delta} crystals, recent equilibrium torque measurements gave a \gamma value close to 7.5 [5, 6]. As a comparison, previous anisotropy measurements of H_{C2} by dc magnetization method indicated \gamma\approx 5 (Ref. 7) and resistivity measurements gave \rho_{c}/\rho_{a}\approx 40 (Ref. 8) for pure YBa_{2}Cu_{3}O_{7-\delta}.
+
+In regard to the general physical properties of the YBa_{2}Cu_{3-x}Fe_{x}O_{7-\delta} system, earlier work provided a great deal of information. The solubility limit of x in YBa_{2}Cu_{3-x}Fe_{x}O_{7-\delta} was determined to be approximately 0.5 [9, 10]. The magnetic Fe^{+3} ions mainly go into the Cu(1) chain sites at low concentrations and substitution for Cu(2) plane sites starts to prevail at higher Fe concentrations. [10, 11, 12] The structure of the YBa_{2}Cu_{3-x}Fe_{x}O_{7-\delta} is orthorhombic with x<\sim 0.08 and is tetragonal with x>0.08[9, 10]. Lan _et al._[13] measured the resistivities of the YBa_{2}Cu_{3-x}Fe_{x}O_{7-\delta} single crystals and found a metallic behavior for x<0.25. The superconducting T_{c} decreases steadily with Fe doping and no abrupt change was observed across the orthorhombic-tetragonal transition [11]. The Fe^{3+} ions form localized magnetic moments with \mu_{\rm eff}=3.4\mu_{B} per ion, from the Curie-Weiss law of the normal state susceptibility [9] and the Mossbauer data [10]. The c-axis lattice constant increases up to \sim11.68 A at low doping level and then decreases after the orthorhombic-tetragonal transition [9].
+
+In this paper, we present anisotropy measurements of high-quality YBa_{2}Cu_{3-x}Fe_{x}O_{7-\delta} single crystals by the equilibrium torque magnetometry method. Six different doped samples with x ranging from 0 to 0.22 were studied and we found that the \gamma value increases with increasing Fe doping. More details will be discussed in the following sections.
+
+## II Experimental details
+
+A rotating magnetic torque magnetometer similar to that of Iye _et al._'s [14] was constructed. The magnetometer consists of two parts: a rotatable sample probe inside a fixed outer vacuum jacket. The magnetometer is in a dewar between the pole faces of a 2 T electromagnet. The sample sits on a thin Be-Cu plate which serves as a spring and the capacitance between this spring and a fixed electrode separated by a distance d is measured. The total capacitance is in the range of 0.25-0.35 pF. The torque \tau causes a deviation \Delta d of the Be-Cu spring. For small \Delta d, \tau is proportional to \Delta d. Since the capacitance change \Delta C is proportional to \Delta d/d(d+\Delta d), for a small deviation \Delta d the torque \tau is proportional to \Delta C  with small corrections. A Be-Cu spring with a thickness of approximately 0.04 mm was selected to make it sensitive to detect the small torque signals with a maximum capacitance change of less than 1% of the total capacitance during the experiments. With these conditions, linearity between the capacitance change and the torque signal is obeyed within 1%. Due to some magnetic impurities in the thin Be-Cu spring, some sinusoidal torque background is observed at 77 K. For our small samples, the background problem is the largest systematic error in our torque magnetometry. Numerical subtraction of the background is needed for the data analysis and it will be discussed in more detail in the next section.
+
+The sample probe was rotated by a computer-controlled stepping motor with a maximum angular resolution of 0.009^{\circ}. The rotation was done at 1 or 0.1 degree intervals and the stepping rate was between 0.5 and 0.8 steps per second. A transverse Hall sensor installed on the probe was used to monitor the angular position of the probe. Liquid nitrogen was used to cool the jacket of the probe and a mechanical pump was used to lower the vapor pressure of the liquid nitrogen so that temperatures between 55 and 77 K could be used. On the copper sample chamber, a heater connected to a temperature controller was used to stabilize the temperature to within +-30 mK.
+
+High-quality YBa2Cu3-Fe2O7-8 single crystals were grown by a modified self-flux technique at the University of California at Davis.[15, 16] The samples were oxygen annealed at 420degC for one week in a flowing oxygen environment to obtain an optimum oxygen content. The samples were smooth and shiny with typical dimensions of approximately 40 \mum x 0.7mm x 0.7mm. The masses were between 0.1 and 0.3 mg. The orthorhombic samples were microtwinned: The determination of x was made by energy-dispersive x-ray analysis (EDX)[16] and by the comparison of the onset T_{c} (10% magnetic susceptibility drop) to the previously published results.[9] Due to the low amount of Fe and the uncertainty of the oxygen concentration, the uncertainty of both methods was about 10%. This is the largest uncertainty in our experiments. The concentration x and the onset T_{c} of our YBa2Cu3-Fe2O7-8 crystals were given in Table 1.
+
+The torque experiments were performed at 2-5 K below the onset T_{c} in a field of 1.5 or 2 T. The sample probe was rotated through 190^{\circ} in both directions while the computer recorded the capacitance. The temperature and field ranges were selected so that the flux dynamics were in the reversible regime in our experimental time scale (~1 s).
+
+## 3 Results
+
+Based on the 3D anisotropic London model, in the field range H_{C2} > H > H_{C1}, the angular dependence of the equilibrium torque per unit volume is given by[2]
+
+\[\tau(\theta) = \frac{\phi_{0}H}{64\pi^{2}\lambda^{2}}\frac{\gamma^{2} - 1}{\gamma^{1/3}}\frac{\sin(2\theta)}{\epsilon(\theta)}\ln\left[\frac{\gamma\eta H_{C2}}{H\epsilon(\theta)}\right]\,,\]
+
+where \epsilon(\theta) = (\sin^{2}\theta + \gamma^{2}\cos^{2}\theta)^{1/2}, \theta is the angle between the applied field H and the c axis, \gamma = \xi_{a}/\xi_{c}, \lambda is the average penetration depth, H_{C2\sharp} is the upper critical field along the c axis, and \eta is a constant of the order of unity which is dependent on the flux lattice structure. Demagnetization effects are negligible for H > H_{C1}. Due to an uncertainty in determining the exact value of \theta during experiments, a small angular offset \Delta\theta was left as a fitting parameter. Thus, four fitting parameters were used: \gamma, \eta H_{C2\sharp}, the amplitude and \Delta\theta. Equation (1) has been verified by experiments with YBa2Cu3O7-8 (Refs. 5, 6, and 17) and Bi2Sr2CaCu2O8.[18]
+
+Figure 1 shows the \tau(\theta) curves for three different samples. In order to show each data without overlapping, arbitrary units of torque were chosen for these three data sets. The solid lines are the least \chi^{2} fit of Eq. (1) to the data. A careful look at the data shows that in the angular range 0 < \theta < \theta_{\rm max} {\theta_{\rm max} is the angle at which \tau(\theta) is maximum}, the curvature of \tau(\theta) is negative, i.e., d^{2}\tau/d\theta^{2} < 0. This feature is different from that observed by Janossy, Hergt, and Fruchter[5] and Beck _et al._[6] where a positive curvature was observed. A small \eta H_{C2\sharp}/H value for our temperature and field ranges makes the curvature of Eq. (1) negative.
+
+A problem encountered during the experiments was that the Be-Cu spring was slightly magnetic and gave a sinusoidal background which could be as large as 10% of the maximum torque signal from our smallest samples. The subtraction of this background was never perfect and caused the largest uncertainty in the fitting procedures. To minimize the background effect, the angular range chosen for the fit was either 0^{\circ} < \theta < 180^{\circ} with 180 points
+
+Figure 1: Typical \tau(\theta) curves for YBa2Cu3-Fe2O7-8 single crystals with x = 0, 0.04, and 0.22 at the temperatures and fields specified on the graph. The solid curves are the least \chi^{2} fit of Eq. (1) to the data points.
+
+  or 80^{\circ}<\theta<100^{\circ} with 100-200 points. Both fittings gave consistent \gamma values to within 3-10\,\% for data at an identical temperature and field.
+
+The magnitude of the fitting parameter \Delta\theta was always less than 0.05^{\circ} for the same background subtraction and was a negligible factor for \gamma<30. The angular correction from the deviation of the spring caused approximately a 1\% increase of the \gamma value.
+
+The fitting parameter \eta H_{C2_{1}} in the logarithmic term usually was within a factor of 2 of the predicted value of \eta H_{C2_{1}}(T) for \eta=1 and dH_{C2_{1}}/dT=-1.5T/K at x=0. The slope dH_{C2_{1}}/dT decreased as x increased. We did not try to determine this parameter because the uncertainty of the background dominated the analysis for this parameter.
+
+The normalized \tau(\theta) curves for three different samples are plotted in Fig. 2 to show \tau(\theta) more clearly in the angular range 80^{\circ}<\theta<90^{\circ}. Data were taken every 0.1^{\circ} or 0.2^{\circ} angle. The solid curves are the least \chi^{2} fit for 80^{\circ}<\theta<100^{\circ} with \gamma=9.56, 18.9, and 29.1 for these particular three data sets.
+
+For pure YBa_{2}Cu_{3}O_{7-\delta}, we measured \gamma=9.3\pm 0.3 for two samples with T_{c}>92.5 K. The value is 20\% larger than the ones reported earlier by Beck _et al._[6] (\gamma=7.7\pm 0.2) and by Janossy, Hergt, and Frauchter[5] (\gamma=7.5\pm 0.1). This discrepancy is beyond any possible systematic error in our experiments and the higher value is attributed to a higher sample quality.
+
+Figure 3 shows a plot of \gamma versus x for our YBa_{2}Cu_{3-x}Fe_{x}O_{7-\delta} single crystals. \gamma steadily increases to 29\pm 2 for x=0.22. The error bars represent the overall uncertainty from different data and different fitting procedures. The dotted curve is a guide to the eye.
+
+No temperature dependence of \gamma was observed in our narrow temperature range. This is expected theoretically in the 3D Ginzburg-Landau model.
+
+The possibility of a torque from the magnetic Fe^{+}^{3} ions was examined carefully. This torque would be indicated if \tau(\theta) is inconsistent with Eq. (1) or there is a temperature insensitive ferromagnetic hysteresis in \tau(\theta). This evidence was not observed because for all the YBa_{2}Cu_{3-x}Fe_{x}O_{7-\delta} samples no torque was observed above T_{c} and, a few Kelvin below T_{c} in the reversible regime, the \tau(\theta) data were consistent with Eq. (1). These observations indicated that the Fe^{+}^{3} magnetic moments contributed no torque within our experimental sensitivity. Previous studies of the YBa_{2}Cu_{3-x}Fe_{x}O_{7-\delta} system also indicated no magnetic ordering of the Fe^{+}^{3} ions from the localized magnetic moments.[9, 10]
+
+## 4 Discussion
+
+Superconducting anisotropy was an insignificant detail in the 3D BCS superconductors. After the discovery of the high-T_{c} cuprate superconductors, it is well known that the CuO_{2} planes play an essential role in the novel superconductivity and there are weak interlayer couplings between them. Study of the anisotropy of the new quasi-two-dimensional superconductors becomes an important issue.
+
+At the present time, no theory can calculate the anisotropy of the high-T_{c} materials, let alone the effect of doping on the anisotropy. A direct measurement of the anisotropy of the doped high-T_{c} superconductors such as YBa_{2}Cu_{3-x}Fe_{x}O_{7-\delta} may provide important information on the superconducting mechanisms and the physical properties of such a system.
+
+For YBa_{2}Cu_{3-x}Fe_{x}O_{7-\delta} crystals, the c-axis lattice constant increases with Fe doping before the orthorhombic to tetragonal transition (x<\sim 0.08), which could possibly _explain_ the increase of \gamma value since the interlayer couplings would be lowered. However, this argument fails at higher doping levels since \gamma still increases as the c-axis lattice constant decreases. Another possible ex
+
+Figure 3: \gamma versus x for YBa_{2}Cu_{3-x}Fe_{x}O_{7-\delta} single crystals. Vertical error bars represent the uncertainties for different data sets and different fitting procedures. The dotted curve is a guide to the eye.
+
+Figure 2: Normalized \tau(\theta) for field directions within 10^{\circ} of the ab plane. The data were taken in 0.1^{\circ} or 0.2^{\circ} intervals. The \gamma values are the best fit values for 80^{\circ}<\theta<100^{\circ} and they are 9.56, 18.9, and 29.1 for x=0, 0.13, and 0.22, respectively.
+
+  planation is that a change in the Cu(2) valence may lead to an anisotropy change. It is well known that for oxygen deficient YBa_{2}Cu_{3-x}Fe_{x}O_{7-\delta}, the Cu(2) ion valence decreases [10] and the anisotropy increases. [19] For the YBa_{2}Cu_{3-x}Fe_{x}O_{7-\delta} system, the substitution of the Fe^{+3} ions _may_ decrease the valence of Cu ions by charge balance. However, the charge balance is complicated by the oxygen increase [10, 12] with increasing x. Thus the link between anisotropy and Cu(2) valence cannot be easily established.
+
+Based on our anisotropy measurements, we would like to make a few comments on the previous experiments with the YBa_{2}Cu_{3-x}Fe_{x}O_{7-\delta} system. Previous anisotropy measurements of the YBa_{2}Cu_{3-x}Fe_{x}O_{7-\delta} single crystals by H_{C2} measurements perpendicular and parallel to the c axis gave a constant \gamma value close to 4.5 regardless of the Fe concentration. [13] This is probably due to the large experimental uncertainties. The same group also measured the critical current density J_{c} of these samples and found that at the 5 K and 1 T, J_{c} decreases upon Fe doping. [20] Such measurements seemingly contradict the observation that the twinning and disorder increase upon Fe doping for x<0.1, [9] which should lead to higher flux pinning and higher J_{c}. This possibly could be reconciled by the increase of \gamma which leads to a smaller tilt modulus of the flux lattice [21] and tends to reduce the overall pinning strengths.
+
+## References
+
+* [1] V. G. Kogan and J. R. Clem, Phys. Rev. B **24**, 2497 (1981).
+* [2] V. G. Kogan, Phys. Rev. B **38**, 7049 (1988).
+* [3] Z. Hao and J. R. Clem, Phys. Rev. B **43**, 7622 (1991).
+* [4] G. Blatter, V. B. Geshkenbein, and A. I. Larkin, Phys. Rev. Lett. **68**, 875 (1992).
+* [5] B. Janossy, R. Hergt, and L. Fruchter, Physica C **170**, 22 (1990).
+* [6] R. G. Beck, M. F. Booth, D. E. Farrell, J. P. Rice, and D. M. Ginsberg, Philos. Mag. B **65**(6), 1373 (1992).
+* [7] U. Welp, W. K. Kwok, G. W. Crabtree, K. G. Vandervoort, and J. Z. Liu, Phys. Rev. Lett. **32**, 2184 (1989).
+* [8] T. A. Friedmann, M. W. Rabin, J. Giapintzakis, J. P. Rice, and D. M. Ginsberg, Phys. Rev. B **42**, 6217 (1990).
+* [9] Youwen Xu, M. Suenaga, J. Tafto, R. L. Sabatini, A. R. Moodenbaugh, and P. Zolliker, Phys. Rev. B **39**, 6667 (1989).
+* [10] J. M. Tarascon, P. Barboux, P. F. Miceli, L. H. Greene, and G. W. Hull, Phys. Rev. B **37**, 7458 (1988).
+* [11] Yoshiteru Maeno, T. Tomita, M. Kyogoku, S. Awaji, Y. Aoki, K. Hoshino, A. Minami, and T. Fujita, Nature **328**, 512 (1987).
+* [12] C. Y. Yang, S. M. Heald, J. M. Tranquada, Y. Xu, Y. L. Wang, A. R. Moodenbaugh, D. O. Welch, and M. Suenaga, Phys. Rev. B **39**, 6681 (1989).
+* [13] M. D. Lan, J. Z. Liu, Y. X. Jia, Lu Zhang, Y. Nagata, P. Klavins, and R. N. Shelton, Phys. Rev. B **47**, 457 (1993).
+* [14] Y. Iye, I. Oguro, T. Tamegai, W. R. Datars, N. Motohira, and K. Kitazawa, Physica C **199**, 154 (1992).
+* [15] J. Z. Liu, G. W. Crabtree, A. Umezawa, and Li Zongquan, Phys. Lett. **121**, 305 (1987).
+* [16] M. D. Lan, J. Z. Liu, and R. N. Shelton, Phys. Rev. B **43**, 12 989 (1991).
+* [17] D. E. Farrell, C. M. Williams, S. A. Wolf, N. P. Bansal, and V. G. Kogan, Phys. Rev. Lett. **61**, 2805 (1988).
+* [18] D. E. Farrell, S. Bonham, J. Foster, Y. C. Chang, P. Z. Jiang, K. G. Vandervoort, D. J. Lam, and V. G. Kogan, Phys. Rev. Lett. **63**, 782 (1989).
+* [19] W. Bauhofer, W. Biberacher, B. Gegenheimer, W. Joss, R. K. Kremer, Hj. Mattausch, A. Muller, and A. Simon, Phys. Rev. Lett. **63**, 2520 (1989).
+* [20] M. D. Lan, J. Z. Liu, and R. N. Shelton, Phys. Rev. B **44**, 2751 (1991).
+* [21] E. H. Brandt, Int. J. Mod. Phys. B **5**, 751 (1991), and references therein; Phys. Rev. Lett. **66**, 1781 (1991).
+
+ Anisotropy of YBa_{2}Cu_{3-x}Fe_{x}O_{7-\delta} single crystals studied by torque magnetometry
+
+T. R. Chien and W. R. Datars
+
+Department of Physics and Astronomy, McMaster University, Hamilton, Ontario, Canada L8S 4M1
+
+M. D. Lan, J. Z. Liu, and R. N. Shelton
+
+Department of Physics, University of California at Davis, Davis, California 95616
+
+30 August 1993
+
+###### Abstract
+
+The coherence-length anisotropy ratio \gamma of YBa_{2}Cu_{3-x}Fe_{x}O_{7-\delta} superconducting single crystals (x\leq 0.22) has been measured by the equilibrium-torque magnetometry method. The experiments were performed at temperatures several K below the onset T_{c} of superconductivity in magnetic fields of 1-2 T. \gamma=9.3\pm 0.3 for two pure YBa_{2}Cu_{3}O_{7-\delta} single crystals, which is 20% larger than that of previously published results. The \gamma value of YBa_{2}Cu_{3-x}Fe_{x}O_{7-\delta} increases with increasing Fe concentration to \gamma=29\pm 1.5 for x=0.22. The direct torque from the localized magnetic moments of Fe was not observed within the experimental sensitivity. The fundamental reason for the anisotropy increase is not clear.
+
+pacs: 0163-1829/44/92(1)/1342(4)/506.00
+
+## I Introduction
+
+One of the key features of the high-T_{c} cuprate superconductors is their high anisotropy compared with conventional three-dimensional (3D) BCS superconductors. This, along with other factors, leads to the conclusion that the CuO_{2} planes play an essential role in the superconductivity and there are weak interlayer couplings between them. The degree of anisotropy is usually expressed by the dimensionless parameter \gamma, which is defined as the ratio of the superconducting coherence lengths parallel and perpendicular to the basal plane (_ab_ plane). In the 3D Ginzburg-Landau model, \gamma=(m_{c}/m_{a})^{1/2}, where m_{c} and m_{a} are the effective masses along the c axis and the _ab_ plane, respectively.
+
+Ways of measuring \gamma include resistive, magnetic, and torque methods. Among all these possibilities, the equilibrium torque method offers the most unambiguous way to measure \gamma directly. An anisotropic superconductor experiences a torque \tau=M\times H in a magnetic field H. The angular dependence of \tau(\theta) gives a direct measure of \gamma of the superconductor where \theta is the angle between the c axis and the applied H. This line of thinking has been developed theoretically by Kogan and Clem [1, 2] and more recently by Hao and Clem [3] and Blatter, Geshkenbein, and Larkin [4].
+
+For pure YBa_{2}Cu_{3}O_{7-\delta} crystals, recent equilibrium torque measurements gave a \gamma value close to 7.5 [5, 6]. As a comparison, previous anisotropy measurements of H_{C2} by dc magnetization method indicated \gamma\approx 5 (Ref. 7) and resistivity measurements gave \rho_{c}/\rho_{a}\approx 40 (Ref. 8) for pure YBa_{2}Cu_{3}O_{7-\delta}.
+
+In regard to the general physical properties of the YBa_{2}Cu_{3-x}Fe_{x}O_{7-\delta} system, earlier work provided a great deal of information. The solubility limit of x in YBa_{2}Cu_{3-x}Fe_{x}O_{7-\delta} was determined to be approximately 0.5 [9, 10]. The magnetic Fe^{+3} ions mainly go into the Cu(1) chain sites at low concentrations and substitution for Cu(2) plane sites starts to prevail at higher Fe concentrations. [10, 11, 12] The structure of the YBa_{2}Cu_{3-x}Fe_{x}O_{7-\delta} is orthorhombic with x<\sim 0.08 and is tetragonal with x>0.08[9, 10]. Lan _et al._[13] measured the resistivities of the YBa_{2}Cu_{3-x}Fe_{x}O_{7-\delta} single crystals and found a metallic behavior for x<0.25. The superconducting T_{c} decreases steadily with Fe doping and no abrupt change was observed across the orthorhombic-tetragonal transition [11]. The Fe^{3+} ions form localized magnetic moments with \mu_{\rm eff}=3.4\mu_{B} per ion, from the Curie-Weiss law of the normal state susceptibility [9] and the Mossbauer data [10]. The c-axis lattice constant increases up to \sim11.68 A at low doping level and then decreases after the orthorhombic-tetragonal transition [9].
+
+In this paper, we present anisotropy measurements of high-quality YBa_{2}Cu_{3-x}Fe_{x}O_{7-\delta} single crystals by the equilibrium torque magnetometry method. Six different doped samples with x ranging from 0 to 0.22 were studied and we found that the \gamma value increases with increasing Fe doping. More details will be discussed in the following sections.
+
+## II Experimental details
+
+A rotating magnetic torque magnetometer similar to that of Iye _et al._'s [14] was constructed. The magnetometer consists of two parts: a rotatable sample probe inside a fixed outer vacuum jacket. The magnetometer is in a dewar between the pole faces of a 2 T electromagnet. The sample sits on a thin Be-Cu plate which serves as a spring and the capacitance between this spring and a fixed electrode separated by a distance d is measured. The total capacitance is in the range of 0.25-0.35 pF. The torque \tau causes a deviation \Delta d of the Be-Cu spring. For small \Delta d, \tau is proportional to \Delta d. Since the capacitance change \Delta C is proportional to \Delta d/d(d+\Delta d), for a small deviation \Delta d the torque \tau is proportional to \Delta C  with small corrections. A Be-Cu spring with a thickness of approximately 0.04 mm was selected to make it sensitive to detect the small torque signals with a maximum capacitance change of less than 1% of the total capacitance during the experiments. With these conditions, linearity between the capacitance change and the torque signal is obeyed within 1%. Due to some magnetic impurities in the thin Be-Cu spring, some sinusoidal torque background is observed at 77 K. For our small samples, the background problem is the largest systematic error in our torque magnetometry. Numerical subtraction of the background is needed for the data analysis and it will be discussed in more detail in the next section.
+
+The sample probe was rotated by a computer-controlled stepping motor with a maximum angular resolution of 0.009^{\circ}. The rotation was done at 1 or 0.1 degree intervals and the stepping rate was between 0.5 and 0.8 steps per second. A transverse Hall sensor installed on the probe was used to monitor the angular position of the probe. Liquid nitrogen was used to cool the jacket of the probe and a mechanical pump was used to lower the vapor pressure of the liquid nitrogen so that temperatures between 55 and 77 K could be used. On the copper sample chamber, a heater connected to a temperature controller was used to stabilize the temperature to within +-30 mK.
+
+High-quality YBa2Cu3-Fe2O7-8 single crystals were grown by a modified self-flux technique at the University of California at Davis.[15, 16] The samples were oxygen annealed at 420degC for one week in a flowing oxygen environment to obtain an optimum oxygen content. The samples were smooth and shiny with typical dimensions of approximately 40 \mum x 0.7mm x 0.7mm. The masses were between 0.1 and 0.3 mg. The orthorhombic samples were microtwinned: The determination of x was made by energy-dispersive x-ray analysis (EDX)[16] and by the comparison of the onset T_{c} (10% magnetic susceptibility drop) to the previously published results.[9] Due to the low amount of Fe and the uncertainty of the oxygen concentration, the uncertainty of both methods was about 10%. This is the largest uncertainty in our experiments. The concentration x and the onset T_{c} of our YBa2Cu3-Fe2O7-8 crystals were given in Table 1.
+
+The torque experiments were performed at 2-5 K below the onset T_{c} in a field of 1.5 or 2 T. The sample probe was rotated through 190^{\circ} in both directions while the computer recorded the capacitance. The temperature and field ranges were selected so that the flux dynamics were in the reversible regime in our experimental time scale (~1 s).
+
+## 3 Results
+
+Based on the 3D anisotropic London model, in the field range H_{C2} > H > H_{C1}, the angular dependence of the equilibrium torque per unit volume is given by[2]
+
+\[\tau(\theta) = \frac{\phi_{0}H}{64\pi^{2}\lambda^{2}}\frac{\gamma^{2} - 1}{\gamma^{1/3}}\frac{\sin(2\theta)}{\epsilon(\theta)}\ln\left[\frac{\gamma\eta H_{C2}}{H\epsilon(\theta)}\right]\,,\]
+
+where \epsilon(\theta) = (\sin^{2}\theta + \gamma^{2}\cos^{2}\theta)^{1/2}, \theta is the angle between the applied field H and the c axis, \gamma = \xi_{a}/\xi_{c}, \lambda is the average penetration depth, H_{C2\sharp} is the upper critical field along the c axis, and \eta is a constant of the order of unity which is dependent on the flux lattice structure. Demagnetization effects are negligible for H > H_{C1}. Due to an uncertainty in determining the exact value of \theta during experiments, a small angular offset \Delta\theta was left as a fitting parameter. Thus, four fitting parameters were used: \gamma, \eta H_{C2\sharp}, the amplitude and \Delta\theta. Equation (1) has been verified by experiments with YBa2Cu3O7-8 (Refs. 5, 6, and 17) and Bi2Sr2CaCu2O8.[18]
+
+Figure 1 shows the \tau(\theta) curves for three different samples. In order to show each data without overlapping, arbitrary units of torque were chosen for these three data sets. The solid lines are the least \chi^{2} fit of Eq. (1) to the data. A careful look at the data shows that in the angular range 0 < \theta < \theta_{\rm max} {\theta_{\rm max} is the angle at which \tau(\theta) is maximum}, the curvature of \tau(\theta) is negative, i.e., d^{2}\tau/d\theta^{2} < 0. This feature is different from that observed by Janossy, Hergt, and Fruchter[5] and Beck _et al._[6] where a positive curvature was observed. A small \eta H_{C2\sharp}/H value for our temperature and field ranges makes the curvature of Eq. (1) negative.
+
+A problem encountered during the experiments was that the Be-Cu spring was slightly magnetic and gave a sinusoidal background which could be as large as 10% of the maximum torque signal from our smallest samples. The subtraction of this background was never perfect and caused the largest uncertainty in the fitting procedures. To minimize the background effect, the angular range chosen for the fit was either 0^{\circ} < \theta < 180^{\circ} with 180 points
+
+Figure 1: Typical \tau(\theta) curves for YBa2Cu3-Fe2O7-8 single crystals with x = 0, 0.04, and 0.22 at the temperatures and fields specified on the graph. The solid curves are the least \chi^{2} fit of Eq. (1) to the data points.
+
+  or 80^{\circ}<\theta<100^{\circ} with 100-200 points. Both fittings gave consistent \gamma values to within 3-10\,\% for data at an identical temperature and field.
+
+The magnitude of the fitting parameter \Delta\theta was always less than 0.05^{\circ} for the same background subtraction and was a negligible factor for \gamma<30. The angular correction from the deviation of the spring caused approximately a 1\% increase of the \gamma value.
+
+The fitting parameter \eta H_{C2_{1}} in the logarithmic term usually was within a factor of 2 of the predicted value of \eta H_{C2_{1}}(T) for \eta=1 and dH_{C2_{1}}/dT=-1.5T/K at x=0. The slope dH_{C2_{1}}/dT decreased as x increased. We did not try to determine this parameter because the uncertainty of the background dominated the analysis for this parameter.
+
+The normalized \tau(\theta) curves for three different samples are plotted in Fig. 2 to show \tau(\theta) more clearly in the angular range 80^{\circ}<\theta<90^{\circ}. Data were taken every 0.1^{\circ} or 0.2^{\circ} angle. The solid curves are the least \chi^{2} fit for 80^{\circ}<\theta<100^{\circ} with \gamma=9.56, 18.9, and 29.1 for these particular three data sets.
+
+For pure YBa_{2}Cu_{3}O_{7-\delta}, we measured \gamma=9.3\pm 0.3 for two samples with T_{c}>92.5 K. The value is 20\% larger than the ones reported earlier by Beck _et al._[6] (\gamma=7.7\pm 0.2) and by Janossy, Hergt, and Frauchter[5] (\gamma=7.5\pm 0.1). This discrepancy is beyond any possible systematic error in our experiments and the higher value is attributed to a higher sample quality.
+
+Figure 3 shows a plot of \gamma versus x for our YBa_{2}Cu_{3-x}Fe_{x}O_{7-\delta} single crystals. \gamma steadily increases to 29\pm 2 for x=0.22. The error bars represent the overall uncertainty from different data and different fitting procedures. The dotted curve is a guide to the eye.
+
+No temperature dependence of \gamma was observed in our narrow temperature range. This is expected theoretically in the 3D Ginzburg-Landau model.
+
+The possibility of a torque from the magnetic Fe^{+}^{3} ions was examined carefully. This torque would be indicated if \tau(\theta) is inconsistent with Eq. (1) or there is a temperature insensitive ferromagnetic hysteresis in \tau(\theta). This evidence was not observed because for all the YBa_{2}Cu_{3-x}Fe_{x}O_{7-\delta} samples no torque was observed above T_{c} and, a few Kelvin below T_{c} in the reversible regime, the \tau(\theta) data were consistent with Eq. (1). These observations indicated that the Fe^{+}^{3} magnetic moments contributed no torque within our experimental sensitivity. Previous studies of the YBa_{2}Cu_{3-x}Fe_{x}O_{7-\delta} system also indicated no magnetic ordering of the Fe^{+}^{3} ions from the localized magnetic moments.[9, 10]
+
+## 4 Discussion
+
+Superconducting anisotropy was an insignificant detail in the 3D BCS superconductors. After the discovery of the high-T_{c} cuprate superconductors, it is well known that the CuO_{2} planes play an essential role in the novel superconductivity and there are weak interlayer couplings between them. Study of the anisotropy of the new quasi-two-dimensional superconductors becomes an important issue.
+
+At the present time, no theory can calculate the anisotropy of the high-T_{c} materials, let alone the effect of doping on the anisotropy. A direct measurement of the anisotropy of the doped high-T_{c} superconductors such as YBa_{2}Cu_{3-x}Fe_{x}O_{7-\delta} may provide important information on the superconducting mechanisms and the physical properties of such a system.
+
+For YBa_{2}Cu_{3-x}Fe_{x}O_{7-\delta} crystals, the c-axis lattice constant increases with Fe doping before the orthorhombic to tetragonal transition (x<\sim 0.08), which could possibly _explain_ the increase of \gamma value since the interlayer couplings would be lowered. However, this argument fails at higher doping levels since \gamma still increases as the c-axis lattice constant decreases. Another possible ex
+
+Figure 3: \gamma versus x for YBa_{2}Cu_{3-x}Fe_{x}O_{7-\delta} single crystals. Vertical error bars represent the uncertainties for different data sets and different fitting procedures. The dotted curve is a guide to the eye.
+
+Figure 2: Normalized \tau(\theta) for field directions within 10^{\circ} of the ab plane. The data were taken in 0.1^{\circ} or 0.2^{\circ} intervals. The \gamma values are the best fit values for 80^{\circ}<\theta<100^{\circ} and they are 9.56, 18.9, and 29.1 for x=0, 0.13, and 0.22, respectively.
+
+  planation is that a change in the Cu(2) valence may lead to an anisotropy change. It is well known that for oxygen deficient YBa_{2}Cu_{3-x}Fe_{x}O_{7-\delta}, the Cu(2) ion valence decreases [10] and the anisotropy increases. [19] For the YBa_{2}Cu_{3-x}Fe_{x}O_{7-\delta} system, the substitution of the Fe^{+3} ions _may_ decrease the valence of Cu ions by charge balance. However, the charge balance is complicated by the oxygen increase [10, 12] with increasing x. Thus the link between anisotropy and Cu(2) valence cannot be easily established.
+
+Based on our anisotropy measurements, we would like to make a few comments on the previous experiments with the YBa_{2}Cu_{3-x}Fe_{x}O_{7-\delta} system. Previous anisotropy measurements of the YBa_{2}Cu_{3-x}Fe_{x}O_{7-\delta} single crystals by H_{C2} measurements perpendicular and parallel to the c axis gave a constant \gamma value close to 4.5 regardless of the Fe concentration. [13] This is probably due to the large experimental uncertainties. The same group also measured the critical current density J_{c} of these samples and found that at the 5 K and 1 T, J_{c} decreases upon Fe doping. [20] Such measurements seemingly contradict the observation that the twinning and disorder increase upon Fe doping for x<0.1, [9] which should lead to higher flux pinning and higher J_{c}. This possibly could be reconciled by the increase of \gamma which leads to a smaller tilt modulus of the flux lattice [21] and tends to reduce the overall pinning strengths.
+
+## References
+
+* [1] V. G. Kogan and J. R. Clem, Phys. Rev. B **24**, 2497 (1981).
+* [2] V. G. Kogan, Phys. Rev. B **38**, 7049 (1988).
+* [3] Z. Hao and J. R. Clem, Phys. Rev. B **43**, 7622 (1991).
+* [4] G. Blatter, V. B. Geshkenbein, and A. I. Larkin, Phys. Rev. Lett. **68**, 875 (1992).
+* [5] B. Janossy, R. Hergt, and L. Fruchter, Physica C **170**, 22 (1990).
+* [6] R. G. Beck, M. F. Booth, D. E. Farrell, J. P. Rice, and D. M. Ginsberg, Philos. Mag. B **65**(6), 1373 (1992).
+* [7] U. Welp, W. K. Kwok, G. W. Crabtree, K. G. Vandervoort, and J. Z. Liu, Phys. Rev. Lett. **32**, 2184 (1989).
+* [8] T. A. Friedmann, M. W. Rabin, J. Giapintzakis, J. P. Rice, and D. M. Ginsberg, Phys. Rev. B **42**, 6217 (1990).
+* [9] Youwen Xu, M. Suenaga, J. Tafto, R. L. Sabatini, A. R. Moodenbaugh, and P. Zolliker, Phys. Rev. B **39**, 6667 (1989).
+* [10] J. M. Tarascon, P. Barboux, P. F. Miceli, L. H. Greene, and G. W. Hull, Phys. Rev. B **37**, 7458 (1988).
+* [11] Yoshiteru Maeno, T. Tomita, M. Kyogoku, S. Awaji, Y. Aoki, K. Hoshino, A. Minami, and T. Fujita, Nature **328**, 512 (1987).
+* [12] C. Y. Yang, S. M. Heald, J. M. Tranquada, Y. Xu, Y. L. Wang, A. R. Moodenbaugh, D. O. Welch, and M. Suenaga, Phys. Rev. B **39**, 6681 (1989).
+* [13] M. D. Lan, J. Z. Liu, Y. X. Jia, Lu Zhang, Y. Nagata, P. Klavins, and R. N. Shelton, Phys. Rev. B **47**, 457 (1993).
+* [14] Y. Iye, I. Oguro, T. Tamegai, W. R. Datars, N. Motohira, and K. Kitazawa, Physica C **199**, 154 (1992).
+* [15] J. Z. Liu, G. W. Crabtree, A. Umezawa, and Li Zongquan, Phys. Lett. **121**, 305 (1987).
+* [16] M. D. Lan, J. Z. Liu, and R. N. Shelton, Phys. Rev. B **43**, 12 989 (1991).
+* [17] D. E. Farrell, C. M. Williams, S. A. Wolf, N. P. Bansal, and V. G. Kogan, Phys. Rev. Lett. **61**, 2805 (1988).
+* [18] D. E. Farrell, S. Bonham, J. Foster, Y. C. Chang, P. Z. Jiang, K. G. Vandervoort, D. J. Lam, and V. G. Kogan, Phys. Rev. Lett. **63**, 782 (1989).
+* [19] W. Bauhofer, W. Biberacher, B. Gegenheimer, W. Joss, R. K. Kremer, Hj. Mattausch, A. Muller, and A. Simon, Phys. Rev. Lett. **63**, 2520 (1989).
+* [20] M. D. Lan, J. Z. Liu, and R. N. Shelton, Phys. Rev. B **44**, 2751 (1991).
+* [21] E. H. Brandt, Int. J. Mod. Phys. B **5**, 751 (1991), and references therein; Phys. Rev. Lett. **66**, 1781 (1991).
+
+ 

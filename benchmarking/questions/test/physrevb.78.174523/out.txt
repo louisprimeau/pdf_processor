@@ -1,0 +1,467 @@
+Upper critical fields and thermally-activated transport of NdFeAsO_{0.7}F_{0.3} single crystal
+
+J. Jaroszynski
+
+F. Hunte
+
+L. Balicas
+
+Youn-jung Jo
+
+I. Raicevic
+
+A. Gurevich
+
+D. C. Larbalestier
+
+National High Magnetic Field Laboratory, Florida State University, Tallahassee, Florida 32310, USA
+
+F. F. Balakirev
+
+National High Magnetic Field Laboratory, Los Alamos National Laboratory, Los Alamos, New Mexico 87545, USA
+
+L. Fang
+
+P. Cheng
+
+Y. Jia
+
+H. H. Wen
+
+Institute of Physics, Chinese Academy of Sciences, Beijing 100190, People's Republic of China
+
+Received 14 October 2008; published 21 November 2008
+
+###### Abstract
+
+We present detailed measurements of the longitudinal resistivity \rho_{\rm{ex}}(T,H) and the upper critical field H_{c2} of NdFeAsO_{0.7}F_{0.3} single crystals in strong dc and pulsed magnetic fields up to 45 and 60 T, respectively. We found that the field scale of H_{c2} is comparable to H_{c2}\sim 100 T of high-T_{c} cuprates. H_{c2}(T) parallel to the c axis exhibits a pronounced upward curvature similar to what was extracted from earlier measurements on polycrystalline LaFeAs(O,F), NdFeAs(O,F), and SmFeAs(O,F) samples. Thus, this behavior of H_{c2}^{\perp}(T) is indeed an intrinsic feature of oxypnictides rather than manifestation of vortex lattice melting or granularity. The orientational dependence of H_{c2}(\theta) as a function of the angle \theta between H and the c axis shows deviations from the one-band Ginzburg-Landau scaling. The mass anisotropy parameter \gamma(T)=(m_{c}/m_{ab})^{1/2}=H_{c2}^{\perp}/H_{c2}^{\perp} obtained from these measurements decreases from \gamma= 9.2 at 44 K to \gamma=5 at 34 K, where \parallel and \perp correspond to H parallel and perpendicular to the ab planes, respectively. Spin-dependent magnetoresistance and nonlinearities in the Hall coefficient suggest contribution to the conductivity from electron-electron interactions modified by disorder reminiscent of that in diluted magnetic semiconductors. The Ohmic resistivity \rho_{\rm{ex}}(T,H) measured below T_{c} but above the irreversibility field exhibits a clear Arrhenius thermally-activated behavior \rho=\rho_{0} exp[-E_{d}(T,H)/T] over 4-5 decades of \rho_{\rm{ex}}. The activation energy E_{d}(T,H) has very different field dependencies for H\parallelab and H\perpab varying from 4\times10^{3} K at H=0.2 T to \sim200 K at H =35 T. We discuss to what extent different pairing scenarios suggested in the literature can manifest themselves in the observed behavior of H_{c2}, using the two-band model of superconductivity in oxypnictides. The results indicate the importance of paramagnetic effects on H_{c2}(T) in oxypnictides, which may significantly reduce H_{c2}(0) as compared to H_{c2}(0)-200-300 T based on extrapolations of H_{c2}(T) near T_{c} down to low temperatures.
+
+pacs: 10.1103/PhysRevB.78.174523 +
+Footnote †: preprint: PHYSICAL REVIEW B **78**, 174523 (2008)
+
+## I Introduction
+
+The recently discovered layered superconducting oxypnictides with high transition temperatures T_{c} (Ref. [1]) are based on alternating structures of FeAs layers and rare-earth oxide (REO) layers. Similar to the high-temperature superconducting cuprates, superconductivity in oxypnictides emerges upon doping of a parent antiferromagnetic state. As the REO planes are doped, the ionically bonded REO donates carriers to the covalently bonded FeAs plane,[2] suppressing the global antiferromagnetism and resulting in superconductivity.
+
+Previous low-field[3, 4, 5, 6] and high-field transport studies[7, 8] on different polycrystalline oxypnictides have shown that their magnetotransport behavior is intermediate between conventional low-T_{c} superconductors and the high-temperature cuprates. However, while LaFeAs(O,F) behaves as an intermediate-T_{c} superconductor similar to MgB_{2} in which thermal fluctuations of vortices do not significantly affect the H-T diagram to the extent that they do in the layered cuprates, the higher-T_{c} oxypnictides such as SmFeAsO_{0.85} and NdFeAs(O,F) exhibit larger mass anisotropies, enhanced thermal fluctuations, and a Ginzburg parameter comparable to that of YBa_{2}Cu_{3}O_{7-x} (YBCO). Thus, the question arises, whether this distinct behavior stems from different critical temperatures, the presence of magnetic ions,[9, 10, 11] or is due to the electromagnetic granularity of these polycrystalline samples.[12, 13, 14] For example, is the pronounced upward curvature of H_{c2}(T) along the c axis extracted from measurements of the resistivity onsets of polycrystals[7] indeed an intrinsic feature of H_{c2}^{\perp}(T) in oxypnictides, or does it reflect an extrinsic effect of magnetic granularity, the onset of the irreversible critical state behavior, and/or melting of the vortex lattice? Moreover, given that the nature of superconductivity in the oxypnictides is still poorly understood, several different scenarios have been proposed in the literature. In particular, many theoretical models are based on the multiband electronic structure of the oxypnictides and on the fact that the superconducting state emerges upon doping of the parent antiferromagnetic semimetal.[18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69,  99.99%) were mixed in 1:1 ratio, ground, and pressed into a pellet shape. Then it was sealed in an evacuated quartz tube and reacted at 800 ^{\circ}C for 10 h. The pellet was ground together with a stoichiometric powder mixture of NdF_{3} (purity 99.95%), Fe_{2}O_{3} (purity 99.9%), and Fe (purity 99.9%) resulting in NdFeAsO_{0.7}F_{0.3} compound. Again it was pressed into a pellet and put together with NaCl powder of mass ratio NaCl: NdFeAs(O,F)=10:1 and sealed in an evacuated quartz tube and reacted at about 1050 ^{\circ}C for 10 days. Then it was cooled down at a rate of 3 ^{\circ}C/h to 850 ^{\circ}C, followed by a quick cooling to room temperature by shutting off the power of the furnace. The resulting product contains mainly platelike small crystals with lateral dimensions of 5-50 \mum and \sim1 \mum thickness.
+
+Previous extensive transport [33, 34, 35] and heat-capacity [36] studies on NdFeAsO_{0.82}F_{0.18} single crystal revealed the onset of superconductivity at T_{c}= 47 K and the upper critical fields H_{c2}^{\downarrow}(0)=304 T and H_{c2}^{\downarrow}(0)=62-70 T extrapolated from the Werthamer-Helfand-Hohenberg (WHH) formula. [37] These samples also have a relatively small mass anisotropy parameter \gamma=(m_{c}/m_{a})^{1/2}\leq 5, where m_{a} and m_{c} are the effective masses along the ab plane and the c axis, respectively. However, the above studies were performed in magnetic fields not exceeding 9 T, where most of the multiband effects would not manifest themselves in the H_{c2}(T) curves.
+
+## III. Resistive transitions and upper critical fields
+
+For our experiment we used three different high-field magnets at the National High Magnetic Field Laboratory (NHMFL): 35 T dc resistive and 45 T hybrid magnets at Florida State University and 65 T pulsed field magnet at Los Alamos National Laboratory. The inset to Fig. 1(a) shows the scanning electron micrograph of the NdFeAs(O,F) sample with six Pt contacts fabricated by the focused ion-beam (FIB) technique. The distance between voltage contacts is \sim13 \mum and the sample thickness is \sim1.4 \mum. The sample was glued to a conductive silicon substrate to ensure good thermalization during measurement and to prevent electric charge buildup during the FIB procedure. The sample was placed on a rotating platform, which allows us to change its orientation with respect to the magnetic field _in situ_. The longitudinal resistivity \rho_{xx} and the Hall coefficient R_{\rm H} in high magnetic fields were measured using a lock-in technique with ac excitation current below 0.3 mA at frequency of 22 Hz. Pulsed field measurements were conducted using in-house synchronous digital lock-in technique at frequency of 16 kHz and similar levels of current.
+
+Figure 1 shows \rho_{xx}(T) as a function of temperature T at H=0 and 35 T for different sample orientations. The magnetic field perpendicular to the ab plane shifts the superconducting transitions to lower T, reducing T_{c} (from 46 to 21 K at H=35 T) without significant change in the shape of \rho_{xx}(T). This behavior is reminiscent of magnetotransport in low-T superconductors. In contrast, fields applied parallel to the ab plane change the shape of the resistive transitions more than they do for H\parallelc but less than what was observed on polycrystalline NdFeAs(O,F). [8] Figure 1 shows that the \rho_{xx}(T) dependence is sublinear at higher T but superlinear below T\leq 100 K. Over the same temperature range, the Hall resistivity \rho_{xy}(T) shown in Fig. 2 has a relatively strong temperature dependence for such an optimally doped material. This dependence is much stronger than was observed on a polycrystalline sample with much lower doping, x=6%, [8] with \rho_{xy}(T) exhibiting a kink around T\approx 100 K. Such temperature dependencies of the transport coefficients near \sim100 K may result from a multiband conductivity or a structural transition. The inset to Fig. 2 shows \rho_{xy}(H) at selected temperatures. On this field scale, \rho_{xy}(H) does not exhibit field nonlinearities, at 40<T<300 K, similarly to polycrystalline samples. [8] However, a strong dependence of R_{\rm H}(H) is observed in this single crystal at lower temperatures as will be discussed later.
+
+Figures 3-6 show the detailed field and temperature dependencies of \rho_{xx}(T,H), from which the upper critical fields parallel and perpendicular to the ab planes were extracted.
+
+Figure 2: (Color online) Hall coefficient R_{\rm H} as a function of T measured in superconducting magnet at \pm9 T (solid line) and determined from linear fits to \rho_{xy}(H) for −35<H<35 T or −9<H<9 T (solid squares), as shown in the inset. R_{\rm H} for polycrystalline Nd(O_{0.94}F_{0.06})FeA sample is also shown.
+
+Figure 1: (Color online) Longitudinal resistivity \rho_{xx}(T) at H=0 and 35 T for H\parallelab and H\perpab. At B=0 superconductivity onset is observed at T_{c}=46 K. Inset shows scanning electron micrograph of the sample.
+
+  Here, H_{c2} for both field orientations was measured at the onset of the superconductivity transition defined by the intersection point from linear extrapolations of \rho_{xx}(T,H) at T<T_{c} and \rho_{n}(T,H) at T>T_{c}, as shown in Fig. 4. Here, \rho_{n}(T,H) is the resistivity in the normal state. We also extracted the midtransition field H_{50}(T) and the resistivity onset fields H_{10}(T) and H_{0.5}(T) defined by \rho_{xx}(T,H) = 0.5\rho_{n}(T,H), 0.1\rho_{x}(T,H), and 0.05\rho_{n}(T,H), respectively. The fields H_{0.5}(T) are close to the irreversibility field H^{*}, which quantifies the onset of vortex critical state. The resulting temperature dependencies of all these fields are summarized in Figs. 8 and 9. Notice that the R(T) curves shown in Figs. 3-6 exhibit a small peak just before the transition which disappears at H>4 T for \mathbf{H}\|c and H>6 T for \mathbf{H}\|ab. Such resistance peak anomaly has been observed in other superconductors and is usually ascribed to the effect of paramagnetic ions, sample inhomogeneities, contact arrangements, etc. [38, 39, 40, 41] Since the mechanism of this anomaly is still not completely understood, we did not take it into account when extracting H_{c2} from the data shown in Figs. 3-6.
+
+Figure 7(a) shows the magnetoresistance (MR) at T = 50 K, just above the onset of superconductivity. The MR is positive for H\|c and negative for H\|ab. The difference could be attributed to orbital origin of this MR. As shown in Fig. 7(b), the magnetoresistance [\rho_{xx}(H)-\rho_{xx}(0)]/\rho_{xx}(0)\propto H^{2} for both field orientations and H\approxeq 15 T exhibits a quadratic field dependence. However, if this quadratic contributions are removed, a weak remanent positive MR is observed at low fields H\leqeq 15 T, as shown in Fig. 7(c). This remanent MR is identical for both field orientations, which in turn suggests a spin mechanism behind this positive MR component. Interestingly, such a spin-dependent positive MR is ubiquitous in diluted magnetic semiconductors (DMSs) in the paramagnetic phase. [42, 43, 44] It originates from the giant spin splitting \Delta_{s} of the electron states, which considerably affects quantum corrections to the conductivity brought about by the effect of disorder-modified electron-electron interactions. [45] Since \Delta_{s} in DMSs is proportional to the magnetization M of the localized spins, this positive MR scales with B and T like the Brillouin function. Importantly, this positive MR is absent in a ferromagnetic phase when localized moments are already aligned at H=0. This mechanism can also produce MR in NdFeAs(O,F) provided that at least some of localized magnetic moments \mu (most likely of Nd^{3+} ions with \mu =3.6\mu_{B}) are in a paramagnetic phase. At the same time, as shown in Fig. 7(d), the Hall coefficient R_{\rm H} strongly depends on H at low field. Such a dependence could result not only from quantum corrections to \rho_{xy} from electron-electron interactions, but it may also be a result of multiband conductivity as well.
+
+Based on the results shown in Figs. 8 and 9, the following points can be made:
+
+(1) The 100-200 T field scale of H_{c2} in NdFeAsO_{0.7}F_{0.3} is comparable to that of high-T_{c} cuprates.
+
+(2) H_{c2}^{*}(T) perpendicular to the ab plane exhibits a pronounced upward curvature similar to what was first reported
+
+Figure 4: (Color online) \rho_{xx} as a function of temperature at various magnetic fields for H\bot ab. Dotted lines show how the onset of the transition was determined for H=20 T. Excitation current I\approxeq 0.3 mA at frequency f=22 Hz was applied in the ab plane.
+
+Figure 5: (Color online) The longitudinal resistivity \rho_{xx}(H) as a function of magnetic field in for H\|ab measured in pulsed magnet up to 60 T.
+
+Figure 3: (Color online) \rho_{xx} as a function of temperature at various magnetic fields for H\|ab.
+
+Figure 6: (Color online) The longitudinal resistivity \rho_{xx}(H) as a function of magnetic field in for H\bot ab measured in dc resistive magnet up to 35 T at various temperatures.
+
+  for polycrystalline LaFeAs(O,F).[7] This is very different from the one-band WHH behavior and appears to be an intrinsic property of oxypnictides rather than manifestations of the vortex melting or the onset of pinning at H=H\simeqT.
+
+(3) The slopes H_{c2}^{\prime}=|dH_{c2}^{\dagger}/dT| and H_{c2}^{\prime}=|dH_{c2}^{\perp}/dT| for both field orientations increase significantly just a few kelvins below T_{c}. Thus, low-field H<\sim\  tivation energy determined by hopping of vortex bundles in the pinning potential. Several features of the data shown in Figs. 10 and 11 should be pointed out.
+
+(1) The Arrhenius dependence holds over 4-5 decades of \rho_{xx} down to the limit of sensitivity of our transport measurements. This indicates that thermally-activated vortex hopping in NdFeAsO_{0.7}F_{0.3} is similar to that of high-T_{c} cuprates and is much more pronounced than in lower-T_{c} pnictides such as LaFeAsO_{1-x}F_{x}. The good linear behavior evident from Figs. 10 and 11 also indicates that the low-temperature dependence of E_{a}(T) is approximately linear, E_{a}(T)\!=\!E_{m}(1-\!T/T_{m}), where T_{m} is a parameter with the dimensionality of temperature. In this case the term T/T_{m} can be eliminated by redefining \rho_{0}\!\rightarrow\!\rho_{0}\exp(E_{m}/T_{m}) in Eq. (1) without changing any observed characteristics.
+
+(2) The higher-temperature log \rho_{xx}(T) data level off at a field-independent value corresponding to the normal-state resistivity \rho_{m}.
+
+(3) The log \rho_{xx}(T) lines for different H\|c extrapolate to the same temperature \approx\!T_{c}, indicating that T_{m}\!=\!T_{c}, \rho_{0}\approx\!\rho_{m}\exp(E_{m}/T_{c}), and E_{m} is practically independent of H. However, for the parallel field orientation, this is not the case because of the field dependence of E_{m}, as shown below.
+
+From the low-temperature slope of log \rho_{xx} the field dependencies of the activation energy E_{a}\!=\!-d ln \rho_{xx}/d(1/T) can be obtained. The results presented in Fig. 12 for both field orientations show that E_{a}\!=\!(3\!-\!4)\!\times\!10^{3} K at low fields. The activation energy E_{a}\!=\!2\!\times\!10^{4} K for a polycrystalline NdFeAs(O,F) measured previously [8] is higher than for the single crystals studied in this work [similar thermally-activated resistivity was recently observed on polycrystalline NdFeAsO_{0.82}F_{0.18} (Ref. [6]). The field dependencies of E_{a}(B) for H\|c and H\!\perp\!c are also markedly different. E_{a}(H) for H\|c exhibits a rather conventional field dependence characteristic of thermally-activated transport: a constant value at low fields H\!<\!3 T, where single-vortex pinning dominates, followed by a power-law decrease E_{m}\!\propto\!H^{-1.1} characteristic of collective creep at higher fields H\!>\!3 T. [46] By contrast, the activation energy for H\|ab exhibits a rather weak power-law decrease E_{m}\!\propto\!H^{-0.17} in the entire field interval where \rho_{xx}(T,H) was measured.
+
+The field and temperature dependencies of E_{a}(T,H) can be described by the following scaling function:
+
+\[E_{a}\!=\!\frac{E_{0}(1-T/T_{c})^{\alpha}}{[1+H/H_{0}(T)]^{\beta}}\!\left[1- \frac{H}{H_{c2}(T)}\right]^{\beta}\!,\] (2)
+
+where H_{0} quantifies the field above which vortex dynamics is determined by collective effects of vortex interaction. [46] From the data presented above, we obtain H_{0}\!=\!3 T, \alpha\!=\!1, and \beta\!\approx\!1.1 for {\bf H}\|c and \beta\!\approx\!0.17 for {\bf H}\|ab.
+
+## V Angular dependencies
+
+The TAFF resistivity \rho_{xx}(T,H,\theta) was measured at different angles \theta between {\bf H} and the ab plane, as illustrated by a representative example shown in Fig. 13. The angular dependencies of H_{c2}(\theta) extracted from \rho_{xx}(T,H,\theta) at 90%, 50%, and 10% of \rho_{m}(T,H) are shown in Fig. 14.
+
+It is clearly seen that the anisotropy as \gamma\!\!=\!\!H_{c2}^{\downarrow}/H_{c2}^{\perp} decreases when calculated at lower \rho_{xx}. At the same time H_{c2}^{00\%}(\theta) shown in Fig. 14 notably departures from the standard Ginzburg-Landau (GL) formula
+
+\[H_{c2}(\theta)=\frac{H_{c2}^{\perp}}{\sqrt{\sin^{2}\theta+\gamma^{2}\cos^{2} \theta}},\] (3)
+
+where \gamma\!\!=\!\!(m_{c}/m_{a})^{1/2} is defined by the ratio of effective masses along the ab plane and the c axis. The fit to Eq. (3) yields \gamma\!\!=\!8.9 in this case. Data taken at 50% and 10% departure from Eq. (3) even stronger, which may result from increasing contribution of TAFF transport at lower resistivities.
+
+The temperature dependencies of \gamma(T) obtained from the H_{c2} data shown in Figs. 8 and 9 for H_{10}, H_{50}, and H_{c2} are
+
+Figure 11: (Color online) Arrhenius plot for \rho_{xx}(T) at different magnetic fields parallel to the ab plane.
+
+Figure 12: (Color online) Field dependencies of the activation energy E_{a}(H) for H\!\perp\!ab and H\!\parallel\!ab. The solid squares show the data for NdFeAs(O,F) polycrystal measured earlier.
+
+Figure 13: (Color online) The resistivities \rho_{xx}(T,H) measured at 44 K for different angles \theta between {\bf H} and the ab plane.
+
+  shown in Fig. 15. Contrary to the standard one-band behavior, g turns out to be temperature dependent, with the values of g10(_T_), g50(_T_), and _g_(_T_) being rather different especially just below _Tc_. While the parameter of _H_c2 anisotropy _g_(_T_) =_H_c2/_H_c2 decreases from =9 at _Tc_ to =5 at 34 K, the field H10 becomes more anisotropic upon decreasing T. Below T = 38 K, however, these values of _g_(_T_) converge.
+
+## VI _H_c2 in two-band superconductors
+
+We interpret our experimental data using a generic two-band BCS model, which enables us to address the constraints imposed by the observed shapes of _H_c2(_T_) on different multiband pairing models suggested in the literature. For negligible interband impurity scattering, _Tc_ is given by [47, 48]
+
+\[T_{c0} = \Omega\,\exp[ - (\lambda_{+} - s\lambda_{0})/2w\rbrack,\]
+
+where \lambda_{z} = \lambda_{11} \pm \lambda_{22}, w = \lambda_{11} \pm \lambda_{22} - \lambda_{12}\lambda_{21}, s = sign(_w_), and l0 =(\lambda_{-}^{2} + 4\lambda_{12}\lambda_{21})1/2; l12 and l22 are pairing constants in bands 1 and 2; and l12 and l21 quantify interband coupling. Since the microscopic pairing mechanisms in oxypnictides are not well understood, the matrix _l_ij is treated here phenomenologically, but the main results turn out to be not very sensitive to the particular choice of _l_ij. For _s_-wave pairing, intraband impurity scattering does not affect _T_c0, while weak interband scattering reduces _Tc_ according to [26, 49, 50]
+
+\[T_{c} = T_{c0} - \frac{\pi}{8\lambda_{0}}[\lambda_{0}\gamma_{+} + \lambda_{-}\gamma_{-} - 2\lambda_{21}\gamma_{12} - 2\lambda_{12}\gamma_{21}\rbrack,\]
+
+where g = g12 + g12 and g12 and g12 are scattering rates between bands 1 and 2; N1 g12 = N2 g21 and N1 l12 = N2 l21, where N1 and N2 are partial densities of states in bands 1 and 2, respectively. In the following, we discuss two scenarios: (1) conventional _s_-wave pairing dominated by strong intraband coupling w > 0 and (2) strong interband pairing w < 0 which can result in the p shift between the order parameters on two bands for interband repulsion l12 < 0 (_s_ = pairing [15]).
+
+As follows from Eq. (5), interband repulsion with l12 < 0 and l21 < 0 enhances _Tc_ depression due to interband scattering between different pieces of the Fermi surface with the opposite signs of the order parameter. This suppression may be reduced by strong-coupling effects. [51] By contrast, for strong interband attraction 4l12A21 > l2, Eq. (5) yields
+
+\[T_{c} = T_{c0} - \frac{\pi\gamma_{12}}{8}\left( 1 - \sqrt{\frac{N_{1}}{N_{2}}} \right)^{2}.\]
+
+Here, _Tc_ suppression is much weaker than for the _s_^{\pm} pairing due to the factor (1 - \sqrt{N_{1}/N_{2}})^{2}, which makes _Tc_ independent of g12 in the special case of N1 = N2.
+
+In the dirty limit, the equation for _H_c2, which takes into account both orbital and Zeeman pair breaking for negligible interband scattering, can be written in the following parametric form: [26]
+
+\[\ln t = - [ U_{1}(h) + U_{2}(h) + \lambda_{0}/w\rbrack\]
+
+\[+ s[[ U_{1}(h) - U_{2}(h) - \lambda_{-}/w\rbrack^{2}/4 + \lambda_{12}\lambda_{21}/w^{2}\rbrack^{1/2},\]
+
+\[H_{c2} = 2\phi_{0}k_{B}T_{c}th/\hbar D_{0},\]
+
+\[U_{1,2}(h) = \text{Re}\,\,\psi[1/2 + (i + D_{1,2}/D_{0})h] - \psi(1/2),\]
+
+where t = _T_/_Tc_, _ph_(_x_) is the digamma function, e = D2/_D_1, D1 and D2 are diffusivities in band 1 and 2, D0 = _h_/_2m_, and the parameter h runs from 0 to \infty as T varies from _Tc_ to 0. For D1 = D2 and negligible Zeeman pair breaking D0 <= D1, e (8) simplifies to the one-band de-Gennes-Maki equation In t + _U_(_h_) = 0. If the magnetic field **H** is inclined by the angle _th_ with respect to the _ab_ planes, Eqs. (8) and (9) also describe the angular dependence of _H_c2(_th_) if D1,2 are replaced by their angular-dependent values
+
+\[D_{m}(\theta) = [ D_{m}^{(a)2}\,\sin^{2}\,\theta + D_{m}^{(a)}D_{m}^{(c)}\,\cos^{2}\,\theta\rbrack^{1/2},\]
+
+where m = 1, 2 and _D_m ^(a) and _D_c(_c_) are the in-plane and the _c_-axis principal values of _D_m ^_ph_.
+
+_H_c2(_T_) curves shown in Figs. 8 and 9 exhibit pronounced upward curvature for H |_c_ and the downward curvature for H | c similar to the behavior of _H_c2(_T_) first observed on polycrystalline LaFeAsO0.89F0.11. [7] Such temperature dependence of _H_c2(_T_) has been often observed on MgB2, suggesting that the two-band theory with D1 # D2 could also be used to describe _H_c2(_T_) in oxypnictides (the superconducting gaps on the disconnected pieces of the Fermi surface can be either different or the same). If interband scattering is negligible, neither _Tc_ nor _H_c2 depend on the sign of l12, so we consider two different cases: (1) dominant intraband coupling w
+
+Figure 14: (Color online) Angular dependence of _H_c2(_th_) defined at _ρ_xx = (0.9,0.5,0.1)\rho_{a} at 44 K. The solid lines show the fits with Eq. (3).
+
+Figure 15: (Color online) Temperature dependencies of _γ_10. _γ_50. and _γ_30. The open squares show the data from Ref. 35 measured on NdFeAsO0.82F0.18 single crystal with higher _Tc_ = 51.5 K. These data are plotted at reduced temperatures.
+
+  _{11}=_{22}=_{1}_{22}_{1}_{2}_{1}=_{2}, _{21}=_{2}, _{22}=_{2}, _{1}=_{2}_{2}, _{2}=_{2}_{1}_{  temperatures not too far from T_{c}, particularly for the field parallel to the ab plane. As a result, it is hard to unambiguously evaluate the values H_{c2}(0), as Figs. 16(a)-16(c) illustrate. Yet, we can evaluate the in-plane and the c-axis GL coherence lengths \xi_{a}=(\phi_{0}/2\pi H_{c2}^{\perp}T_{c})^{12}\simeq 2.3 nm and \xi_{c} = \xi_{a}/\gamma=0.26 nm for \gamma=9, H_{c2,\perp}^{\prime}=1.2 T/K, and T_{c}=50 K. These values of \xi_{a} and \xi_{c} are not too different from those for YBa_{2}Cu_{3}O_{7-x}. The fits shown in Figs. 16(a)-16(c) also indicate the importance of paramagnetic effects in H_{c2}(T), particularly the fact that extrapolations of H_{c2} to low temperatures based on the measured slope H_{c2}^{\perp} and the WHH dirty limit formula H_{c2}\simeq 0.7T_{c}H_{c2}^{\prime} (Ref. 5) may grossly overestimate H_{c2}(0). At the same time, the importance of paramagnetic effects in oxypnictides might open up possibilities of observing first-order phase transitions or perhaps the Fulde-Ferrel-Larkin-Ovchinnikov inhomogeneous states at very high magnetic fields.
+
+The temperature dependence of H_{c2}^{\perp}(T) shown in Fig. 9 is rather different from the conventional one-band WHH behavior, which may be characteristic of many oxypnictides. This confirms our earlier qualitative conclusion inferred from indirect measurements of H_{c2}^{\perp}(T) on polycrystalline oxypnictides. [7] One possibility to explain the significant upward curvature of H_{c2}^{\perp}(T) is based on the two-band model. This conclusion is also consistent with the temperature-dependent mass anisotropy parameter \gamma(T) reminiscent of the behavior of MgB_{2}. [6, 57] Yet, many important points remain controversial. First, to explain the observed upward curvature of H_{c2}^{\perp}(T), we had to assume a rather high difference in the intraband diffusivities D_{2}\sim (0.1-0.01)D_{1} (depending on the pairing scenario) considerably higher than the effective-mass difference for \Gamma and M electron pockets predicted by _ab initio_ calculations. [16, 17, 18, 19] One, therefore, has to assume that scattering on impurities or strong magnetic excitations may produce such big differences in D_{1} and D_{2}.
+
+Our data enable us to make further qualitative conclusions regarding the s-wave two-band pairing scenarios with and without the interband \pi shift. The first one is less susceptible to the pair-breaking effect of interband impurity scattering, as follows from Eqs. (5) and (6). Indeed, the fact that our NdFeAs(O,F) single crystal has the same T_{c} as sintered multiphase polycrystals seems to suggest that the impurity scattering does not suppress T_{c} much. The latter may also indicate that oxypnictides are effectively in the clean limit just because of their short coherence lengths \xi_{a}< \xi, where \xi is the mean-free path. Yet, s^{\pm} pairing is certainly more susceptible to the pair-breaking interband impurity scattering. Another indication that the s-wave pairing without the interband \pi shift appears to fit our data better comes from the fact that, in order to explain the observed upward curvature of H_{c2}^{\perp}(T) in Fig. 16(b) in the s^{\pm} model, we have to assume the ratio D_{1}/D_{2} to be about an order of magnitude smaller than D_{2}/D_{1}\sim 0.1 required for the model of strong intraband pairing and weaker interband pairing.
+
+As far as vortex dynamics in NbFeAs(O,F) is concerned, our data presented in Figs. 3 and 4 show that high magnetic fields parallel to the c axis mostly shift the resistive transition without significant broadening of the \rho_{xx}(T) curves, while H parallel to the ab plane changes the shape of \rho_{xx}(T) but certainly not as strong as for high-T_{c} cuprates. [46] This suggests that, despite the rather high values of \gamma, thermal fluctuation of vortices in NbFeAs(O,F) single crystals are weaker than in most anisotropic layered cuprates such as Bi-2212. This conclusion is consistent with the data of other groups [58] and with the relatively high activation energy E_{0}\sim 3\times 10^{3} K extracted from our transport measurements. The effect of thermal fluctuations is also quantified by the Ginzburg parameter Gi=(2\pik_{B}T_{c}\mu_{0}\Lambda_{0}^{2}/\phi_{0}^{2}\xi_{0}^{2}\xi_{1}^{2})^{2}, where \Lambda_{0} is the in-plane London penetration depth. Taking \Lambda_{0}=200 nm, \xi_{c}=0.26 nm, and T_{c}=49 K, we obtain Gi\,= 10^{-2}, which is of the order of the typical Ginzburg number for YBCO. For two-band superconductors, the above estimates of Gi remain qualitatively the same if \gamma and \xi are taken for the band with the minimum effective mass or maximum electron mobility. [26] By contrast, Gi in LaFeAs(O,F) is close to Gi in MgB_{2}, about 30 times smaller than Gi in NdFeAs(O,F). [7, 8]
+
+In conclusion, our high-field magnetotransport measurements on single-crystal NdFeAsO_{0.70}F_{0.30} have revealed very high upper critical fields and their anomalous temperature dependencies. We also observe a pronounced thermally-activated flux flow resistivity which may indicate rich vortex dynamics in single-layer oxypnictides.
+
+## Acknowledgments
+
+The work at NHMFL was supported by the NSF under Cooperative Agreement No. DMR-0084173, by the State of Florida, by the DOE, by the NHMFL IHRP program (F.H.), and by the AFOSR under Grant No. FA9550-06-1-0474 (A.G. and D.C.L.).
+
+## References
+
+* [1] Y. Kamihara, T. Watanabe, M. Hirano, and H. Hosono, J. Am. Chem. Soc. **130**, 3296 (2008).
+* [2] H. Takahashi, K. Igawa, K. Arii, Y. Kamihara, M. Hirano, and H. Hosono, Nature (London) **453**, 376 (2008).
+* [3] C. Martin _et al._, arXiv:0807.0876 (unpublished).
+* [4] J. D. Moore _et al._, Supercond. Sci. Technol. **21**, 092004 (2008).
+* [5] C. Senatore, R. Flukiger, M. Cantoni, G. Wu, R. H. Liu, and X. H. Chen, Phys. Rev. B **78**, 054514 (2008).
+* [6] X. L. Wang, S. R. Ghorbani, S. X. Dou, X.-L. Shen, W. Yi, Z.-C. Li, and Z.-A. Ren, arXiv:0806.1318 (unpublished).
+* [7] F. Hunte, J. Jaroszynski, A. Gurevich, D. C. Larbalestier, R. Jin, A. S. Sefat, M. A. McGuire, B. C. Sales, D. K. Christen, and D. Mandrus, Nature (London) **453**, 903 (2008).
+* [8] J. Jaroszynski _et al._, Phys. Rev. B **78**, 064511 (2008).
+* [9] T. Yildirim, Phys. Rev. Lett. **101**, 057010 (2008).
+* [10] C. Tarantini, A. Gurevich, D. C. Larbalestier, Z.-A. Ren, X.-L. Dong, W. Lu, and Z.-X. Zhao, Phys. Rev. B **78**, 184501 (2008).
+* [11] J. Wu, P. Phillips, and A. H. Castro Neto, Phys. Rev. Lett. **101**, 126401 (2008).
+* [12] A. Yamamoto _et al._, Appl. Phys. Lett. **92**, 252501 (2008).
+
+  * [13] A. Yamamoto _et al._, Supercond. Sci. Technol. **21**, 095008 (2008).
+* [14] R. Prozorov, M. E. Tillman, E. D. Mun, and P. C. Canfield, arXiv:0805.2783 (unpublished).
+* [15] I. I. Mazin, D. J. Singh, M. D. Johannes, and M. H. Du, Phys. Rev. Lett. **101**, 057003 (2008).
+* [16] D. J. Singh and M.-H. Du, Phys. Rev. Lett. **100**, 237003 (2008).
+* [17] S. Raghu, X.-L. Qi, C.-X. Liu, D. J. Scalapino, and S.-C. Zhang, Phys. Rev. B **77**, 220503(R) (2008).
+* [18] S. Graser, G. R. Boyd, C. Cao, H.-P. Cheng, P. J. Hirschfeld, and D. J. Scalapino, Phys. Rev. B **77**, 180514(R) (2008).
+* [19] S. Ishibashi, K. Terakura, and H. Hosono, J. Phys. Soc. Jpn. **77**, 053709 (2008).
+* [20] R. H. T. Wilke, S. L. Bud'ko, P. C. Canfield, D. K. Finnemore, R. J. Suplinskas, and S. T. Hannahs, Phys. Rev. Lett. **92**, 217003 (2004).
+* [21] L. Lyard, P. Szabo, T. Klein, J. Marcus, C. Marcenat, K. H. Kim, B. W. Kang, H. S. Lee, and S. I. Lee, Phys. Rev. Lett. **92**, 057001 (2004).
+* [22] A. Rydh _et al._, Phys. Rev. B **70**, 132503 (2004).
+* [23] V. Braccini _et al._, Phys. Rev. B **71**, 012504 (2005).
+* [24] M. Angst, S. L. Bud'ko, R. H. T. Wilke, and P. C. Canfield, Phys. Rev. B **71**, 144512 (2005).
+* [25] H.-J. Kim, H.-S. Lee, B. Kang, W.-H. Yim, Y. Jo, M.-H. Jung, and S.-I. Lee, Phys. Rev. B **73**, 064520 (2006).
+* [26] A. Gurevich, Physica C **456**, 160 (2007); Phys. Rev. B **67**, 184515 (2003).
+* [27] S. L. Bud'ko and P. C. Canfield, Phys. Rev. B **65**, 212501 (2002); S. L. Bud'ko, P. C. Canfield, and V. G. Kogan, Physica C **382**, 85 (2002).
+* [28] V. Ferrando, P. Manfrinetti, D. Marre, M. Putti, I. Sheikin, C. Tarantini, and C. Ferdeghini, Phys. Rev. B **68**, 094517 (2003).
+* [29] E. Ohmichi, T. Masui, S. Lee, S. Tajima, and T. Osada, J. Phys. Soc. Jpn. **73**, 2065 (2004).
+* [30] A. Gurevich _et al._, Supercond. Sci. Technol. **17**, 278 (2004).
+* [31] A. V. Pogerbayakov _et al._, Appl. Phys. Lett. **85**, 2017 (2004).
+* [32] P. Samuely, Z. Holanova, S. Budko, and P. Canfield, Physica C **435**, 71 (2006).
+* [33] Y. Jia, P. Cheng, L. Fang, H. Luo, H. Yang, C. Ren, L. Shan, C. Gu, and H.-H. Wen, Appl. Phys. Lett. **93**, 032503 (2008).
+* [34] P. Cheng, H. Yang, Y. Jia, L. Fang, X. Zhu, G. Mu, and H.-H. Wen, Phys. Rev. B **78**, 134508 (2008).
+* [35] Y. Jia, P. Cheng, L. Fang, H. Yang, C. Ren, L. Shan, C.-Z. Gu, and H.-H. Wen, Supercond. Sci. Technol. **21**, 105018 (2008).
+* [36] U. Welp, R. Xie, A. E. Koshelev, W. K. Kwok, P. Cheng, L. Fang, and H. H. Wen, arXiv:0807.4196 (unpublished).
+* [37] N. R. Werthamer, E. Helfand, and P. C. Hohenberg, Phys. Rev. **147**, 295 (1966).
+* [38] P. Lindqvist, A. Nordstrom, and O. Rapp, Phys. Rev. Lett. **64**, 2941 (1990); A. Nordstrom and O. Rapp, Phys. Rev. B **45**, 12577 (1992).
+* [39] P. Santhanam, C. C. Chi, S. J. Wind, M. J. Brady, and J. J. Bucchignano, Phys. Rev. Lett. **66**, 2254 (1991).
+* [40] C. Strunk, V. Bruyndoncx, C. Van Haesendonck, V. V. Moshchalkov, Y. Bruynseraede, C.-J. Chien, B. Burk, and V. Chandrasekhar, Phys. Rev. B **57**, 10854 (1998).
+* [41] R. Vaglio, C. Attanasio, L. Maritato, and A. Ruosi, Phys. Rev. B **47**, 15302 (1993); C. Attanasio, S. Barbenera, T. Di Luccio, S. L. Prischepa, R. Russo, M. Salvato, and L. Maritato, J. Phys.: Condens. Matter **13**, 3215 (2001).
+* [42] M. Sawicki, T. Dietl, J. Kossut, J. Igalson, T. Wojtowicz, and W. Plesiewicz, Phys. Rev. Lett. **56**, 508 (1986).
+* [43] I. P. Smorchkova, N. Samarth, J. M. Kikkawa, and D. D. Awschalom, Phys. Rev. Lett. **78**, 3571 (1997).
+* [44] T. Andrearczyk, J. Jaroszynski, G. Grabecki, T. Dietl, T. Fukumura, and M. Kawasaki, Phys. Rev. B **72**, 121309(R) (2005).
+* [45] B. L. Al'tshuler and A. G. Aronov, in _Electron-Electron Interactions in Disordered Systems_, edited by A. L. Efros and M. Pollak (North-Holland, Amsterdam, 1985), p. 1; H. Fukuyama, _ibid._, p. 155; P. A. Lee and T. V. Ramakrishnan, Rev. Mod. Phys. **57**, 287 (1985).
+* [46] G. Blatter, M. V. Feigel'man, V. B. Geshkenbein, A. I. Larkin, and V. M. Vinokur, Rev. Mod. Phys. **66**, 1125 (1994).
+* [47] H. Suhl, B. T. Matthias, and L. R. Walker, Phys. Rev. Lett. **3**, 552 (1959).
+* [48] V. Moskalenko, Fiz. Met. Metalloved. **8**, 503 (1959) [Phys. Met. Metallogr. **8**, 25 (1959)].
+* [49] A. A. Golubov and I. I. Mazin, Phys. Rev. B **55**, 15146 (1997).
+* [50] N. Schopohl and K. Scharnberg, Solid State Commun. **22**, 371 (1977).
+* [51] Y. Senga and H. Kontani, arXiv:0809.0374 (unpublished).
+* [52] J. A. X. Alexander, T. P. Orlando, D. Rainer, and P. M. Tedrow, Phys. Rev. B **31**, 5811 (1985).
+* [53] T. Dahm and N. Schopohl, Phys. Rev. Lett. **91**, 017001 (2003).
+* [54] M. Schossmann and J. P. Carbotte, Phys. Rev. B **39**, 4210 (1989).
+* [55] O. Fischer, Appl. Phys. **16**, 1 (1978).
+* [56] H. J. Niu and D. P. Hampshire, Phys. Rev. B **69**, 174503 (2004).
+* [57] P. Canfield, S. Bud'ko, and D. Finnemore, Physica C **385**, 1 (2003).
+* [58] H. Yang, C. Ren, L. Shan, and H.-H. Wen, Phys. Rev. B **78**, 092504 (2008).
+
+ Upper critical fields and thermally-activated transport of NdFeAsO_{0.7}F_{0.3} single crystal
+
+J. Jaroszynski
+
+F. Hunte
+
+L. Balicas
+
+Youn-jung Jo
+
+I. Raicevic
+
+A. Gurevich
+
+D. C. Larbalestier
+
+National High Magnetic Field Laboratory, Florida State University, Tallahassee, Florida 32310, USA
+
+F. F. Balakirev
+
+National High Magnetic Field Laboratory, Los Alamos National Laboratory, Los Alamos, New Mexico 87545, USA
+
+L. Fang
+
+P. Cheng
+
+Y. Jia
+
+H. H. Wen
+
+Institute of Physics, Chinese Academy of Sciences, Beijing 100190, People's Republic of China
+
+Received 14 October 2008; published 21 November 2008
+
+###### Abstract
+
+We present detailed measurements of the longitudinal resistivity \rho_{\rm{ex}}(T,H) and the upper critical field H_{c2} of NdFeAsO_{0.7}F_{0.3} single crystals in strong dc and pulsed magnetic fields up to 45 and 60 T, respectively. We found that the field scale of H_{c2} is comparable to H_{c2}\sim 100 T of high-T_{c} cuprates. H_{c2}(T) parallel to the c axis exhibits a pronounced upward curvature similar to what was extracted from earlier measurements on polycrystalline LaFeAs(O,F), NdFeAs(O,F), and SmFeAs(O,F) samples. Thus, this behavior of H_{c2}^{\perp}(T) is indeed an intrinsic feature of oxypnictides rather than manifestation of vortex lattice melting or granularity. The orientational dependence of H_{c2}(\theta) as a function of the angle \theta between H and the c axis shows deviations from the one-band Ginzburg-Landau scaling. The mass anisotropy parameter \gamma(T)=(m_{c}/m_{ab})^{1/2}=H_{c2}^{\perp}/H_{c2}^{\perp} obtained from these measurements decreases from \gamma= 9.2 at 44 K to \gamma=5 at 34 K, where \parallel and \perp correspond to H parallel and perpendicular to the ab planes, respectively. Spin-dependent magnetoresistance and nonlinearities in the Hall coefficient suggest contribution to the conductivity from electron-electron interactions modified by disorder reminiscent of that in diluted magnetic semiconductors. The Ohmic resistivity \rho_{\rm{ex}}(T,H) measured below T_{c} but above the irreversibility field exhibits a clear Arrhenius thermally-activated behavior \rho=\rho_{0} exp[-E_{d}(T,H)/T] over 4-5 decades of \rho_{\rm{ex}}. The activation energy E_{d}(T,H) has very different field dependencies for H\parallelab and H\perpab varying from 4\times10^{3} K at H=0.2 T to \sim200 K at H =35 T. We discuss to what extent different pairing scenarios suggested in the literature can manifest themselves in the observed behavior of H_{c2}, using the two-band model of superconductivity in oxypnictides. The results indicate the importance of paramagnetic effects on H_{c2}(T) in oxypnictides, which may significantly reduce H_{c2}(0) as compared to H_{c2}(0)-200-300 T based on extrapolations of H_{c2}(T) near T_{c} down to low temperatures.
+
+pacs: 10.1103/PhysRevB.78.174523 +
+Footnote †: preprint: PHYSICAL REVIEW B **78**, 174523 (2008)
+
+## I Introduction
+
+The recently discovered layered superconducting oxypnictides with high transition temperatures T_{c} (Ref. [1]) are based on alternating structures of FeAs layers and rare-earth oxide (REO) layers. Similar to the high-temperature superconducting cuprates, superconductivity in oxypnictides emerges upon doping of a parent antiferromagnetic state. As the REO planes are doped, the ionically bonded REO donates carriers to the covalently bonded FeAs plane,[2] suppressing the global antiferromagnetism and resulting in superconductivity.
+
+Previous low-field[3, 4, 5, 6] and high-field transport studies[7, 8] on different polycrystalline oxypnictides have shown that their magnetotransport behavior is intermediate between conventional low-T_{c} superconductors and the high-temperature cuprates. However, while LaFeAs(O,F) behaves as an intermediate-T_{c} superconductor similar to MgB_{2} in which thermal fluctuations of vortices do not significantly affect the H-T diagram to the extent that they do in the layered cuprates, the higher-T_{c} oxypnictides such as SmFeAsO_{0.85} and NdFeAs(O,F) exhibit larger mass anisotropies, enhanced thermal fluctuations, and a Ginzburg parameter comparable to that of YBa_{2}Cu_{3}O_{7-x} (YBCO). Thus, the question arises, whether this distinct behavior stems from different critical temperatures, the presence of magnetic ions,[9, 10, 11] or is due to the electromagnetic granularity of these polycrystalline samples.[12, 13, 14] For example, is the pronounced upward curvature of H_{c2}(T) along the c axis extracted from measurements of the resistivity onsets of polycrystals[7] indeed an intrinsic feature of H_{c2}^{\perp}(T) in oxypnictides, or does it reflect an extrinsic effect of magnetic granularity, the onset of the irreversible critical state behavior, and/or melting of the vortex lattice? Moreover, given that the nature of superconductivity in the oxypnictides is still poorly understood, several different scenarios have been proposed in the literature. In particular, many theoretical models are based on the multiband electronic structure of the oxypnictides and on the fact that the superconducting state emerges upon doping of the parent antiferromagnetic semimetal.[18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69,  99.99%) were mixed in 1:1 ratio, ground, and pressed into a pellet shape. Then it was sealed in an evacuated quartz tube and reacted at 800 ^{\circ}C for 10 h. The pellet was ground together with a stoichiometric powder mixture of NdF_{3} (purity 99.95%), Fe_{2}O_{3} (purity 99.9%), and Fe (purity 99.9%) resulting in NdFeAsO_{0.7}F_{0.3} compound. Again it was pressed into a pellet and put together with NaCl powder of mass ratio NaCl: NdFeAs(O,F)=10:1 and sealed in an evacuated quartz tube and reacted at about 1050 ^{\circ}C for 10 days. Then it was cooled down at a rate of 3 ^{\circ}C/h to 850 ^{\circ}C, followed by a quick cooling to room temperature by shutting off the power of the furnace. The resulting product contains mainly platelike small crystals with lateral dimensions of 5-50 \mum and \sim1 \mum thickness.
+
+Previous extensive transport [33, 34, 35] and heat-capacity [36] studies on NdFeAsO_{0.82}F_{0.18} single crystal revealed the onset of superconductivity at T_{c}= 47 K and the upper critical fields H_{c2}^{\downarrow}(0)=304 T and H_{c2}^{\downarrow}(0)=62-70 T extrapolated from the Werthamer-Helfand-Hohenberg (WHH) formula. [37] These samples also have a relatively small mass anisotropy parameter \gamma=(m_{c}/m_{a})^{1/2}\leq 5, where m_{a} and m_{c} are the effective masses along the ab plane and the c axis, respectively. However, the above studies were performed in magnetic fields not exceeding 9 T, where most of the multiband effects would not manifest themselves in the H_{c2}(T) curves.
+
+## III. Resistive transitions and upper critical fields
+
+For our experiment we used three different high-field magnets at the National High Magnetic Field Laboratory (NHMFL): 35 T dc resistive and 45 T hybrid magnets at Florida State University and 65 T pulsed field magnet at Los Alamos National Laboratory. The inset to Fig. 1(a) shows the scanning electron micrograph of the NdFeAs(O,F) sample with six Pt contacts fabricated by the focused ion-beam (FIB) technique. The distance between voltage contacts is \sim13 \mum and the sample thickness is \sim1.4 \mum. The sample was glued to a conductive silicon substrate to ensure good thermalization during measurement and to prevent electric charge buildup during the FIB procedure. The sample was placed on a rotating platform, which allows us to change its orientation with respect to the magnetic field _in situ_. The longitudinal resistivity \rho_{xx} and the Hall coefficient R_{\rm H} in high magnetic fields were measured using a lock-in technique with ac excitation current below 0.3 mA at frequency of 22 Hz. Pulsed field measurements were conducted using in-house synchronous digital lock-in technique at frequency of 16 kHz and similar levels of current.
+
+Figure 1 shows \rho_{xx}(T) as a function of temperature T at H=0 and 35 T for different sample orientations. The magnetic field perpendicular to the ab plane shifts the superconducting transitions to lower T, reducing T_{c} (from 46 to 21 K at H=35 T) without significant change in the shape of \rho_{xx}(T). This behavior is reminiscent of magnetotransport in low-T superconductors. In contrast, fields applied parallel to the ab plane change the shape of the resistive transitions more than they do for H\parallelc but less than what was observed on polycrystalline NdFeAs(O,F). [8] Figure 1 shows that the \rho_{xx}(T) dependence is sublinear at higher T but superlinear below T\leq 100 K. Over the same temperature range, the Hall resistivity \rho_{xy}(T) shown in Fig. 2 has a relatively strong temperature dependence for such an optimally doped material. This dependence is much stronger than was observed on a polycrystalline sample with much lower doping, x=6%, [8] with \rho_{xy}(T) exhibiting a kink around T\approx 100 K. Such temperature dependencies of the transport coefficients near \sim100 K may result from a multiband conductivity or a structural transition. The inset to Fig. 2 shows \rho_{xy}(H) at selected temperatures. On this field scale, \rho_{xy}(H) does not exhibit field nonlinearities, at 40<T<300 K, similarly to polycrystalline samples. [8] However, a strong dependence of R_{\rm H}(H) is observed in this single crystal at lower temperatures as will be discussed later.
+
+Figures 3-6 show the detailed field and temperature dependencies of \rho_{xx}(T,H), from which the upper critical fields parallel and perpendicular to the ab planes were extracted.
+
+Figure 2: (Color online) Hall coefficient R_{\rm H} as a function of T measured in superconducting magnet at \pm9 T (solid line) and determined from linear fits to \rho_{xy}(H) for −35<H<35 T or −9<H<9 T (solid squares), as shown in the inset. R_{\rm H} for polycrystalline Nd(O_{0.94}F_{0.06})FeA sample is also shown.
+
+Figure 1: (Color online) Longitudinal resistivity \rho_{xx}(T) at H=0 and 35 T for H\parallelab and H\perpab. At B=0 superconductivity onset is observed at T_{c}=46 K. Inset shows scanning electron micrograph of the sample.
+
+  Here, H_{c2} for both field orientations was measured at the onset of the superconductivity transition defined by the intersection point from linear extrapolations of \rho_{xx}(T,H) at T<T_{c} and \rho_{n}(T,H) at T>T_{c}, as shown in Fig. 4. Here, \rho_{n}(T,H) is the resistivity in the normal state. We also extracted the midtransition field H_{50}(T) and the resistivity onset fields H_{10}(T) and H_{0.5}(T) defined by \rho_{xx}(T,H) = 0.5\rho_{n}(T,H), 0.1\rho_{x}(T,H), and 0.05\rho_{n}(T,H), respectively. The fields H_{0.5}(T) are close to the irreversibility field H^{*}, which quantifies the onset of vortex critical state. The resulting temperature dependencies of all these fields are summarized in Figs. 8 and 9. Notice that the R(T) curves shown in Figs. 3-6 exhibit a small peak just before the transition which disappears at H>4 T for \mathbf{H}\|c and H>6 T for \mathbf{H}\|ab. Such resistance peak anomaly has been observed in other superconductors and is usually ascribed to the effect of paramagnetic ions, sample inhomogeneities, contact arrangements, etc. [38, 39, 40, 41] Since the mechanism of this anomaly is still not completely understood, we did not take it into account when extracting H_{c2} from the data shown in Figs. 3-6.
+
+Figure 7(a) shows the magnetoresistance (MR) at T = 50 K, just above the onset of superconductivity. The MR is positive for H\|c and negative for H\|ab. The difference could be attributed to orbital origin of this MR. As shown in Fig. 7(b), the magnetoresistance [\rho_{xx}(H)-\rho_{xx}(0)]/\rho_{xx}(0)\propto H^{2} for both field orientations and H\approxeq 15 T exhibits a quadratic field dependence. However, if this quadratic contributions are removed, a weak remanent positive MR is observed at low fields H\leqeq 15 T, as shown in Fig. 7(c). This remanent MR is identical for both field orientations, which in turn suggests a spin mechanism behind this positive MR component. Interestingly, such a spin-dependent positive MR is ubiquitous in diluted magnetic semiconductors (DMSs) in the paramagnetic phase. [42, 43, 44] It originates from the giant spin splitting \Delta_{s} of the electron states, which considerably affects quantum corrections to the conductivity brought about by the effect of disorder-modified electron-electron interactions. [45] Since \Delta_{s} in DMSs is proportional to the magnetization M of the localized spins, this positive MR scales with B and T like the Brillouin function. Importantly, this positive MR is absent in a ferromagnetic phase when localized moments are already aligned at H=0. This mechanism can also produce MR in NdFeAs(O,F) provided that at least some of localized magnetic moments \mu (most likely of Nd^{3+} ions with \mu =3.6\mu_{B}) are in a paramagnetic phase. At the same time, as shown in Fig. 7(d), the Hall coefficient R_{\rm H} strongly depends on H at low field. Such a dependence could result not only from quantum corrections to \rho_{xy} from electron-electron interactions, but it may also be a result of multiband conductivity as well.
+
+Based on the results shown in Figs. 8 and 9, the following points can be made:
+
+(1) The 100-200 T field scale of H_{c2} in NdFeAsO_{0.7}F_{0.3} is comparable to that of high-T_{c} cuprates.
+
+(2) H_{c2}^{*}(T) perpendicular to the ab plane exhibits a pronounced upward curvature similar to what was first reported
+
+Figure 4: (Color online) \rho_{xx} as a function of temperature at various magnetic fields for H\bot ab. Dotted lines show how the onset of the transition was determined for H=20 T. Excitation current I\approxeq 0.3 mA at frequency f=22 Hz was applied in the ab plane.
+
+Figure 5: (Color online) The longitudinal resistivity \rho_{xx}(H) as a function of magnetic field in for H\|ab measured in pulsed magnet up to 60 T.
+
+Figure 3: (Color online) \rho_{xx} as a function of temperature at various magnetic fields for H\|ab.
+
+Figure 6: (Color online) The longitudinal resistivity \rho_{xx}(H) as a function of magnetic field in for H\bot ab measured in dc resistive magnet up to 35 T at various temperatures.
+
+  for polycrystalline LaFeAs(O,F).[7] This is very different from the one-band WHH behavior and appears to be an intrinsic property of oxypnictides rather than manifestations of the vortex melting or the onset of pinning at H=H\simeqT.
+
+(3) The slopes H_{c2}^{\prime}=|dH_{c2}^{\dagger}/dT| and H_{c2}^{\prime}=|dH_{c2}^{\perp}/dT| for both field orientations increase significantly just a few kelvins below T_{c}. Thus, low-field H<\sim\  tivation energy determined by hopping of vortex bundles in the pinning potential. Several features of the data shown in Figs. 10 and 11 should be pointed out.
+
+(1) The Arrhenius dependence holds over 4-5 decades of \rho_{xx} down to the limit of sensitivity of our transport measurements. This indicates that thermally-activated vortex hopping in NdFeAsO_{0.7}F_{0.3} is similar to that of high-T_{c} cuprates and is much more pronounced than in lower-T_{c} pnictides such as LaFeAsO_{1-x}F_{x}. The good linear behavior evident from Figs. 10 and 11 also indicates that the low-temperature dependence of E_{a}(T) is approximately linear, E_{a}(T)\!=\!E_{m}(1-\!T/T_{m}), where T_{m} is a parameter with the dimensionality of temperature. In this case the term T/T_{m} can be eliminated by redefining \rho_{0}\!\rightarrow\!\rho_{0}\exp(E_{m}/T_{m}) in Eq. (1) without changing any observed characteristics.
+
+(2) The higher-temperature log \rho_{xx}(T) data level off at a field-independent value corresponding to the normal-state resistivity \rho_{m}.
+
+(3) The log \rho_{xx}(T) lines for different H\|c extrapolate to the same temperature \approx\!T_{c}, indicating that T_{m}\!=\!T_{c}, \rho_{0}\approx\!\rho_{m}\exp(E_{m}/T_{c}), and E_{m} is practically independent of H. However, for the parallel field orientation, this is not the case because of the field dependence of E_{m}, as shown below.
+
+From the low-temperature slope of log \rho_{xx} the field dependencies of the activation energy E_{a}\!=\!-d ln \rho_{xx}/d(1/T) can be obtained. The results presented in Fig. 12 for both field orientations show that E_{a}\!=\!(3\!-\!4)\!\times\!10^{3} K at low fields. The activation energy E_{a}\!=\!2\!\times\!10^{4} K for a polycrystalline NdFeAs(O,F) measured previously [8] is higher than for the single crystals studied in this work [similar thermally-activated resistivity was recently observed on polycrystalline NdFeAsO_{0.82}F_{0.18} (Ref. [6]). The field dependencies of E_{a}(B) for H\|c and H\!\perp\!c are also markedly different. E_{a}(H) for H\|c exhibits a rather conventional field dependence characteristic of thermally-activated transport: a constant value at low fields H\!<\!3 T, where single-vortex pinning dominates, followed by a power-law decrease E_{m}\!\propto\!H^{-1.1} characteristic of collective creep at higher fields H\!>\!3 T. [46] By contrast, the activation energy for H\|ab exhibits a rather weak power-law decrease E_{m}\!\propto\!H^{-0.17} in the entire field interval where \rho_{xx}(T,H) was measured.
+
+The field and temperature dependencies of E_{a}(T,H) can be described by the following scaling function:
+
+\[E_{a}\!=\!\frac{E_{0}(1-T/T_{c})^{\alpha}}{[1+H/H_{0}(T)]^{\beta}}\!\left[1- \frac{H}{H_{c2}(T)}\right]^{\beta}\!,\] (2)
+
+where H_{0} quantifies the field above which vortex dynamics is determined by collective effects of vortex interaction. [46] From the data presented above, we obtain H_{0}\!=\!3 T, \alpha\!=\!1, and \beta\!\approx\!1.1 for {\bf H}\|c and \beta\!\approx\!0.17 for {\bf H}\|ab.
+
+## V Angular dependencies
+
+The TAFF resistivity \rho_{xx}(T,H,\theta) was measured at different angles \theta between {\bf H} and the ab plane, as illustrated by a representative example shown in Fig. 13. The angular dependencies of H_{c2}(\theta) extracted from \rho_{xx}(T,H,\theta) at 90%, 50%, and 10% of \rho_{m}(T,H) are shown in Fig. 14.
+
+It is clearly seen that the anisotropy as \gamma\!\!=\!\!H_{c2}^{\downarrow}/H_{c2}^{\perp} decreases when calculated at lower \rho_{xx}. At the same time H_{c2}^{00\%}(\theta) shown in Fig. 14 notably departures from the standard Ginzburg-Landau (GL) formula
+
+\[H_{c2}(\theta)=\frac{H_{c2}^{\perp}}{\sqrt{\sin^{2}\theta+\gamma^{2}\cos^{2} \theta}},\] (3)
+
+where \gamma\!\!=\!\!(m_{c}/m_{a})^{1/2} is defined by the ratio of effective masses along the ab plane and the c axis. The fit to Eq. (3) yields \gamma\!\!=\!8.9 in this case. Data taken at 50% and 10% departure from Eq. (3) even stronger, which may result from increasing contribution of TAFF transport at lower resistivities.
+
+The temperature dependencies of \gamma(T) obtained from the H_{c2} data shown in Figs. 8 and 9 for H_{10}, H_{50}, and H_{c2} are
+
+Figure 11: (Color online) Arrhenius plot for \rho_{xx}(T) at different magnetic fields parallel to the ab plane.
+
+Figure 12: (Color online) Field dependencies of the activation energy E_{a}(H) for H\!\perp\!ab and H\!\parallel\!ab. The solid squares show the data for NdFeAs(O,F) polycrystal measured earlier.
+
+Figure 13: (Color online) The resistivities \rho_{xx}(T,H) measured at 44 K for different angles \theta between {\bf H} and the ab plane.
+
+  shown in Fig. 15. Contrary to the standard one-band behavior, g turns out to be temperature dependent, with the values of g10(_T_), g50(_T_), and _g_(_T_) being rather different especially just below _Tc_. While the parameter of _H_c2 anisotropy _g_(_T_) =_H_c2/_H_c2 decreases from =9 at _Tc_ to =5 at 34 K, the field H10 becomes more anisotropic upon decreasing T. Below T = 38 K, however, these values of _g_(_T_) converge.
+
+## VI _H_c2 in two-band superconductors
+
+We interpret our experimental data using a generic two-band BCS model, which enables us to address the constraints imposed by the observed shapes of _H_c2(_T_) on different multiband pairing models suggested in the literature. For negligible interband impurity scattering, _Tc_ is given by [47, 48]
+
+\[T_{c0} = \Omega\,\exp[ - (\lambda_{+} - s\lambda_{0})/2w\rbrack,\]
+
+where \lambda_{z} = \lambda_{11} \pm \lambda_{22}, w = \lambda_{11} \pm \lambda_{22} - \lambda_{12}\lambda_{21}, s = sign(_w_), and l0 =(\lambda_{-}^{2} + 4\lambda_{12}\lambda_{21})1/2; l12 and l22 are pairing constants in bands 1 and 2; and l12 and l21 quantify interband coupling. Since the microscopic pairing mechanisms in oxypnictides are not well understood, the matrix _l_ij is treated here phenomenologically, but the main results turn out to be not very sensitive to the particular choice of _l_ij. For _s_-wave pairing, intraband impurity scattering does not affect _T_c0, while weak interband scattering reduces _Tc_ according to [26, 49, 50]
+
+\[T_{c} = T_{c0} - \frac{\pi}{8\lambda_{0}}[\lambda_{0}\gamma_{+} + \lambda_{-}\gamma_{-} - 2\lambda_{21}\gamma_{12} - 2\lambda_{12}\gamma_{21}\rbrack,\]
+
+where g = g12 + g12 and g12 and g12 are scattering rates between bands 1 and 2; N1 g12 = N2 g21 and N1 l12 = N2 l21, where N1 and N2 are partial densities of states in bands 1 and 2, respectively. In the following, we discuss two scenarios: (1) conventional _s_-wave pairing dominated by strong intraband coupling w > 0 and (2) strong interband pairing w < 0 which can result in the p shift between the order parameters on two bands for interband repulsion l12 < 0 (_s_ = pairing [15]).
+
+As follows from Eq. (5), interband repulsion with l12 < 0 and l21 < 0 enhances _Tc_ depression due to interband scattering between different pieces of the Fermi surface with the opposite signs of the order parameter. This suppression may be reduced by strong-coupling effects. [51] By contrast, for strong interband attraction 4l12A21 > l2, Eq. (5) yields
+
+\[T_{c} = T_{c0} - \frac{\pi\gamma_{12}}{8}\left( 1 - \sqrt{\frac{N_{1}}{N_{2}}} \right)^{2}.\]
+
+Here, _Tc_ suppression is much weaker than for the _s_^{\pm} pairing due to the factor (1 - \sqrt{N_{1}/N_{2}})^{2}, which makes _Tc_ independent of g12 in the special case of N1 = N2.
+
+In the dirty limit, the equation for _H_c2, which takes into account both orbital and Zeeman pair breaking for negligible interband scattering, can be written in the following parametric form: [26]
+
+\[\ln t = - [ U_{1}(h) + U_{2}(h) + \lambda_{0}/w\rbrack\]
+
+\[+ s[[ U_{1}(h) - U_{2}(h) - \lambda_{-}/w\rbrack^{2}/4 + \lambda_{12}\lambda_{21}/w^{2}\rbrack^{1/2},\]
+
+\[H_{c2} = 2\phi_{0}k_{B}T_{c}th/\hbar D_{0},\]
+
+\[U_{1,2}(h) = \text{Re}\,\,\psi[1/2 + (i + D_{1,2}/D_{0})h] - \psi(1/2),\]
+
+where t = _T_/_Tc_, _ph_(_x_) is the digamma function, e = D2/_D_1, D1 and D2 are diffusivities in band 1 and 2, D0 = _h_/_2m_, and the parameter h runs from 0 to \infty as T varies from _Tc_ to 0. For D1 = D2 and negligible Zeeman pair breaking D0 <= D1, e (8) simplifies to the one-band de-Gennes-Maki equation In t + _U_(_h_) = 0. If the magnetic field **H** is inclined by the angle _th_ with respect to the _ab_ planes, Eqs. (8) and (9) also describe the angular dependence of _H_c2(_th_) if D1,2 are replaced by their angular-dependent values
+
+\[D_{m}(\theta) = [ D_{m}^{(a)2}\,\sin^{2}\,\theta + D_{m}^{(a)}D_{m}^{(c)}\,\cos^{2}\,\theta\rbrack^{1/2},\]
+
+where m = 1, 2 and _D_m ^(a) and _D_c(_c_) are the in-plane and the _c_-axis principal values of _D_m ^_ph_.
+
+_H_c2(_T_) curves shown in Figs. 8 and 9 exhibit pronounced upward curvature for H |_c_ and the downward curvature for H | c similar to the behavior of _H_c2(_T_) first observed on polycrystalline LaFeAsO0.89F0.11. [7] Such temperature dependence of _H_c2(_T_) has been often observed on MgB2, suggesting that the two-band theory with D1 # D2 could also be used to describe _H_c2(_T_) in oxypnictides (the superconducting gaps on the disconnected pieces of the Fermi surface can be either different or the same). If interband scattering is negligible, neither _Tc_ nor _H_c2 depend on the sign of l12, so we consider two different cases: (1) dominant intraband coupling w
+
+Figure 14: (Color online) Angular dependence of _H_c2(_th_) defined at _ρ_xx = (0.9,0.5,0.1)\rho_{a} at 44 K. The solid lines show the fits with Eq. (3).
+
+Figure 15: (Color online) Temperature dependencies of _γ_10. _γ_50. and _γ_30. The open squares show the data from Ref. 35 measured on NdFeAsO0.82F0.18 single crystal with higher _Tc_ = 51.5 K. These data are plotted at reduced temperatures.
+
+  _{11}=_{22}=_{1}_{22}_{1}_{2}_{1}=_{2}, _{21}=_{2}, _{22}=_{2}, _{1}=_{2}_{2}, _{2}=_{2}_{1}_{  temperatures not too far from T_{c}, particularly for the field parallel to the ab plane. As a result, it is hard to unambiguously evaluate the values H_{c2}(0), as Figs. 16(a)-16(c) illustrate. Yet, we can evaluate the in-plane and the c-axis GL coherence lengths \xi_{a}=(\phi_{0}/2\pi H_{c2}^{\perp}T_{c})^{12}\simeq 2.3 nm and \xi_{c} = \xi_{a}/\gamma=0.26 nm for \gamma=9, H_{c2,\perp}^{\prime}=1.2 T/K, and T_{c}=50 K. These values of \xi_{a} and \xi_{c} are not too different from those for YBa_{2}Cu_{3}O_{7-x}. The fits shown in Figs. 16(a)-16(c) also indicate the importance of paramagnetic effects in H_{c2}(T), particularly the fact that extrapolations of H_{c2} to low temperatures based on the measured slope H_{c2}^{\perp} and the WHH dirty limit formula H_{c2}\simeq 0.7T_{c}H_{c2}^{\prime} (Ref. 5) may grossly overestimate H_{c2}(0). At the same time, the importance of paramagnetic effects in oxypnictides might open up possibilities of observing first-order phase transitions or perhaps the Fulde-Ferrel-Larkin-Ovchinnikov inhomogeneous states at very high magnetic fields.
+
+The temperature dependence of H_{c2}^{\perp}(T) shown in Fig. 9 is rather different from the conventional one-band WHH behavior, which may be characteristic of many oxypnictides. This confirms our earlier qualitative conclusion inferred from indirect measurements of H_{c2}^{\perp}(T) on polycrystalline oxypnictides. [7] One possibility to explain the significant upward curvature of H_{c2}^{\perp}(T) is based on the two-band model. This conclusion is also consistent with the temperature-dependent mass anisotropy parameter \gamma(T) reminiscent of the behavior of MgB_{2}. [6, 57] Yet, many important points remain controversial. First, to explain the observed upward curvature of H_{c2}^{\perp}(T), we had to assume a rather high difference in the intraband diffusivities D_{2}\sim (0.1-0.01)D_{1} (depending on the pairing scenario) considerably higher than the effective-mass difference for \Gamma and M electron pockets predicted by _ab initio_ calculations. [16, 17, 18, 19] One, therefore, has to assume that scattering on impurities or strong magnetic excitations may produce such big differences in D_{1} and D_{2}.
+
+Our data enable us to make further qualitative conclusions regarding the s-wave two-band pairing scenarios with and without the interband \pi shift. The first one is less susceptible to the pair-breaking effect of interband impurity scattering, as follows from Eqs. (5) and (6). Indeed, the fact that our NdFeAs(O,F) single crystal has the same T_{c} as sintered multiphase polycrystals seems to suggest that the impurity scattering does not suppress T_{c} much. The latter may also indicate that oxypnictides are effectively in the clean limit just because of their short coherence lengths \xi_{a}< \xi, where \xi is the mean-free path. Yet, s^{\pm} pairing is certainly more susceptible to the pair-breaking interband impurity scattering. Another indication that the s-wave pairing without the interband \pi shift appears to fit our data better comes from the fact that, in order to explain the observed upward curvature of H_{c2}^{\perp}(T) in Fig. 16(b) in the s^{\pm} model, we have to assume the ratio D_{1}/D_{2} to be about an order of magnitude smaller than D_{2}/D_{1}\sim 0.1 required for the model of strong intraband pairing and weaker interband pairing.
+
+As far as vortex dynamics in NbFeAs(O,F) is concerned, our data presented in Figs. 3 and 4 show that high magnetic fields parallel to the c axis mostly shift the resistive transition without significant broadening of the \rho_{xx}(T) curves, while H parallel to the ab plane changes the shape of \rho_{xx}(T) but certainly not as strong as for high-T_{c} cuprates. [46] This suggests that, despite the rather high values of \gamma, thermal fluctuation of vortices in NbFeAs(O,F) single crystals are weaker than in most anisotropic layered cuprates such as Bi-2212. This conclusion is consistent with the data of other groups [58] and with the relatively high activation energy E_{0}\sim 3\times 10^{3} K extracted from our transport measurements. The effect of thermal fluctuations is also quantified by the Ginzburg parameter Gi=(2\pik_{B}T_{c}\mu_{0}\Lambda_{0}^{2}/\phi_{0}^{2}\xi_{0}^{2}\xi_{1}^{2})^{2}, where \Lambda_{0} is the in-plane London penetration depth. Taking \Lambda_{0}=200 nm, \xi_{c}=0.26 nm, and T_{c}=49 K, we obtain Gi\,= 10^{-2}, which is of the order of the typical Ginzburg number for YBCO. For two-band superconductors, the above estimates of Gi remain qualitatively the same if \gamma and \xi are taken for the band with the minimum effective mass or maximum electron mobility. [26] By contrast, Gi in LaFeAs(O,F) is close to Gi in MgB_{2}, about 30 times smaller than Gi in NdFeAs(O,F). [7, 8]
+
+In conclusion, our high-field magnetotransport measurements on single-crystal NdFeAsO_{0.70}F_{0.30} have revealed very high upper critical fields and their anomalous temperature dependencies. We also observe a pronounced thermally-activated flux flow resistivity which may indicate rich vortex dynamics in single-layer oxypnictides.
+
+## Acknowledgments
+
+The work at NHMFL was supported by the NSF under Cooperative Agreement No. DMR-0084173, by the State of Florida, by the DOE, by the NHMFL IHRP program (F.H.), and by the AFOSR under Grant No. FA9550-06-1-0474 (A.G. and D.C.L.).
+
+## References
+
+* [1] Y. Kamihara, T. Watanabe, M. Hirano, and H. Hosono, J. Am. Chem. Soc. **130**, 3296 (2008).
+* [2] H. Takahashi, K. Igawa, K. Arii, Y. Kamihara, M. Hirano, and H. Hosono, Nature (London) **453**, 376 (2008).
+* [3] C. Martin _et al._, arXiv:0807.0876 (unpublished).
+* [4] J. D. Moore _et al._, Supercond. Sci. Technol. **21**, 092004 (2008).
+* [5] C. Senatore, R. Flukiger, M. Cantoni, G. Wu, R. H. Liu, and X. H. Chen, Phys. Rev. B **78**, 054514 (2008).
+* [6] X. L. Wang, S. R. Ghorbani, S. X. Dou, X.-L. Shen, W. Yi, Z.-C. Li, and Z.-A. Ren, arXiv:0806.1318 (unpublished).
+* [7] F. Hunte, J. Jaroszynski, A. Gurevich, D. C. Larbalestier, R. Jin, A. S. Sefat, M. A. McGuire, B. C. Sales, D. K. Christen, and D. Mandrus, Nature (London) **453**, 903 (2008).
+* [8] J. Jaroszynski _et al._, Phys. Rev. B **78**, 064511 (2008).
+* [9] T. Yildirim, Phys. Rev. Lett. **101**, 057010 (2008).
+* [10] C. Tarantini, A. Gurevich, D. C. Larbalestier, Z.-A. Ren, X.-L. Dong, W. Lu, and Z.-X. Zhao, Phys. Rev. B **78**, 184501 (2008).
+* [11] J. Wu, P. Phillips, and A. H. Castro Neto, Phys. Rev. Lett. **101**, 126401 (2008).
+* [12] A. Yamamoto _et al._, Appl. Phys. Lett. **92**, 252501 (2008).
+
+  * [13] A. Yamamoto _et al._, Supercond. Sci. Technol. **21**, 095008 (2008).
+* [14] R. Prozorov, M. E. Tillman, E. D. Mun, and P. C. Canfield, arXiv:0805.2783 (unpublished).
+* [15] I. I. Mazin, D. J. Singh, M. D. Johannes, and M. H. Du, Phys. Rev. Lett. **101**, 057003 (2008).
+* [16] D. J. Singh and M.-H. Du, Phys. Rev. Lett. **100**, 237003 (2008).
+* [17] S. Raghu, X.-L. Qi, C.-X. Liu, D. J. Scalapino, and S.-C. Zhang, Phys. Rev. B **77**, 220503(R) (2008).
+* [18] S. Graser, G. R. Boyd, C. Cao, H.-P. Cheng, P. J. Hirschfeld, and D. J. Scalapino, Phys. Rev. B **77**, 180514(R) (2008).
+* [19] S. Ishibashi, K. Terakura, and H. Hosono, J. Phys. Soc. Jpn. **77**, 053709 (2008).
+* [20] R. H. T. Wilke, S. L. Bud'ko, P. C. Canfield, D. K. Finnemore, R. J. Suplinskas, and S. T. Hannahs, Phys. Rev. Lett. **92**, 217003 (2004).
+* [21] L. Lyard, P. Szabo, T. Klein, J. Marcus, C. Marcenat, K. H. Kim, B. W. Kang, H. S. Lee, and S. I. Lee, Phys. Rev. Lett. **92**, 057001 (2004).
+* [22] A. Rydh _et al._, Phys. Rev. B **70**, 132503 (2004).
+* [23] V. Braccini _et al._, Phys. Rev. B **71**, 012504 (2005).
+* [24] M. Angst, S. L. Bud'ko, R. H. T. Wilke, and P. C. Canfield, Phys. Rev. B **71**, 144512 (2005).
+* [25] H.-J. Kim, H.-S. Lee, B. Kang, W.-H. Yim, Y. Jo, M.-H. Jung, and S.-I. Lee, Phys. Rev. B **73**, 064520 (2006).
+* [26] A. Gurevich, Physica C **456**, 160 (2007); Phys. Rev. B **67**, 184515 (2003).
+* [27] S. L. Bud'ko and P. C. Canfield, Phys. Rev. B **65**, 212501 (2002); S. L. Bud'ko, P. C. Canfield, and V. G. Kogan, Physica C **382**, 85 (2002).
+* [28] V. Ferrando, P. Manfrinetti, D. Marre, M. Putti, I. Sheikin, C. Tarantini, and C. Ferdeghini, Phys. Rev. B **68**, 094517 (2003).
+* [29] E. Ohmichi, T. Masui, S. Lee, S. Tajima, and T. Osada, J. Phys. Soc. Jpn. **73**, 2065 (2004).
+* [30] A. Gurevich _et al._, Supercond. Sci. Technol. **17**, 278 (2004).
+* [31] A. V. Pogerbayakov _et al._, Appl. Phys. Lett. **85**, 2017 (2004).
+* [32] P. Samuely, Z. Holanova, S. Budko, and P. Canfield, Physica C **435**, 71 (2006).
+* [33] Y. Jia, P. Cheng, L. Fang, H. Luo, H. Yang, C. Ren, L. Shan, C. Gu, and H.-H. Wen, Appl. Phys. Lett. **93**, 032503 (2008).
+* [34] P. Cheng, H. Yang, Y. Jia, L. Fang, X. Zhu, G. Mu, and H.-H. Wen, Phys. Rev. B **78**, 134508 (2008).
+* [35] Y. Jia, P. Cheng, L. Fang, H. Yang, C. Ren, L. Shan, C.-Z. Gu, and H.-H. Wen, Supercond. Sci. Technol. **21**, 105018 (2008).
+* [36] U. Welp, R. Xie, A. E. Koshelev, W. K. Kwok, P. Cheng, L. Fang, and H. H. Wen, arXiv:0807.4196 (unpublished).
+* [37] N. R. Werthamer, E. Helfand, and P. C. Hohenberg, Phys. Rev. **147**, 295 (1966).
+* [38] P. Lindqvist, A. Nordstrom, and O. Rapp, Phys. Rev. Lett. **64**, 2941 (1990); A. Nordstrom and O. Rapp, Phys. Rev. B **45**, 12577 (1992).
+* [39] P. Santhanam, C. C. Chi, S. J. Wind, M. J. Brady, and J. J. Bucchignano, Phys. Rev. Lett. **66**, 2254 (1991).
+* [40] C. Strunk, V. Bruyndoncx, C. Van Haesendonck, V. V. Moshchalkov, Y. Bruynseraede, C.-J. Chien, B. Burk, and V. Chandrasekhar, Phys. Rev. B **57**, 10854 (1998).
+* [41] R. Vaglio, C. Attanasio, L. Maritato, and A. Ruosi, Phys. Rev. B **47**, 15302 (1993); C. Attanasio, S. Barbenera, T. Di Luccio, S. L. Prischepa, R. Russo, M. Salvato, and L. Maritato, J. Phys.: Condens. Matter **13**, 3215 (2001).
+* [42] M. Sawicki, T. Dietl, J. Kossut, J. Igalson, T. Wojtowicz, and W. Plesiewicz, Phys. Rev. Lett. **56**, 508 (1986).
+* [43] I. P. Smorchkova, N. Samarth, J. M. Kikkawa, and D. D. Awschalom, Phys. Rev. Lett. **78**, 3571 (1997).
+* [44] T. Andrearczyk, J. Jaroszynski, G. Grabecki, T. Dietl, T. Fukumura, and M. Kawasaki, Phys. Rev. B **72**, 121309(R) (2005).
+* [45] B. L. Al'tshuler and A. G. Aronov, in _Electron-Electron Interactions in Disordered Systems_, edited by A. L. Efros and M. Pollak (North-Holland, Amsterdam, 1985), p. 1; H. Fukuyama, _ibid._, p. 155; P. A. Lee and T. V. Ramakrishnan, Rev. Mod. Phys. **57**, 287 (1985).
+* [46] G. Blatter, M. V. Feigel'man, V. B. Geshkenbein, A. I. Larkin, and V. M. Vinokur, Rev. Mod. Phys. **66**, 1125 (1994).
+* [47] H. Suhl, B. T. Matthias, and L. R. Walker, Phys. Rev. Lett. **3**, 552 (1959).
+* [48] V. Moskalenko, Fiz. Met. Metalloved. **8**, 503 (1959) [Phys. Met. Metallogr. **8**, 25 (1959)].
+* [49] A. A. Golubov and I. I. Mazin, Phys. Rev. B **55**, 15146 (1997).
+* [50] N. Schopohl and K. Scharnberg, Solid State Commun. **22**, 371 (1977).
+* [51] Y. Senga and H. Kontani, arXiv:0809.0374 (unpublished).
+* [52] J. A. X. Alexander, T. P. Orlando, D. Rainer, and P. M. Tedrow, Phys. Rev. B **31**, 5811 (1985).
+* [53] T. Dahm and N. Schopohl, Phys. Rev. Lett. **91**, 017001 (2003).
+* [54] M. Schossmann and J. P. Carbotte, Phys. Rev. B **39**, 4210 (1989).
+* [55] O. Fischer, Appl. Phys. **16**, 1 (1978).
+* [56] H. J. Niu and D. P. Hampshire, Phys. Rev. B **69**, 174503 (2004).
+* [57] P. Canfield, S. Bud'ko, and D. Finnemore, Physica C **385**, 1 (2003).
+* [58] H. Yang, C. Ren, L. Shan, and H.-H. Wen, Phys. Rev. B **78**, 092504 (2008).
+
+ 

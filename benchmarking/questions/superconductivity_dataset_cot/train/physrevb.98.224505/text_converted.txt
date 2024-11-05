@@ -1,0 +1,783 @@
+Strong electron-boson coupling in the iron-based superconductor
+BaFe_(1.9)Pt_(0.1)As₂ revealed by infrared spectroscopy
+
+Zhen Xing
+
+Department of Physics, College of William & Mary, Williamsburg, Virginia
+23187-8795, USA
+
+Shanta Saha
+
+Center for Nanophysics and Advanced Materials, Department of Physics,
+University of Maryland, College Park, Maryland 20742, USA
+
+J. Paglione
+
+Center for Nanophysics and Advanced Materials, Department of Physics,
+University of Maryland, College Park, Maryland 20742, USA
+
+M. M. Qazilbash
+
+mumtaz@wm.edu Department of Physics, College of William & Mary,
+Williamsburg, Virginia 23187-8795, USA
+
+###### Abstract
+
+Understanding the formation of Cooper pairs in iron-based
+superconductors is one of the most important topics in condensed matter
+physics. In conventional superconductors, the electron-phonon
+interaction leads to the formation of Cooper pairs. In conventional
+strong-coupling superconductors like lead (Pb), the features due to
+electron-phonon interaction are evident in the infrared absorption
+spectra. Here we investigate the infrared absorption spectra of the iron
+arsenide superconductor BaFe_(1.9)Pt_(0.1)As₂. We find that this
+superconductor has fully gapped (nodeless) Fermi surfaces, and we
+observe the strong-coupling electron-boson interaction features in the
+infrared absorption spectra. Through modeling with the Eliashberg
+function based on Eliashberg theory, we obtain a good quantitative
+description of the energy gaps and the strong-coupling features. The
+full Eliashberg equations are solved to check the self-consistency of
+the electron-boson coupling spectrum, the largest energy gap, and the
+transition temperature ($T_{\rm c}$). Our experimental data and analysis
+provide compelling evidence that superconductivity in
+BaFe_(1.9)Pt_(0.1)As₂ is induced by the coupling of electrons to a
+low-energy bosonic mode that does not originate solely from phonons.
+
+2018 18 September 201720724505 2018 18 September 201720724505 2
+
+## I Introduction
+
+Nearly half a century after the experimental discovery of
+superconductivity, Bardeen, Cooper, and Schrieffer (BCS) developed a
+model to explain this phenomenon [1]. The BCS mechanism provides a
+microscopic description of weak-coupling, phonon-mediated
+superconductivity in conventional superconductors. Subsequently,
+Eliashberg [2, 3] proposed a more realistic model of the superconducting
+state that includes the retarded nature of the phonon induced
+interaction applicable to conventional strong-coupling superconductors
+like lead (Pb) and mercury (Hg). The agreement of the parameters in the
+self-consistent solutions of the Eliashberg equations, for example, in
+Pb, with experimental results like the phonon density of states from
+inelastic neutron scattering [4], electronic density of states from
+tunneling experiments [3], electronic heat capacity enhancement [3], and
+infrared absorption [5] provide strong evidence for the electron-phonon
+mechanism of superconductivity in conventional superconductors.
+
+For the iron-based superconductors, it has been argued that phonons
+alone cannot explain the high transition temperatures [6, 7]. Spin and
+orbital fluctuations are currently the popular candidates for mediating
+the formation of Cooper pairs [6, 7]. There is some experimental
+evidence that collective spin fluctuations may be the bosons that
+mediate the formation of Cooper pairs. These experiments include
+inelastic neutron scattering studies on both electron- and hole-doped
+iron pnictides [8, 9, 10, 11], scanning tunneling spectroscopy [12], and
+specific heat measurements of hole (K) -doped BaFe₂As₂[13], and
+quasiparticle interference imaging in LiFeAs [14].
+
+There have been a number of infrared studies on iron-based
+superconductors [15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28,
+29]. However, they have not reported clear evidence of strong
+electron-boson coupling features in the infrared absorption data in the
+superconducting state normalized to the infrared absorption data in the
+normal state. Such features are expected to occur if superconductivity
+is mediated by collective bosonic excitations. Although the larger
+gap(s) in the iron-based superconductors are in the strong-coupling
+regime, only a limited number of infrared studies have considered
+strong-coupling approaches to model the data [17, 18, 19, 25, 26, 27].
+The strong-coupling methods were originally developed for strong
+electron-phonon interactions but they are believed to describe the
+coupling of electrons to any bosonic spectrum. In a few studies,
+researchers have obtained the electron-boson spectral density from the
+scattering rate only in the normal state [17, 25, 26, 27]. One recent
+work [18] provides a method to find the electron-boson interaction both
+in the normal and superconducting states from the infrared scattering
+rate (or self-energy). However, this work does not check if the
+electron-boson spectral density function is self-consistent with the
+energy gap by solving the full Eliashberg equations. Charmukha _et
+al._[19] have used a multiband Eliashberg theory to fit the optical
+conductivity to support the spin-fluctuation mechanism. Their model only
+qualitatively describes the real part of the optical conductivity in the
+superconducting state.
+
+Previous experiments on high-quality single crystals of superconducting
+BaFe_(1.9)Pt_(0.1)As₂ reveal two isotropic gaps, one 2-3 meV and the
+other 5-7 meV [30]. Here we report infrared spectroscopy data on
+BaFe_(1.9)Pt_(0.1)As₂ that is consistent with multiband
+superconductivity with isotropic gaps. The important finding is that we
+observe strong-coupling electron-boson interaction features when the
+infrared absorption spectra in the superconducting state are normalized
+to the infrared absorption spectrum in the normal state. The
+frequency-dependent infrared absorption (A) is simply A = 1 − R where
+the frequency-dependent infrared reflectance (R) is directly measured in
+the experiments. We identify a bosonic mode centered about 5 meV that
+provides the pairing glue in superconducting BaFe_(1.9)Pt_(0.1)As₂. We
+employ theoretical modeling of the absorption spectra within the Allen
+formalism [18, 31] and Zimmermann formalism [32] based on Eliashberg
+theory. The full isotropic Eliashberg equations are solved to check the
+self-consistency of the Eliashberg function (electron-boson spectral
+density function), the largest energy gap, and $T_{\rm c}$.
+
+## II Samples and experiments
+
+Single crystals of BaFe_(1.9)Pt_(0.1)As₂ were grown using the FeAs
+self-flux method, which is described in Refs. [30, 33] along with x-ray,
+transport, magnetic, and thermodynamic measurements. The dc resistivity
+data show the onset of superconductivity at $T_{\rm c}=23$ K [30, 33].
+Magnetic susceptibility measurements show bulk superconductivity with
+full volume fraction [30, 33]. The ab-plane reflectance at various
+temperatures from 300 to 5 K was obtained in a home-built cryogenic
+setup with a Bruker Vertex 80v Fourier transform infrared (FTIR)
+spectrometer in the frequency range 20-8000 cm⁻¹ (2.5-990 meV) using the
+technique of _in situ_ gold evaporation [34]. Cryogenic ellipsometry was
+performed in a homebuilt vacuum chamber with a Woollam variable-angle
+spectroscopic ellipsometer in the energy range 0.6-6 eV [34].
+
+## III Experimental results, modeling, and discussion
+
+### Infrared reflectance and absorption
+
+The ab-plane infrared reflectance of a BaFe_(1.9)Pt_(0.1)As₂ crystal is
+shown in Fig. 1. In the normal state at T = 25 K, BaFe_(1.9)Pt_(0.1)As₂
+is highly reflective at low frequencies consistent with metallic
+behavior as in other metallic iron arsenides [15, 20, 21, 22, 24, 25,
+26, 27, 28, 29, 34]. At T = 5 K, well below $T_{\rm c}$,
+superconductivity leads to changes in the spectrum at frequencies below
+≈250 cm⁻¹. Superconductivity is observed directly from perfect
+reflectance at frequencies below 31.5 cm⁻¹ in the T = 5 K spectrum. The
+data are consistent with a fully gapped (nodeless) superconductor close
+to the dirty limit [20, 22, 35, 36]. Features at ≈260 and ≈320 cm⁻¹ are
+observed in the normal state spectrum and these features are nearly
+unchanged in the superconducting state spectrum. The feature at ≈260
+cm⁻¹ is due to an infrared-active phonon. The somewhat broader feature
+at ≈320 cm⁻¹ is possibly due to a weak optical interband transition.
+
+The absorption in the superconducting state A_(S)(T) for $T<T_{\rm c}$
+is obtained from the equation A_(S)(T) = 1 − R_(S)(T), where R_(S)(T) is
+the reflectance in the superconducting state. Similarly, the normal
+state absorption A_(N)(T = 25 K) is obtained from A_(N)(25 K) =
+1 − R_(N)(25 K). The ratio A_(S)(5 K)/A_(N)(25 K) is plotted as a
+function of frequency in Fig. 2. There are clear features at 80-200 cm⁻¹
+which are larger than the error bars [see Fig. 2(b)]. The sharp peak at
+87 cm⁻¹ is due to the largest gap. Above this gap feature, we observe a
+"valley-peak-valley" structure. When
+
+Figure 2: (a,b) Experimental data showing infrared absorption in the
+superconducting state (T = 5 K) normalized to infrared absorption in the
+normal state (T = 25 K). Also shown are fits to the experimental data
+using four different methods described in the text. The Eliashberg
+functions α²F shown in (a) consist of one sharp, large peak and one
+smaller, broad peak in the superconducting state for both Allen
+formalism and Zimmermann formalism. (b) Zoomed-in view of the
+valley-peak-valley region (≈90–200 cm⁻¹) in the normalized absorption
+spectrum shown in (a). Experimental error bars at representative
+frequencies are also shown in (b).
+
+Figure 1: The ab-plane infrared reflectance of BaFe_(1.9)Pt_(0.1)As₂ in
+the superconducting state (T = 5 K) and normal state (T = 25 K). Inset:
+the ab-plane infrared reflectance of BaFe_(1.9)Pt_(0.1)As₂ at T = 5 K
+and T = 25 K in a wider spectral range.
+
+we compare our normalized infrared absorption data of
+BaFe_(1.9)Pt_(0.1)As₂ to the normalized infrared absorption data of the
+well-known conventional strong-coupling superconductor lead (Pb) (Refs.
+[5,31]), we see they are remarkably similar. In Pb, acoustic phonons are
+the bosonic modes which mediate the formation of Cooper pairs, and the
+valleys in the absorption data are due to the peaks in the phonon
+density of states shifted by the gap 2Δ. Hence, the valleys in the
+absorption data of BaFe_(1.9)Pt_(0.1)As₂ roughly correspond to peaks in
+the density of states of bosonic modes shifted by the largest gap 2Δ₃.
+
+In the following Secs. III.2 and III.3, two different models have been
+applied to fit the normalized absorption of BaFe_(1.9)Pt_(0.1)As₂, in
+order to quantitatively determine the bosonic mode coupled to the
+electrons.
+
+### Modeling strong-coupling features with Allen formalism
+
+In order to quantitatively study the bosonic modes in superconducting
+BaFe_(1.9)Pt_(0.1)As₂ and obtain a fit to the experimental normalized
+absorption, we start from Allen’s formalism (optical self-energy method)
+generalized to multiband conductivity [18,31,37]. The imaginary part of
+the optical self-energy is
+
+$$\Sigma_{2}^{op}(\omega,T) = -\frac{1}{2}\Bigg{[}\int_{0}^{\infty}d\Omega\alpha^{2}F(\Omega,T) K(\omega,\Omega,T) +\frac{1}{\tau_{\mathrm{imp}}^{op}(\omega)}\Bigg{]},$$
+
+where α²F(Ω, T) is the Eliashberg function (electron-boson spectral
+density function), K(ω, Ω, T) is the kernel of Allen’s integral
+equation, and 1/τ_(imp)^(op)(ω) is the impurity scattering rate [18].
+Equation (1) is applicable to both the normal phase and the
+superconducting phase, but K(ω, Ω, T) and 1/τ_(imp)^(op)(ω) are
+different for the two phases:
+
+$$K(\omega,\Omega,T) = \frac{\pi}{\omega}\Bigg{[}2\omega\coth\left(\frac{\Omega}{2T} \right)-(\omega+\Omega)\coth\left(\frac{\omega+\Omega}{2T}\right)$$
+(for normal state),
+$$K(\omega,\Omega,T) = \frac{2\pi}{\omega}(\omega-\Omega)\Theta(\omega-2\Delta-\Omega)$$
+(for superconducting state at
+T = 0K
+), where
+Θ(x)
+represents the Heaviside step function,
+E(x)
+represents the complete elliptic integral of the second kind, and
+Δ
+is the energy gap. The impurity scattering rate is
+1/τ_(imp)^(op)(ω) = 1/τ_(imp)(for normal state),
+(3a)
+$$1/\tau_{\mathrm{imp}}^{op}(\omega)=(1/\tau_{\mathrm{imp}})\ E \left[\frac{\sqrt{\omega^{2}-(2\Delta)^{2}}}{\omega}\right]$$
+(3b) (for superconducting state at
+T = 0 K
+),
+
+in which 1/τ_(imp) is a constant. Then the real part of the optical
+self-energy can be obtained by the Kramers-Kronig transformation:
+
+$$\Sigma_{1}^{op}(\omega)=-\frac{2\omega}{\pi}\,P\int_{0}^{\infty}d\Omega\frac{ \Sigma_{2}^{op}(\omega)}{\Omega^{2}-\omega^{2}}.$$
+(4)
+
+The complex optical conductivity for one channel is
+
+$$\bar{\sigma}(\omega)=\frac{\omega_{p}^{2}}{8\pi i}\frac{1}{\tilde{\Sigma}^{op }(\omega)-\omega/2},$$
+(5)
+
+where ω_(p) is the plasma frequency in one channel and
+Σ̃^(op)(ω) = Σ₁^(op)(ω) + i Σ₂^(op)(ω). The total conductivity is the sum
+of different channels (here we have three channels due to the multiband
+nature of this material):
+
+σ̄_(total)(ω) = σ̄_(cf1)(ω) + σ̄_(cf2)(ω) + σ̄_(cf3)(ω).
+(6)
+
+We then add the contributions of the interband transitions from the
+experimental data at higher frequencies to the total low-frequency
+conductivity calculated from the model. The reflectance is calculated
+from the real and imaginary parts of the total optical conductivity
+(Appendix B). The absorption is calculated from the reflectance.
+
+In both normal state and superconducting state, the Eliashberg function
+α²F(Ω) only appears in the optical self-energy of the largest gap
+channel, while for the two smaller gap channels only impurity scattering
+is considered in the optical self-energy. The parameters in the fit are
+as follows: the impurity scattering rate (1/τ_(imp) = 370 cm⁻¹)
+consistent with the experimental data, the weights of the square of the
+total plasma frequency in each conductivity channel, and the three
+energy gaps in the superconducting state (discussed below). The total
+plasma frequency of 1.45 eV is obtained from the low-frequency optical
+conductivity data at T = 25 K in the normal state (Appendix A). Our best
+fits to the normalized absorption data and the corresponding Eliashberg
+function α²F(Ω) are shown in Figs. 2(a) and 2(b). The smallest gap
+2Δ₁ = 31.5 cm⁻¹ corresponds to the onset of absorption and the largest
+gap 2Δ₃ = 87 cm⁻¹ corresponds to the peak at 87 cm⁻¹ in the normalized
+absorption data. A third gap with energy 2Δ₂ = 58 cm⁻¹ is required to
+fit the shoulder around 60 cm⁻¹. However, Δ₂ is associated with the
+Fermi surface with a small spectral weight (10
+
+The ratio 2Δ₃/k_(B)T_(c) = 5.44 is clearly in the strong-coupling limit
+compared to the BCS weak-coupling value of 3.53. The ratios of the other
+two gaps to T_(c) are either smaller than (2Δ₁/k_(B)T_(c) = 1.97) or
+close to (2Δ₂/k_(B)T_(c) = 3.63) the BCS weak-coupling value. This
+justifies using the Eliashberg function only in the conductivity channel
+associated with the largest energy gap Δ₃. In order to fit the two
+valleys in the experimental normalized absorption spectrum, the
+Eliashberg function in the superconducting state consists of two
+Gaussian peaks: one large and sharp mode centered at frequency
+Ω₁ = 46 cm⁻¹ and one broad, weaker mode centered at frequency
+Ω₂ = 121 cm⁻¹. These two peaks approximately correspond to the two
+valleys respectively centered at frequencies 115 cm⁻¹ (≈Ω₁ + 2Δ₃) and
+180 cm⁻¹ (≈Ω₂ + 2Δ₃) in the calculated normalized absorption spectrum.
+In order to obtain the correct absolute value of normalized absorption,
+only the weak, broad peak is necessary in the Eliashberg function for
+the normal state. Here we discuss the calculated normalized absorption
+using three methods while keeping the same energy gaps: the multiband
+Allen formalism including both electron-boson interaction and impurity
+scattering $1/\tau_{\rm c,min}^{gp}(\omega)$, the multiband Allen
+formalism with only impurity scattering, and multiband Mattis-Bardeen
+theory [41] (with constant normal state conductivity σ₁ = 6000 Ω⁻¹ cm⁻¹
+consistent with the low-frequency conductivity data at T = 25 K shown in
+Appendix A). The multiband Mattis-Bardeen theory assumes the gaps are
+isotropic s-wave gaps in the weak-coupling limit, and the total
+conductivity is the superposition of the different superconducting
+channels. The multiband Mattis-Bardeen theory has been applied to
+iron-based superconductors previously [16, 20, 21, 22, 28, 42]. The
+model fits are compared in Fig. 2. Neither multiple band Mattis-Bardeen
+theory nor the Allen formalism with only impurity scattering capture the
+valley-peak-valley features in the normalized absorption data. The
+introduction of electron-boson interaction to the optical self-energy
+for the largest gap is required to fit the valley-peak-valley features
+between ≈90 and 200 cm⁻¹.
+
+Since the Allen formalism is expected to provide only an approximate
+quantitative description of strong-coupling superconductors [18, 31], we
+take the important step to check the self-consistency of the energy gap
+and the Eliashberg function α²F(Ω) used in the Allen formalism by
+solving the full Eliashberg equations. For this we assume an isotropic
+energy gap consistent with experiments [30] and the effective Coulomb
+pseudopotential μ^(*) = 0.1[43]. The Eliashberg equations are solved
+using epw4.2 as described in Ref. [43]. The renormalization function
+Z(ω) and the superconducting gap Δ(ω) are first solved on an imaginary
+energy axis and then an analytic continuation is performed to the real
+axis. The solved gap function is 2Δ(ω = 0) = 85 cm⁻¹, which is almost
+identical to the largest gap 2Δ₃. We also calculate $T_{\rm c}$ from the
+Eliashberg function. The lower limit of $T_{\rm c}$ can be estimated
+from McMillan’s formula [44],
+
+$$T_{\rm c,min}=\frac{\langle\omega\rangle}{1.20}\exp[-1.04(1+\lambda)/(\lambda- \mu^{*}-0.62\lambda\mu^{*})],$$
+(7)
+
+where μ^(*) is assumed to be 0.1, and
+
+$$\lambda=2\int_{0}^{\infty}{\rm d}\Omega\;\alpha^{2}F(\Omega)/\Omega,$$
+(8)
+$$\langle\omega\rangle=\left\{\int_{0}^{\infty}{\rm d}\Omega\;\alpha ^{2}F(\Omega)\right\}/\left\{\int_{0}^{\infty}{\rm d}\Omega\alpha^{2}F(\Omega )/\Omega\right\}.$$
+(9)
+
+Thus we obtain $T_{\rm c,min}=17.1\,$K. An upper limit of $T_{\rm c}$ is
+given by the generalized McMillan equation [18, 44],
+
+$$k_{\rm B}T_{\rm c,max}\congeq 1.13\hbar\omega_{\rm n}\exp[-(1+\lambda)/\lambda],$$
+(10)
+
+where
+
+$$\omega_{ln}=\exp\biggl{[}(2/\lambda)\int_{0}^{\infty}{\rm d}\Omega\;\ln\Omega \alpha^{2}F(\Omega)/\Omega\biggr{]},$$
+(11)
+
+and this gives $T_{\rm c,max}=24.6\,$K. The estimates of $T_{\rm c}$ are
+consistent with the experimental transition temperature of 23 K.
+
+### Modeling strong-coupling features with Zimmermann formalism
+
+In order to confirm the results of the modeling based on the Allen
+formalism, we apply a second approach to model our data: the formalism
+of Lee, Rainer, and Zimmermann [32] (we call it Zimmermann formalism in
+this article) to calculate the optical conductivity in the
+strong-coupling regime. The Zimmermann formalism has advantages in that
+it is self-consistent and incorporates temperature dependence in the
+superconducting state. Similar results to the Zimmerman formalism have
+been derived by Marsiglio [45] and Schachinger and Carbotte [46], which
+indicate the robustness and significance of the formalism. The
+temperature-dependent complex conductivity in the superconducting state
+takes the following expression [32, 47]:
+
+$$\sigma(\omega,T) = \frac{\omega_{p}^{2}}{16\pi^{3}\omega_{0}}\int_{-\infty}^{+ \infty}d\varepsilon\left\{\tanh\left(\frac{\varepsilon}{2k_{\rm B}T}\right)M( \varepsilon,\omega)\right.$$
+(12)
+×[g(ε)g(ε + ω) + h(ε)h(ε + ω) + π²]
+$$- \tanh\left(\frac{\varepsilon+\omega}{2k_{\rm B}T}\right)M^{*}( \varepsilon,\omega)[g^{*}(\varepsilon)g^{*}(\varepsilon+\omega)$$
+$$+ h^{*}(\varepsilon)h^{*}(\varepsilon+\omega)+\pi^{2}]+\left[\tanh \left(\frac{\varepsilon+\omega}{2k_{\rm B}T}\right)\right.$$
+$$- \left.\tanh\left(\frac{\varepsilon}{2k_{\rm B}T}\right)\right]L( \varepsilon,\omega)[g^{*}(\varepsilon)g(\varepsilon+\omega)$$
+$$+ h^{*}(\varepsilon)h(\varepsilon+\omega)+\pi^{2}]\biggr{\}}$$
+
+where ω_(p) is the plasma frequency in one conductivity channel and
+
+$$g(\varepsilon) = \frac{-\pi\tilde{\varepsilon}(\varepsilon)}{\sqrt{\tilde{\Delta}^ {2}(\varepsilon)-\tilde{\varepsilon}^{2}(\varepsilon)}},$$
+(13a)
+$$h(\varepsilon) = \frac{-\pi\tilde{\Delta}(\varepsilon)}{\sqrt{\tilde{\Delta}^{2}( \varepsilon)-\tilde{\varepsilon}^{2}(\varepsilon)}},$$
+(13b)
+$$M(\varepsilon,\;\omega) = [\sqrt{\tilde{\Delta}^{2}(\varepsilon+\omega)-\tilde{\varepsilon}^ {2}(\varepsilon+\omega)}$$
+(14a)
+$$+\sqrt{\tilde{\Delta}^{2}(\varepsilon)-\tilde{\varepsilon}^{2}( \varepsilon)+1/\tau}]^{-1},$$
+$$L(\varepsilon,\;\omega) = [\sqrt{\tilde{\Delta}^{2}(\varepsilon+\omega)-\tilde{\varepsilon}^ {2}(\varepsilon+\omega)}$$
+(14b)
+$$+\sqrt{\tilde{\Delta}^{*2}(\varepsilon)-\tilde{\varepsilon}^{*2}( \varepsilon)}+1/\tau]^{-1},$$
+in which 1/τ is the impurity, scattering rate. The quantities Δ̃ and ε̃
+depend on energy ε, ε̃(ε) = εZ(ε) and Δ̃ = Z(ε)Δ(ε). The complex
+renormalization function Z(ε) and superconducting gap Δ(ε) are obtained
+by solving the standard Eliashberg equations for isotropic systems at
+real energies. In Eq. (12), the integral is implemented on the energy
+axis from negative infinity to positive infinity. The negative energy
+dependence of Z(ε) and Δ(ε) can be obtained from the symmetry properties
+of Z(ε) and Δ(ε). Note that the real part of both Z(ε) and Δ(ε) are even
+functions of energy, and the imaginary parts of both Z(ε) and Δ(ε) are
+odd functions of energy [48, 49].
+
+For the normal state, the conductivity can be expressed as
+
+$$\sigma_{N}(\omega,\ T) = \frac{{\omega_{p}}^{2}}{8\pi\omega}\int_{-\infty}^{+\infty}d \varepsilon\bigg{[}\tanh\bigg{(}\frac{\varepsilon+\omega}{2k_{\rm B}T}\bigg{)}$$
+(15)
+$$-\ \tanh\bigg{(}\frac{\varepsilon}{2k_{\rm B}T}\bigg{)}\bigg{]}M_{N}(\varepsilon,\ \omega),$$
+
+where
+
+M_(N)(ε, ω) = [−iε̃_(N)(ε + ω) + iε̃_(N)^(*)(ε) + 1/τ]⁻¹,
+(16)
+
+and ε̃_(N)(ε) is defined by
+
+$$\tilde{\varepsilon}_{N}(\varepsilon) = \varepsilon+\int_{-\infty}^{+\infty}d\Omega\ \alpha^{2}F(\Omega)\bigg{[}i\pi\cot\bigg{(}\frac{\Omega}{2k_{\rm B}T}\bigg{)}$$
+$$-\ \Psi\bigg{(}\frac{1}{2}+i\frac{-\varepsilon+\Omega}{2\pi k_{\rm B}T}\bigg{)}+\Psi\bigg{(}\frac{1}{2}+i\frac{-\varepsilon-\Omega}{2\pi k_{\rm B}T}\bigg{)}\bigg{]},$$
+
+in which α²F(Ω) is the Eliashberg function and Ψ(x) is the digamma
+function. Negative energy dependence of α²F(Ω) can also be obtained from
+symmetry properties of α²F(Ω). Note that α²F(Ω) is an odd function of
+frequency (energy) [50].
+
+For the simulation based on the Zimmermann approach, the following
+parameters were used for the strong-coupling channel with the largest
+gap Δ₃: ω_(p)² is 35
+
+Our models based on the Allen and Zimmermann formalisms quantitatively
+describe the energy gaps and the strong-coupling features in the
+experimental data (see Fig. 2). However, we note that the model based on
+the Allen formalism gives a better fit to the experimental data compared
+to the model based on the Zimmermann formalism.
+
+### Origin of the bosonic modes
+
+Next we discuss the origin of the two peaks in the Eliashberg function.
+The promising candidates for bosons which mediate the formation of
+Cooper pairs are either spin fluctuations or orbital fluctuations
+(induced by Fe phonons). Spin resonance modes have been determined by
+inelastic neutron scattering experiments [8, 9, 10, 11]. The spin
+resonance, which is observed only in the superconducting state in
+cuprates, heavy-fermion, and iron-based superconductors, is generally
+considered a feedback effect from superconductivity. Despite some
+theoretical controversies, the resonance is viewed as a spin-exciton
+bound state in the particle-hole channel. The appearance of the
+resonance implies a sign change of superconducting gap(s) between either
+different patches of the Fermi surface or different Fermi pockets
+connected by a resonance mode at momentum q (see Ref. [51] and
+references therein). From the modeling of our infrared absorption data,
+the large sharp peak in the Eliashberg function of BaFe_(1.9)Pt_(0.1)As₂
+is centered at 5.1 ± 0.6 meV (41 ± 5 cm⁻¹), with a full width at half
+maximum of 1 meV, and is only present in the superconducting state. We
+note that the spin resonance mode at 3D antiferromagnetic ordering wave
+vector Q = (1, 0,  − 1) occurs in BaFe_(1.9)Ni_(0.1)As₂ (a
+superconductor with $T_{\rm c}=20$ K and similar to
+BaFe_(1.9)Pt_(0.1)As₂), with resonance energy
+$\hbar\omega_{\rm res}=7\pm 0.5$ meV, and width d = 1.9 ± 0.7 meV [8].
+Inelastic neutron scattering experiments on BaFe_(1.9)Pt_(0.1)As₂ are
+not available at present. If the bosonic mode we have observed is due to
+spin fluctuations, then we expect that a spin resonance mode about 5 meV
+will be observed in future inelastic neutron scattering experiments. The
+center frequency of the bosonic mode in our infrared experiments is also
+not that different from the spin resonance mode of another
+electron-doped material Ba(Fe_(1 − x)Co_(x))₂As₂ which is ∼8-9 meV [10,
+11]. Note that the bosonic mode observed in the optical response is the
+q averaged (all momenta in the Brillouin zone) local susceptibility.
+From the above discussion, we infer that the sharp peak about 5 meV in
+the Eliashberg function of BaFe_(1.9)Pt_(0.1)As₂ possibly represents the
+spin resonance in the superconducting state. The important point is that
+the 5-meV peak cannot be due to phonons alone because it is lower in
+energy compared to the energy of the lowest peak in the phonon density
+of states in the parent compound or doped BaFe₂As₂[52, 53]. Moreover,
+since phonons are present in both the normal and superconducting states,
+the 5-meV peak cannot be due to phonons alone because it is only
+required in modeling the superconducting state data and not required for
+modeling the normal state data.
+
+The broad, weak peak in α²F(Ω) is centered at 15 meV (121 cm⁻¹), with a
+width of 5 meV, and is required in the models for both the
+superconducting and normal states. Inelastic x-ray scattering
+experiments have measured the lowest-energy peak in the Fe phonon
+density of states centered at 13 meV, with width approximately 5 meV.
+The phonon density of states is nearly temperature independent [54].
+Phonons are likely the origin of the weak, broad mode. Actually, the
+position and the width of the broad peak are also very similar to the
+prediction of the resonance peak of the s₊₊ wave pairing state [55].
+Possible explanations are that the weak, broad mode is either due to
+electron-phonon interaction or due to phonon induced orbital
+fluctuations. Note that the total electron-boson coupling constant
+λ = 3.5-4.3 contains a significant contribution of 2.8-3.6 from the
+sharp peak, and a minor contribution of only 0.7 from the broad peak. If
+the sharp peak in the Eliashberg function is due to spin fluctuations,
+this means spin fluctuations play the dominant role in superconductivity
+in BaFe_(1.9)Pt_(0.1)As₂. It would also support the presence of a
+predominant s_(±) gap in superconducting BaFe_(1.9)Pt_(0.1)As₂[6].
+However, we note that superconductivity with relatively high $T_{\rm c}$
+is preserved in the presence of large impurity scattering in
+BaFe_(1.9)Pt_(0.1)As₂. This is more consistent with an s₊₊ pairing state
+because the s_(±) pairing state is expected to be fragile against
+impurities due to interband scattering [56].
+
+### Temperature-dependent features
+
+Finally, we study the temperature dependence of the normalized
+absorption spectra. The absorption spectra in the superconducting state
+at T = 5, 10, 15, and 20 K, are normalized to the normal state
+absorption data (T = 25 K) and plotted in Figs. 3(a) and 3(b). It is
+clear that the amplitude of the strong-coupling features due to
+electron-boson interaction decreases when temperature increases toward
+$T_{\rm c}$. However, there is little frequency dependence of these
+features for temperatures at and below 15 K. At T = 20 K, still below
+$T_{\rm c}$, the strong-coupling features weaken further and move to
+lower frequencies. This may be caused by a reduction of the energy gap
+Δ₃ magnitude and a downward shift in center frequency Ω₁ of the bosonic
+peak as the temperature approaches $T_{\rm c}$ from below. The Allen
+formalism for the superconducting state is meant for T = 0 K and works
+well for temperatures much below $T_{\rm c}$. To the best of our
+knowledge, the Allen formalism for the superconducting state at higher
+temperatures does not exist at present. Hence, we cannot quantitatively
+model the temperature dependence of the bosonic mode based on the Allen
+formalism. Nevertheless, we attempt to follow the temperature dependence
+of the energy gaps using two alternative methods discussed below. The
+first method is based on Mattis-Bardeen theory. The second method based
+on the Zimmerman formalism also allows us to model the temperature
+dependence of the low-energy bosonic mode.
+
+In the first method, the temperature-dependent energy gap 2Δ₃(T) is
+estimated directly from the normalized absorption because it corresponds
+to the first prominent peak position [shown by arrows in Fig. 3(b)] and
+is plotted in Fig. 3(c). The temperature dependence of Δ₁ and Δ₂ cannot
+be obtained directly from the data. However, since the ratio
+$2\Delta/k_{\rm B}T_{\rm c}$ for the smaller two gaps shows they are in
+the weak-coupling regime, we have modeled the normalized absorption
+using three-band Mattis-Bardeen formalism (we assume the temperature
+dependence of the largest gap can
+
+Figure 3: (a) Solid lines are temperature-dependent infrared absorption
+in the superconducting state normalized to infrared absorption in the
+normal state at T = 25 K. Dashed lines (red) are Mattis-Bardeen fits to
+the normalized infrared absorption data. Dash-dotted lines (blue) are
+the fits using Zimmermann’s formalism for the largest energy gap, and
+Mattis-Bardeen formalism for the two smaller energy gaps. (b) Zoomed-in
+view of the spectra showing the peak associated with the largest gap 2Δ₃
+and the valley-peak-valley strong-coupling features at different
+temperatures in the superconducting state. Arrows indicate the frequency
+of the first prominent peak in the normalized absorption spectrum due to
+the energy gap 2Δ₃ in the presence of impurity scattering. (c) Plot of
+the temperature dependence of the three energy gaps and bosonic mode Ω₁.
+Hollow symbols (blue) represent energy gaps from Mattis-Bardeen
+formalism (see text), filled symbols (green) represent the energy gap Δ₃
+from Zimmermann formalism, and half-hollow symbols (magenta) represent
+bosonic mode Ω₁. The dashed lines are the BCS prediction of the
+temperature dependence of the energy gaps. The vertical dotted line
+represents $T_{\rm c}$.
+
+be modeled with Mattis-Bardeen theory). The results are shown in Fig.
+3(c) with hollow symbols. The largest and smallest gaps appear to
+deviate from the BCS prediction close to $T_{\rm c}$.
+
+Since the Mattis-Bardeen description does not capture the temperature
+dependence of the strong-coupling features and the low-energy bosonic
+mode, we attempt to fit the temperature-dependent normalized absorption
+using Zimmermann’s formalism for the largest gap channel. In the
+modeling, we assume the low-energy bosonic mode is temperature dependent
+and follows a similar functional dependence as the energy gap [10].
+Temperature-dependent complex renormalization function Z(ε) and
+superconducting gap Δ(ε) are obtained by solving the standard Eliashberg
+equations for isotropic systems at real energies. The Zimmermann
+formalism is applied in the largest energy gap channel, and the
+temperature dependence of the two smaller gaps in the weak-coupling
+regime are modeled using Mattis-Bardeen theory. The simulation results
+are shown in Fig. 3(a). The theoretical model roughly captures the
+temperature-dependent trend of the valley-peak-valley features. At
+T = 10 and 15 K, the valley-peak-valley features become weaker compared
+to T = 5 K simulation, while there is some frequency dependence at
+T = 15 K compared to the T = 5 and 10 K simulations. At T = 20 K, a
+temperature close to $T_{\rm c}$, the valley-peak-valley features are
+nearly washed out in the simulation consistent with the experimental
+data. The temperature dependence of the energy gaps and the bosonic mode
+from the model is shown in Fig. 3(c). There are larger error bars at
+higher temperatures due to uncertainty in the solution of the Eliashberg
+equations using the epw software when the temperature approaches
+$T_{\rm c}$.
+
+## IV Conclusion
+
+To conclude, we have observed temperature-dependent features in the
+infrared absorption spectra arising from the energy gaps and strong
+electron-boson interaction in the superconductor BaFe_(1.9)Pt_(0.1)As₂.
+This was enabled by careful, systematic cryogenic infrared reflectance
+measurements. The data are consistent with three nodeless energy gaps in
+the superconducting state, out of which only the largest gap is in the
+strong-coupling regime. We obtain the Eliashberg function
+(electron-boson spectral density function) by modeling the absorption
+data with both the generalized Allen formalism and Zimmermann formalism.
+The largest gap, the $T_{\rm c}$, and the Eliashberg function were
+verified to be self-consistent within the Eliashberg theory. We find
+that superconductivity in BaFe_(1.9)Pt_(0.1)As₂ arises primarily due to
+pairing of electrons induced by a bosonic mode centered at 5.1 ± 0.6
+meV. This bosonic mode cannot be attributed to phonons alone because it
+occurs at an energy less than the lowest-energy peak in the phonon
+density of states. The bosonic mode may originate from spin fluctuations
+although we cannot rule out the role of orbital fluctuations or another
+mechanism.
+
+###### Acknowledgements.
+
+M.M.Q. acknowledges support from the National Science Foundation (Award
+No. NSF DMR-1255156) and the Virginia Space Grant Consortium for the
+research conducted at William & Mary. Research at the University of
+Maryland was supported by the Air Force Office of Scientific Research
+(Award No. FA9550-14-1-0332) and the National Science Foundation
+Division of Materials Research (Award No. DMR-1610349). Z.X. is grateful
+to Hao Shi for his assistance with running the epw4.2 program in Linux
+environment.
+
+## Appendix A Optical conductivity
+
+The temperature dependence of the real part of the optical conductivity
+σ₁ is shown in Fig. 4. It is obtained from Kramers-Kronig transformation
+of the reflectance data constrained by cryogenic ellipsometry data,
+similar to the procedure described in Ref. [34]. At T = 5 K, the real
+part of the conductivity is negligible below the frequency 31.5 cm⁻¹,
+corresponding to the smallest gap. At higher frequencies, there is a
+sharp increase of the conductivity just above the gap and subsequently
+the conductivity reaches a maximum, which is a clear indication of
+superconductivity in the dirty limit. Indeed, the scattering rate in the
+normal state (T = 25 K) is 370 cm⁻¹ which is much larger than the energy
+gaps indicating that superconductivity is in the dirty limit. In fact,
+the large radius Pt ion doped into the FeAs₄ tetragon leads to
+significant impurity scattering and to some degree of localization at
+higher temperatures in the normal state. This can be seen from the
+nonmonotonic frequency dependence of σ₁ at low frequencies in the normal
+state at higher temperatures (see Fig. 4).
+
+The inset in Fig. 4 clearly shows the "missing" spectral weight between
+the normal state conductivity and the superconducting state conductiv
+
+Figure 4: The real part of the ab-plane optical conductivity σ₁ is
+plotted as a function of frequency at different temperatures. Inset: the
+region shaded gray is the “missing area” between the normal and
+superconducting state real conductivity that moves into the delta
+function at ω = 0 in the superconducting state.
+
+weight in the superconducting state is transferred into the delta
+function at zero frequency which represents the superfluid response to a
+dc electric field. The missing spectral weight area is equal to the
+superfluid density [22],
+ω_(ps)² = 8∫₀^(ω_(z))dω[σ₁(ω, T = 25 K) − σ₁(ω, T = 5 K)] = 1.9 × 10⁷ cm⁻²,
+where the cutoff frequency ω_(c) = 400 cm⁻¹ is chosen so that the
+integral converges smoothly. The superfluid density is consistent with
+that obtained from the low-frequency limit ω_(ps)² = −ω²ε₁ (ω → 0),
+where ε₁ is the real part of the dielectric function [22, 57]. We use
+the Drude-Lorentz model to separate the contribution of free carriers
+and interband transitions to the conductivity in the normal state
+(T = 25 K) [57]. In the simplest Drude-Lorentz model, a single Drude
+feature is sufficient to describe the free carrier contribution. The
+superfluid density at T = 5 K is 14
+
+## Appendix B Absolute reflectance and absorption calculated using the
+two models
+
+Absolute reflectance and absorption calculated [57] from the total
+optical conductivity based on the Allen formalism and the Zimmermann
+formalism in the superconducting state (T = 5 K) and normal state
+(T = 25 K) are shown in Fig. 5. We have obtained quantitatively good
+agreement to the absolute reflectance and absorption data using the
+Allen formalism. The Zimmermann formalism agrees better with the
+experimental data at lower frequencies compared to higher frequencies
+(above ≈100 cm⁻¹).
+
+## References
+
+* [1] J. Bardeen, L. N. Cooper, and J. R. Schrieffer, Phys. Rev.
+**108**, 1175 (1957). * [2] G. M. Eliashberg, Sov. Phys. JETP **11**,
+696 (1960). * [3] D. J. Scalapino, W. L. McMillan, and J. M. Rowell, in
+_Superconductivity_, edited by R. D. Parks (Marcel Dekker, Inc., New
+York, 1969), pp. 449-614. * [4] R. Stedman, L. Almqvist, and G. Nilsson,
+Phys. Rev. **162**, 549 (1967). * [5] R. R. Joyce and P. L. Richards,
+Phys. Rev. Lett. **24**, 1007 (1970). * [6] P. J. Hirschfeld, M. M.
+Korshunov, and I. I. Mazin, Rep. Prog. Phys. **74**, 124508 (2011). *
+[7] Q. Si, R. Yu, and E. Abrahams, Nat. Rev. Mater. **1**, 16017
+(2016). * [8] S. Chi, A. Schneidewind, J. Zhao, L. W. Harriger, L. Li,
+Y. Luo, G. Cao, Z. Xu, M. Loewenhaupt, J. Hu, and P. Dai, Phys. Rev.
+Lett. **102**, 107006 (2009). * [9] A. D. Christianson, E. A.
+Goremychkin, R. Osborn, S. Rosenkranz, M. D. Lumsden, C. D. Malliakas,
+I. S. Todorov, H. Claus, D. Y. Chung, M. G. Kanatzidis, R. I. Bewley,
+and T. Guidi, Nature **456**, 930 (2008). * [10] D. S. Inosov, J. T.
+Park, P. Bourges, D. L. Sun, Y. Sidis, A. Schneidewind, K. Hradil, D.
+Haug, C. T. Lin, B. Keimer, and V. Hinkov, Nat. Phys. **6**, 178
+(2010). * [11] M. D. Lumsden, A. D. Christianson, D. Parshall, M. B.
+Stone, S. E. Nagler, G. J. Macdougall, H. A. Mook, K. Lokshin, T. Egami,
+D. L. Abernathy, E. A. Goremychkin, R. Osborn, M. A. McGuire, A. S.
+Sefat, R. Jin, B. C. Sales, and D. Mandrus, Phys. Rev. Lett. **102**,
+107005 (2009). * [12] L. Shan, J. Gong, Y. Wang, B. Shen, X. Hou, C.
+Ren, C. Li, H. Yang, H. Wen, S. Li, and P. Dai, Phys. Rev. Lett.
+**108**, 227002 (2012). * [13] P. Popovich, A. V. Boris, O. V. Dolgov,
+A. A. Golubov, D. L. Sun, C. T. Lin, R. K. Kremer, and B. Keimer, Phys.
+Rev. Lett. **105**, 027003 (2010). * [14] M. P. Allan, K. Lee, A. W.
+Rost, M. H. Fischer, F. Massee, K. Kihou, C. Lee, A. Iyo, H. Eisaki, T.
+Chuang, J. C. Davis, and E. Kim, Nat. Phys. **11**, 177 (2015). * [15]
+E. van Heumen, Y. Huang, S. de Jong, A. B. Kuzmenko, M. S. Golden, and
+D. van der Marel, Europhys. Lett. **90**, 37005 (2010).
+
+Figure 5: The frequency-dependent (a) reflectance and (b) absorption in
+the superconducting state (5 K) and the normal state (25 K) calculated
+from the Allen formalism and the Zimmermann formalism and compared to
+the experimental data.
+
+* (16) E. G. Maksimov, A. E. Karakozov, B. P. Gorshunov, A. S.
+Prokhorov, A. A. Voronkov, E. S. Zhukova, V. S. Nozdrin, S. S. Zhukov,
+D. Wu, M. Dressel, S. Haindl, K. Iida, and B. Holzapfel, Phys. Rev. B
+**83**, 140502(R) (2011). * (17) D. Wu, N. Barisic, M. Dressel, G. H.
+Cao, Z.-A. Xu, E. Schachinger, and J. P. Carbotte, Phys. Rev. B **82**,
+144519 (2010). * (18) J. Hwang, J. Phys.: Condens. Matter **28**, 125702
+(2016). * (19) A. Charnukha, O. V. Dolgov, A. A. Golubov, Y. Matiks, D.
+L. Sun, C. T. Lin, B. Keimer, and A. V. Boris, Phys. Rev. B **84**,
+174511 (2011). * (20) K. W. Kim, M. Rossle, A. Dubroka, V. K. Malik, T.
+Wolf, and C. Bernhard, Phys. Rev. B **81**, 214508 (2010). * (21) Y. M.
+Dai, B. Xu, B. Shen, H. H. Wen, X. G. Qiu, and R. P. S. M. Lobo,
+Europhys. Lett. **104**, 47006 (2013). * (22) J. J. Tu, J. Li, W. Liu,
+A. Punnoose, Y. Gong, Y. H. Ren, L. J. Li, G. H. Cao, Z. A. Xu, and C.
+C. Homes, Phys. Rev. B **82**, 174509 (2010). * (23) T. Fischer, A. V.
+Pronin, J. Wosnitza, K. Iida, F. Kurth, S. Haindl, L. Schultz, B.
+Holzapfel, and E. Schachinger, Phys. Rev. B **82**, 224507 (2010). *
+(24) D. Wu, N. Barisic, M. Dressel, G. H. Cao, Z. A. Xu, J. P. Carbotte,
+and E. Schachinger, Phys. Rev. B **82**, 184527 (2010). * (25) S. J.
+Moon, A. A. Schafgans, S. Kasahara, T. Shibauchi, T. Terashima, Y.
+Matsuda, M. A. Tanatar, R. Prozorov, A. Thaler, P. C. Canfield, A. S.
+Sefat, D. Mandrus, and D. N. Basov, Phys. Rev. Lett. **109**, 027006
+(2012). * (26) S. J. Moon, Y. S. Lee, A. A. Schafgans, A. V. Chubukov,
+S. Kasahara, T. Shibauchi, T. Terashima, Y. Matsuda, M. A. Tanatar, R.
+Prozorov, A. Thaler, P. C. Canfield, S. L. Bud’ko, A. S. Sefat, D.
+Mandrus, K. Segawa, Y. Ando, and D. N. Basov, Phys. Rev. B **90**,
+014503 (2014). * (27) J. Yang, D. Huvonen, U. Nagel, T. Room, N. Ni, P.
+C. Canfield, S. L. Bud’ko, J. P. Carbotte, and T. Timusk, Phys. Rev.
+Lett. **102**, 187003 (2009). * (28) B. Xu, Y. M. Dai, H. Xiao, B. Shen,
+H. H. Wen, X. G. Qiu, and R. P. S. M. Lobo, Phys. Rev. B **96**, 115125
+(2017). * (29) B. P. P. Mallett, C. N. Wang, P. Marsik, E. Sheveleva, M.
+Yazdi-Rizi, J. L. Tallon, P. Adelmann, Th. Wolf, and C. Bernhard, Phys.
+Rev. B **95**, 054512 (2017). * (30) S. Ziemak, K. Kirshenbaum, S. R.
+Saha, R. Hu, J.-P. Reid, R. Gordon, L. Taillefer, D. Evtushinsky, S.
+Thirupathaiah, B. Buchner, S. V. Borisenko, A. Ignatov, D. Kolchmeyer,
+G. Blumberg, and J. Paglione, Supercond. Sci. Technol. **28**, 014004
+(2015). * (31) P. B. Allen, Phys. Rev. B **3**, 305 (1971). * (32) W.
+Lee, D. Rainer, and W. Zimmermann, Phys. C (Amsterdam, Neth.) **159**,
+535 (1989). * (33) S. R. Saha, T. Drye, K. Kirshenbaum, N. P. Butch, P.
+Y. Zavalij, and J. Paglione, J. Phys.: Condens. Matter **22**, 072204
+(2010). * (34) Z. Xing, T. J. Huffman, P. Xu, A. J. Hollingshad, D. J.
+Brooker, N. E. Penthorn, M. M. Qazilbash, S. R. Saha, T. Drye, C.
+Roncaioli, and J. Paglione, Phys. Rev. B **94**, 064514 (2016). * (35)
+G. Li, W. Z. Hu, J. Dong, Z. Li, P. Zheng, G. F. Chen, J. L. Luo, and N.
+L. Wang, Phys. Rev. Lett. **101**, 107004 (2008). * (36) K. Kamaras, S.
+L. Herr, C. D. Porter, N. Tache, D. B. Tanner, S. Etemad, T. Venkatesan,
+E. Chase, A. Inam, X. D. Wu, M. S. Hegde, and B. Dutta, Phys. Rev. Lett.
+**64**, 84 (1990). * (37) S. V. Shulga, O. V. Dolgov, and E. G.
+Maksimov, Physica C **178**, 266 (1991). * (38) D. S. Inosov, J. T.
+Park, A. Charnukha, Y. Li, A. V. Boris, B. Keimer, and V. Hinkov, Phys.
+Rev. B **83**, 214520 (2011). * (39) K. Terashima, Y. Sekiba, J. H.
+Bowen, K. Nakayama, T. Kawahara, T. Sato, P. Richard, Y.-M. Xu, L. J.
+Li, G. H. Cao, Z.-A. Xu, H. Ding, and T. Takahashi, Proc. Natl. Acad.
+Sci. USA **106**, 7330 (2009). * (40) V. Brouet, M. Marsi, B. Mansart,
+A. Nicolaou, A. Taleb-Ibrahimi, P. Le Fevre, F. Bertran, F.
+Rullier-Albenque, A. Forget, and D. Colson, Phys. Rev. B **80**, 165115
+(2009). * (41) D. C. Mattis and J. Bardeen, Phys. Rev. **111**, 412
+(1958). * (42) A. Perucchi, F. Capitani, P. Di Pietro, S. Lupi, S. Lee,
+J. H. Kang, J. Jiang, J. D. Weiss, E. E. Hellstrom, C. B. Eom, and P.
+Dore, Appl. Phys. Lett. **104**, 222601 (2014). * (43) S. Ponce, E. R.
+Margine, C. Verdi, and F. Giustino, Comput. Phys. Commun. **209**, 116
+(2016). * (44) P. B. Allen and R. C. Dynes, Phys. Rev. B **12**, 905
+(1975). * (45) F. Marsiglio, Phys. Rev. B **44**, 5373 (1991). * (46) E.
+Schachinger and J. P. Carbotte, in _Models and Methods of High-T,
+Superconductivity: Some Frontal Aspects, Volume 2_, edited by J. K.
+Srivastava and S. M. Rao (Nova Science Publishers, Inc., New York,
+2003), pp. 73-150. * (47) R. Akis, J. P. Carbotte, and T. Timusk, Phys.
+Rev. B **43**, 12804 (1991). * (48) E. Gull and A. J. Millis, Phys. Rev.
+B **91**, 085116 (2015). * (49) E. Gull and A. J. Millis, Phys. Rev. B
+**90**, 041110 (2014). * (50) F. Marsiglio, M. Schossmann, and J. P.
+Carbotte, Phys. Rev. B **37**, 4965 (1988). * (51) A. Hinojosa, A. V.
+Chubukov, and P. Wolfle, Phys. Rev. B **90**, 104509 (2014). * (52) M.
+Zbiri, H. Schober, M. R. Johnson, S. Rols, R. Mittal, Y. Su, M. Rotter,
+and D. Johrendt, Phys. Rev. B **79**, 064511 (2009). * (53) D. Reznik,
+K. Lokshin, D. C. Mitchell, D. Parshall, W. Dmowski, D. Lamago, R. Heid,
+K.-P. Bohnen, A. S. Sefat, M. A. McGuire, B. C. Sales, D. G. Mandrus, A.
+Subedi, D. J. Singh, A. Alatas, M. H. Upton, A. H. Said, A. Cunsolo, Y.
+Shvyd’ko, and T. Egami, Phys. Rev. B **80**, 214534 (2009). * (54) O.
+Delaire, M. S. Lucas, A. M. dos Santos, A. Subedi, A. S. Sefat, M. A.
+McGuire, L. Mauger, J. A. Munoz, C. A. Tulk, Y. Xiao, M. Somayazulu, J.
+Y. Zhao, W. Sturhahn, E. E. Alp, D. J. Singh, B. C. Sales, D. Mandrus,
+and T. Egami, Phys. Rev. B **81**, 094504 (2010). * (55) S. Onari and H.
+Kontani, Phys. Rev. B **84**, 144518 (2011). * (56) H. Kontani and S.
+Onari, Phys. Rev. Lett. **104**, 157001 (2010). * (57) M. Dressel and G.
+Gruner, _Electrodynamics of Solids: Optical Properties of Electrons in
+Matter_ (Cambridge University Press, Cambridge, 2002).

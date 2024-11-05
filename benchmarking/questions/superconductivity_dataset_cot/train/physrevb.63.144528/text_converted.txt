@@ -1,0 +1,462 @@
+# Magnetism and superconductivity in Y1-_T_b_x Ni2 B2C single crystals
+
+B. K. Cho, H. B. Kim, and Sung-Ik Lee
+
+Center for Frontier Materials, Department of Materials Science and
+Engineering, Kwangju Institute of Science and Technology, Kwangju,
+500-712, Korea National Creative Research Initiative Center for
+Superconductivity and Department of Physics, Pohang University of
+Science and Technology, Pohang. 790-784, Korea
+
+###### Abstract
+
+The magnetic and superconducting properties in a series of
+pseudo-quaternary compounds Y1-_T_b_x Ni2 B2C were investigated by the
+temperature-dependent magnetization _M_(_T_) for applied field parallel
+and perpendicular to the c axis and by in-plane resistivity, _r_(_T_).
+There was a large anisotropy in _M_(_T_), which is attributed to the
+crystalline electric field effects. As the Tb concentration x is
+increased, the superconducting transition temperature T_(c) decreases
+and disappears rapidly in the vicinity of x = 0.4 while the Neel
+temperature T_(N) appears abruptly near x = 0.4 and increases with Tb
+content. In addition, the increase of _M_(_T_) at low temperatures below
+T_(N) was observed for x >= 0.4, of which the onset temperature T_(F) is
+regarded as development of weak-ferromagnetic component. T_(F) was also
+in proportion to the Tb content x accompanied by T_(N). The linear
+decrease of T_(c) for dilute Tb concentration seems to follow an
+Abrikosov-Gor’kov expectation, while the sudden destruction of T_(c)
+near x = 0.4 seems to have close correlation with the emergence of
+magnetic states, i.e., antiferromagnetic and weak-ferromagnetic states.
+Possible scenarios for the correlation are discussed.
+
+pacs: 10.1103/PhysRevB.63.144528 + Footnote †: preprint: PHYSICAL REVIEW
+B, VOLUME 63, 144528
+
+## I Introduction
+
+The quaternary borocarbides R Ni2 B2 C (_R_ = Y), rare-earth elements
+have been continuously studied after discovery of the compounds in 1994
+because of not only their comparatively high superconducting transition
+temperatures up to T_(c) 16 K with R = Lu but also the coexistence of
+superconductivity and magnetism.[1, 2, 3] Even though they have a
+layered-tetragonal structure alternating _R_C sheets and Ni2 B2
+layers,[4] which is reminiscent of high T_(c) cuprate superconductors,
+electronic band structure calculations demonstrated that they are
+electronically three dimensional. It was also shown that Ni 3d electrons
+predominantly contribute to the conduction band at the Fermi level,
+although the electronic contributions from the other elements B and C
+are not negligible.[5, 6]
+
+Among the R Ni2 B2 C family, TbNi2 B2 C is not superconducting above 300
+mK but undergoes an antiferromagnetic ordering at T_(N) = 15 K with Tb
+moments lying in [001] direction.[7] TbNi2 B2 C exhibited an additional
+magnetic transition below 8 K in antiferromagnetically ordered state,
+which was identified as weak-ferromagnetic transition by magnetization,
+resistivity, and specific-heat measurements.[7, 8] Neutron-diffraction
+measurements also suggested the presence of a small-ferromagnetic
+component.[9] The origin of nonsuperconductivity in TbNi2 B2 C is still
+under debate. One of the possibilities is a noncollinear
+antiferromagnetic spin structure of Tb moments. In fact, the magnetic
+hyperfine field at the Ni site, which could act as the pair-breaking
+field at Ni site, was observed in the Mossbauer spectroscopy.[10] The
+study of pseudoquaternary compound, Er1-_T_b_ Ni2 B2 C was reported. It
+was conjectured that the weak-ferromagnetic component does not directly
+affect the superconductivity. However, it should be noted that there are
+complications in ground-magnetic structure in above compounds because
+the magnetic structure in ErNi2 B2 C is quite different from the one in
+TbNi2 B2 C.[11]
+
+Based on the Abrikosov-Gor’kov (AG) theory in the dilute magnetic
+impurity limit, T_(c) decreases linearly with the de Gennes factor,
+(g_(J) - 1)2_J_(_J_ + 1), where g_(J) is the Lande g factor and J is the
+total angular momentum of the magnetic-impurity element. The de Gennes
+factor indicates the strength of the exchange coupling between the local
+moments and the conduction electrons. For pure-quaternary compounds,
+T_(c) seems to scale well with the de Gennes factor of the rare
+earth.[12] However, complete breakdown of de Gennes scaling was reported
+in pseudoquaternary system, Ho1-_T_b_y_ Ni2 B2 C and Lu1-_T_b_ YNi2 B2
+C.[13] Because Dy spins in DyNi2 B2 C, which is in the next site of Ho
+in the Periodic Table, have almost the same antiferromagnetic structure
+as the Ho spins in HoNi2 B2 C,[14, 15, 16] almost no change in magnetic
+structure of Ho1-_T_b_y_ Ni2 B2 C below T_(N) will be introduced by
+alloying of Ho and Dy. It was noticed that the effective magnetic field
+at the Ni site will be cancelled out in antiferromagnetically ordered
+state by consideration of crystal symmetry and magnetic structure in
+Ho1-_T_b_ YNi2 B2 C system so that the superconductivity can survive
+under the antiferromagnetically ordered ground state in DyNi2 B2 C.[17]
+On the other hand, for Lu1-_T_b_ YNi2 B2 C, Lu3+ ion seems to act as
+nonmagnetic impurity in Dy-rich compound and thus bring about a
+pair-breaking effect.[13, 17]
+
+It will be of great interest to investigate the superconducting,
+magnetic properties and their interplay in Y1-_T_b_ Ni2 B2 C compounds.
+Because the host compound, YNi2 B2 C, is nonmagnetic, there will be no
+complication of ground state magnetic structure, such as Er1-_T_b_ Ni2
+B2 C. In this paper, we report magnetic and superconducting measurements
+of Y1-_T_b_ Ni2 B2 C single crystals and a systematic study of the
+pair-breaking effects in this system.
+
+## II Experiments
+
+Sizable single crystals of Y1-_x_TbNi2B2C (_x_ = 0.05, 0.1, 0.15, 0.2,
+0.25, 0.3, 0.4, 0.5, 0.6, and 0.8) were grown by flux method using Ni2B
+as a solvent, as described in detail elsewhere.[18] Stoichiometric
+Y1-_x_TbNi2B2C mixtures of high-purity Y (99.99
+
+dc magnetization measurements were performed with a superconducting
+quantum interference device (SQUID) magnetometer (quantum design MPMS).
+The zero-field electrical resistivity was measured by standard
+four-probe method under the temperature and field control of the SQUID,
+using Keithley dc current source and Hewlett Packard nano-voltmeter.
+
+## III Results
+
+Figure 1 shows the temperature-dependent magnetization of Y1-_x_TbNi2B2C
+compounds in an applied field, H = 10 kG, parallel (**H**∥**c**) and
+perpendicular (**H**⊥**c**) to the c axis for x = 0.1 and 0.6. Similarly
+for all x values, including x = 0.1 and 0.6, the anisotropy between
+(**H**∥**c**) and (**H**⊥**c**) becomes pronounced as the temperature
+goes down. The magnetization for (**H**∥**c**) is much larger than for
+(**H**∥**c**) as in TbNi2B2C, indicating that Tb spins lie predominantly
+in the plane normal to c axis. This anisotropy is attributed to the
+crystalline electric field (CEF) effect, which is the electrostatic
+effect due to the surrounding charges.[19] Although both curves at high
+temperatures follow the Curie-Weiss law, _M_/_H_ = _C_/(_T_ - _th_)
+where _th_ is the Weiss temperature, and Curie constant, C =
+_N_m_eff/_3_k_B with N of the number of Tb ion per mole formula unit,
+significant deviations are observed at low temperatures. For x 0.3, a
+slight deviation of _M_/_H_ from the Curie-Weiss law, which is shown in
+the inset of Fig. 1(a) near T = 9 K, is attributed to its
+superconducting diamagnetism. However, for x 0.4, the magnetization
+shows saturation behavior at low temperatures due to the
+antiferromagnetic (AF) ordering of the Tb moments, as in Fig. 1(b).
+
+The inverse-magnetic susceptibility χ⁻¹= (_M_/_H_)-1, which is plotted
+in Fig. 2, is linear at high temperatures but deviates from the linear
+Curie-Weiss behavior at low temperatures. We have found two parameters
+m_(f) and _th_ by fitting the susceptibility data to the Curie-Weiss law
+in high temperature region above 100 K for each x, as shown by the
+fitting lines in Fig. 2. The values of m_(f) for both field
+orientations, which are listed in Table 1, are within  5
+
+Figure 1: Magnetization as a function of temperature for single crystals
+in an applied-magnetic field H = 10 kG for **H**⊥**c** (filled circles)
+and for **H**∥**c** (open circles) for (a) Y03Tb01Ni2B2C, (b)
+Y04Tb04Ni2B2C. Inset: Expanded plot in low-temperature region.
+
+Large anisotropy was also observed in the field-dependent magnetization,
+M(H), for the applied fields of 0 ≤ H≈ 50 kG for **H∥c** and **H⊥c**. A
+magnetic field induced phase transition at T = 2 K for **H⊥c** near
+H = 18 kG, which appears broadly for small concentration of Tb, became
+more pronounced at x = 0.8, as seen in Fig. 3(a). This manifests
+field-induced ferromagnetic transitions from AF state. Moreover, the
+M(H) curve for x = 0.8 shows nonlinear behavior at 2 K and in the
+low-field region as shown in the inset of Fig. 3(a). Considering the
+weak-ferromagnetic state in TbNi₂B₂C, this nonlinearity of M(H) can be
+attributed to the development of weak-ferromagnetic component. The
+extrapolation of the linear magnetization for 5 kG ≤ H≈ 10 kG to the
+zero field gives a spontaneous ferromagnetic component of ≈ 0.16μ_(B) ,
+much smaller than the value of ≈ 0.5μ_(B) in TbNi₂B₂C. The magnetization
+for **H∥c** at low temperatures is saturated at high fields. The
+saturated moments at T = 2 K were 8.27μ_(B), 7.64μ_(B), 8.13μ_(B),
+10.69μ_(B) ,
+
+Figure 3: Magnetization (M) as a function of applied magnetic field for
+a single crystal of Y_(0.2)Tb_(0.8)Ni₂B₂C at several temperatures: (a)
+**H⊥c**, (b) **H∥c**. Inset: Expanded plot in low-field region. Note the
+different M scale for (a) and (b).
+
+Figure 2: Inverse magnetization as a function of temperature for a
+single crystal of Y_(0.4)Tb_(0.6)Ni₂B₂C from the data in Fig. 1(b) for
+**H⊥c** (filled circles) and for **H∥c** (open circles).
+
+plane normal to c axis.[20] The large value of saturated magnetization
+for x = 0.3, together with the large m_(f) in Table 1, is still in
+question and under study. A simple possible explanation is that the Tb³⁺
+ion in x = 0.3 compound, somehow, is influenced by polarization of the
+conduction electron spins due to the exchange interaction between the
+local moments and the conduction electrons. The question is why the
+polarization is unique in x = 0.3? Contrary to Fig. 3(a) for **H⊥c**,
+M(H) in Fig. 3(b) for **H∥c** shows an ordinary paramagnetic behavior.
+It seems that applied fields along a hard axis seldom have an influence
+on magnetic ordering of Tb ions.
+
+In order to identify the magnetic ordering transitions, we have measured
+the temperature-dependent magnetization, _M_(_T_), for H = 100 G
+(**H⊥c**). The AF-ordering temperature T_(N) defined by the maximum
+slope of the magnetization curve near the transition, can be seen from x
+= 0.4 and is obviously increased with Tb doping, as shown in Fig. 4(a).
+Moreover, T_(N) has linear dependence on the de Gennes factor, which is
+consistent with the Ruderman-Kittel-Kasuya-Yosida (RKKY) indirect
+exchange model for AF transition. The de Gennes factor for the compounds
+studied in this paper is weighted by Tb concentration. The T_(N) is
+suppressed gradually as the external field is increased up to 10 kG, as
+plotted in Fig. 4(b). For x = 0.4, T_(N) and T_(c) are so close that it
+is difficult to distinguish them in magnetization data near T = 5.5 K.
+
+In addition, anomalous increasing behavior in _M_(_T_) at low
+temperatures below T_(N) is observed for x >= 0.4 as seen in Fig. 4(a)
+and enhanced with increasing Tb concentration. Together with the data of
+TbNi₂B₂C in Refs. [8-10] and weak-ferromagnetic component found in
+_M_(_H_) curve in Fig. 3, the onset of the increase in _M_(_T_) at lower
+temperatures is regarded as indication of development of
+weak-ferromagnetic component, defined as T_(F).
+
+To investigate the superconductivity of these materials, low field
+magnetization measurement was performed on each sample for **H∥c**,
+where the superconductivity is well observed with minimum obstruction by
+the magnetic contributions of Tb³⁺ ions. In Fig. 5, for the case of x =
+0.1, zero-field-cooled (ZFC) magnetization data, remarkably lower than
+field-cooled (FC) data, shows distinct diamagnetic magnetization at
+temperatures below 13.4 K. T_(c) was determined by the onset of the
+diamagnetic drop of ZFC magnetization. In FC magnetization data, a small
+bump around T_(c) in Fig. 5 is observed, which seems to arise from spin
+alignment by the external field penetrating into the imperfect
+superconductor during the superconducting transition. Moreover, an
+anomalous paramagnetic Meissner state was occasionally detected in FC
+magnetization measurement for some cases of x, which can be attributed
+to significant field inhomogeneity at low-magnetic field in our
+measurement system. In ZFC magnetization data of Fig. 5, the volume
+fraction for magnetic shielding is more than 100
+
+The relative in-plane electrical resistivity as a function of
+temperature in the zero-applied field is plotted in Fig. 6. It shows
+that a sharp superconducting transition above T = 2 K exists up to x =
+0.4 and vanishes for x >= 0.5. The
+
+Figure 4: (a) Normal-state magnetization as a function of temperature in
+applied field H = 100 G (**H∥c**) for single crystals of
+Y_(1 − x)Tb_(x)Ni₂B₂C. (b) Neel temperature T_(N) versus de Gennes
+factor, D = (_g__J_−1)2_J_(_J_−1), determined from the data in (a).
+
+Figure 5: Superconducting volume magnetization as a function of
+temperature for a single crystal of Y_(0.9)Tb_(0.1)Ni₂B₂C in an
+applied-magnetic field, H = 10 G (**H∥c**). Both field-cooled (FC) and
+zero-field-cooled (ZFC) data are shown.
+
+was determined by an intersection of the maximum slope of the transition
+with normal-state resistivity near the sudden drop. The T_(c) rapidly
+decreases with increasing Tb content, which is similar to the results
+from the low-field magnetization data. In high-temperature range,
+normal-state resistivity shows linear temperature dependence as that of
+typical metal. High residual resistivity ratios, ρ(300 K)/ρ(_T_), in
+Table II, indicate that this sample is of good quality, as in TbNi₂B₂C
+of ρ(400 K)/ρ (2K) = 19. We could not clearly distinguish any resistance
+loss in terms of magnetic scattering near AF transition.
+
+The transition temperatures, T_(c), T_(N), and T_(WF) as a function of
+the de Gennes factor are all together exhibited in Fig. 7. The de Gennes
+factor for the Y_(1 − x)Tb_(x)Ni₂B₂C compounds is scaled with Tb
+concentration. As Tb concentration x is increased, T_(c) is reduced and
+disappears near x = 0.4, while T_(N) is linearly increased above x = 0.4
+and T_(WF) is gradually enhanced above x = 0.4 at lower temperatures.
+This diagram is quite different from the polycrystalline data of
+Bitterlich _et al._[21] The transition temperatures of polycrystals in
+Ref. [21] are a little bit lower and less clear than those of single
+crystals in this paper. While the T_(c) variation shows similar behavior
+for both cases, significant difference between the two cases is found in
+the magnetic transition temperatures. The T_(N) and T_(WF) in this work
+are found for wider range of Tb concentration than those in Ref. [21],
+resulting in the narrow range of overlapping of magnetism and
+superconductivity at x = 0.4.
+
+## IV Discussion
+
+It was shown that the large anisotropy in RNi₂B₂C compounds mainly is
+due to the CEF splitting of the ground multiplets of R ion.[19] In the
+RNi₂B₂C compounds, the crystal-field Hamiltonian can be expressed as
+
+H_(CEF) = B₂⁰O₂⁰ + B₄⁰O₄⁰ + B₄⁴O₄⁴ + B₆⁰O₆⁰ + B₆⁴O₆⁴,
+
+where the B_(n)^(m) are CEF parameters to be determined experimentally
+and the O_(n)^(m) are Stevens equivalent operators. Among the CEF
+parameters, the first term B₂⁰ is dominant and the initial estimation of
+the value of B₂⁰ is important in analyzing the anisotropic M(T) in a CEF
+scheme. Wang and Boutron showed that only the B₂⁰ term among the terms
+in the CEF Hamiltonian contributes to the high-T Weiss temperatures in
+single crystals with R.[22]
+
+  ------ -------------------------------------
+    x         Residual resistivity ratio
+   0.05    ρ_(ab)(300 K)/ρ_(ab)(16 K) = 11.6
+   0.1     ρ_(ab)(300 K)/ρ_(ab)(14 K) = 9.15
+   0.15   ρ_(ab)(300 K)/ρ_(ab)(13.5 K) = 8.94
+   0.2     ρ_(ab)(300 K)/ρ_(ab)(13 K) = 8.94
+   0.25    ρ_(ab)(300 K)/ρ_(ab)(12 K) = 6.64
+   0.3     ρ_(ab)(300 K)/ρ_(ab)(12 K) = 7.8
+  ------ -------------------------------------
+
+Table 2: Residual resistivity ratio for crystals of
+Y_(1 − x)Tb_(x)Ni₂B₂C. The resistivity measurement is carried out in
+zero-applied magnetic field in plane normal to c axis.
+
+Figure 6: Normalized in-plane electrical resistivity as a function of
+temperature in zero-applied magnetic field for single crystals of
+Y_(1 − x)Tb_(x)Ni₂B₂C.
+
+Figure 7: Transition temperatures, T_(c), T_(N), and T_(WF), as a
+function of de Gennes factor, D = (g_(J) − 1)²J(J + 1), from
+magnetization and resistivity measurements for single crystals of
+Y_(1 − x)Tb_(x)Ni₂B₂C.
+
+From the expansion of the susceptibility as a power series in 1/_T_, the
+value of B22 can be calculated from the difference between _th_| and
+_th_| using the relation
+
+$$B_{2}^{0} = \frac{10}{3(2J - 1)(2J + 3)}(\theta_{\perp} - \theta_{\parallel}),$$
+
+where J is the total angular momentum of the isolated ion. The above
+equation is derived based on the assumption of uncoupled ions, i.e., no
+exchange interaction between rare-earth ions. In addition, it was shown
+that the anisotropic exchange interaction between Ho3+ ions in HoNi2B2C
+is in part responsible to the observed magnetic anisotropy.19 It is
+plausible for us to use the value of (_th_| - _th_|) for dilute Tb
+concentration compounds to evaluate the B22 value because the exchange
+interaction is expected to be negligible in Y1-_x_TbNi2B2C (_x_ <= 1)
+compared to that in Y1-_x_TbNi2B2C (_x_ <= 1) due to the dilute
+concentration of Tb3+ ions in the former compounds, whereas the CEF
+effects should be nearly same in the two crystals. By using the
+Weiss-temperature in Y1-_x_TbNi2B2C (_x_ = 0.05,0.1), B22 is found to be
+1.43 K and 1.21 K, which is smaller than the B22=1.54 K for TbNi2B2C.
+Therefore, it can be conjectured that the anisotropic interatomic
+exchange interaction acts to cause larger difference of
+Weiss-temperatures between **H**∥**c** and **H**⊥**c**.
+
+The superconducting and magnetic transition temperatures are together
+plotted versus effective de Gennes factor of Y1-_x_Tb_xNi2B2C in Fig. 7.
+As can be seen, the strong correlation exists between each transition
+temperature and Y/Tb concentration ratio and between superconducting
+transition and two magnetic transitions. For low concentration of Tb3+
+(_x_ <= 0.25), linear dependence of _T_c in terms of de Gennes value is
+observed as can be expected by Abrikosov-Gor’Kov (AG) theory that
+describes the magnetic impurity effect on the superconductivity in terms
+of the exchange interaction between localized magnetic electrons and
+conduction electrons forming superconducting pair below _T_c . The
+initial reduction of _T_c due to magnetic pair breaking is given as
+
+$$\frac{T_{c}}{T_{c0}} = 1 - \frac{c}{2}\frac{N(0)I^{2}}{8k_{B}T_{c0}}\psi^{\prime}\left\{ \frac{1}{2} \right\}D,$$
+
+where c is the concentration of the magnetic impurity, _ps_’(1 ) = 4.96
+is a derivative of digamma function evaluated at 1/2, _N_(0) is the
+density of states at the Fermi level and I is the exchange constant
+between the local and conduction electron spins. The _N_(0) of the
+_R_Ni2B2C compounds should be very similar to the _N_(0) of LuNi2B2C,
+differing only by the filling of the 4f levels which was shown not to
+contribute to the conduction band.5,6 The density of states at the Fermi
+level can be estimated to be 7/eV per formula unit from the measured
+g 19 mJ/mol K2 for YNi2B2C and for LuNi2B2C that is larger than the
+value of  4.8/eV per formula unit from electronic band calculation.
+Using the approximate initial slope of reduction of _T_c with de Gennes
+factor in Fig. 7 for Y1-_x_Tb_xNi2B2C, the exchange constant is found to
+be I  11.5 meV.
+
+The de Gennes scaling of all _T_c , _T_N, and _T_WF indicate that the
+electronic and magnetic properties in Y1-_x_TbNi2B2C compound are
+closely correlated by the same origin of the exchange interactions
+between localized magnetic moments and itinerant conduction electrons.
+Of great interest is the behavior of each transition at x = 0.4 in
+Y1-_x_Tb_xNi2B2C. Sudden disappearance of superconductivity above x >
+0.4 seems to have close correlation with appearance of both AF ordering
+and weak-ferromagnetic component. For the single crystal of
+Y0.6Tb0.4Ni2B2C, all of three ground states, superconductivity, AF
+state, and weak ferromagnetic component are observed simultaneously as
+temperature is lowering below _T_c . Because of the coexistence of the
+three ground states, the sudden suppression of superconductivity near x
+= 0.4 seems to be closely related with appearance of magnetic state.
+
+Contrary to AG scheme for the dilute Tb3+ concentration, it is unlikely
+that the exchange pair breaking effect can be considered as a main
+contribution to pair breaker, i.e., Tb concentration of x = 0.4 is
+enough to give de Gennes factor above the critical value in AG universal
+curve. Recently critical de Gennes value of Er1-_x_TbNi2B2C compounds is
+estimated to be around 5.2, which is larger than the de Gennes factor
+for Y0.6Tb0.4Ni2B2C. However, the estimation was made under the
+assumption of different exchange integral depending upon the rare-earth
+element. Our estimation of exchange integral of 11.5 meV, which is 0.75
+eV A3, is smaller than the one from the Ref. [23], I = 0.89 eV A3, so
+that the critical de Gennes factor even should be larger than their
+estimation. It was also shown that the confinement of magnetic moment in
+the plane perpendicular to the c axis due to CEF effect, which is shown
+in Figs. 1 and 2, makes the exchange interaction less effective as a
+pair breaker.
+
+Another explanation of disappearance of superconductivity is related
+with the emergence of AF ordering. The phenomenological theory is
+recently developed to explain the _T_c variation in terms of de Gennes
+factor in Ho1-_x_Dy_xNi2B2C, utilizing the magnetic structure in AF
+state.17 In the case of pure TbNi2B2C, below _T_N, three of the Tb
+moments that are the nearest neighbors of Ni atom align in the [100]
+direction and one of them is in opposite orientation. A net magnetic
+field at the Ni site, which is located at the center of tetrahedron,
+composed of the nearest rare-earth ions and mainly contributes to the
+superconductivity, is not completely cancelled by the AF ordering. There
+is a possibility that the pair-breaking below _T_N is brought about by
+the remnant field at the Ni site. Hence, this model can explain the
+sudden quench of superconductivity near x = 0.4 in Y1-_x_Tb_xNi2B2C. In
+addition to the AF ordering, the weak ferromagnetic component also
+appears at the same composition. Although the weak ferromagnetic
+component seems not to directly affect the pair breaking in
+Er1-_x_Tb_xNi2B2C,23 it should not be ruled out the detrimental effect
+of weak ferromagnetic component to the superconductivity in
+Y1-_x_Tb_xNi2B2C.
+
+## V Conclusion
+
+Full series of Y1-_x_Tb_xNi2B2C crystals represents variety of
+magnetisms and superconductivities, which were seen in TbNi₂B₂C and
+YNi₂B₂C and the interplay between them. The superconductivity,
+AF-ordered state and weak-ferromagnetic state are observed clearly
+depending upon the Y/Tb concentration ratio. The three transition
+temperatures, T_(c) , T_(N), and T_(WF), are all scaled well with de
+Gennes factor, indicating that the three phenomena are closely
+correlated. Because there is an overlapping region in which sudden
+quench of superconductivity accompanies the emergence of the magnetic
+states, the superconducting pair breaking seems to be more complicated
+than the AG exchange interaction at x 0.4. Not only exchange interaction
+from AG theory but also interaction with magnetism of AF state and
+weak-ferromagnetic component should be considered altogether for the
+detailed model for the pair-breaking in Y_(1 − x)Tb_(x)Ni₂B₂C.
+
+## References
+
+* [1] R. Nagarajan, C. Mazumdar, Z. Hossain, S.K. Dhar, K.V.
+Gopalakrishnan, L.C. Gupta, C. Godart, B.D. Padalia, and R.
+Vijayaraghavan, Phys. Rev. Lett. **72**, 724 (1994). * [2] R.J. Cava, H.
+Tagaki, H.W. Zandbergen, J.J. Krajewski, W.F. Peck, Jr., T. Siegrist, B.
+Batlogg, R.B. van Dover, R.J. Felder, K. Mizuahhi, J.O. Lee, H. Eisaki,
+and S. Uchida, Nature (London) **367**, 252 (1994). * [3] H. Eisaki, H.
+Tagaki, R.J. Cava, B. Batlogg, J.J. Krajewski, W.F. Peck, Jr., K.
+Mizuahshi, J.O. Lee, and S. Uchida, Phys. Rev. B **50**, 647 (1994). *
+[4] T. Sigrist, H.W. Zandbergen, R.J. Cava, J.J. Krajewski, and W.F.
+Peck, Jr., Nature (London) **367**, 254 (1994). * [5] Warren E. Pickett
+and David J. Singh, Phys. Rev. Lett. **72**, 274 (1994). * [6] L.F.
+Mattheiss, Phys. Rev. B **49**, 13 279 (1994). * [7] C.Y. Tomy, L.A.
+Afaliz, M.R. Lees, J.M. Martin, and D. Mck. Paul, Phys. Rev. B **53**,
+307 (1996). * [8] B.K. Cho, P.C. Canfield, and D.C. Johnston, Phys. Rev.
+B **53**, 8499 (1996). * [9] P. Dervenagas, J. Zarestky, C. Stassis,
+A.I. Goldman, P.C. Canfield, and B.K. Cho, Phys. Rev. B **53**, 8506
+(1996). * [10] D.R. Sanchez, M.A.C. de Melo, M.B. Fontes, S.L. Bud’ko,
+E. Baggio-Saitovitch, M. Hillberg, W. Wagener, H.-H. Klau, G.H. Walf,
+and F.J. Litterst, Phys. Rev. B **57**, 10 268 (1998). * [11] J.W. Lynn,
+S. Skanthakumar, Q. Huang, S.K. Sinha, Z. Hossain, L.C. Gupta, R.
+Nagarajan, and C. Godart, Phys. Rev. B **55**, 6584 (1997). * [12] B.K.
+Cho, P.C. Canfield, and D.C. Johnston, Phys. Rev. B **52**, R3 844
+(1995). * [13] B.K. Cho, P.C. Canfield, and D.C. Johnston, Phys. Rev.
+Lett. **77**, 163 (1996). * [14] T.E. Griepeit, J.W. Lynn, Q. Huang, A.
+Santoro, R.J. Cava, J.J. Krajewski, and W.F. Peck, Jr., Phys. Rev. Lett.
+**73**, 2756 (1994). * [15] Q. Huang, A. Santoro, T.E. Grigereit, J.W.
+Lynn, R.J. Cava, J.J. Krajewski, and W.F. Peck, Jr., Phys. Rev. B
+**51**, 3701 (1995). * [16] P. Dervenagas, J. Zarestky, C. Stassis, A.I.
+Goldman, P.C. Canfield, and B.K. Cho, Physica B **212**, 1 (1995). *
+[17] Hyeonjin Doh, Manfred Sigrist, B.K. Cho, and Sung-Ik Lee, Phys.
+Rev. Lett. **83**, 5350 (1999). * [18] B.K. Cho, P.C. Canfield, L.L.
+Miller, D.C. Johnston, W.P. Beyermann, and A. Yatskar, Phys. Rev. B
+**52**, 3684 (1995). * [19] B.K. Cho, B.N. Harmon, D.C. Johnston, and
+P.C. Canfield, Phys. Rev. B **53**, 2217 (1996). * [20] P.C. Canfield,
+S.L. Bud’ko, B.K. Cho, A. Lacerda, D. Farrell, E. Johnston-Halperin,
+V.A. Kalatsky, and V.L. Pokrovsky, Phys. Rev. B **55**, 1 (1997). * [21]
+H. Bitterlich, W. Loser, G. Behr, K. Nenkov, G. Fuchs, A. Belger, and L.
+Schultz, Physica C **308**, 243 (1998). * [22] Y.L. Wang, Phys. Lett.
+**35A**, 383 (1971); Pierre Boutron, Phys. Rev. B **7**, 3226 (1973). *
+[23] Z.Q. Peng, K. Krug, and K. Winzer, Physica C **317-318**, 441
+(1999).

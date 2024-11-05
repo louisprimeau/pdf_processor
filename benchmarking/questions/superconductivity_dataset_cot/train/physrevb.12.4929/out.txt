@@ -1,0 +1,551 @@
+
+
+# Physical Review B Volume 12, Number 11 December 1975
+
+Low-temperature heat capacity of \alpha-uranium and its relation to the pressure dependence of T_{c}
+
+S. D. Bader* and Norman E. Phillips
+
+ Inorganic Materials Research Division of the Lawrence Berkeley Laboratory, and Department of Chemistry, University of California, Berkeley, California 94720
+
+E. S. Fisher
+
+Argonne National Laboratory, Argonne, Illinois 60439
+
+5 May 1975
+
+###### Abstract
+
+The heat capacities of five samples of \alpha-uranium, including one single crystal, have been measured between approximately 0.1 and 2 K, at zero pressure. The four polycrystalline samples showed broad bulk superconducting transitions. The single crystal, for which susceptibility measurements showed a transition near 0.3 K, was not completely superconducting at the lowest temperature of our measurements, and we estimate T_{c}\leq 0.1 K. The shapes of the heat-capacity anomalies associated with the transitions to the superconducting state were those of broadened BCS transitions, thus showing that local moments and pair-breaking mechanisms are not involved in limiting the values of T_{c}. The values of \gamma, the coefficient of the electronic heat capacity, were significantly higher for the polycrystalline samples than for the single crystal, and there is evidence from other work of a similar trend in the lattice heat capacity. It is suggested that these trends are related to the pressure dependence of the same parameters, and that these pressure dependences and that of T_{c} are all produced by an unusual and strong pressure dependence of the phonon spectrum.
+
+## I Introduction
+
+Magnetic measurements have consistently shown the occurrence of superconductivity in \alpha-uranium at zero pressure, with T_{e} ranging from about 0.2 K for single crystals [1, 2] to above 1 K in some high-purity polycrystals [3]. Calorimetric studies have so far failed to substantiate the existence of superconductivity at zero pressure, but at 10 kbar they are in agreement with magnetic measurements in showing that \alpha-uranium is a bulk superconductor with a T_{e} of approximately 2 K [4]. Thus, \alpha-uranium is one of the most strongly pressure-enhanced superconductors known, although the precise degree of the enhancement is uncertain because of the the uncertainty in the zero-pressure T_{e}. The heat-capacity measurements reported here were undertaken to clarify the nature of superconductivity in \alpha-uranium at zero pressure.
+
+In addition to the strong pressure enhancement of T_{e}, superconducting \alpha-uranium is unusual in showing a large _positive_ isotope effect. Measurements at 11 kbar (where T_{e} is insensitive to pressure) show that T_{e}\proptoM^{2}, where M is the atomic mass [5]. This is by far the largest observed deviation from the BCS [6] isotope effect (T_{e}\proptoM^{-1/2}).
+
+In the normal state, \alpha-uranium shows a number of low-temperature transitions. At 43 K there is a minimum in the atomic volume [7] and anomalies in the elastic constants [8, 9], but x-ray and neutron-diffraction studies [10, 11] show that the high-temperature orthorhombic symmetry of the crystal persists to at least 4 K. Below 43 K the a and b lattice parameters increase with decreasing temperature, the increase in the a parameter being more rapid. The c parameter continues to decrease with decreasing temperature, and more rapidly than above 43 K, but the net volume thermal expansion is negative. The elastic moduli of single crystals also show anomalies at 23 and 37 K. [9] Thermal-expansion measurements [12] on single crystals have shown that there are discontinuities in the lattice parameters and in the volume at these temperatures. (The effects are too small to have been observed in the x-ray measurements.) At 43 K the lattice parameters are continuous, but there are discontinuities in the temperature derivatives [13]. Heat-capacity measurements on a pseudo-single-crystal (15 deg of mismatch across the 5 mm diam of the specimen) have shown sharp anomalies that were assumed to be latent heats at 23 and 37 K, and a broad anomaly extending from 28-45 K [13]. The 23- and 37-K anomalies showed considerable hysteresis, but the broad anomaly was reversible [13]. Thus, there is clear evidence for first-order transitions at 23 and 37 K and a second- or other higher-order transition at 43 K. The intervening phases have been designated the \alpha_{3}, \alpha_{2}, and \alpha_{1} phases, where subscripts 3, 2, and 1 refer to the zero-pressure equilibrium phases in the intervals below 23 K, 23-37 K, and 37-43 K, respectively.
+
+The pressure derivatives of the three equilibrium temperatures are known, and to within the accuracy of the various data they have the same value, dT/dP= - 3.4 K/kbar. For the 23- and 37-K transitions this value is based on the measured volume changes [12] and latent heats [13] and application of the Clapeyron equation. For the 43-K transition the pressure dependence of the anomalies in the elastic moduli has been measured, giving dT/dP directly.[14] The value is also consistent with the very approximate values of the discontinuities in heat capacity,[13] compressibility,[9] and thermal expansion,[12] and application of the Ehrenfest relations. It has been suggested that regions of different slope in the T_{e}-vs-P curve for single crystals are associated with the pressure ranges of stability of the various phases at T <= 2 K.[15]
+
+No evidence has been reported for the 23- and 37-K transitions in polycrystals. In particular, in the heat-capacity study[13] in which the 23- and 37-K latent heats were discovered in a pseudo-single-crystal, no corresponding features were observed for either of the two polycrystalline samples examined. It thus appears that the transitions to the \alpha_{\text{z}} and \alpha_{\text{s}} phases are either suppressed by internal strains in polycrystalline samples or so spread out that they escape detection. However, whether a polycrystalline sample transforms to the \alpha_{\text{s}} phase or not, its 0-K volume must be similar to that of the \alpha_{\text{s}} phase because dila-tometric volume measurements on polycrystals and x-ray volume measurements[10] on single crystals give similar results below 43 K. Thermal-ex-pansion measurements on both single-crystal[16] and polycrystalline samples[17] have shown hysteresis effects in the lattice parameters and volume, and that even the 43-K transition can be totally suppressed in polycrystals by rapid quenching.
+
+The magnetic properties of \alpha-uranium are of interest in connection with the suggestion[1] that both the volume minimum and the pressure dependence of T_{e} could be associated with the appearance of localized moments based on the 5f states. Neutron-diffraction measurements show no indication of such moments,[11] but the entropy associated with the 43-K transition corresponds to only 0.06Rln2; it has been proposed[14] that the small moments implied by this value could have escaped detection, particularly if the ordering were of the suggested[18] spin-density-wave type. Magnetic-susceptibility measurements[19] on single crystals showed a large anisotropic paramagnetic component that decreased by about 5% between room temperature and 4 K. An extension of these measurements[12] has shown discontinuities in the anisotropy near 23 and 37 K and a broad continuous change in the 28-41-K region.
+
+## II Samples and experimental technique
+
+Table 1 contains a description of the five samples that were studied, the magnetic fields and temperature intervals of the heat-capacity measurements, and the temperature range of the superconducting transitions as determined magnetically. Sample Ia is the purest uranium currently available. It was electron-beam zone refined and con
+
+\begin{table}
+\begin{tabular}{c c c c c c c c}  & Heat-capacity & & & & & Temperature range of magnetic transition (K) \\ Sample & H (Oe) & T (K) & ^{235}U (at. \%) & ^{234}U (at. \%) & Weight (g) & Physical form & 0.3–0.4 \\  & 50 & 0.16–1.1 & & & & & & polycrystalline \\  & 100 & 0.15–1.0 & & & & & & \\  & & & & & & & \\  & & & & & & & \\  & & & & & & & \\  & & & & & & & \\ \end{tabular}
+\end{table}
+Table 1: Description of samples and measurements.
+
+  tained less than 50-ppm impurities by weight. Its zero-pressure superconducting transition has been extensively investigated magnetically.[3] Sample _la_ became sample _lb_ after swaging. Polarized-light micrographs were used to characterize the grain structure of these samples. Samples _la_ and _lb_ are two pieces cut from a large strain-annealed polycrystal designated U10 in the literature, and studied extensively at low temperatures and as a function of pressure, both magnetically [15, 16] and calorimetrically.[4, 13] Sample III is a single crystal [20] that was prepared by the grain-coarsening technique. The superconducting transitions of similar single crystals have been studied magnetically at zero pressure and up to 8 kbar.[1, 2]
+
+All three of the samples are partially depleted in 234U and 235U. Reducing the 234U content reduces the self-heating since the low natural abundance of 234U accounts for over half of the total self-heating in natural uranium. Reducing the 235U content reduces the nuclear quadrupole heat capacity.
+
+For all samples except sample III, the magnetically determined superconducting transition temperatures were known from other work, as reported in Table 1. For sample III the transition was studied using a 23-Hz mutual inductance bridge, and the results are shown in Fig. 1. The temperature dependence of the signal suggests a superconducting transition extending from 0.45 to 0.2 K. To within an uncertainty of approximately 25% associated with size and shape corrections, the transition signal at 0.2 K corresponds to complete flux exclusion.
+
+Heat capacities were measured between 0.1 and 2 K in an adiabatic-demagnetization cryostat by the heat-pulse method using a previously calibrated germanium thermometer. Thermal contact between the chrome-alum cooling salt and the calorimeter was made with a lead heat switch in parallel with a copper shunt. The copper shunt was designed to conduct away the heat generated within the sample by \alpha decay when the sample temperature was between 0.2 and 0.3 K. The calorimeter was always on warming drifts at lower temperatures, and on cooling drifts at higher temperatures. When the cooling drifts became too steep, the temperature of the cooling salt was increased to minimize the heat flow from the calorimeter.
+
+The calorimeter consisted of three separate parts. A heavy copper wire was soldered at one end to the lead switch and attached at the other to the sample. The thermometer was attached to another section of the sample, with its four electrical leads thermally anchored directly to the sample. A 4-k\Omega, platinum-8%-tungsten heater was noninductively wrapped around a copper post which was attached, along with the heater elec-trical leads, directly to a third section of the sample. All attachments were made with GE7031 varnish and, when necessary, with small copper wires. No attempt was made to correct for the varnish heat capacity, but it was assumed to be proportional to T^{3}. The T^{3} term in the sample heat capacity was therefore not determined. The empty calorimeter was calibrated in a separate run and its heat capacity assumed to be magnetic field independent. The calorimeter was generally a small fraction of the total heat capacity measured, except in the 1.8-g single-crystal experiments, for which it was approximately 40% of the total heat capacity between 0.25 and 1 K. Since the thermometer was attached directly to the sample to avoid locating it along a temperature gradient caused by self-heating effects, it experienced the full magnetic field applied to the sample. It was, however, checked in an independent experiment that showed that, for the present purposes, the thermometer retained its zero-field calibration in the low fields used in these experiments. This was accomplished by monitoring the slow warming drift of the calorimeter and cooling salt system with the lead switch in the normal, or closed, position, as magnetic fields were alternately turned on and off. Below 700 Oe there was no significant affect. Since all experiments were conducted at or below 500 Oe, the zero-field calibration could be used confidently.
+
+## III Results
+
+After correcting for the heat capacity of the calorimeter, the remainder of the measured heat capacity is the sum of three contributions:
+
+\[C = C_{N} + C_{E} + BT^{3}\ .\]
+
+The BT^{3} term, which includes the lattice heat
+
+Figure 1: Superconducting transition of sample III as detected by 23–Hz mutual inductance measurements.
+
+  capacity of the sample and the heat capacity of the varnish used to make thermal contact, is typically 3% or 4% of the total at 1 K. The nuclear heat capacity C_{N} is associated entirely with the quadrupole moment of the 235U nuclei, and, in the temperature range of our measurements, has the form C_{N} = _fAT_-2, where f is the mole fraction of 235U and A is a constant determined by the quadrupole-coupling constant for 235U in a-uranium. The electronic heat capacity C_{N}, is the only term that depends on magnetic field (for the fields used in these measurements). It takes the form C_{r} = _gT_ in the normal state, and a more complicated form C_{r} in the superconducting state.
+
+The analysis of the experimental data to separate the three terms in Eq. (1) was based on normal-state data. Values of A were obtained from the 0-K intercepts of plots of _CT_2 vs T3 for data taken in fields high enough to quench superconductivity. This procedure determined C_{N}, and g and B were then obtained by fitting C - C_{N} to _gT_+_BT_3. Finally, for zero field or fields in which superconductivity was incompletely quenched, C_{r} was calculated as C_{r} = C - C_{N} - _BT_3.
+
+### Nuclear heat capacity
+
+The heat capacities below approximately 0.27 K for sample II_a_ in 500 Oe and for sample III in 200 Oe are plotted in Fig. 2 as _CT_2 vs T3. For these two samples and for sample II_b_, for which similar data were obtained, the values of A as obtained from the intercepts are given in Table II. The applied fields did not completely suppress superconductivity in samples Ia and Ib, and for these samples C_{N} was calculated from the average value of A for the other three samples, 10.8 mJ K/(mole 235U). (The value of f was known more accurately for sample III, but because of its small size, the precision of the data was lower, so all three values of A were given equal weight.)
+
+The average value of A agrees with the value 10.9 +- 0.7 mJ K/(mole 235U) obtained calorimetrically by Dempesy _et al._21 below 0.75 K for pure 235U. The 4.2-K Mossbauer spectrum22 of the 238U 44.7-keV transition from the first excited state (2+) to the ground state (0+) in a-uranium yields a quadrupole coupling constant e^{2}qQ of - 2750 +- 300 MHz. No magnetic hyperfine fields greater than 300 kOe were detected. Since the electric field gradients experienced by 235U and 238U in a-uranium are the same, this value of e^{2}qQ and the A value determined calorimetrically can be used (assuming magnetic-dipole and impurity contributions are unimportant) to calculate the ratio Q_{235}/Q_{238} of the nuclear electric quadrupole moment of the 235U ground state to that of the 238U first-excited state. The value obtained is Q_{235}/Q_{238} = 1.6.
+
+### Normal-state electronic heat capacity
+
+The data for sample Ia above 0.6 K and in 100 Oe, and for sample Ib above 0.7 K and in 500 Oe, were fit to C - C_{N} = _gT_+_BT_3 by a least-squares procedure to obtain g and B. For the other three samples, for which superconductivity was apparently completely quenched in the highest fields, the values of g and B were based on all data taken in the highest fields. The values of g are given in Table II, and the data are displayed as _C__B_/_T_ vs T in Figs. 3-6.
+
+The values of g for different samples differ by
+
+\begin{table}
+\begin{tabular}{c c c c c c} Sample & A (mJ K/mole 235U) & _γ_ (mJ/K2 mole) & \widetilde{T}_{e} (K) & _δT_{e} (K) & X_{S} \\ Ia & ... & 9.59 & 0.27 & 0.05 & 1.0 \\ Ib & ... & 9.86 & 0.20 & 0.35 & 0.7 \\ IIa & 10.3 & 9.82 & 0.27 & 0.20 & 0.9 \\ IIb & 10.7 & 9.90 & 0.27 & 0.20 & 0.9 \\ III & 11.4 & 9.14 & *** & *** \\ \end{tabular}
+\end{table}
+Table 2: Calorimetrically determined properties of α-uranium.
+
+Figure 2: Heat capacities of sample III in 200 Oe and of sample IIa in 500 Oe, plotted as _CT_2 vs T3. Straight lines represent the least–squares values of the nuclear and electronic heat–capacity contributions.
+
+  amounts that are well outside the expected limits of error. The single crystal, sample III, has the smallest \gamma value, the large-grained sample, sample I_a_, has an intermediate \gamma value, and the three smaller-grained samples exhibit larger \gamma values of similar magnitude. The \gamma value of the single crystal coincides with the value 9.14\pm 0.20 mJ/K^{2} mole recently determined for a sample containing small-angle grain boundaries.[13] The \gamma value of 9.86 mJ/K^{2} mole for sample I_b_, the unannealed, swaged sample agrees with the value 9.88\pm 0.05 mJ/K^{2} mole determined for another swaged sample that had been annealed in the \alpha phase and hence was uniformly small grained.[23] The \gamma values of 9.82 and 9.90 mJ/K^{2} mole found for samples II_a_ and II_b_, respectively, the pieces of U10, agree with the recently determined \gamma = 10.00\pm 0.37 mJ/K^{2} mole for another piece[13] of U10, but are somewhat below the value 10.3 obtained for the entire 74-g U10 sample.[24] The earlier measurements[24] on the whole U10 sample differed conspicuously from those reported here in showing a field-independent anomaly below 0.7 K. There is a remote possibility that the anomaly was real, but that its appearance depends critically on the thermal history of the sample. This explanation seems unlikely, however, because the procedures followed in cooling were similar in both sets of measurements. We now believe that the anomaly was probably a consequence of some systematic error in the earlier measurements, even though we have been unable to devise any very plausible suggestion as to its origin.[25] The (4-5)% difference in \gamma value between samples II_a_ and II_b_ and the entire U10 sample probably arises from a combination of the \gamma value.
+
+Figure 4: Electronic heat capacity of sample Ib. Horizontal line represents the \gamma value. Curve represents a BCS heat-capacity anomaly broadened by a Gaussian distribution of transition temperatures, with \overline{T}_{\sigma}=0.2 K and 6\overline{T}_{\sigma}=0.35 K.
+
+Figure 5: Electronic heat capacities of samples IIa and IIb. Horizontal line represents the \gamma value of Sample IIa. Curve represents a BCS heat-capacity anomaly broadened by a Gaussian distribution of transition temperatures, with \overline{T}_{\sigma}=0.27 K and \delta T_{\sigma}=0.2 K.
+
+Figure 3: Electronic heat capacity of sample Ia. Horizontal line represents the \gamma value. Curve represents a BCS heat-capacity anomaly broadened by a Gaussian distribution of transition temperatures, with \overline{T}_{\sigma}=0.27 K and 6\overline{T}_{\sigma}=0.05 K.
+
+  of effects: inhomogeneities in the U10 sample, small changes in the laboratory temperature scale in the intervening time, and the effect of the apparent anomaly in the earlier data on the analysis to obtain \gamma.
+
+### Superconducting-state electronic heat capacity
+
+The zero-field heat capacities (and, in some cases, intermediate-field data) are also included in Figs. 3-6. For each sample there is some indication of a broadened transition to the superconducting state. This is most obvious for sample Ia, the large-grained polycrystal. The transitions in samples II_a_ and II_b_, and particularly that in sample Ib, are considerably more smeared out. For sample III, the single crystal, the evidence for a transition is less convincing, but the zero-field heat capacity is systematically higher than that in 200 Oe at all temperatures below approximately 0.25 K. A number of factors conspired to prevent a more complete study of the transition for this sample: The transition temperature is lower than for the other samples, and at the same time the accuracy obtained in the low-temperature _Cg_ data was more severely limited by smaller sample size, higher _Cg_, and higher self-heating.
+
+There are three published _a_-uranium heat capacity studies that extend below 1 K. One of these terminates at 0.65 K, and it is likely that superconducting temperatures were not reached.26 In another study, from approximately 0.4-0.75 K, it was impossible to tell whether or not the pure 235U was superconducting, since _Cg_ thoroughly dominated the heat capacity.21 In this same study, natural uranium (0.7% 235U) was examined between 0.17 and 0.75 K, and it was concluded that superconductivity was absent. However, the coefficient of the _T_-2 term in the heat capacity was twice that expected from the 235U content of the sample, and the value of \gamma, 12.1 +- 0.3 mJ/mole K2, was very high. These facts would suggest that the high-temperature side of a broadened superconducting transition had been mistakenly attributed to _Cg_, and _Cg_. The fact remains, however, that the heat capacity was the same in zero field and in 600 Oe in this experiment. In this respect, these results are strikingly similar to those reported in Ref. 24 (see discussion in Sec. III.2 and Ref. 25), but there are the additional complications that a continuous heating method was used because of the large self-heating, and the temperature scale was based on an extrapolated resistance-temperature relation for a carbon thermometer.
+
+The superconducting transitions shown in Figs. 3-5 are appreciably broadened, and it is not clear that they would be complete even at 0 K. To provide a basis for estimating the fraction of the sample that participates in the transition to the superconducting state, we have compared the experimental zero-field heat capacities with a "smeared out" BCS6 transition. With the assumption that strain produces a distribution of _T_e values such that _f_(_T_e)_dT_e is the fraction of the sample for which the transition occurs between _T_e and _T_e +_dT_e, the total _Cg_ at temperature T becomes
+
+\[C_{g}(T) = \int_{T}^{\infty}\!f(T_{\sigma})\,C_{g}(T_{\sigma},T)\,dT_{\sigma}\] (2) \[+ \int_{0}^{T}\!f(T_{\sigma})\,C_{g}(T)\,dT_{\sigma}\;\;.\]
+
+(Bucher _et al._ have used a similar approach to characterize the broadened superconducting transitions of some titanium alloys.27) Values of _Cg_(_T_e, _T_) were taken from published tables of the thermodynamic functions of BCS superconductors.28 A normalized Gaussian distribution was taken for _f_(_T_e), with _T_e the mean _T_e and _T_e the half-width of the transition, and _Cg_(_T_) was obtained by numerical integration of the right-hand side of Eq. (2). Curves corresponding to the calculated _Cg_(_T_)/_T_ values for values of _T_e and _dT_e which fit the data reasonably well are plotted in Figs. 3-5, and the corresponding _T_e and _dT_e values appear in Table II. The calculated curves are plotted together in Fig. 7 as _Cg_/_T_ vs T. The mole fraction _X_s of the sample in the superconducting state at 0 K was obtained from the 0-K intercept, and is also given in Table II.
+
+Of the polycrystalline samples, Ia shows the sharpest transition. It is a bulk superconductor
+
+Figure 7: Electronic heat capacities calculated from Eq. (2) and appearing in Figs. 3–5, plotted as _Cg_/_T_ vs T. 0–K intercepts indicate that _X_s is 1.0, 0.9, and 0.7 for samples Ia, IIa, and Ib, respectively.
+
+  with \overline{T}_{e} = 0.27 K and \delta T_{e} = 0.05 K. It is very probable that this sample is completely superconducting at 0 K, as suggested by the value derived for X_{s}, 1.0. At the other extreme, sample 1b shows the broadest transition. It may have a lower value of T_{e} and may be incompletely superconducting at 0 K. However, the fit to Eq. (2) was relatively insensitive to the values of \overline{T}_{e} and \delta T_{e}, and, in fact, a different distribution function (a Gaussian distribution function normalized to 2 with \overline{T}_{e} = 0 and \delta T_{e} = 0.42 K) fits the experimental data equally well and gives X_{s} = 1.0. Conclusions about the completeness of the superconducting transition in this sample are therefore not very well established. The transitions in samples II_a_ and II_b_ are intermediate in breadth. The values of \overline{T}_{e} are the same as that of sample Ia, and these samples are also essentially completely superconducting at 0 K. For these samples the values of \overline{T}_{e} and \delta T_{e} are much better defined than for sample Ib. Nevertheless, the discrepancy between the derived value of X_{s}(0.9) and 1.0 is probably not significant.
+
+For the single crystal, sample III, the difference between zero-field and in-field heat capacities is comparable with the scatter in the data, but it is systematic, and strongly suggestive of a superconducting transition. The breadth of the transition appears to be similar to that in sample Ia. Comparison of the data for these two samples suggests that for sample III the temperature of the maximum in the zero-field heat capacity and also the value of \overline{T}_{e} would be approximately 0.1 K.
+
+## IV Discussion
+
+### Superconducting transitions
+
+The zero-field heat-capacity data give evidence for broadened transitions to the superconducting state in all samples and show that \overline{T}_{e} is substantially higher for polycrystalline samples than for the single crystals. The breadth of the transitions and the sample-to-sample variation in \overline{T}_{e} can only be produced by inhomogeneous strains acting through the same mechanism that gives rise to the pressure dependence of T_{e}. (Inhomogeneous strains are generally expected to broaden the transition, and in the case of a highly anisotropic material like \alpha-uranium, the strains produced on cooling, by the anisotropy of the thermal contraction, could also produce a shift in \overline{T}_{e}.) The absence of sharp features in the zero-field data shows that the strains produce a continuous distribution of properties; we do _not_ have regions of a small number of different nonequilibrium phases with properties that vary discontinuously.
+
+The high values of T_{e} obtained from magnetic measurements apparently reflect the very broad transitions that occur in samples such as 1b and the tendency of such measurements to give overestimates of the fraction of the sample that is superconducting. It is worth noting that even for the single crystal the magnetic measurements seriously overestimate \overline{T}_{e}; the midpoint of the magnetically determined transition is at 0.38 K, but the calorimetric value of \overline{T}_{e} is approximately 0.1 K.
+
+Unfortunately, our measurements do not provide a value of T_{e} for a perfect single crystal of \alpha-uranium. As discussed in Sec. III, sample III, the one single crystal studied, appears to have a value of \overline{T}_{e} of approximately 0.1 K (but there is considerable uncertainty even about that). If its transition had been sharp, one could argue that because sample III is a single crystal and therefore free of the inhomogeneous strains that raise \overline{T}_{e} in the polycrystalline samples, it would exhibit the perfect-single-crystal value of T_{e}. However, because its transition is not sharp, it is clear that sample III is not free of strains, and its value of \overline{T}_{e}, approximately 0.1 K, probably represents an upper limit to that of an ideal sample.
+
+The shapes of the heat-capacity anomalies associated with the transitions to the superconducting state show that the values of T_{e} are not depressed from the 10-kbar values by a pair-breaking mechanism associated with localized moments. Consider sample Ia, for which \overline{T}_{e} = 0.27 K, as an example; if the difference between the observed \overline{T}_{e} and 2 K (the value of T_{e} at 10 kbar) were caused by localized moments present at zero pressure but not at 10 kbar, the heat-capacity discontinuity would be given by the Abzikosov-Gor'kov (AG) theory [29, 30] and would be only 25% of that predicted by the BCS theory. Actually, as shown in Fig. 3, the BCS theory accounts for the observed data rather well. In fact, the maximum _observed_ difference between C_{Bn} and C_{Bn} is almost twice as great as would be given by the AG theory even with no allowance for the broadening of the transition. Thus, these measurements rule out a pair-breaking mechanism for the pressure dependence of T_{e}.
+
+### Normal-state heat capacity
+
+As discussed in Sec. IV.1, the zero-applied-pressure values of \overline{T}_{e} for polycrystalline samples are enhanced by inhomogeneous strains through the same mechanism responsible for the pressure dependence of T_{e}. In this section we shall show that there are similar parallels between the effects of pressure and of grain size or cold work on the lattice and normal-state electronic head capacities. The pressure dependence of the electronic heat capacity is known from the measurements [4] at 10 kbar, and the pressure dependence of the elec  tronic _and_ lattice heat capacities can be calculated from thermal-expansion data. The calculation is based on the thermodynamic relation
+
+\[\alpha = - \frac{1}{V}\left( \frac{\partial S}{\partial P} \right)_{T}\]
+
+, where a is the coefficient of volume thermal expansion. The assumption that the entropy is the sum of electronic and lattice contributions makes it possible to write expressions of the form of Eq. (3) for each contribution separately. In the low-temperature limit, C_{ER} = S_{ER} = \gamma T, C_{L} = 3S_{L} = (\frac{\alpha_{2}}{5})\pi^{4}R(T/\Theta_{0})^{3}, where th0 is the Debye characteristic temperature at 0 K; these equations can be written
+
+\[\alpha_{B} = - \frac{C_{ER}}{V}\left( \frac{\partial 1\eta\gamma}{\partial P} \right)_{T}\]
+
+and
+
+\[\alpha_{L} = \frac{C_{L}}{V}\left( \frac{\partial 1\eta\Theta_{0}}{\partial P} \right)_{T}\]
+
+. For comparison with other materials it is also convenient to introduce the Gruneisen parameters
+
+\[\Gamma_{\gamma} = \left( \frac{\partial 1\eta\gamma}{\partial 1\eta V} \right)_{T}\]
+
+and
+
+\[\Gamma_{\Theta_{0}} = - \left( \frac{\partial 1\eta\Theta_{0}}{\partial 1\eta V} \right)_{T}\]
+
+, which are given by
+
+\[\alpha_{B}/\beta = \Gamma_{\gamma}C_{B}/V\]
+
+and
+
+\[\alpha_{L}/\beta = \Gamma_{\Theta_{0}}C_{L}/V\]
+
+, where b is the compressibility. Low-temperature elastic constants data9 give \beta = 1.195 \times 10^{- 12} cm2/ dyn, and Andres10 has analyzed his thermal-expansion data to obtain \alpha_{B} = - 19.7 \times 10^{- 9}T K-1 and \alpha_{L} = - 26.9 \times 10^{- 10}T^{3} K-1.
+
+Equations (4) and (6), with the zero-pressure single-crystal value of g, give \Gamma_{\gamma} = - 22.4 and
+
+\[\left( \frac{\partial 1\eta\gamma}{\partial P} \right)_{T} = 2.71 \times 10^{- 9}\;{\rm atm}^{- 1}\]
+
+(see Ref. 31). When itspressure dependence is neglected, the latter quantity gives 12.0 mJ/mole K2 for the 10-kbar value of g, in reasonable agreement with the calorimetric value,4 12.2 mJ/mole K2. Our g values for polycrystalline samples at zero pressure, and those reported by Crangle and Temporal,13 are higher than the single-crystal values, showing that the effect of the internal strains on g corresponds to that of a net positive pressure. In this respect, g behaves in the same way as does T_{o}.
+
+The lattice heat capacity was not determined in our measurements, and no other heat-capacity measurements on a single crystal have been reported. However, since values of th0 calculated from elastic constants are generally in good agreement with those determined calorimetrically,32 it is reasonable to take the value derived33 from the zero-pressure elastic constants,9 th0 = 248 K, as characteristic of single-crystal a-uranium at zero pressure. Use of this value with Eqs. (5) and (7) gives
+
+\[\left( \frac{\partial 1\eta\Theta_{0}}{\partial P} \right)_{T} = - 2.66 \times 10^{- 9}\;{\rm atm}^{- 1}\]
+
+and \Gamma_{0} = - 21.9, which corresponds to an unusually strong pressure dependence and, furthermore, to an increase in lattice heat capacity with increasing pressure.
+
+For a-uranium the determination of th0 from calorimetric data is complicated by the high value of g and by the relatively small temperature interval in which C_{L} \propto T^{3}. In such cases an accurate value of th0 can be obtained only if the data is of high accuracy and if the analysis takes into account the higher-order terms in C_{L}. Both of these criteria appear to have been met by Flotow and Osborne,23 who found th = 222 K for a polycrystalline sample. This value of th0 corresponds to a lattice heat capacity that is 40% greater than that calculated from the elastic constants for a single crystal. Further evidence that the zero-pressure lattice heat capacity increases with decreasing grain size is provided by the measurements of Crangle and Temporal.13 They reported some uncertainty in the calibration of their thermometer, and apparently obtained th0 values from an analysis in which only the T^{3} term was included in C_{L}, a procedure that usually leads to th0 values that are too low. Nevertheless, the trend in their th0 values is probably significant. They found th0 values of 210 K for a pseudo-single-crystal and 203 and 195 K for two polycrystals. Thus, the available data show that the strains present in polycrystalline samples also affect the lattice heat capacity in a way that corresponds to a net positive pressure.
+
+In the foregoing discussion of the lattice heat capacity we have assumed that the negative T^{3} term in the thermal expansion and the thermodynamically related pressure-dependent T^{3} term in the heat capacity are phonon contributions. A different model in which these terms are magnetic in origin and associated with 5f moments has been considered by a number of authors. Geballe _et al._1 suggested that the negative thermal expansion below 43 K could be a manifestation of the gradual transfer of 0.04 electrons per uranium atom to a  5f band. The associated magnetic moments would limit Cooper pair formation, but application of pressure would raise _T_e by depopulating the 5f states. Gardner and Smith18 suggested that the magnetic moments might be in the form of a spin-density wave. Andres16 considered the possibility that the "anomalous" T3 terms are associated with spin-wave excitations in an antiferromagnetic structure, and Crangle and Temporal13 used the entropy associated with the 43-K heat-capacity anomaly to estimate a magnetic moment of 0.06 Bohr magneton per uranium atom. This "magnetic model" for a-uranium has a number of very attractive features, but it is deficient in other respects and, most importantly, there is no independent evidence for the existence of magnetic moments; what little direct evidence for magnetic moments10 existed at one time was apparently11 spurious. As arguments against the magnetic model we cite the following:
+
+(a) Antiferromagnetic spinwaves give rise to a T3 heat capacity only in the absence of an anisotropy field. This situation is realized only rarely and it seems unlikely that it would occur in a-uranium.
+
+(b) For an antiferromagnet with _dT__N_/_dp_ < 0 and pressure-independent magnetic moments, one can understand an increase in the magnetic heat capacity with increasing pressure at T < T_{N}. The magnetic model for a-uranium, however, requires the magnetic moments to _decrease_ steadily with increasing pressure, disappearing completely by about 10 kbar. In this case it is not clear how the _magnetic_ heat capacity can increase with increasing pressure.
+
+(c) Magnetic moments of substantial magnitude are required to account for the entropy in excess of the lattice and phonon entropy, but no evidence from either neutron-diffraction or magnetic-susceptibility studies supports their existence.
+
+Crangle and Temporal13 estimated an excess entropy of 0.08R, at a temperature just above the 43-K heat-capacity anomaly, but this estimate was based on the subtraction of an approximately T3 lattice heat capacity that gave zero excess heat capacity below 30 K. Comparison of Flotow and Osborne's heat-capacity data23 with th0 calculated23 from the elastic moduli shows that there is an excess heat capacity of 0.05T3 mJ/mole K which gives an additional contribution to the excess entropy of 0.05R at 30 K or 0.13R at 40 K. Although the early neutron-diffraction measurements10 showed extra reflections that were tentatively taken as evidence for magnetic structure, they were not observed in the more recent work,11 which was interpreted as showing the absence of magnetic structure. There is also no evidence for localized moments in the susceptibility data.12,19 (d) As discussed in Sec. IV.1, the form of the heat-capacity anomalies associated with the zero-pressure transitions shows that magnetic moments are not important in limiting T_{c}.
+
+If the anomalous T3 terms in the heat capacity and the thermal expansion originate in an unusual pressure dependence of the phonon spectrum, one would expect them to be reflected in the pressure dependence of the elastic moduli. For six of the nine independent elastic moduli the pressure dependence is not known, but from measurements9 of the pressure dependence of the velocities of certain pure longitudinal modes Fisher34 has derived values for the pressure coefficients of c11, c22, and c33. The pressure coefficients are all positive, and these modes therefore make positive contributions to C0, However, the value of C0 will be dominated by contributions from transverse modes, which could be negative. In fact, calculations for simple force-constant models have shown that negative contributions to C0 are possible and are most probable for transverse modes.35,36 Thus, it seems possible that the negative value of C0 is associated with the phonon spectrum, but there is no independent experimental evidence capable of testing that possibility at this time.
+
+### Possible relation between pressure dependences of g,Th0, and T_{c}
+
+The pressure derivatives of g, Th0, and T_{c} for a-uranium are all unusual in that each is remarkably large in magnitude and abnormal in sign. Furthermore, there is clear evidence, particularly in the cases of g and T_{c}, that the inhomogeneous stresses in polycrystalline samples have the same effect as a hydrostatic pressure. These observations suggest that the pressure derivatives of g, Th0, and T_{c} are related. In seeking a theoretical basis for a correlation, we start with McMillan's expression37 for T_{c} for a BCS superconductor,
+
+\[T_{c} = \frac{\Theta_{0}}{1.45}\exp\left( - \frac{1.04(1 + \lambda)}{\lambda - \mu^{*}(1 + 0.62\lambda)} \right),\]
+
+in which l is the electron-phonon coupling parameter, _m_* is the effective Coulomb repulsion between electrons, and Th0 is taken as a measure of the average phonon frequency. [Equation (8) was derived for a particular phonon spectrum, but is not expected to be sensitive to the details of the phonon spectrum for l < 1.37] The electron-phonon coupling constant is also related to g by
+
+\[\gamma = \gamma_{b}(1 + \lambda),\]
+
+where g is the "band-structure" value of g, i.e., not including phonon-enhancement effects. Fur  thermore, there is a semiempirical correlation between l and th0. The value of l depends on the phonon spectrum through the relation
+
+\[\lambda = N(0)\left\langle \delta^{2} \right\rangle/M\left\langle \omega^{2} \right\rangle\text{,}\]
+
+where _N_(0) is the band-structure density of electronic states, d is a matrix element, connecting different electronic states, of the change in crystal potential when one atom is removed, and \left\langle \omega^{2} \right\rangle is an average of the square of the phonon frequencies. McMillan noticed on a purely empirical basis that _N_(0)\left\langle \delta \right\rangle^{2} was constant for a number of bcc-transition metals and that the values of l were determined by the phonon factor _M_(_a_2).37 Since then, several authors have obtained approximately this result on a theoretical basis.38-40 In fact, the term \left\langle \omega^{2} \right\rangle is the ratio of weighted averages of o and _o_-1 and should ideally be evaluated using detailed information on the phonon spectrum. In the absence of such information, however, we shall used Th0 for \left\langle \omega^{2} \right\rangle and apply the correlation in the form
+
+\[\lambda \propto \Theta_{0}^{- 2}\text{.}\]
+
+Since th0 is determined primarily by the very-low-frequency transverse modes, whereas it is typically frequencies _o_~6_T_e/_k_ that are most heavily weighted41 in determining _T_e, it is clear that th0 is not the best measure of the phonon spectrum on which to base the correlation. On the other hand, heat-capacity data at a temperature T are most sensitive to frequencies _o_~4_kT/_k_, and the data in the vicinity of 1-2 K usually give fairly accurate values of th0, showing that in most cases th0 provides a reasonable approximation to the frequency spectrum into the region of interest. Further-more, the approach represented by Eq. (11) has been used successfully in a number of studies of _T_e for transition metals when more detailed data have not been available.37-40 In applying Eqs. (8)-(11) to the pressure dependence of _T_e we shall neglect the possible pressure dependences of quantities such as _m_*, g, _N_(0)\left\langle \delta^{2} \right\rangle (some of which are discussed in Ref. 42), on the assumption that their contributions to _dT_e/_dp_ are of ordinary magnitude and therefore relatively unimportant in _a_-uranium. Equations (8), (9), and (11) suggest that the usual pressure dependences of the properties of _a_-uranium arise from an unusual pressure dependence of the phonon spectrum which is reflected in _d_g/_dp_ and _dT_e/_dp_ through the dependence of l on the phonon frequencies.
+
+In an attempt to make the correlation between g, _th_, g, and _T_e quantitative, we consider the values of these parameters and of l and _m_* at 0 and 10 kbar. In the following, we distinguish the values of these parameters at the different pressures by the value of the pressure, in kbar, in parentheses following the symbol for the parameter. The theoretical approximations inherent in Eqs. (8)-(11) of course limit the accuracy that can be expected in a quantitative comparision, and in addition there are significant uncertainties in some of the values of g, _th_0, and _T_e. The latter include the uncertainty in _T_e(0) and the fact that the thermal-expansion data16 give only the zero-pressure value of _d_th_0/_dp_, which was assumed pressure independent to estimate th0. Furthermore, in the measurement4 of _g_(10), the pressure was deduced from the calorimetrically observed _T_e and _T_e-_p_ data obtained by magnetic measurements. Magnetic measurements, however, usually overestimate _T_e. Furthermore, the most recent data15 of this kind suggest the existence of a structure in the _T_e-_p_ relation that introduces an additional complication into the comparison. The values of the "experimental" parameters that we have chosen are as follows: _g_(0)=9.14, _g_(10)=12.2 mJ/mole K2; _th_0(0)=248, _th_0(10)=190 K; _T_e(0)=0.1, _T_e(10)=2.3 K. One obvious way to proceed would be to use Eqs. (9) and (11) with the values of g and _th_0 to determine _l_(0) and _l_(10), and then use these values of l with the values of _T_e to obtain _m_*(0) and _m_*(10). The correlation would be judged valid if the derived values of _m_* were reasonable. In fact, this procedure leads to implausibly large values of _m_* [_m_*(0)=0.41 and _m_*(10)=0.45], but in view of the uncertainties in the experimental parameters and in the theory, we believe it is too severe a test of the existence of a correlation. The values _l_(0)=0.4 and _l_(10)=0.7, found by a less systematic approach, do agree reasonably well with the experimental parameters and do give reasonable values of _m_*. They correspond to _g_(10)/_g_(0)=1.21 and _th_0(0)/_th_0(10)=1.75, for which the experimental data give 1.34 and 1.70, respectively. The derived values of _m_* are _m_*(0)=0.16 and _m_*(10)=0.17. Typical values of _m_* are 0.10 for simple metals and 0.13 for transition metals.37 In the light actinide metals, the more limited spatial extent of the 5f wave functions, compared with the transition-metal d wave functions, is expected to enhance _m_*, and a value of 0.16 seems quite reasonable for _a_-uranium. The agreement of the l values obtained here with other independent estimates provides additional evidence supporting the plausibility of our analysis; the value _l_(10)=0.9 +-0.2 has been obtained by comparing the high- and low-temperature g values, and a related estimate of _g_(0) gave _l_(0)=0.4.43 In summary, the pressure dependences of g, _th_0, and _T_e are consistent with a common origin in a pressure dependence of the phonon spectrum.
+
+  
+
+## V Conclusion
+
+The occurrence of bulk superconductivity in polycrystalline samples of \alpha-uranium at zero pressure has been demonstrated. The relation of these results to earlier work, some of which was also done in this laboratory, is not clear, but we believe the superconductivity of these samples is now well established. The zero-pressure critical temperature of single-crystal \alpha-uranium is still not well defined, but an upper limit of 0.1 K is probable. The average value of T_{e} is enhanced in small-grained and cold-worked samples, presumably by the same mechanism for the large positive value of dT_{e}/dP. The heat-capacity anomalies associated with the transitions in the polycrystalline samples have the shape expected for broadened transitions in BCS superconductors, showing that pair-breaking mechanisms are not responsible for the depression of T_{e} relative to the 10-kbar value. This provides an additional argument against the "magnetic" model for the pressure dependence of T_{e}. Direct evidence that the inhomogeneous stresses in polycrystalline samples affect \gamma in the same way as hydrostatic pressure, and indirect evidence of a similar correlation for the lattice heat capacity were found. It is pointed out that the magnitudes and signs of dT_{e}/dp, d\gamma/dp, and d\Theta_{o}/dp, each of which is unusual in \alpha-uranium, are consistent with their having a common origin in a pressure dependence of the phonon spectrum. We note that in this model the population of 5f states may still play a fundamental role in producing the unusual superconducting properties of \alpha-uranium, but the mechanism for their influence is through their effect on bonding and the vibrational spectrum, rather than through their contribution to localized moment formation.
+
+Garland[44] has summarized and discussed other models for \alpha-uranium, including his suggestion that the unusual properties are a consequence of structure in the electronic density of states. In the model presented here, it is unnecessary to invoke unusual coupling mechanisms, pair-breaking effects, or band-structure details, but there is no independent and unambiguous evidence for the required pressure dependence of the phonon spectrum. That pressure dependence is, however, theoretically possible and particularly reasonable for transverse modes in an open structure like that of \alpha-uranium. Furthermore, a comparison with lanthanum makes the model even more plausible; in lanthanum, which also exhibits a negative thermal expansion[45] below 37 K and a large positive value[46] of dT_{e}/dp, there _is_ evidence, from electron tunneling experiments,[47] for a softening of the transverse phonons with increasing pressure.
+
+Another shortcoming of the model proposed here is that there is no obvious relation to the other striking property of \alpha-uranium, the isotope effect. In that connection, however, it is interesting to note that there is an empirical correlation between dT_{e}/dp and the isotope effect.[44] Although no theoretical basis for such a correlation has been identified, it appears possible that one may be recognized in the future.
+
+## Acknowledgment
+
+We are very grateful to T. H. Geballe, T. F. Smith, and J. M. Schreyer for providing samples, to A. Peterson for technical assistance and to T. H. Geballe, T. F. Smith, and L. Brewer for interesting and informative discussions.
+
+## References
+
+* [+]Work supported by the U. S. Energy Research and Development Administration.
+* [+]Present Address: Argonne National Laboratory, Materials Science Division, Argonne, Illinois 60439.
+* [2] T. H. Geballe, B. T. Matthias, K. Andres, E. S. Fisher, T. F. Smith, and W. H. Zachariasen, Science 152, 755 (1966).
+* [3] C. Palmy and E. S. Fisher, Solid State Commun. 8, 653 (1970).
+* [4] E. S. Fisher, T. H. Geballe, and J. M. Schreyer, J. Appl. Phys. 39, 4478 (1968).
+* [5] J. C. Ho, N. E. Phillips, and T. F. Smith, Phys. Rev. Lett. 17, 694 (1966); also reported in _Proceedings of the Tenth International Conference on Low-Temperature Physics, Moscow, 1966_, edited by N. V. Zavaritsky and I. P. Krylov (Vintif, Moscow, 1967), Vol IID, p. 189.
+* [6] R. D. Fowler, J. D. G. Lindsay, R. W. White, H. H. Hill, and B. T. Matthias, Phys. Rev. Lett. 19, 892 (1967).
+* [7] J. Bardeen, L. N. Cooper, and J. R. Schrieffer, Phys. Rev. 108, 1175 (1957).
+* [8] A. F. Shuch and H. L. Laquer, Phys. Rev. 86, 803 (1952).
+* [9] E. S. Fisher and H. J. McSkimin, Phys. Rev. 124, 67 (1961).
+* [10] E. S. Fisher and D. Dever, Phys. Rev. 170, 607 (1968).
+* [11] C. S. Barrett, M. H. Mueller, and R. L. Hitterman, Phys. Rev. 129, 625 (1963).
+* [12] G. H. Lander and M. H. Mueller, Acta Crystallogr. B 26, 129 (1970).
+* [13] M. O. Steinitz, C. E. Burleson, and J. A. Marcus, J. Appl. Phys. 41, 5057 (1970).
+* [14] J. Crangle and J. Temporal, J. Phys. F 3, 1097 (1973).
+* [15] E. S. Fisher and D. Dever, Solid State Commun. 8, 649 (1970).
+* [16] T. F. Smith and E. S. Fisher, J. Low Temp. Phys. 12, 631 (1973).
+* [17] K. Andres, Phys. Rev. 170, 614 (1968).
+
+ * [25] A. Hough, J. A. C. Marples, M. J. Mortimer, and J. A. Lee, Phys. Lett. A 27, 222 (1968).
+* [26] W. E. Gardner and T. F. Smith, Phys. Rev. 154, 309 (1967).
+* [27] J. W. Ross and D. J. Lam, Phys. Rev. 165, 617 (1968).
+* [28] E. S. Fisher, Trans. AIME (Am. Inst. Min. Metall. Pet. Eng.) 209, 882 (1957).
+* [29] C. W. Dempsey, J. E. Gordon, and R. H. Romer, Phys. Rev. Lett. 11, 547 (1963).
+* [30] S. L. Ruby, G. M. Kalvins, B. D. Dunlap, G. K. Shenoy, D. Cohen, M. B. Brodsky, and D. J. Lam, Phys. Rev. 184, 374 (1969).
+* [31] H. E. Flotow and D. W. Osborne, Phys. Rev. 151, 564 (1966).
+* [32] N. E. Phillips, J. C. Ho, and T. F. Smith in _Proceedings of the Tenth International Conference on Low-Tem-perature Physics, Moscow, 1966_, edited by N. V. Zavartisky and I. P. Krylov (Viniti, Moscow, 1967), Vol. IIB, p. 189.
+* [33] Measurements made on other samples, including \beta-uranium samples, at about the same time as those reported in Refs. [4] and [24] showed no anomalous behavior. This seems to rule out errors in thermometer calibration and errors associated with the self-heating in uranium samples. The shape of the anomaly suggests that it might be a combination of the nuclear heat capacity and the high-temperature side of a broadened superconducting transition. However, unless the nature of the superconductivity was very different from that encountered in the new measurements, one would have to assume that the solenoid used to apply a magnetic field to the sample failed to function; however, like the thermometer, it was used successfully in other experiments at about the same time.
+* [34] J. E. Gordon, H. Montgomery, R. J. Noer, G. R. Pickett, and R. Tob6n, Phys. Rev. 152, 432 (1966).
+* [35] E. Bucher, F. Heiniger, and J. Muller, in _Proceedings of the Ninth International Conference on Low-Temper-ature Physics, Columbus, Ohio, 1965_, edited by J. G. Daunt _et al._ (Plenum, New York, 1965) p. 482.
+* [36] B. Muhlschlegel, Z. Phys. 155, 313 (1959).
+* [37] A. A. Abrikosov and L. P. Gor'kov, Zh. Eksp. Teor. Fiz. 39, 1781 (1960) [Sov. Phys.--JETP 12, 1243 (1961)].
+* [38] S. Skalski, O. Betheder-Matlibet, and P. R. Weiss, Phys. Rev. 136, A1500 (1964).
+* [39] The values of \Gamma_{\gamma} and \Gamma_{\theta_{0}} obtained were different from those in Ref. [16] primarily because different values of the zero-pressure heat capacities were used.
+* [40] See, for example Norman E. Phillips, Crit. Rev. Solid State Sci. 2, 467 (1971).
+* [41] J. R. Neighbours (unpublished), quoted in Ref. [9].
+* [42] E. S. Fisher, in _The Actinides: Electronic Structure and Related Properties_, edited by H. A. Freeman and J. B. Darby, Jr. (Academic, New York, 1974), Vol. II, p. 289.
+* [43] T. H. K. Barron, Ann. Phys. (N. Y.) 1, 77 (1957).
+* [44] M. Blackman, Philos. Mag. 3, 831 (1958); Proc. Phys. Soc. Lond. 74, 17 (1959).
+* [45] W. L. McMillan, Phys. Rev. 167, 331 (1968).
+* [46] J. Hopfield, Phys. Rev. 186, 443 (1969).
+* [47] S. Barisie, J. Labbe, and J. Friedel, Phys. Rev. Lett. 25, 919 (1970).
+* [48] K. H. Bennemann and J. W. Garland, in _Superconductivity in d- and \it{\it{\it{\it{\it{\it{\it{\it{\it{\it{\it{\it{\it{\it{\it{\it{\it{\it{\it{ \it{ \it{ \it{       }}}}}}}}}}}}}}}}_, edited by D. H. Douglass (American Institute of Physics, New York, 1972), p. 103.
+* [49] G. Bergmann and D. Rainer, Z. Phys. 263, 59 (1973).
+* [50] J. W. Garland and K. H. Bennemann, in _Superconductivity in d- and \it{\it{\it{\it{\it{\it{\it{\it{\it{\it{\it{\it{\it{\it{\it{\it{\it{\left.}}}}}}}}}}}}}}}_, edited by D. H. Douglass (American Institute of Physics, New York, 1972), p. 255.
+* [51] S. D. Bader and G. S. Knapp, Phys. Rev. B 11, 3348 (1975).
+* [52] J. W. Garland, NRL Report (1969) (unpublished).
+* [53] K. Andres, Phys. Rev. 168, 708 (1968).
+* [54] W. E. Gardner and T. F. Smith, Phys. Rev. 138, A484 (1965); T. F. Smith and W. E. Gardner, _ibid._ 146, 291 (1966).
+* [55] H. Wahl, A. Eichler, and J. Wittig, Phys. Rev. Lett. 31, 1391 (1973).
+
+ 
+
+# Physical Review B Volume 12, Number 11 December 1975
+
+Low-temperature heat capacity of \alpha-uranium and its relation to the pressure dependence of T_{c}
+
+S. D. Bader* and Norman E. Phillips
+
+ Inorganic Materials Research Division of the Lawrence Berkeley Laboratory, and Department of Chemistry, University of California, Berkeley, California 94720
+
+E. S. Fisher
+
+Argonne National Laboratory, Argonne, Illinois 60439
+
+5 May 1975
+
+###### Abstract
+
+The heat capacities of five samples of \alpha-uranium, including one single crystal, have been measured between approximately 0.1 and 2 K, at zero pressure. The four polycrystalline samples showed broad bulk superconducting transitions. The single crystal, for which susceptibility measurements showed a transition near 0.3 K, was not completely superconducting at the lowest temperature of our measurements, and we estimate T_{c}\leq 0.1 K. The shapes of the heat-capacity anomalies associated with the transitions to the superconducting state were those of broadened BCS transitions, thus showing that local moments and pair-breaking mechanisms are not involved in limiting the values of T_{c}. The values of \gamma, the coefficient of the electronic heat capacity, were significantly higher for the polycrystalline samples than for the single crystal, and there is evidence from other work of a similar trend in the lattice heat capacity. It is suggested that these trends are related to the pressure dependence of the same parameters, and that these pressure dependences and that of T_{c} are all produced by an unusual and strong pressure dependence of the phonon spectrum.
+
+## I Introduction
+
+Magnetic measurements have consistently shown the occurrence of superconductivity in \alpha-uranium at zero pressure, with T_{e} ranging from about 0.2 K for single crystals [1, 2] to above 1 K in some high-purity polycrystals [3]. Calorimetric studies have so far failed to substantiate the existence of superconductivity at zero pressure, but at 10 kbar they are in agreement with magnetic measurements in showing that \alpha-uranium is a bulk superconductor with a T_{e} of approximately 2 K [4]. Thus, \alpha-uranium is one of the most strongly pressure-enhanced superconductors known, although the precise degree of the enhancement is uncertain because of the the uncertainty in the zero-pressure T_{e}. The heat-capacity measurements reported here were undertaken to clarify the nature of superconductivity in \alpha-uranium at zero pressure.
+
+In addition to the strong pressure enhancement of T_{e}, superconducting \alpha-uranium is unusual in showing a large _positive_ isotope effect. Measurements at 11 kbar (where T_{e} is insensitive to pressure) show that T_{e}\proptoM^{2}, where M is the atomic mass [5]. This is by far the largest observed deviation from the BCS [6] isotope effect (T_{e}\proptoM^{-1/2}).
+
+In the normal state, \alpha-uranium shows a number of low-temperature transitions. At 43 K there is a minimum in the atomic volume [7] and anomalies in the elastic constants [8, 9], but x-ray and neutron-diffraction studies [10, 11] show that the high-temperature orthorhombic symmetry of the crystal persists to at least 4 K. Below 43 K the a and b lattice parameters increase with decreasing temperature, the increase in the a parameter being more rapid. The c parameter continues to decrease with decreasing temperature, and more rapidly than above 43 K, but the net volume thermal expansion is negative. The elastic moduli of single crystals also show anomalies at 23 and 37 K. [9] Thermal-expansion measurements [12] on single crystals have shown that there are discontinuities in the lattice parameters and in the volume at these temperatures. (The effects are too small to have been observed in the x-ray measurements.) At 43 K the lattice parameters are continuous, but there are discontinuities in the temperature derivatives [13]. Heat-capacity measurements on a pseudo-single-crystal (15 deg of mismatch across the 5 mm diam of the specimen) have shown sharp anomalies that were assumed to be latent heats at 23 and 37 K, and a broad anomaly extending from 28-45 K [13]. The 23- and 37-K anomalies showed considerable hysteresis, but the broad anomaly was reversible [13]. Thus, there is clear evidence for first-order transitions at 23 and 37 K and a second- or other higher-order transition at 43 K. The intervening phases have been designated the \alpha_{3}, \alpha_{2}, and \alpha_{1} phases, where subscripts 3, 2, and 1 refer to the zero-pressure equilibrium phases in the intervals below 23 K, 23-37 K, and 37-43 K, respectively.
+
+The pressure derivatives of the three equilibrium temperatures are known, and to within the accuracy of the various data they have the same value, dT/dP= - 3.4 K/kbar. For the 23- and 37-K transitions this value is based on the measured volume changes [12] and latent heats [13] and application of the Clapeyron equation. For the 43-K transition the pressure dependence of the anomalies in the elastic moduli has been measured, giving dT/dP directly.[14] The value is also consistent with the very approximate values of the discontinuities in heat capacity,[13] compressibility,[9] and thermal expansion,[12] and application of the Ehrenfest relations. It has been suggested that regions of different slope in the T_{e}-vs-P curve for single crystals are associated with the pressure ranges of stability of the various phases at T <= 2 K.[15]
+
+No evidence has been reported for the 23- and 37-K transitions in polycrystals. In particular, in the heat-capacity study[13] in which the 23- and 37-K latent heats were discovered in a pseudo-single-crystal, no corresponding features were observed for either of the two polycrystalline samples examined. It thus appears that the transitions to the \alpha_{\text{z}} and \alpha_{\text{s}} phases are either suppressed by internal strains in polycrystalline samples or so spread out that they escape detection. However, whether a polycrystalline sample transforms to the \alpha_{\text{s}} phase or not, its 0-K volume must be similar to that of the \alpha_{\text{s}} phase because dila-tometric volume measurements on polycrystals and x-ray volume measurements[10] on single crystals give similar results below 43 K. Thermal-ex-pansion measurements on both single-crystal[16] and polycrystalline samples[17] have shown hysteresis effects in the lattice parameters and volume, and that even the 43-K transition can be totally suppressed in polycrystals by rapid quenching.
+
+The magnetic properties of \alpha-uranium are of interest in connection with the suggestion[1] that both the volume minimum and the pressure dependence of T_{e} could be associated with the appearance of localized moments based on the 5f states. Neutron-diffraction measurements show no indication of such moments,[11] but the entropy associated with the 43-K transition corresponds to only 0.06Rln2; it has been proposed[14] that the small moments implied by this value could have escaped detection, particularly if the ordering were of the suggested[18] spin-density-wave type. Magnetic-susceptibility measurements[19] on single crystals showed a large anisotropic paramagnetic component that decreased by about 5% between room temperature and 4 K. An extension of these measurements[12] has shown discontinuities in the anisotropy near 23 and 37 K and a broad continuous change in the 28-41-K region.
+
+## II Samples and experimental technique
+
+Table 1 contains a description of the five samples that were studied, the magnetic fields and temperature intervals of the heat-capacity measurements, and the temperature range of the superconducting transitions as determined magnetically. Sample Ia is the purest uranium currently available. It was electron-beam zone refined and con
+
+\begin{table}
+\begin{tabular}{c c c c c c c c}  & Heat-capacity & & & & & Temperature range of magnetic transition (K) \\ Sample & H (Oe) & T (K) & ^{235}U (at. \%) & ^{234}U (at. \%) & Weight (g) & Physical form & 0.3–0.4 \\  & 50 & 0.16–1.1 & & & & & & polycrystalline \\  & 100 & 0.15–1.0 & & & & & & \\  & & & & & & & \\  & & & & & & & \\  & & & & & & & \\  & & & & & & & \\ \end{tabular}
+\end{table}
+Table 1: Description of samples and measurements.
+
+  tained less than 50-ppm impurities by weight. Its zero-pressure superconducting transition has been extensively investigated magnetically.[3] Sample _la_ became sample _lb_ after swaging. Polarized-light micrographs were used to characterize the grain structure of these samples. Samples _la_ and _lb_ are two pieces cut from a large strain-annealed polycrystal designated U10 in the literature, and studied extensively at low temperatures and as a function of pressure, both magnetically [15, 16] and calorimetrically.[4, 13] Sample III is a single crystal [20] that was prepared by the grain-coarsening technique. The superconducting transitions of similar single crystals have been studied magnetically at zero pressure and up to 8 kbar.[1, 2]
+
+All three of the samples are partially depleted in 234U and 235U. Reducing the 234U content reduces the self-heating since the low natural abundance of 234U accounts for over half of the total self-heating in natural uranium. Reducing the 235U content reduces the nuclear quadrupole heat capacity.
+
+For all samples except sample III, the magnetically determined superconducting transition temperatures were known from other work, as reported in Table 1. For sample III the transition was studied using a 23-Hz mutual inductance bridge, and the results are shown in Fig. 1. The temperature dependence of the signal suggests a superconducting transition extending from 0.45 to 0.2 K. To within an uncertainty of approximately 25% associated with size and shape corrections, the transition signal at 0.2 K corresponds to complete flux exclusion.
+
+Heat capacities were measured between 0.1 and 2 K in an adiabatic-demagnetization cryostat by the heat-pulse method using a previously calibrated germanium thermometer. Thermal contact between the chrome-alum cooling salt and the calorimeter was made with a lead heat switch in parallel with a copper shunt. The copper shunt was designed to conduct away the heat generated within the sample by \alpha decay when the sample temperature was between 0.2 and 0.3 K. The calorimeter was always on warming drifts at lower temperatures, and on cooling drifts at higher temperatures. When the cooling drifts became too steep, the temperature of the cooling salt was increased to minimize the heat flow from the calorimeter.
+
+The calorimeter consisted of three separate parts. A heavy copper wire was soldered at one end to the lead switch and attached at the other to the sample. The thermometer was attached to another section of the sample, with its four electrical leads thermally anchored directly to the sample. A 4-k\Omega, platinum-8%-tungsten heater was noninductively wrapped around a copper post which was attached, along with the heater elec-trical leads, directly to a third section of the sample. All attachments were made with GE7031 varnish and, when necessary, with small copper wires. No attempt was made to correct for the varnish heat capacity, but it was assumed to be proportional to T^{3}. The T^{3} term in the sample heat capacity was therefore not determined. The empty calorimeter was calibrated in a separate run and its heat capacity assumed to be magnetic field independent. The calorimeter was generally a small fraction of the total heat capacity measured, except in the 1.8-g single-crystal experiments, for which it was approximately 40% of the total heat capacity between 0.25 and 1 K. Since the thermometer was attached directly to the sample to avoid locating it along a temperature gradient caused by self-heating effects, it experienced the full magnetic field applied to the sample. It was, however, checked in an independent experiment that showed that, for the present purposes, the thermometer retained its zero-field calibration in the low fields used in these experiments. This was accomplished by monitoring the slow warming drift of the calorimeter and cooling salt system with the lead switch in the normal, or closed, position, as magnetic fields were alternately turned on and off. Below 700 Oe there was no significant affect. Since all experiments were conducted at or below 500 Oe, the zero-field calibration could be used confidently.
+
+## III Results
+
+After correcting for the heat capacity of the calorimeter, the remainder of the measured heat capacity is the sum of three contributions:
+
+\[C = C_{N} + C_{E} + BT^{3}\ .\]
+
+The BT^{3} term, which includes the lattice heat
+
+Figure 1: Superconducting transition of sample III as detected by 23–Hz mutual inductance measurements.
+
+  capacity of the sample and the heat capacity of the varnish used to make thermal contact, is typically 3% or 4% of the total at 1 K. The nuclear heat capacity C_{N} is associated entirely with the quadrupole moment of the 235U nuclei, and, in the temperature range of our measurements, has the form C_{N} = _fAT_-2, where f is the mole fraction of 235U and A is a constant determined by the quadrupole-coupling constant for 235U in a-uranium. The electronic heat capacity C_{N}, is the only term that depends on magnetic field (for the fields used in these measurements). It takes the form C_{r} = _gT_ in the normal state, and a more complicated form C_{r} in the superconducting state.
+
+The analysis of the experimental data to separate the three terms in Eq. (1) was based on normal-state data. Values of A were obtained from the 0-K intercepts of plots of _CT_2 vs T3 for data taken in fields high enough to quench superconductivity. This procedure determined C_{N}, and g and B were then obtained by fitting C - C_{N} to _gT_+_BT_3. Finally, for zero field or fields in which superconductivity was incompletely quenched, C_{r} was calculated as C_{r} = C - C_{N} - _BT_3.
+
+### Nuclear heat capacity
+
+The heat capacities below approximately 0.27 K for sample II_a_ in 500 Oe and for sample III in 200 Oe are plotted in Fig. 2 as _CT_2 vs T3. For these two samples and for sample II_b_, for which similar data were obtained, the values of A as obtained from the intercepts are given in Table II. The applied fields did not completely suppress superconductivity in samples Ia and Ib, and for these samples C_{N} was calculated from the average value of A for the other three samples, 10.8 mJ K/(mole 235U). (The value of f was known more accurately for sample III, but because of its small size, the precision of the data was lower, so all three values of A were given equal weight.)
+
+The average value of A agrees with the value 10.9 +- 0.7 mJ K/(mole 235U) obtained calorimetrically by Dempesy _et al._21 below 0.75 K for pure 235U. The 4.2-K Mossbauer spectrum22 of the 238U 44.7-keV transition from the first excited state (2+) to the ground state (0+) in a-uranium yields a quadrupole coupling constant e^{2}qQ of - 2750 +- 300 MHz. No magnetic hyperfine fields greater than 300 kOe were detected. Since the electric field gradients experienced by 235U and 238U in a-uranium are the same, this value of e^{2}qQ and the A value determined calorimetrically can be used (assuming magnetic-dipole and impurity contributions are unimportant) to calculate the ratio Q_{235}/Q_{238} of the nuclear electric quadrupole moment of the 235U ground state to that of the 238U first-excited state. The value obtained is Q_{235}/Q_{238} = 1.6.
+
+### Normal-state electronic heat capacity
+
+The data for sample Ia above 0.6 K and in 100 Oe, and for sample Ib above 0.7 K and in 500 Oe, were fit to C - C_{N} = _gT_+_BT_3 by a least-squares procedure to obtain g and B. For the other three samples, for which superconductivity was apparently completely quenched in the highest fields, the values of g and B were based on all data taken in the highest fields. The values of g are given in Table II, and the data are displayed as _C__B_/_T_ vs T in Figs. 3-6.
+
+The values of g for different samples differ by
+
+\begin{table}
+\begin{tabular}{c c c c c c} Sample & A (mJ K/mole 235U) & _γ_ (mJ/K2 mole) & \widetilde{T}_{e} (K) & _δT_{e} (K) & X_{S} \\ Ia & ... & 9.59 & 0.27 & 0.05 & 1.0 \\ Ib & ... & 9.86 & 0.20 & 0.35 & 0.7 \\ IIa & 10.3 & 9.82 & 0.27 & 0.20 & 0.9 \\ IIb & 10.7 & 9.90 & 0.27 & 0.20 & 0.9 \\ III & 11.4 & 9.14 & *** & *** \\ \end{tabular}
+\end{table}
+Table 2: Calorimetrically determined properties of α-uranium.
+
+Figure 2: Heat capacities of sample III in 200 Oe and of sample IIa in 500 Oe, plotted as _CT_2 vs T3. Straight lines represent the least–squares values of the nuclear and electronic heat–capacity contributions.
+
+  amounts that are well outside the expected limits of error. The single crystal, sample III, has the smallest \gamma value, the large-grained sample, sample I_a_, has an intermediate \gamma value, and the three smaller-grained samples exhibit larger \gamma values of similar magnitude. The \gamma value of the single crystal coincides with the value 9.14\pm 0.20 mJ/K^{2} mole recently determined for a sample containing small-angle grain boundaries.[13] The \gamma value of 9.86 mJ/K^{2} mole for sample I_b_, the unannealed, swaged sample agrees with the value 9.88\pm 0.05 mJ/K^{2} mole determined for another swaged sample that had been annealed in the \alpha phase and hence was uniformly small grained.[23] The \gamma values of 9.82 and 9.90 mJ/K^{2} mole found for samples II_a_ and II_b_, respectively, the pieces of U10, agree with the recently determined \gamma = 10.00\pm 0.37 mJ/K^{2} mole for another piece[13] of U10, but are somewhat below the value 10.3 obtained for the entire 74-g U10 sample.[24] The earlier measurements[24] on the whole U10 sample differed conspicuously from those reported here in showing a field-independent anomaly below 0.7 K. There is a remote possibility that the anomaly was real, but that its appearance depends critically on the thermal history of the sample. This explanation seems unlikely, however, because the procedures followed in cooling were similar in both sets of measurements. We now believe that the anomaly was probably a consequence of some systematic error in the earlier measurements, even though we have been unable to devise any very plausible suggestion as to its origin.[25] The (4-5)% difference in \gamma value between samples II_a_ and II_b_ and the entire U10 sample probably arises from a combination of the \gamma value.
+
+Figure 4: Electronic heat capacity of sample Ib. Horizontal line represents the \gamma value. Curve represents a BCS heat-capacity anomaly broadened by a Gaussian distribution of transition temperatures, with \overline{T}_{\sigma}=0.2 K and 6\overline{T}_{\sigma}=0.35 K.
+
+Figure 5: Electronic heat capacities of samples IIa and IIb. Horizontal line represents the \gamma value of Sample IIa. Curve represents a BCS heat-capacity anomaly broadened by a Gaussian distribution of transition temperatures, with \overline{T}_{\sigma}=0.27 K and \delta T_{\sigma}=0.2 K.
+
+Figure 3: Electronic heat capacity of sample Ia. Horizontal line represents the \gamma value. Curve represents a BCS heat-capacity anomaly broadened by a Gaussian distribution of transition temperatures, with \overline{T}_{\sigma}=0.27 K and 6\overline{T}_{\sigma}=0.05 K.
+
+  of effects: inhomogeneities in the U10 sample, small changes in the laboratory temperature scale in the intervening time, and the effect of the apparent anomaly in the earlier data on the analysis to obtain \gamma.
+
+### Superconducting-state electronic heat capacity
+
+The zero-field heat capacities (and, in some cases, intermediate-field data) are also included in Figs. 3-6. For each sample there is some indication of a broadened transition to the superconducting state. This is most obvious for sample Ia, the large-grained polycrystal. The transitions in samples II_a_ and II_b_, and particularly that in sample Ib, are considerably more smeared out. For sample III, the single crystal, the evidence for a transition is less convincing, but the zero-field heat capacity is systematically higher than that in 200 Oe at all temperatures below approximately 0.25 K. A number of factors conspired to prevent a more complete study of the transition for this sample: The transition temperature is lower than for the other samples, and at the same time the accuracy obtained in the low-temperature _Cg_ data was more severely limited by smaller sample size, higher _Cg_, and higher self-heating.
+
+There are three published _a_-uranium heat capacity studies that extend below 1 K. One of these terminates at 0.65 K, and it is likely that superconducting temperatures were not reached.26 In another study, from approximately 0.4-0.75 K, it was impossible to tell whether or not the pure 235U was superconducting, since _Cg_ thoroughly dominated the heat capacity.21 In this same study, natural uranium (0.7% 235U) was examined between 0.17 and 0.75 K, and it was concluded that superconductivity was absent. However, the coefficient of the _T_-2 term in the heat capacity was twice that expected from the 235U content of the sample, and the value of \gamma, 12.1 +- 0.3 mJ/mole K2, was very high. These facts would suggest that the high-temperature side of a broadened superconducting transition had been mistakenly attributed to _Cg_, and _Cg_. The fact remains, however, that the heat capacity was the same in zero field and in 600 Oe in this experiment. In this respect, these results are strikingly similar to those reported in Ref. 24 (see discussion in Sec. III.2 and Ref. 25), but there are the additional complications that a continuous heating method was used because of the large self-heating, and the temperature scale was based on an extrapolated resistance-temperature relation for a carbon thermometer.
+
+The superconducting transitions shown in Figs. 3-5 are appreciably broadened, and it is not clear that they would be complete even at 0 K. To provide a basis for estimating the fraction of the sample that participates in the transition to the superconducting state, we have compared the experimental zero-field heat capacities with a "smeared out" BCS6 transition. With the assumption that strain produces a distribution of _T_e values such that _f_(_T_e)_dT_e is the fraction of the sample for which the transition occurs between _T_e and _T_e +_dT_e, the total _Cg_ at temperature T becomes
+
+\[C_{g}(T) = \int_{T}^{\infty}\!f(T_{\sigma})\,C_{g}(T_{\sigma},T)\,dT_{\sigma}\] (2) \[+ \int_{0}^{T}\!f(T_{\sigma})\,C_{g}(T)\,dT_{\sigma}\;\;.\]
+
+(Bucher _et al._ have used a similar approach to characterize the broadened superconducting transitions of some titanium alloys.27) Values of _Cg_(_T_e, _T_) were taken from published tables of the thermodynamic functions of BCS superconductors.28 A normalized Gaussian distribution was taken for _f_(_T_e), with _T_e the mean _T_e and _T_e the half-width of the transition, and _Cg_(_T_) was obtained by numerical integration of the right-hand side of Eq. (2). Curves corresponding to the calculated _Cg_(_T_)/_T_ values for values of _T_e and _dT_e which fit the data reasonably well are plotted in Figs. 3-5, and the corresponding _T_e and _dT_e values appear in Table II. The calculated curves are plotted together in Fig. 7 as _Cg_/_T_ vs T. The mole fraction _X_s of the sample in the superconducting state at 0 K was obtained from the 0-K intercept, and is also given in Table II.
+
+Of the polycrystalline samples, Ia shows the sharpest transition. It is a bulk superconductor
+
+Figure 7: Electronic heat capacities calculated from Eq. (2) and appearing in Figs. 3–5, plotted as _Cg_/_T_ vs T. 0–K intercepts indicate that _X_s is 1.0, 0.9, and 0.7 for samples Ia, IIa, and Ib, respectively.
+
+  with \overline{T}_{e} = 0.27 K and \delta T_{e} = 0.05 K. It is very probable that this sample is completely superconducting at 0 K, as suggested by the value derived for X_{s}, 1.0. At the other extreme, sample 1b shows the broadest transition. It may have a lower value of T_{e} and may be incompletely superconducting at 0 K. However, the fit to Eq. (2) was relatively insensitive to the values of \overline{T}_{e} and \delta T_{e}, and, in fact, a different distribution function (a Gaussian distribution function normalized to 2 with \overline{T}_{e} = 0 and \delta T_{e} = 0.42 K) fits the experimental data equally well and gives X_{s} = 1.0. Conclusions about the completeness of the superconducting transition in this sample are therefore not very well established. The transitions in samples II_a_ and II_b_ are intermediate in breadth. The values of \overline{T}_{e} are the same as that of sample Ia, and these samples are also essentially completely superconducting at 0 K. For these samples the values of \overline{T}_{e} and \delta T_{e} are much better defined than for sample Ib. Nevertheless, the discrepancy between the derived value of X_{s}(0.9) and 1.0 is probably not significant.
+
+For the single crystal, sample III, the difference between zero-field and in-field heat capacities is comparable with the scatter in the data, but it is systematic, and strongly suggestive of a superconducting transition. The breadth of the transition appears to be similar to that in sample Ia. Comparison of the data for these two samples suggests that for sample III the temperature of the maximum in the zero-field heat capacity and also the value of \overline{T}_{e} would be approximately 0.1 K.
+
+## IV Discussion
+
+### Superconducting transitions
+
+The zero-field heat-capacity data give evidence for broadened transitions to the superconducting state in all samples and show that \overline{T}_{e} is substantially higher for polycrystalline samples than for the single crystals. The breadth of the transitions and the sample-to-sample variation in \overline{T}_{e} can only be produced by inhomogeneous strains acting through the same mechanism that gives rise to the pressure dependence of T_{e}. (Inhomogeneous strains are generally expected to broaden the transition, and in the case of a highly anisotropic material like \alpha-uranium, the strains produced on cooling, by the anisotropy of the thermal contraction, could also produce a shift in \overline{T}_{e}.) The absence of sharp features in the zero-field data shows that the strains produce a continuous distribution of properties; we do _not_ have regions of a small number of different nonequilibrium phases with properties that vary discontinuously.
+
+The high values of T_{e} obtained from magnetic measurements apparently reflect the very broad transitions that occur in samples such as 1b and the tendency of such measurements to give overestimates of the fraction of the sample that is superconducting. It is worth noting that even for the single crystal the magnetic measurements seriously overestimate \overline{T}_{e}; the midpoint of the magnetically determined transition is at 0.38 K, but the calorimetric value of \overline{T}_{e} is approximately 0.1 K.
+
+Unfortunately, our measurements do not provide a value of T_{e} for a perfect single crystal of \alpha-uranium. As discussed in Sec. III, sample III, the one single crystal studied, appears to have a value of \overline{T}_{e} of approximately 0.1 K (but there is considerable uncertainty even about that). If its transition had been sharp, one could argue that because sample III is a single crystal and therefore free of the inhomogeneous strains that raise \overline{T}_{e} in the polycrystalline samples, it would exhibit the perfect-single-crystal value of T_{e}. However, because its transition is not sharp, it is clear that sample III is not free of strains, and its value of \overline{T}_{e}, approximately 0.1 K, probably represents an upper limit to that of an ideal sample.
+
+The shapes of the heat-capacity anomalies associated with the transitions to the superconducting state show that the values of T_{e} are not depressed from the 10-kbar values by a pair-breaking mechanism associated with localized moments. Consider sample Ia, for which \overline{T}_{e} = 0.27 K, as an example; if the difference between the observed \overline{T}_{e} and 2 K (the value of T_{e} at 10 kbar) were caused by localized moments present at zero pressure but not at 10 kbar, the heat-capacity discontinuity would be given by the Abzikosov-Gor'kov (AG) theory [29, 30] and would be only 25% of that predicted by the BCS theory. Actually, as shown in Fig. 3, the BCS theory accounts for the observed data rather well. In fact, the maximum _observed_ difference between C_{Bn} and C_{Bn} is almost twice as great as would be given by the AG theory even with no allowance for the broadening of the transition. Thus, these measurements rule out a pair-breaking mechanism for the pressure dependence of T_{e}.
+
+### Normal-state heat capacity
+
+As discussed in Sec. IV.1, the zero-applied-pressure values of \overline{T}_{e} for polycrystalline samples are enhanced by inhomogeneous strains through the same mechanism responsible for the pressure dependence of T_{e}. In this section we shall show that there are similar parallels between the effects of pressure and of grain size or cold work on the lattice and normal-state electronic head capacities. The pressure dependence of the electronic heat capacity is known from the measurements [4] at 10 kbar, and the pressure dependence of the elec  tronic _and_ lattice heat capacities can be calculated from thermal-expansion data. The calculation is based on the thermodynamic relation
+
+\[\alpha = - \frac{1}{V}\left( \frac{\partial S}{\partial P} \right)_{T}\]
+
+, where a is the coefficient of volume thermal expansion. The assumption that the entropy is the sum of electronic and lattice contributions makes it possible to write expressions of the form of Eq. (3) for each contribution separately. In the low-temperature limit, C_{ER} = S_{ER} = \gamma T, C_{L} = 3S_{L} = (\frac{\alpha_{2}}{5})\pi^{4}R(T/\Theta_{0})^{3}, where th0 is the Debye characteristic temperature at 0 K; these equations can be written
+
+\[\alpha_{B} = - \frac{C_{ER}}{V}\left( \frac{\partial 1\eta\gamma}{\partial P} \right)_{T}\]
+
+and
+
+\[\alpha_{L} = \frac{C_{L}}{V}\left( \frac{\partial 1\eta\Theta_{0}}{\partial P} \right)_{T}\]
+
+. For comparison with other materials it is also convenient to introduce the Gruneisen parameters
+
+\[\Gamma_{\gamma} = \left( \frac{\partial 1\eta\gamma}{\partial 1\eta V} \right)_{T}\]
+
+and
+
+\[\Gamma_{\Theta_{0}} = - \left( \frac{\partial 1\eta\Theta_{0}}{\partial 1\eta V} \right)_{T}\]
+
+, which are given by
+
+\[\alpha_{B}/\beta = \Gamma_{\gamma}C_{B}/V\]
+
+and
+
+\[\alpha_{L}/\beta = \Gamma_{\Theta_{0}}C_{L}/V\]
+
+, where b is the compressibility. Low-temperature elastic constants data9 give \beta = 1.195 \times 10^{- 12} cm2/ dyn, and Andres10 has analyzed his thermal-expansion data to obtain \alpha_{B} = - 19.7 \times 10^{- 9}T K-1 and \alpha_{L} = - 26.9 \times 10^{- 10}T^{3} K-1.
+
+Equations (4) and (6), with the zero-pressure single-crystal value of g, give \Gamma_{\gamma} = - 22.4 and
+
+\[\left( \frac{\partial 1\eta\gamma}{\partial P} \right)_{T} = 2.71 \times 10^{- 9}\;{\rm atm}^{- 1}\]
+
+(see Ref. 31). When itspressure dependence is neglected, the latter quantity gives 12.0 mJ/mole K2 for the 10-kbar value of g, in reasonable agreement with the calorimetric value,4 12.2 mJ/mole K2. Our g values for polycrystalline samples at zero pressure, and those reported by Crangle and Temporal,13 are higher than the single-crystal values, showing that the effect of the internal strains on g corresponds to that of a net positive pressure. In this respect, g behaves in the same way as does T_{o}.
+
+The lattice heat capacity was not determined in our measurements, and no other heat-capacity measurements on a single crystal have been reported. However, since values of th0 calculated from elastic constants are generally in good agreement with those determined calorimetrically,32 it is reasonable to take the value derived33 from the zero-pressure elastic constants,9 th0 = 248 K, as characteristic of single-crystal a-uranium at zero pressure. Use of this value with Eqs. (5) and (7) gives
+
+\[\left( \frac{\partial 1\eta\Theta_{0}}{\partial P} \right)_{T} = - 2.66 \times 10^{- 9}\;{\rm atm}^{- 1}\]
+
+and \Gamma_{0} = - 21.9, which corresponds to an unusually strong pressure dependence and, furthermore, to an increase in lattice heat capacity with increasing pressure.
+
+For a-uranium the determination of th0 from calorimetric data is complicated by the high value of g and by the relatively small temperature interval in which C_{L} \propto T^{3}. In such cases an accurate value of th0 can be obtained only if the data is of high accuracy and if the analysis takes into account the higher-order terms in C_{L}. Both of these criteria appear to have been met by Flotow and Osborne,23 who found th = 222 K for a polycrystalline sample. This value of th0 corresponds to a lattice heat capacity that is 40% greater than that calculated from the elastic constants for a single crystal. Further evidence that the zero-pressure lattice heat capacity increases with decreasing grain size is provided by the measurements of Crangle and Temporal.13 They reported some uncertainty in the calibration of their thermometer, and apparently obtained th0 values from an analysis in which only the T^{3} term was included in C_{L}, a procedure that usually leads to th0 values that are too low. Nevertheless, the trend in their th0 values is probably significant. They found th0 values of 210 K for a pseudo-single-crystal and 203 and 195 K for two polycrystals. Thus, the available data show that the strains present in polycrystalline samples also affect the lattice heat capacity in a way that corresponds to a net positive pressure.
+
+In the foregoing discussion of the lattice heat capacity we have assumed that the negative T^{3} term in the thermal expansion and the thermodynamically related pressure-dependent T^{3} term in the heat capacity are phonon contributions. A different model in which these terms are magnetic in origin and associated with 5f moments has been considered by a number of authors. Geballe _et al._1 suggested that the negative thermal expansion below 43 K could be a manifestation of the gradual transfer of 0.04 electrons per uranium atom to a  5f band. The associated magnetic moments would limit Cooper pair formation, but application of pressure would raise _T_e by depopulating the 5f states. Gardner and Smith18 suggested that the magnetic moments might be in the form of a spin-density wave. Andres16 considered the possibility that the "anomalous" T3 terms are associated with spin-wave excitations in an antiferromagnetic structure, and Crangle and Temporal13 used the entropy associated with the 43-K heat-capacity anomaly to estimate a magnetic moment of 0.06 Bohr magneton per uranium atom. This "magnetic model" for a-uranium has a number of very attractive features, but it is deficient in other respects and, most importantly, there is no independent evidence for the existence of magnetic moments; what little direct evidence for magnetic moments10 existed at one time was apparently11 spurious. As arguments against the magnetic model we cite the following:
+
+(a) Antiferromagnetic spinwaves give rise to a T3 heat capacity only in the absence of an anisotropy field. This situation is realized only rarely and it seems unlikely that it would occur in a-uranium.
+
+(b) For an antiferromagnet with _dT__N_/_dp_ < 0 and pressure-independent magnetic moments, one can understand an increase in the magnetic heat capacity with increasing pressure at T < T_{N}. The magnetic model for a-uranium, however, requires the magnetic moments to _decrease_ steadily with increasing pressure, disappearing completely by about 10 kbar. In this case it is not clear how the _magnetic_ heat capacity can increase with increasing pressure.
+
+(c) Magnetic moments of substantial magnitude are required to account for the entropy in excess of the lattice and phonon entropy, but no evidence from either neutron-diffraction or magnetic-susceptibility studies supports their existence.
+
+Crangle and Temporal13 estimated an excess entropy of 0.08R, at a temperature just above the 43-K heat-capacity anomaly, but this estimate was based on the subtraction of an approximately T3 lattice heat capacity that gave zero excess heat capacity below 30 K. Comparison of Flotow and Osborne's heat-capacity data23 with th0 calculated23 from the elastic moduli shows that there is an excess heat capacity of 0.05T3 mJ/mole K which gives an additional contribution to the excess entropy of 0.05R at 30 K or 0.13R at 40 K. Although the early neutron-diffraction measurements10 showed extra reflections that were tentatively taken as evidence for magnetic structure, they were not observed in the more recent work,11 which was interpreted as showing the absence of magnetic structure. There is also no evidence for localized moments in the susceptibility data.12,19 (d) As discussed in Sec. IV.1, the form of the heat-capacity anomalies associated with the zero-pressure transitions shows that magnetic moments are not important in limiting T_{c}.
+
+If the anomalous T3 terms in the heat capacity and the thermal expansion originate in an unusual pressure dependence of the phonon spectrum, one would expect them to be reflected in the pressure dependence of the elastic moduli. For six of the nine independent elastic moduli the pressure dependence is not known, but from measurements9 of the pressure dependence of the velocities of certain pure longitudinal modes Fisher34 has derived values for the pressure coefficients of c11, c22, and c33. The pressure coefficients are all positive, and these modes therefore make positive contributions to C0, However, the value of C0 will be dominated by contributions from transverse modes, which could be negative. In fact, calculations for simple force-constant models have shown that negative contributions to C0 are possible and are most probable for transverse modes.35,36 Thus, it seems possible that the negative value of C0 is associated with the phonon spectrum, but there is no independent experimental evidence capable of testing that possibility at this time.
+
+### Possible relation between pressure dependences of g,Th0, and T_{c}
+
+The pressure derivatives of g, Th0, and T_{c} for a-uranium are all unusual in that each is remarkably large in magnitude and abnormal in sign. Furthermore, there is clear evidence, particularly in the cases of g and T_{c}, that the inhomogeneous stresses in polycrystalline samples have the same effect as a hydrostatic pressure. These observations suggest that the pressure derivatives of g, Th0, and T_{c} are related. In seeking a theoretical basis for a correlation, we start with McMillan's expression37 for T_{c} for a BCS superconductor,
+
+\[T_{c} = \frac{\Theta_{0}}{1.45}\exp\left( - \frac{1.04(1 + \lambda)}{\lambda - \mu^{*}(1 + 0.62\lambda)} \right),\]
+
+in which l is the electron-phonon coupling parameter, _m_* is the effective Coulomb repulsion between electrons, and Th0 is taken as a measure of the average phonon frequency. [Equation (8) was derived for a particular phonon spectrum, but is not expected to be sensitive to the details of the phonon spectrum for l < 1.37] The electron-phonon coupling constant is also related to g by
+
+\[\gamma = \gamma_{b}(1 + \lambda),\]
+
+where g is the "band-structure" value of g, i.e., not including phonon-enhancement effects. Fur  thermore, there is a semiempirical correlation between l and th0. The value of l depends on the phonon spectrum through the relation
+
+\[\lambda = N(0)\left\langle \delta^{2} \right\rangle/M\left\langle \omega^{2} \right\rangle\text{,}\]
+
+where _N_(0) is the band-structure density of electronic states, d is a matrix element, connecting different electronic states, of the change in crystal potential when one atom is removed, and \left\langle \omega^{2} \right\rangle is an average of the square of the phonon frequencies. McMillan noticed on a purely empirical basis that _N_(0)\left\langle \delta \right\rangle^{2} was constant for a number of bcc-transition metals and that the values of l were determined by the phonon factor _M_(_a_2).37 Since then, several authors have obtained approximately this result on a theoretical basis.38-40 In fact, the term \left\langle \omega^{2} \right\rangle is the ratio of weighted averages of o and _o_-1 and should ideally be evaluated using detailed information on the phonon spectrum. In the absence of such information, however, we shall used Th0 for \left\langle \omega^{2} \right\rangle and apply the correlation in the form
+
+\[\lambda \propto \Theta_{0}^{- 2}\text{.}\]
+
+Since th0 is determined primarily by the very-low-frequency transverse modes, whereas it is typically frequencies _o_~6_T_e/_k_ that are most heavily weighted41 in determining _T_e, it is clear that th0 is not the best measure of the phonon spectrum on which to base the correlation. On the other hand, heat-capacity data at a temperature T are most sensitive to frequencies _o_~4_kT/_k_, and the data in the vicinity of 1-2 K usually give fairly accurate values of th0, showing that in most cases th0 provides a reasonable approximation to the frequency spectrum into the region of interest. Further-more, the approach represented by Eq. (11) has been used successfully in a number of studies of _T_e for transition metals when more detailed data have not been available.37-40 In applying Eqs. (8)-(11) to the pressure dependence of _T_e we shall neglect the possible pressure dependences of quantities such as _m_*, g, _N_(0)\left\langle \delta^{2} \right\rangle (some of which are discussed in Ref. 42), on the assumption that their contributions to _dT_e/_dp_ are of ordinary magnitude and therefore relatively unimportant in _a_-uranium. Equations (8), (9), and (11) suggest that the usual pressure dependences of the properties of _a_-uranium arise from an unusual pressure dependence of the phonon spectrum which is reflected in _d_g/_dp_ and _dT_e/_dp_ through the dependence of l on the phonon frequencies.
+
+In an attempt to make the correlation between g, _th_, g, and _T_e quantitative, we consider the values of these parameters and of l and _m_* at 0 and 10 kbar. In the following, we distinguish the values of these parameters at the different pressures by the value of the pressure, in kbar, in parentheses following the symbol for the parameter. The theoretical approximations inherent in Eqs. (8)-(11) of course limit the accuracy that can be expected in a quantitative comparision, and in addition there are significant uncertainties in some of the values of g, _th_0, and _T_e. The latter include the uncertainty in _T_e(0) and the fact that the thermal-expansion data16 give only the zero-pressure value of _d_th_0/_dp_, which was assumed pressure independent to estimate th0. Furthermore, in the measurement4 of _g_(10), the pressure was deduced from the calorimetrically observed _T_e and _T_e-_p_ data obtained by magnetic measurements. Magnetic measurements, however, usually overestimate _T_e. Furthermore, the most recent data15 of this kind suggest the existence of a structure in the _T_e-_p_ relation that introduces an additional complication into the comparison. The values of the "experimental" parameters that we have chosen are as follows: _g_(0)=9.14, _g_(10)=12.2 mJ/mole K2; _th_0(0)=248, _th_0(10)=190 K; _T_e(0)=0.1, _T_e(10)=2.3 K. One obvious way to proceed would be to use Eqs. (9) and (11) with the values of g and _th_0 to determine _l_(0) and _l_(10), and then use these values of l with the values of _T_e to obtain _m_*(0) and _m_*(10). The correlation would be judged valid if the derived values of _m_* were reasonable. In fact, this procedure leads to implausibly large values of _m_* [_m_*(0)=0.41 and _m_*(10)=0.45], but in view of the uncertainties in the experimental parameters and in the theory, we believe it is too severe a test of the existence of a correlation. The values _l_(0)=0.4 and _l_(10)=0.7, found by a less systematic approach, do agree reasonably well with the experimental parameters and do give reasonable values of _m_*. They correspond to _g_(10)/_g_(0)=1.21 and _th_0(0)/_th_0(10)=1.75, for which the experimental data give 1.34 and 1.70, respectively. The derived values of _m_* are _m_*(0)=0.16 and _m_*(10)=0.17. Typical values of _m_* are 0.10 for simple metals and 0.13 for transition metals.37 In the light actinide metals, the more limited spatial extent of the 5f wave functions, compared with the transition-metal d wave functions, is expected to enhance _m_*, and a value of 0.16 seems quite reasonable for _a_-uranium. The agreement of the l values obtained here with other independent estimates provides additional evidence supporting the plausibility of our analysis; the value _l_(10)=0.9 +-0.2 has been obtained by comparing the high- and low-temperature g values, and a related estimate of _g_(0) gave _l_(0)=0.4.43 In summary, the pressure dependences of g, _th_0, and _T_e are consistent with a common origin in a pressure dependence of the phonon spectrum.
+
+  
+
+## V Conclusion
+
+The occurrence of bulk superconductivity in polycrystalline samples of \alpha-uranium at zero pressure has been demonstrated. The relation of these results to earlier work, some of which was also done in this laboratory, is not clear, but we believe the superconductivity of these samples is now well established. The zero-pressure critical temperature of single-crystal \alpha-uranium is still not well defined, but an upper limit of 0.1 K is probable. The average value of T_{e} is enhanced in small-grained and cold-worked samples, presumably by the same mechanism for the large positive value of dT_{e}/dP. The heat-capacity anomalies associated with the transitions in the polycrystalline samples have the shape expected for broadened transitions in BCS superconductors, showing that pair-breaking mechanisms are not responsible for the depression of T_{e} relative to the 10-kbar value. This provides an additional argument against the "magnetic" model for the pressure dependence of T_{e}. Direct evidence that the inhomogeneous stresses in polycrystalline samples affect \gamma in the same way as hydrostatic pressure, and indirect evidence of a similar correlation for the lattice heat capacity were found. It is pointed out that the magnitudes and signs of dT_{e}/dp, d\gamma/dp, and d\Theta_{o}/dp, each of which is unusual in \alpha-uranium, are consistent with their having a common origin in a pressure dependence of the phonon spectrum. We note that in this model the population of 5f states may still play a fundamental role in producing the unusual superconducting properties of \alpha-uranium, but the mechanism for their influence is through their effect on bonding and the vibrational spectrum, rather than through their contribution to localized moment formation.
+
+Garland[44] has summarized and discussed other models for \alpha-uranium, including his suggestion that the unusual properties are a consequence of structure in the electronic density of states. In the model presented here, it is unnecessary to invoke unusual coupling mechanisms, pair-breaking effects, or band-structure details, but there is no independent and unambiguous evidence for the required pressure dependence of the phonon spectrum. That pressure dependence is, however, theoretically possible and particularly reasonable for transverse modes in an open structure like that of \alpha-uranium. Furthermore, a comparison with lanthanum makes the model even more plausible; in lanthanum, which also exhibits a negative thermal expansion[45] below 37 K and a large positive value[46] of dT_{e}/dp, there _is_ evidence, from electron tunneling experiments,[47] for a softening of the transverse phonons with increasing pressure.
+
+Another shortcoming of the model proposed here is that there is no obvious relation to the other striking property of \alpha-uranium, the isotope effect. In that connection, however, it is interesting to note that there is an empirical correlation between dT_{e}/dp and the isotope effect.[44] Although no theoretical basis for such a correlation has been identified, it appears possible that one may be recognized in the future.
+
+## Acknowledgment
+
+We are very grateful to T. H. Geballe, T. F. Smith, and J. M. Schreyer for providing samples, to A. Peterson for technical assistance and to T. H. Geballe, T. F. Smith, and L. Brewer for interesting and informative discussions.
+
+## References
+
+* [+]Work supported by the U. S. Energy Research and Development Administration.
+* [+]Present Address: Argonne National Laboratory, Materials Science Division, Argonne, Illinois 60439.
+* [2] T. H. Geballe, B. T. Matthias, K. Andres, E. S. Fisher, T. F. Smith, and W. H. Zachariasen, Science 152, 755 (1966).
+* [3] C. Palmy and E. S. Fisher, Solid State Commun. 8, 653 (1970).
+* [4] E. S. Fisher, T. H. Geballe, and J. M. Schreyer, J. Appl. Phys. 39, 4478 (1968).
+* [5] J. C. Ho, N. E. Phillips, and T. F. Smith, Phys. Rev. Lett. 17, 694 (1966); also reported in _Proceedings of the Tenth International Conference on Low-Temperature Physics, Moscow, 1966_, edited by N. V. Zavaritsky and I. P. Krylov (Vintif, Moscow, 1967), Vol IID, p. 189.
+* [6] R. D. Fowler, J. D. G. Lindsay, R. W. White, H. H. Hill, and B. T. Matthias, Phys. Rev. Lett. 19, 892 (1967).
+* [7] J. Bardeen, L. N. Cooper, and J. R. Schrieffer, Phys. Rev. 108, 1175 (1957).
+* [8] A. F. Shuch and H. L. Laquer, Phys. Rev. 86, 803 (1952).
+* [9] E. S. Fisher and H. J. McSkimin, Phys. Rev. 124, 67 (1961).
+* [10] E. S. Fisher and D. Dever, Phys. Rev. 170, 607 (1968).
+* [11] C. S. Barrett, M. H. Mueller, and R. L. Hitterman, Phys. Rev. 129, 625 (1963).
+* [12] G. H. Lander and M. H. Mueller, Acta Crystallogr. B 26, 129 (1970).
+* [13] M. O. Steinitz, C. E. Burleson, and J. A. Marcus, J. Appl. Phys. 41, 5057 (1970).
+* [14] J. Crangle and J. Temporal, J. Phys. F 3, 1097 (1973).
+* [15] E. S. Fisher and D. Dever, Solid State Commun. 8, 649 (1970).
+* [16] T. F. Smith and E. S. Fisher, J. Low Temp. Phys. 12, 631 (1973).
+* [17] K. Andres, Phys. Rev. 170, 614 (1968).
+
+ * [25] A. Hough, J. A. C. Marples, M. J. Mortimer, and J. A. Lee, Phys. Lett. A 27, 222 (1968).
+* [26] W. E. Gardner and T. F. Smith, Phys. Rev. 154, 309 (1967).
+* [27] J. W. Ross and D. J. Lam, Phys. Rev. 165, 617 (1968).
+* [28] E. S. Fisher, Trans. AIME (Am. Inst. Min. Metall. Pet. Eng.) 209, 882 (1957).
+* [29] C. W. Dempsey, J. E. Gordon, and R. H. Romer, Phys. Rev. Lett. 11, 547 (1963).
+* [30] S. L. Ruby, G. M. Kalvins, B. D. Dunlap, G. K. Shenoy, D. Cohen, M. B. Brodsky, and D. J. Lam, Phys. Rev. 184, 374 (1969).
+* [31] H. E. Flotow and D. W. Osborne, Phys. Rev. 151, 564 (1966).
+* [32] N. E. Phillips, J. C. Ho, and T. F. Smith in _Proceedings of the Tenth International Conference on Low-Tem-perature Physics, Moscow, 1966_, edited by N. V. Zavartisky and I. P. Krylov (Viniti, Moscow, 1967), Vol. IIB, p. 189.
+* [33] Measurements made on other samples, including \beta-uranium samples, at about the same time as those reported in Refs. [4] and [24] showed no anomalous behavior. This seems to rule out errors in thermometer calibration and errors associated with the self-heating in uranium samples. The shape of the anomaly suggests that it might be a combination of the nuclear heat capacity and the high-temperature side of a broadened superconducting transition. However, unless the nature of the superconductivity was very different from that encountered in the new measurements, one would have to assume that the solenoid used to apply a magnetic field to the sample failed to function; however, like the thermometer, it was used successfully in other experiments at about the same time.
+* [34] J. E. Gordon, H. Montgomery, R. J. Noer, G. R. Pickett, and R. Tob6n, Phys. Rev. 152, 432 (1966).
+* [35] E. Bucher, F. Heiniger, and J. Muller, in _Proceedings of the Ninth International Conference on Low-Temper-ature Physics, Columbus, Ohio, 1965_, edited by J. G. Daunt _et al._ (Plenum, New York, 1965) p. 482.
+* [36] B. Muhlschlegel, Z. Phys. 155, 313 (1959).
+* [37] A. A. Abrikosov and L. P. Gor'kov, Zh. Eksp. Teor. Fiz. 39, 1781 (1960) [Sov. Phys.--JETP 12, 1243 (1961)].
+* [38] S. Skalski, O. Betheder-Matlibet, and P. R. Weiss, Phys. Rev. 136, A1500 (1964).
+* [39] The values of \Gamma_{\gamma} and \Gamma_{\theta_{0}} obtained were different from those in Ref. [16] primarily because different values of the zero-pressure heat capacities were used.
+* [40] See, for example Norman E. Phillips, Crit. Rev. Solid State Sci. 2, 467 (1971).
+* [41] J. R. Neighbours (unpublished), quoted in Ref. [9].
+* [42] E. S. Fisher, in _The Actinides: Electronic Structure and Related Properties_, edited by H. A. Freeman and J. B. Darby, Jr. (Academic, New York, 1974), Vol. II, p. 289.
+* [43] T. H. K. Barron, Ann. Phys. (N. Y.) 1, 77 (1957).
+* [44] M. Blackman, Philos. Mag. 3, 831 (1958); Proc. Phys. Soc. Lond. 74, 17 (1959).
+* [45] W. L. McMillan, Phys. Rev. 167, 331 (1968).
+* [46] J. Hopfield, Phys. Rev. 186, 443 (1969).
+* [47] S. Barisie, J. Labbe, and J. Friedel, Phys. Rev. Lett. 25, 919 (1970).
+* [48] K. H. Bennemann and J. W. Garland, in _Superconductivity in d- and \it{\it{\it{\it{\it{\it{\it{\it{\it{\it{\it{\it{\it{\it{\it{\it{\it{\it{\it{ \it{ \it{ \it{       }}}}}}}}}}}}}}}}_, edited by D. H. Douglass (American Institute of Physics, New York, 1972), p. 103.
+* [49] G. Bergmann and D. Rainer, Z. Phys. 263, 59 (1973).
+* [50] J. W. Garland and K. H. Bennemann, in _Superconductivity in d- and \it{\it{\it{\it{\it{\it{\it{\it{\it{\it{\it{\it{\it{\it{\it{\it{\it{\left.}}}}}}}}}}}}}}}_, edited by D. H. Douglass (American Institute of Physics, New York, 1972), p. 255.
+* [51] S. D. Bader and G. S. Knapp, Phys. Rev. B 11, 3348 (1975).
+* [52] J. W. Garland, NRL Report (1969) (unpublished).
+* [53] K. Andres, Phys. Rev. 168, 708 (1968).
+* [54] W. E. Gardner and T. F. Smith, Phys. Rev. 138, A484 (1965); T. F. Smith and W. E. Gardner, _ibid._ 146, 291 (1966).
+* [55] H. Wahl, A. Eichler, and J. Wittig, Phys. Rev. Lett. 31, 1391 (1973).
+
+ 

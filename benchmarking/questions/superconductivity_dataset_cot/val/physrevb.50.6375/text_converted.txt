@@ -1,0 +1,396 @@
+# Thermal conductivity of impurity-doped high-T_(c) superconductors
+
+S. T. Ting, P. Pernambuco-Wise, and J. E. Crow
+
+National High Magnetic Field Laboratory, Florida State University,
+Tallahassee, Florida 32306
+
+25 April 1994
+
+###### Abstract
+
+The thermal conductivity K(T) of polycrystalline YBa₂Cu₃O₇ with M=Zn and
+Al (0 ≤x≤ 0.1) and Y_(1 − y),R_(y)Ba₂Cu₃O₇ with R=Pr and Gd (0 ≤y≤ 1.0)
+has been measured for temperatures 1.2 ≤T≤ 200 K. In the pure material,
+K(T) decreases slightly with decreasing temperature above T_(c) and
+below T_(c) there is a strong enhancement of K(T) reaching a maximum at
+∼ 50 K followed by a sharp decrease. At temperatures below 10 K a T²
+dependence is evident similar to behavior reported for amorphous systems
+with glasslike phonon scattering on the tunneling states. Doping with Zn
+or Pr rapidly depresses T_(c) and also depresses the maximum in K(T)
+even at concentrations that remain superconducting. This effect is
+observable to a lesser degree for the Al and Gd dopants. Comparisons
+between the K(T) behavior for impurities that do not depress T_(c) with
+those that diversely alter the superconducting properties are presented
+together with an analysis of the data using the Tewordt-Wolkhausen (TW)
+theory.
+
+pacs: 0163-1829/94/50(9)/6375(7)/506.00
+
+## I Introduction
+
+Thermal conductivity has been extensively studied in high-T_(c)
+superconductors due to it advantage in probing the scattering processes
+of phonons and electrons in both normal and superconducting states. In
+addition, it can also provide invaluable information on the
+superconducting energy gap, excitation spectrum and lifetimes, and
+electron-phonon coupling parameters which are still being vigorously
+pursued by theorists and experimentalists in these materials.
+
+There have been many reports [1] of thermal conductivity measurements in
+high-T_(c) superconductors, however, these studies have almost
+exclusively concentrated on pure polycrystalline and single-crystal
+samples with very few studies reporting on doped compounds. A common
+feature of K(T) for the high-T_(c) superconductors, e.g., YBa₂Cu₃O₇,
+Bi₂Sr₂CaCu₂O_(8 + δ) and Tl₁Ba₂CaCu₂O_(8 + δ), is a rapid rise with
+increasing T below T_(c), reaching a maximum at approximately T_(c)/2
+followed by a decrease and a sharp break in K(T) at T=T_(c). [1] In
+sintered samples, this maximum is approximately 20
+
+These explanations serve to illustrate the controversial nature of K(T)
+and the potential of it providing insight into the quasiparticle
+spectrum and lifetimes for these systems if a more definitive
+understanding of the T dependence of K(T) is established. The
+controversial nature of K(T) and its potential to provide indirect
+observations of quasiparticle parameters has driven our interest in
+extending these measurements to studies of impurity effects on the
+thermal conductivity. Such studies could lead to a greater insight into
+the relative contributions to K(T) and possibly indirect measurements of
+the quasiparticle spectrum within the superconducting state.
+
+In this paper, we present the results of thermal conduc tivity _K_(_T_)
+measurements in selectively doped polycrystalline YBa2(Cu1-_x_M_x_)O7
+with M = Zn and Al (0 <= x <= 0.1) and Y1-_y_R_yBa2Cu3O7 with R = Pr and
+Gd (0 <= y <= 1.0) for temperatures 1.2 <= T <= 200 K along with
+comparisons and a theoretical analysis of the data using the
+Tewordt-Wolkhausen (TW) theory.5
+
+## II Experiment
+
+Polycrystalline samples of composition YBa2(Cu1-_x_M_x_)O7 with M = Zn
+and Al (0 <= x <= 0.1) and Y1-_y_R_yBa2Cu3O7 with R = Pr and Gd (0 <= y
+<= 1.0) were prepared using standard solid-state reaction techniques.6,7
+The final specimens were checked by x-ray diffraction for phase purity
+and preferred orientation. In addition, electrical transport and
+low-field magnetization was measured to better characterize the samples.
+These measurements have indicated that all samples used in this study
+were single phase with less than 2
+
+The thermal conductivity was measured using a conventional four-probe
+heat-pulse method.1 A heater (metal film or resistor) was attached to
+one end of the sample while the other end was firmly epoxied (or
+soldered) to a variable temperature heat sink. The temperature gradient
+across the sample was measured using a differential chromel-constantan
+thermocouple for 25 <= T <= 250 K and a pair of calibrated carbon
+thermometers for T < 25 K. The temperature difference D_T_ during the
+measurements was typically between 0.3 and 1.0 K depending on the
+temperature of the sample.
+
+## III Results and Discussion
+
+In Fig. 1(a), we present _K_(_T_) for two fully oxygenated YBa2Cu3O7
+polycrystalline samples with densities of 4.85 and 5.31 g/cm3. Ceramic
+samples typically have densities less than the theoretical value ( 6.4
+g/cm3) due to voids which may act as scattering centers for phonons and
+modify the measured _K_(_T_). Our results clearly show that the
+magnitudes of _K_(_T_) varies with density, however, the general
+features of _K_(_T_), i.e., the rapid increase of _K_(_T_) at T_(c) and
+the peak at T  _T_c_/2, are quite similar. These common features can be
+more clearly observed by plotting the normalized thermal conductivity,
+_K_(_T_)/_K_(180 K), vs T as shown in Fig. 1(b). The _K_(_T_)/_K_(180 K)
+curves of different densities nearly overlap each other, indicating that
+the intrinsic temperature dependence of _K_(_T_) is given by the
+normalized _K_(_T_)/_K_(180 K) and this quantity is relatively
+insensitive to void density.
+
+In the temperature range 100-180 K, _K_(_T_) is essentially temperature
+independent. At T = T_(c), a sudden increase in thermal conductivity
+with decreasing T reaching a peak at T  50 K is evident, with _K_(_T_)
+falling off at lower temperatures. These features are similar to those
+reported by other groups.1 We assume a conventional additive thermal
+conductivity arising from charge carriers, i.e., electrons (holes), and
+phonons, i.e., _K_(_T_)=_K_(_T_)+_K_(_T_). The charge carrier
+contribution to the _K_(_T_) can be roughly estimated using the WF law
+in conjunction with the measured electrical resistivity, i.e.,
+K_(*) = L₀T/ρ, where L₀ = 2.45 × 10⁻⁸ W O K-2 is the Lorentz number and
+r is the electrical resistivity. We find that K_(*)/K ≤ 0.2 for both
+densities at T = 100 K. Even though such an estimate is crude and could
+be slightly in error, we take the position as most previous researchers
+have done that the dominant contribution to _K_(_T_) is due to phonon
+conduction. This position is consistent with other studies reported on
+_K_(_T_), however, as indicated earlier, it is not the only
+interpretation. Our analysis assuming that _K_(_T_) is dominated by
+phonon conduction is consistent with _K_(_T_) measurements of oxygen
+deficient, insulating samples (to be discussed) and a comparison to
+results for the superconducting samples.
+
+Within these assumptions, the sharp increase in _K_(_T_) just below
+T_(c) can be attributed to the formation of Cooper pairs. These pairs do
+not scatter phonons, thus the mean free path of phonons will increase
+and K_(p) is enhanced. As the temperature is lowered, however, the
+population of phonons is reduced and contributions such as point defects
+and boundary scattering become increasingly important, thus causing a
+fall off in _K_(_T_).
+
+A fit to the data shown in Fig. 1(a) below 10 K gives a T2 behavior that
+has also been observed in polycrystalline YBa2Cu3O7 (Ref. 8) and single
+crystals YBa2Cu3O7, HoBa2Cu3O7 and Bi2Sr2CaCu2O8.9-11 However, devia
+
+Figure 1: _K_(_T_) vs T of YBa2Cu3O7 with d = 5.31 and 4.85 g/cm3. (a)
+The solid line is the theoretical fitting obtained from the TW theory.
+(b) The normalized thermal conductivity, _K_(_T_)/_K_(180 K), vs T.
+
+tions from a T² dependence for K(T) has been reported for T < 2 K in
+some polycrystalline YBa₂Cu₃O₇ Bi₂Sr₂CaCu₂O₈ samples. [1, 8] The
+numerous reports of a T² dependence for K(T) as T → 0 for numerous
+high-T_(c) superconductors would suggest that this behavior of K(T) may
+be a common feature to all high-T_(c) superconductors. It is known that
+glassy materials shown an unusual T² dependence in their thermal
+conductivity at low temperatures. [12, 13] This behavior has been
+attributed to the resonant scattering of phonon on two-level tunneling
+states which result from the tunneling of certain atoms or groups of
+atoms within a double-well potential. [14, 15] The same behavior of K(T)
+in high-T_(c) superconductors may indicate a similar mechanism is
+present.
+
+It is known that in YBa₂Cu₃O_(6 + δ), T_(c) decreases with decreasing
+oxygen content eventually going to zero at δ = 0.4 where an
+orthorhombic-to-tetragonal structural transition occurs. This structure
+change with the concomitant change of the phonon spectrum [16] combined
+with a reduction of free charge carriers obviously impacts the behavior
+of K(T). In Fig. 2, we present K(T) vs T for YBa₂Cu₃O_(6 + δ) for δ ≃ 1
+and 0. The maximum in K(T) below T_(c) disappears in the deoxygenated
+nonsuperconducting sample as would be expected due to the reduction of
+free carriers and the absence of Cooper pairs. The magnitude also
+decreases consistent with our previous estimate of the charged carrier
+contribution to K(T). Since the phonon spectrum and phonon relaxation
+may change due to the changes in structure, this comparison may be
+fortuitous.
+
+In order to extract electron-phonon coupling strengths and estimates of
+other parameters from K(T), we assume that it is dominated by phonon
+conduction and we fit our experimental K(T) data on the fully oxygenated
+compound using a TW theory, [5]
+
+$$K_{p}(t) = At^{3}\int_{0}^{\infty}dx\frac{x^{4}e^{x}}{(e^{x}\!-\!1)^{2}}[1 + \alpha t^{4}x^{4}\!+ \beta t^{2}x^{2}$$
+(1)
++γνσ(x, y)]⁻¹ ,
+
+where A, α, β, and γ represent different phonon-scattering processes;
+boundary, point defects, sheetlike faults, and electrons, respectively.
+Here we assume that the electron conduction is a featureless, smooth
+function of T and only impacts our analysis through a slight altering of
+the fitted parameters.
+
+A fit to K(T) using TW theory, i.e., Eq. (1), is shown in Fig. 1(a).
+From this fit, we obtain A = 3.5, α = 80.8, β = 43.9, and γ = 54.1.
+Using the formula of Ref. 5, i.e.,
+
+A = (4π/3)^(1/3)(2π)⁻¹(k_(B)²θ_(D)/ℏa²)(T_(c)/θ_(D))³L_(b) ,
+(2)
+γ ≃ (π/2)(k_(B)T_(c)/T)(L_(b)/a)λ_(ln) ,
+(3)
+
+where a is the lattice constant, θ_(D) is the Debye temperature, L_(b)
+is the mean free path for boundary scattering of phonons, T is the
+effective hopping matrix element for a two-dimensional tight-binding
+band of electrons, and λ_(ln) is the coupling strength between electrons
+and longitudinal-acoustic phonons, we estimate the value of L_(b) to be
+≃20 μm from Eq. (2) and λ_(ln) to be ≃0.04 from Eq. (3). In this
+estimation, we have used θ_(D) = 360 K, a = 4 A, and T = 5000 K. The
+value of L_(b) is consistent with the measured particle size determined
+from SEM measurements. The value of λ_(ln) is consistent with the
+0.03−0.08 reported by Peacor _et al._[17] on single crystals.
+
+For selective doping by impurities that alter the superconductivity, the
+interesting features seen in K(T) and associated with superconductivity
+are dramatically modified. In Fig. 3(a), we present the normalized
+thermal conductivity, K(T)/K(180 K), vs T for Y_(1 − γ)Pr₂Ba₂Cu₃O₇ with
+y = 0.0, 0.1, 0.2, and 0.4. The anomaly in K(T) at T ∼ T_(c)/2 is
+suppressed with increasing Pr concentration. The compound with y= 0.1
+shows a small maximum in K(T) below T_(c); however, no clear enhancement
+can be observed for y = 0.2 and 0.4 which are still superconducting with
+T_(c) ≃ 70 and 45 K, respectively.
+
+Similar features in K(T) also appear in Zn-doped YBa₂Cu₃O₇, as
+illustrated in Fig. 3(b). Zn has almost the same radius as Cu (0.75 and
+0.73 A, respectively) and the same ionic valence (+2); however, Zn has a
+filled 3d[10] shell, and it is nonmagnetic. The rapid depression of with
+the substitution of Zn for Cu has been attributed to a localization of
+the Cu²⁺d holes. This interpretation is supported by measurements of the
+electron-spin-resonance absorption and indirectly by transport,
+heat-capacity, and magnetization studies.[7] There is a small
+enhancement of K(T) below T_(c) for 1
+
+In order to more thoroughly explore the effect of impurities on the
+behavior of K(T) and determine that the observed change in K(T) for Zn
+and Pr doping is not due to a simple impurity-scattering mechanism and
+does reflect a global change of the excitation spectra, we have also
+measured K(T) of other samples in which the dopants are known to have
+little effect on T_(c). It is well known that the transition temperature
+and magnetic ordering of Cu spins in Cu-O planes are essentially
+unchanged by substituting other rare-earth elements (except Ce, Tb, and
+Pr) into the Y sites in YBa₂Cu₃O₇. These rare-earth elements are
+believed to have a negligible exchange interaction between the carriers
+in the adjacent Cu-O planes which are intimately associated with the
+superconductivity and the 4f electrons, a high transition temperature (∼
+92 K) is thus maintained. A comparison of T_(c) vs doping concentration
+for Pr and Gd-doped YBa₂Cu₃O₇ is shown in Fig. 4(a). The lack of
+sensitivity of T_(c) to rare-earth doping may imply these rare-earth
+elements do not alter other superconducting parameters, e.g., the energy
+gap or Cooper pair formation. We could thus expect that the substitution
+of Y by Gd would not dramatically affect the behavior of K(T) below
+T_(c). This is indeed the case as shown in Fig. 5(a). Even with 70
+
+Comparing K(T) for Al- and Zn-doped YBa₂Cu₃O₇, similar statements can be
+made relative to Zn-doped YBa₂Cu₃O₇. Unlike Zn, which seems to prefer to
+substitute on the Cu-O₂ plane Cu sites,[18, 19] Al is believed to go to
+the Cu-O chain sites[18] and causes only a slight depression of T_(c) as
+seen in Fig. 4(b). We could therefore expect that the behavior of K(T)
+for the Al-doped YBa₂Cu₃O₇ would be similar to that of Gd dopants, i.e.,
+giving less suppression of K(T) below T_(c). In Fig. 5(b), we present
+K(T)/K(180) K vs T for 2 and 10
+
+A comparison of the changes in K(T) for Pr- (Zn) and Gd- (Al) doped
+high-T_(c) superconductors suggests that the dramatic modification of
+K(T) for those impurities that depress T_(c) can not be simply related
+to changes in phonon-impurity scattering. Using the same fitting
+parameters for Eq. (1) as for a fully oxygenated sample, we note that if
+T_(c) is scaled from 93 to 70 to 50 K, the corresponding theoretical
+curves of K(T) vs T/T_(c) fall on a universal curve (Fig. 6). This
+indicates that if we introduce impurity dopants that just shift T_(c)
+and other con
+
+Figure 4: T_(c) vs doping concentration for selective dopants; (a) for
+Y_(1 − x)R_(x)Ba₂Cu₃O₇, with R = Pr and Gd. (b) for
+YBa₂(Cu_(1 − x)M_(x))₃O₇, with M = Zn and Al.
+
+comitantly superconducting properties, e.g., gap, consistent with BCS
+theory, and the dopants do not strongly alter the relative
+contributions, then the maximum of _K_(_T_) below T_(c) should retain
+the same height as that of the pure sample and only shift in position.
+Thermal conductivity results on Pr- or Zn-doped specimens contrast
+strongly with the modeled _K_(_T_) assuming a "law of corresponding
+states" as shown in Fig. 6. Thus the changes in _K_(_T_) for Pr- and
+Zn-doped YBa2Cu3O7 must strongly alter the relative contributions and/or
+modify the simple BCS scaling between T_(c) and gap function. Certainly,
+if the electron-phonon interaction is significantly reduced due to small
+addition of impurities, the sensitivity of _K_(_T_) to the formation of
+a gap within the superconducting state would be diminished. Thus, if the
+electron-phonon interaction is "turned off," then within the TW theory
+the phonons do not "see" the gap. This is demonstrated in Fig. 7 where a
+reduction of the electron-phonon interaction leads to a rapid depression
+in the _K_(_T_) peak below T_(c). In Fig. 7(a), we present a theoretical
+fit to a 1
+
+A plausible explanation for the rapid suppression of the _K_(_T_) peak
+for dopants that diversely effect the pairing, i.e., Pr and Zn, is a
+rapid suppression of the quasiparticle gap with the reduction in T_(c)
+as predicted by Nagao _et al._20 A manageable way of simulating the
+rapid suppression of the gap or a smearing of the gap function with Zn
+or Pr doping is to use the TW theory with a reduced gap to T_(c) ratio,
+i.e., a reduction in _kh_=D(0)/D(0)Bcs. Shown in Fig. 8, the decrease of
+_kh_ can also reduce the enhancement of _K_(_T_) below T_(c). In this
+figure, we employ the same fitting parameters obtained from the pure
+sample with _kh_=1.0 and vary _kh_ from 0.3 to 1.1. Obviously, the
+enhancement below T_(c) decreases with decreasing _kh_. There is no
+evidence of a maximum below T_(c) at _kh_=0.3, and this feature is quite
+similar to that observed in 20
+
+Figure 8: The theoretical curves of _K_(_T_) _vs_ T for YBa2Cu3O7 with
+different _kh_ values: 0.3, 0.6, 0.9, and 1.1. The enhancement of
+_K_(_T_) below T_(c) decreases with reducing _kh_ values.
+
+sults show that the impurity atoms suppress the superconducting energy
+gap $\Delta_{\rm sc}$ below that predicted using a BCS model. More
+direct evidence of the gapless behavior in nonmagnetic impurity-doped
+high-T_(c) superconductors was provided by Akimenko _et al._[24] They
+have used point-contact spectroscopy to directly probe the energy gap of
+YBa₂(Cu_(1 − x)Zn_(x))₃O₇, and observed a two-gap structure,
+$\Delta_{\rm min}$ and $\Delta_{\rm max}$. Both $\Delta_{\rm min}$ and
+$\Delta_{\rm max}$ decrease with increasing Zn content with
+$\Delta_{\rm min}$ being suppressed much faster than $\Delta_{\rm max}$.
+
+The above theoretical and experimental results support suggestion that
+the rapid decrease of K(T) below T_(c) of Pr- or Zn-doped compounds
+originates from the suppression of the superconducting energy gap. This
+rapid depression of the gap as compared to that seen in conventional,
+low-T_(c) system may be related to the extremely short coherence length
+for the high-T_(c) systems as compared to low-T_(c) systems. These
+impurities coupled with the short coherence length may lead to a
+broadening of the electronic states on both sides of the energy gap
+resulting in a decrease of the gap and enhancement of K(T) below T_(c).
+We therefore suggest that the decrease in superconducting gap causes the
+suppression of the enhancement of K(T) below T_(c) in Pr and Zn
+substitution. More experimental and theoretical work is necessary to
+clarify this conclusion, particularly on doped single crystals.
+
+K(T) below T_(c) dramatically and this can be ascribed to the reduction
+of superconducting energy gap. Contrary to Pr and Zn dopants, Gd and Al
+doping do not significantly affect the enhancement of K(T) below T_(c).
+The superconducting energy gap and electron-phonon coupling strength are
+essentially sustained in these materials.
+
+###### Acknowledgements.
+
+This work was partially supported by the National High Magnetic Field
+Laboratory and National Science Foundation through the cooperative
+agreement No. DMR 9016241.
+
+## References
+
+* [1]C. Uher, J. Superconductivity **3**, 337 (1990); C. Uher, in
+_Physical Properties of High Temperature Superconductors_, edited by D.
+M. Ginsberg (World Scientific, Teaneck, NJ, 1992), Vol. III, and
+references within. * [2]K. Mendelssohn and J. Olsen, Proc. Phys. Soc. A
+**63**, 2 (1950). * [3]S. J. Hagen, Z. Z. Wang, and N. P. Ong, Phys.
+Rev. B **40**, 9389 (1989). * [4]R. C. Yu, M. B. Salamon, J. P. Liu, and
+W. C. Lee, Phys. Rev. Lett. **69**, 1431 (1992). * [5]L. Tewordt and Th.
+Wolkhausen, Solid State Commun. **70**, 839 (1989). * [6]A. Kebede, C.
+S. Jee, J. Schwegler, J. E. Crow, T. Mihalisin, G. H. Myer, R. E.
+Salomon, P. Schlottmann, M. V. Kuric, S. H. Bloom, and R. P. Guertin,
+Phys. Rev. B **40**, 4453 (1989). * [7]C. S. Jee, D. Nichols, A. Kebede,
+S. Rahman, J. E. Crow, A. M. Ponte Conclavers, T. Mihalisin, G. H. Myer,
+I. Perez, R. E. Salomon, P. Schlottmann, S. H. Bloom, M. V. Kuric, Y. S.
+Yao, and R. P. Guertin, J. Supercond. **1**, 63 (1988). * [8]M. D. Nunez
+Regueiro and D. Castello, Int. J. Mod. Phys. B **5**, 2003 (1991). *
+[9]J. E. Graebner, L. F. Schneemeyer, R. J. Cava, J. V. Waszczak, and E.
+A. Rietman, in _High-Temperature Superconductors_, edited by M. B.
+Brodsky _et al._, MRS Symposia Proceedings No. 99 (Materials Research
+Society, Pittsburgh, 1988), p. 745. * [10]D. M. Zhu, A. C. Anderson, E.
+D. Bukowski, and D. M. Ginsberg, Phys. Rev. B **40**, 841 (1989). *
+[11]S. D. Peacor and C. Uher, Phys. Rev. B **39**, 11 559 (1989). *
+[12]A. C. Anderson, in _Amorphous Solids-Low Temperature Properties_,
+edited by W. A. Phillips (Springer-Verlag, New York, 1981), Vol. 24. *
+[13]R. C. Zeller and R. O. Pohl, Phys. Rev. B **4**, 2029 (1971). *
+[14]W. A. Phillips, J. Low Temp. Phys. **7**, 351 (1972). * [15]P. W.
+Anderson, B. I. Halperin, and C. M. Varma, Philos. Mag. **25**, 1
+(1972). * [16]R. J. Rhyne, D. A. Neumann, J. A. Gotaas, F. Beech, L.
+Toth, S. Lawrence, S. Wolf, M. Osofsky, and D. C. Gubser, Phys. Rev. B
+**36**, 2294 (1987); L. Mihaly, L. Rosta, G. Coddens, F. Mezei, G.
+Hutiray, G. Kriza, and B. Keszei, _ibid._**36**, 7137 (1987); B. Renker,
+F. Gompf, E. Gering, D. Ewert, and A. Dianoux, Z. Phys. B **73**, 309
+(1988). * [17]S. D. Peacor, R. A. Richardson, F. Nori, and C. Uher,
+Phys. Rev. B **44**, 9508 (1991). * [18]J. M. Tarascon, P. Barboux, P.
+F. Miceli, L. H. Greene, G. W. Hull, M. Eibschutz, and S. A. Sunshine,
+Phys. Rev. B **37**, 7458 (1988). * [19]G. Xiao, M. Z. Cieplak, A.
+Gavrin, F. H. Streitz, A. Bakhshai, and C. L. Chien, Phys. Rev. Lett.
+**60**, 1446 (1988); G. Xiao, M. Z. Cieplak, D. Musser, A. Gavrin, F. H.
+Streitz, C. L. Chien, J. J. Phyne, and J. A. Gotaas, Nature (London)
+**332**, 238 (1988). * [20]T. Nagao, H. Mori, F. Yonezawa, and K.
+Nishikawa, Solid State Commun. **74**, 1309 (1990). * [21]G. Roth, P.
+Adelmann, R. Ahrens, B. Blank, H. Burkle, F. Gompf, G. Heger, M.
+Hervieu, M. Nindel, B. Obst, J. Pannetier, B. Renker, H. Rietschel, B.
+Rudolf, and H. Wuhl, Physica C **162-164**, 518 (1989). * [22]N. E.
+Phillips, R. A. Fisher, R. Caspary, A. Amato, and H. B. Rodousky, Phys.
+Rev. B **43**, 11 488 (1991). * [23]J. R. Schrieffer, X. G. Wen, and S.
+C. Zhang, Phys. Rev. Lett. **60**, 944 (1988). * [24]A. I. Akimenko, G.
+Goll, I. K. Yanson, H. V. Lohneysen, R. Ahrens, T. Wolf, and H. Wuhl, Z.
+Phys. B **82**, 5 (1991). * [25]B. Renker, F. Gompf, E. Gering, G. Roth,
+W. Reichardt, D. Ewert, and H. Rietschel, Physica C **153-155**, 272
+(1988); B. Renker, F. Gompf, E. Gering, G. Roth, W. Reichardt, D. Ewert,
+H. Rietschel, and H. Mutka, Z. Phys. B **71**, 437 (1988). * [26]G.
+Gompf, B. Renker, and E. Gerin, Physica C **153-155**, 274 (1988); H.
+Rietschel, J. Fink, E. Gering, F. Gompf, N. Nocker, L. Pinschovius, B.
+Renker, W. Riechardt, H. Schmidt, and W. Weber, _ibid._**153-155**, 1067
+(1988).

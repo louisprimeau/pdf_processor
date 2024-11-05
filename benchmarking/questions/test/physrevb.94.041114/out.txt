@@ -1,0 +1,257 @@
+
+
+# Multiple Fermi surfaces in superconducting Nb-doped Bi_{2}Se_{3}
+
+B. J. Lawson,^{1} Paul Corbae,^{1} Gang Li,^{1} Fan Yu,^{1} Tomoya Asaba,^{1} Colin Tinsman,^{1} Y. Qiu,^{2} J. E. Medvedeva,^{2} Y. S. Hor,^{2} and Lu Li^{1}
+
+^{1}Department of Physics, University of Michigan, Ann Arbor, Michigan 48109, USA
+
+^{2}Department of Physics, Missouri University of Science and Technology, Rolla, Missouri 65409, USA
+
+^{3}Department of Physics, University of Michigan, Ann Arbor, Michigan 48109, USA
+
+^{4}Department of Physics, University of Michigan, Ann Arbor, Michigan 48109, USA
+
+^{5}Department of Physics, Missouri University of Science and Technology, Rolla, Missouri 65409, USA
+
+^{6}Received 15 December 2015; revised manuscript received 12 July 2016; published 25 July 2016
+
+###### Abstract
+
+Topological insulator Bi_{2}Se_{3} has shown a number of interesting physical properties. Doping Bi_{2}Se_{3} with copper or strontium has been demonstrated to make the material superconducting and potentially even a topological superconductor. The recent discovery of superconducting niobium-doped Bi_{2}Se_{3} reveals an exciting new physical phenomenon, the coexistence of superconductivity and magnetic ordering, as well as signatures of an odd-parity p-wave superconducting order. To understand this new phenomenon, a detailed knowledge of the electronic structure is needed. We present an observation of quantum oscillations in the magnetization (the de Haas-van Alphen effect) of Nb-doped Bi_{2}Se_{3}. In the fully superconducting crystal, two distinct orbits are observed, in sharp contrast to Bi_{2}Se_{3}, Cu-doped Bi_{2}Se_{3}, and Sr-doped Bi_{3}Se_{3}. The multiple frequencies observed in our quantum oscillations, combined with our electrical transport studies, indicate the multi-orbit nature of the electronic state of Nb-doped Bi_{2}Se_{3}.
+
+DOI: 10.1103/PhysRevB.94.041114
+
+Doping topological insulators to induce superconductivity has been one avenue to realize topological superconductivity [1, 2, 3, 4, 5]. There has been much interest in superconductivity induced by copper or strontium dopants in Bi_{2}Se_{3}, and extensive studies on those materials [4, 5, 6, 7] reveal their single-band nature. However, questions remain as to whether these materials demonstrate topological superconductivity. The recent discovery of superconducting niobium-doped Bi_{2}Se_{3} makes it an exciting new candidate for the realization of topological superconductivity. A recent study reveals the coexistence of superconductivity and magnetic ordering in Nb-doped Bi_{2}Se_{3} as well as surface Dirac dispersion [8]. Heat capacity measurements reveal that it has a nodeless superconducting gap consistent with odd-parity p-wave superconductivity [9]. Furthermore, rotational symmetry breaking has been observed indicative of an odd-parity nematic superconducting order [9]. This very interesting combination creates much promise for new physics in this material. Generally, quantum oscillation experiments are used to reveal the electronic structure of topological materials and topological material candidates. No such study has yet been done on Nb-doped Bi_{2}Se_{3}.
+
+We report an observation of quantum oscillations in Nb-doped Bi_{2}Se_{3}. In Nb-doped Bi_{2}Se_{3}, a fully superconducting volume is observed in conjunction with at least two quantum oscillation frequencies. This observation points to a multiband electronic state in Nb-doped Bi_{2}Se_{3} that is distinct from the single-band state seen in the parent compound or Cu-doped and Sr-doped Bi_{2}Se_{3}[4, 5, 6, 7].
+
+Torque magnetometry was used to measure the magnetic properties of Nb-doped Bi_{2}Se_{3}. Single crystal samples of Nb-doped Bi_{2}Se_{3}, with a nominal stoichiometric Nb concentration of 0.25 for sample A and 0.28 for sample E, were glued to the tip of a beryllium copper thin-film cantilever using GE varnish. Because the Nb concentration was determined from the starting concentration of the reactants [8], the exact Nb concentration is unknown in these crystals. The torque on the cantilever was then measured by tracking the capacitance between the metallic cantilever and a gold film placed underneath. Torque magnetometry is sensitive to the anisotropy in the magnetic susceptibility of the sample [10, 11]. By confining the external magnetic field \vec{H} and the sample magnetization \hat{M} to the x-z plane, the torque on the sample due to the external field is given by
+
+\[\vec{\tau}=\mu_{0}V\vec{M}\times\vec{H}=\mu_{0}V(M_{z}H_{x}-M_{x}H_{z})\hat{y},\] (1)
+
+where V is the volume of the sample, and \mu_{0} is the vacuum permeability. For a paramagnetic material, this simplifies to
+
+\[\begin{split}\tau&=\mu_{0}V(\chi_{z}H_{z}H_{x}- \chi_{x}H_{x}H_{z})\\ &=\mu_{0}V\Delta\chi H^{2}\sin\phi\cos\phi,\end{split}\] (2)
+
+where \Delta\chi=\chi_{z}-\chi_{x} is the anisotropy of the magnetic susceptibility of the sample, and \phi is the angle between the external magnetic field and the crystal c axis which is defined to be along the \hat{z} direction. A schematic of the experimental setup is shown in Fig. 1(c).
+
+The presence of an external magnetic field quantizes the Fermi surface into Landau levels. This leads to oscillations in the magnetization due to the Landau level quantization (the de Haas-van Alphen effect, or the dHvA effect). These oscillations are periodic in 1/H and their frequency F_{s} is related to extrema in the Fermi surface cross section A by the Onsager relation:
+
+\[F_{s}=\frac{\hbar}{2\pi e}A.\] (3)
+
+The derivative of the raw torque is taken first and the background signal is removed leaving just the oscillatory torque signal \tau_{\text{osc}}. Examples of d\tau_{\text{osc}}/dH for sample A at two different angles are shown in Fig. 1 along with a FFT of \tau_{\text{osc}} plotted against 1/\mu_{0}H. At high angle, the FFT shows two distinct quantum oscillation frequencies.
+
+We measured several samples of Nb-doped Bi_{2}Se_{3}. Two of these samples from different growth batches, designated samples A and E, are of high enough quality to show a large superconducting volume. Figure 2(a) shows the temperature dependence of the resistivity for samples A and E. Zero resistance is observed below 3.5 K as shown by the inset of Fig. 2(a). Figure 2(b) shows the volume susceptibility of the two samples measured in a Quantum Design Magnetic Properties Measurement System. Sample E shows 60% superconducting volume and sample A shows a more than 90% superconducting volume, much higher than that of Cu-doped Bi_{2}Se_{3}[5, 12, 13] and similar to certain dopings in Sr-doped Bi_{2}Se_{3}[4].
+
+The dHvA effect was seen in both of our Nb-doped Bi_{2}Se_{3} single crystals. Figure 3 shows the angular dependence of the dHvA frequencies. Since the dHvA frequency is proportional to the Fermi surface cross section, the angular dependence gives the approximate size and shape of the Fermi surface. These data were taken in three different magnets with different peak magnetic fields. The peak magnetic field is indicated in parentheses in the legend of Fig. 3.
+
+The crystal structure of Nb-doped Bi_{2}Se_{3} is the same as Cu-doped Bi_{2}Se_{3} where the dopants lie intercalated between quintuple Bi_{2}Se_{3} layers. The crystal structure of the parent compound is shown in Fig. 1 and a detailed description of this crystal structure is discussed in Hor _et al._[2]. In Fig. 3, \phi is defined to be the angle between the external magnetic field and the crystalline c axis. In the 33.6 T and 34.5 T magnets, the magnetic field is being rotated from along the c axis towards the a axis. For the 45 T magnet, the magnetic field is being rotated from the c axis towards the in-plane axis 30^{\circ} from the a axis. The angular dependence of the dHvA frequencies does not show any dependence on which in-plane axis the magnetic field rotates into.
+
+There are two branches of quantum oscillation frequencies revealing multiple Fermi surfaces in Nb-doped Bi_{2}Se_{3}. The solid lines in Fig. 3 are ellipsoidal Fermi surface fits of the first branch of dHvA frequencies. The ellipsoidal Fermi surface is located in the center of the Brillouin zone (BZ) around the \Gamma point just as it is in the parent compound
+
+Figure 1: (a) Derivative of oscillatory magnetic torque of Nb-doped Bi_{2}Se_{3}. Torque from sample A is plotted against inverse magnetic field 1/\mu_{0}H. A polynomial background has been subtracted from the torque \tau-H curves to obtain the oscillatory torque \tau_{\rm ac} and the derivative with respect to field was taken to emphasize the oscillation signal. The top red curve is taken at a tilt angle of the magnetic field around 8^{\circ} and shows one oscillation frequency. The lower black curve taken at the magnetic field tilt angle of 103^{\circ} shows two oscillation frequencies. The amplitude of the second curve is multiplied by a factor of 10 and the two curves have been shifted apart for clarity. (b) The fast Fourier transformation (FFT) of the two \tau_{\rm ac}-1/\mu_{0}H traces. (c) A sketch of the torque magnetometry setup shown together with the crystal structure of Bi_{2}Se_{3} to demonstrate the magnetic field rotation plane.
+
+Figure 3: Comparison of the angular dependence of the oscillation frequencies of Nb-doped Bi_{2}Se_{3} in sample A (red) and sample E (black) taken at T=300 mK. The solid lines are fits for ellipsoidal Fermi surfaces. The dashed lines are guides for the eye for the second Fermi pocket. The maximum magnetic field used in each run is labeled in the legend.
+
+Figure 2: Superconducting signal and transport properties of two Nb-doped Bi_{2}Se_{3} crystals. (a) Resistivity of samples A and E as a function of temperature T. (b) Volume magnetic susceptibility of Nb-doped Bi_{2}Se_{3} crystals, measured in zero-field-cooling (ZFC) and field-cooling (FC) conditions. For sample A, the Meissner effect in the ZFC condition reaches close to -1, indicating a nearly 100% superconducting volume. (c) Shubnikov-de Haas oscillations in sample E with field along the sample crystalline c axis. The inset shows the Hall signal from the two samples.
+
+  [5, 14]. Based on the fits and Eq. (3), both samples have an in-plane Fermi momentum of k_{x}=k_{y}\approx 0.75 nm^{-1} and an out-of-plane Fermi momentum of k_{z}\approx 1.43 nm^{-1}. The parameters from the ellipsoidal Fermi surface are summarized in Table 1.
+
+The second branch of dHvA frequencies appears at around 60^{\circ}. This indicates that the superconducting Nb-doped Bi_{2}Se_{3} has an additional smaller Fermi pocket or family of Fermi pockets besides the ellipsoidal pocket seen in the parent compound [5, 14].
+
+The lower branch should be symmetric around 90^{\circ} because of the crystalline symmetry. In the 45 T sweep, there is evidence of splitting in the lower branch of dHvA frequencies indicating the symmetric Fermi pocket. We note, however, that our torque magnetometry is unable to clearly resolve a splitting of these branches in the 34 T sweeps due to the limited range of the quantum oscillation pattern. As a result, our torque measurements resolve only the dominating feature of the lower branch for each sample, which seems to be asymmetric and varies between samples in the 34 T runs. The sample dependence suggests that the sample quality and even the possible domain structure may affect the apparent features in the FFT spectra. To confirm this frequency splitting, further quantum oscillation studies are required in the higher fields or at lower temperatures in a dilution refrigerator.
+
+The angular dependence of the lower branch of frequencies indicates that the corresponding Fermi surface is tilted with respect to the c axis. It is probably located away from the \Gamma point and has symmetric pockets elsewhere in the BZ. The exact shape of these low-frequency Fermi pockets is unknown. A grey dashed line is drawn on Fig. 3 as an eye guide.
+
+The larger Fermi pocket, though slightly fatter and longer, is similar to the bulk Fermi surface in undoped Bi_{2}Se_{3}[5, 14]. However, the second pocket is completely different from anything seen in the parent compound or the other superconducting doped Bi_{2}Se_{3} compounds, such as Cu-doped Bi_{2}Se_{3}[5, 6, 7].
+
+It is well known that the damping of the dHvA oscillation amplitude is proportional to the thermal damping factor R_{T} and Dingle damping factor R_{D}[15]:
+
+\[R_{T}=\frac{\alpha Tm^{*}}{B\sinh(\alpha Tm^{*}/B)},\] (4) \[R_{D}=\exp(-\alpha T_{D}m^{*}/B),\] (5)
+
+where m^{*} is the effective mass, T_{D}=\hbar/2\pi k_{B}\tau_{s} is the Dingle temperature, \tau_{s} is the scattering time, and \alpha=2\pi^{2}k_{B}m_{e}/e\hbar\sim 14.69 T/K.
+
+Examples of the temperature dependence of the FFT amplitude on r_{\text{osc}} are plotted as a function of temperature in Fig. 4. Included is a fit of these data to Eq. (4) which yields effective masses of the large and small pockets in Nb-doped Bi_{2}Se_{3} samples. The results are listed in Table 1.
+
+For sample E, the temperature dependence was performed on the Shubnikov-de Haas (SdH) oscillations shown in Fig. 2(c). The frequency of oscillations and effective mass extracted from SdH are in good agreement with dHvA.
+
+The damping of the dHvA oscillations with respect to the field gives a measure of the electron scattering in the crystal. The insets in Fig. 4 show the log of the amplitudes of the peaks from the plot of \tau_{\text{osc}}-1/\mu_{0}H after dividing out the thermal damping factor. The fit using Eq. (5) yields the Dingle temperature T_{D}. The results of the Dingle analysis are listed in Table 1.
+
+Furthermore, we note that the scattering time of the lower branch is the same order of magnitude as the higher branch. Therefore, disorder and Dingle phase smearing would unlikely prevent observing the lower branch if the higher branch is observed. If the lower branch is missed, it is due to an intrinsic difference of the electronic state. We also note that the mean free paths in our crystals are on the order of 20-60 nm, which is about two orders of magnitude longer than the crystalline lattice. The observation of quantum oscillations
+
+Figure 4: Temperature dependence of the oscillation amplitude of (a) sample A at \phi=1^{\circ} and (b) sample E at \phi=103^{\circ}. The insets are the Dingle fits of the oscillation amplitude, with the vertical axis the ratio of the log of the oscillation amplitude and the thermal damping factor.
+
+\begin{table}
+\begin{tabular}{l c c} \hline \hline  & Sample A & Sample E \\ \hline n (Hall) & 2.4\times 10^{20} cm^{-3} & 1.8\times 10^{20} cm^{-3} \\ Ellipsoidal pocket & (\phi=1^{\circ}) & (\phi=0^{\circ}) \\ F_{0} & 181 T & 188 T \\ k_{x} & 0.74 nm^{-1} & 0.76 nm^{-1} \\ k_{z}/k_{z} & 1.9 & 1.9 \\ n (ellipsoid contribution) & 2.6\times 10^{19} cm^{-3} & 2.8\times 10^{19} cm^{-3} \\ m & 0.13 m_{e} & 0.12 m_{e} \\ e_{F} & 6.5\times 10^{5} m/s & 7.3\times 10^{3} m/s \\ \tau_{s} & 3.1\times 10^{-14} s & 8.2\times 10  provides the first method to resolve the unique nature of the superconducting Nb-doped Bi_{2}Se_{3}.
+
+Finally, to determine the carrier concentration, we also measured the Hall effect on Nb-doped Bi_{2}Se_{3}. The Hall curves from samples A and E are shown in the inset of Fig. 2(c). The carrier density as determined from the Hall effect is n=2.4\times 10^{20} cm^{-3} for sample A and n=1.8\times 10^{20} cm^{-3} for sample E. The Hall carrier density is generally an order of magnitude larger than the carrier density given by the ellipsoidal Fermi surfaces. The carrier density of the ellipsoidal Fermi surfaces is given by n=\frac{1}{17}k_{x}k_{y}k_{z} yielding n=2.6\times 10^{19} cm^{-3} for sample A and n=2.8\times 10^{19} cm^{-3} for sample E. Therefore the lower branches observed in our dHvA effect correspond to many pockets in the BZ, which contribute to the large Hall carrier densities.
+
+_Discussion._ One question that could arise is whether this Fermi pocket is an intrinsic property of Nb-doped Bi_{2}Se_{3} or if it comes from crystallized domains of other materials such as NbSe_{2}, NbSe_{3}, or elemental Nb present in the samples. NbSe_{3} is not superconducting unless under pressure, and it shows dominant quantum oscillation frequencies under 100 T [16, 17, 18]. This is much smaller than either Fermi pocket seen in our Nb-doped Bi_{2}Se_{3} samples. Moreover, 2\text{H}-\text{NbSe}_{2} shows superconductivity, but the T_{c}=7.2 K [19] is much higher than the critical temperature in our Nb-doped Bi_{2}Se_{3}. Quantum oscillations in 2\text{H}-\text{NbSe}_{2} show only one Fermi pocket with F_{0}=150 T that increases up to 400 T at \sim80^{\circ}[19, 20]. This is distinctly different from the Fermi surfaces we observed in our samples, suggesting that our dHvA signal is not from unintended crystallization of NbSe_{2} and NbSe_{3}. The smallest orbital observed in elemental Nb is 8.1 nm^{-2}[21, 22] corresponding to a dHvA frequency of 850 T, which is much higher than the quantum oscillation frequencies reported here in Nb-doped Bi_{2}Se_{3}.
+
+This leads to an important question: Why does Nb intercalation in Bi_{2}Se_{3} lead to multiple Fermi surfaces when Cu and Sr intercalations do not? We suspect that Nb introduces d-orbital electrons causing the multiple-orbit feature observed in our study. A preliminary calculation of the band structure suggests the Nb d states are very close to the chemical potential in Nb-doped Bi_{2}Se_{3}. Our results call for a detailed electronic band structure calculation, the results of which can be compared to our observed quantum oscillation patterns. These further steps will map the exact electronic ground state of the newly discovered superconductor Nb-doped Bi_{2}Se_{3}.
+
+Our observation of the multiple orbits in the superconducting Nb-doped Bi_{2}Se_{3} also points to Fermi surface nesting as a possible superconducting mechanism. In many families of Fe-based superconductors, where unconventional s-wave pairing is believed to exist, the superconducting pairing mechanism has been attributed to the nesting between electron and hole pockets [23, 24, 25]. To check this possibility for Nb-doped Bi_{2}Se_{3}, further experiments are needed to look for the charge density wave that would arise from the Fermi surface nesting. Such a charge density wave pattern may be detected by scanning tunneling microscopy or photoemission.
+
+_Conclusion._ Using torque magnetometry in intense magnetic fields as high as 45 T, we observed quantum oscillations in the newly discovered superconductor Nb-doped Bi_{2}Se_{3}. The Nb-doped Bi_{2}Se_{3} crystals show two distinct oscillation frequencies. The observation of this multi-orbital nature reveals the complex electronic ground state of superconducting Nb-doped Bi_{2}Se_{3}. It also sheds light on the superconducting pairing mechanism in this unconventional superconductor.
+
+_Acknowledgments._ We are grateful for the assistance of Tim Murphy, Glover Jones, and Ju-Hyun Park of NHMFL. This work is supported by the Office of Naval Research through the Young Investigator Prize under Award No. N00014-15-1-2382 (magnetization characterization), the National Science Foundation under Award No. ECCS-1307744 (electrical transport characterization), the National Science Foundation under Award No. DMR-1255607 (sample growth), and the National Science Foundation Major Research Instrumentation award under No. DMR-1428226 (supports the equipment for the electrical transport characterizations). The instrumentation development for the high field torque magnetometry is supported by the Department of Energy under Award No. DE-SC0008110. The high-field experiments were performed at the National High Magnetic Field Laboratory, which is supported by NSF Cooperative Agreement No. DMR-084173, the State of Florida, and the DOE. B.J.L. acknowledges support by the National Science Foundation Graduate Research Fellowship under Grant No. F031543. T.A. thanks the Nakajima Foundation for support.
+
+## References
+
+* [1] L. Fu and E. Berg, Phys. Rev. Lett. **105**, 097001 (2010).
+* [2] Y. S. Hor, A. J. Williams, J. G. Checkelsky, P. Roushan, J. Seo, Q. Xu, H. W. Zandbergen, A. Yazdani, N. P. Ong, and R. J. Cava, Phys. Rev. Lett. **104**, 057001 (2010).
+* [3] L. A. Wray, S.-Y. Xu, Y. Xia, Y. S. Hor, D. Qian, A. V. Fedorov, H. Lin, A. Bansil, R. J. Cava, and M. Z. Hasan, Nat. Phys. **6**, 855 (2010).
+* [4] Zhongheng Liu, Xiong Yao, Jifeng Shao, Ming Zuo, Li Pi, Shun Tan, Changjin Zhang, and Yuheng Zhang, J. Am. Chem. Soc. **137**, 10512 (2015).
+* [5] B. J. Lawson, Y. S. Hor, and Lu Li, Phys. Rev. Lett. **109**, 226406 (2012).
+* [6] B. J. Lawson, G. Li, F. Yu, T. Asaba, C. Tinsman, T. Gao, W. Wang, Y. S. Hor, and Lu Li, Phys. Rev. B **90**, 195141 (2014).
+* [7] E. Lahoud, E. Maniv, M. S. Petrushevsky, M. Naamneh, A. Ribak, S. Wiedmann, L. Petaccia, Z. Salman, K. B. Chashka, Y. Dagan, and A. Kanigel, Phys. Rev. B **88**, 195107 (2013).
+* [8] Yunsheng Qiu, Kyle Sanders, Jxia Dai, Julia Medvedeva, Weida Wu, Pouyan Ghaemi, Thomas Vojta, and Y. S. Hor, arXiv:1512.03519.
+* [9] Tomoya Asaba, B. J. Lawson, Colin Tinsman, Lu Chen, Paul Corbae, Gang Li, Y. Qiu, Y. S. Hor, Liang Fu, and Lu Li, arXiv:1603.04040.
+* [10] L. Li, J. G. Checkelsky, Y. S. Hor, C. Uher, A. F. Hebard, R. J. Cava, and N. P. Ong, Science **332**, 825 (2011).
+* [11] G. Li, Z. Xiang, F. Yu, T. Asaba, B. Lawson, P. Cai, C. Tinsman, A. Berkley, S. Wolgast, Y. S. Eo, D. J. Kim, C. Kurdak, J. W. Allen, K. Sun, X. H. Chen, Y. Y. Wang, Z. Fisk, and L. Li, Science **346**, 1208 (2014).
+
+  * [12] M. Kriener, K. Segawa, Z. Ren, S. Sasaki, and Y. Ando, Phys. Rev. Lett. **106**, 127004 (2011).
+* [13] M. Kriener, K. Segawa, Z. Ren, S. Sasaki, S. Wada, S. Kuwabata, and Y. Ando, Phys. Rev. B **84**, 054513 (2011).
+* [14] K. Eto, Z. Ren, A. A. Taskin, K. Segawa, and Y. Ando, Phys. Rev. B **81**, 195309 (2010).
+* [15] D. Shoenberg, _Magnetic Oscillations in Metals_ (Cambridge University, Cambridge, England, 1984).
+* [16] P. Monceau and A. Briggs, J. Phys. C **11**, L465 (1978).
+* [17] R. M. Fleming, J. A. Polo, Jr., and R. V. Coleman, Phys. Rev. B **17**, 1634 (1978).
+* [18] A. Audouard, J. Richard, S. Dubois, J. P. Ulmet, and S. Askenazy, Synth. Met. **55-57**, 2629 (1993).
+* [19] R. Corcoran, P. Meeson, Y. Onuki, P-A Probst, M. Springford, K. Takita, H. Harima, G. Y. Guo, and B. L. Gyorffy, J. Phys. Condens. Matter **6**, 4479 (1994).
+* [20] John E. Graebner and M. Robbins, Phys. Rev. Lett. **36**, 422 (1976).
+* [21] G. B. Scott and M. Springford, Proc. Roy. Soc. Lond. A **320**, 115 (1970).
+* [22] M. H. Halloran, J. H. Condon, J. E. Graebner, J. E. Kunzler, and F. S. L. Hsu, Phys. Rev. B **1**, 366 (1970).
+* [23] P. J. Hirschfeld, M. M. Korshunov, and I. I. Mazin, Rep. Prog. Phys. **74**, 124508 (2011).
+* [24] J. Paglione and R. Greene, Nat. Phys. **6**, 645 (2010).
+* [25] J. G. Analytis, J.-H. Chu, R. D. McDonald, and S. C. Riggs, and I. R. Fisher, Phys. Rev. Lett. **105**, 207004 (2010).
+
+ 
+
+# Multiple Fermi surfaces in superconducting Nb-doped Bi_{2}Se_{3}
+
+B. J. Lawson,^{1} Paul Corbae,^{1} Gang Li,^{1} Fan Yu,^{1} Tomoya Asaba,^{1} Colin Tinsman,^{1} Y. Qiu,^{2} J. E. Medvedeva,^{2} Y. S. Hor,^{2} and Lu Li^{1}
+
+^{1}Department of Physics, University of Michigan, Ann Arbor, Michigan 48109, USA
+
+^{2}Department of Physics, Missouri University of Science and Technology, Rolla, Missouri 65409, USA
+
+^{3}Department of Physics, University of Michigan, Ann Arbor, Michigan 48109, USA
+
+^{4}Department of Physics, University of Michigan, Ann Arbor, Michigan 48109, USA
+
+^{5}Department of Physics, Missouri University of Science and Technology, Rolla, Missouri 65409, USA
+
+^{6}Received 15 December 2015; revised manuscript received 12 July 2016; published 25 July 2016
+
+###### Abstract
+
+Topological insulator Bi_{2}Se_{3} has shown a number of interesting physical properties. Doping Bi_{2}Se_{3} with copper or strontium has been demonstrated to make the material superconducting and potentially even a topological superconductor. The recent discovery of superconducting niobium-doped Bi_{2}Se_{3} reveals an exciting new physical phenomenon, the coexistence of superconductivity and magnetic ordering, as well as signatures of an odd-parity p-wave superconducting order. To understand this new phenomenon, a detailed knowledge of the electronic structure is needed. We present an observation of quantum oscillations in the magnetization (the de Haas-van Alphen effect) of Nb-doped Bi_{2}Se_{3}. In the fully superconducting crystal, two distinct orbits are observed, in sharp contrast to Bi_{2}Se_{3}, Cu-doped Bi_{2}Se_{3}, and Sr-doped Bi_{3}Se_{3}. The multiple frequencies observed in our quantum oscillations, combined with our electrical transport studies, indicate the multi-orbit nature of the electronic state of Nb-doped Bi_{2}Se_{3}.
+
+DOI: 10.1103/PhysRevB.94.041114
+
+Doping topological insulators to induce superconductivity has been one avenue to realize topological superconductivity [1, 2, 3, 4, 5]. There has been much interest in superconductivity induced by copper or strontium dopants in Bi_{2}Se_{3}, and extensive studies on those materials [4, 5, 6, 7] reveal their single-band nature. However, questions remain as to whether these materials demonstrate topological superconductivity. The recent discovery of superconducting niobium-doped Bi_{2}Se_{3} makes it an exciting new candidate for the realization of topological superconductivity. A recent study reveals the coexistence of superconductivity and magnetic ordering in Nb-doped Bi_{2}Se_{3} as well as surface Dirac dispersion [8]. Heat capacity measurements reveal that it has a nodeless superconducting gap consistent with odd-parity p-wave superconductivity [9]. Furthermore, rotational symmetry breaking has been observed indicative of an odd-parity nematic superconducting order [9]. This very interesting combination creates much promise for new physics in this material. Generally, quantum oscillation experiments are used to reveal the electronic structure of topological materials and topological material candidates. No such study has yet been done on Nb-doped Bi_{2}Se_{3}.
+
+We report an observation of quantum oscillations in Nb-doped Bi_{2}Se_{3}. In Nb-doped Bi_{2}Se_{3}, a fully superconducting volume is observed in conjunction with at least two quantum oscillation frequencies. This observation points to a multiband electronic state in Nb-doped Bi_{2}Se_{3} that is distinct from the single-band state seen in the parent compound or Cu-doped and Sr-doped Bi_{2}Se_{3}[4, 5, 6, 7].
+
+Torque magnetometry was used to measure the magnetic properties of Nb-doped Bi_{2}Se_{3}. Single crystal samples of Nb-doped Bi_{2}Se_{3}, with a nominal stoichiometric Nb concentration of 0.25 for sample A and 0.28 for sample E, were glued to the tip of a beryllium copper thin-film cantilever using GE varnish. Because the Nb concentration was determined from the starting concentration of the reactants [8], the exact Nb concentration is unknown in these crystals. The torque on the cantilever was then measured by tracking the capacitance between the metallic cantilever and a gold film placed underneath. Torque magnetometry is sensitive to the anisotropy in the magnetic susceptibility of the sample [10, 11]. By confining the external magnetic field \vec{H} and the sample magnetization \hat{M} to the x-z plane, the torque on the sample due to the external field is given by
+
+\[\vec{\tau}=\mu_{0}V\vec{M}\times\vec{H}=\mu_{0}V(M_{z}H_{x}-M_{x}H_{z})\hat{y},\] (1)
+
+where V is the volume of the sample, and \mu_{0} is the vacuum permeability. For a paramagnetic material, this simplifies to
+
+\[\begin{split}\tau&=\mu_{0}V(\chi_{z}H_{z}H_{x}- \chi_{x}H_{x}H_{z})\\ &=\mu_{0}V\Delta\chi H^{2}\sin\phi\cos\phi,\end{split}\] (2)
+
+where \Delta\chi=\chi_{z}-\chi_{x} is the anisotropy of the magnetic susceptibility of the sample, and \phi is the angle between the external magnetic field and the crystal c axis which is defined to be along the \hat{z} direction. A schematic of the experimental setup is shown in Fig. 1(c).
+
+The presence of an external magnetic field quantizes the Fermi surface into Landau levels. This leads to oscillations in the magnetization due to the Landau level quantization (the de Haas-van Alphen effect, or the dHvA effect). These oscillations are periodic in 1/H and their frequency F_{s} is related to extrema in the Fermi surface cross section A by the Onsager relation:
+
+\[F_{s}=\frac{\hbar}{2\pi e}A.\] (3)
+
+The derivative of the raw torque is taken first and the background signal is removed leaving just the oscillatory torque signal \tau_{\text{osc}}. Examples of d\tau_{\text{osc}}/dH for sample A at two different angles are shown in Fig. 1 along with a FFT of \tau_{\text{osc}} plotted against 1/\mu_{0}H. At high angle, the FFT shows two distinct quantum oscillation frequencies.
+
+We measured several samples of Nb-doped Bi_{2}Se_{3}. Two of these samples from different growth batches, designated samples A and E, are of high enough quality to show a large superconducting volume. Figure 2(a) shows the temperature dependence of the resistivity for samples A and E. Zero resistance is observed below 3.5 K as shown by the inset of Fig. 2(a). Figure 2(b) shows the volume susceptibility of the two samples measured in a Quantum Design Magnetic Properties Measurement System. Sample E shows 60% superconducting volume and sample A shows a more than 90% superconducting volume, much higher than that of Cu-doped Bi_{2}Se_{3}[5, 12, 13] and similar to certain dopings in Sr-doped Bi_{2}Se_{3}[4].
+
+The dHvA effect was seen in both of our Nb-doped Bi_{2}Se_{3} single crystals. Figure 3 shows the angular dependence of the dHvA frequencies. Since the dHvA frequency is proportional to the Fermi surface cross section, the angular dependence gives the approximate size and shape of the Fermi surface. These data were taken in three different magnets with different peak magnetic fields. The peak magnetic field is indicated in parentheses in the legend of Fig. 3.
+
+The crystal structure of Nb-doped Bi_{2}Se_{3} is the same as Cu-doped Bi_{2}Se_{3} where the dopants lie intercalated between quintuple Bi_{2}Se_{3} layers. The crystal structure of the parent compound is shown in Fig. 1 and a detailed description of this crystal structure is discussed in Hor _et al._[2]. In Fig. 3, \phi is defined to be the angle between the external magnetic field and the crystalline c axis. In the 33.6 T and 34.5 T magnets, the magnetic field is being rotated from along the c axis towards the a axis. For the 45 T magnet, the magnetic field is being rotated from the c axis towards the in-plane axis 30^{\circ} from the a axis. The angular dependence of the dHvA frequencies does not show any dependence on which in-plane axis the magnetic field rotates into.
+
+There are two branches of quantum oscillation frequencies revealing multiple Fermi surfaces in Nb-doped Bi_{2}Se_{3}. The solid lines in Fig. 3 are ellipsoidal Fermi surface fits of the first branch of dHvA frequencies. The ellipsoidal Fermi surface is located in the center of the Brillouin zone (BZ) around the \Gamma point just as it is in the parent compound
+
+Figure 1: (a) Derivative of oscillatory magnetic torque of Nb-doped Bi_{2}Se_{3}. Torque from sample A is plotted against inverse magnetic field 1/\mu_{0}H. A polynomial background has been subtracted from the torque \tau-H curves to obtain the oscillatory torque \tau_{\rm ac} and the derivative with respect to field was taken to emphasize the oscillation signal. The top red curve is taken at a tilt angle of the magnetic field around 8^{\circ} and shows one oscillation frequency. The lower black curve taken at the magnetic field tilt angle of 103^{\circ} shows two oscillation frequencies. The amplitude of the second curve is multiplied by a factor of 10 and the two curves have been shifted apart for clarity. (b) The fast Fourier transformation (FFT) of the two \tau_{\rm ac}-1/\mu_{0}H traces. (c) A sketch of the torque magnetometry setup shown together with the crystal structure of Bi_{2}Se_{3} to demonstrate the magnetic field rotation plane.
+
+Figure 3: Comparison of the angular dependence of the oscillation frequencies of Nb-doped Bi_{2}Se_{3} in sample A (red) and sample E (black) taken at T=300 mK. The solid lines are fits for ellipsoidal Fermi surfaces. The dashed lines are guides for the eye for the second Fermi pocket. The maximum magnetic field used in each run is labeled in the legend.
+
+Figure 2: Superconducting signal and transport properties of two Nb-doped Bi_{2}Se_{3} crystals. (a) Resistivity of samples A and E as a function of temperature T. (b) Volume magnetic susceptibility of Nb-doped Bi_{2}Se_{3} crystals, measured in zero-field-cooling (ZFC) and field-cooling (FC) conditions. For sample A, the Meissner effect in the ZFC condition reaches close to -1, indicating a nearly 100% superconducting volume. (c) Shubnikov-de Haas oscillations in sample E with field along the sample crystalline c axis. The inset shows the Hall signal from the two samples.
+
+  [5, 14]. Based on the fits and Eq. (3), both samples have an in-plane Fermi momentum of k_{x}=k_{y}\approx 0.75 nm^{-1} and an out-of-plane Fermi momentum of k_{z}\approx 1.43 nm^{-1}. The parameters from the ellipsoidal Fermi surface are summarized in Table 1.
+
+The second branch of dHvA frequencies appears at around 60^{\circ}. This indicates that the superconducting Nb-doped Bi_{2}Se_{3} has an additional smaller Fermi pocket or family of Fermi pockets besides the ellipsoidal pocket seen in the parent compound [5, 14].
+
+The lower branch should be symmetric around 90^{\circ} because of the crystalline symmetry. In the 45 T sweep, there is evidence of splitting in the lower branch of dHvA frequencies indicating the symmetric Fermi pocket. We note, however, that our torque magnetometry is unable to clearly resolve a splitting of these branches in the 34 T sweeps due to the limited range of the quantum oscillation pattern. As a result, our torque measurements resolve only the dominating feature of the lower branch for each sample, which seems to be asymmetric and varies between samples in the 34 T runs. The sample dependence suggests that the sample quality and even the possible domain structure may affect the apparent features in the FFT spectra. To confirm this frequency splitting, further quantum oscillation studies are required in the higher fields or at lower temperatures in a dilution refrigerator.
+
+The angular dependence of the lower branch of frequencies indicates that the corresponding Fermi surface is tilted with respect to the c axis. It is probably located away from the \Gamma point and has symmetric pockets elsewhere in the BZ. The exact shape of these low-frequency Fermi pockets is unknown. A grey dashed line is drawn on Fig. 3 as an eye guide.
+
+The larger Fermi pocket, though slightly fatter and longer, is similar to the bulk Fermi surface in undoped Bi_{2}Se_{3}[5, 14]. However, the second pocket is completely different from anything seen in the parent compound or the other superconducting doped Bi_{2}Se_{3} compounds, such as Cu-doped Bi_{2}Se_{3}[5, 6, 7].
+
+It is well known that the damping of the dHvA oscillation amplitude is proportional to the thermal damping factor R_{T} and Dingle damping factor R_{D}[15]:
+
+\[R_{T}=\frac{\alpha Tm^{*}}{B\sinh(\alpha Tm^{*}/B)},\] (4) \[R_{D}=\exp(-\alpha T_{D}m^{*}/B),\] (5)
+
+where m^{*} is the effective mass, T_{D}=\hbar/2\pi k_{B}\tau_{s} is the Dingle temperature, \tau_{s} is the scattering time, and \alpha=2\pi^{2}k_{B}m_{e}/e\hbar\sim 14.69 T/K.
+
+Examples of the temperature dependence of the FFT amplitude on r_{\text{osc}} are plotted as a function of temperature in Fig. 4. Included is a fit of these data to Eq. (4) which yields effective masses of the large and small pockets in Nb-doped Bi_{2}Se_{3} samples. The results are listed in Table 1.
+
+For sample E, the temperature dependence was performed on the Shubnikov-de Haas (SdH) oscillations shown in Fig. 2(c). The frequency of oscillations and effective mass extracted from SdH are in good agreement with dHvA.
+
+The damping of the dHvA oscillations with respect to the field gives a measure of the electron scattering in the crystal. The insets in Fig. 4 show the log of the amplitudes of the peaks from the plot of \tau_{\text{osc}}-1/\mu_{0}H after dividing out the thermal damping factor. The fit using Eq. (5) yields the Dingle temperature T_{D}. The results of the Dingle analysis are listed in Table 1.
+
+Furthermore, we note that the scattering time of the lower branch is the same order of magnitude as the higher branch. Therefore, disorder and Dingle phase smearing would unlikely prevent observing the lower branch if the higher branch is observed. If the lower branch is missed, it is due to an intrinsic difference of the electronic state. We also note that the mean free paths in our crystals are on the order of 20-60 nm, which is about two orders of magnitude longer than the crystalline lattice. The observation of quantum oscillations
+
+Figure 4: Temperature dependence of the oscillation amplitude of (a) sample A at \phi=1^{\circ} and (b) sample E at \phi=103^{\circ}. The insets are the Dingle fits of the oscillation amplitude, with the vertical axis the ratio of the log of the oscillation amplitude and the thermal damping factor.
+
+\begin{table}
+\begin{tabular}{l c c} \hline \hline  & Sample A & Sample E \\ \hline n (Hall) & 2.4\times 10^{20} cm^{-3} & 1.8\times 10^{20} cm^{-3} \\ Ellipsoidal pocket & (\phi=1^{\circ}) & (\phi=0^{\circ}) \\ F_{0} & 181 T & 188 T \\ k_{x} & 0.74 nm^{-1} & 0.76 nm^{-1} \\ k_{z}/k_{z} & 1.9 & 1.9 \\ n (ellipsoid contribution) & 2.6\times 10^{19} cm^{-3} & 2.8\times 10^{19} cm^{-3} \\ m & 0.13 m_{e} & 0.12 m_{e} \\ e_{F} & 6.5\times 10^{5} m/s & 7.3\times 10^{3} m/s \\ \tau_{s} & 3.1\times 10^{-14} s & 8.2\times 10  provides the first method to resolve the unique nature of the superconducting Nb-doped Bi_{2}Se_{3}.
+
+Finally, to determine the carrier concentration, we also measured the Hall effect on Nb-doped Bi_{2}Se_{3}. The Hall curves from samples A and E are shown in the inset of Fig. 2(c). The carrier density as determined from the Hall effect is n=2.4\times 10^{20} cm^{-3} for sample A and n=1.8\times 10^{20} cm^{-3} for sample E. The Hall carrier density is generally an order of magnitude larger than the carrier density given by the ellipsoidal Fermi surfaces. The carrier density of the ellipsoidal Fermi surfaces is given by n=\frac{1}{17}k_{x}k_{y}k_{z} yielding n=2.6\times 10^{19} cm^{-3} for sample A and n=2.8\times 10^{19} cm^{-3} for sample E. Therefore the lower branches observed in our dHvA effect correspond to many pockets in the BZ, which contribute to the large Hall carrier densities.
+
+_Discussion._ One question that could arise is whether this Fermi pocket is an intrinsic property of Nb-doped Bi_{2}Se_{3} or if it comes from crystallized domains of other materials such as NbSe_{2}, NbSe_{3}, or elemental Nb present in the samples. NbSe_{3} is not superconducting unless under pressure, and it shows dominant quantum oscillation frequencies under 100 T [16, 17, 18]. This is much smaller than either Fermi pocket seen in our Nb-doped Bi_{2}Se_{3} samples. Moreover, 2\text{H}-\text{NbSe}_{2} shows superconductivity, but the T_{c}=7.2 K [19] is much higher than the critical temperature in our Nb-doped Bi_{2}Se_{3}. Quantum oscillations in 2\text{H}-\text{NbSe}_{2} show only one Fermi pocket with F_{0}=150 T that increases up to 400 T at \sim80^{\circ}[19, 20]. This is distinctly different from the Fermi surfaces we observed in our samples, suggesting that our dHvA signal is not from unintended crystallization of NbSe_{2} and NbSe_{3}. The smallest orbital observed in elemental Nb is 8.1 nm^{-2}[21, 22] corresponding to a dHvA frequency of 850 T, which is much higher than the quantum oscillation frequencies reported here in Nb-doped Bi_{2}Se_{3}.
+
+This leads to an important question: Why does Nb intercalation in Bi_{2}Se_{3} lead to multiple Fermi surfaces when Cu and Sr intercalations do not? We suspect that Nb introduces d-orbital electrons causing the multiple-orbit feature observed in our study. A preliminary calculation of the band structure suggests the Nb d states are very close to the chemical potential in Nb-doped Bi_{2}Se_{3}. Our results call for a detailed electronic band structure calculation, the results of which can be compared to our observed quantum oscillation patterns. These further steps will map the exact electronic ground state of the newly discovered superconductor Nb-doped Bi_{2}Se_{3}.
+
+Our observation of the multiple orbits in the superconducting Nb-doped Bi_{2}Se_{3} also points to Fermi surface nesting as a possible superconducting mechanism. In many families of Fe-based superconductors, where unconventional s-wave pairing is believed to exist, the superconducting pairing mechanism has been attributed to the nesting between electron and hole pockets [23, 24, 25]. To check this possibility for Nb-doped Bi_{2}Se_{3}, further experiments are needed to look for the charge density wave that would arise from the Fermi surface nesting. Such a charge density wave pattern may be detected by scanning tunneling microscopy or photoemission.
+
+_Conclusion._ Using torque magnetometry in intense magnetic fields as high as 45 T, we observed quantum oscillations in the newly discovered superconductor Nb-doped Bi_{2}Se_{3}. The Nb-doped Bi_{2}Se_{3} crystals show two distinct oscillation frequencies. The observation of this multi-orbital nature reveals the complex electronic ground state of superconducting Nb-doped Bi_{2}Se_{3}. It also sheds light on the superconducting pairing mechanism in this unconventional superconductor.
+
+_Acknowledgments._ We are grateful for the assistance of Tim Murphy, Glover Jones, and Ju-Hyun Park of NHMFL. This work is supported by the Office of Naval Research through the Young Investigator Prize under Award No. N00014-15-1-2382 (magnetization characterization), the National Science Foundation under Award No. ECCS-1307744 (electrical transport characterization), the National Science Foundation under Award No. DMR-1255607 (sample growth), and the National Science Foundation Major Research Instrumentation award under No. DMR-1428226 (supports the equipment for the electrical transport characterizations). The instrumentation development for the high field torque magnetometry is supported by the Department of Energy under Award No. DE-SC0008110. The high-field experiments were performed at the National High Magnetic Field Laboratory, which is supported by NSF Cooperative Agreement No. DMR-084173, the State of Florida, and the DOE. B.J.L. acknowledges support by the National Science Foundation Graduate Research Fellowship under Grant No. F031543. T.A. thanks the Nakajima Foundation for support.
+
+## References
+
+* [1] L. Fu and E. Berg, Phys. Rev. Lett. **105**, 097001 (2010).
+* [2] Y. S. Hor, A. J. Williams, J. G. Checkelsky, P. Roushan, J. Seo, Q. Xu, H. W. Zandbergen, A. Yazdani, N. P. Ong, and R. J. Cava, Phys. Rev. Lett. **104**, 057001 (2010).
+* [3] L. A. Wray, S.-Y. Xu, Y. Xia, Y. S. Hor, D. Qian, A. V. Fedorov, H. Lin, A. Bansil, R. J. Cava, and M. Z. Hasan, Nat. Phys. **6**, 855 (2010).
+* [4] Zhongheng Liu, Xiong Yao, Jifeng Shao, Ming Zuo, Li Pi, Shun Tan, Changjin Zhang, and Yuheng Zhang, J. Am. Chem. Soc. **137**, 10512 (2015).
+* [5] B. J. Lawson, Y. S. Hor, and Lu Li, Phys. Rev. Lett. **109**, 226406 (2012).
+* [6] B. J. Lawson, G. Li, F. Yu, T. Asaba, C. Tinsman, T. Gao, W. Wang, Y. S. Hor, and Lu Li, Phys. Rev. B **90**, 195141 (2014).
+* [7] E. Lahoud, E. Maniv, M. S. Petrushevsky, M. Naamneh, A. Ribak, S. Wiedmann, L. Petaccia, Z. Salman, K. B. Chashka, Y. Dagan, and A. Kanigel, Phys. Rev. B **88**, 195107 (2013).
+* [8] Yunsheng Qiu, Kyle Sanders, Jxia Dai, Julia Medvedeva, Weida Wu, Pouyan Ghaemi, Thomas Vojta, and Y. S. Hor, arXiv:1512.03519.
+* [9] Tomoya Asaba, B. J. Lawson, Colin Tinsman, Lu Chen, Paul Corbae, Gang Li, Y. Qiu, Y. S. Hor, Liang Fu, and Lu Li, arXiv:1603.04040.
+* [10] L. Li, J. G. Checkelsky, Y. S. Hor, C. Uher, A. F. Hebard, R. J. Cava, and N. P. Ong, Science **332**, 825 (2011).
+* [11] G. Li, Z. Xiang, F. Yu, T. Asaba, B. Lawson, P. Cai, C. Tinsman, A. Berkley, S. Wolgast, Y. S. Eo, D. J. Kim, C. Kurdak, J. W. Allen, K. Sun, X. H. Chen, Y. Y. Wang, Z. Fisk, and L. Li, Science **346**, 1208 (2014).
+
+  * [12] M. Kriener, K. Segawa, Z. Ren, S. Sasaki, and Y. Ando, Phys. Rev. Lett. **106**, 127004 (2011).
+* [13] M. Kriener, K. Segawa, Z. Ren, S. Sasaki, S. Wada, S. Kuwabata, and Y. Ando, Phys. Rev. B **84**, 054513 (2011).
+* [14] K. Eto, Z. Ren, A. A. Taskin, K. Segawa, and Y. Ando, Phys. Rev. B **81**, 195309 (2010).
+* [15] D. Shoenberg, _Magnetic Oscillations in Metals_ (Cambridge University, Cambridge, England, 1984).
+* [16] P. Monceau and A. Briggs, J. Phys. C **11**, L465 (1978).
+* [17] R. M. Fleming, J. A. Polo, Jr., and R. V. Coleman, Phys. Rev. B **17**, 1634 (1978).
+* [18] A. Audouard, J. Richard, S. Dubois, J. P. Ulmet, and S. Askenazy, Synth. Met. **55-57**, 2629 (1993).
+* [19] R. Corcoran, P. Meeson, Y. Onuki, P-A Probst, M. Springford, K. Takita, H. Harima, G. Y. Guo, and B. L. Gyorffy, J. Phys. Condens. Matter **6**, 4479 (1994).
+* [20] John E. Graebner and M. Robbins, Phys. Rev. Lett. **36**, 422 (1976).
+* [21] G. B. Scott and M. Springford, Proc. Roy. Soc. Lond. A **320**, 115 (1970).
+* [22] M. H. Halloran, J. H. Condon, J. E. Graebner, J. E. Kunzler, and F. S. L. Hsu, Phys. Rev. B **1**, 366 (1970).
+* [23] P. J. Hirschfeld, M. M. Korshunov, and I. I. Mazin, Rep. Prog. Phys. **74**, 124508 (2011).
+* [24] J. Paglione and R. Greene, Nat. Phys. **6**, 645 (2010).
+* [25] J. G. Analytis, J.-H. Chu, R. D. McDonald, and S. C. Riggs, and I. R. Fisher, Phys. Rev. Lett. **105**, 207004 (2010).
+
+ 

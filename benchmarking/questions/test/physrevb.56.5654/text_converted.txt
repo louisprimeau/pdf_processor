@@ -1,0 +1,658 @@
+# In-plane thermal conductivity and Lorenz number in YBa₂Cu₃O_(7 − y)
+
+K. Takenaka
+
+Y. Fukuzumi
+
+K. Mizuhashi
+
+S. Uchida
+
+Department of Superconductivity, The University of Tokyo, Bunkyo-ku,
+Tokyo 113, Japan
+
+H. Asaoka
+
+H. Takei
+
+Institute for Solid State Physics, The University of Tokyo, Minato-ku,
+Tokyo 106, Japan
+
+Received 16 October 1996; revised manuscript received 8 April 1997
+
+###### Abstract
+
+We make a tentative proposal to extract the electronic contribution to
+the in-plane thermal conductivity κ_(el)(T) of YBa₂Cu₃O_(7 − y) in the
+normal state. We have measured κ_(ab)(T) for single crystals with
+various oxygen contents (6.06 ≤ 7 − y≈6.93). The systematic study of the
+oxygen-content dependence of κ_(ab) for the insulating phase enables us
+to estimate the phononic contribution κ_(ph)(T) for the metallic phase
+to some extent. Based on the estimated κ_(ph) , we examined κ_(el) from
+the view point of whether the Wiedemann-Franz law holds or not. The
+estimated κ_(el) appears to show only a weak T dependence and no
+significant change at a characteristic temperature T^(*) below which the
+electrical conductivity σ_(ab)(T) is enhanced possibly due to the
+opening of a spin gap. The difference between κ_(el) and σ_(ab) suggests
+the violation of the Wiedemann-Franz law below T^(*). We discussed the
+ambiguity of our analyses and other possible interpretations of the
+present result as well as the picture of the charge transport speculated
+from the above suggestion. [S0163-1829(97)02934-2]
+
+## 1 Introduction
+
+A striking feature in the charge transport of high-T_(c) superconductors
+is the systematic deviation from the T-linear behavior in the in-plane
+resistivity ρ_(ab)(ρ_(a))(T) commonly observed below a characteristic
+temperature T^(*) well above T_(c) in the underdoped cuprates
+YBa₂Cu₃O_(7 − y), [1, 2] YBa₂Cu₄O₈, [3] and La_(2 − x)Sr_(x)CuO₄. [4]
+This characteristic behavior provides us with a clue to elucidate the
+mechanism of the charge transport or an interplay between charge and
+spin excitations. [1, 2]
+
+In order to get further insight into this issue, we have investigated
+the in-plane thermal conductivity κ_(ab)(T) of YBa₂Cu₃O_(7 − y) using
+single crystals with various oxygen contents in the range 6.06  ≤ 7 − y≤
+6.93. The thermal conductivity of YBa₂Cu₃O_(7 − y) has so far been
+studied by many researchers. [5] However, the previous works focused on
+the superconducting state. [6, 7, 8, 9, 10, 11, 12, 13] Much less
+attention has been paid to its magnitude and T dependence in the normal
+state to make a detailed comparison between thermal and electrical
+conductivity. Here we make an attempt to establish the relation between
+the thermal and electrical conduction by studying how the characteristic
+behavior in ρ_(ab) below T^(*) is reflected in κ_(ab).
+
+In metals the thermal and electrical relaxation are closely related to
+each other and the investigations of similarities and differences
+between them–generally it is carried out based on Lorenz number L_(e)(T)
+= κ(T)/σ(T)T–has enabled us to identify the mechanism of the charge
+transport. [14, 15, 16] In high-T_(c) superconductors, however,
+electronic ($\kappa_{\rm d}$) and lattice ($\kappa_{\rm ph}$) components
+of the in-plane thermal conductivity are both substantial, which has
+prevented us from understanding the thermal transport of the charge
+carriers. [9, 10, 11, 12, 13]
+
+In order to determine $\kappa_{\rm el}$, we have attempted to estimate
+$\kappa_{\rm ph}$ for the metallic phase by the detailed investigation
+of κ_(ab) for the insulating phase. The present study indicates that at
+high temperatures the T dependence of κ_(ab) should be attributed
+primarily to $\kappa_{\rm ph}$, suggesting that $\kappa_{\rm el}$ shows
+a weak T dependence over the whole T region in the normal state and
+hence the Wiedemann-Franz (WF) law does not hold below T^(*) while it
+holds above T^(*). Examining the ${\bf q}$ dependence of the scattering
+process based on the failure of the WF law and differences between the
+spin-gap structures around ${\bf q}$ = 0 and ${\bf Q}$ indicated by NMR
+experiments, it is suggested that the charge carriers are scattered
+predominantly by the processes with small momentum change.
+
+## 2 Experiments
+
+Single crystals of YBa₂Cu₃O_(7 − y) were grown by a self-flux method
+using a Y₂O₃ crucible. [17, 18] The oxygen content was controlled by
+annealing them at 600 ^(∘)C for 12 h in a sealed quartz tube together
+with about 10 g of polycrystalline YBa₂Cu₃O_(7 − y) and determined by
+the iodometric titration of these polycrystals. After annealing, the
+crystals were slowly cooled in order to reduce oxygen disorder in the
+chain site. [1] In order to make the analyses and discussions more
+convincing, we have also investigated the a-b anisotropy of the thermal
+conduction for detwinned YBa₂Cu₃O_(6.68) and the in-plane thermal
+conductivity of YBa₂(Cu_(0.99)Zn_(0.01))₃O_(6.93). The twin defects were
+removed by applying uniaxial stress ( ∼ 10² kgf/cm²) at 450 ^(∘)C for 40
+h. The annealing condition mentioned above was crucial to avoid
+introducing twin defects into the twin-free crystals. [2] The
+observation by a polarized optical microscope and single-crystalline
+x-ray diffraction confirm that the detwinning was perfect. The Zn
+content was examined by electron-probe microanalysis (EPMA).
+
+The thermal conductivity was measured by a steady-state method. The
+specimen was anchored on a copper heat sink and a 120 Ω strain gauge was
+placed as a heater with silver paste. The temperature gradient across
+the specimen ΔT (0.3−0.5 K) was measured by a differential Chromel
+Constantan thermocouple attached to the specimen using varnish.
+
+The experimental results are shown in Fig. 1(a) for κ_(ab) of insulating
+YBa2Cu3O7- (6.06  ≤ 7 - y≤ 6.34) and in Fig. 1(b) for κ_(ab) of metallic
+YBa2Cu3O7- (T_(c)∼ 63 K and 92 K for 7 - y∼ 6.68 and 6.93,
+respectively). The results of κ_(a) and κ_(b) for twin-free YBa2Cu3O6.68
+and κ_(ab) for YBa2(Cu1-Zn3)3O6.93 (z = 0 and ∼ 0.01, T_(c)∼ 80 K) are
+displayed in Fig. 2 and Fig. 3, respectively. The major source of
+uncertainty in the thermal conductivity measurements is heat loss. The
+vacuum below 10⁻⁶ torr and adopting a fine (25 μm) Constantan wire as a
+lead reduce heat losses via residual gases and lead to below 1
+
+Figure 1: In-plane thermal conductivity κ_(ab) of YBa2Cu3O7- plotted as
+a function of temperature for the insulating compounds (6.06  ≤ 7– y≤
+6.34) (a) and for the metallic compounds (7−y∼ 6.68 and 6.93) (b). The
+dashed curve shown in (b) represents the estimated phonon contribution
+κ_(ab) described in the text. Insets show the in-plane resistivity
+ρ_(ab) measured on the same crystal.
+
+Figure 3: Temperature dependence of κ_(ab) measured on
+YBa2(Cu1–Zn3)3O6.93 for z = 0 and ∼ 0.01 (T_(c)∼ 80 K). The in-plane
+thermal conductivity is drastically suppressed by Zn substitution. In
+the normal state, T⁻¹-like behavior due to the phonon-phonon U process
+almost disappears. This can be interpreted as that the Zn ions disturb
+the phononic system of the CuO2 plane as a main heat channel. In the
+superconducting state, on the other hand, the abrupt peak observed for
+pure crystal almost disappears, contrary to L^(*)σ₁T which shows a peak
+clearly below T_(c). This suggests the existence of some process which
+contributes to $W^{\rm el}$ but not to ρ_(ab) .
+
+Figure 2: Temperature dependence of in-plane thermal conductivity
+components κ_(a) and κ_(b) measured on a detwinned YBa2Cu3O6.68. For a
+comparison, κ_(ab) and estimated κ_(ph) of YBa2Cu3O6.68 are also shown
+by a solid and a dashed curve, respectively. The _a-b_ anisotropy is
+attributable to the electronic components.
+
+## III Results
+
+### Insulating phase
+
+In insulators, heat is carried by phonons and, in some cases, by
+magnons. Because r_(b) measured in this work is at least 5x10-3 O cm, an
+electronic contribution is roughly estimated to be less than 2
+
+The most notable feature of k_(b) is the two structures for the sample
+with the lowest oxygen content (7 - y   6.06): a shoulder at  80 K and a
+broad peak at  200 K. The thermal conductivity of an ordinary insulating
+crystal is characterized by a T3 rise at low temperatures dominated by
+band-ary scattering which crosses over to a _T_-1 tail at high
+temperatures due to a phonon-phonon umklapp(_U_) process.14 In the
+present case, the peak at  200 K is hardly explained within the
+framework of the conventional lattice thermal conductivity. The origin
+of this "double-peak" structure is still in dispute as is discussed
+later (Sec. IV.1). However, it is more essential that this structure is
+not remarkable except in the neighborhood of 7 - y = 6. This structure
+is rapidly suppressed by oxygenation and for the partially oxygenated
+compounds k_(b) is characterized solely by the broad peak at  80 K which
+is a typical lattice thermal conductivity of an ordinary insulator.
+Therefore, the shoulder at  80 K for  6.06 should be considered due to
+the same origin of the broad peak for the partially oxygen-ated
+compounds–the crossover from a T3 rise to a _T_-1 tail. The effect of
+the double-peak structure appears to be notable only for the higher-_T_
+region. In this sense, we may argue the y dependence of k_(h) based on
+the lower-temperature part of k_(b). For the range 6.19-6.34, we
+measured k_(b) on the _same_ crystal with various oxygen contents, which
+enables us to make systematic and quantitative discussions on the y
+dependence of k_(b)(ph).
+
+The decrease of k_(b)(ph) with oxygenation is probably due to the
+increase of phonon-defect scatterings by the randomness in the chain
+layer. However, the present result shows that the drastic suppression by
+oxygen introduction is remarkable only in the neighborhood of 7 - y = 6
+and further oxygenation does not change k_(b) so strongly. In fact,
+k_(b) is almost the same for   6.25 and 6.34 except the slight
+difference near room temperature probably due to the remnants of the
+double-peak structure. This suggests that for the intermediate
+compositions the phononic state as a heat channel is the same regardless
+of oxygen content. In addition, it is noteworthy that _T_-1-like
+behavior is clearly observed for   6.34 where the chain layers are
+considerably disordered. These features can be explained consistently by
+the picture that heat flows mainly through nearly perfect other layers
+and hence the randomness in the chain layers has rather indirect effects
+on the in-plane k_(h).
+
+A minor role of the chain layer as a heat channel is supported by the
+result that the _a_-_b_ anisotropy of the in-plane thermal conductivity
+measured on a twin-free crystal arises from the electronic contribution
+(Fig. 2 for the 60-K material and Ref. 8 for the 90-K material). The
+difference between k_(a) and k_(b) can roughly be scaled with the
+difference between r_(a) and r_(b).21 The in-plane phononic components
+should be isotropic.
+
+Impurity effect on k_(b) suggests that a main heat channel is CuO2
+plane. Zinc substitution suppresses k_(b) so drastically that in the
+normal state _T_-1-like behavior, due to a phonon-phonon U process,
+almost disappears (Fig. 3). The NMR study indicates that the Zn ions are
+substituted selectively for the planar Cu(2),22 and hence this result
+can be understood by the fact that the Zn substitution affects the
+phononic system of the CuO2 plane as a main heat channel, which is
+consistent with the fact that k_(b) is drastically suppressed by a
+slight oxygenation for the nearly stoichiometric region.
+
+### Metallic phase
+
+For the 90-K material, k_(b) is characterized by a pronounced peak below
+T_(c) and a clear _T_-1-like tail in the normal state. For the 60-K
+material, the overall feature is not affected by the oxygen reduction,
+though its magnitude and T dependence are suppressed compared with the
+90-K material. The weak T dependence of k_(b) in the normal state
+reported previously is probably due to the radiation heat loss and/or
+less integrity of the specimens.
+
+First, we examine k_(b) in the normal state. The result of k_(b) for the
+insulating phase provides us with the following picture of k_(h) at high
+temperatures: _k__ph can be described as
+$\kappa_{\rm ph} = (W_{0}^{\rm ph} + \alpha T)^{- 1}$. Here
+$W_{0}^{\rm ph}$ and αT are phonon thermal resistivities due to the
+phonon-defect and phonon-phonon processes, respectively. The y
+dependence of k_(h) is dominated by the randomness in the chain layers.
+For the intermediate compositions k_(h) is not sensitive to the oxygen
+content and can be commonly characterized by the _T_-1-like tail. These
+features indicate that _T_-1-like behavior of k_(b) for the two metallic
+samples should be attributed to not electronic but _phononic_ origin. If
+we roughly estimate the electronic contribution assuming the WF law, the
+decrease of k_(b) for the 60-K material is hardly explained by increase
+of r_(b) alone20,23 and hence the increase of $W_{0}^{\rm ph}$ by
+introducing the randomness into the chain layers should be taken into
+account.
+
+Turning to the superconducting state, the main subject is whether the
+pronounced peak below T_(c) is electronic or phononic in origin.24 The
+present result supports the former because the peak for the 90-K
+material is larger than k_(b) for the O6.06 crystal. The phonon mean
+free path should be considered originally suppressed by some scatterers
+other than charge carriers, probably by slight nonstoichiometry
+(randomness in the chain layer). Some researchers claim the phononic
+origin based on the result that k_(b) of the crystal reduced further
+than   6.06 is larger than that of the 90-K material. However, the 90-K
+material (  6.93) contains the randomness in the chain layers. In the
+neighborhood of the stoichiometric composition k_(b) is considered to be
+drastically suppressed by the randomness in the chain layers and hence
+k_(b) of the 90-K material should be compared with the O6.06 crystal
+rather than the stochiometric YBa2Cu3O6 because of the similar
+structural integrity.
+
+## IV Analyses
+
+### Origin of the double-peak structure
+
+We examine two candidates for the origin of this anomalous structure.
+One is heat conduction by the spin waves in the CuO₂ plane.[25] The
+contribution of magnon ($\kappa_{\rm mg}$) is suggested by the following
+facts: (1) The peak temperature is comparable to the Neel temperature of
+the material. (2) A similar broad peak at ∼200 K is observed for
+PrBa₂Cu₃O_(7 − y) (Ref. [26]) in which few holes are doped into the CuO₂
+plane for any oxygen content and the planes remain to be a
+charge-transfer (CT) insulator.[27, 28] (3) The drastic suppression of
+this peak by oxygen introduction or by a small concentration (<2.5 at.
+
+As an alternative interpretation of this double-peak structure, the
+anomalous phonon damping mechanism due to tilt distortion of the CuO
+polyhedra is proposed.[30] Cohn _et al._ claimed that this
+interpretation has the following advantages over the magnetic origin:
+(1) weak magnetic field dependence and (2) absence of this structure in
+κ_(ab) for the T^(′) compound Pr₂CuO₄.[26, 31] which has no apical
+oxygen. However, these facts might be explained also by spin-wave
+contribution as follows: (1) The magnetic coupling is much stronger than
+the effect of an ordinary magnetic field. (2) In the case of Pr₂CuO₄,
+κ_(ab) is larger than that of La₂CuO₄ or YBa₂Cu₃O₆ probably because of a
+larger contribution of the lattice component due to better
+stoichiometry. Assuming $\kappa_{\rm mg}$ is nearly the same between
+Pr₂CuO₄ and YBa₂Cu₃O₆, $\kappa_{\rm ph}$ in Pr₂CuO₄ is about twice as
+large as that in YBa₂Cu₃O₆.
+
+### Separation of electronic and lattice contributions
+
+The present experimental result indicates that the T dependence of
+κ_(ab) should be attributed primarily to $\kappa_{\rm ph}$. The subject
+in this section is to examine the magnitude and T dependence of the
+electronic contribution $\kappa_{\rm el}$. It is plausible to discuss
+$\kappa_{\rm el}$ within the Boltzmann transport theory. It limits
+$\kappa_{\rm el}$≈L₀σT, where the equal sign represents the WF law.[14]
+We examine whether the estimation of $\kappa_{\rm el}$ assuming the WF
+law is consistent or not with the speculation of $\kappa_{\rm ph}$
+deduced from the y dependence of κ_(ab) for the insulating phase.
+
+The WF law appears hold where T linearity of ρ_(ab) is observed because
+it yields a T-independent $\kappa_{\rm el}$ and hence is self-consistent
+with the above conclusion that the T dependence of κ_(ab) is dominated
+by $\kappa_{\rm ph}$. For the 90-K material, $\kappa_{\rm el}$ is
+estimated to be more than 40
+
+The central concern is if the enhancement of σ_(ab) below T^(*) leads to
+a similar enhancement of $\kappa_{\rm el}$ for the 60-K material. The
+present study is, if anything, negative to this, suggesting violation of
+the WF law below T^(*). $\kappa_{\rm el}$ appears to be almost T
+independent or, at least, to show a weaker T dependence than that
+estimated from the enhancement of σ_(ab) assuming the WF law.
+
+If we estimate $\kappa_{\rm el}$ to be L_(e)T/ρ_(ab), $\kappa_{\rm ph}$
+(=κ_(ab)−$\kappa_{\rm el}$) is T independent or decreases with
+decreasing temperature unless we adopt the substantially small value of
+L_(e) compared with the Sommerfeld value L₀ and/or that measured on
+various metals[32] (Fig. 4). This behavior is usually observed for the
+heavily disordered phononic systems like amorphous solids or disordered
+alloys, where the phonon mean free path is so short that it is not
+sensitive to additional scattering processes.[14] This is contrary to
+the present experiment, suggesting that the phononic system of a main
+heat channel is rather indirectly affected by the randomness in the
+chain layers and hence $\kappa_{\rm ph}$ shows persistently T⁻¹-like
+behavior. For the intermediate compositions $\kappa_{\rm ph}$ is almost
+y independent and hence we may regard κ_(ab) for ∼ 6.34 as the "common"
+$\kappa_{\rm ph}$ for the partially oxygenated compounds with oxygen
+content ranging from ∼ 6.25 to ∼ 6.68 (the 60-K material). The above
+estimated $\kappa_{\rm ph}$ is rather suppressed compared with κ_(ab) of
+∼ 6.34 [the dashed curve in Figs. 1(b) and 4].
+
+Assuming κ_(ab) for ∼ 6.34 to be equal to $\kappa_{\rm ph}$ for the 60-K
+material, $\kappa_{\rm el}$ can be determined as a difference between
+the measured κ_(ab) and the above-estimated $\kappa_{\rm ph}$ (Fig. 5).
+It follows that in the normal state $\kappa_{\rm el}$ is almost T
+independent, in contrast to the dashed curve L^(*)T/ρ_(ab) (L^(*) is
+chosen to coincide with $\kappa_{\rm el}$ at 300 K, ∼ 3.1× 10⁻⁸ W Ω/K²).
+The difference is more clearly envisaged in terms of the Lorenz number
+L_(e)=$\kappa_{\rm el}\rho_{ab}/T$ (Fig. 6). One can rule out the
+contribution of the CuO chains to κ_(ab) by observing the difference in
+κ_(a) and ρ_(a) measured on the twin-free YBa₂Cu₃O_(6.68). This
+indicates that this feature is inherent to the CuO₂ plane.
+
+If $\kappa_{\rm ph}$ of the 60-K material is substantially suppressed
+compared with κ_(ab) of ∼ 6.34, it probably originates from the electron
+(charge carrier)-phonon interaction. However, this effect is considered
+to make only a minor contribution in this system by the following
+reason. The phonon thermal resistivity due to electron scattering,
+$W_{\rm ph}^{\rm ph}$, is generally re
+
+Figure 4: The measured κ_(ab) and the estimated $\kappa_{\rm el}$ and
+$\kappa_{\rm ph}$ assuming the WF law with various values of Lorenz
+number for YBa₂Cu₃O_(6.68). For comparison, κ_(ab) for ∼ 6.34 is also
+shown by a dashed curve. For the reasonable values of L,
+$\kappa_{\rm ph}$ is T independent or decreases with temperature
+decreases, which is contradictory to the prediction based on the results
+of κ_(ab) for the insulating phase. The T dependence of κ_(ab) is
+primarily attributed to $\kappa_{\rm ph}$.
+
+lated to the electrical resistivity due to phonon scattering,
+$\rho_{\rm ph}^{\rm d}$. In the conventional picture this relation is
+expressed as
+
+$$W_{\rm el}^{\rm ph} = \frac{\rho_{\rm ph}^{\rm el}}{L_{0}T}\frac{\pi n_{a}^{\rm a}}{3}$$
+
+at high temperatures (n_(a) is the number of electron per unit
+cell).[14] Previous studies indicate that the electron-phonon
+interaction plays only a minor role on the electrical resistivity,[1,
+33] and hence $W_{\rm el}^{\rm ph}$ can be ignored in the present case.
+
+The phonon-magnon (spin fluctuation) interaction may also have some
+contribution to $W^{\rm ph}$. However, because boson-boson scattering
+hardly persists at low temperatures, a phonon-magnon coupling, if any,
+cannot contribute to $W^{\rm ph}$. At high temperatures, if the spin
+scattering is dominant, $\kappa_{\rm ph}$ will increase monotonically
+with increasing oxygen content because the magnetic fluctuation or the
+magnetic order is destroyed by hole doping. Therefore, the phonon-magnon
+interaction seems to make only a minor contribution to $W^{\rm ph}$
+because the y dependence of $\kappa_{\rm ph}$ is controlled by the
+randomness in the chain layers.
+
+The effect of the anomalous double peak may still remain persistently at
+near room temperature for ∼ 6.34. However, this effect tends to weaken
+the T⁻¹-like behavior and hence $\kappa_{\rm ph}$ for the 60-K material
+shows more clearly the T⁻¹-like behavior than κ_(ab) for ∼ 6.34, which
+leads to a strengthening of the violation of the WF law.
+
+Next, we make a rough estimation of $\kappa_{\rm el}$ at the
+superconducting state. It appears that the WF law holds over the whole T
+region as far as ρ_(ab) shows T linearity. Then, for the 90-K material
+we estimate $\kappa_{\rm el}$ and $\kappa_{\rm ph}$ in the normal state
+to be L^(*)T/ρ_(ab) = 6.0 W/mK and κ_(ab) ∼ $\kappa_{\rm el}$ =
+($W_{0}^{\rm ph}$ + αT)⁻¹, respectively. A least-squares fit yields α =
+5.50x10⁻⁴ m/W and $W_{0}^{\rm ph}$ = 4.48x10⁻² mK/W. The estimated
+$\kappa_{\rm ph}$ at high temperatures is smoothly connected to κ_(ab)
+of the O6.06 crystal which is considered to represent $\kappa_{\rm ph}$
+of the 90-K material at the low-T region. $\kappa_{\rm el}$ in the
+superconducting state is determined as a difference between κ_(ab) and
+this $\kappa_{\rm ph}$. Thus estimated $\kappa_{\rm ph}$,
+$\kappa_{\rm el}$, and L_(e) are shown in Fig. 1(b) (dashed curve), the
+inset of Fig. 5, and Fig. 6, respectively. Then, we can make a parallel
+analysis on the charge (quasiparticle) transport in the superconducting
+state by formally comparing $\kappa_{\rm el}$ with the real part of the
+microwave conductivity, σ₁(T). Reflecting the enhancement of the
+relaxation time and a rapid decrease in the quasiparticle density, σ₁
+shows a pronounced peak below T_(c), which reaches a value more than 20
+times the normal-state value.[34] It turns out that the estimated
+$\kappa_{\rm el}$ is smaller than L^(*)σ₁T below T_(c), as in the case
+of $\kappa_{\rm el}$ in the normal state below T* for the underdoped
+compounds (Inset of Fig. 5). Thus, a common mechanism might be working
+which violates the WF law when either superconducting or spin gap opens.
+
+We cannot completely exclude other possibilities of interpreting the
+experimental results. (1) Ignoring $W_{\rm el}^{\rm ph}$ may be an
+oversimplification even if the electron-phonon interaction makes only a
+minor contribution to the carrier scattering. Therefore, the present
+interpretation might be altered according to a more precise estimation
+of $W_{\rm el}^{\rm ph}$: The WF law may hold also below T*. In any
+case, it seems to be sure that the WF law holds at least above T* or
+where ρ_(ab) shows the T-linear behavior. (2) A question arises whether
+L_(e) is much smaller than the Sommerfeld value L₀. For example, the
+Lorenz number of the nondegenerate Bose gas with charge 2e is
+∼$\frac{1}{4}L_{0}$ (Ref. [35]) (Sec. V). However, the present result is
+negative to this picture. Considering the possibility of the
+electron-phonon interaction and/or remnants of the double-peak
+structure, κ_(ab) for ∼ 6.34 does not appear to underestimate
+$\kappa_{\rm ph}$ for the 60-K material. Therefore, L_(e) hardly becomes
+small comparable to 1/4L₀, for example.
+
+## V Discussion
+
+Based on the correlation between T* and the onset of a spin gap, we
+speculated that the in-plane charge transport is
+
+Figure 5: Temperature dependence of the estimated electronic component
+of the in-plane thermal conductivity, $\kappa_{\rm el}$, for the 60-K
+material. The details of the estimation are described in the text. The
+dashed curve shows L^(*)T/ρ_(ab) (L^(*) is chosen to coincide with
+$\kappa_{\rm el}$ at 300 K, ∼ 3.1x10⁻⁸ W Ω/K²). The inset shows
+$\kappa_{\rm el}$ (solid curve) and L^(*)σ₁T (dashed curve) for the 90-K
+material. σ₁ is taken from Ref. [34].
+
+Figure 6: Temperature dependence of the Lorenz number L_(e) =
+$\kappa_{\rm el}$/σ_(ab)T estimated for YBa₂Cu₃O_(7 → j) in the metallic
+phase. For the 60-K material, L_(e) is T dependent below T* while it is
+T independent above T*, suggesting the failure of the WF law below T*.
+
+dominated by the spin excitations and the enhancement of σ_(ab) below
+T^(*) is due to the decrease in the density of the spin excitations upon
+opening the spin gap [1]. If the spin gap has a _different_ effect on
+the thermal and electrical conduction, as is suggested by the present
+result that κ_(el) appears to show a weak T dependence also below T^(*),
+it might be necessary to take into account different scattering
+processes between electrical and thermal conduction.
+
+The results of NMR experiments show that the Knight shift ΔK,
+proportional to the uniform susceptibility $\chi({\bf q}\!=\!0\,)$, is
+suppressed below T_(K) which is higher than the temperature T_(R) at
+which the nuclear relaxation (T₁T)⁻¹, proportional to the staggered
+susceptibility $\chi({\bf q}\!=\!{\bf Q})$ with
+${\bf Q}\!=\!(\,\pi,\pi)$ (antiferromagnetic wave number), shows a peak
+[36]. The characteristic temperature T^(*) in the charge transport is
+rather close to T_(K)[2, 37, 38] and so the electrical conduction seems
+to be dominated by the process with small momentum change.
+
+The intimate relation between σ_(ab) and χ(0) leads to the following
+picture of the in-plane charge transport. Above T^(*)( ∼ T_(K)) both
+σ_(ab) and κ_(el) are dominated by spin excitations with small momentum
+and so the WF law holds. On the other hand, below T^(*), where the spin
+excitations around ${\bf q}\!=\!0$ are suppressed, excitations with
+larger momentum, for example, ${\bf q}\!\sim\!{\bf Q}$, become dominant,
+which incidentally coincides with the wave number of the nodes in a
+d_(x² − y²)-like spin gap [39]. In this case, the present experimental
+result can be explained if the process with a large momentum change
+contributes to the thermal resistance ($W^{\rm el}$) but not to the
+electrical resistance (ρ_(ab)).
+
+Contrary to this, if the WF law does hold also below T^(*), it indicates
+that the spin gap has the _same_ effect on the thermal and electrical
+conduction. One possible explanation is that the relaxation process
+depends only upon the frequency of the scattering.
+
+However, ${\bf q}$ dependence of scattering process, especially the
+connection between σ_(ab) and χ(0), is suggested also by studies of
+Zn-substitution effects on charge and spin excitation. A recent study
+[20] indicates that Zn substitution does not affect the T-dependent part
+of ρ_(ab) but only increases the T-independent residual resistivity. The
+NMR (Refs. [22] and [40]) and neutron scattering [41, 42] studies of the
+Zn-substitution effect indicate that the spin gap feature is sensitive
+to Zn around ${\bf q}\!=\!{\bf Q}$, while it is not around
+${\bf q}\!=\!0$.
+
+If the scattering process below T^(*) which contributes only to the
+thermal conductivity originates from spin excitations around
+${\bf q}\!=\!{\bf Q}$, Zn substitution, which fills up the spin gap
+around ${\bf q}\!=\!{\bf Q}$, suppresses κ_(el) below T^(*) (or T_(c))
+further than the estimation taking into account only the elastic
+scattering by Zn ions. The above picture is not contradictory to the
+present experimental result. In Fig. 3, L^(*)σT, which is estimated
+using ρ_(ab) and σ₁ for Zn-substituted YBa₂Cu₃O₇ taken from Ref. [20]
+and Ref. [43], respectively, is also shown. Below T_(c) (∼ 80 K) L^(*)σT
+exhibits a peak clearly while the measured κ_(ab) shows little change at
+T_(c) , suggesting the existence of some process which contributes to
+$W^{\rm el}$ but not to ρ_(ab) .
+
+The mechanism of the charge transport related to χ(0) appears to be
+hardly explained within the framework of the Fermi-liquid picture. Some
+theorists propose non-Fermi-liquid models as an alternative. One of them
+is that based on the uniform resonating valence bond (RVB) state [44],
+where one electron dissociates into a spinon-holon pair in the CuO₂
+plane and they are coupled through a gauge field. In this context, the
+in-plane electrical current is carried by holons which are scattered by
+the long-wavelength (small-momentum) fluctuation of the gauge field.
+This mechanism yields T-linear resistivity. These fluctuations are
+suppressed by the spinon condensation (singlets) and hence the
+resistivity is reduced in the spin gap region. On the other hand, the
+in-plane thermal current is carried by spinons in this model, so that
+the WF law is not necessarily to be obeyed.
+
+The bipolaron model is proposed as another non-Fermi-liquid model of
+high-T_(c) superconductors [35]. In this model, the current is carried
+by charged spin bipolarons, which form a condensed Bose gas below T_(c)
+and a nondegenerate gas above it. Extended (free) bipolarons whose
+density is proportional to T are scattered by localized bipolarons. This
+relaxation rate is proportional to T² because only localized bosons
+within the energy shell of $k_{\rm B}T$ near the mobility edge
+contribute to the scattering and the number of the final state is
+proportional to T, so that the in-plane resistivity is expected to be
+linear in T. The magnetic properties are dominated by a singlet-triplet
+exchange of bipolarons: Below the characteristic temperature T^(*) which
+coincides with T_(K), the triplet bipolarons turn into the singlet one,
+and so the spin degree of freedom is frozen. If singlets are lighter
+than triplets, this model can explain also the deviation from the
+T-linear behavior of the in-plane resistivity below T^(*). However, in
+this scenario the failure of the WF law below T^(*) cannot be explained
+because the scattering mechanism itself is not altered at T^(*). In
+addition, this model treats the carriers as a nondegenerate Bose gas
+with charge 2e and hence predicts that the Lorenz number is
+$3(k_{\rm B}/2e)^{2}\!=\!1/4L_{0}$, which is not favored by this study.
+
+The superconducting and spin gaps have the same influence on the charge
+transport in the sense that they radically change the Lorenz number.
+However, for the 60-K material, where T^(*) does not coincide with T_(c)
+, the difference between the effects of the superconducting gap and that
+of the spin gap becomes apparent: κ_(el) appears to show a peak below
+T_(c) while it does not show an appreciable change at T^(*). A surface
+resistance study by Kitano _et al._ suggests that σ₁ for the 60-K
+YBa₂Cu₃O_(6.7) material also shows a peak below T_(c) (Ref. [45]) as
+well as ρ_(ab) deviates from the T-linear behavior below T^(*). In both
+cases, the peaks below T_(c) for the 60-K material are suppressed
+compared with that for the 90-K material. These differences originate
+probably from the differences between quasiparticles and normal carriers
+and/or superconducting and spin gaps.
+
+## VL Summary
+
+We have proposed and examined a tentative approach to determine the
+electronic contribution to the in-plane thermal conductivity of metallic
+YBa₂Cu₃O_(7 − y) using κ_(ab) data measured on single crystals with
+various oxygen contents in the range 6.06 ≤ 7 − y ≤ 6.93. The present
+results suggest that the WF law does not hold below T_(c) or the
+characteristic temperature T^(*) which is close to the spin gap
+temperature at ${\bf q}\!=\!0$. Different T dependence between thermal
+and electrical relaxation indicates that the charge carriers are
+scattered dominantly by the spin excitations with small momentum.
+
+###### Acknowledgements.
+
+Grateful acknowledgment is made to H. Takagi for fruitful discussions.
+Technical support from K. Kitazawa and K. Kishio was crucial for the
+sufficient characterization of the crystals. This work was partly
+supported by Grant-in-Aid for Scientific Research on Priority Areas,
+"Science of High T_(c) Superconductivity" and "’Anomalous Metallic Phase
+near Mott Transition," and for the Encouragement of Young Scientists
+from the Ministry of Education, Science, and Culture of Japan.
+
+## References
+
+* [1] T. Ito, K. Takenaka, and S. Uchida, Phys. Rev. Lett. **70**, 3995
+(1993). * [2] K. Takenaka, K. Mizuhashi, H. Takagi, and S. Uchida, Phys.
+Rev. B **50**, 6534 (1994). * [3] B. Bucher, P. Steiner, J. Karpinski,
+E. Kaldis, and P. Wachter, Phys. Rev. Lett. **70**, 2012 (1993). * [4]
+Y. Nakamura and S. Uchida, Phys. Rev. B **47**, 8369 (1993). * [5] For a
+review, see C. Uher, in _Physical Properties of High Temperature
+Superconductor III_, edited by D. M. Ginsberg (World Scientific,
+Teaneck, NJ, 1992), p. 159. * [6] S. J. Hagen, Z. Z. Wang, and N. P.
+Ong, Phys. Rev. B **40**, 9389 (1989). * [7] Joshua L. Cohn, Stuart A.
+Wolf, and Terrell A. Vanderah, Phys. Rev. B **45**, 511 (1992). * [8] R.
+C. Yu, M. B. Salamon, Jian Ping Lu, and W. C. Lee, Phys. Rev. Lett.
+**69**, 1432 (1992). * [9] M. B. Salamon, Fang Yu, and V. N. Kopylov, J.
+Supercond. **8**, 449 (1995). * [10] K. Krishana, J. M. Harris, and N.
+P. Ong, Phys. Rev. Lett. **75**, 3529 (1995). * [11] Joshua L. Cohn,
+Phys. Rev. B **53**, R2963 (1996). * [12] A. V. Inyushkin, A. N.
+Tadlenkov, and T. G. Uvarova, Phys. Rev. B **54**, 13 261 (1996). * [13]
+Robert Gagnon, Song Pu, Brett Ellman, and Louis Taillefer, Phys. Rev.
+Lett. **78**, 1976 (1997). * [14] J. M. Ziman, _Electrons and Phonons_
+(Oxford University Press, Oxford, 1960); R. Berman, _Thermal Conduction
+in Solids_ (Oxford University Press, Oxford, 1976). * [15] For the case
+of Na, see J. G. Cook, M. P. Van der Meer, and M. J. Laubitz, Can. J.
+Phys. **50**, 1386 (1972). * [16] G. K. White and R. J. Tainsh, Phys.
+Rev. Lett. **19**, 165 (1967); J. T. Schriemph, A. I. Schindler, and D.
+L. Mills, Phys. Rev. **187**, 959 (1969). * [17] H. Takei, H. Asaoka, Y.
+Iye, and H. Takeya, Jpn. J. Appl. Phys. Part 1 **30**, 1102 (1991). *
+[18] Ruixing Liang, P. Dosanjh, D. A. Bonn, D. J. Baar, J. F. Carolan,
+and W. N. Hardy, Physica C **195**, 51 (1992). * [19] If the contact
+thermal resistance is ignored heat loss via radiation is estimated as
+follows: at 300 K for the typical specimen,
+$$\frac{\partial_{\rm rad}}{\partial_{\rm spec}}=\frac{4\sigma T^{3}}{\kappa}\frac{S_{\rm cross}+S_{\rm side}}{S_{\rm cross}}l<2\%\,.$$
+Here, σ is the Stefan-Boltzman constant, equal to 5.67 × 10⁻¹² W/cm² K⁴,
+$\partial_{\rm rad/spec}$ is the heat flow rate through radiation
+(specimen), $S_{\rm cross(side)}$ is the cross-section (side) area of
+the specimen, and l is the depth of the specimen [I. Yoshida
+(unpublished)]. In order to reduce the contact resistance, we used
+silver paste as contacts. * [20] K. Mizuhashi, K. Takenaka, Y. Fukuzumi,
+and S. Uchida, Phys. Rev. B **52**, R3884 (1995). * [21] If the WF law
+holds and we adopt L_(c)∼ 3.1× 10⁻⁸ W Ω/K² which is estimated by ρ_(ab)
+and κ_(di) in this study, the difference between the two phonon
+components, $\kappa_{0}^{\rm th}-\kappa_{a}^{\rm th}$, is estimated to
+be ∼ 0.5 W/mK at 300 K, which is less than 10 * [22] H. Alloul, P.
+Mendels, H. Casalta, J. F. Marucco, and J. Arabski, Phys. Rev. Lett.
+**67**, 3140 (1991). * [23] V. W. Wittorff, N. E. Hussey, J. R. Cooper,
+Chen Changkang, and J. W. Hodby (unpublished). * [24] J. L. Cohn, V. Z.
+Kresin, M. E. Reeves, and S. A. Wolf, Phys. Rev. Lett. **71**, 1657
+(1993); R. C. Yu, M. B. Salamon, and J. P. Lu, _ibid._**71**, 1658
+(1993). * [25] Y. Nakamura, S. Uchida, T. Kimura, N. Motohira, K.
+Kishio, K. Kitazawa, T. Arima, and Y. Tokura, Physica C **185-189**,
+1409 (1991). * [26] A. Inyushkin, A. Taldenkov, S. Shabanov, and T.
+Uvarova, Physica C **235-240**, 1487 (1994). * [27] K. Takenaka, Y.
+Imanaka, K. Tamasaku, T. Ito, and S. Uchida, Phys. Rev. B **46**, 5833
+(1992). * [28] R. Fehrenbacher and T. M. Rice, Phys. Rev. Lett. **70**,
+3471 (1993). * [29] H. Sato, Prog. Theor. Phys. **13**, 119 (1955). *
+[30] J. L. Cohn, C. K. Lowe-Ma, and T. A. Vanderah, Phys. Rev. B **52**,
+R13 134 (1995). * [31] Y. Nakamura and S. Uchida (unpublished). * [32]
+For example, see N. W. Ashcroft and N. D. Mermin, _Solid State Physics_
+(W. B. Saunders Company, Philadelphia, 1976), p. 21. * [33] M. Gurvitch
+and A. T. Fiory, Phys. Rev. Lett. **59**, 1337 (1987). * [34] D. A.
+Bonn, Ruixing Liang, T. M. Riseman, D. J. Baar, D. C. Morgan, Kuan
+Zhang, P. Dosanjh, T. L. Duty, A. MacFarlane, G. D. Morris, J. H.
+Brewer, W. N. Hardy, C. Kallin, and A. J. Berlinsky, Phys. Rev. B
+**47**, 11 314 (1993). * [35] N. F. Mott, Physica C **205**, 191 (1993);
+A. S. Alexandrov, A. M. Bratkovsky, and N. F. Mott, Phys. Rev. Lett.
+**72**, 1734 (1994). * [36] M. Takigawa, A. P. Reyes, P. C. Hammel, J.
+D. Thompson, R. H. Heffner, Z. Fisk, and K. C. Ott, Phys. Rev. B **43**,
+247 (1991). * [37] H. Y. Hwang, B. Batlogg, H. Takagi, H. L. Kao, J.
+Kwo, R. J. Cava, J. J. Krajewski, and W. F. Peck, Jr., Phys. Rev. Lett.
+**72**, 2636 (1994). * [38] T. Nakano, M. Oda, C. Manabe, N. Momono, Y.
+Miura, and M. Ido, Phys. Rev. B **49**, 16 000 (1994). * [39] A. G.
+Losser, Z.-X. Shen, D. S. Dessau, D. S. Marshall, C. H. Park, P.
+Fournier, and A. Kapitulnik, Science **273**, 325 (1996). * [40] G.-q.
+Zheng, T. Odaguchi, T. Mito, Y. Kitaoka, K. Asayama, and Y. Kodama, J.
+Phys. Soc. Jpn. **62**, 2591 (1993). * [41] K. Kakurai, S. Shamoto, T.
+Kiyokura, M. Sato, J. M. Tranquada, and G. Shirane, Phys. Rev. B **48**,
+3485 (1993).
+
+* [42] H. Harashina, S. Shamoto, T. Kiyokura, M. Sato, K. Kakurai, and
+G. Shirane, J. Phys. Soc. Jpn. **62**, 4009 (1993). * [43] D. A. Bonn,
+S. Kamal, Kuan Zhang, Ruixing Liang, D. J. Baar, E. Klein, and W. N.
+Hardy, Phys. Rev. B **50**, 4051 (1994). * [44] N. Nagaosa and P. A.
+Lee, Phys. Rev. Lett. **64**, 2450 (1990); N. Nagaosa, J. Phys. Chem.
+Solids **53**, 1493 (1992). * [45] H. Kitano, T. Shibauchi, K.
+Uchinokura, A. Maeda, H. Asaoka, and H. Takei, Phys. Rev. B **51**, 1401
+(1995).

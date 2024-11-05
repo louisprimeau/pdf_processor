@@ -1,0 +1,471 @@
+Pressure dependence of superconducting critical temperature and upper
+critical field of 2_H_-NbS₂
+
+V. G. Tissen,^(1, 2, *) M. R. Osorio,² J. P. Brison,³ N. M. Nemes,⁴ M.
+Garcia-Hernandez,^(5, 6) L. Cario,⁷ P. Rodiere,⁸ S. Vieira,² and H.
+Suderow^(2, 6, ↓)
+
+¹Institute of Solid State Physics, Chernogolovka, 142432 Moscow Region,
+Russia
+
+²Laboratorio de Bajas Temperaturas, Departamento de Fisica de la Materia
+Condensada, Instituto de Ciencia de Materiales Nicolas Cabrera, Facultad
+de Ciencias Universidad Autonoma de Madrid, ES-28049 Madrid, Spain
+
+³Centre de Recherches sur les tres Basses Temperatures CNRS, BP 166,
+F-38042 Grenoble Cedex 9, France
+
+⁴GFMC, Departamento de Fisica Aplicada III, Campus Moncloa, Universidad
+Complutense Madrid, ES-28040 Madrid, Spain
+
+⁵Instituto de Ciencia de Materiales de Madrid-CSIC, Cantoblanco ES-28049
+Madrid, Spain
+
+⁶Unidad Asociada de Bajas Temperaturas y Altos Campos Maganticos,
+UAM/CSIC, Cantoblanco ES-28049 Madrid, Spain
+
+⁷Institut des Materiaux Jean Rouvel (IMN), Universite de Nantes, CNRS, 2
+rue de la Houssiniere, BP 32229, F-44322 Nantes Cedex 03, France
+
+⁸Institut Neel, CRS/UJF, 25, Avenue des Martyres, BP 166, F-38042
+Grenoble Cedex 9, France
+
+###### Abstract
+
+We present measurements of the superconducting critical temperature
+T_(c) and upper critical field H_(c2) as a function of pressure in the
+transition metal dichalcogenide 2_H_-NbS₂ up to 20 GPa. We observe that
+T_(c) increases smoothly from 6 K at ambient pressure to about 8.9 K at
+20 GPa. This range of increase is comparable to the one found previously
+in 2_H_-NbSe₂. The temperature dependence of the upper critical field
+H_(c2)(T) of 2_H_-NbS₂ varies considerably when increasing the pressure.
+At low pressures, H_(c2)(0) decreases, and at higher pressures both
+T_(c) and H_(c2)(0) increase simultaneously. This points out that there
+are pressure induced changes of the Fermi surface, which we analyze in
+terms of a simplified two-band approach.
+
+pacs: 74.70.Xa, 74.62.Fj + Footnote †: preprint: PHYSICAL REVIEW B
+**87**, 134502 (2013)
+
+## I Introduction
+
+2_H_-NbSe₂ belongs to the family of transition metal dichalcogenide
+compounds and presents a charge density wave (CDW) below T_(CDW) = 33 K,
+which coexists with superconductivity (T_(c) = 7.2 K).1-10 2_H_-NbS₂ is
+a related two-band superconductor, with similar T_(c), and no charge
+order.11,12 The crystal structure of these materials consists of
+hexagonal transition metal-chalcogen sandwiches which are coupled
+through weak van der Waals forces, leading to hexagonal layers with
+large _c_-axis constant and strongly anisotropic properties (see Fig.
+1). Compressibility is larger along the c axis than in plane.13 Changes
+in the electronic properties are produced by altering the lattice
+constants, using compositional tuning (substitution,14 irradiation,15,16
+or intercalation between layers[17, 18, 19]) and applying pressure.
+Pressure has been shown to lead to an increase of the critical
+temperature in 2_H_-NbSe₂ with a maximum T_(c) around 8.5 K at 10 GPa.
+The CDW critical temperature decreases to zero at 5 GPa in this
+material, and shows significant pressure induced modifications in other
+compounds of the same family.13,20-24 The importance of local strain has
+been highlighted recently.25 In Ref. [20], authors apply pressure to
+2_H_-NbSe₂ and find that the effective dimensionality of the electronic
+structure is increased above 4.6 GPa.
+
+To characterize the electronic changes suffered under pressure in bulk
+materials, the measurement of the upper critical field H_(c2) is a
+simple and useful tool. In clean superconductors (with a mean free path
+ℓ greater than the coherence length ξ), the usual dependence of H_(c2)
+on temperature is given by the Helfand-Werthammer theory, which assumes
+a simple single-band spherical Fermi surface.27 It consists of a linear
+increase of H_(c2) close to T_(c), which flattens out at zero
+temperature. Within this theory,
+$H_{c2}(0)=\Phi_{0}\pi\frac{e^{-\gamma}}{(\mu^{2})}\frac{(T_{c})}{v_{F}}^{2}$,
+where Φ₀ is the flux quantum, γ ≈ 0.577 Euler’s constant, and v_(F) the
+Fermi velocity. The slope of the linear increase of H_(c2) close to
+T_(c), $\frac{dH_{c2}(T)}{dT}(T_{c})$, is also proportional to
+$(\frac{T_{c}}{v_{F}})$.28,29 A detailed treatment for complex Fermi
+surfaces developed in Refs. [30] and [31] shows that the upper critical
+field can have a strong dependence on temperature, which allows
+determining the Fermi velocity v_(F) and electron-phonon coupling λ
+parameters on different parts of the Fermi surface.
+
+In the two-gap compounds MgB₂, YNi₂B₂C, and 2_H_-NbSe₂, it was found
+that the ambient pressure H_(c2)(T) has a strong positive curvature
+close to T_(c). The associated difference in the Fermi velocities in
+both bands leads to differing coherence lengths for each band and thus
+two characteristic features in the upper critical field, giving the
+positive curvature observed in the experiment.23,24,30,52 In these
+compounds, the form of such positively curved H_(c2)(T) has a strong
+dependence as a function of pressure, from which electron-phonon
+coupling and Fermi surface velocities have been obtained. In 2_H_-NbS₂,
+scanning tunneling microscopy also revealed the existence of two
+superconducting gaps.11 Subsequent heat capacity measurements also show
+two-gap superconductivity and a small positive curvature of the upper
+critical field.12 Moreover, the temperature dependence of the superfluid
+density measured by the lower critical field and magnetic penetration
+depth is very similar to 2_H_-NbSe₂, and is well described by a two-gap
+model.33,34 Here, we present measurements of T_(c) and H_(c2)(T) as a
+function of the applied pressure in 2_H_-NbS₂. We observe a smooth
+increase in T_(c) as a function of pressure. H_(c2)(T) has a positive
+curvature at ambient pressure, with an anomalous pressure dependence,
+which evidences pressure induced changes in the Fermi surface.
+
+## II Experiment
+
+We have measured single crystalline samples of 2_H_-NbS₂, with T_(c)
+around 6 K and a residual resistivity ratio around 10. They were grown
+as described in Ref. [35], and have a hexagonal shape, with lateral
+dimensions of about 150 μm and thickness around 30 μm. We loaded them
+into a pressure cell made from a copper-beryllium alloy, within the
+sample space delimited by the diamond anvils, which are 0.7 mm in culet
+diameter, and a gasket made from a NiMo alloy. The diamond anvils were
+mounted onto a couple of sapphire cylinders inserted into the bores of
+two Cu-Be pieces. This choice of materials guarantees that the inductive
+coupling between the coils and the neighboring parts of the cell can be
+taken as negligible. The gasket had an initial thickness of 300 μm,
+which was later reduced to about 60 μm in its center, after indentation.
+A small orifice was made by means of arc discharges between the gasket
+and a molybdenum needle. Its diameter and depth allowed the insertion of
+the sample as well as of some ruby balls that were used to determine the
+pressure through the ruby fluorescence method.[36] Pressure was
+transmitted by a methanol-ethanol mixture (4:1), which has given
+quasibrostatic conditions up to the pressures of interest in our
+experiment.[23; 24; 37] The susceptometer is the same as already
+described elsewhere.[23] It was designed to obtain the largest signal
+to-noise ratio, with a pickup coil wound very close to the sample space.
+Two primary-secondary coils systems of about 4 mm in diameter and 2 mm
+in height were used. The first one was located surrounding the sample,
+which was then within the field created by the primary, whereas the
+secondary acquired the voltage due to any change occurring in the
+sample’s properties. The other primary-secondary assembly was glued
+beside, with no sample inside. The two primaries were connected in
+series, so the resulting magnetic field was the same in both cases. The
+secondary coils were connected in series opposition, so the large
+signals due to the secondary coils themselves could be removed from the
+beginning. After further compensation by means of an attenuator and a
+phase shifter the total signal was detected with a lock-in amplifier.
+For each applied pressure, T_(c) and H_(c2) were obtained by measuring
+the magnetic susceptibility as a function of temperature and at
+different magnetic fields, applied parallel to the c axis. The critical
+temperature and field were determined by the onset of the
+superconducting transition curves, defined as the intersection of two
+tangents, one to the flat portion of the curve above and the second to
+the steepest variation in the signal below the superconducting
+transition.
+
+## III Results
+
+We find an ambient pressure superconducting critical temperature of 5.7
+K. In previous measurements, no noticeable increase was measured below 1
+GPa.[38; 39; 40] Figure 2(a) shows the variation with temperature of the
+susceptibility in the 2_H_-NbS₂ sample, for applied pressures ranging
+between 0 and 19.8 GPa. Figure 2(b) displays the variation of T_(c) as a
+function of pressure. Clearly, there is a progressive increment of T_(c)
+with pressure. A T_(c) maximum is likely to exist, but above 20 GPa.
+Below 9 GPa, T_(c) increases with a slope d T_(c)/dP = 0.09 K/GPa, which
+further grows to 0.22 K/GPa between 9 and 14, and then decreases to 0.16
+K/GPa for higher pressures.
+
+The magnetic field dependence of the susceptibility under pressure is
+shown in Fig. 3 for different temperatures and at 3 GPa. There is a
+smooth evolution of the susceptibility with magnetic field, from which
+we can easily extract the
+
+Figure 2: (a) Variation of the susceptibility of a 2_H_-NbS₂ sample as a
+function of temperature and for several applied pressures. The arrow and
+the lines show the way we used to extract the corresponding value of
+T_(c). (b) Critical temperature as a function of the applied pressure.
+Triangles and solid circles correspond to increasing and decreasing
+pressure, respectively. Lines are a guide to the eye and simply join
+data points. Saturation is eventually expected above 20 GPa.
+
+Figure 1: (Color online) Structure of 2_H_-NbS₂. The niobium atoms are
+surrounded by sulfur atoms following a trigonal prismatic coordination.
+The S-Nb-S layers that make up each packet are covalently bound. The
+coupling between pairs of packets is dominated by van der Waals forces.
+The lattice parameters are a = 3.321 Å, b = 5.751 Å, and c = 11.761 Å
+(Ref. [26]).
+
+upper critical field as the onset of the transition. The transition
+widens significantly at lower temperatures, as expected for a type II
+superconductor. The form of H_(c2)(T), discussed in the following
+figure, does not depend on choosing H_(c2)(T) from the onset, midpoint,
+or lower part of the transition.
+
+Previous ambient pressure results on the upper critical field of 2H-NbS₂
+yielded a positive curvature above 0.5T_(c), and a zero-temperature
+critical field value of about 2.6-2.7 T.[12; 41] Our measurements of the
+ambient pressure temperature dependence of the upper critical field of
+2H-NbS₂ are shown in the upper panel of Fig. 4, and essentially confirm
+previous findings. We observe a slight positive curvature with an
+extrapolated zero-temperature critical field of about 2.6 T. This
+positive curvature, although less pronounced, is similar to that found
+in H_(c2)(T) in 2H-NbSe₂. When applying pressure in 2H-NbS₂, the
+critical temperature increases, but the upper critical field at low
+temperatures decreases strongly up to 8.7 GPa, above which it increases
+together with T_(c). Our results show that H_(c2)(0) drops by a factor
+1.5 between 0 and 8.7 GPa and then rises by a factor of 1.5 for the
+highest attained pressures around 20 GPa. This is a peculiar behavior.
+If the Fermi surface parameters do not change, theory predicts that
+H_(c2)(0) ∝ T_(c)².[27; 28]
+
+Thus, the nonmonotonous variation of H_(c2)(T) is at odds with the most
+simple single-band BCS theory, and we explored how a two-band scenario
+could explain this behavior. For that purpose, we used the same type of
+calculations of the upper critical field of strong coupling (multiband)
+superconductors and its pressure dependence as in Refs. [23; 24; 42],
+and [43], and numerically linearize H_(c2)(T) equations obtained from
+the Eliashberg theory.[44] The main change in H_(c2)(T) under pressure
+occurs in the form of the positive curvature and the value of H_(c2)(0),
+which can be used to determine the values of the Fermi surface
+properties, by parametrizing the Fermi surface in two main different
+subgroups of electronic excitations. We consider two subgroups of
+electrons, with bare Fermi velocities v_(F1) and v_(F2), and coupling
+parameters λ_(ij) (i, j = 1.2, with subindex 1 for the electronic group
+with the largest pairing strength). There is of course no possibility to
+deduce a unique set of parameters simply from our H_(c2)(T, P) data:
+Rather, we choose to find the simplest possible scenario which fits the
+whole pressure dependence of H_(c2)(T).
+
+The choice for our scenario was guided by the above mentioned peculiar
+behavior, namely, that T_(c) increases with pressure, whereas the slope
+of H_(c2)(T) close to T_(c) decreases. An increasing T_(c) suggests an
+increasing pairing strength, but at the same time, the decreasing slope
+suggests an increased Fermi velocity, and thus a decreasing effective
+mass, which is unexpected with increased pairing interactions, or an
+increased Fermi wave vector. In the latter case, we would also expect an
+increased bare density of states, for instance, through an increased
+Fermi pocket volume. So we checked if a simple scenario, where the mere
+increase of the Fermi surface volume of the main electronic group, at
+the expense of a decreased Fermi surface volume of the second electronic
+group, could be suitable, with a larger Fermi surface (smaller slope of
+H_(c2)) for the first group to reproduce the change of slope with
+pressure. To be quantitative, we introduce two (and only two) parameters
+to describe the pressure evolution of both T_(c) and H_(c2)(T): These
+parameters are ρ₁(P) and ρ₂(P), which can be thought as the ratio of the
+bare density of states of each electronic group under pressure with
+respect to the density of states at zero pressure, due to the respective
+
+Figure 4: Temperature dependence of the upper critical field H_(c2)(T)
+as a function of pressure (open and solid symbols). Fits to the model
+explained in the text are shown as lines. Note the decrease in the upper
+critical field until 8.7 GPa (upper panel), which ceases above this
+pressure (lower panel).
+
+Figure 3: Variation of the susceptibility of a 2H-NbS₂ sample as a
+function of the magnetic field, for a pressure of 3 GPa and for several
+temperatures. The arrow and the lines show the way we used to extract
+the corresponding value of H_(c2)(T). Note that the transition width
+significantly increases with magnetic field. Other criteria for
+determining the transition temperature, such as the midpoint or lower
+part of the transition region, lead to similar H_(c2)(T) curves.
+
+Fermi pocket volume change. We can then deduce the pressure evolution of
+the electron-phonon coupling parameters as
+λ_(ij)(P) = λ_(ij)(0)ρ_(j)(P), and for the bare Fermi velocities
+v_(Fi)(P) = v_(Fi)(0)ρ_(i)(P). The renormalized Fermi velocities [44]
+are, as usual,
+$v_{Fi}^{*}(P)=v_{Fi}(P)\frac{1}{1+\Sigma_{2}\lambda_{ij}}$. We fixed
+the values of the mean phonon frequency, θ = 54.5 K, and Coulomb
+pseudopotential, μ^(*) = 0.1, and assume that they are pressure
+independent. We find that indeed, as shown in Fig. 4, the complete
+evolution of H₂(T, P) can be fitted when starting from the initial set
+of values: λ₁₁(0) = 1, λ₂₂(0) = 0, λ₁₂(0) = 1.1, λ₂₁(0) = 0.55,
+v_(Fi)(1) = 3.1 × 10⁵ m/s [v_(Fi)^(*)(0) = 10⁵ m/s],
+v_(F2)(0) = 0.155 × 10⁵ m/s [v_(F2)^(*)(0) = 10⁴ m/s]. With these
+initial values of the electron-phonon coupling constants, pairing is
+controlled by the first electron group and by the interaction between
+the first and second electron groups. Figure 5(a) shows the pressure
+evolution of the renormalized Fermi velocities, and Fig. 5(b) that of
+the coupling parameters or, equivalently, of ρ₁ and ρ₂. This
+demonstrates that H_(c2)(T, P) [including T_(c)(P)] is compatible with a
+scenario where one of the Fermi pockets expands while the other shrinks,
+and with a constant pairing potential. Only the bare density of states
+related to the Fermi pocket volume is changing with pressure.
+
+## IV Discussion and conclusions
+
+Our results show that the variation of the Fermi surface parameters is
+monotonic (up to 20 GPa), and there are no maxima nor minima as in
+2H-NbSe₂.[24] In 2H-NbSe₂, a dome shape of T_(c)(P) is found which peaks
+around 10 GPa and the CDW disappears at 5 GPa,[20] where a kink in
+T_(c)(P) is found. The latter is associated with changes in one of the
+Fermi surfaces, with a possible Lifshitz transition due to one band
+shifting below the Fermi level. In 2H-NbS₂, the strong decrease of the
+zero-temperature upper critical field below 8.7 GPa, associated with a
+slight increase in critical temperature, can be explained by a decrease
+in the renormalized Fermi velocity and an increase in the
+electron-phonon coupling of one part of the Fermi surface (see Fig. 5),
+due to Fermi surface modifications. This produces a more pronounced
+positive curvature in H_(c2)(T), as the differences in Fermi surface
+parameters increase. Above about 10 GPa, variations are smoother and
+essentially governed by slightly increasing renormalized Fermi
+velocities of the rest of the Fermi surface.
+
+The Fermi surface of 2H-NbS₂ is not known in detail, but likely has the
+features which are believed to be common to similar transition metal
+dichalcogenides, namely, two pairs of concentric cylindrical sheets
+derived from Nb 4d electrons.[45; 46] Figure 5 shows that pressure
+induced modifications seem to saturate near 20 GPa, therefore indicating
+that T_(c) cannot be expected to be much higher than 9 K. It also hints
+to a shrinking of a part of the Fermi surface, while the other one grows
+at its expense, as v_(F1) evidences. These features of the
+superconducting properties cannot be related to a competition with a
+CDW, as charge order is not present in 2H-NbS₂. It has been suggested
+that the absence of CDW order in this compound is due to anharmonic
+effects, and that the superconducting properties are essentially
+determined by the anisotropy and strength of the electron-phonon
+coupling.[47]
+
+2H-NbS₂ is at the verge of CDW, which is favored by an increased a/c in
+other dichalcogenides.[45] The a/c lattice constant ratio is smaller
+than in 2H-NbSe₂, so that pressure drives farther away from the CDW
+instability.[45] This can be fully confirmed, obviously, only by
+measurements under pressure of any property sensitive to CDW order, such
+as the resistance. Nevertheless, if CDW reenters, T_(c)(P) should show
+some kink or anomaly, and a decrease instead of the increase we observe
+here. Thus, our results also show that the reentrance of CDW is a very
+unlikely possibility.
+
+It has been postulated that the coexistence of superconductivity with
+charge density wave is related to the neighborhood to a quantum critical
+point.[48; 49; 50; 45] Quantum critical points appear when a second
+order phase transition is driven to zero temperature by modifying
+composition or lattice parameters. Quantum fluctuations diverge at these
+points and are expected to induce emergent exotic properties.[50] In the
+transition metal dichalcogenides, quantum critical points may appear
+hidden below the superconducting or charge ordered states.[20] Pressure
+in 2H-NbS₂ drives the system farther away from such a quantum critical
+point, which has a marginal effect on the critical temperature, and is
+not associated with maxima or domelike shapes of T_(c). Our data show
+that maxima in T_(c) can be reached by going farther away from CDW
+instability. Therefore, such domelike shapes in these compounds can be
+obtained without relation to CDW order.
+
+Finally, let us remark that recent reports discuss synthesis and
+characterization of single and few layer systems of this and other
+dichalcogenide compounds. Their superconducting properties, as well as
+the charge density wave, are expected to differ from the bulk.[51; 52;
+53; 54; 55] In these systems, the strain induced in the fabrication
+method is possibly significant and will be of importance in the pairing
+interaction. The pressure dependence
+
+Figure 5: Pressure dependence of (a) the renormalized Fermi surface
+velocities v_(Fi)^(*)(P)/v_(Fi)^(*)(0) and of (b) the electron-phonon
+coupling parameters λ_(ij)(P)/λ_(ij)(0) = ρ_(j)(P) for both subgroups of
+electrons in 2H-NbS₂. Lines simply join points and are a guide to the
+eyes.
+
+of the bulk properties should be thus useful to predict and understand
+the modifications which found a size reduction down to single or few
+layers.[56]
+
+In summary, we have presented results on the variation of T_(c) and
+H_(c2) as a function of pressure in the dichalcogenide 2H-NbS₂. Our data
+show that the critical temperature increases smoothly as pressure is
+increased. This behavior is compared to the one already found in
+2H-NbSe₂, where a maximum in T_(c) is found at 10 GPa. On the other
+hand, the upper critical field of 2H-NbS₂ exhibits an intriguing
+behavior. There is an initial decrease, contrasting with the increase of
+T_(c), but above 8.7 GPa the upper critical field rises again. We
+provide a model to explain this behavior in terms of pressure induced
+changes in the Fermi surface.
+
+###### Acknowledgements.
+
+The Laboratorio de Bajas Temperaturas is associated with the ICMM of the
+CSIC. This work was supported by Spanish MINECO (Consolider-Ingenio
+CSD2007-00010 and CSD2009-00013 programs, SAB2009-0057, FIS2011-23488,
+and MAT2011-27470-C02-02), by the Comunidad de Madrid through program
+Nanobiomagnet, and by NanoSc-COST program.
+
+## References
+
+* [1] P. Monceau, Adv. Phys. **61**, 325 (2012). * [2] T. Yokoya, T.
+Kiss, A. Chainani, S. Shin, M. Nohara, and H. Takagi, Science **294**,
+2518 (2001). * [3] E. Boaknin, M. A. Tanatar, J. Paglione, D. Hawthorn,
+F. Ronning, R. Hill, M. Sutherland, L. Taillefer, J. Sonier, S. Hayden
+_et al._, Phys. Rev. Lett. **90**, 117003 (2003). * [4] J. G. Rodrigo
+and S. Vieira, Physica C **404**, 306 (2004). * [5] T. Kiss, T. Yokoya,
+A. Chainani, S. Shin, T. Hanaguri, M. Nohara, and H. Takagi, Nat. Phys.
+**3**, 720 (2007). * [6] I. Guillamon, H. Suderow, F. Guinea, and S.
+Vieira, Phys. Rev. B **77**, 134505 (2008). * [7] L. N. Bulaevskii, Sov.
+Phys. Usp. **19**, 836 (1976). * [8] R. V. Coleman, B. Giambattista, P.
+K. Hansma, A. Johnson, W. W. McNairy, and C. G. Slough, Adv. Phys.
+**37**, 559 (1988). * [9] W. Sacks, D. Roditchev, and J. Klein, Phys.
+Rev. B **57**, 13118 (1998). * [10] K. Rossnagel, J. Phys.: Condens.
+Matter **23**, 213001 (2011). * [11] I. Guillamon, H. Suderow, S.
+Vieira, L. Cario, P. Diener, and P. Rodiere, Phys. Rev. Lett. **101**,
+166407 (2008). * [12] J. Kacmarcik, Z. Pribulova, C. Marcenat, T. Klein,
+P. Rodiere, L. Cario, and L. C. P. Samuely, Phys. Rev. B **82**, 014518
+(2010). * [13] A. F. Kusmartseva, B. Sipos, H. Berger, L. Forro, and E.
+Tutis, Phys. Rev. Lett. **103**, 236401 (2009). * [14] J. A. Wilson, F.
+J. DiSalvo, and S. Mahajan, Adv. Phys. **24**, 117 (1975). * [15] J. C.
+Tsang, M. W. Shafer, and B. L. Crowder, Phys. Rev. B **11**, 155
+(1975). * [16] H. Mutka, Phys. Rev. B **28**, 2855 (1983). * [17] J. L.
+Vicent, S. J. Hillenius, and R. V. Coleman, Phys. Rev. Lett. **44**, 892
+(1980). * [18] I. Guillamon, H. Suderow, A. Fernandez-Pacheco, J. Sese,
+R. Cordoba, J. M. D. Teresa, M. R. Ibarra, and S. Vieira, Nat. Phys.
+**5**, 651 (2009). * [19] E. Coronado, C. Marti-Gastaldo, E.
+Navarro-Moratalla, A. Ribera, S. J. Blundell, and P. J. Baker, Nat.
+Chem. **2**, 1031 (2010). * [20] Y. Feng, J. Wang, R. Jaramillo, J. van
+Wezel, S. Haravifard, G. Srajer, Y. Liu, Z.-A. Xu, P. B. Littlewood, and
+T. F. Rosenbaum, Proc. Natl. Acad. Sci. USA **109**, 7224 (2012). * [21]
+E. Morosan, H. W. Zandbergen, B. S. Dennis, J. W. G. Bos, Y. Onose, T.
+Klimczuk, A. P. Ramirez, N. P. Ong, and R. J. Cava, Nat. Phys. **2**,
+544 (2006). * [22] B. Sipos, A. F. Kusmartseva, A. Akrap, H. Berger, L.
+Forro, and E. Tutis, Nat. Mater. **7**, 960 (2008). * [23] H. Suderow,
+V. G. Tissen, J. P. Brison, J. L. Martinez, S. Vieira, P. Lejay, S. Lee,
+and S. Tajima, Phys. Rev. B **70**, 134518 (2004). * [24] H. Suderow, V.
+G. Tissen, J. P. Brison, J. L. Martinez, and S. Vieira, Phys. Rev. Lett.
+**95**, 117006 (2005). * [25] A. Soumyanarayanan, M. M. Yee, Y. He, J.
+van Wezel, D. J. Rahn, K. Rossnagel, E. W. Hudson, M. R. Norman, and J.
+E. Hoffman, Proc. Natl. Acad. Sci. USA **110**, 1623 (2013). * [26] C.
+M. Fang, A. R. H. F. Ettema, C. Haas, G. A. Wiegers, H. van Leuken, and
+R. A. de Groot, Phys. Rev. B **52**, 2336 (1995). * [27] E. Helfand and
+N. Werthamer, Phys. Rev. **147**, 288 (1966). * [28] P. C. Hohenberg, N.
+R. Werthamer, Phys. Rev. **153**, 493 (1967). * [29] L. F. Mattheiss,
+Phys. Rev. B **1**, 373 (1970). * [30] S. V. Shulga, S. L. Drechsler, G.
+Fuchs, K. H. Muller, K. Winzer, M. Heinecke, and K. Krug, Phys. Rev.
+Lett. **80**, 1730 (1998). * [31] T. Dahm and N. Schopohl, Phys. Rev.
+Lett. **91**, 017001 (2003). * [32] V. Moshchalkov, M. Menghini, T.
+Nishio, Q. H. Chen, A. V. Silhanek, V. H. Dao, L. F. Chibotaru, N. D.
+Zhigadlo, and J. Karpinski, Phys. Rev. Lett. **102**, 117001 (2009). *
+[33] M. Leroux, P. Rodiere, L. Cario, and T. Klein, Physica B **407**,
+1813 (2012). * [34] P. Diener, M. Leroux, L. Cario, T. Klein, and P.
+Rodiere, Phys. Rev. B **84**, 054531 (2011). * [35] W. Fisher and M.
+Sienko, Inorg. Chem. **19**, 39 (1980). * [36] P. D. Horn and Y. M.
+Gupta, Phys. Rev. B **39**, 973 (1989). * [37] N. Tateiwa and Y. Haga,
+J. Phys.: Conf. Ser. **215**, 012178 (2010). * [38] R. E. Jones, Jr., H.
+R. Shanks, D. K. Finnemore, and B. Morosin, Phys. Rev. B **6**, 835
+(1972). * [39] P. Molinie, D. Jerome, and A. J. Grant, Philos. Mag.
+**30**, 1091 (1974). * [40] N. Barisic, I. Smiljanic, P. Popcevic, A.
+Bilusic, E. Tutis, A. Smontara, H. Berger, J. Jacimovic, O. Yuli, and L.
+Forro, Phys. Rev. B **84**, 075157 (2011). * [41] G. Shaw, P. Mandal, S.
+S. Banerjee, A. Niazi, A. K. Rastogi, A. K. Sood, S. Ramakrishnan, and
+A. K. Grover, Phys. Rev. B **85**, 174517 (2012). * [42] M. A. Measson,
+D. Braithwaite, J. Flouquet, G. Seyfarth, J. P. Brison, E. Lhotel, C.
+Paulsen, H. Sugawara, and H. Sato, Phys. Rev. B **70**, 064516 (2004). *
+[43] L. Glemot, J. P. Brison, J. Flouquet, A. I. Buzdin, I. Sheikin, D.
+Jaccard, C. Thessieu, and F. Thomas, Phys. Rev. Lett. **82**, 169
+(1999). * [44] M. Prohammer and E. Schachinger, Phys. Rev. B **36**,
+8353 (1987). * [45] A. H. Castro Neto, Phys. Rev. Lett. **86**, 4382
+(2001).
+
+* (46) M. D. Johannes, I. I. Mazin, and C. A. Howells, Phys. Rev. B
+**73**, 205102 (2006). * (47) M. Leroux, M. Le Tacon, M. Calandra, L.
+Cario, M. A. Measson, P. Diener, E. Borrissenko, A. Bosak, and P.
+Rodiere, Phys. Rev. B **86**, 155125 (2012). * (48) S. Sachdev, _Quantum
+Phase Transitions_ (Cambridge University Press, Cambridge, UK, 1999). *
+(49) P. Coleman and A. J. Schofield Nat. Phys. **433**, 226 (2005); W.
+Knafo, S. Raymond, P. Lejay, and J. Flouquet, _ibid._**5**, 753
+(2009). * (50) P. Coleman, Phys. Status Solidi B **247**, 506 (2010). *
+(51) R. Frindt, Phys. Rev. Lett. **28**, 299 (1972). * (52) X. R. Win,
+D. Yang, R. F. Frindt, and J. C. Irwin, Phys. Rev. B **44**, 3490
+(1991). * (53) A. Castellanos-Gomez, N. Agrait, and G. Rubio-Bollinger,
+Appl. Phys. Lett. **96**, 213116 (2010). * (54) J. A. Galvis, P.
+Rodiere, I. Guillamon, M. Osorio, G. Rubio-Bollinger, J. Rodrigo, L.
+Cario, E. Navarro-Moratalla, E. Coronado, S. Vieira _et al._, Phys. Rev.
+B **87**, 094502 (2013). * (55) Q. H. Wang, K. Kalantar-Zadeh, A. Kis,
+J. N. Coleman, and M. S. Strano, Nat. Nanotechnol. **7**, 699 (2012). *
+(56) M. Calandra, I. I. Mazin, F. Mauri, Phys. Rev. B **80**, 241108(R)
+(2009).

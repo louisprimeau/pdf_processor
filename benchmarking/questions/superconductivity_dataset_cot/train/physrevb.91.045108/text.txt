@@ -1,0 +1,239 @@
+Interplay between antiferrodistortive, ferroelectric, and superconducting instabilities in Sr1-_x_ Ca\({}_{x}\) TiO3-_d_
+
+B. S. de Lima
+
+M. S. da Luz
+
+F. S. Oliveira
+
+L. M. S. Alves
+
+C. A. M. dos Santos
+
+F. Jomard
+
+Y. Sidis
+
+P. Bourges
+
+Laboratoire Leon Brillouin, CEA-CNRS, 91191 Gif sur Yvette, France
+
+S. Harms
+
+S. C. P. Grams
+
+J. Hemberger
+
+S. Lin
+
+B. Fauque
+
+K. Behnia
+
+Laboratoire Leon Brillouin, CEA-CNRS, 91191 Gif sur Yvette, France
+
+Received 27 October 2014; revised manuscript received 30 November 2014; published 8 January 2015
+
+###### Abstract
+
+SrTiO3 undergoes a cubic-to-tetragonal phase transition at 105 K. This antiferrodistortive transition is believed to be in competition with incipient ferroelectricity. Substituting strontium by isovalent calcium induces a ferroelectric order. Introducing mobile electrons to the system by chemical nonisovalent doping, on the other hand, leads to the emergence of a dilute metal with a superconducting ground state. The link between superconductivity and the other two instabilities is a question gathering momentum in the context of a popular paradigm linking unconventional superconductors and quantum critical points. We present a set of specific-heat, neutron-scattering, dielectric-permittivity, and polarization measurements on Sr1-_x_ Ca, TiO3 (0 \(<x<\) 0.009) and a study of low-temperature electric conductivity in Sr0.998 Ca0.002 TiO3-_d_. Calcium substitution was found to enhance the transition temperature for both antiferrodistortive and ferroelectric transitions. Moreover, we find that Sr10.9978 Ca0.002 TiO3-_d_ has a superconducting ground state. The critical temperature in this rare case of a superconductor with a ferroelectric parent is slightly lower than in SrTiO3-_d_ of comparable carrier concentration. A three-dimensional phase diagram for Sr1-_x_ Ca, TiO3-_d_ tracking the three transition temperatures as a function of \(x\) and \(d\) results from this study, in which ferroelectric and superconducting ground states are not immediate neighbors.
+
+pacs: 64.70.kg, 77.22.-d, 74.10.+v +
+Footnote †: preprint: PHYSICAL REVIEW B **91**, 045108
+
+## I Introduction
+
+SrTiO3 is a large-gap semiconductor, belonging with the _AB_ O3 family of perovskites. At room temperature, it is cubic, filling the space with an interposition of TiO6 octahedra and SrO12 cuboctahedra. Upon cooling, it undergoes a structural cubic-to-tetragonal phase transition below 105 K. This transition and in particular its soft mode and its nonclassical exponents were subject to numerous studies [1]. The tetragonal distortion, leading to the \(c/a\) ratio becoming slightly (5.6 x 10-4) larger than unity [2], is accompanied by rotation of the TiO6 octahedra around one of the three tetragonal axes. The angle of rotation saturates to 2.1deg at low temperature [3,4]. This antiferrodistortive transition (an intriguing case of ferroelasticity [5]) continues to attract significant attention [6].
+
+SrTiO3 is also a quantum paraelectric [7]. In contrast to several members of the _AB_ O3 family, such as BaTiO3 or PbTiO3, which become ferroelectric, it avoids this instability thanks to large quantum fluctuations [7,8]. The proximity to ferroelectricity leads to a large dielectric constant, which saturates to an amplitude exceeding the typical values for insulating transition metal oxides by several orders of magnitude [7]. The competitive or cooperative interplay between the ferroelectric and antiferrodistortive distortions (see Fig. 1) has been a subject of theoretical attention [9, 10, 11].
+
+One can introduce electron-like carriers to this insulator by doping it. This can be done either by substituting titanium by niobium, or strontium by lanthanum, or by simply removing oxygen. In 1964, it was discovered that this _n_-doped SrTiO3 has a superconducting ground state [12]. Intriguingly, superconductivity is limited to a narrow range of carrier concentration [13, 14, 15, 16, 17]. It starts at a carrier density as low as 10-5 electrons per formula unit [16] and ends when it exceeds 0.02 electrons per formula unit [14,18]. The low level of carrier concentration at which this superconducting dome emerges is in singular contrast to all other known cases of superconductors with an insulating parent. It is tempting to relate it to the precocious metal-insulator transition triggered by the long effective Bohr radius, which becomes as long as a fraction of a micron [16,19] in this system. The drastic enhancement of the Bohr radius is, in turn, a consequence of the large dielectric coefficient due to the proximity of a ferroelectric instability.
+
+Decades ago, Bednorz and Muller discovered that substituting strontium with isovalent calcium leads to a ferroelectric ground state in Sr1-_x_ Ca, TiO3 as soon as \(x\) exceeds 0.002 [20]. This was followed by several studies on the effect of doping by calcium on various physical properties [21, 22, 23]. One interesting outcome of these studies was the observation of an enhancement in the low-temperature dielectric constant with Ca doping [20,23]. This implies that, at least for small \(x\), the Bohr radius in Sr1-_x_ Ca, TiO3 is larger than in SrTiO3. In this context, one may wonder how this would affect the threshold of both the metal-insulator transition and the emergent superconductivity in _n_-doped Sr1-_x_ Ca, TiO3.
+
+In this paper we report on a study of Sr1-_x_ Ca, TiO3 (0 \(<x<\) 0.0091) and Sr0.9978 Ca0.002 TiO3-_d_. We find that, according to the evolution of the associated specific-heat anomaly, the antiferrodistortive transition temperature rapidly  rises with calcium substitution. Neutron-scattering measurements confirm this result and indicate that calcium substitution amplifies the rotation of TiO\({}_{6}\) octahedra. Measurements of the dielectric constant confirm the emergence of ferroelectricity, most probably through the percolation of the polar Ca-substituted unit cells. This points to a cooperation between the two distortions in this doping window. Finally, dilute superconductivity is observed in Sr\({}_{0.9978}\) Ca\({}_{0.0022}\) TiO\({}_{3-\delta}\) single crystals. In contrast to previous studies on ceramics [24, 25], these samples are single crystals and show quantum oscillations in the presence of moderate magnetic fields leading to an accurate quantification of the concentration of mobile electrons.
+
+In Sr\({}_{0.9978}\) Ca\({}_{0.0022}\) TiO\({}_{3-\delta}\), the superconducting critical temperatures were found to be slightly lower and the superconducting transitions somewhat broader than in SrTiO\({}_{3-\delta}\) crystals of comparable carrier concentrations. Two possibilities are discussed. Either oxygen vacancies cluster around calcium sites generating additional inhomogeneity, or the lack of inversion symmetry at calcium-substituted sites weakens superconductivity.
+
+Several theoretical proposals have linked dilute superconductivity to elementary excitations of the two neighboring orders. Our study is a first attempt to map an unusual case of vicinity between these three instabilities. A three-dimensional phase diagram for Sr\({}_{1-x}\) Ca\({}_{x}\) TiO\({}_{3-\delta}\) can be drawn.
+
+## II Experimental Details
+
+Commercial SrTiO\({}_{3}\):Ca single crystals (provided by Crys-Tec GmbH) were used in this study. Specific-heat measurements were performed using a Quantum Design PPMS heat capacity module in a temperature window close to the reported temperature of the structural transition.
+
+The dielectric measurements were performed from room temperature to 2 K with a home-made coaxial-line inset inserted in a PPMS cryostat. Therefore the samples were prepared as plate capacitors with typical dimensions of 0.5 \(\times\) 2.5 \(\times\) 5 mm\({}^{3}\) and electrodes made of silver paint. Real and imaginary components of the frequency-dependent dielectric response were measured using a frequency-response analyzer (Novocontrol) in a frequency range between 1 Hz and 10 kHz with a stimulus of the order \(E_{ac}\approx\) 1 V/mm. In addition, electric-field-dependent polarization data in higher fields up to 300 V/mm (Novocontrol HVB1000) were obtained evaluating the nonlinear permittivity contributions as described in Ref. [26]. Therefore the \(P(E)\) curve was reconstructed as a Fourier series using the first ten Fourier coefficients of the time-dependent signal. Since no special surface etching was done after cutting the samples in order to remove eventual passivated surface layers [20, 21], the absolute values of the dielectric measurements should be taken with caution.
+
+Neutron diffraction data were collected on the 3T1 diffractometer at the Orphee reactor in Laboratoire Leon Brillouin (Saclay, France) with an incident neutron beam at \(E_{i}=\) 14.7 meV and a 20\({}^{\prime}\) collimation on the scattered beam. Two PG filters were inserted on the scattered beam in order to eliminate double scattering. The crystal had a volume of 25 mm\({}^{3}\) and a resolution-limited mosaicity of 0.2\({}^{\circ}\).
+
+Oxygen-deficient samples were obtained by annealing in a temperature range of 700-1000\({}^{\circ}\) C in a vacuum of 110\({}^{-6}\) mbar for 1 to 2 hours. Ohmic contacts were obtained by evaporating gold on the samples and heated up to 550\({}^{\circ}\) C to promote gold diffusion into the crystals. Low-temperature longitudinal and Hall resistivity were measured in a dilution system inserted in a 17 T superconducting magnet.
+
+The nominal calcium concentration was cross-checked using the secondary ion mass spectrometry (SIMS) analysis technique, using IMS Cameca 7f equipment with a primary oxygen beam. This technique allows one to detect very
+
+Figure 1: (Color online) Top: Crystal structure of SrTiO\({}_{3}\) seen along the (100) axis (a). The lattice can be may distorted by two instabilities, antiferrodistortive (b) and ferroelectric (c). Bottom: Crystal structure of Ca-doped SrTiO\({}_{3}\). By replacing larger strontium, calcium finds itself at a slightly off-the-center position of a CaO\({}_{12}\) cubocathedron. The substitution creates a local electric dipole and a strain field shown by arrows. Percolation of dipoles leads to ferroelectricity, while the strain field strengthens the antiferrodistortive transition.
+
+  low concentrations of dopants and to measure their in-depth distribution over a few microns.
+
+Figure 2 shows a typical profile at five atomic masses for two Sr\({}_{1-x}\) Ca\({}_{x}\) TiO\({}_{3}\) samples with \(x=0.22\%\) and \(x=0.45\%\). The intensities are constant as a function of time, indicating that the concentration of each element is constant in the direction perpendicular to the surface.
+
+The intensities at the four reference masses are comparable, but differ by a factor somewhat lower than 2 for the mass of calcium. By comparing the relative intensities in the two samples, one can obtain an accurate estimate of the relative concentration of a given element in them. The relative Ca/Sr ratios in the two samples differ by a a factor of \(1.5\pm 0.1\) compared to a nominally expected value of 2. This sets the limit of our accuracy in the calcium content of these samples.
+
+## III III. Antiferrodistortive order
+
+The structural phase transition in strontium titanate has been subject to numerous studies. Salje and collaborators [27] were the first to carefully resolve the excess specific heat associated with this phase transition. Based on their data, they argued that the transition is nearly tricritical and mean field. We performed specific-heat measurements on our samples and detected the excess specific heat caused by the antiferrodistortive transition. The data for pristine SrTiO\({}_{3}\) are shown in the upper panel of Fig. 3. The amplitude of the anomaly is small. The jump in \(C/T\) is 3 mJ g\({}^{-1}\) K\({}^{-1}\), barely more than 1% of the overall background signal. We extracted it by subtracting a polynomial fit to the background signal in a manner similar to Salje _et al._[27]. Both the magnitude and the shape of the anomaly are similar to what was found in several previous reports [27, 28, 29].
+
+We did similar measurements on three Ca-doped samples with different doping levels. The results can be found in the lower panel of the figure. Sharp specific-heat anomalies indicate homogeneous Ca distribution in the samples. One can clearly see that the specific-heat anomaly shifts to higher temperatures as Ca doping increases. As can be seen in the inset of the upper panel, the shift corresponds to a linear increase of 35 K/%Ca. This set of specific-heat measurements shows the evolution of the structural phase transition in the Sr\({}_{1-x}\) Ca\({}_{x}\) TiO\({}_{3}\) system. We also measured the specific heat over a large temperature interval below the structural phase transition. Within experimental resolution, we did not find any other anomaly. A similar conclusion was reported by a previous specific-heat study on pristine SrTiO\({}_{3}\)[28].
+
+We also performed neutron diffraction measurements to probe this phase transition. The crystal structure becomes \(I4/mcn\) tetragonal below 105 K. In a pseudocubic indexing, the structural transition gives rise to new Bragg reflections (\(h,k,l\)) with \(h,k,l\) half integers such as \(\mathbf{Q}=(1.5,0.5,0.5)\).
+
+Figure 4 compares the temperature dependence of the intensity at \(\mathbf{Q}=(1.5,0.5,0.5)\) normalized by the intensity at \(\mathbf{Q}=(1,1,1)\) of Sr\({}_{1-x}\) Ca\({}_{x}\) TiO\({}_{3}\) in a pristine (\(x=0\)) and a doped (\(x=0.00045\)) sample. In both cases, the normalized intensity increases below a temperature which was found to be \(T=106\) K for \(x=0\) and \(T=122\) K for \(x=0.0045\), in very good agreement with the specific-heat results. In addition, we note that the normalized intensity is five times higher for the Ca-doped sample than for the undoped sample. As seen in the inset, the intensity of the Bragg peak \(\mathbf{Q}=(1,1,1)\) for both samples is little affected by the structural transition and displays the same temperature dependence. Therefore, the difference in the normalized intensities can be safely attributed to a change in the structural factor in the Ca-doped compound.
+
+According to the early work by Shirane and co-workers [30], the structural factor (\(F\)) of the superlattice peak
+
+Figure 3: (Color online) The specific-heat jump caused by the antiferrodistortive phase transition in SrTiO\({}_{3}\) (top) and Sr\({}_{1-x}\) Ca\({}_{x}\) TiO\({}_{3}\) (bottom). The inset of upper panel shows the evolution of the transition temperature with doping.
+
+Figure 2: (Color online) Secondary ion mass spectroscopic counts of ionic masses 16 (oxygen), 40 (calcium), 48 (titanium), 80 (TiO\({}_{2}\)), and 88 (strontium) in two Sr\({}_{1-x}\) Ca\({}_{x}\) TiO\({}_{3}\) single crystals used in this study, with \(x=0.0022\) (left) and \(x=0.0045\) (right). As seen in the figure, the intensities of all other masses are identical in the two samples, except for calcium.
+
+  depends only on the rotation of the octahedra. It can be written as \(F=16\pi(h+k)\delta\), where \(\delta=\sin(\varphi)/4\) and \(\varphi\) is the angle of rotation of the octahedra. In the case of pure SrTiO\({}_{3}\), electron spin resonance [3] and neutron-scattering measurements [30] find \(\varphi=1.4^{\circ}\) at 70 K. Therefore, assuming an unchanged symmetry, the higher intensity of the \(\mathbf{Q}=(1.5,0.5,0.5)\) Bragg peak in Ca-doped SrTiO\({}_{3}\) would suggest that the octahedra tilt is enhanced by a factor of 2.3, meaning that \(\varphi=3.2^{\circ}\) at 70 K. In other words, calcium doping not only shifts the transition to higher temperature; it also enhances the rotation angle.
+
+Thus, two distinct experimental probes, specific heat and neutron scattering, find that calcium doping strengthens the structural transition. We notice that this result is in agreement with the phase diagram drawn by Ranjan [31] scrutinizing a number of previous reports by other authors.
+
+## IV ferroelectricity
+
+The temperature dependence of real and imaginary components of the permittivity \(\varepsilon^{*}(T)\) of the Sr\({}_{1-x}\)Ca\({}_{x}\)TiO\({}_{3}\) samples were measured from 300 K to 2 K and for Ca concentrations of \(x=0,0.22\%,0.45\%\), and 0.91%. The results are presented in Fig. 5.
+
+Pure STO (\(x=0\)) displays the well-known quantum-paraelectric behavior: The real part \(\varepsilon^{\prime}(T)\) increases with decreasing temperature and saturates at low temperatures (\(T\leqslant 40\) K) where the potential ferroelectric order is suppressed due to quantum fluctuations. The dielectric loss \(\varepsilon^{\prime\prime}(T)\) shows a similar curvature but roughly three orders of magnitude smaller. Within the explored frequency range (1 Hz \(<\)\(v<\) 1 kHz) no pronounced dispersive features can be found in the pure sample.
+
+Introducing a Ca concentration of 0.22% leads to a change in the curvature of the temperature-dependent permittivity. The concentration \(x=0.22\%\) is right on the edge between a quantum paraelectric ground state like in pure STO and ferroelectric order but already exhibits a smeared-out maximum in \(\varepsilon^{\prime}(T)\) around \(T_{\text{max}}\approx 10\) K. The loss \(\varepsilon^{\prime}(T)\) shows additional contributions compared to the pure compound below \(T\approx 50\) K and below \(T_{\text{max}}\) dispersive loss peaks can be found, shifting to lower temperatures with decreasing frequency. These loss features can be understood by the formation of polar nanoregions seeded by the electric dipoles of off-center calcium sites embedded in the highly polarizable STO lattice. Even if these clusters remain disordered at low Ca concentrations they may experience glasslike freezing at low temperatures [32] or they may give rise to additional loss at higher temperatures due to interaction with eventually polar structural domain walls arising below the tetragonal phase transition [6, 33].
+
+For the higher concentrations (\(x=0.0045\) and \(x=0.0091\)), the maximum in \(\varepsilon^{\prime}(T)\) and the dispersive features in \(\varepsilon^{\prime\prime}(T)\) both shift to higher temperatures. The ferroelectric transition in Sr\({}_{1-x}\)Ca\({}_{x}\)TiO\({}_{3}\) is believed to be percolative. At high-enough calcium concentration, the Ca-induced nanoclusters begin to interact and at low-enough temperature an order emerges. As displayed in the lower inset of Fig. 5 the temperature \(T_{\text{max}}\) for which \(\varepsilon^{\prime}(T)\) exhibits a maximum shifts upwards with calcium doping.
+
+Figure 4: (Color online) Temperature dependence of the normalized intensity at \(\mathbf{Q}=(1.5,0.5,0.5)\) for SrTiO\({}_{3}\) (blue points) and Sr\({}_{1-x}\)Ca\({}_{x}\)TiO\({}_{3}\), \(x=0.0045\). The inset shows the temperature dependence of the intensity of the \(\mathbf{Q}=(1,1,1)\) Bragg peak.
+
+Figure 5: (Color online) Temperature dependence of the real and imaginary components of the dielectric permittivity in Sr\({}_{1-x}\)Ca\({}_{x}\)TiO\({}_{3}\). The inset shows \(P(E)\) hysteresis loops at \(T=5\) K.
+
+  The shape of these maxima in \(\varepsilon^{\prime}(T)\) is flatter compared to canonical ferroelectrics, which show divergent behavior and a vanishing contribution to the permittivity for lowest temperatures. The temperature-dependent permittivities in this concentration range of \(\mathrm{Sr_{1-x}}\) Ca\({}_{x}\) TiO\({}_{3}\) seem to extrapolate to a finite value for \(T\approx 0\), denoting the influence of quantum fluctuations. Therefore, these materials are referred to as quantum ferroelectrics [20, 32].
+
+Note that like SrTiO\({}_{3}\) under stain [34], \(\mathrm{Sr_{1-x}}\) Ca\({}_{x}\) TiO\({}_{3}\) is a relaxor ferroelectric [35]. In such systems [Pb(Mg\({}_{1/3}\) Nb\({}_{2/3}\)) O\({}_{3}\) is one example], the ferroelectric transition is not accompanied with a structural transition. This is to be contrasted with displacive ferroelectrics such as BaTiO\({}_{3}\) or Pb TiO\({}_{3}\), in which the emergence of a macroscopic electric dipole occurs concomitantly with the loss of inversion symmetry. In a relaxor ferroelectric above the transition temperature, the paraelectric state hosts disordered electric dipoles. In the case of \(\mathrm{Sr_{1-x}}\) Ca\({}_{x}\) TiO\({}_{3}\), when \(x\) exceeds 0.002, that is when the distance between the neighboring calcium atoms is about 8 lattice parameters, the interdipole interaction becomes strong enough to allow the formation of a macroscopic dipole at a finite temperature.
+
+As the upper inset of Fig. 5 shows, the \(P(E)\) loops at low temperatures in the Ca-doped samples reveal the typical nonlinear characteristics of switchable remnant polarization as expected for ferroelectric materials. However, for high electric field these \(P(E)\) loops do not flatten into a saturation value for the spontaneous polarization but keep a high slope corresponding to a finite value for the permittivity. This aspect of polar (quantum) fluctuations and concomitantly high permittivity values persisting towards lowest temperatures and high fields may be of importance with respect to the onset of metallicity and even superconductivity due to charge carrier doping, as discussed in the following.
+
+## V Metallicity and superconductivity
+
+Up to here, we have presented our data acquired by studying an insulating system with no mobile electrons. One can remove a tiny fraction of oxygen atoms out of \(\mathrm{Sr_{0.9978}}\) Ca\({}_{0.0022}\) TiO\({}_{3}\) by annealing samples in vacuum. As in the case of \(\mathrm{SrTiO_{3}}\) with no calcium [19], we found that an extremely small concentration of oxygen vacancies is sufficient for them to host mobile electrons at very low temperature. With a carrier density of the order of \(10^{18}\) cm\({}^{-3}\), the low-temperature electric resistivity becomes as low as \(1\mathrm{\ m}\Omega\) cm, indicating a mobility in the range of \(6000\mathrm{\ cm}^{2}\mathrm{\ V}^{-1}\mathrm{\ s}^{-1}\).
+
+The system has not only a finite conductivity, but also it qualifies as a metal in a stronger sense of the term. It has a sharp Fermi surface and there is a well-defined Fermi-Dirac distribution for all carriers. This is attested by Shubnikov-de Haas oscillations seen in magnetoresistance. This is shown in Fig. 6. The sample with the lowest carrier density (\(n=5.2\times 10^{17}\mathrm{\ cm}^{-3}\) according to the Hall coefficient) showed a single frequency of 24 T. Assuming a spherical Fermi surface, this corresponds to a carrier density of \(6.6\times 10^{17}\mathrm{\ cm}^{-3}\). Given the moderate anisotropy of the Fermi surface [17, 36, 37], the agreement between the two estimations of the carrier density is reasonable.
+
+As the carrier density increases, quantum oscillations begin to present a structure and they present more than one frequency. In the case of \(\mathrm{SrTiO_{3-\delta}}\), the first critical doping, \(n_{c1}\), above which two distinct frequencies are detectable was found to be about \(1.2\times 10^{18}\mathrm{\ cm}^{-3}\)[17, 37]. In the case of \(\mathrm{Sr_{0.9978}}\) Ca\({}_{0.0022}\) TiO\({}_{3-\delta}\), we clearly see a single frequency when the carrier density is \(5.2\times 10^{17}\mathrm{\ cm}^{-3}\) and two distinct and quantifiable frequencies when it is \(2.2\times 10^{18}\mathrm{\ cm}^{-3}\). The sample with a carrier density of \(1.08\times 10^{18}\mathrm{\ cm}^{-3}\) seems to be very close to the critical doping. We conclude that \(n_{c1}\), the threshold doping for the occupation of a new band, has not significantly shifted with slight calcium substitution.
+
+Measurements of low-temperature zero-field electrical resistivity revealed a superconducting transition. This is illustrated in Fig. 7. As seen in the figure, compared to \(\mathrm{SrTiO_{3-\delta}}\) of comparable carrier concentration, the superconducting transition becomes broader in Ca-doped samples and the critical temperature is somewhat lower.
+
+The resistive transitions in these samples were studied in the presence of magnetic field, as seen in Fig. 8. The transitions shift to lower temperature with increasing magnetic field. A resistive upper critical field can be extracted from the data. One can use the slope of the upper critical field near the critical temperature to quantify the superconducting coherence length. Note however that according to a recent study of bulk
+
+Figure 6: (Color online) Shubnikov–de Haas oscillations seen in magnetoresistance of \(\mathrm{Sr_{1-x}}\) Ca\({}_{x}\) TiO\({}_{3}\) (\(x=0.22\) at.%) with carrier concentrations of \(n=5.2\times 10^{17}\mathrm{\ cm}^{-3}\) (top), \(n=1.08\times 10^{18}\mathrm{\ cm}^{-3}\) (middle), and \(n=2.2\times 10^{18}\mathrm{\ cm}^{-3}\) (bottom) panels. In each panel each curve corresponds to a different temperature.
+
+  Nb-doped SrTiO\({}_{3}\)[48], bulk probes of superconductivity yield a critical temperature and an upper critical field significantly lower than what is obtained by resistivity measurements. Therefore, the values obtained here should be taken cautiously.
+
+Table 1 gives a brief account of metallic and superconducting properties of our Sr\({}_{0.9978}\) Ca\({}_{0.0022}\) TiO\({}_{3-\delta}\) single crystals.
+
+The superconducting coherence length has been estimated using \(\xi^{-2}=\frac{2\pi}{\mu_{0}}0.69T_{c}\frac{dH_{2}}{dT}|_{T_{c}}\). The Dingle mobility was estimated by a Dingle fit to the SdH data. The Hall mobility was quantified by taking the ratio of Hall-to-longitudinal resistivity. As seen in the table, the normal state is dirtier in Sr\({}_{0.9978}\) Ca\({}_{0.0022}\) TiO\({}_{3-\delta}\) than in SrTiO\({}_{3-\delta}\) and a comparison of the mean-free path and the superconducting coherence length suggests that the system has become a dirty superconductor upon calcium doping.
+
+## VI Discussion
+
+Structural distortion is common among \(AB\) O\({}_{3}\) perovskites. The solidity of the cubic structure in this family is often quantified by a tolerance factor:
+
+\[t=(r_{A}+r_{0})/\sqrt{2}(r_{B}+r_{0}).\] (1)
+
+Here, \(r_{A,B,O}\) represent the atomic radii. In order to have a perfect cube, on needs to keep \(t=1\). Now, SrTiO\({}_{3}\) has a tolerance factor close to unity (\(t=1.009\)); this is much
+
+Figure 8: (Color online) Electrical resistivity as a function of temperature in Sr\({}_{0.9978}\) Ca\({}_{0.0022}\) TiO\({}_{3-\delta}\) for samples with different carrier densities. Top, \(n=5.2\times 10^{17}\) cm\({}^{-3}\); middle, \(n=1.08\times 10^{18}\)cm\({}^{-3}\); bottom, \(n=2.2\times 10^{18}\) cm\({}^{-3}\) at several applied magnetic fields.
+
+\begin{table}
+\begin{tabular}{l c c c c} \(n\) & \(\mu_{H}\) & \(\mu_{D}\) & mfp & \(\xi\) \\ (cm\({}^{-3}\)) & (cm\({}^{2}\) V\({}^{-1}\) s\({}^{-1}\)) & (cm\({}^{2}\) V\({}^{-1}\) s\({}^{-1}\)) & (nm) & (nm) \\ \hline \(5.2\times 10^{17}\) & 6100 (9000) & 1530 (2500) & 108 (138) & 374 (99) \\ \(1.08\times 10^{18}\)  lower than in Ba TiO3(_t_ = 1.07) and significantly larger than in CaTiO3 (_t_ = 0.97) [9]. Unsurprisingly, SrTiO3 keeps its cubic structure down to 105 K, contrary to CaTiO3 and BaTiO3, which are both distorted well above room temperature.
+
+The distortion specific to SrTiO3, the clockwise-counterclockwise rotation of adjacent octahedra in a single (001) plane (dubbed antiferrodistortive), is one of the possible twenty-three octahedra tilts in the _AB_ O3 system, which were first classified by Glazer [38] and subsequently discussed by other authors [39, 40].
+
+Another common distortion is the loss of inversion symmetry as a consequence of a displacement of atoms \(A\) and/or \(B\) from the center of respective polyhedra. This distortion leads to ferroelectricity. It has been commonly believed that these two distortions compete with each other, since there is no octahedral tilt in either of the two celebrated ferroelectrics of the family, Ba TiO3 and Pb TiO3. On the other hand, a tilt of octahedra, reminiscent of the one seen in SrTiO3 below 105 K, has been recently found in nonferroelectric (and magnetic) EuTiO3 below a transition temperature of 280 K [29].
+
+Our first result is a counterexample to the competitive relation assumed between the two instabilities. We find that in the case of lightly doped Ca: SrTiO3, the increase in Ca content strengthens both instabilities. It amplifies the angle of octahedra rotation and enhances the ferroelectric transition temperature. Let us put this result in the context of theoretical predictions.
+
+Zhong and Vanderbilt theoretically addressed the competition between the two distortions in SrTiO3 [9]. They computed the fate of the system subject to negative pressure and found that an expansion of the lattice parameter leads to the replacement of the antiferrodistortive transition by a ferroelectric distortion. They found a window in which both stabilities are present, but their pressure dependence is opposite to each other. More recently, in another theoretical treatment of the problem, Aschauer and Spaldin found that while for small angles of octahedral rotation ferroelectricity is indeed suppressed, larger octahedral tilt angles can stabilize ferroelectricity [11].
+
+As a consequence of the smaller ionic radius of calcium compared to strontium, calcium doping can be considered as a case of applying negative chemical pressure. However, infinitesimal calcium substitution generates also an anisotropic strain field [21], which has not been taken into account in these theoretical treatments. Therefore, our case cannot be directly compared to the theoretical predictions for stoichiometric systems. However, the tilt enhancement accompanying the emergence of ferroelectricity indicates a trend, which may be compatible with what is theoretically predicted by Aschauer and Spaldin [11].
+
+The increase in the transition temperature induced by calcium doping found here is to be contrasted with the effect of oxygen reduction, documented by studies of ultrasound attenuation [41] and neutron scattering [42]. Both studies found that oxygen removal and introducing 1020 cm-3 electrons shifts the transition downward by 20 K. The second outcome of this study is that one can introduce metallicity and superconductivity by removing a slight fraction of oxygens in Ca: SrTiO3. Starting from a ferroelectric, we find excellent metallicity with a carrier concentration in the range of 1017 cm-3. This is to be contrasted with the robustness of the insulating state in ferroelectric Ba TiO3 [43]. There, one needs to reach a carrier concentration of \(1.6\times 10^{20}\) cm-3 to cross the insulator-to-metal boundary. Moreover, the metal found there is too dirty to present a sharp Fermi surface and, of course, there is no superconducting transition. One important clue is that the zero-temperature dielectric coefficient is much larger in SrTiO3 than in Ba TiO3. Therefore, the Bohr radius is much longer in the former system pulling down the threshold of metal-insulator transition.
+
+The observation of superconductivity in oxygen-deficient slightly doped Ca: SrTiO3 is a first step to establish the precise boundaries of the phase space occupied by this intriguing superconducting state. There are theoretical proposals linking this superconductivity with either of the two instabilities. According to the one proposed by Appel [44], a crucial role in the formation of the Cooper pairs is played by a soft phonon mode associated with octahedra rotation. Rowley and co-workers have recently invoked the possible role of the quantum fluctuations of the ferroelectric order in causing superconductivity [45]. Finally, the weakening of Coulomb repulsion due to strong screening offered by the large dielectric coefficient plays an important role in Takada's proposed route towards superconductivity [46].
+
+A recent study [48] has found that in SrTiO3-\(\delta\) bulk superconductivity occurs at a temperature significantly lower than what is detected by resistivity. Therefore, the broad resistive superconducting transitions seen in our sample should be treated with caution. However, it appears clearly that superconductivity is somewhat weakened by calcium substitution. One can invoke two possible explanations for this.
+
+The first possibility would be that this is an issue in material science. If oxygen vacancies happen to cluster around calcium sites, the inhomogeneity in the oxygen-reduced and calcium-doped samples will be larger. In other words, reduced homogeneity may be a result of spatial correlation between theses two types of defects introduced to the lattice. We note that calcium substitution, in addition to decreasing _T\({}_{c}\)_ and broadening the transition, lowers the carrier mobility in the normal state. Such a reduced mean-free path is indeed what is expected in the case of enhanced spatial inhomogeneity. Another and more speculative line of thought would invoke the loss of the inversion symmetry in a calcium-substituted site. This may have microscopic consequences for the formation of Cooper pairs. Noncentrosymmetric superconductors have attracted much attention during the last decade [47]. The partial absence of inversion center in our Ca-doped superconductor is reminiscent of such superconductors.
+
+It is instructive to construct a three-dimensional phase diagram presenting the evolution of the three transition temperatures as a function of \(x\) and \(d\) in Sr1-\(\epsilon\)Ca\({}_{x}\)TiO3-\(\delta\). Assuming that two mobile carriers are introduced by one oxygen vacancy, our data lead to Fig. 9. As seen in the figure, superconducting and ferroelectric ground states are not immediate neighbors, which is not surprising as superconductivity is an instability of metallic state and ferroelectricity an instability in the insulating state. This is to be contrasted with the phase diagram  of those superconducting families in which superconducting and magnetic ground states share a common border. The exploration of the region below \(x=0.0022\) would shed more light on the cooperative or competitive relation between superconductivity and the two other instabilities.
+
+## VII Conclusion and Summary
+
+Substituting strontium with calcium enhances the transition temperature of the antiferrodistortive transition and induces ferroelectricity in SrTiO\({}_{3}\). Oxygen-deficient-calcium doped strontium titanate was found to be a dilute metal with very mobile carriers, which undergoes a superconducting transition with a \(T_{c}\) slightly lower and resistive transitions broader than what is seen in SrTiO\({}_{3-\delta}\). These two findings establish this system as an unusual case of proximity between these three instabilities.
+
+Ferroelectric order arises when a solid hosts a macroscopic and reversible static electric dipole. Since mobile electrons of a metal are expected to screen such a dipole, only ionic insulators lacking inversion symmetry are expected to qualify as true ferroelectric systems. Superconductivity is an instability of electrons in a metal due to an attractive interaction among electrons overcoming the Coulomb repulsion and giving rise to a condensate of Cooper pairs. Because one arises in a metal and the other in an insulator, it is not surprising that ferroelectricity and superconductivity, in spite of their proximity, do not share a common border in the emerging phase diagram of the system under study. On the other hand, a superconducting ground state in the immediate vicinity of a magnetic ground state has been seen in numerous systems such as heavy-fermion, organic, and iron-based families of superconductors. Metals can host ferromagnetism or antiferromagnetism, but not ferroelectricity, at least in its conventional definition. This fundamental difference has to be taken into account in any comparison of antiferromagnetic and ferroelectric quantum critical points as potential crades of superconductivity [45].
+
+Monitoring the survival of superconductivity in this context is a first step to clarify the possible link between the superconducting order and the two neighboring lattice instabilities. Further studies are needed to map this region of the phase diagram in more detail and to clarify the origin of the broadened superconducting transition.
+
+###### Acknowledgements.
+
+ This work was supported in Brazil by the FAPESP (2009/54001-2 and 2010/06637-2), CNPq (308162/2013-7), PRP-USP, CAPES, and FAPEMIG. In France it was supported by the QUANTUMERM and SUPERFIELD projects funded by Agence Nationale de Recherche. In Germany it was supported by DFG Research Grant No. HE-3219/2-1 as well as by the Institutional Strategy of the University of Cologne within the German Excellence Initiative. K.B. acknowledges University of Sao Paulo for a visiting professorship during which this work was initiated.
+
+## References
+
+* [1] For a review of the structural transition in SrTiO\({}_{3}\) see R. A. Cowley, Philos. Trans. R. Soc. A **354**, 2799 (1996).
+* [2] F. W. Lytle, J. Appl. Phys. **35**, 2212 (1964).
+* [3] H. Unoki and T. Sakudo, J. Phys. Soc. Jpn. **23**, 546 (1967).
+* [4] K. A. Muller, W. Berlinger, and F. Waldner, Phys. Rev. Lett. **21**, 814 (1968).
+* [5] E. K. H. Salje, Annu. Rev. Mater. Res. **42**, 265 (2012).
+* [6] E. K. H. Salje, O. Aktas, M. A. Carpenter, V. V. Laguta, and J. F. Scott, Phys. Rev. Lett. **111**, 247603 (2013).
+* [7] K. A. Muller and H. Burkhard, Phys. Rev. B **19**, 3593 (1979).
+* [8] J. Hemberger, M. Nicklas, R. Viana, P. Lunkenheimer, A. Loidl, and R. Bohmer, J. Phys.: Condens. Matter **8**, 4673 (1996).
+* [9] W. Zhong and D. Vanderbilt, Phys. Rev. Lett. **74**, 2587 (1995).
+* [10] N. A. Benedek and C. J. Fennie, J. Phys. Chem. C **117**, 13339 (2013).
+* [11] U. Aschauer and N. A. Spaldin, J. Phys.: Condens. Matter **26**, 122203 (2014).
+* [12] J. F. Schooley, W. R. Hosler, and M. L. Cohen, Phys. Rev. Lett. **12**, 474 (1964).
+* [13] J. F. Schooley, W. R. Hosler, E. Ambler, and J. H. Becker, Phys. Rev. Lett. **14**, 305 (1965).
+* [14] C. S. Koonce, M. L. Cohen, J. F. Schooley, W. R. Hosler, and E. R. Pfeiffer, Phys. Rev. **163**, 380 (1967).
+* [15] G. Binnig, A. Baratoff, H. E. Hoenig, and J. G. Bednorz, Phys. Rev. Lett. **45**, 1352 (1980).
+* [16] X. Lin, Z. Zhu, B. Fauque, and K. Behnia, Phys. Rev. X **3**, 021002 (2013).
+* [17] X. Lin, G. Bridoux, A. Gourgout, G. Seyfarth, S. Kramer, M. Nardone, B. Fauque, and K. Behnia, Phys. Rev. Lett. **112**, 207002 (2014).
+* [18] H. Suzuki, H. Bando, Y. Ootuka, I. H. Inoue, T. Yamamoto, K. Takahashi, and Y. Nishihara, J. Phys. Soc. Jpn. **65**, 1529 (1996).
+* [19] A. Spinelli, M. A. Torija, C. Liu, C. Jan, and C. Leighton, Phys. Rev. B **81**, 155110 (2010).
+
+Figure 9: (Color online) Three-dimensional phase diagram of Sr\({}_{1-x}\), Ca\({}_{x}\)TiO\({}_{x-y}\). The three transition temperatures evolve as a function of calcium substitution (\(x\)) and oxygen vacancies (\(\delta\)).
+
+  * [20] J. G. Bednorz and K. A. Muller, Phys. Rev. Lett. **52**, 2289 (1984).
+* [21] W. Kleemann, F. J. Schafer, K. A. Muller, and J. G. Bednorz, Ferroelectrics **80**, 297 (1988).
+* [22] U. Bianchi, W. Kleemann, and J. G. Bednorz, J. Phys.: Condens. Matter **6**, 1229 (1994).
+* [23] W. Kleemann, J. Dec, and B. Westwanski, Phys. Rev. B **58**, 8985 (1998).
+* [24] J. F. Schooley, H. P. R. Frederikse, W. R. Hosler, and E. R. Pfeiffer, Phys. Rev. **159**, 301 (1967).
+* [25] D. M. Eagles, Solid State Commun. **60**, 521 (1986).
+* [26] D. Niermann, C. P. Grams, M. Schalenbach, P. Becker, L. Bohr\(\acute{\text{a}}\)r, J. Stein, M. Braden, and J. Hemberger, Phys. Rev. B **89**, 134412 (2014).
+* [27] E. K. H. Salje, M. C. Gallardo, J. Jimenez, F. J. Romero, and J. del Cerro, J. Phys.: Condens. Matter **10**, 5535 (1998).
+* [28] M. C. Gallardo, R. Burriel, F. J. Romero, F. J. Gutierrez, and E. K. H. Salje, J. Phys.: Condens. Matter **14**, 1881 (2002).
+* [29] A. Bussmann-Holder, J. Kohler, R. K. Kremer, and J. M. Law, Phys. Rev. B **83**, 212102 (2011).
+* [30] G. Shirane and Y. Yamada, Phys. Rev. **177**, 858 (1969).
+* [31] R. Ranjan, D. Pandey, and N. P. Lalla, Phys. Rev. Lett. **84**, 3726 (2000).
+* [32] J. Dec, W. Kleemann, U. Bianchi, and J. G. Bednorz, Europhys. Lett. **29**, 31 (1995).
+* [33] R. Viana, P. Lunkenheimer, J. Hemberger, R. Bohmer, and A. Loidl, Phys. Rev. B **50**, 601(R) (1994).
+* [34] M. D. Biegalski _et al._, Appl. Phys. Lett. **88**, 192907 (2006).
+* [35] A. A. Bokov and Z.-G. Ye, J. Mater. Sci. **41**, 31 (2006).
+* [36] H. Uwe, R. Yoshizaki, T. Sakudo, A. Izumi, and T. Uzumaki, Jpn. J. Appl. Phys. **24**, Suppl. 24-2, 335 (1985).
+* [37] S. J. Allen, B. Jalan, S. Lee, D. G. Ouellette, G. Khalsa, J. Jaroszynski, S. Stemmer, and A. H. MacDonald, Phys. Rev. B **88**, 045114 (2013).
+* [38] A. M. Glazer, Acta Cryst. B **28**, 3384 (1972).
+* [39] N. W. Thomas, Acta Cryst. B **52**, 16 (1996).
+* [40] P. M. Woodward, Acta Cryst. B **53**, 32 (1997); **53**, 44 (1997).
+* [41] D. Bauerle and W. Rehwald, Solid State Commun. **27**, 1343 (1978).
+* [42] J. B. Hastings, S. M. Shapiro, and B. C. Frazer, Phys. Rev. Lett. **40**, 237 (1978).
+* [43] T. Kolodiazhnyi, Phys. Rev. B **78**, 045107 (2008).
+* [44] J. Appel, Phys. Rev. **180**, 508 (1969).
+* [45] S. E. Rowley, L. J. Spalek, R. P. Smith, M. P. M. Dean, M. Itoh, J. F. Scott, G. G. Lonzarich, and S. S. Saxena, Nat. Phys. **10**, 367 (2014).
+* [46] Y. Takada, J. Phys. Soc. Jpn. **49**, 1267 (1980).
+* [47] E. Bauer and M. Sigrist, _Non-centrosymmetric Superconductors: Introduction and Overview_ (Springer, Berlin, 2012).
+* [48] X. Lin, A. Gourgout, G. Bridoux, F. Jomard, A. Pourret, B. Fauque, D. Aoki, and K. Behnia, Phys. Rev. B **90**, 140508(R) (2014).
+
+ 

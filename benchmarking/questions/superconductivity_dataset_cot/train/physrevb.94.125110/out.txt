@@ -1,0 +1,335 @@
+
+
+# Quantum criticality in the ferromagnetic superconductor UCoGe under pressure and magnetic field
+
+Gael Bastien
+
+gael.bastien@cea.fr Universite Grenoble Alpes, CEA, INAC-PHELIQS, F-38000 Grenoble, France
+
+Dani Braithwaite
+
+Universite Grenoble Alpes, CEA, INAC-PHELIQS, F-38000 Grenoble, France
+
+Dai Aoki
+
+Borgo Knebel
+
+Georg Knebel
+
+Georg Knebel
+
+Universite Grenoble Alpes, CEA, INAC-PHELIQS, F-38000 Grenoble, France
+
+Jacques Flouquet
+
+Universite Grenoble Alpes, CEA, INAC-PHELIQS, F-38000 Grenoble, France
+
+###### Abstract
+
+The pressure-temperature phase diagram of the orthorhombic ferromagnetic superconductor UCoGe was determined by resistivity measurements up to 10.5 GPa. The Curie temperature T_{c} is suppressed with pressure and vanishes at the critical pressure p_{c}\approx 1 GPa. Superconductivity is observed in both the ferromagnetic state at low pressure, and in the paramagnetic state above p_{c} up to about 4 GPa. Non-Fermi-liquid behavior appears in a large pressure range. The resistivity varies linearly with temperature around p_{c} and evolves continuously with pressure to a T^{2} Fermi-liquid behavior for p\gtrapprox 5 GPa. The residual resistivity as a function of pressure shows a maximum far above p_{c} at p^{\star}=7.2 GPa and the amplitude of the inelastic scattering term of the resistivity decreases by more than one order in magnitude at p^{\star}, which appears to mark the entrance into a weakly correlated regime. The pressure dependence of the upper critical field for magnetic field applied along the b and c axis illustrates the drastic difference in the field dependence of the ferromagnetic superconducting pairing. While for H\parallel b axis H_{c2}(T) is driven by the suppression of the ferromagnetic order, it is dominated by the strong initial suppression of the ferromagnetic fluctuations for a field applied in the easy magnetization axis c.
+
+DOI: 10.1103/PhysRevB.94.125110
+
+## I Introduction
+
+Magnetic quantum criticality has attracted major attention in recent years. The magnetic quantum phase transition is accompanied by an increase of quantum fluctuations, which induces strong deviations from the standard Fermi-liquid behavior of a metal [1]. New quantum phases such as magnetically mediated nonconventional superconductivity (SC) [2], nematic orders [3, 4], or complex modulated magnetic states [5] appear near the critical pressure p_{c}.
+
+The collapse of antiferromagnetism occurs in many heavy-fermion systems through a continuous second order quantum phase transition, and a superconducting dome has been observed in the vicinity of p_{c}. In contrast, in the case of a ferromagnet, the quantum phase transition at p_{c} changes near p_{c} to be first order in systems with low disorder [6, 7] or may lead to complex order [8, 9, 10]. Even if magnetically mediated superconductivity has been predicted for weakly ferromagnetic systems already a long time ago [11], up to now only four systems show the microscopic coexistence of ferromagnetism and SC: UGe_{2}[12], URhGe [13], UIr [14], and UCoGe [15]. While for UGe_{2} SC appears under high pressure in the ferromagnetic state, URhGe and UCoGe are ferromagnetic and superconducting already at ambient pressure but with very different (p,T) phase diagrams. In URhGe the Curie temperature T_{c} increases with pressure at least up to 12.6 GPa [16], while ferromagnetism in UCoGe is suppressed under pressure [17, 18].
+
+In this paper we focus on the high pressure phase diagram of UCoGe which orders at T_{C}\approx 2.7 K with a tiny ordered moment of M_{0}\approx 0.05\mu_{B} at p=0[15]. Ferromagnetism is due to the 5f electrons from uranium which hybridize with light electrons to form heavy quasiparticle bands at low temperature [19]. Bulk superconductivity coexists with ferromagnetism below T_{sc}\approx 0.6 K. This provides a unique opportunity to study the link between the collapse of ferromagnetism and concomitant ferromagnetic fluctuations and the appearance of SC. Previously, the (p,T) phase diagram of UCoGe has been established up to 2.5 GPa by resistivity and magnetic susceptibility measurements [17, 18, 20, 21] and p_{c} is located around 1 GPa. The ferromagnetic transition may be already first order at ambient pressure [22]. Here we will determine the (p,T) phase diagram of UCoGe by resistivity measurements up to 10.5 GPa down to 50 mK using a diamond anvil cell (DAC). Our experiments illustrate the link between the normal and SC phases on the field and pressure dependence of the ferromagnetic coupling. UCoGe provides the unique opportunity to study the interplay between SC and ferromagnetism in a case where SC is known to be robust through p_{c} and where T_{C} will approach T_{sc} without a strong first order collapse of T_{C} as it happens, for example, in UGe_{2}[23].
+
+In UCoGe SC survives deep inside the paramagnetic (PM) domain roughly up to p\approx 4p_{c}. Up to this pressure magnetic fluctuations are dominant and the transport shows a non-Fermi-liquid regime in the normal state above the SC dome. A Fermi-liquid ground state in zero field can be detected only for p\gtrapprox 5 GPa, basically when SC has fully collapsed. The magnetic field and pressure variations of ferromagnetism and its concomitant fluctuations have a strong impact on the unusual temperature dependence of the superconducting upper critical field H_{c2} with an upward curvature observed initially for both the hard b and the easy c axis at low pressure [21, 24].
+
+## II Experimental details
+
+High quality single crystals of UCoGe (orthorhombic TiNiSi structure) were grown in a tetra-arc furnace by the Chzochralski method. Measurements under hydrostatic pressure were performed in a DAC (p<11 GPa) and a piston cylinder cell (p<2.5 GPa) with argon and Daphne oil 7373 as pressure transmitting media, respectively, ensuring very good pressure conditions [25]. The resistivity ratio of the sample used in the DAC after polishing was RRR = 28. A dilution fridge with a system allowing to change pressure _in situ_ at low temperature was used to cool the sample down to 50 mK [26, 27]. The pressure was determined _in situ_ by fluorescence of ruby. An ac electrical current (j<100\muA) was applied in the _ab_ plane. A low temperature transformer has been used to improve the signal to noise ratio of the measured voltage. A magnetic field up to 7 T was applied along the c axis. In a second experiment, the upper critical field H_{c2} for H\parallel b has been determined by resistivity with a sample of similar quality using a piston cylinder cell up to 2.5 GPa and magnetic field up to 16 T.
+
+## III Results and Discussion
+
+Figure 1(a) shows the resistivity \rho of UCoGe versus temperature T for various pressures p in the DAC and (b) the (p,T) phase diagram extracted from these measurements which is in good agreement with previous reports [17, 18, 20, 21]. At the lowest pressures the resistivity shows a kink at T_{C}, as indicated in Fig. 1(a) for p=0.4 GPa. T_{C} decreases with pressure from T_{C}\approx 2.5 K at p=0 GPa and coincides with the superconducting transition temperature at p\approx 0.8 GPa and T_{sc}=0.8 K. The extrapolation of the pressure dependence of T_{C} down to zero temperature determines p_{c}\approx 0.9 GPa. The exact p dependence of T_{C} in the SC dome is still unclear [18, 20] but from symmetry arguments the transition line should be first order [28]. For the second sample measured in the piston cylinder cell a similar phase diagram has been determined [see Fig. 1(b)] with slightly higher T_{C} and T_{sc}. Compared to previous reports [18, 20, 21] the value of T_{C} and also the exact location of p_{c} appears strongly sample dependent. However, each study shows that T_{sc} is maximum at or slightly below the pressure where it reaches T_{C}. The inset in Fig. 1(b) shows the transition width \Delta T_{sc} as a function of pressure. At the maximum of T_{sc} the superconducting transition is sharpest (\Delta T_{sc}=40 mK) and broadens with increasing pressure in the PM phase. T_{sc} is maximal at 0.65 GPa, below p_{c}. Zero resistivity can be observed up to 3.5 GPa. Taking the midpoint or the onset of the transition criteria SC vanishes around 4 or 4.5 GPa, respectively. Thus, SC survives in the PM regime far above p_{c}. The broadening of the superconducting transition under pressure is independent of sample quality and high pressure conditions and it is clearly related with the strength of \partial T_{sc}/\partial p.
+
+The T dependence of the resistivity has been parametrized by fitting a power law \rho(T)=\rho_{0}+A_{n}T^{n} in the normal state. Here \rho_{0} is the residual resistivity and A_{n} gives the strength of the temperature dependent scattering term. In the case of a Fermi liquid n=2 and the coefficient A_{2} is related to the average effective mass m^{\star} of the quasiparticles. In multiband heavy-fermion materials A_{2}\propto(m^{\star})^{2} is generally obeyed. To evaluate the pressure and temperature dependence of the exponent n we performed fits with the power law on a sliding window of 0.3 K in the normal state. This allows one to plot n(p,T) in Fig. 2. The resistivity follows a T^{2} behavior at ambient pressure and low temperature in the ferromagnetic state. Remarkably, \rho(T) is linear around p_{c} above the superconducting transition T_{sc}. The T^{2} behavior of the Fermi-liquid regime is recovered only above 5 GPa in the PM state far above p_{c} below T_{FL}.
+
+Figure 2: Color plot of the resistivity exponent n as a function of temperature and pressure from fitting \rho=\rho_{0}+A_{n}T^{n} over a sliding window of 300 mK. T_{C} and the onset of the superconducting transition as a function of pressure are represented by solid circles and diamonds, respectively. Linear resistivity is observed around p_{c}. At high pressure Fermi-liquid behavior is recovered and the upper limit of the Fermi-liquid regime T_{FL} is indicated by the dashed line.
+
+Figure 1: (a) Temperature dependence of the resistivity in UCoGe for different pressures in the diamond anvil cell. For p=0.4 GPa the Curie temperature T_{C} is denoted by the arrow. (b) (p,T) phase diagram of UCoGe. Closed (open) symbols correspond to the experiment in the DAC (piston cylinder cell). T_{C} vanishes at p_{c}\approx 0.9 GPa in both experiments. The superconducting transition T_{sc} is determined by the midpoint of the transition. The inset shows the pressure dependence of the width of the superconducting transition, \Delta T_{sc}.
+
+  The unusual quasilinear T dependence of \rho(T) observed close to the ferromagnetic instability is not expected in the spin-fluctuation theory. Theoretically, a T^{5/3} temperature dependence is predicted in the quantum critical regime for a three-dimensional ferromagnet [29, 30, 31, 32, 33]. This is a consequence of an underlying quasiparticle scattering rate that varies linearly with the excitation energy E of a quasiparticle near the Fermi level. A T^{5/3} behavior was reported in several itinerant ferromagnetic systems such as, e.g., NiAl_{3}[34], URhAl [35], and U_{3}P_{4}[36]. However, strong deviations from this T^{5/3} have been reported for MnSi [37, 38] and ZrZn_{2}[39, 40] where a T^{3/2} dependence has been observed up to 3p_{c}.
+
+A T-linear resistance has been observed in different strongly correlated electron systems, such as high-T_{c} cuprate or iron-pnictide superconductors close to the optimal doping [41, 42, 43], in organic superconductors [44], in ruthenates [45], and also in several heavy-fermion systems, when these are close to quantum criticality such as CeCoIn_{5}[46], CeRhIn_{5}[47, 48], or YbRh_{2}Si_{2}[49]. For the antiferromagnetic heavy fermions, different theoretical scenarios have emerged to explain the unusual T dependence, such as a reduced dimensionality of the magnetic fluctuations [31, 33, 50], critical valence fluctuations [51, 52], or fluctuations associated with the change of the electronic structure from the ordered to the PM state [53, 54, 55]. The specific case of ferromagnetic fluctuations remains to be treated.
+
+The residual resistivity \rho_{0} obtained from the fit is represented in Fig. 3(a) as a function of pressure. \rho_{0}(p) shows a shallow minimum at p_{c}\approx 0.9 GPa. It increases up to \rho_{0}\approx 22\ \mu\Omega cm at p^{\star}\approx 7.2 GPa and decreases strongly with pressure. Finally it saturates around 9.5 GPa at \rho_{0}=10\ \mu\Omega cm. p^{\star} is independent of magnetic field at least up to 7 T. The low temperature inelastic electronic scattering contribution to the resistivity \rho(1\ \mathrm{K})-\rho_{0} at zero magnetic field as a function of pressure is represented in Fig. 3(b). \rho(1\ \mathrm{K})-\rho_{0} shows a clear maximum at p_{c}. The decrease of \rho(1\ \mathrm{K})-\rho_{0} with pressure gets stronger above p^{\star}=7.2 GPa. The compressibility of UCoGe was computed by density functional theory [56] and experimentally determined by an x-ray scattering experiment under hydrostatic pressure up to 30 GPa [57]. At p=10 GPa the volume of the unit cell is reduced by 3%. No structural transition was observed in the x-ray scattering experiment and only tiny anomalies in the lattice parameters as a function of pressure at p^{\star}[57]. In the ferromagnetic state at p=0 the valence of UCoGe is close to the U^{3+} configuration [58]. It was estimated at 3.2 by local-density approximation calculations for ambient pressure [59] and is expected to be closer to the U^{4+} under pressure. Thus the anomaly at p^{\star} may be related to a weak valence crossover as observed in various Ce or Yb based heavy-fermion systems under pressure [51, 52, 60].
+
+For a small magnetic field of 1 T along the c axis, slightly higher than the upper critical field H_{c2}, the exponent n=2 is recovered [see Fig. 3(c)] and Fermi-liquid behavior appears in the entire pressure range. The low temperature electronic scattering, determined by \rho(1\ \mathrm{K})-\rho_{0}, is plotted for different magnetic fields as a function of pressure in Fig. 3(d). Its acute enhancement at p_{c} is suppressed under magnetic field and a rather smooth pressure dependence is achieved. This indicates that the low field behavior of UCoGe is determined by magnetic fluctuations which are rapidly suppressed by a magnetic field applied along the c axis as has been shown at zero pressure by NMR [61], thermal transport [62], and specific heat experiments [63, 64].
+
+A striking property of UCoGe is its unusual upper critical field H_{c2} with the very strong anisotropy between H_{c2} for a field along the a (H_{c2}^{a}) or b (H_{c2}^{b}) hard axis and H_{c2} along the easy magnetization c axis (H_{c2}^{c}). While H_{c2}^{a} and H_{c2}^{b} exceed values above 20 T at ambient pressure, H_{c2}^{c} is as small as 1 T or even less, depending on the sample quality [21, 65, 66]. In addition, the temperature dependence H_{c2}(T) for all directions is very unusual with a strong upward curvature.
+
+H_{c2}^{b}(T) for a field applied along the b axis is represented in Fig. 4(a) for different pressures. At ambient pressure H_{c2}^{b}(T) shows a strong upward curvature with decreasing temperature. This measurement does not show the "S" shape of H_{c2} observed in [66]. It may be due to a small misalignment along the a axis of the sample inside the pressure cell. The unusual behavior of H_{c2}^{b} along the hard axis is related to the field decrease of T_{C} in the transverse magnetic field and the concomitant reinforcement of the magnetic fluctuations [66, 67]. This mechanism is quite similar to that of the field reentrance of SC in URhGe [68, 69]. The upward curvature of H_{c2}^{b} is reduced under pressure and vanishes around p\approx 1 GPa. Up to the highest pressure p=2.28 GPa, H_{c2}^{b}(T) is still nearly linear in T. H_{c2}^{b}(0) decreases almost linearly with pressure from about H_{c2}^{b}(0)\approx 25 T at zero pressure to 7 T at 2.28 GPa. The upward curvature disappears when ferromagnetism collapses [70].
+
+For H\parallel c, the field and pressure evolution of the inelastic low temperature electronic scattering contribution \rho(1\ \mathrm{K})-\rho_{0} shows that magnetic fluctuations are strongly suppressed with field. The relatively low value of H_{c2}^{c} and
+
+Figure 3: (a) Residual resistivity \rho_{0} as a function of pressure. \rho_{0} shows a minimum at p_{c}\approx 0.9 GPa and a maximum at p^{\star}=7.2 GPa. (b) \rho(1\ \mathrm{K})-\rho_{0} on a logarithmic scale as a function of pressure. (c) Field dependence of n slightly above p_{c} obtained from fits in the normal state for T<1.5 K. (d) \rho(1\ \mathrm{K})-\rho_{0} for different magnetic fields as a function of pressure.
+
+  the unusual upward curvature of H_{c2}^{c} was explained by several models including a magnetic field dependent pairing interaction [61, 64, 71, 72]. In our experiment the unusual curvature of H_{c2}^{c}(T) was observed in the whole pressure range of the superconducting dome. Inside the framework of equal spin triplet pairing, H_{c2}(0) is governed by the orbital effect and so is proportional to (m^{\ast}T_{sc})^{2}. Here we have to account for a field dependence (m^{\ast}_{H}) which reflects a field dependence of the pairing interaction. The value T_{sc}(m^{\ast}_{H}) at finite field is lower than T_{sc}(m^{\ast}_{0}) expected from zero magnetic field and this leads to the initial curvature of H_{c2}(T). However, at 3.4 GPa far away from the quantum critical region, the ferromagnetic fluctuations have been strongly suppressed and their field dependence becomes weak. Therefore, at 3.4 GPa H_{c2}^{c}(T) varies linearly with temperature and is much closer to the conventional orbital limitation with a field independent pairing than H_{c2} in the vicinity of p_{c}. This suggests that H_{c2}^{c}(T) is driven by the suppression of pairing interaction under field.
+
+## IV Conclusion
+
+To summarize we determined the (p,T) phase diagram of UCoGe up to 10.5 GPa by resistivity measurements. T_{C} vanishes at p_{c}\approx 0.9 GPa and SC has been observed up to 4\,p_{c}. Ferromagnetic fluctuations account for the unusual normal state transport properties observed up to 5 GPa as well as the pressure and field dependence of H_{c2}. The superconducting critical field H_{c2}^{c} for field along the c axis is determined by the pressure and field dependence of the ferromagnetic fluctuations which are suppressed for H\approx 1 T at p=0. H_{c2}^{b} for transverse magnetic field changes drastically on crossing the ferromagnetic phase boundary below p_{c}. Entering in the paramagnetic regime above p_{c}H_{c2}^{b} recovers rapidly the conventional initially linear T dependence of the upper critical field. Finally, the crossover pressure p^{\ast} marks a change in the magnetic and electronic properties linked to the pressure dependence of the 5\,f occupation number and a smooth crossover from a strongly to weakly correlated regime.
+
+Our experiment gives now a sound basis on the anisotropic SC response of H_{c2} on the static and dynamic components of the ferromagnetism. It is a unique example where the magnetic coupling is deeply modified (here for H\parallel c) in low magnetic fields. Close to p_{c} the comparable strength of T_{C} and T_{sc} leads to remarkable non-Fermi-liquid behavior which indicates the strong coupling of magnetism and superconductivity. This is remarkably different from other ferromagnetic superconductors driven to quantum criticality by the pressure (UGe_{2}) [73, 74] of a magnetic field (URhGe) [75] where a Fermi-liquid regime is robust.
+
+###### Acknowledgements.
+
+ We are grateful to J.-P. Brison, B. Wu, A. Pourret, K. Ishida, V. Mineev, and A. de Visser for insightful discussions. We acknowledge support from ERC grant "NewHeavyFermion," the French ANR "PRINCESS," and KAKENHI (25247055, 15H05884, 15H05882, 15K21732, and 16H04006).
+
+## References
+
+* [1] H. V. Lohneysen, A. Rosch, M. Vojta, and P. Wolfle, Rev. Mod. Phys. **79**, 1015 (2007).
+* [2] C. Pfleiderer, Rev. Mod. Phys. **81**, 1551 (2009).
+* [3] R. A. Borzi, S. A. Grigera, J. Farrell, R. S. Perry, S. J. S. Lister, S. L. Lee, D. A. Tennant, Y. Maeno, and A. P. Mackenzie, Science **315**, 214 (2007).
+* [4] R. M. Fernandes, A. V. Chubukov, and J. Schmalian, Nat. Phys. **10**, 97 (2014).
+* [5] G. Abdul-Jabbar, D. A. Sokolov, C. D. O'Neill, C. Stock, D. Wermeille, F. Demmel, F. Kruger, A. G. Green, F. Levy-Bertrand, B. Grenier, and A. D. Huxley, Nat. Phys. **11**, 321 (2015).
+* [6] D. Belitz, T. R. Kirkpatrick, and J. Rollbuhler, Phys. Rev. Lett. **94**, 247205 (2005).
+* [7] V. P. Mineev, C. R. Phys. **12**, 567 (2011).
+* [8] A. V. Chubukov, C. Pepin, and J. Rech, Phys. Rev. Lett. **92**, 147003 (2004).
+* [9] G. J. Conduit, A. G. Green, and B. D. Simons, Phys. Rev. Lett. **103**, 207201 (2009).
+* [10] U. Karahasanovic, F. Kruger, and A. G. Green, Phys. Rev. B **85**, 165111 (2012).
+* [11] D. Fay and J. Appel, Phys. Rev. B **22**, 3173 (1980).
+* [12] S. S. Saxena, P. Agarwal, K. Ahilan, F. M. Grosche, R. K. W. Haselwimmer, M. J. Steiner, E. Pugh, I. R. Walker, S. R.
+
+Figure 4: (a) Temperature dependence of the upper critical field H_{c2} in UCoGe for different pressures for a field along the b axis. Measurements were performed on sample 2 in a piston cylinder cell. The midpoint of resistivity drop was chosen as criteria for the transition. (b) Temperature dependence of H_{c2} in UCoGe for different pressures for field along the c axis. Measurements were performed on sample 1 in the DAC.
+
+  Julian, P. Monthoux, G. G. Lonzarich, A. D. Huxley, I. Sheikin, D. Braithwaite, and J. Flouquet, Nature (London) **406**, 587 (2000).
+* [13] D. Aoki, A. D. Huxley, E. Ressouche, D. Braithwaite, J. Flouquet, J. Brison, E. Lhotel, and C. Paulsen, Nature (London) **413**, 613 (2001).
+* [14] T. Akazawa, H. Hidaka, T. Fujiwara, T. C. Kobayashi, E. Yamamoto, Y. Haga, R. Settai, and Y. Onuki, J. Phys.: Condens. Matter **16**, L29 (2004).
+* [15] N. T. Huy, A. Gasparini, D. E. de Nijs, Y. Huang, J. C. P. Klaasse, T. Gortenmulder, A. de Visser, A. Hamann, T. Gorlach, and H. v. Lohneysen, Phys. Rev. Lett. **99**, 067006 (2007).
+* [16] F. Hardy, A. Huxley, J. Flouquet, B. Salce, G. Knebel, D. Braithwaite, D. Aoki, M. Uhlarz, and C. Pfleiderer, Phys. B (Amsterdam, Neth.) **359-361**, 1111 (2005).
+* [17] E. Hassinger, D. Aoki, G. Knebel, and J. Flouquet, J. Phys. Soc. Jpn. **77**, 073703 (2008).
+* [18] E. Slooten, T. Naka, A. Gasparini, Y. K. Huang, and A. de Visser, Phys. Rev. Lett. **103**, 097003 (2009).
+* [19] S.-i. Fujimori, T. Ohkochi, I. Kawasaki, A. Yasui, Y. Takeda, T. Okane, Y. Saitoh, A. Fujimori, H. Yamagami, Y. Haga, E. Yamamoto, and Y. Onuki, Phys. Rev. B **91**, 174503 (2015).
+* [20] E. Hassinger, D. Aoki, G. Knebel, and J. Flouquet, J. Phys.: Conf. Ser. **200**, 012055 (2010).
+* [21] G. Bastien, G. Knebel, D. Aoki, and J. Flouquet, J. Phys.: Conf. Ser. **592**, 012068 (2015).
+* [22] T. Ohta, T. Hattori, K. Ishida, Y. Nakai, E. Osaki, K. Deguchi, N. K. Sato, and I. Satoh, J. Phys. Soc. Jpn. **79**, 023707 (2010).
+* [23] C. Pfleiderer and A. D. Huxley, Phys. Rev. Lett. **89**, 147005 (2002).
+* [24] D. Aoki, F. Hardy, A. Miyake, V. Taufour, T. D. Matsuda, and J. Flouquet, C. R. Phys. **12**, 573 (2011).
+* [25] N. Tateiwa and Y. Haga, Rev. Sci. Instrum. **80**, 123901 (2009).
+* [26] The pressure system is similar to that described in Ref. [27]; see also A. Fernandez Panella, Ph.D. thesis, University Joseph Fourier, 2012.
+* [27] B. Salce, J. Thomasson, A. Demuer, J. J. Blanchard, J. M. Martinod, L. Devoille, and A. Guillaume, Rev. Sci. Instrum. **71**, 2461 (2000).
+* [28] V. P. Mineev, J. Phys. Soc. Jpn. **77**, 103702 (2008).
+* [29] J. Mathon, Proc. R. Soc. London, Ser. A **306**, 355 (1968).
+* [30] T. Moriya, _Spin Fluctuations in Itinerant Electron Magnetism_ (Springer, Berlin, 1985).
+* [31] A. J. Millis, Phys. Rev. B **48**, 7183 (1993).
+* [32] G. G. Lonzarich, _The Electron_ (Cambridge University Press, Cambridge, 1997).
+* [33] T. Moriya, Acta Phys. Pol. B **34**, 287 (2003).
+* [34] P. G. Niklowitz, F. Beckers, G. G. Lonzarich, G. Knebel, B. Salce, J. Thomasson, N. Bernhoeft, D. Braithwaite, and J. Flouquet, Phys. Rev. B **72**, 024424 (2005).
+* [35] Y. Shimizu, D. Braithwaite, B. Salce, T. Combier, D. Aoki, E. N. Hering, S. M. Ramos, and J. Flouquet, Phys. Rev. B **91**, 125115 (2015).
+* [36] S. Araki, M. Hayashida, N. Nishiumi, H. Manabe, Y. Ikeda, T. C. Kobayashi, K. Murata, Y. Inada, P. Wisniewski, D. Aoki, Y. Onuki, E. Yamamoto, and Y. Haga, J. Phys. Soc. Jpn. **84**, 024705 (2015).
+* [37] C. Pfleiderer, S. R. Julian, and G. G. Lonzarich, Nature (London) **414**, 427 (2001).
+* [38] P. Pedrazzini, D. Jaccard, G. Lapertot, J. Flouquet, Y. Inada, H. Kohara, and Y. Onuki, Phys. B (Amsterdam, Neth.) **378-380**, 165 (2006).
+* [39] R. P. Smith, M. Sutherland, G. G. Lonzarich, S. S. Saxena, N. Kimura, S. Takashima, M. Nohara, and H. Takagi, Nature (London) **455**, 1220 (2008).
+* [40] N. Kabeya, H. Maekawa, K. Deguchi, N. Kimura, H. Aoki, and N. K. Sato, J. Phys. Soc. Jpn. **81**, 073706 (2012).
+* [41] P. A. Lee, N. Nagaosa, and X.-G. Wen, Rev. Mod. Phys. **78**, 17 (2006).
+* [42] R. Daou, N. Doiron-Leyraud, D. LeBoeuf, S. Y. Li, F. Laliberte, O. Cyr-Choiniere, Y. J. Jo, L. Balicas, J.-Q. Yan, J.-S. Zhou, J. B. Goodenough, and L. Taillefer, Nat. Phys. **5**, 31 (2009).
+* [43] R. A. Cooper, Y. Wang, B. Vignolle, O. J. Lipscombe, S. M. Hayden, Y. Tanabe, T. Adachi, Y. Koike, M. Nohara, H. Takagi, C. Proust, and N. E. Hussey, Science (New York, N.Y.) **323**, 603 (2009).
+* [44] N. Doiron-Leyraud, P. Auban-Senzier, S. Rene de Cotret, C. Bourbonnais, D. Jerome, K. Bechgaard, and L. Taillefer, Phys. Rev. B **80**, 214531 (2009).
+* [45] J. A. N. Bruin, H. Sakai, R. S. Perry, and A. Mackenzie, Science **339**, 804 (2013).
+* [46] V. A. Sidorov, M. Nicklas, P. G. Pagliuso, J. L. Sarrao, Y. Bang, A. V. Balatsky, and J. D. Thompson, Phys. Rev. Lett. **89**, 157004 (2002).
+* [47] G. Knebel, D. Aoki, J.-P. Brison, and J. Flouquet, J. Phys. Soc. Jpn. **77**, 114704 (2008).
+* [48] T. Park, V. A. Sidorov, F. Ronning, J.-X. Zhu, Y. Tokiwa, H. Lee, E. D. Bauer, R. Movshovich, J. L. Sarrao, and J. D. Thompson, Nature (London) **456**, 366 (2008).
+* [49] P. Gegenwart, J. Custers, C. Geibel, K. Neumaier, T. Tayama, K. Tenya, O. Trovarelli, and F. Steglich, Phys. Rev. Lett. **89**, 056402 (2002).
+* [50] A. Rosch, A. Schroder, O. Stockert, and H. v. Lohneysen, Phys. Rev. Lett. **79**, 159 (1997).
+* [51] A. T. Holmes, D. Jaccard, and K. Miyake, Phys. Rev. B **69**, 024508 (2004).
+* [52] K. Miyake and S. Watanabe, J. Phys. Soc. Jpn. **83**, 061006 (2014).
+* [53] T. Senthil, Phys. Rev. B **78**, 035103 (2008).
+* [54] H. Pfau, S. Hartmann, U. Stockert, P. Sun, S. Lausberg, M. Brando, S. Friedemann, C. Krellner, C. Geibel, S. Wirth, S. Kirchner, E. Abrahams, Q. Si, and F. Steglich, Nature (London) **484**, 493 (2012).
+* [55] I. Paul, C. Pepin, and M. R. Norman, Phys. Rev. Lett. **110**, 066402 (2013).
+* [56] J. X. Yu, Y. Cheng, B. Zhu, and H. Yang, Physica B **406**, 2788 (2011).
+* [57] A. M. Adamska, L. Havela, S. Surble, S. Heathman, J. Pospisil, and S. Danis, J. Phys.: Condens. Matter **22**, 275603 (2010).
+* [58] S.-i. Fujimori, T. Ohkochi, I. Kawasaki, A. Yasui, Y. Takeda, T. Okane, Y. Saitoh, A. Fujimori, H. Yamagami, Y. Haga, E. Yamamoto, Y. Tokiwa, S. Ikeda, T. Sugai, H. Ohkuni, N. Kimura, and Y. Onuki, J. Phys. Soc. Jpn. **81**, 014703 (2012).
+* [59] M. Samsel-Czekala, S. Elgazzar, P. M. Oppeneer, E. Talik, W. Walerczyk, and R. Troc, J. Phys.: Condens. Matter **22**, 015503 (2010).
+
+  * [60] J.-P. Rueff, S. Raymond, M. Taguchi, M. Sikora, J.-P. Itie, F. Baudlet, D. Braithwaite, G. Knebel, and D. Jaccard, Phys. Rev. Lett. **106**, 186405 (2011).
+* [61] T. Hattori, Y. Ihara, Y. Nakai, K. Ishida, Y. Tada, S. Fujimoto, N. Kawakami, E. Osaki, K. Deguchi, N. K. Sato, and I. Satoh, Phys. Rev. Lett. **108**, 066403 (2012).
+* [62] M. Taupin, L. Howald, D. Aoki, J. Flouquet, and J. P. Brison, Phys. Rev. B **89**, 041108 (2014).
+* [63] D. Aoki, T. D. Matsuda, F. Hardy, C. Meingast, V. Taufour, E. Hassinger, I. Sheikin, C. Paulsen, G. Knebel, H. Kotegawa, and J. Flouquet, J. Phys. Soc. Jpn. **80SA**, SA008 (2011).
+* [64] B. Wu _et al._ (unpublished).
+* [65] N. T. Huy, D. E. de Nijs, Y. K. Huang, and A. de Visser, Phys. Rev. Lett. **100**, 077002 (2008).
+* [66] D. Aoki, T. D. Matsuda, V. Taufour, E. Hassinger, G. Knebel, and J. Flouquet, J. Phys. Soc. Jpn. **78**, 113709 (2009).
+* [67] D. Aoki, A. Gourgout, A. Pourret, G. Bastien, G. Knebel, and J. Flouquet, C. R. Phys. **15**, 630 (2014).
+* [68] A. Miyake, D. Aoki, and J. Flouquet, J. Phys. Soc. Jpn. **77**, 094709 (2008).
+* [69] V. P. Mineev, Phys. Rev. B **90**, 064506 (2014).
+* [70]H_{c2}^{\alpha}(T) along the hardest a axis measured up to 1.66 GPa suggests that the upward curvature of H_{c2}^{\alpha} survives above p_{\rm r} in the PM state [18]. A nonmonotonous pressure dependence of H_{c2}^{\alpha} is reported and the values of H_{c2}^{\alpha}(0) seem to be lower than expected from the zero pressure value of around 25 T [66]. Thus, possibly a misalignment with respect to the a axis exists. New measurements with perfect alignment have to be performed to clarify the inconsistency between the a and b hard axis.
+* [71] Y. Tada, S. Fujimoto, N. Kawakami, T. Hattori, Y. Ihara, K. Ishida, K. Deguchi, N. K. Sato, and I. Satoh, J. Phys.: Conf. Ser. **449**, 012029 (2013).
+* [72] V. P. Mineev, Phys. Rev. B **81**, 180504 (2010).
+* [73] N. Tateiwa, T. C. Kobayashi, K. Hanazono, K. Amaya, Y. Haga, R. Settai, and Y. Onuki, J. Phys.: Condens. Matter **13**, 6443 (2001).
+* [74] T. Terashima, K. Enomoto, T. Konoike, T. Matsumoto, S. Uji, N. Kimura, M. Endo, T. Komatsubara, H. Aoki, and K. Maezawa, Phys. Rev. B **73**, 140406 (2006).
+* [75] A. Gourgout, A. Pourret, G. Knebel, D. Aoki, G. Seyfarth, and J. Flouquet, Phys. Rev. Lett. **117**, 046401 (2016).
+
+ 
+
+# Quantum criticality in the ferromagnetic superconductor UCoGe under pressure and magnetic field
+
+Gael Bastien
+
+gael.bastien@cea.fr Universite Grenoble Alpes, CEA, INAC-PHELIQS, F-38000 Grenoble, France
+
+Dani Braithwaite
+
+Universite Grenoble Alpes, CEA, INAC-PHELIQS, F-38000 Grenoble, France
+
+Dai Aoki
+
+Borgo Knebel
+
+Georg Knebel
+
+Georg Knebel
+
+Universite Grenoble Alpes, CEA, INAC-PHELIQS, F-38000 Grenoble, France
+
+Jacques Flouquet
+
+Universite Grenoble Alpes, CEA, INAC-PHELIQS, F-38000 Grenoble, France
+
+###### Abstract
+
+The pressure-temperature phase diagram of the orthorhombic ferromagnetic superconductor UCoGe was determined by resistivity measurements up to 10.5 GPa. The Curie temperature T_{c} is suppressed with pressure and vanishes at the critical pressure p_{c}\approx 1 GPa. Superconductivity is observed in both the ferromagnetic state at low pressure, and in the paramagnetic state above p_{c} up to about 4 GPa. Non-Fermi-liquid behavior appears in a large pressure range. The resistivity varies linearly with temperature around p_{c} and evolves continuously with pressure to a T^{2} Fermi-liquid behavior for p\gtrapprox 5 GPa. The residual resistivity as a function of pressure shows a maximum far above p_{c} at p^{\star}=7.2 GPa and the amplitude of the inelastic scattering term of the resistivity decreases by more than one order in magnitude at p^{\star}, which appears to mark the entrance into a weakly correlated regime. The pressure dependence of the upper critical field for magnetic field applied along the b and c axis illustrates the drastic difference in the field dependence of the ferromagnetic superconducting pairing. While for H\parallel b axis H_{c2}(T) is driven by the suppression of the ferromagnetic order, it is dominated by the strong initial suppression of the ferromagnetic fluctuations for a field applied in the easy magnetization axis c.
+
+DOI: 10.1103/PhysRevB.94.125110
+
+## I Introduction
+
+Magnetic quantum criticality has attracted major attention in recent years. The magnetic quantum phase transition is accompanied by an increase of quantum fluctuations, which induces strong deviations from the standard Fermi-liquid behavior of a metal [1]. New quantum phases such as magnetically mediated nonconventional superconductivity (SC) [2], nematic orders [3, 4], or complex modulated magnetic states [5] appear near the critical pressure p_{c}.
+
+The collapse of antiferromagnetism occurs in many heavy-fermion systems through a continuous second order quantum phase transition, and a superconducting dome has been observed in the vicinity of p_{c}. In contrast, in the case of a ferromagnet, the quantum phase transition at p_{c} changes near p_{c} to be first order in systems with low disorder [6, 7] or may lead to complex order [8, 9, 10]. Even if magnetically mediated superconductivity has been predicted for weakly ferromagnetic systems already a long time ago [11], up to now only four systems show the microscopic coexistence of ferromagnetism and SC: UGe_{2}[12], URhGe [13], UIr [14], and UCoGe [15]. While for UGe_{2} SC appears under high pressure in the ferromagnetic state, URhGe and UCoGe are ferromagnetic and superconducting already at ambient pressure but with very different (p,T) phase diagrams. In URhGe the Curie temperature T_{c} increases with pressure at least up to 12.6 GPa [16], while ferromagnetism in UCoGe is suppressed under pressure [17, 18].
+
+In this paper we focus on the high pressure phase diagram of UCoGe which orders at T_{C}\approx 2.7 K with a tiny ordered moment of M_{0}\approx 0.05\mu_{B} at p=0[15]. Ferromagnetism is due to the 5f electrons from uranium which hybridize with light electrons to form heavy quasiparticle bands at low temperature [19]. Bulk superconductivity coexists with ferromagnetism below T_{sc}\approx 0.6 K. This provides a unique opportunity to study the link between the collapse of ferromagnetism and concomitant ferromagnetic fluctuations and the appearance of SC. Previously, the (p,T) phase diagram of UCoGe has been established up to 2.5 GPa by resistivity and magnetic susceptibility measurements [17, 18, 20, 21] and p_{c} is located around 1 GPa. The ferromagnetic transition may be already first order at ambient pressure [22]. Here we will determine the (p,T) phase diagram of UCoGe by resistivity measurements up to 10.5 GPa down to 50 mK using a diamond anvil cell (DAC). Our experiments illustrate the link between the normal and SC phases on the field and pressure dependence of the ferromagnetic coupling. UCoGe provides the unique opportunity to study the interplay between SC and ferromagnetism in a case where SC is known to be robust through p_{c} and where T_{C} will approach T_{sc} without a strong first order collapse of T_{C} as it happens, for example, in UGe_{2}[23].
+
+In UCoGe SC survives deep inside the paramagnetic (PM) domain roughly up to p\approx 4p_{c}. Up to this pressure magnetic fluctuations are dominant and the transport shows a non-Fermi-liquid regime in the normal state above the SC dome. A Fermi-liquid ground state in zero field can be detected only for p\gtrapprox 5 GPa, basically when SC has fully collapsed. The magnetic field and pressure variations of ferromagnetism and its concomitant fluctuations have a strong impact on the unusual temperature dependence of the superconducting upper critical field H_{c2} with an upward curvature observed initially for both the hard b and the easy c axis at low pressure [21, 24].
+
+## II Experimental details
+
+High quality single crystals of UCoGe (orthorhombic TiNiSi structure) were grown in a tetra-arc furnace by the Chzochralski method. Measurements under hydrostatic pressure were performed in a DAC (p<11 GPa) and a piston cylinder cell (p<2.5 GPa) with argon and Daphne oil 7373 as pressure transmitting media, respectively, ensuring very good pressure conditions [25]. The resistivity ratio of the sample used in the DAC after polishing was RRR = 28. A dilution fridge with a system allowing to change pressure _in situ_ at low temperature was used to cool the sample down to 50 mK [26, 27]. The pressure was determined _in situ_ by fluorescence of ruby. An ac electrical current (j<100\muA) was applied in the _ab_ plane. A low temperature transformer has been used to improve the signal to noise ratio of the measured voltage. A magnetic field up to 7 T was applied along the c axis. In a second experiment, the upper critical field H_{c2} for H\parallel b has been determined by resistivity with a sample of similar quality using a piston cylinder cell up to 2.5 GPa and magnetic field up to 16 T.
+
+## III Results and Discussion
+
+Figure 1(a) shows the resistivity \rho of UCoGe versus temperature T for various pressures p in the DAC and (b) the (p,T) phase diagram extracted from these measurements which is in good agreement with previous reports [17, 18, 20, 21]. At the lowest pressures the resistivity shows a kink at T_{C}, as indicated in Fig. 1(a) for p=0.4 GPa. T_{C} decreases with pressure from T_{C}\approx 2.5 K at p=0 GPa and coincides with the superconducting transition temperature at p\approx 0.8 GPa and T_{sc}=0.8 K. The extrapolation of the pressure dependence of T_{C} down to zero temperature determines p_{c}\approx 0.9 GPa. The exact p dependence of T_{C} in the SC dome is still unclear [18, 20] but from symmetry arguments the transition line should be first order [28]. For the second sample measured in the piston cylinder cell a similar phase diagram has been determined [see Fig. 1(b)] with slightly higher T_{C} and T_{sc}. Compared to previous reports [18, 20, 21] the value of T_{C} and also the exact location of p_{c} appears strongly sample dependent. However, each study shows that T_{sc} is maximum at or slightly below the pressure where it reaches T_{C}. The inset in Fig. 1(b) shows the transition width \Delta T_{sc} as a function of pressure. At the maximum of T_{sc} the superconducting transition is sharpest (\Delta T_{sc}=40 mK) and broadens with increasing pressure in the PM phase. T_{sc} is maximal at 0.65 GPa, below p_{c}. Zero resistivity can be observed up to 3.5 GPa. Taking the midpoint or the onset of the transition criteria SC vanishes around 4 or 4.5 GPa, respectively. Thus, SC survives in the PM regime far above p_{c}. The broadening of the superconducting transition under pressure is independent of sample quality and high pressure conditions and it is clearly related with the strength of \partial T_{sc}/\partial p.
+
+The T dependence of the resistivity has been parametrized by fitting a power law \rho(T)=\rho_{0}+A_{n}T^{n} in the normal state. Here \rho_{0} is the residual resistivity and A_{n} gives the strength of the temperature dependent scattering term. In the case of a Fermi liquid n=2 and the coefficient A_{2} is related to the average effective mass m^{\star} of the quasiparticles. In multiband heavy-fermion materials A_{2}\propto(m^{\star})^{2} is generally obeyed. To evaluate the pressure and temperature dependence of the exponent n we performed fits with the power law on a sliding window of 0.3 K in the normal state. This allows one to plot n(p,T) in Fig. 2. The resistivity follows a T^{2} behavior at ambient pressure and low temperature in the ferromagnetic state. Remarkably, \rho(T) is linear around p_{c} above the superconducting transition T_{sc}. The T^{2} behavior of the Fermi-liquid regime is recovered only above 5 GPa in the PM state far above p_{c} below T_{FL}.
+
+Figure 2: Color plot of the resistivity exponent n as a function of temperature and pressure from fitting \rho=\rho_{0}+A_{n}T^{n} over a sliding window of 300 mK. T_{C} and the onset of the superconducting transition as a function of pressure are represented by solid circles and diamonds, respectively. Linear resistivity is observed around p_{c}. At high pressure Fermi-liquid behavior is recovered and the upper limit of the Fermi-liquid regime T_{FL} is indicated by the dashed line.
+
+Figure 1: (a) Temperature dependence of the resistivity in UCoGe for different pressures in the diamond anvil cell. For p=0.4 GPa the Curie temperature T_{C} is denoted by the arrow. (b) (p,T) phase diagram of UCoGe. Closed (open) symbols correspond to the experiment in the DAC (piston cylinder cell). T_{C} vanishes at p_{c}\approx 0.9 GPa in both experiments. The superconducting transition T_{sc} is determined by the midpoint of the transition. The inset shows the pressure dependence of the width of the superconducting transition, \Delta T_{sc}.
+
+  The unusual quasilinear T dependence of \rho(T) observed close to the ferromagnetic instability is not expected in the spin-fluctuation theory. Theoretically, a T^{5/3} temperature dependence is predicted in the quantum critical regime for a three-dimensional ferromagnet [29, 30, 31, 32, 33]. This is a consequence of an underlying quasiparticle scattering rate that varies linearly with the excitation energy E of a quasiparticle near the Fermi level. A T^{5/3} behavior was reported in several itinerant ferromagnetic systems such as, e.g., NiAl_{3}[34], URhAl [35], and U_{3}P_{4}[36]. However, strong deviations from this T^{5/3} have been reported for MnSi [37, 38] and ZrZn_{2}[39, 40] where a T^{3/2} dependence has been observed up to 3p_{c}.
+
+A T-linear resistance has been observed in different strongly correlated electron systems, such as high-T_{c} cuprate or iron-pnictide superconductors close to the optimal doping [41, 42, 43], in organic superconductors [44], in ruthenates [45], and also in several heavy-fermion systems, when these are close to quantum criticality such as CeCoIn_{5}[46], CeRhIn_{5}[47, 48], or YbRh_{2}Si_{2}[49]. For the antiferromagnetic heavy fermions, different theoretical scenarios have emerged to explain the unusual T dependence, such as a reduced dimensionality of the magnetic fluctuations [31, 33, 50], critical valence fluctuations [51, 52], or fluctuations associated with the change of the electronic structure from the ordered to the PM state [53, 54, 55]. The specific case of ferromagnetic fluctuations remains to be treated.
+
+The residual resistivity \rho_{0} obtained from the fit is represented in Fig. 3(a) as a function of pressure. \rho_{0}(p) shows a shallow minimum at p_{c}\approx 0.9 GPa. It increases up to \rho_{0}\approx 22\ \mu\Omega cm at p^{\star}\approx 7.2 GPa and decreases strongly with pressure. Finally it saturates around 9.5 GPa at \rho_{0}=10\ \mu\Omega cm. p^{\star} is independent of magnetic field at least up to 7 T. The low temperature inelastic electronic scattering contribution to the resistivity \rho(1\ \mathrm{K})-\rho_{0} at zero magnetic field as a function of pressure is represented in Fig. 3(b). \rho(1\ \mathrm{K})-\rho_{0} shows a clear maximum at p_{c}. The decrease of \rho(1\ \mathrm{K})-\rho_{0} with pressure gets stronger above p^{\star}=7.2 GPa. The compressibility of UCoGe was computed by density functional theory [56] and experimentally determined by an x-ray scattering experiment under hydrostatic pressure up to 30 GPa [57]. At p=10 GPa the volume of the unit cell is reduced by 3%. No structural transition was observed in the x-ray scattering experiment and only tiny anomalies in the lattice parameters as a function of pressure at p^{\star}[57]. In the ferromagnetic state at p=0 the valence of UCoGe is close to the U^{3+} configuration [58]. It was estimated at 3.2 by local-density approximation calculations for ambient pressure [59] and is expected to be closer to the U^{4+} under pressure. Thus the anomaly at p^{\star} may be related to a weak valence crossover as observed in various Ce or Yb based heavy-fermion systems under pressure [51, 52, 60].
+
+For a small magnetic field of 1 T along the c axis, slightly higher than the upper critical field H_{c2}, the exponent n=2 is recovered [see Fig. 3(c)] and Fermi-liquid behavior appears in the entire pressure range. The low temperature electronic scattering, determined by \rho(1\ \mathrm{K})-\rho_{0}, is plotted for different magnetic fields as a function of pressure in Fig. 3(d). Its acute enhancement at p_{c} is suppressed under magnetic field and a rather smooth pressure dependence is achieved. This indicates that the low field behavior of UCoGe is determined by magnetic fluctuations which are rapidly suppressed by a magnetic field applied along the c axis as has been shown at zero pressure by NMR [61], thermal transport [62], and specific heat experiments [63, 64].
+
+A striking property of UCoGe is its unusual upper critical field H_{c2} with the very strong anisotropy between H_{c2} for a field along the a (H_{c2}^{a}) or b (H_{c2}^{b}) hard axis and H_{c2} along the easy magnetization c axis (H_{c2}^{c}). While H_{c2}^{a} and H_{c2}^{b} exceed values above 20 T at ambient pressure, H_{c2}^{c} is as small as 1 T or even less, depending on the sample quality [21, 65, 66]. In addition, the temperature dependence H_{c2}(T) for all directions is very unusual with a strong upward curvature.
+
+H_{c2}^{b}(T) for a field applied along the b axis is represented in Fig. 4(a) for different pressures. At ambient pressure H_{c2}^{b}(T) shows a strong upward curvature with decreasing temperature. This measurement does not show the "S" shape of H_{c2} observed in [66]. It may be due to a small misalignment along the a axis of the sample inside the pressure cell. The unusual behavior of H_{c2}^{b} along the hard axis is related to the field decrease of T_{C} in the transverse magnetic field and the concomitant reinforcement of the magnetic fluctuations [66, 67]. This mechanism is quite similar to that of the field reentrance of SC in URhGe [68, 69]. The upward curvature of H_{c2}^{b} is reduced under pressure and vanishes around p\approx 1 GPa. Up to the highest pressure p=2.28 GPa, H_{c2}^{b}(T) is still nearly linear in T. H_{c2}^{b}(0) decreases almost linearly with pressure from about H_{c2}^{b}(0)\approx 25 T at zero pressure to 7 T at 2.28 GPa. The upward curvature disappears when ferromagnetism collapses [70].
+
+For H\parallel c, the field and pressure evolution of the inelastic low temperature electronic scattering contribution \rho(1\ \mathrm{K})-\rho_{0} shows that magnetic fluctuations are strongly suppressed with field. The relatively low value of H_{c2}^{c} and
+
+Figure 3: (a) Residual resistivity \rho_{0} as a function of pressure. \rho_{0} shows a minimum at p_{c}\approx 0.9 GPa and a maximum at p^{\star}=7.2 GPa. (b) \rho(1\ \mathrm{K})-\rho_{0} on a logarithmic scale as a function of pressure. (c) Field dependence of n slightly above p_{c} obtained from fits in the normal state for T<1.5 K. (d) \rho(1\ \mathrm{K})-\rho_{0} for different magnetic fields as a function of pressure.
+
+  the unusual upward curvature of H_{c2}^{c} was explained by several models including a magnetic field dependent pairing interaction [61, 64, 71, 72]. In our experiment the unusual curvature of H_{c2}^{c}(T) was observed in the whole pressure range of the superconducting dome. Inside the framework of equal spin triplet pairing, H_{c2}(0) is governed by the orbital effect and so is proportional to (m^{\ast}T_{sc})^{2}. Here we have to account for a field dependence (m^{\ast}_{H}) which reflects a field dependence of the pairing interaction. The value T_{sc}(m^{\ast}_{H}) at finite field is lower than T_{sc}(m^{\ast}_{0}) expected from zero magnetic field and this leads to the initial curvature of H_{c2}(T). However, at 3.4 GPa far away from the quantum critical region, the ferromagnetic fluctuations have been strongly suppressed and their field dependence becomes weak. Therefore, at 3.4 GPa H_{c2}^{c}(T) varies linearly with temperature and is much closer to the conventional orbital limitation with a field independent pairing than H_{c2} in the vicinity of p_{c}. This suggests that H_{c2}^{c}(T) is driven by the suppression of pairing interaction under field.
+
+## IV Conclusion
+
+To summarize we determined the (p,T) phase diagram of UCoGe up to 10.5 GPa by resistivity measurements. T_{C} vanishes at p_{c}\approx 0.9 GPa and SC has been observed up to 4\,p_{c}. Ferromagnetic fluctuations account for the unusual normal state transport properties observed up to 5 GPa as well as the pressure and field dependence of H_{c2}. The superconducting critical field H_{c2}^{c} for field along the c axis is determined by the pressure and field dependence of the ferromagnetic fluctuations which are suppressed for H\approx 1 T at p=0. H_{c2}^{b} for transverse magnetic field changes drastically on crossing the ferromagnetic phase boundary below p_{c}. Entering in the paramagnetic regime above p_{c}H_{c2}^{b} recovers rapidly the conventional initially linear T dependence of the upper critical field. Finally, the crossover pressure p^{\ast} marks a change in the magnetic and electronic properties linked to the pressure dependence of the 5\,f occupation number and a smooth crossover from a strongly to weakly correlated regime.
+
+Our experiment gives now a sound basis on the anisotropic SC response of H_{c2} on the static and dynamic components of the ferromagnetism. It is a unique example where the magnetic coupling is deeply modified (here for H\parallel c) in low magnetic fields. Close to p_{c} the comparable strength of T_{C} and T_{sc} leads to remarkable non-Fermi-liquid behavior which indicates the strong coupling of magnetism and superconductivity. This is remarkably different from other ferromagnetic superconductors driven to quantum criticality by the pressure (UGe_{2}) [73, 74] of a magnetic field (URhGe) [75] where a Fermi-liquid regime is robust.
+
+###### Acknowledgements.
+
+ We are grateful to J.-P. Brison, B. Wu, A. Pourret, K. Ishida, V. Mineev, and A. de Visser for insightful discussions. We acknowledge support from ERC grant "NewHeavyFermion," the French ANR "PRINCESS," and KAKENHI (25247055, 15H05884, 15H05882, 15K21732, and 16H04006).
+
+## References
+
+* [1] H. V. Lohneysen, A. Rosch, M. Vojta, and P. Wolfle, Rev. Mod. Phys. **79**, 1015 (2007).
+* [2] C. Pfleiderer, Rev. Mod. Phys. **81**, 1551 (2009).
+* [3] R. A. Borzi, S. A. Grigera, J. Farrell, R. S. Perry, S. J. S. Lister, S. L. Lee, D. A. Tennant, Y. Maeno, and A. P. Mackenzie, Science **315**, 214 (2007).
+* [4] R. M. Fernandes, A. V. Chubukov, and J. Schmalian, Nat. Phys. **10**, 97 (2014).
+* [5] G. Abdul-Jabbar, D. A. Sokolov, C. D. O'Neill, C. Stock, D. Wermeille, F. Demmel, F. Kruger, A. G. Green, F. Levy-Bertrand, B. Grenier, and A. D. Huxley, Nat. Phys. **11**, 321 (2015).
+* [6] D. Belitz, T. R. Kirkpatrick, and J. Rollbuhler, Phys. Rev. Lett. **94**, 247205 (2005).
+* [7] V. P. Mineev, C. R. Phys. **12**, 567 (2011).
+* [8] A. V. Chubukov, C. Pepin, and J. Rech, Phys. Rev. Lett. **92**, 147003 (2004).
+* [9] G. J. Conduit, A. G. Green, and B. D. Simons, Phys. Rev. Lett. **103**, 207201 (2009).
+* [10] U. Karahasanovic, F. Kruger, and A. G. Green, Phys. Rev. B **85**, 165111 (2012).
+* [11] D. Fay and J. Appel, Phys. Rev. B **22**, 3173 (1980).
+* [12] S. S. Saxena, P. Agarwal, K. Ahilan, F. M. Grosche, R. K. W. Haselwimmer, M. J. Steiner, E. Pugh, I. R. Walker, S. R.
+
+Figure 4: (a) Temperature dependence of the upper critical field H_{c2} in UCoGe for different pressures for a field along the b axis. Measurements were performed on sample 2 in a piston cylinder cell. The midpoint of resistivity drop was chosen as criteria for the transition. (b) Temperature dependence of H_{c2} in UCoGe for different pressures for field along the c axis. Measurements were performed on sample 1 in the DAC.
+
+  Julian, P. Monthoux, G. G. Lonzarich, A. D. Huxley, I. Sheikin, D. Braithwaite, and J. Flouquet, Nature (London) **406**, 587 (2000).
+* [13] D. Aoki, A. D. Huxley, E. Ressouche, D. Braithwaite, J. Flouquet, J. Brison, E. Lhotel, and C. Paulsen, Nature (London) **413**, 613 (2001).
+* [14] T. Akazawa, H. Hidaka, T. Fujiwara, T. C. Kobayashi, E. Yamamoto, Y. Haga, R. Settai, and Y. Onuki, J. Phys.: Condens. Matter **16**, L29 (2004).
+* [15] N. T. Huy, A. Gasparini, D. E. de Nijs, Y. Huang, J. C. P. Klaasse, T. Gortenmulder, A. de Visser, A. Hamann, T. Gorlach, and H. v. Lohneysen, Phys. Rev. Lett. **99**, 067006 (2007).
+* [16] F. Hardy, A. Huxley, J. Flouquet, B. Salce, G. Knebel, D. Braithwaite, D. Aoki, M. Uhlarz, and C. Pfleiderer, Phys. B (Amsterdam, Neth.) **359-361**, 1111 (2005).
+* [17] E. Hassinger, D. Aoki, G. Knebel, and J. Flouquet, J. Phys. Soc. Jpn. **77**, 073703 (2008).
+* [18] E. Slooten, T. Naka, A. Gasparini, Y. K. Huang, and A. de Visser, Phys. Rev. Lett. **103**, 097003 (2009).
+* [19] S.-i. Fujimori, T. Ohkochi, I. Kawasaki, A. Yasui, Y. Takeda, T. Okane, Y. Saitoh, A. Fujimori, H. Yamagami, Y. Haga, E. Yamamoto, and Y. Onuki, Phys. Rev. B **91**, 174503 (2015).
+* [20] E. Hassinger, D. Aoki, G. Knebel, and J. Flouquet, J. Phys.: Conf. Ser. **200**, 012055 (2010).
+* [21] G. Bastien, G. Knebel, D. Aoki, and J. Flouquet, J. Phys.: Conf. Ser. **592**, 012068 (2015).
+* [22] T. Ohta, T. Hattori, K. Ishida, Y. Nakai, E. Osaki, K. Deguchi, N. K. Sato, and I. Satoh, J. Phys. Soc. Jpn. **79**, 023707 (2010).
+* [23] C. Pfleiderer and A. D. Huxley, Phys. Rev. Lett. **89**, 147005 (2002).
+* [24] D. Aoki, F. Hardy, A. Miyake, V. Taufour, T. D. Matsuda, and J. Flouquet, C. R. Phys. **12**, 573 (2011).
+* [25] N. Tateiwa and Y. Haga, Rev. Sci. Instrum. **80**, 123901 (2009).
+* [26] The pressure system is similar to that described in Ref. [27]; see also A. Fernandez Panella, Ph.D. thesis, University Joseph Fourier, 2012.
+* [27] B. Salce, J. Thomasson, A. Demuer, J. J. Blanchard, J. M. Martinod, L. Devoille, and A. Guillaume, Rev. Sci. Instrum. **71**, 2461 (2000).
+* [28] V. P. Mineev, J. Phys. Soc. Jpn. **77**, 103702 (2008).
+* [29] J. Mathon, Proc. R. Soc. London, Ser. A **306**, 355 (1968).
+* [30] T. Moriya, _Spin Fluctuations in Itinerant Electron Magnetism_ (Springer, Berlin, 1985).
+* [31] A. J. Millis, Phys. Rev. B **48**, 7183 (1993).
+* [32] G. G. Lonzarich, _The Electron_ (Cambridge University Press, Cambridge, 1997).
+* [33] T. Moriya, Acta Phys. Pol. B **34**, 287 (2003).
+* [34] P. G. Niklowitz, F. Beckers, G. G. Lonzarich, G. Knebel, B. Salce, J. Thomasson, N. Bernhoeft, D. Braithwaite, and J. Flouquet, Phys. Rev. B **72**, 024424 (2005).
+* [35] Y. Shimizu, D. Braithwaite, B. Salce, T. Combier, D. Aoki, E. N. Hering, S. M. Ramos, and J. Flouquet, Phys. Rev. B **91**, 125115 (2015).
+* [36] S. Araki, M. Hayashida, N. Nishiumi, H. Manabe, Y. Ikeda, T. C. Kobayashi, K. Murata, Y. Inada, P. Wisniewski, D. Aoki, Y. Onuki, E. Yamamoto, and Y. Haga, J. Phys. Soc. Jpn. **84**, 024705 (2015).
+* [37] C. Pfleiderer, S. R. Julian, and G. G. Lonzarich, Nature (London) **414**, 427 (2001).
+* [38] P. Pedrazzini, D. Jaccard, G. Lapertot, J. Flouquet, Y. Inada, H. Kohara, and Y. Onuki, Phys. B (Amsterdam, Neth.) **378-380**, 165 (2006).
+* [39] R. P. Smith, M. Sutherland, G. G. Lonzarich, S. S. Saxena, N. Kimura, S. Takashima, M. Nohara, and H. Takagi, Nature (London) **455**, 1220 (2008).
+* [40] N. Kabeya, H. Maekawa, K. Deguchi, N. Kimura, H. Aoki, and N. K. Sato, J. Phys. Soc. Jpn. **81**, 073706 (2012).
+* [41] P. A. Lee, N. Nagaosa, and X.-G. Wen, Rev. Mod. Phys. **78**, 17 (2006).
+* [42] R. Daou, N. Doiron-Leyraud, D. LeBoeuf, S. Y. Li, F. Laliberte, O. Cyr-Choiniere, Y. J. Jo, L. Balicas, J.-Q. Yan, J.-S. Zhou, J. B. Goodenough, and L. Taillefer, Nat. Phys. **5**, 31 (2009).
+* [43] R. A. Cooper, Y. Wang, B. Vignolle, O. J. Lipscombe, S. M. Hayden, Y. Tanabe, T. Adachi, Y. Koike, M. Nohara, H. Takagi, C. Proust, and N. E. Hussey, Science (New York, N.Y.) **323**, 603 (2009).
+* [44] N. Doiron-Leyraud, P. Auban-Senzier, S. Rene de Cotret, C. Bourbonnais, D. Jerome, K. Bechgaard, and L. Taillefer, Phys. Rev. B **80**, 214531 (2009).
+* [45] J. A. N. Bruin, H. Sakai, R. S. Perry, and A. Mackenzie, Science **339**, 804 (2013).
+* [46] V. A. Sidorov, M. Nicklas, P. G. Pagliuso, J. L. Sarrao, Y. Bang, A. V. Balatsky, and J. D. Thompson, Phys. Rev. Lett. **89**, 157004 (2002).
+* [47] G. Knebel, D. Aoki, J.-P. Brison, and J. Flouquet, J. Phys. Soc. Jpn. **77**, 114704 (2008).
+* [48] T. Park, V. A. Sidorov, F. Ronning, J.-X. Zhu, Y. Tokiwa, H. Lee, E. D. Bauer, R. Movshovich, J. L. Sarrao, and J. D. Thompson, Nature (London) **456**, 366 (2008).
+* [49] P. Gegenwart, J. Custers, C. Geibel, K. Neumaier, T. Tayama, K. Tenya, O. Trovarelli, and F. Steglich, Phys. Rev. Lett. **89**, 056402 (2002).
+* [50] A. Rosch, A. Schroder, O. Stockert, and H. v. Lohneysen, Phys. Rev. Lett. **79**, 159 (1997).
+* [51] A. T. Holmes, D. Jaccard, and K. Miyake, Phys. Rev. B **69**, 024508 (2004).
+* [52] K. Miyake and S. Watanabe, J. Phys. Soc. Jpn. **83**, 061006 (2014).
+* [53] T. Senthil, Phys. Rev. B **78**, 035103 (2008).
+* [54] H. Pfau, S. Hartmann, U. Stockert, P. Sun, S. Lausberg, M. Brando, S. Friedemann, C. Krellner, C. Geibel, S. Wirth, S. Kirchner, E. Abrahams, Q. Si, and F. Steglich, Nature (London) **484**, 493 (2012).
+* [55] I. Paul, C. Pepin, and M. R. Norman, Phys. Rev. Lett. **110**, 066402 (2013).
+* [56] J. X. Yu, Y. Cheng, B. Zhu, and H. Yang, Physica B **406**, 2788 (2011).
+* [57] A. M. Adamska, L. Havela, S. Surble, S. Heathman, J. Pospisil, and S. Danis, J. Phys.: Condens. Matter **22**, 275603 (2010).
+* [58] S.-i. Fujimori, T. Ohkochi, I. Kawasaki, A. Yasui, Y. Takeda, T. Okane, Y. Saitoh, A. Fujimori, H. Yamagami, Y. Haga, E. Yamamoto, Y. Tokiwa, S. Ikeda, T. Sugai, H. Ohkuni, N. Kimura, and Y. Onuki, J. Phys. Soc. Jpn. **81**, 014703 (2012).
+* [59] M. Samsel-Czekala, S. Elgazzar, P. M. Oppeneer, E. Talik, W. Walerczyk, and R. Troc, J. Phys.: Condens. Matter **22**, 015503 (2010).
+
+  * [60] J.-P. Rueff, S. Raymond, M. Taguchi, M. Sikora, J.-P. Itie, F. Baudlet, D. Braithwaite, G. Knebel, and D. Jaccard, Phys. Rev. Lett. **106**, 186405 (2011).
+* [61] T. Hattori, Y. Ihara, Y. Nakai, K. Ishida, Y. Tada, S. Fujimoto, N. Kawakami, E. Osaki, K. Deguchi, N. K. Sato, and I. Satoh, Phys. Rev. Lett. **108**, 066403 (2012).
+* [62] M. Taupin, L. Howald, D. Aoki, J. Flouquet, and J. P. Brison, Phys. Rev. B **89**, 041108 (2014).
+* [63] D. Aoki, T. D. Matsuda, F. Hardy, C. Meingast, V. Taufour, E. Hassinger, I. Sheikin, C. Paulsen, G. Knebel, H. Kotegawa, and J. Flouquet, J. Phys. Soc. Jpn. **80SA**, SA008 (2011).
+* [64] B. Wu _et al._ (unpublished).
+* [65] N. T. Huy, D. E. de Nijs, Y. K. Huang, and A. de Visser, Phys. Rev. Lett. **100**, 077002 (2008).
+* [66] D. Aoki, T. D. Matsuda, V. Taufour, E. Hassinger, G. Knebel, and J. Flouquet, J. Phys. Soc. Jpn. **78**, 113709 (2009).
+* [67] D. Aoki, A. Gourgout, A. Pourret, G. Bastien, G. Knebel, and J. Flouquet, C. R. Phys. **15**, 630 (2014).
+* [68] A. Miyake, D. Aoki, and J. Flouquet, J. Phys. Soc. Jpn. **77**, 094709 (2008).
+* [69] V. P. Mineev, Phys. Rev. B **90**, 064506 (2014).
+* [70]H_{c2}^{\alpha}(T) along the hardest a axis measured up to 1.66 GPa suggests that the upward curvature of H_{c2}^{\alpha} survives above p_{\rm r} in the PM state [18]. A nonmonotonous pressure dependence of H_{c2}^{\alpha} is reported and the values of H_{c2}^{\alpha}(0) seem to be lower than expected from the zero pressure value of around 25 T [66]. Thus, possibly a misalignment with respect to the a axis exists. New measurements with perfect alignment have to be performed to clarify the inconsistency between the a and b hard axis.
+* [71] Y. Tada, S. Fujimoto, N. Kawakami, T. Hattori, Y. Ihara, K. Ishida, K. Deguchi, N. K. Sato, and I. Satoh, J. Phys.: Conf. Ser. **449**, 012029 (2013).
+* [72] V. P. Mineev, Phys. Rev. B **81**, 180504 (2010).
+* [73] N. Tateiwa, T. C. Kobayashi, K. Hanazono, K. Amaya, Y. Haga, R. Settai, and Y. Onuki, J. Phys.: Condens. Matter **13**, 6443 (2001).
+* [74] T. Terashima, K. Enomoto, T. Konoike, T. Matsumoto, S. Uji, N. Kimura, M. Endo, T. Komatsubara, H. Aoki, and K. Maezawa, Phys. Rev. B **73**, 140406 (2006).
+* [75] A. Gourgout, A. Pourret, G. Knebel, D. Aoki, G. Seyfarth, and J. Flouquet, Phys. Rev. Lett. **117**, 046401 (2016).
+
+ 

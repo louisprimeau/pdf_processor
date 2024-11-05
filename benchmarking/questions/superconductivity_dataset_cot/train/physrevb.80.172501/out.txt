@@ -1,0 +1,167 @@
+Anisotropic inelastic scattering and its interplay with superconductivity in URu_{2}Si_{2}
+
+Zengwei Zhu,^{1,2} Elena Hassinger,^{3} Zhu'an Xu,^{2} Dai Aoki,^{3} Jacques Flouquet,^{3} Kamran Behnia^{1}
+
+^{1}Laboratoire Photons Et Majiere (UPMC-CNRS), ESPCI, 75005 Paris, France
+
+^{2}Department of Physics, Zhejiang University, Hangzhou 310027, China
+
+^{3}DRFMC/SPSMS, Commissariat a l'Energie Atomique, F-38042 Grenoble, France
+
+28 August 200920092  would imply that the Fermi velocity is _larger_ along the c axis than along the a axis. Thus, we are in presence of a paradox. As sketched in the inset of each panel, the topology of the Fermi surface extracted from the two methods of analysis are at odd with each other.
+
+This anomalous discrepancy is highlighted in Table 1, which compares the case of URu_{2}Si_{2} with another well-documented heavy-Fermion superconductor UPt_{3}.[18] Charge conductivity and superconducting coherence length extracted from the slope of H_{c2} near T_{c} are both anisotropic in UPt_{3}. However, there is an excellent compatibility between \frac{\xi_{c}}{\sigma_{c}^{2}} =1.64 extracted from \frac{\xi_{c}}{\xi_{c}} and \frac{\nu_{f}^{2}}{\nu_{f}^{2}}=1.61 extracted from (\frac{\xi_{c}}{\sigma_{c}})^{1/2}. In URu_{2}Si_{2}, on the other hand, the ratio of the Fermi velocities obtained by these two alternative methods differs by a factor of four (0.35 vs 1.48). The intimate link between \frac{\xi_{c}}{\xi_{c}}, \frac{\sigma_{c}}{\sigma_{c}}, and \frac{\nu_{f}^{2}}{\nu_{f}^{2}} is at the origin of a general rule. In different families of anisotropic superconductors, the upper critical field is larger when the field is oriented along the more conducting orientation. URu_{2}Si_{2}, in company of NpPd_{3}Al_{2},[19, 20] are the only two superconductors we know to disobey this rule. We will argue below that the absence of a single characteristic energy is at the heart of this apparent discrepancy.
+
+Is the ground state of URu_{2}Si_{2} in absence of superconductivity a Fermi liquid? The answer to this question has been hindered by the presence of a large transverse magnetoresistance. In clean samples of this low density and compensated system, even a modest transverse magnetic field leads to an upturn in resistivity.[12] In order to probe the system without being overwhelmed by the large transverse magnetoresistance, we measured resistivity of both samples in presence of a magnetic field oriented _parallel_ to the current. The results are presented in Fig. 2 and reveal a qualitative difference
+
+Figure 2: (Color online) Resistivity vs temperature for a current (a) along the a axis and (b) along the c axis. Lower panels present the same data as a function of T^{2}. Solid lines are guides to eyes. Resistivity is T-linear along the a axis and T-square along the b axis.
+
+\begin{table}
+\begin{tabular}{l r r r r}  & \multicolumn{2}{c}{UPt_{3}} & \multicolumn{2}{c}{URu_{2}Si_{2}} \\ \cline{2-5}  & a axis & c axis & a axis & c axis \\ \hline dH_{c2}/dT (T K^{-1}) & -4.4 & -7.2 & -11.5 & -4.1 \\ \xi_{c}/\xi_{a} & & 1.64 & & 0.35 \\ \sigma_{c}/\sigma_{a} & & 2.6 & & 2.2 \\ \gamma (mJ mol^{-1} K^{-2}) & & 440 & & 65 \\ A (\mu\Omega cm K^{-2}) & 1.5 & 0.55 & & 0.22 \\ A/\gamma^{2} (a_{0}) & 0.7 & 0.3 & & 5.2 \\ S/T(\mu V K^{-2}) & 2.5 & 2.5 & & -7 \pm 1 \\ q & 0.6 & 0.6 & & -11 \pm 1 \\ \end{tabular}
+\end{table}
+Table 1: A comparison of physical parameters and their anisotropy in UPt_{3} and URu_{2}Si_{2}.
+
+Figure 1: (Color online) (a) Upper critical field in URu_{2}Si_{2} for two orientations of the magnetic field. Values correspond to the midpoint resistive transition. The inset is a zoom close to T_{c} highlighting the threefold difference in the slopes close to T_{c}. The two samples studied in the two configurations present a slight difference in their zero-field T_{c}’s. (b) Zero-field resistivity of the same samples. Inset shows the anisotropy of the conductivity. Ellipsoids schematically represent the anisotropy of the Fermi surface according to each probe.
+
+  between the two orientations of charge flow. Resistivity along the a axis, \rho_{a}, is T-linear down to the superconducting transition both at zero field and in presence of a field as strong as 12 T (the largest used in this study), with no visible change in slope. On the other hand, for a current along the c axis, with the application of a magnetic field strong enough to destroy superconductivity, a T-square behavior emerges as the asymptotic temperature dependence of \rho_{c} in the T=0 limit. Note that this qualitative difference cannot be detected in the absence of magnetic field.
+
+Figure 3 presents the thermoelectric data. At zero field, in agreement with previous studies,[10, 16] the Seebeck coefficient is negative and anisotropic. It is roughly twice larger along the c axis than along the a axis. With the application of a magnetic field, a qualitative distinction emerges between the two orientations. For a heat current flowing along the c axis, the Seebeck coefficient, S_{c} remains negative and T-linear even in presence of a magnetic field strong enough to destroy superconductivity. On the other hand, in the case of a current flowing along the a axis, as the applied field is enhanced, the Seebeck coefficient shows a downward deviation from a T-linear dependence and finally it changes sign below 0.8 K, when the magnetic field is strong enough to push T_{c} below this.
+
+The difference between the two orientations is summarized in Fig. 4 which compares resistivity and thermopower. When the current flows along the c axis, resistivity is T-square and thermopower is T-linear. A finite negative S_{c}/T can be easily estimated. Its magnitude is slightly enhanced in presence of a field, which destroys superconductivity. The situation is drastically different for a current flowing along the a axis. The Seebeck coefficient changes sign revealing a positive contribution rapidly enhancing with decreasing temperature. Note that superconducting transitions in S(T) and \rho almost coincide each time and the 12 T curves show that the sign change of S is a normal-state property and unrelated to the superconducting transition.
+
+Table 1 compares the magnitude of the Fermi-liquid parameters extracted for the c axis configuration in URu_{2}Si_{2} to those known for UPt_{3}.[18] The prefactor of T-square resistivity URu_{2}Si_{2} obtained here, combined with the reported value of the T-linear specific heat, \gamma (Ref. [9]) yields a Kadowaki-Woods (KW) ratio which is 5.2 times larger than the "universal" value (a_{0}=10 \mu\Omega cm mol^{2} K^{2} J^{-2}) and 17 times larger than the KW ratio along c axis in UPt_{3}. This is not surprising as the KW ratio is expected to increase as the carrier density is reduced.[21, 22] The T-linear Seebeck coefficient for the c-axis configuration in URu_{2}Si_{2} is more than twice larger than what was found in the case of UPt_{3}.[23] In other words, while the electronic entropy _per volume_ (measured by the size of \gamma) is seven times larger in UPt_{3}, the entropy _per carrier_ is 2.5 times larger in URu_{2}Si_{2}. The dimensionless ratio of thermopower to electronic specific heat, q=\frac{SN_{3}e^{c}}{T\gamma} is 11, an order of magnitude larger than what is commonly found in various metals with a half-filled band[24] and 18 times than in UPt_{3}, another consequence of a small carrier density.
+
+The in-plane configuration is more enigmatic and remains beyond a simple Fermi-liquid picture. As seen in Fig. 4, below 4 K, \rho_{a} is well described by \rho_{a}=\rho_{0}+BT at all fields and the magnitude of T-linear coefficient (B=1.8 \mu\Omega cm K^{-1}) shows little change from 0 to 12 T. Note that this does not necessarily imply that the T-linear behavior would survive down to zero temperature when the magnetic field exceeds H_{c2}. An eventual emerging T^{2} behavior, however, would be restricted to a narrow temperature window and associated with a very large prefactor, pointing to a small characteristic energy scale, much smaller than the one associated with the c axis. This singular case of anisotropic electron-electron scattering is to be linked with the anomalous anisotropy of the superconducting coherence length and calls for a deep theoretical attention. According to our results, the Cooper pairs extend over a longer distance in the basal plane, which
+
+Figure 4: (Color online) Comparison of the temperature dependence of resistivity, \rho, and thermopower divided by temperature, S/T, as a function of temperature for a current flowing (a) along the c axis and (b) along the a axis. In panel b, dotted vertical lines mark the position of resistive midtransition and the red arrow marks the temperature at which the Seebeck coefficient changes sign.
+
+Figure 3: (Color online) Seebeck coefficient, S, vs temperature for a thermal current (and gradient) (a) along the a axis and (b) along the c axis.
+
+  conducts less but is host to the enhanced scattering among electrons.
+
+A link between pairing and T-linear resistivity has been detected in several families of unconventional superconductors.[25] In URu_{2}Si_{2}, future transport measurements under pressure and magnetic field would allow to determine the profile of the inelastic scattering beyond the critical pressure destroying both the hidden order and superconductivity.[7, 26] In cuprate superconductors, resistivity becomes purely T^{2}, when superconductivity is destroyed by overdoping.[27] But, at lower doping levels, the resistivity of the ground state recovered by field-induced destruction of superconductivity always contains a T-linear component.[28] CeRhIn_{5} is another relevant case. While a Fermi-liquid behavior emerges at low enough temperatures, the pressure-induced destruction of superconductivity is also accompanied by a drastic reduction in the electron-electron scattering.[29]
+
+The temperature dependence of the in-plane Seebeck coefficient is more complex. The sign change suggests the presence of a positive and continuously increasing S/T superposed on a constant negative one. Theoretically, in presence of quantum criticality, S/T is expected to follow \gamma and logarithmically diverge,[30] but what has been found in the case of CeCoIn_{5} (Ref. [31]) is not as simple. Qualitatively, the low-temperature departure from a T-linear thermopower confirms a reduced in-plane energy scale. Experiments at higher fields and lower temperatures are required, however, to pin down the asymptotic zero-temperature behavior of the Seebeck coefficient as well as its magnitude and sign for the in-plane configuration.
+
+In summary, our transport measurements show that the electronic properties in URu_{2}Si_{2} lack a single Fermi-liquid energy scale for all directions. This may be the key to explain the anomalous anisotropy of the superconducting coherence length.
+
+This work is part of DELICE, a project supported by the Agence Nationale de Recherche (Grant No. ANR-08-BLAN-0121-02). Z.Z. acknowledges a scholarship granted by China Scholarship Council.
+
+## References
+
+* [1] A. F. Santander-Syro, M. Klein, F. L. Boariu, A. Nuber, P. Lejay, and F. Reinert, Nat. Phys. **5**, 637 (2009).
+* [2] D. Aoki, F. Bourdarot, E. Hassinger, G. Knebel, A. Miyake, S. Raymond, V. Taufour, and J. Flouquet, J. Phys. Soc. Jpn. **78**, 053701 (2009).
+* [3] H. Shishido, K. Hashimoto, T. Shibauchi, T. Sasaki, H. Oizumi, N. Kobayashi, T. Takamasu, K. Takehana, Y. Imanaka, T. D. Matsuda, Y. Haga, Y. Onuki, and Y. Matsuda, Phys. Rev. Lett. **102**, 156403 (2009).
+* [4] S. Elgazar, J. Rusz, M. Amft, P. M. Oppeneer, and J. A. Mydosh, Nature Mater. **8**, 337 (2009).
+* [5] J. Levallois, K. Behnia, J. Flouquet, P. Lejay, and C. Proust, EPL **85**, 27003 (2009).
+* [6] A. Villaume, F. Bourdarot, E. Hassinger, S. Raymond, V. Taufour, D. Aoki, and J. Flouquet, Phys. Rev. B **78**, 012504 (2008).
+* [7] E. Hassinger, G. Knebel, K. Izawa, P. Lejay, B. Salce, and J. Flouquet, Phys. Rev. B **77**, 115117 (2008).
+* [8] Y. S. Oh, K. H. Kim, P. A. Sharma, N. Harrison, H. Amitsuka, and J. A. Mydosh, Phys. Rev. Lett. **98**, 016401 (2007).
+* [9] M. B. Maple, J. W. Chen, Y. Dalichaouch, T. Kohara, C. Rossel, M. S. Torikachvili, M. W. McElfresh, and J. D. Thompson, Phys. Rev. Lett. **56**, 185 (1986).
+* [10] R. Bel, H. Jin, K. Behnia, J. Flouquet and P. Lejay, Phys. Rev. B **70**, 220501(R) (2004).
+* [11] K. Behnia, R. Bel, Y. Kasahara, Y. Nakajima, H. Jin, H. Aubin, K. Izawa, Y. Matsuda, J. Flouquet, Y. Haga, Y. Onuki, and P. Lejay, Phys. Rev. Lett. **94**, 156405 (2005).
+* [12] Y. Kasahara, T. Iwasawa, H. Shishido, T. Shibauchi, K. Behnia, Y. Haga, T. D. Matsuda, Y. Onuki, M. Sigrist, and Y. Matsuda, Phys. Rev. Lett. **99**, 116402 (2007).
+* [13] T. T. M. Palstra, A. A. Menovsky, J. van den Berg, A. J. Dirkmaat, P. H. Kes, G. J. Nieuwenhuys, and J. A. Mydosh, Phys. Rev. Lett. **55**, 2727 (1985).
+* [14] T. T. M. Palstra, A. A. Menovsky, and J. A. Mydosh, Phys. Rev. B **33**, 6527 (1986).
+* [15] J. P. Brison, N. Keller, A. Verniere, P. Lejay, L. Schmidt, A. Buzdin, J. Flouquet, D. Jaccard, S. Julian, and G. Lonzarich, Physica C **250**, 128 (1995).
+* [16] J. Sakurai, K. Hasegawa, A. A. Menovsky, and J. Schweizer, Solid State Commun. **97**, 689 (1996).
+* [17] H. Ohkuni, Y. Inada, Y. Tokiwa, K. Sakurai, R. Settai, T. Honma, Y. Haga, E. Yamamoto, Y. Onuki, H. Yamagami, S. Takahashi, and T. Yanagisawa, Philos. Mag. B **79**, 1045 (1999).
+* [18] R. Joynt and L. Taillefer, Rev. Mod. Phys. **74**, 235 (2002).
+* [19] D. Aoki, Y. Haga, T. D. Matsuda, N. Tateiwa, S. Ikeda, Y. Homma, H. Sakai, Y. Shiokawa, E. Yamamoto, A. Nakamura, R. Settai, and Y. Onuki, J. Phys. Soc. Jpn. **76**, 063701 (2007).
+* [20] T. D. Matsuda, Y. Haga, D. Aoki, H. Sakai, Y. Homma, N. Tateiwa, E. Yamamoto, and Y. Onuki, J. Phys.: Conf. Ser. **150**, 042119 (2009).
+* [21] H. Kontani, J. Phys. Soc. Jpn. **73**, 515 (2004).
+* [22] N. E. Hussey, J. Phys. Soc. Jpn. **74**, 1107 (2005).
+* [23] D. Jaccard, K. Behnia, J. Sierro, and J. Flouquet, Phys. Scr. **T45**, 130 (1992).
+* [24] K. Behnia, D. Jaccard, and J. Flouquet, J. Phys.: Condens. Matter **16**, 5187 (2004).
+* [25] N. Doiron-Leyraud, P. Auban-Senzier, S. Rene de Cotret, A. Sedeki, C. Bourbonnais, D. Jerome, K. Bechgaard, and L. Taillefer, arXiv:0905.0964 (unpublished).
+* [26] E. Hassinger _et al._ (unpublished).
+* [27] S. Nakamae, K. Behnia, N. Mangkortong, M. Nohara, H. Takagi, S. J. C. Yates, and N. E. Hussey, Phys. Rev. B **68**, 100502(R) (2003).
+* [28] R. A. Cooper, Y. Wang, B. Vignolle, O. J. Lipscombe, S. M. Hayden, Y. Tanabe, T. Adachi, Y. Koike, M. Nohara, H. Takagi, C. Proust, and N. E. Hussey, Science **323**, 603 (2008).
+* [29] G. Knebel, D. Aoki, J.-P. Brison, and J. Flouquet, J. Phys. Soc. Jpn. **77**, 114704 (2008).
+* [30] I. Paul and G. Kotliar, Phys. Rev. B **64**, 184414 (2001).
+* [31] K. Izawa, K. Behnia, Y. Matsuda, H. Shishido, R. Settai, Y. Onuki, and J. Flouquet, Phys. Rev. Lett. **99**, 147005 (2007).
+
+ Anisotropic inelastic scattering and its interplay with superconductivity in URu_{2}Si_{2}
+
+Zengwei Zhu,^{1,2} Elena Hassinger,^{3} Zhu'an Xu,^{2} Dai Aoki,^{3} Jacques Flouquet,^{3} Kamran Behnia^{1}
+
+^{1}Laboratoire Photons Et Majiere (UPMC-CNRS), ESPCI, 75005 Paris, France
+
+^{2}Department of Physics, Zhejiang University, Hangzhou 310027, China
+
+^{3}DRFMC/SPSMS, Commissariat a l'Energie Atomique, F-38042 Grenoble, France
+
+28 August 200920092  would imply that the Fermi velocity is _larger_ along the c axis than along the a axis. Thus, we are in presence of a paradox. As sketched in the inset of each panel, the topology of the Fermi surface extracted from the two methods of analysis are at odd with each other.
+
+This anomalous discrepancy is highlighted in Table 1, which compares the case of URu_{2}Si_{2} with another well-documented heavy-Fermion superconductor UPt_{3}.[18] Charge conductivity and superconducting coherence length extracted from the slope of H_{c2} near T_{c} are both anisotropic in UPt_{3}. However, there is an excellent compatibility between \frac{\xi_{c}}{\sigma_{c}^{2}} =1.64 extracted from \frac{\xi_{c}}{\xi_{c}} and \frac{\nu_{f}^{2}}{\nu_{f}^{2}}=1.61 extracted from (\frac{\xi_{c}}{\sigma_{c}})^{1/2}. In URu_{2}Si_{2}, on the other hand, the ratio of the Fermi velocities obtained by these two alternative methods differs by a factor of four (0.35 vs 1.48). The intimate link between \frac{\xi_{c}}{\xi_{c}}, \frac{\sigma_{c}}{\sigma_{c}}, and \frac{\nu_{f}^{2}}{\nu_{f}^{2}} is at the origin of a general rule. In different families of anisotropic superconductors, the upper critical field is larger when the field is oriented along the more conducting orientation. URu_{2}Si_{2}, in company of NpPd_{3}Al_{2},[19, 20] are the only two superconductors we know to disobey this rule. We will argue below that the absence of a single characteristic energy is at the heart of this apparent discrepancy.
+
+Is the ground state of URu_{2}Si_{2} in absence of superconductivity a Fermi liquid? The answer to this question has been hindered by the presence of a large transverse magnetoresistance. In clean samples of this low density and compensated system, even a modest transverse magnetic field leads to an upturn in resistivity.[12] In order to probe the system without being overwhelmed by the large transverse magnetoresistance, we measured resistivity of both samples in presence of a magnetic field oriented _parallel_ to the current. The results are presented in Fig. 2 and reveal a qualitative difference
+
+Figure 2: (Color online) Resistivity vs temperature for a current (a) along the a axis and (b) along the c axis. Lower panels present the same data as a function of T^{2}. Solid lines are guides to eyes. Resistivity is T-linear along the a axis and T-square along the b axis.
+
+\begin{table}
+\begin{tabular}{l r r r r}  & \multicolumn{2}{c}{UPt_{3}} & \multicolumn{2}{c}{URu_{2}Si_{2}} \\ \cline{2-5}  & a axis & c axis & a axis & c axis \\ \hline dH_{c2}/dT (T K^{-1}) & -4.4 & -7.2 & -11.5 & -4.1 \\ \xi_{c}/\xi_{a} & & 1.64 & & 0.35 \\ \sigma_{c}/\sigma_{a} & & 2.6 & & 2.2 \\ \gamma (mJ mol^{-1} K^{-2}) & & 440 & & 65 \\ A (\mu\Omega cm K^{-2}) & 1.5 & 0.55 & & 0.22 \\ A/\gamma^{2} (a_{0}) & 0.7 & 0.3 & & 5.2 \\ S/T(\mu V K^{-2}) & 2.5 & 2.5 & & -7 \pm 1 \\ q & 0.6 & 0.6 & & -11 \pm 1 \\ \end{tabular}
+\end{table}
+Table 1: A comparison of physical parameters and their anisotropy in UPt_{3} and URu_{2}Si_{2}.
+
+Figure 1: (Color online) (a) Upper critical field in URu_{2}Si_{2} for two orientations of the magnetic field. Values correspond to the midpoint resistive transition. The inset is a zoom close to T_{c} highlighting the threefold difference in the slopes close to T_{c}. The two samples studied in the two configurations present a slight difference in their zero-field T_{c}’s. (b) Zero-field resistivity of the same samples. Inset shows the anisotropy of the conductivity. Ellipsoids schematically represent the anisotropy of the Fermi surface according to each probe.
+
+  between the two orientations of charge flow. Resistivity along the a axis, \rho_{a}, is T-linear down to the superconducting transition both at zero field and in presence of a field as strong as 12 T (the largest used in this study), with no visible change in slope. On the other hand, for a current along the c axis, with the application of a magnetic field strong enough to destroy superconductivity, a T-square behavior emerges as the asymptotic temperature dependence of \rho_{c} in the T=0 limit. Note that this qualitative difference cannot be detected in the absence of magnetic field.
+
+Figure 3 presents the thermoelectric data. At zero field, in agreement with previous studies,[10, 16] the Seebeck coefficient is negative and anisotropic. It is roughly twice larger along the c axis than along the a axis. With the application of a magnetic field, a qualitative distinction emerges between the two orientations. For a heat current flowing along the c axis, the Seebeck coefficient, S_{c} remains negative and T-linear even in presence of a magnetic field strong enough to destroy superconductivity. On the other hand, in the case of a current flowing along the a axis, as the applied field is enhanced, the Seebeck coefficient shows a downward deviation from a T-linear dependence and finally it changes sign below 0.8 K, when the magnetic field is strong enough to push T_{c} below this.
+
+The difference between the two orientations is summarized in Fig. 4 which compares resistivity and thermopower. When the current flows along the c axis, resistivity is T-square and thermopower is T-linear. A finite negative S_{c}/T can be easily estimated. Its magnitude is slightly enhanced in presence of a field, which destroys superconductivity. The situation is drastically different for a current flowing along the a axis. The Seebeck coefficient changes sign revealing a positive contribution rapidly enhancing with decreasing temperature. Note that superconducting transitions in S(T) and \rho almost coincide each time and the 12 T curves show that the sign change of S is a normal-state property and unrelated to the superconducting transition.
+
+Table 1 compares the magnitude of the Fermi-liquid parameters extracted for the c axis configuration in URu_{2}Si_{2} to those known for UPt_{3}.[18] The prefactor of T-square resistivity URu_{2}Si_{2} obtained here, combined with the reported value of the T-linear specific heat, \gamma (Ref. [9]) yields a Kadowaki-Woods (KW) ratio which is 5.2 times larger than the "universal" value (a_{0}=10 \mu\Omega cm mol^{2} K^{2} J^{-2}) and 17 times larger than the KW ratio along c axis in UPt_{3}. This is not surprising as the KW ratio is expected to increase as the carrier density is reduced.[21, 22] The T-linear Seebeck coefficient for the c-axis configuration in URu_{2}Si_{2} is more than twice larger than what was found in the case of UPt_{3}.[23] In other words, while the electronic entropy _per volume_ (measured by the size of \gamma) is seven times larger in UPt_{3}, the entropy _per carrier_ is 2.5 times larger in URu_{2}Si_{2}. The dimensionless ratio of thermopower to electronic specific heat, q=\frac{SN_{3}e^{c}}{T\gamma} is 11, an order of magnitude larger than what is commonly found in various metals with a half-filled band[24] and 18 times than in UPt_{3}, another consequence of a small carrier density.
+
+The in-plane configuration is more enigmatic and remains beyond a simple Fermi-liquid picture. As seen in Fig. 4, below 4 K, \rho_{a} is well described by \rho_{a}=\rho_{0}+BT at all fields and the magnitude of T-linear coefficient (B=1.8 \mu\Omega cm K^{-1}) shows little change from 0 to 12 T. Note that this does not necessarily imply that the T-linear behavior would survive down to zero temperature when the magnetic field exceeds H_{c2}. An eventual emerging T^{2} behavior, however, would be restricted to a narrow temperature window and associated with a very large prefactor, pointing to a small characteristic energy scale, much smaller than the one associated with the c axis. This singular case of anisotropic electron-electron scattering is to be linked with the anomalous anisotropy of the superconducting coherence length and calls for a deep theoretical attention. According to our results, the Cooper pairs extend over a longer distance in the basal plane, which
+
+Figure 4: (Color online) Comparison of the temperature dependence of resistivity, \rho, and thermopower divided by temperature, S/T, as a function of temperature for a current flowing (a) along the c axis and (b) along the a axis. In panel b, dotted vertical lines mark the position of resistive midtransition and the red arrow marks the temperature at which the Seebeck coefficient changes sign.
+
+Figure 3: (Color online) Seebeck coefficient, S, vs temperature for a thermal current (and gradient) (a) along the a axis and (b) along the c axis.
+
+  conducts less but is host to the enhanced scattering among electrons.
+
+A link between pairing and T-linear resistivity has been detected in several families of unconventional superconductors.[25] In URu_{2}Si_{2}, future transport measurements under pressure and magnetic field would allow to determine the profile of the inelastic scattering beyond the critical pressure destroying both the hidden order and superconductivity.[7, 26] In cuprate superconductors, resistivity becomes purely T^{2}, when superconductivity is destroyed by overdoping.[27] But, at lower doping levels, the resistivity of the ground state recovered by field-induced destruction of superconductivity always contains a T-linear component.[28] CeRhIn_{5} is another relevant case. While a Fermi-liquid behavior emerges at low enough temperatures, the pressure-induced destruction of superconductivity is also accompanied by a drastic reduction in the electron-electron scattering.[29]
+
+The temperature dependence of the in-plane Seebeck coefficient is more complex. The sign change suggests the presence of a positive and continuously increasing S/T superposed on a constant negative one. Theoretically, in presence of quantum criticality, S/T is expected to follow \gamma and logarithmically diverge,[30] but what has been found in the case of CeCoIn_{5} (Ref. [31]) is not as simple. Qualitatively, the low-temperature departure from a T-linear thermopower confirms a reduced in-plane energy scale. Experiments at higher fields and lower temperatures are required, however, to pin down the asymptotic zero-temperature behavior of the Seebeck coefficient as well as its magnitude and sign for the in-plane configuration.
+
+In summary, our transport measurements show that the electronic properties in URu_{2}Si_{2} lack a single Fermi-liquid energy scale for all directions. This may be the key to explain the anomalous anisotropy of the superconducting coherence length.
+
+This work is part of DELICE, a project supported by the Agence Nationale de Recherche (Grant No. ANR-08-BLAN-0121-02). Z.Z. acknowledges a scholarship granted by China Scholarship Council.
+
+## References
+
+* [1] A. F. Santander-Syro, M. Klein, F. L. Boariu, A. Nuber, P. Lejay, and F. Reinert, Nat. Phys. **5**, 637 (2009).
+* [2] D. Aoki, F. Bourdarot, E. Hassinger, G. Knebel, A. Miyake, S. Raymond, V. Taufour, and J. Flouquet, J. Phys. Soc. Jpn. **78**, 053701 (2009).
+* [3] H. Shishido, K. Hashimoto, T. Shibauchi, T. Sasaki, H. Oizumi, N. Kobayashi, T. Takamasu, K. Takehana, Y. Imanaka, T. D. Matsuda, Y. Haga, Y. Onuki, and Y. Matsuda, Phys. Rev. Lett. **102**, 156403 (2009).
+* [4] S. Elgazar, J. Rusz, M. Amft, P. M. Oppeneer, and J. A. Mydosh, Nature Mater. **8**, 337 (2009).
+* [5] J. Levallois, K. Behnia, J. Flouquet, P. Lejay, and C. Proust, EPL **85**, 27003 (2009).
+* [6] A. Villaume, F. Bourdarot, E. Hassinger, S. Raymond, V. Taufour, D. Aoki, and J. Flouquet, Phys. Rev. B **78**, 012504 (2008).
+* [7] E. Hassinger, G. Knebel, K. Izawa, P. Lejay, B. Salce, and J. Flouquet, Phys. Rev. B **77**, 115117 (2008).
+* [8] Y. S. Oh, K. H. Kim, P. A. Sharma, N. Harrison, H. Amitsuka, and J. A. Mydosh, Phys. Rev. Lett. **98**, 016401 (2007).
+* [9] M. B. Maple, J. W. Chen, Y. Dalichaouch, T. Kohara, C. Rossel, M. S. Torikachvili, M. W. McElfresh, and J. D. Thompson, Phys. Rev. Lett. **56**, 185 (1986).
+* [10] R. Bel, H. Jin, K. Behnia, J. Flouquet and P. Lejay, Phys. Rev. B **70**, 220501(R) (2004).
+* [11] K. Behnia, R. Bel, Y. Kasahara, Y. Nakajima, H. Jin, H. Aubin, K. Izawa, Y. Matsuda, J. Flouquet, Y. Haga, Y. Onuki, and P. Lejay, Phys. Rev. Lett. **94**, 156405 (2005).
+* [12] Y. Kasahara, T. Iwasawa, H. Shishido, T. Shibauchi, K. Behnia, Y. Haga, T. D. Matsuda, Y. Onuki, M. Sigrist, and Y. Matsuda, Phys. Rev. Lett. **99**, 116402 (2007).
+* [13] T. T. M. Palstra, A. A. Menovsky, J. van den Berg, A. J. Dirkmaat, P. H. Kes, G. J. Nieuwenhuys, and J. A. Mydosh, Phys. Rev. Lett. **55**, 2727 (1985).
+* [14] T. T. M. Palstra, A. A. Menovsky, and J. A. Mydosh, Phys. Rev. B **33**, 6527 (1986).
+* [15] J. P. Brison, N. Keller, A. Verniere, P. Lejay, L. Schmidt, A. Buzdin, J. Flouquet, D. Jaccard, S. Julian, and G. Lonzarich, Physica C **250**, 128 (1995).
+* [16] J. Sakurai, K. Hasegawa, A. A. Menovsky, and J. Schweizer, Solid State Commun. **97**, 689 (1996).
+* [17] H. Ohkuni, Y. Inada, Y. Tokiwa, K. Sakurai, R. Settai, T. Honma, Y. Haga, E. Yamamoto, Y. Onuki, H. Yamagami, S. Takahashi, and T. Yanagisawa, Philos. Mag. B **79**, 1045 (1999).
+* [18] R. Joynt and L. Taillefer, Rev. Mod. Phys. **74**, 235 (2002).
+* [19] D. Aoki, Y. Haga, T. D. Matsuda, N. Tateiwa, S. Ikeda, Y. Homma, H. Sakai, Y. Shiokawa, E. Yamamoto, A. Nakamura, R. Settai, and Y. Onuki, J. Phys. Soc. Jpn. **76**, 063701 (2007).
+* [20] T. D. Matsuda, Y. Haga, D. Aoki, H. Sakai, Y. Homma, N. Tateiwa, E. Yamamoto, and Y. Onuki, J. Phys.: Conf. Ser. **150**, 042119 (2009).
+* [21] H. Kontani, J. Phys. Soc. Jpn. **73**, 515 (2004).
+* [22] N. E. Hussey, J. Phys. Soc. Jpn. **74**, 1107 (2005).
+* [23] D. Jaccard, K. Behnia, J. Sierro, and J. Flouquet, Phys. Scr. **T45**, 130 (1992).
+* [24] K. Behnia, D. Jaccard, and J. Flouquet, J. Phys.: Condens. Matter **16**, 5187 (2004).
+* [25] N. Doiron-Leyraud, P. Auban-Senzier, S. Rene de Cotret, A. Sedeki, C. Bourbonnais, D. Jerome, K. Bechgaard, and L. Taillefer, arXiv:0905.0964 (unpublished).
+* [26] E. Hassinger _et al._ (unpublished).
+* [27] S. Nakamae, K. Behnia, N. Mangkortong, M. Nohara, H. Takagi, S. J. C. Yates, and N. E. Hussey, Phys. Rev. B **68**, 100502(R) (2003).
+* [28] R. A. Cooper, Y. Wang, B. Vignolle, O. J. Lipscombe, S. M. Hayden, Y. Tanabe, T. Adachi, Y. Koike, M. Nohara, H. Takagi, C. Proust, and N. E. Hussey, Science **323**, 603 (2008).
+* [29] G. Knebel, D. Aoki, J.-P. Brison, and J. Flouquet, J. Phys. Soc. Jpn. **77**, 114704 (2008).
+* [30] I. Paul and G. Kotliar, Phys. Rev. B **64**, 184414 (2001).
+* [31] K. Izawa, K. Behnia, Y. Matsuda, H. Shishido, R. Settai, Y. Onuki, and J. Flouquet, Phys. Rev. Lett. **99**, 147005 (2007).
+
+ 

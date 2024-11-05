@@ -1,0 +1,963 @@
+Two-gap superconductivity in ZrB₁₂: Temperature dependence of critical
+magnetic fields in single crystals
+
+V. A. Gasparov, N. S. Sidorov, and I. I. Zver’kova
+
+Institute of Solid State Physics RAS, 142432 Chernogolovka, Moscow
+District, Russia
+
+26 August 2005; revised manuscript received 30 December 2005; published
+21 March 2006
+
+###### Abstract
+
+We report the measurements of the temperature dependence of the
+resistivity, ρ(_T_), magnetic penetration depth, λ(_T_), the lower,
+H_(c1)(_T_), and upper, H_(c2)(_T_), critical magnetic fields, for
+single crystals of dodecaboride ZrB₁₂, diboride ZrB₂, and thin films of
+diboride MgB₂. We observe a number of deviations from conventional
+behavior in these materials. Although ZrB₁₂ behaves like a simple metal
+in the normal state, the resistive Debye temperature, 300 K, is three
+times smaller relative to that (800−1200 K) calculated from the specific
+heat, C(_T_), data. We observe predominantly quadratic temperature
+behavior of resistivity in ZrB₁₂ below 25 K and in ZrB₂ below 100 K,
+indicating the possible importance of the electron-electron interaction
+in these borides. Superfluid density of ZrB₁₂ displays unconventional
+temperature dependence with pronounced shoulder at _T_/_T__(c) equal to
+0.65. Contrary to conventional theories we found a linear temperature
+dependence of H_(c2)(_T_) for ZrB₁₂ from _T__(c) down to 0.35 K. We
+suggest that both λ(_T_) and H_(c2)(_T_) dependencies in ZrB₁₂ can be
+explained by a two band BCS model with different superconducting gap and
+T_(c).
+
+2006 10.1103/PhysRevB.73.094510 PACS number(s): 74.70.Ad, 74.25.Nf,
+72.15.Gd, 74.25.Ha
+
+## I Introduction
+
+The recent discovery of superconductivity in magnesium diboride [1] has
+initiated a substantial interest in potential high temperature
+superconducting transition in other borides. [2] Yet, only
+nonstoichiometric boride compounds (MoB_(2.5), NbB_(2.5), Mo₂B, W₂B,
+BeB_(2.75)) demonstrate such transition. [3, 4, 5, 6] The absence of
+superconducting transition in stoichiometric borides is clearly not in
+line with the old idea about superconductivity in metallic hydrogen [7]
+recently applied by Kortus _et al._[8] to explain superconductivity in
+MgB₂. A potential clue to this contradiction my lay not in the small
+mass of the boron atoms but rather in crystal structure of these boron
+compounds, in particular in their cluster structure. Crystal structure
+clearly plays an important role in superconductivity. Although it is
+widely accepted that the layered structure is crucial for high-_T__(c)
+superconductivity, one can argue that clusters of light atoms are
+important for high-_T__(c) as well. In particular, there are a number of
+rather high-_T__(c) superconductors among three-dimensional (3D) cluster
+compounds. Those are alkali metal doped C₆₀ compounds (fulerides)
+_Me_₅C₆₀ (_Me_= K, Na, Rb, Cs) with the highest _T__(c) up to 33 K for
+RbCs₂C₆₀. [9, 10] It is also known that boron atoms form clusters. These
+are octahedral B₆ clusters in β-richmondehedral boron, and cubocathadral
+B₁₂ clusters in αFeB₁₂.
+
+The quest for superconductivity in these cluster compounds has a long
+history. Several superconducting cubic hexaborides, _Me_B₆, and
+dodecaborides, _Me_B₁₂, have been discovered by Matthias _et al._ back
+in late 1960’s [11] (_Me_=Sc, Y, Zr, La, Lu, Th). Many other cluster
+borides (_Me_=Ce, Pr, Nd, Eu, Gd, Tb, Dy, Ho, Er, Tm) were found to be
+ferromagnetic or antiferromagnetic. [11, 12] It was suggested [3] that
+the superconductivity in YB₆ and ZrB₁₂ (_T__(c) of 6.5-7.1 and 6.03 K,
+respectively [3]) is exactly due to the effect of a cluster of light
+boron atoms. At the same time, a much smaller isotope effect on T_(c)
+for boron in comparison with Zr isotopic substitution suggests that the
+boron in ZrB₁₂ serves as inert background for the Zr-driven
+superconductivity. [13, 14] Clearly a systematic study of ZrB₁₂ is
+needed to address the question of superconductivity in this compound.
+
+Superconductivity in ZrB₁₂-based compounds was discovered a while ago,
+[11] however, there has been little and controversial effort devoted to
+the study of basic superconducting and the electron transport properties
+of these compounds. In our recent study of the electron transport and
+superconducting properties of polycrystalline ZrB₁₂, [15, 16, 17, 18] we
+demonstrated that this compound behaves like a normal metal with the
+usual Bloch-Gruneisen dependence of ρ(_T_) but with rather low resistive
+Debye temperature (_T__(R)=280 K). The latter is almost three times
+smaller than Debye temperature obtained from specific heat C(_T_) data.
+[19] We observed linear temperature dependence of λ(_T_) below T_(c)/2
+which could be evidence of _d_-wave pairing in this compound.
+Furthermore, contrary to conventional theories, we found a linear
+temperature dependence of _H__(c2)(_T_). Recently the band structure
+calculations of ZrB₁₂ (Ref. [20]) have been also reported. It was
+concluded that the band structure of ZrB₁₂ is composed of one open and
+two closed Fermi surface sheets.
+
+Our data contradict the report of Daghero _et al._[21] dealing with the
+point-contact spectroscopy (PCS) of single crystals of ZrB₁₂ at
+temperatures close to _T__(c). In Daghero’s report it was concluded that
+ZrB₁₂ is a strong coupling _s_-wave superconductor, with
+2D(0)/_kBTc_=4.7. Tsindlekht _et al._[22] came to a similar conclusion
+from tunneling and magnetic characterization of ZrB₁₂ single crystals at
+the temperatures also very close to _T__(c) (4.5-6 K). Lortz _et
+al._[19] and Wang _et al._[23] reported C(_T_), ρ(_T_), magnetic
+susceptibility, and thermal expansion measurements of ZrB₁₂ samples
+prepared by one of us (V.A.G.) and concluded that it is a single gap
+marginal BCS superconductor which undergoes transition from a type-I
+superconductor near _T__(c) to a type-II superconductor below 4.6 K with
+2D(0)/_kBTc_=3.7, the value that is lower than that obtained from PCS
+(4.7) [21] and scanning tunneling microscopy data. [22] A large
+difference in H_(c2) characteristics reported in the above-mentioned
+papers was discussed in terms of surface superconductivity. Most of the
+features of MgB₂ discovered so far can be explained by a two band
+superconductivity model. [24] We believe that a test of the predictions
+of this model for ZrB₁₂ may explain observed controversy of published
+data. Knowledge of the electron transport and superconducting properties
+in this cluster compound is crucial for understanding these conflicting
+results.
+
+This has been the motivation for current systematic study of the
+temperature dependencies of ρ(T), λ(T), lower H_(c1)(T), and upper
+H_(c2)(T), critical magnetic fields in single crystals of ZrB₁₂. In this
+paper, we confirm unusual superconducting properties of ZrB₁₂ observed
+in Refs. [15, 16, 17, 18] and argue that the published results can be
+reconciled by two-band superconductivity. Comparative data from ZrB₂
+single crystals and thin films of MgB₂ are also presented.
+
+The structure of this paper is as follows. In Sec. II we report on the
+samples details and experimental techniques. Section III describes the
+electron transport in these compounds and Sec. IV describes the
+temperature dependence of λ(T) in ZrB₁₂ samples and MgB₂ thin films. The
+data on H_(c1)(T) and H_(c2)(T) are presented in Sec. V. Section VI
+contains our conclusions.
+
+## II Experimental setup
+
+Under ambient conditions, dodecaboride ZrB₁₂ crystallizes in the fcc
+structure of the UB₁₂ type (space group Fm3m, a = 0.74075 nm, [25, 26]
+see Fig. 1). In this structure, the Zr atoms are located at interstitial
+openings among the close-packed B₁₂ clusters. In contrast, ZrB₂ shows a
+phase consisting of a two-dimensional graphitelike monolayer of boron
+atoms with a honeycomb lattice structure and the lattice parameters a =
+0.30815 nm and c = 0.35191 nm (space group P6/mmm), intercalated with a
+Zr monolayer. [2]
+
+Our ZrB₁₂ and ZrB₂ single crystals were grown using a floating-zone
+method [17, 18, 25] similar to Ref. [26]. The obtained single crystal
+ingots had a typical diameter of about 5 to 6 mm and a length of 40 mm.
+Measured specific weight of the ZrB₁₂ rod was 3.60 g/cm³, in a good
+agreement with the theoretical density. The cell parameter of ZrB₁₂, a =
+0.74072± 0.00005 nm, is very close to the published values. [26] To
+assure good quality of our samples we performed the metallographic and
+x-ray investigations of as-grown ingots. We discovered that most parts
+of the ZrB₁₂ ingot contained a needlelike phase of nonsuperconducting
+ZrB₂ (see Fig. 2). We believe that ZrB₂ needles are due to preparation
+of ZrB₁₂ single crystals from a mixture of a certain amount of ZrB₂ and
+an excess of boron. [18, 25] Therefore special care has been taken to
+cut the samples from ZrB₂ phase-free parts.
+
+For this study, two highly crystalline, superconducting films of MgB₂
+were grown on an r-plane sapphire substrate in a two-step process. [27]
+Deposition of boron precursor films via electron-beam evaporation was
+followed by _ex situ_ post-annealing at 890 ^(∘)C in the presence of
+bulk MgB₂ and Mg vapor. We investigated films of 500 and 700 nm
+thickness, with corresponding T_(c0)’s of 38 and 39.2 K, respectively.
+The details of the preparation technique are described elsewhere. [27]
+
+We used the spark erosion technique to cut the single crystal ingots
+into rectangular ⟨100⟩ oriented bars of about 0.5× 0.5× 8 mm³. The
+samples were lapped with diamond paste and etched in boiled nitrogen
+acid to remove any damage induced by lapping deteriorated surface
+layers. A standard four-probe ac (9 Hz) technique was used for
+resistance measurements. We used _Epotek H20E_ silver epoxy for
+electrical contacts. Because the sample has a shape of a long
+rectangular bar its demagnetization factor is nearly zero. A
+well-defined geometry of the samples provided for the precise ρ(T) and
+superconducting properties measurements. Temperature was measured with
+platinum (PT-103) and carbon glass (CGR-1-500) sensors. The measurements
+were performed in the liquid helium variable temperature cryostat in the
+temperature range between 1.3 and 350 K. Magnetic measurements of
+ρ(T, H) and λ(T, H) were carried out using a superconducting coil in
+applied fields of up to 6 T down to 1.3 K. Additional dc and ac ρ(H)
+measurements were performed in the National High Magnetic Field
+Laboratory in Tallahassee, Florida (NHMFL) at temperatures down to 0.35
+K. The dc magnetic field was applied in the direction of the current
+flow. The critical temperature of the ZrB₁₂ samples, measured by ac
+susceptibility and ρ(T), was found to be T_(c0)=6.0 K.
+
+Figure 2: Etching pattern of a ZrB₁₂ single crystal cross section in the
+(100) plane from the same parts of ingot as in Refs. [19] and [21, 22].
+The needlelike long grains are ZrB₂ phase, while the small black lines
+correspond to etching pits from small angle boundaries.
+
+Figure 1: Lattice structure of dodecaboride ZrB₁₂. For clarity B₁₂
+clusters are shown only on the upper face of the lattice.
+
+We used the radio frequency LC technique [28] to measure λ(T) of ZrB₁₂
+samples. This technique employs a rectangular solenoid coil into which
+the sample is placed. The coil is a part of the LC circuit driven by a
+marginal oscillator operating at 2−10 MHz, or by the impedance meter
+(VM-508 TESLA 2−50 MHz). Changes in λ(T) of the sample lead to the
+change of the coil’s inductance that in turn results in the change of
+the resonance frequency of the LC circuit. The connection between
+parameters of the circuit and λ(T) is described by following equation:
+
+$$\lambda(T)-\lambda(0)=\delta\frac{f^{-2}(T)-f^{-2}(0)}{f^{-2}(T_{c})-f^{-2}(0)}.$$
+(1)
+
+Here δ=0.5(c²ρ/2 πω)^(1/2) is the imaginary part of the skin depth above
+T_(c), [29] which was determined from the ρ(T) measurements close to
+T_(c), f(T) is the resonance frequency of the circuit at arbitrary
+temperature T, and f(T_(c)) and f(0) are the resonance frequency of the
+circuit at the superconducting transition and at zero temperature,
+respectively.
+
+The λ(T) dependence in thin MgB₂ films was investigated employing a
+single coil mutual inductance technique. This technique, originally
+proposed in Ref. [30] and improved in Ref. [31], takes advantage of the
+well-known two-coil geometry. It was successfully used for the
+observation of the Berezinskii-Kosterlitz-Thouless vortex-antivortex
+unbinding transition in ultrathin YBa₂Cu₃O_(7 − x) films [32] as well as
+for study of the λ(T) dependence on MgB₂ films. [33] In this
+radio-frequency technique one measures the temperature dependence of the
+complex impedance of the LC circuit formed with a one-layer pancake coil
+located in the proximity (≈0.1 mm) of the film. Both sample and coil are
+in a vacuum, but the coil holder is thermally connected with helium
+bath, while the sample holder is isolated and may be heated. During the
+experiment the coil was kept at 2.5 K, whereas the sample temperature
+has been varied from 2.5 up to 100 K. Such design allows us to eliminate
+possible effects in temperature changes in L and C on the measurements.
+
+The complex mutual inductance M between the coil and the film can be
+obtained through
+
+$$\mathrm{Re}\;M(T)=L_{0}\Bigg{(}\frac{f_{0}^{2}}{f^{2}(T)}-1\Bigg{)},$$
+(2)
+
+$$\mathrm{Im}\;M(T)=\frac{1}{[2\,\pi f(T)]^{3}C^{2}}\Bigg{[}\frac{1}{Z(T)}-\frac {1}{Z_{0}(T)}\cdot\frac{f_{0}^{2}(T)}{f_{0}^{2}}\Bigg{]}.$$
+(3)
+
+Here L, Z(T), f(T), L₀, Z(0), and f₀ are the inductance, the real part
+of impedance, and the resonant frequency of the circuit with and without
+the sample, respectively. In the London regime, where the high frequency
+losses are negligible, one can introduce Δ Re M(T)–the difference
+between temperature dependant real part of M of the coil with the
+sample, Re M(T), and that of the coil at T₀, Re M(T₀). This difference
+is a function of the London penetration depth λ(T):
+
+$$\Delta\;\mathrm{Re}\;M(T)=\pi\mu_{0}\Bigg{\uparrow}_{0}^{\infty}\frac{M(q)dq} {1+2q\lambda\;\mathrm{coth}\Bigg{(}\frac{d}{\lambda}\Bigg{)}},$$
+(4)
+
+where M(q) plays the role of mutual inductance at a given wave number q
+in the film plane and depends on the sample-coil distance, d is the
+sample thickness (additional details can be found in Ref. [31]). A
+change in Δ Re M(T) is detected as a change of resonant frequency f(T)
+of the oscillating signal through Eq. (2). This change when put into Eq.
+(4) yields temperature dependent London penetration depth λ(T). Thanks
+to Eq. (4), we can measure the λ(T) of superconducting film by measuring
+the variation Δ Re M(T) of coil impedance and convert them into λ(T).
+
+## III Electron Transport
+
+Figure 3 shows the temperature dependence of ρ(T) of ZrB₁₂ and ZrB₂
+single crystal samples. To emphasize the variation of ρ(T) in a
+superconductive state, we plot these data in the inset. The transition
+temperature (T_(c0)=6.0 K) is consistent with the previously reported
+values for ZrB₁₂ (6.03 K) [11, 13] and is larger than that of ZrB₂
+polycrystalline samples (5.5 K). [2] The ZrB₁₂ samples demonstrate a
+remarkably narrow transition with ΔT=0.04 K. We believe that such a
+narrow transition is an indicator of the good quality of our samples.
+
+Figure 3 does not show any hints of the superconducting transition in
+ZrB₂ single crystals down to 1.3 K, [18] even though superconductivity
+was observed before at 5.5 K in polycrystalline samples. [2] It was
+recently suggested [34] that this apparent contradiction could be
+associated with nonstoichiometry in the zirconium sublattice. Based on
+the electron structure calculation it was suggested that the Fermi level
+in ZrB₂ is located in the pseudogap. [34] The presence of Zr defects in
+Zr_(0.75)B₂ leads to the appearance of a very intense peak in the
+density of states in the vicinity of the pseudogap and subsequent
+superconductivity. We strongly believe that
+
+Figure 3: (Color online) Temperature dependence of ρ(T) for ZrB₁₂
+(circles) and ZrB₂ (squares) single crystal samples. The solid lines
+represent BG fits to the experimental data by Eq. (5). The dashed line
+is t³ BG fit below 170 K with T_(R)=283 K as in Ref. [21].
+
+observation of superconductivity at 5.5 K in polycrystalline samples of
+ZrB₂ was due to nonstoichiometry of our samples. It is likely that
+recent observations of superconductivity in nonstoichiometric
+Nb_(1 − x)B₂ compounds [4, 5] as well as in other nonstoichiometric
+borides [3, 6] have the same origin.
+
+As we can see from Fig. 3, despite the fact that ZrB₁₂ contains mostly
+boron, its room temperature ρ(T) is only twice as large as that of
+single crystal samples of ZrB₂. The ρ(T) of ZrB₁₂ is linear above 90 K
+with the slope markedly steeper than in ZrB₂, with rather low residual
+resistivity ratio $\rho_{300~{}\rm K}/\rho_{6~{}\rm K}\approx$ 10. One
+can predict a nearly isotropic ρ(T) dependence for fcc ZrB₁₂, which can
+be described by the Bloch-Gruneisen (BG) equation of the electron-phonon
+(_e-p_) scattering rate: [35]
+
+$$\rho(t)-\rho(0)=4\rho_{1}t^{5}\!\!\int_{0}^{1t}\frac{x^{5}e^{*}dx}{(e^{*}-1)^{ 2}}=4\rho_{1}t^{5}J_{5}(1/t).$$
+(5)
+
+Here, ρ(0) is the residual resistivity, ρ₁=dρ(T)/dt is the slope of ρ(T)
+at high T  >  T_(R), t  =  T/T_(R), T_(R) is the resistive Debye
+temperature, and J₅(1/t) is the Debye integral.
+
+It is clear from Fig. 3 that the BG model nicely describes the ρ(T)
+dependence of both borides, indicating the importance of _e-p_
+interaction. It is remarkable that this description works well with
+constant T_(R)=300 K, which is very close to T_(R)=280 K observed on
+polycrystalline samples. [16] Clearly, ZrB₂ (T_(R)=700 K) and ZrB₁₂ have
+very different ρ(T) dependence due to different T_(R). At the same time
+the phonon Debye temperature, T_(D), for ZrB₁₂ calculated from C(T) on
+rather large samples (4.7 x 4.8 x 2.9 mm³) prepared by one of us
+(V.A.G.) (without metallographic study), [19, 23] is three times higher.
+Furthermore, T_(D) increases from 800 to 1200 K as temperature rises
+from T_(c) up to room temperature. We believe that this inconsistency of
+T_(R) and T_(D) can be explained by limitation of T_(R) by a cutoff
+phonon wave vector q =  k_(B)T/ℏs. The latter is limited by the Fermi
+surface (FS) diameter 2k_(F) (Ref. [36]) rather than the highest phonon
+frequency in the phonon spectrum. [18] Besides some problems may arise
+in Refs. [19] and [23] due to use of ZrB₂ phase rich samples as in Fig.
+2 (see below).
+
+Actually, ρ(T) of ZrB₁₂ and ZrB₂, samples deviates from the BG model at
+low temperatures. [18] We have reported for ZrB₁₂, ZrB₂, and MgB₂ that
+such deviation is consistent with a sum of electron-electron (_e-e_),
+aT², and _e-p_, bT⁵, contributions to the low-Tρ(T) data. The
+coefficient b =  497.6ρ₁/T_(R)⁵ in this plot gives another measure of
+T_(R) from low-Tρ(T) data. We found this T_(R) in a good agreement with
+that extracted from full-T BG fit for both ZrB₂ and ZrB₁₂ samples.
+Therefore the data extracted from this two-term fit are self-consistent
+with the full Eq. (5) fit. We would like to stress that this observation
+is only possible in the approximation of constant T_(R), which is in
+contradiction with specific heat data. [19] Notice also that the _e-p_
+contribution to resistivity ρ(T) can be described through [37]
+
+ρ_(cp)(T) ∼ ∫₀^(1t)α²(k, ω)F(ω)Φ(ε, ω)dω,
+(6)
+
+where α²(k, ω)F(ω) is the effective Eliashberg density of states of the
+phonons, that is _e-p_ coupling function α²(k, ω) multiplied by the
+phonon density of states F(ω) with energy ℏω. [37] The α²(k, ω) is
+proportional to the matrix element of _e-p_ coupling averaged over
+phonon polarization, but only longitudinal phonons are responsible for
+_e-p_ scattering for spherical FS. At the same time, the phonon specific
+heat, C(T), can be expressed as
+
+C_(ph) = 3 R ∫₀^(1t/t)F(ω)Φ₁(ω)dω.
+(7)
+
+Here Φ(ε, ω) and Φ(ω) are the occupation factors for _e-p_ and phonon
+systems, respectively. [37] This means that different phonons are
+responsible for _e-p_ρ(T) and C(T). In particular, the transverse
+phonons are much less important for _e-p_ scattering whereas both
+transverse and longitudinal phonons equally contribute to C(T).
+
+Bordes have rather high T_(D) that depresses the _e-p_ scattering term
+may be much more pronounced. Indeed, we find very similar values of
+_a_-coefficient for ZrB₁₂ and ZrB₂ samples in the basal plane (a = 22
+and 15 pΩ cm K⁻², respectively). [18] It is interesting to note, however
+that these values are five times larger than the _e-e_ term for
+transition metals [$a_{\rm Mo}$=2.5 pΩ cm K⁻² and $a_{\rm W}$ =1.54 pΩ
+cm K⁻² (Ref. [18])]. In general, there are many scattering processes
+responsible for the T² term in ρ(T) of metals. This term could be due to
+electron-impurity, electron-dislocation scattering, etc., induced
+deviation from Mattiessen rule. It is difficult to separate the
+contributions of these effects, thus it is presently not clear where
+exactly this T² term comes from. [18] Therefore additional experiments
+on more pure samples must be performed before a final conclusion about
+the origin of the T³ term in borides can be drawn.
+
+As we mentioned in the Introduction of this paper, there is a
+contradiction between our description of the ρ(T) and that of Refs. [19]
+and [21]. Daghero _et al._ suggested BG fit with t⁵ dependence rather
+than t⁵ on the similar single crystals at low T  <  170 K. [21] The fit
+assumed model ω² dependence for the α²(k, ω)F(ω) in Eq. (6). Such
+assumption yielded a good fit to their data at T  <  170 K with the
+T_(R)=283 K similar to our value of 300 K. We would like to stress,
+however, that there are strong objections to this modified t³ BG model.
+[18] The main problem of this approach is that it completely ignores
+intrasheet small angle _e-p_ scattering responsible for T⁵ law and takes
+into account only intersect scattering events. No evidence of this model
+was observed in transition and non-transition metals. To check the
+approach of Daghero’s group we used it for our data. Figure 3 displays
+the BG fit with ρ(T) − ρ(0) ∝  r³J₃(1/t) in Eq. (5) at T  <  170 K
+(dashed line). It is clear that this fit is far from consistency at
+higher T. We believe this is an indication that ρ(T) cannot be fitted by
+a modified BG t³ equation in the whole temperature range. We suggest
+that a sum of T³ and T⁵ contributions to the low-Tρ(T) may be easily
+confused with a T³ law. [18] Notice that our observation of BG T⁵
+intraband ρ(T) dependence rather then intersheet T⁵ law is very
+important for the given below two-T_(c) model of two-gap
+superconductivity for ZrB₁₂. In fact, this model is right in the limit
+of zero interband coupling. The two bands coupling converge two T_(c) to
+a single one.
+
+Lortz _et al._[19] report temperature dependence of ρ(T) obtained on the
+samples cut from ones provided by our group. The ρ(T) is nearly
+identical to our data, however, interpretation is different. Lorts _et
+al._ fitted ρ(T) with the generalized Bloch-Gruneisen formula using a
+decomposition into Einstein modes of α²(k, ω)F(ω). The same approach was
+applied to C(T) data and it was concluded that there are similarities
+between F(ω) determined from C(T) and α²(k, ω)F(ω) from ρ(T). However
+the fit to ρ(T) data was obtained using six fitting parameters for
+α_(F)²F_(k) and ρ(0). We believe such fit is not better than a simple
+Debye Eq. (5) fit with just two parameters: T_(R) and ρ(0). Furthermore,
+it is not clear whether the Einstein model is applicable to ZrB₁₂.
+Finally, we note also that only phonons with a phonon wave vector
+q=k_(B)T/ℏs<2k_(F) can participate in ρ(T).[36] Thus T_(R) is limited by
+the FS diameter 2k_(F) rather than the highest phonon frequency in the
+phonon spectrum, which in turn is important for T_(D). Notice also that
+unconventional T_(D)(T) dependence observed from C(T) data in Refs. [19]
+and [23] may be due to the sample problems (see Fig. 2).
+
+## IV IV. Penetration depth
+
+In the BCS theory the London penetration depth is identical with λ(T)
+for specular and diffuse surface scattering and for negligible nonlocal
+effects. For a BCS-type superconductor with the conventional s-wave
+pairing form, the λ(T) has an exponentially vanishing temperature
+dependence below T_(c)/2 (where Δ(T) is almost constant):[38]
+
+$$\lambda(T)=\lambda(0)\left[1+\sqrt{\frac{\pi\Delta(0)}{2k_{B}T}}\exp\!\left( -\frac{\Delta(0)}{k_{B}T}\right)\right]$$
+(8)
+
+for clean limit: l>ξ and
+
+$$\lambda(T)=\lambda(0)\sqrt{\frac{1}{\tanh\!\left(\frac{\Delta(0)}{2k_{B}T} \right)}}$$
+(9)
+
+for dirty limit: l<ξ.[39] Here Δ(0) is the energy gap and λ(0) is the
+penetration depth at zero temperature. Close to T_(c)λ(T) dependence has
+a BCS form:[29]
+
+$$\lambda(T)=\frac{\lambda(0)}{\sqrt{2\!\left(1-\frac{T}{T_{c}}\right)}}.$$
+(10)
+
+Important problems for λ(T) measurements are (i) determination of basic
+superconducting parameter λ(0) and (ii) temperature dependence law, to
+see whether s-wave or d-wave pairing forms exist. Both these problems
+can be addressed from low-Tλ(T) dependence according to Eqs. (8) and
+(9). We used Eq. (1) to extrapolate the resonance frequency f(T) of our
+LC circuit down to zero temperature. The inset to Fig. 4 shows
+f⁻²(T)∝λ(T)−λ(0) used for determination f(0). We would like to stress
+that one can use linear dependence of f⁻²(T) and hence λ(T)−λ(0) below 3
+K,[15, 16, 17] due to uncertainty with f(0).
+
+The unconventional d-wave pairing symmetry causes the energy gap to be
+suppressed along nodal directions on the FS. This type of pairing should
+manifest itself through the linear temperature dependence of λ(T)−λ(0)≈T
+at low T. Such a linear T dependence of λ(T) has been used as an
+fingerprint of d-wave pairing in cuprates.[40, 41] At the same time the
+microwave λ(T) data in fully oxygenated YBCO films show a picture which
+is consistent with the two-band s-wave superconductivity.[42] Recently,
+it was suggested[43] that a strictly linear T dependence of λ(T) at low
+temperatures violates the third law of thermodynamics because it results
+in nonvanished entropy in the zero temperature limit. One can argue that
+a deviation of the linear T dependence of λ(T) should be observed at
+low-T. Indeed, recent experiments on λ(T) in cuprates indicate
+deviations from linearity at low-T from current carrying zero energy
+surface Andreev bound states.[44] We believe that the question about
+linear dependence of λ(T) is still open therefore we use BCS Eqs. (8)
+and (9) to fit our data.
+
+The dashed curve in the inset to Fig. 4 is a result of the fit by aid of
+BCS Eq. (9) for λ(T) with f(0) and Δ(0) as free parameters. Equation (1)
+defines the difference between extrapolated λ(0) at zero temperature and
+that at the arbitrary temperature T, λ(T)−λ(0). We would like to stress
+that λ(T)−λ(0) data are robust relative to the change of the oscillator
+frequency. We observed no change in data when oscillator frequency has
+been increased from 2 to 10 MHz. Figure 4 shows how λ(T)−λ(0) changes
+with reduced temperature, T/T_(c), at low T for both MgB₂ (squares) and
+ZrB₁₂ (circles). Our ZrB₁₂ data do not extend to as low reduced
+temperatures as our data for MgB₂. This could lead to somewhat larger
+uncertainty in the estimates for the zero temperature resonance
+frequency f(0), and hence λ(0)=66 nm and Δ(0) from low-T data for ZrB₁₂.
+
+To address the problem with λ(0) we plot λ(T)−λ(0) data versus BCS
+reduced temperature: $1/\sqrt{2(1-T/T_{c})}$ in the region close to
+T_(c) (see inset to Fig. 5). The advantage of this procedure is the
+insensitivity of such analysis to the choice
+
+Figure 4: (Color online) Temperature variation of the λ(T) vs T/T_(c)
+for ZrB₁₂ single crystal (circles) and MgB₂ thin film (squares) below
+0.55T_(c). Solid curves represent the single gap dirty limit fit [Eq.
+(9)] and the dashed line represent the clean limit fit [Eq. (8)] for
+MgB₂ and ZrB₁₂. Inset shows f⁻²(T) and a result of fit by Eqs. (1) and
+(9).
+
+of f(0) on this temperature scale. The value of T_(c)=5.992 K used in
+this data analysis is obtained by getting best linear fit of the
+λ(T)=λ(0) vs [2(1 − T/T_(c))]^(−1/2) plot. Remarkably there is only a
+few millidegrees difference between T_(c) obtained from the fit and
+actual T_(c0). We use the slope of λ(T)=λ(0) vs $1/\sqrt{2(1-T/T_{c})}$
+and Eq. (10) to obtain the value of λ(0) =143 nm. To assure that this
+λ(0) is in agreement with low-T data, we fit the f⁻² vs T data with Eqs.
+(1) and (9) using fixed λ(0)=143 nm and free Δ(0) at low T. This fit is
+shown in the inset to Fig. 4 by the solid curve. It is clear from this
+inset that high-Tλ(0) is in agreement with low-T experimental data.
+
+After completion of the analysis of the residual penetration depth we
+attempt to estimate the residual mean free path l. In particular we
+employ Drude formula [ρ(0) =3/N₀lν_(F)e²] where we use measured
+ρ(0)=1.8μΩ cm, the electron density of states determined from C(T) data,
+N₀=1.83 × 10²² st/eV cm, [32, 33] and the electron Fermi velocity of
+ν_(F)=1.9 × 10⁸ cm/s [determined from E(k) data [20]], to obtain l=33
+nm. This value is smaller than a coherence length [ξ(0)=45 nm, see
+below] indicating that our samples are in dirty limit. This is confirmed
+in Fig. 4 by slightly better fits of the λ(T)=λ(0) with Eq. (9) up to
+T/T_(c)=0.5 (solid curve) relative to the clean limit [Eq. (8)] (dashed
+curve). In order to investigate the temperature dependence of λ(T) in
+the whole temperature region, in Fig. 6 we plot the superfluid density
+λ²(0)λ²(T) versus the reduced T/T_(c) for the ZrB₁₂ sample using the
+λ(0)=143 nm determined from one gap fit close to T_(c) [Eq. (10)] and
+λ(0)=66 nm as determined from low-T fit [Eq. (9)], for comparison.
+
+One can easily notice from Fig. 6 an unconventional behavior of ZrB₁₂
+superfluid density with pronounced shoulder at T/T_(c) equal to 0.65 for
+both λ(0). This feature can be explained by a model of two independent
+BCS superconducting bands with different plasma frequencies, gaps, and
+T_(c)’s. [24] We label these two bands as p- and d-bands according to
+electron structure of ZrB₁₂. [20] Assuming parallel currents through
+alternating subsystems, the conductivity is a sum of partial bands
+conductivities. The imaginary part of the conductivity is proportional
+to 1/λ², thus we can write in dirty limit: [45]
+
+$$\frac{1}{\uplambda^{2}(T)}=\frac{\Delta_{p}(T)\text{tanh}\bigg{(}\frac{\Delta _{e}}{2k_{B}T}\bigg{)}}{\uplambda_{p}^{2}(0)\Delta_{p}(0)}+\frac{\Delta_{d}(T )\text{tanh}\bigg{(}\frac{\Delta_{d}}{2k_{B}T}\bigg{)}}{\uplambda_{d}^{2}(0) \Delta_{d}(0)}.$$
+(11)
+
+Here Δ_(i) is the superconducting energy gap and λ_(i)(0) is residual
+penetration depth in the p- or d-band. Using this two gap λ(T) BCS-like
+dependence and interpolation formula
+Δ(T)=λ(0)tanh($1.88\sqrt{T_{c}/T}$=1) we fit the experimental data with
+six fitting parameters: λ_(i), Δ_(i), and T_(c)^(′). From this fit we
+obtain T_(c)^(′)=6.0 K, T_(c)^(′)=4.35 K, Δ_(p)(0)=0.73 meV,
+Δ_(d)(0)=2.1 meV, λ_(p)(0)=172 nm, and λ_(d)(0)=260 nm, for p- and
+d-bands, respectively. Dashed and dotted lines in Fig. 6 show the
+contributions of each p- and d-band, respectively. Clearly low
+temperature dependence of λ²(0)/λ²(T) is dominated by the d-band with
+the smallest T_(c), whereas the high temperature behavior results from
+the p-band with the larger T_(c). Notice that this analysis was applied
+for more reliable λ(0)=143 nm data. The reduced energy gap for p-band,
+2Δ_(p)(0)/k_(B)T_(c)^(′)=2.81, is rather small relative to the BCS value
+3.52, while d-band value, 2Δ_(d)(0)/k_(B)T_(c)^(′)=6.44, is twice as
+big. Thus we suggest that ZrB₁₂ may have two superconducting bands with
+different T_(c) and order parameters. Notice that this unusual
+conclusion may be right for two bands in the limit of zero interband
+coupling in agreement with resistivity data. Also, the λ(0) of ZrB₁₂ may
+not be constant over the Fermi surface. Here we just tried to fit a data
+assuming two gap distinct values.
+
+We based our conclusion on the two-gap model for dirty-limit
+superconductors, suggested by Gurevich. [45] In this model, we can write
+
+$$\frac{1}{\uplambda^{2}(0)}=\frac{4\pi^{2}e^{2}}{\hbar c^{2}}(N_{p}\Delta_{p}D _{p}+N_{d}\Delta_{d}D_{d})=\frac{1}{\uplambda_{p}^{2}(0)}+\frac{1}{\uplambda_ {d}^{2}(0)},$$
+(12)
+
+where N_(i), Δ_(i), and D_(i) are the density of states, the energy gap,
+and the diffusivity in p- and d-bands, respectively.
+
+Figure 5: (Color online) Temperature variations of λ(T) for ZrB₁₂
+sample. The inset shows λ(T)→λ(0) vs BCS reduced temperature.
+
+The calculated band structure of ZrB₁₂ is composed of three Fermi
+surface sheets: an open sheet along the ΓL direction with k_(ΓX)=0.47
+A⁻¹, a quasispherical sheet at point X ($k_{\rm{Xt}}$=0.37 A⁻¹), and a
+small sheet at point K ($k_{\rm{KT}}$=0.14 A⁻¹).[20] It is not clear
+from Ref. [20] whether the wave functions of carriers on these sheets
+are due to predominantly p- or d-states. However, it follows that the
+dominant contribution to the density of states N(E_(g)) is made by the
+Zr_(kd) and B_(2p), states, with N_(d)=7.3×10²¹ st/eV cm³ and
+N_(p)=8.7×10²¹ st/eV cm³, respectively.[20] The B_(2p) bonding states
+are responsible for the formation of B₁₂ intracluster covalent bonds. In
+turn, Zr_(kd) bands are due to Zr sublattice. A much smaller boron
+isotope effect on T_(c) in comparison with Zr isotopic substitution[13,
+14] may be an indication of the existence of two separate subsystems
+with different gaps and T_(c) values. We use this two band approach [Eq.
+(12)] to obtain p-band diffusivity of D_(p)=57 cm²/s and d-band
+diffusivity of D_(d)=10 cm²/s. Note that there is almost a six times
+difference between the p- and d-band diffusivity. We use this result for
+our discussion of H_(c2)(T) data in the following paragraph.
+
+The important goal of this paper is comparison of ZrB₁₂ and MgB₂ data.
+For comparison, in Fig. 4 we show the temperature variation of λ(T) and
+in Fig. 6 a λ²(0)/λ²(T) versus reduced temperature T/T_(c) for the best
+MgB₂ film as determined from the one-coil technique [Eq. (2)] and
+inversion procedure from Eq. (4) with λ(0)=114 nm. The solid line
+represents BCS single gap calculations by the aid of a single term of
+Eq. (11) and using finite energy gap [Δ(0)=1.93 meV] as the fit
+parameter. According to Fig. 6, there is a very good agreement between
+experimental data and the single band BCS curve over the full
+temperature range. Simple conventional s-wave dirty case fit by Eq. (9)
+agrees remarkably well with the low-T data at T<T_(c)/2 too. The reduced
+energy gap 2Δ(0)/k_(B)T_(c) is evaluated to be 1.2. It is actually
+within the range of values for 3D π bands obtained by PCS on MgB₂ single
+crystals [Δ(0)=2.9 meV],[46] and it agrees with λ(T) data obtained from
+similar radio-frequency experiments on single crystals (1.42 meV[47]),
+thin films (2.3 meV[33]), and with the theoretical prediction of the
+two-band model.[24] Rather small 2Δ(0)/k_(B)T_(c) observed correspond to
+the smallest energy gap in the two-gap model for the 3D π band. Notice
+that we studied here the penetration depth in the ab plane due to the
+samples being c-axis oriented thin films. This feature predicts that our
+λ_(ab)(T) is determined by the small energy gap for the π-band. Both
+λ(0) and Δ(0) are consistent with microwave measurements on similar
+c-axis oriented thin films (107 nm and 3.2 meV, respectively).[48]
+
+## V V. Upper and lower critical magnetic field
+
+We now turn to the electronic transport data acquired in magnetic field.
+We measured the dependence of ρ on magnetic field H in the temperature
+range between 0.35 and 6 K in two different magnets at NHMFL,
+Tallahassee, FL as well as in our superconducting coil. The first magnet
+was resistive coil Bitter magnet, and second one was superconducting
+magnet. Figure 7 displays the resistive magnetic field transitions at
+various temperatures down to 0.35 K in the field oriented along the
+sample bar. Two features are clearly seen: (i) as temperature decreases
+the resistive transition continuously moves to higher fields without any
+saturation, and (ii) longitudinal magnetoresistivity in the normal state
+is very small. We used several different approaches to extract H_(c2)(T)
+from our data. Initially, we extended the maximal derivative dρ/dH line
+(dashed line in Fig. 7) up to the normal state ρ(T) level. The crossing
+point of this line and the normal state ρ(T) gave us the estimate for
+H_(c2)^(*) at various temperatures, as is indicated by the arrow.
+Despite a clear broadening at the higher fields, the onset of the
+resistive transition remains well-defined even at rather low
+temperatures. To obtain an alternative estimate for H_(c2), we fitted
+the field dependence of ρ(H) by a cubic polynomial and calculated the
+derivative dρ/dH. We defined H_(c2) as the field where dρ/dH just starts
+to deviate from zero (see Fig. 7). It is important to mention that even
+in single crystalline samples the resistance can be affected by the
+defects and surface superconductivity. To get even better fill for
+H_(c2) we used our λ(H) data. Figure 8 shows a plot of the λ versus the
+longitudinal magnetic field H measured at various temperatures. [We use
+the same rectangular coil LC technique as for zero field λ(T)
+measurements.] To avoid demagnetization effects like in Refs. [19] and
+[21]-[23] we oriented our bar-shape sample with its longer side parallel
+to the external dc field. Changes in the magnetic dependence of λ(H) are
+directly proportional to the radio-frequency susceptibility of the
+sample and reflect the bulk properties of it. To deduce the H_(c2) from
+λ(H), we used approaches similar to those applied to ρ(T) data, i.e., a
+straight-line fit representing the maximum of derivative dλ/dH (dashed
+line in Fig. 8) was extended up to the normal state. H_(c2)^(*) was
+defined as a crossing point of this line with normal state skin depth δ.
+Figure 8 clearly demonstrates a well-defined onset of λ(H) transition.
+We used this onset to estimate H_(c2).
+
+Figure 9 shows the magnetic field λ(H) behavior at very small fields.
+The λ(H)−λ(0) curves display clear linear de
+
+Figure 7: (Color online) Resistivity of ZrB₁₂ in the vicinity of the
+superconducting transition as a function of H at different T: 5.45,
+5.08, 4.9, 4.26, 3.72, 3.26, 2.59, 2.16, 1.85, 1.39, 1.05, and 0.35 K
+from left to right. The dotted line and the arrows describe how the
+H_(c2) has been established. The inset shows the R(H)/R_(n) near the
+transition at T=2.3 K for the same sample (right line) and a sample cut
+from the ZrB₂ rich part of an ingot (left curve).
+
+pendence at low fields caused by the Meissner effect. We determined the
+value of H_(c1) from the crossing point of two linear dependencies below
+and above the break point on λ(H) (see Fig. 9).
+
+Figure 10 presents the H_(c2)^(*)(T) dependence obtained from
+extrapolation of the maximum of slopes of both ρ(H) and λ(H), as well as
+those defined at the onsets of the finite ρ(H) and λ(H). In the same
+figure we also plot the H_(c1)(T), acquired by using the break point of
+λ(H) criteria as the definition of the lower critical magnetic field. A
+remarkable feature of this plot is an identical linear increase of
+H_(c2) with decreasing temperature for each of the methods of defining
+H_(c2). As we can see from this figure, the H_(c2) data obtained at
+three different magnets agree remarkably well and are aligned along
+corresponding straight lines indicating linear H_(c2)(T) dependence down
+to 0.35 K.
+
+To see whether one gap BCS model may work for ZrB₁₂, we extrapolate
+H_(c2)(T) to zero temperature by use of the derivative of dH_(c2)(T)/dT
+close to T_(c) and the assumption that the zero temperature H_(c2)(0) =
+0.697_(c)dH_(c2)/dT∣_(T_(c)).[39] The resulting H_(c2)(0) = 114 mT is
+substantially lower than the low temperature onset data below 3 K (see
+Fig. 10). Linear extrapolation of H_(c2)(T) to T = 0 gives H_(c2)(0) =
+162 mT. This value is almost the same as that obtained in the
+polycrystalline ZrB₁₂ samples (150 mT).[16] We used this value to obtain
+the coherence length ξ(0) by employing the relations H_(c2)(0) =
+ϕ₀/2πξ²(0). The latter yields ξ(0) = 45 nm, which is substantially
+larger than a few angstroms coherence length of high-T_(c)
+superconductors.
+
+In contrast to Refs. [19, 22, and 23] our estimations agree well with
+the Ginzburg-Landau parameter κ = λ/ξ. Using our values of λ_(p) and
+λ_(d) data we obtain κ_(p) = 3.8 and κ_(d) = 5.8. Both values of κ are
+larger then $1/\sqrt{2}$ that implies that ZrB₁₂ is clearly a type II
+superconductor at all T. Using the GL expression for H_(c1)(T) =
+ϕ₀ln κ/4πλ² we obtain H_(c2)/H_(c1) = 2κ²/ln κ. From the value H_(c2)(0)
+obtained above and the H_(c1) data from Fig. 9, we find κ = 6.3 and λ(0)
+= 280 nm which is in good agreement with the value λ(0) = 260 nm
+obtained from the two gap BCS fit for d-band. One could argue that the
+H_(c1)(T) obtained from our magnetic field measurements of λ(H) may
+reflect the flux entry field because of the Bean-Livingston surface
+barrier, rather then true H_(c1). However, the entry field
+H_(BL)=H_(c1)κ/ln κ (Ref. [49]) is three times larger than H_(c1) even
+when one uses κ = 6.3, so if we assume κ = 23 given by a ratio of
+H_(c2)/H_(c1) we obtain zero temperature λ(0) = 1030 nm, which is
+unreasonably large compared to one obtained from a BCS fit. This result
+is another confirmation of our suggestions.
+
+In contrast to the conventional BCS theory,[50]H_(c2)(T) dependence is
+linear over an extended temperature range with no evidence of saturation
+down to 0.35 K. Similar linear
+
+Figure 8: (Color online) Magnetic field variation of λ(H) of a single
+crystal ZrB₁₂ sample at different temperatures: 5.66, 5.53, 5.02, 4.06,
+3.45, 2.84, 2.15, and 1.43 K, from left to right. The solid lines are
+guides for the eye. The dotted line and the arrows describe how
+H_(c2)^(*) and H_(c2) have been deduced.
+
+Figure 10: (Color online) Temperature variations of H_(c2)(T) and
+H_(c1)(T) (stars) of ZrB₁₂. Symbols: H_(c2)^(*)(T) determined from ρ(H)
+(circles) and λ(H) (squares) extrapolations; closed points are the onset
+H_(c2)(T) data, as described in the text. Open circles and squares are
+ρ(T) data obtained in NHMFL. Dotted line is the BCS H_(c2)(T) data
+determined from the HW formula (Ref. [50]). The straight crosses are PCS
+data (Ref. [21]), tilted crosses are magnetization data (Ref. [22]), up
+triangles are C(H) data, and down triangles are the ρ(H) data from Refs.
+[19] and [23].
+
+Figure 9: (Color online) Low magnetic field variation of λ(T) of a ZrB₁₂
+sample at small fields at various temperatures: 5.8, 5.2, 4.8, 4.4, 3.8,
+3.5, 3.1, and 1.5 K, from left to right. The solid lines are guides for
+the eye. The dotted line is the linear extrapolation of the data used
+for H_(c1) determination.
+
+H_(c2)(T) dependence has been observed in MgB₂ (Refs. [51] and [52]) and
+BaNbO_(x) (Ref. [53]) compounds. One can describe this behavior of upper
+critical field using the two gap approach. According to Gurevich,[45]
+the zero-temperature value of the H_(c2)(0) is significantly enhanced in
+the two gap dirty limit superconductor model:
+
+$$H_{c2}(0)=\frac{\phi_{b}k_{B}T_{c}}{1.12\hbar\,\sqrt{D_{1}D_{2}}}\exp\left(\frac {g}{2}\right),$$
+(13)
+
+as compared to the one-gap dirty limit approximation
+H_(c2)(0) = ϕ_(b)k_(B)T_(c)/1.12ℏD. Here g is a rather complicated
+function of the matrix of the BCS superconducting coupling constants.
+
+In the limit of D₂ ≪ D₁ we can simply approximate g = |ln (D₂/D₁)|. The
+large ratio of D₂/D₁ leads to the enhancement of H_(c2)(0) and results
+in the upward curvature of the H_(c2)(T) close to T  = 0.[45] According
+to our λ(T) data (see above), we found very different diffusivities for
+p- and d-bands: D_(p)/D_(d) = 3. Thus we can speculate that the limiting
+value of H_(c2)(0) is dominated by d-band with lower diffusivity
+D_(d) = 17 cm²/s, while the derivative dH_(c2)/dT close to T_(c) is due
+to larger diffusivity band (D_(p) = 56 cm²/s). Indeed, simple estimation
+of D_(p) = 4ϕ_(b)k_(B)/π²ℏ(dH_(c2)/dT) = 40 cm²/s from a derivative
+dH_(c2)/dT = 0.027T/K close to T_(c) gives almost the same diffusivity
+relative to one estimated from λ(T) for the p-band. Thus we believe that
+the two gap theoretical model of Gurevich qualitatively explains the
+unconventional linear H_(c2)(T) dependence, which supports our
+conclusion about the two gap nature of superconductivity in ZrB₁₂.
+
+The possibility of the multigap nature of the superconducting state was
+predicted for a multiband superconductor with large difference of the
+e-p interaction at different FS sheets (see Ref. [24] and references
+therein). To date MgB₂ has been the only compound with the behavior
+consistent with the idea of two distinct gaps with the same T_(c). We
+believe that our data can add ZrB₁₂ as another unconventional example of
+multigap and multi-T_(c) superconductor. This conclusion contradicts
+several existing publications, however, we believe we can successfully
+defend our idea.
+
+The H_(c2)(T) dependence of ZrB₁₂ single crystals from the same Kiev
+group has been measured by three different groups mentioned above and
+are plotted in Fig. 10. Clearly, our H_(c2)(T) data are very similar to
+those obtained by Daghero _et al.[21]_ (straight crosses). The agreement
+is nearly perfect except the last data point at 1.8 K. The disagreement
+is in the interpretation. The authors of Ref. [21] concluded that ZrB₁₂
+is a conventional one gap s-wave superconductor with Δ(0) = 1.22 meV.
+Thus a strong coupling scenario with reduced energy gap of
+2Δ(0)/k_(B)T_(c) = 4.8 was proposed. One should note, however, that the
+gap signature in PCS data has been observed in a temperature range close
+to T_(c)(4.2 − 6 K), although the second gap signature feature should
+have been seen below $T_{c}^{\rm q}\!=\!4.35$ K, and could have been
+simply missed by the authors of Ref. [21] because of the limited
+temperature range of their measurements.
+
+There is nearly a two times difference between H_(c2)(T) obtained from
+tunneling and magnetic characterization data of Tsindlekht _et al.[22]_
+The same can be said about H_(c2)(T) obtained from C(H) and ρ(H) data of
+Lortz _et al.[19]_ and Wang _et al.[23]_ Tsindlekht _et al._ concluded
+that ZrB₁₂ is a type-II superconductor with the Ginzburg-Landau
+parameter κ slightly above the marginal value of $1/\sqrt{2}$. At the
+same time Wang _et al.[23]_ observed a crossover between type-I and
+type-II behavior of C(H) at 4.7 K in contrast to our data. In all those
+approximations, the validity of the one gap BCS picture is implicitly
+assumed. Large contradiction between the ρ(H) and C(H) data (see Fig.
+10) was attributed to surface superconductivity. One can mention another
+possible reason for this contradiction. In particular, data of Ref. [23]
+have been measured on the samples cut by a diamond saw without chemical
+etching of the surface damaged layer. This procedure may create a strong
+concentration gradient of boron in a surface layer and a substantial
+manifestation of the surface barriers for the flux lines resulting in
+this contradiction. One can also note that the discrepancies in
+H_(c2)(T) can be due to potentially large nonhomogeneity of the ZrB₁₂
+samples. Indeed, the Fig. 7 inset clearly demonstrates different
+transitions for our sample with no inclusions of ZrB₂ and the sample cut
+from ZrB₂ reaches part of an ingot (left line).
+
+We believe that this inconsistency of our data and the data of Refs.
+[19] and [21]-[23] can be (i) due to the two gap nature of
+superconductivity in ZrB₁₂, (ii) due to large uncertainty in determining
+of the zero temperature gap from very narrow temperature range of the
+measurements, and (iii) last but not least due to potentially large
+nonhomogeneity of the ZrB₁₂ samples that could have been used by those
+authors (see Fig. 2). Although observed two gap behavior of λ²(0)/λ²(T)
+in ZrB₁₂ is similar to that in high-T_(c) superconductors, observation
+of two different T_(c) in these bands is unconventional. This also
+relates to the linear H_(c2)(T) dependence in the wide temperature range
+up to T_(c). Striking two-gap BCS behavior observed calls certainly for
+a new study of low-T energy gap and H_(c)(T) of ZrB₁₂ for understanding
+the nature of superconductivity in this cluster compound.
+
+## VI Conclusions
+
+We performed systematic study of the temperature and magnetic field
+dependencies of the resistivity, magnetic penetration depth, lower,
+H_(c1)(T), and upper, H_(c2)(T), critical magnetic fields of the single
+crystals dodecaboride ZrB₁₂ and resistivity of diboride ZrB₂, as well as
+the magnetic penetration depth in thin films of MgB₂. While the
+temperature dependence of λ(T) in thin film MgB₂ is well described by an
+isotropic single gap s-type order parameter, we find unconventional
+behavior of ZrB₁₂ superfluid density with pronounced shoulder at T/T_(c)
+equal to 0.65. The H_(c2)(T) dependencies have been deduced from the
+ρ(H) and λ(H) data. Both techniques reveal an unconventional linear
+temperature dependence of H_(c2)(T), with a considerably low value of
+H_(c2)(0) = 0.16 T. We conclude therefore that ZrB₁₂ presents a evidence
+of the unconventional two-gap superconductivity with different Δ and
+T_(c) in the different bands.
+
+## Acknowledgments
+
+We would like to thank V. F. Gantmakher, A. Gurevich, R. Huguenin, D.
+van der Marel, and I. R. Shein for very useful discussions, V. B.
+Filipov, A. B. Lyashenko, and Yu. B. Paderno for preparation of ZrB₁₂
+and ZrB₂ single crystals, Hong-Ying Zhai, H. M. Christen, M. P.
+Paranthanam, and D. H. Lowndes for providing us high-quality MgB₂ films,
+A. Suslov for help in low-T measurements in NHMFL, L. S. Uspenskaja for
+help in metallographic analysis, and L. V. Gasparov for very useful
+cooperation in paper preparation. This work was supported by the Russian
+Council on High-Temperature Superconductivity (Grant Volna 4G), the
+Russian Scientific Programs: Surface Atomic Structures (Grant No.
+4.10.99) and Synthesis of Fullerenes and Other Atomic Clusters (Grant
+No. 541-028), Russian Ministry of Industry, Science and Technology
+(Grant Msh-2169.2003.2), the Russian Foundation for Basic Research
+(Grant No. 02-02-16874-a), and by the INTAS (Grant No. 2001-0617). A
+portion of this work was performed at the National High Magnetic Field
+Laboratory, which is supported by NSF Cooperative Agreement No.
+DMR-0084173 and the State of Florida.
+
+## References
+
+* (1) J. Nagamatsu, N. Nakagawa, T. Muranaka, Y. Zanitani, and J.
+Akimitsu, Nature (London) **410**, 63 (2001). * (2) V. A. Gasparov, N.
+S. Sidorov, I. I. Zver’kova, and M. P. Kulakov, JETP Lett. **73**, 601
+(2001). * (3) Z. Fisk, in _Boron-Rich Solids_, edited by D. Emin, T. L.
+Asclage, A. C. Switendick, B. Morosin, and C. L. Beckel, AIP Conf. Proc.
+No. 231 (AIP, New York, 1991), p. 155. * (4) A. Yamamoto, C. Takao, T.
+Masui, M. Izumi, and S. Tajima, Physica C **383**, 197 (2002). * (5) R.
+Escamilla, O. Lovera, T. Akachi, A. Duran, R. Falconi, F. Morales, and
+R. Escudero, J. Phys.: Condens. Matter **16**, 5979 (2004). * (6) D. P.
+Young, R. G. Goodrich, P. W. Adams, J. Y. Chan, F. R. Fronczek, F.
+Drymiotis, and L. L. Henry, Phys. Rev. B **65**, 180518(R) (2002). * (7)
+N. Ashcroft, Phys. Rev. Lett. **21**, 1748 (1968). * (8) J. Kortus, I.
+I. Mazin, K. D. Belashchenko, V. P. Antropov, and L. L. Boyer, Phys.
+Rev. Lett. **86**, 4656 (2001). * (9) K. Tanigaki, T. W. Ebbesen, S.
+Saito, J. Mizuki, J. S. Tsai, Y. Kubo, and S. Kuroshima, Nature (London)
+**352**, 222 (1991). * (10) O. Gunnarsson, Rev. Mod. Phys. **69**, 575
+(1997). * (11) B. T. Matthias, T. H. Geballe, K. Andres, E. Corenzwit,
+G. Hull, and J. P. Maita, Science **159**, 530 (1968). * (12) Y.
+Paderno, N. Shitsevalova, I. Batko, K. Flahbart, H. Misiorek, J. Mucha,
+and A. Jezowski, J. Alloys Compd. **219**, 215 (1995). * (13) C. W. Chu
+and H. H. Hill, Science **159**, 1227 (1968). * (14) Z. Fisk, A. C.
+Lawson, B. T. Matthias, and E. Corenzwit, Phys. Lett. A **37**, 251
+(1971). * (15) V. A. Gasparov, N. S. Sidorov, M. P. Kulakov, I. I.
+Zver’kova, V. P. Kobyakov, Hong-Ying Zhai, H. M. Christen, M. P.
+Paranthaman, and D. H. Lowndes, _Book of abstracts of BOROMAG Conf.
+(Geno, Italy)_ (2002), p. 52. * (16) V. A. Gasparov, N. S. Sidorov, I.
+I. Zver’kova, S. S. Khassanov, and M. P. Kulakov, JETP **128**, 115
+(2005). * (17) V. A. Gasparov, N. S. Sidorov, I. I. Zver’kova, V. B.
+Filipov, A. B. Lyashenko, and Yu. B. Paderno, _Book of Abstracts of 6th
+Biennial International Workshop on Fullertenes and Atomic Clusters_ (St.
+Petersburg, 2003), p. 83; _Book of Abstracts of 10th International
+Workshop on Oxide Electronics_ (Augsburg, 2003), p. 184. * (18) V. A.
+Gasparov, M. P. Kulakov, N. S. Sidorov, I. I. Zver’kova, V. B. Filipov,
+A. B. Lyashenko, and Yu. B. Paderno, Pis’ma Zh. Eksp. Teor. Fiz. **80**,
+376 (2004) [JETP Lett. **80**, 330 (2004)]. * (19) R. Lortz, Y. Wang, S.
+Abe, C. Meingast, Yu. B. Paderno, V. Filippov, and A. Junod, Phys. Rev.
+B **72**, 024547 (2005). * (20) I. R. Shein and A. L. Ivanovskii, Fiz.
+Tverd. Tela (Leningrad) **45**, 1363 (2003) [Phys. Solid State **45**,
+1429 (2003)]. * (21) D. Daghero, R. S. Gonnelli, G. A. Ummarino, A.
+Calzolari, V. Dellarocca, V. A. Stepanov, V. B. Filippov, and Y. B.
+Paderno, Supercond. Sci. Technol. **17**, S250 (2004). * (22) M. I.
+Tsindlekht, G. I. Leviev, I. Asulin, A. Sharoni, O. Millo, I. Felner,
+Yu. B. Paderno, V. B. Filippov, and M. A. Belogolovskii, Phys. Rev. B
+**69**, 212508 (2004); G. I. Leviev, V. M. Genkin, M. I. Tsindlekht, I.
+Felner, Yu. B. Paderno, and V. B. Filippov, cond-mat/0410356
+(unpublished). * (23) Y. Wang, R. Lortz, Yu. Paderno, V. Filippov, S.
+Abe, U. Tutsch, and A. Junod, Phys. Rev. B **72**, 024548 (2005). * (24)
+A. Brinkman, A. A. Golubov, H. Rogalla, O. V. Dolgov, J. Kortus, Y.
+Kong, O. Jepsen, and O. K. Andersen, Phys. Rev. B **65**, 180517(R)
+(2001); A. A. Golubov, A. Brinkman, O. V. Dolgov, J. Kortus, and O.
+Jepsen, _ibid._**66**, 054524 (2002). * (25) Yu. Paderno, A.
+Liashchenko, V. Filippov, and A. Dukhnenko, _Science for Materials in
+the Frontier of Centuries: Advantages and Challenges_, edited by V. V.
+Skorokhod (IPM NASU, Kiev, 2002), p. 347. * New Cryst. Struct. **217**,
+319 (2002). * (27) M. Paranthaman, C. Cantoni, H. Y. Zhai, H. M.
+Christen, T. Aytug, S. Sathyamurthy, E. D. Specht, J. R. Thompson, D. H.
+Lowndes, H. R. Kerchner, and D. K. Christen, Appl. Phys. Lett. **78**,
+3669 (2001). * (28) V. A. Gasparov, M. R. Mkrtchyan, M. A. Obolensky,
+and A. V. Bondarenko, Physica C **1**, 197 (1994). * (29) C. Varmais and
+M. Strongin, Phys. Rev. B **10**, 1885 (1974). * (30) V. A. Gasparov and
+A. P. Oganesyan, Physica C **178**, 445 (1991). * (31) A. Gauzzi, J. Le
+Cochee, G. Lamura, B. J. Jonsson, V. A. Gasparov, F. R. Ladan, B.
+Placais, P. A. Probst, D. Pavuna, and J. Bok, Rev. Sci. Instrum. **71**,
+2147 (2000). * (32) V. A. Gasparov, G. Tsydynzhapov, I. E. Batov, and Qi
+Li, J. Low Temp. Phys. **139**, 49 (2005). * (33) G. Lamura, E. Di
+Gennaro, M. Salluzzo, A. Andreone, J. Le Cochee, A. Gauzzi, C. Cantoni,
+M. Paranthaman, D. K. Christen, H. M. Christen, G. Giunchi, and S.
+Ceresara, Phys. Rev. B **65**, 020506(R) (2001). * (34) I. R. Shein, N.
+I. Medvedeva, and A. L. Ivanovskii, Fiz. Tverd. Tela (Leningrad) **45**,
+1541 (2003) [Phys. Solid State **45**, 1617 (2003)]. * (35) J. M. Ziman,
+_Electrons and Phonons, Theory of Transport Phenomena in Solids_ (Oxford
+University Press, Oxford, England, 1960). * (36) V. F. Gantmakher, Rep.
+Prog. Phys. **37**, 317 (1974). * (37) V. A. Gasparov and R. Huguenin,
+Adv. Phys. **42**, 393 (1993).
+
+* [38] J. Halbritter, Z. Phys. **243**, 201 (1971). * [39] J. B.
+Ketterson and S. N. Song, _Superconductivity_ (Cambridge University
+Press, Cambridge, England, 1999). * [40] W. N. Hardy, D. A. Bonn, D. C.
+Morgan, R. Liang, and K. Zhang, Phys. Rev. Lett. **70**, 3999 (1993). *
+[41] D. A. Bonn, S. Kamal, K. Zhang, R. Liang, D. J. Baar, E. Klein, and
+W. N. Hardy, Phys. Rev. B **50**, 4051 (1994). * [42] N. Klein, N.
+Tellmann, H. Schulz, K. Urban, S. A. Wolf, and V. Z. Kresin, Phys. Rev.
+Lett. **71**, 3355 (1993). * [43] N. Schopohl and O. V. Dolgov, Phys.
+Rev. Lett. **80**, 4761 (1998); **81**, 4025 (1998). * [44] A.
+Carrington, F. Manzano, R. Prozorov, R. W. Giannetta, N. Kameda, and T.
+Tamegai, Phys. Rev. Lett. **86**, 1074 (2001). * [45] A. Gurevich, Phys.
+Rev. B **67**, 184515 (2003). * [46] R. S. Gonnelli, D. Daghero, G. A.
+Ummarino, V. A. Stepanov, J. Jun, S. M. Kazakov, and J. Karpinski, Phys.
+Rev. Lett. **89**, 247004 (2002). * [47] F. Manzano, A. Carrington, N.
+E. Hussey, S. Lee, A. Yamamoto, and S. Tajima, Phys. Rev. Lett. **88**,
+047002 (2002). * [48] B. B. Jin, N. Klein, W. N. Kang, H.-J. Kim, E.-M.
+Choi, S.-I. Lee, T. Dahm, and K. Maki, Phys. Rev. B **66**, 104521
+(2002). * [49] P. G. de Gennes, _Superconductivity of Metals and Alloys_
+(Addison-Wesley, New York, 1989), p. 79. * [50] E. Helfand and N. R.
+Werthamer, Phys. Rev. Lett. **13**, 686 (1964); Phys. Rev. **147**, 288
+(1966). * [51] L. Lyard, P. Samuely, P. Szabo, T. Klein, C. Marcenat, L.
+Paulius, K. H. P. Kim, C. U. Jung, H.-S. Lee, B. Kang, S. Choi, S.-I.
+Lee, J. Marcus, S. Blanchard, A. G. M. Jansen, U. Welp, G. Karapetrov,
+and W. K. Kwok, Phys. Rev. B **66**, 180502(R) (2002). * [52] A. V.
+Sologubenko, J. Jun, S. M. Kazakov, J. Karpinski, and H. R. Ott, Phys.
+Rev. B **65**, 180505(R) (2002). * [53] V. A. Gasparov, S. N. Ermolov,
+G. K. Strukova, N. S. Sidorov, S. S. Khassanov, H.-S. Wang, M.
+Schneider, E. Glaser, and W. Richter, Phys. Rev. B **63**, 174512
+(2001); V. A. Gasparov, S. N. Ermolov, S. S. Khassanov, G. K. Strukova,
+L. V. Gasparov, H.-S. Wang, Qi Li, M. Schnider, W. Richter, E. Glaser,
+F. Schmidl, P. Seidel, and B. L. Brandt, Physica B **284-288**, 1119
+(2000).

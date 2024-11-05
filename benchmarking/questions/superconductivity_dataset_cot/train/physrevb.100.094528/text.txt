@@ -1,0 +1,216 @@
+Pressure-induced superconductivity in the layered pnictogen diselenide NdO\({}_{0.8}\)F\({}_{0.2}\)Sb\({}_{1-x}\)Bi\({}_{x}\)Se\({}_{2}\) (\(x\) = 0.3 and 0.7)
+
+Ryo Matsumoto
+
+Yosuke Goto
+
+y_goto@tmu.ac.jp National Institute of Materials Science, 1-2-1 Sengen, Tsukuba, Ibaraki 305-0047, Japan
+
+Sayaka Yamamoto
+
+National Institute of Technology, Yonago College, 4448 Hikona, Yonago, Tottori 683-8502, Japan Department of Physics, Tokyo Metropolitan University, 1-1 Minami-osawa, Hachioji, Tokyo 192-0397, Japan
+
+Kenta Sudo
+
+y_goto@tmu.ac.jp Department of Physics and Materials Science, Shimane University, Matsue, 690-8504, Japan
+
+Hidetomo Usui
+
+Department of Physics, Hokkaido University, Kita 13, Nishi 8 Sapporo 060-8628, Japan
+
+Akira Miura
+
+Faculty of Engineering, Hokkaido University, Kita 13, Nishi 8 Sapporo 060-8628, Japan
+
+Chikako Moriyoshi
+
+Department of Physical Science, Hiroshima University, 1-3-1 Kagamiyama, Higashihiroshima, Hiroshima 739-8526, Japan
+
+Yoshihiro Kuroiwa
+
+Yoshikazu Mizuguchi
+
+National Institute of Materials Science, 1-2-1 Sengen, Tsukuba, Ibaraki 305-0047, Japan
+
+Yoshihiko Takano
+
+National Institute of Materials Science, 1-2-1 Sengen, Tsukuba, Ibaraki 305-0047, Japan Department of Physics, Tokyo Metropolitan University, 1-1 Minami-osawa, Hachioji, Tokyo 192-0397, Japan
+
+Kazuhiko Kuroiwa
+
+Yoshikazu Mizuguchi
+
+National Institute of Materials Science, 1-2-1 Sengen, Tsukuba, Ibaraki 305-0047, Japan
+
+Yoshihiko Takano
+
+National Institute of Materials Science, 1-2-1 Sengen, Tsukuba, Ibaraki 305-0047, Japan Department of Physics, Osaka University, Toyonaka, Osaka 560-0043, Japan
+
+###### Abstract
+
+Polycrystalline samples of layered pnictogen (Pn) diselenide NdO\({}_{0.8}\)F\({}_{0.2}\)Sb\({}_{1-x}\)Bi\({}_{x}\)Se\({}_{2}\) (\(x\) = 0 to 0.8) were successfully synthesized by solid-state reactions. Electrical resistivity in the synthesized samples systematically decreases with an increase in Bi content \(x\), accompanied by an insulator to metal-like transition at \(x\) = 0.5\(-\)0.6. Crystal structure analysis using synchrotron x-ray diffraction suggests that this transition correlates with anomalous change in _c_-axis length and/or distortion in Pn\(-\)Se conducting plane. Emergence of pressure-induced superconductivity was investigated using a diamond anvil cell with boron-doped diamond electrodes, employing \(x\) = 0.3 and 0.7 as the representative samples. For the Sb-rich one (_x_ = 0.3), we observed a signature of superconducting transition with \(T_{\text{c}}\)\({}^{\text{onset}}\) = 5.15 \(\pm\) 0.05 K at 50 GPa. The \(T_{\text{c}}\)\({}^{\text{onset}}\) of \(x\) = 0.3 increased with increasing pressure and reached 7.65 \(\pm\) 0.05 K at 70.8 GPa, followed by the gradual decrease in \(T_{\text{c}}\) up to 90 GPa. For the Bi-rich one (_x_ = 0.7), a superconducting transition with \(T_{\text{c}}\)\({}^{\text{onset}}\) = 5.5 \(\pm\) 0.6 K was induced at 43.5 GPa, which is almost comparable to that of \(x\) = 0.3; besides, upper critical field (_H_1/2) is evaluated to be ~10 T for \(x\) = 0.7, which is higher than that of \(x\) = 0.3 (_H_1/2 = 6.7 T at 50 GPa).
+
+DOI: 10.1103/PhysRevB.100.094528
+
+## I Introduction
+
+Since the discovery of the BiCh\({}_{2}\)-based (Ch: S, Se) layered superconductors in 2012, such as Bi\({}_{4}\)O\({}_{4}\)S\({}_{3}\) and _R_(O, F)BiS\({}_{2}\) (_R_: rare-earth element), this family of compounds has received much attention as a class of layered superconductors [1, 2, 3, 4, 5, 6, 7, 8]. The crystal structure is composed of alternate stacks of electrically conducting BiCh\({}_{2}\) layers and insulating (blocking) carrier reservoir layers, as schematically depicted in Fig. 1. Several types of BiCh\({}_{2}\)-based superconductors have been reported, and the highest-record \(T_{c}\) of 11 K was obtained for LaO\({}_{0.5}\)F\({}_{0.5}\)BiS\({}_{2}\) using high-pressure technique [3, 9]. In the early stages of research on a paring mechanism of BiCh\({}_{2}\)-based compounds, it was suggested that the conventional superconductivity with a fully gapped _s_-wave state is realized, on the basis of the first-principles calculation [10], Raman scattering [11], muon-spin spectroscopy [12], and thermal conductivity [13] experiments. However, recent first-principles calculations [14], angle-resolved photoemission spectroscopy [15], and the Se isotope effect [16] proposed the possibility of unconventional pairing mechanisms in BiCh\({}_{2}\)-based superconductors.
+
+Generally speaking, the parent phase of BiCh\({}_{2}\)-based compounds is band gap insulators. These compounds show superconductivity when electron carriers are generated at the conduction bands. Because the conduction bands are mainly composed of hybridization between Bi 6\(p\) and Ch \(p\) orbitals [17, 18], it is quite reasonable to expect that the understanding of the isovalent doping effects of Sb for Bi is essentially important to elucidate the superconducting mechanisms and the underlying physics in this family of compounds. In addition, Sb-doped BiCh\({}_{2}\)-based compounds, namely SbCh\({}_{2}\)-based compounds, are also attractive from the viewpoint of the thermoelectric and topological materials [19, 20, 21]. However, most of SbCh\({}_{2}\)-based compounds have been insulators so far, in spite of attempts to dope electron carriers [22, 23, 24, 25, 26]. Although the origin of insulating nature in SbCh\({}_{2}\)-based compounds has not yet been fully understood, it is probably due to insufficient orbital overlapping between Sb 5\(p\) and Ch \(p\) orbitals [27]. This scenario is supported by the observation of insulator to metal transition for Ce(O, F)SbS\({}_{2}\) under high pressure, which promotes orbital overlapping [25].
+
+  Recently, we have reported the effects of Bi doping on high-temperature thermoelectric transport properties of SbSe\({}_{2}\)-based layered compounds NdO\({}_{0.8}\)F\({}_{0.25}\)Sb\({}_{1-x}\)Bi\({}_{x}\)Se\({}_{2}\) (\(x\leqslant 0.4\)) [26]. Room temperature electrical resistivity was decreased down from 300 m\(\Omega\) cm for \(x=0\) to 8 m\(\Omega\)cm for \(x=0.4\). However, the temperature dependence of electrical resistivity was still insulating for \(x\leqslant 0.4\), despite that the F-doping content is 20%. In this study, we show that Bi-rich composition up to \(x=0.8\) can be obtained by optimizing synthesis temperature. Electrical resistivity in the synthesized samples was systematically decreased with an increase in Bi content \(x\), accompanied by an insulator to metal-like transition at \(x=0.5-0.6\). Electrical transport of \(x=0.3\) and 0.7 was examined under high pressure exceeding 50 GPa using diamond anvil cell (DAC) with boron-doped diamond electrodes. It was found that both samples show resistance drop at low temperature, which is a signature of superconductivity in these compounds.
+
+## II Method
+
+### Sample preparation
+
+Polycrystalline samples of NdO\({}_{0.8}\)F\({}_{0.2}\)Sb\({}_{1-x}\)Bi\({}_{x}\)Se\({}_{2}\) (\(x=0\), 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8) were prepared by solid-state reactions using dehydrated NdO\({}_{3}\), NdSe, NdSe\({}_{2}\), Sb (99.9%), Bi (99.999%), and Se (99.999%) as starting materials. The dehydrated Nd\({}_{2}\)O\({}_{3}\) was prepared by heating commercial Nd\({}_{2}\)O\({}_{3}\) powder (99.9%) at 600 degC for 10 h in air. To obtain the NdSe and NdSe\({}_{2}\) mixtures, Nd (99.9%) and Se in a molar ratio of 2:3 were heated at 500 degC for 10 h in an evacuated silica tube. Because the Nd powder is reactive in air and a moist atmosphere, this process was carried out in an Ar-filled glovebox with a gas-purifier system. Then, a stoichiometric mixture of these starting materials was pressed into a pellet and heated for 15 h at 700 degC for \(x\leqslant 0.4\) and at 650 degC for \(x\geqslant 0.5\) in an evacuated silica tube. The obtained sample was ground, mixed, pelletized, and heated with the same heating condition. It should be noted that lowered synthesis temperature (650 degC) is employed for \(x\geqslant 0.5\), because amounts of impurity phases, Bi\({}_{2}\)Se\({}_{3}\) and Nd\({}_{2}\)O\({}_{2}\)Se, was significant when these samples were synthesized at 700 degC.
+
+### Characterization
+
+The chemical compositions of the obtained samples were examined using an energy dispersive x-ray spectrometer (EDX; Oxford, SwiftED3000). The phase purity and crystal structure of the samples were examined by synchrotron powder x-ray diffraction (SPXRD) performed at the BL02B2 beamline of SPring-8 (proposal numbers 2018A0074 and 2018B1246). The measurements were performed at 297 K. The diffraction data were collected using a high-resolution one-dimensional semiconductor detector (multiple MYTHEN system) [28]. The wavelength of the radiation beam was determined to be 0.495274(1) A (proposal number 2018A0074) and 0.496345(1) A (No. 2018B1246) using a CeO\({}_{2}\) standard. The crystal structure parameters were refined by the Rietveld method using RIETAN-FP software [29]. The crystal structure was visualized using vesta software [30].
+
+### Transport measurement
+
+Electrical resistivity at ambient pressure was measured using the four-probe method on a GM refrigerator system. Measurements of electrical resistance under high pressure were performed on polycrystalline powder using an originally designed DAC with boron-doped diamond electrodes [25, 31, 32] on the bottom anvil of nanopolycrystalline diamond [33], as shown in Fig. 2. The sample was placed on the boron-doped diamond electrodes in the center of the bottom anvil. The surface of the bottom anvil, except for the sample space and electrical terminal, were covered by the undoped diamond insulating layer. The cubic boron nitride powders with ruby manometer were used as a pressure-transmitting medium. The applied pressure (\(P\)) was estimated by the fluorescence from ruby powders [34] and the Raman spectrum from the culet of top diamond anvil [35] by an inVia Raman Microscope (RENISHAW). The resistance was measured by a standard four-probe method on a Physical Property Measurement System (Quantum Design: PPMS).
+
+Figure 1: Crystal structure of NdO\({}_{0.8}\)F\({}_{0.2}\)Sb\({}_{1-x}\)Bi\({}_{x}\)Se\({}_{2}\) (\(x=0.3\)), which belongs to the tetragonal \(P4/mm\) space group. The black line denotes the unit cell. Se ions have two crystallographic sites: in-plane (Se1) and out-of-plane (Se2). Pnictogen (Sb and Bi) is denoted as Pn.
+
+Figure 2: Optical image of the sample space of DAC with boron-doped diamond electrodes.
+
+  
+
+### First-principles calculation
+
+Density functional theory calculations were performed using vasp software [36, 37, 38, 39]. This code implements the projector-augmented wave method [40]. The electronic structures were self-consistently calculated within the generalized gradient approximation proposed by Perdew, Burke, and Ernzerhof [41]. Here, we set a 15 \(\times\) 15 \(\times\) 5k mesh and cutoff energy of 550 eV with the inclusion of spin-orbit coupling. The virtual crystal approximation was used to take into account the effect of partial substitution of F for O and Bi for Sb, respectively. For the calculations, we adopted the experimentally determined crystal structures described in Table S1 in the Supplemental Material [42].
+
+## III Results and discussion
+
+### Crystal structure and chemical composition
+
+Figure 3 shows the SPXRD pattern and Rietveld fitting results for \(x=0.7\) as a representative data. Almost all the diffraction peaks can be assigned to those of the tetragonal \(P4/mmm\) space group, indicating that the obtained sample is mainly composed of NdO\({}_{0.8}\)F\({}_{0.2}\)Sb\({}_{1-x}\)Bi\({}_{x}\)Se\({}_{2}\)-type phase. However, several peaks attributable to impurity phases, Nd\({}_{2}\)O\({}_{2}\)Se (4.1 wt %), NdOF (1.9 wt %), and Bi\({}_{2}\)Se\({}_{3}\) (0.8 wt%), were also observed. Most of the diffraction peaks for other samples can also be assigned to those of the tetragonal \(P4/mmm\) space group, as shown in Fig. S1. Amounts of impurity phases are significant for \(x=0.8\), Nd\({}_{2}\)O\({}_{2}\)Se (13.2 wt %) and Bi\({}_{2}\)Se\({}_{3}\) (12.9 wt %), as summarized in Fig. S2, suggesting the solubility limit of Bi for Sb in NdO\({}_{0.8}\)F\({}_{0.2}\)Sb\({}_{1-x}\)Bi\({}_{x}\)Se\({}_{2}\) is at around this composition. Figure 4(a) shows the chemical composition ratios of Nd, Sb, Bi, and Se determined using EDX. The results indicate that the chemical compositions of the obtained samples are in reasonable agreement with the nominal compositions of the starting materials.
+
+Figure 4(b) depicts the calculated lattice parameters. The lattice parameter \(a\) increased almost linearly with increasing \(x\) owing to the larger ionic radius of Bi ions than that of Sb ions (Shannon's five-coordinate ionic radius, \(r_{\text{Bi}}{}^{3+}=96\,\text{pm}\) and \(r_{\text{Sb}}{}^{3+}=80\,\text{pm}\)) [43]. On the other hand, the \(c\) exhibits anomalous change at around \(x=0.5-0.6\). Namely, the \(c\)-axis length exhibits longer value than that expected from linear trend. Although the origin of this deviation from linear relationship between \(c\) and \(x\) is not yet clear, it seems to be correlated to electrical carrier transport of the present samples, as described below. Note that \(c\)-axis length tends to correlate with amount of electron doping in the BiCh\({}_{2}\)-based systems [2, 3, 4, 5, 6, 7, 8].
+
+Figure 4: (a) The \(x\) dependences of chemical composition ratios of Nd, Sb, Bi, and Se determined using EDX. Dashed lines represent the nominal composition of the starting materials. (b) Calculated lattice parameters from the Rietveld refinement. The error bars are less than the size of the symbols.
+
+Figure 3: SPXRD pattern and Rietveld fitting results for \(x=0.7\) as a representative data of NdO\({}_{0.8}\)F\({}_{0.2}\)Sb\({}_{1-x}\)Bi\({}_{x}\)Se\({}_{2}\). The measurement was performed at 297 K. The wavelength of the radiation beam was determined to be 0.496345(1) Å. The circles and solid curve represent the observed and calculated patterns, respectively, and the difference between the two is shown at the bottom. The vertical marks indicate the Bragg diffraction positions for NdO\({}_{0.8}\)F\({}_{0.2}\)Sb\({}_{0.3}\)Bi\({}_{0.3}\)Se\({}_{2}\), Nd\({}_{2}\)O\({}_{2}\)Se, NdOF, and Sb\({}_{2}\)Se\({}_{3}\), from top to bottom, respectively. SPXRD patterns of other samples are shown in the Supplemental Material [42].
+
+ Figures 5(a)-5(d) show selected bond distances and angle. Bond distances for in-plane Bi/Sb (Pn)-Se1 and Pn-Se2 increased almost linearly with increasing \(x\), consistent with an increase in lattice parameters. On the other hand, the interplane Pn-Se1 distance is in 3.43 \(\pm\) 0.03 A for all of examined samples. As a result, Se1-Pn-Se1 bond angle tends to decrease with increasing \(x\). This indicates that Pn\(-\)Se1 plane is distorted by Bi doping. The Se1-Pn-Se1 bond angle can be classified into two groups, namely, Se1-Pn-Se1 bond angle of \(\sim\)171\({}^{\circ}\) for Sb-rich composition (\(x\leqslant 0.3\)), and of \(\sim\)169\({}^{\circ}\) for Bi-rich composition (\(x\geqslant 0.6\)). As shown below, the temperature dependence of electrical resistivity near room temperature turns from insulating to metallic behavior at the intermediate region, \(x\) = 0.5\(-\)0.6. It should be noted that the distortion of Pn\(-\)Se1 plane by applying chemical pressure is similar to the case of LaO\({}_{0.5}\)F\({}_{0.5}\)Bi(S, Se)\({}_{2}\)[27].
+
+### Transport properties under ambient pressure
+
+Figure 6(a) shows the temperature dependence of electrical resistivity measured under ambient pressure. For \(x\) = 0, electrical resistivity increased with decreasing temperature, leading to \(\sim\)10\({}^{5}\Omega\) cm at 2 K. As shown in Fig. 6(b), room temperature electrical resistivity tends to decrease with increasing \(x\), in spite of isovalent doping of Bi for Sb. This is most likely due to increased overlapping between Sb/Bi \(p\) and Se \(p\) orbitals, so-called in-plane chemical pressure effects, as established in BiCh\({}_{2}\)-based compounds [27]. As shown in Fig. 6(c), temperature dependence of electrical resistivity turns from insulating to metallic-like behavior at \(x\) = 0.5\(-\)0.6, in which anomalous change of \(c\)-axis length and Se1-Pn-Se1 bond angle is observed [see Figs. 4(b) and 5(d)]. Notably, weakly localized (insulating) behavior is still observed at low temperature for all samples. For example, electrical resistivity increases with decreasing temperature below 20 K for \(x\) = 0.8. We note that transport measurements were performed on polycrystalline samples in this study. Usually, the transport properties of the polycrystalline sample have some uncertainty due to the presence of, e.g., the impurity phase, grain boundary, and anisotropy. Our samples have a purity of approximately \(>\)94% on the basis of Rietveld analysis except for \(x\) = 0.4 and 0.8, as summarized in Fig. S2. Typical impurity phases are NdOF, Sb\({}_{2}\)Se\({}_{3}\), and Bi\({}_{2}\)Se\({}_{3}\), which are known as semiconductors or insulators at ambient conditions. Therefore, electrical conductivity is dominated by NdO\({}_{0.8}\)F\({}_{0.2}\)Sb\({}_{1-x}\)Bi\({}_{x}\)Se\({}_{2}\). Regarding grain boundary,
+
+Figure 5: Selected bond distances and angle for NdO\({}_{0.8}\)F\({}_{0.2}\)Sb\({}_{1-x}\)Bi\({}_{x}\)Se\({}_{2}\): (a) in-plane Pn-Se1 distance, (b) Pn-Se2 distance, (c) interplane Pn-Se1 distance, and (d) Se1-Pn-Se1 angle. The error bars determined using statistical errors of the Rietveld refinement are less than the size of the symbols.
+
+  it is reasonable to expect that the effects on electrical resistivity is temperature independent. At the same time, it seems to be reasonable that anisotropy is almost unchanged by doping, because the present samples are isostructural compounds. Therefore, it is safely concluded that the transition from insulator to metals/superconductor is an intrinsic property of NdO\({}_{0.8}\)F\({}_{0.2}\)Sb\({}_{1-x}\)Bi\({}_{x}\)Se\({}_{2}\), despite the polycrystalline nature of the samples.
+
+### Transport properties under high pressure
+
+To investigate the electrical transport under high pressure, we employed \(x=0.3\) and \(0.7\) as the representatives of Sb-rich and Bi-rich composition, respectively. It should be noted that \(x=0.8\) is ruled out for high pressure measurements because of the existence of a non-negligible amount of Bi\({}_{2}\)Se\({}_{3}\) secondary phase (12.9 wt %), which shows superconductivity under high pressure [44, 45]. Bi\({}_{2}\)Se\({}_{3}\) content in \(x=0.3\) and \(0.7\) was evaluated to be \(0.4\) and \(0.8\) wt %, respectively.
+
+Figure 7 shows the temperature dependences of electrical resistance for \(x=0.3\) under various pressures (a) from 12.2 to 50 GPa, and (b) from 50 to 90 GPa. It is difficult to measure \(P=0\) data because the contact between the sample and electrodes are kept by a pressure welding. The resistance decreases with increasing pressure. Although the data under 23.7, 29.1, and 36.4 GPa were noisy probably due to a high contact resistance at the low temperature region, the contact was improved by an increase of the pressure. A sudden drop of resistance was observed at \(5.15\pm 0.05\) K at 50 GPa, corresponding to an indication of a superconducting transition. The criterion for \(T_{c}\) is described below. At 57.2 GPa, the resistance at 10 K decreases about four orders in magnitude as compared to that at 12.2 GPa, showing the insulator to metal transition at this pressure. The broadening features of the resistance curve below 50 K at 57.2 and 64.1 GPa were observed. Although the reason for this broad feature is still unclear, it could not be attributed to superconductivity because the normal resistance above 7-8 K was independent of the applied magnetic field, as later shown in Fig. 8. The resistance continued to decrease up to 90 GPa, and then, the diamond anvil was broken. It should be noted that zero resistivity was not observed at low temperature, most likely due to inhomogeneity of applied pressure for polycrystalline sample, which is generally occurred with DAC systems [46].
+
+Figure 7(c) shows resistance below 10 K for \(x=0.3\) under various pressures from 50 to 90 GPa. In the present study, we evaluated \(T_{c}\) as follows: (1) \(T_{c}\) upper was determined from a branch point on the differential curve under 0 and 7 T (or sufficiently high magnetic fields), as shown in Fig. S3(a). (2) \(T_{c}\) lower was determined from an intersection point between the strait line of the normal resistance region and the extended line from resistance after superconducting transition under 0 and 7 T (or sufficiently high magnetic fields, see Fig. S3(b)). (3 \(T_{c}\) outer was determined from the average value of \(T_{c}\) upper and \(T_{c}\) lower. (4) These three kinds of \(T_{c}\) value were used for the error bars. We first observed the superconducting transition with \(T_{c}\)\({}^{\text{onset}}=5.15\pm 0.05\) K under 50 GPa. The \(T_{c}\)\({}^{\text{onset}}\) was enhanced with an increase of applied pressure up to 70.8 GPa, reaching the maximum \(T_{c}\)\({}^{\text{onset}}\) of 7.65 \(\pm\) 0.05 K. Under further compression, the \(T_{c}\)\({}^{\text{onset}}\) was gradually decreased.
+
+To confirm that the observed drop of resistance originates from the superconductivity, we measured the resistance under magnetic fields. Figure 8 shows temperature dependences of resistance for \(x=0.3\) in magnetic fields under representative pressures of (a) 50 GPa, (b) 70.8 GPa, and (c) 90 GPa. The drops of resistance are gradually suppressed by an increase of applied magnetic field, indicating the drops of resistance come from the superconductivity. The insets show the temperature dependences of upper critical field \(H_{c2}\) estimated from the Werthamer-Helfand-Hohenberg (WHH) approximation for type II superconductors in a dirty limit [47]. The \(H_{c2}(0)\) was evaluated to be 6.7, 5.6, and 4.6 T at 50, 70.8, and 90 GPa, respectively, which are comparable to that of BiCh\({}_{2}\)-based superconductors.
+
+Figure 9(a) shows temperature dependences of resistance in Bi-rich sample, \(x=0.7\), under pressures from 0.6 to 52 GPa. An insulating behavior was observed up to 36.5 GPa, while resistivity of this composition measured at ambient
+
+Figure 6: (a) Temperature (\(T\)) dependence of logarithmic resistivity (\(\rho\)) in NdO\({}_{0.8}\)F\({}_{0.2}\)Sb\({}_{1-x}\)Bi\({}_{x}\)Se\({}_{2}\) (\(x=0-0.8\)) measured at ambient pressure. (b) \(\rho\) vs. \(T\) at room temperature. (c) Normalized \(\rho\)_vs._\(T\) for \(x=0.4-0.8\). The inset shows expanded view above 180 K.
+
+  pressure shows metallic behavior at temperatures between 100 and 300 K [see Fig. 6(c)]. This is probably due to weak coupling at grain boundary, because the measurements under high pressure are performed on polycrystalline powder samples. We can see the hump-like broad anomaly around 200 K between 0.6 and 36.5 GPa. This anomaly is suppressed by increasing pressure up to 43.5 GPa, where the resistance drop corresponding to the superconducting transition was observed at 5.5 \(\pm\) 0.6 K. This is quite similar to the case of pressure-induced superconductivity in EuFiBiS\({}_{2}\)[48], although the origin of the anomaly around 200 K is still unclear. For \(x=0.7\), the critical parameters to induce superconductivity (\(T_{c}\) and \(P_{c}\)) are almost comparable to those of \(x=0.3\). Figures 9(b) and 9(c) show the temperature dependences of resistance in \(x=0.7\) under magnetic fields at (b) 43.5 GPa and (c) 52.0 GPa. Again, suppression of drops in resistance by applying magnetic field indicate that this corresponds to a superconducting transition. The \(H_{c2}(0)\) of \(x=0.7\) was evaluated to be 10.9 and 9.4 T at 43.5 and 52.0 GPa, respectively. These are distinctly higher than that of \(x=0.3\).
+
+Figures 10(a) and 10(b) show pressure-phase diagrams for \(T_{c}^{\text{onset}}\) and resistances at 200 and 10 K for \(x=0.3\) and 0.7. In spite of different Sb/Bi substitutional ratio, both compositions seem to exhibit quite similar responses against the applied pressures. Namely, critical pressure to induce superconductivity is as high as \(\sim\)45 GPa for both the Sb rich (\(x=0.3\)) and Bi rich (\(x=0.7\)) composition. This seems to contradict our simple expectation that superconductivity is more easily induced under high pressure in the Bi-rich sample, because of its metallic-like nature at ambient pressure. On the other hand, \(H_{c2}\) is distinctly different in these samples, \(H_{c2}=6.7\) T for \(x=0.3\) at 50 GPa and \(H_{c2}=10.9\) T for \(x=0.7\) at 43.5 GPa.
+
+Here, let us emphasize again that zero resistivity was not obtained in the present study, probably because of inhomogeneity of applied pressure for the polycrystalline sample.
+
+Figure 8: Temperature dependence of the resistance in \(x=0.3\) in magnetic fields under (a) 50 GPa, (b) 70.8 GPa, and (c) 90 GPa. The insets show magnetic field-temperature phase diagram. The solid line was calculated using the WHH model.
+
+Figure 7: Temperature dependence of resistance in \(x=0.3\) under various pressures (a) from 12.2 to 50 GPa, and (b) from 50 to 90 GPa. (c) Temperature dependence of resistance below 10 K under 50 GPa (right axis) and 57.2\(-\)90 GPa (left axis). The arrows denote \(T_{c}^{\text{onset}}\) (see text for the criterion of \(T_{c}^{\text{onset}}\)).
+
+  Single crystals will be helpful to observe a sharp superconducting transition, as well as to investigate the anisotropy in physical properties, such as normal state \(\rho\), \(P_{c}\), \(H_{c2}\), and so forth. However, a possibility of resistivity drop from Bi\({}_{2}\)Se\({}_{3}\) secondary phase, which shows superconductivity under high pressure [44, 45], can be ruled out on the basis of following reasons: (1) We employed \(x=0.3\) and 0.7 for high pressure measurements. In these samples, the amount of Bi\({}_{2}\)Se\({}_{3}\) is evaluated to be 0.4 wt % for \(x=0.3\) and 0.8 wt % for \(x=0.7\). (2) Critical pressure (\(P_{c}\)) to induce superconductivity for the present samples are \(\sim\)50 GPa, which is distinctly higher than that reported for Bi\({}_{2}\)Se\({}_{3}\) (\(14-25\) GPa at 2 K). (3) The upper critical field (\(H_{c2}\)) of our sample reaches 6.7 T for \(x=0.3\) and 10.9 T for \(x=0.7\). These are higher than the \(H_{c2}\) reported on Bi\({}_{2}\)Se\({}_{3}\) under high pressure, 4.5 T. If the superconducting path in our samples is created due to Bi\({}_{2}\)Se\({}_{3}\), \(H_{c2}\) should be less than 4.5 T because of its filamentary nature.
+
+### First-principles calculations
+
+To discuss the electronic structure of NdO\({}_{0.8}\)F\({}_{0.2}\)Sb\({}_{1-x}\)Bi\({}_{4}\)Se\({}_{2}\), we performed the first-principles calculations using vASP software. Figure 11 shows band dispersion of \(x=0\), 0.4, and 0.8. Generally speaking, these calculated results are consistent with those reported by Ochi _et al_[19]. The band splitting between the lowest and the second lowest conduction bands at the \(X\) point increases with increasing \(x\), owing to large spin-orbit coupling associated with Bi ions. The energy difference between the lowest conduction band and the van Hove singularity, which locates along \(M-\Gamma\) line, also increases with increasing \(x\), because of larger interatomic hopping amplitudes in Bi ions. However, all of the calculated band structure exhibits metallic nature, unlike experiments that show insulator-metal-like transition upon Bi doping. We deduce that the contradiction between theory and experiments are due to electron-trapping effect resulting from local structural disorder/instability. All of the crystal structure of the samples presented in this study is assigned to the tetragonal \(P4/mmn\) space group using SPXRD measured at room temperature. However, theoretical studies show that the existence of imaginary phonons in the related compounds [10, 49, 50, 51]. These studies also reported that the total energy of the tetragonal \(P4/mmn\) is not the lowest [10, 51]. Indeed, symmetry lowering to monoclinic \(P2_{1}/m\)[46, 52, 53] and nanoscale atomic distortion [54, 55, 56, 57, 58, 59] have
+
+Figure 10: Pressure-phase diagrams for resistance at 200 and 10 K (left axis) and \(T_{c}^{\text{onset}}\) (right axis) for (a) \(x=0.3\) and (b) \(x=0.7\).
+
+Figure 9: (a) Temperature dependence of resistance in \(x=0.7\) under various pressure from 0.6 to 52 GPa. (b),(c) Temperature dependence of the resistance in magnetic fields under (b) 43.5 GPa, and (c) 52 GPa.
+
+  been experimentally observed for BiCh\({}_{2}\)-based compounds. For another layered compound, \(R_{2}\)O\({}_{2}\)Pn with a Pn\({}^{2-}\) net, insulating nature that originates from lattice distortion has recently been investigated [60-65]. Although both \(R_{2}\)O\({}_{2}\)Bi and \(R_{2}\)O\({}_{2}\)Sb are expected to be a metallic owing to \(-2\) valence state of Pn, \(R_{2}\)O\({}_{2}\)Sb is an insulator, most likely due to the gap arising from the lattice instability [63]. It may be possible that such a gap also exists in the present SbSe\({}_{2}\)-based compounds.
+
+## IV IV. Conclusion
+
+We synthesized Bi-substituted SbCh\({}_{2}\)-based compounds NdO\({}_{0.8}\)F\({}_{0.2}\)Sb\({}_{1-x}\)Bi\({}_{x}\)Se\({}_{2}\) (\(x=0-0.8\)). Crystal structure analysis using SPXRD show that these compounds crystalize in the tetragonal \(P4/mmm\) space group at room temperature. Under ambient pressure, an insulator-metal-like transition is observed in electrical resistivity at \(x=0.5-0.6\). For \(x=0.3\) (Sb-rich composition), a signature of a pressure-induced superconducting transition was observed above 50 GPa. The \(T_{c}^{\rm onset}\) reached 7.65 \(\pm\) 0.05 K at 70.8 GPa, and the \(H_{c2}(0)\) was estimated to be 5.6 T using the WHH model. For \(x=0.7\) (Bi-rich composition), \(T_{c}^{\rm onset}=5.5\pm 0.6\) K was observed at 43.5 GPa, which is the almost comparable to that of \(x=0.3\). However, \(H_{c2}\) of \(x=0.7\) (\(H_{c2}(0)=10.9\) T) is distinctly higher than that of \(x=0.3\). This study demonstrates the possibility of superconductivity in SbCh\({}_{2}\)-based layered materials using a high pressure technique. Furthermore, NdO\({}_{0.8}\)F\({}_{0.2}\)Sb\({}_{1-x}\)Bi\({}_{x}\)Se\({}_{2}\) shows a wide range of Sb/Bi content (\(x=0-0.8\)) and will be a unique platform to explore the difference between electrically insulating SbCh\({}_{2}\)-based and conducting BiCh\({}_{2}\)-based systems.
+
+###### Acknowledgements.
+
+ We are grateful for fruitful discussion with M. Ochi and N. Hirayama. This work was partly supported by JST CREST Grant No. JPMJCR16Q6, JST-Mirai Program Grant No. JPMJMI17A2, JSPS KAKENHI Grants No. 19K15291, No. 17J05926, No. 17H05481, No. 15H05886, and No. 16H04493, and Iketani Science and Technology Foundation (No. 0301042-A), Japan. A part of the fabrication process of the diamond electrodes was supported by NIMS Nanofabrication Platform in Nanotechnology Platform Project sponsored by the Ministry of Education, Culture, Sports, Science and Technology (MEXT), Japan. Part of the high pressure experiments was supported by the Visiting Researcher's Program of Geodynamics Research Center, Ehime University.
+
+## References
+
+* [1] Y. Mizuguchi, H. Fujihisa, Y. Gotoh, K. Suzuki, H. Usui, K. Kuroki, S. Demura, Y. Takano, H. Izawa, and O. Miura, Phys. Rev. B **86**, 220510(R) (2012).
+* [2] Y. Mizuguchi, S. Demura, K. Deguchi, Y. Takano, H. Fujihisa, Y. Gotoh, H. Izawa, and O. Miura, J. Phys. Soc. Jpn. **81**, 114725 (2012).
+* [3] Y. Mizuguchi, J. Phys. Soc. Jpn. **88**, 041001 (2019).
+* [4] J. Xing, S. Li, X. Ding, H. Yang, and H. H. Wen, Phys. Rev. B **86**, 214518 (2012).
+* [5] S. Demura, K. Deguchi, Y. Mizuguchi, K. Sato, R. Honjyo, A. Yamashita, T. Yamaki, H. Hara, T. Watanabe, S. J. Denholme, M. Fujioka, H. Okazaki, T. Ozaki, O. Miura, T. Yamaguchi, H. Takeya, and Y. Takano, J. Phys. Soc. Jpn. **84**, 024709 (2015).
+* [6] R. Jha, A. Kumar, S. K. Singh, and V. P. S. Awana, J. Supercond. Novel Magn. **26**, 499 (2013).
+* [7] S. Demura, Y. Mizuguchi, K. Deguchi, H. Okazaki, H. Hara, T. Watanabe, S. J. Denholme, M. Fujioka, T. Ozaki, H. Fujihisa, Y. Gotoh, O. Miura, T. Yamaguchi, H. Takeya, and Y. Takano, J. Phys. Soc. Jpn. **82**, 033708 (2013).
+* [8] D. Yazici, K. Huang, B. D. White, A. H. Chang, A. J. Friedman, and M. B. Maple, Philos. Mag. **93**, 673 (2013).
+
+  * Mizuguchi _et al._ [2014]Y. Mizuguchi, T. Hiroi, J. Kajitani, H. Takatsu, H. Kadowaki, and O. Miura, J. Phys. Soc. Jpn. **83**, 053704 (2014).
+* Wan _et al._ [2013]X. Wan, H.-C. Ding, S. Y. Savrasov, and C.-G. Duan, Phys. Rev. B **87**, 115124 (2013).
+* Wu _et al._ [2014]S. F. Wu, P. Richard, X. B. Wang, C. S. Lian, S. M. Nie, J. T. Wang, N. L. Wang, and H. Ding, Phys. Rev. B **90**, 054519 (2014).
+* Lamura _et al._ [2013]G. Lamura, T. Shiroka, P. Bonfa, S. Sanna, R. De Renzi, C. Baines, H. Luetkens, J. Kajitani, Y. Mizuguchi, O. Miura, K. Deguchi, S. Demura, Y. Takano, and M. Putti, Phys. Rev. B **88**, 180509(R) (2013).
+* Yamashita _et al._ [2016]T. Yamashita, Y. Tokiwa, D. Terazawa, M. Nagao, S. Watauchi, I. Tanaka, T. Terashima, and Y. Matsuda, J. Phys. Soc. Jpn. **85**, 073707 (2016).
+* Morice _et al._ [2017]C. Morice, R. Akashi, T. Koretsune, S. S. Saxena, and R. Arita, Phys. Rev. B **95**, 180505(R) (2017).
+* Ota _et al._ [2017]Y. Ota, K. Okazaki, H. Q. Yamamoto, T. Yamamoto, S. Watanabe, C. Chen, M. Nagao, S. Watauchi, I. Tanaka, Y. Takano, and S. Shin, Phys. Rev. Lett. **118**, 167002 (2017).
+* Hoshi _et al._ [2018]K. Hoshi, Y. Goto, and Y. Mizuguchi, Phys. Rev. B **97**, 094509 (2018).
+* Usui _et al._ [2012]H. Usui, K. Suzuki, and K. Kuroki, Phys. Rev. B **86**, 220501(R) (2012).
+* Suzuki _et al._ [2019]K. Suzuki, H. Usui, K. Kuroki, T. Nomoto, K. Hattori, and H. Ikeda, J. Phys. Soc. Jpn. **88**, 041008 (2019).
+* Ochi _et al._ [2017]M. Ochi, H. Usui, and K. Kuroki, Phys. Rev. Appl. **8**, 064020 (2017).
+* Dong _et al._ [2015]X.-Y. Dong, J.-F. Wang, R.-X. Zhang, W.-H. Duan, B.-F. Zhu, J. O. Sofo, and C.-X. Liu, Nat. Commun. **6**, 8517 (2015).
+* Ochi _et al._ [2019]M. Ochi, H. Usui, and K. Kuroki, J. Phys. Soc. Jpn. **88**, 041010 (2019).
+* Goto _et al._ [2018]Y. Goto, A. Miura, R. Sakagami, Y. Kamihara, C. Moriyoshi, Y. Kuroiwa, and Y. Mizuguchi, J. Phys. Soc. Jpn. **87**, 074703 (2018).
+* Nagao _et al._ [2016]M. Nagao, M. Tanaka, R. Matsumoto, H. Tanaka, S. Watauchi, Y. Takano, and I. Tanaka, Cryst. Growth Des. **16**, 3037 (2016).
+* Nagao _et al._ [2019]M. Nagao, M. Tanaka, A. Miura, M. Kitamura, K. Horiba, S. Watauchi, Y. Takano, H. Kumigashira, and I. Tanaka, Solid State Commun. **289**, 38 (2019).
+* Matsumoto _et al._ [2019]R. Matsumoto, M. Nagao, M. Ochi, H. Tanaka, H. Hara, S. Adachi, K. Nakamura, R. Murakami, S. Yamamoto, T. Ififune, H. Takeya, I. Tanaka, K. Kuroki, and Y. Takano, J. Appl. Phys. **125**, 075102, (2019).
+* Goto _et al._ [2019]Y. Goto, A. Miura, C. Moriyoshi, Y. Kuroiwa, and Y. Mizuguchi, J. Phys. Soc. Jpn. **88**, 024705 (2019).
+* Mizuguchi _et al._ [2015]Y. Mizuguchi, A. Miura, J. Kajitani, T. Hiroi, and O. Miura, Sci. Rep. **5**, 14968 (2015).
+* Kawaguchi _et al._ [2017]S. Kawaguchi, M. Takemoto, K. Osaka, E. Nishibori, C. Moriyoshi, Y. Kubota, Y. Kuroiwa, and K. Sugimoto, Rev. Sci. Instrum. **88**, 085111 (2017).
+* Izumi and Momma [2007]F. Izumi and K. Momma, Solid State Phenom. **130**, 15 (2007).
+* Momma and Izumi [2008]K. Momma and F. Izumi, J. Appl. Crystallogr. **41**, 653 (2008).
+* Matsumoto _et al._ [2018]R. Matsumoto, A. Yamashita, H. Hara, T. Irifune, S. Adachi, H. Takeya, and Y. Takano, Appl. Phys. Express **11**, 053101 (2018).
+* Matsumoto _et al._ [2018]R. Matsumoto, H. Hara, H. Tanaka, K. Nakamura, N. Kataoka, S. Yamamoto, T. Ififune, A. Yamashita, S. Adachi, H. Takeya, and Y. Takano, J. Phys. Soc. Jpn. **87**, 124706 (2018).
+* Ifritune _et al._ [2003]T. Ifritune, A. Kurio, S. Sakamoto, T. Inoue, and H. Sumiya, Nature **421**, 599 (2003).
+* Piermarini _et al._ [1975]G. J. Piermarini, S. Block, J. D. Barnett, and R. A. Forman, J. Appl. Phys. **46**, 2774 (1975).
+* Akahama and Kawamura [2004]Y. Akahama and H. Kawamura, J. Appl. Phys. **96**, 3748 (2004).
+* Kresse and Hafner [1993]G. Kresse and J. Hafner, Phys. Rev. B **47**, 558(R) (1993).
+* Kresse and Hafner [1994]G. Kresse and J. Hafner, Phys. Rev. B **49**, 14251 (1994).
+* Kresse and Furthmuller [1996]G. Kresse and J. Furthmuller, Comput. Mater. Sci. **6**, 15 (1996).
+* Kresse and Furthmuller [1996]G. Kresse and J. Furthmuller, Phys. Rev. B **54**, 11169 (1996).
+* Kresse and Joubert [1999]G. Kresse and D. Joubert, Phys. Rev. B **59**, 1758 (1999).
+* Perdew _et al._ [1996]J. P. Perdew, K. Burke, and M. Ernzerhof, Phys. Rev. Lett. **77**, 3865 (1996).
+* [42]See Supplemental Material at http://link.aps.org/supplemental/10.1103/PhysRevB.100.094528 for SPXRD patterns, Rietveld fitting results, refined structural parameters, and the criterion of \(T_{\text{f}}\) for NdO\({}_{0.8}\)F\({}_{0.2}\)Sb\({}_{1.-\text{Bi}}\)Bi\({}_{5}\)Se\({}_{2}\).
+* Shannon [1976]R. D. Shannon, Acta Crystallogr. A **32**, 751 (1976).
+* Kirshenbaum _et al._ [2013]K. Kirshenbaum, P. S. Sysers, A. P. Hope, N. P. Butch, J. R. Jeffries, S. T. Weir, J. J. Hamlin, M. B. Maple, Y. K. Vohra, and J. Paglione, Phys. Rev. Lett. **111**, 087001 (2013).
+* Kong _et al._ [2013]P. P. Kong, J. L. Zhang, S. J. Zhang, J. Zhu, Q. Q. Liu, R. C. Yu, Z. Fang, C. Q. Jin, W. G. Yang, X. H. Yu, J. L. Zhu, and Y. S. Zhao, J. Phys.: Condens. Matter **25**, 362204 (2013).
+* Tomita _et al._ [2014]T. Tomita, M. Ebata, H. Soeda, H. Takahashi, H. Fujihisa, Y. Gotoh, Y. Mizuguchi, H. Izawa, O. Miura, S. Demura, K. Deguchi, and Y. Takano, J. Phys. Soc. Jpn. **83**, 063704 (2014).
+* Werthamer _et al._ [1966]N. R. Werthamer, E. Helfand, and P. C. Hohemberg, Phys. Rev. **147**, 295 (1966).
+* Suzuki _et al._ [2015]K. Suzuki, M. Tanaka, S. J. Denholme, M. Fujioka, T. Yamaguchi, H. Takeya, and Y. Takano, J. Phys. Soc. Jpn. **84**, 115003 (2015).
+* Li _et al._ [2013]B. Li, Z. W. Xing, and G. Q. Huang, Europhys. Lett. **101**, 47002 (2013).
+* Liu _et al._ [2016]Q. Liu, X. Zhang, and A. Zunger, Phys. Rev. B **93**, 174119 (2016).
+* Yildirim [2013]T. Yildirim, Phys. Rev. B **87**, 020506(R) (2013).
+* Sagayama _et al._ [2015]R. Sagayama, H. Sagayama, R. Kumai, Y. Murakami, T. Asano, J. Kajitani, R. Higashinaka, T. D. Matsuda, and Y. Aoki, J. Phys. Soc. Jpn. **84**, 123703 (2015).
+* Nagasaka _et al._ [2017]K. Nagasaka, A. Nishida, R. Jha, J. Kajitani, O. Miura, R. Higashinaka, T. D. Matsuda, Y. Aoki, A. Miura, C. Moriyoshi, Y. Kuroiwa, H. Usui, K. Kuroki, and Y. Mizuguchi, J. Phys. Soc. Jpn. **86**, 074701 (2017).
+* Athauda _et al._ [2015]A. Athauda, J. Yang, S.-H. Lee, Y. Mizuguchi, K. Deguchi, Y. Takano, O. Miura, and D. Louca, Phys. Rev. B **91**, 144112 (  * Nuss and Jansen [2009]J. Nuss and M. Jansen, J. Alloys Compd. **480**, 57 (2009).
+* Mizoguchi and Hosono [2011]H. Mizoguchi and H. Hosono, J. Am. Chem. Soc. **133**, 2394 (2011).
+* Wang _et al._ [2012]P. L. Wang, T. Kolodiazhnyi, J. Yao, and Y. Mozharivskyj, J. Am. Chem. Soc. **134**, 1426 (2012).
+* Kim _et al._ [2015]H. Kim, C.-J. Kang, K. Kim, J. H. Shim, and B. I. Min, Phys. Rev. B **91**, 165130 (2015).
+* Kim _et al._ [2016]H. Kim, C.-J. Kang, K. Kim, J. H. Shim, and B. I. Min, Phys. Rev. B **93**, 125116 (2016).
+* Sei _et al._ [2016]R. Sei, S. Kitani, T. Fukumura, H. Kawaji, and T. Hasegawa, J. Am. Chem. Soc. **138**, 11085 (2016).
+
+ 

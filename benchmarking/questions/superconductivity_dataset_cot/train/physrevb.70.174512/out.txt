@@ -1,0 +1,265 @@
+Interplay of superconductivity and structural phase transition in the clathrate Ba_{6}Ge_{25}
+
+H. Q. Yuan,^{1,2,\#} F. M. Grosche,^{1,3} W. Carrillo-Cabrera,^{1} V. Pacheco,^{1,\dagger} G. Sparn,^{1} M. Baenitz,^{1} U. Schwarz,^{1} Yu. Grin,^{1} and F. Steglich^{1}
+
+^{1}Max-Planck-Institute for Chemical Physics of Solids, Nothnitzer Strasse 40, 01187 Dresden, Germany
+
+^{2}Department of Physics, Xiangtan University, Xiangtan 411105, Hunan, People's Republic of China
+
+^{3}Department of Physics, Royal Holloway, University of London, Egham TW20 0EX, United Kingdom
+
+Received 7 March 2004; revised manuscript received 25 August 2004; published 17 November 2004
+
+###### Abstract
+
+The cubic compound Ba_{6}Ge_{25} undergoes a structural phase transition around 200 K, below which the electrical resistivity increases abruptly. However, out of this "bad" metallic state (\rho_{0} = 1.5 m\Omega cm), BCS-like superconductivity occurs at very low temperature (T_{c} = 0.24 K). By applying hydrostatic pressure, the structural phase transition is suppressed at p_{c} = 2.8 GPa, but the superconducting transition temperature T_{c} increases remarkably, reaching a maximum of T_{c} = 3.8 K at p \simp_{c}. To understand these unusual properties, we have measured the upper critical magnetic field H_{c2} for Ba_{6}Ge_{25} and its isostructural compound Na_{2}Ba_{4}Ge_{25} under pressure, from which the density of states at the Fermi energy N(E_{F}) is determined. It demonstrates that, in Ba_{6}Ge_{25}, the structural phase transition causes a significant reduction of N(E_{F}) (by a factor of about 4) and therefore largely weakens superconductivity. Furthermore, the drastic enhancement of T_{c} under pressure is found to be solely governed by N(E_{F}).
+
+pacs: DOI: 10.1103/PhysRevB.70.174512 +
+Footnote †: preprint: PHYSICAL REVIEW B **70**, 174512 (2004)
+
+## I Introduction
+
+In the last decade, there has been an increasing interest in the investigation of the group IV (Si, Ge, Sn) clathrates due to the discovery of superconductivity[1] and magnetism[2] in these compounds, and their potential applications as thermoelectric[3] and low-compressibility[4] materials.
+
+Recently, a new type of superconducting clathrates, Ba_{6}Ge_{25} and Na_{2}Ba_{4}Ge_{25}, was reported.[5] Ba_{6}Ge_{25} belongs to the clathrate-IX structure type (Pearson symbol _cP_124),[6, 7] It is characterized by a three-dimensional (3D) chiral framework of condensed Ge_{20} pentagonal dodecahedra (pdots) embedded in a 3D-channel labyrinth. Each Ge_{20} is centered by a Ba atom (Ba1) while the other Ba atoms (Ba2 and Ba3) occupy the cavities in the zeolite-like labyrinth created by the dense piling of pdots. There are two Ba1 and three Ba2 sites as well as one Ba3 site per formula unit. Na_{2}Ba_{4}Ge_{25} is isostructural to Ba_{6}Ge_{25}, formed by randomly substituting 2/3 of the Ba2 sites in Ba_{6}Ge_{25} with Na.[8] According to the Zmitl-Klemm model, one can express Ba_{6}Ge_{25} as (Ba^{2+})_{6}((3b)Ge^{1-})_{8}((4b)Ge^{1+})_{17}(4e^{-}) and Na_{2}Ba_{4}Ge_{25} as (Na^{1+})_{2}(Ba^{2+})_{4}((3b)Ge^{1-})_{8}((4b)Ge^{1+})_{17}(2e^{-}). This estimation gives four and two excess electrons per formula unit of Ba_{6}Ge_{25} and Na_{2}Ba_{4}Ge_{25}, respectively. Four formula units constitute a cubic cell with a lattice parameter of a = 14.5664(2) A for Ba_{6}Ge_{25} and of a = 14.4703(2) A for Na_{2}Ba_{4}Ge_{25}.
+
+Ba_{6}Ge_{25} exhibits rich properties at low temperatures.[5, 9] At ambient pressure, Ba_{6}Ge_{25} undergoes a two-step structural phase transition at temperatures of T_{S1} = 215 K and T_{S2}\approx 180 K due to the Ge-Ge bond breaking combined with the displacement of neighboring Ba atoms to the split positions.[10] The structural transition is accompanied by drastic changes of both transport and thermodynamic properties.[9] The magnetic susceptibility is negative over the whole temperature range and decreases steeply at the structural phase transition. Upon cooling down, the electrical resistivity \rho(T) exhibits metallic behavior at high temperature, but increases abruptly at T_{S1} and subsequently again at T_{S2}. It slowly rises with further decreasing temperature and approaches a saturation value of \rho_{0} \approx 1.5 m\Omega cm below 10 K. Surprisingly, BCS-like superconductivity occurs at T_{c} \approx 0.24 K out of the resulting bad metal.[5] Upon applying pressure, the structural phase transition is shifted to lower temperature while T_{c} increases drastically. T_{c} reaches a maximum value of T_{c} \approx 3.8 K at a critical pressure of p_{c} \approx 2.8 GPa, where the structural distortion is completely suppressed and the system displays metallic behavior above T_{c}, resembling the case of Na_{2}Ba_{4}Ge_{25} at p \approx 0.[5]
+
+To understand these fascinating phenomena observed in Ba_{6}Ge_{25}, there we analyze the possible reasons for the enhancement of T_{c} under pressure. For comparison, the pressure dependence of T_{S1}, T_{S2}, and T_{c} for Ba_{4}Ge_{25}, previously presented in Ref. [5], is replotted as a function of lattice parameter a in Fig. 1 together with that of Na_{2}Ba_{4}Ge_{25}. The relationship between pressure and lattice parameter for Ba_{6}Ge_{25} was obtained from high pressure x-ray diffraction experiments at ambient temperature employing a synchrotron source, which gives a volume bulk modulus of B0 = 44(2) GPa and its pressure derivative of B_{0}^{\prime}=5.8(8). As an approximation, the same bulk modulus was also used for Na_{2}Ba_{4}Ge_{25}. Contrary to Ba_{6}Ge_{25}, Na_{2}Ba_{4}Ge_{25} does not undergo a structural phase transition. From Fig. 1, one can see that the critical lattice parameter a of Ba_{6}Ge_{25} is much smaller than the ambient-pressure lattice parameter of Na_{2}Ba_{4}Ge_{25}, indicating that the occurrence of the structural phase transition is not simply governed by volume. In light of this, it is surprising to observe that T_{c} of these two compounds is equal at a = 14.47 A, which is the ambient-pressure lattice parameter of Na_{2}Ba_{4}Ge_{25}. This coincidence seems more accidental rather than being due to a physical effect. As shown in Fig. 1, Ba_{6}Ge_{25} has a much lower T_{c} than  Na_{2}Ba_{4}Ge_{25} at ambient pressure. In Ba_{4}Ge_{25}, the specific heat and magnetic susceptibility give a bulk superconducting transition at T_{c} \approx 0.14 K and the resistivity shows T_{c}\approx 0.24 K. By comparison, Na_{2}Ba_{4}Ge_{25} demonstrates a much higher T_{c} (\sim0.84 K) from both specific heat and resistivity at ambient pressure. Correspondingly, a higher Sommerfeld coefficient \gamma is obtained in Na_{2}Ba_{4}Ge_{25} (\simeq33.3 mJ/mol K^{2}) than in Ba_{4}Ge_{25} (\simeq21.5 mJ/mol K^{2}), revealing that the electronic density of states N(E_{F}) in Na_{2}Ba_{4}Ge_{25} is higher than in Ba_{4}Ge_{25}. On the other hand, once the structural transition (T_{S1}, T_{S2} in Fig. 1) of Ba_{4}Ge_{25} is suppressed by applying pressure, these two compounds behave very similarly both in the superconducting and in the normal state. However, Ba_{4}Ge_{25} now shows a much higher T_{c} than Na_{2}Ba_{4}Ge_{25}. The relatively larger T_{c} in Ba_{4}Ge_{25} at elevated pressure may be understood as follows: (1) Ba_{4}Ge_{25} has a nominally higher charge-carrier concentration than Na_{2}Ba_{4}Ge_{25} and (2) Ba may have a stronger hybridization with the Ge states than Na as discussed for the type-I clathrates.[11] All these effects may enhance the density of states N(E_{F}) and give rise to a higher T_{c} in Ba_{4}Ge_{25}.
+
+In Fig. 2, T_{c} of Ba_{4}Ge_{25} is plotted as a function of the residual resistivity \rho_{0}. Remarkably, T_{c} can be nicely fitted by an exponential decrease of T_{c} = 7.5 K e^{-2(\ln\Omega_{\rm c})^{-1}\rho_{0}} (solid line in Fig. 2). According to the BCS formula,
+
+\[T_{c}\propto\Theta_{D}\exp[-1/N(E_{F})V],\] (1)
+
+where \Theta_{D} is the Debye temperature and V is the pairing potential arising from the electron-phonon interaction. Comparing Eq. (1) to the fitting function shown in Fig. 2, one finds that \rho_{0}\sim 1/N(E_{F}) if V and \Theta_{D} are independent of pressure. This latter assumption is corroborated by the pressure dependence of T_{c} for Na_{2}Ba_{4}Ge_{25}. In Ba_{4}Ge_{25}, the residual resistivity \rho_{0} strongly decreases with increasing pressure, suggesting a corresponding increase of N(E_{F}). It is noted that the strong decrease of the residual resistivity \rho_{0} under pressure is not due to effects like, e.g., grain-boundary scattering in the polycrystalline samples because applying pressure hardly changes the electrical resistivity at room temperature.[5]
+
+From the above discussion, one can see that the variation of N(E_{F}) as a function of pressure may govern the stability of superconductivity in Ba_{4}Ge_{25}. The disorder resulting from the structural transition may smear out the density of states at the Fermi energy, which causes a significant reduction of N(E_{F}). Recently, electronic band-structure calculations for Ba_{4}Ge_{25} and Na_{2}Ba_{4}Ge_{25}, using the linear muffin-tin orbital method within the local-density approximation,[12] have shown that the barium states strongly contribute to N(E_{F}). A sharp peak in the density of states is found close to the Fermi level in the ideal Ba_{4}Ge_{25} (i.e., all the Ba atoms are at their average positions), but this peak is split while shifting the Ba2 atoms towards one of the split positions. The reduction of N(E_{F}) may also explain the structural-transition induced anomalies on the thermodynamic properties such as the magnetic susceptibility. To provide experimental evidence in support of these speculations, in this paper we study the upper critical field of Ba_{4}Ge_{25} and Na_{2}Ba_{4}Ge_{25} under hydrostatic pressure, from which the pressure dependence of the density of states N(E_{F}) is inferred. It demonstrates that N(E_{F}) of Ba_{4}Ge_{25} plays a governing role for the enhancement of T_{c} under pressure, increasing by a factor of about 4 as the structural distortion is suppressed.
+
+## II Experimental Methods
+
+Polycrystalline samples of Ba_{4}Ge_{25} and Na_{2}Ba_{4}Ge_{25} have been prepared by a high frequency melting technique in an argon protective atmosphere.[9] Powder x-ray diffraction and metallography identity them as being single phase. It is noted that the samples measured here are not the same as those studied before in Ref. [5]. Since the density of states at the Fermi energy is simply proportional to the Sommerfeld coefficient \gamma, measurements of heat capacity under pressure may provide direct information about N(E_{F}). However, Ba_{4}Ge_{25} has a small volume specific heat, which prevents it from being resolved in the experiments using a standard piston-cylinder pressure cell. Therefore, we have chosen an alternative approach to estimate N(E_{F}), namely by measuring the upper critical magnetic field of the superconductor (H_{c2})
+
+Figure 2: T_{c} vs the residual resistivity \rho_{0} for Ba_{4}Ge_{25}. The solid line is an exponential fit to the data points.
+
+Figure 1: The transition temperature vs lattice parameter (pressure) phase diagram for Ba_{4}Ge_{25}. For the calculation of the lattice parameters see text. The values of T_{c} are multiplied by a factor of 20. For a better comparison, T_{c}(a) of Na_{2}Ba_{4}Ge_{25} (\square) at ambient pressure is marked by a vertical dashed line, while the dependence of T_{c} on the lattice parameter a is represented by the dotted line.
+
+  The electrical resistivity \rho(T) has been measured by using a low power AC four-terminal method in a dilution refrigerator. To reach high pressure, we employ a CuBe/MP35N nonmagnetic hydrostatic clamp cell filled with a 1:1 mixture of iso-pentane and n-pentane as pressure transmitting medium. The relatively large volume of this cell allows simultaneous measurements on multiple samples up to 3 GPa, which offers an opportunity to study the two different compounds under the same conditions. The pressure was determined within an error of 0.05 GPa at low temperature from the superconducting transition temperature of Sn. Absolute resistivity values for the small crystals were obtained by extrapolating the high pressure, room temperature data to zero pressure to match the ambient pressure, room temperature resistivity measured on large reference crystals.
+
+## III Results and Discussion
+
+In Fig. 3, we present the results of the upper critical magnetic field for Ba_{6}Ge_{25}. As an example, the temperature dependence of the resistivity \rho(T) for p = 0.74 GPa and 2.73 GPa at various magnetic fields is shown in Figs. 3(a) and 3(b), respectively. The broad superconducting transition at low pressures might be due to sample inhomogeneities. One can see that the superconducting transitions are rapidly suppressed by applying a magnetic field. In Fig. 3(c), the critical field H_{c2} is plotted as a function of temperature for various pressures. The thick lines represent the linear fits for the data near T_{c}. One can see that all the thick lines are nearly parallel, indicating a weak pressure dependence of the initial slope of the upper critical field. Similar behavior of H_{c2} is also observed in Na_{2}Ba_{4}Ge_{25}.
+
+The values of the initial slope of the upper critical field H^{\prime}_{c2} = (-dH_{c2}/dT)_{Tc} are shown in Fig. 4 for Ba_{6}Ge_{25} and Na_{2}Ba_{4}Ge_{25}. Evidently, H^{\prime}_{c2} of Na_{2}Ba_{4}Ge_{25} is nearly pressure independent between 1 and 3 GPa. By applying pressure to suppress the structural distortion in Ba_{6}Ge_{25}, T_{c} undergoes a drastic enhancement. However, no significant change of H^{\prime}_{c2} is observed in Ba_{6}Ge_{25} under pressure. We note that the sample of Ba_{6}Ge_{25} studied here exhibits a relatively small value of H^{\prime}_{c2} \simeq 1.5 T/K at p = 0.1 GPa in comparison with the previous results measured at ambient pressure (H^{\prime}_{c2} = 2.9 T/K).[5] Since in polycrystalline samples the grain boundaries and the grain geometries may affect the critical current and the penetration depth, respectively, the difference in the absolute values of H^{\prime}_{c2} might be mainly due to the different grain geometries in the two samples measured.
+
+Based on the evaluation of the Ginzburg-Landau parameters from the BCS-Gorkov equations, a few superconducting and normal-state parameters can be estimated from the measurements of the upper critical magnetic field.[13, 14] Within the BCS theory, the initial slope of the upper critical field can be expressed by
+
+\[H^{\prime}_{c2} = -\left.\frac{dH_{c2}}{dT}\right|_{T_{c}}\] (2) \[= R(\lambda_{tr})\Bigg{[}\Bigg{(}1.18\times 10^{35}\frac{\text{T}\text{m}^{2}\text{K}^{2}}{\text{J}^{2}}\Bigg{)}\frac{\gamma^{2}T_{c}}{S^{2}}\] \[+\Bigg{(}4490\frac{\text{T}\text{m}^{2}\text{K}}{\text{\Omega J}} \Bigg{)}\gamma p_{0}\Bigg{]}.\]
+
+Here S is the Fermi surface area on which the Cooper pairs are formed; R(\lambda_{tr}) varies monotonously between R(0) = 1 in the dirty limit and R(\infty) = 1.17 in the clean limit. In the dirty limit, the second term in Eq. (2) dominates and H^{\prime}_{c2} can be written as[13]
+
+\[H^{\prime}_{c2}(\text{dirty})=\Bigg{(}4490\frac{\text{T}\text{m}^{2}\text{K}^{2}}{\text{\Omega J}}\Bigg{)}\gamma p_{0}.\] (3)
+
+Then \gamma can be estimated from the measurements of \rho_{0} and H^{\prime}_{c2} according to Eq. (3).
+
+Figure 3: The temperature dependence of the electrical resistivity \rho(T) for Ba_{6}Ge_{25} at various magnetic fields: (a) p = 0.74 GPa and (b) p = 2.73 GPa. (c) The upper critical field H_{c2}(T) for p = 0.1, 0.74, 1.86, 2.6, and 2.73 GPa. When the applied field exceeds H_{c2}(T), the entire specimen reverts to the normal state. The thick lines illustrate the linear fits to the data near T_{c}.
+
+  The electronic density of states N(E_{F}) per formula unit can be calculated from
+
+\[\gamma=\frac{\pi^{2}k_{B}^{2}}{3}\frac{N(E_{F})}{V_{0}},\] (4)
+
+where V_{0} is the cell volume per formula unit.
+
+At ambient pressure, it has been demonstrated that Ba_{6}Ge_{25} is a bad metal with a very short mean-free path (l\sim 3 A).[5] In order to confirm the feasibility of adopting the dirty limit in Ba_{6}Ge_{25} and Na_{2}Ba_{4}Ge_{25} under pressure, we first examine the Ginzburg-Landau coherence length \xi as compared with the electronic mean-free path l, which are given by[5]
+
+\[\xi^{2}=4.76\times 10^{4}(\rm T\ \AA^{2})[\it{H}_{c2}^{\prime}(\rm T/K)\cdot T _{c}(\rm K)]^{-1}\] (5)
+
+and
+
+\[l=1200[k_{F}^{2}(\rm\AA^{-2})\cdot\rho_{0}(\mu\Omega\ \rm cm)]^{-1}(\rm\AA).\] (6)
+
+Here, k_{F} is the wave vector at the Fermi surface. It is estimated here by assuming a spherical Fermi surface as for free electrons, which can be written as
+
+\[k_{F}=(3\,\pi^{2}n)^{1/3},\] (7)
+
+where n is the electron density. The Hall-effect measurements showed that the charge-carrier concentration of Ba_{4}Ge_{25} at low temperature is close to the nominal value derived from the Zintl rule, and in the case of Na_{2}Ba_{4}Ge_{25} the experiment gives a higher electron concentration.[9] For simplicity, we take the nominal value of n to estimate k_{F} here, which gives k_{F}=0.54(\rm\AA)^{-1} for Ba_{6}Ge_{25} and 0.43 A^{-1} for Na_{2}Ba_{4}Ge_{25}. Under hydrostatic pressure, we assume that it remains constant.
+
+Figures 5 and 6 present the pressure dependences of the mean free path l, the coherence length \xi, and its ratio l/\xi for Ba_{4}Ge_{25} and Na_{2}Ba_{4}Ge_{25}, respectively. Both compounds exhibit l\ll\xi at all pressures [see Fig. 5(c) and Fig. 6(c)], suggesting that the samples are in the dirty limit and one can employ Eq. (3) to calculate \gamma from \rho_{0} and H_{c2}^{\prime}. The corresponding density of states N(E_{F}) can then be calculated from Eq. (4). Comparing Fig. 5 with Fig. 6, one can see that the compounds Ba_{6}Ge_{25} and Na_{2}Ba_{4}Ge_{25} display an opposite pressure dependence of l and \xi. This distinct behavior may originate from the structural transition in Ba_{6}Ge_{25}. When the structural transition vanishes at p_{c}\sim 2.7 GPa, the mean-free path of Ba_{4}Ge_{25} approaches that of Na_{2}Ba_{4}Ge_{25}.
+
+In Fig. 7, the pressure dependence of the obtained density of states N(E_{F}) is shown for Ba_{4}Ge_{25} and Na_{2}Ba_{4}Ge_{25}. As expected from the analysis previously made in the Introduction, N(E_{F}) of Ba_{4}Ge_{25} is strongly enhanced under pressure, increasing by a factor of about 4 at p\sim p_{c}. For the undistorted Ba_{4}Ge_{25}, N(E_{F},p) seems to saturate, which is again similar to the case of Na_{2}Ba_{4}Ge_{25} but with a larger value.
+
+It has been argued before that the density of states N(E_{F}) might be closely associated with the residual resistivity \rho_{0} in Ba_{6}Ge_{25} from the analysis of T_{c} and \rho_{0}. In Fig. 8(a), we plot \rho_{0} against the experimentally obtained 1/N(E_{F}) for Ba_{4}Ge_{25}. It shows that all the data points fall on a straight line, confirming that \rho_{0}\sim 1/N(E_{F}) in the distorted Ba_{6}Ge_{25}. This is similar to the case of the widely studied A15 compounds (see, e.g., Ref. [15]). Figure 8(b) shows T_{c} versus 1/N(E_{F}) for Ba_{6}Ge_{25}, which can be fitted by an exponential decay [T_{c}
+
+Figure 5: The pressure dependence of the coherence length \xi (a), the mean-free path l (b), and the ratio l/\xi (c) for Ba_{4}Ge_{25}. The relation of l/\xi\ll 1 indicates that Ba_{4}Ge_{25} is in the dirty limit even at high pressures.
+
+Figure 7: The pressure dependence of the density of states N(E_{F}) for Ba_{6}Ge_{25} (▲) and Na_{2}Ba_{4}Ge_{25} (□). N(E_{F}) of Ba_{4}Ge_{25} is enhanced by a factor of about 4 as its structural transition is suppressed at p_{c}\sim 2.7 GPa, whereas Na_{2}Ba_{4}Ge_{25} shows a weak decrease of N(E_{F}) under pressure.
+
+  =11 K exp(-_N_0/0.053_N_(E_{F}))] where N0=1 state/eV. All these results suggest that the density of states at the Fermi energy _N_(E_{F}) governs the drastic enhancement of T_{c} under pressure in Ba_{6}Ge_{25} and that the structural transition results in a large reduction of _N_(E_{F}). Other factors have minor effect on the superconductivity of Ba_{6}Ge_{25}.
+
+The inverse relationship of r0~1/_N_(E_{F}) can be qualitatively understood by considering a sharp structure in the density of states near E_{F} with a width D_W_. Actually, recent band-structure calculations have revealed a peak of _N_(E_{F}) in Ba_{6}Ge_{25},[12] Sharp structures at the Fermi level may effectively be broadened by the strong scattering present in the bad metals such as Ba_{6}Ge_{25}. It is argued[15] that _N_(_E_) must be averaged over D_E_, which becomes important when the uncertainty in energy D_E_ approaches D_W_. D_E_ is related to the quasiparticle lifetime. According to the uncertainty principle, one has
+
+\[\Delta E\Delta t=\Delta E\cdot l\upsilon_{F}=\hbar,\] (8)
+
+where _\upsilon_{F}_ refers to the Fermi velocity. In the dirty limit as observed in our compounds, l is quite small and hence D_E_ becomes large. Therefore, the smearing of _N_(E_{F}) becomes very important, leading to a significant decrease of _N_(E_{F}). Since D_E_ goes as 1/_l_, it means D_E_~_r_0. If one assumes a constant number of states near E_{F}, i.e., D_E_~_N_(E_{F}) =constant, then one has r0~1/_N_(E_{F}).
+
+Measurements of the thermopower[9] and the optical reflectivity[16] at ambient pressure appear to contradict this interpretation, revealing that below the structural phase transition the effective mass of electrons increases by a factor of about 4, but the relaxation time remains constant. These results are incompatible with the superconducting properties, the reason of which is still unclear. One possibility may arise from the charge-carrier concentration _n_(_T_). Very recently, single-crystal x-ray diffraction measurements suggest that the number of excess electrons is reduced by 1.8_e_- per formula unit at the structural phase transition due to the modification of the Ge bonds.[10] In the initial analysis of the thermopower[9] and the optical reflectivity,[16] it was assumed that _n_(_T_) decreases monotonically upon cooling down. The stepwise reduction of the charge-carrier concentration at the structural phase transition would now make the analysis of the thermopower[9] and the optical reflectivity[16] consistent with our results.
+
+## IV Conclusion
+
+The remarkable pressure dependences of the structural phase transition and superconductivity observed in Ba_{6}Ge_{25} are discussed in comparison with its isostructural variant Na_{2}Ba_{4}Ge_{25}. To understand the huge enhancement of T_{c} in Ba_{6}Ge_{25} when its structural distortion is prevented by pressure, we have investigated the pressure dependence of the density of states _N_(E_{F}) by measuring the upper critical magnetic field. It is shown that both compounds are in the dirty limit even under pressure and that the slope of the upper critical field H_{c2}^{\prime} hardly depends on pressure. In Ba_{6}Ge_{25} the density of states _N_(E_{F}) increases with increasing pressure (by a factor of about 4 up to p \simp_{c}), but Na_{2}Ba_{4}Ge_{25} shows a slight decrease of _N_(E_{F}) under pressure. Moreover, we found a relationship of r0~1/_N_(E_{F}) for Ba_{6}Ge_{25}. All these suggest that the structural phase transition in Ba_{6}Ge_{25}, caused by the breaking of some Ge-Ge bonds, results in a significant reduction of _N_(E_{F}). The pressure dependence of T_{c} is found to be governed by _N_(E_{F}), providing a physical picture to describe the unusual behavior observed in Ba_{6}Ge_{25}.
+
+## Acknowledgments
+
+The authors acknowledge the helpful discussions with J. Mydosh, S. Paschen, J. Sichelschmidt, S. Yamanaka, and I. Zerec.
+
+## References
+
+* [1] H. Kawaji, H. O. Horie, S. Yamanaka, and M. Ishikawa, Phys. Rev. Lett. **74**, 1427 (1995).
+* [2] B. C. Sales, B. C. Chakoumakos, R. Jin, J. R. Thompson, and D. Mandrus, Phys. Rev. B **63**, 245113 (2001); S. Paschen, W. Carrillo-Cabrera, A. Beniten, V. H. Tran, M. Baenitz, Yu. Grin,  and F. Steglich, _ibid._**64**, 214404 (2001).
+* [3] G. S. Nolas, G. A. Slack, and S. B Schujman, in _Semiconductors and Semimetals_, edited by T. M. Tritt (Academic, San Diego, 2001), Vol. 69, p. 255.
+* [4] A. San-Miguel, P. Keghelian, X. Blase, P. Melinon, A. Perez, J. P. Itie, A. Polian, E. Reny, C. Cros, and M. Pouchard, Phys. Rev. Lett. **83**, 5290 (1999).
+* [5] F. M. Grosche, H. Q. Yuan, W. Carrillo-Cabrera, S. Paschen, C. Langhammer, F. Kromer, G. Sparn, M. Baenitz, Yu. Grin, and F. Steglich, Phys. Rev. Lett. **87**, 247003 (2001); H. Q. Yuan, F. M. Grosche, W. Carrillo-Cabrera, S. Paschen, C. Langhammer, G. Sparn, M. Baenitz, Yu. Grin, and F. Steglich, High Press. Res. **22**, 147 (2002).
+* New Cryst. Struct. **215**, 207 (2000).
+* [7] H. Fukuoka, K. Iwai, S. Yamanaka, H. Abe, K. Yoza, and L. Haming, J. Solid State Chem. **151**, 117 (2000); S. J. Kim, S. Hu, C. Uher, T. Hogan, B. Huang, J. D. Corbett, and M. G. Kanatzidis, _ibid._**153**, 321 (2000).
+* New Cryst. Struct. **216**, 183 (2001).
+* [9] S. Paschen, V. H. Tran, M. Baenitz, W. Carrillo-Cabrera, Yu. Grin, and F. Steglich, Phys. Rev. B **65**, 134435 (2002).
+* [10] W. Carrillo-Cabrera, H. Borrmann, S. Paschen, M. Baenitz, F. Steglich, and Yu. Grin (unpublished).
+* [11] S. Saito and A. Oshiyama, Phys. Rev. B **51**, 2628 (1995); K. Moriguchi, M. Yonemura, A. Shintani, and S. Yamanaka, _ibid._**61**, 9859 (2000).
+* [12] I. Zerec, A. Yaresko, P. Thalmeier, and Yu. Grin, Phys. Rev. B **66**, 045115 (2002).
+* [13] T. P. Orlando, E. J. McNiff, Jr., S. Foner, and M. R. Beasley, Phys. Rev. B **19**, 4545 (1979).
+* [14] N. R. Werthamer, E. Helfand, and P. C. Hohenberg, Phys. Rev. **147**, 295 (1966).
+* [15] H. Wiesmann, M. Gurvitch, A. K. Ghosh, H. Lutz, O. F. Kammerer, and M. Strongin, Phys. Rev. B **17**, 122 (1978).
+* [16] J. Sichelschmidt, V. Voevodin, S. Paschen, W. Carrillo-Cabrera, Yu. Grin, and F. Steglich, Acta Phys. Pol. B **34**, 613 (2003).
+
+ Interplay of superconductivity and structural phase transition in the clathrate Ba_{6}Ge_{25}
+
+H. Q. Yuan,^{1,2,\#} F. M. Grosche,^{1,3} W. Carrillo-Cabrera,^{1} V. Pacheco,^{1,\dagger} G. Sparn,^{1} M. Baenitz,^{1} U. Schwarz,^{1} Yu. Grin,^{1} and F. Steglich^{1}
+
+^{1}Max-Planck-Institute for Chemical Physics of Solids, Nothnitzer Strasse 40, 01187 Dresden, Germany
+
+^{2}Department of Physics, Xiangtan University, Xiangtan 411105, Hunan, People's Republic of China
+
+^{3}Department of Physics, Royal Holloway, University of London, Egham TW20 0EX, United Kingdom
+
+Received 7 March 2004; revised manuscript received 25 August 2004; published 17 November 2004
+
+###### Abstract
+
+The cubic compound Ba_{6}Ge_{25} undergoes a structural phase transition around 200 K, below which the electrical resistivity increases abruptly. However, out of this "bad" metallic state (\rho_{0} = 1.5 m\Omega cm), BCS-like superconductivity occurs at very low temperature (T_{c} = 0.24 K). By applying hydrostatic pressure, the structural phase transition is suppressed at p_{c} = 2.8 GPa, but the superconducting transition temperature T_{c} increases remarkably, reaching a maximum of T_{c} = 3.8 K at p \simp_{c}. To understand these unusual properties, we have measured the upper critical magnetic field H_{c2} for Ba_{6}Ge_{25} and its isostructural compound Na_{2}Ba_{4}Ge_{25} under pressure, from which the density of states at the Fermi energy N(E_{F}) is determined. It demonstrates that, in Ba_{6}Ge_{25}, the structural phase transition causes a significant reduction of N(E_{F}) (by a factor of about 4) and therefore largely weakens superconductivity. Furthermore, the drastic enhancement of T_{c} under pressure is found to be solely governed by N(E_{F}).
+
+pacs: DOI: 10.1103/PhysRevB.70.174512 +
+Footnote †: preprint: PHYSICAL REVIEW B **70**, 174512 (2004)
+
+## I Introduction
+
+In the last decade, there has been an increasing interest in the investigation of the group IV (Si, Ge, Sn) clathrates due to the discovery of superconductivity[1] and magnetism[2] in these compounds, and their potential applications as thermoelectric[3] and low-compressibility[4] materials.
+
+Recently, a new type of superconducting clathrates, Ba_{6}Ge_{25} and Na_{2}Ba_{4}Ge_{25}, was reported.[5] Ba_{6}Ge_{25} belongs to the clathrate-IX structure type (Pearson symbol _cP_124),[6, 7] It is characterized by a three-dimensional (3D) chiral framework of condensed Ge_{20} pentagonal dodecahedra (pdots) embedded in a 3D-channel labyrinth. Each Ge_{20} is centered by a Ba atom (Ba1) while the other Ba atoms (Ba2 and Ba3) occupy the cavities in the zeolite-like labyrinth created by the dense piling of pdots. There are two Ba1 and three Ba2 sites as well as one Ba3 site per formula unit. Na_{2}Ba_{4}Ge_{25} is isostructural to Ba_{6}Ge_{25}, formed by randomly substituting 2/3 of the Ba2 sites in Ba_{6}Ge_{25} with Na.[8] According to the Zmitl-Klemm model, one can express Ba_{6}Ge_{25} as (Ba^{2+})_{6}((3b)Ge^{1-})_{8}((4b)Ge^{1+})_{17}(4e^{-}) and Na_{2}Ba_{4}Ge_{25} as (Na^{1+})_{2}(Ba^{2+})_{4}((3b)Ge^{1-})_{8}((4b)Ge^{1+})_{17}(2e^{-}). This estimation gives four and two excess electrons per formula unit of Ba_{6}Ge_{25} and Na_{2}Ba_{4}Ge_{25}, respectively. Four formula units constitute a cubic cell with a lattice parameter of a = 14.5664(2) A for Ba_{6}Ge_{25} and of a = 14.4703(2) A for Na_{2}Ba_{4}Ge_{25}.
+
+Ba_{6}Ge_{25} exhibits rich properties at low temperatures.[5, 9] At ambient pressure, Ba_{6}Ge_{25} undergoes a two-step structural phase transition at temperatures of T_{S1} = 215 K and T_{S2}\approx 180 K due to the Ge-Ge bond breaking combined with the displacement of neighboring Ba atoms to the split positions.[10] The structural transition is accompanied by drastic changes of both transport and thermodynamic properties.[9] The magnetic susceptibility is negative over the whole temperature range and decreases steeply at the structural phase transition. Upon cooling down, the electrical resistivity \rho(T) exhibits metallic behavior at high temperature, but increases abruptly at T_{S1} and subsequently again at T_{S2}. It slowly rises with further decreasing temperature and approaches a saturation value of \rho_{0} \approx 1.5 m\Omega cm below 10 K. Surprisingly, BCS-like superconductivity occurs at T_{c} \approx 0.24 K out of the resulting bad metal.[5] Upon applying pressure, the structural phase transition is shifted to lower temperature while T_{c} increases drastically. T_{c} reaches a maximum value of T_{c} \approx 3.8 K at a critical pressure of p_{c} \approx 2.8 GPa, where the structural distortion is completely suppressed and the system displays metallic behavior above T_{c}, resembling the case of Na_{2}Ba_{4}Ge_{25} at p \approx 0.[5]
+
+To understand these fascinating phenomena observed in Ba_{6}Ge_{25}, there we analyze the possible reasons for the enhancement of T_{c} under pressure. For comparison, the pressure dependence of T_{S1}, T_{S2}, and T_{c} for Ba_{4}Ge_{25}, previously presented in Ref. [5], is replotted as a function of lattice parameter a in Fig. 1 together with that of Na_{2}Ba_{4}Ge_{25}. The relationship between pressure and lattice parameter for Ba_{6}Ge_{25} was obtained from high pressure x-ray diffraction experiments at ambient temperature employing a synchrotron source, which gives a volume bulk modulus of B0 = 44(2) GPa and its pressure derivative of B_{0}^{\prime}=5.8(8). As an approximation, the same bulk modulus was also used for Na_{2}Ba_{4}Ge_{25}. Contrary to Ba_{6}Ge_{25}, Na_{2}Ba_{4}Ge_{25} does not undergo a structural phase transition. From Fig. 1, one can see that the critical lattice parameter a of Ba_{6}Ge_{25} is much smaller than the ambient-pressure lattice parameter of Na_{2}Ba_{4}Ge_{25}, indicating that the occurrence of the structural phase transition is not simply governed by volume. In light of this, it is surprising to observe that T_{c} of these two compounds is equal at a = 14.47 A, which is the ambient-pressure lattice parameter of Na_{2}Ba_{4}Ge_{25}. This coincidence seems more accidental rather than being due to a physical effect. As shown in Fig. 1, Ba_{6}Ge_{25} has a much lower T_{c} than  Na_{2}Ba_{4}Ge_{25} at ambient pressure. In Ba_{4}Ge_{25}, the specific heat and magnetic susceptibility give a bulk superconducting transition at T_{c} \approx 0.14 K and the resistivity shows T_{c}\approx 0.24 K. By comparison, Na_{2}Ba_{4}Ge_{25} demonstrates a much higher T_{c} (\sim0.84 K) from both specific heat and resistivity at ambient pressure. Correspondingly, a higher Sommerfeld coefficient \gamma is obtained in Na_{2}Ba_{4}Ge_{25} (\simeq33.3 mJ/mol K^{2}) than in Ba_{4}Ge_{25} (\simeq21.5 mJ/mol K^{2}), revealing that the electronic density of states N(E_{F}) in Na_{2}Ba_{4}Ge_{25} is higher than in Ba_{4}Ge_{25}. On the other hand, once the structural transition (T_{S1}, T_{S2} in Fig. 1) of Ba_{4}Ge_{25} is suppressed by applying pressure, these two compounds behave very similarly both in the superconducting and in the normal state. However, Ba_{4}Ge_{25} now shows a much higher T_{c} than Na_{2}Ba_{4}Ge_{25}. The relatively larger T_{c} in Ba_{4}Ge_{25} at elevated pressure may be understood as follows: (1) Ba_{4}Ge_{25} has a nominally higher charge-carrier concentration than Na_{2}Ba_{4}Ge_{25} and (2) Ba may have a stronger hybridization with the Ge states than Na as discussed for the type-I clathrates.[11] All these effects may enhance the density of states N(E_{F}) and give rise to a higher T_{c} in Ba_{4}Ge_{25}.
+
+In Fig. 2, T_{c} of Ba_{4}Ge_{25} is plotted as a function of the residual resistivity \rho_{0}. Remarkably, T_{c} can be nicely fitted by an exponential decrease of T_{c} = 7.5 K e^{-2(\ln\Omega_{\rm c})^{-1}\rho_{0}} (solid line in Fig. 2). According to the BCS formula,
+
+\[T_{c}\propto\Theta_{D}\exp[-1/N(E_{F})V],\] (1)
+
+where \Theta_{D} is the Debye temperature and V is the pairing potential arising from the electron-phonon interaction. Comparing Eq. (1) to the fitting function shown in Fig. 2, one finds that \rho_{0}\sim 1/N(E_{F}) if V and \Theta_{D} are independent of pressure. This latter assumption is corroborated by the pressure dependence of T_{c} for Na_{2}Ba_{4}Ge_{25}. In Ba_{4}Ge_{25}, the residual resistivity \rho_{0} strongly decreases with increasing pressure, suggesting a corresponding increase of N(E_{F}). It is noted that the strong decrease of the residual resistivity \rho_{0} under pressure is not due to effects like, e.g., grain-boundary scattering in the polycrystalline samples because applying pressure hardly changes the electrical resistivity at room temperature.[5]
+
+From the above discussion, one can see that the variation of N(E_{F}) as a function of pressure may govern the stability of superconductivity in Ba_{4}Ge_{25}. The disorder resulting from the structural transition may smear out the density of states at the Fermi energy, which causes a significant reduction of N(E_{F}). Recently, electronic band-structure calculations for Ba_{4}Ge_{25} and Na_{2}Ba_{4}Ge_{25}, using the linear muffin-tin orbital method within the local-density approximation,[12] have shown that the barium states strongly contribute to N(E_{F}). A sharp peak in the density of states is found close to the Fermi level in the ideal Ba_{4}Ge_{25} (i.e., all the Ba atoms are at their average positions), but this peak is split while shifting the Ba2 atoms towards one of the split positions. The reduction of N(E_{F}) may also explain the structural-transition induced anomalies on the thermodynamic properties such as the magnetic susceptibility. To provide experimental evidence in support of these speculations, in this paper we study the upper critical field of Ba_{4}Ge_{25} and Na_{2}Ba_{4}Ge_{25} under hydrostatic pressure, from which the pressure dependence of the density of states N(E_{F}) is inferred. It demonstrates that N(E_{F}) of Ba_{4}Ge_{25} plays a governing role for the enhancement of T_{c} under pressure, increasing by a factor of about 4 as the structural distortion is suppressed.
+
+## II Experimental Methods
+
+Polycrystalline samples of Ba_{4}Ge_{25} and Na_{2}Ba_{4}Ge_{25} have been prepared by a high frequency melting technique in an argon protective atmosphere.[9] Powder x-ray diffraction and metallography identity them as being single phase. It is noted that the samples measured here are not the same as those studied before in Ref. [5]. Since the density of states at the Fermi energy is simply proportional to the Sommerfeld coefficient \gamma, measurements of heat capacity under pressure may provide direct information about N(E_{F}). However, Ba_{4}Ge_{25} has a small volume specific heat, which prevents it from being resolved in the experiments using a standard piston-cylinder pressure cell. Therefore, we have chosen an alternative approach to estimate N(E_{F}), namely by measuring the upper critical magnetic field of the superconductor (H_{c2})
+
+Figure 2: T_{c} vs the residual resistivity \rho_{0} for Ba_{4}Ge_{25}. The solid line is an exponential fit to the data points.
+
+Figure 1: The transition temperature vs lattice parameter (pressure) phase diagram for Ba_{4}Ge_{25}. For the calculation of the lattice parameters see text. The values of T_{c} are multiplied by a factor of 20. For a better comparison, T_{c}(a) of Na_{2}Ba_{4}Ge_{25} (\square) at ambient pressure is marked by a vertical dashed line, while the dependence of T_{c} on the lattice parameter a is represented by the dotted line.
+
+  The electrical resistivity \rho(T) has been measured by using a low power AC four-terminal method in a dilution refrigerator. To reach high pressure, we employ a CuBe/MP35N nonmagnetic hydrostatic clamp cell filled with a 1:1 mixture of iso-pentane and n-pentane as pressure transmitting medium. The relatively large volume of this cell allows simultaneous measurements on multiple samples up to 3 GPa, which offers an opportunity to study the two different compounds under the same conditions. The pressure was determined within an error of 0.05 GPa at low temperature from the superconducting transition temperature of Sn. Absolute resistivity values for the small crystals were obtained by extrapolating the high pressure, room temperature data to zero pressure to match the ambient pressure, room temperature resistivity measured on large reference crystals.
+
+## III Results and Discussion
+
+In Fig. 3, we present the results of the upper critical magnetic field for Ba_{6}Ge_{25}. As an example, the temperature dependence of the resistivity \rho(T) for p = 0.74 GPa and 2.73 GPa at various magnetic fields is shown in Figs. 3(a) and 3(b), respectively. The broad superconducting transition at low pressures might be due to sample inhomogeneities. One can see that the superconducting transitions are rapidly suppressed by applying a magnetic field. In Fig. 3(c), the critical field H_{c2} is plotted as a function of temperature for various pressures. The thick lines represent the linear fits for the data near T_{c}. One can see that all the thick lines are nearly parallel, indicating a weak pressure dependence of the initial slope of the upper critical field. Similar behavior of H_{c2} is also observed in Na_{2}Ba_{4}Ge_{25}.
+
+The values of the initial slope of the upper critical field H^{\prime}_{c2} = (-dH_{c2}/dT)_{Tc} are shown in Fig. 4 for Ba_{6}Ge_{25} and Na_{2}Ba_{4}Ge_{25}. Evidently, H^{\prime}_{c2} of Na_{2}Ba_{4}Ge_{25} is nearly pressure independent between 1 and 3 GPa. By applying pressure to suppress the structural distortion in Ba_{6}Ge_{25}, T_{c} undergoes a drastic enhancement. However, no significant change of H^{\prime}_{c2} is observed in Ba_{6}Ge_{25} under pressure. We note that the sample of Ba_{6}Ge_{25} studied here exhibits a relatively small value of H^{\prime}_{c2} \simeq 1.5 T/K at p = 0.1 GPa in comparison with the previous results measured at ambient pressure (H^{\prime}_{c2} = 2.9 T/K).[5] Since in polycrystalline samples the grain boundaries and the grain geometries may affect the critical current and the penetration depth, respectively, the difference in the absolute values of H^{\prime}_{c2} might be mainly due to the different grain geometries in the two samples measured.
+
+Based on the evaluation of the Ginzburg-Landau parameters from the BCS-Gorkov equations, a few superconducting and normal-state parameters can be estimated from the measurements of the upper critical magnetic field.[13, 14] Within the BCS theory, the initial slope of the upper critical field can be expressed by
+
+\[H^{\prime}_{c2} = -\left.\frac{dH_{c2}}{dT}\right|_{T_{c}}\] (2) \[= R(\lambda_{tr})\Bigg{[}\Bigg{(}1.18\times 10^{35}\frac{\text{T}\text{m}^{2}\text{K}^{2}}{\text{J}^{2}}\Bigg{)}\frac{\gamma^{2}T_{c}}{S^{2}}\] \[+\Bigg{(}4490\frac{\text{T}\text{m}^{2}\text{K}}{\text{\Omega J}} \Bigg{)}\gamma p_{0}\Bigg{]}.\]
+
+Here S is the Fermi surface area on which the Cooper pairs are formed; R(\lambda_{tr}) varies monotonously between R(0) = 1 in the dirty limit and R(\infty) = 1.17 in the clean limit. In the dirty limit, the second term in Eq. (2) dominates and H^{\prime}_{c2} can be written as[13]
+
+\[H^{\prime}_{c2}(\text{dirty})=\Bigg{(}4490\frac{\text{T}\text{m}^{2}\text{K}^{2}}{\text{\Omega J}}\Bigg{)}\gamma p_{0}.\] (3)
+
+Then \gamma can be estimated from the measurements of \rho_{0} and H^{\prime}_{c2} according to Eq. (3).
+
+Figure 3: The temperature dependence of the electrical resistivity \rho(T) for Ba_{6}Ge_{25} at various magnetic fields: (a) p = 0.74 GPa and (b) p = 2.73 GPa. (c) The upper critical field H_{c2}(T) for p = 0.1, 0.74, 1.86, 2.6, and 2.73 GPa. When the applied field exceeds H_{c2}(T), the entire specimen reverts to the normal state. The thick lines illustrate the linear fits to the data near T_{c}.
+
+  The electronic density of states N(E_{F}) per formula unit can be calculated from
+
+\[\gamma=\frac{\pi^{2}k_{B}^{2}}{3}\frac{N(E_{F})}{V_{0}},\] (4)
+
+where V_{0} is the cell volume per formula unit.
+
+At ambient pressure, it has been demonstrated that Ba_{6}Ge_{25} is a bad metal with a very short mean-free path (l\sim 3 A).[5] In order to confirm the feasibility of adopting the dirty limit in Ba_{6}Ge_{25} and Na_{2}Ba_{4}Ge_{25} under pressure, we first examine the Ginzburg-Landau coherence length \xi as compared with the electronic mean-free path l, which are given by[5]
+
+\[\xi^{2}=4.76\times 10^{4}(\rm T\ \AA^{2})[\it{H}_{c2}^{\prime}(\rm T/K)\cdot T _{c}(\rm K)]^{-1}\] (5)
+
+and
+
+\[l=1200[k_{F}^{2}(\rm\AA^{-2})\cdot\rho_{0}(\mu\Omega\ \rm cm)]^{-1}(\rm\AA).\] (6)
+
+Here, k_{F} is the wave vector at the Fermi surface. It is estimated here by assuming a spherical Fermi surface as for free electrons, which can be written as
+
+\[k_{F}=(3\,\pi^{2}n)^{1/3},\] (7)
+
+where n is the electron density. The Hall-effect measurements showed that the charge-carrier concentration of Ba_{4}Ge_{25} at low temperature is close to the nominal value derived from the Zintl rule, and in the case of Na_{2}Ba_{4}Ge_{25} the experiment gives a higher electron concentration.[9] For simplicity, we take the nominal value of n to estimate k_{F} here, which gives k_{F}=0.54(\rm\AA)^{-1} for Ba_{6}Ge_{25} and 0.43 A^{-1} for Na_{2}Ba_{4}Ge_{25}. Under hydrostatic pressure, we assume that it remains constant.
+
+Figures 5 and 6 present the pressure dependences of the mean free path l, the coherence length \xi, and its ratio l/\xi for Ba_{4}Ge_{25} and Na_{2}Ba_{4}Ge_{25}, respectively. Both compounds exhibit l\ll\xi at all pressures [see Fig. 5(c) and Fig. 6(c)], suggesting that the samples are in the dirty limit and one can employ Eq. (3) to calculate \gamma from \rho_{0} and H_{c2}^{\prime}. The corresponding density of states N(E_{F}) can then be calculated from Eq. (4). Comparing Fig. 5 with Fig. 6, one can see that the compounds Ba_{6}Ge_{25} and Na_{2}Ba_{4}Ge_{25} display an opposite pressure dependence of l and \xi. This distinct behavior may originate from the structural transition in Ba_{6}Ge_{25}. When the structural transition vanishes at p_{c}\sim 2.7 GPa, the mean-free path of Ba_{4}Ge_{25} approaches that of Na_{2}Ba_{4}Ge_{25}.
+
+In Fig. 7, the pressure dependence of the obtained density of states N(E_{F}) is shown for Ba_{4}Ge_{25} and Na_{2}Ba_{4}Ge_{25}. As expected from the analysis previously made in the Introduction, N(E_{F}) of Ba_{4}Ge_{25} is strongly enhanced under pressure, increasing by a factor of about 4 at p\sim p_{c}. For the undistorted Ba_{4}Ge_{25}, N(E_{F},p) seems to saturate, which is again similar to the case of Na_{2}Ba_{4}Ge_{25} but with a larger value.
+
+It has been argued before that the density of states N(E_{F}) might be closely associated with the residual resistivity \rho_{0} in Ba_{6}Ge_{25} from the analysis of T_{c} and \rho_{0}. In Fig. 8(a), we plot \rho_{0} against the experimentally obtained 1/N(E_{F}) for Ba_{4}Ge_{25}. It shows that all the data points fall on a straight line, confirming that \rho_{0}\sim 1/N(E_{F}) in the distorted Ba_{6}Ge_{25}. This is similar to the case of the widely studied A15 compounds (see, e.g., Ref. [15]). Figure 8(b) shows T_{c} versus 1/N(E_{F}) for Ba_{6}Ge_{25}, which can be fitted by an exponential decay [T_{c}
+
+Figure 5: The pressure dependence of the coherence length \xi (a), the mean-free path l (b), and the ratio l/\xi (c) for Ba_{4}Ge_{25}. The relation of l/\xi\ll 1 indicates that Ba_{4}Ge_{25} is in the dirty limit even at high pressures.
+
+Figure 7: The pressure dependence of the density of states N(E_{F}) for Ba_{6}Ge_{25} (▲) and Na_{2}Ba_{4}Ge_{25} (□). N(E_{F}) of Ba_{4}Ge_{25} is enhanced by a factor of about 4 as its structural transition is suppressed at p_{c}\sim 2.7 GPa, whereas Na_{2}Ba_{4}Ge_{25} shows a weak decrease of N(E_{F}) under pressure.
+
+  =11 K exp(-_N_0/0.053_N_(E_{F}))] where N0=1 state/eV. All these results suggest that the density of states at the Fermi energy _N_(E_{F}) governs the drastic enhancement of T_{c} under pressure in Ba_{6}Ge_{25} and that the structural transition results in a large reduction of _N_(E_{F}). Other factors have minor effect on the superconductivity of Ba_{6}Ge_{25}.
+
+The inverse relationship of r0~1/_N_(E_{F}) can be qualitatively understood by considering a sharp structure in the density of states near E_{F} with a width D_W_. Actually, recent band-structure calculations have revealed a peak of _N_(E_{F}) in Ba_{6}Ge_{25},[12] Sharp structures at the Fermi level may effectively be broadened by the strong scattering present in the bad metals such as Ba_{6}Ge_{25}. It is argued[15] that _N_(_E_) must be averaged over D_E_, which becomes important when the uncertainty in energy D_E_ approaches D_W_. D_E_ is related to the quasiparticle lifetime. According to the uncertainty principle, one has
+
+\[\Delta E\Delta t=\Delta E\cdot l\upsilon_{F}=\hbar,\] (8)
+
+where _\upsilon_{F}_ refers to the Fermi velocity. In the dirty limit as observed in our compounds, l is quite small and hence D_E_ becomes large. Therefore, the smearing of _N_(E_{F}) becomes very important, leading to a significant decrease of _N_(E_{F}). Since D_E_ goes as 1/_l_, it means D_E_~_r_0. If one assumes a constant number of states near E_{F}, i.e., D_E_~_N_(E_{F}) =constant, then one has r0~1/_N_(E_{F}).
+
+Measurements of the thermopower[9] and the optical reflectivity[16] at ambient pressure appear to contradict this interpretation, revealing that below the structural phase transition the effective mass of electrons increases by a factor of about 4, but the relaxation time remains constant. These results are incompatible with the superconducting properties, the reason of which is still unclear. One possibility may arise from the charge-carrier concentration _n_(_T_). Very recently, single-crystal x-ray diffraction measurements suggest that the number of excess electrons is reduced by 1.8_e_- per formula unit at the structural phase transition due to the modification of the Ge bonds.[10] In the initial analysis of the thermopower[9] and the optical reflectivity,[16] it was assumed that _n_(_T_) decreases monotonically upon cooling down. The stepwise reduction of the charge-carrier concentration at the structural phase transition would now make the analysis of the thermopower[9] and the optical reflectivity[16] consistent with our results.
+
+## IV Conclusion
+
+The remarkable pressure dependences of the structural phase transition and superconductivity observed in Ba_{6}Ge_{25} are discussed in comparison with its isostructural variant Na_{2}Ba_{4}Ge_{25}. To understand the huge enhancement of T_{c} in Ba_{6}Ge_{25} when its structural distortion is prevented by pressure, we have investigated the pressure dependence of the density of states _N_(E_{F}) by measuring the upper critical magnetic field. It is shown that both compounds are in the dirty limit even under pressure and that the slope of the upper critical field H_{c2}^{\prime} hardly depends on pressure. In Ba_{6}Ge_{25} the density of states _N_(E_{F}) increases with increasing pressure (by a factor of about 4 up to p \simp_{c}), but Na_{2}Ba_{4}Ge_{25} shows a slight decrease of _N_(E_{F}) under pressure. Moreover, we found a relationship of r0~1/_N_(E_{F}) for Ba_{6}Ge_{25}. All these suggest that the structural phase transition in Ba_{6}Ge_{25}, caused by the breaking of some Ge-Ge bonds, results in a significant reduction of _N_(E_{F}). The pressure dependence of T_{c} is found to be governed by _N_(E_{F}), providing a physical picture to describe the unusual behavior observed in Ba_{6}Ge_{25}.
+
+## Acknowledgments
+
+The authors acknowledge the helpful discussions with J. Mydosh, S. Paschen, J. Sichelschmidt, S. Yamanaka, and I. Zerec.
+
+## References
+
+* [1] H. Kawaji, H. O. Horie, S. Yamanaka, and M. Ishikawa, Phys. Rev. Lett. **74**, 1427 (1995).
+* [2] B. C. Sales, B. C. Chakoumakos, R. Jin, J. R. Thompson, and D. Mandrus, Phys. Rev. B **63**, 245113 (2001); S. Paschen, W. Carrillo-Cabrera, A. Beniten, V. H. Tran, M. Baenitz, Yu. Grin,  and F. Steglich, _ibid._**64**, 214404 (2001).
+* [3] G. S. Nolas, G. A. Slack, and S. B Schujman, in _Semiconductors and Semimetals_, edited by T. M. Tritt (Academic, San Diego, 2001), Vol. 69, p. 255.
+* [4] A. San-Miguel, P. Keghelian, X. Blase, P. Melinon, A. Perez, J. P. Itie, A. Polian, E. Reny, C. Cros, and M. Pouchard, Phys. Rev. Lett. **83**, 5290 (1999).
+* [5] F. M. Grosche, H. Q. Yuan, W. Carrillo-Cabrera, S. Paschen, C. Langhammer, F. Kromer, G. Sparn, M. Baenitz, Yu. Grin, and F. Steglich, Phys. Rev. Lett. **87**, 247003 (2001); H. Q. Yuan, F. M. Grosche, W. Carrillo-Cabrera, S. Paschen, C. Langhammer, G. Sparn, M. Baenitz, Yu. Grin, and F. Steglich, High Press. Res. **22**, 147 (2002).
+* New Cryst. Struct. **215**, 207 (2000).
+* [7] H. Fukuoka, K. Iwai, S. Yamanaka, H. Abe, K. Yoza, and L. Haming, J. Solid State Chem. **151**, 117 (2000); S. J. Kim, S. Hu, C. Uher, T. Hogan, B. Huang, J. D. Corbett, and M. G. Kanatzidis, _ibid._**153**, 321 (2000).
+* New Cryst. Struct. **216**, 183 (2001).
+* [9] S. Paschen, V. H. Tran, M. Baenitz, W. Carrillo-Cabrera, Yu. Grin, and F. Steglich, Phys. Rev. B **65**, 134435 (2002).
+* [10] W. Carrillo-Cabrera, H. Borrmann, S. Paschen, M. Baenitz, F. Steglich, and Yu. Grin (unpublished).
+* [11] S. Saito and A. Oshiyama, Phys. Rev. B **51**, 2628 (1995); K. Moriguchi, M. Yonemura, A. Shintani, and S. Yamanaka, _ibid._**61**, 9859 (2000).
+* [12] I. Zerec, A. Yaresko, P. Thalmeier, and Yu. Grin, Phys. Rev. B **66**, 045115 (2002).
+* [13] T. P. Orlando, E. J. McNiff, Jr., S. Foner, and M. R. Beasley, Phys. Rev. B **19**, 4545 (1979).
+* [14] N. R. Werthamer, E. Helfand, and P. C. Hohenberg, Phys. Rev. **147**, 295 (1966).
+* [15] H. Wiesmann, M. Gurvitch, A. K. Ghosh, H. Lutz, O. F. Kammerer, and M. Strongin, Phys. Rev. B **17**, 122 (1978).
+* [16] J. Sichelschmidt, V. Voevodin, S. Paschen, W. Carrillo-Cabrera, Yu. Grin, and F. Steglich, Acta Phys. Pol. B **34**, 613 (2003).
+
+ 

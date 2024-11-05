@@ -1,0 +1,160 @@
+
+
+# Comparative study of the characteristic length scales and fields
+
+of Hg-based high-\(T_{c}\) superconductors
+
+J. R. Thompson
+
+Oak Ridge National Laboratory, P.O. Box 2008, Oak Ridge, Tennessee 37831-6061
+
+and Department of Physics, University of Tennessee, Knoxville, Tennessee 37996-1200
+
+J. G. Ossandon
+
+Facultad de Ingenieria, Universidad de Talca, Curico, Chile
+
+D. K. Christen
+
+Oak Ridge National Laboratory, P.O. Box 2008, Oak Ridge, Tennessee 37831-6061
+
+Y. C. Kim*
+
+Department of Physics, University of Tennessee, Knoxville, Tennessee 37996-1200
+
+27 February 1996
+
+###### Abstract
+
+The equilibrium magnetization was studied in magnetically aligned Hg-based cuprate superconductors with a crystal structure containing one, two, and three adjacent Cu-O layers. The mixed state magnetization was measured with the magnetic field applied perpendicular to the layers, along with low field Meissner effect and normal state susceptibility studies for volume correction factors. The internally consistent analysis is used to identify systematics as the number "_n_" of Cu-O layers increases. The study reveals a linear increase in the slope of upper critical field \(-dH_{c2}\)/\(dT\) with "_n_". Most importantly, we find a nearly constant carrier doping per Cu-O layer. This result is compared with other studies, e.g., Rietveld analysis of neutron diffractometry, and its implications are discussed. [S0163-1829(96)04534-1]
+
+## Introduction
+
+A ubiquitous feature of high-\(T_{c}\) superconductors is the presence of copper-oxygen layers in the material crystal structure. These sheets stack with one, two, three, or even more adjacent layers to form a set of planes. Between the plane sets are separator or "blocking" layers of Hg-O, Bi-O, or Tl-O, for example, which complete the structure and provide charge carriers for the conductive Cu-O planar sets. This stacking of building blocks gives existence to a homologous series of structures, i.e., families of superconductors.
+
+In this work, we make a systematic study of the Hg-based cuprate family containing one, two, or three adjacent Cu-O layers per set. Studies of the equilibrium magnetic properties give internally consistent measures of the superconducting length scales: the coherence length \(x\) and the London penetration depth \(l\). We use a convenient available theoretical method--the formalism of Hao-Clem _et al._'--to analyze experimental studies of magnetically aligned powders, dispersed in epoxy. In all cases, we consider the well defined and conceptually simple configuration with the magnetic field applied perpendicular to the Cu-O planes; we avoid too the additional complexity of angular averages associated with random polycrystalline materials. With a tetragonal crystal structure and comparatively stable oxygen stoichiometry, the Hg-based cuprate superconductors constitute a nearly ideal case. Hence we have made a systematic study of the first three members, to determine what trends may exist in their characteristic length and magnetic field scales.
+
+The first of the Hg-based cuprates, HgBa\({}_{2}\)CuO\({}_{4+\delta}\) (Hg-1201) possesses just one Cu-oxide layer per unit cell and exhibits a remarkably high transition temperature \(T_{c}\) near 95 K.2 Hg-1201 is the first member (_n_ = 1) of the homologous series of HgBa\({}_{2}\)Ca\({}_{n-1}\)Cu\({}_{4}\)O\({}_{2n+2+\delta}\), similar to the mono-Tl-O layered series TlBa\({}_{2}\)Ca\({}_{n-1}\)Cu\({}_{4}\)O\({}_{2n+3}\). The \(n\) = 2 member of these Hg compounds was first formed as part of a nonsuperconductive multiphase mixture3 and later the superconducting compound HgBa\({}_{2}\)CaCu\({}_{2}\)O\({}_{6+\delta}\) was synthesized.4\({}^{\rm{.}\rm{.}\rm{6}}\) Hereafter we denote the two layer Hg-Ba-Ca-Cu oxide as Hg-1212. The \(n\) = 3 member, HgBa\({}_{2}\)Ca\({}_{2}\)Cu\({}_{3}\)O\({}_{8+\delta}\)(Hg-1223), was first synthesized by Schilling _et al._7 and found to have the unprecedentedly high \(T_{c}\) of 133 K. Structurally, all of these materials have conceptually simple tetragonal crystallography. A useful set of idealized perspective drawings of these structures, as well as those of many other high-\(T_{c}\) materials, has been compiled by Shaked _et al._8
+
+## Experimental aspects
+
+Bulk samples of Hg-based high-\(T_{c}\) cuprates were prepared by solid-state reaction from stoichiometric mixtures of 99.998% HgO, 99.997% BaO, 99.97% CaO, and 99.999% CuO, as described previously.9 The resulting polycrystalline materials were checked for structure by x-ray diffraction and their superconductive properties were precharacterized using dc magnetic methods. We then formed aligned composite samples by grinding the materials to monocrystalline powders (~7 \(\mu\)m diameter), dispersing the powder in "45 min" liquid epoxy, and magnetically aligning10 the particles in a 5 T field. Typically the volume fraction of superconductor in the epoxy matrix was ~10%. To quantify the alignment of the particles, we performed x-ray diffraction with the scat tering vector parallel to the direction of the alignment field. The diffractograms had strong (00_l_) reflections, but (_hkl_) reflections with nonzero indices \(h\) or \(k\) were immeasurably small. Figure 1 shows the rocking curves for the (006) lines of each sample. For these omega scans, a Rigaku rotating anode x-ray generator was used with a graphite monochromator to select Cu \(K_{a}\) radiation. It is evident that the angular alignment is good, with full widths at half maximum (FWHM) of 2.4deg, 1.9deg, and 2.5deg for the Hg-1201, Hg-1212, and Hg-1223 materials, respectively. Previously we reported [11] on some equilibrium properties of aligned Hg-1223; the present results differ only slightly (mainly due to revised background and volume corrections) and are included to facilitate intercomparison of the three materials.
+
+A SQUID-based magnetometer (Quantum Design model MPMS-7) was used to measure the magnetic properties of the materials, both in the low field Meissner state and in the vortex state above the lower critical field _H__c_1. In all cases, the magnetic field \(H\) was applied perpendicular to the Cu-O planes, i.e., _H_\(\parallel\)_c_ axis of the composite sample. Scan lengths of 3 cm were used to maintain a field uniformity of <0.005% in the 7 T magnet during measurement. In low field studies (_H_\({}_{\rm{appl}}\)=4 G), we measured the magnetic shielding signal (zero field cooled=ZFC) and Meissner signal (field cooled=FC) as a function of temperature. To permit application of a precisely known field, the superconductive magnet in the magnetometer was "reset" by heating it above its \(T_{c}\) of ~9 K prior to inserting the sample. The superconducting magnetization _M_(_T_,_H_) is defined as the magnetic moment \(m\) per unit of volume of superconductor. Unfortunately, determining the superconducting volume fraction for high-_T__c_ materials is notoriously difficult and is discussed in a later section. To proceed, we take for the volume _V_\({}_{\rm{tot}}\)=(mass/\(\rho_{\chi}\) rays) the mass of Hg-Ba-Ca-Cu oxide divided by the x-ray density of the respective superconductor. Then the experimental Meissner susceptibility is \(\chi\)=_m_/(_V_\({}_{\rm{tot}}\)_H_\({}_{\rm{eff}}\)), where _H_\({}_{\rm{eff}}\)=(_H_\({}_{\rm{appl}}\)-4 \(\pi\)_DM_) is the effective magnetic field and _D_\(\rightarrow\)1/3 is the effective demagnetizing factor for the roughly equiaxed particles. The results for the FC (Meissner) study are shown in Fig. 2, a plot of 4 \(\pi\chi(T)\) versus temperature for the three materials. Generally the ZFC shielding susceptibility (not shown for clarity) was only slightly larger in magnitude, as is typically the case for small, isolated monocrystalline particles.
+
+Since the Meissner state susceptibility of an ideal superconducting body is -1/4 \(\pi\), the quantity -4 \(\pi\chi(T\)\(\ll\)\(T_{c}\)) gives an estimate for the volume fraction _V_\({}_{\rm{sc}}\)/_V_\({}_{\rm{tot}}\) of superconductor. Values at \(T\) = 5 K are given in Table 1 for each material. These values should be a lower bound on the true volume fraction, as both vortex pinning and small particle size effects [12] reduce the magnitude of expelled flux.
+
+In the mixed state, measurements of the isothermal magnetization \(M\) were made for a set of temperatures \(T\) between 5 K and \(T_{c}\). To obtain virgin magnetization curves, trapped flux was released from the sample by heating it above \(T_{c}\) and then recooling it in zero applied field. Prior to applying the magnetic field \(H\), the temperature was stabilized to within +-0.05 K of the target temperature. With the temperature stabilized, the magnetic moment \(m\) was measured for fields \(H\) in the range 0.01-6.5-0.01 T. A 10 s pause after each field change allowed rapid instrumental transients to decay.
+
+To correct for magnetic background effects, the normal state magnetic susceptibility was measured for temperatures from 250 K down to the fluctuation region near \(T_{c}\). A Curie-like behavior was found, with \(m_{g}\) = _H_(_kh_0 + _C__t_/_T_); note that the coefficients in this expression refer to the magnetic moment and not the moment per volume. This dependence was extrapolated to temperatures below \(T_{c}\) and subtracted from the measured magnetic moment, in order to isolate the superconducting signal. Then the equilibrium magnetization was determined as the mean value between field-increasing and field-decreasing magnetic moment, divided by _V_\({}_{\rm{tot}}\). For nearly all of the results reported here, the measurements were conducted in the magnetically reversible region above the irreversibility line and these values coincided. Parenthetically, we note a potential pitfall with the averaging procedure that is related to surface barrier effects, which are fre
+
+Figure 2: The Meissner state diamagnetic susceptibility 4 \(\pi\chi\) versus temperature \(T\) for the three samples shown.
+
+Figure 1: Rocking curves: x-ray count rate (arbitrary logarithmic scale) versus rocking angle for the (006) reflections (Cu _K__α_ radiation) from three magnetically aligned samples of Hg-cuprate superconductor. Lines are fits to the expression \(I\) = \(I\)0(1 + \(\omega^{2}/\Omega^{2}\))−3/2.
+
+  quently observed in Hg-based superconductors.[13, 14, 15] With a surface barrier, the thermally activated decay of \(M\) is much more rapid in the field-increasing branch. Consequently the mean value of substantially hysteretic signals tends to underestimate the magnitude of the equilibrium magnetization--and the severity of the effect may be field dependent. Measurements of the hysteresis loops, with \(H\) first increasing and then decreasing, made it easy to recognize regions of magnetic irreversibility at lower fields and temperatures.
+
+One can also extract complementary estimates for the superconducting volume fraction from the magnetic background measurements, specifically the "Curie constant" \(C^{\prime}\). This temperature dependent component arises mostly from paramagnetic Cu ions, since closed shell ions such as Ba\({}^{+2}\) or Ca\({}^{+2}\) have small diamagnetic moments that give a temperature independent susceptibility. Then the total number of Cu ions is \(N_{\rm tot}\)=(\(N_{\rm sc}\)+\(N_{\rm para}\)), where \(N_{\rm para}\) is the number of Cu ions in insulating, paramagnetic phases such as barium cuprates. For a Curie law susceptibility, we have \(C^{\prime}\) = \(N_{\rm para}\mu_{B}^{2}\)/3\(k_{B}\), where \(\mu_{B}\) is the Bohr magneton, \(p\)\(\sim\)1.73 is the effective moment of an isolated 3\(d^{9}\) Cu\({}^{+2}\) ion, and \(k_{B}\) is Boltzmann's constant. Combining these expressions, we have that \([1\) - \(3\)\(k_{B}\)\(C^{\prime}\)/\(N_{\rm tot}\)\(\mu_{B}^{2}\)\(p^{2}\)] = \(N_{\rm sc}\)/\(N_{\rm tot}\) = \(V_{\rm sc}\)/\(V_{\rm tot}\). From this procedure, an independent set of estimates for the superconducting volume fraction was obtained. The values are shown in Table I. This modeling assumes that the normal state susceptibility of the superconducting phase _per se_ is nominally temperature independent, which is plausible for a system with extended "_d_" states and is observed experimentally.
+
+## Experimental results
+
+To obtain information on the microscopic superconducting properties of the three Hg cuprates, we use the formulation of Hao-Clem to analyze the reversible magnetization \(M\). The authors[1] have described in detail the basis for this theory. It accounts explicitly for the core energy of vortices, through approximate analytical expressions for their structure, and provides values for the Ginzburg-Landau parameter \(\kappa(T)\) = \(\lambda(T)\)/\(\xi(T)\) and the thermodynamic critical field \(H_{c}(T)\). In practice, the formalism is implemented using a self-consistency criterion: one analyzes the isothermal \(M(H)\) at various fields (here \(H\) = 1, 2, 3, 4, and 5 T) and finds a value for \(\kappa\) such that \(H_{c}(T)\) is the same (or nearly so) at each field. Then the process is repeated at other fixed temperatures; our methodology has been reported previously.[16] The values of \(\kappa(T)\) for the three samples with \(H\)\(\parallel\)\(c\) axis are shown in Fig. 3 as a function of reduced temperature \(t\) = \(T\)/\(T_{c}\). The results for the range \(t\) \(\leq\)0.85 are well behaved, with \(\kappa\) being nearly independent of temperature. For \(t\) \(>\)0.85, fluctuation effects cause the extracted values to increase rapidly with temperature, with qualitatively similar behavior for the three samples. As fluctuations are not incorporated in the Hao-Clem formulation, the data near \(T_{c}\) are excluded from the subsequent analysis.
+
+To reduce experimental noise, we average \(\kappa\) over its temperature-independent interval \(t\) \(<\)0.8-0.85. We then re-compute \(H_{c}(T)\) at each temperature, for each sample. These resulting equilibrium parameters provide much useful information. For example, the upper critical magnetic field is \(H_{c2}(T)\) = \(\beta\)\(\kappa\)\(H_{c}(T)\) in Ginzburg-Landau theory. Figure 4 shows results for \(H_{c2}\) versus temperature that are reasonably
+
+Figure 3: Temperature dependence of the Ginzburg-Landau parameter \(\kappa\), as obtained by analyzing the reversible magnetization using the Hao-Clem formulation; see text.
+
+  well behaved: (1) as \(T\) decreases from \(T_{c}\), _H__c_2 varies approximately linearly with \(T\) and (2) it continues a smooth, monotonic increase down to the lowest temperatures where the materials were magnetically reversible. For three-dimensional (3D) materials, Werthamer, Helfand, and Hohenberg[17] (WHH) have shown that the upper critical field _H__c_2(0) extrapolated to \(T\) = 0 is proportional to the slope _dH__c_2/_dT_ near \(T_{c}\), with
+
+\[H_{c2}(0) = 0.7T_{c}[dH_{c2}/dT]_{-T_{c}}\]
+
+. Table I contains values extrapolated to \(T\) = 0, using this expression. Corresponding values for the coherence length at zero temperature, \(x_{b}\), were obtained from the standard Ginzburg-Landau (GL) expression _H__c_2(0) = _ph_0/2_π_x__ab_ and are shown in Table I also. Finally, it contains values for the thermodynamic critical field \(H_{c}\) extrapolated to \(T\) = 0. These nominal values were obtained by fitting the BCS expression of Clem[18]
+
+\[\frac{H_{c}}{H_{c}(0)} = 1.7367\left| {1 - \frac{T}{T_{c}}} \right|\left[ {1 - 0.2730} \right| 1 - \frac{T}{T_{c}}\]
+
+\[- 0.0949\left| {1 - \frac{T}{T_{c}}} \right|^{2}\]
+
+which is valid for \(t\) = _T_/_T__c_2 > 0.7.
+
+Let us now account for the influence of an incomplete volume fraction of superconductor, \(f\) = _V__sc_/_V_tot. Conceptually it is simplest to consider the total condensation energy \(E\) of the sample, since the experimental measurement is performed on the total sample, no matter how it is partitioned. So far, all results have been based on the total volume _V_tot, as obtained from the sample mass. Then one has \(E\) ~(\(H_{c}\))2_V_tot with the value \(H_{c}\) for the critical field. If the true, smaller volume of superconductor is _V__sc, then the energy is \(E\) ~(\(H_{c}\),rescaled2_V_sc with a rescaled, larger critical field \(H_{c}\),rescaled. Since the energy (and the sample) are the same in each case, we have \(H_{c}\),rescaled=_H__c_/_V_tot/_V_tot)[12] = _H__c_/_f_1/2. Similar considerations show that the rescaled kappa is _k__rescaled=_k__x__x__f_1/2. Finally, we see that with _H__c_2 = _|_2_k__H__c_, the volumetric factors cancel; hence no rescaling is needed for _H__c_2 or _x  Now we consider the "volume fraction corrected" quantities. The critical field \(H_{c}(0)\) has fundamental thermodynamic interest and is shown in Fig. 5(c) versus layer number \(n\). For Hg-1201, the present value 0.6 T lies between the earlier determinations of Thompson _et al._,20 1.0 T, and that of Puzniak _et al._,23 0.43 T. For Hg-1223, we obtain \(H_{c}(0) = 1.2\) T. This is again about 50% larger than the value of Puzniak _et al._, 0.82 T, but compares well with the result of Schilling _et al._,26 1.4 T. In fact, the latter authors obtained values for both \(H_{c2}\) and \(\kappa\) that are almost identical to our present results, meaning that the difference in \(H_{c}(0)\) likely results only from a difference in extrapolation procedures. It should be noted that Schilling _et al._26 used a rescaling procedure, similar to that described here, to account for an incomplete superconducting volume fraction.
+
+It is interesting to see what further trends emerge from the quantitative results. To do so, we apply simple 3D relations from BCS and Ginzburg-Landau theory. Orlando _et al._,29 whose notation we use in the following, provided a convenient compilation of theoretical results. For example, one can use the relation
+
+\[H_{c} = 4.23\,\gamma^{1/2}T_{c}(1-t)\]
+
+to estimate \(\gamma\), the coefficient of the linear electronic heat capacity. In this tabulation, magnetic fields are measured in Oe, and all lengths are measured in cm. From the values of \(H_{c}\) and \(T_{c}\) , this relation predicts \(\gamma \approx 250\)-\(430\) erg/cm\({}^{3}\) K\({}^{2}\) for the three Hg compounds. This estimate lies much lower than simple BCS theory (which neglects sizeable fluctuation effects) would predict, \(\sim 2000\) erg/cm\({}^{3}\) K\({}^{2}\), from the jump in specific heat of Hg-1223 near \(T_{c}\) as measured by Schilling _et al._26 The estimate compares reasonably well, however, with the value \(\gamma_{\rm BCS}\)\(\sim 600\) erg/cm\({}^{3}\) K\({}^{2}\) for BiPb-2223 deduced by Schnelle _et al._,30 who explicitly allowed for fluctuations in their analysis. Next one has, in the clean limit, that
+
+\[-dH_{c2}/dT = 9.55\times 10^{24}\gamma^{2}T_{c}(n^{23}S/S_{F})^{-2},\]
+
+where \(n\) is the density of conduction electrons, \(S\) is the Fermi-surface area, and \(S_{F}\) is the Fermi-surface area for a free electron gas of density \(n\). Using the slopes of \(H_{c2}\) given in Table 1 and setting \(S/S_{F}\)=1 for simplicity, we estimate that \(n \approx 0.6\), 1.1, and 1.1\(\times 10^{21}\) cm\({}^{-3}\) for the one, two, and three layer material, respectively.
+
+Microscopically, the deduced carrier density corresponds to having 0.08, 0.11, and 0.09 charge carriers _per layer_ in the unit cell: thus the layer doping is approximately the same in the three materials. The deduced doping level is comparable with the oxygen excess \(\delta \approx 0.06\) reported for fully oxygenated Hg-1201 materials31 and \(\delta 2^{\prime} \approx 0.11\) for oxygenated Hg-1212 (Ref. 6). It is particularly striking to compare the present findings with the results of a recent neutron powder diffractometry study,32 performed on materials synthesized and annealed in oxygen in exactly the same manner as those studied in the present work. Rietveld analyses yielded \(\delta\) values of 0.10\(\pm\)0.01, 0.32\(\pm\)0.03, and 0.24\(\pm\)0.03 for the \(n = 1\), 2, and 3 members, respectively. This corresponds to an excess of 0.10, 0.16, and 0.08 oxygens per layer. Thus the deduced doping level per layer is similar for the three materials, which corroborates the finding in the experimentally independent magnetic analysis. Of course, these superconductors are far more complex than simple metals and details of band structure are being ignored--we omit many unknown factors of order unity. Nonetheless, with similarly structured compounds, our treatment preserves the systematics within the Hg-based family and reveals a nominally constant number of carriers per layer in the unit cell. In fact, this conclusion is conceptually consistent with earlier studies of \(T_{c}\) versus hole density in other high-\(T_{c}\) families. In particular, Presland _et al._33 and Tallon and Flower34 have argued that the maximum \(T_{c}\) always occurs at the same number of holes per planar Cu ion, \(\approx 0.16\). The present results for the Hg cuprates can be regarded as independent evidence for the general concept of a constant number of carriers per copper ion, at doping levels that maximize \(T_{c}\) .
+
+A constant areal density \(N/A\) of charge carries has interesting implications. If one regards _each_ Cu-O layer as a 2D electron gas, then the Fermi velocity \(v_{F} \propto (N/A)^{1/2}/m^{*}\) should be the same for each of the three materials, assuming that they have the same electronic effective mass \(m^{*}\). Interestingly, this conjecture regarding the Fermi velocity is implicit in the results for \(\xi\) and \(T_{c}\) in Table 1. Let us recall that, in general, one has \(\xi \propto \hbar v_{F}/\Delta(T = 0) \propto \hbar v_{F}/T_{c}\) , where we
+
+Figure 5: Equilibrium properties versus number \(n\) of adjacent Cu-O layers in Hg-cuprates HgBa\({}_{2}\)Ca\({}_{n-1}\)Cu\({}_{n}\)O\({}_{2n+2}\). (a) the deduced slope \(-dH_{c2}/dT\) of the upper critical field, near \(T_{c}\) ; (b) the coherence length \(\xi_{ab}\) in the \(ab\) (copper-oxygen) plane, extrapolated to \(T = 0\); (c) the thermodynamic critical field \(H_{c,\rm rescaled}(T = 0)\), rescaled to correct for superconducting volume fraction, as described in the text.
+
+  plausibly assume that the superconducting gap ratio \(\Delta/T_{c}\) is the same for the three Hg cuprates. Thus one has that \(\upsilon_{F}\)\({}^{\alpha}\)\(\xi\)\(\times\)\(T_{c}\) : using the results in Table 1 gives the same value for this product, (187 \(\pm\)10) nm K, for each of the three materials. Hence both models, with the assumptions outlined, imply that the Fermi velocity is about the same for the three optimally doped materials. This implication should, of course, be confirmed by other more direct methods.
+
+Continuing, then, with the formalism compiled by Orlando _et al._,[29] one has the following relation for the London penetration depth \(\lambda_{ab}\) :
+
+\[\lambda(T\!=\!0)\!=\!1.33\!\times\!10^{8}\,\gamma^{1/2}(n^{2/3}S/S_{F})^{-1}.\] (5)
+
+Again eliminating the hard-to-measure quantity \(\gamma\) gives estimates for \(\lambda_{ab}\) that are larger than the Table 1 values by a factor of 1.7 in each case. A similar numerical difference was found previously in studies of neutron-damaged BiPb-2223 materials.[35]
+
+Given the higher \(T_{c}\) and short coherence lengths of the cuprate superconductors, it has become apparent that fluctuations play a larger role than in conventional superconductors. Indeed, the apparent upturn and divergence in \(\kappa\) at temperatures near \(T_{c}\) , as observed in Fig. 3, has been accounted for, by incorporating fluctuations in a London formulation.[36, 37] However, we do not use the formalism here for the following reason. A central feature of this theory is a "crossing point" magnetization \(M^{*}\!=\!k_{B}T^{*}\!/\phi_{0}s\), such that the mixed state magnetization at temperature \(T^{*}\) is independent of \(H\). Here "\(s\)" is the spacing between sets of Cu-O planes, which can be obtained from x-ray diffraction. Values for "\(s\)" from magnetization studies are often larger than the x-ray values, and this fact is generally interpreted in terms of an incomplete superconducting value fraction \(f\!=\!(s_{\rm exp}/s_{\rm x})\!\!<\!1\). The difficulty in the present case is that the estimates so obtained are significantly smaller (1/4 to 1/2) than either the Meissner fraction or the estimate based on the Curie background. Given this implausible result, we do not apply here the formalism incorporating fluctuations and exclude the measurements made in the fluctuation region near \(T_{c}\) from our determinations of \(H_{c2_{1}^{*}}\), \(H_{c}\) , etc. Similar contradictions have been noted by others.[38]
+
+Finally, we note that previous applications of the Hao-Clem formalism have yielded unlikely results in some cases. For example, analysis[9] of \(M(H,T)\) for single crystals of Bi\({}_{2}\)Sr\({}_{2}\)Ca\({}_{1}\)Cu\({}_{2}\)O\({}_{8}\) (\(H\|c\)) gave values for \(H_{c2}\) that are independent of temperature for \(T\) in the range 35-70 K. Kogan _et al.[40]_ have shown that nonlocality (a nonlocal relation between the current density \({\bf j}\) and vector potential \({\bf a}\)) accounts well for the observed temperature independence. The phenomenon is most pronounced in very clean, high-\(\kappa\) superconductors. On the other hand, a modest amount of electron scattering (due to structural disorder, impurities, etc.) reduces the mean free path, so that the electrodynamics becomes local and the conventional formalism can be applied. In the present case, Fig. 4 shows that \(H_{c2}\) is well behaved to the lowest temperatures where \(M\) was reversible. Consequently, the Hao-Clem formalism is appropriately applied here.
+
+In conclusion, we have studied the equilibrium magnetization of magnetically aligned Hg-based cuprate superconductors containing one, two, and three adjacent Cu-O layers. Internally consistent values for the characteristic lengths and fields are deduced for the three materials. Specific trends include (1) a systematic increase in the slope of the upper critical magnetic field \(H_{c2}\) with layer number \(n\) and (2) evidence that the number of charge carriers per layer is nearly the same for the three materials; the latter feature is corroborated by a Rietveld analysis of neutron diffractometry experiments. Further comparisons and implications have been presented. Specific values agree well with some previous measurements[26] for Hg-1223, but differ significantly from the findings of a another study[23] based on a simple London-limit analysis.
+
+###### Acknowledgements.
+
+ We wish to acknowledge valuable discussions with V. G. Kogan. The work of J.G.O. was supported by the Chilean FONDECYT under Grant No. 1941149 and the Science Alliance at the University of Tennessee sponsored a portion of the work of J.R.T. The research was sponsored by the Division of Materials Sciences, U.S. Department of Energy under Contract No. DE-AC05-96OR22464 with Lockheed Martin Energy Research Corp.
+
+## References
+
+* [1] Z. Hao, J. R. Clem, M. McElfresh, L. Civale, A. P. Malozemoff, and F. Holtzberg, Phys. Rev. B **43**, 2844 (1991).
+* [2] S. N. Putilin, E. V. Antipov, O. Chmaissem, and M. Marezio, Nature **362**, 226 (1993).
+* [3] S. N. Putilin, I. Bryntse, and E. V. Antipov, Mater. Res. Bull. **26**, 1299 (1991).
+* [4] S. N. Putilin, E. V. Antipov, and M. Marezio, Physica C **212**, 266 (1993).
+* [5] R. L. Meng, Y. Y. Sun, K. Kulin, Z. J. Huang, F. Chen, Y. Y. Xue, and C. W. Chu, Physica C **214**, 307 (1993).
+* [6] P. G. Radaelli, J. L. Wagner, B. A. Hunter, M. A. Beno, G. S. Knapp, J. D. Jorgensen, and D. G. Hinks, Physica C **216**, 29 (1993).
+* [7] A. Schilling, M. Cantoni, J. D. Guo, and H. R. Ott, Nature **363**, 56 (1993).
+* [8] H. Shaked, P. M. Keane, J. C. Rodriguez, F. F. Owen, R. L. Hitterman, and J. D. Jorgensen, compilation published by Physica C (1994).
+* [9] M. Paranthaman, Physica C **222**, 7 (1994).
+* [10] D. E. Farrell, B. S. Chandrasekhar, M. R. DeGuirre, M. M. Fang, V. G. Kogan, J. R. Clem, and D. K. Finnemore, Phys. Rev. B **36**, 4025 (1987).
+* [11] Y. C. Kim, J. R. Thompson, J. G. Ossandon, D. K. Christen, and M. Paranthaman, Phys. Rev. B **51**, 11767 (1995).
+* [12] J. R. Clem and V. G. Kogan, Jpn. J. Appl. Phys. **26**, 1161 (1987).
+* [13] Yang Ren Sun, J. R. Thompson, H. R. Kerchner, D. K. Christen, M. Paranthaman, and J. Brynestad, Phys. Rev. B **50**, 3330 (1994).
+* [14] Y. C. Kim, J. R. Thompson, D. K. Christen, Y. R. Sun, M. Paranthaman, and E. D. Specht, Phys. Rev. B **52**, 4438 (1995).
+* [15] J. A. Lewis, V. M. Vinokur, J. Wagner, and D. Hinks, Phys. Rev. B **52**, R3852 (1995).
+* [16] J. G. Ossandon, J. R. Thompson, D. K. Christen, B. C. Sales, H.
+
+  R. Kerchner, J. O. Thomson, Y. R. Sun, K. W. Lay, and J. E. Tkaczyk, Phys. Rev. B **45**, 12 534 (1992).
+* [17] N. R. Werthamer, E. Helfand, and P. C. Hohenberg, Phys. Rev. **147**, 295 (1966).
+* [18] J. R. Clem, Ann. Phys. (N.Y.) **40**, 268 (1966).
+* [19] H. R. Ott, D. A. Brawner, and A. Schilling, J. Low Temp. Phys. **99**, 251 (1995).
+* [20] J. R. Thompson, J. G. Ossandon, D. K. Christen, B. C. Chakoumakos, Yang Ren Sun, M. Paranthaman, and J. Brynestad, Phys. Rev. B **48**, 14 031 (1993).
+* [21] L. N. Bulaevskii, M. Ledvij, and V. G. Kogan, Phys. Rev. Lett. **68**, 3773 (1992).
+* [22] V. G. Kogan, M. Ledvij, A. Yu. Simonov, J. H. Cho, and D. C. Johnston, Phys. Rev. Lett. **70**, 1870 (1993).
+* [23] R. Puzniak, K. Isawa, R. Usami, and H. Yamauchi, Physica C **233**, 21 (1994).
+* [24] V. G. Kogan, M. M. Fang, and Sreeparna Mitra, Phys. Rev. B **38**, 11 958 (1988).
+* [25] U. Welp, W. K. Kwok, G. W. Crabtree, K. Vandervoort, A. Umezawa, and J. Z. Liu, Phys. Rev. Lett. **62**, 1908 (1989).
+* [26] A. Schilling, O. Jeandupeux, S. Buechi, H. R. Ott, and C. Rossel, Physica C **235-240**, 229 (1994).
+* [27] Z. L. Huang, Y. Y. Xue, R. L. Meng, X. D. Que, Z. D. Hao, and C. W. Chu, Physica C **228**, 211 (1994).
+* [28] Myoung-Kwang Bae, M. S. Choi, Mi-Ock Mun, Sergey Lee, Sung-Ik Lee, and W. C. Lee, Physica C **228**, 195 (1994).
+* [29] T. P. Orlando, E. J. McNiff, Jr., S. Foner, and M. R. Beasley, Phys. Rev. B **19**, 4545 (1979), and references therein.
+* [30] W. Schnelle, O. Hoffels, E. Braun, B. Broicher, and D. Wohlleben, in _Physics and Materials Science of High Temperature Superconductors-II_, Vol. 209 of _NATO Advanced Studies Institute, Series E_, edited by R. Kossowsky, B. Raveau, D. Wohlleben, and S. Patapis (Kluwer, Dordrecht, the Netherlands, 1992), p. 151.
+* [31] J. L. Wagner, P. G. Radaelli, D. G. Hinks, J. D. Jorgensen, J. F. Mitchell, B. Dabrowski, G. S. Knapp, and M. A. Beno, Physica C **210**, 447 (1993).
+* [32] M. Paranthaman and B. C. Chakoumakos, J. Solid State Chem. **122**, 221 (1996).
+* [33] M. R. Presland, J. L. Tallon, R. G. Buckley, R. S. Liu, and N. E. Flower, Physica C **176**, 95 (1991).
+* [34] J. L. Tallon and N. E. Flower, Physica C **204**, 237 (1993).
+* [35] J. G. Ossandon, J. R. Thompson, Y. C. Kim, Yang Ren Sun, D. K. Christen, and B. C. Chakoumakos, Phys. Rev. B **51**, 8551 (1995).
+* [36] L. N. Bulaevskii, M. Ledvij, and V. G. Kogan, Phys. Rev. Lett. **68**, 3773 (1992).
+* [37] V. G. Kogan, M. Ledvij, A. Yu. Simonov, J. H. Cho, and D. C. Johnston, Phys. Rev. Lett. **70**, 1870 (1993).
+* [38] C. W. Chu (private communication).
+* [39] J. H. Cho, Z. Hao, and D. C. Johnston, Phys. Rev. B **46**, 8679 (1992).
+* [40] V. G. Kogan, A. Gurevich, J. H. Cho, D. C. Johnston, Ming Xu, J. R. Thompson, and A. Martynovich (unpublished).
+
+ 

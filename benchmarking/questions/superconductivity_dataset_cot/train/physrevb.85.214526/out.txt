@@ -1,0 +1,225 @@
+
+
+# Type-I superconductivity in YbSb_{2} single crystals
+
+Liang L. Zhao, Stefan Lausberg, H. Kim, M. A. Tanatar, Manuel Brando, R. Prozorov, and E. Morosan
+
+Department of Physics & Astronomy, Rice University, Houston, Texas 77005, USA Max Planck Institute for Chemical Physics of Solids, 01187 Dresden, Germany
+
+Ames Laboratory and Department of Physics and Astronomy, Iowa State University, Ames, Iowa 50011, USA
+
+21 February 201223 April 201225 June 20121 February 201223 April 201223 April 201223 June 2012
+
+###### Abstract
+
+We present evidence of type-I superconductivity in YbSb_{2} single crystals from dc and ac magnetization, heat capacity, and resistivity measurements. The critical temperature and critical field are determined to be T_{c}\approx 1.3 K and H_{c}\approx 55 Oe. A small Ginzburg-Landau parameter \kappa=0.05, together with typical magnetization isotherms of type-I superconductors, small critical field values, a strong differential paramagnetic effect signal, and a field-induced change from second- to first-order phase transition, confirms the type-I nature of the superconductivity in YbSb_{2}. A possible second superconducting state is observed in the radio-frequency susceptibility measurements, with T_{c}^{(2)}\approx 0.41 K and H_{c}^{(2)}\approx 430 Oe.
+
+2012 10.1103/PhysRevB.85.214526 2012 10.1103/PhysRevB.85.214526 21 February 201223 April 201223 April 201223 April 201223 April 2 the in-plane direction, and resistivity data were taken during cooling.
+
+The in-plane magnetic penetration depth \Delta\lambda(T) was determined using a self-resonating tunnel-diode oscillator (TDR),[13] operating at 16 MHz with an amplitude of H_{\rm ac}\approx 10 mOe, with temperatures down to 50 mK, and in static magnetic fields up to H_{\rm dc}=400 Oe. The sample was mounted on a sapphire rod with the crystal plate perpendicular to both H_{\rm ac} and H_{\rm dc}. Placing the sample into the inductor causes the shift of the resonant frequency \Delta f(T)=-G4\pi\,\chi(T), where G is a calibration constant determined by physically pulling the sample out of the coil. With the characteristic sample size R, \Delta\lambda can be obtained from 4\pi\,\chi=(\lambda/R)\tanh(R/\lambda)-1.[14, 15]
+
+## III Results and Discussion
+
+The powder x-ray diffraction pattern of YbSb_{2} is shown in Fig. 1. The pattern was refined using a ZrSi_{2}-type orthorhombic structure with space group Cmcm and lattice parameters a=4.554 A, b=16.715 A, and c=4.267 A, in good agreement with the previously reported values.[16] A small amount of remnant Sb flux (\sim5%) was found and is marked by a blue asterisk in Fig. 1.
+
+Figure 2 shows the temperature-dependent dc magnetic susceptibility \chi of YbSb_{2}, measured in a field H parallel to the crystal plate for H=10 and 20 Oe. The demagnetizing effect has been taken into account by calculating \chi=\chi_{\rm measured}/(1-M_{\rm J}\chi_{\rm measured}), where \chi_{\rm measured}=M/H is the ratio of the measured magnetization M and the applied magnetic field H. The demagnetization factor N_{d} is estimated to be 0.07 if we approximate the shape of the platelike crystal as an ellipsoid.[12] For both zero-field-cooled (ZFC, solid lines) and field-cooled (FC, dashed lines) data, the low-temperature susceptibility shows a clear Meissner signal at temperatures below T_{c}=1.25 K for H=10 Oe. The superconducting volume fraction estimated from the ZFC data at this field value is very close to 100%, indicative of bulk superconductivity. As expected, T_{c} is suppressed by increasing magnetic field. The dc magnetization isotherms M(H) for T=0.5 and 1.0 K are shown in Fig. 3(a), before (solid symbols) and after (open symbols) the demagnetization correction. It is clear that the corrected M(H) curves show a steplike jump to zero near the critical field, characteristic of type-I superconductivity. The full magnetization loops [Fig. 3(b)] also have the shape typical of type-I superconductors.[17, 18, 19]
+
+The ac susceptibility \chi^{\prime} of YbSb_{2} as a function of temperature is shown in Fig. 4. As the field increases from H=0 to
+
+Figure 1: (Color online) Powder XRD pattern of YbSb_{2} (black line), with peak positions (vertical marks) calculated based on space group Cmcm and lattice parameters a=4.554 Å, b=16.715 Å, and c=4.267 Å. A small amount of residual Sb flux is marked by a blue asterisk.
+
+Figure 3: (Color online) (a) Isothermal magnetization and (b) full M(H) loops of YbSb_{2} for T=0.5 K (squares) and 1 K (triangles) in the H\parallel plate. Solid and open symbols correspond to data before (top axis) and after (bottom axis) the demagnetization correction, respectively (see text).
+
+Figure 2: (Color online) Temperature-dependent susceptibility of YbSb_{2}, measured in a dc field parallel to the crystal plate. The ZFC and FC data are plotted as solid and dashed lines, respectively.
+
+  55 Oe, the onset temperature of the Meissner signal drops from 1.41 to 0.14 K. In a H=60 Oe field, the superconductivity is further suppressed and cannot be detected down to 0.06 K. Similarly, a suppression of H_{c} with T from 56.3 Oe (T=0.06 K) to 2.3 Oe (T=1.28 K) is illustrated by the \chi^{\prime}(H) data in Fig. 5. The onset critical temperature T_{c} and critical field H_{c} values from ac susceptibility measurements are summarized in an H-T phase diagram in Fig. 10 and will be discussed later. A noteworthy feature of the \chi^{\prime}(T) and \chi^{\prime}(H) curves is the positive peak in the vicinity of the superconducting transition for H>0, known as the differential paramagnetic effect in superconductors.[20] The DPE signal originates from the positive \partial M/\partial H values at temperatures right below H_{c} and can be observed in either type-I or type-II superconductors. Nevertheless, since the height of the DPE peak in type-II superconductors cannot exceed the absolute value of the diamagnetic susceptibility,[4] the observed large DPE signal (Figs. 4 and 5) clearly points to type-I superconductivity in YbSb_{2}.
+
+The field dependence of the superconducting transition of YbSb_{2} is further confirmed by heat capacity measurements in fields up to H=90 kOe. For clarity, a subset of these data are shown in Fig. 6. In the H=0 curve, a clear jump in the heat capacity confirms the bulk superconductivity. The transition temperature T_{c}, determined at the midpoint of this jump, is close to 1.32 K and agrees well with the previous report.[7] As H increases, T_{c} monotonically decreases and drops below 0.4 K (the minimum available temperature for these measurements) at H=60 Oe. The peak at the transition also becomes sharper and higher for H=10 Oe, compared to that for H=0, indicating a change from second- to first-order phase transition, commonly seen in type-I superconductors. As the field is further increased, a nonmonotonic change of the electronic and phonon specific heat coefficients \gamma and \beta is revealed by the C_{p}/T vs T^{2} plots (Fig. 6, left inset). While this field dependence remains to be understood, it makes it difficult to determine the electronic specific heat jump \Delta C_{el}=C_{el,s}-C_{el,n} at T_{c}. An additional difficulty in estimating \Delta C_{el} is a possible second superconducting transition at lower temperatures, which will be discussed below. We therefore use the H=0C_{p}/T vs T^{2} data (black line, Fig. 6, left inset) to estimate \gamma and \beta from the linear fit. This gives \gamma\approx 3.18 mJ mol^{-1} K^{-2} and \beta\approx 0.90 mJ mol^{-1} K^{-4}. After subtracting the phonon contribution \rho_{ph}=\beta T^{3}, the jump in the specific heat at the superconducting transition is estimated to be \Delta C_{el}/\gamma\,T_{c}\approx 0.85 (Fig. 6, right inset), smaller than the BCS value of 1.43. As already mentioned, this could be due to a second superconducting transition and the nonmonotonic field dependence of \gamma and \beta, as illustrated by a subset of C_{p}/T\,(T^{2}) curves shown in the left inset in Fig. 6. The Debye temperature can also be estimated using \theta_{D}=(12\pi^{4}N_{A}rk_{B}/5\beta)^{1/3}, where r=3 is the number of atoms per formula unit. This yields \theta_{D}\approx 186 K.
+
+The ac resistivity of YbSb_{2}, for H=0 and i\parallel plate, is shown in Fig. 7. At high temperatures, a linear temperature dependence of \rho(T) is evident, as expected for metals. As seen in the top inset, the resistivity drops to zero at T_{c}=1.25 K, with a residual resistivity \rho_{0}(2K)=0.53\mu\Omega cm just above T_{c}. The residual resistivity ratio, calculated as RRR=\rho(300 K)/\rho(2 K), is around 186, indicative of a good quality metal. At temperatures below 8 K and above T_{c}, the resistivity shows a quadratic dependence on temperature: \rho=\rho_{0}+AT^{2}.
+
+Figure 4: (Color online) Temperature-dependent ac susceptibility of YbSb_{2}, measured in fields H up to 60 Oe.
+
+Figure 5: (Color online) Field-dependent ac susceptibility of YbSb_{2}, measured for various temperatures from 0.06 to 1.28 K.
+
+Figure 6: (Color online) Temperature-dependent heat capacity of YbSb_{2} for H=0, 10, 20, 30, 40, 50, 60 Oe and 20, 60 kOe. The left inset shows C_{p}/T vs T^{2} for H=0, 60 Oe, 20 kOe, and 60 kOe, showing a field-dependent Sommerfeld coefficient \gamma. The right inset shows the superconducting (squares) and normal (black line) electronic specific heat for H=0, plotted as C_{el}/T vs T. An entropy conservation construct (red lines) is used to determine the jump in the electronic specific heat at T_{c}.
+
+  From a linear fit of \Delta\rho=\rho-\rho_{0} vs T^{2}, the coefficient A is determined to be 0.0013\ \mu\Omega cm K^{-2}. The Kadowaki-Woods (KW) ratio A/\gamma^{2}=12.8a_{0}, where a_{0}=10^{-5}\ \mu\Omega cm mol^{2} K^{2} mJ^{-2} is a nearly universal value observed in strongly correlated electron systems.[21] This large KW ratio is consistent with the analogous value previously reported[6] and could be associated with electron-phonon scattering or enhanced electron correlations.
+
+Based on the resistivity and heat capacity data, several superconducting parameters, such as the London penetration depth \lambda_{L}, coherence length \xi, Ginzburg-Landau parameter \kappa, and electron-phonon coupling constant \lambda_{el-ph}, can be estimated. With 4 formula units per unit cell volume (V), the electron density n of YbSb_{2} can be calculated as n=8/V=2.483\times 10^{-2} A^{-3}, assuming the valence of Yb to be 2+ . The Fermi wave vector k_{F} can be roughly estimated if we assume a spherical Fermi surface, which gives k_{F}=(3n\pi^{2})^{\frac{1}{2}}=0.903 A^{-1}. The Fermi wave vector k_{F}, together with the Sommerfeld coefficient \gamma=3.18 mJ mol^{-1} K^{-2}=6.56\times 10^{-5} J cm^{-3} K^{-2}, yields the effective electron mass m^{*}=\hbar^{2}k_{F}^{2}/\gamma^{2}mk_{B}^{2}=1.39m_{0}, where m_{0} is the free-electron mass. The London penetration depth \lambda_{L}(0) and coherence length \xi(0) can also be derived as \lambda_{L}(0)=(m^{*}/\mu_{0}n\epsilon^{2})^{1/2}=40 nm and \xi(0)=0.18\hbar^{2}k_{F}/k_{B}T_{c}m^{*}=826 nm. It results that the GL parameter \kappa=\lambda_{L}(0)/\xi(0)=0.05\ll 1/\sqrt{2}, confirming the type-I superconductivity in YbSb_{2}. According to the McMillan theory,[22] the electron-phonon coupling is given by
+
+\[\lambda_{el-ph}=\frac{1.04+\mu^{*}\ln(\rho_{D}/1.45T_{c})}{(1-0.62\mu^{*})\ln( \rho_{D}/1.45T_{c})-1.04},\]
+
+where the Coulomb pseudopotential \mu^{*} is usually between 0.1 and 0.15. Assuming \mu^{*}=0.13, the electron-phonon coupling is estimated to be \lambda_{el-ph}\approx 0.51, suggesting that YbSb_{2} is a weakly coupled BCS superconductor. Moreover, the \lambda_{el-ph} value confirms the effective electron mass m^{*} as calculated using m^{*}=(1+\lambda_{el-ph})m_{0}, which gives m^{*}=1.51m_{0}.
+
+Figure 8 shows frequency \Delta f(T)\sim\chi(T) measured for a 0.7\times 0.5\times 0.3 mm^{3} sample. Data above T_{c} represent a combination of magnetic and resistive responses in the normal state of YbSb_{2}. The skin depth at T=1.5 K was estimated to be \delta\approx 8.9\ \mum, which is much smaller than any dimension of the sample. The skin depth \delta was calculated with the residual resistivity \rho_{0}=0.53\ \mu\Omega cm and an operating frequency of 16 MHz. A slight upturn before the superconducting transition can be attributed to the response of some paramagnetic impurities. T_{c} was determined as the temperature where \Delta f(T) deviates from the normal-state behavior.
+
+In the pure Meissner state (Fig. 8), for H_{\rm dc}=0, both ZFC and FC curves coincide. Additionally, apart from the superconducting transition, a small feature near 0.11 K was observed, as shown in the inset. This may be attributed to a phase associated with extrinsic magnetic impurities. In Fig. 9, the calculated superfluid density, \rho=\lambda^{2}(0)/\lambda^{2}(T), is found to be consistent with a single-gap s-wave pairing in YbSb_{2}, except for the impurity contribution which modifies the curve at the lowest temperatures. In the presence of magnetic impurities with magnetic permeability \mu(T), the actual measured penetration depth is renormalized as \lambda_{m}=\sqrt{\mu(T)}\lambda, so that the experimentally constructed superfluid density is
+
+Figure 8: (Color online) Shift of resonant frequency \Delta f=-G4\pi\,\chi(T), measured in fields up to 400 Oe. The ZFC and FC data are shown as solid and dashed lines, respectively; the inset shows a zoomed-in view of the low-temperature data for H=0, with ZFC and FC data shown as solid and open symbols.
+
+Figure 7: (Color online) The ac resistivity of YbSb_{2} for H=0 and i\parallel plate. The top inset shows a zoomed-in view of the low-temperature resistivity around T_{c}; the bottom inset shows \Delta\rho=\rho-\rho_{0} vs T^{2} (symbols), together with a linear fit (solid line).
+
+Figure 9: (Color online) Superfluid density calculated as \rho=\lambda^{2}(0)/\lambda^{2}(T). The solid red line shows a fit to the typical behavior of an s-wave BCS superconductor.
+
+  given by \rho_{m}=\lambda^{2}(0)/[\mu(T)\lambda^{2}(T)]. For paramagnetic impurities behaving following the Curie law, this renormalization leads to a downward trend of \rho_{m} in the region where real superfluid density is already flat. At higher temperatures the contribution of paramagnetic impurities rapidly vanishes since \mu=1+4\pi\,\chi=1+C/T, where C is the Curie constant.
+
+In nonzero magnetic field, ZFC-FC \Delta f curves (Fig. 8) show hysteresis up to H=50 Oe. Interestingly, the FC data indicate stronger repulsion below an intermediate temperature, marked with solid triangles, which systematically decreases with increasing H. This crossover no longer exists above 40 Oe, and ZFC data recover stronger repulsion. Above 70 Oe, which is greater than H_{c} determined by various thermodynamic measurements, data still show a diamagnetic response without hysteresis, which persists up to 400 Oe. It should also be noted that the ac susceptibility for H=60 Oe (Fig. 4) remains slightly diamagnetic after the DPE peak vanishes, consistent with the results displayed in Fig. 8. The origin of the diamagnetism above the bulk H_{c} is not clear; however, the H-T phase diagram shown in Fig. 10 is reminiscent of a field-dependent pairing state with multiple order parameters in the heavy-fermion superconductor PrOs_{4}Sb_{12}.[23, 24] More detailed measurements are required to fully understand the rich physics of this unconventional behavior and to clarify whether this could be bulk or surface superconductivity.
+
+The relationship between T_{c} and H_{c} is summarized in the H-T phase diagram (Fig. 10). The H_{c} values determined from \chi^{\prime}(T) (squares), \chi^{\prime}(H) (triangles), C_{p} (diamonds), and \Delta f (circles) below \sim80 Oe can be fit to the expected BCS temperature dependence H_{c}(T)=H_{c}(0)[1-(T/T_{c})^{2}] (solid line, Fig. 10 inset). This gives H_{c}(0)=55 Oe and T_{c}=1.30 K. The possible new superconducting state inferred from the rf magnetization (Fig. 8) can also be described with a similar equation, H_{c}^{(2)}(T)=H_{c}^{(2)}(0)[1-(T/T_{c}^{(2)})^{2}] (dashed line, Fig. 10), which gives H_{c}^{(2)}(0)=430 Oe and T_{c}^{(2)}=0.41 K.
+
+The superconducting and thermodynamic parameters of YbSb_{2} are summarized in Table 1. Several traits of type-I superconductors have been observed in this compound, including a small GL parameter \kappa=0.05, a typical shape of the dc M(H) isotherms (Fig. 2), a strong DPE signal in the ac magnetization (Fig. 5), small critical field values, and a change from second- to first-order phase transition induced by magnetic field and visible in specific heat data (Fig. 6). All these observations provide proof of the type-I superconductivity in YbSb_{2}. In addition, a possible second superconducting state at lower temperatures is observed in rf magnetization (Fig. 8), which reveals unconventional behavior, as of yet not fully understood. This calls for more experiments to elucidate the underlying physics in YbSb_{2}.
+
+## Acknowledgments
+
+Work at Rice University was supported by AFOSR MURI. Work at Ames was supported by the US Department of Energy, Office of Basic Energy Sciences, Division of Materials Sciences and Engineering, under Contract No. DE-AC02-07CH11358. The authors thank Yuri Prots and Juri Grin for help with the structural characterization.
+
+## References
+
+* [1] M. Kobayashi and I. Tsujikawa, J. Phys. Soc. Jpn. **50**, 3245 (1981).
+* [2] T. T. M. Palstra, G. Lu, A. A. Menovsky, G. J. Nieuwenhuys, P. H. Kes, and J. A. Mydosh, Phys. Rev. B **34**, 4566 (1986).
+* [3] U. Gottlieb, J. C. Lasjaunias, J. L. Tholence, O. Laborde, O. Thomas, and R. Madar, Phys. Rev. B **45**, 4803 (1992).
+* [4] S. Yonezawa and Y. Maeno, Phys. Rev. B **72**, 180504(R) (2005).
+* [5]
+
+\begin{table}
+\begin{tabular}{l r} Parameter & Value \\ \hline T_{c} (K) & 1.30 \pm 0.2 \\ H_{c}(0) (Oe) & 55 \pm 2 \\ \gamma (mJ mol^{-1} K^{-2}) & 3.18 \\ \beta (mJ mol^{-1} K^{-4}) & 0.90 \\ \theta_{D} (K) & 186 \\ \Delta C_{el}/\gamma T_{c} & 0.85 \\ RRR & 186 \\ A (\mu\Omega cm K^{-2}) & 0.0013 \\ A/\gamma^{2} (10^{-5}\mu\Omega cm mol^{2} K^{2} mJ^{-2}) & 12.8 \\ k_{F} (Å^{-1}) & 0.903 \\ m^{*} (m_{0}) & 1.45 \pm 0.06 \\ \lambda_{L}(0) (nm) & 40 \\ \xi(0) (nm) & 826 \\ \kappa & 0.05 \\ \lambda_{el-ph} & 0.51 \\ T^{(2)} (K) & 0.41 \\ H_{c}^{(2)}(0) (Oe) & 430 \\ \end{tabular}
+\end{table}
+Table 1: Measured and calculated superconducting and thermodynamic parameters of YbSb_{2}.
+
+Figure 10: (Color online) H-T phase diagram of YbSb_{2}. Points determined from \chi^{\prime}(T), \chi^{\prime}(H), C_{p}(T), and \Delta f(T) data are marked by black squares, red triangles, blue diamonds, and green circles. The superconductive phase boundary determined from thermodynamic data is illustrated by a purple line. The possible new superconducting state observed in the rf magnetization measurement is marked with a dashed line; the inset shows a zoomed-in view of the data points from thermodynamic measurements.
+
+  * (5) V. K. Anand, A. D. Hillier, D. T. Adroja, A. M. Strydom, H. Michor, K. A. McEwen, and B. D. Rainford, Phys. Rev. B **83**, 064522 (2011).
+* (6) E. Svanidze and E. Morosan, Phys. Rev. B **85**, 174514 (2012).
+* (7) Y. Yamaguchi, S. Waki, and K. Mitsuoi, J. Phys. Soc. Jpn. **56**, 419 (1987).
+* (8) N. Sato, T. Kinokiri, T. Komatsubara, and H. Harima, Phys. Rev. B **59**, 4714 (1999).
+* (9) N. Shirakawa, S. Koiwai, and Y. Uwatoko, High Pressure Conference of Japan, Vol. 41 (JST, Japan, 2000), p. 211 (unpublished).
+* (10) Y. Kohori, T. Kohara, N. Sato, and T. Kinokiri, Phys. C **388-389**, 579 (2003).
+* (11) B. Hunter, Int. Union Crystallogr. Comm. Powder Diffraction Newsl. **20**, 21 (1998).
+* (12) J. A. Osborn, Phys. Rev. **67**, 351 (1945).
+* (13) C. T. V. Degrift, Rev. Sci. Instrum. **46**, 599 (1975).
+* (14) R. Prozorov, R. W. Giannetta, A. Carrington, and F. M. Araujo-Moreira, Phys. Rev. B **62**, 115 (2000).
+* (15) R. Prozorov and R. W. Giannetta, Supercond. Sci. Technol. **19**, R41 (2006).
+* (16) R. Wang, R. Bodnar, and H. Steinfink, Inorg. Chem. **5**, 1468 (1966).
+* (17) C. S. Whitehead, Proc. R. Soc. London, Ser. A **238**, 175 (1956).
+* (18) J. I. Budnick, Phys. Rev. **119**, 1578 (1960).
+* (19) V. F. Kozhevnikov, M. J. Van Bael, W. Vinckx, K. Temst, C. Van Haesendonck, and J. O. Indekeu, Phys. Rev. B **72**, 174510 (2005).
+* (20) R. A. Hein and R. L. Falge Jr., Phys. Rev. **123**, 407 (1961).
+* (21) N. Tsujii, K. Yoshimura, and K. Kosuge, J. Phys. Condens. Matter **15**, 1993 (2003).
+* (22) W. McMillan, Phys. Rev. **167**, 331 (1968).
+* (23) T. Cichorek, A. C. Mota, F. Steglich, N. A. Frederick, W. M. Yuhasz, and M. B. Maple, Phys. Rev. Lett. **94**, 107002 (2005).
+* (24) M. Maple, Z. Henkie, W. Yuhasz, P.-C. Ho, T. Yanagisawa, T. Sayles, N. Butch, J. Jeffries, and A. Pietraszko, J. Magn. Magn. Mater. **310**, 182 (2007).
+
+ 
+
+# Type-I superconductivity in YbSb_{2} single crystals
+
+Liang L. Zhao, Stefan Lausberg, H. Kim, M. A. Tanatar, Manuel Brando, R. Prozorov, and E. Morosan
+
+Department of Physics & Astronomy, Rice University, Houston, Texas 77005, USA Max Planck Institute for Chemical Physics of Solids, 01187 Dresden, Germany
+
+Ames Laboratory and Department of Physics and Astronomy, Iowa State University, Ames, Iowa 50011, USA
+
+21 February 201223 April 201225 June 20121 February 201223 April 201223 April 201223 June 2012
+
+###### Abstract
+
+We present evidence of type-I superconductivity in YbSb_{2} single crystals from dc and ac magnetization, heat capacity, and resistivity measurements. The critical temperature and critical field are determined to be T_{c}\approx 1.3 K and H_{c}\approx 55 Oe. A small Ginzburg-Landau parameter \kappa=0.05, together with typical magnetization isotherms of type-I superconductors, small critical field values, a strong differential paramagnetic effect signal, and a field-induced change from second- to first-order phase transition, confirms the type-I nature of the superconductivity in YbSb_{2}. A possible second superconducting state is observed in the radio-frequency susceptibility measurements, with T_{c}^{(2)}\approx 0.41 K and H_{c}^{(2)}\approx 430 Oe.
+
+2012 10.1103/PhysRevB.85.214526 2012 10.1103/PhysRevB.85.214526 21 February 201223 April 201223 April 201223 April 201223 April 2 the in-plane direction, and resistivity data were taken during cooling.
+
+The in-plane magnetic penetration depth \Delta\lambda(T) was determined using a self-resonating tunnel-diode oscillator (TDR),[13] operating at 16 MHz with an amplitude of H_{\rm ac}\approx 10 mOe, with temperatures down to 50 mK, and in static magnetic fields up to H_{\rm dc}=400 Oe. The sample was mounted on a sapphire rod with the crystal plate perpendicular to both H_{\rm ac} and H_{\rm dc}. Placing the sample into the inductor causes the shift of the resonant frequency \Delta f(T)=-G4\pi\,\chi(T), where G is a calibration constant determined by physically pulling the sample out of the coil. With the characteristic sample size R, \Delta\lambda can be obtained from 4\pi\,\chi=(\lambda/R)\tanh(R/\lambda)-1.[14, 15]
+
+## III Results and Discussion
+
+The powder x-ray diffraction pattern of YbSb_{2} is shown in Fig. 1. The pattern was refined using a ZrSi_{2}-type orthorhombic structure with space group Cmcm and lattice parameters a=4.554 A, b=16.715 A, and c=4.267 A, in good agreement with the previously reported values.[16] A small amount of remnant Sb flux (\sim5%) was found and is marked by a blue asterisk in Fig. 1.
+
+Figure 2 shows the temperature-dependent dc magnetic susceptibility \chi of YbSb_{2}, measured in a field H parallel to the crystal plate for H=10 and 20 Oe. The demagnetizing effect has been taken into account by calculating \chi=\chi_{\rm measured}/(1-M_{\rm J}\chi_{\rm measured}), where \chi_{\rm measured}=M/H is the ratio of the measured magnetization M and the applied magnetic field H. The demagnetization factor N_{d} is estimated to be 0.07 if we approximate the shape of the platelike crystal as an ellipsoid.[12] For both zero-field-cooled (ZFC, solid lines) and field-cooled (FC, dashed lines) data, the low-temperature susceptibility shows a clear Meissner signal at temperatures below T_{c}=1.25 K for H=10 Oe. The superconducting volume fraction estimated from the ZFC data at this field value is very close to 100%, indicative of bulk superconductivity. As expected, T_{c} is suppressed by increasing magnetic field. The dc magnetization isotherms M(H) for T=0.5 and 1.0 K are shown in Fig. 3(a), before (solid symbols) and after (open symbols) the demagnetization correction. It is clear that the corrected M(H) curves show a steplike jump to zero near the critical field, characteristic of type-I superconductivity. The full magnetization loops [Fig. 3(b)] also have the shape typical of type-I superconductors.[17, 18, 19]
+
+The ac susceptibility \chi^{\prime} of YbSb_{2} as a function of temperature is shown in Fig. 4. As the field increases from H=0 to
+
+Figure 1: (Color online) Powder XRD pattern of YbSb_{2} (black line), with peak positions (vertical marks) calculated based on space group Cmcm and lattice parameters a=4.554 Å, b=16.715 Å, and c=4.267 Å. A small amount of residual Sb flux is marked by a blue asterisk.
+
+Figure 3: (Color online) (a) Isothermal magnetization and (b) full M(H) loops of YbSb_{2} for T=0.5 K (squares) and 1 K (triangles) in the H\parallel plate. Solid and open symbols correspond to data before (top axis) and after (bottom axis) the demagnetization correction, respectively (see text).
+
+Figure 2: (Color online) Temperature-dependent susceptibility of YbSb_{2}, measured in a dc field parallel to the crystal plate. The ZFC and FC data are plotted as solid and dashed lines, respectively.
+
+  55 Oe, the onset temperature of the Meissner signal drops from 1.41 to 0.14 K. In a H=60 Oe field, the superconductivity is further suppressed and cannot be detected down to 0.06 K. Similarly, a suppression of H_{c} with T from 56.3 Oe (T=0.06 K) to 2.3 Oe (T=1.28 K) is illustrated by the \chi^{\prime}(H) data in Fig. 5. The onset critical temperature T_{c} and critical field H_{c} values from ac susceptibility measurements are summarized in an H-T phase diagram in Fig. 10 and will be discussed later. A noteworthy feature of the \chi^{\prime}(T) and \chi^{\prime}(H) curves is the positive peak in the vicinity of the superconducting transition for H>0, known as the differential paramagnetic effect in superconductors.[20] The DPE signal originates from the positive \partial M/\partial H values at temperatures right below H_{c} and can be observed in either type-I or type-II superconductors. Nevertheless, since the height of the DPE peak in type-II superconductors cannot exceed the absolute value of the diamagnetic susceptibility,[4] the observed large DPE signal (Figs. 4 and 5) clearly points to type-I superconductivity in YbSb_{2}.
+
+The field dependence of the superconducting transition of YbSb_{2} is further confirmed by heat capacity measurements in fields up to H=90 kOe. For clarity, a subset of these data are shown in Fig. 6. In the H=0 curve, a clear jump in the heat capacity confirms the bulk superconductivity. The transition temperature T_{c}, determined at the midpoint of this jump, is close to 1.32 K and agrees well with the previous report.[7] As H increases, T_{c} monotonically decreases and drops below 0.4 K (the minimum available temperature for these measurements) at H=60 Oe. The peak at the transition also becomes sharper and higher for H=10 Oe, compared to that for H=0, indicating a change from second- to first-order phase transition, commonly seen in type-I superconductors. As the field is further increased, a nonmonotonic change of the electronic and phonon specific heat coefficients \gamma and \beta is revealed by the C_{p}/T vs T^{2} plots (Fig. 6, left inset). While this field dependence remains to be understood, it makes it difficult to determine the electronic specific heat jump \Delta C_{el}=C_{el,s}-C_{el,n} at T_{c}. An additional difficulty in estimating \Delta C_{el} is a possible second superconducting transition at lower temperatures, which will be discussed below. We therefore use the H=0C_{p}/T vs T^{2} data (black line, Fig. 6, left inset) to estimate \gamma and \beta from the linear fit. This gives \gamma\approx 3.18 mJ mol^{-1} K^{-2} and \beta\approx 0.90 mJ mol^{-1} K^{-4}. After subtracting the phonon contribution \rho_{ph}=\beta T^{3}, the jump in the specific heat at the superconducting transition is estimated to be \Delta C_{el}/\gamma\,T_{c}\approx 0.85 (Fig. 6, right inset), smaller than the BCS value of 1.43. As already mentioned, this could be due to a second superconducting transition and the nonmonotonic field dependence of \gamma and \beta, as illustrated by a subset of C_{p}/T\,(T^{2}) curves shown in the left inset in Fig. 6. The Debye temperature can also be estimated using \theta_{D}=(12\pi^{4}N_{A}rk_{B}/5\beta)^{1/3}, where r=3 is the number of atoms per formula unit. This yields \theta_{D}\approx 186 K.
+
+The ac resistivity of YbSb_{2}, for H=0 and i\parallel plate, is shown in Fig. 7. At high temperatures, a linear temperature dependence of \rho(T) is evident, as expected for metals. As seen in the top inset, the resistivity drops to zero at T_{c}=1.25 K, with a residual resistivity \rho_{0}(2K)=0.53\mu\Omega cm just above T_{c}. The residual resistivity ratio, calculated as RRR=\rho(300 K)/\rho(2 K), is around 186, indicative of a good quality metal. At temperatures below 8 K and above T_{c}, the resistivity shows a quadratic dependence on temperature: \rho=\rho_{0}+AT^{2}.
+
+Figure 4: (Color online) Temperature-dependent ac susceptibility of YbSb_{2}, measured in fields H up to 60 Oe.
+
+Figure 5: (Color online) Field-dependent ac susceptibility of YbSb_{2}, measured for various temperatures from 0.06 to 1.28 K.
+
+Figure 6: (Color online) Temperature-dependent heat capacity of YbSb_{2} for H=0, 10, 20, 30, 40, 50, 60 Oe and 20, 60 kOe. The left inset shows C_{p}/T vs T^{2} for H=0, 60 Oe, 20 kOe, and 60 kOe, showing a field-dependent Sommerfeld coefficient \gamma. The right inset shows the superconducting (squares) and normal (black line) electronic specific heat for H=0, plotted as C_{el}/T vs T. An entropy conservation construct (red lines) is used to determine the jump in the electronic specific heat at T_{c}.
+
+  From a linear fit of \Delta\rho=\rho-\rho_{0} vs T^{2}, the coefficient A is determined to be 0.0013\ \mu\Omega cm K^{-2}. The Kadowaki-Woods (KW) ratio A/\gamma^{2}=12.8a_{0}, where a_{0}=10^{-5}\ \mu\Omega cm mol^{2} K^{2} mJ^{-2} is a nearly universal value observed in strongly correlated electron systems.[21] This large KW ratio is consistent with the analogous value previously reported[6] and could be associated with electron-phonon scattering or enhanced electron correlations.
+
+Based on the resistivity and heat capacity data, several superconducting parameters, such as the London penetration depth \lambda_{L}, coherence length \xi, Ginzburg-Landau parameter \kappa, and electron-phonon coupling constant \lambda_{el-ph}, can be estimated. With 4 formula units per unit cell volume (V), the electron density n of YbSb_{2} can be calculated as n=8/V=2.483\times 10^{-2} A^{-3}, assuming the valence of Yb to be 2+ . The Fermi wave vector k_{F} can be roughly estimated if we assume a spherical Fermi surface, which gives k_{F}=(3n\pi^{2})^{\frac{1}{2}}=0.903 A^{-1}. The Fermi wave vector k_{F}, together with the Sommerfeld coefficient \gamma=3.18 mJ mol^{-1} K^{-2}=6.56\times 10^{-5} J cm^{-3} K^{-2}, yields the effective electron mass m^{*}=\hbar^{2}k_{F}^{2}/\gamma^{2}mk_{B}^{2}=1.39m_{0}, where m_{0} is the free-electron mass. The London penetration depth \lambda_{L}(0) and coherence length \xi(0) can also be derived as \lambda_{L}(0)=(m^{*}/\mu_{0}n\epsilon^{2})^{1/2}=40 nm and \xi(0)=0.18\hbar^{2}k_{F}/k_{B}T_{c}m^{*}=826 nm. It results that the GL parameter \kappa=\lambda_{L}(0)/\xi(0)=0.05\ll 1/\sqrt{2}, confirming the type-I superconductivity in YbSb_{2}. According to the McMillan theory,[22] the electron-phonon coupling is given by
+
+\[\lambda_{el-ph}=\frac{1.04+\mu^{*}\ln(\rho_{D}/1.45T_{c})}{(1-0.62\mu^{*})\ln( \rho_{D}/1.45T_{c})-1.04},\]
+
+where the Coulomb pseudopotential \mu^{*} is usually between 0.1 and 0.15. Assuming \mu^{*}=0.13, the electron-phonon coupling is estimated to be \lambda_{el-ph}\approx 0.51, suggesting that YbSb_{2} is a weakly coupled BCS superconductor. Moreover, the \lambda_{el-ph} value confirms the effective electron mass m^{*} as calculated using m^{*}=(1+\lambda_{el-ph})m_{0}, which gives m^{*}=1.51m_{0}.
+
+Figure 8 shows frequency \Delta f(T)\sim\chi(T) measured for a 0.7\times 0.5\times 0.3 mm^{3} sample. Data above T_{c} represent a combination of magnetic and resistive responses in the normal state of YbSb_{2}. The skin depth at T=1.5 K was estimated to be \delta\approx 8.9\ \mum, which is much smaller than any dimension of the sample. The skin depth \delta was calculated with the residual resistivity \rho_{0}=0.53\ \mu\Omega cm and an operating frequency of 16 MHz. A slight upturn before the superconducting transition can be attributed to the response of some paramagnetic impurities. T_{c} was determined as the temperature where \Delta f(T) deviates from the normal-state behavior.
+
+In the pure Meissner state (Fig. 8), for H_{\rm dc}=0, both ZFC and FC curves coincide. Additionally, apart from the superconducting transition, a small feature near 0.11 K was observed, as shown in the inset. This may be attributed to a phase associated with extrinsic magnetic impurities. In Fig. 9, the calculated superfluid density, \rho=\lambda^{2}(0)/\lambda^{2}(T), is found to be consistent with a single-gap s-wave pairing in YbSb_{2}, except for the impurity contribution which modifies the curve at the lowest temperatures. In the presence of magnetic impurities with magnetic permeability \mu(T), the actual measured penetration depth is renormalized as \lambda_{m}=\sqrt{\mu(T)}\lambda, so that the experimentally constructed superfluid density is
+
+Figure 8: (Color online) Shift of resonant frequency \Delta f=-G4\pi\,\chi(T), measured in fields up to 400 Oe. The ZFC and FC data are shown as solid and dashed lines, respectively; the inset shows a zoomed-in view of the low-temperature data for H=0, with ZFC and FC data shown as solid and open symbols.
+
+Figure 7: (Color online) The ac resistivity of YbSb_{2} for H=0 and i\parallel plate. The top inset shows a zoomed-in view of the low-temperature resistivity around T_{c}; the bottom inset shows \Delta\rho=\rho-\rho_{0} vs T^{2} (symbols), together with a linear fit (solid line).
+
+Figure 9: (Color online) Superfluid density calculated as \rho=\lambda^{2}(0)/\lambda^{2}(T). The solid red line shows a fit to the typical behavior of an s-wave BCS superconductor.
+
+  given by \rho_{m}=\lambda^{2}(0)/[\mu(T)\lambda^{2}(T)]. For paramagnetic impurities behaving following the Curie law, this renormalization leads to a downward trend of \rho_{m} in the region where real superfluid density is already flat. At higher temperatures the contribution of paramagnetic impurities rapidly vanishes since \mu=1+4\pi\,\chi=1+C/T, where C is the Curie constant.
+
+In nonzero magnetic field, ZFC-FC \Delta f curves (Fig. 8) show hysteresis up to H=50 Oe. Interestingly, the FC data indicate stronger repulsion below an intermediate temperature, marked with solid triangles, which systematically decreases with increasing H. This crossover no longer exists above 40 Oe, and ZFC data recover stronger repulsion. Above 70 Oe, which is greater than H_{c} determined by various thermodynamic measurements, data still show a diamagnetic response without hysteresis, which persists up to 400 Oe. It should also be noted that the ac susceptibility for H=60 Oe (Fig. 4) remains slightly diamagnetic after the DPE peak vanishes, consistent with the results displayed in Fig. 8. The origin of the diamagnetism above the bulk H_{c} is not clear; however, the H-T phase diagram shown in Fig. 10 is reminiscent of a field-dependent pairing state with multiple order parameters in the heavy-fermion superconductor PrOs_{4}Sb_{12}.[23, 24] More detailed measurements are required to fully understand the rich physics of this unconventional behavior and to clarify whether this could be bulk or surface superconductivity.
+
+The relationship between T_{c} and H_{c} is summarized in the H-T phase diagram (Fig. 10). The H_{c} values determined from \chi^{\prime}(T) (squares), \chi^{\prime}(H) (triangles), C_{p} (diamonds), and \Delta f (circles) below \sim80 Oe can be fit to the expected BCS temperature dependence H_{c}(T)=H_{c}(0)[1-(T/T_{c})^{2}] (solid line, Fig. 10 inset). This gives H_{c}(0)=55 Oe and T_{c}=1.30 K. The possible new superconducting state inferred from the rf magnetization (Fig. 8) can also be described with a similar equation, H_{c}^{(2)}(T)=H_{c}^{(2)}(0)[1-(T/T_{c}^{(2)})^{2}] (dashed line, Fig. 10), which gives H_{c}^{(2)}(0)=430 Oe and T_{c}^{(2)}=0.41 K.
+
+The superconducting and thermodynamic parameters of YbSb_{2} are summarized in Table 1. Several traits of type-I superconductors have been observed in this compound, including a small GL parameter \kappa=0.05, a typical shape of the dc M(H) isotherms (Fig. 2), a strong DPE signal in the ac magnetization (Fig. 5), small critical field values, and a change from second- to first-order phase transition induced by magnetic field and visible in specific heat data (Fig. 6). All these observations provide proof of the type-I superconductivity in YbSb_{2}. In addition, a possible second superconducting state at lower temperatures is observed in rf magnetization (Fig. 8), which reveals unconventional behavior, as of yet not fully understood. This calls for more experiments to elucidate the underlying physics in YbSb_{2}.
+
+## Acknowledgments
+
+Work at Rice University was supported by AFOSR MURI. Work at Ames was supported by the US Department of Energy, Office of Basic Energy Sciences, Division of Materials Sciences and Engineering, under Contract No. DE-AC02-07CH11358. The authors thank Yuri Prots and Juri Grin for help with the structural characterization.
+
+## References
+
+* [1] M. Kobayashi and I. Tsujikawa, J. Phys. Soc. Jpn. **50**, 3245 (1981).
+* [2] T. T. M. Palstra, G. Lu, A. A. Menovsky, G. J. Nieuwenhuys, P. H. Kes, and J. A. Mydosh, Phys. Rev. B **34**, 4566 (1986).
+* [3] U. Gottlieb, J. C. Lasjaunias, J. L. Tholence, O. Laborde, O. Thomas, and R. Madar, Phys. Rev. B **45**, 4803 (1992).
+* [4] S. Yonezawa and Y. Maeno, Phys. Rev. B **72**, 180504(R) (2005).
+* [5]
+
+\begin{table}
+\begin{tabular}{l r} Parameter & Value \\ \hline T_{c} (K) & 1.30 \pm 0.2 \\ H_{c}(0) (Oe) & 55 \pm 2 \\ \gamma (mJ mol^{-1} K^{-2}) & 3.18 \\ \beta (mJ mol^{-1} K^{-4}) & 0.90 \\ \theta_{D} (K) & 186 \\ \Delta C_{el}/\gamma T_{c} & 0.85 \\ RRR & 186 \\ A (\mu\Omega cm K^{-2}) & 0.0013 \\ A/\gamma^{2} (10^{-5}\mu\Omega cm mol^{2} K^{2} mJ^{-2}) & 12.8 \\ k_{F} (Å^{-1}) & 0.903 \\ m^{*} (m_{0}) & 1.45 \pm 0.06 \\ \lambda_{L}(0) (nm) & 40 \\ \xi(0) (nm) & 826 \\ \kappa & 0.05 \\ \lambda_{el-ph} & 0.51 \\ T^{(2)} (K) & 0.41 \\ H_{c}^{(2)}(0) (Oe) & 430 \\ \end{tabular}
+\end{table}
+Table 1: Measured and calculated superconducting and thermodynamic parameters of YbSb_{2}.
+
+Figure 10: (Color online) H-T phase diagram of YbSb_{2}. Points determined from \chi^{\prime}(T), \chi^{\prime}(H), C_{p}(T), and \Delta f(T) data are marked by black squares, red triangles, blue diamonds, and green circles. The superconductive phase boundary determined from thermodynamic data is illustrated by a purple line. The possible new superconducting state observed in the rf magnetization measurement is marked with a dashed line; the inset shows a zoomed-in view of the data points from thermodynamic measurements.
+
+  * (5) V. K. Anand, A. D. Hillier, D. T. Adroja, A. M. Strydom, H. Michor, K. A. McEwen, and B. D. Rainford, Phys. Rev. B **83**, 064522 (2011).
+* (6) E. Svanidze and E. Morosan, Phys. Rev. B **85**, 174514 (2012).
+* (7) Y. Yamaguchi, S. Waki, and K. Mitsuoi, J. Phys. Soc. Jpn. **56**, 419 (1987).
+* (8) N. Sato, T. Kinokiri, T. Komatsubara, and H. Harima, Phys. Rev. B **59**, 4714 (1999).
+* (9) N. Shirakawa, S. Koiwai, and Y. Uwatoko, High Pressure Conference of Japan, Vol. 41 (JST, Japan, 2000), p. 211 (unpublished).
+* (10) Y. Kohori, T. Kohara, N. Sato, and T. Kinokiri, Phys. C **388-389**, 579 (2003).
+* (11) B. Hunter, Int. Union Crystallogr. Comm. Powder Diffraction Newsl. **20**, 21 (1998).
+* (12) J. A. Osborn, Phys. Rev. **67**, 351 (1945).
+* (13) C. T. V. Degrift, Rev. Sci. Instrum. **46**, 599 (1975).
+* (14) R. Prozorov, R. W. Giannetta, A. Carrington, and F. M. Araujo-Moreira, Phys. Rev. B **62**, 115 (2000).
+* (15) R. Prozorov and R. W. Giannetta, Supercond. Sci. Technol. **19**, R41 (2006).
+* (16) R. Wang, R. Bodnar, and H. Steinfink, Inorg. Chem. **5**, 1468 (1966).
+* (17) C. S. Whitehead, Proc. R. Soc. London, Ser. A **238**, 175 (1956).
+* (18) J. I. Budnick, Phys. Rev. **119**, 1578 (1960).
+* (19) V. F. Kozhevnikov, M. J. Van Bael, W. Vinckx, K. Temst, C. Van Haesendonck, and J. O. Indekeu, Phys. Rev. B **72**, 174510 (2005).
+* (20) R. A. Hein and R. L. Falge Jr., Phys. Rev. **123**, 407 (1961).
+* (21) N. Tsujii, K. Yoshimura, and K. Kosuge, J. Phys. Condens. Matter **15**, 1993 (2003).
+* (22) W. McMillan, Phys. Rev. **167**, 331 (1968).
+* (23) T. Cichorek, A. C. Mota, F. Steglich, N. A. Frederick, W. M. Yuhasz, and M. B. Maple, Phys. Rev. Lett. **94**, 107002 (2005).
+* (24) M. Maple, Z. Henkie, W. Yuhasz, P.-C. Ho, T. Yanagisawa, T. Sayles, N. Butch, J. Jeffries, and A. Pietraszko, J. Magn. Magn. Mater. **310**, 182 (2007).
+
+ 

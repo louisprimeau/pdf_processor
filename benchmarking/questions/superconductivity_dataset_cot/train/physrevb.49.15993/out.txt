@@ -1,0 +1,295 @@
+Ion-size effect on T_{n} in (R_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7-y} systems
+
+(R =Lu, Yb, Tm, Er, Y, Ho, Dy, Gd, Eu, Sm, and Nd)
+
+Weiyan Guan
+
+Yunhui Xu
+
+S. R. Sheen
+
+Y. C. Chen
+
+J. Y. T. Wei
+
+H. F. Lai
+
+M. K. Wu
+
+Materials Science Center and Department of Physics, National Tsing Hua University, Hsinchu, 30043, Taiwan, Republic of China
+
+J. C. Ho
+
+Department of Physics and National Institute for Aviation Research, Wichita State University, Wichita, Kansas 67208
+
+Received 14 October 1993
+
+###### Abstract
+
+We conducted a detailed study of the structure and magnetic properties of (R_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} sintered samples, where R = Lu, Yb, Tm, Er, Y, Ho, Dy, Gd, Eu, Sm, and Nd for x = 0.5-1.0. We found that the temperature dependence of the dc susceptibility follows the Curie-Weiss law in the temperature range 20-300 K and the paramagnetism of the Pr and R sublattices exist independently of one another. The antiferromagnetic ordering temperature T_{N} of Pr ions decreases monotonically with increasing R concentration (1-_x_). At a given x, T_{N} is R-ion-size dependent. The slope in the T_{N} vs x curve is steeper for ions with smaller ionic radii. The observed results are interpreted in terms of the hybridization between the local states of the Pr ion and the valence-band states of the CuO_{2} planes.
+
+pacs: 0163-1829/94/49(22)/15993(7)/506.00
+
+## I Introduction
+
+PrBa_{2}Cu_{3}O_{7} is an intriguing exception among the rare-earth-substituted isomorphic YBa_{2}Cu_{3}O_{7} compounds (which are 90 K-class superconductors), since it is nonsuperconducting and an insulator.[1] Specific heat and magnetization measurements on PrBa_{2}Cu_{3}O_{7} showed an anomalous magnetic ordering at T_{N} = 17 K.[2] Neutron-diffraction[3] and Mossbauer spectroscopy[4] experiments suggest that this ordering is a simple three-dimensional commensurate antiferromagnetic (AFM) order in the Pr sublattice.
+
+The general behavior of PrBa_{2}Cu_{3}O_{7} differs from what is expected based on a conventional AFM structure: (1) In comparison with other members of RBa_{2}Cu_{3}O_{7} systems, where the highest value of T_{N} is observed for the Gd system (2.3 K), the magnetic ordering around 17 K of PrBa_{2}Cu_{3}O_{7} is two orders of magnitude higher than that expected from a scaling of the respective deGennes factors [based on the dipole-dipole or Ruderman-Kittel-Kasuya-Yosida (RKKY) interactions].[5, 21, 3] (2) The T_{N} for PrBa_{2}Cu_{3}O_{7} is field independent up to 9 T.[2] This result is in contrast to a conventional AFM, which in an external field of a few tesla is expected to suppress its T_{N} by a few degrees kelvin. (3) The dc susceptibility increases monotonically with decreasing temperature below T_{N} in PrBa_{2}Cu_{3}O_{7}. (4) The value of the Pr magnetic moment (0.74\mu_{B}) is much smaller than that of the free Pr ion. (5) The value of the Sommerfeld constant \gamma determined from specific heat measurements is relatively high [94 mJ/mol K2] (Ref. 6) or 265 mJ/(mol K2) (Ref. 7)], which is comparable to those of the heavy-fermion systems.
+
+The quenching of superconductivity and the anomalous magnetic ordering in PrBa_{2}Cu_{3}O_{7} have been a puzzle and stimulated enormous research activities. One approach in understanding these striking properties of PrBa_{2}Cu_{3}O_{7} is to study in detail the effect of Pr doping in RBa_{3}Cu_{3}O_{7} compounds.[8, 9] It is found that as the Pr concentration x in a (R_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} system increases, its superconducting transition temperature T_{c} is depressed. Beyond a critical Pr concentration x, _cr_, the superconductivity is quenched[9] and the system becomes insulating and displays magnetic ordering of both the Pr and Cu sublattices.[9, 10, 11] Thus the (R_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} system can exhibit either superconductivity (x < _x_cr) or AFM ordering of the Pr ions (x > _x_cr). However, the coexistence of both ordering states remains controversial in these systems.[10, 11] It has also been noted that T_{c} and _x_cr, at a given Pr concentration in the R_{1-x}Pr_{x}Ba_{2}Cu_{3}O_{7} systems, decrease almost linearly with increasing radius of the R ions.[9, 12, 13]
+
+The suppression of T_{c} has been attributed to two possible mechanisms: the Abrikosov-Gor'kov (AG) pair breaking[8, 14] or hole localization and filling.[7, 15] Both effects may be due to the hybridization of the Pr ion with the sandwiching CuO_{2} planes.[9, 15] Very recently, Fehrenbacher and Rice[16] proposed a theoretical model for the electronic structure of PrBa_{2}Cu_{3}O_{7}. They considered the difference between PrBa_{2}Cu_{3}O_{u} and other R Ba_{2}Cu_{3}O_{7} superconductors comes from an enhanced stability of the Pr^{3} state due to the hybridization with oxygen neighbors, and involves a transfer of holes from primarily planar O2p_{o} to O2p_{r} states.[16] In parallel with work on the behavior of the (R_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} systems in the superconducting regime (x < _x_cr), the magnetic ordering temperature T_{N} of the Pr ion in these systems has also been determined from heat capacity and magnetization measurements.[2, 10, 11, 17, 18, 11] All the results suggest that T_{N} decreases monotonically with increasing content of R ions, (1-_x_).
+
+In this paper we report the results of a systematic study on the T_{N} of (R_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} systems (R =Lu, Yb, Tm, Er, Y, Ho, Dy, Gd, Eu, Sm, and Nd).
+
+  Our data reveal the existence of a rare-earth ion-size effect on T_{N} (x>x_{\rm cr}), similar to that on T_{c} (x<x_{\rm cr}).[9, 13] For a fixed R concentration (x= const), the rate of depression of T_{N} with respect to x is smaller for R ions with a larger ionic radius.[10] This is in contrast to the rate of suppression of T_{c} with x, in that case the rate of depression of T_{c} with respect to x is larger for R ions with a larger ionic radius.[9, 13] The observed results are interpreted in terms of the hybridization between the local states of the Pr ion and the valence-band states of the CuO_{2} planes.
+
+## II Experimental Details
+
+The ceramic (R_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} (R=Lu, Yb, Tm, Er, Y, Ho, Dy, Gd, Eu, Sm, and Nd) systems with composition in the range of 0.4 < x< 1.0 were prepared by two different methods: (1) A mixture of appropriate amounts of high purity (> 99.9%) R_{2}O_{3}, Pr_{6}O_{11}, BaCO_{3}, and CuO was firstly fired in air in an Al_{2}O_{3} crucible at 940-960 degC for 2 days, followed by slow cooling in the furnace. The resultant powder was then reground and pressed into pellets which were fired for 2 days at 940-960 degC and then slow cooled at 450 degC, where they remained for 10 h before a final slow cool to room temperature. All specimens were annealed in an atmosphere of flowing oxygen to ensure a sufficient oxygen content in the final product. (2) Stoichiometric amounts of high purity (> 99.9%) R_{2}O_{3}, Pr_{6}O_{11}, BaCO_{3}, and CuO powders with a cationic molar ratio (using 0.005 mol of R_{2}O_{3}) were dissolved in nitric acid. An aqueous solution of oxalic acid and triethylamine was prepared by mixing 0.04 mol of oxalic and 50 ml of triethylamine in 50 ml of de-ionized water. The solution of metal nitrate salts was added into the oxalic acid-triethylamine solution with vigorous stirring. During the mixing, blue precipitates formed rapidly. The solution was then cooled in an ice bath while being stirred. After stirring for several minutes, the precipitates were filtered and dried at 120 degC overnight. The dried powders were then calcined at 800 degC in air for 10 h to eliminate any organic components. The resulting black powder was pressed into pellets. The pellets were sintered at 930-940 degC for 24 h, annealed at 400 degC for another 24 h, and then slow cooled to room temperature. All the heat treatments were carried out in flowing oxygen atmosphere. Overall, the quantitative agreement in the physical properties of the polycrystalline samples prepared by both methods is excellent.
+
+The structures of the samples were investigated by x-ray diffraction using CuK\alpha radiation. Differential thermal analysis (DTA) techniques were used between room temperature and 1150 degC to check the presence of other phases. The magnetization was measured by a quantum design magnetometer [superconducting quantum interference device (SQUID)] in magnetic fields up to H=1 T over the temperature range 5-300 K.
+
+## III Results and Discussion
+
+The x-ray-diffraction patterns at room temperature show that all samples (for all values of x studied) have the layered orthorhombic perovskite-like structure and contain no extra peaks due to impurity phases within the experimental error (< 5%). As an example, Fig. 1 shows the x-ray-diffraction patterns for (Sm_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} (x= 0.4-0.9). Because of the different ionic radii among the various rare-earth elements, it is likely to observe certain degree of segregation in mixing 123 compounds with different concentration x. Such a segregation may not easily be detected by the x-ray-diffraction analysis due to their similar lattice parameters. DTA curves for the (Sm_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} samples (x=0.4-0.9) are shown in Fig. 2. A slight endothermic change is observed at around 940-950 degC, probably due to the presence of small amounts of BaCuO_{2} phase. The melting peak in DTA curves for (Sm_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} samples splits progressively into two branches as the Pr concentration increases. This may reflect an inherent tendency of having
+
+Figure 1: X-ray powder diffraction patterns with Cu K\alpha radiation for (Sm_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} (x= 0.4-0.9).
+
+  some measure of inhomogeneity retained in the Pr distribution or even the existence of phase separation. However, we cannot resolve the difference in lattice parameters of the two isomorphic phases based on the x-ray data. The observation of a systematic variation in the magnetic properties with Pr doping, as will be discussed later, suggests that phase separation has only a minor effect on the physical properties of interest. Therefore, in the later discussion, we will neglect such a phase separation effect.
+
+The molar magnetization M of all the (_R_1-_x_Pr_x_)Ba2Cu3O7 samples (_R_ =Lu, Yb, Tm Er, Y, Ho, Dy, Gd, Eu, Sm, and Nd with x = 0.5, 0.6, 0.7, 0.8, 0.9, and 1.0) were measured in an applied field of 5x10-4 T over the temperature range between 5 and 300 K. Figure 3 is the typical temperature dependence of the dc susceptibility \chi(T) = M(T)/H for (Gd1-_x_Pr_x_)Ba2Cu3O7 samples (_x_ = 0.5-1.0). In all cases, the samples are not superconducting and the dc susceptibility increases with decreasing temperature. The measured \chi(T) can be fitted by a Curie-Weiss law down to 20 K > T_{N}:
+
+\[\chi = \chi_0 + C/(T - \theta )\ ,\]
+
+where the Pauli-like susceptibility \chi_0 is independent of temperature and the Curie constant is given by
+
+\[C = NP^2\mu_B^2/3K_B\ ,\]
+
+with P being the effective number of paramagnetic Bohr magnetons. By analyzing the susceptibility data and using formulas (1) and (2), we find \theta = - 5.58 K, _P_Pr = 2.98, and \chi_0 = 4.3 \times 10^{- 4} emu/mol for PrBa2Cu3O7. The _P_Pr value, in agreement with those reported in the literature, falls between the free ion values expected for Pr3+ (3.58) and Pr4+ (2.54). Similar results have been used extensively to argue for the existence of mixed-valent Pr.8 However, the moments calculated for the Pr3+ ion in the presence of the crystal field are different from that of the isolated ions and are in good agreement with that deduced from the measured susceptibility.19,20
+
+We have also determined the values of P, _th_, and _kh_0 for the (_R_1-_x_Pr_x_)Ba2Cu3O7 systems (_R_ = Lu, Yb, Tm, Er, Y, Ho, Dy, Gd, Eu, Sm, and Nd) by fitting their \chi(T) data over the temperature range of 20-300 K. The results are listed in Table 1. The effective Bohr magneton numbers should be the resultant of the contributions from both Pr and R ions if the contribution from Cu ions is neglected. The latter can be justified because in most cases the Cu sublattice is in an AFM state over the measured temperature region.21 The experimentally determined P value is always smaller than the theoretical counterpart as estimated by the formula
+
+\[P^{2} = xP_{\Pr}^2 + (1 - x)P_R^2\ ,\]
+
+where _P_Pr and _P_R are the corresponding P values for Hund's-rule free Pr3+ and R3+ ions, respectively. However, the difference is small. It can be understood reasonably well from the viewpoint of localized magnetism if crystal-field effects are taken into account.19,20 Exception is for R = Gd, since Gd3+ has zero angular momentum and therefore has no crystal-field effect. Consequently, our results strongly suggest the coexistence of independent Pr and R ions paramagnetism in the (_R_1-_x_Pr_x_)Ba2Cu3O7 systems. Both _P_R and _P_Pr have approximately the same values as that of the free ions. The Pauli-like susceptibility _kh_0 derived from this analysis is in
+
+\begin{table}
+\begin{tabular}{c c c c c c c c c c c c}  & P & Nd & Sm & Eu & Gd & Dy & Ho & Y & Er & Tm & Yb & Lu \\ X & Re3+ & 3.62 & 0.84 & 0.00 & 7.94 & 10.63 & 10.60 & 0.00 & 9.59 & 7.57 & 4.54 & 0.00 \\
+0.9 & _P_calc & 3.584 & 3.407 & 3.396 & 4.224 & 4.779 & 4.772 & 3.396 & 4.553 & 4.155 & 3.687 & 3.396 \\  & _P_exp & 3.023  the order of 10^{-4}-10^{-3} emu/mol.
+
+To reveal the magnetic ordering of PrBa_{2}Cu_{3}O_{7}, we plot the data in terms of \chi vs 1/(T+5.58) [Fig. 4(a)] and d\chi/dT vs T [Fig. 4(b)]. Both plots demonstrate the presence of an anomaly around 17.9 K, which is consistent with the reported T_{N} for this compound.[2, 6] The continuing increase of \chi below T_{N} indicates a behavior different from that associated with a conventional AFM transition, for which the magnetic susceptibility reaches a peak at T_{N}.
+
+The effect becomes more apparent in other systems studied as exemplified in Fig. 5, which shows the temperature dependence of the dc susceptibility \chi(T) over 5-20 K for (Sm_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} [Fig. 5(a)] and (Gd_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} [Fig. 5(b)]. There is no pronounced change in the slope of the magnetization curve. Therefore it is difficult to determine the exact position of the anomaly (or T_{N}) from \chi(T) curves. It is noted that, with increasing Pr concentration, the measured dc susceptibility increases in the (Sm_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} system, but decreases in the (Gd_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} system. In addition, the determination of T_{N} using d\chi/dT vs T curves does not give sufficient resolution for x<0.5 in (Sm_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} [Fig. 6(a)] and for all x in (Gd_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} [Fig. 6(b)]. A natural explanation of this difference is that the Gd^{3+} ions have a higher magnetic moment (P_{\rm Gd}=7.94) than that of Sm^{3+} (P_{\rm Sm}=0.84). The paramagnetic contribution of Gd ions is dominant in this temperature range, and it interferes the determination of T_{N} from the Pr sublattice.
+
+A second approach using the deviation of susceptibility from linear in a \chi vs 1/(T-\theta) plot also fails to resolve the T_{N} of (Gd_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} for x<0.7 (Fig. 7). The difficulty was overcome through a log-log plot of the temperature dependence of \chi (Fig. 8), which clearly demonstrates a turning point at T_{N} in all the nonsuperconducting compounds. _In conclusion_, therefore, at least one of the three methods mentioned above can precisely determine the T_{N} of the (R_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} systems (R=Lu, Yb, Tm, Er, Y, Ho, Dy, Gd, Eu, Sm, and Nd). The results, which are consistent with one another and are plotted in Fig. 9, show that in all cases T_{N} monotonically decrease with increasing R concentration.
+
+The T_{N} values of four (R_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} systems,
+
+Figure 4: (a) dc susceptibility vs 1/(T+5.58) curves for PrBa_{2}Cu_{3}O_{7} and (b) d\chi/dt vs T curves for PrBa_{2}Cu_{3}O_{7}.
+
+  Figure 7: dc susceptibility \chi vs 1/(_T_ - _th_) curves for (Gd1-_x_Pr_x Ba2Cu3O7.
+
+  may originate from the dipole-dipole interaction.
+
+Our results show that the T_{N} (Pr ordering) suppression in (R_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} systems does not depend on the magnetic moment of R ions. In fact, the suppression of T_{N} is more effective by R ions with smaller size irrespective of their moment value (see Fig. 9 and Table 1). This does not support the existence of any direct intersite Pr-R magnetic interaction in these compounds. On the other hand, the dilution of Pr ions is an important factor for T_{N} suppression, suggesting the short-range nature of the magnetic ordering of the Pr sublattice in these systems.
+
+The Pr ion has its 4f wave function more spatially extended among all rare-earth ions which form the orthorhombic 123 structure. It has also been suggested that the Pr ions in (R_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} have an enhanced stability in a PrIV state with a symmetry in favor of stronger hybridization [16] with the valence-band states associated with the CuO_{2} planes. Consequently, the hybridization generates an appreciable exchange interaction between the Pr magnetic moments and the spin of the mobile holes in the CuO_{2} planes. Therefore it is more likely that the Pr AFM order in the (R_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} systems originates from the superexchange interaction through oxygen neighbors. This is consistent with the existing data, [8] which suggest the importance of the superexchange mechanism involving CuO_{2} sheets in determining the Pr magnetism. There are other facts to support this view. First, few conduction electrons (holes) exist to mediate the RKKY interaction. Second, T_{N} is one or two orders of magnitude larger than that of other RBa_{2}Cu_{3}O_{7} compounds which are believed to originate from dipolar interactions.
+
+Apparently, the other R ions have smaller spatial extension of 4f wave functions and do not possess an orbital symmetry like the PrIV state. It has also been shown that the conduction electrons (holes) in the CuO_{2} planes have almost zero density of states at the R-ion sites. [23] Accordingly, these R ions and the CuO_{2} layers can be considered as electronically decoupled for all practical purposes. [24] However, based on our experimental data, we suggest that, even though the R ions in (R_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} systems do not directly hybridize with the valence band, [24] the spatial extension (ion size) of R ions does influence the hybridization between the valence-band states of the CuO_{2} planes and the Pr 4f-electron states. For R ions with a larger ionic radius, the stronger hybridization results in stronger superexchange interaction. Subsequently, it leads to a weaker suppression of T_{N}. For example, at the same concentration of R ions, T_{N} is 16.9 K for (Nd_{0.1}Pr_{0.9})Ba_{2}Cu_{3}O_{7}, but reduces to 11.9 K in (Lu_{0.1}Pr_{0.9})Ba_{2}Cu_{3}O_{7}.
+
+In order to compare and to summarize the correlation between the unique magnetic properties and the superconducting properties of the (R_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} systems, the superconducting transition temperature T_{c} vs x for the (R_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} (R = Nd, Gd, Er, and Lu) (Refs. 9 and 13) together are plotted in Fig. 11 along with their T_{N}(x). The main features of this "phase diagram" are the following.
+
+(1) The localized 4f electrons of the Pr ions play a crucial role both in the suppression of superconductivity [9, 13] and in the magnetic ordering of the (R_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} systems. [10]
+
+(2) The superconducting transition temperatures T_{c} (Refs. 9 and 13) and the magnetic ordering temperature T_{N} of the Pr ions [10] are affected by the size of the R ion in (R_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} systems. At constant Pr concentration, T_{c} decreases with increasing radius of the R ion. [9, 13] On the contrary, at constant Pr concentration, T_{N} decreases with decreasing radius of the R ion.
+
+(3) As the Pr concentration x increases, T_{c} monotonically decreases up to x_{\rm cr} and possibly beyond which T_{N} increases with further increasing of x. Our results suggest that most likely the superconductivity and the Pr AFM ordering in (R_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} systems are mutually exclusive. However, the specific heat measurements give an indication of a possible coexistence of superconductivity and AFM in some region near the metallic-insulating transition. [7, 8, 16]
+
+(4) As mentioned in our previous reports, [9, 13]T_{c} suppression in (R_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} systems is indepen
+
+Figure 11: T_{c} and T_{N} vs Pr concentration x for (R_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} systems (R = Nd, Gd, Er, and Lu).
+
+  dent of the magnetic moments of R ions. Similarly, the AFM ordering temperature T_{N} (for the Pr sublattice) is also independent of the magnetic moments of R ions.
+
+The most likely cause for the above observations is that the ion size of R influences the hybridization between the electron states of Pr ions and that of CuO_{2} planes.[10] The hybridization of the 4f states of Pr ions and the valence-band states of CuO_{2} is larger in (R_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} systems with larger R ionic radius. This effect gives rise to the suppression of superconductivity in the lower Pr concentration and the enhancement in superexchange interaction which is favorable for magnetic ordering in high-Pr-content compounds.
+
+## Acknowledgment
+
+This work was supported by ROC National Science Council Grant No. NSC790208M00795.
+
+## References
+
+* [1] J. K. Liang, X. T. Xu, S. S. Xie, G. H. Rao, X. Y. Shao, and Z. G. Duan, Z. Phys. B **69**, 137 (1987).
+* [2] A. Kebede, C-S. Jee, J. Schwegler, J. E. Crow, T. Mihalisin, G. H. Myer, R. E. Solomon, P. Schlottmann, M. V. Kuric, S. H. Bloom, and R. P. Guertin, Phys. Rev. B **40**, 4453 (1989).
+* [3] W. H. Li, J. W. Lynn, S. Skanthakumar, T. W. Clinton, A. Kebede, C-S. Lee, J. E. Crow, and T. Mihalisin, Phys. Rev. B **40**, 5300 (1989).
+* [4] G. Wortmann and I. Felner, Solid State Commun. **75**, 981 (1990).
+* [5] D. McK. Poul, H. A. Mook, A. W. Hewat, B. C. Sales, L. A. Boatner, J. R. Thompson, and M. Mostoller, Phys. Rev. B **37**, 2341 (1988).
+* [6] S. Ghamaty, B. W. Lee, J. J. Neumeier, G. Nieva, and M. B. Maple, Phys. Rev. B **43**, 5430 (1991).
+* [7] M. B. Maple, J. M. Ferreira, R. R. Hake, W. B. Lee, J. J. Neumeier, C. L. Seaman, K. N. Yang, and H. Zhou, J. Less-Common Met. **149**, 405 (1989).
+* [8] H. B. Radousky, J. Mater. Res. **7**, 1917 (1992).
+* [9] Y. Xu and W. Guan, Phys. Rev. B **45**, 3176 (1992), and references therein.
+* [10] W. Y Guan, Y. C. Chen, J. Y. T. Wei, Y. H. Xu, and M. K. Wu, Physic C **209**, 19 (1993), and references therein.
+* [11] H. Jhans, S. K. Malik, S. K. Dhar, and R. Vijayaraghavan, Physica C **207**, 247 (1993).
+* [12] H. D. Yang, P. F. Chen, C. R. Hsu, C. W. Lee, C. L. Li, and C. C. Peng, Phys. Rev. B **43**, 10 568 (1991).
+* [13] Y. Xu and W. Guan, Solid State Commun. **80**, 105 (1991).
+* [14] Y. Xu and W. Guan, Appl. Phys. Lett. **59**, 2183 (1991); Phys. Lett. A **163**, 104 (1992).
+* [15] J. J. Neumeier, T. Bjernholm, M. B. Maple, and Ivan K. Schuller, Phys. Rev. Lett. **63**, 2516 (1989).
+* [16] R. Fehrenbacher and T. M. Rice, Phys. Rev. Lett. **70**, 3471 (1993).
+* [17] G. Neiva, S. Ghamaty, B. W. Lee, M. B. Maple, and Ivan K. Schuller, Phys. Rev. B **44**, 6999 (1991).
+* [18] I. Das, E. V. Sampathkumaran, R. Vijayaraghavan, Y. Nakazawa, and M. Ishikawa, Physica C **173**, 331 (1991).
+* [19] L. Soderholm and G. L. Goodman, J. Solid State Chem. **81**, 121 (1989).
+* [20] L. Soderholm, C-K. Loong, G. L. Goodman, and B. D. Darbowski, Phys. Rev. B **43**, 7923 (1991).
+* [21] I. Felner, U. Yaron, I. Nowik, E. R. Bauminger, Y. Wolfus, E. R. Yacoby, G. Hilscher, and N. Pillmayr, Phys Rev. B **40**, 6739 (1989).
+* [22] H. D. Yang, P. F. Chen, C. R. Hsu, and H. C. Ku, Physica B **1658**166, 1193 (1990).
+* [23] J. Yu, S. Massidda, and A. J. Freeman, Phys. Lett. A **122**, 203 (1987).
+* [24] Yunhui Xu and Weiyan Guan, Appl. Phys. Lett. **53**, 334 (1988).
+
+ Ion-size effect on T_{n} in (R_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7-y} systems
+
+(R =Lu, Yb, Tm, Er, Y, Ho, Dy, Gd, Eu, Sm, and Nd)
+
+Weiyan Guan
+
+Yunhui Xu
+
+S. R. Sheen
+
+Y. C. Chen
+
+J. Y. T. Wei
+
+H. F. Lai
+
+M. K. Wu
+
+Materials Science Center and Department of Physics, National Tsing Hua University, Hsinchu, 30043, Taiwan, Republic of China
+
+J. C. Ho
+
+Department of Physics and National Institute for Aviation Research, Wichita State University, Wichita, Kansas 67208
+
+Received 14 October 1993
+
+###### Abstract
+
+We conducted a detailed study of the structure and magnetic properties of (R_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} sintered samples, where R = Lu, Yb, Tm, Er, Y, Ho, Dy, Gd, Eu, Sm, and Nd for x = 0.5-1.0. We found that the temperature dependence of the dc susceptibility follows the Curie-Weiss law in the temperature range 20-300 K and the paramagnetism of the Pr and R sublattices exist independently of one another. The antiferromagnetic ordering temperature T_{N} of Pr ions decreases monotonically with increasing R concentration (1-_x_). At a given x, T_{N} is R-ion-size dependent. The slope in the T_{N} vs x curve is steeper for ions with smaller ionic radii. The observed results are interpreted in terms of the hybridization between the local states of the Pr ion and the valence-band states of the CuO_{2} planes.
+
+pacs: 0163-1829/94/49(22)/15993(7)/506.00
+
+## I Introduction
+
+PrBa_{2}Cu_{3}O_{7} is an intriguing exception among the rare-earth-substituted isomorphic YBa_{2}Cu_{3}O_{7} compounds (which are 90 K-class superconductors), since it is nonsuperconducting and an insulator.[1] Specific heat and magnetization measurements on PrBa_{2}Cu_{3}O_{7} showed an anomalous magnetic ordering at T_{N} = 17 K.[2] Neutron-diffraction[3] and Mossbauer spectroscopy[4] experiments suggest that this ordering is a simple three-dimensional commensurate antiferromagnetic (AFM) order in the Pr sublattice.
+
+The general behavior of PrBa_{2}Cu_{3}O_{7} differs from what is expected based on a conventional AFM structure: (1) In comparison with other members of RBa_{2}Cu_{3}O_{7} systems, where the highest value of T_{N} is observed for the Gd system (2.3 K), the magnetic ordering around 17 K of PrBa_{2}Cu_{3}O_{7} is two orders of magnitude higher than that expected from a scaling of the respective deGennes factors [based on the dipole-dipole or Ruderman-Kittel-Kasuya-Yosida (RKKY) interactions].[5, 21, 3] (2) The T_{N} for PrBa_{2}Cu_{3}O_{7} is field independent up to 9 T.[2] This result is in contrast to a conventional AFM, which in an external field of a few tesla is expected to suppress its T_{N} by a few degrees kelvin. (3) The dc susceptibility increases monotonically with decreasing temperature below T_{N} in PrBa_{2}Cu_{3}O_{7}. (4) The value of the Pr magnetic moment (0.74\mu_{B}) is much smaller than that of the free Pr ion. (5) The value of the Sommerfeld constant \gamma determined from specific heat measurements is relatively high [94 mJ/mol K2] (Ref. 6) or 265 mJ/(mol K2) (Ref. 7)], which is comparable to those of the heavy-fermion systems.
+
+The quenching of superconductivity and the anomalous magnetic ordering in PrBa_{2}Cu_{3}O_{7} have been a puzzle and stimulated enormous research activities. One approach in understanding these striking properties of PrBa_{2}Cu_{3}O_{7} is to study in detail the effect of Pr doping in RBa_{3}Cu_{3}O_{7} compounds.[8, 9] It is found that as the Pr concentration x in a (R_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} system increases, its superconducting transition temperature T_{c} is depressed. Beyond a critical Pr concentration x, _cr_, the superconductivity is quenched[9] and the system becomes insulating and displays magnetic ordering of both the Pr and Cu sublattices.[9, 10, 11] Thus the (R_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} system can exhibit either superconductivity (x < _x_cr) or AFM ordering of the Pr ions (x > _x_cr). However, the coexistence of both ordering states remains controversial in these systems.[10, 11] It has also been noted that T_{c} and _x_cr, at a given Pr concentration in the R_{1-x}Pr_{x}Ba_{2}Cu_{3}O_{7} systems, decrease almost linearly with increasing radius of the R ions.[9, 12, 13]
+
+The suppression of T_{c} has been attributed to two possible mechanisms: the Abrikosov-Gor'kov (AG) pair breaking[8, 14] or hole localization and filling.[7, 15] Both effects may be due to the hybridization of the Pr ion with the sandwiching CuO_{2} planes.[9, 15] Very recently, Fehrenbacher and Rice[16] proposed a theoretical model for the electronic structure of PrBa_{2}Cu_{3}O_{7}. They considered the difference between PrBa_{2}Cu_{3}O_{u} and other R Ba_{2}Cu_{3}O_{7} superconductors comes from an enhanced stability of the Pr^{3} state due to the hybridization with oxygen neighbors, and involves a transfer of holes from primarily planar O2p_{o} to O2p_{r} states.[16] In parallel with work on the behavior of the (R_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} systems in the superconducting regime (x < _x_cr), the magnetic ordering temperature T_{N} of the Pr ion in these systems has also been determined from heat capacity and magnetization measurements.[2, 10, 11, 17, 18, 11] All the results suggest that T_{N} decreases monotonically with increasing content of R ions, (1-_x_).
+
+In this paper we report the results of a systematic study on the T_{N} of (R_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} systems (R =Lu, Yb, Tm, Er, Y, Ho, Dy, Gd, Eu, Sm, and Nd).
+
+  Our data reveal the existence of a rare-earth ion-size effect on T_{N} (x>x_{\rm cr}), similar to that on T_{c} (x<x_{\rm cr}).[9, 13] For a fixed R concentration (x= const), the rate of depression of T_{N} with respect to x is smaller for R ions with a larger ionic radius.[10] This is in contrast to the rate of suppression of T_{c} with x, in that case the rate of depression of T_{c} with respect to x is larger for R ions with a larger ionic radius.[9, 13] The observed results are interpreted in terms of the hybridization between the local states of the Pr ion and the valence-band states of the CuO_{2} planes.
+
+## II Experimental Details
+
+The ceramic (R_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} (R=Lu, Yb, Tm, Er, Y, Ho, Dy, Gd, Eu, Sm, and Nd) systems with composition in the range of 0.4 < x< 1.0 were prepared by two different methods: (1) A mixture of appropriate amounts of high purity (> 99.9%) R_{2}O_{3}, Pr_{6}O_{11}, BaCO_{3}, and CuO was firstly fired in air in an Al_{2}O_{3} crucible at 940-960 degC for 2 days, followed by slow cooling in the furnace. The resultant powder was then reground and pressed into pellets which were fired for 2 days at 940-960 degC and then slow cooled at 450 degC, where they remained for 10 h before a final slow cool to room temperature. All specimens were annealed in an atmosphere of flowing oxygen to ensure a sufficient oxygen content in the final product. (2) Stoichiometric amounts of high purity (> 99.9%) R_{2}O_{3}, Pr_{6}O_{11}, BaCO_{3}, and CuO powders with a cationic molar ratio (using 0.005 mol of R_{2}O_{3}) were dissolved in nitric acid. An aqueous solution of oxalic acid and triethylamine was prepared by mixing 0.04 mol of oxalic and 50 ml of triethylamine in 50 ml of de-ionized water. The solution of metal nitrate salts was added into the oxalic acid-triethylamine solution with vigorous stirring. During the mixing, blue precipitates formed rapidly. The solution was then cooled in an ice bath while being stirred. After stirring for several minutes, the precipitates were filtered and dried at 120 degC overnight. The dried powders were then calcined at 800 degC in air for 10 h to eliminate any organic components. The resulting black powder was pressed into pellets. The pellets were sintered at 930-940 degC for 24 h, annealed at 400 degC for another 24 h, and then slow cooled to room temperature. All the heat treatments were carried out in flowing oxygen atmosphere. Overall, the quantitative agreement in the physical properties of the polycrystalline samples prepared by both methods is excellent.
+
+The structures of the samples were investigated by x-ray diffraction using CuK\alpha radiation. Differential thermal analysis (DTA) techniques were used between room temperature and 1150 degC to check the presence of other phases. The magnetization was measured by a quantum design magnetometer [superconducting quantum interference device (SQUID)] in magnetic fields up to H=1 T over the temperature range 5-300 K.
+
+## III Results and Discussion
+
+The x-ray-diffraction patterns at room temperature show that all samples (for all values of x studied) have the layered orthorhombic perovskite-like structure and contain no extra peaks due to impurity phases within the experimental error (< 5%). As an example, Fig. 1 shows the x-ray-diffraction patterns for (Sm_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} (x= 0.4-0.9). Because of the different ionic radii among the various rare-earth elements, it is likely to observe certain degree of segregation in mixing 123 compounds with different concentration x. Such a segregation may not easily be detected by the x-ray-diffraction analysis due to their similar lattice parameters. DTA curves for the (Sm_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} samples (x=0.4-0.9) are shown in Fig. 2. A slight endothermic change is observed at around 940-950 degC, probably due to the presence of small amounts of BaCuO_{2} phase. The melting peak in DTA curves for (Sm_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} samples splits progressively into two branches as the Pr concentration increases. This may reflect an inherent tendency of having
+
+Figure 1: X-ray powder diffraction patterns with Cu K\alpha radiation for (Sm_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} (x= 0.4-0.9).
+
+  some measure of inhomogeneity retained in the Pr distribution or even the existence of phase separation. However, we cannot resolve the difference in lattice parameters of the two isomorphic phases based on the x-ray data. The observation of a systematic variation in the magnetic properties with Pr doping, as will be discussed later, suggests that phase separation has only a minor effect on the physical properties of interest. Therefore, in the later discussion, we will neglect such a phase separation effect.
+
+The molar magnetization M of all the (_R_1-_x_Pr_x_)Ba2Cu3O7 samples (_R_ =Lu, Yb, Tm Er, Y, Ho, Dy, Gd, Eu, Sm, and Nd with x = 0.5, 0.6, 0.7, 0.8, 0.9, and 1.0) were measured in an applied field of 5x10-4 T over the temperature range between 5 and 300 K. Figure 3 is the typical temperature dependence of the dc susceptibility \chi(T) = M(T)/H for (Gd1-_x_Pr_x_)Ba2Cu3O7 samples (_x_ = 0.5-1.0). In all cases, the samples are not superconducting and the dc susceptibility increases with decreasing temperature. The measured \chi(T) can be fitted by a Curie-Weiss law down to 20 K > T_{N}:
+
+\[\chi = \chi_0 + C/(T - \theta )\ ,\]
+
+where the Pauli-like susceptibility \chi_0 is independent of temperature and the Curie constant is given by
+
+\[C = NP^2\mu_B^2/3K_B\ ,\]
+
+with P being the effective number of paramagnetic Bohr magnetons. By analyzing the susceptibility data and using formulas (1) and (2), we find \theta = - 5.58 K, _P_Pr = 2.98, and \chi_0 = 4.3 \times 10^{- 4} emu/mol for PrBa2Cu3O7. The _P_Pr value, in agreement with those reported in the literature, falls between the free ion values expected for Pr3+ (3.58) and Pr4+ (2.54). Similar results have been used extensively to argue for the existence of mixed-valent Pr.8 However, the moments calculated for the Pr3+ ion in the presence of the crystal field are different from that of the isolated ions and are in good agreement with that deduced from the measured susceptibility.19,20
+
+We have also determined the values of P, _th_, and _kh_0 for the (_R_1-_x_Pr_x_)Ba2Cu3O7 systems (_R_ = Lu, Yb, Tm, Er, Y, Ho, Dy, Gd, Eu, Sm, and Nd) by fitting their \chi(T) data over the temperature range of 20-300 K. The results are listed in Table 1. The effective Bohr magneton numbers should be the resultant of the contributions from both Pr and R ions if the contribution from Cu ions is neglected. The latter can be justified because in most cases the Cu sublattice is in an AFM state over the measured temperature region.21 The experimentally determined P value is always smaller than the theoretical counterpart as estimated by the formula
+
+\[P^{2} = xP_{\Pr}^2 + (1 - x)P_R^2\ ,\]
+
+where _P_Pr and _P_R are the corresponding P values for Hund's-rule free Pr3+ and R3+ ions, respectively. However, the difference is small. It can be understood reasonably well from the viewpoint of localized magnetism if crystal-field effects are taken into account.19,20 Exception is for R = Gd, since Gd3+ has zero angular momentum and therefore has no crystal-field effect. Consequently, our results strongly suggest the coexistence of independent Pr and R ions paramagnetism in the (_R_1-_x_Pr_x_)Ba2Cu3O7 systems. Both _P_R and _P_Pr have approximately the same values as that of the free ions. The Pauli-like susceptibility _kh_0 derived from this analysis is in
+
+\begin{table}
+\begin{tabular}{c c c c c c c c c c c c}  & P & Nd & Sm & Eu & Gd & Dy & Ho & Y & Er & Tm & Yb & Lu \\ X & Re3+ & 3.62 & 0.84 & 0.00 & 7.94 & 10.63 & 10.60 & 0.00 & 9.59 & 7.57 & 4.54 & 0.00 \\
+0.9 & _P_calc & 3.584 & 3.407 & 3.396 & 4.224 & 4.779 & 4.772 & 3.396 & 4.553 & 4.155 & 3.687 & 3.396 \\  & _P_exp & 3.023  the order of 10^{-4}-10^{-3} emu/mol.
+
+To reveal the magnetic ordering of PrBa_{2}Cu_{3}O_{7}, we plot the data in terms of \chi vs 1/(T+5.58) [Fig. 4(a)] and d\chi/dT vs T [Fig. 4(b)]. Both plots demonstrate the presence of an anomaly around 17.9 K, which is consistent with the reported T_{N} for this compound.[2, 6] The continuing increase of \chi below T_{N} indicates a behavior different from that associated with a conventional AFM transition, for which the magnetic susceptibility reaches a peak at T_{N}.
+
+The effect becomes more apparent in other systems studied as exemplified in Fig. 5, which shows the temperature dependence of the dc susceptibility \chi(T) over 5-20 K for (Sm_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} [Fig. 5(a)] and (Gd_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} [Fig. 5(b)]. There is no pronounced change in the slope of the magnetization curve. Therefore it is difficult to determine the exact position of the anomaly (or T_{N}) from \chi(T) curves. It is noted that, with increasing Pr concentration, the measured dc susceptibility increases in the (Sm_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} system, but decreases in the (Gd_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} system. In addition, the determination of T_{N} using d\chi/dT vs T curves does not give sufficient resolution for x<0.5 in (Sm_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} [Fig. 6(a)] and for all x in (Gd_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} [Fig. 6(b)]. A natural explanation of this difference is that the Gd^{3+} ions have a higher magnetic moment (P_{\rm Gd}=7.94) than that of Sm^{3+} (P_{\rm Sm}=0.84). The paramagnetic contribution of Gd ions is dominant in this temperature range, and it interferes the determination of T_{N} from the Pr sublattice.
+
+A second approach using the deviation of susceptibility from linear in a \chi vs 1/(T-\theta) plot also fails to resolve the T_{N} of (Gd_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} for x<0.7 (Fig. 7). The difficulty was overcome through a log-log plot of the temperature dependence of \chi (Fig. 8), which clearly demonstrates a turning point at T_{N} in all the nonsuperconducting compounds. _In conclusion_, therefore, at least one of the three methods mentioned above can precisely determine the T_{N} of the (R_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} systems (R=Lu, Yb, Tm, Er, Y, Ho, Dy, Gd, Eu, Sm, and Nd). The results, which are consistent with one another and are plotted in Fig. 9, show that in all cases T_{N} monotonically decrease with increasing R concentration.
+
+The T_{N} values of four (R_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} systems,
+
+Figure 4: (a) dc susceptibility vs 1/(T+5.58) curves for PrBa_{2}Cu_{3}O_{7} and (b) d\chi/dt vs T curves for PrBa_{2}Cu_{3}O_{7}.
+
+  Figure 7: dc susceptibility \chi vs 1/(_T_ - _th_) curves for (Gd1-_x_Pr_x Ba2Cu3O7.
+
+  may originate from the dipole-dipole interaction.
+
+Our results show that the T_{N} (Pr ordering) suppression in (R_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} systems does not depend on the magnetic moment of R ions. In fact, the suppression of T_{N} is more effective by R ions with smaller size irrespective of their moment value (see Fig. 9 and Table 1). This does not support the existence of any direct intersite Pr-R magnetic interaction in these compounds. On the other hand, the dilution of Pr ions is an important factor for T_{N} suppression, suggesting the short-range nature of the magnetic ordering of the Pr sublattice in these systems.
+
+The Pr ion has its 4f wave function more spatially extended among all rare-earth ions which form the orthorhombic 123 structure. It has also been suggested that the Pr ions in (R_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} have an enhanced stability in a PrIV state with a symmetry in favor of stronger hybridization [16] with the valence-band states associated with the CuO_{2} planes. Consequently, the hybridization generates an appreciable exchange interaction between the Pr magnetic moments and the spin of the mobile holes in the CuO_{2} planes. Therefore it is more likely that the Pr AFM order in the (R_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} systems originates from the superexchange interaction through oxygen neighbors. This is consistent with the existing data, [8] which suggest the importance of the superexchange mechanism involving CuO_{2} sheets in determining the Pr magnetism. There are other facts to support this view. First, few conduction electrons (holes) exist to mediate the RKKY interaction. Second, T_{N} is one or two orders of magnitude larger than that of other RBa_{2}Cu_{3}O_{7} compounds which are believed to originate from dipolar interactions.
+
+Apparently, the other R ions have smaller spatial extension of 4f wave functions and do not possess an orbital symmetry like the PrIV state. It has also been shown that the conduction electrons (holes) in the CuO_{2} planes have almost zero density of states at the R-ion sites. [23] Accordingly, these R ions and the CuO_{2} layers can be considered as electronically decoupled for all practical purposes. [24] However, based on our experimental data, we suggest that, even though the R ions in (R_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} systems do not directly hybridize with the valence band, [24] the spatial extension (ion size) of R ions does influence the hybridization between the valence-band states of the CuO_{2} planes and the Pr 4f-electron states. For R ions with a larger ionic radius, the stronger hybridization results in stronger superexchange interaction. Subsequently, it leads to a weaker suppression of T_{N}. For example, at the same concentration of R ions, T_{N} is 16.9 K for (Nd_{0.1}Pr_{0.9})Ba_{2}Cu_{3}O_{7}, but reduces to 11.9 K in (Lu_{0.1}Pr_{0.9})Ba_{2}Cu_{3}O_{7}.
+
+In order to compare and to summarize the correlation between the unique magnetic properties and the superconducting properties of the (R_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} systems, the superconducting transition temperature T_{c} vs x for the (R_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} (R = Nd, Gd, Er, and Lu) (Refs. 9 and 13) together are plotted in Fig. 11 along with their T_{N}(x). The main features of this "phase diagram" are the following.
+
+(1) The localized 4f electrons of the Pr ions play a crucial role both in the suppression of superconductivity [9, 13] and in the magnetic ordering of the (R_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} systems. [10]
+
+(2) The superconducting transition temperatures T_{c} (Refs. 9 and 13) and the magnetic ordering temperature T_{N} of the Pr ions [10] are affected by the size of the R ion in (R_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} systems. At constant Pr concentration, T_{c} decreases with increasing radius of the R ion. [9, 13] On the contrary, at constant Pr concentration, T_{N} decreases with decreasing radius of the R ion.
+
+(3) As the Pr concentration x increases, T_{c} monotonically decreases up to x_{\rm cr} and possibly beyond which T_{N} increases with further increasing of x. Our results suggest that most likely the superconductivity and the Pr AFM ordering in (R_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} systems are mutually exclusive. However, the specific heat measurements give an indication of a possible coexistence of superconductivity and AFM in some region near the metallic-insulating transition. [7, 8, 16]
+
+(4) As mentioned in our previous reports, [9, 13]T_{c} suppression in (R_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} systems is indepen
+
+Figure 11: T_{c} and T_{N} vs Pr concentration x for (R_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} systems (R = Nd, Gd, Er, and Lu).
+
+  dent of the magnetic moments of R ions. Similarly, the AFM ordering temperature T_{N} (for the Pr sublattice) is also independent of the magnetic moments of R ions.
+
+The most likely cause for the above observations is that the ion size of R influences the hybridization between the electron states of Pr ions and that of CuO_{2} planes.[10] The hybridization of the 4f states of Pr ions and the valence-band states of CuO_{2} is larger in (R_{1-x}Pr_{x})Ba_{2}Cu_{3}O_{7} systems with larger R ionic radius. This effect gives rise to the suppression of superconductivity in the lower Pr concentration and the enhancement in superexchange interaction which is favorable for magnetic ordering in high-Pr-content compounds.
+
+## Acknowledgment
+
+This work was supported by ROC National Science Council Grant No. NSC790208M00795.
+
+## References
+
+* [1] J. K. Liang, X. T. Xu, S. S. Xie, G. H. Rao, X. Y. Shao, and Z. G. Duan, Z. Phys. B **69**, 137 (1987).
+* [2] A. Kebede, C-S. Jee, J. Schwegler, J. E. Crow, T. Mihalisin, G. H. Myer, R. E. Solomon, P. Schlottmann, M. V. Kuric, S. H. Bloom, and R. P. Guertin, Phys. Rev. B **40**, 4453 (1989).
+* [3] W. H. Li, J. W. Lynn, S. Skanthakumar, T. W. Clinton, A. Kebede, C-S. Lee, J. E. Crow, and T. Mihalisin, Phys. Rev. B **40**, 5300 (1989).
+* [4] G. Wortmann and I. Felner, Solid State Commun. **75**, 981 (1990).
+* [5] D. McK. Poul, H. A. Mook, A. W. Hewat, B. C. Sales, L. A. Boatner, J. R. Thompson, and M. Mostoller, Phys. Rev. B **37**, 2341 (1988).
+* [6] S. Ghamaty, B. W. Lee, J. J. Neumeier, G. Nieva, and M. B. Maple, Phys. Rev. B **43**, 5430 (1991).
+* [7] M. B. Maple, J. M. Ferreira, R. R. Hake, W. B. Lee, J. J. Neumeier, C. L. Seaman, K. N. Yang, and H. Zhou, J. Less-Common Met. **149**, 405 (1989).
+* [8] H. B. Radousky, J. Mater. Res. **7**, 1917 (1992).
+* [9] Y. Xu and W. Guan, Phys. Rev. B **45**, 3176 (1992), and references therein.
+* [10] W. Y Guan, Y. C. Chen, J. Y. T. Wei, Y. H. Xu, and M. K. Wu, Physic C **209**, 19 (1993), and references therein.
+* [11] H. Jhans, S. K. Malik, S. K. Dhar, and R. Vijayaraghavan, Physica C **207**, 247 (1993).
+* [12] H. D. Yang, P. F. Chen, C. R. Hsu, C. W. Lee, C. L. Li, and C. C. Peng, Phys. Rev. B **43**, 10 568 (1991).
+* [13] Y. Xu and W. Guan, Solid State Commun. **80**, 105 (1991).
+* [14] Y. Xu and W. Guan, Appl. Phys. Lett. **59**, 2183 (1991); Phys. Lett. A **163**, 104 (1992).
+* [15] J. J. Neumeier, T. Bjernholm, M. B. Maple, and Ivan K. Schuller, Phys. Rev. Lett. **63**, 2516 (1989).
+* [16] R. Fehrenbacher and T. M. Rice, Phys. Rev. Lett. **70**, 3471 (1993).
+* [17] G. Neiva, S. Ghamaty, B. W. Lee, M. B. Maple, and Ivan K. Schuller, Phys. Rev. B **44**, 6999 (1991).
+* [18] I. Das, E. V. Sampathkumaran, R. Vijayaraghavan, Y. Nakazawa, and M. Ishikawa, Physica C **173**, 331 (1991).
+* [19] L. Soderholm and G. L. Goodman, J. Solid State Chem. **81**, 121 (1989).
+* [20] L. Soderholm, C-K. Loong, G. L. Goodman, and B. D. Darbowski, Phys. Rev. B **43**, 7923 (1991).
+* [21] I. Felner, U. Yaron, I. Nowik, E. R. Bauminger, Y. Wolfus, E. R. Yacoby, G. Hilscher, and N. Pillmayr, Phys Rev. B **40**, 6739 (1989).
+* [22] H. D. Yang, P. F. Chen, C. R. Hsu, and H. C. Ku, Physica B **1658**166, 1193 (1990).
+* [23] J. Yu, S. Massidda, and A. J. Freeman, Phys. Lett. A **122**, 203 (1987).
+* [24] Yunhui Xu and Weiyan Guan, Appl. Phys. Lett. **53**, 334 (1988).
+
+ 

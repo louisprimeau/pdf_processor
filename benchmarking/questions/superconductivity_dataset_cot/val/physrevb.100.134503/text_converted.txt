@@ -1,0 +1,535 @@
+# Two-gap superconductivity and topological surface states in TaOsSi
+
+C. Q. Xu,^(1, 2) B. Li,³ J. J. Feng,¹ W. H. Jiao,⁴ Y. K. Li,⁵ S. W.
+Liu,¹ Y. X. Zhou,⁶ R. Sankar,⁷ Nikolai D. Zhigadlo,^(8, 9) H. B. Wang,²
+Z. D. Han,² B. Qian,² W. Ye,^(1,)1 W. Zhou,^(2,)2 T. Shiroka,¹⁰ Pabitra
+K. Biswas,¹¹ Xiaofeng Xu,² and Z. X. Shi^(1,)3
+
+¹School of Physics and Key Laboratory of MEMS of the Ministry of
+Education, Southeast University, Nanjing 211189, China
+
+²Department of Physics, Changsha Institute of Technology, Changsha
+215500, China
+
+³Information Physics Research Center, Nanjing University of Posts and
+Telecommunications, Nanjing 210023, China
+
+⁴Department of Physics, Zhejiang University of Science and Technology,
+Hangzhou 310023, China
+
+⁵Department of Physics and Hangzhou Key Laboratory of Quantum Matters,
+Hangzhou Normal University, Hangzhou 310036, China
+
+⁶Department of Physics, Zhejiang University, Hangzhou 310007, China
+
+⁷Institute of Physics, Academia Sinica, Nankang, Taipei, 11529, Taiwan
+
+⁸Department of Chemistry and Biochemistry, University of Bern, CH-3012
+Bern, Switzerland
+
+⁹CrystMat Company, CH-8046 Zurich, Switzerland
+
+¹⁰Laboratorium fur Fiskt-kopfermphysik, ETH Honggerberg, Zurich,
+CH-8093, Switzerland
+
+¹¹ISIS Pulsed Neutron and Muon Source, STFC Rutherford Appleton
+Laboratory, Harwell Campus, Didcot, Oxfordshire OX11 0QX, United Kingdom
+
+Footnote 1: seewei@seu.edu.cn
+
+Footnote 2: seezshi@seu.edu.cn
+
+Footnote 3: seezshi@seu.edu.cn
+
+Footnote 4: seezshi@seu.edu.cn
+
+Footnote 5: seezshi@seu.edu.cn
+
+###### Abstract
+
+The occurrence of superconductivity in topological materials is
+considered as a promising route for realizing topological
+superconductors, a platform able to host the long-sought Majorana
+fermions in condensed matter. In this work, by using electrical
+transport and heat-capacity measurements, as well as first-principles
+band-structure calculations, we investigate the physical properties of
+TaOsSi, a superconductor with T_(c) ≈ 5.8 K. The behavior of both its
+upper critical field and low-temperature heat-capacity suggest the
+existence of two superconducting gaps. More strikingly, first-principles
+calculations reveal gapless topological surface states in the present
+material. The evolution of the electrical resistivity with pressure (up
+to 50 GPa) was also investigated, and a "V-shaped" diagram of T_(c) vs P
+was found. Overall, our data suggest that TaOsSi is a new system where
+multiband superconductivity and topological surface states coexist and,
+hence, it may serve as a possible candidate in the search for
+topological superconductivity.
+
+DOI: 10.1103/PhysRevB.100.134503
+
+## I Introduction
+
+Unlike the common Dirac fermions, Majorana fermions are exotic particles
+which represent their own antiparticle. Originally investigated within
+the scope of particle physics, due to possible uses in quantum
+computation [1, 2, 3, 4, 5, 6], they have been facing an increasing
+interest also by condensed-matter physicists. In condensed matter,
+Majorana fermions may exist as emergent collective excitations of
+electrons, typically observed at the boundaries of topological
+superconductors or in some spin-liquid systems [1]. Two key conditions
+should be satisfied in order to realize Majorana fermions from
+collective excitations [1]: (1) compliance with the Dirac equation, and
+(2) self-conjugation. Topological superconductors, hosting not only a
+fully gapped superconducting bulk state, but also a gapless surface
+state, are natural systems for observing the Majorana bound states.
+Indeed, here the particle-hole symmetry, resulting from the
+superposition of electron and hole excitations in a superconductor,
+jointly with the topological gapless boundary excitations, make such
+systems ideal candidates [1, 3].
+
+Currently, two possible realizations of topological superconductors are
+envisioned, including either the spin-triplet (i.e., odd-parity) pairing
+superconductors, or the superconducting topological surface states
+induced by the proximity effect from an s-wave superconductor [1, 3, 7,
+8, 9]. As for the first proposal, if one excludes the controversial
+Sr₂RuO₄[10, 11, 12, 13], the doped topological insulator
+Cu_(x)Bi₂Se₃[14, 15, 16], and some noncentrosymmetric superconductors
+[17, 18], the currently known spin-triplet superconductors are rather
+scarce. As for the second proposal, the inhomogeneity induced by doping
+usually hinders the realization of Majorana bound states at the vortex
+cores. Currently, due to the burgeoning discovery of topological
+semimetals, researchers have been gradually shifting their attention to
+topological systems that simultaneously exhibit also intrinsic
+superconductivity. Such peculiar compounds include, e.g., PbTaSe₂[19,
+20], β-PdBi₂[21, 22], and RPtBi (R = rare earth) [23, 24, 25].
+
+Recently, two new superconductors, TaOsSi (T_(c) ∼ 5.5 K) and NbOsSi
+(T_(c) ∼ 3.5 K), have been discovered [26]. Due to the presence of heavy
+transition-metal elements, such as Ta and Os, and the ensuing spin-orbit
+coupling (SOC) effects on the band structure, TaOsSi represents a
+potentially interesting material. Since to date its superconducting
+properties have never been studied, here we attempt a detailed
+investigation of its electronic properties, upper critical field, and
+superconducting gap, via electrical transport and heat-capacity
+measurements, as well as via first-principles band-structure
+calculations. Surprisingly, the experimental results indicate that
+TaOsSi is a two-gap superconductor, while calculations suggest the
+occurrence of topological surface states. The simultaneous presence of
+superconductivity and topological effects makes TaOsSi a possible
+candidate in the search for topological superconductivity and Majorana
+fermions.
+
+## II Experimental details
+
+Polycrystalline TaOsSi specimens were synthesized via the arc-melting
+method. Tantalum pellets, osmium ingots, and silicon pieces, all 99.99
+
+The electronic band structures were computed by using the full-potential
+linearized augmented plane wave (FP-LAPW) method, as implemented in the
+wien2k code [27]. Relativistic and spin-orbit coupling (SOC) effects
+were included in all the calculations. The generalized gradient
+approximation (GGA) [28] was used to calculate the exchange-correlation
+potential. A muffin-tin potential with a radius of 2.5 a.u. was chosen
+for the Ta and Os atoms, and of 1.87 a.u. for the Si atoms. The
+plane-wave cutoff was defined by the condition rk_(max) = 7.0, with r
+being the minimum LAPW sphere radius and k_(max) being the
+plane-wave-vector cutoff. The self-consistent band-structure calculation
+was performed over a mesh of 10 x 10 x 9k points. To obtain the
+Fermi-surface properties, a tight-binding model based on maximally
+localized Wannier functions [29,30] was constructed. This could
+reproduce the band structure of the bulk, including the spin-orbit
+coupling with the Ta d, Os s and d, and Si p orbitals. The band
+structure and the Fermi surface were calculated on a dense mesh of 24 x
+39 x 20 k points in the first Brillouin zone.
+
+## III Results
+
+TaOsSi crystallizes in the TiNiSi orthorhombic structure with space
+group _Pnma_ (No. 62, centrosymmetric). As shown in Fig. 1, powder x-ray
+diffraction measurements followed by Rietveld refinements allowed us to
+determine the TaOsSi lattice parameters: a = 6.26(5) A, b = 3.89(3) A,
+and c = 7.25(9) A. The almost-zero residuals indicate a good sample
+quality and the lack of spurious phases.
+
+The temperature-dependent resistivity ρ(T), magnetic susceptibility
+χ(T), and heat capacity C/T of TaOsSi are shown in Fig. 2. Starting from
+300 K, the sample is first metallic then, once cooled below T_(c) ∼ 5.8
+K, it enters the superconducting phase. The residual-resistivity ratio
+RRR (ρ_(300K)/ρ_(0K)) is circa 5.9. As shown in the inset of Fig. 2(a),
+the low-temperature resistivity can be nicely fit with a power-law
+function ρ = ρ₀ + AT², with A = 9.66 × 10⁻⁴μΩ cm K⁻². The quadratic
+temperature dependence reflects the scattering of electrons off each
+other in the presence of a crystal lattice and ultimately suggests a
+Fermi-liquid behavior [31].
+
+The bulk superconductivity of TaOsSi was confirmed by a perfect
+diamagnetic response and a large specific-heat jump at T_(c), as shown
+in Figs. 2(b) and 2(c). The normal-state heat capacity was fit by
+C/T = γ_(n) + βT² + δT⁴, the first term being related to electronic
+contributions and the other two to phononic contributions. The fit
+yields a Sommerfeld constant γ_(n) = 8.52 mJ mol⁻¹ K⁻², β = 0.027 mJ
+mol⁻¹ K⁻⁴, and δ = 0.0015 mJ mol⁻¹ K⁻⁶. From β we determine a Debye
+temperature of 595 K, 25
+
+The temperature-dependent resistivity measurements at different applied
+fields are shown in Fig. 3(a). As the field increases, the
+superconducting transition is gradually suppressed to lower
+temperatures. By locating the points where ρ drops to 90
+
+Figure 1: Powder XRD pattern and Rietveld refinement for TaOsSi. The
+blue line at the bottom indicates the residuals. The inset shows the
+orthorhombic crystal structure of TaOsSi.
+
+also been observed in MgB₂[35] and in some unconventional
+superconductors [36, 37, 38], and most likely suggest a two-band
+superconductivity in TaOsSi. The two-band model for H_(c2) can be
+expressed as [39]
+
+$$\begin{split} 1&=a_{0}[\ln t+U(h)][\ln t+U(\eta h)]\\ &+a_{1}[\ln t+U(h)]+a_{2}[\ln t+U(\eta h)],\end{split}$$
+(1)
+
+where a₀, a₁, a₂ are determined by the matrix
+
+$$\begin{pmatrix}\lambda_{11}&\lambda_{12}\\ \lambda_{21}&\lambda_{22}\end{pmatrix},$$
+
+$h=\frac{H_{c2}D_{1}}{2b_{0}T}$, $\eta=\frac{D_{1}}{D_{1}}$, and
+$U(x)=\psi(x+\frac{1}{2})-\psi(\frac{1}{2})$, with ψ(x) being the
+digamma function. Here, the diagonal (off-diagonal) λ terms express the
+intraband (interband) coupling constants, while D₁, D₂ denote the
+diffusivity of each band. As seen in Fig. 3(b), the two-band theory can
+fit the experimental data overall within the error bars, and the
+resultant parameters are given in the figure. The best fits of the
+experimental H_(c2)(T) data give η = 0.088 when employing the 90
+
+To confirm the two-band superconductivity of TaOsSi, we further analyzed
+its low-temperature heat capacity. The temperature dependence of ΔC,
+shown in Fig. 4(a), was modeled by means of different gap functions
+(see, e.g., Refs. [40, 41]). In the BCS theory, the zero-field
+electronic heat capacity C_(ex) in the superconducting state is derived
+from the entropy S_(ex) by using the relation C_(ex) = T(∂S/∂T), where
+[40]
+
+$$S_{ex}=\frac{3\gamma_{n}}{k_{\text{B}}\pi^{3}}\int_{0}^{2\pi}\int_{0}^{\infty }[(1-f)\ln(1-f)+f\ln f]d\varepsilon\,d\phi.$$
+(2)
+
+Figure 3: (a) Temperature dependence of resistivity in different applied
+magnetic fields. (b) Temperature dependence of the upper critical field,
+as obtained by the 90
+
+Figure 2: (a) Temperature dependence of resistivity. Inset: At low
+temperature (above T_(c)), ρ(T) is proportional to T², a behavior
+compatible with Fermi-liquid theory. (b) Temperature dependence of
+magnetic susceptibility for a zero-field cooling (ZFC) and a field
+cooling (FC) process. (c) Temperature dependence of heat capacity,
+plotted as C/T versus T². The red solid line is a fit based on
+C/T = γ_(n) + βT² + δT⁴.
+
+Here, γ_(n) is the normal-state Sommerfeld coefficient,
+$f=1/(1+\exp^{E/k_{\rm B}T})$ is the Fermi distribution [with
+E = [ε² + Δ²(ϕ)]^(1/2) being the quasiparticle occupation number), and
+Δ(ϕ) is the angular dependence of the gap function. For a conventional
+s-wave superconductor, Δ(ϕ) is a constant, while for a d-wave
+superconductor Δ(ϕ) = αΔ(T)cos (2ϕ). Here, for the temperature
+dependence of the gap function, we adopt the well-established α model,
+i.e., $\Delta(\phi,T)=\alpha\Delta_{\rm BCS}(\phi,T)$[42], where
+$\Delta_{\rm BCS}(\phi,T)$ is the weak-coupling BCS gap function. This
+means that we assume a BCS-like gap and use the parameter α to evaluate
+the strength of electron-phonon coupling. In case of a two-gap fit, two
+sets of γ_(n) and α values were used.
+
+At a first glance, all models seem to fit the data well. However, upon
+magnifying the low-T region [see Fig. 4(b)], one observes clear
+differences. Thus, neither the single s-wave nor the d-wave model can
+fit the data satisfactorily. Conversely, a two-gap s-wave model provides
+an almost ideal fit. For all cases, the corresponding fit parameters are
+listed in Table 1. The resulting ΔC/γ_(n)T for the two-gap model is
+equal to 1.3, very close to the weak-coupling BCS value of 1.43. The
+resultant α values in the two-gap fit suggest the weak-coupling nature
+of the superconductivity herein.
+
+Figure 5 illustrates the DFT-calculated band structure of TaOsSi. When
+the SOC is ignored, four bands, arising mainly from the Ta and Os d
+orbitals, are found to cross the Fermi level $E_{\rm F}$. These bands
+remain at least twofold degenerate at the high-symmetry lines on the
+Brillouin zone (BZ) boundary. Interestingly, two distinct hourglass band
+crossings show up between T and Y, and at the S point near the Fermi
+level $E_{\rm F}$. The resulting Dirac points are fourfold degenerate
+with a linear energy dispersion along all three principal momentum
+directions. When SOC is accounted for, the number of bands doubles due
+to the lifting of the degeneracy. Despite the presence of gapped band
+crossings at the Dirac points, we find that the band structure still
+crosses the Fermi level. This means that the spin-orbit coupling effects
+are not strong enough to change the metallic character of TaOsSi.
+
+The first BZ, including its high-symmetry points and the full
+three-dimensional (3D) Fermi surfaces (with color-coded Fermi
+velocities) are shown in Figs. 6(a) and 6(b), respectively. To further
+clarify the band-structure of TaOsSi, we calculated also its bulk Fermi
+surfaces at the k_(x) = 0 plane and the surface-state spectra at a (100)
+section, as shown in Figs. 6(c) and 6(d), respectively. In the latter
+case, we clearly observe the appearance of extra surface states (bright
+red lines), which connect the bulk states. The 3D Fermi surfaces show
+complex three-dimensional characteristics.
+
+To further confirm the topological nature of TaOsSi, we calculated the
+Z₂ topological indices (v₀, v₁v₂v₃) normally used to classify the
+topological band insulators and semimetals [43]. Each of the four
+invariants takes a value of either 0 or 1, thus enumerating 16 phases
+belonging to three classes. A nonzero v₀ indicates that the system is a
+strong topological insulator (STI). When v₀ = 0, the systems are further
+classified according to v₁, v₂, and v₃. Systems with v₁ ≠ 0, v₂ ≠ 0, and
+v₃ ≠ 0 are called weak topological insulators (WTIs), while the (0, 000)
+system is a normal insulator (NI). This classification is also
+appropriate for our case. The Z₂ topological number for a 3D bulk system
+can be obtained by
+
+  Pairing        T_(c) (K)        α        γ_(n) (mJ mol⁻¹ K⁻²)
+  ------------- ----------- ------------- ----------------------
+  One s wave       5.95           1                8.5
+  One d wave       5.85         1.25                9
+  Two s waves      5.95      (0.3, 1.06)        (1.5, 7.3)
+
+Table 1: Fit parameters obtained by using different models of SC pairing
+symmetry [see Fig. 4(b)].
+
+Figure 4: (a) ΔC versus T. Here ΔC = C − C_(n), with C_(n) being the
+heat capacity in the normal state. (b) The lower panel shows an enlarged
+view of the low-T region, where ΔC(T) is fit by using different
+gap-symmetry functions.
+
+Figure 5: Electronic band-structure calculations for TaOsSi (a) without
+accounting for SOC and (b) including SOC.
+
+calculating the Wilson loop for the six time-reversal-invariant momentum
+planes: k_(x) = 0, π; k_(y) = 0, π; and k_(z) = 0, π. For TaOsSi the Z₂
+invariant numbers are 1 for the k_(x) = π; k_(y) = 0, π; and k_(z) = π
+planes, and 0 for the other planes. The resulting topological index is
+(0, 111), which indicates that TaOsSi is a _weak topological material_
+in all three reciprocal-lattice directions. Unlike "strong" topological
+insulators, which in an ARPES experiment exhibit large gaps at
+high-symmetry points, as a "weak" TI, TaOsSi is expected to show
+additional topological surface states (TSSs) [44].
+
+Besides investigating TaOsSi in standard conditions, we studied some of
+its properties also under applied pressure, the latter representing a
+clean way to tune the material properties. The effects of pressure on
+topological materials have already been studied in several cases [45,
+46, 47, 48]. For instance, the topological insulator Bi₂Se₃ displays a
+superconducting and, successively, a structural phase transition under
+applied pressure. In our case, we studied the pressure effect on the
+TaOsSi resistivity. Figure 7(a) shows the temperature dependence of
+resistivity at different pressures, from nearly ambient pressure up to
+50 GPa. With increasing pressure, drastic changes are observed in the
+normal-state resistivity, especially in the 0-5 GPa range. Also, the
+superconducting transition changes, first by gradually decreasing (for
+p ≲ 26 GPa) and then by increasing slightly, as the pressure continues
+to increase [Fig. 7(a), inset]. The pressure-dependent superconducting
+transition temperature T_(c)(p) is shown in Fig. 7(b). The observed
+"V-shaped" dependence of T_(c) might be due to possible phase
+transitions across the investigated pressure range.
+
+## IV Conclusion
+
+In summary, we studied the upper critical field, the superconducting
+gap, the band structure, and the pressure effects on the recently
+discovered TaOsSi superconductor (T_(c) ≈ 5.8 K). The upward behavior of
+its H_(c2)(T) curve implies a multiband superconductivity, further
+confirmed by calorimetric studies, which indeed indicate the existence
+of two superconducting gaps. Both gaps, $\Delta_{1}=0.53k_{\rm B}T_{c}$
+and $\Delta_{2}=1.87k_{\rm B}T_{c}$, are compatible with the
+weak-coupling BCS limit. More intriguingly, first-principles DFT
+calculations indicate the existence of Dirac points and topological
+surface states. These results suggest that TaOsSi is a system where
+multiband superconductivity coexists with topological surface states,
+which quite resembles the case in S-doped MoTe₂[49]. In
+MoTe_(2 − x)S_(x), a clearly larger gap than the bulk superconducting
+gaps was observed on the sample surface. Whether the large gap results
+from the interaction between the multigap superconductivity and
+topological surface states is still a open question. Further theoretical
+and experimental studies are needed. Nevertheless, similar to
+MoTe_(2 − x)S_(x), TaOsSi may also provide a new platform in the search
+for topological superconductors or Majorana fermions. Future local-probe
+experiments are expected to shed more light on the interesting
+properties of TaOsSi.
+
+###### Acknowledgements.
+
+This work was sponsored by the National Natural Science Foundation of
+China (Grants No. U1732162, No. 11504182, No. 11704047, No. U1832147,
+No. U1932217, No. 11504329, No. 11674054, and No. 11974061), the
+Strategic Priority Research Program (B) of the Chinese Academy of
+Sciences (Grant No. XDB25000000) and the National Key R&D Program of
+China (Grant No. 2018YFA0704300).
+
+Figure 6: (a) Bulk and surface first Brillouin zone, illustrating the
+high-symmetry points. (b) 3D bulk Fermi surfaces and color-coded Fermi
+velocities (blue is low velocity). (c) Calculated Fermi surfaces at the
+k_(x) = 0 plane. (d) Surface-state spectra at a (100) section; bright
+red lines denote surface states.
+
+Figure 7: (a) Temperature-dependent resistivity for different applied
+pressures. The inset is an enlarged view near the superconducting
+transition. (b) Pressure dependence of the superconducting transition
+temperature. T_(c)(onset) and T_(c)(zero) refer to the onset of SC
+transition and to the zero-resistivity SC transition temperature,
+respectively. The inset shows the resistivity vs pressure, measured at
+10 and 300 K.
+
+T.S. was in part supported by the Swiss National Science Foundation
+under Grant No. 200021-169455.
+
+## References
+
+* Sato and Ando [2017]M. Sato and Y. Ando, Topological superconductors:
+A review, Rep. Prog. Phys. **80**, 7 (2017). * Leignse and Flensberg
+[2012]M. Leignse and K. Flensberg, Introduction to topological
+superconductivity and Majorana Fermions, Semicond. Sci. Technol. **27**,
+124003 (2012). * Qi and Zhang [2011]X.-L. Qi and S.-C. Zhang,
+Topological insulators and superconductors, Rev. Mod. Phys. **83**, 1057
+(2011). * Hasan and Kane [2010]M. Z. Hasan and C. L. Kane, Topological
+insulators, Rev. Mod. Phys. **82**, 3045 (2010). * Kitaev [2001]A. Y.
+Kitaev, Unpaired Majorana Fermions in quantum wires, Phys. Usp. **44**,
+131 (2001). * Beenakker [2013]C. W. J. Beenakker, Search for Majorana
+Fermions in superconductors, Annu. Rev. Condens. Matter Phys. **4**, 113
+(2013). * Read and Green [2000]N. Read and D. Green, Paired states of
+Fermions in two dimensions with breaking of parity and time-reversal
+symmetries and the fractional quantum Hall effect, Phys. Rev. B **61**,
+10267 (2000). * Hosur _et al._ [2011]P. Hosur, P. Ghaemi, R. S. K. Mong,
+and A. Vishwanath, Majorana Modes at the Ends of Superconductor Vortices
+in Doped Topological Insulators, Phys. Rev. Lett. **107**, 097001
+(2011). * Fu and Kane [2008]L. Fu and C. L. Kane, Superconducting
+Proximity Effect and Majorana Fermions at the Surface of a Topological
+Insulator, Phys. Rev. Lett. **100**, 096407 (2008). * Pustogow _et al._
+[2019]A. Pustogow, Y. Luo, A. Chronister, Y.-S. Su, D. A. Sokolov, F.
+Jerzembeck, A. P. Mackenzie, C. W. Hicks, N. Kikugawa, S. Raghu, E. D.
+Bauer, and S. E. Brown, Constraints on the superconducting order
+parameter Sr₂RuO₄ from oxygen-17 nuclear magnetic resonance, Nature
+(London) **574**, 72 (2019). * Mackenzie and Maeno [2003]A. P. Mackenzie
+and Y. Maeno, The superconductivity of Sr₂RuO₄ and the physics of
+spin-triplet pairing, Rev. Mod. Phys. **75**, 657 (2003). * Ueno _et
+al._ [2013]Y. Ueno, A. Yamakage, Y. Tanaka, and M. Sato,
+Symmetry-Protected Majorana Fermions in Topological Crystalline
+Superconductors: Theory and Application to Sr₂RuO₄, Phys. Rev. Lett.
+**111**, 087002 (2013). * Tmai _et al._ [2013]Y. Tmai, K. Wakabayashi,
+and M. Sigrist, Topological and edge state properties of a three-band
+model for Sr₂RuO₄, Phys. Rev. B **88**, 144503 (2013). * Matano _et al._
+[2016]K. Matano, M. Kriener, K. Segawa, Y. Ando, and G.-q. Zheng,
+Spin-rotation symmetry breaking in the superconducting state of
+Cu₄Bi₂Se₃, Nat. Phys. **12**, 852 (2016). * Das _et al._ [2011]P. Das,
+Y. Suzuki, M. Tachiki, and K. Kadowaki, Spin-triplet vortex state in the
+topological superconductor Cu₄Bi₂Se₃, Phys. Rev. B **83**, 220513(R)
+(2011). * Fu and Berg [2010]L. Fu, and E. Berg, Odd-Parity Topological
+Superconductors: Theory and Application to Cu₄Bi₂Se₃, Phys. Rev. Lett.
+**105**, 097001 (2010). * Nishiyama _et al._ [2007]M. Nishiyama, Y.
+Inada, and G.-q. Zheng, Spin Triplet Superconducting State due to Broken
+Inversion Symmetry in Li₂Pt₃B, Phys. Rev. Lett. **98**, 047002 (2007). *
+Harada _et al._ [2012]S. Harada, J. J. Zhou, Y. G. Yao, Y. Inada, and
+G.-q. Zheng, Abrupt enhancement of noncentrosymmetry and appearance of a
+spin-triplet superconducting state in Li₂(Pd_(1 − x)Pt_(x))₃B beyond
+x = 0.8, Phys. Rev. B **86**, 220502(R) (2012). * Xu _et al._ [2016]S.
+Y. Guan, P. J. Chen, M. W. Chu, R. Sankar, F. C. Chou, H. T. Jeng, C. S.
+Chang, and T. M. Chuang, Superconducting topological surface states in
+the noncentrosymmetric bulk superconductor PbTaSe₂, Sci. Adv. **2**,
+e1600894 (2016). * Chang _et al._ [2016]T. R. Chang, P. J. Chen, G.
+Bian, S. M. Huang, H. Zheng, T. Neupert, R. Sankar, S. Y. Xu, I.
+Belopolski, G. Q. Chang, B. Wang, F. C. Chou, A. Bansil, H. T. Jeng, H.
+Lin, and M. Z. Hasan, Topological Dirac surface states and
+superconducting pairing correlations in PbTaSe₂, Phys. Rev. B **93**,
+245130 (2016). * Sakano _et al._ [2015]M. Sakano, K. Okawa, M. Kanou, H.
+Sanjo, T. Okuda, T. Sasagawa, and K. Ishizaka, Topologically protected
+surface states in a centrosymmetric superconductor β-PdBi₂, Nat. Commun.
+**6**, 8595 (2015). * Biswas _et al._ [2016]P. K. Biswas, D. G. Mazzone,
+R. Sibille, E. Pomjakushina, K. Conder, H. Luetkens, C. Baines, J. L.
+Gavilano, M. Kenzelmann, A. Amato, and E. Morenzoni, Fully gapped
+superconductivity in the topological superconductor β-PdBi₂, Phys. Rev.
+B **93**, 220504(R) (2016). * Xiao _et al._ [2018]H. Xiao, T. Hu, W.
+Liu, Y. L. Zhu, P. G. Li, G. Mu, J. Su, K. Li, and Z. Q. Mao,
+Superconductivity in the half-Heusler compound PbPdBi, Phys. Rev. B
+**97**, 224511 (2018). * Pavlosiuk _et al._ [2015]O. Pavlosiuk, D.
+Kaczorowski, and P. Wisniewski, Shubnikov-de Haas oscillations, weak
+antilocalization effect and large linear magnetoresistance in the
+putative topological superconductor LuPdBi, Sci. Rep. **5**, 9158
+(2015). * Liu _et al._ [2011]C. Liu, Y. Lee, T. Kondo, E. D. Mun, M.
+Caudle, B. N. Harmon, Sergey L. Bud’ko, P. C. Canfield, and A. Kaminski,
+Metallic surface electronic state in half-Heusler compounds RPtBi (R=
+Lu, Dy, Gd), Phys. Rev. B **83**, 205133 (2011). * Benndorf _et al._
+[2017]C. Benndorf, L. Hletta, G. Heymann, H. Huppertz, H. Eckert, and R.
+Pottgen, NbOsSi and TaOsSi – Two new superconducting ternary osmium
+silicides, Solid State Sci. **68**, 32 (2017). * Blaha _et al._ [2010]P.
+Blaha, K. Schwarz, G. Madsen, D. Kvasnicka, and J. Luitz, WIEN2K, _An
+Augmented Plane Wave Plus Local Orbital Program for Calculating Crystal
+Properties_ (Vienna, University of Technology, Vienna, 2010). * Perdew
+_et al._ [1996]J. P. Perdew, K. Burke, and M. Ernzerhof, Generalized
+Gradient Approximation Made Simple, Phys. Rev. Lett. **77**, 3865
+(1996). * Mostofi _et al._ [2014]A. A. Mostofi, J. R. Yates, G. Pizzi,
+Y. S. Lee, I. Souza, D. Vanderbilt, and N. Marzari, An updated version
+of wannier90: A tool for obtaining maximally-localised Wannier
+functions, Comput. Phys. Commun. **185**, 2309 (2014). * Wu _et al._
+[2018]Q. S. Wu, S. N. Zhang, H. F. Song, M. Troyer, and A. A. Soluyanov,
+WannierTools: An open-source software package for novel topological
+materials, Comput. Phys. Commun. **224**, 405 (2018). * Lin _et al._
+[2015]X. Lin, B. Fauque, and K. Behnia, Scalable T² resistivity in a
+small single-component Fermi surface, Science **349**, 945 (2015). *
+Haque and Hossain [2019]E. Haque and M. A. Hossain, Elastic, electronic,
+thermodynamic and transport properties of XOsSi (X= Nb, Ta)
+superconductor: First-principles calculations, J. Alloys Compd. **739**,
+737 (2018). * [33] A. C. Jacko, J. O. Fjarestad, and B. J. Powell, A
+unified explanation of the Kadowaki-Woods ratio in strongly correlated
+metals, Nat. Phys. **5**, 422 (2009). * [34] C. Q. Xu, W. Zhou, R.
+Sankar, X. Z. Xing, Z. X. Shi, Z. D. Han, B. Qian, J. H. Wang, Z. W.
+Zhu, J. L. Zhang, A. F. Bangura, N. E. Hussey, and X. F. Xu, Enhanced
+electron correlations in the binary stannide PdSn₄: A homologue of the
+Dirac nodal arc semimetal PdSn₄, Phys. Rev. Mater. **1**, 064201
+(2017). * [35] O. F. de Lima, R. A. Ribeiro, M. A. Avila, C. A. Cardoso,
+and A. A. Coelho, Anisotropic Superconducting Properties of Aligned MgB₂
+Crystallites, Phys. Rev. Lett. **86**, 5974 (2001). * [36] F. Hunte, J.
+Jaroszynski, A. Gurevich, D. C. Larbalestier, R. Jin, A. S. Sefat, M. A.
+McGuire, B. C. Sales, D. K. Christen, and D. Mandrus, Two-band
+superconductivity in LaFeAsO_(0.88)F_(0.11) at very high magnetic
+fields, Nature (London) **453**, 903 (2008). * [37] X. Z. Xing, W. Zhou,
+J. H. Wang, Z. W. Zhu, Y. F. Zhang, N. Zhou, B. Qian, X. F. Xu, and Z.
+X. Shi, Two-band and Pauli-limiting effects on the upper critical field
+of 112-type iron pnictide superconductors, Sci. Rep. **7**, 45943
+(2017). * [38] J. R. Wang, X. F. Xu, N. Zhou, L. Li, X. Z. Cao, J. H.
+Yang, Y. K. Li, C. Cao, J. H. Dai, J. L. Zhang, Z. X. Shi, B. Chen, and
+Z. H. Yang, Upward Curvature of the Upper Critical Field and the
+V-Shaped Pressure Dependence of T_(c) in the Noncentrosymmetric
+Superconductor PbTaSe₂, J. Supercond. Novel Magn. **28**, 3173 (2015). *
+[39] A. Gurevich, Enhancement of the upper critical field by nonmagnetic
+impurities in dirty two-gap superconductors, Phys. Rev. B **67**, 184515
+(2003). * [40] O. J. Taylor, A. Carrington, and J. A. Schlueter,
+Specific-Heat Measurements of the Gap Structure of the Organic
+Superconductors κ-(ET)₂Cu[N(CN)₂]Br and κ-(ET)₂Cu(NCS)₂, Phys. Rev.
+Lett. **99**, 057001 (2007). * [41] X. Xu, B. Chen, W. H. Jiao, B. Chen,
+C. Q. Niu, Y. K. Li, J. H. Yang, A. F. Bangura, Q. L. Ye, C. Cao, J. H.
+Dai, G. Cao, and N. E. Hussey, Evidence for two energy gaps and Fermi
+liquid behavior in the SrPt₂As₂ superconductor, Phys. Rev. B **87**,
+224507 (2013). * [42] H. Padamsee, J. E. Neighbor, and C. A. Shiffman,
+Quasiparticle phenomenology for thermodynamics of strong-coupling
+superconductors, J. Low Temp. Phys. **12**, 387 (1973). * [43] L. Fu and
+C. L. Kane, Topological insulators with inversion symmetry, Phys. Rev. B
+**76**, 045302 (2007). * [44] R. Noguchi, T. Takahashi, K. Kuroda, M.
+Ochi, T. Shirasawa, M. Sakano, C. Bareille, M. Nakayama, M. D. Watson,
+K. Yaji, A. Harasawa, H. Iwasawa, P. Dudin, T. K. Kim, M. Hoesch, V.
+Kandyba, A. Giampietti, A. Barinov, S. Shin, R. Arita, T. Sasagawa and
+T. Kondo, A weak topological insulator state in quasi-one-dimensional
+bismuth iodide, Nature (London) **566**, 518 (2019). * [45] P. P. Kong,
+J. L. Zhang, S. J. Zhang, J. Zhu, Q. Q. Liu, R. C. Yu, Z. Fang, C. Q.
+Jin, W. G. Yang, X. H. Yu, J. Zhu, and Y. S. Zhao, Superconductivity of
+the topological insulator Bi₂Se₃ at high pressure, J. Phys.: Condens.
+Matter **25**, 362204 (2013). * [46] C. Q. Xu, B. Li, M. R. van Delft,
+W. H. Jiao, W. Zhou, B. Qian, Nikolai D. Zhigadlo, Dong Qian, R. Sankar,
+N. E. Hussey, and Xiaofeng Xu, Extreme magnetoresistance and
+pressure-induced superconductivity in the topological semimetal
+candidate YBi, Phys. Rev. B **99**, 024110 (2019). * [47] Y. Qi, W. J.
+Shi, P. Werner, P. G. Naumov, W. Schnelle, L. Wang, K. G. Rana, S.
+Parkin, S. Medvedev, B. Yan, and C. Felser, Pressure-induced
+superconductivity and topological quantum phase transitions in a
+quasi-one-dimensional topological insulator: Bi₄I_(x), npj Quantum
+Mater. **3**, 1 (2018). * [48] Y. T. Chan, P. L. Alireza, K. Y. Yip, Q.
+Niu, K. T. Lai, and S. K. Goh, Nearly isotropic superconductivity in the
+layered Weyl semimetal WTe₂ at 98.5 kbar, Phys. Rev. B **96**, 180504(R)
+(2017). * [49] Y. Li, Q. Gu, C. Chen, J. Zhang, Q. Liu, X. Hu, J. Liu,
+Y. Liu, L. Li, M. Tian, Y. Wang, N. Samarth, S. Li, T. Zhang, J. Feng,
+and J. Wang, Nontrivial superconductivity in topological
+MoTe_(2 − x)S_(x) crystals, Proc. Natl. Acad. Sci. USA **115**, 9503
+(2018).

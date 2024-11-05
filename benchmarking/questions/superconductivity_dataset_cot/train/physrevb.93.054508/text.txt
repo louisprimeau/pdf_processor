@@ -1,0 +1,119 @@
+
+
+# Coexistence of clean- and dirty-limit superconductivity in LiFeAs
+
+Y. M. Dai
+
+ymdai@lanl.gov Condensed Matter Physics and Materials Science Department, Brookhaven National Laboratory, Upton, New York 11973, USA
+
+H. Miao
+
+Beijing National Laboratory for Condensed Matter Physics, Institute of Physics, Chinese Academy of Sciences, P.O. Box 603, Beijing 100190, China
+
+L. Y. Xing
+
+Beijing National Laboratory for Condensed Matter Physics, Institute of Physics, Chinese Academy of Sciences, P.O. Box 603, Beijing 100190, China
+
+X. C. Wang
+
+Beijing National Laboratory for Condensed Matter Physics, Institute of Physics, Chinese Academy of Sciences, P.O. Box 603, Beijing 100190, China
+
+C. Q. Jin
+
+Beijing National Laboratory for Condensed Matter Physics, Institute of Physics, Chinese Academy of Sciences, P.O. Box 603, Beijing 100190, China Collaborative Innovation Center of Quantum Matter, Beijing, China
+
+20 state \(\rho(T)\) follows a quadratic \(T\) dependence, \(\rho(T)=\rho_{0}+AT^{2}\) (\(\rho_{0}\) is the residual resistivity), in the low-temperature region expected for a Fermi liquid, consistent with previous transport studies [23, 24]. The residual resistivity of our crystal (\(\rho_{0}\approx 1.45\)\(\mu\Omega\) cm) is quite small, leading to a very large residual-resistivity ratio (RRR) of \(\rho(300\,\mathrm{K})/\rho_{0}\approx 200\). This indicates that the density of impurities or defects in LiFeAs is extremely low.
+
+The experimental details about the reflectivity \(R(\omega)\) measurements are described in the supplementary material [25]. Figure 1 shows the in-plane \(R(\omega)\) of LiFeAs in the far-infrared region at several different temperatures. In the normal state, \(R(\omega)\) approaches unity at zero frequency and increases with decreasing temperature in the far-infrared region, indicating a metallic response. Below \(T_{c}\), at 5 K, an upturn in \(R(\omega)\) develops at low frequency, which is a clear signature of the opening of a SC gap or gaps [26, 27, 28, 29].
+
+The real part of the optical conductivity, \(\sigma_{1}(\omega)\), which provides direct information about the properties of the SC gaps [26, 27, 28, 29, 30], was determined from the Kramers-Kronig analysis of the reflectivity. Given the metallic nature of the LiFeAs material, in the normal state the Hagen-Rubens form \(1-R(\omega)\propto\omega^{-2}\) was used for the low-frequency extrapolation, while in the superconducting state \(1-R(\omega)\propto\omega^{4}\) was used. For the high-frequency extrapolation, we assumed a constant reflectivity above the highest-measured frequency up to 12.5 eV, followed by a free-electron response \(R(\omega)\propto\omega^{-4}\).
+
+Figure 2 displays \(\sigma_{1}(\omega)\) for LiFeAs up to 800 cm\({}^{-1}\) for different temperatures above and below \(T_{c}\). The normal-state far-infrared \(\sigma_{1}(\omega)\) exhibits a Drude-like metallic response, which may be described as a peak centered at zero frequency where the width of the Drude response at half maximum is the value of the quasiparticle scattering rate. As the temperature is reduced, the scattering rate decreases, resulting in a narrowing of the Drude peak. Just above \(T_{c}\) at 20 K, as shown by the short-dashed curve, the Drude peak is quite narrow, suggesting a very small quasiparticle scattering rate at low temperature. Upon entering the superconducting state, as shown by \(\sigma_{1}(\omega)\) at 5 K (solid curve), the low-frequency Drude-like response is no longer observed, and a dramatic suppression of \(\sigma_{1}(\omega)\) at low frequency sets in, signaling the opening of the SC gaps. The conductivity almost vanishes below \(\sim\)50 cm\({}^{-1}\), suggesting the absence of nodes in the SC gaps, consistent with ARPES [13, 14] and STM [15, 16] as well as a previous optical study [20].
+
+The normal-state \(\sigma_{1}(\omega)\) of this multiband material is best described using the Drude-Lorentz model [31],
+
+\[\sigma_{1}(\omega)\!=\!\!\frac{2\pi}{Z_{0}}\!\left[\sum_{k}\frac{\omega_{p,k} ^{2}}{\tau_{k}\big{(}\omega^{2}+\tau_{k}^{-2}\big{)}}\!+\sum_{j}\frac{\gamma_ {j}\omega^{2}\Omega_{j}^{2}}{\big{(}\omega_{j}^{2}-\omega^{2}\big{)}^{2}+\gamma _{j}^{2}\omega^{2}}\right]\!,\] (1)
+
+where \(Z_{0  very good fit to the experimental data at 5 K. The gap values determined from the fit are \(\Delta_{1}\simeq 2.9\ \pm 0.2\) meV and \(\Delta_{2}\simeq 5.5\ \pm 0.4\) meV, respectively, in good agreement with the photoemission [13, 14] and tunneling [15, 16] studies; however, both are larger than a previous optical result on the same material [20]. The ratio of \(2\Delta_{1}/k_{\rm B}T_{c}\simeq 3.7\) for the small gap is consistent with the BCS weak-coupling limit of 3.5, whereas \(2\Delta_{2}/k_{\rm B}T_{c}\simeq 7.1\) for the large gap, pointing to strong-coupling superconductivity in LiFeAs. The coexistence of weak- and strong-coupling behaviors is likely to be a common feature in FeSCs.
+
+Although the Mattis-Bardeen approach describes the superconducting-state \(\sigma_{1}(\omega)\) quite well, and gives reasonable values for the SC gaps, we notice that while the plasma frequency of the broad Mattis-Bardeen component takes the same value as the corresponding normal-state Drude term (\(\omega^{\prime}_{p,2}=\omega_{p,2}\simeq 13\,000\pm 500\) cm\({}^{-1}\)), the plasma frequency of the narrow Mattis-Bardeen (\(\omega^{\prime}_{p,1}\simeq 4500\pm 200\) cm\({}^{-1}\)) is much smaller than the corresponding Drude term (\(\omega_{p,1}\simeq 8500\pm 400\) cm\({}^{-1}\)). Here we would like to point out that in our initial fit, the plasma frequencies for both Mattis-Bardeen terms adopt the values from the corresponding Drude terms (\(\omega^{\prime}_{p,1}=\omega_{p,1}\) and \(\omega^{\prime}_{p,2}=\omega_{p,2}\)). However, in order to achieve a reasonable fit to the data, the plasma frequency for the narrow Mattis-Bardeen component \(\omega^{\prime}_{p,1}\) has to be reduced. This indicates that a band disappears from the finite frequency \(\sigma_{1}(\omega)\) upon the superconducting condensate. More interestingly, the scattering rate of the narrow Mattis-Bardeen (\(1/\tau_{1}^{\prime}=128\pm 8\) cm\({}^{-1}\)) becomes larger than the normal-state Drude component (\(1/\tau_{1}=27\pm 3\) cm\({}^{-1}\)). This is unusual, since the quasiparticle scattering rate usually decreases slightly in the superconducting state. However, if we take the disappeared band into account, this behavior can be well understood by considering that the normal-state Drude component with \(1/\tau_{1}=27\pm 3\) cm\({}^{-1}\) indeed describes the momentum average of a band with \(1/\tau_{1}^{\prime}=128\pm 8\) cm\({}^{-1}\) and another band with a very small scattering rate (\(1/\tau_{1}^{\prime\prime}\ll 27\) cm\({}^{-1}\)), which are strongly correlated with each other. Upon the formation of a superconducting condensate, the band with \(1/\tau_{1}^{\prime\prime}\ll 27\) cm\({}^{-1}\) disappears from the finite-frequency \(\sigma_{1}(\omega)\), so that only the band with \(1/\tau_{1}^{\prime}=128\pm 8\) cm\({}^{-1}\) can be observed in the superconducting state.
+
+A spectral weight analysis provides clues about whether the disappeared band participates in the superconducting condensate. The spectral weight is defined as the area under \(\sigma_{1}(\omega)\) over a given frequency interval,
+
+\[N(\omega_{\rm c})=\int_{0^{+}}^{\omega_{\rm c}}\sigma_{1}(\omega)\,d\omega,\] (2)
+
+where \(\omega_{\rm c}\) is a cut-off frequency. In the superconducting state, the low-frequency spectral weight is significantly suppressed due to the formation of the SC gaps. According to the Ferrell-Glover-Tinkham (FGT) sum rule [39, 40], the spectral weight lost at finite frequencies in \(\sigma_{1}(\omega)\) due to the superconducting condensate is transferred to the superfluid weight \(N_{s}\); this is precisely the superfluid density, which may be calculated from the imaginary part of the optical conductivity \(\sigma_{2}(\omega)\) (see supplementary material [25]). The spectral weight lost at finite frequencies due to superconducting condensate \(\Delta N(\omega_{c})\), the so-called missing area, can be determined from a simple
+
+Figure 4: (a) The short dash-dotted curve and the solid curve are the measured \(\sigma_{1}(\omega)\) in the normal (20 K) and superconducting (5 K) states, respectively. The long dashed line thought the data at 5 K denotes the calculated \(\sigma_{1}(\omega)\) with two gaps of \(\Delta_{1}\simeq 2.9\) meV (short dashed line) and \(\Delta_{2}\simeq 5.5\) meV (long dash-dotted line). Inset: the superfluid weight \(N_{s}\) calculated from the imaginary part of the optical conductivity (solid line) and the missing area \(\Delta N(\omega_{c})\) (long-dashed line), respectively. Panels (b) and (c) illustrate the optical conductivity in the clean- and dirty-limit cases, respectively.
+
+Figure 3: The solid line shows the measured \(\sigma_{1}(\omega)\) of LiFeAs up to \(8000\) cm\({}^{-1}\) (1 meV) at 20 K. The long-dashed line through the data is the Drude-Lorentz fitting result, which consists of the contributions from a narrow Drude (short-dashed line), a broad Drude (long-dash-dot line), and a series of Lorentz components (dotted line). The inset displays \(\sigma_{1}(\omega)\) (solid curve) and the fitting result (long-dashed line) in the low-frequency range.
+
+  integral,
+
+\[\Delta N(\omega_{c})\simeq\int_{0^{+}}^{\omega_{c}}\sigma_{1}(\omega,\,20\,{\rm K} )-\sigma_{1}(\omega,\,5\,{\rm K})\,d\omega.\] (3)
+
+The FGT sum rule requires that \(\Delta N(\omega_{c})\) is equal to \(N_{s}\) as long as \(\omega_{c}\) covers the spectrum of excitations responsible for the superconducting condensate, regardless of the details of the system. \(N_{s}\) and \(\Delta N(\omega_{c})\) are shown as solid and dashed curves, respectively, in the inset of Fig. 4(a). \(N_{s}\) and \(\Delta N(\omega_{c})\) merge together above 350 cm\({}^{-1}\), suggesting that the spectral weight lost at finite frequencies in the superconducting state, including the spectral weight associated with the disappeared band, is fully captured by the superfluid weight located at zero frequency. The superfluid plasma frequency \(\omega_{\rm ps}\simeq 7822\) cm\({}^{-1}\) is calculated from \(N_{s}\) via \(\omega_{\rm ps}^{2}=Z_{0}N_{s}/\pi^{2}\). The penetration depth \(\lambda=1/2\pi\,\omega_{\rm ps}\) is 204 \(\pm\) 8 nm, which is smaller than the value from previous optical studies [20, 21], but very close to the values from other techniques [11, 41, 42].
+
+The above observations precisely reflect the optical response of a clean-limit superconducting band. A clean-limit superconductor is described as \(l\gg\xi\), where \(l\approx v_{F}\tau\) (\(v_{F}\) denotes the Fermi velocity) is the mean free path and \(\xi\approx v_{F}/\Delta\) is the coherence length [43]. Hence, the clean-limit case is also given by \(1/\tau\ll\Delta\) [Fig. 4(b)], indicating that nearly all of the spectral weight lies below \(2\Delta\). Upon the superconducting condensate, almost all of the spectral weight collapses into the superfluid weight located at zero frequency, leaving no observable conductivity at finite frequency [hatched region in Fig. 4(b)]. Therefore, a clean-limit superconducting band disappears from the finite-frequency \(\sigma_{1}(\omega)\) in the superconducting state due to the superconducting condensate, and the SC gap cannot be observed in the optical conductivity [44]. In the dirty limit [Fig. 4(c)], \(1/\tau\geqslant\Delta\), meaning that a large portion of the spectral weight lies above \(2\Delta\), which does not participate in the superconducting condensate below \(T_{c}\). With a large part of spectral weight left at finite frequency in the superconducting state [hatched region in Fig. 4(c)], the SC gap can be clearly observed and accurately modeled by the Mattis-Bardeen formalism.
+
+In LiFeAs, at least one band is in the clean limit, while others are in the dirty limit. The dirty-limit superconducting bands allow the SC gaps to be clearly observed from the optical conductivity and properly described by the Mattis-Bardeen approach, whereas the clean-limit superconducting band transfers almost all of its spectral weight to the zero-frequency superfluid weight below \(T_{c}\), thus giving rise to the disappeared band. Since the clean-limit condition is defined through a comparison of the quasiparticle scattering rate with the superconducting gap, clean- and dirty-limit superconductivity can only coexist in a _multiband superconductor_ with _very small residual scattering rate_ alongside _large and small superconducting gaps_. LiFeAs satisfies the above conditions simultaneously, thus supporting the coexistence of clean- and dirty-limit superconductivity.
+
+The presence of clean-limit superconductivity in LiFeAs is favored by a number of experimental facts: (i) The residual resistivity of LiFeAs is very low: \(\rho_{0}\approx 1.45\)\(\mu\Omega\) cm for our sample, and \(\rho_{0}\approx 1.3\)\(\mu\Omega\) cm in a previous transport study [24], resulting in a mean free path as large as \(l\approx 2000\) A at low temperature [24]. (ii) Upper critical field studies [45, 46] have determined the \(ab\)-plane coherence length \(\xi_{ab}\approx 40\) A, which is much shorter than \(l\), placing LiFeAs in the clean limit. (iii) An investigation into the vortex behavior in LiFeAs using STM [47] has revealed a \(T\)-dependent vortex-core radius, direct evidence of the Kramer-Pesch effect that is expected in a clean superconductor. (iv) Large superconducting gaps with \(\Delta\approx 5\) and \(4.2\) meV have been observed by ARPES on the inner hole and one of the electron FSs [13], respectively, where the extracted quasiparticle scattering rates are extremely small (limited by the energy resolution) in the superconducting state [48].
+
+To summarize, the optical properties of LiFeAs (\(T_{c}\simeq 18\) K) have been examined above and below \(T_{c}\). Two isotropic SC gaps with \(\Delta_{1}\simeq 2.9\)\(\pm\) 0.2 meV and \(\Delta_{2}\simeq 5.5\)\(\pm\) 0.4 meV are determined from the superconducting-state optical conductivity. Interestingly, a band with a very small scattering rate vanishes from the finite-frequency optical conductivity in the superconducting state, as revealed by a comparison between the superconducting-state Mattis-Bardeen and normal-state Drude components. A spectral weight analysis demonstrates that the spectral weight associated with the disappeared band is fully recovered in the superfluid weight. These observations suggest the coexistence of clean- and dirty-limit superconductivity in LiFeAs.
+
+We thank J. P. Hu, R. P. S. M. Lobo, and B. Xu for helpful discussions. Work at BNL was supported by the US Department of Energy, Office of Basic Energy Sciences, Division of Materials Sciences and Engineering under Contract No. DE-SC0012704. Work at IOP CAS was supported by NSFC (No. 11474344 and No. 11220101003) and MOST (No. 2013CB921703).
+
+## References
+
+* [1] H. Ding, P. Richard, K. Nakayama, K. Sugawara, T. Arakane, Y. Sekiba, A. Takayama, S. Souma, T. Sato, T. Takahashi _et al._, Europhys. Lett. **83**, 47001 (2008).
+* [2] M. Rotter, M. Tegel, D. Johrendt, I. Schellenberg, W. Hermes, and R. Pottgen, Phys. Rev. B **78**, 020503 (2008).
+* [3] M. Rotter, M. Tegel, and D. Johrendt, Phys. Rev. Lett. **101**, 107006 (2008).
+* [4] A. S. Sefat, R. Jin, M. A. McGuire, B. C. Sales, D. J. Singh, and D. Mandrus, Phys. Rev. Lett. **101**, 117004 (2008).
+* [5] Y. Bang, H.-Y. Choi, and H. Won, Phys. Rev. B **79**, 054529 (2009).
+* [6] R. P. S. M. Lobo, Y. M. Dai, U. Nagel, T. Room, J. P. Carbotte, T. Timusk, A. Forget, and D. Colson, Phys. Rev. B **82**, 100506(R) (2010).
+* [7] M. L. Teague, G. K. Drayna, G. P. Lockhart, P. Cheng, B. Shen, H.-H. Wen, and N.-C. Yeh, Phys. Rev. Lett. **106**, 087004 (2011).
+* [8] X. Wang, Q. Liu, Y. Lv, W. Gao, L. Yang, R. Yu, F. Li, and C. Jin, Solid State Commun. **148**, 538 (2008).
+
+  * [9] J. H. Tapp, Z. Tang, B. Lv, K. Sasmal, B. Lorenz, P. C. W. Chu, and A. M. Guloy, Phys. Rev. B **78**, 060505 (2008).
+* [10] C. Chu, F. Chen, M. Gooch, A. Guloy, B. Lorenz, B. Lv, K. Sasmal, Z. Tang, J. Tapp, and Y. Xue, Phys. C (Amsterdam, Neth.) **469**, 326 (2009).
+* [11] F. L. Pratt, P. J. Baker, S. J. Blundell, T. Lancaster, H. J. Lewtas, P. Adamson, M. J. Pitcher, D. R. Parker, and S. J. Clarke, Phys. Rev. B **79**, 052508 (2009).
+* [12] N. Qureshi, P. Steffens, Y. Drees, A. C. Komarek, D. Lamago, Y. Sidis, L. Hamageta, H.-J. Grafe, S. Wurmehl, B. Buchner _et al._, Phys. Rev. Lett. **108**, 117001 (2012).
+* [13] K. Umezawa, Y. Li, H. Miao, K. Nakayama, Z.-H. Liu, P. Richard, T. Sato, J. B. He, D.-M. Wang, G. F. Chen _et al._, Phys. Rev. Lett. **108**, 037002 (2012).
+* [14] S. V. Borisenko, V. B. Zabolotnyy, A. A. Kordyuk, D. V. Evtushinsky, T. K. Kim, I. V. Morozov, R. Follath, and B. Buchner, Symmetry **4**, 251 (2012).
+* [15] S. Chi, S. Grothe, R. Liang, P. Dosanjh, W. N. Hardy, S. A. Burke, D. A. Bonn, and Y. Pennec, Phys. Rev. Lett. **109**, 087002 (2012).
+* [16] M. P. Allan, A. W. Rost, A. P. Mackenzie, Y. Xie, J. C. Davis, K. Kihou, C. H. Lee, A. Iyo, H. Eisaki, and T.-M. Chuang, Science **336**, 563 (2012).
+* [17] U. Stockert, M. Abdel-Hafiez, D. V. Evtushinsky, V. B. Zabolotnyy, A. U. B. Wolter, S. Wurmehl, I. Morozov, R. Klingeler, S. V. Borisenko, and B. Buchner, Phys. Rev. B **83**, 224512 (2011).
+* [18] D.-J. Jang, J. B. Hong, Y. S. Kwon, T. Park, K. Gofryk, F. Ronning, J. D. Thompson, and Y. Bang, Phys. Rev. B **85**, 180505 (2012).
+* [19] F. Wei, F. Chen, K. Sasmal, B. Lv, Z. J. Tang, Y. Y. Xue, A. M. Guloy, and C. W. Chu, Phys. Rev. B **81**, 134527 (2010).
+* [20] B. H. Min, J. B. Hong, J. H. Yun, T. Iizuka, S. Ichi Kimura, Y. Bang, and Y. S. Kwon, New J. Phys. **15**, 073029 (2013).
+* [21] R. P. S. M. Lobo, G. Chanda, A. V. Pronin, J. Wosnitza, S. Kasahara, T. Shibauchi, and Y. Matsuda, Phys. Rev. B **91**, 174509 (2015).
+* [22] L. Y. Xing, H. Miao, X. C. Wang, J. Ma, Q. Q. Liu, Z. Deng, H. Ding, and C. Q. Jin, J. Phys. Condens. Matter **26**, 435703 (2014).
+* [23] O. Heyer, T. Lorenz, V. B. Zabolotnyy, D. V. Evtushinsky, S. V. Borisenko, I. Morozov, L. Harnagea, S. Wurmehl, C. Hess, and B. Buchner, Phys. Rev. B **84**, 064512 (2011).
+* [24] F. Rullier-Albenque, D. Colson, A. Forget, and H. Alloul, Phys. Rev. Lett. **109**, 187005 (2012).
+* [25] See Supplemental Material at http://link.aps.org/supplemental/ 10.1103/PhysRevB.93.054508 for details of experimental methods and models for data analysis.
+* [26] G. Li, W. Z. Hu, J. Dong, Z. Li, P. Zheng, G. F. Chen, J. L. Luo, and N. L. Wang, Phys. Rev. Lett. **101**, 107004 (2008).
+* [27] K. W. Kim, M. Rossle, A. Dubroka, V. K. Malik, T. Wolf, and C. Bernhard, Phys. Rev. B **81**, 214508 (2010).
+* [28] J. J. Tu, J. Li, W. Liu, A. Punnoose, Y. Gong, Y. H. Ren, L. J. Li, G. H. Cao, Z. A. Xu, and C. C. Homes, Phys. Rev. B **82**, 174509 (2010).
+* [29] Y. M. Dai, B. Xu, B. Shen, H. H. Wen, X. G. Qiu, and R. P. S. M. Lobo, Europhys. Lett. **104**, 47006 (2013).
+* [30] A. Charnukha, O. V. Dolgov, A. A. Golubov, Y. Matiks, D. L. Sun, C. T. Lin, B. Keimer, and A. V. Boris, Phys. Rev. B **84**, 174511 (2011).
+* [31] D. Wu, N. Barisic, P. Kallina, A. Faridian, B. Gorshunov, N. Drichko, L. J. Li, X. Lin, G. H. Cao, Z. A. Xu _et al._, Phys. Rev. B **81**, 100512 (2010).
+* [32] P. Marsik, C. N. Wang, M. Rossle, M. Yazdi-Rizi, R. Schuster, K. W. Kim, A. Dubroka, D. Munzar, T. Wolf, X. H. Chen _et al._, Phys. Rev. B **88**, 180508 (2013).
+* [33] M. Nakajima, T. Tanaka, S. Ishida, K. Kihou, C. H. Lee, A. Iyo, T. Kakeshita, H. Eisaki, and S. Uchida, Phys. Rev. B **88**, 094501 (2013).
+* [34] A. Charnukha, D. Propper, T. I. Larkin, D. L. Sun, Z. W. Li, C. T. Lin, T. Wolf, B. Keimer, and A. V. Boris, Phys. Rev. B **88**, 184511 (2013).
+* [35] Y. M. Dai, B. Xu, B. Shen, H. Xiao, H. H. Wen, X. G. Qiu, C. C. Homes, and R. P. S. M. Lobo, Phys. Rev. Lett. **111**, 117001 (2013).
+* [36] M. Nakajima, S. Ishida, T. Tanaka, K. Kihou, Y. Tomioka, T. Saito, C. H. Lee, H. Fukazawa, Y. Kohori, T. Kakeshita _et al._, Sci. Rep. **4**, 5873 (2014).
+* [37] M. Nakajima, S. Ishida, K. Kihou, Y. Tomioka, T. Ito, Y. Yoshida, C. H. Lee, H. Kito, A. Iyo, H. Eisaki _et al._, Phys. Rev. B **81**, 104528 (2010).
+* [38] C. C. Homes, A. Akrap, J. S. Wen, Z. J. Xu, Z. W. Lin, Q. Li, and G. D. Gu, Phys. Rev. B **81**, 180508 (2010).
+* [39] R. E. Glover and M. Tinkham, Phys. Rev. **104**, 844 (1956).
+* [40] M. Tinkham and R. A. Ferrell, Phys. Rev. Lett. **2**, 331 (1959).
+* [41] D. S. Inosov, J. S. White, D. V. Evtushinsky, I. V. Morozov, A. Cameron, U. Stockert, V. B. Zabolotnyy, T. K. Kim, A. A. Kordyuk, S. V. Borisenko _et al._, Phys. Rev. Lett. **104**, 187001 (2010).
+* [42] H. Kim, M. A. Tanatar, Y. J. Song, Y. S. Kwon, and R. Prozorov, Phys. Rev. B **83**, 100502 (2011).
+* [43] M. Dressel and G. Gruner, _Electrodynamics of Solids_ (Cambridge University Press, Cambridge, UK, 2002).
+* [44] K. Kamaras, S. L. Herr, C. D. Porter, N. Tache, D. B. Tanner, S. Etemad, T. Venkatesan, E. Chase, A. Inam, X. D. Wu _et al._, Phys. Rev. Lett. **64**, 84 (1990).
+* [45] B. Lee, S. Khim, J. S. Kim, G. R. Stewart, and K. H. Kim, Europhys. Lett. **91**, 67002 (2010).
+* [46] S. Khim, B. Lee, J. W. Kim, E. S. Choi, G. R. Stewart, and K. H. Kim, Phys. Rev. B **84**, 104502 (2011).
+* [47] T. Hanaguri, K. Kitagawa, K. Matsubayashi, Y. Mazaki, Y. Uwatoko, and H. Takagi, Phys. Rev. B **85**, 214505 (2012).
+* [48] H. Miao, T. Qian, X. Shi, P. Richard, T. K. Kim, M. Hoesch, L. Y. Xing, X.-C. Wang, C.-Q. Jin, J.-P. Hu _et al._, Nat. Commun. **6**, 6056 (2015).
+
+ 

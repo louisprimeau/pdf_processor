@@ -1,0 +1,691 @@
+# Pressure-induced multiple phase transformations of the BaBi₃
+superconductor
+
+Li Xiang,^(1, 2,) Raquel A. Ribeiro,^(2, 3) Udhara S.
+Kaluarachchi,^(1, 2) Elena Gati,¹ Manh Cuong Nguyen,¹ Cai-Zhuang Wang,¹
+Kai-Ming Ho,¹ Sergey L. Bud’ko,^(1, 2) and Paul C. Canfield^(1, 2,)
+
+¹Ames Laboratory, Iowa State University, Ames, Iowa 50011, USA
+
+²Department of Physics and Astronomy, Iowa State University, Ames, Iowa
+50011, USA
+
+³CCNH, Universidade Federal do ABC (UFABC), Santo Andre, SP, Brazil
+
+###### Abstract
+
+Measurements of temperature-dependent resistance and magnetization under
+hydrostatic pressures up to 2.13 GPa are reported for
+single-crystalline, superconducting BaBi₃. A temperature-pressure phase
+diagram is determined and the results suggest three different
+superconducting phases α, β, and γ in the studied pressure range. We
+further show that the occurrence of the three superconducting phases is
+intuitively linked to phase transitions at higher temperature, which are
+likely first order and structural in nature. With the α phase being the
+ambient-pressure tetragonal structure (P4/mmm), our first-principles
+calculations suggest the β phase has a cubic structure (Pm-3m) and the γ
+phase has a distorted tetragonal structure where the Bi atoms are moved
+out of the face-centered position. Finally, an analysis of the evolution
+of the superconducting upper critical field with pressure further
+confirms these transitions in the superconducting state and suggests a
+possible change of band structure or a Lifshitz transition near 1.54 GPa
+in γ phase. Given the large atomic numbers of both Ba and Bi, our
+results establish BaBi₃ as a good candidate for the study of the
+interplay of structure with superconductivity in the presence of strong
+spin-orbit coupling.
+
+DOI: 10.1103/PhysRevB.98.214509
+
+## I Introduction
+
+Materials with strong spin-orbit coupling have recently received a lot
+of attention as they are argued to be hosts for novel topological
+phases, such as topological insulators or topological superconductors
+[1, 2, 3]. Among them, Bi-based compounds are among the most
+investigated for their strong spin-orbit coupling due to Bi-6p electrons
+[4]. For example, the compounds Bi₂X₃ (X = Se, Te) are suggested to be
+topological insulators [5, 6].
+
+Another Bi-rich family of compounds, ABi₃ (A = Sr, Ba, and La), has
+attracted attention lately as these materials are superconductors.
+Polycrystalline ABi₃ compounds with A = Sr and Ba were first reported to
+be superconductors by Matthias and Hulm in 1952 [7]. Later on, single
+crystals of SrBi₃ and BaBi₃ were synthesized using the Bi self-flux
+method [8] by various research groups and were reported to have
+superconducting transition temperatures $T_{\rm c}$ of 5.75 and 5.9 K,
+respectively [9, 10, 11]. Furthermore, Na substitution for Sr in SrBi₃
+increases $T_{\rm c}$ to 9.0 K [12]. Polycrystalline LaBi₃ was
+synthesized more recently by utilizing a high-pressure technique [13]
+and reported to have a $T_{\rm c}$ of 7.3 K. Among the three ABi₃
+compounds, SrBi₃ and LaBi₃ crystallize in the AuCu₃-type cubic structure
+(Pm-3m), whereas BaBi₃ crystallizes in tetragonal structure (P4/mmm)
+with only a small difference in a and c lattice parameters [a = 5.06(1)
+A and c = 5.13(2) A] [10, 11, 14]. Importantly, for all three ABi₃
+compounds, spin-orbit coupling (SOC) is suggested to play a significant
+role in the superconductivity [14], making the ABi₃ compounds potential
+platforms for the realization of topological superconductivity.
+
+Further insight into the nature of the superconductivity can be obtained
+by studying the system’s response to hydrostatic pressure. As a tuning
+parameter, pressure is considered clean compared to substitution since
+it does not induce extra chemical disorder into the systems. It has been
+proven to be very useful in terms of tuning the ground state in many
+systems [15, 16, 17, 18], such as Fe-based superconductors [19, 20, 21,
+22] and quantum-critical materials [23, 24, 25, 26]. Earlier studies of
+the effect of hydrostatic pressure on ABi₃ revealed that, for LaBi₃ and
+SrBi₃, pressure linearly suppresses $T_{\rm c}$ up to 1.55 and 0.81 GPa,
+respectively [11, 13]. Interestingly, BaBi₃ was shown to exhibit a
+double-transition feature in the temperature-dependent magnetization
+curves for pressures above 0.3 GPa [11]. However, the origin and nature
+of the feature has not been studied in greater detail up to now.
+
+In this work, we present a detailed pressure study on BaBi₃ by utilizing
+both resistance and magnetization measurements. Our data reproduce the
+multiple superconducting transitions in an intermediate pressure region
+for 0.33 ≤ p ≤ 1.05 GPa, whereas only a single sharp transition is
+revealed for p ≤ 0.27 GPa and p ≥ 1.27 GPa. The magnetization
+measurements confirm that superconductivity is not filamentary, but
+pressure-stabilized phases. In addition, our data sets reveal a series
+of as yet undetected high-temperature phase transitions.
+
+From these data sets, we determine a temperature-pressure (T-p) phase
+diagram that highlights the existence of three phases (each
+superconducting at low temperatures) in BaBi₃. We argue that the
+high-temperature anomalies, which are likely first-order in nature, are
+related to structural degrees of freedom. Our first-principles
+calculations support that several structures are close in energy for
+BaBi₃ and allow us to infer the possible pressure-stabilized structures.
+Our results establish BaBi₃ as an interesting system to study the
+interplay of superconductivity and structural degrees of freedom in the
+presence of strong SOC.
+
+## II Experimental details
+
+### Experimental details
+
+Single crystals of mm sizes BaBi₃ [inset of Fig. 1(a)] were grown
+through a Bi self-flux technique [8,11] with the help of a frit-disk
+crucible set [27]. The ac resistance measurement under pressure was
+performed in a Quantum Design Physical Property Measurement System
+(PPMS) using 1 mA excitation with a frequency of 17 Hz, on cooling and
+warming at a rate of +-0.25 K/min. The magnetic field was applied
+perpendicular to the current direction. A standard four-contact
+configuration was used. Contacts were made by DuPont 4929N silver paint
+inside a N₂ glove box due to the air sensitivity of the compound. A
+Be-Cu/Ni-Cr-Al hybrid piston-cylinder cell, similar to the one described
+in Ref. [28], was used to apply pressure. Good hydrostatic conditions
+were achieved by using a 4:6 mixture of light mineral oil:_n_-pentane as
+a pressure medium, which solidifies, at room temperature, in the range
+3-4 GPa, i.e., well above our maximum pressure [28-30]. Pressure values
+were inferred from the T_(c)(p) of lead [31]. Studies show that in a
+similar piston-cylinder cell using a different pressure medium,
+high-temperature pressures are different from the low-temperature ones,
+and the temperature dependence of pressure is nontrivial [32]. However,
+given that the temperature/pressure relation for this specific
+cell/pressure medium combination has not been established, we simply use
+the lead-T_(c) pressure value. This may give rise to a higher
+temperature pressure difference of up to 0.3 GPa [30,32,33].
+
+Low-field (20 mT) dc magnetization measurements under pressure were
+performed in a Quantum Design Magnetic Property Measurement System
+(MPMS-3) SQUID magnetometer. A commercially available HDM Be-Cu
+piston-cylinder pressure cell [34] was used to apply pressures up to 1.2
+GPa. Daphne oil 7373 was used as a pressure medium, which solidifies at
+2.2 GPa at room temperature [35], ensuring good hydrostatic conditions.
+Slight errors in the centering of the composite Pb/BaBi₃ sample and
+pressure cell happen during the magnetization measurements, which cause
+the upturn features as shown in Fig. 5. Superconducting Pb was used as a
+low-temperature pressure gauge [36]. Note that for both pressure cells,
+load was always applied at room temperature. It is shown in the text
+later that two pressure cells reveal features that are consistent with
+each other, suggesting almost identical hydrostatic conditions in two
+cells.
+
+### Computational methods
+
+To further investigate possible low-energy structures of BaBi₃, we
+performed a random structure search by making several hundreds of
+structures with different symmetries and unit-cell sizes, i.e., 2, 3, 4
+and 6 formula units in the unit cell. All structures were then fully
+relaxed by density functional theory (DFT) with criteria 0.01 eV/A for
+force components and 1 kbar (0.1 GPa) for stress tensor elements. The
+DFT [37] calculations were performed by Vienna Ab-initio Simulation
+Package (vasp) [38] with the projector-augmented wave (PAW)
+pseudopotential method [39,40] within the generalized-gradient
+approximation (GGA) [41]. The Monkhorst-Pack scheme [42] was used for
+Brillouin zone sampling with a high-quality _k_-point grid of 2p × 0.025
+A-1. The energy cutoff was 320 eV and spin-orbit coupling (SOC) was
+included in calculations.
+
+## III Results and discussions
+
+Figure 1 shows the pressure dependence of the temperature-dependent
+resistance _R_(_T_) of BaBi₃. All data were taken upon increasing
+pressure up to 2.13 GPa. As shown in Fig. 1(a), at 0 GPa, the resistance
+decreases as temperature is lowered, showing metallic behavior. Below ∼6
+K, BaBi₃ becomes superconducting. Initially, increasing pressure
+suppresses the resistance value at 300 K, _R_(300 K), slightly. However,
+when pressure is increased from 0.27 to 0.33 GPa, a sudden drop in
+_R_(300 K) is observed, and the overall behavior of
+temperature-dependent resistance
+
+Figure 1: (a) Evolution of the resistance with hydrostatic pressures up
+to 2.13 GPa. Data have been taken upon cooling; all data were taken upon
+increasing p. Pressure values in the figure legends are low-wtemperature
+pressure values p_(T ≤ 90K). Inset: Picture of BaBi₃ single crystal.
+(b)–(d) Blow-ups of the low-temperature superconducting transition for
+three different pressure regions. The pressure regions have been chosen
+to represent the characteristic change of the superconducting
+transition. Note that for 0.33 ≤_p_≤ 1.05 GPa in panel (c), the
+superconducting transition occurs in multiple steps in the _R_(_T_)
+data. The criterion for superconducting transition temperature
+T_(c)^(offset) is indicated by arrows in panels (b) and (c).
+
+changes as well; starting from p = 0.33 GPa, a "Z-shape" anomaly at T  
+250 K in the _R_(_T_) curve emerges at which the resistance is increased
+upon lowering the temperature. The feature is clearly observed up to
+1.05 GPa, it becomes much weaker for 1.16 and 1.27 GPa, and it
+disappears for higher pressures. The transition temperature, _T_S, for
+this anomaly is suppressed upon increasing pressure (Fig. 2). Figures
+1(b)-1(d) present blow-ups of the low-temperature superconducting
+transition for three different pressure regions. For the low-pressure
+region (0 <= p <= 0.27 GPa), the superconducting transition in
+resistance remains sharp and single, and _T_c is suppressed by
+increasing pressure. For the intermediate pressure region (0.33 <= p <=
+1.05 GPa), multiple steps in the superconducting transition are
+observed. For the high-pressure region (1.16 <= p <= 2.13 GPa), the
+superconducting transition becomes sharp and single again and _T_c
+decreases with increasing pressure as well.
+
+To create a T -_p_ phase diagram, first we focus on a more detailed
+analysis of the "Z-shape," high-temperature feature in the intermediate
+pressure region. Figure 2 presents the analysis of the "Z-shape" anomaly
+in the temperature-dependent resistance curves. Figure 2(a) shows the
+_R_(_T_) curve for the "Z-shape" anomaly on both cooling (solid lines)
+and warming (dashed lines) for selected pressures. Clear 10-25-K wide
+hysteresis is observed, indicating the transition’s first-order nature.
+The temperature derivative of the resistance, _dR_/_dT_, taken upon
+cooling, is shown in Fig. 2(b). It is clearly seen that _T_S is
+suppressed with increasing pressure. This feature is well pronounced up
+to 1.05 GPa, it becomes distinctly weaker for 1.16 and 1.27 GPa, and it
+is not detectable anymore for higher pressures.
+
+To follow the feature associated with the sudden change in _R_(_p_, T =
+300 K) at p   0.3 GPa to lower temperatures, the pressure dependence of
+the resistance _R_(_p_) at fixed temperatures is determined from the
+data in Fig. 1(a) and presented in Fig. 3. A kinklike anomaly is
+observed at p   0.3 GPa. The anomaly manifests as an increase of
+resistance with increasing pressure, and at high temperature it
+manifests as a drop. This behavior reflects the crossing point of the
+_R_(_T_) curves at T   110 K for p < 0.33 GPa and p >= 0.33 GPa, as
+shown in Fig. 1. Similar behavior has also been observed in PbTaSe2,
+where the sudden changes in _R_(_p_) are also associated with a
+first-order structural phase transition [43]. This kinklike anomaly is
+denoted as _Tp_ and the corresponding transition pressures have been
+determined from the midpoint of the jumplike change in _R_(_p_). At
+higher pressure, another much broader transition, _T_’s, is observed in
+Fig. 3 for p   0.8-1 GPa, which exists up to T   220 K. To determine
+_T_’s, for each temperature shown in the figure, the _R_(_p_) data for
+0.75 < p < 1.25 GPa were fitted using a polynomial function up to the
+third order, and the inflection point was taken as _T_’s.
+
+We summarize the position of the high-temperature anomalies observed in
+_R_(_p_, _T_) in the temperature-pressure (_T_ -_p_) phase diagram shown
+in Fig. 4. As shown in the figure, _Tp_ (blue pentagon) is located
+around 0.3 GPa at low temperatures and represents the sudden change of
+the _R_(_p_) behavior from 0.27 to 0.33 GPa. The temperature of the
+"Z-shape" anomaly, _T_S (blue triangle), is continuously suppressed from
+264 to 150 K by pressure. _T_’s represents the broad transition at
+
+Figure 3: The pressure dependence of resistance _R_(_p_) at fixed
+temperatures. The dashed line labeled _Tp_ indicates a kinklike anomaly
+at p → 0.3 GPa. The dotted line labeled _T_’s indicates another broad
+feature at p → 1 GPa, which is discernible up to  220 K. Determination
+of _T_’s, and its relation to _T_S, is discussed in detail in the main
+text.
+
+Figure 2: (a) Temperature-dependent resistance R taken on cooling (solid
+lines) and warming (dashed lines) for selected pressures; (b)
+temperature derivative _dR_/_dT_ taken on cooling showing the evolution
+of the transition temperature _T_S. The criterion for the determination
+of _T_S is indicated by an arrow.
+
+0.8-1 GPa and persists up to T ∼ 220 K as indicated in Fig. 3. The
+behavior of $T_{\rm c}$ with pressure and its relationship with the
+high-temperature anomalies will be discussed later (see Fig. 7 below).
+
+To provide thermodynamic data on the superconductivity under pressure,
+we present, in Fig. 5, the dependence of the zero-field-cooled (ZFC)
+magnetization M(T) data. During the measurements, pressure was first
+monotonically increased from ambient pressure to 1.17 GPa, then it was
+decreased back to ambient pressure. The superconducting transition
+temperature of BaBi₃ is inferred from the onset of diamagnetism, which
+is visible in all data sets under p, demonstrating the bulk nature of
+superconductivity in the full pressure range of investigation. Due to
+uncertainties involved in the determination of absolute values of M, we
+normalized all curves to M(6.5 K) = 0 and M(1.8 K) = −1.
+
+As shown in Fig. 5(a), when increasing pressure, the superconducting
+transition remains single and sharp up to 0.29 GPa. A sudden decrease of
+the onset transition temperature is observed between 0.29 and 0.46 GPa.
+In the pressure region of 0.46-1.01 GPa, the superconducting transition
+exhibits a double-transition feature. At 1.17 GPa, the transition
+becomes single and sharp again. For decreasing pressure from 0.95 to 0
+GPa [see Fig. 5(b)], all of the M(T) curves exhibit double-transition
+features.
+
+We summarize the $T_{\rm c}$ values inferred from our magnetization
+measurements for BaBi₃ in Fig. 6(a) in a T-p phase diagram. To be
+consistent with $T_{\rm c}^{\rm offset}$ determined from resistance
+measurements, onset criteria of diamagnetism were used. In the case when
+a double transition was observed, the individual onset temperatures were
+considered [see the lower inset of Fig. 5(a)]. The directions of the
+triangle symbol of the data point indicate increasing (▸) and decreasing
+(◂) pressure. The number associated with each data point represents the
+run number in the magnetization measurement. Letters a and b are used to
+label the two transition temperatures in the case when a
+double-transition feature was observed. As shown in Fig. 6(a), three
+branches of $T_{\rm c}(p)$ can be seen. Due to the abrupt change of
+$T_{\rm c}(p)$ at p ∼ 0.3 GPa and p ∼ 0.9 GPa, we suggest three
+different superconducting phases existing under pressure, which we will
+label in the following by α, β, and γ. For each phase, over its range of
+stability, $T_{\rm c}$ values
+
+Figure 4: Temperature-pressure phase diagram inferred from resistance
+measurements. The blue solid triangles represent the phase transition
+$T_{\rm S}$ inferred from the data shown in Fig. 2. The two light-blue
+data points for $T_{\rm S}$ are the last two, broad, barely observable
+features in dR/dT and may not correspond to an actual transition (see
+the main text for details). The open blue triangles and pentagons
+represent the pressure-induced transition $T_{\rm S}^{\prime}$ and T_(p)
+inferred from the dashed and dotted lines in Fig. 3, respectively.
+Superconducting transition temperature $T_{\rm c}$ is not plotted in
+this phase diagram and will be discussed later.
+
+Figure 5: Evolution of the zero-field-cooled (ZFC) magnetization M(T)
+with (a) increasing pressure and (b) decreasing pressure in an applied
+field of 20 mT. The low-temperature ($T\ll T_{\rm c}$) and
+higher-temperature ($T_{\rm c}\ll T\ll T_{\rm c,Pb}$) M values have been
+set to −1 and 0, respectively, due to uncertainties involved in the
+determination of absolute values (see the main text). The
+low-temperature pressure is inferred from the pressure dependence of the
+superconducting transition of Pb (not shown). Black numbers before
+pressure values (Run no.) indicate the sequence of the applied pressure.
+The criterion for the determination of superconducting transition
+temperature $T_{\rm c}^{\rm offset}$ is indicated by arrows in the lower
+inset of panel (a). Blow-ups of M(T) curves for several pressures in the
+upper inset in panel (a) and insets in panel (b) better show the
+double-transition feature for selected pressures. Small upturns at the
+onset of diamagnetism are currently thought to be artifacts associated
+with the MPMS-3 fitting of the convolution of the pressure
+cell/sample/lead signals.
+
+are linearly suppressed by increasing pressure as shown in Fig. 6(a). On
+increasing pressure, at low temperature, BaBi₃ starts with phase α at
+ambient pressure. When pressure is increased from 0.29 to 0.46 GPa (Run
+3 to Run 4), it enters an intermediate-pressure region (0.46 ≤p≤ 1.01
+GPa, Run 4 to Run 6) where both features of phases β and γ are observed
+at low temperature. As pressure is further increased from 1.01 to 1.17
+GPa (Run 6 to Run 7), only phase γ is observed. When decreasing
+pressure, BaBi₃ starts with pure phase γ at 1.17 GPa. Decreasing
+pressure drives BaBi₃ again into a region (0.95 ≥p≥ 0.24 GPa, Run 8 to
+Run 12) where phases β and γ are observed. However, as indicated in the
+figure, further decreasing pressure does not restore the pure α phase at
+which BaBi₃ starts. Instead, a coexistence of phases α and β is observed
+from 0.13 to 0 GPa (Run 13 to Run 15). It should be noted that the phase
+diagram in Fig. 6(a) is quite different from that shown in Ref. [11],
+where $T_{\rm c}$ is first increased upon increasing pressure up to 0.5
+GPa with the rate of 1.22 K/GPa and then almost saturates at 0.75 GPa.
+This could be due to a combination of the relatively small data density,
+large pressure steps, possible hysteresis effects, and not recognizing
+double-transition as a mixture of phases.
+
+To better demonstrate the phase transformation in the pressure regions
+where multiple phases are observed, we present in Fig. 6(b) the relative
+phase portions of superconducting α, β, and γ as a function of pressure
+at low temperature. The relative phase portions for different phases are
+obtained by calculating the corresponding drop values ΔM [indicated in
+the inset of Fig. 5(a)] in the M(T) data. The sizes of symbols in Figs.
+6(a) and 6(b) are roughly proportional to the relative phase portions.
+As shown in the figure, BaBi₃ starts with 100
+
+To analyze the interrelation between superconductivity and the various
+high-temperature anomalies observed, R(T, p) data were further analyzed.
+The corresponding surface-gradient magnitude
+$\sqrt{(\,\theta\,R/\,\beta\,T)^{2}+(\,\theta\,R/\,\beta\,p)^{2}}$ was
+calculated as a function of both temperature and pressure and is shown
+as a color plot in Fig. 7, together with
+$T_{\rm S},\ T_{\rm S}^{\prime},\ T_{p},$ and $T_{\rm c}$ data that were
+obtained from both resistance and magnetization measurements. In Fig.
+7(a), it is shown that T_(p) is revealed as a sharp anomaly in the color
+plot. $T_{\rm S}$ is revealed as a sharp anomaly in the color plot up to
+1.05 GPa. The transition at p∼ 0.9 GPa, $T_{\rm S}^{\prime}$, is
+revealed in the color plot as well, though more broadly. We suggest that
+$T_{\rm S}$ and $T_{\rm S}^{\prime}$ lines are likely to be one
+transition line inferred from different criteria, as the color plot
+shows that they connect smoothly with each other. Figure 7(b) presents
+the blow-up of the low-temperature region (T= 4-7 K).
+$T_{\rm c}^{\rm offset}$ from resistance measurement and
+$T_{\rm c}^{\rm offset}$ from magnetization measurement upon increasing
+pressure are plotted together for consistency. As shown in the figure,
+$T_{\rm c}^{\rm offset}$ is suppressed from 6 to 5.8 K in the
+low-pressure region (0 ≤p≤ 0.27 GPa), and then it undergoes a sudden
+drop from 5.8 to 5.3 K when entering the intermediate-pressure region
+(0.33 ≤p≤ 1.05 GPa). In the intermediate-pressure region,
+$T_{\rm c}^{\rm offset}$ is initially suppressed to 5 K by 0.71 GPa and
+then increases to 5.9 K at 0.93 GPa. At even higher pressures (1.16 ≤p≤
+2.13 GPa), $T_{\rm c}^{\rm offset}$ slowly decreases to 5.5 K. A subtle
+kinklike anomaly at 1.54 GPa is observed and will be discussed in detail
+later in the text. $T_{\rm c}^{\rm offset}$ from magnetization
+measurement for increasing pressure matches
+
+Figure 6: (a) Temperature-pressure (T-p) phase diagram for
+superconducting $T_{\rm c}$ inferred from magnetization measurements.
+The run-number associated with each data point is the same as used in
+Fig. 5. The directions of the triangle data point indicate increasing
+(▸) and decreasing (◂) pressure. For pressures with multiple
+transitions, letters a and b are used. Three different phases α (black),
+β (green), and γ (red) are suggested. Dashed lines are guides to the
+eye; (b) relative phase portion as a function of pressure, as determined
+from magnetization measurements. Sizes of symbols in (a) and (b) are
+roughly proportional to the phase portion values as indicated in (b).
+
+very well with the $T_{\rm c}^{\rm offset}$ from resistance measurement.
+The multistep transition pressure region for resistance measurement
+agrees with the double-transition pressure region for magnetization
+measurements. Importantly, the pressure region in which the
+double-transition is observed is also enclosed by the T_(p),
+$T_{\rm S}$, and T_(S)^(′) lines. Furthermore, the pressures where
+sudden changes in $T_{\rm c}(p)$ are observed (p ∼ 0.3 GPa and p ∼ 0.9
+GPa) coincide with the T_(p) and $T_{\rm S}^{\prime}$ anomalies in the
+color plot. These observations demonstrate the strong interrelation
+between the superconductivity in BaBi₃ with the high-temperature phase
+transitions.
+
+To further study the nature of the superconducting state in the α, β,
+and γ phases, we examined the response of superconductivity to an
+external field. Figure 8 shows the temperature dependence of the
+superconducting upper critical field $H_{\rm c2}$ at various pressures.
+The insets show representative resistance data sets in the three
+pressure regions that were used to extract the data present in the main
+panels. As shown in the figure, for low- and high-pressure regions
+(p ≤ 0.33 GPa and p ≥ 1.16 GPa), the superconducting transition stays
+one single transition under magnetic fields. In contrast, for the
+intermediate-pressure region, the multiple-step nature of the
+superconducting transition persists in magnetic fields. For all of the
+pressures, $H_{\rm c2}$ is linear in temperature except for low magnetic
+fields. The curvature at low fields has been observed in other
+superconductors and can be explained by the multiband nature of
+superconductivity [22, 44, 45, 46], which is also the case for BaBi₁[10,
+14]. The slope of the temperature-dependent $H_{\rm c2}$ was obtained by
+linear fitting the $\mu_{0}H_{\rm c2}(T)$ data above the curvature (data
+above 0.2 T for low- and
+
+Figure 8: Temperature dependence of the superconducting upper critical
+field $H_{\rm c2}(T)$ for (a) p ≤ 0.33 GPa, (b) 0.33 ≤ p ≤ 1.05 GPa, and
+(c) 1.05 ≤ p ≤ 2.13 GPa. $T_{\rm c}^{\rm offset}$ as shown in the insets
+is taken from resistance measurement. Insets show representative
+resistance data under magnetic fields.
+
+Figure 7: (a) Color plot of surface-gradient magnitude
+$\sqrt{(\partial R/\partial T)^{2}+(\partial R/\partial p)^{2}}$
+calculated from R(T, p) data. Anomalies in the color plot coincide with
+the phase transitions T_(S), T_(p) in Fig. 4. The broad transition
+around 1 GPa labeled as $T_{\rm S}^{\prime}$ in Fig. 3 is also revealed
+in this color plot. Different phases α, β, and γ are proposed for BaBi₃
+at different positions in the T-p phase diagram. (b) Blow-up of the
+color plot low-temperature region together with superconducting
+transition data from resistivity (Fig. 4) and magnetization upon
+increasing pressure (Fig. 6). Dashed lines are guides for the eye.
+
+intermediate-pressure regions, data above 0.1 T for high-pressure
+regions). Similar analysis was performed in the literature for other
+superconductors; see Refs. [21,22,45,46]. Generally speaking, the slope
+of the upper critical field normalized by $T_{\rm c}$ is related to the
+Fermi velocity and the superconducting gap of the system [44]. In the
+clean limit, for a single band,
+
+$$-(1/T_{\rm c})(d\mu_{o}H_{22}/dT)|_{T_{\rm c}}\propto 1/v_{F}^{2},$$
+(1)
+
+where v_(F) is the Fermi velocity. Even though the superconductivity in
+BaBi₃ is multiband [10,14], Eq. (1) can give qualitative insight into
+changes induced by pressure.
+
+Figure 9 presents the pressure dependence of the normalized slope of the
+upper critical field,
+$-(1/T_{\rm c})$$(d\mu_{o}H_{\rm c2}/dT)|_{T_{\rm c}}$, together with
+the $T_{\rm c}^{\rm offset}$ data. Smaller symbols indicate the
+intermediate-pressure region where the superconducting transition occurs
+in multiple steps. As shown in the figure, the normalized slope
+$-(1/T_{\rm c})(d\mu_{o}H_{\rm c2}/dT)|_{T_{\rm c}}$ exhibits anomalies
+between 0.27 and 0.33 GPa and between 0.75 and 1.05 GPa, which coincides
+with the phase transition ranges for α to β and β to γ. Another anomaly
+is observed at 1.54 GPa, which coincides with the pressure where a
+small, kinklike anomaly in $T_{\rm c}^{\rm offset}$ occurs. Due to the
+absence of any feature in R(T) at $T>T_{\rm c}$ in this pressure region,
+we suggest that this small feature might be related to a change of band
+structure or to a Lifshitz transition, or some other change in v_(F)
+within the γ phase [22,46,47,48,49].
+
+Our studies show that BaBi₃ exhibits three different phases in a
+relatively small temperature and pressure range. The sudden changes in
+the superconducting character and the anomalies at high temperature
+suggest that structural degrees of freedom are crucial for understanding
+the behavior of BaBi₃ under pressure. A similar sudden change in
+$T_{\rm c}(p)$ and associated high-temperature anomalies have been
+observed in PbTaSe₂, where a first-order structural phase transition is
+identified [43]. To gain insight into the pressure-stabilized structures
+in BaBi₃, we performed first-principles calculations under pressure.
+Figure 10 presents the relative formation enthalpy (with respect to
+experimentally observed ambient-pressure P4/mmm structure) at different
+pressures of the five lowest-energy structures found from our crystal
+structure search at zero temperature. The difference between Pm-3m and
+P4/mmm structures is the slight difference in lattice parameters a and c
+in P4/mmm structure. The 14/mcm structure could be viewed as distorted
+P4/mmm structure where the Bi atoms are moved out of the face-centered
+position, as can be seen in Fig. 10. The P3₂ and P3₂21 structures can
+also be viewed as distorted P4/mmm structure as well (not obvious in
+Fig. 10 but from different directions of view) but with distortions in
+both the Ba and Bi positions.
+
+We found several structures with very small relative formation
+enthalpies. We note that these small energy differences within 2 meV/at
+could be within the error of DFT calculations and the pressure range in
+the DFT calculations is not exactly the same pressure range as in the
+experiment, but the trend of formation enthalpy change with pressure may
+be observed to speculate possible pressure-stabilized structures in
+BaBi₃. As shown in the figure, the relative formation enthalpies of
+different structures respond differently to external pressure, e.g., for
+I4/mcm relative formation enthalpy decreases very fast at pressure
+between 0 and 4 GPa while that of P3₂21 decreases slightly. At pressure
+larger than 4 GPa, three new structures are very competitive in
+formation enthalpy with the differences within 1 meV/at and all of them
+more stable than P4/mmm structure. Our crystal structure search and DFT
+calculation show that there are several structures that are very
+competitive in formation enthalpy, and these structures are very likely
+more stable than ambient-pressure P4/mmm structure under pressure.
+Experimental crystallographic data taken under pressure are needed to
+identify precisely which structures are the β and/or γ phases.
+
+Figure 10: Pressure dependence of relative formation enthalpies and
+crystal structures of low-energy structures (see text for details).
+Green and purple balls denote Ba and Bi atoms.
+
+Figure 9: Pressure dependence of the normalized upper critical field
+slope, $-(1/T_{\rm c})(d\mu_{o}H_{\rm c2}/dT)|_{T_{\rm c}}$, plotted
+together with $T_{\rm c}^{\rm offset}$ from resistance measurement.
+Smaller symbols indicate the pressure range where the superconducting
+transition shows multiple steps. Different phases α, β, and γ are
+proposed for different pressure regions as indicated in Fig. 7. Dashed
+lines are guides to the eyes.
+
+The transformations from P4/mmm structure to Pm-3m or 14/mcm structures
+are minimal because only small changes in the structure need to be made,
+as mentioned above. The response of 14/mcm structure to pressure is the
+most robust among the considered structures, as mentioned above. On the
+other hand, the temperature and kinetics of transformation, which are
+not included in DFT calculations, also play an important role in
+structural transformation. We may speculate that the Pm-3m and 14/mcm
+structures are the β and γ phases observed in experiment, respectively.
+The possibilities of P3₂ and/or P3₂21 structures observed in experiment
+are not exclusively eliminated, however.
+
+The calculation results are reasonable if we look into the
+ambient-pressure structural information for the ABi₃ family. As
+mentioned in the Introduction, at ambient pressure and room temperature,
+BaBi₃ crystallizes in tetragonal structure with only a small difference
+in the a and c lattice parameters [a = 5.06(1) A and c = 5.13(2) A],
+which we label as α phase. In contrast, both of its neighboring
+compounds SrBi₃ and LaBi₃ crystallize in cubic structure with lattice
+parameters a = 5.05(3) and 4.99(2) A, respectively, i.e., with smaller
+lattice parameters and unit-cell volumes. As applying hydrostatic
+pressure to BaBi₃ will decrease its lattice parameters, we assume that
+pressure tends to drive BaBi₃ to the higher-symmetry cubic structure, as
+realized in the neighboring compounds [11, 13, 50, 51, 52, 53]. It is
+worth noting that the drop of $T_{\rm c}$ at T_(p) is consistent with
+the fact that SrBi₃ has lower $T_{\rm c}$ than BaBi₃.
+
+With regard to the influence of SOC on the electronic and structural
+parameters of BaBi₃, insight can be gained from a recent theoretical
+investigation of the phonon-dispersion spectra of BaBi₃ with and without
+SOC [14]. Whereas for SrBi₃ these calculations indicate that the cubic
+structure is stable even without considering SOC, the same calculations
+find that SOC is necessary to stabilize the ambient-pressure tetragonal
+structure in BaBi₃. This demonstrates that the interplay of electronic
+and structural degrees of freedom in BaBi₃ places this material close to
+a structural instability. This might be reflected in the high-pressure
+sensitivity of BaBi₃ revealed in the present work. Together with the
+multiple phase transitions observed in the present work in a small
+pressure range, we establish BaBi₃ as a good platform to study the
+interplay of structure and superconductivity in the presence of
+spin-orbit coupling.
+
+## IV IV. Conclusion
+
+We establish three different phases α, β, and γ in BaBi₃ under pressure
+up to 2.13 GPa, each of which are superconducting at low temperatures.
+In the low-pressure region, BaBi₃ is purely in α phase for the whole
+investigated temperature range. When pressure is first increased at high
+temperature, BaBi₃ transfers into γ phase through a likely first-order
+transition. In γ phase, by lowering the temperature, the compound goes
+through another first-order transition to β phase. Further increasing
+pressure suppresses the transition temperature of γ to β phase, and in
+the high-pressure region, BaBi₃ stays in γ phase for the whole
+investigated temperature range. Based on a crystal structure search and
+DFT calculations, we speculate the phase transitions between α, β, and γ
+to be related to structural degrees of freedom. With α phase being the
+ambient-pressure tetragonal structure (P4/mmm), β phase could be cubic
+(Pm-3m) and γ phase could have a distorted tetragonal structure
+(14/mcm). Measurement of the superconducting upper critical field
+exhibits an anomaly at p = 1.54 GPa, suggesting a pressure-induced
+band-structure change or Lifshitz transition within the γ phase. Our
+results establish BaBi₃ as a good platform to study the interplay of
+structure and superconductivity in the presence of spin-orbit coupling.
+
+###### Acknowledgements.
+
+We would like to thank A. Kreyssig for robust and enlightening
+discussions. This work is supported by the U.S. DOE, Basic Energy
+Sciences, Materials Science and Engineering Division under Contract No.
+DE-AC02-07CH11358. L.X. was supported, in part, by the W. M. Keck
+Foundation. R.A.R. was supported by the Gordon and Betty Moore
+Foundation EPiQS Initiative (Grant No. GBMF4411) and by FAPESP (Grant
+No. 2011/19924-2).
+
+## References
+
+* Hasan and Kane [2010]M. Z. Hasan and C. L. Kane, Rev. Mod. Phys.
+**82**, 3045 (2010). * Qi and Zhang [2011]X.-L. Qi and S.-C. Zhang, Rev.
+Mod. Phys. **83**, 1057 (2011). * Hor et al. [2010]Y. S. Hor, A. J.
+Williams, J. G. Checkelsky, P. Roushan, J. Seo, Q. Xu, H. W. Zandbergen,
+A. Yazdani, N. P. Ong, and R. J. Cava, Phys. Rev. Lett. **104**, 057001
+(2010). * Isaeva et al. [2013]A. Isaeva, B. Rasche, and M. Ruck, Phys.
+Status Solidi RRL **7**, 39 (2013). * Xia et al. [2009]Y. Xia, D. Qian,
+D. Hsieh, L. Wray, A. Pal, H. Lin, A. Bansil, D. Grauer, Y. S. Hor, R.
+J. Cava, and M. Z. Hasan, Nat. Phys. **5**, 398 (2009). * Chen et al.
+[2009]Y. L. Chen, J. G. Analytis, J.-H. Chu, Z. K. Liu, S.-K. Mo, X. L.
+Qi, H. J. Zhang, D. H. Lu, X. Dai, Z. Fang, S. C. Zhang, I. R. Fisher,
+Z. Hussain, and Z.-X. Shen, Science **325**, 178 (2009). * Matthias and
+Hulm [1952]B. T. Matthias and J. K. Hulm, Phys. Rev. **87**, 799
+(1952). * Canfield and Fisk [1992]P. C. Canfield and Z. Fisk, Philos.
+Mag. B **65**, 1117 (1992). * Kakihana et al. [2015]M. Kakihana, H.
+Akamine, T. Yara, A. Teruya, A. Nakamura, T. Takeuchi, M. Hedo, T.
+Nakama, Y. Onuki, and H. Harima, J. Phys. Soc. Jpn. **84**, 124702
+(2015). * Haldolaarachchige et al. [2014]N. Haldolaarachchige, S. K.
+Kushwaha, Q. Gibson, and R. J. Cava, Supercond. Sci. Technol. **27**,
+105001 (2014). * Jha et al. [2017]R. Jha, M. A. Avila, and R. A.
+Ribeiro, Supercond. Sci. Technol. **30**, 025015 (2017). * Iyo et al.
+[2015]A. Iyo, Y. Yanagi, T. Kinjo, T. Nishio, I. Hase, T. Yanagisawa, S.
+Ishida, H. Kito, N. Takeshita, K. Oka, Y. Yoshida, and H. Eisaki, Sci.
+Rep. **5**, 10089 (2015). * Kinjo et al. [2016]T. Kinjo, S. Kajino, T.
+Nishio, K. Kawashima, Y. Yanagi, I. Hase, T. Yanagisawa, S. Ishida, H.
+Kito, N. Takeshita, K. Oka, H. Eisaki, Y. Yoshida, and A. Iyo,
+Supercond. Sci. Technol. **29**, 03LT02 (2016).
+
+* [14] D. F. Shao, X. Luo, W. J. Lu, L. Hu, X. D. Zhu, W. H. Song, X. B.
+Zhu, and Y. P. Sun, Sci. Rep. **6**, 21484 (2016). * [15] J. S.
+Schilling, Adv. Phys. **28**, 657 (1979). * [16] J. S. Schilling, in
+_Frontiers of High Pressure Research II: Application of High Pressure to
+Low-Dimensional Novel Electronic Materials_ (Springer Netherlands,
+Dordrecht, 2001), pp. 345-360. * [17] B. Lorenz and C. W. Chu, in
+_Frontiers in Superconducting Materials_ (Springer, Berling, 2005), pp.
+459-497. * [18] D. D. Jackson, V. Malba, S. T. Weir, P. A. Baker, and Y.
+K. Vohra, Phys. Rev. B **71**, 184416 (2005). * [19] E. Colombier, S. L.
+Bud’ko, N. Ni, and P. C. Canfield, Phys. Rev. B **79**, 224518 (2009). *
+[20] C. W. Chu and B. Lorenz, Physica C **469**, 385 (2009). * [21] V.
+Taufour, N. Foroozani, M. A. Tanatar, J. Lim, U. Kaluarachchi, S. K.
+Kim, Y. Liu, T. A. Lograsso, V. G. Kogan, R. Prozorov, S. L. Bud’ko, J.
+S. Schilling, and P. C. Canfield, Phys. Rev. B **89**, 220509 (2014). *
+[22] L. Xiang, U. S. Kaluarachchi, A. E. Bohmer, V. Taufour, M. A.
+Tanatar, R. Prozorov, S. L. Bud’ko, and P. C. Canfield, Phys. Rev. B
+**96**, 024511 (2017). * [23] Y. Saiga, K. Matsubayashi, T. Fujiwara, M.
+Kosaka, S. Katano, M. Hedo, T. Matsumoto, and Y. Uwatoko, J. Phys. Soc.
+Jpn. **77**, 053710 (2008). * [24] K. Matsubayashi, Y. Saiga, T.
+Matsumoto, and Y. Uwatoko, J. Phys.: Conf. Ser. **200**, 012112
+(2010). * [25] S. K. Kim, M. S. Torikachvili, S. L. Bud’ko, and P. C.
+Canfield, Phys. Rev. B **88**, 045116 (2013). * [26] U. S. Kaluarachchi,
+S. L. Bud’ko, P. C. Canfield, and V. Taufour, Nat. Commun. **8**, 546
+(2017). * [27] P. C. Canfield, T. Kong, U. S. Kaluarachchi, and N. H.
+Jo, Philos. Mag. **96**, 84 (2016). * [28] S. L. Bud’ko, A. N.
+Voronovskii, A. G. Gapotchenko, and E. S. Itskevich, Zh. Eksp. Teor.
+Fiz. **86**, 778 (1984) [Sov. Phys. JETP **59**, 454 (1984)]. * [29] S.
+K. Kim, M. S. Torikachvili, E. Colombier, A. Thaler, S. L. Bud’ko, and
+P. C. Canfield, Phys. Rev. B **84**, 134525 (2011). * [30] M. S.
+Torikachvili, S. K. Kim, E. Colombier, S. L. Bud’ko, and P. C. Canfield,
+Rev. Sci. Instrum. **86**, 123904 (2015). * [31] B. Biereckoven and J.
+Wittig, J. Phys. E **21**, 841 (1988). * [32] J. D. Thompson, Rev. Sci.
+Instrum. **55**, 231 (1984). * [33] T. N. Lamichhane, L. Xiang, Q. Lin,
+T. Pandey, D. S. Parker, T.-H. Kim, L. Zhou, M. J. Kramer, S. L. Bud’ko,
+and P. C. Canfield, Phys. Rev. Mater. **2**, 084408 (2018). *
+[34]https://www.duglas.com/site/docs/productBrochures/ High.
+Pressure_Cell_for_Magnetometry_Brochure.pdf. * [35] K. Yokogawa, K.
+Murata, H. Yoshino, and S. Aoyama, Jpn. J. Appl. Phys. **46**, 3636
+(2007). * [36] A. Eiling and J. S. Schilling, J. Phys. F **11**, 623
+(1981). * [37] W. Kohn and L. J. Sham, Phys. Rev. **140**, A1133
+(1965). * [38] G. Kresse and J. Furthmuller, Phys. Rev. B **54**, 11169
+(1996). * [39] P. E. Blochl, Phys. Rev. B **50**, 17953 (1994). * [40]
+G. Kresse and D. Joubert, Phys. Rev. B **59**, 1758 (1999). * [41] J. P.
+Perdew, K. Burke, and M. Ernzerhof, Phys. Rev. Lett. **77**, 3865
+(1996). * [42] H. J. Monkhorst and J. D. Pack, Phys. Rev. B **13**, 5188
+(1976). * [43] U. S. Kaluarachchi, Y. Deng, M. F. Besser, K. Sun, L.
+Zhou, M. C. Nguyen, Z. Yuan, C. Zhang, J. S. Schilling, M. J. Kramer, S.
+Jia, C.-Z. Wang, K.-M. Ho, P. C. Canfield, and S. L. Bud’ko, Phys. Rev.
+B **95**, 224508 (2017). * [44] V. G. Kogan and R. Prozorov, Rep. Prog.
+Phys. **75**, 114502 (2012). * [45] U. S. Kaluarachchi, V. Taufour, A.
+E. Bohmer, M. A. Tanatar, S. L. Bud’ko, V. G. Kogan, R. Prozorov, and P.
+C. Canfield, Phys. Rev. B **93**, 064503 (2016). * [46] L. Xiang, W. R.
+Meier, M. Xu, U. S. Kaluarachchi, S. L. Bud’ko, and P. C. Canfield,
+Phys. Rev. B **97**, 174517 (2018). * [47] I. Lifshitz, J. Exp. Theor.
+Phys. **38**, 1569 (1960) [Sov. Phys. JETP **11**, 1130 (1960)]. * [48]
+D. Kang, Y. Zhou, W. Yi, C. Yang, J. Guo, Y. Shi, S. Zhang, Z. Wang, C.
+Zhang, S. Jiang, A. Li, K. Yang, Q. Wu, G. Zhang, L. Sun, and Z. Zhao,
+Nat. Commun. **6**, 7804 (2015). * [49] N. H. Jo, U. S. Kaluarachchi, Y.
+Wu, D. Mou, L. Huang, V. Taufour, A. Kaminski, S. L. Bud’ko, and P. C.
+Canfield, Phys. Rev. B **94**, 184413 (2016). * [50] J. M. Leger, P. E.
+Tomaszewski, A. Atouf, and A. S. Pereira, Phys. Rev. B **47**, 14075
+(1993). * [51] U. D. Venkateswaran, V. M. Naik, and R. Naik, Phys. Rev.
+B **58**, 14256 (1998). * [52] P. Bouvier and J. Kreisel, J. Phys.:
+Condens. Matter **14**, 3981 (2002). * [53] M. Einaga, A. Ohmura, A.
+Nakayama, F. Ishikawa, Y. Yamada, and S. Nakano, Phys. Rev. B **83**,
+092102 (2011).

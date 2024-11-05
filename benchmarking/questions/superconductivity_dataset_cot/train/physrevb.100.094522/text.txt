@@ -1,0 +1,153 @@
+Superconductivity with strong electron-phonon coupling in noncentrosymmetric W\({}_{3}\)Al\({}_{2}\)C
+
+T. P. Ying, Y. P. Qi, H. Hosono
+
+qipp@shanghaitech.edu.cn hosono@mces.titech.ac.jp Materials Research Center for Element Strategy, Tokyo Institute of Technology, Yokohama 226-8503, Japan
+
+School of Physical Science and Technology, ShanghaiTech University, Shanghai 201210, China
+
+###### Abstract
+
+We report the discovery of superconductivity in W\({}_{3}\)Al\({}_{2}\)C (\(T_{c}=7.6\) K) synthesized by high-pressure method. W\({}_{3}\)Al\({}_{2}\)C is isostructural to Mo\({}_{3}\)Al\({}_{2}\)C (space group \(P_{4}\),32) but with stronger spin-orbit coupling (SOC). Different from the Mo\({}_{3}\)Al\({}_{2}\)C with metallic nature, the resistivity of the normal state of W\({}_{3}\)Al\({}_{2}\)C shows a nonmetallic behavior. A specific-heat jump of \(\Delta C_{os}/\gamma T_{c}=2.7\) and gap energy of \(2\Delta(0)/\gamma T_{c}=5.43\) are observed, which are much larger than that of Mo\({}_{3}\)Al\({}_{2}\)C (2.1 and 4.03) and the expectation of Bardeen-Cooper-Schrieffer theory (1.43 and 3.52). However, the Sommerfeld coefficient of W\({}_{3}\)Al\({}_{2}\)C is less than half of that of its Mo counterpart, and the specific heat above 2 K shows a power-law divergence following \(C_{cs}/\gamma T_{c}\sim(T/T_{c})^{3}\) rather than an exponential relation. Theoretical calculations show that the Fermi surface of W\({}_{3}\)Al\({}_{2}\)C is dominated by W-5\(d\) electrons and the inclusion of SOC significantly changes its band structure, density of states, and Fermi surface topology. The realization of superconductivity by replacing 4\(d\) Mo toward 5\(d\) W provides a candidate for the search of potential triplet superconductors with enhanced SOC.
+
+DOI: 10.1103/PhysRevB.100.094522
+
+## I Introduction
+
+The majority of superconductors discovered so far have inversion centers. As a result, Cooper pairs are either classified as spin singlet of even parity or spin triplet of odd parity due to Pauli exclusion principle and parity conservation. While spin-singlet pairing is prevalent, the superconductivity with spin triplet is rare and considered as a characteristic feature of correlated electron system [1]. When the inversion symmetry is broken, the crystal structure will automatically generate an electrical field gradient, and spin is thus no longer a good quantum number. A Rashba-type antisymmetric spin-orbit coupling will remove the spin degeneracy of electrons and lead to an admixture of spin-singlet and spin-triplet state [2]. The mixing degree of the spin triplet, on the other hand, is dedicated to the strength of spin-orbit coupling (SOC) [3, 4, 5, 6, 7, 8, 9, 10, 11, 12].
+
+A prominent example is the Li\({}_{2}\)(Pd\({}_{1-x}\)Pt\({}_{x}\))\({}_{3}\)B system with a space group of \(P4_{3}\)32 [13, 14, 15]. Being a conventional Bardeen-Cooper-Schrieffer (BCS) superconductor on the Li\({}_{2}\)Pd\({}_{3}\)B side, the system gradually transforms into a spin triplet on the Li\({}_{2}\)Pt\({}_{3}\)B side, together with dramatic changes in the band and gap structures [16, 17, 18, 19]. The enhancement of SOC by the substitution of 4\(d\)-Pd to the 5\(d\)-Pt plays an important role. Recently, noncentrosymmetric Mo\({}_{3}\)Al\({}_{2}\)C (\(P4_{3}\)32) raised a lot of attention [20]. Mo\({}_{3}\)Al\({}_{2}\)C shares a quite similar geometric configuration with Li\({}_{2}\)(Pd\({}_{1-x}\)Pt\({}_{x}\))\({}_{3}\)B by replacing the left-hand 4\({}_{3}\) screw axis to a right-hand 4\({}_{1}\) axis. In the superconducting state, a deviation from the exponential temperature dependence can be observed from both heat capacity and the spin-lattice relaxation rate of \({}^{27}\)Al from the nuclear magnetic resonance (NMR) [20]. In the normal state, a charge-density-wave-like (CDW) partial gap opening [21, 22] and a pseudogap feature [23] were observed. On the contrary, low-temperature heat capacity [24], London penetration depth [25], and \(\mu\)SR measurements [26] did not find evidence for spin triplet due to its trace fraction. It is natural to expect an enhancement of SOC if the 4\(d\)-Mo could be replaced by 5\(d\)-W, which may further alter the pairing mechanism from singlet- to triplet-dominant pairing. However, conventional synthesis routes such as arc melting and radio frequency (RF) fail to give the desired phase.
+
+In this paper, we report the discovery of a noncentrosymmetric superconductor W\({}_{3}\)Al\({}_{2}\)C by high-pressure synthesis method. W\({}_{3}\)Al\({}_{2}\)C shows a \(T_{c}\) of 7.6 K and is isostructural to Mo\({}_{3}\)Al\({}_{2}\)C. A systematic study of W\({}_{3}\)Al\({}_{2}\)C through electrical resistivity, magnetization, and heat capacity reveals distinctly different physical properties from the Mo\({}_{3}\)Al\({}_{2}\)C, such as nonmetallic normal state, small Sommerfeld coefficient (\(\gamma\)), strong electron-phonon coupling strength, and large superconducting gap energy. First-principles calculation shows the Fermi surface is dominated by the W-5\(d\) orbitals and the inclusion of SOC has a profound influence on its band structure and Fermi surface topology.
+
+## II Methods
+
+The mixture of high-purity W, Al, and C powder (Kojundo Chemical Laboratory Co. Ltd.) were first ball-milled in the glove box for two days to ensure the homogeneity. The optimal mole ratio is determined to be W:Al:C = 3:1.8:0.8. After ball-milling, the mixture was pressed into a pellets and then placed into an \(h\)-BN capsule. The samples were heated at 2173 K and 5 GPa for 24 h by using a belt-type high-pressure apparatus, which is followed by slow cooling to room temperature within one day. The powder x-ray diffraction (XRD) patterns were taken using a Bruker  D8 Advance diffractometer with Cu-_K_a_ radiation at room temperature. The open sources software package fullprof was used for Rietveld refinement [27] and the crystal structure was drew by vesta[28]. Transport, magnetic, and thermodynamic properties were measured using the Physical Property Measurement System (PPMS, Quantum Design) and SQUID vibrating sample magnetometer (SVSM, Quantum Design). W and Al were determined by inductively coupled plasma atomic emission spectroscopy (ICP-AES) while carbon content was determined by high-frequency infrared carbon and sulfur analyzer. Density functional theory (DFT) calculations employ the projector augmented wave (PAW) method encoded in the Vienna _ab initio_ simulation package (vasp)[29, 30, 31]. The projector augmented-wave method is used to describe the wave functions near the core, and the generalized gradient approximation (GGA) within the Perdew-Burke-Ernzerhof (PBE) parametrization is employed as the electron exchange-correlation functional [32]. We relax the lattice constants, and internal atomic positions with the plane-wave cutoff energy of 500 eV and forces are minimized to less than 0.01 eV/A. The number of \(K\) points in the Monkhorst-Pack scheme [33] was 7 x 7 x 7 for structure relaxation and 10 x 10 x 10 for self-consistent calculations.
+
+## III Results and discussion
+
+Figure 1 shows the Rietveld refinement of powder x-ray diffraction and the refinement results are included in Table 1. The nominal composition of W3Al1,8C0,8 gives the minimum content of impurities. It should be noted that powder x-ray diffraction cannot distinguish chirality. High-quality single-crystal diffraction is thus needed to answer this question. Considering the vicinity of W and Mo, we adopt _b_-Mn structure with a space group of \(P\)4132 (No. 213) in the refinement. As shown in the inset, each carbon is surrounded by six tungsten atoms to form a W6C octahedron. These octahedra show a slight distortion with different bond angles and connect with each other through point sharing. Al atoms reside in the interstitial sites. The lattice parameter of
+
+\begin{table}
+\begin{tabular}{l c c} Space group & & \(P\)4132 \\ \(a\) (Å) & & 6.8757(1) \\ \(Z\) & & 4 \\ Bond length (Å) & C-W & 2.148 \\ Bond angle (\({}^{\circ}\)) & W1\({}_{1}\)-C-W2 & 82.98 \\ W2\({}_{2}\)-C-W3 & & 85.12 \\ Atom & \(x\) & \(y\) & \(z\) \\ W & 0.125 & 0.206 & 0.456 \\ Al & 0.061 & 0.061 & 0.061 \\ C & 0.375 & 0.375 & 0.375 \\ \end{tabular}
+\end{table}
+Table 1: Rietveld refinement result and atomic location of W3Al2C.
+
+Figure 2: (a) Temperature dependence of resistivity of W3Al2C. The normal state of W3Al2C shows a slight negative slope with a residual resistivity at around 215 \(\mu\Omega\) cm. The resistivity starts to drop at 7.6 K and reaches zero at 7.5 K. Inset is the enlargement of the resistivity above the _T_c. (b) Zero field cooling (ZFC) and field cooling (FC) magnetization of W3Al2C from 1.8–14 K.
+
+Figure 1: Rietveld refinement of the powder x-ray diffraction pattern taken at room temperature with Cu_K_α_ radiation. Around 2 wt.\(\%\) impurity of WC is included in the refinement. The space group of W3Al2C is \(P\)4132. W, Al, and C are located at 12\(d\), 8\(c\), and 4\(a\) site, respectively. The reflections of W3Al2C and a small amount of WC impurity are indicated by vertical bars. Refinement results are included in Table 1.
+
+  W\({}_{3}\)Al\({}_{2}\)C is 6.8757 A, which is merely 0.14% larger than that of Mo\({}_{3}\)Al\({}_{2}\)C (6.866 A) due to the orbital contraction effect of 5\(d\) elements. Theoretical calculation shows the Mo\({}_{3}\)Al\({}_{2}\)C structure can be dynamically stabilized by the emergence of carbon vacancies, while no deficiency of Al is reported so far [34]. The composition determined by ICP-AES and infrared absorption is W\({}_{3}\)Al\({}_{1.78}\)C\({}_{0.8}\), indicating the existence of vacancies at both Al and C sites and agreeing well with the nominal composition. No trace of superstructure peaks can be observed from the x-ray diffraction pattern, which means both C and Al vacancies tend to be randomly distributed in the lattice. In this paper, we use W\({}_{3}\)Al\({}_{2}\)C for the sake of simplicity.
+
+The temperature dependence of resistivity is shown in Fig. 2(a). The residual resistivity of W\({}_{3}\)Al\({}_{2}\)C was determined to be around 215 \(\mu\Omega\) cm by a linear extrapolation, which is comparable to the \(\sim\)180 \(\mu\Omega\) cm in Mo\({}_{3}\)Al\({}_{2}\)C. However, the normal state shows a negative slope (\(d\rho/dT=-0.2\)) from 300 to 7.6 K as shown in the inset of Fig. 2(a). This is inconsistent with the metallic behavior in Mo\({}_{3}\)Al\({}_{2}\)C over the whole temperature range. The temperature-independent resistivity is also observed in Ir(Se/Te)\({}_{2}\)[35], chiral noncentrosymmetric TaRh\({}_{2}\)B\({}_{2}\)[36], and high-entropy REO\({}_{0.8}\)F\({}_{0.5}\)BiS\({}_{2}\)[37]. It is possible that the grain boundaries scatter the electrons and enhance the resistivity. But, considering the polycrystallinity of both W\({}_{3}\)Al\({}_{2}\)C and Mo\({}_{3}\)Al\({}_{2}\)C and the former should have a better contact due to the high-pressure synthesis condition, we suggest this nonmetallic behavior in W\({}_{3}\)Al\({}_{2}\)C should be intrinsic. Another possibility is a three-dimensional Anderson localization caused by the random onsite occupation of carbon and aluminum [38]. High-quality single crystals are needed to clarify this problem. Below 7.6 K, a sharp drop was observed, indicating the onset of superconductivity with a transition width of 0.1 K. The \(\chi(T)\) curves [Fig. 2(b)] show the onset of the superconducting transition at \(T_{c}=7.5\) K, in agreement with the values determined from electrical resistivity and heat capacity (see below). A full Meissner state is reached at 6.5 K.
+
+Figure 3(a) shows the suppression of \(T_{c}\) with the increase of the external magnetic field from 0 to 9 T. We used the \(T_{c}^{\rm mid}\) as the transition temperature and summarized them into Fig. 3(b). The upper magnetic field \(\mu_{0}H_{c2}(0)\) to be 13.1 T by using Werthamer-Helfand-Hohenberg (WHH) formula
+
+\[\mu_{0}H_{c2}=0.691\left(\frac{dH_{c2}}{dT}\right)_{T_{c}}T_{c}\] (1)
+
+and using the slopes of \(dH/dT\) at \(T_{c}\) which is \(-2.5\)\(T/K\). A complementary estimation of the \(H_{c2}\) from an empirical formula
+
+\[\mu_{0}H_{c2}=H_{c2}(0)\frac{(1-t^{2})}{1+t^{2}},\] (2)
+
+\(t=T/T_{c}\) which gave an upper critical field of 15.4 T. The Pauli-Clogston field is \(\mu_{0}H_{p}(0)=1.84\)\(T_{c}=14\) T. The coherence length (\(\xi\)) can be acquired from Ginzburg-Landau (GL) equation
+
+\[\mu_{0}H_{c2}(0)=\Phi_{0}/2\pi\xi_{0}^{2},\] (3)
+
+where \(\Phi_{0}\) is the magnetic flux unit. By using \(\mu_{0}H_{c2}(0)<\)10 T, the calculated \(\xi\) should be no larger than 5.7 nm. The magnetization vs external field over a range of temperature below
+
+Figure 3: (a) Temperature dependence of the resistivity at a various external field. (b) Transition temperatures extracted from (a) and the respective fitting by using formula (2). (c) Magnetic hysteresis of W\({}_{3}\)Al\({}_{2}\)C at various temperature. (d) Lower critical field \(\mu_{0}H_{c1}\) of W\({}_{3}\)Al\({}_{2}\)C as a function of temperature. The red line is a linear fit and blue broken the parabolic fit.
+
+  is presented in Fig. 3(c). The field deviates from a linear curve of full Meissner effect was deemed as the lower critical field at each temperature and was summarized in Fig. 3(d). A linear fit gives \(\mu_{0}H_{c1}(0)=100\) Oe. By using formula
+
+\[\mu_{0}H_{c1}(0)=\frac{\Phi_{0}}{4\pi\lambda^{2}}\text{ln}\left(\frac{\lambda}{ \xi}\right)\] (4)
+
+we get the penetration depth \(\lambda<320\) nm. The calculated GL parameter of \(\kappa=\lambda/\xi\sim 56\) confirms the type-II superconductivity in W\({}_{3}\)Al\({}_{2}\)C.
+
+The characterization of the superconductivity transition by heat-capacity measurement is shown in Fig. 4(a). The bulk superconductivity is evidenced from a distinct anomaly at 7.5 K. We applied a magnetic field of \(\mu_{0}H=9\) T to suppress the superconductivity to a lower temperature (4.5 K) and fitted the normal-state heat capacity according to
+
+\[C_{p}(T)/T=\gamma+\beta T^{2}\] (5)
+
+in the inset of Fig. 4(a). The extrapolation gave \(\gamma=7.3\) mJ/mol K\({}^{2}\) and \(\beta=0.62\) mJ/mol K\({}^{4}\). By using the formula
+
+\[\beta=N\frac{12\pi^{4}}{5\Theta_{D}^{3}}R\] (6)
+
+and \(N=6\) for W\({}_{3}\)Al\({}_{2}\)C, we got a Debye temperature of \(\Theta_{D}=266\) K. Figure 4(b) shows the electronic specific heat by subtracting the phonon contribution. Prominently, the specific-heat jump of \(\Delta C_{es}/\gamma T_{c}=2.7\) is much higher than that of Mo\({}_{3}\)Al\({}_{2}\)C (2.1) and roughly doubled the BCS anticipated value of 1.43, indicating a strong electron-phonon coupling. The superconducting gap energy \(2\Delta(0)\) can be acquired through
+
+\[\Delta U(0)=-\frac{\gamma T_{c}^{2}}{2}+\int_{0}^{T_{c}}C_{es}(T)dT,\] (7) \[\gamma=\frac{2}{3}\pi^{2}k_{B}N(0),\] (8) \[\Delta U(0)=\frac{1}{2}N(0)\Delta^{2}(0),\] (9)
+
+where \(\Delta U(0)\) is the condensation energy \(\langle E\rangle_{s}\)-\(\langle E\rangle_{n}\) and and \(N(0)\) is the density of state for one spin direction. The
+
+Figure 4: (a) Heat capacity of W\({}_{3}\)Al\({}_{2}\)C from 1.9 to 10 K. Inset is the \(C_{p}/T\sim T^{2}\) plot of the normal-state heat capacity from 4.5 to 10 K. The red line is a linear extrapolation to \(T=0\) K limit. (b) Electronic specific-heat contribution of W\({}_{3}\)Al\({}_{2}\)C plotted as \(C_{es}/\gamma T_{c}\) vs \(T/T_{c}\) obtained by subtracting a phonon contribution. Broken and solid curves are the fitting of a power law and exponential fitting.
+
+Figure 5: (a) Band structures along the high-symmetric direction of W\({}_{3}\)Al\({}_{2}\)C with and without SOC. (b) Total and atom-projected DOS in states per electron of W\({}_{3}\)Al\({}_{2}\)C in the energy range \(\pm 1\) eV near the Fermi level.
+
+  estimated 2\(\Delta(0)\) is 5.43\(k_{B}T_{c}\) which is much larger that of Mo\({}_{3}\)Al\({}_{2}\)C (4\(k_{B}T_{c}\)) and BCS (3.52\(k_{B}T_{c}\)), agreeing well with the result of the specific-heat jump. Furthermore, we found that the \(C_{ex}/\gamma T_{c}\sim T/T_{c}\) cannot be well fitted to a spin-singlet fully gapped BCS model. As shown in Fig. 4(b), the heat capacity diverges slower than the exponential fitting (black broken curve) but matches quite well to a power-law behavior (solid blue curve) with \(C_{ex}\sim T^{3.3}\). While the exponential behavior indicates thermal activation of electrons from the isotropic superconducting gap, the power law in \(C_{ex}\) generally indicates the existence of gapless excitation and nodes in the gap. As we know, parity-violating antisymmetric SOC allows admixture of spin-singlet and spin-triplet components. In contrast to triplet \(p\)-wave superconductivity like centrosymmetric UTe\({}_{2}\)[39, 40], the lack of inversion symmetry makes it possible for the triplet component to exist in a spatially fully symmetric paired state, namely, a triplet \(s\)-wave or \(d\)-wave superconductor. Note that the distinction between \(T^{3}\) and exponential responses above 2 K may be influenced by the energy-gap value and other parameters. It is not clear whether the power-law behavior of \(C_{ex}\) will persist below 2 K, further experiments such as muon spin relaxation and heat conductivity down to a lower temperature (\(T~{}<\) 0.2 \(T_{c}\)) are needed to clarify its gap structure.
+
+Band structures with and without SOC are shown in Fig. 5(a). Because of the lack of an inversion center, the antisymmetric SOC effectively splits the degeneracy of electronic bands, which may lead to a mixture of spin-singlet and -triplet components in the superconducting condensate. In Fig. 5(b), the Fermi surface is mainly dominated by the electrons of W while the contribution of Al and C is almost negligible. Thus, the small amount of deficiency of Al and C can be viewed as a light shift of the Fermi level in the framework of rigid band model and is not considered here. The Fermi level located at a local minimum of \(N(E_{F})=2.37\) states\(/\)eV\(/\)f\(.\)u. (\(\gamma=5.59\) mJ\(/\)mol\(K^{2}\)). This is only half of that of Mo\({}_{3}\)Al\({}_{2}\)C and in fair agreement with their Sommerfeld coefficients. All the physical parameters are summarized in Table 2, together with that of Mo\({}_{3}\)Al\({}_{2}\)C for comparison.
+
+The antisymmetric SOC splits the Fermi surface into three pairs. One pair of small hole pockets [Figs. 6(a) and 6(b)] are nested inside of a larger pair of hole pockets [Figs. 6(c) and 6(d)]. A third pair of electron Fermi surface is located at the Brillouin center and isolated from their neighboring hole pockets. A nesting vector of the Fermi surface along \(q=(1,~{}1,~{}1)\) was reported in Mo\({}_{3}\)Al\({}_{2}\)C [21]. The degree of this nesting should be much enhanced giving the stronger SOC in W\({}_{3}\)Al\({}_{2}\)C. We also calculated the Fermi surface of W\({}_{3}\)Al\({}_{2}\)C without SOC in Fig. 6(h). Different from Fig. 6(g),
+
+Figure 6: (a), (b), (c), (d), and (e), (f) are three pairs of bands that cross the Fermi level. The electrons of each pair are split by the antisymmetric SOC. Their respective band numbers are labeled. (g) The nesting of the bands from (a)–(f). (h) The Fermi surface topology of W\({}_{3}\)Al\({}_{2}\)C without SOC is plotted for comparison.
+
+  all the Fermi surfaces are confined within the first Brillouin zone, the strong SOC of W in a noncentrosymmetric crystal breaks the degeneracy of the electrons and lifts the No. 111 and No. 112 bands to touch the reciprocal boundary. Whether the Fermi surface topology could be changed by tuning the filling rate of Al/C is an interesting question and calls for further investigations.
+
+A spin-singlet to -triplet transition was previously achieved in Li\({}_{2}\)(Pd\({}_{1-x}\)Pt\({}_{x}\))\({}_{3}\)B system by substitution of Pt with Pd which leading to a stronger SOC. Whether a stronger SOC always guarantees the spin-triplet superconductivity has, however, not been substantiated [41, 42, 43]. Thus, more sets of isostructural superconductors are needed and their transition elements should locate in the same group of the periodic table (like Pd and Pt) to exclude other possibilities such as carrier doping. Such examples are rare. CePt\({}_{3}\)Si shows an upper critical field \(H_{c2}\) exceeding the Pauli paramagnetic limiting field, which is an indication of the possibility of spin-triplet pairing [1]. However, its Pd counterpart shows no superconductivity. Furthermore, the existence of an antiferromagnetic order above \(T_{c}\) complicates the study of its spin configuration. Recently, BaNiSn\({}_{3}\)-type CeRhSi\({}_{3}\)[44] and CeIrSi\({}_{3}\)[45] are reported to superconduct under high-pressure measurement, where the extreme condition in turn prohibits the determination of their spin configurations. Considering the large SOC strength for W\({}_{3}\)Al\({}_{2}\)C with \((Z_{\rm W}/Z_{\rm Mo})^{2}=3.1\) (\(Z\) is the atomic number), the discovery of W\({}_{3}\)Al\({}_{2}\)C may serve as a touchstone for this question.
+
+## IV IV. Conclusions
+
+In summary, we report the discovery of a noncentrosymmetric superconductor W\({}_{3}\)Al\({}_{2}\)C with \(T_{c}=7.6\) K. Compare to its isostructural Mo\({}_{3}\)Al\({}_{2}\)C, replacement of 4\(d\)-Mo to 5\(d\)-W brings a significant difference toward resistivity, Sommerfeld coefficient, band structure, and Fermi surface topology. The strong electron-phonon coupling, large superconducting gap energy, and power-law heat capacity above 2 K cannot be explained in the framework of weak-coupling \(s\)-wave BCS theory. Further studies of codoping (W\({}_{1-x}\)Mo\({}_{x}\))\({}_{3}\)Al\({}_{2}\)C should be interesting due to the similarity to its chiral counterpart Li\({}_{2}\)(Pd\({}_{1-x}\)Pd\({}_{x}\))\({}_{3}\)B. The above results provide a platform to study the antisymmetric SOC and unconventional superconductivity.
+
+###### Acknowledgements.
+
+ We thank Dr. H. C. Lei, Dr. S. Haindl, and Dr. D. C. Peets for valuable discussions. This work is supported by MEXT Element Strategy Initiative to form Core Research Center and Collaborative Research Project of Materials and Structures Laboratory, Tokyo Institute of Technology. Y.Q. is supported by the Natural Science Foundation of Shanghai (Grant No. 19ZR1477300).
+
+## References
+
+* [1] E. Bauer, G. Hilscher, H. Michor, C. Paul, E. W. Scheidt, A. Gribanov, Y. Seropegin, H. Noel, M. Sigrist, and P. Rogl, Phys. Rev. Lett. **92**, 027003 (2004).
+* [2] L. P. Gor'kov and E. I. Rashba, Phys. Rev. Lett. **87**, 037004 (2001).
+* [3] T. Klimczuk, F. Ronning, V. Sidorov, R. J. Cava, and J. D. Thompson, Phys. Rev. Lett. **99**, 257004 (2007).
+* [4] T. Shibayama, M. Nohara, H. A. Katori, Y. Okamoto, Z. Hiroi, and H. Takagi, J. Phys. Soc. Jpn. **76**, 073708 (2007).
+* [5] A. D. Hillier, J. Quintanilla, and R. Cywinski, Phys. Rev. Lett. **102**, 117007 (2009).
+* [6] L. Fang, H. Yang, X. Zhu, G. Mu, Z.-S. Wang, L. Shan, C. Ren, and H.-H. Wen, Phys. Rev. B **79**, 144509 (2009).
+* [7] P. K. Biswas, H. Luetkens, T. Neupert, T. Sturzer, C. Baines, G. Pascua, A. P. Schnyder, M. H. Fischer, J. Goryo, M. R. Lees, H. Maeter, F. Bruckner, H.-H. Klauss, M. Nicklas, P. J. Baker, A. D. Hillier, M. Sigrist, A. Amato, and D. Johrendt, Phys. Rev. B **87**, 180503(R) (2013).
+* [8] Y. Qi, J. Guo, H. Lei, Z. Xiao, T. Kamiya, and H. Hosono, Phys. Rev. B **89**, 024517 (2014).
+* [9] R. P. Singh, A. D. Hillier, B. Mazidian, J. Quintanilla, J. F. Annett, D. M. Paul, G. Balakrishnan, and M. R. Lees, Phys. Rev. Lett. **112**, 107002 (2014).
+* [10] J. A. T. Barker, D. Singh, A. Thamizhavel, A. D. Hillier, M. R. Lees, G. Balakrishnan, D. M. Paul, and R. P. Singh, Phys. Rev. Lett. **115**, 267001 (2015).
+* [11] H. Yoshida, H. Okabe, Y. Matsushita, M. Isobe, and E. Takayama-Muromachi, Phys. Rev. B **95**, 184514 (2017).
+* [12] H. Kim, K. Wang, Y. Nakajima, R. Hu, S. Ziemak, P. Syers, L. Wang, H. Hodovanets, J. D. Denlinger, P. M. R. Brydon, D. F. Agterberg, M. A. Tanatar, R. Prozorov, and J. Paglione, Sci. Adv. **4**, eaao4513 (2018).
+* [13] K. Togano, P. Badica, Y. Nakamori, S. Orimo, H. Takeya, and K. Hirata, Phys. Rev. Lett. **93**, 247004 (2004).
+* [14] P. Badica, T. Kondo, and K. Togano, J. Phys. Soc. Jpn. **74**, 1014 (2005).
+* [15] H. Takeya, K. Hirata, K. Yamaura, K. Togano, M. El Massalmi, R. Rapp, F. A. Chaves, and B. Ouladdiaf, Phys. Rev. B **72**, 104506 (2005).
+* [16] H. Q. Yuan, D. F. Agterberg, N. Hayashi, P. Badica, D. Vandervelde, K. Togano, M. Sigrist, and M. B. Salamon, Phys. Rev. Lett. **97**, 017006 (2006).
+* [17] M. Nishiyama, Y. Inada, and G.-q. Zheng, Phys. Rev. Lett. **98**, 047002 (2007).
+* [18] P. Badica, S. Salem-Sugui, Jr., A. D. Alvarenga, and G. Jakob, Supercond. Sci. Technol. **23**, 105018 (2010).
+* [19] D. C. Peets, G. Eguchi, M. Kriener, S. Harada, S. M. Shamsuzzaman, Y. Inada, G.-Q. Zheng, and Y. Maeno, J. Phys.: Conf. Series **400**, 022096 (2012).
+* [20] E. Bauer, G. Rogl, X.-Q. Chen, R. T. Khan, H. Michor, G. Hilscher, E. Royanian, K. Kumagai, D. Z. Li, Y. Y. Li, R. Podloucky, and P. Rogl, Phys. Rev. B **82**, 064511 (2010).
+* [21] T. Koyama, Y. Ozaki, K. Ueda, T. Mito, T. Kohara, T. Waki, Y. Tabata, C. Michioka, K. Yoshimura, M.-T. Suzuki, and H. Nakamura, Phys. Rev. B **84**, 212501 (2011).
+
+  * [22] T. Koyama, Y. Maeda, T. Yamazaki, K.-i. Ueda, T. Mito, T. Kohara, T. Waki, Y. Tabata, H. Tsunemi, M. Ito _et al._, J. Phys. Soc. Jpn. **82**, 073709 (2013).
+* [23] C. N. Kuo, H. F. Liu, and C. S. Lue, Phys. Rev. B **85**, 052501 (2012).
+* [24] A. B. Karki, Y. M. Xiong, I. Vekhter, D. Browne, P. W. Adams, D. P. Young, K. R. Thomas, J. Y. Chan, H. Kim, and R. Prozorov, Phys. Rev. B **82**, 064512 (2010).
+* [25] I. Bonalde, H. Kim, R. Prozorov, C. Rojas, P. Rogl, and E. Bauer, Phys. Rev. B **84**, 134506 (2011).
+* [26] E. Bauer, C. Sekine, U. Sai, P. Rogl, P. K. Biswas, and A. Amato, Phys. Rev. B **90**, 054522 (2014).
+* [27] J. Rodriguez-Carvajal, Phys. B: Condens. Matter **192**, 55 (1993).
+* [28] K. Momma and F. Izumi, J. Appl. Crystallogr. **44**, 1272 (2011).
+* [29] G. Kresse and J. Hafner, Phys. Rev. B **47**, 558 (1993).
+* [30] G. Kresse and J. Furthmuller, Comput. Mater. Sci. **6**, 15 (1996).
+* [31] G. Kresse and J. Furthmuller, Phys. Rev. B **54**, 11169 (1996).
+* [32] J. P. Perdew, K. Burke, and M. Ernzerhof, Phys. Rev. Lett. **77**, 3865 (1996).
+* [33] H. J. Monkhorst and J. D. Pack, Phys. Rev. B **13**, 5188 (1976).
+* [34] D. Reith, C. Blaas-Schenner, and R. Podloucky, Phys. Rev. B **86**, 104105 (2012).
+* [35] Y. Qi, S. Matsuishi, J. Guo, H. Mizoguchi, and H. Hosono, Phys. Rev. Lett. **109**, 217002 (2012).
+* [36] E. M. Carnicom, W. Xie, T. Klimczuk, J. Lin, K. Gornicka, Z. Sobczak, N. P. Ong, and R. J. Cava, Sci. Adv. **4**, eaar7969 (2018).
+* [37] R. Sogabe, Y. Goto, and Y. Mizuguchi, Appl. Phys. Express **11**, 053102 (2018).
+* [38] T. Ying, Y. Gu, X. Chen, X. Wang, S. Jin, L. Zhao, W. Zhang, and X. Chen, Sci. Adv. **2**, e1501283 (2016).
+* [39] S. Ran, C. Eckberg, Q.-P. Ding, Y. Furukawa, T. Metz, S. R. Saha, I.-L. Liu, M. Zic, J. Paglione, and N. P. Butch, Science **368**, 684 (2019).
+* [40] D. Aoki, A. Nakamura, F. Honda, D. Li, Y. Homma, Y. Shimizu, Y. J. Sato, G. Knebel, J.-P. Brison, A. Pourret, D. Braithwaite, G. Lapertot, Q. Niu, M. Valiska, H. Harima, and J. Flouquet, J. Phys. Soc. Jpn. **88**, 043702 (2019).
+* [41] R. L. Ribeiro, I. Bonalde, Y. Haga, R. Settai, and Y. Onuki, J. Phys. Soc. Jpn. **78**, 115002 (2009).
+* [42] M. Smidman, M. Salamon, H. Yuan, and D. Agterberg, Rep. Prog. Phys. **80**, 036501 (2017).
+* [43] S. Palazzese, J. Landaeta, D. Subero, E. Bauer, and I. Bonalde, J. Phys.: Condens. Matter **30**, 255603 (2018).
+* [44] N. Kimura, K. Ito, K. Saitoh, Y. Umeda, H. Aoki, and T. Terashima, Phys. Rev. Lett. **95**, 247004 (2005).
+* [45] I. Sugitani, Y. Okuda, H. Shishido, T. Yamada, A. Thamizhavel, E. Yamamoto, T. D. Matsuda, Y. Haga, T. Takeuchi, R. Settai, and Y. Onuki, J. Phys. Soc. Jpn. **75**, 043703 (2006).
+
+ 

@@ -1,0 +1,313 @@
+Observation of a crossover from nodal to gapped superconductivity in Lu_{x}Zr_{1-x}B_{12}
+
+Franziska K. K. Kirschner
+
+franziska.kirschner@physics.ox.ac.uk Department of Physics, University of Oxford, Clarendon Laboratory, Parks Road, Oxford OX1 3PU, United Kingdom
+
+Nikolay E. Sluchanko
+
+Stephen J. Blundel
+
+stephen.blundel@physics.ox.ac.uk Maxow Institute of Physics and Technology, Institutskii per. 9, Dolgoprudnyi, Moscow Region 141700, Russia
+
+Vladimir B. Filipov
+
+Frants'euchi Institute for Problems of Materials Science NAS, 3, Kralyzyhanovsky str., Kiev 03680, Ukraine
+
+Francis L. Pratt
+
+SIS Facility, STFC Rutherford Appleton Laboratory, Chilton, Didcot, Oxfordshire OX11 0QX, United Kingdom
+
+Chris Baines
+
+Laboratory for Muon Spin Spectroscopy, Paul Scherrer Institute, CH-5232 Villigen, PSI, Switzerland
+
+Natalya Yu. Shitsevalova
+
+Frants'euchi Institute for Problems of Materials Science NAS, 3, Kralyzyhanovsky str., Kiev 03680, Ukraine
+
+Stephen J. Blundel
+
+###### Abstract
+
+We have determined the superconducting and magnetic properties of four samples of Lu_{x}Zr_{1-x}B_{12} (x=0.04, 0.07, 0.17, and 0.8) using muon spin rotation (\muSR) and magnetometry measurements. We observed a strong magnetic signal in both the \muSR and magnetometry data in one sample (x=0.07), likely caused by the formation of static moments of size \approx1 \mu_{\rm B} due to a clustering effect of the Lu^{3+} ions. In all other samples, we find only a small magnetic signal in the \muSR data thought to originate from boron nuclei in the B_{12} cages. The superconductivity is found to evolve with x, with a decrease in x resulting in an increase in critical temperature and a decrease of the penetration depth. Most remarkably, we find evidence for the formation of nodes in the superconducting gap for x\leqslant 0.17, providing a potential new example of an s-to-s+d-wave crossover in a superconductor.
+
+pacs: 2469-9950/2018/98(9)094505 +
+Footnote †: preprint: PHYSICAL REVIEW B **98**, 094505 (2018)
+  displayed no such phenomena. The 'magnetic' sample, x=0.07, was identical to that used in Ref. [22]. The remaining three samples, x=0.04, 0.17, and 0.8, were 'nonmagnetic' and identical to those studied in Ref. [23]. Details of the crystal growth are described in Refs. [22] and [23].
+
+The crystal growth methods were identical for both the magnetic and nonmagnetic samples, with the single crystal samples being grown from a sintered rod. However, the sintered rods were obtained via different methods. For the magnetic sample, the sintered rod was produced from a powder of the crushed single crystal LuB_{12} and ZrB_{12}. Both powders were mixed and sintered into rods at 1750 ^{\circ}C in a vacuum; this method is unable to guarantee a homogeneous mixture of Lu and Zr. Since there was a gradual re- melting of the rod during the synthesis of the single crystal, we cannot exclude an inhomogeneous distribution of Lu and Zr in the final crystal. In the case of the nonmagnetic samples, amorphous boron was mixed with Lu and Zr metal oxides (Lu_{2}O_{3} and ZrO_{2}). These mixtures were pressed into tablets and held in a vacuum furnace for two hours at 1650 ^{\circ}C to perform a solid-state synthesis, producing (Lu,Zr)B_{12}. To achieve a homogeneous distribution of the metal components after synthesis the tablets were crushed, pressed, and annealed at 1650 ^{\circ}C in vacuum. Then they were crushed and pressed once more to produce the rods, which were sintered in vacuum at 1750 ^{\circ}C for one hour. As this method for producing the sintered rods had one more homogenizing annealing, we anticipate the Lu/Zr distribution in these samples to be significantly more homogeneous than in the sample produced using the first synthesis method.
+
+\muSR experiments [25, 26] were performed using a dilution refrigerator and ^{3}He sorption cryostat mounted on the MuSR spectrometer at the ISIS pulsed muon facility (Rutherford Appleton Laboratory, UK) [27]. Further experiments were carried out using the low temperature facility (LTF) and general purpose spectrometer (GPS) at the Swiss Muon Source. Transverse-field (TF) measurements were made to probe the superconducting ground state and its evolution with x. Zero-field (ZF) and longitudinal-field (LF) measurements were carried out in order to test for magnetic phases in the sample. All of the \muSR data were analyzed using WiMDA [28]. Magnetometry measurements were carried out on a Quantum Design SQUID magnetometer.
+
+_Superconductivity_. TF-\muSR measurements were performed on all of the samples to determine their superconducting properties. x=0.04, 0.07, and 0.17 were measured above and below T_{\rm c} in transverse applied fields B_{\rm TF} of 30 mT and x=0.8 was measured in B_{\rm TF}=2.5 mT (fields were chosen in order to lie below B_{\rm c2} for each compound; see the Supplemental Material [29] for B_{\rm c2} values). Measurements were taken in field-cooled mode, where B_{\rm TF} is applied above T_{\rm c} before the sample is cooled down. A representative spectrum for x=0.04 is shown in Fig. 2(a). Transverse field sweeps were also made to determine the field dependence of the internal field distribution of the superconducting state.
+
+The data were fitted with
+
+\[A = A_{\rm TF}\cos(\gamma_{\mu}\,B_{\rm TF}t+\phi)e^{-\frac{\sigma_{ \rm TF}^{2}}{2}}\] (1) \[+ A_{\rm SC}\cos(\gamma_{\mu}\,B_{\rm SC}t+\phi)e^{-\frac{\sigma_{ \rm TF}^{2}}{2}},\]
+
+Figure 2: (a) Sample TF-\muSR spectra above and below T_{\rm c} for x=0.04. Fits as in Eq. (1) are also plotted. (b) Field dependence of the relaxation due to superconductivity for x=0.07 at 1.5 K (orange), x=0.17 at 1.5 K (green), and x=0.8 at 0.1 K (blue). (c) Temperature dependence of the inverse square penetration depth, with s+d-wave fits for x=0.04,\,0.07, and x=0.17, and an s-wave fit for x=0.8. (d) T dependence of the field shift \Delta\,B=B_{\rm SC}-B_{\rm TF}, expressed as a percentage of B_{\rm TF}, due to superconductivity. The evolution of T_{\rm c} (the zero-field value, extrapolated from magnetometry data), the superconducting gaps, the gap ratio, and the penetration depth with x are given in (e), (f), (g) and (h), respectively. The unfilled black points in (e) are the T_{\rm c} values for ZrB_{12} and LuB_{12} from Ref. [2], and the triangles are recently measured points for intermediate doping [30].
+
+Figure 1: The unit cell of RB_{12} (R= Lu or Zr). The rare earth (R) atoms are gray, and the B atoms are green. The B_{12} cages are shown in green.
+
+  where \gamma_{\mu}=2\pi\times 135.5 MHz T^{-1} is the gyromagnetic ratio of the muon and \phi is related to the detector geometry (the data were divided among eight groups of detectors with \phi fitted for each group). The first term corresponds to a background signal arising from muons that stop outside of the superconducting volume: in the cryostat, sample holder, and nonsuperconducting regions of the sample. These muons precess only in the external field and experience a small Gaussian relaxation. The second term corresponds to muons in the superconductor, which experience an approximately Gaussian relaxation arising from the field distribution of the vortex lattice. These muons also experience a small, temperature independent relaxation from nuclear moments, giving a total relaxation \sigma(T)=\sqrt{\sigma_{\rm SC}^{2}(T)+\sigma_{\rm nucl}^{2}}.
+
+The transverse field dependences of \sigma_{\rm SC} for x=0.07, 0.17, and 0.8 are shown in Fig. 2(b). There is a muon quadrupolar resonance due to the boron nuclei at \approx4 mT, which may affect the low-field dependence (this will be further discussed below). Apart from x=0.8, the upper critical fields B_{\rm c2} of all the samples are larger than the fields resolvable by the experiment; these have instead been calculated from magnetometry and heat capacity measurements in Refs. [22] and [23], and are shown in Ref. [29].
+
+Assuming all of the samples are type II superconductors with an isotropic hexagonal Abrikosov vortex lattice in the a-b plane that can be described by Ginzburg-Landau theory, the in-plane penetration depth \lambda can be extracted from the relaxation due to superconductivity using [31]\sigma_{\rm SC}=0.0609\gamma_{\mu}\phi_{0}\lambda^{-2}(T), where \phi_{0}=2.069\times 10^{-15} Wb is the magnetic flux quantum. This formula is an approximation which holds for 0.13/\kappa^{2}\ll B_{\rm TF}/B_{\rm c2}\ll 1 where \kappa is the Ginzburg-Landau parameter [29]. By comparing this approximation to the analytical relationship between \sigma_{\rm SC} and the applied field in Ref. [31], we find it correctly describes this relationship to within 10% for the x=0.04 and 0.07 samples, and to within 20% for x=0.17 and 0.8. The temperature dependence of \lambda^{-2} is shown in Fig. 2(c), and the corresponding field shifts due to the vortex lattice \Delta\,B=B_{\rm SC}-B_{\rm TF} are given in Fig. 2(d).
+
+To determine the nature of the superconducting gaps in the samples, we fitted the data with single-gap BCS s-wave and d-wave models, as well as two-gap s+s- and s+d-wave models. The BCS model of the normalized superfluid density of a superconductor is given by [32]:
+
+\[\bar{n}_{\rm s}(T) = \frac{\lambda^{-2}(T)}{\lambda^{-2}(0)}\] (2) \[= 1+\frac{1}{\pi}\int_{0}^{2\pi}\int_{\Delta(\phi,T)}^{\infty} \frac{\partial f}{\partial E}\frac{EdEd\phi}{\sqrt{E^{2}-\Delta^{2}(\phi,T)}},\]
+
+where \Delta(\phi,T) is the superconducting gap function, and f=[1+\exp{(E/k_{\rm B}T)}]^{-1} is the Fermi function. The gap function can be approximated as \Delta(\phi,T)=\Delta(\phi)\tanh{(1.82[1.018(T_{c}/T-1)]^{0.51})}. The angular gap function \Delta(\phi)=\Delta_{0} for s-wave superconductors and \Delta(\phi)=\Delta_{0}\cos(2\phi) for d-wave (nodal) superconductors. For multigap models, the total \bar{n}_{s}(T) is given by a weighted sum of the superfluid densities for the individual gaps: \bar{n}_{\rm s}(T)=w\bar{n}_{\rm s}^{\rm sep\ 1}(T)+(1-w)\bar{n}_{\rm s}^{\rm sep \ 2}(T). In the case of the s+d-wave fits, the first gap is s wave, whereas the second gap is d wave.
+
+We find that x=0.04, 0.07, and 0.17 are s+d-wave superconductors, whereas x=0.8 is purely s wave. \chi^{2} values for s-, d-, s+s-, and s+d-wave fits for all of the samples are shown in Table 1. A key indicator of nodal superconductivity is the linear dependence of \lambda^{-2} at low T, which is observed in x=0.04, 0.07, and 0.17. x=0.8, on the other hand, shows a low temperature plateau in \lambda^{-2}, corresponding to a fully gapped superconductor where low-energy excitations are strongly suppressed [33]. This is consistent with the s-wave superconductivity observed in LuB_{12}[14]. Further discussion of this fitting can be found in the Supplemental Material [29]. Our observations show that the nodal gap becomes less anisotropic and eventually becomes isotropic as x increases. This change of gap structure is accompanied by a rapid suppression of T_{\rm c}, shown in Fig. 2(e). The fitted values of the s- and d-wave superconducting gaps, \Delta_{s} and \Delta_{d}, respectively, are shown in Fig. 2(f); we find that along with the complete suppression of the nodal gap [indicated by w\to 1 in Fig. 2(g)], the s-wave gap also decreases significantly in size with increasing x. For all of the samples, we find that the gap to T_{\rm c} values \Delta_{s}/k_{\rm B}T_{\rm c}\approx 2-2.5 (>1.76, the BCS value) for the larger s-wave gap, meaning these compounds are likely strongly-coupled superconductors (although for the multigapped samples, \Delta_{d}/k_{\rm B}T_{\rm c}\approx 0.3-0.5 in all cases). As x increases, the superfluid density [n_{\rm s}\propto\lambda^{-2}(0)] is suppressed, leading to a longer penetration depth as shown in Fig. 2(h). This agrees well with the two peaks observed in the field dependence of \sigma_{\rm SC} for x=0.07 [see Fig. 2(b)]. The peak at B_{\rm TF}\approx 12 mT may be a reflection of the field dependence of the weak d-wave term on top of the s-wave term. As the d-wave contribution is more easily suppressed by an external field, we expect w to be field dependent. From the amplitude of the 12 mT peak we can estimate that the corrected value of w in the low field London limit should be closer to 0.7 for this sample and will be similarly reduced for the other low-x samples.
+
+Zr ([Kr]5s^{2}4d^{2}) contributes two d electrons to the conduction band whereas Lu ([Xe]4f^{14}6s^{2}5d^{1}) only contributes one. This results in increased d-wave orbital pairing and favors nodal superconductivity. The observed gap evolution in the Lu_{x}Zr_{1-x}B_{12} is similar to that seen in Fe-based superconductors. The Ba_{1-x}K_{x}Fe_{2}As_{2} family of materials shows fully gapped behavior for x=0.4, with line nodes appearing at x=1[34]. A similar transition is
+
+\begin{table}
+\begin{tabular}{c c c c c} x & s wave & d wave & s+s wave & s+d wave \\ \hline
+0.04 & 20.9 & 23.2 & 15.8 & **14.1** \\
+0.07 & 11.9 & 10.9 & 12.1 & **10.0** \\
+0.17 & 18.8 & 16.5 & 16.6 & **13.8** \\
+0.8 & **16.9** & 19.7 & 19.3 & 22.6  achieved in Ba0.68Rb0.35Fe2As2 using hydrostatic pressure, which promotes a nodal gap [35].
+
+_Magnetism._ To address the apparent discrepancy between the differing magnetic behaviours of this family of compounds observed in Refs. [22] and [23], ZF- and LF-\muSR experiments were carried out. ZF spectra below T_{\rm c} for one 'magnetic' sample (x=0.07) and two 'nonmagnetic' samples (x=0.17 and 0.8) are shown in Fig. 3(a). For all samples there was no detectable change in the ZF spectrum as T was increased above T_{\rm c}, meaning that any magnetism present in the samples does not compete with the superconducting phase. No oscillations were seen in the forward-backward asymmetry spectra, and there were also no discontinuous jumps in either the initial or the baseline asymmetry, which suggests there is no long-range order inside the sample. The data were fitted with the zero-field Kubo-Toyabe function [36] with an additional Lorentzian relaxation:
+
+\[A=A_{0}\big{(}\tfrac{1}{3}+\tfrac{2}{3}\big{(}1-\Delta_{\rm ZF}^{2}t^{2}\big{)} e^{-\Delta_{\rm ZF}^{2}t^{2}/2}\big{)}e^{-\lambda_{\rm ZF}t}+A_{\rm b},\] (3)
+
+where A_{0} and A_{\rm b} are the relaxing and baseline amplitudes. The relaxing amplitude corresponds to muon stopping in the magnetic portion of the sample, while the baseline amplitude represents muons landing in nonmagnetic regions, for example in the cryostat or sample holder. The Kubo-Toyabe function is often used to describe a system of static spins with a Gaussian field distribution characterized by an RMS width \Delta_{\rm ZF}/\gamma_{\mu}.
+
+\Delta_{\rm ZF} was found to be constant and temperature independent [0.40(3) \mus^{-1}] across all of the samples. The additional Lorentzian relaxation was equal and very small for the two nonmagnetic samples (\approx0.05 \mus^{-1}) and significantly larger for the magnetic sample (\approx0.2 \mus^{-1}).
+
+To further probe the nature of the magnetism, LF-\muSR was carried out on one magnetic and one nonmagnetic sample: x=0.07 and x=0.8, respectively. The data were fitted with a longitudinal-field Kubo-Toyabe function [37] with an additional Lorentzian relaxation e^{-\lambda_{\rm ZF}t}; the field dependence of \lambda_{\rm ZF} is plotted in Fig. 3(b). Both samples have a peak in their relaxation at B\approx 4 mT, corresponding to the muon experiencing a quadrupolar resonance with the ^{11}B nucleus [38,39]. The additional relaxation seen in the ZF spectrum of the magnetic sample is quenched above \approx1 mT, indicating an internal field on the order of 0.1 mT arising from static magnetic moments (an applied longitudinal field B_{\rm LF}>10B_{\rm internal} rapidly quenches relaxation arising from static moments [26,37]).
+
+We have used density functional theory to determine the muon site in the unit cell. By mapping the electrostatic potential inside the unit cell, an approximate site can be obtained by examining the maxima of this potential. A potential maximum corresponds to a low energy associated with introducing a positive charge (for example the muon) and has been found to be a good approximation to more detailed relaxation calculations [40,41]. Our calculations imply the muon site is at (0.5,0.5,0.5) in the unit cell, in the center of the B_{12} cage.
+
+The Lorentzian relaxation in Eq. (3) likely arises due to static, dilute moments [42], and hence the relatively large \lambda_{\rm ZF} for the magnetic sample may be due to the formation of dilute nanodomains consisting of static moments associated with the Lu atoms. The value of \lambda_{\rm ZF}, combined with the LF required to suppress the relaxation, provide an approximate RMS field width of \approx0.1 mT associated with the Lorentzian field distribution produced by the dilute moments. Using dipolar field simulations, we can calculate the expected dipolar field at the muon site r_{\mu}. The field from moments \mathbf{m}_{i} and positions \mathbf{r}_{i} can be found via
+
+\[\mathbf{B}_{\rm dip}=\frac{\mu_{0}}{4\pi}\sum_{i}\frac{3(\mathbf{m}_{\mathbf{i }}\cdot\hat{\mathbf{r}}_{i\mu})\hat{\mathbf{r}}_{i\mu}-\mathbf{m}_{\mathbf{i} }}{|\mathbf{r}_{i\mu}|^{3}},\] (4)
+
+where \hat{\mathbf{r}}_{i\mu} is the normalized vector between the muon and the moment \mathbf{m}_{\mathbf{i}}. Using Eq. (4), we find domains of size \sim7 A give \lambda_{\rm ZF}/\gamma_{\mu}\approx 0.1 mT, where the moments associated with these domains is \approx0.8 \mu_{\rm B}.
+
+The observed differences in magnetism are supported by bulk magnetometry measurements of x=0.07, 0.17, and 0.8, as shown in Fig. 3(c). The data were fitted to a Curie-Weiss function with an additional constant background magnetization:
+
+\[M=M_{0}+n\mu_{0}\mu^{2}H/3k_{\rm B}T,\] (5)
+
+where \mu is the effective magnetic moment per formula unit, n is the number density, and \mu_{0}H=2 mT is the applied external field. We find that the moment per formula unit in the magnetic sample (\mu_{0.07}\approx 1.18\mu_{\rm B}; close to the moment size obtained from the dipole field calculations above) is significantly higher than for the nonmagnetic samples (\mu_{0.17}\approx 0.2\mu_{\rm B}, \mu_{0.8}\approx 0.1 \mu_{\rm B}).
+
+From these data, we postulate that the ZF signal observed in the nonmagnetic samples, which is insensitive to Lu^{3+} concentration, is dominated by B nuclei in the cages, similar to that observed in LuB_{12}[43]. In addition to this nuclear signal, the magnetic sample also contains static, disordered moments, which may potentially be associated with clusters of Lu^{3+}, similar to the phenomena discussed in Refs. [22]
+
+Figure 3: (a) Sample ZF-\muSR spectra in the superconducting state. (b) The field dependence of the relaxation for one ‘magnetic’ sample (x=0.07, orange) and one ‘nonmagnetic’ sample (x=0.8, blue). The measurements for x=0.07 were taken at 5 K and for x=0.8 at 0.7 K. (c) The temperature dependence of the magnetization per formula unit.
+
+  and [24]. As the apparent clustering effect is only present in one sample, we conclude that the differences in magnetism we observe are due to the detailed distribution of cations that is established during sample preparation, rather than an intrinsic effect linked to x.
+
+_Conclusion._ In summary, we have carried out \muSR and magnetometry measurements to probe the nature of the magnetism and superconductivity in the Lu_{x}Zr_{1-x}B_{12} family of superconductors. ZF-\muSR, LF-\muSR, and magnetometry measurements reveal a strong magnetic signal in one sample, which was thought to contain magnetic nanodomains, compared to those samples with no domains. We attribute this sample dependence to a clustering effect in which the distribution of Lu^{3+} may affect the formation of static moments. We find that the moments associated with this effect are of order 1 \mu_{\rm B} per formula unit. Scanning tunneling microscopy or scanning electron microscopy may provide further insights into this effect. TF-\muSR measurements revealed that the superconductivity was robust to these variations in magnetism. We find that the increase in T_{\rm c} associated with the decrease of x is also accompanied by a decrease in penetration depth and the likely formation of nodes in the superconducting gap function. There are many extensions to the models we have used to fit our data. While our minimal models fit the data well, we stress that more in-depth studies of this family of materials are required to further probe the gap symmetries observed in our \muSR data. The nodal superconductivity appears to occur even in the magnetic sample; we can deduce that the nodal gaps we observe are probably due to d-wave pairing, rather than s-wave pairing with accidental nodes: Impurity scattering (which is possible due to the variability in the magnetic properties of the sample) would broaden symmetry nodes and lift any accidental nodes, therefore removing the residual linear term in \lambda^{-2}. The unusual transition from nodal to gapped superconductivity is similar to that observed in iron pnictide superconductors, although we note that in the case of the pnictides, the formation of nodes in the superconducting gap is accompanied by a decrease in T_{\rm c} and a decrease in the superfluid density [34, 35]. Further study of the Lu_{x}Zr_{1-x}B_{12} family of compounds may provide additional insights into the mechanisms behind nodal-to-gapped crossovers in high temperature superconductors. It has recently become possible to synthesize samples of Lu_{x}Zr_{1-x}B_{12} with 0.17 <x< 0.8 [30], and our work emphasizes the need to probe the intermediate doping region in order to understand the full details of the crossover.
+
+_Acknowledgments._ We thank C. Topping and F. Lang for experimental assistance and M. Bristow and R. Fernandes for insightful discussions. F.K.K.K. thanks Lincoln College, Oxford, for a doctoral studentship. This study was supported by the program "Fundamental problems of high-temperature superconductivity" of the Presidium of the RAS. Part of this work was performed at the Science and Technology Facilities Council (STFC) ISIS Facility, Rutherford Appleton Laboratory, and part at S\muS, the Swiss Muon Source (PSI, Switzerland).
+
+## References
+
+* [1] J. Nagamatsu, N. Nakagawa, T. Muranaka, Y. Zenitani, and J. Akimitsu, Nature (London) **410**, 63 (2001).
+* [2] B. T. Matthias, T. H. Geballe, K. Andres, E. Corenzwit, G. W. Hull, and J. P. Maita, Science **159**, 530 (1968).
+* [3] Y. B. Kuzma, _Crystal Chemistry of Borides_ (Vysshaya Shkola, Lviv, Moscow, 1983).
+* [4] A. P. Duda, O. N. Khrykina, N. B. Bolotina, N. Y. Shitsevalova, V. B. Filipov, and N. E. Sluchanko, J. Alloys Compd. **692**, 535 (2017).
+* [5] I. R. Shein and A. L. Ivanovskii, Phys. Solid State **45**, 1429 (2003).
+* [6] B. Jager, S. Paluch, O. J. Zogat, W. Wolf, P. Herzig, V. B. Filipov, N. Shitsevalova, and Y. Paderno, J. Phys.: Condens. Matter **18**, 2525 (2006).
+* [7] J. Teyssier, A. B. Kuzmenko, D. van der Marel, F. Marsiglio, A. B. Liashenko, N. Shitsevalova, and V. Filipov, Phys. Rev. B **75**, 134503 (2007).
+* [8] H. Werheit, Y. Paderno, V. Filippov, V. Paderno, A. Pietraszko, M. Armbruster, and U. Schwarz, J. Solid State Chem. **179**, 2761 (2006).
+* [9] J. Teyssier, R. Lortz, A. Petrovic, D. van der Marel, V. Filippov, and N. Shitsevalova, Phys. Rev. B **78**, 134504 (2008).
+* [10] R. Lortz, Y. Wang, S. Abe, C. Meingast, Y. B. Paderno, V. Filippov, and A. Junod, Phys. Rev. B **72**, 024547 (2005).
+* [11] A. V. Rybina, K. S. Nemkovski, P. A. Alekseev, J.-M. Mignot, E. S. Clementyev, M. Johnson, L. Capogna, A. V. Dukhnenko, A. B. Lyshenko, and V. B. Filippov, Phys. Rev. B **82**, 024302 (2010).
+* [12] N. Sluchanko, S. Gavrilkin, K. Mitsen, A. Kuznetsov, I. Sannikov, V. Glushkov, S. Demishev, A. Azarevich, A. Bogach, A. Lyashenko, A. Dukhnenko, V. Filipov, S. Gabani, K. Flachbart, J. Vanacken, G. Zhang, and V. Moshchalkov, J. Supercond. Nov. Magn. **26**, 1663 (2013).
+* [13] N. Sluchanko, A. Bogach, N. Bolotina, V. Glushkov, S. Demishev, A. Dudka, V. Krasnorussky, O. Khrykina, K. Krasikov, V. Mironov, V. B. Filipov, and N. Shitsevalova, Phys. Rev. B **97**, 035150 (2018).
+* [14] K. Flachbart, S. Gabani, K. Gloos, M. Meissner, M. Opel, Y. Paderno, V. Pavlik, P. Samuely, E. Schuberth, N. Shitsevalova, K. Siemensmeyer, and P. Szabo, J. Low Temp. Phys. **140**, 339 (2005).
+* [15] D. Daghero, R. S. Gonnelli, G. A. Ummarino, A. Calzolari, V. Dellarocca, V. A. Stepanov, V. B. Filippov, and Y. B. Paderno, Supercond. Sci. Technol. **17**, S250 (2004).
+* [16] M. I. Tsindlekht, G. I. Leviev, I. Asulin, A. Sharoni, O. Millo, I. Felner, Y. B. Paderno, V. B. Filippov, and M. A. Belogolovskii, Phys. Rev. B **69**, 212508 (2004).
+* [17] V. A. Gasparov, N. S. Sidorov, and I. I. Zverkova, Phys. Rev. B **73**, 094510 (2006).
+* [18] P. W. Anderson, Phys. Rev. Lett. **3**, 325 (1959).
+* [19] A. A. Abrikosov and L. P. Gor'kov, Sov. Phys. JETP **12**, 337 (1961).
+* [20] A. V. Balatsky, I. Vekhter, and J. X. Zhu, Rev. Mod. Phys. **78**, 373 (2006).
+* [21] H. Alloul, J. Bobroff, M. Gabay, and P. J. Hirschfeld, Rev. Mod. Phys. **81**, 45 (2009).
+
+  * [22] N. E. Sluchanko, A. N. Azarevich, M. A. Anisimov, A. V. Bogach, S. Y. Gavrilkin, M. I. Gilmanov, V. V. Glushkov, S. V. Demishev, A. L. Khoroshilov, A. V. Dukhnenko, K. V. Mitsen, N. Y. Shitsevalova, V. B. Filippov, V. V. Voronov, and K. Flachbart, Phys. Rev. B **93**, 085130 (2016).
+* [23] N. Sluchanko, A. Azarevich, A. Bogach, S. Gavrilkin, V. Glushkov, S. Demishev, K. Mitsen, N. Shitsevalova, V. Filippov, S. Gabani, and K. Flachbart, Acta Phys. Polon. A **131**, 1036 (2017).
+* [24] N. Sluchanko, V. Glushkov, S. Demishev, A. Azarevich, M. Anisimov, A. Bogach, V. Voronov, S. Gavrilkin, K. Mitsen, A. Kuznetsov, I. Sannikov, N. Shitsevalova, V. Filipov, M. Kondrin, S. Gabani, and K. Flachbart, Phys. Rev. B **96**, 144501 (2017).
+* [25] S. J. Blundell, Contemp. Phys. **40**, 175 (1999).
+* [26] A. A. Yaouanc and P. D. de. Reotier, in _Muon Spin Rotation, Relaxation, and Resonance: Applications to Condensed Matter_ (Oxford University Press, Oxford, UK, 2011), p. 486.
+* [27] P. J. C. King, R. de Renzi, S. P. Cottrell, A. D. Hillier, and S. F. J. Cox, Phys. Scr. **88**, 068502 (2013).
+* [28] F. L. Pratt, Physica B: Condens. Matter **289-290**, 710 (2000).
+* [29] See Supplemental Material at http://link.aps.org/supplemental/10.1103/PhysRevB.98.094505 for further discussion of the nodal and gapped fitting and additional plots of the superconducting parameters.
+* [30] N. E. Sluchanko _et al._ (unpublished).
+* [31] E. H. Brandt, Phys. Rev. B **68**, 054506 (2003).
+* [32] B. S. Chandrasekhar and D. Einzel, Ann. Phys. (Berl.) **505**, 535 (1993).
+* [33] M. J. Graf, S. K. Yip, J. A. Sauls, and D. Rainer, Phys. Rev. B **53**, 15147 (1996).
+* [34] J.-P. Reid, A. Juneau-Fecteau, R. T. Gordon, S. Rene de Cotret, N. Doiron-Leyraud, X. G. Luo, H. Shakeripour, J. Chang, M. A. Tanatar, H. Kim, R. Prozorov, T. Saito, H. Fukazawa, Y. Kohori, K. Kihou, C. H. Lee, A. Iyo, H. Eisaki, B. Shen, H.-H. Wen, and L. Taillefer, Supercond. Sci. Technol. **25**, 084013 (2012).
+* [35] Z. Guguchia, A. Amato, J. Kang, H. Luetkens, P. K. Biswas, G. Prando, F. von Rohr, Z. Bukowski, A. Shengelaya, H. Keller, E. Morenzoni, R. Fernandes, and R. Khasanov, Nat. Commun. **6**, 8863 (2015).
+* [36] R. Kubo and T. Toyabe, in _Magnetic Resonance and Relaxation_, edited by R. Blinc (North-Holland, Amsterdam, 1967), p. 810.
+* [37] R. S. Hayano, Y. J. Uemura, J. Imazato, N. Nishida, T. Yamazaki, and R. Kubo, Phys. Rev. B **20**, 850 (1979).
+* [38] D. M. Maric, P. F. Meier, S. Vogel, S. F. J. Cox, and E. A. Davis, J. Phys.: Condens. Matter **3**, 9675 (1991).
+* [39] S. F. J. Cox, Z. Naturforsch. A **47**, 371 (1992).
+* [40] J. S. Moller, P. Bonfa, D. Ceresoli, F. Bernardini, S. J. Blundell, T. Lancaster, R. De Renzi, N. Marzari, I. Watanabe, S. Sulaiman, and M. I. Mohamed-Ibrahim, Phys. Scr. **88**, 068510 (2013).
+* [41] F. R. Foronda, F. Lang, J. S. Moller, T. Lancaster, A. T. Boothroyd, F. L. Pratt, S. R. Giblin, D. Prabhakaran, and S. J. Blundell, Phys. Rev. Lett. **114**, 017602 (2015).
+* [42] R. E. Walstedt and L. R. Walker, Phys. Rev. B **9**, 4857 (1974).
+* [43] G. Kalvius, D. Noakes, N. Marcano, R. Wippling, F. Iga, and T. Takabatake, Physica B **326**, 398 (2003).
+
+ Observation of a crossover from nodal to gapped superconductivity in Lu_{x}Zr_{1-x}B_{12}
+
+Franziska K. K. Kirschner
+
+franziska.kirschner@physics.ox.ac.uk Department of Physics, University of Oxford, Clarendon Laboratory, Parks Road, Oxford OX1 3PU, United Kingdom
+
+Nikolay E. Sluchanko
+
+Stephen J. Blundel
+
+stephen.blundel@physics.ox.ac.uk Maxow Institute of Physics and Technology, Institutskii per. 9, Dolgoprudnyi, Moscow Region 141700, Russia
+
+Vladimir B. Filipov
+
+Frants'euchi Institute for Problems of Materials Science NAS, 3, Kralyzyhanovsky str., Kiev 03680, Ukraine
+
+Francis L. Pratt
+
+SIS Facility, STFC Rutherford Appleton Laboratory, Chilton, Didcot, Oxfordshire OX11 0QX, United Kingdom
+
+Chris Baines
+
+Laboratory for Muon Spin Spectroscopy, Paul Scherrer Institute, CH-5232 Villigen, PSI, Switzerland
+
+Natalya Yu. Shitsevalova
+
+Frants'euchi Institute for Problems of Materials Science NAS, 3, Kralyzyhanovsky str., Kiev 03680, Ukraine
+
+Stephen J. Blundel
+
+###### Abstract
+
+We have determined the superconducting and magnetic properties of four samples of Lu_{x}Zr_{1-x}B_{12} (x=0.04, 0.07, 0.17, and 0.8) using muon spin rotation (\muSR) and magnetometry measurements. We observed a strong magnetic signal in both the \muSR and magnetometry data in one sample (x=0.07), likely caused by the formation of static moments of size \approx1 \mu_{\rm B} due to a clustering effect of the Lu^{3+} ions. In all other samples, we find only a small magnetic signal in the \muSR data thought to originate from boron nuclei in the B_{12} cages. The superconductivity is found to evolve with x, with a decrease in x resulting in an increase in critical temperature and a decrease of the penetration depth. Most remarkably, we find evidence for the formation of nodes in the superconducting gap for x\leqslant 0.17, providing a potential new example of an s-to-s+d-wave crossover in a superconductor.
+
+pacs: 2469-9950/2018/98(9)094505 +
+Footnote †: preprint: PHYSICAL REVIEW B **98**, 094505 (2018)
+  displayed no such phenomena. The 'magnetic' sample, x=0.07, was identical to that used in Ref. [22]. The remaining three samples, x=0.04, 0.17, and 0.8, were 'nonmagnetic' and identical to those studied in Ref. [23]. Details of the crystal growth are described in Refs. [22] and [23].
+
+The crystal growth methods were identical for both the magnetic and nonmagnetic samples, with the single crystal samples being grown from a sintered rod. However, the sintered rods were obtained via different methods. For the magnetic sample, the sintered rod was produced from a powder of the crushed single crystal LuB_{12} and ZrB_{12}. Both powders were mixed and sintered into rods at 1750 ^{\circ}C in a vacuum; this method is unable to guarantee a homogeneous mixture of Lu and Zr. Since there was a gradual re- melting of the rod during the synthesis of the single crystal, we cannot exclude an inhomogeneous distribution of Lu and Zr in the final crystal. In the case of the nonmagnetic samples, amorphous boron was mixed with Lu and Zr metal oxides (Lu_{2}O_{3} and ZrO_{2}). These mixtures were pressed into tablets and held in a vacuum furnace for two hours at 1650 ^{\circ}C to perform a solid-state synthesis, producing (Lu,Zr)B_{12}. To achieve a homogeneous distribution of the metal components after synthesis the tablets were crushed, pressed, and annealed at 1650 ^{\circ}C in vacuum. Then they were crushed and pressed once more to produce the rods, which were sintered in vacuum at 1750 ^{\circ}C for one hour. As this method for producing the sintered rods had one more homogenizing annealing, we anticipate the Lu/Zr distribution in these samples to be significantly more homogeneous than in the sample produced using the first synthesis method.
+
+\muSR experiments [25, 26] were performed using a dilution refrigerator and ^{3}He sorption cryostat mounted on the MuSR spectrometer at the ISIS pulsed muon facility (Rutherford Appleton Laboratory, UK) [27]. Further experiments were carried out using the low temperature facility (LTF) and general purpose spectrometer (GPS) at the Swiss Muon Source. Transverse-field (TF) measurements were made to probe the superconducting ground state and its evolution with x. Zero-field (ZF) and longitudinal-field (LF) measurements were carried out in order to test for magnetic phases in the sample. All of the \muSR data were analyzed using WiMDA [28]. Magnetometry measurements were carried out on a Quantum Design SQUID magnetometer.
+
+_Superconductivity_. TF-\muSR measurements were performed on all of the samples to determine their superconducting properties. x=0.04, 0.07, and 0.17 were measured above and below T_{\rm c} in transverse applied fields B_{\rm TF} of 30 mT and x=0.8 was measured in B_{\rm TF}=2.5 mT (fields were chosen in order to lie below B_{\rm c2} for each compound; see the Supplemental Material [29] for B_{\rm c2} values). Measurements were taken in field-cooled mode, where B_{\rm TF} is applied above T_{\rm c} before the sample is cooled down. A representative spectrum for x=0.04 is shown in Fig. 2(a). Transverse field sweeps were also made to determine the field dependence of the internal field distribution of the superconducting state.
+
+The data were fitted with
+
+\[A = A_{\rm TF}\cos(\gamma_{\mu}\,B_{\rm TF}t+\phi)e^{-\frac{\sigma_{ \rm TF}^{2}}{2}}\] (1) \[+ A_{\rm SC}\cos(\gamma_{\mu}\,B_{\rm SC}t+\phi)e^{-\frac{\sigma_{ \rm TF}^{2}}{2}},\]
+
+Figure 2: (a) Sample TF-\muSR spectra above and below T_{\rm c} for x=0.04. Fits as in Eq. (1) are also plotted. (b) Field dependence of the relaxation due to superconductivity for x=0.07 at 1.5 K (orange), x=0.17 at 1.5 K (green), and x=0.8 at 0.1 K (blue). (c) Temperature dependence of the inverse square penetration depth, with s+d-wave fits for x=0.04,\,0.07, and x=0.17, and an s-wave fit for x=0.8. (d) T dependence of the field shift \Delta\,B=B_{\rm SC}-B_{\rm TF}, expressed as a percentage of B_{\rm TF}, due to superconductivity. The evolution of T_{\rm c} (the zero-field value, extrapolated from magnetometry data), the superconducting gaps, the gap ratio, and the penetration depth with x are given in (e), (f), (g) and (h), respectively. The unfilled black points in (e) are the T_{\rm c} values for ZrB_{12} and LuB_{12} from Ref. [2], and the triangles are recently measured points for intermediate doping [30].
+
+Figure 1: The unit cell of RB_{12} (R= Lu or Zr). The rare earth (R) atoms are gray, and the B atoms are green. The B_{12} cages are shown in green.
+
+  where \gamma_{\mu}=2\pi\times 135.5 MHz T^{-1} is the gyromagnetic ratio of the muon and \phi is related to the detector geometry (the data were divided among eight groups of detectors with \phi fitted for each group). The first term corresponds to a background signal arising from muons that stop outside of the superconducting volume: in the cryostat, sample holder, and nonsuperconducting regions of the sample. These muons precess only in the external field and experience a small Gaussian relaxation. The second term corresponds to muons in the superconductor, which experience an approximately Gaussian relaxation arising from the field distribution of the vortex lattice. These muons also experience a small, temperature independent relaxation from nuclear moments, giving a total relaxation \sigma(T)=\sqrt{\sigma_{\rm SC}^{2}(T)+\sigma_{\rm nucl}^{2}}.
+
+The transverse field dependences of \sigma_{\rm SC} for x=0.07, 0.17, and 0.8 are shown in Fig. 2(b). There is a muon quadrupolar resonance due to the boron nuclei at \approx4 mT, which may affect the low-field dependence (this will be further discussed below). Apart from x=0.8, the upper critical fields B_{\rm c2} of all the samples are larger than the fields resolvable by the experiment; these have instead been calculated from magnetometry and heat capacity measurements in Refs. [22] and [23], and are shown in Ref. [29].
+
+Assuming all of the samples are type II superconductors with an isotropic hexagonal Abrikosov vortex lattice in the a-b plane that can be described by Ginzburg-Landau theory, the in-plane penetration depth \lambda can be extracted from the relaxation due to superconductivity using [31]\sigma_{\rm SC}=0.0609\gamma_{\mu}\phi_{0}\lambda^{-2}(T), where \phi_{0}=2.069\times 10^{-15} Wb is the magnetic flux quantum. This formula is an approximation which holds for 0.13/\kappa^{2}\ll B_{\rm TF}/B_{\rm c2}\ll 1 where \kappa is the Ginzburg-Landau parameter [29]. By comparing this approximation to the analytical relationship between \sigma_{\rm SC} and the applied field in Ref. [31], we find it correctly describes this relationship to within 10% for the x=0.04 and 0.07 samples, and to within 20% for x=0.17 and 0.8. The temperature dependence of \lambda^{-2} is shown in Fig. 2(c), and the corresponding field shifts due to the vortex lattice \Delta\,B=B_{\rm SC}-B_{\rm TF} are given in Fig. 2(d).
+
+To determine the nature of the superconducting gaps in the samples, we fitted the data with single-gap BCS s-wave and d-wave models, as well as two-gap s+s- and s+d-wave models. The BCS model of the normalized superfluid density of a superconductor is given by [32]:
+
+\[\bar{n}_{\rm s}(T) = \frac{\lambda^{-2}(T)}{\lambda^{-2}(0)}\] (2) \[= 1+\frac{1}{\pi}\int_{0}^{2\pi}\int_{\Delta(\phi,T)}^{\infty} \frac{\partial f}{\partial E}\frac{EdEd\phi}{\sqrt{E^{2}-\Delta^{2}(\phi,T)}},\]
+
+where \Delta(\phi,T) is the superconducting gap function, and f=[1+\exp{(E/k_{\rm B}T)}]^{-1} is the Fermi function. The gap function can be approximated as \Delta(\phi,T)=\Delta(\phi)\tanh{(1.82[1.018(T_{c}/T-1)]^{0.51})}. The angular gap function \Delta(\phi)=\Delta_{0} for s-wave superconductors and \Delta(\phi)=\Delta_{0}\cos(2\phi) for d-wave (nodal) superconductors. For multigap models, the total \bar{n}_{s}(T) is given by a weighted sum of the superfluid densities for the individual gaps: \bar{n}_{\rm s}(T)=w\bar{n}_{\rm s}^{\rm sep\ 1}(T)+(1-w)\bar{n}_{\rm s}^{\rm sep \ 2}(T). In the case of the s+d-wave fits, the first gap is s wave, whereas the second gap is d wave.
+
+We find that x=0.04, 0.07, and 0.17 are s+d-wave superconductors, whereas x=0.8 is purely s wave. \chi^{2} values for s-, d-, s+s-, and s+d-wave fits for all of the samples are shown in Table 1. A key indicator of nodal superconductivity is the linear dependence of \lambda^{-2} at low T, which is observed in x=0.04, 0.07, and 0.17. x=0.8, on the other hand, shows a low temperature plateau in \lambda^{-2}, corresponding to a fully gapped superconductor where low-energy excitations are strongly suppressed [33]. This is consistent with the s-wave superconductivity observed in LuB_{12}[14]. Further discussion of this fitting can be found in the Supplemental Material [29]. Our observations show that the nodal gap becomes less anisotropic and eventually becomes isotropic as x increases. This change of gap structure is accompanied by a rapid suppression of T_{\rm c}, shown in Fig. 2(e). The fitted values of the s- and d-wave superconducting gaps, \Delta_{s} and \Delta_{d}, respectively, are shown in Fig. 2(f); we find that along with the complete suppression of the nodal gap [indicated by w\to 1 in Fig. 2(g)], the s-wave gap also decreases significantly in size with increasing x. For all of the samples, we find that the gap to T_{\rm c} values \Delta_{s}/k_{\rm B}T_{\rm c}\approx 2-2.5 (>1.76, the BCS value) for the larger s-wave gap, meaning these compounds are likely strongly-coupled superconductors (although for the multigapped samples, \Delta_{d}/k_{\rm B}T_{\rm c}\approx 0.3-0.5 in all cases). As x increases, the superfluid density [n_{\rm s}\propto\lambda^{-2}(0)] is suppressed, leading to a longer penetration depth as shown in Fig. 2(h). This agrees well with the two peaks observed in the field dependence of \sigma_{\rm SC} for x=0.07 [see Fig. 2(b)]. The peak at B_{\rm TF}\approx 12 mT may be a reflection of the field dependence of the weak d-wave term on top of the s-wave term. As the d-wave contribution is more easily suppressed by an external field, we expect w to be field dependent. From the amplitude of the 12 mT peak we can estimate that the corrected value of w in the low field London limit should be closer to 0.7 for this sample and will be similarly reduced for the other low-x samples.
+
+Zr ([Kr]5s^{2}4d^{2}) contributes two d electrons to the conduction band whereas Lu ([Xe]4f^{14}6s^{2}5d^{1}) only contributes one. This results in increased d-wave orbital pairing and favors nodal superconductivity. The observed gap evolution in the Lu_{x}Zr_{1-x}B_{12} is similar to that seen in Fe-based superconductors. The Ba_{1-x}K_{x}Fe_{2}As_{2} family of materials shows fully gapped behavior for x=0.4, with line nodes appearing at x=1[34]. A similar transition is
+
+\begin{table}
+\begin{tabular}{c c c c c} x & s wave & d wave & s+s wave & s+d wave \\ \hline
+0.04 & 20.9 & 23.2 & 15.8 & **14.1** \\
+0.07 & 11.9 & 10.9 & 12.1 & **10.0** \\
+0.17 & 18.8 & 16.5 & 16.6 & **13.8** \\
+0.8 & **16.9** & 19.7 & 19.3 & 22.6  achieved in Ba0.68Rb0.35Fe2As2 using hydrostatic pressure, which promotes a nodal gap [35].
+
+_Magnetism._ To address the apparent discrepancy between the differing magnetic behaviours of this family of compounds observed in Refs. [22] and [23], ZF- and LF-\muSR experiments were carried out. ZF spectra below T_{\rm c} for one 'magnetic' sample (x=0.07) and two 'nonmagnetic' samples (x=0.17 and 0.8) are shown in Fig. 3(a). For all samples there was no detectable change in the ZF spectrum as T was increased above T_{\rm c}, meaning that any magnetism present in the samples does not compete with the superconducting phase. No oscillations were seen in the forward-backward asymmetry spectra, and there were also no discontinuous jumps in either the initial or the baseline asymmetry, which suggests there is no long-range order inside the sample. The data were fitted with the zero-field Kubo-Toyabe function [36] with an additional Lorentzian relaxation:
+
+\[A=A_{0}\big{(}\tfrac{1}{3}+\tfrac{2}{3}\big{(}1-\Delta_{\rm ZF}^{2}t^{2}\big{)} e^{-\Delta_{\rm ZF}^{2}t^{2}/2}\big{)}e^{-\lambda_{\rm ZF}t}+A_{\rm b},\] (3)
+
+where A_{0} and A_{\rm b} are the relaxing and baseline amplitudes. The relaxing amplitude corresponds to muon stopping in the magnetic portion of the sample, while the baseline amplitude represents muons landing in nonmagnetic regions, for example in the cryostat or sample holder. The Kubo-Toyabe function is often used to describe a system of static spins with a Gaussian field distribution characterized by an RMS width \Delta_{\rm ZF}/\gamma_{\mu}.
+
+\Delta_{\rm ZF} was found to be constant and temperature independent [0.40(3) \mus^{-1}] across all of the samples. The additional Lorentzian relaxation was equal and very small for the two nonmagnetic samples (\approx0.05 \mus^{-1}) and significantly larger for the magnetic sample (\approx0.2 \mus^{-1}).
+
+To further probe the nature of the magnetism, LF-\muSR was carried out on one magnetic and one nonmagnetic sample: x=0.07 and x=0.8, respectively. The data were fitted with a longitudinal-field Kubo-Toyabe function [37] with an additional Lorentzian relaxation e^{-\lambda_{\rm ZF}t}; the field dependence of \lambda_{\rm ZF} is plotted in Fig. 3(b). Both samples have a peak in their relaxation at B\approx 4 mT, corresponding to the muon experiencing a quadrupolar resonance with the ^{11}B nucleus [38,39]. The additional relaxation seen in the ZF spectrum of the magnetic sample is quenched above \approx1 mT, indicating an internal field on the order of 0.1 mT arising from static magnetic moments (an applied longitudinal field B_{\rm LF}>10B_{\rm internal} rapidly quenches relaxation arising from static moments [26,37]).
+
+We have used density functional theory to determine the muon site in the unit cell. By mapping the electrostatic potential inside the unit cell, an approximate site can be obtained by examining the maxima of this potential. A potential maximum corresponds to a low energy associated with introducing a positive charge (for example the muon) and has been found to be a good approximation to more detailed relaxation calculations [40,41]. Our calculations imply the muon site is at (0.5,0.5,0.5) in the unit cell, in the center of the B_{12} cage.
+
+The Lorentzian relaxation in Eq. (3) likely arises due to static, dilute moments [42], and hence the relatively large \lambda_{\rm ZF} for the magnetic sample may be due to the formation of dilute nanodomains consisting of static moments associated with the Lu atoms. The value of \lambda_{\rm ZF}, combined with the LF required to suppress the relaxation, provide an approximate RMS field width of \approx0.1 mT associated with the Lorentzian field distribution produced by the dilute moments. Using dipolar field simulations, we can calculate the expected dipolar field at the muon site r_{\mu}. The field from moments \mathbf{m}_{i} and positions \mathbf{r}_{i} can be found via
+
+\[\mathbf{B}_{\rm dip}=\frac{\mu_{0}}{4\pi}\sum_{i}\frac{3(\mathbf{m}_{\mathbf{i }}\cdot\hat{\mathbf{r}}_{i\mu})\hat{\mathbf{r}}_{i\mu}-\mathbf{m}_{\mathbf{i} }}{|\mathbf{r}_{i\mu}|^{3}},\] (4)
+
+where \hat{\mathbf{r}}_{i\mu} is the normalized vector between the muon and the moment \mathbf{m}_{\mathbf{i}}. Using Eq. (4), we find domains of size \sim7 A give \lambda_{\rm ZF}/\gamma_{\mu}\approx 0.1 mT, where the moments associated with these domains is \approx0.8 \mu_{\rm B}.
+
+The observed differences in magnetism are supported by bulk magnetometry measurements of x=0.07, 0.17, and 0.8, as shown in Fig. 3(c). The data were fitted to a Curie-Weiss function with an additional constant background magnetization:
+
+\[M=M_{0}+n\mu_{0}\mu^{2}H/3k_{\rm B}T,\] (5)
+
+where \mu is the effective magnetic moment per formula unit, n is the number density, and \mu_{0}H=2 mT is the applied external field. We find that the moment per formula unit in the magnetic sample (\mu_{0.07}\approx 1.18\mu_{\rm B}; close to the moment size obtained from the dipole field calculations above) is significantly higher than for the nonmagnetic samples (\mu_{0.17}\approx 0.2\mu_{\rm B}, \mu_{0.8}\approx 0.1 \mu_{\rm B}).
+
+From these data, we postulate that the ZF signal observed in the nonmagnetic samples, which is insensitive to Lu^{3+} concentration, is dominated by B nuclei in the cages, similar to that observed in LuB_{12}[43]. In addition to this nuclear signal, the magnetic sample also contains static, disordered moments, which may potentially be associated with clusters of Lu^{3+}, similar to the phenomena discussed in Refs. [22]
+
+Figure 3: (a) Sample ZF-\muSR spectra in the superconducting state. (b) The field dependence of the relaxation for one ‘magnetic’ sample (x=0.07, orange) and one ‘nonmagnetic’ sample (x=0.8, blue). The measurements for x=0.07 were taken at 5 K and for x=0.8 at 0.7 K. (c) The temperature dependence of the magnetization per formula unit.
+
+  and [24]. As the apparent clustering effect is only present in one sample, we conclude that the differences in magnetism we observe are due to the detailed distribution of cations that is established during sample preparation, rather than an intrinsic effect linked to x.
+
+_Conclusion._ In summary, we have carried out \muSR and magnetometry measurements to probe the nature of the magnetism and superconductivity in the Lu_{x}Zr_{1-x}B_{12} family of superconductors. ZF-\muSR, LF-\muSR, and magnetometry measurements reveal a strong magnetic signal in one sample, which was thought to contain magnetic nanodomains, compared to those samples with no domains. We attribute this sample dependence to a clustering effect in which the distribution of Lu^{3+} may affect the formation of static moments. We find that the moments associated with this effect are of order 1 \mu_{\rm B} per formula unit. Scanning tunneling microscopy or scanning electron microscopy may provide further insights into this effect. TF-\muSR measurements revealed that the superconductivity was robust to these variations in magnetism. We find that the increase in T_{\rm c} associated with the decrease of x is also accompanied by a decrease in penetration depth and the likely formation of nodes in the superconducting gap function. There are many extensions to the models we have used to fit our data. While our minimal models fit the data well, we stress that more in-depth studies of this family of materials are required to further probe the gap symmetries observed in our \muSR data. The nodal superconductivity appears to occur even in the magnetic sample; we can deduce that the nodal gaps we observe are probably due to d-wave pairing, rather than s-wave pairing with accidental nodes: Impurity scattering (which is possible due to the variability in the magnetic properties of the sample) would broaden symmetry nodes and lift any accidental nodes, therefore removing the residual linear term in \lambda^{-2}. The unusual transition from nodal to gapped superconductivity is similar to that observed in iron pnictide superconductors, although we note that in the case of the pnictides, the formation of nodes in the superconducting gap is accompanied by a decrease in T_{\rm c} and a decrease in the superfluid density [34, 35]. Further study of the Lu_{x}Zr_{1-x}B_{12} family of compounds may provide additional insights into the mechanisms behind nodal-to-gapped crossovers in high temperature superconductors. It has recently become possible to synthesize samples of Lu_{x}Zr_{1-x}B_{12} with 0.17 <x< 0.8 [30], and our work emphasizes the need to probe the intermediate doping region in order to understand the full details of the crossover.
+
+_Acknowledgments._ We thank C. Topping and F. Lang for experimental assistance and M. Bristow and R. Fernandes for insightful discussions. F.K.K.K. thanks Lincoln College, Oxford, for a doctoral studentship. This study was supported by the program "Fundamental problems of high-temperature superconductivity" of the Presidium of the RAS. Part of this work was performed at the Science and Technology Facilities Council (STFC) ISIS Facility, Rutherford Appleton Laboratory, and part at S\muS, the Swiss Muon Source (PSI, Switzerland).
+
+## References
+
+* [1] J. Nagamatsu, N. Nakagawa, T. Muranaka, Y. Zenitani, and J. Akimitsu, Nature (London) **410**, 63 (2001).
+* [2] B. T. Matthias, T. H. Geballe, K. Andres, E. Corenzwit, G. W. Hull, and J. P. Maita, Science **159**, 530 (1968).
+* [3] Y. B. Kuzma, _Crystal Chemistry of Borides_ (Vysshaya Shkola, Lviv, Moscow, 1983).
+* [4] A. P. Duda, O. N. Khrykina, N. B. Bolotina, N. Y. Shitsevalova, V. B. Filipov, and N. E. Sluchanko, J. Alloys Compd. **692**, 535 (2017).
+* [5] I. R. Shein and A. L. Ivanovskii, Phys. Solid State **45**, 1429 (2003).
+* [6] B. Jager, S. Paluch, O. J. Zogat, W. Wolf, P. Herzig, V. B. Filipov, N. Shitsevalova, and Y. Paderno, J. Phys.: Condens. Matter **18**, 2525 (2006).
+* [7] J. Teyssier, A. B. Kuzmenko, D. van der Marel, F. Marsiglio, A. B. Liashenko, N. Shitsevalova, and V. Filipov, Phys. Rev. B **75**, 134503 (2007).
+* [8] H. Werheit, Y. Paderno, V. Filippov, V. Paderno, A. Pietraszko, M. Armbruster, and U. Schwarz, J. Solid State Chem. **179**, 2761 (2006).
+* [9] J. Teyssier, R. Lortz, A. Petrovic, D. van der Marel, V. Filippov, and N. Shitsevalova, Phys. Rev. B **78**, 134504 (2008).
+* [10] R. Lortz, Y. Wang, S. Abe, C. Meingast, Y. B. Paderno, V. Filippov, and A. Junod, Phys. Rev. B **72**, 024547 (2005).
+* [11] A. V. Rybina, K. S. Nemkovski, P. A. Alekseev, J.-M. Mignot, E. S. Clementyev, M. Johnson, L. Capogna, A. V. Dukhnenko, A. B. Lyshenko, and V. B. Filippov, Phys. Rev. B **82**, 024302 (2010).
+* [12] N. Sluchanko, S. Gavrilkin, K. Mitsen, A. Kuznetsov, I. Sannikov, V. Glushkov, S. Demishev, A. Azarevich, A. Bogach, A. Lyashenko, A. Dukhnenko, V. Filipov, S. Gabani, K. Flachbart, J. Vanacken, G. Zhang, and V. Moshchalkov, J. Supercond. Nov. Magn. **26**, 1663 (2013).
+* [13] N. Sluchanko, A. Bogach, N. Bolotina, V. Glushkov, S. Demishev, A. Dudka, V. Krasnorussky, O. Khrykina, K. Krasikov, V. Mironov, V. B. Filipov, and N. Shitsevalova, Phys. Rev. B **97**, 035150 (2018).
+* [14] K. Flachbart, S. Gabani, K. Gloos, M. Meissner, M. Opel, Y. Paderno, V. Pavlik, P. Samuely, E. Schuberth, N. Shitsevalova, K. Siemensmeyer, and P. Szabo, J. Low Temp. Phys. **140**, 339 (2005).
+* [15] D. Daghero, R. S. Gonnelli, G. A. Ummarino, A. Calzolari, V. Dellarocca, V. A. Stepanov, V. B. Filippov, and Y. B. Paderno, Supercond. Sci. Technol. **17**, S250 (2004).
+* [16] M. I. Tsindlekht, G. I. Leviev, I. Asulin, A. Sharoni, O. Millo, I. Felner, Y. B. Paderno, V. B. Filippov, and M. A. Belogolovskii, Phys. Rev. B **69**, 212508 (2004).
+* [17] V. A. Gasparov, N. S. Sidorov, and I. I. Zverkova, Phys. Rev. B **73**, 094510 (2006).
+* [18] P. W. Anderson, Phys. Rev. Lett. **3**, 325 (1959).
+* [19] A. A. Abrikosov and L. P. Gor'kov, Sov. Phys. JETP **12**, 337 (1961).
+* [20] A. V. Balatsky, I. Vekhter, and J. X. Zhu, Rev. Mod. Phys. **78**, 373 (2006).
+* [21] H. Alloul, J. Bobroff, M. Gabay, and P. J. Hirschfeld, Rev. Mod. Phys. **81**, 45 (2009).
+
+  * [22] N. E. Sluchanko, A. N. Azarevich, M. A. Anisimov, A. V. Bogach, S. Y. Gavrilkin, M. I. Gilmanov, V. V. Glushkov, S. V. Demishev, A. L. Khoroshilov, A. V. Dukhnenko, K. V. Mitsen, N. Y. Shitsevalova, V. B. Filippov, V. V. Voronov, and K. Flachbart, Phys. Rev. B **93**, 085130 (2016).
+* [23] N. Sluchanko, A. Azarevich, A. Bogach, S. Gavrilkin, V. Glushkov, S. Demishev, K. Mitsen, N. Shitsevalova, V. Filippov, S. Gabani, and K. Flachbart, Acta Phys. Polon. A **131**, 1036 (2017).
+* [24] N. Sluchanko, V. Glushkov, S. Demishev, A. Azarevich, M. Anisimov, A. Bogach, V. Voronov, S. Gavrilkin, K. Mitsen, A. Kuznetsov, I. Sannikov, N. Shitsevalova, V. Filipov, M. Kondrin, S. Gabani, and K. Flachbart, Phys. Rev. B **96**, 144501 (2017).
+* [25] S. J. Blundell, Contemp. Phys. **40**, 175 (1999).
+* [26] A. A. Yaouanc and P. D. de. Reotier, in _Muon Spin Rotation, Relaxation, and Resonance: Applications to Condensed Matter_ (Oxford University Press, Oxford, UK, 2011), p. 486.
+* [27] P. J. C. King, R. de Renzi, S. P. Cottrell, A. D. Hillier, and S. F. J. Cox, Phys. Scr. **88**, 068502 (2013).
+* [28] F. L. Pratt, Physica B: Condens. Matter **289-290**, 710 (2000).
+* [29] See Supplemental Material at http://link.aps.org/supplemental/10.1103/PhysRevB.98.094505 for further discussion of the nodal and gapped fitting and additional plots of the superconducting parameters.
+* [30] N. E. Sluchanko _et al._ (unpublished).
+* [31] E. H. Brandt, Phys. Rev. B **68**, 054506 (2003).
+* [32] B. S. Chandrasekhar and D. Einzel, Ann. Phys. (Berl.) **505**, 535 (1993).
+* [33] M. J. Graf, S. K. Yip, J. A. Sauls, and D. Rainer, Phys. Rev. B **53**, 15147 (1996).
+* [34] J.-P. Reid, A. Juneau-Fecteau, R. T. Gordon, S. Rene de Cotret, N. Doiron-Leyraud, X. G. Luo, H. Shakeripour, J. Chang, M. A. Tanatar, H. Kim, R. Prozorov, T. Saito, H. Fukazawa, Y. Kohori, K. Kihou, C. H. Lee, A. Iyo, H. Eisaki, B. Shen, H.-H. Wen, and L. Taillefer, Supercond. Sci. Technol. **25**, 084013 (2012).
+* [35] Z. Guguchia, A. Amato, J. Kang, H. Luetkens, P. K. Biswas, G. Prando, F. von Rohr, Z. Bukowski, A. Shengelaya, H. Keller, E. Morenzoni, R. Fernandes, and R. Khasanov, Nat. Commun. **6**, 8863 (2015).
+* [36] R. Kubo and T. Toyabe, in _Magnetic Resonance and Relaxation_, edited by R. Blinc (North-Holland, Amsterdam, 1967), p. 810.
+* [37] R. S. Hayano, Y. J. Uemura, J. Imazato, N. Nishida, T. Yamazaki, and R. Kubo, Phys. Rev. B **20**, 850 (1979).
+* [38] D. M. Maric, P. F. Meier, S. Vogel, S. F. J. Cox, and E. A. Davis, J. Phys.: Condens. Matter **3**, 9675 (1991).
+* [39] S. F. J. Cox, Z. Naturforsch. A **47**, 371 (1992).
+* [40] J. S. Moller, P. Bonfa, D. Ceresoli, F. Bernardini, S. J. Blundell, T. Lancaster, R. De Renzi, N. Marzari, I. Watanabe, S. Sulaiman, and M. I. Mohamed-Ibrahim, Phys. Scr. **88**, 068510 (2013).
+* [41] F. R. Foronda, F. Lang, J. S. Moller, T. Lancaster, A. T. Boothroyd, F. L. Pratt, S. R. Giblin, D. Prabhakaran, and S. J. Blundell, Phys. Rev. Lett. **114**, 017602 (2015).
+* [42] R. E. Walstedt and L. R. Walker, Phys. Rev. B **9**, 4857 (1974).
+* [43] G. Kalvius, D. Noakes, N. Marcano, R. Wippling, F. Iga, and T. Takabatake, Physica B **326**, 398 (2003).
+
+ 

@@ -1,0 +1,98 @@
+
+
+# Superconductivity and electronic instability at high pressure
+
+in Sc\({}_{5}\)Co\({}_{4}\)Si\({}_{10}\)-type compounds
+
+H. D. Yang and R. N. Shelton
+
+Ames Laboratory--U.S. Department of Energy and Department of Physics, Iowa State University, Ames, Iowa 50011
+
+H. F. Braun
+
+Departement de Physique de la Matiere Condensee, Universite de Geneve, CH-1211 Geneve 4, Switzerland
+
+29 July 1985; revised manuscript received 26 December 1985
+
+###### Abstract
+
+The variation of the superconducting transition temperature (_Tc_) with hydrostatic pressure up to 23.7 kbar is reported for eleven ternary silicides and germanides with the Sc\({}_{5}\)Co\({}_{4}\)Si\({}_{10}\)-type structure. Most of these compounds display a modest linear depression of _Tc_ with pressure (_dTc_/_dpc_ \(\sim\) 10\({}^{-5}\) K/bar); however, two materials, Lu\({}_{3}\)Ir\({}_{x}\)Si\({}_{10}\) and Lu\({}_{9}\)Rh\({}_{x}\)Si\({}_{10}\), undergo a discontinuous transformation to a state with a significantly higher _Tc_ above a critical pressure of about 20 kbar. For Lu\({}_{3}\)Ir\({}_{x}\)Si\({}_{10}\), the pressure-enhanced _Tc_ of 9.12 K is the highest transition temperature reported for this class of compounds.
+
+## 1 Introduction
+
+Ternary rare-earth transition-metal silicides and germanides crystallize in a great variety of structure types.[1] The occurrence of superconductivity in these compounds is also widespread with at least 11 distinct structure types having reported superconductors.[2] One intriguing property of some of these superconducting ternary silicides is their ability to incorporate elements from the traditionally magnetic 3\(d\) series of Fe, Co, and Ni while retaining their superconducting properties.[3]\({}^{-}\)[5] Previous work[6] has shown how modest pressures can affect the relative phase stability of superconductivity and an antiferromagnetically ordered state in Tm\({}_{2}\)Fe\({}_{3}\)Si\({}_{5}\). In this brief report we present experimental evidence of hydrostatic pressure affecting the relative stability of the low-_Tc_ and high-_Tc_ states of Lu\({}_{3}\)Ir\({}_{x}\)Si\({}_{10}\) and Lu\({}_{8}\)Rh\({}_{x}\)Si\({}_{10}\). In the case of Lu\({}_{3}\)Ir\({}_{x}\)Si\({}_{10}\), the effect of pressure is sufficiently dramatic to result in a record high transition temperature for this structure of 9.12 K. In addition, we report the discovery of another superconducting compound with this structure, Lu\({}_{8}\)Rh\({}_{x}\)Si\({}_{10}\), and the pressure dependence of _Tc_ for all 11 teraries in this class of materials.
+
+## 2 Experimental Methods
+
+All samples were prepared from high-purity elements in a manner described previously.[7] Lattice parameters were determined by the method of least squares using 20 to 24 reflections including an internal silicon standard (_a_ = 5.430 83 A). No impurity reflections were observed. The pressure dependence of _Tc_ was determined using a piston-cylinder-type hydrostatic pressure clamp.[8] For each sample, the ambient pressure _Tc_ was redetermined after the series of high-pressure measurements. In every instance, the original value was reproduced within experimental error indicating complete reversibility of the pressure effects on _Tc_.
+
+## 3 Results and Discussion
+
+Results of the hydrostatic pressure measurements of _Tc_ for five ternary silicides and five ternary germanides are displayed in Figs. 1 and 2, respectively. Below 20 kbar, all ten compounds exhibit a linear dependence of _Tc_ with pressure. Only Lu\({}_{3}\)Ir\({}_{x}\)Ge\({}_{10}\) shows a slight rise in _Tc_ with pressure, while for all of the other samples _Tc_ is depressed by the application of external pressure. Two distinct transitions are observed for the sample Lu\({}_{3}\)Rh\({}_{4}\)Si\({}_{10}\) at 21 kbar.
+
+The data for each of these ten compounds, as well as
+
+Figure 1: Pressure dependence of the superconducting transition temperature for five ternary silicides with the Sc\({}_{5}\)Co\({}_{4}\)Si\({}_{10}\)-type structure. Lines are least-squares fits to the data.
+
+ the linear portion of the data for the two samples of Lu\({}_{3}\)Ir\({}_{4}\)Si\({}_{10}\) shown in Fig. 3, were fitted by the method of least squares to obtain the values of \(dT_{e}/dp\) listed in Table 1. In the absence of any transformation, the effect of pressure on \(T_{e}\) is quite modest with values of \(dT_{e}/dp\) ranging from \(0.21\times 10^{-5}\) K/bar to \(-3.42\times 10^{-5}\) K/bar.
+
+In order to examine the volume effect on \(T_{e}\), we begin with an expression for \(T_{e}\) based on the standard electron-phonon interaction [9]
+
+\[T_{e} = \Theta e^{- 1/\alpha}\ ,\] (1)
+
+where \(\Theta\) is an average phonon frequency and \(g\) is the net attractive electron-electron interaction parameter which gives rise to superconductivity and depends on the repulsive Coulomb parameter \(\mu^{*}\) and the attractive electron-phonon parameter \(\lambda\). The general form of Eq. (1) has been retained in subsequent refinements of the BCS theory.[10][12] A successful specific form for \(\Theta\) and \(g\) was given by McMillan[10] based on a solution of the Eliashberg equations for the spectrum of Nb and yields
+
+\[\Theta = \Theta_{D}/1.45,\ \ g = \frac{\lambda - \mu^{*}(1 + 0.62\lambda)}{1.04(1 + \lambda)}\ ,\] (2)
+
+where \(\Theta_{D}\) is the Debye temperature. Utilizing this form, the volume dependence of \(T_{e}\) may be written in terms of the Gruneisen parameter \(\gamma_{G} = - d\ln\Theta_{D}/d\ln V\) and the volume dependence of \(\lambda\) by differentiating Eq. (1) and taking \(d\mu^{*}/dV = 0\):
+
+\[-\frac{B}{T_{e}}\ \frac{dT_{e}}{dp} = \frac{d\ln T_{e}}{d\ln V} = - \gamma + \ln\left[\frac{\Theta_{D}}{1.45T_{e}}\ \right]\left[\frac{\lambda(1 + 0.38\mu^{*})}{(1 + \lambda)[\lambda - \mu^{*}(1 + 0.62\lambda)]}\ \right]\frac{d\ln\lambda}{d\ln V}\ ,\] (3)
+
+where \(B\) is the bulk modulus. We employ Eq. (3) to compute the values of \(d\ln\lambda/d\ln V\) listed in Table 1. In addition to our measured values of \(dT_{e}/dp\), we take the experimental bulk modulus of 1370\(\pm\)70 kbar determined by Swenson and Anderson[13] for Lu\({}_{3}\)Ir\({}_{4}\)Si\({}_{10}\) below any pressure-induced transformation and typical transition-metal values[14] for \(\gamma_{G}\) of 2\(\pm\)1 and for \(\mu^{*} = 0.10\). Values for \(\lambda\) are obtained from Eqs. (1) and (2) using the experimental \(T_{e}\)'s. Debye temperatures are known from low-temperature heat capacity measurements[15] for Sc\({}_{5}\)Co\({}_{4}\)Si\({}_{10}\), Sc\({}_{5}\)Rh\({}_{4}\)Si\({}_{10}\), and Sc\({}_{5}\)Ir\({}_{4}\)Si\({}_{10}\). Estimates of the Debye temperatures for the other components were made by scaling these measured values by the square root of the ratio of the masses of the known and unknown compounds and
+
+Figure 3: Pressure dependence of the superconducting transition temperature for two samples of Lu\({}_{3}\)Ir\({}_{4}\)Si\({}_{10}\). Numbers next to the data points represent the order in which the data were taken for each sample.
+
+Figure 2: Pressure dependence of the superconducting transition temperature for five ternary germanides with the Sc\({}_{5}\)Co\({}_{4}\)Si\({}_{10}\)-type structure. Lines are least-squares fits to the data.
+
+  are listed in Table 1. Our calculated values of \(d\) ln_l_/_d_ ln_V_ fall between 0 and 3, while the corresponding values of _ph_ =_d_ ln_g_/_d_ ln_V_ lie between 0.2 and 2.0, with the majority in the range 1.3+-0.3. These values of _ph_ support the assumption that _d_-band electrons make an important contribution to the occurrence of superconductivity in this class of compounds.16
+
+The most remarkable effect of pressure on the superconducting state of these materials occurs for the compound Lu3Ir4Si10 and is apparent in the data of Fig. 3. For two distinct samples, we observe a discontinuous, but reversible increase in \(T_{e}\) from a value of 3.7 K to a value in excess of 9 K. The complete reversibility of this transformation from low-_T__e_ to high-_T__e_ material is illustrated by the order in which the data were taken. For one sample at one specific pressure (point 7), there are two discrete transitions separated by more than 5 K indicating that only a portion of the sample has transformed. This is similar to the Lu3Rh4Si10 sample shown in Fig. 1. The partial transformation to the high-_T__e_ phase may be attributed to small composition variations within a sample which are present in bulk samples, even following the annealing process. A second factor which could broaden the transition into the high-_T__e_ phase is a pressure gradient within the high-pressure cell estimated to be <=1 kbar.
+
+The exact nature of this pressure-induced transformation and the reason for its dramatic effect on superconductivity are yet to be determined. Isothermal bulk modulus measurements13 taken up to 26 kbar at four different temperatures ranging from 293 to 14 K reveal no volume anomaly within the sensitivity of the measurement of D_V_/_V_~1/10%. This indicates that the transformation responsible for the striking enhancement of \(T_{e}\) is probably electronic in nature with no major effect on the cohesive energy of the crystal.
+
+Results of two alloy studies on (Lu1-_x_Sc_x)3Ir4Si10 and Lu5(Ir1-_x_Rh_x)4Si10 shown in Fig. 4 provide additional evidence as to the origin of this transformation. A rapid initial increase in \(T_{e}\) occurs with the substitution of either Sc or Rh into Lu5Ir4Si10, regardless of whether the other end member in the series has a higher \(T_{e}\) than Lu5Ir4Si10.
+
+We have also observed a similar enhancement of \(T_{e}\) when Ir is replaced by Co. These data indicate that the ambient pressure \(T_{e}\) of Lu5Ir4Si10 is depressed from an expected value based on its isostructural neighbor compounds. Powder x-ray diffraction experiments performed down to 21 K reveal no detectable deviation from the primitive tetragonal symmetry observed at room temperature, thus reducing the possibility of a crystallographic phase transformation. The nonlinear behavior of \(T_{e}\) versus composition for both curves in Fig. 4 occurs while the room-temperature lattice parameters and unit-cell volume follow Vegard's Law.
+
+A comparison between the volume dependence of \(T_{e}\) in these alloys and the volume dependence of \(T_{e}\) for Lu5Ir4Si10 due to external pressures is shown in Fig. 5.
+
+Figure 4: Superconducting transition temperature versus alloy concentration for the pseudoternary systems: (Lu1−_x_Sc_x)3Ir4Si10 and (Lu5Ir1−_x_Rh_x)4Si10.
+
+  The sharp jump in \(T_{e}\) due to pressure which occurs at a critical volume of about \(V_{e}\)  639 A [3] is smeared into a broader curve when volume changes are caused by alloying on the rare-earth sublattice. The data presented in Figs. 4 and 5 may be understood if one postulates the existence of a sharp feature in the electronic density of states of Lu\({}_{3}\)Ir\({}_{4}\)Si\({}_{10}\) which lies just above the Fermi energy. A reduction in unit-cell volume results in an increase in \(E_{F}\), moving the Fermi level into this sharp feature. Application of hydrostatic pressure is a particularly clean method of obtaining a volume reduction since no atomic disorder or chemical effects are introduced. Thus, the extremely sudden strong increase in \(T_{e}\) at \(V_{e}\) may reflect this sharp structure in the electronic density of states. In the case of the pseudoternary alloys, although \(T_{e}\) is ultimately limited by the values of the end member compounds (Sc\({}_{5}\)Ir\({}_{4}\)Si\({}_{10}\) and Lu\({}_{8}\)Rh\({}_{4}\)Si\({}_{10}\)), the critical temperature does increase rapidly at low concentrations, consistent with minimal disorder being favorable for higher \(T_{e}\) values. Sublattice disorder due to alloying causes a broadening of any sharp electronic feature in the density of states. This broadening effect is evident by comparing the (Lu\({}_{1-x}\)Sc\({}_{x}\))\({}_{1}\)Ir\({}_{4}\)Si\({}_{10}\) data to the pressure enhanced \(T_{e}\) of the pure Lu\({}_{3}\)Ir\({}_{4}\)Si\({}_{10}\) in Fig. 5. The sharp increase in \(T_{e}(p)\) of Lu\({}_{3}\)Ir\({}_{4}\)Si\({}_{10}\) at \(V_{e}\) is smeared into a broader curve of \(T_{e}\) versus \(V\) in the alloy system. The difference in \(T_{e}\) at \(V_{e}\) between the pressure-induced high \(T_{e}\) state of Lu\({}_{3}\)Ir\({}_{4}\)Si\({}_{10}\) and the alloy (Lu\({}_{0.7}\)Sc\({}_{0.3}\))\({}_{5}\)Ir\({}_{4}\)Si\({}_{10}\) is approximately 1.4 K and provides a rough measure of the effect of sublattice disorder on optimizing \(T_{e}\). Theoretical electronic band-structure calculations would be of great value in understanding the experimental properties of this class of materials.
+
+###### Acknowledgements.
+
+ Ames Laboratory is operated for the U.S. Department of Energy by Iowa State University under Contract No. W-7405-Eng-82. Research at Ames was supported by the Director for Energy Research, Office of Basic Energy Sciences, Office of Energy Research of the U.S. Department of Energy Grant No. WPAS-KC-02-02-02. Research of Geneva was supported by the Swiss National Science Foundation.
+
+## References
+
+* [1] E. Parthe and B. Chabot, in _Handbook on the Physics and Chemistry of Rare Earths_, edited by K. A. Gschneidner, Jr. and L. Eyring (North-Holland, Amsterdam, 1984), Vol. 6, p. 113.
+* [2] H. F. Braun, J. Less-Common Met. **100**, 105 (1984).
+* [3] H. F. Braun and C. U. Segre, Solid State Commun. **35**, 735 (1980).
+* [4] H. F. Braun, Phys. Lett. **75A,** 386 (1980).
+* [5] C. U. Segre and H. F. Braun, Phys. Lett. **85A,** 372 (1981).
+* [6] C. B. Vining and R. N. Shelton, Solid State Commun. **54**, 53 (1985).
+* [7] C. B. Vining, R. N. Shelton, H. F. Braun, and M. Pelizzone, Phys. Rev. B **27**, 2800 (1983).
+* [8] M. J. Johnson and R. N. Shelton, Solid State Commun. **52**, 839 (1984).
+* [9] J. Bardeen, L. N. Cooper, and J. R. Schrieffer, Phys. Rev. **108**, 1175 (1957).
+* [10] W. L. McMillan, Phys. Rev. **167**, 331 (1968).
+* [11] P. B. Allen and R. C. Dynes, Phys. Rev. B **12**, 905 (1975).
+* [12] A. Birnboim, Phys. Rev. B **14**, 2857 (1976).
+* [13] C. A. Swenson and M. S. Anderson (private communication).
+* [14] K. A. Gschneidner, Jr., _Solid State Physics_, edited by F. Seitz and D. Turnbull (Academic, New York, 1964), Vol. 16, p. 275.
+* [15] L. S. Hausermann-Berg and R. N. Shelton, Physica **135B**, 400 (1985).
+* [16] F. Olsen, in _Low Temperature Physics--LT 13_, edited by K. D. Timmerhaus, W. J. O'Sullivan, and E. F. Hammel (Plenum, New York, 1974), Vol. 3, p. 27.
+
+Figure 5: Superconducting transition temperature versus unit-cell volume for ternary silicides with the Sc\({}_{5}\)Co\({}_{4}\)Si\({}_{10}\)-type structure. The dashed line indicates the behavior of \(T_{e}\) under pressure for the pure ternary Lu\({}_{3}\)Ir\({}_{4}\)Si\({}_{10}\) (see Fig. 3).
+
+ 

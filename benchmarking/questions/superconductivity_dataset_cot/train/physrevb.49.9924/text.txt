@@ -1,0 +1,228 @@
+
+
+# Measurements of surface impedance, London penetration depth, and coherence length
+
+in Y-Ba-Cu-O films at microwave frequencies
+
+H. Jiang, T. Yuan, H. How, A. Widom, and C. Vittoria
+
+Northeastern University, Boston, Massachusetts 02115
+
+D. Chrisey and J. Horwitz
+
+Naval Research Laboratory, Washington, D.C. 20375
+
+A. Drehman
+
+Rome Laboratory, Hanscom Air Force Base, Massachusetts 01731
+
+###### Abstract
+
+We have improved a microwave self-resonant technique to measure surface resistance \(R_{s}\) directly and surface inductance \(L_{s}\) indirectly. For films prepared by the laser ablation technique we observed that \(R_{s}\) at 21 GHz decreased by about three orders of magnitude as the temperature decreased from 90 to 80 K reaching a low value of 4.9 x 10-4 O. We measured the London penetration depth \(l\) and coherence length \(x\), and found that both \(l\) and \(x\) are anisotropic. Their values depended on the direction of the microwave electric field relative to the \(c\) axis. We deduced the value of \(l\)1(0) to be about 1800 A, \(l\)1(86.5) about 8000 A, and \(l\)2(86.5) about 26 000 A, where \(l\)1(0) is the penetration depth (as \(T\) - 0 K) for the electromagnetic electric field parallel and \(l\)1 perpendicular to the film plane. In addition \(x\)1 was determined to be 129 A and \(x\)1 equal to 40 A at 86.5 K. The anisotropic factor \(g\) is about 3.
+
+## I Introduction
+
+Since the discovery of superconductivity in high-_T__c_ materials,1 the measured value of the surface resistance \(R_{s}\) of Y-Ba-Cu-O at microwave frequencies has decreased steadily.2-7 The reduction in \(R_{s}\) is a reflection on the improved quality of films and measurement capabilities. The implication from recent measurements2,5-7 is that the intrinsic limits of \(R_{s}\) and related parameters are within the limit of measurability with present techniques. As such, we believe that it is timely now to infer fundamental properties of the superconducting state of Y-Ba-Cu-O from measurements of \(R_{s}\) and related parameters.
+
+In this paper we improve upon a microwave self-resonant (MSR) technique to measure \(R_{s}\) directly and \(L_{s}\), the surface inductance, indirectly. From \(R_{s}\) and \(L_{s}\), we deduce the London penetration depth \(l\), and the coherence length \(x\). Also, electron paramagnetic resonance (EPR) techniques are used to deduce \(l\) and \(x\). We compare the MSR technique with conventional coplanar waveguide (CPW) resonator and waveguide cavity techniques in the measurements of \(R_{s}\). The microwave measurements were correlated with dc field measurements using a vibrating sample magnetometer (VSM) apparatus. These sets of measurements provided a consistent set of measurements which formed the basis of our study: the measurement of the fundamental length scales of Y-Ba-Cu-O in the superconducting state.
+
+We determined that both \(l\) and \(x\) are anisotropic. Their values depended on the direction of the microwave electric field relative to the \(c\) axis. We determined the anisotropy factor to be about 3. This result was in good agreement with other published results.8-10,31,32 The significant information reported here is the quantitative measure of both \(l\) and \(x\). It appears that the value of \(l\)1(0) is about 1800 A, where \(l\)1 is defined as the penetration depth parallel to the film plane or perpendicular to the \(c\) axis. \(l\)1(86.5) is measured by us to be equal to 26 000 A.
+
+We also report \(x\)1 and \(x\)1, where \(x\)1 is defined as the coherence length applicable for the electric field (or current) applied along the _a_-_b_ plane and \(x\)1 is along the \(c\) axis. At \(T\) = 86.5 K, \(x\)1 = 129 A and \(x\)1 = 40 A. The microwave techniques used here are not able to deduce \(x\) below 77 K, since the \(B\) field internal to the film was approximately constant below this temperature. The coherence length usually is deduced from the measurement of upper critical magnetic field _H__c_2.8-10 However, _H__c_2 of Y-Ba-Cu-O is extremely high; the measurement requires special and difficult techniques.
+
+In Sec. II, we discuss the sample preparation and characterization. In Sec. III we discuss our measurement technique to measure \(R_{s}\) and \(L_{s}\). Comparison of our techniques with others is given in Sec. IV. The experimental results are discussed in Sec. V, followed by discussions and conclusions.
+
+## II Sample preparation and characterization
+
+Pulsed laser ablation was used to deposit films of YBa2Cu3O7-b. The deposition technique may be briefly described. The output of a Lambda Physik model 315 excimer laser operating at 248 nm (KrF) was focused with a 50-cm-focal-length lens to an energy density of 1.5 J/cm2 onto a stoichiometric YBa2Cu3O7-8 target. The targets were commercially purchased and were specified to be 99.999% pure. The ablated material was deposited onto a heated (100)-oriented MgO substrate positioned ~4 cm from the target. The substrate was held at 750 degC in 300 mTorr of oxygen atmosphere during the deposition and then quenched to room temperature in 1 atm of oxygen. The deposition rate was ~1 A/pulse over a 1-cm2 substrate area. The film thickness was measured using a Dektak mechanical transducer, and typically we obtained ~5000-A-thick films. The room-temperature resistivity of the films was about 300 _m_tD cm. The transition temperature was measured using the four-probe method, and typical \(T_{c}\) was about 90 K; the transition width was about 0.5 K. These results were fairly reproducible from run to run. In our characterization studies, as many as 10-156 sample films were used for our investigation. We defined \(T_{c}\) as the temperature at which the resistance was half of the onset value. The dc transport measurements were made inductively using a multiturn coil pressed against the film to induce surface currents. Changes in the coil's inductance and the third harmonic of the driving voltage were used to determine \(J_{c}\). [11] The current densities exceeded 106 A/cm2 at 77 K. X-ray diffraction indicated that the films were oriented with the \(c\) axis normal to the substrate surface. The reader is referred to Ref. [12] for actual display of x-ray data of our film. Pole figure analysis of (012) peaks, for similar films, indicated a continuum of _a_-_b_ in-plane misorientations peaked strongly at 90deg and a much lesser extent at 45deg. Scanning tunneling microscope (STM) analysis indicates a surface roughness of the order of <500 A (see Fig. 1).
+
+## III Microwave Experimental Techniques
+
+### Microwave self-resonant technique
+
+This technique was initially reported by Skrehot and Chang [13] to measure the ratio of surface resistance of a superconductor and characteristic impedance of a waveguide at resonant frequency. In Ref. [13] an analysis was developed only at the resonant frequency. We have extended the analysis to be applicable at resonance as well as off resonance. As a result, \(R_{s}\), \(L_{s}\), \(C\), and \(Z\)0 were determined uniquely from our analysis, where \(R_{s}\) is the surface resistance of the superconducting strip, \(L_{s}\) is the surface inductance due to the superconducting screening currents, \(C\) is the capacitance due to the gap between the strip and the waveguide, and \(Z\)0 is the characteristic impedance of the waveguide. From these parameters the penetration depth and coherence length of the superconducting films were deduced. A thin-film strip (4.24 x 0.9 mm2) of Y-Ba-Cu-O was placed in a waveguide whose cross section was 10.67 x 4.32 mm2 as shown in Fig. 2. The thickness of the film was typically 0.5 _m_m. The equivalent circuit of the strip and waveguide transmission line is also shown in Fig. 2. A typical gap value was 0.04 mm, and it corresponded to \(C\)  10-12 \(f\). No systematic study was made to relate the gap width with \(C\). However, besides the gap the dielectric constant of the substrate on which the Y-Ba-Cu-O film was deposited affected the value of \(C\). We empirically varied the width of the gap until the transmission microwave resonance was observed between 18 and 26 GHz, the fundamental band of propagation in the waveguide.
+
+The inductance \(L\) was a combination of the superconductor intrinsic inductance \(L_{s}\) and the self inductance \(L\)0, calculated approximately as14
+
+Figure 2: Schematic of microwave self-resonant experiment and equivalent circuit of the MSR measurement.
+
+Figure 1: STM micrograph of a superconducting film. The vertical and horizontal axes are in units of mm; each division is 200 nm.
+
+  \[L_{0} \simeq \frac{Z_{0}}{2\pi f_{0}}\frac{a}{b}\frac{f}{\sqrt{f_{c}^{2} -f^{2}}}\left[\sin\frac{3\pi}{2}\left[\frac{\sin x}{x}\right]\right]^{2}\left[1 - \frac{w}{a}\right]\ ,\]
+
+where
+
+\[x = \frac{3\pi}{2}\frac{w}{a}\ ,\ \ f_{c} = \frac{3c}{2a}\ ,\]
+
+and
+
+\[w = 0.9\ \mathrm{mm}\ ,\ \ a = 10.67\ \mathrm{mm}\ ,\ \ b = 4.32\ \mathrm{mm}\ .\]
+
+\(f_{0}\) is the transmission resonant frequency, and \(c\) is the speed of light. A typical value of \(L_{0}\) was ~10-11 H. In comparison to \(L_{0}\), \(L_{s}\) was about a factor of 100 lower.
+
+From the equivalent circuit of Fig. 2, the reflection \(S_{11}\) and transmission \(S_{21}\) coefficients may be calculated as follows:
+
+\[S_{11} = -\left[\frac{2Z}{Z_{0}} + 1\right]^{-1} = |S_{11}|e^{j\phi_{11}}\]
+
+and
+
+\[S_{21} = \left[\frac{Z_{0}}{2Z} + 1\right]^{-1} = |S_{21}|e^{j\phi_{21}}\ ,\]
+
+where \(\phi_{11}\) and \(\phi_{21}\) are the phase angles of \(S_{11}\) and \(S_{21}\). For the equivalent circuit of Fig. 2,
+
+\[Z = R_{s} + i\left[\omega L - \frac{1}{\omega C}\right]\ ;\]
+
+putting (4) into (3), we get
+
+\[S_{21} = \frac{(\omega/\omega_{0})R_{s}\sqrt{C/L} \ + i[(\omega/\omega_{0})^{2} - 1\ ]}{(\omega/\omega_{0})(R_{s} + Z_{0}/2)\sqrt{C/L}\ + i[(\omega/\omega_{0})^{2} - 1\ ]}\ ,\]
+
+where
+
+\[\omega_{0} = \frac{1}{\sqrt{LC}}\]
+
+is the transmission resonant frequency. Letting
+
+\[y = \frac{\omega}{\omega_{0}}\ ,\]
+
+\[\gamma^{2} = \frac{C}{L}R_{s}^{2}\ ,\]
+
+and
+
+\[\eta^{2} = \frac{C}{L}\left[\frac{Z_{0}}{2}\right]^{2}\ ,\]
+
+(5) can be written as
+
+\[S_{21} = \frac{\gamma y + i(y^{2} - 1)}{(\gamma + \eta)y + i(y^{2} - 1)}\ .\]
+
+The amplitude and phase are, respectively (we used \(|S_{21}|^{2}\) instead of \(|S_{21}|\) for simplifying the fitting procedure),
+
+\[P = |S_{21}|^{2} = \frac{\gamma^{2}y^{2} + (y^{2} - 1)^{2}}{y^{2}(\gamma + \eta)^{2} + (y^{2} - 1)^{2}}\ ,\]
+
+\[\phi_{21} = \tan^{- 1}\left[\frac{1 - y^{2}}{\gamma y}\ \right] - \tan^{- 1}\left[\frac{1 - y^{2}}{(\gamma + \eta y)}\ \right]\ .\]
+
+By fitting the experimental curves, the parameters \(\gamma\) and \(\eta\) and, therefore \(R_{s}\) and \(L\) can be deduced. At resonant frequency, the imaginary part vanishes; hence \(Z = R_{s}\). \(R_{s}\) may be determined from (3) directly,
+
+\[R_{s} = \frac{Z_{0}}{2[1/|S_{21}| - 1\ ]}\ .\]
+
+It is noted that in (13) there is no other loss parameter in the expression. Loss tangents of the substrate have minimal effects on the measurement of \(R_{s}\). For example, we have included realistic loss tangents for a typical substrate material of MgO or SrTiO\({}_{3}\), etc., and calculated \(|S_{21}|\). The correction to \(R_{s}\) [using (13)] from the loss tangent contribution was calculated to be about 0.04% at 80 K (using MgO as an example).
+
+The surface impedance \(Z\) for a finite-thickness strip is determined from
+
+\[Z = - jZ_{\infty}\cot\left[\frac{\omega\mu_{0}d}{Z_{\infty}}\right]\ .\]
+
+The subscript \(\infty\) is to denote that as \(d \rightarrow \infty\), \(Z \rightarrow Z_{\infty}\);
+
+\[Z_{\infty} = R_{s} + i\left[\omega L - \frac{1}{\omega C}\ \right]\ .\]
+
+As in any development of a new technique, we calibrated the measurement with standard materials, such as films of copper, silver, etc. We placed strips of copper, silver, aluminum, and bulk Y-Ba-Cu-O in the waveguide for the purpose of determining \(Z_{0}\) and to measure the conductivity of each material. \(Z_{0}\) determined from calibration runs was 43 \(\Omega\). Conceivably, \(L_{0}\) could have been determined from the calibration runs, since \(L_{0}\) was not a property of the superconducting material. However, this would require identical strip dimensions and substrate material for both Y-Ba-Cu-O and the reference material. Instead, we determined \(L_{0}\) from \(f_{0}\) and line-shape fitting of \(|S_{21}|\) versus frequency for each run under consideration.
+
+The limitation of this technique was dependent on the sensitivity of the HP8510 network analyzer. For example, by amplifying the transmitted signal with a 20-dB amplifier, the sensitivity of the technique can be improved so that a surface resistance as small as 20 \(\mu\Omega\) can be measured.
+
+### EPR absorption technique
+
+Normally, in an EPR measurement technique, \(dP/dH\) is measured,[15] where \(P\) is the microwave power absorbed by the sample in question and \(H\) is the magnetic field. The EPR technique was used[15] in the past to measure \(dP/dH\) at low-\(H\) fields on superconducting high-\(T_{c}\) materials. This technique was often referred to in the litera  ture[16] as the "magnetically modulated microwave absorption," (MMMA) technique. We introduced this technique to measure _dP_ /_dH_ in 1987 (Ref. 16) in order to measure \(T_{c}\) of very fine particle of Y-Ba-Cu-O. In that experiment _dP_ /_dH_ was measured as a function of temperature. Since the introduction of that technique, we have developed an analysis of the line shape of _dP_ /_dH_ as a function of \(H\) to deduce \(l\)1/_ξ_1 and \(l\)1. A superconducting sample of Y-Ba-Cu-O was placed inside a microwave cavity and allowed to cool down below \(T_{c}\). By sweeping the external magnetic field between +-200 Oe, _dP_ /_dH_ was measured as a function of \(H\).
+
+For a single fluxoid core region in a type-II superconductor, \(P\)1 is given as
+
+\[P_{1} = \sigma_{n}E_{0}^{2}\pi\xi^{2}t\ ,\]
+
+where \(s_{n}\) is the normal conductivity and \(E\)0 is the external microwave electric field along the fluxoid axis (which is normal to the film). _ξ_ is the coherence length, and \(t\) is the film thickness. For a long cylinder, such as a fluxoid in which the diameter to length ratio is small, the external and internal electric fields are equal, since the depolarization factor is zero. If there are more fluxoids and one can assume a square lattice of fluxoids, then the total power absorbed is simply
+
+\[P = NP_{1} = {{A} \over {D^{2}}}P_{1}\ ,\]
+
+where \(A\) is the total area of the film and \(D\) is the flux lattice constant. As it is well known,[17] \(D\) is related to \(B\), the magnetic flux density, by the relationship
+
+\[{{1} \over {D^{2}}} = {{|B|} \over {\phi_{0}}}\ .\]
+
+Thus Eq. (17) becomes
+
+\[P = (A\,\sigma_{0}E_{0}^{2}\pi t/\phi_{0})\xi^{2}|B| = C_{1}\xi^{2}|B|\ .\]
+
+In the superconducting region, the microwave electric field, relative to \(E\)0, is reduced by a factor of _s__s_/_ω_θ  measure the appropriate microwave quantity, what is the lowest value of \(R_{s}\) that one can deduce from a given technique?
+
+For techniques similar to the CPW technique, such as stripline and microstrip, the reader is referred to Refs. 19-21. Surface resistances determined from these techniques are dependent on the quality factor \(Q\) and frequency, \(R_{s} \sim \!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!  sured with respect to the resonant frequency at 4 K (see Fig. 4). \(L_{s}\) at 4 K can also be deduced from the surface resistance \(R_{s}\). Since \(R_{s} = \frac{1}{2}\mu_{0}^{2}\sigma_{n}\omega^{2}\lambda^{3}\) and \(X_{s} = \omega L_{s} = \omega\mu_{0}\lambda\),
+
+\[L_{s} = \left[ \frac{2\mu_{0}R_{s}}{\omega^{2}\sigma_{n}} \right]^{1/3}.\] (31)
+
+This served as a reference point for the rest of the data of \(L_{s}\) at higher temperatures.
+
+In Fig. 5, \(R_{s}\) and \(L_{s}\) are plotted as a function of temperature, \(R_{s}\) decreased by about three orders of magnitude as the temperature decreased from 90 to 80 K, reaching a low value of 4.9 x 10-4 O. At 15 K, \(R_{s}\) was 2.7 x 10-4 O, the lowest value measured using the MSR method. If we extrapolate5\(R_{s}\) to lower frequencies, we find that \(R_{s}\) is equivalent to 100 \(\mu\Omega\) at 10 GHz and 8.7 \(\mu\Omega\) at 2.95 GHz. The temperature is assumed to be equal to 77 K. However, at 15 K, the extrapolated values would be 61 \(\mu\Omega\) at 10 GHz and 5.3 \(\mu\Omega\) at 2.95 GHz. A comparison with other measurements of \(R_{s}\) is given in Tables 2 and 3. We note that our measured values of \(R_{s}\) exhibit an oscillating behavior with temperature, although \(L_{s}\) does not. We do not attribute the oscillatory behavior of \(R_{s}\) to an intrinsic process, since lower values of \(R_{s}\) have been measured at lower frequencies (10 GHz) (Refs. 3 and 4) and no oscillatory behavior of \(R_{s}\) was observed.
+
+Assuming that the surface impedance is of the form
+
+\[Z_{s} = R_{s} + j\omega L_{s} = j\omega\mu_{0}\left[ \lambda^{2} - j\left( \frac{\rho_{n}}{\mu_{0}\omega} \right) \right]^{1/2},\] (32)
+
+we can solve for \(\lambda\) and \(\rho_{n}\) and obtain the relations:
+
+\[\lambda = \frac{1}{\mu_{0}\omega}\sqrt{X_{s}^{2} - R_{s}^{2}}\] (33)
+
+and
+
+\[\rho_{n} = \frac{2}{\mu_{0}\omega}X_{s}R_{s}\ .\] (34)
+
+In Fig. 6 we plot \(\lambda\) as a function of temperature. Typical  
+
+\begin{table}
+\begin{tabular}{c c c c c c c} Technique & \(R_{s}\) (\(\mu\Omega\)) & \(L_{s}\) (\(10^{-13}h\)) & \(\lambda\) (Å) & \(f\) (GHz) & Sample & Reference \\
+480a & 2.33 & 1800 & 21 & & our \\ \(A\) & 108b & & & 10 & film & MSR \\
+9b & & & & 2.95 & & technique \\ \(B\) & 60 & & & 18.7 & film & 7 \\ \(C\) & 56 & & 1400 & 10 & film & 3 \\ \(D\) & 15 (1.7 K) & & & 2.95 & crystal & 5 \\ \(D\) & \(<\) 400 & & 1600 tion scales as the \(B\) field or the volume of the normal region. Shown in Fig. 7 are measured and calculated \(dP/dH\) as a function of \(H\). In this fit, we deduced \(\lambda = 26\,000\) A and \(\xi = 40\) A at 86.5 K. However, a clear distinction is to be pointed out here. Data for \(\lambda\) generated in MSR and CPW resonator measurements assume the microwave electric field to be parallel to the film plane. We denote them as \(\lambda_{\parallel}\). For the MMMA case, the data are denoted as \(\lambda_{\parallel}\), since the microwave electric field is parallel to the \(c\) axis. The same definitions for \(\xi_{\parallel}\) and \(\xi_{\perp}\) apply. The anisotropy in \(\lambda\) and \(\xi\) was most conveniently described by an anisotropic Ginzburg-Landau parameter \(\kappa\), and it was defined as [27, 28]
+
+\[\kappa_{\perp} = \lambda_{\parallel}/\xi_{\parallel}\ ,\] (36) \[\kappa_{\parallel} = (\lambda_{\parallel}\lambda_{\perp})^{1/2}/(\xi_{\parallel}\xi_{ \parallel})^{1/2}\ .\] (37)
+
+The anisotropy of these parameters are determined by the anisotropy factor \(\gamma\),
+
+\[\kappa_{\parallel} = \gamma\kappa_{\perp}\ ,\] (38) \[\xi_{\parallel} = \gamma\xi_{\perp}\ ,\] (39)
+
+and
+
+\[\lambda_{\  we have tried to obtain consistent quantitative results. Specifically, we have determined that for the current density **J**, the direction perpendicular to the \(c\) axis, \(\xi_{\parallel}\), is 129 A at 86.5 K and extrapolates to 25 A at 0 K if we use the relationship \(\xi(T) = \xi(0)(1 - T/T_{c})^{- 1/2}\). For **J** along the \(c\) axis, \(\xi_{\perp}\) is 40 A at 86.5 K and extrapolates to 8 A at 0 K.
+
+A summary of the measured characterizing parameters of a Y-Ba-Cu-O film are given in Table 4.2 in comparison with others' results. Umezawa _et al_. [8] and Worthington, Gallagher, and Dinger [9] measured the penetration depth and coherence length in both the \(c\) and \(a\)-\(b\) directions. From their results, one concluded an anisotropic factor \(\gamma\) of 3\(-\)5; however, their measured penetration depths \(\lambda\)'s at 0 K were smaller than the \(\lambda\)'s measured by others [31]\({}^{- 35}\) and us. Harshman _et al_. [31] measured the penetration depth along both directions, but no coherence length data were obtained. \(\lambda_{\parallel}\) and \(\xi_{\parallel}\) reported in Refs. [32]\({}^{- 34}\) were consistent; they measured \(\lambda_{\parallel}\) = 1400 A and \(\xi_{\parallel}\) = 20 \(\sim\) 22 A. However, no data along the \(c\)-axis direction were available for comparison.
+
+We do not believe that the above values of \(\xi\)'s we obtained represent their intrinsic limit. This is because we measured \(\lambda_{\parallel}\) \(\simeq\) 1800 A at 4 K; however, many groups [31]\({}^{- 33}\) have reported \(\lambda_{\parallel}\)(0) to be about 1400 A. If we assume the latter value of \(\lambda_{\parallel}\) to be intrinsic, we extrapolate the following values for \(\xi_{\parallel}\) and \(\xi_{\perp}\), respectively, at 0 K: 19 and 6 A.
+
+###### Acknowledgements.
+
+ We would thank Professor J. Krim for taking the STM picture. We also thank the NSF for supporting this work.
+
+## References
+
+* [1] K. W. Blazey, K. A. Muller, J. G. Bednorz, and W. Berlinger, Phys. Rev. B **36**, 7241 (1987).
+* [2] D. Wu, W. Kennedy, C. Zahopoulos, and S. Sridhar, Appl. Phys. Lett. **55**, 698 (1989).
+* [3] R. C. Taber, Rev. Sci. Instrum. **61**, 2200 (1990).
+* [4] P. Merchant, R. Jacowitz, K. Tibbs, R. Taber, and S. Laderman, Appl. Phys. Lett. **60**, 763 (1992).
+* [5] D. A. Bonn, P. Dosanjh, R. Liang, and W. N. Hardy, Phys. Rev. Lett. **68**, 2390 (1992).
+* [6] D. Miller, L. Richards, S. Etemad, A. Inam, T. Vankatesan, B. Dutta, X. Wu, C. Eom, T. Geballe, N. Newman, and B. Cole, Appl. Phys. Lett. **59**, 2326 (1991).
+* [7] N. Klein, U. Dahne, U. Poppe, N. Tellmann, K. Urban, S. Orbach, S. Hensen, G. Muller, and H. Piel, J. Superconduct. **5**, 195 (1992).
+* [8] A. Umezawa, G. Crabtree, J. Liu, T. Moran, S. Malik, L. Nunez, W. Kwok, and C. Swoers, Phys. Rev. B **38**, 2834 (1988).
+* [9] T. Worthington, W. Gallagher, and T. Dinger, Phys. Rev. Lett. **59**, 1160 (1987).
+* [10] U. Welp, W. Kwok, G. Crabtree, K. Vandervoort, and J. Liu, Phys. Rev. Lett. **62**, 1908 (1989).
+* [11] J. M. Claassen, M. E. Reeves, and R. J. Soulen, Rev. Sci. Instrum. **63**, 996 (1991).
+* [12] D. B. Chrisey, J. S. Horwitz, H. S. Newman, M. E. Reeves, B. C. Weaver, K. S. Grabowski, and G. P. Summers, J. Superconduct. **4**, 57 (1991).
+* [13] M. K. Skrehot and K. Chang, IEEE Trans. Microwave Theory Tech. MTT-**38**, 434 (1990).
+* [14] R. L. Eisenhart, IEEE Trans. Microwave Theory Tech. MTT-**24**, 987 (1976).
+* [15] R. Karim, R. Seed, S. Oliver, A. Widom, and C. Vittoria, IEEE Trans. Magn. **MAG-25**, 3221 (1989).
+* [16] R. Karim, S. Oliver, C. Vittoria, G. Balestrino, S. Barbanera, and P. Paroli, J. Superconduct. **1**, 81 (1988).
+* [17] D. Saint-James, E. J. Thomas, and G. Sarma, _Type II Superconductivity_ (Pergamon, New York, 1969).
+* [18] H. How, R. Seed, C. Vittoria, D. Chrisey, J. Horwitz, C. Carosella, and V. Folen, IEEE Trans. Microwave Theory Tech. MTT-**40**, 1668 (1992).
+* [19] D. Oates, A. Anderson, and Mankiewich, J. Superconduct. **3**, 251 (1991).
+* [20] M. R. Namordi, A. Mogro-Campero, L. G. Turner, and D. W. Hogue, IEEE Trans. Microwave Theory Tech. MTT-**39**, 1468 (1991).
+* [21] N. Klein, _High Temperature Superconductors_, edited by J. Pouch _et al_. (Trans. Tech., Aedermannsdorf, Switzerland, 1992).
+* [22] S. Sridhar and W. Kennedy, Rev. Sci. Instrum. **59**, 531 (1988).
+* [23] A. Portis, D. Cooke, and F. Gray, J. Superconduct. **3**, 297 (1991).
+* [24] J. Marteus, V. Hietalin, D. Ginley, T. Zipperian, and G. Hohenwarter, Appl. Phys. Lett. **58**, 2543 (1991).
+* [25] M. Tinkham, _Introduction to Superconductivity_ (McGraw-Hill, New York, 1975).
+* [26] R. Karim, C. Vittoria, A. Widom, D. Chrisey, and J. Horwitz, J. Appl. Phys. **69**, 4891 (1991).
+* [27] P. de Trey and Suso Gygax, J. Low Temp. Phys. **11**, 421 (1973).
+* [28] D. Tilly, Proc. Phys. Soc. London **85**, 1177 (1965).
+* [29] J. Clem, Supercond. Sci. Technol. **5**, s33 (1992).
+* [30] T. Geballe and J. Hulm, Science **239**, 367 (1988).
+* [31] D. Harshman, L. Schneemeyer, J. Waszczak, G. Aeppli, R. Cava, B. Batlogg, and L. Rupp, Phys. Rev. B **39**, 851 (1989).
+* [32] D. Bishop, P. Gammel, D. Huse, and C. Murray, Science **255**, 165 (1992).
+* [33] L. Krusin-Elbaum, R. Greene, F. Holtzberg, A. Malozemoff, and Y. Yeshurun, Phys. Rev. Lett. **62**, 217 (1989).
+* [34] R. Cava, B. Batlogg, R. van Dover, D. Murphys, S. Sunshine, T. Siegrist, J. Remeika, E. Rietman, S. Zahurak, and G. Espinosa, Phys. Rev. Lett. **58**, 1676 (1987).
+* [35] A. Fiory, A. Hebard, P. Mankiewich, and R. Howard, Phys. Rev. Lett. **61**, 1419 (1988).
+
+  Figure 1: STM micrograph of a superconducting film. The vertical and horizontal axes are in units of mm; each division is 200 nm.
+
+ 
