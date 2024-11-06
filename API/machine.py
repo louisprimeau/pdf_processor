@@ -46,10 +46,25 @@ def home():
 
 @app.route('/activate_model/<prompt>', methods = ['GET', 'POST'])
 def activate(prompt):
+
+    x = len(messages)
+    for i in range(x):
+        
+        messages.pop(-1)
     
     messages.append({"role": "system", "content": prompt})
 
     return "True"
+
+@app.route('/upload/<path>')
+def upload(path):
+    path = path.replace("uquq", "/")
+    if os.path.isfile(path):
+        file = open(path, 'r').read()
+        messages.append({'role': "user", "content": file})
+        return "True"
+    else:
+        return "False"
 
 @app.route('/request/<request>', methods = ['GET', 'POST'])
 def request(request):
@@ -74,12 +89,25 @@ def clear():
     
     return "True"
 
-@app.route("/clearish")
-def clearish():
+@app.route("/clear_sys")
+def clear_sys():
     new = []
     for i, ob in enumerate(messages):
         if "system" == ob['role']:
             new.append(ob)
+    x = len(messages)
+    for i in range(x):
+        messages.pop(-1)
+
+    for i in new:
+        messages.append(i)
+
+    return "True"
+
+@app.route("/clear_chain/<length>")
+def clear_chain(length):
+    new = messages[0:(int(length))*2 + 2]
+    
     x = len(messages)
     for i in range(x):
         messages.pop(-1)

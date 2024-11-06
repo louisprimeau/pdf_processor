@@ -1,5 +1,11 @@
 from Louis import Louis
-import json, os
+from pathlib import Path
+from utility import jsonl_read, makedir
+
+import os
+
+path_root = Path(__file__).parents[0]
+root = str(Path(__file__).parents[0])
 
 #TODO: Tasks
 '''
@@ -9,59 +15,42 @@ import json, os
 - BLEU score
 - make 40 for prompts
 '''
+# Assigns Root Directory
+directory = root
 
-firectory = 'neifn'
 sys = """You are an assistant for answering questions. You are given the extracted parts of a long document and a question. Don't make up an answer. Here is the document: """
-
-# Calls the API I created 
-API = Louis("http://127.0.0.1:7777", sys)
-
-def makedir(path):
-    while os.path.exists(path):
-        index = path.split('_')
-        bit = index[-1]
-        index.pop(-1)
-        path = [a + '_' for a in index]
-        path = "".join(path)
-        path += str(int(bit) + 1)
-    os.mkdir(path)
-    
-# Creates the list of questions
-def jsonl_read(file):
-    j = open(file, "r")
-
-    questions = []
-    for i in j.readlines():
-        x = json.loads(i)
-        x['doi'] = x['doi'][8:]
-        questions.append(x)
-
-    j.close()
-    return questions
 
 # Initialize File Structure
 test_name = "Test_1"
-results_path = f"{firectory}/results/{test_name}"
+results_path = f"{directory}/results/{test_name}"
 makedir(results_path)
 
 print("Files Initialized Contacting Louis")
 
+# Calls the API I created 
+API = Louis("http://127.0.0.1:7777", sys)
+
 questions = jsonl_read(f"{directory}/questions/test.jsonl")
+chains = jsonl_read(f"{directory}/chains/chains.jsonl")
 
 # Querys API with questions
 for i, val in enumerate(questions):
 
+    # Opens Files again to prevent atomic bomb
     qa = open(f'{results_path}/results.txt', "a")
     error = open(f'{results_path}/errors.txt', 'a')
 
+    # Clears all prompts except system
     print(f"Beginning with {val['doi']}")
-    API.clearish()
+    API.clear_sys()
 
     qs = val['messages']
 
-    entry = {'paper': val['doi'], 'chain': [] 'requests': []}
-    filepath = f"{directory}questions/test/{val['doi']}"
-
+    # Intializes the data point in jsonl
+    entry = {'paper': val['doi'], 'logs': []}
+    filepath = f"{directory}/questions/test/{val['doi']}"
+    
+    # Uploads file to API
     try:
         if os.path.isfile(f"{filepath}/text_converted.txt"):
             API.upload(f"{filepath}/text_converted.txt")
@@ -72,20 +61,38 @@ for i, val in enumerate(questions):
     except:
         error.write(f"{filepath}\n")  
         print("File Upload Error")
-
     
-    for q in qs:
+    # Large nested loops of order Chains(prompts -> questions(points))
+    for c in chains:
+        # Clears everything except the first 2 entrys (paper and sys) from API cache
+        API.clear_chain(1)
+        prompts = c['prompts']
+        chain_num = c["chain"]
+        point = {"num": c["chain"], "chain": [], "requests": []}
+        print(f"Initializing Chain {chain_num}")
 
-        print("Asking Question")
-        API.clearish()
+        # Asks prompts and stores data
+        for p in prompts:
+            response = API.request(p)
+            chain_point = {'prompt': p, 'response': response}
+            point['chain'].append(chain_point)
 
-        response = API.request(q['question']) 
-        print("Question Answered")
-        answer = q['answer']
+        # Asks questions and stores data
+        for q in qs:
+            # Clears previous question for API cache
+            API.clear_chain(len(prompts))
+            print("Asking Question")
 
-        entry['requests'].append({'question': q['question'], 'answer': q['answer'], 'response': response})
-    print(f"Finished with {val['doi']}\n")
-    
+            response = API.request(q['question']) 
+            print("Question Answered")
+            answer = q['answer']
+
+            point['requests'].append({'question': q['question'], 'answer': q['answer'], 'response': response})
+        entry['logs'].append(point)
     qa.write(f"{entry}\n")
     qa.close()
     error.close()
+
+    print(f"Finished with {val['doi']}\n")
+    
+        

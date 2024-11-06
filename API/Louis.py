@@ -10,21 +10,22 @@ class Louis():
             raise("Model not initilized properly")
 
     def upload(self, file):
-        file = open(file, "r").read()
-
-        requests.get(f"{self.home}/request/{file}")
+        file = file.replace("/", "uquq")
+        requests.get(f"{self.home}/upload{file}")
 
     def request(self, message):
         x = requests.get(f"{self.home}/request/{message}").text
 
         return x 
 
-    def clearish(self):
-        requests.get(f"{self.home}/clearish")
+    def clear_sys(self):
+        requests.get(f"{self.home}/clear_sys")
 
     def clear(self):
-    
         requests.get(f"{self.home}/clear")
+    
+    def clear_chain(self, length):
+        requests.get(f"{self.home}/clear_chain/{length}")
             
     def getmessages(self):
         x = requests.get(f"{self.home}/getmessages").text
