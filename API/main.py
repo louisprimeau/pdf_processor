@@ -1,5 +1,8 @@
 from Louis import Louis
 from pathlib import Path
+from nltk.translate.bleu_score import sentence_bleu
+from nltk.tokenize import WhitespaceTokenizer
+from rouge_score import rouge_scorer
 from utility import jsonl_read, makedir
 
 import os
@@ -9,16 +12,14 @@ root = str(Path(__file__).parents[0])
 
 #TODO: Tasks
 '''
-- Add support for Chains
-- Add support for Quantitatize loss to respond to answers
 - Add support for PDF interpretation with the OCR
-- BLEU score
-- make 40 for prompts
 '''
 # Assigns Root Directory
 directory = root
 
 sys = """You are an assistant for answering questions. You are given the extracted parts of a long document and a question. Don't make up an answer. Here is the document: """
+chain_file="gpt4ochain.jsonl"
+question_file="test.jsonl"
 
 # Initialize File Structure
 test_name = "Test_1"
@@ -30,8 +31,8 @@ print("Files Initialized Contacting Louis")
 # Calls the API I created 
 API = Louis("http://127.0.0.1:7777", sys)
 
-questions = jsonl_read(f"{directory}/questions/test.jsonl")
-chains = jsonl_read(f"{directory}/chains/chains.jsonl")
+questions = jsonl_read(f"{directory}/questions/{question_file}")
+chains = jsonl_read(f"{directory}/chains/{chain_file}")
 
 # Querys API with questions
 for i, val in enumerate(questions):
@@ -79,6 +80,7 @@ for i, val in enumerate(questions):
 
         # Asks questions and stores data
         for q in qs:
+
             # Clears previous question for API cache
             API.clear_chain(len(prompts))
             print("Asking Question")
@@ -87,7 +89,21 @@ for i, val in enumerate(questions):
             print("Question Answered")
             answer = q['answer']
 
-            point['requests'].append({'question': q['question'], 'answer': q['answer'], 'response': response})
+            # Evaluates String Matching Score
+            tk = WhitespaceTokenizer()
+            reference = tk.tokenize(q["answer"])
+            prediction = tk.tokenize(response)
+
+            # Bleu Score
+            bleu_score = sentence_bleu([reference], prediction)
+
+            # Rouge Score
+            scorer = rouge_scorer.RougeScorer(['rouge1', 'rougeL'], use_stemmer=True)
+            scores = scorer.score(q["answer"], response)
+            rouge1 = scores['rouge1'].fmeasure
+            rougeL = scores['rougeL'].fmeasure
+
+            point['requests'].append({'question': q['question'], 'answer': q['answer'], 'response': response, 'bleu': bleu_score, 'rouge1':  rouge1, 'rougeL': rougeL})
         entry['logs'].append(point)
     qa.write(f"{entry}\n")
     qa.close()
