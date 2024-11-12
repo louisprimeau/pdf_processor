@@ -29,6 +29,20 @@ print(float(sentence_bleu([reference], candidate, weights =[1])))
 
 print(rouge1)
 print(rougeL)'''
+sys = """You are an assistant for answering questions. You are given the extracted parts of a long document and a question. Don't make up an answer. Here is the document: """
+chain_file="testchains.jsonl"
+question_file="test.jsonl"
+'''
+# Initialize File Structure
+test_name = "Test_1"
 
-print(len(os.listdir("/home/jdendy/pdf_processor/API/questions/test")))
-print(167 * 30)
+print("Files Initialized Contacting Louis")
+
+# Calls the API I created 
+API = Louis("http://127.0.0.1:7777", sys)
+
+print(API.upload("/home/jdendy/pdf_processor/API/questions/test/physrevb.29.2664/text.txt"))
+
+print(API.getmessages())'''
+
+print(os.path.exists("erverv"))

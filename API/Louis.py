@@ -11,13 +11,19 @@ class Louis():
 
     def upload(self, file):
         file = file.replace("/", "uquq")
-        requests.get(f"{self.home}/upload{file}")
+        r = requests.get(f"{self.home}/upload/{file}").text
+        return r
 
     def request(self, message):
         x = requests.get(f"{self.home}/request/{message}").text
 
         return x 
-
+    
+    def zero_shot(self, message):
+        message = message.replace("/", "uquq")
+        x = requests.get(f"{self.home}/zero_shot/{message}").text
+        return x
+        
     def clear_sys(self):
         requests.get(f"{self.home}/clear_sys")
 

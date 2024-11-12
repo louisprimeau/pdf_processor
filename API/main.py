@@ -5,7 +5,7 @@ from nltk.tokenize import WhitespaceTokenizer
 from rouge_score import rouge_scorer
 from utility import jsonl_read, makedir
 
-import os
+import os, json
 
 path_root = Path(__file__).parents[0]
 root = str(Path(__file__).parents[0])
@@ -18,13 +18,13 @@ root = str(Path(__file__).parents[0])
 directory = root
 
 sys = """You are an assistant for answering questions. You are given the extracted parts of a long document and a question. Don't make up an answer. Here is the document: """
-chain_file="gpt4ochain.jsonl"
+chain_file="testchains.jsonl"
 question_file="test.jsonl"
 
 # Initialize File Structure
 test_name = "Test_1"
 results_path = f"{directory}/results/{test_name}"
-makedir(results_path)
+results_path = makedir(results_path)
 
 print("Files Initialized Contacting Louis")
 
@@ -38,7 +38,7 @@ chains = jsonl_read(f"{directory}/chains/{chain_file}")
 for i, val in enumerate(questions):
 
     # Opens Files again to prevent atomic bomb
-    qa = open(f'{results_path}/results.txt', "a")
+    qa = open(f'{results_path}/results.jsonl', "a")
     error = open(f'{results_path}/errors.txt', 'a')
 
     # Clears all prompts except system
@@ -48,20 +48,23 @@ for i, val in enumerate(questions):
     qs = val['messages']
 
     # Intializes the data point in jsonl
-    entry = {'paper': val['doi'], 'logs': []}
+    entry = {"paper": val['doi'], "logs": []}
     filepath = f"{directory}/questions/test/{val['doi']}"
     
     # Uploads file to API
-    try:
-        if os.path.isfile(f"{filepath}/text_converted.txt"):
-            API.upload(f"{filepath}/text_converted.txt")
-            print("File Succesfully Uploaded")
+   
+    state = API.upload(f"{filepath}/text_converted.txt")
+    if state == "True":
+            print("Uploaded Succesfully")
+    else:
+        state = API.upload(f"{filepath}/text.txt")
+        if state == "True":
+            print("File Succesfully uploaded")
         else:
-            API.upload(f"{filepath}/text.txt")
-            print("File Succesfully Uploaded")
-    except:
-        error.write(f"{filepath}\n")  
-        print("File Upload Error")
+            error.write(filepath)
+            print("File Failed")
+      
+    
     
     # Large nested loops of order Chains(prompts -> questions(points))
     for c in chains:
@@ -75,7 +78,7 @@ for i, val in enumerate(questions):
         # Asks prompts and stores data
         for p in prompts:
             response = API.request(p)
-            chain_point = {'prompt': p, 'response': response}
+            chain_point = {"prompt": p, "response": response}
             point['chain'].append(chain_point)
 
         # Asks questions and stores data
@@ -103,9 +106,12 @@ for i, val in enumerate(questions):
             rouge1 = scores['rouge1'].fmeasure
             rougeL = scores['rougeL'].fmeasure
 
-            point['requests'].append({'question': q['question'], 'answer': q['answer'], 'response': response, 'bleu': bleu_score, 'rouge1':  rouge1, 'rougeL': rougeL})
+            # LLM Score
+            llm_assesment = API.zero_shot(f"String 1 is {answer} and String 2 is {response}")
+
+            point['requests'].append({"question": q['question'], "answer": q['answer'], "response": response, "bleu": bleu_score, 'rouge1':  rouge1, 'rougeL': rougeL, "LLM": llm_assesment})
         entry['logs'].append(point)
-    qa.write(f"{entry}\n")
+    qa.write(json.dumps(entry) + "\n")
     qa.close()
     error.close()
 

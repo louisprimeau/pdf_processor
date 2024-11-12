@@ -11,6 +11,8 @@ def makedir(path):
         path += str(int(bit) + 1)
     os.mkdir(path)
 
+    return path
+
 # Creates the list of questions
 def jsonl_read(file):
     j = open(file, "r")

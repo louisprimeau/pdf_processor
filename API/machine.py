@@ -56,20 +56,32 @@ def activate(prompt):
 
     return "True"
 
-@app.route('/upload/<path>')
-def upload(path):
-    path = path.replace("uquq", "/")
-    if os.path.isfile(path):
-        file = open(path, 'r').read()
-        messages.append({'role': "user", "content": file})
+@app.route('/upload/<request>', methods = ["GET", "POST"])
+def upload(request):
+    request = request.replace("uquq", "/")
+    state = os.path.exists(request)
+    if state:
+        file = open(request, 'r').read()
+        messages.append({'role': "user", "content": str(file)})
         return "True"
     else:
         return "False"
+    
 
 @app.route('/request/<request>', methods = ['GET', 'POST'])
 def request(request):
+    request = request.replace("uquq", "/")
     messages.append({"role": "user", "content": request})
     response = pipe(messages, max_new_tokens=1000)[0]['generated_text'][-1]
+    messages.append(response)
+
+    return  response['content']
+
+@app.route('/zero_shot/<question>', methods = ['GET', 'POST'])
+def zero_shot(question):
+    zero = [{"role": "sys", "content": "You are machine to compare two strings. Compare them in regards to how similar the information contatined in them is the higher the better. Only return one integer between 0 and 100. Do not return instructions, decriptions, or code. Only return one integer"}]
+    zero.append({"role": "user", "content": "Return the comparison integer only of: " + question})
+    response = pipe(zero, max_new_tokens=1000)[0]['generated_text'][-1]
     messages.append(response)
 
     return  response['content']
