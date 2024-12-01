@@ -1,9 +1,10 @@
 import matplotlib.pyplot as plt  
 import numpy as np
 from utility import *
-
-results_path = "/home/jdendy/pdf_processor/API/results/Test_2/results.jsonl"
+test = 2
 paper_analyzed = "physrevb.50.4144"
+results_path = f"/home/jdendy/pdf_processor/API/results/Test_{test}/results.jsonl"
+
 
 q = jsonl_read(results_path)
 
@@ -22,10 +23,9 @@ for i in range(num_questions):
     plt.xlabel("Chain Number")
     plt.ylabel("LLM Score 1-100")   
     score_array = [j['requests'][i]['LLM'] for j in paper['logs']]
-    print(score_array)
     chain_array = [j['num'] for j in paper['logs']]    
     plt.plot(chain_array , score_array)
-    plt.savefig(f"/home/jdendy/pdf_processor/API/results/Test_2/Question_{i}.png")
+    plt.savefig(f"/home/jdendy/pdf_processor/API/results/Test_{test}/{paper_analyzed}_Question_{i}.png")
     
     
 

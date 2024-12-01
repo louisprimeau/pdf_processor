@@ -1,6 +1,6 @@
 from Louis import Louis
 from pathlib import Path
-from utility import jsonl_read, makedir
+from utility import jsonl_read, makedir, E2E
 import nltk
 from nltk.translate.bleu_score import sentence_bleu
 from nltk.tokenize import WhitespaceTokenizer
@@ -29,7 +29,8 @@ print(float(sentence_bleu([reference], candidate, weights =[1])))
 
 print(rouge1)
 print(rougeL)'''
-sys = """You are an assistant for answering questions. You are given the extracted parts of a long document and a question. Don't make up an answer. Here is the document: """
+
+sys = '''You are an assistant for answering questions. You are given the extracted parts of a long document and a question. Don't make up an answer. Here is the document: '''
 chain_file="testchains.jsonl"
 question_file="test.jsonl"
 '''
@@ -45,4 +46,10 @@ print(API.upload("/home/jdendy/pdf_processor/API/questions/test/physrevb.29.2664
 
 print(API.getmessages())'''
 
-print(os.path.exists("erverv"))
+#print(os.path.exists("erverv"))
+
+
+# Calls the API I created 
+API = Louis("http://127.0.0.1:7777", sys)
+
+print(API.E2E("yes", "no this is coming together now"))

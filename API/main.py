@@ -17,8 +17,9 @@ root = str(Path(__file__).parents[0])
 # Assigns Root Directory
 directory = root
 
-sys = """You are an assistant for answering questions. You are given the extracted parts of a long document and a question. Don't make up an answer. Here is the document: """
-chain_file="testchains.jsonl"
+sys = """You are an assistant for answering questions. You are given the extracted parts of a long document and a question. Don't make up an answer. Be very concise and avoid wordy responses. """
+chain_file="gpt4ochain.jsonl"
+#chain_file="testchains.jsonl"
 question_file="test.jsonl"
 
 # Initialize File Structure
@@ -27,6 +28,9 @@ results_path = f"{directory}/results/{test_name}"
 results_path = makedir(results_path)
 
 print("Files Initialized Contacting Louis")
+with f open(f"{results_path}//sys.txt", "a"):
+    f.write(sys)
+    f.close()
 
 # Calls the API I created 
 API = Louis("http://127.0.0.1:7777", sys)
@@ -97,19 +101,21 @@ for i, val in enumerate(questions):
             reference = tk.tokenize(q["answer"])
             prediction = tk.tokenize(response)
 
-            # Bleu Score
-            bleu_score = sentence_bleu([reference], prediction)
-
             # Rouge Score
             scorer = rouge_scorer.RougeScorer(['rouge1', 'rougeL'], use_stemmer=True)
             scores = scorer.score(q["answer"], response)
-            rouge1 = scores['rouge1'].fmeasure
+            rouge2 = scores['rouge2'].fmeasure
             rougeL = scores['rougeL'].fmeasure
+
+            # reference: https://arxiv.org/abs/2308.04624
+            #E2E
+            
+            
 
             # LLM Score
             llm_assesment = API.zero_shot(f"String 1 is {answer} and String 2 is {response}")
 
-            point['requests'].append({"question": q['question'], "answer": q['answer'], "response": response, "bleu": bleu_score, 'rouge1':  rouge1, 'rougeL': rougeL, "LLM": llm_assesment})
+            point['requests'].append({"question": q['question'], "answer": q['answer'], "response": response, "bleu": bleu_score, 'rouge2':  rouge2, 'rougeL': rougeL, "LLM": llm_assesment})
         entry['logs'].append(point)
     qa.write(json.dumps(entry) + "\n")
     qa.close()

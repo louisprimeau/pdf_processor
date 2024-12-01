@@ -18,6 +18,13 @@ class Louis():
         x = requests.get(f"{self.home}/request/{message}").text
 
         return x 
+
+    def E2E(self, str1, str2):
+        str1 = str1.replace("/","uquq")
+        str2 = str2.replace("/", "uquq")
+        score = requests.get(f"{self.home}/E2E/{str1}/{str2}").text
+
+        return score
     
     def zero_shot(self, message):
         message = message.replace("/", "uquq")

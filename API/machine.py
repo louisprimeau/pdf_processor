@@ -21,7 +21,10 @@ bnb_4bit_quant_type="nf4",
 bnb_4bit_compute_dtype=torch.bfloat16
 )
 
-tokenizer = AutoTokenizer.from_pretrained(model_id)
+tokenizer = AutoTokenizer.from_pretrained(pretrained_model_name_or_path = model_id,
+                                          padding = True,
+                                          pad_token= "[PAD]")
+
 
 model = AutoModelForCausalLM.from_pretrained(
 model_id,
@@ -79,7 +82,7 @@ def request(request):
 
 @app.route('/zero_shot/<question>', methods = ['GET', 'POST'])
 def zero_shot(question):
-    zero = [{"role": "sys", "content": "You are machine to compare two strings. Compare them in regards to how similar the information contatined in them is the higher the better. Only return one integer between 0 and 100. Do not return instructions, decriptions, or code. Only return one integer"}]
+    zero = [{"role": "sys", "content": "You are machine to compare two strings. Compare how similar the information contatined in them is. the higher the better. Penalize wordy responese. Only return one integer between 0 and 100. Do not return instructions, decriptions, or code. Only return one integer"}]
     zero.append({"role": "user", "content": "Return the comparison integer only of: " + question})
     response = pipe(zero, max_new_tokens=1000)[0]['generated_text'][-1]
     messages.append(response)
@@ -128,6 +131,19 @@ def clear_chain(length):
         messages.append(i)
 
     return "True"
+
+@app.route("/E2E/<str1>/<str2>")
+def E2E(str1, str2):
+    str1 = str1.replace("uquq", "/")
+    str2 = str2.replace("uquq", "/")
+    tok = tokenizer([str1,str2], padding="longest")
+    vec1 = torch.tensor(tok['input_ids'][0]).unsqueeze(0)
+    vec2 = torch.tensor(tok['input_ids'][1]).unsqueeze(0)
+    emb1 = model(vec1)[0].squeeze()
+    emb2 = model(vec2)[0].squeeze()
+    #cos = torch.nn.CosineSimilarity(dim=1)
+
+    return ""#str(cos(emb1, emb2))
 
 if __name__=='__main__':
     app.run(port=7777)

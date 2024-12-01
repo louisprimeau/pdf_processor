@@ -1,4 +1,6 @@
+import torch
 import os, json
+from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig, pipeline
 
 
 def makedir(path):
@@ -28,3 +30,20 @@ def jsonl_read(file):
 
     j.close()
     return questions
+
+def E2E(str1, str2, model):
+    model_sig='8B'
+    model_id = "meta-llama/Meta-Llama-3.1-{}-Instruct".format(model_sig)
+    tokenizer = AutoTokenizer.from_pretrained(model_id)
+
+    str1 = tokenizer.encode(str1)
+    str2 = tokenizer.encode(str2)
+    print(str1)
+
+    output = model(str1)[0].squeeze()
+    # only grab output of CLS token (<s>), which is the first token
+    print(output[0])
+    '''
+    cos = torch.nn.CosineSimilarity(dim=1)
+    a = 0
+    print(cos(emb1.mean(axis=a), emb2.mean(axis=a)))'''
