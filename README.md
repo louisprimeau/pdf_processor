@@ -38,3 +38,6 @@ Some example scripts for working with publisher APIs to collect papers. They are
 chat/
 Simple streamlit chat
 ![image](https://github.com/user-attachments/assets/f76bf78d-3abd-4bd3-ba13-c700e9122d5b)
+
+API/
+This loads a LLama3 int memory and reads. It runs an API that is then called in main.py. It is used to mass analyze physics papers with corresponding chains and questions and return all data into a jsonl. It is then ran through a post processing tool to display all evaluation metrics.
