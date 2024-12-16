@@ -1,3 +1,7 @@
+# Author : Jackson Dendy 
+# Last Update : 12/16/2024
+# Description : Creates all plots and evaluation metrics to assess the efficacy the main.py file
+
 import matplotlib.pyplot as plt  
 import numpy as np
 from utility import *

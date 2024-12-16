@@ -1,16 +1,23 @@
+# Author : Jackson Dendy 
+# Last Update : 12/16/2024
+# Description : Creates API using Flask. Running this file will intialize the model and enable the use of the rest of the files
+# in this folder.
+
 from flask import *
 import transformers
 from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig, pipeline
 import torch
 import numpy as np
 import json, sys, os
+import nltk
+from rake_nltk import Rake
 
-
+## Initializes App using Flask
 app = Flask(__name__)
 app.secret_key = b'oi_Q))o{7Q,<lH0zf*fndNJUjf>.Uk4J)s0aDawB$!YZhGciacj-~?B4/hUSt..'
 app.permanent = True
 
-
+## Intializes Llama 3.3 Model
 model_sig='8B'
 model_id = "meta-llama/Meta-Llama-3.1-{}-Instruct".format(model_sig)
 
@@ -49,7 +56,18 @@ def home():
 
 @app.route('/activate_model/<prompt>', methods = ['GET', 'POST'])
 def activate(prompt):
-
+    '''Activates model and appends message list with system prompt
+        
+        Parameters
+        ----------
+        
+        prompt : str
+            System prompt to define models purpose
+            
+        Returns
+        -------
+        str
+        '''
     x = len(messages)
     for i in range(x):
         
@@ -61,6 +79,19 @@ def activate(prompt):
 
 @app.route('/upload/<request>', methods = ["GET", "POST"])
 def upload(request):
+    '''Turns a text file into a string and appends it to message list
+        
+        Parameters
+        ----------
+        
+        request : str
+            .txt file path 
+            
+        Returns
+        -------
+        : str
+            If file is found it returns true and if not found returns false
+        '''
     request = request.replace("uquq", "/")
     state = os.path.exists(request)
     if state:
@@ -73,6 +104,19 @@ def upload(request):
 
 @app.route('/request/<request>', methods = ['GET', 'POST'])
 def request(request):
+    '''Prompts model with a question and the model provides an answer
+        
+        Parameters
+        ----------
+        
+        request : str
+            Question to ask prompt
+            
+        Returns
+        -------
+        response : str
+            Repsonse to question asked
+        '''
     request = request.replace("uquq", "/")
     messages.append({"role": "user", "content": request})
     response = pipe(messages, max_new_tokens=1000)[0]['generated_text'][-1]
@@ -82,6 +126,19 @@ def request(request):
 
 @app.route('/zero_shot/<question>', methods = ['GET', 'POST'])
 def zero_shot(question):
+    '''Compares two strings and returns a score from 0-100 higher is more similar
+        
+        Parameters
+        ----------
+        
+        question : str
+            prompting the model with two strings to compare
+            
+        Returns
+        -------
+        response : str
+            Integer from 0-100 with the higher being the better
+        '''
     zero = [{"role": "sys", "content": "You are machine to compare two strings. Compare how similar the information contatined in them is. the higher the better. Penalize wordy responese. Only return one integer between 0 and 100. Do not return instructions, decriptions, or code. Only return one integer"}]
     zero.append({"role": "user", "content": "Return the comparison integer only of: " + question})
     response = pipe(zero, max_new_tokens=1000)[0]['generated_text'][-1]
@@ -91,11 +148,22 @@ def zero_shot(question):
 
 @app.route('/getmessages', methods = ['GET'])
 def getmessages():
+    '''Gets message list
+            
+        Returns
+        -------
+        messages : str
+        '''
     return messages
 
 @app.route('/clear', methods = ['GET', 'POST'])
 def clear():
-    
+    '''Clears messages except for sys 
+            
+        Returns
+        -------
+        str
+        '''
     x = len(messages)
     for i in range(x):
         
@@ -106,6 +174,12 @@ def clear():
 
 @app.route("/clear_sys")
 def clear_sys():
+    '''Clears messages
+            
+        Returns
+        -------
+        str
+        '''
     new = []
     for i, ob in enumerate(messages):
         if "system" == ob['role']:
@@ -121,6 +195,18 @@ def clear_sys():
 
 @app.route("/clear_chain/<length>")
 def clear_chain(length):
+    '''Clears messages except for sys and chain of specified length
+
+        Paramters
+        ---------
+
+        length : str
+            Integer length of the chain you do not want to clear
+            
+        Returns
+        -------
+        str
+        '''
     new = messages[0:(int(length))*2 + 2]
     
     x = len(messages)
@@ -134,8 +220,25 @@ def clear_chain(length):
 
 @app.route("/E2E/<str1>/<str2>")
 def E2E(str1, str2):
+    '''Evaluates the cosine simlarity of two strings
+        
+        Parameters
+        ----------
+        
+        str1 : str
+            first string you want to compare
+        str2 : str
+            second string you want to compare
+            
+        Returns
+        -------
+        score : str
+            cosine simlarity of the two strings
+        '''
+    r = Rake()
     str1 = str1.replace("uquq", "/")
     str2 = str2.replace("uquq", "/")
+    key1 = r.extract
     tok = tokenizer([str1,str2], padding="longest")
     vec1 = torch.tensor(tok['input_ids'][0]).unsqueeze(0)
     vec2 = torch.tensor(tok['input_ids'][1]).unsqueeze(0)
@@ -145,5 +248,7 @@ def E2E(str1, str2):
 
     return ""#str(cos(emb1, emb2))
 
+
+# If this file is ran it loads the model 
 if __name__=='__main__':
     app.run(port=7777)

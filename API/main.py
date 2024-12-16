@@ -1,3 +1,8 @@
+# Author : Jackson Dendy 
+# Last Update : 12/16/2024
+# Description : Running this file will intake a jsonl file of questions and chains along with a folder ot text files and 
+# Ask each paper the corresponding questions with each chain it will then save the results to a folder as a jsonl file
+
 from Louis import Louis
 from pathlib import Path
 from nltk.translate.bleu_score import sentence_bleu
@@ -7,41 +12,41 @@ from utility import jsonl_read, makedir
 
 import os, json
 
+## Extract file data
 path_root = Path(__file__).parents[0]
 root = str(Path(__file__).parents[0])
 
-#TODO: Tasks
-'''
-- Add support for PDF interpretation with the OCR
-'''
 # Assigns Root Directory
 directory = root
 
+## Dfine where certain files are and system prompt
 sys = """You are an assistant for answering questions. You are given the extracted parts of a long document and a question. Don't make up an answer. Be very concise and avoid wordy responses. """
 chain_file="gpt4ochain.jsonl"
 #chain_file="testchains.jsonl"
 question_file="test.jsonl"
 
-# Initialize File Structure
+## Initialize File Structure
 test_name = "Test_1"
 results_path = f"{directory}/results/{test_name}"
 results_path = makedir(results_path)
 
 print("Files Initialized Contacting Louis")
-with f open(f"{results_path}//sys.txt", "a"):
+# Records system prompt
+with f open(f"{results_path}/sys.txt", "a"):
     f.write(sys)
     f.close()
 
-# Calls the API I created 
+# Intialize instance of Louis Class
 API = Louis("http://127.0.0.1:7777", sys)
 
+# Extracts a list of dictionarys from jsonl files
 questions = jsonl_read(f"{directory}/questions/{question_file}")
 chains = jsonl_read(f"{directory}/chains/{chain_file}")
 
 # Querys API with questions
 for i, val in enumerate(questions):
 
-    # Opens Files again to prevent atomic bomb
+    # Opens Files again to prevent atomic bomb (total data loss)
     qa = open(f'{results_path}/results.jsonl', "a")
     error = open(f'{results_path}/errors.txt', 'a')
 
@@ -56,7 +61,6 @@ for i, val in enumerate(questions):
     filepath = f"{directory}/questions/test/{val['doi']}"
     
     # Uploads file to API
-   
     state = API.upload(f"{filepath}/text_converted.txt")
     if state == "True":
             print("Uploaded Succesfully")
@@ -67,11 +71,10 @@ for i, val in enumerate(questions):
         else:
             error.write(filepath)
             print("File Failed")
-      
-    
     
     # Large nested loops of order Chains(prompts -> questions(points))
     for c in chains:
+
         # Clears everything except the first 2 entrys (paper and sys) from API cache
         API.clear_chain(1)
         prompts = c['prompts']
@@ -98,8 +101,6 @@ for i, val in enumerate(questions):
 
             # Evaluates String Matching Score
             tk = WhitespaceTokenizer()
-            reference = tk.tokenize(q["answer"])
-            prediction = tk.tokenize(response)
 
             # Rouge Score
             scorer = rouge_scorer.RougeScorer(['rouge1', 'rougeL'], use_stemmer=True)
@@ -108,14 +109,12 @@ for i, val in enumerate(questions):
             rougeL = scores['rougeL'].fmeasure
 
             # reference: https://arxiv.org/abs/2308.04624
-            #E2E
+            #TODO: E2E
             
-            
-
             # LLM Score
             llm_assesment = API.zero_shot(f"String 1 is {answer} and String 2 is {response}")
 
-            point['requests'].append({"question": q['question'], "answer": q['answer'], "response": response, "bleu": bleu_score, 'rouge2':  rouge2, 'rougeL': rougeL, "LLM": llm_assesment})
+            point['requests'].append({"question": q['question'], "answer": q['answer'], "response": response, 'rouge2':  rouge2, 'rougeL': rougeL, "LLM": llm_assesment})
         entry['logs'].append(point)
     qa.write(json.dumps(entry) + "\n")
     qa.close()

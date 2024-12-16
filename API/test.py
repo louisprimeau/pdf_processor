@@ -1,3 +1,7 @@
+# Author : Jackson Dendy 
+# Last Update : 12/16/2024
+# Description : General Test file to just run some one line tests. Nothing here besides junk code.
+
 from Louis import Louis
 from pathlib import Path
 from utility import jsonl_read, makedir, E2E
@@ -6,6 +10,10 @@ from nltk.translate.bleu_score import sentence_bleu
 from nltk.tokenize import WhitespaceTokenizer
 from rouge_score import rouge_scorer
 import os
+from rake_nltk import Rake
+
+
+
 '''
 # Download necessary NLTK data
 nltk.download('punkt_tab')
@@ -53,3 +61,4 @@ print(API.getmessages())'''
 API = Louis("http://127.0.0.1:7777", sys)
 
 print(API.E2E("yes", "no this is coming together now"))
+
