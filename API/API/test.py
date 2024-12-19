@@ -58,7 +58,12 @@ print(API.getmessages())'''
 
 
 # Calls the API I created 
-API = Louis("http://127.0.0.1:7777", sys)
+#API = Louis("http://127.0.0.1:7777", sys)
 
-print(API.E2E("yes", "no this is coming together now"))
+#print(API.E2E("the critical temperature is 30", "31"))
 
+f = "abcdefghi"
+
+f = f[8:]
+
+print(f)

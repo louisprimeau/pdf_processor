@@ -53,7 +53,9 @@ def jsonl_read(file):
     for i in j.readlines():
         try:
             x = json.loads(i)
-            x['doi'] = x['doi'][8:]
+            if x["doi"][8] == "/":
+                x['doi'] = x['doi'][8:]
+                
         except:
             x = json.loads(i)
         questions.append(x)

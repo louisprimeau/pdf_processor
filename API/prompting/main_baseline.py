@@ -1,14 +1,15 @@
 # Author : Jackson Dendy 
-# Last Update : 12/16/2024
+# Last Update : 12/18/2024
 # Description : Running this file will intake a jsonl file of questions and chains along with a folder ot text files and 
 # Ask each paper the corresponding questions with each chain it will then save the results to a folder as a jsonl file
+# This file is made to establish a baseline for the model
 
-from Louis import Louis
+from API import Louis, makedir, jsonl_read
 from pathlib import Path
 from nltk.translate.bleu_score import sentence_bleu
 from nltk.tokenize import WhitespaceTokenizer
 from rouge_score import rouge_scorer
-from utility import jsonl_read, makedir
+
 
 import os, json
 
@@ -64,13 +65,17 @@ for i, val in enumerate(questions):
     state = API.upload(f"{filepath}/text_converted.txt")
     if state == "True":
             print("Uploaded Succesfully")
+            paper = open(state, "r")
     else:
         state = API.upload(f"{filepath}/text.txt")
         if state == "True":
             print("File Succesfully uploaded")
+            paper = open(state, "r")
         else:
             error.write(filepath)
             print("File Failed")
+    paper_string = paper.read()
+    paper.close()
     
     # Large nested loops of order Chains(prompts -> questions(points))
     for c in chains:
@@ -114,8 +119,13 @@ for i, val in enumerate(questions):
             # LLM Score
             llm_assesment = API.zero_shot(f"String 1 is {answer} and String 2 is {response}")
 
-            point['requests'].append({"question": q['question'], "answer": q['answer'], "response": response, 'rouge2':  rouge2, 'rougeL': rougeL, "LLM": llm_assesment})
+            # Sentence Retrival
+            sentence = API.request("Return the sentence you retrieved the answer to the question from. Only display the sentence and no other tokens in the response")
+            sentence_bool = sentence in paper_string
+            point['requests'].append({"question": q['question'], "answer": q['answer'], "response": response, 'rouge2':  rouge2, 'rougeL': rougeL, "LLM": llm_assesment, "sentence": sentence, "sentence_prescense": sentence_bool})
+            
         entry['logs'].append(point)
+
     qa.write(json.dumps(entry) + "\n")
     qa.close()
     error.close()

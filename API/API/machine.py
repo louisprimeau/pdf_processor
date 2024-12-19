@@ -18,8 +18,8 @@ app.secret_key = b'oi_Q))o{7Q,<lH0zf*fndNJUjf>.Uk4J)s0aDawB$!YZhGciacj-~?B4/hUSt
 app.permanent = True
 
 ## Intializes Llama 3.3 Model
-model_sig='8B'
-model_id = "meta-llama/Meta-Llama-3.1-{}-Instruct".format(model_sig)
+#model_sig='8B'
+model_id = "meta-llama/Llama-3.3-70B-Instruct"
 
 bnb_config = BitsAndBytesConfig(
 load_in_4bit=True,
@@ -235,18 +235,31 @@ def E2E(str1, str2):
         score : str
             cosine simlarity of the two strings
         '''
-    r = Rake()
+    pad = 128009
     str1 = str1.replace("uquq", "/")
     str2 = str2.replace("uquq", "/")
-    key1 = r.extract
-    tok = tokenizer([str1,str2], padding="longest")
-    vec1 = torch.tensor(tok['input_ids'][0]).unsqueeze(0)
-    vec2 = torch.tensor(tok['input_ids'][1]).unsqueeze(0)
+    tok = tokenizer([str1,str2])
+    tok0 = tok["input_ids"][0]
+    tok1 = tok["input_ids"][1]
+
+    l_tok0 = len(tok[0])
+    l_tok1 = len(tok[1])
+    dif = abs(l_tok0-l_tok1)
+    pad_vec = [pad]*dif
+
+    if l_tok0 < l_tok1:
+        tok0 += pad_vec
+    else:
+        tok1 += pad_vec
+
+    vec1 = torch.tensor(tok0).unsqueeze(0)
+    vec2 = torch.tensor(tok1).unsqueeze(0)
     emb1 = model(vec1)[0].squeeze()
     emb2 = model(vec2)[0].squeeze()
-    #cos = torch.nn.CosineSimilarity(dim=1)
 
-    return ""#str(cos(emb1, emb2))
+    cos = torch.nn.CosineSimilarity(dim=1)
+
+    return str(cos(emb1, emb2).mean())
 
 
 # If this file is ran it loads the model 
