@@ -1,6 +1,6 @@
 # Author : Jackson Dendy
-# Last Updated : 12/18/2024
-# Description : Retrieves papers based on critical temperature to test a certain sentence retirival accuracy metric
+# Last Updated : 12/20/2024
+# Description : Script to Retrieve papers based on critical temperature to test a certain sentence retirival accuracy metric
 
 from pathlib import Path
 import os, json, sys
@@ -38,11 +38,11 @@ for i in positive_papers:
     if not(i in unique_papers):
         unique_papers.append(i)   
         Nan_papers.append({"doi": i["doi"], "messages": [{"question": "What is the critical temperature of in the paper", "answer": 0}]})
-with open("edit.jsonl", "a") as e:
+with open("crit_temp_paper/edit.jsonl", "a") as e:
     for i in Nan_papers:
         e.write(json.dumps(i)+"\n")
 
-with open("papers.jsonl", "a") as p:
+with open("crit_temp_paper/papers.jsonl", "a") as p:
     for i in unique_papers:
         p.write(json.dumps(i) + "\n") 
    
