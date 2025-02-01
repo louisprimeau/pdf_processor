@@ -4,26 +4,17 @@ from pathlib import Path
 from nltk.translate.bleu_score import sentence_bleu
 from nltk.tokenize import WhitespaceTokenizer
 from rouge_score import rouge_scorer
-
-
 import os, json
 
 class Prompter(Model):
-    '''Child class of Louis. Prompts the model with chains and questions based on dictionarys
+    '''Child class of Model. Prompts the model with chains and questions based on dictionarys
 
         Attributes
         ----------
 
         Prompter.query : func
             runs the evaluation for an LLM
-        Prompter.singe_paper_pp : func
-            Create PP graphs for data for one paper
-        Prompter.batch_paper_pp : func
-            Create PP graphs for data for all papers analyzed
-            
     '''
-
-        
 
     def __init__(self, home, sys, question_file, results_path, paper_dir, r_scores = True, s_retrieval = True, LLM_zeroshot = True, E2E = True, chain_file = None):
         '''Initializes the Prompter class
@@ -77,17 +68,6 @@ class Prompter(Model):
         self.s_retrieval_bool = s_retrieval
         self.LLM_zeroshot_bool = LLM_zeroshot
         self.E2E_bool = E2E
-    
-    def single_paper_pp(self, paper):
-        self.results.open("r")
-
-        result = jsonl_read(self.results_path)
-
-        for i in results:
-            if i == paper:
-                None
-    def batch_paper_pp(self):
-        None
 
     def dynamic_sentence_retrival_chain(self):
         '''Recursivly asks the model for an answer until it can find the sentence the answer came from'''
@@ -159,9 +139,11 @@ class Prompter(Model):
                     answer = q['answer']
 
                     result_point = {"question": q['question'], "answer": q['answer'], "response": response,}
-                    # Evaluates String Matching Score
-                    tk = WhitespaceTokenizer()
-
+                    
+                    # Direct Rating Confidence Score
+                    confidence = self.request("On a scale of 0-100 evaluate your confidence in the accuracy of your response. Only return an integer.")
+                    result_point['confidence'] = confidence
+                    
                     # Sentence Retrival
                     if self.s_retrieval_bool:
                         sentence = self.request("Return the sentence you retrieved the answer to the question from. Only display the sentence and no other tokens in the response. Return the exact string.")
@@ -181,10 +163,12 @@ class Prompter(Model):
                         rougeL = scores['rougeL'].fmeasure
                         result_point['rouge2'] = rouge2
                         results_point['rougeL'] = rougeL
+
                     # reference: https://arxiv.org/abs/2308.04624
-                    #TODO: E2E
+                    #E2E
                     if self.E2E_bool:
-                        None
+                        E2E_score = self.E2E(answer, response)
+                        result_point['E2E'] = E2E_score
 
                     # LLM Score
                     if self.LLM_zeroshot_bool:

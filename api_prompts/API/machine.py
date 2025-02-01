@@ -19,12 +19,13 @@ app.permanent = True
 
 
 
-'''Intializes Meta's LLAMA 3.3 Model
+'''Intializes Meta's LLAMA 3.1 Model
     
     Returns
     -------
     None
 '''
+
 model_sig='8B'
 model_id = f"meta-llama/Llama-3.1-{model_sig}-Instruct"
 
@@ -37,13 +38,11 @@ bnb_4bit_compute_dtype=torch.bfloat16
 
 tokenizer = AutoTokenizer.from_pretrained(pretrained_model_name_or_path = model_id)
 
-
 model = AutoModelForCausalLM.from_pretrained(
 model_id,
 torch_dtype=torch.bfloat16,
 quantization_config=bnb_config,
 device_map="auto",
-
 )
 
 terminators = [

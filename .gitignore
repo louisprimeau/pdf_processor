@@ -11,6 +11,8 @@ llama3.18B-finetunedlp/
 finetune/*.yaml
 extraction/*.json
 processed_data/
-API/results/
-API/questions/
-API/chains/
+api_prompts/prompting/crit_temp/results/
+api_prompts/questions/
+api_prompts/chains/
+api_prompts/conditional_retrival/crit_temp_paper
+api_prompts/test.py

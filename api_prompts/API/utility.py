@@ -5,6 +5,7 @@
 import torch
 import os, json
 from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig, pipeline
+import matplotlib.pyplot as plt
 
 
 def makedir(path):
@@ -93,6 +94,117 @@ def E2E(str1, str2, model):
     cos = torch.nn.CosineSimilarity(dim=1)
     a = 0
     print(cos(emb1.mean(axis=a), emb2.mean(axis=a)))'''
+
+def batch_paper_pp(results_path, threshold_dict):
+    '''
+    tp = correct identified as correct
+    tn = correctly identified as incorrect
+    fp = incorrectly identified as correct
+    fn = incorrectly identified as incorrect
+    precision - tp/fp+tp
+    recall - tp/tp+fn
+    ROC-AUC
+    PR-AUC
+    '''
+    results_file = f"{results_path}/clean_results.jsonl"
+    results_path = makedir(results_path + "/plot_1")
+    with open(results_file, "r") as r:
+        
+        # Read File
+        results = jsonl_read(results_file)
+        chain_number = len(results[0]["logs"])
+
+        #Evaluate Which metrics want to be evaluated
+        metrics_dict = {}
+        for metric in threshold_dict:
+            if metric in results[0]['logs'][0]['requests'][0]:
+                metrics_dict[metric] = threshold_dict[metric]
+            else:
+                metrics_dict[metric] = [0,0]
+
+
+        for i in range(chain_number):
+
+                # Adjust responses for threshholds and plot PR Curves
+            for key, val in metrics_dict.items():
+        
+                precision = []
+                recall = []
+                for j in range(int(val[0]), int(val[1])):
+                    # Evaluate the actual answer and respones
+                        # Evaluate the results 
+                    for paper in results:
+                        qa_list = paper["logs"][i]["requests"]
+                        for q in qa_list:
+                            answer = q["answer"]
+                            response = q['response']
+                            threshhold = float(q[key])
+                            tp = 0
+                            tn = 0
+                            fp = 0
+                            fn = 0
+
+                            try:
+
+                                if "NA" in answer and "NA" in response:
+                                    tn+=1   
+
+                                elif "NA" in response:
+                                    if threshhold < j:
+                                        tn +=1
+                                    else:
+                                        fp+=1
+
+                                elif "NA" in answer:
+                                    if threshhold < j:
+                                        tn += 1
+                                    else:
+                                        fn+=1
+
+                                elif "," in response:
+                                    l_response = [float(i) for i in response.split(",")].sort()
+                                    l_answer = [float(i) for i in answer.split(",")].sort()
+
+                                    if l_answer == l_response:
+
+                                        if threshhold < j:
+                                            tp += 1
+                                        else:
+                                            fn+=1
+                                    else:
+
+                                        if threshhold < j:
+                                            tn +=1
+                                        else:
+                                            fp+=1
+                                else:
+
+                                    if float(response) in [float(i) for i in answer.split(",")]:
+                                        if threshhold < j:
+                                            fn +=1
+                                        else:
+                                            tp+=1
+                                    elif not(float(response) in [float(i) for i in answer.split(",")]):
+                                        if threshhold < j:
+                                            tn +=1
+                                        else:
+                                            fp+=1
+
+                            except ValueError:
+                                raise f"Answer:{answer} or Response{response}: is not a valid for this evaluation metric"
+
+                    if fp > 0 or tp > 0: 
+                        precision.append(tp/(fp+tp))
+                        recall.append(tp/(tp+fn))
+            
+
+                fig, ax = plt.subplots(figsize = (7,7))
+                ax.plot(precision, recall)
+                ax.set_title(f"Precsion Recall Plot: {key}")
+                ax.set_xlabel("Precision")
+                ax.set_ylabel("Recall")
+                fig.savefig(f"{results_path}/batch_PR_Plot_{key}.png")
+                plt.close()
 
 
 class File_handler():
