@@ -29,7 +29,7 @@ The API package allows querying of the LLama 3.1 model in its current state (fut
 
     Model.py
     ---------
-    Contains Model Class. Class that calls an API utlizing the LLamma 3.3 as a means to extract data from research papers
+    Contains Model Class. Class that calls an API utlizing the LLamma 3.1 as a means to extract data from research papers
         
         Attributes
         ----------
