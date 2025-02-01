@@ -21,7 +21,7 @@ Sub_Directory Descriptions
 
 API/
 -----------
-The API package allows querying of the LLama 3.1 model in its current state (future versions may use deepseek and nemotron). The querying aims to extract material properties from a batch of papers.
+The API package allows querying of the LLama 3.1 model. The querying aims to extract material properties from a batch of papers.
 
     machine.py
     ----------
@@ -29,7 +29,7 @@ The API package allows querying of the LLama 3.1 model in its current state (fut
 
     Model.py
     ---------
-    Contains Model Class. Class that calls an API utlizing the LLamma 3.3 as a means to extract data from research papers
+    Contains Model Class. Class that calls an API utlizing the LLamma 3.1 as a means to extract data from research papers
         
         Attributes
         ----------
@@ -98,6 +98,5 @@ Future Plans
 ---------------
 
 - Add dynamic chains for the direct sentence comparison metric. That is when the model says it found data from a sentence that doesnt exist it reprompts the model with the same chain + one question telling it that the sentence doesnt exist.
-- Implement deepseek and nemotron to improve performance over llama
 - Implement PR and AOC evaluation charts for the model. Also add other things for evaluation.
 - Potentially use platt scaling to make the self evaluation confidence scores more meaningful: Need to do more research on what exactly platt scaling is and how to implement it.
