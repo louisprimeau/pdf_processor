@@ -42,6 +42,8 @@ class Model():
             '''
         self.home = home
         self.system = system
+        system = system.replace("\\", "vwvw")
+        system = system.replace("/", "uquq")
         x = requests.get(f"{home}/activate_model/{system}").text
         if not(x == "True"):
             raise("Model not initilized properly")
@@ -77,6 +79,8 @@ class Model():
             ------
             x : str
                 Answer/response to the prompt from the model'''
+        message = message.replace("\\", "vwvw")
+        message = message.replace("/", "uquq")
         x = requests.get(f"{self.home}/request/{message}").text
 
         return x 
