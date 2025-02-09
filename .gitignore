@@ -1,3 +1,11 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore log files
+*.log
+
 *~
 *.json
 elsevier_api.key
