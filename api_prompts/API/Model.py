@@ -1,5 +1,4 @@
 # Author : Jackson Dendy 
-# Last Update : 12/16/2024
 # Description : The File defines the class to be used when calling the API to do things.
 # Desgined to streamline the use of the API.
 

@@ -1,5 +1,4 @@
 # Author : Jackson Dendy 
-# Last Update : 12/20/2024
 # Description : Creates API using Flask. Running this file will intialize the model and enable the use of the rest of the files
 # in this folder.
 
@@ -64,9 +63,14 @@ def pipe(input) -> str:
     '''
 
     output = pipe_call(input, max_new_tokens=1000)[0]['generated_text'][-1]
+    output = output["content"]
+    split_out = output.split("</think>")
+    split_out = [i.rstrip().replace("\n","").replace("\\", "") for i in split_out]
+    output = {"role": "assistant", "content": split_out[1], "thoughts": split_out[0]}
     return output
 
 messages = []
+thoughts = []
 
 @app.route('/')
 def home():
@@ -91,6 +95,9 @@ def activate(prompt):
     for i in range(x):
         
         messages.pop(-1)
+    y = len(thoughts)
+    for j in range(y):
+        thoughts.pop(-1)
     
     prompt = prompt.replace("uquq", "/")
     prompt = prompt.replace("vwvw", "\\")
@@ -142,7 +149,8 @@ def request(request):
     request = request.replace("vwvw", "\\")
     messages.append({"role": "user", "content": request})
     response = pipe(messages)
-    messages.append(response)
+    thoughts.append(response['thoughts'])
+    messages.append({k1:v1 for k1,v1 in response.items() if not(k1 == "thoughts")})
 
     return  response
 
@@ -165,9 +173,8 @@ def zero_shot(question):
     zero = [{"role": "user", "content": "You are machine to compare two strings. Compare how similar the information contatined in them is. the higher the better. Penalize wordy responese. Only return one integer between 0 and 100. Do not return instructions, decriptions, or code. Only return one integer"}]
     zero.append({"role": "user", "content": "Return the comparison integer only of: " + question})
     response = pipe(zero)
-    messages.append(response)
 
-    return  response[0].outputs[0].text
+    return  response["content"]
 
 @app.route('/getmessages', methods = ['GET'])
 def getmessages():
@@ -177,7 +184,16 @@ def getmessages():
         -------
         messages : str
         '''
-    return messages
+
+    output = messages
+    insert_thoughts = thoughts
+    j = -1
+    for i, val in enumerate(output):
+        if val["role"] == "assistant":
+            output[i]['thoughts'] = insert_thoughts[j]
+            j -= 1
+        
+    return output
 
 @app.route('/clear', methods = ['GET', 'POST'])
 def clear():
@@ -188,9 +204,13 @@ def clear():
         str
         '''
     x = len(messages)
-    for i in range(x):
+    for i in range(x-1):
         
         messages.pop(-1)
+
+    y = len(thoughts)
+    for i in range(y):
+        thoughts.pop(-1)
         
     
     return "True"
@@ -203,16 +223,14 @@ def clear_sys():
         -------
         str
         '''
-    new = []
-    for i, ob in enumerate(messages):
-        if "system" == ob['role']:
-            new.append(ob)
+    
     x = len(messages)
     for i in range(x):
         messages.pop(-1)
 
-    for i in new:
-        messages.append(i)
+    y = len(thoughts)
+    for i in range(y):
+        thoughts.pop(-1)
 
     return "True"
 
@@ -230,14 +248,15 @@ def clear_chain(length):
         -------
         str
         '''
-    new = messages[0:(int(length))*2 + 2]
-    
+    length = int(length)
     x = len(messages)
-    for i in range(x):
+    for i in range(x-length+1):
         messages.pop(-1)
 
-    for i in new:
-        messages.append(i)
+    y = len(thoughts)
+    for i in range(y-length):
+        thoughts.pop(-1)
+
 
     return "True"
 
@@ -258,6 +277,7 @@ def E2E(str1, str2):
         score : str
             cosine simlarity of the two strings
         '''
+    # TODO: Change the pad token to deepseek pad
     pad = 128009
     str1 = str1.replace("uquq", "/")
     str2 = str2.replace("uquq", "/")
@@ -283,7 +303,7 @@ def E2E(str1, str2):
 
     cos = torch.nn.CosineSimilarity(dim=1)
 
-    return str(cos(emb1, emb2).mean())
+    return str(float(cos(emb1, emb2).mean().tolist()))
 
 
 # If this file is ran it loads the model 

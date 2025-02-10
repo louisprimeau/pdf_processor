@@ -1,5 +1,10 @@
-from API.utility import jsonl_read, makedir, E2E, File_handler
-from API.Model import Model
+try:
+    from API.utility import jsonl_read, makedir, File_handler
+    from API.Model import Model
+except ModuleNotFoundError:
+    from utility import jsonl_read, makedir, File_handler
+    from Model import Model
+    
 from pathlib import Path
 from nltk.translate.bleu_score import sentence_bleu
 from nltk.tokenize import WhitespaceTokenizer
@@ -138,7 +143,7 @@ class Prompter(Model):
                     print("Question Answered")
                     answer = q['answer']
 
-                    result_point = {"question": q['question'], "answer": q['answer'], "response": response,}
+                    result_point = {"question": q['question'], "answer": q['answer'], "response": response}
                     
                     # Direct Rating Confidence Score
                     confidence = self.request("On a scale of 0-100 evaluate your confidence in the accuracy of your response. Only return an integer.")
@@ -157,12 +162,12 @@ class Prompter(Model):
 
                     # Rouge Score
                     if self.r_score_bool:
-                        scorer = rouge_scorer.RougeScorer(['rouge1', 'rougeL'], use_stemmer=True)
+                        scorer = rouge_scorer.RougeScorer(['rouge2', 'rougeL'], use_stemmer=True)
                         scores = scorer.score(q["answer"], response)
                         rouge2 = scores['rouge2'].fmeasure
                         rougeL = scores['rougeL'].fmeasure
                         result_point['rouge2'] = rouge2
-                        results_point['rougeL'] = rougeL
+                        result_point['rougeL'] = rougeL
 
                     # reference: https://arxiv.org/abs/2308.04624
                     #E2E
