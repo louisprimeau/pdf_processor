@@ -10,7 +10,7 @@ from API import Prompter
 
 
 
-sys = """You are an assistant for answering questions. You are given the extracted parts of a long document and a question. Don't make up an answer and respond with NA if the paper contains insufficient information. Be very concise and avoid wordy responses. Give all responses in a single number with no other charecters."""
+sys = """You are given the extracted parts of a long documents and are expected to find the critical temperature of the requested material. Don't make up an answers and respond with NA if the paper contains insufficient information. Put your chain of thought in between <\\think> and </think> you can be wordy with your thoughts but in your final answer provide one number. It is very important for your final answer to be one number with the proper unit."""
 
 P = Prompter(
             home = "http://127.0.0.1:7777",
