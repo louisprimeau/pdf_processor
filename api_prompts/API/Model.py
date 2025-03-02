@@ -1,5 +1,4 @@
 # Author : Jackson Dendy 
-# Last Update : 12/16/2024
 # Description : The File defines the class to be used when calling the API to do things.
 # Desgined to streamline the use of the API.
 
@@ -42,6 +41,8 @@ class Model():
             '''
         self.home = home
         self.system = system
+        system = system.replace("\\", "vwvw")
+        system = system.replace("/", "uquq")
         x = requests.get(f"{home}/activate_model/{system}").text
         if not(x == "True"):
             raise("Model not initilized properly")
@@ -77,6 +78,8 @@ class Model():
             ------
             x : str
                 Answer/response to the prompt from the model'''
+        message = message.replace("\\", "vwvw")
+        message = message.replace("/", "uquq")
         x = requests.get(f"{self.home}/request/{message}").text
 
         return x 

@@ -1,5 +1,4 @@
 # Author : Jackson Dendy 
-# Last Update : 12/16/2024
 # Description : Supporting functions for files in this folder
 
 import torch
@@ -59,41 +58,6 @@ def jsonl_read(file):
 
     j.close()
     return data
-
-def E2E(str1, str2, model):
-    '''!*Deprecated and moved to machine.py*! Beginning implemtation of cosine simlarity
-        
-        Paramters
-        ---------
-        
-        str1 : str
-            string wanting to be compared
-        
-        str2 : str
-            string wanting to be compared
-        
-        model : UNKOWN
-            Pipline for model 
-            
-        Returns
-        -------
-        None
-        '''
-    model_sig='8B'
-    model_id = "meta-llama/Meta-Llama-3.1-{}-Instruct".format(model_sig)
-    tokenizer = AutoTokenizer.from_pretrained(model_id)
-
-    str1 = tokenizer.encode(str1)
-    str2 = tokenizer.encode(str2)
-    print(str1)
-
-    output = model(str1)[0].squeeze()
-    # only grab output of CLS token (<s>), which is the first token
-    print(output[0])
-    '''
-    cos = torch.nn.CosineSimilarity(dim=1)
-    a = 0
-    print(cos(emb1.mean(axis=a), emb2.mean(axis=a)))'''
 
 def batch_paper_pp(results_path, threshold_dict):
     '''
