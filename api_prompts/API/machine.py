@@ -65,13 +65,9 @@ def run(port, model):
 
         output = pipe_call(input, max_new_tokens=1000)[0]['generated_text'][-1]
         output = output["content"]
-        split_out = output.split("</think>")
-        split_out = [i.rstrip().replace("\n","").replace("\\", "") for i in split_out]
-        output = {"role": "assistant", "content": split_out[1], "thoughts": split_out[0]}
         return output
 
     messages = []
-    thoughts = []
 
     @app.route('/')
     def home():
@@ -96,13 +92,8 @@ def run(port, model):
         for i in range(x):
             
             messages.pop(-1)
-        y = len(thoughts)
-        for j in range(y):
-            thoughts.pop(-1)
         
-        prompt = prompt.replace("uquq", "/")
-        prompt = prompt.replace("vwvw", "\\")
-        messages.append({"role": "user", "content": prompt})
+        messages.append({"role": "system", "content": prompt})
 
         return "True"
 
@@ -146,12 +137,9 @@ def run(port, model):
             response : str
                 Repsonse to question asked
             '''
-        request = request.replace("uquq", "/")
-        request = request.replace("vwvw", "\\")
         messages.append({"role": "user", "content": request})
         response = pipe(messages)
-        thoughts.append(response['thoughts'])
-        messages.append({k1:v1 for k1,v1 in response.items() if not(k1 == "thoughts")})
+        messages.append({"role": "assistant", "content": response})
 
         return  response
 
@@ -175,7 +163,7 @@ def run(port, model):
         zero.append({"role": "user", "content": "Return the comparison integer only of: " + question})
         response = pipe(zero)
 
-        return  response["content"]
+        return  response
 
     @app.route('/getmessages', methods = ['GET'])
     def getmessages():
@@ -187,12 +175,6 @@ def run(port, model):
             '''
 
         output = messages
-        insert_thoughts = thoughts
-        j = -1
-        for i, val in enumerate(output):
-            if val["role"] == "assistant":
-                output[i]['thoughts'] = insert_thoughts[j]
-                j -= 1
             
         return output
 
@@ -208,10 +190,6 @@ def run(port, model):
         for i in range(x-1):
             
             messages.pop(-1)
-
-        y = len(thoughts)
-        for i in range(y):
-            thoughts.pop(-1)
             
         
         return "True"
@@ -228,10 +206,6 @@ def run(port, model):
         x = len(messages)
         for i in range(x):
             messages.pop(-1)
-
-        y = len(thoughts)
-        for i in range(y):
-            thoughts.pop(-1)
 
         return "True"
 
@@ -253,10 +227,6 @@ def run(port, model):
         x = len(messages)
         for i in range(x-length+1):
             messages.pop(-1)
-
-        y = len(thoughts)
-        for i in range(y-length):
-            thoughts.pop(-1)
 
 
         return "True"

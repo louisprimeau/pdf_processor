@@ -41,9 +41,7 @@ class Model():
             '''
         self.home = home
         self.system = system
-        system = system.replace("\\", "vwvw")
-        system = system.replace("/", "uquq")
-        x = requests.get(f"{home}/activate_model/{system}").text
+        x = requests.get(f"{home}//activate_model//{system}").text
         if not(x == "True"):
             raise("Model not initilized properly")
 
@@ -78,8 +76,6 @@ class Model():
             ------
             x : str
                 Answer/response to the prompt from the model'''
-        message = message.replace("\\", "vwvw")
-        message = message.replace("/", "uquq")
         x = requests.get(f"{self.home}/request/{message}").text
 
         return x 
@@ -100,8 +96,6 @@ class Model():
             score : str
                 The cosine similarity of two strings
             '''
-        str1 = str1.replace("/","uquq")
-        str2 = str2.replace("/", "uquq")
         score = requests.get(f"{self.home}/E2E/{str1}/{str2}").text
 
         return score
@@ -120,7 +114,6 @@ class Model():
             x : int
                 Score of similarity from 0-100, higher is more similar
             '''
-        message = message.replace("/", "uquq")
         x = requests.get(f"{self.home}/zero_shot/{message}").text
         return x
         

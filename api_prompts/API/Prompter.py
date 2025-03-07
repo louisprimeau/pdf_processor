@@ -57,18 +57,18 @@ class Prompter(Model):
         else:
             self.chains = chains = jsonl_read(chain_file)
             
-        self.questions= questions = jsonl_read(question_file)
+        self.questions = questions = jsonl_read(question_file)
         self.paper_dir = paper_dir
 
-        results_path = makedir(results_path)
-
+        self.results_path = makedir(results_path)
+        print(f"\nResults can be found at {results_path}\n")
         with open(f"{results_path}/sys.txt", "a") as f:
             f.write(self.system)
             f.close()
 
         self.results = File_handler(f"{results_path}/results.jsonl")
         self.errors = File_handler(f"{results_path}/errors.txt")
-        print(f"Results can be found at {results_path}")
+        
         self.r_score_bool = r_scores
         self.s_retrieval_bool = s_retrieval
         self.LLM_zeroshot_bool = LLM_zeroshot

@@ -197,3 +197,4 @@ class File_handler():
     def close(self):
         if self.isfileopen:
             self.file.close()
+        self.file.flush()

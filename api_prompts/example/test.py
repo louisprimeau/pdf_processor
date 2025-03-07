@@ -28,16 +28,16 @@ for output in outputs:
 
 import sys
 from pathlib import Path
-path_root = Path(__file__).parents[2]
+path_root = Path(__file__).parents[1]
 one_under_path_root = str(Path(__file__).parents[0])
 root = str(path_root)
 sys.path.insert(1, root)
-import Model
+import API
 
 
-model = Model.Model("http://127.0.0.1:7777", "This is just a test for functionality. When I say one you say two. Only respond with the word two and do not include any other tokens in your response.")
-model.request("one")
-print(model.getmessages())
+model = API.Model("http://127.0.0.1:7777", "This is just a test for functionality. When I say one you say two. Only respond with the word two and do not include any other tokens in your response.")
+r = model.zero_shot("String 1 is: one String 2 is: one")
+print(r)
 
 
 
