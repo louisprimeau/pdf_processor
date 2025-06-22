@@ -21,7 +21,7 @@ class Prompter(Model):
             runs the evaluation for an LLM
     '''
 
-    def __init__(self, home, sys, question_file, results_path, paper_dir, r_scores = True, s_retrieval = True, LLM_zeroshot = True, E2E = True, chain_file = None):
+    def __init__(self, home, sys, question_file, results_path, paper_dir, r_scores = True, s_retrieval = True, LLM_zeroshot = True, E2E = True, confidence = True, chain_file = None, verbose = False):
         '''Initializes the Prompter class
             
             Parameters
@@ -51,7 +51,8 @@ class Prompter(Model):
         '''
         L = Model(home, sys)
         self.__dict__ = L.__dict__.copy()
-
+        self.verbose = verbose
+        print(self.getmessages())
         if chain_file == None:
             self.chains = [{"chain": 0, "prompts": []}]
         else:
@@ -61,7 +62,9 @@ class Prompter(Model):
         self.paper_dir = paper_dir
 
         self.results_path = makedir(results_path)
-        print(f"\nResults can be found at {results_path}\n")
+        if self.verbose:
+            print(f"\nResults can be found at {self.results_path}\n")
+
         with open(f"{results_path}/sys.txt", "a") as f:
             f.write(self.system)
             f.close()
@@ -73,6 +76,7 @@ class Prompter(Model):
         self.s_retrieval_bool = s_retrieval
         self.LLM_zeroshot_bool = LLM_zeroshot
         self.E2E_bool = E2E
+        self.confidence = confidence
 
     def dynamic_sentence_retrival_chain(self):
         '''Recursivly asks the model for an answer until it can find the sentence the answer came from'''
@@ -89,8 +93,9 @@ class Prompter(Model):
             self.errors.open("a")
 
             # Clears all prompts except system
-            print(f"Beginning with {val['doi']}")
-            self.clear_sys()
+            if self.verbose:
+                print(f"Beginning with {val['doi']}")
+            self.clear()
 
             qs = val['messages']
 
@@ -101,13 +106,15 @@ class Prompter(Model):
             # Uploads file to API
             state = self.upload(f"{filepath}/text_converted.txt")
             if state == "True":
-                    print("Uploaded Succesfully")
+                    if self.verbose:
+                        print("Uploaded Succesfully")
                     paper = open(f"{filepath}/text_converted.txt", "r")
                     paper_string = paper.read()
             else:
                 state = self.upload(f"{filepath}/text.txt")
                 if state == "True":
-                    print("File Succesfully uploaded")
+                    if self.verbose:
+                        print("File Succesfully uploaded")
                     paper = open(f"{filepath}/text.txt", "r")
                     paper_string = paper.read()
                 else:
@@ -120,11 +127,14 @@ class Prompter(Model):
             for c in self.chains:
 
                 # Clears everything except the first 2 entrys (paper and sys) from API cache
+                
                 self.clear_chain(1)
+                
                 prompts = c['prompts']
                 chain_num = c["chain"]
                 point = {"num": c["chain"], "chain": [], "requests": []}
-                print(f"Initializing Chain {chain_num}")
+                if self.verbose:
+                    print(f"Initializing Chain {chain_num}")
 
                 # Asks prompts and stores data
                 for p in prompts:
@@ -136,18 +146,23 @@ class Prompter(Model):
                 for q in qs:
 
                     # Clears previous question for API cache
-                    self.clear_chain(len(prompts))
-                    print("Asking Question")
+                    self.clear_chain(len(prompts)*2+1)
+                    if self.verbose:
+                        print("Asking Question")
 
                     response = self.request(q['question']) 
-                    print("Question Answered")
+
+                    if self.verbose:
+                        print("Question Answered")
+
                     answer = q['answer']
 
-                    result_point = {"question": q['question'], "answer": q['answer'], "response": response}
+                    result_point = {"question": q['question'], "answer": answer, "response": response}
                     
                     # Direct Rating Confidence Score
-                    confidence = self.request("On a scale of 0-100 evaluate your confidence in the accuracy of your response. Only return an integer.")
-                    result_point['confidence'] = confidence
+                    if self.confidence:
+                        confidence = self.request("On a scale of 0-100 evaluate your confidence in the accuracy of your response. Only return an integer.")
+                        result_point['confidence'] = confidence
                     
                     # Sentence Retrival
                     if self.s_retrieval_bool:
@@ -189,7 +204,10 @@ class Prompter(Model):
             self.results.close()
             self.results.close()
 
-            print(f"Finished with {val['doi']}\n")
+            if self.verbose:
+                print(f"Finished with {val['doi']}\n")
+
+            
 
         
     

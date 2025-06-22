@@ -18,10 +18,11 @@ P = Prompter(
             question_file = '/home/jdendy/pdf_processor/api_prompts/data/questions/crit_temp_questions.jsonl', 
             results_path = '/home/jdendy/pdf_processor/api_prompts/data/results/crit_temp_results/results/crit_temp_data_1',
             paper_dir =  '/home/jdendy/pdf_processor/api_prompts/data/papers/test',
-            E2E = True,
+            E2E = False,
             r_scores = False,
-            s_retrieval = True,
-            LLM_zeroshot = True,
+            s_retrieval = False,
+            LLM_zeroshot = False,
+            confidence = False
             )
 
 P.query()

@@ -36,8 +36,12 @@ import API
 
 
 model = API.Model("http://127.0.0.1:7777", "This is just a test for functionality. When I say one you say two. Only respond with the word two and do not include any other tokens in your response.")
-r = model.zero_shot("String 1 is: one String 2 is: one")
-print(r)
+r = model.request("1")
+r = model.request("2")
+r = model.request("3")
+r = model.request("4")
+model.clear_chain(1)
+print(model.getmessages())
 
 
 
